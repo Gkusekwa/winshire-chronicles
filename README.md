@@ -69,4 +69,6 @@ The story is told first as a **three-book series**, self-published through Amazo
 - Maren knows the Restoration has two leaders before she kills Cassian, from Calder's warning. Lisska can't speak to her, so the warning is physical: the cut chain, a strip of cloth with "TWO" burned into it, and Wren's ribbon.
 - Maren gets into the catacombs because the dying Warden Hale gives her the cellar key.
 - Book 1 has no prologue; it opens on the river.
+- Saltreach is a league of port-cities ruled by the Tide Council at Corsa, with no king and no knights. Everyone still calls it one of the six kingdoms. Its writ barely reaches the Marches, where farms pay their dues to the Dragon Clan.
+- The Dragon Clan breeds and keeps many dragons; only a few are bonded to warriors. Most dragons in the Clan's flights, like the funeral flight in Chapter 2, are unbonded and kept under the Clan's control.
 - Treat undeveloped names, mechanics, history, and plot turns as proposals until they are agreed.

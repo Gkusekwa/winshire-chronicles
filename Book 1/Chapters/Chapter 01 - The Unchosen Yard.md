@@ -21,13 +21,13 @@ Maren Ashdown saw them every morning. She made a point of it.
 
 She fell in the yard twice before the second bell.
 
-The first time was her own fault. The second time was Corwin Brandt's bird.
+The first time was her own fault. The second time was Lucan Haverly's bird.
 
 "Again," said Instructor Pell.
 
-She got up. Sand in her collar, sand in her teeth, a hot line along one forearm where the quarry stone had come through. Brandt was back on his mark already, practice blade low, smiling the way he smiled at the tavern girls in Millbrook and at the chaplain. Behind him, on the fence post nearest the well, Kesh was settling her feathers back into place as if nothing had happened.
+She got up. Sand in her collar, sand in her teeth, a hot line along one forearm where the quarry stone had come through. Haverly was back on his mark already, practice blade low, smiling the way he smiled at the tavern girls in Millbrook and at the chaplain. Behind him, on the fence post nearest the well, Kesh was settling her feathers back into place as if nothing had happened.
 
-Nothing had, really. The falcon hadn't come near her. She had only opened her wings, all at once, at the moment Maren committed her weight to the lunge, and four winters on the river watch had turned her head toward it. On the river, a movement at the edge of your eye was a bolt until it proved it wasn't. Half a heartbeat. Brandt had needed less.
+Nothing had, really. The falcon hadn't come near her. She had only opened her wings, all at once, at the moment Maren committed her weight to the lunge, and four winters on the river watch had turned her head toward it. On the river, a movement at the edge of your eye was a bolt until it proved it wasn't. Half a heartbeat. Haverly had needed less.
 
 "Eyes on the man," Pell said.
 
@@ -39,7 +39,7 @@ A few laughs from the fence. Pell didn't laugh. He was a long-boned, grey-haired
 
 The third time, she watched the man.
 
-He was good. That was the trouble with Brandt; it would have been easier if he weren't. He had quick feet and a wrist like a coachman's whip, and he'd been taught by a master in Ashford before he ever came to Greyhold, and it showed in everything but his patience. He was twenty. He had never had to wait for anything in his life, and so he didn't.
+He was good. That was the trouble with Haverly; it would have been easier if he weren't. He had quick feet and a wrist like a coachman's whip, and he'd been taught by a master in Ashford before he ever came to Greyhold, and it showed in everything but his patience. He was twenty. He had never had to wait for anything in his life, and so he didn't.
 
 She gave him the opening he wanted, a little low on her left, a little slow on the recovery. He took it. She let his blade go past her ribs close enough to feel the air move, and then she was inside his guard before he'd finished being pleased with himself. Pommel to the breastbone. Heel behind his heel. Down.
 
@@ -47,15 +47,15 @@ Sand in his collar now.
 
 The fence went quiet. On her post, Kesh turned her head all the way round and looked at Maren out of one flat gold eye. Then somebody at the back snorted, and somebody else said *oh, well done* in the voice you use for a good throw at skittles, and it was over.
 
-Pell wrote on his slate. He took his time about it. Brandt got up on his own and brushed himself down and offered his hand across the mark, which was the worst part, because he meant it.
+Pell wrote on his slate. He took his time about it. Haverly got up on his own and brushed himself down and offered his hand across the mark, which was the worst part, because he meant it.
 
-"Ashdown takes the bout," Pell said. He tucked the chalk behind his ear. "Brandt takes first lance."
+"Ashdown takes the bout," Pell said. He tucked the chalk behind his ear. "Haverly takes first lance."
 
 Nobody on the fence looked surprised. Pell didn't look at Maren at all. He looked at the falcon, the way you'd check a horse before a long ride, and then at his slate, and then he called the next pair.
 
 ---
 
-She had known he would say it. She had known since spring, since the morning the lists went up for the summer bouts with her name at the bottom, where the late-oath candidates always were, and Brandt's at the top, where the bonded always were.
+She had known he would say it. She had known since spring, since the morning the lists went up for the summer bouts with her name at the bottom, where the late-oath candidates always were, and Haverly's at the top, where the bonded always were.
 
 No rule said first lance went to the bonded. Nobody had to write one. On the chapel wall there was a board with every first lance of Greyhold painted on it in gold, sixty-one names, and Maren had read them all in her first week. Fifty-nine had ridden out with a beast at their side. The other two were from the year of the fever, when there hadn't been enough bonded students left to choose from.
 
@@ -81,7 +81,7 @@ Tobin was waiting for her at the end of the line. He was nineteen, all elbows, u
 
 Tobin opened his mouth and shut it again. It was the most sense she'd had out of him all summer.
 
-Down the line the bonded students were drifting back to their beasts the way people drift back to a fire. There were eleven of them this year. Last year there had been nine. Maren counted them without meaning to, because she counted most things without meaning to: the brindled hound that belonged to the Darrow girl, the long low creature with a badger's stripe that Pell insisted was a marten and nobody believed, Brandt's falcon, a grey cat the size of a calf asleep in the only shade. Each of them with a person beside it who stood a little differently from everyone else. You could see it if you knew how to look. As if they were never quite alone in their own bodies.
+Down the line the bonded students were drifting back to their beasts the way people drift back to a fire. There were eleven of them this year. Last year there had been nine. Maren counted them without meaning to, because she counted most things without meaning to: the brindled hound that belonged to the Darrow girl, the long low creature with a badger's stripe that Pell insisted was a marten and nobody believed, Haverly's falcon, a grey cat the size of a calf asleep in the only shade. Each of them with a person beside it who stood a little differently from everyone else. You could see it if you knew how to look. As if they were never quite alone in their own bodies.
 
 Her father had stood like that.
 
@@ -145,7 +145,7 @@ Then the Darrow girl clicked her tongue, and the hound looked up at her, and the
 
 *The watch below.* Nobody knew what it meant. Maren had asked once, in her first month, and Pell had looked at her the way you look at a horse someone has just told you is lame. "Below the river," he'd said, and walked off. As if the river had anything below it but mud.
 
-She'd asked the chaplain, who said it meant the dead. She'd asked an old knight at the muster, who said it meant the poor. Brandt, when she was new and still asked people things, had told her cheerfully that it was a joke from the old days, and that the founders had kept their wine in the cellars.
+She'd asked the chaplain, who said it meant the dead. She'd asked an old knight at the muster, who said it meant the poor. Haverly, when she was new and still asked people things, had told her cheerfully that it was a joke from the old days, and that the founders had kept their wine in the cellars.
 
 The cellars of Greyhold were locked, and had been for as long as anyone could remember. Students didn't go into them. That was simply how it was, like the oath, and the gate, and first lance.
 
@@ -157,7 +157,7 @@ The bell stopped. The lines broke up and went in to eat.
 
 She went up to the river wall after supper, as she did most evenings when the light was going. It was the old fort wall, broad enough to walk two abreast, and from the north corner you could see a long way up the water to the Old Ruin, a dark lump on its island where the river split. She had poled past that island a thousand times in her years on the river watch and never once set foot on it. Nobody did. There were stories about it. There were stories about everything on this river, and her mother knew all of them.
 
-Brandt was already there.
+Haverly was already there.
 
 He was sitting on the parapet with his boots hanging over the drop and Kesh on his knee, feeding her strips of something from a cloth. He looked up when Maren came round the corner and didn't look embarrassed, which she had to give him.
 
@@ -173,7 +173,7 @@ He was sitting on the parapet with his boots hanging over the drop and Kesh on h
 
 That stopped her. She hadn't expected it.
 
-"He said I'd earn it by autumn." Brandt frowned down at the bird. "I will, too. I'm not saying I won't. But you should have had it today, and I wanted you to know I know that."
+"He said I'd earn it by autumn." Haverly frowned down at the bird. "I will, too. I'm not saying I won't. But you should have had it today, and I wanted you to know I know that."
 
 He had a frank, open face that had never had to hide anything. He would make a good knight, she thought. He would make a good knight and never once wonder why.
 
@@ -185,7 +185,7 @@ Maren leaned on the parapet beside him, not too close. Below them the water ran 
 
 "So's the river." She watched the far bank. The haze had thickened as the day went, and now, in the dusk, there was a dull red under it in two places, low down, like coals under ash. Not stubble. You didn't burn stubble in the dark. "Doesn't stop it drowning people."
 
-Brandt followed her look. He was quiet for a moment.
+Haverly followed her look. He was quiet for a moment.
 
 "That's Clan land, isn't it," he said. "Over there."
 
@@ -199,7 +199,7 @@ Out on the river a lantern was coming across from the Saltreach bank, low and st
 
 She let go of the wall. Kesh watched her do it.
 
-"Goodnight, Brandt," she said.
+"Goodnight, Haverly," she said.
 
 "Goodnight, Ashdown." Then, as she reached the stairs: "You'll be first lance next year."
 

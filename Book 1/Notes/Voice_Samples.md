@@ -1,6 +1,6 @@
 # Voice samples: the opening of Chapter 1
 
-*The same moment written three ways, to choose the series voice. Names like Greyhold and Corwin Brandt are still proposals.*
+*The same moment written three ways, to choose the series voice. Names like Greyhold and Lucan Haverly are still proposals.*
 
 ## A. Grounded and plain (recommended base)
 
@@ -26,7 +26,7 @@ Maren didn't look at it. Looking was begging.
 
 She was twenty-seven. Oldest in the yard by six years. She'd held the river watch through four winters and she could put a boy twice her weight on his back before he'd finished choosing a guard. None of that was on the list the beasts read from.
 
-The brindled thing yawned. Walked. Stopped in front of Corwin Brandt, who had never had to wait for anything, and sat down on his boots.
+The brindled thing yawned. Walked. Stopped in front of Lucan Haverly, who had never had to wait for anything, and sat down on his boots.
 
 The yard cheered. Maren cheered with it. You learned that too.
 
@@ -50,11 +50,11 @@ The school sits on the Hearthmere bank where the water bends. It was a fort befo
 
 Maren fell in it twice before the second bell.
 
-The first time was her fault. The second time was Corwin Brandt's cat.
+The first time was her fault. The second time was Lucan Haverly's cat.
 
 "Again," said Instructor Pell.
 
-She got up. Sand in her collar, sand in her teeth. Brandt was back on his mark already, sword low, smiling the way he smiled at tavern girls and the chaplain. Behind him the cat lay along the fence rail, grey and calf-sized and bored, and watched her with its eyes half shut.
+She got up. Sand in her collar, sand in her teeth. Haverly was back on his mark already, sword low, smiling the way he smiled at tavern girls and the chaplain. Behind him the cat lay along the fence rail, grey and calf-sized and bored, and watched her with its eyes half shut.
 
 It hadn't touched her. It hadn't needed to. It had stood up, that was all, at the moment she committed her weight, and something older than her training had turned her head.
 
@@ -72,7 +72,7 @@ Sand in his collar now.
 
 The fence went quiet. Then the cat yawned, enormously, and somebody snorted, and it was over.
 
-"Ashdown takes the bout," Pell said, and wrote on his slate. "Brandt takes first lance."
+"Ashdown takes the bout," Pell said, and wrote on his slate. "Haverly takes first lance."
 
 She had known he would say it. She had known since spring. She saluted anyway, sword to brow, and walked back to her mark and stood on it.
 

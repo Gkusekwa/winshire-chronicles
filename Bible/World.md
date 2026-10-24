@@ -127,15 +127,17 @@ The six kingdoms differ in government and in their laws on magic, bonding, and k
 
 **Working proposals:** Forests, highlands, and plains where many beasts roam freely. Clans govern through councils of elders. Bonds are sacred, beasts are kin, and hunting or trading beasts is forbidden. Keepers protect beasts and people. The clans tell of Titans at the world's edge, but no one living has seen one; in Book 1 it is only legend. The ancient lion may come from here. Poaching and beast harvesting could bring the Wyldmarch into conflict with Kessmoor and Saltreach.
 
-### Saltreach — kingdom without knights
+### Saltreach — the league everyone calls a kingdom
 
 **Established:** Saltreach has no knights; sellswords, pirates, and outlaws do its fighting.
 
-**Working proposals:** Saltreach is a league of coastal port-cities where trading houses and pirate captains hold power. Protection is often bought. Magic may be hired by contract, and beast markets may include legal trade and illegal trafficking. Sellswords take contracts, pirates control sea routes, and outlaws find refuge. A knight-in-training would have no authority here and would need to earn trust directly. Saltreach companies could be hired by either side of the Dragon Clan’s civil war.
+**Settled:** Saltreach is a **league of port-cities**, the Saltreach League, ruled from Corsa by the **Tide Council** of trading houses and pirate captains. It has no king and no knights, but everyone in Winshire, its own people included, calls it one of the six kingdoms. Its writ is strong on the coast and barely reaches inland: the Marches farms pay their dues to the Dragon Clan, not to the League, which is why outsiders call its northern edge lawless.
+
+**Working proposals:** trading houses and pirate captains hold power in each port. Protection is often bought. Magic may be hired by contract, and beast markets may include legal trade and illegal trafficking. Sellswords take contracts, pirates control sea routes, and outlaws find refuge. A knight-in-training would have no authority here and would need to earn trust directly. Saltreach companies could be hired by either side of the Dragon Clan’s civil war.
 
 ## Factions and radicals
 
-**Established:** Factions such as the Dragon Clan and radical movements exist. The Dragon Clan is a faction, not a kingdom. It lives on the outskirts of the lawless kingdom; Saltreach is the current name for that kingdom in these notes. Its lands lie in the Marches, on the Saltreach side of the river border.
+**Established:** Factions such as the Dragon Clan and radical movements exist. The Dragon Clan is a faction, not a kingdom. It lives on the lawless northern edge of Saltreach, where the League's writ barely reaches. Its lands lie in the Marches, on the Saltreach side of the river border.
 
 **Working proposals:**
 

@@ -5,8 +5,232 @@ POV: Maren
 Part: Part One: Two Banks
 Beats: Maren crosses at dawn on her mother's ferry to learn what burned. Liss Ashdown, thirty years on the river, gossip at Tolly's Staithe, and the island everyone avoids: Liss's story of why nobody lands on it, and the river-watch law that forbids it. Maren has poled past it a thousand times and never set foot there. Her younger brother Tam sends word he's coming home for the harvest fair.
 Echo of the other's story: At the staithe they talk about a Harrow's End farmer who ran two leagues in the dark to his sister's burning farm.
-Status: not started
+Status: first draft
+Draft notes: The morning after Chapters 1 and 2. New minor characters: old Tolly and his eel weirs; Greta, who smokes the eels. Plants: the barge that went downriver in the night with no lights, poled not rowed (the raiders' cart went to the river); the river-watch law against landing on the island, which nobody can explain. Liss knows the Fenns by name from the trade.
 notes -->
 
 ---
 
+On the river they say the ferry is older than the school, and that it was here when the fort was a quarry and the quarry was a hill, and that the first ferryman was a woman, because a man would have built a bridge and the river would have taken it. Nobody knows if this is true. It is the kind of thing ferry people say. But the guide rope is real, and old, and has been spliced so many times that there is probably not an inch of the first rope left in it, and every morning for thirty years Liss Ashdown has put her hand on it before she does anything else, the way some people touch a doorpost.
+
+She was touching it now, in the grey before sunrise, when Maren came down the landing steps.
+
+"You're not on the list," Liss said, without turning round.
+
+"I'm not crossing for trade."
+
+"I didn't think you were." Her mother looked at her then: the boots, the plain wool coat over the school shirt, no badge, no sword. "Does your Instructor Pell know you're out of the walls?"
+
+"He'll know if I'm not back by the second bell."
+
+"Then we'd better be quick." Liss took her hand off the rope. "Get in. Mind the eel boxes. And you're poling, since you've come to be nosy."
+
+---
+
+The ferry was a long flat-bottomed boat, broad as a cart, with a rail along one side and a ring at either end where it ran on the rope. At the Greyhold landing there was a stone jetty and a little ferry house with a red door, where Maren had been born. At the far end there was a timber jetty at Tolly's Staithe, on the Saltreach bank, and a few huts, and the smell of smoke and eels. In between was the Wend.
+
+It was quiet at this hour. Mist lay on the water in a flat white skin, just deep enough to hide your feet, so that standing in the ferry felt like standing on a cloud that smelled of weed. Maren set the pole and leaned and the boat moved out, and the rope came up dripping out of the mist ahead of them and slid through the rings with the small hiss it always made. She had learned to pole on this boat before she could read. It didn't take thinking. Her body did it and left the rest of her free, which was why she'd come.
+
+"You heard about first lance, then," she said.
+
+"Everyone heard about first lance." Liss sat on an eel box with her hands in her sleeves. "Weir's lad was telling the whole landing by supper. Said you put that Haverly boy on his back and Pell gave it to him anyway."
+
+"It's not Haverly's fault."
+
+"I didn't say it was."
+
+"You were going to."
+
+"I was going to say," said her mother mildly, "that the Haverly boy's father bought him a master in Ashford when he was ten and a falcon found him when he was fourteen, and you've had a pole and a river and nothing else your whole life, and you still put him on his back. That's what I was going to say. I'm not going to say it now, because you'll argue."
+
+Maren leaned on the pole. The boat slid. Somewhere off to the left a heron got up out of the mist with a noise like someone shaking out a wet sheet.
+
+"I'm not arguing."
+
+"No," said Liss. "You're counting strokes. You think I don't know what your face does."
+
+---
+
+They were halfway across when the sun came up behind the Saltreach bank and turned the mist gold, and then the mist began to lift in long slow tatters, and the river came out from under it brown and wide and full of light. Upriver, past the bend, three leagues off and a little to the east, the Old Ruin's island sat in the middle of the water like a ship that had run aground in another century. From here you could make out the line of the trees and, above them, the stump of the tower. Nothing else.
+
+Maren looked at it the way she always looked at it, which was without meaning to.
+
+She had poled past that island a thousand times. Four winters on the river watch, out of Northwatch and Redwatch, up and down this stretch in the long patrol boats with three oars a side and a lantern in the bow. You learned every bar and snag on the river. You learned the island too, from the water: the gravel spit at its south end where the current split, the east channel that was faster and the west channel that silted every summer, the place where the old bridge piers broke the surface in a dry year like the backs of drowned animals. You learned not to look at it too long at night. You never landed.
+
+Nobody landed. It was the first thing they taught you, before they taught you to row.
+
+"Ma."
+
+"Mm."
+
+"Why does nobody land on the island?"
+
+Liss looked at her sideways. "You know why. It's the law."
+
+"I know it's the law. I've known it's the law since I was seventeen. I've had it read to me off a board at Northwatch every spring." She leaned on the pole. "*No boat of the river watch shall put in at the island of the Old Ruin, nor any person land there, on pain of dismissal.* I know what it says. I asked why."
+
+"And what did your captain say, when you asked him?"
+
+"He said it was the law."
+
+"Well, then."
+
+"Ma."
+
+Her mother sighed and settled deeper into her coat, which was what she did before a story, and Maren felt something in her own chest loosen a little, because that was what it did before one of her mother's stories, even at twenty-seven, even with the bell coming.
+
+"The law's old," Liss said. "Older than your captain, older than his captain. I don't know where it comes from and I don't think he does either. But the river folk didn't need a law. We've always kept off it. When I was little, your grandmother told me the island was minding something, and you don't walk into someone else's house while they're minding something. That's all. Minding something."
+
+"Minding what?"
+
+"She didn't say. She didn't know. Nobody knows. There's a story." Liss watched the island. "There's always a story. Before your grandmother was born, a boy from the Saltreach side swam out to it on a bet, on a hot day, middle of summer, and climbed up the spit and went in under the trees. His friends waited on the bank. He didn't come out. They waited till dark and then they went home and told his mother, and she went out in a boat with a lantern, and she found him sitting on the spit with his feet in the water. Not hurt. Not a mark on him. He came home with her and he never said a word about what he'd seen. Not that night and not ever after. He lived to be old, they said, and every year on that day he went down to the bank and looked at the island, and then went home."
+
+The rope hissed through the rings.
+
+"That's not a story," Maren said. "That's half a story."
+
+"The good ones usually are," said her mother.
+
+---
+
+Tolly's Staithe had been awake for hours. Fishing people get up before everyone and then pretend they haven't, and by the time the ferry bumped the jetty the eel traps were already up and emptied, and the smoke house was going, and Greta, who smoked the eels, was standing in the door with her arms folded, watching the ferry come in as if it owed her money.
+
+"You're early, Liss."
+
+"I'm on time. Everybody else is late." Her mother stepped onto the jetty with the rope's end and made it fast without looking. "Where's Tolly?"
+
+"Up at Upper Rush with half the staithe, looking at what's left. You'll have seen it."
+
+"We saw it."
+
+"Everybody saw it." Greta's eyes went to Maren and stayed there, and moved over the coat and the school shirt under it, and came back to her face. Maren knew that look. The far bank had a dozen ways of looking at someone from Greyhold, and this was the polite one. "This your girl? The knight?"
+
+"Not a knight yet," said Maren.
+
+"Not one at all, from what I hear." Greta jerked her head toward the river. "Weir's boy runs his mouth on both banks. First lance to the falcon." She almost smiled. "Come in, then. Kettle's on. You'll want to know what happened, since your lot stood on the wall and watched it."
+
+---
+
+The smoke house was hot and dark and smelled so strongly of eel that after a while you stopped smelling it and started tasting it instead. There were half a dozen people in there, fishing folk and a woman Maren didn't know with a baby, all talking at once, the way people talk after a fire, when nobody has slept and the worst is over and the news is still new enough to be worth having.
+
+Maren sat on an upturned crate in the corner with a cup of something hot and brown, and listened.
+
+It came out in pieces. Upper Rush, two leagues upriver of Harrow's End: four farms in a hollow above the water. A crowd of men just on dark, twenty or thirty, with masks and no colours. They'd known which barns. They'd gone straight in and brought the beasts out roped, a pair of grey dray-beasts and an ox-beast and a hound in a cage, and then they'd fired the barns behind them. Nobody killed. Nobody even much hurt, apart from a man who'd tried to stop them and been knocked down with the flat of a sword.
+
+"The flat," said Greta. "Mark that. They didn't want blood. They wanted the beasts."
+
+"It's the Clan," said a big man by the door. "Everyone knows it's the Clan. The old chief's three days dead and they're already taking what they'll need for the fighting."
+
+"The Clan doesn't hide its face," said the woman with the baby.
+
+"The Clan doesn't need a cart, either." That was a thin old man who'd come in behind them, still wet to the knees, with the look of someone who has been walking around a burnt place all morning. Tolly. Maren knew him from the river; he'd sold the watch eels for years and sworn at their wakes for longer. He sat down heavily on a sack. "They had a cart. Big one, iron tyres. You can see where it went."
+
+"Went where?"
+
+"Down to the water."
+
+There was a small silence in the smoke house.
+
+"Could've been going to the ford," said the big man.
+
+"Wasn't the ford. The ford's the other way." Tolly took the cup Greta gave him and held it without drinking. "I'll tell you something else. Middle of the night, after the fires were down, I was out checking the traps, because I couldn't sleep. There was a barge on the river. Going down. No light on her. Not a lantern, not a pipe, nothing."
+
+"Barges go down all night."
+
+"Not without a light, they don't, not on this water. They'd be on the bar below Millbrook before they knew it." Tolly drank at last. "And she wasn't rowing. She was poling. You row a barge down this stretch, you're in a hurry, it sounds like a mill. This was poles. Quiet. Somebody on that boat knew this river like I know it, and didn't want to be heard."
+
+Maren didn't say anything. She put the cup down on the floor between her feet and looked at it.
+
+Poling, down the river, in the dark, without a light. Keeping close to which bank? On the Saltreach side the water was shallower below the Staithe and you'd ground in a hundred yards. On the Hearthmere side there was a deep channel close under the bank all the way to Millbrook, under Greyhold's own wall, under the place where she had stood last night and watched the fires and gone down to meet the ferry.
+
+The river watch would have had a boat out. They always had a boat out. Unless they'd been told not to.
+
+"Anyway," said Greta, "it's done now. And Bel Fenn's all right, and Joss, and the little ones, thank the gods, even if Joss has lost his greys. And that brother of hers turned up, if you'll believe it. Calder Fenn. Ran it."
+
+"Ran what?"
+
+"Ran from Harrow's End. Two leagues in the dark, when he saw the fire. Hob the miller's lad says he got there purple in the face and couldn't speak for a quarter of an hour." Greta shook her head. "Calder Fenn. Never ran anywhere in his life. Never did anything in his life, that one, except pay his dues and mind his cows."
+
+"He's got a little girl," said the woman with the baby. "His wife died. The fever, five years back."
+
+"Everybody's got something," said Greta. "Doesn't make them run."
+
+"I know Ada Fenn," Liss said from across the room. Maren hadn't known she was listening. "Brings me honey in the spring. Sings like a split reed and knows every song on the river. Her son came over once, years ago, with a cart of barley for the Millbrook mill, and wouldn't look at the knights on the landing. Wouldn't look at anyone. Polite. Quiet." She shrugged. "Not the running sort. But it was his sister."
+
+"It was his sister," Greta agreed, and that seemed to settle it, and the talk went on to other things.
+
+Maren sat with her cup going cold and thought about a quiet man who didn't look at knights, running two leagues through the dark toward a fire because it was his sister's. She found she could picture it very clearly, though she had never seen him. A big man, she thought, slow, purple in the face, too late to do anything when he got there, there anyway.
+
+She thought: I stood on the wall.
+
+She picked up the cup and drank the cold brown stuff to the bottom.
+
+---
+
+On the way back the sun was full up and the river was bright and busy. Two barges were coming up from Millbrook under sail with the wind behind them, and a Hearthmere patrol boat was out in the middle of the stream with six oars going and a knight in the bow, rowing hard upriver toward Upper Rush as if there were still something to be done there.
+
+"Now they go," said Liss.
+
+Maren said nothing. She was poling. The boat moved. The rope came up out of the water ahead and slid through the rings and went back down behind.
+
+"There's something else," her mother said after a while. "I nearly forgot. Old Penner from Millbrook came across yesterday with his boat. He had a message from your brother."
+
+"From Tam?"
+
+"Who else is your brother?" Liss pulled a folded scrap of paper out of her sleeve and held it up without giving it to her. "He's coming home for the harvest fair. Five days. He says the smith's letting him off for three days, which I'll believe when he's sitting at my table, and he says, and I'm reading this exactly, *Tell Maren I've something to show her that'll make her eyes pop out.*"
+
+"That sounds like Tam."
+
+"It sounds like trouble is what it sounds like." Liss folded the paper and put it away. "Last time he had something to show you it was a dead pike the size of a dog, and he kept it under his bed for a week."
+
+"He was nine."
+
+"He's nineteen. I don't know that it's made a lot of difference." But her mother was smiling. Then the smile went, and she looked upriver past the bend at the island, and Maren followed her look without meaning to.
+
+It sat there in the sun, small and green and harmless, with the stump of its tower and the water splitting around it white at the south end. A place you could have walked round in an hour. A place you'd never think twice about, if you'd been born anywhere else.
+
+"I'll tell you one more thing about that island," Liss said quietly. "Since you asked. And then I'll not say another word about it, because it's a fine morning and you've a bell to make."
+
+"Go on."
+
+"Your father landed on it once."
+
+Maren's hands stopped on the pole. The boat ran on a little way on its own, and slowed.
+
+"When?"
+
+"Before you were born. Before we were married. He was a boy on the river watch, like you were. They were chasing poachers in the fog and he lost the others and came up on the spit before he knew where he was. He was there all night. He never told anybody but me, and he only told me because I asked him why he wouldn't go near it after, not even in the boat, not even to fish." Liss watched the island. "He said he didn't see anything. He said he lay on the spit all night in the fog, with the water going by on both sides, and he could hear something breathing in the trees. Slow. Like a bellows in a forge. All night long. And in the morning the fog lifted and there was nothing there, and he got back in the boat and rowed home, and he didn't sleep for three days."
+
+"He never said."
+
+"No. He wouldn't have. He was a knight; he'd sworn not to ask what he kept." She said it lightly, the way you say a line of an old song. Then she looked at Maren, and her face was not light at all. "You're poling, girl. We're drifting."
+
+Maren set the pole. The boat moved. Her arms did what they had always done, and the rope hissed through the rings, and the Greyhold landing came up out of the bright water toward them, stone and red door and the high grey wall above, and she counted the strokes all the way in, and got to forty-one, and did not look upriver again.
+
+---
+
+She made the second bell with half a minute to spare and her boots soaked to the ankle.
+
+Pell was at the gate. He looked at the boots. He looked at her. He had a way of looking at you that made you feel he'd already read the whole of the report you were about to give him and found three errors in it.
+
+"Ashdown."
+
+"Instructor."
+
+"You've been across."
+
+There was no point lying to Pell. "Yes, Instructor."
+
+"And what did you learn on the far bank?"
+
+She thought about the masks and the cart and the barge with no light on it, poled not rowed, slipping down the deep channel under this wall. She thought about a river-watch boat that would have been out on the water, and had seen nothing. She thought about a quiet farmer who didn't look at knights.
+
+"That they think we watched," she said.
+
+Pell was quiet for a moment. The yard behind him was filling up; she could hear the beasts, and somebody laughing, and Tobin's voice saying something about breakfast.
+
+"We did," Pell said. "Go and change your boots. You're on the River Road tomorrow. First patrol." He turned away, and then turned back. "And Ashdown. The next time you want to go across, you ask me first, and I'll say no, and then you'll go anyway, and at least I'll know where to send the boat."
+
+He walked off across the sand.
+
+Maren stood in the gate a moment longer, with the river at her back and the yard in front of her, and found that she was smiling, and didn't know why, and stopped.

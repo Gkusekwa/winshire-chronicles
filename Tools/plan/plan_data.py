@@ -16,7 +16,7 @@ def ch(n, title, beats, echo, old=None):
 
 # ---------------- Part One: Two Banks ----------------
 ch(1, "The Unchosen Yard",
-   "Training day at Greyhold. Maren wins her bout against Corwin Brandt, but first lance goes to him because he is bonded. Her father's death explains why she never wanted a bond. During the oath, every bonded beast turns its head toward the ground at the words \"the watch below.\" At dusk, fires burn on the far bank.",
+   "Training day at Greyhold. Maren wins her bout against Lucan Haverly, but first lance goes to him because he is bonded. Her father's death explains why she never wanted a bond. During the oath, every bonded beast turns its head toward the ground at the words \"the watch below.\" At dusk, fires burn on the far bank.",
    "Seven Clan dragons fly south along the river; the students joke about the trouble across the border.", 1)
 ch(2, "Across the River",
    "The same day from the Saltreach bank. The old chief's pyre smoke; the Clan's funeral flight; Ada sings the old song (\"before the six there was one … till the six are one again\"). That night Upper Rush, where Calder's sister Bel lives, is raided for its beasts and burned. Calder finds cart ruts leading to the river and a cut length of beast chain, pockets it, and tells no one.",
@@ -40,7 +40,7 @@ ch(8, "Coldtarn",
    "At the new moon the Clan scatters Haldor's ashes on Coldtarn. Calder carries the village's mourning gift because nobody else will. At the black water Ulric and Arn quarrel in front of everyone and Teo makes them stop. Sigrun tells Calder that Aurveth has outlived two partners and nobody knows how.",
    "In the crowd, a poacher curses a Hearthmere student who freed his catch at Millbrook.")
 ch(9, "Pell's Lesson",
-   "Pell teaches subdue, don't kill, and shows the class why: the beast on the Saltreach road that took his fingers, and the knight who killed it and died of it. Tobin, unbonded and bitter, has a pamphlet with two words on it: \"One again.\" Brandt and Kesh, and the shape of a rivalry that isn't hatred.",
+   "Pell teaches subdue, don't kill, and shows the class why: the beast on the Saltreach road that took his fingers, and the knight who killed it and died of it. Tobin, unbonded and bitter, has a pamphlet with two words on it: \"One again.\" Haverly and Kesh, and the shape of a rivalry that isn't hatred.",
    "News across the water: the Clan nearly came to blows at the old chief's ashes.")
 ch(10, "Whispers in the Hold",
    "Back at Varrhold with the last of the barley, Calder notices strangers among Ulric's men. One of them, a quiet man called Rook, doesn't belong: wrong boots, wrong hands, and he watches the dragons the way a buyer watches horses.",
@@ -84,7 +84,7 @@ ch(22, "Wren",
    "Wren is the only person in Harrow's End who isn't afraid. Lisska adores her. The village elders want Calder gone. Ada admits the old song has a verse her grandmother taught her and made her swear never to sing.",
    "The fishermen at Tolly's Staithe say someone from Greyhold is still out on the island, and the monster hasn't killed her yet.")
 ch(23, "Empty-Handed",
-   "Maren could take a lock of the lion's mane as proof but leaves it in peace. The trial is failed; Brandt passes his.",
+   "Maren could take a lock of the lion's mane as proof but leaves it in peace. The trial is failed; Haverly passes his.",
    "At Greyhold everyone is talking about a farmer bonded to three dragons. No one believes it.", 15)
 ch(24, "Hunted",
    "Everyone wants the dragons: Ulric, Arn, Saltreach sellswords, and strangers paying in Restoration coin. Hob sells Calder's whereabouts. He leaves Wren with Ada and flees into the hills.",
@@ -203,9 +203,9 @@ ch(59, "Orders",
 ch(60, "The Ford Again",
    "Calder tries to bring Ulric and Arn to talk at Teo's ford. Someone makes sure it becomes an ambush.",
    "Knights in boats watch the ford and don't cross.")
-ch(61, "Brandt",
-   "Brandt warns Maren that Rowan will take the lion without her. They talk properly for the first time. He chooses his orders; she understands why.",
-   "Brandt says the Clan's ford meeting ended in blood again.")
+ch(61, "Lucan",
+   "Haverly warns Maren that Rowan will take the lion without her. They talk properly for the first time. He chooses his orders; she understands why.",
+   "Haverly says the Clan's ford meeting ended in blood again.")
 ch(62, "Before the Storm",
    "Harrow's End prepares to flee. Calder stays near the Old Ruin, where the answers might be, and because the Restoration is hunting him: every league between him and Wren keeps her safer.",
    "Smoke from Greyhold's forges; the knights are arming.", 32)
@@ -248,7 +248,7 @@ ch(74, "Fire at the Ruin",
    "Calder and the dragons fight Corvin Vale at the Old Ruin's lock, and can't stop it opening.",
    "Through the earth, the dragons feel something vast beneath them begin to pull against its chains.", 38)
 ch(75, "Through the Cellars",
-   "Greyhold is breached. Kesh is killed, and Brandt dies in Maren's arms: one life between two. Hale, dying, gives her the cellar key. She and Orrun go down.",
+   "Greyhold is breached. Kesh is killed, and Haverly dies in Maren's arms: one life between two. Hale, dying, gives her the cellar key. She and Orrun go down.",
    "Far below, someone is already at the second lock.")
 ch(76, "The Ruin's Lock",
    "Corvin's lock turns. The floor of the Old Ruin falls in, and Calder and the dragons fall with it into the catacombs.",

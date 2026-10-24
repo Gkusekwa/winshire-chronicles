@@ -55,7 +55,7 @@
 
 ## Length
 
-- **No upper limit.** Book 1 is planned as **79 chapters in six parts**, and chapters run as long as their scenes need, roughly **3,500–5,000 words**. Expect **300,000 words or more**.
+- **No upper limit.** Book 1 is planned as **79 chapters in six parts**, and chapters run as long as their scenes need. As a rough estimate, not a target: an average of 3,500–5,000 words a chapter gives **roughly 280,000–400,000 words**. Early chapters near 3,000 words are fine.
 - Length has to come from people, place and consequence: every scene earns its room by changing something or showing someone we'll care about later. Cut anything that only repeats.
 
 ## Names and terms
@@ -64,7 +64,7 @@
 - **Titans** for mountain-sized beasts; **the Last Titan** for the one beneath Hearthmere in Book 1.
 - **The elder Titans** are known to people only as **gods**. Don't call them Titans on the page in Book 1.
 - **The Marches** for the border region; **the Old Ruin** for the ruin on the border river.
-- **The Restoration** (working name) for the antagonist; before chapter 34, always **"the leader,"** one man.
+- **The Restoration** (working name) for the antagonist; before chapter 68, always **"the leader,"** one man.
 - Kingdom names other than Saltreach are working names.
 
 ## Reveals to protect (Book 1)

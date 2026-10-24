@@ -7,6 +7,7 @@ The home of the Winshire books: the series bible and the manuscripts. Keep estab
 - **[Bible/World.md](Bible/World.md):** world history, magic, bonds, beasts and Titans, the six kingdoms, factions, and places.
 - **[Bible/Story.md](Bible/Story.md):** the two protagonists, the lion, the dragons, the Dragon Clan, the Restoration, and the themes.
 - **[Bible/Series_Outline.md](Bible/Series_Outline.md):** the three books, the ending, and the next series.
+- **[Bible/Characters.md](Bible/Characters.md):** profiles of the two protagonists, the lion, and the dragons.
 - **[Book 1/Chapter_Plan.md](Book%201/Chapter_Plan.md):** the chapter-by-chapter plan for Book 1.
 - **[Book 1/Chapters/](Book%201/Chapters/):** the manuscript, one Markdown file per chapter. Each file starts with its planning notes; the prose goes below the line.
 - **[Book 1/Notes/](Book%201/Notes/):** working notes, drafts of scenes, and research.

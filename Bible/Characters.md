@@ -138,6 +138,8 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 | Calder's sister and her husband | **Bel and Joss** | Upper Rush. Joss breeds dray-beasts, hunts for his stolen greys, and is killed (50). |
 | Harrow's End's miller | **Hob** | Prices are how he says hello. Takes Ulric's coin (16) and sells Calder's whereabouts (24). |
 | Calder's cow | **Bramble** | No opinions about the Clan. |
+| Bel and Joss's children | **Pip** (6) and **Nan** (4) | Upper Rush. |
+| Joss's dray-beasts | **Mabbin** and **Old Grey** (stolen), **Sorrel** (the young mare left behind) | Sorrel is the one Calder calms in Chapter 4. |
 | The Restoration's agent in Ulric's hall *(established)* | **Rook** | A quiet hired hand with the wrong boots. Kills Teo (canon: the killer was a Restoration agent); dies at the Ruin before he can be made to talk (72). |
 | Sellsword captain | **Captain Idris Vey** | Saltreach company hired to bring in the dragon farmer (32). |
 

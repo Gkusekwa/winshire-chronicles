@@ -138,6 +138,8 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 | Calder's sister and her husband | **Bel and Joss** | Upper Rush. Joss breeds dray-beasts, hunts for his stolen greys, and is killed (50). |
 | Harrow's End's miller | **Hob** | Prices are how he says hello. Takes Ulric's coin (16) and sells Calder's whereabouts (24). |
 | Calder's cow | **Bramble** | No opinions about the Clan. |
+| Landlord of the Ram's Head | **Brack** | Huge, silent; settles fights by standing up. |
+| The hold's steward | (unnamed) | Sour, ink-fingered; says every levy is damp. |
 | River-watch sergeant at Redwatch | **Sergeant Ottery** | Maren's old sergeant; never gets up for anyone below a captain. Tells her the boats were ordered in on the night of the raid (Chapter 5). |
 | Maren's patrol horse | **Turnip** | Elderly piebald, one white eye, a dried turnip tied to his bridle. What the stables give the late-oath candidates. |
 | Bel and Joss's children | **Pip** (6) and **Nan** (4) | Upper Rush. |

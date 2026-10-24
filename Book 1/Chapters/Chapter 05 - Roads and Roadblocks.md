@@ -6,7 +6,7 @@ Part: Part One: Two Banks
 Beats: Maren's first patrol on the River Road with Pell. A roadblock of hard men with no colours, checking carts for beasts. Travellers talk of a leader who spoke in a Saltreach port and led a raid in Hearthmere on the same day. The patrol is ordered to let the roadblock be.
 Echo of the other's story: A traveller says the Clan's dead chief has a restless brother and two sons who can't stand each other.
 Status: first draft
-Draft notes: The day after Chapter 3, two days after the raid. New: Sergeant Ottery at Redwatch; Maren's patrol horse, Turnip; the roadblock's sergeant (unnamed, polite, recruits with a look). Plant to resolve later (proposal): on the night of the raid the river-watch boats were ordered in by a rider carrying Greyhold's seal. Someone inside Greyhold kept the river clear for the raiders' barge; proposed payoff, a disillusioned knight recruited by the Restoration who opens Greyhold to it in Part Six. The roadblock's licence from the Ashford magistrate is genuine; Rowan's order to let it be comes back by Kesh.
+Draft notes: The day after Chapter 3, two days after the raid. New: Sergeant Ottery at Redwatch; Maren's patrol horse, Turnip; the roadblock's sergeant (unnamed, polite, recruits with a look). Plant to resolve later (proposal): on the night of the raid the river-watch boats were ordered in by a rider carrying Greyhold's seal. Someone inside Greyhold kept the river clear for the raiders' barge; proposed payoff, a disillusioned knight recruited by the Restoration who opens Greyhold to it in Part Six. The roadblock's licence from the Ashford magistrate is genuine and explicitly allows holding any beast that matches a stolen-beast description, against a receipt; that's why Pell can't stop the seizure. Rowan's order to let it be comes back by Kesh. The seal clue (who sent the order, and the payoff) stays a working proposal. The thin man at the shrine is deliberately unnamed: proposed to be Corvin Vale (tall, thin, still and patient, neither young nor old, never raises his voice). Keep that description consistent if he returns.
 notes -->
 
 ---
@@ -123,7 +123,7 @@ Maren couldn't hear them. She could see. She watched the square man reach into h
 
 Pell rode back.
 
-"They have a licence," he said, to all of them. His voice was perfectly flat. "From the magistrate at Ashford. To stop and search traffic on the River Road for stolen beasts, in light of the raids. It's sealed. It's dated three days ago. It appears to be genuine." He looked at Haverly. "Your bird. Can she take a message to Greyhold and bring one back?"
+"They have a licence," he said, to all of them. His voice was perfectly flat. "From the magistrate at Ashford. To stop and search traffic on the River Road for stolen beasts, in light of the raids, and to hold any beast that answers the description of one reported stolen, against a receipt, until the magistrate has looked into it. It's sealed. It's dated three days ago. It appears to be genuine." He looked at Haverly. "Your bird. Can she take a message to Greyhold and bring one back?"
 
 "Faster than any horse," said Haverly, and for once it wasn't boasting; it was just true.
 
@@ -154,6 +154,8 @@ The carrier had papers. He had them out before he was asked; he'd been holding t
 "Safe. You'll have a receipt."
 
 They gave him a receipt. Two of them lifted the crate down off the dray, gently, as if it were full of eggs, and carried it round behind the cart, and out of sight among the trees, and the carrier stood in the road with his receipt in his hand and looked at it as if it had been written in Isvaren.
+
+*Against a receipt, until the magistrate has looked into it.* Maren had heard Pell read it out. Every word of what they were doing was in the licence. That was what made it so hard to watch.
 
 Tobin made a sound in his throat. Up at the front of the patrol, Haverly's horse shifted and Haverly stilled it without seeming to notice. The Darrow girl's hound had its hackles up and was making a noise so low you felt it more than heard it, and the girl had her hand on its neck, and her face had gone very white.
 

@@ -123,7 +123,7 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 
 | Role | Recommended | Alternatives | Notes |
 |---|---|---|---|
-| The twin brothers *(established)* | **Cassian and Corvin Vale** | — | Cassian is the public face who wins people over; Corvin is the hidden strategist. **Maren kills Cassian** at the school's lock at the end of Book 1. Corvin opens the Old Ruin's lock against Calder, survives into Book 2, and is killed in Book 3. |
+| The twin brothers *(established)* | **Cassian and Corvin Vale** | — | Cassian is the public face who wins people over; Corvin is the hidden strategist. **Maren kills Cassian** at the school's lock at the end of Book 1. Corvin opens the Old Ruin's lock against Calder, survives into Book 2, and is killed in Book 3. | *(Working proposal: the twins are identical in face. Corvin is tall, thin, still and patient, neither young nor old, and never raises his voice; he is the unnamed thin man who runs the roadblock in Chapter 5 and knows exactly what Maren is. Cassian has the same face, warm and open.)*
 | The faction's true name | **the Oneward** | Heirs of Winshire, the Covenant of One | From the old song, "before the six, there was one"; their oath is "One again." People still call them "the Restoration." *(Avoid "the Unbound": it is Book 1's working title.)* |
 
 ### Added for the full-length Book 1 plan *(proposed)*

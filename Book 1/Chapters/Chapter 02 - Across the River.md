@@ -219,7 +219,7 @@ Not up toward the lane and the hills and Varrhold. Down. Toward the river.
 
 The Clan didn't use carts. The Clan didn't need to. Anything the Clan wanted, it carried home in the air.
 
-He walked along the ruts a little way, out of the lantern light, and something turned under his boot. He bent and picked it up. A length of chain, five links, as long as his forearm, the last link cut clean through. Not bent, not snapped. Cut. The metal was dark and good and heavier than it should have been, and each link had a mark stamped into it that he didn't know.
+He walked along the ruts a little way, out of the lantern light, and something turned under his boot. He bent and picked it up. A length of chain, five links, as long as his forearm, the last link cut clean through. Not bent, not snapped. Cut. The metal was dark and good and heavier than it should have been, and each link had a mark stamped into it that he didn't know: a small ring of six dots, neat as a smith's, like six seeds laid in a circle.
 
 He'd seen chain like it once, years ago, on a Saltreach barge that came up the Wend selling things nobody in Harrow's End could afford. Beast chain. The kind you used on something that might pull a wall down to get at you.
 

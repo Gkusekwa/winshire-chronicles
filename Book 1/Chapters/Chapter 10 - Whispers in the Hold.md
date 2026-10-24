@@ -9,7 +9,7 @@ Status: first draft
 Draft notes: Eleven days after Chapter 8; the new barley is in, and this is the first of it for the hold's winter. Ulric has been taking on "hired hands" since the funeral. Decided here (proposals):
 - Rook: medium height, a face you forget while you're looking at it, soft clerk's hands with one pale scar across the knuckles, oiled Wendmouth boots with brass eyelets; calls himself a drover from the coast. Kharrak hates him; Lisska won't go near him.
 - The Restoration's mark is a small ring of six dots. It is stamped on every link of Calder's chain (Chapter 2), cut into the pommel of Rook's knife, and echoes the six joined hands on Tobin's pamphlet (Chapter 9).
-- Teo asks Calder to stand witness at the ford meeting with Ulric. Rook, mending a halter nearby, hears the time and place.
+- Teo asks Calder to stand witness at the ford meeting with Ulric. On the ledge Teo speaks low; at the foot of the cliff path he turns and repeats the time and place out loud, three paces from Rook, who is mending a halter by the stable door.
 - Calder sees the mark on Rook's knife, recognises it, and says nothing.
 These carry forward: Chapter 12 (Teo confirms the day), 14 (Calder, on his way to witness, finds Teo's body), 50 (the chain), 58 (Calder sees Rook again), 68 and 72.
 notes -->
@@ -122,7 +122,7 @@ Behind them, at the back of the cave, Aurveth opened one gold eye and looked at 
 
 ---
 
-Teo sat down by the brazier and pulled Calder down beside him, and talked low, with the wind taking his words out over the hollow so that nobody below could have heard them.
+Teo sat down by the brazier and pulled Calder down beside him, and talked low, with the wind taking his words out over the hollow so that nobody below could have heard them. Up here, at least, he was careful.
 
 "I've got him," he said. "Uncle Ulric. I've got him to agree to meet. Not in the hall, not with the two fires and everyone watching. Just him and me and Arn, if I can get Arn to come, which I will. At the ford on Hollow Beck, below the hold, where the Way crosses. Neutral ground. Old ground. My grandfather and his brothers used to settle things there when they were young, before anybody was chief of anything." He was lit up, the way he'd been at Coldtarn, the way of someone who has decided that something will work because it has to. "No men. Six on each side, no more, and they stay back on the banks. Just us in the water. And witnesses."
 
@@ -154,7 +154,9 @@ He thought: he walked out onto the stone at Coldtarn with his hands empty.
 
 He saw the knife on the way down.
 
-They came down the cliff path in the late afternoon, Teo ahead of him talking over his shoulder about the fair and the ford and what he'd say to Arn, and at the bottom, where the path came out onto the yard by the lower stable, a man was sitting on a bucket by the stable door, mending a halter.
+They came down the cliff path in the late afternoon, Teo ahead of him talking over his shoulder about the fair and the ford and what he'd say to Arn, and at the bottom, where the path came out onto the yard by the lower stable, he turned round on the last step, still lit up, and said it again, out loud, in the open, the way you say a thing you're happy about: "Four days after your fair, Fenn. Noon. The ford on Hollow Beck. Don't you dare forget."
+
+And a man was sitting on a bucket by the stable door, three paces away, mending a halter.
 
 The same man. The same halter. As if he hadn't moved all afternoon.
 
@@ -168,11 +170,9 @@ Calder knew that mark. He had seen it every day for a month, without wanting to.
 
 He didn't stop walking. He didn't look again. He didn't do anything at all. He walked past the man on the bucket with his eyes on the stones and his face doing nothing, the way it had done nothing his whole life, and the man went on mending the halter, and Teo went on talking, and they went out across the yard toward the gate.
 
-But he'd been mending the halter by the stable door, Calder thought. By the bottom of the cliff path. All afternoon. And the wind had been coming down the cliff. And Teo had been lit up, and talking, the way he did.
+But he'd been mending the halter by the stable door, Calder thought. By the bottom of the cliff path. Three paces from the last step. And Teo had turned round on that step, lit up, the way he got, and said it out loud.
 
 *At the ford on Hollow Beck. After the fairs. Four days after Harrow's End. At noon.*
-
-He thought he'd heard someone once say that sound carried down a cliff like water. He couldn't remember who.
 
 ---
 

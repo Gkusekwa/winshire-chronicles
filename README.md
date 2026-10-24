@@ -7,12 +7,14 @@ The home of the Winshire books: the series bible and the manuscripts. Keep estab
 - **[Bible/World.md](Bible/World.md):** world history, magic, bonds, beasts and Titans, the six kingdoms, factions, and places.
 - **[Bible/Story.md](Bible/Story.md):** the two protagonists, the lion, the dragons, the Dragon Clan, the Restoration, and the themes.
 - **[Bible/Series_Outline.md](Bible/Series_Outline.md):** the three books, the ending, and the next series.
-- **[Bible/Characters.md](Bible/Characters.md):** profiles of the two protagonists, the lion, and the dragons.
+- **[Bible/Characters.md](Bible/Characters.md):** profiles of the two protagonists, the lion, the dragons, and the supporting cast.
 - **[Bible/Bestiary.md](Bible/Bestiary.md):** the creatures of Winshire: animals, beasts, great beasts (dragons, unicorns, the phoenix), wyverns, and the rest, kingdom by kingdom.
 - **[Bible/Atlas.md](Bible/Atlas.md):** the gazetteer and distances that go with the maps.
 - **[Book 1/Chapter_Plan.md](Book%201/Chapter_Plan.md):** the chapter-by-chapter plan for Book 1.
 - **[Book 1/Chapters/](Book%201/Chapters/):** the manuscript, one Markdown file per chapter. Each file starts with its planning notes; the prose goes below the line.
-- **[Book 1/Notes/](Book%201/Notes/):** working notes, drafts of scenes, and research.
+- **[Book 1/Notes/](Book%201/Notes/):** working notes, drafts of scenes, and research (including the voice samples).
+- **[Book 1/Art/](Book%201/Art/):** chapter-opener art (79 pieces) and the maps: bare front-matter maps, the 79 chapter-end map pages, full maps, and the interactive atlas page.
+- **[Tools/](Tools/):** the scripts that generate the chapter plan, the maps and the art. Edit their data files and rebuild rather than editing the outputs by hand.
 - **[Style_Guide.md](Style_Guide.md):** voice, point of view, and conventions for the prose.
 - **[Publishing.md](Publishing.md):** the self-publishing plan (Amazon KDP and IngramSpark).
 

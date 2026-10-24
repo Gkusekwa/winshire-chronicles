@@ -15,6 +15,14 @@
 - **Wide:** ebook in every store, through IngramSpark or other distributors; no Kindle Unlimited.
 The print editions can be sold everywhere either way.
 
+## Book 1's length and print *(working)*
+
+- Book 1 is planned at **79 chapters, roughly 280,000–400,000 words**, with no upper limit.
+- **Print page count:** at a 6 × 9 trim and about 300 words a page, 300,000 words is about **1,000 pages**, before the 79 chapter-end map pages. That's beyond what most print-on-demand services can bind in one paperback (KDP's limit is in the region of 800-odd pages for a standard paperback; check current limits on both KDP and IngramSpark).
+- **Options when the draft is done:** a larger trim (for example 7 × 10) with a smaller type size, around 400–450 words a page; moving the maps to the end of each Part instead of each chapter; a hardcover through IngramSpark, if its limits are higher; or, as a last resort, splitting the book into two volumes at the end of Part Three.
+- Ebooks have no page limit, so the ebook can carry every chapter map.
+- Decide this once the draft's real length is known.
+
 ## From draft to published book
 
 1. **Finish the draft** of Book 1, working from the series outline.

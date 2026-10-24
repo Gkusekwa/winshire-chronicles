@@ -34,7 +34,7 @@ The beast remains independent and dangerous after bonding; it is not a tame moun
 
 ### The farmer (Calder) — Dragon Clan strand
 
-The farmer is a farmer outside the Dragon Clan. *Established:* he is **aged 28–36 and has a young daughter.** See `Characters.md` for his proposed name, family, and voice. The Clan lives on the outskirts of the lawless kingdom, currently called Saltreach in these notes. It breeds dragons, keeps them under control, and bonds only with dragons.
+The farmer is a farmer outside the Dragon Clan. *Established:* he is **aged 28–36 and has a young daughter.** See `Characters.md` for his proposed name, family, and voice. The Clan lives on the lawless northern edge of Saltreach, where the League's writ barely reaches. It breeds dragons, keeps them under control, and bonds only with dragons.
 
 The civil war has been brewing since the old chief died. **The war is between the dead chief's brother and the dead chief's two sons:** uncle against nephews, each side claiming the right to lead the Clan.
 
@@ -134,7 +134,7 @@ The two protagonists argue these themes from opposite sides. The student has wor
 - How do the twins differ, and can the protagonists reach or divide them?
 - How does the Restoration plan to reach and control the titan beneath Hearthmere, and does it need the lion or the farmer to do it?
 - How do both protagonists become involved with the Restoration, and when does each first realize what it is?
-- Do the protagonists meet as allies, wary strangers, or enemies at the end of Book 1?
+- Do the protagonists meet as allies, wary strangers, or enemies at the end of Book 1? *(Working proposal: wary strangers who already owe each other; see `Book 1/Chapter_Plan.md`.)*
 - What is the lion-like beast’s name, history, multiplication ability, gift, and reason for being feared?
 - How does the lion's growth into a Titan change Maren, and her bond?
 - How do the dragons' growth to Titan class change the farmer?

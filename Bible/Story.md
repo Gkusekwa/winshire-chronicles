@@ -42,7 +42,7 @@ The civil war has been brewing since the old chief died. **The war is between th
 - **The sons' claim:** the **elder son claims by birth** as the chief's heir.
 - **The spark:** the **younger son is killed**, apparently by the uncle's faction, and the long-running struggle becomes open war. The elder son is left to lead his side alone.
 - **The battle (Book 1):** in the battle that follows, the Clan's three bonded warriors die; their dragons are enraged and cause havoc. The farmer is injured in the chaos. No one in known Winshire history has bonded with multiple beasts.
-- **The truth:** the killing was **the Restoration's doing**, so that it could gain the Clan's dragons in the chaos. The killer was a **Restoration agent inside the uncle's faction, or posing as one of his men** *(which of the two is still open)*. Until the reveal, the uncle is blamed.
+- **The truth:** the killing was **the Restoration's doing**, so that it could gain the Clan's dragons in the chaos. The killer was **Rook**, a Restoration agent hired into the uncle's men *(established)*. He dies at the Old Ruin before he can talk, so the proof is lost and the truth waits for Book 2. Until the reveal, the uncle is blamed.
 - **How the truth comes out:** through **a conversation between the twins, overheard by the farmer, right after the twins are revealed and before Book 1's final battle begins.** Book 1 ends soon after, with one twin dead, so the farmer carries the secret into Book 2. *(Working proposal: he overhears it while hiding from Restoration hunters, or the Far-Seer leads him close enough to listen.)*
 - **Book 1: no winner.** The civil war runs through the whole of Book 1 with no winner, only damage and casualties on both sides. It never resolves; it bleeds.
 - **Book 2: the farmer brings the truth, and uncle and nephew unite.** The farmer takes what he heard to the Clan **because the civil war is hurting his own people and village.** Once they know, the uncle and the elder son join against the Restoration. The outsider the Clan hunted becomes the one who ends its war, not for the Clan's sake, but for his village's.
@@ -125,7 +125,6 @@ The two protagonists argue these themes from opposite sides. The student has wor
 - What force draws all three dragons to the farmer at once, and why can he sustain multiple bonds?
 - What are the immediate physical and emotional effects of the threefold bond, and how do they make it feel like a curse?
 - Where and how does the farmer overhear the twins, and does he understand what he heard straight away?
-- Was the killer a Restoration agent inside the uncle's faction, or one posing as his man?
 - What does the uncle and nephew's alliance cost each of them?
 - Who were the three bonded warriors, and how did the Clan’s control of dragons shape their relationships with them?
 - How did the General survive the endings of its two earlier human bonds?

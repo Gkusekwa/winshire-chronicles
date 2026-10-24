@@ -64,4 +64,9 @@ The story is told first as a **three-book series**, self-published through Amazo
 - Throughout Book 1, the Titan beneath Hearthmere is called **the Last Titan**. To ordinary people it is only a legend, which most think is myth; only Hearthmere's rulers and the knightly orders' inner circle know it is real, chained, and powering Hearthmere's magic.
 - Both stories begin in the border region shared by Hearthmere and Saltreach: the school on Hearthmere's side, the farm and the Dragon Clan's lands on Saltreach's side.
 - Both protagonists share one story and one timeline, told in strictly alternating chapters, and their paths converge at the end of Book 1. Throughout, each protagonist's chapters reference events happening to the other (rumors, sightings, news, signs), until they meet.
+- Calder stays near the Old Ruin while his family flees because the Restoration is hunting him; distance is what keeps Wren safe.
+- Teo Varr's killer is **Rook**, a Restoration agent hired into Ulric's men. Rook dies at the Old Ruin before he can talk, so the truth waits for Book 2.
+- Maren knows the Restoration has two leaders before she kills Cassian, from Calder's warning. Lisska can't speak to her, so the warning is physical: the cut chain, a strip of cloth with "TWO" burned into it, and Wren's ribbon.
+- Maren gets into the catacombs because the dying Warden Hale gives her the cellar key.
+- Book 1 has no prologue; it opens on the river.
 - Treat undeveloped names, mechanics, history, and plot turns as proposals until they are agreed.

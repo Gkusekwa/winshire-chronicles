@@ -180,7 +180,9 @@
 - **The civil war never resolves** in Book 1: every Calder chapter shows its damage, with no winner.
 - **Reveal rules:** the leader is one man until chapter 68; the Last Titan is only legend until 45; the gods are only faith; no other Titans; the Restoration's part in Teo's death is only suspicion until 68.
 
-## Proposed answers to the open questions *(working proposals)*
+## Answers to the open questions
+
+*Established (accepted by the author): 1, 3, 4, 5 and 7. Points 2 and 6 remain working proposals.*
 
 1. **Wren** stays with Ada after the bond (22, 24); she is the one person not afraid of the dragons (22, 56); she crosses to Hearthmere on Liss's ferry (64). **Why Calder stays while his family flees (62):** the Restoration is hunting him, so distance is what keeps her safe.
 2. **Why Maren never set foot on the island:** it's forbidden to the river watch by law and avoided by river folk by custom (3, 11).

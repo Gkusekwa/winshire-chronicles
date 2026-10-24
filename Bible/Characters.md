@@ -10,7 +10,7 @@
 
 **Age:** 27
 
-**Gender:** **a woman** *(proposal)*. With the farmer as a man, this gives the series two very different leads. Her path is a knight school and a lion, not a dragon academy, so it stays clear of the *Fourth Wing* comparison. A man works too; see the alternatives above.
+**Gender:** **a woman** *(established)*. With the farmer as a man, this gives the series two very different leads. Her path is a knight school and a lion, not a dragon academy, so it stays clear of the *Fourth Wing* comparison. A man works too; see the alternatives above.
 
 **Why she's at a knight school at 27:** the schools take a few older, unbonded candidates through a "late oath." Before that, Maren spent years in Hearthmere's river watch, patrolling the border river in the Marches. She is the oldest in her year and unbonded, so she's underestimated twice over. She knows the river, the Old Ruin's island, and the far bank better than any instructor.
 
@@ -35,7 +35,7 @@
 
 ## The farmer
 
-*(Called "the farmer boy" in earlier notes. At his age, "the farmer" fits better; see the note at the end.)*
+*Established: the protagonists are adults. The student is a woman (26–30); the farmer is 28–36 and has a young daughter. The notes call him "the farmer."*
 
 **Recommended name:** **Calder Fenn** · *Alternatives:* Tobin Reed, Jory Mosse, Hal Garrow
 
@@ -43,7 +43,7 @@
 
 **Family:**
 - **His mother, Ada Fenn,** who sings the old songs ("before the six, there was one") and knows more of them than anyone in the village.
-- **His daughter, Wren** (9). Her mother, Calder's wife **Senna**, died of fever five years ago. Calder raises Wren with his mother's help.
+- **A young daughter** *(established)*: **Wren** (9, name proposed). Her mother, Calder's wife **Senna**, died of fever five years ago. Calder raises Wren with his mother's help.
 - **His younger sister, Bel,** married into the next village, closer to the Dragon Clan's hold.
 - The family farm sits on the Saltreach side of the border river, in the shadow of the Clan's lands. They sell grain to the Clan's hold.
 
@@ -95,7 +95,3 @@ The Dragon Clan names its dragons. Calder uses those names because they're the o
 - The twin brothers who lead the Restoration.
 - Maren's mentor in the inner circle, and her bonded rival at the school.
 - The Restoration's real name, if "the Restoration" is only a working one.
-
-## Note: "the farmer boy"
-
-The other notes call him "the farmer boy." At 32 he's a grown man, so once these profiles are agreed, the notes should call him **the farmer**, or use his name.

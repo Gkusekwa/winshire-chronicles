@@ -14,12 +14,12 @@
 - **The twins' fates:** one twin is killed at the conclusion of Book 1. The other continues through Book 2 and is killed in Book 3.
 - **The ending:** in the Titan War there is a glimpse of victory in the final battle, but **the Titans win, and everything is destroyed.**
 - **After the fall:** a **remnant** survives, a handful of people the protagonists saved, the seed of what comes next. The lion and the dragons, now Titans, **die protecting people.** With no Titans left, the **bond between beasts and people breaks.** A new beginning follows: the **Age of Elementals.**
-- **The protagonists survive.** By the end of Book 3, the student and the farmer boy are more or less Titans themselves. In the next series they become the **Council of Immortals.**
+- **The protagonists survive.** By the end of Book 3, the student and the farmer are more or less Titans themselves. In the next series they become the **Council of Immortals.**
 - **Hint, then reveal.** Book 3's ending doesn't show every fall; it leaves the reader certain the old world is gone. The next series reveals that **some Titans survived.**
 
 **The shape of the series** *(working proposal)*: each book raises the scale. Book 1 is a war among people over one imprisoned beast. Book 2 is a war among kingdoms over many beasts. Book 3 is a war between the world and its Titans, and the world loses. Through all three, the protagonists stay protectors first: their measure is how many people they save, not how much power they hold. In a story that ends in destruction, that measure is what's left: the lives they saved, and the choices they made.
 
-**Format** *(working proposal)*: each book alternates point-of-view chapters between the student and the farmer boy, converging once they meet. Aim for about 100,000–120,000 words per book.
+**Format** *(working proposal)*: each book alternates point-of-view chapters between the student and the farmer, converging once they meet. Aim for about 100,000–120,000 words per book.
 
 **Working titles** *(proposals, to choose later)*:
 - Book 1: *The Unbound* (from the old verse: "where the old ones walked unbound")
@@ -31,35 +31,35 @@
 
 ## Book 1: the war breaks out, the Titan is freed, the protagonists meet
 
-**Established:** the Restoration's first open war against the kingdoms breaks out; the student and the farmer boy meet; the Titan beneath Hearthmere, known throughout Book 1 as **the Last Titan**, is freed; the book ends with the two protagonists watching it fly.
+**Established:** the Restoration's first open war against the kingdoms breaks out; the student and the farmer meet; the Titan beneath Hearthmere, known throughout Book 1 as **the Last Titan**, is freed; the book ends with the two protagonists watching it fly.
 
 ### Working outline
 
-**Part one: two beginnings.** In the border region, the student trains at a Hearthmere knight school: unbonded, underestimated, given hard duties. Across the border on the Saltreach side, the farmer boy works his family's land in the shadow of the Dragon Clan, where the old chief's death has left his brother, the Clan's best warrior with the larger following, and the chief's two sons circling each other over who should lead. Restoration roadblocks appear on the roads, and people whisper about a leader seen in two places on the same day.
+**Part one: two beginnings.** In the border region, the student trains at a Hearthmere knight school: unbonded, underestimated, given hard duties. Across the border on the Saltreach side, the farmer works his family's land in the shadow of the Dragon Clan, where the old chief's death has left his brother, the Clan's best warrior with the larger following, and the chief's two sons circling each other over who should lead. Restoration roadblocks appear on the roads, and people whisper about a leader seen in two places on the same day.
 
 **Part two: the spark.**
-- *The farmer boy:* the chief's younger son is killed, apparently by the uncle's faction, and the Clan's civil war breaks open. *(Established: it was secretly the Restoration's doing, to gain the dragons.)* The war runs on through the rest of Book 1 with no winner, only damage and casualties. In the battle the three bonded warriors die. Their dragons, torn by the rupture of their bonds and beginning to wither, are drawn to the injured farmer boy and bond with him almost at once, by accident. He wakes bound to three grieving, enraged dragons. It is a curse before it is anything else, and every faction now wants him.
+- *The farmer:* the chief's younger son is killed, apparently by the uncle's faction, and the Clan's civil war breaks open. *(Established: it was secretly the Restoration's doing, to gain the dragons.)* The war runs on through the rest of Book 1 with no winner, only damage and casualties. In the battle the three bonded warriors die. Their dragons, torn by the rupture of their bonds and beginning to wither, are drawn to the injured farmer and bond with him almost at once, by accident. He wakes bound to three grieving, enraged dragons. It is a curse before it is anything else, and every faction now wants him.
 - *The student:* sent to investigate a monster at the Old Ruin, the student meets the ancient lion, which was woken by Restoration hunters. Over repeated, dangerous encounters, the student earns its respect through courage and restraint.
 
-**Part three: the hunt.** The Restoration hunts the farmer boy as proof that one person can hold many bonds, and hunts the lion for its ancient power. The student learns what lies beneath Hearthmere: a Titan in the catacombs, kin to the lion. Hearthmere found it asleep, freed it, chained it, and has lived on its power ever since, and most of its history is built on that secret. **The Restoration exposes it** as part of its case against the regimes; only Hearthmere's rulers and the orders' inner circle knew. *(Working proposal: this is how the student learns it.)*
+**Part three: the hunt.** The Restoration hunts the farmer as proof that one person can hold many bonds, and hunts the lion for its ancient power. The student learns what lies beneath Hearthmere: a Titan in the catacombs, kin to the lion. Hearthmere found it asleep, freed it, chained it, and has lived on its power ever since, and most of its history is built on that secret. **The Restoration exposes it** as part of its case against the regimes; only Hearthmere's rulers and the orders' inner circle knew. *(Working proposal: this is how the student learns it.)*
 
 **Part four: the first war.** The protagonists have heard rumors of each other, but they don't meet until the very end.
 
 **Book 1's ending, in order** *(established)*:
 
 0. **The twins are revealed, right before the battle.** The "leader in two places" was always two men.
-1. **The farmer boy overhears the twins' conversation** about the killing they arranged in the Dragon Clan. Because it comes after the reveal, nothing about the two leaders needs hiding: he sees both men and hears the truth in the same moment. He carries the secret into Book 2.
+1. **The farmer overhears the twins' conversation** about the killing they arranged in the Dragon Clan. Because it comes after the reveal, nothing about the two leaders needs hiding: he sees both men and hears the truth in the same moment. He carries the secret into Book 2.
 2. **The Restoration's first open war against the kingdoms breaks out** in the border region.
 3. **The final battle is fought at the seal** of Hearthmere's catacombs.
 4. **One twin dies, and the seal opens.** The student kills him just as his lock gives way; his brother opens the other lock at the same moment.
-5. **The student and the farmer boy meet** for the first time, underground in the shaking catacombs, which run beneath the border from the school's lock to the Old Ruin's lock.
-6. **The Titan tears free of its chains and flies, and the book ends** with the student and the farmer boy watching it go.
+5. **The student and the farmer meet** for the first time, underground in the shaking catacombs, which run beneath the border from the school's lock to the Old Ruin's lock.
+6. **The Titan tears free of its chains and flies, and the book ends** with the student and the farmer watching it go.
 
 **Notes on the ending** (established items marked; the rest are working proposals):
 - *The bond:* the lion's bond with the student forms during the war, through a real sacrifice. It is the climax of the student's arc in Book 1.
 - *The seal* *(established)*: the catacomb seal needs **two locks opened in two places at the same moment**, which is why only twins could do it. Opening the seal and the Titan breaking its chains are two separate beats, with the protagonists' meeting between them. **Each protagonist fights at a different lock,** one twin each, without knowing the other is there. Two locks, two twins, two protagonists: the final battle is fought on two fronts at once.
 - *How the first twin dies* *(established)*: he is **killed fighting a protagonist, just as his lock gives way,** while **the other twin leads the charge at another location**, the second lock. The lock still breaks as he dies, which is why the seal can still open. The surviving twin now has a personal reason to hate the protagonists.
-- *The student kills him* *(established)*. The student fights at the lock nearest the lion's kin, and it is the student's hand that kills the first twin. In that moment **the lion learns that its kin is now a world destroyer.** **The Titan was not always a destroyer: ages in chains made it one.** For the lion, the discovery is grief as much as horror. It came to Hearthmere for its kin and finds what its kin has become. The farmer boy, meanwhile, fights at the other lock against the twin leading the charge there, and can't stop it opening.
+- *The student kills him* *(established)*. The student fights at the lock nearest the lion's kin, and it is the student's hand that kills the first twin. In that moment **the lion learns that its kin is now a world destroyer.** **The Titan was not always a destroyer: ages in chains made it one.** For the lion, the discovery is grief as much as horror. It came to Hearthmere for its kin and finds what its kin has become. The farmer, meanwhile, fights at the other lock against the twin leading the charge there, and can't stop it opening.
 - *The meeting:* the two protagonists, having fought apart, find each other underground in the catacombs, each with their beast, each the stranger the other has only heard rumors of. Whether they meet as allies, wary strangers, or enemies is open.
 - *The last image:* the Titan breaks free and **flies**. **The Restoration opened the seal to capture the Titan and bind it to its cause, and loses control of it:** the Titan escapes them and everyone else. The last image of Book 1 is the two protagonists, together for the first time, watching it go. As it leaves, Hearthmere's magic begins to fail, because the kingdom's magic was the chained Titan's harnessed power.
 
@@ -76,10 +76,10 @@
 **Established:** from Book 2 on, the other kingdoms are introduced while Hearthmere and Saltreach keep growing. Events unfold in parallel in both kingdoms and intertwine, with effects on the overall story.
 
 *Working proposals:*
-- **Two home kingdoms, two threads.** The student's chapters stay rooted in Hearthmere, the farmer boy's in Saltreach. Each book pairs events across the border that answer each other: a decision in one kingdom becomes a crisis in the other a few chapters later.
+- **Two home kingdoms, two threads.** The student's chapters stay rooted in Hearthmere, the farmer's in Saltreach. Each book pairs events across the border that answer each other: a decision in one kingdom becomes a crisis in the other a few chapters later.
 - **Examples of parallel, intertwined events:**
   - Hearthmere's failing magic drives desperate measures at home, while Saltreach's trading houses start selling magic, beasts, and Titan-hunting contracts to whoever is desperate.
-  - Refugees flee the Titan's path into Saltreach's ports at the same time as Saltreach sellswords are hired to hunt the farmer boy in Hearthmere.
+  - Refugees flee the Titan's path into Saltreach's ports at the same time as Saltreach sellswords are hired to hunt the farmer in Hearthmere.
   - The Dragon Clan's surviving faction makes a move in Saltreach that changes what the Restoration can do in Hearthmere.
 - **Introducing the other four kingdoms** *(established)*. Each enters the story through the Titan's path. The temples it searches for lie across the six kingdoms, so following it leads the protagonists, and the story, into Kessmoor's engineers, Isvaren's colleges, Sarovel's bonded court, and the Wyldmarch's clans. Each kingdom shows a different answer to "what do we do with a Titan?"
 - **Effects on the overall story.** Each parallel pair should change something permanent: an alliance, a law, a death, or a Titan's freedom. This also gives the games their kingdom echoes.
@@ -100,7 +100,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 **The surviving twin** *(established: one twin carries on through Book 2)*. Working proposals:
 - **Half of a legend.** For a whole book, people believed the leader could be in two places at once. Now he can't, and everyone knows why. He has lost his brother and half of what made him feared.
 - **Grief turns to obsession.** He sets out to finish what they began and capture the Titan, so his brother didn't die for nothing. That puts him in a race with the kingdoms.
-- **Uncle and nephew unite** *(established)*. In Book 2 the farmer boy brings the Clan the truth he overheard in Book 1, **because the civil war is hurting his people and village.** The uncle and the chief's elder son then join against the Restoration. The Clan's two sides, which spent Book 1 bleeding each other, turn on the people who set them against each other, and the surviving twin loses the dragons he still hoped to take.
+- **Uncle and nephew unite** *(established)*. In Book 2 the farmer brings the Clan the truth he overheard in Book 1, **because the civil war is hurting his people and village.** The uncle and the chief's elder son then join against the Restoration. The Clan's two sides, which spent Book 1 bleeding each other, turn on the people who set them against each other, and the surviving twin loses the dragons he still hoped to take.
 - **A mirror of the Dragon Clan.** The Clan was torn apart by a family feud; the Restoration is torn apart by a death. Both families are broken by the war they started.
 
 **Hearthmere's history revealed** *(established)*: in Book 2, the story of when and how Hearthmere found and chained its Titan comes out, pieced together from books, scrolls, and an intelligent beast that learned to speak the human tongue.
@@ -109,19 +109,19 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 
 **The temples and the relics** *(established)*. The Titan isn't fleeing; it is moving from place to place, searching for temples and gathering relics.
 - **What the temples are.** Built when the elder Titans put the Titans to sleep, at the end of the old realm, to hold them asleep. **There are six temples and six relics.** **There is one temple in each kingdom,** so following the Titan visits every kingdom. Each holds a relic that is part of the binding.
-- **What the relics do.** Each relic the Titan takes makes it stronger. **Each of five relics holds one sleeper's sleep.**
-- **Each relic taken wakes a Titan** *(established)*. For every relic the Titan acquires, a sleeping Titan awakes and starts causing havoc, which throws the kingdoms into further chaos. Book 2's danger grows with every temple the Titan reaches: one Titan loose, then two, then more. *(Working proposals: each waking Titan rises beneath or near the kingdom over which it slept, so each kingdom's chaos is its own; the waking Titans are confused, wild, and destructive, but not yet coordinated, until the sixth relic gives the Last Titan command of them.)*
+- **What the relics do.** Each relic the Titan takes makes it stronger. **The count:** there were once **seven** relics, six sleep relics (one for each Titan) and the control relic. Hearthmere broke the Last Titan's sleep relic when it woke and chained it, so **six relics remain: five sleep relics and the control relic.** Each of the five holds one sleeper's sleep; the control relic wakes no one.
+- **Each sleep relic taken wakes its Titan** *(established)*. For every sleep relic the Titan acquires, its sleeping Titan awakes and starts causing havoc, which throws the kingdoms into further chaos. Book 2's danger grows with every temple the Titan reaches: one Titan loose, then two, then more. *(Working proposals: each waking Titan rises beneath or near the kingdom over which it slept, so each kingdom's chaos is its own; the waking Titans are confused, wild, and destructive, but not yet coordinated, until the sixth relic gives the Last Titan command of them.)*
 - **The sixth relic** *(established)*: the sixth relic grants **control over the other Titans.** The elder Titans made it as a safeguard, so that if the Titans ever escaped, they could be controlled. The Last Titan turns that safeguard into its weapon: with it, it commands the five it has already woken. **The sixth is the last and hardest relic to reach, and the one every kingdom and the surviving twin want most.**
 - **The sixth temple is in Hearthmere** *(established)*, in the deepest vault of the catacombs, beyond the chains. The Titan can't reach it until the other five relics have made it strong enough, so **Book 2's climax returns to Hearthmere**, the protagonists' home ground, where the Titan was chained.
 - **A race, not a hunt.** Once the protagonists understand the pattern, the hunt becomes a race: reach the next temple first, protect its relic, or at least get the people nearby out before the Titan arrives.
 - **The kingdoms want the relics** for themselves, as a way to control Titans.
 - **The surviving twin follows the same trail,** wanting the relics' power of control for the Restoration.
 
-**The turn** *(established)*. The protagonists realize what the relics are for: each one wakes one of **the five other major Titans, put to sleep ages ago,** and the sixth will let the Last Titan command them all, so that together they can level the world. The songs about it were true after all.
+**The turn** *(established)*. The protagonists realize what the relics are for: each sleep relic wakes one of **the five other major Titans, put to sleep ages ago,** and the sixth will let the Last Titan command them all, so that together they can level the world. The songs about it were true after all.
 
 **Where the five sleep** *(established)*: beneath or near the other kingdoms, each kingdom founded, without knowing it, over a sleeping Titan. **The elder Titans put the Titans to sleep.** Hearthmere's Titan once slept too, until **Hearthmere discovered it, freed it from its sleep, chained it, and harnessed its power.** *(Working proposal: this explains why the elder Titans matter in Book 3: they are the ones who stopped the destroyers once before, and they know what it cost.)*
 
-**Ending** *(established)*: by the end of Book 2 the five sleepers are awake, one for each relic taken, and the Titan takes the sixth relic, gaining control over them. The protagonists understand that no single kingdom can stand against what is coming.
+**Ending** *(established)*: by the end of Book 2 the five sleepers are awake, one for each sleep relic taken, and the Titan takes the sixth relic, gaining control over them. The protagonists understand that no single kingdom can stand against what is coming.
 
 ---
 
@@ -143,7 +143,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 
 **The lion becomes a Titan** *(established: without becoming a destroyer)*. The lion's growth runs through all three books, from an ancient beast that can multiply itself to a Titan in its own right. It becomes a Titan **without becoming a destroyer, the opposite of its kin,** whom ages in chains turned into one. Its kinship with the destroyers is the heart of the student's story: the lion becomes what its kin is, without becoming what its kin does. That is restraint, the theme the student has lived by from the start.
 
-**The dragons become Titan-class.** The farmer boy's three dragons, bonded to him by accident in Book 1, grow to Titan class with the elder Titans' gift. The boy who never chose his bonds now carries the greatest power in the world, and must decide what to do with it.
+**The dragons become Titan-class.** The farmer's three dragons, bonded to him by accident in Book 1, grow to Titan class with the elder Titans' gift. The man who never chose his bonds now carries the greatest power in the world, and must decide what to do with it.
 
 **The last twin dies** *(established: the surviving twin is killed in Book 3)*. Working proposals: he allies with the kingdom that plots to be supreme, offering what he knows about binding Titans, and dies when that plot fails. Or he dies trying to undo what he and his brother set loose, a late, partial redemption. Either way, the Restoration ends before the world does.
 
@@ -160,7 +160,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - **Book 3 only hints at the full destruction.** The ending leaves the reader certain the old world is gone, without showing every fall on the page. It should not read as a disguised victory.
 - **The lion and the dragons die protecting people.** Having become Titans, they spend everything shielding the remnant. Their deaths are the last and greatest act of protection in the series.
 - **No Titans appear to remain, and the beast–human bond breaks.** With the Titans gone, bonding between beasts and people ends everywhere. **The next series reveals that some Titans survived.**
-- **The protagonists survive as near-Titans.** By the end of Book 3, the student and the farmer boy have become more or less Titans themselves. In the next series they become the **Council of Immortals**.
+- **The protagonists survive as near-Titans.** By the end of Book 3, the student and the farmer have become more or less Titans themselves. In the next series they become the **Council of Immortals**.
 - **The Age of Elementals begins.**
 - **Where elementals come from:** the fallen Titans' power breaks apart into the elements. Each element can carry an echo of a beast who died: flame from the Vanguard, wind from the Far-Seer, deep sight from the General, and many-shaped stone from the lion.
 - **The last pages:**
@@ -174,7 +174,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 *Working proposals:*
 - **What happens to the destroyer Titans.** They seem to fall with the world they level: spent in winning, destroyed by each other, or brought down by the dying lion and dragons. Book 3 should make their end believable, while leaving room for the next series' reveal that some survived. Which Titans survive (destroyers, elder Titans, or both) is open.
 - **Why the bond breaks.** Bonding was always Titan-born. The ancient beasts called it a taint because it was Titan power running through mortal bonds. When the Titans seem to be gone, the source fails, and every bond in the world goes silent at once.
-- **How the protagonists become near-Titans and survive** *(established)*. As the lion and the dragons die, their Titan power flows back through the bonds into their partners, in the moment before the bonds break forever. That is why the protagonists survive their beasts' deaths, against the rule that a bonded partner usually dies with the other: the humans inherit what their beasts became. The student carries the lion's power, and the farmer boy carries three dragons' worth. They lose their beasts twice, once in death and once in the bond, and are left as something close to Titans. It could also explain why the farmer boy could hold three bonds: he was always able to carry more than one person should.
+- **How the protagonists become near-Titans and survive** *(established)*. As the lion and the dragons die, their Titan power flows back through the bonds into their partners, in the moment before the bonds break forever. That is why the protagonists survive their beasts' deaths, against the rule that a bonded partner usually dies with the other: the humans inherit what their beasts became. The student carries the lion's power, and the farmer carries three dragons' worth. They lose their beasts twice, once in death and once in the bond, and are left as something close to Titans. It could also explain why the farmer could hold three bonds: he was always able to carry more than one person should.
 - **History repeating** *(established in part)*: the old realm nearly fell to an earlier rising of the Titans, the collapse, until the elder Titans put them to sleep. Book 3's ending repeats it, with no one left to stop it.
 
 ---
@@ -184,7 +184,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 | Thread | Book 1 | Book 2 | Book 3 |
 |---|---|---|---|
 | The lion's growth | Ancient beast; the bond forms through sacrifice | Grows in power; drawn toward its kin | Becomes a Titan, with an elder Titan's gift |
-| The three dragons | The accidental bond, felt as a curse | The dragons grow; the boy learns to live with three personalities | Titan-class, with an elder Titan's gift |
+| The three dragons | The accidental bond, felt as a curse | The dragons grow; the farmer learns to live with three personalities | Titan-class, with an elder Titan's gift |
 | The Restoration | Secret leader, then the twins revealed; opens the seal to capture the Titan and loses control of it; one twin is killed | The surviving twin carries on alone | The last twin is killed |
 | The kingdoms | Divided; Hearthmere and Saltreach at the center | The other four introduced; parallel, intertwined events; race to capture Titans | Unite against the Titans; one plots to be supreme |
 | The Titans | One imprisoned beneath Hearthmere, believed to be the Last Titan | Other Titans revealed; temples and relics; the five sleepers wake | The Titan War; the elder Titans' sacrifice; the Titans win |
@@ -194,11 +194,11 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 
 ## The next series: the Age of Elementals
 
-**Established:** a next series follows, set in the Age of Elementals. The student and the farmer boy, now near-Titans, become the **Council of Immortals**. It reveals that **some Titans survived** the end of Book 3. **Everything about the Council of Immortals is held back for the later books;** Books 1–3 don't reveal or name it.
+**Established:** a next series follows, set in the Age of Elementals. The student and the farmer, now near-Titans, become the **Council of Immortals**. It reveals that **some Titans survived** the end of Book 3. **Everything about the Council of Immortals is held back for the later books;** Books 1–3 don't reveal or name it.
 
 *Working proposals:*
 - **The Council of Immortals** is made of people who remember the age of Titans and bonds. It could guide, guard, or rule the remnant's descendants. A council of two is small: others could join, or it could grow from the remnant.
-- **The protagonists carry their beasts.** The student carries the lion's many-shaped strength, and the farmer boy carries the dragons' fire, sight, and wind. Each could have a link to the elementals that came from them.
+- **The protagonists carry their beasts.** The student carries the lion's many-shaped strength, and the farmer carries the dragons' fire, sight, and wind. Each could have a link to the elementals that came from them.
 - **A world without bonds.** For the first time, people and beasts live without bonding. Sentient beasts survive the fall, but people can no longer talk with them; they share the world as strangers. Elementals bring a new kind of magic, and new questions about who controls it.
 - **The Council as the last interpreters** *(a reveal for the later books)*. The near-Titan protagonists may be the only ones who can still hear beasts, a remnant of their bonds. It must stay hidden in Books 1–3, so the last pages of Book 3 keep their full weight: as far as anyone knows, people and beasts can no longer understand each other. Revealed later, it would make the Council the last link between people and sentient beasts.
 - **The surviving Titans.** Where they hid, whether they are destroyers or elder Titans, and why they stayed hidden could drive the whole next series. The Council of Immortals, near-Titans themselves, may be the only ones who can face them.
@@ -210,7 +210,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 ## Open series questions
 
 - How did the Restoration expect to capture and bind the Titan, and is anyone among the protagonists partly responsible for the seal opening?
-- How does the Clan come to believe the farmer boy in Book 2?
+- How does the Clan come to believe the farmer in Book 2?
 - What sacrifice forms the lion's bond in Book 1?
 - What does each relic look like?
 - When did Hearthmere find and chain its Titan? (Revealed in Book 2.)
@@ -220,7 +220,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - What does it cost the lion and the dragons to become Titans, and does it change their bonds?
 - Which kingdom plots to be supreme, and does its betrayal cause the defeat?
 - Which Titans survive the end of Book 3, and how do they stay hidden?
-- How exactly do the student and the farmer boy become near-Titans, and what does immortality cost them?
+- How exactly do the student and the farmer become near-Titans, and what does immortality cost them?
 - What happens to the destroyer Titans at the very end?
 - What are elementals: beings, a new kind of magic, or both? How do people first encounter them?
 - Does the Age of Elementals get its own books or games?

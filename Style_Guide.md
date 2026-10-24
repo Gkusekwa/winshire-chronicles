@@ -4,7 +4,7 @@
 
 ## Point of view and structure *(established)*
 
-- Two protagonists, **strictly alternating chapters**: odd chapters follow the student, even chapters the farmer boy (Book 1).
+- Two protagonists, **strictly alternating chapters**: odd chapters follow the student, even chapters the farmer (Book 1).
 - Each protagonist's chapters **reference events happening to the other**: rumors, sightings, news, signs. The reader knows more than either protagonist until they meet.
 
 ## Voice *(proposals)*
@@ -13,7 +13,7 @@
 - **Past tense.**
 - **Two distinct voices:**
   - *The student:* disciplined, observant, measured; trained to read danger and hold back. Sentences tighten under pressure.
-  - *The farmer boy:* plainer, earthier, practical; thinks in weather, soil, animals, and his village. After the bond, his chapters are crowded by three other minds.
+  - *The farmer:* plainer, earthier, practical; thinks in weather, soil, animals, and his village. After the bond, his chapters are crowded by three other minds.
 - **Dragon and bond speech** (mind to mind) in *italics*, with no quotation marks.
 - **Grounded fantasy:** rough stone, mud, wool, smoke. Magic and beasts should feel like they belong in a real, weathered world.
 
@@ -34,7 +34,7 @@
 
 - Don't reveal that the Restoration has two leaders before chapter 34.
 - Don't reveal that other Titans exist; the Last Titan is only legend until chapter 25.
-- Don't reveal the Restoration's part in the Dragon Clan killing until the farmer boy overhears it in chapter 34.
+- Don't reveal the Restoration's part in the Dragon Clan killing until the farmer overhears it in chapter 34.
 - Nothing about the Council of Immortals, ever, in Books 1–3.
 
 ## Manuscript files

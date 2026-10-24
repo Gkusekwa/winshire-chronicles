@@ -8,6 +8,8 @@
 
 **Name** *(established)*: **Maren Ashdown**
 
+**Looks** *(from the drafts)*: tall and dark, darker than her fair brother Tam.
+
 **Age:** 27 *(established range 26–30)*
 
 **Gender:** **a woman** *(established)*. With the farmer as a man, this gives the series two very different leads. Her path is a knight school and a lion, not a dragon academy, so it stays clear of the *Fourth Wing* comparison.
@@ -81,6 +83,8 @@ The Dragon Clan names its dragons. Calder uses those names because they're the o
 | **The Vanguard** | **Kharrak** | Brann, Torr | He. Broad, scarred, battle-trained. Speaks in short, hard bursts; thinks restraint is cowardice; fiercely protective once he trusts. |
 | **The Far-Seer** | **Lisska** | Pell, Siv | She. Lean, quick, restless. Jokes to avoid grief, notices everything, and wanders into trouble. |
 
+**Aurveth's partners** *(from Chapter 8; working)*: Sigrun is her third. Her second was Ragnald Holm, sixty-one years ago; she survived his death, lying a year on Coldtarn's shore. Her first is older than the hold's memory, and she won't answer when asked. Sigrun thinks she has been waiting a long time for something.
+
 **Mind-speech on the page:** each dragon should sound different even in italics:
 - *Aurveth:* long, measured sentences.
 - *Kharrak:* fragments.
@@ -142,11 +146,16 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 | Saltreach boatman and poacher | **Gannet** | Out of Wendmouth. Long, thin, silver earrings, a smile that arrives first. Swears to take his grievance "across the river" (Chapter 7). |
 | Landlord of the Ram's Head | **Brack** | Huge, silent; settles fights by standing up. |
 | The hold's steward | (unnamed) | Sour, ink-fingered; says every levy is damp. |
+| Haldor's father, chief before him | **Rurik Varr** | Named at Coldtarn. |
+| The Clan's priest | (unnamed) | Old, grey, with a staff; asks "Who pours?"; noticed the crooked border on Ada's cloth. |
+| Ewe Hollow wool-carters | **Tuft and Fell** | Brothers; talk about sheep for two days straight. |
+| Pell's friend at Ashford Keep | **Aldo Venn** *(dead)* | Killed the bonded wyvern that took Pell's fingers; walked into the sea at Stillhaven a year later. |
+| Aurveth's second partner | **Ragnald Holm** *(dead)* | Sigrun's great-uncle; killed in a rockfall sixty-one years ago. Aurveth lay on Coldtarn's shore a year and didn't wither. |
 | River-watch sergeant at Redwatch | **Sergeant Ottery** | Maren's old sergeant; never gets up for anyone below a captain. Tells her the boats were ordered in on the night of the raid (Chapter 5). |
 | Maren's patrol horse | **Turnip** | Elderly piebald, one white eye, a dried turnip tied to his bridle. What the stables give the late-oath candidates. |
 | Bel and Joss's children | **Pip** (6) and **Nan** (4) | Upper Rush. |
 | Joss's dray-beasts | **Mabbin** and **Old Grey** (stolen), **Sorrel** (the young mare left behind) | Sorrel is the one Calder calms in Chapter 4. |
-| The Restoration's agent in Ulric's hall *(established)* | **Rook** | A quiet hired hand with the wrong boots. Kills Teo (canon: the killer was a Restoration agent); dies at the Ruin before he can be made to talk (72). |
+| The Restoration's agent in Ulric's hall *(established)* | **Rook** | A quiet hired hand with the wrong boots. Kills Teo (canon: the killer was a Restoration agent); dies at the Ruin before he can be made to talk (72). | *(From Chapter 10:)* medium height, a face you forget while you're looking at it, soft clerk's hands with a pale scar across the right knuckles, oiled Wendmouth boots with brass eyelets; claims to be a coast drover; his knife pommel carries the Restoration's ring of six dots. Kharrak hates him; Lisska won't go near him. He overhears Teo name the time and place of the ford meeting.
 | Sellsword captain | **Captain Idris Vey** | Saltreach company hired to bring in the dragon farmer (32). |
 
 ### Places

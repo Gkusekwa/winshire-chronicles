@@ -38,6 +38,7 @@ The farmer is a farmer outside the Dragon Clan. *Established:* he is **aged 28â€
 
 The civil war has been brewing since the old chief died. **The war is between the dead chief's brother and the dead chief's two sons:** uncle against nephews, each side claiming the right to lead the Clan.
 
+- **Coldtarn** *(from Chapter 8)*: the Clan scatters its chiefs' ashes on Coldtarn, a black tarn that never freezes, at the new moon after an eleven-day pyre. The eldest son pours by custom; the champion pours "when there's doubt". At Haldor's, Ulric claims the pour and Arn reaches for his sword; Teo makes them pour together, one hand each. The dragons sit silent on the rim and then cry all together.
 - **Two fires** *(from Chapter 6)*: during the thirty days of mourning the hold splits into Ulric's men (east, plain grey) and Arn's (west, grey with a red thread), with an empty chair between the two high tables. Teo walks the space between them. Ulric really did lead the shore at Gullhaven in the coast raids; the songs give it to Haldor.
 - **The uncle's claim:** even while his brother ruled, the uncle always had more followers, and he is the better warrior in the Clan. Many believe leadership should go to the strongest, not to the chief's blood.
 - **The sons' claim:** the **elder son claims by birth** as the chief's heir.

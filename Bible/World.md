@@ -119,6 +119,8 @@ The six kingdoms differ in government and in their laws on magic, bonding, and k
 
 **Working proposals about the kingdom:** Hearthmere is a natural home for the student’s school. Bonded and unbonded knights serve as equals, and magic is licensed. Farmland, roads, river towns, castles, and training grounds make it a useful place to introduce knightly duties and everyday stakes. Its neutrality could be strained by the Dragon Clan’s war and neighboring kingdoms.
 
+**The knightly orders** *(from the drafts)*: the first rule after the oath is **"Subdue, don't kill"**, carved over Greyhold's armoury door: never kill a beast if there is any other way, because you can't know who else you're killing. Greyhold isn't the only school: **Ashford Keep** was another, now closed. Reports go up to the knight-captains; *Noted.* means read, understood, and not acted on.
+
 ### Isvaren — kingdom of scholars
 
 **Working proposals:** High colleges of magic rule Isvaren. Learned magic determines rank, and bond gifts are treated as untrained or “wild” power. Wardens enforce college law. Towers, libraries, observatories, and excavated ruins could hold clues to the old realm or the ancient lion. The colleges may seek to study the farmer, possibly against his will.
@@ -145,6 +147,8 @@ The six kingdoms differ in government and in their laws on magic, bonding, and k
 - Kessmoor purists may want magic banned throughout the world.
 - Militant Keepers may attack poachers and beast traders.
 - Bond-forcers bind beasts and take their gifts without consent. A binding imitates a bond but is not one: no understanding, no mind-speech, no shared life (see `Bestiary.md`).
+
+**The Restoration's mark** *(from Chapters 2, 9, 10)*: a small **ring of six dots**, stamped on its beast chains and cut into its people's gear; its pamphlets show six hands joined in a ring over the words **"One again."**
 
 **The Restoration (established antagonist):** a faction that wants to restore the old realm of Winshire by overthrowing the current regimes, capturing beasts through raids, roadblocks, and camps, and finding an ancient, powerful beast to aid its cause. See `Story.md` for its proposed beliefs, methods, and links to the Dragon Clan war. The bond-forcers above may be its methods rather than a separate group.
 

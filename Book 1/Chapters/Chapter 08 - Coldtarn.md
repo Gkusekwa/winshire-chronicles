@@ -5,8 +5,210 @@ POV: Calder
 Part: Part One: Two Banks
 Beats: At the new moon the Clan scatters Haldor's ashes on Coldtarn. Calder carries the village's mourning gift because nobody else will. At the black water Ulric and Arn quarrel in front of everyone and Teo makes them stop. Sigrun tells Calder that Aurveth has outlived two partners and nobody knows how.
 Echo of the other's story: In the crowd, a poacher curses a Hearthmere student who freed his catch at Millbrook.
-Status: not started
+Status: first draft
+Draft notes: The new moon falls about twelve days after Chapter 2. Calder rides up on the Ewe Hollow wool cart. Harrow's End's gift is a mourning cloth Ada wove. The quarrel: who pours the ashes, the eldest son (custom) or the chief's brother (the Clan's champion). Teo's answer: they pour together, one hand each on the urn. Decided here (proposal): Aurveth's second partner was Sigrun's great-uncle Ragnald Holm, dead sixty years; Aurveth lay on Coldtarn's shore a full year and didn't wither. Her first partner is older than anyone's memory, and she won't say who. The poacher is one of Gannet's boatmen, come up to complain to Ulric's men.
 notes -->
 
 ---
 
+The Clan says Coldtarn has no bottom. Children are told that if you drop a stone in the middle it falls forever, and that the dead go down after it, slowly, all the chiefs and warriors of four hundred years, sinking through the black water side by side in the order they died, so that somewhere far below there is a long, quiet line of them, still falling. Children are also told not to swim in it. Every year one of them does anyway, on a dare, in high summer, and comes out blue and gasping and changed, and never goes in again.
+
+It is the coldest water in the Six Kingdoms, the Clan says. It doesn't freeze. It's too deep to freeze. It lies in its cup of black rock above the falls of Hollow Beck like an eye that never shuts, and the dragons won't drink from it, and the Clan burns its dead on its shore and gives them to it, and has done since before the hold had a name.
+
+---
+
+Nobody in Harrow's End wanted to carry the mourning cloth.
+
+It wasn't the cloth. It was a fine thing. Ada had woven it in the eleven nights since the pyre was lit, grey wool with a border of black, and the village women had each put in a thread of their own, the way you were supposed to for a chief. It was the going. Two days up into the Scarfell to stand on the shore of Coldtarn with the whole Clan, in the cold, at the new moon, while the dead man's brother and the dead man's son glared at each other over the urn. Everybody in the village had heard about the two fires at Varrhold by now. Everybody had heard about the bard. Nobody wanted to be standing anywhere near it if it went wrong.
+
+"Hob should go," said old Garrow, at the meeting in the mill. "He's the miller. He's the most important man in the village."
+
+"I've the mill to run," said Hob. "Garrow should go. He's the oldest."
+
+"My knees won't do the Scarfell. Not at this time of year."
+
+"Your knees did the Cotter's Cross fair well enough."
+
+"That was downhill."
+
+They went round like that for half an hour. Calder sat at the back on a sack of meal with his arms folded and said nothing, which was what he always did, and which had kept him out of every job in Harrow's End that nobody wanted for thirty-two years. He was quite good at it. He could feel the room deciding, the way you feel weather coming, and he could feel it not deciding on him.
+
+Then Hob said, "Teo Varr knows Fenn. Shook his hand at Upper Rush. Took him up the cliff at the hold, I heard. Fenn should go."
+
+And the room turned and looked at him, all of it at once, and was relieved.
+
+"I've the barley," said Calder.
+
+"Your barley'll keep. It's the best barley in the village; it always keeps." Hob smiled at him with all his teeth. "You've a friend at the hold now, Fenn. You're practically Clan. Go on."
+
+---
+
+He went up on the Ewe Hollow wool cart, which was going anyway, sitting on the bales with the cloth in a bundle on his knees and his coat collar up against the wind. Two days. The moor was brown now, the heather going over, and there were geese going south high up in long, crooked lines, crying. The Ewe Hollow men were brothers called Tuft and Fell, and they talked about sheep for the whole of the first day and the morning of the second, and Calder found it the most restful conversation he'd had in a month.
+
+They came over the last rise in the afternoon of the second day and he saw that the whole Clan was there.
+
+Coldtarn lay in a bowl in the rock above the hold, higher up than he'd ever been, so high the clouds came down and sat on the rim of it. The water was black. Not dark; black, like a hole cut in the world, and perfectly still, so still that the cliffs round it stood upside down in it without a ripple. The shore was a long slope of grey stones going down to the edge. And on the stones, in the cold, in their grey cloaks, stood more people than Calder had seen in one place in his life: hundreds of them, the whole hold and every farm in the Scarfell and half the Marches, ranked up the slope in a great half-circle facing the water.
+
+Above them, on every ledge of the cliffs round the bowl, sat the dragons.
+
+He'd thought the Roosts were a lot of dragons. The Roosts were a lot of dragons the way a pond is a lot of water. They sat on the ledges with their wings folded and their heads down and their eyes on the tarn, so still and so many that at first he took them for rocks, until one of them shifted its weight and a shower of stones went rattling down into the water, and the sound came back off the cliffs three times.
+
+None of them made a sound. The whole bowl was silent. Hundreds of people, hundreds of dragons, and nothing but the wind on the rim and the far faint sound of the falls below.
+
+He got down off the wool cart. His knees were shaking, and it wasn't the cold.
+
+---
+
+The quarrel came at the water's edge, as everyone had known it would.
+
+At the bottom of the slope, on a flat black stone that ran out into the tarn like a jetty, stood the urn. It was big and plain and grey, as tall as a child, and it held the ash of Haldor Varr and his pyre: eleven days and nights of burning, the whole great fire raked and sifted and carried up the mountain on a sledge. In front of it, facing the half-circle, stood the Clan's priest, an old man in grey with a staff. Behind him, to the left, Arn and his men. To the right, Ulric and his. Teo stood a little apart from both, near the priest, bareheaded, with his hands clasped in front of him.
+
+The priest said the words. Calder couldn't hear most of them; the wind took them. He heard *Haldor*, and *son of Rurik*, and *chief of the Varr*, and he heard the gods named, all of them, the old ones who walk unbound, and he saw the whole half-circle bow their heads at that, and he bowed his. Then the priest stepped back and lifted his staff and said, loud enough to carry up the slope:
+
+"Who pours?"
+
+That was the custom. The eldest son poured. Everyone knew that. Arn Varr stepped forward and put his hands on the urn.
+
+And Ulric's voice came across the stone, slow and deep and perfectly calm. "The champion pours."
+
+There was a sound from the half-circle: not a word, more like a breath going out of hundreds of people at once.
+
+Arn didn't take his hands off the urn. He turned his head. "The eldest son pours, Uncle. It's been the eldest son since Varr himself."
+
+"It's been the eldest son when the eldest son was a man the Clan would follow into a fight," said Ulric. He hadn't moved. He stood with his men behind him and his arms folded across his chest, enormous in his grey cloak, and he didn't raise his voice at all. "When there's doubt, the champion pours. That's custom too. Ask the priest. Ask your grandmother's bones. My grandfather poured for his brother because his brother's son was nine years old and soft in the head, and nobody said a word."
+
+"Are you calling me soft in the head?"
+
+"I'm saying there's doubt." Ulric looked up at the half-circle. Then he looked up at the cliffs, at the hundreds of dragons sitting silent on the ledges, and back down. "Look around you, boy. Look how they're standing. Look how they're watching. That's doubt. Your father kept it quiet for thirty-one years. Now he's in that pot, and it's not quiet anymore."
+
+Arn let go of the urn.
+
+He did it slowly, and that was worse. Calder saw his face, from where he stood halfway up the slope, and it wasn't the face of a man who'd lost an argument. It was the face of a man who has been waiting for someone to say something, and now they have, and now there's nothing left to wait for. His hand went to his hip. On both sides of the black stone, men moved, and there was a sound up the slope like a wave pulling back off shingle as people stepped away from the people next to them.
+
+On the cliffs, a dragon lifted its head and hissed, very softly. The sound went round the bowl and came back.
+
+And Teo walked between them.
+
+He didn't hurry. He walked out onto the black stone as if he had all day, and stood beside the urn, between his brother and his uncle, bareheaded, and put one hand on the urn. Then he looked at his uncle, and held out his other hand, open.
+
+"Pour with him," he said.
+
+Ulric didn't move.
+
+"Pour with him," Teo said again. Not loud. Calder had to strain to hear it. "You're both right. It's the son's to pour and the champion's to pour, and you're both here, and you're both his. So pour together. One hand each. Let the Clan see two hands on it." He looked at Arn. "Brother. Please. He was our father. He was Uncle's brother. Let them see us put him in the water together, and then you can go back to the hold and hate each other in private like decent people."
+
+For a long moment nobody on the black stone moved at all.
+
+Then Ulric Varr unfolded his arms and stepped forward and put one huge hand on the urn, on one side, without looking at his nephew. And after a moment Arn put his hand on the other side, without looking at his uncle. And Teo took his own hand away and stepped back, and stood behind them, between them, with his head bowed.
+
+They tipped it together.
+
+The ash went into Coldtarn in a long grey pour like smoke going the wrong way. It didn't sink at first. It lay on the black water in a great pale shape, spreading slowly outward from the stone. Then, in the middle, it began to go down, and the whole shape drew in toward that point and went down after it, turning slowly, until there was nothing on the water at all.
+
+On every ledge round the bowl, the dragons lifted their heads and opened their mouths, all together, and the sound they made was nothing Calder had ever heard or would ever be able to describe afterwards. It wasn't a roar. It was lower than that, and longer, and it went into the rock and came up through his feet and into his chest and stayed there, and he found that his face was wet, and so was everyone's around him.
+
+---
+
+Afterwards, when the half-circle broke up and people began to go back down toward the hold in long grey lines, Calder found the priest and gave him the cloth from Harrow's End, and the old man took it and unfolded it and looked at the threads and said, "This is good work. Who wove it?"
+
+"My mother. Ada Fenn. The village women all put in a thread."
+
+"Tell her the Clan thanks her." The priest folded it again. "And tell her the border's crooked on the third side, but I won't say a word about it."
+
+Calder laughed, surprised, and the old man smiled at him and went off with the cloth under his arm.
+
+He was standing near the bottom of the slope, out of the wind behind a boulder, trying to decide whether to go and find Teo or to go and find the Ewe Hollow cart and start home before dark, when he heard the voice.
+
+It was a high, aggrieved voice, and he'd heard voices like it at the Ram's Head. A knot of men stood a little way off among the stones: three or four of Ulric's, big men in grey, and with them a thin man who wasn't Clan at all. Saltreach, by his clothes, all colours and none, with a silver ring in one ear, from the boats by the look of him. He was talking fast and waving his hands.
+
+"…one girl. One. In a Greyhold coat, with a tin sword and a horse that looked like it'd died the year before. And she breaks the lock and lets it out. In front of the whole village. A Brackenwood duskcat, that cub, worth more than this whole mountain. Gannet had a buyer lined up in Wendmouth paying silver, and she lets it go into the trees like it was a sparrow." He spat on the stones. "Knights. They won't cross the river to save a burning farm, but they'll stand on a jetty and rob an honest man of his living. And then she tells us to get back in our boats. Tells us. Like we were dogs."
+
+"So what d'you want us to do about it?" said one of Ulric's men. He sounded bored. "She's across the river."
+
+"Gannet says you people have long arms."
+
+"Gannet says a lot of things."
+
+"He says to tell your master there's a knight-student at Greyhold who frees beasts. A tall one, dark, unbonded, late in her years for a student. Says your master'll want to know. Says your master's going to be wanting beasts himself, soon, and he'll not want some knight's girl letting them out of their cages." The boatman looked round at the slope, at the grey cloaks going down toward the hold. "Says there's others will want to know, too. Others with long arms. Says to tell them."
+
+"Tell who?"
+
+But the boatman had seen Calder behind his boulder, and stopped. He looked at him with flat, quick eyes. Calder looked at the stones, the way he'd looked at the stones his whole life, and after a moment the boatman decided he was nobody and turned his back.
+
+Calder walked away up the slope. He thought: a knight-student who frees beasts. A tall one, dark, unbonded, late in her years.
+
+He thought about the masked men at Upper Rush, who'd wanted the beasts and not the blood. About Joss's greys going down to the river on a rope. About a girl he'd never met standing on a jetty somewhere on the far bank, breaking a lock, with six men in front of her.
+
+He thought, *good*, and was surprised at how much he meant it.
+
+---
+
+He found Sigrun Holm at the top of the slope, sitting on a flat rock under the rim with her cloak round her and her back to the wind, watching the tarn. Behind her, crouched on the rim itself like a bronze hill, was Aurveth, with her great head lowered over the bowl and her gold eyes on the black water, unmoving.
+
+"Farmer," said Sigrun, without looking round. "You brought the cloth."
+
+"My mother made it."
+
+"I know. Everyone's seen it. Crooked on the third side." The old warrior almost smiled. "Sit down. You look like you've seen your own ghost."
+
+He sat. The rock was cold through his trousers. Down below, the last of the half-circle was going down the path, and the tarn lay black and still, with the cliffs standing upside down in it again as if nothing had happened.
+
+"Teo," he said, after a while.
+
+"Teo." Sigrun nodded slowly. "He walked onto that stone like it was his kitchen. I've seen men walk into a shield-wall with more fear in their faces." She looked down at the black stone, empty now, where the urn had been. "He bought them a month. Maybe two. That's all. They poured together, and now they'll go back to the hold and sit at their two tables, and every day of the next month they'll each be thinking how the other one's hand felt on the urn."
+
+"You don't think they'll come round."
+
+"I think Ulric's been waiting thirty years and Arn's been waiting since he could walk, and I think waiting men don't come round. They go off." She pulled her cloak tighter. "I've been in this Clan sixty years. I've buried two chiefs. I've never seen the dragons sit on the rim like that. Not for Rurik. Not for anyone."
+
+Calder looked up at Aurveth. The great dragon hadn't moved. Her eyes were still on the water.
+
+"Is she all right?"
+
+"She's remembering." Sigrun reached back without looking and laid her hand on the bronze foreleg behind her, the way Calder had seen her do on the ledge at the Roosts. "She's done this before. More times than I have. More times than anyone." She was quiet a moment. "Did you know she's had three of us? Three partners. I'm the third."
+
+"Teo said she was old."
+
+"Teo doesn't know the half of it. Nobody does. I'm not sure *she* does, all of it." Sigrun looked out over the tarn. "Her second was my great-uncle. Ragnald Holm. A big, kind, slow man; I remember him a little, from when I was a girl. He was killed in a rockfall in the Scarfell, sixty years ago. Sixty-one. And everyone in the hold waited for her to go after him. That's what happens. You know that. The beast goes after the rider, the rider goes after the beast. One life between two. It's the oldest law there is. They wait a few days, and then they burn them both on the same pyre."
+
+"But she didn't."
+
+"She didn't. She came up here, to this rock, and she lay down on the shore with her head in the water, and she stayed there. A full year. Through a whole winter. She didn't eat that anyone saw. People came up to look at her and went away again, and the priests said prayers over her, and everyone waited. And she didn't wither, and she didn't die. And in the spring she got up and went back to the Roosts and lay in her cave for another year, and then I came of age, and she chose me." Sigrun was quiet. "Nobody knew how. Nobody knows now. It doesn't happen. A beast that loses its rider dies. It's not a rule anyone made, it's just what is. And she didn't."
+
+The wind came over the rim and went across the black water without leaving a mark on it.
+
+"And her first?" said Calder.
+
+Sigrun shook her head.
+
+"Nobody knows. Before Ragnald, she was in the Roosts for longer than anyone could remember, alone, unbonded, old already. The oldest stories in the hold have her in them, sitting on the cliff, just like that. Before that…" She shrugged. "I've asked her. Through the bond, you can ask anything. She doesn't answer. She doesn't refuse. She just goes quiet, like a well, and you feel how deep it goes, and you stop asking." Sigrun looked up at the great bronze head above her. "Sometimes I think she's been waiting for something. For a long time. Longer than all of us. And she doesn't know what it is either."
+
+Aurveth's eye moved.
+
+It was a small thing. The great gold eye, the size of a cartwheel hub, that had been fixed on the tarn the whole time, turned in its socket and came round and down, slowly, and rested on Calder.
+
+It stayed there. He didn't move. He couldn't have moved if the mountain had fallen. He sat on the cold rock beside Sigrun Holm and the oldest living thing in the Scarfell looked at him for a long, long moment, the way you look at a word in a language you used to know, trying to remember what it means.
+
+Then the eye went back to the water.
+
+Sigrun had seen it. He knew she had. She didn't say anything for a while.
+
+"Well," she said at last, quite lightly. "She's never done that to a farmer before."
+
+"What does it mean?"
+
+"Gods know." Sigrun got up, stiffly, and pulled her cloak round her, and looked down at him with an expression he couldn't read. "She doesn't tell me everything, Fenn. She never has. Go home. The Ewe Hollow cart's leaving and you'll freeze up here." She turned to go, and then stopped. "And Fenn. When Teo gets them to the ford, and he will, he'll want people there who aren't Ulric's and aren't Arn's. Ordinary people. Witnesses. He'll ask you. Don't say no."
+
+"Why me?"
+
+"Because you'll stand there and not say anything," said Sigrun Holm, "and everyone will believe whatever you saw."
+
+---
+
+He rode home on the wool bales in the dark, two days, and on the second night the cart stopped at the Ram's Head and he lay awake in the loft above the stable with Tuft and Fell snoring on either side of him, and thought about the black water, and a long line of dead chiefs falling slowly through it side by side forever.
+
+He thought about two hands on an urn, and a young man standing behind them with his head bowed.
+
+He thought about a great gold eye coming round, slowly, and resting on him, as if it were trying to remember something.
+
+He didn't sleep until nearly dawn. When he did, he dreamed he was standing on the black stone at the edge of Coldtarn, and the water was rising, and three enormous shapes were coming up through it from very far below, and he woke with his heart going like a drum and didn't know why.

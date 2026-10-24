@@ -31,6 +31,7 @@ Two-legged, winged, smaller than dragons: the size of a large horse, with a barb
 - **Saltreach** pirates and sellsword companies tame them, without bonds, using hoods and hooks and hunger. A tamed wyvern is a scout and a weapon, and it will kill its handler the first time he's careless.
 - A wyvern **can** bond, very rarely. People who see one bonded never forget it, because a bonded wyvern stops being frightened.
 - **Dragon or wyvern?** Clan folk find it insulting to confuse the two. Count the legs: dragons have four and wings; wyverns stand on two and walk on their wings.
+- **Pell's wyvern** *(Chapter 9)*: thirty-one years ago on the coast road below Stillhaven, a sellsword company's wyvern got loose and took Pell's fingers. His friend Aldo Venn killed it. It was the rare bonded one: its partner, a pirate girl of fifteen, dropped dead on the shingle a hundred yards away.
 - **Book 1:** Captain Vey's sellswords have two hooded wyverns at the siege of Crow Scar (32), and Kharrak despises them. A wyvern cage sits at the Gallows Quay beast market (36).
 
 ### Bond-hounds

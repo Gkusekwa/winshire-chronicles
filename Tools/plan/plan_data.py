@@ -43,13 +43,13 @@ ch(9, "Pell's Lesson",
    "Pell teaches subdue, don't kill, and shows the class why: the wild wyvern on the Saltreach road that took his fingers, and the knight who killed it and died of it. Tobin, unbonded and bitter, has a pamphlet with two words on it: \"One again.\" Haverly and Kesh, and the shape of a rivalry that isn't hatred.",
    "News across the water: the Clan nearly came to blows at the old chief's ashes.")
 ch(10, "Whispers in the Hold",
-   "Back at Varrhold with the last of the barley, Calder notices strangers among Ulric's men. One of them, a quiet man called Rook, doesn't belong: wrong boots, wrong hands, and he watches the dragons the way a buyer watches horses.",
+   "Back at Varrhold with the first of the new barley, Calder notices strangers among Ulric's men. One of them, a quiet man called Rook, doesn't belong: wrong boots, wrong hands, and he watches the dragons the way a buyer watches horses. Teo asks Calder to witness the ford meeting; Rook, mending a halter at the foot of the cliff path, hears the time and place. Calder sees the six-dot mark from his chain on Rook's knife, and says nothing.",
    "Poachers in the hold's yard are still cursing the Hearthmere student who freed their catch at Millbrook.", 6)
 ch(11, "The Trial",
    "Knight-Captain Ilse Rowan gives Maren her trial: investigate the \"monster\" of the Old Ruin, on its island in the river, and bring back proof. The island is forbidden to the river watch. Liss begs her not to go.",
    "Rowan warns that the Clan's quarrel is coming to a head across the river.", 7)
 ch(12, "Harvest",
-   "Harrow's End's harvest fair. Wren and Ada; Bel's children, Pip and Nan, dancing. Teo comes with a few riders and stays for the bonfire; he tells Calder he'll meet his uncle at the ford of Hollow Beck to make peace. Calder thinks he might actually manage it.",
+   "Harrow's End's harvest fair. Wren and Ada; Bel's children, Pip and Nan, dancing. Teo comes with a few riders and stays for the bonfire; he confirms the day of the peace meeting with his uncle at the ford of Hollow Beck, and Calder, already asked to stand witness (10), agrees again in front of Hob. Calder thinks Teo might actually manage it.",
    "Hob says a Greyhold boat was seen putting someone onto the Old Ruin's island at dusk, where nobody goes.", None)
 
 # ---------------- Part Two: Harvest of Knives ----------------
@@ -57,7 +57,7 @@ ch(13, "The Old Ruin",
    "Maren on the island. The bridge-fort, the broken arches, the verse carved under the tower arch about Winshire. Signs of Restoration hunters: cold fires, cut chains, beast traps.",
    "Smoke rises across the river. Something has happened at the ford.", 9)
 ch(14, "The Younger Son",
-   "Teo is found dead at the ford of Hollow Beck, apparently killed by Ulric's men on the way to the peace meeting. Arn swears vengeance over his brother's body. Open civil war begins.",
+   "On his way to the ford as a witness, Calder finds Teo dead in the water, apparently killed by Ulric's men on the way to the peace meeting. Arn swears vengeance over his brother's body. Open civil war begins.",
    "The fishermen at Tolly's Staithe say the Greyhold boat is still drawn up on the island.", 8)
 ch(15, "Signs",
    "Maren's second day on the island. Tracks bigger than anything she knows. The hunters' camp, empty. Clan war smoke across the water. She sleeps in the tower and counts something enormous breathing in the dark.",

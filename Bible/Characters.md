@@ -98,7 +98,7 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 |---|---|---|---|
 | The knight school | **Greyhold** | Ashford Keep, Riverwatch | A fortress-school on Hearthmere's bank of the border river. |
 | Maren's mentor (inner circle) | **Warden Osric Hale** | Warden Aldous Merrin, Warden Coll Ambrey | Kind, tired, carrying the secret; the one who confirms it in chapter 49. "Warden" is the inner circle's rank. |
-| Maren's bonded rival | **Lucan Haverly** *(renamed from Lucan Haverly, too close to Corvin Vale)* | Lysander Holt | Younger, gifted, bonded to a falcon-like beast named **Kesh**; not cruel, just certain he deserves everything he's handed. |
+| Maren's bonded rival | **Lucan Haverly** *(settled; renamed from Corwin Brandt, which was too close to Corvin Vale)* | Lysander Holt | Younger, gifted, bonded to a falcon-like beast named **Kesh**; not cruel, just certain he deserves everything he's handed. |
 | The trial master | **Knight-Captain Ilse Rowan** | Knight-Captain Bram Tollar | Sets Maren's trial in chapter 11. |
 
 ### The Dragon Clan

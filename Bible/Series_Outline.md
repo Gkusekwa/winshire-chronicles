@@ -91,7 +91,7 @@
 **The kingdoms join the hunt.** Once it's clear what a Titan can do, the kingdoms race to capture one for themselves *(working proposals)*:
 - Kessmoor builds engineered cages and chains, powered by its arcane technology.
 - Isvaren's colleges attempt great bindings.
-- Sarovel looks for a way to force a bond.
+- Sarovel looks for a way to bind a Titan (a binding, not a bond; true bonds can't be forced).
 - Saltreach's trading houses sell Titan-hunting contracts to the highest bidder.
 The kingdoms the protagonists have been protecting become dangerous in their own right.
 

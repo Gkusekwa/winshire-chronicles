@@ -144,7 +144,7 @@ The six kingdoms differ in government and in their laws on magic, bonding, and k
 - Sarovel’s unchosen may organize for equal rights, with both peaceful and violent groups.
 - Kessmoor purists may want magic banned throughout the world.
 - Militant Keepers may attack poachers and beast traders.
-- Bond-forcers may seek to take beast gifts without a beast’s consent.
+- Bond-forcers bind beasts and take their gifts without consent. A binding imitates a bond but is not one: no understanding, no mind-speech, no shared life (see `Bestiary.md`).
 
 **The Restoration (established antagonist):** a faction that wants to restore the old realm of Winshire by overthrowing the current regimes, capturing beasts through raids, roadblocks, and camps, and finding an ancient, powerful beast to aid its cause. See `Story.md` for its proposed beliefs, methods, and links to the Dragon Clan war. The bond-forcers above may be its methods rather than a separate group.
 

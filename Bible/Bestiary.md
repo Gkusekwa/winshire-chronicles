@@ -12,9 +12,11 @@ People in Winshire sort creatures by what they can do, not by what they look lik
 | **Beasts** | Creatures with enough mind to bond. Most are no cleverer than a good dog until they bond; a few are clever before. | Yes, rarely, and only by the beast's choice | Bond-hounds, falcons, great cats, duskcats, sabrecats, stonehorns, dray-beasts, wyverns |
 | **Great beasts** | Beasts of great size or power, often long-lived and sentient. Bonds with them are rare and change kingdoms. | Yes, very rarely (unicorns almost never; the phoenix never) | Dragons, unicorns, the phoenix, tuskers (mammoths), olifants (elephants) |
 | **Ancient beasts** | Very old, sentient, and powerful. They regard bonding as a taint and bond only through respect and sacrifice. | Almost never | The lion (Orrun), the speaking raven of Isvaren |
-| **Titans** | Mountain-sized. Known to ordinary people only as legend in Book 1. | No (not in Books 1–3) | The Last Titan |
+| **Titans** | Mountain-sized. Known to ordinary people only as legend in Book 1. | No new bonds in Books 1–3. A bond made **before** a beast grows into a Titan lasts through the change: Maren and Orrun, Calder and the three dragons. | The Last Titan |
 
 **The rules every creature follows** *(established)*: a bond lets a person and a beast understand each other; without one they can't. A bond shares one life between two: when either dies, the other usually dies too. Exceptions are extremely rare.
+
+**Bonds and bindings** *(settled)*: a true bond forms **only by the beast's choice**. What bond-forcers do, and what Sarovel's royal line does to its unicorns, is a **binding**: coercion by old magic, chains and pain that imitates a bond from the outside. A bound beast obeys, but there is no understanding, no mind-speech and no shared life. If the binder dies, the beast is simply free; if the beast dies, the binder lives. A binding can never become a bond by force. It can be the place where a bond happens, if someone offers themselves into it and the beast chooses them (Maren and Orrun, chapter 73).
 
 ---
 
@@ -116,7 +118,7 @@ Massive, grey, plated, with one great horn and a smaller one behind it, short-si
   - They are great beasts: sentient, long-lived, and **they remember the old realm**, as the lion does *(settled)*. Like the ancient beasts, they see bonding as a taint, and **they almost never bond with anyone** *(settled)*.
   - In Sarovel, a unicorn bond is the highest rank there is, and the Bond-King's line claims to have held one for nine generations.
   - Wild unicorns live in the Elderwood and the Sunward Hills, and they kill hunters.
-  - **The Sarovel secret** *(proposal for Book 2)*: since unicorns almost never bond, the royal line's "unicorn bond" is a lie. Its bonds are forced, a quiet atrocity at the heart of the bond-kingdom, which is why Sarovel later looks for a way to force a bond on a Titan. A unicorn that remembers the old realm, held captive by a crown, is a witness waiting to be heard.
+  - **The Sarovel secret** *(proposal for Book 2)*: since unicorns almost never bond, the royal line's "unicorn bond" is a lie. Its "bonds" are bindings, a quiet atrocity at the heart of the bond-kingdom, which is why Sarovel later looks for a way to bind a Titan. A unicorn that remembers the old realm, held captive by a crown, is a witness waiting to be heard.
 - **Bond-steeds:** horses bred to bond, the knights' mounts. Bonding is required for knighthood here.
 - **Sun-hawks:** golden hawks kept by the nobility, mostly for show.
 - **Olifants:** the royal herd beasts, painted for processions and walls in war. **Duskcats** in the Elderwood.
@@ -157,7 +159,7 @@ Massive, grey, plated, with one great horn and a smaller one behind it, short-si
 | 32 | Captain Vey's two hooded wyverns at Crow Scar |
 | 34–36 | Wendmouth: gull-hawks on the quays; at Gallows Quay, a caged wyvern, a unicorn colt smuggled out of Sarovel, a duskcat, an olifant tusk sold under the counter, and a phoenix feather that never cools |
 | 38 | On the long road north, Calder passes a Restoration convoy hauled by two blinkered stonehorns |
-| 54, 67–69 | The Restoration's army brings tamed stonehorns to break Greyhold's gate, and caged beasts it means to force-bond: a sabrecat among them |
+| 54, 67–69 | The Restoration's army brings tamed stonehorns to break Greyhold's gate, and caged beasts it means to bind: a sabrecat among them |
 | 22, 46 | Ada's songs mention the phoenix "that dies and does not die" |
 
 ## Settled

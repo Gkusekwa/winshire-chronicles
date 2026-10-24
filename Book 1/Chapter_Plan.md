@@ -1,6 +1,6 @@
 # Winshire — Book 1 Chapter Plan (working draft)
 
-*The full-length plan for Book 1, built from the established canon in the other notes. Every beat that isn't established canon is a working proposal. Chapters 1 and 2 are drafted.*
+*The full-length plan for Book 1, built from the established canon in the other notes. Every beat that isn't established canon is a working proposal. Each chapter's draft status is kept in its own file's notes (Status:).*
 
 ## Shape
 
@@ -195,5 +195,5 @@
 ## Open
 
 - Supporting names still proposed (see `Characters.md`): Tobin, Pell, Hob, Rook, Captain Idris Vey, the Darrow girl (Liss, Tam, Bel, Wren and the family names are established).
-- **Lucan Haverly vs Corvin Vale:** one letter apart. Rename Haverly (for example Lysander Holt)?
+- **Settled:** Maren's rival is **Lucan Haverly**, renamed from Corwin Brandt, which was too close to Corvin Vale.
 - Exact length of each chapter: set by the scenes, not a target.

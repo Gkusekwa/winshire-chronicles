@@ -12,7 +12,7 @@ TURNS = [
 
 L = []
 L.append("# Winshire — Book 1 Chapter Plan (working draft)\n")
-L.append("*The full-length plan for Book 1, built from the established canon in the other notes. Every beat that isn't established canon is a working proposal. Chapters 1 and 2 are drafted.*\n")
+L.append("*The full-length plan for Book 1, built from the established canon in the other notes. Every beat that isn't established canon is a working proposal. Each chapter's draft status is kept in its own file's notes (Status:).*\n")
 L.append("## Shape\n")
 L.append("- **79 chapters in six parts, across one year:** late summer to the next summer's war. **No upper word limit**; chapters run as long as their scenes need, roughly 3,500–5,000 words, so the book will land somewhere above **300,000 words**.")
 L.append("- **Strictly alternating chapters** *(established)*: odd chapters follow Maren (S), even chapters Calder (F).")
@@ -63,7 +63,7 @@ L.append("6. **They meet** as wary strangers who already owe each other: his war
 L.append("7. **No prologue.** A prologue about the Titan would break the reveal in 45. The book opens on the river.\n")
 L.append("## Open\n")
 L.append("- Supporting names still proposed (see `Characters.md`): Tobin, Pell, Hob, Rook, Captain Idris Vey, the Darrow girl (Liss, Tam, Bel, Wren and the family names are established).")
-L.append("- **Lucan Haverly vs Corvin Vale:** one letter apart. Rename Haverly (for example Lysander Holt)?")
+L.append("- **Settled:** Maren's rival is **Lucan Haverly**, renamed from Corwin Brandt, which was too close to Corvin Vale.")
 L.append("- Exact length of each chapter: set by the scenes, not a target.")
 open(sys.argv[1], "w").write("\n".join(L) + "\n")
 

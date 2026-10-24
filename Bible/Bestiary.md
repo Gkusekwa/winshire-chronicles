@@ -9,8 +9,8 @@ People in Winshire sort creatures by what they can do, not by what they look lik
 | Kind | What it means | Can it bond? | Examples |
 |---|---|---|---|
 | **Animals** | Ordinary creatures. No bond, no mind to share. | No | Cows, sheep, herons, eels, ordinary horses |
-| **Beasts** | Creatures with enough mind to bond. Most are no cleverer than a good dog until they bond; a few are clever before. | Yes, rarely, and only by the beast's choice | Bond-hounds, falcons, great cats, dray-beasts, wyverns |
-| **Great beasts** | Beasts of great size or power, often long-lived and sentient. Bonds with them are rare and change kingdoms. | Yes, very rarely | Dragons, unicorns, the phoenix |
+| **Beasts** | Creatures with enough mind to bond. Most are no cleverer than a good dog until they bond; a few are clever before. | Yes, rarely, and only by the beast's choice | Bond-hounds, falcons, great cats, duskcats, sabrecats, stonehorns, dray-beasts, wyverns |
+| **Great beasts** | Beasts of great size or power, often long-lived and sentient. Bonds with them are rare and change kingdoms. | Yes, very rarely | Dragons, unicorns, the phoenix, tuskers (mammoths), olifants (elephants) |
 | **Ancient beasts** | Very old, sentient, and powerful. They regard bonding as a taint and bond only through respect and sacrifice. | Almost never | The lion (Orrun), the speaking raven of Isvaren |
 | **Titans** | Mountain-sized. Known to ordinary people only as legend in Book 1. | No (not in Books 1–3) | The Last Titan |
 
@@ -49,6 +49,47 @@ Working beasts of the farms: huge, slow, gentle, and stronger than any horse. So
 
 ---
 
+## The big cats
+
+### Duskcats *(panther-like)*
+Long, low, black or smoke-grey, with eyes like lamps and a coat that drinks light. They hunt the deep forests at night: the Thornwood, the Elderwood, and the far end of the Brackenwood. Beasts, not great beasts, but clever before any bond, and patient in a way that frightens hunters.
+- **Bonds:** rare, and almost always with someone who has been alone a long time. Wyldmarch Keepers bond them more than anyone; a Keeper with a duskcat is the clans' night watch.
+- **In Sarovel** a bonded duskcat is a mark of a spy, an assassin, or a noble who wants to be thought one.
+- **The grey cat at Greyhold** may be a duskcat that never grew dark. Nobody has asked it.
+
+### Sabrecats *(sabre-toothed)*
+Heavier than a bear, short-tailed, with two fangs as long as a man's forearm. They live in the cold: the High Crown, the Iron Fells, the snowfields above Isvaren. They follow the tusker herds and take the old and the young.
+- **Bonds:** very rare. A bonded sabrecat is a soldier's dream and a farmer's nightmare.
+- **Kessmoor** hunts them for their fangs, which carve better than ivory, and for their pelts.
+- **Isvaren** College Wardens on the high passes sometimes ride in pairs with one bonded sabrecat between them. Bandits leave those pairs alone.
+
+## The great herds
+
+### Tuskers *(mammoth-like)*
+Great beasts of the cold north: shaggy, red-brown, high-shouldered, with tusks that curl back on themselves like old roots. They walk the snowfields under the High Crown in herds led by the oldest cow, and they **remember**: routes, water, and the places their dead are buried. They mourn.
+- **Sentience:** the oldest tuskers are clever enough that Isvaren scholars argue about whether they have a language. They probably do.
+- **Bonds:** very rare, and almost always with a child. A bonded tusker outlives three generations of a family and treats them as one person.
+- **Isvaren** hires tusker herds (by agreement with the herd, not by force) to haul stone and supplies over the Vael Pass in winter. The tusker road is the slowest and safest in the north.
+
+### Olifants *(elephant-like)*
+Great beasts of the warm south-west, grey and nearly hairless, with great fanned ears, long trunks and straight tusks. They live in herds on the Sunward Hills and the Gilt valley. Like tuskers, they remember and mourn, and people who have watched an olifant herd stand over its dead stop calling them animals.
+- **Sarovel** makes them a royal beast second only to the unicorn. Bonded olifants walk in the Bond-King's processions, painted, and in war they are the walls the Sarovel army hides behind.
+- **Ivory** is forbidden in Sarovel and sold anyway in Saltreach. An olifant tusk at Gallows Quay is a hanging matter in Solenne and a good day's trade in Wendmouth.
+
+### Stonehorns *(rhinoceros-like)*
+Massive, grey, plated, with one great horn and a smaller one behind it, short-sighted and short-tempered. They graze the Hallow Plains and the scrubland of Saltreach. Beasts, not great beasts: stubborn rather than clever.
+- **Bonds:** rare. A bonded stonehorn is said to be the only beast that will walk into fire for its partner without being asked twice.
+- **Saltreach** sellswords and the Restoration use tamed stonehorns, unbonded and blinkered, to haul siege carts and break gates.
+- **The Wyldmarch** horse clans count stonehorn herds the way farmers count weather.
+
+### The rest of the grazing kind
+- **Great elk** *(Wyldmarch)*: taller than a man at the shoulder; the horse clans' beasts.
+- **Greyharts** *(Hearthmere)*: tall grey deer, royal game.
+- **Aurochs** *(Hearthmere and the Candle Downs)*: the wild black cattle the farm ox-beasts were bred from, still loose in the Greenwold. Their bulls kill more people every year than all the wyverns in Saltreach.
+- **Dray-beasts and ox-beasts** *(everywhere)*: the farms' working beasts.
+
+---
+
 ## Kingdom by kingdom
 
 ### Hearthmere
@@ -56,11 +97,13 @@ Working beasts of the farms: huge, slow, gentle, and stronger than any horse. So
 - **Greyharts:** tall grey deer of the Brackenwood with antlers like bare winter trees. Royal game. Poaching one is a hanging offence (the Gallows Oak remembers).
 - **River otters of the Wend:** large, clever and thieving; the eel-fishers' oldest enemies.
 - **Boar of the Brackenwood:** big enough that patrols go round (5).
+- **Aurochs** in the Greenwold; **duskcats** at the far end of the Brackenwood.
 
 ### Saltreach
 - **Wyverns:** sea cliffs from Gullhaven to Blackwater.
 - **Reefwyrms:** long, eel-like sea beasts that follow ships for scraps and sometimes sink them. The Drowned Bell is thick with them.
 - **Gull-hawks:** half gull, half hawk, all appetite. Pirates' messengers.
+- **Stonehorns** in the inland scrub; tamed ones haul siege carts for sellswords.
 - **Beast markets:** Wendmouth's Gallows Quay sells anything with a pulse: legal beasts, stolen beasts, and beasts from kingdoms that would hang the seller.
 
 ### The Dragon Clan (the Scarfell)
@@ -75,9 +118,11 @@ Working beasts of the farms: huge, slow, gentle, and stronger than any horse. So
   - **The Sarovel secret** *(proposal for Book 2)*: the royal line hasn't truly bonded a unicorn in generations. Its "bonds" are forced, a quiet atrocity at the heart of the bond-kingdom, which is why Sarovel looks for a way to force a bond on a Titan.
 - **Bond-steeds:** horses bred to bond, the knights' mounts. Bonding is required for knighthood here.
 - **Sun-hawks:** golden hawks kept by the nobility, mostly for show.
+- **Olifants:** the royal herd beasts, painted for processions and walls in war. **Duskcats** in the Elderwood.
 
 ### Kessmoor
 - **Ironbacks:** armoured, boar-like beasts of the Iron Fells. Their plates are harvested for the foundries, which is the root of Kessmoor's quarrel with the Wyldmarch.
+- **Sabrecats** in the Iron Fells, hunted for fangs and pelts.
 - **Glass moths:** pale moths that live only on the Scald, the only living thing there. Their wings ring faintly in a wind.
 - **Pit ponies and canal-mules:** animals, not beasts, and Kessmoor is proud of that.
 - **Bonded people** are registered or exiled, so Kessmoor's beasts are mostly wild or harvested.
@@ -85,6 +130,7 @@ Working beasts of the farms: huge, slow, gentle, and stronger than any horse. So
 ### Isvaren
 - **The speaking raven** *(established: an ancient beast that learned human speech; keeper of the Long Library; killed in Book 2)*: owl- or raven-like, ancient and dry-witted.
 - **Snow lynx:** the college Wardens' beasts, white and silent.
+- **Tuskers:** hired, by agreement with the herd, to haul over the Vael Pass in winter. **Sabrecats** follow them; Wardens ride with bonded ones.
 - **Lantern owls:** owls with faintly glowing eyes that nest in the observatory towers. Students think they bring luck in exams.
 
 ### The Wyldmarch
@@ -95,6 +141,7 @@ Working beasts of the farms: huge, slow, gentle, and stronger than any horse. So
   - It doesn't appear in Book 1 except in story and as a single feather that never cools, which Calder sees for sale at Gallows Quay (36) for more than his farm is worth.
   - *For the later books:* the phoenix is fire that dies and returns, which makes it a natural bridge to the Age of Elementals. Keep that link quiet in Books 1–3.
 - **Great elk:** taller than a man at the shoulder; the horse clans' beasts.
+- **Stonehorn herds** on the Hallow Plains; **duskcats** in the Thornwood, bonded to Keepers.
 - **Wolves and bears:** the Keepers' companions; bonds with them are sacred.
 - **Ancient lions** *(established for the one)*: the lion's kind came from the Wyldmarch long ago. Orrun may be the last.
 
@@ -107,10 +154,14 @@ Working beasts of the farms: huge, slow, gentle, and stronger than any horse. So
 | 5, 27 | Greyharts in the Brackenwood; the boar |
 | 9 | Pell's lesson on the beast that took his fingers: a wild wyvern on the Saltreach road |
 | 32 | Captain Vey's two hooded wyverns at Crow Scar |
-| 34–36 | Wendmouth: gull-hawks on the quays; at Gallows Quay, a caged wyvern, a unicorn colt smuggled out of Sarovel, and a phoenix feather that never cools |
+| 34–36 | Wendmouth: gull-hawks on the quays; at Gallows Quay, a caged wyvern, a unicorn colt smuggled out of Sarovel, a duskcat, an olifant tusk sold under the counter, and a phoenix feather that never cools |
+| 38 | On the long road north, Calder passes a Restoration convoy hauled by two blinkered stonehorns |
+| 54, 67–69 | The Restoration's army brings tamed stonehorns to break Greyhold's gate, and caged beasts it means to force-bond: a sabrecat among them |
 | 22, 46 | Ada's songs mention the phoenix "that dies and does not die" |
 
 ## Open questions
+- Do tuskers and olifants have a language, and do they remember the old realm?
+- Is the grey cat at Greyhold a duskcat?
 - Is the phoenix the last of its kind, or one of a few?
 - Do unicorns remember the old realm, as the lion does?
 - Should Pell's beast be a wyvern (proposed) or something else?

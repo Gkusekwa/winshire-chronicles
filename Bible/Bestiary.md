@@ -10,7 +10,7 @@ People in Winshire sort creatures by what they can do, not by what they look lik
 |---|---|---|---|
 | **Animals** | Ordinary creatures. No bond, no mind to share. | No | Cows, sheep, herons, eels, ordinary horses |
 | **Beasts** | Creatures with enough mind to bond. Most are no cleverer than a good dog until they bond; a few are clever before. | Yes, rarely, and only by the beast's choice | Bond-hounds, falcons, great cats, duskcats, sabrecats, stonehorns, dray-beasts, wyverns |
-| **Great beasts** | Beasts of great size or power, often long-lived and sentient. Bonds with them are rare and change kingdoms. | Yes, very rarely | Dragons, unicorns, the phoenix, tuskers (mammoths), olifants (elephants) |
+| **Great beasts** | Beasts of great size or power, often long-lived and sentient. Bonds with them are rare and change kingdoms. | Yes, very rarely (unicorns almost never; the phoenix never) | Dragons, unicorns, the phoenix, tuskers (mammoths), olifants (elephants) |
 | **Ancient beasts** | Very old, sentient, and powerful. They regard bonding as a taint and bond only through respect and sacrifice. | Almost never | The lion (Orrun), the speaking raven of Isvaren |
 | **Titans** | Mountain-sized. Known to ordinary people only as legend in Book 1. | No (not in Books 1–3) | The Last Titan |
 
@@ -113,9 +113,10 @@ Massive, grey, plated, with one great horn and a smaller one behind it, short-si
 ### Sarovel
 - **Unicorns:** the bond-monarchy's crowned beast.
   - Not white horses with a horn. Unicorns are lean, deer-boned, grey to silver-black, with a single spiral horn of living bone, cloven hooves, and a temper.
-  - They are great beasts: sentient, long-lived, and very hard to bond. In Sarovel, a unicorn bond is the highest rank there is, and the Bond-King's line has held one for nine generations.
+  - They are great beasts: sentient, long-lived, and **they remember the old realm**, as the lion does *(settled)*. Like the ancient beasts, they see bonding as a taint, and **they almost never bond with anyone** *(settled)*.
+  - In Sarovel, a unicorn bond is the highest rank there is, and the Bond-King's line claims to have held one for nine generations.
   - Wild unicorns live in the Elderwood and the Sunward Hills, and they kill hunters.
-  - **The Sarovel secret** *(proposal for Book 2)*: the royal line hasn't truly bonded a unicorn in generations. Its "bonds" are forced, a quiet atrocity at the heart of the bond-kingdom, which is why Sarovel looks for a way to force a bond on a Titan.
+  - **The Sarovel secret** *(proposal for Book 2)*: since unicorns almost never bond, the royal line's "unicorn bond" is a lie. Its bonds are forced, a quiet atrocity at the heart of the bond-kingdom, which is why Sarovel later looks for a way to force a bond on a Titan. A unicorn that remembers the old realm, held captive by a crown, is a witness waiting to be heard.
 - **Bond-steeds:** horses bred to bond, the knights' mounts. Bonding is required for knighthood here.
 - **Sun-hawks:** golden hawks kept by the nobility, mostly for show.
 - **Olifants:** the royal herd beasts, painted for processions and walls in war. **Duskcats** in the Elderwood.
@@ -134,10 +135,10 @@ Massive, grey, plated, with one great horn and a smaller one behind it, short-si
 - **Lantern owls:** owls with faintly glowing eyes that nest in the observatory towers. Students think they bring luck in exams.
 
 ### The Wyldmarch
-- **The phoenix:** the rarest creature in Winshire, and possibly the last of its kind. *Working proposal:*
+- **The phoenix:** the rarest creature in Winshire. **There are a few, not one** *(settled)*, but they are so rarely seen that people believe there is only one. The series reveals the others slowly. *Working proposal:*
   - A great beast of fire, gold and red, the size of an eagle on a cold day and a burning hayrick on a hot one. When it dies it burns, and from the ash it comes back.
   - **That is why no one bonds a phoenix.** A bond shares one life between two. When the phoenix burns, its partner dies with it, and only the phoenix returns. The Wyldmarch clans tell of the three people who tried.
-  - It nests in the Worldsend, where the clans see its fire on the peaks once in a lifetime.
+  - Phoenixes nest in the Worldsend, where the clans see fire on the peaks once in a lifetime, and always assume it is the same bird.
   - It doesn't appear in Book 1 except in story and as a single feather that never cools, which Calder sees for sale at Gallows Quay (36) for more than his farm is worth.
   - *For the later books:* the phoenix is fire that dies and returns, which makes it a natural bridge to the Age of Elementals. Keep that link quiet in Books 1–3.
 - **Great elk:** taller than a man at the shoulder; the horse clans' beasts.
@@ -152,16 +153,18 @@ Massive, grey, plated, with one great horn and a smaller one behind it, short-si
 | Chapter | Creature |
 |---|---|
 | 5, 27 | Greyharts in the Brackenwood; the boar |
-| 9 | Pell's lesson on the beast that took his fingers: a wild wyvern on the Saltreach road |
+| 9 | Pell's lesson on the beast that took his fingers: a wild wyvern on the Saltreach road *(settled)* |
 | 32 | Captain Vey's two hooded wyverns at Crow Scar |
 | 34–36 | Wendmouth: gull-hawks on the quays; at Gallows Quay, a caged wyvern, a unicorn colt smuggled out of Sarovel, a duskcat, an olifant tusk sold under the counter, and a phoenix feather that never cools |
 | 38 | On the long road north, Calder passes a Restoration convoy hauled by two blinkered stonehorns |
 | 54, 67–69 | The Restoration's army brings tamed stonehorns to break Greyhold's gate, and caged beasts it means to force-bond: a sabrecat among them |
 | 22, 46 | Ada's songs mention the phoenix "that dies and does not die" |
 
+## Settled
+- **Phoenixes:** a few exist, revealed slowly across the series because they are so rarely seen.
+- **Unicorns** remember the old realm and almost never bond with anyone.
+- **Pell's fingers** were taken by a wild wyvern on the Saltreach road.
+
 ## Open questions
 - Do tuskers and olifants have a language, and do they remember the old realm?
 - Is the grey cat at Greyhold a duskcat?
-- Is the phoenix the last of its kind, or one of a few?
-- Do unicorns remember the old realm, as the lion does?
-- Should Pell's beast be a wyvern (proposed) or something else?

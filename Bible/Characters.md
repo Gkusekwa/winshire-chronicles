@@ -131,7 +131,7 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 | Who | Name | Notes |
 |---|---|---|
 | Maren's friend, unbonded | **Tobin** | Nineteen, all elbows, loud about being unchosen. The Restoration wins him (chapters 9, 47, 57); Maren meets him across the fight at Millbrook (71). |
-| Greyhold's weapons instructor | **Instructor Pell** | Long-boned, grey, two fingers lost on the Saltreach road. Teaches subdue, don't kill. Dies holding the gate (69). |
+| Greyhold's weapons instructor | **Instructor Pell** | Long-boned, grey, two fingers lost to a wild wyvern on the Saltreach road. Teaches subdue, don't kill. Dies holding the gate (69). |
 | Maren's mother | **Liss Ashdown** | Runs the ferry; knows every river story. Carries Calder's family across as refugees (64). |
 | Maren's brother | **Tam Ashdown** | Smith's apprentice at Millbrook; drawn to the Restoration's promises (31); pulled out of the burning smithy (71). |
 | A bonded student | **the Darrow girl** (name open) | Her hound is killed in a skirmish and she withers in three days (39): one life between two, seen up close. |

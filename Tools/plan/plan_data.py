@@ -40,7 +40,7 @@ ch(8, "Coldtarn",
    "At the new moon the Clan scatters Haldor's ashes on Coldtarn. Calder carries the village's mourning gift because nobody else will. At the black water Ulric and Arn quarrel in front of everyone and Teo makes them stop. Sigrun tells Calder that Aurveth has outlived two partners and nobody knows how.",
    "In the crowd, a poacher curses a Hearthmere student who freed his catch at Millbrook.")
 ch(9, "Pell's Lesson",
-   "Pell teaches subdue, don't kill, and shows the class why: the beast on the Saltreach road that took his fingers, and the knight who killed it and died of it. Tobin, unbonded and bitter, has a pamphlet with two words on it: \"One again.\" Haverly and Kesh, and the shape of a rivalry that isn't hatred.",
+   "Pell teaches subdue, don't kill, and shows the class why: the wild wyvern on the Saltreach road that took his fingers, and the knight who killed it and died of it. Tobin, unbonded and bitter, has a pamphlet with two words on it: \"One again.\" Haverly and Kesh, and the shape of a rivalry that isn't hatred.",
    "News across the water: the Clan nearly came to blows at the old chief's ashes.")
 ch(10, "Whispers in the Hold",
    "Back at Varrhold with the last of the barley, Calder notices strangers among Ulric's men. One of them, a quiet man called Rook, doesn't belong: wrong boots, wrong hands, and he watches the dragons the way a buyer watches horses.",

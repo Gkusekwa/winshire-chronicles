@@ -73,5 +73,5 @@ The story is told first as a **three-book series**, self-published through Amazo
 - Book 1 has no prologue; it opens on the river.
 - Saltreach is a league of port-cities ruled by the Tide Council at Corsa, with no king and no knights. Everyone still calls it one of the six kingdoms. Its writ barely reaches the Marches, where farms pay their dues to the Dragon Clan.
 - The Dragon Clan breeds and keeps many dragons; only a few are bonded to warriors. Most dragons in the Clan's flights, like the funeral flight in Chapter 2, are unbonded and kept under the Clan's control.
-- Wyverns are not dragons: two legs and wings, not sentient like dragons, tamed without bonds by Saltreach pirates and sellswords. Unicorns and the phoenix are great beasts; no one bonds a phoenix, because when it burns its partner dies and only the phoenix returns. See `Bible/Bestiary.md`.
+- Wyverns are not dragons: two legs and wings, not sentient like dragons, tamed without bonds by Saltreach pirates and sellswords. Unicorns and the phoenix are great beasts. Unicorns remember the old realm and almost never bond. A few phoenixes exist, revealed slowly because they are so rarely seen; no one bonds one, because when it burns its partner dies and only the phoenix returns. See `Bible/Bestiary.md`.
 - Treat undeveloped names, mechanics, history, and plot turns as proposals until they are agreed.

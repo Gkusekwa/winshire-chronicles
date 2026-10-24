@@ -123,7 +123,7 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 
 | Role | Recommended | Alternatives | Notes |
 |---|---|---|---|
-| The twin brothers | **Cassian and Corvin Vale** | Severin and Silas Marrow; Aurel and Dorian Thane | Cassian is the public face who wins people over; Corvin is the hidden strategist. *Which one Maren kills is still open.* |
+| The twin brothers *(established)* | **Cassian and Corvin Vale** | — | Cassian is the public face who wins people over; Corvin is the hidden strategist. **Maren kills Cassian** at Greyhold's lock at the end of Book 1. Corvin opens the Old Ruin's lock against Calder, survives into Book 2, and is killed in Book 3. |
 | The faction's true name | **the Oneward** | Heirs of Winshire, the Covenant of One | From the old song, "before the six, there was one"; their oath is "One again." People still call them "the Restoration." *(Avoid "the Unbound": it is Book 1's working title.)* |
 
 ### Places

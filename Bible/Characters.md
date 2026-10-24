@@ -1,12 +1,12 @@
 # Winshire — Character Profiles
 
-*Profiles for the two protagonists and their beasts. Ages are established (the student is between 26 and 30; the farmer is between 28 and 36). Everything else is a **proposal**: a recommended version, with alternatives, to accept or change.*
+*Profiles for the two protagonists and their beasts. **Established:** the ages (the student 26–30, the farmer 28–36), the student is a woman, the farmer has a young daughter, and **all names in these profiles** (including family members). Personalities, backstory details, flaws, and voices are proposals.*
 
 ---
 
 ## The student
 
-**Recommended name:** **Maren Ashdown** · *Alternatives:* Ilsa Vane, Kesia Thorne, or for a man: Aldric Vane, Rowan Thorne
+**Name** *(established)*: **Maren Ashdown**
 
 **Age:** 27
 
@@ -37,13 +37,13 @@
 
 *Established: the protagonists are adults. The student is a woman (26–30); the farmer is 28–36 and has a young daughter. The notes call him "the farmer."*
 
-**Recommended name:** **Calder Fenn** · *Alternatives:* Tobin Reed, Jory Mosse, Hal Garrow
+**Name** *(established)*: **Calder Fenn**
 
 **Age:** 32
 
 **Family:**
 - **His mother, Ada Fenn,** who sings the old songs ("before the six, there was one") and knows more of them than anyone in the village.
-- **A young daughter** *(established)*: **Wren** (9, name proposed). Her mother, Calder's wife **Senna**, died of fever five years ago. Calder raises Wren with his mother's help.
+- **A young daughter** *(established)*: **Wren** (9). Her mother, Calder's wife **Senna**, died of fever five years ago. Calder raises Wren with his mother's help.
 - **His younger sister, Bel,** married into the next village, closer to the Dragon Clan's hold.
 - The family farm sits on the Saltreach side of the border river, in the shadow of the Clan's lands. They sell grain to the Clan's hold.
 
@@ -65,7 +65,7 @@
 
 **What people call it:** **the Grey Mane**, or "the monster of the Old Ruin."
 
-**Its true name** *(learned only through the bond, in chapter 37)*: **Orrun** · *Alternatives:* Ashkaran, Veyl, Thamor
+**Its true name** *(established; learned only through the bond, in chapter 37)*: **Orrun**
 
 **Sense of it:** old, heavy, and patient until it isn't. Through the bond, its mind comes across as slow and deep, like stone settling, with grief underneath, for kin it can feel beneath the earth.
 
@@ -73,9 +73,9 @@
 
 ## The three dragons
 
-The Dragon Clan names its dragons. Calder uses those names because they're the only ones the dragons answer to. *(The names below are proposals.)*
+The Dragon Clan names its dragons. Calder uses those names because they're the only ones the dragons answer to. *(Names established: Aurveth, Kharrak, Lisska. Personalities as in `Story.md`.)*
 
-| Placeholder | Recommended name | Alternatives | Proposed sense of it |
+| Placeholder | Name | Alternatives considered | Proposed sense of it |
 |---|---|---|---|
 | **The General** | **Aurveth** | Ireth, Valdra | She. The oldest and largest. Slow, precise speech; has outlived two earlier partners; guides Calder rather than commanding him. |
 | **The Vanguard** | **Kharrak** | Brann, Torr | He. Broad, scarred, battle-trained. Speaks in short, hard bursts; thinks restraint is cowardice; fiercely protective once he trusts. |
@@ -88,10 +88,47 @@ The Dragon Clan names its dragons. Calder uses those names because they're the o
 
 ---
 
-## Still to name
+## Supporting cast *(proposed names)*
 
-- The three bonded warriors who die in chapter 10.
-- The Dragon Clan: the uncle, the elder son, and the younger son.
-- The twin brothers who lead the Restoration.
-- Maren's mentor in the inner circle, and her bonded rival at the school.
-- The Restoration's real name, if "the Restoration" is only a working one.
+Names are grouped by culture so each group sounds like it belongs together: Hearthmere names are softer and older; Dragon Clan names are short and hard.
+
+### Hearthmere and the knight school
+
+| Role | Recommended | Alternatives | Notes |
+|---|---|---|---|
+| The knight school | **Greyhold** | Ashford Keep, Riverwatch | A fortress-school on Hearthmere's bank of the border river. |
+| Maren's mentor (inner circle) | **Warden Osric Hale** | Warden Aldous Merrin, Warden Coll Ambrey | Kind, tired, carrying the secret; the one who confirms it in chapter 27. "Warden" is the inner circle's rank. |
+| Maren's bonded rival | **Corwin Brandt** | Lysander Holt, Daven Ashe | Younger, gifted, bonded to a falcon-like beast named **Kesh**; not cruel, just certain he deserves everything he's handed. |
+| The trial master | **Knight-Captain Ilse Rowan** | Knight-Captain Bram Tollar | Sets Maren's trial in chapter 7. |
+
+### The Dragon Clan
+
+| Role | Recommended | Alternatives | Notes |
+|---|---|---|---|
+| The Clan's ruling family | **the Varr** | the Kael, the Drask | The chief's line. |
+| The old chief (dead) | **Haldor Varr** | Ragnor Varr | His death opens the succession quarrel. |
+| The uncle | **Ulric Varr** | Brand Varr, Torvald Varr | The Clan's best warrior, with the larger following. |
+| The elder son | **Arn Varr** | Eskil Varr | Claims by birth; proud, sharp, grieving. |
+| The younger son | **Teo Varr** | Leif Varr | Warm and well liked; his killing starts the war. |
+
+### The three fallen warriors (the dragons' partners)
+
+| Bonded to | Recommended | Alternatives | Notes |
+|---|---|---|---|
+| Aurveth | **Sigrun Holm** | Ingrith Vass | Aurveth's third partner; an old, respected war-leader. |
+| Kharrak | **Dag Rorke** | Bjorn Halse | A frontline fighter, as hard as his dragon. |
+| Lisska | **Imra Sallow** | Tove Ness | The Clan's best scout; quick and laughing. |
+
+### The Restoration
+
+| Role | Recommended | Alternatives | Notes |
+|---|---|---|---|
+| The twin brothers | **Cassian and Corvin Vale** | Severin and Silas Marrow; Aurel and Dorian Thane | Cassian is the public face who wins people over; Corvin is the hidden strategist. *Which one Maren kills is still open.* |
+| The faction's true name | **the Oneward** | Heirs of Winshire, the Covenant of One | From the old song, "before the six, there was one"; their oath is "One again." People still call them "the Restoration." *(Avoid "the Unbound": it is Book 1's working title.)* |
+
+### Places
+
+| Place | Recommended | Alternatives |
+|---|---|---|
+| Calder's village | **Harrow's End** | Fennick, Low Ashby |
+| The Dragon Clan's hold | **Varrhold** | Drakescar |

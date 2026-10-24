@@ -297,7 +297,7 @@ def _(c):
         c.line(x + 40, 520, x - 40, 600, 7, taper=0.3)
     c.triad(750, 300, r=10, spread=26)
 
-@comp(61)  # Brandt
+@comp(61)  # Haverly
 def _(c):
     c.ground()
     c.figure(640, GROUND - 6, 230, 13)

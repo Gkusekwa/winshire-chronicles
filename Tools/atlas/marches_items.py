@@ -221,4 +221,4 @@ item("ferry64", "Refugees cross", "path", 176.8, 108.4, 64, "Ada, Wren and Bel's
      path=[(177.0, 108.5), (175.8, 108.0), (174.6, 107.5)], label=False)
 item("pell69", "Where Pell fell", "death", 172.9, 106.2, 69, "Instructor Pell dies holding Greyhold's gate.", dx=-0.3, dy=-0.9)
 item("rook72", "Where Rook died", "death", 177.0, 104.4, 72, "Calder corners Rook in the fighting at the Ruin. The proof dies with him.", dx=0.3)
-item("brandt75", "Where Brandt and Kesh fell", "death", 174.6, 107.2, 75, "Greyhold is breached. Kesh is killed, and Brandt dies in Maren's arms.", dx=0.4, dy=0.9)
+item("brandt75", "Where Haverly and Kesh fell", "death", 174.6, 107.2, 75, "Greyhold is breached. Kesh is killed, and Haverly dies in Maren's arms.", dx=0.4, dy=0.9)

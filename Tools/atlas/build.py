@@ -19,7 +19,7 @@ KINGDOM_TEXT = {
         land="Long southern coast of bays, salt marsh and shingle; scrubland and sheep hills inland; the Marches farmland along the Wend; the Scarfell moors in the north where the Dragon Clan lives.",
         build="Ports of tarred timber and painted shutters, warehouses on stilts, chains across harbour mouths. Inland: river-stone farmhouses with turf roofs, longhouses with the byre under one roof. "
               "The Dragon Clan builds in black stone inside turf ramparts, with eyries cut into cliffs.",
-        people="No knights. Trading houses, pirate captains, sellswords and outlaws in the south; farmers and drovers in the Marches; the Clan in the hills. Short, hard names in the Clan (Varr, Dag, Arn)."),
+        people="A league of port-cities ruled by the Tide Council at Corsa, with no king, though everyone calls it a kingdom. No knights. Trading houses, pirate captains, sellswords and outlaws in the south; farmers and drovers in the Marches; the Clan in the hills. Short, hard names in the Clan (Varr, Dag, Arn)."),
     "kessmoor": dict(
         land="Cold north-west: moorland, coal and iron in the Iron Fells, the Coldrun valley cut with canals, and the dead glass basin of the Scald where Orrin stood.",
         build="Brick and iron. Foundry chimneys, canal locks, lift-bridges, glass-roofed workshops, clock towers. Streets lit by alchemical lamps in green glass.",

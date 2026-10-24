@@ -138,7 +138,7 @@ place("mere", "The Mere", "landmark", "hearthmere", 130, 119,
       "In still weather it shows the sky so cleanly that the songs call it the hearth of heaven.", label_dy=2)
 place("ashford", "Ashford", "town", "hearthmere", 155, 105,
       "A market town at the ford where the King's Road crosses the Ash Brook, eighteen leagues west of the border. "
-      "Timber-framed houses leaning over the street, a horse fair every autumn, and three fencing masters who charge more than they should. Corwin Brandt trained here.")
+      "Timber-framed houses leaning over the street, a horse fair every autumn, and three fencing masters who charge more than they should. Lucan Haverly trained here.")
 place("stillhaven", "Stillhaven", "city", "hearthmere", 141, 201,
       "Hearthmere's only sea port, at the mouth of the Meryl. Walled harbour, customs house, a fleet of grain cogs. "
       "Saltreach privateers are a constant nuisance; the harbour chain is raised every night.")
@@ -167,7 +167,7 @@ place("varrhold", "Varrhold", "hold", "saltreach", 184.6, 94.4,
       scope="both", canon="name proposed")
 place("millbrook", "Millbrook", "village", "hearthmere", 172.3, 112.6,
       "A Hearthmere river village two leagues downstream of Greyhold: a water mill, a tavern called the Kettle, and a jetty where Saltreach boats tie up without asking. Poachers sell here.",
-      scope="both", canon="Chapter 5", label_dx=-1)
+      scope="both", canon="named in Chapter 1; the caged beast in Chapter 7", label_dx=-1)
 place("cotterscross", "Cotter's Cross", "town", "saltreach", 180.5, 113,
       "A rough market town on the Saltreach bank where the Drover's Way meets the Saltreach Track. Inns, a beast pen, a hiring yard where sellswords wait for contracts. "
       "Nobody keeps the peace here except whoever paid most recently.", scope="both")
@@ -177,7 +177,7 @@ place("scarfell", "The Scarfell", "landmark", "saltreach", 189.5, 86.5,
 # Marches-only detail
 place("calderfarm", "Fenn farm", "farm", "saltreach", 177.7, 102.6,
       "Calder's farm on the lower edge of Harrow's End: a stone longhouse with the byre under one roof, a barn, a kitchen garden, two fields of barley and one of flax, "
-      "and a strip of water-meadow along the Wend. The Clan's battle in Chapter 10 spills across these fields.", scope="marches", canon="Calder's home")
+      "and a strip of water-meadow along the Wend. The Clan's battle in Chapter 18 spills across these fields.", scope="marches", canon="Calder's home")
 place("ferrylanding", "Ashdown Ferry", "landmark", "hearthmere", 173.4, 109.0,
       "Liss Ashdown's ferry: a flat-bottomed boat on a guide rope between Greyhold landing and the Saltreach jetty at Tolly's Staithe. Thirty years of crossings.",
       scope="marches", canon="Chapter 1")

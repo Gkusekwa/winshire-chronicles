@@ -77,11 +77,11 @@
 
 - **Hallowmere** (capital). The royal city on the north shore of the Mere. Grey stone and slate, built up the slope in terraces so that every street looks down on the water. The palace is less a castle than a long hall of chapter-houses where the knightly orders sit in council with the crown. Lamps burn without oil in the better streets, licensed magic and the city's quiet pride. No one asks where that much magic comes from.
 - **The Mere** (landmark). A broad, shallow lake that gives the kingdom its name. Reed beds, eel weirs and fishing villages on stilts along the south shore. In still weather it shows the sky so cleanly that the songs call it the hearth of heaven.
-- **Ashford** (town). A market town at the ford where the King's Road crosses the Ash Brook, eighteen leagues west of the border. Timber-framed houses leaning over the street, a horse fair every autumn, and three fencing masters who charge more than they should. Corwin Brandt trained here.
+- **Ashford** (town). A market town at the ford where the King's Road crosses the Ash Brook, eighteen leagues west of the border. Timber-framed houses leaning over the street, a horse fair every autumn, and three fencing masters who charge more than they should. Lucan Haverly trained here.
 - **Stillhaven** (city). Hearthmere's only sea port, at the mouth of the Meryl. Walled harbour, customs house, a fleet of grain cogs. Saltreach privateers are a constant nuisance; the harbour chain is raised every night.
 - **The Candle Downs** (landmark). Rolling chalk farmland south of the Mere: wheat, sheep and orchards, villages around green squares, a chapel in every one. The breadbasket of Hearthmere, and of the Marches when harvests fail.
 - **Greyhold** (fortress). *(Chapter 1)* The knight school on the Hearthmere bank, where the Wend bends. A quarry, then a fort, then a school: curtain walls of grey ragstone, a sanded yard over the old quarry floor, stables, a chapel, an armoury, and the river wall broad enough to walk two abreast. The charter over the gate says the bonded and the unbonded serve as equals. The cellars are locked and always have been.
-- **Millbrook** (village). *(Chapter 5)* A Hearthmere river village two leagues downstream of Greyhold: a water mill, a tavern called the Kettle, and a jetty where Saltreach boats tie up without asking. Poachers sell here.
+- **Millbrook** (village). *(named in Chapter 1; the caged beast in Chapter 7)* A Hearthmere river village two leagues downstream of Greyhold: a water mill, a tavern called the Kettle, and a jetty where Saltreach boats tie up without asking. Poachers sell here.
 
 ### Saltreach *(established)*
 
@@ -89,7 +89,7 @@
 
 **Buildings.** Ports of tarred timber and painted shutters, warehouses on stilts, chains across harbour mouths. Inland: river-stone farmhouses with turf roofs, longhouses with the byre under one roof. The Dragon Clan builds in black stone inside turf ramparts, with eyries cut into cliffs.
 
-**People.** No knights. Trading houses, pirate captains, sellswords and outlaws in the south; farmers and drovers in the Marches; the Clan in the hills. Short, hard names in the Clan (Varr, Dag, Arn).
+**People.** A league of port-cities ruled by the Tide Council at Corsa, with no king, though everyone calls it a kingdom. No knights. Trading houses, pirate captains, sellswords and outlaws in the south; farmers and drovers in the Marches; the Clan in the hills. Short, hard names in the Clan (Varr, Dag, Arn).
 
 **Places.**
 
@@ -171,14 +171,14 @@
 - **Redwatch** (tower). The watch tower nearest the Old Ruin, red sandstone, half a league from the bank. The river watch's patrol boats are kept in its boathouse.
 - **Upper Rush** (village). *(Chapters 1 and 2)* A hamlet of four farms in a hollow above the Saltreach bank, two leagues upriver of Harrow's End. Its barns are the fires Maren sees from the river wall in Chapter 1: raided at night for beasts, then burned. Harrow's End blames the Clan's quarrel.
 - **Harrow's End** (village). *(name proposed)* Calder's village on the Saltreach bank: thirty-odd houses of river stone and tarred timber with turf roofs, a mill on Hollow Beck, a shrine to the gods at the crossroads, and barley and flax fields running down to the water. From the top field you can see the Old Ruin. The Drover's Way passes through on its way to Varrhold.
-- **Fenn farm** (farm). *(Calder's home)* Calder's farm on the lower edge of Harrow's End: a stone longhouse with the byre under one roof, a barn, a kitchen garden, two fields of barley and one of flax, and a strip of water-meadow along the Wend. The Clan's battle in Chapter 10 spills across these fields.
+- **Fenn farm** (farm). *(Calder's home)* Calder's farm on the lower edge of Harrow's End: a stone longhouse with the byre under one roof, a barn, a kitchen garden, two fields of barley and one of flax, and a strip of water-meadow along the Wend. The Clan's battle in Chapter 18 spills across these fields.
 - **The Old Ruin** (ruin). *(established (island in the border river))* Broken arches and a squat round tower on a wooded island where the Wend splits, about three leagues upriver of Greyhold. It was a bridge-fort on the Oneroad, the old realm's highway, and the stumps of the bridge piers still break the water at low summer. A verse about Winshire is carved under the tower arch. River folk on both banks leave it alone.
 - **Ewe Hollow** (village). Sheep folk in a fold of the hills east of Harrow's End: a dozen crofts, a wool barn, and a lot of dogs.
 - **Greyhold** (fortress). *(Chapter 1)* The knight school on the Hearthmere bank, where the Wend bends. A quarry, then a fort, then a school: curtain walls of grey ragstone, a sanded yard over the old quarry floor, stables, a chapel, an armoury, and the river wall broad enough to walk two abreast. The charter over the gate says the bonded and the unbonded serve as equals. The cellars are locked and always have been.
 - **Tolly's Staithe** (village). A huddle of fishermen's huts and drying racks at the Saltreach end of the ferry. Smoked eel, river gossip, and everyone's cousin.
 - **Ashdown Ferry** (landmark). *(Chapter 1)* Liss Ashdown's ferry: a flat-bottomed boat on a guide rope between Greyhold landing and the Saltreach jetty at Tolly's Staithe. Thirty years of crossings.
 - **The Brackenwood** (landmark). Old oak and bracken west of Greyhold, a royal hunting ground. Deer, boar, and the beasts the knights pretend aren't there.
-- **Millbrook** (village). *(Chapter 5)* A Hearthmere river village two leagues downstream of Greyhold: a water mill, a tavern called the Kettle, and a jetty where Saltreach boats tie up without asking. Poachers sell here.
+- **Millbrook** (village). *(named in Chapter 1; the caged beast in Chapter 7)* A Hearthmere river village two leagues downstream of Greyhold: a water mill, a tavern called the Kettle, and a jetty where Saltreach boats tie up without asking. Poachers sell here.
 - **Cotter's Cross** (town). A rough market town on the Saltreach bank where the Drover's Way meets the Saltreach Track. Inns, a beast pen, a hiring yard where sellswords wait for contracts. Nobody keeps the peace here except whoever paid most recently.
 - **The Reedmarsh** (landmark). Reed beds and channels on the Saltreach bank below Cotter's Cross. Wildfowlers, smugglers, and beast poachers who know the channels.
 
@@ -225,7 +225,7 @@
 - **Chapter 72, The Agent:** Where Rook died.
 - **Chapter 73, The Sacrifice:** Where the bond formed.
 - **Chapter 74, Fire at the Ruin:** Fire at the Ruin.
-- **Chapter 75, Through the Cellars:** Where Brandt and Kesh fell.
+- **Chapter 75, Through the Cellars:** Where Haverly and Kesh fell.
 - **Chapter 77, The Lock Gives Way:** Where Cassian Vale fell.
 - **Chapter 78, Underground:** They meet.
 - **Chapter 79, The Last Titan:** Where the Last Titan rose; It flew east.

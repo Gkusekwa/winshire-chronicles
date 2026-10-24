@@ -64,7 +64,8 @@ L.append("7. **No prologue.** A prologue about the Titan would break the reveal 
 L.append("## Open\n")
 L.append("- Supporting names still proposed (see `Characters.md`): Tobin, Pell, Hob, Rook, Captain Idris Vey, the Darrow girl (Liss, Tam, Bel, Wren and the family names are established).")
 L.append("- **Settled:** Maren's rival is **Lucan Haverly**, renamed from Corwin Brandt, which was too close to Corvin Vale.")
-L.append("- Exact length of each chapter: set by the scenes, not a target.")
+L.append("- Exact length of each chapter: set by the scenes, not a target.
+- **After the full draft:** a review pass may cut or adjust storylines. Book 1 stays one volume; it is never split.")
 open(sys.argv[1], "w").write("\n".join(L) + "\n")
 
 # chapter scaffolds

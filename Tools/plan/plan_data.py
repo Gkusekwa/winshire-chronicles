@@ -49,7 +49,7 @@ ch(11, "The Trial",
    "Knight-Captain Ilse Rowan gives Maren her trial: investigate the \"monster\" of the Old Ruin, on its island in the river, and bring back proof. The island is forbidden to the river watch. Liss begs her not to go.",
    "Rowan warns that the Clan's quarrel is coming to a head across the river.", 7)
 ch(12, "Harvest",
-   "Harrow's End's harvest fair. Wren and Ada, Bel's children, dancing. Teo comes with a few riders and stays for the bonfire; he tells Calder he'll meet his uncle at the ford of Hollow Beck to make peace. Calder thinks he might actually manage it.",
+   "Harrow's End's harvest fair. Wren and Ada; Bel's children, Pip and Nan, dancing. Teo comes with a few riders and stays for the bonfire; he tells Calder he'll meet his uncle at the ford of Hollow Beck to make peace. Calder thinks he might actually manage it.",
    "Hob says a Greyhold boat was seen putting someone onto the Old Ruin's island at dusk, where nobody goes.", None)
 
 # ---------------- Part Two: Harvest of Knives ----------------

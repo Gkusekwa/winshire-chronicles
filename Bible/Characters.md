@@ -138,6 +138,8 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 | Calder's sister and her husband | **Bel and Joss** | Upper Rush. Joss breeds dray-beasts, hunts for his stolen greys, and is killed (50). |
 | Harrow's End's miller | **Hob** | Prices are how he says hello. Takes Ulric's coin (16) and sells Calder's whereabouts (24). |
 | Calder's cow | **Bramble** | No opinions about the Clan. |
+| Millbrook's smith, Tam's master | **Odo Marl** | Huge, bald, burned forearms, laughs like a bellows; always complains about the price of charcoal. |
+| Saltreach boatman and poacher | **Gannet** | Out of Wendmouth. Long, thin, silver earrings, a smile that arrives first. Swears to take his grievance "across the river" (Chapter 7). |
 | Landlord of the Ram's Head | **Brack** | Huge, silent; settles fights by standing up. |
 | The hold's steward | (unnamed) | Sour, ink-fingered; says every levy is damp. |
 | River-watch sergeant at Redwatch | **Sergeant Ottery** | Maren's old sergeant; never gets up for anyone below a captain. Tells her the boats were ordered in on the night of the raid (Chapter 5). |

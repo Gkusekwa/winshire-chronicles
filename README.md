@@ -37,7 +37,7 @@ The story is told first as a **three-book series**, self-published through Amazo
 - Mountain-sized beasts are called **Titans** in the story's world. Some are world destroyers. The elder Titans are Titans who transcended the physical: gods, truly divine, spoken of with reverence and belief.
 - The border region is **the Marches**; a river marks the border, and the Old Ruin stands on an island or ford in it. The seal's two locks lie beneath the student's school and at the Old Ruin; the catacombs run beneath the border between them, and the protagonists meet underground there.
 - There is one temple in each kingdom. Hearthmere's held its Titan's sleep relic, which Hearthmere broke to wake and chain it, and the control relic, hidden by old magic in the deepest catacomb vault; Hearthmere never knew it was there. The Titan returns there for it at the end of Book 2.
-- Bonded partners feel each other's emotions and pain, speak mind to mind, and carry a visible bond mark; the farmer feels three minds at once.
+- Bonded partners feel each other's emotions and pain, speak mind to mind, and carry a visible bond mark; the farmer feels three minds at once. A bond shares speech and feeling, not every thought: a partner can keep a thought private, though strong feeling leaks through.
 - The farmer's want is to know why the dragons came to him ("why me?"), which leads him into the old realm's history.
 - A bond shares one life between two, in both directions: when either partner dies, the other usually dies too. The three dragons survived their partners' deaths because the farmer took the pull of all three at once.
 - The books set the canon and come first; any games adapt them later (game scope to be decided).

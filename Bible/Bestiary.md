@@ -58,6 +58,7 @@ Long, low, black or smoke-grey, with eyes like lamps and a coat that drinks ligh
 - **Bonds:** rare, and almost always with someone who has been alone a long time. Wyldmarch Keepers bond them more than anyone; a Keeper with a duskcat is the clans' night watch.
 - **In Sarovel** a bonded duskcat is a mark of a spy, an assassin, or a noble who wants to be thought one.
 - **The grey cat at Greyhold** may be a duskcat that never grew dark. Nobody has asked it.
+- **Book 1:** a smoke-grey duskcat cub poached from the far end of the Brackenwood, caged on Millbrook jetty and freed by Maren (Chapter 7). Tam named it Shadow.
 
 ### Sabrecats *(sabre-toothed)*
 Heavier than a bear, short-tailed, with two fangs as long as a man's forearm. They live in the cold: the High Crown, the Iron Fells, the snowfields above Isvaren. They follow the tusker herds and take the old and the young.

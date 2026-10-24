@@ -263,7 +263,7 @@ Lisska blinked, slowly, once. Then she pulled her head back over Imra's shoulder
 
 "How do you know?"
 
-"I'm bonded to her, farmer." Imra tapped her temple. "I know everything she thinks. It's a lot. She thinks very fast and mostly about food."
+"I'm bonded to her, farmer." Imra tapped her temple. "I hear what she says to me, and I feel what she feels, like weather coming. It's a lot. She feels very fast and mostly about food."
 
 Sigrun Holm, by the fire, was watching him. She didn't say anything. But Calder saw her look from him to Lisska and back, and saw something move in her old face, and go still again.
 

@@ -57,7 +57,7 @@ RIVERS = {
     "The Gilt":    [(88, 104), (82, 120), (72, 136), (62, 152), (52, 170), (48, 178)],
     "The Meryl":   [(132, 126), (136, 145), (134, 165), (140, 182), (141, 204)],
     "The Ysse":    [(304, 64), (290, 80), (272, 96), (258, 108), (250, 118), (256, 140), (262, 160), (262, 194)],
-    "Hollow Beck": [(196, 76), (191, 86), (186, 94), (182, 98), (176.4, 100.9)],  # Clan hills to the Wend
+    "Hollow Beck": [(196, 76), (191, 86), (186.4, 92.6), (182.2, 97.2), (178.8, 100.4), (176.6, 101.1)],  # Clan hills to the Wend
 }
 
 LAKES = {
@@ -104,7 +104,7 @@ ROADS = {
     "The Iron Road": [(62, 45), (78, 58), (96, 72), (112, 90), (128, 108)],
     "The Sun Road": [(48, 172), (60, 150), (70, 120), (90, 112), (110, 110), (128, 108)],
     "The Vael Pass": [(150, 38), (146, 52), (140, 66), (136, 82), (130, 100)],
-    "The Drover's Way": [(187, 93), (183, 98), (180, 101), (180, 108), (180.5, 113), (181, 130), (182, 150), (182, 175), (183, 204)],
+    "The Drover's Way": [(184.6, 94.4), (181.6, 97.6), (178.0, 101.3), (178.6, 106), (180.5, 113), (181, 130), (182, 150), (182, 175), (183, 204)],
     "The Coast Road": [(183, 204), (200, 202), (216, 198), (232, 196), (248, 194), (262, 193), (280, 186), (295, 178)],
     "The Saltreach Track": [(181, 130), (200, 140), (222, 156), (248, 176), (262, 193)],
 }
@@ -156,14 +156,14 @@ place("oldruin", "The Old Ruin", "ruin", "marches", 175.6, 103.5,
       "It was a bridge-fort on the Oneroad, the old realm's highway, and the stumps of the bridge piers still break the water at low summer. "
       "A verse about Winshire is carved under the tower arch. River folk on both banks leave it alone.",
       scope="both", canon="established (island in the border river)")
-place("harrowsend", "Harrow's End", "village", "saltreach", 180, 101,
+place("harrowsend", "Harrow's End", "village", "saltreach", 178.0, 101.3,
       "Calder's village on the Saltreach bank: thirty-odd houses of river stone and tarred timber with turf roofs, a mill on Hollow Beck, a shrine to the gods at the crossroads, "
       "and barley and flax fields running down to the water. From the top field you can see the Old Ruin. The Drover's Way passes through on its way to Varrhold.",
       scope="both", canon="name proposed")
-place("varrhold", "Varrhold", "hold", "saltreach", 187, 93,
+place("varrhold", "Varrhold", "hold", "saltreach", 184.6, 94.4,
       "The Dragon Clan's hold, ten leagues north-east of Harrow's End in the Scarfell. A ring of black-stone longhouses inside a turf rampart, "
       "the chief's hall roofed with dragon-scale shingles shed over generations, and above it the Roosts: dragon eyries cut into the cliff, scorched black at the mouths. "
-      "A long day by grain cart from Harrow's End; a quarter hour by dragon.",
+      "Two days by grain cart from Harrow's End, one on horseback; under a quarter of an hour by dragon.",
       scope="both", canon="name proposed")
 place("millbrook", "Millbrook", "village", "hearthmere", 172.3, 112.6,
       "A Hearthmere river village two leagues downstream of Greyhold: a water mill, a tavern called the Kettle, and a jetty where Saltreach boats tie up without asking. Poachers sell here.",
@@ -175,7 +175,7 @@ place("scarfell", "The Scarfell", "landmark", "saltreach", 189.5, 86.5,
       "Bare, high moorland and broken crags north and east of the Marches: heather, scree and wind. Dragon country. Sheep, if you're brave.", scope="marches")
 
 # Marches-only detail
-place("calderfarm", "Fenn farm", "farm", "saltreach", 178.6, 102.3,
+place("calderfarm", "Fenn farm", "farm", "saltreach", 177.7, 102.6,
       "Calder's farm on the lower edge of Harrow's End: a stone longhouse with the byre under one roof, a barn, a kitchen garden, two fields of barley and one of flax, "
       "and a strip of water-meadow along the Wend. The Clan's battle in Chapter 10 spills across these fields.", scope="marches", canon="Calder's home")
 place("ferrylanding", "Ashdown Ferry", "landmark", "hearthmere", 173.4, 109.0,
@@ -183,10 +183,10 @@ place("ferrylanding", "Ashdown Ferry", "landmark", "hearthmere", 173.4, 109.0,
       scope="marches", canon="Chapter 1")
 place("tollysstaithe", "Tolly's Staithe", "village", "saltreach", 177.2, 108.6,
       "A huddle of fishermen's huts and drying racks at the Saltreach end of the ferry. Smoked eel, river gossip, and everyone's cousin.", scope="marches")
-place("upperrush", "Upper Rush", "village", "saltreach", 178.6, 94.6,
-      "A hamlet of four farms on the Saltreach bank, two leagues upriver of Harrow's End. Its barns are the fires Maren sees from the river wall in Chapter 1: raided at night for beasts, then burned. Harrow's End blames the Clan's quarrel.",
+place("upperrush", "Upper Rush", "village", "saltreach", 178.0, 99.3,
+      "A hamlet of four farms in a hollow above the Saltreach bank, two leagues upriver of Harrow's End. Its barns are the fires Maren sees from the river wall in Chapter 1: raided at night for beasts, then burned. Harrow's End blames the Clan's quarrel.",
       scope="marches", canon="Chapters 1 and 2")
-place("ewehollow", "Ewe Hollow", "village", "saltreach", 185.4, 104.6,
+place("ewehollow", "Ewe Hollow", "village", "saltreach", 182.6, 104.2,
       "Sheep folk in a fold of the hills east of Harrow's End: a dozen crofts, a wool barn, and a lot of dogs.", scope="marches")
 place("northwatch", "Northwatch", "tower", "hearthmere", 174.4, 91,
       "A patrol tower on the River Road, manned by the river watch. Signal fires on the roof. Maren served here.", scope="marches")
@@ -196,7 +196,7 @@ place("brackenwood", "The Brackenwood", "landmark", "hearthmere", 168, 111.2,
       "Old oak and bracken west of Greyhold, a royal hunting ground. Deer, boar, and the beasts the knights pretend aren't there.", scope="marches")
 place("reedmarsh", "The Reedmarsh", "landmark", "saltreach", 182.5, 120,
       "Reed beds and channels on the Saltreach bank below Cotter's Cross. Wildfowlers, smugglers, and beast poachers who know the channels.", scope="marches")
-place("hollowbeck", "Hollow Beck", "landmark", "saltreach", 182.6, 96.4,
+place("hollowbeck", "Hollow Beck", "landmark", "saltreach", 182.4, 95.4,
       "The stream that runs down from Coldtarn in the Scarfell, past Varrhold and Harrow's End, into the Wend opposite the Old Ruin.", scope="marches")
 place("coldtarn", "Coldtarn", "landmark", "saltreach", 196, 74,
       "A black mountain lake above Varrhold. The Clan's dead are burned on its shore.", scope="marches")

@@ -31,8 +31,8 @@ class Map:
     def __init__(self, view, style, secrets, seed=7, chapter=None, interactive=False, subtitle=None, bare=False):
         self.bare = bare
         self.chapter, self.interactive, self.subtitle = chapter, interactive, subtitle
-        self.prog = view == "marches" and (chapter is not None or interactive)
-        self.fs = 1.25 if chapter is not None else 1.0
+        self.prog = (chapter is not None) or (interactive and view == "marches") or (interactive and view == "realm")
+        self.fs = (1.25 if view == "marches" else 1.7) if chapter is not None else 1.0
         self.v = VIEWS[view]
         self.view, self.style, self.secrets = view, style, secrets
         self.c = PAL[style]
@@ -256,13 +256,14 @@ class Map:
         c = self.c
         for line in Wd.BORDERS:
             r = self.roughen(line, 0.15, 3)
-            self.add(f'<path d="{self.smooth_path(r)}" fill="none" stroke="{c["border"]}" stroke-width="{1.4 if self.view == "realm" else 2.5}" stroke-dasharray="6 3 1.5 3" stroke-opacity="0.7"/>')
+            self.add(self.G(MI.BORDER_REVEAL, f'<path d="{self.smooth_path(r)}" fill="none" stroke="{c["border"]}" stroke-width="{1.4 if self.view == "realm" else 2.5}" stroke-dasharray="6 3 1.5 3" stroke-opacity="0.7"/>'))
 
     def roads(self):
         c = self.c
         for name, line in Wd.ROADS.items():
             r = self.roughen(line, 0.08, 3)
-            self.add(self.G(MI.ROAD_REVEAL.get(name, 1), f'<path d="{self.smooth_path(r)}" fill="none" stroke="{c["road"]}" stroke-width="{1.2 if self.view == "realm" else 2.6}" stroke-dasharray="{"4 3" if self.view == "realm" else "9 5"}"/>'))
+            rch = MI.ROAD_REVEAL.get(name, 1) if self.view == "marches" else MI.REALM_ROAD_REVEAL.get(name, MI.LATER)
+            self.add(self.G(rch, f'<path d="{self.smooth_path(r)}" fill="none" stroke="{c["road"]}" stroke-width="{1.2 if self.view == "realm" else 2.6}" stroke-dasharray="{"4 3" if self.view == "realm" else "9 5"}"/>'))
         r = self.roughen(Wd.ONEROAD, 0.06, 3)
         self.add(self.G(MI.ROAD_REVEAL["ONEROAD"], f'<path d="{self.smooth_path(r)}" fill="none" stroke="{c["ink"]}" stroke-width="{1.0 if self.view == "realm" else 2.2}" stroke-dasharray="1 4" stroke-linecap="round" stroke-opacity="0.75"/>'))
         if self.view == "marches":
@@ -350,7 +351,7 @@ class Map:
                 p = dict(p, ldx=REALM_LABEL[p["id"]][0], ldy=REALM_LABEL[p["id"]][1])
             elif self.view == "realm":
                 p = dict(p, ldx=p["ldx"] if p["kind"] == "landmark" else 0, ldy=p["ldy"] if p["kind"] == "landmark" else 0)
-            k = 1 if self.view == "realm" else 1.9 * self.fs
+            k = self.fs if self.view == "realm" else 1.9 * self.fs
             size = {"capital": 15, "city": 12.5, "town": 11, "village": 10, "fortress": 12, "hold": 12,
                     "ruin": 11.5, "temple": 10.5, "tower": 9.5, "farm": 9.5, "landmark": 12}[p["kind"]] * k
             ital = p["kind"] in ("landmark",)
@@ -374,6 +375,8 @@ class Map:
             body = f'<g{attrs}>{hit}{gl}{label}</g>'
             if self.view == "marches":
                 body = self.G(MI.REVEAL.get(p["id"], 1), body, (X, Y))
+            else:
+                body = self.G(MI.LATER if p["secret"] else MI.REALM_REVEAL.get(p["id"], MI.LATER), body, (X, Y))
             self.add(body)
 
     def labels(self):
@@ -382,31 +385,31 @@ class Map:
         if self.view == "realm":
             for kid, k in Wd.KINGDOMS.items():
                 X, Y = self.P(*k["label"])
-                self.add(f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT_SC}" font-size="26" letter-spacing="7" text-anchor="middle" fill="{c["kingdomlabel"]}" fill-opacity="0.85" stroke="{c["land"]}" stroke-width="4" paint-order="stroke">{k["name"].upper()}</text>')
+                self.add(self.G(MI.KINGDOM_REVEAL.get(kid, MI.LATER), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT_SC}" font-size="{26*min(self.fs, 1.35):.1f}" letter-spacing="7" text-anchor="middle" fill="{c["kingdomlabel"]}" fill-opacity="0.85" stroke="{c["land"]}" stroke-width="4" paint-order="stroke">{k["name"].upper()}</text>'))
             for name, (x, y) in Wd.SEAS.items():
                 X, Y = self.P(x, y)
                 rot = -90 if x < 10 else 0
-                self.add(f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="19" letter-spacing="5" text-anchor="middle" fill="{c["water"]}" transform="rotate({rot} {X:.1f} {Y:.1f})">{name}</text>')
+                self.add(self.G(MI.REALM_LABEL_REVEAL.get(name, MI.LATER), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{19*min(self.fs,1.4):.1f}" letter-spacing="5" text-anchor="middle" fill="{c["water"]}" transform="rotate({rot} {X:.1f} {Y:.1f})">{name}</text>'))
             # range and region names
             for name, (x, y, rot) in {"The Iron Fells": (114, 33, 55), "The High Crown": (70, 16, 0),
                                        "The Scarfell": (204, 82, 55), "Sunward Hills": (76, 112, 25)}.items():
                 X, Y = self.P(x, y)
-                self.add(f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="12" letter-spacing="2" text-anchor="middle" fill="{c["mount"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke" transform="rotate({rot} {X:.1f} {Y:.1f})">{name}</text>')
+                self.add(self.G(MI.REALM_LABEL_REVEAL.get(name, MI.LATER), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{12*self.fs:.1f}" letter-spacing="2" text-anchor="middle" fill="{c["mount"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke" transform="rotate({rot} {X:.1f} {Y:.1f})">{name}</text>'))
             for name, (x, y) in {"The Greenwold": (152, 82), "Elderwood": (48, 116), "The Ashlings": (210, 128),
                                   "The Hallow Plains": (272, 132), "The Candle Downs": (136, 172), "The Saltings": (232, 186)}.items():
                 if name in ("The Hallow Plains", "The Candle Downs", "The Saltings"):
                     continue  # placed as landmarks already
                 X, Y = self.P(x, y)
-                self.add(f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="12" text-anchor="middle" fill="{c["forest"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke">{name}</text>')
+                self.add(self.G(MI.REALM_LABEL_REVEAL.get(name, MI.LATER), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{12*self.fs:.1f}" text-anchor="middle" fill="{c["forest"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke">{name}</text>'))
             # the Marches
             X, Y = self.P(188, 116)
-            self.add(f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT_SC}" font-size="15" letter-spacing="4" text-anchor="middle" fill="{c["border"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke" transform="rotate(-78 {X:.1f} {Y:.1f})">THE MARCHES</text>')
+            self.add(self.G(MI.REALM_LABEL_REVEAL["THE MARCHES"], f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT_SC}" font-size="{15*self.fs:.1f}" letter-spacing="4" text-anchor="middle" fill="{c["border"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke" transform="rotate(-78 {X:.1f} {Y:.1f})">THE MARCHES</text>'))
             # river labels
             for name, (x, y, rot) in {"Wend": (181.5, 150, -82), "Coldrun": (50, 47, -10), "Gilt": (64, 142, -55), "Meryl": (139, 160, -80), "Ysse": (263, 150, -85)}.items():
                 X, Y = self.P(x, y)
-                self.add(f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="11" text-anchor="middle" fill="{c["water"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke" transform="rotate({rot} {X:.1f} {Y:.1f})">{name}</text>')
+                self.add(self.G(MI.REALM_LABEL_REVEAL.get(name, MI.LATER), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{11*self.fs:.1f}" text-anchor="middle" fill="{c["water"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke" transform="rotate({rot} {X:.1f} {Y:.1f})">{name}</text>'))
             X, Y = self.P(118, 98)
-            self.add(f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="10" fill="{c["ink"]}" fill-opacity="0.75" stroke="{c["land"]}" stroke-width="3" paint-order="stroke">the Oneroad</text>')
+            self.add(self.G(MI.REALM_LABEL_REVEAL["the Oneroad"], f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{10*self.fs:.1f}" fill="{c["ink"]}" fill-opacity="0.75" stroke="{c["land"]}" stroke-width="3" paint-order="stroke">the Oneroad</text>'))
         else:
             for name, (x, y, rot, sz) in {"River Wend": (177.5, 90.5, -72, 22), "HEARTHMERE": (170.2, 92.5, 0, 26), "SALTREACH": (186.5, 108, 0, 26),
                                           "the Oneroad": (170, 103.2, -2, 14), "the Drover's Way": (181.6, 119, -88, 13),
@@ -622,7 +625,7 @@ class Map:
             return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {self.W:.0f} {self.H:.0f}" width="{self.W:.0f}" height="{self.H:.0f}">\n{body}\n</svg>\n')
         self.secrets_layer()
         self.labels()
-        if self.prog:
+        if self.prog and self.view == "marches":
             self.ambient()
             self.items()
         self.places(interactive)
@@ -632,7 +635,7 @@ class Map:
 
 
 REALM_HIDE = {"millbrook", "catacombs"}
-REALM_LABEL = {"greyhold": (-1, 1.2), "oldruin": (0.5, -1.5), "harrowsend": (0.4, -1.6), "ashford": (-1, -0.2), "cotterscross": (0.3, 0.4)}
+REALM_LABEL = {"hallowmere": (-1, -0.6), "greyhold": (-1, 1.2), "oldruin": (0.5, -1.5), "harrowsend": (0.4, -1.6), "ashford": (-1, -0.2), "cotterscross": (0.3, 0.4)}
 
 def point_in(poly, x, y):
     inside = False

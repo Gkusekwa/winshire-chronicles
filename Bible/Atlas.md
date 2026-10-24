@@ -5,7 +5,9 @@
 ## Scale and travel
 
 - **One league is about three miles**, roughly an hour's walk. Winshire is about **300 leagues** from the western capes to the Worldsend, and **200 leagues** from the High Crown to the Shattered Sea.
-- The Marches, where Book 1 happens, are small: **Greyhold to the Old Ruin is about three leagues** upriver, close enough to see the ruin from the school's river wall on a clear evening; **Harrow's End is just across the river from the Ruin**, about a league from the water; **Varrhold is about ten leagues** north-east of Harrow's End.
+- The Marches, where Book 1 happens, are small. **Greyhold to the Old Ruin is 3.5 leagues** in a straight line (about 4.5 by the River Road and a boat), close enough to see the ruin from the school's river wall on a clear evening. **Harrow's End is 3.5 leagues** from the Ruin across the water. **Varrhold is 9.5 leagues** north-east of Harrow's End in a straight line, 12 by the Drover's Way: two days by grain cart, one by horse.
+
+- **All distances in this atlas come from the map itself.** Straight-line distances are measured between the map points; road distances are straight lines plus a quarter, rounded to the nearest half league.
 
 | How | Leagues a day |
 |---|---|
@@ -19,26 +21,26 @@
 
 ### Distances by road
 
-*Road distances are about a quarter longer than straight lines. Dragon times assume a steady day of flying; a dragon in a hurry is faster.*
+*Road distance is the straight line plus a quarter. Dragons fly the straight line; dragon times assume a steady pace, and a dragon in a hurry is faster.*
 
-| From | To | Leagues | On foot | On horseback | By dragon |
-|---|---|---|---|---|---|
-| Greyhold | The Old Ruin | 4.5 | half a day | half a day | 25 minutes |
-| Greyhold | Harrow's End | 10.5 | 1.5 days | 1 day | 1 hours |
-| Harrow's End | Varrhold | 13.5 | 1.5 days | 1 day | 1.3 hours |
-| Greyhold | Millbrook | 8 | 1 day | half a day | 45 minutes |
-| Greyhold | Ashford | 24 | 3 days | 1.5 days | 2.4 hours |
-| Greyhold | Hallowmere | 57.5 | 7 days | 4 days | 5.8 hours |
-| Hallowmere | Stillhaven | 117.5 | 14.5 days | 8.5 days | 11.7 hours |
-| Greyhold | Wendmouth | 122.5 | 15.5 days | 9 days | 12.2 hours |
-| Hallowmere | Vael | 94 | 12 days | 6.5 days | 9.4 hours |
-| Hallowmere | Ironhythe | 114 | 14 days | 8 days | 11.4 hours |
-| Hallowmere | Solenne | 128 | 16 days | 9 days | 12.8 hours |
-| Wendmouth | Corsa | 99.5 | 12.5 days | 7 days | 10 hours |
-| Corsa | Kethra's Moot | 92 | 11.5 days | 6.5 days | 9.2 hours |
-| The Old Ruin | The Hollow Ring | 124.5 | 15.5 days | 9 days | 12.4 hours |
-| Varrhold | Vael | 85 | 10.5 days | 6 days | 8.5 hours |
-| Solenne | Corsa | 269 | 33.5 days | 19 days | 26.9 hours |
+| From | To | Straight line | By road | On foot | On horseback | By dragon |
+|---|---|---|---|---|---|---|
+| Greyhold | The Old Ruin | 3.5 | 4.5 | half a day | half a day | 25 minutes |
+| Greyhold | Harrow's End | 6.5 | 8.5 | 1 day | half a day | 50 minutes |
+| Harrow's End | Varrhold | 9.5 | 12 | 1.5 days | 1 day | 1.2 hours |
+| Greyhold | Millbrook | 6 | 8 | 1 day | half a day | 45 minutes |
+| Greyhold | Ashford | 19 | 24 | 3 days | 1.5 days | 2.4 hours |
+| Greyhold | Hallowmere | 46 | 57.5 | 7 days | 4 days | 5.8 hours |
+| Hallowmere | Stillhaven | 94 | 117.5 | 14.5 days | 8.5 days | 11.7 hours |
+| Greyhold | Wendmouth | 98 | 122.5 | 15.5 days | 9 days | 12.2 hours |
+| Hallowmere | Vael | 75.5 | 94 | 12 days | 6.5 days | 9.4 hours |
+| Hallowmere | Ironhythe | 91 | 114 | 14 days | 8 days | 11.4 hours |
+| Hallowmere | Solenne | 102.5 | 128 | 16 days | 9 days | 12.8 hours |
+| Wendmouth | Corsa | 80 | 99.5 | 12.5 days | 7 days | 10 hours |
+| Corsa | Kethra's Moot | 74 | 92 | 11.5 days | 6.5 days | 9.2 hours |
+| The Old Ruin | The Hollow Ring | 99.5 | 124.5 | 15.5 days | 9 days | 12.4 hours |
+| Varrhold | Vael | 68 | 85 | 10.5 days | 6 days | 8.5 hours |
+| Solenne | Corsa | 215 | 269 | 33.5 days | 19 days | 26.9 hours |
 
 ## The shape of the land
 
@@ -92,7 +94,7 @@
 **Places.**
 
 - **Harrow's End** (village). *(name proposed)* Calder's village on the Saltreach bank: thirty-odd houses of river stone and tarred timber with turf roofs, a mill on Hollow Beck, a shrine to the gods at the crossroads, and barley and flax fields running down to the water. From the top field you can see the Old Ruin. The Drover's Way passes through on its way to Varrhold.
-- **Varrhold** (hold). *(name proposed)* The Dragon Clan's hold, ten leagues north-east of Harrow's End in the Scarfell. A ring of black-stone longhouses inside a turf rampart, the chief's hall roofed with dragon-scale shingles shed over generations, and above it the Roosts: dragon eyries cut into the cliff, scorched black at the mouths. A long day by grain cart from Harrow's End; a quarter hour by dragon.
+- **Varrhold** (hold). *(name proposed)* The Dragon Clan's hold, ten leagues north-east of Harrow's End in the Scarfell. A ring of black-stone longhouses inside a turf rampart, the chief's hall roofed with dragon-scale shingles shed over generations, and above it the Roosts: dragon eyries cut into the cliff, scorched black at the mouths. Two days by grain cart from Harrow's End, one on horseback; under a quarter of an hour by dragon.
 - **Cotter's Cross** (town). A rough market town on the Saltreach bank where the Drover's Way meets the Saltreach Track. Inns, a beast pen, a hiring yard where sellswords wait for contracts. Nobody keeps the peace here except whoever paid most recently.
 - **Wendmouth** (city). A port-city on the east bank at the mouth of the Wend, run by four trading houses who hate one another. Painted warehouses on stilts, a floating market, and the beast market at Gallows Quay, legal and otherwise.
 - **Gullhaven** (city). A fishing and salt port behind a long shingle spit. Smoke houses, salt pans, the best oysters in the Six Kingdoms and the worst wine.
@@ -164,10 +166,10 @@
 - **Coldtarn** (landmark). A black mountain lake above Varrhold. The Clan's dead are burned on its shore.
 - **The Scarfell** (landmark). Bare, high moorland and broken crags north and east of the Marches: heather, scree and wind. Dragon country. Sheep, if you're brave.
 - **Northwatch** (tower). A patrol tower on the River Road, manned by the river watch. Signal fires on the roof. Maren served here.
-- **Varrhold** (hold). *(name proposed)* The Dragon Clan's hold, ten leagues north-east of Harrow's End in the Scarfell. A ring of black-stone longhouses inside a turf rampart, the chief's hall roofed with dragon-scale shingles shed over generations, and above it the Roosts: dragon eyries cut into the cliff, scorched black at the mouths. A long day by grain cart from Harrow's End; a quarter hour by dragon.
-- **Upper Rush** (village). *(Chapters 1 and 2)* A hamlet of four farms on the Saltreach bank, two leagues upriver of Harrow's End. Its barns are the fires Maren sees from the river wall in Chapter 1: raided at night for beasts, then burned. Harrow's End blames the Clan's quarrel.
+- **Varrhold** (hold). *(name proposed)* The Dragon Clan's hold, ten leagues north-east of Harrow's End in the Scarfell. A ring of black-stone longhouses inside a turf rampart, the chief's hall roofed with dragon-scale shingles shed over generations, and above it the Roosts: dragon eyries cut into the cliff, scorched black at the mouths. Two days by grain cart from Harrow's End, one on horseback; under a quarter of an hour by dragon.
 - **Hollow Beck** (landmark). The stream that runs down from Coldtarn in the Scarfell, past Varrhold and Harrow's End, into the Wend opposite the Old Ruin.
 - **Redwatch** (tower). The watch tower nearest the Old Ruin, red sandstone, half a league from the bank. The river watch's patrol boats are kept in its boathouse.
+- **Upper Rush** (village). *(Chapters 1 and 2)* A hamlet of four farms in a hollow above the Saltreach bank, two leagues upriver of Harrow's End. Its barns are the fires Maren sees from the river wall in Chapter 1: raided at night for beasts, then burned. Harrow's End blames the Clan's quarrel.
 - **Harrow's End** (village). *(name proposed)* Calder's village on the Saltreach bank: thirty-odd houses of river stone and tarred timber with turf roofs, a mill on Hollow Beck, a shrine to the gods at the crossroads, and barley and flax fields running down to the water. From the top field you can see the Old Ruin. The Drover's Way passes through on its way to Varrhold.
 - **Fenn farm** (farm). *(Calder's home)* Calder's farm on the lower edge of Harrow's End: a stone longhouse with the byre under one roof, a barn, a kitchen garden, two fields of barley and one of flax, and a strip of water-meadow along the Wend. The Clan's battle in Chapter 10 spills across these fields.
 - **The Old Ruin** (ruin). *(established (island in the border river))* Broken arches and a squat round tower on a wooded island where the Wend splits, about three leagues upriver of Greyhold. It was a bridge-fort on the Oneroad, the old realm's highway, and the stumps of the bridge piers still break the water at low summer. A verse about Winshire is carved under the tower arch. River folk on both banks leave it alone.
@@ -220,7 +222,7 @@
 
 ### The lived-in Marches
 
-- **Harrow mill** (from Chapter 2). The mill on Hollow Beck. The miller owes everyone money.
+- **Harrow mill** (from Chapter 2). Hob's mill on Hollow Beck. His prices are how he says hello.
 - **Ferriby** (from Chapter 3). A Hearthmere hamlet of a dozen houses and a smithy, a league inland from Redwatch.
 - **Charcoal burners** (from Chapter 3). Charcoal burners' clearing in the Brackenwood, licensed by the crown.
 - **Boar** (from Chapter 3). Wild boar in the Brackenwood, big enough that the patrol goes round.

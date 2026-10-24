@@ -122,9 +122,9 @@ footer { margin-top: 48px; font-family: var(--sans); font-size: 13px; color: var
   </div>
 
   <div class="chapter" id="chapter-ctl" hidden>
-    <label for="ch">The Marches after chapter</label>
+    <label for="ch">The map after chapter</label>
     <button class="step" id="ch-prev" aria-label="Previous chapter">‹</button>
-    <input type="range" id="ch" min="0" max="41" value="41" step="1">
+    <input type="range" id="ch" min="0" max="42" value="42" step="1">
     <button class="step" id="ch-next" aria-label="Next chapter">›</button>
     <output id="ch-out" for="ch"></output>
   </div>
@@ -166,10 +166,10 @@ footer { margin-top: 48px; font-family: var(--sans); font-size: 13px; color: var
 
   <section>
     <h2>Leagues and days</h2>
-    <p class="sub">Road distances run about a quarter longer than the straight line. On foot, eight leagues a day; a steady horse, fourteen; a dragon, eighty.</p>
+    <p class="sub">Measured from the map. A road is the straight line plus a quarter; dragons fly straight. On foot, eight leagues a day; a steady horse, fourteen; a dragon, eighty.</p>
     <div class="tablewrap">
       <table>
-        <thead><tr><th>From</th><th>To</th><th style="text-align:right">Leagues</th><th>On foot</th><th>On horseback</th><th>By dragon</th></tr></thead>
+        <thead><tr><th>From</th><th>To</th><th style="text-align:right">Straight line</th><th style="text-align:right">By road</th><th>On foot</th><th>On horseback</th><th>By dragon</th></tr></thead>
         <tbody id="rows"></tbody>
       </table>
     </div>
@@ -220,9 +220,8 @@ function show(v) {
   for (const k in maps) maps[k].hidden = k !== v;
   document.querySelectorAll('.tabs button').forEach(b => b.setAttribute('aria-selected', String(b.dataset.view === v)));
   applyZoom();
-  document.getElementById('chapter-ctl').hidden = v !== 'marches';
-  document.getElementById('newlist').hidden = v !== 'marches';
-  if (v === 'marches') applyChapter(+chInput.value);
+  document.getElementById('chapter-ctl').hidden = false;
+  document.getElementById('newlist').hidden = false;
   if (!current) select('greyhold');
 }
 document.querySelectorAll('.tabs button').forEach(b => b.addEventListener('click', () => { show(b.dataset.view); try { history.replaceState(null, '', '#' + b.dataset.view); } catch (e) {} }));
@@ -268,10 +267,11 @@ vp.addEventListener('keydown', e => { if ((e.key === 'Enter' || e.key === ' ') &
 // chapter progression on the Marches map
 const chInput = document.getElementById('ch');
 function applyChapter(n) {
-  document.getElementById('ch-out').textContent = n === 0 ? 'Before the story' : `${n} · ${TITLES[n]}`;
-  maps.marches.querySelectorAll('.rv').forEach(g => {
+  const all = n >= 42;
+  document.getElementById('ch-out').textContent = n === 0 ? 'Before the story' : all ? 'The whole world (author)' : `${n} · ${TITLES[n]}`;
+  document.querySelectorAll('#viewport .rv').forEach(g => {
     const c = +g.dataset.ch;
-    g.classList.toggle('off', c > n);
+    g.classList.toggle('off', !all && c > n);
     g.classList.toggle('isnew', c === n && n > 0);
     g.classList.toggle('stale', c < n);
   });
@@ -280,14 +280,14 @@ function applyChapter(n) {
   const fresh = [];
   Object.entries(REVEAL).forEach(([id, c]) => { if (c === n && PLACES[id]) fresh.push([id, PLACES[id].name]); });
   Object.entries(ITEMS).forEach(([id, it]) => { if (it.ch === n) fresh.push([id, it.name]); });
-  document.getElementById('newlist-h').textContent = n === 0 ? 'Nothing named yet' : `New in Chapter ${n}`;
+  document.getElementById('newlist-h').textContent = n === 0 ? 'Nothing named yet' : all ? 'Everything, including later books' : `New in Chapter ${n}`;
   fresh.forEach(([id, name]) => { const li = document.createElement('li'); const b = document.createElement('button'); b.textContent = name; b.addEventListener('click', () => select(id)); li.append(b); ul.append(li); });
   try { localStorage.setItem('winshire-ch', String(n)); } catch (e) {}
 }
 try { const s = localStorage.getItem('winshire-ch'); if (s !== null) chInput.value = s; } catch (e) {}
 chInput.addEventListener('input', () => applyChapter(+chInput.value));
 document.getElementById('ch-prev').addEventListener('click', () => { chInput.value = Math.max(0, +chInput.value - 1); applyChapter(+chInput.value); });
-document.getElementById('ch-next').addEventListener('click', () => { chInput.value = Math.min(41, +chInput.value + 1); applyChapter(+chInput.value); });
+document.getElementById('ch-next').addEventListener('click', () => { chInput.value = Math.min(42, +chInput.value + 1); applyChapter(+chInput.value); });
 
 // drag to pan
 let drag = null, moved = false;
@@ -325,7 +325,7 @@ KINGDOMS.forEach(k => {
 const rEl = document.getElementById('roads');
 Object.entries(ROADS).forEach(([n, t]) => { const li = document.createElement('li'); const b = document.createElement('b'); b.textContent = n; li.append(b, document.createElement('br'), t); rEl.append(li); });
 const tb = document.getElementById('rows');
-ROWS.forEach(r => { const tr = document.createElement('tr'); [r.a, r.b, r.d, r.foot, r.horse, r.dragon].forEach((v, i) => { const td = document.createElement('td'); td.textContent = v; if (i === 2) td.className = 'num'; tr.append(td); }); tb.append(tr); });
+ROWS.forEach(r => { const tr = document.createElement('tr'); [r.a, r.b, r.s, r.d, r.foot, r.horse, r.dragon].forEach((v, i) => { const td = document.createElement('td'); td.textContent = v; if (i === 2 || i === 3) td.className = 'num'; tr.append(td); }); tb.append(tr); });
 
 window.addEventListener('resize', applyZoom);
 const start = (location.hash || '').replace('#', '');

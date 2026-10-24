@@ -77,7 +77,7 @@ def travel_rows():
         foot = d / Wd.TRAVEL["On foot"]
         horse = d / Wd.TRAVEL["Horse (steady)"]
         dragon_h = dist(A, B) / Wd.TRAVEL["Dragon"] * 10  # ten flying hours a day
-        rows.append((A["name"], B["name"], d, foot, horse, dragon_h))
+        rows.append((A["name"], B["name"], d, foot, horse, dragon_h, round(dist(A, B) * 2) / 2))
     return rows
 
 
@@ -106,6 +106,73 @@ TITLES = ["", "The Unchosen Yard", "Across the River", "Roads and Roadblocks", "
     "Fire at the Ruin", "The Lock Gives Way", "Underground", "The Last Titan"]
 
 
+def inner(svg):
+    return svg[svg.index(">", svg.index("<svg")) + 1: svg.rindex("</svg>")]
+
+
+def new_in(n):
+    names = []
+    for kid, ch in MI.KINGDOM_REVEAL.items():
+        if ch == n: names.append(Wd.KINGDOMS[kid]["name"])
+    for pid, ch in list(MI.REALM_REVEAL.items()) + list(MI.REVEAL.items()):
+        if ch == n:
+            nm = by(pid)["name"]
+            if nm not in names: names.append(nm)
+    for it in MI.ITEMS:
+        if it["ch"] == n and it["name"] and it["name"] not in names: names.append(it["name"])
+    return names
+
+
+def esc(s):
+    return s.replace("&", "&amp;").replace("<", "&lt;")
+
+
+def compose(n):
+    """One chapter-end page: all of Winshire on top, the Marches close-up below, what's new beside it."""
+    FONT = "'IM Fell English', Georgia, serif"; SC = "'IM Fell English SC', Georgia, serif"
+    W, H = 1601, 2400
+    realm = render("realm", "ink", False, chapter=n)
+    marches = render("marches", "ink", False, chapter=n, subtitle="The Marches, close up" if n else "Before the story begins")
+    out = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}"><rect width="{W}" height="{H}" fill="#fff"/>']
+    out.append(f'<defs><clipPath id="clipRealm"><rect width="1601" height="1113"/></clipPath><clipPath id="clipMarches"><rect width="840" height="1200"/></clipPath></defs>')
+    out.append(f'<g clip-path="url(#clipRealm)">{inner(realm)}</g>')
+    # box the Marches on the world map and lead it down to the close-up
+    s, x0, y0 = 4.6, -14, -12
+    bx0, by0, bx1, by1 = (165 - x0) * s, (84 - y0) * s, (193 - x0) * s, (124 - y0) * s
+    ix, iy, iw, ih = 40, 1150, 840, 1200
+    out.append(f'<rect x="{bx0:.0f}" y="{by0:.0f}" width="{bx1-bx0:.0f}" height="{by1-by0:.0f}" fill="none" stroke="#111" stroke-width="2.4"/>')
+    out.append(f'<path d="M{bx0:.0f},{by1:.0f} L{ix},{iy} M{bx1:.0f},{by1:.0f} L{ix+iw},{iy}" stroke="#111" stroke-width="1" stroke-dasharray="4 4"/>')
+    out.append(f'<g transform="translate({ix},{iy})"><g clip-path="url(#clipMarches)">{inner(marches)}</g></g>')
+    # caption
+    tx = ix + iw + 50
+    if n == 0:
+        head, sub = "Winshire", "Before the story begins"
+    else:
+        head, sub = f"After Chapter {n}", TITLES[n]
+    out.append(f'<text x="{tx}" y="{iy+60}" font-family="{SC}" font-size="44" letter-spacing="3" fill="#111">{esc(head)}</text>')
+    out.append(f'<text x="{tx}" y="{iy+108}" font-family="{FONT}" font-style="italic" font-size="34" fill="#111">{esc(sub)}</text>')
+    out.append(f'<path d="M{tx},{iy+140} h{W-tx-50}" stroke="#111" stroke-width="1"/>')
+    y = iy + 196
+    names = new_in(n)
+    if names:
+        out.append(f'<text x="{tx}" y="{y}" font-family="{SC}" font-size="24" letter-spacing="3" fill="#444">NEW ON THE MAP</text>')
+        y += 52
+        for nm in names[:16]:
+            words, line, lines = nm.split(), "", []
+            for w in words:
+                if len(line) + len(w) > 24: lines.append(line); line = w
+                else: line = (line + " " + w).strip()
+            lines.append(line)
+            for i, ln in enumerate(lines):
+                out.append(f'<text x="{tx + (0 if i == 0 else 22)}" y="{y}" font-family="{FONT}" font-size="30" fill="#111">{"· " if i == 0 else ""}{esc(ln)}</text>')
+                y += 40
+            y += 6
+    else:
+        out.append(f'<text x="{tx}" y="{y}" font-family="{FONT}" font-style="italic" font-size="30" fill="#111">{"Nothing is named yet." if n == 0 else "Nothing new on the map."}</text>')
+    out.append('</svg>')
+    return "".join(out)
+
+
 def write_progress():
     d = f"{OUT}/progress"
     os.makedirs(d + "/svg", exist_ok=True); os.makedirs(d + "/png", exist_ok=True)
@@ -113,15 +180,15 @@ def write_progress():
     s = render("realm", "ink", False, bare=True)
     open(f"{fm}/winshire_realm_bare.svg", "w").write(s)
     cairosvg.svg2png(bytestring=s.encode(), write_to=f"{fm}/winshire_realm_bare.png", output_width=3600, background_color="white")
-    s = render("marches", "ink", False, chapter=0, subtitle="Before the story begins")
-    open(f"{fm}/winshire_marches_bare.svg", "w").write(s)
-    cairosvg.svg2png(bytestring=s.encode(), write_to=f"{fm}/winshire_marches_bare.png", output_width=1800, background_color="white")
+    s = compose(0)
+    open(f"{fm}/winshire_bare_page.svg", "w").write(s)
+    cairosvg.svg2png(bytestring=s.encode(), write_to=f"{fm}/winshire_bare_page.png", output_width=1800, background_color="white")
     for n in range(1, 42):
-        s = render("marches", "ink", False, chapter=n, subtitle=f"At the close of Chapter {n}: {TITLES[n]}")
+        s = compose(n)
         open(f"{d}/svg/map_after_chapter_{n:02d}.svg", "w").write(s)
         cairosvg.svg2png(bytestring=s.encode(), write_to=f"{d}/png/map_after_chapter_{n:02d}.png", output_width=1800, background_color="white")
     os.system(f'for f in {d}/png/*.png {fm}/*.png; do convert "$f" -colorspace Gray -units PixelsPerInch -density 300 "$f"; done')
-    os.system(f'montage -label "%t" {d}/png/map_after_chapter_*.png -tile 7x -geometry 260x+6+6 {d}/contact_sheet.png')
+    os.system(f'montage -label "%t" {d}/png/map_after_chapter_*.png -tile 7x -geometry 220x+6+6 {d}/contact_sheet.png')
 
 
 # ---------------- maps ----------------
@@ -149,16 +216,22 @@ def write_atlas():
              "The maps and this file are generated from one data file, so they always agree.*\n")
     L.append("## Scale and travel\n")
     L.append("- **One league is about three miles**, roughly an hour's walk. Winshire is about **300 leagues** from the western capes to the Worldsend, and **200 leagues** from the High Crown to the Shattered Sea.")
-    L.append("- The Marches, where Book 1 happens, are small: **Greyhold to the Old Ruin is about three leagues** upriver, close enough to see the ruin from the school's river wall on a clear evening; **Harrow's End is just across the river from the Ruin**, about a league from the water; **Varrhold is about ten leagues** north-east of Harrow's End.\n")
+    def sl(a, b2):
+        return round(dist(by(a), by(b2)) * 2) / 2
+    def rd(a, b2):
+        return round(dist(by(a), by(b2)) * 1.25 * 2) / 2
+    L.append(f"- The Marches, where Book 1 happens, are small. **Greyhold to the Old Ruin is {sl('greyhold','oldruin'):g} leagues** in a straight line (about {rd('greyhold','oldruin'):g} by the River Road and a boat), close enough to see the ruin from the school's river wall on a clear evening. "
+             f"**Harrow's End is {sl('harrowsend','oldruin'):g} leagues** from the Ruin across the water. **Varrhold is {sl('harrowsend','varrhold'):g} leagues** north-east of Harrow's End in a straight line, {rd('harrowsend','varrhold'):g} by the Drover's Way: two days by grain cart, one by horse.\n")
+    L.append("- **All distances in this atlas come from the map itself.** Straight-line distances are measured between the map points; road distances are straight lines plus a quarter, rounded to the nearest half league.\n")
     L.append("| How | Leagues a day |\n|---|---|")
     for k, v in Wd.TRAVEL.items():
         L.append(f"| {k} | {v} |")
     L.append("")
     L.append("### Distances by road\n")
-    L.append("*Road distances are about a quarter longer than straight lines. Dragon times assume a steady day of flying; a dragon in a hurry is faster.*\n")
-    L.append("| From | To | Leagues | On foot | On horseback | By dragon |\n|---|---|---|---|---|---|")
-    for a, b, d, foot, horse, dh in travel_rows():
-        L.append(f"| {a} | {b} | {d:g} | {fmt_days(foot)} | {fmt_days(horse)} | {fmt_hours(dh)} |")
+    L.append("*Road distance is the straight line plus a quarter. Dragons fly the straight line; dragon times assume a steady pace, and a dragon in a hurry is faster.*\n")
+    L.append("| From | To | Straight line | By road | On foot | On horseback | By dragon |\n|---|---|---|---|---|---|---|")
+    for a, b, d, foot, horse, dh, s in travel_rows():
+        L.append(f"| {a} | {b} | {s:g} | {d:g} | {fmt_days(foot)} | {fmt_days(horse)} | {fmt_hours(dh)} |")
     L.append("")
 
     L.append("## The shape of the land\n")
@@ -238,7 +311,7 @@ def write_atlas():
 
 # ---------------- interactive page ----------------
 def write_html():
-    realm = render("realm", "color", True, interactive=True)
+    realm = render("realm", "color", True, interactive=True)  # gated by chapter; 42 shows everything
     marches = render("marches", "color", True, interactive=True, subtitle="Book 1, chapter by chapter")
     places = {p["id"]: dict(name=p["name"], kind=KIND_WORD[p["kind"]], kingdom=Wd.KINGDOMS.get(p["kingdom"], {"name": "The Marches"})["name"],
                             desc=p["desc"], canon=p["canon"], secret=p["secret"], x=p["x"], y=p["y"]) for p in Wd.P}
@@ -250,7 +323,7 @@ def write_html():
                 for k in ["hearthmere", "saltreach", "kessmoor", "sarovel", "isvaren", "wyldmarch"]]
     items = {it["id"]: dict(name=it["name"] or it["desc"].split(".")[0], kind=it["kind"].replace("_", " "), ch=it["ch"], desc=it["desc"]) for it in MI.ITEMS}
     reveal = {pid: ch for pid, ch in MI.REVEAL.items()}
-    rows = [dict(a=a, b=b, d=d, foot=fmt_days(f), horse=fmt_days(h), dragon=fmt_hours(dh)) for a, b, d, f, h, dh in travel_rows()]
+    rows = [dict(a=a, b=b, s=s, d=d, foot=fmt_days(f), horse=fmt_days(h), dragon=fmt_hours(dh)) for a, b, d, f, h, dh, s in travel_rows()]
     tpl = open("page.html").read()
     page = (tpl.replace("%%REALM%%", realm).replace("%%MARCHES%%", marches)
                .replace("%%PLACES%%", json.dumps(places)).replace("%%KINGDOMS%%", json.dumps(kingdoms))

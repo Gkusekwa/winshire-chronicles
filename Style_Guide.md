@@ -55,7 +55,8 @@
 
 ## Length
 
-- About **2,500–3,000 words per chapter**, about **110,000 words** for Book 1.
+- **No upper limit.** Book 1 is planned as **79 chapters in six parts**, and chapters run as long as their scenes need, roughly **3,500–5,000 words**. Expect **300,000 words or more**.
+- Length has to come from people, place and consequence: every scene earns its room by changing something or showing someone we'll care about later. Cut anything that only repeats.
 
 ## Names and terms
 
@@ -68,9 +69,9 @@
 
 ## Reveals to protect (Book 1)
 
-- Don't reveal that the Restoration has two leaders before chapter 34.
-- Don't reveal that other Titans exist; the Last Titan is only legend until chapter 25.
-- Don't reveal the Restoration's part in the Dragon Clan killing until the farmer overhears it in chapter 34.
+- Don't reveal that the Restoration has two leaders before chapter 68.
+- Don't reveal that other Titans exist; the Last Titan is only legend until chapter 45.
+- Don't reveal the Restoration's part in the Dragon Clan killing until the farmer overhears it in chapter 68.
 - Nothing about the Council of Immortals, ever, in Books 1–3.
 
 ## Manuscript files

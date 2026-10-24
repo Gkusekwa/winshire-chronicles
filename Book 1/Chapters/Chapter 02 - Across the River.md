@@ -2,12 +2,12 @@
 
 <!-- notes
 POV: The farmer
-Part: Part One: Two Beginnings
+Part: Part One: Two Banks
 Beats: Farm life on the Saltreach side. The old chief has died. His mother, Ada, sings the old song: "before the six, there was one," the gods who walk unbound, and the Last Titan.
 Echo of the other's story: Knights' lanterns on the far bank at night; his family says the knights never cross.
 Status: first draft
 Thread resolved: the fires Maren sees at the end of Chapter 1 are farms at Upper Rush, raided in the night for beasts and burned; the village blames the Clan's quarrel. Calder pockets a length of beast chain and says nothing. (Readers later learn it was the Restoration.)
-Draft notes: Same day as Chapter 1. The seven dragons are the Clan's funeral flight along the border. Bel (Calder's sister) lives at Upper Rush with her husband, Joss. New minor characters: Bramble the cow, Hob the miller, Tam Garrow. The song's last line, "till the six are one again," quietly echoes the Restoration's oath, "One again."
+Draft notes: Same day as Chapter 1. The seven dragons are the Clan's funeral flight along the border. Bel (Calder's sister) lives at Upper Rush with her husband, Joss. New minor characters: Bramble the cow, Hob the miller, Davy Garrow. The song's last line, "till the six are one again," quietly echoes the Restoration's oath, "One again."
 notes -->
 
 ---
@@ -30,17 +30,17 @@ Wren was at the table with her porridge, eating it the way she did everything, o
 
 "Will they burn him all week?"
 
-"Till the fourth morning," said Ada. "Then they scatter him on Coldtarn."
+"Till the new moon," said Ada. "Then they scatter him on Coldtarn."
 
-"Why the fourth?"
+"Why the new moon?"
 
-"Because it isn't the third."
+"Because it isn't the full one."
 
 Wren thought about this and decided to let it go, which was new. She was nine. Last year she'd have followed it all the way down. She had her mother's habit of going quiet when she was storing something, and Calder had stopped trying to guess what she did with it all.
 
-"Tam Garrow says there'll be a war," she said.
+"Davy Garrow says there'll be a war," she said.
 
-"Tam Garrow is ten."
+"Davy Garrow is ten."
 
 "Ten and a half. He says the uncle wants the hold and the sons want the hold, and when two lots want the same thing you get a war." She licked her spoon. "He says the uncle's the best fighter in the Clan, so he'll win."
 
@@ -197,7 +197,7 @@ Bel was in the middle of them, filthy to the elbows, with her husband Joss besid
 
 "What happened?"
 
-Joss answered. He was a big, slow, gentle man who bred dray-beasts, and his voice had gone strange and thin. "They came after midnight. Twenty, maybe more. Masks. No colours. They didn't come for the houses." He looked at the burning barn. "They came for the beasts. They knew which barns. They had them roped and out before we were even down the ladder, and then they fired the barns behind them. Like you'd shut a door."
+Joss answered. He was a big, slow, gentle man who bred dray-beasts, and his voice had gone strange and thin. "They came just on dark. Twenty, maybe more. Masks. No colours. They didn't come for the houses." He looked at the burning barn. "They came for the beasts. They knew which barns. They had them roped and out before we were even down the ladder, and then they fired the barns behind them. Like you'd shut a door."
 
 "All of them?"
 
@@ -251,7 +251,7 @@ Joss had come down behind him. He stood with his big hands hanging and looked ac
 
 "Probably."
 
-"Three barns going up two leagues from their wall. And they'll have stood there and watched." Joss spat in the river. "They'll not cross."
+"Three barns going up a few leagues from their wall. And they'll have stood there and watched." Joss spat in the river. "They'll not cross."
 
 "They never do," said Calder.
 

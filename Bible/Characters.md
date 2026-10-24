@@ -19,7 +19,7 @@
 - **Her mother, Liss,** runs a ferry on the border river and still crosses to the Saltreach side for trade. She tells the river's stories, including the island's.
 - **Her younger brother, Tam** (19), is apprenticed to a smith in a Hearthmere river town and worships the knights his sister is trying to become.
 
-**Flaw: control.** Maren trusts only what she can control: her training, her body, her temper. Restraint is her strength, but it hardens into coldness and a refusal to depend on anyone. A bond, which shares one life, is the thing she fears most. Her arc runs from control to trust, ending when she offers her own life into the binding to save the lion in chapter 37.
+**Flaw: control.** Maren trusts only what she can control: her training, her body, her temper. Restraint is her strength, but it hardens into coldness and a refusal to depend on anyone. A bond, which shares one life, is the thing she fears most. Her arc runs from control to trust, ending when she offers her own life into the binding to save the lion in chapter 73.
 
 **What she wants:** to become a knight on her own merit, without being chosen by a beast. Underneath that, she needs to let something matter more to her than her own control.
 
@@ -47,7 +47,7 @@
 - **His younger sister, Bel,** married into the next village, closer to the Dragon Clan's hold.
 - The family farm sits on the Saltreach side of the border river, in the shadow of the Clan's lands. They sell grain to the Clan's hold.
 
-**Flaw: passivity.** Calder has spent his life keeping his head down: paying the Clan's dues, avoiding the knights across the river, letting stronger people decide. It kept his family alive. Then the bonds come to him without his choosing, and he can't keep his head down anymore. His arc runs from letting things happen to choosing: warning a stranger at the other lock in chapter 36, fighting at the Old Ruin, and in Book 2 bringing the truth to the Clan.
+**Flaw: passivity.** Calder has spent his life keeping his head down: paying the Clan's dues, avoiding the knights across the river, letting stronger people decide. It kept his family alive. Then the bonds come to him without his choosing, and he can't keep his head down anymore. His arc runs from letting things happen to choosing: warning a stranger at the other lock in chapter 70, fighting at the Old Ruin, and in Book 2 bringing the truth to the Clan.
 
 **What he wants:** to know **why the dragons came to him** (established). Underneath that, he needs to accept that he is no longer ordinary, and that his choices now matter to many more people than his own.
 
@@ -65,7 +65,7 @@
 
 **What people call it:** **the Grey Mane**, or "the monster of the Old Ruin."
 
-**Its true name** *(established; learned only through the bond, in chapter 37)*: **Orrun**
+**Its true name** *(established; learned only through the bond, in chapter 73)*: **Orrun**
 
 **Sense of it:** old, heavy, and patient until it isn't. Through the bond, its mind comes across as slow and deep, like stone settling, with grief underneath, for kin it can feel beneath the earth.
 
@@ -97,9 +97,9 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 | Role | Recommended | Alternatives | Notes |
 |---|---|---|---|
 | The knight school | **Greyhold** | Ashford Keep, Riverwatch | A fortress-school on Hearthmere's bank of the border river. |
-| Maren's mentor (inner circle) | **Warden Osric Hale** | Warden Aldous Merrin, Warden Coll Ambrey | Kind, tired, carrying the secret; the one who confirms it in chapter 27. "Warden" is the inner circle's rank. |
+| Maren's mentor (inner circle) | **Warden Osric Hale** | Warden Aldous Merrin, Warden Coll Ambrey | Kind, tired, carrying the secret; the one who confirms it in chapter 49. "Warden" is the inner circle's rank. |
 | Maren's bonded rival | **Corwin Brandt** | Lysander Holt, Daven Ashe | Younger, gifted, bonded to a falcon-like beast named **Kesh**; not cruel, just certain he deserves everything he's handed. |
-| The trial master | **Knight-Captain Ilse Rowan** | Knight-Captain Bram Tollar | Sets Maren's trial in chapter 7. |
+| The trial master | **Knight-Captain Ilse Rowan** | Knight-Captain Bram Tollar | Sets Maren's trial in chapter 11. |
 
 ### The Dragon Clan
 
@@ -125,6 +125,21 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 |---|---|---|---|
 | The twin brothers *(established)* | **Cassian and Corvin Vale** | — | Cassian is the public face who wins people over; Corvin is the hidden strategist. **Maren kills Cassian** at the school's lock at the end of Book 1. Corvin opens the Old Ruin's lock against Calder, survives into Book 2, and is killed in Book 3. |
 | The faction's true name | **the Oneward** | Heirs of Winshire, the Covenant of One | From the old song, "before the six, there was one"; their oath is "One again." People still call them "the Restoration." *(Avoid "the Unbound": it is Book 1's working title.)* |
+
+### Added for the full-length Book 1 plan *(proposed)*
+
+| Who | Name | Notes |
+|---|---|---|
+| Maren's friend, unbonded | **Tobin** | Nineteen, all elbows, loud about being unchosen. The Restoration wins him (chapters 9, 47, 57); Maren meets him across the fight at Millbrook (71). |
+| Greyhold's weapons instructor | **Instructor Pell** | Long-boned, grey, two fingers lost on the Saltreach road. Teaches subdue, don't kill. Dies holding the gate (69). |
+| Maren's mother | **Liss Ashdown** | Runs the ferry; knows every river story. Carries Calder's family across as refugees (64). |
+| Maren's brother | **Tam Ashdown** | Smith's apprentice at Millbrook; drawn to the Restoration's promises (31); pulled out of the burning smithy (71). |
+| A bonded student | **the Darrow girl** (name open) | Her hound is killed in a skirmish and she withers in three days (39): one life between two, seen up close. |
+| Calder's sister and her husband | **Bel and Joss** | Upper Rush. Joss breeds dray-beasts, hunts for his stolen greys, and is killed (50). |
+| Harrow's End's miller | **Hob** | Prices are how he says hello. Takes Ulric's coin (16) and sells Calder's whereabouts (24). |
+| Calder's cow | **Bramble** | No opinions about the Clan. |
+| The Restoration's agent in Ulric's hall | **Rook** | A quiet hired hand with the wrong boots. Kills Teo (canon: the killer was a Restoration agent); dies at the Ruin before he can be made to talk (72). |
+| Sellsword captain | **Captain Idris Vey** | Saltreach company hired to bring in the dragon farmer (32). |
 
 ### Places
 

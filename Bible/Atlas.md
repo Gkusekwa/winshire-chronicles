@@ -1,0 +1,252 @@
+# Winshire: Atlas
+
+*A gazetteer of the world, built with the maps in `Book 1/Art/Maps/`. Everything here is a **working proposal** unless the bible marks it established; established points are noted. The maps and this file are generated from one data file, so they always agree.*
+
+## Scale and travel
+
+- **One league is about three miles**, roughly an hour's walk. Winshire is about **300 leagues** from the western capes to the Worldsend, and **200 leagues** from the High Crown to the Shattered Sea.
+- The Marches, where Book 1 happens, are small: **Greyhold to the Old Ruin is about three leagues** upriver, close enough to see the ruin from the school's river wall on a clear evening; **Harrow's End is just across the river from the Ruin**, about a league from the water; **Varrhold is about ten leagues** north-east of Harrow's End.
+
+| How | Leagues a day |
+|---|---|
+| On foot | 8 |
+| Grain cart or wagon | 7 |
+| Horse (steady) | 14 |
+| Horse (hard riding, one day) | 25 |
+| Barge downstream on the Wend | 20 |
+| Ship along the coast | 30 |
+| Dragon | 80 |
+
+### Distances by road
+
+*Road distances are about a quarter longer than straight lines. Dragon times assume a steady day of flying; a dragon in a hurry is faster.*
+
+| From | To | Leagues | On foot | On horseback | By dragon |
+|---|---|---|---|---|---|
+| Greyhold | The Old Ruin | 4.5 | half a day | half a day | 25 minutes |
+| Greyhold | Harrow's End | 10.5 | 1.5 days | 1 day | 1 hours |
+| Harrow's End | Varrhold | 13.5 | 1.5 days | 1 day | 1.3 hours |
+| Greyhold | Millbrook | 8 | 1 day | half a day | 45 minutes |
+| Greyhold | Ashford | 24 | 3 days | 1.5 days | 2.4 hours |
+| Greyhold | Hallowmere | 57.5 | 7 days | 4 days | 5.8 hours |
+| Hallowmere | Stillhaven | 117.5 | 14.5 days | 8.5 days | 11.7 hours |
+| Greyhold | Wendmouth | 122.5 | 15.5 days | 9 days | 12.2 hours |
+| Hallowmere | Vael | 94 | 12 days | 6.5 days | 9.4 hours |
+| Hallowmere | Ironhythe | 114 | 14 days | 8 days | 11.4 hours |
+| Hallowmere | Solenne | 128 | 16 days | 9 days | 12.8 hours |
+| Wendmouth | Corsa | 99.5 | 12.5 days | 7 days | 10 hours |
+| Corsa | Kethra's Moot | 92 | 11.5 days | 6.5 days | 9.2 hours |
+| The Old Ruin | The Hollow Ring | 124.5 | 15.5 days | 9 days | 12.4 hours |
+| Varrhold | Vael | 85 | 10.5 days | 6 days | 8.5 hours |
+| Solenne | Corsa | 269 | 33.5 days | 19 days | 26.9 hours |
+
+## The shape of the land
+
+- **Mountains.** The **Worldsend** runs down the whole eastern edge, the highest range in Winshire, white all year; the clans say the Titans walked there. The **High Crown** closes the north. The **Iron Fells** run south-east from the High Crown between Kessmoor and Isvaren, rich in ore. The **Scarfell** is the Dragon Clan's moorland north-east of the Marches. The **Sunward Hills** are Sarovel's vineyards.
+- **Rivers.** The **Wend** rises in Isvaren's snows and runs south to the Shattered Sea, marking the Hearthmere–Saltreach border for its whole lower course. The **Coldrun** drains Kessmoor west through Ironhythe to Gearmouth. The **Gilt** waters Sarovel and reaches the sea at Solenne. The **Meryl** carries the Mere south to Stillhaven. The **Ysse** comes out of the Worldsend, fills Lake Ysse, and reaches the sea at Corsa. **Hollow Beck** runs from Coldtarn past Varrhold and Harrow's End into the Wend opposite the Old Ruin.
+- **Lakes.** **The Mere** (Hearthmere's heart, shallow and wide), **Lake Ysse** (where the Wyldmarch clans hold their moot), **Glasswater** (under Vael's towers), **Coldtarn** (a black tarn above Varrhold where the Clan burns its dead).
+- **Forests.** The **Thornwood** (the Wyldmarch's deep forest), the **Greenwold** (oak woods north of Hallowmere), the **Brackenwood** (royal hunting ground beside Greyhold), the **Elderwood** (Sarovel), the **Ashlings** (Saltreach scrub woods).
+- **Plains, marsh and valley.** The **Hallow Plains** (Wyldmarch grassland and standing stones), the **Candle Downs** (Hearthmere's farmland), the **Saltings** (Saltreach salt marsh), the **Reedmarsh** (poachers' reed beds below Cotter's Cross), and the **Vale of the Wend**, the long river valley that is the Marches.
+- **Seas.** The **Shattered Sea** to the south, named for the split of the old realm; the **Western Deep** beyond Kessmoor and Sarovel.
+
+## Roads
+
+- **The King's Road.** Stillhaven to Hallowmere to Greyhold. Paved near the capital, gravel beyond Ashford, with milestones every league and inns every six.
+- **The River Road.** The Hearthmere bank of the Wend, patrolled by the river watch and the knight schools, with towers every few leagues.
+- **The Iron Road.** Ironhythe to Hallowmere: a canal-side road with steam wagons in Kessmoor, ordinary carts once it crosses into Hearthmere.
+- **The Sun Road.** Solenne to Hallowmere through the Sunward Hills: a pilgrim and wine road, with beast-stables at every stage.
+- **The Vael Pass.** Vael to Hallowmere over the Iron Fells. Closed by snow for three months a year.
+- **The Drover's Way.** Varrhold through Harrow's End and Cotter's Cross to Wendmouth: a sheep and grain road on the Saltreach bank, rutted and unpoliced.
+- **The Coast Road.** Wendmouth, Gullhaven, Corsa and Blackwater along Saltreach's southern shore. Toll gates at every town, run by whoever holds the town.
+- **The Saltreach Track.** Cotter's Cross across the scrubland to Corsa. Two hard days without water if you miss the wells.
+- **The Oneroad.** The highway of the old realm before the split, mostly broken now: paving under turf, bridge piers in rivers, mile-stones carved in a script few can read. It crossed the Wend at the Old Ruin. The Restoration treats it as proof that Winshire was once whole.
+
+## The kingdoms
+
+### Hearthmere *(working name)*
+
+**Land.** Green, rich and well watered: chalk downs, wheat and orchards around the Mere, oak woods in the north, the Wend on its eastern border. Magic is licensed and plentiful here, more than anywhere else, and the land feels it: harvests come early, lamps burn without oil in the better streets.
+
+**Buildings.** Grey ragstone and slate. Towns of timber-framed houses with jettied upper floors; manor houses with walled gardens; a chapel in every village. The knightly orders build fortress-schools, chapter-houses and patrol towers along the river, square and plain, with gold-painted rolls of honour inside.
+
+**People.** Soft-spoken, older names (Maren, Osric, Liss, Edric). Pride in the charter and in fairness, kept more on the gate than in practice.
+
+**Places.**
+
+- **Hallowmere** (capital). The royal city on the north shore of the Mere. Grey stone and slate, built up the slope in terraces so that every street looks down on the water. The palace is less a castle than a long hall of chapter-houses where the knightly orders sit in council with the crown. Lamps burn without oil in the better streets, licensed magic and the city's quiet pride. No one asks where that much magic comes from.
+- **The Mere** (landmark). A broad, shallow lake that gives the kingdom its name. Reed beds, eel weirs and fishing villages on stilts along the south shore. In still weather it shows the sky so cleanly that the songs call it the hearth of heaven.
+- **Ashford** (town). A market town at the ford where the King's Road crosses the Ash Brook, eighteen leagues west of the border. Timber-framed houses leaning over the street, a horse fair every autumn, and three fencing masters who charge more than they should. Corwin Brandt trained here.
+- **Stillhaven** (city). Hearthmere's only sea port, at the mouth of the Meryl. Walled harbour, customs house, a fleet of grain cogs. Saltreach privateers are a constant nuisance; the harbour chain is raised every night.
+- **The Candle Downs** (landmark). Rolling chalk farmland south of the Mere: wheat, sheep and orchards, villages around green squares, a chapel in every one. The breadbasket of Hearthmere, and of the Marches when harvests fail.
+- **Greyhold** (fortress). *(Chapter 1)* The knight school on the Hearthmere bank, where the Wend bends. A quarry, then a fort, then a school: curtain walls of grey ragstone, a sanded yard over the old quarry floor, stables, a chapel, an armoury, and the river wall broad enough to walk two abreast. The charter over the gate says the bonded and the unbonded serve as equals. The cellars are locked and always have been.
+- **Millbrook** (village). *(Chapter 5)* A Hearthmere river village two leagues downstream of Greyhold: a water mill, a tavern called the Kettle, and a jetty where Saltreach boats tie up without asking. Poachers sell here.
+
+### Saltreach *(established)*
+
+**Land.** Long southern coast of bays, salt marsh and shingle; scrubland and sheep hills inland; the Marches farmland along the Wend; the Scarfell moors in the north where the Dragon Clan lives.
+
+**Buildings.** Ports of tarred timber and painted shutters, warehouses on stilts, chains across harbour mouths. Inland: river-stone farmhouses with turf roofs, longhouses with the byre under one roof. The Dragon Clan builds in black stone inside turf ramparts, with eyries cut into cliffs.
+
+**People.** No knights. Trading houses, pirate captains, sellswords and outlaws in the south; farmers and drovers in the Marches; the Clan in the hills. Short, hard names in the Clan (Varr, Dag, Arn).
+
+**Places.**
+
+- **Harrow's End** (village). *(name proposed)* Calder's village on the Saltreach bank: thirty-odd houses of river stone and tarred timber with turf roofs, a mill on Hollow Beck, a shrine to the gods at the crossroads, and barley and flax fields running down to the water. From the top field you can see the Old Ruin. The Drover's Way passes through on its way to Varrhold.
+- **Varrhold** (hold). *(name proposed)* The Dragon Clan's hold, ten leagues north-east of Harrow's End in the Scarfell. A ring of black-stone longhouses inside a turf rampart, the chief's hall roofed with dragon-scale shingles shed over generations, and above it the Roosts: dragon eyries cut into the cliff, scorched black at the mouths. A long day by grain cart from Harrow's End; a quarter hour by dragon.
+- **Cotter's Cross** (town). A rough market town on the Saltreach bank where the Drover's Way meets the Saltreach Track. Inns, a beast pen, a hiring yard where sellswords wait for contracts. Nobody keeps the peace here except whoever paid most recently.
+- **Wendmouth** (city). A port-city on the east bank at the mouth of the Wend, run by four trading houses who hate one another. Painted warehouses on stilts, a floating market, and the beast market at Gallows Quay, legal and otherwise.
+- **Gullhaven** (city). A fishing and salt port behind a long shingle spit. Smoke houses, salt pans, the best oysters in the Six Kingdoms and the worst wine.
+- **Corsa** (capital). The largest city of the Saltreach League, where the trading houses and pirate captains sit together in the Tide Council. Tall, narrow houses with painted shutters; chains across the harbour mouth; every second building a counting-house or a tavern. If Saltreach has a capital, this is it.
+- **Blackwater** (town). A smugglers' town in a dark-water inlet under the southern tail of the Worldsend. Outlaws, sellsword companies between contracts, and no questions.
+- **The Saltings** (landmark). Salt marsh and tidal flats between Gullhaven and Corsa. Salt pans, wading birds, and a maze of channels that only the locals sail.
+
+### Kessmoor *(working name)*
+
+**Land.** Cold north-west: moorland, coal and iron in the Iron Fells, the Coldrun valley cut with canals, and the dead glass basin of the Scald where Orrin stood.
+
+**Buildings.** Brick and iron. Foundry chimneys, canal locks, lift-bridges, glass-roofed workshops, clock towers. Streets lit by alchemical lamps in green glass.
+
+**People.** Guild-ranked engineers and artisans. Magic is a crime; bonded people are registered or exiled. Practical, proud, and quietly ashamed of the Scald.
+
+**Places.**
+
+- **Ironhythe** (capital). Kessmoor's capital and largest foundry city, on the Coldrun where the canals begin. Brick, iron and smoke; locks and lift-bridges; streets lit by alchemical lamps in green glass. The Assembly of Guildmasters meets in the Hall of Measures, under a clock that has never been wrong.
+- **Gearmouth** (city). Port at the mouth of the Coldrun. Dry docks, steam cranes, and ships with iron-sheathed hulls built for the Western Deep.
+- **The Scald** (landmark). A wide basin of fused, glassy ground near the Hearthmere border where a town called Orrin stood until the disaster within living memory that led Kessmoor to ban magic. Nothing grows there. Kessmoor keeps a cordon around it and says it is to keep looters out.
+
+### Sarovel *(working name)*
+
+**Land.** Warm west and south-west: vineyards and olive terraces in the Sunward Hills, the Gilt valley, the Elderwood, a sunlit coast around Solenne's bay.
+
+**Buildings.** White limestone, domes and colonnades; noble houses with stables for bonded beasts grander than the houses themselves; bond-crests carved over doors. The unchosen live in mud-brick quarters below the city walls.
+
+**People.** A bond-monarchy. Status follows the bond; the unbonded are 'the unchosen'. Ornate manners, long names, beast-lords who breed and train mounts.
+
+**Places.**
+
+- **Solenne** (capital). The white city of the bond-monarchy, built of limestone on a curving bay. Domed halls, beast-stables grander than most houses, and the Bond-King's palace on the cliff, with its long stair down to the sea. Bond-crests over every noble door; the unchosen live below the walls.
+- **Highcrest** (city). A hill city in the Sunward Hills, seat of the beast-lords who breed and train bonded mounts. Vineyards on the slopes, horse-fairs that are really beast-fairs.
+- **Sorrel Isle** (landmark). A small island off Solenne where the unchosen are sent to serve the lighthouse. Or to be forgotten.
+
+### Isvaren *(working name)*
+
+**Land.** High, cold north under the Iron Fells and the High Crown: snowfields, glacier lakes like Glasswater, the headwaters of the Wend, observatory peaks.
+
+**Buildings.** Slender towers of blue-grey slate joined by covered bridges; libraries cut into hillsides; each college with its own colour of lamp. Excavations everywhere, roped off and labelled.
+
+**People.** Ruled by the high colleges. Rank follows learned magic; bond gifts are 'wild power' to be registered. College Wardens enforce the law.
+
+**Places.**
+
+- **Vael** (capital). The city of the high colleges, on the north shore of Glasswater, under the Iron Fells. Slender towers of blue-grey slate, covered bridges between them, snow on the roofs half the year. Each college has its own colour of lamp, and the city at night looks like a hand of cards.
+- **The Long Library** (landmark). *(established (archive and speaking beast))* Isvaren's oldest archive, a single hall half a league long, built into the hillside above Vael. Its keeper is an ancient raven-like beast that learned human speech over centuries of listening to scholars. (Book 2)
+- **Starwatch** (tower). An observatory on a peak of the Iron Fells, reached by six hundred steps cut into the rock. The colleges' astronomers chart the stars and, quietly, the strange lights over the Worldsend.
+
+### The Wyldmarch *(working name)*
+
+**Land.** The wild east: the Thornwood's deep forest, the Hallow Plains' grass and standing stones, Lake Ysse, and the Worldsend mountains at the edge of the world.
+
+**Buildings.** No cities. Roundhouses of wattle and thatch, tree-platforms in the Thornwood, seasonal camps, standing stones and burial mounds. Kethra's Moot fills with tents each midsummer and empties after.
+
+**People.** Clans under councils of elders. Beasts are kin; hunting or trading them is forbidden. Keepers protect beasts and people. Stories of Titans at the world's edge.
+
+**Places.**
+
+- **The Thornwood** (landmark). Deep, old forest: oak, black pine and thorn, so dense in places that clans travel by the river. Beasts roam freely. Keepers walk its paths.
+- **The Hallow Plains** (landmark). Wide grassland running east to the Worldsend. Herds, horse clans, and standing stones that the clans say mark where beasts are buried.
+- **Kethra's Moot** (town). Not a town but a meeting ground on the shore of Lake Ysse, where the clans gather each midsummer under the elders. Hundreds of roundhouses and tents for a month, then empty grass.
+- **The Worldsend** (landmark). The great eastern range, higher than any other mountains in Winshire, white all year. The clans say the Titans walked there at the world's edge. No one living has seen one.
+
+## The Marches in detail
+
+*Established: the border region is the Marches; a river marks the border; the Old Ruin stands on an island in it; Greyhold is on the Hearthmere bank and Calder's farm and the Clan's lands on the Saltreach side. The river's name, the Wend, and the layout below are proposals.*
+
+- **Coldtarn** (landmark). A black mountain lake above Varrhold. The Clan's dead are burned on its shore.
+- **The Scarfell** (landmark). Bare, high moorland and broken crags north and east of the Marches: heather, scree and wind. Dragon country. Sheep, if you're brave.
+- **Northwatch** (tower). A patrol tower on the River Road, manned by the river watch. Signal fires on the roof. Maren served here.
+- **Varrhold** (hold). *(name proposed)* The Dragon Clan's hold, ten leagues north-east of Harrow's End in the Scarfell. A ring of black-stone longhouses inside a turf rampart, the chief's hall roofed with dragon-scale shingles shed over generations, and above it the Roosts: dragon eyries cut into the cliff, scorched black at the mouths. A long day by grain cart from Harrow's End; a quarter hour by dragon.
+- **Upper Rush** (village). *(Chapters 1 and 2)* A hamlet of four farms on the Saltreach bank, two leagues upriver of Harrow's End. Its barns are the fires Maren sees from the river wall in Chapter 1: raided at night for beasts, then burned. Harrow's End blames the Clan's quarrel.
+- **Hollow Beck** (landmark). The stream that runs down from Coldtarn in the Scarfell, past Varrhold and Harrow's End, into the Wend opposite the Old Ruin.
+- **Redwatch** (tower). The watch tower nearest the Old Ruin, red sandstone, half a league from the bank. The river watch's patrol boats are kept in its boathouse.
+- **Harrow's End** (village). *(name proposed)* Calder's village on the Saltreach bank: thirty-odd houses of river stone and tarred timber with turf roofs, a mill on Hollow Beck, a shrine to the gods at the crossroads, and barley and flax fields running down to the water. From the top field you can see the Old Ruin. The Drover's Way passes through on its way to Varrhold.
+- **Fenn farm** (farm). *(Calder's home)* Calder's farm on the lower edge of Harrow's End: a stone longhouse with the byre under one roof, a barn, a kitchen garden, two fields of barley and one of flax, and a strip of water-meadow along the Wend. The Clan's battle in Chapter 10 spills across these fields.
+- **The Old Ruin** (ruin). *(established (island in the border river))* Broken arches and a squat round tower on a wooded island where the Wend splits, about three leagues upriver of Greyhold. It was a bridge-fort on the Oneroad, the old realm's highway, and the stumps of the bridge piers still break the water at low summer. A verse about Winshire is carved under the tower arch. River folk on both banks leave it alone.
+- **Ewe Hollow** (village). Sheep folk in a fold of the hills east of Harrow's End: a dozen crofts, a wool barn, and a lot of dogs.
+- **Greyhold** (fortress). *(Chapter 1)* The knight school on the Hearthmere bank, where the Wend bends. A quarry, then a fort, then a school: curtain walls of grey ragstone, a sanded yard over the old quarry floor, stables, a chapel, an armoury, and the river wall broad enough to walk two abreast. The charter over the gate says the bonded and the unbonded serve as equals. The cellars are locked and always have been.
+- **Tolly's Staithe** (village). A huddle of fishermen's huts and drying racks at the Saltreach end of the ferry. Smoked eel, river gossip, and everyone's cousin.
+- **Ashdown Ferry** (landmark). *(Chapter 1)* Liss Ashdown's ferry: a flat-bottomed boat on a guide rope between Greyhold landing and the Saltreach jetty at Tolly's Staithe. Thirty years of crossings.
+- **The Brackenwood** (landmark). Old oak and bracken west of Greyhold, a royal hunting ground. Deer, boar, and the beasts the knights pretend aren't there.
+- **Millbrook** (village). *(Chapter 5)* A Hearthmere river village two leagues downstream of Greyhold: a water mill, a tavern called the Kettle, and a jetty where Saltreach boats tie up without asking. Poachers sell here.
+- **Cotter's Cross** (town). A rough market town on the Saltreach bank where the Drover's Way meets the Saltreach Track. Inns, a beast pen, a hiring yard where sellswords wait for contracts. Nobody keeps the peace here except whoever paid most recently.
+- **The Reedmarsh** (landmark). Reed beds and channels on the Saltreach bank below Cotter's Cross. Wildfowlers, smugglers, and beast poachers who know the channels.
+
+## How the map grows through Book 1
+
+*The book opens on bare maps (`front_matter/`). Each chapter closes with the Marches map as it stands after that chapter (`progress/`): everything that has appeared so far, with what is new in that chapter ringed. Events are labelled in their own chapter, then keep only their mark. Placements of plot events are working proposals tied to `Book 1/Chapter_Plan.md`; when a drafted chapter moves something, update `Tools/atlas/marches_items.py` and rebuild.*
+
+- **Chapter 1, The Unchosen Yard:** Greyhold; The Old Ruin; Millbrook; Ashdown Ferry; Clan dragons, flying south; Fires on the far bank; to Ashford, 18 leagues.
+- **Chapter 2, Across the River:** Harrow's End; Fenn farm; Hollow Beck; Upper Rush; Tolly's Staithe; Varrhold; Cotter's Cross; Harrow mill; Crossroads shrine; Eel weirs; Pyre smoke over Varrhold; Upper Rush, burned.
+- **Chapter 3, Roads and Roadblocks:** Northwatch; Redwatch; The Brackenwood; Ferriby; Roadblock; Charcoal burners; Boar; Penfold; Wayside shrine.
+- **Chapter 4, The Uncle and the Sons:** The Scarfell; Ewe Hollow; Coldtarn; The Roosts; The Ram's Head; Dragons at the Roosts; to Coldtarn.
+- **Chapter 5, The Caged Beast:** The Reedmarsh; The Kettle; Caged beast; Little Weir; Gallows Oak.
+- **Chapter 6, Whispers in the Hold:** Moot-stone.
+- **Chapter 7, The Trial:** Ruin Island; Redwatch boathouse.
+- **Chapter 8, The Younger Son:** Where Teo Varr fell.
+- **Chapter 9, The Old Ruin:** The carved verse; Hunters' camp.
+- **Chapter 10, Three Deaths:** Where three warriors fell.
+- **Chapter 11, The Roar:** The lion.
+- **Chapter 13, Wounded:** Where the lion was chained.
+- **Chapter 14, Hunted:** Calder's flight; Dragon hunters.
+- **Chapter 16, Why Me?:** Hob's Hole.
+- **Chapter 18, The Village Burns:** Harrow's End burns; Knights on the far bank.
+- **Chapter 19, The Leader:** Raid on Ferriby.
+- **Chapter 20, The Leader, Again:** to Wendmouth, 75 leagues.
+- **Chapter 21, Without Words:** The lion's ground.
+- **Chapter 24, Crossing the River:** Calder's crossing.
+- **Chapter 25, The Accusation:** The Restoration's proclamation.
+- **Chapter 27, Confession:** The Catacombs.
+- **Chapter 28, The Gathering:** Restoration muster.
+- **Chapter 30, Two Sides of a War:** Ulric's camp; Arn's camp.
+- **Chapter 31, Orders:** The orders' trap.
+- **Chapter 32, Before the Storm:** Harrow's End flees.
+- **Chapter 34, Two Men:** The twins' camp.
+- **Chapter 35, War:** War.
+- **Chapter 36, The Second Lock:** The Ruin's lock; The school's lock; The Far-Seer's flight.
+- **Chapter 37, The Sacrifice:** Where the bond formed.
+- **Chapter 38, Fire at the Ruin:** Fire at the Ruin.
+- **Chapter 39, The Lock Gives Way:** Where Cassian Vale fell.
+- **Chapter 40, Underground:** They meet.
+- **Chapter 41, The Last Titan:** Where the Last Titan rose; It flew east.
+
+### The lived-in Marches
+
+- **Harrow mill** (from Chapter 2). The mill on Hollow Beck. The miller owes everyone money.
+- **Ferriby** (from Chapter 3). A Hearthmere hamlet of a dozen houses and a smithy, a league inland from Redwatch.
+- **Charcoal burners** (from Chapter 3). Charcoal burners' clearing in the Brackenwood, licensed by the crown.
+- **Boar** (from Chapter 3). Wild boar in the Brackenwood, big enough that the patrol goes round.
+- **Penfold** (from Chapter 3). Shepherds' hamlet on the high ground west of the River Road.
+- **The Roosts** (from Chapter 4). Dragon eyries cut into the cliff above Varrhold, black at the mouths.
+- **The Ram's Head** (from Chapter 4). Drovers' inn on the Drover's Way, halfway between Harrow's End and Varrhold.
+- **The Kettle** (from Chapter 5). Millbrook's tavern, where Saltreach boatmen drink and sell.
+- **Caged beast** (from Chapter 5). At Millbrook jetty, Saltreach poachers have a young beast in a cage. Maren frees it.
+- **Little Weir** (from Chapter 5). A hamlet at the weir below Millbrook; flour barges wait here for the water.
+- **Gallows Oak** (from Chapter 5). A crossroads oak where Hearthmere hanged poachers until fifty years ago. Children still won't climb it.
+- **Ruin Island** (from Chapter 7). The wooded island where the Wend splits. Nobody lands there.
+- **Hob's Hole** (from Chapter 16). A cave in the hills east of Harrow's End where Calder hides with three dragons and asks them why.
+
+## Author's eyes only: temples and the catacombs
+
+*Spoilers for Books 1 and 2. These never appear on a reader's map. Established: six temples, one per kingdom; Hearthmere's lies beyond the chains in the catacombs; each kingdom was founded, unknowing, over a sleeping Titan. Exact sites are proposals.*
+
+- **Temple of the Scald** (Kessmoor). A temple deep under the Scald, holding one of the five sleep relics. Orrin's disaster began when Kessmoor engineers drilling for ore broke into its outer chambers. Kessmoor does not know what it found. (Book 2)
+- **The Sun Stair** (Sarovel). Beneath the Bond-King's palace, below the sea stair, a temple holds a sleep relic. Sarovel's crowned line has worshipped there for centuries as a shrine of the gods and never guessed what it keeps. (Book 2)
+- **The Undercroft** (Isvaren). Excavated ruins beneath Vael, older than the colleges, which the scholars study as the remains of a pre-split shrine. One sealed chamber they have never opened holds a sleep relic. (Book 2)
+- **The Hollow Ring** (The Wyldmarch). A ring of standing stones in a clearing deep in the Thornwood, sacred to the clans. Under the ring a temple holds a sleep relic. The clans guard the ring without knowing what is beneath it. (Book 2)
+- **The Drowned Bell** (Saltreach). A temple that sank into the sea at the split of the old realm, now a reef pirates use as a landmark. At low spring tides you can hear what sounds like a bell. A sleep relic lies in its drowned hall. (Book 2)
+- **The Catacombs** (Hearthmere). Beneath Greyhold and running under the border to the Old Ruin: the catacombs where the Last Titan lies chained. Two locks, one under the school and one at the Ruin. Beyond the chains, in the deepest vault, Hearthmere's temple still holds the control relic, hidden by old magic. Hearthmere broke the Titan's own sleep relic long ago. (Books 1 and 2)
+
+## Open questions
+
+- Kingdom names other than Saltreach are working names; the river's name (the Wend) and every place name here are proposals.
+- Where did the old realm's capital stand? The Oneroad's course suggests the Marches; the Restoration believes so.
+- Which temple does the Titan reach first in Book 2? The nearest by road from the Marches are the Hollow Ring and the Scald.

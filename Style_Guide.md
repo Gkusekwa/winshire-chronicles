@@ -77,3 +77,10 @@
 
 - One file per chapter in `Book 1/Chapters/`, named `Chapter NN - Title.md`.
 - Each file begins with planning notes between `<!-- notes -->` markers, then a `---` line. **Write the prose below the line.** The notes don't go into the published book.
+
+## Book design *(working)*
+
+- **Chapter openers:** each chapter opens with its abstract ink piece (`Book 1/Art/Chapter Openers/`).
+- **Chapter endings:** each chapter closes with the Marches map as it stands after that chapter (`Book 1/Art/Maps/Chapter endings/`). New places and events are ringed; older events keep their mark without a label.
+- **Front matter:** the book opens on bare maps of Winshire and the Marches (`Book 1/Art/Maps/Front matter/`), with no names. Readers fill them in by reading.
+- **Keep the maps in step with the prose.** When a drafted chapter moves a place or event, update `Tools/atlas/marches_items.py` and rebuild. `Bible/Atlas.md` lists what appears in each chapter.

@@ -1,0 +1,335 @@
+<title>Atlas of Winshire</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Alegreya:ital,wght@0,400;0,600;1,400&family=Alegreya+Sans:wght@400;500;700&display=swap">
+<style>
+/* Layout: an atlas plate. The map is the page; a margin column reads out whatever you touch on it. */
+:root {
+  --bg: #e4e8e5;
+  --surface: #f3f4f1;
+  --fg: #1d2421;
+  --muted: #56615b;
+  --rule: #c2cbc6;
+  --accent: #8b2f2f;
+  --sea: #c9d6d2;
+  --display: 'IM Fell English SC', 'IM Fell English', Georgia, serif;
+  --serif: 'Alegreya', Georgia, 'Times New Roman', serif;
+  --sans: 'Alegreya Sans', 'Gill Sans', 'Trebuchet MS', sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #111513; --surface: #1a201d; --fg: #e2e7e3; --muted: #9ba69f; --rule: #2d3631; --accent: #d98474; --sea: #24302d; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #111513; --surface: #1a201d; --fg: #e2e7e3; --muted: #9ba69f; --rule: #2d3631; --accent: #d98474; --sea: #24302d; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--fg); font-family: var(--serif); font-size: 17px; line-height: 1.55; }
+.wrap { max-width: 1440px; margin: 0 auto; padding-block: 28px 64px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+header { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 12px 32px; border-bottom: 1px solid var(--rule); padding-bottom: 14px; }
+h1 { font-family: var(--display); font-weight: 400; font-size: clamp(30px, 5vw, 52px); letter-spacing: 0.08em; margin: 0; line-height: 1; text-wrap: balance; }
+.lede { font-style: italic; color: var(--muted); margin: 6px 0 0; max-width: 60ch; }
+.scale-note { font-family: var(--sans); font-size: 13px; color: var(--muted); letter-spacing: 0.04em; text-transform: uppercase; }
+
+.bar { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: center; justify-content: space-between; margin: 18px 0 10px; }
+.tabs { display: flex; gap: 4px; }
+.tabs button, .tools button { font-family: var(--sans); font-size: 15px; border: 1px solid var(--rule); background: transparent; color: var(--fg); padding: 7px 14px; cursor: pointer; border-radius: 2px; }
+.tabs button[aria-selected="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.tools { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.tools button { padding: 7px 12px; min-width: 40px; }
+button:focus-visible, .place:focus-visible, label:focus-within { outline: 2px solid var(--accent); outline-offset: 2px; }
+.toggle { font-family: var(--sans); font-size: 15px; display: inline-flex; align-items: center; gap: 8px; cursor: pointer; margin-left: 6px; }
+.toggle input { accent-color: var(--accent); width: 16px; height: 16px; }
+
+.plate { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 20px; align-items: start; }
+@media (max-width: 900px) { .plate { grid-template-columns: minmax(0, 1fr); } }
+.viewport { position: relative; overflow: auto; height: min(74vh, 900px); background: var(--sea); border: 1px solid var(--rule); cursor: grab; touch-action: pan-x pan-y; }
+.viewport.dragging { cursor: grabbing; }
+.viewport svg { display: block; height: auto; max-width: none; }
+.place { cursor: pointer; }
+.place:hover text { text-decoration: underline; }
+.place.active circle[fill="transparent"] { fill: rgba(139, 47, 47, 0.18); }
+.hide-secrets .secret { display: none; }
+.rv.off { display: none; }
+.newring { display: none; }
+.rv.isnew .newring { display: inline; }
+.rv.stale .evlabel { display: none; }
+.chapter { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; margin: 0 0 12px; font-family: var(--sans); font-size: 15px; }
+.chapter input { flex: 1 1 240px; accent-color: var(--accent); min-width: 0; }
+.chapter output { font-family: var(--display); font-size: 20px; min-width: 16ch; }
+.chapter .step { font-family: var(--sans); border: 1px solid var(--rule); background: transparent; color: var(--fg); padding: 5px 11px; cursor: pointer; border-radius: 2px; }
+.newlist { margin-top: 14px; border-top: 1px solid var(--rule); padding-top: 10px; }
+.newlist h3 { font-family: var(--sans); font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin: 0 0 6px; font-weight: 500; }
+.newlist ul { margin: 0; padding: 0; list-style: none; display: grid; gap: 4px; }
+.newlist button { font: inherit; font-size: 15px; background: none; border: 0; padding: 0; color: var(--fg); text-align: left; cursor: pointer; text-decoration: underline; text-decoration-color: var(--rule); text-underline-offset: 3px; }
+.newlist button:hover { text-decoration-color: var(--accent); }
+
+aside { background: var(--surface); border: 1px solid var(--rule); padding: 20px 22px; position: sticky; top: calc(env(safe-area-inset-top, 0px) + 12px); min-width: 0; }
+aside .kicker { font-family: var(--sans); font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin: 0; }
+aside h2 { font-family: var(--display); font-weight: 400; font-size: 30px; margin: 4px 0 10px; line-height: 1.05; text-wrap: balance; }
+aside p { margin: 0 0 12px; }
+.facts { display: grid; grid-template-columns: auto 1fr; gap: 4px 14px; font-family: var(--sans); font-size: 14px; border-top: 1px solid var(--rule); padding-top: 10px; margin-top: 6px; font-variant-numeric: tabular-nums; }
+.facts dt { color: var(--muted); }
+.facts dd { margin: 0; }
+.spoiler { color: var(--accent); font-family: var(--sans); font-size: 13px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; }
+.legend { margin-top: 16px; border-top: 1px solid var(--rule); padding-top: 12px; font-family: var(--sans); font-size: 14px; color: var(--muted); display: grid; grid-template-columns: 26px 1fr; gap: 6px 8px; align-items: center; }
+.legend svg { width: 22px; height: 18px; }
+
+section { margin-top: 56px; }
+section > h2 { font-family: var(--display); font-weight: 400; font-size: 32px; letter-spacing: 0.04em; margin: 0 0 4px; }
+section > .sub { color: var(--muted); font-style: italic; margin: 0 0 20px; max-width: 70ch; }
+.kingdoms { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 400px), 1fr)); gap: 32px 40px; }
+.kingdom h3 { font-family: var(--display); font-weight: 400; font-size: 25px; margin: 0; letter-spacing: 0.05em; border-bottom: 1px solid var(--rule); padding-bottom: 4px; display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+.kingdom h3 span { font-family: var(--sans); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.kingdom dl { margin: 10px 0 0; }
+.kingdom dt { font-family: var(--sans); font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); margin-top: 10px; }
+.kingdom dd { margin: 2px 0 0; max-width: 68ch; }
+.roads { columns: 2 360px; column-gap: 40px; margin: 0; padding: 0; list-style: none; }
+.roads li { break-inside: avoid; margin-bottom: 12px; }
+.roads b { font-family: var(--display); font-weight: 400; font-size: 19px; }
+.tablewrap { overflow-x: auto; border: 1px solid var(--rule); background: var(--surface); }
+table { border-collapse: collapse; width: 100%; font-family: var(--sans); font-size: 15px; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 9px 14px; border-bottom: 1px solid var(--rule); white-space: nowrap; }
+th { font-weight: 500; color: var(--muted); font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; }
+td.num { text-align: right; }
+tbody tr:last-child td { border-bottom: 0; }
+footer { margin-top: 48px; font-family: var(--sans); font-size: 13px; color: var(--muted); }
+@media (prefers-reduced-motion: no-preference) { .viewport { scroll-behavior: smooth; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Winshire</h1>
+      <p class="lede">The Six Kingdoms and the Marches between them, as they stand at the opening of Book 1.</p>
+    </div>
+    <div class="scale-note">One league ≈ three miles · an hour's walk</div>
+  </header>
+
+  <div class="bar">
+    <div class="tabs" role="tablist" aria-label="Map">
+      <button id="tab-realm" role="tab" aria-selected="true" data-view="realm">The Realm</button>
+      <button id="tab-marches" role="tab" aria-selected="false" data-view="marches">The Marches</button>
+    </div>
+    <div class="tools">
+      <button id="zoom-out" aria-label="Zoom out">−</button>
+      <button id="zoom-in" aria-label="Zoom in">+</button>
+      <button id="zoom-fit">Fit</button>
+      <label class="toggle"><input type="checkbox" id="show-secrets"> Show temples and catacombs (spoilers)</label>
+    </div>
+  </div>
+
+  <div class="chapter" id="chapter-ctl" hidden>
+    <label for="ch">The Marches after chapter</label>
+    <button class="step" id="ch-prev" aria-label="Previous chapter">‹</button>
+    <input type="range" id="ch" min="0" max="41" value="41" step="1">
+    <button class="step" id="ch-next" aria-label="Next chapter">›</button>
+    <output id="ch-out" for="ch"></output>
+  </div>
+
+  <div class="plate">
+    <div class="viewport hide-secrets" id="viewport">
+      <div id="map-realm">%%REALM%%</div>
+      <div id="map-marches" hidden>%%MARCHES%%</div>
+    </div>
+    <aside id="panel" aria-live="polite">
+      <p class="kicker" id="p-kicker">Hearthmere · Fortress</p>
+      <h2 id="p-name">Greyhold</h2>
+      <p id="p-desc"></p>
+      <dl class="facts" id="p-facts"></dl>
+      <div class="newlist" id="newlist" hidden><h3 id="newlist-h"></h3><ul id="newlist-ul"></ul></div>
+      <div class="legend" aria-label="Map key">
+        <svg viewBox="0 0 22 18"><circle cx="11" cy="9" r="5" fill="none" stroke="currentColor" stroke-width="1.6"/><circle cx="11" cy="9" r="2.2" fill="currentColor"/></svg><span>Capital</span>
+        <svg viewBox="0 0 22 18"><circle cx="11" cy="9" r="4" fill="currentColor"/></svg><span>City</span>
+        <svg viewBox="0 0 22 18"><circle cx="11" cy="9" r="3" fill="none" stroke="currentColor" stroke-width="1.4"/></svg><span>Town or village</span>
+        <svg viewBox="0 0 22 18"><path d="M5 13V7h2v2h2V7h2v2h2V7h2v2h2V7v6z" fill="none" stroke="currentColor" stroke-width="1.3"/></svg><span>Fortress or hold</span>
+        <svg viewBox="0 0 22 18"><path d="M2 9h18" stroke="currentColor" stroke-width="1.3" stroke-dasharray="4 3"/></svg><span>Road</span>
+        <svg viewBox="0 0 22 18"><path d="M2 9h18" stroke="currentColor" stroke-width="1.6" stroke-dasharray="1 4" stroke-linecap="round"/></svg><span>The Oneroad (ruined)</span>
+        <svg viewBox="0 0 22 18"><path d="M2 9h18" stroke="var(--accent)" stroke-width="1.4" stroke-dasharray="6 3 1.5 3"/></svg><span>Kingdom border</span>
+      </div>
+    </aside>
+  </div>
+
+  <section>
+    <h2>The Six Kingdoms</h2>
+    <p class="sub">Land, buildings and people. Saltreach is the only established name; the rest are working names.</p>
+    <div class="kingdoms" id="kingdoms"></div>
+  </section>
+
+  <section>
+    <h2>Roads</h2>
+    <p class="sub">How people actually get from one place to another.</p>
+    <ul class="roads" id="roads"></ul>
+  </section>
+
+  <section>
+    <h2>Leagues and days</h2>
+    <p class="sub">Road distances run about a quarter longer than the straight line. On foot, eight leagues a day; a steady horse, fourteen; a dragon, eighty.</p>
+    <div class="tablewrap">
+      <table>
+        <thead><tr><th>From</th><th>To</th><th style="text-align:right">Leagues</th><th>On foot</th><th>On horseback</th><th>By dragon</th></tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer>Working proposals unless the series bible marks them established. Generated from the same data as the book maps and the Atlas notes.</footer>
+</div>
+
+<script>
+const PLACES = %%PLACES%%;
+const KINGDOMS = %%KINGDOMS%%;
+const ROWS = %%ROWS%%;
+const ROADS = %%ROADS%%;
+const ITEMS = %%ITEMS%%;
+const TITLES = %%TITLES%%;
+const REVEAL = %%REVEAL%%;
+
+const vp = document.getElementById('viewport');
+const maps = { realm: document.getElementById('map-realm'), marches: document.getElementById('map-marches') };
+let view = 'realm';
+const zoom = { realm: 1, marches: 1 };
+
+function svgOf(v) { return maps[v].querySelector('svg'); }
+function baseWidth(v) { return vp.clientWidth - 2; }
+function applyZoom() {
+  const s = svgOf(view);
+  const vb = s.viewBox.baseVal;
+  const fitW = view === 'realm' ? baseWidth(view) : Math.min(baseWidth(view), (vp.clientHeight - 2) * vb.width / vb.height);
+  s.style.width = Math.round(fitW * zoom[view]) + 'px';
+}
+function setZoom(z, cx, cy) {
+  const old = zoom[view];
+  const nz = Math.min(5, Math.max(1, z));
+  const rx = cx === undefined ? vp.clientWidth / 2 : cx;
+  const ry = cy === undefined ? vp.clientHeight / 2 : cy;
+  const px = (vp.scrollLeft + rx) / old, py = (vp.scrollTop + ry) / old;
+  zoom[view] = nz;
+  applyZoom();
+  vp.scrollLeft = px * nz - rx;
+  vp.scrollTop = py * nz - ry;
+}
+document.getElementById('zoom-in').addEventListener('click', () => setZoom(zoom[view] * 1.5));
+document.getElementById('zoom-out').addEventListener('click', () => setZoom(zoom[view] / 1.5));
+document.getElementById('zoom-fit').addEventListener('click', () => { zoom[view] = 1; applyZoom(); vp.scrollTo(0, 0); });
+
+function show(v) {
+  view = v;
+  for (const k in maps) maps[k].hidden = k !== v;
+  document.querySelectorAll('.tabs button').forEach(b => b.setAttribute('aria-selected', String(b.dataset.view === v)));
+  applyZoom();
+  document.getElementById('chapter-ctl').hidden = v !== 'marches';
+  document.getElementById('newlist').hidden = v !== 'marches';
+  if (v === 'marches') applyChapter(+chInput.value);
+  if (!current) select('greyhold');
+}
+document.querySelectorAll('.tabs button').forEach(b => b.addEventListener('click', () => { show(b.dataset.view); try { history.replaceState(null, '', '#' + b.dataset.view); } catch (e) {} }));
+
+let current = null;
+function select(id) {
+  if (ITEMS[id] && !PLACES[id]) return selectItem(id);
+  const p = PLACES[id];
+  if (!p) return;
+  if (p.secret && !secrets.checked) return;
+  current = id;
+  document.querySelectorAll('.place.active').forEach(e => e.classList.remove('active'));
+  document.querySelectorAll(`.place[data-id="${id}"]`).forEach(e => e.classList.add('active'));
+  document.getElementById('p-kicker').textContent = `${p.kingdom} · ${p.kind}`;
+  document.getElementById('p-name').textContent = p.name;
+  document.getElementById('p-desc').textContent = p.desc;
+  const f = document.getElementById('p-facts');
+  f.innerHTML = '';
+  const add = (k, v) => { const dt = document.createElement('dt'); dt.textContent = k; const dd = document.createElement('dd'); dd.textContent = v; f.append(dt, dd); };
+  if (id !== 'greyhold') add('From Greyhold', `about ${p.fromGreyhold} leagues by road`);
+  if (REVEAL[id] !== undefined) add('First appears', `Chapter ${REVEAL[id]}, ${TITLES[REVEAL[id]]}`);
+  add('Status', p.canon ? p.canon : 'working proposal');
+  if (p.secret) { const s = document.createElement('dd'); s.className = 'spoiler'; s.style.gridColumn = '1 / -1'; s.textContent = 'Author only: hidden from readers'; f.append(s); }
+}
+function selectItem(id) {
+  const it = ITEMS[id];
+  current = id;
+  document.querySelectorAll('.place.active').forEach(e => e.classList.remove('active'));
+  document.querySelectorAll(`.place[data-item="${id}"]`).forEach(e => e.classList.add('active'));
+  document.getElementById('p-kicker').textContent = `The Marches · ${it.kind}`;
+  document.getElementById('p-name').textContent = it.name;
+  document.getElementById('p-desc').textContent = it.desc;
+  const f = document.getElementById('p-facts');
+  f.innerHTML = '';
+  const dt = document.createElement('dt'); dt.textContent = 'First appears';
+  const dd = document.createElement('dd'); dd.textContent = `Chapter ${it.ch}, ${TITLES[it.ch]}`;
+  f.append(dt, dd);
+}
+const pick = g => select(g.dataset.item || g.dataset.id);
+vp.addEventListener('click', e => { if (moved) return; const g = e.target.closest('.place'); if (g) pick(g); });
+vp.addEventListener('keydown', e => { if ((e.key === 'Enter' || e.key === ' ') && e.target.closest('.place')) { e.preventDefault(); pick(e.target.closest('.place')); } });
+
+// chapter progression on the Marches map
+const chInput = document.getElementById('ch');
+function applyChapter(n) {
+  document.getElementById('ch-out').textContent = n === 0 ? 'Before the story' : `${n} · ${TITLES[n]}`;
+  maps.marches.querySelectorAll('.rv').forEach(g => {
+    const c = +g.dataset.ch;
+    g.classList.toggle('off', c > n);
+    g.classList.toggle('isnew', c === n && n > 0);
+    g.classList.toggle('stale', c < n);
+  });
+  const ul = document.getElementById('newlist-ul');
+  ul.innerHTML = '';
+  const fresh = [];
+  Object.entries(REVEAL).forEach(([id, c]) => { if (c === n && PLACES[id]) fresh.push([id, PLACES[id].name]); });
+  Object.entries(ITEMS).forEach(([id, it]) => { if (it.ch === n) fresh.push([id, it.name]); });
+  document.getElementById('newlist-h').textContent = n === 0 ? 'Nothing named yet' : `New in Chapter ${n}`;
+  fresh.forEach(([id, name]) => { const li = document.createElement('li'); const b = document.createElement('button'); b.textContent = name; b.addEventListener('click', () => select(id)); li.append(b); ul.append(li); });
+  try { localStorage.setItem('winshire-ch', String(n)); } catch (e) {}
+}
+try { const s = localStorage.getItem('winshire-ch'); if (s !== null) chInput.value = s; } catch (e) {}
+chInput.addEventListener('input', () => applyChapter(+chInput.value));
+document.getElementById('ch-prev').addEventListener('click', () => { chInput.value = Math.max(0, +chInput.value - 1); applyChapter(+chInput.value); });
+document.getElementById('ch-next').addEventListener('click', () => { chInput.value = Math.min(41, +chInput.value + 1); applyChapter(+chInput.value); });
+
+// drag to pan
+let drag = null, moved = false;
+vp.addEventListener('pointerdown', e => { if (e.pointerType !== 'mouse') return; drag = { x: e.clientX, y: e.clientY, sl: vp.scrollLeft, st: vp.scrollTop }; moved = false; });
+window.addEventListener('pointermove', e => {
+  if (!drag) return;
+  const dx = e.clientX - drag.x, dy = e.clientY - drag.y;
+  if (Math.abs(dx) + Math.abs(dy) > 4) { moved = true; vp.classList.add('dragging'); }
+  vp.scrollLeft = drag.sl - dx; vp.scrollTop = drag.st - dy;
+});
+window.addEventListener('pointerup', () => { drag = null; vp.classList.remove('dragging'); setTimeout(() => { moved = false; }, 0); });
+vp.addEventListener('wheel', e => { if (!e.ctrlKey && !e.metaKey) return; e.preventDefault(); const r = vp.getBoundingClientRect(); setZoom(zoom[view] * (e.deltaY < 0 ? 1.2 : 1 / 1.2), e.clientX - r.left, e.clientY - r.top); }, { passive: false });
+
+const secrets = document.getElementById('show-secrets');
+function applySecrets() {
+  vp.classList.toggle('hide-secrets', !secrets.checked);
+  try { localStorage.setItem('winshire-secrets', secrets.checked ? '1' : '0'); } catch (e) {}
+  if (!secrets.checked && current && PLACES[current].secret) select('greyhold');
+}
+try { secrets.checked = localStorage.getItem('winshire-secrets') === '1'; } catch (e) {}
+secrets.addEventListener('change', applySecrets);
+applySecrets();
+
+// kingdoms, roads, table
+const kEl = document.getElementById('kingdoms');
+KINGDOMS.forEach(k => {
+  const d = document.createElement('article');
+  d.className = 'kingdom';
+  d.innerHTML = `<h3></h3><dl><dt>Land</dt><dd class="l"></dd><dt>Buildings</dt><dd class="b"></dd><dt>People</dt><dd class="p"></dd></dl>`;
+  d.querySelector('h3').textContent = k.name;
+  const tag = document.createElement('span'); tag.textContent = k.status; d.querySelector('h3').append(tag);
+  d.querySelector('.l').textContent = k.land; d.querySelector('.b').textContent = k.build; d.querySelector('.p').textContent = k.people;
+  kEl.append(d);
+});
+const rEl = document.getElementById('roads');
+Object.entries(ROADS).forEach(([n, t]) => { const li = document.createElement('li'); const b = document.createElement('b'); b.textContent = n; li.append(b, document.createElement('br'), t); rEl.append(li); });
+const tb = document.getElementById('rows');
+ROWS.forEach(r => { const tr = document.createElement('tr'); [r.a, r.b, r.d, r.foot, r.horse, r.dragon].forEach((v, i) => { const td = document.createElement('td'); td.textContent = v; if (i === 2) td.className = 'num'; tr.append(td); }); tb.append(tr); });
+
+window.addEventListener('resize', applyZoom);
+const start = (location.hash || '').replace('#', '');
+applyChapter(+chInput.value);
+show(start === 'marches' ? 'marches' : 'realm');
+select('greyhold');
+</script>

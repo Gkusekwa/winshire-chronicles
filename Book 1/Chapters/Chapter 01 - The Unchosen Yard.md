@@ -6,7 +6,7 @@ Part: Part One: Two Beginnings
 Beats: Training day at the knight school on Hearthmere's side of the Marches. Capable but unbonded, the student is passed over for a bonded rival. The knightly oath is recited, including a duty "below" no student understands.
 Echo of the other's story: Clan dragons fly along the river; students joke about the trouble across the border.
 Status: first draft
-Draft notes: Pell, Tobin and the Darrow girl are new minor characters. The far-bank fires are unexplained here; Chapter 2 or 3 can pick them up as raids. Maren knows the Old Ruin only from the water and has never set foot on it.
+Draft notes: Pell, Tobin and the Darrow girl are new minor characters. The far-bank fires are explained in Chapter 2: a Restoration raid on farms upriver of Harrow's End, blamed on the Clan. Maren knows the Old Ruin only from the water and has never set foot on it.
 notes -->
 
 ---
@@ -27,13 +27,13 @@ The first time was her own fault. The second time was Corwin Brandt's bird.
 
 She got up. Sand in her collar, sand in her teeth, a hot line along one forearm where the quarry stone had come through. Brandt was back on his mark already, practice blade low, smiling the way he smiled at the tavern girls in Millbrook and at the chaplain. Behind him, on the fence post nearest the well, Kesh was settling her feathers back into place as if nothing had happened.
 
-Nothing had, really. The falcon hadn't come near her. She had only opened her wings, all at once, at the moment Maren committed her weight to the lunge, and something under Maren's training, something older than it, had turned her head toward the movement. Half a heartbeat. Brandt had needed less.
+Nothing had, really. The falcon hadn't come near her. She had only opened her wings, all at once, at the moment Maren committed her weight to the lunge, and four winters on the river watch had turned her head toward it. On the river, a movement at the edge of your eye was a bolt until it proved it wasn't. Half a heartbeat. Brandt had needed less.
 
 "Eyes on the man," Pell said.
 
 "The man brought a bird."
 
-A few laughs from the fence. Pell didn't laugh. He was a narrow grey heron of a man who had lost two fingers on the Saltreach road before most of this year's students were born, and he did not laugh in the yard on principle.
+A few laughs from the fence. Pell didn't laugh. He was a long-boned, grey-haired man who had lost two fingers on the Saltreach road before most of this year's students were born, and he did not laugh in the yard on principle.
 
 "The man will bring a bird to every fight he has for the rest of his life," he said. "So will the man who kills you. Again."
 
@@ -51,9 +51,15 @@ Pell wrote on his slate. He took his time about it. Brandt got up on his own and
 
 "Ashdown takes the bout," Pell said. He tucked the chalk behind his ear. "Brandt takes first lance."
 
+Nobody on the fence looked surprised. Pell didn't look at Maren at all. He looked at the falcon, the way you'd check a horse before a long ride, and then at his slate, and then he called the next pair.
+
 ---
 
-She had known he would say it. She had known since spring, since the morning the lists went up for the summer bouts with her name at the bottom, where the late-oath candidates always were, and Brandt's at the top, where the bonded always were. Nobody had to explain it. The gate said there was nothing to explain.
+She had known he would say it. She had known since spring, since the morning the lists went up for the summer bouts with her name at the bottom, where the late-oath candidates always were, and Brandt's at the top, where the bonded always were.
+
+No rule said first lance went to the bonded. Nobody had to write one. On the chapel wall there was a board with every first lance of Greyhold painted on it in gold, sixty-one names, and Maren had read them all in her first week. Fifty-nine had ridden out with a beast at their side. The other two were from the year of the fever, when there hadn't been enough bonded students left to choose from.
+
+The gate said there was nothing to explain. The board explained it anyway.
 
 She saluted anyway. Blade to brow, as you were taught. Then she walked back to her mark and stood on it.
 

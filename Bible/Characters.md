@@ -8,9 +8,9 @@
 
 **Name** *(established)*: **Maren Ashdown**
 
-**Age:** 27
+**Age:** 27 *(established range 26–30)*
 
-**Gender:** **a woman** *(established)*. With the farmer as a man, this gives the series two very different leads. Her path is a knight school and a lion, not a dragon academy, so it stays clear of the *Fourth Wing* comparison. A man works too; see the alternatives above.
+**Gender:** **a woman** *(established)*. With the farmer as a man, this gives the series two very different leads. Her path is a knight school and a lion, not a dragon academy, so it stays clear of the *Fourth Wing* comparison.
 
 **Why she's at a knight school at 27:** the schools take a few older, unbonded candidates through a "late oath." Before that, Maren spent years in Hearthmere's river watch, patrolling the border river in the Marches. She is the oldest in her year and unbonded, so she's underestimated twice over. She knows the river, the Old Ruin's island, and the far bank better than any instructor.
 
@@ -39,7 +39,7 @@
 
 **Name** *(established)*: **Calder Fenn**
 
-**Age:** 32
+**Age:** 32 *(established range 28–36)*
 
 **Family:**
 - **His mother, Ada Fenn,** who sings the old songs ("before the six, there was one") and knows more of them than anyone in the village.
@@ -123,7 +123,7 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 
 | Role | Recommended | Alternatives | Notes |
 |---|---|---|---|
-| The twin brothers *(established)* | **Cassian and Corvin Vale** | — | Cassian is the public face who wins people over; Corvin is the hidden strategist. **Maren kills Cassian** at Greyhold's lock at the end of Book 1. Corvin opens the Old Ruin's lock against Calder, survives into Book 2, and is killed in Book 3. |
+| The twin brothers *(established)* | **Cassian and Corvin Vale** | — | Cassian is the public face who wins people over; Corvin is the hidden strategist. **Maren kills Cassian** at the school's lock at the end of Book 1. Corvin opens the Old Ruin's lock against Calder, survives into Book 2, and is killed in Book 3. |
 | The faction's true name | **the Oneward** | Heirs of Winshire, the Covenant of One | From the old song, "before the six, there was one"; their oath is "One again." People still call them "the Restoration." *(Avoid "the Unbound": it is Book 1's working title.)* |
 
 ### Places

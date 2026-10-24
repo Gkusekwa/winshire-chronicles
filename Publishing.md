@@ -39,7 +39,7 @@ The print editions can be sold everywhere either way.
 - **Advance readers:** send review copies to early readers so reviews exist on launch day.
 - **Release timing:** fantasy series often sell best when the next books follow quickly. Consider writing well into Book 2 before Book 1 launches.
 - **Serializing first** (for example, on Royal Road) can build an audience, but check that it doesn't conflict with KDP Select exclusivity if you choose that route.
-- **Link the books and the game:** the books build the audience the game will need. Keep artwork, names, and the world consistent across both.
+- **Keep the world consistent:** artwork, names, and canon stay consistent across the books and anything adapted from them later.
 
 ## Open publishing questions
 

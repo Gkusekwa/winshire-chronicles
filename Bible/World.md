@@ -4,7 +4,7 @@
 
 ## The world and its history
 
-**Established:** Winshire is the name of the world and the game. The six kingdoms occupy a land once united as the realm of Winshire. After the realm split, its old name largely disappeared from everyday use. Ancient beasts, old songs, and a few scholars still remember it; most people name their own kingdom or say “the Six Kingdoms.”
+**Established:** Winshire is the name of the world and of the series. The six kingdoms occupy a land once united as the realm of Winshire. After the realm split, its old name largely disappeared from everyday use. Ancient beasts, old songs, and a few scholars still remember it; most people name their own kingdom or say “the Six Kingdoms.”
 
 **Why the old realm split** *(established)*: the realm of Winshire split **when the Titans were put to sleep, after the collapse.** The split is **unrelated to bonding: bonds existed before it and after it.** **The collapse** *(established)* was an earlier rising of the Titans that nearly destroyed the old realm, until the elder Titans put them to sleep. The six kingdoms grew out of the ruins. Book 3's ending repeats it, with no one left to stop it.
 
@@ -17,7 +17,7 @@ Magic has two distinct sources:
 1. **Learned magic** is studied and practiced. Magic schools exist, and each kingdom sets its own rules about who may study or use it.
 2. **Bond gifts** come from a magical beast and reflect that beast’s nature. For example, a fire-breathing dragon might grant heat resistance and some ability to produce or direct fire.
 
-A bond is a deep connection between a person and an independent beast, not ownership. It is difficult to form and difficult to lose: when a bonded human dies, the beast will usually wither and die as well. Exceptions, such as the General surviving its earlier bonds, are **extremely rare**. *(Established: this applies when a partner dies. When every bond goes quiet at the end of Book 3, the beasts don't die.)* Losing a bond feels like having a piece of oneself torn away. The three Dragon Clan dragons forming an accidental bond with the farmer during their warriors’ deaths is an unprecedented exception; neither the farmer nor the dragons intends or understands the bonds as they happen. The exact rules, limits, costs, and prevalence of learned magic and bond gifts remain open. Gifts may require training and restraint; some could aid perception, movement, endurance, communication, or interaction with the environment as well as combat.
+A bond is a deep connection between a person and an independent beast, not ownership. It is difficult to form and difficult to lose: when either partner dies, the other will usually die as well (see below). Exceptions, such as the General surviving its earlier bonds, are **extremely rare**. *(Established: this applies when a partner dies. When every bond goes quiet at the end of Book 3, the beasts don't die.)* Losing a bond feels like having a piece of oneself torn away. The three Dragon Clan dragons forming an accidental bond with the farmer during their warriors’ deaths is an unprecedented exception; neither the farmer nor the dragons intends or understands the bonds as they happen. The exact rules, limits, costs, and prevalence of learned magic and bond gifts remain open. Gifts may require training and restraint; some could aid perception, movement, endurance, communication, or interaction with the environment as well as combat.
 
 **How a bond feels** *(established)*: bonded partners **feel each other's emotions and pain** and **speak mind to mind**, and each carries a **visible bond mark**. For the farmer, the bond means **three minds at once**, three sets of emotions, grief, and rage pressing on him together, which is overwhelming. *(Working proposals: the mark appears where the bond took hold and changes as the bond deepens; the farmer carries three marks; taking the pull of three deaths left him with the dying warriors' last moments echoing through the bonds, part of why it feels like a curse.)*
 
@@ -146,7 +146,7 @@ The six kingdoms differ in government and in their laws on magic, bonding, and k
 
 **The Restoration (established antagonist):** a faction that wants to restore the old realm of Winshire by overthrowing the current regimes, capturing beasts through raids, roadblocks, and camps, and finding an ancient, powerful beast to aid its cause. See `Story.md` for its proposed beliefs, methods, and links to the Dragon Clan war. The bond-forcers above may be its methods rather than a separate group.
 
-The player might oppose, join, or exploit such groups. “Radical” should not automatically mean “evil”; each group needs a clear cause and methods.
+The protagonists might oppose, join, or exploit such groups. “Radical” should not automatically mean “evil”; each group needs a clear cause and methods.
 
 ## Landscapes and locations
 
@@ -154,7 +154,7 @@ Established landscape types include outskirts and villages, farmlands, hunting g
 
 - **Outskirts and villages:** Escort travelers, defend against beasts and bandits, and help people with few resources. Villages reveal each kingdom’s laws and social structure.
 - **Farmlands:** The farmer’s home ground and a way to show the cost of the Dragon Clan’s conflict through damaged fields and threatened villages. Small beasts may live alongside people.
-- **Hunting grounds:** The player might protect a beast, help a hunter feed a village, or profit from trade.
+- **Hunting grounds:** A story here might protect a beast, help a hunter feed a village, or profit from trade.
 - **Mountains:** Dragon territory, dangerous passes, possible Dragon Clan strongholds, and the edges of the world, where legends place the Titans.
 - **Rivers and lakes:** Trade routes, borders, ferries, bridges, river towns, and water-beast habitats.
 - **Legendary locations:** Hearthmere's catacombs and the titan imprisoned in them, the ancient lion’s lair, old ruins, the site of Kessmoor’s possible disaster, a place legends call a sleeping Titan's resting ground (Book 1 treats it as myth), or the place where the three Dragon Clan warriors fell.
@@ -165,9 +165,9 @@ Established landscape types include outskirts and villages, farmlands, hunting g
 
 **Why it works:** the shared border region
 
-- gives the first open-world region both protagonists' beginnings, the Old Ruin, and the Clan's lands in one map;
-- explains why the Dragon Clan's havoc reaches Hearthmere's farmlands (the slice's burned fields);
-- lets the two paths cross naturally on the same roads, rivers, and ruins;
+- puts both protagonists' beginnings, the Old Ruin, and the Clan's lands in one region;
+- explains why the Dragon Clan's havoc reaches Hearthmere's farmlands;
+- lets the two strands cross naturally on the same roads, rivers, and ruins;
 - puts the Restoration's raids, roadblocks, and camps between them.
 
 **The Marches** *(established)*: the border region is called **the Marches**. **A river marks the border,** and the Old Ruin stands on an island or ford in it. Still open: the exact layout. Hearthmere remains a working name.
@@ -178,7 +178,6 @@ Established landscape types include outskirts and villages, farmlands, hunting g
 - What are the limits and costs of learned magic and bond gifts?
 - Which landscapes and legendary locations belong to each kingdom?
 - How does the Dragon Clan breed and control dragons, and how do the dragons experience that system?
-- What should players be able to do in the open world beyond combat and exploration? (Working answer in `Systems.md` (in the game project).)
 - Where are the elder Titans, and what do people's faiths say about them?
 - Is the seal already weakening before Book 1's end?
 - Where are the catacomb entrances, and who guards them?

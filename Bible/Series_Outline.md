@@ -1,6 +1,6 @@
 # Winshire — Series Outline
 
-*The Winshire story is told first as a three-book series, then adapted into games. Established points are stated directly; everything marked "working proposal" can change.*
+*The Winshire story is told first as a three-book series; any games are adapted later. Established points are stated directly; everything marked "working proposal" can change.*
 
 ## The series at a glance
 
@@ -82,7 +82,7 @@
   - Refugees flee the Titan's path into Saltreach's ports at the same time as Saltreach sellswords are hired to hunt the farmer in Hearthmere.
   - The Dragon Clan's surviving faction makes a move in Saltreach that changes what the Restoration can do in Hearthmere.
 - **Introducing the other four kingdoms** *(established)*. Each enters the story through the Titan's path. The temples it searches for lie across the six kingdoms, so following it leads the protagonists, and the story, into Kessmoor's engineers, Isvaren's colleges, Sarovel's bonded court, and the Wyldmarch's clans. Each kingdom shows a different answer to "what do we do with a Titan?"
-- **Effects on the overall story.** Each parallel pair should change something permanent: an alliance, a law, a death, or a Titan's freedom. This also gives the games their kingdom echoes.
+- **Effects on the overall story.** Each parallel pair should change something permanent: an alliance, a law, a death, or a Titan's freedom.
 
 ### Working outline
 

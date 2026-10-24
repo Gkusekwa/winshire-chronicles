@@ -1,6 +1,6 @@
 # Winshire — Book 1 Chapter Plan (working draft)
 
-*A first chapter-level plan for Book 1, built from the established canon in the other notes. Every beat that isn't established canon is a working proposal. Names are placeholders: "the student" and "the farmer".*
+*A first chapter-level plan for Book 1, built from the established canon in the other notes. Every beat that isn't established canon is a working proposal. Names: see `Bible/Characters.md` (Maren is the student, Calder the farmer).*
 
 ## Shape
 
@@ -58,7 +58,7 @@
 | Ch | POV | Working title | What happens | Echo of the other's story |
 |---|---|---|---|---|
 | 17 | S | Disgrace | The student is reassigned to menial duties. A kinder mentor of the knightly orders takes an interest and asks about the lion. | The mentor asks, too carefully, whether the student has seen "the dragon farmer." |
-| 18 | F | The Village Burns | The civil war reaches his village again, with no winner and only damage. He uses the dragons to save people for the first time, and their rage leaks into him. | Knights watch from the far bank and don't cross; one is the student, he learns later. |
+| 18 | F | The Village Burns | The civil war reaches his village again, with no winner and only damage. He uses the dragons to save people for the first time, and their rage leaks into him. | Knights watch from the far bank and don't cross; among them is a knight-student with a cold stare. |
 | 19 | S | The Leader | On patrol, the student glimpses the Restoration's leader at a raid: one man, calm and persuasive. | Hearthmere scouts report dragon fire over the farmer's village. |
 | 20 | F | The Leader, Again | In a Saltreach port, he hears the Restoration's leader speak, on the same day the student saw him in Hearthmere. This man is subtly different. | The crowd's talk of a raid in Hearthmere "this very morning" doesn't add up. |
 | 21 | S | Without Words | The student keeps returning to the Old Ruin. The lion tolerates them at a distance. With no bond, everything between them is action. | A dragon's shadow passes over the ruin; the lion lifts its head and watches it go. |
@@ -83,11 +83,11 @@
 
 | Ch | POV | Working title | What happens | Echo of the other's story |
 |---|---|---|---|---|
-| 33 | S | Broken Oath | The student breaks the knightly oath to protect the lion and is cast out. | Word arrives that Restoration leaders are gathering at the Old Ruin. |
-| 34 | F | Two Men | At the Old Ruin, right before the battle, **the twins are revealed**: the leader in two places was always two men. Hidden, **the farmer overhears them speak of the killing they arranged in the Dragon Clan.** | They talk of "the knight's lock" beneath the school, where the student is headed. |
+| 33 | S | Broken Oath | The student breaks the knightly oath to protect the lion and is cast out. | Word arrives that the Restoration's leader is gathering forces at the Old Ruin. |
+| 34 | F | Two Men | At the Old Ruin, right before the battle, **the twins are revealed**: the leader in two places was always two men. Hidden, **the farmer overhears them speak of the killing they arranged in the Dragon Clan.** | They talk of "the knight's lock" beneath the school, without saying what it opens. |
 | 35 | S | War | **The Restoration's first open war against the kingdoms breaks out** across the Marches, driving toward Hearthmere's catacombs. | Rumors from the Saltreach side: the dragon farmer has gone to the Old Ruin. |
 | 36 | F | The Second Lock | He learns what the twins are after: two locks, here and beneath the knight school, opened at the same moment. He sends the Far-Seer to warn whoever is at the other lock, and stays to fight. | His choice to warn the student, a stranger he knows only by rumor. |
-| 37 | S | The Sacrifice | Restoration bond-forcers trap the lion. To save it, the student offers their own life into the binding in its place. The lion accepts, and **the bond forms**: for the first time they understand each other. | The Far-Seer arrives with the farmer's warning about the second lock. |
+| 37 | S | The Sacrifice | Restoration bond-forcers trap the lion. To save it, Maren offers her own life into the binding in its place. The lion accepts, and **the bond forms**: for the first time they understand each other. | The Far-Seer arrives with the farmer's warning about the second lock. |
 | 38 | F | Fire at the Ruin | He and his dragons fight Corvin Vale, leading the charge at the Old Ruin's lock, and can't stop it opening. | Through the earth, the dragons feel something beneath the school lock tearing loose. |
 | 39 | S | The Lock Gives Way | Beneath the school, Maren kills Cassian Vale just as his lock gives way; at the same moment, the brother opens the Old Ruin's lock, and **the seal opens.** Through the new bond the student feels the lion learn what its kin has become: a world destroyer. | The other lock opening, felt as the seal breaks. |
 | 40 | F | Underground | The catacombs shake. Coming from opposite ends beneath the border, the farmer and the student **meet for the first time.** | The stranger he warned, now in front of him. |
@@ -98,7 +98,7 @@
 ## Pacing notes
 
 - **Mirrors:** 10 and 11 (the threefold bond, then the lion's roar), 13 and 14 (the student frees the lion, the farmer is hunted for his dragons), 19 and 20 (each sees one twin), 38 and 39 (each fights at a lock).
-- **Echoes build to the meeting.** In Part One the protagonists only glimpse each other's world. In Part Two each hears rumors. In Part Three the Far-Seer watches the student, and they nearly meet in chapter 24. In Part Five the farmer warns the student without having met them. By chapter 40, the meeting has been earned.
+- **Echoes build to the meeting.** In Part One the protagonists only glimpse each other's world. In Part Two each hears rumors. In Part Three the Far-Seer watches the student, and they nearly meet in chapter 24. In Part Five the farmer warns the student without having met her. By chapter 40, the meeting has been earned.
 - **Breathing room:** Part Three is the quiet middle, where the student's bond grows without words and the farmer's suffers from too many.
 - **The student kills a man in chapter 39.** The book should earn it: subdue-don't-kill training, the failed trial, and the broken oath all lead to one moment where restraint isn't possible. Book 2 can carry the weight of it.
 - **The civil war never resolves** in Book 1: every farmer chapter shows its damage, with no winner.
@@ -109,13 +109,12 @@
 1. The student frees the caged beast (ch. 5) and leaves the lion's proof (ch. 15), failing the trial.
 2. The mentor is in the inner circle and confirms the secret.
 3. The student breaks the knightly oath and is cast out before the battle.
-4. The lion bond's sacrifice is the student offering their life into the binding in the lion's place.
+4. The lion bond's sacrifice is Maren offering her life into the binding in the lion's place.
 5. The farmer goes to the Old Ruin seeking an answer to "why me?", which puts him at its lock.
 6. The Far-Seer carries a warning between the two locks, so the protagonists know of each other just before they meet.
 
 ## Open
 
-- Names: the student, the farmer, the mentor, the bonded rival, the twins, the uncle, the sons, the lion, and the dragons.
-- Whether the student is a young man or a young woman.
-- The farmer's family (parents, a sibling, a grandmother), and what happens to them in chapters 10 and 18.
+- Supporting names still proposed (see `Characters.md`); the lion's name.
+- What happens to Calder's family, including Wren, in chapters 10, 14, 18 and 32.
 - Whether a prologue is wanted (for example, the collapse, or Hearthmere chaining the Titan centuries ago).

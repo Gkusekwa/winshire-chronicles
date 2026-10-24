@@ -4,9 +4,9 @@
 
 ## The two protagonists
 
-The game has two playable protagonists and two paths within one overall story. The player chooses which path to start. Both stories share a timeline and eventually converge.
+The story has two protagonists and two strands within one overall story, told in alternating chapters. Both strands share a timeline and eventually converge.
 
-### The student — knight path
+### The student (Maren) — knight strand
 
 The student begins unbonded at a school that trains future knights. *Established:* she is **a woman, aged 26–30.** Her name, family, and motivation are proposed in `Characters.md`. They may be underestimated where bonds bring status, but the school accepts unbonded students.
 
@@ -32,7 +32,7 @@ The school’s name and location, and the student’s personal details and perso
 
 The beast remains independent and dangerous after bonding; it is not a tame mount or convenient weapon. The bond may restrain or redirect its violence, but does not erase its nature. The sacrifice could come from the student, the beast, or both. *Established:* the lion is kin to the Titan chained in Hearthmere's catacombs (see `World.md`). *(Established: at the end of Book 1, when the student kills the first twin, the lion learns that its kin is now a world destroyer. Its kin was not always one; ages in chains made it a destroyer. In Book 3 the lion becomes a Titan without becoming a destroyer, the opposite of its kin.)* That gives it a reason to stay near Hearthmere, and gives the student, a Hearthmere knight-in-training, something to answer for before the lion can respect them. Its name, origin, multiplication rules, gift to the student, and reason for being feared remain undecided.
 
-### The farmer — Dragon Clan path
+### The farmer (Calder) — Dragon Clan strand
 
 The farmer is a farmer outside the Dragon Clan. *Established:* he is **aged 28–36 and has a young daughter.** See `Characters.md` for his proposed name, family, and voice. The Clan lives on the outskirts of the lawless kingdom, currently called Saltreach in these notes. It breeds dragons, keeps them under control, and bonds only with dragons.
 
@@ -47,13 +47,13 @@ The civil war has been brewing since the old chief died. **The war is between th
 - **Book 1: no winner.** The civil war runs through the whole of Book 1 with no winner, only damage and casualties on both sides. It never resolves; it bleeds.
 - **Book 2: the farmer brings the truth, and uncle and nephew unite.** The farmer takes what he heard to the Clan **because the civil war is hurting his own people and village.** Once they know, the uncle and the elder son join against the Restoration. The outsider the Clan hunted becomes the one who ends its war, not for the Clan's sake, but for his village's.
 
-**Bond rupture:** When a bonded human dies, their beast usually withers and dies too. The bond is so strong that losing it feels like having part of yourself torn away. The warriors’ deaths tear through all three dragons at once. Each dragon is already grieving, enraged, and beginning to wither as the battle continues.
+**Bond rupture:** When either bonded partner dies, the other usually dies too; a beast usually withers when its human dies. The bond is so strong that losing it feels like having part of yourself torn away. The warriors’ deaths tear through all three dragons at once. Each dragon is already grieving, enraged, and beginning to wither as the battle continues.
 
 **The accidental threefold bond:** In that same battle, the three dragons are unintentionally drawn toward the injured farmer and pushed into bonding with him. The pull is so sudden that neither he nor the dragons understands what is happening until the bonds have formed. He does not seek or capture them, and they do not calmly choose him in a deliberate ceremony. The three bonds form almost simultaneously, interrupting the dragons’ expected deaths. The dragons were bred and kept under the Clan’s control, but the bond surge overrides that system. The farmer experiences the pain and grief of three ruptured bonds at once; the connection feels like a curse before it can feel like a gift. Why this happens, and how he survives holding three bonds, are central mysteries.
 
 ### The three dragons
 
-These are distinct working personalities. The labels are placeholders, not names. Exact appearances, genders, histories, and gifts are open; any gifts below are possibilities, not established mechanics.
+These are distinct working personalities. Their names are established (Aurveth, Kharrak, Lisska; see `Characters.md`). Exact appearances, histories, and gifts are open; any gifts below are possibilities, not established mechanics.
 
 - **The General — the elder strategist.** Ancient and wise, with eons of experience. Across its long life it has bonded with three humans in separate periods; its latest partner is one of the three warriors who dies in the civil war. It is not a battle dragon; it served as a general, reading the field, planning campaigns, and directing others. It speaks slowly and precisely, remembers the cost of past wars, and tends to see the farmer as a person to guide rather than a weapon to command. Its calm hides the shock of losing its latest partner and being pulled into a new bond before it can process the loss. How it survived the endings of its two earlier bonds is an open question and may be an exceptionally rare clue to bond rupture.
 - **The Vanguard — the challenger.** A direct, battle-trained dragon who believes action is better than hesitation. Proud of its strength, quick to take offense, and protective once trust is earned. Its weakness is that it mistakes restraint for cowardice and can push the farmer toward dangerous confrontations. It gives the group a forceful frontline presence. **Possible gift:** a short, powerful burst of flame or heat, potent at close range.
@@ -86,21 +86,21 @@ Its events center on the areas near the two protagonists.
   - *Near the student:* poachers and hunters on Restoration pay in the outskirts, roadblocks on knightly patrol routes, a beast camp hidden in the forest, and hunters disturbing the Old Ruin, which wakes the ancient lion.
   - *Near the farmer:* agents inside the Clan's rival factions, raids on farms for beasts and supplies, and hunters tracking the three dragons after the battle.
 - **Leadership.** *Established:* the Restoration is led by **twin brothers**. Their identity is revealed **right before the battle at the end of Book 1**, as the Restoration's first open war against the kingdoms is about to break out. The Dragon Clan's civil war comes earlier and does not reveal them. For most of the story, people speak of the Restoration's leader as **one person who can be in two places at once**. *Working proposals:*
-  - **The legend before the reveal.** Sightings of "the leader" arrive from both sides of the border on the same day: a speech in a Saltreach port and a raid in Hearthmere at the same hour. Rumor turns this into a supernatural power. Some say the leader has an ancient beast's gift; the player has just seen the ancient lion multiply itself, which makes the rumor feel plausible and points suspicion in the wrong direction.
+  - **The legend before the reveal.** Sightings of "the leader" arrive from both sides of the border on the same day: a speech in a Saltreach port and a raid in Hearthmere at the same hour. Rumor turns this into a supernatural power. Some say the leader has an ancient beast's gift; the reader has just seen the ancient lion multiply itself, which makes the rumor feel plausible and points suspicion in the wrong direction.
   - **Why they hide as one.** A leader who seems to be everywhere is more frightening and harder to catch, and a single legendary figure is easier to follow than two men. The deception is also their best defense: anyone hunting "the leader" is always looking in the wrong place.
   - **Their fates** *(established)*: one twin is killed at the conclusion of Book 1, **by the student, just as his lock on the seal gives way, while his brother leads the charge at another location.** *(Established: the twins are **Cassian and Corvin Vale**; Maren kills **Cassian**, the public face; **Corvin**, the strategist, survives until Book 3.)* In that moment the lion learns that its kin is now a world destroyer. The surviving twin now has a personal reason to hate the protagonists. He continues through Book 2 and is killed in Book 3. See `Series_Outline.md` for proposals.
-  - **Two brothers, one cause.** The twins can share a cause but differ in temperament, for example one the public face who wins people over, the other the hidden strategist who plans raids and captures. That difference gives the protagonists something to work on: a heroic or mixed player might reach one brother but not the other, or turn them against each other.
+  - **Two brothers, one cause.** The twins can share a cause but differ in temperament, for example one the public face who wins people over, the other the hidden strategist who plans raids and captures. That difference gives the protagonists something to work on: the protagonists might reach one brother but not the other, or turn them against each other.
   - **A mirror of the realm.** Two halves of one leader echo a land that was one realm and is now divided. They are also a counterpoint to the Dragon Clan, where a brother turned against his dead brother's sons and tore the Clan apart: these brothers stayed united, and that unity is what makes them dangerous.
-  - **Twinned with the protagonists.** The two-protagonist structure lets each path see one brother first, so before the reveal, each path only ever meets "the leader" as one man. The player who has played both paths may notice small differences between the two "leaders" they met, a clue that pays off at the reveal.
+  - **Twinned with the protagonists.** The alternating structure lets each strand see one brother first, so before the reveal, each strand only ever meets "the leader" as one man. A reader following both strands may notice small differences between the two "leaders" they met, a clue that pays off at the reveal.
   - **A twist at the end of Book 1.** Because the reveal comes right before Book 1's final battle, the "two places at once" legend runs through almost all of Book 1. The reveal reframes everything the reader has heard: every impossible sighting was true, just not in the way people believed.
-- **The morality system.** A villainous player could help the Restoration's raids or hand over beasts. A heroic player breaks its camps and frees beasts. A mixed player might agree with its grievances while rejecting its methods.
+- **Where people stand.** Some help the Restoration's raids or hand over beasts; others break its camps and free beasts; many agree with its grievances while rejecting its methods.
 
 ## The series
 
-**Established:** the story is a three-book series, self-published before the games.
+**Established:** the story is a three-book series, self-published first; any games are adapted later.
 
 - **Book 1:** the twins are revealed, the first war breaks out, and the protagonists meet. Then the Titan, known throughout Book 1 as the Last Titan, is freed, and the book ends with the two of them watching it fly.
-- **Book 2:** the war continues and the hunt for the Titan begins. Some Titans prove to be world destroyers, and the kingdoms try to capture them for power. Heroes save as many people as they can. The protagonists try to stop the Titan's capture, then learn it means to free five other major Titans to level the world. While everyone hunts it, other Titans are revealed to exist; the Titan travels between temples gathering relics that give it more power and the ability to control Titans, and with that power it frees the five, put to sleep ages ago.
+- **Book 2:** the war continues and the hunt for the Titan begins. Some Titans prove to be world destroyers, and the kingdoms try to capture them for power. Heroes save as many people as they can. The protagonists try to stop the Titan's capture, then learn it means to free five other major Titans to level the world. While everyone hunts it, other Titans are revealed to exist; the Titan travels between temples gathering relics: each sleep relic it takes wakes one of the five Titans put to sleep ages ago, and the last, the control relic, gives it command over them.
 - **Book 3:** the Titan War. The kingdoms unite, but one kingdom plots to be supreme. The ancient lion becomes a Titan and the three dragons become Titan-class. The protagonists unite the elder Titans: two join them, and two give their power to the lion and the dragons, then fade away. In the final battle victory seems close, but the Titans win, and everything is destroyed. A remnant of people the protagonists saved survives. The lion and the dragons, now Titans, die protecting people. With no Titans left, the bond between beasts and people breaks, and the Age of Elementals begins. The ending only hints at total destruction. The student and the farmer survive as near-Titans and become the Council of Immortals in the next series, which reveals that some Titans survived.
 
 From Book 2 on, the other kingdoms are introduced while Hearthmere and Saltreach keep growing, with parallel events in both that intertwine and affect the overall story.
@@ -135,9 +135,8 @@ The two protagonists argue these themes from opposite sides. The student has wor
 - How does the Restoration plan to reach and control the titan beneath Hearthmere, and does it need the lion or the farmer to do it?
 - How do both protagonists become involved with the Restoration, and when does each first realize what it is?
 - Do the protagonists meet as allies, wary strangers, or enemies at the end of Book 1?
-- What sacrifice forms the lion-like beast’s bond, and what does each side lose?
 - What is the lion-like beast’s name, history, multiplication ability, gift, and reason for being feared?
-- How does the lion's growth into a Titan change the student, and their bond?
+- How does the lion's growth into a Titan change Maren, and her bond?
 - How do the dragons' growth to Titan class change the farmer?
-- Which brother dies at the end of Book 1, and how does the other die in Book 3?
+- How does Corvin die in Book 3?
 - How do the student and the farmer become near-Titans, and what does immortality cost them?

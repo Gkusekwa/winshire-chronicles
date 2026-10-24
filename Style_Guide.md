@@ -81,6 +81,8 @@
 
 ## Book design *(working)*
 
+- **Editions:** the complete ebook carries every chapter-opener and chapter-end map. The simplified print edition keeps the openers and reduces the maps to one per Part.
+
 - **Chapter openers:** each chapter opens with its abstract ink piece (`Book 1/Art/Chapter Openers/`).
 - **Chapter endings:** each chapter closes with a map page (`Book 1/Art/Maps/Chapter endings/`). All of Winshire sits on top, showing only the names the story has reached so far; unexplored lands stay bare. A close-up of the Marches sits below it, with a list of what's new on the map. New places and events are ringed. Older events keep their mark without a label.
 - **Front matter:** the book opens on a bare Winshire with no names (`Book 1/Art/Maps/Front matter/`). Readers fill it in by reading.

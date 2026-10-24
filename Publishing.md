@@ -1,29 +1,28 @@
 # Winshire — Publishing Plan
 
-**Established:** the Winshire books will be self-published through **Amazon KDP** and **IngramSpark**. Self-publishing keeps control of the books and of all other rights, including game and screen rights.
+**Established:** the Winshire books will be self-published through **Amazon KDP** and **IngramSpark**: the complete edition as an **ebook only**, and a **simplified version in print**. Self-publishing keeps control of the books and of all other rights, including game and screen rights.
 
 *Everything below is a working plan. Platform terms change, so check each service's current rules before relying on them. This is not legal advice.*
 
-## Why two platforms
+## Two editions *(established)*
 
-- **Amazon KDP:** ebooks and print-on-demand paperbacks (and hardcovers) sold on Amazon. KDP can give you a free ISBN for print, but that ISBN lists Amazon's imprint, not yours.
-- **IngramSpark:** print distribution to bookshops and libraries beyond Amazon, plus ebook distribution to other stores.
-- A common setup: KDP for Amazon, IngramSpark for wider print distribution, with **your own ISBNs** so the same edition is yours everywhere. Find your country's ISBN agency through the International ISBN Agency (isbn-international.org).
+- **The complete edition is an ebook.** Every book is published in full as a single-volume ebook, never split, with all the chapter-opener art and every chapter-end map. Ebooks have no page limit, so the full length of the story fits.
+- **Only a simplified version goes to print.** The print edition is a shorter, simpler version of each book, one volume, sized to fit print-on-demand page limits.
+  - *What "simplified" means is still open (working proposal):* an abridged text, cut in the review pass after the full draft, that keeps the whole plot and both protagonists but trims secondary storylines; the chapter-opener art kept; the maps reduced to one per Part (six in Book 1) instead of one per chapter; and the bare map in the front matter.
+  - At 6 × 9 inches and about 300 words a page, a print book of 700–750 pages holds roughly **200,000–225,000 words**, which is a natural ceiling for the print text. Check current page limits for paperbacks and hardcovers on both KDP and IngramSpark.
 
-**Ebook decision:** KDP Select (Kindle Unlimited) requires the ebook to be exclusive to Amazon for each 90-day term. Choose between:
-- **Exclusive:** Kindle Unlimited readers, which suits fantasy series; ebook only on Amazon.
-- **Wide:** ebook in every store, through IngramSpark or other distributors; no Kindle Unlimited.
-The print editions can be sold everywhere either way.
+## Where each edition goes
 
-## Book 1's length and print *(working)*
+- **Amazon KDP** *(established)*: the ebook in the Kindle store, and the print edition on Amazon.
+  - **Ebook choice:** **KDP Select** (exclusive to Amazon in 90-day terms, enrolled in **Kindle Unlimited**, which pays by pages read and suits long fantasy series) or **wide** (also sold on Kobo, Apple Books, Google Play and others).
+- **IngramSpark** *(established)*: the print edition for bookshops and libraries beyond Amazon, and ebook distribution to other stores if the ebook goes wide.
+- **ISBNs:** the print edition needs one, and an ebook sold outside Amazon usually does too. Get your own from your country's ISBN agency so every edition lists your imprint.
 
-- Book 1 is planned at **79 chapters, roughly 280,000–400,000 words**, with no upper limit.
-- **Print page count:** at a 6 × 9 trim and about 300 words a page, 300,000 words is about **1,000 pages**, before the 79 chapter-end map pages. That's beyond what most print-on-demand services can bind in one paperback (KDP's limit is in the region of 800-odd pages for a standard paperback; check current limits on both KDP and IngramSpark).
-- **Established: each book is published as one volume. It is never split.**
-- **Options when the draft is done:** a larger trim (for example 7 × 10) with a smaller type size, around 400–450 words a page; moving the maps to the end of each Part instead of each chapter; a hardcover through IngramSpark, if its limits are higher.
-- **Revision comes first:** once the full draft is done, a review pass may cut or adjust storylines. The final length is decided by that edit, not by the plan.
-- Ebooks have no page limit, so the ebook can carry every chapter map.
-- Decide this once the draft's real length is known.
+## Ebook practicalities
+
+- **Images:** about 160 images in Book 1 (79 openers and 79 maps, plus front matter). Keep them lean, greyscale PNG or JPEG about 1,600 px wide, because many readers use black-and-white e-ink screens.
+- **Delivery fee:** under KDP's 70% royalty option, Amazon charges a delivery fee per megabyte of the ebook file, so compress every image and check the file size before upload. (Check current rates.)
+- **Preview** on an e-ink Kindle, a phone and a tablet before release.
 
 ## From draft to published book
 
@@ -32,9 +31,9 @@ The print editions can be sold everywhere either way.
 3. **Developmental edit:** a professional editor checks structure, pacing, characters, and the two-POV balance. This is the most valuable paid step.
 4. **Copyedit, then proofread:** line-level corrections, then a final typo pass on the formatted book.
 5. **Cover:** a professional fantasy cover designer, as covers sell genre fiction. Commission one cover style that can extend across all three books.
-6. **Formatting:** interior layout for ebook and print. Kindle Create is free; other tools are paid.
+6. **Formatting:** the complete ebook, with the opener art and chapter-end maps placed as images; then the simplified print interior. Kindle Create is free; Vellum and Atticus are paid.
 7. **Metadata:** title, subtitle ("Winshire, Book 1"), description, categories, and keywords.
-8. **Upload** to KDP and IngramSpark, and order printed proofs before release.
+8. **Upload** the ebook to KDP (and the wide stores if going wide), and the print edition to KDP and IngramSpark. Preview the ebook on several devices and order printed proofs of the print edition before release.
 
 ## Rights and the Winshire name
 
@@ -53,7 +52,8 @@ The print editions can be sold everywhere either way.
 
 ## Open publishing questions
 
-- Exclusive on Amazon, or wide?
+- Exclusive on Amazon (Kindle Unlimited), or wide?
+- What exactly goes into the simplified print edition, and is it released at the same time as the ebook or later?
 - Which editor and cover designer?
 - Publish under your own name or a pen name, and under what imprint name?
 - Release Book 1 alone, or wait until Book 2 is close?

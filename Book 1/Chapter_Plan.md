@@ -169,6 +169,7 @@
 - **Liss's ferry** (1, 3, 22, 27, 31 → 64): the only thing that crosses. In 64 it carries Calder's family, so the two stories touch through the mothers before the leads meet.
 - **Hale** (25, 35, 37, 49, 51 → 75): kindness and the secret; his key gets Maren underground.
 - **The river** (1, 3, 11 → 41–44 → 55): forbidden island, frozen crossing, thaw.
+- **The seal on the river** (5 → ?) *(working proposal)*: on the night of the raid, a rider with Greyhold's seal ordered the river-watch boats in, so the raiders' barge passed unseen. Someone inside Greyhold is helping the Restoration. Proposed payoff: a disillusioned knight the Restoration recruited, who opens Greyhold to it in Part Six (69 or 75).
 - **The lion** (15, 17, 19, 21, 23, 29, 41, 53, 55 → 73): earned one meeting at a time, by courage and restraint, until the sacrifice.
 
 ## Pacing notes

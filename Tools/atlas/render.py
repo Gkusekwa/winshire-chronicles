@@ -31,7 +31,8 @@ class Map:
     def __init__(self, view, style, secrets, seed=7, chapter=None, interactive=False, subtitle=None, bare=False):
         self.bare = bare
         self.chapter, self.interactive, self.subtitle = chapter, interactive, subtitle
-        self.placing = chapter is not None and not interactive   # chapter-end maps: place labels without overlaps
+        self.placing = not interactive and not bare   # printed maps: place labels without overlaps
+        self.cap = chapter if chapter is not None else 10 ** 6
         self.lq, self.obs = [], []
         self.prog = (chapter is not None) or (interactive and view == "marches") or (interactive and view == "realm")
         self.fs = (1.25 if view == "marches" else 1.7) if chapter is not None else 1.0
@@ -373,7 +374,7 @@ class Map:
                 label = (f'<text x="{lx:.1f}" y="{ly:.1f}" font-family="{fam}" font-size="{size:.1f}" text-anchor="{anchor}" '
                          f'fill="{col}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke">{p["name"]}</text>')
             pch = MI.REVEAL.get(p["id"], 1) if self.view == "marches" else (MI.LATER if p["secret"] else MI.REALM_REVEAL.get(p["id"], MI.LATER))
-            if self.placing and pch <= self.chapter:
+            if self.placing and pch <= self.cap:
                 if p["kind"] == "landmark":
                     self.lq.append(dict(X=lx, Y=ly, text=p["name"], size=size, fam=FONT, style="italic", col=col, prio=1 + (pch == self.chapter) * 2, area=True))
                 else:
@@ -428,13 +429,13 @@ class Map:
                 X, Y = self.P(x, y)
                 fam = FONT_SC if name.isupper() else FONT
                 col = c["water"] if "Wend" in name else (c["kingdomlabel"] if name.isupper() else c["road"])
-                if self.placing and MI.LABEL_REVEAL.get(name, 1) <= self.chapter:
+                if self.placing and MI.LABEL_REVEAL.get(name, 1) <= self.cap:
                     w, h = len(name) * sz * self.fs * (0.62 if name.isupper() else 0.45), sz * self.fs
                     t = math.radians(rot)
                     bw, bh = abs(w * math.cos(t)) + abs(h * math.sin(t)), abs(w * math.sin(t)) + abs(h * math.cos(t))
                     self.obs.append((X - bw / 2, Y - bh / 2 - h * 0.3, X + bw / 2, Y + bh / 2 - h * 0.3))
                 self.add(self.G(MI.LABEL_REVEAL.get(name, 1), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{fam}" font-style="{"normal" if name.isupper() else "italic"}" font-size="{sz*self.fs:.1f}" letter-spacing="{6 if name.isupper() else 1}" text-anchor="middle" fill="{col}" stroke="{c["land"]}" stroke-width="4" paint-order="stroke" transform="rotate({rot} {X:.1f} {Y:.1f})">{name}</text>'))
-            if self.placing and self.chapter >= 27:
+            if self.placing and self.cap >= 27:
                 X, Y = self.P(174.2, 105.5)
                 w = 21 * 13 * self.fs * 0.45
                 self.obs.append((X - w, Y - 13 * self.fs, X, Y + 4))
@@ -606,9 +607,9 @@ class Map:
                 parts.append(self.item_glyph(it))
             is_event = it["kind"] in EVENT_KINDS
             stale = (not self.interactive) and self.chapter is not None and is_event and it["ch"] < self.chapter
-            if self.placing and it["ch"] <= self.chapter:
+            if self.placing and it["ch"] <= self.cap:
                 self.obs.append((X - 9, Y - 9, X + 9, Y + 9))
-            if self.placing and it["label"] and it["name"] and not stale and it["ch"] <= self.chapter:
+            if self.placing and it["label"] and it["name"] and not stale and it["ch"] <= self.cap:
                 size = 13.5 * self.fs * (1.25 if it["kind"] in ("hamlet", "area_small") else 1)
                 style = "normal" if it["kind"] in ("hamlet", "inn", "mill", "cave", "area_small") else "italic"
                 new = it["ch"] == self.chapter
@@ -647,7 +648,7 @@ class Map:
                 for t in np.linspace(0, 1, 4):
                     X, Y = self.P(x0 + (x1 - x0) * t, y0 + (y1 - y0) * t)
                     self.obs.append((X - 3, Y - 3, X + 3, Y + 3))
-            if MI.REALM_LABEL_REVEAL["THE MARCHES"] <= self.chapter:
+            if MI.REALM_LABEL_REVEAL["THE MARCHES"] <= self.cap:
                 X, Y = self.P(195, 122)
                 h, w = 15 * self.fs, 11 * 15 * self.fs * 0.75
                 self.obs.append((X - h * 0.7, Y - w / 2, X + h * 0.5, Y + w / 2))

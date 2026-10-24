@@ -8,7 +8,8 @@
 
 - **The complete edition is an ebook.** Every book is published in full as a single-volume ebook, never split, with all the chapter-opener art and every chapter-end map. Ebooks have no page limit, so the full length of the story fits.
 - **Only a simplified version goes to print.** The print edition is a shorter, simpler version of each book, one volume, sized to fit print-on-demand page limits.
-  - *What "simplified" means is still open (working proposal):* an abridged text, cut in the review pass after the full draft, that keeps the whole plot and both protagonists but trims secondary storylines; the chapter-opener art kept; the maps reduced to one per Part (six in Book 1) instead of one per chapter; and the bare map in the front matter.
+  - **Every chapter, in both editions** *(established)*: it opens with its abstract picture and closes with the updated map. The bare map opens the book.
+  - *What "simplified" means for the text is still open (working proposal):* an abridged text, cut in the review pass after the full draft, that keeps the whole plot and both protagonists but trims secondary storylines.
   - At 6 × 9 inches and about 300 words a page, a print book of 700–750 pages holds roughly **200,000–225,000 words**, which is a natural ceiling for the print text. Check current page limits for paperbacks and hardcovers on both KDP and IngramSpark.
 
 ## Where each edition goes

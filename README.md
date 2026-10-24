@@ -79,4 +79,5 @@ The story is told first as a **three-book series**, self-published through Amazo
 - A true bond forms only by the beast's choice. Forced "bonds" are **bindings**: coercion that imitates a bond, with no understanding, no mind-speech and no shared life. A binding can be where a bond happens, if someone offers themselves into it and the beast chooses them (Maren and Orrun).
 - No new bonds with Titans form in Books 1–3, but a bond made before a beast grows into a Titan lasts through the change (Maren and Orrun; Calder and the three dragons).
 - Each book is published complete as a single-volume ebook, never split. Only a simplified version goes to print. Once a book's draft is complete, a review pass may cut or adjust storylines.
+- Every chapter opens with its abstract picture and closes with the updated map, in both the ebook and the print edition. The book opens on the bare map.
 - Treat undeveloped names, mechanics, history, and plot turns as proposals until they are agreed.

@@ -7,13 +7,20 @@
 - Two protagonists, **strictly alternating chapters**: odd chapters follow the student, even chapters the farmer (Book 1).
 - Each protagonist's chapters **reference events happening to the other**: rumors, sightings, news, signs. The reader knows more than either protagonist until they meet.
 
-## Voice *(proposal: style A with B's edge; see `Book 1/Notes/Voice_Samples.md`)*
+## Voice *(chosen: B + C together; see `Book 1/Notes/Voice_Samples.md`)*
 
 - **Close third person, past tense.** Each chapter stays inside one protagonist's head and knows only what they know.
-- **Base voice: grounded and plain.** Concrete things, ordinary words, dry humor, and a world that feels lived in: mud, wool, smoke, rough stone.
-- **Maren's chapters** lean toward the lean, hard edge: short sentences under pressure, counting, distances, things she won't let herself feel.
-- **Calder's chapters** stay plain and earthy, thinking in weather, soil, animals and his village. After the bond, three other minds crowd his chapters.
-- **The mythic register is kept for the old world:** songs, the carved verse, legends, and Ada's stories. Used sparingly, it makes the past sound older than the present.
+- **Two lenses, one voice.**
+  - **C, the wide lens:** the world, the land, time, the old realm, oaths, songs and sayings. Longer sentences that take their time. A storyteller's "they say" is allowed.
+  - **B, the close lens:** inside the scene. Bodies, danger, choices and talk. Short sentences, fragments, the right detail and no more.
+- **When to use which:**
+  - Open a chapter or a new place wide (C), then cut in close (B) when someone moves or speaks.
+  - Pull wide again for things bigger than the character: dragons overhead, the river, a ruin, a Titan.
+  - Action and dialogue stay B. Don't drift into lyricism during a fight.
+  - C appears in dialogue only through older voices: oaths, songs, Ada's sayings, the mentor, the dragons' memories.
+- **Description:** sky, land and anything ancient get C, with a few sentences, rhythm and a strange or exact comparison. People, beasts up close and violence get B: one or two hard details ("sand in her teeth"), never a full inventory.
+- **Maren** leans B: counting, distances, short sentences under pressure, feelings held off the page.
+- **Calder** is plainer. His C comes from folk sayings and his mother's songs rather than grandeur, his B from farm work. After the bond, three other minds crowd his chapters.
 - **Mind-speech** (bond and dragon speech) goes in *italics*, with no quotation marks.
 
 ## Keeping it human *(working rules for every draft)*

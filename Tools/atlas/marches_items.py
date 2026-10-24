@@ -95,7 +95,7 @@ item("chained13", "Where the lion was chained", "chain", 175.5, 104.8, 13, "Rest
 item("flight", "Calder's flight", "path", 177.7, 102.6, 14, "Calder flees the village with the dragons, up into the hills.",
      path=[(177.7, 102.6), (179.6, 103.2), (182.0, 102.4), (184.8, 100.8)], label=False)
 item("hunters14", "Dragon hunters", "camp", 181.4, 106.2, 14, "Sellswords and strangers paid in Restoration coin, tracking the dragons.", dx=0.3)
-item("hobshole", "Hob's Hole", "cave", 184.8, 100.8, 16, "A cave in the hills east of Harrow's End where Calder hides with three dragons and asks them why.", dx=0.3)
+item("hobshole", "Crow Scar", "cave", 184.8, 100.8, 16, "A cave at Crow Scar in the hills east of Harrow's End, where Calder hides with three dragons and asks them why.", dx=0.3)
 
 # ---------- Chapter 18: The Village Burns (Calder) ----------
 item("burn18", "Harrow's End burns", "fire", 178.0, 101.3, 18, "The civil war reaches the village again. Calder uses the dragons to save people for the first time.", label=False)
@@ -142,8 +142,8 @@ item("twins34", "The twins' camp", "camp", 177.2, 104.8, 34, "Right before the b
 # ---------- Chapter 35: War (Maren) ----------
 item("war1", "War", "battle", 174.2, 111.0, 35, "The Restoration's first open war breaks out across the Marches.", dx=-0.2)
 item("war2", "", "battle", 175.6, 97.0, 35, "Fighting along the river.", label=False)
-item("war3", "", "battle", 172.4, 112.8, 35, "Millbrook burns.", label=False)
-item("war4", "", "fire", 172.3, 112.2, 35, "Millbrook burns.", label=False)
+item("war3", "", "battle", 172.4, 112.8, 71, "Millbrook burns.", label=False)
+item("war4", "", "fire", 172.3, 112.2, 71, "Millbrook burns.", label=False)
 
 # ---------- Chapter 36: The Second Lock (Calder) ----------
 item("lock_ruin", "The Ruin's lock", "lock", 175.8, 103.8, 36, "One of the two locks of the seal, beneath the Old Ruin.", dx=-3.6, dy=0.4)
@@ -184,3 +184,41 @@ REALM_ROAD_REVEAL = {
     "The King's Road": 1, "The River Road": 1, "The River Road (south)": 1, "The Drover's Way": 2,
     "The Coast Road": 20, "The Saltreach Track": 20,
 }
+
+
+# ---------------- Expanded plan: renumber the 41-chapter tags, then add the new chapters ----------------
+# Everything above was tagged with the original 41-chapter numbers (except the two Millbrook items, now 71 in new terms).
+from plan_data import OLD_TO_NEW as _O
+_NEW_ALREADY = {"war3", "war4"}
+def _r(ch):
+    return _O.get(ch, ch) if ch < LATER else ch
+REVEAL = {k: _r(v) for k, v in REVEAL.items()}
+ROAD_REVEAL = {k: _r(v) for k, v in ROAD_REVEAL.items()}
+LABEL_REVEAL = {k: _r(v) for k, v in LABEL_REVEAL.items()}
+AMBIENT = [(x, y, _r(c)) for (x, y, c) in AMBIENT]
+for _it in ITEMS:
+    if _it["id"] not in _NEW_ALREADY:
+        _it["ch"] = _r(_it["ch"])
+REALM_REVEAL = {k: _r(v) for k, v in REALM_REVEAL.items()}
+KINGDOM_REVEAL = {k: _r(v) for k, v in KINGDOM_REVEAL.items()}
+BORDER_REVEAL = _r(BORDER_REVEAL)
+REALM_LABEL_REVEAL = {k: _r(v) for k, v in REALM_LABEL_REVEAL.items()}
+REALM_ROAD_REVEAL = {k: _r(v) for k, v in REALM_ROAD_REVEAL.items()}
+
+# adjustments for the new chapters
+REVEAL["tollysstaithe"] = 3      # Maren crosses on the ferry in chapter 3
+REVEAL["coldtarn"] = 8           # the ashes are scattered on Coldtarn
+for _it in ITEMS:
+    if _it["id"] == "tocoldtarn":
+        _it["ch"] = 8
+
+item("fair", "Harvest fair", "fire_plain", 178.9, 101.9, 12, "Harrow's End's harvest fair and bonfire. Teo Varr dances with Bel's girls and talks of peace.", label=False)
+item("ice41", "Where the ice broke", "ice", 175.0, 108.4, 41, "A refugee family tries to walk across the frozen Wend. Maren goes after them; the ice breaks, and something huge pulls her out.", dx=0.3)
+item("rcamp50", "Restoration beast camp", "camp", 183.6, 107.0, 50, "The camp that holds Joss's other grey. Joss goes looking for it and is brought back dead.", dx=0.3)
+item("burn52", "Kharrak's fire", "fire", 183.6, 107.0, 52, "Calder lets Kharrak burn the camp and free its beasts. The Restoration names him an enemy.", label=False)
+item("ford60", "Ambush at the ford", "battle", 183.0, 96.0, 60, "Calder's peace meeting at Teo's ford becomes an ambush.", dx=0.3, dy=0.6)
+item("ferry64", "Refugees cross", "path", 176.8, 108.4, 64, "Ada, Wren and Bel's family cross to Hearthmere on Liss Ashdown's ferry.",
+     path=[(177.0, 108.5), (175.8, 108.0), (174.6, 107.5)], label=False)
+item("pell69", "Where Pell fell", "death", 172.9, 106.2, 69, "Instructor Pell dies holding Greyhold's gate.", dx=-0.3, dy=-0.9)
+item("rook72", "Where Rook died", "death", 177.0, 104.4, 72, "Calder corners Rook in the fighting at the Ruin. The proof dies with him.", dx=0.3)
+item("brandt75", "Where Brandt and Kesh fell", "death", 174.6, 107.2, 75, "Greyhold is breached. Kesh is killed, and Brandt dies in Maren's arms.", dx=0.4, dy=0.9)

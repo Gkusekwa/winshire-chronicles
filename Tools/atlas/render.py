@@ -502,6 +502,10 @@ class Map:
             return "".join(f'<path d="M{X-s+i*s*0.5:.1f},{Y-s*0.5:.1f} v{s:.1f}" stroke="{ink}" stroke-width="1.4"/>' for i in range(5))
         if k == "smoke":
             return "".join(f'<path d="M{X+i*6:.1f},{Y:.1f} q-6,-8 0,-16 t0,-16" fill="none" stroke="{ink}" stroke-width="1" stroke-opacity="0.6"/>' for i in range(3))
+        if k == "ice":
+            return "".join(f'<path d="M{X - s*math.cos(t):.1f},{Y - s*math.sin(t):.1f} L{X + s*math.cos(t):.1f},{Y + s*math.sin(t):.1f}" stroke="{ink}" stroke-width="1.6"/>' for t in (0, math.pi/3, 2*math.pi/3))
+        if k == "fire_plain":
+            return f'<path d="M{X:.1f},{Y-s:.1f} q{s*0.8:.1f},{s:.1f} 0,{s*1.6:.1f} q{-s*0.8:.1f},{-s*0.6:.1f} 0,{-s*1.6:.1f}" fill="none" stroke="{ink}" stroke-width="1.4"/>'
         if k == "fire":
             pts = []
             for i in range(14):

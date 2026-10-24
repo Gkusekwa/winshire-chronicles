@@ -124,7 +124,7 @@ footer { margin-top: 48px; font-family: var(--sans); font-size: 13px; color: var
   <div class="chapter" id="chapter-ctl" hidden>
     <label for="ch">The map after chapter</label>
     <button class="step" id="ch-prev" aria-label="Previous chapter">‹</button>
-    <input type="range" id="ch" min="0" max="42" value="42" step="1">
+    <input type="range" id="ch" min="0" max="80" value="80" step="1">
     <button class="step" id="ch-next" aria-label="Next chapter">›</button>
     <output id="ch-out" for="ch"></output>
   </div>
@@ -267,7 +267,7 @@ vp.addEventListener('keydown', e => { if ((e.key === 'Enter' || e.key === ' ') &
 // chapter progression on the Marches map
 const chInput = document.getElementById('ch');
 function applyChapter(n) {
-  const all = n >= 42;
+  const all = n >= 80;
   document.getElementById('ch-out').textContent = n === 0 ? 'Before the story' : all ? 'The whole world (author)' : `${n} · ${TITLES[n]}`;
   document.querySelectorAll('#viewport .rv').forEach(g => {
     const c = +g.dataset.ch;
@@ -287,7 +287,7 @@ function applyChapter(n) {
 try { const s = localStorage.getItem('winshire-ch'); if (s !== null) chInput.value = s; } catch (e) {}
 chInput.addEventListener('input', () => applyChapter(+chInput.value));
 document.getElementById('ch-prev').addEventListener('click', () => { chInput.value = Math.max(0, +chInput.value - 1); applyChapter(+chInput.value); });
-document.getElementById('ch-next').addEventListener('click', () => { chInput.value = Math.min(42, +chInput.value + 1); applyChapter(+chInput.value); });
+document.getElementById('ch-next').addEventListener('click', () => { chInput.value = Math.min(80, +chInput.value + 1); applyChapter(+chInput.value); });
 
 // drag to pan
 let drag = null, moved = false;

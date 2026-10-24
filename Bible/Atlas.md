@@ -187,54 +187,64 @@
 *The book opens on bare maps (`front_matter/`). Each chapter closes with the Marches map as it stands after that chapter (`progress/`): everything that has appeared so far, with what is new in that chapter ringed. Events are labelled in their own chapter, then keep only their mark. Placements of plot events are working proposals tied to `Book 1/Chapter_Plan.md`; when a drafted chapter moves something, update `Tools/atlas/marches_items.py` and rebuild.*
 
 - **Chapter 1, The Unchosen Yard:** Greyhold; The Old Ruin; Millbrook; Ashdown Ferry; Clan dragons, flying south; Fires on the far bank; to Ashford, 18 leagues.
-- **Chapter 2, Across the River:** Harrow's End; Fenn farm; Hollow Beck; Upper Rush; Tolly's Staithe; Varrhold; Cotter's Cross; Harrow mill; Crossroads shrine; Eel weirs; Pyre smoke over Varrhold; Upper Rush, burned.
-- **Chapter 3, Roads and Roadblocks:** Northwatch; Redwatch; The Brackenwood; Ferriby; Roadblock; Charcoal burners; Boar; Penfold; Wayside shrine.
-- **Chapter 4, The Uncle and the Sons:** The Scarfell; Ewe Hollow; Coldtarn; The Roosts; The Ram's Head; Dragons at the Roosts; to Coldtarn.
-- **Chapter 5, The Caged Beast:** The Reedmarsh; The Kettle; Caged beast; Little Weir; Gallows Oak.
-- **Chapter 6, Whispers in the Hold:** Moot-stone.
-- **Chapter 7, The Trial:** Ruin Island; Redwatch boathouse.
-- **Chapter 8, The Younger Son:** Where Teo Varr fell.
-- **Chapter 9, The Old Ruin:** The carved verse; Hunters' camp.
-- **Chapter 10, Three Deaths:** Where three warriors fell.
-- **Chapter 11, The Roar:** The lion.
-- **Chapter 13, Wounded:** Where the lion was chained.
-- **Chapter 14, Hunted:** Calder's flight; Dragon hunters.
-- **Chapter 16, Why Me?:** Hob's Hole.
-- **Chapter 18, The Village Burns:** Harrow's End burns; Knights on the far bank.
-- **Chapter 19, The Leader:** Raid on Ferriby.
-- **Chapter 20, The Leader, Again:** to Wendmouth, 75 leagues.
-- **Chapter 21, Without Words:** The lion's ground.
-- **Chapter 24, Crossing the River:** Calder's crossing.
-- **Chapter 25, The Accusation:** The Restoration's proclamation.
-- **Chapter 27, Confession:** The Catacombs.
-- **Chapter 28, The Gathering:** Restoration muster.
-- **Chapter 30, Two Sides of a War:** Ulric's camp; Arn's camp.
-- **Chapter 31, Orders:** The orders' trap.
-- **Chapter 32, Before the Storm:** Harrow's End flees.
-- **Chapter 34, Two Men:** The twins' camp.
-- **Chapter 35, War:** War.
-- **Chapter 36, The Second Lock:** The Ruin's lock; The school's lock; The Far-Seer's flight.
-- **Chapter 37, The Sacrifice:** Where the bond formed.
-- **Chapter 38, Fire at the Ruin:** Fire at the Ruin.
-- **Chapter 39, The Lock Gives Way:** Where Cassian Vale fell.
-- **Chapter 40, Underground:** They meet.
-- **Chapter 41, The Last Titan:** Where the Last Titan rose; It flew east.
+- **Chapter 2, Across the River:** Harrow's End; Fenn farm; Hollow Beck; Upper Rush; Varrhold; Cotter's Cross; Harrow mill; Crossroads shrine; Eel weirs; Pyre smoke over Varrhold; Upper Rush, burned.
+- **Chapter 3, The Ferry:** Tolly's Staithe.
+- **Chapter 5, Roads and Roadblocks:** Northwatch; Redwatch; The Brackenwood; Ferriby; Roadblock; Charcoal burners; Boar; Penfold; Wayside shrine.
+- **Chapter 6, The Uncle and the Sons:** The Scarfell; Ewe Hollow; The Roosts; The Ram's Head; Dragons at the Roosts.
+- **Chapter 7, The Caged Beast:** The Reedmarsh; The Kettle; Caged beast; Little Weir; Gallows Oak.
+- **Chapter 8, Coldtarn:** Coldtarn; to Coldtarn.
+- **Chapter 10, Whispers in the Hold:** Moot-stone.
+- **Chapter 11, The Trial:** Ruin Island; Redwatch boathouse.
+- **Chapter 12, Harvest:** Harvest fair.
+- **Chapter 13, The Old Ruin:** The carved verse; Hunters' camp.
+- **Chapter 14, The Younger Son:** Where Teo Varr fell.
+- **Chapter 18, Three Deaths:** Where three warriors fell.
+- **Chapter 19, The Roar:** The lion.
+- **Chapter 21, Wounded:** Where the lion was chained.
+- **Chapter 24, Hunted:** Calder's flight; Dragon hunters.
+- **Chapter 26, Why Me?:** Crow Scar.
+- **Chapter 29, Without Words:** The lion's ground.
+- **Chapter 30, The Village Burns:** Harrow's End burns; Knights on the far bank.
+- **Chapter 33, The Leader:** Raid on Ferriby.
+- **Chapter 34, The Leader, Again:** to Wendmouth, 75 leagues.
+- **Chapter 41, The Freeze:** Where the ice broke.
+- **Chapter 42, Crossing the River:** Calder's crossing.
+- **Chapter 45, The Accusation:** The Restoration's proclamation.
+- **Chapter 48, Two Sides of a War:** Ulric's camp; Arn's camp.
+- **Chapter 49, Confession:** The Catacombs.
+- **Chapter 50, Bel:** Restoration beast camp.
+- **Chapter 52, Kharrak:** Kharrak's fire.
+- **Chapter 54, The Gathering:** Restoration muster.
+- **Chapter 59, Orders:** The orders' trap.
+- **Chapter 60, The Ford Again:** Ambush at the ford.
+- **Chapter 62, Before the Storm:** Harrow's End flees.
+- **Chapter 64, The Ferry:** Refugees cross.
+- **Chapter 68, Two Men:** The twins' camp.
+- **Chapter 69, War:** War; Where Pell fell.
+- **Chapter 70, The Second Lock:** The Ruin's lock; The school's lock; The Far-Seer's flight.
+- **Chapter 72, The Agent:** Where Rook died.
+- **Chapter 73, The Sacrifice:** Where the bond formed.
+- **Chapter 74, Fire at the Ruin:** Fire at the Ruin.
+- **Chapter 75, Through the Cellars:** Where Brandt and Kesh fell.
+- **Chapter 77, The Lock Gives Way:** Where Cassian Vale fell.
+- **Chapter 78, Underground:** They meet.
+- **Chapter 79, The Last Titan:** Where the Last Titan rose; It flew east.
 
 ### The lived-in Marches
 
 - **Harrow mill** (from Chapter 2). Hob's mill on Hollow Beck. His prices are how he says hello.
-- **Ferriby** (from Chapter 3). A Hearthmere hamlet of a dozen houses and a smithy, a league inland from Redwatch.
-- **Charcoal burners** (from Chapter 3). Charcoal burners' clearing in the Brackenwood, licensed by the crown.
-- **Boar** (from Chapter 3). Wild boar in the Brackenwood, big enough that the patrol goes round.
-- **Penfold** (from Chapter 3). Shepherds' hamlet on the high ground west of the River Road.
-- **The Roosts** (from Chapter 4). Dragon eyries cut into the cliff above Varrhold, black at the mouths.
-- **The Ram's Head** (from Chapter 4). Drovers' inn on the Drover's Way, halfway between Harrow's End and Varrhold.
-- **The Kettle** (from Chapter 5). Millbrook's tavern, where Saltreach boatmen drink and sell.
-- **Caged beast** (from Chapter 5). At Millbrook jetty, Saltreach poachers have a young beast in a cage. Maren frees it.
-- **Little Weir** (from Chapter 5). A hamlet at the weir below Millbrook; flour barges wait here for the water.
-- **Gallows Oak** (from Chapter 5). A crossroads oak where Hearthmere hanged poachers until fifty years ago. Children still won't climb it.
-- **Ruin Island** (from Chapter 7). The wooded island where the Wend splits. Nobody lands there.
-- **Hob's Hole** (from Chapter 16). A cave in the hills east of Harrow's End where Calder hides with three dragons and asks them why.
+- **Ferriby** (from Chapter 5). A Hearthmere hamlet of a dozen houses and a smithy, a league inland from Redwatch.
+- **Charcoal burners** (from Chapter 5). Charcoal burners' clearing in the Brackenwood, licensed by the crown.
+- **Boar** (from Chapter 5). Wild boar in the Brackenwood, big enough that the patrol goes round.
+- **Penfold** (from Chapter 5). Shepherds' hamlet on the high ground west of the River Road.
+- **The Roosts** (from Chapter 6). Dragon eyries cut into the cliff above Varrhold, black at the mouths.
+- **The Ram's Head** (from Chapter 6). Drovers' inn on the Drover's Way, halfway between Harrow's End and Varrhold.
+- **The Kettle** (from Chapter 7). Millbrook's tavern, where Saltreach boatmen drink and sell.
+- **Caged beast** (from Chapter 7). At Millbrook jetty, Saltreach poachers have a young beast in a cage. Maren frees it.
+- **Little Weir** (from Chapter 7). A hamlet at the weir below Millbrook; flour barges wait here for the water.
+- **Gallows Oak** (from Chapter 7). A crossroads oak where Hearthmere hanged poachers until fifty years ago. Children still won't climb it.
+- **Ruin Island** (from Chapter 11). The wooded island where the Wend splits. Nobody lands there.
+- **Crow Scar** (from Chapter 26). A cave at Crow Scar in the hills east of Harrow's End, where Calder hides with three dragons and asks them why.
 
 ## Author's eyes only: temples and the catacombs
 

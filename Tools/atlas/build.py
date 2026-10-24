@@ -98,12 +98,8 @@ def fmt_hours(h):
     return f"{h:.1f} hours".replace(".0 ", " ")
 
 
-TITLES = ["", "The Unchosen Yard", "Across the River", "Roads and Roadblocks", "The Uncle and the Sons", "The Caged Beast",
-    "Whispers in the Hold", "The Trial", "The Younger Son", "The Old Ruin", "Three Deaths", "The Roar", "Three Voices", "Wounded",
-    "Hunted", "Empty-Handed", "Why Me?", "Disgrace", "The Village Burns", "The Leader", "The Leader, Again", "Without Words",
-    "The Verse", "The Last Titan", "Crossing the River", "The Accusation", "The General's Silence", "Confession", "The Gathering",
-    "Kin", "Two Sides of a War", "Orders", "Before the Storm", "Broken Oath", "Two Men", "War", "The Second Lock", "The Sacrifice",
-    "Fire at the Ruin", "The Lock Gives Way", "Underground", "The Last Titan"]
+from plan_data import C as _PC
+TITLES = [""] + [c["title"] for c in _PC]
 
 
 def inner(svg):
@@ -183,7 +179,7 @@ def write_progress():
     s = compose(0)
     open(f"{fm}/winshire_bare_page.svg", "w").write(s)
     cairosvg.svg2png(bytestring=s.encode(), write_to=f"{fm}/winshire_bare_page.png", output_width=1800, background_color="white")
-    for n in range(1, 42):
+    for n in range(1, len(TITLES)):
         s = compose(n)
         open(f"{d}/svg/map_after_chapter_{n:02d}.svg", "w").write(s)
         cairosvg.svg2png(bytestring=s.encode(), write_to=f"{d}/png/map_after_chapter_{n:02d}.png", output_width=1800, background_color="white")
@@ -286,7 +282,7 @@ def write_atlas():
     for it in MI.ITEMS:
         if it["name"]:
             first.setdefault(it["ch"], []).append(it["name"])
-    for n in range(1, 42):
+    for n in range(1, len(TITLES)):
         if n in first:
             L.append(f"- **Chapter {n}, {TITLES[n]}:** " + "; ".join(first[n]) + ".")
     L.append("")

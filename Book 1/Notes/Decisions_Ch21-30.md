@@ -10,7 +10,7 @@
   - Dray-beasts 8 ft and more at the shoulder. Greyharts (white war-mounts) 9 ft. The lion about 10 ft ("nearly twice a man's height").
   - Dragons: Lisska about 12 ft at the shoulder and 40 ft nose to tail, the smallest but far bigger than a dray-beast, bear or boar; Kharrak about 16 ft; Aurveth about 20 ft. Wyverns are smaller than Lisska.
 - **The Clan's dragons:** hundreds in the Roosts, about a dozen bonded. Under the old law no bonded rider fights kin, so after Teo's death the other bonded pairs shut themselves in the Roosts. Sigrun, Dag and Imra broke the law, so the war has three bonded war dragons. Arn about 200 spears, Ulric about 450.
-  - **Pending fix to Chapter 4:** dray-beasts are described as "a head taller than the biggest horse". Change that to "taller at the shoulder than a man can reach, eight feet and more". The Mac copy is the current one, so I'll make this edit when your Mac is linked again.
+  - **Chapter 4 (done, commit d7e7829):** dray-beasts now stand "eight feet at the shoulder and more, taller than a man could reach".
 - **The lion and Maren can't talk.** Respect is a process, and the lion tries to kill her more than once. She defends herself, hurting it only where it does no harm.
 
 ## How the lion's respect is earned so far

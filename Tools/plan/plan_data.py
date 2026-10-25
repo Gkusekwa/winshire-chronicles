@@ -58,9 +58,9 @@ ch(13, "The Old Ruin",
    "Smoke rises across the river. Something has happened at the ford.", 9)
 ch(14, "The Younger Son",
    "On his way to the ford as a witness, Calder finds Teo dead in the water, apparently killed by Ulric's men on the way to the peace meeting. Arn swears vengeance over his brother's body. Open civil war begins.",
-   "The fishermen at Tolly's Staithe say the Greyhold boat is still drawn up on the island.", 8)
+   "Old Fisk at the Eelweir says the Greyhold boat is still drawn up on the island.", 8)
 ch(15, "Signs",
-   "Maren's second day on the island. Tracks bigger than anything she knows. The hunters' camp, empty. Clan war smoke across the water. She sleeps in the tower and counts something enormous breathing in the dark.",
+   "Maren's fifth day on the island, the day after the ford. Tracks bigger than anything she knows. The hunters' camp, empty. Clan war smoke across the water. She sleeps in the tower and counts something enormous breathing in the dark.",
    "War horns from the Saltreach bank all night.")
 ch(16, "The Ford",
    "Teo's pyre. The Clan splits: Arn on one side, Ulric on the other. Villages are told to choose. Hob the miller takes Ulric's coin. Calder refuses to choose, which pleases no one.",
@@ -82,7 +82,7 @@ ch(21, "Wounded",
    "The hunters say they are also after \"the Clan's three loose dragons\" across the river.", 13)
 ch(22, "Wren",
    "Wren is the only person in Harrow's End who isn't afraid. Lisska adores her. The village elders want Calder gone. Ada admits the old song has a verse her grandmother taught her and made her swear never to sing.",
-   "The fishermen at Tolly's Staithe say someone from Greyhold is still out on the island, and the monster hasn't killed her yet.")
+   "Fisk at the Eelweir says someone from Greyhold is still out on the island, and the monster hasn't killed her yet.")
 ch(23, "Empty-Handed",
    "Maren could take a lock of the lion's mane as proof but leaves it in peace. The trial is failed; Haverly passes his.",
    "At Greyhold everyone is talking about a farmer bonded to three dragons. No one believes it.", 15)
@@ -119,7 +119,7 @@ ch(33, "The Leader",
    "On patrol, Maren glimpses the Restoration's leader at a raid on Ferriby: one man, quiet, precise, directing the raid like a game of stones.",
    "Hearthmere scouts report dragon fire over Harrow's End a week ago.", 19)
 ch(34, "The Leader, Again",
-   "In Wendmouth, Calder hears the Restoration's leader speak to a crowd: warm, persuasive, a man people want to follow. It is the same day Maren saw him at Ferriby, seventy-five leagues north, though nobody in the crowd can know that.",
+   "In Wendmouth, Calder hears the Restoration's leader speak to a crowd: warm, persuasive, a man people want to follow. It is the same day Maren saw him at Ferriby, a hundred leagues north, though nobody in the crowd can know that.",
    "A beast-seller grumbles about a Hearthmere knight-student up north who sits with monsters instead of killing them.", 20)
 ch(35, "The Mentor",
    "Hale tells Maren the history of the oath and lets slip that the inner circle keeps \"a watch nobody else is told about.\" He keeps glancing at the locked cellar door.",

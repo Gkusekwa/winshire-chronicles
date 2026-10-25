@@ -42,8 +42,8 @@ item("fires1", "Fires on the far bank", "fire", 178.0, 98.7, 1,
 item("toashford", "to Ashford, 18 leagues", "arrow_w", 165.4, 106.3, 1, "The King's Road runs west to Ashford and Hallowmere.")
 
 # ---------- Chapter 2: Across the River (Calder) ----------
-item("mill", "Harrow mill", "mill", 179.0, 100.3, 2, "Hob's mill on Hollow Beck. His prices are how he says hello.", label=False)
-item("shrine", "Crossroads shrine", "shrine", 178.6, 101.6, 2, "A stone shrine to the gods where the Drover's Way meets the river lane.", label=False)
+item("mill", "Harrow mill", "mill", 177.7, 103.2, 2, "Hob's mill on Hollow Beck. His prices are how he says hello.", label=False)
+item("shrine", "Crossroads shrine", "shrine", 177.8, 103.3, 2, "A stone shrine to the gods where the Drover's Way meets the river lane.", label=False)
 item("weirs", "Eel weirs", "weir", 176.6, 108.9, 2, "Tolly's Staithe's eel traps, staked across the shallows.", label=False)
 item("pyre", "Pyre smoke over Varrhold", "smoke", 185.2, 92.6, 2, "The old chief's funeral pyre burns for three days.", label=False)
 item("burnedrush", "Upper Rush, burned", "fire", 178.0, 98.7, 2, "Raided at night for its beasts, then burned. Harrow's End blames the Clan's quarrel.", label=False)
@@ -58,7 +58,7 @@ item("shrine_rr", "Wayside shrine", "shrine", 173.0, 93.4, 3, "A roadside shrine
 
 # ---------- Chapter 4: The Uncle and the Sons (Calder) ----------
 item("roosts", "The Roosts", "eyrie", 186.2, 93.0, 4, "Dragon eyries cut into the cliff above Varrhold, black at the mouths.", dx=0.2)
-item("ramshead", "The Ram's Head", "inn", 181.2, 98.0, 4, "Drovers' inn on the Drover's Way, halfway between Harrow's End and Varrhold.", dx=0.2)
+item("ramshead", "The Ram's Head", "inn", 180.9, 99.0, 4, "Drovers' inn on the Drover's Way, halfway between Harrow's End and Varrhold.", dx=0.2)
 item("dragons4", "Dragons at the Roosts", "dragon", 187.8, 91.0, 4, "Dozens of Clan dragons on the cliffs and in the air above the hold.", label=False)
 item("tocoldtarn", "to Coldtarn", "arrow_n", 191.6, 85.0, 4, "Hollow Beck rises at Coldtarn, where the Clan burns its dead.")
 
@@ -105,7 +105,7 @@ item("knights18", "Knights on the far bank", "watchers", 174.4, 100.6, 18, "Knig
 item("raid19", "Raid on Ferriby", "battle", 171.0, 99.4, 19, "On patrol, Maren glimpses the Restoration's leader at a raid on Ferriby: one man, calm and persuasive.", label=False)
 
 # ---------- Chapter 20: The Leader, Again (Calder) ----------
-item("towendmouth", "to Wendmouth, 75 leagues", "arrow_s", 176.4, 123.0, 20, "Calder hears the leader speak in Wendmouth, on the same day Maren saw him at Ferriby.")
+item("towendmouth", "to Wendmouth, 100 leagues", "arrow_s", 176.4, 123.0, 20, "Calder hears the leader speak in Wendmouth, on the same day Maren saw him at Ferriby.")
 
 # ---------- Chapter 21: Without Words (Maren) ----------
 item("liongrnd", "The lion's ground", "lion", 175.6, 103.6, 21, "Maren keeps returning. The lion tolerates her at a distance.", label=False)
@@ -133,7 +133,7 @@ item("arn", "Arn's camp", "camp", 181.8, 94.6, 30, "The elder son's camp, across
 item("trap31", "The orders' trap", "roadblock", 174.4, 102.6, 31, "The inner circle orders Maren to lure the lion here. She refuses.", label=False)
 
 # ---------- Chapter 32: Before the Storm (Calder) ----------
-item("flee32", "Harrow's End flees", "path", 178.0, 101.3, 32, "The village packs carts and goes south down the Drover's Way.",
+item("flee32", "Harrow's End flees", "path", 177.3, 103.0, 32, "The village packs carts and goes south down the Drover's Way.",
      path=[(178.0, 101.6), (178.4, 105.0), (179.4, 109.0), (180.4, 112.4)], label=False)
 
 # ---------- Chapter 34: Two Men (Calder) ----------
@@ -222,3 +222,34 @@ item("ferry64", "Refugees cross", "path", 176.8, 108.4, 64, "Ada, Wren and Bel's
 item("pell69", "Where Pell fell", "death", 172.9, 106.2, 69, "Instructor Pell dies holding Greyhold's gate.", dx=-0.3, dy=-0.9)
 item("rook72", "Where Rook died", "death", 177.0, 104.4, 72, "Calder corners Rook in the fighting at the Ruin. The proof dies with him.", dx=0.3)
 item("brandt75", "Where Haverly and Kesh fell", "death", 174.6, 107.2, 75, "Greyhold is breached. Kesh is killed, and Haverly dies in Maren's arms.", dx=0.4, dy=0.9)
+
+
+# ---------------- Reconciled with the drafted Chapters 11-40 (new numbering) ----------------
+def _set(id, **kw):
+    for _it in ITEMS:
+        if _it["id"] == id:
+            _it.update(kw)
+_set("hobshole", ch=24, x=179.6, y=102.2, desc="Crow Scar: a black crag standing out of the Fellwood two leagues east of the Fenn farm, with a cave three-quarters up its face. Calder hides there with the three dragons (24-32).")
+_set("flight", ch=24, path=[(177.7, 102.3), (178.6, 102.0), (179.6, 102.2)])
+_set("burn18", x=177.3, y=103.0)
+_set("knights18", x=174.9, y=103.2)
+_set("fair", x=177.4, y=102.7)
+_set("teofell", x=182.9, y=96.6)
+_set("ford60", x=182.9, y=96.6)
+_set("crossing24", path=[(179.6, 102.2), (178.4, 102.6), (177.3, 103.0), (176.4, 103.2), (175.8, 103.5)])
+_set("weirs", desc="Tolly's Staithe's eel traps, staked across the shallows by the ferry.")
+item("eelweir", "The Eelweir", "weir", 176.6, 103.1, 2, "Harrow's End's fishing landing at the mouth of Hollow Beck, opposite the Old Ruin. Old Fisk and his sons keep it.", dx=0.2)
+item("shieling14", "Burned shieling at the ford", "fire", 183.1, 96.3, 14, "Teo is found dead at the ford; the gorse and the shepherd's shieling are fired.", label=False)
+item("huntcamp15", "Hunters' camp", "camp", 175.2, 102.9, 15, "Restoration hunters' cache under a bluff on the island's north-west shore: chains, stakes, a cage.", label=False)
+item("skarrow16", "Skarrow", "hamlet", 191.0, 95.0, 16, "Ulric's own steading on the east side of the Scarfell, where he takes most of the fighting men.", dx=0.3)
+item("millburn18", "Mill burned", "fire", 177.6, 103.2, 18, "Arn fires Hob's mill and Ulric's flour; the battle spills onto the Fenn fields.", label=False)
+item("lowgarth28", "Low Garth, burned", "fire", 181.6, 98.4, 28, "A west-side farm under Hollow Beck, burned by Ulric's men for selling to the hold.", label=False)
+item("holloway32", "Holloway, burned", "fire", 171.6, 100.8, 32, "A Hearthmere hamlet near Redwatch, burned; the knights ride out to it on their own bank.", label=False)
+item("ferriby33", "Raid on Ferriby", "battle", 171.0, 99.4, 33, "Corvin Vale directs the raid from the smithy roof like a game of stones.", label=False)
+item("rcamps38", "Restoration camps", "camp", 180.0, 140.0, 38, "Refugee camps on the drove road up the Wend, with drill fields of bound beasts behind them.", dx=0.3)
+item("redwatch39", "Skirmish at Redwatch landing", "battle", 173.6, 99.6, 39, "Raiders with bound hounds try to stave the patrol boats. Bracken is killed.", label=False)
+item("hatching40", "Old hatching caves", "cave", 194.0, 76.0, 40, "The Clan's old hatching caves above Coldtarn, unused for a hundred years. The dragons winter there.", dx=0.3)
+
+_set("ruinisland", label=False)
+_set("hobshole", keep=True)
+_set("eelweir", keep=True, dx=-1)

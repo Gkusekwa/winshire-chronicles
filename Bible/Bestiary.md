@@ -172,3 +172,22 @@ Massive, grey, plated, with one great horn and a smaller one behind it, short-si
 ## Open questions
 - Do tuskers and olifants have a language, and do they remember the old realm?
 - Is the grey cat at Greyhold a duskcat?
+
+---
+
+## Added while drafting Chapters 11–40 *(proposals unless marked)*
+
+| Creature | Notes |
+|---|---|
+| **The lion** *(settled by the author)* | About 10 ft at the shoulder in Book 1, growing toward dragon size. Earth-and-stone power, faint for now. Mane iron-grey, almost white at the roots; pale ice eyes; forefoot as broad as a round shield. It sleeps in a dug-and-refilled hollow in the island's north end. |
+| **Dragons** | Lisska about 12 ft at the shoulder and 40 ft long; Kharrak about 16 ft; Aurveth about 20 ft. The Clan keeps hundreds; about a dozen are bonded. |
+| **Greyharts** | White war-mounts, 9 ft. The crown breeds them (Ferriby's pair, taken in the raid). |
+| **Wyverns** | Smaller than Lisska. Black-green, no forelegs, barbed tail; hooded for handling. Vey's are **Sable** and **Hask**. A wild-caught young one freed on Gallows Quay flew out to sea. |
+| **Unicorn colt** | Smuggled out of Sarovel and caged on Gallows Quay: silver-black, deer-boned, stub of spiral horn, cloven hooves, bites. Calder freed it, and it looked back at him "as if remembering him". |
+| **Phoenix feather** | Red-gold. It never cools; the glass case over it is warm. It sits in Rusk's window and isn't for sale. Calder leaves it. |
+| **Bound beasts** | In six-dot collars, empty-eyed, silent, feeling no pain, driven by one handler's will. One looks up at Kharrak passing overhead, and for a moment something of its own comes back. |
+| **Captain Thorne's boar** | Black, the size of a hay cart. |
+| **The cat nobody owns** | Sleeps each night beside the beast whose rider will have a bad day tomorrow (Merrow's Holm, Ide's bed). |
+| **Bracken** | The Darrow girl's hound: brindled, waist-high. Killed at Redwatch. |
+| **Holm** | Merrow's ox-beast. Died of age with him. |
+| **White hump-ox** | Freed on Gallows Quay. Aurveth remembered one walking free on the bridge. |

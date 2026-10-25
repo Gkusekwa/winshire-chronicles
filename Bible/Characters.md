@@ -164,3 +164,62 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 |---|---|---|
 | Calder's village | **Harrow's End** | Fennick, Low Ashby |
 | The Dragon Clan's hold | **Varrhold** | Drakescar |
+
+---
+
+## Added while drafting Chapters 11–40 *(proposals unless marked)*
+
+**Settled by the author:**
+- The lion (Grey Mane) is about 10 ft at the shoulder in Book 1, towering over people. It grows toward dragon size over the series.
+- The lion and Maren can't speak. It tries to kill her more than once while she earns its respect.
+
+**Ages and facts fixed in review:**
+- Maren is 27. She joined the river watch at 17 and has been at Greyhold two years; she is a second-year. Her father died thirteen years ago, and his night on the island he told only Liss.
+- Sigrun was chosen by Aurveth at the Roosts about two years after Ragnald's death, at about 17. She rode Aurveth 59 years and was 76 at the mill.
+- Aurveth had been bonded three times before Calder: the first she has lost from memory, then Ragnald, then Sigrun. She is "more than three hundred years old".
+- Sizes: Lisska is about 12 ft at the shoulder and 40 ft long; Kharrak about 16 ft; Aurveth about 20 ft. Eyes: Aurveth gold, the size of a cartwheel hub; Kharrak gold; Lisska pale green.
+
+**Harrow's End**
+
+| Who | Notes |
+|---|---|
+| **Wat Garrow** | Old Garrow's son, Davy's father; his wife is **Tessa**. His farm burns in Ch 30. **Davy** (10) is the boy held at knifepoint in Ch 30. |
+| **Old Fisk** | Keeps the Eelweir, Harrow's End's fishing landing, with his sons. Tolly stays at Tolly's Staithe by the ferry. |
+| **The Ashby widow** | Elder; sided with Arn. |
+| **Hessa** | Calder's grandmother (dead), who kept a jackdaw. |
+| **Hob** | Takes Ulric's silver (16), sells Calder's road and hour to the coin man (24), loses mill, alehouse and house, is pulled from the fire by Calder (30), and vanishes. Harrow's End's alehouse is **the Wheel**, which Hob kept. |
+
+**The Clan**
+
+| Who | Notes |
+|---|---|
+| **Gorm Askell** | Arn's steward: long, sour, ink-fingered (the hold's steward). |
+| **Sten Raske** | Ulric's red-bearded spokesman. |
+| **Brann Holt** | Dared Imra to land on the island nine years ago. |
+| **The other bonded riders** | About a dozen pairs. They shut themselves in the Roosts under the old law that no bonded rider fights kin. Only Sigrun, Dag and Imra broke it. |
+
+**Saltreach and the Restoration**
+
+| Who | Notes |
+|---|---|
+| **Lieutenant Corrin Ash** | Vey's lieutenant, with a hooded hawk. |
+| **Captain Idris Vey** | Small, neat, about 50, grey gloves, spectacles, soft voice. 120 men, bolt-throwers, and two hooded wyverns, **Sable** and **Hask**. |
+| **The Captain** | Leader of the island hunters; Saltreach voice, short hair. |
+| **The coin man** | Soft-spoken, in a good dark coat. Pays in new silver with the ring of six on the rim. Not Rook. |
+| **Oswin Rusk** | Halloran house factor on Gallows Quay. |
+| **Absalom Reede** | Travelling bookbinder at Millbrook's Kettle; runs the meeting in Fennick's tithe barn. |
+| **The twins** | The crowd calls the leader **Vale**. Cassian speaks on the Tidesteps, warm. Corvin directs Ferriby from the smithy roof, still, and is the Ch 5 thin man; he knows Maren's name. Both have long pale faces, short dark hair and grey eyes. |
+| **Rook** | Was with the island hunters (Ch 17; Maren notes only his boots). He crosses to the farmer once word of the bonds reaches the far bank. |
+| **Rue and old Hesketh Coley** | Charcoal burners under Crow Scar. Rue's man died carting for Ulric at the mill. |
+
+**Greyhold**
+
+| Who | Notes |
+|---|---|
+| **Grieve** | Master of Stables: unbonded, forty years at Greyhold. "Warden" is kept for the inner circle. |
+| **Ide Darrow** | Second-year in Maren's year. Her hound **Bracken** is brindled, waist-high, with one torn ear. Bracken is killed at Redwatch (39); Ide withers and dies at dusk on day 65. |
+| **Captain Thorne** | Her bonded boar is the size of a hay cart. |
+| **Merrow** (91) and his ox-beast **Holm** | Die together on day 56. Merrow swore Hale into the inner circle. |
+| **Vasey, Callis, Wynn** (Wynn's hound is Ash) | Knights of the gate. |
+| **Fenna, Brannoch** | River watch. |
+| **Warden Osric Hale** | Past sixty, tall, stooped, short white beard, bad hip, ash stick. Wears a ring of keys with one long black key. Keeps the archive. Unbonded. |

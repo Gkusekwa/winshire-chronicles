@@ -187,3 +187,28 @@ Established landscape types include outskirts and villages, farmlands, hunting g
 - Where are the elder Titans, and what do people's faiths say about them?
 - Is the seal already weakening before Book 1's end?
 - Where are the catacomb entrances, and who guards them?
+
+---
+
+## Added while drafting Chapters 11–40 *(proposals unless marked)*
+
+**Rules settled by the author:**
+- **The lion's power is earth and stone,** visible elemental magic that grows with its size. In Book 1 it is faint:
+  - the ground heaves when it turns or rises
+  - pebbles jump and stone cracks when it roars
+  - the earth groans when it rams the tower
+  - the ground hums like a struck bowl when it watches Aurveth fly over, or turns toward Greyhold
+- **The forests of Winshire are vast,** thick enough to hide a dragon. New forests: **the Fellwood**, under the Scarfell east of Harrow's End, with Crow Scar standing out of it; and **the Wendwood**, along the east bank of the lower Wend almost to the coast.
+- **Most beasts are 8 ft and more,** apart from small personal ones such as falcons, hounds, martens and the cat. Dray-beasts are 8 ft and up and greyharts 9 ft. Fellwood boars are as big as dray-beasts, and its bears are taller than a house's eaves.
+- **Titans are mountain-sized.**
+
+**The bond, as drafted:**
+- **Range:** words carry three or four leagues; beyond that only feeling, which carries much further.
+- **Bond marks:** Calder's three marks over his heart overlap like coins: bronze, rust and green.
+- **Beasts and strangers:** beasts don't understand strangers' speech; Lisska can "push" a memory to Calder on purpose.
+- **Holding three costs him:** headaches, nosebleeds, and dreams of the riders' deaths. Rage floods across the bond.
+- **Clan law:** no bonded rider fights kin.
+
+**The Oneroad** had milestones that counted to the bridge at the island, "the middle of the world". Of the bridge only drowned pier stumps remain, showing in dry summers.
+
+**Days and sky:** Hearthmere is the west bank, so the sun and moon rise over the Saltreach bank.

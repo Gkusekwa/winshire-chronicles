@@ -614,7 +614,7 @@ class Map:
                 style = "normal" if it["kind"] in ("hamlet", "inn", "mill", "cave", "area_small") else "italic"
                 new = it["ch"] == self.chapter
                 self.lq.append(dict(X=X, Y=Y, text=html_esc(it["name"]), size=size, fam=FONT, style=style, col=c["label"],
-                                    prio=(3 if new else 1.5), pref=("end" if it["dx"] < 0 else "start"), force=new, g=14 * self.fs))
+                                    prio=(3 if new else (2.6 if it.get("keep") else 1.5)), pref=("end" if it["dx"] < 0 else "start"), force=(new or bool(it.get("keep"))), g=14 * self.fs))
             elif it["label"] and it["name"] and not stale:
                 size = 13.5 * self.fs * (1.25 if it["kind"] in ("hamlet", "area_small") else 1)
                 lx = X + 14 * self.fs + it["dx"] * self.v["s"]

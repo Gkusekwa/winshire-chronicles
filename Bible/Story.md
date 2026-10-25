@@ -142,3 +142,53 @@ The two protagonists argue these themes from opposite sides. The student has wor
 - How do the dragons' growth to Titan class change the farmer?
 - How does Corvin die in Book 3?
 - How do the student and the farmer become near-Titans, and what does immortality cost them?
+
+---
+
+## Added while drafting Chapters 11–40 *(proposals unless marked)*
+
+**The war's first season**
+- **Teo's death (day 4):** Rook overheard the hour (10). Teo is found stabbed from close in, his knife still sheathed, with a grey armband and a Clan axe planted. Arn swears vengeance. Calder says only "He was dead when I got here", and the guilt of the seventeen unsaid words begins (16).
+- **The split (day 6):** Arn holds Varrhold. Ulric goes to **Skarrow** with most of the fighting men. Dag and Imra stand with Arn, and Sigrun goes with Ulric as the Clan's sword.
+- **The mill (day 8):** Arn fires the flour. The dragons fight over Harrow's End. Dag is taken by Aurveth, Sigrun is raked by the falling Kharrak, and **Imra is shot by a crossbow from the hedge**. The Clan doesn't use crossbows. Who fired it is open.
+- **The bonds:** they take in the order Kharrak, Aurveth, Lisska. Calder lives each rider's last moment. The roar from the island comes as the third takes.
+- **The second burning (day 42):** the dragons save Harrow's End. Their rage floods into Calder and Lisska stops him. Knights watch from the far bank and don't cross.
+
+**The Restoration's method** *(consistent with World.md's bond-forcers)*
+- **Bindings:**
+  - A beast in a six-dot collar is held in honey-smoke while a binder in grey chants. An unchosen man with an iron ring kneels with his hand on its head and is told "You're chosen now".
+  - The beast's eyes go empty. It obeys the binder's **will, not his mind**; there is no speech and no shared life. One handler can drive a pack.
+  - Bound beasts fight silent and don't feel pain.
+- **The honey-smoke** is what the island hunters burned to keep the lion asleep.
+- **Camps** along the drove road up the Wend give out soup and blankets at the front and drill bound beasts behind.
+- **The iron rings** are given "when you stand up". Odo Marl makes them and mends their chain.
+- **The two-places legend:** Corvin at Ferriby and Cassian on the Tidesteps on the same day (49). Hale files it under the old legend.
+- **The seal-rider plant:** twice, a rider with Greyhold's seal, in a hand Ottery doesn't know, has cleared the river for a raid (the Upper Rush raid and Ferriby). Rowan's new order: no boats move except on her own written word.
+
+**Hale and the Watch**
+- **The Watch's list** is in the archive's black book: "From the closing", 311 names each with a door-mark, ending "Given into the keeping of the crown" in the charter's year.
+- **The black door** is at the end of the archive. His long black key fits it.
+- **His slips:**
+  - "The inner circle keeps a watch nobody else is told…"
+  - "The Watch had a name for it. The Last Titan." This sits behind the lullaby "the last great beast lay down below". He doesn't explain it.
+  - "Because he's three… the last time it was so…" This is about omens, not another man with three bonds.
+
+**Aurveth's memory**
+- **What she remembers:** the white bridge, the Oneroad, the fire on the tower. A great grey cat lay on the tower steps, and her first partner bowed to it. The milestones counted "nineteen to the bridge".
+- **What she has lost:** her first partner's voice has come back but not his face. She believes someone cut him out of her, and the island "cut" her.
+- **Where she comes from:** she was hatched in the old caves above Coldtarn, where the three winter.
+
+**Ada's seventh verse** has "the shape of" the carved verse. She knows what it's about but not yet what it's for, and won't sing it.
+
+**The lion and Maren** *(the author's rule: earned the hard way)*
+- **The attacks:** it strikes her on the shore (19), charges her at the stream and besieges the tower (23), and pins her when she crosses with a chisel for its collar (29). She defends herself, hurting it only where it does no harm.
+- **The progress:**
+  - She cuts it off the hunters' chain (21) and won't take its mane (23), so she fails the trial.
+  - The fire on the ground, empty hands, distance kept. It has one setback (27).
+  - **It lies down** (29). It keeps the tower door (37). It crosses to her side of the stream (39).
+- **The collar is still on.** The touch comes at the thaw.
+
+**Open:**
+- Who shot Imra?
+- Who carries Greyhold's seal?
+- Who cut Aurveth's first partner out of her memory?

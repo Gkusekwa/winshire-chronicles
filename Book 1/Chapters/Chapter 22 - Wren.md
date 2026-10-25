@@ -4,10 +4,441 @@
 POV: Calder
 Part: Part Two: Harvest of Knives
 Beats: Wren is the only person in Harrow's End who isn't afraid. Lisska adores her. The village elders want Calder gone. Ada admits the old song has a verse her grandmother taught her and made her swear never to sing.
-Echo of the other's story: The fishermen at Tolly's Staithe say someone from Greyhold is still out on the island, and the monster hasn't killed her yet.
-Status: not started
-Carried forward: Wren and Lisska: Lisska has asked after Wren twice (Chapters 6, 10) and sent her greetings. Wren isn't afraid because she's been waiting for this dragon.
+Echo of the other's story: Old Fisk at the Eelweir says someone from Greyhold is still out on the island, and the monster hasn't killed her yet.
+Status: first draft
+Carried forward: From Chapter 20: day nine ends with the three pyres; a lone Clan rider saw the dragons alive; Calder promised Lisska he'd tell her what the chain is "later"; Ada looked at the marks as if she knew something. From Chapter 18: Hob's mill and the Wheel burned with the flour.
+Draft notes: Days ten to thirteen. Decided here (proposals):
+- World rule (your decision): the forests of Winshire are vast and thick enough to hide a dragon. The Fellwood covers the lower Scarfell east of Harrow's End, oak and black pine, with Crow Scar standing out of it. Apart from small personal beasts (falcons, cats, hounds, martens), most beasts are eight feet and more.
+- Healing: bonded dragons mend fast, faster since the bond. By day thirteen Lisska flies, Aurveth can walk and lift off for short glides, and Kharrak's wing is knitting but won't bear him.
+- Food: Lisska hunts at night in the Fellwood and drags back deer and once a boar (a Fellwood boar is the size of a dray-beast). On day eleven Kharrak takes one of Wat Garrow's cows from the beck pasture. Calder pays for it in barley.
+- Wren ties her blue hair ribbon round the base of one of Lisska's horns on day eleven. Lisska won't let anyone take it off. (It comes back in the TWO warning.)
+- The elders' moot at the farm gate on day twelve: old Garrow, the Ashby widow, old Fisk from the Eelweir, Hob, and Wat Garrow standing back. They ask him to go before the Clan comes for the dragons and burns the rest of the village to get them. He asks for time until the wing heals. They give him till the new moon.
+- Day thirteen: at the Eelweir, Harrow's End's landing at the mouth of Hollow Beck, old Fisk tells him about the smoke from the tower and the girl his son saw.
+- Ada's verse: her father's mother taught her, in her own house, a last verse to "before the six" and made her swear on the hearthstone never to sing it, "not till you see what it's for". She doesn't sing it. She says she isn't sure yet.
 notes -->
 
 ---
 
+On the morning of the tenth day Lisska came to the window.
+
+He was in the kitchen. They'd carried him in at last the evening before, after the fires had burned down, when the three of them had finally let him go; or not let him go, but understood, somehow, through the marks, that he'd be in the house, near, and would come back. The feeling had gone through them all like a long breath. *Near. Not gone. Near.* They'd let Ada and Wat Garrow take him in, and lay him on the settle by the fire with his ribs bound and his leg up on a stool, and he'd slept for the first time since the battle, and dreamed of nothing at all.
+
+He woke because the light had gone out of the kitchen.
+
+The window was full of a green eye.
+
+It was very close to the glass. As big as a plate. Pale green, with a long black slit in the middle, and moving, quick, round the kitchen: the dresser, the fire, the table, the jug, the cat on the hearth, which had gone flat and enormous and was making a sound like a kettle.
+
+*Is this where you live?* said Lisska. *It's very small. Is it all of it? Is there more? Where do you sleep? What's that? What's that thing that's making the noise?*
+
+"That's the cat," said Calder. His voice was a croak.
+
+*It doesn't like me.*
+
+"It doesn't like anybody."
+
+*I'll eat it.*
+
+"You will not eat the cat."
+
+*I wasn't going to. I was only saying.* The eye moved. *What's that? On the table? That round thing. It smells nice.*
+
+"That's bread."
+
+*Can I have it?*
+
+Wren came down the stairs.
+
+She'd been in bed. She came down in her nightgown with her hair all over her face, the way she always did, rubbing her eyes, and stopped on the bottom step, and looked at the window.
+
+Calder watched her. He watched her face, because it's what a father does, and because he could feel, through the green mark on his chest, Lisska watching her too. Watching very hard. Bright and still and curious, the way a cat watches a mouse, but without the hunger; or with a different hunger. Like a child pressing its face to a baker's window. She'd been waiting for this, he understood. Since a burned farm at Upper Rush, and a small girl in the yard with a cup of water in each hand, looking up. Since *Wren says hello.*
+
+Wren looked at the eye for a while.
+
+She went to the table, and broke the end off the loaf, and went to the window and opened it, and held it out.
+
+---
+
+He'd never forget it. Not if he lived to be as old as Aurveth.
+
+The long thin green head came in through the window, carefully, and filled the frame. The muzzle came over the sill, scaled and narrow and longer than Wren was tall, and stopped, a hand's breadth from her fingers. The nostrils moved. Smoke came out of them, a little, curling, and Wren wrinkled her nose and didn't step back.
+
+Then the jaws opened, just a crack, and something very long and thin and forked came out, quick as a whip, and touched the bread, and took it, and was gone.
+
+*Oh,* said Lisska.
+
+Wren laughed.
+
+It was the first time she'd laughed since Teo. He knew it, the moment he heard it. It went through him like warm water. It went through the mark, too, into the green dragon at the window, and he felt it land, and he felt what it did.
+
+*Oh,* said Lisska again. Very quietly. *Oh, she's nice. Isn't she. Isn't she nice. She gave me bread. Nobody gives me bread. Imra used to give me apples, sometimes, if I was good, and Teo threw them at me but that's different, that's throwing, and she said hello, she sent me a hello, and now she's given me bread, and…* She stopped. Started again. *Can I have some more?*
+
+"She's asking for more," Calder said.
+
+Wren looked round at him, with her eyes very bright.
+
+"Can you hear her?"
+
+"Yes."
+
+"In your head? Like Gran said? Like the old knights in the songs?"
+
+"Yes."
+
+Wren looked back at the eye in the window for a long moment. She broke off another piece of bread.
+
+"Tell her she can have this," she said, "if she says please."
+
+Calder looked at the ceiling.
+
+"She says you have to say please," he said.
+
+*What's please?*
+
+"It's what you say when you want something."
+
+*I say I want something. I said can I have it. That's asking. Isn't it?*
+
+"It's not the same."
+
+*Why not?*
+
+He didn't know. He'd never had to explain it to anybody. He lay on the settle with his ribs aching and tried, and couldn't, and in the end he just said, "It's a word. It means you know they don't have to."
+
+There was a silence in his head. A long one, for Lisska.
+
+*Please,* she said.
+
+He told Wren. Wren held out the bread. The forked tongue took it.
+
+The green head went out of the window, and he heard something outside, against the wall of the house, settle down, heavy and warm, the way a dog does in the sun by a door. Through the mark, he felt her. Lying there against the wall. Content. For the first time since the battle. Still grieving, the great dark tide of it still there underneath, going in and out. But on top of it, just for now, something small and bright, like a candle on water.
+
+*I like her,* said Lisska. *I've decided.*
+
+---
+
+When Calder was small, his grandmother kept a jackdaw. It wasn't a bonded beast; it wasn't anything; it was a jackdaw that had fallen out of the eaves of the mill as a fledgling, and she'd picked it up and put it in her apron pocket and it had never left. It sat on her shoulder at the table. It stole buttons. It said three words, *bread, bread,* and *Hessa*, which was her name, and nobody ever taught it. When she died, it sat on the roof of the house for a week and wouldn't come down for anybody, and on the eighth day it went away, and nobody saw it again.
+
+He'd thought about that jackdaw, sitting in the burned field, more than he'd thought about anything in years.
+
+---
+
+He told Ada about the window later. She was mending his shirt at the table, and she listened, and didn't look up.
+
+"She's a child," Ada said. "Children aren't afraid of things. That's what makes them children."
+
+"She's not afraid of Kharrak, either. Ma. She walked round his head."
+
+"I saw."
+
+"Nobody else will come within a field of them."
+
+"No." Ada bit off a thread. "Nobody will."
+
+He heard what she meant. He'd heard it all the night before, through the window, from the lanes, the shape of the voices. Nobody would come within a field of them. Nobody would come within a field of *him*.
+
+---
+
+They had to eat. That was the first thing.
+
+He hadn't thought about it. Nobody had. On the eleventh day he woke in the dark and felt it through the marks: a deep, gnawing, dragging emptiness, in all three of them at once, that went right down into his own stomach so that he sat up on the settle with his hand pressed to his middle and thought for a moment he was going to be sick.
+
+*Hungry,* said Kharrak.
+
+He said it the way he said everything, short and hard, like a door slammed. But under it, through the mark, Calder felt something else. Not just hunger. The way a sick beast is hungry. The body asking for something to mend itself with.
+
+*We have not eaten,* said Aurveth, *since the morning before the battle, and we have burned more than we had in us since then, and the bond has taken something too, I think. More than one would expect. We are mending, all three of us, faster than I have ever mended. I can feel my back drawing closed. But it is drawing on something to do it. And there is nothing in us left to draw on.*
+
+"What do you eat?" Calder said. Aloud, in the dark kitchen. "At the hold? What did they feed you?"
+
+*Cattle,* said Kharrak.
+
+*Deer,* said Lisska. *When I can catch them. I catch them in the woods. Imra used to let me go hunting in the woods behind the hold, at night, as long as I came back by morning. Can I? Can I go hunting? I'm not hurt. Not much. I can fly. I flew last night, a bit, round the house. I can go to the woods.*
+
+He thought of the Fellwood. It began a mile above the farm, where the fields gave out: the great old forest that covered the whole lower slope of the Scarfell from the Drover's Way to the far side of Hollow Beck, and went on, east and up, for leagues. Oak at the bottom, huge, older than the hold. Black pine higher up, so dense in places that it was dark at noon. Nobody went into the deep parts of it. You couldn't. Charcoal burners worked the edges and the swine-herds took their pigs in under the oaks in autumn, and that was all. Beasts lived in the deep parts that nobody had names for, or wanted to. Boar as big as a dray-beast. Elk. Bears, they said, that stood up taller than the eaves of the house. Things that the river watch on the other bank told stories about to frighten each other.
+
+You could lose an army in the Fellwood. You could lose a dragon in it, and never see it again.
+
+"Go," he said. "Come back by morning."
+
+*I will. Promise. Is that how you say it? Promise.*
+
+She came back before dawn with a deer.
+
+He heard her land in the yard, and went out on his crutch, and found her standing over it in the grey light by the byre, very pleased with herself, with blood on her muzzle. It was a red stag. A great one, an old one, with antlers spread wider than his arms could reach, and it was bigger than any horse he'd ever owned. Bigger than Sorrel. She'd carried it back in her claws over a mile of forest.
+
+*For them,* she said, and looked at the burned field where the other two lay. *They can't hunt. So I hunted. That's right, isn't it? That's what you do? When someone can't?*
+
+He stood in the yard on his crutch and looked at her.
+
+"Yes," he said. "That's what you do."
+
+She went back out three more times that night and the next. A hind. Another stag. And a boar, the last time, near morning, that she dragged in across the field low and labouring, because even for her it was a weight: a great black bristling Fellwood boar the size of a dray-beast, with tusks as long as his forearm. Kharrak ate most of it. He ate it lying down, with his torn wing folded against his side, in long tearing mouthfuls, and Calder felt it go into him, through the mark, like warmth into a cold room.
+
+*Good,* said Kharrak. Later, grudgingly: *Good hunting, Small.*
+
+*I'm not small.*
+
+*Good hunting.*
+
+---
+
+Still, it was never enough, and that was the trouble. Three dragons, mending, eat more than one dragon can catch. On the evening of the eleventh day, while Lisska was out over the Fellwood and Aurveth was asleep in the field, Kharrak got up.
+
+Calder felt him do it. He was in the kitchen, at the table, and he felt the great body shift in the field above the house, and the hunger in it rise up like a tide, and he dropped his spoon and got up and went to the door on his crutch, shouting, *no, no, wait,* and he was too late.
+
+Wat Garrow's cows were in the beck pasture below the field. Six of them. Kharrak went down the slope on foot, lurching, with his wing dragging, faster than anything that size had any business moving on three good legs, and the cows saw him coming and ran, bawling, every way at once, and one of them ran the wrong way, and that was that.
+
+Calder stood at the bottom of the field on his crutch, in the dusk, and watched a dragon eat Wat Garrow's red heifer. Through the mark he felt the hunger in Kharrak ease, and the warmth go into him, and the torn wing take it. And a kind of wordless, savage, uncomplicated gladness that he'd never in his life felt about anything and never would.
+
+Wat Garrow was standing at the far gate of the pasture with his mouth open.
+
+"I'll pay for her," Calder said. He had to shout it across the pasture. "Wat. I'll pay. Barley. Two sacks. Three. Whatever she was worth."
+
+Wat Garrow stood at the gate for a moment longer. He turned and walked away up the lane toward the village, not running, not quite, without looking back.
+
+*He's angry,* said Lisska, from far off, over the Fellwood. She'd felt it too. *Is he angry? He's angry. Why is he angry? Kharrak was hungry.*
+
+"It was his cow," said Calder.
+
+*So?*
+
+He didn't know how to answer that, either.
+
+---
+
+Wren tied the ribbon on that night.
+
+He didn't see her do it. He saw it after, in the morning, when he came out into the yard and Lisska came down off the roof of the byre to meet him the way she'd begun to every morning, swooping down with a great clatter of wings that sent the hens screaming and landing in the yard so close he had to step back. There was something on her head. At the base of the left horn, where it came out of her skull behind the eye, knotted tight: a strip of blue cloth.
+
+Wren's hair ribbon. The good one, the blue, that Senna had bought her at Cotter's Cross the last summer before the fever, and that she wore on fair days and nowhere else.
+
+*Look,* said Lisska. She turned her head so he could see it better. Then turned it the other way. Then back again. *Look. Look what she gave me. Isn't it nice? It's blue. It's a present. Wren gave it to me. Wren said it's so I don't forget her when I'm out in the woods. As if I would. As if I'd forget. I remember everything. I told her that and she said it didn't matter, it was a present anyway. Isn't it nice?*
+
+Calder looked at the ribbon.
+
+"It's very nice," he said.
+
+"I didn't think she'd mind," said Wren, behind him, at the door, in a small voice. "I asked her. She said please."
+
+He turned round. She was standing on the step with her shawl round her, looking at him anxiously, ready to be told off.
+
+He thought of Senna buying the ribbon at the stall at Cotter's Cross. Holding it up against Wren's hair, laughing. *Blue. It'll have to be blue. Look at her eyes.*
+
+"It's all right, chick," he said. "It suits her."
+
+*It does, doesn't it,* said Lisska. *It does. I'm going to keep it forever.*
+
+---
+
+The elders came on the twelfth day.
+
+He saw them from the kitchen window, coming up the lane in the middle of the morning in a little knot, the way people walk when they've agreed to do something none of them wants to do: close together, slowly, not talking. Old Garrow with his stick. The Ashby widow in her black. Old Fisk from the Eelweir, with his cap in his hands. And Hob.
+
+Wat Garrow came behind them, a little way back, and stopped at the corner of the lane where the hedge was, and didn't come any further.
+
+They didn't come into the yard. They stopped at the gate. He saw them look up past the house to the burned field, where Aurveth lay on the slope like a bronze hill with her one eye open, and Kharrak beside her in the furrow, and then quickly away again.
+
+He went out to them on his crutch.
+
+Lisska was on the byre roof. He felt her go still, watching, and felt her start to come down, and thought at her, hard, the way he was learning to: *stay there. Stay. Please.* And felt her stop, unwillingly, and stay.
+
+"Calder," said old Garrow.
+
+"Garrow."
+
+"You'll know why we've come."
+
+"I can guess."
+
+They stood there. Nobody wanted to start. Calder looked at their faces and knew them all, and had known them all his life: Garrow, who'd taught him to ride, on his old cob, when he was five; the Ashby widow, who'd sat with his mother the week his father died; Fisk, who'd taken him out on the river for eels when he was small and let him steer. And Hob. Hob, whose face under the soot was grey and old and had nothing in it Calder could read at all.
+
+It was the Ashby widow who started, in the end. She was the hardest of them. She always had been.
+
+"You have to go, Calder Fenn," she said. "You and them. Before they come for you."
+
+"Who?"
+
+"Everybody." She said it quite flatly. "The Clan. Both halves of it. Do you think Arn Varr's going to let three of the Clan's dragons sit in a Saltreach barley field, with a farmer, when he's at war? Do you think Ulric is? They'll come for them. Both of them. And they'll come through us to do it." She jerked her head down the valley, at the black heap of the mill, at the burned houses below it where Kharrak had made Dag's pyre, at the long black scar where the fire had gone up the hill. "They've done that already, and that was over forty sacks of flour. What do you think they'll do for three dragons?"
+
+"I didn't ask for them."
+
+"I know you didn't, lad." That was Fisk. Gently. "Nobody's saying you did."
+
+"Some are," said Hob.
+
+Everybody looked at him.
+
+"Some are," said Hob again. He wasn't looking at Calder. He was looking at the field. "Some are saying a man doesn't just *get* three dragons. Not the morning after their riders die. Not the same night as that…" He jerked his head toward the river, toward the island. "Some are saying he must've done something. Or known something. Or made some sort of bargain." His voice was rough. "I'm not saying it. I'm saying some are."
+
+"Hob."
+
+"I lost my mill, Calder. My father's mill. And the Wheel. And forty sacks of flour, and Ulric's silver with it, because I'll have to give it back now, won't I, if I've no flour to send him. I've lost everything I had. In one night." He looked at Calder then, finally, and his face was terrible. "And you came out of it with three dragons."
+
+Calder said nothing.
+
+"It's not his fault, Hob," said Fisk.
+
+"I didn't say it was."
+
+Nobody said anything for a while.
+
+"We're not turning you out," said old Garrow at last. He leaned on his stick. He looked very old. "Nobody wants that. You're Harrow's End born. Your father was. And his. But you can see how it is. We can't keep you here, Calder, with them. Not with the war on. Not with everybody wanting them. The village can't stand it. It's barely standing as it is." He looked up at the field again, and at Aurveth's one bronze eye, and away. "You have to take them somewhere. Away. Up in the hills, or across the Scarfell, or anywhere. Somewhere the war isn't."
+
+"There isn't anywhere the war isn't."
+
+"Then somewhere it's not us."
+
+Calder looked at them. At their faces, frightened and stubborn and sorry and tired. He felt the three dragons behind him, through the marks, all three of them watching, listening. Not to the words. To him. To what he was feeling.
+
+He was feeling a great deal.
+
+*They want us gone,* said Kharrak. Low. The red tide stirring. *Them. These. After the hold kept their river safe. Thirty years. Them.*
+
+*Be still,* said Aurveth.
+
+*They want us gone.*
+
+*They are frightened, and they have reason to be, and they are asking, not telling. Be still.*
+
+"Kharrak can't fly," Calder said. "His wing's still torn. Aurveth can't go more than a field. If I take them now, I take them on foot, up the Drover's Way, in daylight, where anybody can see." He looked at Garrow. "Give me till the wing heals. That's all I'm asking. Then I'll go."
+
+The elders looked at each other.
+
+"How long?"
+
+"I don't know. Aurveth says they're mending fast. Faster than they should." He felt her, behind him, agree. "Days. Not weeks."
+
+There was a long silence.
+
+"The new moon," said the Ashby widow at last. "Till the new moon. Then you go, Calder Fenn. With them, or without them. But you go."
+
+He looked at her.
+
+"All right," he said.
+
+They went away down the lane, the five of them, the way they'd come, slowly. Wat Garrow went with them. Only Fisk looked back, once, at the corner, and lifted his hand, and Calder lifted his.
+
+---
+
+*Where will we go?* said Lisska, from the byre roof, when they'd gone.
+
+He didn't know.
+
+*Will Wren come?*
+
+He had no answer to that either.
+
+He felt her feel it, the not-answering. He felt her go quiet.
+
+*Oh,* she said.
+
+---
+
+Ada came out to the field that night.
+
+She'd never come into it. Not since the morning she'd knelt in the stubble and bound his ribs. She'd brought him food at the door, and stood in the yard, and watched the dragons from the kitchen window with her arms folded. But that night, after Wren was asleep, she came out with a lantern and her shawl round her, up the slope through the burned stubble, past Kharrak in his furrow, and stopped at the edge of the light where Calder was sitting with his back against Aurveth's foreleg, and looked at him.
+
+She sat down on the ground beside him, the way old women sit down, one hand on the ground, and put the lantern between them.
+
+Neither of them said anything.
+
+Above him, Aurveth's great head came round on her long neck and lowered, until the one eye was looking down at them both in the lantern light. Ada looked up at it. She didn't flinch. He'd never loved her more.
+
+"She's very old," Ada said.
+
+"Yes."
+
+"Older than any of us. Older than the songs, maybe." She looked at the eye a while longer. "Does she know them? The songs?"
+
+He asked.
+
+*Some,* said Aurveth. *The Clan sings to its dragons, when they're young, in the hatching-caves. Old songs, older than the hold, that the riders learn from their mothers and sing in the dark to keep the young ones quiet. I remember some. Not the words, always. The shapes of them.*
+
+"She knows some," he said.
+
+Ada nodded.
+
+"There's one I know," she said. "You've heard it. *Before the six, there was one.* I sing it at the fair. I sang it this year." She was looking at the lantern now, not at the dragon. "I sang it the way everybody knows it. Six verses. The six kingdoms going their six ways. The old ones going into the light. *Till the six are one again.*" She stopped. "That's how everybody knows it."
+
+He waited.
+
+"There's another verse," said Ada.
+
+The lantern flame stood very still between them.
+
+"A seventh. My grandmother taught it to me. Not my mother: my grandmother, my father's mother, who came over the river from the Hearthmere side when she was a girl and never went back. She taught it to me when I was Wren's age, by her own fire, in my father's house up the beck. Once. She made me say it back to her till I had it. Then she took my hand and put it flat on her hearthstone and made me swear on it. That I'd never sing it. Never. Not at a fair, not to my children, not to anybody."
+
+"Why?"
+
+"She said…" Ada stopped. Started again. "She said it wasn't a song for singing. She said it was a song for knowing. She said I'd keep it, the way you keep a key you've no lock for, and one day I'd see what it was for, and then I'd know whether to sing it."
+
+The eye above them stayed where it was.
+
+"And she said if I sang it before then," said Ada, very quietly, "I'd be calling something I couldn't send back."
+
+Calder looked at her.
+
+"Ma," he said. "Have you seen what it's for?"
+
+His mother didn't answer. She sat on the ground in the burned field with the lantern between them and her shawl round her, and looked at the lantern flame, and then, slowly, she looked at his chest. At the place under his shirt where the three marks were. She'd seen them. She'd bound his ribs with her own hands, round and under them.
+
+"I don't know yet," she said. "I'm not sure."
+
+"Will you sing it for me?"
+
+"No," said Ada.
+
+She picked up the lantern, and got up, one hand on the ground, and stood looking down at him and at the bronze dragon's eye above him. She reached out, quite suddenly, and put her hand on his hair, the way she had when he was small, and left it there a moment.
+
+"Not yet," she said. "Not till I'm sure. I swore."
+
+She went back down the field with the lantern. He watched the light go down through the black stubble, past Kharrak, past the broken hedge, into the yard, and into the house, and the door shut.
+
+*She knows something,* said Aurveth, above him. Very low.
+
+"Yes."
+
+*So do I, I think. Or I have known it. Once. A long time ago.* The great head lifted and turned, and looked out across the valley toward the river, toward the dark low shape of the island. *I cannot find it. It is like a word on the tip of the tongue. It is there, at the bottom of everything I am, and I reach for it and it goes down.*
+
+He looked where she was looking.
+
+---
+
+On the thirteenth day he went down to the Eelweir.
+
+He went on the crutch, the back way by the beck, so he wouldn't have to go through the village. He didn't want to see their faces. He wanted to see the river. He'd been wanting to see it since the night of the battle, since the roar.
+
+Old Fisk was on the weir-jetty, mending a net. He looked up as Calder came along the boards, and moved over on his bench without a word, and Calder sat down beside him with his leg out stiff in front of him and his crutch across his knees, and they sat there for a while and looked at the water.
+
+It was a clear day, cold, with a sharp wind. The river was high and brown. Across the water, a league and a half off, the island lay long and dark in the middle of it, with the stump of the tower standing up out of the trees.
+
+There was smoke going up from the tower.
+
+Thin. Grey. A little thread of it, going up from the top of the stump into the clear cold sky, and blowing away east on the wind.
+
+Calder looked at it.
+
+"That's been going three days," said Fisk, following his eye. "Morning and evening. My boys saw it first." He went on with his net. "That's somebody cooking."
+
+"On the island?"
+
+"On the island." Fisk pulled a knot tight with his teeth. "The Greyhold boat that was drawn up on the spit, that's gone. Went off down the river on its own the night of the fight, empty, upside down. My boys fished it out at the bend below the weir. River-watch skiff, Greyhold mark on the stern, and the rope cut. Not broke. Cut." He spat into the water. "So whoever came over in it, they've no way off. And they're still there. Cooking. Morning and evening." He looked up at the thread of smoke. "And that's after the night we had. After what we heard out there."
+
+Calder looked at the island.
+
+"Yesterday," Fisk said, "my eldest went up close in the punt, at dusk, against the rules, the young fool. Off the west shore. He says he saw somebody on the shore. Just for a moment, before they went in under the trees." He shook his head. "A girl, he said. Tall. Dark-haired. One arm bound up in white. Walking along the shore as if she'd every right to be there." He was quiet for a while. "Greyhold, my boy says. The river-watch grey on her. And that thing out there, roaring like the end of the world, and whatever went into those woods with the chains, and she's still walking about." He knotted the net. "It hasn't killed her yet."
+
+*Who is it?* said Lisska. She was over the Fellwood. She'd heard him hear it, the way she heard everything now. *On the island? Who's that? Can I go and look?*
+
+"No," said Calder, aloud, and Fisk glanced at him, and away again, carefully, the way everyone did now when he talked to the air.
+
+*Why not?*
+
+He sat on the bench at the end of Fisk's jetty with his leg stiff in front of him and looked at the thread of smoke going up from the tower on the island. A girl. Alone. With no boat, and one arm bound up, out there in the middle of the river with whatever it was that had roared.
+
+*Old,* something had said, in the dark of his head, while he lay dying in the field.
+
+*She's brave,* said Lisska, suddenly. *Isn't she? Whoever she is. She must be very brave. Or very stupid. Imra said those were mostly the same.*
+
+He watched the smoke till it thinned out and stopped.

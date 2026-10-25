@@ -89,7 +89,7 @@ She watered Turnip at the trough. It took a long time, because Turnip drank like
 
 ---
 
-North of Redwatch the road ran through farmland, wheat and barley on the inland side and water meadows on the river side, with the Brackenwood coming down dark and close on the left like a wave that had stopped. They passed through Ferriby, which was a dozen houses and a smithy round a green, and the children came out to watch, because whatever else the orders had stopped being, they were still the best thing a village child could see on an ordinary morning. The smith's boy ran beside Haverly's horse for a hundred yards shouting questions at the falcon. Kesh ignored him magnificently.
+North of Redwatch the road ran through farmland, wheat and barley on the inland side and water meadows on the river side, with the Brackenwood coming down dark and close on the left like a wave that had stopped. They passed the end of the lane up to Ferriby, which was a dozen houses and a smithy round a green a little way inland, and the children came running down the lane to watch, because whatever else the orders had stopped being, they were still the best thing a village child could see on an ordinary morning. The smith's boy ran beside Haverly's horse for a hundred yards shouting questions at the falcon. Kesh ignored him magnificently.
 
 "Why don't they cross?" a girl called after Maren from a gate, when the rest of the line had gone by. She couldn't have been more than eight. "My nan says the knights saw Upper Rush burn and didn't cross. Why not?"
 

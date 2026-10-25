@@ -57,7 +57,7 @@ RIVERS = {
     "The Gilt":    [(88, 104), (82, 120), (72, 136), (62, 152), (52, 170), (48, 178)],
     "The Meryl":   [(132, 126), (136, 145), (134, 165), (140, 182), (141, 204)],
     "The Ysse":    [(304, 64), (290, 80), (272, 96), (258, 108), (250, 118), (256, 140), (262, 160), (262, 194)],
-    "Hollow Beck": [(196, 76), (191, 86), (186.4, 92.6), (182.2, 97.2), (178.8, 100.4), (176.6, 101.1)],  # Clan hills to the Wend
+    "Hollow Beck": [(196, 76), (191, 86), (186.4, 92.6), (182.6, 97.0), (179.6, 101.0), (177.8, 102.7), (176.3, 103.1)],  # Clan hills to the Wend
 }
 
 LAKES = {
@@ -83,6 +83,8 @@ FORESTS = {
     "The Greenwold": [(140, 76), (162, 74), (168, 86), (152, 92), (138, 88)],
     "Elderwood": [(40, 110), (60, 104), (64, 122), (46, 130), (34, 122)],
     "The Ashlings": [(200, 120), (214, 116), (218, 134), (204, 140)],
+    "The Fellwood": [(178.4, 100.2), (181.0, 97.8), (185.5, 98.0), (187.0, 101.5), (185.0, 105.0), (181.0, 106.0), (178.6, 104.6)],
+    "The Wendwood": [(178.0, 116), (183, 117), (184, 135), (186, 155), (185, 175), (186, 192), (182, 197), (181, 184), (179, 170), (182, 156), (179, 142), (180, 130), (177.5, 120)],
 }
 
 MARSHES = {
@@ -104,7 +106,7 @@ ROADS = {
     "The Iron Road": [(62, 45), (78, 58), (96, 72), (112, 90), (128, 108)],
     "The Sun Road": [(48, 172), (60, 150), (70, 120), (90, 112), (110, 110), (128, 108)],
     "The Vael Pass": [(150, 38), (146, 52), (140, 66), (136, 82), (130, 100)],
-    "The Drover's Way": [(184.6, 94.4), (181.6, 97.6), (178.0, 101.3), (178.6, 106), (180.5, 113), (181, 130), (182, 150), (182, 175), (183, 204)],
+    "The Drover's Way": [(184.4, 94.8), (181.2, 98.6), (178.6, 102.0), (177.6, 103.2), (178.4, 106), (180.5, 113), (181, 130), (182, 150), (182, 175), (183, 204)],
     "The Coast Road": [(183, 204), (200, 202), (216, 198), (232, 196), (248, 194), (262, 193), (280, 186), (295, 178)],
     "The Saltreach Track": [(181, 130), (200, 140), (222, 156), (248, 176), (262, 193)],
 }
@@ -155,12 +157,12 @@ place("oldruin", "The Old Ruin", "ruin", "marches", 175.6, 103.5,
       "Broken arches and a squat round tower on a wooded island where the Wend splits, about three leagues upriver of Greyhold. "
       "It was a bridge-fort on the Oneroad, the old realm's highway, and the stumps of the bridge piers still break the water at low summer. "
       "A verse about Winshire is carved under the tower arch. River folk on both banks leave it alone.",
-      scope="both", canon="established (island in the border river)")
-place("harrowsend", "Harrow's End", "village", "saltreach", 178.0, 101.3,
+      scope="both", canon="established (island in the border river)", label_dx=-1)
+place("harrowsend", "Harrow's End", "village", "saltreach", 177.3, 103.0,
       "Calder's village on the Saltreach bank: thirty-odd houses of river stone and tarred timber with turf roofs, a mill on Hollow Beck, a shrine to the gods at the crossroads, "
-      "and barley and flax fields running down to the water. From the top field you can see the Old Ruin. The Drover's Way passes through on its way to Varrhold.",
+      "and barley and flax fields running down to the water. It sits near the mouth of Hollow Beck, a league and a half across the water from the Old Ruin, which you can see from every field. Its fishing landing is the Eelweir. The Drover's Way passes through on its way to Varrhold.",
       scope="both", canon="name proposed")
-place("varrhold", "Varrhold", "hold", "saltreach", 184.6, 94.4,
+place("varrhold", "Varrhold", "hold", "saltreach", 184.4, 94.8,
       "The Dragon Clan's hold, ten leagues north-east of Harrow's End in the Scarfell. A ring of black-stone longhouses inside a turf rampart, "
       "the chief's hall roofed with dragon-scale shingles shed over generations, and above it the Roosts: dragon eyries cut into the cliff, scorched black at the mouths. "
       "Two days by grain cart from Harrow's End, one on horseback; under a quarter of an hour by dragon.",
@@ -175,18 +177,18 @@ place("scarfell", "The Scarfell", "landmark", "saltreach", 189.5, 86.5,
       "Bare, high moorland and broken crags north and east of the Marches: heather, scree and wind. Dragon country. Sheep, if you're brave.", scope="marches")
 
 # Marches-only detail
-place("calderfarm", "Fenn farm", "farm", "saltreach", 177.7, 102.6,
-      "Calder's farm on the lower edge of Harrow's End: a stone longhouse with the byre under one roof, a barn, a kitchen garden, two fields of barley and one of flax, "
-      "and a strip of water-meadow along the Wend. The Clan's battle in Chapter 18 spills across these fields.", scope="marches", canon="Calder's home")
+place("calderfarm", "Fenn farm", "farm", "saltreach", 178.2, 101.9,
+      "Calder's farm on the slope above Harrow's End: a stone longhouse with the byre under one roof, a barn, a kitchen garden, two fields of barley and one of flax, "
+      "and the beck pasture below. The Fellwood begins a mile above the top field. The Clan's battle in Chapter 18 spills across these fields.", scope="marches", canon="Calder's home")
 place("ferrylanding", "Ashdown Ferry", "landmark", "hearthmere", 173.4, 109.0,
       "Liss Ashdown's ferry: a flat-bottomed boat on a guide rope between Greyhold landing and the Saltreach jetty at Tolly's Staithe. Thirty years of crossings.",
       scope="marches", canon="Chapter 1")
 place("tollysstaithe", "Tolly's Staithe", "village", "saltreach", 177.2, 108.6,
       "A huddle of fishermen's huts and drying racks at the Saltreach end of the ferry. Smoked eel, river gossip, and everyone's cousin.", scope="marches")
-place("upperrush", "Upper Rush", "village", "saltreach", 178.0, 99.3,
+place("upperrush", "Upper Rush", "village", "saltreach", 177.3, 101.0,
       "A hamlet of four farms in a hollow above the Saltreach bank, two leagues upriver of Harrow's End. Its barns are the fires Maren sees from the river wall in Chapter 1: raided at night for beasts, then burned. Harrow's End blames the Clan's quarrel.",
       scope="marches", canon="Chapters 1 and 2")
-place("ewehollow", "Ewe Hollow", "village", "saltreach", 182.6, 104.2,
+place("ewehollow", "Ewe Hollow", "village", "saltreach", 181.4, 107.0,
       "Sheep folk in a fold of the hills east of Harrow's End: a dozen crofts, a wool barn, and a lot of dogs.", scope="marches")
 place("northwatch", "Northwatch", "tower", "hearthmere", 174.4, 91,
       "A patrol tower on the River Road, manned by the river watch. Signal fires on the roof. Maren served here.", scope="marches")

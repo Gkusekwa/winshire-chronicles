@@ -16,7 +16,7 @@ Draft notes: Days 30–45. Decided here (proposals):
 - **The chapel, night 33**: the crown's chapel off the square, where the lamps were said to be the gods' gift to the crown *(Magic.md)*: a row of glass lamps on the altar step, glass now, dusty. She has never prayed; knights of Greyhold don't, much. She sits on the back bench and thinks about the chain *(Book 2 ch. 82)*: three notes on her horn, the pins out, the chain running; she counted seventy in the cellars dead when she let go (they weren't: Orrun tore the hill open and Joby brought them up, Book 2 ch. 83–84); she'd do it again; that's the trouble; a knight who'd let go of the crown's chain to save seventy people would let go of the crown's order to save ten thousand. She sits until the candle she lit out of habit goes out. She doesn't pray.
 - **The Greenwold road, days 34–38**: east with her twelve, by the old road through the oak woods of the Greenwold (aurochs in the oaks); the crown's post where the road comes out of the woods onto the eastern downs: a barricade of felled oaks across the road and a ditch, sixty crown men and Crale's knights with hounds, a fire. Beyond, the march: grey downs, dead, to the Ysse. **Day 38 she takes the barricade down**: her knights' greyharts and the post's own ox-team drag the trunks off the road; Crale: "That's against the council's order." "Yes. Write it down." She writes her own name in his report, under the line that says so. The crown men help in the end.
 - **Day 42 the council's rider**: Thale's letter, in his own careful hand: since she has opened the road, she will keep it: **Ilse Rowan, Marshal of the Border**, with every crown man east of the Greenwold under her; Crale asked to be relieved; no lord would go. Grain: none. The outlawry: "pending" (Thale's word, Book 2 ch. 46). Under the crown's seal in blue wax. She believes the seal; she has always believed a seal. (Plant: her faith in a sworn word.)
-- **Echo, day 45**: her outriders and a falcon in from the east: the outcast knight is two days off, on the downs above the Ysse valley, with ten thousand people and their herds, coming west at a herd's pace; a lion at the head.
+- **Echo, day 45**: her outriders and a falcon in from the east: the outcast knight is two days off, on the downs a dozen leagues east of the post, with ten thousand people and their herds, coming west at a herd's pace; a lion at the head.
 Magic touches: bond gifts on dead ground (hounds tracking, falcons calling); dead lamps; no word works in the city.
 notes -->
 
@@ -426,7 +426,7 @@ She was at the fire.
 
 He didn't get down.
 
-"Two days off, Marshal," he said. "On the downs above the Ysse valley. Coming west on the road. Slow. Herd's pace." He wiped his face. "I counted them from a hill for an hour and gave up. Ten thousand. More. And the herds. Stonehorns as far as I could see. Horses. Wolves running the flanks."
+"Two days off, Marshal," he said. "On the downs. A dozen leagues out. Coming west on the road. Slow. Herd's pace." He wiped his face. "I counted them from a hill for an hour and gave up. Ten thousand. More. And the herds. Stonehorns as far as I could see. Horses. Wolves running the flanks."
 
 "And at the head?"
 

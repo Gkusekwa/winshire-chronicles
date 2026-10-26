@@ -374,7 +374,7 @@ He heard it as he got up onto Kharrak's back.
 
 Two of Rowan's knights, at the edge of the square, by the brazier. Talking low. Young, both. Thin. One with his arm in a sling.
 
-"...a ring of iron round it," one was saying. "A league across. Canals. And it's sitting in the middle of it. The beast."
+"...a ring of iron round it," one was saying. "A league across. Canals. Round the Scald. And the beast's coming to it, he says. Their needles were all climbing when he went past."
 
 "Who says?"
 

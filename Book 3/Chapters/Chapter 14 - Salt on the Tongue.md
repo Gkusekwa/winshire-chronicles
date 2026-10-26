@@ -272,7 +272,7 @@ Kit looked at him. The first time she'd looked at him properly. The thin grey ol
 
 "And if somebody breaks it?" said Maren.
 
-"Then I don't know what happens to them," said Kit. "And I don't take them home." She put her hands flat on the table too. "And the road stays secret. The Merrins' road. Whatever you see. That's the rest of the third thing."
+"Then they stay there," said Kit. "I don't take them home." She put her hands flat on the table too. "And the road stays secret. The Merrins' road. Whatever you see. That's the rest of the third thing."
 
 ---
 

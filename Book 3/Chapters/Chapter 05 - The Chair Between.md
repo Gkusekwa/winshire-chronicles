@@ -92,7 +92,7 @@ Of course he did. Arn's steward. Long and sour and ink to the elbow, limping sin
 
 Arn looked at the page.
 
-At the name in Gorm's cramped hand. *Imra Sallow. The green, from the spring pens. Bonded in her fifteenth year.* The Clan's best scout. Dead at the mill, in the autumn his father died, beside Sigrun and Dag, the three of them breaking the old law to fight kin. He'd been on the other bank of that fight.
+At the name in Gorm's cramped hand. *Imra Sallow. The green, from the spring pens. Bonded in her fifteenth year.* The Clan's best scout. Dead at the mill, in the autumn his father died, beside Sigrun and Dag, the three of them breaking the old law to fight kin.
 
 He shut the book.
 

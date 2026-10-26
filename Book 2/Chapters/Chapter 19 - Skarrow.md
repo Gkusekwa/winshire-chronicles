@@ -167,7 +167,7 @@ He read the last page. Then he turned the book over and opened the back cover an
 
 Then he closed the book, and put both hands flat on the cover, and sat there with the grey light coming in through the smoke-hole and the lamps burned out.
 
-"Crane," he said.
+"Sedge," he said.
 
 "Delling's. Out of Wendmouth."
 
@@ -505,7 +505,7 @@ It was the first thing she'd said to him since the mill page. Twenty-three days.
 
 "Yes."
 
-*The hedge man. Crane. Is he home now? In Wendmouth?*
+*The hedge man. Sedge. Is he home now? In Wendmouth?*
 
 Calder didn't answer at once.
 

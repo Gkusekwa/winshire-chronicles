@@ -16,7 +16,7 @@ Draft notes: Day 34, evening, to day 55, night. Decided here (proposals):
 - Day 44: Calder sends Lisska east to the lion-woman (flight 1) with his news: the book bought, the road it cost, the family safe. She asks to go. He tells her not to be gone long.
 - Days 44–53: Calder between the caves and the setters' ledge. Ulric is told there's a book; no answer from Skarrow yet. Wren starts reading with Ada too, faster than Calder can follow.
 - Day 54 (flight 1 home; the echo): Lisska comes in at dusk, exhausted, with the hide bag on its green cord under her jaw, and the knot still tied. Her news: knights with a great chain crossing the grass toward the forest; the clans at the stones; and the lion-woman in between, by the lion, with the clans behind her and the knights coming. (She left on d.48, three days before the knights reached the Stones; she saw them on the grass from the air, and puts it together the way Lisska does.) The moss: Calder wets it in the setters' spring, packs it into the horn-wound under Aurveth's foreleg, and leaves it, and doesn't look. That night the heat in the wound goes down for the first time.
-- Day 55, night, the caves: Ada finds the mill page. "The hedge at the bottom of the Fenn field, one bolt, the Sallow rider. Crane, Delling's, out of Wendmouth: forty, before the company's hire." Lisska, who has been chattering all evening about the Plains and the moss, goes silent. Calder understands that Ned Crane was one of Delling's company, and walked home over the moor on day 35 or 36 under the road he gave. Lisska says nothing at all for the rest of the night. She doesn't joke again for a long time.
+- Day 55, night, the caves: Ada finds the mill page. "The hedge at the bottom of the Fenn field, one bolt, the Sallow rider. Sedge, Delling's, out of Wendmouth: forty, before the company's hire." Lisska, who has been chattering all evening about the Plains and the moss, goes silent. Calder understands that Ned Sedge was one of Delling's company, and walked home over the moor on day 35 or 36 under the road he gave. Lisska says nothing at all for the rest of the night. She doesn't joke again for a long time.
 - Calder asks Ada to teach him his letters. All of them. "I'll not have it read to me again. Not that page. I'll read it myself." She starts him that night, on the cave floor, with a burnt stick: the letters of his own name first.
 Magic touches: Keepers' wound-moss and its knot, doing on Clan ground what it does slowly on poor ground; Ada's hearth-fire in the cave mouth; the warm cave floor drying the ledger's pages; the setting-song still going in the bone.
 notes -->
@@ -349,7 +349,7 @@ Ada read the first four. Payments to the coast. A ship. A name he didn't know.
 
 Then she read the fifth, and stopped, and read it again without being asked.
 
-*The hedge at the bottom of the Fenn field, one bolt, the Sallow rider. Crane, Delling's, out of Wendmouth. Forty, before the company's hire.*
+*The hedge at the bottom of the Fenn field, one bolt, the Sallow rider. Sedge, Delling's, out of Wendmouth. Forty, before the company's hire.*
 
 ---
 
@@ -369,15 +369,15 @@ He felt her stop. Through the bond. All of her, at once, the chatter and the bri
 
 "Yes."
 
-*Crane.* She said it slowly, the name, as if she were learning it. *Crane. Delling's. Out of Wendmouth.* A pause. *Forty silver.*
+*Sedge.* She said it slowly, the name, as if she were learning it. *Sedge. Delling's. Out of Wendmouth.* A pause. *Forty silver.*
 
 Nobody else at the fire could hear her. Ada was looking at the page. Wren was looking at her father's face. Bel had her arms round Nan. Only Calder heard the green dragon say the name of the man who'd put the bolt into the woman she'd shared one life with for years, in the dark, in a hedge, in his own barley field.
 
 And then he understood the rest.
 
-He understood it all at once, coldly, sitting on the warm floor of the cave with the fire in front of him. Crane, Delling's. Out of Wendmouth. Before the company's hire: one of Delling's own, an old hand. Two hundred of Delling's company had walked over the moor on the thirty-fifth, the thirty-sixth, the thirty-seventh day, on the old peat road, home to Wendmouth. In the Clan's name. Under the road he gave.
+He understood it all at once, coldly, sitting on the warm floor of the cave with the fire in front of him. Sedge, Delling's. Out of Wendmouth. Before the company's hire: one of Delling's own, an old hand. Two hundred of Delling's company had walked over the moor on the thirty-fifth, the thirty-sixth, the thirty-seventh day, on the old peat road, home to Wendmouth. In the Clan's name. Under the road he gave.
 
-Crane had walked home under his road.
+Sedge had walked home under his road.
 
 He might have been in the second party. He might have been one of the seventy men on the peat road who'd stopped and looked up at the red dragon on the crag, with their faces white. He might have been the heavy man at the front who'd put up his hand, palm out. *I see you.*
 

@@ -6,7 +6,7 @@ Part: Part Three: The Long Autumn
 Beats: Lisska remembers the carved verse at the Old Ruin. If anything answers "why me?", it's the old realm. Calder decides to go there, as soon as the river lets him.
 Echo of the other's story: Lisska says the knight-student and the beast are at the ruin most days now.
 Status: first draft
-Carried forward: From Chapter 38: Calder at his sister Bel and Joss's farm at Upper Rush with Ada, Wren, and Bel's children Pip and Nan; the price on his head; the soft-spoken man asking at Ada's door. From Chapter 39: on the night Ide Darrow died, three dragons were seen high over the river going north. From Chapter 28: Aurveth's memory of the white bridge and the grey cat on the tower steps. From Chapter 22: Ada's seventh verse, sworn on the hearthstone, "not till I'm sure". From Chapter 13: the verse under the tower arch.
+Carried forward: From Chapter 38: Calder at his sister Bel and Joss's farm at Upper Rush with Ada, Wren, and Bel's children Pip and Nan; the price on his head; the soft-spoken man asking at Ada's door. From Chapter 39: on the night Ide Darrow died, three dragons were seen high over the river going north. From Chapter 28: Aurveth's memory of the white bridge and the grey cat on the tower steps. From Chapter 22: Ada's third verse, sworn on the hearthstone, "not till I'm sure". From Chapter 13: the verse under the tower arch.
 Draft notes: Days 65–72. Decided here (proposals):
 - Why the dragons were over the river going north at dusk on day 65: Calder sent them to find a winter lie-up in the high Scarfell. Lisska begged to go over the island on the way, "just to see". Aurveth let her, high, once. They went north from there to the old hatching caves above Coldtarn, which the Clan hasn't used in a hundred years, and come back on day 68. Lisska shows Calder her memory that night.
 - Lisska's memory: nine years ago, when she was barely fledged, Imra took her down onto the island one summer night on a dare, which is against every rule of the Clan and the river. Lisska landed in the fort, saw the arch, and saw letters she couldn't read. She remembers every stroke.
@@ -194,7 +194,7 @@ Bel was looking at her mother. Pip and Nan were looking at their grandmother. Wr
 
 Ada put her cup down. Her hands were shaking.
 
-"Is it the verse?" said Calder. "Your grandmother's. The seventh. The one you swore on the hearthstone."
+"Is it the verse?" said Calder. "Your grandmother's. The third verse. The one you swore on the hearthstone."
 
 "Not yet," said Ada.
 

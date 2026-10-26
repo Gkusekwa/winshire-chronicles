@@ -5,8 +5,377 @@ POV: Calder
 Part: Part Five: Thaw
 Beats: Lisska perches on the crag above the farm and tells Calder what she sees across the river, and Wren makes him repeat every word. Calder realises his daughter is safer anywhere he isn't.
 Echo of the other's story: Lisska reports the knight-student touching the beast's mane.
-Status: not started
+Status: first draft
+Carried forward: From Chapter 54: Calder living on Crow Scar, coming down to Upper Rush by night; Lisska's crag above Bel's farm; Wren at the paddock gate with Old Grey; "Is the lion-woman in trouble too?" "Then somebody should tell her." From Chapter 55 (Maren's side): the river goes out on night 119; Maren stranded on the island; the touch; the collar struck off at dawn on day 120. From Chapter 24: Lisska's far sight; she saw the woman at the stream in the summer.
+Draft notes: Night one hundred and nineteen to day one hundred and twenty-two. Decided here (proposals):
+- Lisska's eyes: she can see a sparrow on a roof at a league, a face at two. From the crag above Upper Rush the island is two leagues and more off, across the river. She can see the arch, and the lantern in it. She can't see faces from there in the dark, but she can see shapes.
+- Night 119: Calder is at Upper Rush when the river goes out. The noise wakes the whole house. Wren won't go back to bed. He takes her up the crag path to where Lisska sits, wrapped in his coat. Lisska tells him what she sees and Wren makes him say every word aloud, and then say it again.
+- What Lisska sees: the ice going, a man on the reeds (Ottery) who gets off it in time; a lantern in the arch of the tower on the island; the woman sitting in it; the lion lying down in front of her, ten paces, then five, then with its head on the step. "She's put her hand on it. On its mane. On its neck. It's letting her." Wren: "Say it again."
+- Near midnight Lisska also sees, on the forest path from the east, four men with a hooded lantern, coming down toward Upper Rush the way Calder comes every night. They've been watching his path. Kharrak goes and they run. One drops a coil of rope and a sack. Calder knows what the sack is for.
+- Dawn, day 120: Lisska sees the woman kneel with iron in front of the lion, and the lion put its head down, and the collar come off. Wren is asleep against Calder by then and doesn't hear it. Calder tells her at breakfast, every word, and she makes him say it twice.
+- Calder understands it then, on the crag at dawn with Wren asleep against him: they came down his path. If he weren't there, they'd have no path. He tells Ada that day: when the ferry runs, Wren goes over. Ada says yes. Bel won't decide.
+- Day 121: Old Grey turns his head toward Wren's voice at the paddock gate. Only that. Wren tells everyone.
+- Day 122: Calder goes up to Crow Scar and doesn't come down. He sends Lisska each night to sit on the crag over the house instead. Wren asks Lisska to tell him what the lion-woman is doing. Lisska does.
 notes -->
 
 ---
 
+The river woke them all.
+
+It was the hundred-and-nineteenth night. Calder had come down from the Scar after dark, the way he did, by the forest path, to sit an hour by Bel's fire and see Wren into the loft. He was still there when it came. Ada was in her chair. Bel was at the table with Joss's harness, mending it, which she did every night now though nobody would ever use it. The children were asleep.
+
+The cups on the dresser began to chime.
+
+Then the floor moved, and the sound came up the valley from the river, a league off, and filled the house. A long roaring tearing grinding rush, coming from the north, getting louder, coming down past them, going on.
+
+Up in the loft, Nan screamed. Pip started crying. Wren's face came over the edge of the loft, white, with her hair everywhere.
+
+"It's the river," said Ada. She hadn't moved from her chair. "It's only the river going out. Lie down."
+
+Wren didn't lie down.
+
+---
+
+*It's all going,* said Lisska, from the crag. He felt her through the green mark, sitting up there in the dark above the house, high, with the wind in her face. Excited. Frightened. *The whole river. All the ice. All at once. It's breaking in pieces and the pieces are standing up on their ends and falling over. Calder. Calder, there's one as big as the Wheel.*
+
+He went out into the yard. He could hear it. He couldn't see it; the river was below the line of the hill, a league off. But he could hear it, and feel it in the ground, the way he'd felt the roar.
+
+Wren came out after him in her nightgown, with her boots on the wrong feet and Bel's shawl round her.
+
+"I want to see."
+
+"You can't see it from here."
+
+"Lisska can." She looked up at the crag, a black shape against the cloud, where she knew the dragon was. "Lisska can see it. I want her to tell me."
+
+He looked at his daughter in the dark, in the cold, with her boots on the wrong feet.
+
+He went back into the house and got his coat and came out and wrapped her in it, over the shawl, and picked her up, and carried her up the crag path.
+
+---
+
+It was a short climb. Bel's farm sat in the hollow under it, and the crag came up behind the top paddock, a knuckle of grey rock with a path up it the Hollins' sheep had made. Lisska was lying on the top, along the ridge of the rock, with her head out over the edge, facing south and west toward the river. She lifted her head when they came up and put it down beside Wren, and Wren put her arms round as much of it as she could reach.
+
+They sat on the rock in the wind against Lisska's warm green side, with the coat round them both, and Lisska told him what she saw.
+
+And Wren made him say it.
+
+All of it. Every word. Lisska would say it to him, inside, through the mark, and Wren would say, "What? What's she saying?" and he'd say it aloud. Then Wren would say, "Say it again," and he'd say it again. She'd ask a question, and he'd ask Lisska, and Lisska would answer, and he'd say that too.
+
+He'd never done it before. Spoken for one of them. Out loud, to somebody else, their words in his mouth. It felt strange. Like reading somebody else's letter to a room.
+
+*The ice is all gone past the Eelweir,* said Lisska.
+
+"The ice is all gone past the Eelweir," he said.
+
+"Say it again."
+
+"The ice is all gone past the Eelweir."
+
+"Is Fisk all right?"
+
+*Fisk's house is all right. It's up on the bank. There's a light in it. He's standing in the door with a lantern looking at the river.*
+
+"Fisk's standing in his door with a lantern looking at the river."
+
+"Is he cross?"
+
+*He's always cross.*
+
+"She says he's always cross."
+
+Wren laughed. Into the coat. He felt it go through her.
+
+---
+
+*There's a man,* said Lisska, after a while. Her voice had changed. *On the other side. On the reeds. By the island. He's got a lantern and a long pole. He was on the ice and he's run back onto the reeds just in time. He's shouting.*
+
+He said it aloud.
+
+"Who is he?" said Wren.
+
+*I don't know. An old man. In a hat.*
+
+"Is he all right?"
+
+*He's all right. He's on the reeds. He's shouting at the island.* A pause. *He's shouting at somebody on the island.*
+
+Calder went still.
+
+*There's a light on the island,* said Lisska. *By the tower. In the arch. A lantern. Somebody's sitting in the arch of the tower with a lantern.*
+
+He didn't say it aloud.
+
+"What?" said Wren. "What's she saying? Papa, what?"
+
+He said it.
+
+*It's her,* said Lisska. Very quietly now. *I think it's her. The one. The woman by the water, from the summer. I can't see her face, it's too dark and too far. But it's her. I know the shape of her. She's sitting in the arch in a cloak. On her own. The river's gone out on both sides and she can't get off.*
+
+He said it. Wren had gone very still against him.
+
+"The lion-woman," she said.
+
+"Yes."
+
+"She's stuck."
+
+"Yes."
+
+"Is the lion there?"
+
+He asked. Lisska was quiet.
+
+*Yes,* she said.
+
+---
+
+They sat on the crag for hours.
+
+He should have taken her down. He knew it. It was cold, and late, and Bel would be at the door. He didn't. He sat on the rock with his daughter in his coat and his back against Lisska's side and said everything Lisska saw, out loud, into the wind, while the river went out a league below them in the dark.
+
+*It's come out of the trees. The lion. It's very big. Bigger than the camp's hounds all together. It's grey. It's standing in front of the tower in the rain, looking at her.*
+
+*It's lain down. Ten paces from her. In the mud. With its head on its paws.*
+
+*She's not moving.*
+
+*It's not moving.*
+
+*She's asleep, I think. Her head's gone down.*
+
+*It's closer. It's moved closer. I didn't see it move. It's five paces off now. Lying across the front of the arch. I can see its breath.*
+
+He said all of it. Wren made him say each one twice. Then she made him say them all again, from the beginning, in order, the way she made him tell stories, and he did. *It's come out of the trees. It's lain down. She's asleep. It's closer.*
+
+"Why?" said Wren. "Why's it closer?"
+
+"I don't know."
+
+"Ask Lisska."
+
+He asked.
+
+*I don't know either,* said Lisska. *I think it's cold. I think she's cold, and it's cold, and it's raining.* She was quiet. *I think it's keeping her company.*
+
+He said it. Wren was quiet a while.
+
+"Like Old Grey," she said. "At the gate. With me."
+
+---
+
+Near midnight Lisska said: *Calder. Behind you.*
+
+He turned his head.
+
+Not at the river. East. Up the hill behind the crag, where the forest came down to the top of the Hollins' fields. The path he came down every night from the Scar. The forest path, through the oaks, a long dark line through the trees, coming out at the top of Bel's paddock.
+
+*Four men,* said Lisska. Her voice had gone thin and quick. *On your path. Coming down it. Slow. Quiet. They've got a lantern with a hood on it. They're coming the way you come.*
+
+He was on his feet with Wren in his arms.
+
+*Kharrak,* he said.
+
+He didn't have to say anything else. He felt the red tide come up, two leagues off, on the Scar, and the great wings open.
+
+"Papa?" said Wren.
+
+"It's all right."
+
+"What is it?"
+
+"Nothing. Lisska saw a fox." He held her very tight. *Don't burn,* he said to Kharrak. *Don't burn. Not by the house. Just frighten them. Just make them run.*
+
+*They're on your path,* said Kharrak. *They're on your path to your girl.*
+
+*I know. Make them run.*
+
+He stood on the crag in the dark and held his daughter and felt Kharrak come over the Scar and down the forest, low, fast, over the treetops, not burning. Just the sound of him. The wings. Lisska told him the rest as it happened: four men on the forest path stopping dead, looking up, dropping the lantern, running. Back up the path. Into the trees. Scattering.
+
+*They've gone,* said Lisska. *They've gone. They're running. One fell over.* A small pause. *He's dropped something. A rope. A coil of rope. And a bag.*
+
+*What kind of bag?*
+
+*A big one. A sack. Like for grain.*
+
+He stood on the crag with Wren in his arms, warm, heavy, half asleep, with her face against his neck.
+
+*A sack,* he thought. *Like for grain.*
+
+He knew what it was for. He knew what size it was. He knew who it was for. Not him. You don't bring a grain sack for a grown man. You bring it for something you can carry.
+
+*Two hundred. Alive.* A coin man at a farm gate. *What does the girl like?*
+
+He sat down on the rock again. He didn't trust his legs.
+
+---
+
+He didn't take her down. He couldn't. He sat with her on the crag in his coat with Lisska's head beside them, and Wren fell asleep against him toward morning, with her face in his neck and her fist in his shirt, and he didn't stir. He sat there with his daughter asleep in his arms and looked east at the forest path, at the dark line of it through the oaks, and the place at the top of the paddock where it came out. The place where he came out. Every night, for a fortnight.
+
+They'd watched him. They'd sat in the trees and watched him come down that path every night after dark to sit by his sister's fire and see his girl to bed. And they'd thought: that's the way. That's the way in. He'll lead us. Not to him: to her.
+
+He'd led them.
+
+He'd moved out of Bel's house so they'd come to the Scar instead. He'd thought that was enough. He'd thought, if I'm on the Scar, she's safe. But he'd come down every night to see her, because he couldn't not, and made a path through the forest to her door with his own feet, a path anybody could follow, with his own lantern at the end of it.
+
+Wherever he was, they came. And wherever he went, they followed. To Bel's. To the Scar. Down the forest path to the paddock gate. To her.
+
+She'd be safer anywhere he wasn't.
+
+He'd known it since the hillside. Since the eleven men in the snow. He'd known it and told Wren so at the paddock gate, *I want to be somewhere you're not*, and said it like a man saying something he'd decided. He hadn't decided anything. He'd moved two leagues into the forest and kept coming down.
+
+He sat with her on the crag in the cold and knew it all the way through, for the first time, the way you know a bone's broken. Not a league. Not the Scar. Further. A river's width. More. Wherever he was, the men with the sacks would come. So she had to be somewhere he couldn't be.
+
+Over the water.
+
+---
+
+*Calder,* said Lisska, at dawn. Very softly. *Calder, look. Look.*
+
+He'd been half asleep himself. He opened his eyes. The light was coming grey over the Saltreach hills behind them, and the rain had stopped, and the river below was a long brown flood with the ice going down it in broken pieces.
+
+*She's put her hand on it.*
+
+He was awake.
+
+*The woman. On the island. In the arch.* Lisska's voice was very small and very full. *She's put her hand on it. On the lion. On its mane. Up on its neck, at the shoulder. She put her hand out and it let her. It's letting her. It's lying there with its head on the step and her hand in its mane, and it's letting her.*
+
+He sat very still with Wren asleep against him.
+
+*I've never seen anything let anybody,* said Lisska. *Not like that. Not something that big.* A pause. *Is that how it was? With us? In the field? When you put your hands on us?*
+
+He didn't answer. He didn't know.
+
+*She's crying,* said Lisska. *I think. Her face is wet. But it's been raining. I don't know.*
+
+He looked out across the river, two leagues and more, at the island, small and dark between the floes. He couldn't see anything. Not the tower. Not the arch. Not a lantern. Only the bare oaks, and the brown water.
+
+*Tell me,* he said. *Everything. I'll tell her when she wakes.*
+
+Lisska told him.
+
+*She's taken her hand away. She's gone off into the trees. She's coming back. She's got something. Iron. In her hands. A hammer, I think, and something else.*
+
+*She's kneeling down. In front of it. In the mud. She's put the iron on the ground. She's put her hands on her knees.*
+
+*It's getting up.*
+
+*It's standing over her.*
+
+He held Wren, and listened.
+
+*It's put its head down. All the way down. On the ground. Beside her. Like a horse when you go to halter it. Its neck. She's picked up the iron.*
+
+*She's hitting it. The collar. The iron one, round its neck. She's…*
+
+He couldn't hear it. Lisska could, across two leagues of river in the still morning air after the rain, and she gave it to him the way Wren would have wanted it. *Iron on iron. Tink.* A breath. *Tink.* *And again. Harder.*
+
+*It's off,* said Lisska. *It's off. The collar's off. It's fallen off. In two halves.*
+
+*It's standing up. It's shaking. Like a dog. Calder, the ground's shaking, I can see the trees on the island shaking from here…*
+
+*It's gone down to the water. It's drinking.*
+
+*She's sitting in the mud. She's holding the collar.*
+
+Lisska stopped. He felt her lying on the crag beside him with her head out over the edge, looking across the river at the island in the dawn, not saying anything, her whole long green body very still.
+
+*Calder,* she said at last. *Somebody should tell her.*
+
+It was a while before he answered.
+
+"Yes," he said.
+
+---
+
+He told Wren at breakfast.
+
+He came down off the crag with her asleep in his arms and put her in Bel's bed, and she slept till nearly noon, and when she woke she came down the ladder at a run and said, "What happened? What happened? Did the lion-woman get off?" before her feet were on the floor.
+
+So he told her. At Bel's table, with porridge going cold in front of her, and Ada in her chair, and Bel at the window. All of it. The hand on the mane. The iron. The lion putting its head down. The collar. Every word Lisska had said.
+
+Wren made him say it twice.
+
+She sat with her spoon in her hand and didn't eat, and her face was the way it had been on the ladder the night of the verse. The most beautiful one.
+
+"She took its collar off," she said.
+
+"Yes."
+
+"And it let her."
+
+"Yes."
+
+Wren put her spoon down.
+
+"I want to meet her," she said.
+
+Ada laughed. Not unkindly. A short soft sound, by the fire. Bel didn't. Bel was looking out of the window at the paddock, where Old Grey stood with his head low by the gate.
+
+---
+
+He told Ada that afternoon, in the byre, where Wren couldn't hear.
+
+He told her about the four men on the forest path. The rope. The sack. Ada listened with her hands folded and her face not moving, the way she'd listened to everything since the night of the verse.
+
+"When the ferry runs," he said. "When the river's clear enough for Liss Ashdown to bring it over. Wren goes. Over the water. To the Hearthmere side." He made himself say the next part. "And you go with her."
+
+Ada looked at him.
+
+"Yes," she said.
+
+He'd thought she'd argue. He'd had it ready, everything he'd say. She didn't argue. She stood in the byre with her shawl round her and looked at him, and he saw she'd been ready for this a long time too.
+
+"And Bel," he said.
+
+"Bel won't go," said Ada. "Not with Joss on the hill. Not with the greys." She looked through the byre door at the paddock. "You ask her. She'll not say yes. She'll not say no either. Give her time."
+
+"There isn't time."
+
+"No," said Ada. "There never is. Give her it anyway."
+
+---
+
+On the hundred-and-twenty-first day Old Grey turned his head.
+
+Wren told everyone. She came running up the lane from the paddock with her face lit up, shouting it, before anybody had asked. She'd been at the gate, on the bottom bar, talking to him the way she did, about nothing, about the river and Lisska and the lion-woman and the collar. And in the middle of it, when she said his name, he'd turned his head.
+
+Not much. A little. Toward her voice. His great grey head, that hadn't turned toward anything since the night of the Ewe Beck, turning a hand's breadth on its neck toward the sound of her saying *Old Grey*, and stopping.
+
+His eyes were still empty. Calder went down and looked. There was still nobody in them.
+
+But he'd turned his head.
+
+Bel came down too. She stood at the gate beside Wren and looked at the grey. Then she put her hand on Wren's head, on her hair, and left it there.
+
+---
+
+On the hundred-and-twenty-second day he went up to the Scar, and didn't come down.
+
+He said goodbye to her at the paddock gate at dusk. He didn't say it was goodbye. He said he'd be on the Scar, and that she'd see Lisska on the crag every night, and that Lisska would tell him everything and he'd tell Lisska everything back.
+
+"Every night?" said Wren.
+
+"Every night."
+
+"And she'll tell me about the lion-woman?"
+
+He looked up at the crag. *Will you?*
+
+*Yes,* said Lisska. *Every night. Everything I see.* A pause. *She'll make me say it twice.*
+
+"Yes," he said to Wren. "Everything. Twice."
+
+Wren nodded. She was standing on the bottom bar of the gate with Old Grey's head over it beside her. She didn't cry. She hadn't cried at Joss's burying either, Bel said. She'd stood on the hill with her mouth shut tight, the way she was standing now.
+
+"Papa," she said.
+
+"Yes?"
+
+"When you tell her. The lion-woman. That somebody wants her too." She looked at him. "Tell her I said hello."
+
+He went up the forest path in the dark. Not his path. A new one, round the far side of the Hollins' wood, through the snow, a way nobody had walked. He'd find a new one every time, if he came down at all. He didn't think he would.
+
+On the crag above the farm, behind him, he felt Lisska settle on the rock with her head out over the edge, facing south and west across the river, toward the island.
+
+And below her, in the dark of the hollow, a small square of candlelight in Bel's house, and a face in it, looking up at her.

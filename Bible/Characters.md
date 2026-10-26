@@ -223,3 +223,46 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 | **Vasey, Callis, Wynn** (Wynn's hound is Ash) | Knights of the gate. |
 | **Fenna, Brannoch** | River watch. |
 | **Warden Osric Hale** | Past sixty, tall, stooped, short white beard, bad hip, ash stick. Wears a ring of keys with one long black key. Keeps the archive. Unbonded. |
+
+
+## Added while drafting Chapters 41–79
+
+| Name | Who | Notes |
+|---|---|---|
+| **The Haddows** | A Marches family (a man, a woman, a boy of about eight, a baby) | Try to walk to Hearthmere across the new ice on day 79. Maren saves the woman and boy; the man goes through. (41) |
+| **Hallam Brecc** and **Morrow** | The oldest bonded pair on the Roosts ledges; Morrow is an old black dragon greying at the scales | Knew Sigrun sixty years. Stands behind Calder at Varrhold (48); carries the ford truce; killed by a bolt at the ford (60); Morrow lies down beside him. |
+| **Davin** | The Kettle's potboy, sixteen | Reads the paper aloud on the Millbrook jetty; arrested day 93; held under Greyhold's gatehouse; sent to Hallowmere for trial (51). "Did you ask?" |
+| **Captain Marta Thorne** | Captain at Greyhold, rider of the black boar | Watch (inner circle) (51). Draws Rowan's trap (59). Lifted her hand to Calder the morning after the burning: "the only right thing I did that whole night." |
+| **Coll Brask** | A sellsword of Delling's company, out of Wendmouth | No ring; paid ten silver a man. Taken alive at Upper Rush (54); tells Calder the price on him and on "the knight with the lion"; let go at dawn. |
+| **The camp man** | A young Restoration man with a soft beard | Brings Joss home: "The one realm grieves with you. Our door's open." At the Ewe Beck fire: "Enemy!" (50, 52) |
+| **Old Grey** | Joss's dray-beast | Bound at the Ewe Beck camp; driven to kill Joss (50). Brought home empty when his handler runs (52). Turns his head to Wren's voice (56). |
+
+**Changes and additions to existing characters:**
+- **Joss** is killed on night 99 under Old Grey's forefoot (50); buried on the hill above Upper Rush on day 101.
+- **Bel** blames Calder, hears everything, finds Odo's mark by scrubbing the chains with ash, and tells him to bring Old Grey home. She won't yet decide to cross the river.
+- **Hale** (Osric) went down below at twenty-three, forty years ago. Confesses to Maren (49) and takes her to the door (51). "Don't you ever put your hand on that door again."
+- **Rowan** (Ilse) knows the secret as Captain, not as Watch; orders Maren to bait the trap (59); confines her.
+- **Tobin** has gone over; ring on his finger, thinner and happy (57). "When they throw you out, come and find us."
+- **Tam** stands on the hedge-wain with a torch beside Odo (57).
+- **Odo Marl's** smithy is chained shut by the crown; his mark is two crossed hammers.
+- **Rook** is the paymaster at the Ram's Head, with ledger and chest (58).
+- **Ulric**: Rook was his drover, taken on by Raske after the funeral, gone before light the morning of the ford (60). **Sten Raske** is killed at the ford.
+- **Wren** makes everyone say Lisska's words twice; wants to meet the lion-woman; "Tell her I said hello." (56)
+
+**Added in 61–79:**
+| Name | Who | Notes |
+|---|---|---|
+| **Gunna Tarne** and **Tamsin** | An old rider of the ledges and her grey-green dragon | Reads Calder's account (written by Ada) aloud in Varrhold's and Skarrow's yards (62). |
+| **Orrun** | The lion's name, known to Maren when the bond forms (73) | |
+
+- **Callis**: seal-carrier; passed over for the inner circle; Maren breaks his arm (63) and his other wrist (77); alive.
+- **Thorne**: dies at the river gate with her boar (75).
+- **Haverly**: holds the north tower stair; Kesh shot; dies in Maren's arms (75).
+- **Pell**: dies holding the gate (69). "Subdue. Don't kill. Unless you have to."
+- **Hale**: dies at the black door; gives Maren the key (75).
+- **Rowan**: turns back from Redwatch with half the orders, too late (69); doesn't let Maren in.
+- **Tobin**: holds the Millbrook barricade; lets Maren through; tells her Callis has the seal (71).
+- **Tam** and **Odo**: Maren pulls them out of the burning forge (71). Odo throws his crossed-hammer punch and the six-punch into the river.
+- **Ada** can read and write (Varrhold's dues-school); writes Calder's account (62).
+- **Wren** meets Maren at Greyhold's gate (69): "You're her."
+- **Maren and Calder** meet in the cavern after midnight (78).

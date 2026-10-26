@@ -168,9 +168,9 @@
 - **Northwatch** (tower). A patrol tower on the River Road, manned by the river watch. Signal fires on the roof. Maren served here.
 - **Varrhold** (hold). *(name proposed)* The Dragon Clan's hold, ten leagues north-east of Harrow's End in the Scarfell. A ring of black-stone longhouses inside a turf rampart, the chief's hall roofed with dragon-scale shingles shed over generations, and above it the Roosts: dragon eyries cut into the cliff, scorched black at the mouths. Two days by grain cart from Harrow's End, one on horseback; under a quarter of an hour by dragon.
 - **Hollow Beck** (landmark). The stream that runs down from Coldtarn in the Scarfell, past Varrhold and Harrow's End, into the Wend opposite the Old Ruin.
-- **Redwatch** (tower). The watch tower nearest the Old Ruin, red sandstone, half a league from the bank. The river watch's patrol boats are kept in its boathouse.
 - **Upper Rush** (village). *(Chapters 1 and 2)* A hamlet of four farms in a hollow above the Saltreach bank, two leagues upriver of Harrow's End. Its barns are the fires Maren sees from the river wall in Chapter 1: raided at night for beasts, then burned. Harrow's End blames the Clan's quarrel.
 - **Fenn farm** (farm). *(Calder's home)* Calder's farm on the slope above Harrow's End: a stone longhouse with the byre under one roof, a barn, a kitchen garden, two fields of barley and one of flax, and the beck pasture below. The Fellwood begins a mile above the top field. The Clan's battle in Chapter 18 spills across these fields.
+- **Redwatch** (tower). The watch tower nearest the Old Ruin, red sandstone, half a league from the bank. The river watch's patrol boats are kept in its boathouse.
 - **Harrow's End** (village). *(name proposed)* Calder's village on the Saltreach bank: thirty-odd houses of river stone and tarred timber with turf roofs, a mill on Hollow Beck, a shrine to the gods at the crossroads, and barley and flax fields running down to the water. It sits near the mouth of Hollow Beck, a league and a half across the water from the Old Ruin, which you can see from every field. Its fishing landing is the Eelweir. The Drover's Way passes through on its way to Varrhold.
 - **The Old Ruin** (ruin). *(established (island in the border river))* Broken arches and a squat round tower on a wooded island where the Wend splits, about three leagues upriver of Greyhold. It was a bridge-fort on the Oneroad, the old realm's highway, and the stumps of the bridge piers still break the water at low summer. A verse about Winshire is carved under the tower arch. River folk on both banks leave it alone.
 - **Greyhold** (fortress). *(Chapter 1)* The knight school on the Hearthmere bank, where the Wend bends. A quarry, then a fort, then a school: curtain walls of grey ragstone, a sanded yard over the old quarry floor, stables, a chapel, an armoury, and the river wall broad enough to walk two abreast. The charter over the gate says the bonded and the unbonded serve as equals. The cellars are locked and always have been.
@@ -200,41 +200,48 @@
 - **Chapter 14, The Younger Son:** Where Teo Varr fell; Burned shieling at the ford.
 - **Chapter 15, Signs:** Hunters' camp.
 - **Chapter 16, The Ford:** Skarrow.
-- **Chapter 18, Three Deaths:** Where three warriors fell; Mill burned.
+- **Chapter 18, The Mill:** Where three warriors fell; Mill burned.
 - **Chapter 19, The Roar:** The lion.
 - **Chapter 21, Wounded:** Where the lion was chained.
 - **Chapter 24, Hunted:** Calder's flight; Dragon hunters; Crow Scar.
 - **Chapter 28, Aurveth:** Low Garth, burned.
 - **Chapter 29, Without Words:** The lion's ground.
-- **Chapter 30, The Village Burns:** Harrow's End burns; Knights on the far bank.
+- **Chapter 30, Harrow's End:** Harrow's End burns; Knights on the far bank.
 - **Chapter 32, Sellswords:** Holloway, burned.
-- **Chapter 33, The Leader:** Raid on Ferriby; Raid on Ferriby.
-- **Chapter 34, The Leader, Again:** to Wendmouth, 100 leagues.
+- **Chapter 33, Ferriby:** Raid on Ferriby; Raid on Ferriby.
+- **Chapter 34, The Tidesteps:** to Wendmouth, 100 leagues.
 - **Chapter 38, The Long Road North:** Restoration camps.
 - **Chapter 39, First Frost:** Skirmish at Redwatch landing.
 - **Chapter 40, The Verse:** Old hatching caves.
 - **Chapter 41, The Freeze:** Where the ice broke.
 - **Chapter 42, Crossing the River:** Calder's crossing.
-- **Chapter 45, The Accusation:** The Restoration's proclamation.
-- **Chapter 48, Two Sides of a War:** Ulric's camp; Arn's camp.
-- **Chapter 49, Confession:** The Catacombs.
-- **Chapter 50, Bel:** Restoration beast camp.
+- **Chapter 44, The General's Silence:** Where Aurveth listened.
+- **Chapter 45, The Paper:** The Restoration's proclamation; Frost fair riot.
+- **Chapter 47, Lamps:** Millbrook riot.
+- **Chapter 48, Two Sides of a War:** Ulric's camp; Arn's camp; Calder flies to the Varrs.
+- **Chapter 49, The Archive:** The Catacombs.
+- **Chapter 50, Bel:** Ewe Beck camp.
+- **Chapter 51, The Door:** The black door.
 - **Chapter 52, Kharrak:** Kharrak's fire.
-- **Chapter 54, The Gathering:** Restoration muster.
+- **Chapter 53, The Pit:** The lion's pit.
+- **Chapter 54, The Gathering:** The muster at the Ram's Head; Fight above Upper Rush; The road to the river.
+- **Chapter 55, Thaw:** The collar struck off.
+- **Chapter 57, Tobin:** Hedge-meeting.
 - **Chapter 59, Orders:** The orders' trap.
-- **Chapter 60, The Ford Again:** Ambush at the ford.
+- **Chapter 60, The Ford Again:** Ambush at the ford; Where Hallam Brecc fell; Knights' boats.
 - **Chapter 62, Before the Storm:** Harrow's End flees.
-- **Chapter 64, The Ferry:** Refugees cross.
-- **Chapter 68, Two Men:** The twins' camp.
-- **Chapter 69, War:** War; Where Pell fell.
-- **Chapter 70, The Second Lock:** The Ruin's lock; The school's lock; The Far-Seer's flight.
-- **Chapter 72, The Agent:** Where Rook died.
-- **Chapter 73, The Sacrifice:** Where the bond formed.
+- **Chapter 64, The Staithe:** Refugees cross.
+- **Chapter 67, Muster:** Hollin Knowe.
+- **Chapter 68, Under the Arch:** The twins' camp.
+- **Chapter 69, The Gate:** War at Redwatch; Where Pell fell.
+- **Chapter 70, The Rubbing:** The Ruin's lock; The school's lock; The Far-Seer's flight.
+- **Chapter 72, The Spit:** Where Rook died.
+- **Chapter 73, Hollin Knowe:** Where the bond formed.
 - **Chapter 74, Fire at the Ruin:** Fire at the Ruin.
-- **Chapter 75, Through the Cellars:** Where Haverly and Kesh fell.
-- **Chapter 77, The Lock Gives Way:** Where Cassian Vale fell.
+- **Chapter 75, The Stair:** Where Haverly and Kesh fell.
+- **Chapter 77, Midnight:** Where Cassian Vale fell.
 - **Chapter 78, Underground:** They meet.
-- **Chapter 79, The Last Titan:** Where the Last Titan rose; It flew east.
+- **Chapter 79, Keep the Watch:** Where the Last Titan rose; It flew north-east.
 
 ### The lived-in Marches
 
@@ -253,6 +260,8 @@
 - **Crow Scar** (from Chapter 24). Crow Scar: a black crag standing out of the Fellwood two leagues east of the Fenn farm, with a cave three-quarters up its face. Calder hides there with the three dragons (24-32).
 - **Skarrow** (from Chapter 16). Ulric's own steading on the east side of the Scarfell, where he takes most of the fighting men.
 - **Old hatching caves** (from Chapter 40). The Clan's old hatching caves above Coldtarn, unused for a hundred years. The dragons winter there.
+- **The lion's pit** (from Chapter 53). At the island's north end the lion has dug down all winter to a course of dressed grey stone running under the river toward Greyhold. It's trying to get down to its kin.
+- **Hollin Knowe** (from Chapter 67). A long rise at the Brackenwood's edge, two leagues west of the river, with the old watch's beacon-stones on top. Maren and the lion watch the muster from it.
 
 ## Author's eyes only: temples and the catacombs
 

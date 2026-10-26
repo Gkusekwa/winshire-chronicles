@@ -224,3 +224,9 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - What are elementals: beings, a new kind of magic, or both? How do people first encounter them?
 - Does the Age of Elementals get its own books or games?
 - Does the student's own character change as the lion grows into a Titan?
+
+**Beyond the sea** *(established by the author, during the Chapters 41–60 drafting)*: in Book 3 the protagonists go to find the other Titans in **the land beyond the sea**. *(Working proposals: this is where they seek the elder Titans and win two of them to their side; it may lie beyond the Western Deep, which Kessmoor's iron-hulled ships are built for, or beyond the Shattered Sea. Which sea, what the land is called, and whether people live there are open. The Book 1 rule still holds: no one in the six kingdoms knows other Titans exist, so the land beyond the sea is at most a sailors' rumour in Books 1–2.)*
+
+**The researcher** *(established by the author)*: from Book 2 the series adds a third POV, a magic researcher: **Idony Vael**, a man, a tide-reader of the College of Tides in Isvaren. He **survives to the end of the series**. See `Magic.md` §11.
+
+**The Deep** *(established by the author)*: all magic in Winshire is the breath of the sleeping Titans (the Deep); see `Magic.md`.

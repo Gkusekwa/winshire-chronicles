@@ -1,4 +1,4 @@
-# Chapter 30: The Village Burns
+# Chapter 30: Harrow's End
 
 <!-- notes
 POV: Calder

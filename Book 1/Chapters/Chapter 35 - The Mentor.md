@@ -191,7 +191,7 @@ Ottery was there with the punt. She hadn't sent for him. He was just there, at t
 
 "Your mother said you'd come," he said. "She said you had a face on you at supper." He handed her the pole. "She says to tell her when you're back."
 
-She poled them up. Three leagues and more, against the current, in the dark. Her ribs had mended enough. She didn't light a lamp. She didn't need one; she knew the river now, every bend of it, every snag, the way she knew the stalls in the Long Barn. At the island Ottery took the punt into the reeds at the mouth of the west channel and sat there with the boathook across his knees, and she went up the stream.
+She poled them across. Half a league of black water, in the dark. Her ribs had mended enough. She didn't light a lamp. She didn't need one; she knew the river now, every bend of it, every snag, the way she knew the stalls in the Long Barn. At the island Ottery took the punt into the reeds at the mouth of the west channel and sat there with the boathook across his knees, and she went up the stream.
 
 She didn't bring anything. Not the hammer, not the chisel, not kindling, not a cup. Nothing. She'd thought about it on the river and decided. Empty hands. Empty pockets. Nothing it could see and think about.
 

@@ -1,4 +1,4 @@
-# Chapter 25: Disgrace
+# Chapter 25: The Midden
 
 <!-- notes
 POV: Maren
@@ -221,7 +221,7 @@ Ottery had the punt at the boathouse steps. He didn't say anything either. He ju
 
 "I'm sitting in my own boat," said Ottery. "Where you take it's your business."
 
-She poled them up the river in the dusk, against the current, close under the Hearthmere bank. It wasn't far from Redwatch, but it took a long time with one arm. Ottery didn't offer to help. At the island she brought the punt in to the spit, where she'd landed the first time, a lifetime ago, eighteen days ago, and Ottery stayed in it with his pipe, and she went up the gravel and through the fort and down through the trees to the west shore, to the stream.
+She poled them out across the west channel in the dusk, close under the reeds. It wasn't far from Redwatch, but it took a long time with one arm. Ottery didn't offer to help. At the island she brought the punt in to the spit, where she'd landed the first time, a lifetime ago, eighteen days ago, and Ottery stayed in it with his pipe, and she went up the gravel and through the fort and down through the trees to the west shore, to the stream.
 
 The lion was there.
 

@@ -1,0 +1,292 @@
+# Chapter 63: The Net
+
+<!-- notes
+POV: Maren
+Part: Part Five: Thaw
+Beats: Maren breaks the knightly oath to protect the lion and is cast out of Greyhold.
+Echo of the other's story: Word arrives that the Restoration's leader is gathering forces at the Old Ruin.
+Status: first draft
+Carried forward: From Chapter 61: the trap is set for dusk on day 135; Callis with three hounds drives from the north end; forty knights in the west reeds; Kesh to mark; Thorne's boar at the south end; the small door on the midden side of the Long Barn left unbarred. From Chapter 59: three refusals; confined; the gate told to stop her. From Chapter 55: the collar, the scale, the hammer and chisel and Tobin's blue-corded sword in the chest under her cot. From Chapter 49: "and do not ask" won't come out of her mouth. From Chapter 9 (Pell's lesson): subdue, don't kill.
+Draft notes: Days one hundred and thirty-three to one hundred and thirty-six. Decided here (proposals):
+- Night 134: she goes out through the unbarred door and over the midden wall with Tobin's practice sword and the hammer and chisel in a sack. She walks the River Road three leagues upriver to Redwatch in the dark. Ottery is in the boathouse. He looks at her a long time and gives her the punt. "I never saw you." She's on the island before first light on day 135.
+- Day 135: she spends it with the lion at the pit. It lets her sit against its shoulder. She can't tell it anything. She can only be there.
+- Dusk, day 135: Callis's hounds come in at the north end, three of them, baying, with Callis and two knights on foot behind. The lion stands. Maren stands in front of it. The hounds won't come past her (she's mucked them out since the autumn; they know her smell). Callis orders them on. They won't. He lifts his crossbow at the lion.
+- The oath-breaking: she strikes Callis. With Tobin's blunt sword, across the forearm, the way Pell taught them (subdue, don't kill), and the bolt goes into the oaks. A student raising a weapon against a knight of the orders in the field is the oath broken, whatever else. Then she runs down to the east shore and the lion follows her, and at the water's edge she turns and points across the east channel, and it goes into the river. It doesn't understand her. It goes anyway. It swims the east channel and comes out on the Saltreach shore below Harrow's End and goes into the Fellwood.
+- Kesh marks it. Maren sees the falcon go over high above the lion, and hover, and then turn away west toward the reeds, toward Haverly, as if she'd lost it. She hadn't. Haverly lets it go. Maren doesn't know whether he did.
+- Thorne takes Maren in the east reeds. She doesn't fight.
+- Morning, day 136, the river gate: Rowan in front of the school. "Maren Ashdown raised her hand against a knight of the orders in the field. That is the oath broken. She is no longer of Greyhold." Her grey is taken. Grieve brings her chest out of the dormitory and puts it on the cobbles by the gate himself, without a word. Hale stands at the top of the archive stair. Haverly's in the front line with Kesh. The gate shuts behind her.
+- The echo: as she stands outside the gate with her chest, a rider comes in hard from Redwatch past her: boats coming down the Drover's Way on carts, the Restoration's banner at the Ram's Head, and Vale himself at the head of the column (Fisk's boy rowed over to tell Ottery). "They're gathering for the Old Ruin. Three days. Four at most." The gate opens for him and shuts again.
+- She sits on her chest outside the gate. Then she picks it up and walks down the River Road toward the ferry, toward Liss.
+notes -->
+
+---
+
+On the hundred-and-thirty-fourth night she went out through the small door on the midden side of the Long Barn.
+
+It was still unbarred. It had been unbarred three nights running. Grieve hadn't noticed, or Grieve had noticed and not said, and she didn't let herself think which. The beam lay on its hooks beside the door. She lifted the latch and the door swung outward onto the dark, onto the smell of the midden and the cold, and she went out with the sack over her shoulder and pulled it to behind her.
+
+In the sack: the hammer and the chisel, wrapped in the old shirt. A heel of bread. Tobin's practice sword, the old blunt one with the nicked guard and the blue cord on the grip, because it was the only sword she had and because it couldn't kill anybody.
+
+She went up the midden in the dark. The dung was soft with the thaw and her feet went into it to the ankle. At the top, where it banked against the wall, she reached up and got her hands on the coping stones and pulled herself over and dropped into the ditch on the far side.
+
+Nobody shouted. Nobody came.
+
+She lay in the wet ditch and listened until she was sure. Then she got up and walked.
+
+---
+
+It was three leagues to Redwatch by the River Road. She'd ridden it a hundred times on Turnip. She'd never walked it at night. The road ran along the top of the Hearthmere bank with the river below it on the right, brown and full and loud in the dark, and the fields on the left, black, with the snow going off them. No moon. The second night after the dark. There were lights on the river: the patrol boats at their moorings below the towers, a lantern at each bow. She went past them on the road above, and nobody looked up.
+
+Redwatch came up out of the dark a little before the turn of the night. The tower on its rise, with a light at the top. The guardroom below it, dark. And down on the bank, the boathouse, with a lantern hung in the door.
+
+Ottery was in it.
+
+He was sitting on an upturned boat in the lantern light with his pipe in his mouth and a net across his knees, mending it, at the dead hour of the night when nobody sane mended anything. He looked up when her shadow came across the door.
+
+He looked at her. At the sack over her shoulder, and the sword-hilt sticking out of it with the blue cord on the grip. At the dung on her boots to the ankle.
+
+"They told us you were confined," he said.
+
+"I am."
+
+He took the pipe out of his mouth.
+
+"There's forty of them going to be in my reeds tomorrow at dusk," he said. "With a net and the old chain from the armoury. And Callis at the north end with his hounds. And Thorne's pig at the south." He said it the way he'd say the river was high. "They told me to have the punts ready."
+
+"I know."
+
+Ottery looked at her a while longer. He put the pipe back in his mouth, and put the net down off his knees, and got up the way old men get up, a piece at a time, and went to the slip where his punt lay with its pole beside it, and pushed it down the planks into the black water, and held it there by the painter.
+
+"I was asleep," he said. "In the guardroom. All night. I never saw you."
+
+She got into the punt.
+
+"Ashdown." He didn't let go of the painter. "When it's done. Whatever it is. You'll not come back here."
+
+"No."
+
+"No." He let go. "Mind the snag at the second bend. The river's moved it."
+
+---
+
+She was on the island before first light.
+
+The lion was at the pit. The water had gone down in it with the river; the old grey stone at the bottom showed again, wet, black, scored all over with the pale marks of its claws. It was lying on the bank at the edge of the pit with its head on its forepaws, and it lifted its head when she came through the oaks, and looked at her, and put its head down again.
+
+She sat down beside it.
+
+Not at ten paces. Not at five. Beside it. Against its shoulder, where the mane began, the way she'd sat in the arch on the night the river went out. It let her. She felt it breathe against her back, slow, enormous. She felt the hum come up through it.
+
+She stayed there all day.
+
+She couldn't tell it anything. She'd told it things all winter and it had never understood a word. She couldn't tell it *at dusk they'll come from the north with hounds* or *there's a net on the west shore* or *don't go toward the reeds.* She couldn't tell it anything at all. She could only be there. Sitting against its shoulder in the thin spring sun on the bank of the pit, with Tobin's sword across her knees, while the day went over.
+
+Sometimes it slept. Once it got up and went down into the pit and scraped at the stone for a while and came back and lay down again beside her, and put its head down on its paws with a long sigh, like a dog.
+
+In the afternoon she heard the boats.
+
+From the west. Across the channel. The knock of oars in rowlocks and the scrape of punt-poles and men's voices, low, going quiet when somebody hushed them. The forty, going into the reeds. She heard them settle. She heard a hound whine, far off, at the north end, and somebody cuff it.
+
+The lion's head came up.
+
+It listened. It looked north, through the oaks. Its lip went back.
+
+She put her hand on its shoulder.
+
+---
+
+They came at dusk, from the north, the way Haverly had said.
+
+The hounds first. Three of them. She heard them before she saw them, giving tongue through the oaks at the north end: the long belling cry of hounds on a line, that she'd heard every autumn of her life from the Hearthmere bank when the knights hunted the Brackenwood. Coming down through the trees toward the pit. And behind them, men. Callis's voice, harsh, urging them on.
+
+The lion stood up.
+
+It stood up over her where she sat, all at once, the way it had stood up when the collar came off, and the ground under her jumped. It faced north. Its mane went up round its head until it seemed twice its size, and a sound came out of its chest that she felt in her teeth.
+
+She stood up too.
+
+She stepped out in front of it. Between it and the north. With Tobin's blunt sword in her hand, held low, the point down, the way Pell had taught them to hold it when you meant to stop something and not kill it.
+
+The hounds came out of the oaks.
+
+Three of them. Big, rough-coated: Wynn's two, Ash and Sorrow, and Callis's own, Grip, old and grey in the muzzle. She knew them. She'd mucked out under them every morning since the autumn and forked their straw and carried their water, and Ash had put his head in her lap once when she sat down in his stall to cry. They came out of the trees at a run, belling, onto the open ground at the edge of the pit, and saw the lion standing over her, and saw her.
+
+They stopped.
+
+All three. Dead. Twenty paces off. They stood there with their hackles up and their noses working, looking at her, at the lion behind her, and back at her. Ash whined.
+
+"On!" Callis came out of the trees behind them with two knights. He had his crossbow in his hands, spanned. His collarbone had healed crooked from the frost fair; he held his left shoulder high. "On! *Go on!*"
+
+The hounds didn't go.
+
+They stood there whining. Ash lay down. Grip looked back over his shoulder at Callis and then at Maren and sat, the way he sat in his stall in the morning when she came with the water.
+
+Callis saw her.
+
+He stopped. His face went through something. Surprise, and then a kind of ugly gladness.
+
+"Ashdown," he said.
+
+"Leave it," said Maren.
+
+"Get out of the way."
+
+"Leave it. Go back. Tell Rowan it wouldn't drive."
+
+"Get *out of the way*, you dung-shoveller." Callis lifted the crossbow. Not at her. Past her. At the lion standing over her with its mane up. "Rowan wants it alive. She'll have it with a bolt in its leg, then. It'll drive on three."
+
+She saw his finger move.
+
+---
+
+She'd think about it afterwards, for the rest of her life, and she'd never remember deciding.
+
+She went forward. Three steps. Fast. The way Pell had taught them, a thousand times, at the straw men in the yard. *You close. You don't wait for it. You close and you take the weapon arm and you don't kill anybody.* Tobin's blunt sword came up and round and down, flat, hard, across Callis's forearm above the wrist, where the bone was close under the skin.
+
+She heard it hit.
+
+Callis cried out. The crossbow went off. The bolt went up past her ear, she felt the wind of it, and into the oaks above the pit with a thud, high, and stuck there quivering.
+
+Callis was on his knees holding his arm.
+
+The two knights behind him stood there. One of them had his hand on his sword. Neither of them drew it. They were looking at her. At the blunt practice sword in her hand with the blue cord on the grip.
+
+She knew what she'd done.
+
+She'd known it before she did it. A student of Greyhold had raised her hand in the field against a knight of the orders. It didn't matter that the sword was blunt. It didn't matter that she'd struck to stop and not to kill. It didn't matter why. It was the first thing they taught you, on the first day, before they taught you the oath. *The hand of a student is never raised against the orders. Never. In the field or out of it. That is the oath before the oath.*
+
+She stood there with the sword in her hand and felt it go. The thing she'd been for two years. She felt it go out of her the way the ice had gone out of the river: all at once, everywhere, with a sound she couldn't hear.
+
+Behind her the lion roared.
+
+---
+
+She ran.
+
+East, away from the reeds and the net and the forty. Down through the oaks toward the island's eastern shore, toward the far channel and the Saltreach bank, the way the Haddows had come over the ice, the way nobody would be waiting. She ran with the sword in her hand and the sack bumping on her back.
+
+The lion came with her.
+
+She heard it. Behind her, through the oaks, the great soft pounding of its feet and the ground jumping under hers at every stride. It was coming with her, not after her. She couldn't have said how she knew the difference. She knew.
+
+They came out of the trees onto the east shore together.
+
+The river was in front of them. The east channel, the fast one, brown with the thaw, and the Saltreach bank beyond it dark under the hills. Harrow's End off downstream, with no lights in it. The Fellwood behind, black, coming down to the water.
+
+She stopped at the edge of the water. The lion stopped beside her.
+
+She turned to it.
+
+She couldn't tell it. She knew she couldn't. It didn't understand a word she said. It never had. She did it anyway. She put her hand flat on its shoulder, and then she took her hand away and pointed. Across the channel. At the far bank. At the black forest coming down to the water.
+
+"Go," she said. "Go. Over there. Into the trees. Please. They'll not cross. They never cross. Go."
+
+The lion looked at her.
+
+It looked at her with its pale eyes, in the dusk, with the river going past at its feet. She couldn't tell what it saw. A woman pointing, maybe. Nothing more.
+
+It went into the river.
+
+It went in the way it did everything, all at once, and the water came up white round its chest, and then it was swimming. She'd never seen it swim. Its great head low on the brown water and its mane spread out round it on the current, and the current taking it down, and it fighting across, steady, stroke by stroke, toward the Saltreach shore.
+
+She stood on the shore and watched it go.
+
+Above her something cried out. High, thin, wild. She looked up.
+
+Kesh. Going over, very high, against the last of the light. The falcon was over the lion, over the channel, hanging there on her wings the way a falcon hangs over something it's marked, so that everybody looking up from the reeds on the west shore could see where it was. Marking it.
+
+Maren stood on the shore and watched the falcon hang there and thought, *That's it, then. That's what he's for. He's brave enough to be in the reeds.*
+
+Then Kesh turned.
+
+Away. West. Back across the island toward the reeds, toward the forty, toward Haverly, in a long slow glide, the way a falcon turns when it's lost what it was marking. As if the thing it had been hanging over had gone under the trees. As if there were nothing there.
+
+There was. Maren could see it. The lion was halfway across the channel in plain sight, swimming.
+
+Kesh went down out of the sky toward the reeds and was gone.
+
+On the far side of the channel the lion came up out of the water onto the Saltreach shore below the Fellwood. It stood there, streaming, enormous, and shook itself, and the trees on the bank shook with it. It looked back across the channel at her.
+
+Then it went into the forest.
+
+---
+
+Thorne took her in the east reeds a little after.
+
+She was sitting on the shore where the lion had gone into the water, with Tobin's sword across her knees. She hadn't tried to hide. She heard them coming through the oaks behind her, a lot of them, and lanterns, and she sat there.
+
+Thorne came out of the trees first. Broad and square and grey-haired, in her riding coat, with a lantern. She stopped when she saw Maren on the shore. She looked across the channel at the black Saltreach bank, at the forest, at nothing.
+
+She looked at Maren.
+
+"Give me the sword," she said.
+
+Maren gave it to her.
+
+Thorne took it. She looked at it in the lantern light. A student's practice sword, blunt, with the nicked guard and the blue cord on the grip. She weighed it in her hand.
+
+"Callis's arm's broken," she said. "Clean. Above the wrist." She was quiet a moment. "Pell will be glad to hear you were listening."
+
+She put her hand under Maren's arm and helped her up.
+
+---
+
+They cast her out at the river gate on the morning of the hundred-and-thirty-sixth day.
+
+The whole school stood in the yard. Every student in the grey, in their lines. Every knight. The grooms in the barn door. The cooks. They'd been called out at first light by the bell, not the noon bell, a single long stroke, and they stood in the cold in the yard below the scaffolds and the river wall and waited, and nobody spoke.
+
+Maren stood by the river gate. In her shirt and breeches. They'd taken her grey in the night. A knight of the gate stood on either side of her. Neither of them touched her.
+
+Rowan came down the north tower stair and across the yard.
+
+She stood on the bottom step of the gatehouse with her hands behind her back and looked at the school. Then she said it. In her quiet voice that carried to the back of the yard without being raised.
+
+"Maren Ashdown, student of Greyhold in her second year, raised her hand in the field last night against a knight of the orders, in the course of his duty, and struck him." She paused. "That is the oath broken. Whatever else she's done, or hasn't. She is no longer of Greyhold. She has no place in it, and no claim on it, and no part in the orders, now or after." She looked at Maren. "Open the gate."
+
+They opened it.
+
+Three hundred people in the yard and not a sound. Maren looked at them. At the lines of students. At the front line, the bonded, with their beasts: hounds at heel, a marten on a shoulder, Kesh on Haverly's fist. Haverly was looking straight ahead at nothing. His face was white. The falcon on his fist turned her head and looked at Maren with one black eye.
+
+By the door of the north tower, at the top of the archive stair, Hale stood in the cold with his stick, looking at her.
+
+She turned to go.
+
+Somebody was coming across the yard. Out of the dormitory door, at a shuffle, bent under something heavy. Grieve. The Master of Stables, bald, with his sleeves rolled, carrying her chest. The one from under her cot. He carried it the whole way across the yard on his own, past the lines, past Rowan on the step, without looking at anybody, and set it down on the cobbles in the open gate beside her, and straightened up.
+
+He looked at her.
+
+"Your things," he said.
+
+He turned round and walked back across the yard to the Long Barn, and went in, and shut the door.
+
+She picked up the chest. It was heavy. The hammer and the chisel were in it, and the lion's collar, in two halves, and a dragon's scale the size of a round shield, and her father's brown cloak.
+
+She walked out of the gate.
+
+---
+
+The gate shut behind her.
+
+She stood on the road outside it with the chest in her arms. The river below her on the left, brown and loud. The road going away north along the bank toward Redwatch and the island, and south toward the ferry and Millbrook. The thin cold morning sun on the water.
+
+She put the chest down and sat on it.
+
+She sat there a while. Long enough for the hammering to start again on the scaffolds inside the wall behind her. Long enough for the gulls to come back to the water below the gate.
+
+A horse came down the road from the north at a gallop.
+
+A river-watch rider, from Redwatch. Splashed to the thigh, lathered, coming hard. He didn't look at her. He went past her so close the mud from his horse's hooves spattered her, and pulled up at the gate, and beat on it with his fist.
+
+"*Open!* From Pell! *Open!*"
+
+They opened it. A crack. She heard him, in the gap, before it shut on him. Shouting it to the knight of the gate, loud enough for half the yard to hear.
+
+"Boats! On the Saltreach side! A hundred of them, more, coming down the Drover's Way on carts! The six on a banner at the Ram's Head! A column on the Way behind them, thousands! And *him*, Pell says, Vale, at the head of it, on a white horse! Fisk's boy rowed over from the Eelweir at first light and told Ottery!" He was gasping. "They're gathering for the Old Ruin! Three days, Pell says. Four at most!"
+
+The gate shut.
+
+She sat on her chest on the road outside Greyhold, with the river going past below her, and looked upriver. North. Toward the island she couldn't see, three leagues off, round the bend. Toward the Saltreach bank and the black forest coming down to the water, where a lion had gone in under the trees last night with no collar on its neck.
+
+Toward the Old Ruin, where they were coming.
+
+After a while she got up, and picked up the chest, and turned south. Down the River Road. Toward the ferry, and Liss.

@@ -212,3 +212,23 @@ Established landscape types include outskirts and villages, farmlands, hunting g
 **The Oneroad** had milestones that counted to the bridge at the island, "the middle of the world". Of the bridge only drowned pier stumps remain, showing in dry summers.
 
 **Days and sky:** Hearthmere is the west bank, so the sun and moon rise over the Saltreach bank.
+
+
+## Added while drafting Chapters 41–79
+
+- **The freeze and the thaw.** The Wend freezes hard on night 74; the channel under the Hearthmere bank stays open until night 80. Ice a hand and a half thick by midwinter. The south wind comes on the full moon (about day 117); "the river goes out" on night 119, from upriver down, all at once. River people never say the ice breaks. There are no cannon in this world.
+- **The magic fails (from night 90).** Lamps without oil dim, go red, or go out; warming-stones go cold; licensed words (bone-setting) fail. Every beast in Greyhold's Long Barn turns to face the north wall when the ground hums.
+- **The hum.** The ground hums near the island and in Greyhold's archive. It is in the lion too: Maren feels it through her palm on its mane (55).
+- **The black door.** Warm to the hand, warm as a flank. Through it Maren feels something vast notice her hand, without any bond or voice (51). The long black key is turned once for each of the Watch, on the night they're sworn.
+- **The way under the river.** At the island's north end the lion has dug a pit the size of a barn floor, through old fill, to a course of dressed grey stone the same as Greyhold's inner wall, running under the river toward Greyhold (53).
+- **Bound beasts without a binder.** When a binder is gone, the beast doesn't wake: it goes slack and follows any hand on the rope. Whether it comes back is unknown (52). Bound beasts don't take fright; they do what the hand on their neck wants.
+- **One life between two** applies to dragons and their riders as to any bond (Hallam and Morrow, 60).
+- **The Clan's ford truce.** Under the old law, the bonded may sit above a ford meeting as keepers and come down on whoever breaks the truce. It hadn't been done since Teo's grandfather's time.
+- **Lisska's sight.** A sparrow on a roof at a league, a face at two. Dragons hear far better than people (Lisska hears the hammer on the collar across two leagues of river).
+- **Greyhold arms (58):** scaffolds and timber hoardings on the river wall; four throwing-engines on the river towers, turned toward the Saltreach bank.
+- **Hollin Knowe**: a long rise at the Brackenwood's edge two leagues west of the river, with the old watch's beacon-stones.
+- **Forced binding, as Maren feels it (73):** honey-smoke opens a beast the way sleep opens a sleeper; the binder lays his hand on its head and pours his will into the opening while holding himself shut; the beast's self goes out to make room. If someone gives instead of taking, the beast can meet them, and a true bond forms.
+- **The catacombs:** a cavern under the river with six chains (links taller than a man) between anchor-stones at each end; a ledge high in the wall at each end with a stair up (Greyhold's archive; the Ruin's tower); a round chamber off each ledge holding a lock (a carved stone disc with an iron boss); a roofed stone road along the cavern side for the old wardens; an older stair in the far wall that Corvin knew.
+- **The stone knows the lion:** the grey stone of the catacombs moves aside for Orrun (75, 78, 79).
+- **After the Titan (79):** the Old Ruin and its island are gone; the river has filled the hole. Redwatch's tower is cracked; Greyhold's inner wall is split top to bottom. Hearthmere's magic has failed: lamps without oil, warming-stones, licensed words, sweet wells.
+- **Black-door keys:** two, the archivist's and the Watch-captain's.

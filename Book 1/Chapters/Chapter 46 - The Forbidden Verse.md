@@ -5,9 +5,258 @@ POV: Calder
 Part: Part Four: The Frozen River
 Beats: The accusation reaches Harrow's End. Ada breaks her promise and sings the verse her grandmother made her swear never to sing: the last one sleeps "where the oath is kept." Calder thinks of the knights' oath.
 Echo of the other's story: Across the ice, every lamp in Greyhold goes out at once, then comes back.
-Status: not started
-Carried forward: From Chapters 22 and 40: Ada's seventh verse has "the shape of" the carved verse. Calder has heard Lisska's memory of the arch only up to the broken middle line; he has not seen "Keep the watch below". This chapter gives him the oath line through Ada.
+Status: first draft
+Carried forward: From Chapters 22 and 40: Ada's hidden third verse has "the shape of" the carved verse; "not till I see what it's for"; if she sang it before then, she'd be "calling something I couldn't send back". Calder has never seen "Keep the watch below" on the arch. From Chapter 44: he heard the knights sing the midwinter oath across the ice through Lisska ("Keep the watch below, and do not ask"), and Aurveth won't speak of what she felt under the river ("Do not ask me"). From Chapter 45: the Restoration's paper.
+Draft notes: Days eighty-nine and ninety. Decided here (proposals):
+- The paper comes over the ice from Millbrook in a carter's coat on the night of day 88, and up the river lane to Harrow's End and Upper Rush on day 89. Old Fisk brings a copy to Upper Rush, because he can read and most can't. By nightfall every house in Harrow's End has heard it, and has heard its last part too: that the dragon farmer is proof the old powers are waking.
+- The song as everyone knows it (Chapter 2) is two verses and the hush. Ada's grandmother's verse is a third, sung between the second verse and the hush. Ada sings it in Bel's kitchen on the night of day 90 with the door barred and the children asleep in the loft. Wren isn't asleep.
+- The hidden verse:
+  *The last one sleeps where the oath is kept,*
+  *in iron and dark beneath the stone,*
+  *and the watch above has never slept,*
+  *and the watch has forgotten what it keeps.*
+  and a hush that goes with it:
+  *Hush now, and do not ask it.*
+  *Hush now, and do not turn the key.*
+  *When two hands open what one hand shut,*
+  *it wakes, and it will not sleep again.*
+- Calder hears "do not ask" for the third time since midwinter night and puts it together: the knights' oath, Aurveth's silence, the paper's "beneath Greyhold". The last great beast sleeps where the knights keep their oath.
+- Aurveth, two leagues off at Crow Scar, silent since the ice, hears the verse through him. She says one thing, the first since the ice: *That is what I touched.*
+- Echo: while Ada is still sitting with her hands in her lap afterwards, Lisska, who has come over from Crow Scar after dark and is lying under the window, says every light at Greyhold has gone out. Calder goes into the yard. Six leagues and more down the frozen river, Greyhold's long wall is dark from end to end. It stays dark for about as long as it takes to say the hush twice. Then the lights come back, all at once.
 notes -->
 
 ---
 
+Old Fisk brought the paper up the river lane on the eighty-ninth day, inside his coat, because he could read and most of Harrow's End couldn't.
+
+He came into Bel's yard at noon on his stick, red with cold, and stood by the byre door, and didn't come in, and didn't say good day. He took the paper out of his coat and held it out to Calder.
+
+"Carter brought it over the ice from Millbrook last night," he said. "Off the chapel door. There's a dozen of them about. They read it out on the ice at Millbrook yesterday at the fair, in front of the whole town. There was a fight. The knights tried to take the man that read it." He looked at the paper in his own hand as if it might bite him. "You'll want to see it. It's got you in it."
+
+Calder took it.
+
+He could read, a little. Enough to sign his name and count sacks and make out a broadsheet if he went slowly. He went slowly. He stood in Bel's frozen yard with Mabbin's long sad face over the byre door beside him and read it, word by word, with his lips moving, and Fisk stood and watched him do it and didn't help.
+
+*Beneath the fortress-school of Greyhold.*
+
+He read it twice. The second time he didn't move his lips.
+
+*The last of the great beasts of the old realm. The Titan of the songs. That lay down below when the old ones went into the light.*
+
+*Keep the watch below, and do not ask. It is a jailer's oath.*
+
+And at the bottom, under the two words he'd heard three thousand people shout on the Tidesteps at Wendmouth, a smaller part, that Fisk had said had him in it.
+
+*The old powers are waking. In the Marches, a farmer, one of the unchosen, has been chosen by three dragons in one night. Nobody has been chosen by three since the one realm. Ask yourselves why it has begun with him.*
+
+He stood in the yard with the paper in his hands.
+
+---
+
+By dark, all of Harrow's End had heard it.
+
+The ones who'd stayed. Wat Garrow, who came up the river lane to Upper Rush at dusk on the excuse of a borrowed saw and stood in Bel's kitchen looking at Calder with his face very strange. The Ashby widow, who didn't come but sent her girl. Two of the Hollins from the next farm, who came to the gate and stood there in the dusk and wouldn't come in. Fisk, who'd gone back down to the Eelweir with his paper and read it out at the Wheel's burned doorway to anybody who'd stand and listen, which was everybody.
+
+He didn't need them to tell him what they were saying. He'd heard it on the Tidesteps. He'd heard it at the hedge after the battle.
+
+*It's begun with him. Ask yourselves why.*
+
+"Calder," said Bel, at supper. She hadn't looked at him all evening. "Is it true?"
+
+"Is what true?"
+
+"Any of it. Is there a… thing. Under Greyhold. Under the river." She was looking at her plate. Joss beside her was very still, his big hands on the table. "Is there something down there? You go out there. You've been on the ice. You've been on the island. Your dragons… Do they know? Is it true?"
+
+He looked at his sister across the table.
+
+He thought of a night on the ice under the black shadow of the bank, a league above the island, and Aurveth lying flat with her throat pressed to the frozen river. Something vast. Bound. Turning. Wrong, like a bone set badly.
+
+*Do not ask me. Not yet.*
+
+"I don't know," he said.
+
+It was true. He told himself it was true.
+
+Across the table, at the end of it, Ada had put down her spoon.
+
+---
+
+She waited until the children were asleep.
+
+Or until she thought they were. Pip and Nan in the loft with Wren, the three of them in a heap under the blankets the way they always slept, like puppies. Ada went up the ladder and looked at them, and came down again, and went to the door and put the bar across it. She went to the shutters and closed them, both, and barred those too. Then she came back to the table, to her own chair, and sat down in it, and put her hands flat on the table in front of her.
+
+Bel and Joss looked at her. Calder looked at her.
+
+"There's a verse," said Ada.
+
+Bel opened her mouth. Ada looked at her, and she closed it.
+
+"You know the song," said Ada. "All of you. *Before the six, there was one.* I've sung it to all of you. I sang it to you, Bel, in this kitchen, when you were teething and wouldn't sleep. I sang it to Calder. I've sung it to Wren and to your two. Two verses and the hush. That's how everybody sings it, on both banks. That's how the mothers at Greyhold sing it to their babies, I shouldn't wonder."
+
+"Ma," said Calder.
+
+"Let me say it." She didn't look at him. "There's a third verse. My grandmother taught it to me. My father's mother, who came over the river from the Hearthmere side when she was a girl and never once went back. She taught it to me when I was Wren's age, by her own fire, and made me say it back till I had it, and then she put my hand on her hearthstone and made me swear. Never to sing it. Not to anybody. Not until I saw what it was for." Her hands were very still on the table. "She said if I sang it before then, I'd be calling something I couldn't send back."
+
+The fire cracked in the grate.
+
+"I've kept that," said Ada, "for fifty-one years."
+
+She looked at Calder then.
+
+"I've seen what it's for," she said.
+
+---
+
+She sang it sitting at the table with her hands flat on the wood and her eyes on the fire.
+
+She sang it the way she sang everything, low and a little rough, in her old voice that had sung every lullaby and every harvest song and every dirge in Harrow's End for forty years. To the old tune. The same tune as the other two verses. He'd heard that tune every night of his childhood. He knew where it went. He knew where it rose and where it came down and where it hushed.
+
+She sang the first verse. *Before the six there was one, and the one was Winshire, and the old ones walked it unbound, by water and by fire.*
+
+She sang the second. *The old ones went up into the light, and the one fell into six, and the last great beast lay down below to sleep in stone and dark.*
+
+And where the hush should have come, she didn't sing the hush. She went on. The tune went on, the same tune, into a place he'd never heard it go, and Ada's voice went with it, very quiet.
+
+*The last one sleeps where the oath is kept,*
+*in iron and dark beneath the stone,*
+*and the watch above has never slept,*
+*and the watch has forgotten what it keeps.*
+
+Nobody moved.
+
+The hush came next, but not the hush he knew. The same tune, the same rocking, a mother's tune for a child who won't sleep. Different words.
+
+*Hush now, and do not ask it.*
+*Hush now, and do not turn the key.*
+*When two hands open what one hand shut,*
+*it wakes, and it will not sleep again.*
+
+She stopped.
+
+The kitchen was absolutely silent.
+
+---
+
+*Do not ask.*
+
+He sat at the table with his hands round his cup and heard it go into him. For the third time. Twice on the ice at midwinter, and now here.
+
+On the ice, in the black shadow under the bank, with Aurveth's throat pressed against the river. *Do not ask me. Not yet.*
+
+Across four leagues of frozen river at midnight, faint and clear, in Lisska's small bright voice, keeping time. *Keep the watch below. And do not ask.*
+
+And now his mother, at Bel's table, with her hands flat on the wood. *Hush now, and do not ask it.*
+
+*The last one sleeps where the oath is kept.*
+
+He hadn't known what the knights' oath was. Not until midwinter night. He'd lived his whole life across the river from Greyhold, and he'd known the knights swore something, at noon, facing the river; everyone on the Saltreach bank knew that, the way you know your neighbour says his prayers. He'd never known the words. He'd never cared. On midwinter night he'd sat in the snow on the ice beside a dragon who wouldn't speak, and the words had come across the river to him in the dark, from hundreds of voices on Greyhold's wall.
+
+*Keep the watch below.*
+
+*Beneath the fortress-school of Greyhold,* said the paper on the table, in Fisk's careful reading, *the crown of Hearthmere keeps in chains the last of the great beasts.*
+
+*In iron and dark beneath the stone,* sang his mother. *And the watch above has never slept. And the watch has forgotten what it keeps.*
+
+He sat very still.
+
+*The knights keep the oath,* he thought. *Every day. At noon. Facing east, toward the river, toward the old wall. Where the oath is kept.*
+
+*It's under them. Under Greyhold. That's where it is. That's what she touched, on the ice. That's what's lying down there, awake, turning, in iron and dark, with a whole school of knights standing on top of it every day at noon singing to it not to ask.*
+
+---
+
+Two leagues away, at Crow Scar, in the back of the cave, he felt Aurveth lift her head.
+
+She'd heard. All three of them had heard; they always heard what he heard, if it went into him hard enough, and this had gone into him like a nail. But it was Aurveth he felt. Her great head coming up off the stone in the dark, for the first time since the ice. The millwheel turning in her, turning, and then catching on something, and stopping.
+
+*That is what I touched,* she said.
+
+That was all. Five words. Then nothing. He felt her put her head back down.
+
+But it was the first thing she'd said about it since the ice. It went into him and stayed.
+
+---
+
+"Ma," said Bel.
+
+Her voice was very small. She was sitting at the table with her hands over her mouth, staring at her mother. Joss beside her had put his arm round her.
+
+Ada didn't look up. She sat with her hands flat on the table and her eyes on the fire, and she looked older than Calder had ever seen her. Not tired. Old. As if she'd been carrying something for fifty-one years, and had just put it down, and found that it had been holding her up.
+
+"*When two hands open what one hand shut,*" said Joss. "What does that mean?"
+
+"I don't know," said Ada.
+
+"*It wakes, and it will not sleep again.*"
+
+"I don't know, Joss. I never knew. She never told me. She just taught me the words and made me swear." She lifted her hands off the table at last and looked at them, as if they were somebody else's. "I've never sung it. Never. Not once. Not even to myself, under my breath, hanging out washing. I was afraid to."
+
+"Why did you sing it now?" said Calder.
+
+His mother looked at him across the table.
+
+"Because they've put your name on it," said Ada. "Those people with the rings. They've put your name at the bottom of a paper about a beast under the earth, and nailed it to the doors, and said it began with you." Her voice didn't change. "And I don't know what's under the earth. And I don't know what my grandmother knew, or how. But I know my son. And I'll not have you walking out into whatever this is not knowing the one thing I know." She put her hands back on the table. "That's what it's for. I've seen it now."
+
+On the ladder to the loft, in the shadow, something moved.
+
+Calder looked up. Wren was sitting on the top rung in her nightgown with her knees drawn up and her arms round them. She'd been there, he understood, the whole time. Since the bar went across the door. Her face in the firelight was very white and very still, and she was looking at her grandmother.
+
+"Gran," she said. "That was the most beautiful one."
+
+Ada looked up at her. For a moment her old face didn't do anything at all. Then it crumpled, all at once, like paper in a fire, and she put her hands over it.
+
+---
+
+*The lights,* said Lisska.
+
+She'd been at the window. She'd come over from Crow Scar after dark, low over the Fellwood, without being asked, and was lying in Bel's yard against the wall under the shuttered window with her long head beside the shutters, listening. He felt her lift her head.
+
+*The lights,* she said again. Sharp. Frightened. *Across the river. At the big grey place. Greyhold. All the lights. They've gone out.*
+
+He was up from the table before he knew it, and across the kitchen, and lifting the bar from the door, and out into the yard.
+
+It was very cold. Bitter. The stars were sharp and the moon was coming up late and lopsided over the hills behind the house, and the white river went away below the hollow, frozen from bank to bank, down past Harrow's End and the island to the bend where Greyhold stood.
+
+Greyhold was dark.
+
+He'd seen it every night of his life. The long low line of its wall on the far bank, six leagues and more down the river, with its windows lit. On midwinter night every window had been lit. On any night of the year, from Harrow's End, from Upper Rush, from anywhere on the Saltreach bank where you could see down the river, Greyhold was there: a line of small steady lights in the dark, like a necklace laid along the far bank.
+
+It wasn't there.
+
+The whole line of it was gone. Every window. Every lamp on the wall. Every torch at the gate. As if somebody had put a hand over it. There was the dark bank, and the dark sky, and the white river, and nothing.
+
+Lisska had come round the corner of the house and was standing beside him in the snow, very close, so close her wing was against his shoulder. He felt her shaking.
+
+*They all went out,* she said. *All at once. Just now. Just when she stopped singing. I was looking. They all went out together. Like a candle when you blow it.*
+
+He stood in the yard and looked at the dark place on the far bank where Greyhold should be.
+
+Behind him, in the doorway, he heard Joss come out. And Bel. Ada came last, with her shawl round her, to stand in the door with the firelight behind her and look down the river.
+
+*Hush now, and do not ask it,* he thought. He didn't mean to. It went round in him. *Hush now, and do not turn the key.*
+
+*She said if I sang it before I saw what it was for, I'd be calling something I couldn't send back.*
+
+The dark went on.
+
+He didn't know how long. Not long. As long as it would take to sing the hush through, twice, slowly, the way you'd sing it to a child who wouldn't settle. He stood in the frozen yard and didn't breathe. Lisska didn't breathe. At Crow Scar, two leagues off, he felt Kharrak on his feet, and Aurveth with her head up, all of them looking down the river at the place where the lights should be.
+
+Then they came back.
+
+All at once. Every one. The whole long line of Greyhold's wall, every window and lamp and torch, lit again on the far bank like a necklace laid down in the dark. As if nothing had happened. As if they'd never gone.
+
+Nobody in the yard spoke.
+
+"It's the cold," said Joss at last. Not very steadily. "That's all. Something to do with the cold. Their lamps don't burn oil, they say. Some sort of magic. It'll be the cold."
+
+Nobody answered him.
+
+Ada stood in the doorway with her shawl round her and looked down the river at the lights. Calder turned round and looked at her. In the firelight from the kitchen behind her, her face was very calm.
+
+"I didn't call it," she said. Quietly. To him. "Did I?"
+
+He didn't know what to say. He went and put his arm round her, and she let him, which she almost never did, and they stood in the doorway together and watched the lights of Greyhold burn on the far bank, steady and small, as if they had always been there and always would be.
+
+*That is what I touched,* said Aurveth, very far off, very low.
+
+He didn't ask her what she meant.

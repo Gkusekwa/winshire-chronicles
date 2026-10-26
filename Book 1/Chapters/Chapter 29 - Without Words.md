@@ -272,7 +272,7 @@ What that meant, she couldn't say either.
 
 She went back on the thirty-eighth day.
 
-Ottery took her. She rode Turnip out to Redwatch after evening muck, the way she always did now, and he was at the boathouse steps with the punt. He handed her the pole, and when she couldn't use it, because of her side, he took it back without a word and poled them up the river himself, against the current, in the frost. At the island he didn't stay at the spit. He took the punt round to the mouth of the west channel, and into the reeds, and sat there in the stern with his pipe and the boathook across his knees.
+Ottery took her. She rode Turnip out to Redwatch after evening muck, the way she always did now, and he was at the boathouse steps with the punt. He handed her the pole, and when she couldn't use it, because of her side, he took it back without a word and poled them across the channel himself, in the frost. At the island he didn't stay at the spit. He took the punt round to the mouth of the west channel, and into the reeds, and sat there in the stern with his pipe and the boathook across his knees.
 
 She went up the stream. Slowly. Her side was bad. She came to her place on the bank and stopped, and didn't sit.
 

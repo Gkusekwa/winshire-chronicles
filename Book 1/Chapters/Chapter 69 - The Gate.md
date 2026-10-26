@@ -1,0 +1,355 @@
+# Chapter 69: The Gate
+
+<!-- notes
+POV: Maren
+Part: Part Six: The First War
+Beats: The Restoration's first open war against the kingdoms breaks out: it crosses the river and drives toward Greyhold and the catacombs. Pell dies holding the gate.
+Echo of the other's story: Rumours from the Saltreach side: the dragon farmer has gone to the Old Ruin.
+Status: first draft
+Carried forward: From Chapter 67: the orders on the bank at Redwatch facing the ladders; fewer than forty left on Greyhold's wall; Millbrook ready to rise behind them; Liss, Ada, Wren, Bel and her children at Millbrook (the camp by the water-meadows). From Chapter 68 (Calder's side): Cassian crossed to the Hearthmere side in the night to lead the rising and take Greyhold's gate; "our friend" is inside. From Chapter 9: Pell, long-boned, grey, two fingers gone; subdue, don't kill. From Chapter 63: Thorne took Tobin's sword; Maren has no weapon.
+Draft notes: Day one hundred and forty-two. Decided here (proposals):
+- Dawn: from Hollin Knowe Maren sees both at once. Upriver, the boats come off the island's west shore with the ladders, and the bank at Redwatch goes up in noise. Downriver, smoke over Millbrook: the rising.
+- The lion won't come down off the knowe. It stands on the edge looking at the island. She leaves it there. It's the first time she goes somewhere it doesn't follow.
+- She takes a farm cob from the paddock at Hollin Farm under the knowe and rides south across the fields to the River Road. The road is full of people running north toward Greyhold from Millbrook: the camp by the water-meadows was fired at dawn. The rising didn't spare the refugees.
+- At Greyhold's river gate: a crowd of refugees and Millbrook folk, and behind them men with rings and the boats from the back channel, and Cassian's men off the river. The gate is shut. Pell is on the wall.
+- Pell opens it. He comes down with eleven, students and old knights, and holds the gateway while the refugees go through. Maren, outside, gets people to it. She takes a dead knight's sword from the road. She finds Ada and Wren and Bel's children in the crush, with Liss, who brought them up from the ferry house. Bel has the greys: she won't go in without them, and the gate's wide enough for a dray-beast.
+- The echo: Wren in the crush, clinging to Maren's arm, says it over the noise to her as if it were the most ordinary news: Fisk's boy came over in the night; Papa's gone to the Old Ruin. On his own. "He left the dragons. He said they'd be seen."
+- Pell sees Maren. He looks at the sword in her hand. "Subdue," he says. "Don't kill." And then: "You'll not be let in." She knows.
+- The bound hounds come up the road. Pell holds the gateway with five left. The last of the refugees go through. Old Grey goes through with Bel at his head. Pell shouts to shut it. The gate shuts with Pell outside it. He stands with his back to it. He dies there, in the gateway, at noon, with the bell going over his head and nobody saying the oath.
+- Maren on the road outside with Liss. The Restoration falls back from the walls in the afternoon when the orders come galloping back down the River Road from Redwatch: Rowan has turned back with half. The other half is pinned at Redwatch.
+- Liss: "Tam." Smoke over Millbrook. Maren goes.
+notes -->
+
+---
+
+She saw both at once.
+
+It was the hundred-and-forty-second day, and the sun wasn't up. She was on the edge of Hollin Knowe in the grey with her back against the lion's shoulder, the way she'd sat all night, and the river was a long pale line two leagues off under a pale sky, and she saw them both in the same breath.
+
+Upriver: the island. The boats coming off its west shore.
+
+Dozens. All at once. Out of the reeds where the ladders had been, into the west channel, dark specks on the grey water, crossing toward Redwatch. Toward the long line of the knights' fires on the bank, gone to embers now. A sound came off the river a moment later, faint, two leagues off, that she knew from Ferriby and from the Redwatch landing at dawn when Bracken died. Shouting. Horns. A lot of horns.
+
+Downriver: smoke.
+
+Over Millbrook. Not the forges. Not chimney smoke. Black, thick, going up in a great slanting column from the roofs of the town and leaning north on the wind. And another, smaller, lower down, by the river. By the water-meadows.
+
+The lion stood up.
+
+---
+
+It went to the edge of the knowe and stood there facing the island, with its mane up.
+
+She stood up beside it.
+
+She looked at the island. At the boats crossing. At Redwatch, where the bank was coming alive with noise. She looked downriver, at the smoke over Millbrook. At the lower smoke, by the river, where the camp was.
+
+*Wren,* she thought. *Liss.*
+
+She put her hand on the lion's shoulder.
+
+"I have to go," she said.
+
+It didn't look at her. It was looking at the island.
+
+"I have to," she said. "There. Not there." She pointed. South. Downriver. The smoke. It didn't look where she pointed. It couldn't understand. "You can come. You don't have to."
+
+She took her hand off its shoulder and went down the slope.
+
+Ten paces. Twenty. She looked back.
+
+It was standing on the edge of the knowe, against the sky, where it had stood all night. Facing the island. It hadn't moved.
+
+She stood in the heather and looked at it. It was the first time. All winter. Off the island, across the fields, up the knowe. It had always come.
+
+It didn't come.
+
+She turned round and went on down.
+
+---
+
+There was a farm at the foot of the knowe. Hollin Farm. A long low house and a paddock with three cobs in it, shaggy, half wild with the noise from the river, galloping round and round the paddock with their tails up. Nobody in the house. The door open. The family gone, in the night, somewhere.
+
+She caught a cob. It took a while. In the end it came to her because it was more frightened of everything else than of her, and she got a halter on it from the hook by the paddock gate and a rope through the halter for reins, and got on its bare back, and rode.
+
+South. Across the fields. Toward the River Road. Toward the smoke.
+
+---
+
+The River Road was full of people running.
+
+North. Toward Greyhold. She saw them before she reached it: a long dark stream of people on the road, on the bank above the river, going north as fast as they could. Running. Walking. Carrying things. Children carried. Carts. A cow on a rope. And smoke behind them, over Millbrook, black.
+
+She rode into them.
+
+"What happened?" She caught at a man's arm from the cob's back. "*What happened?*"
+
+He looked up at her. A Saltreach face. Brown, lined, a farmer's. One of the families Liss had carried over.
+
+"The camp," he said. "They burned the camp. At the meadows. At first light." He was shaking. "The ones from the town. With the rings. They came down the back channel in boats and burned it. Our tents. Our things. They said we were the crown's. They said we'd come over to the crown." He pulled his arm away. "They said there'd be no fires. They said *no Millbrook house.* We weren't a Millbrook house. We were tents."
+
+He ran on.
+
+She sat on the cob in the middle of the road with people pouring past her on both sides.
+
+*No Millbrook house'll burn. Not one. He said so.*
+
+She kicked the cob on. North. With them. Toward Greyhold.
+
+---
+
+The river gate was shut.
+
+She came round the last bend of the River Road below Greyhold's hill and saw it, and saw the crowd in front of it. Hundreds. All the people off the road, and more, piled up against the shut gate in the wall above the landing, beating on it. Shouting. Children crying. Somebody had a cart jammed sideways in the road. Somebody's cow had got loose and was standing in the middle of it all, lowing.
+
+And behind them, down the road, coming up from Millbrook: men.
+
+In twos and threes at first. Then more. With rings on their fingers and on strings round their necks. With staves and billhooks and pitchforks and a few with swords. Millbrook men. And among them, harder, in companies, men off boats: in grey, with the six on their coats, with spears. Coming up the road after the refugees. Not running. Walking. Spreading out across the road and the bank as they came.
+
+At the front of them, low, quick, brindled, in collars, silent: hounds.
+
+On the wall above the gate, a handful of figures. She looked for faces. She couldn't see.
+
+Then one of them leaned out over the parapet above the gate. Long-boned. Grey. One hand on the stone with two fingers missing.
+
+Pell.
+
+---
+
+He looked down at the crowd at the gate. At the road. At the men coming up it. At the hounds.
+
+She saw him decide. She saw it from the road, from the cob's back, a long bowshot off: the long grey face going very still, the way it went at the straw men in the yard just before he moved.
+
+He turned and said something to the people on the wall. Then he was gone from the parapet.
+
+The gate opened.
+
+Not wide. Wide enough. The great oak leaf on the left swinging inward a cart's width, and the crowd at it surging, and Pell in the gap. In his old leather coat, with a sword. And behind him, coming out through the gap round him, eleven others. She counted. Students, most of them. Second-years. Two of the old knights of the gate, too old to have ridden to Redwatch, white-haired, in mail. And the cook's boy with a cleaver.
+
+"*In!*" Pell was shouting. "*In, in, in! Children first! Go on! In!*"
+
+The crowd poured through the gap past him.
+
+He went out through them. Past them. Down the road toward the men coming up it. The eleven went with him. They stood across the road below the gate, a thin line, twelve of them, between the crowd going in through the gap behind them and the men with rings and the hounds coming up the road in front.
+
+Maren put the cob at the crowd.
+
+---
+
+It came in pieces.
+
+The cob going down in the crush and her rolling off it into the road among feet. Getting up. A knight lying in the ditch at the side of the road, one of the river watch from Redwatch who must have ridden down with a message and been caught, with his sword beside him in the mud. Picking it up. A real one. Not blunt. Heavier than Tobin's. She held it in both hands.
+
+People. Pushing them. Pulling them. Up the road toward the gate. A woman with a baby who'd fallen. An old man with no shoes. *Go on. The gate. Go on.* Two children with nobody, holding hands, crying, and she picked up the smaller one and put her on her hip and pushed the other in front of her toward the gap.
+
+The noise from down the road, where the twelve were. Iron. Shouting. A dog that screamed and then stopped, and she knew it wasn't one of the hounds, because the hounds didn't scream.
+
+In the crush, a voice she knew.
+
+"*Maren!*"
+
+She turned round.
+
+Liss. In her man's coat with the sleeves turned back, with her grey hair come down out of her scarf, pushing through the crowd toward her. And behind Liss, holding on to Liss's coat, an old woman in a good shawl with a stick. And holding on to the old woman, two small children, a boy and a girl.
+
+And holding on to nobody, on her own, right behind Liss, a thin girl with a great deal of hair.
+
+---
+
+"I brought them up from the ferry house," said Liss. She was gasping. "The camp was burning. I saw it from the jetty. I went down in the boat and got who I could. These ones." She had Maren's arm in a grip like iron. "Their mother's behind. With the beasts. She won't leave the beasts."
+
+Maren looked at the girl.
+
+The girl was looking up at her. Thin. Nine or ten. A lot of hair, dark, everywhere.
+
+"You're her," said the girl.
+
+Maren couldn't speak.
+
+"You're the lion-woman," said Wren. "Papa said you'd have your hair tied back like that. Lisska told him." She looked at the sword in Maren's hands. "Where's the lion?"
+
+"On the knowe," said Maren. "It wouldn't come."
+
+Wren nodded, as if that made sense. Then she took hold of Maren's arm, the one without the sword, with both her hands, and held on, the way she'd been holding on to Liss's coat.
+
+"Fisk's boy came over in the night," she said. She said it over the noise, quite loud, quite clear, the way you'd tell somebody the time. "From the Eelweir. In his eel-boat. To the ferry house. He told Mistress Ashdown." She looked up at Maren. "Papa's gone to the Old Ruin. On his own. He left the dragons in the north so they wouldn't be seen. He's on the island with all of them." Her face didn't change. "Fisk took him over in the dark."
+
+Maren stood in the road with the sword in one hand and the girl holding on to the other.
+
+*The farmer. On the island. With all of them.*
+
+"Did you say hello?" said Wren. "To the lion? From me?"
+
+"Yes," said Maren. "Twice."
+
+---
+
+They got them to the gate.
+
+Liss pushing. Maren pulling. The old woman, Ada, with her stick, not hurrying, not falling, coming steadily through the crush like a barge through reeds. The two little ones. Wren still holding on to Maren's arm. Up the road. Through the gap in the gate, where the crowd was thinning now. Into the dark of the gateway.
+
+Wren let go.
+
+Maren stood in the gateway and pushed her through it, after Ada, into the yard. Into Greyhold. The girl turned round on the cobbles inside and looked back at her.
+
+"Come on," said Wren.
+
+Maren stood in the gateway.
+
+*You'll not come back here.* Ottery. *She has no place in it, and no claim on it, and no part in the orders, now or after.* Rowan.
+
+"Go on," she said. "I'll come."
+
+She turned round and went back out of the gate.
+
+---
+
+Bel was on the road with the greys.
+
+She'd come up from the camp behind everybody else with all three of them on ropes. Mabbin and Sorrel, wild, rearing at the smoke and the noise and the people, and Old Grey between them with his head low, walking through all of it as if it were a road. Bel was at Mabbin's head, hanging on to her halter with both hands and being lifted off her feet every time the mare went up.
+
+Maren got to Sorrel's halter.
+
+"Who are you?" Bel shouted.
+
+"Maren Ashdown."
+
+Bel stared at her.
+
+"Get them in," said Maren. "The gate's wide enough. Go on."
+
+They got them in, somehow. Mabbin went through the gate on her hind legs, screaming. Sorrel went after her mother. Old Grey went last, with Bel at his head now, walking through the gateway into Greyhold's yard as if it were his own paddock, head low, steady, while the crowd scattered round his feet.
+
+At the far side of the gateway, inside, he stopped. He turned his head.
+
+Toward the yard. Toward a thin girl with a great deal of hair, standing on the cobbles by the Long Barn with her arms out, saying his name.
+
+---
+
+Pell was in the gateway when she turned round.
+
+He'd come back. Up the road from where the twelve had stood. There weren't twelve now. She counted five. Two students, bloodied, holding each other up. One of the old knights of the gate, with his helm gone and his white hair red. The cook's boy, without his cleaver. And Pell.
+
+He had blood all down the left side of his coat. He was walking very straight.
+
+He saw her.
+
+He stopped in the gateway and looked at her, and at the sword in her hands. The river watch sword from the ditch. Not blunt.
+
+"Ashdown," he said.
+
+"Sir."
+
+He looked at the sword a moment longer.
+
+"Subdue," he said. "Don't kill." Then, very quietly: "Unless you have to. I never told you that part. I should have." He looked past her into the yard. At the refugees. At the greys. At the girl by the Long Barn with her arms round the grey's foreleg. "You'll not be let in. You know that."
+
+"I know."
+
+"Rowan's orders. My orders. Nobody can unsay them but her." He swayed a little and caught himself on the gatepost. "I'd let you in. I want you to know that. I'd let you in."
+
+Down the road, the hounds came.
+
+---
+
+They came the way the hounds at the Redwatch landing had come, the morning Bracken died. Out of the smoke down the road. Low. Brindled. In a pack. Silent. With a man in grey walking behind them with his arm up. And behind him, the men with rings, and the men off the boats with spears, coming on again now that the twelve were five.
+
+Pell looked at them.
+
+"Shut it," he said. Not loud. To the people in the gateway behind him. "Shut it behind me."
+
+"*Sir…*"
+
+"Shut it." He pushed the two students back through the gap, one hand on each, and they went. He pushed the cook's boy. The old knight of the gate looked at him, and at the hounds, and went through too. "Shut it," said Pell again, and turned his back on them, and stepped out into the road in front of the gate.
+
+They shut it. She heard the great oak leaf swing to behind him, and the bar go down.
+
+He stood with his back to it.
+
+He looked round once. At her, on the road beside the gate, with the sword. He nodded. Once. The way he nodded at the straw men in the yard when somebody did it right.
+
+The hounds reached him.
+
+---
+
+She'd see it for the rest of her life.
+
+Not much of it. She was fighting herself. Two of the hounds came past Pell for her, and she did what he'd taught her a thousand times, close and take the weapon arm, except a hound has no weapon arm, it is all weapon, and she did what she had to. *Unless you have to.* She did it. And then the third. How long, she couldn't have said. She didn't feel anything. Her arms did it.
+
+When she could look, Pell was still standing.
+
+In the gateway. With his back to the shut gate. With hounds round him on the road, three, four, that weren't moving. With his sword in his three-fingered hand. With more coming.
+
+The noon bell went.
+
+Over their heads. From the north tower. One long stroke, and then another, the way it rang every day of the year, whatever happened, because it always had. She heard it go out over the yard behind the wall, and the river, and the road, and the smoke.
+
+Nobody said the oath. Not inside the wall, that she could hear. Not outside. Not her. The bell rang and rang over Greyhold and nobody turned east and nobody said anything at all.
+
+Pell stood in the gateway under the bell with his back to the gate.
+
+Then he sat down.
+
+With his back against the oak. The way an old man sits down on a bench in the sun. He sat down in the gateway with his sword across his knees and his long legs out in front of him on the cobbles, and looked down the road at the men coming up it, and the smoke.
+
+She got to him.
+
+She was on her knees beside him in the gateway with the sword in the road and her hands on his coat. His coat was wet through.
+
+"Ashdown," he said.
+
+"Don't talk."
+
+"Everybody says that." He almost smiled. His long grey face was very calm. "Did I tell you about Aldo Venn?"
+
+"Yes. On the bench. In the autumn."
+
+"Good." He looked at her. "Subdue," he said. "Don't kill. Unless you have to." He shut his eyes. "That's the whole of it. All the rest's straw men."
+
+The bell stopped.
+
+He didn't say anything else.
+
+---
+
+The orders came back in the middle of the afternoon.
+
+She was still in the gateway. She'd pulled Pell's body back into the angle of the gate and the wall, out of the road, and sat in front of it with the sword. The Restoration had pulled back from the walls an hour before, down the road toward Millbrook, the way men pull back from something that's cost too much, and left the road full of what it had cost. Liss had found her there. Liss had come round the outside of the wall from the ferry house landing, where she'd been ferrying people into the water-gate below the landing all morning, and sat down beside her, and not said anything.
+
+The horns came down the River Road from the north.
+
+Riders. A lot of them. Galloping. With greyharts. With dust going up behind them. At the head, small and straight on a tall grey horse, Rowan.
+
+Half of them. Maren could see that, even from the gateway. Half of what had gone up the road the day before. The other half still at Redwatch, on the bank, where the noise was still coming from, faint, three leagues off. Rowan had turned back with half when she saw the smoke. Too late.
+
+They came up the road to the gate and pulled up.
+
+Rowan looked down from her horse at the gateway. At the road. At the hounds lying in it. At the dead. At Pell, in the angle of the gate and the wall, with his sword across his knees. At Maren, sitting in front of him in the road with a river watch sword in her lap, in her shirt, with blood to the elbow.
+
+She looked at Maren. Then at Pell. She got down off her horse and went to him, and stood over him. She took off her glove and put her bare hand on his shoulder.
+
+Then she turned round to the gate.
+
+"Open," she said. "And bring him in."
+
+She didn't say *bring her in.* She didn't look at Maren again. She went through the gate, and the riders after her, and they carried Pell in on a door, and the gate shut.
+
+---
+
+Liss put her hand on Maren's arm.
+
+Maren looked up. Her mother was looking south. Down the River Road. Toward Millbrook.
+
+The smoke over the town had got bigger. Much bigger. A great black wall of it now, leaning north on the wind, with red under it. Not one column. The whole town.
+
+*No Millbrook house'll burn.*
+
+"Tam," said Liss.
+
+Maren got up. She picked up the sword.
+
+"Stay here," she said. "By the gate. With them. With Wren."
+
+"Maren…"
+
+"Stay here." She was already walking. "I'll bring him."

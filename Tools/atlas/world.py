@@ -192,7 +192,7 @@ place("ewehollow", "Ewe Hollow", "village", "saltreach", 181.4, 107.0,
       "Sheep folk in a fold of the hills east of Harrow's End: a dozen crofts, a wool barn, and a lot of dogs.", scope="marches")
 place("northwatch", "Northwatch", "tower", "hearthmere", 174.4, 91,
       "A patrol tower on the River Road, manned by the river watch. Signal fires on the roof. Maren served here.", scope="marches")
-place("redwatch", "Redwatch", "tower", "hearthmere", 172.8, 99,
+place("redwatch", "Redwatch", "tower", "hearthmere", 174.3, 101.9,
       "The watch tower nearest the Old Ruin, red sandstone, half a league from the bank. The river watch's patrol boats are kept in its boathouse.", scope="marches")
 place("brackenwood", "The Brackenwood", "landmark", "hearthmere", 168, 111.2,
       "Old oak and bracken west of Greyhold, a royal hunting ground. Deer, boar, and the beasts the knights pretend aren't there.", scope="marches")

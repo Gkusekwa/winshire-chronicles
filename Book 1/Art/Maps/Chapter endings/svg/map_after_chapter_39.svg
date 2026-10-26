@@ -3053,7 +3053,7 @@
 <circle cx="240.0" cy="990.0" r="4.8" fill="#ffffff" stroke="#111111" stroke-width="1.3"/>
 <path d="M168.0,921.2 L174.1,934.4 L161.9,934.4 Z" fill="#ffffff" stroke="#111111" stroke-width="1.2"/><circle cx="168.0" cy="930.0" r="1.6" fill="#111111"/>
 <path d="M552.0,279.2 L558.1,292.4 L545.9,292.4 Z" fill="#ffffff" stroke="#111111" stroke-width="1.2"/><circle cx="552.0" cy="288.0" r="1.6" fill="#111111"/>
-<path d="M270.0,462.0 h14.0 M273.5,462.0 v5.2 M280.5,462.0 v5.2" stroke="#111111" stroke-width="1.6"/>
+<path d="M297.0,543.0 h14.0 M300.5,543.0 v5.2 M307.5,543.0 v5.2" stroke="#111111" stroke-width="1.6"/>
 <path d="M537.0,369.2 v17.5 M531.8,374.5 h10.5" stroke="#111111" stroke-width="2.2"/>
 <path d="M312.2,571.6 h17.5" stroke="#111111" stroke-width="1.2"/><path d="M312.2,576.0 h12.2" stroke="#111111" stroke-width="1.2"/><path d="M312.2,580.4 h17.5" stroke="#111111" stroke-width="1.2"/>
 <path d="M318.3,617.3 L327.0,604.1 L335.8,617.3 Z M327.0,604.1 v13.1" fill="#ffffff" stroke="#111111" stroke-width="1.4"/>
@@ -3078,7 +3078,7 @@
 <polygon points="198.0,493.1 200.1,499.7 206.6,497.2 202.7,502.9 208.7,506.4 201.8,507.0 202.7,513.9 198.0,508.8 193.3,513.9 194.2,507.0 187.3,506.4 193.3,502.9 189.4,497.2 195.9,499.7" fill="#111111" fill-opacity="0.85" stroke="#111111" stroke-width="0.8"/>
 <path d="M171.2,453.3 L188.8,470.8 M188.8,453.3 L171.2,470.8" stroke="#111111" stroke-width="2.6"/><path d="M170.4,456.8 l4.4,-4.4 M189.6,456.8 l-4.4,-4.4" stroke="#111111" stroke-width="1.6"/>
 <path d="M441.2,1685.2 L450.0,1672.1 L458.8,1685.2 Z M450.0,1672.1 v13.1" fill="#ffffff" stroke="#111111" stroke-width="1.4"/>
-<circle cx="258.0" cy="468.0" r="22" fill="none" stroke="#111111" stroke-width="2.2" stroke-dasharray="5 3"/><path d="M249.2,459.2 L266.7,476.7 M266.7,459.2 L249.2,476.7" stroke="#111111" stroke-width="2.6"/><path d="M248.4,462.7 l4.4,-4.4 M267.6,462.7 l-4.4,-4.4" stroke="#111111" stroke-width="1.6"/>
+<circle cx="294.0" cy="552.0" r="22" fill="none" stroke="#111111" stroke-width="2.2" stroke-dasharray="5 3"/><path d="M285.3,543.3 L302.8,560.8 M302.8,543.3 L285.3,560.8" stroke="#111111" stroke-width="2.6"/><path d="M284.4,546.8 l4.4,-4.4 M303.6,546.8 l-4.4,-4.4" stroke="#111111" stroke-width="1.6"/>
 <g><path d="M261.6,683.9 v-10.9 h4.2 v3.4 h4.2 v-3.4 h4.2 v3.4 h4.2 v-3.4 h4.2 v3.4 h4.2 v-3.4 v10.9 Z" fill="#ffffff" stroke="#111111" stroke-width="1.4"/></g>
 <g><path d="M310.0,589.8 v-8.0 a3.6,3.6 0 0 1 7.2,0 v3.2 M320.4,589.8 v-5.6 a2.8,2.8 0 0 1 5.6,0" fill="none" stroke="#111111" stroke-width="1.5"/></g>
 <g><circle cx="369.0" cy="570.0" r="4.4" fill="#ffffff" stroke="#111111" stroke-width="1.4"/></g>
@@ -3092,7 +3092,7 @@
 <g><circle cx="369.0" cy="510.0" r="4.4" fill="#ffffff" stroke="#111111" stroke-width="1.4"/></g>
 <g><circle cx="492.0" cy="690.0" r="4.4" fill="#ffffff" stroke="#111111" stroke-width="1.4"/></g>
 <g><path d="M279.0,216.0 v-10.8 h6.0 v10.8 Z" fill="#ffffff" stroke="#111111" stroke-width="1.3"/></g>
-<g><path d="M231.0,456.0 v-10.8 h6.0 v10.8 Z" fill="#ffffff" stroke="#111111" stroke-width="1.3"/></g>
+<g><path d="M276.0,543.0 v-10.8 h6.0 v10.8 Z" fill="#ffffff" stroke="#111111" stroke-width="1.3"/></g>
 <g></g>
 <g></g>
 <g></g>
@@ -3109,8 +3109,8 @@
 <text x="380.6" y="498.4" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="23.8" text-anchor="start" fill="none" stroke="#ffffff" stroke-width="3" >Upper Rush</text><text x="380.6" y="498.4" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="23.8" text-anchor="start" fill="#111111">Upper Rush</text>
 <text x="475.4" y="698.3" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="23.8" text-anchor="end" fill="none" stroke="#ffffff" stroke-width="3" >Ewe Hollow</text><text x="475.4" y="698.3" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="23.8" text-anchor="end" fill="#111111">Ewe Hollow</text>
 <text x="265.4" y="217.9" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="22.6" text-anchor="end" fill="none" stroke="#ffffff" stroke-width="3" >Northwatch</text><text x="265.4" y="217.9" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="22.6" text-anchor="end" fill="#111111">Northwatch</text>
-<text x="234.0" y="431.4" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="22.6" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="3" >Redwatch</text><text x="234.0" y="431.4" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="22.6" text-anchor="middle" fill="#111111">Redwatch</text>
-<text x="162.5" y="469.4" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="21.1" text-anchor="end" fill="none" stroke="#ffffff" stroke-width="3" >Ferriby</text><text x="162.5" y="469.4" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="21.1" text-anchor="end" fill="#111111">Ferriby</text>
+<text x="262.4" y="544.9" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="22.6" text-anchor="end" fill="none" stroke="#ffffff" stroke-width="3" >Redwatch</text><text x="262.4" y="544.9" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="22.6" text-anchor="end" fill="#111111">Redwatch</text>
+<text x="197.5" y="469.4" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="21.1" text-anchor="start" fill="none" stroke="#ffffff" stroke-width="3" >Ferriby</text><text x="197.5" y="469.4" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="21.1" text-anchor="start" fill="#111111">Ferriby</text>
 <text x="132.0" y="292.4" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="21.1" text-anchor="middle" fill="none" stroke="#ffffff" stroke-width="3" >Penfold</text><text x="132.0" y="292.4" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="21.1" text-anchor="middle" fill="#111111">Penfold</text>
 <text x="653.5" y="275.9" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="italic" font-size="16.9" text-anchor="start" fill="none" stroke="#ffffff" stroke-width="3" >The Roosts</text><text x="653.5" y="275.9" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="italic" font-size="16.9" text-anchor="start" fill="#111111">The Roosts</text>
 <text x="494.5" y="455.9" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="16.9" text-anchor="start" fill="none" stroke="#ffffff" stroke-width="3" >The Ram's Head</text><text x="494.5" y="455.9" font-family="'IM Fell English', 'IM FELL English', Georgia, serif" font-style="normal" font-size="16.9" text-anchor="start" fill="#111111">The Ram's Head</text>

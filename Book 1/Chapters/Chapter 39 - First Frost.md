@@ -157,7 +157,7 @@ Maren sat in the chair by the bed and looked at the cat, and the cat looked back
 
 She went to the island on the second night.
 
-She didn't decide to. She sat by Ide's bed till Ide slept, if it was sleep, shallow and shaking, with her face in the hound's blanket. Then she got up. And went down to the landing in the dark, at past midnight, in the frost. Ottery wasn't there. She hadn't sent for him. She took his punt anyway, from where it lay at the foot of the steps, and poled it up the river alone, three leagues, against the current, in the dark, in the cold, with the thin ice cracking along the edges of the reeds like glass.
+She didn't decide to. She sat by Ide's bed till Ide slept, if it was sleep, shallow and shaking, with her face in the hound's blanket. Then she got up. And went down to the landing in the dark, at past midnight, in the frost. Ottery wasn't there. She hadn't sent for him. She took his punt anyway, from where it lay at the foot of the steps, and poled it across the channel alone, in the dark, in the cold, with the thin ice cracking along the edges of the reeds like glass.
 
 She didn't tell her mother. It was the first time.
 

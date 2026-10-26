@@ -37,7 +37,7 @@ Tobin read it over her shoulder and whistled. Across the table Haverly had one j
 
 ---
 
-Knight-Captain Ilse Rowan's room was at the top of the gatehouse tower, up a stair so narrow you had to turn your shoulders to climb it. It was small and square and perfectly bare: a table, two chairs, a shelf of ledgers, a window looking north up the river. Nothing on the walls. No beast on a perch, no bed in the corner, no dog. Nobody at Greyhold had ever seen the Knight-Captain with a beast, and nobody had ever had the nerve to ask whether that meant she didn't have one.
+Knight-Captain Ilse Rowan's room was at the top of the north tower, up a stair so narrow you had to turn your shoulders to climb it. It was small and square and perfectly bare: a table, two chairs, a shelf of ledgers, a window looking north up the river. Nothing on the walls. No beast on a perch, no bed in the corner, no dog. Nobody at Greyhold had ever seen the Knight-Captain with a beast, and nobody had ever had the nerve to ask whether that meant she didn't have one.
 
 She was writing when Maren came in, and she went on writing, and didn't look up.
 

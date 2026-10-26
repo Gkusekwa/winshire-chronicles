@@ -1,4 +1,4 @@
-# Chapter 23: Empty-Handed
+# Chapter 23: Proof
 
 <!-- notes
 POV: Maren

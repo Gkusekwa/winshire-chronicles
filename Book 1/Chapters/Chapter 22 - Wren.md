@@ -359,7 +359,7 @@ He asked.
 
 Ada nodded.
 
-"There's one I know," she said. "You've heard it. *Before the six, there was one.* I sing it at the fair. I sang it this year." She was looking at the lantern now, not at the dragon. "I sang it the way everybody knows it. Six verses. The six kingdoms going their six ways. The old ones going into the light. *Till the six are one again.*" She stopped. "That's how everybody knows it."
+"There's one I know," she said. "You've heard it. *Before the six, there was one.* I sing it at the fair. I sang it this year." She was looking at the lantern now, not at the dragon. "I sang it the way everybody knows it. Two verses and the hush. The old ones going into the light. The one falling into six. The last great beast lying down below. *Till the six are one again.*" She stopped. "That's how everybody knows it."
 
 He waited.
 
@@ -367,7 +367,7 @@ He waited.
 
 The lantern flame stood very still between them.
 
-"A seventh. My grandmother taught it to me. Not my mother: my grandmother, my father's mother, who came over the river from the Hearthmere side when she was a girl and never went back. She taught it to me when I was Wren's age, by her own fire, in my father's house up the beck. Once. She made me say it back to her till I had it. Then she took my hand and put it flat on her hearthstone and made me swear on it. That I'd never sing it. Never. Not at a fair, not to my children, not to anybody."
+"A third. My grandmother taught it to me. Not my mother: my grandmother, my father's mother, who came over the river from the Hearthmere side when she was a girl and never went back. She taught it to me when I was Wren's age, by her own fire, in my father's house up the beck. Once. She made me say it back to her till I had it. Then she took my hand and put it flat on her hearthstone and made me swear on it. That I'd never sing it. Never. Not at a fair, not to my children, not to anybody."
 
 "Why?"
 

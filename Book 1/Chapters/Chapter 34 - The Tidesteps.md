@@ -1,4 +1,4 @@
-# Chapter 34: The Leader, Again
+# Chapter 34: The Tidesteps
 
 <!-- notes
 POV: Calder

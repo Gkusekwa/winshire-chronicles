@@ -191,3 +191,16 @@ Massive, grey, plated, with one great horn and a smaller one behind it, short-si
 | **Bracken** | The Darrow girl's hound: brindled, waist-high. Killed at Redwatch. |
 | **Holm** | Merrow's ox-beast. Died of age with him. |
 | **White hump-ox** | Freed on Gallows Quay. Aurveth remembered one walking free on the bridge. |
+
+
+## Added while drafting Chapters 41–79
+
+- **The lion, 41–60.** Breaks the ice from above to drag Maren out (41). Lies in the arch; then from day 104 digs at the north-end pit, scraping at dressed stone. Roars on night 102 when Maren's hand is on the door; something far below pulls its chains taut, and three dragons answer. Lets Maren touch its mane (night 119), then lays its neck down for the collar to be struck off (day 120). Afterwards it lets her come to five paces and lay a hand on its foreleg. When it shakes, the island shakes; the ground loosens ahead of its claws when it digs. Still no bond and no words.
+- **The lion's collar:** hinged, the pin peened over; the ring of six on the outside and Odo Marl's crossed hammers inside.
+- **Morrow:** an old black dragon of the ledges, greying at the edges of her scales, bonded to Hallam Brecc. Lies down beside him at the ford.
+- **The Roosts, winter of Book 1:** a dozen dragons on the ledges, the eleven bonded pairs who won't fight kin; the unbonded hunt in the high glens.
+- **Beasts at the Ewe Beck camp:** bound hounds, two greyharts, a wyvern, Old Grey; and a pen of new-bought, unbound beasts (two young wolves each as big as a pony, a spotted marsh-cat, a yearling greyhart already seven feet at the shoulder) that Calder lets go into the forest.
+- **The Ram's Head lines:** a quarter-mile of bound beasts: hound packs, greyharts, dray-beasts, two wyverns, and one great humped shape Calder doesn't go near.
+- **Ironback:** a plated beast the size of a barn, grey-black, plates like doors, a snout horn as long as a man; fire doesn't burn it. One, bound, comes out of the Ram's Head lines onto the island (74) and falls into the cavern (76). Aurveth has seen them in the south, long ago.
+- **Orrun (the lion), after the bond:** speaks in Maren's head slowly and deeply, "like stones turning over in a riverbed"; the ground moves for him (stakes pulled, beacon-stones rolled, stone opening); can speak to dragons as far kin.
+- **The Last Titan, as seen (79):** lion-kin, the size of a hill; grey as old stone; a mane like a ridge of broken rock; plates along its back like the courses of a wall; wings of something like stone and something like leather, wider than the river; broken chain-ends on its legs; pale eyes. The ground heaves when it moves.

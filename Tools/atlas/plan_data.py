@@ -68,13 +68,13 @@ ch(16, "The Ford",
 ch(17, "Night on the Island",
    "The hunters come back, a dozen of them, with chains and a cage on a raft. Maren hides and watches them try to take something in the trees. It goes wrong. Men die. She runs for her boat.",
    "Dragon fire on the far bank: the Clan's first battle has begun.")
-ch(18, "Three Deaths",
+ch(18, "The Mill",
    "The Clan's battle spills onto the Fenn fields. Sigrun, Dag and Imra die. Their dragons, withering, are drawn to the injured Calder, and three bonds form almost at once. He takes the pull of three deaths.",
    "Through the chaos, a roar rolls across the river from the Old Ruin.", 10)
 ch(19, "The Roar",
    "The ancient lion wakes. Maren stands her ground through its roar and doesn't strike. It attacks anyway, and she barely survives.",
    "Three dragons scream across the water, and the sky over the far bank glows.", 11)
-ch(20, "Three Voices",
+ch(20, "Ashes",
    "Calder wakes with three marks and three grieving, raging minds in his head: Aurveth steady, Kharrak furious, Lisska joking to hide her grief. The village sees what he has become.",
    "The villagers say a monster woke at the Old Ruin the same night.", 12)
 ch(21, "Wounded",
@@ -83,13 +83,13 @@ ch(21, "Wounded",
 ch(22, "Wren",
    "Wren is the only person in Harrow's End who isn't afraid. Lisska adores her. The village elders want Calder gone. Ada admits the old song has a verse her grandmother taught her and made her swear never to sing.",
    "Fisk at the Eelweir says someone from Greyhold is still out on the island, and the monster hasn't killed her yet.")
-ch(23, "Empty-Handed",
+ch(23, "Proof",
    "Maren could take a lock of the lion's mane as proof but leaves it in peace. The trial is failed; Haverly passes his.",
    "At Greyhold everyone is talking about a farmer bonded to three dragons. No one believes it.", 15)
 ch(24, "Hunted",
    "Everyone wants the dragons: Ulric, Arn, Saltreach sellswords, and strangers paying in Restoration coin. Hob sells Calder's whereabouts. He leaves Wren with Ada and flees into the hills.",
    "Lisska spots a knight-student alone at the Old Ruin, with a beast that won't attack her.", 14)
-ch(25, "Disgrace",
+ch(25, "The Midden",
    "Maren is reassigned to the stables and the midden. Warden Osric Hale of the inner circle takes an interest and asks about the lion.",
    "Hale asks, too carefully, whether she has seen \"the dragon farmer.\"", 17)
 ch(26, "Why Me?",
@@ -106,7 +106,7 @@ ch(28, "Aurveth",
 ch(29, "Without Words",
    "Maren keeps returning to the island. The lion tolerates her at a distance. With no bond, everything between them is action: where she sits, what she doesn't do.",
    "A dragon's shadow passes over the ruin; the lion lifts its head and watches it go.", 21)
-ch(30, "The Village Burns",
+ch(30, "Harrow's End",
    "The civil war reaches Harrow's End again, with no winner and only damage. Calder uses the dragons to save people for the first time, and their rage leaks into him.",
    "Knights watch from the far bank and don't cross.", 18)
 ch(31, "Tam",
@@ -115,10 +115,10 @@ ch(31, "Tam",
 ch(32, "Sellswords",
    "Captain Idris Vey's company besieges Crow Scar. Kharrak wants to burn them; Calder won't let him. Lisska finds a way out. Calder decides to go south to Wendmouth to find Joss's greys and learn who is buying beasts.",
    "From the heights he sees Hearthmere knights riding out to a burning hamlet on their own bank.")
-ch(33, "The Leader",
+ch(33, "Ferriby",
    "On patrol, Maren glimpses the Restoration's leader at a raid on Ferriby: one man, quiet, precise, directing the raid like a game of stones.",
    "Hearthmere scouts report dragon fire over Harrow's End a week ago.", 19)
-ch(34, "The Leader, Again",
+ch(34, "The Tidesteps",
    "In Wendmouth, Calder hears the Restoration's leader speak to a crowd: warm, persuasive, a man people want to follow. It is the same day Maren saw him at Ferriby, a hundred leagues north, though nobody in the crowd can know that.",
    "A beast-seller grumbles about a Hearthmere knight-student up north who sits with monsters instead of killing them.", 20)
 ch(35, "The Mentor",
@@ -153,7 +153,7 @@ ch(43, "Footprints",
 ch(44, "The General's Silence",
    "Near the ruin, Aurveth feels something vast and wrong beneath the earth, and won't speak of it.",
    "Through the ice, the dragons hear knights singing at Greyhold: the oath, at midwinter.", 26)
-ch(45, "The Accusation",
+ch(45, "The Paper",
    "At Millbrook's midwinter fair, the Restoration publicly exposes Hearthmere's secret: a Titan chained beneath the kingdom, its power harnessed for centuries, most of Hearthmere's history built on it. Hearthmere calls it a lie.",
    "The Restoration names \"the dragon farmer\" as proof that the old powers are returning.", 25)
 ch(46, "The Forbidden Verse",
@@ -165,7 +165,7 @@ ch(47, "Lamps",
 ch(48, "Two Sides of a War",
    "Calder tries to make Ulric and Arn stop. Neither will.",
    "Arn mentions a Hearthmere student who keeps company with a monster: \"the kind of madness we could use.\"", 30)
-ch(49, "Confession",
+ch(49, "The Archive",
    "Maren confronts Hale. He confirms it: the knights' duty \"below\" is guarding the chains.",
    "Hale admits the inner circle fears the dragon farmer almost as much as the Restoration.", 27)
 ch(50, "Bel",
@@ -177,7 +177,7 @@ ch(51, "The Door",
 ch(52, "Kharrak",
    "Calder lets Kharrak burn a Restoration beast camp to free its captives. It is the first time he chooses violence. The Restoration names him an enemy.",
    "Across the river, Greyhold's bell rings at night: the knights saw the fire.")
-ch(53, "Kin",
+ch(53, "The Pit",
    "Maren understands why the lion lingers at the Old Ruin: what lies chained below is its kin. She goes to it knowing her kingdom imprisoned its family.",
    "Fire on the far bank: the farmer's dragons fighting off Restoration hunters.", 29)
 ch(54, "The Gathering",
@@ -209,13 +209,13 @@ ch(61, "Lucan",
 ch(62, "Before the Storm",
    "Harrow's End prepares to flee. Calder stays near the Old Ruin, where the answers might be, and because the Restoration is hunting him: every league between him and Wren keeps her safer.",
    "Smoke from Greyhold's forges; the knights are arming.", 32)
-ch(63, "Broken Oath",
+ch(63, "The Net",
    "Maren breaks the knightly oath to protect the lion and is cast out of Greyhold.",
    "Word arrives that the Restoration's leader is gathering forces at the Old Ruin.", 33)
-ch(64, "The Ferry",
+ch(64, "The Staithe",
    "Ada, Wren and Bel's family cross to Hearthmere as refugees on Liss Ashdown's ferry. Calder watches from the bank. Wren tells the ferrywoman about her father's dragons.",
    "On the Saltreach jetty, while they board, Liss says her daughter was cast out of the knights yesterday for loving a monster.")
-ch(65, "Outcast",
+ch(65, "The Red Door",
    "Maren with Tam in Millbrook, then alone on the island near the lion. Liss tells her about the Saltreach refugees she carried, and a girl called Wren.",
    "Wren's story: her father talks to dragons out loud and they answer.")
 ch(66, "The Ruin",
@@ -226,40 +226,40 @@ ch(66, "The Ruin",
 ch(67, "Muster",
    "The Restoration gathers on the island and along the Saltreach bank: boats, ladders, cages. Greyhold arms and shuts its gate. Outcast, Maren watches from the Brackenwood.",
    "The Old Ruin is full of fires and men.")
-ch(68, "Two Men",
+ch(68, "Under the Arch",
    "At the Old Ruin, right before the battle, the twins are revealed: the leader in two places was always two men. Hidden, Calder overhears them speak of the killing they arranged in the Dragon Clan. Rook is with them.",
    "They talk of \"the knight's lock\" beneath the school, without saying what it opens.", 34)
-ch(69, "War",
+ch(69, "The Gate",
    "The Restoration's first open war against the kingdoms breaks out: it crosses the river and drives toward Greyhold and the catacombs. Pell dies holding the gate.",
    "Rumours from the Saltreach side: the dragon farmer has gone to the Old Ruin.", 35)
-ch(70, "The Second Lock",
+ch(70, "The Rubbing",
    "Calder learns what the twins are after: two locks, here and beneath the knight school, opened at the same moment. He sends Lisska to warn whoever is at the other lock. She can't speak to anyone but him, so she carries what he can give her: the cut chain from the first night, wrapped in a strip of his shirt with one word burned into it with a coal, TWO, and Wren's blue hair-ribbon. Then he stays to fight.",
    "His choice to warn the student, a stranger he knows only by rumour.", 36)
-ch(71, "Millbrook Burns",
+ch(71, "Millbrook",
    "Millbrook burns. Maren pulls Tam out of the smithy and finds Tobin on the other side of the fight.",
    "Dragon fire over the Old Ruin, two colours of it. She doesn't know yet that a third is missing.")
-ch(72, "The Agent",
+ch(72, "The Spit",
    "In the fighting at the Ruin, Calder corners Rook. Rook dies before he can say anything useful; the proof dies with him.",
    "The bells of Greyhold stop.")
-ch(73, "The Sacrifice",
+ch(73, "Hollin Knowe",
    "Bond-forcers trap the lion at the edge of the Brackenwood. To save it, Maren offers her own life into the binding in its place. The lion accepts, and the bond forms: for the first time they understand each other. Its name is Orrun.",
    "Lisska lands beside her with a cut chain, a strip of cloth that says TWO, and a child's blue ribbon. Maren knows the ribbon from her mother's story: Wren's. The dragon farmer is warning her.", 37)
 ch(74, "Fire at the Ruin",
    "Calder and the dragons fight Corvin Vale at the Old Ruin's lock, and can't stop it opening.",
    "Through the earth, the dragons feel something vast beneath them begin to pull against its chains.", 38)
-ch(75, "Through the Cellars",
+ch(75, "The Stair",
    "Greyhold is breached. Kesh is killed, and Haverly dies in Maren's arms: one life between two. Hale, dying, gives her the cellar key. She and Orrun go down.",
    "Far below, someone is already at the second lock.")
-ch(76, "The Ruin's Lock",
+ch(76, "Seven",
    "Corvin's lock turns. The floor of the Old Ruin falls in, and Calder and the dragons fall with it into the catacombs.",
    "Two locks, one moment.")
-ch(77, "The Lock Gives Way",
+ch(77, "Midnight",
    "Beneath the school, Maren kills Cassian Vale just as his lock gives way. At the same moment, his brother opens the Old Ruin's lock, and the seal opens. Through the new bond, Maren feels Orrun learn what its kin has become: a world destroyer.",
    "The other lock opening, felt as the seal breaks.", 39)
 ch(78, "Underground",
    "The catacombs shake. Coming from opposite ends beneath the border, Calder and Maren meet for the first time.",
    "The stranger he warned, now in front of him.", 40)
-ch(79, "The Last Titan",
+ch(79, "Keep the Watch",
    "The Last Titan tears free of its chains and flies. Hearthmere's magic begins to fail. The book ends with the two of them watching it go.",
    "Both stories, together for the first time.", 41)
 

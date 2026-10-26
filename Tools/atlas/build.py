@@ -184,7 +184,7 @@ def write_progress():
         open(f"{d}/svg/map_after_chapter_{n:02d}.svg", "w").write(s)
         cairosvg.svg2png(bytestring=s.encode(), write_to=f"{d}/png/map_after_chapter_{n:02d}.png", output_width=1800, background_color="white")
     os.system(f'for f in {d}/png/*.png {fm}/*.png; do convert "$f" -colorspace Gray -units PixelsPerInch -density 300 "$f"; done')
-    os.system(f'montage -label "%t" {d}/png/map_after_chapter_*.png -tile 7x -geometry 220x+6+6 {d}/contact_sheet.png')
+    os.system(f'python3 contact.py {d}')
 
 
 # ---------------- maps ----------------

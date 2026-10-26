@@ -227,7 +227,7 @@ On the stair, in the dark, she stopped, and stood with her hand on the cold ston
 
 She went to the island the next night.
 
-She didn't tell Hale. She told her mother. Ottery took her, in the punt, in the frost, three leagues up the black river with the stars very sharp and the first thin ice beginning to form along the edges of the reeds, so that the punt went through it with a sound like breaking glass.
+She didn't tell Hale. She told her mother. Ottery took her, in the punt, in the frost, three leagues down the black river with the stars very sharp and the first thin ice beginning to form along the edges of the reeds, so that the punt went through it with a sound like breaking glass.
 
 The lion wasn't at the stream.
 

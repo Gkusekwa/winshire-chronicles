@@ -3,21 +3,22 @@
 <!-- notes
 POV: Maren
 Part: Part One: Two Banks
-Beats: Pell teaches subdue, don't kill, and shows the class why: the wild wyvern on the Saltreach road that took his fingers, and the knight who killed it and died of it. Tobin, unbonded and bitter, has a pamphlet with two words on it: "One again." Haverly and Kesh, and the shape of a rivalry that isn't hatred.
+Beats: Pell teaches subdue, don't kill, and shows the class why: the bonded wyvern on the coast road below Stillhaven that took his fingers, and the knight who killed it and died of it. Tobin, unbonded and bitter, has a pamphlet with two words on it: "One again." Haverly and Kesh, and the shape of a rivalry that isn't hatred.
 Echo of the other's story: News across the water: the Clan nearly came to blows at the old chief's ashes.
 Status: first draft
-Draft notes: About two weeks after Chapter 1, the days after the Millbrook fair and the night of the new moon. Decided here (proposal): Pell's story. Thirty-one years ago, a wyvern came out of a Saltreach company's camp on the coast road below Stillhaven; it took Pell's fingers; his friend Aldo Venn killed it with a spear. It was the rare thing, a bonded wyvern: bonded to a pirate girl of about fifteen, who dropped dead on the shingle a hundred yards away. Aldo walked into the sea at Stillhaven a year later. Maren's report from Chapter 5 went up to Knight-Captain Rowan and came back with one word: "Noted." Tobin's pamphlet: a woodcut of six hands joined in a ring, and two words.
+Draft notes: About ten days after Chapter 1, the days after the Millbrook fair and the night of the new moon. Decided here (proposal): Pell's story. Thirty-one years ago, a wyvern came out of a Saltreach company's camp on the coast road below Stillhaven; it took Pell's fingers; his friend Aldo Venn killed it with a spear. It was the rare thing, a bonded wyvern: bonded to a pirate girl of about fifteen, who dropped dead on the shingle a hundred yards away. Aldo walked into the sea at Stillhaven a year later. Maren's report from Chapter 5 went up to Knight-Captain Rowan and came back with one word: "Noted." Tobin's pamphlet: a woodcut of six hands joined in a ring, and two words.
+Magic touches: Pell had a licensed battle-word to make a horse stand; it worked, and the wyvern took the horse standing.
 notes -->
 
 ---
 
-The yard at Greyhold has a wall on its east side that the students call the Lesson Wall, though nobody can tell you who started calling it that. It's the oldest part of the fort: rough grey ragstone, blackened at the bottom by three hundred years of rain splash, with a stone bench along its foot. On the bench, every autumn, the instructors sit the first-years down and tell them the things they will need to know in order not to die. The students sit facing the wall, because the instructors stand with their backs to it, and so for the length of a lesson there is nothing in front of you but a man talking and a wall that has heard it all before.
+The yard at Greyhold has a wall on its east side that the students call the Lesson Wall, though nobody can tell you who started calling it that. It's the oldest part of the fort: rough grey ragstone, blackened at the bottom by three hundred years of rain splash, with a stone bench along its foot. On the bench, every autumn, the instructors sit the year down and tell them the things they will need to know in order not to die. The students sit facing the wall, because the instructors stand with their backs to it, and so for the length of a lesson there is nothing in front of you but a man talking and a wall that has heard it all before.
 
 Pell's lesson came on the morning after the new moon. It always did. He was, everyone agreed, the only instructor at Greyhold who timed his lessons by the moon, and nobody had ever had the nerve to ask him why.
 
 ---
 
-The Millbrook fair had come and gone, and Tam with it. He'd come home for three days to the ferry house with a knife for their mother that he'd made himself and was enormously proud of, and that Liss said was very fine and put in the drawer, and he'd told the story of the duskcat at the supper table four times. Each time the boatmen got bigger and there were more of them and Maren's practice sword got more like a real one. By the third night there were ten boatmen and she'd cut the padlock in half. By the fourth night their mother had started laughing in the middle of it, helplessly, with her hand over her eyes, and Tam had looked hurt, and then laughed too.
+The Millbrook fair had come and gone, and Tam with it. He'd come home for three days to the ferry house with a knife for their mother that he'd made himself and was enormously proud of, and that Liss said was very fine and put in the drawer, and he'd told the story of the duskcat at the supper table four times. Each time the boatmen got bigger and there were more of them and Maren's practice sword got more like a real one. By the second night there were ten boatmen and she'd cut the padlock in half. By the third night their mother had started laughing in the middle of it, helplessly, with her hand over her eyes, and Tam had looked hurt, and then laughed too.
 
 "Tell it right," Maren had said.
 
@@ -79,7 +80,7 @@ He lowered the hand.
 
 "They had wyverns. Two of them. You've seen wyverns, some of you, from a distance, going over the coast. You know what they are. Two legs and two wings and a tail with a barb on it. Not dragons. Not clever. A hawk's mind in a horse's body. The Saltreach companies tame them with a hood and a hook and an empty belly, and they're never really tame; they're just frightened in the right direction. Most handlers lose a hand sooner or later. Some lose more.
 
-"One night one of the wyverns got loose. It came up off the shingle onto the coast road, where we were riding, in the dark. It took my horse first. Then it took these." He held up the hand again, briefly. "I'd put my arm up, the way you're taught not to. I was nineteen."
+"One night one of the wyverns got loose. It came up off the shingle onto the coast road, where we were riding, in the dark. It took my horse first. I'd a licence for one battle-word, the one to make a horse stand, which the Keep still taught to anyone who'd pay the fee, and I said it, and my horse stood, and the wyvern took it standing. Then it took these." He held up the hand again, briefly. "I'd put my arm up, the way you're taught not to. I was nineteen."
 
 The grey cat on the wall top opened one eye.
 
@@ -157,11 +158,11 @@ He hadn't done that since the bout. She didn't know if it meant anything. With P
 
 They worked at the posts in the long autumn light, with their practice swords, slowly at first and then less slowly, Pell walking up and down behind them saying *feet, feet, your feet are lying to you, Haverly*, and Kesh sitting on the fence rail watching with her flat gold eye. Haverly was good. He was better than he'd been at the bout. He'd been working; she could see it in the way he held his weight now, lower, more patient, and she thought: he's been practising against what I did to him. He's been practising against me.
 
-She found she didn't mind. She found, in fact, that she rather liked it.
+She found she didn't mind.
 
 Halfway through, Kesh came off the rail.
 
-It wasn't an attack. It was the same thing as the bout: the falcon opening her wings, all at once, a flare of feathers at the edge of sight, at exactly the moment Maren set her weight. And Maren's head started to turn, the way it had on the river watch, the way four winters had taught it to, and she stopped it. She stopped it halfway. She felt the turn start in her neck and she said *no*, inside, and held it, and kept her eyes on Haverly's chest, and his blade came past her ribs and she was already inside it.
+It wasn't an attack. It was the same thing as the bout: the falcon opening her wings, all at once, a flare of feathers at the edge of sight, at exactly the moment Maren set her weight. And Maren's head started to turn, as eight winters on the river watch had taught it to, and she stopped it. She stopped it halfway. She felt the turn start in her neck and she said *no*, inside, and held it, and kept her eyes on Haverly's chest, and his blade came past her ribs and she was already inside it.
 
 She didn't put him on the sand. She stopped with her pommel a finger's width from his breastbone and held it there.
 
@@ -189,11 +190,9 @@ Behind them, Pell said nothing at all, which from Pell was very high praise, and
 
 Maren went back to her mark. She thought: he's not my enemy. He never was. He's just a person who's been given everything, and knows it, and hasn't worked out yet what to do about it. She thought: neither have I.
 
-She didn't know, yet, whether that made them alike.
-
 ---
 
-That evening, on the river wall, it was Weir's boy who brought the news from across the water, the way Weir's boy brought all the news, because his uncle ran the barges.
+That evening, on the river wall, it was Weir's boy who brought the news from across the water, as he brought all the news, because his uncle ran the barges.
 
 "They nearly went at each other," he told the little crowd of students at the north corner, with the pleasure of a boy who knows something nobody else does. "At the ashes. Up at that black lake of theirs, Coldtarn. Last night, at the new moon. The whole Clan up there, and the dragons all round on the cliffs, hundreds of them, my uncle's man said. And the brother and the son had a row at the water over who got to tip the old chief in, and the son put his hand on his sword, in front of everyone, and the brother's men put their hands on theirs."
 
@@ -211,4 +210,4 @@ She thought of Pell's story. She thought: subdue, don't kill. Take the wound. Ta
 
 She thought: there's someone over there who does that, too.
 
-She stood on the wall until the light went, and then went down, and didn't sleep for a long time, and didn't know why.
+She stood on the wall until the light went, and then went down, and didn't sleep for a long time.

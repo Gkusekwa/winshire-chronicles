@@ -12,15 +12,16 @@ Draft notes: Eleven days after Chapter 8; the new barley is in, and this is the 
 - Teo asks Calder to stand witness at the ford meeting with Ulric. On the ledge Teo speaks low; at the foot of the cliff path he turns and repeats the time and place out loud, three paces from Rook, who is mending a halter by the stable door.
 - Calder sees the mark on Rook's knife, recognises it, and says nothing.
 These carry forward: Chapter 12 (Teo confirms the day), 14 (Calder, on his way to witness, finds Teo's body), 50 (the chain), 58 (Calder sees Rook again), 68 and 72.
+Magic touches: Ada's dry-weather words at the field gate before harvest.
 notes -->
 
 ---
 
-The Clan has a saying about strangers: *a man with no sheep has no story.* In the Scarfell, everybody is somebody's. You belong to a farm, or a family, or a hall, or a dragon, and if anyone asks who you are, you tell them whose you are, and they know. A man who can't do that, who turns up at the hold gate with good boots and no sheep and no name anybody's heard, is either a fool or a liar. The Clan doesn't mind fools. It has plenty of its own.
+The Clan has a saying about strangers: *a man with no sheep has no story.* A man who turns up at the hold gate with good boots and no sheep and no name anybody's heard is either a fool or a liar. The Clan doesn't mind fools. It has plenty of its own.
 
 ---
 
-The new barley was in. It had been a good harvest at Harrow's End, the best in five years, golden and heavy and dry, and everyone had cut it in a week with their backs aching and their hands blistered and the dragons going over every afternoon like clouds. The first of it went up to the hold for the winter stores. That was the custom. And Calder took it, because the cart was his and the barley was mostly his and, if he was honest, because some part of him wanted to go back.
+The new barley was in. It had been a good harvest at Harrow's End, the best in five years, golden and heavy and dry, and Ada had stood at the field gate every dawn saying the dry-weather words over it, which for once the weather had listened to, and everyone had cut it in a week with their backs aching and their hands blistered and the dragons going over every afternoon like clouds. The first of it went up to the hold for the winter stores. That was the custom. And Calder took it, because the cart was his and the barley was mostly his and, if he was honest, because some part of him wanted to go back.
 
 He didn't examine that part too closely. He took Sorrel again, with Joss's blessing, and Wren stood at the gate and made him promise three times that if he saw the green dragon he would tell it she said hello.
 
@@ -70,7 +71,7 @@ And the boots. Calder looked at them and knew he'd seen boots like them before. 
 
 "A friend's."
 
-"Lucky friend." He came over, not too close, and stood with his hands in his pockets, looking at Sorrel the way you'd look at a picture. "Rook," he said. "I'm with Ulric's people. Taken on after the funeral."
+"Lucky friend." He came over, not too close, and stood with his hands in his pockets, looking at Sorrel. "Rook," he said. "I'm with Ulric's people. Taken on after the funeral."
 
 "Fenn. Harrow's End."
 
@@ -104,7 +105,7 @@ They went up the cliff path in the wind, with the iron rail cold under Calder's 
 
 Sigrun nodded to him. Dag Rorke looked up from his axe and said, "Farmer. Late," and went back to it. Imra jumped up.
 
-"He came! I told you he'd come! Lisska, look—"
+"He came! I told you he'd come! Lisska, look…"
 
 But Lisska had already seen. She came out of the back of the cave in one long, quick, dark-green pour, past Imra, past the brazier, and stopped with her long narrow head a hand's width from Calder's face, and looked at him with her pale green eyes, everywhere at once, the way she had before.
 
@@ -116,7 +117,7 @@ Lisska blinked, slowly. Then she pushed her nose, very gently, against his chest
 
 "She does?"
 
-"She says…" Imra stopped. She looked at the dragon with a little frown, the way you'd look at a friend who'd said something you didn't expect. "She says to tell the small one she remembers her. And she says she likes you. She says you smell like barley and a cow." Imra laughed, but there was something under it. "She's never said she likes anyone who wasn't Clan. Not once. In nine years."
+"She says…" Imra stopped. She looked at the dragon with a little frown. "She says to tell the small one she remembers her. And she says she likes you. She says you smell like barley and a cow." Imra laughed, but there was something under it. "She's never said she likes anyone who wasn't Clan. Not once. In nine years."
 
 Behind them, at the back of the cave, Aurveth opened one gold eye and looked at Calder, and didn't close it again.
 
@@ -124,7 +125,7 @@ Behind them, at the back of the cave, Aurveth opened one gold eye and looked at 
 
 Teo sat down by the brazier and pulled Calder down beside him, and talked low, with the wind taking his words out over the hollow so that nobody below could have heard them. Up here, at least, he was careful.
 
-"I've got him," he said. "Uncle Ulric. I've got him to agree to meet. Not in the hall, not with the two fires and everyone watching. Just him and me and Arn, if I can get Arn to come, which I will. At the ford on Hollow Beck, below the hold, where the Way crosses. Neutral ground. Old ground. My grandfather and his brothers used to settle things there when they were young, before anybody was chief of anything." He was lit up, the way he'd been at Coldtarn, the way of someone who has decided that something will work because it has to. "No men. Six on each side, no more, and they stay back on the banks. Just us in the water. And witnesses."
+"I've got him," he said. "Uncle Ulric. I've got him to agree to meet. Not in the hall, not with the two fires and everyone watching. Just him and me and Arn, if I can get Arn to come, which I will. At the ford on Hollow Beck, below the hold, where the Way crosses. Neutral ground. Old ground. My grandfather and his brothers used to settle things there when they were young, before anybody was chief of anything." He was lit up, as he'd been at Coldtarn: a man who has decided that something will work because it has to. "No men. Six on each side, no more, and they stay back on the banks. Just us in the water. And witnesses."
 
 "Witnesses?"
 
@@ -154,7 +155,7 @@ He thought: he walked out onto the stone at Coldtarn with his hands empty.
 
 He saw the knife on the way down.
 
-They came down the cliff path in the late afternoon, Teo ahead of him talking over his shoulder about the fair and the ford and what he'd say to Arn, and at the bottom, where the path came out onto the yard by the lower stable, he turned round on the last step, still lit up, and said it again, out loud, in the open, the way you say a thing you're happy about: "Four days after your fair, Fenn. Noon. The ford on Hollow Beck. Don't you dare forget."
+They came down the cliff path in the late afternoon, Teo ahead of him talking over his shoulder about the fair and the ford and what he'd say to Arn, and at the bottom, where the path came out onto the yard by the lower stable, he turned round on the last step, still lit up, and said it again, out loud, in the open: "Four days after your fair, Fenn. Noon. The ford on Hollow Beck. Don't you dare forget."
 
 And a man was sitting on a bucket by the stable door, three paces away, mending a halter.
 

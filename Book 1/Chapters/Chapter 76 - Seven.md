@@ -8,7 +8,7 @@ Echo of the other's story: Two locks, one moment.
 Status: first draft
 Carried forward: From Chapter 74: the round chamber off the ledge; the stone disc as wide as a threshing floor, carved in rings of the old letters; the iron boss; Corvin's long black key; the hour-candle; Calder held by four of Delling's men; Kharrak digging down through the tower floor; the ironback in the fort; the six chains going taut; "Seven."
 Draft notes: Midnight, night one hundred and forty-three. Decided here (proposals):
-- The count goes down. At "three" Kharrak comes through the dome of the chamber: rock and earth and the floor of the tower coming down with him, and daylight-less sky above, and fire. The men holding Calder let go. Calder goes for the key. He gets his hand on Corvin's wrist.
+- The count goes down, Corvin saying each number as the candle-flame touches the next notch (not by breaths). At "three" Kharrak comes through the dome of the chamber: rock and earth and the floor of the tower coming down with him, and daylight-less sky above, and fire. The men holding Calder let go. Calder goes for the key. He gets his hand on Corvin's wrist.
 - At "one" Corvin turns the key anyway, with Calder's hand on his wrist. It turns as if it wanted to. The whole stone disc turns with it, a quarter-turn, grinding, the carved rings of letters sliding past each other.
 - The echo: in the same breath, from far away, under the river, toward Greyhold, the same sound. A great grinding turn, through all that rock. Two locks. One moment. Calder feels it through his knees. Corvin, kneeling, smiles for the only time.
 - The seal opens. Not a door: the whole floor. The disc drops away under them, and the chamber floor round it, and the ledge, and the tower above, and the fort above that. The Old Ruin falls into the cavern.
@@ -16,12 +16,13 @@ Draft notes: Midnight, night one hundred and forty-three. Decided here (proposal
 - Corvin: Calder sees his lantern going up, not down, on the far side of the hole: a second stair, an older one, cut into the rock, that he must have known was there. Two of his men with him. He doesn't look back.
 - Kharrak comes down out of the falling stone onto the rubble beside them, cut and burned and alive. The ironback falls past them into the dark and doesn't make a sound when it lands.
 - They're at the bottom of the world. The six chains go up past them into the dark, taut, and down into a deeper dark ahead. Something is moving at the bottom of them. The anchor-stones the chains run through are cracking.
-- Lisska: the feeling of her, very far off, in the other direction. Under Greyhold. Down. Coming toward them through the rock. Calder doesn't understand it.
+- Lisska: the feeling of her, very far off, in the other direction, by Greyhold, under the other bank, and still (she's at the top of the archive stair over Haverly; she starts to move only in 78, after the seal breaks). Through her, faintly, something large, old and warm somewhere below her, and a person. Calder doesn't understand it.
+- Magic (proposal): the disc's letters brighten through the count. At "three" the Fellow (74) spends his last release on Kharrak's head as he comes through the dome; Kharrak's fire goes up into the dome, and the Fellow drops, burned out, hair white in a breath. He goes down with the disc when the floor drops and dies there; the three figures on the older stair are Corvin and two of his men. When the disc turns, the lined-up letters blaze white rim to boss (matches 77). Corvin still turns the key with Calder's hand on his wrist.
 notes -->
 
 ---
 
-"Six," said Corvin.
+"Six," said Corvin, as the flame touched the next notch.
 
 The dust came down out of the dome in a thin grey stream onto the carved stone between them. Small stones with it, pattering. Over their heads, through the rock, through the floor of the tower, the sound of Kharrak digging. Claws in stone. Closer. A second crack ran across the dome from the passage to the far wall.
 
@@ -35,9 +36,13 @@ All of them at once. Going taut, the way they'd gone taut before, but further. H
 
 The candle-flame on the floor beside the iron boss bent sideways and stood up again.
 
+The letters in the stone disc were brighter. Calder saw it under his own knees. The rings of them coming up white out of the grey, ring after ring, the way coals come up when you work the bellows, and not going down again.
+
+On the edge of the disc the grey man got to his feet.
+
 "Four," said Corvin.
 
-He hadn't moved. He knelt on the iron boss in the middle of the stone disc with his long pale hand on the bow of the key and his face turned down to it, calm, the way a man kneels at a wayside shrine. He didn't look up at the dome, or the dust, or Calder.
+He hadn't moved. He knelt on the iron boss in the middle of the stone disc with his long pale hand on the bow of the key and his eyes on the candle, calm, the way a man kneels at a wayside shrine. He didn't look up at the dome, or the dust, or Calder.
 
 *Kharrak,* said Calder. *Kharrak, now, now, now…*
 
@@ -47,11 +52,17 @@ He hadn't moved. He knelt on the iron boss in the middle of the stone disc with 
 
 The dome came in.
 
-Not all of it. The part over the passage. Where the crack was. It came down in one great slab, rock and earth and stone, and the noise of it was the loudest thing Calder had ever heard, louder than the river going out, and through the hole where it had been, out of the dark and the dust, came Kharrak.
+Not all of it. The part over the passage. Where the crack was. It came down in one great slab, rock and earth and stone, and the noise of it was louder than the river going out, and through the hole where it had been, out of the dark and the dust, came Kharrak.
 
 Head first. Rust-red, filthy, bleeding from a long cut down his side, with his claws still out from the digging and the fire coming up in his throat. He came through the hole in the dome into the chamber with the floor of the tower coming down round him in pieces, and the light of his fire went over everything, white, and the men holding Calder let go.
 
 They didn't decide to. They saw a dragon come through the roof and their hands opened.
+
+The grey man didn't run. He planted his feet on the white letters and threw his hands up at Kharrak's head.
+
+The weight hit Kharrak in the face. Calder felt it through the red mark, like a fist on his own nose. Kharrak's head went back and sideways and the fire in his throat went up into the broken dome instead of out, and he came down off the rubble onto his knees on the edge of the disc, shaking his head.
+
+The grey man fell over. Straight down, like a coat dropped off a peg. Calder saw his face as he went, and his hair, and his hair had gone white from the roots, all of it, in a breath.
 
 Calder went for the key.
 
@@ -87,6 +98,8 @@ And the whole stone disc turned with it.
 
 Calder felt it go under his knees. The great carved floor as wide as a threshing floor, grinding, turning, a quarter of a turn. The rings of letters cut in it sliding past each other. Ring past ring. The letters in each ring meeting the letters in the next, and stopping, in a line. A line of letters from the rim to the iron boss, all at once, where there'd been no line before.
 
+It lit. The whole line, white, rim to boss, so bright it came up through his knees and he saw the bones of his own hand round Corvin's wrist, dark inside the skin.
+
 The grinding stopped.
 
 And in the same breath, a long way off, under the river, toward Greyhold, the same sound.
@@ -95,11 +108,11 @@ He felt it through his knees. Through the stone disc. Through the rock. Far off.
 
 *Two hands.*
 
-Corvin felt it too. Calder saw him feel it. Kneeling on the iron boss with his hand on the key and Calder's hand on his wrist, he lifted his head, very slightly, the way a man lifts his head to listen to a bell a long way off.
+Corvin felt it too. Calder saw him feel it. Kneeling on the iron boss with his hand on the key and Calder's hand on his wrist, he lifted his head, very slightly, listening.
 
 And he smiled.
 
-It was the only time Calder ever saw him do it. A small smile. Not like his brother's. Not warm. Satisfied. The smile of a man at the weighing-post when the sack comes out at the weight he said.
+It was the only time Calder ever saw him do it. A small smile. Not like his brother's. Satisfied. The smile of a man at the weighing-post when the sack comes out at the weight he said.
 
 ---
 
@@ -107,7 +120,7 @@ The seal opened.
 
 He'd thought it would be a door. Something that swung, or slid, or lifted.
 
-The floor went. The stone disc dropped. All of it. Out from under him. Not breaking: dropping, whole, the way a trap-door drops, and he was on it, kneeling, and then there was nothing under his knees at all. And the chamber floor round it went too, the rock round the rim cracking away in a great ring and going down after it. The passage too, and the ledge beyond it.
+The floor went. The stone disc dropped. All of it. Out from under him. Dropping, whole, like a trap-door, and he was on it, kneeling, and then there was nothing under his knees at all. And the chamber floor round it went too, the rock round the rim cracking away in a great ring and going down after it. The passage too, and the ledge beyond it. The grey man went down with the disc, lying where he'd fallen, and didn't move.
 
 And above.
 
@@ -185,7 +198,7 @@ It was dark. Not black. Somewhere above, very far up, there was light: a ragged 
 
 Kharrak came down the slope.
 
-Out of the dark above them. Not flying. Sliding, clawing, falling and catching himself, in a shower of loose stone, with his wings half open and jammed with rubble and his head down. He came down the slope of fallen rock onto the stones beside them and stopped, and stood there, swaying.
+Out of the dark above them. Sliding, clawing, falling and catching himself, in a shower of loose stone, with his wings half open and jammed with rubble and his head down. He came down the slope of fallen rock onto the stones beside them and stopped, and stood there, swaying.
 
 Cut. Burned. One horn broken off short. Blood running down his side from the ironback and from the rock and from the digging, and his claws torn. Alive.
 
@@ -195,7 +208,7 @@ He put his head down to Calder.
 
 "Yes."
 
-*I felt you fall.* The red tide was low. Lower than Calder had ever felt it. *I couldn't reach you. I was in the rock.*
+*I felt you fall.* The red tide was low. *I couldn't reach you. I was in the rock.*
 
 "She caught me."
 
@@ -223,7 +236,7 @@ A lantern. Small. Yellow. Moving.
 
 Going up.
 
-He watched it. It went up slowly, back and forth, back and forth, the way a light goes up a stair cut into the face of a cliff. A stair he hadn't known was there. An older one. Cut into the far wall of the cavern, going up to somewhere he couldn't see. Three figures with it. One tall and thin, going first, not hurrying, not looking down.
+He watched it. It went up slowly, back and forth, back and forth. A stair he hadn't known was there. An older one. Cut into the far wall of the cavern, going up to somewhere he couldn't see. Three figures with it. One tall and thin, going first, not hurrying, not looking down.
 
 Corvin had known it was there. Of course he had. He'd read the verse. He'd read the cut pages, or the ones that hadn't been cut, or whatever the Restoration had that Hearthmere didn't. He'd known the floor would go. He'd knelt on the iron boss with his hand on the key and counted down to one and turned it, and when the floor went he'd been a step from the edge of it, and the stair.
 
@@ -245,7 +258,7 @@ And going down. Ahead of him. Into a deeper dark at the bottom of the cavern, fu
 
 Something was moving down there.
 
-Not the dark moving, or water turning over. Something he couldn't see the edges of, that filled the deep dark at the bottom of the cavern the way the dark filled it, lifting, the way a hill would lift if a hill could stand up.
+Not the dark moving, or water turning over. Something he couldn't see the edges of, that filled the deep dark at the bottom of the cavern, lifting, the way a hill would lift if a hill could stand up.
 
 The chains groaned.
 
@@ -263,11 +276,9 @@ A long dark line running across the face of it, from the iron eye outward. Getti
 
 He felt something.
 
-Far off. Not above. Not from the hole where the Ruin had been, where the fire was. The other way. Across the cavern, through the rock, toward the far side of the river. Toward the Hearthmere bank. Toward Greyhold.
+Far off. Not from the hole where the Ruin had been, where the fire was. The other way. Across the cavern, through the rock, toward the far side of the river. Toward the Hearthmere bank. Toward Greyhold.
 
-Down.
-
-A small bright fire. Green. Frightened. Coming toward him.
+A small bright fire. Green. Frightened. Far off, under the other bank, and still.
 
 He stood on the rubble and stared into the dark toward it.
 
@@ -275,18 +286,16 @@ He stood on the rubble and stared into the dark toward it.
 
 No answer. No words. Too far still, through too much rock. But the feeling. He'd know it anywhere. He'd felt it go west over the Brackenwood at first light with a bundle in her claw, going further and further until it was nearly nothing.
 
-Now it was coming back. Through the dark, under the river, from the far side of the cavern, from under the school. Down. Toward him.
+Now it was there again. On the far side of the river, by the school. Still.
 
 He didn't understand it.
 
-*How?* he thought. *She can't be under the school. She can't be down here. How can she be coming from there?*
+*How?* he thought. *What's she doing at the school?*
 
 Beside it, so close to it he could hardly tell them apart, there was something else.
 
-Not his. He couldn't feel it the way he felt her. He felt it through her, the way he'd felt Morrow through Aurveth at the ford. Something very large, and very old, and warm, like the ground in summer. Coming with her. Through the dark.
+Not his. He couldn't feel it the way he felt her. He felt it through her, the way he'd felt Morrow through Aurveth at the ford. Something very large, and very old, and warm, like the ground in summer. Somewhere under her, down in the dark.
 
 With it, smaller, almost nothing, so faint he'd have missed it if Lisska hadn't been holding on to it the way she held on to him: somebody.
 
 A person.
-
-Coming.

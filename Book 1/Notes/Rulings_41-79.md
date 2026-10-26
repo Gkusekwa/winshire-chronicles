@@ -26,3 +26,29 @@
 20. Chapter titles changed so the contents don't give away twists: 18 The Mill, 20 Ashes, 23 Proof, 25 The Midden, 30 Harrow's End, 33 Ferriby, 34 The Tidesteps, 45 The Paper, 49 The Archive, 53 The Pit, 63 The Net, 64 The Staithe, 65 The Red Door, 68 Under the Arch, 69 The Gate, 70 The Rubbing, 71 Millbrook, 72 The Spit, 73 Hollin Knowe, 75 The Stair, 76 Seven, 77 Midnight, 79 Keep the Watch.
 
 Open for the author: day 0's season ("summer" vs "autumn" in the opening weeks); whether Rook's report that Arn threw Gunna out and Ulric listened is Book 2 setup; how much Aurveth should hedge her account of the waking (Ch 70).
+
+# Rulings from the full audit (Oct 2026)
+*From `/home/claude/audit/DECISIONS.md` and the author's decisions on the audit; binding on the revision. Each changes or fixes canon.*
+
+21. No casting by Maren or Calder in Book 1: Maren's settling-word and stanching-word (Ch 5, 19, 21) are cut, and bond gifts are not casting. The rule in `Magic.md` §10a stands.
+22. Maren joined the river watch at 17 and served eight winters on it, then two years at Greyhold; she is 27 ("four winters" becomes "eight winters").
+23. Island trips start at Redwatch (Ruling 7 stands): Redwatch is on the Hearthmere bank opposite the island, half a league across the west channel; Greyhold is about three leagues downriver.
+24. Haverly's trial across the river is a known exception: out of uniform, without the pin, and "you were never there".
+25. Kesh chose Haverly at fifteen (Ch 3 changed from fourteen).
+26. Renames: Merrow's ox-beast Holm becomes **Dun**; the Ch 33 sergeant of the Redwatch tower, Brask, becomes **Tasker**.
+27. Ch 16: "ten or eleven" other bonded riders, to agree with the eleven pairs on the ledges.
+28. The other Titans: the hints in Ch 77 ("There were destroyers once…") and Ch 79 ("It wants them awake") are cut; the pull "toward somewhere a long way off" is the only hint (Ruling 15).
+29. The keys: the Watch-captain's key (Thorne's) opens the black door and turns the knight's lock, once for each of the Watch on the night they're sworn; Callis took it from Thorne at the gate and Cassian turned the knight's lock with it (77). Corvin's key for the Ruin's lock is older, its bow cut with the same hooked marks as the boss (74); where he got it is a Book 2 thread. Hale's key is the archivist's.
+30. The countdown: the twins count to marks on a candle or glass, not breaths; Cassian says "four" only when the flame touches the mark.
+31. Odo's hundred collars were ordered "in the spring, before the summer" (65, 71).
+32. The drawer at the gate is Halloran's, lent to Delling; Calder recognises her from Gallows Quay (34).
+33. Rowan took every rider who could sit a horse back up the River Road to Redwatch at dusk on day 143, so she isn't in Greyhold when the gate falls (75).
+34. The Fellow, the ring-broken Isvaren drawer, dies when the cavern floor drops (76); Calder's view ties him to Isvaren.
+35. Rook's ledger went into Delling's chest (72 or 74), for Book 2.
+36. Ch 67: Maren goes halfway down toward Rowan's column; a greyhart scents Orrun, and she turns back.
+37. Calendar: Book 1 runs from the harvest fair at the end of summer (day 0) to sunrise on day 144, in early spring; midwinter is about day 88. The prose seasons govern; the day numbers in the notes run fast after midwinter and are kept as an order, not a dated calendar. Book 2 runs about a year from early spring (midsummer about its day 98, midwinter about day 281); Book 3 runs from spring to the end of the next winter, its final battle in deep winter.
+38. *The Six Who Sleep* is retired as a title option. "The Unbound" stays both Book 1's working title and the seventh ring's name for now; the choice is open for the author.
+39. `Book 2/Chapter_Plan.md` (revision 4) and `Book 3/Chapter_Plan.md` (revision 1) replace the Outline files. Book 2 has three POVs (S Maren, F Calder, R Idony); Book 3 seven (S, F, R, G Rowan, C Arn, U Tobin, M Kit Merrin, a new Blackwater reef-pilot whose family carries Maren and Calder over the sea). Both are provisional.
+40. **These are beast books, not dragon books** (the author). Dragons are one kind of beast among many, the Dragon Clan's. Every kingdom's own beasts carry weight in its chapters, its set pieces and the war; the sky is shared (dragons, Worldsend rocs, Isvaren stormkites, Saltreach wyverns, every tower's falcons; `Bestiary.md`, The sky).
+
+*The earlier "Open for the author" items:* answered: day 0's season (the author: end of summer; `Bible/Story.md`); how much Aurveth hedges in Ch 70 (drafted with "I think"). Still open: whether Rook's report that Arn threw Gunna out and Ulric listened is Book 2 setup (proposed in Book 2 ch 10, 12).

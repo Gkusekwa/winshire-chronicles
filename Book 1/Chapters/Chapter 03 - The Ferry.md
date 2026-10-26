@@ -7,11 +7,12 @@ Beats: Maren crosses at dawn on her mother's ferry to learn what burned. Liss As
 Echo of the other's story: At the staithe they talk about a Harrow's End farmer who ran two leagues in the dark to his sister's burning farm.
 Status: first draft
 Draft notes: The morning after Chapters 1 and 2. New minor characters: old Tolly and his eel weirs; Greta, who smokes the eels. Plants: the barge that went downriver in the night with no lights, poled not rowed (the raiders' cart went to the river); the river-watch law against landing on the island, which nobody can explain. Liss knows the Fenns by name from the trade.
+Magic touches: Liss: words said over running water go downriver, so ferry people don't bother with charms.
 notes -->
 
 ---
 
-On the river they say the ferry is older than the school, and that it was here when the fort was a quarry and the quarry was a hill, and that the first ferryman was a woman, because a man would have built a bridge and the river would have taken it. Nobody knows if this is true. It is the kind of thing ferry people say. But the guide rope is real, and old, and has been spliced so many times that there is probably not an inch of the first rope left in it, and every morning for thirty years Liss Ashdown has put her hand on it before she does anything else, the way some people touch a doorpost.
+The ferry's guide rope had been spliced so many times that there was probably not an inch of the first rope left in it, and every morning for thirty years Liss Ashdown had put her hand on it before she did anything else. It was the nearest thing to a charm that ferry people bothered with. A word said over running water goes downriver with everything else, Liss said, and you might as well say it to the eels.
 
 She was touching it now, in the grey before sunrise, when Maren came down the landing steps.
 
@@ -41,7 +42,7 @@ It was quiet at this hour. Mist lay on the water in a flat white skin, just deep
 
 "You were going to."
 
-"I was going to say," said her mother mildly, "that the Haverly boy's father bought him a master in Ashford when he was ten and a falcon found him when he was fourteen, and you've had a pole and a river and nothing else your whole life, and you still put him on his back. That's what I was going to say. I'm not going to say it now, because you'll argue."
+"I was going to say," said her mother mildly, "that the Haverly boy's father bought him a master in Ashford when he was ten and a falcon found him when he was fifteen, and you've had a pole and a river and nothing else your whole life, and you still put him on his back. That's what I was going to say. I'm not going to say it now, because you'll argue."
 
 Maren leaned on the pole. The boat slid. Somewhere off to the left a heron got up out of the mist with a noise like someone shaking out a wet sheet.
 
@@ -55,7 +56,7 @@ They were halfway across when the sun came up behind the Saltreach bank and turn
 
 Maren looked at it the way she always looked at it, which was without meaning to.
 
-She had poled past that island a thousand times. Four winters on the river watch, out of Northwatch and Redwatch, up and down this stretch in the long patrol boats with three oars a side and a lantern in the bow. You learned every bar and snag on the river. You learned the island too, from the water: the gravel spit at its south end where the current split, the east channel that was faster and the west channel that silted every summer, the place where the old bridge piers broke the surface in a dry year like the backs of drowned animals. You learned not to look at it too long at night. You never landed.
+She had poled past that island a thousand times. Eight winters on the river watch, out of Northwatch and Redwatch, up and down this stretch in the long patrol boats with three oars a side and a lantern in the bow. You learned every bar and snag on the river. You learned the island too, from the water: the gravel spit at its south end where the current split, the east channel that was faster and the west channel that silted every summer, the place where the old bridge piers broke the surface in a dry year like the backs of drowned animals. You learned not to look at it too long at night. You never landed.
 
 Nobody landed. It was the first thing they taught you, before they taught you to row.
 
@@ -99,11 +100,11 @@ Tolly's Staithe had been awake for hours. Fishing people get up before everyone 
 
 "I'm on time. Everybody else is late." Her mother stepped onto the jetty with the rope's end and made it fast without looking. "Where's Tolly?"
 
-"Up at Upper Rush with half the staithe, looking at what's left. You'll have seen it."
+"Out on the weirs since before light. You'll have seen the fires."
 
-"We saw it."
+"We saw them."
 
-"Everybody saw it." Greta's eyes went to Maren and stayed there, and moved over the coat and the school shirt under it, and came back to her face. Maren knew that look. The far bank had a dozen ways of looking at someone from Greyhold, and this was the polite one. "This your girl? The knight?"
+"Everybody saw them." Greta's eyes went to Maren and stayed there, and moved over the coat and the school shirt under it, and came back to her face. Maren knew that look. The far bank had a dozen ways of looking at someone from Greyhold, and this was the polite one. "This your girl? The knight?"
 
 "Not a knight yet," said Maren.
 
@@ -111,7 +112,7 @@ Tolly's Staithe had been awake for hours. Fishing people get up before everyone 
 
 ---
 
-The smoke house was hot and dark and smelled so strongly of eel that after a while you stopped smelling it and started tasting it instead. There were half a dozen people in there, fishing folk and a woman Maren didn't know with a baby, all talking at once, the way people talk after a fire, when nobody has slept and the worst is over and the news is still new enough to be worth having.
+The smoke house was hot and dark and smelled so strongly of eel that after a while you stopped smelling it and started tasting it instead. There were half a dozen people in there, fishing folk and a woman Maren didn't know with a baby, all talking at once, as people do after a fire, when nobody has slept and the worst is over and the news is still new enough to be worth having.
 
 Maren sat on an upturned crate in the corner with a cup of something hot and brown, and listened.
 
@@ -123,7 +124,7 @@ It came out in pieces. Upper Rush, two leagues upriver of Harrow's End: four far
 
 "The Clan doesn't hide its face," said the woman with the baby.
 
-"The Clan doesn't need a cart, either." That was a thin old man who'd come in behind them, still wet to the knees, with the look of someone who has been walking around a burnt place all morning. Tolly. Maren knew him from the river; he'd sold the watch eels for years and sworn at their wakes for longer. He sat down heavily on a sack. "They had a cart. Big one, iron tyres. You can see where it went."
+"The Clan doesn't need a cart, either." That was a thin old man who'd come in behind them, still wet to the knees, with the look of a man who hasn't slept. Tolly. Maren knew him from the river; he'd sold the watch eels for years and sworn at their wakes for longer. He sat down heavily on a sack. "Hollin's lad came down from Upper Rush in the night. They had a cart. Big one, iron tyres. He saw where it went."
 
 "Went where?"
 
@@ -177,7 +178,7 @@ Maren said nothing. She was poling. The boat moved. The rope came up out of the 
 
 "From Tam?"
 
-"Who else is your brother?" Liss pulled a folded scrap of paper out of her sleeve and held it up without giving it to her. "He's coming home for the harvest fair. Five days. He says the smith's letting him off for three days, which I'll believe when he's sitting at my table, and he says, and I'm reading this exactly, *Tell Maren I've something to show her that'll make her eyes pop out.*"
+"Who else is your brother?" Liss pulled a folded scrap of paper out of her sleeve and held it up without giving it to her. "He's coming home for the harvest fair. Six days. He says the smith's letting him off for three days, which I'll believe when he's sitting at my table, and he says, and I'm reading this exactly, *Tell Maren I've something to show her that'll make her eyes pop out.*"
 
 "That sounds like Tam."
 

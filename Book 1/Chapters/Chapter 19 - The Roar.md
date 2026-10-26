@@ -15,11 +15,12 @@ Draft notes: Decided here (proposals):
 - The lion tears the stake out of the stones, and the iron opens the forefoot. It goes away south along the shore, limping, bleeding, with the chain still on it. That's the wound in Chapter 21.
 - Earth and stone: when it roars the shore shivers, pebbles jump, and a crack runs across a bridge block. When it turns over in the hollow (Chapter 17) the ground heaves with it and a stone cracks. This is the first faint sign of its elemental power, which grows with its size through the series.
 - She is alive because it didn't put its weight into the blow. She doesn't know that yet. The reader can suspect it.
+Magic touches: none by Maren (she casts nothing in Book 1). On the bridge pier she thinks of the surgeon's staunching-word and doesn't say it: she has no licence, and over running water it would only go downriver.
 notes -->
 
 ---
 
-Pell told her once, in the first month at Greyhold, that there are only two ways to stand in front of something that can kill you. You can stand as if you're going to kill it first. Or you can stand as if you're not there at all. Every other way of standing, he said, is just a slower way of lying down. She'd asked him which way was right. He'd looked at her with his ruined hand on the yard rail and said, *the one you can live with afterwards, if there is an afterwards.* She'd thought it was the kind of thing old soldiers said to sound wise. She'd thought that for two years.
+Pell told her once, in the first month at Greyhold, that there are only two ways to stand in front of something that can kill you. You can stand as if you're going to kill it first. Or you can stand as if you're not there at all.
 
 ---
 
@@ -35,7 +36,7 @@ It went on. And on. Three voices, tangled, going up and up, until the sky over t
 
 Then it stopped.
 
-Not faded. Stopped. All three at once, as if a door had shut on them.
+All three at once, as if a door had shut on them.
 
 She lifted her head.
 
@@ -53,7 +54,7 @@ She sat very still on the grass and listened, and there was nothing. Only the ri
 
 Then, from the north, from the dark under the oaks, a sound like a tree coming down.
 
-A crack. A long splintering tearing crack, and a crash, and the shaking in the ground she'd felt in the hollow, when the hill turned over. But not once. Again. And again. Coming nearer. Heavy, and slow, and uneven, the way a big horse walks when it's lame. Under it, clinking, dragging, a sound she knew. Chain. Chain dragging over roots, over stones, catching and pulling free.
+A crack. A long splintering tearing crack, and a crash, and the shaking in the ground she'd felt in the hollow, when the hill turned over. But not once. Again. And again. Coming nearer. Heavy, and slow, and uneven, like a lame horse. Under it, clinking, dragging, a sound she knew. Chain. Chain dragging over roots, over stones, catching and pulling free.
 
 It was coming down the path. The worn path, the cart-wide path, the path its own feet had made coming down to drink at the stream on the west shore, for longer than the moss had been growing in its prints.
 
@@ -81,7 +82,7 @@ It came out of the trees onto the top of the shore and stood there, and the ligh
 
 It was bigger than anything she had words for. Longer than a hay wain. Taller at the shoulder than the biggest dray-beast in Greyhold's stables, nearly twice a man's height, so that its head, held low, was still above hers, and she'd have had to stand on a cart to touch its shoulder, and broad, and heavy, and hung with a mane so great that it seemed to have a second, darker animal crouched round its head and neck and chest. The mane was grey. Not the grey-gold of its flanks: grey, iron grey, gone almost white at the roots, like an old man's beard. Old leaves were caught in it. Moss. A long tangle of something like ivy, trailing. It had been lying a long time.
 
-Its face was long and heavy and broad between the eyes, and scarred, and it held its head low, the way a bull does. Its eyes were pale. Almost colourless. Like river ice in the morning, with the light coming through it.
+Its face was long and heavy and broad between the eyes, and scarred, and it held its head low, like a bull. Its eyes were pale. Almost colourless. Like river ice in the morning, with the light coming through it.
 
 From its near forefoot, chain trailed. Two loops of it, still round the great foot just behind the toes, where the men in the hollow had laid it. One end hung loose. The other ran back along the ground behind it into the trees, taut, and at the end of it, where the men had driven the stake, the stake was still on it, iron, as long as her arm, dragging, digging a long furrow in the earth.
 
@@ -131,7 +132,7 @@ The lion came down the shore toward her.
 
 It came slowly. That was the worst of it. Everything about it was slow. It came the way the foot had closed on the young man in the hollow, lazily, almost gently, with its head low and its shoulders rolling and its great paws coming down one after another on the grass without a sound. Only the chain made a sound. The chain dragged and clinked, and the stake at the end of it furrowed the earth behind.
 
-She had the sword up. She didn't remember lifting it. Pell's sword, his own, the one he'd given her at the door of the barracks with his ruined hand and said *bring it back.* Up, in both hands, the point toward the lion's face, the way he'd taught her, the way she'd stood a thousand times in Greyhold's yard against Haverly and the others and the straw men.
+She had the sword up. She didn't remember lifting it. Pell's sword, his own, the one he'd given her at the armoury door with his ruined hand and said *bring it back.* Up, in both hands, the point toward the lion's face, the way he'd taught her, the way she'd stood a thousand times in Greyhold's yard against Haverly and the others and the straw men.
 
 *You can stand as if you're going to kill it first.*
 
@@ -217,7 +218,7 @@ It turned, and went away along the shore, south, toward the spit. Slowly. On thr
 
 She lay on the pier and the night went on.
 
-She didn't sleep. She was too cold to sleep, and her arm was too bad. She got her belt off, after a while, one-handed, with her teeth, and got it round the top of her arm above the cuts and pulled it tight, the way they taught on the river watch, and the bleeding slowed. She lay with her cheek on the wet stone and looked at the fire on the far bank, which was going down now, the mill a red heap and the fields black, and thought about nothing.
+She didn't sleep. She was too cold to sleep, and her arm was too bad. She got her belt off, after a while, one-handed, with her teeth, and got it round the top of her arm above the cuts and pulled it tight, the way they taught on the river watch, and the bleeding slowed. She thought of the staunching-word the surgeon said over cut knees, and didn't bother. She had no licence for it, and out here, with the river going by on both sides, it would only have gone downriver. She lay with her cheek on the wet stone and looked at the fire on the far bank, which was going down now, the mill a red heap and the fields black, and thought about nothing.
 
 Some time toward dawn, she thought: *the sword.*
 
@@ -225,7 +226,7 @@ Pell's sword was in the river. She'd had it in her hand when the lion struck her
 
 *Bring it back,* he'd said.
 
-She lay on the stone and cried, then, for the first time. Not for her arm, or the boat, or the trial, or the men in the hollow. For the sword. It seemed stupid. She knew it was stupid. She did it anyway, quietly, with her face on the cold stone and the river going past below.
+She lay on the stone and cried, then, for the first time. Not for her arm, or the boat, or the trial, or the men in the hollow. For the sword. She knew it was stupid. She did it anyway, quietly, with her face on the cold stone and the river going past below.
 
 When she'd finished, she lay still and thought about the claws.
 
@@ -235,10 +236,10 @@ It had been awake on the shore. It had been angry. It had smelled the men who ch
 
 She was alive.
 
-She lay on the stone and worked at it in her mind, the way you'd work at a knot in wet rope, and couldn't make it come out any way that made sense. Either it had meant to kill her and missed, which she didn't believe. Or it hadn't meant to.
+She lay on the stone and worked at it in her mind, like a knot in wet rope, and couldn't make it come out any way that made sense. Either it had meant to kill her and missed, which she didn't believe. Or it hadn't meant to.
 
 The light came up grey over the Saltreach bank. The birds started in the trees on the island, one, then another. Across the river, the smoke from Harrow's End went up in a long, thin, crooked column into the morning, and somewhere in the hills, very far off, a horn blew. Just one. Nobody answered it.
 
 She lay on the top of the first pier of the old bridge, in the middle of the river, between the two banks, belonging to neither, with her arm bound tight and her teeth chattering, and watched the sun come up.
 
-She was alive. Somewhere on the island, along the shore, under the trees below the fort, the lion was lying wounded in its own blood with a chain on its foot, and she was the only person in the world who knew it was there.
+Somewhere on the island, along the shore, under the trees below the fort, the lion was lying wounded in its own blood with a chain on its foot, and she was the only person in the world who knew it was there.

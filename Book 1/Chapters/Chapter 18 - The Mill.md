@@ -236,7 +236,7 @@ He knew that sound. Everyone in the Marches knew it, from the autumn shoots on t
 
 On Lisska's back, Imra Sallow put her hand up to her throat.
 
-Then she was falling sideways out of the saddle, slowly, the way you fall when you've been asleep and forgotten you're on a horse, and the green dragon was coming down, too fast, wrong, tumbling, into the stubble at the bottom of the field, and rolling, and lying still.
+Then she was falling sideways out of the saddle, slowly, like someone who has fallen asleep on a horse, and the green dragon was coming down, too fast, wrong, tumbling, into the stubble at the bottom of the field, and rolling, and lying still.
 
 And then the crying.
 

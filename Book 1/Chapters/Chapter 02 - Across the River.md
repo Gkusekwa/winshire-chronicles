@@ -1,13 +1,14 @@
 # Chapter 2: Across the River
 
 <!-- notes
-POV: The farmer
+POV: Calder
 Part: Part One: Two Banks
 Beats: Farm life on the Saltreach side. The old chief has died. His mother, Ada, sings the old song: "before the six, there was one," the gods who walk unbound, and the Last Titan.
 Echo of the other's story: Knights' lanterns on the far bank at night; his family says the knights never cross.
 Status: first draft
 Thread resolved: the fires Maren sees at the end of Chapter 1 are farms at Upper Rush, raided in the night for beasts and burned; the village blames the Clan's quarrel. Calder pockets a length of beast chain and says nothing. (Readers later learn it was the Restoration.)
 Draft notes: Same day as Chapter 1. The seven dragons are the Clan's funeral flight along the border. Bel (Calder's sister) lives at Upper Rush with her husband, Joss. New minor characters: Bramble the cow, Hob the miller, Davy Garrow. The song's last line, "till the six are one again," quietly echoes the Restoration's oath, "One again."
+Magic touches: Ada's cow-words (work one time in three); Hob's warranted charm-tag on the mill wheel; Ada on the crown lamps on Greyhold's wall.
 notes -->
 
 ---
@@ -54,7 +55,7 @@ She looked at him over the bowl, a long, level look that was entirely Senna's. T
 
 ---
 
-The cow had an abscess in her hoof and no opinions about the Clan. He liked her for it.
+The cow had an abscess in her hoof and no opinions about the Clan. He liked her for it. Ada had said her cow-words over the foot two mornings running, which worked about one time in three, and this was not one of the three, so now it was the knife.
 
 He had Bramble tied short to the ring in the byre wall and her off-hind foot up on his knee, and he was talking to her the whole time because she liked that, and because his father had talked to cows and Calder had never found a reason to stop. "There," he told her. "That's the bad bit. Hold still. Hold still, you great soft lump. Nobody's cutting anything off you that you'll miss."
 
@@ -84,7 +85,7 @@ Calder wiped his hand on his trousers, which did nothing, and went to get Wren's
 
 In the afternoon he took the last of the old barley to the mill, because Hob had sent twice for it, and because the mill was where you went if you wanted to hear things without being seen to want to.
 
-Harrow's End was thirty-one houses, a mill, a shrine to the gods at the crossroads, and one long argument about water that had been running since before anyone could remember. The houses were river stone at the bottom and tarred timber at the top, with turf on the roofs that the goats got onto every spring. Hollow Beck ran down through the middle of it from the Scarfell, fast and brown, and turned Hob's wheel, and went on into the Wend opposite the Old Ruin, where nobody went.
+Harrow's End was thirty-one houses, a mill, a shrine to the gods at the crossroads, and one long argument about water that had been running since before anyone could remember. The houses were river stone at the bottom and tarred timber at the top, with turf on the roofs that the goats got onto every spring. Hollow Beck ran down through the middle of it from the Scarfell, fast and brown, and turned Hob's wheel, and went on into the Wend opposite the Old Ruin, where nobody went. The wheel had a charm-tag nailed to its hub that Hob had paid a Wendmouth contract-man two silver for, warranted, and it squealed exactly as it always had.
 
 There were eight men at the mill and none of them were grinding anything.
 
@@ -98,7 +99,7 @@ There were eight men at the mill and none of them were grinding anything.
 
 "Then it's the sons showing Ulric. Either way." Hob slapped the sack down. "Somebody's counting."
 
-They argued it the way men argue weather. Ulric Varr, the old chief's brother, the best warrior the Clan had, with more men in his hall than his brother ever had in his. Everyone had always said Ulric should have been chief and then everyone had always said it quietly. Arn, the elder son, who had his father's name in his favour and his father's temper against him. Teo, the younger, who had come through Harrow's End at lambing two springs ago with a dozen riders and a hangover, and had stayed three days to help pull lambs because, he said, he'd never done it, and everyone in the village had liked him for it, and been a little ashamed of liking him.
+They argued it like weather. Ulric Varr, the old chief's brother, the best warrior the Clan had, with more men in his hall than his brother ever had in his. Everyone had always said Ulric should have been chief and then everyone had always said it quietly. Arn, the elder son, who had his father's name in his favour and his father's temper against him. Teo, the younger, who had come through Harrow's End at lambing two springs ago with a dozen riders and a hangover, and had stayed three days to help pull lambs because, he said, he'd never done it, and everyone in the village had liked him for it, and been a little ashamed of liking him.
 
 "Teo'll keep the peace between them," said Garrow's son. "He's the only one both sides listen to."
 
@@ -185,7 +186,7 @@ He was running before he'd decided to.
 
 It was two leagues up the river lane to Upper Rush. He'd never run it before. By the time he got there his chest was a fist and there were four other men from Harrow's End strung out behind him on the lane with lanterns, Garrow and his son and Hob, of all people, and one of the Tanner boys, and the fires had mostly done what fires do.
 
-Upper Rush was four farms in a hollow above the river. Two of the barns were gone, just gone, black ribs standing up in a red glow, and the third was going, and there was no point in water. People stood around in their nightclothes in the yard of the nearest farm, the way people do, holding things they'd grabbed without thinking. A woman with a clock. A boy with one boot.
+Upper Rush was four farms in a hollow above the river. Two of the barns were gone, just gone, black ribs standing up in a red glow, and the third was going, and there was no point in water. People stood around in their nightclothes in the yard of the nearest farm, holding things they'd grabbed without thinking. A woman with a clock. A boy with one boot.
 
 Bel was in the middle of them, filthy to the elbows, with her husband Joss beside her and their two little ones wrapped together in one blanket at her feet. She saw Calder and her face went through about five things and landed on angry, which was how he knew she was all right.
 
@@ -219,7 +220,7 @@ Not up toward the lane and the hills and Varrhold. Down. Toward the river.
 
 The Clan didn't use carts. The Clan didn't need to. Anything the Clan wanted, it carried home in the air.
 
-He walked along the ruts a little way, out of the lantern light, and something turned under his boot. He bent and picked it up. A length of chain, five links, as long as his forearm, the last link cut clean through. Not bent, not snapped. Cut. The metal was dark and good and heavier than it should have been, and each link had a mark stamped into it that he didn't know: a small ring of six dots, neat as a smith's, like six seeds laid in a circle.
+He walked along the ruts a little way, out of the lantern light, and something turned under his boot. He bent and picked it up. A length of chain, five links, as long as his forearm, the last link cut clean through. The metal was dark and good and heavier than it should have been, and each link had a mark stamped into it that he didn't know: a small ring of six dots, neat as a smith's, like six seeds laid in a circle.
 
 He'd seen chain like it once, years ago, on a Saltreach barge that came up the Wend selling things nobody in Harrow's End could afford. Beast chain. The kind you used on something that might pull a wall down to get at you.
 
@@ -243,7 +244,7 @@ The barn roof went in behind them with a long, soft roar, and sparks went up int
 
 He stayed till the fire was down to embers and the men from Harrow's End had done what they could, which was nothing, and then he walked down to the river to wash the smoke off his face.
 
-The Wend was wide and black here and moving fast. On the far side, a long way off, the Hearthmere bank was a low line against a slightly lighter sky, and on that line, small and steady, were lights. A row of them, high up, too regular for houses. Lanterns on a wall.
+The Wend was wide and black here and moving fast. On the far side, a long way off, the Hearthmere bank was a low line against a slightly lighter sky, and on that line, small and steady, were lights. A row of them, high up, too regular for houses. Lanterns on a wall. Crown lamps, Ada called them, that burned all night on nothing at all, though she'd never been closer to one than this.
 
 Joss had come down behind him. He stood with his big hands hanging and looked across the water at them.
 

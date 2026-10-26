@@ -15,6 +15,7 @@ Draft notes: Days one hundred and thirty-one and one hundred and thirty-two. Dec
 - She understands. She doesn't agree.
 - He leaves the Long Barn door unbarred on the midden side. He doesn't say so. She sees him not bar it.
 - Day 132: Kesh, at the noon bell, screams and goes up off his fist and won't come down for an hour. He stands in the yard with his arm out the whole time. Maren watches him not move.
+- Magic (proposal): the Long Barn's dead lamps hang dark over Grieve's tallow lanterns. Haverly mentions his family's sword, a quickened edge with letters in the steel, over the hearth since the charter; his father sent it to him when the paper went up (it's under his cot). He holds the archive stair with it in 75.
 notes -->
 
 ---
@@ -33,7 +34,7 @@ She put the fork in the barrow.
 
 "I know." He came in and let the door swing to behind him. "That's why I came now."
 
-He walked down the aisle toward her, past the dray-beasts and the greyharts and the empty stall at the end where Holm had been. Kesh shifted on his glove. Somewhere down at the far end, behind its iron-banded doors, Thorne's boar grunted once in its sleep and was quiet.
+He walked down the aisle toward her, past the dray-beasts and the greyharts and the empty stall at the end where Dun had been. Under the old lamps. They still hung on their hooks the length of the barn, dark, and Grieve had hung a tallow lantern under each one, as if the old ones might be shamed into lighting. Kesh shifted on his glove. Somewhere down at the far end, behind its iron-banded doors, Thorne's boar grunted once in its sleep and was quiet.
 
 He stopped a few paces off. He looked tired. She'd never seen him tired. Lucan Haverly had come to Greyhold at fifteen with his hair cut the way they cut it in Hallowmere, and had a falcon on his fist before his first month was out, and he'd looked rested every day of the six years since, as if he slept more than other people because he'd earned it.
 
@@ -79,7 +80,7 @@ He looked at her.
 
 ---
 
-They sat on the edge of the empty stall at the end. Holm's stall, where the old man's stool still stood in the corner because nobody had had the heart to move it. She sat on the rail. Haverly sat on Merrow's stool, with Kesh on his knee, and took the hood off her, and the falcon blinked at the lantern and roused and settled and looked at Maren with her fierce black eye.
+They sat on the edge of the empty stall at the end. Dun's stall, where the old man's stool still stood in the corner because nobody had had the heart to move it. She sat on the rail. Haverly sat on Merrow's stool, with Kesh on his knee, and took the hood off her, and the falcon blinked at the lantern and roused and settled and looked at Maren with her fierce black eye.
 
 They'd never sat down together. In two years. They'd drilled at the same straw men and stood in the same lines at the Lesson Wall and stood on the same wall at midwinter with the oath in their mouths. He'd been on the far side of everything. The front. The bonded. The ones who'd been chosen.
 
@@ -87,7 +88,7 @@ They'd never sat down together. In two years. They'd drilled at the same straw m
 
 He was quiet a while.
 
-"My father was a knight of the gate at Hallowmere," he said. "And his father. And his. There's a list in the hall at home with all the names on it, back to the charter. I used to read it when I was small. I knew I'd be on it. Everybody knew. I was the eldest son, I'd go to Greyhold, I'd be chosen." He ran a finger down Kesh's back. "And I was. The first time I ever held my fist out. I was fifteen. It was my trial day, the first one, the one they give you to see. Nobody's chosen on the first one, everybody knows that, it's to get you used to the yard. I held out my fist and she came down on it." He almost smiled. "Out of the sky. A wild eyas, from the cliffs above Hallowmere. Nobody had ever seen her before. She came down on my fist in front of three hundred people and looked at me, and that was it."
+"My father was a knight of the gate at Hallowmere," he said. "And his father. And his. There's a list in the hall at home with all the names on it, back to the charter. And a sword over the hearth that's gone to every one of them, with letters in the steel, that you're not allowed to touch till you're on the list. He sent it me when the paper went up on the gate. In a box. Like a cake. It's under my cot." He was quiet a moment. "I used to read the list when I was small. I knew I'd be on it. Everybody knew. I was the eldest son, I'd go to Greyhold, I'd be chosen." He ran a finger down Kesh's back. "And I was. The first time I ever held my fist out. I was fifteen. It was my trial day, the first one, the one they give you to see. Nobody's chosen on the first one, everybody knows that, it's to get you used to the yard. I held out my fist and she came down on it. Out of the sky. A wild eyas, from the cliffs above Hallowmere. Nobody had ever seen her before. She came down on my fist in front of three hundred people and looked at me, and that was it."
 
 Kesh looked at him with one eye, then the other.
 
@@ -129,7 +130,7 @@ She'd thought, for two years, that he was a boy who'd been handed everything and
 
 "Maybe," said Haverly again. He put the hood back on Kesh, gently, and the falcon settled. "I'm not brave enough to be you, Ashdown. I worked that out in the boat. I'm brave enough to be in the reeds. That's all I've got."
 
-She understood. That was the worst of it. She sat on the rail of Holm's stall and understood him all the way through, as plainly as a man who's told you which way he'll jump. She didn't agree with a word of it. She understood every one.
+She sat on the rail of Dun's stall and understood him all the way through, as plainly as a man who's told you which way he'll jump. She didn't agree with a word of it.
 
 ---
 
@@ -169,13 +170,13 @@ The voices faltered. *And do not…*
 
 Haverly stood in the front line with his arm still out.
 
-The bell stopped. The yard turned to look. Up above Greyhold Kesh was going round and round in a high wide circle, screaming, and wouldn't come down. Haverly didn't call her. He didn't whistle. He stood in the yard with his gloved arm held out, level, steady, where she could see it, the way you'd hold it out to a frightened falcon, and waited.
+The bell stopped. The yard turned to look. Up above Greyhold Kesh was going round and round in a high wide circle, screaming, and wouldn't come down. Haverly didn't call her. He didn't whistle. He stood in the yard with his gloved arm held out, level, steady, where she could see it, and waited.
 
 Everybody went back to work. The hammering started again on the scaffolds. Grieve shouted at somebody about straw.
 
 Haverly stood with his arm out.
 
-Maren stood by the barrow and watched him. A quarter of an hour. Half an hour. The falcon going round overhead, screaming, then just going round. His arm stayed level. It must have hurt. Holding your arm out like that, with a glove on, for that long. It must have burned from the shoulder down.
+Maren stood by the barrow and watched him. A quarter of an hour. Half an hour. The falcon going round overhead, screaming, then just going round. His arm stayed level. It must have burned from the shoulder down.
 
 It didn't move.
 

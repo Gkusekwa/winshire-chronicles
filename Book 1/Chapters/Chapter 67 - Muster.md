@@ -13,8 +13,9 @@ Draft notes: Days one hundred and forty and one hundred and forty-one. Decided h
 - It hunts at night and brings back nothing; she eats the bread from her sack and drinks from a spring under the beacon-stones.
 - What she sees on day 140: the island full of boats from the Eelweir; smoke in the fort; men on both shores. Cages going over on rafts. On the Saltreach bank, the hill behind Harrow's End black with tents. Ladders, long ones, being carried down to the west shore of the island. Boats drawn up there, facing Hearthmere.
 - Day 141: Greyhold's gate opens at dawn and the orders ride out up the River Road toward Redwatch: two hundred knights and more, greyharts, hounds, Thorne's boar in a wagon-cage, the great new chain under canvas on a dray-wain. The gate shuts behind them. She sees, from the knowe, that Greyhold's left with a handful on its wall. Exactly what Tam said.
-- She thinks about going down to warn them. She thinks about what they'd do with an outcast who came out of the Brackenwood with a lion. She thinks about Millbrook, and Liss, and a girl called Wren in a camp by the water-meadows. She doesn't know which way to go.
+- She thinks about going down to warn them. She thinks about what they'd do with an outcast who came out of the Brackenwood with a lion. She goes anyway, halfway, to a hedge above the road with the lion behind her; the wind has gone into the west and the greyharts in the column scent the lion, a hound bays, a knight pulls out onto the verge with his crossbow. She turns back up to the stones. She thinks about Millbrook, and Liss, and a girl called Wren in a camp by the water-meadows. She doesn't know which way to go.
 - The echo: at dusk on day 141, the island is full of fires. Every part of it, the fort and the shores and the oaks, red points in the dark, so many that the island looks like a coal. The lion stands on the beacon-stones and looks at it and makes a sound she's never heard: low, long, broken, like a question nobody answers.
+- Magic (proposal): Maren remembers the licensed smith-reader saying words into each link of the crown's new chain at the quench (Calder's 62 from the other side); the infirmary's two younger licensed surgeons ride with the column on mules; the old surgeon whose words failed at midwinter stays at Greyhold (he is behind the barricade in 75).
 notes -->
 
 ---
@@ -55,7 +56,7 @@ She knew that before the sun was up. It paced. Along the edge of the trees, behi
 
 Twice it went down the slope.
 
-She didn't stop it. She couldn't have. She sat on a beacon-stone and watched it go down through the heather toward the fields and the river, ten paces, twenty, fifty, with its head low and its eyes on the island. Stop. Stand there, looking.
+She didn't stop it. She couldn't have. She sat on a beacon-stone and watched it go down through the heather toward the fields and the river, a dozen strides, then fifty, with its head low and its eyes on the island. Stop. Stand there, looking.
 
 And come back.
 
@@ -83,7 +84,7 @@ It lay down in the heather beside her again and put its head on its paws and loo
 
 She watched all of the hundred-and-fortieth day.
 
-She'd been the river watch for four winters before she ever went to Greyhold. She knew how to watch. She'd written fourteen pages about a roadblock. She sat on the beacon-stone and watched the island and the river and the far bank and counted, the way she'd count anything, and kept the count in her head because she had nothing to write on.
+She'd been the river watch for eight winters before she ever went to Greyhold. She knew how to watch. She'd written fourteen pages about a roadblock. She sat on the beacon-stone and watched the island and the river and the far bank and counted, the way she'd count anything, and kept the count in her head because she had nothing to write on.
 
 Boats. Too many to count. She stopped trying. Lines of them, all day, from the Eelweir to the island's east shore, and back. Laden going. Empty coming.
 
@@ -115,7 +116,9 @@ She'd never seen this.
 
 They came out of the gate in a column and turned north up the River Road, toward Redwatch, toward the island, and kept coming. Riders. Two by two. In the grey, with the sun coming up on their helms. Greyharts among them, white, tall as the riders' heads, with their long antlered heads up. Hounds at the horses' heels in packs. Wagons. One with a great square cage on it, drawn by four dray-beasts, and something black and humped inside it that could only be Thorne's boar. And behind it a dray-wain with a load under canvas so heavy that the beasts in the traces leaned into it with their heads down.
 
-She knew what it was. She'd heard it made, from the midden, the week before: four men at one fire, hammering, and links as big as a man's head.
+She knew what it was. She'd heard it made, from the midden, the week before: four men at one fire, hammering, and links as big as a man's head. She'd seen it, too, across the yard with her barrow: old Abel, the licensed smith-reader, standing at the quench-trough with his eyes shut, saying the words into each link as it went hissing in.
+
+Behind the wain, on mules, two men in long grey coats with satchels and no beasts. The infirmary's licensed surgeons, the two younger ones. The old one, who'd set a groom's wrist with his bare hands at midwinter, swearing, when the words wouldn't come, would be behind the wall with the handful. They were taking the young ones anyway, words or none.
 
 She counted. She couldn't stop herself. Two hundred riders. Two hundred and fifty. More. She lost count somewhere in the greyharts. The column went up the River Road along the bank, far off below her, for half the morning, and the dust of it hung over the road behind.
 
@@ -149,7 +152,15 @@ The great new chain on the dray-wain, under its canvas.
 
 She looked at the lion lying in the heather beside her, with its eyes on the island.
 
-She didn't go down.
+She went down anyway.
+
+She got halfway. Off the knowe through the heather and across two wet fields, to a hedge on the last rise above the road, where she could see the pennons and the shine on the helms. The lion came behind her. She didn't send it back. She stood in the gap of the hedge with the words ready in her mouth.
+
+The wind had gone round into the west.
+
+On the road the greyharts smelled it. The nearest one stopped dead and threw its antlered head up, and its rider swore and hauled at it, and then the one behind was doing it, and the next, white heads going up all down that stretch of the column, every one turned toward the hedge. A hound began to bay. A knight pulled out of the line onto the verge and sat his horse there, looking up at the fields, with his crossbow across his knees.
+
+She stepped back out of the gap. She went back up the fields with the lion beside her, and didn't look round until she was among the stones.
 
 She thought about going to Greyhold. To the gate. To Hale. To Pell. To the handful on the wall. *Shut it. Bar it. Don't open it for anyone. Not for any seal, not for any rider.* And she thought of a seal she'd heard of from Ottery, twice, that had cleared the river on the nights the barges needed it clear. In a hand nobody knew. *Somebody inside.* She had no idea who on that wall she'd be telling.
 
@@ -161,7 +172,7 @@ A girl called Wren.
 
 She didn't know which way to go. She sat on the beacon-stone on the top of Hollin Knowe with the whole river below her, and the lion beside her. Every way she looked there was somebody, and she was one woman in her father's cloak with no sword and no grey and no oath, and a beast that wouldn't go back to the island and wouldn't leave her.
 
-She sat there all day.
+She sat there the rest of the day.
 
 ---
 
@@ -175,7 +186,7 @@ Two armies with a river channel between them. Half a league of brown water. Faci
 
 *They're waiting,* she thought. *Both of them. For something.*
 
-She didn't know what. She thought of Hale's black door, warm under her palm, and couldn't have said why.
+She didn't know what. She thought of Hale's black door, warm under her palm.
 
 ---
 
@@ -199,7 +210,7 @@ Then it made a sound.
 
 She'd heard it roar. On the shore, the first night. Across the river, through the stone of the archive, the night her hand was on the door. She'd heard it growl, and breathe, and once, in the arch on the night the river went out, sigh like a dog. She'd never heard this.
 
-It was low. Very low, and long, and it went up at the end and broke, the way a voice breaks. Not loud. Not a roar. It went out from the top of Hollin Knowe over the dark fields toward the river and the island and the fires and didn't come back.
+It was low. Very low, and long, and it went up at the end and broke. Not a roar. It went out from the top of Hollin Knowe over the dark fields toward the river and the island and the fires and didn't come back.
 
 She'd heard a sound like it once before. In the infirmary at Greyhold, on the third night, from Ide Darrow, in the dark, asking for Bracken.
 

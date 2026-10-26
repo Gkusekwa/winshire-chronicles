@@ -16,6 +16,7 @@ Draft notes: Day one hundred and thirty-seven. Decided here (proposals):
 - He asks Liss, on the last crossing, to tell her daughter something. Not his message. Wren's: "Tell her a girl called Wren says hello." Liss says she will. Then Liss, at the rope: "And you? Anything from you?" He can't think of anything to say. "Tell her the old one says it's the cat from the bridge." Liss doesn't understand. She says she'll tell her.
 - Wren on the ferry, last sight: she stands at the rail and waves, not to him, up, to the sky where Lisska is. Lisska comes down low over the river, against orders, once, and goes up again. Liss watches her go over with her mouth open. The blue ribbon is still on her horn.
 - Calder stands on the Staithe jetty until the ferry reaches the stone jetty at the Greyhold landing. Then he goes back north.
+- Magic (proposal): a coast woman sells "warranted" tin crossing-charms to the refugees on the Staithe jetty; Liss tells them to throw them in: nothing said on one bank lands on the other, running water breaks it (the rule as river folk know it).
 notes -->
 
 ---
@@ -66,7 +67,7 @@ They came to the Staithe as the sky went grey, and it was nearly empty.
 
 He'd been there a hundred times. Every autumn of his life, with the barley, down the lane on the wain to sell to the Hearthmere factors who came over on the ferry. It had always been full. Carts, beasts, men shouting prices, Greta's smoke-house going and the smell of eels over everything, and old Tolly sitting on his upturned boat by the weirs telling anybody who'd listen that the river was lower than it had been in his grandfather's day.
 
-Tolly was on his boat. Greta's smoke-house was going. A few families stood on the timber jetty with their bundles, waiting. The Penhallows' cousins from Low Ashby, and a man with two goats he didn't know. That was all.
+Tolly was on his boat. Greta's smoke-house was going. A few families stood on the timber jetty with their bundles, waiting. The Penhallows' cousins from Low Ashby, and a man with two goats he didn't know. That was all. And a woman from down the coast with a tray on a strap round her neck, going up and down the jetty selling crossing-charms. Strips of tin with a word scratched on, a copper each, warranted. The Low Ashby family had bought two and the man with the goats had bought one for each goat.
 
 Across the water, on its hill, was Greyhold.
 
@@ -78,7 +79,7 @@ The ferry was coming across from it on the rope.
 
 ---
 
-He'd known Liss Ashdown for twenty years. Not well. The way you know the ferrywoman. He'd bought from her factors and sold to them, and stood on this jetty while she brought the boat in, and nodded, and she'd nodded back, and once or twice she'd said *Fenn,* and he'd said *Mistress Ashdown,* and that was all.
+He'd known Liss Ashdown for twenty years, the way you know the ferrywoman. He'd bought from her factors and sold to them, and stood on this jetty while she brought the boat in, and nodded, and she'd nodded back, and once or twice she'd said *Fenn,* and he'd said *Mistress Ashdown,* and that was all.
 
 She brought the ferry in to the timber jetty and made it fast and stood up in the stern and looked at the people waiting. A broad strong woman with a weathered face and grey hair bound up in a scarf, in a man's coat with the sleeves turned back. She looked at the families with their bundles. At the man with the goats. At Bel and the handcart and the children. At the three greys.
 
@@ -88,7 +89,7 @@ She looked at him longer than she needed to. He saw her know him. He saw it go a
 
 She didn't say anything about it.
 
-"Beasts after," she said. "One a crossing. The big one last. People first. Mind the rail." She looked at Bel. "You'll be the Fenns from Upper Rush. Bel. I knew your Joss. Bought his oats." She paused. "I heard."
+"Beasts after," she said. "One a crossing. The big one last. People first. Mind the rail." She looked at the strip of tin in the Low Ashby woman's fist, and at the charm-seller, who'd stopped at the end of the jetty. "And you can throw those in. Nothing said on this bank lands on that one. There's a river in the way. Every child on the Wend knows it." The charm-seller went back up the jetty. Liss watched her go. She looked at Bel. "You'll be the Fenns from Upper Rush. Bel. I knew your Joss. Bought his oats." She paused. "I heard."
 
 Bel nodded. She couldn't speak.
 
@@ -136,7 +137,7 @@ They loaded the first crossing. People. The family from Low Ashby, the man with 
 
 Calder handed the handcart's ropes across. Liss took them and lashed them to the rail with quick hard knots.
 
-She didn't look at him while she did it. She looked at the knots. She said, quite low, not to him, not to anyone, the way you'd talk to yourself over work:
+She didn't look at him while she did it. She looked at the knots. She said, quite low, not to him, not to anyone:
 
 "My daughter came to the ferry house last night."
 
@@ -232,7 +233,7 @@ Liss's face did something. He didn't know what.
 
 He stood on the jetty.
 
-He thought of narrow boot-prints in the snow on the island, a woman's, going down to a fire. A long pressed hollow ten paces off. A scale in her lap all night by the fire. A collar struck off at dawn, three blows, *tink, tink, tink*, across two leagues of river. A lion swimming the east channel in the dusk while she stood on the shore and watched it go.
+He thought of narrow boot-prints in the snow on the island, a woman's, going down to a fire. A long pressed hollow a few strides off. A scale in her lap all night by the fire. A collar struck off at dawn, three blows, *tink, tink, tink*, across two leagues of river. A lion swimming the east channel in the dusk while she stood on the shore and watched it go.
 
 He couldn't think of anything he had the right to say.
 
@@ -302,4 +303,4 @@ He walked on.
 
 He thought of the scream at the end of the stone jetty. The arms round the grey's foreleg.
 
-*She saw you,* he said. *Twice.*
+*She saw you,* he said.

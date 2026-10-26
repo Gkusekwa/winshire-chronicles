@@ -11,6 +11,7 @@ Draft notes: Day 0, the same evening as the end of Chapter 11 (Maren rows to the
 - Calder digs the chain out from under the byre flag and resolves to give it to Teo at the ford, once the peace is made and it's safe. He carries it from now on (it is in his pocket in Chapter 14).
 - Ada sings the old song at the fair; Teo says men in the ports have started singing the last line, "till the six are one again", like a promise.
 - Pip is a boy (6), Nan a girl (4).
+Magic touches: old Garrow's wife lights the fair bonfire with her grandmother's fire-word, third try as every year.
 notes -->
 
 ---
@@ -53,9 +54,9 @@ He'd decided. It felt very good to have decided. He'd been walking around all da
 
 Teo came at dusk.
 
-The fire was already lit in the top field by then, a great stack of old fencing and thorn brush and broken furniture as tall as a barn, roaring and spitting and sending sparks up into the darkening sky. The whole village was round it, and half of Ewe Hollow, and everyone from Upper Rush who still had a coat to wear. The fiddler from Cotter's Cross had come, the good one with the one eye, and Wat Garrow had a drum, and there were trestles along the hedge with bread and cheese and Hob's ale, which he'd been charging for since noon and had stopped charging for at sunset, the way he did every year, because by sunset nobody remembered who'd paid. They said on the Saltreach bank that the fair was the one night of the year when nobody in the Marches owed anybody anything, and most years, at Harrow's End, it was even true.
+The fire was already lit in the top field by then. Old Garrow's wife had lit it the way she lit it every year, with the fire-word her own grandmother had taught her, and as every year it had caught on the third try, to cheering. It was a great stack of old fencing and thorn brush and broken furniture as tall as a barn, roaring and spitting and sending sparks up into the darkening sky. The whole village was round it, and half of Ewe Hollow, and everyone from Upper Rush who still had a coat to wear. The fiddler from Cotter's Cross had come, the good one with the one eye, and Wat Garrow had a drum, and there were trestles along the hedge with bread and cheese and Hob's ale, which he'd been charging for since noon and had stopped charging for at sunset, the way he did every year, because by sunset nobody remembered who'd paid. They said on the Saltreach bank that the fair was the one night of the year when nobody in the Marches owed anybody anything, and most years, at Harrow's End, it was even true.
 
-Calder was at the back. He was always at the back. He had his shoulders against the hedge and a cup of Hob's ale he wasn't drinking, and Ada beside him on a stool with her hands in her lap, watching the dancing with a small private smile. Bel was dancing with Joss. Joss danced the way he did everything, slowly and enormously and with great seriousness, and Bel was laughing at him, properly laughing, for the first time since the fire. Pip and Nan were running round the edge of the dancers in the firelight shrieking at nothing, the way children do when they've been allowed up past dark.
+Calder was at the back. He was always at the back. He had his shoulders against the hedge and a cup of Hob's ale he wasn't drinking, and Ada beside him on a stool with her hands in her lap, watching the dancing with a small private smile. Bel was dancing with Joss. Joss danced the way he did everything, slowly and enormously and with great seriousness, and Bel was laughing at him, properly laughing, for the first time since the fire. Pip and Nan were running round the edge of the dancers in the firelight shrieking at nothing.
 
 Wren was at the gate of the top field. She'd been there for an hour. She hadn't danced once.
 
@@ -128,9 +129,9 @@ They walked down the edge of the field in the dark, away from the fire, toward t
 
 They both turned. Hob was standing by the gate with a jug in one hand and a lantern in the other, swaying slightly, looking injured. He'd come down after them, the way Hob came down after everything, to see if there was anything worth hearing.
 
-"I'll come," Hob said, with great dignity. "I'll come and I'll witness. I'll witness better than anybody. You ask anyone in this village who's the best witness and they'll say Hob, they'll say Hob sees everything." He pointed the jug at the river. "I saw a Greyhold boat, tonight. Did you know that? Nobody else saw it. Everybody was at the fire. But I was up on the bank above the mill at sunset, seeing to the sluice, and I saw it. A little river-watch skiff, with one person in it, rowing up the Hearthmere side. And it went out into the middle and sat there a while. And then it went in." He lowered his voice, dramatically. "To the island. To the Old Ruin. Put whoever it was right on the spit, at dusk, where nobody goes."
+"I'll come," Hob said, with great dignity. "I'll come and I'll witness. I'll witness better than anybody. You ask anyone in this village who's the best witness and they'll say Hob, they'll say Hob sees everything." He pointed the jug at the river. "I saw a Greyhold boat, tonight. Did you know that? Nobody else saw it. Everybody was at the fire. But I was up on the bank above the mill at sunset, seeing to the sluice, and I saw it. A little river-watch skiff, with one person in it, coming out across the channel from the Hearthmere side. And it sat out there a while. And then it went in." He lowered his voice, dramatically. "To the island. To the Old Ruin. Put whoever it was right on the spit, at dusk, where nobody goes."
 
-Teo turned and looked upriver. So did Calder. You couldn't see the island from here in the dark; you couldn't see anything but the black water and the far black bank and the few small lights.
+Teo turned and looked out over the river. So did Calder. You couldn't see the island from here in the dark; you couldn't see anything but the black water and the far black bank and the few small lights.
 
 "One person?" said Teo.
 

@@ -19,11 +19,12 @@ Draft notes: About day forty-two, at night. Decided here (proposals):
 - The rage: one of Raske's men has Wat Garrow's boy Davy (ten) by the hair, with a knife. Calder, full of Kharrak's red tide and his own, knocks him down with a fence rail and keeps hitting him. Lisska stops him, very small: "You're frightening me." The man lives.
 - Echo: on the Hearthmere bank opposite, a line of about twenty mounted knights, mostly on horses with a greyhart or two among them, with lanterns, at the water's edge, watching. They don't cross.
 - After: Ada and Wren are safe; the Fenn farm, up the hill, didn't burn. The village sees what he can do. Some thank him. Most are more afraid than before.
+- Magic touches: the knights' oil-less Hearthmere lanterns still burning at dawn; the Garrows' scorched cow-charm over the burned byre.
 notes -->
 
 ---
 
-His father had a rule for fire and a rule for men, and he said they were the same rule. *Don't fight it. Move what it wants.* A fire wants straw; take away the straw. A man who wants a fight wants something to hit; take away the thing he's hitting. Stand somewhere it isn't, and wait.
+His father had a rule for fire and a rule for men, and he said they were the same rule. *Don't fight it. Move what it wants.*
 
 His father had never had three dragons. Calder thought, afterwards, that it might have changed his mind.
 
@@ -111,7 +112,7 @@ Kharrak turned, and went down.
 
 Calder felt him go. Felt the red tide in him, the wanting, the *let me, let me,* turn. Like a river turned by a weir. Not stopping; going somewhere else. Kharrak went down over the Garrows' farm low and fast, over the burning house, through the smoke, and up the slope above it, over the stubble, and opened his mouth.
 
-The fire came out of him in a long straight sheet, yellow-white, roaring, and went down across the top of the Garrows' field from the hedge to the beck in a single line, so bright that the whole slope lit up like noon. The stubble went up. It went up in a wall, crackling, and the wind took it and pushed it, not back down the field toward the farm, but up, east, into nothing, into the bare ploughed ground of the Ashby top field where there was nothing left to burn, and burned out, and left behind it a long black strip of ash across the top of the field, smoking, twenty paces wide.
+The fire came out of him in a long straight sheet, yellow-white, roaring, and went down across the top of the Garrows' field from the hedge to the beck in a single line, so bright that the whole slope lit up like noon. The stubble went up. It went up in a wall, crackling, and the wind took it and pushed it, not back down the field toward the farm, but up, east, into nothing, into the bare ploughed ground of the Ashby top field where there was nothing left to burn, and burned out, and left behind it a long black strip of ash across the top of the field, smoking, wider than the lane.
 
 Below it, the fire from the Garrows' farm came up the field on the wind, through the stubble, and reached the black strip.
 
@@ -317,7 +318,7 @@ People came out into the lanes. Slowly. From their cellars and their ditches and
 
 Some of them came up to him.
 
-Wat Garrow came first, with Davy holding his hand, and Tessa behind him with the baby. He stood in front of Calder with his face working, and put out his hand. Calder took it. Wat Garrow didn't say anything. He just held Calder's hand, hard, for a long moment, and let go, and went away with his family down the lane to look at what was left of his farm.
+Wat Garrow came first, with Davy holding his hand, and Tessa behind him with the baby. He stood in front of Calder with his face working, and put out his hand. Calder took it. Wat Garrow didn't say anything. He just held Calder's hand, hard, for a long moment, and let go, and went away with his family down the lane to look at what was left of his farm. Over the black gap where the byre door had been, the cow-charm his father had nailed up the year Calder was born still hung from its nail, rowan and red thread, scorched, turning a little in the smoke.
 
 The children Lisska had carried off the roof came, with their mother. The smallest girl, the one who wouldn't let go of the ridge, came right up to Lisska where she lay on the green and stood in front of her with her thumb in her mouth and stared. Lisska put her head down until it was level with the child's face, carefully, and stayed very still.
 
@@ -331,10 +332,6 @@ The rest didn't come.
 
 He saw them, standing at the edges of the green, in the lanes, at their doors. Not coming closer. Watching him. Watching the dragons. Their faces in the grey light were the faces he'd seen at the hedge on the morning after the mill. Frightened. More frightened now than they'd been then.
 
-Because they'd seen what he could do. They'd seen forty of Ulric's men and fifty of Arn's run from him like children. They'd seen Kharrak burn a field in a single breath. And some of them, he thought, had seen him in the lane by the Garrows' gate with an oak rail in his hands, going up and down.
-
-He'd saved the village. He'd saved Davy Garrow and three children on a roof and Hob in his burning house and every house on the upper lane. And they were afraid of him.
-
 *Why are they afraid?* said Lisska. *We helped. Didn't we? We saved them. Why are they afraid?*
 
 "Because we could have done the other thing," said Calder.
@@ -347,11 +344,11 @@ He hadn't thought to, in the night. He hadn't thought of anything but the fire. 
 
 There were knights there.
 
-A line of them. At the water's edge on the far bank, opposite the village, where the Greyhold road came along the river. Twenty, maybe. Mounted, most of them on horses, and a greyhart or two among them, white and tall with their antlers spread, standing in a long line along the bank in the dawn with lanterns still burning on poles beside them, and the knights in grey sitting very still.
+A line of them. At the water's edge on the far bank, opposite the village, where the Greyhold road came along the river. Twenty, maybe. Mounted, most of them on horses, and a greyhart or two among them, white and tall with their antlers spread, standing in a long line along the bank in the dawn with lanterns on poles beside them, Hearthmere lanterns that wanted no oil, still burning white and steady after the whole night, and the knights in grey sitting very still.
 
 Watching.
 
-They'd been there all night, he thought. He didn't know how he knew. They'd come along the road from Greyhold when the fire went up, and stopped at the water, and sat there on their horses, with their lanterns, and watched Harrow's End burn. Watched the fighting in the lanes. Watched the dragons come down out of the sky.
+They'd been there all night, he thought. They'd come along the road from Greyhold when the fire went up, and stopped at the water, and sat there on their horses, with their lanterns, and watched Harrow's End burn. Watched the fighting in the lanes. Watched the dragons come down out of the sky.
 
 And hadn't crossed.
 

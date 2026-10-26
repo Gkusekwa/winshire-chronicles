@@ -17,7 +17,7 @@ notes -->
 
 ---
 
-The Clan says that a ford remembers everyone who crosses it. Not their names; the water doesn't care about names. Their weight. Every hoof and wheel and foot that has gone through it, every beast driven across, every army, every bride, every coffin carried over on six shoulders with the water to the bearers' knees: the ford remembers how heavy it was. That's why the stones in a ford are smooth. They've been learning the weight of the world since before there was anybody to cross.
+The Clan says that a ford remembers everyone who crosses it, and how heavy they were. That's why the stones in a ford are smooth.
 
 The ford on Hollow Beck was old. Older than the hold. Older than the Clan. The Drover's Way came down off the moor to it in a long slant and went up the other side in another, and in between, the beck ran wide and shallow over a bed of smooth brown stones, with alders leaning over it on both banks and a shepherd's shieling of turf and stone on the slope above.
 
@@ -79,7 +79,7 @@ Calder dragged him up out of the beck onto the stones of the bank and knelt besi
 
 "Teo," he said.
 
-It was a stupid thing to say. He knew it was stupid as he said it. He said it anyway.
+It was a stupid thing to say. He said it anyway.
 
 Behind him, up the slope, he heard Hob shout something, high and cracked, and then the cart rattling, and then Hob's voice again, nearer, saying *oh gods oh gods oh gods* over and over in a whisper, like a prayer that didn't know any other words.
 
@@ -165,7 +165,7 @@ Calder couldn't have said anything if the hills had fallen. He stood on the bank
 
 Ulric came a quarter of an hour later, with his six, over the near rise, down the long slant of the Way.
 
-Calder heard them before he saw them, the way you hear weather. He looked up and saw them come over the top, six big men in plain grey with axes at their belts, and Ulric at the front on a huge grey horse, and he saw Ulric see it. The bay. The black horse. Arn's six in a line along the bank with their swords out now. Arn standing over something on the stones.
+Calder heard them before he saw them. He looked up and saw them come over the top, six big men in plain grey with axes at their belts, and Ulric at the front on a huge grey horse, and he saw Ulric see it. The bay. The black horse. Arn's six in a line along the bank with their swords out now. Arn standing over something on the stones.
 
 Ulric stopped his horse at the top of the slope and sat there.
 
@@ -199,7 +199,7 @@ He drew his sword.
 
 ---
 
-It didn't last long. It was over almost before it had begun.
+It didn't last long.
 
 One of Arn's six went past Arn, at the gallop, through the ford toward the slope where Ulric's six were, with his sword up and a shout coming out of him that wasn't a word. One of Ulric's men came down to meet him. They met at the bottom of the slope, at the edge of the water, and the horses crashed together, and there was a sound like an axe going into a log, and then one of them was on the ground, and it was Ulric's man, and he wasn't moving.
 
@@ -247,7 +247,7 @@ It was done now. There was no after.
 
 They brought Teo up to the hold at dusk, on a hurdle, with his own men walking beside it and his own bay walking behind with the reins over the saddle. Calder and Hob went home in the cart in the dark without speaking, the whole long way down the Way, with the cob picking its own path by the starlight.
 
-It was the small hours when they came down off the moor. At the bottom, where the Way came down to the river lane above Harrow's End, there were still lights at the Eelweir: lanterns on the jetty, and men standing about, the way men stand about when there's news. Hob stopped the cart without being asked.
+It was the small hours when they came down off the moor. At the bottom, where the Way came down to the river lane above Harrow's End, there were still lights at the Eelweir: lanterns on the jetty, and men standing about. Hob stopped the cart without being asked.
 
 "The ford," Hob called. "Have you heard? Have you heard about the ford?"
 
@@ -257,7 +257,7 @@ They'd heard. The whole river had heard. The horns had carried. The smoke had be
 
 "Yes."
 
-"Gods. Gods. That's war, then. That's war, now, for certain." Fisk shook his head. Then, because he was a fisherman, and fishermen always have to say the other thing, the thing that's on their minds, he said: "And that Greyhold boat's still on the island. Four days, now. Pulled up on the spit under a log. Nobody's seen anybody. Nobody's come off." He looked out across the water into the dark. "Whoever went on there, they're still there. Or they're not. Either way, it's a bad week for it."
+"Gods. Gods. That's war, then. That's war, now, for certain." Fisk shook his head. Then, because he was a fisherman, and fishermen always have to say the other thing, the thing that's on their minds, he said: "And that Greyhold boat's still on the island. Four days, now. My boys saw it from the punt. Pulled up on the spit under a log. Nobody's seen anybody. Nobody's come off." He looked out across the water into the dark. "Whoever went on there, they're still there. Or they're not. Either way, it's a bad week for it."
 
 Calder sat on the cart in his shirtsleeves, because his coat was up at the hold over Teo's face, and the chain with it, and he was very cold, and he hadn't noticed until now.
 

@@ -14,13 +14,14 @@ Draft notes: Days eighty-one to eighty-three. Decided here (proposals):
 - By her fire, half in the snow where the man knelt: a scale. Green as a beetle's back, broad as a round shield, thin as slate, edged like a leaf. It's warm, like a hearthstone the morning after.
 - The lion: when it comes, it goes first to the man's prints and smells them, long, with its lip going back. Then it goes to the scale in her hands, smells that, and goes very still, and looks east across the river toward the Saltreach hills for a long while. Then it lies down, at ten paces, as before.
 - The first lie: Rowan's standing order (since Ferriby) is that anyone going near the island reports any sign of men. When Pell asks at the Lesson Wall on the morning of day 83, "Anything on the island? Tracks? Hunters?", she says, "No. Nothing. Only the lion." She keeps the scale wrapped in a shirt in her chest with the hammer and chisel.
+- Magic touches: Ottery's smoky oil lantern; river men never trust a worded crown lamp on the water.
 notes -->
 
 ---
 
 The channel had frozen hard in the night of the eightieth, and on the eighty-first, at dusk, Ottery walked her across it himself.
 
-He didn't say he would. He was at the Redwatch boathouse when she rode in on Turnip after evening muck, with a pole in one hand and a lantern in the other, standing at the edge of the reeds where the ice began. He'd been out on it already. She could see his tracks in the snow, going out and coming back, and the holes where he'd driven the pole down every few paces to listen to it.
+He didn't say he would. He was at the Redwatch boathouse when she rode in on Turnip after evening muck, with a pole in one hand and a lantern in the other, standing at the edge of the reeds where the ice began. The lantern was oil, old and smoky. River men never carried a crown lamp out on the water; Ottery said the dusk-word slid off it at the first ripple, and he wasn't going to find out what it did on ice. He'd been out on it already. She could see his tracks in the snow, going out and coming back, and the holes where he'd driven the pole down every few paces to listen to it.
 
 "Three hands thick at the channel," he said. "Four at the edges. She'll hold you." He looked at her. "She'll not hold you if you're a fool on her. So you'll walk where I walk. And you'll come back where I come back. And you'll be back on this bank by full dark."
 
@@ -42,17 +43,17 @@ She built her fire on the flat stones at the water's edge, small, the way she al
 
 On her side. It had stayed on her side, since the night she'd cried. It came down out of the oaks to the north along the bank, slow and heavy in the snow, with its breath going up in clouds and the frost on its mane, and the collar on its neck under the frost, and the cut chain dragging. Ten feet at the shoulder. It stopped at the edge of the trees and looked at her.
 
-She looked back. She didn't look away. She couldn't have said why that felt different from all the other nights. It did.
+She looked back. She didn't look away.
 
 *You pulled me out,* she thought at it. *Didn't you. It was you.*
 
-It looked at her with its pale eyes. Then it came on, along the bank, to the place ten paces off where the snow was already pressed down in a long hollow from before, and lay down in it, and put its great head on its forepaws, and watched her.
+It looked at her with its pale eyes. Then it came on, along the bank, to the place where the snow was already pressed down in a long hollow from before, and lay down in it, and put its great head on its forepaws, and watched her.
 
 That was all.
 
 She sat there till the light went and the stars came. She fed the fire. When it was full dark she got up, and it lifted its head and watched her go down to the reeds where Ottery stood with the lantern, and didn't follow.
 
-On the ice, halfway across, she looked back. She could see her fire, small and red on the stones. Beside it, ten paces off, a great dark shape lying in the snow, still there. Still watching.
+On the ice, halfway across, she looked back. She could see her fire, small and red on the stones. Beside it, a great dark shape lying in the snow, still there. Still watching.
 
 ---
 
@@ -68,7 +69,7 @@ And a man's.
 
 She stopped at the top of the bank with Ottery's lantern in her hand and looked at them.
 
-They were over hers. That was the first thing. On top. Where she'd walked up from the reeds, they'd walked too, after her, and pressed down her narrow boot-prints with their own. Big. Broad. Heavy. A man's boots, and not a knight's. She knew knights' boots; she mucked out under them every morning. These had hobnails. She could see the marks of them in the bottom of every print, a pattern of little round dents. Marches hobnails. Farmers' boots. The kind every man on the Saltreach bank wore from the time he could walk.
+They were over hers. On top. Where she'd walked up from the reeds, they'd walked too, after her, and pressed down her narrow boot-prints with their own. Big. Broad. Heavy. A man's boots, and not a knight's. She knew knights' boots; she mucked out under them every morning. These had hobnails. She could see the marks of them in the bottom of every print, a pattern of little round dents. Marches hobnails. Farmers' boots. The kind every man on the Saltreach bank wore from the time he could walk.
 
 She went down on one knee beside them.
 
@@ -80,9 +81,9 @@ She didn't think about it. She followed them up the bank and into the oaks along
 
 There the man's prints stopped.
 
-They had stood a while; the snow was trodden flat. Then they went back without turning round. She could see it in the prints: the toes pointing forward, toward the hollow, and the prints going backward, step by step, for twenty paces, before they turned.
+They had stood a while; the snow was trodden flat. Then they went back without turning round. She could see it in the prints: the toes pointing forward, toward the hollow, and the prints going backward, step by step, a long way, before they turned.
 
-He'd backed away. He'd come up the path in the dark following the lion, and heard it, the way she'd heard it on her first night, and he'd backed away from it the way you back away from a bull.
+He'd backed away. He'd come up the path in the dark following the lion, and heard it, and backed away.
 
 She stood at the bend in the path in the dark with the lantern and looked at where he'd stood. Then she looked up the path into the dark under the oaks, where the lion's prints went on alone, and listened.
 
@@ -94,7 +95,7 @@ She went back to the fort. She knew where the prints would go before she found t
 
 They'd come up from the east shore. She found that easily: the man's hobnails coming up out of the trees on the island's eastern side, from the white causeway of ice that ran back across to the Saltreach bank. Up through the trees to the old road. Along the road, down the middle, in the snow. To the tower.
 
-They'd stood under the arch a while, under the verse. The snow was trodden flat there too, in front of the doorway, the way it would be if somebody had stood looking up at something they couldn't read.
+They'd stood under the arch a while, under the verse. The snow was trodden flat there too, in front of the doorway, as if somebody had stood looking up at something he couldn't read.
 
 Then down to the spit.
 
@@ -122,7 +123,7 @@ Green.
 
 She knelt and brushed the snow away with her hand, and her hand stopped.
 
-It was a scale. She knew it at once for what it was, though she'd never held one, though she'd only ever seen them from a long way off, on great shapes going over the Scarfell on summer evenings. It was lying half buried in the snow where the man had knelt, where it must have fallen from him. It was as broad as a round shield. Thin as slate. Shaped like a leaf, with a long point at one end and a curved edge at the other, and fine ridges running out from the middle the way veins run in a leaf. Green. A deep shining green, the green of a beetle's back, that went to bronze at the edges where the light caught it.
+It was a scale. She knew it at once for what it was, though she'd never held one, though she'd only ever seen them from a long way off, on great shapes going over the Scarfell on summer evenings. It was lying half buried in the snow where the man had knelt, where it must have fallen from him. It was as broad as a round shield. Thin as slate. Shaped like a leaf, with a long point at one end and a curved edge at the other, and fine ridges running out from the middle. Green. A deep shining green, the green of a beetle's back, that went to bronze at the edges where the light caught it.
 
 She put her hand on it. It was warm.
 
@@ -168,7 +169,7 @@ It stood looking east with the frost on its mane.
 
 She looked where it was looking. She couldn't see anything. Hills. Dark. A few stars. Somewhere over there, beyond the river, beyond Harrow's End, a farmer in hobnailed boots who'd lost a scale.
 
-At last the lion turned away, and went back along the bank to the long hollow ten paces off, and lay down in it, and put its head on its paws.
+At last the lion turned away, and went back along the bank to the long hollow, and lay down in it, and put its head on its paws.
 
 She knelt in the snow with the scale against her chest, warm through her coat, until her knees had no feeling in them.
 
@@ -200,7 +201,7 @@ She stopped.
 
 She stood in front of him in the cold yard.
 
-She thought of the hobnailed prints over her own, and the knees in the snow by her fire, and the bright raw cuts on the hunters' chain. She thought of the scale, wrapped in her one clean shirt at the bottom of her chest in the dormitory, under the hammer and the chisel. She thought of the man's prints stopping at the bend in the path under the oaks, and going backward, step by step, for twenty paces.
+She thought of the hobnailed prints over her own, and the knees in the snow by her fire, and the bright raw cuts on the hunters' chain. She thought of the scale, wrapped in her one clean shirt at the bottom of her chest in the dormitory, under the hammer and the chisel. She thought of the man's prints stopping at the bend in the path under the oaks, and going backward, step by step.
 
 She thought of Rowan's small neat hand writing in the margin of a ledger. *Then someone told him.*
 

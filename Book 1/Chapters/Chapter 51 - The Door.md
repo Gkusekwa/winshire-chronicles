@@ -15,6 +15,7 @@ Draft notes: Days ninety-nine to one hundred and two. Decided here (proposals):
 - Across the river the lion roars. It's the first time she's heard it since the night it woke (Chapter 19). It comes through the stone. Every beast in the Long Barn answers. Below the door, the chain goes taut with a sound like a ship's cable, and is still. Hale pulls her hand off the door.
 - The echo: from the north-east, faint, across the ice and the Saltreach hills from Harrow's End, three answering roars. Dragons. Maren hears them from the top of the archive stair.
 - Captain Thorne comes down the stair with a lantern: she's Watch. Hale hides Maren in the stacks. Thorne: "Did you hear it? Below?" Hale: "The whole school heard it." Thorne: "It moved, Osric. The chain moved. And the dragons answered." Then: "Rowan wants the island watched from tomorrow. The girl's beast." She goes. Hale lets Maren out.
+- Magic touches: Hale reads the hooked letters round the keyhole as a ward ("it turns a word aside"; only the key opens it); oil lanterns in the yard, the wall lamps gone red at the roar.
 notes -->
 
 ---
@@ -67,6 +68,8 @@ At the reeds on the island's west shore he stopped.
 
 "Aye." He looked at her in the dark. "Ashdown. That thing that pulled you out. In the hole. You'll not tell me it was the current."
 
+She didn't answer.
+
 "No," said Ottery. "I thought not." He sat down on the ice in the reeds with the pole across his knees. "Go on, then."
 
 ---
@@ -75,15 +78,15 @@ The lion wasn't at the stream. She knew where it would be.
 
 It was lying in the arch of the tower, under the verse, filling the old doorway from side to side, the way it had lain there in the autumn. Its great head was on its forepaws on the threshold. Its eyes were open. They caught the glow from her lantern and turned it pale.
 
-She stopped ten paces off, in the snow, and put the lantern down, and sat.
+She stopped a little way off, in the snow, and put the lantern down, and sat.
 
 It watched her.
 
-She'd never talked to it. Not properly. She'd said things. *Easy.* *I'm going now.* The things you say to a horse. It didn't understand a word. She knew that. It wasn't a hound. There was no bond, no thread between them, nothing for words to go down. When she spoke it heard noise, the way it heard the wind.
+She'd never talked to it. Not properly. She'd said things. *Easy.* *I'm going now.* The things you say to a horse. It didn't understand a word. She knew that. It wasn't a hound. There was no bond, no thread between them, nothing for words to go down. When she spoke it heard noise.
 
 She talked to it anyway.
 
-She told it what Hale had said. All of it. Sitting in the snow, in the dark, ten paces from the arch, with the lantern at her side. The first knights on the hill. Something under the hill, asleep, that they found and woke and chained. The inner wall over the way down. The lamps. The stairs going down, cut in the rock, worn in the middle. The ledge. The lantern held out over the edge. Chain going down into the dark, one link taller than a man. Six chains. The dark moving.
+She told it what Hale had said. All of it. Sitting in the snow, in the dark, in front of the arch, with the lantern at her side. The first knights on the hill. Something under the hill, asleep, that they found and woke and chained. The inner wall over the way down. The lamps. The stairs going down, cut in the rock, worn in the middle. The ledge. The lantern held out over the edge. Chain going down into the dark, one link taller than a man. Six chains. The dark moving.
 
 *And I heard it breathe.*
 
@@ -91,7 +94,7 @@ She told it about the oath. *Keep the watch below, and do not ask.* A hand on th
 
 She told it that she couldn't say the second half any more.
 
-The lion lay in the arch and watched her. It didn't look away. Not once, the whole time she talked, and she talked until her feet had gone dead in the snow. It didn't put its head down. It didn't close its eyes. It lay with its chin on the threshold of the tower under the verse and looked at her the way it had never looked at her before, as if it were listening, though it couldn't be. The collar was still on it, black iron, with the raw band under it where the fur had worn away.
+The lion lay in the arch and watched her. It didn't look away. Not once, the whole time she talked, and she talked until her feet had gone dead in the snow. It didn't put its head down. It didn't close its eyes. It lay with its chin on the threshold of the tower under the verse and looked at her as if it were listening, though it couldn't be. The collar was still on it, black iron, with the raw band under it where the fur had worn away.
 
 When she stopped there was nothing but the wind in the bare oaks, and the ice ticking out on the river, and the ground under her humming. Very low. Like a bowl that was struck long ago and is still, just, ringing.
 
@@ -119,7 +122,11 @@ Black oak, so old it had gone the colour of iron. Three bands of real iron acros
 
 Hale went down the three steps with his stick, and set the lantern on the floor at the bottom, to one side. He stood there. She came down after him and stood beside him.
 
-He had the key in his hand. The long black one. He'd taken it off his belt. He held it the way you'd hold something that might be hot.
+He had the key in his hand. The long black one. He'd taken it off his belt.
+
+Round the keyhole ran the ring of old letters, square, with the little hooks, worn almost smooth. She'd seen them from Hale's table in the autumn. Hale saw her looking at them now.
+
+"A ward," he said. "I can read that much of it. It turns a word aside. Nobody opens this door by saying anything to it." He looked at the key in his hand. "Only with this."
 
 He didn't put it in the lock.
 
@@ -157,9 +164,9 @@ She hadn't expected that. She'd thought it would be cold, cold as the stone, col
 
 Something else.
 
-No voice. Nothing like the thing Haverly had with Kesh, or Callis with Ash, or her father with his hound. There was no thread. Nothing came down her arm and spoke. Only, through her palm, very faintly, she felt something notice her.
+No voice. Nothing like the thing Haverly had with Kesh, or Wynn with Ash, or her father with his hound. There was no thread. Nothing came down her arm and spoke. Only, through her palm, very faintly, she felt something notice her.
 
-Something very large. Something so large that her hand on the door was nothing to it. Less than nothing. A fly on the skin of a sleeper. But the sleeper wasn't asleep. Far down, in the dark, something turned the edge of its attention, slowly, the way a great head turns, toward a hand on a door.
+Something very large. Something so large that her hand on the door was nothing to it. Less than nothing. A fly on the skin of a sleeper. But the sleeper wasn't asleep. Far down, in the dark, something turned the edge of its attention, slowly, toward a hand on a door.
 
 She couldn't take her hand away.
 
@@ -191,7 +198,7 @@ She stumbled back against the step. He held her wrist hard. His face in the lant
 
 They went up the archive in the dark with the lantern shuttered, fast, Hale limping, his stick knocking on the flags. At the archive door he stopped and opened it a crack.
 
-The yard was full of noise. Lanterns going across it. Men's voices. The Long Barn still roaring, the hounds and the boar and the greyharts, and Grieve's voice inside it bellowing at them. Somebody on the wall shouting something about the island.
+The yard was full of noise. Lanterns going across it, oil ones; the lamps on the wall had gone down to red at the first roar, and nobody trusted them. Men's voices. The Long Barn still roaring, the hounds and the boar and the greyharts, and Grieve's voice inside it bellowing at them. Somebody on the wall shouting something about the island.
 
 She stood at the top of the archive stair, behind Hale, in the cold, with her hand against her chest where it was still warm.
 

@@ -15,6 +15,7 @@ Draft notes: Days ten to thirteen. Decided here (proposals):
 - The elders' moot at the farm gate on day twelve: old Garrow, the Ashby widow, old Fisk from the Eelweir, Hob, and Wat Garrow standing back. They ask him to go before the Clan comes for the dragons and burns the rest of the village to get them. He asks for time until the wing heals. They give him till the new moon.
 - Day thirteen: at the Eelweir, Harrow's End's landing at the mouth of Hollow Beck, old Fisk tells him about the smoke from the tower and the girl his son saw.
 - Ada's verse: her father's mother taught her, in her own house, a last verse to "before the six" and made her swear on the hearthstone never to sing it, "not till you see what it's for". She doesn't sing it. She says she isn't sure yet.
+Magic touches: Tessa Garrow's knotted herd-cord on the pasture gate (kept foxes off; not Kharrak).
 notes -->
 
 ---
@@ -51,7 +52,7 @@ Wren came down the stairs.
 
 She'd been in bed. She came down in her nightgown with her hair all over her face, the way she always did, rubbing her eyes, and stopped on the bottom step, and looked at the window.
 
-Calder watched her. He watched her face, because it's what a father does, and because he could feel, through the green mark on his chest, Lisska watching her too. Watching very hard. Bright and still and curious, the way a cat watches a mouse, but without the hunger; or with a different hunger. Like a child pressing its face to a baker's window. She'd been waiting for this, he understood. Since a burned farm at Upper Rush, and a small girl in the yard with a cup of water in each hand, looking up. Since *Wren says hello.*
+Calder watched her. He watched her face, because it's what a father does, and because he could feel, through the green mark on his chest, Lisska watching her too. Watching very hard. Bright and still and curious, like a child pressing its face to a baker's window. She'd been waiting for this. Since a burned farm at Upper Rush, and a small girl in the yard with a cup of water in each hand, looking up. Since *Wren says hello.*
 
 Wren looked at the eye for a while.
 
@@ -187,7 +188,7 @@ Still, it was never enough, and that was the trouble. Three dragons, mending, ea
 
 Calder felt him do it. He was in the kitchen, at the table, and he felt the great body shift in the field above the house, and the hunger in it rise up like a tide, and he dropped his spoon and got up and went to the door on his crutch, shouting, *no, no, wait,* and he was too late.
 
-Wat Garrow's cows were in the beck pasture below the field. Six of them. Kharrak went down the slope on foot, lurching, with his wing dragging, faster than anything that size had any business moving on three good legs, and the cows saw him coming and ran, bawling, every way at once, and one of them ran the wrong way, and that was that.
+Wat Garrow's cows were in the beck pasture below the field. Six of them, behind a gate with a knotted herd-cord hung on it that Tessa Garrow swore had kept the foxes off for ten years. Kharrak went down the slope on his belly and four legs, lurching, with the wing dragging, faster than anything that size had any business moving, and the cows saw him coming and ran, bawling, every way at once, and one of them ran the wrong way, and that was that.
 
 Calder stood at the bottom of the field on his crutch, in the dusk, and watched a dragon eat Wat Garrow's red heifer. Through the mark he felt the hunger in Kharrak ease, and the warmth go into him, and the torn wing take it. And a kind of wordless, savage, uncomplicated gladness that he'd never in his life felt about anything and never would.
 
@@ -213,7 +214,7 @@ He didn't see her do it. He saw it after, in the morning, when he came out into 
 
 Wren's hair ribbon. The good one, the blue, that Senna had bought her at Cotter's Cross the last summer before the fever, and that she wore on fair days and nowhere else.
 
-*Look,* said Lisska. She turned her head so he could see it better. Then turned it the other way. Then back again. *Look. Look what she gave me. Isn't it nice? It's blue. It's a present. Wren gave it to me. Wren said it's so I don't forget her when I'm out in the woods. As if I would. As if I'd forget. I remember everything. I told her that and she said it didn't matter, it was a present anyway. Isn't it nice?*
+*Look,* said Lisska. She turned her head so he could see it better. Then turned it the other way. Then back again. *Look. Look what she gave me. Isn't it nice? It's blue. It's a present. Wren gave it to me. Wren said it's so I don't forget her when I'm out in the woods. As if I would. As if I'd forget. I told her that and she said it didn't matter, it was a present anyway. Isn't it nice?*
 
 Calder looked at the ribbon.
 

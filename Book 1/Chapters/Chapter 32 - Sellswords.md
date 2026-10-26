@@ -18,17 +18,14 @@ Draft notes: Days 43–49. Decided here (proposals):
 - Rue and Hesketh: Calder sends Lisska to drop a purse at their hut. Vey's men question them; they say nothing.
 - The echo: flying out west then south in the rain, he sees across the river a Hearthmere hamlet burning (Holloway, near Redwatch) and a column of knights with torches riding out to it along the River Road. On their own bank, they ride.
 - The route south: about a hundred leagues, three nights' flying (nights 46–48), lying up by day in woods, the last day in the Wendwood, the forest along the lower Wend from below Cotter's Cross almost to the coast (a new place on the map). He walks into Wendmouth on the morning of day 49.
+- Magic touches: Ada's nightly hearth-words keep the kitchen warm till dawn; Vey's handlers' words don't make the wyverns fly in the rain.
 notes -->
-
----
-
-The knights' first rule, Teo had told him once, laughing, was the only Greyhold lesson the Clan had ever bothered to learn. Somebody's grandfather had heard it from a Hearthmere prisoner, and it had gone round the hold and stayed there. *Subdue, don't kill.* The Clan had laughed at it for fifty years. *Subdue a wyvern. Subdue a sellsword. Subdue a Saltreach tax man.* Teo had laughed too. And then he'd stopped, and said: *Da says it's the hardest thing anyone ever told him.*
 
 ---
 
 He spent one night at home after the burning.
 
-One night. He sat at the kitchen table with Wren on his knee, which she was too big for, and his mother across from him, and the three dragons in the burned field above the house. He ate. He slept in his own bed, for the first time since the battle, and woke at dawn with Wren asleep across the foot of it like a dog, and lay there looking at the ceiling.
+One night. He sat at the kitchen table with Wren on his knee, which she was too big for, and his mother across from him, and the three dragons in the burned field above the house. He ate. His mother said the hearth-words over the fire before she went up, the way she had every night of his life, and the kitchen was still warm at dawn. He slept in his own bed, for the first time since the battle, and woke at dawn with Wren asleep across the foot of it like a dog, and lay there looking at the ceiling.
 
 He got up and told his mother he was going back to the Scar.
 
@@ -114,7 +111,7 @@ He'd wanted to from the first morning. Calder had felt it come up through the ru
 
 *They're sellswords. They're here to take us. Chain us. Sell us. You heard the sea man at the gate. That's all they are.*
 
-"They're men with wives," said Calder. "And children. And debts. And mothers. Who took a job." He didn't know why he was saying it. He didn't like them either. "They haven't hurt anybody. They've lit some fires and flown some birds up and down. That's all. You'd burn a hundred men for lighting fires."
+"They're men with wives," said Calder. "And children. And debts. And mothers. Who took a job." He didn't like them either. "They haven't hurt anybody. They've lit some fires and flown some birds up and down. That's all. You'd burn a hundred men for lighting fires."
 
 *For coming for us.*
 
@@ -202,7 +199,7 @@ He sat up.
 
 They went the next night, in the rain.
 
-The rain came in from the west at dusk, heavy and cold and steady, the first real rain of the long autumn. It put out the fires at the foot of the crag. It put out the torches of the men on watch. It hammered on the rock and ran down the face of it in sheets, and the hooded wyverns screamed in their cages on the carts and wouldn't fly, and in the camp at the edge of the trees the men went in under their canvas and stayed there.
+The rain came in from the west at dusk, heavy and cold and steady, the first real rain of the long autumn. It put out the fires at the foot of the crag. It put out the torches of the men on watch. It hammered on the rock and ran down the face of it in sheets, and the hooded wyverns screamed in their cages on the carts and wouldn't fly, whatever the handlers said over them, and in the camp at the edge of the trees the men went in under their canvas and stayed there.
 
 He'd sent Lisska to Rue in the afternoon, under cover of the cloud. With a purse. Everything he had left from the barley money, tied up in his last clean handkerchief, to drop by the door of the charcoal burners' hut. *Don't land,* he'd told her. *Don't let them see you. Just drop it.* Vey's men had been at the hut the second day, he knew, asking. Rue had told them she sold bread to anyone who paid and she'd never seen any dragons, and old Hesketh had said *the barley man* and nobody had understood him. He didn't want them to have anything to explain.
 
@@ -266,7 +263,7 @@ They went west first, out of the Fellwood, over the shoulder of the hill. He did
 
 And across the river, on the Hearthmere bank, a fire.
 
-Not a big one. A hamlet. He could see it from so high, the way you see a candle across a dark room: a little cluster of burning roofs, inland a way from the river, north of Greyhold, near the tower at Redwatch. Burning in the rain. He didn't know its name. He'd learn it later. Holloway. Nine houses and a chapel.
+Not a big one. A hamlet. He could see it from so high: a little cluster of burning roofs, inland a way from the river, north of Greyhold, near the tower at Redwatch. Burning in the rain. He didn't know its name. He'd learn it later. Holloway. Nine houses and a chapel.
 
 And along the River Road toward it, from Greyhold, coming fast: torches. A long line of them. Twenty, thirty. Riders. Going at the gallop along the road on the Hearthmere bank, in the rain, toward the burning hamlet, and as he watched, the line of torches turned off the road and up a lane and went toward the fire, and spread out round it, and he saw them go in. Knights. On their own bank. Riding to a fire.
 

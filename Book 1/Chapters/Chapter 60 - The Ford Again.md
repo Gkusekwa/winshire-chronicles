@@ -19,6 +19,7 @@ Draft notes: Days one hundred and twenty-seven to one hundred and thirty. Decide
 - Kharrak brings back a shooter from the near-bank gorse, dead: plain Clan grey over a Wendmouth shirt, oiled boots with brass eyelets, a ring of six on a string under his shirt. Proof, of a kind. There's nobody left at the ford to show it to.
 - Hallam dies on the stones in the late afternoon. Before he dies: "Tell them. Don't you carry it any more. Tell them both. Write it down if you have to." Morrow lies down beside him. Calder knows what that means. One life between two. He stays.
 - The echo: at dusk Calder flies down Hollow Beck to the Wend, to see where the dead go. The beck's in spring flood and it's carrying them: men, horses, a cloak with red thread, down past Harrow's End and into the Wend at the Eelweir. On the Wend, across the beck's mouth, there's a line of boats. Knights. Rowan's river patrol, at anchor, with lanterns. They're watching the dead come down out of the Marches into the river. Nobody in them moves. They don't cross.
+- Magic (proposal): on the string with the dead shooter's iron ring, a "warranted" Saltreach tin charm against bolts from the Ram's Head charm-board (58); the bolt went in under it.
 notes -->
 
 ---
@@ -35,7 +36,7 @@ He came back to the Scar on the evening of the second day on Morrow, slow, tired
 
 Calder had been sure they wouldn't.
 
-"Both of them." Hallam looked out over the dark valley toward the north. "Arn said he'd come to hear the barley man say whatever it is he's been carrying in his mouth all winter, and then he'd decide whether to drown him in the beck. Ulric said…" He almost smiled. "Ulric said he'd told you once, *when you're ready to say it, you know where I am,* and if you were ready, he'd be there."
+"Both of them." Hallam looked out over the dark valley toward the north. "Arn said he'd come to hear the barley man say whatever it is he's been carrying in his mouth all winter, and then he'd decide whether to drown him in the beck. Ulric said…" He stopped. "Ulric said he'd told you once, *when you're ready to say it, you know where I am,* and if you were ready, he'd be there."
 
 "And the truce?"
 
@@ -53,7 +54,7 @@ He got up.
 
 He told the dragons that night what he wanted.
 
-Not Hallam. Not anybody else. Only them, in the cave under the Scar, in the dark.
+Nobody else. Only them, in the cave under the Scar, in the dark.
 
 "Lisska. You'll be on the road from the Ram's Head. From first light. High. Where nobody looks." He felt her listening. "You're looking for one man. You know his face. You saw it at Varrhold in the summer. In the lower stable."
 
@@ -125,7 +126,7 @@ He went down the slope.
 
 He walked into the beck.
 
-The water came up cold to his knees and pushed at him, hard, the way it pushes in spring. He went out over the smooth brown stones to the middle, to the place where the beck ran fastest. Then, without meaning to, a little toward the near bank. To the place under the alders. Where the water had gone over Teo's back and round his shoulders and out past his hands, red.
+The water came up cold to his knees and pushed at him, hard. He went out over the smooth brown stones to the middle, to the place where the beck ran fastest. Then, without meaning to, a little toward the near bank. To the place under the alders. Where the water had gone over Teo's back and round his shoulders and out past his hands, red.
 
 He stood there.
 
@@ -153,7 +154,7 @@ The beck went over the stones.
 
 Ulric's face changed.
 
-Calder saw it. He was looking at Ulric when he said the name, and he saw the big closed face open, all at once, the way a door opens when the latch gives.
+Calder saw it. He was looking at Ulric when he said the name, and he saw the big closed face open, all at once.
 
 "Rook," said Ulric.
 
@@ -170,8 +171,6 @@ On the far bank, Arn hadn't moved.
 Arn sat on his black horse on the far bank and looked at his uncle.
 
 He didn't speak. But his face was doing something Calder had never seen it do. Not at the ford in the autumn, with his hand in his brother's blood. Not on the step of his father's hall. It had stopped being a knife. It was listening.
-
-He was listening.
 
 Calder stood in the water between them and felt it. The thing he'd wanted. Both of them, at once, hearing it in the same breath, on either side of the water, with the beck going over the stones between them. Neither able to say it had been told to the other first. He felt it hold, the way you feel a knot hold when you pull on it.
 
@@ -237,7 +236,7 @@ Morrow went down the slope toward the far gorse.
 
 And Calder, on his knees in the beck, saw the bolt.
 
-He'd always see it. He'd see it for the rest of his life. One bolt, from the far gorse, from a man in red thread who'd turned when he saw the black dragon coming. A short flat flight, upward, across the slope. Hallam Brecc, standing on his dragon's back with his stick in his fist, shouting, stopped shouting.
+He'd always see it. One bolt, from the far gorse, from a man in red thread who'd turned when he saw the black dragon coming. A short flat flight, upward, across the slope. Hallam Brecc, standing on his dragon's back with his stick in his fist, shouting, stopped shouting.
 
 He folded over. Morrow, beneath him, in the same moment, stopped in the air as if she'd been struck too, and came down. Not landing. Coming down. Onto the hillside, and sliding, in a long black tumble of wings, down the slope through the gorse and the stones, onto the bank of the ford, into the edge of the water.
 
@@ -261,15 +260,15 @@ Hallam Brecc was lying on the stones at the edge of the ford with his head on Mo
 
 The bolt was in his chest, high, on the left side, under the collarbone. Most of it. Only the flights showing. His cloak was soaked dark round it. He was alive. His eyes were open, pale and old, looking up at the alders with their yellow catkins against the sky.
 
-Morrow lay beside him in the shallows with the water going over her tail. She wasn't hurt. Not that Calder could see. There was no bolt in her. She was lying with her great grey-edged head curled round, close to the old man's, and her eyes were open, and she wasn't moving at all.
+Morrow lay beside him in the shallows with the water going over her tail. She wasn't hurt that Calder could see. There was no bolt in her. She was lying with her great grey-edged head curled round, close to the old man's, and her eyes were open, and she wasn't moving at all.
 
 Calder knelt down on the stones.
 
 "Farmer," said Hallam.
 
-"Don't talk."
+"Lie still."
 
-"I'll talk if I like." Hallam's voice was a dry thread. "Sixty years I've done what I'm told. I'll talk."
+"Shut up, farmer." Hallam's voice was a dry thread. "Sixty years I've done what I'm told. I'll talk."
 
 Calder took his hand. It was very cold.
 
@@ -287,7 +286,7 @@ Hallam looked at him.
 
 Calder didn't answer.
 
-"Tell them." Hallam's hand tightened on his, very weakly. "Both. Don't you… carry it any more. You've carried it all winter, like a stone in your coat, and look." He coughed. Something came up with it, dark. "Tell them. Again. And again. Every one of them. Write it down if you have to. Nail it on a door." He almost smiled. "That's what *they* do."
+"Tell them." Hallam's hand tightened on his, very weakly. "Both. Don't you… carry it any more. You've carried it all winter, like a stone in your coat, and look." He coughed. Something came up with it, dark. "Tell them. Again. And again. Every one of them. Write it down if you have to. Nail it on a door. That's what *they* do."
 
 "I will."
 
@@ -305,6 +304,8 @@ Under the Clan grey was a shirt of fine-woven Wendmouth linen. On his feet were 
 
 Calder turned it over in his fingers. Plain iron. The kind the boys in the camp fields wore on strings.
 
+There was something else on the string with it. A strip of tin as long as his finger, scratched with old letters, with the Tide Council's stamp pressed into the back. He'd seen a board of them at the Ram's Head. *A word against bolts. Warranted.* The bolt that had killed the man had gone in a hand's breadth under it.
+
 *Proof,* said Kharrak. Very low. *You wanted proof.*
 
 Calder looked up at the empty banks of the ford. The far rise where Arn had gone. The near slope where Ulric had gone. The ten dragons of the ledges coming back over the ridges one by one to land on the hillside above, and look down at Morrow.
@@ -321,13 +322,13 @@ Calder didn't let go of his hand.
 
 Morrow didn't move.
 
-The ten on the hillside stayed where they were. They sat in their row in the gorse with their riders standing beside them, and looked down at the old black dragon lying in the edge of the ford with the dead man's head on her leg, and none of them came down. Calder understood. They knew. All of them knew. They'd known since the bolt.
+The ten on the hillside stayed where they were. They sat in their row in the gorse with their riders standing beside them, and looked down at the old black dragon lying in the edge of the ford with the dead man's head on her leg, and none of them came down. They knew. They'd known since the bolt.
 
 One life between two.
 
 He'd heard it all his life. He'd seen it, once, as a boy: an old man in Harrow's End whose cow-beast died, and three days later the old man died too, in his chair by the fire, and nobody was surprised. He'd heard Ada say it. He'd heard Teo say it, about Sigrun and Aurveth, laughing. *They'll go together, those two. You watch.*
 
-Morrow lay in the water beside Hallam Brecc with her eyes open, and it had already begun. He could see it. Not in her body. In her eyes. Something going out of them, slowly, the way the light goes out of a sky.
+Morrow lay in the water beside Hallam Brecc with her eyes open, and it had already begun. He could see it in her eyes. Something going out of them, slowly.
 
 He couldn't hear her. She wasn't his. But Aurveth could. He felt it through the bronze mark: Aurveth, on the ridge behind him, hearing something from the old black dragon that he couldn't hear, and lowering her head to the ground, all the way down, the way she had lowered it to the ice at midwinter.
 

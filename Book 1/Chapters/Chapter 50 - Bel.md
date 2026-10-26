@@ -16,6 +16,7 @@ Draft notes: Days ninety-eight to one hundred and one. Decided here (proposals):
 - The echo: the two chains side by side on the table. Bel scrubs the rust off with ash and her thumb, the way she'd scrub a pot, and on the inside of the last link of each there's the same small smith's stamp under the six: a crossed hammer. One maker. The men who took Joss's greys put the chain on the lion. (Proposal: the crossed hammer is Odo Marl's stamp, from his Millbrook smithy. Calder doesn't know that. Maren could recognise it later.)
 - Bel: "Get him out. Old Grey. Don't you leave him in that field."
 - Day 101: they bury Joss on the hill above the hollow, Marches fashion. Mabbin and Sorrel stand at the paddock gate. The dragons watch from the ridge behind Bel's. Kharrak: *Tell me when.* Calder: "The night after the dark of the moon."
+- Magic touches: the honey-smoke smell on the soft-bearded camp man's coat.
 notes -->
 
 ---
@@ -96,13 +97,13 @@ She was back within reach a little after noon, her voice coming in fast before h
 
 *I found it. Look. Look.*
 
-She pushed it at him, the way she'd pushed the arch. A long white valley with a frozen beck down the middle of it and the Wend at the end, grey and solid. Tents. Rows of them, grey canvas, laid out in lines on the valley floor. Smoke from the cookfires going up straight in the still air. People. A great many. At the back, in a fenced field on the slope above the beck, the beast lines.
+She pushed it at him, the way she pushed her memories. A long white valley with a frozen beck down the middle of it and the Wend at the end, grey and solid. Tents. Rows of them, grey canvas, laid out in lines on the valley floor. Smoke from the cookfires going up straight in the still air. People. A great many. At the back, in a fenced field on the slope above the beck, the beast lines.
 
 *That one,* said Lisska. *The big one. The grey.*
 
 He saw it. Bigger than he'd remembered, or thinner, standing at the end of the lines with a sled harness on it, by the water-hole they'd cut in the beck ice. Grey, with the white coming through at the muzzle. A head like a barrel. The ear. The notch at the tip, like a swallow's tail.
 
-The others in the line were stamping, blowing, shifting their weight, the way beasts do in the cold. Old Grey stood in the snow with his head level, still as a gatepost. A man in grey stood beside him with a hand on his neck.
+The others in the line were stamping, blowing, shifting their weight in the cold. Old Grey stood in the snow with his head level, still as a gatepost. A man in grey stood beside him with a hand on his neck.
 
 *His eyes,* said Lisska. Very small. *Calder. His eyes.*
 
@@ -128,7 +129,7 @@ He saw it from the hill. A small cart, one horse, a dark bay, coming up the rive
 
 He knew before it turned into the lane.
 
-He came down off the hill at a run. He felt the dragons behind him come up off the snow, and he said, *No. Stay. Stay where you are,* and felt Kharrak's tide come up hot and red through the mark, and held it. He didn't know how. He held it the way you'd hold a door shut with your back.
+He came down off the hill at a run. He felt the dragons behind him come up off the snow, and he said, *No. Stay. Stay where you are,* and felt Kharrak's tide come up hot and red through the mark, and held it. He didn't know how.
 
 Ada was at the top of the lane with a lantern. In broad noon. She'd seen it from the window and come out and lit it and stood there, at the top of the lane, holding the lantern up.
 
@@ -144,9 +145,9 @@ Bel made a sound Calder had never heard a person make.
 
 ---
 
-The men told it standing in the lane with their caps in their hands. One did most of the talking. He was young, with a soft beard and a camp man's coat, and he spoke gently, the way you speak to people at a graveside, and Calder stood and listened to him and wanted to put his hands round his throat.
+The men told it standing in the lane with their caps in their hands. One did most of the talking. He was young, with a soft beard and a camp man's coat, and he spoke gently, and Calder stood and listened to him and wanted to put his hands round his throat. When the wind came round there was a smell on the man's coat. Sweet and heavy, like honey burned in a pan, with crushed leaves under it. Calder knew it now.
 
-The man came in the night, he said. Into the beast lines. With a knife. Nobody knew who he was. He came over the fence in the dark and went straight down the lines to the big grey at the end and started cutting at its tether. The grey's handler was asleep in the straw by the lines, the way the handlers do, and he woke, and called out. And the grey took fright.
+The man came in the night, he said. Into the beast lines. With a knife. Nobody knew who he was. He came over the fence in the dark and went straight down the lines to the big grey at the end and started cutting at its tether. The grey's handler was asleep in the straw by the lines, and he woke, and called out. And the grey took fright.
 
 "Took fright," said Calder.
 
@@ -156,7 +157,7 @@ The woman had gone to Bel and was holding her arm. Bel didn't seem to know she w
 
 Calder went to the cart and lifted the blanket back.
 
-Joss's face was all right. That was the thing he'd remember. His face was all right, white and still and surprised, with his eyes shut and snow in his beard. It was his chest. His chest was wrong. It had gone in, the whole left side, in a round deep dent the size of a bucket's mouth, through his coat and his shirt and him. You could see the print of the hoof in the cloth. The edge of the shoe.
+Joss's face was all right. His face was all right, white and still and surprised, with his eyes shut and snow in his beard. It was his chest. His chest was wrong. It had gone in, the whole left side, in a round deep dent the size of a bucket's mouth, through his coat and his shirt and him. You could see the print of the hoof in the cloth. The edge of the shoe.
 
 A dray-beast, eight feet at the shoulder and more, three times the weight of the biggest horse, coming down with all of it on one forefoot.
 
@@ -180,7 +181,7 @@ Calder took them.
 
 On the hill above the farm, Calder felt Kharrak come up off the snow.
 
-He felt it the way you feel a wave coming at you on a beach in the dark. Before you see it. The whole red tide of him, all at once, hot, huge, coming up through the mark on his chest so hard that his hand went to it. Kharrak was on his feet on the hill with his wings open and his throat swelling and the heat building in him like a forge with the bellows going, and he was looking down at the lane, at the cart, at the two men in grey with their caps on and the woman with the ring on her string.
+He felt it before he saw it. The whole red tide of him, all at once, hot, huge, coming up through the mark on his chest so hard that his hand went to it. Kharrak was on his feet on the hill with his wings open and his throat swelling and the heat building in him like a forge with the bellows going, and he was looking down at the lane, at the cart, at the two men in grey with their caps on and the woman with the ring on her string.
 
 *Now,* said Kharrak. *Now. Let me. Let me.*
 
@@ -284,7 +285,7 @@ She reached out and picked up the island length. She turned it over in her hands
 
 "It's the same mark."
 
-"Lots of people could stamp six dots on a bit of iron." She got up. She went to the hearth and took a handful of cold ash from the edge of it, and came back, and sat down, and took the island chain in her lap and began to scrub it. With the ash and her thumb, hard, the way she'd scrub a black pot, the way their mother had taught them both. Calder watched her do it. She didn't speak. She scrubbed the last link of the island chain, the one at the end, until the rust came off grey in the ash and the iron underneath came up dark and dull.
+"Lots of people could stamp six dots on a bit of iron." She got up. She went to the hearth and took a handful of cold ash from the edge of it, and came back, and sat down, and took the island chain in her lap and began to scrub it. With the ash and her thumb, hard, the way she'd scrub a black pot. Calder watched her do it. She didn't speak. She scrubbed the last link of the island chain, the one at the end, until the rust came off grey in the ash and the iron underneath came up dark and dull.
 
 She stopped.
 
@@ -308,7 +309,7 @@ She laid them down side by side on the table, the two last links touching, the t
 
 Calder looked at them.
 
-He'd carried one in his pocket since the summer. He'd carried the other since the night he crossed the ice. He'd never once scrubbed them. It had never crossed his mind. The six was enough; the six was what he'd been looking at. He'd never looked underneath.
+He'd carried one in his pocket since the summer. He'd carried the other since the night he crossed the ice. He'd never once scrubbed them. The six was enough; the six was what he'd been looking at. He'd never looked underneath.
 
 "The ones who came here," Bel said. "In the summer. Who took Mabbin and Old Grey, and burned the barns. They had chain from the same smith as the ones who chained up that thing on the island."
 
@@ -326,7 +327,7 @@ He looked at the two little hammers in the lamplight, side by side.
 
 ---
 
-She didn't forgive him. He hadn't thought she would. He didn't think he would have, in her place.
+She didn't forgive him. He hadn't thought she would.
 
 She sat at the table a long while with her hands on either side of the chains. Then she said, without looking up:
 

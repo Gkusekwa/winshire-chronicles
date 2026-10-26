@@ -1,4 +1,7 @@
 # Decisions while drafting Chapters 41–50
+
+*Historical record; merged into the Bible. The chapter notes and the Bible are current.*
+
 Extracted from each chapter's notes block. Items marked (proposals) are the drafter's calls for the author to confirm. Later rulings: see Rulings_41-79.md.
 
 ## Chapter 41: The Freeze

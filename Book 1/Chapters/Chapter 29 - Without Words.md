@@ -10,12 +10,13 @@ Carried forward: From Chapter 27: two visits, tolerated at the stream; its foot 
 Draft notes: Days twenty-nine to forty. Your decision: the lion and Maren can't speak, so respect comes the hard way. It tries to kill her again, and she has to defend herself. Decided here (proposals):
 - She begins to light a small fire on the stones on her side of the stream: fire on the ground, not in her hand. It's the cold, and also a statement: here is the thing I used against you, and I'm not holding it.
 - Day thirty-one (the echo): a vast shadow crosses the moon over the island, very high, circling. The lion lifts its head and watches it go round, again and again, and the ground under the stream hums, a low sound like a struck bowl. It watches until the shadow goes east.
-- Day thirty-four: she brings the chisel to cut the collar off. She crosses the stream for the first time. It attacks in earnest. It knocks her down and pins her under a forefoot with its claws in the earth either side of her; its weight is crushing her chest. She defends herself: she drives the butt of the hammer up hard into the soft of its nose, once. It's not a wound, only pain, the way you'd stop a dog. It rears off her. She rolls into the stream and down it to the river shallows, where Ottery, who has come up the west channel in the punt because he didn't like the quiet, hauls her in with the boathook. He sees the lion on the bank, ten feet at the shoulder in the dusk, and says nothing at all for a league.
+- Day thirty-four: she brings the chisel to cut the collar off. She crosses the stream for the first time. It attacks in earnest. It knocks her down and pins her under a forefoot with its claws in the earth either side of her; its weight is crushing her chest. She defends herself: she drives the butt of the hammer up hard into the soft of its nose, once. It's not a wound, only pain, the way you'd stop a dog. It rears off her. She rolls into the stream and down it to the river shallows, where Ottery, who has come up the west channel in the punt because he didn't like the quiet, hauls her in with the boathook. He sees the lion on the bank, ten feet at the shoulder in the dusk, and says nothing all the way across the west channel to Redwatch.
 - Ottery: Edric told only Liss about the breathing; Ottery heard it from her years ago and told her Edric had dreamed it.
 - Her trips go from the Redwatch boathouse; she rides Turnip out after evening muck.
 - Her injuries: two cracked ribs, a long shallow gash across the thigh from a claw, bruises the shape of a paw.
 - What she understands: she came at its neck with iron. That's what the hunters did. The collar is their chain. It read her as one of them.
 - Day thirty-eight: she lays the hammer and chisel on a flat stone on her side of the stream, in plain sight, and walks ten paces away from them, and sits. The lion looks at the tools a long while. It doesn't come. It lies down on its own side, for the first time, instead of leaving. They sit like that till dark.
+- Magic touches: the old surgeon's licensed knitting-words over the cracked ribs (they hurry the healing, no more).
 notes -->
 
 ---
@@ -26,7 +27,7 @@ The river watch has no word for what happens between two animals that can't spea
 
 She lit a fire on the twenty-ninth day.
 
-It was cold. That was the reason she gave herself. The long autumn had come down on the river like a lid: grey days, short and still, and nights with frost in them, so that when she poled up in Ottery's punt in the dusk the reeds along the bank were white at the tips and her breath went out in front of her in clouds. Sitting on the bank of the stream for an hour in the dark, not moving, she'd gone so stiff on her last visit that she could barely stand up when the lion had gone. So she brought kindling in her pack, and a flint, and a twist of tow, and when she came down through the trees to the stream and sat in her place she built a fire in front of her, on the flat stones at the water's edge, small, no bigger than a cooking fire, and lit it.
+It was cold. That was the reason she gave herself. The long autumn had come down on the river like a lid: grey days, short and still, and nights with frost in them, so that when she poled across in Ottery's punt in the dusk the reeds along the bank were white at the tips and her breath went out in front of her in clouds. Sitting on the bank of the stream for an hour in the dark, not moving, she'd gone so stiff on her last visit that she could barely stand up when the lion had gone. So she brought kindling in her pack, and a flint, and a twist of tow, and when she came down through the trees to the stream and sat in her place she built a fire in front of her, on the flat stones at the water's edge, small, no bigger than a cooking fire, and lit it.
 
 That was the reason she gave herself. It wasn't all of it.
 
@@ -144,7 +145,7 @@ She stepped into the stream.
 
 It was the first time. Twenty paces, the stream between them, all those evenings. She'd never crossed it. She'd never even put her foot in it. She stepped down off the bank into the cold water, to her shins, and took another step, toward the middle, toward the lion standing on the far side with the broken end of the chain hanging from its collar in the stream.
 
-*Easy,* she thought at it. The way you'd think at a horse. *Easy. I'm going to take it off. That's all. I'm going to take it off you.*
+*Easy,* she thought at it. *Easy. I'm going to take it off. That's all. I'm going to take it off you.*
 
 Its lip went back.
 
@@ -188,11 +189,11 @@ Not the head. She turned it in her hand as it came, and brought the butt of the 
 
 Once.
 
-The way you'd stop a dog that had your arm. The way Grieve stopped the boar, when it went for him, with the flat of a shovel. Not a wound. Just pain. Sharp and sudden, in the one place on any beast's face that has no armour.
+The way Grieve stopped the boar, when it went for him, with the flat of a shovel. Not a wound. Just pain. Sharp and sudden, in the one place on any beast's face that has no armour.
 
 The lion reared back off her.
 
-It went up, all of it, off her chest, with a sound that came out of it like a tree splitting, a roar and a cough and a snarl all at once. Its head went up and back, shaking, and its forefoot came off her and went to its own face, pawing at its nose the way a cat does when it's been stung. The ground under the stream heaved. She felt it under her back, the whole bank lifting and dropping, and a stone she was lying on split clean in two.
+It went up, all of it, off her chest, with a sound that came out of it like a tree splitting, a roar and a cough and a snarl all at once. Its head went up and back, shaking, and its forefoot came off her and went to its own face, pawing at its nose. The ground under the stream heaved. She felt it under her back, the whole bank lifting and dropping, and a stone she was lying on split clean in two.
 
 She rolled.
 
@@ -212,9 +213,7 @@ It stood at the top of the slope with its head down and its mane up round it lik
 
 Ottery looked back at it.
 
-He poled. He kept quiet when they came out of the west channel into the main river, and when he turned the punt downstream, and when the island went away behind them into the dark. He kept quiet for a league.
-
-Then, with the lights of Redwatch showing ahead on the Hearthmere bank, he said, in a voice she'd never heard him use:
+He poled. He kept quiet the whole way across the west channel. Then, with the lights of Redwatch showing ahead on the Hearthmere bank, he said, in a voice she'd never heard him use:
 
 "Your mother told me once what your father heard out there. Years back, at a wake, with drink in her. And I told her he'd dreamed it."
 
@@ -230,7 +229,7 @@ He poled.
 
 ---
 
-Two cracked ribs. The old surgeon said so, prodding her side in the infirmary while she lay on the bench with her teeth set, and then swore at her again, and asked who'd bound her this time, and she said nobody, and he swore more. A long shallow gash across the outside of her right thigh where a claw had caught her when the foot came down; she hadn't even felt it. And bruises. Great purple-black bruises across her chest and down her back, spreading, so that by the next morning when she looked down at herself in the dormitory she could see the shape of it. The pads. The four toes. Printed on her.
+Two cracked ribs. The old surgeon said so, prodding her side in the infirmary while she lay on the bench with her teeth set, and then swore at her again, and asked who'd bound her this time, and she said nobody, and he swore more. Then he put both hands flat on her side and said the knitting-words over the ribs, the ones the crown licensed him for, three times through, flat and bored, like a man counting sacks. The ache went down to something she could lie on. The words only hurried what the bone would do anyway, he said. She'd still be two days on her back. A long shallow gash across the outside of her right thigh where a claw had caught her when the foot came down; she hadn't even felt it. And bruises. Great purple-black bruises across her chest and down her back, spreading, so that by the next morning when she looked down at herself in the dormitory she could see the shape of it. The pads. The four toes. Printed on her.
 
 She lay on her cot in the dormitory for two days, with her side bound, and couldn't muck out, and Grieve said nothing about it, and Ide Darrow brought her soup.
 
@@ -252,7 +251,7 @@ That was what the hunters did. That was what they'd done, every night, for weeks
 
 The fire on the ground, and her hands open, and not moving: that had said something, whatever it was. Then she'd stood up and taken out iron and walked across its water at its neck, and that had said something too, much louder, and it had answered.
 
-*Without words,* she thought. *It's all without words. Everything I do is a word. Where I sit. What I hold. Which way I walk. Whether I cross the water.* She looked at the cracks in the ceiling. *And I said the wrong one. And it nearly killed me for it. And it was right to.*
+*Without words,* she thought. *It's all without words. Everything I do is a word. Where I sit. What I hold. Which way I walk. Whether I cross the water.*
 
 There was the other thing, too. The hammer.
 
@@ -292,7 +291,7 @@ It stopped at the edge of the trees. It looked at her. It looked at the place by
 
 It looked at the stone for a very long time.
 
-She watched it out of the corner of her eye. She didn't look at it straight. She sat with her hands open on her knees and her side aching and the frost coming on the grass around her and watched it look at the hammer and the chisel lying on the stone. Its head went low. Its lip went back. The ground under her trembled, just a little, the way a dog's lip trembles before it decides.
+She watched it out of the corner of her eye. She didn't look at it straight. She sat with her hands open on her knees and her side aching and the frost coming on the grass around her and watched it look at the hammer and the chisel lying on the stone. Its head went low. Its lip went back. The ground under her trembled, just a little.
 
 It didn't come.
 

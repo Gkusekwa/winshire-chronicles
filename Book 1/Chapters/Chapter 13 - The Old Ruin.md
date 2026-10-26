@@ -10,13 +10,14 @@ Draft notes: From dusk on day 0, the night of the fair (Chapter 11's ending), to
 - The verse under the tower arch, in the old script of the Oneroad milestones, which Maren can half read (her father taught her the old letters from the river-watch boundary stones). Weathered; she copies what she can. Its last line, "keep the watch below and do not ask," is the knights' oath, older than Greyhold.
 - The hunters' chain carries the ring of six dots; Maren keeps one cut link as proof. The reader has seen the mark on Calder's chain (Chapters 2, 10); Maren hasn't.
 - The north end of the island is silent: no birds. She doesn't go there yet.
+Magic touches: Edric learned the old letters from a Reader of the Isvaren colleges (iron ring) copying stones; Hanna's keeping-words hold the bread.
 notes -->
 
 ---
 
 There's a thing the river watch tells new recruits on their first night out, when the boat's in the middle of the stream and the lantern's shuttered and there's nothing to see in any direction but black. They tell you that the river is a road. Not like a road; a road. That everything on it is going somewhere, the water and the boats and the fish and the drowned, and that if you sit still long enough and listen, you can hear it all going by: a long, low, endless sound like breath. And they tell you that the only places on a river where nothing is going anywhere are the islands. That's why you don't land on them. An island is a place where the road stops. And whatever's stopped there, has stopped for a reason.
 
-Maren had been told that on her first night. She'd thought it was a story to frighten recruits. She'd thought so for four years.
+Maren had been told that on her first night. She'd thought it was a story to frighten recruits. She'd thought so for eight years.
 
 She grounded the skiff on the gravel spit in the last grey of the dusk, and climbed out into water to her knees, and stood there holding the bow line, and listened, and heard the river going by on both sides of her. And behind her, under the trees, nothing at all.
 
@@ -32,7 +33,7 @@ The fire went down, and the music stopped, and there was only the river.
 
 She didn't sleep much. She lay on her back on the gravel with the overturned boat a hand's breadth above her face and counted the sounds. The water on the stones. The wind in the trees above the spit. An owl, twice, far off on the Hearthmere bank. The drift-log creaking as the river shifted it. She counted them all and put them away, the way you do on watch, so that when a new one came she'd know it.
 
-No new one came. That was what kept her awake. On the river at night there was always something: an otter, a heron, a fox on the bank, a fish jumping. Here there was nothing. The island lay behind her in the dark like a held breath.
+No new one came. That was what kept her awake. On the river at night there was always something: an otter, a heron, a fox on the bank, a fish jumping. Here there was nothing. The island lay behind her in the dark.
 
 *If you hear it breathing, you lie still, and you count.*
 
@@ -58,9 +59,9 @@ Between the two gates, straight through the middle of the fort, ran the road.
 
 It was under the moss, but it was there. She knelt and scraped at it with her knife and found paving: big flat stones, square-cut, fitted so close together you couldn't have put a blade between them, worn in two long shallow grooves by wheels that had stopped turning before anybody's grandmother was born. It came in through the west gate and went out through the east gate, straight as a spear, and at both ends, beyond the gates, it ran down to the water and stopped, where the bridges had been.
 
-The Oneroad. The road of the old realm. She'd seen bits of it before, on the Hearthmere side: a stretch of paving under a field near Ashford, a milestone in a hedge with letters on it nobody could read. Her father had shown her the milestone once, when she was small. He'd traced the letters with his finger and told her what some of them said. She'd forgotten nearly all of it.
+The Oneroad. The road of the old realm. She'd seen bits of it before, on the Hearthmere side: a stretch of paving under a field near Ashford, a milestone in a hedge with letters on it nobody could read. Her father had shown her the milestone once, when she was small. He'd traced the letters with his finger and told her what some of them said. He'd had them, he said, from a Reader out of the Isvaren colleges, a little man with an iron ring on his hand, who had come down the river one summer copying stones for a book. She'd forgotten nearly all of it.
 
-Standing in the middle of the fort with her boots on the old road, she remembered it all at once, the way you remember a smell. His finger on the cold stone. His voice.
+Standing in the middle of the fort with her boots on the old road, she remembered it all at once, like a smell. His finger on the cold stone. His voice.
 
 *This one's an old A. This one's a W. That's how they wrote it, before the six.*
 
@@ -149,7 +150,7 @@ She sat on the root until the light began to go, and then she went back to the f
 
 ---
 
-On the third day it rained, and she spent most of it in the tower doorway, out of the wet, with the notebook, going over the verse. She got two more words out of the fourth line, by tracing them with her finger in the grey light: *the last … great …* and then the stone was gone again. *The last great something sleeps below the stone.*
+On the third day it rained, and she spent most of it in the tower doorway, out of the wet, with the notebook, going over the verse and eating her mother's bread, which was as soft on the third day as on the first; Hanna's keeping-words had held. She got two more words out of the fourth line, by tracing them with her finger in the grey light: *the last … great …* and then the stone was gone again. *The last great something sleeps below the stone.*
 
 She thought about her mother's song. She thought about the drunk boy on the river wall who'd sung it, once, in her first year, badly, until somebody threw a boot at him.
 
@@ -163,7 +164,7 @@ She wrote *great* in the gap in pencil, and looked at it, and didn't rub it out.
 
 On the fourth day, at noon, the smoke went up.
 
-She was on the spit, washing her shirt in the river and keeping one eye on the Saltreach bank the way she always did, because it was the habit of four years, when she saw it. North-east, away inland, beyond the fields above Harrow's End where the hills rose toward the Scarfell. A single grey column, thin at first, going straight up in the windless noon.
+She was on the spit, washing her shirt in the river and keeping one eye on the Saltreach bank the way she always did, because it was the habit of eight years, when she saw it. North-east, away inland, beyond the fields above Harrow's End where the hills rose toward the Scarfell. A single grey column, thin at first, going straight up in the windless noon.
 
 She stood up with the wet shirt in her hands and watched it.
 
@@ -171,7 +172,7 @@ No farm fire: too far up, too far inland; there were no farms up there, only moo
 
 Somewhere up there, on the Saltreach side, in the hills where the Drover's Way climbed to the Clan's hold, something had gone wrong.
 
-She thought of Rowan in her bare room at the top of the gatehouse, writing in her neat slanting hand. *Something will break across the river before the moon is new. When it does, I'd like to know what it was.*
+She thought of Rowan in her bare room at the top of the north tower, writing in her neat slanting hand. *Something will break across the river before the moon is new. When it does, I'd like to know what it was.*
 
 She thought of Weir's boy on the river wall. *The young one walked out between them and made them do it together.*
 

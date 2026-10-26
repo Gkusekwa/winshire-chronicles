@@ -15,6 +15,7 @@ Draft notes: Days seventy-four to seventy-nine. Decided here (proposals):
 - Under the ice, the current takes her downstream under the skin. Something seizes her by the coat and the shoulder from above, through the ice, and drags her up onto the island's shore. Heat, a smell of fur and cold stone, a sound like a millstone. When she can see again there's nothing there but a broken hole in the shore ice the size of a cart and long furrows in the snow going into the trees. The man, Haddow, is on the shore beside her, alive.
 - She doesn't tell Ottery what she felt. She tells him the current threw them up. He looks at the furrows and says nothing.
 - Echo: on day 77, from the Redwatch tower, she sees a dragon come down on the white ice far upriver, above Harrow's End, stand there a moment as if testing it, and go up again. Rust-red, she thinks.
+- Magic touches: one of Redwatch's two licensed warming-stones in Maren's lap after the ice (still working; it goes cold after night 90, see Chapter 53).
 notes -->
 
 ---
@@ -25,7 +26,7 @@ Maren watched it from the top of the Redwatch tower, where Ottery let her stand 
 
 For most of those days Ottery could still take her over at dusk in the punt, creeping along the slow water at the edges where the ice was thin, when the river let them. Then the big slabs came down, and no boat would go out in that, not the patrol boats and not Ottery's punt. The island lay out in the middle of the grinding white, a long dark shape with the stump of the tower standing up out of its trees, and nobody went near it, and Maren didn't see the lion.
 
-She told herself it didn't matter. It had lived on that island for longer than there'd been a Greyhold. It didn't need her. She'd sit on the top of the tower with Ottery's jug going cold in her hands and look at the dark shape out in the ice, and tell herself so, and not believe it.
+She told herself it didn't matter. It had lived on that island long before her. It didn't need her. She'd sit on the top of the tower with Ottery's jug going cold in her hands and look at the dark shape out in the ice, and tell herself so, and not believe it.
 
 "You'll freeze up here," Ottery would say, coming up the ladder at the change of watch.
 
@@ -69,7 +70,7 @@ Something came down out of the sky above the river.
 
 Far off. A league and more, upriver, above the bend where Hollow Beck came in. A shape, dropping out of the grey cloud over the Saltreach hills in a long slant, with its wings half closed. Dark. Big. It came down onto the white of the river and landed, and she saw it, quite clearly, even from so far: a dragon, standing on the ice.
 
-It stood there in the middle of the frozen river with its wings half open, very still, the way you stand on a floor you're not sure of. It lifted one foreleg and set it down again. Hard. She thought she heard it, a long way off, a dull crack like a door closing. Then the other foreleg.
+It stood there in the middle of the frozen river with its wings half open, very still. It lifted one foreleg and set it down again. Hard. She thought she heard it, a long way off, a dull crack. Then the other foreleg.
 
 It went up all at once, beating, back into the cloud, and away north-east over the hills, and was gone.
 
@@ -109,7 +110,7 @@ The woman came out after him, with the baby. Then the boy.
 
 ---
 
-She didn't decide to go. She'd think about that later, the way she'd thought about the hollow, and the shore, and the chisel. She just found that she had the rope from the boathouse round her waist, and Ottery shouting at her, and the end of the rope in his hands because she'd shoved it there, and she was out on the ice.
+She didn't decide to go. She just found that she had the rope from the boathouse round her waist, and Ottery shouting at her, and the end of the rope in his hands because she'd shoved it there, and she was out on the ice.
 
 Flat, the way the river watch taught every recruit their first winter. Never walking. Lying down, belly to the ice, arms and legs spread wide, so your weight went everywhere at once and nowhere very much. Pulling yourself along with your hands and the boathook. She'd done it a dozen times on the frozen ponds behind Greyhold, in drill, with Pell standing on the bank shouting. She'd never done it on the river.
 
@@ -127,7 +128,7 @@ The woman heard her. The woman went down, at once, onto her knees and then onto 
 
 She got to the woman first.
 
-She came off the edge of the solid slabs onto the grey skin and felt it give under her, bend, the way a plank bends, and didn't stop. She slid the boathook out ahead of her, as far as she could reach, and got the hook into the woman's shawl, and pulled. The woman came, sliding, on her side, with the baby screaming against her chest. Maren pulled her past, onto the snow-covered slabs behind, and let go, and turned.
+She came off the edge of the solid slabs onto the grey skin and felt it give under her, bend like a plank, and didn't stop. She slid the boathook out ahead of her, as far as she could reach, and got the hook into the woman's shawl, and pulled. The woman came, sliding, on her side, with the baby screaming against her chest. Maren pulled her past, onto the snow-covered slabs behind, and let go, and turned.
 
 The boy. Eight, nine. White-faced. Lying flat on the grey ice where his mother had pushed him, a few lengths from the black hole where his father had gone. Staring at it.
 
@@ -151,7 +152,7 @@ She went under with the boathook still in her hands. The black closed over her h
 
 The current took her.
 
-She'd always known the Wend was fast in the deep channel. She'd never known it was this fast. It took her the way a hand takes a leaf. Down, under the ice, away from the hole, away from the light. She was under the ice. She could see it above her, grey, a ceiling, with the dawn coming through it faintly, and she put her hands up and pressed them flat against it, and it didn't move. It was thick here. It was solid. She was under it, in the black, going downstream, and there was no way up.
+She'd always known the Wend was fast in the deep channel. She'd never known it was this fast. It took her like a leaf. Down, under the ice, away from the hole, away from the light. She was under the ice. She could see it above her, grey, a ceiling, with the dawn coming through it faintly, and she put her hands up and pressed them flat against it, and it didn't move. It was thick here. It was solid. She was under it, in the black, going downstream, and there was no way up.
 
 *This is how it happens.* The Widow's Frost. Men who sat down in the reeds for a moment's rest and didn't get up.
 
@@ -217,7 +218,7 @@ He looked at the furrows again. Four of them. Each as wide as a hand. Going up i
 
 "Aye," he said at last. "The current." He bent down and got his arm under hers. "Up you get. On the sledge. Before you lose your toes."
 
-He said no more about it. Not on the sledge, not across the ice, not in the guardroom at Redwatch with her feet in a bucket of water that felt like fire and the woman, Haddow she said they were called, crying in the corner with the baby and the boy and her husband wrapped in every blanket in the tower. He brought her tea. He put more wood on the fire. He went up the tower.
+He said no more about it. Not on the sledge, not across the ice, not in the guardroom at Redwatch with her feet in a bucket of water that felt like fire and the woman, Haddow she said they were called, crying in the corner with the baby and the boy and her husband wrapped in every blanket in the tower. He brought her tea. He put a warming-stone in her lap, one of the two the tower kept for the winter watch, and she held it against her stomach with both hands. He put more wood on the fire. He went up the tower.
 
 At the door he stopped, with his hand on the frame, and looked back at her.
 
@@ -237,7 +238,7 @@ She sat by the fire with her feet in the bucket and her hands round the cup and 
 
 *Something came down through the light.*
 
-She'd never seen it. Not once. Not its face, not its paw, not anything. A dark shape, and heat, and the smell of fur in the sun. And four furrows in the snow going up into the trees.
+She'd never seen it. Not its face, not its paw, not anything. A dark shape, and heat, and the smell of fur in the sun. And four furrows in the snow going up into the trees.
 
 She thought of the hollow in the north end, and the hill that breathed. She thought of the shore on the night it woke, and the claws coming across her shoulder, half out. The stream. The tower door. The paw on her chest in the shallows, pressing down. The night it crossed the water and lay down on her side.
 
@@ -253,8 +254,8 @@ Maren looked at him.
 
 "It was the current," she said.
 
-The boy looked at her a while longer. Then he looked at the window, toward the island, and back.
+The boy looked at her a while longer.
 
 "I don't think it was," he said.
 
-Neither did she.
+Maren didn't answer. After a while he turned and looked at the window, toward the island, and kept looking.

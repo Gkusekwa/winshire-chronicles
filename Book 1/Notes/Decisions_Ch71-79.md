@@ -1,4 +1,7 @@
 # Decisions while drafting Chapters 71–79
+
+*Historical record; merged into the Bible. The chapter notes and the Bible are current.*
+
 Extracted from each chapter's notes block. Items marked (proposals) are the drafter's calls for the author to confirm. Later rulings: see Rulings_41-79.md.
 
 ## Chapter 71: Millbrook
@@ -84,7 +87,7 @@ Draft notes: From the fourth hour of night to just before midnight, night one hu
 
 POV: Maren
 Part: Part Six: The First War
-Beats: Greyhold is breached. Kesh is killed, and Haverly dies in Maren's arms: one life between two. Hale, dying, gives her the cellar key. She and Orrun go down.
+Beats: Greyhold is breached. Kesh is killed, and Haverly dies in Maren's arms: one life between two. Hale, dying, gives her the long black key to the black door at the end of Greyhold's archive. She and Orrun go down.
 Echo of the other's story: Far below, someone is already at the second lock.
 Status: first draft
 Carried forward: From Chapter 73: the bond; Orrun; Lisska's message through him (two locks, midnight, both or nothing); the five links and TWO. From Chapter 71: Tobin: Callis has the seal and opens the river gate tonight; Liss to warn Hale by the water-gate. From Chapter 69: Pell dead; Ada, Bel, the children and the three greys inside; Wren at the ferry house with Liss. From Chapters 49 and 51: the archive, the black door three steps down, warm to the hand; the long black key, turned once for each of the Watch; "I'll not make you that." From Chapter 61: Haverly and Kesh; "I'm brave enough to be in the reeds."
@@ -164,7 +167,7 @@ Draft notes: The first hour after midnight, night one hundred and forty-three in
 
 POV: Maren
 Part: Part Six: The First War
-Beats: The Last Titan tears free of its chains and flies. Hearthmere's magic begins to fail. The book ends with the two of them watching it go.
+Beats: The Last Titan tears free of its chains and flies. Hearthmere's magic, failing since midwinter, goes out for good. The book ends with the two of them watching it go.
 Echo of the other's story: Both stories, together for the first time.
 Status: first draft
 Carried forward: From Chapter 78: Orrun opening the rock overhead; Aurveth can't fly (left wing torn, horn-wound in the chest); Kharrak holding her up; five chains left; the first anchor-stone broken; Maren and Calder have met. From Chapter 77: what Orrun touched: a destroyer, made one by three hundred years of chains, pulled toward somewhere far off and wanting the world down. From Chapter 49: Hearthmere's lamps without oil, warming-stones, licensed words, the sweet wells, all drawn from below. From Chapter 13: "Keep the watch below, and do not ask." From Chapter 70 (Calder's side): the full verse; "its own kin kept the door".

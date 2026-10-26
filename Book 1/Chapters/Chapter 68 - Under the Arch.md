@@ -20,6 +20,8 @@ Draft notes: Night one hundred and forty-one. Decided here (proposals):
 - Calder lies above them with his face to the crack and hears Teo's death told like a cart-load delivered. He doesn't move. He holds Joss's knife so hard his hand goes dead.
 - After, Cassian goes back to the boat to cross downriver to the Hearthmere side in the dark (toward Millbrook). Corvin stays under the arch. Rook sits down on the step of the tower door, below Calder, and whittles.
 - Calder, at the end: he could drop on Rook from the stair. He doesn't. He has it now: not proof, but the words, out of their own mouths. He needs someone to hear them who isn't him.
+- Magic (proposal): Corvin sends "Halloran's woman" (the house drawer from 34 and 58, lent to Delling) with Cassian for Greyhold's gate, "worth a ram at a gate. Once." "Twice, she says." "Once and a half. Then she'll want carrying." (paid off in 69); "the Fellow" (the ring-broken Isvaren drawer) stays with Corvin (74, 76).
+- Revision (proposal): who shot Imra (Ch 18) is answered here. After the line about Hallam's bolt, Cassian mentions the mill and Rook corrects him: one of Delling's crossbowmen, hired before the rest of the company, was paid to put the woman on the green dragon out of the fight if the other two came down, so all three war-pairs would break in one night and the dragons would be loose. Calder hears it; Lisska goes still in the north.
 notes -->
 
 ---
@@ -30,7 +32,7 @@ He'd lain on his belly on the rotten boards with his face to the crack in the wa
 
 Below him, in the round room at the foot of the tower, the two guards sat by the door. They changed at noon and dusk. They talked about home, about their feet, about the soup. One of them was from Cotter's Cross and missed his wife. The other was from somewhere on the coast and didn't miss anybody. Under them, in the floor, the stair went down to the slab with the iron plate in it, and nobody went down it.
 
-Very far off in the north, the three of them. He felt them all the time. Kharrak pacing. Lisska awake, worrying, round and round like a dog at a shut door. Aurveth lying still, the way she lay, but not asleep.
+Very far off in the north, the three of them. He felt them all the time. Kharrak pacing. Lisska awake, worrying, round and round like a dog at a shut door. Aurveth lying still, but not asleep.
 
 *Not yet,* he thought at them. *Stay.*
 
@@ -56,7 +58,7 @@ He came in through the eastern gate. Across the fort. Toward the tower. Toward t
 
 The still man was waiting under the arch.
 
-He'd been there since noon. Standing under the verse with his hands behind his back, the way he'd stood most of the day before. He stayed where he was when the other came across the fort toward him. He didn't go to meet him. He waited.
+He'd been there since noon. Standing under the verse with his hands behind his back. He stayed where he was when the other came across the fort toward him. He didn't go to meet him. He waited.
 
 The laughing man came up to the arch and stopped. A pace off.
 
@@ -66,13 +68,13 @@ Calder looked down at them through the crack in the wall.
 
 The same face.
 
-Long. Pale. Clean-shaven. Dark hair cut short. The same height, the same narrow shoulders, the same long hands. He looked from one to the other and back again and couldn't find a difference. Not in the face. Not in the bones.
+Long. Pale. Clean-shaven. Dark hair cut short. The same height, the same narrow shoulders, the same long hands. He looked from one to the other and back again and couldn't find a difference, in the face or in the bones.
 
 The difference was in everything else. One stood with his hands behind his back and didn't move, not his head, not his hands, not his weight from one foot to the other. Like a stone. Like something carved. The other couldn't keep still. He shifted his weight. He put a hand up and pushed his hair back. He smiled.
 
 *There's two of them,* thought Calder.
 
-It went through him the way cold water goes into your boots.
+It went through him like cold water into his boots.
 
 *There were always two of them.*
 
@@ -104,6 +106,16 @@ Cassian laughed. Softly, this time. "She's done exactly what we wanted."
 
 "Millbrook's ready. Reede says the barns are full. Fennick's. The tithe barn. The boats on the back channel." Corvin looked at his brother. "When you cross tonight, they'll be waiting for you."
 
+"And Halloran's woman?"
+
+"Lent to Delling. Goes with you. For the gate." Corvin didn't look round. "She's worth a ram at a gate. Once."
+
+"Twice, she says."
+
+"Once and a half. Then she'll want carrying." Corvin was quiet a moment. "The Fellow stays here. With me."
+
+Calder didn't know the word. Below the arch, a little way off by the fire, a small grey man in a long brown gown sat on a stone with his hands between his knees, and didn't look up at it.
+
 ---
 
 Somebody was coming up from the spit.
@@ -132,6 +144,14 @@ Cassian had turned away a little. He was looking at the fire.
 
 "He came down," said Rook. "Nobody thought he would. The rest of them sat there under their law the way we said they would, long enough. He came down." He shrugged again. "Somebody put a bolt in him. It happens."
 
+"It happened at the mill," said Cassian.
+
+"That one didn't happen." Rook said it mildly, the way you'd put a man right about the price of barley. "That one was bought. One of Delling's crossbows, in the hedge at the bottom of the field, before we'd hired the rest of the company. Paid to put the woman on the green one out of the fight if the other two came down. So the war-pairs would break, all three, in one night, and the dragons would be loose." He shrugged. "They broke. The dragons went to a farmer in a barley field. Nobody paid for that."
+
+*Thock.* In the dark, by the hedge. Calder had heard it lying in the stubble with his ribs stove in, and not known what it was until it was too late to matter.
+
+Far off in the north something went quiet all at once, like birds in a hedge when a hawk's shadow crosses it. Lisska. He felt her go still. He felt Imra's cold come up through the green mark the way it had come on the night of the mill, and Teo's name in it.
+
 "It did what it was for," said Corvin. "The Clan won't stand together again this side of the summer. Neither of them will look south. That's all we needed." He turned his head and looked at his brother. "You knew what the ford was for."
 
 "I knew." Cassian didn't turn round. "I didn't know about the old man."
@@ -150,7 +170,7 @@ Below him, Cassian turned round from the fire.
 
 Rook looked at him.
 
-"The first one." Cassian's voice had gone quiet. Not warm now. Careful. The way you'd step out onto ice. "At the first ford. In the autumn. Varr's son. The young one." He looked at Rook. "I've never asked."
+"The first one." Cassian's voice had gone quiet. Not warm now. Careful. "At the first ford. In the autumn. Varr's son. The young one." He looked at Rook. "I've never asked."
 
 "No," said Rook. "You haven't."
 
@@ -170,7 +190,7 @@ The fire cracked.
 
 ---
 
-The stair under Calder was very quiet. The guards at the tower door had stopped breathing. He could hear the fire in the fort and the river going past the island on both sides and his own heart.
+The stair under Calder was very quiet. The guards at the tower door weren't moving. He could hear the fire in the fort and the river going past the island on both sides and his own heart.
 
 *He was pleased to see me.*
 
@@ -222,7 +242,7 @@ Then he looked down. At the threshold. At the long smooth hollow worn in the sto
 
 "Two hands."
 
-Neither of them said what the locks opened. Neither of them said what was under the school or under the tower or under the river between. They stood under the arch a pace apart, the same face twice, and Calder lay above them and waited for one of them to say it, and neither did. They didn't need to. They both knew.
+Neither of them said what the locks opened. Neither of them said what was under the school or under the tower or under the river between. They stood under the arch a pace apart, the same face twice, and Calder lay above them and waited for one of them to say it, and neither did. Neither of them needed to, by the sound of it.
 
 *When two hands open what one hand shut.*
 
@@ -276,7 +296,7 @@ He needed Rook alive.
 
 Below him the knife went on, small and steady, on the step.
 
-Far off in the north, the three of them, and Kharrak's temper going up hot, the way it did when Calder's own blood was up. He'd felt it. Of course he had. He'd felt whatever had gone through Calder when Rook said *like a stone*, all the way to the hatching caves.
+Far off in the north, the three of them, and Kharrak's temper going up hot. He'd felt it. Of course he had. He'd felt whatever had gone through Calder when Rook said *like a stone*, all the way to the hatching caves.
 
 *Not yet,* thought Calder. *Stay. Not yet.*
 

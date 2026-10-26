@@ -6,12 +6,13 @@ Part: Part One: Two Banks
 Beats: Calder helps Bel and Joss clear the burned barns. Joss swears he'll find his stolen greys. Clan riders come to look, and among them is Teo Varr, the chief's younger son, furious that anyone thinks the Clan did this. Teo notices how Calder calms Joss's terrified mare. Calder nearly shows him the chain, and doesn't.
 Echo of the other's story: Across the river, knights ride the bank road in force for the first time in years.
 Status: first draft
-Draft notes: The morning after the raid, the same morning as Chapter 3. Old Tolly from the Staithe is poking about the ashes (he tells Maren in Chapter 3 that he was there). Wren comes along; she isn't afraid of the dragon overhead, which sets up Chapter 22. Lisska flies over with Imra; Calder doesn't know their names yet. Joss's surviving beast is a young dray-mare called Sorrel who was out in the far paddock. New: Joss and Bel's children, Pip (6) and Nan (4).
+Draft notes: The morning after the raid, the same morning as Chapter 3. Old Tolly from the Staithe is poking about the ashes (he spent the night at the Staithe and came up by boat after dawn; in Chapter 3 he has the cart news secondhand from Penner's lad). Wren comes along; she isn't afraid of the dragon overhead, which sets up Chapter 22. Lisska flies over with Imra; Calder doesn't know their names yet. Joss's surviving beast is a young dray-mare called Sorrel who was out in the far paddock. New: Joss and Bel's children, Pip (6) and Nan (4).
+Magic touches: Teo's Varrhold horse-master uses settling-words; Calder only talks.
 notes -->
 
 ---
 
-A burned barn, they say on the Saltreach bank, smokes for three days and tells lies for thirty. It tells you it was lightning, or a lamp, or a careless boy with a pipe. It tells you it was the Clan, or the knights, or bad luck, or the gods. Mostly it tells you whatever you came wanting to hear, and the only way to get the truth out of it is to shovel, and keep shovelling, until there's nothing left to lie with.
+A burned barn, they say on the Saltreach bank, smokes for three days and tells lies for thirty, and the only way to get the truth out of it is to shovel.
 
 Calder had been shovelling since first light.
 
@@ -55,7 +56,7 @@ Joss had raised Sorrel from the first night. Her mother had been one of the grey
 
 "You don't. You're just saying it."
 
-That was true. Calder didn't say anything. Behind them, Bel was calling the children; behind that, somebody was laughing too loudly at nothing, the way people do the day after something bad.
+That was true. Calder didn't say anything. Behind them, Bel was calling the children; behind that, somebody was laughing too loudly at nothing.
 
 "Let me try," Calder said.
 
@@ -79,7 +80,7 @@ When he looked up, Joss was at the gate with his mouth open, and beside Joss the
 
 ---
 
-There were a dozen of them, Clan riders, come down the slope from the lane without anyone hearing them over the work and the smoke. Hard men mostly, older, in leather and wool with axes at their saddles. The young one at the front had a long face that was too thin for him yet, and dark hair tied back, and his father's nose, and he looked tired the way you look when you've been awake all night for a reason you're angry about.
+There were a dozen of them, Clan riders, come down the slope from the lane without anyone hearing them over the work and the smoke. Hard men mostly, older, in leather and wool with axes at their saddles. The young one at the front had a long face that was too thin for him yet, and dark hair tied back, and his father's nose, and he looked like a man who'd been awake all night for a reason he was angry about.
 
 Calder knew him. Everyone in Harrow's End did.
 
@@ -87,7 +88,7 @@ Calder knew him. Everyone in Harrow's End did.
 
 Calder didn't get up. Sorrel had swung her head round at the horses and was shivering again, but she didn't run; she stood over him and put her nose against his shoulder like a child hiding behind its mother's skirt.
 
-"That was well done," Teo said. "I've seen a horse-master in Varrhold take a whole morning to settle a beast like that, with a whip in one hand and a bucket in the other. What did you do?"
+"That was well done," Teo said. "I've seen a horse-master in Varrhold take a whole morning to settle a beast like that, with a whip in one hand and a bucket in the other and the settling-words going the whole time. What did you say to her?"
 
 "Talked to her."
 
@@ -101,7 +102,7 @@ Teo laughed. It was a good laugh, surprised out of him, and some of the riders b
 
 "I gave it back with a hole in it." He swung down off the bay and handed the reins to the man behind him without looking, the way people do who have always had someone behind them to hand reins to, and came to the gate. Close to, he looked younger and more tired. He looked at the burned barns for a long time.
 
-"Who did this?" he said. Quietly. Not to anyone.
+"Who did this?" he said quietly, to no one.
 
 Nobody answered. Then Hollin, whose ox-beast was gone, said, from among the men by the barn, "Ask your uncle."
 
@@ -111,7 +112,7 @@ Teo turned round. He didn't hurry about it. "Say that again."
 
 Hollin was a big man and a stubborn one and he'd lost his beast in the night, and it was too late now for him to pretend he hadn't spoken. "Masked men," he said. "Twenty of them, thirty. Knew which barns. Took the beasts and burned the rest. Three days after your father's pyre is lit, with the whole Clan counting dragons over each other's heads. You tell me who wants beasts for a war, Teo Varr."
 
-"I'll tell you who doesn't hide his face." Teo's voice was still quiet. Calder had heard his father speak like that once, at a dues-gathering, just before a man lost a hand. "The Clan does not come at night. The Clan does not wear masks. When the Clan wants your ox, Hollin, it comes in daylight and tells you it's taking your ox, and you curse it, and it takes your ox. My father never once in forty years hid his face from this valley and neither will his brother and neither will I." He stopped. Something moved in his face. "My uncle's men," he said, more slowly, "are not my father's men. That's true. And there are some among them I don't know. I'll grant you that. But masks?" He shook his head. "No. Not that. That isn't us."
+"I'll tell you who doesn't hide his face." Teo's voice was still quiet. Calder had heard his father speak like that once, at a dues-gathering, just before a man lost a hand. "The Clan does not come at night. The Clan does not wear masks. When the Clan wants your ox, Hollin, it comes in daylight and tells you it's taking your ox, and you curse it, and it takes your ox. My father never once in thirty years hid his face from this valley and neither will his brother and neither will I." He stopped. Something moved in his face. "My uncle's men," he said, more slowly, "are not my father's men. That's true. And there are some among them I don't know. I'll grant you that. But masks?" He shook his head. "No. Not that. That isn't us."
 
 "Then who?"
 
@@ -229,4 +230,4 @@ Wren thought about that for a long time. The river went by on their left, wide a
 
 "But it's your fault if you don't, too," she said. "Isn't it? Whatever happens."
 
-He didn't answer. After a while she let it go, which she'd learned to do this year, and went back to talking about the dragon, and he walked her home along the river in the dark with the chain in his pocket, and it was heavier at the end than it had been at the start, and he still hadn't told anyone.
+He didn't answer. After a while she let it go, which she'd learned to do this year, and went back to talking about the dragon, and he walked her home along the river in the dark with the chain in his pocket, and it was heavier at the end than it had been at the start.

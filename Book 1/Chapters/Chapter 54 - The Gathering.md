@@ -16,6 +16,7 @@ Draft notes: Days one hundred and five to one hundred and twelve. Decided here (
 - Aurveth notices it, on day 110, looking down at the Ram's Head from the tops: every road the Restoration is using bends toward the river, and comes down to it opposite the island. Harrow's End is the last village on the way. "They're not coming for the Marches. They're coming through it."
 - Day 111: the meeting in the burned shell of the Wheel at Harrow's End. Fisk, Wat Garrow, the Ashby widow, the Hollins. Who's staying, who's going. Liss Ashdown's ferry is still taking people over from the Saltreach jetty at Tolly's Staithe whenever the ice lets her. Nobody decides. (Sets up 62 and 64.)
 - Night 112: Wren at the paddock gate with Old Grey: "You're always going." "I know." "Take me." "No." She asks him whether the lion-woman is in trouble too. He says he doesn't know. He thinks: two hundred silver, the same as me.
+- Magic touches: Ada's old staunching-words over Lisska's bolt wound; Brask on the warranted charms sold to the companies at the Ram's Head ("Didn't do much tonight").
 notes -->
 
 ---
@@ -36,9 +37,9 @@ He was at the door with his boots in his hand before she'd finished.
 
 *Too many to count. Fifty. More. A line of them. Torches. They've turned off the road. They're coming up the lane toward the hollow.* A pause. *There are dogs. Silent ones.*
 
-He looked down the hollow in the dark. He could see them now from the door. A line of small orange lights, strung out across the white fields below the farm, coming up from the river lane. Not in a hurry. Spreading out as they came. The way men spread out when they're closing on something.
+He looked down the hollow in the dark. He could see them now from the door. A line of small orange lights, strung out across the white fields below the farm, coming up from the river lane, slowly, spreading out as they came, like men closing on something.
 
-On the hill above the Fenn farm, a league off, he felt the other two get up.
+On the ridge behind Bel's, he felt the other two get up.
 
 *It's you,* said Aurveth. *They've come for you.*
 
@@ -72,7 +73,7 @@ He'd never seen it from her back before, in the dark: what men look like when a 
 
 Kharrak came in from the east and opened his mouth.
 
-He did it the way Calder had asked. Not at the men. In front of them. A long white-and-orange wall of fire laid across the snow of the field from end to end, twenty paces in front of the line, so that the snow went up in steam and the ground under it went black and the whole field lit up as bright as noon.
+He did it the way Calder had asked. Not at the men. In front of them. A long white-and-orange wall of fire laid across the snow of the field from end to end, a short way in front of the line, so that the snow went up in steam and the ground under it went black and the whole field lit up as bright as noon.
 
 The line stopped.
 
@@ -92,13 +93,13 @@ It was over in less time than it takes to milk a cow. There was no moon; the fir
 
 Eleven of them lay on the hillside below Bel's farm.
 
-Calder walked among them by the light of the burning. He made himself. The dog-man, who'd driven the pack; Kharrak had taken him first, the way he'd taken the one at the Ewe Beck. The horsemen, five of them, and their horses. Aurveth had stood in the lane between them and the farm and they'd come at her anyway, at a gallop, with lances, as if she were a gate they could ride through. Two crossbowmen who'd stood their ground by the fire and shot at Lisska, and hit her, once, in the soft skin under the wing, and Kharrak had seen it.
+Calder walked among them by the light of the burning. He made himself. The dog-man, who'd driven the pack; Kharrak had taken him first. The horsemen, five of them, and their horses. Aurveth had stood in the lane between them and the farm and they'd come at her anyway, at a gallop, with lances, as if she were a gate they could ride through. Two crossbowmen who'd stood their ground by the fire and shot at Lisska, and hit her, once, in the soft skin under the wing, and Kharrak had seen it.
 
 And the dogs. Eight of them. They hadn't stopped. They'd never stop. They'd come on and on, through the fire, with their coats burning, until there was nothing of them left to come on with.
 
 He stood at the bottom of the field and looked at it all.
 
-Lisska was in the yard at Bel's, behind him, lying in the snow with her wing held out, and Ada was out there with a lantern and a pot of honey, the way she'd done for Calder's arm, scolding her, and Lisska was letting her. He could feel it through the mark. The sting under her wing, and Ada's hands, and under that, Lisska's bewilderment. *They shot me. They shot at me. I didn't do anything to them.*
+Lisska was in the yard at Bel's, behind him, lying in the snow with her wing held out, and Ada was out there with a lantern and a pot of honey, the way she'd done for Calder's arm, scolding her, and between scolds saying the old staunching-words over the hole, the ones she'd said over every cut knee in Harrow's End, and Lisska was letting her. He could feel it through the mark. The sting under her wing, and Ada's hands, and under that, Lisska's bewilderment. *They shot me. They shot at me. I didn't do anything to them.*
 
 *They know who you are now,* he said.
 
@@ -120,7 +121,7 @@ The man was alive. He wasn't hurt, much. He lay in the snow under Kharrak's foot
 
 Calder crouched down beside him.
 
-He was a coast man. You could see it. Brown and weathered, with a sea-man's rope-callused hands and a sea-man's knife and a coat of good Wendmouth wool, and boots that had walked a long way. Not young. Thirty, forty. He had a sword on his belt that he hadn't drawn. He had no ring. Not on his finger, not on a string round his neck. Calder looked.
+He was a coast man. You could see it. Brown and weathered, with a sea-man's rope-callused hands and a sea-man's knife and a coat of good Wendmouth wool, and boots that had walked a long way. Thirty, forty. He had a sword on his belt that he hadn't drawn. He had no ring. Not on his finger, not on a string round his neck. Calder looked.
 
 "You're not one of them," said Calder.
 
@@ -130,7 +131,7 @@ The man opened his eyes. He looked at Calder. Then up, past him, at Kharrak's he
 
 "Paid by who?"
 
-"Them. The ones with the rings." Brask's eyes went back to Kharrak. "There's a man at the Ram's Head with a chest. He pays the companies. Ten silver a man to come up the river and stand where we're put." He swallowed again. "And two hundred for you. Alive. That's what the paper says. Alive, and the dragons with you if they'll come, and if they won't, you."
+"Them. The ones with the rings." Brask's eyes went back to Kharrak. "There's a man at the Ram's Head with a chest. He pays the companies. Ten silver a man to come up the river and stand where we're put. There's a woman with a cart sells the companies charms. Warranted against bolts and fire, Council stamp and all." He made a sound that wasn't a laugh. "Didn't do much tonight." He swallowed again. "And two hundred for you. Alive. That's what the paper says. Alive, and the dragons with you if they'll come, and if they won't, you."
 
 "Two hundred."
 
@@ -138,7 +139,7 @@ The man opened his eyes. He looked at Calder. Then up, past him, at Kharrak's he
 
 Calder crouched in the snow and looked at him.
 
-*The knight with the lion.* Arn on the step of his father's hall. *That's the kind of madness we could use.* The pedlars under Joss's byre, in the autumn. *A knight-student who goes out to the Old Ruin and sits with the monster.* Narrow boot-prints in the snow on the island, a woman's, going down to a fire. Knees in the snow by the fire. A long pressed hollow ten paces off, where something huge had lain and watched her.
+*The knight with the lion.* Arn on the step of his father's hall. *That's the kind of madness we could use.* The pedlars under Joss's byre, in the autumn. *A knight-student who goes out to the Old Ruin and sits with the monster.* Narrow boot-prints in the snow on the island, a woman's, going down to a fire. Knees in the snow by the fire. A long pressed hollow a little way off, where something huge had lain and watched her.
 
 *Like you were a pair.*
 
@@ -282,7 +283,7 @@ They all looked at her.
 
 "The knights sat on the bank and watched us burn," said Tolly. Very quietly. Everybody looked at him. He was looking at the fire. "I was there. Up at Fisk's, for the eels. I saw their lanterns across the water."
 
-Nobody decided. That was the end of it. They stood round Hob's burned hearth until the fire went down, and then they went home through the snow in twos and threes, not talking, and nobody had decided anything at all. Calder stood in the black doorway and watched them go.
+Nobody decided. That was the end of it. They stood round Hob's burned hearth until the fire went down, and then they went home through the snow in twos and threes, not talking. Calder stood in the black doorway and watched them go.
 
 Fisk stopped beside him on his stick.
 
@@ -300,7 +301,7 @@ He went down to Upper Rush on the hundred-and-twelfth night, late, by the forest
 
 The house was dark. Everyone asleep. He didn't go in. He went to the paddock gate, because there was somebody standing at it, small, in a big coat, in the moonlight, and he knew who it was before he got there.
 
-Wren was standing on the bottom bar of the gate with her arms over the top of it. Old Grey was standing on the other side, close, with his great head low over the gate beside her. Not doing anything. Just standing, the way he stood all the time now. Wren had her hand on his face.
+Wren was standing on the bottom bar of the gate with her arms over the top of it. Old Grey was standing on the other side, close, with his great head low over the gate beside her. Not doing anything. Just standing. Wren had her hand on his face.
 
 "He likes me," she said, without turning round. "He does. I know he doesn't look at anybody. But he comes to the gate when I come."
 

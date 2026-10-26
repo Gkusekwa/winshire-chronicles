@@ -7,6 +7,14 @@
 - Two protagonists, **strictly alternating chapters**: odd chapters follow the student, even chapters the farmer (Book 1).
 - Each protagonist's chapters **reference events happening to the other**: rumors, sightings, news, signs. The reader knows more than either protagonist until they meet.
 
+### Books 2–3 *(proposal: the provisional plans)*
+
+- **Book 2: three POVs** (S Maren, F Calder, R Idony). S and F keep strict alternation with each other; R chapters slot between them, never two in a row (`Book 2/Chapter_Plan.md`). Idony's chapters "think in measurements" (`Bible/Magic.md` §11).
+- **Book 3: seven POVs** (S, F and R, plus G Rowan, C Arn, U Tobin and M Kit Merrin). S and F keep strict alternation with each other; the other five slot between them, never two in a row (`Book 3/Chapter_Plan.md`).
+- **Magic on the page** follows `Bible/Magic.md` §10: "magic tips fights; steel and beasts win them."
+- **Terms:** the Deep, the toll, dead ground, the six disciplines (charms, runes, drawing, shaping, tide-reading, binding); a *binding* is never a *bond*.
+- **Kept-on-purpose near-names:** Orrin/Orrun, Idony Vael/the Vales/the city of Vael.
+
 ## Voice *(chosen: B + C together; see `Book 1/Notes/Voice_Samples.md`)*
 
 - **Close third person, past tense.** Each chapter stays inside one protagonist's head and knows only what they know.
@@ -55,7 +63,7 @@
 
 ## Length
 
-- **No upper limit.** Book 1 is planned as **79 chapters in six parts**, and chapters run as long as their scenes need. As a rough estimate, not a target: an average of 3,500–5,000 words a chapter gives **roughly 280,000–400,000 words**. Early chapters near 3,000 words are fine.
+- **No upper limit.** Book 1 is drafted: **79 chapters in six parts, about 311,000 words** (first draft, about 3,900 a chapter), and chapters run as long as their scenes need. Early chapters near 3,000 words are fine. The Book 2 plan estimates 310,000–440,000 words and the Book 3 plan 315,000–450,000: estimates, not targets.
 - Length has to come from people, place and consequence: every scene earns its room by changing something or showing someone we'll care about later. Cut anything that only repeats.
 
 ## Names and terms

@@ -17,13 +17,15 @@ Draft notes: Days one hundred and thirty-three to one hundred and thirty-six. De
 - Morning, day 136, the river gate: Rowan in front of the school. "Maren Ashdown raised her hand against a knight of the orders in the field. That is the oath broken. She is no longer of Greyhold." Her grey is taken. Grieve brings her chest out of the dormitory and puts it on the cobbles by the gate himself, without a word. Hale stands at the top of the archive stair. Haverly's in the front line with Kesh. The gate shuts behind her.
 - The echo: as she stands outside the gate with her chest, a rider comes in hard from Redwatch past her: boats coming down the Drover's Way on carts, the Restoration's banner at the Ram's Head, and Vale himself at the head of the column (Fisk's boy rowed over to tell Ottery). "They're gathering for the Old Ruin. Three days. Four at most." The gate opens for him and shuts again.
 - She sits on her chest outside the gate. Then she picks it up and walks down the River Road toward the ferry, toward Liss.
+- Magic (proposal): a knight behind Callis says the licensed stand-word at the lion and nothing happens (the failing; contrast the surge in 69, 77).
+- Revision (proposal): Orrun's multiplication, third glimpse. When the hounds stop, they're staring past Maren at something lion-shaped standing up out of the oaks behind the lion; when she looks there's only a trunk and loose earth. The hounds knowing her smell stays as the other reason they won't go on.
 notes -->
 
 ---
 
 On the hundred-and-thirty-fourth night she went out through the small door on the midden side of the Long Barn.
 
-It was still unbarred. It had been unbarred three nights running. Grieve hadn't noticed, or Grieve had noticed and not said, and she didn't let herself think which. The beam lay on its hooks beside the door. She lifted the latch and the door swung outward onto the dark, onto the smell of the midden and the cold, and she went out with the sack over her shoulder and pulled it to behind her.
+It was still unbarred. It had been unbarred four nights running. Grieve hadn't noticed, or Grieve had noticed and not said, and she didn't let herself think which. The beam lay on its hooks beside the door. She lifted the latch and the door swung outward onto the dark, onto the smell of the midden and the cold, and she went out with the sack over her shoulder and pulled it to behind her.
 
 In the sack: the hammer and the chisel, wrapped in the old shirt. A heel of bread. Tobin's practice sword, the old blunt one with the nicked guard and the blue cord on the grip, because it was the only sword she had and because it couldn't kill anybody.
 
@@ -75,7 +77,7 @@ The lion was at the pit. The water had gone down in it with the river; the old g
 
 She sat down beside it.
 
-Not at ten paces. Not at five. Beside it. Against its shoulder, where the mane began, the way she'd sat in the arch on the night the river went out. It let her. She felt it breathe against her back, slow, enormous. She felt the hum come up through it.
+Close. Against its shoulder, where the mane began, the way she'd sat in the arch on the night the river went out. It let her. She felt it breathe against her back, slow, enormous. She felt the hum come up through it.
 
 She stayed there all day.
 
@@ -101,11 +103,11 @@ The hounds first. Three of them. She heard them before she saw them, giving tong
 
 The lion stood up.
 
-It stood up over her where she sat, all at once, the way it had stood up when the collar came off, and the ground under her jumped. It faced north. Its mane went up round its head until it seemed twice its size, and a sound came out of its chest that she felt in her teeth.
+It stood up over her where she sat, all at once, and the ground under her jumped. It faced north. Its mane went up round its head until it seemed twice its size, and a sound came out of its chest that she felt in her teeth.
 
 She stood up too.
 
-She stepped out in front of it. Between it and the north. With Tobin's blunt sword in her hand, held low, the point down, the way Pell had taught them to hold it when you meant to stop something and not kill it.
+She stepped out in front of it. Between it and the north. With Tobin's blunt sword in her hand, held low, the point down.
 
 The hounds came out of the oaks.
 
@@ -115,11 +117,21 @@ They stopped.
 
 All three. Dead. Twenty paces off. They stood there with their hackles up and their noses working, looking at her, at the lion behind her, and back at her. Ash whined.
 
+Then their eyes went past her. Past the lion too. Up, to the oaks at the edge of the pit behind it, and stayed there. Grip's lip came off his teeth.
+
+She looked round.
+
+Oaks. Bare and black, with the last of the light in them. The raw bank of the pit. The lion's back and its mane up. For a heartbeat one of the trunks behind it was too thick at the foot, grey and not black, as high as the lion's shoulder, and had a head.
+
+Then it was a trunk. The earth round its roots was loose and fresh, as if something had just stood up out of it. But the lion had been digging there all winter. The earth was loose everywhere.
+
 "On!" Callis came out of the trees behind them with two knights. He had his crossbow in his hands, spanned. His collarbone had healed crooked from the frost fair; he held his left shoulder high. "On! *Go on!*"
 
 The hounds didn't go.
 
 They stood there whining. Ash lay down. Grip looked back over his shoulder at Callis and then at Maren and sat, the way he sat in his stall in the morning when she came with the water.
+
+One of the knights behind Callis put his hand out flat toward the lion and said the stand-word. The licensed one, that the old knights said to a horse that wouldn't load. Nothing happened. Nothing had happened to any word since midwinter. The lion's mane stayed up. The knight looked at his hand as if it had lied to him and put it on his sword instead.
 
 Callis saw her.
 
@@ -139,7 +151,7 @@ She saw his finger move.
 
 ---
 
-She'd think about it afterwards, for the rest of her life, and she'd never remember deciding.
+She never remembered deciding.
 
 She went forward. Three steps. Fast. The way Pell had taught them, a thousand times, at the straw men in the yard. *You close. You don't wait for it. You close and you take the weapon arm and you don't kill anybody.* Tobin's blunt sword came up and round and down, flat, hard, across Callis's forearm above the wrist, where the bone was close under the skin.
 
@@ -167,7 +179,7 @@ East, away from the reeds and the net and the forty. Down through the oaks towar
 
 The lion came with her.
 
-She heard it. Behind her, through the oaks, the great soft pounding of its feet and the ground jumping under hers at every stride. It was coming with her, not after her. She couldn't have said how she knew the difference. She knew.
+She heard it. Behind her, through the oaks, the great soft pounding of its feet and the ground jumping under hers at every stride. It was coming with her, not after her.
 
 They came out of the trees onto the east shore together.
 
@@ -177,7 +189,7 @@ She stopped at the edge of the water. The lion stopped beside her.
 
 She turned to it.
 
-She couldn't tell it. She knew she couldn't. It didn't understand a word she said. It never had. She did it anyway. She put her hand flat on its shoulder, and then she took her hand away and pointed. Across the channel. At the far bank. At the black forest coming down to the water.
+She couldn't tell it. It had never understood a word. She did it anyway. She put her hand flat on its shoulder, and then she took her hand away and pointed. Across the channel. At the far bank. At the black forest coming down to the water.
 
 "Go," she said. "Go. Over there. Into the trees. Please. They'll not cross. They never cross. Go."
 
@@ -187,7 +199,7 @@ It looked at her with its pale eyes, in the dusk, with the river going past at i
 
 It went into the river.
 
-It went in the way it did everything, all at once, and the water came up white round its chest, and then it was swimming. She'd never seen it swim. Its great head low on the brown water and its mane spread out round it on the current, and the current taking it down, and it fighting across, steady, stroke by stroke, toward the Saltreach shore.
+It went in all at once, and the water came up white round its chest, and then it was swimming. She'd never seen it swim. Its great head low on the brown water and its mane spread out round it on the current, and the current taking it down, and it fighting across, steady, stroke by stroke, toward the Saltreach shore.
 
 She stood on the shore and watched it go.
 
@@ -199,7 +211,7 @@ Maren stood on the shore and watched the falcon hang there and thought, *That's 
 
 Then Kesh turned.
 
-Away. West. Back across the island toward the reeds, toward the forty, toward Haverly, in a long slow glide, the way a falcon turns when it's lost what it was marking. As if the thing it had been hanging over had gone under the trees. As if there were nothing there.
+Away. West. Back across the island toward the reeds, toward the forty, toward Haverly, in a long slow glide. As if the thing it had been hanging over had gone under the trees. As if there were nothing there.
 
 There was. Maren could see it. The lion was halfway across the channel in plain sight, swimming.
 

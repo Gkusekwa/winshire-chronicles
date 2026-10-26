@@ -1,10 +1,10 @@
-# Winshire — Book 1 Chapter Plan (working draft)
+# Winshire — Book 1 Chapter Plan (drafted)
 
-*The full-length plan for Book 1, built from the established canon in the other notes. Every beat that isn't established canon is a working proposal. Each chapter's draft status is kept in its own file's notes (Status:).*
+*The full-length plan for Book 1, built from the established canon in the other notes. Book 1 is now drafted, and the prose is the authority for its events; where a row and its chapter differ, the chapter wins. Each chapter's draft status is kept in its own file's notes (Status:). This plan is maintained by hand.*
 
 ## Shape
 
-- **79 chapters in six parts, across one year:** late summer to the next summer's war. **No upper word limit**; chapters run as long as their scenes need. **These are estimates, not targets:** if chapters average about 3,500–5,000 words, the book lands at roughly **280,000–400,000 words**. The drafts will decide; chapters 1 and 2 came in near 3,000.
+- **79 chapters in six parts, across about five months (days 0–144):** from the harvest fair at the end of summer to sunrise on day 144, in early spring (see the Calendar in `Bible/World.md`). **No upper word limit**; chapters run as long as their scenes need. The first draft came in at about **311,000 words** (about 3,900 a chapter).
 - **Strictly alternating chapters** *(established)*: odd chapters follow Maren (S), even chapters Calder (F).
 - **Echoes** *(established)*: each chapter picks up something from the other's story (the Echo column). The reader always knows more than either protagonist, until they meet.
 - **The arcs converge only at the end:** they meet underground after the seal opens (chapter 78).
@@ -47,7 +47,7 @@
 | 6 | F | The Uncle and the Sons | Calder carries Harrow's End's grain to Varrhold. He sees both sides: Ulric, the Clan's best warrior with the larger following; Arn's pride; Teo's warmth. He meets the three bonded warriors with their dragons: old Sigrun Holm and Aurveth, hard Dag Rorke and Kharrak, laughing Imra Sallow and Lisska, who teases him about his grain-dust. | A sellsword at the hold complains that the knights have started riding the bank road again. |
 | 7 | S | The Caged Beast | At Millbrook, where Tam is apprenticed to the smith, Saltreach poachers have caged a young beast and offer Maren a share to look away. She frees it and makes enemies. Tam is dazzled; Pell is not. | The poachers swear to take their grievance "across the river." |
 | 8 | F | Coldtarn | At the new moon the Clan scatters Haldor's ashes on Coldtarn. Calder carries the village's mourning gift because nobody else will. At the black water Ulric and Arn quarrel in front of everyone and Teo makes them stop. Sigrun tells Calder that Aurveth has outlived two partners and nobody knows how. | In the crowd, a poacher curses a Hearthmere student who freed his catch at Millbrook. |
-| 9 | S | Pell's Lesson | Pell teaches subdue, don't kill, and shows the class why: the wild wyvern on the Saltreach road that took his fingers, and the knight who killed it and died of it. Tobin, unbonded and bitter, has a pamphlet with two words on it: "One again." Haverly and Kesh, and the shape of a rivalry that isn't hatred. | News across the water: the Clan nearly came to blows at the old chief's ashes. |
+| 9 | S | Pell's Lesson | Pell teaches subdue, don't kill, and shows the class why: the Saltreach company's tamed wyvern, the rare bonded one, loose on the coast road below Stillhaven, that took his fingers, and the knight who killed it and died of it. Tobin, unbonded and bitter, has a pamphlet with two words on it: "One again." Haverly and Kesh, and the shape of a rivalry that isn't hatred. | News across the water: the Clan nearly came to blows at the old chief's ashes. |
 | 10 | F | Whispers in the Hold | Back at Varrhold with the first of the new barley, Calder notices strangers among Ulric's men. One of them, a quiet man called Rook, doesn't belong: wrong boots, wrong hands, and he watches the dragons the way a buyer watches horses. Teo asks Calder to witness the ford meeting; Rook, mending a halter at the foot of the cliff path, hears the time and place. Calder sees the six-dot mark from his chain on Rook's knife, and says nothing. | Poachers in the hold's yard are still cursing the Hearthmere student who freed their catch at Millbrook. |
 | 11 | S | The Trial | Knight-Captain Ilse Rowan gives Maren her trial: investigate the "monster" of the Old Ruin, on its island in the river, and bring back proof. The island is forbidden to the river watch. Liss begs her not to go. | Rowan warns that the Clan's quarrel is coming to a head across the river. |
 | 12 | F | Harvest | Harrow's End's harvest fair. Wren and Ada; Bel's children, Pip and Nan, dancing. Teo comes with a few riders and stays for the bonfire; he confirms the day of the peace meeting with his uncle at the ford of Hollow Beck, and Calder, already asked to stand witness (10), agrees again in front of Hob. Calder thinks Teo might actually manage it. | Hob says a Greyhold boat was seen putting someone onto the Old Ruin's island at dusk, where nobody goes. |
@@ -71,7 +71,7 @@
 | 23 | S | Proof | Maren could take a lock of the lion's mane as proof but leaves it in peace. The trial is failed; Haverly passes his. | At Greyhold everyone is talking about a farmer bonded to three dragons. No one believes it. |
 | 24 | F | Hunted | Everyone wants the dragons: Ulric, Arn, Saltreach sellswords, and strangers paying in Restoration coin. Hob sells Calder's whereabouts. He leaves Wren with Ada and flees into the hills. | Lisska spots a knight-student alone at the Old Ruin, with a beast that won't attack her. |
 | 25 | S | The Midden | Maren is reassigned to the stables and the midden. Warden Osric Hale of the inner circle takes an interest and asks about the lion. | Hale asks, too carefully, whether she has seen "the dragon farmer." |
-| 26 | F | Why Me? | In a cave at Crow Scar, Calder asks the dragons why they came to him. None of them knows. Aurveth, who has survived two earlier bonds, has never heard of anything like it. | He hears a Hearthmere student failed her trial rather than harm a monster. It stays with him. |
+| 26 | F | Why Me | In a cave at Crow Scar, Calder asks the dragons why they came to him. None of them knows. Aurveth, who has survived two earlier bonds, has never heard of anything like it. | He hears a Hearthmere student failed her trial rather than harm a monster. It stays with him. |
 
 ## Part Three: The Long Autumn (chapters 27–40)
 
@@ -79,7 +79,7 @@
 
 | Ch | POV | Working title | What happens | Echo of the other's story |
 |---|---|---|---|---|
-| 27 | S | The Stables | Maren learns the bonded beasts by mucking out after them: Kesh's moods, the Darrow girl's hound, the cat nobody owns. Hale teaches her the old history of the orders. She begins to see how bonded and unbonded are not equal anywhere but on the gate. | Refugees from a burned Clan village cross on Liss's ferry. |
+| 27 | S | The Stables | Maren learns the bonded beasts by mucking out after them: Kesh's moods, Ide Darrow's hound, the cat nobody owns. Hale teaches her the old history of the orders. She begins to see how bonded and unbonded are not equal anywhere but on the gate. | Refugees from a burned Clan village cross on Liss's ferry. |
 | 28 | F | Aurveth | Aurveth speaks of her two earlier partners and her oldest memories: the Old Ruin when it was a bridge on the road of the old realm. Kharrak wants Ulric's men dead. Lisska wants to see everything. Calder wants them all quiet. | Lisska reports the knight-student at the island again, sitting with the monster at a distance. |
 | 29 | S | Without Words | Maren keeps returning to the island. The lion tolerates her at a distance. With no bond, everything between them is action: where she sits, what she doesn't do. | A dragon's shadow passes over the ruin; the lion lifts its head and watches it go. |
 | 30 | F | Harrow's End | The civil war reaches Harrow's End again, with no winner and only damage. Calder uses the dragons to save people for the first time, and their rage leaks into him. | Knights watch from the far bank and don't cross. |
@@ -87,11 +87,11 @@
 | 32 | F | Sellswords | Captain Idris Vey's company besieges Crow Scar. Kharrak wants to burn them; Calder won't let him. Lisska finds a way out. Calder decides to go south to Wendmouth to find Joss's greys and learn who is buying beasts. | From the heights he sees Hearthmere knights riding out to a burning hamlet on their own bank. |
 | 33 | S | Ferriby | On patrol, Maren glimpses the Restoration's leader at a raid on Ferriby: one man, quiet, precise, directing the raid like a game of stones. | Hearthmere scouts report dragon fire over Harrow's End a week ago. |
 | 34 | F | The Tidesteps | In Wendmouth, Calder hears the Restoration's leader speak to a crowd: warm, persuasive, a man people want to follow. It is the same day Maren saw him at Ferriby, a hundred leagues north, though nobody in the crowd can know that. | A beast-seller grumbles about a Hearthmere knight-student up north who sits with monsters instead of killing them. |
-| 35 | S | The Mentor | Hale tells Maren the history of the oath and lets slip that the inner circle keeps "a watch nobody else is told about." He keeps glancing at the locked cellar door. | Hale has a report from the Saltreach bank: the dragon farmer has left the Marches, heading south. |
+| 35 | S | The Mentor | Hale tells Maren the history of the oath and lets slip that the inner circle keeps "a watch nobody else is told about." He keeps glancing at the black door at the end of the archive. | Hale has a report from the Saltreach bank: the dragon farmer has left the Marches, heading south. |
 | 36 | F | Gallows Quay | Wendmouth's beast market. Cages, buyers paying in Restoration coin, and one of Joss's greys. Calder frees the caged beasts, a mirror of Maren at Millbrook, and flees north with the grey and a price on his head. | In the market, sellers curse knights who free other people's property. |
 | 37 | S | What Hale Won't Say | Hale, grieving a friend or drunk, mentions the legend of the Last Titan and stops short. Maren sees fear in his face. | A report: the dragon farmer is heading north toward the river. |
 | 38 | F | The Long Road North | Calder and Joss's grey walk north through a country full of Restoration camps. Lisska scouts, Kharrak sulks, Aurveth remembers. A carter mentions the raid on Ferriby, and the date: the day Calder stood in the crowd at Wendmouth. He can't make it add up. He gets home to find Harrow's End half empty and Ada and Wren sheltering at Bel's. | Travellers say a knight-student at Greyhold sits with the Old Ruin's monster and nobody stops her. |
-| 39 | S | First Frost | In a skirmish the Darrow girl's hound is killed, and over three days the girl withers. Maren sits with her. It is her father's death again, and she can't stop going to the island. | On the night the girl dies, three dragons are seen high over the river, going north. |
+| 39 | S | First Frost | In a skirmish Ide Darrow's hound is killed, and over three days she withers. Maren sits with her. It is her father's death again, and she can't stop going to the island. | On the night the girl dies, three dragons are seen high over the river, going north. |
 | 40 | F | The Verse | Lisska remembers the carved verse at the Old Ruin. If anything answers "why me?", it's the old realm. Calder decides to go there, as soon as the river lets him. | Lisska says the knight-student and the beast are at the ruin most days now. |
 
 ## Part Four: The Frozen River (chapters 41–54)
@@ -110,7 +110,7 @@
 | 48 | F | Two Sides of a War | Calder tries to make Ulric and Arn stop. Neither will. | Arn mentions a Hearthmere student who keeps company with a monster: "the kind of madness we could use." |
 | 49 | S | The Archive | Maren confronts Hale. He confirms it: the knights' duty "below" is guarding the chains. | Hale admits the inner circle fears the dragon farmer almost as much as the Restoration. |
 | 50 | F | Bel | Joss goes looking for the Restoration camp that holds his other grey and is brought back dead. Bel blames Calder for keeping quiet. He finally shows her the chain and tells her everything: the first thing he has ever chosen to say. | The chain's maker's mark matches the broken chain Calder found on the island in the winter. |
-| 51 | S | The Door | Hale takes Maren to the locked cellar door. Behind it, far down, the sound of chain. She puts her hand on the door, and across the river the lion roars. | The roar is heard in Harrow's End; the dragons answer it. |
+| 51 | S | The Door | Hale takes Maren to the black door at the end of Greyhold's archive. Behind it, far down, the sound of chain. She puts her hand on the door, and across the river the lion roars. | The roar is heard in Harrow's End; the dragons answer it. |
 | 52 | F | Kharrak | Calder lets Kharrak burn a Restoration beast camp to free its captives. It is the first time he chooses violence. The Restoration names him an enemy. | Across the river, Greyhold's bell rings at night: the knights saw the fire. |
 | 53 | S | The Pit | Maren understands why the lion lingers at the Old Ruin: what lies chained below is its kin. She goes to it knowing her kingdom imprisoned its family. | Fire on the far bank: the farmer's dragons fighting off Restoration hunters. |
 | 54 | F | The Gathering | Restoration forces mass in the Marches. The civil war is still bleeding the Clan, and Harrow's End is in the path. | Sellswords say they've been paid to bring in "the knight with the lion" as well as him. |
@@ -121,7 +121,7 @@
 
 | Ch | POV | Working title | What happens | Echo of the other's story |
 |---|---|---|---|---|
-| 55 | S | Thaw | The river breaks up with a noise like cannon. The lion lets Maren close enough to touch. No bond, no words, but it lets her stay. | The Restoration offers a reward for the dragon farmer. |
+| 55 | S | Thaw | The river goes out all at once, with a noise like a city wall coming down. The lion lets Maren close enough to touch. No bond, no words, but it lets her stay. | The Restoration offers a reward for the dragon farmer. |
 | 56 | F | Wren and the Far-Seer | Lisska perches on the crag above the farm and tells Calder what she sees across the river, and Wren makes him repeat every word. Calder realises his daughter is safer anywhere he isn't. | Lisska reports the knight-student touching the beast's mane. |
 | 57 | S | Tobin | Maren finds Tobin at a Restoration hedge-meeting. He begs her to join them. She hears the leader speak and he is warm, not precise; she tells herself it's the crowd. | The speaker promises the dragon farmer will "come home to the one realm." |
 | 58 | F | The Stranger | Calder sees Rook again, the quiet man from Ulric's hall, among Restoration men. He starts to wonder about Teo's death, and has no proof at all. | From the heights he sees Greyhold's walls being raised and armed. |
@@ -136,7 +136,7 @@
 
 ## Part Six: The First War (chapters 67–79)
 
-*Spring into summer.*
+*Early spring.*
 
 | Ch | POV | Working title | What happens | Echo of the other's story |
 |---|---|---|---|---|
@@ -148,11 +148,11 @@
 | 72 | F | The Spit | In the fighting at the Ruin, Calder corners Rook. Rook dies before he can say anything useful; the proof dies with him. | The bells of Greyhold stop. |
 | 73 | S | Hollin Knowe | Bond-forcers trap the lion at the edge of the Brackenwood. To save it, Maren offers her own life into the binding in its place. The lion accepts, and the bond forms: for the first time they understand each other. Its name is Orrun. | Lisska lands beside her with a cut chain, a strip of cloth that says TWO, and a child's blue ribbon. Maren knows the ribbon from her mother's story: Wren's. The dragon farmer is warning her. |
 | 74 | F | Fire at the Ruin | Calder and the dragons fight Corvin Vale at the Old Ruin's lock, and can't stop it opening. | Through the earth, the dragons feel something vast beneath them begin to pull against its chains. |
-| 75 | S | The Stair | Greyhold is breached. Kesh is killed, and Haverly dies in Maren's arms: one life between two. Hale, dying, gives her the cellar key. She and Orrun go down. | Far below, someone is already at the second lock. |
+| 75 | S | The Stair | Greyhold is breached. Kesh is killed, and Haverly dies in Maren's arms: one life between two. Hale, dying, gives her the long black key to the black door at the end of Greyhold's archive. She and Orrun go down. | Far below, someone is already at the second lock. |
 | 76 | F | Seven | Corvin's lock turns. The floor of the Old Ruin falls in, and Calder and the dragons fall with it into the catacombs. | Two locks, one moment. |
 | 77 | S | Midnight | Beneath the school, Maren kills Cassian Vale just as his lock gives way. At the same moment, his brother opens the Old Ruin's lock, and the seal opens. Through the new bond, Maren feels Orrun learn what its kin has become: a world destroyer. | The other lock opening, felt as the seal breaks. |
 | 78 | F | Underground | The catacombs shake. Coming from opposite ends beneath the border, Calder and Maren meet for the first time. | The stranger he warned, now in front of him. |
-| 79 | S | Keep the Watch | The Last Titan tears free of its chains and flies. Hearthmere's magic begins to fail. The book ends with the two of them watching it go. | Both stories, together for the first time. |
+| 79 | S | Keep the Watch | The Last Titan tears free of its chains and flies. Hearthmere's magic, failing since midwinter, goes out for good. The book ends with the two of them watching it go. | Both stories, together for the first time. |
 
 ---
 
@@ -169,7 +169,7 @@
 - **Liss's ferry** (1, 3, 22, 27, 31 → 64): the only thing that crosses. In 64 it carries Calder's family, so the two stories touch through the mothers before the leads meet.
 - **Hale** (25, 35, 37, 49, 51 → 75): kindness and the secret; his key gets Maren underground.
 - **The river** (1, 3, 11 → 41–44 → 55): forbidden island, frozen crossing, thaw.
-- **The seal on the river** (5 → ?) *(working proposal)*: on the night of the raid, a rider with Greyhold's seal ordered the river-watch boats in, so the raiders' barge passed unseen. Someone inside Greyhold is helping the Restoration. Proposed payoff: a disillusioned knight the Restoration recruited, who opens Greyhold to it in Part Six (69 or 75).
+- **The seal on the river** (5 → 33 → 71, 75) *(answered in the drafts: Callis)*: on the night of the raid, a rider with Greyhold's seal ordered the river-watch boats in, so the raiders' barge passed unseen. Someone inside Greyhold is helping the Restoration. Payoff as drafted: Callis, a knight passed over for the inner circle, opens Greyhold's river gate on night 143 (75).
 - **The lion** (15, 17, 19, 21, 23, 29, 41, 53, 55 → 73): earned one meeting at a time, by courage and restraint, until the sacrifice.
 
 ## Pacing notes
@@ -181,21 +181,20 @@
 - **The civil war never resolves** in Book 1: every Calder chapter shows its damage, with no winner.
 - **Reveal rules:** the leader is one man until chapter 68; the Last Titan is only legend until 45; the gods are only faith; no other Titans; the Restoration's part in Teo's death is only suspicion until 68.
 
-## Answers to the open questions
+## Settled
 
-*Established (accepted by the author): 1, 3, 4, 5 and 7. Points 2 and 6 remain working proposals.*
+*All accepted by the author and drafted.*
 
 1. **Wren** stays with Ada after the bond (22, 24); she is the one person not afraid of the dragons (22, 56); she crosses to Hearthmere on Liss's ferry (64). **Why Calder stays while his family flees (62):** the Restoration is hunting him, so distance is what keeps her safe.
 2. **Why Maren never set foot on the island:** it's forbidden to the river watch by law and avoided by river folk by custom (3, 11).
 3. **The killer** was **Rook**, a Restoration agent who joined Ulric's men as a hired hand (10, 58, 68, 72).
 4. **Who sees the twins:** only Calder (68). **Maren knows there are two** before she kills Cassian. Lisska can't speak to her (no bond), so Calder sends what he can: the cut chain, a strip of cloth with TWO burned into it, and Wren's ribbon, which Maren recognises from her mother's story (64, 65, 70, 73).
-5. **Climax logistics:** the lion is trapped at the edge of the Brackenwood, a short run from Greyhold (73). Greyhold is breached (75), and the dying Hale gives Maren the cellar key, so a cast-out student gets underground. Calder falls into the catacombs when the Ruin's floor gives way (76). Both reach the meeting from opposite ends (78).
-6. **They meet** as wary strangers who already owe each other: his warning, her name in the ferrywoman's story.
+5. **Climax logistics:** the lion is trapped at the edge of the Brackenwood, a short run from Greyhold (73). Greyhold is breached (75), and the dying Hale gives Maren the long black key to the black door at the end of Greyhold's archive, so a cast-out student gets underground. Calder falls into the catacombs when the Ruin's floor gives way (76). Both reach the meeting from opposite ends (78).
+6. **They meet** as wary strangers who already owe each other: his warning, her name in the ferrywoman's story (78).
 7. **No prologue.** A prologue about the Titan would break the reveal in 45. The book opens on the river.
+8. **Names:** all supporting names are as drafted in Book 1 (see `Bible/Characters.md`); only kingdom names other than Saltreach remain working names. Maren's rival is **Lucan Haverly**, renamed from Corwin Brandt, which was too close to Corvin Vale.
+9. **Length:** set by the scenes, not a target.
 
 ## Open
 
-- Supporting names still proposed (see `Characters.md`): Tobin, Pell, Hob, Rook, Captain Idris Vey, the Darrow girl (Liss, Tam, Bel, Wren and the family names are established).
-- **Settled:** Maren's rival is **Lucan Haverly**, renamed from Corwin Brandt, which was too close to Corvin Vale.
-- Exact length of each chapter: set by the scenes, not a target.
-- **After the full draft:** a review pass may cut or adjust storylines. Book 1 stays one volume; it is never split.
+- **The review pass:** after the full draft, a review pass may cut or adjust storylines. Book 1 stays one volume; it is never split.

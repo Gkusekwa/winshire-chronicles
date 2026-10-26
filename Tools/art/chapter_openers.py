@@ -1,9 +1,11 @@
 """Chapter-opener art for the 79-chapter plan. Reuses the 41 original compositions under their new numbers
 and adds 38 new ones. Odd chapters (Maren) build on the single circle; even (Calder) on three.
-Usage: python3 art2.py OUTDIR"""
+Usage: python3 chapter_openers.py OUTDIR   (e.g. "../../Book 1/Art/Chapter Openers")"""
 import math, os, sys
 import numpy as np
-sys.path.insert(0, "/home/claude/atlas")
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)
+sys.path.insert(0, os.path.join(HERE, "..", "atlas"))  # plan_data.py (chapter titles) lives with the atlas
 import winshire_art as A
 from winshire_art import Canvas, GROUND
 from plan_data import C as PLAN

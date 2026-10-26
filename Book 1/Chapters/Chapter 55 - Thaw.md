@@ -3,7 +3,7 @@
 <!-- notes
 POV: Maren
 Part: Part Five: Thaw
-Beats: The river breaks up with a noise like cannon. The lion lets Maren close enough to touch. No bond, no words, but it lets her stay.
+Beats: The river goes out all at once, with a noise like a city wall coming down. The lion lets Maren close enough to touch. No bond, no words, but it lets her stay.
 Echo of the other's story: The Restoration offers a reward for the dragon farmer.
 Status: first draft
 Carried forward: From Chapter 29: the hinged collar, the pin hammered over; she came at its neck with iron and it read her as a hunter; the hammer and chisel in her chest. From Chapter 53: the pit at the north end, the old grey stone, the lion scraping; Pell's patrol at Redwatch; the report that says only "it digs". From Chapter 41: the Haddow crossing; Ottery and the long pole. From Chapter 50 (Calder's side): the crossed-hammer stamp under the six. From Chapter 31: Odo Marl's smithy in Millbrook; Tam.
@@ -18,6 +18,7 @@ Draft notes: Days one hundred and thirteen to one hundred and twenty. Decided he
 - Ottery comes for her at noon through an open lead in the punt. He sees the lion on the shore without the collar. Says nothing all the way back to Redwatch.
 - The echo: at Redwatch, Pell has the paper the morning rider brought from Millbrook. Not the old wanted bill. A new one, from the Restoration, nailed at the Millbrook jetty overnight: two hundred silver for CALDER FENN, THE FARMER, ENEMY OF THE ONE REALM, alive, for the burning of the camp at the Ewe Beck and the murder of its keepers. "They've turned on him," says Pell. "Their own sign."
 - She tells Pell about the collar. That's the truth. She still doesn't tell him about the stone.
+- Magic (proposal): Ottery says the river watch's ice-word over his pole before going out (a folk word nobody can prove does anything); Redwatch's guardroom lamp without oil only glows red since the failing, and they read by tallow.
 notes -->
 
 ---
@@ -28,7 +29,7 @@ On the Wend they don't say the ice breaks. They say *the river's going out*, as 
 
 She went every dusk. Ottery walked her over. The ice was still a hand and a half thick in the channel, and the river under it was black and silent, and the lion was always in the pit.
 
-It didn't stop. Each time she came through the oaks at the north end of the island she heard it before she saw it: claws on stone, one and then the other. Each time she went down the frozen bank on her heels and sat on the ledge of grey fill ten paces off, and it turned its head and looked at her, and went back to the stone. The scratches on the old grey blocks went deeper. Not much. A little, each night. A hair's breadth. Pale lines in the grey, crossing and recrossing.
+It didn't stop. Each time she came through the oaks at the north end of the island she heard it before she saw it: claws on stone, one and then the other. Each time she went down the frozen bank on her heels and sat on the ledge of grey fill, and it turned its head and looked at her, and went back to the stone. The scratches on the old grey blocks went deeper, a little each night. A hair's breadth. Pale lines in the grey, crossing and recrossing.
 
 She sat with it, and didn't speak much now.
 
@@ -48,7 +49,7 @@ She sat down in the snow.
 
 The lion came up out of the pit.
 
-It came slowly, up the raw bank, with its lip still back, and stood over the hammer and the chisel on their shirt, and put its head down to them, and smelled them. A long time. The way it had smelled the man's prints in the snow at midwinter. Long slow breaths, in and out, so that the shirt stirred under them. She could hear it from where she sat.
+It came slowly, up the raw bank, with its lip still back, and stood over the hammer and the chisel on their shirt, and put its head down to them, and smelled them. A long time. Long slow breaths, in and out, so that the shirt stirred under them. She could hear it from where she sat.
 
 It didn't look at her.
 
@@ -60,7 +61,7 @@ She left them there. On the stone, on the shirt. She left them there every night
 
 On the hundred-and-seventeenth night the moon was full and the wind went round to the south.
 
-She felt it on the tower at Redwatch, at the change of the watch. One moment the air was still and cold and dry, the way it had been since the seventieth night. Then it moved. Soft. Wet. From the south, up the river, from the sea, smelling of salt and mud and rain. It came over the parapet into her face and she stood there and breathed it.
+She felt it on the tower at Redwatch, at the change of the watch. One moment the air was still and cold and dry, as it had been since the river stopped. Then it moved. Soft. Wet. From the south, up the river, from the sea, smelling of salt and mud and rain. It came over the parapet into her face and she stood there and breathed it.
 
 By morning it was raining.
 
@@ -90,13 +91,13 @@ The ice was making a sound. She'd heard it all day without knowing she was heari
 
 She stood on the landing in the rain.
 
-She thought of the pit. The hammer and chisel on their shirt on the flat stone. The lion scraping. She thought of the ice going out, and the island cut off by the floes for days, maybe a week, until the river was clear enough for the punt. A week of it in the pit alone with nobody coming. She didn't know why that mattered. It mattered.
+She thought of the pit. The hammer and chisel on their shirt on the flat stone. The lion scraping. She thought of the ice going out, and the island cut off by the floes for days, maybe a week, until the river was clear enough for the punt. A week of it in the pit alone with nobody coming.
 
 "I'm going," she said.
 
 Ottery looked at her with the rain running off his hat.
 
-He swore. Long and low and thoroughly, in the river-watch way, the way her father used to swear, at her and the river and the rain and the Captain and the Watch and everything in between. He picked up the lantern.
+He swore. Long and low and thoroughly, in the river-watch way, as her father used to, at her and the river and the rain and the Captain and the Watch and everything in between. He picked up the lantern. He set the foot of the pole on the ice below the slip and said the ice-word over it, under his breath, the one the river watch had always said before going out. Liss said it had never held up anybody who wasn't going to stay up anyway. He said it twice.
 
 "To the reeds," he said. "And not one step past. And when I shout, you come. You come running. You hear?"
 
@@ -106,13 +107,13 @@ She was in the pit when it went.
 
 She'd gone down the bank in the rain in the last of the light. The lion was there, at the bottom, at the stone. It had stopped scraping and stood very still, with its head up, and its ears forward, listening. Upriver. It didn't look at her when she came down. It was listening to something she couldn't hear yet.
 
-She crouched on her ledge, ten paces off, and listened too.
+She crouched on her ledge and listened too.
 
 The groaning had stopped.
 
-That was the first thing. The long low groaning from upriver that had gone on all day. It had stopped. There was only the rain, hissing on the grey fill and the black water lying in the bottom of the pit. The hum in the ground, very faint. Far off, from the north, from somewhere beyond the Scarfell, from a long, long way up the river, a sound.
+The long low groaning from upriver that had gone on all day. It had stopped. There was only the rain, hissing on the grey fill and the black water lying in the bottom of the pit. The hum in the ground, very faint. Far off, from the north, from somewhere beyond the Scarfell, from a long, long way up the river, a sound.
 
-It didn't sound like anything. That was what she'd say afterwards, to Liss, when Liss asked. It didn't sound like anything she'd ever heard. It sounded the way she imagined it would sound if the wall of a city came down. A mile of wall. All at once. Not one crash but a great long roaring tearing grinding rush of crashes, all running together, and coming nearer. Coming down the river. Fast. Faster than a horse could gallop. Faster than she could believe anything could come.
+It didn't sound like anything she'd ever heard. It sounded like the wall of a city coming down. A mile of wall. All at once. Not one crash but a great long roaring tearing grinding rush of crashes, all running together, and coming nearer. Coming down the river. Fast. Faster than a horse could gallop. Faster than she could believe anything could come.
 
 The lion's head went round toward it.
 
@@ -126,7 +127,7 @@ She scrambled up the bank. To see. To get to Ottery. She got to the top on her h
 
 The river was moving.
 
-All of it. The whole grey plain of ice she'd walked across every dusk since the eighty-first night, the white road Ottery had tested with his pole, was moving. Broken into pieces, slabs, some as small as a table, some as big as the Long Barn, grinding and heaving and turning over, piling up on each other with a noise like the end of the world, and going. South. Down the river. Faster than she could run. Slabs reared up on end in the dark and stood for a moment taller than a house and went over with a crash that shook the island. Black water showed between them, and was gone, and showed again. The whole channel between the island and the Hearthmere bank was a moving wall of broken ice, grinding past.
+All of it. The whole grey plain of ice she'd walked across every dusk since the eighty-first night, the white road Ottery had tested with his pole, was moving. Broken into pieces, slabs, some as small as a table, some as big as the Long Barn, grinding and heaving and turning over, piling up on each other, and going. South. Down the river. Faster than she could run. Slabs reared up on end in the dark and stood for a moment taller than a house and went over with a crash that shook the island. Black water showed between them, and was gone, and showed again. The whole channel between the island and the Hearthmere bank was a moving wall of broken ice, grinding past.
 
 She couldn't see the reeds. She couldn't see Ottery.
 
@@ -158,11 +159,11 @@ She stayed where she was.
 
 "I'm sorry," she said. "It's your place. I'll go if you want."
 
-It couldn't understand her. She knew. She said it anyway.
+It couldn't understand her. She said it anyway.
 
 It lay down.
 
-Ten paces off, in the mud, in the rain, facing the arch. It put its great head on its forepaws and looked at her, and the river roared, and the rain came down, and the lantern hissed on the step.
+In the mud, in the rain, facing the arch. It put its great head on its forepaws and looked at her, and the river roared, and the rain came down, and the lantern hissed on the step.
 
 ---
 
@@ -190,7 +191,7 @@ She didn't breathe.
 
 She'd been this close once before. On the shore, in the summer, with the hunters' chain on it, when it had brought its head down until its face was an arm's length above hers and looked at her with one eye and then the other. She'd been on her back then. She'd thought she was going to die.
 
-She wasn't going to die. She knew that. She didn't know how she knew.
+She wasn't going to die.
 
 She put out her hand.
 
@@ -204,13 +205,13 @@ On its mane.
 
 ---
 
-It was warm. That was the first thing. Warm and wet and coarse, coarse as a horse's tail, thick, so thick her fingers went into it to the knuckle and didn't find the bottom. Under it, the great slab of muscle at the top of the shoulder, hard as wood, rising and falling with its breath.
+It was warm. Warm and wet and coarse, coarse as a horse's tail, thick, so thick her fingers went into it to the knuckle and didn't find the bottom. Under it, the great slab of muscle at the top of the shoulder, hard as wood, rising and falling with its breath.
 
 Under that, through it, faint, the hum.
 
-The ground's hum. The thing she'd felt through her boots on the island all winter, and through the stones of the archive, and through the black door. It was in the lion. It came up through its body into her hand the way it had come up through the oak of the door. Not the same. The door had been something vast turning its attention, cold and far and terrible. This was close. This was warm. This was a beast lying in the rain with its head on a step, with the earth moving in it the way blood moves.
+The ground's hum. The thing she'd felt through her boots on the island all winter, and through the stones of the archive, and through the black door. It was in the lion. It came up through its body into her hand as it had come up through the oak of the door. Not the same. The door had been something vast turning its attention, cold and far and terrible. This was close. This was warm. This was a beast lying in the rain with its head on a step, with the earth moving in it the way blood moves.
 
-Nothing else came. No voice. No thread. Nothing like Haverly and Kesh, or her father and his hound. It didn't speak to her. She didn't hear it. She'd never hear it. There was nothing between them but her hand in its mane and the hum coming up through her palm.
+Nothing else came. No voice. No thread. Nothing like Haverly and Kesh, or her father and his hound. It didn't speak to her. She'd never hear it. There was nothing between them but her hand in its mane and the hum coming up through her palm.
 
 It let her.
 
@@ -218,7 +219,7 @@ That was all. It let her leave her hand there.
 
 She left it. She sat in the arch with her hand in the lion's mane and her heart going so hard it hurt, and the lion lay with its head on the step and its eyes half closed, and the river went out in the dark on either side of them, and neither of them moved.
 
-Later she found she was crying, and couldn't have said since when. She didn't stop it. She sat there with the tears running down her face and her hand in its mane, and once the lion opened its eyes and looked at her, and closed them again.
+Later she found she was crying. She didn't stop it. She sat there with the tears running down her face and her hand in its mane, and once the lion opened its eyes and looked at her, and closed them again.
 
 She stayed. It stayed.
 
@@ -296,9 +297,7 @@ She sat up. She looked at the collar lying in the mud in front of her.
 
 The inside of it was black and greasy with the lion's fur and old blood. She picked it up. It was heavy, much heavier than she'd thought. She turned it over. On the outside, at the hinge, the ring of six, the way it was on every link. She'd known that. She turned it to the inside, to the curve where it had lain against the lion's neck, and rubbed at the grease with her thumb.
 
-Under the six, on the inside of the curve, small, struck with a punch, there was a second mark.
-
-Two hammers, crossed.
+Under the six, on the inside of the curve, small, struck with a punch, there was a second mark: two hammers, crossed.
 
 She knew it.
 
@@ -332,7 +331,7 @@ All the way back to Redwatch, half a league that took them an hour through the f
 
 At Redwatch, in the guardroom, Pell had a paper.
 
-The morning rider had brought it from Millbrook with the Greyhold dispatches while they were out on the river, and left it on the guardroom table. Pell picked it up when they came in, all three of them dripping, and read it, and pushed it across to her without a word, the way he'd pushed the order across to her in the autumn about the boats.
+The morning rider had brought it from Millbrook with the Greyhold dispatches while they were out on the river, and left it on the guardroom table, under the old lamp on its bracket that had given nothing but a red glow since midwinter, beside the tallow candle they read by now. Pell picked it up when they came in, all three of them dripping, and read it, and pushed it across to her without a word.
 
 It was a printed sheet. Not the old one, the trading houses' bill out of Wendmouth, with two hundred silver on him for the beasts at Gallows Quay. This one had the ring of six at the top. The six hands. The Restoration's sheet, from the same press as the paper on the river gate. Somebody had nailed it to the Millbrook jetty in the night.
 
@@ -340,7 +339,7 @@ TWO HUNDRED SILVER, it said.
 
 FOR CALDER FENN, THE FARMER, OF HARROW'S END ON THE SALTREACH BANK. ENEMY OF THE ONE REALM. WHO CAME IN THE NIGHT WITH FIRE TO THE CAMP AT THE EWE BECK, WHERE THE ONE REALM FED THE HUNGRY, AND BURNED IT, AND MURDERED ITS KEEPERS. TO BE BROUGHT IN ALIVE.
 
-She read it standing by the fire with the water running off her onto the flags.
+She read it standing by the fire with the water running off her onto the flags. The same sum. Somebody's idea of a joke.
 
 "They've turned on him," said Pell. "Their own sign. A month ago he was the one realm come again. On the gate. At the bottom of the paper." He tapped it. "Now they want him in a cage."
 

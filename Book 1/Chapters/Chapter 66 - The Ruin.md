@@ -15,6 +15,7 @@ Draft notes: Days one hundred and thirty-nine and one hundred and forty. Decided
 - At the arch he takes the rubbing, by touch, in the first grey. Then, inside the tower, in its ground floor, he finds a stair going down, choked with fallen stone and old earth, and at the bottom of what he can see of it, a slab of grey stone set in the floor with an iron plate in it as big as a man's hand, and a keyhole. He doesn't know what it is.
 - The boats come across the east channel at first light. Hundreds of men. He hides in the tower: up the broken stair inside the wall, to the upper chamber where the floor is half gone, under a fallen beam. From there he watches the Restoration take the island: the fort, the arch, cages, ladders, smoke, men with honey-smoke pots going north to the pit with chains, and finding nothing there.
 - He stays hidden all day 140 with the rubbing inside his shirt, and the chains, and Joss's knife.
+- Magic (proposal): with Corvin under the arch, a small grey man in a ragged scholar's gown reads the verse with moving lips, and men keep their distance from him (the ring-broken Fellow, a drawer, who acts in 74 and 76). A man by the western gate paints warding marks on company shields from memory (the shields Kharrak burns through in 72).
 notes -->
 
 ---
@@ -61,7 +62,7 @@ The cave went very quiet.
 
 Kharrak wouldn't go.
 
-He lay at the mouth of the cave with his wings half open and the red tide up and said *no* to everything, over and over, until Calder stopped talking. Then Aurveth got up. She got up in no hurry, the way she did everything, and went to the mouth of the cave and stood over Kharrak, with her one gold eye looking down at him and her great bronze head lowered, and said something. Calder didn't hear it. It wasn't for him. It went between them, the way it did sometimes, kin to kin, and he only felt the edge of it through the marks, like the edge of a wind.
+He lay at the mouth of the cave with his wings half open and the red tide up and said *no* to everything, over and over, until Calder stopped talking. Then Aurveth got up. She got up in no hurry, and went to the mouth of the cave and stood over Kharrak, with her one gold eye looking down at him and her great bronze head lowered, and said something. Calder didn't hear it. It wasn't for him. It went between them, the way it did sometimes, kin to kin, and he only felt the edge of it through the marks, like the edge of a wind.
 
 Kharrak folded his wings.
 
@@ -201,13 +202,13 @@ He rolled them up and put them inside his shirt against his chest. He'd carry th
 
 He went into the tower.
 
-He hadn't meant to. In the snow he hadn't. He'd stood under the arch and felt the dragons go still a league and a half off, and something had told him not to. He went in now because the light was coming and he needed to be out of it, and because he wanted to know.
+He hadn't meant to. In the snow he hadn't. He'd stood under the arch and felt Aurveth stop reading, a league and a half off, and something had told him not to. He went in now because the light was coming and he needed to be out of it, and because he wanted to know.
 
 It was dark inside. A round room, the ground floor of the tower, with walls a man's arm-span thick and the floor deep in old leaves and fallen stone and the droppings of owls. A stair went up round the inside of the wall, broken, to a floor above that was half gone, with the grey sky showing through the top of the tower beyond it.
 
 And a stair went down.
 
-In the middle of the floor. A square hole, half choked with fallen stone and old black earth that had washed in over the years, and steps going down into it. Stone steps, worn in the middle, the way the stairs in a chapel are worn. He could see four of them, and then the fallen stone.
+In the middle of the floor. A square hole, half choked with fallen stone and old black earth that had washed in over the years, and steps going down into it. Stone steps, worn hollow in the middle. He could see four of them, and then the fallen stone.
 
 He knelt at the edge of it.
 
@@ -247,7 +248,7 @@ Men. Hundreds of them. In grey, most of them, with the six on their coats, and o
 
 The hounds came first. In packs. Silent. With their handlers walking behind them with an arm up.
 
-They came in through the eastern gate of the fort and spread out across it, and the noise filled the old walls the way water fills a cistern.
+They came in through the eastern gate of the fort and spread out across it, and the noise filled the old walls like water filling a cistern.
 
 He lay under the beam and watched them take the island.
 
@@ -257,7 +258,7 @@ They were everywhere by mid-morning.
 
 In the fort. In the oaks. Along the shores. A company went down the stream to the west shore, and he saw them stop at the reeds where the skiff had been and stand there, looking at the ground. Pointing. One of them knelt down. Then they all came back up the stream fast, and a man went running toward the arch, toward a knot of men standing by the western gate.
 
-A company went north with chains. He saw them go, through the oaks toward the pit. Men with the long coiled beast-chains over their shoulders and the six on every link, and men with clay pots on poles, smoking, a thick sweet smoke that came back on the wind and made his eyes water even up in the tower. *Honey-smoke.* Hounds in front. Going carefully, spread out, the way men go when they're closing on something.
+A company went north with chains. He saw them go, through the oaks toward the pit. Men with the long coiled beast-chains over their shoulders and the six on every link, and men with clay pots on poles, smoking, a thick sweet smoke that came back on the wind and made his eyes water even up in the tower. *Honey-smoke.* Hounds in front. Going carefully, spread out.
 
 They came back an hour later. The chains still coiled on their shoulders. The pots still smoking. Nothing between them.
 
@@ -270,6 +271,8 @@ By the arch, under the verse, a man stood with his back to the tower. Tall. Thin
 The tall man stood under the arch a while longer.
 
 He turned his head, and looked up. At the verse. At the six lines of old letters over the doorway, worn and lichened. He looked at them a long while. Reading them, Calder thought. He could read them.
+
+He wasn't the only one. A little behind him stood a small grey man in a long brown gown gone ragged at the hem, like a chapel-man's, with his head tipped back and his lips moving. The men round the arch left a space round him, the way men leave a space round a dog they don't know.
 
 He looked down. At the threshold of the arch. At the long smooth hollow worn in the stone, where something huge had lain longer than anyone could say.
 
@@ -293,7 +296,7 @@ Guards. On the stair. On the slab with the lock in it.
 
 He lay above them.
 
-The island filled up all afternoon. More boats. More men. Fires lit in the fort. Tents going up in the oaks. A cage brought up from the spit with something in it, something large and grey and silent, and set down by the eastern gate. The noise of a camp. Men laughing. Somebody singing one of the old songs, badly. *Before the six, there was one.*
+The island filled up all afternoon. More boats. More men. Fires lit in the fort. By the western gate a man sat on a crate with a pot of white paint and a stack of company shields beside him, painting marks on the face of each, small and square with hooks at the ends, quick, the way Ada wrote a tally. He never once looked up at the verse to copy them. He knew them already. Tents going up in the oaks. A cage brought up from the spit with something in it, something large and grey and silent, and set down by the eastern gate. The noise of a camp. Men laughing. Somebody singing one of the old songs, badly. *Before the six, there was one.*
 
 He lay under the beam with the rubbing against his chest under his shirt and the chains in his coat and Joss's knife in his belt, and felt, very far away in the north, the three of them on their hill. Not happy. There.
 

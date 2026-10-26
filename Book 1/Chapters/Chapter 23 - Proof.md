@@ -16,6 +16,7 @@ Draft notes: Days ten to fourteen. Decided here (proposals):
 - Rowan's tower: Maren gives her the cut link, the notebook (the camp, the cage, eleven coils, forty stakes, the Captain, the boots with brass eyelets, the breathing), and says what's on the island: a lion. Rowan asks for proof. There is none. "Trial failed." Then Rowan asks: "Did you harm it?" "No." Rowan writes something in the margin of her own ledger, which Maren can't read.
 - Pell, about the sword: "Did you lose it doing something you can live with?" "Yes." "Then it's well lost."
 - Haverly passed: he lay three days on the ridge above the Drover's Way below the hold and counted the Clan, both halves. On battle night he saw the fire and rode down the Way; at first light on day nine he saw, from the hill above Harrow's End, three dragons lying in a burned field above Harrow's End, and a man sitting with them. He put it in his report. Nobody believes that part.
+Magic touches: the infirmary surgeon's licensed closing-words over Maren's cuts (only as far as a week's healing).
 notes -->
 
 ---
@@ -68,11 +69,11 @@ The lion's lips went back from its teeth.
 
 She had time to see that. She had time to see the pale eyes go flat, the way they'd gone flat on the shore the night it woke. She had time to think, very clearly, *no, it doesn't, it doesn't know anything, it's a wild thing and it's hurt and I'm standing by its water.* Then it came through the stream at her.
 
-It didn't come slowly. Not this time. It came the way a cat comes off a wall, all at once, three legs and the bad one held up, the water going up white on both sides of it, and the bank shook under her as it hit the near side, and she felt the shake go up through her boots. It was on her before she'd moved.
+It didn't come slowly. It came like a cat off a wall, all at once, three legs and the bad one held up, the water going up white on both sides of it, and the bank shook under her as it hit the near side, and she felt the shake go up through her boots. It was on her before she'd moved.
 
 She moved.
 
-She didn't decide anything. Her body did it, the body that Greyhold's yard had made: she went sideways and down, the way Pell had made them go a thousand times in the sand, under the swing and not away from it, and the great forefoot went over her head with a sound like a sail filling and took the bark off the alder behind her in a long white strip. She came up on one knee with the brand still in her hand. She didn't strike with it. She held it out, between them, low, at the level of its face, and swept it once, sideways, and the fire went across the air in front of its eyes in a long orange arc.
+Her body did it, the body that Greyhold's yard had made: she went sideways and down, the way Pell had made them go a thousand times in the sand, under the swing and not away from it, and the great forefoot went over her head with a sound like a sail filling and took the bark off the alder behind her in a long white strip. She came up on one knee with the brand still in her hand. She didn't strike with it. She held it out, between them, low, at the level of its face, and swept it once, sideways, and the fire went across the air in front of its eyes in a long orange arc.
 
 The lion reared back. It threw its head up, away from the fire, and made a sound she'd never heard, a short hard coughing snarl, and the mud of the bank heaved under its feet as if the ground itself had flinched.
 
@@ -126,7 +127,7 @@ She couldn't have said why. She'd sat in the tower all day telling herself not t
 
 The lion was at the stream. It lifted its head and looked at her.
 
-She didn't go any closer. She stopped at the top of the bank, twenty paces off, on her side of the water, the way she had the night before. Then, very slowly, she sat down. On the cold wet earth, with the tin cup in her lap. She didn't look at it straight. She looked at the water, mostly. Now and then she let her eyes go up to it, slowly, and away again.
+She didn't go any closer. She stopped at the top of the bank, on her side of the water, where she had stood the night before. Then, very slowly, she sat down. On the cold wet earth, with the tin cup in her lap. She didn't look at it straight. She looked at the water, mostly. Now and then she let her eyes go up to it, slowly, and away again.
 
 It watched her. She watched the water. Her heart was going so hard she thought it must be able to hear it.
 
@@ -146,7 +147,7 @@ Instead she'd gone down to its water and sat in the mud with a tin cup, being ve
 
 *Not doing anything,* she thought, *is a thing too.*
 
-She didn't know where that came from. It sounded like something Pell would say. Or her father.
+It sounded like something Pell would say. Or her father.
 
 ---
 
@@ -176,7 +177,7 @@ She stood there with the knife in her hand.
 
 The lion opened one eye.
 
-Nothing else about it moved. It just opened one eye, the near one, pale as river ice, and looked up at her from the grass, sideways, the way a horse looks at you with one eye when you come up to its shoulder in the field. It looked at her face. Quite slowly, it looked at the knife.
+Nothing else about it moved. It just opened one eye, the near one, pale as river ice, and looked up at her from the grass, sideways. It looked at her face. Quite slowly, it looked at the knife.
 
 Then back at her face.
 
@@ -198,7 +199,7 @@ Behind her, nothing happened. Nothing at all. When she reached the trees and tur
 
 They came for her before dawn on the fourteenth day.
 
-She heard the oars. She was awake; she'd hardly slept. She heard the knock of oars in rowlocks out on the dark water, upstream, coming down on the current. Not a raft. Not poles. Oars, two pairs, pulled in long slow strokes by someone who knew the river. She was on her feet and out under the arch with the hunters' hammer in her hand before she was properly awake.
+She heard the oars. She was awake; she'd hardly slept. She heard the knock of oars in rowlocks out on the dark water, downstream, coming up against the current. Not a raft. Not poles. Oars, two pairs, pulled in long slow strokes by someone who knew the river. She was on her feet and out under the arch with the hunters' hammer in her hand before she was properly awake.
 
 A punt came round the south point in the dark. Small. Low in the water. A lantern hooded at the stern. Two figures in it.
 
@@ -330,7 +331,7 @@ The room was very quiet. Outside the window, far below, she could hear the yard.
 
 "Trial failed," said Rowan.
 
-She said it quite simply, without any weight at all, the way you'd say the time. She picked up her pen and wrote something in the ledger on the desk: one line, short. She put the pen down.
+She said it quite simply, without any weight at all. She picked up her pen and wrote something in the ledger on the desk: one line, short. She put the pen down.
 
 "You'll be reassigned," she said. "The Master of Stables will have your name by noon. You'll keep your place in the school; you'll lose your place in the year. You'll stand for your trial again in the spring, if you're let, and if the spring comes." She looked up. "That's the rule. I don't make it."
 
@@ -424,9 +425,9 @@ He picked up his cup again.
 
 ---
 
-She heard it everywhere that day. In the infirmary, while the old surgeon unwound the linen and looked at her arm and swore and asked who'd put honey in it and then said, grudgingly, that whoever it was had likely saved her the arm. In the passage outside the refectory. In the stable yard, where she went at noon to find the Master of Stables and found him, and was given a fork and a barrow and the long low barn where the bonded beasts were kept, and the midden behind it.
+She heard it everywhere that day. In the infirmary, while the old surgeon unwound the linen and looked at her arm and swore and asked who'd put honey in it and then said, grudgingly, that whoever it was had likely saved her the arm. He said the closing-words over the cuts after that, one cut at a time, with his licence tag swinging from his apron string, and she felt the edges itch and draw a little way together, as far as they'd have gone on their own in a week and no further. In the passage outside the refectory. In the stable yard, where she went at noon to find the Master of Stables and found him, and was given a fork and a barrow and the long low barn where the bonded beasts were kept, and the midden behind it.
 
-Everybody was talking about the same thing. Not her. Not the girl on the island. That was old news already. Something else, from across the river.
+Everybody was talking about the same thing, and it wasn't the girl on the island. That was old news already. Something else, from across the river.
 
 *Three dragons. In a field. All three, the Clan's three, alive, and their riders dead.*
 
@@ -466,6 +467,6 @@ He looked back at her, surprised.
 
 "Why?"
 
-She thought about the dragons screaming across the river. Three voices, going up and up, and stopping all at once, as if a door had shut on them. And a voice on the gravel of the spit, saying *bonded, the boy says, to the farmer*, and a man with a face like water going across the river the hour he heard, faster than anyone had ever seen him move.
+She thought about the dragons screaming across the river. Three voices, going up and up, and stopping all at once. And a voice on the gravel of the spit, saying *bonded, the boy says, to the farmer*, and a man with a face like water going across the river the hour he heard, faster than anyone had ever seen him move.
 
 "Because nobody believes me either," she said, and went back to the muck.

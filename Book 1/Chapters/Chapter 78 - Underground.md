@@ -6,7 +6,7 @@ Part: Part Six: The First War
 Beats: The catacombs shake. Coming from opposite ends beneath the border, Calder and Maren meet for the first time.
 Echo of the other's story: The stranger he warned, now in front of him.
 Status: first draft
-Carried forward: From Chapter 76: Calder, Aurveth (horn-wound in the chest, left wing torn) and Kharrak (one horn broken) on the rubble slope under where the Old Ruin was; the six chains taut; the anchor-stones cracking; Corvin gone up an older stair; Lisska's feeling coming from the west, from under the school, with something large and warm and a person. From Chapter 77 (Maren's side): Cassian dead on the knight's lock; Callis down; Orrun has touched his kin and found a destroyer; Lisska wants to go to Calder. From Chapter 53: the course of dressed grey stone at the bottom of the pit, running under the river toward Greyhold. From Chapter 70: the five links wrapped in a strip of shirt with TWO burned on it.
+Carried forward: From Chapter 76: Calder, Aurveth (horn-wound in the chest, left wing torn) and Kharrak (one horn broken) on the rubble slope under where the Old Ruin was; the six chains taut; the anchor-stones cracking; Corvin gone up an older stair; Lisska's feeling far off by the school, still at first, with something large and warm and a person below her; it starts to move a little after the floor goes (she comes down only after the seal breaks, 77). From Chapter 77 (Maren's side): Cassian dead on the knight's lock; Callis down; Orrun has touched his kin and found a destroyer; Lisska wants to go to Calder. From Chapter 53: the course of dressed grey stone at the bottom of the pit, running under the river toward Greyhold. From Chapter 70: the five links wrapped in a strip of shirt with TWO burned on it.
 Draft notes: The first hour after midnight, night one hundred and forty-three into one hundred and forty-four. Decided here (proposals):
 - The way between: under the river runs a gallery of the same dressed grey stone as the inner wall and the bottom of the pit, a road for the wardens of old, roofed, wide enough for a cart, going from under the school to under the island along the side of the great cavern. Orrun knows it by the stone. Maren rides him along it with Lisska ahead. It's cracking as they go; the ground is heaving.
 - The cavern shakes the whole time. Stones come down from the dark. The six chains sing. Something at the bottom of them is lifting.
@@ -18,6 +18,7 @@ Draft notes: The first hour after midnight, night one hundred and forty-three in
 - They have to get out. Aurveth can't fly with the wing. The gallery's coming down. Orrun: the stone will move for him. Up. Not back toward the school. Up through the rock under where the island was, toward the river, the way the lion dug all winter in the other direction.
 - The first anchor-stone breaks while they're talking. A chain comes loose from the wall above and falls past them into the dark, a link at a time, with a sound like a city's bells being thrown down a well.
 - The echo: Calder, looking at her across the ten paces in the firelight: a stranger. Hair tied back, burned hands in rags, a river watch sword, blood to the elbow. He's never seen her face before closer than across a river. He warned her, and she's here.
+- Magic (proposal): the surge continues after midnight: the hidden runes inside the links of all six chains burn brighter, and the broken chain falls into the dark still lit, like a string of lamps let go into a well.
 notes -->
 
 ---
@@ -28,7 +29,9 @@ It didn't stop. It hadn't stopped since the floor went. The rubble slope under h
 
 The chains sang.
 
-He'd thought it was a sound you couldn't hear. Now it was a note. High and thin and getting higher, from all six of them at once, the way a rope sings in a gale on the river when it's about to go. He'd heard that sound once, as a boy, on Fisk's boat, and Fisk had thrown him flat in the bottom of it a moment before the rope parted and the end came whipping back over the gunwale where his head had been.
+They were lit. Each link of all six with a thin white line of writing on the inside of the curve, burning, so that the chains went up past him into the dark like six long strings of beads, and down ahead of him into the deeper dark the same, smaller and smaller. He'd seen it on the ledge. It was brighter now.
+
+He'd thought it was a sound you couldn't hear. Now it was a note. High and thin and getting higher, from all six of them at once. He'd heard that sound once, as a boy, on Fisk's boat, from a rope in a gale, and Fisk had thrown him flat in the bottom of it a moment before the rope parted and the end came whipping back over the gunwale where his head had been.
 
 Below the slope, out in the dark at the far end of the chains, something was lifting.
 
@@ -38,7 +41,7 @@ He sat on the rubble beside Aurveth with his hand on her neck and Kharrak lying 
 
 *Lisska,* he thought.
 
-The small bright fire, coming. Through the rock. From the west. Getting closer. He'd felt it for an hour now. Getting closer and closer and still not close enough for words.
+The small bright fire. It had stayed still a long while, far off under the other bank. Then, a little after the floor went, it had started to move, and it hadn't stopped since. Through the rock. From the west. Closer and closer, and still not close enough for words.
 
 *Come on,* he thought. *Come on. Come on.*
 
@@ -62,7 +65,7 @@ He stood up on the rubble.
 
 He saw the light first.
 
-Across the floor of the cavern, at the foot of the far wall, low down, where he hadn't seen anything before: a square of dark that was darker than the dark. An opening. In it, coming toward him, light. Not fire. Yellow. Small. A lantern.
+Across the floor of the cavern, at the foot of the far wall, low down, where he hadn't seen anything before: a square of dark that was darker than the dark. An opening. In it, coming toward him, light. Yellow. Small. A lantern.
 
 A sound with it. Feet. Big feet, padding, and claws on stone, scrabbling, and the rock round the opening groaning.
 
@@ -72,7 +75,7 @@ She came out of the opening first.
 
 Green, at a run, low, with her wings scraped raw and filthy and the blue ribbon still on her horn, across the floor of the cavern through the falling stones and the dust, and up the rubble slope, and round him. All the way round. With her head against his chest and her whole long body curled round him, shaking.
 
-*I did it,* she said. *I did it. I found her. I put it down at ten paces like you said and I waited and she came, she came to it, and she couldn't hear me and I didn't know what to do, and then the lion put his head down to me and I could…* She stopped. *Calder. She's here.*
+*I did it,* she said. *I did it. I found her. I put it down a good way off like you said and I waited and she came, she came to it, and she couldn't hear me and I didn't know what to do, and then the lion put his head down to me and I could…* She stopped. *Calder. She's here.*
 
 He looked up over Lisska's neck.
 
@@ -80,7 +83,7 @@ He looked up over Lisska's neck.
 
 Something came out of the opening in the far wall.
 
-Big. Grey. Low. Its head down and its shoulders working, the rock round the opening moving back from it as it came, the way a crowd moves back. Ten feet at the shoulder. More. With a great grey mane, dark with dust and sweat. With pale eyes that caught Kharrak's fire across the cavern floor and threw it back.
+Big. Grey. Low. Its head down and its shoulders working, the rock round the opening moving back from it as it came. Ten feet at the shoulder. More. With a great grey mane, dark with dust and sweat. With pale eyes that caught Kharrak's fire across the cavern floor and threw it back.
 
 He'd seen its prints. In the snow by her fire. Round, each as broad as a round shield, four toes splayed and the claws drawn in. He'd heard it breathe in the dark under the oaks and backed away. He'd had it from Lisska, a league off, word by word: lying in the arch with its head on the step and a woman's hand in its mane.
 
@@ -106,7 +109,7 @@ He'd never seen her face.
 
 He knew her the way you know weather in another valley, by Lisska's telling: on the east shore of the island in the dusk, pointing across the channel; at the stream in the summer; a narrow shape in a cloak in the arch, in the rain, at night, two leagues off. Boot-prints. A fire. A long pressed hollow beside a smaller one at the edge of a pit, both warm. He'd never once been close enough to see her face.
 
-A woman. Older than he'd thought. Not a girl. Twenty-five, thirty. Dark hair tied back hard behind her head. A long face, weathered, river-brown, with the broad bones of her mother's in it. Blood on it. Dust on it. In a shirt and breeches and a brown cloak too big for her, with a sword in her belt that wasn't a knight's sword, and her hands wrapped in rags that were black with blood and burned through at the palms. Blood on her to the elbow.
+A woman. Older than he'd thought. Twenty-five, thirty. Dark hair tied back hard behind her head. A long face, weathered, river-brown, with the broad bones of her mother's in it. Blood on it. Dust on it. In a shirt and breeches and a brown cloak too big for her, with a sword in her belt that wasn't a knight's sword, and her hands wrapped in rags that were black with blood and burned through at the palms. Blood on her to the elbow.
 
 She looked at him.
 
@@ -154,7 +157,7 @@ He couldn't speak.
 
 He stood there in the dark at the bottom of the world with the chain in his hand.
 
-"She says hello," said Maren. "She said it to my mother on the jetty and to me on the road. *A girl called Wren says hello.*" She almost smiled. It hurt her to. "Twice. So I wouldn't forget."
+"She says hello," said Maren. "She said it to my mother on the jetty and to me on the road. *A girl called Wren says hello.* Twice. So I wouldn't forget."
 
 ---
 
@@ -168,7 +171,7 @@ He'd never heard iron scream. It did. All six of them at once, a sound so high a
 
 Then it stopped. Shuddering. Holding. Just.
 
-They stood in the dust, the two of them, ten paces from the lion and the three dragons, and looked at each other.
+They stood in the dust, the two of them, and looked at each other.
 
 "There's no time," said Maren.
 
@@ -220,7 +223,7 @@ He didn't understand.
 
 She was quiet so long he thought she wouldn't answer.
 
-"It was asleep," she said. "Once. A long time. Old. And great. And kin to him. Lying down below the stone with the old ones gone, and him keeping the door." She swallowed. "And they woke it. And chained it. Three hundred years. And there's nothing in it now but the chains. And hate. And it wants to go somewhere. Far off. It knows where. I don't." She looked at him. "And it wants the world down. All of it. Flat."
+"It was asleep," she said. "Once. Kin to him, with him keeping the door." She swallowed. "And they woke it. And chained it. And there's nothing in it now but the chains, and hate." She looked at him. "It wants the world down. All of it. Flat."
 
 The cavern shook.
 
@@ -242,7 +245,7 @@ The stone came apart in two halves.
 
 And the chain came loose.
 
-He watched it fall. It went past them. Down the wall of the cavern, past the rubble slope, out into the dark, one link at a time, each link taller than a man, falling, hitting the rock and the rubble and each other, with a sound like all the bells of a city being thrown down a well, one after another after another, going down into the deep dark at the bottom of the cavern where the dark was lifting.
+He watched it fall. It went past them. Down the wall of the cavern, past the rubble slope, out into the dark, one link at a time, each link taller than a man, each with its thin line of white writing still burning on the inside of the curve, like a string of lamps let go into a well, falling, hitting the rock and the rubble and each other, with a sound like all the bells of a city being thrown down a well, one after another after another, going down into the deep dark at the bottom of the cavern where the dark was lifting.
 
 The dark lifted faster.
 
@@ -268,7 +271,7 @@ Kharrak was up. He'd been up the moment she moved. He stood against her shoulder
 
 *Then I'll DIG.*
 
-Maren had turned to the lion. She was standing by its head with her hand on its jaw. Calder saw her face change. Listening. He knew that look. He'd had it on his own face for half a year.
+Maren had turned to the lion. She was standing by its head with her hand on its jaw. Calder saw her face change. Listening. He knew that look. He'd had it on his own face since the autumn.
 
 "He says up," she said.
 

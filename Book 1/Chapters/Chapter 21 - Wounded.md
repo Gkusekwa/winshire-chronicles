@@ -16,11 +16,12 @@ Draft notes: Day nine, from dawn into the night. Decided here (proposals):
 - The lion rises. The ground heaves with it; stakes come out of the paving, and old stones split along their seams. It throws off the body chains, knocks one guard into the river, and goes north into the dark under the oaks. It doesn't touch her.
 - The hunters search for her by lantern and don't find her (she's up the tower stair). They leave on the raft, cursing; the Captain says they'll come back with men enough to take the island apart.
 - She keeps the hammer and chisel.
+Magic touches: none. Maren casts nothing in Book 1; she presses the wound and counts, the way Ottery taught.
 notes -->
 
 ---
 
-There's a word on the river watch for a beast that's been hurt and gone to ground. *Holed.* A holed beast is the most dangerous thing there is. Not because it's angry, Ottery said, though it is. Because it's stopped thinking about tomorrow. Everything that keeps a wild thing careful, everything that makes it go round you rather than through you, it's all for tomorrow. A holed beast has run out of tomorrows. So you leave it be, and you let it die or mend on its own, and you never, ever, go and look.
+There's a word on the river watch for a beast that's been hurt and gone to ground. *Holed.* Everything that keeps a wild thing careful is for tomorrow, Ottery said, and a holed beast has run out of tomorrows. So you leave it be, and you never, ever, go and look.
 
 ---
 
@@ -46,7 +47,7 @@ And the crate she hadn't opened.
 
 She opened it now. It was tools. Files, in a roll of leather. Shackle pins, a bag of them. A pot of grease. A pair of heavy pincers. A smith's hammer with a short ash handle, and beside it a cold chisel as long as her forearm, its edge bright and new-ground. Rolls of linen, clean, wrapped in oilcloth. For binding, she thought; for binding men, when the beasts they were binding bit them.
 
-She took the linen. She washed the arm with water from the barrel, which hurt so much she had to stop twice, and sat on the gravel and bound it, one-handed and with her teeth, round and round, tight, from the shoulder to the elbow. It took a long time. When it was done she ate some of their salt meat, slowly, and drank, and sat with her back against their woodpile and her eyes shut.
+She took the linen. She washed the arm with water from the barrel, which hurt so much she had to stop twice, and sat on the gravel and bound it, one-handed and with her teeth, round and round, tight, from the shoulder to the elbow. It took a long time. She pressed the heel of her good hand over the worst of it and counted to three hundred, the way Ottery taught, and the arm stopped seeping through the linen, or she wanted it to. When it was done she ate some of their salt meat, slowly, and drank, and sat with her back against their woodpile and her eyes shut.
 
 When she opened them she was looking at the cold chisel.
 
@@ -80,7 +81,7 @@ It knew she was there. Once, near midday, it lifted its head off the gravel and 
 
 The raft came at midday.
 
-She heard it before she saw it. Poles knocking. A man's voice calling a stroke. It came round the north-west point of the island, out in the current, the big square raft of lashed logs, low in the water, heavy. There were men on it. Not twelve. Fewer. She counted them as they came closer: eight, and the Captain at the front, tall and broad in her long oiled coat.
+She heard it before she saw it. Poles knocking. A man's voice calling a stroke. It came round the north-west point of the island, out in the current, the big square raft of lashed logs, low in the water, heavy. There were men on it. She counted them as they came closer: eight, and the Captain at the front, tall and broad in her long oiled coat.
 
 In the middle of the raft, upright and whole, stood the cage.
 
@@ -110,7 +111,7 @@ From the collar ran a chain. Short, heavy, thicker than any of the others. They 
 
 Then chains over its body. Three of them. Over the shoulders, over the ribs, over the hindquarters, and staked on both sides into the gravel. They didn't go near the hurt foot. Nobody did.
 
-When it was done, they stood back, all of them, and looked at it lying there on the spit under its chains, with the smoke going over it and its pale eyes open, and somebody laughed. High, shaky. The way you laugh when you've been very frightened and aren't any more.
+When it was done, they stood back, all of them, and looked at it lying there on the spit under its chains, with the smoke going over it and its pale eyes open, and somebody laughed. High, shaky.
 
 "Shut up," said the Captain. But she was smiling.
 
@@ -124,11 +125,11 @@ They sat on the gravel by the raft afterwards, out of the smoke, and ate, and ta
 
 "There's no one on this bank anyway."
 
-"There's always someone on this bank. They've got boats. They've got eyes on that wall." She jerked her head downstream, toward Greyhold. "They've been all round this island three days, in daylight, looking for something. I don't want them looking at a cage."
+"There's always someone on this bank. They've got boats. They've got eyes on that wall." She jerked her head downstream, toward Greyhold. "They've been all round this island two days, in daylight, looking for something. I don't want them looking at a cage."
 
 "What were they looking for?"
 
-"Whoever cut loose that boat of theirs. One of their own, I'd guess. Who cares. She's not here now."
+"Whoever came over in that boat we cut loose. One of theirs, I'd guess. Who cares. She's not here now."
 
 "The man said…"
 
@@ -192,7 +193,7 @@ She went down the slope in the dark.
 
 ---
 
-The landing stair came down out of the fort's south side in a long slant of broken paving to the water. The collar-chain was staked at the bottom of it, at the foot of the paving, where it met the gravel. Twenty paces from the guards' fire. Three paces from the lion's head.
+The landing stair came down out of the fort's south side in a long slant of broken paving to the water. The collar-chain was staked at the bottom of it, at the foot of the paving, where it met the gravel. A stone's throw from the guards' fire. Three paces from the lion's head.
 
 She went down the edge of the paving on her belly, along the inside of the old parapet where the shadow was deepest, the way she'd learned to come up on smugglers in the reeds. Slowly. One hand. Then the knees. Then the hand again. The smoke came over her in long sweet waves and she breathed through the wet cloth and her head swam anyway, and she stopped, and waited, and went on.
 
@@ -206,7 +207,7 @@ The eye was open. It was looking at her.
 
 She lay still for a long time, looking back.
 
-*Don't,* she thought, at it, the way you'd think at a horse you were trying to calm. Not words, really. Just the feeling. *Don't move. Not yet. I know. I know. Just wait.*
+*Don't,* she thought at it. Not words, really. Just the feeling. *Don't move. Not yet. I know. I know. Just wait.*
 
 The eye looked at her. It didn't blink.
 
@@ -246,7 +247,7 @@ The guard with the crossbow was on his knees. He was trying to reload. His hands
 
 The lion turned its head and looked at him.
 
-It didn't roar. It didn't need to. It went toward him, two steps, three, on three legs, limping, slow, and he dropped the crossbow and got up and ran, and the other one was already running, and it swung its head at him as he went, the way you'd swing your arm at a wasp, and caught him, and he went through the air and into the river with a cry and a great splash, and came up, and went away downstream in the dark, shouting.
+It didn't roar. It didn't need to. It went toward him, two steps, three, on three legs, limping, slow, and he dropped the crossbow and got up and ran, and the other one was already running, and it swung its head at him as he went and caught him, and he went through the air and into the river with a cry and a great splash, and came up, and went away downstream in the dark, shouting.
 
 It stood alone on the gravel by the fire, with the chain hanging from its collar, and breathed.
 

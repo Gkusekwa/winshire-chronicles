@@ -14,6 +14,7 @@ Draft notes: Days eighty-three to eighty-eight (midwinter night, full moon). Dec
 - She won't speak of it. "Do not ask me. Not yet. I will tell you when I can bear to." The phrase "do not ask" stays with him.
 - Echo: at midnight the sound of singing comes across the ice from Greyhold, four leagues and more downriver, faint and clear on the still air: the whole school on the wall singing the midwinter oath. Lisska, on the hill, hears it best and repeats the words to Calder: "Keep the watch below, and do not ask." Aurveth, on the ice, shudders from end to end.
 - Kharrak's response: he wants to dig. Aurveth says, very quietly, that if he puts a claw into that island she will break his wing herself.
+- Magic touches: Greyhold's windows at midwinter lit white and steady by Hearthmere's oil-less lamps (two nights before they fail).
 notes -->
 
 ---
@@ -22,7 +23,7 @@ For six days after the crossing Aurveth hardly spoke.
 
 She lay at the back of the cave at Crow Scar, against the wall, with her great head on the stone and her one eye open, looking at nothing. She ate when Lisska brought her meat, a little. She drank from the spring that came out of the rock. She didn't go out. When Calder came up through the frozen Fellwood at night and climbed the crag and sat down beside her, she let him put his hand on her brow, and kept her silence.
 
-He could feel her, through the bronze mark. That was the worst of it. He could feel something going on in her, all the time, day and night, the way you can feel a millwheel turning through the floor of the mill. Slow. Huge. Not stopping. He couldn't tell what it was.
+He could feel her, through the bronze mark. He could feel something going on in her, all the time, day and night, the way you can feel a millwheel turning through the floor of the mill. Slow and huge and never stopping. He couldn't tell what it was.
 
 *Is she ill?* said Lisska, on the third night. *Is she? She doesn't feel ill. She feels like she's listening.*
 
@@ -44,13 +45,13 @@ She didn't answer for so long that he thought she wasn't going to. Then, without
 
 On the seventh night, midwinter night, she lifted her head.
 
-He'd come up late. It was bitter cold, the coldest night yet, so cold the air hurt to breathe and the snow squeaked under his boots like something alive. The moon was full and very high and white, and the Fellwood lay under it black and silver, and from the ledge at the mouth of the cave you could see the whole of the Marches spread out below in the moonlight: the forest, the hills, the white snake of the river, the island, Greyhold's long wall far down on the other bank with every window lit.
+He'd come up late. It was bitter cold, the coldest night yet, so cold the air hurt to breathe and the snow squeaked under his boots like something alive. The moon was full and very high and white, and the Fellwood lay under it black and silver, and from the ledge at the mouth of the cave you could see the whole of the Marches spread out below in the moonlight: the forest, the hills, the white snake of the river, the island, Greyhold's long wall far down on the other bank with every window lit, white and steady, the way only Hearthmere's lamps burned.
 
 "They're keeping midwinter," he said. He'd come in and sat down by the fire Lisska had lit for him in the mouth of the cave, and was holding his hands out to it. "Greyhold. Every light's on."
 
 Aurveth lifted her head off the stone.
 
-He felt it. Through the mark. Something shift in her, at last, the millwheel catching, the slow turning becoming something else.
+He felt it. Through the mark. The slow turning in her catch, at last, and become something else.
 
 *I want to go down,* she said.
 
@@ -102,23 +103,19 @@ He felt what it did to her, if not all of what she felt. Through the bronze mark
 
 Something below.
 
-Below the ice. Below the river. Below the riverbed, and the gravel and the clay under that, and the rock under that. Far down. Further down than anything he could think about. He felt her reach down into it, through the ice, through her throat pressed against the ice, the way you'd reach down into deep water with your arm to feel for something you'd dropped. And he felt her touch it.
+Below the ice. Below the river. Below the riverbed, and the gravel and the clay under that, and the rock under that. Far down. Further down than anything he could think about. He felt her reach down into it, through the ice, through her throat pressed against the ice. And he felt her touch it.
 
 Vast.
 
-That was the first thing that came up through the mark into him, and it was so big that he put his hand out and leaned on her flank to stay standing. Something vast. Bigger than her. Bigger than the island. Bigger than Coldtarn, bigger than the Scarfell, so big that he couldn't hold the size of it in his head at all and his head gave up trying. Lying down there. Under everything.
+It came up through the mark into him first, and it was so big that he put his hand out and leaned on her flank to stay standing. Something vast. Bigger than her. Bigger than the island. Bigger than Coldtarn, bigger than the Scarfell, so big that he couldn't hold the size of it in his head at all and his head gave up trying. Lying down there. Under everything.
 
-Not asleep.
-
-He knew that the way he'd known on the path under the oaks that the lion was awake. She knew it, and he felt her know it. Something lying very still in the dark under the earth, and awake, and turning, the way the millwheel turns, the way something turns over and over in a bed it can't get out of.
+It wasn't asleep. He knew that as surely as he'd known on the path under the oaks that the lion was awake. She knew it, and he felt her know it. Something lying very still in the dark under the earth, awake, turning over and over in a bed it can't get out of.
 
 And bound.
 
-He felt that too. He didn't know how. He didn't have a word for it. He felt it through her the way you feel a rope that's too tight round a beast's leg when you put your hand on the beast: the wrongness of it, the pressure, the place where something is held that shouldn't be held. Bound, down there in the dark, with something round it, and the something had been there so long that the thing it held had grown round it, the way a tree grows round a nail.
+He felt that too. He didn't know how. He didn't have a word for it. He felt it through her the way you feel a rope that's too tight round a beast's leg when you put your hand on the beast: the wrongness of it, the pressure, the place where something is held that shouldn't be held. Bound, down there in the dark, with something round it, and the something had been there so long that the thing it held had grown round it, like a tree round a nail.
 
-And under all of that, something worse.
-
-He had no name for it. It came up through the bronze mark into him for one moment, the last thing, the deepest, and it was like nothing he'd ever felt in his life, from any beast or any man. It was like a bone set badly. Like a leg that's been broken and healed crooked, and walks, and carries weight, and is wrong, wrong all the way through, every step it takes.
+Under all of that there was something worse. He had no name for it. It came up through the bronze mark into him for one moment, the last thing, the deepest, and it was like nothing he'd ever felt in his life, from any beast or any man. It was like a bone set badly. Like a leg that's been broken and healed crooked, and walks, and carries weight, and is wrong, wrong all the way through, every step it takes.
 
 He took his hand off her flank and stood on the ice and was sick.
 
@@ -134,7 +131,7 @@ Nothing.
 
 "Aurveth. What is it? What's down there?"
 
-He felt her hear him. He felt the question go into her, down through the mark, and land. He felt her close. Like a door. Like a hand closing over something small so nobody can see it.
+He felt her hear him. He felt the question go into her, down through the mark, and land. He felt her close, like a hand closing over something small so nobody can see it.
 
 *Do not ask me,* she said.
 
@@ -146,13 +143,13 @@ He stood on the ice in the shadow of the bank and looked down at her.
 
 *Do not ask.*
 
-He'd heard that before. He didn't know where. It went into him and stuck, like a burr in wool.
+It went into him and stuck, like a burr in wool.
 
 ---
 
 They stayed on the ice for most of the night.
 
-She didn't get up. She lay with her throat to the ice and her eye open, and he sat down in the snow beside her head, against the curve of her jaw, where it was warm, and pulled his coat round him and waited. He didn't ask again. He could feel her down there in the dark under the ice, not listening any more, just lying there with the weight of whatever she'd touched on top of her. He put his hand on her jaw and left it there.
+She didn't get up. She lay with her throat to the ice and her eye open, and he sat down in the snow beside her head, against the curve of her jaw, where it was warm, and pulled his coat round him and waited. He didn't ask again. He could feel her down there in the dark under the ice, not listening any more, just lying there under whatever she'd touched. He put his hand on her jaw and left it there.
 
 On the hill above the Fenn farm, a league and a half away, he could feel the other two. Watching. Close enough to talk.
 
@@ -212,13 +209,13 @@ He felt it go through her from end to end. From the tip of her nose to the end o
 
 *Do not ask me,* she'd said. *Not yet.*
 
-He sat in the snow beside her with his hand on her jaw and the singing coming across the ice, and the cold going into him, and something going into him with it that wasn't cold. He didn't know what it was. He thought of a carving over an arch in the starlight, that he couldn't read, that Lisska could see and Aurveth could read and wouldn't. He thought of a voice in the dark of Crow Scar, saying *something has cut it out of me.* He thought of something vast, lying awake under the earth, turning over and over in a bed it couldn't get out of. Bound. Wrong, like a bone set badly.
+He sat in the snow beside her with his hand on her jaw and the singing coming across the ice, and the cold going into him, and something going into him with it that wasn't cold. He thought of a carving over an arch in the starlight, that he couldn't read, that Lisska could see and Aurveth could read and wouldn't. He thought of a voice in the dark of Crow Scar, saying *something has cut it out of me.* He thought of something vast, and awake, and bound, under the earth. Wrong, like a bone set badly.
 
 *Keep the watch below.*
 
 The singing stopped.
 
-It stopped all at once, the way the dragons' screaming had stopped on the night of the field, as if a door had shut. The silence came back across the ice, the huge frozen silence of the river that had stopped moving.
+It stopped all at once, as if a door had shut. The silence came back across the ice, the huge frozen silence of the river that had stopped moving.
 
 Aurveth didn't lift her head again until the sky went grey in the east.
 

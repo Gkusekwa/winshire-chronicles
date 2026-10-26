@@ -16,8 +16,9 @@ Draft notes: Nights one hundred and two and one hundred and three. Decided here 
 - Old Grey's handler stands at the end of the line with his hand on the grey's neck and drives him at Calder. Calder stands. Aurveth puts her foot on the ground between them and the handler runs. With the handler gone, Old Grey stops. He doesn't come back. He stands there empty. Calder puts the halter on him and he follows the hand that leads him. (Proposal: a bound beast whose binder is gone doesn't wake. It goes slack and follows any hand. Whether it comes back is unknown.)
 - The unbound pen: Calder opens it and the wolves and the marsh-cat and the yearling go into the forest. The bound beasts at the lines stand where they are when he cuts them loose. They don't go anywhere.
 - The young man with the soft beard is among the refugees on the beck ice, watching. He shouts after them, not gently now: "Enemy! Enemy of the one realm!" The refugees take it up.
-- Calder walks Old Grey home up the river lane, five leagues (the grey is too big to carry). A league along it, Lisska hears Greyhold's bell first and then he does, faint, across the ice from the Hearthmere bank, ringing in the night. The knights saw the fire.
+- Calder walks Old Grey home up the river lane, four leagues (the grey is too big to carry). A league along it, Lisska hears Greyhold's bell first and then he does, faint, across the ice from the Hearthmere bank, ringing in the night. The knights saw the fire.
 - Kharrak, at dawn: *You chose.* Calder: "Yes." Kharrak doesn't gloat. *It doesn't feel the way I thought it would.* Calder: "No."
+- Magic touches: a crate of the camp's warranted charms, "against burning", burns with the stores.
 notes -->
 
 ---
@@ -68,7 +69,7 @@ He took it.
 
 ---
 
-It was five leagues. Aurveth did it in less than an hour, low, over the white hills, along the folds where the forest came down, with Kharrak on one side and Lisska ranging ahead. No moon. The second night of the dark. The snow below them was grey, and the forest black, and the frozen Wend away to the right a long pale road going south.
+It was four leagues by the lane, and Aurveth did it in less than an hour, low, over the white hills, along the folds where the forest came down, with Kharrak on one side and Lisska ranging ahead. No moon. The second night of the dark. The snow below them was grey, and the forest black, and the frozen Wend away to the right a long pale road going south.
 
 He'd never flown to a place to do a thing before.
 
@@ -84,7 +85,7 @@ He didn't answer straight away.
 
 "If they come at us," he said. "If they set the beasts on us. If they stand in the way." He took a breath. "Then yes."
 
-He felt Kharrak hear it. Beside them in the dark. He felt the red tide come up the way the sea comes up a beach, and not crash. Steady. Patient.
+He felt Kharrak hear it. Beside them in the dark. He felt the red tide come up, and not crash. Steady. Patient.
 
 *Yes,* said Kharrak.
 
@@ -102,11 +103,11 @@ The slope above the beck was quiet. The fenced field. The handlers' lines.
 
 Then it wasn't.
 
-Men came out of the handlers' tents. Not running. Not toward the beck. Men in grey, with lanterns and spears, coming out fast and spreading out along the fence, looking up. One of them, at the end, by the long low tent with the smoke-holes, raised his arm.
+Men came out of the handlers' tents. Men in grey, with lanterns and spears, coming out fast and spreading out along the fence, looking up. One of them, at the end, by the long low tent with the smoke-holes, raised his arm.
 
 The beast lines came alive.
 
-He saw them through the dark. Hounds, getting up off the straw. Eight, ten. A wyvern lifting its head on its perch. Two greyharts, white, standing. All of them at once, the way the camp hounds on the drove road had moved in their lines in the autumn. All of them together, as if they were one beast moved by one hand.
+He saw them through the dark. Hounds, getting up off the straw. Eight, ten. A wyvern lifting its head on its perch. Two greyharts, white, standing. All of them at once, as if they were one beast moved by one hand.
 
 None of them made a sound.
 
@@ -118,7 +119,7 @@ Kharrak came down on the fence.
 
 He came down out of the dark like a rock falling off a cliff, and opened his mouth, and the night went orange.
 
-Calder had seen him burn before, held back, a little at a time, because Calder had asked him to. This was different. This was Kharrak with nothing to hold him back, and Calder had told him so. The fire came out of him in a long roaring river, white at the root, orange at the edges, and went along the fence from end to end, and the fence went up like straw. The handlers' tents behind it went up. The store wagons. Sacks of grain catching, barrels splitting in the heat, a smell of burning oats and pitch. The long low tent with the smoke-holes went up last, all at once, with a sound like a breath going in, and something inside it burst with a great soft crack and a gout of sweet thick smoke rolled up into the dark.
+Calder had seen him burn before, held back, a little at a time, because Calder had asked him to. This was different. This was Kharrak with nothing to hold him back, and Calder had told him so. The fire came out of him in a long roaring river, white at the root, orange at the edges, and went along the fence from end to end, and the fence went up like straw. The handlers' tents behind it went up. The store wagons. Sacks of grain catching, barrels splitting in the heat, a smell of burning oats and pitch. A crate split open on a wagon-bed and a hundred little stamped charms spilled out of it into the fire and curled up black, warranted against burning. The long low tent with the smoke-holes went up last, all at once, with a sound like a breath going in, and something inside it burst with a great soft crack and a gout of sweet thick smoke rolled up into the dark.
 
 Honey-smoke. He knew the smell. Gallows Quay. The room at the back.
 
@@ -134,11 +135,11 @@ Silent. All of them. Out of the dark between the burning tents, with the firelig
 
 Aurveth's tail came round.
 
-It took two of them in the air. He heard them hit. He heard them hit and not cry out, which was the worst thing he'd ever heard. They went into the snow and tried to get up again with their backs broken, still silent, still coming. Aurveth put her foot on them.
+It took two of them in the air. He heard them hit. He heard them hit and not cry out. They went into the snow and tried to get up again with their backs broken, still silent, still coming. Aurveth put her foot on them.
 
 The rest came on.
 
-He had Joss's knife in his hand. He didn't remember drawing it. A hound came at his throat and he got his arm up and it took his arm instead, through the coat, and hung there, silent, and he felt its teeth go in and didn't feel any pain at all for a moment, only the weight. It didn't growl. It didn't shake him the way a dog shakes. It just held on, the way it had been told to, and pulled.
+He had Joss's knife in his hand. He didn't remember drawing it. A hound came at his throat and he got his arm up and it took his arm instead, through the coat, and hung there, silent, and he felt its teeth go in and didn't feel any pain at all for a moment, only the weight. It didn't growl. It didn't shake him. It just held on, as it had been told to, and pulled.
 
 He put the knife into it.
 
@@ -154,7 +155,7 @@ Calder saw it. He saw the man see Kharrak coming, and lower his arm, and turn to
 
 The hound let go of his arm.
 
-It dropped into the snow. It stood there. All of them stood there, the hounds that were left, in a ragged ring round him in the firelight, with their heads level and their eyes empty. Not attacking. Not running. Standing, the way a puppet stands when you put down the strings.
+It dropped into the snow. It stood there. All of them stood there, the hounds that were left, in a ragged ring round him in the firelight, with their heads level and their eyes empty, standing like puppets when you put down the strings.
 
 He stood among them, breathing, with the knife in his hand and his arm running warm inside his sleeve.
 
@@ -168,7 +169,7 @@ Two more of the handlers died. Calder didn't see the first. He heard it, from th
 
 Three men. He'd never killed anybody. He'd never chosen for anybody to be killed. He'd stood in Ulric's gate with a name in his mouth and shut his mouth on it because he couldn't bear for one man to die on his word. And now three were lying in the snow on a burning hillside because he'd said *yes* on Aurveth's neck in the dark.
 
-He'd think about it later. He knew he would. He'd think about it for the rest of his life.
+He'd think about it later.
 
 He went to find Old Grey.
 
@@ -218,7 +219,7 @@ He ran.
 
 Old Grey came down.
 
-Slowly. Not the way a horse comes down out of a rear, with a crash. He came down the way a thing comes down when nobody's holding it up any more. His forefeet touched the snow a pace in front of Calder, and he stood there, and his head went low, and stayed low.
+Slowly, like a thing nobody was holding up any more. His forefeet touched the snow a pace in front of Calder, and he stood there, and his head went low, and stayed low.
 
 Calder waited for something to come back into his eyes.
 
@@ -240,7 +241,7 @@ He stood in the snow with the lead in his hand and the grey standing behind him 
 
 ---
 
-There was a pen at the top of the slope, behind the lines. Hurdles, roped together. The fire hadn't reached it. Inside it, pressed against the far hurdles in the dark, there were beasts. Not in the lines. Not in collars. Two young wolves, grey, each as big as a pony, with their ears flat. A marsh-cat, spotted, long, crouched low, spitting. And a yearling greyhart, white, seven feet at the shoulder already and all legs, trembling.
+There was a pen at the top of the slope, behind the lines. Hurdles, roped together. The fire hadn't reached it. Inside it, pressed against the far hurdles in the dark, there were beasts with no collars on them. Two young wolves, grey, each as big as a pony, with their ears flat. A marsh-cat, spotted, long, crouched low, spitting. And a yearling greyhart, white, seven feet at the shoulder already and all legs, trembling.
 
 New-bought. Not bound yet. He knew it by their eyes. Their eyes were full. Full of fire, and terror, and the dragons, and him.
 
@@ -264,7 +265,7 @@ They stood where they were, in the snow, in the firelight, with their heads leve
 
 Calder stood among them with the knife in his hand. He thought of Bel's kitchen. Of the hound at Gallows Quay with the pole through it. Of the young man on his knees in the honey-smoke. *You're chosen now.*
 
-"Leave them," he said. It was the hardest thing he'd said that night. "There's nothing I can do. Leave them."
+"Leave them," he said. "There's nothing I can do. Leave them."
 
 ---
 
@@ -288,13 +289,13 @@ Somebody behind him took it up. Then others. A ragged shout, going back through 
 
 Calder stood at the foot of the slope with the halter in his hand and let them shout it.
 
-There wasn't anything to say. They were right. He'd come in the night with fire. He'd burned their stores and their tents and three of their men. He'd done it on purpose. He'd chosen.
+They were right. He'd come in the night with fire. He'd burned their stores and their tents and three of their men. He'd done it on purpose. He'd chosen.
 
 He turned away from them, and led Old Grey up onto the river lane, and north.
 
 ---
 
-He walked. Aurveth wanted to carry them both; the grey was too big, and she'd have had to take him in her claws, and Calder couldn't bear the thought of that empty head hanging. So he walked, with the lead in his hand, five leagues up the river lane in the dark, with the grey plodding behind him, head low, and the dragons going over high and slow and circling back.
+He walked. Aurveth wanted to carry them both; the grey was too big, and she'd have had to take him in her claws, and Calder couldn't bear the thought of that empty head hanging. So he walked, with the lead in his hand, four leagues up the river lane in the dark, with the grey plodding behind him, head low, and the dragons going over high and slow and circling back.
 
 He'd gone a league, with the frozen river on his left, when Lisska said, *Listen.*
 
@@ -344,7 +345,7 @@ Calder went up the hill.
 
 ---
 
-The dragons were on the hillside where they always lay, above the Fenn farm, in the first light. He sat down in the snow beside them. His arm had stiffened in the night where the hound had held it. There was blood frozen in his sleeve.
+The dragons were on the ridge behind Bel's, where they always lay, in the first light. He sat down in the snow beside them. His arm had stiffened in the night where the hound had held it. There was blood frozen in his sleeve.
 
 He sat there till the sun was up.
 

@@ -18,6 +18,7 @@ Draft notes: Days one hundred and twenty-four to one hundred and twenty-eight. D
 - Rowan tells her there's a price on her on the Saltreach bank. Two hundred silver, the same as the farmer. A sellsword Pell's patrol pulled out of the river at Redwatch on the evening of day 126 said so. "They want you because the beast follows you. So do we. That's the only difference between us and them, Ashdown. We'll keep you."
 - Maren refuses. Plainly. "No." Rowan asks her three times. Three times no. Rowan: "Then I'll do it without you, and it'll go worse." Maren: "Then it'll go worse."
 - Rowan takes her off Pell's patrol and confines her to Greyhold: the midden, the barn, the dormitory. No island. Thorne walks her down the stair. At the bottom Thorne says, very low, "I lifted my hand to him, you know. The farmer. In the autumn. The morning after the burning. It was the only right thing I did that whole night." And goes.
+- Magic (proposal): Greyhold's licensed lamp-tender, thirty years walking the walls with the lamp-words, now fills oil-cans in the stores yard with his licence still on its cord.
 notes -->
 
 ---
@@ -32,7 +33,7 @@ He took her twice. On the hundred-and-twenty-fourth day and the hundred-and-twen
 
 The pit was flooded.
 
-The brown water had come up through the old fill from below, the way it does in any hole near a river in spring, and filled it to the top of the stone. The lion stood in it to its knees. It was scraping. Under the water now. She could see the mud boil up round its forefeet where the claws went in.
+The brown water had come up through the old fill from below and filled it to the top of the stone. The lion stood in it to its knees. It was scraping. Under the water now. She could see the mud boil up round its forefeet where the claws went in.
 
 It looked up when she came over the bank.
 
@@ -54,7 +55,7 @@ It didn't move away. It let her hand stay. Then it went back down into the water
 
 Rowan sent for her on the hundred-and-twenty-seventh day.
 
-She'd been at Greyhold since the evening before, drawing stores for the patrol: lamp oil, because nothing burned without it now, and bread, and a new pole for Ottery. She was in the stores yard loading the cart when the boy came. *The Captain.*
+She'd been at Greyhold since the evening before, drawing stores for the patrol: lamp oil, because nothing burned without it now, and bread, and a new pole for Ottery. The lamp-tender was in the stores yard too, filling oil-cans at the cask. He'd walked Greyhold's walls every dusk for thirty years saying the words over each lamp, with his licence on a cord round his neck, and he still wore it. He filled the cans and didn't look at anybody. She was loading the cart when the boy came. *The Captain.*
 
 She climbed the north tower stair behind him. Past the second floor. Up the last winding flight so tight she had to go sideways. She knocked.
 
@@ -210,7 +211,7 @@ She took something else from under the paper. A scrap of a different kind. A pag
 
 Maren sat very still.
 
-"*The knight with the lion,*" said Rowan. "That's what he called you. You and the farmer. Same price. Like a pair, he said." She laid the page down. "They want you because the beast follows you. If they have you, they have it. That's all you are to them, Ashdown. A halter."
+"*The knight with the lion,*" said Rowan. "That's what he called you. You and the farmer. Same price, he said. Same buyer." She laid the page down. "They want you because the beast follows you. If they have you, they have it. That's all you are to them, Ashdown. A halter."
 
 She folded her hands on the table.
 
@@ -240,7 +241,7 @@ Rowan sat for a long moment.
 
 "You swore an oath."
 
-"I swore to keep the watch below," said Maren. "I can't say the rest of it any more. I've tried. It won't come out." She heard herself say it. "And I never swore to put another one down there."
+"I swore to keep the watch below," said Maren. "I can't say the rest of it any more. I've tried. It won't come out. And I never swore to put another one down there."
 
 The fire ticked. Thorne had put her hand over her eyes.
 
@@ -266,7 +267,7 @@ She looked out of the window for a while. At the river, high and brown and full 
 
 Rowan turned and looked at her.
 
-For a moment, just a moment, something moved in the quiet face. Maren couldn't have said what. Not anger. Something more like what Hale's face had done on the archive step, under the carved line, when he said *you don't tell people things.* Then it was gone.
+For a moment, just a moment, something moved in the quiet face, something like what Hale's face had done on the archive step, under the carved line, when he said *you don't tell people things.* Then it was gone.
 
 "You're off Pell's patrol," said Rowan. "From now. You're confined to Greyhold. The midden. The barn. The refectory. The dormitory. Nowhere else. You'll not go to Redwatch. You'll not go on the river. You'll not go near the island." She picked up her pen. "If you go over the wall behind the midden again, the way you did on the hundred-and-twenty-third night, the gate will be told to stop you, and they'll stop you however they have to."
 
@@ -308,6 +309,6 @@ She picked up a fork.
 
 She thought of narrow boot-prints and hobnailed ones, in the snow by her fire, one over the other. Knees in the snow. A scale the size of a round shield, warm, in the chest under her cot. Three dragons answering a roar across the ice from the hills above Harrow's End.
 
-*You and the farmer. Same price. Like a pair.*
+*You and the farmer. Same price. Same buyer.*
 
 She began to muck out.

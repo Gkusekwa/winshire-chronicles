@@ -3,7 +3,7 @@
 <!-- notes
 POV: Maren
 Part: Part Six: The First War
-Beats: The Last Titan tears free of its chains and flies. Hearthmere's magic begins to fail. The book ends with the two of them watching it go.
+Beats: The Last Titan tears free of its chains and flies. Hearthmere's magic, failing since midwinter, goes out for good. The book ends with the two of them watching it go.
 Echo of the other's story: Both stories, together for the first time.
 Status: first draft
 Carried forward: From Chapter 78: Orrun opening the rock overhead; Aurveth can't fly (left wing torn, horn-wound in the chest); Kharrak holding her up; five chains left; the first anchor-stone broken; Maren and Calder have met. From Chapter 77: what Orrun touched: a destroyer, made one by three hundred years of chains, pulled toward somewhere far off and wanting the world down. From Chapter 49: Hearthmere's lamps without oil, warming-stones, licensed words, the sweet wells, all drawn from below. From Chapter 13: "Keep the watch below, and do not ask." From Chapter 70 (Calder's side): the full verse; "its own kin kept the door".
@@ -16,8 +16,10 @@ Draft notes: The small hours to sunrise, day one hundred and forty-four. Decided
 - The ground on both banks heaves when it moves. Redwatch's tower cracks. Downriver, Greyhold's inner wall, the old grey stones, splits from top to bottom.
 - It doesn't look at Orrun. Orrun roars at it, the question, the last time. It turns its great head once toward the reeds, toward the lion, and away. Maren never knows whether it saw him.
 - It flies. North-east. Over the Saltreach bank and Harrow's End and the Fellwood and the Scarfell, slowly, then less slowly, with the dawn coming up behind the hills under it, until it's a mountain in the sky, and a hill, and a bird, and nothing.
-- Hearthmere's magic fails: on the Hearthmere bank, every lamp at Redwatch that was burning without oil goes out at once. Downriver, the lamps on Greyhold's walls. Orrun feels it through the ground: the thing that came up from below draining away like a river after a flood. Maren knows, without seeing it, that in Hallowmere the lamps are going out too, and the sweet wells are going sour, and every licensed word is only a word.
+- Hearthmere's magic fails: on the Hearthmere bank, every lamp at Redwatch that was burning without oil goes out at once. Downriver, the lamps on Greyhold's walls. Orrun feels it through the ground: the thing that came up from below draining away like a river after a flood, going away north-east after the speck in the sunrise. (The paragraph imagining Hallowmere's lamps, wells and licensed words is cut, A2 M20: Book 2 shows it.)
 - The end: the two of them on the shore at sunrise, with the lion and three dragons, watching the empty sky. Calder asks what it was. Maren tells him the name the Watch had for it. "The Last Titan." Then, with her hand on Orrun's shoulder, she says the old words back to herself and means something new by them: "Keep the watch."
+- Magic (proposal): the end of the surge and the drain. The lamps at Redwatch have been burning white since midnight (the flood), then go out at once when the Titan flies; the broken chain-ends on its legs still have their white writing burning faintly inside the links as it rises (the runes still feed on what they hold, a Book 2 thread).
+- Revision (proposal): Orrun's third duplicate, one at a time. When the fourth chain goes, a slab of the passage roof breaks loose over Aurveth; a lion of the hill's own rock stands up out of the passage wall and holds it on its back while the dragons and Calder get through, then lets it down and goes back into the wall. Orrun shakes under the cost and has to stand before he can walk on.
 notes -->
 
 ---
@@ -28,7 +30,7 @@ She'd felt it move for him on the stair under the school, and along the old ston
 
 He walked up into it.
 
-He put his head down, and his shoulder, and walked at the wall of the cavern at the foot of the rubble slope, and the wall wasn't there. It opened in front of him. Not breaking. Opening, the way water opens round your arms when you swim, and closing again a little way behind. A passage, going up. Round, and rough, and just big enough, and getting longer as he walked, and the rock on every side of it humming with him, the way the ground had hummed under her all winter on the island.
+He put his head down, and his shoulder, and walked at the wall of the cavern at the foot of the rubble slope, and the wall wasn't there. It opened in front of him, the way water opens round your arms when you swim, and closing again a little way behind. A passage, going up. Round, and rough, and just big enough, and getting longer as he walked, and the rock on every side of it humming with him.
 
 *Up,* said Orrun. *Toward the water. Not into it. Beside it.*
 
@@ -38,7 +40,7 @@ Behind them, the others came.
 
 Lisska first, ahead of Orrun's head now, with the lantern hooked in her front claw, its light swinging on the rough rock. Then the farmer, on foot, at the head of the old bronze dragon, with his hand on her jaw. And the old dragon, walking, dragging the torn wing. With the red one under her other shoulder, holding her up, pressing his whole side against hers at every step so she wouldn't fall.
 
-She heard him talk to them. The farmer. Out loud. Low and steady, the whole way, the way her father had talked to his hound. She couldn't hear the answers. She could feel them, a little, through Orrun, through Lisska: kin to kin. A great slow weight of pain, and under it something patient. A rust-red heat, holding.
+She heard him talk to them. The farmer. Out loud. Low and steady, the whole way. She couldn't hear the answers. She could feel them, a little, through Orrun, through Lisska: kin to kin. A great slow weight of pain, and under it something patient. A rust-red heat, holding.
 
 *Wren's grandmother says she was the best in the barn at her letters,* the farmer was saying, to the old dragon, for no reason Maren could understand. *At Varrhold. Sixty years ago.* And a pause, while something answered him. *I didn't know that either.*
 
@@ -50,13 +52,31 @@ She felt the second one. Through the rock. Through Orrun. A long falling thunder
 
 The third.
 
-The fourth.
-
 Each one a long falling thunder under them. Each one followed by a heave from below that came up through the rock into Orrun's feet and through Orrun into her. Bigger every time. Something lifting. Something pulling against what was left.
 
 She lay on Orrun's neck and felt him feel it, and felt what he felt.
 
 He didn't stop walking.
+
+At the fourth the roof came down.
+
+Behind them. She felt it through Orrun before she heard it: a slab of the passage roof the size of a barn door breaking loose over the old dragon's back, where the rock should have closed a little way behind them and hadn't closed yet. The farmer shouted.
+
+And the rock stood up.
+
+Out of the passage wall beside the old dragon, a shoulder of grey stone, and a mane of it, and a back. A lion of the hill's own rock, Orrun's size and Orrun's shape, standing up under the falling slab with its legs braced and its head down. The slab came down on its back and stopped there.
+
+Maren looked back past Lisska's lantern and saw it. Holding the roof, with the dust pouring off it, while the old dragon dragged herself under it with the red one at her shoulder and the farmer at her head, his face turned up to the stone thing over him.
+
+Under her, Orrun shook. All of him, the way a horse shakes under a load too heavy for it. She felt it go out of him into the thing behind them, warm and steady, like blood from a cut you can't reach to stop.
+
+*Go,* he said. Not to her. To them.
+
+They went. The red one last, his tail clear. Then the stone lion let the roof down behind them and went back into the wall it had come out of, and the passage closed over the place where it had stood.
+
+Orrun stood with his head down and his breath going in and out of him like a bellows. She put her hand flat on his neck and kept it there.
+
+Then he walked on.
 
 The fifth.
 
@@ -110,7 +130,7 @@ Everybody had stopped.
 
 She saw it as the light came. Along the Hearthmere bank, up at Redwatch, the knights' line along the reeds where they'd fought all yesterday and all night: men standing still. Horses standing still. Nobody fighting. Everybody facing the river.
 
-On the water, the Restoration's boats. Dozens of them, scattered all over the reach between the bank and the whirlpool, where they'd been crossing, and fighting, and running. Not moving. Men in them sitting still with their oars shipped. One boat too close to the hole, caught in the edge of the pull, turning slowly, and the men in it not even trying to row.
+On the water, the Restoration's boats. Dozens of them, scattered all over the reach between the bank and the whirlpool, where they'd been crossing, and fighting, and running. Men in them sitting still with their oars shipped. One boat too close to the hole, caught in the edge of the pull, turning slowly, and the men in it not even trying to row.
 
 On the far bank, at Harrow's End, on the hill where the campfires had been, black with men: nobody moving.
 
@@ -144,7 +164,7 @@ It came up. And up. A neck. Shoulders. A mane, if it was a mane, like a ridge of
 
 On the forelegs, round them, the chains.
 
-What was left of them. The broken ends. Each link taller than a man, black with three hundred years, trailing from its legs down into the water, and as it moved, they moved, like threads. Like nothing.
+What was left of them. The broken ends. Each link taller than a man, black with three hundred years, trailing from its legs down into the water, and as it moved, they moved, like threads. Like nothing. On the inside of the links, faint in the daylight, the thin white writing was still burning.
 
 It was grey. Grey as old stone. Grey as the inner wall. Grey as the slab at the bottom of the pit, scored all over with the pale marks of Orrun's claws.
 
@@ -154,7 +174,7 @@ It stood in the river where the island had been, with the Wend breaking round it
 
 The ground moved when it moved.
 
-She felt it in her feet. On both banks. A heave that went out from it through the river-bed and up through the reeds and the mud and the fields, in a great slow ring, the way a ripple goes out from a stone. The reeds round her lay down flat. Up at Redwatch, the tower cracked. She saw it go: a long dark line running up the red stone from the foot to the top, and the top of the tower leaning, and a cloud of dust going up.
+She felt it in her feet. On both banks. A heave that went out from it through the river-bed and up through the reeds and the mud and the fields, in a great slow ring, like a ripple from a stone. The reeds round her lay down flat. Up at Redwatch, the tower cracked. She saw it go: a long dark line running up the red stone from the foot to the top, and the top of the tower leaning, and a cloud of dust going up.
 
 Downriver, far off, on its hill, Greyhold.
 
@@ -196,7 +216,7 @@ Toward the reeds. Toward the shore. Toward the sound.
 
 She saw its eye.
 
-She couldn't have said what she saw in it. The size of it. The age. It was pale. Pale like Orrun's. And it looked, for a moment, toward the reeds where the lion stood with a woman's hand on his shoulder, and three dragons, and a man.
+The size of it. The age. It was pale. Pale like Orrun's. And it looked, for a moment, toward the reeds where the lion stood with a woman's hand on his shoulder, and three dragons, and a man.
 
 She couldn't tell whether it saw him.
 
@@ -226,21 +246,15 @@ Then nothing.
 
 On the Hearthmere bank, up at Redwatch, the lamps went out.
 
-She'd seen them burning, at the tower, when they came up out of the reeds. The old lamps. The ones that burned without oil. Hung on the cracked red tower and along the knights' line by the water, pale yellow in the grey dawn.
+She'd seen them burning, at the tower, when they came up out of the reeds. The old lamps. The ones that burned without oil. Hung on the cracked red tower and along the knights' line by the water, burning white in the grey dawn, too white, the way the lamps had burned on and off all over the river since the day before. Since midnight they hadn't gone out at all.
 
 They went out, all of them at once. No guttering, no dimming. The way a candle goes out when you close your fingers on it.
 
-She looked downriver. At Greyhold on its hill, leagues off, with its split inner wall. There'd been lamps on the walls there too, she knew. Pale points in the grey.
+She looked downriver. At Greyhold on its hill, leagues off, with its split inner wall. There'd been lamps on the walls there too, she knew. White points in the grey.
 
 There weren't.
 
-She felt it through Orrun. Through the ground. The thing she'd felt under her boots all winter on the island, under the archive, through the black door, warm, humming, coming up from below. She felt it go. Not all at once. Draining. The way a river goes down after a flood, back off the fields into its bed, and then down in its bed, and down, until there's only mud. Going out of the ground under Hearthmere. Going away, north-east, after a speck in the sunrise.
-
-She didn't need to see Hallowmere. She knew.
-
-The lamps going out in the crown's hall, along the streets, in every house that had one. The warming-stones going cold in every infirmary from the river to the southern sea. The sweet water in the wells going sour. Every word the crown had ever licensed, the bone-setting words and the mending words and the words for the barley rust and the words for the lamps, every one, in every mouth that said it this morning, only a word.
-
-Three hundred years of light, gone out between one breath and the next.
+She felt it through Orrun. Through the ground. The thing she'd felt under her boots all winter on the island, under the archive, through the black door, warm, humming, coming up from below. She felt it go. Draining. The way a river goes down after a flood, back off the fields into its bed, and then down in its bed, and down, until there's only mud. Going out of the ground under Hearthmere. Going away, north-east, after a speck in the sunrise.
 
 ---
 
@@ -312,7 +326,7 @@ And under the grief, something else. Something she'd felt in him on the knowe, t
 
 "I know."
 
-*It wants them awake. It wants everything down.*
+*It wants everything down.*
 
 "I know."
 

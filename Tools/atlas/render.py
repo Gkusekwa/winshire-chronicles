@@ -699,7 +699,20 @@ class Map:
             if spot is None:
                 if not L.get("force"):
                     continue
-                x, y, a = cands[0]; spot = (x, y, a, box(x, y, w, s, a))
+                def crowd(b):
+                    x0, y0, x1, y1 = b
+                    n = 0
+                    for (a0, b0, a1, b1) in placed:
+                        if x0 < a1 + 3 and x1 > a0 - 3 and y0 < b1 + 2 and y1 > b0 - 2:
+                            n += 10
+                    for (a0, b0, a1, b1) in self.obs:
+                        if x0 < a1 and x1 > a0 and y0 < b1 and y1 > b0:
+                            n += 1
+                    if x0 < 16 or x1 > self.W - 16 or y0 < 16 or y1 > self.H - 16:
+                        n += 100
+                    return n
+                x, y, a = min(cands, key=lambda c3: crowd(box(c3[0], c3[1], w, s, c3[2])))
+                spot = (x, y, a, box(x, y, w, s, a))
             x, y, a, b = spot
             placed.append(b)
             ls = ' letter-spacing="0.5"' if L.get("area") else ""

@@ -15,6 +15,7 @@ Draft notes: Late harvest month into the start of the long autumn, about days tw
 - Hale's history: before the orders there was "the Watch", wardens who kept "the watch below" before anyone wrote down what that meant. Greyhold was built round the midden three hundred years ago by a crown charter; the orders came after. "On the gate, there is no bond": the gate rule, the one place bonded and unbonded stand as equals. Everywhere else (seats in hall, chapter-house votes, the inner circle, marriages) the bonded come first.
 - Echo: on a rest day (about day twenty-eight) she works the ferry with Liss and they carry a family from a burned west-side farm, Low Garth, burned by Ulric's men. The children have never seen a ferry.
 - The lion: she goes to the island twice in these weeks, riding Turnip to the Redwatch boathouse. The first time she sits at fifteen paces and it snarls her back to twenty, and holds off drinking till near dark; the second it tolerates her as before. The next attack comes in Chapter 29.
+Magic touches: the surgeon's setting-words for Vasey's wrist; the Low Garth grandmother's crossing-word on the ferry, which Liss lets go downriver.
 notes -->
 
 ---
@@ -25,7 +26,7 @@ Not their names. Some of them had names; some of them had names only their rider
 
 The small ones were at the east end of the barn, in the old part, where the stalls were low and the beams came down close: the hounds, five of them, and the martens in their tall wire cages, and two hawks besides Kesh, and a thing like a fox with too many teeth that belonged to a second-year and bit everybody. The big ones were at the west end, where the roof went up high on great oak beams and the stalls were as big as cottages.
 
-She'd known, the way you know things without thinking about them, that bonded beasts came big. She'd grown up on the river watching dray-beasts on the Saltreach jetty, and greyharts on the Hearthmere road, and she'd seen the dragons go over the Scarfell every summer. But she'd never been in a stall with one. She'd never been down on the floor in the straw with a fork, with something nine feet tall at the shoulder standing over her in the dark.
+She'd always known that bonded beasts came big. She'd grown up on the river watching dray-beasts on the Saltreach jetty, and greyharts on the Hearthmere road, and she'd seen the dragons go over the Scarfell every summer. But she'd never been in a stall with one. She'd never been down on the floor in the straw with a fork, with something nine feet tall at the shoulder standing over her in the dark.
 
 There were two greyharts. White, both of them, with the long narrow heads and the branching antlers and the deep chests that the crown's war-mounts had been bred for since before Greyhold, and they stood nine feet at the shoulder and looked down at her from the dark of their stalls with eyes as big as her fist. There was an ox-beast, bonded to an old knight called Merrow who'd been retired from the gate for ten years and came to the barn every morning to sit on a stool and talk to it. There were the two dray-beasts that pulled the school's wains. At the very end, in the biggest stall in the barn, behind a double door with iron bands across it, there was Captain Thorne's boar.
 
@@ -37,7 +38,7 @@ She mucked it out every morning, at the end, last. She did it very carefully.
 
 The Darrow girl's hound let her in on the fifth day.
 
-She'd been doing its stall from the door, the way Grieve had told her to: reaching in with the long fork, dragging the straw out, not going in. The hound would lie at the back, by the wall, with its chin on its paws and its eyes on her, and not get up. It was a big rough brindled thing, waist-high to her, with one ear torn half off and a long scar down its muzzle. It was called Bracken. It belonged to Ide Darrow, a quiet freckled girl in Maren's own year who never said anything in lessons and whom Maren had never really noticed. Two winters ago it had taken a poacher's arm off at the elbow on the Brackenwood road.
+She'd been doing its stall from the door, the way Grieve had told her to: reaching in with the long fork, dragging the straw out, not going in. The hound would lie at the back, by the wall, with its chin on its paws and its eyes on her, and not get up. It was a big rough brindled thing, waist-high to her, with one ear torn half off and a long scar down its muzzle. It was called Bracken. It belonged to Ide Darrow, a quiet freckled girl in Maren's own year who never said anything in lessons. Two winters ago it had taken a poacher's arm off at the elbow on the Brackenwood road.
 
 On the fifth day it got up when she came to the door, and walked across the stall to her, and stood there with its head down. She stood very still. It smelled her hand, her good hand. It turned round and went back to the wall and lay down again, with its back to her this time, and she understood, after a while, that she was being let in.
 
@@ -89,7 +90,7 @@ She stopped. She didn't look up. She looked at the handle, out of the corner of 
 
 Kesh sat on the fork handle and looked at her.
 
-Maren stood there in the straw with the fork in her good hand and the falcon on it, and didn't move. Neither did Kesh. She sat with her feathers puffed out, and her head going from side to side, the way hawks do, looking at Maren first with one eye and then with the other.
+Maren stood there in the straw with the fork in her good hand and the falcon on it, and didn't move. Neither did Kesh. She sat with her feathers puffed out, and her head going from side to side, looking at Maren first with one eye and then with the other.
 
 Then she shook herself, all over, a long rattling shake, and her feathers went down sleek. And she stayed there.
 
@@ -113,7 +114,7 @@ It slept in the Long Barn. In a different stall every night. She'd find it in th
 
 The next morning the cat was in the stall of the elder greyhart, curled up in the straw against its white flank. That afternoon, at drill, the greyhart's rider, a knight called Vasey who'd been on the gate for twenty years, fell off the wall stair in the rain and broke his wrist in two places.
 
-Maren stood in the yard and watched them carry him to the infirmary, and looked at Grieve, and Grieve shrugged.
+Maren stood in the yard and watched them carry him to the infirmary, where the surgeon would say the setting-words over the wrist and have him back on the wall in a fortnight instead of two months, and looked at Grieve, and Grieve shrugged.
 
 "Told you," he said.
 
@@ -133,7 +134,7 @@ She'd thought she knew it. Every student knew it. They learned it in their first
 
 "That's the gilt-edged version," said Hale. "It's not wrong. It's just very short."
 
-He opened a different book. Not gilt-edged. Old, and black, and falling apart, with a cover of wooden boards and the pages brown at the edges and the ink gone the colour of rust.
+He opened a different book. Old, and black, and falling apart, with a cover of wooden boards and the pages brown at the edges and the ink gone the colour of rust.
 
 "The charter is three hundred years old," he said. "The orders are three hundred years old. Greyhold is three hundred years old. But the midden," and he smiled, "is older. And so is this."
 
@@ -159,7 +160,7 @@ He looked at her under the lamp.
 
 "And I'm still looking," he said.
 
-She didn't believe him. She didn't know why. It was something about the way he said it. And about the way his hand had gone, while he talked, to the ring of keys on his belt, and found the long black one, and held it.
+She didn't believe him. It was something about the way he said it. And about the way his hand had gone, while he talked, to the ring of keys on his belt, and found the long black one, and held it.
 
 ---
 
@@ -201,8 +202,6 @@ Hale was quiet.
 
 "Because the gate's where it costs the most," said Hale. "And the people who wrote the rules knew that. And the people who wrote the rules were bonded." He closed the black book, gently. "It's a very old trick, Ashdown. You tell people they're equal in the one place where equal means equally likely to be killed. And then you let them feel proud of it."
 
-She sat on the stool under the lamp and felt something go cold in her.
-
 "You're inner circle," she said. "You're one of them."
 
 "Yes."
@@ -217,7 +216,7 @@ She went to the island twice in those weeks, riding Turnip out to Redwatch after
 
 The first time, she sat down closer. Fifteen paces, not twenty. She hadn't meant anything by it; the ground was drier there. The lion came out of the trees and saw where she was and stopped dead, and its lip went back further than she'd seen it go since the tower, and a snarl came across the water, low and long, and the bank under her trembled with it. She got up, very carefully, and went back five paces to her old place, and sat. It stood at the edge of the trees till the light was nearly gone before it came down to drink.
 
-The second time she sat at twenty paces. It looked at her, and its lip went back, and she held still; the lip came down, and it drank, and went away up the stream into the trees.
+The second time she sat in her old place. It looked at her, and its lip went back, and she held still; the lip came down, and it drank, and went away up the stream into the trees.
 
 That time, she noticed that the foot was nearly healed. It was putting weight on it. The loop of chain was still sunk in the fur, black and ugly, but the swelling had gone down and it walked on four legs, limping only a little. The collar was still round its neck, under the grey mane, with the cut end of the chain hanging from it, and the iron had rubbed the fur away beneath it in a long raw band.
 
@@ -241,7 +240,7 @@ A family. A man and a woman, and an old woman, and three children, and a handcar
 
 "Over," said the man. "Anywhere over. My wife's got a cousin at Ashford." He looked at the Hearthmere bank, at the Greyhold wall going up grey and enormous behind the landing. "They say it's safe over."
 
-Liss didn't say anything. She took their fare, which was nothing, because she didn't ask for any, and they got on.
+Liss didn't say anything. She took their fare, which was nothing, because she didn't ask for any, and they got on. The old woman said a crossing-word as they pushed off, the Saltreach one for safe water, with her eyes shut. Liss let her. It was gone downriver before it was out of her mouth, but there was no call to tell her so.
 
 The children had never seen a ferry. They stood at the rail all the way across, three of them, with their hands on the wet wood, staring at the water and the guide rope hissing through the rings and the green bank coming up, and the smallest one, a girl of about five with a burned hem on her dress and a cut on her cheek, said, in a high clear voice, to nobody, "Is it the sea?"
 

@@ -57,7 +57,7 @@ There were more prints. Going up the stream, into the wood, north. She could see
 
 She followed them.
 
-She told herself she was being careful, and she was. She went with Pell's sword drawn and held low, the way you'd walk a dark street in Stillhaven. She stopped every ten paces and listened. She marked the way back, notching the trees with her knife. And she counted: her steps, her breaths, the birds.
+She told herself she was being careful, and she was. She went with Pell's sword drawn and held low. She stopped every ten paces and listened. She marked the way back, notching the trees with her knife. And she counted: her steps, her breaths, the birds.
 
 The birds went quiet after two hundred paces.
 
@@ -69,9 +69,9 @@ At the edge of the thick trees she stopped.
 
 She could see, a little way ahead, where the path went in under the oaks: a darkness, a kind of green cave where the branches came down and met overhead and the light didn't go. Nothing moved in it. No sound came out of it.
 
-She stood at the edge of it with the sword in her hand and her heart going like a drum, and every part of her that had been trained on the river watch and in Greyhold's yard said, very quietly and very clearly: *no.*
+She stood at the edge of it with the sword in her hand, and every part of her that had been trained on the river watch and in Greyhold's yard said, very quietly and very clearly: *no.*
 
-Danger wasn't the reason; she'd done dangerous things. It was the quiet. Because the quiet in there wasn't empty. It was the quiet of something listening.
+The quiet in there wasn't empty. It was the quiet of something listening.
 
 *If you hear it breathing, you lie still, and you count, and you don't go looking.*
 
@@ -115,7 +115,7 @@ Across the river, the horns had started again. Two, then three. Then, very far o
 
 Dragons.
 
-She'd heard dragons before. Everyone on the river had. Calling to each other over the Scarfell on summer evenings, a deep, slow, grinding sound like rocks in a river. This wasn't that. This was something else. This was what a dragon sounded like when it was fighting.
+She'd heard dragons before. Everyone on the river had. Calling to each other over the Scarfell on summer evenings, a deep, slow, grinding sound like rocks in a river. This wasn't that. This was something else. This was what a dragon sounded like when it was grieving, or fighting. She couldn't tell which.
 
 She sat in the tower in the dark with her blanket round her and listened to it, and the light went out of the gap at the top of the tower, and the stars came, and she didn't light the lamp.
 
@@ -123,7 +123,7 @@ She sat in the tower in the dark with her blanket round her and listened to it, 
 
 She heard it breathing a little after midnight.
 
-She'd been dozing. Not sleeping, exactly; dozing the way you do on watch, with half of you under and half of you sitting up behind your eyes, listening. The half that was listening heard it, and woke the other half, gently, the way you wake someone in a boat when there's something on the water.
+She'd been dozing. Not sleeping, exactly; dozing as you do on watch, with half of you under and half of you sitting up behind your eyes, listening. The half that was listening heard it, and woke the other half, gently, the way you wake someone in a boat when there's something on the water.
 
 It came from the north. From the north end of the island, from the green dark under the oaks where the path went in.
 
@@ -139,7 +139,7 @@ She counted the breaths against her own heartbeat, and then, because her heart w
 
 Eleven breaths, she made it, in a quarter of an hour.
 
-Eleven breaths in a quarter of an hour. A horse breathed that many times in a minute. A man, in half a minute. Nothing she knew breathed that slowly. Nothing she knew *could*. Unless it was so big that every breath took as long to draw as a man takes to walk across a room.
+Eleven breaths in a quarter of an hour. A horse breathed that many times in a minute. A man, in less than a minute. Nothing she knew breathed that slowly. Nothing she knew *could*. Unless it was so big that every breath took as long to draw as a man takes to walk across a room.
 
 She lay in the tower with her back against the wall and her hand on Pell's sword and listened to it, and counted, all night.
 

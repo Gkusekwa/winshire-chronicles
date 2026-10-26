@@ -9,16 +9,18 @@ Status: first draft
 Carried forward: From Chapter 75: the black door; Hale's key; Orrun opening the stone; Callis and Cassian and twenty men went down an hour before; "a man with his hand on iron, waiting"; Lisska over Haverly's body at the top of the north tower stair. From Chapter 49: Hale's ledge, the six chains, the dark moving. From Chapter 57: Cassian on the hedge-wain; he didn't know her face. From Chapter 33: the still man on the smithy roof knew her name. From Chapter 63: Callis's broken arm. From Chapter 69: Pell: "Subdue. Don't kill. Unless you have to."
 Draft notes: The last minutes before midnight, night one hundred and forty-three. Decided here (proposals):
 - The school's side matches the Ruin's: the long stair; Hale's ledge high in the wall of the cavern with the six chains going down past it; a passage off the ledge carved with the old letters; a round chamber; a carved stone disc with an iron boss and a keyhole. The knight's lock.
-- In the chamber: Cassian kneeling on the boss with a long black key in it and an hour-candle beside him; Callis with his arm splinted and a sword in his good hand; eighteen men.
+- In the chamber: Cassian kneeling on the boss with a long black key in it (Thorne's key, the Watch-captain's copy that Callis took off her body at the gate: it opens the black door and turns the knight's lock) and an hour-candle beside him, notched like Corvin's; he counts to the notches, not breaths, saying each number only as the flame touches its mark; Callis with his arm splinted and a sword in his good hand; eighteen men.
 - Orrun comes through the passage and the men break. Callis doesn't. He comes at Maren. She does what Pell taught. She takes his sword arm, the good one. He goes down and stays down. She doesn't kill him.
 - Cassian, counting, looks up and sees her, and the lion, and his face lights up with real gladness. "*Ashdown.* The knight with the lion. You came. You came home." He doesn't know her face. He knows the lion. He goes on counting.
 - She asks him to stop. He won't. "It's the one realm, Maren. It's under your feet." "Three." She has to. She puts the river watch sword into him at "one", as his hand turns.
 - His hand turns anyway. His weight falls on the key and it goes round with him, and the disc turns, a quarter-turn, grinding. The lock gives way under a dead man's hand.
 - The echo: in the same breath, through the rock, from far off under the river, the other lock turning. Two hands. One moment. The seal breaks: not here, there. The floor here holds. Far off, she feels something fall: a whole island going down into the dark.
 - Through the bond, at the moment the seal breaks, Orrun's kin wakes all the way, and Orrun reaches for it, the way he's been reaching all winter through the stone of the pit, and it's there, and it's open, and he touches it.
-- What Orrun learns, and Maren with him: it isn't what he kept the door for. It was a sleeper once, old and great and kin. Three hundred years of chains have made it something else. There's nothing in it now but the chains, and the hate of the chains, and a pull toward somewhere far off that only it knows, and the wish to have the world down. A destroyer. It doesn't know him. Or it knows him and doesn't care.
+- What Orrun learns, and Maren with him: it isn't what he kept the door for. It was a sleeper once, old and great and kin. Three hundred years of chains have made it something else. There's nothing in it now but the chains, and the hate of the chains, and a pull toward somewhere far off that only it knows, and the wish to have the world down. A destroyer. ("This one was never that. They made it one." No line about other destroyers: Ruling 15.) It doesn't know him. Or it knows him and doesn't care.
 - Orrun's grief comes through the bond into Maren and she goes down on her knees on the turned stone beside the dead man.
 - Lisska comes down the stair behind them, all the way, through the widened stone. She lies down beside Orrun. She looks east, under the river, toward the Ruin. Toward Calder. She wants to go.
+- Magic (proposal): the surge at its height. The hidden runes on the inside of every chain-link burn white; the passage's carved letters and the lock-disc's rings glow and pulse; Callis shouts the knights' stand-word at Orrun and it goes by him like a stone past a boat; when the disc turns, the lined-up rings blaze into one white sentence rim to boss and stay lit. Steel and choice decide: Maren disarms Callis and kills Cassian.
+- Revision (proposal): the twins' origin and motive, briefly, in Cassian's speech at the lock: Hearthmere-born, sons of an unchosen knight of the gate who stood at the back of Greyhold's line for thirty years, said the noon words every day, and was buried outside the wall with the grooms; the boys stood at the back with him. Nothing else in the scene changes.
 notes -->
 
 ---
@@ -27,7 +29,7 @@ The stair went down a long way.
 
 She sat on Orrun's back in the mane with the lantern held up and her other hand knotted in the coarse grey hair, and the stair went down and round and down, and the rock moved out of their way as they went.
 
-She felt it. Through the bond. Through his body under her. The stone of the stair walls groaning back from his shoulders, the roof lifting over his head, the steps under his feet settling and widening. Not breaking. Moving. The way the river moves round a rock. The old grey stone of Greyhold's hill making room for him, step by step, all the way down, because it knew what he was.
+She felt it. Through the bond. Through his body under her. The stone of the stair walls groaning back from his shoulders, the roof lifting over his head, the steps under his feet settling and widening. The way the river moves round a rock. The old grey stone of Greyhold's hill making room for him, step by step, all the way down, because it knew what he was.
 
 *It remembers,* said Orrun. *This stone. It remembers the old ones. It remembers before.*
 
@@ -53,7 +55,7 @@ Dark. Enormous. The lantern light went out from them into nothing and didn't com
 
 Beside it another, and another. She counted. Six.
 
-Taut. Humming. A note so low she felt it in her chest more than heard it. All six of them leaning out over the dark below, toward the east, toward the river, as if something down there at the far end of them were pulling with all its weight.
+Taut. Humming. A note so low she felt it in her chest more than heard it. On the inside of the nearest link, in the curve where the iron bent round, where you'd never look, there was light. A thin white line of it, broken into small square marks with hooks at the ends. Writing. Struck into the iron and burning now from inside it like the filament in a lamp-glass, the same marks over and over all the way round the curve. In the next link the same. And the next, going down into the dark, a row of small white burnings on every chain, as far as she could see. All six of them leaning out over the dark below, toward the east, toward the river, as if something down there at the far end of them were pulling with all its weight.
 
 Hale had stood here at twenty-three with Merrow holding the lantern out over the edge. *That's what you're keeping, lad.*
 
@@ -73,23 +75,23 @@ Waiting.
 
 *How long?* she said.
 
-*Not long,* said Orrun. *A few breaths. The candle's nearly at its mark.*
+*Not long,* said Orrun. *The candle's nearly at its mark.*
 
-She didn't ask him how he knew about the candle. She could see it, through him. A fat candle in a glass, on a stone floor, burning down to a line scored in its side.
+She didn't ask him how he knew about the candle. She could see it, through him. A fat candle in a glass, on a stone floor, burning down to a row of small notches scored in its side.
 
 "Go," she said.
 
 ---
 
-He went along the ledge and into the passage at a run, and she lay flat on his neck, and the walls of the passage were carved with the old square hooked letters, row on row, the same as the verse over the arch, and they went past her so fast they blurred.
+He went along the ledge and into the passage at a run, and she lay flat on his neck, and the walls of the passage were carved with the old square hooked letters, row on row, the same as the verse over the arch, and every one of them was alight. White, from inside the stone, the way the lamps on Greyhold's wall had gone white at noon. They went past her so fast they blurred into lines.
 
 The room was round.
 
 She saw it all at once as they came out of the passage. A low dome of rock. Lanterns on the floor round the walls. Men, in grey, with the six on their coats, in the coats of the companies, standing round the walls with swords and spears. Eighteen, twenty. And the floor.
 
-A great disc of grey stone. Smooth. Carved in rings of the old letters, round and round, smaller and smaller toward the middle. And in the middle of it, an iron boss as big as two hands.
+A great disc of grey stone. Smooth. Carved in rings of the old letters, round and round, smaller and smaller toward the middle, and the letters were lit like the passage, a faint white in the grey, brightening and fading and brightening, like a coal when you blow on it. And in the middle of it, an iron boss as big as two hands.
 
-Kneeling on the boss, with a long black key in it to the bow and his hand on the key, and a candle in a glass burning on the stone beside him, a man.
+Kneeling on the boss, with his hand on a long black key, and a candle in a glass burning on the stone beside him, a man. Thorne's key, the dead woman's copy, in the boss to the bow.
 
 Tall. Thin. Long pale face, clean-shaven, dark hair cut short. Grey eyes.
 
@@ -117,11 +119,11 @@ She didn't know why. Orrun could have had him. She felt Orrun want to. She felt 
 
 *Mine,* she thought at him. Not in words. *This one's mine.*
 
-Callis came at her across the carved stone. His face was white and wild. He'd lost his helm somewhere. He swung at her with his left hand, clumsily, the way you swing with the wrong hand, and she did what Pell had taught her a thousand times in the yard at Greyhold against the straw men and against Haverly and against Callis himself, two years ago, on her first day, when he'd put her on her back on the cobbles and laughed.
+Callis came at her across the carved stone. His face was white and wild. He'd lost his helm somewhere. He was shouting a word as he came, past her, at Orrun: the stand-word, the one the old knights said to a frightened horse. She felt it come at them and go by, like a thrown stone past a boat, and saw his face when it did. He swung at her with his left hand, clumsily, and she did what Pell had taught her a thousand times in the yard at Greyhold against the straw men and against Haverly and against Callis himself, two years ago, on her first day, when he'd put her on her back on the cobbles and laughed.
 
 Close. Take the weapon arm.
 
-She took it. The flat of the river watch sword across his left wrist, hard, where the bone was close under the skin. The sword went out of his hand and rang on the stone. She stepped in and put her shoulder into him the way Pell had taught, and he went down on the carved stone on his back, with both arms useless, and his head hit the stone.
+She took it. The flat of the river watch sword across his left wrist, hard, where the bone was close under the skin. The sword went out of his hand and rang on the stone. She stepped in and put her shoulder into him, and he went down on the carved stone on his back, with both arms useless, and his head hit the stone.
 
 He lay there.
 
@@ -155,7 +157,9 @@ She saw it. He was looking at her the way he'd looked at her at the gate of the 
 
 The other one had known her name in the dark at Ferriby. This one had never seen her in his life.
 
-"*Four,*" said Cassian, looking down at the candle, and back up at her.
+He glanced down at the candle. The flame had come to a notch.
+
+"*Four,*" said Cassian, and looked back up at her.
 
 ---
 
@@ -165,11 +169,17 @@ He looked at her.
 
 "Stop. Take your hand off it. Please." She came across the stone toward him, a step, two. "You don't know what it is. You don't know what's down there. Nobody does. Hale didn't. The Watch didn't. Your brother doesn't. Nobody's seen it in three hundred years. You don't know what it'll be when it comes up."
 
-"I know what it'll be," said Cassian gently. "It'll be the one realm." He looked at her with his grey eyes full of something that might have been tears. "Maren, it's under your feet. It's been under your feet your whole life. Every lamp you ever read by. Every word they licensed. Every knight who stood at the front of the line in the yard while you stood at the back. All of it bled out of something in chains." His voice rose. "We're letting it go. That's all. We're letting it go."
+"I know what it'll be," said Cassian gently. "It'll be the one realm." He looked at her with his grey eyes full of something that might have been tears. "Maren, it's under your feet. It's been under your feet your whole life. Every lamp you ever read by. Every word they licensed. Every knight who stood at the front of the line in the yard while you stood at the back. All of it bled out of something in chains."
+
+He looked down at the candle, and back up.
+
+"My father stood at the back of that line for thirty years," he said. "A knight of the gate. Hearthmere born. Nothing ever came down out of the sky to his fist. He said the words at noon every day of his life with his face to that wall, and when he died they buried him outside it, with the grooms." Something nearly a smile. "Corvin and I stood at the back with him, when we were small. Two boys with one face. Nobody looked at us twice either."
+
+His voice rose. "We're letting it go. That's all. We're letting it go."
 
 "Into a collar."
 
-"*Three,*" said Cassian.
+"*Three,*" said Cassian, with his eyes on the flame.
 
 "You'll put a collar on it. Like the hounds. Like Old Grey. Like the lion, on the island, with the honey-smoke, with Odo's hammers inside." She was close now. A pace off. "You'll let it go out of one chain into another, and you'll call it the one realm."
 
@@ -208,6 +218,8 @@ And the whole stone disc turned under her feet.
 ---
 
 She felt it go. Grinding. A quarter of a turn. The rings of carved letters sliding past each other, ring past ring, under her boots, and stopping. In a line. From the rim to the boss.
+
+The line lit. All of it at once, rim to boss, white, so bright it came up through the soles of her boots and she saw the bones of her own hand on the sword hilt. A sentence, in a script she couldn't read. It burned there under the dead man and didn't fade.
 
 And in the same breath, a long way off, under the river, the same sound.
 
@@ -287,7 +299,7 @@ She felt it lean, the way the chains leaned, away from here, toward somewhere a 
 
 And it wanted the world down.
 
-All of it. The kingdoms on top of it and the crowns and the walls and the lamps and the roads. Down. The way it had been taken down. Every hand that had ever been on the chain, and every hand that hadn't but had read by the lamps. Everything. Flat. The way a flood leaves a valley.
+All of it. The kingdoms on top of it and the crowns and the walls and the lamps and the roads. Down. The way it had been taken down. Every hand that had ever been on the chain, and every hand that hadn't but had read by the lamps. Everything. Flat, like a valley after a flood.
 
 It didn't know Orrun.
 
@@ -296,8 +308,6 @@ Or it knew him, and it didn't care. She couldn't tell which was worse. He touche
 A destroyer.
 
 That was the word that came. Orrun's, not hers, and only the shape of a word, from very far back in him, from before the bridge, from what the old ones had told him once before they went into the light.
-
-*There were destroyers once. Before. The old ones saw to them.*
 
 *This one was never that.*
 
@@ -309,7 +319,7 @@ Orrun's grief came through the bond.
 
 She went down on her knees.
 
-On the turned stone. Beside the dead man with his hand on the key. With the sword falling out of her hand and ringing on the stone, and her hands over her face, and her whole body shaking. It wasn't hers. She knew it wasn't hers. It came through the door they'd made on the knowe the way the river had come through the ice: all at once, everywhere, cold, too much. She couldn't hold it. Nobody could have held it.
+On the turned stone. Beside the dead man with his hand on the key. With the sword falling out of her hand and ringing on the stone, and her hands over her face, and her whole body shaking. It wasn't hers. It came through the door they'd made on the knowe the way the river had come through the ice: all at once, everywhere, cold, too much. She couldn't hold it. Nobody could have held it.
 
 All those years outside a door.
 
@@ -333,7 +343,7 @@ Green, filthy, with her wings folded tight and scraped raw from the stair and th
 
 She put her head against his.
 
-Maren felt it go between them. Kin to kin. Not words. A small bright warmth going into the great grey grief, the way you'd hold a candle up in a cellar.
+Maren felt it go between them. Kin to kin. A small bright warmth going into the great grey grief, the way you'd hold a candle up in a cellar.
 
 Then Lisska lifted her head and looked east.
 

@@ -16,6 +16,7 @@ Draft notes: Day 44. Decided here (proposals):
 - Odo Marl, the smith, says nothing and goes on hammering. At the door he tells her quietly: "Half my trade's mending their chain."
 - Maren gets home by water: old Penner is sailing flour up to Tolly's Staithe and takes her and the keg. At the Staithe Liss is loading refugees for the crossing back to Greyhold landing, and Maren takes the pole.
 - The echo: on that crossing, a full ferry of refugees from the far bank. They talk about the night Harrow's End burned the second time: a farmer flew down out of the dark on a bronze dragon, with two more behind him, and the fighting stopped, and he saved the village.
+- Magic touches: a crown notice at Millbrook fining a hedge-worker for an unlicensed keeping-word over milk; Liss on the ferry: nothing said holds over running water.
 notes -->
 
 ---
@@ -26,7 +27,7 @@ That was the reason. Grieve needed horseshoe nails, a keg of them, and the smith
 
 It wasn't all of the reason. She hadn't seen Tam since the fair. Since the three days he'd spent at the ferry house telling the duskcat story at supper, with more boatmen in it every night. Before the island. Before everything.
 
-Millbrook was quieter than it had been. She noticed it coming in along the river path. The jetty, which on any autumn day she could remember had been crowded with Saltreach boats tied up three deep, had four boats at it. The stalls by the inn were shut. The mill was turning, the great grey wheel going round in its race, but there was only one cart waiting at the loading door.
+Millbrook was quieter than it had been. She noticed it coming in along the river path. The jetty, which on any autumn day she could remember had been crowded with Saltreach boats tied up three deep, had four boats at it. The stalls by the inn were shut. The mill was turning, the great grey wheel going round in its race, but there was only one cart waiting at the loading door. On the board by the inn, where the crown's notices went, there was a fresh one with the seal on it: a Millbrook woman fined four silver for saying a keeping-word over her neighbour's milk without the licence for it. Somebody had chalked underneath that the milk had kept, all the same.
 
 There were people everywhere who didn't belong there.
 
@@ -52,7 +53,7 @@ He saw her and his face did three things at once. It lit up. It closed. It tried
 
 "Ribs." He let go of the bellows. He was taller than she remembered. He'd been taller than her for two years, but now he was broader, too; his shoulders had filled out at the forge, and his face had lost the last of its roundness, and he looked, for a moment, so like their father that she had to look away.
 
-When he was small he used to say he'd be the first knight in the family who wasn't a girl. He'd stopped saying it the year their father died. She'd thought, for years, that he'd stopped wanting it. He'd only stopped wanting it in front of her. "I heard you failed your trial."
+When he was small he used to say he'd be a knight like Da, and a better one. He'd stopped saying it the year their father died. She'd thought, for years, that he'd stopped wanting it. He'd only stopped wanting it in front of her. "I heard you failed your trial."
 
 "Yes."
 
@@ -130,7 +131,7 @@ She'd meant to say something else. Something cleverer, something with an argumen
 
 Tam looked at the river.
 
-"I was there," he said at last. "The night Harrow's End burned. The second time. Three nights ago."
+"I was there," he said at last. "The night Harrow's End burned. The second time. Two nights ago."
 
 She went still.
 
@@ -142,7 +143,7 @@ She said nothing.
 
 "It's the river," said Maren. "It's the law. They can't cross it. It's the border. If they cross it, that's war with Saltreach, and the orders can't…"
 
-"I know what the law is." He said it quite gently. That was the worst of it. "I've known what the law is since I was five. Da told me. *We keep our bank, and they keep theirs.* I know." He looked at her. "And there were children screaming on the other side of the river and twenty knights sat on their horses and *kept their bank.* And you know who crossed? Who came?"
+"I know what the law is." He said it quite gently. That was the worst of it. "I've known what the law is since I was five. Da told me. *We keep our bank, and they keep theirs.* I know." He looked at her. "And there were children screaming on the other side of the river and twenty knights sat on their horses and *kept their bank.* And you know who came?"
 
 She knew.
 
@@ -174,7 +175,7 @@ She looked at it.
 
 "They give you one when you stand up," said Tam. "When you say it the first time. So other people know." He turned it in his fingers. "Odo made these. A gross of them. Reede paid him."
 
-She put her hand in her coat pocket. She'd carried it there every day since the island, out of habit, the way you carry a stone you found on a beach. She took it out and held it up beside his.
+She put her hand in her coat pocket. She'd carried it there every day since the island, out of habit. She took it out and held it up beside his.
 
 The cut link. From the cold fire, on the first night. Dark, heavy, rough at the cut where the chisel had gone through it. And on its side, small and neat, the same mark.
 
@@ -202,7 +203,7 @@ Tam stared at the link.
 
 She sat on the end of the jetty with the cut link in her hand and looked up at her little brother.
 
-Because he was right. Not about the chain. About the rest. And she didn't know what to do with that.
+Because he was right.
 
 "Tam," she said.
 
@@ -242,27 +243,23 @@ There were people on the Staithe jetty when Penner's boat came in. Families, wit
 
 The ferry was in, loading. Fuller than she'd ever seen it. Liss had them packed in along both rails and in the middle, standing, with their bundles at their feet and their children on their shoulders, and the old ones sitting on the handcarts. Maren put the keg in the bow and took the pole from her mother without asking, and Liss let her, and stood at the guide rope instead.
 
-They went out across the current on the rope. Nobody talked much, at first. Then a man at the rail, a big shaggy man in a sheepskin with a little girl on his shoulders, said something to the woman beside him, and she said something back, and then the man behind them joined in, and after a while half the ferry was talking. Low. All about the same thing.
+They went out across the current on the rope. A woman at the rail started a crossing-charm under her breath, the kind they sold at Cotter's Cross, and Liss told her not to waste it. Nothing said held over running water. Every ferry child knew that before they knew their letters. Nobody talked much, after that. Then a man at the rail, a big shaggy man in a sheepskin with a little girl on his shoulders, said something to the woman beside him, and she said something back, and then the man behind them joined in, and after a while half the ferry was talking. Low. All about the same thing.
 
 She listened. She couldn't help it. She stood in the bow with the pole and listened to them.
 
 They were from the west side. From the farms under Hollow Beck, and the hamlets along the Drover's Way, and the bottom of Harrow's End. They'd been burned out, one way or another, by one side or another, in the last month. And they'd all been on the Saltreach bank on one night, or near enough to see it.
 
-"…came down out of the dark," the shaggy man was saying. "I saw it. I was in the ditch by the beck with the little one. And there's this noise, like the whole sky's breathing. And down they come. Three of them. The big bronze one first, the size of a barn, with a man on her neck."
+"…came down out of the dark," the shaggy man was saying. "I saw it. I was in the ditch by the beck with the little one. And there's this noise, like the whole sky's breathing. And down they come. Three of them. A great gold one first, the size of a barn, with a man on her neck."
 
 "A man?" said someone.
 
-"A farmer. A barley farmer, from up the hill. Fenn, his name is. Calder Fenn. Everybody knows him. He used to sell barley to the hold." The man shook his head. "And he came down on that dragon out of the dark with his coat flying, and the other two behind him, the red and the little green, and they put out the fire. They *put it out*. The big one fanned it off the houses with her wings. The red one burned the stubble across the top of Garrow's field so it'd stop, and it did, I saw it stop. Like a wall. And the little one took the Corby children off their roof. One, two, three. In her claws. Set them down on the grass by the beck, gentle as you like."
+"A farmer. A barley farmer, from up the hill. Calder Fenn. Everybody knows him." The man shook his head. "He came down on that dragon out of the dark with his coat flying, and the other two behind him, and they put out the fire. And the little one took the Corby children off their roof. One, two, three. Set them down on the grass by the beck, gentle as you like. And then the whole lot of them, Ulric's and Arn's, ran like rabbits. Ninety men. From a barley farmer."
 
-"I heard he stopped the fighting."
-
-"He did. He did. He landed them in the middle of the green, all three, right in the middle of Ulric's lot and Arn's lot, and he got down and stood there and told them all to go home. And the red one roared. And they *went*." The man laughed, a little wildly. "Both of them. Ulric's and Arn's. Ran like rabbits. Ninety men. From a barley farmer."
+*Calder Fenn.* Greta's farmer, who ran two leagues to his sister's fire.
 
 "Then why are you over here?"
 
-The man's face changed.
-
-"Because my house had already gone by then," he said. "And because everybody says that once a man's got three dragons, both Varrs'll be coming for him, and for anyone near him. And because it's not safe over there. Not now. Not for anybody." He looked down at the little girl on his shoulders, who was asleep with her face in his hair. "But I'll tell you something. I'll tell you what I saw. I saw twenty knights sat on their horses on your bank all night watching us burn. And I saw one farmer come down out of the sky and save us." He looked across the ferry at Maren, in her river-watch grey, at the pole. Not unkindly. Just looking. "That's what I saw."
+"Because my house had already gone by then," said the man. "And because it's not safe over there. Not now. Not for anybody." He looked down at the little girl on his shoulders, who was asleep with her face in his hair. "But I'll tell you something. I'll tell you what I saw. I saw twenty knights sat on their horses on your bank all night watching us burn. And I saw one farmer come down out of the sky and save us." He looked across the ferry at Maren, in her river-watch grey, at the pole. Not unkindly. Just looking. "That's what I saw."
 
 The ferry was quiet after that.
 
@@ -274,11 +271,11 @@ Equal, on the gate.
 
 A farmer on a bronze dragon, coming down out of the dark onto a burning green, with his coat flying. A girl on a stream bank in the mud with a tin cup. Tam on the end of the jetty, red in the face, pointing at her. *You're one of us. You just won't say it.*
 
-*The farmer crossed. He's not a knight and he's not anything, and he crossed. Into the fire. To get children off a roof.*
+*The farmer came. He's not a knight and he's not anything, and he came. Into the fire. To get children off a roof.*
 
 *And I sit by a stream.*
 
-The ferry bumped against the landing steps. Liss let go of the rope. The refugees began to climb out with their bundles and their children, up the steps toward the soup and the blankets and the safety of the knights.
+The ferry bumped against the landing steps. Liss let go of the rope. The refugees began to climb out with their bundles and their children, up the steps toward the soup, the blankets, the safety of the knights.
 
 Maren stood in the bow with the pole in her hands and didn't move.
 

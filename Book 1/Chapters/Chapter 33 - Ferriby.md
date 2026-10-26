@@ -17,6 +17,7 @@ Draft notes: Day 49, dusk into night (Holloway burned on night 46). This is the 
 - Echo: at Redwatch tower afterwards, a scout from the Saltreach bank (sent across under licence to watch the Clan) reports dragon fire over Harrow's End "a week ago" and a farmer seen on the bronze one's neck. The sergeant laughs. Pell doesn't.
 - Ide Darrow (a second-year, in Maren's year) and Bracken are on the patrol. Bracken brings down a raider. Set-up for Chapter 39.
 - The chapter opens in scene; Pell's game of stones is explained when Maren sees the man on the roof.
+- Magic touches: Ferriby's licensed lamp-tender saying the dusk-word at the posts; Wynn's licensed staunching-word over Pell's cut.
 notes -->
 
 ---
@@ -33,7 +34,7 @@ There were eight of them. Pell, at the front, on his old bay. Two passed knights
 
 They rode the River Road north from Greyhold in the grey of the morning, past the landing, past the ferry-house where her mother was at the guide rope and lifted one hand and didn't wave, past the stretch of bank where the island lay out in the river with its broken arches and its stump of a tower. She looked at it as they went by. She couldn't help it. Somewhere on the west shore, under the trees, at the end of a stream, something was lying in the long grass with a collar on its neck.
 
-She hadn't been in eight days. She'd wanted to every one of them.
+She hadn't been in eleven days. She'd wanted to every one of them.
 
 "Ashdown," said Pell, without turning round.
 
@@ -53,7 +54,9 @@ It was a little place. A dozen houses of grey stone with slate roofs, round a gr
 
 They had beasts in Ferriby. That was why it was on Pell's list. Old Hamm, who farmed the land along the creek, had an ox-beast, bonded, as old as he was, that he still ploughed with. The smith had a hound. And in a paddock behind the chapel, the crown kept a breeding pair of greyharts: a buck and a doe, white, nine feet at the shoulder, for the war-stables at Hallowmere. They'd been there since Maren was a child. The whole river knew about them.
 
-They got there at dusk. The light was going grey and blue over the fields, and the smoke from the chimneys was going straight up in the still cold air, and somewhere a woman was calling children in. Pell rode into the green and stopped by the pump, and the smith came out of his forge, wiping his hands, and said *nothing, Instructor, not yet, thank the gods,* and Pell nodded and turned his bay to go.
+They got there at dusk. The light was going grey and blue over the fields, and the smoke from the chimneys was going straight up in the still cold air, and somewhere a woman was calling children in. An old man with a staff was going round the green, stopping at each of the three lamp-posts to say the dusk-word, and the lamps came up white behind him one after another. The crown's licensed tender. Ferriby was proud of having one. Pell rode into the green and stopped by the pump, and the smith came out of his forge, wiping his hands, and said *nothing, Instructor, not yet, thank the gods,* and Pell nodded and turned his bay to go.
+
+Callis had gone off along the bank to water his hound an hour before dusk, and come back when the lamps were lit.
 
 Bracken lifted his head.
 
@@ -65,7 +68,7 @@ He was looking down the lane. Toward the creek.
 
 Ide Darrow saw it too. Maren saw her face change.
 
-"Instructor," said Ide. Very quietly. The first word Maren had ever heard her say out loud.
+"Instructor," said Ide. Very quietly. The first word Maren had heard her say all day.
 
 Pell turned his head.
 
@@ -115,7 +118,7 @@ He lifted it again. Three fingers. Toward the green.
 
 The boy blew. One long note.
 
-The four men in the middle of the green, who'd been holding Pell, gave way. Stepped back, and back, and opened, like a gate swinging. And Pell's bay went through the gap, the way a horse goes through a gap, toward the smithy. And the moment Pell was through, the four closed again, behind him, between him and Ide Darrow. And Pell was on the wrong side of them. Alone. At the smithy door. With his back to the forge.
+The four men in the middle of the green, who'd been holding Pell, gave way. Stepped back, and back, and opened, like a gate swinging. And Pell's bay went through the gap toward the smithy. And the moment Pell was through, the four closed again, behind him, between him and Ide Darrow. And Pell was on the wrong side of them. Alone. At the smithy door. With his back to the forge.
 
 Maren sat on Turnip by the chapel wall with her mouth open.
 
@@ -183,7 +186,7 @@ He knew her name.
 
 They rode back to Redwatch in the dark.
 
-Nobody talked. Pell rode at the front with a cut over his eye that Wynn had bound with a strip of his shirt. Callis had a slashed arm. Haverly's face was white and he held Kesh on his fist without her hood and stroked her, over and over, with one finger, as if he weren't sure she was there. Ide Darrow rode beside Maren at the back, silent, with Bracken loping at her stirrup, limping a little, with blood on his muzzle that wasn't his.
+Nobody talked. Pell rode at the front with a cut over his eye that Wynn had said the staunching-word over, the one the gate knights were licensed for, and then bound with a strip of his shirt. Callis had a slashed arm. Haverly's face was white and he held Kesh on his fist without her hood and stroked her, over and over, with one finger, as if he weren't sure she was there. Ide Darrow rode beside Maren at the back, silent, with Bracken loping at her stirrup, limping a little, with blood on his muzzle that wasn't his.
 
 "He's all right," said Ide, when she saw Maren looking. "It's the raider's. He let go when I told him." She was quiet a moment. "He always lets go when I tell him."
 
@@ -225,13 +228,13 @@ The scout nodded. He'd heard. Everyone had heard.
 
 The guardroom went quiet.
 
-"What dragons?" said the sergeant of the tower, a heavy man called Brask, by the fire. He was grinning. "The farmer's dragons? The barley man's?"
+"What dragons?" said the sergeant of the tower, a heavy man called Tasker, by the fire. He was grinning. "The farmer's dragons? The barley man's?"
 
-"Laugh if you like," said the scout. "I saw it. A week ago. I was in a ditch on the far side of Harrow's End, the night it went up the second time. I saw them come down. Out of the dark. Three of them. The big bronze one, the Clan's old war-leader's beast, and the red and the green. And fire." He put his spoon down. "Not fire on the village. Fire on the field above it. A line of it, across the stubble, so the village fire couldn't come up. And the big one fanning the flames back off the houses with her wings. And they landed on the green in the middle of the fighting, and the fighting stopped." He looked round the guardroom. "And there was a man on the bronze one's neck. A farmer. I saw him get down. I saw him stand on the green in the middle of ninety men and tell them to go home. And they went."
+"Laugh if you like," said the scout. "A week ago, in the lane below Harrow's End, I saw a man get down off the big bronze one and take a fence rail to one of Ulric's lads on the ground, and keep at it, and I didn't stay to see if he stopped."
 
-Brask laughed out loud.
+Tasker laughed out loud.
 
-"A farmer," he said. "On a dragon. Telling the Varrs to go home. Gods, you've been over there too long, man. You'll be telling us next he can walk on the river."
+"A farmer," he said. "On a dragon. Taking a fence rail to Ulric's lads. Gods, you've been over there too long, man. You'll be telling us next he can walk on the river."
 
 A few of the others laughed too. The scout shrugged and picked up his spoon.
 
@@ -254,5 +257,3 @@ And a farmer, on a dragon, coming down out of the dark onto a burning green with
 *I hope he doesn't know my name too.*
 
 Then, quite clearly, the other thing: *I'd like to meet him.*
-
-She didn't know where that came from either.

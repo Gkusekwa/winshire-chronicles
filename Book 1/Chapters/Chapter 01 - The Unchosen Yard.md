@@ -1,12 +1,13 @@
 # Chapter 1: The Unchosen Yard
 
 <!-- notes
-POV: The student
+POV: Maren
 Part: Part One: Two Banks
 Beats: Training day at the knight school on Hearthmere's side of the Marches. Capable but unbonded, the student is passed over for a bonded rival. The knightly oath is recited, including a duty "below" no student understands.
 Echo of the other's story: Clan dragons fly along the river; students joke about the trouble across the border.
 Status: first draft
 Draft notes: Pell, Tobin and the Darrow girl are new minor characters. The far-bank fires are explained in Chapter 2: a Restoration raid on farms upriver of Harrow's End, blamed on the Clan. Maren knows the Old Ruin only from the water and has never set foot on it.
+Magic touches: the healers' licensed words and warming-stones failing Edric; old Wick the licensed lamp-tender saying the dusk words round the yard (Wick returns in 5).
 notes -->
 
 ---
@@ -27,13 +28,13 @@ The first time was her own fault. The second time was Lucan Haverly's bird.
 
 She got up. Sand in her collar, sand in her teeth, a hot line along one forearm where the quarry stone had come through. Haverly was back on his mark already, practice blade low, smiling the way he smiled at the tavern girls in Millbrook and at the chaplain. Behind him, on the fence post nearest the well, Kesh was settling her feathers back into place as if nothing had happened.
 
-Nothing had, really. The falcon hadn't come near her. She had only opened her wings, all at once, at the moment Maren committed her weight to the lunge, and four winters on the river watch had turned her head toward it. On the river, a movement at the edge of your eye was a bolt until it proved it wasn't. Half a heartbeat. Haverly had needed less.
+Nothing had, really. The falcon hadn't come near her. She had only opened her wings, all at once, at the moment Maren committed her weight to the lunge, and eight winters on the river watch had turned her head toward it. On the river, a movement at the edge of your eye was a bolt until it proved it wasn't. Half a heartbeat. Haverly had needed less.
 
 "Eyes on the man," Pell said.
 
 "The man brought a bird."
 
-A few laughs from the fence. Pell didn't laugh. He was a long-boned, grey-haired man who had lost two fingers on the Saltreach road before most of this year's students were born, and he did not laugh in the yard on principle.
+A few laughs from the fence. Pell didn't laugh. He was a long-boned, grey-haired man who had lost two fingers on the coast road below Stillhaven before most of this year's students were born, and he did not laugh in the yard on principle.
 
 "The man will bring a bird to every fight he has for the rest of his life," he said. "So will the man who kills you. Again."
 
@@ -51,7 +52,7 @@ Pell wrote on his slate. He took his time about it. Haverly got up on his own an
 
 "Ashdown takes the bout," Pell said. He tucked the chalk behind his ear. "Haverly takes first lance."
 
-Nobody on the fence looked surprised. Pell didn't look at Maren at all. He looked at the falcon, the way you'd check a horse before a long ride, and then at his slate, and then he called the next pair.
+Nobody on the fence looked surprised. Pell didn't look at Maren at all. He looked at the falcon, and then at his slate, and then he called the next pair.
 
 ---
 
@@ -61,7 +62,7 @@ No rule said first lance went to the bonded. Nobody had to write one. On the cha
 
 The gate said there was nothing to explain. The board explained it anyway.
 
-She saluted anyway. Blade to brow, as you were taught. Then she walked back to her mark and stood on it.
+She saluted. Blade to brow, as you were taught. Then she walked back to her mark and stood on it.
 
 First lance meant riding at the front of the knights' patrol when the school went out on the river road in autumn. It meant your name read first at the muster, and the first posting when the year was done, and a good horse instead of whatever the stables had left. In a war it would mean dying first. There wasn't a war. There hadn't been one on this stretch of the river in sixty years, which was why first lance was worth having, and why it always went to someone with a beast at his shoulder.
 
@@ -81,13 +82,13 @@ Tobin was waiting for her at the end of the line. He was nineteen, all elbows, u
 
 Tobin opened his mouth and shut it again. It was the most sense she'd had out of him all summer.
 
-Down the line the bonded students were drifting back to their beasts the way people drift back to a fire. There were eleven of them this year. Last year there had been nine. Maren counted them without meaning to, because she counted most things without meaning to: the brindled hound that belonged to the Darrow girl, the long low creature with a badger's stripe that Pell insisted was a marten and nobody believed, Haverly's falcon, a grey cat the size of a calf asleep in the only shade. Each of them with a person beside it who stood a little differently from everyone else. You could see it if you knew how to look. As if they were never quite alone in their own bodies.
+Down the line the bonded students were drifting back to their beasts like people to a fire. There were eleven of them this year. Last year there had been nine. Maren counted them without meaning to, because she counted most things without meaning to: the brindled hound that belonged to the Darrow girl, the long low creature with a badger's stripe that Pell insisted was a marten and nobody believed, Haverly's falcon, a grey cat the size of a calf asleep in the only shade. Each of them with a person beside it who stood a little differently from everyone else. You could see it if you knew how to look. As if they were never quite alone in their own bodies.
 
 Her father had stood like that.
 
 She remembered his dog better than she remembered his face, which she was not proud of. It had been a big rough-coated thing with a jaw like a mantrap and a habit of leaning its whole weight on your legs, and it had followed him from the stable to the river and back every day of her childhood. When a poacher's bolt took it in the throat on the far bank one autumn, her father carried it home across the ferry himself. He sat with it in the barn all night.
 
-He lasted four days after that. The healers called it grief, because they had to call it something. Maren had been fourteen. She had watched a strong man go out like a lamp with nothing wrong with him, and she had understood, sitting on the end of his bed on the fourth morning, exactly what a bond was. A door you couldn't close again. One life with two people standing in it.
+He lasted four days after that. The healers said every word their licences allowed over him and kept warming-stones at his feet, and when none of it took they called it grief, because they had to call it something. Maren had been fourteen. She had watched a strong man go out like a lamp with nothing wrong with him, and she had understood, sitting on the end of his bed on the fourth morning, exactly what a bond was. A door you couldn't close again. One life with two people standing in it.
 
 She had never wanted one. She'd told herself so often enough that she mostly believed it.
 
@@ -135,7 +136,7 @@ Maren listened. She always had. It had been her father's oath first.
 
 Halfway through the fourth line, she felt the beasts move.
 
-She didn't see it. She was facing the wall, like everyone else. She felt it the way you feel a change in the wind on the back of your neck: a ripple running down the line of the bonded behind her, a stir of claws on sand. Then it was gone, and the oath was ending, and Tobin beside her was already scratching his ear.
+She didn't see it. She was facing the wall, like everyone else. She felt it on the back of her neck, like a change in the wind: a ripple running down the line of the bonded behind her, a stir of claws on sand. Then it was gone, and the oath was ending, and Tobin beside her was already scratching his ear.
 
 She looked back. The beasts were where they had been. The Darrow girl's hound was lying down. Kesh was preening. The cat was asleep again, or pretending.
 
@@ -155,7 +156,7 @@ The bell stopped. The lines broke up and went in to eat.
 
 ---
 
-She went up to the river wall after supper, as she did most evenings when the light was going. It was the old fort wall, broad enough to walk two abreast, and from the north corner you could see a long way up the water to the Old Ruin, a dark lump on its island where the river split. She had poled past that island a thousand times in her years on the river watch and never once set foot on it. Nobody did. There were stories about it. There were stories about everything on this river, and her mother knew all of them.
+She went up to the river wall after supper, as she did most evenings when the light was going. Below her old Wick the lamp-tender was going round the yard with his licence on a cord at his neck, saying the dusk words at each post, and the lamps came up from their daytime glow to full white behind him one by one, with no oil in them, as they had every evening of her life. The river wall was the old fort wall, broad enough to walk two abreast, and from the north corner you could see a long way up the water to the Old Ruin, a dark lump on its island where the river split. She had poled past that island a thousand times in her years on the river watch and never once set foot on it. Nobody did. There were stories about it. There were stories about everything on this river, and her mother knew all of them.
 
 Haverly was already there.
 

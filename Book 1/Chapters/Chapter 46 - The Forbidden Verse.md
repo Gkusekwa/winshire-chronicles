@@ -23,6 +23,7 @@ Draft notes: Days eighty-nine and ninety. Decided here (proposals):
 - Calder hears "do not ask" for the third time since midwinter night and puts it together: the knights' oath, Aurveth's silence, the paper's "beneath Greyhold". The last great beast sleeps where the knights keep their oath.
 - Aurveth, two leagues off at Crow Scar, silent since the ice, hears the verse through him. She says one thing, the first since the ice: *That is what I touched.*
 - Echo: while Ada is still sitting with her hands in her lap afterwards, Lisska, who has come over from Crow Scar after dark and is lying under the window, says every light at Greyhold has gone out. Calder goes into the yard. Six leagues and more down the frozen river, Greyhold's long wall is dark from end to end. It stays dark for about as long as it takes to say the hush twice. Then the lights come back, all at once.
+- Magic touches: Ada says her nightly hearth-words, hand on the hearthstone, before she sings (Marches folk charm; Saltreach-side magic is unaffected).
 notes -->
 
 ---
@@ -83,7 +84,7 @@ Across the table, at the end of it, Ada had put down her spoon.
 
 She waited until the children were asleep.
 
-Or until she thought they were. Pip and Nan in the loft with Wren, the three of them in a heap under the blankets the way they always slept, like puppies. Ada went up the ladder and looked at them, and came down again, and went to the door and put the bar across it. She went to the shutters and closed them, both, and barred those too. Then she came back to the table, to her own chair, and sat down in it, and put her hands flat on the table in front of her.
+Or until she thought they were. Pip and Nan in the loft with Wren, the three of them in a heap under the blankets like puppies. Ada went up the ladder and looked at them, and came down again, and went to the door and put the bar across it. She went to the shutters and closed them, both, and barred those too. She stood a moment at the hearth with her hand on the warm stone and said the hearth-words over it, low, the way she did every night. Calder had heard them ten thousand times. Tonight her voice wasn't steady on them. Then she came back to the table, to her own chair, and sat down in it, and put her hands flat on the table in front of her.
 
 Bel and Joss looked at her. Calder looked at her.
 
@@ -149,7 +150,7 @@ And now his mother, at Bel's table, with her hands flat on the wood. *Hush now, 
 
 *The last one sleeps where the oath is kept.*
 
-He hadn't known what the knights' oath was. Not until midwinter night. He'd lived his whole life across the river from Greyhold, and he'd known the knights swore something, at noon, facing the river; everyone on the Saltreach bank knew that, the way you know your neighbour says his prayers. He'd never known the words. He'd never cared. On midwinter night he'd sat in the snow on the ice beside a dragon who wouldn't speak, and the words had come across the river to him in the dark, from hundreds of voices on Greyhold's wall.
+He hadn't known what the knights' oath was until midwinter night. He'd lived his whole life across the river from Greyhold, and he'd known the knights swore something, at noon, facing the river; everyone on the Saltreach bank knew that, the way you know your neighbour says his prayers. He'd never known the words. He'd never cared. On midwinter night he'd sat in the snow on the ice beside a dragon who wouldn't speak, and the words had come across the river to him in the dark, from hundreds of voices on Greyhold's wall.
 
 *Keep the watch below.*
 
@@ -181,7 +182,7 @@ But it was the first thing she'd said about it since the ice. It went into him a
 
 Her voice was very small. She was sitting at the table with her hands over her mouth, staring at her mother. Joss beside her had put his arm round her.
 
-Ada didn't look up. She sat with her hands flat on the table and her eyes on the fire, and she looked older than Calder had ever seen her. Not tired. Old. As if she'd been carrying something for fifty-one years, and had just put it down, and found that it had been holding her up.
+Ada didn't look up. She sat with her eyes on the fire. She looked older than he'd ever seen her. Her hands lay on the table like something she'd set down.
 
 "*When two hands open what one hand shut,*" said Joss. "What does that mean?"
 
@@ -239,11 +240,11 @@ Behind him, in the doorway, he heard Joss come out. And Bel. Ada came last, with
 
 The dark went on.
 
-He didn't know how long. Not long. As long as it would take to sing the hush through, twice, slowly, the way you'd sing it to a child who wouldn't settle. He stood in the frozen yard and didn't breathe. Lisska didn't breathe. At Crow Scar, two leagues off, he felt Kharrak on his feet, and Aurveth with her head up, all of them looking down the river at the place where the lights should be.
+He didn't know how long. Not long. As long as it would take to sing the hush through, twice, slowly. He stood in the frozen yard and didn't breathe. Lisska didn't breathe. At Crow Scar, two leagues off, he felt Kharrak on his feet, and Aurveth with her head up, all of them looking down the river at the place where the lights should be.
 
 Then they came back.
 
-All at once. Every one. The whole long line of Greyhold's wall, every window and lamp and torch, lit again on the far bank like a necklace laid down in the dark. As if nothing had happened. As if they'd never gone.
+All at once. Every one. The whole long line of Greyhold's wall, every window and lamp and torch, lit again on the far bank like a necklace laid down in the dark. As if nothing had happened.
 
 Nobody in the yard spoke.
 
@@ -255,7 +256,7 @@ Ada stood in the doorway with her shawl round her and looked down the river at t
 
 "I didn't call it," she said. Quietly. To him. "Did I?"
 
-He didn't know what to say. He went and put his arm round her, and she let him, which she almost never did, and they stood in the doorway together and watched the lights of Greyhold burn on the far bank, steady and small, as if they had always been there and always would be.
+He went and put his arm round her, and she let him, which she almost never did, and they stood in the doorway together and watched the lights of Greyhold burn on the far bank, steady and small, as if they had always been there and always would be.
 
 *That is what I touched,* said Aurveth, very far off, very low.
 

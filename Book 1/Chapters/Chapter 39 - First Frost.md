@@ -6,7 +6,7 @@ Part: Part Three: The Long Autumn
 Beats: In a skirmish the Darrow girl's hound is killed, and over three days the girl withers. Maren sits with her. It is her father's death again, and she can't stop going to the island.
 Echo of the other's story: On the night the girl dies, three dragons are seen high over the river, going north.
 Status: first draft
-Carried forward: From Chapter 33: Ide Darrow and Bracken on the patrol at Ferriby ("He always lets go when I tell him"). From Chapter 25: Bracken let Maren into his stall first, and Ide stood beside her at drill. From Chapter 36: forced bindings, beasts in six-dot collars with empty eyes (Calder's side; Maren meets them here without knowing what they are). From Chapter 37: Merrow and Holm "went together"; the lion followed her to the water. Maren's father: his hound was killed by poachers on the Saltreach road; he took four days to die.
+Carried forward: From Chapter 33: Ide Darrow and Bracken on the patrol at Ferriby ("He always lets go when I tell him"). From Chapter 25: Bracken let Maren into his stall first, and Ide stood beside her at drill. From Chapter 36: forced bindings, beasts in six-dot collars with empty eyes (Calder's side; Maren meets them here without knowing what they are). From Chapter 37: Merrow and Dun "went together"; the lion followed her to the water. Maren's father: his hound was killed by poachers on the Saltreach road; he took four days to die.
 Draft notes: Days 63–66. The first hard frost comes on the night of day 62. Decided here (proposals):
 - The skirmish: at the Redwatch landing at dawn on day 63. Raiders try to take the river-watch boats themselves. Pell's patrol rides in from Redwatch. The raiders have hounds with them, brindled and silent, in iron collars, with eyes like windows, that don't bark or stop when hurt. Maren notices they fight like one dog moved by one hand.
 - Bracken goes for a raider who has Pell down, and two of the silent hounds take him. A crossbow bolt finishes him. Ide is ten paces off and feels it.
@@ -17,6 +17,7 @@ Draft notes: Days 63–66. The first hard frost comes on the night of day 62. De
 - Ide dies at dusk on day 65. They burn her with Bracken at dawn on day 66. They go together, the chaplain says. Maren doesn't hit him.
 - The echo: at dusk on day 65, as Ide dies, the gate watch see three great shapes very high over the river by the island in the moonlight, going north. Haverly tells her on the wall on the night of day 66. Kesh saw them first and screamed.
 - Rowan, at Ide's pyre, looks at the silent hounds' collars, which Pell brought back, and at the mark. She says nothing. She writes.
+- Magic touches: licensed warming-stones packed round Ide, warm and no use against a withering; the surgeon has no word for it, licensed or not.
 notes -->
 
 ---
@@ -41,7 +42,7 @@ She knew that sound. She'd heard it at Ferriby, from the creek, in the dusk.
 
 They were after the boats.
 
-She understood that afterwards, when it was over and she sat in the guardroom with her hands round a cup she couldn't drink from. Not beasts. Not this time. The river-watch boats themselves. The long grey patrol boats tied up at the Redwatch landing, five of them, that Ottery and his crews took out every night since Rowan's order. Somebody had decided the river would be easier with no boats on it at all.
+She understood that afterwards, when it was over and she sat in the guardroom with her hands round a cup she couldn't drink from. Not beasts. The river-watch boats themselves. The long grey patrol boats tied up at the Redwatch landing, five of them, that Ottery and his crews took out every night since Rowan's order. Somebody had decided the river would be easier with no boats on it at all.
 
 There were twenty of them, maybe. Masked. Come up the river in the dark in two barges and onto the landing in the frost before dawn, quiet, with axes, to stave in the boats where they lay. And they'd have done it, too, if Maren hadn't been out in the yard breaking ice for a horse.
 
@@ -133,7 +134,7 @@ The second day, she was cold.
 
 That was how it went on. Maren remembered that too. Her father had been cold on the second day. Cold all through, so that they piled blankets on him and lit a fire in the room and still he shook. The cold came from the inside. Like the frost. It came down in the night when nobody was watching and took the last of the green.
 
-Ide shook. They piled blankets on her and she shook under them. The infirmary surgeon, the old one, who'd sworn at Maren about the honey, came and looked at her and didn't swear at all. He felt her hands and her face and shook his head and went away again, quickly, so nobody would see his face. There was nothing to do. There never was. Everybody at Greyhold knew there was nothing to do. One life between two.
+Ide shook. They piled blankets on her and put warming-stones from the infirmary shelf at her feet and her sides, the licensed ones that held their heat all night, and she shook under them. The infirmary surgeon, the old one, who'd sworn at Maren about the honey, came and looked at her and didn't swear at all. He felt her hands and her face. He didn't say any words over her. There weren't any for this, licensed or not. He shook his head and went away again, quickly, so nobody would see his face. There was nothing to do. There never was. Everybody at Greyhold knew there was nothing to do. One life between two.
 
 In the afternoon, Ide asked for Bracken's blanket.
 
@@ -157,7 +158,7 @@ Maren sat in the chair by the bed and looked at the cat, and the cat looked back
 
 She went to the island on the second night.
 
-She didn't decide to. She sat by Ide's bed till Ide slept, if it was sleep, shallow and shaking, with her face in the hound's blanket. Then she got up. And went down to the landing in the dark, at past midnight, in the frost. Ottery wasn't there. She hadn't sent for him. She took his punt anyway, from where it lay at the foot of the steps, and poled it across the channel alone, in the dark, in the cold, with the thin ice cracking along the edges of the reeds like glass.
+She sat by Ide's bed till Ide slept, if it was sleep, shallow and shaking, with her face in the hound's blanket. Then she got up, and took Turnip up the River Road to Redwatch in the dark, past midnight, in the frost. Ottery wasn't there. She hadn't sent for him. She took his punt anyway, from the boathouse steps, and poled it across the west channel alone, in the cold, with the thin ice cracking along the edges of the reeds like glass.
 
 She didn't tell her mother. It was the first time.
 
@@ -185,7 +186,7 @@ It looked at her.
 
 Then it stepped down into the stream.
 
-She saw it. She saw it and didn't understand it. In two months it had never once put a foot in the water toward her. Not once. It had stood on its own bank, and drunk from its own side, and lain down on its own grass. The stream was the fence. *Keeping the fence.* She'd kept it. So had it.
+She saw it. She saw it and didn't understand it. In two months it had never once put a foot in the water toward her. It had stood on its own bank, and drunk from its own side, and lain down on its own grass. The stream was the fence. *Keeping the fence.* She'd kept it. So had it.
 
 It came through the water. Slowly. The great paws going down into the black stream one after another and coming up again, with the water running off the fur. The cut chain on the collar dragged in the water behind it. It came across, all the way, and up the bank on her side. Her side. Where she'd never seen it stand.
 
@@ -243,13 +244,11 @@ Maren stood at the back with her hands in her coat and didn't want to hit him. S
 
 *That's not together.*
 
-*That's what one life between two means. Not together. One, and then the other. And the one who's left goes on, a little, for a while, until there's nothing left to go on with.*
-
 She thought of her father, telling everyone what Fly liked.
 
 She thought of a farmer in a burned field with three dragons round him that should have gone after their riders and hadn't.
 
-Three riders dead in one night, the scouts said, and three dragons that should have followed them, and hadn't. Nobody knew why. Hale had gone grey when he talked about it. *Because he's three.*
+Hale had gone grey when he talked about it. *Because he's three.*
 
 *What does that do to a man? To take three of those? All at once?*
 
@@ -275,7 +274,7 @@ She took a little book out of her coat, and a pencil, and wrote something in it,
 
 Haverly found her on the wall that night.
 
-She'd gone up there because she couldn't sleep and couldn't go to the island again, not tonight, not with Ottery's punt back at the landing and her mother's face at supper. She stood on the wall above the river gate in the cold, wrapped in her coat, looking upstream at the dark where the island was. Three leagues off. Too far to see. She looked anyway.
+She'd gone up there because she couldn't sleep and couldn't go to the island again, not tonight, not with Ottery's punt back at the boathouse and her mother's face at supper. She stood on the wall above the river gate in the cold, wrapped in her coat, looking upstream at the dark where the island was. Three leagues off. Too far to see. She looked anyway.
 
 He came along the wall walk from the gate with Kesh on his fist, hooded, and stopped beside her.
 

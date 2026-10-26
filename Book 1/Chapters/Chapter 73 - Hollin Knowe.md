@@ -21,13 +21,16 @@ Draft notes: Night one hundred and forty-three, from the second hour to the four
 - And then, because Orrun is beast and kin and Lisska is beast and kin, they can hear each other. Lisska can't speak to Maren, but Orrun can hear Lisska and tell her. What Lisska says: *Two locks. Under the tower on the island. Under the school. Midnight. The still one at the tower. The other one under the school. Both, or nothing. He said tell her. He said she'd know about two.*
 - She knows about two. The black door. Hale's key. Callis and the river gate. She heard Greyhold's bells come faint over the fields and stop, a little while before Lisska came.
 - They go. Orrun, and Maren on his back, the first time, and Lisska over them. Four leagues to Greyhold. Two hours to midnight.
+- Magic (proposal): one of Delling's men blinds Maren with a battle-word (white, like the noon lamps); she takes him down by sound. A new collar lies open by the binder's knee with hooked runes scratched inside, the binders' own marks after Odo's. The honey-smoke and the binder's "You're chosen now" stay as drafted. Maren's gift here is the bond itself; she works no magic.
+- Revision (proposal): Orrun's first real duplicate. When the chains break, a second lion of earth and stone stands up out of the knowe beside him, his size and as strong as he is, and fights the six of Delling's men who come back with the chains (a spear breaks in it; it kills one man). It lasts about as long as the noon bell rings, then sinks back into the hill. Maren feels it go out of him like blood; his legs shake. Only one duplicate. The man in grey still dies under the beacon-stone.
+- Revision (proposal): the "man in two places" legend is tied to the lion once, lightly: Maren thinks the river says the leader has an old beast's gift, and she's just seen what that gift costs.
 notes -->
 
 ---
 
 She smelled it before she saw it.
 
-Halfway up the long slope of Hollin Knowe in the dark, running, with the river watch sword in her hand and her burned palms bleeding through the rags, she smelled it on the wind coming down off the top. Thick. Sweet. Like honey left too long on the fire.
+Halfway up the long slope of Hollin Knowe in the dark, running, with the river watch sword in her hand and her burned palms, tight and shiny from Liss's word, split again on the grip and bleeding through the rags, she smelled it on the wind coming down off the top. Thick. Sweet. Like honey left too long on the fire.
 
 She stopped dead in the heather.
 
@@ -55,6 +58,8 @@ She knew him. She'd seen him once, standing in the stern of a barge at the Redwa
 
 He was talking. Low. Steady. The same words, over and over, that she couldn't hear.
 
+On the heather beside his knee, open on its hinge, lay a collar. New. Black. Big enough for the lion's neck. Something had been scratched on the inside of the curve, where Odo's hammers would be: a line of small square letters with hooks at the ends of the strokes, like the letters on the arch.
+
 The lion's eyes were open. She could see them in the red light of the pots. Pale. Looking at nothing.
 
 Going.
@@ -63,7 +68,7 @@ Going.
 
 She went through them.
 
-She'd think about it afterwards and not be able to see most of it. She'd see Pell, sitting down in the gateway. *Subdue. Don't kill. Unless you have to.* She came up over the edge of the knowe out of the dark into the red smoke with the sword, and they hadn't been watching the slope, they'd been watching the lion, and the first two went down before they knew she was there. Subdue. The flat. The weapon arm. The knee. The third turned with a spear and she did what Pell had taught her a thousand times at the straw men, close and take the weapon arm, and he went down. The fourth had a crossbow and was lifting it, not at her, past her, at the lion, and she did what she had to. *Unless you have to.* And the fifth.
+Pell, sitting down in the gateway. *Subdue. Don't kill. Unless you have to.* She came up over the edge of the knowe out of the dark into the red smoke with the sword, and they hadn't been watching the slope, they'd been watching the lion, and the first two went down before they knew she was there. Subdue. The flat. The weapon arm. The knee. The third turned with a spear and flung his free hand up at her face and said a word, one hard word, and the world went white. White as the lamps on the wall at noon. She was blind. She closed on him blind, the way Pell had taught her a thousand times at the straw men, by the sound of his feet, close and take the weapon arm, and he went down, and the white went to red and then to the smoke and the pots again. The fourth had a crossbow and was lifting it, not at her, past her, at the lion, and she did what she had to. *Unless you have to.* And the fifth.
 
 Then she was at the lion's head.
 
@@ -123,7 +128,7 @@ She felt it happen. Everything in her going out through her hand into the open d
 
 Something came the other way.
 
-Up the passage. Out of the dark. Toward her. Not pulling. Coming, very large, the way the ground moves when it moves. It met her. Where she was going out and it was coming up, in the middle, in the door, it met her, and it didn't take her. It stopped her going. It stood in the passage and held her there, the way you'd catch somebody falling down a stair.
+Up the passage. Out of the dark. Toward her. Not pulling. Coming, very large. It met her. Where she was going out and it was coming up, in the middle, in the door, it met her, and it didn't take her. It stopped her going. It stood in the passage and held her there, the way you'd catch somebody falling down a stair.
 
 The door shut.
 
@@ -171,9 +176,25 @@ Orrun stood up.
 
 Out of the smoke. Out of the chains. The chains fell off it in pieces as it stood, the links breaking, she heard them go, *crack, crack,* like ice. It stood up over her in the red light, enormous, bigger than she'd ever seen it, ten feet at the shoulder and more, with its mane up round its head and the broken chain falling off its back, and the honey-smoke pots round the beacon-stones went over in the heaving ground and the burning stuff ran out over the heather.
 
-The men of Delling's company ran.
+And the knowe stood up beside him.
 
-The man in grey didn't. He was getting up out of the heather where she'd knocked him, with blood on the side of his head, and his arm going up, the way it went up at the Redwatch landing when the hounds moved.
+The ground on his left side, between him and the nearest of the beacon-stones, went on heaving after the rest had stopped. Heather and turf and the grey stone under the turf, rising. It had a shoulder. It had a mane of broken rock and roots. It had a head. It came up out of the hill all at once, and stood there in the red light beside him, his height, his shape, with soil pouring off its back and two hollows where the eyes should be, and in each, very far back, a pale light.
+
+Two lions on Hollin Knowe.
+
+Some of Delling's men had kept hold of the chains. Six of them, with spears, coming back in at Orrun from the far side of the ring, shouting to each other the way men shout when they've been paid for a thing and mean to have it.
+
+The earth one went at them.
+
+It was as strong as he was. She felt that through the bond, the way you know your two hands are the same hand. A spear went into its chest and broke, and the shaft stuck out of the turf there like a stake out of a bank. It took a man under its forefoot and he didn't get up. It took the chain out of two others' hands with its jaws, links and all, and shook it, and the men let go and ran, and then they all ran.
+
+It lasted the time it takes a bell to ring the noon. No longer.
+
+Then it stopped where it stood, at the edge of the beacon-stones, and lowered its head, and went back into the knowe. Going down, like water into sand. The heather closed over the place.
+
+She felt it go. Not out of the hill. Out of him. Through the bond, warm and steady, like blood out of a cut. Orrun's legs shook under him. He stood over her with his head low and his flanks going like a bellows, and for a breath he seemed smaller to her than he had ever been.
+
+The man in grey didn't run. He was getting up out of the heather where she'd knocked him, with blood on the side of his head, and his arm going up, the way it went up at the Redwatch landing when the hounds moved.
 
 Nothing moved for him.
 
@@ -185,7 +206,7 @@ The beacon-stone behind him rolled.
 
 It was over very fast.
 
-She lay in the heather on the top of Hollin Knowe in the light of the burning smoke-pots and felt it. Through the bond. Everything Orrun felt. Not words. More than words. The rage going out of it, the way the heat goes out of a forge. The smoke still sour in its throat. The chain-galls on its legs, raw, stinging. And under all of it, so huge she couldn't see the edges, something else.
+She lay in the heather on the top of Hollin Knowe in the light of the burning smoke-pots and felt it. Through the bond. Everything Orrun felt. The rage going out of it. A hollow in it where the thing on the knowe had come out of it, filling, a little at a time. The smoke still sour in its throat. The chain-galls on its legs, raw, stinging. And under all of it, so huge she couldn't see the edges, something else.
 
 The island. The door. The pit. The stone under its claws. Scraping. All winter. Every night. And something below, a long way down, under a mile of rock, breathing. Turning. *Kin.* Not a word. A pull. The way a hound pulls toward its master's grave.
 
@@ -205,7 +226,7 @@ She didn't hear it come. One moment the sky over the knowe was dark and empty an
 
 Twelve feet at the shoulder. Long. Lean. Green as a beetle's back, bronze at the edges. Pale green eyes. She knew the colour of the scales. She'd held one in her lap all night by the fire in the ferry house.
 
-It stood there at ten paces, the way the lion did, the way she'd sat at the stream all winter, and came no closer.
+It stood there and came no closer.
 
 On its left horn there was a ribbon.
 
@@ -223,11 +244,11 @@ Maren sat up in the heather.
 
 ---
 
-The dragon had something in its front claw. It put it down. Carefully, on the heather, at ten paces. Then it backed away from it, two steps, three, and stood there, and waited. Looking at her with its pale green eyes.
+The dragon had something in its front claw. It put it down. Carefully, on the heather. Then it backed away from it, two steps, three, and stood there, and waited. Looking at her with its pale green eyes.
 
 Waiting for her to come to it. The way the lion had waited for her to come to the hammer and chisel on the stone.
 
-She got up. Her legs nearly didn't hold her. Orrun stood beside her. She went across the ten paces in the red light to the thing in the heather and knelt down by it.
+She got up. Her legs nearly didn't hold her. Orrun stood beside her. She went across in the red light to the thing in the heather and knelt down by it.
 
 A bundle. Small. Wrapped in a strip of grey cloth. Linen, old, a shirt-tail. Tied with a thread.
 
@@ -237,9 +258,7 @@ T W O.
 
 She untied the thread.
 
-Chain. Five links. Heavy, dark, good iron, the last link cut. On every link, small and neat, the ring of six. She turned the last link over in the firelight and rubbed at the inside of the curve with her thumb, though she knew what she'd find.
-
-Two hammers, crossed.
+Chain. Five links. Heavy, dark, good iron, the last link cut. On every link, small and neat, the ring of six. She turned the last link over in the firelight and rubbed at the inside of the curve with her thumb, though she knew what she'd find there. Two little hammers, crossed.
 
 She knelt in the heather with the chain in one hand and the strip of shirt in the other.
 
@@ -249,17 +268,17 @@ She looked up at the dragon.
 
 "I can't hear you," she said. "I'm sorry. I don't know what he… I can't hear you."
 
-The green dragon looked at her. It made a small sound in its throat. Not a roar. Like a question.
+The green dragon looked at her. It made a small sound in its throat, like a question.
 
 Beside her, Orrun moved.
 
 ---
 
-He lowered his head toward the dragon. The dragon lowered hers, and they stood there, at ten paces, the lion and the green dragon, with their heads low in the red light, looking at each other.
+He lowered his head toward the dragon. The dragon lowered hers, and they stood there, the lion and the green dragon, with their heads low in the red light, looking at each other.
 
 She felt it through the bond.
 
-No words, at first. A kind of hum between them. The way the ground had hummed under the archive. The way Orrun had hummed under her hand in the arch. Something going across the ten paces between them that she couldn't hear, and then could. Through him.
+No words, at first. A kind of hum between them. The way the ground had hummed under the archive. Something going across between them that she couldn't hear, and then could. Through him.
 
 *Kin,* said Orrun, as if he were surprised. *She is kin. Not close. Far. A long way back. But kin.*
 
@@ -267,7 +286,7 @@ No words, at first. A kind of hum between them. The way the ground had hummed un
 
 *What's she saying?*
 
-Orrun was quiet. Listening. She felt him listen. She felt something come across the ten paces to him from the dragon, fast and high and frightened, a bright small voice, like a bird, saying the same thing over and over.
+Orrun was quiet. Listening. She felt him listen. She felt something come across to him from the dragon, fast and high and frightened, a bright small voice, like a bird, saying the same thing over and over.
 
 *She says two locks,* said Orrun.
 
@@ -289,7 +308,7 @@ A black door at the end of the archive, three steps down, with no handle and a l
 
 The verse over the arch on the island, in her own notebook, with the ink run. *The last … sleeps below the stone. Let no hand wake it.*
 
-A man on a smithy roof at Ferriby with two fingers lifted, the same day another man stood on the Tidesteps at Wendmouth, a hundred leagues off. *The man in two places.* A face that knew her name in the dark at Ferriby and didn't know it at all on the hedge-wain. *The crowd,* she'd told herself.
+A man on a smithy roof at Ferriby with two fingers lifted, the same day another man stood on the Tidesteps at Wendmouth, a hundred leagues off. *The man in two places.* A face that knew her name in the dark at Ferriby and didn't know it at all on the hedge-wain. *The crowd,* she'd told herself. The river said he had some old beast's gift. She'd just seen an old beast's gift, standing up out of the hill, and it had cost Orrun like blood. No man was paying that twice a week to be seen on the Tidesteps.
 
 *Two.*
 
@@ -307,7 +326,7 @@ She stood up.
 
 Two hours. Four leagues.
 
-She looked at the green dragon at ten paces, standing in the heather with the ribbon on her horn, waiting.
+She looked at the green dragon, standing in the heather with the ribbon on her horn, waiting.
 
 "Tell her I heard," she said. "Can you? Tell her I understood. Tell her…" She didn't know what. "Tell her I've got it. The two. Tell her to tell him."
 

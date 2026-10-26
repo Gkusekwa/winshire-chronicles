@@ -16,6 +16,8 @@ Draft notes: Night one hundred and nineteen to day one hundred and twenty-two. D
 - Calder understands it then, on the crag at dawn with Wren asleep against him: they came down his path. If he weren't there, they'd have no path. He tells Ada that day: when the ferry runs, Wren goes over. Ada says yes. Bel won't decide.
 - Day 121: Old Grey turns his head toward Wren's voice at the paddock gate. Only that. Wren tells everyone.
 - Day 122: Calder goes up to Crow Scar and doesn't come down. He sends Lisska each night to sit on the crag over the house instead. Wren asks Lisska to tell him what the lion-woman is doing. Lisska does.
+- Magic (proposal): Ada says her keeping-word over the milk pail in the byre (a Saltreach hearth charm, small and ordinary) before she listens.
+- Revision (proposal): Orrun's multiplication, second glimpse. On night 119 Lisska sees two lions at the arch for a moment, then one, and isn't sure of herself afterward. Calder repeats it; he half thinks it was a stone or a shadow. Wren believes it at once.
 notes -->
 
 ---
@@ -136,7 +138,7 @@ He should have taken her down. He knew it. It was cold, and late, and Bel would 
 
 *It's come out of the trees. The lion. It's very big. Bigger than the camp's hounds all together. It's grey. It's standing in front of the tower in the rain, looking at her.*
 
-*It's lain down. Ten paces from her. In the mud. With its head on its paws.*
+*It's lain down a little way from her. In the mud. With its head on its paws.*
 
 *She's not moving.*
 
@@ -146,7 +148,23 @@ He should have taken her down. He knew it. It was cold, and late, and Bel would 
 
 *It's closer. It's moved closer. I didn't see it move. It's five paces off now. Lying across the front of the arch. I can see its breath.*
 
-He said all of it. Wren made him say each one twice. Then she made him say them all again, from the beginning, in order, the way she made him tell stories, and he did. *It's come out of the trees. It's lain down. She's asleep. It's closer.*
+Then, sharp: *Calder. There's two.*
+
+*Two what?*
+
+*Two of it. Two lions. One lying across the arch, and one standing up behind it by the tower wall, the same size, the same grey. I saw it.* A pause, and her voice went small. *Now there's one.*
+
+He looked out at the dark where the river was. Two leagues and more, at night, in the rain. She'd said herself she couldn't see faces from here. Only shapes. A shape could be a stone. It could be the shadow of an oak when a cloud came off the moon.
+
+"What?" said Wren. "Papa. What?"
+
+He told her.
+
+*I saw it,* said Lisska. Then, less sure: *I think I saw it.*
+
+Wren didn't think about it at all. She settled back into the coat as if he'd told her the lion had a tail. "Two," she said. "Say it again."
+
+He said all of it. Wren made him say each one twice. Then she made him say them all again, from the beginning, in order, the way she made him tell stories, and he did. *It's come out of the trees. It's lain down. She's asleep. It's closer. There were two.*
 
 "Why?" said Wren. "Why's it closer?"
 
@@ -202,7 +220,7 @@ He stood on the crag with Wren in his arms, warm, heavy, half asleep, with her f
 
 *A sack,* he thought. *Like for grain.*
 
-He knew what it was for. He knew what size it was. He knew who it was for. Not him. You don't bring a grain sack for a grown man. You bring it for something you can carry.
+He knew what it was for. Not him. You don't bring a grain sack for a grown man. You bring it for something you can carry.
 
 *Two hundred. Alive.* A coin man at a farm gate. *What does the girl like?*
 
@@ -217,8 +235,6 @@ They'd watched him. They'd sat in the trees and watched him come down that path 
 He'd led them.
 
 He'd moved out of Bel's house so they'd come to the Scar instead. He'd thought that was enough. He'd thought, if I'm on the Scar, she's safe. But he'd come down every night to see her, because he couldn't not, and made a path through the forest to her door with his own feet, a path anybody could follow, with his own lantern at the end of it.
-
-Wherever he was, they came. And wherever he went, they followed. To Bel's. To the Scar. Down the forest path to the paddock gate. To her.
 
 She'd be safer anywhere he wasn't.
 
@@ -248,7 +264,7 @@ He didn't answer. He didn't know.
 
 *She's crying,* said Lisska. *I think. Her face is wet. But it's been raining. I don't know.*
 
-He looked out across the river, two leagues and more, at the island, small and dark between the floes. He couldn't see anything. Not the tower. Not the arch. Not a lantern. Only the bare oaks, and the brown water.
+He looked out across the river, two leagues and more, at the island, small and dark between the floes. He couldn't see anything but the bare oaks, and the brown water.
 
 *Tell me,* he said. *Everything. I'll tell her when she wakes.*
 
@@ -310,13 +326,15 @@ Wren put her spoon down.
 
 "I want to meet her," she said.
 
-Ada laughed. Not unkindly. A short soft sound, by the fire. Bel didn't. Bel was looking out of the window at the paddock, where Old Grey stood with his head low by the gate.
+Ada laughed, a short soft sound, by the fire. Bel didn't. Bel was looking out of the window at the paddock, where Old Grey stood with his head low by the gate.
 
 ---
 
 He told Ada that afternoon, in the byre, where Wren couldn't hear.
 
-He told her about the four men on the forest path. The rope. The sack. Ada listened with her hands folded and her face not moving, the way she'd listened to everything since the night of the verse.
+She was at the milk, saying the keeping-word over the pail the way she had every evening of his life. Three words in the old tongue, that her own mother had said, that kept milk sweet a day longer in harvest and did nothing anybody could tell in a cold spring. She finished it before she looked up. She always did.
+
+He told her about the four men on the forest path. The rope. The sack. Ada listened with her hands folded and her face not moving.
 
 "When the ferry runs," he said. "When the river's clear enough for Liss Ashdown to bring it over. Wren goes. Over the water. To the Hearthmere side." He made himself say the next part. "And you go with her."
 
@@ -374,7 +392,7 @@ Wren nodded. She was standing on the bottom bar of the gate with Old Grey's head
 
 "When you tell her. The lion-woman. That somebody wants her too." She looked at him. "Tell her I said hello."
 
-He went up the forest path in the dark. Not his path. A new one, round the far side of the Hollins' wood, through the snow, a way nobody had walked. He'd find a new one every time, if he came down at all. He didn't think he would.
+He went up into the forest in the dark by a new way, round the far side of the Hollins' wood, through the snow, a way nobody had walked. He'd find a new one every time, if he came down at all. He didn't think he would.
 
 On the crag above the farm, behind him, he felt Lisska settle on the rock with her head out over the edge, facing south and west across the river, toward the island.
 

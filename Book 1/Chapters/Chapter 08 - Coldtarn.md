@@ -6,7 +6,8 @@ Part: Part One: Two Banks
 Beats: At the new moon the Clan scatters Haldor's ashes on Coldtarn. Calder carries the village's mourning gift because nobody else will. At the black water Ulric and Arn quarrel in front of everyone and Teo makes them stop. Sigrun tells Calder that Aurveth has outlived two partners and nobody knows how.
 Echo of the other's story: In the crowd, a poacher curses a Hearthmere student who freed his catch at Millbrook.
 Status: first draft
-Draft notes: The new moon falls about twelve days after Chapter 2. Calder rides up on the Ewe Hollow wool cart. Harrow's End's gift is a mourning cloth Ada wove. The quarrel: who pours the ashes, the eldest son (custom) or the chief's brother (the Clan's champion). Teo's answer: they pour together, one hand each on the urn. Decided here (proposal): Aurveth's second partner was Sigrun's great-uncle Ragnald Holm, dead sixty years; Aurveth lay on Coldtarn's shore a full year and didn't wither. Her first partner is older than anyone's memory, and she won't say who. The poacher is one of Gannet's boatmen, come up to complain to Ulric's men.
+Draft notes: The new moon falls about nine days after Chapter 2 (the prose has "eleven nights since the pyre was lit"). Calder rides up on the Ewe Hollow wool cart. Harrow's End's gift is a mourning cloth Ada wove. The quarrel: who pours the ashes, the eldest son (custom) or the chief's brother (the Clan's champion). Teo's answer: they pour together, one hand each on the urn. Decided here (proposal): Aurveth's second partner was Sigrun's great-uncle Ragnald Holm, dead sixty years; Aurveth lay on Coldtarn's shore a full year and didn't wither. Her first partner is older than anyone's memory, and she won't say who. The poacher is one of Gannet's boatmen, come up to complain to Ulric's men.
+Magic touches: Fell's wife's Clan herd-charm; the Coldtarn priest's old words to keep the dead chief down.
 notes -->
 
 ---
@@ -31,7 +32,7 @@ It wasn't the cloth. It was a fine thing. Ada had woven it in the eleven nights 
 
 "That was downhill."
 
-They went round like that for half an hour. Calder sat at the back on a sack of meal with his arms folded and said nothing, which was what he always did, and which had kept him out of every job in Harrow's End that nobody wanted for thirty-two years. He was quite good at it. He could feel the room deciding, the way you feel weather coming, and he could feel it not deciding on him.
+They went round like that for half an hour. Calder sat at the back on a sack of meal with his arms folded and said nothing, which was what he always did, and which had kept him out of every job in Harrow's End that nobody wanted for thirty-two years. He was quite good at it. He could feel the room deciding, and he could feel it not deciding on him.
 
 Then Hob said, "Teo Varr knows Fenn. Shook his hand at Upper Rush. Took him up the cliff at the hold, I heard. Fenn should go."
 
@@ -43,7 +44,7 @@ And the room turned and looked at him, all of it at once, and was relieved.
 
 ---
 
-He went up on the Ewe Hollow wool cart, which was going anyway, sitting on the bales with the cloth in a bundle on his knees and his coat collar up against the wind. Two days. The moor was brown now, the heather going over, and there were geese going south high up in long, crooked lines, crying. The Ewe Hollow men were brothers called Tuft and Fell, and they talked about sheep for the whole of the first day and the morning of the second, and Calder found it the most restful conversation he'd had in a month.
+He went up on the Ewe Hollow wool cart, which was going anyway, sitting on the bales with the cloth in a bundle on his knees and his coat collar up against the wind. Two days. The moor was brown now, the heather going over, and there were geese going south high up in long, crooked lines, crying. The Ewe Hollow men were brothers called Tuft and Fell, and they talked about sheep, and the Clan herd-charm that Fell's wife swore by and Tuft swore at, for the whole of the first day and the morning of the second, and Calder found it the most restful conversation he'd had in a month.
 
 They came over the last rise in the afternoon of the second day and he saw that the whole Clan was there.
 
@@ -63,7 +64,7 @@ The quarrel came at the water's edge, as everyone had known it would.
 
 At the bottom of the slope, on a flat black stone that ran out into the tarn like a jetty, stood the urn. It was big and plain and grey, as tall as a child, and it held the ash of Haldor Varr and his pyre: eleven days and nights of burning, the whole great fire raked and sifted and carried up the mountain on a sledge. In front of it, facing the half-circle, stood the Clan's priest, an old man in grey with a staff. Behind him, to the left, Arn and his men. To the right, Ulric and his. Teo stood a little apart from both, near the priest, bareheaded, with his hands clasped in front of him.
 
-The priest said the words. Calder couldn't hear most of them; the wind took them. He heard *Haldor*, and *son of Rurik*, and *chief of the Varr*, and he heard the gods named, all of them, the old ones who walk unbound, and he saw the whole half-circle bow their heads at that, and he bowed his. Then the priest stepped back and lifted his staff and said, loud enough to carry up the slope:
+The priest said the words, the plain ones first and then the old ones that only priests still had, which were meant to keep a dead chief down in the water where he belonged. Calder couldn't hear most of them; the wind took them. He heard *Haldor*, and *son of Rurik*, and *chief of the Varr*, and he heard the gods named, all of them, the old ones who walk unbound, and he saw the whole half-circle bow their heads at that, and he bowed his. Then the priest stepped back and lifted his staff and said, loud enough to carry up the slope:
 
 "Who pours?"
 
@@ -211,4 +212,4 @@ He thought about two hands on an urn, and a young man standing behind them with 
 
 He thought about a great gold eye coming round, slowly, and resting on him, as if it were trying to remember something.
 
-He didn't sleep until nearly dawn. When he did, he dreamed he was standing on the black stone at the edge of Coldtarn, and the water was rising, and three enormous shapes were coming up through it from very far below, and he woke with his heart going like a drum and didn't know why.
+He didn't sleep until nearly dawn. When he did, he dreamed he was standing on the black stone at the edge of Coldtarn, and the water was rising, and three enormous shapes were coming up through it from very far below, and he woke with his heart going like a drum.

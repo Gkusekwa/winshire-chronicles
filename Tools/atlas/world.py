@@ -154,20 +154,20 @@ place("greyhold", "Greyhold", "fortress", "hearthmere", 174.0, 106.6,
       "The charter over the gate says the bonded and the unbonded serve as equals. The cellars are locked and always have been.",
       scope="both", canon="Chapter 1", label_dx=-1)
 place("oldruin", "The Old Ruin", "ruin", "marches", 175.6, 103.5,
-      "Broken arches and a squat round tower on a wooded island where the Wend splits, about three leagues upriver of Greyhold. "
+      "Broken arches and a squat round tower on a wooded island where the Wend splits, about three and a half leagues upriver of Greyhold. "
       "It was a bridge-fort on the Oneroad, the old realm's highway, and the stumps of the bridge piers still break the water at low summer. "
       "A verse about Winshire is carved under the tower arch. River folk on both banks leave it alone.",
-      scope="both", canon="established (island in the border river)", label_dx=-1)
-place("harrowsend", "Harrow's End", "village", "saltreach", 177.3, 103.0,
+      scope="both", canon="established (island in the border river)", label_dx=-1, label_dy=0.9)
+place("harrowsend", "Harrow's End", "village", "saltreach", 177.1, 103.1,
       "Calder's village on the Saltreach bank: thirty-odd houses of river stone and tarred timber with turf roofs, a mill on Hollow Beck, a shrine to the gods at the crossroads, "
       "and barley and flax fields running down to the water. It sits near the mouth of Hollow Beck, a league and a half across the water from the Old Ruin, which you can see from every field. Its fishing landing is the Eelweir. The Drover's Way passes through on its way to Varrhold.",
       scope="both", canon="name proposed")
 place("varrhold", "Varrhold", "hold", "saltreach", 184.4, 94.8,
-      "The Dragon Clan's hold, ten leagues north-east of Harrow's End in the Scarfell. A ring of black-stone longhouses inside a turf rampart, "
+      "The Dragon Clan's hold, eleven leagues north-east of Harrow's End in the Scarfell. A ring of black-stone longhouses inside a turf rampart, "
       "the chief's hall roofed with dragon-scale shingles shed over generations, and above it the Roosts: dragon eyries cut into the cliff, scorched black at the mouths. "
-      "Two days by grain cart from Harrow's End, one on horseback; under a quarter of an hour by dragon.",
+      "Two days by grain cart from Harrow's End, one on horseback; about an hour and a half by dragon at a steady pace.",
       scope="both", canon="name proposed")
-place("millbrook", "Millbrook", "village", "hearthmere", 172.3, 112.6,
+place("millbrook", "Millbrook", "village", "hearthmere", 173.9, 108.7,
       "A Hearthmere river village two leagues downstream of Greyhold: a water mill, a tavern called the Kettle, and a jetty where Saltreach boats tie up without asking. Poachers sell here.",
       scope="both", canon="named in Chapter 1; the caged beast in Chapter 7", label_dx=-1)
 place("cotterscross", "Cotter's Cross", "town", "saltreach", 180.5, 113,
@@ -180,10 +180,10 @@ place("scarfell", "The Scarfell", "landmark", "saltreach", 189.5, 86.5,
 place("calderfarm", "Fenn farm", "farm", "saltreach", 178.2, 101.9,
       "Calder's farm on the slope above Harrow's End: a stone longhouse with the byre under one roof, a barn, a kitchen garden, two fields of barley and one of flax, "
       "and the beck pasture below. The Fellwood begins a mile above the top field. The Clan's battle in Chapter 18 spills across these fields.", scope="marches", canon="Calder's home")
-place("ferrylanding", "Ashdown Ferry", "landmark", "hearthmere", 173.4, 109.0,
+place("ferrylanding", "Ashdown Ferry", "landmark", "hearthmere", 174.3, 107.0,
       "Liss Ashdown's ferry: a flat-bottomed boat on a guide rope between Greyhold landing and the Saltreach jetty at Tolly's Staithe. Thirty years of crossings.",
       scope="marches", canon="Chapter 1")
-place("tollysstaithe", "Tolly's Staithe", "village", "saltreach", 177.2, 108.6,
+place("tollysstaithe", "Tolly's Staithe", "village", "saltreach", 175.0, 107.2,
       "A huddle of fishermen's huts and drying racks at the Saltreach end of the ferry. Smoked eel, river gossip, and everyone's cousin.", scope="marches")
 place("upperrush", "Upper Rush", "village", "saltreach", 177.3, 101.0,
       "A hamlet of four farms in a hollow above the Saltreach bank, two leagues upriver of Harrow's End. Its barns are the fires Maren sees from the river wall in Chapter 1: raided at night for beasts, then burned. Harrow's End blames the Clan's quarrel.",
@@ -192,8 +192,8 @@ place("ewehollow", "Ewe Hollow", "village", "saltreach", 181.4, 107.0,
       "Sheep folk in a fold of the hills east of Harrow's End: a dozen crofts, a wool barn, and a lot of dogs.", scope="marches")
 place("northwatch", "Northwatch", "tower", "hearthmere", 174.4, 91,
       "A patrol tower on the River Road, manned by the river watch. Signal fires on the roof. Maren served here.", scope="marches")
-place("redwatch", "Redwatch", "tower", "hearthmere", 174.3, 101.9,
-      "The watch tower nearest the Old Ruin, red sandstone, half a league from the bank. The river watch's patrol boats are kept in its boathouse.", scope="marches")
+place("redwatch", "Redwatch", "tower", "hearthmere", 174.6, 103.4,
+      "The watch tower nearest the Old Ruin, red sandstone, half a league from the bank. The river watch's patrol boats are kept in its boathouse.", scope="marches", label_dx=-1, label_dy=-0.9)
 place("brackenwood", "The Brackenwood", "landmark", "hearthmere", 168, 111.2,
       "Old oak and bracken west of Greyhold, a royal hunting ground. Deer, boar, and the beasts the knights pretend aren't there.", scope="marches")
 place("reedmarsh", "The Reedmarsh", "landmark", "saltreach", 182.5, 120,

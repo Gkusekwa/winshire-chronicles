@@ -7,11 +7,12 @@ Beats: Calder carries Harrow's End's grain to Varrhold. He sees both sides: Ulri
 Echo of the other's story: A sellsword at the hold complains that the knights have started riding the bank road again.
 Status: first draft
 Draft notes: A few days after Chapter 4. The grain is the funeral levy for the mourning feast. Joss lends Sorrel to pull the wain, because she's calm only with Calder. Two days each way; the night at the Ram's Head. Calder has hidden the chain under a loose stone in the byre so he won't be tempted. Calder can't hear the dragons (no bond yet): everything about them is seen, not heard. Aurveth's two earlier partners are saved for Chapter 8.
+Magic touches: a Stillhaven charm-seller at the Ram's Head with 'warranted' tags; the bonded riders sit in brazier smoke without blinking (bond gift, seen not explained).
 notes -->
 
 ---
 
-When a Clan chief dies, the hold eats for a month. That is the custom, and it is older than anyone can remember: thirty days of open tables in the long hall at Varrhold, so that anyone who owed the dead man anything can come and eat his bread and drink his ale and say what he was, and nobody in the Scarfell goes hungry while the chair is empty. It is a good custom. It is also, the farmers of the Marches will tell you, paid for by the farmers of the Marches, who send their grain up the Drover's Way in carts when the hold asks for it, and the hold always asks.
+When a Clan chief dies, the hold eats for a month: thirty days of open tables in the long hall at Varrhold, paid for by the farmers of the Marches, who send their grain up the Drover's Way when the hold asks for it. The hold always asks.
 
 Haldor Varr had been a long time dying and a short time dead, and the hold had asked within the week.
 
@@ -19,7 +20,7 @@ Haldor Varr had been a long time dying and a short time dead, and the hold had a
 
 Calder put the chain under a stone in the byre before he left.
 
-It was a loose flag in the corner behind Bramble's stall, where his father had kept the rent money when there had been rent money to keep. He lifted it with the edge of the spade, and wrapped the chain in an old sack, and laid it in the dry earth underneath, and put the flag back, and kicked straw over it. Then he stood there in the half-dark with the cow chewing at him and felt foolish and relieved in equal parts.
+It was a loose flag in the corner behind Bramble's stall, where his father had kept the rent money when there had been rent money to keep. He lifted it with the edge of the spade, and wrapped the chain in an old sack, and laid it in the dry earth underneath, and put the flag back, and kicked straw over it. Then he stood there in the half-dark with the cow chewing at him.
 
 If it wasn't in his pocket, he couldn't take it out. If he couldn't take it out, he couldn't give it to anyone. It was the kind of reasoning that wouldn't have survived five minutes of Wren, so he made sure Wren was asleep when he did it.
 
@@ -61,7 +62,7 @@ It was full that night. The whole Marches was going up to Varrhold to eat Haldor
 
 It wasn't hard. Nobody in that room was looking for a quiet farmer from Harrow's End.
 
-There were Clan men in from the outlying farms, loud, in mourning grey with black armbands. There were drovers. There were a few Saltreach traders with their purses inside their shirts. And at the long table under the window, taking up more of it than they needed to, there were six or seven men who weren't any of those things: hard, easy, weathered men with good boots and bad manners and long knives, and a look about them like dogs that had been fed by too many different hands.
+There were Clan men in from the outlying farms, loud, in mourning grey with black armbands. There were drovers. There were a few Saltreach traders with their purses inside their shirts, and a charm-seller from Stillhaven going table to table with a tray of knotted cords and stamped tin tags for dry barns and fat ewes, every one of them warranted, he said, by the Tide Council itself. He didn't try Calder's corner. Farmers from Harrow's End had a look. And at the long table under the window, taking up more of it than they needed to, there were six or seven men who weren't any of those things: hard, easy, weathered men with good boots and bad manners and long knives, and a look about them like dogs that had been fed by too many different hands.
 
 Sellswords. Calder had seen them before, at Cotter's Cross, at the hiring yard. You saw more of them every year.
 
@@ -89,7 +90,7 @@ It sat in a hollow under the cliffs where the Scarfell broke off in a long black
 
 And above it, in the cliff face, were the Roosts.
 
-He'd forgotten the Roosts. Or he'd remembered them wrong, the way you remember something you saw as a child, smaller than it was. They were caves: dozens of them, cut or worn into the black rock in rough rows going up the cliff, each one big enough to stand a house in. The mouths were scorched black. And in the mouths, and on the ledges between them, and turning slowly in the grey air in front of them, there were dragons.
+He'd forgotten the Roosts. Or he'd remembered them smaller than they were. They were caves: dozens of them, cut or worn into the black rock in rough rows going up the cliff, each one big enough to stand a house in. The mouths were scorched black. And in the mouths, and on the ledges between them, and turning slowly in the grey air in front of them, there were dragons.
 
 More than he could count. Some were asleep on the ledges with their wings folded and their tails hanging down the cliff. Some were coming in from the moor, low and heavy, with sheep in their claws. Two were fighting, or playing, in the air above the falls, rolling over each other with a sound like canvas tearing. The noise of them came down the hollow on the wind: hissing, and a deep grinding sound like rocks in a river, and every so often a long cry that made the hair stand up on his arms.
 
@@ -127,7 +128,7 @@ At the right-hand table sat a big man with a grey beard cut short and a face lik
 
 Ulric Varr. The old chief's brother. The best warrior in the Clan, everyone said, and the man with the most men in his hall. Everyone had always said he should have been chief, and then said it quietly.
 
-At the left-hand table sat a young man of perhaps twenty-five, lean and dark, with Haldor's hawk nose and a face that had been handsome before grief and temper had got into it. He wasn't eating. He was drinking, steadily, with his eyes on the empty chair, and the young men round him kept glancing at him the way you glance at a pot that might boil over.
+At the left-hand table sat a young man of perhaps twenty-five, lean and dark, with Haldor's hawk nose and a face that had been handsome before grief and temper had got into it. He wasn't eating. He was drinking, steadily, with his eyes on the empty chair, and the young men round him kept glancing at him like a pot that might boil over.
 
 Arn Varr. The elder son.
 
@@ -195,7 +196,7 @@ He took Calder up the cliff path.
 
 It was cut in the rock, steep and wet, with an iron rail on the outside that Calder held onto so hard his hand ached. It went up past the lowest of the Roosts, close enough that he could smell them: hot stone and something like iron and something like burnt hair. The noise was worse up here. The dragons on the ledges turned their heads to watch them climb, and their eyes caught the last of the light and shone.
 
-On a broad ledge a third of the way up, under a cave mouth black with old fire, three people sat round a brazier with their backs to the rock. Behind them, filling the cave, were three dragons.
+On a broad ledge a third of the way up, under a cave mouth black with old fire, three people sat round a brazier with their backs to the rock. The wind kept laying the brazier smoke flat across them, and none of them so much as narrowed an eye. Behind them, filling the cave, were three dragons.
 
 "Late," said the woman nearest the fire. She was old, grey-haired, with a weathered face and a war-leader's stillness and an old scar through one eyebrow. "And you've brought a farmer."
 

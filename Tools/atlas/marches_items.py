@@ -44,7 +44,7 @@ item("toashford", "to Ashford, 18 leagues", "arrow_w", 165.4, 106.3, 1, "The Kin
 # ---------- Chapter 2: Across the River (Calder) ----------
 item("mill", "Harrow mill", "mill", 177.7, 103.2, 2, "Hob's mill on Hollow Beck. His prices are how he says hello.", label=False)
 item("shrine", "Crossroads shrine", "shrine", 177.8, 103.3, 2, "A stone shrine to the gods where the Drover's Way meets the river lane.", label=False)
-item("weirs", "Eel weirs", "weir", 176.6, 108.9, 2, "Tolly's Staithe's eel traps, staked across the shallows.", label=False)
+item("weirs", "Eel weirs", "weir", 175.0, 108.0, 2, "Tolly's Staithe's eel traps, staked across the shallows.", label=False)
 item("pyre", "Pyre smoke over Varrhold", "smoke", 185.2, 92.6, 2, "The old chief's funeral pyre burns for three days.", label=False)
 item("burnedrush", "Upper Rush, burned", "fire", 178.0, 98.7, 2, "Raided at night for its beasts, then burned. Harrow's End blames the Clan's quarrel.", label=False)
 
@@ -63,9 +63,9 @@ item("dragons4", "Dragons at the Roosts", "dragon", 187.8, 91.0, 4, "Dozens of C
 item("tocoldtarn", "to Coldtarn", "arrow_n", 191.6, 85.0, 4, "Hollow Beck rises at Coldtarn, where the Clan burns its dead.")
 
 # ---------- Chapter 5: The Caged Beast (Maren) ----------
-item("kettle", "The Kettle", "inn", 171.6, 113.6, 5, "Millbrook's tavern, where Saltreach boatmen drink and sell.", dx=-0.1, dy=0.4)
-item("cagedbeast", "Caged beast", "beast", 173.4, 112.4, 5, "At Millbrook jetty, Saltreach poachers have a young beast in a cage. Maren frees it.", dx=0.2, dy=0.4)
-item("littleweir", "Little Weir", "hamlet", 173.0, 117.0, 5, "A hamlet at the weir below Millbrook; flour barges wait here for the water.")
+item("kettle", "The Kettle", "inn", 173.4, 109.3, 5, "Millbrook's tavern, where Saltreach boatmen drink and sell.", dx=-0.1, dy=0.4)
+item("cagedbeast", "Caged beast", "beast", 174.3, 108.6, 5, "At Millbrook jetty, Saltreach poachers have a young beast in a cage. Maren frees it.", dx=0.2, dy=0.4)
+item("littleweir", "Little Weir", "hamlet", 174.2, 111.2, 5, "A hamlet at the weir below Millbrook; flour barges wait here for the water.")
 item("gallowsoak", "Gallows Oak", "landmark_pt", 170.6, 115.0, 5, "A crossroads oak where Hearthmere hanged poachers until fifty years ago. Children still won't climb it.", label=False)
 
 # ---------- Chapter 6: Whispers in the Hold (Calder) ----------
@@ -217,7 +217,7 @@ item("ice41", "Where the ice broke", "ice", 175.0, 108.4, 41, "A refugee family 
 item("rcamp50", "Restoration beast camp", "camp", 183.6, 107.0, 50, "The camp that holds Joss's other grey. Joss goes looking for it and is brought back dead.", dx=0.3)
 item("burn52", "Kharrak's fire", "fire", 183.6, 107.0, 52, "Calder lets Kharrak burn the camp and free its beasts. The Restoration names him an enemy.", label=False)
 item("ford60", "Ambush at the ford", "battle", 183.0, 96.0, 60, "Calder's peace meeting at Teo's ford becomes an ambush.", dx=0.3, dy=0.6)
-item("ferry64", "Refugees cross", "path", 176.8, 108.4, 64, "Ada, Wren and Bel's family cross to Hearthmere on Liss Ashdown's ferry.",
+item("ferry64", "Refugees cross", "path", 174.7, 107.1, 64, "Ada, Wren and Bel's family cross to Hearthmere on Liss Ashdown's ferry.",
      path=[(177.0, 108.5), (175.8, 108.0), (174.6, 107.5)], label=False)
 item("pell69", "Where Pell fell", "death", 172.9, 106.2, 69, "Instructor Pell dies holding Greyhold's gate.", dx=-0.3, dy=-0.9)
 item("rook72", "Where Rook died", "death", 177.0, 104.4, 72, "Calder corners Rook in the fighting at the Ruin. The proof dies with him.", dx=0.3)
@@ -269,8 +269,8 @@ _set("muster3", x=181.6, y=97.6, desc="The Ram's Head camp spills up the hill be
 _set("trap31", x=175.3, y=102.6, desc="Day 127: the council's order. A pit-net and the crown's beast-chain on the island's west shore; Maren is to lead the lion onto it. She refuses three times.")
 _set("ford60", desc="Day 130: Calder's truce meeting at Teo's ford. He names Rook; Ulric's face changes; then sixty strangers in both sides' colours shoot from the gorse. Hallam Brecc falls.")
 item("listen44", "Where Aurveth listened", "ice", 176.6, 100.9, 44, "Midwinter night (day 88): Aurveth lies on the ice with her throat to it a league above the island and touches something vast and chained below.", label=False)
-item("frostfair45", "Frost fair riot", "battle", 172.9, 112.0, 45, "Midwinter: Reede reads the paper at the Millbrook frost fair; Callis tries an arrest; the crowd turns.", label=False)
-item("riot47", "Millbrook riot", "battle", 172.5, 112.9, 47, "Day 93: the knights arrest Davin the potboy for reading the paper; the town riots.", label=False)
+item("frostfair45", "Frost fair riot", "battle", 173.5, 108.3, 45, "Midwinter: Reede reads the paper at the Millbrook frost fair; Callis tries an arrest; the crowd turns.", label=False)
+item("riot47", "Millbrook riot", "battle", 173.5, 109.1, 47, "Day 93: the knights arrest Davin the potboy for reading the paper; the town riots.", label=False)
 item("flight48", "Calder flies to the Varrs", "path", 179.6, 102.2, 48, "Days 93 and 96: Calder flies openly to Varrhold and to Skarrow to ask Arn and Ulric to stop.",
      path=[(179.6, 102.2), (182.0, 98.6), (184.4, 94.8), (188.0, 94.6), (191.0, 95.0)], label=False)
 item("door51", "The black door", "lock", 174.1, 106.4, 51, "Night 102: Hale takes Maren to the black door under the archive. Her hand on it; something far below notices; across the river the lion roars and three dragons answer.", label=False)
@@ -279,12 +279,12 @@ item("hill54", "Fight above Upper Rush", "battle", 177.6, 101.4, 54, "Night 105:
 item("road54", "The road to the river", "path", 181.2, 99.5, 54, "A new road trodden black from the Ram's Head over the hills behind Harrow's End, down to the water opposite the island.",
      path=[(181.2, 99.5), (180.0, 100.6), (178.8, 101.8), (177.8, 102.4), (176.9, 102.7)], label=False)
 item("collar55", "The collar struck off", "chain", 175.8, 102.3, 55, "Night 119 the river goes out with Maren on the island. At dawn the lion lays its neck down and she strikes the pin out. Odo Marl's crossed hammers are on the inside.", label=False)
-item("hedge57", "Hedge-meeting", "camp", 171.0, 111.6, 57, "Night 123: seven hundred people under the long thorn hedge above Fennick's. Vale speaks, warm; Tobin begs Maren to come over; Tam holds the torch.", dx=-2.6)
+item("hedge57", "Hedge-meeting", "camp", 172.8, 109.6, 57, "Night 123: seven hundred people under the long thorn hedge above Fennick's. Vale speaks, warm; Tobin begs Maren to come over; Tam holds the torch.", dx=-2.6)
 item("hallam60", "Where Hallam Brecc fell", "death", 183.2, 96.2, 60, "The old rider of the ledges goes down the slope shouting that the shooters aren't kin, and a bolt takes him. Morrow lies down beside him.", label=False)
 item("boats60", "Knights' boats", "pier", 176.3, 103.4, 60, "At dusk on day 130, Greyhold's boats sit at anchor across the mouth of Hollow Beck, watching the ford's dead come down into the Wend. They don't cross.", label=False)
 # Redwatch sits on the Hearthmere bank opposite the island, across the west channel (Chs 25-55)
 _set("boathouse", x=174.9, y=102.1)
-_set("redwatch39", x=174.8, y=102.4)
+_set("redwatch39", x=175.0, y=103.2)
 
 
 # ---------------- Reconciled with the drafted Chapters 61-79 ----------------
@@ -305,6 +305,8 @@ _set("cassian", desc="Midnight, night 143: beneath the school, Maren kills Cassi
 _set("meet40", x=175.4, y=103.4, desc="After midnight: at the foot of the fallen Ruin, in the cavern under the river, Maren and Calder meet for the first time.")
 _set("titan41", x=176.0, y=102.9, desc="Sunrise, day 144: the Last Titan comes up out of the river where the island was and flies north-east. Hearthmere's lamps go out.")
 _set("oldruin", desc="Broken arches and a squat round tower on a wooded island where the Wend splits, about three leagues upriver of Greyhold. It fell into the catacombs at midnight on night 143, when the seal opened.")
-_set("knowe67", x=172.4, y=102.3, desc="A long rise at the Brackenwood's edge, two leagues west of the river, with the old watch's beacon-stones on top. Maren and the lion watch the muster from it.")
+_set("knowe67", x=174.0, y=102.6, desc="A long rise at the Brackenwood's edge, two leagues west of the river, with the old watch's beacon-stones on top. Maren and the lion watch the muster from it.")
 _set("bond37", x=172.5, y=102.5)
 _set("farseer", path=[(178.2, 101.9), (176.6, 101.6), (174.4, 101.7), (172.5, 102.3)])
+_set("titan41", dx=2.6, dy=3.4, keep=True)
+_set("titanflight", name="It flew north-east")

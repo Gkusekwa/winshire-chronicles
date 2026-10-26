@@ -18,6 +18,7 @@ Draft notes: Days one hundred and twenty-one to one hundred and twenty-four. Dec
 - The speech: the chained beast under Greyhold; the lamps; "every one of you chosen"; and the farmer. "They'll tell you he burned our camp at the Ewe Beck. He did. Three of ours are dead. And his sister's man is dead under a beast in our lines, because a fool of a handler thought a beast was worth more than a grieving man. I'll not have it. I forgive him. Hear me: I forgive Calder Fenn. He'll come home to the one realm. All of them will. Every one." The crowd roars it. Maren thinks of the bill on the Millbrook jetty: *to be brought in alive.*
 - Maren to Tobin, at the end: "Your people put the collar on it." She shows him nothing; she says it. He doesn't understand. She goes.
 - Tobin, after her: "When they throw you out, and they will, come and find us. We'll still be here." She doesn't look back. On the wain, Tam watches her go.
+- Magic (proposal): a hedge-worker by the Millbrook well sells written lamp-words for a copper, openly, with her own lamp dark beside her; nobody buys.
 notes -->
 
 ---
@@ -30,7 +31,7 @@ Pell sent her back to Greyhold on the hundred-and-twenty-first day with the repo
 
 *The beast's collar was removed on the morning of day one hundred and twenty by Student Ashdown, with hammer and chisel, at the beast's leave.* That was how he'd written it. *At the beast's leave.* She'd read it over his shoulder and hadn't said anything. She carried it in her coat on Turnip along the River Road in the thin spring sun, with the Wend running brown and loud and full of ice beside her, and the island going by on the left, and the snow going off the fields in long grey patches.
 
-She went on past Greyhold to Millbrook. She didn't have to. It was two leagues out of her way. She turned Turnip off at the jetty road anyway, and rode up it, past the Kettle with its smashed shutters boarded over with raw planks, to the top of the street.
+She went on past Greyhold to Millbrook. She didn't have to. It was two leagues out of her way. She turned Turnip off at the jetty road anyway, and rode up it, past the Kettle with its smashed shutters boarded over with raw planks, past a woman on an upturned crate by the well. A hedge-worker. She had lamp-words written out on scraps of sacking, a copper each, for anybody whose licensed tender had stopped coming, and she was calling them out in the open street as if there'd never been a fine for it. The lamp on the crate beside her was dark. Nobody was buying. Maren rode on to the top of the street.
 
 Odo Marl's forge was cold.
 
@@ -40,9 +41,7 @@ She sat on Turnip and looked at the doors.
 
 They were hung on iron. Great black hinges, strap hinges, as long as her arm, bolted through the oak. She'd seen them all her life. She'd swung on these doors when she was six, and Odo had shouted at her.
 
-She got down. She went to the left-hand door and put her thumb on the bottom hinge, at the curl where the strap went round the pin, and rubbed.
-
-Two hammers, crossed.
+She got down. She went to the left-hand door and put her thumb on the bottom hinge, at the curl where the strap went round the pin, and rubbed until the little hammers showed.
 
 She stood there with her thumb on them.
 
@@ -112,7 +111,7 @@ She stood at the back of the field and looked at Odo Marl's arms. Forearms like 
 
 She turned.
 
-Tobin was standing beside her in the dark at the edge of the crowd. She hadn't heard him come. He was in grey too, a good coat, and he had a ring on his finger. He was thinner than he'd been at Greyhold. Much thinner. His face had gone all bones and eyes. And he was smiling. She'd known him two years and she'd never seen him smile like that. Not sour. Not with half his mouth. All of it.
+Tobin was standing beside her in the dark at the edge of the crowd. She hadn't heard him come. He was in grey too, a good coat, and he had a ring on his finger. He was thinner than he'd been at Greyhold. Much thinner. His face had gone all bones and eyes. And he was smiling. She'd known him two years and she'd never seen him smile like that, with all of his mouth.
 
 "You came," he said again. "I didn't think you would. I told them you would. I didn't think so."
 
@@ -150,7 +149,7 @@ He stood on the wain in the torchlight.
 
 And he laughed.
 
-It was the first thing he did. He stood up on the bed of the wain and looked out at the field, at seven hundred people under the hedge in the moonlight, and he laughed out loud, a big warm open laugh, as if he'd just seen something wonderful. He threw his arms out.
+He stood up on the bed of the wain and looked out at the field, at seven hundred people under the hedge in the moonlight, and he laughed out loud, a big warm open laugh, as if he'd just seen something wonderful. He threw his arms out.
 
 "Look at you," he said. "*Look* at you. All of you. Seven hundred, under one hedge, on a cold night, in the mud. Look at you!"
 
@@ -162,11 +161,11 @@ Maren stood at the back and didn't move.
 
 He talked for an hour.
 
-She'd thought, afterwards, that she'd remember what he said. She remembered some of it. She remembered more of how he said it. He didn't stand still. He walked up and down the bed of the wain. He crouched at the edge of it and talked to the people at the front as if they were the only ones there. Halfway through he jumped down off it into the crowd, right down into the mud, and walked among them, and took their hands. An old woman at the front held out her hand to him and he took it in both of his and called her *mother* and she burst into tears. He laughed. He raised his voice and it broke, and the field went silent with it, and then he laughed again and they laughed with him.
+She remembered some of what he said. She remembered more of how he said it. He didn't stand still. He walked up and down the bed of the wain. He crouched at the edge of it and talked to the people at the front as if they were the only ones there. Halfway through he jumped down off it into the crowd, right down into the mud, and walked among them, and took their hands. An old woman at the front held out her hand to him and he took it in both of his and called her *mother* and she burst into tears. He laughed. He raised his voice and it broke, and the field went silent with it, and then he laughed again and they laughed with him.
 
-He was warm. That was the word that kept coming to her, standing at the back in her father's brown cloak with her hood up. Warm. Like a fire you've come in to out of the snow. Everybody in the field had turned toward him the way you turn your hands toward a fire, without thinking.
+He was warm. That was the word that kept coming to her, standing at the back in her father's brown cloak with her hood up. Warm. Like a fire you've come in to out of the snow. Everybody in the field had turned toward him without thinking.
 
-The thin man on the smithy roof had been cold. Not cruel. Cold the way a good knife is cold. Still. Patient. He'd never raised his voice. He'd lifted two fingers, and the boy had blown, and Ferriby had burned, and he'd watched it with that still patient face, and afterwards, at the landing, he'd looked up the lane at her and said her name as if he'd been keeping it in his pocket.
+The thin man on the smithy roof had been cold, as a good knife is cold. Still. Patient. He'd never raised his voice. He'd lifted two fingers, and the boy had blown, and Ferriby had burned, and he'd watched it with that still patient face, and afterwards, at the landing, he'd looked up the lane at her and said her name as if he'd been keeping it in his pocket.
 
 This man was on fire.
 
@@ -196,7 +195,7 @@ She thought of silent hounds in six-dot collars on the Redwatch landing at dawn,
 
 He told them about the farmer.
 
-He'd come back up onto the wain by then. He stood at the front of it with Tam's torch behind him, and his face went quiet. Not cold. Sad. He looked out over the field for a long moment before he spoke.
+He'd come back up onto the wain by then. He stood at the front of it with Tam's torch behind him, and his face went quiet and sad. He looked out over the field for a long moment before he spoke.
 
 "They'll tell you," he said, "that the farmer burned our camp at the Ewe Beck."
 
@@ -230,11 +229,11 @@ Slowly. Taking hands. Touching shoulders. Stopping to speak to people, bending h
 
 He came past her.
 
-So close she could have touched his sleeve. He was taller than she'd remembered from the roadblock. The same long pale face, clean-shaven. The same short dark hair. The same grey eyes. He turned his head as he passed, the way he'd turned it a hundred times coming down the field, and looked straight at her, at her face under the brown hood, in the light of the lantern on the gatepost.
+So close she could have touched his sleeve. He seemed taller than she'd remembered from the roadblock. People do, she thought, with seven hundred faces turned up to them. The same long pale face, clean-shaven. The same short dark hair. The same grey eyes. He turned his head as he passed, the way he'd turned it a hundred times coming down the field, and looked straight at her, at her face under the brown hood, in the light of the lantern on the gatepost.
 
 He smiled at her.
 
-Warm. Friendly. The way he'd smiled at the old woman at the front. The way you'd smile at anybody.
+Warm. Friendly. The way he'd smiled at the old woman at the front.
 
 And there was nothing in it. No knowing. Nothing at all. He looked at her face the way you'd look at the seven-hundredth face in a field, and smiled, and went past, and put his hand on the shoulder of the man beside her and said something, and laughed, and was gone through the gate into the dark with the men with cudgels round him.
 

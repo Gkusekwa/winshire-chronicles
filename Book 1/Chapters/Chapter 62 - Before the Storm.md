@@ -7,14 +7,15 @@ Beats: Harrow's End prepares to flee. Calder stays near the Old Ruin, where the 
 Echo of the other's story: Smoke from Greyhold's forges; the knights are arming.
 Status: first draft
 Carried forward: From Chapter 60: Hallam Brecc dead at the ford; Morrow lying down beside him; the ten of the ledges on the hillside; Hallam's charge: "Tell them. Again. Write it down if you have to. Nail it on a door." The iron ring from the dead shooter; the two chains. From Chapter 54: the meeting in the Wheel; Fisk: Liss Ashdown will take them. From Chapter 56: Wren and Ada go over when the ferry runs; Bel undecided; Old Grey turned his head. From Chapter 58: the Ram's Head muster; Greyhold's hoardings and engines. From Chapter 28: Aurveth's memory of the white bridge, and the great grey cat on the tower steps that her first partner bowed to. From Chapter 46: Ada's third verse, "When two hands open what one hand shut".
-Draft notes: Days one hundred and thirty-one to one hundred and thirty-four. Decided here (proposals):
+Draft notes: Days one hundred and thirty-one to one hundred and thirty-five. Decided here (proposals):
 - Day 131: Calder goes back to the ford. Hallam's stick is gone; the beck has it. The ten of the ledges have kept the vigil on the hillside all night. Morrow dies at dusk on day 132, the third day, with her head on Hallam's chest. The ledges carry them both to Coldtarn. One of the ten, **Gunna Tarne**, an old rider with a grey-green dragon called **Tamsin**, tells Calder the ledges believe him now. They saw the shooters' boots. They'll carry his words.
 - Day 132, night: Ada writes it down for him at Bel's table, on the clean backs of the Restoration's papers. She learned her letters as a girl at the Varrhold dues-school. Everything: the bucket, the six, the ford, the ledger at the Ram's Head, the gorse, the boots, the ring. Two copies. He signs each in crooked capitals, and Ada writes beside it. The ledges carry one to Varrhold and one to Skarrow. He keeps the ring and the chains. Hallam said nail it on a door; Ada says no, in the Clan you say it aloud, so Gunna Tarne will read it in both yards, under the law, so nobody can say it was hidden.
 - Days 132–134: Harrow's End packs. The Ram's Head tents start coming down on day 133; Lisska sees the first companies moving onto the Drover's Way. The village goes south down the river lane to Tolly's Staithe, to Liss Ashdown's ferry, in twos and threes. Fisk won't go. "Sixty years on this weir."
 - Bel decides on day 134. She'll cross with the children from the Staithe, and Liss will take the greys over too, one a crossing: Mabbin, Sorrel, Old Grey. "Joss went to bring him home. Home's where I am." The crossing is set for day 137.
 - Calder won't cross and won't go north. He stays on Crow Scar, near the Ruin, for two reasons he says aloud to Aurveth: the answer is on the island (the verse, Ada's third verse, the cat on the tower steps), and every league between him and Wren is a league the men with sacks have to come past him.
-- Aurveth on the cat: the lion is the cat she remembers on the tower steps. Older than her first partner. Her first partner bowed to it. "It was there before the chains. It was there when there was a bridge. It has been waiting a long time for something."
-- The echo: from the top of the Scar on day 134, black smoke over Greyhold, going straight up in the still air from a dozen chimneys: the forges working day and night. Lisska goes close enough to see: smiths in the yard at open forges, arrowheads by the barrel, a ring of red-hot iron being hammered for a new chain.
+- Aurveth on the cat: the lion is the cat she remembers on the tower steps. She has known since the smell on Calder's coat in the snow, and its roar through the hill, and didn't want to know. Older than her first partner. Her first partner bowed to it. "It was there before the chains. It was there when there was a bridge. It has been waiting a long time for something."
+- The echo: from the top of the Scar on the morning of day 135, black smoke over Greyhold, going straight up in the still air from a dozen chimneys: the forges working day and night. Lisska goes close enough to see: smiths in the yard at open forges, arrowheads by the barrel, a ring of red-hot iron being hammered for a new chain.
+- Magic (proposal): Harrow's End leaves a red keeping-knot (three turns and a word) on every latch down the lane; at Greyhold's forge an old licensed worker says words over the quench-trough as each link of the crown's new chain goes in (Aurveth: "They say words into the iron while it's open").
 notes -->
 
 ---
@@ -39,7 +40,7 @@ Morrow died at dusk on the hundred-and-thirty-second day.
 
 The third day. The way it always was, Ada said, for the old ones. He'd heard it all his life and never seen it. He sat on the stones of the ford for two days and saw it. No wound, no sickness. Something going out of her a little more every hour, like water draining off a flooded field. On the first day she still lifted her head when the wind changed. On the second she didn't. Her eye stayed open, looking at nothing. Her breath got longer, and further apart.
 
-At dusk on the second day she lifted her head, once, off Hallam's chest, and looked up the hillside at the ten.
+At dusk on the second day of his sitting there she lifted her head, once, off Hallam's chest, and looked up the hillside at the ten.
 
 Every one of them stood up.
 
@@ -135,7 +136,7 @@ Harrow's End packed.
 
 He watched it from the Scar over three days. Lisska told him what she saw from the crag, and Aurveth from the air, and he watched it himself in the long light of the evenings from the top of the black rock. Carts in the lanes. Bundles. Beasts on halters. People going down the river lane south, toward the Staithe, toward the ferry, in twos and threes, as if they were going to market. Nobody running. Not yet.
 
-The Garrows went on the hundred-and-thirty-third day. Wat and Tessa and Davy, with the cow that had lived through the burning and a handcart with their bedding on it. The Hollins went the same day, all of them, with their sheep. The Ashby widow went on the hundred-and-thirty-fourth with her girl, and stopped at the top of the lane and looked back at her house a while, and went on.
+The Garrows went on the hundred-and-thirty-third day. Wat and Tessa and Davy, with the cow that had lived through the burning and a handcart with their bedding on it. The Hollins went the same day, all of them, with their sheep. The Ashby widow went on the hundred-and-thirty-fourth with her girl, and stopped at the top of the lane and looked back at her house a while, and went on. She'd tied a knot of red cord on the latch before she went, the keeping-knot, three turns and a word, that you leave on a door to keep a house till you come home. Lisska said every door in the lane had one. A row of little red knots, all the way down to the Wheel.
 
 Fisk didn't go.
 
@@ -161,7 +162,7 @@ Lisska saw it first. She'd been sitting high over the Drover's Way since dawn, t
 
 *Far. The other side of the moor. But they're coming down.* A pause. *Calder. It's starting.*
 
-He stood on the top of the Scar and looked north-east up the long brown slant of the Drover's Way toward the moor, where he couldn't see anything yet. He felt it, though, the way his bad knee felt rain coming.
+He stood on the top of the Scar and looked north-east up the long brown slant of the Drover's Way toward the moor, where he couldn't see anything yet. He felt it, though, like rain coming in a bad knee.
 
 ---
 
@@ -217,7 +218,7 @@ He'd seen it through her once. In the autumn, by the fire, when she'd shown him 
 
 "It's the same one," said Calder. "On the island. Lisska's girl's lion. It's the cat on the steps."
 
-*Yes,* said Aurveth. *I have known since the field. Since it roared. I knew its voice.*
+*Yes,* said Aurveth. *I have known since your coat. The smell on it, in the snow. And then its voice, when it roared through the hill. I didn't want to know.*
 
 "How old is it?"
 
@@ -231,13 +232,13 @@ He sat on the Scar and looked at the island.
 
 "I'm staying," he said. "Near it. Here. That's the other reason. Not only that they'll come where I am." He put his hand inside his coat, on the chains. "It's there. Whatever it is. Whatever comes. It's there. And I want to be near enough to see."
 
-*I know,* said Aurveth. *I have known since the ford. I was waiting for you to say it.*
+*I know,* said Aurveth. *I was waiting for you to say it.*
 
 ---
 
-On the morning of the hundred-and-thirty-fourth day there was smoke over Greyhold.
+On the morning of the hundred-and-thirty-fifth day there was smoke over Greyhold.
 
-He saw it from the top of the Scar when he came out of the cave. The wind had dropped in the night, and the day was still and grey and cold, and across the river, seven leagues downriver, over the grey shape of Greyhold on its hill, the smoke was going straight up into the sky. Black. Not one column. A dozen. Thin black threads going up out of the yards inside the walls, straight as plumb-lines in the still air, and spreading at the top into a long dark smear that hung over the whole hill like a lid.
+He saw it from the top of the Scar when he came out of the cave. The wind had dropped in the night, and the day was still and grey and cold, and across the river, six leagues downriver, over the grey shape of Greyhold on its hill, the smoke was going straight up into the sky. Black. A dozen thin threads of it going up out of the yards inside the walls, straight as plumb-lines in the still air, and spreading at the top into a long dark smear that hung over the whole hill like a lid.
 
 *Forges,* said Aurveth.
 
@@ -247,7 +248,9 @@ He saw it from the top of the Scar when he came out of the cave. The wind had dr
 
 He asked her. She didn't want to go. Not across the river, not toward the walls with the engines on them. He asked again, and she went, high, so high she was nothing, and swung out over the river and down toward Greyhold from the north, and he felt her eyes go over the walls.
 
-*Fires,* she said. *Open fires, in the yard, in a row. A dozen. With men at them. Hammering. Big men, with their arms bare, all black. The sound comes all the way up.* A pause. *There are barrels. By the fires. Full of little iron points. Hundreds and hundreds. Arrowheads. And spearheads, bigger. And there's one fire on its own, at the end, bigger than the others, with four men at it.* Her voice went smaller. *They're making a chain. A great big one. The links are as big as my head. They're hammering it red.*
+*Fires,* she said. *Open fires, in the yard, in a row. A dozen. With men at them. Hammering. Big men, with their arms bare, all black. The sound comes all the way up.* A pause. *There are barrels. By the fires. Full of little iron points. Hundreds and hundreds. Arrowheads. And spearheads, bigger. And there's one fire on its own, at the end, bigger than the others, with four men at it.* Her voice went smaller. *They're making a chain. A great big one. The links are as big as my head. They're hammering it red.* A pause. *And there's an old man at the end, by a trough of water. In a long coat. When they put a link in the water he holds his hands over it and talks. Every time. With his eyes shut.*
+
+*Quenching,* said Aurveth. *They say words into the iron while it's open. The smiths on the bridge forges did that. I'd forgotten.*
 
 He stood on the Scar and looked at the smoke.
 
@@ -259,4 +262,4 @@ He stood on the Scar and looked at the smoke.
 
 The smoke went up over Greyhold all that day, and all that night he could see the glow of the forges under it, red, on the clouds.
 
-He sat on the Scar and watched it. Three days to the ferry. He counted them.
+He sat on the Scar and watched it. Two days to the ferry. He counted them.

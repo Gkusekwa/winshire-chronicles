@@ -18,13 +18,12 @@ Draft notes: Days thirteen to eighteen. Decided here (proposals):
 - Calder sends Ada and Wren nowhere: the riders want him, not them. He goes the other way at once, east into the deep Fellwood. Aurveth carries him on her neck, his first time riding a dragon. Kharrak walks. Lisska scouts.
 - Crow Scar: a crag of black rock standing out of the Fellwood two leagues east, with a cave mouth high on its face big enough for Aurveth. Lisska found it hunting. The Fellwood swallows them.
 - Echo on day eighteen, their third day at Crow Scar: Lisska, ranging far, sees a girl in river-watch grey on the island at dusk, sitting on a stream bank twenty paces from a great grey cat that doesn't attack her.
+Magic touches: the Tide Council seal is the same 'warranted' mark as the charm-sellers' tags; Ada packs the hearth-cord from over the door.
 notes -->
 
 ---
 
-There's a word the Clan uses for a beast that everybody wants. It's an old word and it doesn't have a proper meaning any more, only a feeling. *Hearth-lost.* A beast that's hearth-lost has been fought over so long that it doesn't belong anywhere. Every hold has a claim on it and none of them has a fire for it. It goes from hand to hand, and from hold to hold, and it's never home, and in the end, the old men say, it goes into the woods and doesn't come out, and that's the only place that ever really wanted it.
-
-Teo had told him that too. Teo had told him all sorts of things, on the cliff path and at the gate of the top field. He hadn't known, at the time, that he was being given things to keep.
+There's a word the Clan uses for a beast that everybody wants. *Hearth-lost.* Every hold has a claim on it and none of them has a fire for it, and in the end, the old men say, it goes into the woods and doesn't come out.
 
 ---
 
@@ -94,7 +93,7 @@ Sten Raske straightened up off the gate. He threw the cloth back over the chest.
 
 The third came that afternoon, from the south, up the Drover's Way from Cotter's Cross, and he was a stranger.
 
-Not Clan. Saltreach, by his voice, coast Saltreach, long vowels and short temper. He was a young man in a good leather coat with a sword at his hip and a hooded hawk on his fist, and he had a paper too, like Gorm Askell, but this one had a seal on it. A big red seal, with a ship on it, and a wave.
+Not Clan. Saltreach, by his voice, coast Saltreach, long vowels and short temper. He was a young man in a good leather coat with a sword at his hip and a hooded hawk on his fist, and he had a paper too, like Gorm Askell, but this one had a seal on it. A big red seal, with a ship on it, and a wave. Calder had seen that ship and wave before, pressed small into the tin tags the charm-sellers hawked at Cotter's Cross, where it meant warranted, and mostly meant nothing.
 
 "Lieutenant Corrin Ash," he said. "Of Captain Idris Vey's company, out of Wendmouth. Under contract to the Tide Council at Corsa." He held up the paper so Calder could see the seal. "The Captain's heard about your field, Master Fenn. Word gets to the hiring yard at Cotter's Cross fast, when it's dragons. And the Captain holds the Council's commission for the Marches. The Council takes a long view of things. The Council thinks the Clan's war is the Clan's business. The Council will think three war dragons in the Marches are everybody's." He smiled. He had very good teeth. "The Captain's authorised to offer you a contract. A wage. A good one. Better than either Varr. You'd come south, you and the beasts, to Wendmouth, and serve the Council."
 
@@ -106,7 +105,7 @@ Not Clan. Saltreach, by his voice, coast Saltreach, long vowels and short temper
 
 "No," said Calder.
 
-The lieutenant's smile went, all at once, the way a candle goes out.
+The lieutenant's smile went, all at once.
 
 "The Captain doesn't usually ask twice," he said. "I'll tell him you were asked once."
 
@@ -116,7 +115,7 @@ The fourth came at dusk on the fourteenth day, alone, on foot, and Calder didn't
 
 He was in the yard. He'd been sitting on the mounting block by the byre with his leg out stiff in front of him, watching the light go off the hill and thinking about the new moon, which was tonight, and the Ashby widow's face. When he looked up, there was a man standing at the gate.
 
-He was a soft-spoken man. Middle years, middle height, in a good dark coat of plain cloth, with a pleasant open face and grey eyes and a way of standing very still. He didn't look at the dragons. He looked at Calder, and smiled, and nodded, as if they'd met before.
+He was a soft-spoken man. Middle years, middle height, in a good dark coat of plain cloth, with a pleasant open face and brown eyes, and a thumb that kept rubbing at his forefinger. He didn't look at the dragons. He looked at Calder, and smiled, and nodded, as if they'd met before.
 
 "Master Fenn," he said. "Forgive me. I didn't mean to startle you."
 
@@ -166,7 +165,7 @@ He told them about the chain. He took it out of his coat pocket and held it up s
 
 About the empty bucket, on the night of the pyre. *Drew his wages the night before the ford. Off before light. Down the Way, toward the river.*
 
-About the eleven words he'd carried in his pocket for more than a week and never said.
+About the seventeen words he'd carried in his pocket for more than a week and never said.
 
 He told it badly. He'd never told anything well. He told it in bits, going back, starting again. All the time, through the marks, he could feel them listening. Not the way people listen. All the way down. Feeling it as he felt it, the cold of the chain, the bucket, the guilt, the long slow sick weight of it that he'd been carrying since the ford. He felt it land in them, one after another.
 
@@ -246,7 +245,7 @@ Ada looked at him across the table.
 
 "Yes."
 
-Ada looked at him a while longer. She got up from the table and went to the dresser and began, very slowly and deliberately, to take down things and wrap them in cloths: the good knife, the salt box, the little brass candlestick that had been her mother's. Packing. Not crying. He'd never seen her cry. He thought, sitting at the table, that perhaps she'd done all her crying before he was born, and had none left.
+Ada looked at him a while longer. She got up from the table and went to the dresser and began, very slowly and deliberately, to take down things and wrap them in cloths: the good knife, the salt box, the little brass candlestick that had been her mother's, the knotted hearth-cord from over the door, which she said had never once kept anything out but she'd not leave it to strangers. Packing. Not crying. He'd never seen her cry. He thought, sitting at the table, that perhaps she'd done all her crying before he was born, and had none left.
 
 "Hob," she said, with her back to him.
 
@@ -428,7 +427,7 @@ Aurveth looked up at it for a long time.
 
 *It will do,* she said.
 
-She went up. Not flying; she couldn't fly that far, not yet. Climbing. She put her great foreclaws into the rock at the foot of the crag and climbed it, slowly, the way a cat climbs a wall, with her wings half open for balance and Calder flat on her neck with his arms round the ridge and his eyes shut. Kharrak came behind, with his good wing out and his torn one tight, cursing in fragments the whole way up. At last they were on the ledge, and in the mouth of the cave, and in the dark, and out of the wind.
+She went up. Not flying; she couldn't fly that far, not yet. Climbing. She put her great foreclaws into the rock at the foot of the crag and climbed it, slowly, with her wings half open for balance and Calder flat on her neck with his arms round the ridge and his eyes shut. Kharrak came behind, with his good wing out and his torn one tight, cursing in fragments the whole way up. At last they were on the ledge, and in the mouth of the cave, and in the dark, and out of the wind.
 
 He slid off Aurveth's neck onto cold stone and lay there.
 
@@ -454,7 +453,7 @@ He was half asleep. He opened his eyes.
 
 Calder sat up.
 
-*And there's a thing,* said Lisska. *On the other side of the stream. In the trees. A cat. A big cat. A huge cat, grey, with all its fur round its head like a cloud, and something round its neck, iron, and it's hurt, it's holding its foot up. It's just standing there. Looking at her. Twenty paces. She's just sitting there. Looking at it. Not moving. Neither of them. Not doing anything at all.*
+*And there's a thing,* said Lisska. *On the other side of the stream. In the trees. A cat. A big cat. A huge cat, grey, with all its fur round its head like a cloud, and something round its neck, iron, and it's hurt, it's holding its foot up. It's just standing there. Looking at her. She's just sitting there. Looking at it. Not moving. Neither of them. Not doing anything at all.*
 
 The cave was very quiet.
 
@@ -472,7 +471,7 @@ Calder looked out of the mouth of the cave, west, over the endless dark sea of t
 
 *Why not?*
 
-He sat in the mouth of the cave and thought about a girl in river grey, alone, with her arm bound up in white, sitting on a stream bank twenty paces from something that had roared like the end of the world. Not doing anything at all.
+He sat in the mouth of the cave and thought about a girl in river grey, alone, with her arm bound up in white, and the thing across the water from her. Not doing anything at all.
 
 *She must be very brave,* said Lisska. *Or very stupid.*
 

@@ -7,6 +7,7 @@ Beats: Maren's first patrol on the River Road with Pell. A roadblock of hard men
 Echo of the other's story: A traveller says the Clan's dead chief has a restless brother and two sons who can't stand each other.
 Status: first draft
 Draft notes: The day after Chapter 3, two days after the raid. New: Sergeant Ottery at Redwatch; Maren's patrol horse, Turnip; the roadblock's sergeant (unnamed, polite, recruits with a look). Plant to resolve later (proposal): on the night of the raid the river-watch boats were ordered in by a rider carrying Greyhold's seal. Someone inside Greyhold kept the river clear for the raiders' barge; proposed payoff, a disillusioned knight recruited by the Restoration who opens Greyhold to it in Part Six. The roadblock's licence from the Ashford magistrate is genuine and explicitly allows holding any beast that matches a stolen-beast description, against a receipt; that's why Pell can't stop the seizure. Rowan's order to let it be comes back by Kesh. The seal clue (who sent the order, and the payoff) stays a working proposal. The thin man at the shrine is deliberately unnamed: proposed to be Corvin Vale (tall, thin, still and patient, neither young nor old, never raises his voice). Keep that description consistent if he returns.
+Magic touches: none by Maren (she casts nothing in Book 1; she blows in Turnip's ear as Ottery did with the boat ponies); the barracks lamp said down at curfew by Wick, so she writes by candle.
 notes -->
 
 ---
@@ -51,9 +52,11 @@ Tobin laughed despite himself. The Darrow girl smiled down at her hound and said
 
 ---
 
+Turnip stopped dead twice before Redwatch. The second time Maren leaned down and blew in his ear, the way Ottery did with the boat ponies, and he walked on, which might have been the breath and might have been that he'd finished thinking.
+
 At Redwatch she asked Pell for leave to water the horses, and Pell looked at her for a moment as if he knew precisely what she wanted, and gave it.
 
-Redwatch was a square tower of red sandstone half a league back from the river, with a boathouse on the bank below it where the river watch kept its long boats. Maren had served out of it for two winters. She knew the smell of it, tar and wet rope and cold stone, before she'd even turned Turnip down the track. Sergeant Ottery was sitting in the boathouse door mending a net with his feet up on a barrel, exactly as she'd left him four years ago, as if he'd been sitting there waiting for her the whole time.
+Redwatch was a square tower of red sandstone half a league back from the river, with a boathouse on the bank below it where the river watch kept its long boats. Maren had served out of it for two winters. She knew the smell of it, tar and wet rope and cold stone, before she'd even turned Turnip down the track. Sergeant Ottery was sitting in the boathouse door mending a net with his feet up on a barrel, exactly as she'd left him two years ago, as if he'd been sitting there waiting for her the whole time.
 
 "Ashdown," he said, without surprise. "Look at you. Nearly a knight."
 
@@ -141,11 +144,11 @@ It was a beast crate, Maren could see that from where she sat: slatted, iron-bou
 
 "Papers," said the square man to the carrier.
 
-The carrier had papers. He had them out before he was asked; he'd been holding them for half an hour. The square man read them slowly. Then he lifted a slat with a knife and looked in. Then he looked at the carrier, kindly, the way a doctor looks at a patient who isn't going to like what he's about to hear.
+The carrier had papers. He had them out before he was asked; he'd been holding them for half an hour. The square man read them slowly. Then he lifted a slat with a knife and looked in. Then he looked at the carrier, kindly.
 
 "This doesn't match," he said.
 
-"It's a marten. It says marten. Bought and paid for in Stillhaven, going to a gentleman in Northwatch village who keeps—"
+"It's a marten. It says marten. Bought and paid for in Stillhaven, going to a gentleman in Northwatch village who keeps…"
 
 "It doesn't match the description." The square man was sorry. You could see he was sorry. "We have a list of beasts reported taken in the raids. This answers to one of them. I'm afraid we'll have to hold it until it can be looked into."
 
@@ -155,7 +158,7 @@ The carrier had papers. He had them out before he was asked; he'd been holding t
 
 They gave him a receipt. Two of them lifted the crate down off the dray, gently, as if it were full of eggs, and carried it round behind the cart, and out of sight among the trees, and the carrier stood in the road with his receipt in his hand and looked at it as if it had been written in Isvaren.
 
-*Against a receipt, until the magistrate has looked into it.* Maren had heard Pell read it out. Every word of what they were doing was in the licence. That was what made it so hard to watch.
+*Against a receipt, until the magistrate has looked into it.* Maren had heard Pell read it out. Every word of what they were doing was in the licence.
 
 Tobin made a sound in his throat. Up at the front of the patrol, Haverly's horse shifted and Haverly stilled it without seeming to notice. The Darrow girl's hound had its hackles up and was making a noise so low you felt it more than heard it, and the girl had her hand on its neck, and her face had gone very white.
 
@@ -167,7 +170,7 @@ She found that her hand was resting on the hilt of her practice sword, and she t
 
 ---
 
-The travellers who'd been let through had stopped a little way down the road, the way travellers do when there's something worth watching, and some of them had come back to stand near the patrol. People liked to stand near knights when there was trouble. It made them feel that something was going to be done.
+The travellers who'd been let through had stopped a little way down the road, and some of them had come back to stand near the patrol. People liked to stand near knights when there was trouble. It made them feel that something was going to be done.
 
 The drovers were Saltreach men, by their voices, bringing the sheep across to the Northwatch fair. One of them was old and talked to anyone, and he had settled himself against the bank near Maren and was talking to Tobin, who was the only one of them who'd talk back.
 
@@ -201,7 +204,7 @@ Maren looked away from him, at the bend, and found the tall thin man by the shri
 
 He'd been looking for a while, she thought. He had a still, patient face, neither young nor old. When she met his eye he didn't look away, the way most people did with a knight, or near-knight. He nodded to her, very slightly, the way you nod to someone you know.
 
-Then he looked at Turnip, with his dried turnip knocking on his bridle, and at her plain practice sword, and at the place at her shoulder where a bonded student would have a beast and she had nothing, and then back at her face. He didn't smile. It wasn't mockery. That was what made it bad. It was recognition. It said: *I know where they put you. I know why.*
+Then he looked at Turnip, with his dried turnip knocking on his bridle, and at her plain practice sword, and at the place at her shoulder where a bonded student would have a beast and she had nothing, and then back at her face. He didn't smile. It said: *I know where they put you. I know why.*
 
 She looked back at him until he turned away.
 
@@ -233,7 +236,7 @@ Maren reined Turnip in and looked at the ruts. Pell stopped beside her.
 
 "I know."
 
-"They're heading for the water. They had a beast in that crate that matched nothing, and they're heading for the water. And the river watch—" She stopped.
+"They're heading for the water. They had a beast in that crate that matched nothing, and they're heading for the water. And the river watch…" She stopped.
 
 "Go on."
 
@@ -251,7 +254,7 @@ He rode on. After a moment, Turnip followed without being asked, which was the f
 
 ---
 
-She wrote it in the barracks by the light of a stub of candle, with Tobin snoring in the next bed and the river talking to itself below the window. She wrote fourteen men, two crossbows, a square man who talked and a thin man who decided. She wrote a crate with a marten in it, or something that answered to the description of something. She wrote a drover's story about a man in two places at once, word for word, as near as she could get it. She wrote a track going north into the trees toward the water.
+She wrote it in the barracks by the light of a stub of candle, because the barracks lamp was said down to a glow at the curfew bell and old Wick would not say it up again for a student, with Tobin snoring in the next bed and the river talking to itself below the window. She wrote fourteen men, two crossbows, a square man who talked and a thin man who decided. She wrote a crate with a marten in it, or something that answered to the description of something. She wrote a drover's story about a man in two places at once, word for word, as near as she could get it. She wrote a track going north into the trees toward the water.
 
 She didn't write Ottery's name, or the rider with Greyhold's seal. She sat with the pen over the paper for a long time, and then she didn't.
 

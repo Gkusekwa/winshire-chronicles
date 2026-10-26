@@ -1,5 +1,7 @@
 # Decisions made while drafting Chapters 21–30 (to carry into the Bible and later chapter notes)
 
+*Historical record; merged into the Bible. The chapter notes and the Bible are current.*
+
 ## Your decisions (world rules)
 - **The lion's size:** about 10 ft at the shoulder in Book 1, towering over people. It grows toward dragon size over the series. Titans are mountain-sized.
 - **The lion's power:** earth and stone, visible elemental magic that grows with its size.
@@ -84,7 +86,7 @@ The collar is still on its neck. Next steps belong in Chapters 31–40.
 ## Story threads
 - **Hob:** he sold Calder's road and hour to the coin man. Calder pulls him out of his burning house; Hob says nothing.
 - **Wren's blue ribbon** is on Lisska's left horn.
-- **Ada's seventh verse:** taught her by her father's mother in her own house, sworn on that hearthstone. Ada has admitted it exists but won't sing it "till I'm sure".
+- **Ada's third verse:** taught her by her father's mother in her own house, sworn on that hearthstone. Ada has admitted it exists but won't sing it "till I'm sure".
 - **The chain:** Calder has told the dragons about it, and about Rook. Kharrak: "Then we'll find out. All of them."
 - **Aurveth's partners:** first unknown; Ragnald Holm (died 61 years ago; she lay a year on Coldtarn's shore, then a year in her cave); Sigrun, chosen at the Roosts about two years after, just come of age, rode her 59 years. Bonded three times before Calder.
 - **Aurveth's memory:** the white bridge, the Oneroad and the fire on the tower. The great grey cat on the tower steps, to which her first partner bowed. She believes "someone has cut it out" of her memory.

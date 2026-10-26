@@ -17,6 +17,7 @@ Draft notes: The long autumn, about days twenty-three to thirty-one. Decided her
   - She can't remember his face, only that he bowed.
 - Kharrak: on day twenty-six news comes up the charcoal road that Ulric's men burned Low Garth and two more west-side farms. He wants to fly to Skarrow and burn it. Calder refuses. They have their first real fight, out loud on the ledge. Calder wins it, barely, by asking Kharrak what Dag would have done; it's a low blow and he knows it.
 - Lisska ranges everywhere: Varrhold (Arn has put Teo's bay in the chief's stall), the coast road, the Reedmarsh. The echo: on day twenty-eight she reports the girl on the island at dusk for the third time, sitting at the stream, the great grey cat on the other side.
+- Magic touches: Ragnald's bees and the hive-charm he never had; Greyhold's lamps that nobody fills, seen from the air.
 notes -->
 
 ---
@@ -31,7 +32,7 @@ Aurveth didn't talk much in the days. She slept, mostly, against the back wall, 
 
 But in the evenings, when the light went red over the Fellwood and the crows came back to the ledges in their hundreds, she'd wake, and lift her head, and look out over the trees. Sometimes she'd talk.
 
-*He kept bees,* she said. *Ragnald. Did Sigrun tell you that? No. She wouldn't have. She was a girl when he died; she remembered him as a great slow man who smelled of smoke and honey and let her sit on my neck. He kept forty hives on the south slope above the hold, and he'd sit among them in the summer with no veil and no gloves and talk to them, and they never stung him. Not once. Forty years.*
+*He kept bees,* she said. *Ragnald. Did Sigrun tell you that? No. She wouldn't have. She was a girl when he died; she remembered him as a great slow man who smelled of smoke and honey and let her sit on my neck. He kept forty hives on the south slope above the hold, and he'd sit among them in the summer with no veil and no gloves and talk to them, and they never stung him. Not once. Forty years. Sigrun's mother swore he'd bought a hive-charm off some old woman in the hills. He hadn't. He just talked to them.*
 
 "Did you like him?"
 
@@ -65,7 +66,7 @@ The great head turned toward him in the dark, slowly, and the one eye looked at 
 
 Kharrak didn't want to hear about Sigrun. He didn't want to hear about anybody. Kharrak wanted Ulric's men dead.
 
-It had been coming for days. Calder had felt it, through the rust-red mark, building, the way you feel weather building in the hills on a summer afternoon: a weight, a heat, a pressure behind the eyes. Ever since the flying came back. Kharrak would go out at first light and fly for hours, east, west, far off over the hills, further than his voice could reach, and come back at noon with his scales hot from the sun and his mind full of red.
+It had been coming for days. Calder had felt it, through the rust-red mark, building like weather in the hills on a summer afternoon: a weight, a heat, a pressure behind the eyes. Ever since the flying came back. Kharrak would go out at first light and fly for hours, east, west, far off over the hills, further than his voice could reach, and come back at noon with his scales hot from the sun and his mind full of red.
 
 It came to a head the day Calder brought the news up the charcoal road.
 
@@ -117,9 +118,9 @@ Calder hadn't known that. He felt it come through the mark, Kharrak's knowing it
 
 "What would Dag have done?"
 
-He knew, as he said it, that it was a low blow. He felt it land. He felt Kharrak go still, all at once, the whole red tide of him stopping, the way a wave stops when it hits a wall. And under it, something else. The thing that had come up on the ledge when Aurveth said *whose side would you like to be on.* The thing that was much worse than rage.
+He knew, as he said it, that it was a low blow. He felt it land. He felt Kharrak go still, all at once, the whole red tide of him stopping. And under it, something else. The thing that had come up on the ledge when Aurveth said *whose side would you like to be on.* The thing that was much worse than rage.
 
-Calder hated himself. He said it anyway.
+He said it anyway.
 
 "You knew him. I only had the last of him, in the field. You had all of it. Thirty years." He kept his voice very steady. "So tell me. What would Dag Rorke have done? If someone came to him and said: there's a hold full of people a morning's flight off, and half of them have done nothing, and you could fly over it at noon and burn them all. What would he have said?"
 
@@ -265,13 +266,13 @@ She climbed. Slowly. Long hard strokes, her back pulling, and he felt it through
 
 He saw the river.
 
-It lay across the bottom of the world like a sword. Silver. Wide. Going away north and south as far as he could see. On the other side of it, the Hearthmere bank, dark, with a few lights, and far downstream the long low glow of Greyhold's wall.
+It lay across the bottom of the world like a sword. Silver. Wide. Going away north and south as far as he could see. On the other side of it, the Hearthmere bank, dark, with a few lights, and far downstream the long low glow of Greyhold's wall, where the lamps burned all night and nobody ever filled them.
 
 And in the middle, the island.
 
 *There,* said Aurveth.
 
-She went down toward it. Not fast. A long slow slant, out of the high cold air, down over the last of the Fellwood and the hills and the fields of the Saltreach bank, over Harrow's End, dark, with a light in one window of a farmhouse on the slope that he couldn't look at, and out over the river. Over the island. High. So high the island was a long dark leaf on the silver water below, with nothing joining it to either bank.
+She went down toward it. A long slow slant, out of the high cold air, down over the last of the Fellwood and the hills and the fields of the Saltreach bank, over Harrow's End, dark, with a light in one window of a farmhouse on the slope that he couldn't look at, and out over the river. Over the island. High. So high the island was a long dark leaf on the silver water below, with nothing joining it to either bank.
 
 She began to circle.
 

@@ -17,6 +17,7 @@ Draft notes: Days 50–53. She writes the report on the night of day 50, back at
 - The same report says Vale spoke on the Tidesteps at Wendmouth at noon on the day of Ferriby. Hale files it under the old "two places at once" story the river has told for years. Maren lets it go.
 - Why Hale fears the farmer: "because he's three", and the archive's old books say that when the old signs all come at once, the last time it was so… He stops. It's about omens, not about another man with three bonds.
 - The opening goes straight into the report; the archive door's carved line is seen on her way out.
+- Magic touches: the archive lamp burning white with nothing in it; a ring of hooked letters round the black door's keyhole (Hale reads it as a ward in Chapter 51).
 notes -->
 
 ---
@@ -95,7 +96,7 @@ He turned the pages of the black book with one big finger, not reading them, and
 
 She'd never looked properly at the far end. The archive went back a long way under the north tower, stack after stack of books and boxes and ledgers, sideways through the narrow gaps, into the dark beyond the reach of the lamp. She'd thought it just went on. But she followed his eyes now, and saw that it didn't. It ended. At the very back, past the last stack, there were three stone steps going down. And at the bottom of them, set into the old grey wall of the tower's foundation, there was a door.
 
-Low. Black. Oak, so old it had gone the colour of iron, and bound across with real iron in three great bands. No handle. Only a lock: an iron plate as big as a man's hand, with a keyhole in the middle of it, deep and dark.
+Low. Black. Oak, so old it had gone the colour of iron, and bound across with real iron in three great bands. No handle. Only a lock: an iron plate as big as a man's hand, with a keyhole in the middle of it, deep and dark. Round the keyhole, worn nearly smooth, ran a ring of small square letters with hooks at the ends of the strokes.
 
 Hale was looking at it.
 
@@ -113,7 +114,7 @@ He told her the rest of it now.
 
 "There's no date at the top," he said. He turned the black book round on the table so she could see. The first page. The heading, *Watch*, in its square spare letters with their little hooks. And above it, in the same hand, small, a line she hadn't noticed before. "There's no year. No king's name. Nothing to say when it was begun. Only that."
 
-She leaned over it. She traced the letters in her mind, slowly, the way her father had traced the milestone.
+She leaned over it. She traced the letters in her mind, slowly.
 
 "*From the…*" She stopped. Tried again. "*From the closing.*"
 
@@ -149,7 +150,7 @@ He stopped.
 
 ---
 
-The archive was very quiet. Somewhere far above them, up through three floors of stone, a bell was ringing in the yard, faint, for the change of watch. The lamp hissed over the table.
+The archive was very quiet. Somewhere far above them, up through three floors of stone, a bell was ringing in the yard, faint, for the change of watch. The lamp over the table burned on, white and steady, with nothing in it to burn.
 
 Hale sat with his mouth still a little open on the word he hadn't said.
 
@@ -185,7 +186,7 @@ She went to the island that night.
 
 She hadn't meant to. She'd gone to her muck, and done it, thirty-one stalls by lantern light, and been to supper, and sat on her cot in the dormitory with the shutters closed and the others asleep. And she'd thought about the door at the end of the archive, black oak and iron, with no handle. And the line at the top of the first page. *From the closing.* And the mark beside each name. A square, with a line through it. *Like a door.*
 
-She'd got up, and put her coat on, and gone down to the landing.
+She'd got up, and put her coat on, and gone out the postern and up the River Road to Redwatch.
 
 Ottery was there with the punt. She hadn't sent for him. He was just there, at the bottom of the steps, sitting in the stern in the dark with his pipe.
 
@@ -227,7 +228,7 @@ She sat on the bank of the stream on the island with the lion lying fifteen pace
 
 The lion lifted its head.
 
-She saw it. It lifted its head, sharply, the way a dog does when it hears its name called in another room, and turned it. Not toward her. Away. South-west, downriver, across the dark of the west channel and the Hearthmere bank beyond it. Toward Greyhold.
+She saw it. It lifted its head, sharply, like a dog hearing its name, and turned it. Not toward her. Away. South-west, downriver, across the dark of the west channel and the Hearthmere bank beyond it. Toward Greyhold.
 
 It held it there. Ears forward. Eyes on the dark.
 
@@ -269,13 +270,11 @@ He'd said it with relief. She'd heard it. Real relief, deep and simple, like a m
 
 Shame.
 
-He sat on the bench in the cold sun with his stick across his knees and looked at the yard, and was ashamed of being glad.
-
 "Why?" she said.
 
 He didn't answer.
 
-"Why are you glad he's gone?" she said. "He saved Harrow's End, the scouts say. He got children off a roof. He stopped the fighting. Twenty of our knights sat on the bank and watched, and he crossed." She heard her voice go hard. "Why would anybody be glad he's gone?"
+"Why are you glad he's gone?" she said. "He saved Harrow's End, the scouts say. He got children off a roof. He stopped the fighting. Twenty of our knights sat on the bank and watched, and he came." She heard her voice go hard. "Why would anybody be glad he's gone?"
 
 Hale didn't look at her.
 

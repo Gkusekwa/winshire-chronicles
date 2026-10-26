@@ -16,6 +16,8 @@ Draft notes: Days one hundred and three to one hundred and five. Decided here (p
 - She doesn't go away. She goes down into the pit, slowly, and sits on the fill at the edge of the dressed stone at ten paces, while it digs. When it stops and looks at her, she says, out loud, "We did it. We did that to yours." It can't understand. She says it anyway. It looks at her a long time and goes back to digging, and she stays.
 - The echo: night 105, from the top of Redwatch, the patrol sees fire on the far bank, above Harrow's End, in the hills: dragon-fire, three sources, and torches scattering. Pell: "They've come for him." Ottery: "And they're not getting him." Pell writes it down. The knights don't move.
 - Maren doesn't tell Rowan about the pit. Her report says the beast keeps to the north end and digs. That's true. It's the third thing she's kept back.
+- Magic touches: Redwatch's warming-stone (Chapter 41) cold on the shelf for a fortnight; every tower on the river burning oil lanterns now.
+- Revision (proposal): Orrun's multiplication, first glimpse (unconscious, before the bond). When the chain moves far below, the lion throws itself at the stone and for one breath a second lion-shape of grey fill heaves up beside it and falls back. Maren tells herself the bank slumped. Not mentioned in her report.
 notes -->
 
 ---
@@ -32,7 +34,7 @@ They went up on the wall. Everybody did. Students in their nightshirts with cloa
 
 It was across the river.
 
-East, on the Saltreach bank, upriver of Tolly's Staithe, below the long bend at Harrow's End. Three leagues off, perhaps. A glow on the clouds. Orange, low down, and under it, on the far bank, at the mouth of some valley that came down to the river, fire. A lot of it. A whole hillside burning in the dark, so bright that it lit the ice of the Wend in front of it and threw shadows of the reeds.
+East, on the Saltreach bank, upriver of Tolly's Staithe, below the long bend at Harrow's End. Two leagues, perhaps. A glow on the clouds. Orange, low down, and under it, on the far bank, at the mouth of some valley that came down to the river, fire. A lot of it. A whole hillside burning in the dark, so bright that it lit the ice of the Wend in front of it and threw shadows of the reeds.
 
 "What is it?" somebody said. "What's burning?"
 
@@ -44,7 +46,7 @@ Haverly was beside her on the wall. Kesh was on his fist, unhooded, with her fea
 
 Nobody on the wall said anything to that. Nobody said the name.
 
-Maren stood on the wall in the cold and watched the hillside burn, and everybody round her thought it, and nobody said it.
+Maren stood on the wall in the cold and watched the hillside burn.
 
 ---
 
@@ -60,7 +62,7 @@ Rowan was at the window. She didn't turn round. She was looking out over the riv
 
 "Captain."
 
-Rowan turned round. She looked the same as always. Small and neat in her grey coat buttoned to the throat, with her iron-grey hair cut short and her quiet face that never moved. She looked at Maren for a long moment, the way she'd looked at her across the yard on midwinter morning with the paper folded in her coat.
+Rowan turned round. She looked the same as always. Small and neat in her grey coat buttoned to the throat, with her iron-grey hair cut short and her quiet face that never moved. She looked at Maren for a long moment.
 
 "You'll go to Redwatch," she said. "Today. With Pell's patrol. Pell is to watch the island from the tower, day and night, and from the ice, and to report to me what's on it and what it does." She paused. "You'll go closer than anybody else. You've been closer than anybody else since the summer. Everybody in this school knows it, and so do I. You'll go as close as you've been, and you'll tell me what it does."
 
@@ -82,7 +84,7 @@ Hale sent for her before she could.
 
 She was in the Long Barn saddling Turnip when the boy came. *The Warden.* She tied Turnip short and went across the yard and down the north tower stair, and the cat wasn't on the bottom step. It hadn't been there since the night of the door.
 
-Hale was at the long table, under the brass lamp, with the black book open in front of him. Not at the list. At the very front, before the first page, where the boards were. He'd opened it wide, so wide the spine cracked, and he had a little reading glass in his hand that she'd never seen him use.
+Hale was at the long table, under the brass lamp, with the black book open in front of him at the very front, before the first page, where the boards were. He'd opened it wide, so wide the spine cracked, and he had a little reading glass in his hand that she'd never seen him use.
 
 "Come here," he said. "Look."
 
@@ -94,7 +96,7 @@ He'd opened it at the place he'd told her about. Where the oldest pages had been
 
 She bent over it with the glass.
 
-The fourth stub was a little wider than the others. Whoever had cut it had let the knife wander at the bottom, the way a knife does when you're tired, or frightened, or in a hurry. In the bottom corner of it, where the knife had wandered, there was ink. A fragment. A curve, drawn in brown, and another curve, and lines.
+The fourth stub was a little wider than the others. Whoever had cut it had let the knife wander at the bottom. In the bottom corner of it, where the knife had wandered, there was ink. A fragment. A curve, drawn in brown, and another curve, and lines.
 
 The edge of a drawing.
 
@@ -178,7 +180,7 @@ And at the bottom of the pit, in the grey fill, the lion was digging.
 
 She stood at the top of the bank in the dusk and watched it.
 
-It dug the way a dog digs, with its forefeet, one and then the other, throwing the earth back under its belly in great sprays. But it stood ten feet at the shoulder, and its forefeet were each as broad as a round shield, and every stroke tore out more earth than she could have shifted in an hour with a spade. The ground answered it. She felt it. Each time a forefoot went in, the ground round the pit shook, and the frozen banks shed little falls of earth, and the hum came up through her boots stronger. The earth was helping it. Moving for it. Loosening ahead of its claws the way snow loosens on a roof before it slides.
+It dug the way a dog digs, with its forefeet, one and then the other, throwing the earth back under its belly in great sprays. But it stood ten feet at the shoulder, and its forefeet were each as broad as a round shield, and every stroke tore out more earth than she could have shifted in an hour with a spade. The ground answered it. She felt it. Each time a forefoot went in, the ground round the pit shook, and the frozen banks shed little falls of earth, and the hum came up through her boots stronger. The earth was helping it. Moving for it. Loosening ahead of its claws like snow on a roof before it slides.
 
 It didn't look up. It didn't know she was there, or it didn't care. It dug.
 
@@ -190,7 +192,7 @@ She went down.
 
 She didn't decide to. She found herself going sideways down the raw bank on her heels with her hand on the frozen earth, the way you'd go down into a quarry. Rowan had said *no further than you've been.* She'd never been here. She went down anyway.
 
-She stopped on a ledge of grey fill a few paces above the bottom, ten paces from the lion, and crouched there, and looked.
+She stopped on a ledge of grey fill a few paces above the bottom, not far from the lion, and crouched there, and looked.
 
 The stone was dressed. Square blocks, cut and set, fitted close. Grey. Old. The edges worn round. Each block the size of a cart. She knew them. She'd looked at them every noon for two years in the yard at Greyhold without ever seeing them, and then, a week ago, in the noon light, she'd seen them. The same stone. The same grey, the same size, the same frost in the seams.
 
@@ -200,7 +202,7 @@ The lion had dug down through the fill and found the top of something built of t
 
 Toward Greyhold.
 
-It was scraping at the stone with its claws. Slowly, now. Not digging any more. Scraping. Long strokes, one and then the other, the claws grating on the old grey blocks, as if it could get through them by wanting to. It couldn't. The stone didn't give. There were pale scratches all over the top of it, hundreds of them, where it had been scraping at it for days. For weeks. All winter.
+It was scraping at the stone with its claws. Slowly, now. Long strokes, one and then the other, the claws grating on the old grey blocks, as if it could get through them by wanting to. It couldn't. The stone didn't give. There were pale scratches all over the top of it, hundreds of them, where it had been scraping at it for days. For weeks. All winter.
 
 The pit hadn't been dug, and filled, and dug again by anybody else. It had been dug by the lion. Over and over. In the summer before the hunters came. In the autumn. Now. Every time it came back to the old place and dug.
 
@@ -240,13 +242,13 @@ It stood at the bottom of the pit with its forefeet on the old grey stone and it
 
 It turned its head, and looked at her.
 
-It had known she was there. Of course it had. It had known from the moment she came through the oaks. It turned its great broad scarred head and looked at her with its pale eyes across ten paces of grey earth, in the bottom of the pit it had dug, with its feet on the stone over its kin, and it didn't move toward her and it didn't move away.
+It had known she was there. Of course it had. It had known from the moment she came through the oaks. It turned its great broad scarred head and looked at her with its pale eyes across the grey earth, in the bottom of the pit it had dug, with its feet on the stone over its kin, and it didn't move toward her and it didn't move away.
 
 She looked back.
 
-She'd been afraid of it. For months. She'd been afraid of it on the shore with the hunters, and on the spit with the chisel, and at the stream when it came at her and the ground opened under her feet. It had hit her. It had broken her ribs. It had stood over her with its foot on her chest and she'd known she would die. She'd stopped being afraid of it some time in the autumn. Some time between the arch and the ice.
+She'd been afraid of it for months. It had broken her ribs. It had stood over her with its foot on her chest. She'd stopped being afraid of it some time in the autumn, between the arch and the ice.
 
-What she felt now was shame. Ashamed in front of it, the way you'd be ashamed in front of a person. She didn't know you could be ashamed in front of a beast.
+She couldn't look at its feet. She made herself.
 
 "We did it," she said.
 
@@ -256,7 +258,7 @@ Out loud. Into the pit. Her voice sounded thin and strange in the cold.
 
 The lion looked at her.
 
-It couldn't understand a word. She knew that. It heard noise, the way it heard the wind. It stood in the bottom of the pit with its feet on the stone and looked at her across ten paces, with the steam going up off its back, and she couldn't tell what it was thinking. She'd never been able to tell. There was no thread between them. Nothing for anything to go down.
+It couldn't understand a word. It stood in the bottom of the pit with its feet on the stone and looked at her, with the steam going up off its back, and she couldn't tell what it was thinking. She'd never been able to tell. There was no thread between them. Nothing for anything to go down.
 
 It looked at her.
 
@@ -264,11 +266,17 @@ It turned back to the stone, and lowered its head, and began to scrape again. On
 
 She stayed.
 
-She sat on the ledge of grey fill in the bottom of the pit, ten paces off, in the dark, while it scraped. She didn't light the lantern. She didn't go. She sat with it in the cold with her knees drawn up and listened to its claws on the stone, and the ground humming, and once, so far down she wasn't sure she'd heard it, iron drawing over stone, link over link.
+She sat on the ledge of grey fill in the bottom of the pit, in the dark, while it scraped. She didn't light the lantern. She didn't go. She sat with it in the cold with her knees drawn up and listened to its claws on the stone, and the ground humming, and once, so far down she wasn't sure she'd heard it, iron drawing over stone, link over link.
 
 The lion stopped when it heard that. It went very still, with its head down against the stone, listening.
 
-Then it went on scraping.
+Then it threw itself at the stone. Both forefeet, all its weight, and the ground came with it. On the far side of it from her, the fill heaved up into a hump as high as its shoulder, and the hump had a shape. A back. A head, bowed to the stone the way the lion's was. For the space of a breath there were two of them at the bottom of the pit, one of grey hide and one of grey earth.
+
+Then the earth fell in on itself and ran back down into fill, and there was only the lion, with its flanks going.
+
+She stayed where she was on the ledge. The bank had slumped, she told herself. Banks did, when you shook them hard enough. She'd seen a cutting slump on the River Road in a thaw once, and for a moment, in the rain, it had looked like a man.
+
+The lion went on scraping.
 
 She sat with it until Ottery's lantern came swinging through the oaks at full dark, calling her name.
 
@@ -276,7 +284,7 @@ She sat with it until Ottery's lantern came swinging through the oaks at full da
 
 Her report said the beast kept to the north end of the island, and dug.
 
-That was true. Every word of it. She wrote it at the guardroom table in the Redwatch tower by candlelight, with Pell reading over her shoulder, and he nodded and initialled it and sent it to Greyhold with the morning rider.
+That was true. Every word of it. She wrote it at the guardroom table in the Redwatch tower by candlelight. On the shelf over the hearth sat the warming-stone Ottery had put in her lap after the ice. It had been cold a fortnight, and nobody had moved it. Pell read it over her shoulder and nodded and initialled it and sent it to Greyhold with the morning rider.
 
 It didn't say anything about the stone.
 
@@ -286,7 +294,7 @@ Three things. She'd never kept anything from anybody in her life. Not from Liss.
 
 She was a liar now. She lay there in the dark and made herself think the word.
 
-She didn't feel sorry. That was the strange part. She felt something, but it wasn't sorry. She thought of the lion standing in the pit with its feet on the stone and its head down, listening to its kin move in the dark under a mile of rock, and she thought: *Rowan's not having that. Not that. Not from me.*
+She thought of the lion standing in the pit with its feet on the stone and its head down, listening to its kin move in the dark under a mile of rock, and she thought: *Rowan's not having that. Not that. Not from me.*
 
 ---
 
@@ -314,7 +322,7 @@ Ottery had come up the stair behind them. He stood at the parapet in his old coa
 
 They watched it. The fire coming and going in the hills. The torches scattering down the slopes toward the river lane, and stopping, and going out, one by one. Then only the fire, dying down on the snow in long black-and-orange smears. Then nothing.
 
-On the Hearthmere bank nobody moved. The patrol on the ice below the tower sat their horses at the edge of the reeds and watched. Up and down the river, at every tower, the lanterns burned, and nobody went out on the ice, and nobody crossed.
+On the Hearthmere bank nobody moved. The patrol on the ice below the tower sat their horses at the edge of the reeds and watched. Up and down the river, at every tower, the lanterns burned, oil ones now, every one, and nobody went out on the ice, and nobody crossed.
 
 Pell went down to the guardroom and wrote it in the report. *Fire on the Saltreach bank above Harrow's End, near midnight. Dragon-fire, three sources. A body of men, perhaps a hundred, with torches, put to flight.* He wrote it neatly, in his square hand, the way he wrote everything.
 

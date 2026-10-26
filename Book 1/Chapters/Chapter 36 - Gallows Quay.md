@@ -24,6 +24,7 @@ Draft notes: Days 50–51. Decided here (proposals):
 - Lisska, five leagues off, can't send words; she feels him stop at the unicorn's pen and sends only a jolt of wanting-to-know.
 - The echo: as he leaves on the drove road, a carter at the ford tells him what a stall-holder from the quay is shouting to the carters about "first some Hearthmere knight-girl smashing locks at Millbrook, and now the Marches farmer: is nobody's property safe?"
 - He leaves the feather. He doesn't take what isn't his. Mabbin is Joss's.
+- Magic touches: a charm-seller among the cages with "warranted" charms against bite and claw; the drover's standing-word said over Mabbin to make her lead quiet.
 notes -->
 
 ---
@@ -78,7 +79,7 @@ He stood at the pen on Gallows Quay with his hand on her neck and his eyes shut.
 
 A man at his elbow. A drover, by the look of him, with a stick and a ticket-book. Pleasant, busy, impatient.
 
-"Fine mare, that," said the drover. "Marches-bred. Dray-beast. You'll not find better pulling. Bit thin, but she'll fatten. Lot thirty. Goes at noon." He looked Calder up and down, the hat, the coat, the burned-out boots. "Reserve's forty silver."
+"Fine mare, that," said the drover. "Marches-bred. Dray-beast. You'll not find better pulling. Bit thin, but she'll fatten. Had the standing-word said over her this morning, so she'll lead like a lamb. Lot thirty. Goes at noon." He looked Calder up and down, the hat, the coat, the burned-out boots. "Reserve's forty silver."
 
 "Where'd she come from?"
 
@@ -96,7 +97,7 @@ The drover's face didn't change at all. "Marches," he said. "Like I said."
 
 He moved along. He walked the whole quay, end to end, the way you'd walk Cotter's Cross on market day, looking at everything. He made himself.
 
-It was all cages. Pens, for the big ones. Iron cages for the dangerous ones. Wire boxes, stacked three high, for the small. Down both sides of the quay and along the middle, under awnings, with men standing by them shouting prices and men walking past them looking, and the noise of the beasts going up into the grey sky over the harbour, barking and howling and bellowing and screaming, so that the gulls kept away.
+It was all cages. Pens, for the big ones. Iron cages for the dangerous ones. Wire boxes, stacked three high, for the small. Down both sides of the quay and along the middle, under awnings, with men standing by them shouting prices and men walking past them looking, and the noise of the beasts going up into the grey sky over the harbour, barking and howling and bellowing and screaming, so that the gulls kept away. Between the cages a man with a tray round his neck went up and down selling charms against bite and claw, warranted, he said, with the Council's stamp, and the buyers bought them the way you'd buy a pie.
 
 He saw the hounds. A dozen of them, in iron cages, thin and frightened and scarred. He saw martens going round and round in their wire. He saw the white humped ox from the evening he'd come, lying on its side in a cage too small for it, with its eyes shut and its great sides going in and out. He saw birds, hawks and falcons, hooded, on perches. He saw a cage with a sea-otter in it the size of a pony.
 
@@ -204,9 +205,9 @@ It was shuttered. The shutter didn't fit. There was a crack at the edge of it, a
 
 A smell.
 
-He stopped in the passage. He knew it. He'd never smelled it in his life, and he knew it, the way you know a voice in the dark. Sweet. Heavy. Like honey burned in a pan, and under it something sharper, like crushed leaves. It came out through the crack in the shutter in a thin grey thread and went up the passage and into his nose and the back of his throat, and his head went slow and thick for a moment, the way it does when you stand up too fast.
+He stopped in the passage. Sweet. Burned. He knew it, and couldn't think from where. It came out through the crack in the shutter in a thin grey thread and went up the passage and into his nose and the back of his throat, and his head went slow and thick for a moment.
 
-He couldn't think where he knew it from. It sat at the back of his throat like a word he couldn't find.
+It sat at the back of his throat like a word he couldn't find.
 
 He put his eye to the crack.
 
@@ -276,7 +277,7 @@ Gallows Quay at night was dark, and quiet, and stank. The cages were still full;
 
 There was a man on the quay. One. A watchman, with a lantern and a cudgel, walking up and down slowly by the cages, the way Calder had walked his own byre at night in lambing time. He walked up the quay and down it and up again, and every time he got to the landward end he stopped by a brazier there and warmed his hands. Calder watched him do it three times from the shadow of a fish-shed.
 
-On the fourth time, while the man stood at the brazier with his back to the quay, Calder went past him in the dark with the bar on his shoulder, quietly, along the edge of the water, the way Lisska went between trees.
+On the fourth time, while the man stood at the brazier with his back to the quay, Calder went past him in the dark with the bar on his shoulder, quietly, along the edge of the water.
 
 ---
 
@@ -428,9 +429,9 @@ Calder sat at the ford and watched him go.
 
 He thought about the unicorn colt at the end of the quay, by the brazier, looking back.
 
-He thought about the phoenix feather, burning slowly on its cushion behind the warm glass. He'd gone past it twice, last night, with the capstan bar in his hand. He could have put the bar through the window. He'd thought about it. And he'd thought about a girl in river grey on a stream bank, with a knife in her hand and a lock of mane within reach, putting the knife away.
+He thought about the phoenix feather, burning slowly on its cushion behind the warm glass. He'd gone past it twice, last night, with the capstan bar in his hand. He could have put the bar through the window. He'd thought about it. And he'd thought about a girl in river grey on a stream bank, who could have taken a hair or a claw home and wouldn't.
 
-*It would have been stealing.*
+*Like robbing it,* Rue had said.
 
 He'd left the feather. Mabbin was Joss's. The feather wasn't anybody's. It was the phoenix's, and the phoenix hadn't sold it.
 

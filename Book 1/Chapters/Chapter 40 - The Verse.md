@@ -16,17 +16,18 @@ Draft notes: Days 65–72. Decided here (proposals):
 - Lisska sheds a wing scale on the hill on day 72, as broad as a round shield and thin as slate, still warm. Calder keeps it inside his coat. (It is the warm scale Maren finds in Chapter 43.)
 - The decision: Calder will go to the Old Ruin alone and on foot. Three dragons landing on an island in plain sight of Greyhold's wall would bring the knights. The dragons go still at the thought of it, and Aurveth is afraid. The river is in winter spate with ice running; no boat will cross. When it freezes from the edges in, he'll walk.
 - Echo: Lisska, ranging, reports the girl and the great grey cat at the ruin most days now, and that the cat crossed to the girl's side of the stream.
+- Magic touches: Hollin ties another red-thread knot on his gatepost against the dragons on the hill; Ada's grandmother's hearth-words over Bel's banked fire.
 notes -->
 
 ---
 
-There's a game Clan children play in the hatching caves, Teo had told him once, on the cliff path, laughing. They play it in the dark, by touch. Someone carves a letter in a bit of soft stone with a nail, and passes it round, and you have to say what it is with your eyes shut, by running your fingers along it. Most of them are no good at it. Teo had been terrible. *I'd get a T and say it was an S,* he'd said. *Every time.* But the young dragons in the caves would watch the children play, and the riders swore some of them learned the letters better than the children did. Just by watching. Without ever touching a stone.
+There's a game Clan children play in the hatching caves, in the dark, by touch. Someone carves a letter in a bit of soft stone with a nail, and you have to say what it is with your eyes shut. The young dragons watch, and the riders swear some of them learn the letters better than the children do. Without ever touching a stone.
 
 ---
 
 He sent them north on the sixty-fifth day.
 
-It had to be done. He knew it. He'd known it since Wat Garrow's fire. *You'll not stop here. You can't. Not with them.* Joss and Bel's was a farm in a hollow above the river, with a paddock and two dray-mares and the black ribs of the barns that had burned in the summer, and two children, and every day three dragons lay up in the bracken on the hill above it, and every day Hollin on the next farm stood at his gate and looked up at the hill and went in and shut the door. Sooner or later somebody would walk to Cotter's Cross and look at the paper on the market cross. Two hundred silver. Sooner or later a soft-spoken man in a good coat would come to Bel's gate and ask very politely.
+It had to be done. He knew it. He'd known it since Wat Garrow's fire. *You'll not stop here. You can't. Not with them.* Joss and Bel's was a farm in a hollow above the river, with a paddock and two dray-mares and the black ribs of the barns that had burned in the summer, and two children, and every day three dragons lay up in the bracken on the hill above it, and every day Hollin on the next farm stood at his gate and looked up at the hill, and tied another knot of red thread on his gatepost, and went in and shut the door. Sooner or later somebody would walk to Cotter's Cross and look at the paper on the market cross. Two hundred silver. Sooner or later a soft-spoken man in a good coat would come to Bel's gate and ask very politely.
 
 *There are caves,* Aurveth said. *In the high Scarfell. Above Coldtarn. The old hatching caves. The Clan used them before they built the new ones under the hold, a hundred years ago, and nobody has been in them since. I was hatched in one of them.* A long pause. *I think.*
 
@@ -46,13 +47,13 @@ He looked at Aurveth. Aurveth looked at the sky.
 
 *Once,* she said. *High. And then north.*
 
-They went at dusk. He stood in Bel's yard with Wren and watched them go up over the hill, one after another, the bronze and the red and the green, into the last of the light. He felt them go away from him, downriver first, toward the island, and then turn, and go north, and grow faint, and fainter, until their voices were gone and there was only the feeling, like a fire through a wall.
+They went at dusk. He stood in Bel's yard with Wren and watched them go up over the hill, one after another, the bronze and the red and the green, into the last of the light. He felt them go away from him, downriver first, toward the island, and then turn, and go north, and grow faint, and fainter, until their voices were gone and there was only the feeling.
 
 ---
 
 They came back on the fourth day.
 
-He felt them coming before dawn, a long way off, the voices coming in faint and getting louder, the way you hear a cart coming up a long road in the dark. Lisska first, as always. Then Kharrak. Then, last and slowest and nearest the ground, Aurveth.
+He felt them coming before dawn, a long way off, the voices coming in faint and getting louder. Lisska first, as always. Then Kharrak. Then, last and slowest and nearest the ground, Aurveth.
 
 *We found them,* said Lisska. *The caves. Above the black water. They're huge. Huge. Bigger than the one at Crow Scar. Lots of them. All joined up inside. Dry. With old bones in them, dragon bones, little ones, baby ones, from the hatching.* A pause. *Aurveth went very quiet in there.*
 
@@ -84,7 +85,7 @@ He told them. Ada was very still.
 
 He went still.
 
-*I couldn't read it,* said Lisska. *Neither could Imra. It's the old letters. The square ones. With the little hooks.* A pause. *But I looked at it. For a long time. While Imra was walking about. I looked at every bit of it.* Another pause. *I remember everything.*
+*I couldn't read it,* said Lisska. *Neither could Imra. It's the old letters. The square ones. With the little hooks.* A pause. *But I looked at it. For a long time. While Imra was walking about. I looked at every bit of it.*
 
 ---
 
@@ -126,7 +127,7 @@ He felt her see the letters.
 
 He felt her know them.
 
-Not the way you know something you learned. The way you know your own hand. Your own name. The way you know the shape of the roof of the cave you were hatched in. She looked at the square letters with their little hooks in Lisska's memory of a summer night nine years ago, and the words came up in her by themselves, like water coming up in a footprint.
+Not the way you know something you learned. The way you know your own hand. The way you know the shape of the roof of the cave you were hatched in. She looked at the square letters with their little hooks in Lisska's memory of a summer night nine years ago, and the words came up in her by themselves, like water coming up in a footprint.
 
 *Here the road of the one realm crossed the water,* said Aurveth.
 
@@ -162,7 +163,7 @@ Outside, against the wall, he could feel Lisska. Shaking. Through the green mark
 
 "I know."
 
-And from the hill, from the bracken, faint, Aurveth. Not slow now. Not deep. Something else. He'd heard it once before, in the cave at Crow Scar, when she said *I am forgetting him.*
+And from the hill, from the bracken, faint, Aurveth, with something in her voice he'd heard once before, in the cave at Crow Scar, when she said *I am forgetting him.*
 
 *I could read it,* said Aurveth. *I could read it as if I had carved it. Every word. I know those letters better than I know the hold. Better than I know Ragnald's bees.* A long breath. *And I don't know why. And I don't know who taught me. And I don't know when.*
 
@@ -204,7 +205,7 @@ Ada put her cup down. Her hands were shaking.
 
 ---
 
-He lay awake that night on the floor of Bel's kitchen, in front of the banked fire, with Wren asleep against him and the three of them on the hill.
+He lay awake that night on the floor of Bel's kitchen, in front of the banked fire, which his mother had said the hearth-words over before she went up, her grandmother's words, so it would still be red at dawn. Wren was asleep against him. The three of them were on the hill.
 
 *The last great one sleeps below the stone.*
 
@@ -216,13 +217,13 @@ He thought about the girl in river grey, sitting on the stream bank, with someth
 
 He thought about Vale on the Tidesteps, with his hands on the iron rail and his grey eyes going over the crowd. *One of them is built on a lie so old, and so big, and so deep, that when it comes out, the ground will shake.*
 
-He thought about his own question. The one he'd asked them at Crow Scar, in the dark, with the rain on the rock. The one nobody could answer. Not Kharrak. Not Lisska. Not Aurveth, who was three hundred years old and had been bonded three times before him and had never heard of anything like it.
+He thought about his own question. The one he'd asked them at Crow Scar, in the dark, with the rain on the rock. The one nobody could answer, not even Aurveth, who was three hundred years old and had been bonded three times before him and had never heard of anything like it.
 
 *Why me?*
 
 *You were open,* Aurveth had said. *Like a door standing wide in a storm.*
 
-He lay on the floor of Bel's kitchen and thought: *nobody knows. Not the Clan. Not the hold. Not the knights. Not anyone alive. Nobody has ever held three. Not since the six.*
+He lay on the floor of Bel's kitchen and thought: *nobody knows. Not anyone alive. Nobody has ever held three. Not since the six.*
 
 *Except in the songs,* Vale had said. *Except in the old realm.*
 
@@ -282,7 +283,7 @@ There was a silence on the hill.
 
 "Yes."
 
-Kharrak didn't say anything else. He lay in the frozen bracken with his head down on his forelegs and the red tide going round and round in him, and Calder felt it, and under it, the other thing. The thing joy is afraid of losing.
+Kharrak didn't say anything else. He lay in the frozen bracken with his head down on his forelegs and the red tide going round and round in him, and Calder felt it, and what was under it.
 
 *I hate you,* said Kharrak, very low.
 

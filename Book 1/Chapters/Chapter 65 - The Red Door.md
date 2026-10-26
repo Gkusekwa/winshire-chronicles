@@ -15,13 +15,14 @@ Draft notes: Days one hundred and thirty-six to one hundred and thirty-nine. Dec
 - Night 138: Liss's skiff, upriver alone in the dark, past Greyhold's lights and Redwatch's, to the island. The lion has come back to the old place. It's at the pit. She sits with it, against its shoulder, all of day 139.
 - She tells it about Wren. Out loud, twice, though it can't understand. A girl on the far bank whose father talks to dragons.
 - Dusk, day 139: from the island's east shore, across the channel, she sees fires at Harrow's End and carts coming down the hill behind it, and boats being run down to the water at the Eelweir. They'll come in the morning. Before first light on day 140 she takes the skiff back across the west channel and the lion swims after her, and they go west over the fields toward the Brackenwood.
+- Magic (proposal): in Millbrook, the licensed keeping-wife's painted board (KEEPING OF MILK AND GRAIN, BY LICENCE) still hangs over her shut door, with sour milk smelling under it.
 notes -->
 
 ---
 
 Liss didn't ask.
 
-That was the first thing, and Maren would remember it longest. She came down the landing steps in the dark on the evening of the hundred-and-thirty-sixth day with her chest on her back, in her shirt. It was four hundred paces from the gate, and she'd been all day walking them. The red door of the ferry house was open with the firelight coming out of it, and her mother was standing in it.
+She came down the landing steps in the dark on the evening of the hundred-and-thirty-sixth day with her chest on her back, in her shirt. It was four hundred paces from the gate, and it had taken her the whole day to walk them. The red door of the ferry house was open with the firelight coming out of it, and her mother was standing in it.
 
 Liss looked at her. At the chest. At her shirt, with no grey over it.
 
@@ -59,7 +60,7 @@ Maren looked up.
 
 Maren didn't move.
 
-"Nine or ten. Thin, with a lot of hair. Wouldn't get in the boat." Liss almost smiled. "She stood on the jetty and looked up at me and told me her father had three dragons."
+"Nine or ten. Thin, with a lot of hair. Wouldn't get in the boat. She stood on the jetty and looked up at me and told me her father had three dragons."
 
 The fire ticked.
 
@@ -111,7 +112,7 @@ Maren's hands went still on the scale.
 
 Maren sat by the fire.
 
-She'd been cast out of Greyhold the morning before, in front of three hundred people, in her shirt. She'd struck a knight. She'd watched a lion she'd sat with all winter swim the east channel in the dusk and go into a forest she couldn't follow it into. She'd sat on the road outside the gate on her chest and not known where to go. She hadn't cried. Not once.
+She'd been cast out of Greyhold the morning before, in front of three hundred people, in her shirt. She'd struck a knight. She'd watched a lion she'd sat with all winter swim the east channel in the dusk and go into a forest she couldn't follow it into. She'd sat on the road outside the gate on her chest and not known where to go. She hadn't cried.
 
 She put her face in her hands.
 
@@ -145,7 +146,7 @@ She went to Millbrook for Tam instead.
 
 Millbrook was tight as a drum.
 
-She felt it from the top of the jetty road. People in doorways. Men in twos and threes at the corners, talking low, stopping when she went by. Shutters up at noon. The Kettle's smashed shutters still boarded with raw planks. A crown's notice on the chapel door, new, about the arrest of anyone repeating the paper, and somebody had drawn six little circles on it in charcoal.
+She felt it from the top of the jetty road. People in doorways. Men in twos and threes at the corners, talking low, stopping when she went by. Shutters up at noon. The Kettle's smashed shutters still boarded with raw planks. A crown's notice on the chapel door, new, about the arrest of anyone repeating the paper, and somebody had drawn six little circles on it in charcoal. Next to the chapel, the keeping-wife's board was still up over her door, painted, with the crown on it: KEEPING OF MILK AND GRAIN, BY LICENCE. The door was shut, and the smell of sour milk came out under it into the street.
 
 Odo's forge was still chained. The crown's seal still hung off the lock on its ribbon. The ash under the doors had gone to mud.
 
@@ -179,13 +180,13 @@ Tam looked at it.
 
 He looked.
 
-She watched him see it. Two little hammers, crossed, struck neat and small with a punch. She watched his face go from not knowing to knowing, the way you watch the river come up over a mudbank.
+She watched him see it. Two little hammers, crossed, struck neat and small with a punch. She watched his face go from not knowing to knowing, like the river coming up over a mudbank.
 
 "Odo," he said.
 
 "Odo."
 
-"He said…" Tam stopped. He touched the hammers with one finger, as if they might be hot. "He said they were for the camps. When Reede's man brought the order in. A hundred collars. In the autumn. And the chain. He said they were for beasts brought into the camps from the Marches to be looked after. Beasts whose people had been burned out. To keep them safe. Till they could be given back." His voice went thin. "I helped him make them. I worked the bellows. I punched the six."
+"He said…" Tam stopped. He touched the hammers with one finger, as if they might be hot. "He said they were for the camps. When Reede's man brought the order in. A hundred collars. In the spring, before the summer. And chain by the hundredweight. He said they were for beasts brought into the camps from the Marches to be looked after. Beasts whose people had been burned out. To keep them safe. Till they could be given back." His voice went thin. "I helped him make them. I worked the bellows. I punched the six."
 
 "The hunters on the island had this chain on the lion in the summer," said Maren. "With honey-smoke, to keep it asleep. They had it chained on the spit for weeks, staked, so it couldn't stand up. And there's more of it at the Ram's Head. A cart of new collars. And on every hound that came over the Redwatch landing at Ide Darrow, with eyes like… with nothing in their eyes." She took her thumb off the hammers. "That's what they're for, Tam."
 
@@ -247,7 +248,7 @@ The island came up out of the dark ahead. The stump of the tower against the sta
 
 It had come back.
 
-She'd known it would. She'd known it the way Liss knew the river. It had gone into the Fellwood on the far bank with Kesh going away over it, and it had come back across the east channel some night since, swimming, alone, to the old place. Because it always came back. Because it wouldn't leave.
+She'd known it would. It had gone into the Fellwood on the far bank with Kesh going away over it, and it had come back across the east channel some night since, swimming, alone, to the old place. Because it always came back. Because it wouldn't leave.
 
 It was at the pit.
 
@@ -277,7 +278,7 @@ It couldn't understand. There was no thread between them, no voice, nothing for 
 
 The lion turned its head and looked at her.
 
-It did that sometimes. Turned its great head and looked at her for a while with its pale eyes, as if she'd said something. She knew it hadn't understood. It never had. She didn't know what it was looking for when it looked at her like that.
+It did that sometimes. Turned its great head and looked at her for a while with its pale eyes, as if she'd said something. She didn't know what it was looking for when it looked at her like that.
 
 *The cat from the bridge,* she thought. *That people used to bow to.*
 
@@ -289,7 +290,7 @@ At dusk on the hundred-and-thirty-ninth day she went to the east shore and looke
 
 There were fires at Harrow's End.
 
-Not burning. Campfires. Dozens of them, then more, coming out one after another in the dusk all over the hill behind the village, the way stars come out. Along the Drover's Way where it came down off the high ground. In the empty lanes. In the black ruin of the mill. And on the road down the hill, in the last of the light, carts. A long line of them, coming down with their lanterns swinging. Carts with long low shapes on them, under canvas.
+Not burning. Campfires. Dozens of them, then more, coming out one after another in the dusk all over the hill behind the village. Along the Drover's Way where it came down off the high ground. In the empty lanes. In the black ruin of the mill. And on the road down the hill, in the last of the light, carts. A long line of them, coming down with their lanterns swinging. Carts with long low shapes on them, under canvas.
 
 Boats.
 
@@ -313,7 +314,7 @@ She thought about Rowan's net, on the west shore. *If they take it, it's a weapo
 
 She got up in the dark, and went down through the oaks to the west shore, to the reeds where she'd hidden the skiff, and pushed it out into the black water of the west channel.
 
-She didn't look back. She didn't call it. She couldn't. It wouldn't understand. She got into the skiff and took up the pole and pushed off from the island, out into the channel, toward the Hearthmere bank, in the dark.
+She didn't look back. She didn't call it. She got into the skiff and took up the pole and pushed off from the island, out into the channel, toward the Hearthmere bank, in the dark.
 
 Behind her, in the reeds, something went into the water.
 

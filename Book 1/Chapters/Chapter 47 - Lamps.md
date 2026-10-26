@@ -14,6 +14,7 @@ Draft notes: Days ninety to ninety-six. Decided here (proposals):
 - Tobin is gone. His bunk is stripped; his practice sword is left on Maren's cot with a scrap of paper tied to the hilt: "You know it's true. Come and find us. T." She burns the note.
 - Day 93: Rowan's order from the council at Hallowmere: the orders will arrest any person who reads or repeats the paper aloud. Maren is on the detail that goes to Millbrook. They take the Kettle's potboy, Davin, for reading it at the jetty. The town riots: the Kettle's shutters smashed, a knight's horse stabbed, stones. Odo Marl's smithy is shut and Tam isn't there. The detail falls back to Greyhold with Davin in a cart and three knights hurt.
 - Echo, day 95: a refugee boy on Liss's ferry, from the Eelweir, tells Liss (and Maren) that old Fisk saw the dragon farmer walk out across the ice to the Old Ruin round the turn of the year (it was night 81), in the dark, alone, and come back before dawn. Maren knows it's true and says nothing.
+- Magic touches: Greyhold's licensed lamp-tender saying the dusk-word over and over to a dark bracket; Millbrook relighting old oil lamps, and a hedge-worker selling "the old lamp-words" that don't take.
 notes -->
 
 ---
@@ -32,9 +33,9 @@ And every beast in the barn stood up.
 
 ---
 
-She heard it. She couldn't see it, outside her little circle of light. She heard it: twenty-nine beasts in their stalls getting to their feet at the same moment in the dark. The greyharts' hooves striking the boards. The hounds scrambling up in the straw. Captain Thorne's boar heaving its great black bulk up off the floor of its stall at the far end with a grunt like a door slamming. Kesh on her perch beyond the lantern light, a rattle of bells and a rush of wings, and then nothing.
+She heard it. She couldn't see it, outside her little circle of light. She heard it: twenty-nine beasts in their stalls getting to their feet at the same moment in the dark. The greyharts' hooves striking the boards. The hounds scrambling up in the straw. Captain Thorne's boar heaving its great black bulk up off the floor of its stall at the far end with a grunt. Kesh on her perch beyond the lantern light, a rattle of bells and a rush of wings, and then nothing.
 
-No barking. No screaming. Not one of them made a sound.
+No barking. No screaming. None of them made a sound.
 
 She stood in her circle of light and felt it come up through the soles of her boots.
 
@@ -66,6 +67,8 @@ The lamps didn't all go out together again. But they weren't right.
 
 They dimmed. At odd hours, for no reason, in the middle of the day or the middle of the night, a lamp would go low, yellow, like an oil lamp running dry, and flicker, and then come back. Sometimes one. Sometimes a whole row along a wall. Once, at supper on the ninety-second night, every lamp in the refectory went down to a dull red glow at the same moment and stayed there for as long as it took to say the noon oath twice, while two hundred people sat at the long tables with their spoons in their hands and nobody spoke. Then they came up again.
 
+Greyhold's lamp-tender was a licensed man who had walked the wall at dusk for thirty years with his staff, saying the dusk-word at every bracket in a voice like a ferryman calling the last crossing. Now he said it twice at each lamp, and then three times, and his voice went higher every time. Maren saw him one evening on the wall walk under a bracket that wouldn't come up, saying the word over and over to the dark glass, until a knight of the gate took him by the elbow and walked him down the stair.
+
 The warming-stones in the infirmary went cold for a whole night. The old surgeon came out into the yard in the morning swearing at the sky. On the ninety-third day a groom broke his wrist falling on the ice by the well, and the surgeon put his hands on it and said the bone-setting words the crown licensed him to say, the ones that knitted a clean break in a day, and nothing happened. He said them again. Nothing. He swore so loudly that they heard him in the yard, and then he set the wrist by hand, the old way, with a splint, the way they did it on the Saltreach bank where nobody had licensed magic, and the groom screamed.
 
 *From it the crown draws the power,* the paper had said, *that lights the lamps of Hallowmere without oil.*
@@ -78,11 +81,11 @@ The beasts knew.
 
 Grieve said so, coming back from his fever on the ninety-second day, grey-faced, standing at the end of the barn with his arms folded watching them. "They know something," he said. "Don't ask me what. Forty years I've had this barn. Never seen them like this."
 
-Kesh wouldn't settle. Not even with Haverly in the yard. She'd always been calm when he was near, when he wasn't on the gate; now she bated and screamed on her perch even with him standing beside her, stroking her, talking to her, and he stood there with his hands full of her feathers and his face white.
+Kesh wouldn't settle, even with Haverly in the yard. She'd always been calm when he was near, when he wasn't on the gate; now she bated and screamed on her perch even with him standing beside her, stroking her, talking to her, and he stood there with his hands full of her feathers and his face white.
 
 The hounds wouldn't go near the north end of the yard. They'd go out to be exercised in the mornings and the moment the handlers turned toward the north tower they'd sit down, all of them, and dig in their claws, and no command and no whip would move them. Bracken's empty stall was the nearest to the north wall. Nobody put anything in it.
 
-On the ninety-fourth night Captain Thorne's boar broke its stall door. Not to get out. It didn't go anywhere. Maren found it in the morning standing in the wreck of the iron-banded door with splinters in its bristles, facing the north wall of the barn, with its small red eyes fixed on the stones, breathing hard. It had been standing like that all night, Grieve thought. Captain Thorne came down and stood with it for an hour with her hand on its great black shoulder, talking to it low, and it didn't turn its head to her once.
+On the ninety-fourth night Captain Thorne's boar broke its stall door. It didn't go anywhere. Maren found it in the morning standing in the wreck of the iron-banded door with splinters in its bristles, facing the north wall of the barn, with its small red eyes fixed on the stones, breathing hard. It had been standing like that all night, Grieve thought. Captain Thorne came down and stood with it for an hour with her hand on its great black shoulder, talking to it low, and it didn't turn its head to her once.
 
 And the cat nobody owned slept on the archive stair.
 
@@ -112,7 +115,7 @@ She thought of Tobin on the bench at the foot of the Lesson Wall in the autumn, 
 
 *You know it's true.*
 
-She did. That was the worst of it. She stood there with Tobin's note in her hand and knew it was true, all of it, every word on the paper on the river gate, the way she'd known it on the ice at Millbrook with the boy's broken leg under her arm. She knew it from a black door at the end of the archive. She knew it from Hale's face. She knew it from twenty-nine beasts standing up in the dark with their heads turned to the north wall.
+She did. She stood there with Tobin's note in her hand and knew it was true, all of it, every word on the paper on the river gate. She knew it from a black door at the end of the archive. She knew it from Hale's face. She knew it from twenty-nine beasts standing up in the dark with their heads turned to the north wall.
 
 She took the note to the fire at the end of the dormitory and put it in, and watched it burn.
 
@@ -122,13 +125,15 @@ She put Tobin's sword under her cot. She couldn't have given it in to the armour
 
 The order came down from Hallowmere on the ninety-third day.
 
-Rowan read it in the yard herself, after the noon bell, to the whole school standing in the snow. Not from a paper. She had it by heart. She stood on the bottom step of the north tower, small and neat, and said it in her quiet voice that carried to the back of the yard without being raised.
+Rowan read it in the yard herself, after the noon bell, to the whole school standing in the snow. She had it by heart. She stood on the bottom step of the north tower, small and neat, and said it in her quiet voice that carried to the back of the yard without being raised.
 
 "By order of the crown, in council with the orders. Any person who reads aloud, posts, prints or repeats the paper put about at midwinter shall be taken by the orders and brought before the magistrate." She paused. "The orders will enforce this from today. Patrols on the River Road will be doubled again. Every town and village on the bank will be visited. Speakers will be taken." She looked round the yard. "That is the order. It is not mine. I don't make it."
 
 She went in.
 
 Maren was on the Millbrook detail. Of course she was. She'd been on every detail since Ferriby. She sat Turnip at the back with the spare horses on their string and rode down the River Road behind twelve knights of the gate, in the bitter cold, with the frozen river on the left glittering under a white sky, and nobody talked.
+
+Millbrook, when they rode into it, smelled of oil. There were oil lamps in the windows along the jetty road, old brass and clay ones dug out of lofts, smoking. She'd never seen one in a Millbrook window in her life. On the chapel steps a man in a patched coat had a tray of folded slips and was calling them out: the old lamp-words, from before the licence, two coppers, sure to take. Nobody was buying them twice.
 
 ---
 
@@ -142,13 +147,13 @@ They put him in the cart.
 
 Millbrook came out.
 
-It came out the way the ice at the fair had closed: not all at once, but from everywhere. Out of the Kettle, out of the houses along the jetty road, out of the mill, out of the barns where the refugees lived. Fifty. A hundred. More. Standing in the street round the cart and the knights' horses. Not saying anything, at first. Just standing there. Looking at the boy in the cart.
+It came out a few at a time, from everywhere. Out of the Kettle, out of the houses along the jetty road, out of the mill, out of the barns where the refugees lived. Fifty. A hundred. More. Standing in the street round the cart and the knights' horses. Saying nothing, at first. Just standing there. Looking at the boy in the cart.
 
 "Clear the street!" The sergeant had his sword out. "In the name of the crown! Clear the street!"
 
 Somebody threw a stone.
 
-She'd remember it all in pieces, afterwards, the way she remembered Ferriby. The Kettle's shutters coming down in a smash of glass and wood as a knight's horse reared back into them. A man with a pitchfork. A woman screaming at the sergeant with her face a hand's breadth from his, *he's a child, he's a child, he's sixteen.* Stones, everywhere, from everywhere, from the roofs. Turnip shying under her and nearly going over on the ice. A knight on the ground with blood on his face. A horse, the sergeant's, going down in the street with a pitchfork in its flank, screaming, the worst sound she'd ever heard a horse make.
+It came to her in pieces, like Ferriby. The Kettle's shutters coming down in a smash of glass and wood as a knight's horse reared back into them. A man with a pitchfork. A woman screaming at the sergeant with her face a hand's breadth from his, *he's a child, he's a child, he's sixteen.* Stones, everywhere, from everywhere, from the roofs. Turnip shying under her and nearly going over on the ice. A knight on the ground with blood on his face. A horse, the sergeant's, going down in the street with a pitchfork in its flank, screaming, the worst sound she'd ever heard a horse make.
 
 The cart, with the boy in it, being dragged away up the street by the knights with their swords out, backing, the crowd following, the stones coming.
 
@@ -160,7 +165,7 @@ Tam wasn't there.
 
 They got back to Greyhold at dusk with Davin in the cart, and three knights hurt, and the sergeant's horse dead in the Millbrook street behind them.
 
-Nobody talked on the way back. She rode at the back with the spare horses and looked at the boy in the cart ahead of her. He sat in the straw with his hands tied in front of him and his chin up, looking at the white river going by, and he didn't cry. Once, halfway back, he turned his head and looked straight at her, at the back of the line, in her grey, on her old piebald with the turnip on its bridle. He didn't need to say anything.
+Nobody talked on the way back. She rode at the back with the spare horses and looked at the boy in the cart ahead of her. He sat in the straw with his hands tied in front of him and his chin up, looking at the white river going by, and he didn't cry. Once, halfway back, he turned his head and looked straight at her, at the back of the line, in her grey, on her old piebald with the turnip on its bridle.
 
 At the river gate she saw Rowan on the wall above, standing alone, watching them come in.
 
@@ -172,7 +177,7 @@ Not the ferry; the ferry couldn't run. The river was frozen from bank to bank, a
 
 Maren was helping with the tar. There was a boy at the top of the steps with a cup of hot water in his hands, warming them, talking to Liss. Ten or eleven, thin, from the Eelweir below Harrow's End, he said, come across that morning with his aunt.
 
-"…and old Fisk says he saw him," the boy was saying. "Round the turn of the year. A week before midwinter, just after the river locked. He was up at the end of the weir having a pipe, Fisk was, because he can't sleep, and he saw him walk out. Out onto the ice. From the bottom of Harrow's End. On his own, in the dark. All the way out to the island." The boy's eyes were very wide. "And he didn't come back till nearly morning."
+"…and old Fisk says he saw him," the boy was saying. "Round midwinter. A week before. Just after the river locked. He was up at the end of the weir having a pipe, Fisk was, because he can't sleep, and he saw him walk out. Out onto the ice. From the bottom of Harrow's End. On his own, in the dark. All the way out to the island." The boy's eyes were very wide. "And he didn't come back till nearly morning."
 
 "Who?" said Liss.
 
@@ -186,7 +191,7 @@ The boy looked at Maren too, then. At her grey. He'd heard. The whole river had 
 
 Maren tarred the boat.
 
-She thought of hobnailed boot-prints in the snow over her own. Knees pressed into the snow beside her fire. A bend in the path under the oaks, where the prints had stopped and gone backward, twenty paces. A length of the hunters' chain prised loose with a blade.
+She thought of hobnailed boot-prints in the snow over her own. Knees pressed into the snow beside her fire. A bend in the path under the oaks, where the prints had stopped and gone backward. A length of the hunters' chain prised loose with a blade.
 
 A green scale, warm, at the bottom of her chest.
 

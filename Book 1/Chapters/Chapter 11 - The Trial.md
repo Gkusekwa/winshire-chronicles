@@ -13,13 +13,12 @@ Draft notes: The trial is set on day -1, the day before Harrow's End's fair; Mar
 - Maren's kit: a river-watch skiff, ten days' food, rope, a shuttered lamp, flint, and Pell's own sword, which he lends her.
 - Haverly's trial (the Scarfell road patrol) is set the same day.
 - Rowan's real reason, which Maren half guesses: the inner circle wants to know what the hunters are doing on the island without sending knights there.
+Magic touches: Hanna the keeping-wife's words over Liss's bread; the river watch has never been licensed a lamp-word (Ottery gives her lamp oil).
 notes -->
 
 ---
 
-They say at Greyhold that every knight's trial is the same trial: they send you somewhere you don't want to go, to fetch something you don't want to touch, and the thing you bring back is never the thing they asked for. The thing you bring back is yourself, a little different. That's the proof. Everything else is just what you carry it home in.
-
-That's what they say. The knight-captains who set the trials have never been heard to say it. They say: *go there, bring that back, you have until the new moon.* It comes to the same thing.
+They say at Greyhold that every knight's trial is the same trial: they send you somewhere you don't want to go, to fetch something you don't want to touch, and the thing you bring back is never the thing they asked for.
 
 ---
 
@@ -87,7 +86,7 @@ Maren felt it go through her, cold, from the top of her head to her feet, like s
 
 "The island's forbidden to the river watch."
 
-"You are not on the river watch. You haven't been for four years. You are a candidate of the orders, under trial, and the orders can send you wherever they please." Rowan looked at her steadily. "I'm sending you there."
+"You are not on the river watch. You haven't been for two years. You are a candidate of the orders, under trial, and the orders can send you wherever they please." Rowan looked at her steadily. "I'm sending you there."
 
 "Knight-Captain. Respectfully." Maren made herself keep her voice level. "Why not send knights? A patrol. Six of them, in a boat, in daylight."
 
@@ -109,11 +108,11 @@ At the door, Maren stopped.
 
 "Knight-Captain. Where are you sending Haverly?"
 
-Rowan had already picked up her pen. She didn't look up. "Lucan Haverly will ride the Scarfell road on the Saltreach side, with his bird, as far as the Clan's border, and bring me back a count of the Clan's war-strength. Riders, dragons, hired men." She dipped the pen. "The Clan's quarrel is coming to a head, Ashdown. The old chief's brother and his son poured the ashes together at Coldtarn, and every fool on the river thinks that means peace. It doesn't. It means each of them has felt the other's hand on the urn, and knows exactly how strong it is." She wrote a line. "Something will break across the river before the moon is new. When it does, I'd like to know what it was, and I'd like to know what's on that island, and I'd like to know both before anyone else does." She glanced up, briefly, with her pale eyes. "That's what *noted* means. Close the door."
+Rowan had already picked up her pen. She didn't look up. "Lucan Haverly will ride the Scarfell road on the Saltreach side, with his bird, as far as the Clan's border, and bring me back a count of the Clan's war-strength. Riders, dragons, hired men. In a drover's coat, without the pin, and he was never there. No knight crosses. A student on trial isn't a knight yet." She dipped the pen. "The Clan's quarrel is coming to a head, Ashdown. The old chief's brother and his son poured the ashes together at Coldtarn, and every fool on the river thinks that means peace. It doesn't. It means each of them has felt the other's hand on the urn, and knows exactly how strong it is." She wrote a line. "Something will break across the river before the moon is new. When it does, I'd like to know what it was, and I'd like to know what's on that island, and I'd like to know both before anyone else does." She glanced up, briefly, with her pale eyes. "That's what *noted* means. Close the door."
 
 ---
 
-Pell was waiting at the bottom of the gatehouse stair, leaning on the wall, as if he'd happened to be passing. He hadn't. He fell in beside her as she went out across the yard.
+Pell was waiting at the bottom of the north tower stair, leaning on the wall, as if he'd happened to be passing. He hadn't. He fell in beside her as she went out across the yard.
 
 "Where?"
 
@@ -157,13 +156,13 @@ Liss looked at the sword. Then the pack. Then Maren's face. She put down the shi
 
 Maren told her.
 
-Liss stood very still in the afternoon sun, among the washing, with the river going by below the landing, and she looked upriver past the bend at the dark green lump of the island in the middle of the water, and Maren watched her face go white, all at once, the way a face does when the blood just leaves it.
+Liss stood very still in the afternoon sun, among the washing, with the river going by below the landing, and she looked upriver past the bend at the dark green lump of the island in the middle of the water, and Maren watched her face go white, all at once.
 
 "No," said Liss again, but quietly now, as if to herself.
 
 "Ma. It's a trial. They send everyone somewhere."
 
-"They don't send everyone *there*." Her mother turned. "Do you know what your father said, the morning after he spent the night on that spit? He said, *Liss, there's something on that island that isn't finished.* That's all. He never said what. He never went near it again, not as long as he lived, not even to fish. And now they're sending his daughter to go and knock on its door." She gripped Maren's arms. "Say no. You can say no. Tell them you'll take a different trial. Tell them you're sick. Tell them anything. Come home. I'll go up there myself and tell that woman in the tower—"
+"They don't send everyone *there*." Her mother turned. "Do you know what your father said, the morning after he spent the night on that spit? He said, *Liss, there's something on that island that isn't finished.* That's all. He never said what. He never went near it again, not as long as he lived, not even to fish. And now they're sending his daughter to go and knock on its door." She gripped Maren's arms. "Say no. You can say no. Tell them you'll take a different trial. Tell them you're sick. Tell them anything. Come home. I'll go up there myself and tell that woman in the tower…"
 
 "Ma. If I say no, I'm finished. They'll send me home with a letter and a turnip horse, and that'll be the end of it. Twenty-seven, and nothing." She held her mother's wrists. "I've done everything else. Every bout, every patrol, every privy. I put Haverly on his back. I let the duskcat go. And they gave him first lance and they gave me Turnip, and now they've given me the island, because they think I'll either fail or not come back, and either way it's tidy." She heard her own voice, flat and hard and very quiet, and didn't stop it. "So I'm going to go. And I'm going to come back. And I'm going to bring them something they didn't expect. That's all I've got, Ma. It's all I've ever had."
 
@@ -185,23 +184,23 @@ Maren thought about her father lying on the spit all night in the fog, listening
 
 Her mother knew she was lying. Maren saw her know it. Liss let go of her face and turned back to the washing line and picked up the shirt she'd put down and pegged it out, very neatly, with her back turned.
 
-"Go on, then," she said. "Take the good rope. It's in the boathouse. And there's bread in the crock. Take all of it."
+"Go on, then," she said. "Take the good rope. It's in the boathouse. And there's bread in the crock. Hanna the keeping-wife said her words over it on market day, so it'll last. Take all of it."
 
 ---
 
-She took the skiff from Redwatch the next day at the end of the afternoon. Ottery saw her off. He never mentioned the law against landing on the island, and he didn't ask where she was going. He just checked the skiff's seams with his thumb, one by one, all the way round, and put an extra blanket in the bow, and stood on the bank with his hands in his pockets.
+She took the skiff from Redwatch the next day at the end of the afternoon. Ottery saw her off. He never mentioned the law against landing on the island, and he didn't ask where she was going. He just checked the skiff's seams with his thumb, one by one, all the way round, and put an extra blanket in the bow, and a flask of oil for the lamp, since the river watch had never been licensed a lamp-word in its history and never would be, and stood on the bank with his hands in his pockets.
 
 "Ten days' food," he said. "You'll want to make it last twelve. Nothing on that island you can eat, unless you like bark."
 
 "I'll manage."
 
-"Course you will." He looked upriver. "Ashdown. If you see lights on that spit at night, you keep your lamp shuttered. You hear me? You keep it shuttered and you keep your head down. Whoever's lighting fires on that island isn't fishing."
+"Course you will." He looked out across the channel. "Ashdown. If you see lights on that spit at night, you keep your lamp shuttered. You hear me? You keep it shuttered and you keep your head down. Whoever's lighting fires on that island isn't fishing."
 
 "I know."
 
 "I know you know. I'm saying it anyway, so I can tell your mother I did." He pushed the skiff off with his boot. "Go on. Mind the west channel. It's silted to buggery since the summer."
 
-She rowed upriver on the Hearthmere side in the long slanting light, with the current against her, keeping in close under the bank where it ran slower. The skiff was light and quick, and her arms remembered every stroke. Past the water meadows below Redwatch. Past the mouth of a ditch where she'd once found a drowned calf in her first spring on the river watch. Past the place where the west bank rose into a low bluff with alders on top, and the whole river opened out ahead of her, and there it was.
+She rowed out from the boathouse into the west channel in the long slanting light. The skiff was light and quick, and her arms remembered every stroke. Past the mouth of a ditch where she'd once found a drowned calf in her first spring on the river watch. Past the place where the bank rose into a low bluff with alders on top, and the channel opened out ahead of her, and there it was.
 
 The island of the Old Ruin.
 
@@ -219,6 +218,6 @@ She shipped her oars and let the skiff drift in the last of the light, and sat t
 
 *If you hear it breathing, you lie still, and you count, and you don't go looking.*
 
-The sun went down behind Greyhold. The trees on the island went from gold to grey to black. Across the water, the fiddle at the Harrow's End fair went up into a reel, and somebody whooped.
+The sun went down behind the Hearthmere bank. The trees on the island went from gold to grey to black. Across the water, the fiddle at the Harrow's End fair went up into a reel, and somebody whooped.
 
 Maren put out the oars, and put her back into it, and went in.

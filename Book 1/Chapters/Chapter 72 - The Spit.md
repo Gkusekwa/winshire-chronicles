@@ -3,7 +3,7 @@
 <!-- notes
 POV: Calder
 Part: Part Six: The First War
-Beats: In the fighting at the Ruin, Calder corners Rook. Rook dies before he can say anything useful; the proof dies with him.
+Beats: In the fighting at the Ruin, Calder corners Rook. Rook dies before he'll say the shooter's name; his last taunt is that the paymaster's book went into Delling's chest. The spoken proof dies with him; the written proof is somewhere else.
 Echo of the other's story: The bells of Greyhold stop.
 Status: first draft
 Carried forward: Rook dies before he can talk. The six-dot knife may survive as Calder's only physical link (with the chain) to Teo's death, useful in Book 2. From Chapter 70: the full verse; the plan to stop Corvin at the tower before midnight; Lisska gone west with the chain, the word and the ribbon. From Chapter 68: Rook told Teo's death under the arch; "I need him alive." From Chapters 13 and 21: the stake on the spit where the hunters chained the lion. From Chapter 71 (Maren's side): Callis opens Greyhold's river gate tonight.
@@ -15,10 +15,13 @@ Draft notes: Dusk to the fourth hour of night on day one hundred and forty-three
 - Calder tells him he's coming to the Clan. Alive. To both yards. To say it. Rook says, pleasantly, that he won't. "Nobody believes the barley man. They'll not believe me either. I'm hopeless." He has the six-knife in his hand.
 - Kharrak comes down on the spit behind Calder, with the red tide up, because he felt Calder's blood go. Rook looks at the dragon. He knows what Kharrak is. He goes for Calder with the knife anyway, fast, not to kill: to make the dragon do it.
 - Kharrak does it. Calder shouts *no* and it's done. Rook is dead on the gravel by the stake. Whatever he knew is gone with him. All he said was the sheep line, and "Good beast," to Kharrak, at the end, with the dragon over him.
-- Calder takes the knife out of the gravel. Plain, round pommel, the ring of six. He puts it in his coat with the chains and the ring.
+- Rook's last taunt before the knife: his ledger ("the book", every bag of silver and what for) went into Delling's chest with the silver, "and Delling sells anything, and you can't read." (Plant for Book 2 ch 7, 12, 17: the ledger names Imra's shooter.)
+- Calder takes the knife out of the gravel. Plain, round pommel, the ring of six. He puts it in his coat with the island chain (the five links went west with Lisska in 70) and the ring.
 - Kharrak, after: *I'm sorry.* Calder: "I know." Then: "He meant you to." Kharrak: *I know that too.*
 - The echo: from the spit, across the water, from downriver, Greyhold's bells: the alarm, ringing and ringing. Then, all at once, they stop. Calder doesn't know what that means. Aurveth does. *They've stopped because nobody's left at the ropes.*
 - The fort: Corvin isn't under the arch. The guards on the tower door are gone. The stair has been dug out to the slab. Corvin has gone down. Lantern-light far below. It's the fourth hour of night. Two hours to midnight.
+- Magic (proposal): the surge on the island. Corvin's men carry company shields painted with white warding marks; Kharrak's fire flares the marks black and goes through ("They'll turn a word. They'll not turn fire."). They throw honey-smoke pots on the fort's fire and Aurveth, flying through the edge of it, slips away from Calder through the bond until she tears the smoke apart with her wings; after that the dragons keep above it. The verse on the arch glows faintly from inside the stone. Rook's death unchanged.
+- Revision (proposal): since 68 now tells Calder that one of Delling's crossbowmen shot Imra, the list of what dies with Rook says "the name of the man in the hedge at the mill" instead of "who'd shot Imra".
 notes -->
 
 ---
@@ -27,7 +30,7 @@ They came down on the island at dusk.
 
 Out of the north, low, over the reeds, the way Calder had asked. Kharrak first, rust-red, coming down the long reach of the river above the island with his wings half folded and the last of the light on him. Then Aurveth, with Calder on her neck, higher, slower, the great bronze wings beating long and heavy.
 
-He felt them both. Kharrak's tide, all the way up. Aurveth's slow old weight under it, holding it, the way she'd held it at the mouth of the cave.
+He felt them both. Kharrak's tide, all the way up. Aurveth's slow old weight under it, holding it.
 
 And the empty place where the third should have been.
 
@@ -45,7 +48,7 @@ He'd said that. Not the fort, and nowhere near the tower or the slab or the stai
 
 Kharrak went along the north end of the island like a scythe. The fire came out of him white at the root and orange-red at the end, and the oaks went up, and the tents under them, and the night went orange from bank to bank. Calder saw men running out of the trees with their clothes alight, down to the water. He saw the ring of fires round the pit, where they'd kept the honey-smoke burning in case the lion came back, go out under the bigger fire like candles under a wave.
 
-Aurveth went along the east shore, without hurry, the way she did everything. The boats drawn up on the gravel in rows, dozens of them, that had carried the army over from the Eelweir, and she rolled her fire over them in one long slow wave, bronze-gold, deep, like the throat of a lime-kiln, and they went up all together in a line.
+Aurveth went along the east shore, without hurry. The boats drawn up on the gravel in rows, dozens of them, that had carried the army over from the Eelweir, and she rolled her fire over them in one long slow wave, bronze-gold, deep, like the throat of a lime-kiln, and they went up all together in a line.
 
 The men on the island broke.
 
@@ -53,9 +56,27 @@ Not all. Most. He saw them from Aurveth's neck as she came round. Running for th
 
 A few hundred didn't run.
 
-In the fort. Inside the old broken walls, round the great fire in the middle. In grey, with the six on their coats. With spears and crossbows. With bound hounds standing silent in a ring round them, and two wyverns on perches by the eastern gate lifting their heads on their long necks toward the sky.
+In the fort. Inside the old broken walls, round the great fire in the middle. In grey, with the six on their coats. With spears and crossbows. With shields, some of them, round company shields with marks painted on the faces in white, small square marks, the kind on the verse. With bound hounds standing silent in a ring round them, and two wyverns on perches by the eastern gate lifting their heads on their long necks toward the sky.
 
 Bolts came up. He heard them go past.
+
+A line of them came out through the eastern gate onto the slope with the painted shields up, kneeling behind them to shoot. Kharrak went along the slope once, low, and let his fire down across them. The white marks on the shields flared, all of them, bright as sparks off a grindstone, and went black. The fire went through them as if they were paper. The men behind them ran or burned.
+
+*Marks,* said Aurveth. Contempt in it, old and dry. *They'll turn a word. They'll not turn fire. Not ours.*
+
+Then the smell.
+
+Sweet. Thick. Coming up off the great fire in the middle of the fort, where somebody had thrown pots into it, three, four, and the smoke going up in a fat yellow-grey column straight into the sky where the dragons were. *Honey-smoke.* He'd smelled it at the Ewe Beck, the night the tent of it burned. Aurveth went through the edge of it.
+
+He felt her go.
+
+Not fall. Go. Away from him. As if the bronze mark on his chest were a hand that had been holding his, and the fingers were opening, one at a time, in the dark. Something in her turning away, slow and dreamy, toward the sweet smoke, the way a beast turns toward sleep. *Aurveth.* He couldn't feel her answer. *Aurveth!*
+
+She shook her head. Hard, the whole great neck. She beat her wings down once, twice, a gale of them that tore the smoke apart, and climbed out of it, and the fingers closed again. He felt her come back into his hand all at once, cold and furious.
+
+*Keep above it,* she said to Kharrak. *Keep out of the smoke.*
+
+The yellow-grey column leaned over the fort on the wind, and they kept above it.
 
 *The gate,* he said to Aurveth. *The eastern gate. Put me down.*
 
@@ -77,7 +98,7 @@ He didn't remember most of it. Pieces. A man in grey coming at him with a spear 
 
 He was going for the tower.
 
-He could see it. Across the fort. At the north-west corner, squat and round, with the arch in its side and the firelight on the verse. And nobody under the arch.
+He could see it. Across the fort. At the north-west corner, squat and round, with the arch in its side and the firelight on the verse. The verse had a light of its own, under the firelight. Faint. White. Six lines of square hooked letters, lit from inside the stone, like a lamp turned down low. And nobody under the arch.
 
 Corvin wasn't there.
 
@@ -91,7 +112,7 @@ Then he saw Rook.
 
 Going the other way.
 
-Away from the tower and the fighting. Out through the broken wall on the south side of the fort, where it was down to the height of a man's knee, and down the slope beyond it through the oaks toward the south end of the island. Toward the spit. Toward the landing. Alone. Not running. Walking fast, with his head down, the way a man walks out of a house where something's gone wrong, before anybody notices he's gone.
+Away from the tower and the fighting. Out through the broken wall on the south side of the fort, where it was down to the height of a man's knee, and down the slope beyond it through the oaks toward the south end of the island. Toward the spit. Toward the landing. Alone. Walking fast, with his head down, the way a man walks out of a house where something's gone wrong, before anybody notices he's gone.
 
 A man of no particular height. With a face you forgot while you were looking at it.
 
@@ -125,7 +146,7 @@ An ordinary smile. The one from the lower stable at Varrhold, from the bucket by
 
 "Fenn," he said. "The barley man."
 
-Calder stopped on the gravel. Ten paces off.
+Calder stopped on the gravel a few strides off.
 
 "I knew it was you," said Rook. "On the dragon. Over the oaks. Nobody else would ride the old one like that, as if she were a cart." He looked at the knife in Calder's hand. "That's Joss's. From Upper Rush. The horn grip. I knew him too. Bought a pair of his greys, once, for the camps. Through a man." He shook his head a little, regretfully. "I'm sorry about Joss. That wasn't meant."
 
@@ -151,7 +172,7 @@ He put his hand to his belt and took out his own knife.
 
 A plain knife, with a plain round pommel. And on the pommel, very small, neat as a smith's: a ring of six.
 
-"Nobody believes the barley man," said Rook. "You know that. You've been trying all winter. You stood in Ulric's gate and in Arn's yard and in the water at the ford, and nobody believed you. Some old woman of the ledges read your mother's letter out in both yards and Arn threw her out of the gate and Ulric went inside without a word." He turned the knife over in his soft clerk's hand. "And they'll not believe me either. Whatever you make me say. A man with a dragon's foot on his back will say anything. They know that. Everybody knows that." He smiled. "I'm hopeless, Fenn. Truly. There's nothing in me worth carrying anywhere."
+"Nobody believes the barley man," said Rook. "You know that. You've been trying all winter. You stood in Ulric's gate and in Arn's yard and in the water at the ford, and nobody believed you. Some old woman of the ledges read your mother's letter out in both yards and Arn threw her out of the gate and Ulric went inside without a word." He turned the knife over in his soft clerk's hand. "And they'll not believe me either. Whatever you make me say. A man with a dragon's foot on his back will say anything. They know that. Everybody knows that." He smiled. "I'm hopeless, Fenn. Truly. There's nothing in me worth carrying anywhere." He tipped his head. "There's the book, of course. Every bag of silver I ever paid out, and what for. But the book went into Delling's chest with the silver, and Delling sells anything, and you can't read."
 
 "Put it down."
 
@@ -187,7 +208,7 @@ He knew what he'd do.
 
 Rook came at Calder with the knife.
 
-Fast. Very fast. Faster than anything with soft clerk's hands should move. Not at his throat. Not at his heart. Low, at his side, under the coat, the way you'd go at a man you wanted to hurt and not kill. The way you'd go at a man when what you wanted was what would come down on you afterwards.
+Fast. Very fast. Faster than anything with soft clerk's hands should move. Not at his throat or his heart. Low, at his side, under the coat, the way you'd go at a man you wanted to hurt and not kill.
 
 Calder saw it coming and couldn't move.
 
@@ -219,7 +240,7 @@ He'd never say anything now.
 
 *He was pleased to see me. He held the reins out to me.* Under the arch, in the firelight, to Corvin and Cassian. With Calder lying above them under a beam with his face to a crack. Nobody else. No one who'd stand up in a yard and say *I heard it.*
 
-Whatever else Rook knew. Who'd sent him. What else he'd done. Who their friend inside Greyhold was. Who'd shot Imra Sallow at the mill in the autumn. What was under the school. What the twins meant to do with what they woke. All of it, in that forgettable head, on the gravel by the stake.
+Whatever else Rook knew. Who'd sent him. What else he'd done. Who their friend inside Greyhold was. The name of the man in the hedge at the mill, who'd put a bolt in Imra Sallow for Delling's money. What was under the school. What the twins meant to do with what they woke. All of it, in that forgettable head, on the gravel by the stake.
 
 Gone.
 
@@ -233,7 +254,7 @@ He stepped back. He lowered his head until it was level with Calder's, and Calde
 
 *I'm sorry,* said Kharrak.
 
-It was very quiet, in Calder's head. The quietest thing Kharrak had ever said.
+It was very quiet, in Calder's head.
 
 "I know."
 
@@ -253,9 +274,9 @@ The knife was on the gravel where it had fallen.
 
 Calder bent down and picked it up. A plain knife, with a plain round pommel. The ring of six on it. He turned it over in his hands in the firelight. Cheap, he thought. A coast knife. Nothing. The kind you'd buy in any market from Wendmouth to Cotter's Cross.
 
-He put it inside his coat. With the two chains, and the iron ring from the ford.
+He put it inside his coat. With the island chain, and the iron ring from the ford.
 
-It was all there was. A knife. A ring. Two bits of chain with two little hammers under the six. Ada's letter, read in two yards to men who wouldn't hear it. And what he'd heard lying under a beam in the dark, that nobody else had.
+It was all there was. A knife. A ring. A bit of chain with two little hammers under the six. Ada's letter, read in two yards to men who wouldn't hear it. And what he'd heard lying under a beam in the dark, that nobody else had.
 
 *Nobody believes the barley man.*
 

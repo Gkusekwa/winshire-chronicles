@@ -1,6 +1,6 @@
 # Winshire — World and Setting
 
-*Established facts are stated directly. New lore beyond those facts is marked as a working proposal. Open questions are at the end.*
+*Established facts are stated directly. New lore beyond those facts is marked as a working proposal. Facts first set while drafting Book 1 are marked with their chapter numbers. Open questions are at the end.*
 
 ## The world and its history
 
@@ -8,26 +8,33 @@
 
 **Why the old realm split** *(established)*: the realm of Winshire split **when the Titans were put to sleep, after the collapse.** The split is **unrelated to bonding: bonds existed before it and after it.** **The collapse** *(established)* was an earlier rising of the Titans that nearly destroyed the old realm, until the elder Titans put them to sleep. The six kingdoms grew out of the ruins. Book 3's ending repeats it, with no one left to stop it.
 
+**The Oneroad** *(from the drafts)*: the old realm's road, built in dressed grey old-realm stone, had milestones that counted to the bridge at the island, "the middle of the world". Of the bridge only drowned pier stumps remain, showing in dry summers.
+
 **Working proposals:** People could discover the old name through a lullaby, a tavern song, ruins, Isvaren's archives, and eventually an ancient beast. The Restoration's aims are set out in `Story.md`.
 
 ## Magic and bonds
 
-Magic has two distinct sources:
+*All magic in Winshire is borrowed from the Titans* (canon; see `Magic.md`). What people work is **the Deep**, the breath of the Titans sleeping under every kingdom, through six **disciplines**: charms, runes, drawing, shaping, tide-reading and binding. Two other powers are not disciplines: **bond gifts**, which come from a beast through the bond and can't be taught, and **old magic**, which only the elder Titans ever worked. Magic schools exist, and each kingdom sets its own rules about who may study or use it. A bond gift reflects its beast's nature: a fire-breathing dragon might grant heat resistance and some ability to produce or direct fire.
 
-1. **Learned magic** is studied and practiced. Magic schools exist, and each kingdom sets its own rules about who may study or use it.
-2. **Bond gifts** come from a magical beast and reflect that beast’s nature. For example, a fire-breathing dragon might grant heat resistance and some ability to produce or direct fire.
+A bond is a deep connection between a person and an independent beast, not ownership. It is difficult to form and difficult to lose: when either partner dies, the other will usually die as well (see below). Exceptions, such as the General surviving its earlier bonds, are **extremely rare**. *(Established: this applies when a partner dies. When every bond goes quiet at the end of Book 3, the beasts don't die.)* Losing a bond feels like having a piece of oneself torn away. The three Dragon Clan dragons forming an accidental bond with the farmer during their warriors’ deaths is an unprecedented exception; neither the farmer nor the dragons intends or understands the bonds as they happen. Rules, limits and costs: see `Magic.md` (§2–§4, §10). Gifts may require training and restraint; some could aid perception, movement, endurance, communication, or interaction with the environment as well as combat.
 
-A bond is a deep connection between a person and an independent beast, not ownership. It is difficult to form and difficult to lose: when either partner dies, the other will usually die as well (see below). Exceptions, such as the General surviving its earlier bonds, are **extremely rare**. *(Established: this applies when a partner dies. When every bond goes quiet at the end of Book 3, the beasts don't die.)* Losing a bond feels like having a piece of oneself torn away. The three Dragon Clan dragons forming an accidental bond with the farmer during their warriors’ deaths is an unprecedented exception; neither the farmer nor the dragons intends or understands the bonds as they happen. The exact rules, limits, costs, and prevalence of learned magic and bond gifts remain open. Gifts may require training and restraint; some could aid perception, movement, endurance, communication, or interaction with the environment as well as combat.
+**How a bond feels** *(established)*: bonded partners **feel each other's emotions and pain** and **speak mind to mind**, and each carries a **visible bond mark**. *(Scope, settled:)* a bond shares what each partner **says** mind to mind and what each **feels**; it does **not** give full access to the other's thoughts or memories. A partner can keep a thought to themselves, though strong feeling leaks through. **Memories are not shared automatically, but they can be shown on purpose** *(settled in Chapters 28 and 40)*: a partner can choose to hold a memory up and push it across, the way you'd hold a picture up to a window, and the other sees it as if from inside (Aurveth's white bridge; Lisska's night on the island). It takes effort and intent, it can't be taken without consent, and it can't be pushed past what the giver can still reach (Aurveth can't show what she has lost). A live sight can be pushed to a bonded partner the same way, on purpose (Ruling 1, Ch 42); otherwise sight isn't shared. The riders' last moments that Calder lived as the bonds took (Chapter 18) are the one exception, a scar of the threefold pull, not a power. For the farmer, the bond means **three minds at once**, three sets of emotions, grief, and rage pressing on him together, which is overwhelming.
+- **Range** *(from the drafts)*: words carry three or four leagues; beyond that only feeling, which carries much further.
+- **Bond marks** *(from the drafts)*: Calder's three marks over his heart overlap like coins: bronze, rust and green. *(Working proposal: the mark appears where the bond took hold and changes as the bond deepens.)*
+- **Holding three costs him** *(from the drafts)*: headaches, nosebleeds, and dreams of the riders' deaths, the dying warriors' last moments echoing through the bonds, part of why it feels like a curse. Rage floods across the bond.
+- **Kin-speech** *(Rulings 5 and 13)*: dragons can speak to each other mind to mind as kin, without riders, within sight (Aurveth hears Morrow, 60). The great sentient beasts can do the same as "far kin": the lion and a dragon can speak mind to mind. Humans hear only their own bonded.
 
-**How a bond feels** *(established)*: bonded partners **feel each other's emotions and pain** and **speak mind to mind**, and each carries a **visible bond mark**. *(Scope, settled:)* a bond shares what each partner **says** mind to mind and what each **feels**; it does **not** give full access to the other's thoughts or memories. A partner can keep a thought to themselves, though strong feeling leaks through. **Memories are not shared automatically, but they can be shown on purpose** *(settled in Chapters 28 and 40)*: a partner can choose to hold a memory up and push it across, the way you'd hold a picture up to a window, and the other sees it as if from inside (Aurveth's white bridge; Lisska's night on the island). It takes effort and intent, it can't be taken without consent, and it can't be pushed past what the giver can still reach (Aurveth can't show what she has lost). The riders' last moments that Calder lived as the bonds took (Chapter 18) are the one exception, a scar of the threefold pull, not a power. For the farmer, the bond means **three minds at once**, three sets of emotions, grief, and rage pressing on him together, which is overwhelming. *(Working proposals: the mark appears where the bond took hold and changes as the bond deepens; the farmer carries three marks; taking the pull of three deaths left him with the dying warriors' last moments echoing through the bonds, part of why it feels like a curse.)*
+**One life between two** *(established)*: a bond shares one life between two, **in both directions**: when either partner dies, the other usually dies too. A beast usually withers when its human dies, and a human usually dies when their beast does. Exceptions are extremely rare. This raises the stakes for every bonded knight and beast in the war. It applies to dragons and their riders as to any bond (Hallam and Morrow, 60). **The three dragons survived because the farmer took the pull of all three deaths at once,** which is why his bond feels like a curse.
 
-**One life between two** *(established)*: a bond shares one life between two, **in both directions**: when either partner dies, the other usually dies too. A beast usually withers when its human dies, and a human usually dies when their beast does. Exceptions are extremely rare. This raises the stakes for every bonded knight and beast in the war. **The three dragons survived because the farmer took the pull of all three deaths at once,** which is why his bond feels like a curse.
-
-**Bonds and communication** *(established)*: a bond is what lets a person and a beast communicate. Without a bond, people and beasts can't understand each other, however intelligent the beast, with one rare exception: a beast that has learned to speak the human tongue (see below).
+**Bonds and communication** *(established)*: a bond is what lets a person and a beast communicate. Without a bond, people and beasts can't understand each other, however intelligent the beast, with one rare exception: a beast that has learned to speak the human tongue (see below). Beasts don't understand strangers' speech *(from the drafts)*.
 
 **Sentient beasts** *(established)*: some beasts are sentient, both before and after bonding. Bonding doesn't create their minds; it lets people reach them. Sentient beasts still exist after the fall, when bonding is gone.
 
 **A beast that learned to speak** *(established)*: at least one intelligent beast has **learned to speak the human tongue,** without a bond. In Book 2 it is one of the sources for the history of how Hearthmere found and chained its Titan. **Who it is** *(established)*: an ancient owl- or raven-like keeper of **Isvaren's oldest archive,** which learned human speech over centuries of listening to scholars. It is unique, or nearly so. **It is gone before the end** *(established)*: it is **killed in Book 2 by the surviving twin's hunters,** soon after telling Hearthmere's history, so the truth costs it its life. So when the bond goes quiet in Book 3's last pages, no beast is left that can still speak with people.
+
+**Bindings** *(from the drafts; see `Bestiary.md` and `Magic.md` §6)*: a binding imitates a bond but is not one: no understanding, no mind-speech, no shared life.
+- **Forced binding, as Maren feels it (73):** honey-smoke opens a beast the way sleep opens a sleeper; the binder lays his hand on its head and pours his will into the opening while holding himself shut; the beast's self goes out to make room. If someone gives instead of taking, the beast can meet them, and a true bond forms.
+- **Bound beasts without a binder.** When a binder *flees* (is gone but alive), the bound beast doesn't wake: it goes slack and follows any hand on the rope. It may slowly half-wake (52; Ruling 6; Old Grey). If the binder dies, the beast is free (`Bestiary.md`; `Magic.md` §6). Bound beasts don't take fright; they do what the hand on their neck wants.
 
 *Working proposals:*
 - **Before a bond, beasts can't be talked to.** The student earns the ancient lion's respect in Book 1 without words, through actions alone. Their first real conversation comes only with the bond.
@@ -41,6 +48,16 @@ The Dragon Clan breeds dragons and keeps them under control; its members bond on
 Beasts range from cat- or mouse-sized creatures to rare, mountain-sized **Titans**. Some are ancient, some mystical, and some dangerous. Not every beast can or wants to bond. Size does not automatically determine whether a beast can bond or what gift it grants.
 
 **Established:** “Titan” is the in-world name for mountain-sized beasts. (“Kaiju” was the earlier design term.)
+
+**Sizes** *(settled by the author)*: **most beasts are 8 ft and more,** apart from small personal ones such as falcons, hounds, martens and the cat. Dray-beasts are 8 ft and up and greyharts 9 ft. Fellwood boars are as big as dray-beasts, and its bears are taller than a house's eaves. **Titans are mountain-sized.** (The Last Titan, as first seen in Ch 79, is hill-sized; see `Bestiary.md`.)
+
+**The lion's power is earth and stone** *(settled by the author)*: visible elemental magic that grows with its size. In Book 1 it is faint:
+- the ground heaves when it turns or rises
+- pebbles jump and stone cracks when it roars
+- the earth groans when it rams the tower
+- the ground hums like a struck bowl when it watches Aurveth fly over, or turns toward Greyhold
+
+**Lisska's sight** *(from the drafts)*: a sparrow on a roof at a league, a face at two. Dragons hear far better than people (Lisska hears the hammer on the collar across two leagues of river).
 
 ### Titans
 
@@ -83,7 +100,9 @@ The six kingdoms differ in government and in their laws on magic, bonding, and k
 
 **Established:** One kingdom has banned magic and is exploring arcane-like technology. Kessmoor is the working name.
 
-**Working proposals:** A magical disaster within living memory may have led to the ban. Kessmoor could be known for foundries, canals, workshops, clockwork, runic engines, and alchemical lamps. Casting spells might be criminal; bonded people might face registration, restrictions, or exile. Its technology could depend on materials harvested from beasts, creating tension with the Wyldmarch. The relationship among the magic ban, bond gifts, and technology needs definition.
+**Settled:** the disaster behind the ban was at **Orrin**, now the Scald (see `Magic.md` §7 and `Atlas.md`).
+
+**Working proposals:** Kessmoor could be known for foundries, canals, workshops, clockwork, runic engines, and alchemical lamps. Casting spells might be criminal; bonded people might face registration, restrictions, or exile. Its technology could depend on materials harvested from beasts, creating tension with the Wyldmarch. For how the ban, bond gifts and its engines fit together, see `Magic.md` §7.
 
 ### Sarovel — kingdom of the chosen
 
@@ -99,27 +118,35 @@ The six kingdoms differ in government and in their laws on magic, bonding, and k
 
 - **What it is** *(established)*: a world destroyer, but **not always one: ages in chains made it a destroyer.** Once freed, it sets out to free five other major Titans so they can level the world.
 - **How it came to be chained** *(established)*: like the five, it was once put to sleep by the elder Titans. **Hearthmere discovered where it slept, freed it from that sleep, and chained it, then harnessed its power.** Hearthmere's temple held two relics: the Titan's own sleep relic, and the control relic in its deepest vault. **Hearthmere broke the sleep relic to wake and chain the Titan.** The control relic stayed hidden, and **Hearthmere never knew it was there**: old magic hid the vault beyond the chains. That leaves six relics in the world: five sleep relics and the control relic (seven originally, before Hearthmere broke one).
-- **Where Hearthmere's magic comes from** *(established)*: Hearthmere's wealth of magic is the chained Titan's harnessed power. Its prosperity depends on keeping an ancient beast in chains. *(Working proposals: the power leaks up from the catacombs into the land; it explains why Hearthmere licenses and regulates magic so carefully; and it's a secret as uncomfortable as Kessmoor's suspected use of harvested beasts.)*
+- **Where Hearthmere's magic comes from** *(established)*: Hearthmere's wealth of magic is the chained Titan's harnessed power. Its prosperity depends on keeping an ancient beast in chains. Hearthmere's lamps without oil, warming-stones, licensed words and sweet wells all come up from below (Hale, 49: "Not a well. A wound."). *(Working proposals: it explains why Hearthmere licenses and regulates magic so carefully, and it's a secret as uncomfortable as Kessmoor's suspected use of harvested beasts.)*
 - **Hearthmere made the destroyer** *(follows from the canon)*: the Titan wasn't always a destroyer; ages in chains made it one, and Hearthmere chose the chains. The kingdom of knights, the student's own kingdom, created the beast that ends the world. The songs that call it a monster are true now, but they leave out who made it one.
-- **Who knows** *(established)*: only Hearthmere's rulers and the inner circle of the knightly orders know the secret. Ordinary knights, students, and the people of Hearthmere don't. - **Most of Hearthmere's history is built on that secret** *(established)*: its wealth, its magic, its knightly orders, and its standing among the kingdoms.
-- **How the secret comes out** *(established)*: **the Restoration exposes it** as part of its case against the regimes. That gives the Restoration a moment where it is simply right. *(Working proposal: this happens in Book 1, and it's how the student learns it, which is part of what they must answer for before the lion can respect them.)*
-- **When Hearthmere found and chained it** *(established)*: the full history is **revealed in Book 2,** pieced together from **books, scrolls, and an intelligent beast that learned to speak the human tongue.**
-- **Knights as wardens.** Hearthmere's knightly orders may have begun as the catacombs' wardens. The student's school could sit near, or above, an entrance. Since only the orders' inner circle knows the secret, ordinary knights and students swear an oath that may still mention a duty "below" without knowing what it means.
+- **Who knows** *(established)*: only Hearthmere's rulers and the inner circle of the knightly orders know the secret. Ordinary knights, students, and the people of Hearthmere don't.
+- **Most of Hearthmere's history is built on that secret** *(established)*: its wealth, its magic, its knightly orders, and its standing among the kingdoms.
+- **How the secret comes out** *(established)*: **the Restoration exposes it** as part of its case against the regimes. That gives the Restoration a moment where it is simply right. *(Answered in Book 1: the paper "WHAT LIES BELOW" on Greyhold's river gate, ch 45; Hale confirms it to Maren, ch 49. It is part of what she must answer for before the lion can respect her.)*
+- **When Hearthmere found and chained it** *(established)*: about three hundred years ago (Ch 49, 57; Ruling 3). The full history is **revealed in Book 2,** pieced together from **books, scrolls, and an intelligent beast that learned to speak the human tongue.**
+- **Knights as wardens** *(answered in Book 1, ch 49)*: Hearthmere's knightly orders began as the catacombs' wardens; the first knights built the inner wall over the way down, and Greyhold sits above an entrance. Since only the orders' inner circle knows the secret, ordinary knights and students swear an oath that mentions a duty "below" ("Keep the watch below, and do not ask") without knowing what it means.
 - **Why the Restoration wants it.** It is the ancient, powerful beast the Restoration needs: a titan that could break any kingdom's army. Taking Hearthmere's catacombs is also a reason for its first open war to begin in the border region.
 - **What ancient beasts think of it.** An ancient beast held captive for centuries is the starkest version of the taint they despise.
-- **The lion as the Titan's kin** *(established)*. The ancient lion is the Titan's kin. That would explain why it lingers at the Old Ruin, so close to Hearthmere's catacombs, and why the Restoration's hunters disturb it there. The lion's ability to multiply could be inherited from its kin. It also gives the student's bond real weight. The student is a Hearthmere knight-in-training, from the kingdom that imprisoned the lion's kin, so earning the lion's respect means confronting what Hearthmere has done.
+- **The lion as the Titan's kin** *(established)*. The ancient lion is the Titan's kin. That explains why it lingers at the Old Ruin, so close to Hearthmere's catacombs, and why the Restoration's hunters disturb it there. The lion's ability to multiply could be inherited from its kin. It also gives the student's bond real weight. The student is a Hearthmere knight-in-training, from the kingdom that imprisoned the lion's kin, so earning the lion's respect means confronting what Hearthmere has done.
 
 **What the titan is:** now settled in canon above. The four early options (the first bond, the heart of Winshire, the legend is true, the mother of beasts) are retired. "The legend is true" became canon in a new form: a destroyer, made one by Hearthmere's chains. The idea that the lion's ability to multiply comes from its kin can still be used as backstory.
 
 **The seal.**
 
-- **The seal is weakening.** Hearthmere's magic may already be fluctuating, and that's the first sign the seal is failing. It could also explain the beasts behaving strangely near the border.
+- **The seal weakens before Book 1's end** *(answered in Book 1)*. Hearthmere's magic fails from night 90 (Ch 46–47): lamps without oil dim, go red, or go out; warming-stones go cold; licensed words (bone-setting) fail. Every beast in Greyhold's Long Barn turns to face the north wall when the ground hums.
+- **The hum** *(from the drafts)*. The ground hums near the island and in Greyhold's archive. It is in the lion too: Maren feels it through her palm on its mane (55).
 - **Two locks, opened at once** *(established)*. The catacomb seal requires two locks in two places to be opened at the same moment. **One lock lies deep in the catacombs beneath the student's school; the other is at the Old Ruin across the border region.** Each protagonist fights on home ground. **The catacombs run beneath the border all the way to the Old Ruin** *(established)*, so after the seal opens, the farmer, coming from the Old Ruin, and the student, coming from the school's lock, meet underground in the shaking catacombs. That is why the Restoration is led by twins, the leader who "can be in two places at once": the legend turns out to be the key to the plot.
-- **The oath is part of the seal.** The knights' oath may itself be part of the binding. Each knight sworn strengthens it, and each one broken or turned weakens it. The Restoration recruiting disillusioned knights would then be an attack on the seal itself.
+- **The oath is part of the seal** *(answered in Book 1, ch 49; see `Magic.md` §5)*. The noon oath is a many-voiced charm: "Every voice at the noon bell is a hand on the chain." Each knight sworn strengthens it, and doubt or a broken oath weakens it. The Restoration recruiting disillusioned knights is an attack on the seal itself.
+- **The black door** *(from the drafts)*. It stands at the end of Greyhold's archive, under the north tower. Warm to the hand, warm as a flank. Through it Maren feels something vast notice her hand, without any bond or voice (51).
+- **The keys** *(Ruling 14; settled after the full audit)*. Two long black keys open the black door: the archivist's (Hale's, which he gives Maren as he dies, 75) and the Watch-captain's (Thorne's). The Watch-captain's key also turns the knight's lock: it is turned in it once for each of the Watch, on the night they're sworn. Callis took it from Thorne at the gate, and Cassian turned the knight's lock with it (77). Corvin's key for the Ruin's lock is older: its bow is cut with the same hooked marks as the lock's boss (74). Where he got it is a Book 2 thread.
+- **The way under the river** *(from the drafts)*. At the island's north end the lion has dug a pit the size of a barn floor, through old fill, to a course of dressed grey stone the same as Greyhold's inner wall, running under the river toward Greyhold (53).
+- **The catacombs** *(from the drafts)*: a cavern under the river with six chains (links taller than a man) between anchor-stones at each end; a ledge high in the wall at each end with a stair up (Greyhold's archive; the Ruin's tower); a round chamber off each ledge holding a lock (a carved stone disc with an iron boss); a roofed stone road along the cavern side for the old wardens; an older stair in the far wall that Corvin knew.
+- **The stone knows the lion** *(from the drafts)*: the grey stone of the catacombs moves aside for Orrun (75, 78, 79).
+- **After the Titan (79)**: the Old Ruin and its island are gone; the river has filled the hole. Redwatch's tower is cracked; Greyhold's inner wall is split top to bottom. Hearthmere's magic has failed: lamps without oil, warming-stones, licensed words, sweet wells.
 
 **Working proposals about the kingdom:** Hearthmere is a natural home for the student’s school. Bonded and unbonded knights serve as equals, and magic is licensed. Farmland, roads, river towns, castles, and training grounds make it a useful place to introduce knightly duties and everyday stakes. Its neutrality could be strained by the Dragon Clan’s war and neighboring kingdoms.
 
-**The knightly orders** *(from the drafts)*: the first rule after the oath is **"Subdue, don't kill"**, carved over Greyhold's armoury door: never kill a beast if there is any other way, because you can't know who else you're killing. Greyhold isn't the only school: **Ashford Keep** was another, now closed. Reports go up to the knight-captains; *Noted.* means read, understood, and not acted on.
+**The knightly orders** *(from the drafts)*: the first rule after the oath is **"Subdue, don't kill"**, carved over Greyhold's armoury door: never kill a beast if there is any other way, because you can't know who else you're killing. Greyhold isn't the only school: **Ashford Keep** was another, now closed. Reports go up to the knight-captains; *Noted.* means read, understood, and not acted on. The Watch is a subset of the inner circle (Ruling 4). **Greyhold's arms (58):** scaffolds and timber hoardings on the river wall; four throwing-engines on the river towers, turned toward the Saltreach bank.
 
 ### Isvaren — kingdom of scholars
 
@@ -141,16 +168,20 @@ The six kingdoms differ in government and in their laws on magic, bonding, and k
 
 **Established:** Factions such as the Dragon Clan and radical movements exist. The Dragon Clan is a faction, not a kingdom. It lives on the lawless northern edge of Saltreach, where the League's writ barely reaches. Its lands lie in the Marches, on the Saltreach side of the river border.
 
+**The Clan's laws** *(from the drafts)*:
+- **No bonded rider fights kin.**
+- **The ford truce.** Under the old law, the bonded may sit above a ford meeting as keepers and come down on whoever breaks the truce. It hadn't been done since Teo's grandfather's time.
+
 **Working proposals:**
 
 - Sarovel’s unchosen may organize for equal rights, with both peaceful and violent groups.
 - Kessmoor purists may want magic banned throughout the world.
 - Militant Keepers may attack poachers and beast traders.
-- Bond-forcers bind beasts and take their gifts without consent. A binding imitates a bond but is not one: no understanding, no mind-speech, no shared life (see `Bestiary.md`).
+- Bond-forcers bind beasts and take their gifts without consent. A binding imitates a bond but is not one (see **Bindings** above and `Bestiary.md`).
 
 **The Restoration's mark** *(from Chapters 2, 9, 10)*: a small **ring of six dots**, stamped on its beast chains and cut into its people's gear; its pamphlets show six hands joined in a ring over the words **"One again."**
 
-**The Restoration (established antagonist):** a faction that wants to restore the old realm of Winshire by overthrowing the current regimes, capturing beasts through raids, roadblocks, and camps, and finding an ancient, powerful beast to aid its cause. See `Story.md` for its proposed beliefs, methods, and links to the Dragon Clan war. The bond-forcers above may be its methods rather than a separate group.
+**The Restoration (established antagonist):** a faction that wants to restore the old realm of Winshire by overthrowing the current regimes, capturing beasts through raids, roadblocks, and camps, and finding an ancient, powerful beast to aid its cause. See `Story.md` for its beliefs, methods, and links to the Dragon Clan war. The bond-forcers above are its methods rather than a separate group (as drafted in Book 1).
 
 The protagonists might oppose, join, or exploit such groups. “Radical” should not automatically mean “evil”; each group needs a clear cause and methods.
 
@@ -161,9 +192,10 @@ Established landscape types include outskirts and villages, farmlands, hunting g
 - **Outskirts and villages:** Escort travelers, defend against beasts and bandits, and help people with few resources. Villages reveal each kingdom’s laws and social structure.
 - **Farmlands:** The farmer’s home ground and a way to show the cost of the Dragon Clan’s conflict through damaged fields and threatened villages. Small beasts may live alongside people.
 - **Hunting grounds:** A story here might protect a beast, help a hunter feed a village, or profit from trade.
+- **Forests** *(settled by the author)*: **the forests of Winshire are vast,** thick enough to hide a dragon. Book 1 adds **the Fellwood**, under the Scarfell east of Harrow's End, with Crow Scar standing out of it, and **the Wendwood**, along the east bank of the lower Wend almost to the coast.
 - **Mountains:** Dragon territory, dangerous passes, possible Dragon Clan strongholds, and the edges of the world, where legends place the Titans.
 - **Rivers and lakes:** Trade routes, borders, ferries, bridges, river towns, and water-beast habitats.
-- **Legendary locations:** Hearthmere's catacombs and the titan imprisoned in them, the ancient lion’s lair, old ruins, the site of Kessmoor’s possible disaster, a place legends call a sleeping Titan's resting ground (Book 1 treats it as myth), or the place where the three Dragon Clan warriors fell.
+- **Legendary locations:** Hearthmere's catacombs and the titan imprisoned in them, the ancient lion’s lair, old ruins, the Scald, where Orrin stood, a place legends call a sleeping Titan's resting ground (Book 1 treats it as myth), or the place where the three Dragon Clan warriors fell.
 
 ### Where the story begins
 
@@ -176,59 +208,23 @@ Established landscape types include outskirts and villages, farmlands, hunting g
 - lets the two strands cross naturally on the same roads, rivers, and ruins;
 - puts the Restoration's raids, roadblocks, and camps between them.
 
-**The Marches** *(established)*: the border region is called **the Marches**. **A river marks the border,** and the Old Ruin stands on an island or ford in it. Still open: the exact layout. Hearthmere remains a working name.
+**The Marches** *(established)*: the border region is called **the Marches**. **A river marks the border,** and the Old Ruin stands on an island or ford in it. The layout and distances are in `Atlas.md`. Hearthmere remains a working name.
+- **Days and sky** *(from the drafts)*: Hearthmere is the west bank, so the sun and moon rise over the Saltreach bank.
+- **The freeze and the thaw** *(from the drafts)*: the Wend freezes hard on night 74; the channel under the Hearthmere bank stays open until night 80. Ice a hand and a half thick by midwinter. The south wind comes on the full moon (about day 117); "the river goes out" on night 119, from upriver down, all at once. River people never say the ice breaks. There are no cannon in this world.
+- **Hollin Knowe** *(from the drafts)*: a long rise at the Brackenwood's edge two leagues west of the river, with the old watch's beacon-stones.
+
+## Calendar
+
+*(Settled after the full audit, Oct 2026.)*
+- **Book 1** runs from the harvest fair at the end of summer (day 0) to sunrise on day 144, in early spring; midwinter is about day 88. The prose seasons govern. The day numbers in the notes run fast after midwinter, so they are kept as an order of events, not as a dated calendar.
+- **Book 2** runs about a year from early spring: midsummer about its day 98, midwinter about day 281 (see `Book 2/Chapter_Plan.md`, provisional).
+- **Book 3** runs from spring to the end of the next winter, with its final battle in deep winter (see `Book 3/Chapter_Plan.md`, provisional).
+- No year length in days is fixed. Seasons in the prose are given by name, never by number.
 
 ## Open world questions
 
-- How common are beasts and bonds? Are there Titans beyond the six destroyers and the elder Titans?
-- What are the limits and costs of learned magic and bond gifts?
-- Which landscapes and legendary locations belong to each kingdom?
-- How does the Dragon Clan breed and control dragons, and how do the dragons experience that system?
-- Where are the elder Titans, and what do people's faiths say about them?
-- Is the seal already weakening before Book 1's end?
-- Where are the catacomb entrances, and who guards them?
+- How common are bonds, kingdom by kingdom? *(Partly answered in Book 1: the Clan keeps hundreds of dragons, with fourteen bonded pairs before the mill (eleven after, Ch 48); Greyhold's Long Barn holds thirty-one bonded beasts (Ch 27). Other Titans exist beyond the six destroyers and the elders, in the land beyond the sea: see `Series_Outline.md`.)*
+- How does the Dragon Clan breed and control dragons, and how do the dragons experience that system? *(Still open; the Book 3 plan proposes opening the pens.)*
+- Where are the elder Titans, and what do people's faiths say about them? *(Proposed: the land beyond the sea, `Series_Outline.md`; "the Lit Shore" in the Book 3 plan.)*
 
----
-
-## Added while drafting Chapters 11–40 *(proposals unless marked)*
-
-**Rules settled by the author:**
-- **The lion's power is earth and stone,** visible elemental magic that grows with its size. In Book 1 it is faint:
-  - the ground heaves when it turns or rises
-  - pebbles jump and stone cracks when it roars
-  - the earth groans when it rams the tower
-  - the ground hums like a struck bowl when it watches Aurveth fly over, or turns toward Greyhold
-- **The forests of Winshire are vast,** thick enough to hide a dragon. New forests: **the Fellwood**, under the Scarfell east of Harrow's End, with Crow Scar standing out of it; and **the Wendwood**, along the east bank of the lower Wend almost to the coast.
-- **Most beasts are 8 ft and more,** apart from small personal ones such as falcons, hounds, martens and the cat. Dray-beasts are 8 ft and up and greyharts 9 ft. Fellwood boars are as big as dray-beasts, and its bears are taller than a house's eaves.
-- **Titans are mountain-sized.**
-
-**The bond, as drafted:**
-- **Range:** words carry three or four leagues; beyond that only feeling, which carries much further.
-- **Bond marks:** Calder's three marks over his heart overlap like coins: bronze, rust and green.
-- **Beasts and strangers:** beasts don't understand strangers' speech. Memory-showing is voluntary (see "How a bond feels" above).
-- **Holding three costs him:** headaches, nosebleeds, and dreams of the riders' deaths. Rage floods across the bond.
-- **Clan law:** no bonded rider fights kin.
-
-**The Oneroad** had milestones that counted to the bridge at the island, "the middle of the world". Of the bridge only drowned pier stumps remain, showing in dry summers.
-
-**Days and sky:** Hearthmere is the west bank, so the sun and moon rise over the Saltreach bank.
-
-
-## Added while drafting Chapters 41–79
-
-- **The freeze and the thaw.** The Wend freezes hard on night 74; the channel under the Hearthmere bank stays open until night 80. Ice a hand and a half thick by midwinter. The south wind comes on the full moon (about day 117); "the river goes out" on night 119, from upriver down, all at once. River people never say the ice breaks. There are no cannon in this world.
-- **The magic fails (from night 90).** Lamps without oil dim, go red, or go out; warming-stones go cold; licensed words (bone-setting) fail. Every beast in Greyhold's Long Barn turns to face the north wall when the ground hums.
-- **The hum.** The ground hums near the island and in Greyhold's archive. It is in the lion too: Maren feels it through her palm on its mane (55).
-- **The black door.** Warm to the hand, warm as a flank. Through it Maren feels something vast notice her hand, without any bond or voice (51). The long black key is turned once for each of the Watch, on the night they're sworn.
-- **The way under the river.** At the island's north end the lion has dug a pit the size of a barn floor, through old fill, to a course of dressed grey stone the same as Greyhold's inner wall, running under the river toward Greyhold (53).
-- **Bound beasts without a binder.** When a binder is gone, the beast doesn't wake: it goes slack and follows any hand on the rope. Whether it comes back is unknown (52). Bound beasts don't take fright; they do what the hand on their neck wants.
-- **One life between two** applies to dragons and their riders as to any bond (Hallam and Morrow, 60).
-- **The Clan's ford truce.** Under the old law, the bonded may sit above a ford meeting as keepers and come down on whoever breaks the truce. It hadn't been done since Teo's grandfather's time.
-- **Lisska's sight.** A sparrow on a roof at a league, a face at two. Dragons hear far better than people (Lisska hears the hammer on the collar across two leagues of river).
-- **Greyhold arms (58):** scaffolds and timber hoardings on the river wall; four throwing-engines on the river towers, turned toward the Saltreach bank.
-- **Hollin Knowe**: a long rise at the Brackenwood's edge two leagues west of the river, with the old watch's beacon-stones.
-- **Forced binding, as Maren feels it (73):** honey-smoke opens a beast the way sleep opens a sleeper; the binder lays his hand on its head and pours his will into the opening while holding himself shut; the beast's self goes out to make room. If someone gives instead of taking, the beast can meet them, and a true bond forms.
-- **The catacombs:** a cavern under the river with six chains (links taller than a man) between anchor-stones at each end; a ledge high in the wall at each end with a stair up (Greyhold's archive; the Ruin's tower); a round chamber off each ledge holding a lock (a carved stone disc with an iron boss); a roofed stone road along the cavern side for the old wardens; an older stair in the far wall that Corvin knew.
-- **The stone knows the lion:** the grey stone of the catacombs moves aside for Orrun (75, 78, 79).
-- **After the Titan (79):** the Old Ruin and its island are gone; the river has filled the hole. Redwatch's tower is cracked; Greyhold's inner wall is split top to bottom. Hearthmere's magic has failed: lamps without oil, warming-stones, licensed words, sweet wells.
-- **Black-door keys:** two, the archivist's and the Watch-captain's.
+*Answered and removed:* the limits and costs of magic (`Magic.md` §2–§4, §10); which landscapes and places belong to each kingdom (`Atlas.md`, proposal); whether the seal weakens before Book 1's end (yes, from night 90: **The seal** above); where the catacomb entrances are and who guards them (**The seal** and **The keys** above).

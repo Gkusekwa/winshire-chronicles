@@ -15,7 +15,8 @@ Draft notes: From the fourth hour of night to just before midnight, night one hu
 - Corvin talks while he waits, a little, the way a man talks to a beast he's going to keep: the one realm; Hearthmere's crime; the Titan as the one power the six crowns can't stand against; "my brother believes it. I believe in the hour." He knows Rook is dead; he says nothing about it at all.
 - The echo: the ground moves. Up through the rock, through the chamber floor, through Calder's knees. Far below, the six chains groan and go taut and slacken and go taut, with a sound like ships' cables in a gale. Through the bronze mark Calder hears Aurveth, above, on the hill of the fort: *It's pulling. Against them. It knows. Something has told it.* And Kharrak: *I can feel it in my teeth.*
 - Above, the ironback comes ashore. Kharrak and Aurveth fight it in the fort. Calder feels it through the marks in pieces. Kharrak, cut, roaring, starts tearing at the tower floor with his claws over the stair, trying to dig down to Calder.
-- Corvin looks at the lantern-clock he's brought, a candle marked in hours. "Ten breaths before the hour," he says, and puts the key in the lock. Calder can't move. It isn't open yet. It's going to be.
+- Corvin looks at the lantern-clock he's brought, a candle marked in hours, with ten small notches below the last hour-mark. He puts the key in the lock and counts the notches as the flame reaches each, not breaths: "Ten marks. My brother has the same candle." (Cassian counts to the same marks in 77, so the long dialogue there can't put them out of step.) The key's bow is cut with the same hooked marks as the boss, older than the iron round it: not a Watch key (where Corvin got it is a Book 2 thread). Calder can't move. It isn't open yet. It's going to be.
+- Magic (proposal): the hidden runes on the inside of the chain-links burn white (the surge; matches 77); the disc's letters glow faintly. Corvin has a ring-broken Isvaren Fellow with him (small, grey, scholar's gown, a pale band where his ring was), a drawer standing on the old stone: his first release throws Calder down two paces so the men can take him, and leaves him nosebleeding, shaking and cold. Corvin calls him "Fellow". He talks like the colleges' men at the Wendmouth quays, all his words very clean (Calder's only tie to Isvaren). He has one release left (76): "Once more. Not twice."
 notes -->
 
 ---
@@ -116,6 +117,8 @@ Chain.
 
 Going down. Into the dark below the ledge, past where the light reached. One link of it, the nearest, was close enough to touch, a hand's breadth from the edge of the rock. Iron. Black. With the rust gone hard on it like bark. And it was taller than he was. One link. Taller than he was by a head.
 
+On the inside of it, in the curve where the iron went round, there was a line of light. Thin. White. Not the brand's. It came out of the iron itself, in small square marks with hooks at the ends, over and over, the way the letters went on the verse. Somebody had struck writing into the inside of the link where nobody would ever see it, and it was burning.
+
 Beside it, a little way off, another. And beyond that another. He counted. Six. Six chains, side by side, each link taller than a man, going down from somewhere high in the dark over his head, past the ledge, into the dark below.
 
 They were moving.
@@ -144,7 +147,7 @@ It wasn't long. Twenty paces. Square, cut clean, the walls carved with the same 
 
 He stopped in the mouth of the passage.
 
-It was cut out of the rock. Round, like the inside of the tower above, but bigger. The roof a low dome. And in the middle of the floor, filling most of it, a disc of grey stone. Smooth. Flat. As wide as a threshing floor. Set into the rock floor so close you could hardly see the join. Carved all over in rings of the hooked letters, round and round, getting smaller toward the middle.
+It was cut out of the rock. Round, like the inside of the tower above, but bigger. The roof a low dome. And in the middle of the floor, filling most of it, a disc of grey stone. Smooth. Flat. As wide as a threshing floor. Set into the rock floor so close you could hardly see the join. Carved all over in rings of the hooked letters, round and round, getting smaller toward the middle. The letters had the same light in them as the chain. Faint. Coming and going, like breath on a cold window.
 
 In the middle, a boss of iron. Black. As big as a man's two hands. With a keyhole in it.
 
@@ -154,6 +157,8 @@ Tall. Thin. Dark hair cut short. Hands behind his back. Still.
 
 Round the walls of the chamber, ten men in the coats of Delling's company, with swords.
 
+And one more, on the stone disc a pace from Corvin, who wasn't in a company coat. A small grey man in a long brown scholar's gown gone ragged at the hem, standing very square on the carved stone with his feet apart and his hands loose at his sides. He had a band of white skin round the second finger of his right hand, the way a man's finger goes under a ring he's worn all his life, and no ring on it.
+
 Corvin Vale turned his head and looked at Calder standing in the mouth of the passage with a burning branch in one hand and a dead man's knife in the other.
 
 "Fenn," he said.
@@ -162,7 +167,15 @@ Corvin Vale turned his head and looked at Calder standing in the mouth of the pa
 
 He went at them.
 
-He'd think about it later and not know why. Ten men with swords and he was a barley farmer with a knife. He went at them anyway, out of the passage into the chamber, straight across the stone disc at the man with the lantern, and he got two of them. The brand into one man's face and the man went down screaming. Joss's knife into the next, the way you'd stick a pig, low, under the coat, and the man folded over it.
+He didn't know why. Ten men with swords and he was a barley farmer with a knife. He went at them anyway, out of the passage into the chamber, straight across the stone disc at the man with the lantern, and he got two of them. The brand into one man's face and the man went down screaming. Joss's knife into the next, the way you'd stick a pig, low, under the coat, and the man folded over it.
+
+The small grey man lifted his hands.
+
+Something hit Calder. Nothing he could see. A weight, all at once, from in front, like a gate when the wind takes it, the whole flat of it. It picked him up off the stone and threw him down on his back two paces away, and the breath went out of him, and for a moment he couldn't see. When he could, the grey man was standing where he'd stood, with his hands still out, and blood coming out of his nose onto his lip. He wiped it with the back of his wrist. His hands were shaking.
+
+"Well enough, Fellow," said Corvin.
+
+"Once more," said the grey man. "Not twice." He talked like the colleges' men at the Wendmouth quays, all his words very clean.
 
 Then the rest had him.
 
@@ -180,6 +193,8 @@ The sword stopped.
 
 "I know what he did." Corvin's voice didn't change at all. "Hold him."
 
+The grey man had sat down on the edge of the disc, on the carved stone, with his hands between his knees. Calder could feel the cold coming off him from where he knelt. Like a man brought in out of the snow.
+
 ---
 
 They held him.
@@ -188,7 +203,7 @@ He knelt on the stone disc in the middle of the chamber with his arms twisted up
 
 Corvin looked back.
 
-He had a long black key in his hand. Iron, as long as his forearm, with a bit as big as a child's fist. He was holding it loosely, the way you'd hold a walking-stick. On the floor beside the iron boss, on the stone, stood a fat candle in a glass, burning steady, with marks scored down the side of it. An hour-candle. The kind the shepherds used.
+He had a long black key in his hand. Iron, as long as his forearm, with a bit as big as a child's fist. Its bow was cut with the same hooked marks as the boss. Old. Older than the iron round it. He held it loosely. On the floor beside the iron boss, on the stone, stood a fat candle in a glass, burning steady, with marks scored down the side of it. An hour-candle. The kind the shepherds used.
 
 "A halter," said Corvin. "That's what you are. Do you understand that? Not a man. Not a sign. A halter. With you, we have the dragons. Without you…" He tilted his head very slightly. "Without you we have a great deal of trouble on a hill above us. So." He looked at the candle. "You'll live. My brother would be sorry if you didn't. He'd be sorry for days."
 
@@ -200,13 +215,13 @@ Corvin didn't answer.
 
 Corvin looked at him for a long moment with his grey eyes.
 
-He said nothing about Rook. His face didn't change. He looked at Calder the way you'd look at a man who'd told you the weather, and then looked back at the candle.
+He said nothing about Rook. His face didn't change. He looked back at the candle.
 
 ---
 
 He talked, a little, while he waited.
 
-Not much. Not the way his brother talked. Quietly, standing by the iron boss with the key loose in his hand, the way a man talks to a beast in a stall while he waits for it to settle. Calder didn't think he was talking to him at all.
+Not the way his brother talked. Quietly, standing by the iron boss with the key loose in his hand, the way a man talks to a beast in a stall while he waits for it to settle. Calder didn't think he was talking to him at all.
 
 "Three hundred years," said Corvin. "Hearthmere has kept it down there. Bleeding it. Lighting its lamps. Every knight in the kingdom saying *keep the watch below* at noon without knowing what it means." He looked at the carved letters on the disc under his feet. "And they call us the ones who chain beasts."
 
@@ -268,13 +283,13 @@ Corvin looked up at it.
 
 ---
 
-The candle had burned down to the last mark.
+The candle had burned down to the last hour-mark. Below it, scored close together in the wax, were ten small notches, and the flame was at the first.
 
 Corvin looked at it. Then he stepped onto the iron boss in the middle of the stone disc, and crouched, and fitted the long black key into the keyhole. It went in a long way. Further than Calder would have thought. To the bow.
 
-He knelt there with his hand on it. Not turning it.
+He knelt there with his hand on it, not turning it, and his eyes on the candle.
 
-"Ten breaths," he said.
+"Ten marks," he said. "My brother has the same candle."
 
 Calder pulled against the men holding him. He couldn't move. Four of them. A knee in his back. His arms up behind him so far his shoulders were cracking.
 

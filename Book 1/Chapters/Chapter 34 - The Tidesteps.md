@@ -15,11 +15,12 @@ Draft notes: Day 49: the day of Ferriby (Chapter 33). Calder leaves the dragons 
 - Calder doesn't know the thin man at Ferriby. The reader does: the same face, the same grey eyes, warm where the other was still. (The twins, Cassian and Corvin Vale. Nobody in Book 1 knows there are two until late.)
 - Afterwards he scouts Gallows Quay at dusk: cages, a buyer's office with Halloran colours. In a tavern on the quay, the Crane, a beast-seller grumbles that the trade from the Marches has gone to the dogs: "knights freeing other people's property, and now some Hearthmere knight-student up north who sits with the Old Ruin's monster instead of killing it, and the hunters who were after it won't go back."
 - Calder feels the dragons all day, faint, five leagues off. When Vale says "three dragons", Lisska, who can't hear the words, feels him go cold and frightened, and the green mark pulses with her worry.
+- Magic touches: a charm-seller on the Tidesteps crying "warranted" charms with the Tide Council stamp; the Halloran house's hired drawer glimpsed at Gallows Quay, feared by the beast-sellers.
 notes -->
 
 ---
 
-There's a saying in the Marches about Wendmouth. *Go to Wendmouth with a full purse and you'll come home with a story.* It means you'll be robbed. Everybody knows it. The Clan says it, the river says it, the farms say it. Calder's father had been to Wendmouth once, when he was young, with a cartload of barley and a head full of ideas about better prices, and had come home three weeks later with an empty cart, no purse, a broken nose and a story he never told.
+*Go to Wendmouth with a full purse and you'll come home with a story,* they say in the Marches. Calder's father had been to Wendmouth once, when he was young, with a cartload of barley, and had come home three weeks later with an empty cart, a broken nose and a story he never told.
 
 Calder had always wondered what the story was. Walking down the drove road into Wendmouth with four coppers in his purse and nothing else, he thought he might be about to find out.
 
@@ -59,7 +60,7 @@ It was a long low room under a warehouse, with straw on the floor and a fire at 
 
 And felt them.
 
-Far off. Faint. Five leagues back up the drove road, in the hollow under the oaks of the Wendwood. Too far to talk. He'd known it would be; he'd tested it with Lisska at Crow Scar. Three leagues, perhaps four, and then the voice went thin and went. But the feeling was there. Like a fire in another house, through the wall. Three of them. Aurveth, slow and deep and patient, asleep or nearly. Kharrak, restless, prowling, unhappy, the red tide low but never quite gone. And Lisska. Bright and anxious and small, a little hum of worry going round and round, like a bee in a jar, the way it had been since he'd walked away from them at dawn.
+Far off. Faint. Five leagues back up the drove road, in the hollow under the oaks of the Wendwood. Too far to talk. He'd known it would be; he'd tested it with Lisska at Crow Scar. Three leagues, perhaps four, and then the voice went thin and went. But the feeling was there. Three of them. Aurveth, slow and deep and patient, asleep or nearly. Kharrak, restless, prowling, unhappy, the red tide low but never quite gone. And Lisska. Bright and anxious and small, a little hum of worry going round and round, like a bee in a jar, the way it had been since he'd walked away from them at dawn.
 
 *I'm all right,* he thought, at her. He knew she couldn't hear it. He thought it anyway, and tried to feel it. *I'm all right, little one. I'm sitting down. I'm safe.*
 
@@ -94,6 +95,8 @@ When Calder came out onto the Strand at noon with the woman from Ewe Hollow and 
 He'd never seen so many people. Not at Coldtarn. Not at Teo's pyre. They filled the Tidesteps from top to bottom and side to side, sitting and standing, packed so close that he couldn't see the stone. Thousands. Two thousand. Three. All facing up the steps toward the platform at the top. Fishwives and dockers and sailors and clerks. Marches people from the doss-houses, in their burned clothes. Women with babies. Old men on sticks. Young men, a great many young men, with iron rings on cords round their necks.
 
 He saw the rings and his stomach went cold.
+
+There were sellers working the steps, the way there are at any crowd. Hot pies. Ballad-sheets. A thin man in a sea-green coat with a tray round his neck, going along the rows calling "Warranted, warranted," holding up little knots of cord and twists of paper with a stamp on each: fair winds, a dry hold, a sound night's sleep. The Tide Council's own stamp, he said, on every one. The woman from Ewe Hollow said half the stamps in Wendmouth were cut in the same back room as the charms. She bought one anyway, for her youngest.
 
 The woman from Ewe Hollow pulled him down into a gap on the steps, halfway, near the middle, and sat. He sat beside her. Above them, on the platform at the top of the steps, there was nobody yet. Just the iron rail, and the empty stone, and the four great painted warehouses standing round it like judges.
 
@@ -133,7 +136,7 @@ Vale told it like a story you'd tell a child at bedtime. Slowly. Simply. With hi
 
 He let that go down the steps.
 
-"Think about that," he said. "Nobody sat in the front of the hall because they'd a falcon on their fist. Nobody got the good land because their grandfather had a bond and yours didn't. Nobody was called *unchosen*." He said the word as if it tasted bad. "There wasn't a word for it. It didn't mean anything. A beast was a beast and a person was a person, and they walked the road together, and when they chose each other, they chose each other, and it didn't put either of them above anybody else."
+"Think about that," he said. "Nobody sat in the front of the hall because they'd a falcon on their fist. Nobody got the good land because their grandfather had a bond and yours didn't. Nobody was called *unchosen*." He let the word sit on the steps a moment, like something spat out. "There wasn't a word for it. It didn't mean anything. A beast was a beast and a person was a person, and they walked the road together, and when they chose each other, they chose each other, and it didn't put either of them above anybody else."
 
 The crowd was so quiet that Calder could hear the woman beside him breathing.
 
@@ -221,7 +224,7 @@ He'd wanted to stand up.
 
 He went to Gallows Quay at dusk.
 
-He didn't decide to. His feet took him, the way they'd taken him to the lower stable at Varrhold on the night of Teo's pyre. Down from the Tidesteps, along the harbour, past the ships, to the long grey stone quay that went out into the water with buildings on it and cages.
+His feet took him, the way they'd taken him to the lower stable at Varrhold on the night of Teo's pyre. Down from the Tidesteps, along the harbour, past the ships, to the long grey stone quay that went out into the water with buildings on it and cages.
 
 It was closing. The market, if that's what it was, was over for the day. The cages along the quay were mostly empty, their doors standing open, their floors swept. A few weren't. He walked along the quay in the dusk with his collar up and looked into them as he went, the way anyone would.
 
@@ -232,6 +235,8 @@ A pair of martens in a wire box, going round and round.
 A thing like a great white ox, with a hump, that he'd seen in Aurveth's memory walking free on a white bridge in the sun. Lying in a cage too small for it, on its side, with its eyes shut, breathing.
 
 And at the end of the quay, a building. Stone, three floors, with a sign over the door painted in the dark red and gold of one of the trading houses, and a little brass plate beside it with a name on it that he couldn't read. There were lights in the upper windows. There was a man at the door. A big one, with a cudgel.
+
+While he looked, the door opened and a woman came out. Grey-haired, plain, in a plain coat, nobody you'd look at twice, and the man with the cudgel stood back from her the way a dog gets off a chair. She went off along the quay without looking at anybody. Two beast-sellers coming the other way crossed to the far side to let her by. When she'd gone, one of them said, low, "Halloran's drawer," and the other spat on the stones for luck and didn't look after her.
 
 He didn't go near it. He turned round and walked back along the quay and went into the tavern at the landward end. A low, smoky, crowded place called the Crane, with a painted bird on its sign and sawdust on its floor, full of men who smelled of beasts.
 
@@ -267,7 +272,7 @@ Calder sat in the corner with his cup of small beer and didn't drink it.
 
 *Cuts it loose off their chains with a hammer.*
 
-He thought about the girl on the stream bank, twenty paces from something that had roared like the end of the world. Not moving. *It would have been stealing,* she'd said.
+He thought about the girl on the stream bank, not moving. *Like robbing it,* Rue had said.
 
 *She's on her own over there. On the island. With the hunters and the Captain's lot.* And then: *no. She's not on her own. She's got the old thing.*
 
@@ -297,7 +302,7 @@ He walked on for a while before he answered.
 
 He felt Kharrak come up, through the rust-red mark. Sharp. Awake. *Who?*
 
-He thought about the face at the rail. The long pale face. The smile that went down three thousand people like sun coming out from behind a cloud. The grey eyes going over the crowd like a man looking over a field of barley, warm, and very, very interested.
+He thought about the face at the rail. The long pale face. The smile that went down three thousand people like sun coming out from behind a cloud. The grey eyes going over the crowd, warm, and very, very interested.
 
 "His name's Vale," he said. "And everyone in Wendmouth would die for him."
 

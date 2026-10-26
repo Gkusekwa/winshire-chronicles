@@ -23,6 +23,9 @@ Draft notes: Night one hundred and forty-two to dawn on day one hundred and fort
 - What he gives Lisska: the five links from the first night (the Restoration's own chain); a strip torn from his shirt with TWO burned into it with a charred stick from his own field that Kharrak breathes alight, the only word he can write besides his name; and the ribbon already on her horn. Wren's. He hopes the ferrywoman told her. He hopes she'll know whose it is.
 - Kharrak: *She won't understand.* Calder: "Then she won't. But she'll know someone over here is trying to tell her something." Lisska goes at first light on day 143, west, low, toward the Brackenwood, where the prints pointed.
 - He stays. With Aurveth and Kharrak, on the hill, through day 143. Tomorrow night they'll go to the Ruin.
+- Magic (proposal): Fisk mutters the eel-word over his oars (never worked on the river, running water). Night 142 from the Fenn hill, Greyhold's dead wall-lamps flare white along their whole line for a breath (the surge seen from the Saltreach bank). Aurveth: the hooked letters "aren't men's letters. Men were given them."
+- Revision (proposal): Aurveth hedges her account of the waking and chaining ("I think", twice; "I wasn't below").
+- Revision (proposal): Aurveth's first partner. Reading the verse from memory brings back his face and name: **Ennis**, a warden of the bridge, who stood at the door when the first knights came. She thinks the knights' binders cut him out of her before he died, which is why his death didn't kill her and why she remembers only pieces. She thinks that is also why she survived Ragnald (a place cut once heals harder). She says "I think" and "there's more, I can't reach it", leaving room for the bird in Book 2 to add detail.
 notes -->
 
 ---
@@ -35,7 +38,7 @@ By noon the fort was half empty. The fires burned down. The tents in the oaks st
 
 Corvin stayed.
 
-He stood under the arch most of the day, the way he had before, with his hands behind his back, looking west across the channel at whatever was happening at Redwatch. Men came to him running and he said one word and they went away running. A few hundred stayed with him in the fort. The guards stayed on the tower door.
+He stood under the arch most of the day with his hands behind his back, looking west across the channel at whatever was happening at Redwatch. Men came to him running and he said one word and they went away running. A few hundred stayed with him in the fort. The guards stayed on the tower door.
 
 Rook stayed on the step, whittling, until the afternoon.
 
@@ -69,13 +72,17 @@ He nearly walked into the eel-boat in the dark. He heard Fisk before he saw him:
 
 Fisk put him ashore on the Saltreach bank above the Eelweir, a long way up, under the Fellwood, where the beck-water came down through the trees and nobody was. He didn't get out of the boat.
 
-"Go on," said Fisk. "And don't come back to the reeds. I'm going home."
+"Go on," said Fisk. "And don't come back to the reeds. I'm going home." He spat on his hands and said something over the oars, two words, old, in a mutter. "Eel-word," he said, when he saw Calder look. "Never worked on the river. Running water. My da said it anyway, and his."
 
 "Fisk…"
 
 "I'll be in my door," said Fisk. "With my pipe. Watching." He pushed off. "Somebody's got to. To tell it after."
 
-Calder went up through the Fellwood in the dark to the hill above the Fenn farm, where they used to lie. It was empty. The snow was gone off it. The grass was coming. Below him, in the dark, the black ruin of his own farm, and Harrow's End full of fires, and the Eelweir, and the island beyond it, smaller now, its fires burning down.
+Calder went up through the Fellwood in the dark to the hill above the Fenn farm, where they used to lie. It was empty. The snow was gone off it. The grass was coming. Below him, in the dark, the black ruin of his own farm, and Harrow's End full of fires, and the Eelweir, and the island beyond it, smaller now, its fires burning down. Far down the river a red glow on the clouds where something on the Hearthmere bank was burning.
+
+And while he looked, Greyhold lit.
+
+He'd watched it from this hill all his life. A long low line of pale lights on its walls, four leagues and more downriver, steady every night of the year. Dark since the turn of the winter. Now, for a breath, the whole line of it came up white. Too white. Like frost on a wall when the sun comes on it. Then dark again.
 
 He sat down on the hill.
 
@@ -97,7 +104,7 @@ Very far off, all three at once, the way sheep on a far hill lift their heads to
 
 They came before midnight.
 
-He heard Kharrak first. A long way off and coming fast, the way he came when the red tide was up. Then Lisska, ahead of him, faster, and her voice in his head before he could see her, high and thin and breaking: *Calder? Calder? Calder, what happened, what happened, I felt it, we all felt it, are you hurt, Calder…*
+He heard Kharrak first. A long way off and coming fast. Then Lisska, ahead of him, faster, and her voice in his head before he could see her, high and thin and breaking: *Calder? Calder? Calder, what happened, what happened, I felt it, we all felt it, are you hurt, Calder…*
 
 *I'm here. I'm not hurt.*
 
@@ -123,7 +130,7 @@ Kharrak's tide came up so hot when he got to that part that the grass round his 
 
 *Then we go now.*
 
-"No." He put his hand up, flat, against Kharrak's great rust-red jaw, the way he'd put his hand on Mabbin's neck on the ferry jetty. "Not now. Not yet. There's something else. Something worse." He took the roll of paper out of his shirt. "Read this first."
+"No." He put his hand up, flat, against Kharrak's great rust-red jaw. "Not now. Not yet. There's something else. Something worse." He took the roll of paper out of his shirt. "Read this first."
 
 He held it up to Aurveth.
 
@@ -131,9 +138,9 @@ He held it up to Aurveth.
 
 She read it.
 
-He felt her do it. Through the bronze mark. Her one gold eye going over the white letters on the black, line by line, the way he'd seen Ada go over a dues-tally. And as she went, something came up in her. From very deep. The way the white bridge had come up in her, in the autumn, by the fire. The way the cat on the tower steps had.
+He felt her do it. Through the bronze mark. Her one gold eye going over the white letters on the black, line by line, the way he'd seen Ada go over a dues-tally. And as she went, something came up in her. From very deep. The way the white bridge had come up in her, in the autumn, by the fire.
 
-*I've seen it,* she said. *Whole. Before the frost had it. From the bridge. With him.* She was very still. *He read it to me. Every time we passed. He always stopped and read it.*
+*I've seen it,* she said. *Whole. Before the frost had it. From the bridge. With him.* She was very still. *They aren't men's letters. Men were given them. He told me that, and I've forgotten who by.* *He read it to me. Every time we passed. He always stopped and read it.*
 
 *What does it say?*
 
@@ -156,15 +163,35 @@ The hill was very quiet. Below them Harrow's End burned with campfires, and the 
 
 *The cat.*
 
-*Yes.* Aurveth lowered her head all the way to the grass. *The cat on the steps. That people bowed to. It was the door it guarded, not the bridge.* She was quiet. *And then men came and opened the door and went down, and found what was sleeping, and woke it, and chained it. And the cat was outside the door. And it has been outside the door ever since. Three hundred years. Keeping a watch over something that was already taken.*
+*Yes.* Aurveth lowered her head all the way to the grass. *The cat on the steps. That people bowed to. It was the door it guarded, not the bridge.* She was quiet. *And then men came, I think, and opened the door and went down, and found what was sleeping. I think they woke it before they chained it, and it wasn't awake enough to know.* She was quiet again. *I wasn't below. I only know the cat was outside the door. And it has been outside the door ever since. Three hundred years. Keeping a watch over something that was already taken.*
 
 *Keep the watch below,* said Calder.
 
 *It was never theirs,* said Aurveth. *The knights'. The oath. It was the old ones' word. To the cat. To the kin. Keep the watch. And the men who chained the sleeper took the words off the stone and put them in their own mouths, and said them every day facing it, and forgot whose they were.*
 
+She didn't go on. He felt something move in her, down under the old slow weight, the way a fish turns under ice.
+
+*Ennis,* she said.
+
+He waited.
+
+*His name. I have it.* Surprise came up the bronze mark, and under the surprise a grief so old it had gone smooth, like a step worn down by feet. *I have his face. Brown. A broken nose that set crooked. He laughed with his mouth shut, so you only knew by his shoulders.*
+
+"Who was he?"
+
+*A warden of the bridge. The bridge had wardens then, the way a ford has a ferryman.* The gold eye stayed on the rubbing. *When the first knights came to the door, he stood in front of it. I think he stood in front of it. I was in the air over the bridge, and they had chain-nets on the walls, and I couldn't get down to him. And they put him down.* A long pause. *They had binders with them. Men who know where a bond is fastened. I think they put their hands on him before he died and cut him out of me. The way you'd cut a mooring rope before a boat goes under, so it doesn't drag the jetty in after it.*
+
+Calder sat with the rubbing in his hands.
+
+*That's why his death didn't take me,* said Aurveth. *There was nothing left between us for it to come down. And that's why I have him in pieces. A voice. A hand on my neck. Now a face, and a name.* She was quiet. *I don't know why they wanted me living. And when Ragnald went I lay a year on Coldtarn's shore and didn't wither, and I think a place that's been cut once heals harder than it was. I think. There's more. I can't reach it.*
+
+*Ennis,* said Lisska, very small, trying it.
+
+*Yes,* said Aurveth.
+
 ---
 
-He sat on the hill with the rubbing in his hands and put it together. Out loud. To them. The way he'd put a sum together on his fingers.
+He sat on the hill with the rubbing in his hands and put it together. Out loud. To them.
 
 "There's something under the river," he said. "Under the island. You touched it at midwinter. With your throat. Vast. Bound. Turning."
 
@@ -182,7 +209,7 @@ Nobody answered.
 
 *Yes,* said Aurveth.
 
-Kharrak's tide had gone very low. Lower than Calder had ever felt it. Not out. Low, and cold, the way the sea goes out a long way before a great wave.
+Kharrak's tide had gone very low. Low, and cold, like the sea going out a long way before a great wave.
 
 *Then we stop him,* said Kharrak. *The still one. At the tower. If one hand doesn't turn, nothing opens. You said.*
 
@@ -202,7 +229,7 @@ He knew nobody under the school. Nobody on the Hearthmere bank at all. The knigh
 
 Except one.
 
-He thought of narrow boot-prints in the snow by a fire. A long pressed hollow ten paces off. A skiff's keel-mark in the mud with the water just seeping into it. A woman standing on the east shore of the island in the dusk, pointing across the channel, while a lion swam.
+He thought of narrow boot-prints in the snow by a fire. A long pressed hollow close by. A skiff's keel-mark in the mud with the water just seeping into it. A woman standing on the east shore of the island in the dusk, pointing across the channel, while a lion swam.
 
 Cast out. For loving a monster. For not being able to say a thing she didn't mean.
 
@@ -238,7 +265,7 @@ He took his knife and cut a strip from the tail of his shirt. A long one, the wi
 
 He couldn't write. Not really. He could make his name in capitals, badly, and a cross. And he could make the letters of a few words, the ones on the dues-sacks, the ones he'd seen all his life on the tally-board at the Ram's Head. He knew the shapes. He'd never put them on anything.
 
-He went down the hill to the edge of his own burned top field, where there was still old charred wood in the grass from the autumn. He picked up a stick with a coal still black and hard on the end of it. Not burning. He took it back up the hill and asked Kharrak, and Kharrak breathed on it, gently, the gentlest thing Calder had ever felt him do, until the end of it glowed red.
+He went down the hill to the edge of his own burned top field, where there was still old charred wood in the grass from the autumn. He picked up a stick with a coal still black and hard on the end of it. He took it back up the hill and asked Kharrak, and Kharrak breathed on it, gently, until the end of it glowed red.
 
 He knelt on the grass with the strip of shirt and the glowing stick and burned a word into the linen.
 
@@ -286,7 +313,7 @@ Lisska took it in her front claw. Carefully. The way she'd carried the red stag 
 
 *And if she's not there?*
 
-"Then find her. You can see a sparrow on a roof a league off. Find her." He put his hand on her face. "And then go down. Not close. Ten paces. The way the lion does. And put it on the ground. And wait. And let her come to it."
+"Then find her. You can see a sparrow on a roof a league off. Find her." He put his hand on her face. "And then go down. Not close. A good way off, the way the lion does. And put it on the ground. And wait. And let her come to it."
 
 *And if she's frightened?*
 

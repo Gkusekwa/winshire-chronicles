@@ -17,6 +17,7 @@ Draft notes: Days ninety-two to ninety-eight. Decided here (proposals):
 - Arn's line (the echo): he's heard of a Hearthmere student, a woman, who sits with the Old Ruin's monster and keeps company with it. "That's the kind of madness we could use. Give me her, and a beast like that, and three dragons that know who they belong to, and I'd have Skarrow by spring."
 - Day 96: Skarrow, Ulric's steading on the east side of the Scarfell, in the snow. Ulric meets him alone at the gate with Raske behind. Ulric: he didn't kill the boy; he'll stop the day someone shows him who did. Until then he won't be called murderer and kneel. Calder nearly says Rook, and doesn't. Ulric sees him nearly say it.
 - Flying home, Kharrak says: *You knew something. At the gate. You didn't say it.* Calder: "I don't know anything about him." Kharrak: *You keep saying that.*
+- Magic touches: Calder watches Greyhold's lights dim to red along the wall from Bel's yard (the failing seen from the far bank); Clan herd-charms over Varrhold's doors.
 notes -->
 
 ---
@@ -24,6 +25,8 @@ notes -->
 He decided on the ninety-second morning, at Bel's table, with Fisk's paper still lying on the dresser where nobody would touch it.
 
 Deciding was a small thing, in the end. It felt like getting up from the table and putting his coat on. Ada watched him do it from the fire and didn't ask where he was going. She'd hardly spoken since the night of the verse. She sat by the fire with her hands in her lap, the way she'd sat at the table when the lights went out, and looked at the flames.
+
+Every night since the verse he'd gone out into Bel's yard last thing and looked down the river at Greyhold. Its lights weren't right any more. Twice he'd seen a whole row of them along the wall go dim and red, like a fire going down to coals, and then come up again. Joss said it was the cold. Nobody else said anything.
 
 "I'm going to Varrhold," he said. "And then to Skarrow."
 
@@ -77,7 +80,7 @@ They went in daylight. That was the point. He'd thought about it all night on Be
 
 He hoped.
 
-They came up the Drover's Way from the south, high over the moor, with the Scarfell rising white ahead and Hollow Beck frozen in its glen, and the hold came up out of the snow below them in its hollow under the cliffs. The ring of black longhouses inside the turf rampart. The chief's hall with its roof of shed scales, shining dull green and bronze and black under the snow. The falls frozen in long white ropes down the cliff behind. Above, in the black cliff face, the Roosts.
+They came up the Drover's Way from the south, high over the moor, with the Scarfell rising white ahead and Hollow Beck frozen in its glen, and the hold came up out of the snow below them in its hollow under the cliffs. The ring of black longhouses inside the turf rampart, with the herd-charms hung over every door, knots of red wool round a shed claw, the way the Clan had hung them when it had hundreds of dragons. The chief's hall with its roof of shed scales, shining dull green and bronze and black under the snow. The falls frozen in long white ropes down the cliff behind. Above, in the black cliff face, the Roosts.
 
 There were dragons on the ledges.
 
@@ -115,11 +118,11 @@ He'd changed. Calder saw it at once. It had been three months since the ford, si
 
 "Arn."
 
-"You've come back." Arn came down off the step into the snow. Not fast. "You've brought them home."
+"You've come back." Arn came down off the step into the snow, slowly. "You've brought them home."
 
 "I've come to talk."
 
-"Talk." Arn stopped a few paces off. He looked at Calder the way he'd looked at the armband on the bank of the ford, turning it over. "The Varr have fed those three since they came out of the egg. Raised them. Named them. Flown them. And they come down out of the sky into a Saltreach barley field and lie down round a farmer, and he walks off into the hills with them, and the Clan's at war, and they're gone." His voice was very quiet. "And now he comes back. To talk."
+"Talk." Arn stopped a few paces off. "The Varr have fed those three since they came out of the egg. Raised them. Named them. Flown them. And they come down out of the sky into a Saltreach barley field and lie down round a farmer, and he walks off into the hills with them, and the Clan's at war, and they're gone." His voice was very quiet. "And now he comes back. To talk."
 
 "Yes."
 
@@ -167,7 +170,7 @@ Arn looked at the chain.
 
 "Arn…"
 
-"He killed my brother." Arn's voice didn't rise. That was the worst of it. It went lower. "You were there. You turned him over in the water. You saw his knife in its sheath. You saw the grey on the alders." He came a step closer. "You covered his face with your coat, farmer. I'll not forget that. But don't you stand in my yard and tell me to stop."
+"He killed my brother." Arn's voice didn't rise. It went lower. "You were there. You turned him over in the water. You saw his knife in its sheath. You saw the grey on the alders." He came a step closer. "You covered his face with your coat, farmer. I'll not forget that. But don't you stand in my yard and tell me to stop."
 
 Calder looked at him. At the thin hard face. At the bright eyes.
 
@@ -201,11 +204,11 @@ The door of the hall closed behind him.
 
 He was halfway back across the yard to Aurveth when the old man came down the cliff path.
 
-He came on a stick, down the long steep stair cut in the rock below the Roosts, with the iron rail on its outside. An old man in a grey cloak with a white beard to his chest and no thread of any colour in his armband. Plain grey, and old. Behind him, coming down the cliff face itself, slow and careful, from ledge to ledge, a dragon. Black. Not big. Old, like him, with grey at the edges of its scales the way a man goes grey at the temples.
+He came on a stick, down the long steep stair cut in the rock below the Roosts, with the iron rail on its outside. An old man in a grey cloak with a white beard to his chest and no thread of any colour in his armband. Plain grey, and old. Behind him, coming down the cliff face itself, slow and careful, from ledge to ledge, a dragon. Black, smaller than Aurveth. Old, like him, with grey at the edges of its scales like a man going grey at the temples.
 
 The ring of Clan folk round the yard parted for him without a word.
 
-He came across the snow and stopped. Not beside Calder. Behind him, a pace back, at his shoulder. The black dragon came down off the last ledge into the yard and stood behind the old man, a pace back, the same.
+He came across the snow and stopped behind Calder, a pace back, at his shoulder. The black dragon came down off the last ledge into the yard and stood behind the old man, a pace back, the same.
 
 "Hallam Brecc," said the old man. His voice was dry as a winter leaf. "And Morrow." He nodded at the black dragon behind him. "We knew Sigrun. Sixty years. She sat on our ledge on summer nights and complained about her knees." He looked at Aurveth. Then he looked at Calder. "We heard what you said to the boy."
 
@@ -241,7 +244,7 @@ He looked at Calder.
 
 Calder said it again.
 
-Ulric listened. He listened to all of it. The camps, the fields, the collars, the empty eyes. The room on Gallows Quay. The coin man. The chain, held up in the snow. He stood in the gate of his stockade with his arms folded and his big closed face not moving, and listened, the way Calder had seen him listen at the ford, on the huge grey horse, looking down at his nephew on the stones.
+Ulric listened. He listened to all of it. The camps, the fields, the collars, the empty eyes. The room on Gallows Quay. The coin man. The chain, held up in the snow. He stood in the gate of his stockade with his arms folded and his big closed face not moving, and listened.
 
 When Calder had finished he was quiet a while.
 
@@ -259,7 +262,7 @@ Calder stood in the snow.
 
 *Show me who did.*
 
-He had it in his mouth. He had it in his mouth the way he'd had it at Varrhold. *A man on a bucket. Three paces from the cliff path. A coast drover you took on after the funeral, with clerk's hands and Wendmouth boots and a ring of six on his knife. Gone before light on the morning of the ford.*
+He had it in his mouth, as he'd had it at Varrhold. *A man on a bucket. Three paces from the cliff path. A coast drover you took on after the funeral, with clerk's hands and Wendmouth boots and a ring of six on his knife. Gone before light on the morning of the ford.*
 
 *Your man.*
 

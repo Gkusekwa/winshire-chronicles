@@ -26,7 +26,7 @@ They came past the middle of the river.
 
 The river doesn't take sides, Ottery used to say. That's why it's a border. Everything else does.
 
-She watched them do it and felt her stomach drop, the way it does when you miss a step in the dark. They came on, past the line nobody crossed, straight across the current toward the island, until they were in under the east shore, so close she could hear the oars knock in the rowlocks. Then they turned, and began to row north along the shore.
+She watched them do it and felt her stomach drop, like a missed step in the dark. They came on, past the line nobody crossed, straight across the current toward the island, until they were in under the east shore, so close she could hear the oars knock in the rowlocks. Then they turned, and began to row north along the shore.
 
 Looking.
 
@@ -48,7 +48,7 @@ They came back the next day. She hid again.
 
 She told herself it was because the trial wasn't finished. That was true. She told herself it was because she'd been set a task by the Knight-Captain of Greyhold and she'd finish it or fail it on her own, not be fetched home like a child who'd stayed out after dark. That was true too.
 
-But it wasn't all of it. Lying in the bracken the second time, watching Brannoch's bald head go by, she knew it wasn't all of it. Some of it was the breathing. Some of it was that she'd lain in the tower two more nights and counted, eleven, eleven, twelve, eleven, and that she couldn't go home without knowing what it was. Not now. She'd heard it. She'd heard what her father heard. She was the only person alive who'd ever lain in the dark and counted it.
+But it wasn't all of it. Lying in the bracken the second time, watching Brannoch's bald head go by, she knew it wasn't all of it. Some of it was the breathing. Some of it was that she'd lain in the tower two more nights and counted, eleven, eleven, twelve, eleven, and that she couldn't go home without knowing what it was. She'd heard it. She'd heard what her father heard. She was the only person alive who'd ever lain in the dark and counted it.
 
 She wasn't going home with a number.
 
@@ -100,7 +100,7 @@ He was nobody. That was what she noticed. Middle height, middle build, a face sh
 
 The Captain didn't give him orders. When she spoke to him, which she did once, it was in a lower voice, and he answered without taking his hands out of his pockets.
 
-Maren lay in the bracken and fixed him in her mind as best she could, the way you'd fix a landmark you meant to come back to. Boots. Brass eyelets. Hands in pockets. A face like water.
+Maren lay in the bracken and fixed him in her mind as best she could. Boots. Brass eyelets. Hands in pockets. A face like water.
 
 Then the Captain said, "Pots," and the men began to move.
 
@@ -114,7 +114,7 @@ She stayed fifty paces behind and off the path, in the trees, moving when they m
 
 Under the oaks, the men with the sacks went ahead. She watched them set things down along the path and off to the sides of it, low, in a wide half-circle: clay pots, round, the size of a man's head, with lids. They took the lids off and put something into each from a tinderbox, and blew on it, very gently, and put the lids back on loosely, with a gap. Smoke began to come out, a thin grey thread from each pot, going up and sideways, drifting with the night air, which was coming from the river, from the south-west, carrying the smoke ahead of them into the dark under the trees.
 
-She smelled it a moment later. Sweet. Heavy. Like honey burned in a pan, and under it something sharper, like crushed leaves. It got into the back of her throat and made her eyes water and her head go slow and thick for a moment, the way it does when you stand up too fast. She put her sleeve over her mouth and nose and breathed through the wool, and backed off further from the path, upwind, away from the drift.
+She smelled it a moment later. Sweet. Heavy. Like honey burned in a pan, and under it something sharper, like crushed leaves. It got into the back of her throat and made her eyes water and her head go slow and thick for a moment. She put her sleeve over her mouth and nose and breathed through the wool, and backed off further from the path, upwind, away from the drift.
 
 *They're keeping it asleep,* she thought. *That's what the cold fires were. They've been coming here for weeks, burning this, keeping it under. Like a farmer giving a horse poppy so it'll stand for the knife.*
 
@@ -182,7 +182,7 @@ On the third blow, the foot moved.
 
 ---
 
-It didn't move fast. That was the terrible thing. It was slow, the way everything about it was slow. It was the way a sleeper moves, turning over, putting out a hand in the dark to push away something that's tickling him. The toes spread. The great soft pads pressed down on the floor of the hollow. The claws came out of the fur, all four, long and pale and curved, slowly, almost lazily, and the whole foot slid forward a little way across the leaves and closed.
+It didn't move fast. That was the terrible thing. It was slow, like a sleeper turning over, putting out a hand in the dark to push away something that's tickling him. The toes spread. The great soft pads pressed down on the floor of the hollow. The claws came out of the fur, all four, long and pale and curved, slowly, almost lazily, and the whole foot slid forward a little way across the leaves and closed.
 
 The young man was standing where it closed.
 
@@ -194,7 +194,7 @@ And the hill moved.
 
 The ground moved with it. The earth of the hollow heaved under her, so that the roots she lay among lifted and settled, and a stone in the bank beside her face cracked across with a sound like a knuckle, all on its own.
 
-The whole flank shifted. It went over, sideways, away from them, the way a sleeper turns over in bed, slowly, enormously, the hair going up into the dark like a wave and coming down again, and the floor of the hollow shook under her, and the roots she was lying among creaked and moved, and the oaks above groaned. A lantern went over. Somebody was running. Somebody else had been under the flank when it turned, and she heard a sound she would hear in the dark for years afterwards, a sound like a sack of grain dropped from a loft onto stone, and then nothing.
+The whole flank shifted. It went over, sideways, away from them, slowly, enormously, the hair going up into the dark like a wave and coming down again, and the floor of the hollow shook under her, and the roots she was lying among creaked and moved, and the oaks above groaned. A lantern went over. Somebody was running. Somebody else had been under the flank when it turned, and she heard a sound she would hear in the dark for years afterwards, a sound like a sack of grain dropped from a loft onto stone, and then nothing.
 
 The breathing roared. Fifteen. Twenty. Fast, deep, like a bellows worked by a madman, and with every breath that low rumble under it, louder, rising.
 

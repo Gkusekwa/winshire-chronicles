@@ -9,15 +9,18 @@ Status: first draft
 Carried forward: From Chapter 73: the bond; Orrun; Lisska's message through him (two locks, midnight, both or nothing); the five links and TWO. From Chapter 71: Tobin: Callis has the seal and opens the river gate tonight; Liss to warn Hale by the water-gate. From Chapter 69: Pell dead; Ada, Bel, the children and the three greys inside; Wren at the ferry house with Liss. From Chapters 49 and 51: the archive, the black door three steps down, warm to the hand; the long black key, turned once for each of the Watch; "I'll not make you that." From Chapter 61: Haverly and Kesh; "I'm brave enough to be in the reeds."
 Draft notes: Night one hundred and forty-three, from about the fifth hour to the last before midnight. Decided here (proposals):
 - Orrun runs four leagues across the fields in under the hour, faster than any horse. Lisska over them.
+- Rowan isn't in Greyhold: at dusk she took every rider who could sit a horse back up the River Road to Redwatch, where the bank was going (so she's at cracked Redwatch with the chain at dawn on day 144, Book 2 ch 1).
 - Greyhold: the river gate is open. Callis opened it at the third hour with the seal and his own key to the wicket, and Cassian came in off the river with three hundred. Thorne died at the gate trying to shut it again, with her boar. The bells stopped when the bell-tower was taken.
 - Orrun comes in through the open gate with Maren on his back. Everything in the yard stops. Knights, Restoration, refugees at the Long Barn door. Then the yard breaks open round him.
 - The Long Barn: the refugees barricaded in it with Grieve and a pitchfork, Ada and Bel among them, the three greys, the twenty-nine beasts. Old Grey stands in the barn door, empty-eyed, and nobody gets past him.
-- The north tower stair: Haverly is on it. Holding it, on the steps down to the archive, with Kesh, against Cassian's rearguard, so nobody else can follow them down. He's been holding it for an hour. A bolt takes Kesh off his fist as Maren comes across the yard. He goes down a moment after with a spear in him. Orrun clears the stair. Maren gets to him. He dies on the steps with his head in her lap and the falcon beside him. "I was brave enough for the stair." One life between two.
+- The north tower stair: Haverly is on it. Holding it, on the steps down to the archive, with Kesh, against Cassian's rearguard, so nobody else can follow them down. He's been holding it for an hour. A bolt takes Kesh off his fist as Maren comes across the yard. He goes down a moment after with a spear in him. Orrun clears the stair. Maren gets to him. He dies on the steps with his head in her lap and the falcon beside him, mid-sentence, about the falcon coming down the first time. "I was brave enough for the stair." One life between two. (No "Don't talk" here: that exchange is Pell's alone, 69.)
 - The archive: the black door open, and through it, the stair going down; then shut again from the inside and locked. Cassian and Callis and twenty men went down an hour ago. Hale is on the floor by the three steps with a sword-cut, dying. Liss got to him by the water-gate at dusk; he went to the door and was there when Callis came, and tried to stand in front of it.
 - Hale gives her the key. "I said I'd not make you that. I'm making you it now. Go through. Be what you have to." And: "There's a lock at the bottom. In a room. Under the chains. It turns. At the hour. Don't let it."
 - The echo: through the bond, through the floor, far below, Orrun feels it: someone already at the second lock. A hand on iron. Waiting.
 - The door is a man's width. Orrun can't go through it. He puts his shoulder to the door-frame and the earth moves for him: the stone round the door opens like a mouth, the arch cracks and widens, and the stair beyond it groans wider as he goes down it. Lisska stays at the top of the archive stair, in the yard, with her wings spread over Haverly's body.
 - They go down.
+- Magic (proposal): the surge in Greyhold. The dead lamps on the walls flare and die like a pulse; the old surgeon's licensed blood-words, useless since midwinter, stop a groom's bleeding like a shut sluice and frighten him. Haverly holds the stair with his father's quickened sword (sent from Hallowmere when the paper went up, set up in 61), its letters burning white, cutting spear-shafts like reeds; it takes its toll every stroke. The ward cut in the lintel over the archive stair blazes and three bound hounds won't go down past it, so only spearmen come at him. The archive's old lamp flares once. Hale, a Second-ring Reader, says what the ward is for ("It turns a binding. Not a spear.") and that everything doing too much is a flood, and the worst sign. Kesh's and Haverly's deaths, Hale and the key, unchanged.
+- Revision (proposal): Orrun's second duplicate, one at a time. As twenty Restoration spearmen gather by the well to rush the Long Barn barricade, a lion of the yard's flagstones rises between them and the barn and holds them while Orrun goes north to the stair. It goes back into the yard while Haverly is dying (a heap of broken flags by the well; the barricade holds). The cost shows: Orrun talks "like a man with a sack on his back" and comes down the archive steps stiff in the forelegs.
 notes -->
 
 ---
@@ -64,9 +67,13 @@ A lion ten feet at the shoulder had come in through the gate. With a woman on it
 
 She saw faces. She knew some. A second-year with a marten on his shoulder, the one who'd leaned out over the wall to hear her shout about Callis, with a sword in his hand and his mouth open. A knight of the gate she'd mucked out under since the autumn, Vasey, with no helm and blood in his beard. Restoration men she didn't know, with spears, with rings on their fingers, with their faces gone white.
 
+Rowan wasn't in the yard. There wasn't a greyhart or a horse anywhere in it. She'd taken every rider who could sit a horse back up the River Road at dusk, to Redwatch, where the bank was going.
+
+On the walls round the yard the old lamps were lighting and going out. Not together. One here, one there, along the parapets and on the towers, white, a breath, dark, white again, as if something under the hill were breathing on them. Every time one flared the shadows in the yard jumped.
+
 Then the yard broke open round him.
 
-Not at him. Away from him. Every man in the yard, Restoration and knight alike, went back from him, the way water goes back from a stone thrown into it. Orrun stood in the middle of the open space with his mane up and the firelight on him and made a sound in his chest that she felt in her own.
+Not at him. Away from him. Every man in the yard, Restoration and knight alike, went back from him, like water from a thrown stone. Orrun stood in the middle of the open space with his mane up and the firelight on him and made a sound in his chest that she felt in her own.
 
 And over the yard, out of the dark, screaming, with her wings spread wide, came the green dragon.
 
@@ -76,7 +83,7 @@ The Restoration men by the gate broke and ran.
 
 The Long Barn was barricaded.
 
-Carts across the great double door, and barrels, and the iron-banded door off Thorne's boar's stall. Behind the barricade, people. Faces. Refugees from the camp. Grooms. Children. Grieve, bald, with a pitchfork, standing on a cart.
+Carts across the great double door, and barrels, and the iron-banded door off Thorne's boar's stall. Behind the barricade, people. Faces. Refugees from the camp. Grooms. Children. Grieve, bald, with a pitchfork, standing on a cart. The old surgeon on his knees behind the carts with his hands flat on a groom's thigh, saying the words, the licensed ones that hadn't stopped a nosebleed since midwinter. The blood stopped under his hands as if somebody had shut a sluice. He took his hands away fast and looked at them.
 
 In the gap at the end of the barricade, where the carts didn't quite meet, a dray-beast.
 
@@ -92,6 +99,18 @@ There wasn't time.
 
 He'd turned his head. North. Across the yard, toward the north tower.
 
+The man with the spear at the gap had friends. Twenty of them, drawing together by the well with their spears, looking from the lion to the barn and back. Deciding.
+
+Orrun didn't look at them. He didn't have to.
+
+The flagstones by the well came up. Not heaved, the way the knowe had heaved. Lifted, one against another, grey on grey, into a shoulder and a back and a great flat head, until a lion of Greyhold's own yard-stone stood between the men at the well and the barricade, his size, with the dust running off it, and Old Grey in the gap behind it.
+
+The men at the well stopped deciding.
+
+*It will hold them,* said Orrun. *Not long.* She heard what it cost him. He said it the way a man talks with a sack on his back.
+
+He went north.
+
 ---
 
 There was fighting on the north tower stair.
@@ -104,7 +123,9 @@ And Kesh.
 
 She saw it from across the yard.
 
-Haverly on the stair, alone, holding it. His face white and set. Blood on him. Kesh going up off his shoulder and down at the men above him like a thrown knife and up again. The men at the top with spears, jabbing down, and Haverly turning them, and the falcon stooping.
+Haverly on the stair, alone, holding it. His face white and set. Blood on him. In his hand a sword she'd never seen him carry, long and old, with a line of letters down the blade, and the letters were burning. White, from the guard to the point, like the lamps on the walls. Kesh going up off his shoulder and down at the men above him like a thrown knife and up again. The men at the top with spears, jabbing down, and Haverly turning them, and the old blade going through the spear-shafts like reeds, and the falcon stooping.
+
+Over the head of the stair, cut in the lintel of the arch under the north tower, there was a line of the old letters. She'd walked under it every day for two years. She'd never once looked up. It was burning too. And at the top of the stair, behind the spears, three bound hounds stood in a row with a man in grey behind them with his arm up, straining it up, and they wouldn't go down. They stood at the edge of the top step with their empty eyes and didn't move, as if the step were a cliff.
 
 A crossbow.
 
@@ -112,11 +133,11 @@ At the top of the stair, behind the spears, a man lifted it. Not at Haverly. Up.
 
 Maren screamed.
 
-The bolt went up. Kesh folded in the air. She came down. Not in a stoop. Down, all wrong, turning over and over like a dropped glove, into the stairwell, onto the steps at Haverly's feet.
+The bolt went up. Kesh folded in the air. She came down all wrong, turning over and over like a dropped glove, into the stairwell, onto the steps at Haverly's feet.
 
 He looked down at her.
 
-He stopped fighting. He looked down at the falcon on the steps at his feet and stopped, with his sword still up, and his face went from white to nothing at all. Maren saw it go. Across the yard. Everything in it going out at once, the way a lamp goes out.
+He stopped fighting. He looked down at the falcon on the steps at his feet and stopped, with his sword still up, and his face went from white to nothing at all. Maren saw it go. Across the yard. Everything in it going out at once.
 
 A spear came down the stair and went into him.
 
@@ -138,11 +159,7 @@ She knelt on the step and got his head into her lap.
 
 His eyes came to her.
 
-"Ashdown." His voice was very small. "You've got your hair tied back."
-
-"Don't talk."
-
-"Everybody says that." He almost smiled. Pell's words, in his mouth. He must have been there, she thought. In the gateway. He must have heard. "Is she…"
+"Ashdown." His voice was very small. "You've got your hair tied back. Is she…"
 
 Maren looked at the falcon on the step beside him. At the fierce black eye, open, still.
 
@@ -152,7 +169,7 @@ Maren looked at the falcon on the step beside him. At the fierce black eye, open
 
 She held his head.
 
-"They went down," said Haverly. "An hour ago. Him and Callis. Twenty men. Through the archive. Callis had Thorne's key off her at the gate. I saw him take it." His eyes went to the archive door at the bottom of the stair below them. "I held the stair. So nobody else could follow. That's all I could think of. Hold the stair." He looked at her. "I wasn't brave enough to go down after them. I was brave enough for the stair."
+"They went down," said Haverly. "An hour ago. Him and Callis. Twenty men. Through the archive. Callis had Thorne's key off her at the gate. I saw him take it." His eyes went to the archive door at the bottom of the stair below them. "I held the stair. So nobody else could follow. That's all I could think of. Hold the stair." His hand moved on the step, toward the old sword lying below him with its letters gone dark. "My father's. He sent it when the paper went up. It's been over the hearth since the charter." He breathed. "It takes it out of you. Every stroke. Nobody tells you that either." He looked at her. "I wasn't brave enough to go down after them. I was brave enough for the stair."
 
 "I know."
 
@@ -172,13 +189,17 @@ She didn't know what to say.
 
 "I'm glad," said Haverly.
 
-He put his hand out, without looking, on the step beside him, and found the falcon, and laid his hand on her. And left it there.
+He put his hand out, without looking, on the step beside him, and found the falcon, and laid his hand on her.
 
-That was all.
+"She came down," he said. "The first time. Out of nowhere. Nobody had ever seen her before. She just…"
+
+His hand stayed where it was.
 
 ---
 
 She sat on the stair with his head in her lap for as long as she could bear. It wasn't long. There wasn't time.
+
+Somewhere while Haverly talked, the thing by the well had gone back into the yard. She'd felt it go through the bond, like a tooth drawn. When she looked up past Orrun there was a heap of broken flags by the well where it had stood, and nobody at the well, and the barricade still whole.
 
 Over the top of the stair the green dragon came down. Lisska. She came down into the broken flagstones beside Orrun, and folded her wings, and looked down the stair at Maren with the dead man in her lap and the dead falcon beside him. Then she came down three steps, as far as she could, and spread her wings out over the stairwell, wide, green, like a roof. Over them.
 
@@ -192,7 +213,7 @@ She went down to the archive.
 
 The archive door was open.
 
-Inside, it was dark. Not the brass lamp, not the old lamp that burned without oil; both out. A lantern on the floor at the far end, past the stacks, on its side, still burning, throwing a long yellow fan of light across the bare swept floor and the three steps going down.
+Inside, it was dark. Not the brass lamp, not the old lamp that burned without oil; both out. The old one went white as she came in, for a breath, over the long table, and out again. A lantern on the floor at the far end, past the stacks, on its side, still burning, throwing a long yellow fan of light across the bare swept floor and the three steps going down.
 
 And at the foot of the three steps, against the black door, a man.
 
@@ -208,7 +229,7 @@ He looked up at her.
 
 She knelt in front of him.
 
-"Don't," said Hale, before she could say it. "There isn't time and I know it and so do you." He breathed. It was a long wet sound. "Your mother came. To the water-gate. At dusk. In her boat." He almost smiled. "Shouting for me by name. Nobody shouts for me by name. I came down to the water-gate and she told me through the bars. *Callis. The seal. Tonight. The river gate.*" He shut his eyes. "Rowan didn't believe it. Callis was on the gate with her that minute. Fifteen years. Rowan didn't believe it. I did."
+"Don't," said Hale, before she could say it. "There isn't time and I know it and so do you." He breathed. It was a long wet sound. "Your mother came. To the water-gate. At dusk. In her boat. Shouting for me by name. Nobody shouts for me by name. I came down to the water-gate and she told me through the bars. *Callis. The seal. Tonight. The river gate.*" He shut his eyes. "Rowan didn't believe it. Callis was on the gate with her that minute. Fifteen years. Rowan didn't believe it. I did."
 
 "You came here."
 
@@ -219,6 +240,10 @@ Behind his back, the black door was shut.
 She put her hand on it. Over his shoulder.
 
 It was hot.
+
+"The stair," she said. "The letters over the stair. They were burning. The hounds wouldn't go down."
+
+"The ward." Hale's eyes closed and opened. "It turns a binding. Not a spear. A binding." Something like a laugh. "I read it the day I came to the archive. Forty years ago. I'm a Reader, Ashdown, second ring, I can tell you what a thing's for. I can't make one. It's never done a thing in my life." He breathed. "Everything's doing too much tonight. The lamps. The surgeon's words. Something's coming up through the hill like a flood through a cellar." His red hands pressed. "That's not good. That's the worst thing there is."
 
 ---
 
@@ -298,7 +323,7 @@ A man's width.
 
 She looked back at Orrun.
 
-He came down the three steps.
+He came down the three steps like an old horse, stiff in the forelegs. The thing in the yard had taken something out of him, and it hadn't come back yet.
 
 He put his great head through the door, and looked at the stair. Then he drew his head back, and set his shoulder to the stone of the doorframe, the way she'd seen him set his shoulder to the old grey blocks at the bottom of the pit. And leaned.
 

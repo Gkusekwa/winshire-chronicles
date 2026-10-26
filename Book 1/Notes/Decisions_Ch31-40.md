@@ -1,5 +1,7 @@
 # Decisions made while drafting Chapters 31–40 (to carry into the Bible and later chapter notes)
 
+*Historical record; merged into the Bible. The chapter notes and the Bible are current.*
+
 All of these are proposals until you accept them.
 
 ## Timeline
@@ -12,7 +14,7 @@ All of these are proposals until you accept them.
 | 49 | 33, 34 | The same day: Vale on the Tidesteps at noon, and the Ferriby raid at dusk |
 | 50–53 | 35 | Report written night 50; Pell and Rowan day 51; Hale's oath history and the island on day 52; the Lesson Wall report on day 53 |
 | 50–51 | 36 | Gallows Quay market day 50; the rescue that night; Calder leaves the Wendwood with Mabbin at dawn on day 51 |
-| 54–58 | 37 | Holm and Merrow die on day 56; the pyre and Hale's slip about the Last Titan on day 57; the lion keeps the door on night 58 |
+| 54–58 | 37 | Dun and Merrow die on day 56; the pyre and Hale's slip about the Last Titan on day 57; the lion keeps the door on night 58 |
 | 51–63 | 38 | The walk north, thirteen days, about 120 leagues by the drove road; Kharrak speaks again on day 55; the carter on day 61 ("twelve days back"); Harrow's End at dusk on day 63; Mabbin home to Joss at Upper Rush that night |
 | 63–66 | 39 | The Redwatch skirmish at dawn on day 63; Ide's mother arrives in the afternoon of day 65 and Ide dies at dusk that day; the pyre at dawn on day 66 |
 | 65–72 | 40 | The dragons go north at dusk on day 65; back on day 68; Lisska's memory of the verse that night; Lisska's shed scale on day 72 |
@@ -44,7 +46,7 @@ All of these are proposals until you accept them.
   - **His slip:** "the inner circle keeps a watch nobody else is told…"
   - **The Last Titan:** the river lullaby everyone knows ("the last great beast lay down below"; "hush now, the last one's sleeping") once had a Watch story behind it, now forgotten, found only in the black book's margin and on an old Millbrook ballad-sheet. "The Watch had a name for it. The Last Titan." Said once, not explained, and never called one of the old ones. Hale stops at "too big, too angry, too…" and goes grey when Maren speaks the verse. He believed "the last sleeps below the stone" was an epitaph, and never read "let no hand wake it" because the ink had run on that line in her notebook.
   - **Why he's afraid:** "Because he's three…" The archive's oldest books say that when the old signs come all at once, "the last time it was so…" He stops. It's about omens, not another man with three bonds.
-- **Merrow** (91) and his ox-beast **Holm** die together on day 56. They are the gentle face of one life between two. Merrow swore Hale into the inner circle forty years ago, when Merrow was past fifty, and "kept the watch sixty years".
+- **Merrow** (91) and his ox-beast **Dun** die together on day 56. They are the gentle face of one life between two. Merrow swore Hale into the inner circle forty years ago, when Merrow was past fifty, and "kept the watch sixty years".
 - **Ide Darrow and Bracken:** Ide is a second-year in Maren's year; Bracken is brindled, waist-high, one torn ear. Bracken is killed at Redwatch by a crossbow bolt (crossbows again). Ide withers over three days, and her mother comes too late, on the afternoon of day 65; Ide dies at dusk that day. The cat nobody owns lies on her bed from the second night.
 - **Pell** has a torn leg and a crutch. He brings back a bound hound's six-dot collar, which goes to Rowan, who writes.
 - Haverly apologises to Maren for not standing beside her.
@@ -101,7 +103,7 @@ The collar is still on. The plan has her touching it at the thaw.
 
 ## To update
 - **Bible:**
-  - Characters: Reede, Vey, Rusk, Merrow and Holm, the twins' public and private faces, Brann Holt, Ide's mother.
+  - Characters: Reede, Vey, Rusk, Merrow and Dun, the twins' public and private faces, Brann Holt, Ide's mother.
   - Story: forced binding, the camps, the seal-rider plant, the Watch list.
   - World: the Oneroad milestones, the hatching caves.
   - Bestiary: unicorn colt, phoenix feather, wild wyvern, bound beasts.

@@ -18,6 +18,7 @@ Draft notes: Days one hundred and twenty-three to one hundred and twenty-six. De
 - Kharrak: *Let me take him. Tonight. Out of that yard.* Calder: "And then there's a dead clerk at the Ram's Head and a camp of five thousand coming up the road after us, and Arn says I killed one of Ulric's men, and Ulric says the same." He wants Rook alive, in front of both Varrs, at once.
 - The echo: day 126, Aurveth takes him high over the river to look at the island and the road, and he sees Greyhold from above for the first time: scaffolds on the river wall; new timber hoardings going up on the towers; carts of stone in the yard; great throwing-engines on the river towers, their arms turned toward the Saltreach bank. Knights drilling in the yard in hundreds.
 - He decides: he'll bring them both to the ford. Teo's ford. Where it started. Hallam will carry the word. He'll say it to both their faces, at once, in the same breath, so neither can hear it alone.
+- Magic (proposal): at the Ram's Head, a charm-seller's board of "warranted" Tide Council tin charms for sellswords; the Halloran house's drawer (Calder saw her on Gallows Quay, 34), lent to Delling (a woman in a grey coat) sits guarded at Delling's fire and everyone goes wide of her. Calder adds her to Hallam's count. She is the drawer at Greyhold's gate in 69.
 notes -->
 
 ---
@@ -34,7 +35,7 @@ He didn't get off Morrow this time. He sat on the old black dragon's neck on the
 
 "You want me to go into the Ram's Head."
 
-"I want somebody to." Hallam looked away south. "I'd go myself. Morrow won't let me. Says I'm too old to be a carter." He almost smiled. "She's right."
+"I want somebody to." Hallam looked away south. "I'd go myself. Morrow won't let me. Says I'm too old to be a carter." "She's right."
 
 "Why me?"
 
@@ -88,6 +89,12 @@ Five thousand men.
 
 Companies. He saw flags on poles outside some of the bigger tents. Not the six; the companies' own. Sellswords. A red hand. A black ship. A wolf's head. A yellow tower on blue that he heard a man call Delling's. *Coll Brask. Of Delling's company.* He wondered if Brask had got back. He wondered if he was here.
 
+Where the road widened between the tents there were booths, the way there were on the quays at Wendmouth. A man with a board on trestles, selling charms. Luck for a sellsword. A dry bowstring. A word against a wound going bad. Each one scratched on a strip of tin with the Tide Council's stamp on the back, warranted. Half the charms on the Wendmouth quays were fakes and everybody knew it and bought one anyway. Men were buying.
+
+Outside the big tent with the yellow tower, on a stool by the fire, sat a woman in a plain grey coat with her hands in her lap. There was nothing else to her. Two of Delling's men stood between her and the road, and the men going up and down it went wide of her without looking. He knew what she was before he'd thought it. A house drawer. Every trading house in Wendmouth kept one, the way it kept a lawyer, and you didn't look at them in the street. He'd seen her before. On Gallows Quay, coming out of the Halloran door, and two beast-sellers crossing the street to keep clear of her.
+
+He went wide of her too.
+
 The beast lines.
 
 They were along the beck. A quarter of a mile of them. More. Rope lines between posts, and the beasts tethered along them in the dark, standing. He walked along the end of them with his whip under his arm and made himself count. Hounds, in packs, forty, fifty. Greyharts. Dray-beasts, a long line of them, for the wagons. Two wyverns on perches. A great humped shape at the far end, bigger than any of them, that he couldn't make out in the dark and didn't go nearer to.
@@ -96,9 +103,7 @@ All silent. All standing with their heads level. He didn't have to see their eye
 
 Between the beast lines and the beck, a cart. A big four-wheeled one, with its tail down, and a canvas over it half pulled back. He walked past it slowly. It was full of iron. Collars. Hinged, black, new, piled in the bed of the cart like firewood, with a short length of chain hanging off each one. The ring of six on every collar. Hundreds.
 
-He stopped. Nobody was near. He reached into the cart and took one off the top of the pile, and turned it over in the light of the nearest fire, and found the inside of the curve with his thumb.
-
-Two hammers, crossed.
+He stopped. Nobody was near. He reached into the cart and took one off the top of the pile, and turned it over in the light of the nearest fire, and found the inside of the curve with his thumb. The two little hammers were there.
 
 He put it back.
 
@@ -112,7 +117,7 @@ The yard was full of light. Lanterns on poles. A long trestle table set out in t
 
 Calder stood at the corner of the stable block in the shadow with his whip under his arm and looked at the man behind the table.
 
-He couldn't have said what he looked like. That was the first thing. He looked at the man's face under the lanterns and found that he couldn't keep hold of it. Brownish hair. Brownish beard, cut short. A nose and a mouth and two eyes, all where you'd expect them.
+He couldn't have said what he looked like. He looked at the man's face under the lanterns and found that he couldn't keep hold of it. Brownish hair. Brownish beard, cut short. A nose and a mouth and two eyes, all where you'd expect them.
 
 A face you forgot while you were looking at it.
 
@@ -166,7 +171,7 @@ He sat at the table and wrote, and Rook stood beside him and bent and said somet
 
 The man at the table picked up his pen and went on writing.
 
-Calder stood in the shadow and looked at him. It was the same face. It was. He'd stood ten paces from it on the Tidesteps. But it sat at the table the way Aurveth lay on a hillside: so still you thought it was carved. The man on the Tidesteps had never been still for a moment.
+Calder stood in the shadow and looked at him. It was the same face. It was. He'd stood near it on the Tidesteps. But it sat at the table the way Aurveth lay on a hillside: so still you thought it was carved. The man on the Tidesteps had never been still for a moment.
 
 He couldn't make it fit. He didn't try. He had Rook.
 
@@ -184,7 +189,7 @@ He came along the lane between the carts, not hurrying, with his hands in his po
 
 Rook stopped.
 
-He stopped beside the mare, a pace from Calder, and looked at her. The way you'd look at a picture.
+He stopped beside the mare, a pace from Calder, and looked at her.
 
 "Good beast," he said, to the old carter. Pleasant. "Look after her."
 
@@ -214,7 +219,7 @@ He told them.
 
 *Then it was him.* Kharrak's voice had gone very quiet. *At the ford. It was him. You said it yourself in the hills. Three paces from the cliff path when the boy said the ford out loud. Gone before light. With the six. And now he's paying them.* A long breath. *It was him.*
 
-He sat on the root in the dark and went through it. All of it. Slowly. The way he'd go through a ledger.
+He sat on the root in the dark and went through it. All of it. Slowly.
 
 Rook sat three paces from the cliff path when Teo said the place and the hour of the ford out loud. Rook was gone before light, the morning of the ford. Rook carried the six on his knife. Somebody had killed Teo in the water and left grey thread on the alders, so that Arn would kneel on the stones and swear, and the Clan would split, and the war would start. The war had burned farms all winter on both sides of the Scarfell. The burned farms had sent their families across the ice to Millbrook, and down the Wend to the camps, to the soup at the front and the rings and the fields at the back. Now Rook sat in the yard of the Ram's Head with a ledger and a chest of silver, paying the swords.
 
@@ -264,7 +269,7 @@ The tents had come further. You could see them strung down the Way, dark on the 
 
 He looked west. Across the river. At the Hearthmere bank.
 
-He'd never seen it from so high. He'd seen it all his life from Harrow's End, a low dark line across the water with the towers along it, and the far grey shape of Greyhold downriver on its hill. He'd flown over the river in the dark to the island. He'd never been up so high in daylight, looking down on it, the way you'd look down on a farm from the top of the hill.
+He'd never seen it from so high. He'd seen it all his life from Harrow's End, a low dark line across the water with the towers along it, and the far grey shape of Greyhold downriver on its hill. He'd flown over the river in the dark to the island. He'd never been up so high in daylight, looking down on it.
 
 Greyhold lay on its hill above the river below him. He could see all of it. The outer wall going round. The yards inside. The long barns. The old inner wall in the middle of it all, grey, older than the rest, he could tell that even from here.
 
@@ -274,7 +279,7 @@ Scaffolding on the river wall. Poles and planks, lashed up the whole length of i
 
 Toward him.
 
-In the yard below, carts. Stone. Timber. And men drilling. Not a few. Hundreds, in lines, in grey, with the sun flashing off them, moving all together the way the young men moved in the camp fields on the drove road. Beasts with them. Greyharts. Hounds. A great black shape at the end of a line that he thought might be a boar.
+In the yard below, carts. Stone. Timber. And men drilling. Hundreds, in lines, in grey, with the sun flashing off them, moving all together. Beasts with them. Greyharts. Hounds. A great black shape at the end of a line that he thought might be a boar.
 
 *They're arming,* said Aurveth. *The knights. Look at it.*
 
@@ -290,7 +295,7 @@ Harrow's End, on the near bank, with the black road coming down behind it to the
 
 They went back to the Scar.
 
-Hallam Brecc came that evening, on Morrow, for the count, and Calder gave it to him. Five hundred fires. Five thousand men, near enough. A quarter-mile of beast lines. A cart of collars. Delling's company, and the red hand, and the black ship, and the wolf's head. The road, and how far it had come. Greyhold, and its walls, and its engines.
+Hallam Brecc came that evening, on Morrow, for the count, and Calder gave it to him. Five hundred fires. Five thousand men, near enough. A quarter-mile of beast lines. A cart of collars. Delling's company, and the red hand, and the black ship, and the wolf's head. A drawer at Delling's fire. The road, and how far it had come. Greyhold, and its walls, and its engines.
 
 Hallam listened to all of it without a word. He wrote nothing down. Calder thought he was keeping it the way Calder kept the fives, in his head.
 

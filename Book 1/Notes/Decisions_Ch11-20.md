@@ -1,5 +1,7 @@
 # Decisions made while drafting Chapters 11–20 (to carry into the Bible and later chapter notes)
 
+*Historical record; merged into the Bible. The chapter notes and the Bible are current.*
+
 All of these are proposals until you accept them.
 
 ## Timeline
@@ -19,7 +21,7 @@ All of these are proposals until you accept them.
 - The battle: Ulric's carts come at night for the flour. Arn fires the mill and the flour. Sigrun comes in on Aurveth.
   - Dag is taken off Kharrak by Aurveth.
   - Kharrak, falling, rakes Aurveth's back and kills Sigrun.
-  - Imra is shot through the throat by a **crossbow** bolt from beside the hedge. The Clan doesn't use crossbows. Who fired it is still open.
+  - Imra is shot through the throat by a **crossbow** bolt from beside the hedge. The Clan doesn't use crossbows. Who fired it: *(answered in Ch 68)* one of Delling's crossbowmen, paid by the Restoration.
 - Calder's injuries: broken ribs, a gash on his left leg, a cut on his head. He gets them when Kharrak's tail takes out the byre wall.
 - The bonds take in this order: Kharrak, Aurveth, Lisska. As each one forms, he lives that rider's last moment:
   - Dag: fury.

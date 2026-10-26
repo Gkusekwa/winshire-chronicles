@@ -20,11 +20,12 @@ Draft notes: Days ninety-six to ninety-eight. Decided here (proposals):
 - Hale asks her whether the farmer has crossed. She says, "I don't know." It isn't a lie, quite. She thinks of the scale in her chest. It's the second thing she's kept back.
 - Hale says he'll take her to the door. Not tonight. "When the moon's gone. Six nights. They watch the stair less in the dark of the moon. Don't ask me why. I think they're frightened."
 - Day 97, the noon bell: she says the oath facing east toward the inner wall, and for the first time knows what she's saying. She says *keep the watch below.* Her mouth won't make *and do not ask.*
+- Magic touches: Davin's cut stitched with thread because the surgeon's closing-word no longer takes.
 notes -->
 
 ---
 
-At the noon bell in Greyhold you face east. Everybody does. Knights, students, grooms, the cooks in the kitchen door with their sleeves rolled. You stop where you are and you turn toward the old grey stones of the inner wall, and you say it. Maren had asked once, in her first week, why east. A third-year told her it was toward the sunrise. Another said it was toward Hallowmere and the crown. Pell said it was the way it had always been done and to stop asking questions in the middle of the yard. None of them sounded like the truth to her. The sun at noon in winter stands in the south. Hallowmere lies to the west. East, from the yard of Greyhold, there's nothing but the inner wall, and the archive under the north tower, and the river beyond.
+At the noon bell in Greyhold you face east. Everybody does. Knights, students, grooms, the cooks in the kitchen door with their sleeves rolled. You stop where you are and you turn toward the old grey stones of the inner wall, and you say it. Maren had asked once, in her first week, why east. A third-year told her it was toward the sunrise. Another said it was toward Hallowmere and the crown. Pell said it was the way it had always been done and to stop asking questions in the middle of the yard. None of them sounded like the truth to her. The sun at noon in winter stands in the south. Hallowmere lies to the west. East, from the yard of Greyhold, there's nothing but the inner wall at the north-east corner, and the archive under the north tower, and the river beyond.
 
 ---
 
@@ -36,7 +37,7 @@ He'd been there three days. Waiting, the gate captain said, for the council's wo
 
 She carried the bread down the stair in the dark with a lantern and the bucket. The cells were cut into the rock under the gatehouse. Cold, and wet, and the walls sweated. The lamp in the passage that had burned without oil for longer than anybody could remember was out, and somebody had stuck a tallow candle on the bracket in front of it, and the tallow stank.
 
-Davin was sitting on the bench at the back of his cell with a blanket round him. Sixteen. Thin, with spots, and a cut over his eye from the Millbrook street that somebody had stitched badly. He got up when he saw the lantern and came to the grille.
+Davin was sitting on the bench at the back of his cell with a blanket round him. Sixteen. Thin, with spots, and a cut over his eye from the Millbrook street that somebody had stitched badly, with thread, because the surgeon's closing-word wouldn't take any more. He got up when he saw the lantern and came to the grille.
 
 "It's you," he said. "The one with the lion."
 
@@ -60,7 +61,7 @@ She went to the archive that night without being sent for.
 
 She'd never done that. In three months of going to Hale's archive she'd always gone because he sent for her, a boy at the barn door, *the Warden wants you, Ashdown.* She went down the north tower stair after the last bell, past the place where the cat nobody owned lay curled on the bottom step. It was there again, grey and huge, with its yellow eyes open. It didn't move when she stepped over it. It was looking at the door.
 
-The archive was lit. One lamp, over the long table. Not the old lamp, that burned without oil. That one hung dark from its chain in the middle of the room. Hale had lit an ordinary oil lamp, a brass one with a glass chimney, from the kitchens, and set it on the table, and it threw a small yellow circle in the long dark room with its shelves going away into the shadow.
+The archive was lit. One lamp, over the long table. The old lamp that burned without oil hung dark from its chain in the middle of the room. Hale had lit an ordinary oil lamp, a brass one with a glass chimney, from the kitchens, and set it on the table, and it threw a small yellow circle in the long dark room with its shelves going away into the shadow.
 
 He was sitting in the circle with the black book shut in front of him and his hands flat on top of it.
 
@@ -98,7 +99,7 @@ He looked down at his hands.
 
 "It's true," he said. "The paper. All of it. Near enough."
 
-She'd known. She'd known since the river gate. She'd known since the ice at Millbrook, with the boy's leg under her arm. She'd known from the beasts standing in the dark with their heads turned. It went through her anyway, the way cold water goes through you when you've known for an hour that you'll have to step into it.
+She'd known since the river gate. It went through her anyway, like cold water when you've known for an hour that you'll have to step into it.
 
 "Tell me," she said.
 
@@ -182,13 +183,13 @@ Hale looked at her for a long moment.
 
 "Ah," he said.
 
-He took his hand off the black book and moved the paper aside, carefully, and opened the book. Not at the list. Further back, near the front, where the pages were brown and soft as cloth. He turned them with one finger, until he found the one he wanted, and turned the book round on the table so she could see.
+He took his hand off the black book and moved the paper aside, carefully, and opened the book well back from the list, near the front, where the pages were brown and soft as cloth. He turned them with one finger, until he found the one he wanted, and turned the book round on the table so she could see.
 
 It was the old script. She could read some of it now. He'd taught her. It ran down the page in a cramped brown hand, and in the margin beside it, in a different hand, smaller, there was a list. Six lines. Each one began with the same word.
 
 "*Signs,*" said Hale. He put his finger on the first. "Signs that come before a chain fails. Somebody wrote them in the margin a long time after the rest. Somebody frightened." He moved his finger down. "*The beasts turn their faces to the ground.* *The earth answers.* *The lamps go dark at no hand's bidding.* *The river is bridged to the stone.*" He paused on that one. "The ice, Ashdown. To the island. On the seventy-fourth night." His finger moved down. "*A thing that was sleeping comes to the old place, and will not leave it.*"
 
-She thought of the lion lying in the arch of the tower, under the verse, the way a dog lies across a threshold.
+She thought of the lion lying in the arch of the tower, under the verse, like a dog across a threshold.
 
 His finger came to the last line and stopped.
 
@@ -206,7 +207,7 @@ She sat across the table from him and waited.
 
 "Has he crossed?" said Hale.
 
-He was looking at her the way he'd looked at her on the bench at the Lesson Wall in the autumn. Too carefully. The way he'd asked about the dragon farmer at the midden, on her third evening of muck, with his stick in the straw.
+He was looking at her the way he'd looked at her on the bench at the Lesson Wall in the autumn. Too carefully.
 
 She thought of the scale. Green as a beetle's back, broad as a round shield, warm, in her chest under her cot with the hammer and the chisel and Tobin's sword. She thought of hobnailed prints over hers by the stream, and knees by her fire, and an arm's length of chain cut from the spit with a knife.
 
@@ -248,7 +249,7 @@ At the noon bell on the ninety-seventh day she was in the yard with a barrow whe
 
 She stopped, and put the barrow down, and turned east with everybody else. The knights at the gate. The grooms in the barn door. The students in their lines at the Lesson Wall. Three hundred people in the snow, in the thin cold light, turning toward the old grey stones of the inner wall.
 
-She looked at the stones. She'd looked at them every day for two years and never seen them. Old. Older than the rest of Greyhold. Bigger, each block the size of a cart, with the frost in the seams. She thought of stairs going down behind them, cut in the rock and worn in the middle. A ledge. A lantern held out. Chain going down into the dark, link on link, each one taller than a man. The dark moving, the way water moves when something big turns over under it.
+She looked at the stones. She'd looked at them every day for two years and never seen them. Old. Older than the rest of Greyhold. Bigger, each block the size of a cart, with the frost in the seams. She thought of stairs going down behind them, cut in the rock and worn in the middle. A ledge. A lantern held out. Chain going down into the dark, link on link, each one taller than a man. The dark moving.
 
 She opened her mouth with everybody else.
 
@@ -256,7 +257,7 @@ She opened her mouth with everybody else.
 
 The ground hummed under her boots. Very faint. She felt it come up through the soles. Beside her, at the barn door, one of the grooms looked down at his feet.
 
-All round her three hundred voices went on into the second half of it, the way they did every day, the way they had for three hundred years. *And do not ask.*
+All round her three hundred voices went on into the second half of it, as they had for three hundred years. *And do not ask.*
 
 Her mouth wouldn't make it.
 

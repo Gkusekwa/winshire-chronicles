@@ -14,11 +14,12 @@ Draft notes: Days nineteen to twenty-four. Decided here (proposals):
 - The charcoal burners at the edge of the Fellwood under Crow Scar: old Hesketh Coley and his daughter Rue, who sell Calder bread and cheese and don't ask questions, because Rue's man was killed at the mill fight. They bring river news; Weir's boy runs his mouth on both banks.
 - The echo: Rue says the girl on the island was a Greyhold student. She failed her knight's trial because she wouldn't harm the monster. The story on the ferry is that it tried to kill her three times and she never once struck it.
 - Why him? Kharrak: "You talked." Lisska: "You said come here. Nobody else said anything." Aurveth: it felt like falling toward a fire in the cold, a pull, not a choice; he was "open", the way a door is. None of them knows why a door would be open to three. Aurveth's first partner: she says he lived "before the Clan was the Clan" and that she has lost his name, which frightens her more than she'll say.
+Magic touches: old Hesketh says the burner's words over the charcoal mound.
 notes -->
 
 ---
 
-His father used to say that the worst question a man can ask is *why me.* Not because there's no answer. Because there always is, and it's never the one you want. A tree comes down in a storm and kills your best ewe, and you ask *why me,* and the answer is: because she was standing under the tree. That's all. That's always all. The world doesn't pick you. You're just standing where it happens.
+His father used to say that the worst question a man can ask is *why me,* because there's always an answer and it's never the one you want. The world doesn't pick you. You're just standing where it happens.
 
 He'd believed that all his life. He was trying to believe it now.
 
@@ -64,7 +65,7 @@ He'd said he was sorry.
 
 *Wasn't you that did it,* she'd said. *Was them. Both of them. Arn and Ulric and their bloody chair.* And then she'd gone into the hut and come out with bread and cheese wrapped in a cloth, and held it out, and said, *You'll want to pay for that,* and he had.
 
-He went back every two days. They didn't ask where he went. He didn't tell them. Old Hesketh, who was deaf and nearly blind and spent all day by the mound feeling the heat of it with his hands, nodded to him and said *the barley man* and went back to his mound. Rue sold him bread and cheese and, once, a pair of boots that had been her man's, and told him the news.
+After that he went back every two days. They didn't ask where he went. He didn't tell them. Old Hesketh, who was deaf and nearly blind and spent all day by the mound feeling the heat of it with his hands and saying the burner's words over it under his breath, the way his father had to keep a mound from flaring, nodded to him and said *the barley man* and went back to his mound. Rue sold him bread and cheese and, once, a pair of boots that had been her man's, and told him the news.
 
 The news came up the charcoal road. Carters came for the charcoal once a week, and they talked, and Rue listened. The war: Arn had burned two of Ulric's farms on the east side and Ulric had burned three of Arn's. Nobody was winning. Gorm Askell had been up to Harrow's End again with riders and searched the Fenn farm, every room and the byre and the field, and found nothing, and gone. His mother and Wren were still in the house. They were well. Ada had stood in the door with her arms folded and told Gorm Askell to his face that she didn't know where her son was, and Gorm Askell had believed her, because it was true.
 
@@ -98,15 +99,13 @@ Rue shrugged.
 
 He walked back to Crow Scar through the forest on his crutch in the middle of the day, with the bread and cheese in the bundle over his shoulder, and thought about it the whole way.
 
-He thought about a girl in river grey on a stream bank, twenty paces from something that had roared like the end of the world, not moving. He'd thought about her before. Since Fisk's jetty, and the thread of smoke from the tower. Since Lisska came back to the cave at dusk and said *it didn't eat her. Why didn't it eat her?*
+He thought about a girl in river grey on a stream bank, not moving. He'd thought about her before. Since Fisk's jetty, and the thread of smoke from the tower. Since Lisska came back to the cave at dusk and said *it didn't eat her. Why didn't it eat her?*
 
 Now he thought: *it tried.*
 
 Three times. And she'd stood there with a sword in her hand and never struck it back.
 
 He'd never met her. He didn't know her name. She was a Hearthmere knight-student, and Hearthmere knights stood on their wall and watched while the Clan burned Saltreach villages and never crossed, and he'd never thought about one of them for more than a moment in his life. But he thought about her all the way back through the Fellwood, under the great oaks, in the green dark.
-
-*Had a sword, had fire, and she never once struck it.*
 
 He thought about Kharrak in the field, dragging himself through the burning straw, and his own hand going out.
 
@@ -158,7 +157,7 @@ Calder knelt on the ledge with his hands over his ears and the three of them sho
 
 Kharrak was a different animal after that.
 
-Not gentle. He'd never be gentle. But something had gone out of him, or come back into him, Calder couldn't tell which. He went out every day after that, at first light, alone, and flew. Low over the forest, and high over the crag, and once, far out, so far that his voice went faint in Calder's head and then went altogether, a long silence, a whole hour of it, and Calder sat on the ledge sick with fear until it came back. *Here. Here. Coming.* As if he'd only been in the next room.
+He'd never be gentle. But something had gone out of him, or come back into him, Calder couldn't tell which. He went out every day after that, at first light, alone, and flew. Low over the forest, and high over the crag, and once, far out, so far that his voice went faint in Calder's head and then went altogether, a long silence, a whole hour of it, and Calder sat on the ledge sick with fear until it came back. *Here. Here. Coming.* As if he'd only been in the next room.
 
 "Where did you go?" Calder said, when he came back.
 
@@ -174,7 +173,7 @@ A silence.
 
 *No. Could feel you. Frightened. Couldn't hear.*
 
-They tested it, after that. Lisska did, mostly; Lisska would test anything. She flew out from the crag, straight, west, and talked the whole way, the way she always did, *can you hear me now? Now? Now?*, and he sat on the ledge and listened and said *yes, yes, yes,* and then her voice began to go thin, the way a voice goes when someone walks away from you down a long hall. Thinner. A murmur. A whisper, like a voice in another house. And then nothing.
+They tested it, after that. Lisska did, mostly; Lisska would test anything. She flew out from the crag, straight, west, and talked the whole way, the way she always did, *can you hear me now? Now? Now?*, and he sat on the ledge and listened and said *yes, yes, yes,* and then her voice began to go thin. Thinner. A murmur. A whisper, like a voice in another house. And then nothing.
 
 But she was still there. He could feel her. Far off, the way you feel a fire in the next room through a wall. Not words. Just her. Lisska, out there, somewhere over the Fellwood, bright and curious and a little bit worried, wondering if he could still hear her.
 
@@ -266,8 +265,8 @@ Against his legs, Lisska had gone very still. In the mouth of the cave, Kharrak 
 
 *I don't know,* said Aurveth. *Yet.*
 
-He lay on his back on the cold floor of the cave and looked up into the dark and thought about a road with stones in it, and a bridge, and an island in a river with the stumps of old piers drowned round it, and a girl in river grey sitting on a stream bank, twenty paces from whatever had roared, not doing anything at all.
+He lay on his back on the cold floor of the cave and looked up into the dark and thought about a road with stones in it, and a bridge, and an island in a river with the stumps of old piers drowned round it, and a girl in river grey sitting on a stream bank, not doing anything at all.
 
 *Like robbing it,* Rue had said.
 
-He didn't know why it stayed with him. It stayed with him.
+It stayed with him.

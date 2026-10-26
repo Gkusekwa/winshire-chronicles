@@ -6,12 +6,13 @@ Part: Part One: Two Banks
 Beats: At Millbrook, where Tam is apprenticed to the smith, Saltreach poachers have caged a young beast and offer Maren a share to look away. She frees it and makes enemies. Tam is dazzled; Pell is not.
 Echo of the other's story: The poachers swear to take their grievance "across the river."
 Status: first draft
-Draft notes: Five days after Chapter 3, the day Tam was due home for the fair. Pell sends Maren to Millbrook with a cart to fetch mended blades from the smith, Odo Marl, Tam's master. The beast is a young duskcat (see Bestiary), poached from the far end of the Brackenwood, a royal forest. The poachers are Saltreach boatmen led by a man called Gannet; they sold the marten that the roadblock seized from the carrier in Chapter 5, and the carrier wants his money back. Their buyer is "a man at Wendmouth who pays silver for live ones, any kind, no questions" (the Restoration). Plant: Tam mentions a man at the Kettle who talks about the old days.
+Draft notes: Five days after Chapter 3, the day before the fair (Tam is due home tomorrow). Pell sends Maren to Millbrook with a cart to fetch mended blades from the smith, Odo Marl, Tam's master. The beast is a young duskcat (see Bestiary), poached from the far end of the Brackenwood, a royal forest. The poachers are Saltreach boatmen led by a man called Gannet; they sold the marten that the roadblock seized from the carrier in Chapter 5, and the carrier wants his money back. Their buyer is "a man at Wendmouth who pays silver for live ones, any kind, no questions" (the Restoration). Plant: Tam mentions a man at the Kettle who talks about the old days.
+Magic touches: the Widow Rudd of Millbrook, fined at Ashford for unlicensed words over a pig; tin luck-tags on Gannet's prows.
 notes -->
 
 ---
 
-Millbrook is the kind of village that grew up because of one thing and has been arguing about it ever since. The thing is the mill: a great grey stone wheelhouse on the Wend's back channel, older than Greyhold, with a wheel taller than three men and a race that comes down off the weir so fast it'll take your leg off if you put it in. Everything else in Millbrook is there because of the mill. The houses are there for the millers; the inn is there for the carters waiting on the millers; the smithy is there to mend the carters' wheels; and the jetty is there because once, a long time ago, someone in Millbrook worked out that it was cheaper to float flour down to Stillhaven than to cart it, and the river has been bringing every kind of boat up to that jetty ever since. Some of them carry flour. Most of them, these days, carry whatever pays.
+Millbrook is the kind of village that grew up because of one thing and has been arguing about it ever since. The thing is the mill: a great grey stone wheelhouse on the Wend's back channel, older than Greyhold, with a wheel taller than three men and a race that comes down off the weir so fast it'll take your leg off if you put it in. Everything else in Millbrook is there because of the mill. The houses are there for the millers; the inn is there for the carters waiting on the millers; the smithy is there to mend the carters' wheels; and the jetty is there because once, a long time ago, someone in Millbrook worked out that it was cheaper to float flour down the Wend and round by sea to Stillhaven than to cart it, and the river has been bringing every kind of boat up to that jetty ever since. Some of them carry flour. Most of them, these days, carry whatever pays.
 
 On a market day you can hear Millbrook before you see it. On the day Maren drove in, the day before the fair, you could hear it from half a league off: hammers, wheels, the millrace, and under it all, coming up from the jetty, a thin high sound she couldn't place, over and over, like a gate somewhere that nobody would oil.
 
@@ -37,7 +38,7 @@ Odo Marl's smithy stood at the top of the jetty road with its doors open to the 
 
 He saw her and dropped the hammer.
 
-"Maren!" He came round the anvil and hugged her, sweat and soot and all, and lifted her off her feet, which he had only been able to do since last spring and did now at every possible opportunity. "You came! I said I'd come home tomorrow, you didn't have to—"
+"Maren!" He came round the anvil and hugged her, sweat and soot and all, and lifted her off her feet, which he had only been able to do since last spring and did now at every possible opportunity. "You came! I said I'd come home tomorrow, you didn't have to…"
 
 "I'm here for blades. Put me down."
 
@@ -59,7 +60,7 @@ Odo looked at her for the first time. Then, unexpectedly, he laughed: a great ba
 
 ---
 
-Tam loaded the cart in about the time it took Maren to buy two meat pies from the stall by the inn. Then he pulled her by the sleeve down the jetty road, past the inn, past the mill, toward the water, talking the whole way.
+Tam loaded the cart in about the time it took Maren to buy two meat pies from the stall by the inn. Then he pulled her by the sleeve down the jetty road, past the inn, past the mill, past the shuttered house of the Widow Rudd, who had been fined at Ashford in the spring for saying unlicensed words over a neighbour's sick pig and was said by everyone to be at it again, toward the water, talking the whole way.
 
 "I've something to show you," he said. "I said I would, I said in the message. You'll not believe it. Ma will kill me if she finds out, so you can't tell her. Swear."
 
@@ -67,11 +68,11 @@ Tam loaded the cart in about the time it took Maren to buy two meat pies from th
 
 "You'll swear when you see it." He was glowing. "I've been going down every night, after Odo's done with me. I take them scraps. I named it. You'll laugh, but I named it."
 
-"If it's a pike, Tam—"
+"If it's a pike, Tam…"
 
 "It's not a pike."
 
-The thin high sound was louder down here. It came from the end of the jetty, where three long Saltreach boats were tied up nose to tail, low and tarred, with high curved prows and their oars stowed. There were men on the boats, five or six of them, doing nothing much: sitting on the gunwales, smoking, playing dice on an upturned crate. Saltreach boatmen. You could tell them anywhere by their clothes, which were all colours and none, and their earrings, and the way they looked at the bank as if it might try to take something off them.
+The thin high sound was louder down here. It came from the end of the jetty, where three long Saltreach boats were tied up nose to tail, low and tarred, with high curved prows and their oars stowed, and a stamped tin tag nailed to each prow for a dry hold and fair water: Saltreach luck, bought by the dozen on the coast. There were men on the boats, five or six of them, doing nothing much: sitting on the gunwales, smoking, playing dice on an upturned crate. Saltreach boatmen. You could tell them anywhere by their clothes, which were all colours and none, and their earrings, and the way they looked at the bank as if it might try to take something off them.
 
 On the jetty beside the last boat, in the shade of a pile of sacks, stood a cage.
 
@@ -89,15 +90,15 @@ She'd never seen one. She knew what they were the way she knew the names of star
 
 This one was a cub. A few months old, maybe. Its paws were too big for it.
 
-"Shadow," said Tam. "I named it Shadow. Because of the colour. And because—"
+"Shadow," said Tam. "I named it Shadow. Because of the colour. And because…"
 
 "Tam."
 
-"—it follows you with its eyes, you'll see, when you move—"
+"…it follows you with its eyes, you'll see, when you move…"
 
 "Tam. Where did it come from?"
 
-He stopped. His face did several things. "The Brackenwood," he said. "The far end. They took it on the way up, they said. Mother and all, only the mother got away, and they've been—"
+He stopped. His face did several things. "The Brackenwood," he said. "The far end. They took it on the way up, they said. Mother and all, only the mother got away, and they've been…"
 
 "The Brackenwood is a royal forest."
 
@@ -139,7 +140,7 @@ The smile stayed exactly where it was. Behind Gannet, two of the men on the boat
 
 Maren looked at the river.
 
-It was a fine river. It went by brown and fast and wide, under the jetty, past the boats, down toward the weir and the barges and Stillhaven and the sea. She knew every bar and snag of it. On the other bank, far off, the Saltreach shore was a low line in the haze.
+It was a fine river. It went by brown and fast and wide, under the jetty, past the boats, down toward the weir and the barges and Wendmouth and the sea. She knew every bar and snag of it. On the other bank, far off, the Saltreach shore was a low line in the haze.
 
 She thought: there are six of them. Two on the jetty, four on the boats, all armed. I have a practice sword and a cart and my brother. If this goes wrong, Tam gets hurt.
 
@@ -147,7 +148,7 @@ She thought: Pell said, *everything you see there, someone will be watching you 
 
 She thought: the thin man at the shrine looked at Turnip and looked at my sword and looked at the place where I have no beast, and knew what I was. And now this one has done it too. That's twice in a week.
 
-She looked down at the cage. The duskcat cub was still looking at her. It hadn't moved. Its gold eyes were fixed on her face, and its sides were going in and out, in and out, and it was waiting, the way it had waited for every face, to see if this one would be different.
+She looked down at the cage. The duskcat cub was still looking at her. It hadn't moved. Its gold eyes were fixed on her face, and its sides were going in and out, in and out, and it was waiting.
 
 "No," she said.
 
@@ -155,7 +156,7 @@ She looked down at the cage. The duskcat cub was still looking at her. It hadn't
 
 She didn't remember afterwards deciding what to do. She remembered the latch.
 
-The cage had a simple iron latch with a pin through it, and a padlock on the pin, and the padlock was cheap; she'd seen a hundred like it on the river watch, on eel-boxes and net-sheds, and she knew exactly where to hit one. She had the practice sword out of its loop and the pommel down on the padlock's shoulder before Gannet had finished drawing breath, once, hard, the way you'd knock a nail in, and the cheap lock sprang. She pulled the pin and flung the cage door wide.
+The cage had a simple iron latch with a pin through it, and a padlock on the pin, and the padlock was cheap; she'd seen a hundred like it on the river watch, on eel-boxes and net-sheds, and she knew exactly where to hit one. She had the practice sword out of its loop and the pommel down on the padlock's shoulder before Gannet had finished drawing breath, once, hard, and the cheap lock sprang. She pulled the pin and flung the cage door wide.
 
 For a moment the cub didn't move.
 
@@ -173,7 +174,7 @@ She had the practice sword in her hand. She didn't raise it. She held it point-d
 
 "There isn't an or."
 
-Gannet looked at her for a long moment. Then he looked at Tam, who was standing beside the empty cage with his mouth open and his big hands hanging. Then up the jetty road, at the people who had stopped by the inn and the mill and the smithy to watch, a dozen of them, twenty, a crowd gathering the way crowds do when there's a knight on a jetty and Saltreach men in front of her.
+Gannet looked at her for a long moment. Then he looked at Tam, who was standing beside the empty cage with his mouth open and his big hands hanging. Then up the jetty road, at the people who had stopped by the inn and the mill and the smithy to watch, a dozen of them, twenty, a crowd gathering.
 
 *Everything you see there, someone will be watching you see.* It worked both ways.
 
@@ -197,11 +198,11 @@ At the smithy door he stopped.
 
 "I'm sorry. About your cat. I know you'd named it."
 
-"Sorry?" He looked at her, and she saw that his face hadn't been doing nothing; it had been holding something in, and now it couldn't. It was lit up like a lamp. "Sorry? Maren. You did the lock. With your sword. In one go. And then you just *stood* there, and there were six of them, and you just stood there and *told* them, like they were children, and they went. They *went*." He grabbed her by both shoulders. "That's what it's supposed to be. That's what a knight's supposed to be. That's exactly what Da would have—"
+"Sorry?" He looked at her, and she saw that his face hadn't been doing nothing; it had been holding something in, and now it couldn't. It was lit up like a lamp. "Sorry? Maren. You did the lock. With your sword. In one go. And then you just *stood* there, and there were six of them, and you just stood there and *told* them, like they were children, and they went. They *went*." He grabbed her by both shoulders. "That's what it's supposed to be. That's what a knight's supposed to be. That's exactly what Da would have…"
 
 "Tam."
 
-"—done, everyone says, I've heard Odo say it, Da would've—"
+"…done, everyone says, I've heard Odo say it, Da would've…"
 
 "*Tam*." She took his hands off her shoulders. "Listen to me. It's not a story. There were six of them. If one of them had been quicker, or drunker, or more stupid, I'd have had to choose between hurting a man and letting them hurt you. And I'd have chosen. And then it would've been a different day." She held his hands. They were bigger than hers now, and burned, and black with the forge. "Don't come down here again. Don't feed their beasts. Don't talk to their men. Promise me."
 

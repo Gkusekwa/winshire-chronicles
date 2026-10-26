@@ -14,11 +14,12 @@ Draft notes: Day 9, from dawn after the battle (night of day 8) through dusk and
 - Ulric's men and Arn's both pulled out at the roar. At midday a single Clan rider shows on the Drover's Way above the farm, sees the three dragons alive, and turns and gallops for the hills. The news is out.
 - At dusk the three dragons burn their own riders where they lie: Aurveth over Sigrun, Lisska over Imra. Kharrak goes down the hill to the roofs where Dag fell. The village watches the three fires from the lanes.
 - The byre door end stood. The coat and the chain are there. Ada brings him the coat, because it's the only one not torn. Bramble got out; Ada finds her in the beck pasture at first light.
+Magic touches: Ada's lambing mending-words over Calder's leg.
 notes -->
 
 ---
 
-The Clan says a bonded pair has one life and two voices. That's the oldest way of saying it. You hear it at every bonding, every pyre, every quarrel in the hold yard when somebody's beast has eaten somebody else's goose. *One life, two voices.* The rider speaks for the beast among people. The beast speaks for the rider among beasts. And in the dark, between them, where nobody else can hear, they speak to each other.
+The Clan says a bonded pair has one life and two voices.
 
 Nobody had ever said what you'd call it if there were four.
 
@@ -90,7 +91,7 @@ He looked at her.
 
 They were all looking at him. He could feel it. He could feel all three of them, the way you feel the sun on your back without looking at it. He could feel Kharrak's wing, the torn root of it, as a deep sick ache in his own shoulder, so that he put his hand up to it without meaning to. He could feel the long lines of fire down Aurveth's back, and the dark hole where her eye had been, cold and wrong, so that he wanted to cover his own eye with his hand. He could feel Lisska's bruises, small and many and sharp, and under them something else, something that wasn't a bruise.
 
-He could feel what they were feeling. That was the worst of it.
+He could feel what they were feeling.
 
 Under the voices, under Lisska's chatter and Kharrak's growl and Aurveth's slow deep calm, there was something else. A great dark tide of it, going in and out like the river, in all three of them at once. He knew what it was. He'd felt it on the cliff path at Varrhold, and at the ford, and at Teo's pyre, and in the yard of his own house the winter Senna died.
 
@@ -192,7 +193,7 @@ She came up the field toward him, walking, carefully, in her boots, through the 
 
 The crowd at the hedge had gone silent. Ada had stopped shouting. Everybody was watching her come.
 
-*It's her,* said Lisska. He felt her lift her head off his shins. Felt her go still, and bright, all at once, like a cat that's heard a mouse. *It's her. Isn't it? The small one. From the burned farm, with the cups of water, who looked up at me and wasn't frightened. The one who said hello. You told me. At the hold. Wren says hello.* Her voice went very quick. *I remember. I remember everything. That's Wren. Isn't it? That's your Wren.*
+*It's her,* said Lisska. He felt her lift her head off his shins. Felt her go still, and bright, all at once, like a cat that's heard a mouse. *It's her. Isn't it? The small one. From the burned farm, with the cups of water, who looked up at me and wasn't frightened. The one who said hello. You told me. At the hold. Wren says hello.* Her voice went very quick. *I remember. That's Wren. Isn't it? That's your Wren.*
 
 "Yes," he said. "That's Wren."
 
@@ -200,7 +201,7 @@ The crowd at the hedge had gone silent. Ada had stopped shouting. Everybody was 
 
 Wren came up the last of the slope and stopped. She was a few paces off. Kharrak's head was between her and Calder, lying on the ground, with the great gold eye open, looking at her. She looked at it. It looked at her.
 
-Calder felt Kharrak's rage, the great red swelling tide of it, go still. Not gone. Still. Like a dog that's been growling and stops to listen.
+Calder felt Kharrak's rage, the great red swelling tide of it, go still, like a dog that's been growling and stops to listen.
 
 *Small,* said Kharrak.
 
@@ -222,7 +223,7 @@ She looked at Kharrak's head again. It was longer than she was tall. The jaw was
 
 "Yes."
 
-She looked at the dragon for a moment longer. She walked round its head, carefully, the way you'd walk round a sleeping dog in a doorway, and came to Calder and sat down in the stubble beside him and leaned against him, on the side that didn't have the stake in it, and put her arms round him, and put her face in his torn shirt.
+She looked at the dragon for a moment longer. She walked round its head, carefully, and came to Calder and sat down in the stubble beside him and leaned against him, on the side that didn't have the stake in it, and put her arms round him, and put her face in his torn shirt.
 
 She was shaking. But she wasn't afraid. He could feel the difference. He'd always been able to feel the difference, with beasts.
 
@@ -266,7 +267,7 @@ Ada looked at him.
 
 He didn't know how to answer. He just pulled his torn shirt open again, with his fingers, and showed her.
 
-His mother looked at the three marks over his heart and didn't say anything. He watched her face, and saw something go across it, and couldn't read it. Not fear. More like the look she got when she sang the old songs, the ones about the one realm, *before the six, there was one,* and came to the last verse, and sang it too fast.
+His mother looked at the three marks over his heart and didn't say anything. He watched her face, and saw something go across it, and couldn't read it. It was nearer the look she got when she sang the old songs, the ones about the one realm, *before the six, there was one,* and came to the last verse, and sang it too fast.
 
 Then she said, "Your ribs are broken," in quite an ordinary voice, and came across the furrow, past Kharrak's head, without looking at it, and knelt down in the stubble and began to feel along his side with her hands.
 
@@ -274,13 +275,13 @@ Then she said, "Your ribs are broken," in quite an ordinary voice, and came acro
 
 They didn't take him in. They couldn't. The dragons wouldn't let him go.
 
-That was how it felt. Not that they stopped him. Kharrak lay with his head by Calder's knee, and Lisska curled round his feet, and Aurveth lay above them like a hill, and when Ada and Wat Garrow, who'd come up the field at last with his face white, tried to lift him and carry him to the house, all three heads came up at once. Not threatening. Just up. The feeling that went through him from all three, through the marks, was so strong and so sudden that he cried out with it: *no. No, don't. Don't take him. Don't go. Stay. Stay. Stay.*
+That was how it felt. Kharrak lay with his head by Calder's knee, and Lisska curled round his feet, and Aurveth lay above them like a hill, and when Ada and Wat Garrow, who'd come up the field at last with his face white, tried to lift him and carry him to the house, all three heads came up at once. The feeling that went through him from all three, through the marks, was so strong and so sudden that he cried out with it: *no. No, don't. Don't take him. Don't go. Stay. Stay. Stay.*
 
 Like children. Like children when you take the candle out of the room.
 
 "Leave me," he said. "Leave me here. Ma, leave me. I'll be all right."
 
-So they left him. Ada bound his ribs where he lay, with strips of her own petticoat, tight, while he swore at her through his teeth, the mild farm swearing his father had used, and Lisska asked what every word meant. Ada cleaned the cut on his head and the gash on his leg and bound those too. Wat Garrow brought a blanket, and a stool for Ada, and a jug of water, and set them down at the edge of the furrow and went away again fast, with his eyes on Kharrak the whole time.
+So they left him. Ada bound his ribs where he lay, with strips of her own petticoat, tight, while he swore at her through his teeth, the mild farm swearing his father had used, and Lisska asked what every word meant. Ada cleaned the cut on his head and the gash on his leg and bound those too, and said her mending-words over the leg, the ones she used for the ewes at lambing. She said they did about as much for a man as for a ewe, which was something, some years. Wat Garrow brought a blanket, and a stool for Ada, and a jug of water, and set them down at the edge of the furrow and went away again fast, with his eyes on Kharrak the whole time.
 
 In the middle of the morning, Ada went back to the house, and came out again with a coat.
 
@@ -296,7 +297,7 @@ He went very still.
 
 *He's gone very still,* said Lisska. *Why have you gone very still? What is it? Is it a secret?*
 
-He found, sitting there in the stubble with the coat round him and her voice in his head, that she didn't know. That she could feel he'd gone still, and feel there was something, a coldness, a weight, a thing he didn't want to look at. But not what it was. Not the man on the bucket, or the ring of six, or the eleven words he hadn't said. Not unless he gave her them.
+He found, sitting there in the stubble with the coat round him and her voice in his head, that she didn't know. That she could feel he'd gone still, and feel there was something, a coldness, a weight, a thing he didn't want to look at. But not what it was. Not the man on the bucket, or the ring of six, or the seventeen words he hadn't said. Not unless he gave her them.
 
 They could hear what he said to them, and feel what he felt. They couldn't hear everything he thought.
 
@@ -348,7 +349,7 @@ Nobody answered her.
 
 At dusk they burned their riders.
 
-He hadn't known they would. He hadn't known it was a thing they could do. He'd been lying in the stubble under the blanket half asleep, with Wren asleep against him and Ada on her stool, when he felt Aurveth stir. Not in his body. In the marks. A slow deep turning, like a great wheel beginning to move.
+He hadn't known they would. He hadn't known it was a thing they could do. He'd been lying in the stubble under the blanket half asleep, with Wren asleep against him and Ada on her stool, when he felt Aurveth stir, in the marks, not in his body. A slow deep turning, like a great wheel beginning to move.
 
 *It is time,* she said. *They have lain in the open long enough, and the crows have been at the hedge since noon, and I will not have that. Not for her. Not for any of them. The Clan burns its dead high, where everyone can see, so that no one can pretend afterwards that it did not happen. Well. Let everyone see.*
 
@@ -366,7 +367,7 @@ At the bottom of the field, by the broken hedge, Lisska was doing the same. He h
 
 And Kharrak got up.
 
-He got up off the ground beside Calder, with his torn wing dragging, and went away down the hill. On foot, slow, heavy, lurching, the way a bull walks when it's been gored. Down through the black field and the broken hedge and across the lane, while the people in the lane scattered in front of him, screaming, and down the lane to the bottom of the valley, to the burned roofs below the mill where a man had fallen out of the sky the night before.
+He got up off the ground beside Calder, with his torn wing dragging, and went away down the hill. On foot, slow, heavy, lurching, like a gored bull. Down through the black field and the broken hedge and across the lane, while the people in the lane scattered in front of him, screaming, and down the lane to the bottom of the valley, to the burned roofs below the mill where a man had fallen out of the sky the night before.
 
 Calder felt him find Dag. He felt it go through Kharrak like a blade, and through him. Then he saw it: a third fire, red and roaring and furious, going up from the bottom of the valley among the black timbers of the houses, so high and so fierce that it lit the underside of the smoke.
 

@@ -10,7 +10,7 @@
 - **Only a simplified version goes to print.** The print edition is a shorter, simpler version of each book, one volume, sized to fit print-on-demand page limits.
   - **Every chapter, in both editions** *(established)*: it opens with its abstract picture and closes with the updated map. The bare map opens the book.
   - *What "simplified" means for the text is still open (working proposal):* an abridged text, cut in the review pass after the full draft, that keeps the whole plot and both protagonists but trims secondary storylines.
-  - At 6 × 9 inches and about 300 words a page, a print book of 700–750 pages holds roughly **200,000–225,000 words**, which is a natural ceiling for the print text. Check current page limits for paperbacks and hardcovers on both KDP and IngramSpark.
+  - At 6 × 9 inches and about 300 words a page, a print book of 700–750 pages holds roughly **200,000–225,000 words**, which is a natural ceiling for the print text. Book 1's first draft is about 311,000 words, so the simplified print text needs roughly a third cut. Check current page limits for paperbacks and hardcovers on both KDP and IngramSpark.
 
 ## Where each edition goes
 
@@ -27,7 +27,7 @@
 
 ## From draft to published book
 
-1. **Finish the draft** of Book 1, working from the series outline.
+1. ~~**Finish the draft** of Book 1, working from the series outline.~~ *(Done: first draft, 79 chapters, about 311,000 words.)*
 2. **Revise it yourself,** then share it with a few **beta readers** who read epic fantasy.
 3. **Developmental edit:** a professional editor checks structure, pacing, characters, and the two-POV balance. This is the most valuable paid step.
 4. **Copyedit, then proofread:** line-level corrections, then a final typo pass on the formatted book.
@@ -54,7 +54,7 @@
 ## Open publishing questions
 
 - Exclusive on Amazon (Kindle Unlimited), or wide?
-- What exactly goes into the simplified print edition, and is it released at the same time as the ebook or later?
+- What exactly goes into the simplified print edition (it must cut roughly a third of Book 1's draft), and is it released at the same time as the ebook or later?
 - Which editor and cover designer?
 - Publish under your own name or a pen name, and under what imprint name?
 - Release Book 1 alone, or wait until Book 2 is close?

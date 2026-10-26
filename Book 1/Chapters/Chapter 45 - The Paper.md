@@ -19,6 +19,7 @@ Draft notes: Day eighty-eight, midwinter (full moon). Decided here (proposals):
 - Callis tries to arrest Reede. The crowd closes round Reede. Tam is in it, with the ring out on his coat. Stones, a brazier over, Callis knocked down on the ice, a skater's leg broken. Reede is gone in the confusion.
 - At dusk a herald from Ashford (eighteen leagues; the paper went up there too in the night) reads the crown's answer at the Kettle's door and at Greyhold's gate: "a lie, a slander against the crown and the orders, put about by enemies of the realm. Any person repeating it shall answer to the magistrate."
 - That midnight Maren stands on the wall with the whole school and sings the midwinter oath, and the words are different in her mouth.
+- Magic touches: an unlicensed hedge-woman selling luck-knots at the frost fair, dodging the knights; Wynn's licensed setting-word over Callis's collarbone still takes (day 88, before the lamps fail).
 notes -->
 
 ---
@@ -37,7 +38,7 @@ She held up the lantern and read it.
 
 ---
 
-She didn't take in all of it. She took in the first line, because it was in bigger letters than the rest, black and plain, the way a broadsheet is printed for a fair.
+She didn't take in all of it. She took in the first line, because it was in bigger letters than the rest, black and plain.
 
 *TO THE PEOPLE OF HEARTHMERE: WHAT LIES BELOW.*
 
@@ -93,7 +94,7 @@ Millbrook's midwinter fair was on the ice.
 
 She'd been to it every year since she was small, except the last two. Everyone on the river had. The back channel below the mill froze every winter long before the main river did, shallow and still behind the weir, and on midwinter day the whole town went out onto it. There were braziers in iron baskets set out on the ice, glowing red, and stalls on sledges selling chestnuts and hot cider and pies and ribbons, and skaters going round and round in long lines with their arms linked, and children sliding, and dogs barking, and a fiddler on the mill steps, and over everything the smell of smoke and roasting and frost.
 
-There was a bear on a chain at the far end, by the weir. A great shaggy brown thing as tall as a horse on its hind legs, with a ring in its nose, and men with dogs. The orders had banned bear-baiting at Millbrook fifteen years ago. Nobody had ever stopped it.
+There was a bear on a chain at the far end, by the weir. A great shaggy brown thing as tall as a horse on its hind legs, with a ring in its nose, and men with dogs. The orders had banned bear-baiting at Millbrook fifteen years ago. Nobody had ever stopped it. Near it a hedge-woman had a tray of luck-knots and fair-weather words she had no licence for, and every time the knights' horses came along the bank she picked up her tray and drifted off among the stalls, and every time they'd passed she was back.
 
 There were more people than she'd ever seen there. Seven hundred, eight. Millbrook folk, and folk from every village and farm for leagues along the Hearthmere bank, and the refugees. A great many refugees, from the Saltreach side, who'd been living in the barns and the mill lofts and the chapel porch since the autumn, and who stood about at the edges of the fair in their burned clothes with their hands under their arms, watching the skaters.
 
@@ -119,7 +120,7 @@ He read it.
 
 ---
 
-He read it slowly, the way you'd read a story to a child at bedtime. Not like a proclamation. Like something he was sorry to have to tell them.
+He read it slowly, like something he was sorry to have to tell them.
 
 *Beneath the fortress-school of Greyhold.*
 
@@ -139,7 +140,7 @@ Seven hundred faces turned, a few and then more, turning round on the ice, to th
 
 *"Keep the watch below, and do not ask." It is a jailer's oath.*
 
-She stood holding the horses with seven hundred people looking at her, and said it in her head. She couldn't stop herself. She'd said it every day for two years. She'd said it at the noon bell on midwinter morning, that very morning, facing east toward the old grey stones of the inner wall, with the paper folded in Rowan's coat. *Keep the watch below, and do not ask.*
+She stood holding the horses with seven hundred people looking at her, and said it in her head. She couldn't stop herself. She'd said it at the noon bell yesterday, facing east toward the old grey stones of the inner wall, and every day before that. *Keep the watch below, and do not ask.*
 
 *Every knight in Hearthmere stands guard over a prisoner, and is not told its name.*
 
@@ -175,7 +176,7 @@ Maren stood holding the horses with her mouth shut.
 
 Callis moved.
 
-She saw him do it and knew, as he did it, that it was wrong. That it was the worst thing he could do. He put his heels to his horse and went out onto the ice, toward the mill steps, with his hand up and his voice up, bellowing. "You! You on the steps! In the name of the crown and the orders, you're under arrest for sedition! Stand where you are!"
+She saw him do it and knew, as he did it, that it was wrong. He put his heels to his horse and went out onto the ice, toward the mill steps, with his hand up and his voice up, bellowing. "You! You on the steps! In the name of the crown and the orders, you're under arrest for sedition! Stand where you are!"
 
 Two of the knights of the gate went after him. Their hounds went with them.
 
@@ -211,7 +212,7 @@ When it was over, Reede was gone too.
 
 Nobody had seen him go. He'd been on the mill steps, and then the brazier went over and Callis went down, and then he wasn't on the mill steps. The mill door was shut. Nobody in Millbrook had seen him go through it, or anywhere else.
 
-The knights got Callis up. His collarbone was broken and his face was white and furious. The skater's leg was broken in two places. A child had been burned by the brazier. The bear had got loose in the confusion and gone off across the ice and into the Brackenwood dragging its chain, and the bear-men were going after it with dogs, and nobody tried to stop them.
+The knights got Callis up. His collarbone was broken and his face was white and furious. Wynn knelt on the ice and said the setting-word over it, the one the gate knights were licensed for, and Callis swore at him all the way through, and the bone took it. The skater's leg was broken in two places. A child had been burned by the brazier. The bear had got loose in the confusion and gone off across the ice and into the Brackenwood dragging its chain, and the bear-men were going after it with dogs, and nobody tried to stop them.
 
 The fair was over. People were going home. Quietly. In twos and threes, across the ice and up the bank and away along the River Road, not looking at the knights. The braziers were going out one by one. The fiddler had gone. The chestnut-sellers had gone.
 
@@ -243,8 +244,6 @@ She stood by the mill holding the horses in the dusk. She thought of a black doo
 
 *It isn't a lie.*
 
-She couldn't have said how she knew it. She knew.
-
 ---
 
 They sang the oath on the wall at midnight.
@@ -263,7 +262,7 @@ She opened her mouth and sang it, the way she had every day for two years. The w
 
 The words came out of her mouth and they were different.
 
-They were the same words. The same tune. The same cold air and the same torches and the same river. But they were different in her mouth. Heavier. As if, all her life, she'd been carrying a box, and singing about it, and never once thought about what was in the box, and that night somebody had nailed a paper to the gate telling her.
+They were the same words. The same tune. The same cold air and the same torches and the same river. But they were different in her mouth. Heavier, like a rope when the thing on the end of it wakes.
 
 *A jailer's oath.*
 

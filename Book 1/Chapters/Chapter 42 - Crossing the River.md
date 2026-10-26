@@ -18,6 +18,7 @@ Draft notes: Days seventy-seven to eighty-two. Decided here (proposals):
 - He follows the great prints north as far as the edge of the oaks. He hears it breathing, close, in the dark ahead, not asleep. The three dragons, a league and a half away, go utterly still through the marks. He backs away.
 - He kneels at the stream bank on the way back to look at the fire, and Lisska's scale slips out of his coat into the snow by the warm ashes. He doesn't notice until he's back at Upper Rush.
 - Echo: when he gets back to the hill above the Fenn farm at dawn, the dragons smell the lion on his coat and go still, all three, and Aurveth puts her head down to it and won't lift it until the sun is up.
+- Magic touches: Fisk: don't say any charms over the ice, "water holding its breath"; Ada's red-thread knot sewn in Calder's coat hem, for coming home.
 notes -->
 
 ---
@@ -48,7 +49,7 @@ Calder sat down on the stone floor of the cave beside the great rust-red head, a
 
 ---
 
-He'd been at Upper Rush since the turn of the cold. All of them had. Bel's house was small and full: Bel and Joss and the children, and Ada and Wren in the loft, and Calder on the floor by the fire with his coat for a pillow. Mabbin and Sorrel stood in the byre together, the two dray-mares, so close that Joss said you couldn't get a straw between them.
+He'd been at Upper Rush since the turn of the cold. All of them had. Bel's house was small and full: Bel and Joss and the children, and Ada and Wren in the loft, and Calder on the floor by the fire with his coat for a pillow. Mabbin and Sorrel, the old grey and her daughter, stood in the byre together, so close that Joss said you couldn't get a straw between them.
 
 The dragons had moved down from the old hatching caves above Coldtarn when the ice began to run. Aurveth had wanted them nearer. She didn't say why. She said only that the high caves were cold, which was true, and that she was tired of being so far from him, which was also true, and Calder felt under both things a third one she didn't say, and didn't ask.
 
@@ -62,7 +63,7 @@ He crossed on the eighty-first night.
 
 He'd waited as long as he could stand. Seven days of hard frost since the jam. Four since Kharrak stamped on it. The river below Harrow's End was white from bank to bank as far as the island, a long humped causeway of frozen slabs with snow on it, and the old men at the Eelweir said they'd not seen it lock so hard since they were boys.
 
-"Fortnight," old Fisk had said, when Calder asked him, leaning on the wall of his hut with his pipe. "You wait a fortnight on a river before you trust her. My da said so. His da said so." He looked at Calder sideways. "Why? Where are you thinking of walking?"
+"Fortnight," old Fisk had said, when Calder asked him, leaning on the wall of his hut with his pipe. "You wait a fortnight on a river before you trust her. My da said so. His da said so. And don't go saying any of your mother's words over it, neither. Ice is only water holding its breath. Nothing said holds on it." He looked at Calder sideways. "Why? Where are you thinking of walking?"
 
 "Nowhere."
 
@@ -75,6 +76,8 @@ Calder looked at him.
 ---
 
 He told Wren he was going to see the dragons. It was true. He'd go to them first.
+
+His mother didn't ask where he was going. At the door she took his coat off the peg before he could, and he saw her fingers go along the hem to the place where she'd sewn a knot of red thread the night the river locked. For coming home, she said, when she saw him see. Her own mother had done it. She didn't say it worked.
 
 He walked up the beck through the Fellwood in the dark to the hill above the Fenn farm, where they'd agreed to wait: a league and a half from the island, on the open hillside above his own burned top field, where they could lie in the snow and see the river and he could still hear them across the ice. They were there when he came out of the trees. Three great shapes lying in the snow under the stars, bronze and rust and green, with the frost on their backs.
 
@@ -166,7 +169,7 @@ He thought of a girl in river grey on a stream bank, not doing anything at all. 
 
 He didn't answer. He went back to the body-chains, where two links in one of them had rusted thin, and took his knife out and worked at them with the point and the edge of the stake until they gave, one and then the other, and he had a length free, an arm's length, eight links, with the ring of six on every one. He wrapped it in his scarf and put it inside his coat.
 
-He couldn't have said why he wanted it. Something to set beside the other one.
+Something to set beside the other one.
 
 ---
 
@@ -180,7 +183,7 @@ There'd been a fire.
 
 A small one. On the flat stones at the water's edge, on this side. He could see the black ring of it in the snow. As he came down the bank toward it he could feel it. Warmth. Faint. Coming up off the stones into the freezing night.
 
-He knelt beside it and held his hand over the ashes. Warm. Not hot. A few hours. Less.
+He knelt beside it and held his hand over the ashes. Warm, not hot. A few hours. Less.
 
 *She was here,* said Lisska. Breathless. *Tonight. Wasn't she? She was here tonight. Just now.*
 
@@ -224,13 +227,13 @@ Listening to him.
 
 Through the three marks on his chest, a league and a half away on a hillside in the snow, he felt them go still.
 
-All three at once. As if they'd heard it too, through him. As if the sound had gone down through the marks into them, the way the roar had gone through them on the night of the field and brought their heads up all together. Lisska stopped breathing. Kharrak's red tide stopped dead, the way a dog's growl stops when it hears something bigger. And Aurveth, who was more than three hundred years old and afraid of nothing, he felt her go so still, so utterly and completely still, that for one terrible moment he thought something had happened to her.
+All three at once. As if they'd heard it too, through him. Lisska stopped breathing. Kharrak's red tide stopped dead, like a dog's growl when it hears something bigger. And Aurveth, who was more than three hundred years old and afraid of nothing, he felt her go so still, so utterly and completely still, that for one terrible moment he thought something had happened to her.
 
 *Calder,* she said. Barely. A thread of a voice. *Come back. Please. Come back to us now.*
 
 He stood on the path in the dark under the oaks with the breathing ahead of him, slow and deep.
 
-He backed away. One step. Two. Not turning round. The way you'd back away from a bull in a field. Ten paces. Twenty. Round the bend. Then he turned and walked back along the wide path, not running, not looking behind him, all the way to the stream and the shore and the warm ashes.
+He backed away. One step. Two. Not turning round. The way you'd back away from a bull in a field. A dozen steps. More. Round the bend. Then he turned and walked back along the wide path, not running, not looking behind him, all the way to the stream and the shore and the warm ashes.
 
 The breathing didn't follow him. He'd have heard.
 
@@ -256,7 +259,7 @@ She brought her great head down out of the dark until it was level with him, and
 
 She put her head down in the snow in front of him, on the ground, and didn't lift it.
 
-He stood there with no idea what to do. He put his hand on the great bronze brow above her eye. He could feel her through the mark, and what he felt was nothing he had a word for. Grief was in it, and fear, and something underneath both, very old and very large, turning over the way a sleeper turns in a deep bed.
+He stood there with no idea what to do. He put his hand on the great bronze brow above her eye. He could feel her through the mark, and what he felt was nothing he had a word for. Grief was in it, and fear, and something underneath both, very old and very large, turning over like a sleeper in a deep bed.
 
 *It's on you,* said Lisska. In a whisper. *The smell. The cat's. The old thing. It's all over your coat. From the path. From the place where it lay.*
 

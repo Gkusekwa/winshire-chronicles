@@ -1,11 +1,14 @@
 # Decisions while drafting Chapters 51–60
+
+*Historical record; merged into the Bible. The chapter notes and the Bible are current.*
+
 Extracted from each chapter's notes block. Items marked (proposals) are the drafter's calls for the author to confirm. Later rulings: see Rulings_41-79.md.
 
 ## Chapter 51: The Door
 
 POV: Maren
 Part: Part Four: The Frozen River
-Beats: Hale takes Maren to the locked cellar door. Behind it, far down, the sound of chain. She puts her hand on the door, and across the river the lion roars.
+Beats: Hale takes Maren to the black door at the end of Greyhold's archive. Behind it, far down, the sound of chain. She puts her hand on the door, and across the river the lion roars.
 Echo of the other's story: The roar is heard in Harrow's End; the dragons answer it.
 Status: first draft
 Carried forward: From Chapter 35: the black oak door, three iron bands, no handle, the lock as big as a man's hand, three steps down at the far end of the archive. From Chapter 49: Hale's confession; "when the moon's gone"; the Watch goes down once, on the night it's sworn; the chain; the oath as a hand on the chain; *and do not ask* won't come out of her mouth. From Chapter 37: the lion lies in the arch under the verse. From Chapter 27: Captain Thorne and her black boar. From Chapter 31: Thorne lifted her hand to the farmer the morning after the burning.
@@ -78,7 +81,7 @@ Draft notes: Days one hundred and five to one hundred and twelve. Decided here (
 
 POV: Maren
 Part: Part Five: Thaw
-Beats: The river breaks up with a noise like cannon. The lion lets Maren close enough to touch. No bond, no words, but it lets her stay.
+Beats: The river goes out all at once, with a noise like a city wall coming down. The lion lets Maren close enough to touch. No bond, no words, but it lets her stay.
 Echo of the other's story: The Restoration offers a reward for the dragon farmer.
 Status: first draft
 Carried forward: From Chapter 29: the hinged collar, the pin hammered over; she came at its neck with iron and it read her as a hunter; the hammer and chisel in her chest. From Chapter 53: the pit at the north end, the old grey stone, the lion scraping; Pell's patrol at Redwatch; the report that says only "it digs". From Chapter 41: the Haddow crossing; Ottery and the long pole. From Chapter 50 (Calder's side): the crossed-hammer stamp under the six. From Chapter 31: Odo Marl's smithy in Millbrook; Tam.

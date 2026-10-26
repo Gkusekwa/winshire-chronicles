@@ -19,6 +19,7 @@ Draft notes: Days 51–63: thirteen days on foot from the Wendwood, about a hund
 - The echo, at Upper Rush that night: two pedlars sheltering under Joss's byre say that over at Greyhold there's a knight-student who goes out to the Old Ruin and sits with the monster, and the knights don't stop her.
 - Wren ties the washed blue ribbon back on Lisska's horn.
 - The chapter opens in scene on the drove road; the drovers' saying "seven days and a bad knee" comes in as his father's joke.
+- Magic touches: a charm-seller at the first camp's gate selling warranted charms to refugees; the black old herd-charm on Joss's paddock gatepost that didn't stop the raid.
 notes -->
 
 ---
@@ -39,7 +40,7 @@ And the three of them in the forest.
 
 The Wendwood went with the road for the first eight days. It lay along the east bank of the Wend from the coast almost to Cotter's Cross, a great old wood of oak and beech and holly so thick and so tall that the drove road went along the edge of it like a path along the edge of a cliff. On one side, the open valley of the river, with farms and villages and the road. On the other, the trees. A wall of them. Green and black and silent. You could have hidden a city in the Wendwood. Three dragons lay up in it by day, a league or two off the road, moving north with him, and at night they came out and ranged and hunted and came back, and he'd find a deer or a hare left for him at the edge of the trees in the morning, like a dog leaving you a rabbit on the doorstep.
 
-He felt them all the time. Close enough, now, to talk. A league or two. Not five.
+He felt them all the time. Close enough, now, to talk. A league or two.
 
 Two of them talked.
 
@@ -47,7 +48,7 @@ Two of them talked.
 
 Kharrak didn't say a word to him for four days.
 
-Not one. Calder felt him. All the time. Through the rust-red mark, close, prowling in the forest a league off, hot and dark and furious. But he didn't speak. When Calder spoke to him he didn't answer. When Lisska spoke to him he didn't answer her either. He just lay up in the trees all day and went out hunting all night and came back with his kill and dropped it at the edge of the wood and went away again.
+Calder felt him. All the time. Through the rust-red mark, close, prowling in the forest a league off, hot and dark and furious. But he didn't speak. When Calder spoke to him he didn't answer. When Lisska spoke to him he didn't answer her either. He just lay up in the trees all day and went out hunting all night and came back with his kill and dropped it at the edge of the wood and went away again.
 
 *He's angry,* said Lisska, on the first night. Small. *With you. For going alone. Into the city. Into the house that buys things. And with me. For going after you.* A pause. *Mostly with you.*
 
@@ -97,7 +98,7 @@ On a road. A great road, paved, white, wide enough for four carts abreast, going
 
 Someone was walking beside her.
 
-He couldn't see them. They were a gap. A place in the green and gold light where someone should have been and wasn't, the way a word you've forgotten is a gap in a sentence. But he could feel them. At her shoulder. Walking. Close. And he could feel her feel them: warm, steady, loved, the way you feel a fire at your back on a cold night.
+He couldn't see them. They were a gap. A place in the green and gold light where someone should have been and wasn't. But he could feel them. At her shoulder. Walking. Close. And he could feel her feel them: warm, steady, loved, the way you feel a fire at your back on a cold night.
 
 There was a stone by the road. This stone. New, sharp-edged, white, with the letters cut fresh and clean. And as they came level with it, the gap at her shoulder stopped. And reached out. And laid a hand on it.
 
@@ -105,7 +106,7 @@ He felt it. Through her. A hand, flat on the white stone, warm from the sun. Jus
 
 *Nineteen,* said a voice.
 
-Not Aurveth's. Not anyone's he'd ever heard. A voice from the gap. Low and easy and pleased, the way you'd say it to someone you'd walked a long way with.
+Not Aurveth's. Not anyone's he'd ever heard. A voice from the gap. Low and easy and pleased.
 
 *Nineteen to the bridge.*
 
@@ -143,7 +144,7 @@ They passed the first camp on the fourth day.
 
 He smelled it before he saw it. Smoke, and soup, and too many people. The road came out of the Wendwood into a long open valley by the river, and there it was, laid out across the valley floor below the road like a fair: tents, rows of them, grey canvas, and cookfires, and people. Hundreds. Families, with bundles and handcarts. Refugees. The same faces he'd seen in the Low Lantern and on the coast road and on the Tidesteps.
 
-People in grey coats, going among them. Plain grey, not knights' grey. Handing out bowls. Blankets. Carrying children. Talking, kindly, crouching down to talk to the old ones on their stools.
+People in grey coats, going among them. Plain grey, not knights' grey. Handing out bowls. Blankets. Carrying children. Talking, kindly, crouching down to talk to the old ones on their stools. By the camp gate a woman sat on a stool of her own with a tray of charms on her knees, stamped knots and twists of paper, warranted against fever and frost and the dark, and a man with three children was counting coppers into her hand.
 
 *Soup,* said Lisska, from the forest behind him. *And blankets. They're helping. Aren't they? That's good. Isn't it?*
 
@@ -311,7 +312,7 @@ Harrow's End was half empty.
 
 He came down into it from the hill road at dusk on the thirteenth day, with Mabbin's rope in his hand, and stood at the top of the lane and looked at it, and didn't know it. The whole bottom of the village, by the mill and the beck, was black. The mill. The Wheel. Hob's house. The cottages by the beck. The Garrows' farm. Black, and roofless, and cold, with the rain on them and nobody there. No smoke from the chimneys. No lights. No one.
 
-Further up, on the upper lane, some houses still had smoke. He counted them. Nine. There'd been thirty.
+Further up, on the upper lane, some houses still had smoke. He counted them. Nine. There'd been thirty-one.
 
 And at the top of the hill, his own farm. Dark. Shuttered. No smoke. No light in the window.
 
@@ -347,7 +348,7 @@ He went back to his laths.
 
 Upper Rush was two leagues upriver, by the river lane, the way he'd run it on the night of the raid in the summer. He walked it in the dark, in the rain, with Mabbin beside him. He didn't need a lantern. Neither did she. She knew the way better than he did. Somewhere past the first league she lifted her head and began to walk faster, and he let her, and by the time they came over the last rise above the hollow he was half running to keep up with her, with his knee screaming and his hand wrapped in the rope.
 
-The hollow lay below them in the rain. Four farms above the water. The black ribs of the barns that had burned in the summer, which nobody had rebuilt. Joss's house, with a light in the window. The top paddock. And at the paddock gate, a shape. Pale in the dark. The colour of wet sand.
+The hollow lay below them in the rain. Four farms above the water. The black ribs of the barns that had burned in the summer, which nobody had rebuilt. Joss's house, with a light in the window. The top paddock, with the old herd-charm still knotted on the gatepost, horsehair and rowan gone black with weather. It hadn't kept the raiders out in the summer. Nobody had taken it down. And at the paddock gate, a shape. Pale in the dark. The colour of wet sand.
 
 There were two men under the eaves of Joss's byre, sheltering. Pedlars, by their packs, with a lantern, waiting out the rain. He heard them talking as he came down the hill road. They didn't look up. A man with a beast on a drove road was nobody.
 
@@ -415,7 +416,7 @@ She came across the yard through the rain in her nightgown and her bare feet, th
 
 She was heavier. She'd grown. Three weeks, and she'd grown. She put her arms round his neck so tight he couldn't breathe and put her face in his wet coat, and didn't cry, and didn't say anything, and he knelt in Joss's yard in the mud and the rain and held her and didn't say anything either.
 
-Behind her, in the door, there was his sister Bel with Nan on her hip, and Ada, with her shawl round her, looking at him the way she looked at weather.
+Behind her, in the door, there was his sister Bel with Nan on her hip, and Ada, with her shawl round her, looking at him.
 
 "You came back," said Wren, into his coat.
 

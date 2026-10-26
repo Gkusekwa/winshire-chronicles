@@ -14,6 +14,7 @@ Draft notes: Days 5 to 7: the day after the ford (day 4) and the two days after 
 - The split: Arn holds Varrhold (the west side, red thread). Ulric goes to his own steading at Skarrow, on the east side of the Scarfell, with the larger part of the fighting men. The Clan keeps hundreds of dragons and about a dozen bonded pairs; by the old law no bonded rider fights kin, and the other bonded pairs shut themselves in the Roosts. The three who break the law: Dag Rorke and Imra Sallow stand with Arn; Sigrun Holm, as the Clan's war-leader, goes with Ulric, saying the champion is the Clan's sword whoever holds the chair. So in Chapter 18 dragon fights dragon over the Fenn fields.
 - The split is day 6. Riders from both sides come to Harrow's End's green on day 7, Arn's down the Drover's Way from the moor, Ulric's up it from Cotter's Cross. Each asks the village for grain, men, and a name. Hob takes Ulric's silver. Wat Garrow (old Garrow's son; his wife Tessa is west-side born) and the Ashby widow side with Arn. Calder says the Fenn farm will sell barley to whoever pays and fight for nobody.
 - Echo: at dusk on day 7 Calder, at the Eelweir with old Fisk, sees two Greyhold patrol boats rowing slow lines close in under the island's east shore, nearer than anyone has seen them go ("two days they've been at it").
+Magic touches: the priest's old words over Teo's pyre; it burns in the rain regardless.
 notes -->
 
 ---
@@ -88,7 +89,7 @@ They lit it at dusk.
 
 Arn lit it. He stood at the foot of the pyre with a torch in his hand and his face like stone, and the priest said the words, the old ones, the ones about the fire and the sky and the long road up, and when he'd finished Arn put the torch into the heather at the base of the pyre and held it there until it caught. He walked round and lit it at each corner, and threw the torch in on top, and stepped back.
 
-It went up fast. The pine was dry under the heather and the rain did nothing to it. In a few breaths it was roaring, the flames going up yellow and white and the smoke going up black into the dusk, and the heat came out across the yard in a wave so that the front of the crowd stepped back. The long grey shape on top went dark in the middle of it, and then Calder couldn't see it any more, only the fire.
+It went up fast. The pine was dry under the heather, and whatever the priest's old words did or didn't do, the rain did nothing to it. In a few breaths it was roaring, the flames going up yellow and white and the smoke going up black into the dusk, and the heat came out across the yard in a wave so that the front of the crowd stepped back. The long grey shape on top went dark in the middle of it, and then Calder couldn't see it any more, only the fire.
 
 Nobody did anything to the horse. Somebody untied it, a boy, the same thin boy who'd come for Calder that morning, and led it away round the side of the hall, where it couldn't see. Calder found that he'd been holding his breath, and let it go.
 
@@ -168,7 +169,7 @@ Before light, Teo had ridden down alone to the ford on Hollow Beck, to be standi
 
 "Nothing," said Calder. "He owes me money."
 
-It was the first lie he'd told about any of it. It came out quite easily. He stood there and heard it come out of his mouth, easy and flat and ordinary, and the old man grunted and went back to the horse, and Calder turned round and went out into the rain.
+It was the first lie he'd told about any of it. It came out easy and flat and ordinary, and the old man grunted and went back to the horse, and Calder turned round and went out into the rain.
 
 He didn't go back to the fire. He found the grey mare, and saddled her himself, and rode home down the Drover's Way in the dark, past the ford, with the chain in his pocket and the glow of Teo's pyre on the clouds behind him the whole way down.
 
@@ -200,7 +201,7 @@ And Sigrun Holm had gone east, to Ulric.
 
 That was the one that made people go quiet. Sigrun, who'd been war-leader of the Clan since before Haldor was chief, who'd stood at Coldtarn with her great bronze dragon at her back while the brothers glared at each other over the urn and hadn't taken a side. She'd gone to Skarrow. She'd said, a carter reported, that the champion was the Clan's sword, whoever sat in the chair, and that she'd follow the Clan's sword until someone proved to her it had done murder. And that until then she'd thank Arn Varr not to call her a traitor in her own hold.
 
-The rest of the bonded riders, nine or ten of them, had gone up into the Roosts the morning after the pyre and shut themselves in. The old law said no bonded rider fights kin, and they meant to keep it, whoever ended up in the chair. Sigrun had kept them to that law for fifty years. Now the war-leader and the two best riders she had were the ones breaking it.
+The rest of the bonded riders, ten or eleven of them, had gone up into the Roosts the morning after the pyre and shut themselves in. The old law said no bonded rider fights kin, and they meant to keep it, whoever ended up in the chair. Sigrun had kept them to that law for fifty years. Now the war-leader and the two best riders she had were the ones breaking it.
 
 "So that's three war dragons," said Hob, at the Wheel, with his elbows on the table, "and a cliff full of them sitting on their hands. Two on one side and one on the other. And the one on the other's the biggest." He drank. "That's not a war. That's a slaughterhouse."
 
@@ -232,7 +233,7 @@ He smiled through the red beard.
 
 Hob was first.
 
-Calder watched him do it. He stood in the lane by the Wheel with Ada beside him and watched Hob walk out across the green toward the red-bearded man and the chest with his hands in his apron, the way you'd walk to market, and stop by the pack-horse, and look into the chest. He stood there for a long moment, and looked back over his shoulder at the village, all of them, standing in the lanes.
+Calder watched him do it. He stood in the lane by the Wheel with Ada beside him and watched Hob walk out across the green toward the red-bearded man and the chest with his hands in his apron, and stop by the pack-horse, and look into the chest. He stood there for a long moment, and looked back over his shoulder at the village, all of them, standing in the lanes.
 
 "Well?" said Hob. "What are you looking at me like that for? We've got a mill that needs a new stone and a bridge that's fallen in and a winter coming. And he's offering twice." He turned back to the red-bearded man. "The mill'll sell to Ulric. Forty sacks of flour by the new moon. And I'll hear no more about armbands."
 

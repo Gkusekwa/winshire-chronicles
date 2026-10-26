@@ -15,6 +15,7 @@ Draft notes: Days fifteen to nineteen. Decided here (proposals):
 - He knows the verse. He says the oath "keep the watch below" is older than the orders, and that he's spent forty years trying to find out who first swore it.
 - Day eighteen, at dusk: her first return to the island, in Ottery's punt from the Redwatch boathouse; she rides Turnip out after evening muck. At the stream at dusk the lion is there; she sits; its lip goes back; she doesn't move; it drinks. (This is the moment Lisska sees in Chapter 24.)
 - Day nineteen: Hale asks about the dragon farmer, too carefully: what has she heard, and did she see anything from the island the night of the fight.
+Magic touches: Grieve has never paid for a licensed word; says beasts can tell a bought word from a meant one.
 notes -->
 
 ---
@@ -63,13 +64,13 @@ She didn't answer. She mucked out.
 
 The beasts didn't care. That was the thing she found, in the first days, that she hadn't expected. The students cared. The instructors cared. Greyhold cared, in its grey stone way, that she'd failed. The beasts didn't care at all.
 
-They looked at her, at first, the way Grieve had said they would. Past her. Through her. The way you look at a servant clearing a table. She'd come into a stall with the fork and the beast in it would shift its weight and look at the wall, or at the door, or at nothing, and wait for her to finish, and go back to whatever it had been thinking about before.
+They looked at her, at first, the way Grieve had said they would. Past her. Through her. She'd come into a stall with the fork and the beast in it would shift its weight and look at the wall, or at the door, or at nothing, and wait for her to finish, and go back to whatever it had been thinking about before.
 
 After a few days, some of them started to look at her.
 
-Not much. She'd come into a stall in the dark before the bell, and a great head would turn on its neck in the straw and watch her for a moment, the whole time she was forking, with the lantern light in its eyes. She'd go out with the barrow and come back and it would still be watching. What it saw there, if anything, she couldn't tell.
+She'd come into a stall in the dark before the bell, and a great head would turn on its neck in the straw and watch her for a moment, the whole time she was forking, with the lantern light in its eyes. She'd go out with the barrow and come back and it would still be watching. What it saw there, if anything, she couldn't tell.
 
-Grieve noticed. He just stood at the end of the barn one morning with his arms folded and watched her muck out the stall of the Darrow girl's hound, the big brindled one that took the arm off a poacher two winters ago and wouldn't let anybody into its stall but the Darrow girl and Grieve himself, and watched the hound lie in the straw with its chin on its paws and its eyes on her the whole time, and not get up.
+Grieve noticed. He just stood at the end of the barn one morning with his arms folded and watched her muck out the stall of the Darrow girl's hound, the big brindled one that took the arm off a poacher two winters ago and wouldn't let anybody into its stall but the Darrow girl and Grieve himself, who had never paid for a licensed word in his life and said the beasts could tell a bought word from a meant one, and watched the hound lie in the straw with its chin on its paws and its eyes on her the whole time, and not get up.
 
 When she came out, he was gone.
 
@@ -81,7 +82,7 @@ She didn't hear him come. She was at the back of the barn, against the old wall,
 
 She knew who he was. Everyone did. She'd never spoken to him.
 
-He was old. Past sixty, she thought, though it was hard to tell; he had the kind of face that had looked old for a long time and would go on looking the same until it stopped. Tall, and heavy, and stooped, the way big men stoop when they've spent their lives going through doors too low for them. His beard was white and cut short. He leaned on a stick, a plain ash stick with an iron foot, and he stood with his weight off his left hip, the way men stand when the hip has gone. He wore the plain grey coat of the inner circle, buttoned to the throat, and at his belt there was a ring of keys: a great many keys, iron and brass, old and new, and among them one longer than the others, black, heavy, plain, that looked older than the rest put together.
+He was old. Past sixty, she thought, though it was hard to tell; he had the kind of face that had looked old for a long time and would go on looking the same until it stopped. Tall, and heavy, and stooped, the way big men stoop when they've spent their lives going through doors too low for them. His beard was white and cut short. He leaned on a stick, a plain ash stick with an iron foot, and he stood with his weight off his left hip. He wore the plain grey coat of the inner circle, buttoned to the throat, and at his belt there was a ring of keys: a great many keys, iron and brass, old and new, and among them one longer than the others, black, heavy, plain, that looked older than the rest put together.
 
 She put the barrow down and stood up straight.
 
@@ -229,9 +230,9 @@ She'd known it would be. It was the hour. It was standing at the edge of the str
 
 It lifted its head and looked at her.
 
-She stopped at the top of the bank, twenty paces off, and sat down.
+She stopped at the top of the bank, in her place, and sat down.
 
-Its lip went back. She saw the teeth. She saw the pale eyes go flat, and the great shoulders bunch, the way they had at the stream a week ago, before it came across. Her whole body went cold. She sat in the mud with her good hand flat on the ground beside her and her heart going like a drum, and didn't move, didn't look at it straight, looked at the water.
+Its lip went back. She saw the teeth. She saw the pale eyes go flat, and the great shoulders bunch, the way they had at the stream a week ago, before it came across. Her whole body went cold. She sat in the mud with her good hand flat on the ground beside her, and didn't move, didn't look at it straight, looked at the water.
 
 The lip came down.
 
@@ -289,7 +290,7 @@ She thought of the Captain on the gravel, drinking from a leather bottle. *The m
 
 "They said someone was going after him," she said. "The man who was with them. The one I wrote down. With the boots." She watched Hale's face. "They said the people he works for would pay twenty times as much for the dragons as for the lion."
 
-Hale didn't move at all. Not a muscle. But she saw something go across his face, very fast, behind the white beard, and go again, and she didn't know what it was, and it frightened her more than anything he'd said.
+Hale didn't move at all. Not a muscle. But she saw something go across his face, very fast, behind the white beard, and go again, and she didn't know what it was.
 
 "Thank you," he said. "Ashdown."
 
@@ -303,7 +304,7 @@ She looked at the old man at the long table under the lamp, with his ring of key
 
 "Good," said Hale. "Good." He opened the ledger again. "Go and get your dinner."
 
-She went. On the narrow stair outside the archive door she stopped, and stood for a moment with her good hand on the cold stone wall, and thought about the way he'd asked it. The way you'd ask about a key you'd lost, that you didn't want anyone to know you'd lost. Very carefully. Much too carefully.
+She went. On the narrow stair outside the archive door she stopped, and stood for a moment with her good hand on the cold stone wall, and thought about the way he'd asked it. The way you'd ask about a key you'd lost, that you didn't want anyone to know you'd lost.
 
 *Whether you've seen him.*
 

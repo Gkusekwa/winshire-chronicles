@@ -8,8 +8,8 @@ Echo of the other's story: A report: the dragon farmer is heading north toward t
 Status: first draft
 Carried forward: From Chapter 35: the black door at the end of the archive; "From the closing"; the inner circle "keeps a watch nobody else is told…"; Hale ashamed of being glad the farmer went south: "because he's three… the last time anything like that happened…" From Chapter 27: old Merrow and his ox-beast in the Long Barn. From Chapter 13: the verse, "…the last … sleeps … below the stone … let no hand wake it…"
 Draft notes: Days 54–58. Decided here (proposals):
-- Merrow's ox-beast, Holm, dies of age in its stall on the morning of day 56, with Merrow on his stool beside it. Merrow, ninety-one, dies the same night in his bed. It's the gentle face of one life between two: old, together, quiet. Grieve weeps. The whole Long Barn is silent.
-- Merrow was the knight who swore Hale into the inner circle forty years ago. They burn Merrow and Holm together on one pyre on the river shore below the wall at dusk on day 57.
+- Merrow's ox-beast, Dun, dies of age in its stall on the morning of day 56, with Merrow on his stool beside it. Merrow, ninety-one, dies the same night in his bed. It's the gentle face of one life between two: old, together, quiet. Grieve weeps. The whole Long Barn is silent.
+- Merrow was the knight who swore Hale into the inner circle forty years ago. They burn Merrow and Dun together on one pyre on the river shore below the wall at dusk on day 57.
 - That night Hale drinks, alone in the archive, and sends for Maren, which he's never done after dark. He's not falling-down drunk, only loose.
 - What he says:
   - Merrow kept the watch sixty years.
@@ -19,23 +19,24 @@ Draft notes: Days 54–58. Decided here (proposals):
 - He looks at the black door, and she sees fear in his face, real fear, not for himself.
 - The lion: on the night of day 58 it isn't at the stream. She finds it lying in the arch of the tower, under the verse, the way a dog lies across a threshold. It lets her sit at ten paces. When she leaves, it follows her to the edge of the trees and watches her go.
 - The echo: at Merrow's pyre, Rowan says to Hale, low, that a report has come in. The dragon farmer was at Wendmouth, freed the beasts on Gallows Quay, and has a two-hundred-silver price on his head. He's walking north with a stolen dray-mare toward the river, with three dragons ranging round him. Hale tells Maren that night.
+- Magic touches: a licensed warming-stone from the infirmary still warm in Dun's straw when he dies.
 notes -->
 
 ---
 
-The knights of Hearthmere have a saying they use at pyres, when the dead was bonded. *They went together.* That's all. It's said as a comfort. It means: neither was left. Nobody had to wither, or wait, or lie on a shore in the snow. They went together, the way they lived, and nobody was alone at the end. Maren had heard it said at her father's pyre, by kind people, and had wanted to hit them. Because they hadn't gone together. The poachers had killed his hound on the Saltreach road, and he'd come home and lain down on his bed, and taken four days.
+The knights of Hearthmere have a saying they use at pyres, when the dead was bonded. *They went together.* It means neither was left. Maren had heard it said at her father's pyre, by kind people, and had wanted to hit them. The poachers had killed his hound on the Saltreach road, and he'd come home and lain down on his bed, and taken four days.
 
 ---
 
 Merrow's ox-beast died on the fifty-sixth day.
 
-It was old. Everybody knew it was old. It had been old when Maren came to Greyhold two years ago, and old when Grieve came forty years before that, a great grey hump-backed slow thing with a white face and horns worn down to stubs, that hadn't been out of the Long Barn in a decade. Its name was Holm. Merrow had bonded it when they were both young, seventy years ago, on a farm in the south of Hearthmere, before he ever thought of being a knight.
+It was old. Everybody knew it was old. It had been old when Maren came to Greyhold two years ago, and old when Grieve came forty years before that, a great grey hump-backed slow thing with a white face and horns worn down to stubs, that hadn't been out of the Long Barn in a decade. Its name was Dun. Merrow had bonded it when they were both young, seventy years ago, on a farm in the south of Hearthmere, before he ever thought of being a knight.
 
-He came every morning to sit with it. Maren had seen him every day since she'd been on the midden. A tiny bent old man, ninety-one years old, with no teeth and hands like bundles of twigs, who came across the yard at dawn on two sticks and lowered himself onto a stool in the corner of Holm's stall and sat there all morning, talking to it. A word here and there. *Cold today, old lad.* *Rain coming.* *Vasey's broken his wrist, the fool.* And Holm would lie in the straw with his great white face toward the old man, and breathe, and once in a while make a sound in his chest like a cart going over a bridge.
+He came every morning to sit with it. Maren had seen him every day since she'd been on the midden. A tiny bent old man, ninety-one years old, with no teeth and hands like bundles of twigs, who came across the yard at dawn on two sticks and lowered himself onto a stool in the corner of Dun's stall and sat there all morning, talking to it. A word here and there. *Cold today, old lad.* *Rain coming.* *Vasey's broken his wrist, the fool.* And Dun would lie in the straw with his great white face toward the old man, and breathe, and once in a while make a sound in his chest like a cart going over a bridge.
 
-On the fifty-sixth morning she came into the barn with the barrow before the bell and Merrow was already there, on his stool, in the dark. He hadn't lit the lantern. He was sitting with one hand on Holm's face.
+On the fifty-sixth morning she came into the barn with the barrow before the bell and Merrow was already there, on his stool, in the dark. He hadn't lit the lantern. He was sitting with one hand on Dun's face. Against the old ox's belly, in the straw, lay the warming-stone Grieve had begged off the infirmary at the first cold nights, still giving out its heat.
 
-Holm wasn't breathing.
+Dun wasn't breathing.
 
 She stood in the door of the stall with the barrow and didn't know what to do.
 
@@ -51,7 +52,7 @@ They carried him to his bed in the old knights' lodging by the north wall, Griev
 
 Grieve wept. Maren had never seen him weep. She'd never seen him do anything but stand at the end of the barn with his arms folded and look disgusted. He stood by Merrow's bed with his bald head bowed and his hands hanging at his sides and wept like a child, without making a sound, and nobody said anything.
 
-The Long Barn was silent that night. She went in to do evening muck and every beast in it was awake, and still, and silent. The hounds lay in their stalls with their chins on their paws. The greyharts stood with their heads down. Kesh sat on her perch with her feathers flat and didn't bate. Even Captain Thorne's boar lay at the back of its stall with its small red eyes open, looking at the empty stall where Holm had been. And in the straw of that stall, curled up against the place where the great grey body had lain, was the cat nobody owned.
+The Long Barn was silent that night. She went in to do evening muck and every beast in it was awake, and still, and silent. The hounds lay in their stalls with their chins on their paws. The greyharts stood with their heads down. Kesh sat on her perch with her feathers flat and didn't bate. Even Captain Thorne's boar lay at the back of its stall with its small red eyes open, looking at the empty stall where Dun had been. And in the straw of that stall, curled up against the place where the great grey body had lain, was the cat nobody owned.
 
 *It picks,* Grieve had said. *Picks the beast whose rider's going to have a bad day tomorrow.*
 
@@ -59,7 +60,7 @@ It had picked. It had known. Maren stood in the door of the empty stall and look
 
 ---
 
-They burned Merrow and Holm together, on one pyre, on the river shore below the wall, at dusk on the fifty-seventh day.
+They burned Merrow and Dun together, on one pyre, on the river shore below the wall, at dusk on the fifty-seventh day.
 
 The whole of Greyhold came down to the shore. Knights and students and instructors and servants and Grieve, in a clean shirt, standing at the front by the pyre with his face set like stone. Rowan was there. Pell. Haverly, with Kesh hooded on his fist. And Hale, at the back, leaning on his stick, with his white beard and his heavy stooped shoulders, looking older than she'd ever seen him.
 
@@ -93,7 +94,7 @@ He wasn't drunk. Not the way the river was drunk, on fair nights at the Kettle, 
 
 She waited.
 
-"Forty years ago. Into the inner circle. In this room." He looked round the archive, at the stacks going away into the dark. "I was twenty-four. I'd been an archivist's boy since I was nine. I'd read everything. I thought I knew everything. And Merrow came down here one night, past fifty even then and grey as a badger, with that ox of his outside in the yard because it wouldn't stay in the barn without him, and sat where you're sitting, and told me what I'd be swearing to." He drank. "And I didn't believe him. Not for a year."
+"Forty years ago. Into the inner circle. In this room." He looked round the archive, at the stacks going away into the dark. "I was twenty-three. I'd been an archivist's boy since I was nine. I'd read everything. I thought I knew everything. And Merrow came down here one night, past fifty even then and grey as a badger, with that ox of his outside in the yard because it wouldn't stay in the barn without him, and sat where you're sitting, and told me what I'd be swearing to." He drank. "And I didn't believe him. Not for a year."
 
 He was quiet.
 
@@ -129,7 +130,7 @@ Hale turned the cup.
 
 He stopped.
 
-She watched him stop. She watched the word come up in him, right to the top, right to his mouth, and saw him hold it there. Saw him clamp down on it, the way you clamp down on a scream. His big hands went flat on the table.
+She watched him stop. She watched the word come up in him, right to the top, right to his mouth, and saw him hold it there. Saw him clamp down on it. His big hands went flat on the table.
 
 The archive was absolutely silent.
 
@@ -171,7 +172,7 @@ She saw his face.
 
 She'd seen fear before. She'd seen it on the river, on smugglers caught in the reeds. She'd seen it on the young man's face in the hollow, holding the chain, a pace from the lion's foot. She'd seen it on her own face in the water of the stream, on the night the lion pinned her. She knew what it looked like.
 
-This was fear. But not for himself. She could see that. A man who thinks he's going to be hurt has a different face. This was bigger and older and worse: the fear of a man standing on a frozen river, a long way from either bank, who has just heard the ice crack under his feet, and knows that everyone he has ever loved is standing on the ice behind him.
+This was fear. But not for himself. This was bigger and older and worse: the fear of a man standing on a frozen river, a long way from either bank, who has just heard the ice crack under his feet, and knows that everyone he has ever loved is standing on the ice behind him.
 
 He looked at the black door.
 
@@ -227,7 +228,7 @@ On the stair, in the dark, she stopped, and stood with her hand on the cold ston
 
 She went to the island the next night.
 
-She didn't tell Hale. She told her mother. Ottery took her, in the punt, in the frost, three leagues down the black river with the stars very sharp and the first thin ice beginning to form along the edges of the reeds, so that the punt went through it with a sound like breaking glass.
+She didn't tell Hale. She told her mother. Ottery took her, in the punt, in the frost, across the half league of black water from Redwatch with the stars very sharp and the first thin ice beginning to form along the edges of the reeds, so that the punt went through it with a sound like breaking glass.
 
 The lion wasn't at the stream.
 
@@ -269,11 +270,11 @@ At the edge of the trees above the reeds, where Ottery sat in the punt with his 
 
 She turned round then. It was standing at the edge of the trees, in the starlight, with the frost on its mane, looking at her. Ten feet at the shoulder. The great scarred face. The pale eyes.
 
-It watched her get into the punt. It watched Ottery push off. It watched them go out into the channel, through the thin ice, with the sound of breaking glass, and away down the river.
+It watched her get into the punt. It watched Ottery push off. It watched them go out into the channel, through the thin ice, with the sound of breaking glass, and away across the channel.
 
 She watched it back until the island went into the dark.
 
-"It followed you," said Ottery. After a league. Very quietly.
+"It followed you," said Ottery. Halfway across. Very quietly.
 
 "Yes."
 
@@ -281,6 +282,6 @@ She watched it back until the island went into the dark.
 
 "Yes."
 
-Ottery poled on without saying anything else for most of a league.
+Ottery poled on without saying anything else until the lights of Redwatch were close.
 
 "Nobody," he said at last, "has ever got that far."

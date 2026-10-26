@@ -15,13 +15,14 @@ Draft notes: Evening of day one hundred and forty-two to dusk on day one hundred
 - Night 142: she gets Tam and Odo to the ferry house. Liss is there with Wren, who wouldn't stay inside Greyhold without her; Ada stayed with Bel. Liss and Tam.
 - Day 143: she tries to get the word about Callis to someone inside. The gate won't open for her. She shouts it up at the wall. A student on the wall hears and looks at her, and goes away; she doesn't know if anyone believes it or who it'll reach. She tells Liss to tell Hale, by the water-gate, if she can.
 - The echo: dusk on day 143, as she starts back toward Hollin Knowe, from the River Road she sees fire over the Old Ruin, upriver. Dragon-fire. Two colours: one white at the root and orange-red, one a deep slow bronze-gold, like a furnace door. Two. She doesn't know what that means, or what it means that there are only two. She runs.
+- Magic (proposal): the surge, night 142. The rising's ring-men at the barricades chant a many-voice ward Reede taught them, and a knight's stand-word won't land on his horse through it; the chant breaks when the roofs catch. The ferry house's dead lamp flares white as Odo is carried in. Liss says the river burn-word over Maren's palms out of habit, and it takes too hard: the burns close tight and shiny, still painful (her hands stay "burned" in 73 and 75).
 notes -->
 
 ---
 
 Millbrook burned because of the horses.
 
-She'd always think that afterwards. Not because of the Restoration, not because of the rising. The rising had promised. *No Millbrook house'll burn.* Whatever else Vale was, whatever else he'd lied about, she thought he'd meant that one, standing on the wain with his arms out. The rising hadn't meant to burn the town. It had meant to hold it.
+Not because of the Restoration, not because of the rising. The rising had promised. *No Millbrook house'll burn.* Whatever else Vale was, whatever else he'd lied about, she thought he'd meant that one, standing on the wain with his arms out. The rising hadn't meant to burn the town. It had meant to hold it.
 
 Then Rowan sent the knights.
 
@@ -43,6 +44,10 @@ She'd grown up here. She'd swum in this channel. She knew every back yard and ev
 
 People. Running the other way, down to the water. A woman with a feather bed. A man carrying another man. Children. Nobody looked at her.
 
+From the top of the town, over the fire, voices. A lot of them, at the barricades, saying the same few words over and over all together, low, like a chapel litany. Not the common tongue. She didn't know the words. Somebody had taught them, Reede or somebody, and a hundred men with rings were saying them at once, facing down the street at the knights. Between two sheds she saw the bottom of the street: a knight on a rearing horse with his hand flat on its neck, shouting the stand-word at it, and the horse going up again as if he'd said nothing at all. His word wasn't landing. Something the hundred were saying was turning it aside.
+
+Then the roofs over the barricades caught, and the voices broke up into shouting, and she didn't hear the words again.
+
 The Kettle was burning. She went past the back of it. She heard the roof go.
 
 At the top of the town, at the top of the back lanes, where the jetty road came out, was the forge.
@@ -61,7 +66,7 @@ She knew the voice.
 
 She went in.
 
-The heat hit her in the face like a door. She got her cloak over her mouth and went in low, under the smoke, the way the river watch taught you to go into a burning boathouse, and the forge came up round her in the red dark. The anvil. The cold hearth. The racks of iron on the walls. The roof over the back of it, over the bench where Odo kept his tools, coming down in pieces, burning.
+The heat hit her in the face. She got her cloak over her mouth and went in low, under the smoke, the way the river watch taught you to go into a burning boathouse, and the forge came up round her in the red dark. The anvil. The cold hearth. The racks of iron on the walls. The roof over the back of it, over the bench where Odo kept his tools, coming down in pieces, burning.
 
 Tam was at the back.
 
@@ -103,7 +108,7 @@ Two hammers, crossed.
 
 He looked at her. At Maren. Up from the door, from the mud, with his face grey and his legs not working and the town on fire over him.
 
-"The boy told me," he said. "What you showed him. The collar." He swallowed. "*Beasts brought in to be cared for.* That's what the man said. With the order. In the autumn. A hundred collars. *To be cared for.*"
+"The boy told me," he said. "What you showed him. The collar." He swallowed. "*Beasts brought in to be cared for.* That's what the man said. With the order. In the spring, before the summer. A hundred collars. And chain by the hundredweight. *To be cared for.*"
 
 He lifted his arm. It was shaking. He threw.
 
@@ -175,7 +180,7 @@ She got them to the ferry house.
 
 Liss was there. Liss was on the stone jetty with a lantern, in the dark, looking south toward Millbrook burning, and when she saw them coming along the River Road out of the smoke, three of them and a door, she put the lantern down on the stones and came running.
 
-She didn't speak to Tam. She put her arms round him and held on, the way she'd held on to the guide-rope on the river, with both hands, and Tam put his face down in her shoulder and cried like a child.
+She didn't speak to Tam. She put her arms round him and held on with both hands, and Tam put his face down in her shoulder and cried like a child.
 
 Over Tam's shoulder Liss looked at Maren.
 
@@ -188,6 +193,16 @@ Behind Liss, in the red door of the ferry house, there was a thin girl with a gr
 "No," said Maren.
 
 "Good," said Wren, and stood aside to let them carry him in.
+
+Over the red door the old lamp lit as they went under it. The one that had hung dark on its hook since midwinter. White, a breath, so bright Odo shut his eyes on the door. Then dark.
+
+Later, by the fire, Liss took Maren's hands and unwrapped them and looked at the palms. She said the burn-word over them. The river one, that her own mother had said over every burned hand in the ferry house, that hadn't done anything since the turn of the year. Liss said it anyway, out of habit, the way she'd say *mind the step.*
+
+It took.
+
+It took so hard Maren cried out. Heat went into her palms and through them, and the raw skin drew together and went tight and shiny in a breath, as if a week had gone by. It still hurt. It hurt more. Liss let go of her hands as if they'd bitten her, and sat looking at her own.
+
+"That's not right," said Liss.
 
 ---
 

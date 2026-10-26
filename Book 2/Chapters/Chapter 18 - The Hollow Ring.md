@@ -251,7 +251,7 @@ It took a long time, as it had on the Plains. Lisska talking, very quietly for L
 
 Maren let her breath out.
 
-*She says the chief won't open his gate,* said Orrun. *She says the farmer is very tired. She says the farmer is learning his letters from his mother, in the warm cave, and he can do four, and one of them is backwards.*
+*She says the chief won't open his gate,* said Orrun. *She says the farmer is very tired. She says the farmer is learning his letters from his mother, in the warm cave, and he can write his own name now, and one of the letters is backwards.*
 
 Maren put her hand over her mouth.
 

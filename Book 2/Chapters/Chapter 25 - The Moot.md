@@ -117,7 +117,7 @@ He sat on a rock at the water's edge, at the bottom of the slope, with his four 
 
 "Look," he said.
 
-She looked. The quicksilver in the four glass throats was moving. Not slowly, the way it had moved at the sink, a hair's breadth at a time. She could see it go. Up, steadily, as you'd see water rise in a ditch when the sluice is opened.
+She looked. The quicksilver in the four glass throats was moving. Not slowly, as it had moved at the sink, a hair's breadth at a time. She could see it go. Up, steadily, as you'd see water rise in a ditch when the sluice is opened.
 
 "Tonight," he said. "Or the morning." He didn't look up. "Soon."
 
@@ -141,7 +141,7 @@ The lake was absolutely still.
 
 Idony picked up the first of the four glasses. The green one. The one that had come through the sink.
 
-He didn't look north. He turned it south-west, the way he did, and held it up to the grey sky, and looked into it for a long moment.
+He didn't look north. He turned it south-west, as he always did, and held it up to the grey sky, and looked into it for a long moment.
 
 "Three," he said. "Together. Still."
 
@@ -185,7 +185,7 @@ Then it stood.
 
 And the forest stood with it.
 
-She'd seen the carving. Under the Ring, on the wall, in the grey glow: the stag lying down with its legs folded under it, and the forest lying down round it, leaning in, the trees' branches folded over. She'd thought the carver had meant it the way you'd carve leaves round a door. To make it pretty.
+She'd seen the carving. Under the Ring, on the wall, in the grey glow: the stag lying down with its legs folded under it, and the forest lying down round it, leaning in, the trees' branches folded over. She'd thought the carver had meant it as you'd carve leaves round a door. To make it pretty.
 
 He hadn't.
 
@@ -243,7 +243,7 @@ It went along it. Round it. The deer and the boar and the wild wolves and the el
 
 He didn't move.
 
-She felt him, through the bond. Holding the bank. The earth in him, going out of him into the ground, into the bank, and holding it up against the flood, the way he'd held the slope in the sink, the way he'd held the stone that wanted to move. In the surge it came too easy. Too much. The ground wanted to heave. He held it, and it held.
+She felt him, through the bond. Holding the bank. The earth in him, going out of him into the ground, into the bank, and holding it up against the flood, as he'd held the slope in the sink, the way he'd held the stone that wanted to move. In the surge it came too easy. Too much. The ground wanted to heave. He held it, and it held.
 
 ---
 
@@ -271,7 +271,7 @@ Across the row of roundhouses, in the far lane, the turf heaved and something ca
 
 A lion.
 
-Grey. Enormous. The same size, the same weight, the same mane like iron-grey cloud, the same pale eyes. Coming up out of the earth of the sixth lane the way a swimmer comes up out of a lake, and shaking itself, and standing. Across the lane. In front of the flood. With the children's roundhouse at its back.
+Grey. Enormous. The same size, the same weight, the same mane like iron-grey cloud, the same pale eyes. Coming up out of the earth of the sixth lane like a swimmer out of a lake, and shaking itself, and standing. Across the lane. In front of the flood. With the children's roundhouse at its back.
 
 It roared.
 
@@ -413,7 +413,7 @@ He didn't say anything else.
 
 The word went round the fires that night.
 
-She heard it. She couldn't help hearing it. All along the slope, at every fire, in the clans' tongue, people saying the same thing to each other, over and over, the way people do when they've seen something and need to make sure the others saw it too.
+She heard it. She couldn't help hearing it. All along the slope, at every fire, in the clans' tongue, people saying the same thing to each other, over and over, as people do when they've seen something and need to make sure the others saw it too.
 
 Two lions.
 

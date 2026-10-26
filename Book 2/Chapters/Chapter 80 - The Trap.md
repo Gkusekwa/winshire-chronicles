@@ -15,7 +15,7 @@ Draft notes: Day 355, dawn to about noon. Decided here (proposals):
 - **The cage springs**: when it's under the chains, Rowan's horn from the north tower; the four engines roar (the heartstones flaring in their fireboxes, black smoke); the chains haul in, link by link, off the river, rising and closing over it in a net; Dane's twelve binders on the inner wall speak the College's chain-words together (the noon oath's form again, *Keep the watch below* and the hold-words); the runes inside every link blaze white; the chains come down over the Titan's back and neck and close; it's held, standing in the river, with six chains on it and the white running along them both ways from its back to the hill and to the anchors.
 - The Titan pulls; the chains feed (Odo: they feed on what they hold); every pull makes them brighter; the engines scream; the Saltreach anchors groan but they're new stone, live; the hill's eyes hold.
 - **The people**: Calder on Kharrak over the Saltreach bank keeps them moving up the Way; Wynn's hounds working the crowd like sheep, low and silent, turning stragglers; the knights on their greyharts lifting the old up behind them; Ulric's riders landing in front of carts to turn them; nobody running toward the river.
-- **The Restoration's last band**: about mid-morning, with the cage holding, forty men out of the Brackenwood with the five binders and their pots come down onto the empty Greyhold landing on the Hearthmere bank to loot: the ferry house, the grooms' cottages, the crown company's empty camp; Calder sees them from the air; Arn sees them; Arn's red goes down on the landing with twenty pairs behind him in a roar; the band breaks and runs back up the River Road into the Brackenwood without a blow struck; the binders throw down their pots; the Ferriby oxen (bound, driven down with them) walk into the river and come out of it themselves. That's the last of the Restoration's war (Reede's press is in Hallowmere; the army broke at 54).
+- **The Restoration's last band**: about mid-morning, with the cage holding, thirty men out of the Brackenwood with the one binder Corvin left them (he took four down the old stair, ch 77) come down onto the empty Greyhold landing on the Hearthmere bank to loot: the ferry house, the grooms' cottages, the crown company's empty camp; Calder sees them from the air; Arn sees them; Arn's red goes down on the landing with twenty pairs behind him in a roar; the band breaks and runs back up the River Road into the Brackenwood without a blow struck; the binder throws down his pot; the Ferriby oxen (bound, driven down with them) walk into the river and come out of it themselves. That's the last of the Restoration's war (Reede's press is in Hallowmere; the army broke at 54).
 - It holds. For a while. Calder hangs over the river on Kharrak and looks at it: the Titan standing in the Wend under six white chains, its head low, not pulling now; waiting. Aurveth from the Staithe: *It isn't fighting. It's waiting.* "For what?" *For the hill.*
 - **Echo**: Lisska on the ferry-house roof (her old perch, empty house): through the stone she feels the lion: far below, in the dark under the river, going down; she gives Calder the picture: dark, warm, a great grey shape and a small one with a dark sword, going down a stair into black water lit gold. (Maren and Orrun down the water-gate stair: ch 81.)
 Magic touches: the second cage (College runes in Kessmoor iron, heartstone engines, binders' many-voice working on the oath's form); the chains feeding on what they hold; running water breaking the band's bindings.
@@ -221,7 +221,7 @@ Nobody ran toward the river.
 
 The band came at mid-morning.
 
-He saw them from high up. On the Hearthmere bank. Out of the Brackenwood's edge, west of Greyhold, down the River Road. Forty men. More. With carts. With five figures among them swinging pots on chains, smoking. With oxen walking in front of them in a line, heads low.
+He saw them from high up. On the Hearthmere bank. Out of the Brackenwood's edge, west of Greyhold, down the River Road. Thirty men. More. With carts. With one figure among them swinging a pot on its chain, smoking. With oxen walking in front of them in a line, heads low.
 
 Onto the landing.
 
@@ -247,11 +247,11 @@ Not like that. Twenty dragons out of the sky at once, red and grey, onto a landi
 
 The band broke.
 
-Nobody struck a blow. Nobody loosed a bolt. Forty men dropped their sacks and ran. Up the River Road, past the dead lamps, back toward the Brackenwood's edge, as fast as they could go. Leaving the carts. Leaving the loot.
+Nobody struck a blow. Nobody loosed a bolt. Thirty men dropped their sacks and ran. Up the River Road, past the dead lamps, back toward the Brackenwood's edge, as fast as they could go. Leaving the carts. Leaving the loot.
 
-The binders threw down their pots.
+The binder threw down his pot.
 
-All five. In the road. And ran after them.
+In the road. And ran after them.
 
 ---
 
@@ -269,7 +269,7 @@ He saw it from the air. It lifted its head and bellowed and looked round at the 
 
 The others followed it in. One after another. And came out.
 
-That was the last of the Restoration's war. He didn't know it then. He knew it later. Forty men running up the River Road into a wood, and five pots smoking in the road, and a line of plough-oxen standing in the river with their eyes full again.
+That was the last of the Restoration's war. He didn't know it then. He knew it later. Thirty men running up the River Road into a wood, and a pot smoking in the road, and a line of plough-oxen standing in the river with their eyes full again.
 
 ---
 

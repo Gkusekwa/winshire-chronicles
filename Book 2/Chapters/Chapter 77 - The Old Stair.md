@@ -108,7 +108,7 @@ Rowan listened to all of it without a word.
 
 Rowan looked at her.
 
-"The knights are for the cage," said Maren. "And the people. When it comes." She looked at Orrun. "He fits a stair. They don't, against forty men in the dark." She thought. "Put three on the stair's head. With hounds. Nobody comes up it who didn't go down it."
+"The knights are for the cage," said Maren. "And the people. When it comes." She looked at Orrun. "He fits a stair. They don't, against Corvin's men in the dark." She thought. "Put three on the stair's head. With hounds. Nobody comes up it who didn't go down it."
 
 Rowan looked at her a while longer.
 
@@ -272,7 +272,7 @@ And the boot-prints went into all of them.
 
 She stood in the middle of the hall and turned round.
 
-All seven. Boot-prints going into every doorway. Not many into each. Two. Three. As if somebody had split forty men into seven parties at the foot of the stair and sent one down each way.
+All seven. Boot-prints going into every doorway. Not many into each. Two. Three. As if somebody had split a dozen men into seven parties at the foot of the stair and sent one down each way.
 
 Callis, she thought.
 

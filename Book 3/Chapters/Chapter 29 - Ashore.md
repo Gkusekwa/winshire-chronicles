@@ -15,6 +15,7 @@ Draft notes: Days 126–135. Decided here (proposals):
 - **Gannet**: chips far-stone every day among the column-tops (canvas bag, heavier every day); and **at night in the hold**, by the lantern, writing: Kit sees him at it on the 130th through the grating, bent over Merrin paper with a stub of pencil, a page of Maren's square hand beside him; she thinks it's a letter, or a log, or a list of stone for selling; "For the news," he says when she asks, smiling. She doesn't look closer. *(Kit doesn't know yet: ch. 44.)*
 - **Kit wants to leave**, d.131: after Sim; nine days at anchor; the crew frightened; Corrie won't go ashore at all now; **the contract**: passage there and back; the knight's not back; salt on the tongue. Ferris: "You swore." "I know what I swore." She stays.
 - **Idony goes inland**, d.133: he's argued every day; Kit forbids it; he points out he can't sleep anyway (he hasn't slept more than an hour a night since the cellars) and that the light can't take what he hasn't got: "I'm burned out. There's nothing in me to drink. I'm the one man on this shore who's safe." (A joke he enjoys.) One of **the small grey horses** comes down the beach to the road's end and stands by him and lets him get on its back, which no wild horse does; Kit: "You're not party to the contract." Idony, delighted: "No. I'm a witness." She lets him go.
+- **Gannet goes after Idony**, d.134 dawn, on foot: to see the old man doesn't fall off the horse, and for the unchipped stone up the road; "I never sleep"; Kit lets him (plant for 31).
 - **Echo**, d.135: from the platform at the top of the steps, through her glass, on the far hill a day off: a grey lion lying in the light, and beside him, very small, a woman sitting; and at the hill's foot, a smaller grey horse with an old man on it, going up.
 Magic touches: the Lit Shore's light drinks a sleeper's breath (the toll from the place's side); the beasts unafraid (the grey horse); far-stone chipping.
 notes -->
@@ -288,6 +289,18 @@ She stood on the beach at the road's end with Tansy and watched him ride inland 
 "Witnesses can taste," said Tansy. Beside her. "That's what he said, at Blackwater. With the salt."
 
 "I know what he said," said Kit.
+
+---
+
+Gannet asked on the hundred-and-thirty-fourth.
+
+At dawn, on deck. Whether he might go after the old man. To see he didn't fall off the horse, he said. To see he ate. And there was stone up the road nobody had chipped, and it would be a shame to come all this way and leave it.
+
+"You'll not sleep," said Kit.
+
+"I never sleep," said Gannet. The smile came first. "Ask anyone."
+
+She let him go. He was crew. He'd kept the custom fourteen days without a slip. He went up the road at a long easy walk with his canvas bag on his shoulder and his pencil, she supposed, in his pocket.
 
 ---
 

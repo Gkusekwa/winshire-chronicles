@@ -17,7 +17,7 @@ Draft notes: Days 290–305. Decided here (proposals):
 - Idony's errand (he tells her at Highcrest, day 297): at Highcrest a court messenger is looking for "the Kessmoor measurer": the Lady Aurel has asked the Bond-King's household to find him and bring him to court; the household wants a reader for the royal collars, which are cracking. Idony will go: Dane is at court selling the College's chain-craft to the Bond-King (the second-cage idea, for Sarovel's own beasts); Corvin is a guest of the Lady Aurel's house with the roll. "If the man who has the roll is going to show it to somebody, I want to be in the room. And the Titan's coming here. My glasses need to be near the stair." Maren: "He wants you." "I know. That's why I can get in."
 - Day 300 they part at Solenne's landward gate: Idony in a court carriage the household sends; Maren, Tobin and Orrun to the low quarter (mud-brick, below the walls), where the unchosen live, and a stable built for a horse that Orrun lies outside of with his head in. Maren sees Solenne from the hill: white limestone on a curving bay, domes, the palace on the cliff with its long stair down to the sea, the Sunward Hills behind.
 - Echo (day 302, a wine-inn in the low quarter): a Saltreach sea captain, drunk and loud, telling the room the dragon farmer from the Marches brought down a Council house at Corsa: walked into the Tidehall with three dragons on the steps and a red book, and the Halloran house fell before noon, and the fat factor ran off on the morning tide. Maren doesn't turn round.
-- Days 302–305: the royal unicorn seen on a feast-day on the palace stair (white, gilded horn, a gold collar, a rider on it, its eyes empty): opens ch 57. Maren decides to go out to the Elderwood (a day's walk north of the city) where the wild unicorns are, because Orrun wants to: "Kin. Far kin. They are frightened."
+- Days 302–305: the royal unicorn seen on a feast-day on the palace stair (lean, deer-boned, silver-grey chalked white for the feast, gilded horn, a gold collar, the Bond-King on it, its eyes empty): opens ch 57. Maren decides to go out to the Elderwood (a day's walk north of the city) where the wild unicorns are, because Orrun wants to: "Kin. Far kin. They are frightened."
 Magic touches: the Grace (Sarovel's bright live ground); bond-rank; the liturgy (the Lamp plant); the drain-dead edge of Hearthmere crossed; the royal collars cracking (rumour).
 notes -->
 
@@ -387,7 +387,9 @@ She saw the unicorn on the three-hundred-and-fourth day.
 
 A feast-day. The whole city out. The unchosen on the walls, looking down. And on the great white stair of the palace, the upper one, the one that came down from the palace gates to the city's main square, a procession. Nobles in silk with their bonded beasts. Gold-coated hounds. Great cats with jewelled collars. Horses that weren't quite horses, with too-long legs and eyes like coals.
 
-And at the head of it, white. Tall. Taller than a horse. With a single horn, long and spiralled and gilded, and a mane like spun glass.
+And at the head of it, a unicorn.
+
+Not a white horse with a horn, as the painted signs on the stage-houses had it. Lean. Deer-boned. Taller than a horse at the shoulder and narrower, with long fine legs and cloven hooves that rang on the white stone. Silver-grey under the chalk the grooms had rubbed into its coat to make it white for the feast. A single horn, long and spiralled, living bone, and somebody had gilded it.
 
 A gold collar round its neck. Wide. Cut with marks.
 

@@ -261,7 +261,7 @@ He didn't say anything.
 
 "That thing," said Nessa. "The one you're going to measure. It did that. It ate a kingdom's lamps. Ate them right out of the ground and flew off with them in its belly, the boatmen say, and left the place dead behind it." She took the sweep again. "And you're going after it with your glasses to write down how big it is."
 
-"It's important to know—"
+"It's important to know..."
 
 "I know it's important." She put her weight on the sweep, and the *Heron* swung. "I'm not stupid. I know it's important, and I know you're the only one who can do it, and I know you've wanted to do something like it since you were six and took the back off Da's compass to see where the north was kept." She looked at him. "I'm asking you something else."
 

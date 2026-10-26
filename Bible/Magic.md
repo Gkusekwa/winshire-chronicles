@@ -316,6 +316,6 @@ The rule for writing battles: **magic tips fights; steel and beasts win them.** 
 
 **Settled by the author:** his name is **Idony Vael**; he's a man; he **survives to the end of the series**.
 
-**Drafted, awaiting the author:** his state after Book 2. The draft (Book 2 ch. 83, 87) has him **burned out** holding the Titan still for the cellars: grey in a breath, hands that shake for good, every working he knows now only words, but his knowledge whole, and tide-glasses still readable because reading them is measure, not craft. Not canon until confirmed (Book 2 plan, review question 12).
+**His state after Book 2** *(canon, author, Oct 2026: as drafted)*: Book 2 ch. 83, 87 has him **burned out** holding the Titan still for the cellars: grey in a breath, hands that shake for good, every working he knows now only words, but his knowledge whole, and tide-glasses still readable because reading them is measure, not craft. (Book 2 plan, review question 12, settled.)
 
 **Open for the author:** whether he stays unbonded through Book 3 (the Book 3 plan proposes he does: its question 20).

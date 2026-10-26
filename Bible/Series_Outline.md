@@ -229,7 +229,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 ## Open series questions
 
 **Still open** (the full list, with where each lives, is in **Open questions for the author** below):
-- How does the Clan come to believe the farmer in Book 2? *(Proposal: `Book 2/Chapter_Plan.md`.)*
+- ~~How does the Clan come to believe the farmer in Book 2?~~ *Settled (Oct 2026), as drafted: the ledger, Ulric's memory and the ledges' witness, sealed by Corvin's raid on the Roosts and the united pour (`Book 2/Chapter_Plan.md`, question 22).*
 - What does each relic look like? *(Proposal: hollow eggs of grey old-realm stone, `Book 2/Chapter_Plan.md`; `Magic.md` §5.)*
 - How exactly did Hearthmere find and chain its Titan? *(About three hundred years ago, Book 1 ch 49, 57; the full history is revealed in Book 2, proposed for its ch 34.)*
 - How does the surviving twin die in Book 3, and does he find any redemption? *(`Book 3/Chapter_Plan.md`, question 5.)*
@@ -269,8 +269,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - ~~"The Unbound"~~ *Settled (Oct 2026): the seventh ring keeps the name; Book 1 is* The Watch Below.
 
 **Book 2** (`Book 2/Chapter_Plan.md`, drafted, under review)
-- The plan's **Review questions for the author**: 4, 6–10 and 12–22 are open, each with how the draft answers it (**Drafted as**); 1, 2, 3, 5 and 11 are settled, and the plan's **Settled** list holds the rest (the title *The Hunt Beneath*; who cut the black book's pages, Hale's belief, `Magic.md` §9). The most consequential: the Restoration's war (4), the Clan's trust in Calder (22), Idony's state (12; his survival is settled) and the deaths (19).
-- Questions 12 and 22 now reach downstream: Book 3's drafted chapters 1–10 already assume Idony's burnout and the Clan's trust as drafted (the plan lists the chapters under each question).
+- The plan's **Review questions for the author**: 4, 6–10, 13–21 are open, each with how the draft answers it (**Drafted as**); 1, 2, 3, 5, 11, 12 and 22 are settled, and the plan's **Settled** list holds the rest (the title *The Hunt Beneath*; who cut the black book's pages, Hale's belief, `Magic.md` §9). The most consequential still open: the Restoration's war (4) and the deaths (19). Settled as drafted (Oct 2026): Idony burned out (12) and the Clan's trust in Calder (22).
 - What the uncle–nephew alliance costs Arn and Ulric (open series question above; `Story.md`)
 - What each relic looks like (open series questions above; `Magic.md` §5)
 - The full history of the chaining (open series questions above; proposed for Book 2 ch 34)

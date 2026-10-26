@@ -576,7 +576,7 @@ Saltreach is a place in Book 3, not a backdrop: Part Two is set there, Kit's eig
 3. **The relics are grown into the Last Titan's back**: shown for sleep relics at the Scald and the Sun Stair (45, 60) and for the control relic at 84. The plan (B3 35), Aurveth's sight of the coal (B3 45, 68) and the betrayal need it. *Matches now.*
 4. **The destroyers' names, kinds and home kingdoms**: the Antlered, the Pale Coil (named at 37), the Furnace (named at 48), the Horned Sun, the Bell. The elders' kinships build on them. *Matches.*
 5. **Kessmoor's heartstone cage held the Furnace until the call** (48, 85), fed by harvested beasts. *Matches.*
-6. **Idony is burned out** (83): reads everything, works nothing, can't hold a pen. If Book 2 lets him keep his craft, his eight chapters change (and B3 36's refusal goes). *Matches the draft (83, 87); still awaiting the author (Book 2 review question 12).*
+6. **Idony is burned out** (83): reads everything, works nothing, can't hold a pen. If Book 2 lets him keep his craft, his eight chapters change (and B3 36's refusal goes). *Matches the draft (83, 87); settled by the author as drafted (Book 2 review question 12, Oct 2026).*
 7. **Corvin survives one-handed with Callis** (84–85), **keeps the oldest roll** and the chain-words (85), and knows Idony taught him a wrong stroke (71). *Matches.*
 8. **Callis is alive**, both arms badly set and weak (71, 81, 85), at Corvin's side. *Matches (Book 2's splints are gone).*
 9. **The chain-ends still say *hold*** and give a grip on the Last Titan (47, 83). *Matches.*

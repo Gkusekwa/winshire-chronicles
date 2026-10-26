@@ -11,7 +11,7 @@ Status: first draft
 Draft notes: Days 359–365. Decided here (proposals):
 - Day 359 Calder flies up from the ferry house to the Scarfell; the Titan lies on the high moor above the Coldtarn caves, a league from the hatching caves, on the bare heather under the Scarfell's crags, very still, six in its back; the Clan on the ledges at Varrhold and at the caves, every pair, watching it; nobody goes near. Wren at the caves with Ada and Bel (and Pip and Nan); Ildra at Wren's side; the black and the red still empty-eyed by the spring.
 - Wren: "You came back." "I said I would." "Say it twice." He does.
-- **The five come**, days 360–361 (seen from the caves' mouth and the ledges): the **Antlered** out of the east over the Worldsend's foothills, with the forest walking round it (trees moving on the moor where there are no trees); the **Pale Coil** out of the north-west, frost going ahead of it over the heather, the tarn freezing as it passes; the **Furnace** out of the west, the ground smoking where it walks, broken iron still hanging from it; the **Horned Sun** out of the south, light coming off its horn so the moor's night is day for a league; the **Bell**, last, slowest (near midnight 361), out of the sea and up the Wend's valley and over the hills, reef-backed, the bronze bell on its back ringing as it walks. Each comes to the Last Titan and lies down beside it. Six on the moor.
+- **The five come**, days 360–361 (seen from the caves' mouth and the ledges): the **Antlered** out of the east over the Worldsend's foothills, with the forest walking round it (trees moving on the moor where there are no trees); the **Pale Coil** out of the north-west, frost going ahead of it over the heather, the tarn freezing at its edges as it passes, but not at the warm middle (Book 3 needs Coldtarn never to freeze); the **Furnace** out of the west, the ground smoking where it walks, broken iron still hanging from it; the **Horned Sun** out of the south, light coming off its horn so the moor's night is day for a league; the **Bell**, last, slowest (near midnight 361), out of the sea and up the Wend's valley and over the hills, reef-backed, the bronze bell on its back ringing as it walks. Each comes to the Last Titan and lies down beside it. Six on the moor.
 - The Clan's dragons, every one, lie on the ledges with their heads toward the six and hum, low, all night, both nights; Calder's three with them; Aurveth: *They're not calling us. We're only near enough to hear.* (ch 85 echo).
 - **Day 362 dusk: the six go up**: together, off the moor; the heather flattening for a league; the Clan's dragons silent; the six in the air over the Scarfell, turning; and east, toward the Worldsend; gone into the dark over the mountains. (Idony sees it from the ferry-house door, ch 87.) Wren on the cave ledge with Calder: "Where are they going?" "East." "Will they come back?" He doesn't know; he says so; twice.
 - **Echo**, day 364: Lisska back from the river (sent on the morning of 363 for the reader's pages): the pages in oilcloth on her leg (two and a half sheets of blue-ruled ferry-book paper, his own columns, and on the back of the third, in Liss's hand, the readings of days 360–362 that Idony said aloud to her when she came home and she wrote down); and kin-speech through Orrun: Maren was on the ferry-house jetty at dusk on 362, watching the east, and saw them go; she says to tell Wren she saw it too. Twice. Wren: "She said twice?" *Twice,* says Lisska. Wren is satisfied.
@@ -94,9 +94,9 @@ Out of the north-west, the cold one.
 
 He felt it before he saw it. The air going still. Then frost. On the heather. White, going ahead of it across the moor in a long tongue, crackling. And behind the frost, something long and pale, coil after coil, blue-white, moving over the ground as a river moves.
 
-Coldtarn froze as it passed.
+Coldtarn tried to freeze as it passed.
 
-He heard it. The tarn below the caves, that had never frozen in the memory of the Clan, going white from the edge inward with a sound like a thousand panes of glass.
+He heard it. The tarn below the caves, that had never frozen in the memory of the Clan, going white from the edge inward with a sound like a thousand panes of glass. And stopping. A long way short of the middle, where the warm water came up from under the rock. The ice stopped there in a ring, and the middle of the tarn lay black and open inside it, steaming in the frost.
 
 It came and lay down, coiled, beside the other two.
 
@@ -288,7 +288,7 @@ Grey. The Clan's paper. Arn had sent a ream of it up from the tally-house, witho
 
 He took the pen.
 
-Wren was beside him on the bench. Leaning on his arm. Watching. Bel at the fire. Pip and Nan in their hatching bowl. Old Grey in the cave mouth, with his chin on his chest. The warm spring going out of the rock into the tarn, steaming, where the tarn had thawed.
+Wren was beside him on the bench. Leaning on his arm. Watching. Bel at the fire. Pip and Nan in their hatching bowl. Old Grey in the cave mouth, with his chin on his chest. The warm spring going out of the rock into the tarn, steaming, where the ring of ice had gone.
 
 He dipped the pen.
 

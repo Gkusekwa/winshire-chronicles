@@ -9,7 +9,7 @@ Beats: **The fifth waking**, within the day: the Bell sleeper, reef-backed and t
 Echo of the other's story: The lamps flaring along the Hearthmere coast, seen from the sea.
 Status: first draft
 Draft notes: Day 349, dawn to night. Decided here (proposals):
-- **Echo**, dawn: Sable's rider, **Jory Tallis** (not the lieutenant: Lieutenant Corrin Ash is Book 1's; a lean freckled woman of thirty with a burned ear), comes ashore in Vey's boat to Arn: the company has no captain; is the Clan's coin still good? Arn: "For the children." She saw it last night: flying high looking for the captain's body after dark, she saw west along the coast past the Wend's mouth the whole Hearthmere shore lit white for an hour, town after town, Stillhaven like a bonfire on the rim; then dark. (Ch 74's hour.)
+- **Echo**, dawn: Sable's rider, **Nell Tallis** (not the lieutenant: Lieutenant Corrin Ash is Book 1's; a lean freckled woman of thirty with a burned ear), comes ashore in Vey's boat to Arn: the company has no captain; is the Clan's coin still good? Arn: "For the children." She saw it last night: flying high looking for the captain's body after dark, she saw west along the coast past the Wend's mouth the whole Hearthmere shore lit white for an hour, town after town, Stillhaven like a bonfire on the rim; then dark. (Ch 74's hour.)
 - Morning: Calder sends Ada to the salt-store hill in Tamsin's basket at first light, protesting. Nan Gorrie's already there.
 - Mid-morning: **the Titan goes**: it lifts out of the sea a league off and walks north, through the shallows, up over the shore by the Saltings, inland, and away north over the Ashlings; Calder feels it go through Aurveth: *Home.* The harpoons still in its side.
 - Noon: **the drawback**: the sea goes out. Not a tide: the whole bay draining toward the Bell; the harbour empties in a quarter of an hour; the reefwyrms stranded, thrashing; the oyster beds bare for a league; the fleet's ships heeling on the mud; people come down off the roofs onto the shingle and the mud to look, to gather oysters (it's oyster season); Arn roars; Hessa Pane drives the salt-wives back up with her tin cup.
@@ -35,11 +35,11 @@ In Vey's boat. Rowed by two of Vey's men, through the stranded and the half-stra
 
 A lean woman of thirty. Freckled. One ear burned off at the top long ago. A wyvern-rider's leather coat with the company's mark on the shoulder, a grey glove on a black field.
 
-"Jory Tallis," she said. "Sable's." She looked at Arn. "The company's got no captain. Is the Clan's coin still good?"
+"Nell Tallis," she said. "Sable's." She looked at Arn. "The company's got no captain. Is the Clan's coin still good?"
 
 "For the children," said Arn.
 
-"For the children," said Jory Tallis.
+"For the children," said Nell Tallis.
 
 ---
 
@@ -51,7 +51,7 @@ After dark. She'd flown Sable high, looking for the captain on the water. Round 
 
 "How long?"
 
-"An hour," said Jory Tallis. "Then dark again. All at once. Like a door shut." She looked at Calder. "What was it?"
+"An hour," said Nell Tallis. "Then dark again. All at once. Like a door shut." She looked at Calder. "What was it?"
 
 Calder thought of Maren. On her landing, with her lion. Under the dead lamps, that weren't dead for an hour.
 

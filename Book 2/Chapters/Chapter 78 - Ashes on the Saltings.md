@@ -12,7 +12,7 @@ Draft notes: Days 350–354. Decided here (proposals):
 - Days 349 night–350: the drowned brought in. The sea gives them back along the shingle and the edge of the Saltings over two days; the salt-wives and the Clan's riders walk the tideline; boats (the few with sound hulls) go out to the drowned smoke-houses. Two hundred and ninety names in the harbour-master's book; two hundred and sixty-one found. Vey not found. Asta Dunn's dragon washes up on the edge of the Saltings and is burned where it lies.
 - **The burning**, dusk 350: on the shingle of what's left of the spit, at the spit's root by the salt-store; pyres of smoke-house timber and wreck; the Clan's way (the dead burned, the ash kept) because Gullhaven's way is the sea and the sea is what killed them; Hessa Pane says the Lady can have the ash, not the bodies. Ada tries the hearth-word on the first pyre: it doesn't take (Saltreach drained since 349); she lights it with a coal from the salt-store's fire like anyone; says nothing.
 - **The pour**, dawn 351: the ash in salt-barrels (no urns); on the end of the old jetty, the one that still stands, out over the water; Arn steps onto it; stops; looks at Ulric on the shingle; Ulric comes; "One hand each." They pour the Gullhaven drowned into the sea together, for strangers; then the two Clan riders' ash and Asta Dunn's (Clan, poured with the rest: Ulric says so). The salt-wives pour their brine after. *Lady, we give you back your salt. Keep the stones.* Hessa Pane: "She didn't. Say it anyway."
-- Day 351: the harbour-master asks who'll write it for the Council: what happened, who knew. Ada says she will. Calder says he will. **His account**: night 351 at a table in the salt-store (the Anchor-and-Net is in the sea), a whole page, his own hand, no finger, slowly, with Ada across the table not helping: shown in part: *On the 349th day the sea went out of the bay at noon...* through the counts; ending *The Council was told. I told it myself, at Corsa, on the 331st day. It was oyster season. / Calder Fenn, of Harrow's End.* Ada reads it and doesn't change a word. A Strand ship (one of the seven left) takes it to Corsa with Jory Tallis's company on day 352, and Vey's black ship.
+- Day 351: the harbour-master asks who'll write it for the Council: what happened, who knew. Ada says she will. Calder says he will. **His account**: night 351 at a table in the salt-store (the Anchor-and-Net is in the sea), a whole page, his own hand, no finger, slowly, with Ada across the table not helping: shown in part: *On the 349th day the sea went out of the bay at noon...* through the counts; ending *The Council was told. I told it myself, at Corsa, on the 331st day. It was oyster season. / Calder Fenn, of Harrow's End.* Ada reads it and doesn't change a word. A Strand ship (one of the seven left) takes it to Corsa with Nell Tallis's company on day 352, and Vey's black ship.
 - **Aurveth**: the Titan's draw; she feels it lying down inland, south-west of the Marches, over the downs; she says it'll go up within two days. The Clan must go home: the promise (*When the coast is done*). The coast is done.
 - Day 352 dawn: Arn goes first with the fast pairs (they reach the Marches at dawn 353: Maren sees them, ch 77). Ulric's half stays one day to fly the last of Gullhaven's people to the salt-store hill farms; then follows. Gunna takes Ada home to Varrhold on Tamsin ("Wren'll want it twice"). Calder goes with Aurveth (slow, crooked wing), Kharrak, Lisska: up the coast west, then up the Wend's valley north; three days for her.
 - **The race**: night 352 in the Ashlings; day 353 Aurveth feels the Titan stand up and go into the air (morning; matches ch 77); "It's flying"; they're still a day off; she won't rest; they fly into the dark.
@@ -211,15 +211,15 @@ Ada looked at him across the trestle, in the fish-oil light, for a long time.
 
 A Strand ship took it to Corsa.
 
-One of the seven that hadn't gone over. On the three-hundred-and-fifty-second day, in the morning. With Jory Tallis and the wyvern company aboard, Sable and Hask and the three others hooded on its deck, and Vey's small black ship following with nobody at the helm who'd sailed her before.
+One of the seven that hadn't gone over. On the three-hundred-and-fifty-second day, in the morning. With Nell Tallis and the wyvern company aboard, Sable and Hask and the three others hooded on its deck, and Vey's small black ship following with nobody at the helm who'd sailed her before.
 
-Jory Tallis took the page from him on the jetty.
+Nell Tallis took the page from him on the jetty.
 
 "I'll put it in Marrow's hand," she said. "Myself."
 
 "Not Strand's."
 
-"Not Strand's," said Jory Tallis. She folded it into her coat. "The captain would have liked that. A page with numbers on it." She looked at the sea. "He liked a plain price."
+"Not Strand's," said Nell Tallis. She folded it into her coat. "The captain would have liked that. A page with numbers on it." She looked at the sea. "He liked a plain price."
 
 ---
 

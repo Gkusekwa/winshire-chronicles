@@ -266,7 +266,7 @@
 
 ## Author's eyes only: temples and the catacombs
 
-*Spoilers for Books 1 and 2. These never appear on a reader's map. Established: six temples, one per kingdom; Hearthmere's lies beyond the chains in the catacombs; each kingdom was founded, unknowing, over a sleeping Titan. Exact sites are proposals.*
+*Spoilers for Books 1 and 2. These never appear on a reader's map. Established: six temples, one per kingdom; Hearthmere's lies beyond the chains in the catacombs and is the one temple that held two relics (its sleeper's sleep relic, broken when the Titan was chained, and the control relic in the deepest vault); each kingdom was founded, unknowing, over a sleeping Titan. Exact sites are proposals.*
 
 - **Temple of the Scald** (Kessmoor). A temple deep under the Scald, holding one of the five sleep relics. Orrin's disaster began when Kessmoor engineers drilling for ore broke into its outer chambers. Kessmoor does not know what it found. (Book 2)
 - **The Sun Stair** (Sarovel). Beneath the Bond-King's palace, below the sea stair, a temple holds a sleep relic. Sarovel's crowned line has worshipped there for centuries as a shrine of the gods and never guessed what it keeps. (Book 2)

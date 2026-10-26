@@ -242,6 +242,10 @@ He looked at them.
 
 "The bronze. Your old one." She didn't know the name. She'd never asked. "Who she was before. Before the Clan. Before any of them." She held them out. "There was a man. A long time ago. His name was Ennis. And something the bird said to ask you."
 
+"Ennis," said Calder.
+
+He said it as if he knew it. As if he'd heard it said before, by somebody else, a long way off.
+
 He took them.
 
 He held them in both hands and didn't open them. He looked at the outside, at the fold, where she'd written in big plain letters *FOR THE FARMER*, because she didn't know what else to put.

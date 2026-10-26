@@ -352,11 +352,13 @@ He said it. Under his breath. The way you'd say a word in a language you didn't 
 
 "Ennis."
 
-He thought of a hand. Flat on a white stone in the sun. Warm. *Nineteen.* A voice from a gap where a face should be. Low and easy and pleased.
+He knew the name. Aurveth had given it to him under the Ruin, the night the verse came back to her, with a face to go with it at last. But he'd only ever heard it. In her voice, at the back of his head. He'd never seen it. Somebody else had written it down. Somebody who'd never met her, in a city she'd never been to, had put it on paper in letters as big as his thumb, so a farmer could read it.
+
+He thought of a hand. Flat on a white stone in the sun. Warm. *Nineteen.* Low and easy and pleased.
 
 He folded the sheet again and put it back with the others, inside his coat, and put his hand on it.
 
-She was too far to hear him. Aurveth. On the ledges at Varrhold, seventy leagues off, with her crooked wing. He couldn't have told her if he'd tried. He'd tell her when he got there. He'd sit beside her on the setters' ledge and take the pages out and find somebody to read them, slowly, and he'd tell her the name.
+She was too far to hear him. Aurveth. On the ledges at Varrhold, seventy leagues off, with her crooked wing. He couldn't have told her if he'd tried. He'd tell her when he got there. He'd sit beside her on the setters' ledge and take the pages out and find somebody to read them, slowly, and he'd show her the name. Written. Where anyone could see it.
 
 He sat with his hand on his coat and didn't move till the sky went grey.
 

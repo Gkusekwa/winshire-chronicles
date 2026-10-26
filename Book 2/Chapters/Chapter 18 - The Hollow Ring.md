@@ -93,7 +93,7 @@ She'd seen him. She'd seen him on the Plains, walking beside the last mule with 
 
 He came down from the rise in the middle of the morning, alone, with a small leather case in his hand and nothing else. He came across the grey grass between the stones, slowly, the way you'd walk up to a horse you didn't know, and stopped twenty paces off. Well short of Orrun. Well short of her.
 
-He was younger than she'd thought. Thirty, perhaps. Thin, with untidy brown hair and ink on his fingers and a coat that had been good once. He had a plain silver ring on his left hand with two small notches cut in it.
+He was younger than she'd thought. Thirty, perhaps. Thin, with untidy brown hair and ink on his fingers and a coat that had been good once. He had a plain iron ring on his left hand with two small notches cut in it.
 
 "Good morning," he said.
 

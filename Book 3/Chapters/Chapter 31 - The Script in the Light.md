@@ -14,7 +14,7 @@ Draft notes: Day 136, dawn to night. Decided here (proposals):
 - **What the light says** (Idony's rendering, slowly, over the morning): *We were as they are.* / *We woke and drank.* / *We stopped.* / *We put down what we were, and walked without it.* / *The small ones saw us walk and gave us names.* / *They made us houses. They lit lamps to us. They said we walked unbound.* / *We went into the light.* / *They kept the names.* Then, to Idony's question (he asks aloud; Maren thinks it to Orrun; Orrun gives it to her): *what are you?*: *What is left.*
 - **The reveal**: the gods in every chapel (the hearthstone, the Lamp on the Stair, the Lady, the Wayfarer at the crossroads) are what's left of Titans who stopped drinking, who gave up their bodies and the drinking with them, and lived on as light; the old ones of the songs who *walked unbound* and *went into the light* (Book 1 ch. 2; the arch verse) were them. **The seventh ring**, *the Unbound*, old magic, "working the Deep with nothing between" (Magic §4b): they were the Deep with nothing between; no person ever wore the seventh notch because it was never a person's.
 - **Idony doesn't believe in gods** (a tide-reader; measure, not prayer; his grandmother prayed to the Lady on Glasswater and he never did). He dictates the sentence to Maren anyway, because it's what the light says and he's a reader: ***the gods are what is left of Titans who stopped.*** He laughs at himself afterwards; then sits a long time without laughing.
-- **The hall**: the last lines of the morning: *Others of us are near. Come to the hall. Bring the other bond.* Maren's face when he reads *the other bond*. (Sets up 34.) Idony asks where the hall is; the light draws a line: south and west, along the road's other branch, a day; *where the roads cross*.
+- **The hall**: the last lines of the morning: *Others of us are near. Come to the hall. Bring the other bond.* Maren's face when he reads *the other bond*. (Sets up 34.) Idony asks where the hall is; the light draws a line south-west along the road to where it crosses a far ridge, a day off, and one word: *Hall*.
 - **Echo**, night 136 at the fire: Gannet with Maren's pages on his knee (he's asked to see them, to "know what the stone's worth"; Maren let him; Idony let him), copying with his pencil stub, asks: "What's *ring* mean? In the old tongue. The old man's notes say *the seventh ring*." Idony explains the College's rings (notches on a staff for what a worker can do; seven; the seventh never worn). Gannet writes it down. Idony is flattered.
 - **Idony's hands** shake less here than anywhere; he reads the light without his glass; he doesn't need it.
 Magic touches: the hooked script written in light (old magic); the Unbound (Magic §4b) explained; the bonded's kin-meaning (Maren through Orrun).
@@ -302,13 +302,13 @@ She didn't say his name. Idony didn't either.
 
 The light drew a line.
 
-Not a letter. A line. Pale gold, on the air, going out from in front of the Grey Mother's face, low, south and west. Along the hill. Down. Toward where, on the far side of the green country, the paved road they'd come up by met another road coming in from the south.
+Not a letter. A line. Pale gold, on the air, going out from in front of the Grey Mother's face, low, south and west. Along the hill. Down. Toward where the paved road they'd come up by ran on over the green country and crossed a long ridge, far off, a day's walk.
 
 And under the line, one word.
 
-*Crossing.*
+*Hall.*
 
-"Where the roads cross," said Idony. "A day. South-west."
+"A hall," said Idony. "On the road. Where it crosses that ridge. A day, south-west."
 
 ---
 

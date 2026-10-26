@@ -8,16 +8,16 @@ Ends at (chapter-end map): Varrhold
 Beats: Days 11–15. Arn lets Aurveth up to the ledges' setters, at a price: the three come back to the Clan. Gunna Tarne and the ledges stand behind Calder, as Hallam did; when Lisska brings word of the lion on the Way, Calder sends Gunna down to the moor's edge to take his family off Maren's hands. He tells Arn; Arn says a dead man's words in a living man's mouth aren't proof *(canon: Book 1 ch. 72)*. The ledges sing the setting-song over Aurveth's wing, a Clan charm *(Magic §10a)*, and on Saltreach ground it does something: the bone knits a little.
 Echo of the other's story: Lisska: Wren is coming up the Way on Old Grey, with a lion beside her.
 Status: first draft
-Draft notes: Day 11, dawn, to day 15, dusk. Decided here (proposals):
-- Distance: from the Ram's Head to Varrhold is about five leagues and a half (three and a half to the ford on Hollow Beck, two more to the hold). Aurveth walks it in one long day, day 11, with Kharrak under her shoulder. They cross at Teo's ford at noon: the alders, the smooth brown stones, Hallam's stick long gone. Aurveth stops in the water.
-- Dusk, day 11: the hold. When the Roosts see the old one walking up the glen, every dragon on the ledges cries at once, and the cry goes up at the end: the sound Maren's camp hears in the Fellwood (ch 9). Calder doesn't know what it means; Aurveth does: *They are saying I came home.*
+Draft notes: Day 11, dawn, to day 15, dusk. (Distances follow the Atlas: Harrow's End to Varrhold 14 leagues by the Way, the Ram's Head halfway at 7, Teo's ford a league above it at 8.) Decided here (proposals):
+- Distance: from the Ram's Head to Varrhold is seven leagues (one to Teo's ford, six up the glen). Aurveth walks it in two days, days 11–12, with Kharrak under her shoulder. Mid-morning day 11 at the ford: the alders, the smooth brown stones, Hallam's stick long gone. Aurveth stops in the water. Night 11 in a sheepfold under the falls on Hollow Beck, the edge of Clan ground, three leagues short of the hold.
+- Dusk, day 12: the hold. When the Roosts see the old one walking up the glen, every dragon on the ledges cries at once, and the cry goes up at the end: the sound Maren's camp hears in the Fellwood (ch 9). Calder doesn't know what it means; Aurveth does: *They are saying I came home.*
 - The gate: Arn's men won't open it. Gorm Askell, the steward, limping from the ford, sends for Arn. While they wait, the ledges come down the long stair with the iron rail: Gunna Tarne first, Tamsin on the ledge above her, then the others, ten pairs, on foot. They stand behind Calder on the road, not beside him, as Hallam did (Book 1 ch 48). Nobody says anything.
 - Arn at the gate, by torchlight. He looks at the old one a long time. The price, said in front of everyone: the setters will see to her, and when the wing's set, the three come back to the Clan. To the ledges. They fly when the Clan flies. The law says a bonded dragon goes where its partner goes; so the farmer comes back too, and flies when the Clan flies, and that's the end of the barley man. Calder says yes. Aurveth says yes first, through the bond: *I sat on those ledges before there was a Varr. I can sit on them again.*
-- Night 11 and day 12: the setters. Ivar Leck, an old rider past flying (the old man Calder saw setting a young dragon's foreleg in the autumn, Book 1 ch 6), with his old dun dragon Brindle; two more setters of the ledges. They cut the rot out of the horn-wound under the foreleg with a knife Kharrak heats; Aurveth doesn't make a sound. Day 12 they set the wing: the long bone of the outer finger, broken in two places, pulled straight with ropes over a beam on the ledge, five dragons of the ledges holding her down by their weight; then splinted with ash poles bound in hide.
+- Night 12 and day 13: the setters. Ivar Leck, an old rider past flying (the old man Calder saw setting a young dragon's foreleg in the autumn, Book 1 ch 6), with his old dun dragon Brindle; two more setters of the ledges. They cut the rot out of the horn-wound under the foreleg with a knife Kharrak heats; Aurveth doesn't make a sound. Day 13 they set the wing: the long bone of the outer finger, broken in two places, pulled straight with ropes over a beam on the ledge, five dragons of the ledges holding her down by their weight; then splinted with ash poles bound in hide.
 - The setting-song: a Clan herd-charm grown old and long, sung by all the setters together with their hands on the bone. Calder feels it through the bond on Saltreach ground: warmth in the bone, a slow drawing-together, like a cut pulling shut. The bone knits a little. Not healed; begun. Ivar: "That's more than I've had from it in ten years. The ground's been poor." Calder: "It's poor everywhere else."
-- Day 13: Calder tells Arn. In the hall, with Gorm and two of Arn's captains, the fire on the east side only (Ulric's side of the hall cold since the split). Everything from under the arch, in Rook's own words: the gorse, the horse, *he held the reins out to me*, the grey armband on the alders, the Clan axe in the shallows, the crossbow in the hedge at the mill. He lays the six-knife and the shooter's iron ring on the table. Arn: "A dead man's words in a living man's mouth aren't proof." And: "You found him. I found you. That's all I know." He says if there's a book, bring the book. (Plant for 12, 14, 19.)
-- Day 13, evening: Lisska, sent south on day 12 to watch his family on the Saltreach bank, comes back: the lion killed two men at a beck in the Fellwood who loosed at the lion-woman. Wren saw the trees after. Calder is frightened and, under it, glad, and ashamed of being glad.
-- Day 14: he can't go himself (the wing's three days set, and Aurveth pulls at him through the bond like a hand when he's more than a few leagues off; and he won't bring a lion into Arn's yard while Arn calls him a liar). He asks Gunna to go down to the moor's edge with Tamsin and two others and take his family off the lion-woman's hands and up to the hatching caves above Coldtarn, Clan ground, where Arn's writ doesn't run in practice because the ledges keep the caves. Gunna: "You'll not go down yourself?" "No." She looks at him. "Hallam would've gone." "Hallam's dead." She goes on day 15.
+- Day 14: Calder tells Arn. In the hall, with Gorm and two of Arn's captains, the fire on the east side only (Ulric's side of the hall cold since the split). Everything from under the arch, in Rook's own words: the gorse, the horse, *he held the reins out to me*, the grey armband on the alders, the Clan axe in the shallows, the crossbow in the hedge at the mill. He lays the six-knife and the shooter's iron ring on the table. Arn: "A dead man's words in a living man's mouth aren't proof." And: "You found him. I found you. That's all I know." He says if there's a book, bring the book. (Plant for 12, 14, 19.)
+- Day 14, evening: Lisska, sent south on day 13 to watch his family on the Saltreach bank, comes back: the lion killed two men at a beck in the Fellwood who loosed at the lion-woman. Wren saw the trees after. Calder is frightened and, under it, glad, and ashamed of being glad.
+- Night 14: he can't go himself (the wing's a day set, and Aurveth pulls at him through the bond like a hand when he's more than a few leagues off; and he won't bring a lion into Arn's yard while Arn calls him a liar). He asks Gunna to go down to the moor's edge with Tamsin and two others and take his family off the lion-woman's hands and up to the hatching caves above Coldtarn, Clan ground, where Arn's writ doesn't run in practice because the ledges keep the caves. Gunna: "You'll not go down yourself?" "No." She looks at him. "Hallam would've gone." "Hallam's dead." She goes at first light on day 15.
 - Day 15, dusk (the echo): Lisska comes back up the glen to the ledge. She's seen them on the last climb of the Way where it comes out of the trees under the moor: Wren is up on Old Grey's back, and he let her, and the lion is walking beside them.
 Magic touches: the Roosts' cry; the setting-song (Clan herd-charm, healing-shaping in a song, Magic §2a) taking a little on Saltreach ground; Kharrak's heat for the knife; the thin pulse in the ground of the Scarfell, stronger than on the Way.
 notes -->
@@ -28,9 +28,9 @@ They left the Ram's Head before it was light.
 
 He'd slept sitting up against the stove barrels in the paymaster's yard, if it was sleep, with the old one's breath going in and out behind him in the dark like the sea. When the sky went grey over the moor he got up and went to her and put his hand on her jaw.
 
-*I know,* said Aurveth, before he'd said anything. *Today.*
+*I know,* said Aurveth, before he'd said anything. *Two more days.*
 
-"Five leagues and a half. Three and a half to the ford. Two more up the glen."
+"Seven leagues. One to the ford. Six more up the glen."
 
 *I know where Varrhold is, farmer.*
 
@@ -40,25 +40,9 @@ The ram's head on the sign swung on its one chain over the door as they went out
 
 ---
 
-The Way climbed.
+They came to the ford in the middle of the morning.
 
-Below the Ram's Head it had run along the valley floor beside the Skell Water through farms and copses. Above it, it went up. Not steeply. The drove-road had been made for sheep and cattle and drays, and it went up the side of the glen in long patient slants, turning back on itself at the corners, with the beck going down beside it in a gully full of alder and stones. The farms gave out. The walls gave out. There was bracken and then heather and then the long brown flank of the moor going up on the left hand into cloud.
-
-He walked at her head. He'd walked at her head for five days and he'd got so he could feel, through his hand on her jaw and through the bond, the moment before she was going to stop: a heaviness that came down on her like water filling a boat. When it came he stopped before she did, so she wouldn't have to be the one, and they stood in the road with the wind going over the heather and he talked to her. About nothing. About the barley, which he hadn't sown and wouldn't now. About the price of wool at Cotter's Cross in his father's day. About Wren's ribbon. She didn't answer. After a while the heaviness would lift a little and she'd lean on Kharrak and they'd go on.
-
-There was nobody on the Way above the Ram's Head. The companies hadn't gone up. The Clan's country began at the falls on Hollow Beck, and the Clan had dragons, and the companies had found that out last autumn.
-
-Under his boots the ground was different.
-
-He'd felt it on the Saltreach bank at Tolly's Staithe, the first morning: a thin faint pulse, a long way down, like a heart heard through a wall. It had been with him all the way up the Way, thin, sometimes so thin he lost it, near the burned farms and the stripped villages. Here it was stronger. Not much. As if the wall were a little thinner. He didn't know what it was. He'd never known it was there until there'd been a whole bank of the world without it.
-
-*The Scarfell's old,* said Aurveth, when he asked her. *Older than the river. The Deep runs close under it.* She walked. *That's why the eggs hatch here. Why there are dragons here and nowhere else.* A pause. *Why I came here, before there was a Clan, and sat down.*
-
----
-
-They came to the ford at noon.
-
-He'd known they would. There was no other way up the glen. The Way went down off its slant to the floor of the glen and crossed Hollow Beck on the smooth brown stones under the alders, and went up the far side, and there was no going round it with a dragon who couldn't fly.
+He'd known they would. There was no other way up the glen. A league above the Ram's Head the Way went down off its slant to the floor of the glen and crossed Hollow Beck on the smooth brown stones under the alders, and went up the far side, and there was no going round it with a dragon who couldn't fly.
 
 He hadn't been here since the second time. Since Hallam came down the hill with his stick, and the bolt took him, and Morrow lay down.
 
@@ -82,6 +66,24 @@ After a while she came up out of the water on the far side, and they went on up 
 
 ---
 
+The Way climbed.
+
+Below the ford it had run along the valley floor through farms and copses. Above it, it went up. Not steeply. The drove-road had been made for sheep and cattle and drays, and it went up the side of the glen in long patient slants, turning back on itself at the corners, with the beck going down beside it in a gully full of alder and stones. The farms gave out. The walls gave out. There was bracken and then heather and then the long brown flank of the moor going up on the left hand into cloud.
+
+He walked at her head. He'd walked at her head for five days and he'd got so he could feel, through his hand on her jaw and through the bond, the moment before she was going to stop: a heaviness that came down on her like water filling a boat. When it came he stopped before she did, so she wouldn't have to be the one, and they stood in the road with the wind going over the heather and he talked to her. About nothing. About the barley, which he hadn't sown and wouldn't now. About the price of wool at Cotter's Cross in his father's day. About Wren's ribbon. She didn't answer. After a while the heaviness would lift a little and she'd lean on Kharrak and they'd go on.
+
+There was nobody on the Way above the ford. The companies hadn't gone up. The Clan's country began at the falls on Hollow Beck, and the Clan had dragons, and the companies had found that out last autumn.
+
+They slept that night in a sheepfold under the falls, with the water going down white beside them in the dark, three leagues short of the hold. She lay down in the fold and didn't get up again until it was light.
+
+Under his boots, in the morning, the ground was different.
+
+He'd felt it on the Saltreach bank at Tolly's Staithe, the first morning: a thin faint pulse, a long way down, like a heart heard through a wall. It had been with him all the way up the Way, thin, sometimes so thin he lost it, near the burned farms and the stripped villages. Here it was stronger. Not much. As if the wall were a little thinner. He didn't know what it was. He'd never known it was there until there'd been a whole bank of the world without it.
+
+*The Scarfell's old,* said Aurveth, when he asked her. *Older than the river. The Deep runs close under it.* She walked. *That's why the eggs hatch here. Why there are dragons here and nowhere else.* A pause. *Why I came here, before there was a Clan, and sat down.*
+
+---
+
 They came in sight of the hold at dusk.
 
 The glen opened. The cliffs went up on the right hand, grey and black and streaked with white, with the cave mouths along them in rows like the holes in a sand-martin bank, and the ledges below the caves. The Roosts. Below the cliffs, in its hollow, Varrhold: the turf wall, the ring of black longhouses inside it, the smoke going up from the roof-holes, the yard in the middle where they'd burned the old chief, and then Teo, and the long steep stair cut in the rock with the iron rail on its outside going up from the back of the yard to the ledges.
@@ -100,7 +102,7 @@ This was not that. He didn't know how he knew. It went up at the end.
 
 "What is it?" he said. "What are they saying?"
 
-Aurveth had lifted her head. Her one gold eye was on the cliff. For the first time in five days, she stood on all four of her legs without leaning on anyone.
+Aurveth had lifted her head. Her one gold eye was on the cliff. For the first time in six days, she stood on all four of her legs without leaning on anyone.
 
 *They are saying I came home,* she said.
 
@@ -246,7 +248,7 @@ He didn't. He sat with her head across his knees on the warm stone till it was l
 
 They set the wing on the second day.
 
-It took all morning. The long bone of the outer finger, the one that held the edge of the wing out, was broken in two places, Ivar said, and the pieces had ridden over each other in the twelve days since the fort and started to knit wrong. They had to come apart before they could go together.
+It took all morning. The long bone of the outer finger, the one that held the edge of the wing out, was broken in two places, Ivar said, and the pieces had ridden over each other in the thirteen days since the fort and started to knit wrong. They had to come apart before they could go together.
 
 They did it with ropes. There was a beam set into the rock above the setters' cave, old black oak, polished by a hundred years of ropes, and they ran three ropes over it and down to the wing, padded with fleeces where they went round. Five of the ledges' dragons lay down on her, on her back and her good wing and her tail, carefully, with their weight, to hold her still: Tamsin and Harl and three others, old dragons all of them, lying on her as gently as hens on eggs. Then the riders of the ledges took the ropes. Gunna and the others, and Calder, and the boy not twenty, whose name was Leif.
 
@@ -422,13 +424,13 @@ He thought about that for a long time.
 
 He couldn't go himself.
 
-He knew it before he'd finished thinking it. He sat up most of the night on the ledge thinking it anyway, round and round, like the setting-song.
+He knew it before he'd finished thinking it. He sat on the ledge into the dark thinking it anyway, round and round, like the setting-song.
 
-He couldn't leave the old one. The wing was two days set. The song was still going in the bone, faint and slow, and the wound was still packed, and if he went more than a league or two from her he felt her pulling at him through the bond, not on purpose: a hurt child pulling at your sleeve in its sleep. Five days down the Way and five days back. She'd have had to do it without him.
+He couldn't leave the old one. The wing was a day set. The song was still going in the bone, faint and slow, and the wound was still packed, and if he went more than a league or two from her he felt her pulling at him through the bond, not on purpose: a hurt child pulling at your sleeve in its sleep. Five days down the Way and five days back. She'd have had to do it without him.
 
 And he couldn't bring them up here. Not with the lion. Not into Arn's yard, with Arn saying *a dead man's words aren't proof* and *you'll fly when the Clan flies*, and the red thread on the wall and the crossbows. A lion in the gate of Varrhold, with a Hearthmere knight beside it, and the farmer Arn still called a liar standing with them. He could see how that went. He could see it as you see a wall going over before it goes.
 
-And there was the other thing. The thing he didn't say even to himself until near morning.
+And there was the other thing. The thing he didn't say even to himself until the stars were out.
 
 *Your road's that way. So's yours.*
 
@@ -440,13 +442,13 @@ He thought she'd know that too. He thought, from what Lisska said, she was comin
 
 ---
 
-He asked Gunna in the morning.
+He went along to Gunna's ledge before midnight.
 
-She was sitting on her own ledge, below the setters' cave, with her back against Tamsin's flank and a bowl of porridge in her lap, looking at the glen. She didn't get up when he came along the ledge to her.
+She was sitting on her own ledge, below the setters' cave, with her back against Tamsin's flank and a bowl of broth in her lap, looking at the dark glen. She didn't get up when he came along the ledge to her.
 
 "My family's coming up the Way," he said. "On the Saltreach bank, in the Fellwood. My mother and my sister and her two and my girl. And the greys." He paused. "And a knight. With the lion."
 
-Gunna ate some porridge.
+Gunna drank some broth.
 
 "I heard," she said. "The little green one tells everybody everything."
 
@@ -470,13 +472,13 @@ She looked at him for a long time. The short dry look, the one she'd given him i
 
 She didn't say anything to that. Behind her, Tamsin opened one grey-green eye and looked at him, and shut it again.
 
-"All right," said Gunna Tarne. "I'll take Tamsin, and Harl, and the boy Leif, and his. We'll go down tomorrow and sit on the edge and wait." She picked the porridge up again. "And I'll tell your girl her father's sorry he couldn't come himself, because she'll ask."
+"All right," said Gunna Tarne. "I'll take Tamsin, and Harl, and the boy Leif, and his. We'll go down tomorrow and sit on the edge and wait." She picked the broth up again. "And I'll tell your girl her father's sorry he couldn't come himself, because she'll ask."
 
 "She'll ask," he said. "Tell her twice."
 
 ---
 
-They went on the fifth day, at first light. He stood on the setters' ledge and watched them go: Tamsin and Harl and Leif's young brown dragon going out off the Roosts one after another and down the glen low over the beck, three shapes, smaller and smaller, until the morning took them.
+They went at first light. He stood on the setters' ledge and watched them go: Tamsin and Harl and Leif's young brown dragon going out off the Roosts one after another and down the glen low over the beck, three shapes, smaller and smaller, until the morning took them.
 
 Aurveth watched them too. She'd lifted her head off her forelegs for it.
 

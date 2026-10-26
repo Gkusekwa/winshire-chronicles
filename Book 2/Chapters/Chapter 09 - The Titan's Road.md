@@ -11,8 +11,8 @@ Status: first draft
 Draft notes: Day 10, morning, to day 15, dusk. Decided here (proposals):
 - Route: Maren keeps them off the Drover's Way, which is full of companies, and goes north through the Fellwood above Harrow's End by the old charcoal-burners' tracks, parallel to the Way, two leagues east of it; she knows the Fellwood's southern edge from the river watch. The greys and the children ride by turns on Mabbin; Ada walks and won't be helped; Bel carries Nan; Wren walks beside Old Grey, and Old Grey walks wherever Wren walks.
 - Day 11: the swath. Where the Titan flew low over the Fellwood at sunrise on day 0, a league wide, going north-east: every tree laid flat in the same direction, roots up, crowns pointing north-east, like barley after hail. No birds. The ground under it is thin through Orrun, drawn on, not dead. They cross it in half a day, climbing over trunks. Orrun walks it with his head down.
-- Night 11: from the hills to the north-east, faint, a long way off, every dragon on the Roosts crying at once. Orrun lifts his head; Maren hears it as a thin sound on the wind. Ada knows what it is: "She's reached the hold." (Calder arrives at Varrhold on day 11, ch 10.)
 - Day 12: a Fellwood bear, taller than a house's eaves, in a clearing; it stands up, sees Orrun, and goes down on all fours and away without a sound. Wren isn't frightened. Pip is.
+- Night 12: from the hills to the north-east, faint, a long way off, every dragon on the Roosts crying at once. Orrun lifts his head; Maren hears it as a thin sound on the wind. Ada knows what it is: "She's reached the hold." (Calder arrives at Varrhold at dusk on day 12, ch 10.)
 - Day 13: the two deserters, from a band of five that has followed them from the Way for a day, waiting at a beck-crossing in the trees with crossbows to take the children. Maren goes forward to talk; one looses at her; Orrun goes past her before she's moved. Two dead in the time it takes to say it; three run. Pell's lesson, "subdue, don't kill, unless you have to", in her head the whole time.
 - The quarrel, that night, at the fire, out of earshot of the others, through the bond and out loud: "You are not my hand." *You are not my teeth.* He was protecting the child; she wanted to stop it without blood. Neither gives way. Under it: he kept a door three hundred years while men chained his kin beneath it, and then wore a collar himself; she was raised to subdue. They don't make it up. They sleep back to back.
 - Day 14–15: north along the Fellwood's edge toward the Scarfell, the land rising. Ada tells Maren, without being asked, about Calder's wife Senna and the fever. Wren asks Maren whether the lion is sorry. Maren doesn't know.
@@ -115,39 +115,7 @@ She put her hand on his shoulder and didn't say anything.
 
 ---
 
-They came out of the far side at dusk into standing trees again, and made camp in the first hollow they found, and that night, from the north-east, the dragons cried.
-
-She heard it first as nothing: a thinness in the air before it was a sound. Then Orrun lifted his head off his paws. Then she heard it. A long way off. Very faint, on the night wind that was coming down off the hills: high, thin, many-voiced, like geese going over in the dark, but not geese. Rising and falling. Going on.
-
-Ada was sitting by the fire, which she'd lit with a word.
-
-She'd done it out of habit, the first night on this bank, as she did every night of her life: put two fingers to the kindling and said the hearth-word over it. On the other bank, in Liss's kitchen, it had done nothing. Here, the kindling had smoked, after a while. Faintly. Then caught. Ada had looked at it and said nothing and fed it twigs. She did it again tonight. It caught a little sooner.
-
-Now she lifted her head too, and listened.
-
-"What is it?" said Maren.
-
-Ada listened a while longer. The thin high sound came and went on the wind.
-
-"The Roosts," she said. "That's dragons. That's every dragon on the ledges at Varrhold, all crying at once." She was quiet. "They did that at the old chief's burning. And at the ford. When the old woman's man went into the water. All of them, together, all night."
-
-Maren went still.
-
-"No," said Ada. "Not that. Listen to it."
-
-Maren listened. She didn't know what she was listening for.
-
-"It goes up at the end," said Ada. "Hear it? The other times it went down. This goes up." She sat back from the fire. "She's reached the hold. The old one. He's got her there." She looked at the fire a long time. "That's them saying so."
-
-Across the fire, Wren was sitting up in her blanket, with Old Grey standing over her in the dark, listening too.
-
-"Papa's got her there," Wren said.
-
-"Yes," said Ada.
-
-"Say it twice, Grandma."
-
-"He's got her there, Wren," said Ada Fenn. "He's got her there."
+They came out of the far side at dusk into standing trees again, and made camp in the first hollow they found, and slept as if they'd been beaten.
 
 ---
 
@@ -178,6 +146,42 @@ Wren hadn't moved at all. She was standing by Old Grey's foreleg with her hand o
 Maren looked at Orrun.
 
 *It knew what I was,* he said. *Not who.* He walked forward into the clearing to the water and drank, where the bear had drunk. *There is a difference.*
+
+---
+
+That night, from the north-east, the dragons cried.
+
+She heard it first as nothing: a thinness in the air before it was a sound. Then Orrun lifted his head off his paws. Then she heard it. A long way off. Very faint, on the night wind that was coming down off the hills: high, thin, many-voiced, like geese going over in the dark, but not geese. Rising and falling. Going on.
+
+Ada was sitting by the fire, which she'd lit with a word.
+
+She'd done it out of habit, the first night on this bank, as she did every night of her life: put two fingers to the kindling and said the hearth-word over it. On the other bank, in Liss's kitchen, it had done nothing. Here, the kindling had smoked, after a while. Faintly. Then caught. Ada had looked at it and said nothing and fed it twigs. She'd done it every night since. Tonight it caught a little sooner.
+
+Now she lifted her head too, and listened.
+
+"What is it?" said Maren.
+
+Ada listened a while longer. The thin high sound came and went on the wind.
+
+"The Roosts," she said. "That's dragons. That's every dragon on the ledges at Varrhold, all crying at once." She was quiet. "They did that at the old chief's burning. And at the ford. When the old woman's man went into the water. All of them, together, all night."
+
+Maren went still.
+
+"No," said Ada. "Not that. Listen to it."
+
+Maren listened. She didn't know what she was listening for.
+
+"It goes up at the end," said Ada. "Hear it? The other times it went down. This goes up." She sat back from the fire. "She's reached the hold. The old one. He's got her home." She looked at the fire a long time. "That's them saying so."
+
+Across the fire, Wren was sitting up in her blanket, with Old Grey standing over her in the dark, listening too.
+
+"Papa's got her home," Wren said.
+
+"Yes," said Ada.
+
+"Say it twice, Grandma."
+
+"He's got her home, Wren," said Ada Fenn. "He's got her home."
 
 ---
 

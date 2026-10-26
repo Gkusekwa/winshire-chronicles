@@ -251,7 +251,8 @@
 - **Boar** (from Chapter 5). Wild boar in the Brackenwood, big enough that the patrol goes round.
 - **Penfold** (from Chapter 5). Shepherds' hamlet on the high ground west of the River Road.
 - **The Roosts** (from Chapter 6). Dragon eyries cut into the cliff above Varrhold, black at the mouths.
-- **The Ram's Head** (from Chapter 6). Drovers' inn on the Drover's Way, halfway between Harrow's End and Varrhold.
+- **The Ram's Head** (from Chapter 6). Drovers' inn on the Drover's Way, halfway between Harrow's End and Varrhold. Seven leagues from each.
+- **Teo's ford** (from Chapter 14). Where the Drover's Way crosses Hollow Beck under alders: eight leagues up the Way from Harrow's End, a league above the Ram's Head, six below Varrhold. The falls on Hollow Beck, where Clan ground begins, are about three leagues below the hold.
 - **The Kettle** (from Chapter 7). Millbrook's tavern, where Saltreach boatmen drink and sell.
 - **Caged beast** (from Chapter 7). At Millbrook jetty, Saltreach poachers have a young beast in a cage. Maren frees it.
 - **Little Weir** (from Chapter 7). A hamlet at the weir below Millbrook; flour barges wait here for the water.

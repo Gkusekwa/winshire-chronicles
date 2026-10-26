@@ -3,13 +3,13 @@
 <!-- notes
 POV: Calder
 Part: Part One: After the Lamps
-Days: 6–11 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
+Days: 6–10 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Drover's Way; Ewe Hollow
-Beats: Days 6–11. Five days to walk Aurveth fourteen leagues. Harrow's End stripped; Fisk in his door; the crossroads shrine's bowl gone, but the three-faced god still cut in its stone, and Calder leaves a copper on the bare ledge out of habit *(plant for Book 3 ch. 32)*; the Ram's Head sacked. He turns deserters at Ewe Hollow without letting Kharrak kill them. Coll Brask *(Book 1 ch. 54)* is among them: Delling's company has the paymaster's chest, and Delling sells anything.
+Beats: Days 6–10. Five days to walk Aurveth the first eleven of the eighteen leagues to Varrhold. Harrow's End stripped; Fisk in his door; the crossroads shrine's bowl gone, but the three-faced god still cut in its stone, and Calder leaves a copper on the bare ledge out of habit *(plant for Book 3 ch. 32)*; the Ram's Head sacked. He turns deserters at Ewe Hollow without letting Kharrak kill them. Coll Brask *(Book 1 ch. 54)* is among them: Delling's company has the paymaster's chest, and Delling sells anything.
 Echo of the other's story: Lisska at dusk: the lion-woman has crossed the river with Wren. It frightens him.
 Status: first draft
 Draft notes: Day 6, morning, to day 10, dusk (ch 10 picks up on day 11). Decided here (proposals):
-- Route: from Tolly's Staithe north by the bank track past the Ewe Hollow turn to Harrow's End (about four leagues and a half), then up the Drover's Way past the Ram's Head (halfway) to Varrhold. The whole walk is nearer eighteen leagues than fourteen; five days.
+- Route: from Tolly's Staithe north by the bank track past the Ewe Hollow turn to Harrow's End (about four leagues and a half), then up the Drover's Way, fourteen leagues by the Atlas, past the Ram's Head (halfway, seven) and Teo's ford (eight) to Varrhold. The whole walk from the Staithe is about eighteen leagues and a half; by dusk on day 10 they are at the Ram's Head, eleven and a half done, and the last seven take days 11–12 (ch 10).
 - Day 7, morning, at the Ewe Hollow turn: sixteen deserters from three companies, driving Ewe Hollow's sheep down to sell at Cotter's Cross, with crossbows. They want the hundred crowns. One looses at Aurveth and the bolt sticks in her neck-plates. Kharrak's red tide; Calder stands in front of him and holds him with the bond. Coll Brask is among them; he owes Calder his legs (Book 1 ch 54) and talks the rest down: "He let me walk. He'll let you walk. He'll not let you shoot that one twice." They let the sheep go and walk off south.
 - Brask stays a moment and tells him: the companies were never paid; Delling's company took the paymaster's chest off the Ram's Head the morning after the flight and went south to Cotter's Cross with it; Rook's book is in it; "Delling sells anything." Brask won't come with him. He goes after the others.
 - Day 7, afternoon: Aurveth's first fall, on the hill above Harrow's End, in sight of the stripped village. She gets up.

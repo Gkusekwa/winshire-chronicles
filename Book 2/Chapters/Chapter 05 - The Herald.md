@@ -186,11 +186,11 @@ He sat back on his heels on the wet stones.
 
 "There's setters at Varrhold," he said. "On the ledges. Old riders. They set bones. They sing over them." He put his hand flat on her jaw. "On the right ground, they'd do something. Here they'd do nothing. Here nothing does anything."
 
-*Varrhold is fourteen leagues by the Way.*
+*Varrhold is eighteen leagues from the Staithe. Fourteen of them on the Way.*
 
 "I know."
 
-*I cannot fly thirteen leagues. I cannot fly one.*
+*I cannot fly eighteen leagues. I cannot fly one.*
 
 "Then we'll walk it."
 

@@ -414,7 +414,7 @@ That was all.
 
 They left by different doors.
 
-He saw her go. Out of the Hall's west door, onto the canal road, with the lion getting up off the yard wall and going round the end of the building to meet her. West. Toward the coast. Toward the Worldsend's southern end and the inlet under it.
+He saw her go. Out of the Hall's west door, onto the canal road, with the lion getting up off the yard wall and going round the end of the building to meet her. South and east, by the canal road. Toward the river, and the old man at the ferry house, and the coast beyond it, and the inlet under the mountains' southern end.
 
 He went out the yard door, to the dragons.
 

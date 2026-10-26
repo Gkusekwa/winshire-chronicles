@@ -238,7 +238,7 @@ He sat at the reading-desk at the foot of the perch with his palm flat on the ve
 
 He'd never heard it said. It was a Hearthmere thing, a knights' thing. He'd read it in a letter once, years ago, from a Hearthmere archivist called Hale, who'd written to the College asking about old oaths, and the College had filed the letter and told Idony not to bother answering. *Keep the watch below, and do not ask.* Their oath. Said at noon by every knight in Hearthmere for three hundred years.
 
-It was his college's.
+The words were older; he'd learn whose. The charm was his college's.
 
 Written here. On this vellum. In this hand. Sold, with the chains and the measure, to the lord of the river hill.
 

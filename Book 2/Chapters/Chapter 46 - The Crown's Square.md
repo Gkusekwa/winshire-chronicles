@@ -13,12 +13,12 @@ Draft notes: Days 190–204 in summary; day 205 noon to dusk. Decided here (prop
 - Day 205: off the setters' ledge at dawn, six hours south and east over the Marches and the Brackenwood and the dead country to Hallowmere; Lisska with them (she'll leave for the Scald on d.228: flight 3).
 - Hallowmere from the air: grey stone and slate in terraces down to the Mere; every lamp in the better streets glass now, black; the Mere grey and low; smoke from cookfires, tallow; the palace a long hall of chapter-houses along the top terrace with a paved square before it: the Crown's Square, with the crown's own chapter-house at its head, steps, and a dead lamp on a post at each corner.
 - Noon, the council in session (it sits at noon, from habit; the noon bell in Hallowmere rings and nobody faces anything any more). Kharrak lands in the square; the guards run; the people in the square don't (they've nothing left to run from); Lisska on the dead lamp-post at the square's west corner.
-- The council comes out on the steps: the President of the Council, **Lord Ambrose Hesketh** (old, thin, careful, a chain of office), a dozen councillors of the orders in their colours, clerks, guards with crossbows that won't shoot a dragon. Calder doesn't get down off Kharrak until Hesketh asks him to.
+- The council comes out on the steps: the President of the Council, **Lord Ambrose Thale** (named Thale, not Hesketh: Book 1 ch 32 has a Hesketh) (old, thin, careful, a chain of office), a dozen councillors of the orders in their colours, clerks, guards with crossbows that won't shoot a dragon. Calder doesn't get down off Kharrak until Thale asks him to.
 - What he says, short, standing at the foot of the steps: the books (holds them up): the mint-book (red leather, gold spine), Rook's book (black, brass strap), Ada's account (twenty-two pages, tied with a bootlace). The war was paid for in Saltreach silver, struck in the Halloran house's cellar at Wendmouth with a ring of six in the rim; a chest goes up the Wend every new moon to the companies at Ashford; the Halloran house sits on the Tide Council. The people the crown's driving back over the river are the ones the companies burned out. The Clan's offer.
 - The council: interest; then the hunt: the crown is buying chain in Kessmoor (Calder doesn't know that; a councillor lets it slip), and it wants dragons for the crown's hunt of the Titan when it comes back to Hearthmere. Pardon, and a lance, and a place in the hunt. Calder: no. "I've seen the hunt. I've seen it at the Ring, and Vael. It doesn't end the way you think."
 - Rowan: in Hallowmere that day to beg grain for her knights on the Downs; standing at the back of the council's guard, in a mended surcoat, thin, iron-grey hair cut short. She comes down the steps and stands beside the dragon and speaks to the council: she has been at the Ring and seen what chains do now ("I put a chain on it at midsummer. It took the chain and the stakes and the stones and went where it was going"); and the companies she's fighting village by village on the Downs are paid in the coin he's holding up. "The man who pays my enemy's wages is the man he's naming. Read the book." She doesn't look at Calder.
 - Davin (seventeen now; the Kettle's potboy from Millbrook, let go in Hallowmere for want of a law, a corn-exchange clerk's boy now) comes out of the crowd: "I can read it." Calder hands him Ada's account; Davin stands on the steps and reads it aloud to the square, all twenty-two pages, an hour and more, in the voice he used to read the paper on the Millbrook jetty. The crowd grows. At the end Davin reads the name: CALDER FENN.
-- The council's answer at dusk, from the steps, by Hesketh: the expulsion of the Saltreach folk is lifted, "pending"; the Clan's grain accepted; the matter of the Halloran house referred to the Tide Council (Calder: "They'll burn the paper." Hesketh: "Then take it to them yourself"). The bounty stands: a hundred crowns, alive.
+- The council's answer at dusk, from the steps, by Thale: the expulsion of the Saltreach folk is lifted, "pending"; the Clan's grain accepted; the matter of the Halloran house referred to the Tide Council (Calder: "They'll burn the paper." Thale: "Then take it to them yourself"). The bounty stands: a hundred crowns, alive.
 - Echo: a knight in Rowan's escort at the square's edge, talking to another: Kessmoor is going to cage a Titan; the Assembly has a ring of iron round the Scald and it's sitting in the middle of it now; the crown's envoy came back from Ironhythe saying so. Calder hears it from Kharrak's back. (Maren's POV: ch 42–45.)
 - Calder goes up off the square at dusk before the guards find their nerve. Rowan watches him go. Lisska on the lamp-post goes last.
 Magic touches: Hallowmere dead ground (glass lamps, the noon bell without the oath); writing as the working; nothing else works.
@@ -178,17 +178,17 @@ Through the carved doors, onto the top of the steps. Slowly. Old men, mostly, an
 
 In front of them all, a thin old man with a chain of office round his neck. Gold links, heavy, on a dark coat. A careful face. He stopped at the top of the steps and looked down at the red dragon in the middle of his square.
 
-"I am Ambrose Hesketh," he said. "President of the Council." His voice was thin too. It carried. "To whom do I have the honour of speaking?"
+"I am Ambrose Thale," he said. "President of the Council." His voice was thin too. It carried. "To whom do I have the honour of speaking?"
 
 "Calder Fenn," said Calder. From Kharrak's back. "Of Harrow's End. On the other side of the river."
 
 There was a sound from the steps. Not quite a word. A councillor in green leaned to another and said something.
 
-"The outlaw," said Hesketh. "With the dragons."
+"The outlaw," said Thale. "With the dragons."
 
 "Yes."
 
-Hesketh looked at him for a long moment.
+Thale looked at him for a long moment.
 
 "Will you get down," he said, "so that we can speak to you as a man and not as a weather-vane?"
 
@@ -216,7 +216,7 @@ He held up the third. The grey paper with the bootlace through it.
 
 ---
 
-"The river folk," said Hesketh.
+"The river folk," said Thale.
 
 "The Saltreach folk. From the other bank. From Harrow's End and Upper Rush and the Staithes." Calder looked up at him. "The herald came to Greyhold in the spring and said they're to go back over the river. Because of the war. As if they were the war." He shook his head. "They're not the war. They're what the war did. The companies burned their farms. With that silver." He nodded at the red book. "And you're sending them back to the bank the companies stripped. To starve."
 
@@ -262,7 +262,7 @@ Beside the dragon.
 
 Calder knew her. He'd last seen her in the yard at Greyhold on the day of the gate. She'd turned her back.
 
-"Sir Rowan," said Hesketh, from the top of the steps. Something in his voice had changed. "You have business with the council?"
+"Sir Rowan," said Thale, from the top of the steps. Something in his voice had changed. "You have business with the council?"
 
 "I came for grain," said Rowan. "For my knights on the Downs. They haven't eaten properly since the spring." She didn't raise her voice. "I've been waiting three days for the council to see me. I'll wait three more."
 
@@ -338,7 +338,7 @@ Calder sat on the bottom step with his back against Kharrak's foreleg.
 
 Rowan stood a little way off. Talking to two of her knights, who'd come up from somewhere in mended surcoats with their helmets under their arms. She didn't come over.
 
-At dusk the carved doors opened and Hesketh came out alone onto the top step with a paper in his hand. Thin, old, with the gold chain on his chest catching the brazier's light.
+At dusk the carved doors opened and Thale came out alone onto the top step with a paper in his hand. Thin, old, with the gold chain on his chest catching the brazier's light.
 
 "The council has considered the account of Calder Fenn," he said. His thin voice carried over the square. "It has found the matter of the river folk to be as he says." He looked at the paper. "The order of the spring for the return of Saltreach folk over the Wend is lifted. Pending." A pause. "The council accepts the Dragon Clan's offer of grain for the Marches, with thanks. The matter of the Halloran house is referred to the Tide Council at Corsa, whose member it is."
 
@@ -346,7 +346,7 @@ A sound went through the crowd. Not a cheer. Something lower. Like a held breath
 
 "They'll burn the paper," said Calder. From the bottom step. Not loudly. "At Corsa. They'll burn it."
 
-Hesketh looked down at him.
+Thale looked down at him.
 
 "Then take it to them yourself, Master Fenn," he said.
 

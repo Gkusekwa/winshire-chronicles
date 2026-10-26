@@ -62,7 +62,7 @@ Workings written into a material: carved in stone, struck into iron, inked into 
 - **Why bond gifts are "wild" to Isvaren.** They can't be written down or taught, so the colleges rank them below learned magic *(canon proposal in World.md)*. The researcher will come to suspect the opposite: bond gifts are closer to the source than anything the colleges teach.
 
 ### Old magic
-**Old magic** *(canon: the elder Titans put the sleepers to sleep with old magic, bound into the temples and relics)* is not a discipline. It is what the elder Titans did themselves, with nothing between them and the Deep. People can't do it. They can only find its leftovers (temples, relics, the stone of the old realm) and copy fragments of it badly. The hooked script is one such fragment: a beast's language taught to people, which people kept after they forgot whom they'd learned it from.
+**Old magic** *(canon: the elder Titans put the sleepers to sleep with old magic, bound into the temples and relics)* is not a discipline. It is what the elder Titans did themselves, with nothing between them and the Deep. People can't do it. They can only find its leftovers (temples, relics, the stone of the old realm) and copy its forms. The hooked script is one such form: a beast's language taught to people, which people kept after they forgot whom they'd learned it from. Copying a form isn't working old magic. A copied stroke is a rune like any other: it's fed by the Deep, and it fails on dead ground. Only what the elders made themselves (the temples, the relics, the lock under Greyhold) is old magic.
 
 ## 2a. The higher disciplines
 
@@ -275,7 +275,7 @@ The rule for writing battles: **magic tips fights; steel and beasts win them.** 
 2. People work the Deep only through the six disciplines: charms, runes, drawing, shaping, tide-reading (which only reads it) and binding (forbidden). Bond gifts come through a bond, not the Deep, and are not a discipline. Only the elder Titans worked old magic, with nothing in between.
 3. Every working takes a toll from the place, the worker or a beast.
 4. Charms don't carry. Range is touch or a few paces. Only a master drawer can throw force farther, a stone's throw at most, and it costs them.
-5. Running water breaks spoken charms; dead ground breaks everything.
+5. Running water breaks spoken charms. Dead ground stops learned magic: charms don't take, runes and imbued things go hungry and fail, wards gutter, and a drawer draws on themselves. It doesn't stop bond gifts, which come through the bond and not the ground, or old magic, which isn't the Deep's to stop.
 6. Runes hold as long as their material and their feeding.
 7. Many voices make a stronger charm, and doubt weakens it.
 8. Relics are old magic: people can move or break them, never make or read them.

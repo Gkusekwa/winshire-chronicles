@@ -25,10 +25,10 @@
 19. The old rider of the ledges who carries Calder's letter is Gunna Tarne (renamed from Marrow, too close to Morrow and Merrow), with Tamsin.
 20. Chapter titles changed so the contents don't give away twists: 18 The Mill, 20 Ashes, 23 Proof, 25 The Midden, 30 Harrow's End, 33 Ferriby, 34 The Tidesteps, 45 The Paper, 49 The Archive, 53 The Pit, 63 The Net, 64 The Staithe, 65 The Red Door, 68 Under the Arch, 69 The Gate, 70 The Rubbing, 71 Millbrook, 72 The Spit, 73 Hollin Knowe, 75 The Stair, 76 Seven, 77 Midnight, 79 Keep the Watch.
 
-Open for the author: day 0's season ("summer" vs "autumn" in the opening weeks); whether Rook's report that Arn threw Gunna out and Ulric listened is Book 2 setup; how much Aurveth should hedge her account of the waking (Ch 70).
+*Closed (Oct 2026):* the open items from this review are all answered; see the note at the end of this file.
 
 # Rulings from the full audit (Oct 2026)
-*From `/home/claude/audit/DECISIONS.md` and the author's decisions on the audit; binding on the revision. Each changes or fixes canon.*
+*From `Audits/2026-10/DECISIONS.md` and the author's decisions on the audit; binding on the revision. Each changes or fixes canon.*
 
 21. No casting by Maren or Calder in Book 1: Maren's settling-word and stanching-word (Ch 5, 19, 21) are cut, and bond gifts are not casting. The rule in `Magic.md` §10a stands.
 22. Maren joined the river watch at 17 and served eight winters on it, then two years at Greyhold; she is 27 ("four winters" becomes "eight winters").
@@ -56,4 +56,4 @@ Open for the author: day 0's season ("summer" vs "autumn" in the opening weeks);
 44. **The Bridle fails on one cause**, Idony's wrong stroke (Book 3). Tam refuses to forge its six-hollow ring and is sent off the works.
 45. **Titles:** the seventh ring keeps "the Unbound"; Book 1's working title is *The Watch Below*; Book 2's Part Seven is "Under the Hill".
 
-*The earlier "Open for the author" items:* answered: day 0's season (the author: end of summer; `Bible/Story.md`); how much Aurveth hedges in Ch 70 (drafted with "I think"). Still open: whether Rook's report that Arn threw Gunna out and Ulric listened is Book 2 setup (proposed in Book 2 ch 10, 12).
+*The earlier "Open for the author" items:* answered: day 0's season (the author: end of summer; `Bible/Story.md`); how much Aurveth hedges in Ch 70 (drafted with "I think"). Rook's report that Arn threw Gunna out and Ulric listened is Book 2 setup (Book 2 ch 10, 12). **Nothing from the Chapters 41–79 review remains open;** current open questions live at the end of `Bible/Series_Outline.md`.

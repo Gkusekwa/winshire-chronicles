@@ -16,8 +16,9 @@ The home of the Winshire books: the series bible and the manuscripts. Keep estab
 - **[Book 1/Notes/](Book%201/Notes/):** working notes, drafts of scenes, and research (including the voice samples). The Decisions logs are a historical record, merged into the Bible.
 - **[Book 1/Notes/Rulings_41-79.md](Book%201/Notes/Rulings_41-79.md):** rulings from the Chapters 41–79 review and from the full audit.
 - **[Book 1/Art/](Book%201/Art/):** chapter-opener art (79 pieces) and the maps: bare front-matter maps, the 79 chapter-end map pages, full maps, and the interactive atlas page.
-- **[Book 2/Chapter_Plan.md](Book%202/Chapter_Plan.md):** the provisional Book 2 chapter plan (revision 4; three POVs: Maren, Calder, Idony; not approved).
-- **[Book 3/Chapter_Plan.md](Book%203/Chapter_Plan.md):** the provisional Book 3 chapter plan (revision 1; seven POVs; not approved).
+- **[Book 2/Chapter_Plan.md](Book%202/Chapter_Plan.md):** the provisional Book 2 chapter plan (revision 5; 88 chapters; three POVs: Maren, Calder, Idony; not approved).
+- **[Book 3/Chapter_Plan.md](Book%203/Chapter_Plan.md):** the provisional Book 3 chapter plan (revision 2; 86 chapters; seven POVs; not approved).
+- **[Audits/2026-10/](Audits/2026-10/):** the October 2026 full story audit: reports, decisions and revision logs (historical record).
 - **[Tales/Plan.md](Tales/Plan.md):** Winshire Tales, short works from points of view the main books can't give (beasts, the dead, the years before), in five slots: before Book 1, within each book, and the handovers between them. Proposals.
 - **[Tools/](Tools/):** the scripts that generate the maps and `Bible/Atlas.md` (`Tools/atlas/`) and the chapter-opener art (`Tools/art/`). Edit their data files and rebuild rather than editing the outputs by hand. The chapter plans are maintained by hand.
 - **[Tools/README.md](Tools/README.md):** what each tool builds and how to run it.

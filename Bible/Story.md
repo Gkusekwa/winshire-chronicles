@@ -200,7 +200,7 @@ The two protagonists argue these themes from opposite sides. The student has wor
 **Still open:**
 - Why can the farmer sustain three bonds? *(He took the pull of three deaths at once at the mill (18); why he could survive it stays open for Books 2–3. Series proposal: he was always able to carry more than one life, `Series_Outline.md`.)*
 - What does the uncle and nephew's alliance cost each of them? *(Not reached in Book 1: Arn and Ulric are still at war at its end. `Book 2/Chapter_Plan.md` proposes their union.)*
-- Why does a bond-place cut once "heal harder"? *(Aurveth's belief, ch 70, explains how she survived Ennis and Ragnald; why the cut works that way stays open. The speaking bird in Book 2 may add detail.)*
+- Why does a bond-place cut once "heal harder"? *(Proposed Oct 2026 in `World.md`, **When a partner dies**: the three survivals of the pull, and why none is a method. To confirm.)*
 - How does the lion's growth into a Titan change Maren, and her bond?
 - How do the dragons' growth to Titan class change the farmer?
 - How does Corvin die in Book 3? *(Proposals in `Book 3/Chapter_Plan.md`, question 5.)*

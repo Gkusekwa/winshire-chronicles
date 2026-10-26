@@ -6,7 +6,7 @@ Part: Part Six: The First War
 Beats: The catacombs shake. Coming from opposite ends beneath the border, Calder and Maren meet for the first time.
 Echo of the other's story: The stranger he warned, now in front of him.
 Status: first draft
-Carried forward: From Chapter 76: Calder, Aurveth (horn-wound in the chest, left wing torn) and Kharrak (one horn broken) on the rubble slope under where the Old Ruin was; the six chains taut; the anchor-stones cracking; Corvin gone up an older stair; Lisska's feeling far off by the school, still at first, with something large and warm and a person below her; it starts to move a little after the floor goes (she comes down only after the seal breaks, 77). From Chapter 77 (Maren's side): Cassian dead on the knight's lock; Callis down; Orrun has touched his kin and found a destroyer; Lisska wants to go to Calder. From Chapter 53: the course of dressed grey stone at the bottom of the pit, running under the river toward Greyhold. From Chapter 70: the five links wrapped in a strip of shirt with TWO burned on it.
+Carried forward: From Chapter 76: Calder, Aurveth (horn-wound in the chest, left wing torn) and Kharrak (one horn broken) on the rubble slope under where the Old Ruin was; the six chains taut; the anchor-stones cracking; Corvin gone up an older stair; Lisska's feeling far off by the school, still at first, with something large and warm and a person below her; it starts to move a little after the floor goes (she comes down only after the seal breaks, 77). From Chapter 77 (Maren's side): Cassian dead on the knight's lock; Callis down; Orrun has touched his kin and found a destroyer; Lisska wants to go to Calder. From Chapter 53: the course of dressed grey stone at the bottom of the pit, running under the river toward Greyhold. From Chapter 70: the five links wrapped in a strip of shirt with TWO burned on it; Aurveth's first partner Ennis; the cat on the steps that people bowed to. From Chapter 28: the bridge memory (her partner bowed, the cat lowered its head).
 Draft notes: The first hour after midnight, night one hundred and forty-three into one hundred and forty-four. Decided here (proposals):
 - The way between: under the river runs a gallery of the same dressed grey stone as the inner wall and the bottom of the pit, a road for the wardens of old, roofed, wide enough for a cart, going from under the school to under the island along the side of the great cavern. Orrun knows it by the stone. Maren rides him along it with Lisska ahead. It's cracking as they go; the ground is heaving.
 - The cavern shakes the whole time. Stones come down from the dark. The six chains sing. Something at the bottom of them is lifting.
@@ -14,8 +14,12 @@ Draft notes: The first hour after midnight, night one hundred and forty-three in
 - They meet on the cavern floor at the foot of the rubble slope, in the light of Kharrak's fire, with the chains going up into the dark over them and the deep dark beyond moving.
 - Lisska first, at a run, round Calder, and then Orrun comes out of the gallery mouth with Maren on his back, and stops, ten paces off. Exactly ten. Maren gets down.
 - First words. He says, "You got it." She holds out the five links in the strip of his shirt. "Your dragon told my lion. My lion told me." He doesn't understand that. She says: "I met her. At the gate. At Greyhold. She held on to my arm." Then: "She says hello. She said it to my mother, and to me. Twice."
-- The rest goes fast, the way things are said when the roof's coming in: Cassian dead at the school's lock; Corvin gone up the old stair; Rook dead on the spit; Hale, Haverly, Pell, Thorne. Two hands: both turned. And what Orrun touched. Maren tells him that. *It isn't kin any more. They made it a destroyer.* Aurveth, lying on the rubble, closes her eye.
-- They have to get out. Aurveth can't fly with the wing. The gallery's coming down. Orrun: the stone will move for him. Up. Not back toward the school. Up through the rock under where the island was, toward the river, the way the lion dug all winter in the other direction.
+- Structure (revision): no recap of the night's news (the reader has it from 72–77). What passes between them is new, and short:
+  - Kin: Orrun goes up the rubble to Aurveth. She bows her head to the stones, as Ennis bowed on the bridge, and the lion lowers his, as the cat did. Kharrak bristles; Lisska tells him he's kin too, far back. Kharrak lies down.
+  - What each sees: Maren, looking at him with his three, says Lisska talks of him all the way as if he'd know everything; she thought he'd know more. Calder sees her hands and the blood to the elbow that isn't hers.
+  - What's still unsaid: she asks only whether the other one turned his key (yes; his hand on Corvin's wrist; Corvin gone up the stair). He doesn't ask about hers. He doesn't tell her what he heard under the arch; it keeps for daylight (he tells her in Book 2 ch 2). He doesn't tell her the verse or the arch's last line (he tells her at sunrise, 79).
+  - The one new thing: Maren says what Orrun touched, in two lines. Aurveth closes her eye: she has known since the ice.
+- They have to get out. Aurveth can't fly with the wing. The gallery's coming down. Orrun: the stone will move for him. Up. Not back toward the school. Up through the rock under where the island was, toward the river, the way the lion dug all winter in the other direction. Maren gives Lisska the lantern to carry.
 - The first anchor-stone breaks while they're talking. A chain comes loose from the wall above and falls past them into the dark, a link at a time, with a sound like a city's bells being thrown down a well.
 - The echo: Calder, looking at her across the ten paces in the firelight: a stranger. Hair tied back, burned hands in rags, a river watch sword, blood to the elbow. He's never seen her face before closer than across a river. He warned her, and she's here.
 - Magic (proposal): the surge continues after midnight: the hidden runes inside the links of all six chains burn brighter, and the broken chain falls into the dark still lit, like a string of lamps let go into a well.
@@ -25,7 +29,7 @@ notes -->
 
 The cavern shook.
 
-It didn't stop. It hadn't stopped since the floor went. The rubble slope under him trembled the way a cart-bed trembles on a bad road, all the time, and every so often it heaved, and stones came down out of the dark overhead and hit the slope and went bouncing past them down into the deeper dark below, and he never heard them land.
+It didn't stop. It hadn't stopped since the floor went. The rubble slope under him trembled like a cart-bed on a bad road, all the time, and every so often it heaved, and stones came down out of the dark overhead and hit the slope and went bouncing past them down into the deeper dark below, and he never heard them land.
 
 The chains sang.
 
@@ -35,7 +39,7 @@ He'd thought it was a sound you couldn't hear. Now it was a note. High and thin 
 
 Below the slope, out in the dark at the far end of the chains, something was lifting.
 
-He couldn't see it. He could feel it. The whole dark at the bottom of the cavern moving upward, slowly, the way the floor of a barn moves when something underneath it stands up.
+He couldn't see it. He could feel it. The whole dark at the bottom of the cavern moving upward, slowly, like a barn floor when something under it stands up.
 
 He sat on the rubble beside Aurveth with his hand on her neck and Kharrak lying against her other side, and Kharrak's fire burning low in his throat for light, and watched the dark.
 
@@ -107,7 +111,7 @@ She slid off its neck onto the floor of the cavern and stood there. In the light
 
 He'd never seen her face.
 
-He knew her the way you know weather in another valley, by Lisska's telling: on the east shore of the island in the dusk, pointing across the channel; at the stream in the summer; a narrow shape in a cloak in the arch, in the rain, at night, two leagues off. Boot-prints. A fire. A long pressed hollow beside a smaller one at the edge of a pit, both warm. He'd never once been close enough to see her face.
+He knew her like weather in another valley, by Lisska's telling: on the east shore of the island in the dusk, pointing across the channel; at the stream in the summer; a narrow shape in a cloak in the arch, in the rain, at night, two leagues off. Boot-prints. A fire. A long pressed hollow beside a smaller one at the edge of a pit, both warm. He'd never once been close enough to see her face.
 
 A woman. Older than he'd thought. Twenty-five, thirty. Dark hair tied back hard behind her head. A long face, weathered, river-brown, with the broad bones of her mother's in it. Blood on it. Dust on it. In a shirt and breeches and a brown cloak too big for her, with a sword in her belt that wasn't a knight's sword, and her hands wrapped in rags that were black with blood and burned through at the palms. Blood on her to the elbow.
 
@@ -131,13 +135,13 @@ She took out something wrapped in a strip of grey cloth, and held it out. On the
 
 "I got it," she said.
 
-Her voice was hoarse. Low. A river voice, from the Hearthmere bank, the way her mother talked.
+Her voice was hoarse. Low. A river voice, from the Hearthmere bank, like her mother's.
 
 "Your dragon told my lion," she said. "My lion told me."
 
 He didn't understand that.
 
-He came down the rubble slope with Lisska beside him, and across the ten paces, and took the bundle out of her hand. The five links inside it. The first chain. From the ruts at Upper Rush, the morning after the raid. Heavy. Warm from her shirt.
+He came down the rubble slope with Lisska beside him, and across the gap, and took the bundle out of her hand. The five links inside it. The first chain. From the ruts at Upper Rush, the morning after the raid. Heavy. Warm from her shirt.
 
 The lion watched him come. He felt it look at him. Not like a beast looks at you. Like a person.
 
@@ -171,69 +175,69 @@ He'd never heard iron scream. It did. All six of them at once, a sound so high a
 
 Then it stopped. Shuddering. Holding. Just.
 
-They stood in the dust, the two of them, and looked at each other.
+In the quiet after it the lion moved.
 
-"There's no time," said Maren.
+It went past him. Past her. Up the rubble slope, slowly, with the stones sliding under its feet, toward the place where Aurveth lay with her torn wing out over the rubble and her one gold eye open.
 
-"No."
+Kharrak came up off the stones between them with his broken horn lowered and a growl in him like a kiln-door opening.
 
-"I have to tell you." She said it fast. "Some of it. Before."
+*Lie down, child,* said Aurveth.
 
-"Tell me."
+*It's too big. It's too close to you.*
+
+*Lie down.*
+
+Kharrak didn't lie down. But he didn't move either.
+
+The lion stopped on the slope below the old dragon, so close its breath stirred the dust on her scales. It put its head out. It smelled her, long and deep, from her jaw to the torn edge of the wing, as it must have smelled everything, all its life, before it decided.
+
+Aurveth lifted her head off the stones.
+
+Calder felt it go through her. Not the pain, though that was there. Something older, coming up from the bottom of her like a stone out of a ploughed field. Sun on white stone. A road crowded with people. A man beside her, stopping, turning, bowing to a great grey cat on the tower steps. Ennis. She had his face now. She had it all.
+
+She bowed her head to the lion. All the way down, until her jaw was on the rubble.
+
+The lion lowered its head to her.
+
+It held it there a long moment. Then it lifted it, and looked past her at Kharrak.
+
+*He says you're kin too,* said Lisska, very small, against Calder's chest. *Far back. Like me. Like her.*
+
+*I'm not kin to anything,* said Kharrak.
+
+*You are. He says you are.*
+
+Kharrak looked at the lion a long time with the fire going down in his throat. Then he lay down against Aurveth's side, and put his broken horn on his forefeet, and kept his eyes open.
 
 ---
 
-She told him. Fast. In pieces. The way you'd tell somebody on a sinking boat.
+Maren was looking at him.
 
-The knight's lock under the school. A room off a ledge. A disc of carved stone. A man kneeling on it with a key, counting. The same face as the man under the arch. "Cassian," she said. "His name was Cassian. He didn't know me. He knew the lion. He said *you came home.*" She looked down at her hands. "He wouldn't stop. I asked him. I asked him three times. He said *it's the one realm, it's under your feet.* And at *one*, I…" She stopped. "He fell on the key. It turned anyway. With his hand on it."
+At the three of them round him on the rubble. The old bronze one with her head still down. The red one, watching the lion. The green one with her whole body curled round his legs and the ribbon on her horn.
 
-"Here too," said Calder. "Corvin. I had my hand on his wrist. It turned anyway."
+"She never stops," said Maren. "Your green one. All the way along the road under the river, through him. Calder says. Calder thinks. Calder would know." Something moved at the corner of her mouth, and went. "I thought you'd know more."
 
-"Where is he?"
+"So did she."
 
-"Gone. Up. There's an old stair in the far wall." He nodded into the dark. "He went up it with a lantern when the floor fell. He didn't look back."
+The other corner moved that time.
 
-"Rook's dead," said Calder. "On the spit. By the stake. Kharrak…" He couldn't finish.
+"The other one," she said. "At your end. Did he turn it?"
 
-She looked at Kharrak. Lying against Aurveth's side on the rubble, with his broken horn and his torn claws. Kharrak looked back at her.
+"Yes." He looked down at his own hand. "I had my hand on his wrist. It turned anyway. He went up a stair in the far wall with a lantern when the floor fell. He didn't look back."
 
-"Hale's dead," she said. "In the archive. At the door. And Pell, at the gate, the day before. And Thorne. And Lucan." She stopped. "Haverly. On the stair. With his falcon." Her face didn't move. "One life between two."
+She nodded, slowly, as if he'd told her a thing she'd already known and needed to hear said.
 
-He didn't know the names. He knew what it meant.
+He didn't ask about hers. He could see her hands in their black rags, and the blood to her elbows, and that it wasn't hers. She didn't say. She held her hands a little away from herself, and didn't look at them.
 
-"Both turned," she said. "Both locks. At the same breath. I felt the other one go. Through him." She looked at the lion. "And the island fell."
+And he had the rest of it in him, carried down from under the arch: men talking in the firelight below his crack in the wall, an axe in the shallows, a boy who'd thought somebody had come to hold his horse. He opened his mouth, and the slope shuddered under them, and a stone the size of a sheep went past them into the dark. He shut it again.
 
-"I was on it."
+It would keep. Till there was a sky over them.
 
-"I know. Lisska said." She looked past him. Up. Into the dark over the rubble slope. Toward the place where the hole was, with the fire at its edges, far up. "The arch."
+"Orrun touched it," said Maren. She was looking past him now, out over the cavern floor, into the dark at the bottom of the chains, where the dark was lifting. "When the seal went. What's down there. It's nothing he knew. It's nothing anybody knew." Her voice didn't change. "They made it into something that wants the world down."
 
-"Gone."
+Behind Calder on the rubble, Aurveth closed her eye.
 
-She closed her eyes for a moment.
-
-Then she opened them, and looked past him, out across the cavern floor, past the foot of the rubble slope. Into the deep dark at the bottom of the six chains. Where the dark was lifting.
-
-"He touched it," she said. Very low.
-
-He didn't understand.
-
-"Orrun. When the seal broke. He reached down to it. His kin. The way he's been reaching all winter, through the stone at the bottom of the pit." Her voice had gone strange. "And it was there. And he touched it. And I…" She stopped. "I was with him. Through the bond. I felt it. What it is."
-
-"What is it?"
-
-She was quiet so long he thought she wouldn't answer.
-
-"It was asleep," she said. "Once. Kin to him, with him keeping the door." She swallowed. "And they woke it. And chained it. And there's nothing in it now but the chains, and hate." She looked at him. "It wants the world down. All of it. Flat."
-
-The cavern shook.
-
-"It isn't kin any more," said Maren. "Not to him. It doesn't know him. It made a sound… he made a sound, and it didn't…" She stopped. "They made it a destroyer. Us. The knights. My kingdom. It was a sleeper, and we made it that."
-
-Behind Calder on the rubble, Aurveth closed her one gold eye.
-
-He felt her do it. Through the bronze mark. He felt what went through her. Very old. Very slow. Not surprise.
-
-*I knew,* she said, inside him. *At midwinter. On the ice. With my throat to it. I knew. I didn't want to know.*
+*I knew,* she said, inside him. *On the ice at midwinter, with my throat to it. I have known since then.*
 
 ---
 
@@ -271,7 +275,7 @@ Kharrak was up. He'd been up the moment she moved. He stood against her shoulder
 
 *Then I'll DIG.*
 
-Maren had turned to the lion. She was standing by its head with her hand on its jaw. Calder saw her face change. Listening. He knew that look. He'd had it on his own face since the autumn.
+Maren had gone back to the lion. She was standing by its head with her hand on its jaw. Calder saw her face change. Listening. He knew that look. He'd had it on his own face since the autumn.
 
 "He says up," she said.
 
@@ -279,9 +283,11 @@ Calder looked at her.
 
 "He says the stone will move for him. It knows him. It moved for him all the way down from the school, and along the road under the river. He says it'll move for him going up." She looked up into the dark over their heads. Not toward the hole where the island had been, with the fire round it. Straight up. "Up through the rock. To the river. The way he dug all winter. Only the other way."
 
+She held the lantern out to Lisska. Lisska looked at it, and at her, and put out her front claw and hooked the handle, carefully, and held it up.
+
 The lion lowered its great grey head.
 
-To the floor. To the rock at the foot of the rubble slope. It laid the side of its face against it. The way Aurveth had laid her throat on the ice at midwinter.
+To the floor. To the rock at the foot of the rubble slope. It laid the side of its face against it, as Aurveth had laid her throat on the ice at midwinter.
 
 The ground under Calder's feet answered.
 

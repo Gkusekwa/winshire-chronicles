@@ -227,7 +227,7 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 | Aurveth's rider | Sigrun Holm | Ingrith Vass |
 | Kharrak's rider | Dag Rorke | Bjorn Halse |
 | Lisska's rider | Imra Sallow | Tove Ness |
-| The faction's true name | the Oneward | Heirs of Winshire, the Covenant of One. *("The Unbound" is Book 1's working title and the seventh ring's name in `Magic.md`; which keeps it is an open question for the author, `Series_Outline.md`.)* |
+| The faction's true name | the Oneward | Heirs of Winshire, the Covenant of One. *("The Unbound" is the seventh ring's name in `Magic.md`, so it isn't available for the faction.)* |
 | Calder's village | Harrow's End | Fennick (now a village with a tithe barn), Low Ashby |
 | The Clan's hold | Varrhold | Drakescar |
 | The ledges' old rider | Gunna Tarne | Gunna Marrow (dropped: too close to Morrow and Merrow) |

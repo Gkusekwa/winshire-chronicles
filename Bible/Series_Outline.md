@@ -38,7 +38,7 @@
 **Format:** Book 1 alternates strictly between the student and the farmer (79 chapters, about 311,000 words in first draft). From Book 2 a third POV, Idony Vael, slots between them (`Book 2/Chapter_Plan.md`: S Maren, F Calder, R Idony). In Book 3 some Book 1 warriors and leaders add POV chapters; the Book 3 plan proposes seven POVs in all (S, F, R, plus G Rowan, C Arn, U Tobin and M Kit Merrin, a new Blackwater reef-pilot whose family carries Maren and Calder over the sea; `Book 3/Chapter_Plan.md`, provisional). No upper word limit; each book is one ebook volume, never split.
 
 **Working titles** *(proposals, to choose later)*:
-- Book 1: *The Unbound* (from the old verse: "where the old ones walked unbound"). *(`Magic.md` also uses "the Unbound" for the seventh ring; both uses stand for now, and which keeps it is an open question for the author. Check the title against the rule that titles must not reveal twists.)*
+- Book 1: *The Watch Below* (from the oath's "the watch below"; chosen Oct 2026). *The Unbound* is retired as Book 1's title: the name belongs to the seventh ring, the elder Titans, "where the old ones walked unbound" (`Magic.md` §4b).
 - Book 2: *The Hunt Beneath* (*The Six Who Sleep* is retired: it gives away the sleepers)
 - Book 3: *The Titan War* (the Book 3 plan also offers *Into the Light* and *The Last Watch*)
 - Series: *Winshire*
@@ -265,7 +265,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - Which of the new flying creatures (`Bestiary.md`, The sky) come into the Book 2 and 3 plans, and where?
 - Where the old realm's capital stood (`Atlas.md`)
 - Name collisions: are these deliberate? "Keeper" (the Wyldmarch Keepers, `Magic.md`'s Sixth ring "Keeper of the Script", Book 2 ch 32 and the archive-bird's suggested name); "Warden" (Hearthmere's inner-circle rank and Isvaren's law-enforcers); the Marrow trading house in Wendmouth (Ch 34 notes) after Gunna was renamed away from Marrow. (The Ch 33 sergeant is renamed Tasker.)
-- **"The Unbound":** Book 1's working title (**Working titles** above) and the seventh ring's name (`Magic.md` §4b). Both uses stand for now; pick which keeps it (`Characters.md`, **Names considered**).
+- ~~"The Unbound"~~ *Settled (Oct 2026): the seventh ring keeps the name; Book 1 is* The Watch Below.
 
 **Book 2** (`Book 2/Chapter_Plan.md`, provisional)
 - The plan's open questions 1–10, 12 (Idony's state at the end; his survival is settled), 13 and 15–26. Question 15 can be answered from Book 1 ch 49: Hale believes the first archivist cut the pages (`Magic.md` §9). Question 27 (the title) is down to *The Hunt Beneath*: *The Six Who Sleep* is retired. Questions 11 and 14 are settled.

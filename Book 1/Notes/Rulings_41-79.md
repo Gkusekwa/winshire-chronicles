@@ -47,8 +47,13 @@ Open for the author: day 0's season ("summer" vs "autumn" in the opening weeks);
 35. Rook's ledger went into Delling's chest (72 or 74), for Book 2.
 36. Ch 67: Maren goes halfway down toward Rowan's column; a greyhart scents Orrun, and she turns back.
 37. Calendar: Book 1 runs from the harvest fair at the end of summer (day 0) to sunrise on day 144, in early spring; midwinter is about day 88. The prose seasons govern; the day numbers in the notes run fast after midwinter and are kept as an order, not a dated calendar. Book 2 runs about a year from early spring (midsummer about its day 98, midwinter about day 281); Book 3 runs from spring to the end of the next winter, its final battle in deep winter.
-38. *The Six Who Sleep* is retired as a title option. "The Unbound" stays both Book 1's working title and the seventh ring's name for now; the choice is open for the author.
+38. *The Six Who Sleep* is retired as a title option. "The Unbound" stays both Book 1's working title and the seventh ring's name for now (superseded by 45); the choice is open for the author.
 39. `Book 2/Chapter_Plan.md` (revision 4) and `Book 3/Chapter_Plan.md` (revision 1) replace the Outline files. Book 2 has three POVs (S Maren, F Calder, R Idony); Book 3 seven (S, F, R, G Rowan, C Arn, U Tobin, M Kit Merrin, a new Blackwater reef-pilot whose family carries Maren and Calder over the sea). Both are provisional.
 40. **These are beast books, not dragon books** (the author). Dragons are one kind of beast among many, the Dragon Clan's. Every kingdom's own beasts carry weight in its chapters, its set pieces and the war; the sky is shared (dragons, Worldsend rocs, Isvaren stormkites, Saltreach wyverns, every tower's falcons; `Bestiary.md`, The sky).
+41. **The lock's sentence** (Book 2 ch 81, approved): "One hand shut it. Two hands open it together. What is opened together is kept together, or it is not kept."
+42. **Book 2's climax** (approved): Maren sends Orrun and every shadow to the cellars and gives up the door to save the people there (Book 2 ch 83–84).
+43. **Corvin's key and the older stair** (approved): the twins' father, the unchosen knight of the gate, found both while digging a drain under the grooms' yard (Book 2 ch 76–77).
+44. **The Bridle fails on one cause**, Idony's wrong stroke (Book 3). Tam refuses to forge its six-hollow ring and is sent off the works.
+45. **Titles:** the seventh ring keeps "the Unbound"; Book 1's working title is *The Watch Below*; Book 2's Part Seven is "Under the Hill".
 
 *The earlier "Open for the author" items:* answered: day 0's season (the author: end of summer; `Bible/Story.md`); how much Aurveth hedges in Ch 70 (drafted with "I think"). Still open: whether Rook's report that Arn threw Gunna out and Ulric listened is Book 2 setup (proposed in Book 2 ch 10, 12).

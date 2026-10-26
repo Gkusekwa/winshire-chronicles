@@ -159,7 +159,7 @@ Isvaren's **rings** are the only scale the whole of Winshire recognises; other k
 | Sixth | **Keeper of the Script** | The whole hooked script; can read the oldest stone and make workings that last centuries. The chains under Hearthmere were Sixth-ring work. | No equivalent | Two or three living, all in Isvaren |
 | Seventh | **The Unbound** | Old magic: working the Deep with nothing between. | The elder Titans. No person has ever worn a seventh notch. | None |
 
-*("The Unbound" is also Book 1's working title (`Series_Outline.md`). Both uses stand for now; which keeps the name is an open question for the author.)*
+*(Settled, Oct 2026: the name belongs to the seventh ring. Book 1's working title is now* The Watch Below.*)*
 
 A ring is earned by examination before a college council and can be broken (taken away) for crimes. Idony Vael wears a Second ring and reads like a Sixth.
 

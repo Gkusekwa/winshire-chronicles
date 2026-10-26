@@ -242,7 +242,7 @@ Between meetings they reach each other by **Lisska**, whom Calder sends west abo
 | 77 | S | The Old Stair | 353 | The older stair | Corvin, Callis, binders, the roll and Idony go down the older stair Corvin knew *(Book 1 ch. 76)*; its head is under the grooms' burial ground outside Greyhold's wall, by their father's grave. Maren follows with Orrun. The Titan is in the air. | Dragons coming home up the Wend. |
 | 78 | F | Ashes on the Saltings | 350–354 | The Saltings; the flight home | The drowned of Gullhaven burned on the shingle; Arn and Ulric pour together again, for strangers. Calder writes his account of the wave himself, a whole page in his own hand. Then the flight home with the Clan's flights, racing the Titan to the Marches. | The Marches emptying east over the Wend, and one ferry going back and forth. |
 
-## Part Seven: The Watch Below (chapters 79–88)
+## Part Seven: Under the Hill (chapters 79–88)
 
 *Early spring again, a year after the flight, days 354–365. They meet underground, out of necessity, as they did the first time.*
 
@@ -443,17 +443,17 @@ Between meetings they reach each other by **Lisska**, whom Calder sends west abo
 
 *The decisions that matter most come first. Everything in this plan stays provisional until these are answered.*
 
-1. **The lock's sentence** (4, 32, 81). Proposed wording, read aloud by Idony at the shut place: "One hand shut it. Two hands open it together. What is opened together is kept together, or it is not kept." It sets up Book 3's two-hands rule at the Hall of Light. Approve, reword, or keep it unread until Book 3?
-2. **Maren's chosen failure** (83–84): she sends Orrun and every shadow to the cellars, gives up the door, and stands alone at the vault when the Titan takes the control relic. Right climax for her, or should she win something there?
-3. **The stir** as a third stage before the surge (16, 29, 33, 36, 44, 58, 70, 74). It needs a line in `Magic.md` §1 if approved, and it changes how Idony predicts (the stir tells him when the relic goes; the surge, when the sleeper rises).
+1. ~~The lock's sentence~~ **Settled by the author (Oct 2026):** "One hand shut it. Two hands open it together. What is opened together is kept together, or it is not kept." Idony reads it aloud at the shut place (81); Book 3's Hall of Light quotes it.
+2. ~~Maren's chosen failure~~ **Settled by the author (Oct 2026):** she sends Orrun and every shadow to the cellars and gives up the door to save the people there (83–84).
+3. ~~The stir~~ **In `Magic.md` §1** (Oct 2026): the stir, then the surge, then the drain.
 4. **The Restoration's war** (12, 14, 19, 43, 46, 49, 54, 72, 80): into dead Hearthmere over the summer, broken unpaid at Cotter's Cross at 54, its last band scattered at 80. Enough on the page for canon's "the war continues and widens", or does it need a battle chapter of its own?
-5. **Corvin's key and the older stair** (76, 77): their father, the unchosen knight of the gate, found both while digging a drain under the grooms' yard. Approve as the Book 2 answer to Book 1's open thread?
+5. ~~Corvin's key and the older stair~~ **Settled by the author (Oct 2026):** their father, the unchosen knight of the gate, found both while digging a drain under the grooms' yard (76, 77).
 6. **The two missions and Idony's road**: Maren on the Titan's road, then home to the door; Calder on the Clan's errand, then his coast; Idony with Maren from Vael to Sarovel (40–63). Right tasks, and is the one-night crossing at Vael (38–41) enough?
 7. **The castings** (table above): touch-range, live ground only, three failures (43, 63, 73). Right size and cost, and right that neither of them ever cuts a rune?
 8. **Lisska's flights** (six, dated): too few for the letters to carry the relationship, or about right?
 9. **Calder in Hallowmere** (46): the outlaw lands in the crown's square and gets the expulsion lifted. Too big a win for him in Hearthmere?
 10. **Book 3's needs from here**: the control relic and the five sleep relics in the Titan's back (45, 60, 84); the elders' cults (8, 29, 49, 55, 60, 64, 67); the boy heir on Sorrel Isle (63); "the Unbound" said once (34); the envoys told of the College (86); Corvin keeping the roll (85). Anything Book 3 shouldn't rely on?
-11. **"The Unbound"**: Book 1's working title and the seventh ring's name, and the bird now says it at 34 (Ruling 38 leaves the choice open). If Book 1 keeps the title, rename the ring here.
+11. ~~"The Unbound"~~ **Settled by the author (Oct 2026):** the seventh ring keeps the name (the bird says it at 34); Book 1's working title is now *The Watch Below*.
 12. **Idony's state at the end**: burned out at 83, still knowing everything, unable to work it *(his survival is settled; see below)*. Or he keeps his craft.
 13. **Corvin capturing Idony** (63–83), with Callis as his new right hand (71).
 14. **The unicorn's freeing by Idony** (61), which kills the Bond-King.

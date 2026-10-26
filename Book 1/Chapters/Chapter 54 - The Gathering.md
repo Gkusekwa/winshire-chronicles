@@ -9,12 +9,12 @@ Status: first draft
 Carried forward: From Chapter 52: the camp at the Ewe Beck burned; "Enemy of the one realm"; Old Grey home, empty. From Chapter 53 (Maren's side): fire on the hills above Harrow's End on night 105, a hundred men with torches put to flight. From Chapter 48: Hallam Brecc and Morrow; the eleven bonded pairs on the Roosts ledges; Arn and Ulric won't stop. From Chapter 38: the camps on the drove road up the Wend.
 Draft notes: Days one hundred and five to one hundred and twelve. Decided here (proposals):
 - Night 105: they come for him at Upper Rush. About a hundred: Restoration men with rings, bound hounds, and hired swords from the coast. They come up from the river lane toward Bel's in a line with torches. Lisska sees them. The dragons meet them on the hillside below the farm. Calder tells them: drive them, burn the ground in front of them, kill only what won't turn. Some don't turn. Eleven dead on the hill by morning; the rest scatter to the river lane.
-- Kharrak brings one back alive in his claws: a sellsword, a coast man called Brask, from a Wendmouth free company. He's not a believer. He wears no ring. He's paid: ten silver a man to come up the river; two hundred for the farmer, alive; "and the same again for the knight with the lion. Over the water. A woman. Greyhold." Calder lets him go at dawn with his boots and nothing else.
+- Kharrak brings one back alive in his claws: a sellsword, a coast man called Brask, from a Wendmouth free company. He's not a believer. He wears no ring. He's paid: ten silver a man to come up the river; two hundred for the farmer, alive; "and the same again for the knight with the lion. Over the water. A woman. Greyhold." Structure (revision): told as a bargain, not a speech. Calder presses; Brask gives up what he knows a piece at a time to keep his legs, and holds back the knight with the lion until Calder gives his word he'll walk. Calder keeps it against Kharrak, and lets him go at dawn with his boots and nothing else. (Brask owing him his life sets up Book 2 ch 7, 14, 30.)
 - Days 106–108: Calder moves out of Bel's house to Crow Scar with the dragons, so that whatever comes looking for him comes there. He goes down to Upper Rush only by night, to see Wren.
 - Lisska scouts the roads. The camps on the drove road are emptying into one: a great camp at the Ram's Head, halfway up the Drover's Way to Varrhold, where the cart road from Cotter's Cross comes in. Thousands. Companies coming up from Cotter's Cross with carts and bound beasts. More every day.
 - Day 109: Hallam Brecc and Morrow come to Crow Scar, the first time a bonded pair has left the Roosts since the ford. Hallam says the Clan is still killing itself: Arn's riders burned a Skarrow steading two nights ago, Ulric's burned Teo's ford-house. "Neither of them has turned his head to look south." He's come to see for himself what's on the road.
 - Aurveth notices it, on day 110, looking down at the Ram's Head from the tops: every road the Restoration is using bends toward the river, and comes down to it opposite the island. Harrow's End is the last village on the way. "They're not coming for the Marches. They're coming through it."
-- Day 111: the meeting in the burned shell of the Wheel at Harrow's End. Fisk, Wat Garrow, the Ashby widow, the Hollins. Who's staying, who's going. Liss Ashdown's ferry is still taking people over from the Saltreach jetty at Tolly's Staithe whenever the ice lets her. Nobody decides. (Sets up 62 and 64.)
+- Day 111: the meeting in the burned shell of the Wheel at Harrow's End. Fisk, Wat Garrow, the Ashby widow, the Hollins. Who's staying, who's going. Liss Ashdown's ferry is still taking people over from the Saltreach jetty at Tolly's Staithe whenever the ice lets her. The meeting ends on one decision: Tessa Garrow says the Garrows are going over, not on the ice with Davy, but on Liss's boat when the river's out and the ferry's running again; Wat gives way. Fisk tells Calder his own family could go the same way. (Sets up 56, 62 and 64: the Garrows are the first to go in 62.)
 - Night 112: Wren at the paddock gate with Old Grey: "You're always going." "I know." "Take me." "No." She asks him whether the lion-woman is in trouble too. He says he doesn't know. He thinks: two hundred silver, the same as me.
 - Magic touches: Ada's old staunching-words over Lisska's bolt wound; Brask on the warranted charms sold to the companies at the Ram's Head ("Didn't do much tonight").
 notes -->
@@ -99,7 +99,7 @@ And the dogs. Eight of them. They hadn't stopped. They'd never stop. They'd come
 
 He stood at the bottom of the field and looked at it all.
 
-Lisska was in the yard at Bel's, behind him, lying in the snow with her wing held out, and Ada was out there with a lantern and a pot of honey, the way she'd done for Calder's arm, scolding her, and between scolds saying the old staunching-words over the hole, the ones she'd said over every cut knee in Harrow's End, and Lisska was letting her. He could feel it through the mark. The sting under her wing, and Ada's hands, and under that, Lisska's bewilderment. *They shot me. They shot at me. I didn't do anything to them.*
+Lisska was in the yard at Bel's, behind him, lying in the snow with her wing held out, and Ada was out there with a lantern and a pot of honey, as she'd done for Calder's arm, scolding her, and between scolds saying the old staunching-words over the hole, the ones she'd said over every cut knee in Harrow's End, and Lisska was letting her. He could feel it through the mark. The sting under her wing, and Ada's hands, and under that, Lisska, going round and round. *They shot me. They shot at me. I didn't do anything to them.*
 
 *They know who you are now,* he said.
 
@@ -127,35 +127,69 @@ He was a coast man. You could see it. Brown and weathered, with a sea-man's rope
 
 The man opened his eyes. He looked at Calder. Then up, past him, at Kharrak's head, very close above, rust-red, with the heat still coming off it.
 
-"Brask," he said. His voice was a croak. "Coll Brask. Of Delling's company. Out of Wendmouth." He swallowed. "I'm a sword. Hired. I don't hold with any of it. The rings. The one realm. I'm paid. That's all."
+"No," he said. His voice was a croak. "No. I'm a sword. Hired. Coll Brask, of Delling's company, out of Wendmouth. I don't hold with any of it. The rings. The one realm." He swallowed. "Ask me. Anything. I'll tell you. Only get that off me."
 
-"Paid by who?"
+Kharrak's foot didn't move.
 
-"Them. The ones with the rings." Brask's eyes went back to Kharrak. "There's a man at the Ram's Head with a chest. He pays the companies. Ten silver a man to come up the river and stand where we're put. There's a woman with a cart sells the companies charms. Warranted against bolts and fire, Council stamp and all." He made a sound that wasn't a laugh. "Didn't do much tonight." He swallowed again. "And two hundred for you. Alive. That's what the paper says. Alive, and the dragons with you if they'll come, and if they won't, you."
+"Paid by who?" said Calder.
 
-"Two hundred."
+"Them. The ring men."
 
-"There's more." Brask licked his lips. "I'll tell you. I'll tell you all of it. It's nothing to me. There's another. Same again, two hundred, alive. The knight with the lion." He saw Calder's face. "Over the water. On the other bank. A woman. Greyhold. There's a beast on the island out there, the big one, the one that roared. She sits with it. They say it pulled her out of the river." He tried to laugh and coughed instead. "Two hundred for her and two hundred for you. Like you were a pair. Delling said we'd do the farmer first because the knight was on the wrong bank, and the ice was going to break soon, and then we'd see."
+"That's not who."
 
-Calder crouched in the snow and looked at him.
+Brask's eyes went to Kharrak and back. "A man at the Ram's Head with a chest. He pays the companies. Ten silver a man to come up the river and stand where we're put." He licked his lips. "That's worth something. Where the chest is. That's worth my legs, that is."
 
-*The knight with the lion.* Arn on the step of his father's hall. *That's the kind of madness we could use.* The pedlars under Joss's byre, in the autumn. *A knight-student who goes out to the Old Ruin and sits with the monster.* Narrow boot-prints in the snow on the island, a woman's, going down to a fire. Knees in the snow by the fire. A long pressed hollow a little way off, where something huge had lain and watched her.
+"Your legs are his." Calder nodded up at the dragon. "Why here? Why tonight?"
+
+"You." Brask tried to laugh and coughed instead. "Two hundred for you. Alive. That's what the paper says. Alive, and the dragons with you if they'll come, and if they won't, you."
+
+"And you came up a hill against three dragons for a share of two hundred silver."
+
+"There's a woman with a cart at the Ram's Head sells the companies charms. Warranted against bolts and fire, Council stamp and all." He made a sound that wasn't a laugh. "Didn't do much tonight."
+
+Kharrak's foot pressed down, a little. Brask's breath went out of him in a grunt.
+
+"There's more," he said, when he had it back. "There's a thing you'll want more than you want me. But I want your word first. That I walk off this hill."
+
+*No,* said Kharrak.
+
+Calder looked at the man. At the rope-callused hands, open on the snow, not reaching for anything.
+
+"Tell me," he said, "and you'll walk."
+
+"Your word."
+
+"My word."
+
+Brask shut his eyes.
+
+"There's another," he said. "Same again. Two hundred, alive. The knight with the lion." He opened them, and saw Calder's face. "Over the water. On the other bank. A woman. Greyhold. There's a beast on the island out there, the big one, the one that roared. She sits with it. They say it pulled her out of the river." He breathed. "Two hundred for her and two hundred for you. Like you were a pair. Delling said we'd do the farmer first, because the knight was on the wrong bank, and the ice was going to break soon, and then we'd see."
+
+*The knight with the lion.* Arn on the step of his father's hall. *That's the kind of madness we could use.* The pedlars under Joss's byre, in the autumn. *A knight-student who goes out to the Old Ruin and sits with the monster.* Narrow boot-prints in the snow on the island, a woman's, going down to a fire. A long pressed hollow a little way off, where something huge had lain and watched her.
 
 *Like you were a pair.*
 
 "Why her?" he said.
 
-"I don't know. I don't ask. Nobody asks." Brask shut his eyes. "Something to do with the island. Everything's to do with the island. Every company I've talked to on the road, they're all going the same way. Up the Wend. To the island."
+"I don't know. I don't ask. Nobody asks." Brask let his head go back on the snow. "Something to do with the island. Everything's to do with the island. Every company I've talked to on the road, they're all going the same way. Up the Wend. To the island."
 
 ---
 
 He let him go at dawn.
 
-Kharrak didn't like it. Calder felt him not like it, a slow red sulk, and did it anyway. He took the man's sword, and his knife, and his coat, and let him keep his boots, and walked him to the river lane himself with Kharrak pacing behind them, and pointed down it.
+Kharrak didn't like it. Calder felt him not like it, a slow red sulk, all the rest of the night. *He came to take you. He'd come again for less.*
+
+*I gave him my word.*
+
+*You gave it. I didn't.*
+
+*Then you'll keep mine.*
+
+He took the man's sword, and his knife, and his coat, and let him keep his boots, and walked him to the river lane himself with Kharrak pacing behind them, and pointed down it.
 
 "Go back to Delling," he said. "Tell him what you saw on the hill. Tell him the price is too low."
 
-Brask looked at him, and at the dragon, and went. Fast, in his shirt, in the snow, down the river lane, without looking back.
+Brask looked at him, and at the dragon, and went. Fast, in his shirt, in the snow, down the river lane. At the bend he looked back once, as if he wanted to see whether the word had held all the way. Then he was gone.
 
 ---
 
@@ -283,7 +317,21 @@ They all looked at her.
 
 "The knights sat on the bank and watched us burn," said Tolly. Very quietly. Everybody looked at him. He was looking at the fire. "I was there. Up at Fisk's, for the eels. I saw their lanterns across the water."
 
-Nobody decided. That was the end of it. They stood round Hob's burned hearth until the fire went down, and then they went home through the snow in twos and threes, not talking. Calder stood in the black doorway and watched them go.
+Nobody said anything to that. The fire ticked in Hob's hearth. One of the Hollins looked at the door, as if the meeting were over and he was only waiting for somebody else to go first.
+
+"We're going," said Tessa Garrow.
+
+Wat turned round.
+
+"Over the water. Me and Davy and you, and the cow." She didn't look at him. She was looking at the Ashby widow. "Not on the ice. I'll not walk Davy out on that ice behind a woman with a pole, not with the river under it. When it's out, and Liss has her boat back on the rope, we go. The first day she's running."
+
+"Tess. The knights…"
+
+"Then they can watch us come over." Tessa put her hand on Davy's head. "They watched the rest."
+
+Wat opened his mouth, and looked at the boy, and shut it again.
+
+That was the end of it. They stood round Hob's burned hearth a while longer, and then they went home through the snow in twos and threes, not talking. The Hollins went off together, close, with their heads down, like men working out what a cart will carry. Calder stood in the black doorway and watched them go.
 
 Fisk stopped beside him on his stick.
 

@@ -12,6 +12,7 @@ Draft notes: Day 356, dawn to night. Decided here (proposals):
 - Dawn: the lion, Idony and Maren come down the Hearthmere bank a league from where they came up (below Millbrook's woods) to the landing; Greyhold gone: the hill fallen in on itself, a long grey heap with the river wall slid into the Wend; the gatehouse's charter stone lying in the rubble face-up (she doesn't read it); the jetty road half under fallen stone; the ferry house at its foot: cracked from eaves to step, roof half off, door hanging, standing. Orrun has grown again in the rock: **nearly Aurveth's size** (about nineteen feet), white at the mane's roots; he lies down across the jetty road and sleeps at once.
 - The rope still runs, post to post. **Liss comes home**: across on it, alone, at sunrise, hand over hand; she gets out on the jetty and looks at the house and at Maren. "You came home." "Yes." "So did I."
 - Across the river the Saltreach bank and the Drover's Way full of the people they moved: smoke from a thousand fires going up the Way; and on the hill above Harrow's End, the Clan, every pair.
+- **Who doesn't come**: the Tide Council's clerk (Marrow's, with his ledger) and the Quill house's woman in white, at the camp in ch 80, took the first barge down to Wendmouth at dawn to write it up for Corsa; Saltreach's Council sends no one to the table (Arn and Ulric speak for the Clan, not the League). Ulric: "They came to watch. They watched." So the table is a smaller delegation than the camp.
 - **The envoys** come over at noon on Liss's boat and the barge: **Rowan** (torn white surcoat, for Hearthmere's knights: "Not the crown. The crown's council is in Hallowmere. I'm what's left of the knights at the river"); **Arn and Ulric** (for the Clan: they came together, on one boat); **Perrin Sade** (new: the Solenne low city's voice, a street-tribune of the mud-brick quarter, brown, dusty, sent by Tobin with a letter for Maren); **Engineer Garth Tolley** (Pike's deputy, for Kessmoor: he's just had the semaphore from the Iron Road: the Scald's cage broke at mid-afternoon yesterday; the Furnace is out; three engines gone; Pike alive); **Magister Ansel Corrow** (Blue College, Fourth ring, for Isvaren, Dane's man; thin, anxious; a lantern owl came for him in the night: Dane's dead and he's the senior magister in the south). Also the farmer.
 - **The table**: Liss's kitchen table, too small; they sit round it and on the bench and the step; Liss makes tea; the farmer at the far end by the door; Maren at the other end by the fire; Idony on the settle with a blanket and his hands in his lap, Liss's mug held for him by Liss.
 - **Each speaks for what they saw**: Rowan the cage; Tolley the Scald (Pike's message: *Told you. Send me the day.*); Perrin the Sun Stair and the drain in Sarovel and Tobin's low city holding Solenne in the boy's name; Arn and Ulric the coast; Corrow, stiffly, Vael and the colleges' binding; **the echo**: the farmer at the far end, asked by Rowan what he saw, tells them everything he saw from the beginning: the roof and the stars and the three, the Clan, the mint, the young ones, the coast, the reef, the wave, the hill; slowly; the envoys listen; Maren listens from the far end; she's heard most of it in letters and never heard him say it.
@@ -107,6 +108,14 @@ The envoys came at noon.
 On Liss's boat and the crown's barge. Across the river from the Saltreach bank, from the slope above the anchors, where their tents had been.
 
 Every one of them from a broken place.
+
+Not all of the camp. Arn told her on the jetty, before the others were out of the boats. The Tide Council's clerk and the Quill house's woman in white had taken the first barge downriver for Wendmouth at dawn, with their tent and their ledger.
+
+"To write it up for Corsa," said Arn.
+
+"They didn't stay to talk?"
+
+"They came to watch," said Ulric. "They watched."
 
 ---
 

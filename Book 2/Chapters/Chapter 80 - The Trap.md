@@ -65,6 +65,8 @@ The brown man looked at the hill.
 
 "Then I'll wait," he said.
 
+At the top of the camp, by the best tent, two he knew. The thin woman in white from the Quill house, who'd sat at the long black table and not moved when nobody moved. And a clerk in Tide Council blue with a ledger open on his arm, writing. Marrow's. He looked up at Calder once, and wrote something down, and went on writing.
+
 ---
 
 The Clan was on the hill above Harrow's End.

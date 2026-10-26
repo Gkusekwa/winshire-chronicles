@@ -10,7 +10,7 @@ Echo of another story: Every dragon in the Clan turning its head south-west at t
 Status: first draft
 Draft notes: Days 140–150. Decided here (proposals):
 - **The order**: Rowan's, from the Accord's camp behind the Wend (d.138 by courier): the coast to be emptied inland behind the Wend: the Corsa terrace, the Saltings' fishing villages, the hamlets of the Ashlings scrub, Wendmouth's outskirts; "hold people, not ground" (her lesson, ch. 23). Arn has the coast since d.117 (ch. 26).
-- **The Clan on the coast**: Harl's forty pairs (Ulric's that were), Arn's twenty, and **thirty more of the freed** (from the pens, ch. 18) who followed Ildra south without being asked and fly loose with the pairs and carry nothing at first, then carry; **the pens at Varrhold stand empty** (Gorm's word by rider: half the freed stayed on the ledges and crags round the hold; half went up to the Scarfell's high glens and haven't come down).
+- **The Clan on the coast**: Brede's forty pairs (Ulric's that were), Arn's twenty, and **thirty more of the freed** (from the pens, ch. 18) who followed Ildra south without being asked and fly loose with the pairs and carry nothing at first, then carry; **the pens at Varrhold stand empty** (Gorm's word by rider: half the freed stayed on the ledges and crags round the hold; half went up to the Scarfell's high glens and haven't come down).
 - **The baskets**: war-harness baskets, twenty to a pair, as at Gullhaven (Book 2); inland over the Ashlings to the Wend's crossings; the Corsa terrace's hulk-folk go by cart on the Track with Dorcas (the hulks stay on their hill; Dorcas bangs her pan and the blind stonehorn follows the carts).
 - **The wyverns**: **Nell Tallis's company** and two others, **Black Ruth's** and **the Crane brothers'** (new: small Saltings companies; nine wyverns between them) under the **Accord's warrant** (Rowan's seal, as Maren's at Blackwater: the war's necessary costs), at **cost**: they take the low coves under the Ashlings' cliffs where a dragon's wingspan won't go; small, quick, a basket of four.
 - **The rocs**, d.143: **four roc-riders of the Wyldmarch horse clans**, sent down the coast from the Worldsend by Elder Tova (who heard of the coast from the Greenwold); rust-brown and white, wingspan wider than a barn is long; riders lean, silent, in felt; leader **Yeva** (new: a woman of Tova's clan, forty, a scar across both lips); at the Saltings' salt-villages where the children are on the mud-flats: **a roc lifts a child from a flat in its talons as gently as a yearling elk off the Plains and carries it inland**; no Clan rider has ever seen a roc; they stop and stare; Yeva: "They're careful with calves."
@@ -47,7 +47,7 @@ At the bottom, in her plain square hand:
 
 He had the coast.
 
-Since the farmer gave it to him on the black headland above Blackwater and went out over the sea with his three. *It's not mine either. It's Harl's and Dorcas Kell's and Hessa Pane's and two thousand people's on a hill.*
+Since the farmer gave it to him on the black headland above Blackwater and went out over the sea with his three. *It's not mine either. It's Brede's and Dorcas Kell's and Hessa Pane's and two thousand people's on a hill.*
 
 Somebody had to fly over it.
 
@@ -55,7 +55,7 @@ He flew over it.
 
 ---
 
-He had Harl's forty pairs, that had been Ulric's. He had his own twenty, that had come down with him from Varrhold. And he had thirty more he hadn't brought.
+He had Brede's forty pairs, that had been Ulric's. He had his own twenty, that had come down with him from Varrhold. And he had thirty more he hadn't brought.
 
 The freed.
 
@@ -319,7 +319,7 @@ And every dragon on the coast turned its head.
 
 ---
 
-All at once. The pairs on the flats, mid-loading. The freed on the cliffs and in the air. Harl's red, going up with a basket. Ildra, beside him, under his hand.
+All at once. The pairs on the flats, mid-loading. The freed on the cliffs and in the air. Brede's old blue, going up with a basket. Ildra, beside him, under his hand.
 
 South-west.
 

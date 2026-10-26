@@ -9,7 +9,7 @@ Beats: Ulric's ashes to Coldtarn. Arn pours, and asks Calder to pour with him: a
 Echo of another story: Lisska: a salvage ship gone out through Blackwater's broken chain.
 Status: first draft
 Draft notes: Days 95–100 (89–94 told back). Decided here (proposals):
-- **Told back**: d.89 Sigge flew Ulric home on the grey to Skarrow, his steading, with the boy he'd saved (the clerk's boy, **Pim**, six, who wouldn't let go of Sigge) because nobody knew what else to do with him; Calder sick on the *Merry Agnes* through 89, flew north on 90 with his hands bound in Dorcas's cloths; the forty pairs stayed at Corsa with the hulk-folk under **Harl** (Book 2's Harl, a rider of the ledges, who flew at Blackwater, Book 2 ch. 56). The pyre at Skarrow lit on 90, seven days and nights (a champion's, not a chief's eleven).
+- **Told back**: d.89 Sigge flew Ulric home on the grey to Skarrow, his steading, with the boy he'd saved (the clerk's boy, **Pim**, six, who wouldn't let go of Sigge) because nobody knew what else to do with him; Calder sick on the *Merry Agnes* through 89, flew north on 90 with his hands bound in Dorcas's cloths; the forty pairs stayed at Corsa with the hulk-folk under **Brede** (Book 2: an old man of the ledges and his blue; *Harl* is Hulda Sarr's black-and-grey dragon, not a rider). The pyre at Skarrow lit on 90, seven days and nights (a champion's, not a chief's eleven).
 - **Lisska**: she'd gone east on 92 on her own, Calder too sick to stop her, to Blackwater, to tell the lion-woman about the old man in the water at Corsa; she got to the cliffs at dawn on 95 and the ketch was already out past the boom; she cried from the cliffs, and nobody could hear; **d.96 she comes into Varrhold**: *A ship went out through their broken chain. In the dark. The salvage one. With the lion on it. I was too late.* (Plant: Calder knows Maren's gone west.)
 - **D.97** ashes raked and sifted; the urn (plain, grey, as tall as a child, the same kind as Haldor's) on a sledge up to Coldtarn; **Aurveth** comes up from Harrow's End with Ada on Old Grey behind (Ada insists) and lies on the rim where she lay in Book 1, on **Sigrun's rock** (Sigrun Holm dead in Book 1; Aurveth's third).
 - **D.98 the pour**: the black stone jetty; the old priest in grey with a staff; the gods named, *the old ones who walk unbound*; the half-circle up the slope, red and grey mixed; dragons on every ledge round the bowl, and among them, free, many of the ones from the opened pens (ch. 18). "**Who pours?**" Ulric had no son living. The champion pours when there's doubt; the champion is in the urn. Arn steps forward, alone, and puts his hands on the urn; then turns and looks up the slope at Calder: "Pour with me." The half-circle's breath goes out. Bjarke: "He's not Clan." Arn: "He lifted a harbour. Ulric said a man who lifts a harbour should see where we pour." Calder comes down the slope with his bound hands and puts one on the urn; they tip it together; the ash lies on the black water in a pale shape, spreading, then draws in and goes down; the dragons' sound round the bowl.
@@ -42,7 +42,7 @@ In Dorcas's bunk on the *Merry Agnes*, with his hands in wet cloths and his eyes
 
 "Then go," said Dorcas. "Go and burn your old man. We'll be here."
 
-He'd flown north on the ninetieth with his bound hands lying on Kharrak's neck and his eyes half open. He'd left the forty pairs at Corsa under Harl, who was young and steady and had flown with him at Blackwater. Somebody had to be there for the terrace.
+He'd flown north on the ninetieth with his bound hands lying on Kharrak's neck and his eyes half open. He'd left the forty pairs at Corsa under Brede, an old man of the ledges on an old blue, slow and sure, who'd sat the heights over the peat road in the winter. Somebody had to be there for the terrace.
 
 ---
 
@@ -334,7 +334,7 @@ He said it aloud. Ada looked up from the fire.
 
 He looked at the fire.
 
-"There's two thousand people on a hill at Corsa in ships," he said. "And no Corsa under them any more, and no Council, and no harbour. There's the Gullhaven families in my top field. There's forty pairs of the Clan's on the coast with nobody but Harl. The Council's gone to Blackwater to sell berths on a boat. And the bell one's out there on the sea going west, and when it comes back out again it'll come somewhere." He held his bound hands to the fire. "The coast needs me. I'm not flying off over the end of the world because something's calling you by a name you didn't know you had."
+"There's two thousand people on a hill at Corsa in ships," he said. "And no Corsa under them any more, and no Council, and no harbour. There's the Gullhaven families in my top field. There's forty pairs of the Clan's on the coast with nobody but Brede. The Council's gone to Blackwater to sell berths on a boat. And the bell one's out there on the sea going west, and when it comes back out again it'll come somewhere." He held his bound hands to the fire. "The coast needs me. I'm not flying off over the end of the world because something's calling you by a name you didn't know you had."
 
 Aurveth didn't answer.
 

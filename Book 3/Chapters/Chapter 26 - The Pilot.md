@@ -63,7 +63,7 @@ He'd left the terrace on the hundred-and-eleventh.
 
 Dorcas had watched him go from the *Merry Agnes*'s rail. She hadn't said anything. The terrace was a town now. Forty-one hulks on a hill and a market between them and the gutters going down to the quays that weren't quays any more, to gut fish off boats that came in to the shingle.
 
-The forty pairs were Harl's. The Gullhaven families were in his top field. The coast was holding.
+The forty pairs were Brede's. The Gullhaven families were in his top field. The coast was holding.
 
 And at Blackwater, the Council was selling berths on a road to a shore nobody came back from.
 
@@ -219,7 +219,7 @@ He sat by her a long time.
 
 He thought about the coast.
 
-The terrace. Forty-one hulks on a hill. Dorcas on the *Merry Agnes* with her pan. The gutters walking down to the shingle. The Gullhaven families in his top field, and Hessa Pane, and her mother with her tin cup. The forty pairs under Harl. The Council gone. Corsa gone. The Bell out there on the road.
+The terrace. Forty-one hulks on a hill. Dorcas on the *Merry Agnes* with her pan. The gutters walking down to the shingle. The Gullhaven families in his top field, and Hessa Pane, and her mother with her tin cup. The forty pairs under Brede. The Council gone. Corsa gone. The Bell out there on the road.
 
 He thought about Wren.
 
@@ -293,7 +293,7 @@ He'd never seen Arn fly. Arn came down on the headland on the young dark dragon 
 
 "It's not mine."
 
-"It's not mine either," said Calder. "It's Harl's and Dorcas Kell's and Hessa Pane's and two thousand people's on a hill. Somebody has to fly over it."
+"It's not mine either," said Calder. "It's Brede's and Dorcas Kell's and Hessa Pane's and two thousand people's on a hill. Somebody has to fly over it."
 
 Arn looked at him a long time.
 

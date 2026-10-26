@@ -15,7 +15,7 @@ Draft notes: The evening of Book 1's night 143 (in Vael) to day 3. Decided here 
 - At sunrise his green glasses show the Hearthmere draw gone: not filled, emptied, flat, dead. A run of glasses north-east (the Marches, the Fellwood, the Scarfell's edge) dip and recover in order across an hour, at about the speed of a bird. Two smaller marks: "the walker", a little draw moving south-west to north-east in short steps along the Hearthmere bank; and under Greyhold a point that neither rises nor falls, which he writes down as "a held breath".
 - **The Old Reader**: what Vael calls the Long Library's keeper, the ancient raven-like speaking bird (no name; scholars say "the Old Reader", and it calls itself nothing). Black going grey, the size of a large dog, a beak like a cobbler's awl, one eye milky. It hasn't flown in living memory. It speaks slowly, dryly, with exact grammar and long pauses, corrects people's citations, and calls Idony "ferryman" when it's fond of him and "Reader Vael" when it isn't. It lives on a perch of black oak at the hill end of the Long Library, half a league from the door.
 - At "Hearthmere" it goes silent for a long time, then says, "Then the door is open." It won't explain. It asks him to leave the green glasses with it overnight; he doesn't.
-- **Magister Hollis Dane** of the Blue College (the Wardens' college) comes to the Gallery on day 2 with two Wardens and an order from the Council of Tides, and impounds the ledgers and the green glasses "for the Council's review". Idony had copied the charts onto oiled silk on the night of day 0 and sewn them into the lining of his winter coat.
+- **Magister Hollis Dane** of the Blue College (the Wardens' college) comes to the Gallery on day 2 with two Wardens and an order from the Council of Colleges, and impounds the ledgers and the green glasses "for the Council's review". Idony had copied the charts onto oiled silk on the night of day 0 and sewn them into the lining of his winter coat.
 - Idony is 31, Second ring, a ferryman's son from the Glasswater lake-ferries; sister Nessa (introduced by name only here; ch 8 for her). He sleeps badly, eats when he remembers, and talks to instruments.
 - Isvaren's beasts on the page: lantern owls in the observatory towers and on the ferry boats; stormkites sliding down off the High Crown the morning after, early, in pairs; the snow lynx at the Wardens' heels.
 Magic touches: tide-glasses (a drop of quicksilver under a place-rune); the surge as Vael sees it from a hundred leagues off; the College lamps by colour; the lantern owls' eyes as a poor man's tide-glass.
@@ -53,7 +53,7 @@ So did two hundred and two, *the bridge-island*, and two hundred and three, *the
 
 He went down the Gallery with his lamp.
 
-Not only Hearthmere. Everything was up. Isvaren's own glasses on the north wall, *Vael*, *Glasswater*, *the Pass*, were up by a third. Kessmoor's, on the high shelves, up. The Wyldmarch, up. Sarovel, Saltreach, up and up. Some of the oldest glasses, the ones that had sat on the top shelves since before the Council of Tides had a council, were higher than he'd ever seen them, higher than anyone had written in any ledger he'd read, and he'd read all of them.
+Not only Hearthmere. Everything was up. Isvaren's own glasses on the north wall, *Vael*, *Glasswater*, *the Pass*, were up by a third. Kessmoor's, on the high shelves, up. The Wyldmarch, up. Sarovel, Saltreach, up and up. Some of the oldest glasses, the ones that had sat on the top shelves since before the Council of Colleges had a council, were higher than he'd ever seen them, higher than anyone had written in any ledger he'd read, and he'd read all of them.
 
 He stood in the middle of the Gallery with the lamp in his hand and listened to it. You couldn't hear the Deep. Everybody knew that. But on the shelves round him three hundred brass cradles were ticking very faintly as they warmed, and the glasses in them were making a sound like a wet finger drawn round the rim of a cup, very high, at the edge of hearing, and he had never heard it before, and he found that the back of his neck was cold.
 
@@ -283,7 +283,7 @@ Dane was a tall man of fifty with a short grey beard and the blue facings of the
 
 Dane didn't smile. He looked down the empty shelves and the silver grooves and the glass. He had the look of a man doing an inventory of a fire.
 
-"The Council of Tides has asked the Blue College to review the readings of the night of the breaking," Dane said. "All of them. With particular attention to the south." He held out a hand without looking at it. One of the Wardens put a paper in it, folded, sealed with blue wax. "You'll give the Wardens your ledgers. All the Hearthmere volumes, and the nightbook for the last month. And any other instruments in your keeping."
+"The Council of Colleges has asked the Blue College to review the readings of the night of the breaking," Dane said. "All of them. With particular attention to the south." He held out a hand without looking at it. One of the Wardens put a paper in it, folded, sealed with blue wax. "You'll give the Wardens your ledgers. All the Hearthmere volumes, and the nightbook for the last month. And any other instruments in your keeping."
 
 "There aren't any other instruments in my keeping."
 

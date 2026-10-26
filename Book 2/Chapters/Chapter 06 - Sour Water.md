@@ -17,7 +17,7 @@ Draft notes: Day 6, noon, to the small hours of day 10. Decided here (proposals)
 - Orrun opens the split from the river side: he puts his shoulder to the inner wall and the stone moves for him, the crack widening like a door. The granary's back wall is the inner wall. Maren goes through and brings them out: Ada, Bel with Nan, Pip, Wren. Wren says, "You're her," again, and then, "Say it twice," when Maren says it's all right. Old Grey hears Wren's voice outside the gate and comes round the walls to the water-gate on his own.
 - Liss ferries them over in the dark, no lantern, on the guide-rope. The greys swim behind on lead ropes; Orrun swims. They land at Tolly's Staithe before dawn on day 9.
 - Maren's reasons, as she gives them to herself: Calder is three days up the Way with a dragon on three legs; the companies on the Way would sell a farmer's family to the crown by the head; Lisska can't carry five people; only a lion is escort enough. And the thing went north-east. Her road starts that way.
-- Echo: at dawn on day 10, in the Fellwood's edge above the Staithe, Lisska comes down the Way looking for them (Calder sent her back to see Wren, as promised). Within sight, she speaks to Orrun as far kin and he passes it to Maren: the old one has fallen twice on the Way; Calder is at the Ewe Hollow turn.
+- Echo: at dawn on day 10, in the Fellwood's edge above the Staithe, Lisska comes down the Way looking for them (Calder sent her back to see Wren, as promised). Within sight, she speaks to Orrun as far kin and he passes it to Maren: the old one has fallen twice on the Way; Calder is past the Ram's Head.
 Magic touches: the sweet well's licensed word cut in its hood, dead; the Widow Rudd's words; Orrun's bond-shaping on dead ground (it isn't the Deep, so it works); Lisska's kin-voice to Orrun within sight.
 notes -->
 
@@ -367,7 +367,7 @@ Maren felt it go between them through the bond. Not words, at first. A rush, lik
 
 Orrun turned the question over and gave it to the green dragon. The green dragon answered it, fast, tumbling.
 
-*The old one has fallen,* said Orrun. *Twice. On the Way. Once on a hill above the burned village, and once on the road by a stream. She got up both times.* Another rush from Lisska. *He is at the turn for Ewe Hollow. Three days, for what a horse does in one.* A pause. *There are men on the road behind him.*
+*The old one has fallen,* said Orrun. *Twice. On the Way. Once on a hill above the burned village, and once on the road by a stream. She got up both times.* Another rush from Lisska. *He is past the inn with the ram on its sign. Four days, for what a horse does in one.* A pause. *There are men on the road behind him.*
 
 Wren was standing up under Old Grey, looking at the green dragon.
 

@@ -15,6 +15,7 @@ Draft notes: Days 60–65. Decided here (proposals):
 - **The clause**, day 64: Kaye's clerk reads it last: *All Titan-matter and relics recovered in the course of the war shall pass into the keeping of the Assembly of Kessmoor, for study and safe custody, at the war's end.* Nobody argues. Rennick: "If there's an end, they can have the lot." Marrow signs. Calder thinks it: there won't be anything left to keep. He signs his name under *the dragons' farmer*, slowly, the D the right way round. Maren signs *Maren Ashdown* under *the lion's knight*, and the crown's seat looks at the clock.
 - **The West**, day 64 afternoon: Maren argues it at the table: Orrun's memory (the ones who set him at the door went *into the light*, west, over the sea); Idony's chart and its margin; something in the south-west that has never been drunk; the kingdoms can't win with what they have; go and find what put the Titans to sleep. The table goes quiet. Rennick laughs. **Calder says it**: "It's a song. While people drown." He means it. She doesn't flinch. Kaye: Kessmoor's Western Deep ships are needed for the war, the coast, the canals' mouths; nobody will carry her.
 - **The tip**, day 65 dawn, in the Hall's yard by the dragons: no one else there; she comes to look at Lisska and Orrun (who speak, kin to kin, within sight); Calder gives it without being asked: "Blackwater. Ask for a reef-pilot. And don't pay what they ask first." She: "You said it was a song." "It is." He looks at the clock. "Some songs are true. Doesn't stop people drowning while you sing them."
+- **The seals**, day 65 morning: Kaye's clerk gives every seat a small brass seal with the Accord's mark (a ring and six lines going into it): a warrant under it is drawn on the Accord's chest at Ironhythe for "the war's necessary costs"; the Assembly will honour it "and keep a record of it" (plant: ch. 14 Maren's warrant to Kit; ch. 17 how Ostrey learns where the Merrins are going).
 - **Rowan named Marshal of the Accord**, day 65 noon, last business: nobody else will take it; every kingdom will take her, because Hearthmere is too broken to frighten anyone; she accepts in one sentence.
 - **Different doors**: Maren out of the Hall's west door onto the canal road with Orrun; Calder out the yard door to the dragons.
 - **Echo**: from the table, Calder sees in the gallery a young man with a crowd of Sarovel's hands in their grey smocks, looking up at the clock, not at the table; Maren looks up at him too, once; Calder doesn't know him (Tobin).
@@ -395,6 +396,16 @@ He looked up at the clock. White. Black hands. Telling the whole of Ironhythe it
 She looked at him a long moment.
 
 "No," she said. "It doesn't."
+
+---
+
+The seals came round after.
+
+Kaye's clerk brought them on a tray. One to every seat at the round table. Small, brass, heavy for their size, each with a wooden handle worn smooth already, as if Kessmoor had made them years ago and waited. The Accord's mark cut in the face: a ring, and six lines going into it.
+
+"For the war's necessary costs," said Kaye. "A warrant under this seal is drawn on the Accord's chest, here, at Ironhythe. The Assembly will honour it." He looked round the table. "And keep a record of it."
+
+Calder turned his over in his hand. Maren put hers in her coat without looking at it.
 
 ---
 

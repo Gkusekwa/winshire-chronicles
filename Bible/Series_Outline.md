@@ -4,7 +4,7 @@
 
 ## Settled by the author (after Book 1)
 
-*The most current canon in the Bible. Books 2 and 3 are provisional until the author settles their open questions; their plans are `Book 2/Chapter_Plan.md` (revision 5) and `Book 3/Chapter_Plan.md` (revision 2), which replace the old Outline files.*
+*The most current canon in the Bible. Books 2 and 3 are not canon until the author settles their review and open questions. Book 2 is drafted (88 chapters, first draft) and under review; Book 3 is in first draft (chapters 1–10 so far). Their plans are `Book 2/Chapter_Plan.md` (revision 5; drafted, under review) and `Book 3/Chapter_Plan.md` (revision 3), which replace the old Outline files.*
 
 - **These are beast books, not dragon books.** Dragons are one kind of beast among many (the Dragon Clan's). Every kingdom's own beasts carry weight in its chapters, its set pieces and the war, and the sky is shared (`Bestiary.md`, The sky).
 - **Maren and Calder don't travel together.** They meet only out of necessity; each has a separate task, and their stories cross when they must. (This governs Books 2 and 3.)
@@ -84,7 +84,7 @@
 
 ## Book 2: the hunt for the Titan
 
-*The provisional chapter plan is `Book 2/Chapter_Plan.md` (revision 5).*
+*The chapter plan is `Book 2/Chapter_Plan.md` (revision 5; all 88 chapters in first draft, under review).*
 
 **Established:** the war continues; the hunt for the Titan; while everyone hunts it, the revelation that other Titans exist; the Titan travels from place to place searching for temples and gathering relics; each relic it takes wakes one of the five other major Titans, put to sleep ages ago, and the sixth gives it control over them; the discovery that some Titans are world destroyers; the kingdoms want to capture Titans to gain power; heroes try to save as many people as possible; the protagonists try to stop the Titan from being captured; they realize this Titan aims to free five other major Titans so they can level the world.
 
@@ -93,7 +93,7 @@
 **Established:** from Book 2 on, the other kingdoms are introduced while Hearthmere and Saltreach keep growing. Events unfold in parallel in both kingdoms and intertwine, with effects on the overall story.
 
 *Working proposals:*
-- **Two home kingdoms, separate roads.** From Book 2 the two protagonists have separate tasks and roads (see `Book 2/Chapter_Plan.md`, provisional: Maren on the Titan's road, Calder on the Clan's errand). Hearthmere and Saltreach stay the anchor kingdoms. Each book pairs events across the border that answer each other: a decision in one kingdom becomes a crisis in the other a few chapters later.
+- **Two home kingdoms, separate roads.** From Book 2 the two protagonists have separate tasks and roads (see `Book 2/Chapter_Plan.md`, drafted, under review: Maren on the Titan's road, Calder on the Clan's errand). Hearthmere and Saltreach stay the anchor kingdoms. Each book pairs events across the border that answer each other: a decision in one kingdom becomes a crisis in the other a few chapters later.
 - **Examples of parallel, intertwined events:**
   - Hearthmere's failing magic drives desperate measures at home, while Saltreach's trading houses start selling magic, beasts, and Titan-hunting contracts to whoever is desperate.
   - Refugees flee the Titan's path into Saltreach's ports at the same time as Saltreach sellswords are hired to hunt the farmer in Hearthmere.
@@ -144,7 +144,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 
 ## Book 3: the Titan War
 
-*The provisional chapter plan is `Book 3/Chapter_Plan.md` (revision 2).*
+*The chapter plan is `Book 3/Chapter_Plan.md` (revision 3; chapters 1–10 in first draft).*
 
 **Established:** the kingdoms unite to fight the Titans; the ancient lion grows in power throughout the series and becomes a Titan; the three dragons become Titan-class beasts; the protagonists unite a faction of elder Titans, of whom two join the fight and two grant their power to the dragons and the lion and fade away.
 
@@ -268,16 +268,17 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - Name collisions: are these deliberate? "Keeper" (the Wyldmarch Keepers, `Magic.md`'s Sixth ring "Keeper of the Script", Book 2 ch 32 and the archive-bird's suggested name); "Warden" (Hearthmere's inner-circle rank and Isvaren's law-enforcers); the Marrow trading house in Wendmouth (Ch 34 notes) after Gunna was renamed away from Marrow. (The Ch 33 sergeant is renamed Tasker.)
 - ~~"The Unbound"~~ *Settled (Oct 2026): the seventh ring keeps the name; Book 1 is* The Watch Below.
 
-**Book 2** (`Book 2/Chapter_Plan.md`, provisional)
-- The plan's open questions 1–10, 12 (Idony's state at the end; his survival is settled), 13 and 15–26. Question 15 can be answered from Book 1 ch 49: Hale believes the first archivist cut the pages (`Magic.md` §9). Question 27 (the title) is down to *The Hunt Beneath*: *The Six Who Sleep* is retired. Questions 11 and 14 are settled.
-- How the Clan comes to believe Calder, and what the uncle–nephew alliance costs each of them (open series questions above; `Story.md`)
+**Book 2** (`Book 2/Chapter_Plan.md`, drafted, under review)
+- The plan's **Review questions for the author**: 4, 6–10 and 12–22 are open, each with how the draft answers it (**Drafted as**); 1, 2, 3, 5 and 11 are settled, and the plan's **Settled** list holds the rest (the title *The Hunt Beneath*; who cut the black book's pages, Hale's belief, `Magic.md` §9). The most consequential: the Restoration's war (4), the Clan's trust in Calder (22), Idony's state (12; his survival is settled) and the deaths (19).
+- Questions 12 and 22 now reach downstream: Book 3's drafted chapters 1–10 already assume Idony's burnout and the Clan's trust as drafted (the plan lists the chapters under each question).
+- What the uncle–nephew alliance costs Arn and Ulric (open series question above; `Story.md`)
 - What each relic looks like (open series questions above; `Magic.md` §5)
 - The full history of the chaining (open series questions above; proposed for Book 2 ch 34)
 - Which temple the Titan reaches first (the Hollow Ring proposed; `Atlas.md`; Book 2 ch 8–20)
 - Old Grey's recovery (`Story.md`)
 - Where Corvin got his older key for the Ruin's lock (`World.md`, **The keys**)
 
-**Book 3** (`Book 3/Chapter_Plan.md`, provisional)
+**Book 3** (`Book 3/Chapter_Plan.md`, revision 3; chapters 1–10 in first draft)
 - The plan's open questions 1–27, including its seven POVs (question 1). Check question 17's dependency wording: Book 1 ch 70 already restores Ennis's face and name.
 - How Corvin dies, and whether he is redeemed (`Story.md`; Book 3 question 5)
 - Whether Idony stays unbonded through Book 3 (`Magic.md` §11; Book 3 question 20 proposes he does)

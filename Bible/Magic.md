@@ -312,7 +312,7 @@ The rule for writing battles: **magic tips fights; steel and beasts win them.** 
 
 **Voice:** close third like the others, but his chapters think in measurements, quotations and footnotes he doesn't write down. He notices numbers the way Calder notices beasts and Maren notices people.
 
-**Where he joins the others** *(see `Book 2/Chapter_Plan.md`, provisional)*: alone in Vael at first, tracking the surges; he meets Maren at the Hollow Ring (Book 2 ch 18) and travels with her on the Titan's road from Isvaren to Sarovel; he crosses Calder's separate road at Vael and again at the end. Maren and Calder don't travel together *(canon, `Series_Outline.md`)*.
+**Where he joins the others** *(see `Book 2/Chapter_Plan.md`, drafted, under review)*: alone in Vael at first, tracking the surges; he meets Maren at the Hollow Ring (Book 2 ch 18) and travels with her on the Titan's road from Isvaren to Sarovel; he crosses Calder's separate road at Vael and again at the end. Maren and Calder don't travel together *(canon, `Series_Outline.md`)*.
 
 **Settled by the author:** his name is **Idony Vael**; he's a man; he **survives to the end of the series**.
 

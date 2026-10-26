@@ -1,6 +1,6 @@
 # Decisions for the revision pass (binding on every revision agent)
 
-Sources: A1 (Book 1 ch 1–40), A2 (Book 1 ch 41–79), A3 (Bible and plans), in /home/claude/audit/. Apply every finding in those reports that falls in your scope, using the report's suggested replacement wording unless a decision below says otherwise. Where a report gives options, use the one chosen here.
+Sources: A1 (Book 1 ch 1–40), A2 (Book 1 ch 41–79), A3 (Bible and plans), in Audits/2026-10/. Apply every finding in those reports that falls in your scope, using the report's suggested replacement wording unless a decision below says otherwise. Where a report gives options, use the one chosen here.
 
 ## Book 1 prose
 
@@ -35,4 +35,4 @@ Edit surgically, keeping the voice (lean and mythic; see Style_Guide.md and Voic
 
 ## Logging
 
-Each prose agent writes /home/claude/audit/APPLIED_<range>.md: every finding applied (ID, chapter, one line), every one skipped (and why), and the tic counts before and after for its chapters.
+Each prose agent writes Audits/2026-10/APPLIED_<range>.md: every finding applied (ID, chapter, one line), every one skipped (and why), and the tic counts before and after for its chapters.

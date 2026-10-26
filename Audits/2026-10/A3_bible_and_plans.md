@@ -1,6 +1,6 @@
 # A3 — Bible and plans consistency audit
 
-Scope: `Bible/{World,Story,Characters,Bestiary,Atlas,Magic,Series_Outline}.md`, `Book 1/Chapter_Plan.md`, `Book 1/Notes/*.md`, `Book 2/Outline.md`, `README.md`, `Style_Guide.md`, `Publishing.md`. Book 1 prose (`Book 1/Chapters/`, 79 files) was grepped to settle disputes. Nothing under `/home/claude/work` was edited.
+Scope: `Bible/{World,Story,Characters,Bestiary,Atlas,Magic,Series_Outline}.md`, `Book 1/Chapter_Plan.md`, `Book 1/Notes/*.md`, `Book 2/Outline.md`, `README.md`, `Style_Guide.md`, `Publishing.md`. Book 1 prose (`Book 1/Chapters/`, 79 files) was grepped to settle disputes. Nothing under the repo was edited.
 
 Line numbers are the file's own line numbers as of this audit. Files whose fixes must be made at their generator: **`Book 1/Chapter_Plan.md` is generated from `Tools/plan/plan_data.py`**, and **`Bible/Atlas.md` is generated from `Tools/atlas/world.py` and `marches_items.py`** (Atlas.md line 3; `Tools/atlas/README.md`). Edit the data files and rebuild, or the fixes will be overwritten.
 

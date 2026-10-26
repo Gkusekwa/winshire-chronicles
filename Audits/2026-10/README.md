@@ -6,4 +6,4 @@ The reports and logs behind the October 2026 revision. **Historical record:** th
 - **DECISIONS.md:** the choices made on the audits' options, binding on the revision.
 - **APPLIED_*.md, REWRITE_*.md:** what each revision pass changed, with tic counts and word counts.
 
-Paths inside these files refer to the working copy they were written in (`/home/claude/work/...`); read them as repo paths.
+Paths inside these files are repo paths.

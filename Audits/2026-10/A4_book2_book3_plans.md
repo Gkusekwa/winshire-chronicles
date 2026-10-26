@@ -1,6 +1,6 @@
 # A4: Story-editor audit of the Book 2 and Book 3 chapter plans
 
-**Scope.** I read `Book 2/Chapter_Plan.md` (rev. 4, 88 ch.) and `Book 3/Chapter_Plan.md` (rev. 1, 90 ch.) in full. I checked them against `README.md`; `Bible/Series_Outline.md`, `Magic.md`, `Characters.md` and `Atlas.md` (with spot checks of `World.md` and `Bestiary.md`); `Book 1/Notes/Rulings_41-79.md`; and Book 1 chs 68–79 read in full, with greps of earlier chapters. I ignored both `Outline.md` files. Nothing under `/home/claude/work` was edited.
+**Scope.** I read `Book 2/Chapter_Plan.md` (rev. 4, 88 ch.) and `Book 3/Chapter_Plan.md` (rev. 1, 90 ch.) in full. I checked them against `README.md`; `Bible/Series_Outline.md`, `Magic.md`, `Characters.md` and `Atlas.md` (with spot checks of `World.md` and `Bestiary.md`); `Book 1/Notes/Rulings_41-79.md`; and Book 1 chs 68–79 read in full, with greps of earlier chapters. I ignored both `Outline.md` files. Nothing under the repo was edited.
 
 **Method.** I checked the POV rotation and duplicate titles with a script; both rotations pass. Every finding below cites the plan text. Items marked **check** are likely problems that depend on a reading of the plan, or on a fact the plans don't settle.
 

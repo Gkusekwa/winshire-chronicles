@@ -1,6 +1,6 @@
 # Applied: Book 1, Chapters 41–60
 
-Scope: prose and notes blocks of Ch 41–60 only, edited surgically (Edit tool). No file renamed. Sources: DECISIONS.md, A2 (main), A1 and A3 (findings touching 41–60). Pre-revision copies used for the "before" counts: /home/claude/backup_pre_revision/Book 1/Chapters/.
+Scope: prose and notes blocks of Ch 41–60 only, edited surgically (Edit tool). No file renamed. Sources: DECISIONS.md, A2 (main), A1 and A3 (findings touching 41–60). Pre-revision copies used for the "before" counts: the pre-revision copy of Book 1/Chapters/.
 
 ## Findings applied
 

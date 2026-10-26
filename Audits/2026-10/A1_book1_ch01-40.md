@@ -1,6 +1,6 @@
 # Audit A1: Winshire Chronicles, Book 1, Chapters 01–40
 
-*Scope: the prose below the `---` line in Chapters 01–40, checked against the Bible (World, Story, Characters, Bestiary, Atlas, Magic, Series_Outline), Chapter_Plan.md, Notes (Decisions_*, Rulings_41-79, Voice_Samples) and Style_Guide.md. I skimmed Chapters 41–79 only to check setups. I read the whole of every chapter from 1 to 40. I edited nothing under /home/claude/work. "Check" marks a finding I'm not sure is an error.*
+*Scope: the prose below the `---` line in Chapters 01–40, checked against the Bible (World, Story, Characters, Bestiary, Atlas, Magic, Series_Outline), Chapter_Plan.md, Notes (Decisions_*, Rulings_41-79, Voice_Samples) and Style_Guide.md. I skimmed Chapters 41–79 only to check setups. I read the whole of every chapter from 1 to 40. I edited nothing under the repo. "Check" marks a finding I'm not sure is an error.*
 
 ---
 

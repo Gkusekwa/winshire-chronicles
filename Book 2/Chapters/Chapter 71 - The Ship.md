@@ -16,10 +16,10 @@ Draft notes: Days 320–348 (318–319 in a line). Decided here (proposals):
 - **The hound**, day 330: Corvin tries it (he can't speak a working; he has the Halloran drawer speak it while he holds the written stroke; no: a chain-word is a rune *read*: Corvin can read it now, aloud, slowly, with his palm on the collar's iron, as Idony read the roll with his palm on it; the collar is the College's chain-craft, *hold* runes inside the iron, like the chains): the collar loosens; the hound's eyes fill; somebody behind them; it stands one breath looking at Corvin and then goes for him; the binders have it down with the pots before it reaches his throat; it's re-bound. Corvin, with blood on his sleeve, very quiet: "That's not tighten." Idony: "No." "Is that the only one?" Idony doesn't answer. Corvin isn't angry. "Then you'll have to be there to say it. All of it. Yourself." (Why Corvin takes him down the stair, ch 77.)
 - **Callis**, night 332: the ship puts into a cove north of Blackwater with no lights; a boat comes out with two Halloran men and **Callis**: thin, grey-faced, both arms set crooked (the right from the island in the snow, the left wrist from the river gate: Maren broke both) and weak; he can't lift a cup to his mouth with one hand; he holds it in both. Bought out of Hallowmere's cells in the autumn, carried across the Marches and the Saltreach Track by Corvin's people to wait at Blackwater. He brings news from the Marches: the crown's second cage at Greyhold, Kessmoor iron, the anchors going into the hill. He asks Idony on deck: "You were with Ashdown." "Yes." "Is the lion bigger?" "Yes." Callis looks at his hands. He becomes Corvin's right hand: he gives orders on deck; the crew obey him because Corvin's eyes are on him.
 - **Corvin's argument**, night 335, on the deck in the dark, without raising his voice: the crown's cage is the College's chains again (iron, *hold* runes, fed on what it holds, anchored on the same drained stone); the first chains held a sleeping thing for three hundred years and made it what it is now; a cage on a waking one makes it worse; there are only two things you can do with a Titan: chain it or command it; chains fail; "So." He wants to ask it something. Idony asks what. "Whether it remembers being asked." Idony, who wanted all his life to speak to a Titan, can't answer him; he lies awake knowing he can't.
-- Day 338 (the twenty-first day) into **the Saltings**: a local pilot comes aboard off a reed-boat (paid in Halloran silver) and takes them in through the maze of channels; they lie hidden in a reed-channel with the masts down among the reeds, two leagues inland of the coast, west of Gullhaven.
-- **Echo**, day 341: from the masthead (Idony carried up in a sling by two sailors because Corvin wants him to read the glasses high), the Tide Council's fleet sighted off the Saltings: green sails, eleven, going east along the coast with barges in tow, toward Gullhaven. Corvin: "There's the Council. Going to take it." Callis laughs; Corvin doesn't.
+- Day 333 the ship turns back west along the coast (Blackwater is the far east of the Saltreach shore; Corvin went that far only for Callis). - Day 338 (the twenty-first day) into **the Saltings**: a local pilot comes aboard off a reed-boat (paid in Halloran silver) and takes them in through the maze of channels; they lie hidden in a reed-channel with the masts down among the reeds, two leagues inland of the coast, west of Gullhaven.
+- **Echo**, day 341: from the masthead (Idony carried up in a sling by two sailors because Corvin wants him to read the glasses high), the Tide Council's fleet sighted off the Saltings: green sails, eleven, going west along the coast with barges in tow, toward Gullhaven. Corvin: "There's the Council. Going to take it." Callis laughs; Corvin doesn't.
 - Night 344, **the stir**: Idony's glasses in the cabin run up their throats at midnight; the hold's binders' pots smoke; the bound wyverns scream in their hoods; the hound howls. Idony knows it. He tells Corvin: "Within the day. Then it waits for the tide."
-- Day 345 noon: **the Titan passes over the Saltings**: Idony on deck sees it go over: low, from the north-west (from the Sunward Hills over the Ashlings), its shadow going over the marsh for a long time; the reeds flattening; wading birds rising in thousands; it goes on south-east out over the coast to sea toward the Bell; the chain-ends hanging from its legs, twelve, iron, taller than the masts. Corvin watches it with his face very still. Idony counts the relics in its back he can see: four; plates grown over them.
+- Day 345 noon: **the Titan passes over the Saltings**: Idony on deck sees it go over: low, from the north (over the Ashlings' scrub), its shadow going over the marsh for a long time; the reeds flattening; wading birds rising in thousands; it goes on south-west out over the coast to sea toward the Bell; the chain-ends hanging from its legs, twelve, iron, taller than the masts. Corvin watches it with his face very still. Idony counts the relics in its back he can see: four; plates grown over them.
 - Day 348 dawn: Corvin has the masts up and the ship taken out by the pilot to the Saltings' mouth to watch from the channel's end; the lowest spring tide is near noon. Idony on deck in the cold with his glasses. End: across the water, faint, long, through the hull and his feet: the bell.
 Magic touches: reading a chain-word with a palm on iron (rune-reading); a half-said unmaking; the stir at sea; glasses at a masthead; bound beasts in a hold.
 notes -->
@@ -224,6 +224,8 @@ Both of them. The right one crooked below the elbow where it had been set badly 
 
 "You paid," said Callis.
 
+In the morning they turned west. Back along the coast they'd come, past Corsa in the dark.
+
 ---
 
 He'd been a knight.
@@ -260,7 +262,7 @@ Corvin listened to all of it without a word.
 
 He told Idony about it on the eighteenth night.
 
-On deck. In the dark. The ship running east before a soft wind with the coast a black line to the north and the stars very bright. Corvin stood at the rail beside him with his bound arm in a sling Callis had made him wear.
+On deck. In the dark. The ship running west before a soft wind with the coast a black line to the north and the stars very bright. Corvin stood at the rail beside him with his bound arm in a sling Callis had made him wear.
 
 "The crown's cage," said Corvin. "You know what it is."
 
@@ -324,7 +326,7 @@ From the sea, there was nothing there.
 
 He read the glasses there.
 
-Every morning and every night. On the deck, among the reeds, with Corvin beside him. And they leaned. South-east. Out of the marsh. Over the coast. To one place on the sea, two leagues off a shingle spit. The cup filling. He could see it in the quicksilver. Faster than the Sun Stair. Faster than anything he'd measured.
+Every morning and every night. On the deck, among the reeds, with Corvin beside him. And they leaned. South-west. Out of the marsh. Over the coast. To one place on the sea, two leagues off a shingle spit. The cup filling. He could see it in the quicksilver. Faster than the Sun Stair. Faster than anything he'd measured.
 
 "When?" said Corvin.
 
@@ -338,7 +340,7 @@ Corvin wanted him at the masthead. To read the glasses high. They'd stepped the 
 
 He could see the coast from there.
 
-The marsh going away in every direction, brown and silver. The sea beyond it. Grey. And along the sea, going east, close in, a line of sails.
+The marsh going away in every direction, brown and silver. The sea beyond it. Grey. And along the sea, going west, close in, a line of sails.
 
 Green.
 
@@ -366,7 +368,7 @@ Through the planks. Through their hoods. A sound like iron dragged on stone. The
 
 He took the glasses in his hands and went up on deck.
 
-Corvin was there. At the rail. Looking south-east over the reeds toward the sea.
+Corvin was there. At the rail. Looking south-west over the reeds toward the sea.
 
 "Within the day," said Idony. "Then it waits for the tide."
 
@@ -384,7 +386,7 @@ Then the shadow.
 
 ---
 
-It came from the north-west. From the Sunward Hills, over the Ashlings, over the marsh.
+It came from the north. Over the Ashlings' scrub, over the marsh.
 
 Low. He could have touched the chain-ends.
 
@@ -396,7 +398,7 @@ Four.
 
 The shadow went over the ship for a long time.
 
-It went on south-east. Over the edge of the marsh. Over the coast. Out over the sea, toward a reef two leagues off a shingle spit, with a fleet in a line in front of it and a town on its roofs behind.
+It went on south-west. Over the edge of the marsh. Over the coast. Out over the sea, toward a reef two leagues off a shingle spit, with a fleet in a line in front of it and a town on its roofs behind.
 
 Corvin watched it go with his face very still.
 
@@ -408,7 +410,7 @@ At dawn. The pilot took them out. Back down the channels, through the reeds, to 
 
 From there he could see it all.
 
-The sea. The coast going east. The spit, far off, a grey arm round a harbour. The line of breakers off it. The fleet in its line with its lamps out. And in the deep water beyond the breakers, a long dark shape on the sea, like an island that hadn't been there.
+The sea. The coast going west. The spit, far off, a grey arm round a harbour. The line of breakers off it. The fleet in its line with its lamps out. And in the deep water beyond the breakers, a long dark shape on the sea, like an island that hadn't been there.
 
 The lowest spring tide was at noon.
 

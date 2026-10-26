@@ -12,12 +12,12 @@ Draft notes: Days 335–345. Decided here (proposals):
 - Day 335 back on the spit with the flights (forty-odd pairs now; the Scarfell twenty stay). The town knows the Council said no and the Clan went over Corsa (a Corsa boat brought it before them). Arn in the square by the harbour-master's door: anyone who'll go now, the Clan will fly to the hills today, with their goods. **Who goes**: the old, the sick, mothers with babies, two hundred-odd over four days (days 335–338), flown to the salt-store's hill and the farms behind the pans; most won't: oyster season; the beds; "The Lady keeps the spit."
 - **Ulric and the old woman**, day 337: **Old Nan Gorrie**, a blind net-mender, ninety, won't go in a basket ("I'm not salt and I'm not a child"); she'll go if somebody carries her as her son did when she was sick, and her son's drowned; Ulric (who has said perhaps forty words to Calder all year) kneels down on the shingle and she climbs onto his back, and he carries her the whole league of the spit road to the mainland on foot, with his grey walking behind him, and she talks the whole way about her son. At the spit's root he puts her down on a bench at the salt-store, and she pats his face and says "You're not him. You're a good boy, though." Ulric doesn't say anything all evening.
 - Days 338–340 **reefwyrms**: first a few in the harbour, then hundreds: long grey-green eel-like things as long as a boat, thick in the harbour inside the spit's arm, so thick the water boils; not hunting; packed in against the shingle as if hiding; the oyster-men can't take their boats out among them. They came from the Bell (Bestiary: the Bell is thick with them). Hessa Pane: "They come in in a storm." No storm.
-- Day 341 the **Strand fleet** arrives from the west along the coast (past the Saltings): green sails; eleven ships; four Kessmoor engine-barges towed, with iron engines on them smoking; harpoon-ships with great bolt-throwers on their bows; and Vey's own ship (small, black, single-masted; unnamed), with the wyverns Sable and Hask on its deck in hoods; they anchor in the bay outside the reef's ring of breakers (eleven: the Strand flagship, four tow-ships, five harpoon-ships, Vey's). Day 342 Vey comes ashore once in a boat to look at the salt-pan sheds with Arn and count the children's sheds ("Fourteen sheds. Two wyverns. Seven trips each. If the sheds stand that long.")
+- Day 341 the **Strand fleet** arrives from the east along the coast (from Corsa, past the Saltings): green sails; eleven ships; four Kessmoor engine-barges towed, with iron engines on them smoking; harpoon-ships with great bolt-throwers on their bows; and Vey's own ship (small, black, single-masted; unnamed), with the wyverns Sable and Hask on its deck in hoods; they anchor in the bay outside the reef's ring of breakers (eleven: the Strand flagship, four tow-ships, five harpoon-ships, Vey's). Day 342 Vey comes ashore once in a boat to look at the salt-pan sheds with Arn and count the children's sheds ("Fourteen sheds. Two wyverns. Seven trips each. If the sheds stand that long.")
 - Day 343 **the gull-hawks** won't fly: the harbour-master's birds (Gullhaven's messages to Corsa and the ships) sit on their perch on the harbour-master's roof and won't go out over the bay; thrown, they come back; one goes out and comes back with its feathers wet, shaking.
 - Day 343 also: Calder on the spit's end with his feet on the stones: the breath under the reef quick now; Aurveth (her month's up; Ivar Leck lets her fly short) feels further.
 - **Echo**, day 344 noon: Lisska in from the west along the coast (from Greyhold via the Wend's mouth), thin; Maren's page on the back of his Corsa page. Lisska's own word: the crown's building a cage at Greyhold, iron in the yard, men drilling the hill, and the lion-woman says it won't hold. Calder reads it on the shingle: *Keep your spit. Then come.*
 - **The stir**, night 344: every boat's sea-charms in Gullhaven go wild at once: Saltreach's warranted sea-charms are runes cut into hulls and oar-blades (keel-runes for steady, bow-runes for true, oar-runes for pull), because a spoken charm breaks on running water and the sea's the biggest there is; at midnight the runes on every hull drawn up on the shingle and every boat in the harbour glow, then burn: the cuts smoking, the wood round them charring; oars hissing in the water; fishermen dragging their boats up and throwing water on them; the Strand fleet's hulls out in the bay glowing in lines along their sides in the dark. Calder knows it now: he can feel it through Aurveth (she's beside him on the shingle): the Deep coming up under the sea all at once, the way it came up the Wend's valley at Vael, the way it came up through the Scald's glass; the stir.
-- Day 345, dusk: through Aurveth, far out over the sea to the south-west, something coming. Aurveth: *A day. It came a day behind the stir.* At dusk from the spit's end they see it: a shape on the sea's rim, low, long, darker than the water, like an island that wasn't there; it comes in through the dusk and lies down in the deep water beyond the reef's breakers, two leagues off, between the reef and the fleet. Not on the reef. Waiting. Aurveth: *For the tide.* The low spring tide is three days off (348).
+- Day 345, dusk: through Aurveth, to the east, where the Saltings come down to the sea, something coming (it crossed the Saltings at noon, ch 71). Aurveth: *A day. It came a day behind the stir.* At dusk from the spit's end they see it: a shape on the sea's rim, low, long, darker than the water, like an island that wasn't there; it comes in through the dusk and lies down in the deep water beyond the reef's breakers, two leagues off, between the reef and the fleet. Not on the reef. Waiting. Aurveth: *For the tide.* The low spring tide is three days off (348).
 Magic touches: the stir at sea (rune-charms burning on hulls); Calder's feeling of the breath through his feet; deep sense through Aurveth; kin-speech Lisska–Aurveth.
 notes -->
 
@@ -143,7 +143,7 @@ Quicker every day.
 
 The Strand fleet came on the seventh day.
 
-From the west. Along the coast, past the Saltings. Green sails. He counted them from the spit's end with Arn. Eleven ships. Four of them towing barges, low, broad, and on each barge an iron engine the size of a house, black, with a chimney, smoking. Kessmoor engines. The kind he'd seen in Maren's letters, drawn small in the margins.
+From the east. Along the coast from Corsa, past the Saltings. Green sails. He counted them from the spit's end with Arn. Eleven ships. Four of them towing barges, low, broad, and on each barge an iron engine the size of a house, black, with a chimney, smoking. Kessmoor engines. The kind he'd seen in Maren's letters, drawn small in the margins.
 
 Five harpoon-ships. With great bolt-throwers on their bows, wound back, and racks of harpoons along their sides as long as a mast, every one cut with runes from the point to the barbs.
 
@@ -305,15 +305,15 @@ At dusk. He was on the spit's end with Aurveth and Arn and Ulric. The burnt boat
 
 Aurveth lifted her head.
 
-*There,* she said. *South and west. A day behind the stir. It's come.*
+*There,* she said. *East. A day behind the stir. It's come.*
 
-He couldn't see anything. The sea. Grey. Flat. The line of breakers on the Bell. The fleet beyond it with its runes gone dull now, scorched along the hulls. The sun going down red over the Saltings.
+He couldn't see anything. The sea. Grey. Flat. The line of breakers on the Bell. The fleet beyond it with its runes gone dull now, scorched along the hulls. The sun going down red behind the spit.
 
 Then he could.
 
 ---
 
-On the sea's rim. To the south-west. Low. Long. Darker than the water.
+On the sea's rim. To the east, where the Saltings came down to the shore. Low. Long. Darker than the water.
 
 Like an island. Where there'd never been an island.
 

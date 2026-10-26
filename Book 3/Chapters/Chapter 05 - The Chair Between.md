@@ -82,7 +82,7 @@ Gorm Askell brought the ledgers in the morning.
 
 Of course he did. Arn's steward. Long and sour and ink to the elbow, limping since the ford. He came into the hall with three books under his arm and put them on the table in front of Arn and opened the first one to a page he'd marked with a strip of leather.
 
-"Aurveth," he said. "Bred on the high ledges. In Rurik's grandfather's time. Fed by the Clan, harnessed by the Clan, bonded three times to riders of the Clan." He turned to another strip. "Kharrak. Bred in the spring pens. Your father's time. Mutton from the Clan's flocks, eleven years." He turned again. "Lisska. The pens. Teo's." He looked at Arn. "On the books. All three."
+"Aurveth," he said. "Bred on the high ledges. In Rurik's grandfather's time. Fed by the Clan, harnessed by the Clan, bonded three times to riders of the Clan." He turned to another strip. "Kharrak. Bred in the spring pens. Your father's time. Mutton from the Clan's flocks, eleven years." He turned again. "Lisska. The pens. Imra Sallow's." He looked at Arn. "On the books. All three."
 
 "I know what's on the books."
 
@@ -92,7 +92,7 @@ Of course he did. Arn's steward. Long and sour and ink to the elbow, limping sin
 
 Arn looked at the page.
 
-At his brother's name in Gorm's cramped hand. *Teo Varr. The green, from the spring pens. Bonded in his sixteenth year.*
+At the name in Gorm's cramped hand. *Imra Sallow. The green, from the spring pens. Bonded in her fifteenth year.* The Clan's best scout. Dead at the mill, in the autumn his father died, beside Sigrun and Dag, the three of them breaking the old law to fight kin. He'd been on the other bank of that fight.
 
 He shut the book.
 

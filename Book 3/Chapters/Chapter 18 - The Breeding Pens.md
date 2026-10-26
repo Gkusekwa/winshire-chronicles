@@ -9,9 +9,9 @@ Beats: Arn at Varrhold. Ildra **chooses** him: a true bond, the beast's choice *
 Echo of another story: Calder's three restless, all turning their heads south-west together.
 Status: first draft
 Draft notes: Days 70–82. Decided here (proposals):
-- **Arn has never been chosen.** He stood on the Choosing Ledge in his fifteenth summer and his sixteenth, as the chief's elder son, and the yearlings walked past him; the next year Teo stood there once and the green stopped. He stopped standing. (Consistent with ch. 5: "not one of these has ever followed you a length.")
+- **Arn has never been chosen.** He stood on the Choosing Ledge in his fifteenth summer and his sixteenth, as the chief's elder son, and the yearlings walked past him; the next year Teo stood there once, wasn't chosen either and laughed about it; Arn stopped standing. *(Teo was never bonded; Lisska was Imra Sallow's, Book 1 ch. 18.)* (Consistent with ch. 5: "not one of these has ever followed you a length.")
 - **The pens restless**, days 70–72: since day 41 every kept dragon faces west, not east: the Last Titan's road (ch. 11); they beat at the oak bars at night; **d.71 a young red** (a two-year-old, unnamed in the ledgers, a number) breaks its wing against the bars in the dark; Leir has to put it down at dawn with the keepers' long knife; Arn holds its head.
-- **The choosing**, dawn 73, on **the Roosts** (the stone ledges above the hold where Teo flew from): Arn alone; Ildra comes up and lies down a length off; he tells her to go back to Wren; **the voice**: *No.* Small, odd, rough as a voice not used. Then: *You walk them. Every morning. You look at them through the bars.* / *I was in bars.* He feels what she was: the collar, the smoke, the nothing, and the girl's voice talking about barley coming in from very far off. "I didn't ask." *No. I did.* The bond made; one life between two now; he knows it at once.
+- **The choosing**, dawn 73, on **the Roosts** (the stone ledges above the hold where Teo used to sit and watch the riders): Arn alone; Ildra comes up and lies down a length off; he tells her to go back to Wren; **the voice**: *No.* Small, odd, rough as a voice not used. Then: *You walk them. Every morning. You look at them through the bars.* / *I was in bars.* He feels what she was: the collar, the smoke, the nothing, and the girl's voice talking about barley coming in from very far off. "I didn't ask." *No. I did.* The bond made; one life between two now; he knows it at once.
 - **Wren**, d.74 (down from the caves with Bel and Ada for the market): "I told you she liked you." She's glad, and sad, and ten. "She still has to come when I talk." *I will,* says Ildra, which only Arn hears; he tells Wren; she nods as if that were a contract.
 - **Through Ildra**, days 74–77: he hears, a little, what she hears from the pens: not words; wanting, and not knowing what for; the bar, the bar, the bar.
 - **The hall**, night 77: Arn at the chair (not in it; on the bench beside it, as since Teo): the pens will open. **The riders outraged**: **Bjarke** (red, high ledges): "The Clan is its dragons." Arn: "The Clan is its riders. The dragons were never ours. We wrote them down." **Old Hulda Sarr** silent. A grey-thread elder, **Ivar Leck** *(Book 2, the Clan's dragon-doctor)*: with the Titan coming west, a hundred dragons is a hundred dragons. Arn: "A hundred dragons in pens is a hundred dragons in pens."
@@ -77,15 +77,15 @@ They'd walked past him.
 
 His sixteenth summer, the same. He'd stood very straight. They'd walked past.
 
-The next year Teo had stood there once, fifteen, with his shirt hanging out and his hair in his eyes, laughing at something somebody had said, not even looking. And the little green out of the spring pens had come up the line and stopped in front of Teo and put her head against his chest.
+The next year Teo had stood there once, fifteen, with his shirt hanging out and his hair in his eyes, laughing at something somebody had said, not even looking. Nothing had stopped in front of him either. He hadn't cared at all. He'd laughed all the way back down the stair.
 
-Arn had stopped standing after that.
+Arn had stopped standing after that. He'd never known which of them it was easier to be.
 
 ---
 
 He went up to the Roosts on the seventy-third.
 
-At dawn. Alone. The stone ledges above the hold where the riders took off, worn smooth by three hundred years of claws. Teo had flown from the third ledge. Always the third. He'd said the wind was better. It wasn't. Teo had just liked it.
+At dawn. Alone. The stone ledges above the hold where the riders took off, worn smooth by three hundred years of claws. Teo had sat on the third ledge to watch the riders go. Always the third. He'd said the view was better. It wasn't. Teo had just liked it.
 
 Arn sat on the third ledge with his legs over the edge and looked at the Scarfell going away grey under the morning. The moor. The tarns. The smoke from the hold below him.
 
@@ -155,7 +155,7 @@ She was still lying a length off. Watching him.
 
 He knew what it was.
 
-Everyone in the Clan knew. You didn't have to have it to know. One life between two. Whatever happened to her happened to him now, a little; whatever happened to him happened to her. If she died, he'd most likely die after. If he died, she would. That was a bond. That was what Teo had had, and what had nearly killed Teo's green after him, until a farmer caught her.
+Everyone in the Clan knew. You didn't have to have it to know. One life between two. Whatever happened to her happened to him now, a little; whatever happened to him happened to her. If she died, he'd most likely die after. If he died, she would. That was a bond. That was what Imra Sallow had had, and what had nearly killed the green one after her, at the mill, until a farmer caught her.
 
 He'd never wanted it.
 

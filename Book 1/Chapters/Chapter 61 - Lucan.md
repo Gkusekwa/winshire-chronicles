@@ -36,7 +36,7 @@ She put the fork in the barrow.
 
 He walked down the aisle toward her, past the dray-beasts and the greyharts and the empty stall at the end where Dun had been. Under the old lamps. They still hung on their hooks the length of the barn, dark, and Grieve had hung a tallow lantern under each one, as if the old ones might be shamed into lighting. Kesh shifted on his glove. Somewhere down at the far end, behind its iron-banded doors, Thorne's boar grunted once in its sleep and was quiet.
 
-He stopped a few paces off. He looked tired. She'd never seen him tired. Lucan Haverly had come to Greyhold two years ago with his hair cut the way they cut it in Hallowmere and a falcon on his fist he'd had since fifteen, and he'd looked rested every day of the six years since she came down to him, as if he slept more than other people because he'd earned it.
+He stopped a few paces off. He looked tired. She'd never seen him tired. Lucan Haverly had come to Greyhold two years ago with his hair cut the way they cut it in Hallowmere and a falcon on his fist he'd had since he was fifteen, and he'd looked rested every day since, as if he slept more than other people because he'd earned it.
 
 He didn't look rested now. There was a grey line under each eye. His boots were stained to the knee.
 

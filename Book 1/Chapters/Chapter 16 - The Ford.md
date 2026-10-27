@@ -179,7 +179,7 @@ He thought: *I could have told him.* At the fair. On the cliff path. At the gate
 
 *I don't know it wasn't.*
 
-The grey mare went on down the Way in the grey light, picking her own path, and he let her.
+The grey mare went on down the Way in the rain, picking her own path, and he let her.
 
 ---
 

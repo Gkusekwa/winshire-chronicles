@@ -153,7 +153,7 @@ The window closed.
 
 He was sitting at Bel's kitchen table with his hands flat on the wood and the fire crackling and four people staring at him.
 
-Outside, against the wall, he could feel Lisska. Shaking, through the green mark, with Imra. She'd seen her. For the first time since the field. Not the last of her, cold, with something in her throat. The first of her. Eighteen. Laughing. Turning round and round in the starlight. *There, Brann Holt.*
+Outside, against the wall, he could feel Lisska. Shaking, through the green mark, full of Imra. She'd seen her. For the first time since the field. Not the last of her, cold, with something in her throat. The first of her. Eighteen. Laughing. Turning round and round in the starlight. *There, Brann Holt.*
 
 *I didn't know I still had that,* said Lisska. Very small. *I remember everything. But I didn't know I still had that.*
 

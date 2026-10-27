@@ -119,7 +119,7 @@ When it was done, they stood back, all of them, and looked at it lying there on 
 
 They sat on the gravel by the raft afterwards, out of the smoke, and ate, and talked. They thought they were alone. They'd seen nothing of her in the night but a cut rope and an empty boat, and they'd decided, she supposed, that whoever had been on the island had drowned, or bled, or run off into the trees to die, and that it didn't matter which. The river carried their voices up the slope to the gap in the wall.
 
-"We load at dark," said the Captain, before anyone asked. "Not before." She jerked her head downstream, toward Greyhold. "They've had boats all round this island two days, in daylight, looking for something. I don't want them looking at a cage."
+"We load at dark," said the Captain, before anyone asked. "Not before." She jerked her head across the west channel, toward Redwatch. "They've had boats all round this island two days, in daylight, looking for something. I don't want them looking at a cage."
 
 "What were they looking for?"
 

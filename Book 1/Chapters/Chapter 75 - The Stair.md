@@ -173,7 +173,7 @@ She held his head.
 
 "I know."
 
-"Your mother," said Haverly. "She came to the water-gate at dusk, shouting for Hale. Nobody believed her." He swallowed. "Hale did." He breathed. "Rowan took every rider up to Redwatch at dusk. The bank was going."
+"Your mother," said Haverly. "She came to the water-gate at dusk, shouting for Hale. Nobody believed her." He swallowed. "Hale did. Rowan's gone. She took every rider up to Redwatch at dusk. The bank was going."
 
 His eyes went past her, up the stair, to the top, where Orrun stood in the broken flagstones against the firelight with his mane up, looking down.
 

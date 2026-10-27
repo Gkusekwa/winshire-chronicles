@@ -26,7 +26,7 @@ Pell told her once, in the first month at Greyhold, that there are only two ways
 
 She was still sitting on the wet grass of the west shore when the dragons screamed.
 
-The glow over the trees had grown. It stood up behind the island now, east, the whole underside of the sky orange with it, and above the oaks she could see the fire on the high slope above Harrow's End, in long running lines where the stubble had caught, laced with orange like the cracks in a coal. Three shapes had been going round in the air above it. Two big, one small. She'd watched them meet, and tear, and come apart, and come together again, with fire going out of them in streams that lit the clouds from end to end. She'd seen one fall, and another. Then the small one, coming in low, and something happening to it, and it going down too.
+The glow over the trees had grown. It stood up past the island's far shore now, east, the whole underside of the sky orange with it, and above the oaks she could see the fire on the high slope above Harrow's End, in long running lines where the stubble had caught, laced with orange like the cracks in a coal. Three shapes had been going round in the air above it. Two big, one small. She'd watched them meet, and tear, and come apart, and come together again, with fire going out of them in streams that lit the clouds from end to end. She'd seen one fall, and another. Then the small one, coming in low, and something happening to it, and it going down too.
 
 Then the sound came across the water.
 

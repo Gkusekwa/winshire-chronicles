@@ -244,7 +244,7 @@ The barn roof went in behind them with a long, soft roar, and sparks went up int
 
 He stayed till the fire was down to embers and the men from Harrow's End had done what they could, which was nothing, and then he walked down to the river to wash the smoke off his face.
 
-The Wend was wide and black here and moving fast. On the far side, a long way off, the Hearthmere bank was a low line against a slightly lighter sky, and on that line, small and steady, very far off downriver, were lights. A row of them, high up, too regular for houses. Lanterns on a wall. Crown lamps, Ada called them, that burned all night on nothing at all, though she'd never been closer to one than this.
+The Wend was wide and black here and moving fast. On the far side, a long way off, the Hearthmere bank was a low line against a slightly lighter sky, and on that line, small and steady, well down the river, were lights. A row of them, high up, too regular for houses. Lanterns on a wall. Crown lamps, Ada called them, that burned all night on nothing at all, though she'd never been closer to one than this.
 
 Joss had come down behind him. He stood with his big hands hanging and looked across the water at them.
 

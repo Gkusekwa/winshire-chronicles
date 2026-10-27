@@ -34,7 +34,7 @@ The ferry house was on the mud now. Or in the hole.
 
 Three.
 
-Davin set them out on the floor of the hall. By the third pillar. Under the rune. In a triangle, on a flat stone, as Idony told him. One pointing toward the door. One toward the hall's dark back. One against the western wall.
+Davin set them out on the floor of the hall. By the third pillar. Under the rune. In a triangle, on a flat stone, as Idony told him. One toward the door, which faced east over the tarn. One toward the hall's dark back. One against the western wall.
 
 "If one falls before the others," said Idony, "it tells you where."
 
@@ -94,7 +94,7 @@ The first went out at the second hour.
 
 He saw it.
 
-The eastern glass. The one against the wall. Its quicksilver, pressed at the top. Dropping. All at once. A finger's breadth. As if someone had let go of it.
+The door glass. The one toward the east. Its quicksilver, pressed at the top. Dropping. All at once. A finger's breadth. As if someone had let go of it.
 
 Then climbing back.
 
@@ -208,7 +208,7 @@ The third went out near the fifth hour.
 
 ---
 
-South. Far. The glass pointing toward the door.
+South. Far. The door glass, and the back glass after it, and he knew the way of it.
 
 Not a drop. A fall. Long. Slow. The quicksilver going down its throat a long way. Further than the others. As a sigh goes on. Then climbing, slowly, back.
 
@@ -246,7 +246,7 @@ Davin wrote.
 
 And a breath after, the fourth.
 
-The same glass. South. Far. A fall. Not as long. Close after the first. As if it had been waiting for her.
+The same two. South. Far. A fall. Not as long. Close after the first. As if it had been waiting for her.
 
 ---
 

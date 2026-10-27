@@ -417,7 +417,7 @@ He saw it too.
 
 For a breath. Through Lisska's eyes, at the bond's edge, grey and far.
 
-The Vale. The camp, three leagues of it, on both banks. The eddy turning. And across the Vale, from the river to the scrub, a long grey wall of stone, new, twice a man's height, straight as a ruled line.
+The Vale. The camp, three leagues of it, on both banks. The eddy turning. And across the Vale, on the Hearthmere bank, from the river to the downs' foot, a long grey wall of stone, new, twice a man's height, straight as a ruled line.
 
 And on the wall, at the river end, a hill.
 

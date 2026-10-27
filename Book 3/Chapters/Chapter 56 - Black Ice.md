@@ -486,7 +486,7 @@ Lisska had told Orrun, two days before, on the wall. The farmer was on the north
 
 For the other plan. The one nobody said.
 
-She'd looked at the red glow on the northern sky for a long time, lying on the ice. It was thirty leagues off. More.
+She'd looked at the red glow on the northern sky for a long time, lying on the ice. It was twenty leagues off. More.
 
 Too far to help. Too far to see her.
 

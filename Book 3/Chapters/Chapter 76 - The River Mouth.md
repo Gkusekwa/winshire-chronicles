@@ -48,7 +48,7 @@ She looked at her ketch. With her masts up. She didn't say anything for a while.
 
 There were four hundred at the Staithe.
 
-The inn's people. The Staithe's fisher-families, who'd stayed when the floating market went up the river, because the Staithe was theirs. The old, who couldn't walk twelve leagues to the hub and wouldn't be carried. A few who'd come down from the hub to be away from it.
+The inn's people. The Staithe's fisher-families, who'd stayed when the floating market went up the river, because the Staithe was theirs. The old, who couldn't walk eight leagues to the hub and wouldn't be carried. A few who'd come down from the hub to be away from it.
 
 Four hundred. Six barges and a ketch.
 
@@ -386,7 +386,7 @@ Gannet looked at her.
 
 ---
 
-They walked north at noon.
+They walked north at the morning's middle, as soon as she was down off the mast.
 
 Up the bank. Through the scrub. Gannet and Kit and the one-eyed dog. Leaving the *Kittiwake* on her side on the shingle with her masts up against the sky, a long way from any water.
 
@@ -398,15 +398,15 @@ She looked back once.
 
 The road was empty where it met the Staithe's track. The stream had gone on north. They followed it.
 
-At the third hour after noon they came over a rise.
+At the third hour after noon they came over a rise on the lower Drover's Way, still on the Vale's edge.
 
 ---
 
-The land went up ahead of them. North and north-east. The scrub giving way to moor. The moor going up to the Scarfell, white on its tops, a day off.
+The land went up ahead of them. North and north-east. The scrub giving way to moor. The moor going up to the Scarfell, white on its tops, a long way off. A day and more.
 
 And on it, roads.
 
-She could see them from the rise. Six. Going up toward the Scarfell from the Vale. The Drover's Way, that she was on. A track up a valley east of it. A track west of it, along the old river. Others. Six lines across the moor, going up. With people on them. Dark streams. Thousands on each.
+She could see them from the rise. Six. Far off. Going up toward the Scarfell from the Vale's top. The Drover's Way, that she was on, going on up ahead of her. A track up a valley east of it. A track west of it, along the old river. Others. Six lines across the moor, going up. With people on them. Dark streams. Thousands on each.
 
 And beside each road, walking, a hill.
 
@@ -416,7 +416,7 @@ Grey.
 
 With a mane.
 
-One beside each stream of people. Six of them. Each one the size of the hill it walked on. Walking slowly beside the people on its road, at a man's pace, as she'd seen the lion walk once along the clans' road, short-stepping, so they could keep up.
+One beside each stream of people. Six of them. Each one the size of a hill, so that she could see them at all from here. Walking slowly beside the people on its road, at a man's pace, as she'd seen the lion walk once along the clans' road, short-stepping, so they could keep up.
 
 Six.
 

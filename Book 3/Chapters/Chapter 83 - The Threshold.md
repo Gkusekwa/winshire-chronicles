@@ -123,7 +123,7 @@ It wanted everything down.
 
 Everything. Every temple open. Every kingdom under the sea. Every breath gone out.
 
-And in the hall behind her, five hundred and thirty-three people breathing.
+And in the hall behind her, five hundred and fifty-three people breathing.
 
 And twenty dragons.
 
@@ -219,7 +219,7 @@ Down to him. Through her hand. Through the stone.
 
 *Count them for me*, he said.
 
-*I have. Five hundred and thirty-three. And twenty dragons.* She breathed. *And a hound. And a wolf. And two greys. And a calf. And a lynx.*
+*I have. Five hundred and fifty-three. And twenty dragons.* She breathed. *And a hound. And a wolf. And two greys. And a calf. And a lynx.*
 
 *That's a lot.*
 
@@ -477,7 +477,7 @@ The old man was on his hurdle. Up on one elbow. Looking at the glasses on the fl
 
 Three. At the tops, still. Pressing. All three, leaning, toward the door. Toward the stone where the door had been.
 
-And then the south glass fell.
+And then the door glass fell.
 
 ---
 
@@ -507,7 +507,7 @@ Very quietly. In the dust.
 
 Somebody coughed in the niches.
 
-A child. In the dust. Then another. Five hundred and thirty-three people, breathing, in the dark, round him.
+A child. In the dust. Then another. Five hundred and fifty-three people, breathing, in the dark, round him.
 
 He looked round at them.
 

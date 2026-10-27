@@ -51,7 +51,7 @@ Then she'd given him nine.
 
 So there'd been eight glasses on the road.
 
-Sealed glass, the length of a finger, a drop of quicksilver in each under the rune that rises with the Deep. Packed in wool. Carried east by eight of Rowan's knights and a clerk's boy.
+Sealed glass, the length of a finger, a drop of quicksilver in each under the rune that rises with the Deep. Packed in wool. Carried east by six of Rowan's knights and a clerk's boy.
 
 The first at the Thornwood's western edge, with Hobb. The second at the Greenwold's edge, where the burned country started. The third at the Candle Downs' east end. The fourth on the Hallowmere road, at the Downs' west end. The fifth here, on the shelf in his room, with Davin. The sixth on Greyhold's fallen hill. The seventh at the Mere's eastern shore, at a drowned farm called Sallow End, where a knight sat in a hayloft above the water for twenty days with the Last Titan lying a league out under it.
 
@@ -81,7 +81,7 @@ He'd thought he would see one glass leap, at the Thornwood, and fall, and nothin
 
 He pinned them to the barn wall in the morning.
 
-The eight logs. Davin's columns and seven knights' columns and Hobb's, in a line, east to west. Quarter-hours down the side. Heights across. He couldn't hold a pin. Davin held them, and he said where.
+The eight logs. Davin's columns and six knights' columns and Hobb's, in a line, east to west. Quarter-hours down the side. Heights across. He couldn't hold a pin. Davin held them, and he said where.
 
 Then he stood back from the wall in his blanket and looked.
 
@@ -107,7 +107,7 @@ The Hallowmere road. The fourth. The one he'd waited for. A quarter-hour after. 
 
 The camp.
 
-His own glass. Davin's columns. On the two-hundred-and-twenty-eighth, an hour and a quarter after noon, Davin had written a figure that was nearly the top of the glass. And a quarter-hour later a figure near the bottom.
+His own glass. Davin's columns. On the two-hundred-and-twenty-eighth, an hour after noon, Davin had written a figure that was nearly the top of the glass. And a quarter-hour later a figure near the bottom.
 
 Davin had logged it. Neatly. Every quarter-hour.
 
@@ -357,7 +357,7 @@ All turning.
 
 He sat up all night with them.
 
-With Davin. With the lamp. With the eight glasses in a row on the shelf and the strips of birch bark and pigeon-paper and semaphore copy laid out on the floor round his chair.
+With Davin. With the lamp. With seven glasses in a row on the shelf and the strips of birch bark and pigeon-paper and semaphore copy laid out on the floor round his chair.
 
 He drew it. Or Davin did, while he said where. Five lines on the old map. From Glasswater, south. From the Sun Stair, north-east. From the Scald, east. From the sea, north. From the Mere, east.
 

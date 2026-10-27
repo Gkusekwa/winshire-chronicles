@@ -110,7 +110,7 @@ And she counted.
 
 As she counted everything.
 
-Paces. Breaths. Stars. Waves off the ketch's bow. The niches in this hall, with Tam, in the autumn. The fires on the walls.
+Paces. Breaths. Stars. Waves off the ketch's bow. The niches in this hall, with Tam, in the winter. The fires on the walls.
 
 People.
 
@@ -246,7 +246,7 @@ Into the dark.
 
 ---
 
-*Three hundred and nine*, said Maren. *Three hundred and ten. And two.*
+*Three hundred and nine*, said Maren. *And two.*
 
 She counted the greys.
 

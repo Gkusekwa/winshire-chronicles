@@ -13,7 +13,7 @@ Draft notes: Day 320. Decided here (proposals):
 - **The six roads north** (from the Vale to the Scarfell's lip): **(1) the Drover's Way** (Saltreach bank; Tam's wagons; the broken army's main stream; Kit's Staithe four hundred joining from the south); **(2) the scrub track** east of it (the clans; the stonehorns breaking a road through gorse for the carts); **(3) the old towpath** along the drained riverbed (Sarovel's people; Ines and the eleven olifants carrying the old and children); **(4) the River Road** on the Hearthmere bank north to Eskby, then across the drained river at Eskby's ford (Rowan's flags' people; the Hearthmere camp; the knights' remnant with Wynn); **(5) the camp road** north-west, onto the line of **the Oneroad** (the tuskers' road: the old realm's highway; the tusker herd leading, Quell and the Wardens and Isvaren's people; the cow found it in the dark); **(6) the moor track** from Cotter's Cross straight up (Kessmoor's crews who ran, the sellswords, everyone else).
 - **The six shadows**: they reach the Scarfell's foot at dawn 320 and wait all morning; at the second hour after noon the Last Titan's light moves on the Vale and the columns' tails are still in the scrub; she asks him for six; *Six?* *One for each road*; *That's most of me.* *I know.* **Six Titan shadows**, each hill-sized; one walks beside each road's people at a man's pace; **seven bodies**: Orrun lies across the roads' end at the Scarfell's foot facing south and the six walk.
 - **The toll**: she is spread across seven for an hour; **she stops breathing; her heart stops** (she knows it, from far off, in each of seven bodies; nobody near her body but Orrun); through the shadows' eyes she sees all six roads at once; it's the most she's ever been and the least.
-- **What she sees**: **Tam's wagons** on the Drover's Way, Tam on the first box with Odo's tools under the seat, forty wagons of the old and the hurt, the shadow walking beside them; **Isvaren's tuskers on the Oneroad** with sledges and children on their backs, the old cow in front; **Sarovel's olifants on the towpath** carrying the old and children, Ines walking at the first one's trunk; **stonehorns breaking a road through the scrub** for the clans' carts, their plated heads down through the gorse, Rhun's wolves running beside; **Wynn** and the knights' remnant on the River Road at Eskby's ford, carrying the hurt, Sorrow at Wynn's knee; Kit and Gannet and a one-eyed dog on a rise.
+- **What she sees**: **Tam's wagons** on the Drover's Way, Tam on the first box with Odo's tools under the seat, forty wagons of the old and the hurt, the shadow walking beside them; **Isvaren's tuskers on the Oneroad** with sledges and children on their backs, the old cow in front; **Sarovel's olifants on the towpath** carrying the old and children, Ines walking at the first one's trunk; **stonehorns breaking a road through the scrub** for the clans' carts, their plated heads down through the gorse, Rhun's wolves running beside; **Wynn** and the knights' remnant on the River Road at Eskby's ford, carrying the hurt, Sorrow at Wynn's knee; two people and a dog far down the lower Drover's Way.
 - **Echo**: through the ground under all six roads, **the herd-charm** still going: the farmer's word, said into the live Saltreach ground yesterday with three dragons behind it, running north through the earth under every road and turning every stream of people north "like cattle"; she hears it as his voice though he has none now; it keeps them walking all night without stopping, as driven cattle walk.
 - **Up into the Scarfell**: by dusk 320 the heads of the columns at the Scarfell's lip at Harrow's End and above Cotter's Cross; the tails strung back down the moor; the Clan's dragons and the three overhead.
 - **Her heart starts**: at the hour's end (about the third hour after noon; Kit sees the six at about that hour, 76) Orrun lets the shadows go one by one as each road's head reaches the moor's edge; her breath comes back; her heart; he licks her face (she doesn't feel it); *You stopped.* *I know.* *Don't.* *I won't.* (She will, in a way.)
@@ -177,7 +177,7 @@ Six.
 
 She'd never seen six.
 
-Three, in the line. Four, under Greyhold, once. The six on the drowned road, at the last milestone, hay-cart-sized, standing in the shallows. Never six like this. Six Titans. Six hills with manes. Rising out of the moor at dawn round a seventh lying across the roads.
+Three, in the line. Four, under Greyhold, once. The six on the drowned road, at the last milestone, hay-cart-sized, standing in the shallows. Never six like this. Six Titans. Six hills with manes. Rising out of the moor round a seventh lying across the roads, in the afternoon light.
 
 They went.
 
@@ -293,11 +293,9 @@ The moor track.
 
 Everyone else. Kessmoor's crews who'd run. Sellswords. Militia. People she didn't know. Going up the straight track from Cotter's Cross with nothing in their hands.
 
-And on a rise beside it, small, two people and a dog.
+And a long way south of them all, far down the Drover's Way where it came up off the Vale's edge, small, two people and a dog. Walking. Too far off to be anyone.
 
-Kit. Gannet.
-
-Kit was looking at the shadow on her road. Counting. She could see Kit's lips move.
+She thought she knew who.
 
 ---
 

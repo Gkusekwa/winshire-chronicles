@@ -437,7 +437,7 @@ She thought about the clause.
 
 She didn't know why. In the cold, with Haverly's edge going up and down in her right hand, that she was watching because she couldn't feel it.
 
-*I'll not be the first*, she'd said. To the farmer. In the yard. By the trough. *If I break it the day it costs us, every kingdom at this table breaks the next one the day it costs them.*
+*I'll not be the first*, she'd said. To the farmer. At the table, on the water-meadow, with the Wyldmarch walking away. *If I break it the day it costs us, every kingdom at this table breaks the next one the day it costs them.*
 
 She hadn't been the first.
 

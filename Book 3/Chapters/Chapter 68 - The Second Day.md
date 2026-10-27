@@ -244,7 +244,7 @@ From high above him.
 
 He knew.
 
-They'd said it all on the far shore, in the Hall of Light, with the old man reading the letters off the air. *Only one of us can hold it.* *They hear two together.* *Two hands.* They'd said it again at Rowan's table in the summer, and in the barn in the autumn, and on Liss's ferry two nights ago.
+They'd said it all on the far shore, in the Hall of Light, with the old man reading the letters off the air. *Only one of us can hold it.* *They hear two together.* *Two hands.* They'd said it again at Rowan's table in the summer, and in the barn in the autumn, and on Liss's ferry three nights ago.
 
 He'd known since the far shore that it would come to this. To him and her, on the river.
 

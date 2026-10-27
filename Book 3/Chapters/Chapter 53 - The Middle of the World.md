@@ -28,7 +28,7 @@ notes -->
 
 The lion walked on four legs again from the two-hundred-and-thirty-sixth.
 
-Stiffly. The left foreleg put down with care, as an old man puts down a bad foot on a stair. But four. She sat on his head between his ears and felt each step come up through his skull into her, and counted them. Twelve days out of the Thornwood. The clans strung out behind on the road west, three leagues of them, the stonehorns, the carts, the old people walking.
+Stiffly. The left foreleg put down with care, as an old man puts down a bad foot on a stair. But four. She sat on his head between his ears and felt each step come up through his skull into her, and counted them. Nine days out of the Thornwood. The clans strung out behind on the road west, three leagues of them, the stonehorns, the carts, the old people walking.
 
 On the two-hundred-and-fortieth they were at the Candle Downs' east end. Burned country, still. Black stubble to the edge of the sky, and the first frost on it white in the mornings.
 
@@ -64,7 +64,7 @@ Solenne's low city, what was left. And the people off Sorrel Isle, who'd taken b
 
 Perrin Sade had them. The low city's voice, from Liss's table, a lifetime ago.
 
-Olifants. Sixty. Bond-steeds. Carts. The old people and the children on the carts.
+Olifants. Twenty. Bond-steeds. Carts. The old people and the children on the carts.
 
 "Where?"
 
@@ -214,7 +214,7 @@ She took her hand off the ground.
 
 The olifants knelt.
 
-She saw it from the lip. The last ones, at the back, at the edge of the light. As they'd knelt on the camp road at the muster. One. Then another. Their great front legs folding. Going down in their traces on the road, with the carts behind them, facing south. Facing the light.
+She saw it from the lip. The last ones, at the back, at the edge of the light. As Sarovel's forty had knelt on the camp road at the muster. One. Then another. Their great front legs folding. Going down in their traces on the road, with the carts behind them, facing south. Facing the light.
 
 Their god. Come up the road behind them.
 
@@ -310,7 +310,7 @@ The olifants got up.
 
 The shadow went back into him at dusk.
 
-On the road. When the column was out of the Gate and onto the Downs, and the light was two days south, and there was nothing left in the cut but kneeling marks in the dust and sixty olifants walking north on their own, without traces, after their people.
+On the road. When the column was out of the Gate and onto the Downs, and the light was two days south, and there was nothing left in the cut but kneeling marks in the dust and twenty olifants walking north on their own, without traces, after their people.
 
 It went into him as breath goes in. And its burns came with it.
 
@@ -352,7 +352,7 @@ He nodded slowly, as if that were an answer.
 
 They came in to the Wend on the two-hundred-and-forty-eighth.
 
-The column behind the lion, five days on the burned Downs. Eight thousand. Sixty olifants walking loose at the back, following, and nobody tried to harness them again.
+The column behind the lion, five days on the burned Downs. Eight thousand. Twenty olifants walking loose at the back, following, and nobody tried to harness them again. At the Wend they went to the forty that had hauled Kessmoor's wagons since the muster and stood with them, and Kessmoor didn't get any of them back.
 
 The clans had come in three days before.
 

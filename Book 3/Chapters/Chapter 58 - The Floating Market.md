@@ -293,7 +293,7 @@ Saltreach's wyverns, over Saltreach's own city. And the Clan beside them.
 
 And on the water, Kit.
 
-He saw the Merrin barges come out of the river's side channel where they'd been lying since the autumn. A dozen of them. And a dozen more behind, free captains' barges, the last on the coast. Poled, rowed, sculled, out into the heaving water among the floating market's broken pieces.
+He saw the Merrin barges come out of the river's side channel where they'd been lying since the autumn. Four of them. And a dozen more behind, free captains' barges, the last on the coast. Poled, rowed, sculled, out into the heaving water among the floating market's broken pieces.
 
 Kit at the tiller of the first. In her coat, with her crooked nose and her hair tied back. Standing up. Shouting.
 

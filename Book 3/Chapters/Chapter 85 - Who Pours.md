@@ -183,7 +183,7 @@ She didn't know what he'd said. He could see that. She knew his voice. She knew 
 
 He picked up the hare.
 
-There was no fire. There'd been no fire since the hall was shut. Nobody had lit one. He held the hare a while.
+There was no fire. There'd been none since Liss's lamp ran out of oil. Nobody had lit one. He held the hare a while.
 
 Then he put it down in front of her again.
 
@@ -319,7 +319,7 @@ The knight above them, on the fallen stone by the passage's mouth. Sitting.
 
 There were no ashes.
 
-Nothing to burn. Nothing to burn with. No fire had been lit since the door was shut; nobody had thought to. The dead were under the mountain, or in the tarn, or on a top field four leagues off, or on the Vale.
+Nothing to burn. Nothing to burn with. No fire had been lit since Liss's lamp went out; nobody had thought to. The dead were under the mountain, or in the tarn, or on a top field four leagues off, or on the Vale.
 
 No ashes.
 

@@ -10,7 +10,7 @@ Echo of another story: Everyone at once.
 Status: first draft
 Draft notes: Day 330. Decided here (proposals):
 - **The door opened**: at dawn Maren, who has sat on the fallen stone above the passage every night since 325, puts her hand on the fallen mountain where the doorway was and **the stone moves aside**, the doorway open again to the lintel, and **a broad way of fallen stone** going down from it to the new shore: "the fallen door"; she sits on a block of it beside the doorway.
-- **The remnant comes out**: five hundred and thirty-three and their beasts and twenty dragons, into new snow, a hand deep, that fell in the night; **the changed sky**: clear, pale, very high; no glow on any horizon (the lines are dark); **no smoke anywhere**; from the bowl's southern rim (Calder goes up; she knows what he sees) **no road with anyone on it**.
+- **The remnant comes out**: five hundred and fifty-five (533 counted in by 81, Arn's twenty riders in 83, and Maren and Calder) and their beasts and twenty dragons, into new snow, a hand deep, that fell in the night; **the changed sky**: clear, pale, very high; no glow on any horizon (the lines are dark); **no smoke anywhere**; from the bowl's southern rim (Calder goes up; she knows what he sees) **no road with anyone on it**.
 - **Tam's fire**: on the new shore by the black water; dry heather dug from under the snow at the bowl's edge, splinters from a wagon-board, a strip of canvas; **Tam strikes it with flint and steel** (a flint from Odo's roll; the steel the back of Odo's chisel); no hearth-word (nobody's hearth-word works now; Ada tried hers at the hall's middle on 324 and nothing happened, and didn't tell anyone); no beast's fire; the spark catches on the third strike; the first fire since the door shut; people come down the fallen door to it; Ada holds her hands to it; "That'll do," says Tam.
 - **Fisk**: at the fire, with the children round him (Pip, Nan, the red-coated Wendmouth girl, the Hearthmere boy with nobody, Osk, children from every kingdom): **he starts telling it from the beginning**, as he said he would: "There was a farmer at Harrow's End, at the top of the Marches, and one morning in the autumn he found five links of chain in the ruts of the road..." (He doesn't know the knight's beginning; she'll write it.)
 - **Maren on the fallen door**: something else now: the snow doesn't melt on her and she isn't cold; she can feel every stone of the Scarfell, many-shaped, settling, waiting; she doesn't ask any of it to move; **not named**; she hasn't heard a beast since the door fell and doesn't expect to.
@@ -74,7 +74,7 @@ Not for anything. Stone doesn't wait for things. Waiting as stone waits. Patient
 
 ---
 
-She'd been carrying it five days. Since the door fell. Since he came into her up the bond with the weight of all of him, and the patience of stone, and his power.
+She'd been carrying it a week. Since the door fell. Since he came into her up the bond with the weight of all of him, and the patience of stone, and his power.
 
 She hadn't asked it for anything but the passage.
 
@@ -258,13 +258,13 @@ A fire.
 
 ---
 
-The first fire since the door shut.
+The first fire since the lamp went out.
 
 ---
 
 People came down the fallen door to it.
 
-Slowly. Out of the snow. Round it. Not close; it was small. A ring. Five hundred and thirty-three people standing in a ring in the new snow round a fire you could have covered with a bucket, looking at it.
+Slowly. Out of the snow. Round it. Not close; it was small. A ring. Five hundred and fifty-five people standing in a ring in the new snow round a fire you could have covered with a bucket, looking at it.
 
 Ada went closer than anyone.
 
@@ -540,7 +540,7 @@ Fisk had stopped telling.
 
 She heard him stop. Mid-word. And the children turn.
 
-And the ring round the fire. All of them. Turning. Five hundred and thirty-three people, in the snow, turning their heads at once, toward the scree.
+And the ring round the fire. All of them. Turning. Five hundred and fifty-five people, in the snow, turning their heads at once, toward the scree.
 
 As the beasts had turned toward the Lamp at the muster.
 

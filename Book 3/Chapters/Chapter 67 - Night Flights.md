@@ -57,7 +57,7 @@ He'd sent to Varrhold on the three-hundredth.
 
 Before the five came. A rider to Gorm: *Sweep the pens. Straw them. Light the hall. If it comes, they'll come to you.* Gorm had sent back a single line in his sour cramped hand. *Pens swept. Leir strawed them. He says it's the first time anything's been put in them that wanted to be there. G.A.*
 
-Two hours' flying. At night. With a basket.
+Four hours' flying. At night. With a basket.
 
 There and back. Four hours. All night.
 

@@ -114,7 +114,7 @@ Then the bolts.
 
 She saw the bolt-throwers turn.
 
-All of them. On both banks. A hundred. On their wheeled frames, at the line, facing out, west and east, where they'd faced all day yesterday and all this morning. Turning. The crews heaving them round on their frames. Away from the line. Toward the eddy.
+All of them but the hub battery's forty on their rail. On both banks. Sixty. On their wheeled frames, at the line, facing out, west and east, where they'd faced all day yesterday and all this morning. Turning. The crews heaving them round on their frames. Away from the line. Toward the eddy.
 
 Toward the Last Titan's back.
 
@@ -124,7 +124,7 @@ Toward the light on it.
 
 They fired.
 
-The sound came across the water a breath after. A hundred bow-strings, iron, going at once. Like a flock of birds getting up.
+The sound came across the water a breath after. Sixty bow-strings, iron, going at once. Like a flock of birds getting up.
 
 Black bolts. Tipped with grey heartstone. Coming across the eddy.
 

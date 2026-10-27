@@ -110,7 +110,7 @@ She felt them through the barge's planks. A sound too low to hear. In her feet.
 
 It took fifteen days. As she'd said on the slate.
 
-Up and back. Up and back. Eight leagues up with five hundred aboard and the stores, two days, poling and towing against the grey water. Eight leagues back empty, a day. Up again.
+Up and back. Up and back. Eight leagues up with fifty or sixty aboard each and the stores, two days, poling and towing against the grey water. Eight leagues back empty, a day. Up again.
 
 Salt fish. Rope. The last of Wendmouth's grain, in sacks. Children. Old women. A goat. A Saffery factor's desk, which she put over the side at Cutter's Elbow when he wasn't looking.
 

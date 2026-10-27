@@ -265,7 +265,7 @@ The first chain. From the ruts at Upper Rush, the morning after the raid, in the
 
 Wrapped in the strip of his shirt. The same strip. Torn from the hem, the night before the island. With TWO burned on it with a charred stick from his own field.
 
-The black had faded. Two years in a coat. He could still read it. It was one of three words he could write.
+The black had faded. Two years in a coat. He could still read it. It was one of the first words he'd ever written.
 
 ---
 

@@ -286,7 +286,7 @@ She put salt on their tongues.
 
 A Keeper's wolf.
 
-Grey. Lame. With a Keeper boy beside it with his arm in a sling, sixteen, who'd come up from Varrhold's pens where the Clan had flown them in the night before the battle. The wolf had a broken back once, the boy said. It walked now. Badly.
+Grey. Lame. With a Keeper boy beside it with his arm in a sling, sixteen, who'd come up from Varrhold's pens where the Clan had flown them on the first night of the battle. The wolf had a broken back once, the boy said. It walked now. Badly.
 
 The wolf put its nose to her hand.
 

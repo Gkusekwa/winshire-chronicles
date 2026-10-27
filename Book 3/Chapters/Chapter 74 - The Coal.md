@@ -112,7 +112,7 @@ Tall. In a grey drover's coat. His back to her. A long case lying on the plates 
 
 He was looking down into the crack.
 
-He'd come before her. Not up a chain. She saw how. The Titan's flank lay against the Flat's edge now, by the jib-posts, and the posts had a platform round their feet, iron, for the crews. You could step from the platform onto the plates. He'd stepped.
+He'd come before her. Up a chain from the jib nearest the stage, faster than she could climb, while the Bridle hauled. The Titan's flank lay against the Flat's edge now, by the jib-posts, and the posts had a platform round their feet, iron, for the crews. You could step from the platform onto the plates.
 
 ---
 
@@ -310,7 +310,7 @@ He'd always said, in the old man's telling, that he didn't want his brother's de
 
 Callis was there.
 
-She didn't see him come. He'd come the way Corvin had. From the jib-posts' platform onto the plates. Walking. With his crooked arms at his sides. As he'd walked the gate.
+She didn't see him come. Not up a chain; he couldn't have. From the jib-posts' platform onto the plates. Walking. With his crooked arms at his sides. As he'd walked the gate.
 
 He was behind where Corvin had knelt.
 
@@ -398,7 +398,7 @@ Nothing.
 
 ---
 
-She'd felt it before. Under Greyhold, through Orrun, at the end of its chains. Rage. Three hundred years of it. On the downs, two days ago, walking along the ward: hunger, and something like patience. In the cavern: that one line, to Orrun. *Little brother.*
+She'd felt it before. Under Greyhold, through Orrun, at the end of its chains. Rage. Three hundred years of it. On the downs, yesterday, walking along the ward: hunger, and something like patience. In the cavern: that one line, to Orrun. *Little brother.*
 
 Now, nothing.
 

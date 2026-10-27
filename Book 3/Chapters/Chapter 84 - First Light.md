@@ -206,6 +206,38 @@ There wasn't anything else to do.
 
 ---
 
+First light came.
+
+---
+
+He hadn't thought it would. The door was stone. The mountain was down. Liss's lamp had guttered an hour before, its oil gone, and nobody had any more. There was no light in the hall but the rune in the roof, white.
+
+Then there was.
+
+---
+
+A line.
+
+High in the door-stone. Where the fallen mountain hadn't quite closed. Up by the lintel, where the words were. A crack. A hand's breadth long. Thin.
+
+And grey light in it.
+
+---
+
+The old man woke. On his hurdle. He looked at the crack.
+
+"Dawn," said Idony. "That'll be dawn."
+
+---
+
+People turned to it.
+
+All over the hall. In the niches. On the floor. Turning their heads, in the dark, toward the thin grey line high in the door. As the beasts had turned their heads toward the Lamp, once, at the muster. All at once.
+
+Looking at it.
+
+---
+
 "Davin," he said.
 
 ---
@@ -291,38 +323,6 @@ Davin looked at the page a long time. Then he put it in the case, at the end, on
 "That's the last," said Davin.
 
 "Yes."
-
----
-
-First light came.
-
----
-
-He hadn't thought it would. The door was stone. The mountain was down. There was no light in the hall but Liss's lamp, and the rune in the roof, white.
-
-Then there was.
-
----
-
-A line.
-
-High in the door-stone. Where the fallen mountain hadn't quite closed. Up by the lintel, where the words were. A crack. A hand's breadth long. Thin.
-
-And grey light in it.
-
----
-
-The old man woke. On his hurdle. He looked at the crack.
-
-"Dawn," said Idony. "That'll be dawn."
-
----
-
-People turned to it.
-
-All over the hall. In the niches. On the floor. Turning their heads, in the dark, toward the thin grey line high in the door. As the beasts had turned their heads toward the Lamp, once, at the muster. All at once.
-
-Looking at it.
 
 ---
 

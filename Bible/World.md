@@ -235,14 +235,16 @@ Established landscape types include outskirts and villages, farmlands, hunting g
 
 *(Settled after the full audit, Oct 2026.)*
 - **Book 1** runs from the harvest fair at the end of summer (day 0) to sunrise on day 144, in early spring; midwinter is about day 88. The prose seasons govern. The day numbers in the notes run fast after midwinter, so they are kept as an order of events, not as a dated calendar.
-- **Book 2** runs about a year from early spring: midsummer about its day 98, midwinter about day 281 (see `Book 2/Chapter_Plan.md`, drafted, under review).
+- **Book 2** runs about a year from early spring: midsummer about its day 98, midwinter about day 281 (see `Book 2/Chapter_Plan.md`, drafted, review settled).
 - **Book 3** runs from spring to the end of the next winter, with its final battle in deep winter (see `Book 3/Chapter_Plan.md`, provisional).
 - No year length in days is fixed. Seasons in the prose are given by name, never by number.
 
 ## Open world questions
 
-- How common are bonds, kingdom by kingdom? *(Partly answered in Book 1: the Clan keeps hundreds of dragons, with fourteen bonded pairs before the mill (eleven after, Ch 48); Greyhold's Long Barn holds thirty-one bonded beasts (Ch 27). Other Titans exist beyond the six destroyers and the elders, in the land beyond the sea: see `Series_Outline.md`.)*
-- How does the Dragon Clan breed and control dragons, and how do the dragons experience that system? *(Proposed Oct 2026: see **How the Clan keeps its dragons** above. To confirm.)*
-- Where are the elder Titans, and what do people's faiths say about them? *(Proposed: the land beyond the sea, `Series_Outline.md`; "the Lit Shore" in the Book 3 plan.)*
+**None open.** *The author approved every drafted or proposed answer below (Oct 2026).*
+
+- ~~How common are bonds, kingdom by kingdom?~~ *Settled (Oct 2026), as drafted:* the Clan keeps hundreds of dragons, with fourteen bonded pairs before the mill (eleven after, Book 1 ch 48); Greyhold's Long Barn holds thirty-one bonded beasts (ch 27). Other Titans exist beyond the six destroyers and the elders, in the land beyond the sea: see `Series_Outline.md`.
+- ~~How does the Dragon Clan breed and control dragons, and how do the dragons experience that system?~~ *Settled (Oct 2026), as proposed:* see **How the Clan keeps its dragons** above.
+- ~~Where are the elder Titans, and what do people's faiths say about them?~~ *Settled (Oct 2026), as drafted:* the Lit Shore beyond the sea (Book 3 Part Two; `Series_Outline.md`).
 
 *Answered and removed:* the limits and costs of magic (`Magic.md` §2–§4, §10); which landscapes and places belong to each kingdom (`Atlas.md`, proposal); whether the seal weakens before Book 1's end (yes, from night 90: **The seal** above); where the catacomb entrances are and who guards them (**The seal** and **The keys** above).

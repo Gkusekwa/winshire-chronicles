@@ -285,5 +285,5 @@ Kessmoor, Hearthmere and Sarovel have no riders of the air, and each says it doe
 - **Greyharts** are the crown's white war-mounts (Ch 27, 30, 33).
 
 ## Open questions
-- *(Composed Oct 2026, proposals for the author to confirm: tuskers and olifants have a rumble-language and remember the old realm as a map of roads and water, and Sarovel's royal olifants have lost that memory (see the Great herds); the grey cat at Greyhold is a great cat of the old lions' kind, not a duskcat (see Great cats and Duskcats).)*
-- Which flying creatures from "The sky" should come into the Book 2 and 3 plans, and where?
+- ~~*(Composed Oct 2026, proposals for the author to confirm)*~~ *Settled (Oct 2026), as composed:* tuskers and olifants have a rumble-language and remember the old realm as a map of roads and water, and Sarovel's royal olifants have lost that memory (see the Great herds); the grey cat at Greyhold is a great cat of the old lions' kind, not a duskcat (see Great cats and Duskcats).
+- ~~Which flying creatures from "The sky" should come into the Book 2 and 3 plans, and where?~~ *Settled (Oct 2026), as drafted: the shared sky of Book 3 (its plan's question 13).*

@@ -263,7 +263,7 @@ place("blackwater", "Blackwater", "town", "saltreach", 295, 178,
       "A smugglers' town in a dark-water inlet under the southern tail of the Worldsend. Outlaws, sellsword companies between contracts, and no questions.")
 place("saltings", "The Saltings", "landmark", "saltreach", 232, 178,
       "Salt marsh and tidal flats between Gullhaven and Corsa. Salt pans, wading birds, and a maze of channels that only the locals sail.")
-place("drownedbell", "The Drowned Bell", "temple", "saltreach", 241, 212,
+place("drownedbell", "The Drowned Bell", "temple", "saltreach", 217, 203.5,
       "A temple that sank into the sea at the split of the old realm, now a reef pirates use as a landmark. At low spring tides you can hear what sounds like a bell. A sleep relic lies in its drowned hall. (Book 2)", secret=True)
 
 # ---- Hearthmere's temple (beneath the Marches) ----

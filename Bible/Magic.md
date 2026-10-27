@@ -183,6 +183,8 @@ An imbued object is a material with runes in it that hold a working.
 - **Edges:** quickened blades (section 8).
 - **Kessmoor's heartstones:** see section 7.
 
+**Far-stone** *(settled Oct 2026, as drafted in Book 3 ch 16)*: the old road's stone in the far south-west is full, its breath never drunk. A flake of it is a pinch of live ground you can carry: a tide-glass climbs on it, and a working that needs live ground can be done on it, as far as the flake's breath goes.
+
 ### The chains and the seal under Hearthmere
 *(Book 1 canon: six chains, links taller than a man, between anchor-stones at each end of the cavern; two locks, carved stone discs with iron bosses, under the school and under the Old Ruin; turned in the same breath at midnight, they opened the seal. The oath said at noon facing the inner wall was "a hand on the chain.")*
 
@@ -288,7 +290,7 @@ The rule for writing battles: **magic tips fights; steel and beasts win them.** 
 
 - **Limited magic users.** In Book 1 magic is part of daily life but small: chores, trades and talk. Lamp-tenders, keeping-wives, licensed surgeons, a hedge-worker fined in Millbrook, Ada's hearth charms, a Clan herd-charm, Saltreach charm-sellers with "warranted" charms, the Halloran house's drawer glimpsed and feared on Gallows Quay (34). Most people know a charm or two; workers beyond that are few and noticed. Maren and Calder are not magic users.
 - **Maren and Calder across the series** *(established by the author)*: no casting in Book 1 (only bond gifts: dragonfire is the dragons'; Orrun's earth-sense begins at the bond). In **Book 2** they **begin limited casting**: small, costly, uncertain workings, learned on the road and through their bonds. In **Book 3** they **can use magic, but not as trained workers**: strong, untaught, without the colleges' rings or forms, paying the toll in ways the trained wouldn't.
-- **How their casting works, Books 2 and 3** *(proposal, from the full audit)*: in Book 2 their workings are ordinary words and runes, learned on the road, with a beast's power going through them. They follow every rule here: live ground only, touch range, broken by running water, paid for by the worker and the beast; Maren can't cut a rune herself, only hold the block while Idony cuts the strokes. In Book 3 the same words and runes, said untaught with a Titan-sized power behind them, are huge and crude and still need live ground. On dead ground only bond gifts work. Book 2's workings come back in Book 3 at its key moments: the stand-word at the line, the herd-charm on the six roads, the *hold* rune in the roof of the hall under Coldtarn.
+- **How their casting works, Books 2 and 3** *(settled by the author, Oct 2026, as drafted)*: in Book 2 their workings are ordinary words and runes, learned on the road, with a beast's power going through them. They follow every rule here: live ground only, touch range, broken by running water, paid for by the worker and the beast; Maren can't cut a rune herself, only hold the block while Idony cuts the strokes. In Book 3 the same words and runes, said untaught with a Titan-sized power behind them, are huge and crude and still need live ground. On dead ground only bond gifts work. Book 2's workings come back in Book 3 at its key moments: the stand-word at the line, the herd-charm on the six roads, the *hold* rune in the roof of the hall under Coldtarn.
 - **The failing (from night 90).** Hearthmere's licensed words and lamps flicker and fail as the chains slacken; people relight oil lamps; hedge-workers sell words that don't take.
 - **The surge (nights 142–143).** As the seal is about to open, the Deep round the river floods: dead lamps flare white for moments, charms take too hard, wards blaze, drawers hit harder than they should. The final battle has magic users in the thick of it on both sides: the Restoration's hired drawers (Halloran's drawer, lent to Delling, at Greyhold's gate, 69; the ring-broken Isvaren Fellow at the Ruin, who dies in the cavern fall, 74, 76) and binders with honey-smoke, Greyhold's last licensed workers and battle-words, Haverly's quickened sword, wards on the archive stair.
 - **The drain (dawn, day 144).** When the Titan flies, Hearthmere goes dark for good.
@@ -312,10 +314,10 @@ The rule for writing battles: **magic tips fights; steel and beasts win them.** 
 
 **Voice:** close third like the others, but his chapters think in measurements, quotations and footnotes he doesn't write down. He notices numbers the way Calder notices beasts and Maren notices people.
 
-**Where he joins the others** *(see `Book 2/Chapter_Plan.md`, drafted, under review)*: alone in Vael at first, tracking the surges; he meets Maren at the Hollow Ring (Book 2 ch 18) and travels with her on the Titan's road from Isvaren to Sarovel; he crosses Calder's separate road at Vael and again at the end. Maren and Calder don't travel together *(canon, `Series_Outline.md`)*.
+**Where he joins the others** *(see `Book 2/Chapter_Plan.md`, drafted, review settled)*: alone in Vael at first, tracking the surges; he meets Maren at the Hollow Ring (Book 2 ch 18) and travels with her on the Titan's road from Isvaren to Sarovel; he crosses Calder's separate road at Vael and again at the end. Maren and Calder don't travel together *(canon, `Series_Outline.md`)*.
 
 **Settled by the author:** his name is **Idony Vael**; he's a man; he **survives to the end of the series**.
 
 **His state after Book 2** *(canon, author, Oct 2026: as drafted)*: Book 2 ch. 83, 87 has him **burned out** holding the Titan still for the cellars: grey in a breath, hands that shake for good, every working he knows now only words, but his knowledge whole, and tide-glasses still readable because reading them is measure, not craft. (Book 2 plan, review question 12, settled.)
 
-**Open for the author:** whether he stays unbonded through Book 3 (drafted unbonded; the Book 3 plan's question 19).
+**Settled (Oct 2026), as drafted:** he stays unbonded through Book 3 and refuses the Mother's mending (the Book 3 plan's question 19).

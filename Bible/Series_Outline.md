@@ -4,7 +4,7 @@
 
 ## Settled by the author (after Book 1)
 
-*The most current canon in the Bible. Books 2 and 3 are not canon until the author settles their review and open questions. Book 2 is drafted (88 chapters, first draft) and under review; Book 3 is drafted (86 chapters, first draft) and under review. Their plans are `Book 2/Chapter_Plan.md` (revision 5; drafted, under review) and `Book 3/Chapter_Plan.md` (revision 3; drafted, under review), which replace the old Outline files.*
+*The most current canon in the Bible. The author approved every drafted answer in the Book 2 and Book 3 review questions (Oct 2026), so both books' drafts are canon. Book 2 is drafted (88 chapters, first draft); Book 3 is drafted (86 chapters, first draft), with only ch. 86's last line still the author's. Their plans are `Book 2/Chapter_Plan.md` (revision 5; drafted, review settled) and `Book 3/Chapter_Plan.md` (revision 3; drafted, review settled), which replace the old Outline files.*
 
 - **These are beast books, not dragon books.** Dragons are one kind of beast among many (the Dragon Clan's). Every kingdom's own beasts carry weight in its chapters, its set pieces and the war, and the sky is shared (`Bestiary.md`, The sky).
 - **Maren and Calder don't travel together.** They meet only out of necessity; each has a separate task, and their stories cross when they must. (This governs Books 2 and 3.)
@@ -84,7 +84,7 @@
 
 ## Book 2: the hunt for the Titan
 
-*The chapter plan is `Book 2/Chapter_Plan.md` (revision 5; all 88 chapters in first draft, under review).*
+*The chapter plan is `Book 2/Chapter_Plan.md` (revision 5; all 88 chapters in first draft, review settled).*
 
 **Established:** the war continues; the hunt for the Titan; while everyone hunts it, the revelation that other Titans exist; the Titan travels from place to place searching for temples and gathering relics; each relic it takes wakes one of the five other major Titans, put to sleep ages ago, and the sixth gives it control over them; the discovery that some Titans are world destroyers; the kingdoms want to capture Titans to gain power; heroes try to save as many people as possible; the protagonists try to stop the Titan from being captured; they realize this Titan aims to free five other major Titans so they can level the world.
 
@@ -93,7 +93,7 @@
 **Established:** from Book 2 on, the other kingdoms are introduced while Hearthmere and Saltreach keep growing. Events unfold in parallel in both kingdoms and intertwine, with effects on the overall story.
 
 *Working proposals:*
-- **Two home kingdoms, separate roads.** From Book 2 the two protagonists have separate tasks and roads (see `Book 2/Chapter_Plan.md`, drafted, under review: Maren on the Titan's road, Calder on the Clan's errand). Hearthmere and Saltreach stay the anchor kingdoms. Each book pairs events across the border that answer each other: a decision in one kingdom becomes a crisis in the other a few chapters later.
+- **Two home kingdoms, separate roads.** From Book 2 the two protagonists have separate tasks and roads (see `Book 2/Chapter_Plan.md`, drafted, review settled: Maren on the Titan's road, Calder on the Clan's errand). Hearthmere and Saltreach stay the anchor kingdoms. Each book pairs events across the border that answer each other: a decision in one kingdom becomes a crisis in the other a few chapters later.
 - **Examples of parallel, intertwined events:**
   - Hearthmere's failing magic drives desperate measures at home, while Saltreach's trading houses start selling magic, beasts, and Titan-hunting contracts to whoever is desperate.
   - Refugees flee the Titan's path into Saltreach's ports at the same time as Saltreach sellswords are hired to hunt the farmer in Hearthmere.
@@ -153,7 +153,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 **The kingdoms unite.** Facing the Titans, the six kingdoms must set aside the laws that divided them. Each alliance has a cost *(working proposals)*: Sarovel must accept unbonded knights; Kessmoor must fight alongside magic; Saltreach's sellswords, pirates, and outlaws must stand with the crowns they defied; the Wyldmarch must trust the kingdoms that hunted its beasts. The protagonists, who have crossed every border, are the ones who hold this alliance together.
 
 **The betrayal within the alliance.** *Established:* one kingdom in the alliance plots to be supreme. *Working proposals:*
-- **Who** *(provisional; the Book 3 plan's working choice, for the author to confirm)*: **Kessmoor.** It ends Book 2 the strongest kingdom left (its engines never felt a drain), so the alliance can't fight without it; its heartstone cage was the only capture that held, so it learned "capture works" best; and the kingdom that banned magic after the Scald wants the oldest magic of all so it's never at the mercy of what lies underneath again. The alternatives stay open: **Sarovel**, a kingdom that ranks people by their bonds and already binds its unicorns (it would need a new regime after Book 2 kills its king), and **Isvaren**, whose College sold the chain-craft twice. Whichever is chosen, Book 2 sets it up, Tobin's arc watches it, and the betrayal repeats the Restoration's sin by a kingdom that fought it.
+- **Who** *(settled by the author, Oct 2026, as drafted)*: **Kessmoor.** It ends Book 2 the strongest kingdom left (its engines never felt a drain), so the alliance can't fight without it; its heartstone cage was the only capture that held, so it learned "capture works" best; and the kingdom that banned magic after the Scald wants the oldest magic of all so it's never at the mercy of what lies underneath again. The alternatives stay open: **Sarovel**, a kingdom that ranks people by their bonds and already binds its unicorns (it would need a new regime after Book 2 kills its king), and **Isvaren**, whose College sold the chain-craft twice. Whichever is chosen, Book 2 sets it up, Tobin's arc watches it, and the betrayal repeats the Restoration's sin by a kingdom that fought it.
 - **What it wants** *(established)*: **the same power of control the sixth relic grants.** The plotting kingdom wants to command the Titans itself, and through them, rule the other kingdoms.
 - **How** *(working proposal)*: it fights in the alliance while secretly preparing to seize the sixth relic, or a weakened Titan bound to it, the moment the destroyers falter.
 - **Why it matters:** the betrayal should be what turns the near-victory into defeat (see below).
@@ -230,18 +230,18 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 
 **Still open** (the full list, with where each lives, is in **Open questions for the author** below):
 - ~~How does the Clan come to believe the farmer in Book 2?~~ *Settled (Oct 2026), as drafted: the ledger, Ulric's memory and the ledges' witness, sealed by Corvin's raid on the Roosts and the united pour (`Book 2/Chapter_Plan.md`, question 22).*
-- What does each relic look like? *(Proposal: hollow eggs of grey old-realm stone, `Book 2/Chapter_Plan.md`; `Magic.md` §5.)*
-- How exactly did Hearthmere find and chain its Titan? *(About three hundred years ago, Book 1 ch 49, 57; the full history is revealed in Book 2, proposed for its ch 34.)*
-- How does the surviving twin die in Book 3, and does he find any redemption? *(`Book 3/Chapter_Plan.md`, question 7; drafted unredeemed.)*
-- Who are the elder Titans, where have they been, and why do they choose to help? *(`Book 3/Chapter_Plan.md`, question 9.)*
-- What does it cost the lion and the dragons to become Titans, and does it change their bonds?
-- Which kingdom plots to be supreme, and does its betrayal cause the defeat? *(Working choice: Kessmoor, in both plans; provisional. See Book 3's **Who** above.)*
-- Which Titans survive the end of Book 3, and how do they stay hidden?
-- What does immortality cost them? *(How they become near-Titans is outlined under **After the fall**; the details are open.)*
-- What happens to the destroyer Titans at the very end? *(`Book 3/Chapter_Plan.md`, question 1; drafted: they burn out in the surge.)*
-- What are elementals: beings, a new kind of magic, or both? How do people first encounter them?
+- ~~What does each relic look like?~~ *Settled (Oct 2026), as drafted: hollow eggs of grey old-realm stone (`Book 2/Chapter_Plan.md`; `Magic.md` §5).*
+- ~~How exactly did Hearthmere find and chain its Titan?~~ *Settled (Oct 2026), as drafted: about three hundred years ago (Book 1 ch 49, 57), its history told in Book 2 (ch 34) and the old collapse's cause in Book 3 (30, 46).*
+- ~~How does the surviving twin die in Book 3, and does he find any redemption?~~ *Settled (Oct 2026), as drafted: unredeemed; taken whole by the relic (Book 3 ch 74; question 7).*
+- ~~Who are the elder Titans, where have they been, and why do they choose to help?~~ *Settled (Oct 2026), as drafted: the Grey Mother, the Wayfarer, the Lamp and the Lady, on the Lit Shore (`Book 3/Chapter_Plan.md`, questions 5, 9).*
+- ~~What does it cost the lion and the dragons to become Titans, and does it change their bonds?~~ *Settled (Oct 2026), as drafted: they grow Titan-class and die shielding people (Book 3 ch 78, 81, 83); the bond goes quiet at 84 (questions 1, 14, 15).*
+- ~~Which kingdom plots to be supreme, and does its betrayal cause the defeat?~~ *Settled (Oct 2026), as drafted: Kessmoor (Book 3 question 3).*
+- ~~Which Titans survive the end of Book 3, and how do they stay hidden?~~ *Settled (Oct 2026), as drafted: none on the page. The alliance kills the Antlered and the Furnace; the other four destroyers burn out in the surge; two elders give their power and fade, the Lamp is killed and the Lady goes down with the Bell. Kit's one sighting (Book 3 ch 76) leaves a doubt for the next series.*
+- ~~What does immortality cost them?~~ *Settled (Oct 2026), as drafted: shown, not explained (Book 3 ch 86); nobody says how long they'll live. The rest is for the next series.*
+- ~~What happens to the destroyer Titans at the very end?~~ *Settled (Oct 2026), as drafted: they burn out in the surge they made (Book 3 ch 82, 83; question 1).*
+- What are elementals: beings, a new kind of magic, or both? *(How people first meet them is settled as drafted: the stone elemental at Book 3 ch 86. What they are is left for the Age of Elementals.)*
 - Does the Age of Elementals get its own books or games?
-- Does the student's own character change as the lion grows into a Titan?
+- ~~Does the student's own character change as the lion grows into a Titan?~~ *Settled (Oct 2026), as drafted: she pays in feeling and cold and ends as something else, close to a Titan, not named (Book 3 ch 66, 80, 83, 86; question 15).*
 
 **Answered in Book 1:** how the Restoration expected to capture the Titan (two locks turned at once; it wanted the lion and the farmer as halters and lost the Titan when it woke, ch 68, 77; `Story.md`); whether a protagonist is partly responsible for the seal opening (in part: Calder's hand is on Corvin's wrist as the Ruin's lock turns, 76); what sacrifice forms the lion's bond (Maren offers herself into the binding, 73); which brother the student kills (Cassian, 77).
 
@@ -250,37 +250,37 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 *Everything the author still has to settle, grouped by where it bites. Each line says where the question lives.*
 
 **Series and world**
-- Kingdom names other than Saltreach: confirm or replace; are all place names final? (`README.md` continuity rules; `Style_Guide.md`; `World.md` six kingdoms; `Atlas.md`)
-- How the Clan breeds and controls dragons, and how the dragons experience it (`World.md`)
-- How common bonds are, kingdom by kingdom (`World.md`)
-- Where the elder Titans are, and what people's faiths say about them; who they are and why they help (`World.md`; **Beyond the sea** above; `Book 3/Chapter_Plan.md` questions 8–9)
-- The land beyond the sea: which sea, its name, whether people live there (**Beyond the sea** above; Book 3 question 5)
-- Why Calder could survive three bonds, and why a bond-place cut once "heals harder" (`Story.md`; **After the fall** above)
-- How the lion's and the dragons' Titan-growth changes Maren and Calder and their bonds; what becoming Titans costs the beasts (`Story.md`; open series questions above)
-- How Maren and Calder become near-Titans, and what immortality costs them (`Story.md`; **After the fall** above)
-- Which kingdom plots to be supreme: Kessmoor is the working choice in both plans (Book 3 question 3); Sarovel and Isvaren are the alternatives
-- Which Titans survive Book 3, and what happens to the destroyers (open series questions above; Book 3 question 1)
-- What elementals are, and whether the Age of Elementals gets its own books or games (open series questions above)
-- *(Composed Oct 2026, to confirm:)* tuskers and olifants have a rumble-language and remember the old realm as a map; Sarovel's royal olifants have lost it; the grey cat at Greyhold is a great cat of the old lions' kind, not a duskcat (`Bestiary.md`).
-- *(Proposed Oct 2026, to confirm:)* the three ways a bond-death has been survived (cut before death; caught by another bond; given, not taken), and how the Clan keeps its dragons (the eggs, the pens, the bargain) (`World.md`).
-- Which of the new flying creatures (`Bestiary.md`, The sky) come into the Book 2 and 3 plans, and where?
+- ~~Kingdom names other than Saltreach; are all place names final?~~ *Settled (Oct 2026), as drafted: the names as used in the drafts of Books 1–3 are final.*
+- ~~How the Clan breeds and controls dragons, and how the dragons experience it~~ *Settled (Oct 2026), as proposed in `World.md`, **How the Clan keeps its dragons**.*
+- ~~How common bonds are, kingdom by kingdom~~ *Settled (Oct 2026), as drafted (`World.md`).*
+- ~~Where the elder Titans are, and what people's faiths say about them; who they are and why they help~~ *Settled (Oct 2026), as drafted: the Lit Shore beyond the sea (Book 3 questions 5, 9).*
+- ~~The land beyond the sea: which sea, its name, whether people live there~~ *Settled (Oct 2026), as drafted: across the Shattered Sea by the drowned road, the Lit Shore (Book 3 Part Two; question 5).*
+- ~~Why Calder could survive three bonds, and why a bond-place cut once "heals harder"~~ *Settled (Oct 2026), as proposed: he was always able to carry more than one life (**After the fall** above); the three survivals of the pull (`World.md`, **When a partner dies**).*
+- ~~How the lion's and the dragons' Titan-growth changes Maren and Calder and their bonds; what becoming Titans costs the beasts~~ *Settled (Oct 2026), as drafted (Book 3 questions 14, 15).*
+- ~~How Maren and Calder become near-Titans, and what immortality costs them~~ *Settled (Oct 2026), as drafted: their beasts' deaths and power come into them (Book 3 ch 83, 84); shown, not explained (86).*
+- ~~Which kingdom plots to be supreme~~ *Settled (Oct 2026), as drafted: Kessmoor (Book 3 question 3).*
+- ~~Which Titans survive Book 3, and what happens to the destroyers~~ *Settled (Oct 2026), as drafted (open series questions above; Book 3 question 1).*
+- What elementals are, and whether the Age of Elementals gets its own books or games (open series questions above). *(First encounter settled as drafted: Book 3 ch 86.)*
+- ~~*(Composed Oct 2026, to confirm:)*~~ *Settled (Oct 2026), as composed:* tuskers and olifants have a rumble-language and remember the old realm as a map; Sarovel's royal olifants have lost it; the grey cat at Greyhold is a great cat of the old lions' kind, not a duskcat (`Bestiary.md`).
+- ~~*(Proposed Oct 2026, to confirm:)*~~ *Settled (Oct 2026), as proposed:* the three ways a bond-death has been survived (cut before death; caught by another bond; given, not taken), and how the Clan keeps its dragons (the eggs, the pens, the bargain) (`World.md`).
+- ~~Which of the new flying creatures (`Bestiary.md`, The sky) come into the Book 2 and 3 plans, and where?~~ *Settled (Oct 2026), as drafted: the shared sky of Book 3 (question 13).*
 - Where the old realm's capital stood (`Atlas.md`)
-- Name collisions: are these deliberate? "Keeper" (the Wyldmarch Keepers, `Magic.md`'s Sixth ring "Keeper of the Script", Book 2 ch 32 and the archive-bird's suggested name); "Warden" (Hearthmere's inner-circle rank and Isvaren's law-enforcers); the Marrow trading house in Wendmouth (Ch 34 notes) after Gunna was renamed away from Marrow. (The Ch 33 sergeant is renamed Tasker.)
+- ~~Name collisions: are these deliberate?~~ *Settled (Oct 2026), as drafted: "Keeper", "Warden" and the rest stay as the drafts use them.*
 - ~~"The Unbound"~~ *Settled (Oct 2026): the seventh ring keeps the name; Book 1 is* The Watch Below.
 
-**Book 2** (`Book 2/Chapter_Plan.md`, drafted, under review)
-- The plan's **Review questions for the author**: 4, 6–10, 13–21 are open, each with how the draft answers it (**Drafted as**); 1, 2, 3, 5, 11, 12 and 22 are settled, and the plan's **Settled** list holds the rest (the title *The Hunt Beneath*; who cut the black book's pages, Hale's belief, `Magic.md` §9). The most consequential still open: the Restoration's war (4) and the deaths (19). Settled as drafted (Oct 2026): Idony burned out (12) and the Clan's trust in Calder (22).
-- What the uncle–nephew alliance costs Arn and Ulric (open series question above; `Story.md`)
-- What each relic looks like (open series questions above; `Magic.md` §5)
-- The full history of the chaining (open series questions above; proposed for Book 2 ch 34)
-- Which temple the Titan reaches first (the Hollow Ring proposed; `Atlas.md`; Book 2 ch 8–20)
-- Old Grey's recovery (`Story.md`)
-- Where Corvin got his older key for the Ruin's lock (`World.md`, **The keys**)
+**Book 2** (`Book 2/Chapter_Plan.md`, drafted, review settled)
+- The plan's **Review questions for the author** are all settled (Oct 2026): 4, 6–10 and 13–21 approved as drafted; 1, 2, 3, 5, 11, 12 and 22 settled earlier.
+- ~~What the uncle–nephew alliance costs Arn and Ulric~~ *Settled (Oct 2026), as drafted: their union in Book 2; Ulric dies on the Council steps (Book 3 ch 19) and leaves Arn alone.*
+- ~~What each relic looks like~~ *Settled (Oct 2026), as drafted (open series questions above).*
+- ~~The full history of the chaining~~ *Settled (Oct 2026), as drafted (Book 2 ch 34).*
+- ~~Which temple the Titan reaches first~~ *Settled (Oct 2026), as drafted: the Hollow Ring (Book 2 ch 18–20; `Atlas.md`).*
+- ~~Old Grey's recovery~~ *Settled (Oct 2026), as drafted: he follows Wren of his own will; at the end he stands by her and doesn't understand her (Book 3 ch 80, 86; `Story.md`).*
+- ~~Where Corvin got his older key for the Ruin's lock~~ *Settled (Oct 2026): their father found it digging a drain under the grooms' yard (Book 2 ch 76, 77; `World.md`, **The keys**).*
 
-**Book 3** (`Book 3/Chapter_Plan.md`, revision 3; chapters 1–86 in first draft)
-- The plan's review questions 1–33, each with how the draft answers it; 24–33 were raised in drafting 51–86 (Varrhold buried, the count of 555, the Antlered's stone in Maren, Liss's pin, the last line of 86). Check the dependency on Book 1 ch 70, which already restores Ennis's face and name.
-- How Corvin dies, and whether he is redeemed (`Story.md`; Book 3 question 7: drafted unredeemed)
-- Whether Idony stays unbonded through Book 3 (`Magic.md` §11; Book 3 question 19: drafted unbonded)
+**Book 3** (`Book 3/Chapter_Plan.md`, revision 3; chapters 1–86 in first draft, review settled)
+- The plan's review questions 1–32 are settled (Oct 2026), approved as drafted, including 24–32 raised in drafting 51–86 (Varrhold buried, the count of 555, the Antlered's stone in Maren, Liss's pin). **Still open: 33, the last line of ch 86, the author's to write.** Check the dependency on Book 1 ch 70, which already restores Ennis's face and name.
+- ~~How Corvin dies, and whether he is redeemed~~ *Settled (Oct 2026), as drafted: unredeemed (question 7).*
+- ~~Whether Idony stays unbonded through Book 3~~ *Settled (Oct 2026), as drafted: unbonded (question 19; `Magic.md` §11).*
 
 **Publishing** (`Publishing.md`)
 - What "simplified" means for the print text (it must cut roughly a third of Book 1's draft), and whether print comes out with the ebook or later

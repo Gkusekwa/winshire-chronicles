@@ -277,6 +277,6 @@
 
 ## Open questions
 
-- Kingdom names other than Saltreach are working names; the river's name (the Wend) and every place name here are proposals.
+- ~~Kingdom names and place names~~ *Settled (Oct 2026), as drafted: the names as used in the drafts of Books 1–3 are final.*
 - Where did the old realm's capital stand? The Oneroad's course suggests the Marches; the Restoration believes so.
-- Which temple does the Titan reach first in Book 2? The nearest by road from the Marches are the Hollow Ring and the Scald.
+- ~~Which temple does the Titan reach first in Book 2?~~ *Settled (Oct 2026), as drafted: the Hollow Ring (Book 2 ch 18–20).*

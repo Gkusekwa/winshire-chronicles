@@ -197,15 +197,17 @@ The two protagonists argue these themes from opposite sides. The student has wor
 
 ## Open story questions
 
-**Still open:**
-- Why can the farmer sustain three bonds? *(He took the pull of three deaths at once at the mill (18); why he could survive it stays open for Books 2–3. Series proposal: he was always able to carry more than one life, `Series_Outline.md`.)*
-- What does the uncle and nephew's alliance cost each of them? *(Not reached in Book 1: Arn and Ulric are still at war at its end. `Book 2/Chapter_Plan.md` proposes their union.)*
-- Why does a bond-place cut once "heal harder"? *(Proposed Oct 2026 in `World.md`, **When a partner dies**: the three survivals of the pull, and why none is a method. To confirm.)*
-- How does the lion's growth into a Titan change Maren, and her bond?
-- How do the dragons' growth to Titan class change the farmer?
-- How does Corvin die in Book 3? *(`Book 3/Chapter_Plan.md`, question 7; drafted unredeemed, taken whole by the relic, ch 74.)*
-- How do the student and the farmer become near-Titans, and what does immortality cost them? *(Outline in `Series_Outline.md`; details open.)*
-- Does Old Grey come back? *(Begun in Book 1, ch 69: inside Greyhold's gate he takes one step toward Wren's voice with nobody driving him, his first act of his own will; his eyes are still empty. Book 2 proposal: he follows Wren of his own accord and recovers.)*
+**None open.** *The author approved every drafted answer below (Oct 2026).*
+
+**Settled (Oct 2026), as drafted:**
+- ~~Why can the farmer sustain three bonds?~~ He was always able to carry more than one life (`Series_Outline.md`); he took the pull of three deaths at once at the mill (18).
+- ~~What does the uncle and nephew's alliance cost each of them?~~ Their union in Book 2; Ulric dies on the Council steps (Book 3 ch 19) and leaves Arn alone.
+- ~~Why does a bond-place cut once "heal harder"?~~ As proposed in `World.md`, **When a partner dies**: the three survivals of the pull, and why none is a method.
+- ~~How does the lion's growth into a Titan change Maren, and her bond?~~ She pays in feeling and cold; at his death his power comes into her and she ends something else, close to a Titan, not named (Book 3 ch 66, 80, 83, 86).
+- ~~How do the dragons' growth to Titan class change the farmer?~~ He pays in burns, eyes and breath; at their deaths their fire, wind and sight are whole in him (Book 3 ch 84).
+- ~~How does Corvin die in Book 3?~~ Unredeemed, taken whole by the relic (Book 3 ch 74; plan question 7).
+- ~~How do the student and the farmer become near-Titans, and what does immortality cost them?~~ Their beasts' deaths and power come into them (Book 3 ch 83, 84); shown, not explained (86).
+- ~~Does Old Grey come back?~~ Begun in Book 1 ch 69; in Book 2 he follows Wren of his own will; at the end he stands by her and doesn't understand her (Book 3 ch 80, 86).
 
 **Answered in Book 1** (where):
 - The protagonists' names: Maren Ashdown and Calder Fenn (`Characters.md`).

@@ -1,5 +1,7 @@
 # Rulings made during the Chapters 41–79 review (drafter's calls; flagged for the author)
 
+*All confirmed by the author (Oct 2026), as drafted.*
+
 1. Pushing a sight to a bonded dragon on purpose (Ch 42) is allowed, the same way memories are shown on purpose: effort, intent, consent. Live sight is not shared otherwise.
 2. The crossed hammers are Odo Marl's stamp. Confirmed.
 3. "Three hundred years" is the chains' age; Aurveth's age stays "more than three hundred". No link is stated.

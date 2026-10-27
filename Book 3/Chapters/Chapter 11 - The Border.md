@@ -10,7 +10,7 @@ Echo of another story: Lisska over the Saltings, a courier says, holding Corsa's
 Status: first draft
 Draft notes: Days 44–50. Decided here (proposals):
 - **The march, days 44–46**: Saltreach's empty scrub and moor between the Ysse and the Wend: dead ground, grey grass the stonehorns crop to the dirt and still go thin; the column a league and a half long; Keepers' wolves on the flanks; children walking now, the mares too tired to carry two. Tova counts the dead every dusk: eleven since the Ysse (old people, two infants, a herd-man gored). Maren's feet: feeling back, but cold in the mornings since the ridge (ch. 7). A Greyhold falcon over them on day 45: Rowan's outrider (ch. 10).
-- **Day 47, the border**: the Greenwold road's ford on the upper Wend, under the Greenwold's edge; the barricade gone, its oak trunks lying in the ditch, the ditch planked; on the road where it goes into the oaks, Rowan alone on her greyhart with the white blaze; behind her, drawn up on both sides of the road, her twelve, Crale's old dozen and sixty crown men, in two lines, facing each other across the road like a lane at a wedding. Rowan to Maren: "You're outlawed. By name. Five hundred crowns. I signed it." "I know you did." "And I'm Marshal of the Border. The road's in my keeping." She turns her greyhart side-on to the road. **They let the clans in between them**: Orrun lies down at the planks on one side, Rowan sits her greyhart at the other, and ten thousand people and their herds walk between the lion and the knight into the oaks, all afternoon and into the dark. Neither of them says anything the whole time. Tova at the end: "Is that your captain?" "She's the crown's marshal." "She looks like a captain."
+- **Day 47, the border**: the Greenwold road's ford on the upper Wend, under the Greenwold's edge; the barricade gone, its oak trunks lying in the ditch, the ditch planked; on the road where it goes into the oaks, Rowan alone on her big grey horse with the white blaze; behind her, drawn up on both sides of the road, her twelve, Crale's old dozen and sixty crown men, in two lines, facing each other across the road like a lane at a wedding. Rowan to Maren: "You're outlawed. By name. Five hundred crowns. I signed it." "I know you did." "And I'm Marshal of the Border. The road's in my keeping." She turns her horse side-on to the road. **They let the clans in between them**: Orrun lies down at the planks on one side, Rowan sits her horse at the other, and ten thousand people and their herds walk between the lion and the knight into the oaks, all afternoon and into the dark. Neither of them says anything the whole time. Tova at the end: "Is that your captain?" "She's the crown's marshal." "She looks like a captain."
 - **The Greenwold**: Rowan's terms, at the fire: the crown's hunting forest, unhunted a year; grass in the glades under the oaks; the clans to keep inside the wood and off the farmland; no grain, but the aurochs are the crown's and the crown isn't using them; the stonehorns' calves, the Keepers' wolves at the edges. Tova: "We'll take the aurochs." Rowan: "Not all of them." The thing between them stays unsaid: the jetty road, Rowan's turned back.
 - **Day 49, the courier**: **Dickon** (new: a boy from the Staithe, twelve) on a ferry pony from the river, two days up the River Road, with Idony's readings in Liss's big round hand (she writes for him now Davin's back in Hallowmere): **the six have divided**: the Bell first (day 25, ch. 9), then the other five on day 41: each turned toward the ground it slept under: the Pale Coil north toward Isvaren; the Furnace west and north toward Kessmoor; the Horned Sun west and south toward Sarovel; the Antlered back east toward the Thornwood; **the Last Titan west, toward Hearthmere**; the six leans, already breathing apart since day 9 (ch. 4), now point six ways. *It's going home. Like the others. Its home is under you.*
 - **Day 50, Kessmoor's call**: a Kessmoor rider in black and grey, on a horse that's never been bonded to anything, with a printed sheet (Kessmoor prints): *To every kingdom of Winshire, and to the lion's knight and the dragons' farmer: the Hall of Measures at Ironhythe, the sixtieth day.* Rowan is named in hers as Marshal; Maren is named as *the lion's knight*, not by name, which is how Kessmoor gets round outlaws. Rowan: "Go." "You'll go?" "I'm the crown's marshal. The crown will send me because nobody else will go." Tova will go for the Wyldmarch.
@@ -102,9 +102,9 @@ There wasn't a barricade.
 
 There had been. On the far bank, past the ford. The oak trunks were in the ditch at the side of the road, three deep, where something had dragged them. The ditch across the road had planks over it. Wide enough for a cart.
 
-And beyond the planks, on the road, where it went in under the first of the oaks, a woman on a greyhart.
+And beyond the planks, on the road, where it went in under the first of the oaks, a woman on a horse.
 
-Small. Neat. Iron-grey hair cut short. A white surcoat with a long darn down one side. A big grey greyhart with a white blaze, standing very still.
+Small. Neat. Iron-grey hair cut short. A white surcoat with a long darn down one side. A big grey horse with a white blaze, standing very still.
 
 Behind her, on both sides of the road, men. Knights on greyharts and crown men on foot. In two lines. Facing each other across the road. As if they were waiting for a wedding to come down it.
 
@@ -132,7 +132,7 @@ Rowan's face didn't change.
 
 "And I'm Marshal of the Border," said Rowan. "Since the forty-second. The road's in my keeping."
 
-She turned her greyhart. Not away. Side-on. Across the road's edge, on the far side, at the end of the right-hand line of men. So that the road was open in front of her, down the lane between the lines, and into the oaks.
+She turned her horse. Not away. Side-on. Across the road's edge, on the far side, at the end of the right-hand line of men. So that the road was open in front of her, down the lane between the lines, and into the oaks.
 
 ---
 
@@ -140,7 +140,7 @@ Maren looked at the road.
 
 Then she put her hand on Orrun's neck, and he lay down.
 
-Across the near side. At the end of the left-hand line, on the planks' edge. On the road. His great head toward the oaks and his tail back toward the river. A wall on one side of the road, and a woman on a greyhart on the other.
+Across the near side. At the end of the left-hand line, on the planks' edge. On the road. His great head toward the oaks and his tail back toward the river. A wall on one side of the road, and a woman on a horse on the other.
 
 Between them, the way in.
 
@@ -156,7 +156,7 @@ The crown men stood in their lines and watched them go by. A woman with a baby o
 
 Rowan didn't move.
 
-All afternoon. On her greyhart at the other side of the road. Maren could see her across the column, between the carts, and then not, and then again. Sitting very straight. Watching the clans come in.
+All afternoon. On her horse at the other side of the road. Maren could see her across the column, between the carts, and then not, and then again. Sitting very straight. Watching the clans come in.
 
 Neither of them said anything.
 
@@ -168,7 +168,7 @@ Then the road was empty.
 
 Tova had waited.
 
-At the oaks' edge, on her bay mare. She'd been first in and she'd sat there the whole afternoon and watched every one of them come past, and when the last was in she rode back a little way, toward the planks, and looked across the road at the knight on the greyhart.
+At the oaks' edge, on her bay mare. She'd been first in and she'd sat there the whole afternoon and watched every one of them come past, and when the last was in she rode back a little way, toward the planks, and looked across the road at the knight on the grey horse.
 
 "Is that your captain?" she said.
 

@@ -275,7 +275,7 @@ The hearts glowed in their cages. The heat came up.
 
 Rowan said it first.
 
-Alone. In front of the ranks, on her greyhart with the white blaze, with the thing coming up the last slope of the Downs toward her a half-league off.
+Alone. In front of the ranks, on her grey horse with the white blaze, with the thing coming up the last slope of the Downs toward her a half-league off.
 
 "*Stand.*"
 
@@ -363,7 +363,7 @@ And the Titan came over the ridge.
 
 She didn't see all of it.
 
-She was on her greyhart, on the ridge's back slope, shouting. She saw the ones who hadn't heard the horn. Or had, and stood anyway, because six hundred voices had been saying *stand* for an hour and they couldn't stop. The voices broke when the ward went. Some ran then. Some didn't.
+She was on her horse, on the ridge's back slope, shouting. She saw the ones who hadn't heard the horn. Or had, and stood anyway, because six hundred voices had been saying *stand* for an hour and they couldn't stop. The voices broke when the ward went. Some ran then. Some didn't.
 
 She saw the foot come down on the cutting.
 

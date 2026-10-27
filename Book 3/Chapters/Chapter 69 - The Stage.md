@@ -9,7 +9,7 @@ Beats: Idony with Rowan's staff at the hub. The Lamp reaches the Last Titan. Tob
 Echo of another story: On the Bridle's stage, a man takes off his hood.
 Status: first draft
 Draft notes: Day 319, the half-hour before noon. Decided here (proposals):
-- **Rowan's staff at the hub**: on the ferry-house landing and the slope above it: Davin (sent off at the third hour to the bend with the casualty lists), four runners, a Hearthmere signaller with flags, **Idony in his chair** with three tide-glasses on a board on his knees, two knights of his guard. Rowan herself on the Hearthmere wall's top at its river end (four hundred paces off along the bank, past the Ferry Flat's western edge), on her greyhart, watching the eddy.
+- **Rowan's staff at the hub**: on the ferry-house landing and the slope above it: Davin (sent off at the third hour to the bend with the casualty lists), four runners, a Hearthmere signaller with flags, **Idony in his chair** with three tide-glasses on a board on his knees, two knights of his guard. Rowan herself on the Hearthmere wall's top at its river end (four hundred paces off along the bank, past the Ferry Flat's western edge), on her horse, watching the eddy.
 - **The glasses**: as the Lamp's horn goes into the plates, all three glasses climb to the top and the quicksilver shakes; "The relic's waking. It knows something unbound is touching it."
 - **Tobin** at the half-hour, running up from the Flat, coal-black to the elbows: **Callis told him** at the seventh engine's bed: the packets say: *When the relic is in reach, the batteries take it. The Bridle's chains to the Titan. The engines to breathe. The reader to the stage. The batteries to leave the line and hold the Bridle. On the hour, without further word.* (Callis heard Corvin and the battery-masters at Ironhythe; he's Corvin's man.) **And why**: they read it in the notes they bought (through Ostrey): *It answers a breath that is unbound*; **Gannet's gloss (*breath = the Deep. The sleepers' breathing. / unbound = nothing holding it*)** and Idony's margin; Kessmoor's engineers read it as: **a heartstone engine breathes the Deep with nothing between it and the Deep: no bond, no beast, no person: unbound**; **"An engine breathes too."** The Bridle's twelve engines are the breath; the ring's six hollows (five for the sleep relics, one for the control relic: the Bridle was made to take the whole back) and the script on its inner face speak to the chain-ends' *hold*; **the stage is for the reader**, to say the chain-words with his hand on the ring.
 - **Idony understands** in a breath: *they're not wrong enough*. A heartstone engine *is* the Deep with nothing between; the old ones' line, read by an engineer; it might even answer; **and if it answers a chained Titan held by engines, it isn't the Lamp carrying the six into the light; it's Kessmoor holding them**. And the Lamp is on the Last Titan's back with its horn in the plates and every bolt-thrower on the Flat pointed at the eddy.
@@ -41,7 +41,7 @@ On his knees, on a board, three glasses.
 
 The Marshal herself was on the wall.
 
-The Hearthmere wall's river end. Four hundred paces off along the bank, past the Ferry Flat's western edge, where the knight's grey rampart came down to the water. On her greyhart, with two swords at her belt, watching the eddy.
+The Hearthmere wall's river end. Four hundred paces off along the bank, past the Ferry Flat's western edge, where the knight's grey rampart came down to the water. On her horse, with two swords at her belt, watching the eddy.
 
 He could see her from the slope. Small. Still.
 
@@ -377,7 +377,7 @@ He put his iron hand on it.
 
 ---
 
-He shouted it. He thought he shouted it. He was on his knees on the frozen bank by the magazine, with the cold mud through his knees, three hundred paces from the wall's river end where she sat her greyhart looking at the eddy.
+He shouted it. He thought he shouted it. He was on his knees on the frozen bank by the magazine, with the cold mud through his knees, three hundred paces from the wall's river end where she sat her horse looking at the eddy.
 
 "*Rowan.*"
 

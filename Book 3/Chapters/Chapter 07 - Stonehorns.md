@@ -29,7 +29,7 @@ On the sixteenth day. Alone, with the lion. Rowan had said don't go by the Green
 
 The Ysse.
 
-It came down out of the Worldsend, out of the lake, cold and green and fast. The Plains' own river. Here, at the eastern edge of everything, the empty country on this side. The Plains on the other.
+It came down out of the Worldsend, out of the lake, cold and green and fast. The Plains' own river. Here, at the eastern edge of everything, it ran between the empty country on this side and the Plains on the other.
 
 There was no one at the drove ford. There were stones in the water with the drovers' marks on them, and a cairn on the far bank.
 

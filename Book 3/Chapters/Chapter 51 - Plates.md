@@ -396,7 +396,7 @@ He'd signed it. He'd signed it without reading it, because Arn had, and he'd wan
 
 "The recovery is begun now," said Pike, "so that the matter's safe. Things go missing in a war, Master Fenn. You'll have heard of a Halloran house." She closed the book. "The clause covers custody from recovery. Clause four. You'll find it."
 
-He wouldn't find it. He couldn't read the clauses. He could read his name.
+He wouldn't find it. He could read a letter now, slowly. Not Kessmoor's clauses.
 
 ---
 
@@ -466,13 +466,13 @@ She looked at him.
 
 ---
 
-He found her after. In the barn's yard, in the dark, alone, by the water-trough, with her greyhart drinking.
+He found her after. In the barn's yard, in the dark, alone, by the water-trough, with her horse drinking.
 
 "I know," she said, before he'd said anything.
 
 "Then why?"
 
-She was quiet a long time. The greyhart lifted its head out of the trough and looked at him with water running off its muzzle.
+She was quiet a long time. The horse lifted its head out of the trough and looked at him with water running off its muzzle.
 
 "Because I signed it," said Rowan. "And so did you."
 

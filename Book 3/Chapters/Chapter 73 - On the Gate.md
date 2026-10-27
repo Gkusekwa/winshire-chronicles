@@ -9,8 +9,8 @@ Beats: Rowan brings Hearthmere's last knights into the gap, bonded and unbonded 
 Echo of another story: A man with an iron hand climbing toward the coal in the Last Titan's back.
 Status: first draft
 Draft notes: Day 319, noon to mid-afternoon. Decided here (proposals):
-- **Noon**: Rowan on her greyhart on the wall's river end sees the packets opened, the jibs swing, the bolts go into the Lamp, the smoke; **the falcon knight** (69) reaches her by the wall's foot a few breaths after noon with Idony's message: too late; Rowan: "I know. I can see it."
-- **Her greyhart** goes in the smoke under her: rears, throws her on the wall's top, bolts; she gets up with Haverly's edge and her own sword.
+- **Noon**: Rowan on her horse on the wall's river end sees the packets opened, the jibs swing, the bolts go into the Lamp, the smoke; **the falcon knight** (69) reaches her by the wall's foot a few breaths after noon with Idony's message: too late; Rowan: "I know. I can see it."
+- **Her horse** goes in the smoke under her: rears, throws her on the wall's top, bolts; she gets up with Haverly's edge and her own sword.
 - **The word to every camp**: she sends all four runners and the signaller's flags: **"Run north. Every camp. Now. The Drover's Way. The River Road. Any road north. By the Marshal's word."** (Her word, the only one she has left that anybody will obey.) The signaller's flags go along the wall; the Saltreach bank's signaller answers.
 - **The gap**: the Hearthmere battery's sector beside the Ferry Flat, empty since Kessmoor's crews went in; **the Coil** coming through it from the river (it came down the channel into the bend's sector and along the river's edge behind the wall, 72) **into the Hearthmere camp's eastern end**, where the camp's road runs north-west to the River Road; thousands on it.
 - **The knights**: what's left at the bend and the hub: **ninety**, on foot; **bonded and unbonded together**: the bonded on foot because their greyharts and hounds have run mad (some of the hounds dead by their own knights' hands; some of the knights dead by their hounds'); **Wynn** alive, his forearm torn where he put it up against Ash's teeth, Sorrow at his knee still (Sorrow came back through the smoke; Ash didn't); the woman with the falcon; militia with pikes; a few of Mattias's unchosen on foot. Rowan: **"On the gate, there is no bond."** (Greyhold's oldest rule: on the river gate bonded and unbonded stand as equals: one sword, one pair of eyes.) They form across the gap: **a line of people, not a chain**, to hold the camp's north road open behind them.
@@ -45,7 +45,7 @@ Hers.
 
 She didn't move.
 
-She sat on her greyhart on the wall's top at its river end, with two swords at her belt, and watched Kessmoor take her line apart, and didn't move, for the space of three breaths.
+She sat on her horse on the wall's top at its river end, with two swords at her belt, and watched Kessmoor take her line apart, and didn't move, for the space of three breaths.
 
 Three breaths. She'd remember that. If there was anything to remember with.
 
@@ -69,7 +69,7 @@ Then the smoke reached the wall.
 
 Yellow-grey. Rolling. Over the wall's top. Sweet. Burnt. Into her mouth.
 
-And the greyhart went.
+And the horse went.
 
 ---
 
@@ -77,7 +77,7 @@ Under her. She felt it go. Not a shy. Something going out of it. Its head coming
 
 It reared.
 
-She went off. Backwards. Over its quarters. Onto the wall's top, onto the stone, on her back, hard. And the greyhart came down on its forefeet where her head had been, and screamed, and was gone. Along the wall. Into the smoke. At a gallop.
+She went off. Backwards. Over its quarters. Onto the wall's top, onto the stone, on her back, hard. And the horse came down on its forefeet where her head had been, and screamed, and was gone. Along the wall. Into the smoke. At a gallop.
 
 The white blaze, going.
 

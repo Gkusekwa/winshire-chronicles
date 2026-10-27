@@ -66,7 +66,7 @@ A big woman with scarred forearms banged a pan when they reached the camp's edge
 
 She saw Tam at a camp forge on the hundred-and-forty-sixth.
 
-He'd come down the Iron Road with Kessmoor's wagons. He was shoeing a horse at a field-forge by the pontoon, broad, burned, with his sister's eyes in his thin face. He looked up when she went by on her greyhart.
+He'd come down the Iron Road with Kessmoor's wagons. He was shoeing a horse at a field-forge by the pontoon, broad, burned, with his sister's eyes in his thin face. He looked up when she went by on her horse.
 
 She nodded. He nodded back.
 

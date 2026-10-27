@@ -32,7 +32,7 @@ One of the girls. Fifteen, grey felt, a face blue with cold. Her bird came down 
 
 Maren looked at the Wend. Grey. Running. Turning in the eddy below the wall the wrong way.
 
-"Not here," said the girl. "Up. North. From the border to below Eskby. Halfway to us. In the night." She put her hands under her arms. "Black ice. You can see through it. A yard thick. I came down over it at dawn. You can see the bottom."
+"Not here," said the girl. "Up. North. From the border to below Eskby. In the night." She put her hands under her arms. "Black ice. You can see through it. A yard thick. I came down over it at dawn. You can see the bottom."
 
 ---
 

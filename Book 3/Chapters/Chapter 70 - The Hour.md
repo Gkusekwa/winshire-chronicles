@@ -214,7 +214,7 @@ Wynn's hound. The big grey one, that had come to Maren's pockets in the kennels 
 
 The greyharts bolted.
 
-Through the militia. Three hundred of them. Grey, long-legged, white-blazed, with their eyes white. Through the lines behind the wall. Knocking people down. As a horse runs out of a burning barn.
+Through the militia. Three hundred of them. White, long-legged, the whites of their eyes showing. Through the lines behind the wall. Knocking people down. As a horse runs out of a burning barn.
 
 ---
 

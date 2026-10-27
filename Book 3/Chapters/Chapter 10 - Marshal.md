@@ -9,7 +9,7 @@ Beats: Rowan's first POV. Hallowmere, still dead ground; the knights' hounds and
 Echo of another story: Couriers: the outcast knight is at the border with ten thousand people and their herds.
 Status: first draft
 Draft notes: Days 30–45. Decided here (proposals):
-- **The summons**, day 29 at Liss's ferry house: the council's rider: Captain Ilse Rowan to Hallowmere, "to answer for a knight of her school". The report of the crown's outriders (ch. 7, dusk 24) went by falcon to Sir Hamon Crale's post at the Greenwold road's ford on the upper Wend, about 47 leagues from Hallowmere; Crale followed it and reached Hallowmere on day 27. Day 30 she rides with **twelve knights** and **Wynn** with Ash and Sorrow; the rest of the forty stay at the river under Sir Aldous Pryne *(Book 1)* with Liss's rope. Three days by the King's Road on greyharts, west over the downs.
+- **The summons**, day 29 at Liss's ferry house: the council's rider: Captain Ilse Rowan to Hallowmere, "to answer for a knight of her school". The report of the crown's outriders (ch. 7, dusk 24) went by falcon to Sir Hamon Crale's post at the Greenwold road's ford on the upper Wend, about fifty-five leagues from Hallowmere; Crale followed it and reached Hallowmere on day 27. Day 30 she rides with **twelve knights** and **Wynn** with Ash and Sorrow; the rest of the forty stay at the river under Sir Aldous Pryne *(Book 1)* with Liss's rope. Three days by the King's Road on greyharts, west over the downs.
 - **Hallowmere, day 32**: dead ground still; the lamps glass; the sweet wells brackish; the Mere grey and low; bread queues; the noon bell that nobody faces. The only working thing: the knights' beasts. In the lower town a child is lost in the tanners' lanes; Wynn puts Ash on the shoe; Ash finds her in a dry cistern in a quarter of an hour; a crowd follows the hound through the streets as if it were a lamp; nobody in the city has seen anything *work* in two years. Rowan: a bond isn't the Deep; it's two animals agreeing.
 - **The council, day 33**, in the crown's chapter-house on the Crown's Square: **Lord Ambrose Thale** presiding *(Book 2 ch. 46)*; **Sir Hamon Crale** (new: the knight-captain of the crown's post at the Greenwold road's ford on the Wend, whose outriders saw the crossing, ch. 7; heavy, red-faced, honest, frightened of the lion and ashamed of it): ten thousand across the Ysse at the drove fords, and the herds, and the outcast knight on a lion the size of a barn. The council: the line at the Wend holds; the clans stay on the far side, on Saltreach's empty moor between the Ysse and the Wend; no grain. **The outlawry**: Maren Ashdown, a knight of Greyhold, outlawed by name, a price of five hundred crowns; it needs her school's captain to sign. **Rowan signs it** (she said she would: ch. 4). Then asks what Crale's knights are to do when ten thousand people come to the barricade with a Titan behind them. Thale: "Turn them back." "With what?" Nobody answers.
 - **Davin** on the chapter-house steps after (the tribunes' clerk, ch. 3): he read Maren's letter to the square on day 20; the tribunes are asking for the clans to be let in, and the council has stopped answering the tribunes. "Did you sign it?" "Yes." Davin: "She said you would."
@@ -90,7 +90,7 @@ Ash put his nose down and went.
 
 It took a quarter of an hour.
 
-Through the tanners' lanes, and the dyers', and across a yard full of hides stretched on frames, and down a stair, with Wynn running behind and Sorrow running behind Wynn, and the woman behind them both. And Rowan on her greyhart, walking, at the back. And behind Rowan, by the end, half the lower town.
+Through the tanners' lanes, and the dyers', and across a yard full of hides stretched on frames, and down a stair, with Wynn running behind and Sorrow running behind Wynn, and the woman behind them both. And Rowan on her horse, walking, at the back. And behind Rowan, by the end, half the lower town.
 
 They came out of their doors to watch. They followed. Men off the tanning-pits with their arms stained to the elbows. Old women. Children. A crowd. Following a hound through the streets as if it were a lamp being carried.
 
@@ -324,7 +324,7 @@ He looked at her twelve. He didn't ask why she'd come. He knew.
 
 ---
 
-She got down off her greyhart and walked up to the barricade and looked over it.
+She got down off her horse and walked up to the barricade and looked over it.
 
 East. Over the ford. The road going on up the far bank onto the moor, empty. Somewhere out there, eight days off, ten, ten thousand people walking west at a herd's pace.
 

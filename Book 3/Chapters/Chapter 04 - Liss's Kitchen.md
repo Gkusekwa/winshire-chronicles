@@ -159,7 +159,7 @@ The rider looked at her. Then at the grey man at the window with his glasses. He
 
 "West where?"
 
-"Here," said the rider. "Hearthmere. Over the Wend." He looked at Maren. "There's nowhere else. Everything east of the Wyldmarch is mountains. Everything north is the High Crown. Everything south is dead from the drain. A hundred leagues of it. West there's the scrub and the moor, and nothing on them. The only land past that that'll feed a herd is yours."
+"Here," said the rider. "Hearthmere. Over the Wend." He looked at Maren. "There's nowhere else. Everything east of the Wyldmarch is mountains. Everything north is the High Crown. Everything south is dead from the drain. A hundred leagues of it. West there's the scrub and the moor, and nothing on them. The only land past it that'll feed a herd is yours."
 
 He looked at the fallen hill through the window.
 

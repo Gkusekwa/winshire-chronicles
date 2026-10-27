@@ -9,7 +9,7 @@ Beats: The wards hold, one on each bank. Sarovel's olifants stand as walls; Hear
 Echo of another story: Three colours of dragon against the smoke over the Saltreach bank, and the rocs' grey among them.
 Status: first draft
 Draft notes: Day 318. Decided here (proposals):
-- **Rowan's day**: on her greyhart with the white blaze along the Hearthmere wall's top (a road's breadth) from the river end to the bend and back, with Davin on a pony behind and four runners; Haverly's edge on her left hip, dark.
+- **Rowan's day**: on her grey horse with the white blaze along the Hearthmere wall's top (a road's breadth) from the river end to the bend and back, with Davin on a pony behind and four runners; Haverly's edge on her left hip, dark.
 - **The ward on the Hearthmere bank**: the Last Titan walks along it from the bend toward the river all morning, its head on it; where it touches the ward goes white; **the voices under it**: when the white comes near a stretch of the line the people under it say the words again, and again, and it holds; Rowan learns to ride ahead of the white and start the words.
 - **The olifants**: as the Last Titan comes along the ward toward the Sarovel sector, the sixty olifants **stand as walls in a double row behind the wall's top**, trunks curled, eyes shut, and don't move even when the ward goes white a spear's length over their heads; Mattias's unchosen behind them on the white steeds, which shy and are held.
 - **The greyharts at the bend**: the Furnace's push heaves the ground at the bend (the stone lions in the wall's face hold it, 64); a stretch of the line behind the bend breaks at the fourth hour (a gully opening, steam, militia falling back); **the greyharts carry the knights** along the bank where the line bends back to the river, three hundred at a gallop on the wall's top and its foot, to the break; Wynn and Ash and Sorrow first; they hold it.
@@ -26,7 +26,7 @@ notes -->
 
 She rode the wall all day.
 
-From the river end to the bend. And back. On the white-blazed greyhart, along the wall's top, which was a road's breadth and had a road's surface now from ninety-eight thousand feet walking it. Davin behind her on a pony with his case. Four runners on foot, young, fast, who'd been corn-exchange porters at Hallowmere.
+From the river end to the bend. And back. On the white-blazed grey horse, along the wall's top, which was a road's breadth and had a road's surface now from ninety-eight thousand feet walking it. Davin behind her on a pony with his case. Four runners on foot, young, fast, who'd been corn-exchange porters at Hallowmere.
 
 Haverly's edge on her left hip. Pulling her to the left. Dark.
 
@@ -144,7 +144,7 @@ And they went.
 
 ---
 
-Along the bank. On the wall's top and at its foot. Three hundred greyharts at a gallop, grey, long-legged, white-blazed, the knights on them low, the hounds running beside. Along the line where it bent back toward the river. To the gap.
+Along the bank. On the wall's top and at its foot. Three hundred greyharts at a gallop, white, long-legged, the knights on them low, the hounds running beside. Along the line where it bent back toward the river. To the gap.
 
 Wynn first. On his grey. With Ash and Sorrow running at his knee, the two great hounds, their tongues out.
 
@@ -208,9 +208,9 @@ The Furnace came up at the fourth hour after noon.
 
 ---
 
-She was at the river end. Coming back along the wall from the bend. She felt it before she saw it. The wall's top under her greyhart's feet, shaking. Not the Last Titan's walking. A deeper shaking. Under. Coming.
+She was at the river end. Coming back along the wall from the bend. She felt it before she saw it. The wall's top under her horse's feet, shaking. Not the Last Titan's walking. A deeper shaking. Under. Coming.
 
-The greyhart stopped. Its ears flat.
+The horse stopped. Its ears flat.
 
 And on the Ferry Flat below her, by the magazine, the ground split.
 
@@ -274,7 +274,7 @@ The rest didn't stop.
 
 She rode down off the wall onto the Flat.
 
-There was nothing she could do. She had a dark sword and a greyhart. She rode down anyway, to the Bridle's edge, and sat there, and the greyhart stood under her shaking, and she watched the Furnace drag the chains toward the engines.
+There was nothing she could do. She had a dark sword and a horse. She rode down anyway, to the Bridle's edge, and sat there, and the horse stood under her shaking, and she watched the Furnace drag the chains toward the engines.
 
 And looked at the Bridle.
 
@@ -338,7 +338,7 @@ The line cheered.
 
 She heard it start on the Flat. Kessmoor's crews. Then the batteries across the river. Then the wall. Then all of it. Both banks. Ninety-eight thousand. Under the wards. The first one. The first destroyer of the battle. Killed.
 
-She sat on her greyhart at the Bridle's edge and didn't cheer.
+She sat on her horse at the Bridle's edge and didn't cheer.
 
 ---
 
@@ -360,7 +360,7 @@ And holding it there.
 
 She remembered.
 
-She sat on the greyhart and remembered it, and looked at the Last Titan with its head up, and knew.
+She sat on the horse and remembered it, and looked at the Last Titan with its head up, and knew.
 
 And she couldn't have done anything else. It had come up under the batteries. It would have had the Bridle's engines and the magazine and a hundred casks of resin and the whole centre of the line. Something had to stop it. Something had.
 
@@ -386,7 +386,7 @@ Unfired.
 
 She was glad.
 
-She sat on the greyhart and looked at it and was glad of it, all the way through. It hadn't been needed. The wards had held. The chilled chains had held. The Lady had come. The line had held. On her word, and no other, and she hadn't said the word.
+She sat on the horse and looked at it and was glad of it, all the way through. It hadn't been needed. The wards had held. The chilled chains had held. The Lady had come. The line had held. On her word, and no other, and she hadn't said the word.
 
 It sat there, cold, a fallback. As she'd said it would.
 
@@ -420,4 +420,4 @@ Rocs. Three. Yeva's. What was left of the four. Turning with the dragons over th
 
 She watched them until they came down on the ridge.
 
-Then she turned the greyhart and rode back up onto the wall, and along it, in the dark, from fire to fire, to the bend, saying the words to anyone who was still awake.
+Then she turned the horse and rode back up onto the wall, and along it, in the dark, from fire to fire, to the bend, saying the words to anyone who was still awake.

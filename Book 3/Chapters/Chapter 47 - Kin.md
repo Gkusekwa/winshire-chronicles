@@ -407,7 +407,7 @@ She sat on the bench by the empty door with the grass going cold under her.
 
 Then she climbed up.
 
-His mane. His brow. To the place between his ears where she could see from. She sat with her good hand in the grey stone-hair and looked east over the Marches, over the camp's fires and the pale river and the flat dark country beyond, toward the Wyldmarch, where a forest walked round a thing that couldn't stop drinking.
+His mane. His brow. To the place between his ears where she could see from. She sat with her good hand in the grey stone-hair and looked east over the Marches, over the camp's fires and the flat dark country beyond, toward the Wyldmarch, where a forest walked round a thing that couldn't stop drinking.
 
 *Eighteen days*, said Orrun.
 

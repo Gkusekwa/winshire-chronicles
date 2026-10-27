@@ -13,7 +13,7 @@ Draft notes: Days 200–205 (190–199 told back). Decided here (proposals):
 - **The Lady**, night 199: up the Wend from the sea; the river at the camp goes pale under the water and stays pale; a head like a heron's on a neck like a river comes up out of the Wend by the pontoon at midnight and lies on the water; the camp comes down to the bank in the dark.
 - **The Lamp**, dawn 200: it has come round in the night; out of the west, over the downs on the Hearthmere bank with the sunrise full on it, walking across the Wend from the western bank to the eastern on the light on the water (the river doesn't part; it walks on the light on it) into the camp's eastern meadow on the Saltreach bank; too bright to look at.
 - **The beasts turn**: every beast in the camp turns its head to the light at once: hounds, greyharts, horses, stonehorns, wolves, wyverns on their chains, lynx, the rocs on the ridge, the Clan's dragons, the three hills, the lion; **Sarovel's olifants kneel in their traces**, slowly, front legs first; **out of the western hills a herd of wild unicorns** (lean, deer-boned, silver-black, spiral horns of living bone), eleven, that have followed the Lamp's light from the Sunward Hills, come down to the meadow and stand round it.
-- **Armies kneel**: Sarovel first (it's their Sun on the Stair); then the clans; then the crown's men; then everybody; **Rowan** on her greyhart with the white blaze at the meadow's edge doesn't kneel: she's never prayed; then she sees her knights looking at her, and the militia, and the crown men, unsure, and gets down off the greyhart and kneels, **for them**, so none of them kneels alone. Davin doesn't kneel; he counts.
+- **Armies kneel**: Sarovel first (it's their Sun on the Stair); then the clans; then the crown's men; then everybody; **Rowan** on her grey horse with the white blaze at the meadow's edge doesn't kneel: she's never prayed; then she sees her knights looking at her, and the militia, and the crown men, unsure, and gets down off the horse and kneels, **for them**, so none of them kneels alone. Davin doesn't kneel; he counts.
 - **The council**, d.201, in the barn: **Idony tells them what they are**, from Maren's square-hand pages and his own three days' writing: the old ones, the gods in every chapel, are Titans who woke and drank and stopped: *the gods are what is left of Titans who stopped*; **the collapse's cause**: the one realm's people took the old ones' tongue, struck it into iron, put it on beasts, then on a Titan, and lit their lamps on its breath: the realm fell for it; **"One again" turns sour**: Tova says it first, slowly: the Oneward's oath: one again: *that*; Thale goes white (the crown's lamps); Mattias thinks of the Bond-King's unicorns; the camp hears it by dusk and nobody says *one again* after.
 - **The plan**, explained by Idony, with Maren and Calder at the table's end: the relic in the Last Titan's back; only an elder can hold it (*it answers a breath that is unbound*); the Lamp will carry it; if the Lamp takes it out, the six will hear and come into the light with it and stop as the old ones stopped; the Accord's task: hold the six together in one place long enough for the Lamp to reach it.
 - **Pike's question**, very politely, at the end: "And afterwards, master? When the Lamp has carried the stone into the light. Does the stone go too? Or does it remain, for keeping?" Idony: "I'd think it goes. It's theirs." Pike: "Of course. I ask only for the record. The clause." (Hint 3 of 5.) Rowan notes it and thinks it's Kessmoor being Kessmoor.
@@ -56,7 +56,7 @@ Slowly. Stopping twice.
 
 The old man came the same day.
 
-On the green one's neck, in a blanket, with sea-birds on his shoulders and a Blackwater girl behind him holding on to it. Idony Vael. He was down before her wings were still.
+On the green one's neck, in a blanket, with sea-birds on his shoulders and a Blackwater girl behind him, holding on. Idony Vael. He was down before her wings were still.
 
 He came to her barn before the camp had stopped running.
 
@@ -152,7 +152,7 @@ And every beast turned its head.
 
 All of them. At once. She felt it more than saw it. As you feel a crowd go quiet behind you.
 
-The hounds. Every knight's hound in the camp, turning from wherever they were, lying by fires, running the lines, at heel, and looking at the light. Ash and Sorrow at Wynn's knee. Her own greyhart under her, turning its head, its ears forward.
+The hounds. Every knight's hound in the camp, turning from wherever they were, lying by fires, running the lines, at heel, and looking at the light. Ash and Sorrow at Wynn's knee. Her own horse under her, turning its head, its ears forward.
 
 The greyharts. Every one. The horses on their pickets. The stonehorns on the water-meadows, ten thousand of them, lifting their great plated heads off the grass. The Keepers' wolves. The Wardens' lynx. Nell's wyverns on their chains, hooded, turning their hooded heads. The rocs on the ridge, out from under their wings.
 
@@ -200,7 +200,7 @@ Kneeling.
 
 Rowan didn't.
 
-She sat her greyhart at the eastern meadow's edge with the white blaze turning toward the light under her, and didn't get down.
+She sat her horse at the eastern meadow's edge with the white blaze turning toward the light under her, and didn't get down.
 
 She'd never prayed. Knights of Greyhold didn't, much. She'd sat in the crown's chapel at Hallowmere with a candle burning down beside twelve dead lamps and not prayed. She didn't kneel to things.
 
@@ -220,7 +220,7 @@ Not wanting to be the only ones.
 
 ---
 
-She got down off her greyhart.
+She got down off her horse.
 
 She knelt. In the wet grass at the meadow's edge, in her mended surcoat, on both knees.
 
@@ -466,7 +466,7 @@ And in the eastern meadow, behind it all, the Lamp stood in its ring of unicorns
 
 And in the river, the Lady lay with her head on the water by the pontoon.
 
-Rowan rode down the line on her greyhart with the white blaze, slowly, past every banner, and didn't kneel to anything.
+Rowan rode down the line on her grey horse with the white blaze, slowly, past every banner, and didn't kneel to anything.
 
 She'd done that once. For them.
 

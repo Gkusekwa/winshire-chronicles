@@ -411,7 +411,7 @@ Calder turned his over in his hand. Maren put hers in her coat without looking a
 
 They named Rowan at noon.
 
-The last business. Kaye's clerk read it out: the Accord would need one marshal, over all its kingdoms' forces, for the war. Each kingdom was asked to name one. Each kingdom named Rowan. Quell first. Then Arn. Then Tova, who'd watched her sit a greyhart at the side of a road all afternoon. Then the rest.
+The last business. Kaye's clerk read it out: the Accord would need one marshal, over all its kingdoms' forces, for the war. Each kingdom was asked to name one. Each kingdom named Rowan. Quell first. Then Arn. Then Tova, who'd watched her sit a horse at the side of a road all afternoon. Then the rest.
 
 Calder understood it. Hearthmere was too broken to frighten anybody. Its marshal couldn't make it a kingdom again by winning.
 

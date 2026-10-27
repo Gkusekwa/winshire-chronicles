@@ -24,7 +24,7 @@ notes -->
 
 He carried them down from the hall in a day.
 
-Walking. On the road. At a hill's pace, which was faster than she'd have believed, because a hill's stride was half a league. The road sang under him where his paws came down. The old man rode between his shoulders with her, wrapped in his blanket, holding her coat with his steady hands. Gannet behind them in the mane, clinging on, with his bag.
+Walking. On the road. At a hill's pace, which was faster than she'd have believed, because a hill's stride was a furlong. The road sang under him where his paws came down. The old man rode between his shoulders with her, wrapped in his blanket, holding her coat with his steady hands. Gannet behind them in the mane, clinging on, with his bag.
 
 The deer came out of the hills and watched them pass and didn't run.
 

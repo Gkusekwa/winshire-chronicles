@@ -287,7 +287,7 @@ That was all.
 
 The knight found her in the yard after.
 
-At dusk. By the trough. The greyhart drinking. The cold coming down off the downs, and the eddy below the barn turning in the last light, slowly, the right way.
+At dusk. By the trough. The horse drinking. The cold coming down off the downs, and the eddy below the barn turning in the last light, slowly, the right way.
 
 She had something under her arm. Long. In a scabbard. She held it out. One-handed. The right. Rowan saw her look at her own hand while she did it, as if to make sure it was holding.
 

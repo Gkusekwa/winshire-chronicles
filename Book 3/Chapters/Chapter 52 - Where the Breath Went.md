@@ -45,7 +45,7 @@ She'd looked at him as soldiers looked at him. Patiently. As at a man asking for
 
 Rowan had looked at him a while longer.
 
-Then she'd given him seven, and Hobb for the last.
+Then she'd given him six knights, and Hobb to make seven.
 
 ---
 

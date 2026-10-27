@@ -329,7 +329,7 @@ He'd never asked which.
 
 It went out as a wind drops at evening.
 
-There was light where the roads crossed, and then the grass lay still, and grey paving, and four milestones, three of them standing and one a cooled pool of slag.
+There was light where the roads crossed, and then there was grey paving, and four milestones, three of them standing and one a cooled pool of slag.
 
 And the square went quiet.
 

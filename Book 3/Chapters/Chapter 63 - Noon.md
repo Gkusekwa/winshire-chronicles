@@ -18,7 +18,7 @@ Draft notes: Day 317. Decided here (proposals):
   - "Five," she says aloud. Orrun: *Five.* They stop. They wait. Aurveth (through Lisska through Orrun): *They're waiting for something.* Maren: *Tomorrow.*
 - **Morning 317**: the line takes its places: every sector, every kingdom's beasts (brief roll: the greyharts and hounds at the Hearthmere bend; the olifants standing as walls, the unchosen on white steeds behind them; the batteries round the hub and the Bridle banked; the stonehorns and Rhun's bears and wolves at the Wyldmarch's river end; the Wardens with lynx and the twelve sabrecats; Rennick's sellswords and the grounded wyverns at the scrub end; the Clan on the ridge; the rocs on the eastern downs; the stormkites up already). **Orrun goes down off the wall to the eddy's lower lip** and raises the bed and stands on it; she on his head. **The three shadows go out at the fourth hour** to the three sectors and lie down there; the camp sees four lions; "the lion counts as four".
 - **The Lamp** walks down from the eastern meadow at the fifth hour onto the river and stands on the light on the water at the eddy's head; **the Lady** lies in the eddy.
-- **Noon**: the Hall of Measures' noon by Kessmoor's watches, and the camp's noon by the sun: Rowan at the Hearthmere wall's river end on her greyhart with Haverly's edge; she lifts her hand; **ninety-eight thousand voices on both banks say *Keep the watch***: knights, militia, clans, unchosen, Wardens, sellswords, Kessmoor's crews (some), the old people on the carts, children. Maren says it; she doesn't feel her mouth say it; she hears herself.
+- **Noon**: the Hall of Measures' noon by Kessmoor's watches, and the camp's noon by the sun: Rowan at the Hearthmere wall's river end on her grey horse with Haverly's edge; she lifts her hand; **ninety-eight thousand voices on both banks say *Keep the watch***: knights, militia, clans, unchosen, Wardens, sellswords, Kessmoor's crews (some), the old people on the carts, children. Maren says it; she doesn't feel her mouth say it; she hears herself.
 - **The wards**: two; **on each bank a pale shimmer rises off the line like heat off a road**, a league long, a wall, then a roof, over each bank's half of the line, **ending at the river's edge on both sides** (never across); thin; then **the Lamp's light and the Lady's light go into them**: white-gold from the river's head, pale moon-blue from the eddy, running along the wards like oil along a wick, and **the wards light**: two long pale domes over the line, one each bank, the river dark between.
 - **The jailer's charm turned**: she thinks of three hundred voices in Greyhold's yard at noon facing a wall: *Keep the watch below, and do not ask*; and the old man's *the last line's a muzzle*; now nothing below; no muzzle; the voices facing out.
 - **Echo**: through it all, from the ridge behind the Saltreach wall, **the farmer's cracked voice a breath behind everyone else's** ("He'd never once said it in time. Not at Greyhold. Not anywhere"); only his (Wren is at Coldtarn).
@@ -246,7 +246,7 @@ She was in all four.
 
 She could feel each one. Four weights. Four sets of eyes. The knights at the bend, looking up at a hill with a mane. The stonehorns lifting their plated heads. Rennick's sellswords at the scrub end, backing off a pace. And her own eyes, in her own head, between his ears, in the river.
 
-One lion. Four places. She let the number go.
+One lion, in four places.
 
 ---
 
@@ -284,7 +284,7 @@ And the sun's.
 
 ---
 
-Rowan was at the Hearthmere wall's river end. On her greyhart with the white blaze. With two swords at her belt. She sat there in her mended surcoat and looked down the line, west, along the wall. Then across the river, east, along the other.
+Rowan was at the Hearthmere wall's river end. On her grey horse with the white blaze. With two swords at her belt. She sat there in her mended surcoat and looked down the line, west, along the wall. Then across the river, east, along the other.
 
 She lifted her hand.
 

@@ -473,7 +473,7 @@ Then he came back to the headland and lay down on the rocks with his chin on the
 
 Five thousand two hundred.
 
-Kit had it. On slips, in a box, at her tiller. She read it to him on the bank two days later, with the floating market strung out up the river behind her under tow. Ten days yet to the Staithe, where they'd lash it again, a smaller town on a quieter river.
+Kit had it. On slips, in a box, at her tiller. She read it to him on the bank two days later, with the floating market strung out up the river behind her under tow. Eight days yet to the Staithe, where they'd lash it again, a smaller town on a quieter river.
 
 Five thousand two hundred, off the water and out of Wendmouth.
 

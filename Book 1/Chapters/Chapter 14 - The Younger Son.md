@@ -163,7 +163,7 @@ Calder couldn't have said anything if the hills had fallen. He stood on the bank
 
 ---
 
-Ulric came a quarter of an hour later, with his six, over the near rise, up from the Ram's Head, where he'd lain the night, and down the long slant of the Way.
+Ulric came a quarter of an hour later, with his six, up the Way from the Ram's Head, where he'd lain the night. They came by the near rise behind the cart, the one Calder and Hob had come over, where the long slant of the Way began.
 
 Calder heard them before he saw them. He looked up and saw them come over the top, six big men in plain grey with axes at their belts, and Ulric at the front on a huge grey horse, and he saw Ulric see it. The bay. The black horse. Arn's six in a line along the bank with their swords out now. Arn standing over something on the stones.
 

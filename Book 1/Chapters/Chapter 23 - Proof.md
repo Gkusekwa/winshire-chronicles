@@ -141,7 +141,7 @@ When it had finished, it turned on three legs, and went away up the stream into 
 
 She sat there until it was dark. She filled the cup, and drank, and filled it again, and went back to the tower, and lay on her blanket, and found that she was crying.
 
-She thought about it in the dark, lying there. She'd come here to fetch proof. She had a deadline. The new moon was tomorrow, or the day after; she'd lost count in the fever, and had to work it out on her fingers by the days since the fair. She had nothing. A link of chain. A notebook. A lion that would have to be seen to be believed, that had tried to kill her twice.
+She thought about it in the dark, lying there. She'd come here to fetch proof. She had a deadline. The new moon was tomorrow, or the day after; she'd lost count in the fever, and had to work it out on her fingers by the days since the fair. She had nothing. A link of chain. A notebook. A lion that would have to be seen to be believed, that had tried to kill her twice: once on the shore, and once at the stream and right up to the tower door.
 
 Instead she'd gone down to its water and sat in the mud with a tin cup, being very careful not to do anything.
 

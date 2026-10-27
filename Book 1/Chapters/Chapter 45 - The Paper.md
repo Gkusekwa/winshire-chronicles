@@ -236,7 +236,7 @@ From Ashford, eighteen leagues off, on the third lathered horse he'd had since m
 
 He rolled up the scroll. He looked round at the empty street, at the knights, at the overturned braziers on the ice behind them with the smoke still going up. He turned his horse and rode on toward Greyhold, to read it at the gate.
 
-So the paper had been on doors in Ashford too, before dawn, and the crown's answer had been on the road by morning. As if somebody had had it written already.
+So the paper had been on doors in Ashford too, before dawn, and the crown's answer had been on the road by morning.
 
 *A lie,* thought Maren.
 

@@ -12,7 +12,7 @@ Draft notes: Days ninety-eight to one hundred and one. Decided here (proposals):
 - Day 99: Joss goes before light with a halter and his knife. Calder sends Lisska. She finds the camp and the grey beast, but not Joss, and shows him when she's back within reach. Calder doesn't go in. He tells himself it's because the dragons near a camp would bring the whole Restoration down on Upper Rush.
 - Day 100, noon: a cart comes up the lane from Ewe Hollow with two men in grey and a camp woman. Joss is in it under a blanket. He went into the beast lines in the night with a knife to cut the grey loose; the grey's handler woke; the grey "took fright". His chest is broken; a hoofprint the size of a bucket. They return his knife and the halter, they say the beast was bought fair at Wendmouth with papers, and the camp man says to Calder: "You're Fenn. The one realm grieves with you. Our door is open." Kharrak's tide comes up on the hill above Bel's; Calder holds it. The men go away unharmed.
 - Bel blames him. He knew what was in those fields and never told Joss about the eyes. Joss went in thinking Old Grey would know him.
-- Night 100: Calder tells her everything, at the table, with Ada by the fire: the chain from the ashes, Rook and the knife, the ford, the camps, the room on Gallows Quay, the eyes, the island. It's the first thing he has ever chosen to say, the whole of it.
+- Night 100: Calder tells her everything, at the table, with Ada by the fire and Wren on the ladder, in scene: the chain from the ashes, Rook and the knife, the ford, the camps, the eyes (Lisska has seen Old Grey's), the room on Gallows Quay, the island, the dragons, Aurveth on the ice, the verse. It's the first thing he has ever chosen to say, the whole of it. Bel asks why he kept quiet. He says that naming it meant naming what was coming for the farm and for Wren: "I thought if I didn't name it, it'd stay down the road a while longer. It didn't. It came up the lane in a cart."
 - The echo: the two chains side by side on the table. Bel scrubs the rust off with ash and her thumb, the way she'd scrub a pot, and on the inside of the last link of each there's the same small smith's stamp under the six: a crossed hammer. One maker. The men who took Joss's greys put the chain on the lion. (Proposal: the crossed hammer is Odo Marl's stamp, from his Millbrook smithy. Calder doesn't know that. Maren could recognise it later.)
 - Bel: "Get him out. Old Grey. Don't you leave him in that field."
 - Day 101: they bury Joss on the hill above the hollow, Marches fashion. Mabbin and Sorrel stand at the paddock gate. The dragons watch from the ridge behind Bel's. Kharrak: *Tell me when.* Calder: "The night after the dark of the moon."
@@ -255,21 +255,55 @@ Bel looked at them.
 
 "That's what I picked up," he said.
 
-And then he told her.
+Bel didn't touch them. "From the ruts."
 
-He told her all of it. He started at the ruts and he didn't stop. The ring of six on the links. Carrying it to Varrhold in his pocket. The man on the bucket in the lower stable, three paces from the cliff path, the morning Teo said the time and place of the ford out loud for anybody to hear. The six on the man's knife. Gone before light. The ford. Teo in the water, and his knife in its sheath, and the grey on the alders. Saying nothing, at the ford, with the chain in his pocket, while Arn swore. Saying nothing at Varrhold a week ago, and nothing at Skarrow, with the man's name in his mouth.
+"From the ruts. Where they led the greys out." He put his finger on the last link, on the cut gone dull. "Look at the dots. Six, in a ring. They're on every link."
 
-He told her about the camps. All of it this time. The fields behind the soup tents. The hounds and the greyharts and the wyvern on its perch. The eyes. He made himself say it about the eyes: that there was nobody in them, or that somebody else was. The room behind the red-and-gold building on Gallows Quay, and the smoke, and the young man on his knees with his hand on the hound's head, crying out, and the man in grey saying *You're chosen now.* The hound that walked on with a pole through it.
+"I see them."
 
-He told her about the island. The spit, with the stake and the rusted chains. The collar-chain, cut clean at the stake. The arch with the old writing that Aurveth had read the first line of and then stopped. The great round prints in the snow. Something breathing in the dark under the oaks.
+"I took it up to Varrhold in my pocket. With the barley." He made himself go on. "There was a man in the lower stable. Sitting on a bucket by the door, mending a halter. Soft hands. Good boots. Three paces from the cliff path, the morning Teo said the time and place of the ford out loud, for anybody to hear." He stopped. "He had the six on his knife. On the pommel. He was gone before light."
 
-He told her about the dragons, and what they'd said, and what they wouldn't say. About Aurveth lying on the ice with her throat to it at midwinter, and getting up sick.
+Bel's hands lay flat on the wood.
 
-He told her about Ada's verse, though she'd heard it. He told her what he thought it meant.
+"Then the ford." He didn't tell her what the ford was. Everybody knew that. He told her what he'd seen of it. Teo in the water. His horse grazing under the alders. His knife still in its sheath, because he'd let whoever it was come close. "And I stood on the bank with this in my pocket while Arn swore over him. And I said nothing." He looked at the five links. "I went up to Varrhold a week ago, and over to Skarrow after, to ask them to stop. I had the man's name in my mouth at both gates. Rook. I never said it."
 
-It took a long time. The fire burned down and Ada got up and put wood on it without a word and sat down again. Bel sat across the table and listened, with her hands flat on the wood the way Ada sat when she sang, and her face didn't change. On the long table behind her, under the clean sheet, Joss lay with his hands folded.
+"Rook," said Bel, as if she were putting it somewhere she'd find it again.
 
-When Calder stopped, his mouth was dry. He'd never said so many words together in his life. He'd never said any of it. Not to her. Not to anyone with a face. Only to the dragons, in the hills, in the autumn, inside his own head, where it didn't count.
+The words came out of him after that like stones out of a field after a frost, one and then another, and more underneath. He told her about the camps. All of it this time. The soup at the front, which he'd told them, and the fields behind the soup tents, which he hadn't. The hounds on their short chains. The greyharts. The wyvern on its perch. None of them making a sound.
+
+"And the eyes," he said.
+
+He had to stop. By the fire Ada didn't move.
+
+"There's nobody in them, Bel. Or there's somebody, and it's not the beast." He made himself finish. "Lisska went and looked yesterday. At Old Grey. His are the same."
+
+Bel shut her eyes and opened them again.
+
+He told her about Wendmouth. The red-and-gold building on Gallows Quay, and the room behind it, and the smoke. The young man on his knees in there with his hand on a hound's head, crying out, and the man in grey standing over him saying *You're chosen now.* The hound that walked on with a pole through its side, toward the man it had been told to walk toward.
+
+He told her about the island. The spit, with the stake and the rusted chains on it, and the collar-chain cut clean at the stake. The arch with the old writing that Aurveth had read the first line of and then stopped. The great round prints in the snow. Something breathing in the dark under the oaks.
+
+"You went over," said Bel.
+
+"On the ice."
+
+He told her about the dragons, and what they'd said, and what they wouldn't say. About Aurveth lying on the ice at midwinter with her throat to it, and getting up sick. He told her about Ada's verse, though she'd heard it, and what he thought it meant. Ada, by the fire, didn't tell him he was wrong.
+
+Then there was nothing left to tell, or nothing he could find.
+
+"Why?" said Bel. "All of it. Since the summer. You had it in your coat the whole time. Why didn't you say?"
+
+He looked at the five links. He'd had the answer a long time. It had ridden in his pocket with the chain.
+
+"Because if I said what it was," he said, "I'd have to say what was coming. Up this lane. For the beasts in your byre. For this farm." He didn't look at the ladder. He didn't need to. "For her."
+
+Bel looked at the ladder. Wren hadn't moved. Her arms were still round her knees.
+
+"I thought if I didn't name it, it'd stay down the road a while longer," Calder said. His voice had gone rough, and he let it. "It didn't. It came up the lane in a cart."
+
+It had taken a long time. Somewhere in it the fire had burned down, and Ada had got up and put wood on it without a word and sat down again. On the long table behind Bel, under the clean sheet, Joss lay with his hands folded.
+
+His mouth was dry. He'd never said so many words together in his life. He'd never said any of it. Not to her. Not to anyone with a face. Only to the dragons, in the hills, in the autumn, inside his own head, where it didn't count.
 
 He sat there.
 

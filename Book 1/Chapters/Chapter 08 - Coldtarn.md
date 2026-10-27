@@ -6,7 +6,7 @@ Part: Part One: Two Banks
 Beats: At the new moon the Clan scatters Haldor's ashes on Coldtarn. Calder carries the village's mourning gift because nobody else will. At the black water Ulric and Arn quarrel in front of everyone and Teo makes them stop. Sigrun tells Calder that Aurveth has outlived two partners and nobody knows how.
 Echo of the other's story: In the crowd, a poacher curses a Hearthmere student who freed his catch at Millbrook.
 Status: first draft
-Draft notes: The new moon falls about nine days after Chapter 2 (the prose has "eleven nights since the pyre was lit"). Calder rides up on the Ewe Hollow wool cart. Harrow's End's gift is a mourning cloth Ada wove. The quarrel: who pours the ashes, the eldest son (custom) or the chief's brother (the Clan's champion). Teo's answer: they pour together, one hand each on the urn. Decided here (proposal): Aurveth's second partner was Sigrun's great-uncle Ragnald Holm, dead sixty years; Aurveth lay on Coldtarn's shore a full year and didn't wither. Her first partner is older than anyone's memory, and she won't say who. The poacher is one of Gannet's boatmen, come up to complain to Ulric's men.
+Draft notes: The new moon falls about nine days after Chapter 2 (the prose has "eleven nights since the pyre was lit"). Calder rides up on the Ewe Hollow wool cart: Coldtarn lies about five leagues above Varrhold, two days up by the cart and two days back, with the first night home at the Ram's Head. Harrow's End's gift is a mourning cloth Ada wove. The quarrel: who pours the ashes, the eldest son (custom) or the chief's brother (the Clan's champion). Teo's answer: they pour together, one hand each on the urn. Decided here (proposal): Aurveth's second partner was Sigrun's great-uncle Ragnald Holm, dead sixty years; Aurveth lay on Coldtarn's shore a full year and didn't wither. Her first partner is older than anyone's memory, and she won't say who. The poacher is one of Gannet's boatmen, come up to complain to Ulric's men.
 Magic touches: Fell's wife's Clan herd-charm; the Coldtarn priest's old words to keep the dead chief down.
 notes -->
 
@@ -206,7 +206,7 @@ Sigrun had seen it. He knew she had. She was quiet for a while.
 
 ---
 
-He rode home on the wool bales, the best part of three days, and on the second night the cart stopped at the Ram's Head and he lay awake in the loft above the stable with Tuft and Fell snoring on either side of him, and thought about the black water, and a long line of dead chiefs falling slowly through it side by side forever.
+He rode home on the wool bales, two days of it, and on the first night the cart stopped at the Ram's Head and he lay awake in the loft above the stable with Tuft and Fell snoring on either side of him, and thought about the black water, and a long line of dead chiefs falling slowly through it side by side forever.
 
 He thought about two hands on an urn, and a young man standing behind them with his head bowed.
 

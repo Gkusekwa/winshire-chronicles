@@ -36,7 +36,7 @@
 22. Maren joined the river watch at 17 and served eight winters on it, then two years at Greyhold; she is 27 ("four winters" becomes "eight winters").
 23. Island trips start at Redwatch (Ruling 7 stands): Redwatch is on the Hearthmere bank opposite the island, half a league across the west channel; Greyhold is about three leagues downriver.
 24. Haverly's trial across the river is a known exception: out of uniform, without the pin, and "you were never there".
-25. Kesh chose Haverly at fifteen (Ch 3 changed from fourteen).
+25. Kesh chose Haverly at fifteen (Ch 3 changed from fourteen), at his family's mews at home, before he came to Greyhold. He came to Greyhold two years before ch 61 (open item O1, 27 Oct 2026).
 26. Renames: Merrow's ox-beast Holm becomes **Dun**; the Ch 33 sergeant of the Redwatch tower, Brask, becomes **Tasker**.
 27. Ch 16: "ten or eleven" other bonded riders, to agree with the eleven pairs on the ledges.
 28. The other Titans: the hints in Ch 77 ("There were destroyers once…") and Ch 79 ("It wants them awake") are cut; the pull "toward somewhere a long way off" is the only hint (Ruling 15).

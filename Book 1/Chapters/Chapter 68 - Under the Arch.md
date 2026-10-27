@@ -16,7 +16,7 @@ Draft notes: Night one hundred and forty-one. Decided here (proposals):
   - Cassian on the farmer: "I'd still rather have him than burn him." Corvin: "We'll have the dragons either way. A man's a halter."
   - The Clan. Rook on the second ford: the law held the bonded long enough. Cassian, uneasy: "The old man." Rook: "He came down. Nobody thought he would." Corvin: "It did what it was for. The Clan won't stand together again this side of the summer."
   - The first ford. Cassian asks, quietly, as if he's never asked: "The boy. The first one. Varr's son." Rook: "Went in the water like a stone. He never drew. He thought I'd come to hold his horse." Corvin: "Leave the armband this time?" Rook: "On the alders. Plain grey. And the axe in the shallows." Cassian turns away.
-  - The echo: Corvin says that tomorrow (day 142) Millbrook rises and Cassian knocks on Greyhold's gate, loud, so they look at it (a feint), and the night after (143) "our friend" opens it and Cassian goes down "under the school", "to the knight's lock." He'll stay here with this one (he taps the floor of the tower with his foot). "At the hour. Not before. Not after." Cassian: "Two hands." Neither says what the locks open.
+  - The echo: Corvin says that tomorrow (day 142) Millbrook rises and Cassian knocks on Greyhold's gate, loud, so they look at it (a feint; it has to cost something or the gate won't believe it, so Halloran's woman is spent there, both releases, in 69), and the night after (143) "our friend" opens it and Cassian goes down "under the school", "to the knight's lock." He'll stay here with this one (he taps the floor of the tower with his foot). "At the hour. Not before. Not after." Cassian: "Two hands." Neither says what the locks open.
 - Calder lies above them with his face to the crack and hears Teo's death told like a cart-load delivered. He doesn't move. He holds Joss's knife so hard his hand goes dead.
 - After, Cassian goes back to the boat to cross downriver to the Hearthmere side in the dark (toward Millbrook). Corvin stays under the arch. Rook sits down on the step of the tower door, below Calder, and whittles.
 - Calder, at the end: he could drop on Rook from the stair. He doesn't. He has it now: not proof, but the words, out of their own mouths. He needs someone to hear them who isn't him.
@@ -228,7 +228,7 @@ Then he looked down. At the threshold. At the long smooth hollow worn in the sto
 
 "It might yet," said Cassian.
 
-"It might." Corvin turned his head and looked west, across the island, across the channel, toward the dark Hearthmere bank and the line of the knights' fires. "It doesn't matter. We don't need it. We need the hour, and two hands." He looked at his brother. "Tomorrow Millbrook rises and you knock on the gate, loud, so they look at it. The night after, our friend opens it and takes you down. Under the school. To the knight's lock."
+"It might." Corvin turned his head and looked west, across the island, across the channel, toward the dark Hearthmere bank and the line of the knights' fires. "It doesn't matter. We don't need it. We need the hour, and two hands." He looked at his brother. "Tomorrow Millbrook rises and you knock on the gate, loud, so they look at it. Spend Halloran's woman on it, all she has. A knock that costs us nothing, the gate won't believe. The night after, our friend opens it and takes you down. Under the school. To the knight's lock."
 
 "And you stay here."
 

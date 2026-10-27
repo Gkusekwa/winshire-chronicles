@@ -29,7 +29,7 @@
 - **Within the alliance, one kingdom plots to be supreme.**
 - **The twins' fates:** one twin is killed at the conclusion of Book 1. The other continues through Book 2 and is killed in Book 3.
 - **The ending:** in the Titan War there is a glimpse of victory in the final battle, but **the Titans win, and everything is destroyed.**
-- **After the fall:** a **remnant** survives, a handful of people the protagonists saved, the seed of what comes next. The lion and the dragons, now Titans, **die protecting people.** With no Titans left, the **bond between beasts and people breaks.** A new beginning follows: the **Age of Elementals.**
+- **After the fall:** a **remnant** survives, a handful of people the protagonists saved, the seed of what comes next. The lion and the dragons, now Titans, **die protecting people.** With no Titans appearing to remain, the **bond between beasts and people breaks.** *(Some survived; only the next series reveals it.)* A new beginning follows: the **Age of Elementals.**
 - **The protagonists survive.** By the end of Book 3, the student and the farmer are more or less Titans themselves. In the next series they become the **Council of Immortals.**
 - **Hint, then reveal.** Book 3's ending doesn't show every fall; it leaves the reader certain the old world is gone. The next series reveals that **some Titans survived.**
 
@@ -208,7 +208,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 | The kingdoms | Divided; Hearthmere and Saltreach at the center | The other four introduced; parallel, intertwined events; race to capture Titans | Unite against the Titans; one plots to be supreme |
 | The Titans | One imprisoned beneath Hearthmere, believed to be the Last Titan | Other Titans revealed; temples and relics; the five sleepers wake | The Titan War; the elder Titans' sacrifice; the Titans win |
 | The world | Six divided kingdoms | Kingdoms strained by war and Titans | Everything destroyed; a remnant survives; the Age of Elementals begins |
-| Bonds | The lion bond and the threefold bond form | Bonds grow stronger | The lion and the dragons die protecting people; with no Titans left, all bonds break |
+| Bonds | The lion bond and the threefold bond form | Bonds grow stronger | The lion and the dragons die protecting people; with no Titans appearing to remain, all bonds break |
 | The name "Winshire" | Remembered in old songs and ruins | Tied to the Titans' imprisonment | Possibly revealed as a world whose ages turn |
 
 ## The next series: the Age of Elementals

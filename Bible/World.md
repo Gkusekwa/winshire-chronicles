@@ -245,7 +245,7 @@ Established landscape types include outskirts and villages, farmlands, hunting g
 
 **None open.** *The author approved every drafted or proposed answer below (Oct 2026).*
 
-- ~~How common are bonds, kingdom by kingdom?~~ *Settled (Oct 2026), as drafted:* the Clan keeps hundreds of dragons, with fourteen bonded pairs before the mill (eleven after, Book 1 ch 48); Greyhold's Long Barn holds thirty-one bonded beasts (ch 27). Other Titans exist beyond the six destroyers and the elders, in the land beyond the sea: see `Series_Outline.md`.
+- ~~How common are bonds, kingdom by kingdom?~~ *Settled (Oct 2026), as drafted:* the Clan keeps hundreds of dragons, with fourteen bonded pairs before the mill (eleven after, Book 1 ch 48); Greyhold's Long Barn holds thirty-one bonded beasts (ch 27). Other Titans existed beyond the six destroyers and the elders, in the land beyond the sea. By the end of Book 3 none appear to remain; the next series reveals that some survived (see `Series_Outline.md`).
 - ~~How does the Dragon Clan breed and control dragons, and how do the dragons experience that system?~~ *Settled (Oct 2026), as proposed:* see **How the Clan keeps its dragons** above.
 - ~~Where are the elder Titans, and what do people's faiths say about them?~~ *Settled (Oct 2026), as drafted:* the Lit Shore beyond the sea (Book 3 Part Two; `Series_Outline.md`).
 

@@ -29,14 +29,14 @@
 
 *Closed (Oct 2026):* the open items from this review are all answered; see the note at the end of this file.
 
-# Rulings from the full audit (Oct 2026)
-*From `Audits/2026-10/DECISIONS.md` and the author's decisions on the audit; binding on the revision. Each changes or fixes canon.*
+# Rulings from the October 2026 revision
+*The author's decisions, binding on the revision. Each changes or fixes canon, and each is carried into the Bible.*
 
 21. No casting by Maren or Calder in Book 1: Maren's settling-word and stanching-word (Ch 5, 19, 21) are cut, and bond gifts are not casting. The rule in `Magic.md` §10a stands.
 22. Maren joined the river watch at 17 and served eight winters on it, then two years at Greyhold; she is 27 ("four winters" becomes "eight winters").
 23. Island trips start at Redwatch (Ruling 7 stands): Redwatch is on the Hearthmere bank opposite the island, half a league across the west channel; Greyhold is about three leagues downriver.
 24. Haverly's trial across the river is a known exception: out of uniform, without the pin, and "you were never there".
-25. Kesh chose Haverly at fifteen (Ch 3 changed from fourteen), at his family's mews at home, before he came to Greyhold. He came to Greyhold two years before ch 61 (open item O1, 27 Oct 2026).
+25. Kesh chose Haverly at fifteen (Ch 3 changed from fourteen), at his family's mews at home, before he came to Greyhold. He came to Greyhold two years before ch 61.
 26. Renames: Merrow's ox-beast Holm becomes **Dun**; the Ch 33 sergeant of the Redwatch tower, Brask, becomes **Tasker**.
 27. Ch 16: "ten or eleven" other bonded riders, to agree with the eleven pairs on the ledges.
 28. The other Titans: the hints in Ch 77 ("There were destroyers once…") and Ch 79 ("It wants them awake") are cut; the pull "toward somewhere a long way off" is the only hint (Ruling 15).
@@ -49,8 +49,8 @@
 35. Rook's ledger went into Delling's chest (72 or 74), for Book 2.
 36. Ch 67: Maren goes halfway down toward Rowan's column; a greyhart scents Orrun, and she turns back.
 37. Calendar: Book 1 runs from the harvest fair at the end of summer (day 0) to sunrise on day 144, in early spring; midwinter is about day 88. The prose seasons govern; the day numbers in the notes run fast after midwinter and are kept as an order, not a dated calendar. Book 2 runs about a year from early spring (midsummer about its day 98, midwinter about day 281); Book 3 runs from spring to the end of the next winter, its final battle in deep winter.
-38. *The Six Who Sleep* is retired as a title option. "The Unbound" stays both Book 1's working title and the seventh ring's name for now (superseded by 45); the choice is open for the author.
-39. `Book 2/Chapter_Plan.md` (revision 4) and `Book 3/Chapter_Plan.md` (revision 1) replace the Outline files. Book 2 has three POVs (S Maren, F Calder, R Idony); Book 3 seven (S, F, R, G Rowan, C Arn, U Tobin, M Kit Merrin, a new Blackwater reef-pilot whose family carries Maren and Calder over the sea). Both are provisional.
+38. *The Six Who Sleep* is retired as a title option. "The Unbound" stays both Book 1's working title and the seventh ring's name for now (superseded by 45).
+39. `Book 2/Chapter_Plan.md` (revision 4) and `Book 3/Chapter_Plan.md` (revision 1) replace the Outline files. Book 2 has three POVs (S Maren, F Calder, R Idony); Book 3 seven (S, F, R, G Rowan, C Arn, U Tobin, M Kit Merrin, a new Blackwater reef-pilot whose family carries Maren and Calder over the sea). Both books have since been drafted (see their plans).
 40. **These are beast books, not dragon books** (the author). Dragons are one kind of beast among many, the Dragon Clan's. Every kingdom's own beasts carry weight in its chapters, its set pieces and the war; the sky is shared (dragons, Worldsend rocs, Isvaren stormkites, Saltreach wyverns, every tower's falcons; `Bestiary.md`, The sky).
 41. **The lock's sentence** (Book 2 ch 81, approved): "One hand shut it. Two hands open it together. What is opened together is kept together, or it is not kept."
 42. **Book 2's climax** (approved): Maren sends Orrun and every shadow to the cellars and gives up the door to save the people there (Book 2 ch 83–84).

@@ -31,7 +31,7 @@ class Map:
     def __init__(self, view, style, secrets, seed=7, chapter=None, interactive=False, subtitle=None, bare=False):
         self.bare = bare
         self.chapter, self.interactive, self.subtitle = chapter, interactive, subtitle
-        self.placing = not interactive and not bare   # printed maps: place labels without overlaps
+        self.placing = not interactive and not bare   # static map images: place labels without overlaps
         self.cap = chapter if chapter is not None else 10 ** 6
         self.lq, self.obs = [], []
         self.prog = (chapter is not None) or (interactive and view == "marches") or (interactive and view == "realm")

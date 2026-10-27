@@ -8,11 +8,11 @@
 
 - **Beast books.** The series is about beasts, not dragons *(author's rule)*. The main books can only show beasts through Maren, Calder and Idony. A tale can be told from inside a beast.
 - **The apart rule leaves rooms unvisited.** With Maren and Calder rarely together, a great deal happens off the page: Teo's last week, the bird's last night, the cavern from a bound beast's eyes. Tales visit those rooms.
-- **Reader magnets.** Short, free or cheap works between the big volumes: newsletter sign-ups, KDP freebies, and a collection after each book (see `Publishing.md`).
+- **Reader magnets.** Short ebooks, free or cheap, between the big volumes: newsletter sign-ups, KDP freebies, and an ebook collection after each book (see `Publishing.md`).
 
 ## The shape
 
-The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 1 (day 0), and Book 3 opens about a week after Book 2 ends. So the "between" slots are **handovers**: the same days, from places the main books don't stand. There is also a fifth slot, **before Book 1**, which holds some of the richest material.
+The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 1 (day 0), and Book 3 opens at dusk on Book 2's day 362, so the last two books overlap by four days. So the "between" slots are **handovers**: the same days, from places the main books don't stand. There is also a fifth slot, **before Book 1**, which holds some of the richest material.
 
 | Slot | When | What it's for |
 |---|---|---|
@@ -89,7 +89,7 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 - **When:** Book 1 days 0–140.
 - **What happens:** the plot from inside it: the boots at the ford, the crossbowman paid in silver, the ledger, a farmer who looks at him too long.
 - **Ends on:** Rook putting the book into Delling's chest.
-- **Depends on:** Book 1 ch 10, 58, 68, 72; DECISIONS (the ledger in Delling's chest).
+- **Depends on:** Book 1 ch 10, 58, 68, 72; `Book 1/Notes/Rulings_41-79.md`, Ruling 35 (the ledger in Delling's chest).
 - **Must not reveal:** the twins (it's read after Book 1, but keep Rook's knowledge to what Book 1 says he knew).
 
 ### 8. The Last Crossing of Winter *(Liss Ashdown)*

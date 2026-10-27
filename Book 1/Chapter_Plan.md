@@ -2,6 +2,8 @@
 
 *The full-length plan for Book 1, built from the established canon in the other notes. Book 1 is now drafted, and the prose is the authority for its events; where a row and its chapter differ, the chapter wins. Each chapter's draft status is kept in its own file's notes (Status:). This plan is maintained by hand.*
 
+**Status: drafted; audited and fixed (Oct 2026).** All 79 chapters are in first draft. What the October 2026 revision settled is in the Bible and in `Book 1/Notes/Rulings_41-79.md`.
+
 ## Shape
 
 - **79 chapters in six parts, across about five months (days 0–144):** from the harvest fair at the end of summer to sunrise on day 144, in early spring (chapters 1–10 fall in the three weeks before the fair, about days -23 to -1) (see the Calendar in `Bible/World.md`). **No upper word limit**; chapters run as long as their scenes need. The first draft came in at about **311,000 words** (about 3,900 a chapter).
@@ -46,7 +48,7 @@
 | 5 | S | Roads and Roadblocks | Maren's first patrol on the River Road with Pell. A roadblock of hard men with no colours, checking carts for beasts. Travellers talk of a leader who spoke in a Saltreach port and led a raid in Hearthmere on the same day. The patrol is ordered to let the roadblock be. | A traveller says the Clan's dead chief has a restless brother and two sons who can't stand each other. |
 | 6 | F | The Uncle and the Sons | Calder carries Harrow's End's grain to Varrhold. He sees both sides: Ulric, the Clan's best warrior with the larger following; Arn's pride; Teo's warmth. He meets the three bonded warriors with their dragons: old Sigrun Holm and Aurveth, hard Dag Rorke and Kharrak, laughing Imra Sallow and Lisska, who teases him about his grain-dust. | A sellsword at the hold complains that the knights have started riding the bank road again. |
 | 7 | S | The Caged Beast | At Millbrook, where Tam is apprenticed to the smith, Saltreach poachers have caged a young beast and offer Maren a share to look away. She frees it and makes enemies. Tam is dazzled; Pell is not. | The poachers swear to take their grievance "across the river." |
-| 8 | F | Coldtarn | At the new moon the Clan scatters Haldor's ashes on Coldtarn. Calder carries the village's mourning gift because nobody else will. At the black water Ulric and Arn quarrel in front of everyone and Teo makes them stop. Sigrun tells Calder that Aurveth has outlived two partners and nobody knows how. | In the crowd, a poacher curses a Hearthmere student who freed his catch at Millbrook. |
+| 8 | F | Coldtarn | At the new moon the Clan scatters Haldor's ashes on Coldtarn. Calder carries the village's mourning gift because nobody else will. At the black water Ulric and Arn quarrel in front of everyone and Teo makes them stop. Sigrun tells Calder that Aurveth has outlived two partners and nobody knows how. Coldtarn lies about five leagues above Varrhold: two days up by cart and two back. | In the crowd, a poacher curses a Hearthmere student who freed his catch at Millbrook. |
 | 9 | S | Pell's Lesson | Pell teaches subdue, don't kill, and shows the class why: the Saltreach company's tamed wyvern, the rare bonded one, loose on the coast road below Stillhaven, that took his fingers, and the knight who killed it and died of it. Tobin, unbonded and bitter, has a pamphlet with two words on it: "One again." Haverly and Kesh, and the shape of a rivalry that isn't hatred. | News across the water: the Clan nearly came to blows at the old chief's ashes. |
 | 10 | F | Whispers in the Hold | Back at Varrhold with the first of the new barley, Calder notices strangers among Ulric's men. One of them, a quiet man called Rook, doesn't belong: wrong boots, wrong hands, and he watches the dragons the way a buyer watches horses. Teo asks Calder to witness the ford meeting; Rook, mending a halter at the foot of the cliff path, hears the time and place. Calder sees the six-dot mark from his chain on Rook's knife, and says nothing. | Poachers in the hold's yard are still cursing the Hearthmere student who freed their catch at Millbrook. |
 | 11 | S | The Trial | Knight-Captain Ilse Rowan gives Maren her trial: investigate the "monster" of the Old Ruin, on its island in the river, and bring back proof. The island is forbidden to the river watch. Liss begs her not to go. | Rowan warns that the Clan's quarrel is coming to a head across the river. |
@@ -192,9 +194,9 @@
 5. **Climax logistics:** the lion is trapped at the edge of the Brackenwood, a short run from Greyhold (73). Greyhold is breached (75), and the dying Hale gives Maren the long black key to the black door at the end of Greyhold's archive, so a cast-out student gets underground. Calder falls into the catacombs when the Ruin's floor gives way (76). Both reach the meeting from opposite ends (78).
 6. **They meet** as wary strangers who already owe each other: his warning, her name in the ferrywoman's story (78).
 7. **No prologue.** A prologue about the Titan would break the reveal in 45. The book opens on the river.
-8. **Names:** all supporting names are as drafted in Book 1 (see `Bible/Characters.md`); only kingdom names other than Saltreach remain working names. Maren's rival is **Lucan Haverly**, renamed from Corwin Brandt, which was too close to Corvin Vale.
+8. **Names:** all supporting names are as drafted in Book 1 (see `Bible/Characters.md`); the kingdom names and place names as drafted are final *(author, Oct 2026)*. Maren's rival is **Lucan Haverly**, renamed from Corwin Brandt, which was too close to Corvin Vale.
 9. **Length:** set by the scenes, not a target.
 
-## Open
+## Review
 
-- **The review pass:** after the full draft, a review pass may cut or adjust storylines. Book 1 stays one volume; it is never split.
+- **The review pass is done:** Book 1 was audited and fixed in October 2026. It stays one volume, never split.

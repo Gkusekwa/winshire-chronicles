@@ -27,7 +27,7 @@ The governing idea in one line: **all magic in Winshire is borrowed from the Tit
 
 **Why Hearthmere was rich.** Hearthmere didn't live on the slow breath of a sleeper like everyone else. It woke its Titan and **chained it**, and a chained, waking Titan doesn't breathe the Deep: it **bleeds** it *(canon: "We've been bleeding something for three hundred years," Hale, Ch 49; Hearthmere's magic is the chained Titan's harnessed power)*. That's why Hearthmere had lamps without oil in every street and the crown licensed every word. The supply was huge and secret, and the licence kept anyone from asking why. When the Titan flew, the bleed stopped, and Hearthmere's magic failed at once *(canon, Ch 79)*. Hearthmere now has *less* than its neighbours. A Titan's own former ground is close to dead for a lifetime.
 
-**What a waking does (the Book 2 engine)** *(proposal; stages from the full audit, Oct 2026)*:
+**What a waking does (the Book 2 engine)** *(proposal; stages fixed Oct 2026)*:
 0. **The stir.** While the Last Titan sits on a temple and draws on it, before any relic is taken, the local Deep tugs and quickens: tide-glasses climb, charms take a little too hard, beasts turn toward the temple, ground near it goes thin. These are the signs the researcher learns to read, and how he predicts a relic's taking.
 1. **The surge.** When a sleep relic is taken and its Titan wakes, the local Deep floods for days or weeks. Magic in that kingdom goes wild: charms work too well and won't stop, lamps burn white, licensed workers burn out, beasts go mad, the ground heaves.
 2. **The drain.** When the waking Titan rises and leaves, it takes its breath with it. The kingdom's magic fails, as Hearthmere's did.
@@ -161,7 +161,7 @@ Isvaren's **rings** are the only scale the whole of Winshire recognises; other k
 
 *(Settled, Oct 2026: the name belongs to the seventh ring. Book 1's working title is now* The Watch Below.*)*
 
-A ring is earned by examination before a college council and can be broken (taken away) for crimes. Idony Vael wears a Second ring and reads like a Sixth.
+A ring is earned by examination before a college council and can be broken (taken away) for crimes. Idony Vael wore a Second ring until his was broken (Book 2 ch 40), and reads like a Sixth.
 
 
 ---
@@ -299,9 +299,9 @@ The rule for writing battles: **magic tips fights; steel and beasts win them.** 
 
 ## 11. The researcher (third POV from Book 2) *(canon: a magic researcher is a third POV from Book 2 on)*
 
-**Who:** **Idony Vael**, 31, a Second-ring reader of the College of Tides at Vael in Isvaren, which measures the Deep's rise and fall across the six kingdoms. Unbonded. A gifted reader of the hooked script, ranked low because he comes from a ferryman's family on the Isvaren lakes and has no patron. Careful, funny when frightened, more interested in being right than in being safe.
+**Who:** **Idony Vael**, about thirty-one, a **Second-ring Reader** of the College of Tides at Vael in Isvaren, which measures the Deep's rise and fall across the six kingdoms. Unbonded. A gifted reader of the hooked script, ranked low because he comes from a ferryman's family on the Isvaren lakes and has no patron. Careful, funny when frightened, more interested in being right than in being safe. His ring was a plain iron ring on his working hand; when it was broken it was cut off him on the Library steps (Book 2 ch 40).
 
-**What he knows that nobody else does:** for eleven years his tide-charts have shown a hole under Hearthmere. Not a low tide: a draw, as if something were pumping the Deep out from under one kingdom. His college told him to stop writing about it. He kept the charts.
+**What he knows that nobody else does:** for eleven years his tide-charts have shown a hole under Hearthmere. He started the ledgers at twenty. Not a low tide: a draw, as if something were pumping the Deep out from under one kingdom. His college told him to stop writing about it. He kept the charts.
 
 **How he enters Book 2:** on the night of day 143–144 every tide-glass in the College of Tides breaks at once. The next morning his charts show the hole under Hearthmere gone, and something moving north-east across the tides at the speed of a bird.
 
@@ -318,6 +318,6 @@ The rule for writing battles: **magic tips fights; steel and beasts win them.** 
 
 **Settled by the author:** his name is **Idony Vael**; he's a man; he **survives to the end of the series**.
 
-**His state after Book 2** *(canon, author, Oct 2026: as drafted)*: Book 2 ch. 83, 87 has him **burned out** holding the Titan still for the cellars: grey in a breath, hands that shake for good, every working he knows now only words, but his knowledge whole, and tide-glasses still readable because reading them is measure, not craft. (Book 2 plan, review question 12, settled.)
+**His state after Book 2** *(canon, author, Oct 2026: as drafted)*: Book 2 ch. 83, 87 has him **burned out** holding the Titan still for the cellars: grey in a breath, hands that shake for good, every working he knows now only words, but his knowledge whole, and tide-glasses still readable because reading them is measure, not craft. (Book 2 plan, review question 12, settled.) He doesn't grey or shake before ch 83.
 
 **Settled (Oct 2026), as drafted:** he stays unbonded through Book 3 and refuses the Mother's mending (the Book 3 plan's question 19).

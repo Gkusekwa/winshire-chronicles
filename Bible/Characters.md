@@ -16,7 +16,7 @@
 
 **Why she's at a knight school at 27:** the schools take a few older, unbonded candidates through a "late oath." Before that, Maren spent years in Hearthmere's river watch, patrolling the border river in the Marches. She is the oldest in her year and unbonded, so she's underestimated twice over. She knows the river, the Old Ruin's island, and the far bank better than any instructor.
 
-**Her years** *(fixed in review; settled after the full audit)*: she joined the river watch at 17 and served **eight winters** on it, then came to Greyhold, where she has been **two years**; she is a second-year, aged 27.
+**Her years** *(fixed in review; settled Oct 2026)*: she joined the river watch at 17 and served **eight winters** on it, then came to Greyhold, where she has been **two years**; she is a second-year, aged 27.
 
 **Family:**
 - **Her father, Edric Ashdown,** was a bonded knight. When poachers killed his bonded hound-like beast, he died within days: one life between two. Maren was fourteen; he died thirteen years ago. His night on the island he told only Liss. She grew up seeing exactly what a bond costs, which is part of why she has never sought one.
@@ -52,6 +52,8 @@
 - **A young daughter** *(established)*: **Wren** (9). Her mother, Calder's wife **Senna**, died of fever five years ago. Calder raises Wren with his mother's help. Wren makes everyone say Lisska's words twice, wants to meet the lion-woman ("Tell her I said hello", 56), and meets Maren at Greyhold's gate (69): "You're her."
 - **His younger sister, Bel,** married into the next village, Upper Rush, closer to the Dragon Clan's hold (see the supporting cast).
 - The family farm sits on the Saltreach side of the border river, in the shadow of the Clan's lands. They sell grain to the Clan's hold.
+
+**He can write** *(fixed Oct 2026)*: Ada teaches him his letters in Book 2, and by its end he writes for himself. On day 365 (Book 2 ch 88), at Bel's table in the hatching caves, he writes the account's first line: *The dragons came to me in a barley field, and I had never asked them for anything.* The second follows that afternoon: *It was the end of the harvest fair, and I had a daughter asleep in the house, and nobody had ever told me anything.* The bonds took him in the barley stubble. He writes the account's last page in the hall under Coldtarn (Book 3 ch 84).
 
 **Flaw: passivity.** Calder has spent his life keeping his head down: paying the Clan's dues, avoiding the knights across the river, letting stronger people decide. It kept his family alive. Then the bonds come to him without his choosing, and he can't keep his head down anymore. His arc runs from letting things happen to choosing: warning a stranger at the other lock in chapter 70, fighting at the Old Ruin, and in Book 2 bringing the truth to the Clan.
 
@@ -112,7 +114,7 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 |---|---|---|
 | The knight school | **Greyhold** | A fortress-school on Hearthmere's bank of the border river. |
 | Maren's mentor (inner circle) | **Warden Osric Hale** | Kind, tired, carrying the secret; the one who confirms it in chapter 49. "Warden" is the inner circle's rank. Past sixty, tall, stooped, short white beard, bad hip, ash stick. Wears a ring of keys with one long black key, the archivist's. Keeps the archive; a Second-ring Reader *(proposal, `Magic.md` §4b)*. Unbonded. Went down below at twenty-three, forty years ago, sworn in by Merrow. Confesses to Maren (49) and takes her to the door (51): "Don't you ever put your hand on that door again." Dies at the black door, giving Maren his key (75). |
-| Maren's bonded rival | **Lucan Haverly** *(settled; renamed from Corwin Brandt, which was too close to Corvin Vale)* | Younger, gifted, bonded to a falcon-like beast named **Kesh**, who chose him at fifteen; not cruel, just certain he deserves everything he's handed. Holds the north tower stair; Kesh is shot; he dies in Maren's arms (75). |
+| Maren's bonded rival | **Lucan Haverly** *(settled; renamed from Corwin Brandt, which was too close to Corvin Vale)* | Younger, gifted, bonded to a falcon-like beast named **Kesh**, who chose him at fifteen at his family's mews, before he came to Greyhold; he came to Greyhold two years before Book 1 and is twenty-one; not cruel, just certain he deserves everything he's handed. Holds the north tower stair; Kesh is shot; he dies in Maren's arms (75). |
 | The trial master | **Knight-Captain Ilse Rowan** | Sets Maren's trial in chapter 11. Her room is at the top of the north tower. Knows the secret as Captain, not as Watch; orders Maren to bait the trap (59); confines her. Turns back from Redwatch with half the orders, too late (69); doesn't let Maren in. At dusk on day 143 takes every rider who can sit a horse back up the River Road to Redwatch (75). |
 | Captain at Greyhold | **Captain Marta Thorne** | Watch (inner circle) (51); holds the Watch-captain's key. Her bonded boar is black, the size of a hay cart. Draws Rowan's trap (59). Lifted her hand to Calder the morning after the burning: "the only right thing I did that whole night." Dies at the river gate with her boar (75); Callis takes her key. |
 | Weapons instructor | **Instructor Pell** | Long-boned, grey, two fingers lost to a Saltreach company's tamed wyvern, the rare bonded one, loose on the coast road below Stillhaven (9). Teaches subdue, don't kill. Dies holding the gate (69): "Subdue. Don't kill. Unless you have to." |
@@ -121,12 +123,12 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 | A bonded student | **Ide Darrow** | Second-year in Maren's year. Her hound **Bracken** is brindled, waist-high, with one torn ear. Bracken is killed at Redwatch (39); Ide withers and dies at dusk on day 65: one life between two, seen up close. |
 | Master of Stables | **Grieve** | Unbonded, forty years at Greyhold. "Warden" is kept for the inner circle. |
 | Retired knight | **Merrow** (91) and his ox-beast **Dun** | Die together on day 56. Merrow swore Hale into the inner circle. |
-| Knights of the gate | **Vasey, Callis, Wynn** | Wynn's hound is Ash. **Callis** is the seal-holder (since before Upper Rush), passed over for the inner circle; his own hound is Grip. Maren breaks his arm (63) and his other wrist (77). He opens the river gate on night 143 and takes Cassian down with Thorne's key; alive at the end. |
+| Knights of the gate | **Vasey, Callis, Wynn** | **Wynn** is a man; his hounds are Ash and Sorrow (`Bestiary.md`). **Callis** is the seal-holder (since before Upper Rush), passed over for the inner circle; his own hound is Grip. Maren breaks his arm (63) and his other wrist (77). He opens the river gate on night 143 and takes Cassian down with Thorne's key; alive at the end. |
 | River watch | **Fenna, Brannoch** | |
 | River-watch sergeant at Redwatch | **Sergeant Ottery** | Maren's old sergeant; never gets up for anyone below a captain. Tells her the boats were ordered in on the night of the raid (Chapter 5). |
 | Sergeant of the Redwatch tower | **Tasker** | A heavy man by the guardroom fire (33). (Renamed from Brask, which clashed with Coll Brask.) |
 | Maren's patrol horse | **Turnip** | Elderly piebald, one white eye, a dried turnip tied to his bridle. What the stables give the late-oath candidates. |
-| Maren's mother | **Liss Ashdown** | Runs the ferry; knows every river story. Carries Calder's family across as refugees (64). |
+| Maren's mother | **Liss Ashdown** | Runs the ferry; knows every river story. Carries Calder's family across as refugees (64). In the autumn of Book 3 she moves her ferry and household up to the eddy where the island was (`World.md`, **The eddy**). |
 | Maren's brother | **Tam Ashdown** | Smith's apprentice at Millbrook; drawn to the Restoration's promises (31); stands on the hedge-wain with a torch beside Odo (57); Maren pulls him out of the burning forge (71). |
 | Millbrook's smith, Tam's master | **Odo Marl** | Huge, bald, burned forearms, laughs like a bellows; always complains about the price of charcoal. His mark is two crossed hammers. His smithy is chained shut by the crown. Pulled out of the burning forge with Tam (71), legs broken; throws his crossed-hammer punch and the six-punch into the river. |
 | The Kettle's potboy | **Davin** | Sixteen. Reads the paper aloud on the Millbrook jetty; arrested day 93; held under Greyhold's gatehouse; sent to Hallowmere for trial (51). "Did you ask?" Let go for want of a law; back among the refugees at Greyhold's gate (69). |
@@ -196,6 +198,13 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 | A sellsword of Delling's company | **Coll Brask** | Out of Wendmouth. No ring; paid ten silver a man. Taken alive at Upper Rush (54); tells Calder the price on him and on "the knight with the lion"; let go at dawn. |
 | The camp man | — | A young Restoration man with a soft beard. Brings Joss home: "The one realm grieves with you. Our door's open." At the Ewe Beck fire: "Enemy!" (50, 52) |
 | Saltreach boatman and poacher | **Gannet** | Out of Wendmouth. Long, thin, silver earrings, a smile that arrives first. Swears to take his grievance "across the river" (Chapter 7). |
+
+### Isvaren, from Book 2
+
+| Who | Name | Notes |
+|---|---|---|
+| The tide-reader, third POV | **Idony Vael** | A man, about thirty-one, a Second-ring Reader of the College of Tides; profile in `Magic.md` §11. |
+| The big Warden on the Long Library's gate at Vael | **Brannagh** | A man, big and short-haired, with a lynx (Book 2 chs 28–40). |
 
 ### Places
 

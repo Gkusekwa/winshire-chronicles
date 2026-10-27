@@ -4,7 +4,7 @@
 
 ## Settled by the author (after Book 1)
 
-*The most current canon in the Bible. The author approved every drafted answer in the Book 2 and Book 3 review questions (Oct 2026), so both books' drafts are canon. Book 2 is drafted (88 chapters, first draft); Book 3 is drafted (86 chapters, first draft), its last line the author's own. Their plans are `Book 2/Chapter_Plan.md` (revision 5; drafted, review settled) and `Book 3/Chapter_Plan.md` (revision 3; drafted, review settled), which replace the old Outline files.*
+*The most current canon in the Bible. The author approved every drafted answer in the Book 2 and Book 3 review questions (Oct 2026), so both books' drafts are canon. Book 2 is drafted (88 chapters, first draft); Book 3 is drafted (86 chapters, first draft), its last line the author's own. All three books, 253 chapters, were audited and fixed in October 2026. Their plans are `Book 2/Chapter_Plan.md` (revision 5; drafted, review settled) and `Book 3/Chapter_Plan.md` (revision 3; drafted, review settled), which replace the old Outline files.*
 
 - **These are beast books, not dragon books.** Dragons are one kind of beast among many (the Dragon Clan's). Every kingdom's own beasts carry weight in its chapters, its set pieces and the war, and the sky is shared (`Bestiary.md`, The sky).
 - **Maren and Calder don't travel together.** They meet only out of necessity; each has a separate task, and their stories cross when they must. (This governs Books 2 and 3.)
@@ -228,7 +228,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 
 ## Open series questions
 
-**Still open** (the full list, with where each lives, is in **Open questions for the author** below):
+**None open.** Every series question below is settled; the only open questions are the publishing choices in **Open questions for the author** below.
 - ~~How does the Clan come to believe the farmer in Book 2?~~ *Settled (Oct 2026), as drafted: the ledger, Ulric's memory and the ledges' witness, sealed by Corvin's raid on the Roosts and the united pour (`Book 2/Chapter_Plan.md`, question 22).*
 - ~~What does each relic look like?~~ *Settled (Oct 2026), as drafted: hollow eggs of grey old-realm stone (`Book 2/Chapter_Plan.md`; `Magic.md` §5).*
 - ~~How exactly did Hearthmere find and chain its Titan?~~ *Settled (Oct 2026), as drafted: about three hundred years ago (Book 1 ch 49, 57), its history told in Book 2 (ch 34) and the old collapse's cause in Book 3 (30, 46).*
@@ -236,10 +236,10 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - ~~Who are the elder Titans, where have they been, and why do they choose to help?~~ *Settled (Oct 2026), as drafted: the Grey Mother, the Wayfarer, the Lamp and the Lady, on the Lit Shore (`Book 3/Chapter_Plan.md`, questions 5, 9).*
 - ~~What does it cost the lion and the dragons to become Titans, and does it change their bonds?~~ *Settled (Oct 2026), as drafted: they grow Titan-class and die shielding people (Book 3 ch 78, 81, 83); the bond goes quiet at 84 (questions 1, 14, 15).*
 - ~~Which kingdom plots to be supreme, and does its betrayal cause the defeat?~~ *Settled (Oct 2026), as drafted: Kessmoor (Book 3 question 3).*
-- ~~Which Titans survive the end of Book 3, and how do they stay hidden?~~ *Settled (Oct 2026), as drafted: none on the page. Of the six destroyers, the alliance kills the Antlered and the Furnace; the Horned Sun, the Pale Coil and the Bell burn out in the surge they made; the Last Titan's breath goes out last, under the mountain (Book 3 ch 82, 83). Of the elders, two give their power and fade, the Lamp is killed, and the Lady, not a destroyer, goes down with the Bell (76) and her breath goes out with its (82). Kit's one sighting (Book 3 ch 76) leaves a doubt for the next series.*
+- ~~Which Titans survive the end of Book 3, and how do they stay hidden?~~ *Settled (Oct 2026), as drafted: none on the page. Of the six destroyers, the alliance kills the Antlered and the Furnace; the Horned Sun, the Pale Coil and the Bell burn out in the surge they made; the Last Titan's breath goes out last, under the mountain (Book 3 ch 82, 83). Of the elders, two give their power and fade, the Lamp is killed, and the Lady, not a destroyer, goes down with the Bell in the lower Wend below the Sheepford (76) and her breath goes out with its (82). Kit's one sighting (Book 3 ch 76) leaves a doubt for the next series.*
 - ~~What does immortality cost them?~~ *Settled (Oct 2026), as drafted: shown, not explained (Book 3 ch 86); nobody says how long they'll live. The rest is for the next series.*
 - ~~What happens to the destroyer Titans at the very end?~~ *Settled (Oct 2026), as drafted: two are killed (the Antlered, 50; the Furnace, 65); the Horned Sun, the Pale Coil and the Bell burn out in the surge they made (82); the Last Titan's breath goes out last, under the mountain (83) (question 1).*
-- What are elementals: beings, a new kind of magic, or both? *(Settled for the trilogy by the author, Oct 2026: **nothing in Books 1–3 explains elementals.** The one sighting, the stone thing at Book 3 ch 86, is shown, never named or explained. What they are belongs to the Age of Elementals books.)*
+- ~~What are elementals: beings, a new kind of magic, or both?~~ *(Settled for the trilogy by the author, Oct 2026: **nothing in Books 1–3 explains elementals.** The one sighting, the stone thing at Book 3 ch 86, is shown, never named or explained. What they are belongs to the Age of Elementals books.)*
 - ~~Does the Age of Elementals get its own books or games?~~ *Settled by the author (Oct 2026): its own books.*
 - ~~Does the student's own character change as the lion grows into a Titan?~~ *Settled (Oct 2026), as drafted: she pays in feeling and cold and ends as something else, close to a Titan, not named (Book 3 ch 66, 80, 83, 86; question 15).*
 
@@ -247,7 +247,19 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 
 ## Open questions for the author
 
-*Everything the author still has to settle, grouped by where it bites. Each line says where the question lives.*
+*Only the publishing choices are still open (`Publishing.md`):*
+- KDP Select or wide
+- Which editor and cover designer
+- Own name or a pen name, and the imprint
+- Release Book 1 alone, or the three close together
+
+## Settled questions
+
+*Kept as a record of where each answer lives.*
+
+**Book 1:** nothing open. The drafts are canon; the rulings from the Chapters 41–79 review are in `Book 1/Notes/Rulings_41-79.md`.
+
+**Winshire Tales:** the plan's six questions are settled (Oct 2026; `Tales/Plan.md`).
 
 **Series and world**
 - ~~Kingdom names other than Saltreach; are all place names final?~~ *Settled (Oct 2026), as drafted: the names as used in the drafts of Books 1–3 are final.*
@@ -278,13 +290,9 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - ~~Where Corvin got his older key for the Ruin's lock~~ *Settled (Oct 2026): their father found it digging a drain under the grooms' yard (Book 2 ch 76, 77; `World.md`, **The keys**).*
 
 **Book 3** (`Book 3/Chapter_Plan.md`, revision 3; chapters 1–86 in first draft, review settled)
-- The plan's review questions 1–32 are settled (Oct 2026), approved as drafted, including 24–32 raised in drafting 51–86 (Varrhold buried, the count of 555, the Antlered's stone in Maren, Liss's pin). 33 is settled too: the author wrote the last line of ch 86, "She didn't count them." Check the dependency on Book 1 ch 70, which already restores Ennis's face and name.
+- The plan's review questions 1–32 are settled (Oct 2026), approved as drafted, including 24–32 raised in drafting 51–86 (Varrhold buried, the count of 555, the Antlered's stone in Maren, Liss's pin). 33 is settled too: the author wrote the last line of ch 86, "She didn't count them.", which appears nowhere else in the trilogy. Book 1 ch 70 already restores Ennis's face and name, as the ending needs.
 - ~~How Corvin dies, and whether he is redeemed~~ *Settled (Oct 2026), as drafted: unredeemed (question 7).*
 - ~~Whether Idony stays unbonded through Book 3~~ *Settled (Oct 2026), as drafted: unbonded (question 19; `Magic.md` §11).*
 
 **Publishing** (`Publishing.md`)
-- ~~Editions and formats~~ *Settled (Oct 2026): ebooks only, one complete edition, never split.*
-- KDP Select or wide
-- Which editor and cover designer
-- Own name or a pen name, and the imprint
-- Release Book 1 alone, or the three close together
+- ~~Editions and formats~~ *Settled (Oct 2026): ebooks only, on Amazon KDP, one complete edition, never split.*

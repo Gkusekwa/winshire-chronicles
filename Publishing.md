@@ -8,7 +8,7 @@
 
 - **Every book is published complete, in one volume, never split**, with all the chapter-opener art and every chapter-end map.
 - **Every chapter** *(established)*: it opens with its abstract picture and closes with the updated map. The bare map opens the book.
-- **One text only.** There is no abridged or second edition.
+- **One text only.** Each book has one text, unabridged, in its one edition.
 
 ## Where the books go
 
@@ -18,7 +18,7 @@
 
 ## Ebook practicalities
 
-- **Images:** about 160 images in Book 1 (79 openers and 79 maps, plus front matter). Keep them lean: greyscale PNG or JPEG about 1,600 px wide, because many readers use black-and-white e-ink screens.
+- **Images:** about 160 images in Book 1 (79 openers and 79 maps, plus front matter); Books 2 and 3 will need about 176 and 172 once their art and maps are made. Keep them lean: greyscale PNG or JPEG about 1,600 px wide, because many readers use black-and-white e-ink screens.
 - **Delivery fee:** under KDP's 70% royalty option, Amazon charges a delivery fee per megabyte of the ebook file, so compress every image and check the file size before upload. (Check current rates.)
 - **Preview** on an e-ink Kindle, a phone and a tablet before release.
 

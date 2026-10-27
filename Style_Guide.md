@@ -7,7 +7,7 @@
 - Two protagonists, **strictly alternating chapters**: odd chapters follow the student, even chapters the farmer (Book 1).
 - Each protagonist's chapters **reference events happening to the other**: rumors, sightings, news, signs. The reader knows more than either protagonist until they meet.
 
-### Books 2–3 *(proposal: the provisional plans)*
+### Books 2–3 *(established: as drafted)*
 
 - **Book 2: three POVs** (S Maren, F Calder, R Idony). S and F keep strict alternation with each other; R chapters slot between them, never two in a row (`Book 2/Chapter_Plan.md`). Idony's chapters "think in measurements" (`Bible/Magic.md` §11).
 - **Book 3: seven POVs** (S, F and R, plus G Rowan, C Arn, U Tobin and M Kit Merrin). S and F keep strict alternation with each other; the other five slot between them, never two in a row (`Book 3/Chapter_Plan.md`).
@@ -44,11 +44,21 @@
 - Don't group things in threes by reflex (three adjectives, three clauses, three beats).
 - Use few em dashes; prefer commas and full stops.
 - Avoid balanced, symmetrical sentences ("not just X, but Y"; "It wasn't X. It was Y.").
+- Use "Not X. Y." corrections sparingly, and never in clusters.
+- No "the way you… / the way a…" similes. Use no comparison, or a plain "like" or "as".
+- Thin out "twice", "say it twice", "didn't say anything", "for a long time" and "didn't know why" wherever they bunch up.
+
+**Chapter exits**
+- Vary how chapters end. No more than two chapters in a part end on lying awake, dusk at a window, or something "still warm".
+- Don't end two chapters on the same line or image, and don't reuse a simile word for word.
+- Never close on a stated design or lesson.
+- "She didn't count them." is the last line of the trilogy (Book 3 ch 86) and appears nowhere else, nor anything close to it. Maren can still leave something uncounted; show it rather than say it.
 
 **Dialogue**
 - People talk past each other, interrupt, and leave things out. Nobody explains what both speakers already know.
 - Use "said" almost always. Don't fill pauses with nods, soft smiles or sighs.
 - Humor is allowed, even in grim chapters.
+- Keep the voices distinct where they speak. Tobin is hurried and sharp; Liss warm and bustling; Cassian warm and persuasive, Corvin brief; Hob the miller dry and mercantile, prices first. Each dragon sounds different even in italics (`Bible/Characters.md`).
 
 **Words and phrases to avoid**
 - testament, tapestry, delve, palpable, intricate, symphony, ethereal, unspoken, visceral
@@ -63,7 +73,7 @@
 
 ## Length
 
-- **No upper limit.** Book 1 is drafted: **79 chapters in six parts, about 311,000 words** (first draft, about 3,900 a chapter), and chapters run as long as their scenes need. Early chapters near 3,000 words are fine. The Book 2 plan estimates 310,000–440,000 words and the Book 3 plan 315,000–450,000: estimates, not targets.
+- **No upper limit.** All three books are drafted: Book 1 in **79 chapters in six parts, about 311,000 words** (first draft, about 3,900 a chapter), Book 2 in 88 chapters and Book 3 in 86, 253 in all. Chapters run as long as their scenes need. Early chapters near 3,000 words are fine.
 - Length has to come from people, place and consequence: every scene earns its room by changing something or showing someone we'll care about later. Cut anything that only repeats.
 
 ## Names and terms
@@ -84,7 +94,7 @@
 
 ## Manuscript files
 
-- One file per chapter in `Book 1/Chapters/`, named `Chapter NN - Title.md`.
+- One file per chapter in each book's `Chapters/` folder (`Book 1/Chapters/`, `Book 2/Chapters/`, `Book 3/Chapters/`), named `Chapter NN - Title.md`.
 - Each file begins with planning notes between `<!-- notes -->` markers, then a `---` line. **Write the prose below the line.** The notes don't go into the published book.
 
 ## Book design *(working)*
@@ -94,4 +104,5 @@
 - **Chapter openers:** each chapter opens with its abstract ink piece (`Book 1/Art/Chapter Openers/`).
 - **Chapter endings:** each chapter closes with a map page (`Book 1/Art/Maps/Chapter endings/`). All of Winshire sits on top, showing only the names the story has reached so far; unexplored lands stay bare. A close-up of the Marches sits below it, with a list of what's new on the map. New places and events are ringed. Older events keep their mark without a label.
 - **Front matter:** the book opens on a bare Winshire with no names (`Book 1/Art/Maps/Front matter/`). Readers fill it in by reading.
+- **Books 2–3** still need their own chapter-opener art and chapter-end maps; neither is made yet. Each plan row names where its chapter-end map should centre (the **Ends at** column).
 - **Keep the maps in step with the prose.** When a drafted chapter moves a place or event, or mentions a new one, update `Tools/atlas/marches_items.py` and rebuild. `Bible/Atlas.md` lists what appears in each chapter.

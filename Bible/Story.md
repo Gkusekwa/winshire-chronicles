@@ -37,7 +37,7 @@ The beast remains independent and dangerous after bonding; it is not a tame moun
 *(Answered in Book 1:)* its name is **Orrun**, learned through the bond (73). Its history, in part: the cat on the bridge's tower steps, kin of the chained Titan, keeper of its door ("and its own kin kept the door"). Its gift is earth and stone (`World.md`). Its multiplication in Book 1 is in `Bestiary.md`. The sacrifice came from the student (73). People fear it as "the monster of the Old Ruin".
 
 **The lion and Maren** *(the author's rule: earned the hard way; the lion and Maren can't speak until the bond)*
-- **The attacks:** it strikes her on the shore (19), charges her at the stream and besieges the tower (23), and pins her when she crosses with a chisel for its collar (29). She defends herself, hurting it only where it does no harm.
+- **The attacks:** three, in canon: it strikes her on the shore (19), charges her at the stream and besieges the tower (23). Any count of them in a chapter matches the attacks that have happened by then. It pins her when she crosses with a chisel for its collar (29). She defends herself, hurting it only where it does no harm.
 - **The progress:**
   - She cuts it off the hunters' chain (21) and won't take its mane (23), so she fails the trial.
   - The fire on the ground, empty hands, distance kept. It has one setback (27).

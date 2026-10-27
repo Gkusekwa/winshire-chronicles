@@ -44,7 +44,7 @@
 
 ## The shape of the land
 
-- **Mountains.** The **Worldsend** runs down the whole eastern edge, the highest range in Winshire, white all year; the clans say the Titans walked there. The **High Crown** closes the north. The **Iron Fells** run south-east from the High Crown between Kessmoor and Isvaren, rich in ore. The **Scarfell** is the Dragon Clan's moorland north-east of the Marches. The **Sunward Hills** are Sarovel's vineyards.
+- **Mountains.** The **Worldsend** runs down the whole eastern edge, the highest range in Winshire, white all year; the clans say the Titans walked there. The **High Crown** closes the north. The **Iron Fells** run south-east from the High Crown between Kessmoor and Isvaren, rich in ore, and bend east under the foot of Glasswater. The **Scarfell** is the Dragon Clan's moorland north-east of the Marches. The **Sunward Hills** are Sarovel's vineyards.
 - **Rivers.** The **Wend** rises in Isvaren's snows and runs south to the Shattered Sea, marking the Hearthmere–Saltreach border for its whole lower course. The **Coldrun** drains Kessmoor west through Ironhythe to Gearmouth. The **Gilt** waters Sarovel and reaches the sea at Solenne. The **Meryl** carries the Mere south to Stillhaven. The **Ysse** comes out of the Worldsend, fills Lake Ysse, and reaches the sea at Corsa. **Hollow Beck** runs from Coldtarn past Varrhold and Harrow's End into the Wend opposite the Old Ruin.
 - **Lakes.** **The Mere** (Hearthmere's heart, shallow and wide), **Lake Ysse** (where the Wyldmarch clans hold their moot), **Glasswater** (under Vael's towers), **Coldtarn** (a black tarn above Varrhold where the Clan burns its dead).
 - **Forests.** The **Thornwood** (the Wyldmarch's deep forest), the **Greenwold** (oak woods north and east of Hallowmere, running east to the upper Wend at the Greenwold road's ford), the **Brackenwood** (royal hunting ground beside Greyhold), the **Elderwood** (Sarovel), the **Ashlings** (Saltreach scrub woods).
@@ -164,9 +164,9 @@
 
 *Established: the border region is the Marches; a river marks the border; the Old Ruin stands on an island in it; Greyhold is on the Hearthmere bank and Calder's farm and the Clan's lands on the Saltreach side. The river's name, the Wend, and the layout below are proposals.*
 
-- **Coldtarn** (landmark). A black mountain lake in the Scarfell, four or five leagues above Varrhold, that never freezes. The Clan's dead are burned on its shore.
 - **The Scarfell** (landmark). Bare, high moorland and broken crags north and east of the Marches: heather, scree and wind. Dragon country. Sheep, if you're brave.
 - **Northwatch** (tower). A patrol tower on the River Road, manned by the river watch. Signal fires on the roof. Maren served here.
+- **Coldtarn** (landmark). A black mountain lake in the Scarfell, four or five leagues above Varrhold, that never freezes. The Clan's dead are burned on its shore.
 - **Varrhold** (hold). *(name proposed)* The Dragon Clan's hold, eleven leagues north-east of Harrow's End in the Scarfell. A ring of black-stone longhouses inside a turf rampart, the chief's hall roofed with dragon-scale shingles shed over generations, and above it the Roosts: dragon eyries cut into the cliff, scorched black at the mouths. Two days by grain cart from Harrow's End, one on horseback; about an hour and a half by dragon at a steady pace.
 - **Hollow Beck** (landmark). The stream that runs down from Coldtarn in the Scarfell, past Varrhold and Harrow's End, into the Wend opposite the Old Ruin.
 - **Upper Rush** (village). *(Chapters 1 and 2)* A hamlet of four farms in a hollow above the Saltreach bank, two leagues upriver of Harrow's End. Its barns are the fires Maren sees from the river wall in Chapter 1: raided at night for beasts, then burned. Harrow's End blames the Clan's quarrel.
@@ -198,7 +198,7 @@
 - **Chapter 11, The Trial:** Ruin Island; Redwatch boathouse.
 - **Chapter 12, Harvest:** Harvest fair.
 - **Chapter 13, The Old Ruin:** The carved verse; Hunters' camp.
-- **Chapter 14, The Younger Son:** Where Teo Varr fell; Burned shieling at the ford.
+- **Chapter 14, The Younger Son:** Where Teo Varr fell; Burned shieling at the ford; Teo's ford.
 - **Chapter 15, Signs:** Hunters' camp.
 - **Chapter 16, The Ford:** Skarrow.
 - **Chapter 18, The Mill:** Where three warriors fell; Mill burned.
@@ -253,7 +253,6 @@
 - **Penfold** (from Chapter 5). Shepherds' hamlet on the high ground west of the River Road.
 - **The Roosts** (from Chapter 6). Dragon eyries cut into the cliff above Varrhold, black at the mouths.
 - **The Ram's Head** (from Chapter 6). Drovers' inn on the Drover's Way, halfway between Harrow's End and Varrhold. Seven leagues from each.
-- **Teo's ford** (from Chapter 14). Where the Drover's Way crosses Hollow Beck under alders: eight leagues up the Way from Harrow's End, a league above the Ram's Head, six below Varrhold. The falls on Hollow Beck, where Clan ground begins, are about three leagues below the hold.
 - **The Kettle** (from Chapter 7). Millbrook's tavern, where Saltreach boatmen drink and sell.
 - **Caged beast** (from Chapter 7). At Millbrook jetty, Saltreach poachers have a young beast in a cage. Maren frees it.
 - **Little Weir** (from Chapter 7). A hamlet at the weir below Millbrook; flour barges wait here for the water.
@@ -264,6 +263,7 @@
 - **Old hatching caves** (from Chapter 40). The Clan's old hatching caves above Coldtarn, unused for a hundred years. The dragons winter there.
 - **The lion's pit** (from Chapter 53). At the island's north end the lion has dug down all winter to a course of dressed grey stone running under the river toward Greyhold. It's trying to get down to its kin.
 - **Hollin Knowe** (from Chapter 67). A long rise at the Brackenwood's edge, two leagues west of the river, with the old watch's beacon-stones on top. Maren and the lion watch the muster from it.
+- **Teo's ford** (from Chapter 14). Where the Drover's Way crosses Hollow Beck under alders: eight leagues up the Way from Harrow's End, a league above the Ram's Head, six below Varrhold. The falls on Hollow Beck, where Clan ground begins, are about three leagues below the hold.
 
 ## Author's eyes only: temples and the catacombs
 

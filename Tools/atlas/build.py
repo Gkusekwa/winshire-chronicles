@@ -232,7 +232,7 @@ def write_atlas():
 
     L.append("## The shape of the land\n")
     L.append("- **Mountains.** The **Worldsend** runs down the whole eastern edge, the highest range in Winshire, white all year; the clans say the Titans walked there. "
-             "The **High Crown** closes the north. The **Iron Fells** run south-east from the High Crown between Kessmoor and Isvaren, rich in ore. "
+             "The **High Crown** closes the north. The **Iron Fells** run south-east from the High Crown between Kessmoor and Isvaren, rich in ore, and bend east under the foot of Glasswater. "
              "The **Scarfell** is the Dragon Clan's moorland north-east of the Marches. The **Sunward Hills** are Sarovel's vineyards.")
     L.append("- **Rivers.** The **Wend** rises in Isvaren's snows and runs south to the Shattered Sea, marking the Hearthmere–Saltreach border for its whole lower course. "
              "The **Coldrun** drains Kessmoor west through Ironhythe to Gearmouth. The **Gilt** waters Sarovel and reaches the sea at Solenne. The **Meryl** carries the Mere south to Stillhaven. "
@@ -293,7 +293,7 @@ def write_atlas():
     L.append("")
 
     L.append("## Author's eyes only: temples and the catacombs\n")
-    L.append("*Spoilers for Books 1 and 2. These never appear on a reader's map. Established: six temples, one per kingdom; Hearthmere's lies beyond the chains in the catacombs; each kingdom was founded, unknowing, over a sleeping Titan. Exact sites are proposals.*\n")
+    L.append("*Spoilers for Books 1 and 2. These never appear on a reader's map. Established: six temples, one per kingdom; Hearthmere's lies beyond the chains in the catacombs and is the one temple that held two relics (its sleeper's sleep relic, broken when the Titan was chained, and the control relic in the deepest vault); each kingdom was founded, unknowing, over a sleeping Titan. Exact sites are proposals.*\n")
     for p in Wd.P:
         if p["secret"]:
             L.append(f"- **{p['name']}** ({Wd.KINGDOMS[p['kingdom']]['name']}). {p['desc']}")

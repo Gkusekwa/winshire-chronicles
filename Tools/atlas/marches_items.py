@@ -58,7 +58,7 @@ item("shrine_rr", "Wayside shrine", "shrine", 173.0, 93.4, 3, "A roadside shrine
 
 # ---------- Chapter 4: The Uncle and the Sons (Calder) ----------
 item("roosts", "The Roosts", "eyrie", 186.2, 93.0, 4, "Dragon eyries cut into the cliff above Varrhold, black at the mouths.", dx=0.2)
-item("ramshead", "The Ram's Head", "inn", 180.9, 99.0, 4, "Drovers' inn on the Drover's Way, halfway between Harrow's End and Varrhold.", dx=0.2)
+item("ramshead", "The Ram's Head", "inn", 180.9, 99.0, 4, "Drovers' inn on the Drover's Way, halfway between Harrow's End and Varrhold. Seven leagues from each.", dx=0.2)
 item("dragons4", "Dragons at the Roosts", "dragon", 187.8, 91.0, 4, "Dozens of Clan dragons on the cliffs and in the air above the hold.", label=False)
 item("tocoldtarn", "to Coldtarn", "arrow_n", 191.6, 85.0, 4, "Hollow Beck rises at Coldtarn, where the Clan burns its dead.")
 
@@ -76,7 +76,7 @@ item("ruinisland", "Ruin Island", "area_small", 176.0, 102.2, 7, "The wooded isl
 item("boathouse", "Redwatch boathouse", "pier", 174.0, 99.4, 7, "The river watch's patrol boats. Maren takes one out to the island.", label=False)
 
 # ---------- Chapter 8: The Younger Son (Calder) ----------
-item("teofell", "Where Teo Varr fell", "death", 183.0, 96.0, 8, "The chief's younger son found dead at the ford of Hollow Beck, apparently by the uncle's men.", dx=0.2)
+item("teofell", "Where Teo Varr fell", "death", 181.4, 98.5, 8, "The chief's younger son found dead at the ford of Hollow Beck, apparently by the uncle's men.", dx=0.2)
 
 # ---------- Chapter 9: The Old Ruin (Maren) ----------
 item("verse", "The carved verse", "verse", 175.7, 103.2, 9, "A verse about Winshire, carved under the tower arch.", label=False)
@@ -216,7 +216,7 @@ item("fair", "Harvest fair", "fire_plain", 178.9, 101.9, 12, "Harrow's End's har
 item("ice41", "Where the ice broke", "ice", 175.0, 108.4, 41, "A refugee family tries to walk across the frozen Wend. Maren goes after them; the ice breaks, and something huge pulls her out.", dx=0.3)
 item("rcamp50", "Restoration beast camp", "camp", 183.6, 107.0, 50, "The camp that holds Joss's other grey. Joss goes looking for it and is brought back dead.", dx=0.3)
 item("burn52", "Kharrak's fire", "fire", 183.6, 107.0, 52, "Calder lets Kharrak burn the camp and free its beasts. The Restoration names him an enemy.", label=False)
-item("ford60", "Ambush at the ford", "battle", 183.0, 96.0, 60, "Calder's peace meeting at Teo's ford becomes an ambush.", dx=0.3, dy=0.6)
+item("ford60", "Ambush at the ford", "battle", 181.4, 98.5, 60, "Calder's peace meeting at Teo's ford becomes an ambush.", dx=0.3, dy=0.6)
 item("ferry64", "Refugees cross", "path", 174.7, 107.1, 64, "Ada, Wren and Bel's family cross to Hearthmere on Liss Ashdown's ferry.",
      path=[(177.0, 108.5), (175.8, 108.0), (174.6, 107.5)], label=False)
 item("pell69", "Where Pell fell", "death", 172.9, 106.2, 69, "Instructor Pell dies holding Greyhold's gate.", dx=-0.3, dy=-0.9)
@@ -234,12 +234,12 @@ _set("flight", ch=24, path=[(177.7, 102.3), (178.6, 102.0), (179.6, 102.2)])
 _set("burn18", x=177.3, y=103.0)
 _set("knights18", x=174.9, y=103.2)
 _set("fair", x=177.4, y=102.7)
-_set("teofell", x=182.9, y=96.6)
+_set("teofell", x=181.3, y=98.7)
 _set("ford60", x=182.9, y=96.6)
 _set("crossing24", path=[(179.6, 102.2), (178.4, 102.6), (177.3, 103.0), (176.4, 103.2), (175.8, 103.5)])
 _set("weirs", desc="Tolly's Staithe's eel traps, staked across the shallows by the ferry.")
 item("eelweir", "The Eelweir", "weir", 176.6, 103.1, 2, "Harrow's End's fishing landing at the mouth of Hollow Beck, opposite the Old Ruin. Old Fisk and his sons keep it.", dx=0.2)
-item("shieling14", "Burned shieling at the ford", "fire", 183.1, 96.3, 14, "Teo is found dead at the ford; the gorse and the shepherd's shieling are fired.", label=False)
+item("shieling14", "Burned shieling at the ford", "fire", 181.6, 98.4, 14, "Teo is found dead at the ford; the gorse and the shepherd's shieling are fired.", label=False)
 item("huntcamp15", "Hunters' camp", "camp", 175.2, 102.9, 15, "Restoration hunters' cache under a bluff on the island's north-west shore: chains, stakes, a cage.", label=False)
 item("skarrow16", "Skarrow", "hamlet", 191.0, 95.0, 16, "Ulric's own steading on the east side of the Scarfell, where he takes most of the fighting men.", dx=0.3)
 item("millburn18", "Mill burned", "fire", 177.6, 103.2, 18, "Arn fires Hob's mill and Ulric's flour; the battle spills onto the Fenn fields.", label=False)
@@ -310,3 +310,6 @@ _set("bond37", x=172.5, y=102.5)
 _set("farseer", path=[(178.2, 101.9), (176.6, 101.6), (174.4, 101.7), (172.5, 102.3)])
 _set("titan41", dx=2.6, dy=3.4, keep=True)
 _set("titanflight", name="It flew north-east")
+
+# Added Oct 2026 (new chapter numbering): Teo's ford placed where the Way crosses Hollow Beck, as the prose has it.
+item("teosford", "Teo's ford", "landmark_pt", 181.4, 98.5, 14, "Where the Drover's Way crosses Hollow Beck under alders: eight leagues up the Way from Harrow's End, a league above the Ram's Head, six below Varrhold. The falls on Hollow Beck, where Clan ground begins, are about three leagues below the hold.", dx=0.2)

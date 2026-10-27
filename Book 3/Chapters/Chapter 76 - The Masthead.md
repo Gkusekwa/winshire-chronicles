@@ -4,27 +4,27 @@
 POV: Kit
 Part: Part Six: The Vale of the Wend
 Days: 319–320 (dusk to mid-afternoon) (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
-Ends at (chapter-end map): The lower Wend below the Staithe
-Beats: Kit's barges on the Wend as the hub breaks; the river runs backwards. She gets what boats she can to the Saltreach bank and the people onto the Drover's Way. She's the only one who sees the Lady and the Bell go down together in the lower Wend, where the sea came up the drained bed below the Staithe, and she can't say whether they died.
+Ends at (chapter-end map): The lower Wend below the Sheepford
+Beats: Kit's barges on the Wend as the hub breaks; the river runs backwards. She gets what boats she can to the Saltreach bank and the people onto the Drover's Way. She's the only one who sees the Lady and the Bell go down together in the lower Wend, where the sea came up the drained bed below the Sheepford, and she can't say whether they died.
 Echo of another story: The lion making six of himself on six roads.
 Status: first draft
 Draft notes: Dusk 319 to mid-afternoon 320. Decided here (proposals):
-- **Where Kit is**: on d.318 she took **six Merrin and free barges down to the Staithe** to bring up the *Kittiwake* (masts stepped again by Ferris and Lorn) and **the Staithe's last**: the inn's people, the Staithe's fisher-families who'd stayed, and the old who couldn't walk to the hub: **about four hundred**, for Calder's north plan (barges up the river as far as they'll go); she was loading at noon 319 when the smoke went up eight leagues north, a yellow-grey smudge; Jory at the masthead calls it.
-- **The river runs backwards**: at dusk 319 the Wend at the Staithe **stops**, lies flat "like a plate", and **runs north**, uphill, toward the hole, faster and faster; ice from the shallows going up past them; the floating market's last empty rafts torn loose and going north; **the hole is pulling the river into the ground eight leagues off**; if they stay on the water they go into it.
-- **To the bank**: she gets the six barges and the *Kittiwake* across to the **Saltreach bank** (the Staithe is on the Hearthmere bank; the Drover's Way runs north on the Saltreach side two leagues inland), poling and sculling against a current going sideways; **Dace Overy's barge** goes into the current and north; Dace stays aboard and puts his one-eyed dog over the side to swim to Kit (it does); the Kittiwake run aground on the Saltreach shingle deliberately; Ferris: "She's on the ground." "She's on *our* ground."
-- **The people onto the Drover's Way**: four hundred, up the bank in the dark, two leagues over the scrub to the road; Jory leads; Gannet carries an old woman; **the road** full already: the broken army's tail going north from the Vale (75) and the Staithe's four hundred joining it from the south.
+- **Where Kit is**: on d.318 she took **six Merrin and free barges down to the Sheepford** to bring up the *Kittiwake* (masts stepped again by Ferris and Lorn) and **the Sheepford's last**: the inn's people, the Sheepford's fisher-families who'd stayed, and the old who couldn't walk to the hub: **about four hundred**, for Calder's north plan (barges up the river as far as they'll go); she was loading at noon 319 when the smoke went up eight leagues north, a yellow-grey smudge; Jory at the masthead calls it.
+- **The river runs backwards**: at dusk 319 the Wend at the Sheepford **stops**, lies flat "like a plate", and **runs north**, uphill, toward the hole, faster and faster; ice from the shallows going up past them; the floating market's last empty rafts torn loose and going north; **the hole is pulling the river into the ground eight leagues off**; if they stay on the water they go into it.
+- **To the bank**: she gets the six barges and the *Kittiwake* across to the **Saltreach bank** (the Sheepford is on the Hearthmere bank; the Drover's Way runs north on the Saltreach side two leagues inland), poling and sculling against a current going sideways; **Dace Overy's barge** goes into the current and north; Dace stays aboard and puts his one-eyed dog over the side to swim to Kit (it does); the Kittiwake run aground on the Saltreach shingle deliberately; Ferris: "She's on the ground." "She's on *our* ground."
+- **The people onto the Drover's Way**: four hundred, up the bank in the dark, two leagues over the scrub to the road; Jory leads; Gannet carries an old woman; **the road** full already: the broken army's tail going north from the Vale (75) and the Sheepford's four hundred joining it from the south.
 - **Kit stays** at the shingle with the ketch till dawn (Gannet stays with her; "Somebody has to watch her"; Jory goes on with the people and Tansy and Nye and Corrie).
-- **Dawn 320, the masthead**: she climbs the *Kittiwake*'s mainmast (masts up, the ketch on her side a little on the shingle) and looks south down the empty riverbed (the Wend below the Staithe drained to mud and pools, running north still in a thin stream) **four leagues, to where the sea has come up the drained bed** (the mouth itself is about ninety leagues further; the hole pulled the sea up the Wend after the river): sea water filling the bed bank to bank, lit blue-white from below; and **two shapes**: a long dark back blazing (the Bell) and **something pale wound round it** coil on coil (the Lady); they rise together out of the sea, a white tower of water a league high going up off them; and **go down together**; the sea closes; the light under it goes out; flat grey water; gulls coming back.
+- **Dawn 320, the masthead**: she climbs the *Kittiwake*'s mainmast (masts up, the ketch on her side a little on the shingle) and looks south down the empty riverbed (the Wend below the Sheepford drained to mud and pools, running north still in a thin stream) **four leagues, to where the sea has come up the drained bed** (the mouth itself is about ninety leagues further; the hole pulled the sea up the Wend after the river): sea water filling the bed bank to bank, lit blue-white from below; and **two shapes**: a long dark back blazing (the Bell; Kit's guess: it came up the drained bed in the night after the river ran backward, following the water it had always followed) and **something pale wound round it** coil on coil (the Lady); they rise together out of the sea, a white tower of water a league high going up off them; and **go down together**; the sea closes; the light under it goes out; flat grey water; gulls coming back.
 - **She can't say**: whether they died, or went down to wait, or went somewhere else; she tells Gannet "They went down." "Dead?" "I don't know. They went down. Together." (The book's one ambiguity about a Titan's end; Idony's glass, 82, will say the breaths went out.)
-- **Echo**: walking north, at the third hour after noon 320, up the Drover's Way with Gannet and the dog, from a rise she sees **on the hills north and north-east, on six roads going up toward the Scarfell, six grey hill-shapes with manes**, one on each road, walking beside the columns; and somewhere behind them, lying below Harrow's End where the roads come up off the Vale, a seventh; "The lion had made six of himself." She counts them twice to be sure.
+- **Echo**: walking north, at the third hour after noon 320, up the Drover's Way with Gannet and the dog, from a rise she sees **on the hills north and north-east, on six roads going up toward the Scarfell, six grey hill-shapes with manes**, one on each road, walking beside the columns; and somewhere behind them, lying across the Way at the Fellwood's foot above Harrow's End, where the roads have come together, a seventh; "The lion had made six of himself." She counts them twice to be sure.
 Magic touches: the river running backwards into the broken hub; the Lady and the Bell going down.
 notes -->
 
 ---
 
-She'd gone down to the Staithe for the ketch.
+She'd gone down to the Sheepford for the ketch.
 
-On the three-hundred-and-eighteenth. While the five came on and the wards went up and the lion stood in the river at the hub. Six barges, empty, down eight leagues of grey river with the current, to bring the *Kittiwake* up and whoever was left at the Staithe who couldn't walk.
+On the three-hundred-and-eighteenth. While the five came on and the wards went up and the lion stood in the river at the hub. Six barges, empty, down eight leagues of grey river with the current, to bring the *Kittiwake* up and whoever was left at the Sheepford who couldn't walk.
 
 The farmer's plan. The one nobody said. *Kit's barges up the river as far as they'll go.*
 
@@ -46,9 +46,9 @@ She looked at her ketch. With her masts up. She didn't say anything for a while.
 
 ---
 
-There were four hundred at the Staithe.
+There were four hundred at the Sheepford.
 
-The inn's people. The Staithe's fisher-families, who'd stayed when the floating market went up the river, because the Staithe was theirs. The old, who couldn't walk eight leagues to the hub and wouldn't be carried. A few who'd come down from the hub to be away from it.
+The inn's people. The Sheepford's fisher-families, who'd stayed when the floating market went up the river, because the Sheepford was theirs. The old, who couldn't walk eight leagues to the hub and wouldn't be carried. A few who'd come down from the hub to be away from it.
 
 Four hundred. Six barges and a ketch.
 
@@ -82,7 +82,7 @@ She was on the first barge, at the tiller, at the landing. With a hundred aboard
 
 The Wend stopped.
 
-All of it. Grey. Wide. In front of the Staithe. Lying flat. Flat as a plate. The ice at the edges not moving. The floating market's last empty rafts, that had been left at the bank when the market went up, sitting on it, still.
+All of it. Grey. Wide. In front of the Sheepford. Lying flat. Flat as a plate. The ice at the edges not moving. The floating market's last empty rafts, that had been left at the bank when the market went up, sitting on it, still.
 
 She'd never seen a river stop.
 
@@ -96,7 +96,7 @@ North.
 
 Uphill. She felt it go. In the tiller. In the barge under her. The water going past the barge's side the wrong way. Slowly, then not slowly. North. Away from the sea. Toward the hub.
 
-Ice from the shallows below the Staithe going past them upstream. Turning. Faster. The empty rafts at the bank pulling at their lines, and the lines parting, and the rafts going. North. Up the river. Into the dusk.
+Ice from the shallows below the Sheepford going past them upstream. Turning. Faster. The empty rafts at the bank pulling at their lines, and the lines parting, and the rafts going. North. Up the river. Into the dusk.
 
 ---
 
@@ -110,7 +110,7 @@ She knew what it meant.
 
 Something was pulling the river.
 
-Up there. Eight leagues off. Where the smoke was. Something was taking the Wend out from under the Staithe and pulling it north, uphill, faster than any current she'd ever sailed, toward the middle of the Vale.
+Up there. Eight leagues off. Where the smoke was. Something was taking the Wend out from under the Sheepford and pulling it north, uphill, faster than any current she'd ever sailed, toward the middle of the Vale.
 
 And if they stayed on the water, it would take them too.
 
@@ -120,7 +120,7 @@ And if they stayed on the water, it would take them too.
 
 ---
 
-Not the Staithe's bank. The Staithe was on the Hearthmere side. The Drover's Way was on the other. The Saltreach side, two leagues inland across the scrub, going north.
+Not the Sheepford's bank. The Sheepford was on the Hearthmere side. The Drover's Way was on the other. The Saltreach side, two leagues inland across the scrub, going north.
 
 The farmer's road.
 
@@ -144,7 +144,7 @@ She shouted numbers. She didn't know what else to do. She shouted the poles' str
 
 The *Kittiwake* went across under Ferris and Lorn with her sails up.
 
-He'd set them. In the dusk. Both. And the wind was west, off the Hearthmere bank, and he put her across the current on it, heeling, the water going past her the wrong way, and brought her into the Saltreach bank's shingle three hundred paces north of the Staithe.
+He'd set them. In the dusk. Both. And the wind was west, off the Hearthmere bank, and he put her across the current on it, heeling, the water going past her the wrong way, and brought her into the Saltreach bank's shingle three hundred paces north of the Sheepford.
 
 And ran her aground.
 
@@ -220,7 +220,7 @@ The road was already full.
 
 She could see it. The Drover's Way. A pale line across the scrub in the starlight going north. And on it, people. Going north. From south of her and north of her and everywhere, going north.
 
-And from the north, from the Vale, a stream of them. A great stream. Coming up the road from the hub's direction and going on north past where it met the track from the Staithe.
+And from the north, from the Vale, a stream of them. A great stream. Coming up the road from the hub's direction and going on north past where it met the track from the Sheepford.
 
 Thousands. With beasts. She could hear the beasts. Lowing. Stonehorns. And something she'd heard once on the upper river, a sound too low to hear, in her feet: tuskers.
 
@@ -228,7 +228,7 @@ A broken army. Going north.
 
 ---
 
-The Staithe's four hundred went into it.
+The Sheepford's four hundred went into it.
 
 Off the track. Onto the road. Into the stream. North.
 
@@ -254,7 +254,7 @@ They sat on the shingle by the *Kittiwake*'s grounded bow with the dog between t
 
 It went down.
 
-The river. Down. Lower. The Wend draining out from the Staithe's reach, north, uphill, and the water going lower and lower, and the bottom showing. Mud. Stones. The bones of old boats. Pools, in the dark, with fish flapping in them.
+The river. Down. Lower. The Wend draining out from the Sheepford's reach, north, uphill, and the water going lower and lower, and the bottom showing. Mud. Stones. The bones of old boats. Pools, in the dark, with fish flapping in them.
 
 By the middle of the night there was hardly any river. A thin stream, in the middle of the mud, still running north.
 
@@ -295,6 +295,8 @@ And in it, two shapes.
 One long. Dark. A back. Coming up out of the lit water. Blazing. A long low shape where there was no reef, as she'd seen it a league off the far shore at the last milestone, as her father had seen it once and gone down. Blazing now, blue-white, all along it.
 
 The Bell.
+
+Up the drained bed in the night, she supposed, after the river ran backward. Following the water it had always followed.
 
 ---
 
@@ -398,7 +400,7 @@ She looked back once.
 
 ---
 
-The road was empty where it met the Staithe's track. The stream had gone on north. They followed it.
+The road was empty where it met the Sheepford's track. The stream had gone on north. They followed it.
 
 At the third hour after noon they came over a rise on the lower Drover's Way, still on the Vale's edge.
 
@@ -432,7 +434,7 @@ She counted them twice. To be sure.
 
 Six. On six roads.
 
-And somewhere behind them all, below Harrow's End, where the roads came up off the Vale, lying down across them, facing south, a seventh.
+And somewhere behind them all, above Harrow's End, at the Fellwood's foot, where the roads came together, lying down across the Way, facing south, a seventh.
 
 ---
 

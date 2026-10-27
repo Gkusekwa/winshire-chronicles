@@ -12,13 +12,13 @@ Draft notes: Day 317. Decided here (proposals):
 - **Dawn 317 on the eastern wall's river end, Orrun's head**: she counts them in as they come over the horizons, as she counts everything:
   - **One, the west**: the Last Titan over the Hearthmere downs out of the Mere's country, walking, stone-and-leather wings folded, chain-ends on its legs (twelve) dragging furrows, pale eyes, the coal in its back too small to see but Orrun feels it; it stops on the downs two leagues west of the Hearthmere-bank wall's end and lies down facing the eddy.
   - **Two, the north**: the Pale Coil down the Wend; the river above Eskby going black; it stops under the ice a league above the line's northern edge.
-  - **Three, the south**: the Bell up the Wend's mouth: the river below the Staithe going white; its bell-note; it stops two leagues below the line.
+  - **Three, the south**: the Bell up the Wend's mouth: the river below the Sheepford going white; its bell-note; it stops two leagues below the line.
   - **Four, the north-west**: the Furnace, not seen: **the ground**: a long low swelling ridge moving under the downs toward the Hearthmere bank's western end, smoke coming up through cracks, the frost melting in a line; it stops.
   - **Five, the south-east**: the Horned Sun over the Saltreach-bank hills from the Sun Road country (it has come round), half a league of day; it stops on the hills a league south of the Saltreach wall's east end.
   - "Five," she says aloud. Orrun: *Five.* They stop. They wait. Aurveth (through Lisska through Orrun): *They're waiting for something.* Maren: *Tomorrow.*
 - **Morning 317**: the line takes its places: every sector, every kingdom's beasts (brief roll: the greyharts and hounds at the Hearthmere bend; the olifants standing as walls, the unchosen on white steeds behind them; the batteries round the hub and the Bridle banked; the stonehorns and Rhun's bears and wolves at the Wyldmarch's river end; the Wardens with lynx and the twelve sabrecats; Rennick's sellswords and the grounded wyverns at the scrub end; the Clan on the ridge; the rocs on the eastern downs; the stormkites up already). **Orrun goes down off the wall to the eddy's lower lip** and raises the bed and stands on it; she on his head. **The three shadows go out at the fourth hour** to the three sectors and lie down there; the camp sees four lions; "the lion counts as four".
 - **The Lamp** walks down from the eastern meadow at the fifth hour onto the river and stands on the light on the water at the eddy's head; **the Lady** lies in the eddy.
-- **Noon**: the Hall of Measures' noon by Kessmoor's watches, and the camp's noon by the sun: Rowan at the Hearthmere wall's river end on her grey horse with Haverly's edge; she lifts her hand; **ninety-eight thousand voices on both banks say *Keep the watch***: knights, militia, clans, unchosen, Wardens, sellswords, Kessmoor's crews (some), the old people on the carts, children. Maren says it; she doesn't feel her mouth say it; she hears herself.
+- **Noon**: the Hall of Measures' noon by Kessmoor's watches, and the camp's noon by the sun: Rowan at the Hearthmere wall's river end on her grey horse with Haverly's edge; she lifts her hand; **a hundred and six thousand voices on both banks say *Keep the watch*** (Davin's ninety-eight thousand of d.268, the upper Wend's two thousand and Vael's four hundred (56), and Kit's six thousand and twelve (60)): knights, militia, clans, unchosen, Wardens, sellswords, Kessmoor's crews (some), the old people on the carts, children. Maren says it; she doesn't feel her mouth say it; she hears herself.
 - **The wards**: two; **on each bank a pale shimmer rises off the line like heat off a road**, a league long, a wall, then a roof, over each bank's half of the line, **ending at the river's edge on both sides** (never across); thin; then **the Lamp's light and the Lady's light go into them**: white-gold from the river's head, pale moon-blue from the eddy, running along the wards like oil along a wick, and **the wards light**: two long pale domes over the line, one each bank, the river dark between.
 - **The jailer's charm turned**: she thinks of three hundred voices in Greyhold's yard at noon facing a wall: *Keep the watch below, and do not ask*; and the old man's *the last line's a muzzle*; now nothing below; no muzzle; the voices facing out.
 - **Echo**: through it all, from the ridge behind the Saltreach wall, **the farmer's cracked voice a breath behind everyone else's** ("He'd never once said it in time. Not at Greyhold. Not anywhere"); only his (Wren is at Coldtarn).
@@ -96,7 +96,7 @@ Three.
 
 ---
 
-South. Down the Wend. Below the Staithe.
+South. Down the Wend. Below the Sheepford.
 
 The river going white. Not ice. Water. White water, as if a storm were standing on it, a long way off, coming up the river from the sea. And under it, through the stone of the wall under her, through Orrun, through her: the bell.
 
@@ -238,7 +238,7 @@ And lay down there. In their sectors. Each one a hill, grey, with its chin on it
 
 She felt the line see them.
 
-All along it. On both banks. A sound going down the line, from end to end, like wind going over a field of barley. Ninety-eight thousand people seeing four lions where there'd been one.
+All along it. On both banks. A sound going down the line, from end to end, like wind going over a field of barley. A hundred and six thousand people seeing four lions where there'd been one.
 
 *The lion counts as four*, Rowan had said, at the council. Somebody had written it on a board. Somebody else had chalked it on the wall's face near the hub, in letters a yard high.
 
@@ -296,7 +296,7 @@ And they said it.
 
 All of them.
 
-From the bend to the scrub. On both banks. Ninety-eight thousand voices at once, in the cold, at noon, on the Vale.
+From the bend to the scrub. On both banks. A hundred and six thousand voices at once, in the cold, at noon, on the Vale.
 
 *Keep the watch.*
 
@@ -310,7 +310,7 @@ The knights. The militia. The clans, in their own accent. The unchosen, in Sarov
 
 She said it.
 
-She heard herself. She didn't feel her mouth move; she couldn't, on the left side, and the right side was going. She heard her own voice say it among ninety-eight thousand, flat, even, as she said everything.
+She heard herself. She didn't feel her mouth move; she couldn't, on the left side, and the right side was going. She heard her own voice say it among a hundred and six thousand, flat, even, as she said everything.
 
 *Keep the watch.*
 
@@ -404,7 +404,7 @@ Cracked. Hoarse. A breath behind everyone else's.
 
 ---
 
-After. When the ninety-eight thousand had said it and stopped. Alone, for a moment, over the quiet. A man's voice, ruined, saying it late.
+After. When the hundred and six thousand had said it and stopped. Alone, for a moment, over the quiet. A man's voice, ruined, saying it late.
 
 She knew whose.
 
@@ -436,7 +436,7 @@ At dusk they faded. To a glimmer. A faint shine in the air over each bank, like 
 
 The five lay where they'd stopped.
 
-The camp didn't sleep. She could hear it not sleeping, all night. Ninety-eight thousand people on both banks, under two thin roofs of light, lying awake, looking at the horizons.
+The camp didn't sleep. She could hear it not sleeping, all night. A hundred and six thousand people on both banks, under two thin roofs of light, lying awake, looking at the horizons.
 
 She sat on his head in the river and counted the fires on the walls until she lost them.
 

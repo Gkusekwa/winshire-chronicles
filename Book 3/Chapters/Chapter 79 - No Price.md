@@ -114,7 +114,7 @@ And nobody at it.
 
 He'd lifted his head. He was looking at her.
 
-"She said she'd be at the door. Counting." He looked at the slope. "She's down at Harrow's End. With the lion. With the other one coming."
+"She said she'd be at the door. Counting." He looked at the slope. "She's down at the Fellwood. With the lion. With the other one coming."
 
 "Then somebody has to," said Kit.
 
@@ -150,7 +150,7 @@ Then he got up off the basket and went to the first row and started lifting the 
 
 Jory came up the slope.
 
-He'd come in the night with the Staithe's four hundred. He came up beside her on the step and stood there. Nineteen. His voice gone down.
+He'd come in the night with the Sheepford's four hundred. He came up beside her on the step and stood there. Nineteen. His voice gone down.
 
 "I'll count," said Jory.
 
@@ -188,7 +188,7 @@ She put her hand in her coat pocket.
 
 She always had salt. Every Saltreach captain did. Coarse, grey, from the Blackwater pans, a handful in a twist of oilcloth in your coat. For a contract, at a table. For a bargain, on a dock. You never knew when you'd need it.
 
-She'd had it on the ketch's galley shelf in a chipped clay dish. She'd tipped the dish into her pocket at the Staithe, before they ran her aground.
+She'd had it on the ketch's galley shelf in a chipped clay dish. She'd tipped the dish into her pocket at the Sheepford, before they ran her aground.
 
 The last of it.
 

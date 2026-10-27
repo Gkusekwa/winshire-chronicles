@@ -16,7 +16,7 @@ Draft notes: Days 280–290. Decided here (proposals):
 - **The lift**: Calder and the three, **Arn and sixty pairs** (flown down from the hub that morning, hard, on Kit's bird's word), **Nell Tallis's wyverns and Black Ruth's and the Crane brothers'**, and **Kit's barges** (the Merrin barges and a dozen free captains' at the Wend's mouth since d.239) **lift the floating market**: the barges cut loose and poled and towed upriver by Kit's people; the dragons and wyverns taking people off the hulks that can't be moved, in baskets; **the gull-hawks** (Wendmouth's message birds, every house keeps them) **carry the count from barge to barge**: tallies on slips, *forty off the Saffery hulk; ninety on the Merrin second*; Kit at the tiller of the first barge shouting numbers.
 - **Gallows Quay**: Calder lands Lisska on the quay's end to take off the last forty from the beast-office roof; **the cages**: the iron cage-rows still standing, empty, rusted, the doors he broke with a capstan bar in Book 1 still hanging open; he remembers the unicorn colt looking back "like something remembering"; the phoenix feather's glass case in Rusk's window, empty; Rusk, maybe, and his black ship not seen since Corsa (pays off Book 2 ch. 49, X-M).
 - **Kharrak and the Bell**: the Bell's back a league off the mouth, a long low reef-shape where there's none, the bell-note under the water; **Kharrak boils the sea round it**: white fire into the water in a ring, a league round, until the sea steams and the Bell's back is in a boiling ring; it doesn't die; **it pulls back**, out of the river mouth, a league, two, and lies there in the sea at the mouth, waiting. **"Small fire,"** Calder says, at the end, when Kharrak wants to go on. Kharrak: *Small?* "Small." *That was small?* "Smaller than you wanted." Kharrak stops. (Restraint at Titan size.)
-- **Counts**: of six thousand, **five thousand two hundred lifted**; about eight hundred drowned or missing; the floating market towed upriver over the next ten days to the Staithe (eight leagues below the hub) and lashed again there; Kit reads Calder the count on the bank two days after the lift, with the market strung out under tow behind her.
+- **Counts**: of six thousand, **five thousand two hundred lifted**; about eight hundred drowned or missing; the floating market towed upriver over the next ten days to the Sheepford (eight leagues below the hub) and lashed again there; Kit reads Calder the count on the bank two days after the lift, with the market strung out under tow behind her.
 - **Echo, d.290 flying home up the Wend**: from Kharrak's neck, high, the Vale ahead: **two new grey lines across it**, straight, one each side of the river, "as if someone had ruled them on the land with a pencil".
 Magic touches: white fire on water; Kharrak's restraint; gull-hawks.
 notes -->
@@ -25,7 +25,7 @@ notes -->
 
 Rowan wanted the river watched.
 
-Not the Vale. The Vale was the line, and the line had ninety-eight thousand people on it, and the knight's walls, and the lion lying on the eastern one like a hill. The river below the line was nobody's. Ninety leagues of the lower Wend between the hub and the sea, with the Saltreach bank on one side and nothing on the other but dead Hearthmere fields.
+Not the Vale. The Vale was the line, and the line had a hundred thousand people on it, and the knight's walls, and the lion lying on the eastern one like a hill. The river below the line was nobody's. Ninety leagues of the lower Wend between the hub and the sea, with the Saltreach bank on one side and nothing on the other but dead Hearthmere fields.
 
 The Bell was at the mouth. Everybody knew that. Kit's gull-hawk had said so on the two-hundred-and-thirty-ninth. *Whole sea's white.*
 
@@ -473,7 +473,7 @@ Then he came back to the headland and lay down on the rocks with his chin on the
 
 Five thousand two hundred.
 
-Kit had it. On slips, in a box, at her tiller. She read it to him on the bank two days later, with the floating market strung out up the river behind her under tow. Eight days yet to the Staithe, where they'd lash it again, a smaller town on a quieter river.
+Kit had it. On slips, in a box, at her tiller. She read it to him on the bank two days later, with the floating market strung out up the river behind her under tow. Eight days yet to the Sheepford, where they'd lash it again, a smaller town on a quieter river.
 
 Five thousand two hundred, off the water and out of Wendmouth.
 

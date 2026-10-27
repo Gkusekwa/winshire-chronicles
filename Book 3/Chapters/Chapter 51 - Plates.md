@@ -478,7 +478,7 @@ She was quiet a long time. The horse lifted its head out of the trough and looke
 
 ---
 
-He slept in the barn. On straw, in the loft, as he had at the muster. The three on the ridge. Wren and Ada half a day's flight north-east, at the caves.
+He slept in the barn. On straw, in the loft, as he had at the muster. The three on the ridge. Wren and Ada two hours' flight north-east, at the caves.
 
 He didn't sleep.
 

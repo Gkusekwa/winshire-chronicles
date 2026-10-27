@@ -9,8 +9,8 @@ Beats: The Merrin barges and the last free captains carry the Accord's people up
 Echo of another story: The lion-hill on the rampart, a woman asleep against his foreleg.
 Status: first draft
 Draft notes: Days 295–310. Decided here (proposals):
-- **The run**: from **the Staithe** (where the floating market was towed over ten days after the lift, 58: a ford-and-landing village eight leagues below the hub, now a town of lashed barges) up to the hub; **eight leagues of winter river against the current**, poled and towed; **the Merrin barges (four) and nineteen free captains' barges** (the last on the coast; every one that came up the mouth when Wendmouth went); towing horses on the Saltreach-bank towpath, and **six of the tuskers** (Quell lends them, d.298) on the Hearthmere bank. **About six thousand: Wendmouth's five thousand two hundred, the coast's last villages, and stores** (Saltreach salt fish, rope, the last Wendmouth grain) carried up in fifteen days; one barge lost on the ice-shoal at Cutter's Elbow (new: a bend above the Staithe), nobody drowned.
-- **The *Kittiwake*** laid up at the Staithe, masts down, Ferris and Lorn aboard; **Jory** on the first barge with Kit; **Tansy, Nye, Corrie** (Corrie back from writing for Idony) on the others; **Gannet** on Kit's barge.
+- **The run**: from **the Sheepford** (where the floating market was towed over ten days after the lift, 58: a ford-and-landing village eight leagues below the hub, the drovers' summer sheep-ford, that the barges called the Staithe until Kit named it again; not Tolly's Staithe under Greyhold; now a town of lashed barges) up to the hub; **eight leagues of winter river against the current**, poled and towed; **the Merrin barges (four) and nineteen free captains' barges** (the last on the coast; every one that came up the mouth when Wendmouth went); towing horses on the Saltreach-bank towpath, and **six of the tuskers** (Quell lends them, d.298) on the Hearthmere bank. **About six thousand: Wendmouth's five thousand two hundred, the coast's last villages, and stores** (Saltreach salt fish, rope, the last Wendmouth grain) carried up in fifteen days; one barge lost on the ice-shoal at Cutter's Elbow (new: a bend above the Sheepford), nobody drowned.
+- **The *Kittiwake*** laid up at the Sheepford, masts down, Ferris and Lorn aboard; **Jory** on the first barge with Kit; **Tansy, Nye, Corrie** (Corrie back from writing for Idony) on the others; **Gannet** on Kit's barge.
 - **No price**: the Accord's warrant pays the Merrins *at cost* (44); on d.299 the Wendmouth houses' factors (**Saffery's** man and **Ostrey's Fosse**) come down the towpath to settle the houses' freight by the old custom, per head and per barrel, salt on the tongue; **Kit won't take it**: "Unsalted. I can't take your salt and you can't take mine." Fosse: "The Accord, then." **She tears up the cost tally she's kept since d.192** ("I've stopped counting it"). The free captains, one by one, do the same (**Dace Overy**, new, an old free captain with a one-eyed dog, first). **Saltreach's last act**: carrying for nothing.
 - **Gannet's confession**, night 304, at the tiller, on the Saltreach-bank mooring above Cutter's Elbow: he copied Idony's notes on the far shore (29, 31, 36) and **sold them to Fosse in Ostrey's counting-house on d.189 for a purse of Ostrey silver**; "All of it. *Breath. Unbound.* What the old man said in the hold. The far shore's lines. Your mother's book, some of it"; **he doesn't know where they went after**: "Fosse sells on. Everything. To whoever pays. That's the house." Why: "I've been thirty years crew. Never house. I wanted a purse that was mine." He doesn't smile. Kit doesn't hit him. She says: "You'll pole tomorrow." He poles.
 - **Kit tells Idony** d.308 at the ferry house kitchen; he shrugs: **"Half the courts in Winshire have bought a copy of something I wrote, mistress. The College sold my tide-charts to Kessmoor for eleven years. Sarovel's Grace-priests had my lamp notes. The crown had my Glasswater readings." "These were the far shore's." "Yes." He thinks about it. "Whoever bought them has a great many lines in an old tongue and Gannet's spelling. I wish them joy of it."** As she goes he asks whether Quell's people brought any word of Nessa's ferry on Glasswater; they didn't (X-S). (Nobody thinks further; the misreading is at 69.)
@@ -20,15 +20,15 @@ notes -->
 
 ---
 
-The Staithe had been a ford.
+It had been a ford.
 
-That was all, once. A ford and a landing and a dozen houses, eight leagues below the hub on the Hearthmere bank, where the drovers brought sheep over the Wend in the summer when the river was low. A ferry when it wasn't. An inn. Not Tolly's Staithe, at the old ferry under Greyhold. The drovers' one, further down.
+That was all, once. The Sheepford, the drovers' summer ford eight leagues below the hub, that the barges called the Staithe until Kit named it again. A landing and a dozen houses on the Hearthmere bank. A ferry when the river was up. An inn.
 
 Now it was a town on the water.
 
 ---
 
-The floating market had been towed there after Wendmouth, ten days up the river behind the poles. All of it that floated. A hundred and forty barges and rafts, lashed again, side by side and end to end, a quarter-league of it along the Staithe's bank, with planks across and smoke going up and people living on it. Six thousand of them. Wendmouth's five thousand two hundred. And the coast's last villages, that the dragons and the wyverns had flown in over the Saltreach bank.
+The floating market had been towed there after Wendmouth, ten days up the river behind the poles. All of it that floated. A hundred and forty barges and rafts, lashed again, side by side and end to end, a quarter-league of it along the Sheepford's bank, with planks across and smoke going up and people living on it. Six thousand of them. Wendmouth's five thousand two hundred. And the coast's last villages, that the dragons and the wyverns had flown in over the Saltreach bank.
 
 And they had to go up.
 
@@ -48,11 +48,11 @@ Free captains'. The last on the coast. Every one that had come up the mouth when
 
 Twenty-three barges. Six thousand people. Eight leagues.
 
-She worked it out on a slate at the Staithe's inn table on the two-hundred-and-ninety-fifth. Fifteen days.
+She worked it out on a slate at the Sheepford's inn table on the two-hundred-and-ninety-fifth. Fifteen days.
 
 ---
 
-The *Kittiwake* stayed at the Staithe.
+The *Kittiwake* stayed at the Sheepford.
 
 Masts down, lashed to the inn's landing, with Ferris and Lorn aboard to keep her. She didn't like leaving her. She'd never left her. She stood on the landing in the cold on the first morning and looked at the ketch's black hull with the masts lying along her deck like a dead bird's wings.
 
@@ -74,7 +74,7 @@ Tansy, Nye and Corrie on the others. Corrie back from writing for the old man; D
 
 They poled.
 
-And towed. On the Saltreach bank there was a towpath, of sorts. The drovers' road along the river. She put horses on it, what horses the Staithe had, with ropes out to the barges, walking north. On the Hearthmere bank there wasn't a path; there were dead fields and frozen ditches and nothing to pull with.
+And towed. On the Saltreach bank there was a towpath, of sorts. The drovers' road along the river. She put horses on it, what horses the Sheepford had, with ropes out to the barges, walking north. On the Hearthmere bank there wasn't a path; there were dead fields and frozen ditches and nothing to pull with.
 
 Until the tuskers.
 
@@ -118,7 +118,7 @@ Salt fish. Rope. The last of Wendmouth's grain, in sacks. Children. Old women. A
 
 They lost one barge.
 
-At Cutter's Elbow. The bend two leagues above the Staithe, where the river went round a gravel shoal and the ice built up on the shoal in the cold. One of the free captains' barges, an old one, too heavy, going onto the ice-shoal sideways and her bottom opening.
+At Cutter's Elbow. The bend two leagues above the Sheepford, where the river went round a gravel shoal and the ice built up on the shoal in the cold. One of the free captains' barges, an old one, too heavy, going onto the ice-shoal sideways and her bottom opening.
 
 Nobody drowned.
 
@@ -366,7 +366,7 @@ She went back down the river that afternoon for the last load.
 
 The last barge came in on the three-hundred-and-tenth.
 
-At dusk. Hers. With the last fifty from the Staithe, and the goat, and Dace Overy's dog, which had decided it was hers. Up the last league of grey river to the hub with the tuskers pulling on the bank and the walls coming up out of the dusk ahead, one on each side.
+At dusk. Hers. With the last fifty from the Sheepford, and the goat, and Dace Overy's dog, which had decided it was hers. Up the last league of grey river to the hub with the tuskers pulling on the bank and the walls coming up out of the dusk ahead, one on each side.
 
 Fifteen days. As she'd said on the slate.
 

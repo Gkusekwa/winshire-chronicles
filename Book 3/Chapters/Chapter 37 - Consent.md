@@ -3,13 +3,14 @@
 <!-- notes
 POV: Maren
 Part: Part Three: The Far Shore
-Days: 146 (145 told back; dawn 147 for the echo) (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
+Days: 146 (145 told back; night 145 in scene; dawn 147 for the echo) (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): The Lit Shore (the ridge of the Hall of Light)
 Beats: **The lion becomes a Titan** *(canon)*. The gift goes through the bond, one life between two, so Maren has to consent (the mirror of Book 1 ch. 73, giving into a binding). Stone runs into Orrun until he's the size of a hill, grey as old stone, pale-eyed and wingless, and the stone of the far shore moves for him like water. He becomes what his kin is without its rage *(canon)*. Maren takes part of it: cold to the bone, grey at one temple. **His shadows are Titans now**: each one as strong as he is *(canon: each duplicate as powerful as Orrun)*. The Grey Mother goes out like a lamp.
 Echo of another story: Through the ground, three dragons screaming a long way off: the other gift.
 Status: first draft
-Draft notes: Day 146 (145 told back; the echo at dawn 147). Decided here (proposals):
+Draft notes: Day 146 (145 told back; night 145 in scene; the echo at dawn 147). Decided here (proposals):
 - **D.145**: Calder and his three go at dawn, north-east first to the lagoon for Jory, then back south-west to the crossroads (the Wayfarer's place); he and Maren part at the arch with no words but "Two hands" (his) and "I know" (hers). Idony, Gannet stay at the hall. The Lamp and the Lady leave the hall at dusk 145, east and to the pool's channel, "to take a shape" (ch. 35).
+- **Night 145, before the gift** (O22, 27 Oct 2026): the pool dark with the Lady gone, only the Mother's grey light round her head; Maren sits with her back to Orrun's side, pacing him in her head (38; she walked him that morning); *You're counting... What?* / *You.* / *Will you count me after?* / *If I can.* / *And if you can't?* She has no answer (river watches at Greyhold, knowing what's out there by the water on the piles); *Then I'll tell you. How big. So you have it.* The Mother's eyes open on both of them all night. She doesn't lie to him this time (the lie was night 144, ch. 36).
 - **The asking**, dawn 146, on the ridge outside the hall's eastern columns: the Mother gets up and comes out onto the grass; lies down facing Orrun; her script (grey, slow), for Maren: ***Lion's knight.*** / ***He is yours. You are his. One life.*** / ***What I give him goes through you.*** / ***Will you let it?*** Maren understands: it's the bond; if she says no, it can't go; if yes, she'll be changed too, and him more.
 - **Book 1 ch. 73** in her head: Hollin Knowe, the bond-forcers' binding, and her saying *take me instead*, offering her life into the binding in his place: the lion accepting. A binding takes without asking. This asks.
 - **Her consent**, aloud: "Yes." And to Orrun: *Yes.* He: *Are you afraid?* She: *Yes.* (Truth, this time; ch. 36's echo was the lie.)
@@ -46,6 +47,38 @@ To take a shape, the old man said. The Lamp walked off the ridge's east end into
 Then there were the three of them on the ridge. And the Mother.
 
 And Idony. And Gannet, at his columns.
+
+---
+
+The pool was dark that night.
+
+No glow under the water. The Lady had taken hers away down the channel, and the pool lay black and flat to its edges, and the only light in the hall was the Mother's, grey and low, round her great head on the paving. Orrun lay against her jaw. Maren sat with her back to his side.
+
+She was pacing him. In her head. Thirty-eight, nose to tail. She'd walked it that morning on the grass and got thirty-eight again, and stood at the end of his tail a while after with nothing to do with her feet.
+
+*You're counting,* said Orrun.
+
+*Yes.*
+
+*What?*
+
+*You.*
+
+He thought about that. His side went up and down against her back, slow, as the river leans on a moored boat and lets it go.
+
+*After,* he said. *Will you count me after?*
+
+*If I can.*
+
+*And if you can't?*
+
+She didn't have an answer. She'd stood night watches on the river at Greyhold with nothing coming, and known what was out there by the sound of the water on the piles. She listened to him breathe. That was all she had.
+
+*Then I'll tell you,* said Orrun. *How big. So you have it.*
+
+She leaned her head back against him.
+
+Across the dark floor the Mother's eyes were open. Gold. On both of them. They didn't close all night.
 
 ---
 
@@ -137,7 +170,7 @@ Then, to him. In the place where they talked.
 
 *Are you afraid?* said Orrun.
 
-She'd lied to him last night. Three times. With her arm round his head, by his mother's head, in the low light. *I'm not afraid.* He'd known. She'd known he'd known.
+She'd lied to him the night before the farmer went. Three times. With her arm round his head, by his mother's head, in the low light. *I'm not afraid.* He'd known. She'd known he'd known.
 
 *Yes,* she said.
 

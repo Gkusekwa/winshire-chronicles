@@ -9,13 +9,13 @@ Beats: Wren asks what happens if they lose. Calder makes a plan for that, becaus
 Echo of another story: The lion-hill lying on the rampart, like a new hill nobody has named.
 Status: first draft
 Draft notes: Days 245–250. Decided here (proposals):
-- **D.245 Calder flies north** from the Wend on the three (Arn stays at the camp); **at the hatching caves by dusk** (half a day at their pace). The first snow on the Scarfell's tops. **Ada** at the cave mouth; **Wren** (eleven now) with her milestone stone; **Old Grey** in the cave's back stall; Bel down at Varrhold with Pip and Nan.
+- **D.245 Calder flies north** from the Wend on the three (Arn stays at the camp); **at the hatching caves by mid-morning** (two hours at their pace). The first snow on the Scarfell's tops. **Ada** at the cave mouth; **Wren** (eleven now) with her milestone stone; **Old Grey** in the cave's back stall; Bel down at Varrhold with Pip and Nan.
 - **D.246 Wren's question**, at the warm spring in the cave at night, after Ada doesn't sing (she hasn't since the muster's news: *till the six are one again*): **"What happens if we lose?"** Calder: "We won't." **"Say it twice."** He can't. "Nobody's said, have they. What happens." "No." "Somebody should."
 - **Nobody plans for losing**: Rowan's council plans the line, the Lamp, the relic; every plan begins *when the Lamp takes it*. Calder (who once planned Gullhaven's roofs and the hulks) makes the other plan: if the middle breaks, the people go **north**, through Harrow's End and up the Drover's Way past Teo's ford, over the Scarfell's edge to Coldtarn; Varrhold's hold and the caves can take a thousand at most and not in deep winter; **they need somewhere warm, under stone, that a Titan can't dig into**.
 - **D.247 with Ada**: he tells her; she listens; "Your father kept his head down." "I know." "You never have." She asks where. He doesn't know yet.
 - **D.248 the tarn**: why it never freezes (Book 1 ch. 8; Book 2 ch. 88, it froze at its edges in a ring short of the warm middle when the Coil passed, coming down out of the north-west); he lies on the pouring-stone beside Aurveth and **looks down through her deep sight through the black water**: the tarn's floor, and under it, rock, and under the rock, **warm: the Deep running under the tarn like a hot spring under a field**; and in the rock on the tarn's western side, under the crag, **straight lines**: walls; **an old-realm hall**: a long chamber cut in the rock, pillars in two rows, a floor, steps going up to a door sealed under the scree of the crag's foot above Hollow Beck's source; dry; **warm from the Deep under it**; "the length of Varrhold's hall twice over, and wide"; holds a few hundred, not thousands. *Somebody kept something here*, says Aurveth. *Once. A long time ago.*
 - **He can't open it.** Nobody can but the lion: only Orrun's stone opens stone. **He won't go himself** (they meet only when they must; and he doesn't want to see her face when he asks).
-- **D.249 Lisska goes** (kin-speech only in sight; she flies to the eddy, half a day, and lands on the rampart's end beside the lion); Calder hears it through the green, faint, at the edge of the bond: the ask; then Orrun's voice and, through Orrun, Maren's. **Maren's answer (angry)**: *Tell him yes. Tell him I'll open it. If it comes to that.* And: *Tell him I hate him for asking.* And: *Tell him he's right.* Lisska back at dusk 249: "She's angry." "I heard." "She said yes." "I heard that too."
+- **D.249 Lisska goes** (kin-speech only in sight; she flies to the eddy, two hours, and lands on the rampart's end beside the lion); Calder hears it through the green, faint, at the edge of the bond: the ask; then Orrun's voice and, through Orrun, Maren's. **Maren's answer (angry)**: *Tell him yes. Tell him I'll open it. If it comes to that.* And: *Tell him I hate him for asking.* And: *Tell him he's right.* Lisska back at dusk 249: "She's angry." "I heard." "She said yes." "I heard that too."
 - **Echo (through Lisska, d.249)**: the lion-hill lying along the Hearthmere-bank rampart's top at the river end, grey, his scorched mane over the edge, "like a new hill nobody's named yet"; the knight asleep against his foreleg.
 - **D.250**: Calder tells Wren. "If we lose, we go there. Under the tarn. Where it's warm." "Is that true?" "Yes." "Say it twice." **"Yes. Yes."** (He can say that one twice.)
 Magic touches: deep sight through water and rock; the Deep warm under Coldtarn; kin-speech within sight.
@@ -35,11 +35,11 @@ He didn't tell anyone why. He didn't know why, at first. There was talk of movin
 
 ---
 
-The three took him in half a day.
+The three took him in two hours.
 
 Up off the ridge at dawn, over the Marches going grey with frost, over Harrow's End, where the Fenn top field lay above the empty village with snow on its stone walls, over the Scarfell's edge. The first snow was on the tops. White on the moor's high places, the black of the heather under it.
 
-Coldtarn at noon. Black. In its bowl of crags. And round it, on the crags, the freed, who looked up as the three came down, and didn't fly.
+Coldtarn by mid-morning. Black. In its bowl of crags. And round it, on the crags, the freed, who looked up as the three came down, and didn't fly.
 
 ---
 
@@ -371,7 +371,7 @@ Only one thing opened stone without bringing the hill down.
 
 He didn't go.
 
-He thought about it. He sat on the pouring-stone all afternoon and thought about it. Getting up on Kharrak, flying south. Half a day. Landing by the lion at the eddy and asking her.
+He thought about it. He sat on the pouring-stone all afternoon and thought about it. Getting up on Kharrak, flying south. Two hours. Landing by the lion at the eddy and asking her.
 
 He didn't go.
 
@@ -393,7 +393,7 @@ From the rim. Above him. She'd been listening; she always was.
 
 Lisska went on the two-hundred-and-forty-ninth.
 
-At dawn. Up off the rim, green, the size of a crag, and away south over the moor's edge into the grey, fast. Half a day. She'd have to land where the lion could see her. Kin-speech didn't carry over hills. Only in sight.
+At dawn. Up off the rim, green, the size of a crag, and away south over the moor's edge into the grey, fast. Two hours. She'd have to land where the lion could see her. Kin-speech didn't carry over hills. Only in sight.
 
 He sat on the rim and waited.
 

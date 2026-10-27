@@ -6,20 +6,20 @@ Part: Part Seven: Coldtarn
 Days: 321 (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): Harrow's End, the Fenn top field
 Beats: The Horned Sun comes up the Drover's Way after the column, burning white with the hub's surge. Kharrak turns back. On the Fenn top field above Harrow's End, already empty, he stands across the Way and puts all his fire between it and the people, and holds it there until the last wagon is up past the top field into the Fellwood. He doesn't kill it; he isn't trying to. He dies *(canon: the dragons die protecting people)*. Calder takes the death through the bond, and the fire comes back into him. He lives. One of three. The Horned Sun goes on past the empty field, too bright to see, and doesn't follow the column.
-Echo of another story: The lion below Harrow's End, the last thing between the Last Titan and the road.
+Echo of another story: The lion at the Fellwood's foot, the last thing between the Last Titan and the road.
 Status: first draft
 Draft notes: Day 321. Decided here (proposals):
 - **His voice** back at dawn, a thread of it, cracked worse than ever.
-- **The column on the upper Drover's Way**: the roads converge on the Way at **Harrow's End** (empty since Book 2; the Fenns' house roofless; the Eelweir below) and climb past the Fenn **top field** into **the Fellwood**, a mile above the field, and on to the Scarfell's edge (the lip), a day above the village; the top field on the slope between the village and the wood, beside the Way: stone walls, gone to weed, snow on it; the last of the column (Tam's wagons at the tail; Tam on the last box) climbing past it at noon.
-- **The Sun**: it came round south of Orrun in the night (Orrun below Harrow's End facing the Last Titan, two leagues west of the top field) and up from Cotter's Cross onto the Way behind the column's tail; **burning white with the surge**, two leagues of day, the snow going off the moor in a line ahead of it, the heather smoking.
-- **Kharrak turns back**: over the column with Calder on his neck at noon; Calder doesn't ask; *I'll go*, Kharrak says; Calder: *I'm coming.* *No. Get off.* He puts Calder down at the Fellwood's edge by the Way: *Count them over. Like her.* Calder says no; Kharrak: *Farmer. Get off.* He gets off.
+- **The column on the upper Drover's Way**: the roads come up through and round **Harrow's End** (empty since Book 2; the Fenns' house roofless; the Eelweir below) and converge on the Way between the village and the Fellwood; the one road climbs past the Fenn **top field** into **the Fellwood**, a mile above the field, and on to the Scarfell's edge (the lip), a day above the village; the top field on the slope between the village and the wood, beside the Way: stone walls, gone to weed, snow on it; the last of the column (Tam's wagons at the tail; Tam on the last box) climbing past it at noon.
+- **The Sun**: it came round south of Orrun in the night (Orrun across the Way at the Fellwood's foot, at the last bend above the top field, facing the Last Titan two leagues west of him) and up from Cotter's Cross onto the Way behind the column's tail; **burning white with the surge**, two leagues of day, the snow going off the moor in a line ahead of it, the heather smoking.
+- **Kharrak turns back**: over the column with Calder on his neck at noon; Calder doesn't ask; *I'll go*, Kharrak says; Calder: *I'm coming.* *No. Get off.* He puts Calder down at the Fellwood's edge by the Way, a few hundred paces above the lion: *Count them over. Like her.* Calder says no; Kharrak: *Farmer. Get off.* He gets off.
 - **The top field**: Kharrak lands on it, the size of a hill, across the Way, between the Sun coming up the road and the last wagons; Lisska and Aurveth over the Fellwood with the climbers (81 to come); **all his fire**: white, a wall across the Way and the slope, a league; not at the Sun; between; he holds it; the Sun presses on it; the field's walls going to slag; the snow off the whole slope; the Eelweir below boiling.
 - **The bond**: from the wood's edge Calder feels the fire go out of Kharrak, all of it, more than at the Thornwood or the scrub end or the mouth: everything; *Small?* he tries to say; Kharrak: *No. Not small. Not this time.*
 - **Tam's wagon**: the last; up past him into the Fellwood at the third hour after noon; Tam looks back at the field; Calder counts: "Forty." (He counts, like her.)
 - **Kharrak dies**: when the last wagon is over, he lets the fire go out; the Sun's light comes over him; he lies down on the top field across the Way, red going grey, his blistered face on the snow-melt; last words: *I held it. I didn't kill it. I held it.* *You held it.* *I'm good at it.* *You are.* *Tell the little one. The one with the ribbon. Tell her it was small.* He dies.
 - **The death through the bond**: Calder takes it at the wood's edge, on his knees; the bond doesn't break all at once; **the fire comes back into him** (power flowing back): through the rust scar on his chest, into his palms, his arms; heat; his palms going not pink but white-gold for a breath; he lives. **One of three.**
 - **The Sun goes on**: past the top field, along the slope, too bright to see, over Kharrak's body without stopping; it doesn't turn up the Way after the column; it goes east along the slope under the Fellwood toward the Worldsend, burning.
-- **Echo**: from the wood's edge, looking west down past the village: **the lion lying across the roads' end, two leagues off, very small**, and coming up toward him from the south out of the Vale's light, white, on wings, his kin: the last thing between the Last Titan and the road.
+- **Echo**: from the wood's edge, looking down the Way: **the lion lying across it at the wood's foot, a few hundred paces off, very still**, facing west, and coming up toward him from the west out of the Vale's light, white, on wings, his kin: the last thing between the Last Titan and the road.
 Magic touches: Kharrak's last fire; the death through the bond and the power coming back; the Sun's surge-light.
 notes -->
 
@@ -35,9 +35,9 @@ A thread of it. He tried it on Kharrak's neck in the grey, over the column, and 
 
 ---
 
-The roads came together at Harrow's End.
+The roads came together above Harrow's End.
 
-He'd known they would. They'd come up out of the Vale on their six lines, and the land narrowed at the village between the beck and the slope, and the roads ran into each other as streams run together going downhill. Except these were going up. Into one. The Drover's Way. The broad rutted road that went up from Harrow's End past the top field, through the Fellwood, and over the Scarfell's lip to Varrhold.
+He'd known they would. They'd come up out of the Vale on their six lines, and the land narrowed past the village between the beck and the slope, and the roads ran into each other as streams run together going downhill. Except these were going up. Into one. The Drover's Way. The broad rutted road that went up from Harrow's End past the top field, through the Fellwood, and over the Scarfell's lip to Varrhold.
 
 His road. The road past his house.
 
@@ -117,7 +117,7 @@ Coming up the road behind the wagons.
 
 It had come round.
 
-He'd thought it would go with the others. Stay on the field. Stand there, blazing, on the Vale, where they'd won. The Last Titan was coming north; he'd seen it rise off the hole at dusk, and come, and stop, two leagues west, where the lion lay across the roads' end below the village. Facing it.
+He'd thought it would go with the others. Stay on the field. Stand there, blazing, on the Vale, where they'd won. The Last Titan was coming north; he'd seen it rise off the hole at dusk, and come, and stop two leagues off, facing the lion where he lay across the Way at the wood's foot.
 
 The Sun hadn't stopped.
 
@@ -145,7 +145,9 @@ Kharrak came down at the wood's edge.
 
 Above the top field, above Harrow's End. Where the Way went in under the Fellwood's trees. On the snow. Beside the road, with the column going past on it.
 
-He put his head down. His great red blistered face on the snow.
+Below them, at the last bend, the lion lay across the Way at the wood's foot, facing west. The column went round him. He didn't turn his head.
+
+Kharrak put his head down. His great red blistered face on the snow.
 
 *Get off*, said Kharrak.
 
@@ -469,19 +471,19 @@ He'd stood on that field and turned the elk. And on that field Kharrak had held 
 
 ---
 
-He looked west.
+He looked away.
 
-He couldn't look at the field any more. He turned his head, west, down past the village, to where the roads came up off the Vale.
+He couldn't look at the field any more. He turned his head, down the Way, to the last bend.
 
 ---
 
-Two leagues off.
+A few hundred paces off.
 
-Very small.
+Very still.
 
-A grey shape. Lying across the end of the roads, below the village. Facing south. A lion the size of a hill, from here the size of a stone.
+A grey shape. Lying across the road at the wood's foot. Facing west. A lion the size of a hill, and on his head, between his ears, something small that didn't move.
 
-And coming up toward it out of the south, out of the Vale's light, white, on wings, slowly, its kin.
+And coming up toward it out of the west, out of the Vale's light, white, on wings, slowly, its kin.
 
 ---
 

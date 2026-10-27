@@ -42,7 +42,7 @@ Below them the Vale.
 
 The wards came up again at sunrise.
 
-Rowan's order. Not noon: dawn. *So they're fed before it starts*, she'd said, at the dusk council, and the old man had nodded. He heard the words come up off the line under him. Ninety-eight thousand voices. *Keep the watch.* Faint, from up here, like surf.
+Rowan's order. Not noon: dawn. *So they're fed before it starts*, she'd said, at the dusk council, and the old man had nodded. He heard the words come up off the line under him. A hundred and six thousand voices. *Keep the watch.* Faint, from up here, like surf.
 
 He said it too. Late. He always was.
 

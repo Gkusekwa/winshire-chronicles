@@ -26,7 +26,7 @@ notes -->
 
 She rode the wall all day.
 
-From the river end to the bend. And back. On the white-blazed grey horse, along the wall's top, which was a road's breadth and had a road's surface now from ninety-eight thousand feet walking it. Davin behind her on a pony with his case. Four runners on foot, young, fast, who'd been corn-exchange porters at Hallowmere.
+From the river end to the bend. And back. On the white-blazed grey horse, along the wall's top, which was a road's breadth and had a road's surface now from a hundred and six thousand feet walking it. Davin behind her on a pony with his case. Four runners on foot, young, fast, who'd been corn-exchange porters at Hallowmere.
 
 Haverly's edge on her left hip. Pulling her to the left. Dark.
 
@@ -336,7 +336,7 @@ The Lady went back into the eddy and lay on the water by the rope as if she'd ne
 
 The line cheered.
 
-She heard it start on the Flat. Kessmoor's crews. Then the batteries across the river. Then the wall. Then all of it. Both banks. Ninety-eight thousand. Under the wards. The first one. The first destroyer of the battle. Killed.
+She heard it start on the Flat. Kessmoor's crews. Then the batteries across the river. Then the wall. Then all of it. Both banks. A hundred and six thousand. Under the wards. The first one. The first destroyer of the battle. Killed.
 
 She sat on her horse at the Bridle's edge and didn't cheer.
 

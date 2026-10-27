@@ -16,9 +16,9 @@ Draft notes: Day 88, dawn to night (with days 86–87 told back). Decided here (
 - **The water in**: over the deep quays, through the counting-houses on the harbour front (the houses' counting-houses, empty of their masters, their shutters in house colours going under one street after another), up the streets to the wave-mark the old people know; **the ropewalk terrace stands above it**; forty-one hulks on their cradles; Dorcas on the *Merry Agnes*'s deck with a pan in her hand, not banging it.
 - **The Tidehall**: stone, on the harbour front; two hundred people had run there at the last (clerks, dock families from the last streets, children) because stone is safe; Marrow had them on the balcony and the sea-steps and the copper roof; **Ulric on the sea-steps** waist-deep then chest-deep handing people up to the pairs hovering over the steps with baskets, Sigge Brack's grey nearest; Nell Tallis's wyverns plucking people off the roof's edge.
 - **The Bell's head comes into the harbour mouth**, through the broken towers, and turns toward the hill: the terrace; the hulks. **Calder's fire**: on Kharrak over the harbour's middle; both palms flat on Kharrak's neck where the heat is; no word (a word's nothing over water: Book 2 ch. 73); he pushes himself into the fire, the bond gift, all of him; Kharrak's fire goes out of him **across the whole harbour, half a league**, farther than any dragon's breath has ever carried, a river of fire on the sea into the Bell's face. Steam. The head turns from the hill. Back toward the sea. **Toll**: his palms blistered raw to the wrist, his eyes bleeding, no breath; he can't sit up; Kharrak carries him out of the steam with Calder lying along his neck.
-- **The backwash**: the Bell turns back out through the harbour mouth, and the sea goes out after it, through the city, back down the streets, dragging; **the Tidehall goes**: the front wall, the balcony, the great room, the painted ceiling of ships; **Marrow** was in the great room getting the last of the clerks out by the back passage: she doesn't come out. **Ulric**: on the sea-steps with a clerk's boy in his arms, handing him up to Sigge; the boy goes up; the backwash takes the steps and the man on them.
+- **The backwash**: the Bell turns back out through the harbour mouth, and the sea goes out after it, through the city, back down the streets, dragging; **the Tidehall goes**: the front wall, the balcony, the great room, the painted ceiling of ships; **Marrow** was in the great room getting the last of the clerks out by the back passage: she doesn't come out. **Ulric**: on the sea-steps with a clerk's boy in his arms, handing him up to Sigge; the boy goes up; the backwash takes the steps and the man on them. Calder, lying along Kharrak's neck in the steam, doesn't see it; nobody can tell him that afternoon where Ulric is.
 - **Afternoon**: the Bell out at sea going east along the coast toward Blackwater's end of the world, slowly; the harbour a brown ruin; the low harbour, emptied for one copper, is bare mud with nothing on it to lose.
-- **Dusk**: Ulric found on the low harbour's mud, where the hulks had lain, by Sigge, who'd looked all afternoon; whole; Sigge sits with him. Calder brought to him on Kharrak; can't stand; sits in the mud by him.
+- **Dusk**: Ulric found on the low harbour's mud, where the hulks had lain, by Sigge, who'd looked all afternoon; whole; Sigge sits with him. Calder brought to him on Kharrak; can't stand; sits in the mud by him. **Sigge tells it there, in scene** (O21, 27 Oct 2026), to Ulric's face more than to Calder: the boy held up over the water, the grey brought down as low as a grey goes, his arm out, the boy in the saddle; then he looked down: the harbour going out past the hall's foot "like a beck in spate", Ulric on the steps; "Then there weren't any steps." He tells it all night on the terrace after, the same words every time.
 - **Night**: Calder sick on the terrace, in the *Merry Agnes*'s captain's cabin, Dorcas's bunk; Dorcas wets cloths for his hands. Lisska on the roof. Kharrak lies along the terrace and turns his head south-west in the dark and won't put it down.
 - **Echo**, night: refugees going inland by the Saltreach Track pass the terrace; a sailor among them, off a Blackwater coaster that ran for Corsa: a salvage ship at Blackwater is fitting out for a long voyage, loading water for a month. Calder, sick, thinks: *Ask for a reef-pilot.*
 Magic touches: bond gift at sea (fire through Kharrak, not a word; farther than any charm); toll: burns (palms), eye-bleeding, breath, a day sick; the call pulling at Kharrak (plant for 22).
@@ -302,15 +302,7 @@ She didn't.
 
 And Ulric.
 
-On the sea-steps. When the sea went out. Sigge told it. Sigge, who didn't talk, told it that night to anyone who asked, the same words every time, as if he'd learned them.
-
-Ulric had been on the steps with the water at his chest. With a clerk's boy in his arms. Six years old. Holding him up over the water. Sigge had brought the grey down as low as a grey could come without going in, and put out his arm, and Ulric had lifted the boy up into it.
-
-Sigge had the boy. He'd pulled him up into the saddle.
-
-He'd looked down.
-
-The steps were going. The sea was going out over them, all at once, the whole harbour draining back past the Tidehall's foot like a river in flood. Ulric on the steps. The water round him. And then the steps weren't there, and the man on them wasn't either.
+Nobody could tell him, that afternoon, where Ulric was.
 
 ---
 
@@ -345,6 +337,28 @@ Sigge didn't move him. He sat down in the mud beside him and waited for someone 
 Kharrak brought Calder.
 
 He couldn't stand. They put him down on the mud from Kharrak's neck and he sat in it. In the cold mud of the low harbour, beside Ulric, with his hands in his lap because he couldn't put them anywhere else, and his eyes crusted, and his breath coming short.
+
+---
+
+"He had the boy," said Sigge.
+
+Calder turned his head. He'd never heard Sigge say more than a word at a time. Sigge wasn't looking at him. He was looking at Ulric.
+
+"A clerk's boy. Six. Held up over the water, so." Sigge put his hands up in front of him, empty, as if there were something in them. "Water at his chest. I brought the grey down. Low as a grey goes and not go in. I put my arm out." He put it out now, crooked, over the mud. "He put the boy in it."
+
+He looked at his arm.
+
+"I had him up in the saddle. Then I looked down."
+
+Calder waited.
+
+"The steps were going," said Sigge. "All the harbour going out past the hall's foot at once. Like a beck in spate. And him on the steps with the water round him."
+
+He took his arm back.
+
+"Then there weren't any steps," said Sigge.
+
+That was all of it. Calder heard afterwards that he'd told it all night on the terrace, to anyone who asked, the same words every time, as if he'd learned them.
 
 He looked at Ulric's face.
 

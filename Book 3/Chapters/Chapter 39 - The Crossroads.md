@@ -3,13 +3,14 @@
 <!-- notes
 POV: Calder
 Part: Part Three: The Far Shore
-Days: 147 (143–146 told back; to dusk 148 for the echo) (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
+Days: 147 (night 146 in scene; 143–145 told back; to dusk 148 for the echo) (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): The crossroads on the far shore
 Beats: **The three dragons become Titan-class** *(canon)*. The Wayfarer's one gift splits three ways: Kharrak's fire (white, rock-melting), Aurveth's **deep sight** (through stone and distance), Lisska's **wind** (she can carry a storm) *(canon: flame, deep sight, wind)*. Aurveth's wing heals straight. Calder takes the toll through all three bonds at once, as he took three deaths at the mill *(Book 1 ch. 18)*: fever, nosebleeds, his three marks burned into scars. He nearly dies. He holds. The Wayfarer fades.
 Echo of another story: The grey hill that was a lion walking into the sea.
 Status: first draft
-Draft notes: Day 147 (143–146 told back; the echo at dusk 148). Decided here (proposals):
+Draft notes: Day 147 (night 146 in scene; 143–145 told back; the echo at dusk 148). Decided here (proposals):
 - **The ninety-three**, told back: Jory led them up the northern road to the lagoon on 143–144 (two days, sleeping sitting up in turns on the road, Jory walking the line all night; nobody died); **Kit took them aboard the *Kittiwake*** (ninety-three on a salvage ketch, in the hold and on the deck and in the two boats towed astern; she charged nothing; she said nothing about it); Calder, coming back from the hall on 145, comes down at the lagoon for Jory, and Jory rides Aurveth back to the crossroads.
+- **Night 146, before the gift** (O22, 27 Oct 2026): Calder sits up against Aurveth's side (as before a reaping: everything whetted and mended, nothing to do but listen for rain); Jory asleep against a milestone; Kharrak with one eye on the Wayfarer's low light (he never liked anything brighter than his own fire): *Tomorrow.* / *I'd think so.* / *If it's bright, I'll shut my eyes.*; Lisska, not asleep: *Will we smell different?* / *I don't know.*; Aurveth silent, eyes on the light; *Are you afraid?* / *I've waited for it since before the Roosts. I don't know how to be afraid of it.* No answer, and they both know it; his hand on her dull bronze all night.
 - **The gift**, dawn 147: the Wayfarer's light in the crossroads' square grows; its script is in them, not on the air: three voices that are one: ***Farmer. Hold them.*** / ***What I am goes into them. Through you.*** / ***Three ways. One gift.*** He says yes (he doesn't know how to say anything else; he thinks of Maren's *yes* at the ridge, which he couldn't have heard). The light comes down out of the square into all three dragons at once, **through him**.
 - **Kharrak's fire**: he opens his jaws at the square's south-east milestone and the fire is **white**: not red, not gold: white as the Lamp; the milestone **melts**, runs, pools on the paving like wax.
 - **Aurveth's deep sight**: she lifts her head and **looks through things**: through the hills to the hall's ridge (she sees the lion as a grey warmth the size of a hill, a day off), through the sea-bed to the drowned road's piers (each one a cold standing shape), through distance: north, over the sea, very far, a burning coal among five dark eggs (she doesn't tell him yet; ch. 45 is the first time he sees it through her clearly).
@@ -47,9 +48,41 @@ He seemed to think that was the strangest thing in the whole world.
 
 ---
 
+He sat up the night of the hundred-and-forty-sixth with his back against Aurveth's side.
+
+Jory asleep sitting up against a milestone. Kharrak along the western road with one eye open on the Wayfarer's light, low now in the square's middle, like a lantern left burning in a byre. He didn't like it. He'd never liked anything brighter than his own fire. Lisska on the north-east milestone with her head under her wing, not asleep. He could feel her not being asleep.
+
+Aurveth breathed. Slow and deep, as she'd breathed since she first stood in this square.
+
+He'd sat up like this the night before a reaping. Every blade whetted, every strap mended, nothing left to do but listen for rain.
+
+*Tomorrow,* said Kharrak. It wasn't a question.
+
+*I'd think so.*
+
+*If it's bright,* said Kharrak, *I'll shut my eyes.*
+
+Lisska took her head out from under her wing. *Will we smell different?*
+
+*I don't know,* said Calder.
+
+She thought about it. Then she put her head back.
+
+He waited for Aurveth. She didn't say anything. Her chin was on the paving and her eyes were on the light, and she didn't close them.
+
+*Are you afraid?* he said.
+
+It was a long time before she answered.
+
+*I've waited for it since before the Roosts,* said Aurveth. *I don't know how to be afraid of it.*
+
+That was no answer, and they both knew it. He put his hand flat on her side, on the dull bronze, and felt the breath go in and out under it, and didn't take his hand away all night.
+
+---
+
 The light grew at dawn on the hundred-and-forty-seventh.
 
-He'd known it would. He'd known since the hall. *To the three.* He'd sat up all night at the crossroads with his back against Aurveth's side, feeling her breathe, slow and deep, as she'd breathed since she first stood in this square. Jory asleep sitting up against a milestone. Kharrak along the western road. Lisska on the north-east milestone with her head under her wing.
+He'd known it would. He'd known since the hall. *To the three.*
 
 At dawn the light in the square's middle got brighter.
 

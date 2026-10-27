@@ -37,7 +37,7 @@ He stopped on the step.
 
 ---
 
-"Our families are in," said Arn. "Some of them. The rest went down to Varrhold." He looked at the door. "These will go through it. One at a time. If you'll have them."
+"Our families are in," said Arn. "Some of them. The rest went down to Varrhold. The big ones took them. Thirty pairs. They'd never get through a door." He looked at the door. "These will go through it. One at a time. If you'll have them."
 
 She looked at the twenty on the shore. Small enough. One at a time.
 

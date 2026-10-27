@@ -261,6 +261,8 @@ Kit had sent them. From the step. *The rest to the caves. The hold at Varrhold. 
 
 The hold had a roof.
 
+And the big ones had gone with them. Thirty pairs. Too big for any door. He'd sent them down the beck with the families on their backs, to the Roosts, where they'd always slept.
+
 ---
 
 He stood on the snow for a long time.

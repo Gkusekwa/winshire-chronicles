@@ -238,7 +238,7 @@ Established landscape types include outskirts and villages, farmlands, hunting g
 *(Settled after the full audit, Oct 2026.)*
 - **Book 1** runs from the harvest fair at the end of summer (day 0) to sunrise on day 144, in early spring; midwinter is about day 88. The prose seasons govern. The day numbers in the notes run fast after midwinter, so they are kept as an order of events, not as a dated calendar.
 - **Book 2** runs about a year from early spring: midsummer about its day 98, midwinter about day 281 (see `Book 2/Chapter_Plan.md`, drafted, review settled).
-- **Book 3** runs from spring to the end of the next winter, with its final battle in deep winter (see `Book 3/Chapter_Plan.md`, provisional).
+- **Book 3** runs from spring to the end of the next winter, with its final battle in deep winter (see `Book 3/Chapter_Plan.md`, drafted, review settled).
 - No year length in days is fixed. Seasons in the prose are given by name, never by number.
 
 ## Open world questions

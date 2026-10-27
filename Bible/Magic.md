@@ -1,6 +1,6 @@
 # Magic
 
-How magic works in Winshire, where it comes from, how people use it and fight with it, and what it costs. Written after Book 1 was drafted, to carry the series from Book 2 on. Everything below is *(proposal)* unless marked *(canon)*: where it rests on something already established in `World.md`, `Story.md`, `Series_Outline.md` or the Book 1 drafts, that's noted. Proposals taken from the Book 2 and Book 3 plans (`Book 2/Chapter_Plan.md`, `Book 3/Chapter_Plan.md`, both provisional) say so.
+How magic works in Winshire, where it comes from, how people use it and fight with it, and what it costs. Written after Book 1 was drafted, to carry the series from Book 2 on. Everything below is *(proposal)* unless marked *(canon)*: where it rests on something already established in `World.md`, `Story.md`, `Series_Outline.md` or the Book 1 drafts, that's noted. Proposals taken from the Book 2 and Book 3 plans (`Book 2/Chapter_Plan.md`, `Book 3/Chapter_Plan.md`, both drafted, review settled) say so; where those plans' review questions were approved, the proposal is now canon.
 
 The governing idea in one line: **all magic in Winshire is borrowed from the Titans, and everyone has forgotten who they're borrowing from.**
 

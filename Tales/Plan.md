@@ -1,6 +1,6 @@
 # Winshire Tales — Plan (working draft)
 
-*Short works told from points of view the main books can't give: beasts, the dead, the far side of a river, the years before. Everything here is a **proposal** for the author to approve, change or cut. Canon is marked as in the Bible. Book 2 and Book 3 references follow their chapter plans (`Book 2/Chapter_Plan.md`, `Book 3/Chapter_Plan.md`), which are still provisional, so check the chapter numbers there before drafting a tale that leans on them.*
+*Short works told from points of view the main books can't give: beasts, the dead, the far side of a river, the years before. **The author settled the plan's six open questions (Oct 2026)**: the name, beast POVs, the before-Book-1 slot, no main POVs, the first wave and the release plan (see the end). Each tale's outline below is still a proposal until it is drafted. Canon is marked as in the Bible. Book 2 and Book 3 references follow their chapter plans (`Book 2/Chapter_Plan.md`, `Book 3/Chapter_Plan.md`), both drafted with their review settled; where a drafted chapter differs from its plan, follow the chapter.*
 
 ---
 
@@ -26,8 +26,8 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 
 1. **Never ahead of the main books.** A tale reveals nothing the main books haven't revealed by its slot. Readers read it *after* the book it sits in (or before the next one). Before-Book-1 tales are released after Book 1 too.
 2. **Canon in, canon out.** Draft each tale from the Bible and the chapter plan. Once published it is canon: log anything it settles in the Bible, and in the relevant book's notes, the same day.
-3. **One point of view per tale**, close third person in the series voice (`Style_Guide.md`).
-4. **Beasts can carry a tale.** The exceptions are Orrun, any Titan and the elder Titans: their minds are the series' mysteries, and their POV would give them away. A beast's chapter thinks the way that beast does: Lisska in questions, Old Grey in weight and smell, the bird in dry footnotes.
+3. **One point of view per tale**, close third person in the series voice (`Style_Guide.md`). **Never Maren, Calder or Idony** *(settled, Oct 2026)*: tales are always someone else's, and the main three are seen only from outside.
+4. **Beasts can carry a tale** *(settled, Oct 2026)*. The exceptions are Orrun, any Titan and the elder Titans: their minds are the series' mysteries, and their POV would give them away. A beast's chapter thinks the way that beast does: Lisska in questions, Old Grey in weight and smell, the bird in dry footnotes.
 5. **The series' rules hold**: the apart rule (Maren and Calder don't share a road), the magic rules (`Magic.md`), the reveal rules of each book, and the canon ending. The Council of Immortals is never named. No tale suggests that Titans survive.
 6. **Length** 8,000–25,000 words. A tale has one turn and ends on an image the main books later echo.
 7. **When to write it.** Plan now; write each tale only after the main book it touches is drafted, so a tale never settles something the book still needs to decide.
@@ -209,14 +209,14 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 
 ---
 
-## First wave *(recommended)*
+## First wave *(settled by the author, Oct 2026)*
 
 1. **Old Grey** (4): a beast POV and the signature tale.
 2. **The Keeper of the Library** (13): the series' great loss, from inside.
 3. **The Bridge Warden** (1): the deep past, and the first glimpse of the grey cat on the steps.
 4. **The Drowned Road** (20): Book 3's new people, met early.
 
-## Publishing *(proposal; see `Publishing.md`)*
+## Publishing *(settled by the author, Oct 2026; see `Publishing.md`)*
 
 - Release a within-Book-1 tale and a before-Book-1 tale with Book 1, as reader magnets (newsletter sign-up, KDP free days).
 - After each book, collect its tales as **Winshire Tales, Volume N**: ebook first, print with the simplified editions.
@@ -224,9 +224,11 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 
 ## Open questions for the author
 
-1. Is "Winshire Tales" the name?
-2. Are beast POVs in (Old Grey, Lisska, the bird, Skell, the olifant, Bracken, the grey cat), and how strange should a beast's mind read?
-3. Add the before-Book-1 slot?
-4. Should any tale be told by Maren, Calder or Idony, or are tales always someone else's?
-5. Which four come first?
-6. Free or paid, and where do they sit in the release plan?
+*None open. All six settled by the author (Oct 2026).*
+
+1. ~~Is "Winshire Tales" the name?~~ **Settled by the author (Oct 2026):** yes. The collections are *Winshire Tales, Volume N*.
+2. ~~Are beast POVs in, and how strange should a beast's mind read?~~ **Settled by the author (Oct 2026):** yes, all seven (Old Grey, Lisska, the bird, Skell, the olifant, Bracken, the grey cat), and clearly strange: each beast thinks its own way (Lisska in questions, Old Grey in weight and smell, the bird in dry footnotes), still readable. Orrun, any Titan and the elders stay out (rule 4).
+3. ~~Add the before-Book-1 slot?~~ **Settled by the author (Oct 2026):** kept: The Bridge Warden, The Key and Third, released after Book 1.
+4. ~~Should any tale be told by Maren, Calder or Idony?~~ **Settled by the author (Oct 2026):** never. Tales are always someone else's (rule 3).
+5. ~~Which four come first?~~ **Settled by the author (Oct 2026):** Old Grey (4), The Keeper of the Library (13), The Bridge Warden (1), The Drowned Road (20).
+6. ~~Free or paid, and where do they sit in the release plan?~~ **Settled by the author (Oct 2026):** mixed. A within-Book-1 tale and a before-Book-1 tale go out free with Book 1 as reader magnets (newsletter sign-up, KDP free days); after each book its tales are collected and sold as *Winshire Tales, Volume N*, ebook first, print with the simplified editions.

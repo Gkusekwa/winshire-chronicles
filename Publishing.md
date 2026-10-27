@@ -49,6 +49,7 @@
 - **Advance readers:** send review copies to early readers so reviews exist on launch day.
 - **Release timing:** fantasy series often sell best when the next books follow quickly. Consider writing well into Book 2 before Book 1 launches.
 - **Serializing first** (for example, on Royal Road) can build an audience, but check that it doesn't conflict with KDP Select exclusivity if you choose that route.
+- **Winshire Tales** *(settled by the author, Oct 2026; `Tales/Plan.md`)*: a within-Book-1 tale and a before-Book-1 tale go out free with Book 1 as reader magnets (mailing-list sign-up, KDP free days); after each book its tales are collected and sold as *Winshire Tales, Volume N*, ebook first, print with the simplified editions. First four: Old Grey, The Keeper of the Library, The Bridge Warden, The Drowned Road.
 - **Keep the world consistent:** artwork, names, and canon stay consistent across the books and anything adapted from them later.
 
 ## Open publishing questions

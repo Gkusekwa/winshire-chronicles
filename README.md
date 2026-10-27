@@ -19,7 +19,7 @@ The home of the Winshire books: the series bible and the manuscripts. Keep estab
 - **[Book 2/Chapter_Plan.md](Book%202/Chapter_Plan.md):** the Book 2 chapter plan (revision 5; 88 chapters, all in first draft; three POVs: Maren, Calder, Idony; review questions settled as drafted, Oct 2026).
 - **[Book 3/Chapter_Plan.md](Book%203/Chapter_Plan.md):** the Book 3 chapter plan (revision 3; 86 chapters; seven POVs; chapters 1–86 in first draft; review questions settled as drafted, Oct 2026, except ch. 86's last line).
 - **[Audits/2026-10/](Audits/2026-10/):** the October 2026 full story audit: reports, decisions and revision logs (historical record).
-- **[Tales/Plan.md](Tales/Plan.md):** Winshire Tales, short works from points of view the main books can't give (beasts, the dead, the years before), in five slots: before Book 1, within each book, and the handovers between them. Proposals.
+- **[Tales/Plan.md](Tales/Plan.md):** Winshire Tales, short works from points of view the main books can't give (beasts, the dead, the years before), in five slots: before Book 1, within each book, and the handovers between them. Its open questions are settled (Oct 2026); the tale outlines are proposals until drafted.
 - **[Tools/](Tools/):** the scripts that generate the maps and `Bible/Atlas.md` (`Tools/atlas/`) and the chapter-opener art (`Tools/art/`). Edit their data files and rebuild rather than editing the outputs by hand. The chapter plans are maintained by hand.
 - **[Tools/README.md](Tools/README.md):** what each tool builds and how to run it.
 - **[Style_Guide.md](Style_Guide.md):** voice, point of view, and conventions for the prose.

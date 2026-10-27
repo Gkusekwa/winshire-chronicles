@@ -16,7 +16,7 @@
 - **Beyond the sea** *(established during the Chapters 41–60 drafting)*: in Book 3 the protagonists go to find the other Titans in **the land beyond the sea**. *(Settled as drafted, Oct 2026; details in `Book 3/Chapter_Plan.md`, **The land beyond the sea**.)* It lies across **the Shattered Sea**, reached by the drowned road's milestones from Saltreach's coast south-west over the Shatters (the Western Deep is Kessmoor's longer way round). Saltreach sailors call it **the Lit Shore**; the light-script calls it *where the light is kept*. **No people live there, and none have for an age**: a city of old-realm stone half under white sand, beasts that have never seen a person, and the Deep rising in the open air as light, where the elders are. People who sleep ashore don't wake, so it can't be a refuge. Maren and Calder go by separate roads and meet there once, out of necessity (Book 3 ch. 34–35); two elders give their power there. The Book 1 rule still holds: no one in the six kingdoms knows other Titans exist, so the land beyond the sea is at most a sailors' rumour in Books 1–2.
 - **Book 3 explores Saltreach, "the lawless empire":** how it works, its trade, its powers. It is where Maren and Calder meet the new people who take them to the land beyond the sea.
 - **Names kept:** the town of Orrin (Kessmoor) and the lion Orrun; Idony Vael and the twins' surname Vale.
-- **Calendar:** Book 1 runs from the harvest fair at the end of summer (day 0) to sunrise on day 144, in early spring; Book 2 runs about a year from early spring; Book 3 runs from spring to the end of the next winter. See the Calendar in `World.md`.
+- **Calendar:** Book 1 runs from the harvest fair at the end of summer (day 0) to sunrise on day 144, in early spring; its chapters 1–10 fall in the three weeks before the fair (about days -23 to -1); Book 2 runs about a year from early spring; Book 3 runs from spring to the end of the next winter. See the Calendar in `World.md`.
 
 ## The series at a glance
 
@@ -283,7 +283,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - ~~Whether Idony stays unbonded through Book 3~~ *Settled (Oct 2026), as drafted: unbonded (question 19; `Magic.md` §11).*
 
 **Publishing** (`Publishing.md`)
-- What "simplified" means for the print text (it must cut roughly a third of Book 1's draft), and whether print comes out with the ebook or later
+- ~~What "simplified" means for the print text~~ *Settled (Oct 2026): one edition, no simplified text.* Still open: how the full text fits print, and whether print comes out with the ebook or later
 - KDP Select or wide
 - Which editor and cover designer
 - Own name or a pen name, and the imprint

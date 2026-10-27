@@ -219,7 +219,7 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 ## Publishing *(settled by the author, Oct 2026; see `Publishing.md`)*
 
 - Release a within-Book-1 tale and a before-Book-1 tale with Book 1, as reader magnets (newsletter sign-up, KDP free days).
-- After each book, collect its tales as **Winshire Tales, Volume N**: ebook first, print with the simplified editions.
+- After each book, collect its tales as **Winshire Tales, Volume N**: ebook first, then print.
 - Each tale gets its own abstract opener image, like the chapters, and a map if it travels.
 
 ## Open questions for the author
@@ -231,4 +231,4 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 3. ~~Add the before-Book-1 slot?~~ **Settled by the author (Oct 2026):** kept: The Bridge Warden, The Key and Third, released after Book 1.
 4. ~~Should any tale be told by Maren, Calder or Idony?~~ **Settled by the author (Oct 2026):** never. Tales are always someone else's (rule 3).
 5. ~~Which four come first?~~ **Settled by the author (Oct 2026):** Old Grey (4), The Keeper of the Library (13), The Bridge Warden (1), The Drowned Road (20).
-6. ~~Free or paid, and where do they sit in the release plan?~~ **Settled by the author (Oct 2026):** mixed. A within-Book-1 tale and a before-Book-1 tale go out free with Book 1 as reader magnets (newsletter sign-up, KDP free days); after each book its tales are collected and sold as *Winshire Tales, Volume N*, ebook first, print with the simplified editions.
+6. ~~Free or paid, and where do they sit in the release plan?~~ **Settled by the author (Oct 2026):** mixed. A within-Book-1 tale and a before-Book-1 tale go out free with Book 1 as reader magnets (newsletter sign-up, KDP free days); after each book its tales are collected and sold as *Winshire Tales, Volume N*, ebook first, then print.

@@ -236,7 +236,7 @@ Established landscape types include outskirts and villages, farmlands, hunting g
 ## Calendar
 
 *(Settled after the full audit, Oct 2026.)*
-- **Book 1** runs from the harvest fair at the end of summer (day 0) to sunrise on day 144, in early spring; midwinter is about day 88. The prose seasons govern. The day numbers in the notes run fast after midwinter, so they are kept as an order of events, not as a dated calendar.
+- **Book 1** runs from the harvest fair at the end of summer (day 0) to sunrise on day 144, in early spring; midwinter is about day 88. The prose seasons govern. The day numbers in the notes run fast after midwinter, so they are kept as an order of events, not as a dated calendar. Chapters 1–10 fall in the three weeks before the fair (about days -23 to -1; Coldtarn's new moon is about day -15); Harrow's End's harvest fair is day 0.
 - **Book 2** runs about a year from early spring: midsummer about its day 98, midwinter about day 281 (see `Book 2/Chapter_Plan.md`, drafted, review settled).
 - **Book 3** runs from spring to the end of the next winter, with its final battle in deep winter (see `Book 3/Chapter_Plan.md`, drafted, review settled).
 - No year length in days is fixed. Seasons in the prose are given by name, never by number.

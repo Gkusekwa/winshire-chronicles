@@ -238,7 +238,7 @@ def write_atlas():
              "The **Coldrun** drains Kessmoor west through Ironhythe to Gearmouth. The **Gilt** waters Sarovel and reaches the sea at Solenne. The **Meryl** carries the Mere south to Stillhaven. "
              "The **Ysse** comes out of the Worldsend, fills Lake Ysse, and reaches the sea at Corsa. **Hollow Beck** runs from Coldtarn past Varrhold and Harrow's End into the Wend opposite the Old Ruin.")
     L.append("- **Lakes.** **The Mere** (Hearthmere's heart, shallow and wide), **Lake Ysse** (where the Wyldmarch clans hold their moot), **Glasswater** (under Vael's towers), **Coldtarn** (a black tarn above Varrhold where the Clan burns its dead).")
-    L.append("- **Forests.** The **Thornwood** (the Wyldmarch's deep forest), the **Greenwold** (oak woods north of Hallowmere), the **Brackenwood** (royal hunting ground beside Greyhold), the **Elderwood** (Sarovel), the **Ashlings** (Saltreach scrub woods).")
+    L.append("- **Forests.** The **Thornwood** (the Wyldmarch's deep forest), the **Greenwold** (oak woods north and east of Hallowmere, running east to the upper Wend at the Greenwold road's ford), the **Brackenwood** (royal hunting ground beside Greyhold), the **Elderwood** (Sarovel), the **Ashlings** (Saltreach scrub woods).")
     L.append("- **Plains, marsh and valley.** The **Hallow Plains** (Wyldmarch grassland and standing stones), the **Candle Downs** (Hearthmere's farmland), the **Saltings** (Saltreach salt marsh), the **Reedmarsh** (poachers' reed beds below Cotter's Cross), and the **Vale of the Wend**, the long river valley that is the Marches.")
     L.append("- **Seas.** The **Shattered Sea** to the south, named for the split of the old realm; the **Western Deep** beyond Kessmoor and Sarovel.\n")
 

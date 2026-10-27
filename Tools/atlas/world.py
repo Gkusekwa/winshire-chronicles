@@ -20,7 +20,7 @@ COAST = [  # mainland outline, clockwise from the north-west cape
 
 ISLANDS = [
     [(236, 210), (243, 208), (247, 212), (240, 216)],   # Bell Reef
-    [(36, 190), (44, 188), (46, 194), (38, 196)],       # Sorrel Isle (Sarovel)
+    [(56, 185), (58.5, 184.5), (59.5, 186.5), (57, 187)],   # Sorrel Isle (Sarovel)
 ]
 
 KINGDOMS = {
@@ -57,14 +57,14 @@ RIVERS = {
     "The Gilt":    [(88, 104), (82, 120), (72, 136), (62, 152), (52, 170), (48, 178)],
     "The Meryl":   [(132, 126), (136, 145), (134, 165), (140, 182), (141, 204)],
     "The Ysse":    [(304, 64), (290, 80), (272, 96), (258, 108), (250, 118), (256, 140), (262, 160), (262, 194)],
-    "Hollow Beck": [(196, 76), (191, 86), (186.4, 92.6), (182.6, 97.0), (179.6, 101.0), (177.8, 102.7), (176.3, 103.1)],  # Clan hills to the Wend
+    "Hollow Beck": [(188.6, 90.2), (186.4, 92.6), (182.6, 97.0), (179.6, 101.0), (177.8, 102.7), (176.3, 103.1)],  # Clan hills to the Wend
 }
 
 LAKES = {
     "The Mere":       ((130, 117), 14, 8),
     "Lake Ysse":      ((253, 112), 9, 5),
     "Glasswater":     ((150, 44), 6, 3.5),
-    "Coldtarn":       ((196, 74), 2.4, 1.6),
+    "Coldtarn":       ((188, 91), 1.6, 1.1),
 }
 
 # ---------------- terrain ----------------
@@ -80,9 +80,9 @@ MOUNTAINS = {  # name: (polyline, half-width in leagues, density)
 FORESTS = {
     "The Thornwood": [(222, 22), (262, 18), (292, 26), (296, 56), (276, 78), (246, 80), (226, 64)],
     "The Brackenwood": [(160, 100), (168, 98), (171, 104), (168, 112), (161, 112)],
-    "The Greenwold": [(140, 76), (162, 74), (168, 86), (152, 92), (138, 88)],
-    "Elderwood": [(40, 110), (60, 104), (64, 122), (46, 130), (34, 122)],
-    "The Ashlings": [(200, 120), (214, 116), (218, 134), (204, 140)],
+    "The Greenwold": [(140, 76), (162, 74), (168, 77), (173, 81), (174.5, 84), (173.5, 87), (168, 89), (152, 92), (138, 88)],  # east lobe to the Greenwold road's ford on the upper Wend (~177, 84)
+    "Elderwood": [(40, 110), (60, 104), (64, 122), (60, 140), (54, 156), (48, 164), (42, 160), (40, 146), (34, 122)],
+    "The Ashlings": [(182, 110.5), (190, 109.5), (200, 112), (214, 116), (218, 134), (204, 140), (193, 128), (186.5, 113.5)],  # reaches about two leagues NE of Cotter's Cross (180.5, 113)
     "The Fellwood": [(178.4, 100.2), (181.0, 97.8), (185.5, 98.0), (187.0, 101.5), (185.0, 105.0), (181.0, 106.0), (178.6, 104.6)],
     "The Wendwood": [(178.0, 116), (183, 117), (184, 135), (186, 155), (185, 175), (186, 192), (182, 197), (181, 184), (179, 170), (182, 156), (179, 142), (180, 130), (177.5, 120)],
 }
@@ -94,7 +94,7 @@ MARSHES = {
 
 PLAINS = {
     "The Hallow Plains": [(232, 92), (296, 96), (300, 140), (262, 146), (236, 124)],
-    "The Candle Downs": [(108, 140), (160, 136), (166, 180), (120, 186)],
+    "The Candle Downs": [(108, 140), (160, 128), (168, 116), (174.5, 117), (174.5, 130), (166, 180), (120, 186)],
 }
 
 # ---------------- roads ----------------
@@ -145,7 +145,7 @@ place("stillhaven", "Stillhaven", "city", "hearthmere", 141, 201,
       "Hearthmere's only sea port, at the mouth of the Meryl. Walled harbour, customs house, a fleet of grain cogs. "
       "Saltreach privateers are a constant nuisance; the harbour chain is raised every night.")
 place("candledowns", "The Candle Downs", "landmark", "hearthmere", 136, 162,
-      "Rolling chalk farmland south of the Mere: wheat, sheep and orchards, villages around green squares, a chapel in every one. The breadbasket of Hearthmere, and of the Marches when harvests fail.")
+      "Rolling chalk farmland south and east of the Mere, reaching the Wend below the Brackenwood: wheat, sheep and orchards, villages around green squares, a chapel in every one. The breadbasket of Hearthmere, and of the Marches when harvests fail.")
 
 # ---- The Marches (shown on both maps; detailed on the Marches map) ----
 place("greyhold", "Greyhold", "fortress", "hearthmere", 174.0, 106.6,
@@ -200,12 +200,12 @@ place("reedmarsh", "The Reedmarsh", "landmark", "saltreach", 182.5, 120,
       "Reed beds and channels on the Saltreach bank below Cotter's Cross. Wildfowlers, smugglers, and beast poachers who know the channels.", scope="marches")
 place("hollowbeck", "Hollow Beck", "landmark", "saltreach", 182.4, 95.4,
       "The stream that runs down from Coldtarn in the Scarfell, past Varrhold and Harrow's End, into the Wend opposite the Old Ruin.", scope="marches")
-place("coldtarn", "Coldtarn", "landmark", "saltreach", 196, 74,
-      "A black mountain lake above Varrhold. The Clan's dead are burned on its shore.", scope="marches")
+place("coldtarn", "Coldtarn", "landmark", "saltreach", 188, 91,
+      "A black mountain lake in the Scarfell, four or five leagues above Varrhold, that never freezes. The Clan's dead are burned on its shore.", scope="marches")
 
 # ---- Kessmoor ----
 place("ironhythe", "Ironhythe", "capital", "kessmoor", 62, 45,
-      "Kessmoor's capital and largest foundry city, on the Coldrun where the canals begin. Brick, iron and smoke; locks and lift-bridges; "
+      "Kessmoor's capital and largest foundry city, on the Coldrun, where the upper canals come down from Coldrun Locks. Brick, iron and smoke; locks and lift-bridges; "
       "streets lit by alchemical lamps in green glass. The Assembly of Guildmasters meets in the Hall of Measures, under a clock that has never been wrong.")
 place("gearmouth", "Gearmouth", "city", "kessmoor", 20, 55,
       "Port at the mouth of the Coldrun. Dry docks, steam cranes, and ships with iron-sheathed hulls built for the Western Deep.")
@@ -222,8 +222,8 @@ place("solenne", "Solenne", "capital", "sarovel", 48, 172,
       "and the Bond-King's palace on the cliff, with its long stair down to the sea. Bond-crests over every noble door; the unchosen live below the walls.")
 place("highcrest", "Highcrest", "city", "sarovel", 72, 118,
       "A hill city in the Sunward Hills, seat of the beast-lords who breed and train bonded mounts. Vineyards on the slopes, horse-fairs that are really beast-fairs.")
-place("sorrel", "Sorrel Isle", "landmark", "sarovel", 41, 192,
-      "A small island off Solenne where the unchosen are sent to serve the lighthouse. Or to be forgotten.")
+place("sorrel", "Sorrel Isle", "landmark", "sarovel", 57.5, 185.5,
+      "A small island a league off Solenne's eastern horn, where the unchosen are sent to serve the lighthouse. Or to be forgotten.")
 place("sar_temple", "The Sun Stair", "temple", "sarovel", 50, 176,
       "Beneath the Bond-King's palace, below the sea stair, a temple holds a sleep relic. Sarovel's crowned line has worshipped there for centuries as a shrine of the gods and never guessed what it keeps. (Book 2)", secret=True)
 

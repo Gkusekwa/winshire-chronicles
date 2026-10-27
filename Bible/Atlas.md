@@ -47,7 +47,7 @@
 - **Mountains.** The **Worldsend** runs down the whole eastern edge, the highest range in Winshire, white all year; the clans say the Titans walked there. The **High Crown** closes the north. The **Iron Fells** run south-east from the High Crown between Kessmoor and Isvaren, rich in ore. The **Scarfell** is the Dragon Clan's moorland north-east of the Marches. The **Sunward Hills** are Sarovel's vineyards.
 - **Rivers.** The **Wend** rises in Isvaren's snows and runs south to the Shattered Sea, marking the Hearthmere–Saltreach border for its whole lower course. The **Coldrun** drains Kessmoor west through Ironhythe to Gearmouth. The **Gilt** waters Sarovel and reaches the sea at Solenne. The **Meryl** carries the Mere south to Stillhaven. The **Ysse** comes out of the Worldsend, fills Lake Ysse, and reaches the sea at Corsa. **Hollow Beck** runs from Coldtarn past Varrhold and Harrow's End into the Wend opposite the Old Ruin.
 - **Lakes.** **The Mere** (Hearthmere's heart, shallow and wide), **Lake Ysse** (where the Wyldmarch clans hold their moot), **Glasswater** (under Vael's towers), **Coldtarn** (a black tarn above Varrhold where the Clan burns its dead).
-- **Forests.** The **Thornwood** (the Wyldmarch's deep forest), the **Greenwold** (oak woods north of Hallowmere), the **Brackenwood** (royal hunting ground beside Greyhold), the **Elderwood** (Sarovel), the **Ashlings** (Saltreach scrub woods).
+- **Forests.** The **Thornwood** (the Wyldmarch's deep forest), the **Greenwold** (oak woods north and east of Hallowmere, running east to the upper Wend at the Greenwold road's ford), the **Brackenwood** (royal hunting ground beside Greyhold), the **Elderwood** (Sarovel), the **Ashlings** (Saltreach scrub woods).
 - **Plains, marsh and valley.** The **Hallow Plains** (Wyldmarch grassland and standing stones), the **Candle Downs** (Hearthmere's farmland), the **Saltings** (Saltreach salt marsh), the **Reedmarsh** (poachers' reed beds below Cotter's Cross), and the **Vale of the Wend**, the long river valley that is the Marches.
 - **Seas.** The **Shattered Sea** to the south, named for the split of the old realm; the **Western Deep** beyond Kessmoor and Sarovel.
 
@@ -79,7 +79,7 @@
 - **The Mere** (landmark). A broad, shallow lake that gives the kingdom its name. Reed beds, eel weirs and fishing villages on stilts along the south shore. In still weather it shows the sky so cleanly that the songs call it the hearth of heaven.
 - **Ashford** (town). A market town at the ford where the King's Road crosses the Ash Brook, eighteen leagues west of the border. Timber-framed houses leaning over the street, a horse fair every autumn, and three fencing masters who charge more than they should. Lucan Haverly trained here.
 - **Stillhaven** (city). Hearthmere's only sea port, at the mouth of the Meryl. Walled harbour, customs house, a fleet of grain cogs. Saltreach privateers are a constant nuisance; the harbour chain is raised every night.
-- **The Candle Downs** (landmark). Rolling chalk farmland south of the Mere: wheat, sheep and orchards, villages around green squares, a chapel in every one. The breadbasket of Hearthmere, and of the Marches when harvests fail.
+- **The Candle Downs** (landmark). Rolling chalk farmland south and east of the Mere, reaching the Wend below the Brackenwood: wheat, sheep and orchards, villages around green squares, a chapel in every one. The breadbasket of Hearthmere, and of the Marches when harvests fail.
 - **Greyhold** (fortress). *(Chapter 1)* The knight school on the Hearthmere bank, where the Wend bends. A quarry, then a fort, then a school: curtain walls of grey ragstone, a sanded yard over the old quarry floor, stables, a chapel, an armoury, and the river wall broad enough to walk two abreast. The charter over the gate says the bonded and the unbonded serve as equals. The cellars are locked and always have been.
 - **Millbrook** (village). *(named in Chapter 1; the caged beast in Chapter 7)* A Hearthmere river village two leagues downstream of Greyhold: a water mill, a tavern called the Kettle, and a jetty where Saltreach boats tie up without asking. Poachers sell here.
 
@@ -112,7 +112,7 @@
 
 **Places.**
 
-- **Ironhythe** (capital). Kessmoor's capital and largest foundry city, on the Coldrun where the canals begin. Brick, iron and smoke; locks and lift-bridges; streets lit by alchemical lamps in green glass. The Assembly of Guildmasters meets in the Hall of Measures, under a clock that has never been wrong.
+- **Ironhythe** (capital). Kessmoor's capital and largest foundry city, on the Coldrun, where the upper canals come down from Coldrun Locks. Brick, iron and smoke; locks and lift-bridges; streets lit by alchemical lamps in green glass. The Assembly of Guildmasters meets in the Hall of Measures, under a clock that has never been wrong.
 - **Gearmouth** (city). Port at the mouth of the Coldrun. Dry docks, steam cranes, and ships with iron-sheathed hulls built for the Western Deep.
 - **The Scald** (landmark). A wide basin of fused, glassy ground near the Hearthmere border where a town called Orrin stood until the disaster within living memory that led Kessmoor to ban magic. Nothing grows there. Kessmoor keeps a cordon around it and says it is to keep looters out.
 
@@ -128,7 +128,7 @@
 
 - **Solenne** (capital). The white city of the bond-monarchy, built of limestone on a curving bay. Domed halls, beast-stables grander than most houses, and the Bond-King's palace on the cliff, with its long stair down to the sea. Bond-crests over every noble door; the unchosen live below the walls.
 - **Highcrest** (city). A hill city in the Sunward Hills, seat of the beast-lords who breed and train bonded mounts. Vineyards on the slopes, horse-fairs that are really beast-fairs.
-- **Sorrel Isle** (landmark). A small island off Solenne where the unchosen are sent to serve the lighthouse. Or to be forgotten.
+- **Sorrel Isle** (landmark). A small island a league off Solenne's eastern horn, where the unchosen are sent to serve the lighthouse. Or to be forgotten.
 
 ### Isvaren *(established)*
 
@@ -163,7 +163,7 @@
 
 *Established: the border region is the Marches; a river marks the border; the Old Ruin stands on an island in it; Greyhold is on the Hearthmere bank and Calder's farm and the Clan's lands on the Saltreach side. The river's name, the Wend, and the layout below are proposals.*
 
-- **Coldtarn** (landmark). A black mountain lake above Varrhold. The Clan's dead are burned on its shore.
+- **Coldtarn** (landmark). A black mountain lake in the Scarfell, four or five leagues above Varrhold, that never freezes. The Clan's dead are burned on its shore.
 - **The Scarfell** (landmark). Bare, high moorland and broken crags north and east of the Marches: heather, scree and wind. Dragon country. Sheep, if you're brave.
 - **Northwatch** (tower). A patrol tower on the River Road, manned by the river watch. Signal fires on the roof. Maren served here.
 - **Varrhold** (hold). *(name proposed)* The Dragon Clan's hold, eleven leagues north-east of Harrow's End in the Scarfell. A ring of black-stone longhouses inside a turf rampart, the chief's hall roofed with dragon-scale shingles shed over generations, and above it the Roosts: dragon eyries cut into the cliff, scorched black at the mouths. Two days by grain cart from Harrow's End, one on horseback; about an hour and a half by dragon at a steady pace.

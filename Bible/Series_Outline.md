@@ -4,7 +4,7 @@
 
 ## Settled by the author (after Book 1)
 
-*The most current canon in the Bible. The author approved every drafted answer in the Book 2 and Book 3 review questions (Oct 2026), so both books' drafts are canon. Book 2 is drafted (88 chapters, first draft); Book 3 is drafted (86 chapters, first draft), with only ch. 86's last line still the author's. Their plans are `Book 2/Chapter_Plan.md` (revision 5; drafted, review settled) and `Book 3/Chapter_Plan.md` (revision 3; drafted, review settled), which replace the old Outline files.*
+*The most current canon in the Bible. The author approved every drafted answer in the Book 2 and Book 3 review questions (Oct 2026), so both books' drafts are canon. Book 2 is drafted (88 chapters, first draft); Book 3 is drafted (86 chapters, first draft), its last line the author's own. Their plans are `Book 2/Chapter_Plan.md` (revision 5; drafted, review settled) and `Book 3/Chapter_Plan.md` (revision 3; drafted, review settled), which replace the old Outline files.*
 
 - **These are beast books, not dragon books.** Dragons are one kind of beast among many (the Dragon Clan's). Every kingdom's own beasts carry weight in its chapters, its set pieces and the war, and the sky is shared (`Bestiary.md`, The sky).
 - **Maren and Calder don't travel together.** They meet only out of necessity; each has a separate task, and their stories cross when they must. (This governs Books 2 and 3.)
@@ -278,7 +278,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - ~~Where Corvin got his older key for the Ruin's lock~~ *Settled (Oct 2026): their father found it digging a drain under the grooms' yard (Book 2 ch 76, 77; `World.md`, **The keys**).*
 
 **Book 3** (`Book 3/Chapter_Plan.md`, revision 3; chapters 1–86 in first draft, review settled)
-- The plan's review questions 1–32 are settled (Oct 2026), approved as drafted, including 24–32 raised in drafting 51–86 (Varrhold buried, the count of 555, the Antlered's stone in Maren, Liss's pin). **Still open: 33, the last line of ch 86, the author's to write.** Check the dependency on Book 1 ch 70, which already restores Ennis's face and name.
+- The plan's review questions 1–32 are settled (Oct 2026), approved as drafted, including 24–32 raised in drafting 51–86 (Varrhold buried, the count of 555, the Antlered's stone in Maren, Liss's pin). 33 is settled too: the author wrote the last line of ch 86, "She didn't count them." Check the dependency on Book 1 ch 70, which already restores Ennis's face and name.
 - ~~How Corvin dies, and whether he is redeemed~~ *Settled (Oct 2026), as drafted: unredeemed (question 7).*
 - ~~Whether Idony stays unbonded through Book 3~~ *Settled (Oct 2026), as drafted: unbonded (question 19; `Magic.md` §11).*
 

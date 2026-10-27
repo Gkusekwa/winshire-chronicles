@@ -5,7 +5,7 @@ POV: Maren
 Part: Part Seven: Coldtarn
 Days: 330 (dawn to noon) (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): The fallen door
-Beats: The last chapter. Dawn, and new snow. The remnant comes out under a changed sky: no smoke on any horizon, no road with anyone on it. Tam strikes the first fire with flint, with no charm and no beast. Fisk starts telling it, to the children, from the beginning. Maren on the fallen door: something else now, close to a Titan, not named. She opens the black book Hale left her at the cut pages, and writes the rest, a counterpart to Calder's account. As far as anyone knows, people and beasts can no longer understand each other. Old Grey stands by Wren as he always has, and when she speaks to him he only looks at her, kindly, and doesn't understand; it isn't a bond. Then, on the scree below the door, a small grey thing of stone moves by itself, changes shape and is gone, and the remnant sees it *(canon: the first elemental stirs)*. The last line is the author's.
+Beats: The last chapter. Dawn, and new snow. The remnant comes out under a changed sky: no smoke on any horizon, no road with anyone on it. Tam strikes the first fire with flint, with no charm and no beast. Fisk starts telling it, to the children, from the beginning. Maren on the fallen door: something else now, close to a Titan, not named. She opens the black book Hale left her at the cut pages, and writes the rest, a counterpart to Calder's account. As far as anyone knows, people and beasts can no longer understand each other. Old Grey stands by Wren as he always has, and when she speaks to him he only looks at her, kindly, and doesn't understand; it isn't a bond. Then, on the scree below the door, a small grey thing of stone moves by itself, changes shape and is gone, and the remnant sees it *(canon: the first elemental stirs)*. The last line, the author's: "She didn't count them."
 Echo of another story: Everyone at once.
 Status: first draft
 Draft notes: Day 330. Decided here (proposals):
@@ -18,7 +18,7 @@ Draft notes: Day 330. Decided here (proposals):
 - **Old Grey and Wren**: by the fire; Wren talks to him, low, her hand on his neck; he looks at her, kindly, and doesn't understand; **it isn't a bond**; it never was; she knows; she talks to him anyway; he stays.
 - **Arn and Ildra** at the shore; the Clan's dragons lying in the snow round the fire like dogs; Kit at the water's edge with the one-eyed dog; Liss with her pin; Idony on his hurdle by the fire, looking at three flat glasses; Calder coming down off the rim; **everyone at once** (the echo: no one thread; all of them, together, by one fire).
 - **The first elemental**: at noon, **on the scree below the door** (the edge of the fallen mountain at the shore, a pace from the black water), a small grey thing of stone, the size of a hand, **moves by itself**: turns over; stands up on legs it didn't have; **changes shape**: a beetle, then something with a tail, then something like a small grey bird; and is gone, into the snow between the stones; **the remnant sees it**: Wren first; then Fisk stops telling; then everyone at the fire; **it doesn't look at Maren**; **it isn't Orrun**; she knows it isn't; she doesn't know what it is.
-- **The last line is the author's** (left blank in this draft).
+- **The last line** *(the author's, Oct 2026)*: "She didn't count them." Maren, who has counted everything (the 555 in, ch. 80–83), doesn't count them coming out: the end of her arc from control to trust.
 Magic touches: the door opened by what Orrun gave her; the first fire with flint; the first elemental.
 notes -->
 
@@ -116,9 +116,7 @@ They came out.
 
 ---
 
-She didn't count them.
-
-She'd counted them in. She knew how many. She sat on the fallen stone and watched them come out of the warm dark into the snow, and didn't count.
+She'd counted them in. She knew how many. She sat on the fallen stone and watched them come out of the warm dark into the snow.
 
 ---
 
@@ -582,4 +580,4 @@ They stood in the snow and looked at the place where it had been.
 
 ---
 
-<!-- The last line is the author's. -->
+She didn't count them.

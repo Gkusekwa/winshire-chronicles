@@ -65,7 +65,7 @@ He looked at her a while longer. Then he said, "Odo, can I…" and Odo Marl grun
 
 ---
 
-They walked down to the jetty and sat on the end of it, with their legs over the water, the way they had when they were children on the ferry steps. The river went by below them, brown and fast and cold. Away upstream, two leagues off, she could just see the Greyhold wall, and beyond it, far up, the dark low line of the island.
+They walked down to the jetty and sat on the end of it, with their legs over the water, as they had when they were children on the ferry steps. The river went by below them, brown and fast and cold. Away upstream, two leagues off, she could just see the Greyhold wall, and beyond it, far up, the dark low line of the island.
 
 "Was it really?" said Tam. "A lion?"
 
@@ -167,7 +167,7 @@ He went red. He'd always gone red, since he was a baby. He put his hand up to hi
 
 On the end of it was a ring.
 
-Iron. Small. The size of her thumbnail. Plain, dark, a little rough, the way things are when a smith's made a lot of them quickly. Stamped into the face of it, small and neat:
+Iron. Small. The size of her thumbnail. Plain, dark, a little rough, as things are when a smith's made a lot of them quickly. Stamped into the face of it, small and neat:
 
 A ring of six dots.
 
@@ -279,6 +279,6 @@ The ferry bumped against the landing steps. Liss let go of the rope. The refugee
 
 Maren stood in the bow with the pole in her hands and didn't move.
 
-"Maren," said her mother, quietly. "The nails."
+"Maren, love," said her mother. "The nails."
 
 She picked up the keg, and went home.

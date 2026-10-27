@@ -117,7 +117,7 @@ Chain.
 
 Going down. Into the dark below the ledge, past where the light reached. One link of it, the nearest, was close enough to touch, a hand's breadth from the edge of the rock. Iron. Black. With the rust gone hard on it like bark. And it was taller than he was. One link. Taller than he was by a head.
 
-On the inside of it, in the curve where the iron went round, there was a line of light. Thin. White. Not the brand's. It came out of the iron itself, in small square marks with hooks at the ends, over and over, the way the letters went on the verse. Somebody had struck writing into the inside of the link where nobody would ever see it, and it was burning.
+On the inside of it, in the curve where the iron went round, there was a line of light. Thin. White. It came out of the iron itself, in small square marks with hooks at the ends, over and over, the way the letters went on the verse. Somebody had struck writing into the inside of the link where nobody would ever see it, and it was burning.
 
 Beside it, a little way off, another. And beyond that another. He counted. Six. Six chains, side by side, each link taller than a man, going down from somewhere high in the dark over his head, past the ledge, into the dark below.
 
@@ -127,7 +127,7 @@ All six, swaying a little, a hand's breadth, out and back. The way the chain of 
 
 And below them, in the dark, where the light didn't reach, the dark moved.
 
-He'd felt it at midwinter through Aurveth's throat on the ice. He'd felt it through the floor of the cave on the Scar. It was nothing like this. The dark moved the way water moves in a pool when something huge turns over at the bottom of it. Slow. Enormous. A shifting of the whole of the dark at once. And the six chains swayed with it.
+He'd felt it at midwinter through Aurveth's throat on the ice. He'd felt it through the floor of the cave on the Scar. It was nothing like this. The dark moved like water in a pool when something huge turns over at the bottom of it. Slow. Enormous. A shifting of the whole of the dark at once. And the six chains swayed with it.
 
 He stood on the ledge with the brand held out and his whole body cold.
 
@@ -157,7 +157,7 @@ Tall. Thin. Dark hair cut short. Hands behind his back. Still.
 
 Round the walls of the chamber, ten men in the coats of Delling's company, with swords.
 
-And one more, on the stone disc a pace from Corvin, who wasn't in a company coat. A small grey man in a long brown scholar's gown gone ragged at the hem, standing very square on the carved stone with his feet apart and his hands loose at his sides. He had a band of white skin round the second finger of his right hand, the way a man's finger goes under a ring he's worn all his life, and no ring on it.
+And one more, on the stone disc a pace from Corvin, who wasn't in a company coat. A small grey man in a long brown scholar's gown gone ragged at the hem, standing very square on the carved stone with his feet apart and his hands loose at his sides. He had a band of white skin round the second finger of his right hand, as a man's finger goes under a ring he's worn all his life, and no ring on it.
 
 Corvin Vale turned his head and looked at Calder standing in the mouth of the passage with a burning branch in one hand and a dead man's knife in the other.
 
@@ -221,7 +221,7 @@ He said nothing about Rook. His face didn't change. He looked back at the candle
 
 He talked, a little, while he waited.
 
-Not the way his brother talked. Quietly, standing by the iron boss with the key loose in his hand, the way a man talks to a beast in a stall while he waits for it to settle. Calder didn't think he was talking to him at all.
+Not the way his brother talked. Quietly, standing by the iron boss with the key loose in his hand, as a man talks to a beast in a stall while he waits for it to settle. Calder didn't think he was talking to him at all.
 
 "Three hundred years," said Corvin. "Hearthmere has kept it down there. Bleeding it. Lighting its lamps. Every knight in the kingdom saying *keep the watch below* at noon without knowing what it means." He looked at the carved letters on the disc under his feet. "And they call us the ones who chain beasts."
 
@@ -237,7 +237,7 @@ He felt it come up through the stone disc into his knees. Something bigger than 
 
 From the ledge, from the dark beyond the passage, a sound.
 
-Iron. Groaning. Six great groans, one after another, deep, so deep it was hardly a sound at all, coming up through the rock. The chains. Going taut. He knew it the way you know a rope's going taut in your hands before it parts. All six, going tight, and holding, and holding, with a sound like the cables of a ship at anchor in a gale. Then slackening, and going taut again.
+Iron. Groaning. Six great groans, one after another, deep, so deep it was hardly a sound at all, coming up through the rock. The chains. Going taut. He knew it as you know a rope's going taut in your hands before it parts. All six, going tight, and holding, and holding, with a sound like the cables of a ship at anchor in a gale. Then slackening, and going taut again.
 
 The men holding him had gone still.
 
@@ -261,7 +261,7 @@ Then Kharrak, behind her, harsh, ragged, the red tide in it so high it was hard 
 
 He felt the fight above.
 
-Not words, most of it. Pieces, through the marks. The ironback coming up the slope from the spit into the fort. He felt Aurveth meet it in the eastern gate. The weight of it. A shock that went through her whole body and into his. Kharrak's fire rolling over its back, white, and sliding off, and the plates not burning. *They don't burn.* The man on its neck with his arm up.
+Pieces, most of it, through the marks. The ironback coming up the slope from the spit into the fort. He felt Aurveth meet it in the eastern gate. The weight of it. A shock that went through her whole body and into his. Kharrak's fire rolling over its back, white, and sliding off, and the plates not burning. *They don't burn.* The man on its neck with his arm up.
 
 He felt Kharrak get cut.
 

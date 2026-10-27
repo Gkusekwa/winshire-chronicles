@@ -238,7 +238,7 @@ He'd moved out of Bel's house so they'd come to the Scar instead. He'd thought t
 
 She'd be safer anywhere he wasn't.
 
-He sat with her on the crag in the cold and knew it all the way through, for the first time. Not a league. Not the Scar. Further. A river's width. More. Wherever he was, the men with the sacks would come. So she had to be somewhere he couldn't be.
+He sat with her on the crag in the cold and knew it all the way through, for the first time. A league wasn't enough, or the Scar. A river's width. More. Wherever he was, the men with the sacks would come. So she had to be somewhere he couldn't be.
 
 Over the water.
 
@@ -356,7 +356,7 @@ On the hundred-and-twenty-first day Old Grey turned his head.
 
 Wren told everyone. She came running up the lane from the paddock with her face lit up, shouting it, before anybody had asked. She'd been at the gate, on the bottom bar, talking to him the way she did, about nothing, about the river and Lisska and the lion-woman and the collar. And in the middle of it, when she said his name, he'd turned his head.
 
-Not much. A little. Toward her voice. His great grey head, that hadn't turned toward anything since the night of the Ewe Beck, turning a hand's breadth on its neck toward the sound of her saying *Old Grey*, and stopping.
+A little. Toward her voice. His great grey head, that hadn't turned toward anything since the night of the Ewe Beck, turning a hand's breadth on its neck toward the sound of her saying *Old Grey*, and stopping.
 
 His eyes were still empty. Calder went down and looked. There was still nobody in them.
 

@@ -188,7 +188,7 @@ Nobody moved.
 
 Through the three marks on his chest, he felt the three of them, all at once, lift their heads.
 
-Kharrak opened his jaws and roared. Not fire. Just sound. It went out across the green and the lanes and the burning houses like a wall falling, and the horses screamed and bolted, and the men nearest went down on their knees with their hands over their ears.
+Kharrak opened his jaws and roared, without fire. The sound went out across the green and the lanes and the burning houses like a wall falling, and the horses screamed and bolted, and the men nearest went down on their knees with their hands over their ears.
 
 When it stopped, they ran.
 
@@ -330,7 +330,7 @@ Old Garrow came, on his stick, and looked at him, and nodded once, and went away
 
 The rest didn't come.
 
-He saw them, standing at the edges of the green, in the lanes, at their doors. Not coming closer. Watching him. Watching the dragons. Their faces in the grey light were the faces he'd seen at the hedge on the morning after the mill. Frightened. More frightened now than they'd been then.
+He saw them, standing at the edges of the green, in the lanes, at their doors, keeping their distance. Watching him. Watching the dragons. Their faces in the grey light were the faces he'd seen at the hedge on the morning after the mill. Frightened. More frightened now than they'd been then.
 
 *Why are they afraid?* said Lisska. *We helped. Didn't we? We saved them. Why are they afraid?*
 

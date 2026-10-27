@@ -49,7 +49,7 @@ There were men on the road. Bodies. A horse, dead. In the open gateway, a great 
 
 Thorne's boar.
 
-Dead. On its side, in the gateway, with spears in it. And lying against its shoulder, with one arm across its neck the way you'd put your arm across a friend's, a broad square grey-haired woman in a riding coat.
+Dead. On its side, in the gateway, with spears in it. And lying against its shoulder, with one arm across its neck as you'd put your arm across a friend's, a broad square grey-haired woman in a riding coat.
 
 *They went together,* thought Maren.
 
@@ -69,7 +69,7 @@ She saw faces. She knew some. A second-year with a marten on his shoulder, the o
 
 Rowan wasn't in the yard. There wasn't a greyhart or a horse anywhere in it.
 
-On the walls round the yard the old lamps were lighting and going out. Not together. One here, one there, along the parapets and on the towers, white, a breath, dark, white again, as if something under the hill were breathing on them. Every time one flared the shadows in the yard jumped.
+On the walls round the yard the old lamps were lighting and going out, one here, one there, along the parapets and on the towers, white, a breath, dark, white again, as if something under the hill were breathing on them. Every time one flared the shadows in the yard jumped.
 
 Then the yard broke open round him.
 
@@ -129,7 +129,7 @@ Over the head of the stair, cut in the lintel of the arch under the north tower,
 
 A crossbow.
 
-At the top of the stair, behind the spears, a man lifted it. Not at Haverly. Up. At the falcon, at the top of her climb, hanging for a moment against the firelight before she stooped.
+At the top of the stair, behind the spears, a man lifted it. Up, at the falcon, at the top of her climb, hanging for a moment against the firelight before she stooped.
 
 Maren screamed.
 
@@ -335,7 +335,7 @@ The black door came off its hinges and fell inward onto the stair.
 
 The opening was wide enough for a lion.
 
-Beyond it, the stair groaned. She heard it. All the way down and round into the dark, the walls of the stair shifting, the rock moving back, the way snow loosens on a roof before it slides. Making way.
+Beyond it, the stair groaned. She heard it. All the way down and round into the dark, the walls of the stair shifting, the rock moving back. Making way.
 
 *It knows me,* said Orrun. *The stone. It's the same stone as the pit. It knows what I'm for.*
 

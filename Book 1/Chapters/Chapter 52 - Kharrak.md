@@ -185,7 +185,7 @@ He looked at Calder across the snow.
 
 Calder walked toward him with the halter.
 
-The man didn't run, like the others. He stood with his hand on Old Grey's neck, and his face in the firelight was very calm, and Calder felt the grey change under that hand. He couldn't have said how. Nothing moved. The great beast just stood there. But something came into the way he stood, a set, a weight, the way a horse sets itself before it kicks.
+The man didn't run, like the others. He stood with his hand on Old Grey's neck, and his face in the firelight was very calm, and Calder felt the grey change under that hand. He couldn't have said how. Nothing moved. The great beast just stood there. But something came into the way he stood, a set, a weight, like a horse setting itself before it kicks.
 
 "Stop there," said the handler.
 

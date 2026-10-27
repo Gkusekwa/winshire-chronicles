@@ -73,7 +73,7 @@ The field was black. The top half of it, where the stooks had been, was burned, 
 
 The rust-red dragon was lying on his belly now, not his side, with his torn wing folded badly against him and his long neck stretched out along the ground, and his head was resting beside Calder's knee. The gold eye was open. Looking at him. The grey that had been spreading across his scales last night in the firelight had gone. He was rust-red again, dull, scorched, scarred, but red.
 
-Above him, a little way up the slope, lay Aurveth. She was lying the way a cat lies, with her forelegs tucked in under her chest and her great head up on her neck, high, higher than the roof of the house, looking down at him. One eye. The other side of her face was a dark crusted ruin, and he couldn't look at it. Her back was torn open in long black lines from the shoulders down. She was so still she might have been carved out of the hill.
+Above him, a little way up the slope, lay Aurveth. She was lying like a cat, with her forelegs tucked in under her chest and her great head up on her neck, high, higher than the roof of the house, looking down at him. One eye. The other side of her face was a dark crusted ruin, and he couldn't look at it. Her back was torn open in long black lines from the shoulders down. She was so still she might have been carved out of the hill.
 
 Against his legs, the warm heavy weight: Lisska. Curled round his feet like a dog round a hearth, the smallest of them, green, with her long thin head lying on his shins and her pale green eyes open, looking up at him.
 

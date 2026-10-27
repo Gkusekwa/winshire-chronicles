@@ -232,7 +232,7 @@ Behind him, in the doorway, he heard Joss come out. And Bel. Ada came last, with
 
 The dark went on.
 
-He didn't know how long. Not long. As long as it would take to sing the hush through, twice, slowly. He stood in the frozen yard and didn't breathe. Lisska didn't breathe. At Crow Scar, two leagues off, he felt Kharrak on his feet, and Aurveth with her head up, all of them looking down the river at the place where the lights should be.
+He didn't know how long. Not long. As long as it would take to sing the hush through, slowly. He stood in the frozen yard and didn't breathe. Lisska didn't breathe. At Crow Scar, two leagues off, he felt Kharrak on his feet, and Aurveth with her head up, all of them looking down the river at the place where the lights should be.
 
 Then they came back.
 

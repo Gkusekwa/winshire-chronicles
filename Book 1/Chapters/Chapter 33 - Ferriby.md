@@ -78,7 +78,7 @@ Boats.
 
 They came up the lane out of the dusk like water coming up through a floor.
 
-That was what it was like. No charge, no rush. One moment the lane was empty, grey, with the hedges on either side going dark. And the next there were men in it. Coming up from the creek, from the landing, in twos and threes, fast and quiet. Masked. Dark cloth over their faces, no colours, the way the raiders had been at Upper Rush, the way the roadblock men hadn't been. Thirty of them, perhaps. More. Coming up the lane and over the hedges and into the green from both sides at once.
+That was what it was like. No charge, no rush. One moment the lane was empty, grey, with the hedges on either side going dark. And the next there were men in it. Coming up from the creek, from the landing, in twos and threes, fast and quiet. Masked. Dark cloth over their faces, no colours, like the raiders at Upper Rush and unlike the roadblock men. Thirty of them, perhaps. More. Coming up the lane and over the hedges and into the green from both sides at once.
 
 And not a single one of them went for the patrol.
 
@@ -108,7 +108,7 @@ He lifted one hand. Just a little. Two fingers. And pointed. Toward the paddock.
 
 The boy put the whistle to his mouth and blew. Two short notes.
 
-Behind the chapel, the raiders at the paddock, who'd been fighting Callis and Wynn at the gate, broke off. All at once. And ran. Not away. Sideways. Along the paddock fence, toward the back of old Hamm's farm, where the other raiders were. Callis and Wynn went after them, the way anyone would, the way the hounds made them. And as they went, from behind the chapel, where nobody was now, three more raiders who'd been lying in the ditch came up out of it and went over the paddock fence, quiet, and had the greyharts' halters in their hands before Callis had even turned round.
+Behind the chapel, the raiders at the paddock, who'd been fighting Callis and Wynn at the gate, broke off. All at once. And ran. Not away. Sideways. Along the paddock fence, toward the back of old Hamm's farm, where the other raiders were. Callis and Wynn went after them, as anyone would, the way the hounds made them. And as they went, from behind the chapel, where nobody was now, three more raiders who'd been lying in the ditch came up out of it and went over the paddock fence, quiet, and had the greyharts' halters in their hands before Callis had even turned round.
 
 The man on the roof lowered his hand.
 

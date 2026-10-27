@@ -195,7 +195,7 @@ The rain came in from the west at dusk, heavy and cold and steady, the first rea
 
 He'd sent Lisska to Rue in the afternoon, under cover of the cloud. With a purse. Everything but a few coppers from the barley money, tied up in his last clean handkerchief, to drop by the door of the charcoal burners' hut. *Don't land,* he'd told her. *Don't let them see you. Just drop it.* Vey's men had been at the hut the second day, he knew, asking. Rue had told them she sold bread to anyone who paid and she'd never seen any dragons, and old Hesketh had said *the barley man* and nobody had understood him. He didn't want them to have anything to explain.
 
-Lisska had come back without the purse, and said Rue was outside splitting wood in the rain and had looked up, just once, as the purse came down in the mud by the woodpile, and looked down at it, and then, very slowly, raised her hatchet in the air, the way you'd raise a cup.
+Lisska had come back without the purse, and said Rue was outside splitting wood in the rain and had looked up, just once, as the purse came down in the mud by the woodpile, and looked down at it, and then, very slowly, raised her hatchet in the air, as you'd raise a cup.
 
 Now they went into the back of the cave in the dark, one after another. Lisska first, because she knew the way. Then Calder, on foot, with his stick, feeling along the wall. Then Kharrak. Then Aurveth.
 
@@ -255,7 +255,7 @@ They went west first, out of the Fellwood, over the shoulder of the hill. He did
 
 And across the river, on the Hearthmere bank, a fire.
 
-Not a big one. A hamlet. He could see it from so high: a little cluster of burning roofs, inland a way from the river, north of Greyhold, near the tower at Redwatch. Burning in the rain. He didn't know its name. He'd learn it later. Holloway. Nine houses and a chapel.
+Only a hamlet. He could see it from so high: a little cluster of burning roofs, inland a way from the river, north of Greyhold, near the tower at Redwatch. Burning in the rain. He didn't know its name. He'd learn it later. Holloway. Nine houses and a chapel.
 
 And along the River Road toward it, from Greyhold, coming fast: torches. A long line of them. Twenty, thirty. Riders. Going at the gallop along the road on the Hearthmere bank, in the rain, toward the burning hamlet, and as he watched, the line of torches turned off the road and up a lane and went toward the fire, and spread out round it, and he saw them go in. Knights. On their own bank. Riding to a fire.
 
@@ -279,7 +279,7 @@ He didn't answer that either.
 
 They turned south, high in the rain, and flew till dawn. They lay up that day in a wood nobody had a name for, and flew the next night, and the next.
 
-Not straight. Aurveth wouldn't go straight. She went in long slow curves, away from the river and back to it, away from the roads, over the darkest country she could find. She'd done this before, she said, long ago, in a war he'd never heard of, and you didn't fly straight to anywhere if you didn't want anyone at the other end to know you were coming. Kharrak flew behind. Lisska ranged ahead and to the sides, low, quick, looking.
+Aurveth wouldn't go straight. She went in long slow curves, away from the river and back to it, away from the roads, over the darkest country she could find. She'd done this before, she said, long ago, in a war he'd never heard of, and you didn't fly straight to anywhere if you didn't want anyone at the other end to know you were coming. Kharrak flew behind. Lisska ranged ahead and to the sides, low, quick, looking.
 
 He sat on Aurveth's neck in the rain with his arms round the ridge and his face against the cold bronze and thought.
 

@@ -57,7 +57,7 @@ One by one, the beasts lay down again.
 
 In the morning, Greyhold said it was the cold.
 
-The cold had got into the lamps. Something about the frost in the walls. It had never happened before, in all the years, but then it had never been so cold. Everybody said it, at breakfast, in the yard, at drill, the way you say a thing you've been told to say. *The cold.* Nobody had told them. Everybody said it anyway.
+The cold had got into the lamps. Something about the frost in the walls. It had never happened before, in all the years, but then it had never been so cold. Everybody said it, at breakfast, in the yard, at drill, as you say a thing you've been told to say. *The cold.* Nobody had told them. Everybody said it anyway.
 
 Nobody believed it.
 
@@ -171,15 +171,15 @@ At the river gate she saw Rowan on the wall above, standing alone, watching them
 
 ---
 
-Her mother told her the rumour on the ninety-fifth day, on the ferry.
+Her mother told her the rumour on the ninety-fifth day, at the ferry landing.
 
-Not the ferry; the ferry couldn't run. The river was frozen from bank to bank, and Liss had pulled the flat-bottomed boat up onto the landing steps for the winter and turned it over and was tarring its bottom, because it gave her something to do with her hands. But people still came across. On foot, on the ice, at the narrowest place below the landing, where Ottery's men had marked a safe way with poles. Refugees, mostly. Coming over from the Saltreach side in twos and threes, with bundles, out of the white, every day. Liss stood at the top of the steps and gave them hot water and told them where the soup was, the way she'd always done.
+The ferry couldn't run. The river was frozen from bank to bank, and Liss had pulled the flat-bottomed boat up onto the landing steps for the winter and turned it over and was tarring its bottom, because it gave her something to do with her hands. But people still came across. On foot, on the ice, at the narrowest place below the landing, where Ottery's men had marked a safe way with poles. Refugees, mostly. Coming over from the Saltreach side in twos and threes, with bundles, out of the white, every day. Liss stood at the top of the steps and gave them hot water and told them where the soup was, the way she'd always done.
 
 Maren was helping with the tar. There was a boy at the top of the steps with a cup of hot water in his hands, warming them, talking to Liss. Ten or eleven, thin, from the Eelweir below Harrow's End, he said, come across that morning with his aunt.
 
 "…and old Fisk says he saw him," the boy was saying. "Round midwinter. A week before. Just after the river locked. He was up at the end of the weir having a pipe, Fisk was, because he can't sleep, and he saw him walk out. Out onto the ice. From the bottom of Harrow's End. On his own, in the dark. All the way out to the island." The boy's eyes were very wide. "And he didn't come back till nearly morning."
 
-"Who?" said Liss.
+"Who's that, love?" said Liss.
 
 "The dragon farmer," said the boy. "Calder Fenn. Him with the three dragons. Fisk says he'd know him anywhere. He walked out to the Old Ruin on the ice, and came back, and nobody knows what he was doing out there." He drank his water. "My aunt says he was talking to the monster."
 
@@ -199,11 +199,11 @@ A green scale, warm, at the bottom of her chest.
 
 "Yes?"
 
-"That farmer," said Liss. "With the dragons. Fenn." She drew the brush along the keel. "He's got a little girl, they say. Nine or ten. And his mother. Up at Harrow's End, or near it." She dipped the brush. "There's a price on him in Wendmouth. And now they're saying he's the sign the old powers are coming back. Those people with the rings. They've put his name on their paper." She was quiet a while. "Poor man."
+"That farmer," said Liss. "With the dragons. Fenn." She drew the brush along the keel. "He's got a little girl, they say. Nine or ten. And his mother. Up at Harrow's End, or near it." She dipped the brush. "There's a price on him in Wendmouth. And now they're saying he's the sign the old powers are coming back. Those people with the rings. They've put his name on their paper." She was quiet a while. "Poor lamb."
 
 Maren drew her own brush along the strake.
 
-"If he comes over," said Liss. "If he ever comes over. To this bank. With his little girl." She drew the brush along the keel again. "I'd want to know."
+"If he comes over," said Liss. "If he ever comes over. To this bank. With his little girl." She drew the brush along the keel again. "I'd want to know, that's all."
 
 Maren looked at her mother.
 

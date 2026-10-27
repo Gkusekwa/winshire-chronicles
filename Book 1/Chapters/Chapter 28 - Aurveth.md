@@ -238,7 +238,7 @@ He put out his hand without opening his eyes, and found her muzzle, and laid his
 
 Aurveth flew him on the thirty-first night.
 
-She'd been flexing her back for days, the way Kharrak had flexed his wing: long slow stretches in the mouth of the cave, the scarred ridges pulling and giving, a little more every time. On the thirty-first night, when the moon was up, just past full and white over the Fellwood, she got up and went to the edge of the ledge and stood there with her great wings half open, and turned her head, and looked at him with her one eye.
+She'd been flexing her back for days, as Kharrak had flexed his wing: long slow stretches in the mouth of the cave, the scarred ridges pulling and giving, a little more every time. On the thirty-first night, when the moon was up, just past full and white over the Fellwood, she got up and went to the edge of the ledge and stood there with her great wings half open, and turned her head, and looked at him with her one eye.
 
 *Come,* she said. *I want to see something. And I want you to see it with me.*
 

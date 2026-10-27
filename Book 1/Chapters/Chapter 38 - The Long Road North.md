@@ -60,7 +60,7 @@ Calder felt him. All the time. Through the rust-red mark, close, prowling in the
 
 *Because he's frightened,* said Lisska. *He's never been frightened before. Not like that. Not of losing someone. He'd only ever had Dag. And Dag was never stupid enough to go anywhere without him.*
 
-Calder walked beside Mabbin in the dark and didn't say anything.
+Calder walked beside Mabbin in the dark.
 
 ---
 
@@ -100,7 +100,7 @@ On a road. A great road, paved, white, wide enough for four carts abreast, going
 
 Someone was walking beside her.
 
-He couldn't see them. They were a gap. A place in the green and gold light where someone should have been and wasn't. But he could feel them. At her shoulder. Walking. Close. And he could feel her feel them: warm, steady, loved, the way you feel a fire at your back on a cold night.
+He couldn't see them. They were a gap. A place in the green and gold light where someone should have been and wasn't. But he could feel them. At her shoulder. Walking. Close. And he could feel her feel them: warm, steady, loved, as you feel a fire at your back on a cold night.
 
 There was a stone by the road. This stone. New, sharp-edged, white, with the letters cut fresh and clean. And as they came level with it, the gap at her shoulder stopped. And reached out. And laid a hand on it.
 
@@ -152,7 +152,7 @@ People in grey coats, going among them. Plain grey, not knights' grey. Handing o
 
 "Yes," said Calder.
 
-He stopped at the edge of the road above the camp, with Mabbin, the way anyone would, to look. And because he'd stopped, because he was looking, he saw past the soup tents to the back of the camp.
+He stopped at the edge of the road above the camp, with Mabbin, to look. And because he'd stopped, because he was looking, he saw past the soup tents to the back of the camp.
 
 There was a field there. Fenced. Away from the tents, behind a line of willows, where you wouldn't see it unless you stopped at the top of the road. And in the field, young men. Forty, fifty of them. In lines. Drilling. With spears. Marching up and down the field in step, while a man in grey walked beside them calling the time.
 
@@ -184,7 +184,7 @@ There were two more camps on the road. One on the fifth day, still in the Wendwo
 
 He stopped at each one and looked. And walked on.
 
-At the second camp, on the fifth day, there was a hound at the end of the line nearest the road. A big brindled thing, on a short chain, beside a boy of sixteen with a ring on his neck. It was trotting in step with the boy, eyes on nothing, the way they all did. And as Calder stood at the top of the road looking down, a shadow went over the field.
+At the second camp, on the fifth day, there was a hound at the end of the line nearest the road. A big brindled thing, on a short chain, beside a boy of sixteen with a ring on his neck. It was trotting in step with the boy, eyes on nothing, as they all did. And as Calder stood at the top of the road looking down, a shadow went over the field.
 
 High. Very high. Moving fast. He looked up. He couldn't see anything. Cloud. But he felt it, through the rust-red mark. Kharrak. Going over, on his way back from hunting, high above the valley, where no one on the ground would see him.
 
@@ -228,7 +228,7 @@ Another silence. Long.
 
 He felt Kharrak turn, high above the valley, and go back north toward the forest. And through the rust-red mark, under the cold, under the anger, something else. Something he'd felt once before, on the ledge at Crow Scar, when Kharrak came up out of the fall with his torn wing open.
 
-Not joy, this time. The other side of it. The thing joy is afraid of losing.
+The other side of joy, this time. The thing joy is afraid of losing.
 
 ---
 
@@ -386,7 +386,7 @@ And they stood there. Face to face. In the rain. Breathing each other in.
 
 Joss came out of the house.
 
-He came out because of the sound, the way anyone would, with a lantern in his hand. He stopped in the door. He stood there in the door of his own house with the lantern held up and looked at the two dray-mares at his paddock gate, with their faces together, and his big slow face didn't do anything at all. The lantern sagged in his hand. He walked across the yard as if he were walking in a dream, and put his hand on Mabbin's neck.
+He came out because of the sound, with a lantern in his hand. He stopped in the door. He stood there in the door of his own house with the lantern held up and looked at the two dray-mares at his paddock gate, with their faces together, and his big slow face didn't do anything at all. The lantern sagged in his hand. He walked across the yard as if he were walking in a dream, and put his hand on Mabbin's neck.
 
 He didn't say anything. He couldn't. He stood there in the rain with one hand on Mabbin's neck and the other on Sorrel's, and his face working, and tears running down it into his beard.
 
@@ -404,7 +404,7 @@ From further off, very faint, came Kharrak's voice.
 
 Joss turned his head and looked up the yard. And saw him, standing at the bottom of the hill road in the rain with his hat pulled down and his empty hands.
 
-He just looked. He lifted one hand, the way old Fisk had at the corner of the lane, and held it up.
+He just looked. He lifted one hand, as old Fisk had at the corner of the lane, and held it up.
 
 Behind him, the door of the house opened again.
 
@@ -416,7 +416,7 @@ Light came out into the yard. And a voice, high, clear, cracking:
 
 She came across the yard through the rain in her nightgown and her bare feet, the way she'd gone across the yard at home to Lisska on the morning he left, and he went down on his bad knee in the mud and caught her.
 
-She was heavier. She'd grown. Three weeks, and she'd grown. She put her arms round his neck so tight he couldn't breathe and put her face in his wet coat, and didn't cry, and didn't say anything, and he knelt in Joss's yard in the mud and the rain and held her and didn't say anything either.
+She was heavier. She'd grown. Three weeks, and she'd grown. She put her arms round his neck so tight he couldn't breathe and put her face in his wet coat, and didn't cry, and didn't say anything, and he knelt in Joss's yard in the mud and the rain and held her.
 
 Behind her, in the door, there was his sister Bel with Nan on her hip, and Ada, with her shawl round her, looking at him.
 

@@ -84,7 +84,7 @@ She heard it. From the barge. The same sound. The same sound she'd heard on the 
 
 Bracken stopped.
 
-He stood on the landing, very still, with the silent hound's throat still in his jaws. Then he let go of it. Gently. The way he always let go when Ide told him. And lay down on the frost, on his side, slowly, the way an old dog lies down by the fire. And didn't get up.
+He stood on the landing, very still, with the silent hound's throat still in his jaws. Then he let go of it. Gently. The way he always let go when Ide told him. And lay down on the frost, on his side, slowly, like an old dog lying down by the fire. And didn't get up.
 
 Behind Maren, on the steps, someone screamed.
 
@@ -266,7 +266,7 @@ She looked at it in the grey light by the dying pyre. Turned it over in her hand
 
 A ring of six dots.
 
-Rowan didn't say anything. She didn't look surprised. She didn't look anything at all.
+Rowan said nothing. She didn't look surprised. She didn't look anything at all.
 
 She took a little book out of her coat, and a pencil, and wrote something in it, there on the shore, standing by the pyre, with the collar in her other hand, and put the book away, and went up the landing steps to Greyhold, with the collar, and didn't look back.
 

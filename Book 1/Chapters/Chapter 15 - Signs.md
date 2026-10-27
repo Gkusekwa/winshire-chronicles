@@ -85,7 +85,7 @@ She found the hunters' camp in the afternoon.
 
 It was on the north-west shore, below a little bluff where the island's edge rose steep out of the water. From the river you'd never see it. From the island you'd only find it if you were looking: a notch in the bank, a strip of gravel, and above it, tucked under the bluff where the overhang kept the rain off, a camp.
 
-Empty. But not cold, the way the fires by the fort had been cold. This was a camp somebody meant to come back to.
+Empty. But not cold like the fires by the fort. This was a camp somebody meant to come back to.
 
 There was a canvas lean-to, oiled, pegged down tight. There was a stack of firewood, cut and dry, under a tarp. There were sacks of salt meat, and a barrel of water, and a crate of something she didn't open. There was gear: coils of beast chain, heavy, dark, with the little ring of six on every link, the same as the piece in her pocket. A heap of iron stakes. Three more jaw-traps, unset, folded up like great iron flowers. Laid out in pieces along the foot of the bluff, under another tarp, the bars and frame of a cage. A big one. Bigger than any beast cage she'd ever seen. Each bar as thick as her wrist, and the frame bolted, and the bolts greased.
 

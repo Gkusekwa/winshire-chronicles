@@ -172,7 +172,7 @@ Arn sat on his black horse on the far bank and looked at his uncle.
 
 He didn't speak. But his face was doing something Calder had never seen it do. Not at the ford in the autumn, with his hand in his brother's blood. Not on the step of his father's hall. It had stopped being a knife. It was listening.
 
-Calder stood in the water between them and felt it. The thing he'd wanted. Both of them, at once, hearing it in the same breath, on either side of the water, with the beck going over the stones between them. Neither able to say it had been told to the other first. He felt it hold, the way you feel a knot hold when you pull on it.
+Calder stood in the water between them and felt it. The thing he'd wanted. Both of them, at once, hearing it in the same breath, on either side of the water, with the beck going over the stones between them. Neither able to say it had been told to the other first. He felt it hold, as you feel a knot hold when you pull on it.
 
 He opened his mouth to say the rest.
 
@@ -192,7 +192,7 @@ From behind Calder, from the gorse on the near slope, above Ulric, in the same b
 
 Both at once.
 
-He stood in the middle of the ford with the bolts going over him both ways and understood it in one terrible clear moment, the way you understand a fall while you're still falling.
+He stood in the middle of the ford with the bolts going over him both ways and understood it in one terrible clear moment, as you understand a fall while you're still falling.
 
 Every man on the far bank had just seen men in plain grey shoot their fellows from Ulric's side. Every man on the near bank had just seen men in red thread shoot theirs from Arn's.
 

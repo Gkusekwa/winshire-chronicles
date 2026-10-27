@@ -107,7 +107,7 @@ There was a silence.
 
 ---
 
-It came in like a window opening in the dark. Not the way Aurveth's came: deep, slow, rising up from a long way down, like something coming up through black water. Lisska's came fast. Bright. All at once. Like a candle lit in a dark room.
+It came in like a window opening in the dark. Aurveth's came deep and slow, rising up from a long way down, like something coming up through black water. Lisska's came fast. Bright. All at once. Like a candle lit in a dark room.
 
 He was standing in the middle of a ruined fort at night, in summer, with the smell of warm stone and crushed grass and the river, and the stars very bright overhead, and he was small, and low to the ground, and young, so young, with wings that ached from the long flight and a heart going like a bird's. And there was a girl. Eighteen. Lean and quick and brown, with her black hair blowing loose and a narrow laughing face, walking about among the broken stones in the starlight with her arms out, turning round and round, laughing. *There, Brann Holt. There. There.*
 
@@ -127,7 +127,7 @@ He felt her see the letters.
 
 He felt her know them.
 
-Not the way you know something you learned. The way you know your own hand. The way you know the shape of the roof of the cave you were hatched in. She looked at the square letters with their little hooks in Lisska's memory of a summer night nine years ago, and the words came up in her by themselves, like water coming up in a footprint.
+Not the way you know something you learned. The way you know your own hand, or the shape of the roof of the cave you were hatched in. She looked at the square letters with their little hooks in Lisska's memory of a summer night nine years ago, and the words came up in her by themselves, like water coming up in a footprint.
 
 *Here the road of the one realm crossed the water,* said Aurveth.
 

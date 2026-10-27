@@ -111,7 +111,7 @@ They argued it like weather. Ulric Varr, the old chief's brother, the best warri
 
 They laughed. Calder laughed too, a little behind the rest.
 
-"What about you, Fenn?" said Hob. "Who d'you want in the hold?"
+"What about you, Fenn?" said Hob. "Where's your money, for the hold?"
 
 He thought about it. "Whoever's buying barley."
 
@@ -119,7 +119,7 @@ He thought about it. "Whoever's buying barley."
 
 "It's the one I've got."
 
-Hob gave him a look that said he'd expected nothing better, and paid him short by two coppers, and Calder let him. On the way out he stopped at the crossroads shrine, the way everybody did, and put one of the coppers he had left in the bowl. Some days it was for the gods. Some days it was for whoever emptied the bowl. He'd never asked which, because he didn't want to know.
+Hob gave him a look that said he'd expected nothing better, and paid him short by two coppers, and Calder let him. On the way out he stopped at the crossroads shrine, as everybody did, and put one of the coppers he had left in the bowl. Some days it was for the gods. Some days it was for whoever emptied the bowl. He'd never asked which, because he didn't want to know.
 
 ---
 
@@ -208,13 +208,13 @@ Joss answered. He was a big, slow, gentle man who bred dray-beasts, and his voic
 
 There was a growl of agreement. It had a shape to it that was easy to hold.
 
-"The Clan's got dragons," said Hob. "What do they want with an ox?"
+"The Clan's got dragons," said Hob. "What's an ox worth to a man with a dragon?"
 
 "Eat it, maybe."
 
 That got a bad laugh. Calder didn't laugh. He was looking at the yard.
 
-It was churned to mud, the way any yard is after twenty men and a lot of frightened animals have been through it. But across the mud, plain in the light of the burning barn, ran two deep ruts. A cart, heavy, iron-tyred. They went out of the yard and down the slope.
+It was churned to mud, as any yard is after twenty men and a lot of frightened animals have been through it. But across the mud, plain in the light of the burning barn, ran two deep ruts. A cart, heavy, iron-tyred. They went out of the yard and down the slope.
 
 Not up toward the lane and the hills and Varrhold. Down. Toward the river.
 

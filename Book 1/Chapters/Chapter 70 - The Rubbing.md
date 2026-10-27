@@ -98,7 +98,7 @@ He sat on the hill above his burned farm and let it all go through him at once. 
 
 He felt it hit them.
 
-Very far off, all three at once, the way sheep on a far hill lift their heads together at a dog.
+Very far off, all three at once, as sheep on a far hill lift their heads together at a dog.
 
 ---
 
@@ -169,7 +169,7 @@ The hill was very quiet. Below them Harrow's End burned with campfires, and the 
 
 *It was never theirs,* said Aurveth. *The knights'. The oath. It was the old ones' word. To the cat. To the kin. Keep the watch. And the men who chained the sleeper took the words off the stone and put them in their own mouths, and said them every day facing it, and forgot whose they were.*
 
-She didn't go on. He felt something move in her, down under the old slow weight, the way a fish turns under ice.
+She didn't go on. He felt something move in her, down under the old slow weight, like a fish turning under ice.
 
 *Ennis,* she said.
 

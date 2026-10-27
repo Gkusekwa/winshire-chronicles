@@ -90,21 +90,21 @@ He hadn't needed wings. He'd needed a brother.
 
 That was all, at first. They stood there and said each other's names, as you'd say the name of a man you saw every day. Then the laughing one, Cassian, put out his hand and gripped his brother's shoulder, once, and let go. Corvin let it happen.
 
-"You've had a quiet day," said Cassian.
+"You've had a quiet day, brother," said Cassian.
 
-"I've had a long one." Corvin's voice was low and even. It didn't carry. Calder had to hold his breath to hear it, and the guards at the tower door below him had stopped talking. "The knights came up from Greyhold this morning. All of them. Two hundred and sixty riders, the greyharts, the hounds, the captain's pig in a cage. And a chain on a wain that four beasts could hardly pull." He tilted his head very slightly toward the west, toward the far bank, where Calder could see from his crack a long line of fires along the reeds below Redwatch. "They're on the bank. Opposite. Facing the ladders."
+"I've had a long one." Corvin's voice was low and even. It didn't carry. Calder had to hold his breath to hear it, and the guards at the tower door below him had stopped talking. "The knights came up from Greyhold this morning. All of them. Two hundred and sixty riders, the hounds, the captain's pig in a cage. And the chain, on a wain." He tilted his head very slightly toward the west, toward the far bank, where Calder could see from his crack a long line of fires along the reeds below Redwatch. "Opposite. Facing the ladders."
 
 "Rowan too?"
 
 "Rowan too. At the head of it."
 
-Cassian laughed. Softly, this time. "She's done exactly what we wanted."
+Cassian laughed. Softly, this time. "Bless her. She's done exactly what we wanted."
 
-"She's done what she had to. She couldn't do anything else." Corvin didn't smile. "Greyhold has fewer than forty on its wall. The weapons master. The old archivist. Some students. A few knights too old or too hurt to ride." He paused. "Our friend is among them."
+"She had no choice." Corvin didn't smile. "Fewer than forty on Greyhold's wall. The weapons master, the old archivist, some students, the old and the hurt." He paused. "Our friend is among them."
 
 "And Millbrook?"
 
-"Millbrook's ready. Reede says the barns are full. Fennick's. The tithe barn. The boats on the back channel." Corvin looked at his brother. "When you cross tonight, they'll be waiting for you."
+"Millbrook's ready. The barns are full, Reede says. Fennick's, the tithe barn, the boats on the back channel." Corvin looked at his brother. "They'll be waiting when you cross."
 
 "And Halloran's woman?"
 
@@ -122,7 +122,7 @@ Somebody was coming up from the spit.
 
 Calder heard him on the gravel before he saw him. Then he came into the light of the fire, crossing the fort toward the arch. A man of no particular height. Brownish hair. Brownish beard. A face that went out of your head while you looked at it.
 
-Rook stopped a little way off from the two of them, the way a servant stops, and waited.
+Rook stopped a little way off from the two of them, as a servant stops, and waited.
 
 "Well?" said Corvin.
 
@@ -146,17 +146,17 @@ Cassian had turned away a little. He was looking at the fire.
 
 "It happened at the mill," said Cassian.
 
-"That one didn't happen." Rook said it mildly, the way you'd put a man right about the price of barley. "That one was bought. One of Delling's crossbows, in the hedge at the bottom of the field, before we'd hired the rest of the company. Paid to put the woman on the green one out of the fight if the other two came down. So the war-pairs would break, all three, in one night, and the dragons would be loose." He shrugged. "They broke. The dragons went to a farmer in a barley field. Nobody paid for that."
+"That one didn't happen." Rook said it mildly, as you'd put a man right about the price of barley. "That one was bought. One of Delling's crossbows, in the hedge at the bottom of the field, before we'd hired the rest of the company. Paid to put the woman on the green one out of the fight if the other two came down. So the war-pairs would break, all three, in one night, and the dragons would be loose." He shrugged. "They broke. The dragons went to a farmer in a barley field. Nobody paid for that."
 
 *Thock.* In the dark, by the hedge. Calder had heard it lying in the stubble with his ribs stove in, and not known what it was until it was too late to matter.
 
 Far off in the north something went quiet all at once, like birds in a hedge when a hawk's shadow crosses it. Lisska. He felt her go still. He felt Imra's cold come up through the green mark the way it had come on the night of the mill, and Teo's name in it.
 
-"It did what it was for," said Corvin. "The Clan won't stand together again this side of the summer. Neither of them will look south. That's all we needed." He turned his head and looked at his brother. "You knew what the ford was for."
+"It did what it was for," said Corvin. "The Clan won't stand together again this side of the summer. That's all we needed." He turned his head and looked at his brother. "You knew what the ford was for."
 
 "I knew." Cassian didn't turn round. "I didn't know about the old man."
 
-"Nobody knew about the old man," said Corvin. "Nobody ever knows about the old man. There's always one."
+"Nobody ever knows about the old man," said Corvin. "There's always one."
 
 ---
 
@@ -206,11 +206,11 @@ Cassian turned away again. He stood with his back to them looking at the fire, w
 
 Corvin watched him.
 
-"You wanted the one realm," said Corvin quietly. "You stood on the steps at Wendmouth and made three thousand people weep for it. This is what it costs." He didn't raise his voice. "Somebody has to pay it. I do. Rook does. You only have to stand on the steps."
+"You wanted the one realm," said Corvin quietly. "You made three thousand people weep for it at Wendmouth. This is what it costs." He didn't raise his voice. "Rook pays it. I pay it. You stand on the steps."
 
 Cassian didn't answer.
 
-"I'd still rather have the farmer than burn him," he said at last, to the fire. "That's all. I'd rather have him. He's the sign. The man with three. Whatever the old books say, it's a beautiful thing, Corvin, a man three dragons lie down round in a field. It's the one realm in a single man. If we could bring him in…"
+"I'd still rather have the farmer than burn him," he said at last, to the fire. "That's all. I'd rather have him. He's the sign. The man with three. Whatever the old books say, it's a beautiful thing, Corvin, a man three dragons lie down round in a field. It's the one realm in a single man. Think of him on the steps beside me. If we could only bring him in…"
 
 "We'll have the dragons either way," said Corvin. "A man's a halter. So's the girl. You don't need to love the halter."
 
@@ -226,9 +226,9 @@ Then he looked down. At the threshold. At the long smooth hollow worn in the sto
 
 "She took it off the island in the dark," he said. "The night before we came. The knight-girl. Delling's men found the skiff-mark at the west shore and its prints going into the water beside hers." He was quiet a moment. "I'd have liked to have it here. At the hour. It came back to this door every night for three hundred years. It would have come back tomorrow."
 
-"It might yet," said Cassian.
+"It might yet," said Cassian. "Give it the night."
 
-"It might." Corvin turned his head and looked west, across the island, across the channel, toward the dark Hearthmere bank and the line of the knights' fires. "It doesn't matter. We don't need it. We need the hour, and two hands." He looked at his brother. "Tomorrow Millbrook rises and you knock on the gate, loud, so they look at it. Spend Halloran's woman on it, all she has. A knock that costs us nothing, the gate won't believe. The night after, our friend opens it and takes you down. Under the school. To the knight's lock."
+"It might." Corvin turned his head and looked west, across the island, across the channel, toward the dark Hearthmere bank and the line of the knights' fires. "We don't need it. We need the hour, and two hands." He looked at his brother. "Tomorrow Millbrook rises and you knock on the gate, loud, so they look at it. Spend Halloran's woman on it, all she has. A knock that costs us nothing, the gate won't believe. The night after, our friend opens it and takes you down. Under the school. To the knight's lock."
 
 "And you stay here."
 
@@ -236,7 +236,7 @@ Then he looked down. At the threshold. At the long smooth hollow worn in the sto
 
 "At the hour."
 
-"At the hour. Not before. Not after." Corvin's voice didn't change at all. "Midnight, the night after tomorrow. It doesn't matter about the moon. It matters that it's the same breath. Here, and there. If one turns and the other doesn't, nothing opens and they know we're there. Both, or nothing."
+"At the hour. Not before. Not after." Corvin's voice didn't change at all. "Midnight, the night after tomorrow. Never mind the moon. The same breath. Here, and there. If one turns and the other doesn't, nothing opens and they know we're there. Both, or nothing."
 
 "Two hands," said Cassian.
 

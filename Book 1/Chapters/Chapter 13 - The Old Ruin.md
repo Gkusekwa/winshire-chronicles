@@ -25,13 +25,13 @@ She grounded the skiff on the gravel spit in the last grey of the dusk, and clim
 
 She didn't go in that night.
 
-She pulled the skiff up the spit as far as it would go, into the lee of a drift-log as thick as a horse, and turned it over, and made her camp under it the way they'd taught her on the watch: blanket, pack, lamp shuttered, Pell's sword unbuckled and laid beside her with the hilt by her hand. She ate bread and cold bacon in the dark. She didn't light a fire.
+She pulled the skiff up the spit as far as it would go, into the lee of a drift-log as thick as a horse, and turned it over, and made her camp under it as they'd taught her on the watch: blanket, pack, lamp shuttered, Pell's sword unbuckled and laid beside her with the hilt by her hand. She ate bread and cold bacon in the dark. She didn't light a fire.
 
 Across the water, the fair at Harrow's End went on for hours. She could see the big fire in the top field above the village, a red smear on the black, and hear the fiddle when the wind came round. Once, very late, somebody sang. A thin old voice, by itself, so faint it was more like remembering a song than hearing one. She lay under the skiff with her cheek on her pack and listened to it, and thought she knew the tune, and couldn't think from where.
 
 The fire went down, and the music stopped, and there was only the river.
 
-She didn't sleep much. She lay on her back on the gravel with the overturned boat a hand's breadth above her face and counted the sounds. The water on the stones. The wind in the trees above the spit. An owl, twice, far off on the Hearthmere bank. The drift-log creaking as the river shifted it. She counted them all and put them away, the way you do on watch, so that when a new one came she'd know it.
+She didn't sleep much. She lay on her back on the gravel with the overturned boat a hand's breadth above her face and counted the sounds. The water on the stones. The wind in the trees above the spit. An owl, twice, far off on the Hearthmere bank. The drift-log creaking as the river shifted it. She counted them all and put them away, as you do on watch, so that when a new one came she'd know it.
 
 No new one came. That was what kept her awake. On the river at night there was always something: an otter, a heron, a fox on the bank, a fish jumping. Here there was nothing. The island lay behind her in the dark.
 

@@ -203,11 +203,11 @@ That was the one that made people go quiet. Sigrun, who'd been war-leader of the
 
 The rest of the bonded riders, ten or eleven of them, had gone up into the Roosts the morning after the pyre and shut themselves in. The old law said no bonded rider fights kin, and they meant to keep it, whoever ended up in the chair. Sigrun had kept them to that law for fifty years. Now the war-leader and the two best riders she had were the ones breaking it.
 
-"So that's three war dragons," said Hob, at the Wheel, with his elbows on the table, "and a cliff full of them sitting on their hands. Two on one side and one on the other. And the one on the other's the biggest." He drank. "That's not a war. That's a slaughterhouse."
+"So that's three war dragons," said Hob, at the Wheel, with his elbows on the table, "and a cliff full of them sitting on their hands. Two on one side and one on the other. And the one on the other's the biggest." He drank. "Call that a war? It's a slaughterhouse."
 
 Nobody laughed.
 
-"Sigrun's dragon's twice the size of the other two," said Hob. "Older than anybody. She's seen off two riders already. They say she can't die." He drank again. "I'd want to be on the side that had her."
+"Sigrun's dragon's twice the size of the other two," said Hob. "Older than anybody. She's seen off two riders already. They say she can't die." He drank again. "I'd want my money on the side that had her."
 
 ---
 

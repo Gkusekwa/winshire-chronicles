@@ -164,7 +164,7 @@ He looked at her. At her shirt, with nothing over it.
 
 "With Tobin's sword. It's blunt." She came across the yard. "I broke his arm."
 
-Tam looked at her, and something went across his face that she hadn't seen on it since he was small. He laughed. Not much. A short surprised sound, like a cough.
+Tam looked at her, and something went across his face that she hadn't seen on it since he was small. He laughed. A short surprised sound, like a cough.
 
 "Callis," he said. "Good."
 

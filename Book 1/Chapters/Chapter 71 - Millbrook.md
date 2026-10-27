@@ -56,7 +56,7 @@ At the top of the town, at the top of the back lanes, where the jetty road came 
 
 The crown's chain was gone off the doors.
 
-Broken. Not unlocked. Somebody had taken a hammer to it. It lay on the step in two pieces, with the crown's seal still hanging off it on its ribbon, and the great doors stood open, and inside the forge was red, and the red was the roof. The old thatch over the forge-yard was alight, and the rafters under it, and the smoke was coming out of the open doors in a black roll along the ground.
+Broken. Somebody had taken a hammer to it. It lay on the step in two pieces, with the crown's seal still hanging off it on its ribbon, and the great doors stood open, and inside the forge was red, and the red was the roof. The old thatch over the forge-yard was alight, and the rafters under it, and the smoke was coming out of the open doors in a black roll along the ground.
 
 Somebody was inside shouting.
 
@@ -148,7 +148,7 @@ She came along the slip past the end of the barricade, past the boat on its side
 
 His voice was wrong. Hoarse with smoke. Something else.
 
-"The tents by the meadows. The ones from over the river." He swallowed. "Nobody said about the camp. Reede didn't. Nobody. They said Millbrook would rise and hold the town and the knights would be caught. Nobody said anybody was going to go down the back channel at dawn and burn the camp." He looked at Odo on the door. "Nobody said about any of it."
+"The tents by the meadows. The ones from over the river." He swallowed. "Nobody said about the camp. Reede didn't. Nobody. Millbrook rises, holds the town, the knights get caught, that's what they said. Nobody said anybody was going down the back channel at dawn to burn the camp." He looked at Odo on the door. "Nobody said about any of it."
 
 "No," said Maren. "They don't."
 
@@ -168,7 +168,7 @@ She turned round.
 
 Tobin was standing at the end of the barricade with the fire behind him, looking at her.
 
-"He's had the seal since the summer," said Tobin. "Since before Upper Rush. Reede gave it him. He hates them. The orders. He's hated them since they passed him over for the inner circle five years ago and gave it to men with better names." He looked at her. "And since the frost fair. And since you. He opens the river gate tomorrow night. In the third hour. And takes them down. Under the school." His voice cracked. "I don't know what's down there. Nobody's told me. I'm only telling you."
+"He's had the seal since the summer," said Tobin. "Since before Upper Rush. Reede gave it him. He hates them, the orders. Has done since they passed him over for the inner circle five years ago for men with better names." He looked at her. "And since the frost fair. And since you. Tomorrow night he opens the river gate. Third hour. Takes them down, under the school." His voice cracked. "I don't know what's down there. Nobody's told me. I'm only telling you."
 
 "Why?"
 
@@ -196,7 +196,7 @@ Behind Liss, in the red door of the ferry house, there was a thin girl with a gr
 
 Over the red door the old lamp lit as they went under it. The one that had hung dark on its hook since midwinter. White, a breath, so bright Odo shut his eyes on the door. Then dark.
 
-Later, by the fire, Liss took Maren's hands and unwrapped them and looked at the palms. She said the burn-word over them. The river one, that her own mother had said over every burned hand in the ferry house, that hadn't done anything since the turn of the year. Liss said it anyway, out of habit, the way she'd say *mind the step.*
+Later, by the fire, Liss took Maren's hands and unwrapped them and looked at the palms. She said the burn-word over them. The river one, that her own mother had said over every burned hand in the ferry house, that hadn't done anything since the turn of the year. Liss said it anyway, out of habit, as she'd say *mind the step.*
 
 It took.
 
@@ -260,7 +260,7 @@ Upriver. Over the island. Over the Old Ruin, in the dusk.
 
 Fire.
 
-Not campfires. Not thatch. A long tongue of it coming down out of the darkening sky onto the island, white at the root, orange-red at the end, so bright the river at her feet showed it back, leagues downstream of it. Then another, from somewhere else in the sky. Deeper. Slow, heavy, bronze-gold, like Odo's forge door swung open, rolling down over the fort and the arch in a great slow wave.
+A long tongue of it coming down out of the darkening sky onto the island, white at the root, orange-red at the end, so bright the river at her feet showed it back, leagues downstream of it. Then another, from somewhere else in the sky. Deeper. Slow, heavy, bronze-gold, like Odo's forge door swung open, rolling down over the fort and the arch in a great slow wave.
 
 Two.
 

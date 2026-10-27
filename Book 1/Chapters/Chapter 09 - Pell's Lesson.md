@@ -126,13 +126,13 @@ That was all. No name. No place. No call to do anything.
 
 "What man?"
 
-"I don't know. Just a man." He shrugged. "He was talking to some people. I listened for a bit."
+"Don't know. Just a man. He was talking to some people, I listened, that's all."
 
 "What was he saying?"
 
-Tobin was quiet a moment. He looked across the yard at the practice posts, where the bonded students were working in pairs with their beasts at the edge of the sand, and the unbonded ones were working in pairs with no one, and Haverly was doing something quick and clever with his feet that made the Darrow girl laugh.
+Tobin looked across the yard at the practice posts, where the bonded students were working in pairs with their beasts at the edge of the sand, and the unbonded ones were working in pairs with no one, and Haverly was doing something quick and clever with his feet that made the Darrow girl laugh.
 
-"He said," said Tobin slowly, "that before the six kingdoms there was one. Everyone knows that. The old song. And that in the one, it didn't matter who a beast chose and who it didn't. That nobody was chosen and nobody was unchosen. That a man was a man and a knight was a knight and the beasts were free and nobody owned anybody." He looked at the pamphlet in her hand. "And that the six kingdoms broke all that. That they made the beasts into things you buy and sell and the people into chosen and unchosen, and gave the chosen everything and the unchosen the turnip horse." He glanced at her. "He actually said that. *The turnip horse.* I swear he did. He said it as a joke, about knights' schools, and everyone laughed, and I didn't laugh, because it's not a joke, is it? Not to us."
+"He said," said Tobin, all in a rush, "that before the six kingdoms there was one. Everyone knows that. The old song. And that in the one, it didn't matter who a beast chose and who it didn't. That nobody was chosen and nobody was unchosen. That a man was a man and a knight was a knight and the beasts were free and nobody owned anybody." He looked at the pamphlet in her hand. "And that the six kingdoms broke all that. That they made the beasts into things you buy and sell and the people into chosen and unchosen, and gave the chosen everything and the unchosen the turnip horse." He glanced at her. "He actually said that. *The turnip horse.* I swear he did. He said it as a joke, about knights' schools, and everyone laughed, and I didn't laugh, because it's not a joke, is it? Not to us."
 
 Maren folded the pamphlet back up along its creases.
 

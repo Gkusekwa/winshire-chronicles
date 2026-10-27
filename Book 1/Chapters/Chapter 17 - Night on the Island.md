@@ -94,7 +94,7 @@ Nobody answered. They worked faster.
 
 "Far enough," said the woman. "If you're quiet."
 
-There was one more. Maren almost didn't count him, because he wasn't doing anything. He was standing by the raft, at the edge of the light, with his hands in the pockets of a drover's coat too good for a drover. He wasn't carrying or unloading, and he wasn't giving orders either. He was watching, the way the Captain was watching, but differently: as if all of it, the raft and the chain and the men sweating under it, belonged to someone else, and he'd been sent along to see it was done right.
+There was one more. Maren almost didn't count him, because he wasn't doing anything. He was standing by the raft, at the edge of the light, with his hands in the pockets of a drover's coat too good for a drover. He wasn't carrying or unloading, and he wasn't giving orders either. He was watching, like the Captain, but differently: as if all of it, the raft and the chain and the men sweating under it, belonged to someone else, and he'd been sent along to see it was done right.
 
 He was nobody. That was what she noticed. Middle height, middle build, a face she looked at and couldn't keep hold of; she looked away and looked back and had to learn it again. Only his boots stood out, when he stepped into the lantern light for a moment to look at something on the raft: good boots, oiled, black, with little brass eyelets that caught the light. Coast boots. Wendmouth boots. Nobody on the river wore boots like that. You couldn't afford them on a boatman's pay.
 
@@ -250,7 +250,7 @@ On the raft, far out, somebody laughed.
 
 She heard the Captain's voice come across the water, flat and carrying. "Leave it. Whoever it is, they're not going anywhere now. We'll come back for them."
 
-And then, quieter, but the river carried it, the way the river carries everything at night, another voice. A man's. Pleasant. Unhurried. A voice you'd forget.
+And then, quieter, but the river carried it, as it carries everything at night, another voice. A man's. Pleasant. Unhurried. A voice you'd forget.
 
 "No," it said. "We won't need to."
 

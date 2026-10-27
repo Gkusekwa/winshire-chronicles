@@ -39,7 +39,7 @@ So she built one, and lit it, and put it on the ground. Between them. On her sid
 
 Whether a thing like that could be said without words, she had no idea. She sat by her little fire and waited.
 
-The lion came down to drink at the hour, the way it always did. It stopped at the edge of the trees on the far side of the stream and saw the fire, and stood there a long time. Its lip went back. Its head went low. She felt her whole body go cold, the way it did every time, and she made herself not move. She sat by the fire with her hands open on her knees and looked at the water.
+The lion came down to drink at the hour, the way it always did. It stopped at the edge of the trees on the far side of the stream and saw the fire, and stood there a long time. Its lip went back. Its head went low. She felt her whole body go cold, as it did every time, and she made herself not move. She sat by the fire with her hands open on her knees and looked at the water.
 
 It stood at the edge of the trees for so long that the fire burned down to a red heap and she had to put on more sticks, one at a time, her hands shaking.
 
@@ -235,7 +235,7 @@ She lay on her cot in the dormitory for two days, with her side bound, and could
 
 She thought.
 
-She lay on her back on her cot and looked at the ceiling of the dormitory, at the cracks in the old plaster, and thought about it, properly, the way Pell had taught her to think about things. From the beginning. Not what she'd wanted. What she'd done.
+She lay on her back on her cot and looked at the ceiling of the dormitory, at the cracks in the old plaster, and thought about it, properly, the way Pell had taught her to think about things. From the beginning, and about what she'd done rather than what she'd wanted.
 
 She'd stood up. She'd never stood up before, while it was there.
 

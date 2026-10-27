@@ -97,7 +97,7 @@ The drover's face didn't change at all. "Marches," he said. "Like I said."
 
 He moved along. He walked the whole quay, end to end, as you'd walk Cotter's Cross on market day, looking at everything. He made himself.
 
-It was all cages. Pens, for the big ones. Iron cages for the dangerous ones. Wire boxes, stacked three high, for the small. Down both sides of the quay and along the middle, under awnings, with men standing by them shouting prices and men walking past them looking, and the noise of the beasts going up into the grey sky over the harbour, barking and howling and bellowing and screaming, so that the gulls kept away. Between the cages a man with a tray round his neck went up and down selling charms against bite and claw, warranted, he said, with the Council's stamp, and the buyers bought them the way you'd buy a pie.
+It was all cages. Pens, for the big ones. Iron cages for the dangerous ones. Wire boxes, stacked three high, for the small. Down both sides of the quay and along the middle, under awnings, with men standing by them shouting prices and men walking past them looking, and the noise of the beasts going up into the grey sky over the harbour, barking and howling and bellowing and screaming, so that the gulls kept away. Between the cages a man with a tray round his neck went up and down selling charms against bite and claw, warranted, he said, with the Council's stamp, and the buyers bought them like pies.
 
 He saw the hounds. A dozen of them, in iron cages, thin and frightened and scarred. He saw martens going round and round in their wire. He saw the white humped ox from the evening he'd come, lying on its side in a cage too small for it, with its eyes shut and its great sides going in and out. He saw birds, hawks and falcons, hooded, on perches. He saw a cage with a sea-otter in it the size of a pony.
 
@@ -137,7 +137,7 @@ In the window of the red-and-gold building at the end of the quay, behind glass,
 
 He almost didn't see it. Everybody else was looking at the cages. But he was standing by the unicorn's pen, a few paces from the window, and the light caught it, and he looked.
 
-It was on a cushion. Dark red velvet, in a glass case on a stand in the middle of the window, all on its own. A single feather. Long, as long as his forearm. Red, going to gold at the tip, going to something brighter than gold that his eyes couldn't hold. It didn't move. There was no wind behind the glass. But it seemed to move. It seemed to be burning, very slowly, from the inside, the way a coal burns when you take it out of the fire and hold it in the dark.
+It was on a cushion. Dark red velvet, in a glass case on a stand in the middle of the window, all on its own. A single feather. Long, as long as his forearm. Red, going to gold at the tip, going to something brighter than gold that his eyes couldn't hold. It didn't move. There was no wind behind the glass. But it seemed to move. It seemed to be burning, very slowly, from the inside, as a coal burns when you take it out of the fire and hold it in the dark.
 
 There was a little card in front of the case, lettered in gold. He couldn't read it. Beside the window a woman had stopped, a fishwife with a basket, and she put out her hand and laid it flat on the glass of the window, and took it away again quickly, and laughed, and shook her fingers.
 
@@ -219,11 +219,11 @@ There was a hound on the floor beside the pot. Big, rough, brindled. Lying on it
 
 Its eyes were open. They were empty.
 
-Not dead. He could see it breathing. Slow. Very slow. But there was nothing in its eyes at all. Nothing he knew. They looked at the wall the way a window looks at the dark.
+It was alive. He could see it breathing. Slow. Very slow. But there was nothing in its eyes at all. Nothing he knew. They looked at the wall the way a window looks at the dark.
 
 There was a young man kneeling beside it. Seventeen, perhaps. Thin. In a burned-out coat like his own. With an iron ring on a cord round his neck, a little dark ring the size of a thumbnail, hanging down in the smoke. He had his hand on the hound's head, flat, between its ears, and his eyes were shut and his face was wet, and he was shaking.
 
-And standing over them both, with his back to the window, was a man in grey. A plain grey coat. Not a knight's grey; a different grey. He was speaking. Low and steady and slow, over and over, the same words, in a voice like a man saying a prayer. Calder couldn't hear the words through the shutter. Only the sound of them. Going on and on. Like the noon bell. Like a hatching-song in the caves.
+And standing over them both, with his back to the window, was a man in grey. A plain grey coat, a different grey from a knight's. He was speaking. Low and steady and slow, over and over, the same words, in a voice like a man saying a prayer. Calder couldn't hear the words through the shutter. Only the sound of them. Going on and on. Like the noon bell. Like a hatching-song in the caves.
 
 The young man's face twisted. He cried out, not loud: a small, sharp, terrible sound, like someone who's been cut.
 
@@ -261,7 +261,7 @@ He'd have them by dark.
 
 He took the bar from a chandler's yard on the fish-docks.
 
-It was the kind sailors used in the capstans of the big ships: a length of oak as long as he was tall, as thick as his wrist, shod with iron at both ends. There was a stack of them in the yard, leaning against a wall under a lean-to, and the yard had a gate that didn't shut properly, and nobody was watching. He waited till dusk and took one and walked out with it over his shoulder, the way a docker would, and nobody looked.
+It was the kind sailors used in the capstans of the big ships: a length of oak as long as he was tall, as thick as his wrist, shod with iron at both ends. There was a stack of them in the yard, leaning against a wall under a lean-to, and the yard had a gate that didn't shut properly, and nobody was watching. He waited till dusk and took one and walked out with it over his shoulder like a docker, and nobody looked.
 
 He waited in the Low Lantern till the middle of the night. He sat on the straw against the wall with the bar across his knees and his eyes shut, and the woman from Ewe Hollow slept a few feet off with her children, and he didn't think about anything. He felt the three of them. He'd sent it to them, as best he could, what he was going to do. They couldn't hear words at five leagues, only the feeling. The shape of it. *Going back. Tonight. Not coming to you. Not yet. Stay. Stay where you are.*
 
@@ -399,7 +399,7 @@ He stood there with his hand on her muzzle and Mabbin's rope in the other hand, 
 
 She went. Up, over the roofs, into the dark, north. He felt her go, the bright hum going away, getting smaller.
 
-He turned and led Mabbin off Gallows Quay at a walk, into the streets, with the bells ringing all over Wendmouth and the shutters banging and the people shouting *dragon* from the windows, and nobody looked twice at a burned-out farmer leading a thin grey dray-mare, going north, the way a thousand burned-out farmers were going north and south every day on the roads of the Marches.
+He turned and led Mabbin off Gallows Quay at a walk, into the streets, with the bells ringing all over Wendmouth and the shutters banging and the people shouting *dragon* from the windows, and nobody looked at a burned-out farmer leading a thin grey dray-mare, going north, as a thousand burned-out farmers were going north and south every day on the roads of the Marches.
 
 He'd been right about that, at least. Nobody looked at him.
 

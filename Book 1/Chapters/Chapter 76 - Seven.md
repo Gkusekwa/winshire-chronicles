@@ -36,7 +36,7 @@ All of them at once. Going taut, the way they'd gone taut before, but further. H
 
 The candle-flame on the floor beside the iron boss bent sideways and stood up again.
 
-The letters in the stone disc were brighter. Calder saw it under his own knees. The rings of them coming up white out of the grey, ring after ring, the way coals come up when you work the bellows, and not going down again.
+The letters in the stone disc were brighter. Calder saw it under his own knees. The rings of them coming up white out of the grey, ring after ring, like coals coming up when you work the bellows, and not going down again.
 
 On the edge of the disc the grey man got to his feet.
 
@@ -148,7 +148,7 @@ He felt her come. Through the bronze mark. He felt her tear free of the ironback
 
 Her forefoot closed round him in the dark.
 
-Round his whole body, the way his hand would close round an egg. Claws as long as his arm, curved over him like the bars of a cage. Holding.
+Round his whole body, as his hand would close round an egg. Claws as long as his arm, curved over him like the bars of a cage. Holding.
 
 She couldn't stop.
 
@@ -196,7 +196,7 @@ He crawled out of it onto the rubble.
 
 ---
 
-It was dark. Not black. Somewhere above, very far up, there was light: a ragged hole, orange, where the island had been, with fire still burning at the edges of it, a long way up. It didn't reach down here. It lit the dust hanging in the air above them, and the edges of things, and nothing else.
+It was dark. Somewhere above, very far up, there was light: a ragged hole, orange, where the island had been, with fire still burning at the edges of it, a long way up. It didn't reach down here. It lit the dust hanging in the air above them, and the edges of things, and nothing else.
 
 Kharrak came down the slope.
 
@@ -260,7 +260,7 @@ And going down. Ahead of him. Into a deeper dark at the bottom of the cavern, fu
 
 Something was moving down there.
 
-Not the dark moving, or water turning over. Something he couldn't see the edges of, that filled the deep dark at the bottom of the cavern, lifting, the way a hill would lift if a hill could stand up.
+Not the dark moving, or water turning over. Something he couldn't see the edges of, that filled the deep dark at the bottom of the cavern, lifting, as a hill would lift if a hill could stand up.
 
 The chains groaned.
 

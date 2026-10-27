@@ -82,7 +82,7 @@ She looked at Kesh hanging from her perch, and at the feathers on the floor, and
 
 In the third week Kesh landed on her fork.
 
-It was dawn. Haverly had been on the night watch. Maren had come into the barn with the lantern and the barrow and started at the east end, the way she always did, and Kesh had been on her perch, bating, screaming, the way she always was after a night watch. Maren didn't look at her. She'd learned not to. She mucked out the hounds, and the martens, and the fox thing that bit, and came to Kesh's perch, and started to fork out the soiled straw underneath it, with her head down, not looking up.
+It was dawn. Haverly had been on the night watch. Maren had come into the barn with the lantern and the barrow and started at the east end, the way she always did, and Kesh had been on her perch, bating, screaming, as she always was after a night watch. Maren didn't look at her. She'd learned not to. She mucked out the hounds, and the martens, and the fox thing that bit, and came to Kesh's perch, and started to fork out the soiled straw underneath it, with her head down, not looking up.
 
 Something landed on the fork handle.
 
@@ -240,7 +240,7 @@ A family. A man and a woman, and an old woman, and three children, and a handcar
 
 "Over," said the man. "Anywhere over. My wife's got a cousin at Ashford." He looked at the Hearthmere bank, at the Greyhold wall going up grey and enormous behind the landing. "They say it's safe over."
 
-Liss didn't say anything. She took their fare, which was nothing, because she didn't ask for any, and they got on. The old woman said a crossing-word as they pushed off, the Saltreach one for safe water, with her eyes shut. Liss let her. It was gone downriver before it was out of her mouth, but there was no call to tell her so.
+"Mind the step," Liss said. "Little ones in the middle, where it's dry." She took their fare, which was nothing, because she didn't ask for any, and they got on. The old woman said a crossing-word as they pushed off, the Saltreach one for safe water, with her eyes shut. Liss let her. It was gone downriver before it was out of her mouth, but there was no call to tell her so.
 
 The children had never seen a ferry. They stood at the rail all the way across, three of them, with their hands on the wet wood, staring at the water and the guide rope hissing through the rings and the green bank coming up, and the smallest one, a girl of about five with a burned hem on her dress and a cut on her cheek, said, in a high clear voice, to nobody, "Is it the sea?"
 
@@ -262,7 +262,7 @@ The girl thought about that.
 
 At the Greyhold landing they helped the family off, and the handcart, and the goat, and watched them go up the steps past the red door of the ferry-house, the old woman leaning on the man's arm, toward the road that went west to Ashford and the cousin who might or might not take them in. Up on the wall above the landing, on the gate, a knight in grey stood his watch, with his spear, alone, as the rule said. Bonded or not, she couldn't tell from here. Equal, on the gate. He watched them go.
 
-"There'll be more," said Liss, beside her. Quietly. "Every week, now. More and more." She looked across the river at the Saltreach bank, at the thin smokes going up here and there from the hills behind it. "And they'll all think it's safe over."
+"There'll be more," said Liss, beside her, already coiling the stern line. "Every week, now. More and more." She looked across the river at the Saltreach bank, at the thin smokes going up here and there from the hills behind it. "And they'll all think it's safe over."
 
 "Isn't it?"
 

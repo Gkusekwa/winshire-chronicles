@@ -319,13 +319,13 @@ She reached out and picked up the island length. She turned it over in her hands
 
 "It's the same mark."
 
-"Lots of people could stamp six dots on a bit of iron." She got up. She went to the hearth and took a handful of cold ash from the edge of it, and came back, and sat down, and took the island chain in her lap and began to scrub it. With the ash and her thumb, hard, the way she'd scrub a black pot. Calder watched her do it. She didn't speak. She scrubbed the last link of the island chain, the one at the end, until the rust came off grey in the ash and the iron underneath came up dark and dull.
+"Lots of people could stamp six dots on a bit of iron." She got up. She went to the hearth and took a handful of cold ash from the edge of it, and came back, and sat down, and took the island chain in her lap and began to scrub it. With the ash and her thumb, hard, as she'd scrub a black pot. Calder watched her do it. She didn't speak. She scrubbed the last link of the island chain, the one at the end, until the rust came off grey in the ash and the iron underneath came up dark and dull.
 
 She stopped.
 
 She turned the link toward the lamp.
 
-On the inside of it, where the iron curved, where you'd never see it unless you were looking, there was a second mark. Very small. Under the ring of six. Struck with a punch, the way a smith strikes his own sign on his own work.
+On the inside of it, where the iron curved, where you'd never see it unless you were looking, there was a second mark. Very small. Under the ring of six. Struck with a punch, as a smith strikes his own sign on his own work.
 
 A hammer. Two hammers. Crossed.
 

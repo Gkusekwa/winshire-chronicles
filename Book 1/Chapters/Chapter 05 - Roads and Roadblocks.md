@@ -40,7 +40,7 @@ They rode out of the gate in two lines with Haverly at the front, his falcon on 
 
 "Someone has to be."
 
-"Someone has to clean the privies, too. Doesn't mean it's an honour." He was riding a bay that was nearly as bad as Turnip and sitting it worse. "You know why they put the unbonded at the back? So if there's an ambush, they don't lose anyone important."
+"Someone cleans the privies too. Doesn't make it an honour." He was riding a bay that was nearly as bad as Turnip and sitting it worse. "You know why they put us at the back? Ambush. Lose the back, you've lost nobody."
 
 "They put me at the back," Maren said, "because I can see the whole line from here, and I'll notice if something goes wrong before Haverly does. Pell told me yesterday."
 
@@ -52,7 +52,7 @@ Tobin laughed despite himself. The Darrow girl smiled down at her hound and said
 
 ---
 
-Turnip stopped dead twice before Redwatch. The second time Maren leaned down and blew in his ear, the way Ottery did with the boat ponies, and he walked on, which might have been the breath and might have been that he'd finished thinking.
+Turnip stopped dead twice before Redwatch. The second time Maren leaned down and blew in his ear, as Ottery did with the boat ponies, and he walked on, which might have been the breath and might have been that he'd finished thinking.
 
 At Redwatch she asked Pell for leave to water the horses, and Pell looked at her for a moment as if he knew precisely what she wanted, and gave it.
 
@@ -180,7 +180,7 @@ The drovers were Saltreach men, by their voices, bringing the sheep across to th
 
 "Brother and sons." The drover spat. "Haldor had a brother, Ulric, who's the best fighter in the Clan and knows it, and has the most men in his hall, and has wanted his brother's chair since they were both in skirts. And Haldor had two sons, the elder who's proud as a cockerel and the younger who's well liked, and the elder can't stand the brother and the brother can't stand the elder and neither of them can stand the younger for being liked. You mark me. They'll be at each other's throats before the barley's in."
 
-"And the masked men? At Upper Rush?"
+"Masked men," said Tobin. "Upper Rush. Who were they?"
 
 The drover gave him a long look. "Nobody over our side knows who they are. Some say Clan. Some say not." He nodded at the roadblock. "Some say them."
 
@@ -196,13 +196,13 @@ The drover gave him a long look. "Nobody over our side knows who they are. Some 
 
 "So it is."
 
-"He couldn't be in both."
+"Can't be in both, then."
 
 "No," said the old drover comfortably. "Couldn't, could he." He looked over at the roadblock, at the square man and the tall thin one by the shrine, and then up at the sky. "Unless he's not a man. That's what they're saying on the docks. That he's got a beast's gift, or the old magic, or he's one of the old ones come back. That he can be in two places at once." He shrugged. "I don't believe it. I'm just telling you what they say."
 
 Maren looked away from him, at the bend, and found the tall thin man by the shrine looking straight back at her.
 
-He'd been looking for a while, she thought. He had a still, patient face, neither young nor old. When she met his eye he didn't look away, the way most people did with a knight, or near-knight. He nodded to her, very slightly, the way you nod to someone you know.
+He'd been looking for a while, she thought. He had a still, patient face, neither young nor old. When she met his eye he didn't look away, as most people did with a knight, or near-knight. He nodded to her, very slightly, as if they'd met before.
 
 Then he looked at Turnip, with his dried turnip knocking on his bridle, and at her plain practice sword, and at the place at her shoulder where a bonded student would have a beast and she had nothing, and then back at her face. He didn't smile. It said: *I know where they put you. I know why.*
 
@@ -222,7 +222,7 @@ He didn't say anything for a while.
 
 They rode to Northwatch. The roadblock men moved the cart aside for them, politely, and stood back to let them pass in two lines, and the square man touched his forehead to Pell as he went by. Maren came last. The tall thin man was standing beside the shrine with his arms folded. As Turnip came level with him, he spoke, not loudly, so that only she could hear.
 
-"They'll never give you a horse worth riding, you know," he said. "Not if you live to be a hundred. Not if you put every one of them on his back."
+"They'll never give you a horse worth riding, you know," he said. "Not if you put every one of them on his back."
 
 She didn't answer. She didn't look at him. She looked straight ahead, between Turnip's ears, at the road, and rode on round the bend, and only when she was sure she was out of sight did she let out her breath.
 

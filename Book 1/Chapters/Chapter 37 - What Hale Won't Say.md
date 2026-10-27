@@ -88,7 +88,7 @@ She sat.
 
 He poured from the jar into the cup, slowly, carefully, as you pour when you've had enough that you have to think about it. It was the brown spirit they made in the south of Hearthmere from apples. She could smell it across the table. He pushed the cup toward her. She shook her head. He took it back and drank from it himself.
 
-He wasn't drunk. Not the way the river was drunk, on fair nights at the Kettle, falling down in the road. He'd never be that. But something in him had come loose. Something that was always held, very tight, like a rope on a cleat, had been let out a little. She could see it in his face. In the way he sat. In the way his big hands lay on the table.
+He wasn't drunk, or not as the river got drunk on fair nights at the Kettle, falling down in the road. He'd never be that. But something in him had come loose. Something that was always held, very tight, like a rope on a cleat, had been let out a little. She could see it in his face. In the way he sat. In the way his big hands lay on the table.
 
 "Merrow swore me in," he said.
 
@@ -262,7 +262,7 @@ She thought about Hale's face. About the black door at the end of the archive, a
 
 *What's it keeping it from?*
 
-When she got up at last to go, stiff, frozen, with her hands numb, the lion got up too. She heard it behind her. She didn't turn round. She walked back across the road, and through the west gate, and down the stream toward the river, and it came after her. Not close. Ten paces back. Then twenty. Through the trees, in the dark, with the cut chain dragging softly on the frozen leaves.
+When she got up at last to go, stiff, frozen, with her hands numb, the lion got up too. She heard it behind her. She didn't turn round. She walked back across the road, and through the west gate, and down the stream toward the river, and it came after her, ten paces back. Then twenty. Through the trees, in the dark, with the cut chain dragging softly on the frozen leaves.
 
 At the edge of the trees above the reeds, where Ottery sat in the punt with his pipe, it stopped.
 

@@ -39,7 +39,7 @@ The pyre was cold. They'd raked it and swept it and carried the last of it up th
 
 The second thing he noticed was that some of the men round the east fire weren't Clan.
 
-It wasn't anything you could point to, at first. They wore grey armbands like everyone else. They stood like everyone else. But there was something about them, about the way they stood, that made him look twice. He'd seen it before. At the Ram's Head, at the long table under the window. At the hiring yard in Cotter's Cross. Men who'd been fed by too many different hands.
+It wasn't anything you could point to, at first. They wore grey armbands like everyone else. They stood like everyone else. But there was something about them, about the way they stood, that made him look again. He'd seen it before. At the Ram's Head, at the long table under the window. At the hiring yard in Cotter's Cross. Men who'd been fed by too many different hands.
 
 "Hired hands," said the steward sourly, when Calder asked, counting sacks. "Ulric's taking them on. Says the hold needs more men for the winter. Says the old chief let the walls go, and he's mending them." He wrote down a number. "Twenty-two since the funeral. Twenty-two. Eating like wolves."
 
@@ -155,7 +155,7 @@ And a man was sitting on a bucket by the stable door, three paces away, mending 
 
 The same man. The same halter. As if he hadn't moved all afternoon.
 
-Rook looked up as they passed and nodded to Teo, pleasant, the way a hired hand nods to a chief's son. Teo nodded back without really seeing him, still talking. And Calder, walking behind, looked down at the man on the bucket the way he looked at everything, without meaning to.
+Rook looked up as they passed and nodded to Teo, pleasant, a hired hand's nod to a chief's son. Teo nodded back without really seeing him, still talking. And Calder, walking behind, looked down at the man on the bucket the way he looked at everything, without meaning to.
 
 Rook had a knife on his belt. An ordinary knife, in an ordinary sheath, the kind every man in the Scarfell carried. But the pommel was bare, and the light from the stable door was on it, and there was a mark cut into the end of it, small and neat, the way a smith marks his work.
 

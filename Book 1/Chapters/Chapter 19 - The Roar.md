@@ -100,7 +100,7 @@ It wasn't. This was. It came out of the lion and went into her like a wall falli
 
 She didn't run.
 
-She stood in it. She stood on the grass in the starlight with her boots in the earth and her sword in her hand and the roar going through her, and she didn't put her hands over her ears and she didn't go down on her knees, though her knees wanted to go so badly they shook. She stood. She didn't know why. Something in her said: *if you go down now, you'll never get up.*
+She stood in it. She stood on the grass in the starlight with her boots in the earth and her sword in her hand and the roar going through her, and she didn't put her hands over her ears and she didn't go down on her knees, though her knees wanted to go so badly they shook. She stood. Something in her said: *if you go down now, you'll never get up.*
 
 Under her boots, the shore moved, a little. A shiver, a settling, as a riverbank settles in spring when the water goes down, but she saw it. Pebbles at the water's edge hopped and rattled like dried peas in a pan. Dust lifted off the tumbled stones of the old bridge in a fine grey breath. And a crack ran across the flat top of the nearest block, from one side to the other, slow and clean, as if someone had drawn it with a nail.
 
@@ -218,7 +218,7 @@ It turned, and went away along the shore, south, toward the spit. Slowly. On thr
 
 She lay on the pier and the night went on.
 
-She didn't sleep. She was too cold to sleep, and her arm was too bad. She got her belt off, after a while, one-handed, with her teeth, and got it round the top of her arm above the cuts and pulled it tight, the way they taught on the river watch, and the bleeding slowed. She thought of the staunching-word the surgeon said over cut knees, and didn't bother. She had no licence for it, and out here, with the river going by on both sides, it would only have gone downriver. She lay with her cheek on the wet stone and looked at the glow over the trees, which was going down now, red and then dull and then only a smudge on the sky, and thought about nothing.
+She didn't sleep. She was too cold to sleep, and her arm was too bad. She got her belt off, after a while, one-handed, with her teeth, and got it round the top of her arm above the cuts and pulled it tight, as they taught on the river watch, and the bleeding slowed. She thought of the staunching-word the surgeon said over cut knees, and didn't bother. She had no licence for it, and out here, with the river going by on both sides, it would only have gone downriver. She lay with her cheek on the wet stone and looked at the glow over the trees, which was going down now, red and then dull and then only a smudge on the sky, and thought about nothing.
 
 Some time toward dawn, she thought: *the sword.*
 

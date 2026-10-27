@@ -28,7 +28,7 @@ He woke because Wren was shaking him.
 
 "Da. Da. *Da.* There's horses."
 
-He was out of bed and at the window before he was properly awake. It was black outside, no moon, and the stars very sharp, the way they are in harvest month when the frost is coming. Down the hill, at the bottom of the lane, the mill had lights in it. Lanterns, a lot of them, moving. Carts, three of them, drawn up on the mill yard, with men loading. He could hear them from the house, the creak of the axles and the thump of sacks going up.
+He was out of bed and at the window before he was properly awake. It was black outside, no moon, and the stars very sharp, as they are in harvest month when the frost is coming. Down the hill, at the bottom of the lane, the mill had lights in it. Lanterns, a lot of them, moving. Carts, three of them, drawn up on the mill yard, with men loading. He could hear them from the house, the creak of the axles and the thump of sacks going up.
 
 "It's Hob's flour," he said. "Ulric's carts. They've come at night." He'd heard Hob say they might. *Better they come in the dark,* Hob had said at the Wheel, *and nobody sees, and nobody tells Arn.* "It's all right, chick. Go back to bed."
 
@@ -248,7 +248,7 @@ And she came.
 
 He heard her come. Dragging. Crying. Through the stubble, up the slope, toward the only voice she could hear. He couldn't turn his head to see. He felt her arrive: a weight against his legs, a hot frantic face pushing in under his arm, against his side, against the broken ribs, so that the stake went into him again and he cried out. Something touched his hand, his wrist, a long thin muzzle, trembling, and he turned his hand over, and held it.
 
-This one was fast. This one was so fast it was like falling through ice. Cold, sudden, everywhere at once. He was lying on a green dragon's back in the stubble with something stuck in his throat, and it was cold, it was so cold, and it didn't hurt, that was the strange thing, it didn't hurt at all. It was just cold. He thought, quite clearly, the way you think the last thing before you sleep: *Teo.* Just that. Not frightened. Almost glad. *Teo. Wait for me.*
+This one was fast. This one was so fast it was like falling through ice. Cold, sudden, everywhere at once. He was lying on a green dragon's back in the stubble with something stuck in his throat, and it was cold, it was so cold, and it didn't hurt, that was the strange thing, it didn't hurt at all. It was just cold. He thought, quite clearly: *Teo.* Just that. He was almost glad. *Teo. Wait for me.*
 
 And then nothing.
 

@@ -95,7 +95,7 @@ Teo's knife was in its sheath on his belt. The good knife, the one with the houn
 
 His sword was on his saddle, on the bay, on the far bank. He hadn't drawn that either.
 
-The wounds were from close in. Not an arrow, not a spear from the bank. A blade. Someone had come right up to him, close enough to touch, close enough to talk to, and he hadn't drawn his knife, because he hadn't thought he needed to.
+The wounds were from close in, made by a blade, and not by an arrow or a spear from the bank. Someone had come right up to him, close enough to touch, close enough to talk to, and he hadn't drawn his knife, because he hadn't thought he needed to.
 
 *Someone he let come close.*
 

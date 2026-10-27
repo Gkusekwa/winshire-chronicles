@@ -168,7 +168,7 @@ He lifted his hand.
 
 "One again," said Absalom Reede.
 
-And the ice answered him. Not all of it. A great deal of it. The young men with the rings and the girls with the rings and the refugees at the edges and the baker and the fiddler, and an old woman by the steps with her hand still at her mouth. *One again.* It went out over the frozen channel and back off the mill wall like a wave off a cliff.
+And the ice answered him. A great deal of it did. The young men with the rings and the girls with the rings and the refugees at the edges and the baker and the fiddler, and an old woman by the steps with her hand still at her mouth. *One again.* It went out over the frozen channel and back off the mill wall like a wave off a cliff.
 
 Maren stood holding the horses with her mouth shut.
 
@@ -182,7 +182,7 @@ Two of the knights of the gate went after him. Their hounds went with them.
 
 And the crowd closed.
 
-It didn't attack, not at first. It closed, the way water closes. Seven hundred people on the ice, and the ones nearest the steps moved, a few paces, all together, until they were between Callis and the mill. Standing. Shoulder to shoulder. Young men with rings. Millbrook farmers. A woman with a baby.
+It didn't attack, not at first. It closed, like water. Seven hundred people on the ice, and the ones nearest the steps moved, a few paces, all together, until they were between Callis and the mill. Standing. Shoulder to shoulder. Young men with rings. Millbrook farmers. A woman with a baby.
 
 Callis's horse slowed on the ice. Stopped. He sat there in front of the wall of people, with his hand still up, and his face going red.
 

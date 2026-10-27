@@ -28,7 +28,7 @@ The summons came at breakfast, on a folded square of good paper, sealed, in a ne
 
 Tobin read it over her shoulder and whistled. Across the table Haverly had one just like it, folded the same, and was looking at it with the pleased, nervous face of someone who's been waiting for something all year and has suddenly got it.
 
-"Trials," said Tobin. "Both of you. On the same day."
+"Trials," said Tobin. "Both of you. Same day."
 
 "They always set them in pairs," said Haverly. "To see who comes back first." He looked across at Maren, and for once there was nothing in his face but honest curiosity. "Where do you think they'll send you?"
 

@@ -46,7 +46,7 @@ She could do it one-handed. Badly, at first. The fork was heavy and the barrow w
 
 Nobody helped her. That was the rule, Grieve said. You didn't help someone being punished. So she did it alone, before the bell, by one lantern on a hook. East end to west, stall by stall, fork and barrow, out the west door and round the back of the barn to the midden against the old wall, and tip it, and back. Thirty-one stalls. Then the yard. Then the troughs. By the bell her shirt was soaked through and she stank, and she went to drill stinking, and stood at the back of a year that wasn't hers any more, and nobody stood next to her.
 
-She heard them, of course. In the yard, in the refectory, on the stair. Not to her face. Near her, so she'd hear.
+She heard them, of course. In the yard, in the refectory, on the stair. Never to her face. Near her, so she'd hear.
 
 *The lion girl.*
 

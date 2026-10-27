@@ -182,7 +182,7 @@ Gannet smiled again. It wasn't the same smile.
 
 "No," he said softly. "There isn't, is there. Not on this side." He turned away. "Lads. We're leaving. Fair's not as good as it used to be."
 
-They went back down the jetty. They cast off. The three long boats slid out into the stream and turned downriver, the oars coming out all together like legs on a beetle. As the last boat came past the end of the jetty, Gannet stood up in the stern, balancing easily, and called back across the water, not loud, but in a voice that carried the way river voices do.
+They went back down the jetty. They cast off. The three long boats slid out into the stream and turned downriver, the oars coming out all together like legs on a beetle. As the last boat came past the end of the jetty, Gannet stood up in the stern, balancing easily, and called back across the water, not loud, but in a river voice, the kind that carries.
 
 "You'll be sorry for that, mistress knight. Not today. But you will. You've cost honest men their living, and there's people across the river who'll want to hear about it." He touched his forehead, mocking. "We'll take it across the river. You'll see."
 

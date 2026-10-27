@@ -20,11 +20,11 @@ It is the coldest water in the Six Kingdoms, the Clan says. It doesn't freeze. I
 
 Nobody in Harrow's End wanted to carry the mourning cloth.
 
-The cloth was a fine thing. Ada had woven it in the eleven nights since the pyre was lit, grey wool with a border of black, and the village women had each put in a thread of their own, the way you were supposed to for a chief. The trouble was the going. Two days up into the Scarfell to stand on the shore of Coldtarn with the whole Clan, in the cold, at the new moon, while the dead man's brother and the dead man's son glared at each other over the urn. Everybody in the village had heard about the two fires at Varrhold by now. Everybody had heard about the bard. Nobody wanted to be standing anywhere near it if it went wrong.
+The cloth was a fine thing. Ada had woven it in the eleven nights since the pyre was lit, grey wool with a border of black, and the village women had each put in a thread of their own, as you were supposed to for a chief. The trouble was the going. Two days up into the Scarfell to stand on the shore of Coldtarn with the whole Clan, in the cold, at the new moon, while the dead man's brother and the dead man's son glared at each other over the urn. Everybody in the village had heard about the two fires at Varrhold by now. Everybody had heard about the bard. Nobody wanted to be standing anywhere near it if it went wrong.
 
 "Hob should go," said old Garrow, at the meeting in the mill. "He's the miller. He's the most important man in the village."
 
-"I've the mill to run," said Hob. "Garrow should go. He's the oldest."
+"I've the mill to run," said Hob. "A day off the stones is a day's flour lost. Garrow should go. He's the oldest."
 
 "My knees won't do the Scarfell. Not at this time of year."
 

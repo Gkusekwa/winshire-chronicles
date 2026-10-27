@@ -100,7 +100,7 @@ When she stopped there was nothing but the wind in the bare oaks, and the ice ti
 
 She got up. She picked up the lantern.
 
-The lion lifted its head off the threshold. It looked past her. Not at her. Over her shoulder, south and west, across the river, toward Greyhold.
+The lion lifted its head off the threshold. It looked past her, over her shoulder, south and west, across the river, toward Greyhold.
 
 It looked at Greyhold, and went on looking.
 
@@ -269,5 +269,3 @@ She went to the dormitory. She lay down on her cot in the dark, in her clothes, 
 Maren lay on her back with her warm hand flat on her chest.
 
 Under the cot, in her chest, wrapped in a shirt with the hammer and the chisel and Tobin's sword, was a dragon's scale the size of a round shield. She'd heard three dragons answer across the river. Upstream. From the hills above Harrow's End. Where the man in the Marches boots had walked home across the ice.
-
-She lay awake until the bell, with her hand on her chest, and in the morning it was still warm.

@@ -207,7 +207,7 @@ It was warm. Warm and wet and coarse, coarse as a horse's tail, thick, so thick 
 
 Under that, through it, faint, the hum.
 
-The ground's hum. The thing she'd felt through her boots on the island all winter, and through the stones of the archive, and through the black door. It was in the lion. It came up through its body into her hand as it had come up through the oak of the door. Not the same. The door had been something vast turning its attention, cold and far and terrible. This was close. This was warm. This was a beast lying in the rain with its head on a step, with the earth moving in it the way blood moves.
+The ground's hum. The thing she'd felt through her boots on the island all winter, and through the stones of the archive, and through the black door. It was in the lion. It came up through its body into her hand as it had come up through the oak of the door. Not the same. The door had been something vast turning its attention, cold and far and terrible. This was close. This was warm. This was a beast lying in the rain with its head on a step, with the earth moving in it like blood.
 
 Nothing else came. No voice. No thread. Nothing like Haverly and Kesh, or her father and his hound. It didn't speak to her. She'd never hear it. There was nothing between them but her hand in its mane and the hum coming up through her palm.
 
@@ -259,7 +259,7 @@ It got up. It came across the ten paces and stood over her. She knelt in the mud
 
 It looked at her. Then it lowered its head.
 
-It lowered its whole great head and neck, down, the way a horse puts its head down to be haltered, until its jaw was lying on the mud beside her knee, and its neck was stretched out along the ground in front of her, and the collar was there. The pin. A hand's breadth from her hands.
+It lowered its whole great head and neck, down, as a horse puts its head down to be haltered, until its jaw was lying on the mud beside her knee, and its neck was stretched out along the ground in front of her, and the collar was there. The pin. A hand's breadth from her hands.
 
 She picked up the chisel.
 

@@ -79,7 +79,7 @@ The ferry was coming across from it on the rope.
 
 ---
 
-He'd known Liss Ashdown for twenty years, the way you know the ferrywoman. He'd bought from her factors and sold to them, and stood on this jetty while she brought the boat in, and nodded, and she'd nodded back, and once or twice she'd said *Fenn,* and he'd said *Mistress Ashdown,* and that was all.
+He'd known Liss Ashdown for twenty years, as you know the ferrywoman. He'd bought from her factors and sold to them, and stood on this jetty while she brought the boat in, and nodded, and she'd nodded back, and now and then she'd said *Fenn,* and he'd said *Mistress Ashdown,* and that was all.
 
 She brought the ferry in to the timber jetty and made it fast and stood up in the stern and looked at the people waiting. A broad strong woman with a weathered face and grey hair bound up in a scarf, in a man's coat with the sleeves turned back. She looked at the families with their bundles. At the man with the goats. At Bel and the handcart and the children. At the three greys.
 

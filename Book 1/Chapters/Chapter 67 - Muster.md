@@ -210,7 +210,7 @@ Then it made a sound.
 
 She'd heard it roar. On the shore, the first night. Across the river, through the stone of the archive, the night her hand was on the door. She'd heard it growl, and breathe, and once, in the arch on the night the river went out, sigh like a dog. She'd never heard this.
 
-It was low. Very low, and long, and it went up at the end and broke. Not a roar. It went out from the top of Hollin Knowe over the dark fields toward the river and the island and the fires and didn't come back.
+It was low. Very low, and long, and it went up at the end and broke. It went out from the top of Hollin Knowe over the dark fields toward the river and the island and the fires and didn't come back.
 
 She'd heard a sound like it once before. In the infirmary at Greyhold, on the third night, from Ide Darrow, in the dark, asking for Bracken.
 

@@ -178,7 +178,7 @@ And at the bottom of the pit, in the grey fill, the lion was digging.
 
 She stood at the top of the bank in the dusk and watched it.
 
-It dug the way a dog digs, with its forefeet, one and then the other, throwing the earth back under its belly in great sprays. But it stood ten feet at the shoulder, and its forefeet were each as broad as a round shield, and every stroke tore out more earth than she could have shifted in an hour with a spade. The ground answered it. She felt it. Each time a forefoot went in, the ground round the pit shook, and the frozen banks shed little falls of earth, and the hum came up through her boots stronger. The earth was helping it. Moving for it. Loosening ahead of its claws like snow on a roof before it slides.
+It dug like a dog, with its forefeet, one and then the other, throwing the earth back under its belly in great sprays. But it stood ten feet at the shoulder, and its forefeet were each as broad as a round shield, and every stroke tore out more earth than she could have shifted in an hour with a spade. The ground answered it. She felt it. Each time a forefoot went in, the ground round the pit shook, and the frozen banks shed little falls of earth, and the hum came up through her boots stronger. The earth was helping it. Moving for it. Loosening ahead of its claws like snow on a roof before it slides.
 
 It didn't look up. It didn't know she was there, or it didn't care. It dug.
 
@@ -330,4 +330,4 @@ She looked at the far hills, where the last of the fire was going out on the sno
 
 She thought of the hillside at the mouth of the Ewe Beck burning, two nights ago. Somebody had answered that.
 
-She looked down at the island, dark in the middle of the white ice, between the two banks. At the north end of it, among the oaks, where she couldn't see it, there was a pit with old stone at the bottom. She thought she could hear it. She couldn't. It was half a league off, across the ice. But she stood on the top of the Redwatch tower with her hands on the frozen parapet and thought she could hear claws on stone, one and then the other, all night, in the dark.
+She looked down at the island, dark in the middle of the white ice, between the two banks. At the north end of it, among the oaks, where she couldn't see it, there was a pit with old stone at the bottom. She thought she could hear it. She couldn't. It was half a league off, across the ice. But she stood on the top of the Redwatch tower with her hands on the frozen parapet and thought she could hear claws on stone. One, and then the other.

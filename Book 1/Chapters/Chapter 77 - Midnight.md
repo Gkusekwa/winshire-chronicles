@@ -175,7 +175,7 @@ He looked down at the candle, and back up.
 
 "My father stood at the back of that line for thirty years," he said. "A knight of the gate. Hearthmere born. Nothing ever came down out of the sky to his fist. He said the words at noon every day of his life with his face to that wall, and when he died they buried him outside it, with the grooms." Something nearly a smile. "Corvin and I stood at the back with him, when we were small. Two boys with one face. Nobody looked at us twice either."
 
-His voice rose. "We're letting it go. That's all. We're letting it go."
+His voice rose. "We're letting it go, Maren. That's all. Help me let it go."
 
 "Into a collar."
 
@@ -249,7 +249,7 @@ She felt it. Through Orrun. Through the rock under the river. Far off, east, und
 
 *Gone.*
 
-Below the ledge, outside the passage, in the dark, the six chains made a sound she'd never heard iron make. Not a groan. A note. High, and rising, and rising, like a rope just before it parts.
+Below the ledge, outside the passage, in the dark, the six chains made a sound she'd never heard iron make. A note. High, and rising, and rising, like a rope just before it parts.
 
 ---
 
@@ -263,7 +263,7 @@ The seal was open.
 
 He could touch it.
 
-He reached, the way you'd put your hand out in the dark to a face you've known all your life. Down. Through the open seal. Under the river. Into the dark at the bottom of the six chains, where the thing that had been sleeping was awake now, all the way, for the first time in three hundred years.
+He reached, as you'd put your hand out in the dark to a face you've known all your life. Down. Through the open seal. Under the river. Into the dark at the bottom of the six chains, where the thing that had been sleeping was awake now, all the way, for the first time in three hundred years.
 
 It was there.
 

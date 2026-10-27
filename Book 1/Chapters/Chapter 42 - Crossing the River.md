@@ -233,7 +233,7 @@ All three at once. As if they'd heard it too, through him. Lisska stopped breath
 
 He stood on the path in the dark under the oaks with the breathing ahead of him, slow and deep.
 
-He backed away. One step. Two. Not turning round. The way you'd back away from a bull in a field. A dozen steps. More. Round the bend. Then he turned and walked back along the wide path, not running, not looking behind him, all the way to the stream and the shore and the warm ashes.
+He backed away. One step. Two. Not turning round, as you'd back away from a bull in a field. A dozen steps. More. Round the bend. Then he turned and walked back along the wide path, not running, not looking behind him, all the way to the stream and the shore and the warm ashes.
 
 The breathing didn't follow him. He'd have heard.
 

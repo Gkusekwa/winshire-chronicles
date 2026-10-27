@@ -30,7 +30,7 @@ She'd felt it move for him on the stair under the school, and along the old ston
 
 He walked up into it.
 
-He put his head down, and his shoulder, and walked at the wall of the cavern at the foot of the rubble slope, and the wall wasn't there. It opened in front of him, the way water opens round your arms when you swim, and closing again a little way behind. A passage, going up. Round, and rough, and just big enough, and getting longer as he walked, and the rock on every side of it humming with him.
+He put his head down, and his shoulder, and walked at the wall of the cavern at the foot of the rubble slope, and the wall wasn't there. It opened in front of him, as water opens round your arms when you swim, and closing again a little way behind. A passage, going up. Round, and rough, and just big enough, and getting longer as he walked, and the rock on every side of it humming with him.
 
 *Up,* said Orrun. *Toward the water. Not into it. Beside it.*
 
@@ -346,7 +346,7 @@ She looked north-east, at the empty sky over the Scarfell, gold with the sunrise
 
 Not *below.* Not *and do not ask.* Just that. Out loud. To Orrun, and the farmer, and the three dragons, and the river.
 
-The farmer looked at her. Then he looked north-east too, where the speck had gone, and nodded, once, the way a man nods when something's been decided that he didn't decide, and finds he agrees with it.
+The farmer looked at her. Then he looked north-east too, where the speck had gone, and nodded, once, as a man nods when something's been decided that he didn't decide, and finds he agrees with it.
 
 The lion lay down in the reeds beside her, facing north-east, with his head up.
 

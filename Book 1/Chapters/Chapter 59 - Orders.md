@@ -57,7 +57,7 @@ She climbed the north tower stair behind him. Past the second floor. Up the last
 
 "Come."
 
-Rowan was at her table this time. Not the window. Sitting, with her hands folded on the table in front of her and a paper under them. By the fire, in the chair where Maren had never seen anybody sit, Captain Thorne. Square and grey-haired, in her riding coat, with a ledger open on her knee. She looked up when Maren came in, and down again.
+Rowan was at her table this time, sitting, with her hands folded on the table in front of her and a paper under them. By the fire, in the chair where Maren had never seen anybody sit, Captain Thorne. Square and grey-haired, in her riding coat, with a ledger open on her knee. She looked up when Maren came in, and down again.
 
 "Shut the door, Ashdown," said Rowan.
 
@@ -151,7 +151,7 @@ Maren was quiet for a while.
 
 "Why?" she said at last.
 
-"Because if we don't take it, they will." Rowan's voice didn't change. "The Restoration. You've heard what's on the road at the Ram's Head. Pell's seen the glow from the tower. Five thousand men, by the count that's come to us. And a quarter-mile of beast lines." She looked at Maren. "You've seen what they do to beasts, Ashdown. You saw it on the Redwatch landing. The hounds that came on with bolts in them. The ones with the eyes. You sat with Ide Darrow for three nights." She waited, and when Maren said nothing, went on. "Think what that would be. A beast like that one. Ten feet at the shoulder and growing, with the ground moving for it. Bound. With some man's hand on its neck and nothing in its eyes. At the head of five thousand men. At our wall."
+"Because if we don't take it, they will." Rowan's voice didn't change. "The Restoration. You've heard what's on the road at the Ram's Head. Pell's seen the glow from the tower. Five thousand men, by the count that's come to us. And a quarter-mile of beast lines." She looked at Maren. "You've seen what they do to beasts, Ashdown. You saw it on the Redwatch landing. The hounds that came on with bolts in them. The ones with the eyes. You sat with Ide Darrow for three nights." She waited, and when Maren didn't answer, went on. "Think what that would be. A beast like that one. Ten feet at the shoulder and growing, with the ground moving for it. Bound. With some man's hand on its neck and nothing in its eyes. At the head of five thousand men. At our wall."
 
 Maren thought of it. She couldn't stop herself.
 

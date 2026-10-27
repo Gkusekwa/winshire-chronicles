@@ -272,7 +272,7 @@ The tall man stood under the arch a while longer.
 
 He turned his head, and looked up. At the verse. At the six lines of old letters over the doorway, worn and lichened. He looked at them a long while. Reading them, Calder thought. He could read them.
 
-He wasn't the only one. A little behind him stood a small grey man in a long brown gown gone ragged at the hem, like a chapel-man's, with his head tipped back and his lips moving. The men round the arch left a space round him, the way men leave a space round a dog they don't know.
+He wasn't the only one. A little behind him stood a small grey man in a long brown gown gone ragged at the hem, like a chapel-man's, with his head tipped back and his lips moving. The men round the arch left a space round him, as men leave a space round a dog they don't know.
 
 He looked down. At the threshold of the arch. At the long smooth hollow worn in the stone, where something huge had lain longer than anyone could say.
 

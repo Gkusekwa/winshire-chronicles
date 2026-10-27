@@ -146,7 +146,7 @@ He hadn't thought about it. Nobody had. On the eleventh day he woke in the dark 
 
 *Hungry,* said Kharrak.
 
-He said it the way he said everything, short and hard, like a door slammed. But under it, through the mark, Calder felt something else. Not just hunger. As a sick beast is hungry. The body asking for something to mend itself with.
+He said it the way he said everything, short and hard, like a door slammed. But under it, through the mark, Calder felt something else: hunger, but as a sick beast is hungry. The body asking for something to mend itself with.
 
 *We have not eaten,* said Aurveth, *since the morning before the battle, and we have burned more than we had in us since then, and the bond has taken something too, I think. More than one would expect. We are mending, all three of us, faster than I have ever mended. I can feel my back drawing closed. But it is drawing on something to do it. And there is nothing in us left to draw on.*
 
@@ -290,7 +290,7 @@ Nobody said anything for a while.
 
 "Then somewhere it's not us."
 
-Calder looked at them. At their faces, frightened and stubborn and sorry and tired. He felt the three dragons behind him, through the marks, all three of them watching, listening. Not to the words. To him. To what he was feeling.
+Calder looked at them. At their faces, frightened and stubborn and sorry and tired. He felt the three dragons behind him, through the marks, all three of them watching, listening to him more than to the words. To what he was feeling.
 
 He was feeling a great deal.
 
@@ -340,7 +340,7 @@ Ada came out to the field that night.
 
 She'd never come into it. Not since the morning she'd knelt in the stubble and bound his ribs. She'd brought him food at the door, and stood in the yard, and watched the dragons from the kitchen window with her arms folded. But that night, after Wren was asleep, she came out with a lantern and her shawl round her, up the slope through the burned stubble, past Kharrak in his furrow, and stopped at the edge of the light where Calder was sitting with his back against Aurveth's foreleg, and looked at him.
 
-She sat down on the ground beside him, the way old women sit down, one hand on the ground, and put the lantern between them.
+She sat down on the ground beside him, as old women sit down, one hand on the ground, and put the lantern between them.
 
 Neither of them said anything.
 
@@ -432,7 +432,7 @@ Calder looked at the island.
 
 *Who is it?* said Lisska. She was over the Fellwood. She'd heard him hear it, the way she heard everything now. *On the island? Who's that? Can I go and look?*
 
-"No," said Calder, aloud, and Fisk glanced at him, and away again, carefully, the way everyone did now when he talked to the air.
+"No," said Calder, aloud, and Fisk glanced at him, and away again, carefully, as everyone did now when he talked to the air.
 
 *Why not?*
 

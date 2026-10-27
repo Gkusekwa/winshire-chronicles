@@ -271,7 +271,7 @@ He looked at the roads. The Drover's Way, coming down off the moor from Varrhold
 
 And going out from it, south and west, the Way down to Harrow's End. Trodden black through the snow by thousands of feet, wider than he'd ever seen it, with new tracks cut beside it where the carts had gone round. Down off the hill behind the inn, and along the forest's edge, and on, toward the river.
 
-He followed it with his eyes. It went the way a stream goes, finding the low ground. Through the Fellwood's edge. Down off the hills behind Harrow's End. And down, at last, to the water. To the ice.
+He followed it with his eyes. It went like a stream, finding the low ground. Through the Fellwood's edge. Down off the hills behind Harrow's End. And down, at last, to the water. To the ice.
 
 Opposite the island.
 
@@ -345,7 +345,7 @@ He went down to Upper Rush on the hundred-and-twelfth night, late, by the forest
 
 The house was dark. Everyone asleep. He didn't go in. He went to the paddock gate, because there was somebody standing at it, small, in a big coat, in the moonlight, and he knew who it was before he got there.
 
-Wren was standing on the bottom bar of the gate with her arms over the top of it. Old Grey was standing on the other side, close, with his great head low over the gate beside her. Not doing anything. Just standing. Wren had her hand on his face.
+Wren was standing on the bottom bar of the gate with her arms over the top of it. Old Grey was standing on the other side, close, with his great head low over the gate beside her. Just standing. Wren had her hand on his face.
 
 "He likes me," she said, without turning round. "He does. I know he doesn't look at anybody. But he comes to the gate when I come."
 

@@ -106,7 +106,7 @@ One banked low over the water, low enough that she saw its rider, a dark knot st
 
 Someone let out a long whistle.
 
-"Seven," said Tobin. "That's a war party."
+"Seven," said Tobin. "War party."
 
 "That's a funeral," said a boy behind him, one of the Weir cousins. "My uncle runs barges to the Saltreach side. Their old chief's dead. Three days ago."
 

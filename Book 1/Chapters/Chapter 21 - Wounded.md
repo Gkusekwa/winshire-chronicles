@@ -33,7 +33,7 @@ She stood there a while, and walked out.
 
 On the grass she sat down and undid her belt from her arm, slowly, and looked.
 
-Three cuts. They ran from the top of her shoulder, at the back, down over the point of it and down the outside of the upper arm almost to the elbow. Long and straight and evenly spaced, like the furrows of a little plough. Not deep at the top, where the claws had first touched. Deeper lower down, where they'd dragged. The lowest was deep enough that she could see into it, and she looked away, and looked back, because you have to look. The bleeding had mostly stopped. The edges were white and puckered from the river.
+Three cuts. They ran from the top of her shoulder, at the back, down over the point of it and down the outside of the upper arm almost to the elbow. Long and straight and evenly spaced, like the furrows of a little plough. Shallow at the top, where the claws had first touched, and deeper lower down, where they'd dragged. The lowest was deep enough that she could see into it, and she looked away, and looked back, because you have to look. The bleeding had mostly stopped. The edges were white and puckered from the river.
 
 She could move her fingers. All of them. She could close her hand. She tried lifting the arm, and stopped, and sat for a while with her head down between her knees until the world came back.
 
@@ -201,7 +201,7 @@ The eye was open. It was looking at her.
 
 She lay still for a long time, looking back.
 
-*Don't,* she thought at it. Not words, really. Just the feeling. *Don't move. Not yet. I know. I know. Just wait.*
+*Don't,* she thought at it, more feeling than words. *Don't move. Not yet. I know. I know. Just wait.*
 
 The eye looked at her. It didn't blink.
 

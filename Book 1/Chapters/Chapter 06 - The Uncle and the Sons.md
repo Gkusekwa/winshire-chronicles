@@ -102,7 +102,7 @@ She didn't believe him. Neither did he. But she went on.
 
 ---
 
-The hold was full of grey. Grey cloaks, grey armbands, grey ash from the long fire still burning in the middle of the yard where Haldor's pyre had stood, and would stand, banked and fed, until the new moon. People stood about it in knots, talking low. Calder drove Sorrel round the outside of the ring to the steward's barn, the way you were supposed to, and on the way he saw it.
+The hold was full of grey. Grey cloaks, grey armbands, grey ash from the long fire still burning in the middle of the yard where Haldor's pyre had stood, and would stand, banked and fed, until the new moon. People stood about it in knots, talking low. Calder drove Sorrel round the outside of the ring to the steward's barn, as you were supposed to, and on the way he saw it.
 
 The yard was split.
 
@@ -270,7 +270,7 @@ Sigrun Holm, by the fire, was watching him. She didn't say anything. But Calder 
 
 ---
 
-They sat on the ledge till it was full dark, the five of them and the three dragons, and Teo and Imra talked and Dag cleaned his axe and Sigrun listened and Calder mostly didn't say anything. Below them the hold's fires glowed in the hollow, and the great pyre-fire in the middle of the ring, and on either side of it, east and west, two other fires had been lit, one by each table, and you could see from up here how the people were gathered round them in two crowds, with the dark space between.
+They sat on the ledge till it was full dark, the five of them and the three dragons, and Teo and Imra talked and Dag cleaned his axe and Sigrun listened and Calder mostly listened too. Below them the hold's fires glowed in the hollow, and the great pyre-fire in the middle of the ring, and on either side of it, east and west, two other fires had been lit, one by each table, and you could see from up here how the people were gathered round them in two crowds, with the dark space between.
 
 "Two fires," said Sigrun quietly, at one point, looking down. "Varrhold's had one fire for four hundred years."
 

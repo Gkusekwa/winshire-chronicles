@@ -77,7 +77,7 @@ The old carter beside him spat.
 
 He counted.
 
-He went down into it with the carts and walked through it the way a carter walks, slow, looking at nothing, and counted. He'd been counting sacks and ewes and barley-sheaves all his life. He counted the way his father had taught him, in fives, on his fingers inside his coat pocket, and kept the fives in his head.
+He went down into it with the carts and walked through it like a carter, slow, looking at nothing, and counted. He'd been counting sacks and ewes and barley-sheaves all his life. He counted the way his father had taught him, in fives, on his fingers inside his coat pocket, and kept the fives in his head.
 
 Tents. He gave up on the tents. Too many, and you couldn't tell how many men were in each.
 
@@ -91,7 +91,7 @@ Companies. He saw flags on poles outside some of the bigger tents. Not the six; 
 
 Where the road widened between the tents there were booths, the way there were on the quays at Wendmouth. A man with a board on trestles, selling charms. Luck for a sellsword. A dry bowstring. A word against a wound going bad. Each one scratched on a strip of tin with the Tide Council's stamp on the back, warranted. Half the charms on the Wendmouth quays were fakes and everybody knew it and bought one anyway. Men were buying.
 
-Outside the big tent with the yellow tower, on a stool by the fire, sat a woman in a plain grey coat with her hands in her lap. There was nothing else to her. Two of Delling's men stood between her and the road, and the men going up and down it went wide of her without looking. He knew what she was before he'd thought it. A house drawer. Every trading house in Wendmouth kept one, the way it kept a lawyer, and you didn't look at them in the street. He'd seen her before. On Gallows Quay, coming out of the Halloran door, and two beast-sellers crossing the street to keep clear of her.
+Outside the big tent with the yellow tower, on a stool by the fire, sat a woman in a plain grey coat with her hands in her lap. There was nothing else to her. Two of Delling's men stood between her and the road, and the men going up and down it went wide of her without looking. He knew what she was before he'd thought it. A house drawer. Every trading house in Wendmouth kept one, as it kept a lawyer, and you didn't look at them in the street. He'd seen her before. On Gallows Quay, coming out of the Halloran door, and two beast-sellers crossing the street to keep clear of her.
 
 He went wide of her too.
 
@@ -171,7 +171,7 @@ He sat at the table and wrote, and Rook stood beside him and bent and said somet
 
 The man at the table picked up his pen and went on writing.
 
-Calder stood in the shadow and looked at him. It was the same face. It was. He'd stood near it on the Tidesteps. But it sat at the table the way Aurveth lay on a hillside: so still you thought it was carved. The man on the Tidesteps had never been still for a moment.
+Calder stood in the shadow and looked at him. It was the same face. It was. He'd stood near it on the Tidesteps. But it sat at the table like Aurveth on a hillside: so still you thought it was carved. The man on the Tidesteps had never been still for a moment.
 
 He couldn't make it fit. He didn't try. He had Rook.
 

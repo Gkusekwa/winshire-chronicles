@@ -76,7 +76,7 @@ Aurveth lowered her neck for him.
 
 ---
 
-They went in daylight. That was the point. He'd thought about it all night on Bel's kitchen floor and it was the only way. If he went in the dark, they'd think he'd come to burn them. If he came in the morning, low, slow, the way you'd come up a lane to a neighbour's gate, with the sun on him so they could see who it was, they'd know he'd come to talk.
+They went in daylight. That was the point. He'd thought about it all night on Bel's kitchen floor and it was the only way. If he went in the dark, they'd think he'd come to burn them. If he came in the morning, low and slow, like a man coming up a lane to a neighbour's gate, with the sun on him so they could see who it was, they'd know he'd come to talk.
 
 He hoped.
 
@@ -276,7 +276,7 @@ He shut his mouth on it, and stood there.
 
 Ulric was watching him.
 
-The big closed face hadn't moved. But the eyes in it had. They'd gone very still, and very sharp, and they were looking at Calder's mouth, the way a man looks at a door he's just seen open a crack and close again.
+The big closed face hadn't moved. But the eyes in it had. They'd gone very still, and very sharp, and they were looking at Calder's mouth, like a man watching a door he's just seen open a crack and close again.
 
 "You were going to say something," said Ulric.
 

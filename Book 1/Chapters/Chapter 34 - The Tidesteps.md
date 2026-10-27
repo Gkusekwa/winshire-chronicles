@@ -148,7 +148,7 @@ He told them how. Not the details. Nobody knew the details. But it broke, he sai
 
 Three thousand people drew breath at once.
 
-"I'll not tell you which one," said Vale, and smiled. "Not today. You'd not believe me. You'll see it for yourselves, soon. Sooner than you think." He looked out over the harbour, north, toward the hills. "The world's turning. You can feel it, can't you? All of you. You've felt it this year. On the river. In the hills. In your fields. Things aren't the way they've always been. Things are waking up."
+"I'll not tell you which one, friends," said Vale, and smiled. "Not today. You'd not believe me. You'll see it for yourselves, soon. Sooner than you think." He looked out over the harbour, north, toward the hills. "The world's turning. You can feel it, can't you? All of you. You've felt it this year. On the river. In the hills. In your fields. Things aren't the way they've always been. Things are waking up."
 
 He turned back to the crowd.
 
@@ -226,7 +226,7 @@ He went to Gallows Quay at dusk.
 
 His feet took him, the way they'd taken him to the lower stable at Varrhold on the night of Teo's pyre. Down from the Tidesteps, along the harbour, past the ships, to the long grey stone quay that went out into the water with buildings on it and cages.
 
-It was closing. The market, if that's what it was, was over for the day. The cages along the quay were mostly empty, their doors standing open, their floors swept. A few weren't. He walked along the quay in the dusk with his collar up and looked into them as he went, the way anyone would.
+It was closing. The market, if that's what it was, was over for the day. The cages along the quay were mostly empty, their doors standing open, their floors swept. A few weren't. He walked along the quay in the dusk with his collar up and looked into them as he went.
 
 A hound, in one. Thin, grey, with a cut on its muzzle, lying with its head on its paws.
 

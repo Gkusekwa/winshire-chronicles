@@ -35,7 +35,7 @@ Dozens. All at once. Out of the reeds where the ladders had been, into the west 
 
 Downriver: smoke.
 
-Over Millbrook. Not the forges. Black, thick, going up from the water-meadows below the town and leaning north on the wind.
+Over Millbrook. Black, thick, going up from the water-meadows below the town and leaning north on the wind.
 
 The lion stood up.
 
@@ -127,7 +127,7 @@ He turned and said something to the people on the wall. Then he was gone from th
 
 The gate opened.
 
-Not wide. Wide enough. The great oak leaf on the left swinging inward a cart's width, and the crowd at it surging, and Pell in the gap. In his old leather coat, with a sword. And behind him, coming out through the gap round him, eleven others. She counted. Students, most of them. Second-years. Two of the old knights of the gate, too old to have ridden to Redwatch, white-haired, in mail. And the cook's boy with a cleaver.
+Wide enough. The great oak leaf on the left swinging inward a cart's width, and the crowd at it surging, and Pell in the gap. In his old leather coat, with a sword. And behind him, coming out through the gap round him, eleven others. She counted. Students, most of them. Second-years. Two of the old knights of the gate, too old to have ridden to Redwatch, white-haired, in mail. And the cook's boy with a cleaver.
 
 "*In!*" Pell was shouting. "*In, in, in! Children first! Go on! In!*"
 
@@ -169,7 +169,7 @@ And holding on to nobody, on her own, right behind Liss, a thin girl with a grea
 
 ---
 
-"I brought them up from the ferry house," said Liss. She was gasping. "The camp was burning. I saw it from the jetty. I went down in the boat and got who I could. Bel's two." She had Maren's arm in a grip like iron. "Their mother's behind. With the beasts. She won't leave the beasts."
+"I brought them up from the ferry house," said Liss. She was gasping. "The camp was burning. I saw it from the jetty. I went down in the boat and got who I could. Bel's two." She had Maren's arm in a grip like iron. "Their mother's behind. With the beasts. She won't leave the beasts, the daft woman."
 
 Maren looked at the girl.
 

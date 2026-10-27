@@ -109,15 +109,15 @@ She turned.
 
 Tobin was standing beside her in the dark at the edge of the crowd. She hadn't heard him come. He was in grey too, a good coat, and he had a ring on his finger. He was thinner than he'd been at Greyhold. Much thinner. His face had gone all bones and eyes. And he was smiling. She'd known him two years and she'd never seen him smile like that, with all of his mouth.
 
-"You came," he said again. "I didn't think you would. I told them you would. I didn't think so."
+"You came," he said again. "I told them you would. I didn't believe it. I told them anyway."
 
 "Told who?"
 
-"Everybody." He took her arm. She let him. "Maren. Maren, you know. Don't you? I can see it on you. Hale told you. Didn't he? He told you what's under the hill."
+"Everybody." He took her arm. She let him. "Maren. You know. Don't you? It's all over you. Hale told you. Didn't he. What's under the hill."
 
 She didn't answer.
 
-"He did." Tobin's grip tightened on her arm. "I knew he would. He'd tell you before anybody. He always liked you." He pulled her a little way along the edge of the crowd, out of the lantern light, into the dark by the side hedge. "So you know. It's true. All of it. Everything on the paper. And you're still there. You're still mucking out their barn and standing at their bell." He looked into her face. "Why?"
+"He did." Tobin's grip tightened on her arm. "I knew he would. He'd tell you before anybody. He always liked you." He pulled her a little way along the edge of the crowd, out of the lantern light, into the dark by the side hedge. "So you know. It's true, all of it, every word on the paper, and you're still there. Mucking out their barn. Standing at their bell." He looked into her face. "Why?"
 
 "I don't know."
 
@@ -127,7 +127,7 @@ She didn't answer.
 
 Something went across Tobin's face. Quick. Gone.
 
-"Listen to him," he said. "Just listen. Then decide."
+"Never mind the jetty," he said. "Listen to him. Just listen. Then decide."
 
 He let go of her arm.
 
@@ -231,7 +231,7 @@ He smiled at her.
 
 Warm. Friendly. The way he'd smiled at the old woman at the front.
 
-And there was nothing in it. No knowing. Nothing at all. He looked at her face the way you'd look at the seven-hundredth face in a field, and smiled, and went past, and put his hand on the shoulder of the man beside her and said something, and laughed, and was gone through the gate into the dark with the men with cudgels round him.
+And there was nothing in it. No knowing. Nothing at all. He looked at her face as you'd look at the seven-hundredth face in a field, and smiled, and went past, and put his hand on the shoulder of the man beside her and said something, and laughed, and was gone through the gate into the dark with the men with cudgels round him.
 
 She stood there.
 
@@ -251,7 +251,7 @@ The field was emptying round them. People going down the hill in the dark in two
 
 "Well?" said Tobin.
 
-He was flushed. His eyes were bright. He looked the way people look coming out of a chapel, or a fair.
+He was flushed. His eyes were bright. He looked like a man coming out of a chapel, or a fair.
 
 She looked at him.
 
@@ -277,7 +277,7 @@ She pulled her hood forward and turned to go.
 
 She stopped. She didn't turn round.
 
-"They'll throw you out," said Tobin behind her. The brightness had gone out of his voice. It came low and urgent and frightened. "You know they will. Sooner or later. For the lion. For what you know. For whatever you do next. Rowan won't be able to stop it, even if she wanted to." He was quiet a moment. "When they do. When they throw you out of the gate with nothing. Come and find us." She heard him swallow. "We'll still be here."
+"They'll throw you out," said Tobin behind her. The brightness had gone out of his voice. It came low and urgent and frightened. "You know they will. For the lion. For what you know. For whatever you do next. Rowan couldn't stop it if she wanted to." He was quiet a moment. "When they throw you out of the gate with nothing, come and find us." She heard him swallow. "We'll still be here."
 
 She went out through the gate between the men with cudgels, and down the hill in the dark.
 

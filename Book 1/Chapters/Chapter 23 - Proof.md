@@ -67,7 +67,7 @@ She thought: *it knows me. It looked at me on the spit. It let me go.*
 
 The lion's lips went back from its teeth.
 
-She had time to see that. She had time to see the pale eyes go flat, the way they'd gone flat on the shore the night it woke. She had time to think, very clearly, *no, it doesn't, it doesn't know anything, it's a wild thing and it's hurt and I'm standing by its water.* Then it came through the stream at her.
+She had time to see that. She had time to see the pale eyes go flat, as they'd gone flat on the shore the night it woke. She had time to think, very clearly, *no, it doesn't, it doesn't know anything, it's a wild thing and it's hurt and I'm standing by its water.* Then it came through the stream at her.
 
 It didn't come slowly. It came like a cat off a wall, all at once, three legs and the bad one held up, the water going up white on both sides of it, and the bank shook under her as it hit the near side, and she felt the shake go up through her boots. It was on her before she'd moved.
 
@@ -155,7 +155,7 @@ On the thirteenth day the lion slept in the sun.
 
 She'd come down to the shore at noon to wash her arm in the river, and it was there. Not at the stream. On the open grass of the shore above the reeds, where she'd stood with Pell's sword on the night it woke. Where the noon sun lay warm on the grass. It was lying on its side, the way it had lain in the hollow, with its back to the trees and its legs stretched out and its great head on the grass, and its eyes were shut, and it was asleep.
 
-Not the smoke-sleep of the hollow, with the eleven breaths. Something heavier than ordinary sleep, and worse. Its sides went up and down slow and shallow. A fly walked across its ear and it didn't stir. It was sleeping as a beast sleeps when it has bled for a week and has nothing left to stay awake with: sunk, gone right down, because it was warm, and hurt, and nothing on the island could do it any harm.
+This was heavier than the smoke-sleep of the hollow, with the eleven breaths, and worse than ordinary sleep. Its sides went up and down slow and shallow. A fly walked across its ear and it didn't stir. It was sleeping as a beast sleeps when it has bled for a week and has nothing left to stay awake with: sunk, gone right down, because it was warm, and hurt, and nothing on the island could do it any harm.
 
 She stood at the edge of the trees and looked at it.
 
@@ -233,7 +233,7 @@ She didn't answer. She didn't need to.
 
 Liss's face did the thing again. Then it stopped.
 
-"Well," she said. "I'm not losing my daughter to that thing because she was too proud to take her mother's boat." She turned and went up the steps. At the top, by the red door of the ferry-house, she stopped, without looking back. "You'll take the punt next time. Ottery's. He says you can. You'll go at night and come back at night and you'll tell me every time, or I'll row out there myself and drag you off it by the hair. Do you understand?"
+"Well, then," she said. "I'm not losing my daughter to that thing because she was too proud to take her mother's boat." She turned and went up the steps. At the top, by the red door of the ferry-house, she stopped, without looking back. "You'll take the punt next time. Ottery's. He says you can. You'll go at night and come back at night and you'll tell me every time, or I'll row out there myself and drag you off it by the hair. Do you understand?"
 
 "Yes, Ma."
 
@@ -361,7 +361,7 @@ Maren looked at her.
 
 "No, Captain. Not once."
 
-Rowan looked at her for a long moment, and picked up her pen again, and bent to the ledger, and wrote something else. Not on the line where she'd written before. In the margin. Small. Maren couldn't see what it was, from the door.
+Rowan looked at her for a long moment, and picked up her pen again, and bent to the ledger, and wrote something else, in the margin this time. Small. Maren couldn't see what it was, from the door.
 
 "Dismissed," said Rowan, without looking up.
 

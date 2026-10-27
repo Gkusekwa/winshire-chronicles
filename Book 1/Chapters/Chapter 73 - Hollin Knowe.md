@@ -106,7 +106,7 @@ She felt it go. Out of her palm. Out of her arm. Out of her chest. Like the rive
 
 It would take all of her.
 
-She knew that. She knew it the way you know, on the ice, that the next step won't hold. It would take everything there was and there'd be nothing left of Maren Ashdown kneeling in the heather on Hollin Knowe but a woman with her hand on a lion's head and her eyes like windows.
+She knew that. She knew it as you know, on the ice, that the next step won't hold. It would take everything there was and there'd be nothing left of Maren Ashdown kneeling in the heather on Hollin Knowe but a woman with her hand on a lion's head and her eyes like windows.
 
 *That's what his will was for,* she thought. Very clearly. As if somebody else were thinking it. *The man in grey. He had his hand here and he didn't go. He wasn't giving. He was holding himself shut and pouring his will in, a little, through a crack, to fill it up when the lion went out. He was taking.*
 
@@ -182,7 +182,7 @@ The ground on his left side, between him and the nearest of the beacon-stones, w
 
 Two lions on Hollin Knowe.
 
-Some of Delling's men had kept hold of the chains. Six of them, with spears, coming back in at Orrun from the far side of the ring, shouting to each other the way men shout when they've been paid for a thing and mean to have it.
+Some of Delling's men had kept hold of the chains. Six of them, with spears, coming back in at Orrun from the far side of the ring, shouting to each other like men who've been paid for a thing and mean to have it.
 
 The earth one went at them.
 

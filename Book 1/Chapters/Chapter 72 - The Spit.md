@@ -34,7 +34,7 @@ He felt them both. Kharrak's tide, all the way up. Aurveth's slow old weight und
 
 And the empty place where the third should have been.
 
-He felt that most. Not a fire through a wall now. A spark, far off and west, small and frightened, and no words in it. She'd gone where he sent her, and she didn't speak. He felt the space she'd left, cold, where she always was, at the edge of everything, chattering.
+He felt that most. Lisska was a spark now, far off and west, small and frightened, and no words in it. She'd gone where he sent her, and she didn't speak. He felt the space she'd left, cold, where she always was, at the edge of everything, chattering.
 
 *Now,* he said.
 
@@ -70,7 +70,7 @@ Sweet. Thick. Coming up off the great fire in the middle of the fort, where some
 
 He felt her go.
 
-Not fall. Go. Away from him. As if the bronze mark on his chest were a hand that had been holding his, and the fingers were opening, one at a time, in the dark. Something in her turning away, slow and dreamy, toward the sweet smoke, the way a beast turns toward sleep. *Aurveth.* He couldn't feel her answer. *Aurveth!*
+Not fall. Go. Away from him. As if the bronze mark on his chest were a hand that had been holding his, and the fingers were opening, one at a time, in the dark. Something in her turning away, slow and dreamy, toward the sweet smoke. *Aurveth.* He couldn't feel her answer. *Aurveth!*
 
 She shook her head. Hard, the whole great neck. She beat her wings down once, twice, a gale of them that tore the smoke apart, and climbed out of it, and the fingers closed again. He felt her come back into his hand all at once, cold and furious.
 
@@ -94,7 +94,7 @@ He went.
 
 ---
 
-He didn't remember most of it. Pieces. A man in grey coming at him with a spear and the spear going past him because the man was looking up at Aurveth. A hound, silent, with its eyes empty, that went for him and that he put Joss's knife into without thinking, the way you'd kill a rat in a barn. The stones of the fort hot under his boots. The great fire in the middle of the fort, and men running across in front of it, black against it.
+He didn't remember most of it. Pieces. A man in grey coming at him with a spear and the spear going past him because the man was looking up at Aurveth. A hound, silent, with its eyes empty, that went for him and that he put Joss's knife into without thinking, as you'd kill a rat in a barn. The stones of the fort hot under his boots. The great fire in the middle of the fort, and men running across in front of it, black against it.
 
 He was going for the tower.
 
@@ -208,7 +208,7 @@ He knew what he'd do.
 
 Rook came at Calder with the knife.
 
-Fast. Very fast. Faster than anything with soft clerk's hands should move. Not at his throat or his heart. Low, at his side, under the coat, the way you'd go at a man you wanted to hurt and not kill.
+Fast. Very fast. Faster than anything with soft clerk's hands should move. Low, at his side, under the coat, where you'd go at a man you wanted to hurt and not kill.
 
 Calder saw it coming and couldn't move.
 
@@ -286,7 +286,7 @@ He stood on the spit by the stake with all of it in his coat.
 
 Across the water, from downriver, a bell began to ring.
 
-From Greyhold. He knew it. He'd heard it on the night of the Ewe Beck, walking Old Grey home up the river lane in the dark. Not the slow bell for a death. Not the noon bell. The other one. Fast. On and on. The kind that gets men out of their beds and into their boots.
+From Greyhold. He knew it. He'd heard it on the night of the Ewe Beck, walking Old Grey home up the river lane in the dark. Fast. On and on. The kind that gets men out of their beds and into their boots.
 
 Then more. Two bells. Three. All of Greyhold's bells at once, from every tower, ringing and ringing over the water, the sound coming upriver in the dark from more than three leagues off, faint and wild.
 

@@ -25,7 +25,7 @@ He'd believed that all his life. He was trying to believe it now.
 
 ---
 
-The days at Crow Scar had a shape, after a while, the way days do anywhere if you stay long enough.
+The days at Crow Scar had a shape, after a while, as days do anywhere if you stay long enough.
 
 He woke at first light because the crows did. Hundreds of them, on the ledges above and below the cave, all going up at once into the grey with a noise like the whole crag tearing. He lay in the mouth of the cave on his blanket and watched the mist go off the Fellwood as a sheet comes off a bed, and the treetops come up out of it, green and black and endless, all the way to the edge of the sky.
 
@@ -175,7 +175,7 @@ A silence.
 
 They tested it, after that. Lisska did, mostly; Lisska would test anything. She flew out from the crag, straight, west, and talked the whole way, the way she always did, *can you hear me now? Now? Now?*, and he sat on the ledge and listened and said *yes, yes, yes,* and then her voice began to go thin. Thinner. A murmur. A whisper, like a voice in another house. And then nothing.
 
-But she was still there. He could feel her. Far off, as you feel a fire in the next room through a wall. Not words. Just her. Lisska, out there, somewhere over the Fellwood, bright and curious and a little bit worried, wondering if he could still hear her.
+But she was still there. He could feel her. Far off, as you feel a fire in the next room through a wall. Lisska, out there, somewhere over the Fellwood, bright and curious and a little bit worried, wondering if he could still hear her.
 
 *Three leagues,* said Aurveth, when Lisska came back. *Perhaps four. Speech goes further for some pairs than others. Sigrun and I could speak across the Scarfell, on a clear day. But that was after fifty years.* She was quiet a while. *The feeling goes further. The feeling, I think, goes everywhere. I felt Ragnald die from the other side of the mountain. I was asleep. I woke screaming.*
 

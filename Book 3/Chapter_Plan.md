@@ -1,6 +1,6 @@
 # Winshire — Book 3 Chapter Plan (working draft, revision 3)
 
-**Status: provisional; chapter outline started (Oct 2026).** Nothing in this plan is approved. Chapter files with notes blocks exist in `Book 3/Chapters/`, built from this table: **all 86 chapters are in first draft** (decisions per chapter in their notes blocks and in `Book 3/Notes/Part1–7_Ledger.md`; ch. 86's last line is left for the author); the open questions at the end still need the author before drafting.
+**Status: drafted, under review (Oct 2026).** All 86 chapters are in first draft (`Book 3/Chapters/`; each chapter's notes block records what its draft decided, and `Book 3/Notes/Part1–7_Ledger.md` carries the running facts). What the author has settled is marked *(canon)* or struck through as **Settled**; what the drafts have dramatized but the author hasn't confirmed is listed under **Review questions** at the end, with how the draft handles it (**Drafted as**), and is not canon until confirmed. Ch. 86's last line is left for the author.
 
 *A chapter-by-chapter plan for the last book of the trilogy, in the shape of `Book 1/Chapter_Plan.md`. It's built on `Bible/Series_Outline.md` (its Book 3 section and the author's settled points at the end are canon), the rest of the Bible (`World.md`, `Story.md`, `Characters.md`, `Bestiary.md`, `Atlas.md`, `Magic.md`, especially §10a and §11), the Book 2 chapter plan (revision 5), Book 1's last chapter and the style guide. **Canon is marked *(canon)*. Everything else is a *(proposal)*.** In the chapter table, every beat is a proposal unless it carries a *(canon)* tag. Book 2 is still being revised, so every point Book 3 takes from it is listed under **Depends on Book 2**.*
 
@@ -458,7 +458,7 @@ Saltreach is a place in Book 3, not a backdrop: Part Two is set there, Kit's eig
 ## The remnant *(canon: a remnant the protagonists saved survives; proposal: who and where)*
 
 - **Where**: the old-realm hall under Coldtarn, found by Calder (54) and opened by Maren (59). It's warm because the Deep ran under the tarn *(Book 1 ch. 8: the tarn that never freezes)*.
-- **How many**: a few hundred, by Maren's count (80). A handful, as the canon asks, not a nation.
+- **How many**: a few hundred, by Maren's count (80): five hundred and fifty-five come out at 86 (review question 18). A handful, as the canon asks, not a nation. The overflow sent down to Varrhold is buried by the slip (79, 85; review question 24).
 - **Who**: Calder's family (Ada, Wren, Bel, Pip, Nan); Liss and Tam; Fisk, who tells it after *(Book 1 ch. 70; Book 2 ch. 43)*; Kit and Jory; Davin; Idony; Arn and the Clan's families, with their dragons; a few hounds, wolves and greys, and a stonehorn calf; Wyldmarch clansfolk; Sarovel's hands from Tobin's battery; Kessmoor crews who refused the orders. People from every kingdom, so that no kingdom survives as a kingdom.
 - **What's lost**: Odo (Ironhythe), Nessa (Vael), Quell and every capital are never heard from. Nobody comes up the roads.
 
@@ -545,6 +545,7 @@ Saltreach is a place in Book 3, not a backdrop: Part Two is set there, Kit's eig
 | The Horned Sun, the Pale Coil | 82 | Burned out by the surge they made; not killed |
 | **Kharrak** | 78 | *Canon: dies protecting people*, shielding the column |
 | Gannet | 79 | Carrying a child |
+| The overflow | 79–85 | Sent down the beck to Varrhold and the caves; buried by the Scarfell's slip when the mountain comes down at Coldtarn (85) |
 | **Lisska, Aurveth** | 81 | *Canon* |
 | **Orrun** and the Last Titan | 83 | *Canon (Orrun).* Under the mountain; the Last Titan's is the last breath to go out |
 | The six kingdoms | 75–86 | *Canon: everything is destroyed.* Hinted |
@@ -638,33 +639,46 @@ Saltreach is a place in Book 3, not a backdrop: Part Two is set there, Kit's eig
 
 ---
 
-## Open questions for the author
+## Review questions for the author
 
-*The decisions that matter most come first.*
+*The draft now answers every question below one way (**Drafted as**). None of those answers is canon until the author confirms or changes it. The decisions that matter most come first: how the destroyers end (1), the remnant (18, 24, 25) and the last chapter (20, 33).*
 
-1. **How the destroyers end.** As revised: the alliance kills only the Antlered (50) and the Furnace (65); the Titans visibly win the field at 75; after that no hero kills anything, the lion and the dragons die shielding people (78, 81, 83), and the three destroyers left burn out in the surge they made (82), the Last Titan last, under the mountain (83). Approve? And is Kit's one ambiguity about the Lady and the Bell (76) the right size of seed for the next series, or should it go too?
-2. **The casting model**: Book 2's words and runes said untaught with a Titan behind them, needing live ground; bond gifts as the only power on dead ground; three Book 2 workings return (66, 75/77, 80). If approved, `Magic.md` §10a needs a Book 3 line, and §1 needs Book 2's stir.
-3. **Kessmoor as the plotting kingdom**, with five hints (12, 41, 46, 57, 62) and Rowan accepting Pike's two explanations as part of her cost. Enough to be fair, few enough to keep the glimpse (68) believable? Or Sarovel, or Isvaren?
-4. ~~The Bridle's double cause~~ **Settled by the author (Oct 2026):** one cause, Idony's wrong stroke (74). Tam refuses the six-hollow ring instead (33). Still open: the Bridle approved by Rowan as a fallback.
-5. **Calder's crossing**: he meets Jory in Blackwater (26), because the Lit Shore can be found only by the drowned road's milestones and only a Merrin reads them; he goes with the Berths fleet at its pace; he comes home the day after the gift (42). Approve?
-6. **Parts Four and Five tightened** from 25 chapters to 21: Arn's pour and the council fight merged (51); the Sun Road skirmish cut and folded into 53; the resin barge folded into Wendmouth (58); the engine-trains folded into the eve (62); Gunna's death moved to the Thornwood (49). Right cuts, or restore the Sun Road chapter?
-7. **Corvin's death**: taken whole by the relic, unredeemed, after refusing Maren's hand (74). Or a late, partial redemption? Callis's late turn (69, 71, 74) instead?
-8. **The extra POVs**: Rowan (7), Arn (5), Tobin (5) and Kit (8). Swap any (Tam for Tobin, Ulric for Arn, Jory for Kit)? Is Corvin's absence as a POV right?
-9. **The four elders**: the Grey Mother, the Wayfarer, the Lamp, the Lady; their kinds, god-names, light-script names (Ethra, Avel, Solun, Ysse), and who gives to whom. Should Lake Ysse carry the Lady's name?
-10. **The plan**: an elder carries the relic and commands the six into the light (35), guided to it by two bonds at once (68). Approve as the war's hope?
-11. **A dead Titan's breath goes to the nearest Titan** (52), which is why no elemental stirs until the end.
-12. **The collapse's cause revealed** (30, 46): the one realm bound beasts and then Titans. Here, or keep it for the next series?
-13. **The beasts of the war**: every kingdom's beasts in its sectors and evacuations, and a shared sky (the Clan's dragons, the Wyldmarch's roc-riders, a few dozen Isvaren stormkite-riders scouting, Saltreach wyvern companies; Kessmoor, Hearthmere and Sarovel have no riders of the air), following `Bestiary.md`'s new **The sky** section. Enough, or should one of the extra POVs (Arn's) carry more of the shared sky?
-14. **Orrun's shadows**: Titan-strong after the gift; six at once as the Book 3 ceiling (77); none at the door.
-15. **The tolls**: Maren pays in feeling; Calder pays three ways (burns, eyes, breath).
-16. **Deaths**: Ulric, Gunna and Tamsin, Rowan, Tobin, Corvin, Callis, Gannet, Marrow, the Lamp, the Lady, and the canon beasts. Spare or add anyone (Liss, Tam, Arn, Kit)?
-17. **Arn's late bond with Ildra**, and the Clan opening its pens (18).
-18. **The remnant**: a few hundred and a few beasts in the hall under Coldtarn (80).
-19. **Idony stays unbonded** and refuses the Mother's mending (36).
-20. **The last chapter** (86): on Maren, with Tam's flint fire, Fisk's telling, Maren writing the rest in Hale's black book, Old Grey not understanding Wren, and the stone elemental. Or end on the elemental from the remnant's eyes?
-21. **Sizes**: Orrun the size of the Last Titan (a hill); the dragons Titan-class, roughly the size of Greyhold's old keep.
-22. **New names and titles** (all proposals): Kit and Jory Merrin; the *Kittiwake*; the House of Ostrey; the Saffery house; Nell Tallis; Elder Tova; First Guildmaster Edmund Kaye; Ildra; the Accord of Ironhythe; the Bridle; the Far Berths; the Lit Shore; the elders' names. Working title: *The Titan War*, *Into the Light* or *The Last Watch*.
-23. **The sixth hollow** in the control relic, round and empty (Book 2 ch. 84): use it in Book 3, or leave it for the next series?
+1. **How the destroyers end.** **Drafted as:** the alliance kills only the Antlered (50) and the Furnace (65); the Titans win the field at 75; after that no hero kills anything; Kharrak (78), Lisska and Aurveth (81) and Orrun (83) die shielding people; the Sun, the Coil, the Lady and the Bell burn out in the surge they made, read one by one on Idony's glasses (82); the Last Titan's breath goes out last, under the mountain (83). Kit alone sees the Lady and the Bell go down together off the Wend's mouth and can't say whether they died (76); her one sighting of Kit at 77 is cut to two distant figures and a dog. Approve, and is Kit's ambiguity the right size of seed for the next series, or should it go too?
+2. **The casting model.** **Drafted as:** Book 2's words and runes, untaught, with a Titan behind them, on live ground only; bond gifts the only power on dead ground; Book 2's workings return at 66 (Maren shapes the field), 75/77 and 80 (Idony says the *hold* rune and Tam cuts it into the roof, Maren's hand on the jamb). If approved, `Magic.md` §10a needs a Book 3 line and §1 the stir.
+3. **Kessmoor as the plotting kingdom.** **Drafted as:** five hints (12, 41, 46, 57, 62), unchanged in drafting; Rowan accepts Pike's two explanations (the hand at 57 is one) as part of her cost; the glimpse at 68. Enough to be fair, few enough to keep the glimpse believable?
+4. ~~The Bridle's double cause~~ **Settled by the author (Oct 2026):** one cause, Idony's wrong stroke. **Drafted as:** Idony kept the third curve wrong; Corvin "corrected" the fourth instead (57); at 74 the chain-words carry the third curve's wrong stroke, *tighten* read as *let go*, and the *hold* goes out link by link. Tam refuses the six-hollow ring (33). Still open: the Bridle approved by Rowan as a fallback (55).
+5. **Calder's crossing.** **Drafted as:** he meets Jory in Blackwater (26); Jory is requisitioned for the Council's fleet (20), slips his guard (26) and is taken off the flagship onto Aurveth at the first pier (28); Calder goes at the fleet's pace and comes home the day after the gift (42), Jory on Aurveth reading the piers from the air. Approve, including Jory taken off at sea?
+6. **Parts Four and Five tightened** to 21 chapters (Arn's pour and the council fight merged in 51; the Sun Road folded into 53; the resin barge into Wendmouth, 58; the engine-trains into the eve, 62; Gunna's death at 49). **Drafted as** planned. Right cuts, or restore the Sun Road chapter?
+7. **Corvin's death.** **Drafted as:** unredeemed. Maren holds out her hand, to give, not take; he kneels at the relic "as a man kneels at a wayside shrine", puts the iron hand and then his own on it, and the old magic takes him whole (74). Callis, reaching for him, goes with him; Callis's late turn (69, 71) stays small. Approve?
+8. **The extra POVs.** **Drafted as:** Rowan, Arn, Tobin and Kit, with no Corvin POV. One break: the last section of 73 steps out to Wynn's eyes after Rowan is frozen standing on the gate, the only POV break in Rowan's chapters. Keep the step-out, or end 73 on Rowan in the cold?
+9. **The four elders** (the Grey Mother, the Wayfarer, the Lamp, the Lady; Ethra, Avel, Solun, Ysse). **Drafted as** planned. Should Lake Ysse carry the Lady's name?
+10. **The plan**: an elder carries the relic and commands the six into the light (35), guided by two bonds at once (68). **Drafted as** planned; the Lamp is killed by the betrayal (70). Approve as the war's hope?
+11. **A dead Titan's breath goes to the nearest Titan** (52). **Drafted as:** the Antlered's breath drains west to the Last Titan (50, 52); the Furnace's follows it (65); Aurveth sees both burning in the coal in its back (66), and the Last Titan uses them when it calls (74). Approve that the Furnace's breath feeds the Last Titan? (See 26 for the one exception.)
+12. **The collapse's cause revealed** (30, 46): the one realm bound beasts and then Titans. **Drafted** here. Keep, or hold it for the next series?
+13. **The beasts of the war** and the shared sky (`Bestiary.md`, **The sky**). **Drafted as** planned. Enough, or should Arn carry more of the sky?
+14. **Orrun's shadows.** **Drafted as:** six at once at 77, the Book 3 ceiling; at the door he unmakes every shadow to be one (83). Approve?
+15. **The tolls.** **Drafted as:** Maren pays in feeling and cold (66, 80); Calder in burns, eyes and breath. At 84 the three dragons' gifts are whole in him, fire, wind and sight, and he breathes freely for the first time in a year. Approve that the toll lifts with their deaths?
+16. **Deaths.** **Drafted as** the table above, plus the overflow at Varrhold (24). Spare or add anyone (Liss, Tam, Arn, Kit)? Is the aftermath (the pour, 85; the black book, 86) enough weight?
+17. **Arn's late bond with Ildra**, and the Clan opening its pens (18). **Drafted as** planned; after the bond goes quiet Ildra still lets him ride her, going where his weight leans (85).
+18. **The remnant.** **Drafted as:** 473 counted in at dusk (80); 533 by 81; 553 with Arn's twenty riders (83); **555** with Maren and Calder come out at 86, with twenty dragons and a few beasts. Approve the number (it was "a few hundred")?
+19. **Idony stays unbonded** and refuses the Mother's mending (36). **Drafted as** planned; at 80 he knows the *hold* rune and can't hold a tool.
+20. **The last chapter** (86). **Drafted as:** dawn and new snow; Maren puts her hand on the fallen stone and the doorway opens; Tam's flint fire, the first since Liss's lamp ran out (84); Fisk's telling; Maren writes the rest in Hale's black book at the cut pages; Old Grey doesn't understand Wren; the stone elemental at noon, which doesn't look at Maren. **The last line is left blank for the author.** Or end on the elemental from the remnant's eyes?
+21. **Sizes**: Orrun the size of the Last Titan; the dragons roughly the size of Greyhold's old keep. **Drafted as** planned.
+22. **New names and titles** (all proposals). The plan's list, plus those added in drafting 51–86: Ambry Coyle, Hobb, Ines, Corvaille, Wardle, Aud Hallin, Sallow End, the Vintner's Gate, Eskby, Otterholt, Trimley, Hessa, Dace Overy, Cutter's Elbow, Osk, the Kingfisher Shallows, Bryn Tolle, the Ferry Flat, the Ferry Barn. Working title: *The Titan War*, *Into the Light* or *The Last Watch*.
+23. **The sixth hollow.** **Drafted as:** used only in the Bridle's ring, whose six hollows copy the control relic's (69). Leave it for the next series?
+
+### Raised in drafting (51–86)
+
+24. **Varrhold and the caves buried.** **Drafted as:** at 79 the overflow is sent down the beck to Varrhold's hold, the caves and the ledges; at 85 Arn finds that the night the mountain came down at Coldtarn, the Scarfell's western shoulder slipped over Varrhold and the caves' mouth fell in. The overflow is lost. This is what keeps the remnant at a few hundred. Approve, or let some of the overflow survive off the page?
+25. **The count** (see 18): every figure in 80–86 now agrees with 555. Confirm, so the ledger and the Bible can carry it.
+26. **The Antlered's stone in Maren.** **Drafted as:** when the Antlered dies, something of its breath comes into her and lies under her ribs "as you feel a stone in your pocket" (50); the cold goes through it at 66; at 83 Orrun's death and power come into her and the cold goes out. The one exception to 11. Keep it as a seed of what she becomes (86, never named), or cut it?
+27. **Liss's pin.** **Drafted as:** Liss walks twenty leagues up the Way with Fisk, her brass lamp in a sack and the ferry's windlass-pin in her pocket ("The river's gone. I brought the pin", 80); at 86 she turns it over by the fire, "the windlass-pin for a ferry with no rope and no river." An image only, with no payoff. Keep?
+28. **The far-stone as carried live ground** (16): a flake is a pinch of live ground you can carry. Approve as a rule for `Magic.md`, or keep it to this one use?
+29. **The Bell's distance** (24): the draft has it pass a league off the drowned road on d.104; the Atlas puts its reef about 25 leagues off Gullhaven. Move the Atlas, or the passage?
+30. **Ch. 15's echo.** **Drafted as:** a smuggler's tale of the lion coming down the cliff at Blackwater, instead of the plan's "moving rocks like furniture", because the reef-stone isn't lifted till 17. Approve the change?
+31. **The frost-white grass** (47): where Maren sits the dew doesn't lift, and the grass stays frost-white at noon in her shape; it returns on Orrun at 62 ("frost-white all over"). Keep as the outward sign of her cold?
+32. **Rowan's death** (73): frozen standing in the rime, both swords up, Haverly's edge dark in her hand, as the Coil passes over the line. Approve the staging?
+33. **The last line of 86** is the author's to write.
 
 ### Settled in this revision
 

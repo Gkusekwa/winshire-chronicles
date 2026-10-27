@@ -92,11 +92,11 @@ He'd been sitting there two days, Liss said. Waiting. He'd seen her coming in th
 
 ---
 
-"Bring him back," Liss had said, on the jetty. Low. While Idony was being got up onto the lion. "He eats nothing. He'll talk you deaf."
+"Bring him back," Liss had said, on the jetty. Low. While Idony was being got up onto the lion. "He eats nothing. Make him. He'll talk you deaf if you let him."
 
 "I'll bring him back."
 
-"Bring yourself back while you're at it," said Liss.
+"And bring yourself back while you're at it," said Liss. "With some meat on you."
 
 She'd turned and gone into her kitchen before Maren could answer.
 

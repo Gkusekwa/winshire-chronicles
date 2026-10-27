@@ -42,7 +42,7 @@ She came round the bend at Cutter's Elbow on the evening of the three-hundred-an
 
 "Two men and an inn's ostler," said Ferris. "Took us a day."
 
-She looked at her ketch. With her masts up. She didn't say anything for a while.
+She looked at her ketch. With her masts up. She was quiet for a while.
 
 ---
 

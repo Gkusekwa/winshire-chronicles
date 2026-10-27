@@ -413,7 +413,7 @@ Fire.
 
 ---
 
-He felt it come in through the scar. Through his chest. Down his arms. Into his palms. Heat. Not the toll. The other way. Coming in. As a river comes back into a dry bed.
+He felt it come in through the scar. Through his chest. Down his arms. Into his palms. Heat. The toll running the other way. Coming in. As a river comes back into a dry bed.
 
 He looked at his hands.
 

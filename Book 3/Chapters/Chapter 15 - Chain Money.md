@@ -209,7 +209,7 @@ She was on her barrel. Mending something else.
 
 "Master Fenn."
 
-He held out a copper. Not Marrow's. One of his own.
+He held out a copper of his own. Marrow's stayed in his coat.
 
 ---
 

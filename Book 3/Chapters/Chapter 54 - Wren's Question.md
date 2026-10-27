@@ -327,7 +327,7 @@ Two rows of them. Square. Going away into the hill under the crag, in the dark, 
 
 A hall.
 
-Long. As long as Varrhold's hall twice over. Wide. Cut into the rock under the crag on the tarn's western side, under the scree, with the warm Deep running beneath its floor. Dry. He could see it was dry. Dust on the floor. Nothing on it. Nothing in it.
+Long. As long as two of Varrhold's halls end to end. Wide. Cut into the rock under the crag on the tarn's western side, under the scree, with the warm Deep running beneath its floor. Dry. He could see it was dry. Dust on the floor. Nothing on it. Nothing in it.
 
 At its eastern end, steps. Going up. Into the crag's foot, under the scree, above where the beck came out.
 
@@ -401,7 +401,7 @@ He sat on the rim and waited.
 
 He heard it.
 
-Faint. At the very edge of the bond, where it went thin with distance, as a voice goes thin across a valley. Not words, mostly. The shape of words. Lisska's, quick, green. Then the lion's, slow, deep, stone settling, so far off it was like feeling a cart go by on the road under the floor.
+Faint. At the very edge of the bond, where it went thin with distance, as a voice goes thin across a valley. The shape of words, mostly. Lisska's, quick, green. Then the lion's, slow, deep, stone settling, so far off it was like feeling a cart go by on the road under the floor.
 
 And then, through the lion, another.
 
@@ -417,7 +417,7 @@ He saw it too.
 
 For a breath. Through Lisska's eyes, at the bond's edge, grey and far.
 
-The Vale. The camp, three leagues of it, on both banks. The eddy turning. And across the Vale, on the Hearthmere bank, from the river to the downs' foot, a long grey wall of stone, new, twice a man's height, straight as a ruled line.
+The Vale. The camp, three leagues of it, on both banks. The eddy turning. And across the Vale, on the Hearthmere bank, from the river to the downs' foot, a long grey wall of stone, new, two men high, straight as a ruled line.
 
 And on the wall, at the river end, a hill.
 

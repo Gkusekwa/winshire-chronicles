@@ -438,7 +438,7 @@ On her knees, in her nightgown, by the warm spring, with her plait undone.
 
 "Yes."
 
-She held it against her chest. She didn't say anything else for a long time. Then she said, "You brought it," as if he'd done something nobody had ever done, and he supposed he had.
+She held it against her chest a while. Then she said, "You brought it," as if he'd done something nobody had ever done, and he supposed he had.
 
 ---
 

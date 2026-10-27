@@ -213,7 +213,7 @@ Into the clans' camp behind it.
 
 He saw the tents burn.
 
-Not catch. Burn. As the scrub had burned. The Sun walking up the bank out of the river onto the camp, and the tents going up white in front of it, a row at a time. The carts. The stonehorns' fodder. The clans running. North. Away from it. Into the smoke.
+As the scrub had burned. The Sun walking up the bank out of the river onto the camp, and the tents going up white in front of it, a row at a time. The carts. The stonehorns' fodder. The clans running. North. Away from it. Into the smoke.
 
 North. Toward the scrub. Toward the pontoon's end and the Drover's Way.
 

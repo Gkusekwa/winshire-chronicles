@@ -169,7 +169,7 @@ That afternoon. On the flats below the salt-villages, where the children had bee
 
 Yeva's roc came down over her.
 
-Its talons, each one longer than the girl's arm, hooked and black. Opening. Coming down round her, slowly, very slowly, one on each side, as you'd put your hands round a bird that had come into the house. Closing. Not on her. Round her. Round the bundle and the girl both, a cage of talons.
+Its talons, each one longer than the girl's arm, hooked and black. Opening. Coming down round her, slowly, very slowly, one on each side, as you'd put your hands round a bird that had come into the house. Closing round her. Round the bundle and the girl both, a cage of talons.
 
 And lifting.
 

@@ -36,7 +36,7 @@ In a line. To the chain.
 
 He'd known they would. Everybody had.
 
-On the eighty-seventh Marrow had gone up to the Tidehall's little bell-tower herself, at noon, and rung the bell. Not the noon bell. The other one. The one Corsa rang for fire and for nothing else, that nobody alive had heard rung. She'd rung it until her arms were tired, and then stood on the balcony and told the harbour front to go up the hill. Every street below the wave-mark. Now.
+On the eighty-seventh Marrow had gone up to the Tidehall's little bell-tower herself, at noon, and rung the other bell. The one Corsa rang for fire and for nothing else, that nobody alive had heard rung. She'd rung it until her arms were tired, and then stood on the balcony and told the harbour front to go up the hill. Every street below the wave-mark. Now.
 
 The docks had gone. Slowly, and then all at once.
 
@@ -198,7 +198,7 @@ Forty-one of them. On their cradles. Upright. With their washing on their riggin
 
 He saw Dorcas Kell.
 
-On the *Merry Agnes*'s deck. At the rail. A pan in her hand. Not banging it. Just holding it, as if she'd come out to call the stonehorn and forgotten.
+On the *Merry Agnes*'s deck. At the rail. A pan in her hand. Just holding it, as if she'd come out to call the stonehorn and forgotten.
 
 ---
 
@@ -232,7 +232,7 @@ It went out of him.
 
 He felt it go. Out of his chest, down his arms, out through his palms into Kharrak's neck. Not fire. What fire came from. Whatever it was in him that Kharrak's fire had always been a little bit made of, since the cave, since the first day. He pushed it into the dragon, all of it, everything he had, and Kharrak opened his jaws and the fire came out.
 
-Not a gout. A river.
+A river of it.
 
 ---
 

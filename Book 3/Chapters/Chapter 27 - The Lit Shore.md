@@ -65,7 +65,7 @@ The old man got out of the boat into the shallows before anyone could help him, 
 
 No number.
 
-He stood there with his hands on it and didn't say anything. Kit stood behind him in the water. She didn't say anything either.
+He stood there with his hands on it. Kit stood behind him in the water, quiet.
 
 This was the stone Abram had copied. Eighty years ago. On his last page.
 
@@ -255,7 +255,7 @@ He walked. Steadily. Toward the far hills. His head up.
 
 The light came up at night all round them.
 
-Close. Not out on the hills a league off, as it had been from the ketch. Here. Out of the grass on either side of the road. Out of the ground under her boots. Pale. White, gold at the edges. Rising slowly. Warm. Not hot. Like standing near a hearth in a room where the fire's been banked.
+Close now, where from the ketch it had been out on the hills a league off. Out of the grass on either side of the road. Out of the ground under her boots. Pale. White, gold at the edges. Rising slowly. Warm. Not hot. Like standing near a hearth in a room where the fire's been banked.
 
 She didn't sleep.
 
@@ -337,7 +337,7 @@ And stayed.
 
 It went through Orrun.
 
-She felt it. Through him, into her, up from the rock, through the bond, through the place where his voice lived. Not words. Not a voice. A looking. Being looked at.
+She felt it. Through him, into her, up from the rock, through the bond, through the place where his voice lived. A looking. Being looked at.
 
 As a mother looks at a cub.
 

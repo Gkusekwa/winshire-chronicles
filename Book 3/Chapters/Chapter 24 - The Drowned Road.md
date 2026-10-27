@@ -71,7 +71,7 @@ She'd wait. The old man would say the number. Then she'd turn the page.
 
 It was a road.
 
-She understood it on the third day, standing at the rail with her coat fastened to her throat, watching a pier go by. Not a line of rocks. A road. The piers had held something up once. A causeway. A bridge. Something long and straight and old-realm, running out over what had been land then and was sea now, south-west, toward the margin of the chart.
+She understood it on the third day, standing at the rail with her coat fastened to her throat, watching a pier go by. The piers had held something up once. A causeway. A bridge. Something long and straight and old-realm, running out over what had been land then and was sea now, south-west, toward the margin of the chart.
 
 The world had split. The land had gone down. The road had gone down with it.
 
@@ -317,7 +317,7 @@ And to the south-west, low on the sea, under the edge of the dark, there was a l
 
 ---
 
-Faint. Not a star. Lower than any star. Under the horizon. A glow, pale, spread along the edge of the sea, as a town's lamps glow over the brow of a hill at night when you're coming home along the road and can't see the town yet.
+Faint. Lower than any star. Under the horizon. A glow, pale, spread along the edge of the sea, as a town's lamps glow over the brow of a hill at night when you're coming home along the road and can't see the town yet.
 
 The whole crew came to the rail.
 

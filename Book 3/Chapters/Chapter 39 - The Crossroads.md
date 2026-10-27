@@ -154,7 +154,7 @@ Not three deaths. Three lives. Too big. Going into three dragons through the onl
 
 Kharrak opened his jaws.
 
-On the western road. He'd got up when the light came down, and his head had come round, and he was looking at the square's south-east milestone, and Calder felt the fire come up in him. Felt it through the bond. Not as it had come up at Corsa, where Calder had pushed himself into it. On its own. Rising.
+On the western road. He'd got up when the light came down, and his head had come round, and he was looking at the square's south-east milestone, and Calder felt the fire come up in him. Felt it through the bond, rising on its own, where at Corsa Calder had pushed himself into it.
 
 It came out white.
 
@@ -288,7 +288,7 @@ Somebody had his head. Hands. Long. Holding his head up off the paving. A voice.
 
 Then the marks.
 
-He felt them burn. Not hot now. Burn. As if somebody had laid three irons on his chest, fresh from the forge, bronze and rust and green, and held them there. He heard himself make a sound he'd never made, not at the mill, not at Corsa, not over the Shatters with no breath.
+He felt them burn, as if somebody had laid three irons on his chest, fresh from the forge, bronze and rust and green, and held them there. He heard himself make a sound he'd never made, not at the mill, not at Corsa, not over the Shatters with no breath.
 
 He felt his skin go.
 
@@ -466,7 +466,7 @@ Toward the sea.
 
 ---
 
-Not swimming. Walking. Into the water, and down. The sea closing over its back. And under the sea, through Aurveth's sight, the stone of the sea-bed opening in front of it. Opening, as a ploughed furrow opens. And closing behind.
+It walked into the water, and down. The sea closing over its back. And under the sea, through Aurveth's sight, the stone of the sea-bed opening in front of it. Opening, as a ploughed furrow opens. And closing behind.
 
 A grey warmth, going down into the sea-bed, along the line of the drowned road. Under the piers.
 

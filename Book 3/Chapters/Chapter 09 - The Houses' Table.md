@@ -26,7 +26,7 @@ The docks came out for him.
 
 He hadn't expected it. He brought Kharrak down on the Tidehall's sea-steps at noon on the twenty-second day, as he had twice before, with Lisska on the copper roof and Ulric's grey on the step below, and the docks came out.
 
-Not to look. To shout.
+They came out shouting.
 
 Dockers off the quays with their hooks on their shoulders. Fishwives from the market with their sleeves rolled up. Men and women off the hulks in the low harbour, in rags, wading ashore through the mud to see. They stood along the quays and on the bollards and on the roofs of the counting-houses and shouted his name.
 
@@ -94,7 +94,7 @@ The Halloran chair was gone altogether. Taken out of the Tidehall after the fall
 
 And along the wall by the door, a bench.
 
-The Captains' Bench. A long oak bench, battered, with the names of dead captains cut into its back. The pirates and the privateers who held the sea-lanes and the channels sat there. Not at the table. On the bench. A captain won his seat by holding a stretch of coast, and lost it the same way.
+The Captains' Bench. A long oak bench, battered, with the names of dead captains cut into its back. The pirates and the privateers who held the sea-lanes and the channels sat there, by the door. A captain won his seat by holding a stretch of coast, and lost it the same way.
 
 They didn't sit still. They lounged on the bench and put their boots up on the table's end and talked to each other while the houses talked, and laughed, and spat.
 

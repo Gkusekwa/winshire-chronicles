@@ -138,7 +138,7 @@ She couldn't answer. She was holding it up.
 
 The sea moved.
 
-Not the channel. Out beyond the reefs. A league off. More. She saw it over the block's edge, in the last grey of the dusk.
+Out beyond the reefs. A league off. More. She saw it over the block's edge, in the last grey of the dusk.
 
 A shape.
 

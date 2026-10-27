@@ -217,7 +217,7 @@ Kessmoor's crews didn't know what to do.
 
 Liss looked at him.
 
-"I'm not Kessmoor," said Liss.
+"I'm not Kessmoor, love," said Liss. "Hold your tin out."
 
 She ladled.
 
@@ -273,7 +273,7 @@ He didn't mind. He never minded. He smiled, round his whistle, and held up his w
 
 ---
 
-"What's the hour for?" said Tobin.
+"What hour?" said Tobin. "For what?"
 
 Wardle put his watch away. In his coat. And as he did, Tobin saw something else in the coat. In the inside pocket. A corner. Folded paper, thick. Black wax.
 

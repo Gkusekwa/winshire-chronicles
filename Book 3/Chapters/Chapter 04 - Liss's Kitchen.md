@@ -45,7 +45,7 @@ She felt it before he said anything else.
 
 Through the bond. In the place behind her eyes. A memory. Coming up in him from a long way down, slowly, as a stone comes up out of the river-bed in a flood, rolled over and over.
 
-A river. Not this river. Wider. Brown. With no rope across it, and no ferry, and no hill on the far side.
+A river, wider than this one. Brown. With no rope across it, and no ferry, and no hill on the far side.
 
 A door. In the rock. Plain. Grey.
 

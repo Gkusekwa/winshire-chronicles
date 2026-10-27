@@ -392,7 +392,7 @@ He'd tell Wren. If.
 
 The Sun went back at dusk.
 
-Up the hillside. Not a quarter-league. Further. Back onto the hills south of the scrub, where it had come from that morning. And lay down there. Burning. Its light going gold, then red, like a fire banked for the night.
+Up the hillside, further than a quarter-league, back onto the hills south of the scrub, where it had come from that morning. And lay down there. Burning. Its light going gold, then red, like a fire banked for the night.
 
 Kharrak didn't follow it.
 

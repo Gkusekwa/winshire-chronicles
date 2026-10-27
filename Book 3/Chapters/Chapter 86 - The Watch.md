@@ -70,7 +70,7 @@ The fallen mountain. Every stone in it. Grey, and many-shaped, and settling. Eac
 
 Waiting.
 
-Not for anything. Stone doesn't wait for things. Waiting as stone waits. Patiently. To be asked.
+Stone doesn't wait for things. It waits as stone waits. Patiently. To be asked.
 
 ---
 

@@ -352,7 +352,7 @@ And then, near the end, read out like the rest:
 
 Half of Ironhythe laughed.
 
-He heard that too. From across the canal. From the works' gate, from the canteens, from the clerks on the iron stair. Kessmoor laughed. Not unkindly. As you'd laugh at a story about a talking goat. Kessmoor didn't pray. Kessmoor had never prayed. *Kessmoor measures*, the clerks said, and they said it now, laughing, to each other, and somebody said *Titans, is it*, and somebody said *well, we've got an engine for that*, and they laughed more.
+He heard that too. From across the canal. From the works' gate, from the canteens, from the clerks on the iron stair. Kessmoor laughed, kindly enough, as you'd laugh at a story about a talking goat. Kessmoor didn't pray. Kessmoor had never prayed. *Kessmoor measures*, the clerks said, and they said it now, laughing, to each other, and somebody said *Titans, is it*, and somebody said *well, we've got an engine for that*, and they laughed more.
 
 The other half went quiet.
 

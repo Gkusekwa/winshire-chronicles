@@ -199,7 +199,7 @@ Not words. Ildra didn't hear words from them either, she told him. The kept ones
 
 Wanting, and not knowing what for.
 
-And under it, over and over, the same thing. Not a word. A shape. Hard. Straight. Near.
+And under it, over and over, the same shape. Hard. Straight. Near.
 
 *The bar,* said Ildra. *That's all they think about. The bar. The bar. The bar.*
 
@@ -391,7 +391,7 @@ On the third ledge. Teo's. Arn went up and sat beside her with his legs over the
 
 She was looking south-west.
 
-Not at the pens. Not at the moor. South-west, over the far end of the Scarfell, toward the coast and the sea beyond it, toward nothing at all. Her head up. Very still.
+Over the far end of the Scarfell, toward the coast and the sea beyond it, toward nothing at all. Her head up. Very still.
 
 He felt it in her.
 

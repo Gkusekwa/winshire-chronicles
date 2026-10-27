@@ -229,7 +229,7 @@ Neither of them said how many that was.
 
 "In the letter. *Don't tell anyone.* And Lisska said: *She says she'll count them in.*"
 
-She almost smiled. On the right side. The left didn't move. It hadn't for a long time.
+The right side of her mouth went up. The left didn't move. It hadn't in months.
 
 ---
 
@@ -277,7 +277,7 @@ He'd emptied them out of his own coat onto that same table, the spring before, a
 
 "I didn't know if you meant to."
 
-She looked at the bundle a long time.
+She looked at the bundle.
 
 "Neither did I," said the knight.
 
@@ -377,7 +377,7 @@ Liss made the scow fast. She came up beside him with her shawl over her head and
 
 "No."
 
-"Good," said Liss. "I'd not have believed her."
+"Good," said Liss. "I'd not have believed her. Go and get warm."
 
 She went up the steps.
 

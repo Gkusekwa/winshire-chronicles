@@ -70,7 +70,7 @@ Above them, in the roof, the rune was lit.
 
 Faint. White. The lines that Tam had cut, glowing along their edges. Holding.
 
-He looked at it a long time.
+He looked at it.
 
 He'd said the strokes. A smith who couldn't read had cut them. A knight who couldn't feel her hands had held the stone. A lion lying across a slope had put his earth through her.
 
@@ -266,7 +266,7 @@ She'd seen them go down. He knew that. She'd said so on the step in the morning,
 
 ---
 
-She looked at the glass. She didn't say anything, and he didn't say anything to her.
+She looked at the glass, and neither of them spoke.
 
 She lay back down against the wall. She put her hand on the dog.
 

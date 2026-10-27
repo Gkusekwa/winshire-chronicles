@@ -148,7 +148,7 @@ He said it as he said everything. Without heat. As a man reads out a figure.
 
 He nodded.
 
-As at a figure. As if she'd confirmed a number he'd had written down for a long time.
+As at a figure. As if she'd confirmed a number he'd had written down for years.
 
 He looked back at the crack.
 
@@ -186,7 +186,7 @@ She held her hand out.
 
 ---
 
-He looked at her hand for a long time.
+He looked at her hand.
 
 ---
 
@@ -424,7 +424,7 @@ Calling.
 
 She heard it.
 
-Not in her ears. In the stone. In everything. Through her feet, through the plates, through the Titan, through the ground under the eddy, through the knot where every kingdom's tide-lines met. Out. In every direction. A sound under sound.
+In the stone. In everything. Through her feet, through the plates, through the Titan, through the ground under the eddy, through the knot where every kingdom's tide-lines met. Out. In every direction. A sound under sound.
 
 A call.
 

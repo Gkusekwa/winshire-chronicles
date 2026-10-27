@@ -177,7 +177,7 @@ She smelled it all the next day. On her hands. In her hair. She washed in the st
 
 They fought it on the ninety-second.
 
-Not on the ridge. Out on the Downs. Two leagues south-east, across its road. She had to turn it. If it came straight on, it came down the King's Road and over Beacon Ridge and into the valley onto the last columns. She had to make it turn its head, and walk a while somewhere else, and come back.
+Out on the Downs, two leagues south-east, across its road. She had to turn it. If it came straight on, it came down the King's Road and over Beacon Ridge and into the valley onto the last columns. She had to make it turn its head, and walk a while somewhere else, and come back.
 
 So she gave it something to look at.
 
@@ -291,7 +291,7 @@ And behind her, in the cutting, the heartstone wagon roared.
 
 She looked back. The hearts in their cages had gone from red to white. All of them. Burning. The brass lines glowing. Strake standing over them with her burned hands up as if warming them at a fire.
 
-*Stand.* Six hundred voices. Over and over. Not loud. Steady.
+*Stand.* Six hundred voices. Over and over, steady.
 
 ---
 
@@ -305,7 +305,7 @@ And stopped.
 
 It stood there.
 
-The size of a hill, at the foot of the ridge, in the ward. Not pushing. Standing. Its head lowered a little, as if it were looking at the shimmer, as if it were trying to understand what had stopped it.
+The size of a hill, at the foot of the ridge, in the ward. Standing still. Its head lowered a little, as if it were looking at the shimmer, as if it were trying to understand what had stopped it.
 
 *Stand.*
 

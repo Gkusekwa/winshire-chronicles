@@ -286,7 +286,7 @@ Not holding anything.
 
 He didn't answer.
 
-Not because he couldn't. She could feel him hear her. He was drifting. Somewhere in himself. Away from her. Out on the water at the end of a slack rope.
+She could feel him hear her. He was drifting. Somewhere in himself. Away from her. Out on the water at the end of a slack rope.
 
 ---
 

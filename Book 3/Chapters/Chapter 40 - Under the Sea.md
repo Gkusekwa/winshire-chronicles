@@ -38,7 +38,7 @@ Kit grounded the boat at the road's end and got out into the shallows and looked
 
 Up. A long way.
 
-She didn't say anything for a long time.
+She kept quiet.
 
 "Well," she said at last. "That won't go in the hold."
 
@@ -336,7 +336,7 @@ Broken. Grey. Old.
 
 She knew them.
 
-Not from seeing. From the farmer's letter, and Lisska's echo, and the old man's notes. A temple on a reef, two leagues off, or more, off a coast. Columns. A dome, broken in. And in the dome, once, a bell, old-realm bronze the size of a house, ringing as the water poured past it.
+From the farmer's letter, and Lisska's echo, and the old man's notes. A temple on a reef, two leagues off, or more, off a coast. Columns. A dome, broken in. And in the dome, once, a bell, old-realm bronze the size of a house, ringing as the water poured past it.
 
 The Drowned Bell.
 

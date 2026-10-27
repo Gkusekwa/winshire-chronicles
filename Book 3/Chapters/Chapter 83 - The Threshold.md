@@ -167,7 +167,7 @@ One.
 
 She saw him change.
 
-Not grow. He couldn't grow; he was as big as anything there was. He was heavier. Denser. As stone is denser than earth. His grey going darker. His edges sharper against the storm's light. A hill that had been a hill and a little more, and was now only a hill, entirely, all of it him, nothing kept back.
+He couldn't grow; he was as big as anything there was. He was heavier. Denser. As stone is denser than earth. His grey going darker. His edges sharper against the storm's light. A hill that had been a hill and a little more, and was now only a hill, entirely, all of it him, nothing kept back.
 
 One lion. At the foot of a mountain.
 

@@ -104,7 +104,7 @@ She didn't see it begin. She was in the barn. Davin came up the loft ladder at m
 
 The Wend was pale.
 
-All of it. The whole river, from the pontoon down past the camp and up past the barn, as far as she could see. Brown water, every day of her life. Pale now. Not cloudy. Pale. As if a light had come into it from underneath and was lying along its bed.
+All of it. The whole river, from the pontoon down past the camp and up past the barn, as far as she could see. Brown water, every day of her life. Pale now, as if a light had come into it from underneath and was lying along its bed.
 
 Cold. She could feel the cold off it on the bank.
 
@@ -210,7 +210,7 @@ She looked round.
 
 Her knights were looking at her.
 
-Two hundred and ninety of them. On their greyharts and off them. The ones who'd held the Downs. They were looking at her. Not at the light. At their Marshal. Waiting.
+Two hundred and ninety of them. On their greyharts and off them. The ones who'd held the Downs. They were looking at her, their Marshal, and waiting.
 
 And the crown's men behind them. And the militia. Agnes Wick's porters from the corn exchange, half of them on their knees and half of them not, looking from the light to her and back. Unsure.
 

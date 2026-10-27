@@ -347,7 +347,7 @@ Tobin looked at him from the brake.
 
 Callis went.
 
-Across the Flat. Through the smoke. Between the engines. Toward the ring. Not running. Walking, with his crooked arms at his sides, as he'd walked the gate at Greyhold.
+Across the Flat. Through the smoke. Between the engines. Toward the ring. Walking, with his crooked arms at his sides, as he'd walked the gate at Greyhold.
 
 ---
 

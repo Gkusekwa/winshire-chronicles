@@ -314,7 +314,7 @@ NOBODY DIED OF IT.
 
 He gave Davin the board.
 
-Davin looked at the page a long time. Then he put it in the case, at the end, on top of all the others, and shut the case.
+Davin looked at the page. Then he put it in the case, at the end, on top of all the others, and shut the case.
 
 "That's the last," said Davin.
 
@@ -398,7 +398,7 @@ To the edge.
 
 ---
 
-He looked for a long time.
+He looked.
 
 He looked at every horizon. Every road. Every city on every line the old man had named to Davin in the night.
 

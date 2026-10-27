@@ -154,7 +154,7 @@ Two lions across the Sun Road. Shoulder to shoulder. Facing south.
 
 The light came on.
 
-She felt it through both of them. Heat. Not fire. Heat like an oven's door opened, like the inside of Tam's forge with your face in it. On the lions' faces. On their manes. On their shoulders as it came up to them.
+She felt it through both of them. Heat like an oven's door opened, like the inside of Tam's forge with your face in it. On the lions' faces. On their manes. On their shoulders as it came up to them.
 
 *Hold*, she said.
 
@@ -394,7 +394,7 @@ She'd tied up. She stood on the landing with her hands on her hips and looked up
 
 "The two-hundred-and-fortieth?"
 
-"Whenever it was. I'm not Davin." Liss sniffed. "The camp's rope-walk laid me a new one. Three-strand. It'll hold." She looked at Maren's face. "What happened to your face?"
+"Whenever it was. I'm not Davin." Liss sniffed. "The camp's rope-walk laid me a new one, three-strand, and it'll hold. Now then." She looked at Maren's face. "What's happened to your face, love?"
 
 "I don't know," said Maren.
 

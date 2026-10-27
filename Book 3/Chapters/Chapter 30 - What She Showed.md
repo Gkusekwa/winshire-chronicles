@@ -75,7 +75,7 @@ They didn't talk about it. They kept the watch for each other.
 
 Her name came on the hundred-and-twenty-ninth.
 
-Not a word. The great grey shape didn't use words. She gave Orrun things, slowly, over days, and Orrun passed them on: a feeling, a picture, a weight. And one of them, on the fourth day, came through into Maren's head as a name.
+The great grey shape didn't use words. She gave Orrun things, slowly, over days, and Orrun passed them on: a feeling, a picture, a weight. And one of them, on the fourth day, came through into Maren's head as a name.
 
 The shape had another name. Maren knew that. That name was light and stone and older than speech, and nothing in her could hold it. What Orrun gave her was its shape. And the shape came out in her own tongue, in her own head, as a name she'd heard before.
 
@@ -113,13 +113,13 @@ And the Grey Mother showed them.
 
 *A land. Green to its edges.*
 
-She was in it. Not seeing it. In it. As you are in a dream you know is a dream, and are in it anyway.
+She was in it, as you are in a dream you know is a dream, and are in it anyway.
 
 Green hills. Green valleys. A sky without smoke. And across all of it, from the edge of sight to the edge of sight, roads. Grey roads, of the same grey stone, straight, with milestones every league, crossing rivers on bridges of grey stone that stood up out of the water on piers.
 
 And on the roads, people.
 
-And beasts. Walking with them. Among them. Not on chains. Not on leads. Walking. A woman on a road with a great grey cat padding beside her, its shoulder at her shoulder, the two of them talking. A boy on a bridge with a bird on his wrist that wasn't hooded. Lions on the steps of a tower, and people going up the steps past them and bowing, and the lions bowing back.
+And beasts. Walking with them. Among them, with no chain or lead on them. A woman on a road with a great grey cat padding beside her, its shoulder at her shoulder, the two of them talking. A boy on a bridge with a bird on his wrist that wasn't hooded. Lions on the steps of a tower, and people going up the steps past them and bowing, and the lions bowing back.
 
 She'd heard of the lions. Aurveth had shown the farmer, and he'd said so in a letter. Nobody had said they bowed back.
 
@@ -143,7 +143,7 @@ The milestones. The arch. The chains.
 
 *And then iron.*
 
-The picture changed. Darkened. A forge. A man at the forge, with a hammer, and on the anvil, iron, and on the iron, the hooked marks. Not cut into stone. Struck into iron. Into a ring of iron.
+The picture changed. Darkened. A forge. A man at the forge, with a hammer, and on the anvil, iron, and on the iron, the hooked marks. Struck into iron this time. Into a ring of iron.
 
 A collar.
 

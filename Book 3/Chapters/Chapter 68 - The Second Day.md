@@ -68,7 +68,7 @@ Along its front again. White fire. A league. But not to stop it this time. To tu
 
 Where it wanted to go.
 
-And again. And again. Driving it. Not back into the hills. Down. Toward the Wend. Toward the shallows below the eddy.
+And again. And again. Driving it. Down. Toward the Wend. Toward the shallows below the eddy.
 
 ---
 
@@ -224,7 +224,7 @@ The reverse of the chains.
 
 The line saw it.
 
-He heard it. Both banks. A hundred and six thousand people, under the wards, seeing it. Not cheering yet. A sound like a breath taken in.
+He heard it. Both banks. A hundred and six thousand people, under the wards, seeing it. A sound like a breath taken in.
 
 The Sun down in the shallows under its kin's light. The Coil pinned in the north. The Bell held off at the mouth. The Last Titan down in its old prison with the lion's foot on its neck.
 

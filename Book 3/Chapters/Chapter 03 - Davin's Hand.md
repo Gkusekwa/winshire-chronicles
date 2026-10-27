@@ -41,7 +41,7 @@ He got down and led the mule round the lion, very carefully, and knocked on the 
 
 "To Hallowmere," said Davin. "To tell the city what's coming. The council won't." He looked past Liss into the kitchen. At the table. At the envoys round it, four of them, with their cups. At Idony at the window. "Is this where everyone is?"
 
-"Everyone who's left," said Liss.
+"Everyone who's left," said Liss. "Sit down. There's tea."
 
 ---
 
@@ -251,7 +251,7 @@ Idony listened.
 
 "Far-stone," the boatman was saying. To Liss. Laughing. "That's what they call it on Gallows Quay. Grey stuff. Old. Flakes off a block, so big." He showed a thumbnail. "A Blackwater salvage house brings it in. Off some wreck out on the Shatters, they say. Sells it to the charm-sellers, and the charm-sellers sell it on, warranted, as old charms." He grinned. "Two silver a flake."
 
-"And?" said Liss.
+"And what's the joke, then?" said Liss.
 
 "And the joke is," said the boatman, "one in ten of them works."
 

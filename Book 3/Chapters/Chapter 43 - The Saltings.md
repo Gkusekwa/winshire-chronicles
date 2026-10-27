@@ -387,7 +387,7 @@ She felt him want to go. Not to fight. To go. As he'd gone to the Hollow Ring wh
 
 *It's lying in the water,* said Orrun. *Alone. Burning.*
 
-She didn't say anything. She put her hand on his head, between his ears, in the mist.
+She put her hand on his head, between his ears, in the mist.
 
 ---
 
@@ -397,6 +397,4 @@ He put his head down. Slowly. Turned it back from the north-west, to the west, t
 
 And walked on.
 
-She counted his steps in the dark, out loud, until she fell asleep between his ears.
-
-He stayed awake.
+She counted his steps out loud, into the dark.

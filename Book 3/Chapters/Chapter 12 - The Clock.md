@@ -297,7 +297,7 @@ The hall was quiet.
 
 The pendulum went *tock*.
 
-Then Rennick laughed. Not unkindly. As a man laughs at a child who's said she'll catch the moon.
+Then Rennick laughed, kindly enough, as a man laughs at a child who's said she'll catch the moon.
 
 "Over the sea," he said. "Past the Shatters. Where nobody's ever come back from."
 

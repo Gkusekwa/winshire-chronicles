@@ -395,7 +395,7 @@ The Lamp's words. The horned shape at the south end, standing by the spring in i
 
 *I will carry it.*
 
-The old man let his hand fall from his eyes. He looked at the Lamp, squinting, his eyes running. He didn't say anything.
+The old man let his hand fall from his eyes. He looked at the Lamp, squinting, his eyes running.
 
 He sat down on the paving by the arch.
 

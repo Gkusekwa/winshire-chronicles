@@ -136,7 +136,7 @@ And the catch.
 
 The fire went up to the roof.
 
-All of it. All at once. Not a flame: a sheet. Gold, then white, out of the hearth and up the wall and across the roof of the cave in a roar, so that for a breath the whole cave was lit like noon and everyone in it was standing in their own shadow.
+All of it. All at once, in a sheet. Gold, then white, out of the hearth and up the wall and across the roof of the cave in a roar, so that for a breath the whole cave was lit like noon and everyone in it was standing in their own shadow.
 
 The turf was gone, in a breath, to ash.
 

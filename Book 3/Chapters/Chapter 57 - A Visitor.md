@@ -159,7 +159,7 @@ Then he looked at Idony's face.
 
 "I know."
 
-"The chains made it what it is," said Corvin. "You know that too. Better than anyone. Your College designed them. Six chains. *Hold*, inside every link. Three hundred years, feeding on what it held. It went under the river a sleeper and it came out a destroyer, and we made it one." He didn't raise his voice. He never did. "There are two things you can do with a thing like that. Chain it. Or command it."
+"The chains made it what it is," said Corvin. "Your College designed them. Six chains, *hold* inside every link, and three hundred years feeding on what it held. It went under the river a sleeper and came out a destroyer." He didn't raise his voice. He never did. "So. Chain it, or command it."
 
 "You said that on the ship."
 
@@ -285,7 +285,7 @@ He told it.
 
 The barn went quiet.
 
-"I'd know your pinning anywhere," said Idony. "I've mended Kessmoor glasses half my life. The knuckles. The brass. The way the cuff takes the strap." He held his own shaking hand up. "And a stamp on the back. Half filed off. A ring and a rule."
+"I'd know your pinning anywhere," said Idony. "I've mended Kessmoor glasses half my life. The knuckles. The brass. How the cuff takes the strap." He held his own shaking hand up. "And a stamp on the back. Half filed off. A ring and a rule."
 
 ---
 

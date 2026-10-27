@@ -233,7 +233,7 @@ Not Kharrak's. Hers.
 
 He'd never asked her for it.
 
-She had it. He'd felt it in her since the beginning. Not fire. She had a little fire, and used it, and it was nothing to Kharrak's. Under the fire, in her, something else. Something that moved. That she rode on, every day, without thinking. That she'd ridden through the gale at Corsa with a chain in her claws.
+She had it. He'd felt it in her since the beginning. She had a little fire, and used it, and it was nothing to Kharrak's. Under the fire, in her, something else. Something that moved. That she rode on, every day, without thinking. That she'd ridden through the gale at Corsa with a chain in her claws.
 
 Wind.
 
@@ -245,7 +245,7 @@ He'd never asked. He asked now.
 
 It came up out of her into him.
 
-Through his hand. Up his arm. Into his chest. Not heat. Not fire. A pressure. A great breath, coming in, as if the sky itself were breathing into him through her. Filling him. More than he could hold.
+Through his hand. Up his arm. Into his chest. A pressure. A great breath, coming in, as if the sky itself were breathing into him through her. Filling him. More than he could hold.
 
 He let it out.
 

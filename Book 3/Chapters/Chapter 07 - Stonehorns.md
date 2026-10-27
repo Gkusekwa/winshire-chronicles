@@ -195,7 +195,7 @@ The Ysse had four fords.
 
 Four places where the drove roads came down off the Plains to the river and crossed it, where the bed was gravel and the banks were low.
 
-She looked at them from the bank on the twentieth day. The river high. Green. Fast. Snowmelt out of the Worldsend, out of the lake, coming down past them with a sound like wind in a wood. The fords were under it. You could see where they were by the way the water humped over the gravel.
+She looked at them from the bank on the twentieth day. The river high. Green. Fast. Snowmelt out of the Worldsend, out of the lake, coming down past them with a sound like wind in a wood. The fords were under it. You could see where they were by how the water humped over the gravel.
 
 Too deep for a child. Too fast for an old man. The stonehorns could cross. The people couldn't.
 
@@ -385,7 +385,7 @@ At ten thousand people on the west bank, with their carts and their fires and th
 
 At the lion.
 
-He looked at the lion for a long time. Then at the woman on its back with her legs hanging down.
+He looked at the lion. Then at the woman on its back with her legs hanging down.
 
 He put the falcon up. It went west, low, and was gone. Then he turned his horse round and the three of them went back the way they'd come.
 

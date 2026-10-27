@@ -286,7 +286,7 @@ The gull-hawk came on the sixty-sixth.
 
 Into Blackwater at noon from the west, low over the water, to the perch on Fosse's roof. Ostrey's bird. From Corsa. Fosse's boy took the tube off its leg and ran it in.
 
-By dark the whole inlet knew. Not from Fosse. From a Corsa smuggler who'd come in on the same wind with a hold full of something he wasn't saying, and drank at the sellswords' fire on the beach, and talked.
+By dark the whole inlet knew, though Fosse hadn't said a word. A Corsa smuggler had come in on the same wind with a hold full of something he wasn't saying, and drunk at the sellswords' fire on the beach, and talked.
 
 ---
 

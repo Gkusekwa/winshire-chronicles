@@ -27,7 +27,7 @@ Tobin watched them do it on the fifteenth morning, as he watched them every morn
 
 At noon they'd stop at the fish-market, and the tribunes would give them bread.
 
-A loaf each. The size of a cartwheel. It wasn't enough. It was what there was.
+A loaf each. The size of a cartwheel. It was all there was, and it wasn't enough.
 
 ---
 
@@ -105,7 +105,7 @@ Kessmoor bread. Dark, heavy, square loaves in sacks, a whole cart of it, more th
 
 "For the tribunes," said Moss. "To give out as they like." He wrote something. "That's not the contract. That's to show the contract's real."
 
-"What contract?" said Tobin.
+"Contract? What contract?" said Tobin.
 
 Moss looked at him.
 
@@ -199,11 +199,11 @@ Three thousand signed.
 
 Moss wrote every name. In his ledger, at a table in the fish-market, for three days, one after another. He wrote the names of the ones who could write their own and the names of the ones who couldn't, and he asked each one their trade and wrote that down too, and their age, and whether they had children with them.
 
-"Why?" said Tobin. On the third day. Watching him.
+"Why all of it?" said Tobin. On the third day. Watching him. "Ages. Children. Why?"
 
 "Because they're people," said Moss. "Kessmoor writes people down."
 
-"In Sarovel they write down who chose you."
+"In Sarovel they write down who chose you. That's all."
 
 Moss looked up at him.
 
@@ -217,7 +217,7 @@ On the last night. At the fish-market's fire. He'd finished his ledger and close
 
 "Ashdown," he said. "Have you heard?"
 
-"Nothing," said Tobin. "Not since the river. Perrin went north in the winter with my letter. He hasn't come back."
+"Nothing," said Tobin. "Not since the river. Perrin took my letter north in the winter and never came back. Why? What've you heard?"
 
 "She's on the Wyldmarch border," said Moss. "With the clans. A stage-rider had it on the Sun Road, three days back. The clans are running west off the Plains, and she's gone east to bring them over, and the crown's shut its border." He looked at the fire. "The crown's council may outlaw her."
 

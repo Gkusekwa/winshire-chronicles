@@ -79,7 +79,7 @@ He'd heard about it all his life. Everybody in the Marches had. The great wood. 
 
 It was grey.
 
-All of it. As far as he could see in the dusk, from the downs to the edge of the sky. Grey sticks. Bare. Dead. Not burned, not fallen. Standing. Every tree in it, dead on its feet, grey as bone.
+All of it. As far as he could see in the dusk, from the downs to the edge of the sky. Grey sticks. Bare. Dead, and standing. Every tree in it, dead on its feet, grey as bone.
 
 And at its heart, leagues in, a thing that moved.
 
@@ -197,7 +197,7 @@ He kept them there.
 
 The rocs did the rest.
 
-He hadn't known what Yeva meant at the fire, when she said the rocs would bring stones. He saw now. Four great rust-and-white birds coming in from the east, from the Worldsend's scree, a day's flight, with rocks in their feet. Not stones. Rocks. The size of carts.
+He hadn't known what Yeva meant at the fire, when she said the rocs would bring stones. He saw now. Four great rust-and-white birds coming in from the east, from the Worldsend's scree, a day's flight, with rocks in their feet the size of carts.
 
 They let them go over the wood.
 
@@ -443,7 +443,7 @@ And then not.
 
 ---
 
-At the back of the line, eleven. Under the wind still. Not running.
+At the back of the line, eleven. Under the wind still.
 
 Walking. Slowly. Two of them carrying a third between them. An old woman, in green, her legs gone. And the others with them. Waiting. Not leaving her.
 
@@ -499,7 +499,7 @@ And he couldn't hold it.
 
 ---
 
-It went out of him. Not all at once. As sand runs out of a torn sack. The wall of wind thinned. The trees leaned.
+It went out of him slowly, as sand runs out of a torn sack. The wall of wind thinned. The trees leaned.
 
 And came down.
 

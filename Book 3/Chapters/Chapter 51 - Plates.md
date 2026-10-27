@@ -82,7 +82,7 @@ Tova looked at him a long time.
 
 The riders didn't like it.
 
-He heard that too, after, in the dark, among the dragons. Not Coldtarn. Not the tarn. In a dead wood, in the Wyldmarch, where nobody'd ever poured. A grey-thread man said it to Arn's back.
+He heard that too, after, in the dark, among the dragons. In a dead wood, in the Wyldmarch, leagues from the tarn, where nobody'd ever poured. A grey-thread man said it to Arn's back.
 
 Arn turned.
 
@@ -224,7 +224,7 @@ His voice. Cracked. It still hurt.
 
 "We left the Wend on the two-hundred-and-fourteenth," said Tolley. "A week behind the clans. It was always the plan, Master Fenn. If the kill was made." He nodded at the fallen wood, and beyond it, the great still shape lying under its crown. "It was made."
 
-He looked pleased. Not unkindly. As a man looks at a field when the harvest's in.
+He looked pleased, as a man looks at a field when the harvest's in.
 
 ---
 
@@ -506,4 +506,4 @@ Numbers.
 
 ---
 
-He lay in the straw and listened to the old man shout numbers at a glass in the dark, and didn't understand any of it, and felt Aurveth on the ridge outside lift her head, and turn it, slowly, to the west.
+On the ridge outside, Aurveth lifted her head and turned it, slowly, to the west.

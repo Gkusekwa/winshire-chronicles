@@ -73,7 +73,7 @@ And the horse went.
 
 ---
 
-Under her. She felt it go. Not a shy. Something going out of it. Its head coming up, and round, and its eye on her, and nothing in its eye.
+Under her. She felt it go. Something going out of it. Its head coming up, and round, and its eye on her, and nothing in its eye.
 
 It reared.
 
@@ -107,7 +107,7 @@ They were there. Her four. The corn-exchange porters. They'd come up the wall af
 
 "Every camp," said Rowan.
 
-She'd thought about this. Not today. In the autumn. In the barn. On her knees in the frost at the empty cradle. She'd thought: if it comes, what's the one thing I'll say.
+She'd thought about this in the autumn. In the barn. On her knees in the frost at the empty cradle. She'd thought: if it comes, what's the one thing I'll say.
 
 "Run north. Every camp. Now. The Drover's Way. The River Road. Any road north." She looked at them. "By the Marshal's word."
 
@@ -307,7 +307,7 @@ And the cold.
 
 The front rank froze.
 
-Not all of them. Some. Where they stood. She saw a porter at the line's river end, a young man with a pike, go white. All at once. As a window frosts. His pike white. His face white. Standing. Not moving.
+Some of them, where they stood. She saw a porter at the line's river end, a young man with a pike, go white. All at once. As a window frosts. His pike white. His face white. Standing. Not moving.
 
 The cold came off the Coil like a wall. A spear's length of it. Anything inside it, stopped.
 

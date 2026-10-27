@@ -80,7 +80,7 @@ The hands called it the Bridle.
 
 He struck at the fifth chain-forge.
 
-There were twenty. Along the Ring Yard's south side, in an iron shed open on one side to the yard, so the links could be swung out on the cranes as they were made. Twenty forges, twenty smiths, and at each one, two or three hands to strike. Sarovel's hands. Big ones, for the sledges. He wasn't big. He was all elbows. He'd always been.
+There were twenty. Along the Ring Yard's south side, in an iron shed open on one side to the yard, so the links could be swung out on the cranes as they were made. Twenty forges, twenty smiths, and at each one, two or three hands to strike. Sarovel's hands. Big ones, for the sledges. He was all elbows, and always had been.
 
 He struck anyway. He'd made them let him. If his hands were striking, he'd strike.
 

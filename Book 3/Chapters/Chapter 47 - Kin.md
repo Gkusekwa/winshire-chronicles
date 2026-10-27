@@ -25,7 +25,7 @@ The dogs wouldn't come to her now.
 
 She noticed it on the two-hundred-and-sixth, walking up from the water-meadow in the morning. Every hound in the camp was a knight's hound. She'd grown up among them. Hounds came to Maren Ashdown. They always had, in the yard at Greyhold, in the kennels at Millbrook, nosing at her pockets.
 
-They didn't now. They saw her coming along the camp road and got up and went the other way. Not running. Not growling. Only going. As water goes round a stone.
+They didn't now. They saw her coming along the camp road and got up and went the other way. They went at a walk, without a growl, as water goes round a stone.
 
 People did the same.
 

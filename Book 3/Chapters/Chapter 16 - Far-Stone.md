@@ -331,7 +331,7 @@ At the pages on it. In Maren's square hand.
 
 He read them. Upside down, from the ladder's foot, easily, as a man reads a price-board across a market. His lips didn't move. His eyes went along the lines and down.
 
-Idony saw him do it. He noticed that the bosun could read, and read well. He didn't say anything. It was a Saltreach ship. Everyone on it read prices.
+Idony saw him do it. He noticed that the bosun could read, and read well, and kept it to himself. It was a Saltreach ship. Everyone on it read prices.
 
 Gannet smiled at him, and went back up the ladder.
 

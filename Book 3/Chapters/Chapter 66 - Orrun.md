@@ -266,7 +266,7 @@ She said it again.
 
 Into the ground.
 
-Low. Bent down over her hands. Her mouth almost on the earth. Not at it. Into it.
+Low. Bent down over her hands. Her mouth almost on the earth. Into it.
 
 With him behind it.
 

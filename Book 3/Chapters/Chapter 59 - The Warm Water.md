@@ -27,7 +27,7 @@ She went north on the two-hundred-and-ninety-fourth.
 
 On a day the farmer would be on the river. Liss had told her which days. Liss knew everything that went past the ferry house, and the three went past it every morning, down the Wend, and came back every evening, up it.
 
-"Tomorrow and the day after he's at the mouth," said Liss. "Watching the Bell." She looked at Maren. "Is that what you wanted to know?"
+"Tomorrow and the day after he's down at the mouth," said Liss. "Watching the Bell. Back up at dusk both days, hungry." She looked at Maren. "That what you wanted to know?"
 
 "Yes."
 
@@ -55,7 +55,7 @@ She didn't go to it.
 
 She knew who was there. The old woman with the shawl. The girl with the plait, who'd made her say things twice once, at Greyhold, a lifetime ago. The farmer's mother and the farmer's daughter.
 
-She sat on the lion's head on the lip of the bowl in the dusk and looked at the lantern for a long time.
+She sat on the lion's head on the lip of the bowl in the dusk and looked at the lantern.
 
 Then she had him lie down where he was, and slept against his foreleg in the snow.
 
@@ -133,7 +133,7 @@ She didn't need them.
 
 The scree moved.
 
-As water moves. All of it. The whole grey fan of it at the crag's foot, fifty feet deep, sliding. Not falling. Sliding. Aside. Away from the crag. In a long slow grey pour down into the tarn's shallows, stone over stone, with a sound like a river going over a weir. The snow on it going with it. The tarn's edge filling.
+As water moves. All of it. The whole grey fan of it at the crag's foot, fifty feet deep, sliding. Aside. Away from the crag. In a long slow grey pour down into the tarn's shallows, stone over stone, with a sound like a river going over a weir. The snow on it going with it. The tarn's edge filling.
 
 It took the time of a long breath.
 
@@ -153,7 +153,7 @@ And across the lintel above it, cut into the rock in a line, the hooked script.
 
 Small. Neat. A row of little bent strokes, each like a fish-hook. The writing of the old realm. Of the arch at Greyhold. Of the far shore.
 
-She couldn't read it. She'd never been able to. She looked at it a long time anyway, so that she could tell the old man.
+She couldn't read it. She'd never been able to. She looked at it anyway, carefully, so that she could tell the old man.
 
 ---
 
@@ -205,7 +205,7 @@ Long. Longer than the lantern could reach. A floor of flat grey stone, dry, with
 
 And warm.
 
-Not warm like a fire. Warm like a body. Like a beast's flank in winter. The stone itself. The floor, under her boots. She knelt and put her hand on it, and watched her hand on it, and couldn't feel the warmth in her hand but felt it come up through her knees.
+Warm like a body. Like a beast's flank in winter. The stone itself. The floor, under her boots. She knelt and put her hand on it, and watched her hand on it, and couldn't feel the warmth in her hand but felt it come up through her knees.
 
 The Deep, running under the floor. Under Coldtarn. Under them.
 
@@ -269,7 +269,7 @@ That was when Arn said it.
 
 "Then the Clan's," said Arn.
 
-Quietly. Not angry. As a man states a figure.
+Quietly, as a man states a figure.
 
 "Three hundred and forty. They're half a day off. On the ledges. At Varrhold. They'll be here before anyone else, if it comes. They'll fill it."
 
@@ -291,7 +291,7 @@ He wasn't angry either. He was never angry. He stood in the warm dark with the l
 
 They argued.
 
-Not loudly. In the warm dark, under the pillars, with the lantern, for a long time. Arn's families. Tam's wagons. The smiths' wives and children from Ironhythe, who'd come down to the Vale in the autumn. The clans. The Sun Road's eight thousand. The upper Wend's two thousand. The coast's.
+Not loudly. In the warm dark, under the pillars, with the lantern. Arn's families. Tam's wagons. The smiths' wives and children from Ironhythe, who'd come down to the Vale in the autumn. The clans. The Sun Road's eight thousand. The upper Wend's two thousand. The coast's.
 
 A hundred thousand on the Vale.
 
@@ -435,7 +435,7 @@ She looked at the wrapped hand.
 
 They were back at the Vale on the two-hundred-and-ninety-seventh.
 
-At noon. Over the Scarfell's lip, down the Drover's Way, down the Saltreach bank. To the eastern wall. Her wall. Grey, straight, twice a man's height, going away from the river to the scrub.
+At noon. Over the Scarfell's lip, down the Drover's Way, down the Saltreach bank. To the eastern wall. Her wall. Grey, straight, two men high, going away from the river to the scrub.
 
 There were men on it.
 

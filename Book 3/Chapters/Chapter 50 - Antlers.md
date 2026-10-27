@@ -524,7 +524,7 @@ It was dusk.
 
 She tried to count it.
 
-The day. The hours of it. She couldn't. There was nothing to count. The third hour, and then dusk, and nothing between. Not a gap. Not dark. Nothing. As if someone had cut the day out of her with a knife and pressed the edges together.
+The day. The hours of it. She couldn't. There was nothing to count. The third hour, and then dusk, and nothing between. As if someone had cut the day out of her with a knife and pressed the edges together.
 
 She'd lost it.
 
@@ -560,7 +560,7 @@ And crying.
 
 She'd never heard it.
 
-Not from them. Not from any dragon. A long high call. All three. Over and over. Not a roar. Not the sound they made over a pour. Something thinner. Higher. Like wind in a split tree.
+Not from them. Not from any dragon. A long high call. All three. Over and over. Thinner than a roar, and higher than the sound they made over a pour. Like wind in a split tree.
 
 Round and round over the dead Antlered in the dark, crying.
 

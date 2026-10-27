@@ -132,7 +132,7 @@ Rowan's face didn't change.
 
 "And I'm Marshal of the Border," said Rowan. "Since the forty-second. The road's in my keeping."
 
-She turned her horse. Not away. Side-on. Across the road's edge, on the far side, at the end of the right-hand line of men. So that the road was open in front of her, down the lane between the lines, and into the oaks.
+She turned her horse side-on. Across the road's edge, on the far side, at the end of the right-hand line of men. So that the road was open in front of her, down the lane between the lines, and into the oaks.
 
 ---
 
@@ -272,7 +272,7 @@ Maren read it by the fire with Tova and Rhun and Dickon watching her.
 
 *Then the other five. All at once. On the 41st day at noon. He says the six leans went still for a long breath, and then each of them leaned a different way.*
 
-*He worked out which was which from the charts and the way they lean. He sat up two nights. I made him sleep the third.*
+*He worked out which was which from the charts and how they lean. He sat up two nights. I made him sleep the third.*
 
 ---
 
@@ -330,7 +330,7 @@ Tova looked at her.
 
 The Kessmoor rider came on the fiftieth day.
 
-Down the Greenwold road from the west, through the oaks, on a big black horse. Not bonded. She could tell by the way it went, steady and stupid and paying the wolves no attention at all. A man in black and grey with a brass clasp at his collar. He rode to the crown men's fire at the planks, and then Rowan sent a knight to fetch Maren, and she went.
+Down the Greenwold road from the west, through the oaks, on a big black horse. Not bonded. She could tell by how it went, steady and stupid and paying the wolves no attention at all. A man in black and grey with a brass clasp at his collar. He rode to the crown men's fire at the planks, and then Rowan sent a knight to fetch Maren, and she went.
 
 He had sheets. Printed. Kessmoor printed things.
 

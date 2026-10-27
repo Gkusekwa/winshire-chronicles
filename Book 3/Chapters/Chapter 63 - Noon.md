@@ -86,7 +86,7 @@ Two.
 
 North. Up the Wend. She felt it before she saw it. The cold.
 
-The river above the line, where it came down the Vale from Eskby and the upper villages, going black. Not white. Black. As it had above Eskby. The ice coming down the river toward them from the north like a shadow on the water, a league in a long breath, and stopping.
+The river above the line, where it came down the Vale from Eskby and the upper villages, going black, as it had above Eskby. The ice coming down the river toward them from the north like a shadow on the water, a league in a long breath, and stopping.
 
 A league above the line's northern edge. Under the ice. A pale light, long, coiling.
 
@@ -378,7 +378,7 @@ As oil goes along a wick.
 
 And the wards lit.
 
-Not bright. Not like the Lamp. A glow. Pale gold and pale blue, mixed, all through them, from the river to the ends of the line. Two long low domes of light over the Vale, one on each bank. Over the knights and the olifants and the batteries on one side. Over the stonehorns and the Wardens and the sellswords on the other.
+A low glow, dimmer than the Lamp's. Pale gold and pale blue, mixed, all through them, from the river to the ends of the line. Two long low domes of light over the Vale, one on each bank. Over the knights and the olifants and the batteries on one side. Over the stonehorns and the Wardens and the sellswords on the other.
 
 Lit. Holding.
 

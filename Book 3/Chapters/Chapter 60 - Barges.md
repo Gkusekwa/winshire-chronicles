@@ -122,7 +122,7 @@ At Cutter's Elbow. The bend two leagues above the Sheepford, where the river wen
 
 Nobody drowned.
 
-They got everyone off onto the next barge, across planks, in the dark, with the old captain standing on his own sinking deck handing children over and swearing. He came off last. He stood on her deck and watched his barge go down in the grey water and didn't say anything.
+They got everyone off onto the next barge, across planks, in the dark, with the old captain standing on his own sinking deck handing children over and swearing. He came off last. He stood on her deck and watched his barge go down in the grey water.
 
 She gave him a pole.
 

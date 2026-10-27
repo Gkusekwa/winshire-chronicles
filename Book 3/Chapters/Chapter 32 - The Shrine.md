@@ -243,7 +243,7 @@ Out of habit. He didn't think. It was what you did at a crossroads, on the way h
 
 The light spoke.
 
-Not in letters. Not in the air. In him. Through all three of them at once. He felt it come in through Kharrak and Lisska and Aurveth together, through three bonds, so that it came into his head as three voices.
+In him. Through all three of them at once. He felt it come in through Kharrak and Lisska and Aurveth together, through three bonds, so that it came into his head as three voices.
 
 And the three voices were one.
 

@@ -133,7 +133,7 @@ He sat in his chair with the shaking glasses on his knees.
 
 "Without further word," he said.
 
-"Without the Marshal," said Tobin. "Without her word. That's what he said. On the hour. Whatever she says." He was still holding the chair's arm. "The hour's noon, master. The Hall's noon. They set the watches last night. All of them. By Wardle's."
+"Without the Marshal," said Tobin, over him. "Without her word. That's what he said. On the hour. Whatever she says." He was still holding the chair's arm. "The hour's noon, master. The Hall's noon. They set the watches last night. All of them. By Wardle's."
 
 ---
 
@@ -143,7 +143,7 @@ He knew why. He didn't know the rest of it.
 
 "Why do they think they can? The relic doesn't answer people. It doesn't answer a bound beast, or a chained one. It only answers a breath with nothing between it and the Deep." He looked at the Lamp on the Last Titan's back. "That's why the Lamp. That's the whole plan."
 
-"Callis said that too," said Tobin.
+"I know. Callis said it," said Tobin.
 
 ---
 

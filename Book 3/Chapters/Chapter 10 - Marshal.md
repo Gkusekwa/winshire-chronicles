@@ -102,7 +102,7 @@ Nobody in Hallowmere had seen anything work in more than a year.
 
 The girl was in a dry cistern under a broken grate in a court behind the dyers'.
 
-Not hurt. Frightened. She'd climbed in after a cat and couldn't climb out. Ash stood over the grate and barked once, and Wynn got down on his belly and reached in and lifted her out by the wrists.
+Frightened, and unhurt. She'd climbed in after a cat and couldn't climb out. Ash stood over the grate and barked once, and Wynn got down on his belly and reached in and lifted her out by the wrists.
 
 The court was full. They didn't cheer. They stood and looked at the hound.
 
@@ -402,7 +402,7 @@ She read it again.
 
 *Pending.* Thale's word. He'd used it once before, on the steps of the chapter-house, for a farmer with three dragons. She'd been there.
 
-She folded the letter. Not small, this time. Once, along its length, and put it inside her surcoat against her chest.
+She folded the letter once this time, along its length, and put it inside her surcoat against her chest.
 
 The seal was the crown's. A seal was a seal. The council had put its seal on the road in her keeping. Whatever it thought of her, it had bound itself to that, under the crown, and a seal didn't come off because the man who'd pressed it was afraid.
 

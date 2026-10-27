@@ -169,7 +169,7 @@ It put its shoulder to the *Kittiwake*'s side.
 
 She felt the ketch stop.
 
-The whole length of her. As if she'd struck, but softly. Not on rock. On something that gave a little and held. The planking groaned. The mast shook. The swell went on past, under her, over the stone shoulder, white, roaring.
+The whole length of her. As if she'd struck, but softly, on something that gave a little and held. The planking groaned. The mast shook. The swell went on past, under her, over the stone shoulder, white, roaring.
 
 The *Kittiwake* hung there in the Needle with a stone lion holding her off the rock.
 
@@ -323,7 +323,7 @@ The knight was at the bow rail.
 
 Alone. Her coat fastened to the throat. The grey on her neck pale in the light from the shore.
 
-Kit went forward. She didn't know why. She stopped a little way off.
+Kit went forward. She stopped a little way off.
 
 The knight's lips were moving.
 
@@ -358,7 +358,3 @@ And the knight began again. Under her breath.
 Kit didn't ask what she was counting.
 
 She went back to the stern, to the anchor-light, and sat on the coaming with her back against the rail and her father's book on her knees, shut, and watched the light breathe on the hills of the shore at the end of the road.
-
-She didn't sleep.
-
-Nobody on the *Kittiwake* did. Not that night.

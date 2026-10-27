@@ -74,7 +74,7 @@ The Wend lay under her. All the way north. As far as she could see. Up the valle
 
 Black.
 
-Not white. Not the white of river ice, crusted, rough, with snow on it. Black. Clear. Smooth as a pane of glass. So clear she could see the river-bed through it from the hillside: stones, weed, the dark shapes of drowned trees. Fish. Hanging in it. Not moving.
+Clear, where river ice should have been white and crusted and rough with snow. Smooth as a pane of glass. So clear she could see the river-bed through it from the hillside: stones, weed, the dark shapes of drowned trees. Fish. Hanging in it. Not moving.
 
 Frozen in the middle of swimming.
 
@@ -206,7 +206,7 @@ The Coil came at noon on the two-hundred-and-seventy-fourth.
 
 She felt it before she saw it. They all did. The cold.
 
-Not the cold of the morning, which had been bad. A cold that came down the river from the north like a wind, though there wasn't any wind. A cold that made the air hurt to breathe. That made the rime on the reeds along the bank grow while she watched, feathering out, thickening, racing inland across the fields in a white line.
+Worse than the morning's, which had been bad. A cold that came down the river from the north like a wind, though there wasn't any wind. A cold that made the air hurt to breathe. That made the rime on the reeds along the bank grow while she watched, feathering out, thickening, racing inland across the fields in a white line.
 
 A bird fell out of the sky.
 
@@ -350,7 +350,7 @@ And something came up under her.
 
 ---
 
-Huge. Pale. Under her and the girl, coming up out of the deep water of the Wend's bed like the bed itself rising. Smooth. Cold. Not the Coil's cold. A different cold. Water's. Clean.
+Huge. Pale. Under her and the girl, coming up out of the deep water of the Wend's bed like the bed itself rising. Smooth. Cold, but a different cold from the Coil's. Water's. Clean.
 
 It lifted them.
 

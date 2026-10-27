@@ -214,7 +214,7 @@ And into him, stone.
 
 She saw it come.
 
-Out of the ridge. Out of the ground under the grass, and the paving of the road, and the columns of the hall behind her. Grey. Flowing. Up. Into Orrun. Not as rock. As water goes up a wick. The ridge's stone running up into his paws, up his legs, into his body, grey, steady, as if he were drinking the hill.
+Out of the ridge. Out of the ground under the grass, and the paving of the road, and the columns of the hall behind her. Grey. Flowing. Up into Orrun, as water goes up a wick. The ridge's stone running up into his paws, up his legs, into his body, grey, steady, as if he were drinking the hill.
 
 He grew.
 
@@ -232,7 +232,7 @@ The size of a hill. The size of the hill his mother had lain on. Grey. Grey as o
 
 The ground moved for him.
 
-She felt it. Under her, between his paws. The ridge's stone, flowing. Not breaking. Flowing. Round his paws, as water flows round a stone in a river. As if the whole of the far shore's stone had become, for him, something that would go where he wanted it to.
+She felt it. Under her, between his paws. The ridge's stone, flowing round his paws, as water flows round a stone in a river. As if the whole of the far shore's stone had become, for him, something that would go where he wanted it to.
 
 She'd pulled stone through herself all her life since the island. Lintels. Ridges. A chapel out of the sea.
 
@@ -428,7 +428,7 @@ She was asleep. Against his paw, in the grass, with him awake above her. She'd s
 
 She couldn't hear anything.
 
-Then she could. Through him. Not through her ears. Through the stone. He could feel the stone of the whole far shore now, leagues of it, every hill and road and buried column, as she'd once felt the floor of a single room. And through it, far off, to the south-west, something.
+Then she could. Through him, through the stone. He could feel the stone of the whole far shore now, leagues of it, every hill and road and buried column, as she'd once felt the floor of a single room. And through it, far off, to the south-west, something.
 
 Screaming.
 

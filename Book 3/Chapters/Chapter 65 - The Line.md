@@ -52,7 +52,7 @@ It wasn't hurrying. That was the worst of it. It walked along the ward as a man 
 
 Where the white went, the people under it said the words.
 
-She saw it first at the third hour. The white patch coming along the ward toward the stretch of line by the bend's eastern end, where the militia stood behind the wall: farm-men and porters and a forge's apprentices, with pikes. And as the white came over them, they said it. Not all at once, as at noon. Ragged. A few. Then more.
+She saw it first at the third hour. The white patch coming along the ward toward the stretch of line by the bend's eastern end, where the militia stood behind the wall: farm-men and porters and a forge's apprentices, with pikes. And as the white came over them, they said it. Ragged, where at noon it had come all at once. A few. Then more.
 
 *Keep the watch.*
 
@@ -208,7 +208,7 @@ The Furnace came up at the fourth hour after noon.
 
 ---
 
-She was at the river end. Coming back along the wall from the bend. She felt it before she saw it. The wall's top under her horse's feet, shaking. Not the Last Titan's walking. A deeper shaking. Under. Coming.
+She was at the river end. Coming back along the wall from the bend. She felt it before she saw it. The wall's top under her horse's feet, shaking. A deeper shaking than the Last Titan's walking. Under. Coming.
 
 The horse stopped. Its ears flat.
 
@@ -308,7 +308,7 @@ Into the river.
 
 The Furnace screamed.
 
-Not like a beast. Like metal. Like the sound in Tam's forge when he put a red bar into the trough, but a thousand times, a barn-sized bar, a hill of it. The Lady pulling it off the Flat, out of its split, across the turf, its glass running behind it, into the eddy's edge.
+Like metal. Like the sound in Tam's forge when he put a red bar into the trough, but a thousand times, a barn-sized bar, a hill of it. The Lady pulling it off the Flat, out of its split, across the turf, its glass running behind it, into the eddy's edge.
 
 Into the water.
 

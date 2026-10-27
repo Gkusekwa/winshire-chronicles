@@ -78,7 +78,7 @@ He stood by the pool's edge with his hand up to shade his eyes from the Lamp's l
 
 The words he'd said in the salvage hold.
 
-The same words. Exactly. Not near. Not like. The same, in the old tongue, in the hooked script, in light, written by a god who'd been a Titan.
+The same words. Exactly. The same, in the old tongue, in the hooked script, in light, written by a god who'd been a Titan.
 
 He'd said them at Blackwater before he'd known there was a god to write them.
 

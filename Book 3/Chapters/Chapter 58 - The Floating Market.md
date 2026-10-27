@@ -251,7 +251,7 @@ Six thousand of them still there, Kit had said. The four houses wouldn't leave t
 
 The first wave came at noon.
 
-He saw it come. A long swell. Up the mouth from the sea. Not breaking. Lifting. Like the whole sea taking a breath in. Up the river's mouth past the headlands, a hill of grey water a league wide, moving in.
+He saw it come. A long swell. Up the mouth from the sea. Lifting, like the whole sea taking a breath in. Up the river's mouth past the headlands, a hill of grey water a league wide, moving in.
 
 Under the stilts.
 

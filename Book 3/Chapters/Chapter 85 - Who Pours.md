@@ -81,7 +81,7 @@ She put her hand on it.
 
 She watched her hand go flat. He'd seen her do that all winter. She couldn't feel it.
 
-She didn't say anything. She didn't move. She stood with her bandaged hand on the stone.
+She didn't move. She stood with her bandaged hand on the stone.
 
 And the stone opened.
 

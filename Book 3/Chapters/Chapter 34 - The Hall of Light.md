@@ -170,7 +170,7 @@ The Lady came at dusk.
 
 Up the spring's channel. Into the pool.
 
-Maren saw the water change first. The clear cold water of the pool going pale. Not cloudy. Pale. As if light had come into it from underneath. And then the light was moving. Along the pool. Coiling. Long.
+Maren saw the water change first. The clear cold water of the pool going pale, as if light had come into it from underneath. And then the light was moving. Along the pool. Coiling. Long.
 
 A shape under the water.
 
@@ -244,7 +244,7 @@ And a man got down off the red one.
 
 He walked into the hall.
 
-Through the columns. Onto the grey floor. He stopped at the pool's edge and looked at it: the Lady in it, the Lamp at its end, the Mother's great head on the floor. He looked for a long time. His face didn't change much. It never had.
+Through the columns. Onto the grey floor. He stopped at the pool's edge and looked at it: the Lady in it, the Lamp at its end, the Mother's great head on the floor. He looked. His face didn't change much. It never had.
 
 Then he looked at her.
 

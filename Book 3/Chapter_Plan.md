@@ -1,6 +1,6 @@
 # Winshire — Book 3 Chapter Plan (working draft, revision 3)
 
-**Status: provisional; chapter outline started (Oct 2026).** Nothing in this plan is approved. Chapter files with notes blocks exist in `Book 3/Chapters/`, built from this table: **chapters 1–50 are in first draft** (decisions per chapter in their notes blocks and in `Book 3/Notes/Part1–4_Ledger.md`); 51–86 are stubs, *not started*; the open questions at the end still need the author before drafting.
+**Status: provisional; chapter outline started (Oct 2026).** Nothing in this plan is approved. Chapter files with notes blocks exist in `Book 3/Chapters/`, built from this table: **all 86 chapters are in first draft** (decisions per chapter in their notes blocks and in `Book 3/Notes/Part1–7_Ledger.md`; ch. 86's last line is left for the author); the open questions at the end still need the author before drafting.
 
 *A chapter-by-chapter plan for the last book of the trilogy, in the shape of `Book 1/Chapter_Plan.md`. It's built on `Bible/Series_Outline.md` (its Book 3 section and the author's settled points at the end are canon), the rest of the Bible (`World.md`, `Story.md`, `Characters.md`, `Bestiary.md`, `Atlas.md`, `Magic.md`, especially §10a and §11), the Book 2 chapter plan (revision 5), Book 1's last chapter and the style guide. **Canon is marked *(canon)*. Everything else is a *(proposal)*.** In the chapter table, every beat is a proposal unless it carries a *(canon)* tag. Book 2 is still being revised, so every point Book 3 takes from it is listed under **Depends on Book 2**.*
 

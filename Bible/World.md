@@ -10,6 +10,8 @@
 
 **The Oneroad** *(from the drafts)*: the old realm's road, built in dressed grey old-realm stone, had milestones that counted to the bridge at the island, "the middle of the world". Of the bridge only drowned pier stumps remain, showing in dry summers.
 
+**The old realm's capital** *(settled by the author, Oct 2026)*: it stood at the middle of the world, the island in the Wend and both banks round it, where the Oneroad's six roads met: the Restoration is right that it was in the Marches. The Old Ruin was its bridge-fort; the drowned piers are the last of it above water. Hearthmere's temple, the catacombs under Greyhold, was built there when the elders put the Titans to sleep, so the door was shut in the old capital; three hundred years ago Hearthmere chained the Last Titan in the same place, doing again what the one realm did (Book 3 ch. 30). The Accord's last stand at the hub breaks it a second time (Book 3 ch. 75). **Never named, and never called a capital, in Books 1–3**; readers can put it together from the milestones, the ruin and the hub. Its name is for the next series.
+
 **Working proposals:** People could discover the old name through a lullaby, a tavern song, ruins, Isvaren's archives, and eventually an ancient beast. The Restoration's aims are set out in `Story.md`.
 
 ## Magic and bonds

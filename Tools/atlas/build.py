@@ -300,7 +300,7 @@ def write_atlas():
     L.append("")
     L.append("## Open questions\n")
     L.append("- ~~Kingdom names and place names~~ *Settled (Oct 2026), as drafted: the names as used in the drafts of Books 1–3 are final.*")
-    L.append("- Where did the old realm's capital stand? The Oneroad's course suggests the Marches; the Restoration believes so.")
+    L.append("- ~~Where did the old realm's capital stand?~~ *Settled by the author (Oct 2026):* at **the middle of the world**: the island in the Wend and both banks round it, where the Oneroad's six roads met (the hub). The Old Ruin's tower and the drowned bridge piers are the last of it above water; Hearthmere's temple (the catacombs under Greyhold) was built there when the elders put the Titans to sleep. Never named or called a capital in Books 1–3; the page stays as drafted. Its name is for the next series.")
     L.append("- ~~Which temple does the Titan reach first in Book 2?~~ *Settled (Oct 2026), as drafted: the Hollow Ring (Book 2 ch 18–20).*")
     open(f"{OUT}/Atlas.md", "w").write("\n".join(L) + "\n")
 

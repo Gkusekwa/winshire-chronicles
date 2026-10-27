@@ -264,7 +264,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - ~~*(Composed Oct 2026, to confirm:)*~~ *Settled (Oct 2026), as composed:* tuskers and olifants have a rumble-language and remember the old realm as a map; Sarovel's royal olifants have lost it; the grey cat at Greyhold is a great cat of the old lions' kind, not a duskcat (`Bestiary.md`).
 - ~~*(Proposed Oct 2026, to confirm:)*~~ *Settled (Oct 2026), as proposed:* the three ways a bond-death has been survived (cut before death; caught by another bond; given, not taken), and how the Clan keeps its dragons (the eggs, the pens, the bargain) (`World.md`).
 - ~~Which of the new flying creatures (`Bestiary.md`, The sky) come into the Book 2 and 3 plans, and where?~~ *Settled (Oct 2026), as drafted: the shared sky of Book 3 (question 13).*
-- Where the old realm's capital stood (`Atlas.md`)
+- ~~Where the old realm's capital stood~~ *Settled (Oct 2026): at the middle of the world, the island and the hub where the Oneroad's six roads met; never named in Books 1–3 (`World.md`; `Atlas.md`).*
 - ~~Name collisions: are these deliberate?~~ *Settled (Oct 2026), as drafted: "Keeper", "Warden" and the rest stay as the drafts use them.*
 - ~~"The Unbound"~~ *Settled (Oct 2026): the seventh ring keeps the name; Book 1 is* The Watch Below.
 

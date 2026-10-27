@@ -565,7 +565,7 @@ Saltreach is a place in Book 3, not a backdrop: Part Two is set there, Kit's eig
 - **"Why me?"**: half at **32**, whole at **81**.
 - **The Council of Immortals**: never *(canon)*. Maren's and Calder's near-Titan state is shown without a name; neither hears a beast on the page after 83.
 - **Some Titans survived**: never stated or hinted beyond one quiet ambiguity *(canon: no Titans appear to remain; revealed in the next series)*: Kit can't say whether the Lady and the Bell died (76). Every other breath, theirs included, goes out on Idony's glass (82–83); the old ones who didn't answer have gone out (34).
-- **The first elemental**: only at **86**.
+- **The first elemental**: only at **86**, and never named or explained *(author, Oct 2026: nothing in Books 1–3 explains elementals; they belong to the Age of Elementals books)*. Idony's "nothing new in the ground; nothing small" (52) is as far as any hint goes.
 - **Chapter titles must not give the twists away** *(author's rule)*. None of these titles names a death, the betrayal or the reveal ("Six Hollows" became "Night Shift", "Kneeling" "The Coal", "The Grey Mother" "What She Showed"). No title repeats one in Books 1 or 2.
 
 ---

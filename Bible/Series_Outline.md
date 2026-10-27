@@ -213,7 +213,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 
 ## The next series: the Age of Elementals
 
-**Established:** a next series follows, set in the Age of Elementals. The student and the farmer, now near-Titans, become the **Council of Immortals**. It reveals that **some Titans survived** the end of Book 3. **Everything about the Council of Immortals is held back for the later books;** Books 1–3 don't reveal or name it.
+**Established:** a next series of books follows, set in the Age of Elementals *(author, Oct 2026: its own books)*. **Books 1–3 never explain elementals** *(author, Oct 2026)*: where they come from, below, is for the next series only; the trilogy shows one, at Book 3 ch 86, and says nothing about it. The student and the farmer, now near-Titans, become the **Council of Immortals**. It reveals that **some Titans survived** the end of Book 3. **Everything about the Council of Immortals is held back for the later books;** Books 1–3 don't reveal or name it.
 
 *Working proposals:*
 - **The Council of Immortals** is made of people who remember the age of Titans and bonds. It could guide, guard, or rule the remnant's descendants. A council of two is small: others could join, or it could grow from the remnant.
@@ -239,8 +239,8 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - ~~Which Titans survive the end of Book 3, and how do they stay hidden?~~ *Settled (Oct 2026), as drafted: none on the page. The alliance kills the Antlered and the Furnace; the other four destroyers burn out in the surge; two elders give their power and fade, the Lamp is killed and the Lady goes down with the Bell. Kit's one sighting (Book 3 ch 76) leaves a doubt for the next series.*
 - ~~What does immortality cost them?~~ *Settled (Oct 2026), as drafted: shown, not explained (Book 3 ch 86); nobody says how long they'll live. The rest is for the next series.*
 - ~~What happens to the destroyer Titans at the very end?~~ *Settled (Oct 2026), as drafted: they burn out in the surge they made (Book 3 ch 82, 83; question 1).*
-- What are elementals: beings, a new kind of magic, or both? *(How people first meet them is settled as drafted: the stone elemental at Book 3 ch 86. What they are is left for the Age of Elementals.)*
-- Does the Age of Elementals get its own books or games?
+- What are elementals: beings, a new kind of magic, or both? *(Settled for the trilogy by the author, Oct 2026: **nothing in Books 1–3 explains elementals.** The one sighting, the stone thing at Book 3 ch 86, is shown, never named or explained. What they are belongs to the Age of Elementals books.)*
+- ~~Does the Age of Elementals get its own books or games?~~ *Settled by the author (Oct 2026): its own books.*
 - ~~Does the student's own character change as the lion grows into a Titan?~~ *Settled (Oct 2026), as drafted: she pays in feeling and cold and ends as something else, close to a Titan, not named (Book 3 ch 66, 80, 83, 86; question 15).*
 
 **Answered in Book 1:** how the Restoration expected to capture the Titan (two locks turned at once; it wanted the lion and the farmer as halters and lost the Titan when it woke, ch 68, 77; `Story.md`); whether a protagonist is partly responsible for the seal opening (in part: Calder's hand is on Corvin's wrist as the Ruin's lock turns, 76); what sacrifice forms the lion's bond (Maren offers herself into the binding, 73); which brother the student kills (Cassian, 77).
@@ -260,7 +260,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - ~~How Maren and Calder become near-Titans, and what immortality costs them~~ *Settled (Oct 2026), as drafted: their beasts' deaths and power come into them (Book 3 ch 83, 84); shown, not explained (86).*
 - ~~Which kingdom plots to be supreme~~ *Settled (Oct 2026), as drafted: Kessmoor (Book 3 question 3).*
 - ~~Which Titans survive Book 3, and what happens to the destroyers~~ *Settled (Oct 2026), as drafted (open series questions above; Book 3 question 1).*
-- What elementals are, and whether the Age of Elementals gets its own books or games (open series questions above). *(First encounter settled as drafted: Book 3 ch 86.)*
+- ~~Whether the Age of Elementals gets its own books~~ *Settled (Oct 2026): it does.* What elementals are is for those books; **Books 1–3 never explain them** (open series questions above).
 - ~~*(Composed Oct 2026, to confirm:)*~~ *Settled (Oct 2026), as composed:* tuskers and olifants have a rumble-language and remember the old realm as a map; Sarovel's royal olifants have lost it; the grey cat at Greyhold is a great cat of the old lions' kind, not a duskcat (`Bestiary.md`).
 - ~~*(Proposed Oct 2026, to confirm:)*~~ *Settled (Oct 2026), as proposed:* the three ways a bond-death has been survived (cut before death; caught by another bond; given, not taken), and how the Clan keeps its dragons (the eggs, the pens, the bargain) (`World.md`).
 - ~~Which of the new flying creatures (`Bestiary.md`, The sky) come into the Book 2 and 3 plans, and where?~~ *Settled (Oct 2026), as drafted: the shared sky of Book 3 (question 13).*

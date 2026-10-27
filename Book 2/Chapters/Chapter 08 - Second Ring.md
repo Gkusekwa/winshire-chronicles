@@ -79,7 +79,7 @@ The glasses climbing all evening. Every glass in Winshire up. The lamps in the c
 
 His green glasses under the bed. That made the master of the Blue College, at Quell's left, shift in his chair, but Quell lifted one finger off the table and he stopped shifting.
 
-Sunrise. The Hearthmere glasses going flat. Not low. Flat. The hole gone. And the line of dips going north-east at the speed of a bird.
+Sunrise. The Hearthmere glasses going flat. The hole gone. And the line of dips going north-east at the speed of a bird.
 
 He told them the speed. He told them the arithmetic. He had it by heart.
 
@@ -91,7 +91,7 @@ Nobody spoke.
 
 The master of the College of Stars, a soft-faced man in pale silver, was looking at the ceiling. The master of the Physicians was turning her ring over and over on the table with one finger. Dane wasn't at the table; he was a magister, not a master, and he stood against the wall behind the Blue College's chair with his arms folded, watching Idony, his face giving nothing.
 
-Master Quell looked at the old chart for a long time. The one with the hole on it. The long dark well of ink-strokes over the river hill that Idony had drawn every month for eleven years.
+Master Quell looked at the old chart. The one with the hole on it. The long dark well of ink-strokes over the river hill that Idony had drawn every month for eleven years.
 
 "When did the draw close?" she said.
 
@@ -193,7 +193,7 @@ It was *be mine*.
 
 He'd read about it. Every Second ring read about it, in the first year, in the chapter of the old commentary that told you what you were never to do. The forbidden discipline. The thing they did in Saltreach with honey-smoke and collars, that the colleges had sworn off four hundred years ago in this same city under this same dome. Binding.
 
-He stood with his hand on the cold iron of the lamp and read it twice, to be sure.
+He stood with his hand on the cold iron of the lamp and read it again, to be sure.
 
 "Holding-lamps," said Dane, behind him. Quite gently. "That's what they're called in the inventory. Holding-lamps."
 
@@ -209,7 +209,7 @@ And he was still thrilled. That was the worst of it. Standing there with *be min
 
 He went to see Nessa on the nineteenth day, the night before they left.
 
-The ferry came in to the quay below the College hill at dusk, the way it had come in every evening of his life: a broad-beamed lake boat with a brown lugsail and a long sweep, low in the water with the day's last crossing, a farmer and a cart and two goats and a woman with a basket of eggs. The *Heron*. Their father had built her. Their grandfather had built the one before.
+The ferry came in to the quay below the College hill at dusk: a broad-beamed lake boat with a brown lugsail and a long sweep, low in the water with the day's last crossing, a farmer and a cart and two goats and a woman with a basket of eggs. The *Heron*. Their father had built her. Their grandfather had built the one before.
 
 Nessa was at the sweep. She brought the *Heron* in to the quay stones without looking, as their father had, as you'd walk into your own kitchen in the dark, and the farmer and the goats got off, and the woman with the eggs, and Nessa made the rope fast and looked up and saw him standing on the quay in his winter coat.
 
@@ -233,7 +233,7 @@ He'd forgotten it. You stopped seeing it, like the grain in a table. A little ti
 
 Nessa did it now. She took one hand off the sweep as they came out past the quay-end and touched the tin serpent with two fingers, and put her hand back.
 
-He didn't say anything. He'd stopped believing in the Lady when he was nine, and in most other things by twelve, and had told Nessa so, often, at length, and she'd told him he was a fool and gone on touching it.
+He kept quiet. He'd stopped believing in the Lady when he was nine, and in most other things by twelve, and had told Nessa so, often, at length, and she'd told him he was a fool and gone on touching it.
 
 ---
 
@@ -319,7 +319,7 @@ He set up the glasses on the twenty-fifth day.
 
 They were five days out of Vael, over the pass, coming down the long eastern slopes of the High Crown toward the plains, with the Wyldmarch somewhere ahead in the haze: a dark line at the edge of the world that the mule-drivers said was the first of the forest. They'd camped in a meadow by a stream. The Wardens were seeing to their lynx. The Scribes were seeing to their lamps. Dane was seeing to everyone.
 
-Idony took the crate off his saddle and opened it in the grass and set the eleven green glasses out on a blanket in their line, the way he'd set them out on the floor under the sloping roof on the morning of the breaking. South-west to north-east. The river hill, the bridge-island, the far bank, the water meadows. The forest of the fell, the hill of the hold, the high moor, the black water, the edge. And the last two, with the names nobody had spoken in a thousand years.
+Idony took the crate off his saddle and opened it in the grass and set the eleven green glasses out on a blanket in their line, as he'd set them out on the floor under the sloping roof on the morning of the breaking. South-west to north-east. The river hill, the bridge-island, the far bank, the water meadows. The forest of the fell, the hill of the hold, the high moor, the black water, the edge. And the last two, with the names nobody had spoken in a thousand years.
 
 He'd recut those last two on the road, at night, by candle, with Dane's leave. Turned their words a little east. So they'd read the Wyldmarch.
 
@@ -361,7 +361,7 @@ Across the meadow, Dane was standing by the lamp-mules with the two Scribes, tal
 
 He thought of Nessa's hand on the tin serpent. *Have you thought about what it'll eat next?*
 
-He thought he would put the walker in the ledger he showed to Dane, and in the ledger he showed to the Council, if he ever went back. He thought about that for a long time.
+He thought he would put the walker in the ledger he showed to Dane, and in the ledger he showed to the Council, if he ever went back.
 
 Then he wrote it in the margin of his own copy, the one on oiled silk in the hem of his coat, very small, with the date and the hour and the count between the steps. *The walker. Going north-east. Following.*
 

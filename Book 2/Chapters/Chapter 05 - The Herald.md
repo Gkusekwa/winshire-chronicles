@@ -44,7 +44,7 @@ The herald didn't hear, or pretended not to.
 
 Calder looked at Tessa Garrow. She was standing at the edge of the landing with Davy against her skirts, and her face had gone very still.
 
-"Back to what?" she said. Not loudly. To nobody. "Back to *what*?"
+"Back to what?" she said, low, to nobody. "Back to *what*?"
 
 The second part was for him.
 
@@ -84,7 +84,7 @@ Across the table Wren laughed, suddenly, the first time since the jetty, and put
 
 Fisk's boy came over in the morning.
 
-Calder saw the punt coming from the far bank, a little flat eel-punt with one boy standing in the stern poling, the way Fisk's boys had poled across the Wend all their lives, which nobody on the Saltreach side was supposed to do and everybody did. It came in under the landing and the boy threw a rope round a post on the jetty and came up the steps two at a time.
+Calder saw the punt coming from the far bank, a little flat eel-punt with one boy standing in the stern poling, as Fisk's boys had poled across the Wend all their lives, which nobody on the Saltreach side was supposed to do and everybody did. It came in under the landing and the boy threw a rope round a post on the jetty and came up the steps two at a time.
 
 It was Abe, Fisk's youngest. Fourteen, all elbows. He'd rowed over in the night of the gate to tell Wren her father had gone to the Ruin; Wren had told Calder. He stopped at the top of the steps when he saw the lion, and stood there with his mouth open, and the lion opened one pale eye and looked at him and shut it again.
 
@@ -108,7 +108,7 @@ Calder thought of the crossroads shrine at Harrow's End, where he'd put a copper
 
 Abe shook his head. "Still at it. Up the glens. Da says Arn's riders burned a steading at Skell Head, and Ulric's burned two at the Lowe, and nobody can tell him what for." He shrugged, all elbows. "Da says they've forgot. He says it's been going so long they've forgot what for, and now they do it because the other lot did."
 
-The old bronze dragon made a sound, low, behind Calder. He felt it through the bond. Not words. Something like a sigh, something like a held grief let out.
+The old bronze dragon made a sound, low, behind Calder. He felt it through the bond: something like a sigh, something like a held grief let out.
 
 "And your da?"
 
@@ -130,9 +130,9 @@ It was Liss's idea, or Ada's; Calder never found out which. They'd been at the t
 
 "Liss's milk," said Ada, "is turning."
 
-He looked at Liss. Liss shrugged. "It always kept," she said. "Three days, four, in the cold-room. My mother's words over the churn. Till this winter. Then it kept a day. Since the night it flew, it turns by evening."
+He looked at Liss. Liss shrugged. "It always kept," she said. "Three days, four, in the cold-room, with my mother's words over the churn. Till this winter. Then it kept a day. Since the night it flew it turns by evening, and the pig's had the rest."
 
-He watched them go across on the guide-rope, the flat ferry going out into the brown spring water with his mother in the bow holding her pail and Liss hauling on the rope, hand over hand, the way she'd hauled it thirty years. Halfway across the current took the ferry and swung it, and the rope went taut and sang, and held.
+He watched them go across on the guide-rope, the flat ferry going out into the brown spring water with his mother in the bow holding her pail and Liss hauling on the rope, hand over hand, as she'd hauled it for thirty years. Halfway across the current took the ferry and swung it, and the rope went taut and sang, and held.
 
 They came back an hour before dusk. Ada came up the jetty with the pail full and a cloth over it, and set it on Liss's table, and took the cloth off, and put two fingers on the side of the pail.
 
@@ -168,7 +168,7 @@ He went out to the shingle.
 
 The old one was lying where she'd lain for five days, with the torn wing out and her chest to the river. When he came close he smelled it before he saw it. Sweet. Wrong. He'd smelled it on a ewe in a bad spring when a cut went bad under the fleece and nobody found it till the flies did.
 
-He knelt and looked at the wound. The horn had gone in under the joint of the foreleg, on the night of the locks, when the ironback got its horn into her on the fort's roof and rode her down through the floor. It was a hand's width across. He'd washed it every day with river water, the way Liss had shown him. The edges of it had gone dark and swollen, and the smell came up out of it.
+He knelt and looked at the wound. The horn had gone in under the joint of the foreleg, on the night of the locks, when the ironback got its horn into her on the fort's roof and rode her down through the floor. It was a hand's width across. He'd washed it every day with river water. The edges of it had gone dark and swollen, and the smell came up out of it.
 
 *It is nothing,* said Aurveth.
 

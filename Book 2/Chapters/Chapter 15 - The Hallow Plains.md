@@ -104,7 +104,7 @@ It was a dry, thin, cracked sound, like a stick breaking. She put her old hand o
 
 "That," she said, when she could, "is the first true thing a lowlander has said at the Stones in my lifetime." She wiped her eyes again. "And it wasn't even the lowlander who said it."
 
-The ring laughed. Not all of it. Enough.
+Some of the ring laughed. Enough.
 
 "Bring him," said Aun. "Bring the grey-maned in. I want to feel him."
 
@@ -284,7 +284,7 @@ Isvaren's Wardens came on the fifty-fourth day, from the north.
 
 They came differently. No banner. No column. They came across the Plains in a loose crowd, in robes of blue and grey, on tall shaggy mountain horses. A dozen of them. And at their heels, snow lynx, white, with tufted ears and great soft feet, that ran in the grass like ghosts.
 
-Three birds flew over them. Not falcons. Bigger. Long-winged, grey and white, with forked tails that streamed behind them, and Maren, watching them come in over the Plains on a high wind, thought she could see light crackling faintly along the edges of their wings.
+Three birds flew over them, bigger than falcons. Long-winged, grey and white, with forked tails that streamed behind them, and Maren, watching them come in over the Plains on a high wind, thought she could see light crackling faintly along the edges of their wings.
 
 "Stormkites," said Hesper. "Isvaren's. They fly in front of storms."
 
@@ -296,9 +296,9 @@ She noticed him because he was the only one who wasn't looking at the lion.
 
 Every one of the Wardens, as they came past the rise, turned in the saddle to look at Orrun, lying in the grass by the Stones. Some of them stopped. One of them took out a little book and wrote in it. But the thin young man walked beside the last mule with his head down, looking at the ground, and every half-league or so, Hesper said, he stopped and put the box down on the grass and knelt by it and opened it and looked into it, and wrote something, and closed it and caught up.
 
-He did it as they passed below the Stones. Knelt. Opened the box. Looked into it for a long time.
+He did it as they passed below the Stones. Knelt. Opened the box. Looked into it.
 
-Then he looked up. Not at the lion. At the Stones.
+Then he looked up, past the lion, at the Stones.
 
 Then he closed the box and went after the mules.
 
@@ -364,7 +364,7 @@ She looked round. Away to the north, over the black line of the trees, another p
 
 Through the bond, a league off, she felt Orrun go.
 
-Not far. A little. Slow and heavy and far away, as if he'd lain down in deep water and was letting himself go under. Like the knowe. Only the thin edge of the smoke had reached him; she could feel he was upwind, a long way. It was enough that he could smell it. That he knew what it was.
+A little way. Slow and heavy and far away, as if he'd lain down in deep water and was letting himself go under. Like the knowe. Only the thin edge of the smoke had reached him; she could feel he was upwind, a long way. It was enough that he could smell it. That he knew what it was.
 
 She didn't think. She reached for him. Hard, through the bond, as she'd reached on the knowe.
 

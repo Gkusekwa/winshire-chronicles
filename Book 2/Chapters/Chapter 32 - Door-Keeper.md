@@ -67,7 +67,7 @@ Up to Candle Row.
 
 She felt the line before she saw it.
 
-Through him. He came up the last step onto Candle Row, and the ground under his paws was thin, brown, the lower city's ground, drained, the way it had been since the shore. He took one step more.
+Through him. He came up the last step onto Candle Row, and the ground under his paws was thin, brown, the lower city's ground, drained, as it had been since the shore. He took one step more.
 
 And the ground was full.
 
@@ -129,7 +129,7 @@ Orrun stopped twenty paces from the perch.
 
 The bird looked at him.
 
-It didn't say anything for a long time. It looked at the lion with its one good eye, and its feathers lifted all down its back, slowly, and stayed lifted. The hum came up through the floor. The white lamps burned. Idony stood very still behind Maren, the way he'd stood at the edge of the Ring.
+It didn't say anything for a long time. It looked at the lion with its one good eye, and its feathers lifted all down its back, slowly, and stayed lifted. The hum came up through the floor. The white lamps burned. Idony stood very still behind Maren.
 
 Then the Old Reader said:
 
@@ -191,7 +191,7 @@ The bird stopped at that page. It looked at her name a long time.
 
 *MAREN ASHDOWN.*
 
-It didn't say anything. It turned the page.
+It turned the page.
 
 The charter. *Given into the keeping of the crown.* Back. Further back. Into the oldest pages, near the front, where the vellum was brown and soft as cloth and the hands were strange and cramped and old. Hale had shown her these, in the archive, on the night she asked him what was below. Pages about the closing. Then pages that weren't there.
 
@@ -227,7 +227,7 @@ It laughed again. Quieter.
 
 "Do you know what was on them?" said Idony.
 
-He'd come up beside the desk. He was looking at the stubs with his face very close, the way he'd looked at the lintel in the sink.
+He'd come up beside the desk. He was looking at the stubs with his face very close.
 
 "Yes," said the Old Reader.
 
@@ -333,7 +333,7 @@ It got back up on its perch. Slowly, with its beak and its claws. It settled the
 
 Orrun hadn't moved.
 
-He lay at ten paces from the perch with his chin on his paws, and through the bond she felt him, enormous and still, thinking. Not words. A slow turning, like stones in a riverbed. *Door-keeper.* He hadn't heard it in three hundred years. She didn't know if he'd ever heard it. She didn't know if anyone had ever called him anything.
+He lay at ten paces from the perch with his chin on his paws, and through the bond she felt him, enormous and still, thinking: a slow turning, like stones in a riverbed. *Door-keeper.* He hadn't heard it in three hundred years. She didn't know if he'd ever heard it. She didn't know if anyone had ever called him anything.
 
 *It knows what was at the door,* he said.
 

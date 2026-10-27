@@ -36,7 +36,7 @@ As close as dry land would let it.
 
 She was sitting beside it on the shingle with her knees up and her coat round her against the cold that came off the water.
 
-He came down the old quay slowly. The stones rocked under his boots. He stopped twenty paces off, the way he'd stopped at the Ring, and waited, and she looked round.
+He came down the old quay slowly. The stones rocked under his boots. He stopped twenty paces off, as he'd stopped at the Ring, and waited, and she looked round.
 
 "Reader Vael," she said.
 
@@ -138,7 +138,7 @@ He was in the attic, at the window, with the glasses on the sill and the lamps o
 
 Idony looked at him.
 
-The bird had never said please in his hearing. Not in eleven years. Not to anybody.
+The bird had never said please in his hearing, in eleven years, to anybody.
 
 He got his coat.
 
@@ -214,13 +214,13 @@ He'd charted a hole there for eleven years.
 
 He read it all.
 
-It took him half the night. The bird sat on the floor beside the desk the whole time, on its own feet, with its head on one side, and didn't say anything, and didn't hurry him. The white lamps burned. The hum came up through the stone.
+It took him half the night. The bird sat on the floor beside the desk the whole time, on its own feet, with its head on one side, and didn't hurry him. The white lamps burned. The hum came up through the stone.
 
 Clause by clause. In the old College form, every clause numbered in the old count. The College's undertakings, and then the lord's.
 
 *First: the College shall measure the sleeper beneath the river hill, its breath and its depth and the great draw of its waking, and render the measure to the lord.*
 
-There was a table after it. A reading-table. Columns and figures, in a notation he knew. Not quite the notation of his own ledgers. Older. Rougher. But the same. The ancestor of it. He looked at it and saw the first tide-reader who'd ever sat with a glass over a sleeping thing and written down what it did, and the columns were his columns. The figures were his figures. A Reader of the College of Tides, three hundred years and more ago, had measured the draw under the river hill, and laid it out on vellum as Idony laid out the Hearthmere ledgers, and sold it.
+There was a table after it. A reading-table. Columns and figures, in a notation he knew: older and rougher than his own ledgers', but the same. The ancestor of it. He looked at it and saw the first tide-reader who'd ever sat with a glass over a sleeping thing and written down what it did, and the columns were his columns. The figures were his figures. A Reader of the College of Tides, three hundred years and more ago, had measured the draw under the river hill, and laid it out on vellum as Idony laid out the Hearthmere ledgers, and sold it.
 
 *Second: the College shall design and cut the forms for six chains, to be forged by the lord's smiths in the cavern beneath the hill, every link to bear upon the inner curve the rune of holding; which rune shall feed upon that which it holds, so that the harder the held thing strains, the faster it is held.*
 
@@ -284,7 +284,7 @@ He looked up. He found his face was wet. He didn't remember starting to cry.
 
 He looked.
 
-Below the clauses, below the price, below the two seals in faded wax, the College's and the lord's, there was a last piece. Not part of the contract. An appendix. Written in the same Sixth-ring hand, very small, very exact. The working itself.
+Below the clauses, below the price, below the two seals in faded wax, the College's and the lord's, there was a last piece: an appendix, outside the contract, written in the same Sixth-ring hand, very small, very exact. The working itself.
 
 The rune of holding. Drawn out, stroke by stroke, the way you'd draw it for a Scribe to cut. And beside it, the words. The working-words. The ones you'd say over the rune to wake it, if it slept. The ones that told it what to hold, and how hard.
 
@@ -342,7 +342,7 @@ He didn't know what to say.
 
 He put the roll back in its case, and the case back in the niche, and closed the carved panel over it.
 
-The Old Reader got back up on its perch. Slowly. With its beak and its claws, the way it had climbed onto the window-sill, and settled there, and shook its ragged feathers once, and was still.
+The Old Reader got back up on its perch. Slowly. With its beak and its claws, as it had climbed onto the window-sill, and settled there, and shook its ragged feathers once, and was still.
 
 He walked home at the fourth bell.
 

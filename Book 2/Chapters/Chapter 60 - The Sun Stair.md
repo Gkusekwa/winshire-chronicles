@@ -35,11 +35,11 @@ He said it in the stable door in the morning, on the three-hundred-and-twelfth d
 
 "He came," said Maren.
 
-"He came. He wouldn't wake you." Tobin sat down in the straw. "He said the collars are cracking. All of them. The unicorn's right across. He said one of the court's hands burned up at a banquet in front of everybody and they clapped." He looked at the straw. "He said the tall one came to him. Corvin. With the box. And asked him to teach him the words. For the chains."
+"He came. Wouldn't wake you." Tobin sat down in the straw. "Collars are cracking, he says. All of them. The unicorn's right across. One of the court's hands burned up at a banquet in front of everybody and they clapped." He looked at the straw. "And the tall one came to him. Corvin. With the box. Wanted teaching the words. For the chains."
 
-"What did he say?"
+"What did he..."
 
-"He said no," said Tobin. "I asked him to say it twice." He didn't look up. "He didn't."
+"Said no," said Tobin. "I asked him to say it twice." He didn't look up. "He didn't."
 
 ---
 
@@ -328,7 +328,7 @@ The man in the doorway had it. Exactly. The same long pale face. The same grey e
 
 ---
 
-He looked at her for a long time.
+He looked at her.
 
 "You killed my brother," said Corvin.
 
@@ -398,7 +398,7 @@ The want. Huge and slow and old and so sure of itself that there was no room in 
 
 She felt Orrun hold.
 
-Not against it. He wasn't fighting it. He couldn't. Nobody could. He was standing there. That was all. Standing in front of the egg. Kin in front of kin. The door-keeper, at a door, three hundred years too late.
+He wasn't fighting it. He couldn't. Nobody could. He was standing there. That was all. Standing in front of the egg. Kin in front of kin. The door-keeper, at a door, three hundred years too late.
 
 The Titan looked at him a long time.
 

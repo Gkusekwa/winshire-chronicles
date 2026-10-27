@@ -53,7 +53,7 @@ And on the lake, lying on the water, grey, the size of an island, with its wings
 
 He hadn't seen it since.
 
-He stood on the four-hundredth step and looked at it for a long time.
+He stood on the four-hundredth step and looked at it.
 
 He wasn't here for it. He was here for four young dragons in a bowl of smoke. He was here for a library and a bird and a paper. But he stood on the step and looked at it lying on the lake a day off, and thought of the morning after the locks, standing in the reeds below Redwatch with the old one dying beside him and the knights in a line on the bank and the lion-woman beside the lion. All of them, looking up. The thing going into the sunrise.
 
@@ -129,7 +129,7 @@ He'd been washing. In a basin in the pilgrim's cell, with the window open, in th
 
 Three marks.
 
-He'd had them since the barley field. He didn't think about them any more. One under the other, on the left side of his chest, over his heart: bronze, rust, and green. Not tattoos. Not scars. Under the skin, the way a bruise is, only they never faded. The old one's bronze at the top. Kharrak's rust in the middle. Lisska's green at the bottom.
+He'd had them since the barley field. He didn't think about them any more. One under the other, on the left side of his chest, over his heart: bronze, rust, and green. Not tattoos. Not scars. Under the skin, like a bruise, only they never faded. The old one's bronze at the top. Kharrak's rust in the middle. Lisska's green at the bottom.
 
 Mira stood in the doorway with the candle and looked at them.
 
@@ -153,11 +153,11 @@ The old man straightened up. He stood in the doorway of the cell, small, with hi
 
 There was a room under the tower.
 
-Cut into the peak, under the dome, down a stair inside the wall. A long low room, with a vaulted roof of black stone, lit by lamps. Ordinary lamps. Not white. Calder noticed that. They burned the ordinary yellow of oil-lamps, the way lamps burned anywhere.
+Cut into the peak, under the dome, down a stair inside the wall. A long low room, with a vaulted roof of black stone, lit by lamps. Ordinary lamps. Not white. Calder noticed that. They burned the ordinary yellow of oil-lamps.
 
 And books.
 
-Not the way the bird's library was full of books, the way he'd imagined it: shelves and shelves going on for ever. Here there were three walls of shelves, and on them, in rows, the same book, over and over. Tall, thin, bound in grey, with numbers on their spines. Three hundred of them, Mira said. More.
+He'd imagined the bird's library as shelves and shelves going on for ever. Here there were three walls of shelves, and on them, in rows, the same book, over and over. Tall, thin, bound in grey, with numbers on their spines. Three hundred of them, Mira said. More.
 
 "The tables," said Master Esk. "The star-tables. Every night's sky, from this tower, for six hundred years." He put his hand on the shelf. "Where every star was. Where the wanderers were. What the moon did. And before that," he went to the end of the room, where there was a smaller shelf of older books, in darker bindings, "copies. Of copies. Of tables from before there was a tower. From before there were colleges."
 
@@ -211,7 +211,7 @@ On a slip of the tower's paper, in the common letters, under a copy of the hooke
 
 He could read three of the words himself.
 
-He did. Slowly. With his bandaged finger under the line, the way his mother did, the way Wren did, the way he'd seen Arn do by the east fire with his brother's name under his finger. Saying each letter in his head.
+He did. Slowly. With his bandaged finger under the line, as his mother did, and Wren, and Arn by the east fire with his brother's name under his finger. Saying each letter in his head.
 
 O. N. E.
 

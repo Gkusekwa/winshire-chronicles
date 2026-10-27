@@ -255,7 +255,7 @@ She didn't move.
 
 The sheds.
 
-He saw them only once. From high up, turning over the harbour for the hill. Behind it, on the flats. The salt pans. Square, grey, in rows. Not grey now. Sea.
+He saw them only once. From high up, turning over the harbour for the hill. Behind it, on the flats. The salt pans. Square, in rows, gone under the sea.
 
 And the sheds along their edges. Thin roofs. Children on them. Every child in Gullhaven over seven.
 

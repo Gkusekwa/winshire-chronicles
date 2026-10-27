@@ -131,7 +131,7 @@ And talked.
 
 ---
 
-Not to Idony. To the fire.
+To the fire, more than to Idony.
 
 Quietly. He never raised his voice.
 
@@ -165,7 +165,7 @@ Idony didn't say anything.
 
 "Why?"
 
-Corvin was quiet for a long time.
+Corvin was quiet.
 
 "Because nobody had ever asked him anything," he said. "In thirty years. Not one thing." He looked at his hand on the rail. "So he didn't tell them."
 

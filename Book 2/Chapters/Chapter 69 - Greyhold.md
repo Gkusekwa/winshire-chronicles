@@ -50,7 +50,7 @@ She thought about it. Walking. With her hand on his neck. The River Road under h
 
 The crown's blue was over the gate.
 
-A crown company on the walls. Not knights. Men in blue coats with crossbows, bored, leaning on the merlons, who stood up straight when they saw what was coming up the road at the girl's side.
+A crown company on the walls: men in blue coats with crossbows, bored, leaning on the merlons, who stood up straight when they saw what was coming up the road at the girl's side.
 
 Orrun was sixteen feet at the shoulder now, and more. She'd stopped measuring him against doorways. She measured him against walls.
 
@@ -194,7 +194,7 @@ Older. Her mother was older. Greyer in her plait. The same big rough hands. She 
 
 "He's bigger."
 
-"I can see he's bigger," said Liss. "I can see him from the kitchen." She stood back from the door. "Come in. Wipe your feet."
+"I can see he's bigger," said Liss. "I can see him from the kitchen." She stood back from the door. "Come in. Wipe your feet. There's bread."
 
 ---
 
@@ -242,11 +242,9 @@ Rowan put the blunt sword back on the rack.
 
 "I sent you into a trap," she said.
 
-She said it to the rack. Not to Maren.
+She said it to the rack.
 
 "In the spring. Before the gate. The council told me to bait it with the lion and I did it. I put you at the end of it." She took her hands off the rack. "Because the council told me to. I always did what I was told. It's the only thing I was ever good at."
-
-Maren didn't say anything.
 
 "And on the River Road," said Rowan. "The day after. When the farmer walked down it with his dragons." She turned round. "I turned my back. Because I couldn't look at him. A farmer. Who'd done what three hundred years of knights hadn't. With nothing. Without being asked." She looked at Maren. "I couldn't look at him. So I turned round. And everyone saw."
 

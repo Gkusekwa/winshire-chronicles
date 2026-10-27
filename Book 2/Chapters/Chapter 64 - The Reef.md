@@ -40,7 +40,7 @@ Gunna flew her down on Tamsin.
 
 The steadiest flier on the ledges. Three hundred and twelve years old and never once dropped anything, Gunna said. They put one of the big wicker baskets on Tamsin's back in the war-harness, and Ada climbed into it on the setters' ledge with her shawl and her bag of pens and her mouth shut tight, and sat down in the bottom of it, and held onto the sides.
 
-She didn't say anything the whole way. Not a word. A day's flying, south, over the moor and the Fellwood and the Marches and the Ashlings. He flew beside Tamsin on Kharrak and looked across at the basket every few minutes and saw his mother sitting in the bottom of it with her knuckles white on the wicker and her eyes shut.
+Not a word, the whole way. A day's flying, south, over the moor and the Fellwood and the Marches and the Ashlings. He flew beside Tamsin on Kharrak and looked across at the basket every few minutes and saw his mother sitting in the bottom of it with her knuckles white on the wicker and her eyes shut.
 
 She was furious. He could tell. She'd never say so.
 
@@ -51,8 +51,6 @@ Then they came over the last of the Ashlings and the sea was there.
 Ada opened her eyes.
 
 He saw her do it. She'd felt the air change, perhaps. The smell. She opened her eyes and looked over the side of the basket, and there it was. All of it. Grey and silver and going on forever, with the light on it, and the long curve of Gullhaven's spit going out into it like an arm.
-
-She didn't say anything.
 
 They came down on the spit. Gunna got her out of the basket. She stood on the shingle with her shawl round her and her bag in her hand and looked at the sea.
 
@@ -242,7 +240,7 @@ The bond. The thread. He could feel it was there. That was all. It was there, go
 
 An empty place. Where she should be. With a thread going through it to somewhere he couldn't reach.
 
-She wasn't dead. He'd know. He'd have felt it go, the way Aurveth had felt Ennis go, and Ragnald, and Sigrun.
+She wasn't dead. He'd know. He'd have felt it go, as Aurveth had felt Ennis go, and Ragnald, and Sigrun.
 
 She was just very far away. And she hadn't come back.
 
@@ -278,4 +276,4 @@ She didn't answer. She lay on the shingle with her great old head lifted and tur
 
 She didn't say anything else.
 
-She lay all night with her head turned south-west, and he lay against her side and didn't sleep, and in the morning the salt-wives came past them in a line to the end of the spit with their cups, and poured the brine back into the sea for the Lady.
+In the morning the salt-wives came past them in a line to the end of the spit with their cups, and poured the brine back into the sea for the Lady.

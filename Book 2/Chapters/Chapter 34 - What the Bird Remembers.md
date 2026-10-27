@@ -42,7 +42,7 @@ Idony brought paper. A whole quire of it, thick, cream-coloured, the good Colleg
 
 "Kessmoor graphite," he said. "From the Fells. Charcoal smudges." He gave it to her as if it were a gift, which she supposed it was. "You'll want it not to smudge."
 
-She sat at the reading-desk at the foot of the perch with the quire in front of her and the pencil in her hand. Orrun lay at ten paces. Idony sat on the floor with his back against the shelves and his knees up, the way Wren sat.
+She sat at the reading-desk at the foot of the perch with the quire in front of her and the pencil in her hand. Orrun lay at ten paces. Idony sat on the floor with his back against the shelves and his knees up.
 
 The white lamps burned. The hum came up through the floor.
 
@@ -354,7 +354,7 @@ She held the pencil.
 
 She wrote it. Every word. In plain square letters, very carefully, so he'd be able to read it, if he'd learned. She thought he'd learned. The green dragon had said, at the Ring: his own name, and one of the letters backwards.
 
-She looked at what she'd written for a long time.
+She looked at what she'd written.
 
 *Why her. Why him.*
 
@@ -400,7 +400,7 @@ The Old Reader looked at him with its good eye.
 
 "Yes," it said. "It's a joke."
 
-It got back up on its perch. It didn't say anything else about it. Idony asked it twice, and it looked at him, and didn't answer, and after the second time he stopped asking.
+It got back up on its perch. It said no more about it. Idony asked it twice, and it looked at him, and didn't answer, and after the second time he stopped asking.
 
 ---
 

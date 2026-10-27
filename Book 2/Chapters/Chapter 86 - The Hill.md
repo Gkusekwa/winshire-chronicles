@@ -83,7 +83,7 @@ She tied the boat off. She looked at the house. A long look. At the crack. The r
 
 Then at Maren.
 
-"You came home," she said.
+"You came home," she said. "Look at the state of you."
 
 "Yes."
 
@@ -109,7 +109,7 @@ On Liss's boat and the crown's barge. Across the river from the Saltreach bank, 
 
 Every one of them from a broken place.
 
-Not all of the camp. Arn told her on the jetty, before the others were out of the boats. The Tide Council's clerk and the Quill house's woman in white had taken the first barge downriver for Wendmouth at dawn, with their tent and their ledger.
+Nearly all the camp. Arn told her on the jetty, before the others were out of the boats. The Tide Council's clerk and the Quill house's woman in white had taken the first barge downriver for Wendmouth at dawn, with their tent and their ledger.
 
 "To write it up for Corsa," said Arn.
 
@@ -259,7 +259,7 @@ The envoys didn't interrupt him. Not one. Tolley with his paper folded small in 
 
 He told it to the end.
 
-Then he stopped, and looked down at the table, and didn't say anything else.
+Then he stopped, and looked down at the table.
 
 ---
 
@@ -295,7 +295,7 @@ Rowan looked down the table at Corrow.
 
 "Does Isvaren deny it?" she said.
 
-Corrow looked at the table for a long time. His thin face anxious. His hands flat on the wood.
+Corrow looked at the table. His thin face anxious. His hands flat on the wood.
 
 "It's in the College's books," he said.
 

@@ -122,7 +122,7 @@ The walls were warm, like a stone in a fire that's gone out in the night.
 
 Down.
 
-Tobin counted. He counted out loud, under his breath, the way he talked to the madmen in the ditches, to keep himself listening. A hundred paces. Two hundred. The lantern's light going ahead of them on the black glass and coming back, and the dark beyond it, and the warm air coming up.
+Tobin counted. He counted out loud, under his breath, as he'd talked to the madmen in the ditches, to keep himself listening. A hundred paces. Two hundred. The lantern's light going ahead of them on the black glass and coming back, and the dark beyond it, and the warm air coming up.
 
 Four hundred.
 
@@ -152,7 +152,7 @@ A long time.
 
 Orrun took them down.
 
-She didn't ask him how. She felt him look at the shaft's side. Not the glass. Under it. Where the glass was thin, and behind it, the old ground. Rock. Real rock, that the Furnace had melted the face of and not the heart. He put his forepaw against the slumped glass of the ledge and pushed, and it cracked, and behind it was stone, and the stone answered him.
+She didn't ask him how. She felt him look at the shaft's side, under the glass. Where the glass was thin, and behind it, the old ground. Rock. Real rock, that the Furnace had melted the face of and not the heart. He put his forepaw against the slumped glass of the ledge and pushed, and it cracked, and behind it was stone, and the stone answered him.
 
 A stair.
 
@@ -204,7 +204,7 @@ She'd seen it before. In the cavern under Greyhold, in the days after the gate, 
 
 Warm air came out.
 
-Not the warm of the tunnel. Different. The warm of a room where somebody has slept and just got up.
+A different warm from the tunnel's. The warm of a room where somebody has slept and just got up.
 
 Orrun went through. She went after him.
 
@@ -282,7 +282,7 @@ Idony looked at it. Then at the band of script round the dome.
 
 ---
 
-He worked it out standing there. She watched him do it. The way he worked everything out, slowly, a step at a time, with his lips moving. She'd seen him do it at Vael and on the frost and on the tower.
+He worked it out standing there. She watched him do it. Slowly, a step at a time, with his lips moving, as he worked everything out. She'd seen him do it at Vael and on the frost and on the tower.
 
 "It's the song," he said. "The old song. *Before the six there was one.* Every grandmother knows it. Every child." He looked up at the ring. "It's this. It's a translation of this. Of the temple. Somebody stood in a room like this a long time ago and read that line and couldn't read the rest of it, and put it in a song." He looked at the six on the wall. "*The one fell into six.* Six sleepers. Not six kingdoms. *The last great beast lay down below.* That one." He didn't point at the lion. He didn't need to. "*It sleeps under all of us. Till the six are one again.*"
 

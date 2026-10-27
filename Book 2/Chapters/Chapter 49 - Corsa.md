@@ -128,7 +128,7 @@ The last line had a line through it. And then the same words again underneath, n
 
 *I am well.*
 
-He sat on the roof with the letter on his knee and looked at the crossed-out line for a long time.
+He sat on the roof with the letter on his knee and looked at the crossed-out line.
 
 ---
 
@@ -224,7 +224,7 @@ Somewhere at the bottom of the table a captain laughed. Short. Not amused.
 
 He watched them understand.
 
-Not the war. He saw that. They didn't care about the war. It was in another kingdom, over the river. A war for a ring of six and a crown that wasn't theirs. He saw them hear *the companies at Ashford* and not care.
+They didn't care about the war. He saw that. It was in another kingdom, over the river. A war for a ring of six and a crown that wasn't theirs. He saw them hear *the companies at Ashford* and not care.
 
 He saw them hear *under the Council's licence*.
 
@@ -370,7 +370,7 @@ Vey nodded slowly.
 
 ---
 
-He said it the way Calder had heard men in the Marches say *by the river*. Or *by the Clan*. As if it were a thing everybody said. As if everybody knew.
+He said it as Calder had heard men in the Marches say *by the river*. Or *by the Clan*. As if it were a thing everybody said. As if everybody knew.
 
 "The Drowned Lady," said Calder.
 

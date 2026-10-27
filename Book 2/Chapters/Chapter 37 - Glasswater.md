@@ -31,13 +31,13 @@ notes -->
 
 The cracks ran out from him in every direction, and he didn't move.
 
-Maren stood with her hand on his neck and felt them go. Through him. Through his feet, into the shingle, through the stones under the shingle, down. Not like when he opened stone. Not a pushing. A listening. He had his head down so low that his chin was on the stones, and his whole body was still in a way she'd only felt once before, on the night at the lock, with the rock humming and the thing below breathing out.
+Maren stood with her hand on his neck and felt them go. Through him. Through his feet, into the shingle, through the stones under the shingle, down. A listening, not the pushing she felt when he opened stone. He had his head down so low that his chin was on the stones, and his whole body was still in a way she'd only felt once before, on the night at the lock, with the rock humming and the thing below breathing out.
 
 He was listening down. Under the shore. Under the lake.
 
 In the white glare of every lamp in Vael, with the cold wind off the water in her face, she listened with him.
 
-She felt it. Very far down. Not a breath. Something larger than a breath. A turning. Like a weight moving in a deep place. Slow. So slow that it might have been going on for a hundred years and she was only now close enough to feel it.
+She felt it. Very far down. Something larger than a breath. A turning. Like a weight moving in a deep place. Slow. So slow that it might have been going on for a hundred years and she was only now close enough to feel it.
 
 "It is turning over," said Orrun, in her. "In its sleep. Like a child before morning."
 
@@ -205,7 +205,7 @@ The runes were lit.
 
 All along the blade, from the hilt to a hand's breadth from the point. The old letters that Haverly's family had cut there before anybody's grandfather was born. They'd been dark since the stair. Since the morning she'd stood in the river-fog with the dead on the hill and Grieve had put the sword into her hands, dark and cold, and she'd sharpened it every night on the jetty and watched the letters stay dark under the whetstone, and stopped expecting anything else. She'd carried it since the first day. Through Hearthmere and the Ring and the Moot and the Plains and the High Crown. Steel. A good edge. Nothing.
 
-They were white. Not bright. A thin white light along each stroke, like frost catching the first sun, steady, and when she turned the blade the light didn't move with the light of the sky. It was in the steel.
+They were white: a thin white light along each stroke, like frost catching the first sun, steady, and when she turned the blade the light didn't move with the light of the sky. It was in the steel.
 
 She held it up. Orrun turned his head and looked at it.
 
@@ -219,7 +219,7 @@ The lake rose in the middle of the morning.
 
 She was standing at the water's edge with the sword in her hand and the old cow beside her and Orrun lying at her feet, and the ice moved.
 
-Not cracked. Moved. The whole floor of it, out in the middle of the lake where the island had lain, lifted. Slowly. A great low hump coming up in the grey-white, as wide as the lower city, with cracks running out from it in rings. She heard it before she saw the cracks. A groan. So deep that it was more in her feet than her ears.
+The whole floor of it, out in the middle of the lake where the island had lain, lifted. Slowly. A great low hump coming up in the grey-white, as wide as the lower city, with cracks running out from it in rings. She heard it before she saw the cracks. A groan. So deep that it was more in her feet than her ears.
 
 Then the ice broke, and something came up through it.
 
@@ -267,7 +267,7 @@ He stopped at the mouth of Dye Street, where it came out on the shore between th
 
 He put his head down.
 
-She felt him go into the stone. Not the cobbles. Under them. The old stone. The stone the College had paved over, and the city had built on, and nobody had thought about for two hundred years: the same old-realm stone that ran under the hill and the terrace and the Library and the Undercroft, running down through the city under the streets to the water. He went into it. She went with him.
+She felt him go into the stone under the cobbles. The old stone. The stone the College had paved over, and the city had built on, and nobody had thought about for two hundred years: the same old-realm stone that ran under the hill and the terrace and the Library and the Undercroft, running down through the city under the streets to the water. He went into it. She went with him.
 
 It answered.
 
@@ -337,7 +337,7 @@ She gave it to him.
 
 He held it like a pen.
 
-Not like a sword. He held it high on the grip, close to the guard, with the point down against the stone, as he held his pen at the desk under the bird's perch when he wrote in the smallest hand he had. His hand was shaking. She saw that. She saw him see it and stop, and breathe, and the shaking stop.
+He held it high on the grip, close to the guard, not like a sword, with the point down against the stone, as he held his pen at the desk under the bird's perch when he wrote in the smallest hand he had. His hand was shaking. She saw that. She saw him see it and stop, and breathe, and the shaking stop.
 
 "Keep your hand there," he said. "Don't move it."
 
@@ -511,7 +511,7 @@ She stayed on the wall.
 
 Later there was smoke on the hill.
 
-She saw it go up from behind the Library's cliff-front, black, thick, in the frost-still air. And then she felt something, through Orrun, through the stone. A roar. Not a sound. A shaking in the old stone under the city, coming down from the hill. Then another.
+She saw it go up from behind the Library's cliff-front, black, thick, in the frost-still air. And then she felt something, through Orrun, through the stone. A roar that was no sound but a shaking in the old stone under the city, coming down from the hill. Then another.
 
 Orrun opened his eyes.
 
@@ -535,7 +535,7 @@ She was on the wall when it happened. The sun had gone down behind the High Crow
 
 They went out.
 
-Not all at once, like the hill at noon on the binding day. One after another. Down the hill from the top. She watched them go. The tall windows of the Library, white, then grey, then dark. The towers. The Hall of Rings. Down the hill toward Candle Row, street by street, like somebody walking down through the city putting them out with their fingers. Down Rope Street. Down Ferry Street. Mother Talley's lamp at the corner of the drowned fish-market, white, and then nothing.
+One after another this time, where the hill at noon on the binding day had gone all at once. Down the hill from the top. She watched them go. The tall windows of the Library, white, then grey, then dark. The towers. The Hall of Rings. Down the hill toward Candle Row, street by street, like somebody walking down through the city putting them out with their fingers. Down Rope Street. Down Ferry Street. Mother Talley's lamp at the corner of the drowned fish-market, white, and then nothing.
 
 Then the lower city. Then the last one, on the shore, by the steps.
 

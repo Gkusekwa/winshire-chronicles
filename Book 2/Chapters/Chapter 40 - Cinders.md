@@ -54,7 +54,7 @@ Orrun came in behind her through the great door. It was high enough. Only just.
 
 They walked the length of it. She'd walked it every second day for a month and never once in the dark.
 
-There was light at the far end. Not a lamp. Grey. The last of the sky, coming in through a great hole where the tallest window had been. And against it, filling the hole, the head of a red dragon, resting on the broken sill with its eyes shut.
+There was light at the far end, grey: the last of the sky, coming in through a great hole where the tallest window had been. And against it, filling the hole, the head of a red dragon, resting on the broken sill with its eyes shut.
 
 She stopped at the last shelves.
 
@@ -114,7 +114,7 @@ The broken shelving. The shelves the red dragon had brought down coming in throu
 
 No books. She saw the old reader stop one of the young ones going out with an armful. He took them off him and put them back on the floor, one at a time, carefully, and the young one went and got more wood.
 
-Orrun carried the heaviest beams. In his jaws. Out through the readers' door, which he didn't fit, so he made it fit. Stone opened for him. Not much. Enough. He laid the beams on the stack and went back for more, swaying.
+Orrun carried the heaviest beams. In his jaws. Out through the readers' door, which he didn't fit, so he made it fit. Stone opened for him, enough. He laid the beams on the stack and went back for more, swaying.
 
 ---
 
@@ -142,7 +142,7 @@ The small dragon lifted her head.
 
 She looked at Calder. She put her nose against his hand, where he held the collar. Then she put her head down again, on the bottom step, but closer to him.
 
-He sat down on the step beside her and didn't say anything.
+He sat down on the step beside her.
 
 ---
 
@@ -308,7 +308,7 @@ He threw it in.
 
 Maren watched it go. A small dark curve of iron, turning once, into the coals under the bird.
 
-At the foot of the steps, at the edge of the light, the big Warden stood with his lynx. Brannagh, somebody had shouted on the roofs that afternoon. Big and short-haired, soaked to the chest still, with his dead sleeve-ward on his arm. She hadn't seen him come. He watched the iron go into the fire. He didn't say anything.
+At the foot of the steps, at the edge of the light, the big Warden stood with his lynx. Brannagh, somebody had shouted on the roofs that afternoon. Big and short-haired, soaked to the chest still, with his dead sleeve-ward on his arm. She hadn't seen him come. He watched the iron go into the fire.
 
 She remembered what he'd said at dusk, on the shore, to his own arm.
 
@@ -334,7 +334,7 @@ Dane stood a moment longer. Then he went up the steps after Quell, into the dark
 
 Nessa came up at the end, when the fire was low.
 
-With Tib. Up the outside steps from the terrace, in her scarf, with her square sunburned face red in the firelight. She looked at the fire. At the readers. At the dragons. At Orrun, and her eyes went wide and then narrow, the way they did. Then at Idony, bent on the step with his hands in his armpits and no ring on his hand.
+With Tib. Up the outside steps from the terrace, in her scarf, with her square sunburned face red in the firelight. She looked at the fire. At the readers. At the dragons. At Orrun, and her eyes went wide and then narrow. Then at Idony, bent on the step with his hands in his armpits and no ring on his hand.
 
 She went to him and stood in front of him.
 

@@ -73,7 +73,7 @@ Kharrak lay up in the saltings north of the city, in a creek among reeds taller 
 
 *Unless,* said Kharrak, and shut his eyes.
 
-Calder walked in at dawn as a drover. The way he'd walked into the Cross, and into Wendmouth in the autumn. With his hood up and a borrowed crook and his head down, among the carters on the north road, past the toll-house, into the city. Nobody looked at him. A man with a long face and a hat, the paper said. He'd left the hat at Varrhold.
+Calder walked in at dawn as a drover. He'd walked into the Cross like that, and into Wendmouth in the autumn: with his hood up and a borrowed crook and his head down, among the carters on the north road, past the toll-house, into the city. Nobody looked at him. A man with a long face and a hat, the paper said. He'd left the hat at Varrhold.
 
 ---
 
@@ -125,11 +125,11 @@ She didn't come back till dawn.
 
 He knew where she'd been. He didn't know how he knew. In the morning she came down on the net-maker's roof and folded her wings and sat there, and he climbed up through the hatch and sat beside her on the wet slates in the grey light, and didn't ask.
 
-She didn't say anything for a long time.
+She sat a long while before she spoke.
 
 *There's a house by the fish-docks,* she said at last. *A lodging-house. With yellow cloth on the door. Old. Torn.* A pause. *The yellow tower.*
 
-He didn't say anything.
+He kept still.
 
 *They're all there. Delling's. What's left. They come and go. They drink.* She was looking at the harbour, not at him. *I sat on the roof all night. And looked down. In the yard. At the ones who came and went.*
 
@@ -227,7 +227,7 @@ He put the collar inside his coat.
 
 The book was on a lectern by the far wall.
 
-Big. Bigger than Rook's. Bound in red leather, with gold on the spine, open on the lectern under a shuttered lamp, the way the great ledgers lay open in the factors' houses at the Cross. He pulled the shutter on the lamp back a finger's width and looked at the open page.
+Big. Bigger than Rook's. Bound in red leather, with gold on the spine, open on the lectern under a shuttered lamp, like the great ledgers in the factors' houses at the Cross. He pulled the shutter on the lamp back a finger's width and looked at the open page.
 
 Rows. Columns. A neat small hand, very even, the same all the way down. Numbers.
 
@@ -255,7 +255,7 @@ He couldn't move.
 
 Brask came down. He read it.
 
-He read it slowly, by the shuttered lamp, with his finger, the way Calder had seen Arn read, the way Ada read, the way they all read who'd never had to.
+He read it slowly, by the shuttered lamp, with his finger, like Arn, like Ada.
 
 "*The Varr boy at the ford,*" said Brask. "*Three hundred. For the account of the House. At the instruction of the Council's member.*"
 
@@ -329,7 +329,7 @@ He couldn't stop now. He sat on his pallet and it came out of him like water out
 
 "The colleges. At Vael. They're buying binding-lamps. By the cartload. Tall iron ones with crystal in them, the crystal comes from Kessmoor, out of the Iron Fells, cut, and the colleges cut the words in it themselves, the old words, and the house buys the crystal in Kessmoor and ships it up the Wend and over the pass, and takes a tenth." He swallowed. "Cartloads. Every month since the spring. Since the thing flew. They can't get enough. They want a hundred. They want more than a hundred." He looked at Calder. "I keep the count. That's all. That's all I do. Please."
 
-Calder looked at him for a long time.
+Calder looked at him.
 
 He didn't know what a binding-lamp was. He knew what a binding was.
 
@@ -389,7 +389,7 @@ Kharrak landed on the quay at the bottom of the lane with a crash that cracked t
 
 Calder got up.
 
-He had the book. Brask had the crowbar. They went down Mint Lane past the place where the drawer had stood, onto Gallows Quay, past the red dragon. The quay was empty. Everybody had run. The beast-sellers, the buyers, the porters, the gulls. Only the cages were left. Along the whole length of the quay, in rows, the way they'd been in the autumn. Hounds and martens and falcons and a sea-otter and a young wyvern, hooded, wild-caught on the coast, and goats and a white ox and things he didn't have names for.
+He had the book. Brask had the crowbar. They went down Mint Lane past the place where the drawer had stood, onto Gallows Quay, past the red dragon. The quay was empty. Everybody had run. The beast-sellers, the buyers, the porters, the gulls. Only the cages were left. Along the whole length of the quay, in rows, as in the autumn. Hounds and martens and falcons and a sea-otter and a young wyvern, hooded, wild-caught on the coast, and goats and a white ox and things he didn't have names for.
 
 He took the crowbar from Brask.
 
@@ -411,7 +411,7 @@ It was empty. He'd let everything out.
 
 Kharrak burned it to the waterline.
 
-He did it slowly, the way Calder asked him, so nobody would be in it. He walked round it first, on the quay, and roared, once, at each door, and waited. Nobody came out. There was nobody in it. Then he put his head down to the stilts it stood on, over the mud, and opened his mouth.
+He did it slowly, because Calder asked him to, so nobody would be in it. He walked round it first, on the quay, and roared, once, at each door, and waited. Nobody came out. There was nobody in it. Then he put his head down to the stilts it stood on, over the mud, and opened his mouth.
 
 The fire went in under it.
 

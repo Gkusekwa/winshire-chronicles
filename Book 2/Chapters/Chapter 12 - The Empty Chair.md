@@ -163,7 +163,7 @@ Ada lit the fire with her word that night in the cave mouth, and it caught befor
 
 "Whatever it is you've been not saying since we came up the hill." She poked the fire. "About her."
 
-He didn't say anything.
+He kept quiet.
 
 "She'd not have come, son," said Ada. "Not into Arn's yard. Not with the lion. Not to see you. Not for any of it." She put the stick down. "She knew that before you did. Don't be a fool about it."
 
@@ -319,13 +319,13 @@ Calder stood beside him on the turf and looked south too.
 
 "The book's at Cotter's Cross," he said. "With Delling. In the chest. Rook's book. Every bag of silver and what it was for." He didn't look at Arn. "There's a man at the Cross who came up out of the ground, and three thousand men waiting to see what he'll pay them. Delling's there too. Delling sells anything." He paused. "I'm going to buy it."
 
-Arn didn't say anything for a while.
+Arn was quiet a while.
 
 "With what?"
 
 "I don't know yet."
 
-Arn laughed. Not much. A short sound in his nose, the first Calder had heard out of him since the ford.
+Arn laughed, a short sound in his nose, the first Calder had heard out of him since the ford.
 
 "That's not flying," Arn said. "You understand. The Clan flies when the Clan flies. That's the price you said yes to. This isn't flying. This is buying." He looked south. "The Clan doesn't fly for that. The Clan doesn't buy dead men's books in Saltreach inns."
 
@@ -373,7 +373,7 @@ He knew about Dag. Everybody knew about Dag. Dag Rorke, the hardest rider on the
 
 Kharrak lay there a long time.
 
-Then he got up. He got up all at once, the way he did everything, and stood on the ledge over Calder with the sun behind him, broad and scarred and red as a forge, and put his head down and looked at Calder from very close, so close Calder could feel the heat coming off him.
+Then he got up, all at once, and stood on the ledge over Calder with the sun behind him, broad and scarred and red as a forge, and put his head down and looked at Calder from very close, so close Calder could feel the heat coming off him.
 
 *Get on, then,* said Kharrak.
 
@@ -397,7 +397,7 @@ He didn't know how. He'd held it at the Ewe Hollow turn with the sixteen and the
 
 Kharrak went over in the air at the top of the climb and came down.
 
-Not fast. Not falling. Down in a long slant, with the wings out, over the moor, with the heather going by under them, and the red tide going down a little, and down, until it was only the heat coming off the scales under Calder's legs.
+Down they went in a long slant, with the wings out, over the moor, with the heather going by under them, and the red tide going down a little, and down, until it was only the heat coming off the scales under Calder's legs.
 
 *Hm,* said Kharrak.
 

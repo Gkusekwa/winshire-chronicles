@@ -25,7 +25,7 @@ notes -->
 
 Millbrook's well had been sweet for three hundred years, and by the sixth day after the flight it had turned.
 
-Maren smelled it from the bottom of the jetty road. She'd come down from the ferry house with Tam and a handcart to fetch what was left of Odo's tools out of the burned forge, because Odo had lain in Liss's kitchen for two days telling everyone in it that if the tongs and the swages and the good anvil weren't fetched before the companies got to them he'd go down for them himself on his hands, and nobody doubted him. The road went up from the river past the inn and the mill to the square, and the well stood in the middle of the square under its carved stone hood, the way it had stood all her life, with the bucket on its chain and the trough beside it for the beasts.
+Maren smelled it from the bottom of the jetty road. She'd come down from the ferry house with Tam and a handcart to fetch what was left of Odo's tools out of the burned forge, because Odo had lain in Liss's kitchen for two days telling everyone in it that if the tongs and the swages and the good anvil weren't fetched before the companies got to them he'd go down for them himself on his hands, and nobody doubted him. The road went up from the river past the inn and the mill to the square, and the well stood in the middle of the square under its carved stone hood, as it had stood all her life, with the bucket on its chain and the trough beside it for the beasts.
 
 There was a queue at it. There'd always been a queue at it. Millbrook's well water was famous on the river; Saltreach boatmen came up the Wend for it; it was said to cure the gripe and keep milk and make bread rise. Hearthmere's sweet wells, the ballad-men called them, as if every town had one. Most did.
 
@@ -359,7 +359,7 @@ It was Lisska. She stood in the hollow with her wings half up, shaking, looking 
 
 The two of them looked at each other across the hollow.
 
-Maren felt it go between them through the bond. Not words, at first. A rush, like a stream going over a weir, all at once and tumbling, and Orrun taking it in the way he took everything, slowly, turning each piece over. Kin-speech. Far kin. She'd felt it in the cavern and on the road. She'd felt it only when the green one was near, within sight; further than that, nothing.
+Maren felt it go between them through the bond. At first it came as a rush, like a stream going over a weir, all at once and tumbling, and Orrun took it in slowly, turning each piece over. Kin-speech. Far kin. She'd felt it in the cavern and on the road. She'd felt it only when the green one was near, within sight; further than that, nothing.
 
 *She went to the ferry house,* said Orrun at last, to Maren. *He sent her back. To look in on the child. Every few days, he said. She found the ferry house empty of them, and the mother on the jetty pointing over the water.* He was quiet. *She has been looking for us since the night.*
 

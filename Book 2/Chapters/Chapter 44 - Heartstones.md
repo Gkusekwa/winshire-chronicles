@@ -160,7 +160,7 @@ She said it with something in her voice that he'd heard in Quell's, once, when Q
 
 "Hearts. When you close it."
 
-Pike thought about it. Not long. She knew. She just had to find the number.
+Pike thought about it, briefly. She knew. She just had to find the number.
 
 "Four cores," she said. "When the field's closed, each core burns about a hundred and fifty a day. Big ones, ironback, sabrecat. More if they're small." She looked along the shelves. "Six hundred a day, near enough. We've got stores for forty days. The cranes are bringing more. There's a cart in every day from Ironhythe."
 

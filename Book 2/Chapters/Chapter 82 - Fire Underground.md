@@ -40,7 +40,7 @@ Not the chains. Through them. The Titan stood in the river under six white chain
 
 And the chains fed on it.
 
-He saw them go brighter. All six. Not because it pulled. Because the draw went through them too. They fed on what they held and what went through what they held, brighter and brighter, white, too white to look at.
+He saw them go brighter. All six, because the draw went through them too. They fed on what they held and what went through what they held, brighter and brighter, white, too white to look at.
 
 And the stone they hung on had nothing in it to carry them.
 

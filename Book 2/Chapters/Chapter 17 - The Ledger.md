@@ -65,7 +65,7 @@ Delling's company crossed the moor in three days.
 
 Calder watched the second party from the edge on the thirty-sixth day, sitting on the red dragon's neck on a crag above the peat road with the wind in his face.
 
-They came up off the south slope and over the lip of the moor, two days out of the Ashlings, in a long straggling line, seventy men or so, in their company coats with the yellow tower on the breast, with their crossbows slung and their packs on their backs, walking. Not marching. Walking, like men going home from a fair. Above them, on the heights either side of the peat road, the ledges sat: Hulda Sarr and her black-and-grey Harl on the left, an old man called Brede and his blue on the right, and further on, two more pairs, small against the sky. Sitting. Watching. Not moving.
+They came up off the south slope and over the lip of the moor, two days out of the Ashlings, in a long straggling line, seventy men or so, in their company coats with the yellow tower on the breast, with their crossbows slung and their packs on their backs, walking, like men going home from a fair. Above them, on the heights either side of the peat road, the ledges sat: Hulda Sarr and her black-and-grey Harl on the left, an old man called Brede and his blue on the right, and further on, two more pairs, small against the sky. Sitting. Watching. Not moving.
 
 The men on the road looked up at the dragons on the heights. Then they looked at the crag, and saw the red one.
 
@@ -77,7 +77,7 @@ Calder felt Kharrak's tide come up.
 
 *I know you know.* The tide stayed up, hot, under Calder's legs. *I'm only saying.*
 
-On the road below, the men had stopped. All of them, in their line, looking up at the red dragon on the crag with its wings half open and its head down. Calder could see their faces from here. Not the features. The white of them, turned up.
+On the road below, the men had stopped. All of them, in their line, looking up at the red dragon on the crag with its wings half open and its head down. From here Calder could see the white of their faces, turned up.
 
 He put his hand flat on Kharrak's neck.
 
@@ -259,7 +259,7 @@ Mornings with the old one. Ivar Leck came every noon and put his hands on the sp
 
 Evenings at the caves, with the book.
 
-Wren had started reading with Ada. Not aloud. Over her shoulder, while Ada read, with her lips moving. By the tenth night she was reading ahead, and once she said the next word before Ada got to it, and Ada stopped and looked at her and said, "Well," and went on.
+Wren had started reading with Ada, silently, over her shoulder while Ada read, with her lips moving. By the tenth night she was reading ahead, and once she said the next word before Ada got to it, and Ada stopped and looked at her and said, "Well," and went on.
 
 Calder couldn't follow it. He tried. He sat beside them and looked at the page under Ada's finger and could see that the marks were words, and could find the shape of the ring of six where Rook had drawn it in the margin by the bags from the coast, and could pick out a letter here and there that he knew from the signs at the Cross. That was all. The rest was marks.
 
@@ -395,7 +395,7 @@ She didn't joke again for weeks. When she did, it was smaller, and he heard it.
 
 Late, when the others were asleep, he sat across the fire from his mother.
 
-The book was shut on her knees. She had her hand flat on the cover, the way Delling had, the way Arn had on the table beside the knife.
+The book was shut on her knees. She had her hand flat on the cover, as Delling had, and Arn on the table beside the knife.
 
 "Teach me," he said.
 
@@ -403,7 +403,7 @@ She looked up.
 
 "My letters. All of them." He heard his own voice, low, so as not to wake Wren. "I'll not have it read to me again. Not that page. Not any of it. I'll read it myself. Every word." He looked at the book under her hand. "I'm thirty-two years old and my girl can read a dead man's hand faster than I can see it. I'll not sit and have it read to me like a child."
 
-Ada didn't say anything for a long time.
+For a while Ada said nothing.
 
 Then she put the book down on the warm floor, carefully. She reached into the fire and took out a stick with the end burnt black, and blew on it till it stopped smoking, and leaned over and drew on the cave floor between them, in the firelight, slowly, a shape.
 
@@ -417,4 +417,4 @@ She held out the burnt stick. "Start there."
 
 He took it.
 
-He leaned over the cave floor and drew the curve, crookedly, beside his mother's, while the fire went down and the tarn went black and the green dragon lay in the cave mouth with her eyes open and didn't say anything at all.
+He leaned over the cave floor and drew the curve, crookedly, beside his mother's.

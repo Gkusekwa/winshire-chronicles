@@ -210,7 +210,7 @@ He didn't know he was going to say that until he'd said it. *Keep your coast.* S
 
 "It's my coast," he said. "It's my people. Not the Clan's. Mine. The Marches folk and the Saltreach folk. I've been on this side of the river all my life." He looked at the spit. "Four thousand people who think a woman under the water keeps their stones. And a Council in Corsa that's sold the reef to the highest bidder. And a fleet coming." He folded the letter. "Somebody's got to be on the spit who knows what's coming. Who's felt it." He put the letter in his coat. "I'm staying."
 
-Arn looked at him for a long time.
+Arn looked at him.
 
 "Then when the coast's done," said Arn, "the Clan goes to the river."
 

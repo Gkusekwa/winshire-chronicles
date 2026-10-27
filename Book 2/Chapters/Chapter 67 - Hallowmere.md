@@ -29,7 +29,7 @@ All the way up the Sun Road. North-east, out of Sarovel, back the way she'd come
 
 The Grace was gone.
 
-She felt it go on the first day out of Solenne. Not the slow thinning she'd felt coming in. Gone. The vineyards grey, the olives grey, the white walls grey in a grey light. Every stage-chapel's gilded sun dull over its door. At dusk nobody sang. The stage-keepers stood in their doorways at the hour when they'd have sung, and didn't, and went back in.
+She felt it go on the first day out of Solenne. Gone, after the slow thinning she'd felt coming in. The vineyards grey, the olives grey, the white walls grey in a grey light. Every stage-chapel's gilded sun dull over its door. At dusk nobody sang. The stage-keepers stood in their doorways at the hour when they'd have sung, and didn't, and went back in.
 
 They still knelt when Orrun came through the gate.
 
@@ -177,7 +177,7 @@ The old woman looked at her as if she'd asked who the sun was.
 
 Maren knelt there till they'd finished.
 
-Then she got up and went out to where Orrun lay in the lane with his chin on the cobbles, and put her hand on his neck, and didn't say anything.
+Then she got up and went out to where Orrun lay in the lane with his chin on the cobbles, and put her hand on his neck.
 
 ---
 
@@ -269,7 +269,7 @@ Thale went on as if she hadn't spoken.
 
 She knew before he said it.
 
-She'd stood in a room like this before. Not this room. A small room at the top of the north tower at Greyhold, with a knight-captain behind a desk. In the spring before the gate. Told to take her lion down into a trap. So the Restoration couldn't have him.
+She'd stood in a room like this before. A small room at the top of the north tower at Greyhold, with a knight-captain behind a desk. In the spring before the gate. Told to take her lion down into a trap. So the Restoration couldn't have him.
 
 "The lion," said Thale.
 

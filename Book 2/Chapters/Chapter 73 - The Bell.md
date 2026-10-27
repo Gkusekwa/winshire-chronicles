@@ -299,7 +299,7 @@ On the harpoons, in the Titan's side. On the hulls of the fleet. On the chains i
 
 The bell rang once more.
 
-Loud. From under the water. Not low now. A clang that went through him like a blow.
+Loud now, from under the water. A clang that went through him like a blow.
 
 The reef cracked across.
 

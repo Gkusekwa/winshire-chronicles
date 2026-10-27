@@ -125,7 +125,7 @@ And round its neck the collar. Gold. A hand's breadth wide. Engraved on the outs
 
 Idony read it.
 
-Not the gold. The gold was for show. Under the gold, inside it, against the beast's neck, iron. A band of plain dark iron, and on its inner face, where you'd never see it unless you took it off, the hooked script.
+The gold was for show. Under it, inside it, against the beast's neck, iron. A band of plain dark iron, and on its inner face, where you'd never see it unless you took it off, the hooked script.
 
 Very fine. Very small. Sarovel's court hand, close and elegant, with long tails on the hooks. He'd never seen it. He read it anyway.
 
@@ -139,7 +139,7 @@ A shaping.
 
 He knew it from the grammar.
 
-Not from the chapter on binding. Nobody in Vael would ever have written a chapter on binding. From the chapter on shaping. The greater shapings, the ones the College didn't teach, the ones that changed a living thing's nature, that the grammar listed in a long dry paragraph at the end of the chapter with a note that said *forbidden everywhere but Sarovel's court* and nothing else.
+From the chapter on shaping. Nobody in Vael would ever have written a chapter on binding. The greater shapings, the ones the College didn't teach, the ones that changed a living thing's nature, that the grammar listed in a long dry paragraph at the end of the chapter with a note that said *forbidden everywhere but Sarovel's court* and nothing else.
 
 A binding, at bottom, was a greater shaping done on a beast's self.
 
@@ -221,8 +221,6 @@ His voice was quiet. It didn't need to be anything else.
 
 "He did," said Corvin. He didn't look round at the captain. "I didn't ask him to. I asked him for the case. The bird wouldn't give it." He came and stood beside Idony at the white gate and looked at the unicorn. "I'm told it died very well."
 
-Idony didn't say anything.
-
 "I know who you are," said Corvin. "The Long Library's reader. Second ring, broken. The one who walked out of the colleges' binding in the middle of the form." He looked at the unicorn. "The one who sat at a desk at the foot of a perch one night in the summer with his palm on a roll of vellum, and read it, all night."
 
 "Who told you?"
@@ -237,7 +235,7 @@ Under his arm. Dark wood. Tarnished silver. The College of Tides' mark on the li
 
 The roll. The appendix, folded under it.
 
-"I've had it since the autumn," said Corvin. "I can't read a word of it." He looked up at Idony from the straw. "Nobody in Sarovel can. Nobody in Saltreach. Your two old men in the Sixth-ring house won't leave the house. I sent to ask. They sent my man back with his letter unopened."
+"I've had it since the autumn," said Corvin. "I can't read a word of it." He looked up at Idony from the straw. "Nobody in Sarovel can. Nobody in Saltreach. Your two old men in the Sixth-ring house won't leave it. I sent. They sent my man back with his letter unopened."
 
 He took the appendix out. He unfolded it on the straw. The rune of holding, drawn stroke by stroke. And under it, the working-words.
 
@@ -263,7 +261,7 @@ Corvin looked at him.
 
 "What?"
 
-Corvin was quiet for a long time. He looked at the unicorn standing in its stall with its empty eyes and its cracked collar.
+Corvin was quiet. He looked at the unicorn standing in its stall with its empty eyes and its cracked collar.
 
 "That's mine," he said.
 
@@ -405,7 +403,7 @@ He went to the door and looked in.
 
 Inside, on the straw, against the lion's great head, curled up, with her coat pulled round her and her arm over the lion's nose, Maren. Asleep. Her face turned into his mane. Her boots still on. Mud on them to the knee, from the Elderwood.
 
-He stood in the doorway and looked at her for a long time.
+He stood in the doorway and looked at her.
 
 ---
 
@@ -413,17 +411,17 @@ He stood in the doorway and looked at her for a long time.
 
 He'd come down the ladder from the loft. Quietly, for him. He stood beside Idony in the doorway.
 
-"She came back this afternoon," he said. "From the wood. She's been walking since dawn. She's got two letters in her coat she won't read." He looked at her. "Don't wake her."
+"She came back this afternoon," he said. "From the wood. Walking since dawn. Two letters in her coat she won't read." He looked at her. "Don't wake her."
 
 Idony didn't.
 
 He told Tobin instead. Standing in the street outside the stable, in the bright cold night, low. The day. The three-hundred-and-fifteenth, near noon. The collars. The drawer behind the screen. Dane in the gallery. The tall man with the grey eyes in the stables at night, with the case, kneeling in the straw.
 
-"He asked you," said Tobin.
+"He asked you," said Tobin, before he'd finished.
 
 "He asked me."
 
-"What did you say?"
+"And?"
 
 "No."
 

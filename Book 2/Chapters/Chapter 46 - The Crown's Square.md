@@ -90,7 +90,7 @@ Ulric looked at him.
 
 "The Marches are going to starve this winter," said Arn. "Both banks. The flood took the late barley. The companies took the rest." He looked at the empty chair. "The Clan's got mutton. The Clan's got the high fields that the water never reached. If the crown stops driving the river folk back over the Wend, the Clan will send grain down the Way to the Marches all winter. To both banks. To whoever's there."
 
-Ulric didn't say anything for a long time.
+Ulric was quiet.
 
 "Red and grey," he said at last. "Both."
 
@@ -124,7 +124,7 @@ He looked at it.
 
 He went on the two-hundred-and-fifth day.
 
-Off the setters' ledge at dawn. Kharrak under him and Lisska ahead. Aurveth lifted her head from the warm stone as they went and watched them go and didn't say anything. He felt her watching till they were over the Scarfell's edge.
+Off the setters' ledge at dawn. Kharrak under him and Lisska ahead. Aurveth lifted her head from the warm stone as they went and watched them go. He felt her watching till they were over the Scarfell's edge.
 
 South and west. Over the Marches, brown still where the flood had been, the water-meadows gone to mud and wrack. Over the Wend, grey, back inside its banks. Over the Brackenwood, the royal forest by Greyhold, black and bare. Then the dead country.
 
@@ -146,7 +146,7 @@ He could see them from the air. In the better streets, along the terraces, on ir
 
 Smoke from cookfires. Tallow. A city that had lit itself for three hundred years with something nobody understood, burning candles.
 
-At the top of the hill, along the last terrace, a long hall. Not a castle. A row of grey stone halls joined end to end, with steep slate roofs and carved doors. The chapter-houses, where the knightly orders sat with the crown. And in front of them, a square.
+At the top of the hill, along the last terrace, a long hall. A row of grey stone halls joined end to end, with steep slate roofs and carved doors. The chapter-houses, where the knightly orders sat with the crown. And in front of them, a square.
 
 Paved. Wide. With steps up to the biggest of the halls at its head, and a dead lamp on a post at each corner.
 

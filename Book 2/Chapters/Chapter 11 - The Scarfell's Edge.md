@@ -80,9 +80,9 @@ Behind them and below, the land fell away into the Marches. She could see the wh
 
 The other bank was there too. Hearthmere. She couldn't see it. She knew where it was.
 
-Under her feet the ground hummed.
+Under her feet the ground hummed, faintly.
 
-Not much. She'd been feeling it through Orrun since they came up out of the trees: the moor's ground was alive, more than the Fellwood had been, more than anywhere she'd stood since the island. It came up through his feet into the bond like warmth up through a floor. And under the warmth, faint and steady, the hum. Like a bowl struck once and still ringing. Toward the east. Always toward the east.
+She'd been feeling it through Orrun since they came up out of the trees: the moor's ground was alive, more than the Fellwood had been, more than anywhere she'd stood since the island. It came up through his feet into the bond like warmth up through a floor. And under the warmth, faint and steady, the hum. Like a bowl struck once and still ringing. Toward the east. Always toward the east.
 
 He was standing with his head turned that way, into the wind, looking at nothing she could see.
 
@@ -110,7 +110,7 @@ She didn't look at Maren. She looked at Orrun. And then she bowed. Not the knigh
 
 Orrun looked at her.
 
-After a moment he lowered his head. Not far. Enough.
+After a moment he lowered his head, a little. Enough.
 
 The old woman straightened. Then, at last, she looked at Maren.
 
@@ -208,7 +208,7 @@ She sat down beside Maren on the heather with her knees up, as Wren sat. She had
 
 "Thank you," she said.
 
-Maren didn't say anything.
+Maren didn't know what to say to that.
 
 "For the granary. For the river. For bringing them up." Bel's voice was flat. A list, like Gunna's, because it had to be said. "I didn't say it on the way. I couldn't. I'm saying it now."
 

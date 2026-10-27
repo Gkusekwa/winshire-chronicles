@@ -199,7 +199,7 @@ Orrun stood at the edge of the clearing a long time.
 
 Then he walked out among them.
 
-She didn't follow. Hesper put a hand on her arm, lightly, and she didn't need it. She stood at the edge of the pines and watched him go down the first row slowly, putting his nose to the foot of each stone, one after another, the way he'd put his nose to the root-hole in the Fellwood. Stopping. Going on.
+She didn't follow. Hesper put a hand on her arm, lightly, and she didn't need it. She stood at the edge of the pines and watched him go down the first row slowly, putting his nose to the foot of each stone, one after another. Stopping. Going on.
 
 She felt it through the bond. She'd thought it would be grief. It was something emptier than that, and worse.
 
@@ -341,7 +341,7 @@ They came out of the trees at all hours, by ones and twos, men and women in patc
 
 The ground had shaken in the north of the Thornwood, three days' walk away. Twice. A long low shake, felt in the feet, gone in a moment. Nobody had seen why.
 
-The deer were moving west. Not many. In ones and twos, a few each week, out of the eastern Thornwood, toward the Plains. And the boar. And the small things, the martens and the badgers. As if something had told them to go. As if a smell had come up out of the ground that nobody else could smell.
+The deer were moving west, in ones and twos, a few each week, out of the eastern Thornwood, toward the Plains. And the boar. And the small things, the martens and the badgers. As if something had told them to go. As if a smell had come up out of the ground that nobody else could smell.
 
 The hollow owls were restless in their stones at the Ring. They flew at noon, which they never did. They came back at night and sat in the stones and cried.
 
@@ -371,7 +371,7 @@ Maren looked down through the platform's edge at the lion in the roots below.
 
 *The red one,* said Orrun. *Kharrak.* A pause. *He's riding the red one.*
 
-She thought of the farmer on a ledge with his hand on an old dragon's jaw. She thought of him on the red one's back, going south, alone, toward smoke. She didn't know why. She could think of a dozen reasons and none of them good.
+She thought of the farmer on a ledge with his hand on an old dragon's jaw. She thought of him on the red one's back, going south, alone, toward smoke. She could think of a dozen reasons for that and none of them good.
 
 "Thank him," she said to Hesper. "Thank Corran. Tell him I'm glad to know."
 

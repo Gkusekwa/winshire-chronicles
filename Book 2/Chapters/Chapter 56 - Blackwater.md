@@ -104,7 +104,7 @@ It was mended. New boards in its back where the jetty had stove it in. The new r
 
 "Liss."
 
-"You're going somewhere."
+"You're going somewhere. Have you eaten?"
 
 "Blackwater."
 
@@ -116,7 +116,7 @@ She didn't ask why. She looked at Gunna, and at the old grey-green dragon, and a
 
 He hadn't known she knew.
 
-"Lisska brings them," said Liss. "Your letters. She comes by here on the way west, sometimes. Lands on the ferry-house roof and has a rest." She almost smiled. "I can see a letter on a dragon's leg, Calder Fenn."
+"Lisska brings them," said Liss. "Your letters. She comes by here on the way west, sometimes. Lands on the ferry-house roof and has a rest, bless her." She gave him a look. "I can see a letter on a dragon's leg, Calder Fenn."
 
 "I'll write when I'm back."
 
@@ -154,7 +154,7 @@ The smell was terrible. Tamsin lay with her head as far from the barrel as her n
 
 "You'll have yours off," said Calder. "You'll have to. You'll need to sing."
 
-Lisska didn't say anything for a long time.
+Lisska didn't answer.
 
 *In the smoke,* she said.
 

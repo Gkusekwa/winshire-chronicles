@@ -97,7 +97,7 @@ She'd kept it.
 
 The ninth day was the three-hundred-and-fourteenth.
 
-The ninth day of her sitting. He'd counted. Late afternoon. The light coming in low through the cave mouth, gold, the way it came in at that hour at the end of winter. Wren on the first bowl. The little red one standing by the spring.
+The ninth day of her sitting. He'd counted. Late afternoon. The light coming in low through the cave mouth, gold, as it came in at that hour at the end of winter. Wren on the first bowl. The little red one standing by the spring.
 
 "...and it goes all one way," Wren was saying. "Like water. Papa says. All one way."
 
@@ -149,7 +149,7 @@ Over the next days. Gunna had told him, in the autumn, *some come out again, som
 
 On the three-hundred-and-fifteenth day she ate from Wren's hand.
 
-Not from the floor where Gunna put it, under her nose, as she'd eaten all winter. From Wren's hand. A strip of mutton, held out on a flat palm, an arm's length off. She looked at it for a long time. Then she put her head down and took it, very carefully, with her lips, as a horse takes an apple.
+All winter she'd eaten from the floor where Gunna put it, under her nose. This was a strip of mutton, held out on a flat palm, an arm's length off. She looked at it a while. Then she put her head down and took it, very carefully, with her lips, as a horse takes an apple.
 
 Wren didn't move until she'd taken it.
 
@@ -309,4 +309,4 @@ He thought of Maren. Somewhere down there. At the far end of the line every drag
 
 He thought of Lisska. Small and green and very tired, at the far end of his own thread, waiting for an answer.
 
-He sat by the fire with Wren against him and the dragons humming in the dark and didn't sleep, and in the morning their heads were still turned, and Ildra, by the spring, was looking at Wren.
+In the morning their heads were still turned, and Ildra, by the spring, was looking at Wren.

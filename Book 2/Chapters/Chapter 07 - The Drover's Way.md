@@ -45,7 +45,7 @@ The track from the Staithe went north along the bank, a cart-road between hedges
 
 He didn't look back after the first afternoon.
 
-They lay up that night in a field below the track with the dragons round him in a ring, the old one in the middle, the way they'd lain on the shingle. He slept against her side. She didn't sleep. He woke in the night and her one gold eye was open, looking north, at the dark line of the hills where the Scarfell began, where Varrhold was.
+They lay up that night in a field below the track with the dragons round him in a ring, the old one in the middle, as they'd lain on the shingle. He slept against her side. She didn't sleep. He woke in the night and her one gold eye was open, looking north, at the dark line of the hills where the Scarfell began, where Varrhold was.
 
 ---
 
@@ -145,7 +145,7 @@ Not all at once. A little, and then a little more, like a flood going back off a
 
 He turned round. His legs nearly went. He put his hand back on the old one's jaw to hold himself up, and she held still for him, with the bolt standing in her neck.
 
-The sixteen were going. South, down the track, away from him. Not fast, and looking back. They'd left the sheep. The sheep stood about on the track and in the ditches, bleating, and the dogs ran round them not knowing what to do.
+The sixteen were going. South, down the track, away from him, slowly, looking back. They'd left the sheep. The sheep stood about on the track and in the ditches, bleating, and the dogs ran round them not knowing what to do.
 
 One man had stayed.
 
@@ -251,7 +251,7 @@ She looked at it a long time. Then she put her good foreleg under her, and then 
 
 Fisk was in his door.
 
-The Eelweir was the last place in Harrow's End you came to, right down at the water, a cluster of tarred huts on the bank among the eel-traps and the drying racks. Fisk's hut was the end one. He was sitting in the doorway on a stool in the dusk with his pipe, the way Calder had seen him sit every evening of his life, a small, brown, wrinkled old man in a fisherman's smock, looking at the river.
+The Eelweir was the last place in Harrow's End you came to, right down at the water, a cluster of tarred huts on the bank among the eel-traps and the drying racks. Fisk's hut was the end one. He was sitting in the doorway on a stool in the dusk with his pipe, as he sat every evening, a small, brown, wrinkled old man in a fisherman's smock, looking at the river.
 
 He looked up when the dragons came down the lane between the stripped houses. He looked at them for a long time. Then he took his pipe out of his mouth.
 
@@ -397,7 +397,7 @@ He thought: they were at the ferry house. They were safe at the ferry house. Wit
 
 On the Drover's Way.
 
-He didn't know why. Lisska didn't know why. Lisska hadn't been able to ask; she couldn't speak to anyone over there but the lion, and the lion talked slow, and she'd only understood that they were coming. He didn't know what had happened at the ferry house. He didn't know why the woman with the lion, who had a road going the other way, who had said *so's yours* at the landing and not looked up when he went, had taken his family over the river in the night and was walking them up the one road in the Marches he'd have given anything to keep them off.
+Nobody had told him why. Lisska hadn't been able to ask; she couldn't speak to anyone over there but the lion, and the lion talked slow, and she'd only understood that they were coming. He didn't know what had happened at the ferry house. He didn't know why the woman with the lion, who had a road going the other way, who had said *so's yours* at the landing and not looked up when he went, had taken his family over the river in the night and was walking them up the one road in the Marches he'd have given anything to keep them off.
 
 *Is it bad?* said Lisska. *Calder. Is it bad that they're coming?*
 

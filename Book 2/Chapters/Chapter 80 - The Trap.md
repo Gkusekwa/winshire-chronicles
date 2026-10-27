@@ -25,7 +25,7 @@ notes -->
 
 Liss had taken his hand.
 
-At the post, in the dusk, with the lantern. She'd got out of the boat and stood on the shingle in front of him and looked at him for a long time without saying anything. Then she'd put her hand out. Big, rough, a ferry-woman's hand.
+At the post, in the dusk, with the lantern. She'd got out of the boat and stood on the shingle in front of him and looked at him. Then she'd put her hand out. Big, rough, a ferry-woman's hand.
 
 "You're the farmer," she said.
 
@@ -279,7 +279,7 @@ It held.
 
 For a while.
 
-He hung over the river on Kharrak, high, and looked down at it. The Titan standing in the Wend under six white chains, its head low now. Not pulling. The engines roaring. The binders' mouths moving at the eyes and at the anchors. The white running along the chains, steady.
+He hung over the river on Kharrak, high, and looked down at it. The Titan standing in the Wend under six white chains, its head low now, no longer pulling. The engines roaring. The binders' mouths moving at the eyes and at the anchors. The white running along the chains, steady.
 
 The envoys on the slope behind him had stopped making any sound at all.
 

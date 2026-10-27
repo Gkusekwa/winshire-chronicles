@@ -196,9 +196,9 @@ She came up the tower stairs because she'd seen him there all night from the ban
 
 He told her.
 
-All of it. The light in the links. The second clause. The appendix. The words. The door that's never quite shut. The grip. He told her slowly, in order, the way he'd have laid out a reading for the Council, and she listened without moving.
+All of it. The light in the links. The second clause. The appendix. The words. The door that's never quite shut. The grip. He told her slowly, in order, as he'd have laid out a reading for the Council, and she listened without moving.
 
-When he'd finished she didn't say anything for a long time.
+When he'd finished she sat very still.
 
 Lisska was on the rail beside him. She'd been there all night too. The little green dragon, with her chin on her forefeet, watching the basin. She turned her head and looked at Maren. He couldn't hear what passed. He never could. He saw Maren's face change, a little.
 
@@ -264,7 +264,7 @@ Now it was whole again.
 
 Three. Together. Close. And moving.
 
-South. Fast. Not walking pace. Dragon pace. Away from the Fells, down across the far edge of his chart, toward the bottom of it, where the land ran out at the Shattered Sea. Toward a coast. Sarovel's coast. The mouth of the Gilt, where Solenne stood on its cliffs.
+South. Fast. Dragon pace. Away from the Fells, down across the far edge of his chart, toward the bottom of it, where the land ran out at the Shattered Sea. Toward a coast. Sarovel's coast. The mouth of the Gilt, where Solenne stood on its cliffs.
 
 He marked it on the silk. A short line, going south, with three small dots at the end of it.
 

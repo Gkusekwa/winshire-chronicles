@@ -106,7 +106,7 @@ Orrun lay down in the shallows beside it with his chin on a rock and shut his ey
 
 She read it by a lamp.
 
-Not that day. The light went, and the tide came, and they rowed back. The next. At low water again, in the evening, with an oil lamp the nephew had brought, a fisherman's lamp, brass, hung on a pole stuck in the rubble. And Idony's list on her knee, in the boat, wrapped in oilcloth against the wet.
+That day the light went, and the tide came, and they rowed back. The next, at low water again, in the evening, with an oil lamp the nephew had brought, a fisherman's lamp, brass, hung on a pole stuck in the rubble. And Idony's list on her knee, in the boat, wrapped in oilcloth against the wet.
 
 She'd read the hooked script a little all her life. Her father's milestone, when she was small. Hale, in the archive. The verse under the arch at the Old Ruin, that she'd copied into a notebook in the rain. The lock's sentence, that she'd copied in charcoal into the back of the black book on the third day after the gate.
 
@@ -298,7 +298,7 @@ He lifted his head.
 
 "To keep it."
 
-He looked at her for a long time with his gold eyes in the firelight.
+He looked at her with his gold eyes in the firelight.
 
 "I kept a door once," he said. "On a bridge. In the sun. With people walking over it. And men came with fire on poles. A hundred of them. And pitch." He was very quiet. "I could not hold it. I had fire on my side and I could not hold it. I ran." He put his chin back on the rock. "And they took the witness out of the bronze. And broke the egg. And put chains on my kin. And I lay in the dark three hundred years and forgot I was anything."
 
@@ -316,7 +316,7 @@ He looked at her for a long time with his gold eyes in the firelight.
 
 He didn't say anything else.
 
-After a long time he put his head down on her knee. Not his chin. His whole head. Heavy. Warm. The broken-rock mane against her leg. He'd never done it before.
+After a while he put his head down on her knee. Not his chin. His whole head. Heavy. Warm. The broken-rock mane against her leg. He'd never done it before.
 
 She put her hand on it.
 
@@ -354,7 +354,7 @@ He nodded. He didn't argue. He looked at her for a long moment, thin and filthy 
 
 "You too."
 
-"I am," said Tobin. He jerked his head at the inn. "In there. With a lot of old fish-wives who want to know where the water's going to come from." He grinned. "It's harder than a cliff."
+"I am," said Tobin. He jerked his head at the inn. "In there. Lot of old fish-wives wanting to know where the water's coming from." He grinned. "Harder than a cliff."
 
 ---
 

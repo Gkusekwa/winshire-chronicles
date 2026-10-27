@@ -124,7 +124,7 @@ He didn't open his eyes.
 
 She put her hand on the rod.
 
-It hummed. Under her palm. Not empty. Full. The old stone of the inner wall, that had read like chalk, like the glass at the Scald before the Titan stood up on it: full. Humming.
+It hummed. Under her palm. Full. The old stone of the inner wall, that had read like chalk, like the glass at the Scald before the Titan stood up on it: full. Humming.
 
 And moving.
 
@@ -208,7 +208,7 @@ Rowan looked at the lamps for a while.
 
 Rowan turned round to the yard.
 
-"Wynn," she said. Not loud. Wynn was there, by the north tower, with his hounds, looking up at the lamps with his mouth open. He shut it. "Take four. Go down the jetty road. Tell them it's not come back. Tell them to keep crossing."
+"Wynn," she said, quietly. Wynn was there, by the north tower, with his hounds, looking up at the lamps with his mouth open. He shut it. "Take four. Go down the jetty road. Tell them it's not come back. Tell them to keep crossing."
 
 "They won't believe us," said Wynn.
 
@@ -222,7 +222,7 @@ With Orrun. Down the water-gate stair, which was humming. She felt it in the wal
 
 The cavern was lit.
 
-Not by lamps. The knight's lock, at the far end of the black water, was blazing. Every ring of its hooked script white, bright enough to throw her shadow up the stair behind her. And the black water standing up in ripples. Little ones. All over it. Although nothing touched it. Although nothing moved in the cavern but the light.
+The knight's lock, at the far end of the black water, was blazing. Every ring of its hooked script white, bright enough to throw her shadow up the stair behind her. And the black water standing up in ripples. Little ones. All over it. Although nothing touched it. Although nothing moved in the cavern but the light.
 
 And the warmth.
 

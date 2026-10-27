@@ -212,7 +212,7 @@ Liss was the last in.
 
 She stood on the jetty beside Maren. The river going past. The rope humming. The chains overhead in the dusk, black, huge, with their white lines.
 
-"Come over," said Liss.
+"Come over," said Liss. "There's room. Tam can shift the goat."
 
 "No."
 
@@ -276,7 +276,7 @@ Then, beyond them, to the north-east, high on the dark rim of the moor, fire.
 
 A line of it. Gold. Short. Then another. Then more. Breath. Dragon-breath, in the dark, high up over the Scarfell, coming down. Coming down off the moor toward the river in long lines, one after another. Gold in the night.
 
-Not thirty.
+More than thirty.
 
 More than she could count.
 
@@ -292,6 +292,6 @@ He watched the fire come down off the moor. All the way down. Line after line of
 
 *All of them,* said Orrun. *Every one on the high ledges. The old ones. The young ones. The ones who never fly.* He was quiet. *What was on his page.*
 
-She sat on the jetty with the rope humming beside her in the dark and watched the far bank fill with dragons, and didn't sleep.
-
 Above her, on the north tower, Rowan's lantern burned all night.
+
+She sat on the jetty with the rope humming beside her and watched the far bank fill with dragons.

@@ -145,7 +145,7 @@ Idony thought about it.
 
 "Somebody has to have measured it," he said. "So that afterwards, when they ask what happened, there's a page with numbers on it. Not a story. Numbers." He looked at the farmer's page. "Something they can't pretend not to understand."
 
-The farmer looked at the page for a long time.
+The farmer looked at the page.
 
 "Vey liked a page with numbers on it," he said.
 
@@ -155,9 +155,9 @@ The farmer looked at the page for a long time.
 
 ---
 
-They talked, between readings.
+They talked a little, between readings.
 
-Not much. The farmer wasn't a talker. Neither was Idony, now. But there were two hours between every reading, and the river going by outside, and the lamp.
+The farmer wasn't a talker. Neither was Idony, now. But there were two hours between every reading, and the river going by outside, and the lamp.
 
 The farmer told him about his daughter. Ten. Who made everyone say things twice. Who'd sat by a warm spring in the caves with a yearling with nothing in its eyes and talked to it about barley for nine days until it turned its head.
 

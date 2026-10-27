@@ -284,9 +284,7 @@ Off the broken slates, with a roar that shook the roof under Calder's hands. And
 
 The bronze didn't scream. It didn't do anything. It went down under him on the broken paving and didn't fight and didn't stop. It was trying to get up. Under Kharrak, with his teeth in its neck, it was still trying to get up and turn toward the great door, because that was where the hand on its head had told it to look, and it didn't feel anything.
 
-Kharrak let go of its neck and breathed.
-
-Not on the bronze. On its binder. A short hard rush of fire, close, along the bronze's neck where the man sat. The binder went off the bronze's neck burning and rolled on the paving, beating at his coat with his hands, and got up, and ran for the great door with his back on fire.
+Kharrak let go of its neck and breathed: a short hard rush of fire, close, along the bronze's neck where the binder sat. The binder went off the bronze's neck burning and rolled on the paving, beating at his coat with his hands, and got up, and ran for the great door with his back on fire.
 
 The bronze stopped trying to get up.
 
@@ -340,9 +338,9 @@ She stopped shaking. She lifted her head off his side.
 
 "Call her anyway."
 
-Lisska went up off the roof. Not far. Above the ridge, twenty paces from the yearling, hanging in the cold air with her wings going. Where the yearling could see her. And sang.
+Lisska went up off the roof, a little way, above the ridge, twenty paces from the yearling, hanging in the cold air with her wings going. Where the yearling could see her. And sang.
 
-He'd heard it once, from the ridge over the camp. He felt it more than heard it. Not a sound a person makes. A hum, low, through his chest, through the roof under him. The sound of the ledges at the Roosts when the eggs were near hatching and every mother on the cliff hummed to them through the stone. A sound that meant: *here. Here. You're here.*
+He'd heard it once, from the ridge over the camp. He felt it more than heard it: a hum no person could make, low, through his chest, through the roof under him. The sound of the ledges at the Roosts when the eggs were near hatching and every mother on the cliff hummed to them through the stone. A sound that meant: *here. Here. You're here.*
 
 The yearling lifted her head.
 
@@ -386,11 +384,11 @@ She looked at him. Her eyes were gold, like Kharrak's, but darker. Wide.
 
 "There's a lake down there," said Calder. "It's done something odd today, but it's a lake. And that's a city. People live in it. Too many of them. And over there," he pointed, slowly, south, "there's barley. A long way off. Fields of it. You'll like barley. Everyone does. It's no use to you, you can't eat it, but you'll like it. It goes gold at the end of summer, and when the wind comes over it, it goes all one way, like water."
 
-He didn't know why he said it. He kept saying it. Barley, and the farm, and the river, and the reeds. Lisska came down out of the air and landed on the ridge on the other side of the yearling and lay down on the lead with her chin on her forefeet, small and green and close, and hummed.
+He kept saying it. Barley, and the farm, and the river, and the reeds. Lisska came down out of the air and landed on the ridge on the other side of the yearling and lay down on the lead with her chin on her forefeet, small and green and close, and hummed.
 
 The yearling stopped shaking.
 
-Not all at once. Slowly. Her wings came down. Her tail came down. She folded her legs under her on the ridge, as Lisska did, and lay there between them, and looked at the drowned city.
+Slowly, her wings came down. Her tail came down. She folded her legs under her on the ridge, as Lisska did, and lay there between them, and looked at the drowned city.
 
 ---
 

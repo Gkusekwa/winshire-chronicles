@@ -263,7 +263,7 @@ A man in a cloak of crown-blue, with the Hallowmere seal on a chain at his breas
 
 Maren was on the towpath beside Orrun. She heard him through the cabin window. She didn't turn round.
 
-"Chain," he was saying, to the barge-master. "For the crown's work. Twelve hundredweight from the Gannet forge, and the same from Holloway's, and they'll have to make the links bigger than they've ever made them, and they're telling me it's a year's work." He laughed. Not a happy laugh. "A year. As if we've got a year."
+"Chain," he was saying, to the barge-master. "For the crown's work. Twelve hundredweight from the Gannet forge, and the same from Holloway's, and they'll have to make the links bigger than they've ever made them, and they're telling me it's a year's work." He laughed, without pleasure. "A year. As if we've got a year."
 
 "What's it for?" said the barge-master.
 
@@ -283,7 +283,7 @@ Maren walked on along the towpath beside the lion, in the sleet, with her hand i
 
 The country went dead again on the Iron Road.
 
-Not all at once. Over three days. She felt it going, through Orrun's feet, a little thinner every league. The give going out of the stone. Like walking out of a house into the cold.
+It went over three days. She felt it going, through Orrun's feet, a little thinner every league. The give going out of the stone. Like walking out of a house into the cold.
 
 Idony's glass began to lean on the first day out of Ironhythe. South-east. Along the cut. Toward the strange yellow-grey sky.
 
@@ -363,7 +363,7 @@ The first ring of pylons. She put her hand on one. Iron, black, cold, rough. Up 
 
 Maren knew them.
 
-She didn't say anything. She looked at Idony. He was looking at the marks with his face very still.
+She looked at Idony. He was looking at the marks with his face very still.
 
 "Marks," said Pike. "Engine-wright's work. Every pylon." She took her hand off the iron. "They hold the cables. The cables hold the field. The field holds whatever's in it."
 

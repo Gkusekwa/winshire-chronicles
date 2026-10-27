@@ -45,7 +45,7 @@ Or Old Grey walked beside Wren. Maren could never tell which. Where Wren went, t
 
 "Does he know he's doing it?" Maren said to Ada, on the second day.
 
-Ada looked at the beast and the girl for a long time, walking ahead of them down the green track under the oaks.
+Ada watched the beast and the girl, walking ahead of them down the green track under the oaks.
 
 "I don't know what he knows," said Ada. "I don't think he knows his own name. I think he knows hers." She walked on. "I think that's all he's got, just now. One name. He's holding on to it."
 
@@ -53,7 +53,7 @@ Ada looked at the beast and the girl for a long time, walking ahead of them down
 
 On the second day they came to the place where it had flown.
 
-Maren felt it before she saw it. Through Orrun. They'd been going north along the charcoal track under the oaks all morning, and the ground under them had been what it had been since the Staithe: thin, faint, like the pulse in the wrist of someone asleep. She'd got used to it. It was better than the other bank. Then, toward noon, it went thinner. Not dead. Thinner, as if something had drunk from it and not finished.
+Maren felt it before she saw it. Through Orrun. They'd been going north along the charcoal track under the oaks all morning, and the ground under them had been what it had been since the Staithe: thin, faint, like the pulse in the wrist of someone asleep. She'd got used to it. It was better than the other bank. Then, toward noon, it went thinner, as if something had drunk from it and not finished.
 
 Orrun stopped.
 
@@ -75,7 +75,7 @@ Behind her she heard Ada stop. Then Bel. Then nothing, for a long time.
 
 *It drank,* said Orrun.
 
-She looked at him. He had his head down toward the strip of fallen forest, as if he were smelling it, or listening to it, the way he'd listened on the ledge above the black water.
+She looked at him. He had his head down toward the strip of fallen forest, as if he were smelling it, or listening to it.
 
 *As it went over. It was drinking. From the ground under the trees.* He was quiet. *It was thirsty. Three hundred years in the chains, and it came up out of the river thirsty, and it drank as it went. And the trees were standing on what it drank.*
 
@@ -333,7 +333,7 @@ Neither of them moved closer.
 
 Across the fire, Ada was awake. Maren could see her eyes in the firelight, open, looking at the two of them, the woman and the lion lying back to back in the dark with a hand's width of cold between them.
 
-Ada didn't say anything. She'd been a wife once, Maren thought, and a widow a long time. She'd know what it looked like.
+Ada was quiet. She'd been a wife once, Maren thought, and a widow a long time. She'd know what it looked like.
 
 ---
 

@@ -53,7 +53,7 @@ So did two hundred and two, *the bridge-island*, and two hundred and three, *the
 
 He went down the Gallery with his lamp.
 
-Not only Hearthmere. Everything was up. Isvaren's own glasses on the north wall, *Vael*, *Glasswater*, *the Pass*, were up by a third. Kessmoor's, on the high shelves, up. The Wyldmarch, up. Sarovel, Saltreach, up and up. Some of the oldest glasses, the ones that had sat on the top shelves since before the Council of Colleges had a council, were higher than he'd ever seen them, higher than anyone had written in any ledger he'd read, and he'd read all of them.
+Everything was up, not only Hearthmere. Isvaren's own glasses on the north wall, *Vael*, *Glasswater*, *the Pass*, were up by a third. Kessmoor's, on the high shelves, up. The Wyldmarch, up. Sarovel, Saltreach, up and up. Some of the oldest glasses, the ones that had sat on the top shelves since before the Council of Colleges had a council, were higher than he'd ever seen them, higher than anyone had written in any ledger he'd read, and he'd read all of them.
 
 He stood in the middle of the Gallery with the lamp in his hand and listened to it. You couldn't hear the Deep. Everybody knew that. But on the shelves round him three hundred brass cradles were ticking very faintly as they warmed, and the glasses in them were making a sound like a wet finger drawn round the rim of a cup, very high, at the edge of hearing, and he had never heard it before, and he found that the back of his neck was cold.
 

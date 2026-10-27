@@ -74,7 +74,7 @@ Idony read.
 
 He'd forgotten what it was like.
 
-Not forgotten. He'd thought about it every night since the spring. The roll. The old hand. The hooked script in its rings and columns, the oldest thing he'd ever touched, under his palm in the Long Library's lowest hall with the bird on its perch over him, all night. *Ask, ferryman.*
+He hadn't forgotten. He'd thought about it every night since the spring. The roll. The old hand. The hooked script in its rings and columns, the oldest thing he'd ever touched, under his palm in the Long Library's lowest hall with the bird on its perch over him, all night. *Ask, ferryman.*
 
 He put his palm on it now and it was the same.
 

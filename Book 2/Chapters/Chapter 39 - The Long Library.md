@@ -333,7 +333,7 @@ Then he knelt down beside it. On the other side from Idony. He didn't look at Id
 
 He didn't touch it either.
 
-"I know," he said. Very low. Not to Idony. Not to the bird. To something nobody else could hear. His head was a little on one side, as if he were listening. "I know. I know."
+"I know," he said. Very low, to something nobody else could hear. His head was a little on one side, as if he were listening. "I know. I know."
 
 Behind him, in the broken window, the red dragon put its great head down on the sill and shut its eyes.
 

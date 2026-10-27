@@ -60,7 +60,7 @@ From the east, over the fells, at dusk, low and tired and quiet. She'd seen the 
 
 She didn't answer that.
 
-But she was talking again. Not much. Not the way she had. A sentence here, a sentence there, in the evenings on the ledge, as if she were trying words to see if they'd still hold her. She didn't joke. Once she told him what Wren had said about the stone, and stopped in the middle as if she'd forgotten how it ended, and didn't finish.
+But she was talking again, a little: a sentence here, a sentence there, in the evenings on the ledge, as if she were trying words to see if they'd still hold her. She didn't joke. Once she told him what Wren had said about the stone, and stopped in the middle as if she'd forgotten how it ended, and didn't finish.
 
 He didn't push her.
 
@@ -266,7 +266,7 @@ And from above, from the back of the second wyvern, somebody shot.
 
 A crossbow bolt. Calder saw it go. Into Skell's throat, under the jaw, where the plates were thin. The young blue's head went back. And Tor, standing in front of him with his hand out, went at the same moment.
 
-Not hit. Nothing touched him. He just went. His knees went, and he folded, as if somebody had pulled the bones out of him, and he lay down on the ledge.
+Nothing touched him. He just went. His knees went, and he folded, as if somebody had pulled the bones out of him, and he lay down on the ledge.
 
 The young blue came down beside him.
 
@@ -312,7 +312,7 @@ Corvin Vale didn't look at the hold. He didn't look at the fight on the stair, o
 
 Then, once, he looked up. At the setters' ledge. At Calder.
 
-He looked for a moment. Not long. As you'd look at a man across a market, a man you'd heard of and expected to see, and now you'd seen him.
+He looked for a moment, as you'd look at a man across a market, a man you'd heard of and expected to see, and now you'd seen him.
 
 Then he looked away.
 

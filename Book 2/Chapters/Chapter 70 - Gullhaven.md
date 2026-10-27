@@ -95,7 +95,7 @@ She felt for his face with both hands. Found it. The scar through his eyebrow. S
 
 "You're not him," she said. "You're a good boy, though."
 
-Ulric didn't say anything all evening.
+Ulric was quiet all evening.
 
 ---
 
@@ -135,7 +135,7 @@ They'd left it. All of them. Every reefwyrm on the Bell had come in two leagues 
 
 Calder stood on the spit's end that evening with his feet on the shingle and felt it.
 
-He could, now. Since the reef. Without Aurveth. Not much. A pull, a long way down, under the stones, under the sea. A breath. Going in. Held. Going out.
+He could, now. Since the reef. Without Aurveth. A little. A pull, a long way down, under the stones, under the sea. A breath. Going in. Held. Going out.
 
 Quicker every day.
 
@@ -263,7 +263,7 @@ Then the shouting started.
 
 The boats were burning.
 
-Not on fire. Burning. He ran down the spit's end to the shingle where the fishing boats were drawn up in rows, and saw it. Every boat. Every hull. Every oar laid across every thwart.
+Burning without flame. He ran down the spit's end to the shingle where the fishing boats were drawn up in rows, and saw it. Every boat. Every hull. Every oar laid across every thwart.
 
 Saltreach's sea-charms were runes. They had to be. A spoken charm broke on running water, every child on the coast knew it, and the sea was the biggest running water there was. So the warranted charm-cutters in every port cut them into the wood. Keel-runes for steady. Bow-runes for true. Oar-runes on the blades for pull. Every boat in Gullhaven had them. Every oar.
 

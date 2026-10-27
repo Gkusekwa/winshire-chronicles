@@ -32,7 +32,7 @@ On the stone beside him. A broken piece of one of the ring-stones, lying at the 
 
 The moss was green.
 
-Not all of it. In one crack, at the bottom, where the stone went into the ground. A thread of green, bright, wet, as if somebody had painted it there in the night. He watched it. He thought he was tired. He thought it was the light.
+Some of it. In one crack, at the bottom, where the stone went into the ground. A thread of green, bright, wet, as if somebody had painted it there in the night. He watched it. He thought he was tired. He thought it was the light.
 
 It spread.
 
@@ -96,7 +96,7 @@ He saw it in the afternoon. The Wardens who were left, five of them who could wa
 
 They weren't dull now.
 
-The blue thread was burning. Not with flame. With light, bright, so bright he could see it from the sink, a band of blue fire round each left arm. Ysolde Marr was looking at hers. As he watched, the grey silk under the thread began to brown, and smoke, and she said something sharp and tore it off her sleeve and threw it on the ground, where it lay blazing in the grass.
+The blue thread was burning with light, so bright he could see it from the sink, a band of blue fire round each left arm. Ysolde Marr was looking at hers. As he watched, the grey silk under the thread began to brown, and smoke, and she said something sharp and tore it off her sleeve and threw it on the ground, where it lay blazing in the grass.
 
 Two more did the same. The other two left theirs on, and he saw them sitting very still with their right hands clamped over their left arms, and their faces set.
 
@@ -124,7 +124,7 @@ She looked at her fingers. Two red rings round them, where the cord had been, al
 
 She put moss into Rowan's leg that evening.
 
-Rowan was in the knights' camp, on a pallet in a tent, with her leg splinted by the knights' surgeon. Idony went with Maren and Hesper because Maren asked him to, he didn't know why. Perhaps, he thought later, because he was the only one there who belonged to nobody.
+Rowan was in the knights' camp, on a pallet in a tent, with her leg splinted by the knights' surgeon. Idony went with Maren and Hesper because Maren asked him to. Perhaps, he thought later, because he was the only one there who belonged to nobody.
 
 The bone had come through below the knee. The surgeon had pushed it back and splinted it, and it was bad. Idony could see it was bad: the leg swollen, the skin round the wound dark, Rowan grey-faced on the pallet with her jaw set.
 
@@ -162,7 +162,7 @@ Pask burned out on the hundredth day.
 
 Idony sat with him through the night, because nobody else would.
 
-Dane had ordered it. On the ninety-ninth day, in the afternoon, Dane had stood at the lip of the sink and looked down into the rubble where five of his Wardens lay under the stones, and then at the five standing stones round the edge of the ring that had been left, and at their tops, which were glowing. Not with light. Idony could hardly see it. A haze over them, like heat over a road in summer.
+Dane had ordered it. On the ninety-ninth day, in the afternoon, Dane had stood at the lip of the sink and looked down into the rubble where five of his Wardens lay under the stones, and then at the five standing stones round the edge of the ring that had been left, and at their tops, which were glowing, though Idony could hardly see it: a haze over them, like heat over a road in summer.
 
 "How much do they hold now?" Dane had said. "The stones. Now it's gone."
 
@@ -194,9 +194,9 @@ Pask lay on the green grass with his eyes open, shaking.
 
 Idony sat with him all night in the Wardens' camp.
 
-He didn't know why it was him. He thought perhaps because he'd been sitting nearest when they carried Pask in, and nobody told him to move. The young Warden lay on a blanket by the fire and shook. All night. Not shivering; shaking, a fine fast tremor all through him, his hands most, like a dog dreaming.
+Perhaps it was him because he'd been sitting nearest when they carried Pask in, and nobody told him to move. The young Warden lay on a blanket by the fire and shook. All night. Not shivering; shaking, a fine fast tremor all through him, his hands most, like a dog dreaming.
 
-He talked, some of the time. Not to Idony. To someone called Ell, who Idony guessed was a sister, about a goat that had got into the kitchen. Then about stones. Then nothing.
+He talked, some of the time, to someone called Ell, who Idony guessed was a sister, about a goat that had got into the kitchen. Then about stones. Then nothing.
 
 His hair was red. Bright red, as it had been every day since Vael, when Idony looked at him at midnight.
 
@@ -234,7 +234,7 @@ They'd be there now. It was the last week of the Moot.
 
 He did the arithmetic. He did it twice, and then a third time, very slowly, on the back of a page, with his hand not quite steady.
 
-Then he wrote it in the silk copy, first, the way he'd written *the stir*.
+Then he wrote it in the silk copy, first, as he'd written *the stir*.
 
 *The surge rises fastest toward Lake Ysse. Whatever sleeps under the Thornwood is breathing up toward the lake. From the slope: it will rise within seven days. Probably fewer.*
 
@@ -256,7 +256,7 @@ He found him on the rise, by the Wardens' fire, with the three binding-lamps tha
 
 He told him the number. Within seven days. Under the forest, rising toward the lake. He showed him the glasses.
 
-Dane listened without interrupting. He looked at the glasses for a long time. Then at the lamps. Then at Idony.
+Dane listened without interrupting. He looked at the glasses. Then at the lamps. Then at Idony.
 
 "Seven days," he said.
 
@@ -288,7 +288,7 @@ He said it as if it were a thing to be proud of. And it came to Idony, sitting o
 
 He left on the morning of the hundred-and-second day.
 
-He didn't sleep. He sat by the sink in the dark with the four glasses climbing on their blanket and thought about it, the way he'd sat with the green glasses under the sloping roof on the night of the breaking, and in the meadow, and at the foot of the ring-stone. He thought about Pask's white hair. About the lamps' old dust. About the clans on the lakeshore, singing, with their beasts, in the last week of their Moot.
+He didn't sleep. He sat by the sink in the dark with the four glasses climbing on their blanket and thought about it, as he had with the green glasses under the sloping roof on the night of the breaking, and in the meadow, and at the foot of the ring-stone. He thought about Pask's white hair. About the lamps' old dust. About the clans on the lakeshore, singing, with their beasts, in the last week of their Moot.
 
 About the sleeper, waking, weak, with three lamps round it.
 

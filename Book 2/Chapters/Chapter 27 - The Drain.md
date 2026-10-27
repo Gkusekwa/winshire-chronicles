@@ -64,7 +64,7 @@ The surge went down at the Moot over three days.
 
 He watched it go on the glasses. He'd set the four of them out on the flat stone by the shingle where he'd watched them climb on the night before the waking, and every morning and every evening he sat by them and wrote down where the quicksilver stood.
 
-It fell. Slowly. Not all at once, the way it had risen at the end. It went down as a flood goes off a field: the water standing a long time, and then, so slowly you can't see it move, going, a little lower every time you look, until one morning there's mud where there was water and the field's still there under it, flattened.
+It fell slowly, where it had risen all at once at the end. It went down as a flood goes off a field: the water standing a long time, and then, so slowly you can't see it move, going, a little lower every time you look, until one morning there's mud where there was water and the field's still there under it, flattened.
 
 The Antlered's draw went with it.
 
@@ -156,7 +156,7 @@ He wrote it all down. *Day 109. Boat-charms fail; three boats sink. Wells: iron.
 
 The hollow owls wouldn't fly.
 
-He hadn't known about that until Elder Morwen told him. Through a Keeper who had some of the common tongue. The Keepers' messengers, the great pale owls as tall as children, that had sat on the Ring's stones and left on midsummer night and never come back: there were others. Dozens. At every Keeper's oak and platform from the Worldsend to the Plains. They carried the Keepers' words at night, from oak to oak, across the Thornwood, the way the Isvaren colleges used lantern owls and the knights used falcons.
+He hadn't known about that until Elder Morwen told him. Through a Keeper who had some of the common tongue. The Keepers' messengers, the great pale owls as tall as children, that had sat on the Ring's stones and left on midsummer night and never come back: there were others. Dozens. At every Keeper's oak and platform from the Worldsend to the Plains. They carried the Keepers' words at night, from oak to oak, across the Thornwood, as the Isvaren colleges used lantern owls and the knights used falcons.
 
 They wouldn't fly over dead ground.
 
@@ -244,7 +244,7 @@ He wrote it. In the silk, first. In the smallest hand he had.
 
 *A waking is a stir, a flood, and then a famine.*
 
-He looked at it for a long time.
+He looked at it.
 
 It was a sentence. One line. He'd written thousands of lines in eleven years. Forty-one ledgers. Numbers, readings, glasses, dates, commentaries, quotations, footnotes he never wrote down. Every one of them true, as far as it went. Every one of them a measurement of something.
 

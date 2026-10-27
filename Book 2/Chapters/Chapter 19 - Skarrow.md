@@ -109,7 +109,7 @@ Ulric didn't interrupt once. He sat with his hands folded on the table and his e
 
 When it was done, Calder stopped. The lamp burned.
 
-Ulric looked at him for a long time.
+Ulric looked at him a while.
 
 "It sounds," he said at last, slowly, "the same."
 
@@ -121,7 +121,7 @@ He unfolded his hands.
 
 He read it all night.
 
-Calder hadn't known a man could sit so still for so long. Ulric unwrapped the oiled cloth, and set the book in front of him under the lamp, and opened it, and began at the first page, and read. He didn't move his lips. He didn't trace the lines with his finger, the way Ada did. He read as a man looks at a field, all of it at once, and then turned the page with a wetted thumb, carefully, so the dried pages wouldn't tear, and read the next.
+Calder hadn't known a man could sit so still for so long. Ulric unwrapped the oiled cloth, and set the book in front of him under the lamp, and opened it, and began at the first page, and read. He didn't move his lips. He didn't trace the lines with his finger, as Ada did. He read as a man looks at a field, all of it at once, and then turned the page with a wetted thumb, carefully, so the dried pages wouldn't tear, and read the next.
 
 Calder sat across the table and watched him.
 
@@ -161,7 +161,7 @@ He turned the page.
 
 He finished at dawn.
 
-He read the last page. Then he turned the book over and opened the back cover and read the list stuck inside it, the five lines in the older ink. He read it twice. Calder saw him read the fifth line twice.
+He read the last page. Then he turned the book over and opened the back cover and read the list stuck inside it, the five lines in the older ink. He read it twice, and Calder saw him go back to the fifth line.
 
 Then he closed the book, and put both hands flat on the cover, and sat there with the grey light coming in through the smoke-hole and the lamps burned out.
 
@@ -247,7 +247,7 @@ Orm asked. The trader looked at Calder, at the farmer in the borrowed cloak with
 
 "And a Keeper stood up and said: she sits with him." Orm listened again. "He says that's what the clans call her now. That word. *The one who sits with it.*"
 
-Calder stood at the gate of Skarrow with the trader's ponies blowing beside him and the smell of the pelts in his nose and didn't say anything.
+Calder stood at the gate of Skarrow with the trader's ponies blowing beside him and the smell of the pelts in his nose and kept his mouth shut.
 
 On the sheepfold wall behind him, Lisska lifted her head.
 
@@ -465,9 +465,9 @@ He looked at the two Ds side by side. Hers, small and round, going the right way
 
 ---
 
-The old one's wound closed under the moss.
+The old one's wound closed under the moss, slowly.
 
-Not quickly. He didn't look at it; the Keeper had said not to. But he felt it, through the bond, a little more each night: the heat going out of her chest, the sullen coal in the grate going grey, the smell coming and going and then, one morning, not coming at all.
+He didn't look at it; the Keeper had said not to. But he felt it, through the bond, a little more each night: the heat going out of her chest, the sullen coal in the grate going grey, the smell coming and going and then, one morning, not coming at all.
 
 *It is better,* said Aurveth, on the seventieth day.
 
@@ -483,7 +483,7 @@ Ivar Leck came at noon and put his hands on the splints, and listened, and sat b
 
 He sent Lisska east on the seventy-eighth day.
 
-She'd come to him on the setters' ledge in the evening. Not asked. Just come, and sat down beside him, with her head turned east, and he'd known.
+She'd come to him on the setters' ledge in the evening. Nobody had asked her. She'd just come, and sat down beside him, with her head turned east, and he'd known.
 
 "You want to go."
 

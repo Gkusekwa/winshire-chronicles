@@ -51,7 +51,7 @@ She brought him water from the grey stream in her hat. He drank it. She brought 
 
 And he spoke to it.
 
-She felt him do it. Through the bond, it was like feeling a man lean out over a well and call down into it. A great long reaching, out of him, toward the thing on the stones. Not words, not the slow stone-turning words he used with her. Older than that. Kin. The way he'd spoken to Tamsin on the Scarfell's edge and to Lisska on the Plains. Within sight, kin to kin.
+She felt him do it. Through the bond, it was like feeling a man lean out over a well and call down into it. A great long reaching, out of him, toward the thing on the stones. Not words, not the slow stone-turning words he used with her. Older than that. Kin. As he'd spoken to Tamsin on the Scarfell's edge and to Lisska on the Plains. Within sight, kin to kin.
 
 Nothing came back.
 
@@ -111,7 +111,7 @@ Orrun didn't lift his head. But she felt him look, through the bond. A slow look
 
 He asked permission to come closer, and she gave it, and he came to ten paces, the same distance as Orrun from his kin, and knelt down in the grey grass and opened the leather case.
 
-Inside, on a bed of padded cloth, there was a glass. Not like any glass she'd seen. A sealed tube of thick clear glass the length of her hand, with a bulb at the bottom and a narrow throat going up, and lines cut in the throat, and something cut in the bulb that might have been a letter. In the bulb, a bead of quicksilver.
+Inside, on a bed of padded cloth, there was a glass, unlike any glass she'd seen: a sealed tube of thick clear glass the length of her hand, with a bulb at the bottom and a narrow throat going up, and lines cut in the throat, and something cut in the bulb that might have been a letter. In the bulb, a bead of quicksilver.
 
 He set it on the grey ground in front of him. The quicksilver lay in the bottom.
 
@@ -181,7 +181,7 @@ Rowan looked past her, across the ring, at the lion lying at ten paces from the 
 
 "Yes."
 
-Rowan didn't say anything else for a while. Then she said it, plainly, the way she said everything, as if each word cost something and she didn't mean to waste any.
+Rowan was quiet a while. Then she said it, plainly, as if each word cost something and she didn't mean to waste any.
 
 "The council's orders. The chain over the forelegs, staked, on the night the Isvaren reader names. Then carted, if it'll be carted, and if it won't, held here till it will." She paused. "Hearthmere's ground is dead. Every well's sour from the Mere to the Wend. The crown thinks a beast in chains can make it live again. It did for three hundred years."
 
@@ -227,7 +227,7 @@ Then the green dragon came in over the treetops, low, so low her wing-tips nearl
 
 She stopped crying.
 
-She came down in the grey grass ten paces behind Orrun. Not beside him. Behind. She folded her wings and stood there, very still, very small, with her pale green eyes on the great shape lying across the ring, and didn't make a sound.
+She came down in the grey grass ten paces behind Orrun. She folded her wings and stood there, very still, very small, with her pale green eyes on the great shape lying across the ring, and didn't make a sound.
 
 It was the quietest Maren had ever seen her.
 

@@ -373,7 +373,7 @@ The walking man was twenty paces off. Going away from her toward the canal, sing
 
 Then the ditch-floor came up under him.
 
-She felt it. Orrun. Through the bond, through the ground. The earth of the ditch-bottom under the man's feet rising. Not fast. A slow heave, like a wave lifting a boat. It lifted him. Up. Toward the side of the ditch. And the side of the ditch leaned out to meet him, and he was pushed up it, onto the bank, still singing, with the rope round him and Maren hauling on the other end.
+She felt it. Orrun. Through the bond, through the ground. The earth of the ditch-bottom under the man's feet rising. A slow heave, like a wave lifting a boat. It lifted him. Up. Toward the side of the ditch. And the side of the ditch leaned out to meet him, and he was pushed up it, onto the bank, still singing, with the rope round him and Maren hauling on the other end.
 
 He lay on the bank and sang at the sky.
 
@@ -415,7 +415,7 @@ Tobin sat beside her with his arms round his knees.
 
 "How did you get here?" she said.
 
-"Walked." He looked at the lamps. "From Millbrook. All the summer and after. Up the Downs and back, and wherever the stories were, and then over the dead country, and here. You're easy to follow. You know that? There's stories about you everywhere. A knight with a lion. The lion holds the stakes at the Ring. The lion's in two places at the Moot. The lion raises a wall at Vael." He almost laughed. "Every inn. Every barge. I just went where the stories went."
+"Walked." He looked at the lamps. "From Millbrook. All summer and after. Up the Downs, back, wherever the stories were, over the dead country, here. You're easy to follow, you know that? Stories about you everywhere. Knight with a lion. The lion holds the stakes at the Ring. The lion's in two places at the Moot. The lion raises a wall at Vael." He almost laughed. "Every inn. Every barge. I just went where the stories went."
 
 She looked at his hand.
 
@@ -425,9 +425,9 @@ He saw her look.
 
 "In the river," he said. "At the Ashford ford. In the summer, when the companies came over." He turned his hand over and looked at the band. "I saw what they did at a farm on the Downs. The Restoration. Our side." His voice didn't change. "I took it off and threw it in the river and walked."
 
-"Tobin..."
+"Tobin, I..."
 
-"At the hedge," he said. "In the spring, before the gate. I said to you, *when they throw you out, come and find us.* Meaning us. The ring. As if they'd ever throw you out and keep me." He looked at her. "Well. I threw myself out. So I came and found you."
+"At the hedge," he said, over her. "In the spring, before the gate. I said to you, *when they throw you out, come and find us.* Meaning us. The ring. As if they'd ever throw you out and keep me." He looked at her. "Well. I threw myself out. So I came and found you."
 
 "I'm glad," she said, after a while.
 
@@ -443,7 +443,7 @@ Slowly. With his stick. He'd been on the tower all night with the glasses. He st
 
 "Tobin," said Maren. "From Greyhold."
 
-"I'm unchosen," said Tobin. "Loud about it. And unringed now. I don't know what that makes me."
+"Unchosen," said Tobin. "Loud about it. Unringed now. Don't know what that makes me."
 
 Idony looked at his own hand on the stick. At the pale band.
 

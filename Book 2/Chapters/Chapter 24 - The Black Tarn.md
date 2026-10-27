@@ -50,7 +50,7 @@ The yard looked at him.
 
 "The autumn," he said. "At my gate. Before the mill. A man came, a soft man in a good coat, and offered me this for my barley and my road. Same coin. New. With the burr on it." He held it up so the light caught the rim. "The six on the edge. Struck in. That's not scratched on after. That's in the die."
 
-Ulric took it from him and looked at it for a long time, turning it so the dots caught the light.
+Ulric took it from him and looked at it, turning it so the dots caught the light.
 
 "In the die," he said.
 
@@ -112,7 +112,7 @@ He read the second ford. The gorse, sixty, Delling's. One bolt over the count, f
 
 Then he closed the book.
 
-He put both hands flat on the cover, the way Ulric had at Skarrow, the way Ada had in the cave. He sat there in the grey light coming in at the smoke-hole, beside the empty chair, with his hands on the book, and the board with the boot-print against the chair's leg.
+He put both hands flat on the cover, as Ulric had at Skarrow, and Ada in the cave. He sat there in the grey light coming in at the smoke-hole, beside the empty chair, with his hands on the book, and the board with the boot-print against the chair's leg.
 
 He didn't look at Calder. He got up, and went out past him, and past the green dragon on the step, into the morning.
 
@@ -340,7 +340,7 @@ He met the Wyldmarch trader on the Scarfell road that afternoon.
 
 He was riding back to the hold beside Orm Garrick on his grey hill-pony, with Kharrak overhead and Lisska walking beside his horse, close enough to touch, which she'd never done before. A horse-train came over the rise toward them going east. Eight horses, roped, loaded with salt and iron, and a man walking at the head in a coat of grey fur with red bars painted on his cheeks.
 
-Not the same trader as at Skarrow. Another. Going home.
+A different trader from the one at Skarrow, going home.
 
 Orm talked with him, in their mix of tongues, with their hands. Calder waited. Then Orm turned in his saddle.
 
@@ -368,6 +368,6 @@ The book, in its oiled cloth. Rook's knife. The iron ring on its string. The fol
 
 And the stone. Small, flat, grey, with the white ring running clean round it.
 
-He took it out and held it in his palm. It was warm from being next to him. He didn't know what it was for. Nobody did.
+He took it out and held it in his palm. He didn't know what it was for. Nobody did.
 
 He put it back, and rode on to the hold.

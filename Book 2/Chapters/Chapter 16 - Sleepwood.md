@@ -71,7 +71,7 @@ It was a line.
 
 A line through the Thornwood, running away to the left and right as far as he could see between the trees, curving very slightly. On one side of it, the forest: black pine and oak and thorn, green, dark, ordinary. On the other side, the same forest, grey.
 
-Not burned. Not dry. Not dead the way a felled tree is dead, brown and cracking. Grey. As if somebody had taken the colour out of everything with a brush and left only the shapes. The pines were grey. The oaks were grey. The moss on the oaks was grey, the ferns under them grey, the grass grey, the earth grey, all of it standing exactly as it had stood, with every needle and leaf on it, and not one of them moving in the wind.
+Not burned. Not dry. Grey. As if somebody had taken the colour out of everything with a brush and left only the shapes. The pines were grey. The oaks were grey. The moss on the oaks was grey, the ferns under them grey, the grass grey, the earth grey, all of it standing exactly as it had stood, with every needle and leaf on it, and not one of them moving in the wind.
 
 The line between was as sharp as a rule drawn on a page. He could put one boot on green moss and one on grey.
 
@@ -99,7 +99,7 @@ The Wardens' wards went out as they crossed.
 
 Every Warden of the Blue College wore a ward on the left sleeve: a band of grey silk with a line of runes worked into it in blue thread, against blows and against working. Cut by a Fourth-ring Scribe, fed from the ground they stood on, renewed every spring. Idony had always wanted one.
 
-As each Warden stepped over the line, the blue thread on his sleeve went dull. Not dark. Dull, like a lamp turned down. One after another, as they came over, he watched it go.
+As each Warden stepped over the line, the blue thread on his sleeve went dull, like a lamp turned down. One after another, as they came over, he watched it go.
 
 The six binding-lamps' frames had runes cut in the iron. They went dull too, as the mules carried them over.
 
@@ -191,7 +191,7 @@ All at once. Up the throat of the glass, past every mark he'd cut, to the very t
 
 Full.
 
-He looked at it for a long time. He looked at the grey grass at the foot of the stone, where the glass had lain dead. He looked at the stone, and the glass on it, brim-full.
+He looked at it. He looked at the grey grass at the foot of the stone, where the glass had lain dead. He looked at the stone, and the glass on it, brim-full.
 
 "Full," he said aloud, to the owl. "Full like a cup."
 
@@ -201,7 +201,7 @@ The owl looked at him.
 
 He sat down with his back to the warm stone and worked it out in his head, slowly, a step at a time, as he'd work a long sum.
 
-The beast drew. He'd known that for eleven years; he'd watched the hole under Hearthmere, and the hole was the chains, feeding on it. Now it was free and it drew for itself. It lay on the Ring and drew the Deep in from a league round, from the trees and the ground and the birds, the way a drain draws water from a basin. That was the fall on the recut glasses. That was the grey.
+The beast drew. He'd known that for eleven years; he'd watched the hole under Hearthmere, and the hole was the chains, feeding on it. Now it was free and it drew for itself. It lay on the Ring and drew the Deep in from a league round, from the trees and the ground and the birds, like a drain drawing water from a basin. That was the fall on the recut glasses. That was the grey.
 
 But it didn't drink from the ground. It couldn't. There was nothing left in the ground near it to drink. It drank from the stones.
 

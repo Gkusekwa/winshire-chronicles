@@ -112,7 +112,7 @@ Rowan looked at her.
 
 Rowan looked at her a while longer.
 
-"Wynn," she said. Not loud. "Take two. And Ash and Sorrow."
+"Wynn," she said, low. "Take two. And Ash and Sorrow."
 
 ---
 
@@ -272,7 +272,7 @@ And the boot-prints went into all of them.
 
 She stood in the middle of the hall and turned round.
 
-All seven. Boot-prints going into every doorway. Not many into each. Two. Three. As if somebody had split a dozen men into seven parties at the foot of the stair and sent one down each way.
+All seven. Boot-prints going into every doorway. A few into each. Two. Three. As if somebody had split a dozen men into seven parties at the foot of the stair and sent one down each way.
 
 Callis, she thought.
 
@@ -304,7 +304,7 @@ Through the old ways. Coming out of one wall and across the passage floor in a c
 
 Orrun stopped at the edge of it.
 
-She felt him go thin. Not much. As she'd felt him at the Scald when the canals ran past him. The earth in him, his hold on the stone, thinning where the running water went through it.
+She felt him go thin. A little, as she'd felt him at the Scald when the canals ran past him. The earth in him, his hold on the stone, thinning where the running water went through it.
 
 *I don't like this,* he said.
 
@@ -380,7 +380,7 @@ She didn't know which was worse.
 
 Orrun lay down in the chamber with his chin on the floor.
 
-Above them, a long way up, through all that rock, she could feel it now. Through him. Not a sound. A weight. Coming. In the sky over the Marches, getting heavier.
+Above them, a long way up, through all that rock, she could feel it now. Through him. A weight, without a sound. Coming. In the sky over the Marches, getting heavier.
 
 *We go up,* said Orrun. *When the light comes.*
 

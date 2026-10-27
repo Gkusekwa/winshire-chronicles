@@ -235,7 +235,7 @@ Dane didn't seem surprised.
 
 Dane looked at the basin.
 
-"Knowledge belongs to whoever can pay for it, Vael," he said. "That's always been true. Everywhere. In every kingdom." He said it without heat, the way he'd said *register it at the gate*. "The College only ever said it out loud."
+"Knowledge belongs to whoever can pay for it, Vael," he said. "That's always been true. Everywhere. In every kingdom." He said it without heat, as he'd said *register it at the gate*. "The College only ever said it out loud."
 
 "The bird said ask," said Idony.
 
@@ -283,8 +283,6 @@ He looked at Idony.
 
 "That's what they said. Every one of them. A mountain, on the far shore, walking along it. They watched it a whole morning from the masthead." Quayle shrugged. "Sailors' talk. They'd been at sea too long. Half of them had fever. You see things." He poked the fire. "The *Margery*'s master drinks in the Anchor at Gearmouth now and won't go out again. Says the sea's not empty after all."
 
-Idony didn't say anything.
-
 He took out the silk, there, at the fire, and his graphite, and wrote it down. In the margin. Small.
 
 *The* Margery *(Gearmouth), summer. A far shore west of the charts. A mountain walking. Sailors' talk.*
@@ -323,7 +321,7 @@ He'd gone down into it on the two-hundred-and-forty-sixth day, when the Bleed ha
 
 He didn't come out.
 
-Idony went and looked at him every day. From the top of the bank. The great grey lion lying in the bottom of the ditch, bigger than the ditch now, so that his back stood up out of it like a wall, with his chin on the earth of the bank and his eyes shut. Not asleep. Idony could tell. Lying very still and not asleep.
+Idony went and looked at him every day. From the top of the bank. The great grey lion lying in the bottom of the ditch, bigger than the ditch now, so that his back stood up out of it like a wall, with his chin on the earth of the bank and his eyes shut. Lying very still and not asleep. Idony could tell.
 
 He didn't eat. Tobin brought him a sheep from the camp every second day and it lay on the ditch's lip till the crows had it.
 

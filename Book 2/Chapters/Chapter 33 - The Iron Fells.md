@@ -140,7 +140,7 @@ He lay on the ridge with the sun going over and watched a binder walk along the 
 
 Lisska called on the hundred-and-forty-third day, at dusk.
 
-She didn't ask him. She'd been lying on the ridge beside him for three days, watching the young dragons in the smoke, and not talking. Then at dusk on the third day she got up. Not up into the air. She went along the ridge on her belly, slowly, in the snow, like a cat along a wall. To the east end of it, where it came down nearest to the far side of the bowl. Where she could see them.
+She didn't ask him. She'd been lying on the ridge beside him for three days, watching the young dragons in the smoke, and not talking. Then at dusk on the third day she got up and went along the ridge on her belly, slowly, in the snow, like a cat along a wall. To the east end of it, where it came down nearest to the far side of the bowl. Where she could see them.
 
 He didn't stop her.
 
@@ -150,7 +150,7 @@ Lisska lay at the east end of the ridge with her head just over the edge of it a
 
 ---
 
-He heard it. Not the words. There weren't words.
+He heard it, though there weren't words.
 
 It was the call the ledges' dragons gave the young ones. He'd heard it at the Roosts, in the mornings, from the cave mouths: a low, rising, falling sound, a hum, the sound a mother dragon makes over an egg in the warm sand of a hatching bowl. He'd never heard Lisska make it. He didn't know she could. It came out of her and went down the slope into the bowl in the dusk, very quiet, so quiet the hunters by their fires didn't hear it.
 
@@ -162,7 +162,7 @@ From the ridge. Small, in the dusk, at the end of the trench, in the smoke. The 
 
 And her eyes were her own.
 
-He saw it. Even from the ridge, even in the dusk. Something came back into them. Not much. A flicker. A small frightened bright thing, looking out, like a face at a window in a house where you'd thought nobody lived. She looked straight up at the ridge. At Lisska.
+He saw it. Even from the ridge, even in the dusk. Something came back into them, a little: a small frightened bright thing, looking out, like a face at a window in a house where you'd thought nobody lived. She looked straight up at the ridge. At Lisska.
 
 For one breath.
 
@@ -248,7 +248,7 @@ And Kharrak put his head down.
 
 He felt it come.
 
-He hadn't asked for it. The red dragon put his great head down over Calder's shoulders from behind, the way Skell had put his chin on Tor's, the way the old one had held him on the night of the smoke. And the heat came down the bond.
+He hadn't asked for it. The red dragon put his great head down over Calder's shoulders from behind, as Skell had put his chin on Tor's, and the old one had held him on the night of the smoke. And the heat came down the bond.
 
 Not the red tide. Not the fury. The other thing. The heat that was always in Kharrak, under everything, the forge-heat that came off his scales so you could sit against him in the snow and be warm. It came down the bond out of the red dragon and into Calder, into his chest, his arms, his hands. Into the word.
 
@@ -358,7 +358,7 @@ He took the boy home on the hundred-and-forty-sixth day.
 
 On Kharrak. Two valleys over, on the Isvaren side, down out of the snow into the high green valleys where the shielings were. The boy sat in front of Calder on the red dragon's neck with his hands buried in the warm scales and his eyes screwed shut for the first league. Then he opened them.
 
-Then he screamed. All the way. Not with fear. Calder had never heard anybody so happy in his life.
+Then he screamed. All the way. Calder had never heard anybody so happy in his life.
 
 The shieling was a turf-roofed hut in a green bowl with a beck and a hundred goats on the slope, and a woman came out of it at the sound of wings and stood in the door with a pail in her hand, and saw her son come down out of the sky on the neck of a red dragon behind a man with bandaged hands.
 

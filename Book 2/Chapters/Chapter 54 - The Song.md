@@ -132,7 +132,7 @@ She read it again. The reader's lines. *Not together. One will.* She read them t
 
 "My grandmother knew," she said at last. "Some of it. She gave me the verse that says where it sleeps, and kept back what it was for. Or she never had that part either." She put the paper down on the table and smoothed it flat with both hands. "Somebody sang the last verse fast because they knew what it meant. And kept the rest back. And then it was forgotten. And we kept singing it fast." She looked at the fire. "Like walking past a dog."
 
-She didn't sing for the rest of the winter. Not once. Wren asked, in the caves, at the new moon, and Ada said her throat was sore.
+She didn't sing again that winter. Wren asked, in the caves, at the new moon, and Ada said her throat was sore.
 
 ---
 
@@ -160,7 +160,7 @@ In the hall, at the two hearths, with the chief's chair between them under its g
 
 He told them.
 
-Not all of it. Not the temple. They didn't need the temple. He told them what was coming. The Sun Stair in Sarovel, within the month. And then the coast. A reef off Gullhaven, where the fishermen wouldn't go and the tide had been doing odd things all autumn. A month after the Sun Stair.
+All but the temple. They didn't need the temple. He told them what was coming. The Sun Stair in Sarovel, within the month. And then the coast. A reef off Gullhaven, where the fishermen wouldn't go and the tide had been doing odd things all autumn. A month after the Sun Stair.
 
 "Two months," he said. "About. And then whatever's under that reef comes up. Like the lake at Vael. Like the thing in Kessmoor." He looked at Arn. "Gullhaven's on a spit. There's no road off it but the spit itself. When the sea comes up there's nowhere to go. I need to warn them. And I need..."
 
@@ -236,13 +236,13 @@ So they broke it.
 
 The first flight went down on the carts.
 
-Fire. Long rushes of it, along the column, over the carts, the sacks, the stolen furniture, the plunder. Not on the men. On the things. The carts went up one after another in a line down the road, yellow, roaring, and the horses screamed and broke their traces and bolted into the scrub, and the men round the carts threw themselves flat or ran.
+Fire. Long rushes of it, along the column, over the carts, the sacks, the stolen furniture, the plunder. On the things, and never on the men. The carts went up one after another in a line down the road, yellow, roaring, and the horses screamed and broke their traces and bolted into the scrub, and the men round the carts threw themselves flat or ran.
 
 The second flight went down on the road ahead. A wall of fire across it, in the scrub, so that the head of the column stopped.
 
 The third went down into the column itself.
 
-Not fire. Dragons. Landing. On the road, in among the men, red and grey, wings wide, roaring. Not biting. Not burning. Landing, and roaring, and the men in front of them turning and running.
+Dragons. Landing. On the road, in among the men, red and grey, wings wide, roaring. Not biting. Not burning. Landing, and roaring, and the men in front of them turning and running.
 
 It broke.
 

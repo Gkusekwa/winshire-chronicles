@@ -119,7 +119,7 @@ She didn't understand at first.
 
 Then everyone did. The keeper's wife in the doorway. Two grooms by the stable. A boy with a bucket. A merchant at a table under the colonnade with a cup halfway to his mouth, who put it down and got off his bench and knelt on the stones. A woman in silk with a bonded hound at her feet, a big gold-coated hound with a jewelled collar, who stood up, and looked at the lion, and went down too. Slowly. On one knee. With her hand on her hound's head.
 
-"What are they doing?" said Tobin.
+"What're they doing?" said Tobin.
 
 "Kneeling," said Idony, very quietly. "To her."
 
@@ -185,7 +185,7 @@ Maren looked at Tobin, beside her, eating stew.
 
 "Because he did," she said.
 
-The old woman looked at her for a long time. Then she pushed the bread across the table.
+The old woman looked at her. Then she pushed the bread across the table.
 
 ---
 
@@ -193,7 +193,7 @@ Idony ate in the house.
 
 He came out to the kitchen afterwards. He stood in the doorway and looked at them all at the long table, and at Maren, and something in his face eased.
 
-"They gave me the best room," he said. "Because I came in with you." He looked at the fire. "I'm a reader. Unringed. In Sarovel I'm a hand, if I'm anything." He almost smiled. "I didn't say."
+"They gave me the best room," he said. "Because I came in with you." He looked at the fire. "I'm a reader. Unringed. In Sarovel I'm a hand, if I'm anything. I didn't say."
 
 "You should have come in our gate," said Tobin, with his mouth full.
 
@@ -289,7 +289,7 @@ She sat across the table from him and looked at him. Thin. Grey at the temples n
 
 Idony looked at him.
 
-"It's a thing," said Tobin. "The farmer's girl does it. Maren told me. You say it twice so they believe you."
+"It's a thing," said Tobin. "Farmer's girl does it. Maren told me. Say it twice and they believe you."
 
 Idony looked at Maren for a long moment.
 

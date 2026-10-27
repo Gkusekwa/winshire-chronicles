@@ -229,7 +229,7 @@ Vey's hand was dry and small and very steady. He shook once, and let go, and put
 
 The Clan came over Corsa at noon the next day.
 
-He'd sent Kharrak back down the coast for them in the night. With a word for Arn. Not a letter. A word, for Kharrak to give Tamsin on the spit, and Tamsin to give Gunna, and Gunna to give Arn: *They said no. Come and show them.*
+He'd sent Kharrak back down the coast for them in the night. With a word for Arn. Spoken, for Kharrak to give Tamsin on the spit, and Tamsin to give Gunna, and Gunna to give Arn: *They said no. Come and show them.*
 
 They came.
 
@@ -251,7 +251,7 @@ The Council came out on its balcony.
 
 Marrow first. Then the others. Strand in his green, with his soft face gone hard. The Quill woman. The captains. They stood on the balcony of the Tidehall over the sea-steps and looked up at forty-odd dragons going round over their harbour.
 
-Nobody in Corsa had seen it. Not in memory. Not the Clan over the city in force. Three dragons on the sea-steps in the autumn had been a wonder. This was the Scarfell.
+Nobody in Corsa had seen the Clan over the city in force. Not in memory. Three dragons on the sea-steps in the autumn had been a wonder. This was the Scarfell.
 
 ---
 
@@ -281,7 +281,7 @@ Strand opened his mouth.
 
 ---
 
-Marrow looked at the dragons for a long time.
+Marrow looked at the dragons.
 
 Up. At the wheel going round over her harbour. Forty of them. Red and grey. The wind of their wings coming down on the balcony and moving the salt-grey hair in its net.
 

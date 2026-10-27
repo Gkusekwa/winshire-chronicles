@@ -31,7 +31,7 @@ notes -->
 
 They passed the water at noon on the first day.
 
-He saw it from a long way off. Ahead of them, down the valley, a band of brown going across from one side to the other, and white along its front. Moving. Not fast, from up here. From up here it looked like a slow brown tongue licking its way down the valley floor, taking the fields and the hedges and the trees one after another. Behind it, the valley was full. Before it, the valley was green.
+He saw it from a long way off. Ahead of them, down the valley, a band of brown going across from one side to the other, and white along its front. Moving. From up here it looked slow, a brown tongue licking its way down the valley floor, taking the fields and the hedges and the trees one after another. Behind it, the valley was full. Before it, the valley was green.
 
 They went over it.
 
@@ -211,7 +211,7 @@ She listened. She didn't ask how a lake could break. She looked at the river, an
 
 Liss looked at him a moment longer.
 
-"Get them down to the jetty, then," she said. "They'll take it better from a man with a dragon."
+"Get them down to the jetty, then," she said, and swung the rope off her shoulder. "Mind the old ones on the steps. They'll take it better from a man with a dragon."
 
 ---
 
@@ -391,7 +391,7 @@ Liss looked at him for a moment. Then she looked back at the river.
 
 "Fisk's."
 
-"I know whose it is." She almost smiled. "He used to say his eel-word over his oars every night of his life. On the river. Every night, forty years." She shook her head. "Never caught an eel by it. Not once. You can't, on running water. He knew that." She looked at Calder. "He said it anyway."
+"I know whose it is." She gave the skirt another twist. "He used to say his eel-word over his oars every night of his life. On the river. Every night, forty years." She shook her head. "Never caught an eel by it. Not once. You can't, on running water. He knew that." She looked at Calder. "He said it anyway."
 
 "Why?"
 

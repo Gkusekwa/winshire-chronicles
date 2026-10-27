@@ -41,7 +41,7 @@ The Keeper was sitting by the lip with her bruised fingers in her lap. She looke
 
 "The ground's alive again," she said. "So it'll pull on its own now." She looked at her own fingers, at the red rings on them. "Too hard. Hold it loose. Don't let it wind."
 
-Maren held it loose. In her open palm, the way Hesper had shown her, not closing her fingers.
+Maren held it loose. In her open palm, as Hesper had shown her, not closing her fingers.
 
 It pulled down. Into the sink. And along, toward one place: the north-east side of the great slope of rubble, a third of the way down, where nothing looked any different from anywhere else.
 
@@ -93,7 +93,7 @@ Forty steps. She counted them. The air coming up from below was warm, and dry, a
 
 At the bottom, the stair came out into a room, and Hesper's torch went out.
 
-Not blown out. Not guttered. It went out as if it had decided to, all at once, and Hesper said a word in her own tongue and stood still in the dark.
+It didn't blow out or gutter. It went out as if it had decided to, all at once, and Hesper said a word in her own tongue and stood still in the dark.
 
 It wasn't dark.
 
@@ -101,7 +101,7 @@ It wasn't dark.
 
 The walls were glowing.
 
-Faint. Grey. Not a light that came from anywhere: a light that was in the stone, as if the stone had soaked up something and was giving it back, like a hearthstone giving back heat. Enough to see by. More than enough, once her eyes had got used to it.
+Faint. Grey. A light that came from nowhere, that was in the stone, as if the stone had soaked up something and was giving it back, like a hearthstone giving back heat. Enough to see by. More than enough, once her eyes had got used to it.
 
 It was round. A great round chamber, as big as the yard at Greyhold, under a dome. She could see the dome's curve going up into the grey glow on every side. And in the middle, where the top of the dome should have been, it wasn't. It was broken open. A great ragged hole, and through it, a long way up, daylight, a round of white sky, and down from it, in a heap that filled the middle of the floor, rubble. Broken dome-stone and grey earth and the roots of grey trees, lying in a mound in the middle of the chamber, with a beam of daylight coming down onto it like water out of a jug.
 
@@ -269,7 +269,7 @@ Idony went through the rubble for an hour looking for it. He found a piece. A fr
 
 Nothing else. Whatever it had been holding was gone.
 
-He sat on the rubble with the piece of stone on his knees and looked at the hand for a long time.
+He sat on the rubble with the piece of stone on his knees and looked at the hand.
 
 "I'd have given a year of my life," he said, "to see what was in it."
 
@@ -319,7 +319,7 @@ The grey glow was fading. By the evening of the second day she could see it goin
 
 Her fingers were numb.
 
-Not like before. Not for two days. Only for the evening, a coldness in the tips, the right hand, where she'd held the knot loose all the way down the slope. It had pulled on its own, Hesper said. It had taken from the ground, which was full. Only a little from her.
+This time it lasted only the evening, not two days: a coldness in the tips, the right hand, where she'd held the knot loose all the way down the slope. It had pulled on its own, Hesper said. It had taken from the ground, which was full. Only a little from her.
 
 She flexed them, and looked at the carved lion, and didn't mind.
 

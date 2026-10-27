@@ -143,7 +143,7 @@ He went back up to the palace.
 
 The surge came up for two days.
 
-Every lamp in Solenne went white. Not just the palace. The white city. The domed halls, the colonnades, the bond-crested noble houses. The low quarter too. Every dish of oil, every rush, every tallow end, burning white and too bright and cracking its holder.
+Every lamp in Solenne went white. The palace and the whole white city. The domed halls, the colonnades, the bond-crested noble houses. The low quarter too. Every dish of oil, every rush, every tallow end, burning white and too bright and cracking its holder.
 
 The bonded nobles' gifts blazed.
 
@@ -227,7 +227,7 @@ In the morning. He was on the terrace. He'd slept there, or not slept, against t
 
 The cliff broke.
 
-From the shrine upward. With a sound he'd never heard before and never wanted to hear again. Not like the Blue tower. Not like the ice at Glasswater. Bigger. A sound like the end of the world. The whole face of the cliff below the palace, from the sea to the terrace's foot, cracking away from the land along the white-lit crack, and leaning out, and going.
+From the shrine upward. With a sound he'd never heard before and never wanted to hear again. Bigger than the Blue tower had been, or the ice at Glasswater. A sound like the end of the world. The whole face of the cliff below the palace, from the sea to the terrace's foot, cracking away from the land along the white-lit crack, and leaning out, and going.
 
 Into the bay.
 
@@ -323,7 +323,7 @@ He heard it go. Like a bell cracking. The gold, and the iron under it, parting a
 
 The unicorn's eyes filled.
 
-He was a hand's breadth from them. He saw it. Somebody coming up from the bottom of a well. Fast. Not slowly, as with the yearling at Vael. Fast. All at once. A self, coming back into a place it had been kept out of for twelve winters, since it was taken in the snow.
+He was a hand's breadth from them. He saw it. Somebody coming up from the bottom of a well. Fast. Faster than the yearling at Vael. All at once. A self, coming back into a place it had been kept out of for twelve winters, since it was taken in the snow.
 
 It stood still for one breath.
 

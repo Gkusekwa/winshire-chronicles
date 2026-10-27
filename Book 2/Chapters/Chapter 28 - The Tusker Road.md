@@ -40,7 +40,7 @@ She sat by it with the hide bag on her knee. The last of the moss was in it, gre
 
 Orrun was eating again.
 
-Not much. Not the way he'd eaten on the Scarfell. He went out into the grass at night and came back before dawn and she didn't ask what he'd found. He walked beside her by day, slowly, and he was thin, and the grey at the roots of his mane hadn't gone. She'd thought it would grow out. It hadn't. When the sun was behind him she could see it: a band of ash-pale, close to the skin, under the iron-grey.
+A little, less than he'd eaten on the Scarfell. He went out into the grass at night and came back before dawn and she didn't ask what he'd found. He walked beside her by day, slowly, and he was thin, and the grey at the roots of his mane hadn't gone. She'd thought it would grow out. It hadn't. When the sun was behind him she could see it: a band of ash-pale, close to the skin, under the iron-grey.
 
 *It will not go,* he said, when she looked at it too long. *It is the stakes. And the lanes.*
 
@@ -84,7 +84,7 @@ She looked at him.
 
 She found the tuskers on the hundred-and-twentieth day.
 
-She felt them before she saw them. That was the strangest thing. They'd climbed for two days, up the cleft and over a saddle and into a high valley under the snowline, a wide bowl of turf and scree and little white flowers with the snowfields going up white on three sides and the sky very close. And all the second day she'd felt something in the ground. Not the hum. Lower. Slower. A long deep shudder, coming and going, that she felt in her feet and then in her chest, as if somebody very far off were beating a drum so big that the sound of it was too low to hear.
+She felt them before she saw them. That was the strangest thing. They'd climbed for two days, up the cleft and over a saddle and into a high valley under the snowline, a wide bowl of turf and scree and little white flowers with the snowfields going up white on three sides and the sky very close. And all the second day she'd felt something in the ground, lower than the hum, and slower. A long deep shudder, coming and going, that she felt in her feet and then in her chest, as if somebody very far off were beating a drum so big that the sound of it was too low to hear.
 
 *They are talking,* said Orrun.
 
@@ -186,7 +186,7 @@ They were going for the ring. For a gap. A place on the downhill side where a yo
 
 Orrun went out of the ring to meet them.
 
-He didn't run. He walked out across the turf toward the four cats, with his head down and his mane up, and the ground heaved under him with every step. Not much. Enough. The scree on the slope above them shifted. A rock the size of a barrel came loose and bounded down past the cats.
+He didn't run. He walked out across the turf toward the four cats, with his head down and his mane up, and the ground heaved under him with every step. The scree on the slope above them shifted. A rock the size of a barrel came loose and bounded down past the cats.
 
 The first cat stopped. Then the second.
 
@@ -208,7 +208,7 @@ Through the bond Maren felt him go very still.
 
 Not the cold stillness of the ground under snow. The other kind. The kind she'd felt in him once, on the island, the first time he let her put her hand on his foreleg.
 
-She didn't say anything. She stood a little way off, and let them.
+She stood a little way off, and let them.
 
 ---
 
@@ -254,7 +254,7 @@ It lay on the water.
 
 She'd thought it would be on the shore. Or under the city, as it had been under Greyhold. It wasn't. It lay on Glasswater, out from the city, grey, enormous, the size of a hill, with its wings folded and its head on its paws. On the water. Like an island. An island that breathed.
 
-She stood on the ridge with the tuskers behind her and looked at it for a long time.
+She stood on the ridge with the tuskers behind her and looked at it.
 
 Orrun stood beside her and looked at it too.
 
@@ -278,7 +278,7 @@ The towers near the water, the ones at the foot of the hill by the lake, lit las
 
 And at the top of the hill, the long hall cut into the hillside, the Library, was white.
 
-Not the colour of any college. White. Bright, cold, every one of its tall windows blazing, as if the hill itself had been lit from inside. The way the ring-stones had been full. The way the field-glass had run up to the top of its throat on the stone at the Ring and pressed there, trembling.
+Not the colour of any college. White. Bright, cold, every one of its tall windows blazing, as if the hill itself had been lit from inside: like the full ring-stones, like the field-glass that had run up to the top of its throat on the stone at the Ring and pressed there, trembling.
 
 A drain, with a full cup at its mouth.
 
@@ -292,7 +292,7 @@ The herd stopped above the pass on the hundred-and-thirty-third day.
 
 At the top of the road that went down to Vael. The Vael Pass, the tide-reader called it: a long saddle in the mountains with a road going down from it to the lake, cut into the slope in zigzags, wide, paved in places, worn deep in others by a thousand winters of tuskers hauling stone. At the top of it, by the road, a stone.
 
-Not a milestone. Bigger. Flat-topped, as high as the old cow's shoulder, grey, smoothed on top by something, so that the top of it shone a little in the sun like the inside of a cup.
+Bigger than a milestone. Flat-topped, as high as the old cow's shoulder, grey, smoothed on top by something, so that the top of it shone a little in the sun like the inside of a cup.
 
 The old cow walked up to it and laid her trunk on it.
 
@@ -300,7 +300,7 @@ She held it there a long time. The herd stood behind her in a long line, waiting
 
 Then she took her trunk off the stone and turned round and looked at Orrun.
 
-They stood ten paces apart again. The way they'd stood in the high bowl on the first day. And the ground spoke between them, long and low, and he answered, and it went on longer than it had the first time.
+They stood ten paces apart again, as in the high bowl on the first day. And the ground spoke between them, long and low, and he answered, and it went on longer than it had the first time.
 
 When it was done the old cow turned away from the road and led the herd off along the hillside, east, back the way they'd come. Slowly. Not looking back.
 
@@ -320,7 +320,7 @@ There were Wardens at the lake gate.
 
 The road came down off the pass in its zigzags to the shore of Glasswater and ran along it to the city, and where it met the first of the houses there was a gate. Not a wall: Vael had no walls, that she could see. A gate in a fence of iron rails, with a toll-house beside it and a queue of carts and mules on the road, and Wardens.
 
-Four. In grey and blue, with the sleeve-wards on their left arms, the blue thread on the grey silk, burning. Not blazing, as the tide-reader had said they'd blazed in the surge. Burning steadily. Live ground. And a table in front of the toll-house, with a big book open on it and a clerk behind it with a pen.
+Four. In grey and blue, with the sleeve-wards on their left arms, the blue thread on the grey silk, burning steadily, not blazing as the tide-reader had said they'd blazed in the surge. Live ground. And a table in front of the toll-house, with a big book open on it and a clerk behind it with a pen.
 
 She waited in the queue.
 

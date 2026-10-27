@@ -25,7 +25,7 @@ notes -->
 
 The sea gave them back.
 
-Not all at once. Over two days. Along the shingle of what was left of the spit, and the edge of the Saltings, and the mud of the harbour. On every tide. The salt-wives walked the tideline at dawn and at dusk with the Clan's riders beside them, and when they found someone they stopped, and knelt, and called the others.
+Over two days. Along the shingle of what was left of the spit, and the edge of the Saltings, and the mud of the harbour. On every tide. The salt-wives walked the tideline at dawn and at dusk with the Clan's riders beside them, and when they found someone they stopped, and knelt, and called the others.
 
 The few boats with sound hulls went out to the drowned smoke-houses. Standing in the sea. With their white crosses. Empty.
 

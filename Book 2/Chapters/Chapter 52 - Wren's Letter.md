@@ -26,7 +26,7 @@ They came back up the coast slowly, the way they'd gone down.
 
 Eight days. Aurveth rested more on the way home. She'd lie on a cape with her wings spread out on the cold grass and her eyes shut, and Calder would sit beside her with his back against her side and watch the sea, and Kharrak would go off and come back with a sheep that somebody would be angry about, and they'd go on.
 
-At Skarrow old Orm Garrick came out again with his hat in his hands and didn't say anything.
+At Skarrow old Orm Garrick came out again with his hat in his hands.
 
 At the Saltings the wading birds had gone south.
 
@@ -66,7 +66,7 @@ Eight lines. He sat and looked at it for a whole evening. Then he pushed it acro
 
 She read it. Slowly. All eight lines. Her face didn't change. When she got to the end she looked at it a long time.
 
-Then she took the charcoal out of his hand and wrote something at the bottom. Not in his letter. Under it. Small. In her own upright hand.
+Then she took the charcoal out of his hand and wrote something at the bottom, under his letter. Small. In her own upright hand.
 
 He read it. It took him a moment.
 
@@ -182,7 +182,7 @@ Then Wren came out of the dark behind him, small, in a coat too big for her, and
 
 Old Grey turned round and came after her.
 
-Not fast. He was old. Walking. Down the slope behind her through the snow, with his great head low, following. Nobody told him. He just came.
+Slowly. He was old. Walking. Down the slope behind her through the snow, with his great head low, following. Nobody told him. He just came.
 
 ---
 

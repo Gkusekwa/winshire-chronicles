@@ -175,7 +175,7 @@ It was under him.
 
 Moving.
 
-Not a river. Not a wind. Slower than that. Bigger. Like the tide coming in, under sand. He'd felt that once as a boy on the mud-flats below Harrow's End, standing barefoot on the wet sand at low water when the tide turned, and felt it come in under his feet before it reached the surface. A slow cold pull, under everything, going one way.
+Slower than a river or a wind. Bigger. Like the tide coming in, under sand. He'd felt that once as a boy on the mud-flats below Harrow's End, standing barefoot on the wet sand at low water when the tide turned, and felt it come in under his feet before it reached the surface. A slow cold pull, under everything, going one way.
 
 That.
 
@@ -239,7 +239,7 @@ He took his hand off her neck.
 
 Kharrak carried him off the reef.
 
-He couldn't stand. He didn't know why. He hadn't bled, but his legs wouldn't hold him, and his chest burned where his marks were. Kharrak put his great head down on the rock and Calder got an arm over his neck somehow and Kharrak lifted him, and he lay across Kharrak's shoulders like a sack.
+He couldn't stand. He hadn't bled, but his legs wouldn't hold him, and his chest burned where his marks were. Kharrak put his great head down on the rock and Calder got an arm over his neck somehow and Kharrak lifted him, and he lay across Kharrak's shoulders like a sack.
 
 *I'll take her,* said Kharrak. *I'll go under her.*
 

@@ -174,11 +174,11 @@ That was all. She went back in. Maren stood there a moment longer, and then she 
 
 They came down from the Long Barn after dark.
 
-He heard them before he saw them: the click of big hooves on the stone of the water-gate stair, and Nan crying in the tired, steady way of a child who has forgotten what she started crying about. Then lanterns. Not lamps. Oil, and candle-stubs in tin, swinging. Bel came first with Nan on her hip and a lantern in her other hand, and Ada behind her with Pip by the wrist, and behind them the greys.
+He heard them before he saw them: the click of big hooves on the stone of the water-gate stair, and Nan crying in the tired, steady way of a child who has forgotten what she started crying about. Then lanterns: oil, and candle-stubs in tin, swinging. Bel came first with Nan on her hip and a lantern in her other hand, and Ada behind her with Pip by the wrist, and behind them the greys.
 
 Mabbin, the old one, grey as a winter field. Sorrel, her daughter, younger and darker and jumpier. And Old Grey.
 
-He came down the stair last, slowly, his great feet finding each step. Nobody was leading him. His rope hung from his headstall and trailed on the stone. His eyes were the way they'd been since the Ewe Beck, empty, like windows in a house nobody lived in. He came down the landing past Calder and past the dragons, who didn't trouble him, and past the lion, which should have, and didn't, and he walked along the foot of the jetty to where Wren was sitting on the edge with her legs over the water, and stopped behind her, and stood there.
+He came down the stair last, slowly, his great feet finding each step. Nobody was leading him. His rope hung from his headstall and trailed on the stone. His eyes had been empty since the Ewe Beck, like windows in a house nobody lived in. He came down the landing past Calder and past the dragons, who didn't trouble him, and past the lion, which should have, and didn't, and he walked along the foot of the jetty to where Wren was sitting on the edge with her legs over the water, and stopped behind her, and stood there.
 
 That was all he did. He stood behind her in the dark.
 
@@ -204,7 +204,7 @@ Ada stopped beside him. She didn't say anything for a while. She looked at the d
 
 Liss's kitchen was long and low and smelled of smoke and eel and wet wool. There was an oil lamp on the table, an old one with a brass foot, and she lit it with a spill from the fire. He watched her do it. Every house on the Hearthmere bank had lamps that lit themselves; you saw them across the river every night. Liss had never stopped keeping one you lit with a spill.
 
-"My mother's," said Liss, seeing him look. "She never trusted the other sort." She set it down. "Turns out she was right."
+"My mother's," said Liss, seeing him look. "She never trusted the other sort, and I never had the heart to throw it out." She set it down and wiped her hands. "Turns out she was right."
 
 Ada went to the fire, where the kettle was. Out of a lifetime's habit she put two fingers on its side and said the hearth-word over it, low, the one that hurried a kettle. Calder had heard her say it every morning he could remember. Nothing happened. The kettle sat on the fire like any kettle. Ada looked at it, and at her fingers, and took them away.
 
@@ -278,7 +278,7 @@ Then he stopped, because there wasn't any more, and he found that his hands were
 
 ---
 
-Maren didn't say anything for a long time.
+For a while Maren said nothing.
 
 The lamp burned. The kettle, which had boiled at last, sat on the hob. Out on the jetty the lion breathed, slow, and the planks under him creaked with it.
 
@@ -334,7 +334,7 @@ In the corner, Ada put her mending down on her knee and looked at the fire.
 
 Neither of them said anything about tomorrow.
 
-He noticed it afterwards, lying on the floor by Liss's hearth with his coat over him and Wren's foot in his back, because she'd come down from the loft in the night and burrowed in, the way she used to when she was small. He thought about it a long time in the dark. They'd sat at the same table half the night, and she'd heard everything he had, and he'd heard the one thing she was going to give, and neither of them had said *what now* or *where* or *will you*. As if they'd agreed not to, without agreeing.
+He noticed it afterwards, lying on the floor by Liss's hearth with his coat over him and Wren's foot in his back, because she'd come down from the loft in the night and burrowed in, as she used to when she was small. He thought about it a long time in the dark. They'd sat at the same table half the night, and she'd heard everything he had, and he'd heard the one thing she was going to give, and neither of them had said *what now* or *where* or *will you*. As if they'd agreed not to, without agreeing.
 
 He didn't know where she was going. He knew where he was going. Varrhold, with a dragon who couldn't fly, to stand in a yard and say it. Then Skarrow, to the uncle, and say it again. As many times as it took.
 

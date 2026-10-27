@@ -117,7 +117,7 @@ He sat on a rock at the water's edge, at the bottom of the slope, with his four 
 
 "Look," he said.
 
-She looked. The quicksilver in the four glass throats was moving. Not slowly, as it had moved at the sink, a hair's breadth at a time. She could see it go. Up, steadily, as you'd see water rise in a ditch when the sluice is opened.
+She looked. The quicksilver in the four glass throats was moving. At the sink it had crept a hair's breadth at a time. Now she could see it go. Up, steadily, as you'd see water rise in a ditch when the sluice is opened.
 
 "Tonight," he said. "Or the morning." He didn't look up. "Soon."
 
@@ -159,7 +159,7 @@ Maren went up the slope to her lanes.
 
 The ground opened at the full of the morning.
 
-Not here. North. A league into the forest, Idony had said, and it was. First a sound. Not loud. Under everything. As if the world had cleared its throat. She felt it in her feet, in the turf of the near lane where she stood beside Orrun, in her teeth.
+Not here. North. A league into the forest, Idony had said, and it was. First a sound, low, under everything. As if the world had cleared its throat. She felt it in her feet, in the turf of the near lane where she stood beside Orrun, in her teeth.
 
 Then the ground heaved.
 
@@ -239,7 +239,7 @@ It went along it. Round it. The deer and the boar and the wild wolves and the el
 
 He didn't move.
 
-She felt him, through the bond. Holding the bank. The earth in him, going out of him into the ground, into the bank, and holding it up against the flood, as he'd held the slope in the sink, the way he'd held the stone that wanted to move. In the surge it came too easy. Too much. The ground wanted to heave. He held it, and it held.
+She felt him, through the bond. Holding the bank. The earth in him, going out of him into the ground, into the bank, and holding it up against the flood, as he'd held the slope in the sink and the stone that wanted to move. In the surge it came too easy. Too much. The ground wanted to heave. He held it, and it held.
 
 ---
 
@@ -261,7 +261,7 @@ She felt him decide.
 
 ---
 
-He didn't tell her. He didn't ask. She felt it go out of him, all at once, the way it had at the stakes on midsummer night, only more. A great pulling. A gathering. And then she was stretched.
+He didn't tell her. He didn't ask. She felt it go out of him, all at once, as it had at the stakes on midsummer night, only more. A great pulling. A gathering. And then she was stretched.
 
 Across the row of roundhouses, in the far lane, the turf heaved and something came up out of it.
 
@@ -297,7 +297,7 @@ In the seventh lane, Hesper was singing.
 
 Maren heard her through the far lion's ears. The seventh lane was the next one over from the sixth, the narrow one, by the forest's edge, and the far Orrun was close enough to hear. And through him, she heard.
 
-Hesper was standing in the narrow lane with her spear in her hand and Hush beside her, low, flat to the ground, with her tail lashing. And the flood was coming down the seventh lane at them. Not as much as the others: it was narrow. But the first of everything had come out of the trees there, nearest the forest's edge, and it was coming.
+Hesper was standing in the narrow lane with her spear in her hand and Hush beside her, low, flat to the ground, with her tail lashing. And the flood was coming down the seventh lane at them. Less than the others, because it was narrow. But the first of everything had come out of the trees there, nearest the forest's edge, and it was coming.
 
 She was asking.
 
@@ -305,7 +305,7 @@ In the old tongue. The Keepers' way. Maren heard the words and didn't know them 
 
 In the surge, it took too hard.
 
-They heard her. Every one. The whole front of the flood coming down the seventh lane heard the Keeper ask, and turned, all at once, as Hesper's knot had wound too tight round her fingers, the way her torch had flared to her wrist. They turned. Too hard. Too fast. A wild stonehorn bull at the front of them, mad, plated, as big as a haywain, heard her ask it to go round, and went round.
+They heard her. Every one. The whole front of the flood coming down the seventh lane heard the Keeper ask, and turned, all at once, as Hesper's knot had wound too tight round her fingers and her torch had flared to her wrist. They turned. Too hard. Too fast. A wild stonehorn bull at the front of them, mad, plated, as big as a haywain, heard her ask it to go round, and went round.
 
 Into the side of the lane.
 
@@ -323,7 +323,7 @@ Not the asking. The other thing. The little tune. Rising and falling, as you'd s
 
 *Hush, now. Hush. Like the six who sleep.*
 
-Then the roundhouse was down, and the stonehorn bull was through the wreck of it and gone down the lane to the water, and the rest of the flood behind it, turned, going round, the way she'd asked them to.
+Then the roundhouse was down, and the stonehorn bull was through the wreck of it and gone down the lane to the water, and the rest of the flood behind it, turned, going round, as she'd asked them to.
 
 And the singing stopped.
 
@@ -419,6 +419,6 @@ Magic, somebody said.
 
 The lion-woman's gift, somebody else said. The one who sits with it. She can be in two places at once. She stood in the near lane and she stood in the far lane, and the grey-maned stood in both with her.
 
-Idony sat beside her by the fire with his crate on his knees and his ledger open and wrote it down. All of it. What they said, and what he'd counted from the boat, and what he'd seen. He didn't say anything. Once he looked up at her, and she saw him want to ask, and not.
-
 She lay against the lion with the feeling coming back into her legs like pins, and the lullaby going round and round in her head in a dead woman's voice, and let them say it.
+
+Idony sat beside her by the fire with his crate on his knees and his ledger open and wrote it down. All of it. What they said, and what he'd counted from the boat, and what he'd seen. Once he looked up at her, and she saw him want to ask, and not.

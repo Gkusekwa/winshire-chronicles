@@ -31,7 +31,7 @@ All through the sunrise it poured into the hole where the island had been, from 
 
 Maren sat in the mud against Orrun's shoulder and watched the tree.
 
-She was cold. She noticed it the way she'd notice a stranger at a gate: there, and not yet her business. Her clothes were wet to the waist from the passage under the rock. Her hands were burned and split, and one of them was holding a strip of rag at her throat with something long and iron hung on it, and she didn't remember closing her fingers round it. Hale's key. She let go of it.
+She was cold. She noticed it as she'd notice a stranger at a gate: there, and not yet her business. Her clothes were wet to the waist from the passage under the rock. Her hands were burned and split, and one of them was holding a strip of rag at her throat with something long and iron hung on it, and she didn't remember closing her fingers round it. Hale's key. She let go of it.
 
 Under her the lion breathed, slow. Every breath lifted her and put her down.
 
@@ -41,7 +41,7 @@ There was blood in his mane, some of it his. She hadn't asked him where it came 
 
 The farmer was talking.
 
-He sat against the green dragon a few paces off, with his knees up and his arms on them, and he talked, low, steadily, as a man talks to frightened stock. Not to her. She heard only his half.
+He sat against the green dragon a few paces off, with his knees up and his arms on them, and he talked, low, steadily, as a man talks to frightened stock. She heard only his half.
 
 "No. Lie still. You can't, you know you can't, you'll open it again." A pause. "I know. I know it does." A longer one. "Because I'm not having you walk on it till somebody's looked. That's why." He put a hand back without looking and laid it flat on the green dragon's neck, and the green dragon stopped shaking for as long as the hand was there. "No, he's not. Kharrak. Kharrak, leave her be, she's not going anywhere. Neither are you." He listened. Something in his face moved. "Well, I don't know that. Nobody knows that."
 
@@ -125,7 +125,7 @@ The farmer said nothing. Behind him the red dragon lifted his head, and his lip 
 
 At the head of the column rode a small woman on a grey horse.
 
-Not a greyhart. Rowan had never ridden a greyhart that Maren had seen; she said they were for people who wanted to be looked at. She rode the way she did everything, neat and upright and without waste, with her iron-grey head bare and a dispatch case on her saddle. Thirty-eight behind her. Maren counted them without meaning to. Thirty-eight knights and students who could still sit a beast, out of all the orders that had held this bank since the muster. Wynn among them, on foot, leading his horse, with his two hounds pressed against his legs. The two licensed surgeons on their mules at the back. The wain.
+Not a greyhart. Rowan had never ridden a greyhart that Maren had seen; she said they were for people who wanted to be looked at. She rode neat and upright and without waste, with her iron-grey head bare and a dispatch case on her saddle. Thirty-eight behind her. Maren counted them without meaning to. Thirty-eight knights and students who could still sit a beast, out of all the orders that had held this bank since the muster. Wynn among them, on foot, leading his horse, with his two hounds pressed against his legs. The two licensed surgeons on their mules at the back. The wain.
 
 A long bowshot from the reeds, the greyharts stopped.
 
@@ -133,7 +133,7 @@ They didn't balk. They stopped, all of them at once, as if they'd come to the ed
 
 They smelled the lion. Three days ago, from a hedge below Hollin Knowe, she'd watched a column's greyharts catch his scent on a west wind and stop like this, and she had turned back. She remembered that, and didn't turn back.
 
-The knights got down. They did it the way they did everything, in order, by the files, and walked the last of the way leading their beasts, and the beasts came, because their knights asked them. A hound got up when its knight looked at it. A falcon came down out of the sky to the fist that rose for it. All along the line, on ground where not one lamp in a league would light, the bonds held. She saw it and understood it at the same moment, the way she'd understood things through Orrun all night: a bond wasn't the thing that had gone out of the ground. A bond had never come from the ground at all.
+The knights got down. They did it in order, by the files, and walked the last of the way leading their beasts, and the beasts came, because their knights asked them. A hound got up when its knight looked at it. A falcon came down out of the sky to the fist that rose for it. All along the line, on ground where not one lamp in a league would light, the bonds held. She saw it and understood it at the same moment, the way she'd understood things through Orrun all night: a bond wasn't the thing that had gone out of the ground. A bond had never come from the ground at all.
 
 It was the only thing in Hearthmere still working.
 
@@ -203,7 +203,7 @@ Out on his punt, Ottery smoked.
 
 They brought the wounded down off the bank to a place in the lee of the boathouse, where the ground was dry.
 
-Maren went over. Nobody stopped her. The line had broken up into knights doing things, the way a line does when it's been told what to do, and the greyharts were being walked back up the rise with their heads still turned over their shoulders toward the reeds, and nobody had time to remember that she'd been confined to the midden wall. She went because there was a boy in the row whose face she knew and couldn't name, and because she couldn't sit in the mud any longer, and because Orrun had lain down again and put his head on his paws and closed his eyes, which meant he would let her.
+Maren went over. Nobody stopped her. The line had broken up into knights doing things, and the greyharts were being walked back up the rise with their heads still turned over their shoulders toward the reeds, and nobody had time to remember that she'd been confined to the midden wall. She went because there was a boy in the row whose face she knew and couldn't name, and because she couldn't sit in the mud any longer, and because Orrun had lain down again and put his head on his paws and closed his eyes, which meant he would let her.
 
 There were eleven in the row. Students and knights and grooms. The Restoration's ladders had come up the bank all night, and the line had held it, and this was what it cost.
 
@@ -227,7 +227,7 @@ The blood came up round his fingers.
 
 Daw Pruett stopped looking at the sky. His eyes stayed open, but whatever was looking out of them had stopped.
 
-Aske knelt there. He didn't take his hands away. Then he did, and looked at them, red to the wrist, and sat back on his heels, and swore. Not loudly. Steadily. All the words a surgeon learns that aren't licensed.
+Aske knelt there. He didn't take his hands away. Then he did, and looked at them, red to the wrist, and sat back on his heels, and swore, low and steady, all the words a surgeon learns that aren't licensed.
 
 "He should have lived," Aske said. To nobody. To his hands. "That's nothing. That's a thigh. I've closed worse than that on a kitchen table with a cook holding the lamp." He wiped his hands on the grass, hard, again and again, as if the grass could take something off them. "It's not me. It's not the words. It's the ground." He laughed, which was worse than the swearing. "It's dead ground. The whole bank. I can feel it. It's like pressing on a drum with the skin gone." He looked up and saw Maren standing over him and didn't seem to know her. "It's dead ground," he said again. "All of it. Every league of it."
 
@@ -245,7 +245,7 @@ Back in the reeds, without opening his eyes, Orrun spoke.
 
 "All of it?"
 
-*What was ever its.* A pause, long, the way his pauses were, like a stone settling. *Which was all of it.*
+*What was ever its.* A long pause, like a stone settling. *Which was all of it.*
 
 Aske was staring at her. She realised she'd spoken aloud to nobody, the way the farmer did, and that from outside it must look the same.
 

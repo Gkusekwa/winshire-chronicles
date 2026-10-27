@@ -374,7 +374,7 @@ All of it. What he'd spent. What had gone out of him into the chain and the Tita
 
 He felt his hair go.
 
-He felt it. Not saw. A cold going over his scalp, his face, his beard, all at once, like water poured over his head. Grey. In a breath.
+He felt it more than saw it. A cold going over his scalp, his face, his beard, all at once, like water poured over his head. Grey. In a breath.
 
 His hand.
 

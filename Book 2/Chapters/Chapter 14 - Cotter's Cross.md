@@ -295,7 +295,7 @@ He was going to give them a road home.
 
 *They shot the old man,* said Kharrak.
 
-He hadn't known the red dragon was awake. Kharrak lay along the bottom of the gully with his chin on the rock and his eyes shut, and the words came out of him short and hard, the way they always did.
+He hadn't known the red dragon was awake. Kharrak lay along the bottom of the gully with his chin on the rock and his eyes shut, and the words came out of him short and hard.
 
 *Hallam. On the hill. And at the mill. The hedge. Dag went off my back that night.* A pause. *And you'll give them a road.*
 

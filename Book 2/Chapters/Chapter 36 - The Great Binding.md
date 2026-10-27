@@ -34,7 +34,7 @@ He watched it from the attic every night. Candle Row on the hundred-and-thirty-f
 
 Dark.
 
-Dark. Every lamp in the lower city out, or so near out that it was a red ember in a glass. Mother Talley's corner. The Dyers' College. The stall at the bottom of Ferry Street. The Tide-hall annex with its soft blue. All of it. People had candles in their windows, tallow, as they had in Hearthmere now, and in the Wyldmarch. He could see them from the attic, small and yellow and ordinary, along the shore.
+Every lamp in the lower city out, or so near out that it was a red ember in a glass. Mother Talley's corner. The Dyers' College. The stall at the bottom of Ferry Street. The Tide-hall annex with its soft blue. All of it. People had candles in their windows, tallow, as they had in Hearthmere now, and in the Wyldmarch. He could see them from the attic, small and yellow and ordinary, along the shore.
 
 He wrote it down. *Day 165. The cup is the whole hill. The drain is the whole shore.*
 
@@ -64,7 +64,7 @@ He'd been measuring the hill for a month. With the field-glass, on every floor o
 
 All but one place.
 
-The lowest hall. Under the hill end of the Library, below the bird's perch, down a stair behind the last shelves that the librarians kept locked and he'd never once been down. He got the key from an under-librarian who owed him a citation. A long low hall cut in the rock, empty except for dust, with a floor of old stone. Not the College's stone. Older. Dressed so close you couldn't see the joins. The kind under the Ring.
+The lowest hall. Under the hill end of the Library, below the bird's perch, down a stair behind the last shelves that the librarians kept locked and he'd never once been down. He got the key from an under-librarian who owed him a citation. A long low hall cut in the rock, empty except for dust, with a floor of old stone, older than the College's, dressed so close you couldn't see the joins. The kind under the Ring.
 
 And in the middle of the floor, a door.
 
@@ -110,7 +110,7 @@ He looked at it.
 
 Nobody had come up with scraps. Not since the readers went. The juniors had brought them twice a day for as long as anyone remembered, and nobody had thought about who'd bring them when the juniors didn't.
 
-He had smoked whitefish in his coat. Nessa had pushed it at him that morning at the steps, because he hadn't eaten, she said, since the ice. He unwrapped it and put it in the dish. All of it.
+He had smoked whitefish in his coat. Nessa had pushed it at him that morning at the steps, because he hadn't eaten, she said, in a week. He unwrapped it and put it in the dish. All of it.
 
 The Old Reader looked at the dish. It didn't come down.
 
@@ -156,7 +156,7 @@ He didn't look round. Nobody had ever seen it eat.
 
 He wrote it in the silk on the hundred-and-sixty-eighth day.
 
-His third reading. The Ring had shown him the stir; the Moot had shown him what came after it; and now this. He wrote it the way he'd written *a waking is a stir, a flood, and then a famine*: in the smallest hand he had, first, before anything else.
+His third reading. The Ring had shown him the stir; the Moot had shown him what came after it; and now this. He wrote it as he'd written *a waking is a stir, a flood, and then a famine*: in the smallest hand he had, first, before anything else.
 
 *When the cup is fullest, the beast goes down for what is under it. Then the flood. Then, out of the flood, the sleeper.*
 
@@ -414,7 +414,7 @@ He'd run. Down. Away from it. Toward the shore, toward the steps, toward the fer
 
 It was lifting its head out of the hill.
 
-Out of the crown, out of the dust, out of the broken place where the terrace had been and the Library's upper door. Slowly. The way it had at the Ring. And in its jaws, small against it, grey, round, a stone.
+Out of the crown, out of the dust, out of the broken place where the terrace had been and the Library's upper door. Slowly, as at the Ring. And in its jaws, small against it, grey, round, a stone.
 
 He couldn't see it well. He didn't need to. He'd seen the hollow in the plinth under the Ring. He knew the size of it. A cart-wheel's hub.
 
@@ -472,7 +472,7 @@ He was on Candle Row, on the steps, with the crowds from the lower city round hi
 
 Then every lamp in Vael lit at once.
 
-All of them. Not just the hill. The lower city too. Every lamp that had been dead for weeks, every lamp in every window and over every door, Mother Talley's at the corner of the fish-market, the Dyers' College's green, the Tide-hall annex's soft blue, the lamps on the hill that had gone out at noon: all at once, white. So bright the crowd on Candle Row cried out and covered their eyes. So bright that the whole city stood up out of the dark round the lake like a hand of cards held up to a fire.
+All of them. The hill, and the lower city too. Every lamp that had been dead for weeks, every lamp in every window and over every door, Mother Talley's at the corner of the fish-market, the Dyers' College's green, the Tide-hall annex's soft blue, the lamps on the hill that had gone out at noon: all at once, white. So bright the crowd on Candle Row cried out and covered their eyes. So bright that the whole city stood up out of the dark round the lake like a hand of cards held up to a fire.
 
 The ground heaved.
 

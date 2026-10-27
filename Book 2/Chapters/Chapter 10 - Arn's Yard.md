@@ -56,7 +56,7 @@ The beck went round her legs, brown and white. Kharrak stood beside her with his
 
 Calder stood on the bank with the water at his boots.
 
-He didn't ask her what she was doing. He felt it. Not grief, exactly. Something like grief that had been sitting in her so long it had worn smooth. Teo coming down alone at first light because he wanted to be first. Hallam's stick in the water. Morrow's head on Hallam's chest. And under it, older, the sense of a great many other fords in a great many other years, all the way back, and people coming down to them and not going up again.
+He didn't ask her what she was doing. He felt it: something like grief, that had been sitting in her so long it had worn smooth. Teo coming down alone at first light because he wanted to be first. Hallam's stick in the water. Morrow's head on Hallam's chest. And under it, older, the sense of a great many other fords in a great many other years, all the way back, and people coming down to them and not going up again.
 
 *I am remembering,* said Aurveth. *Let me.*
 
@@ -68,7 +68,7 @@ After a while she came up out of the water on the far side, and they went on up 
 
 The Way climbed.
 
-Below the ford it had run along the valley floor through farms and copses. Above it, it went up. Not steeply. The drove-road had been made for sheep and cattle and drays, and it went up the side of the glen in long patient slants, turning back on itself at the corners, with the beck going down beside it in a gully full of alder and stones. The farms gave out. The walls gave out. There was bracken and then heather and then the long brown flank of the moor going up on the left hand into cloud.
+Below the ford it had run along the valley floor through farms and copses. Above it, it went up, gently. The drove-road had been made for sheep and cattle and drays, and it went up the side of the glen in long patient slants, turning back on itself at the corners, with the beck going down beside it in a gully full of alder and stones. The farms gave out. The walls gave out. There was bracken and then heather and then the long brown flank of the moor going up on the left hand into cloud.
 
 He walked at her head. He'd walked at her head for six days and he'd got so he could feel, through his hand on her jaw and through the bond, the moment before she was going to stop: a heaviness that came down on her like water filling a boat. When it came he stopped before she did, so she wouldn't have to be the one, and they stood in the road with the wind going over the heather and he talked to her. About nothing. About the barley, which he hadn't sown and wouldn't now. About the price of wool at Cotter's Cross in his father's day. About Wren's ribbon. She didn't answer. After a while the heaviness would lift a little and she'd lean on Kharrak and they'd go on.
 
@@ -78,7 +78,7 @@ They slept that night in a sheepfold under the falls, with the water going down 
 
 Under his boots, in the morning, the ground was different.
 
-He'd felt it on the Saltreach bank at Tolly's Staithe, the first morning: a thin faint pulse, a long way down, like a heart heard through a wall. It had been with him all the way up the Way, thin, sometimes so thin he lost it, near the burned farms and the stripped villages. Here it was stronger. Not much. As if the wall were a little thinner. He didn't know what it was. He'd never known it was there until there'd been a whole bank of the world without it.
+He'd felt it on the Saltreach bank at Tolly's Staithe, the first morning: a thin faint pulse, a long way down, like a heart heard through a wall. It had been with him all the way up the Way, thin, sometimes so thin he lost it, near the burned farms and the stripped villages. Here it was a little stronger, as if the wall were thinner. He didn't know what it was. He'd never known it was there until there'd been a whole bank of the world without it.
 
 *The Scarfell's old,* said Aurveth, when he asked her. *Older than the river. The Deep runs close under it.* She walked. *That's why the eggs hatch here. Why there are dragons here and nowhere else.* A pause. *Why I came here, before there was a Clan, and sat down.*
 
@@ -120,7 +120,7 @@ There were six of them on the turf wall above it with torches, and crossbows, an
 
 So they waited in the road below the gate in the dark, with the old one lying down again in the heather by the track and the cry going on above them on the cliffs, quieter now, here and there, one dragon and then another, like the last of a rain.
 
-The steward came first. Gorm Askell, long and sour and ink-fingered, limping. He'd been hurt at the ford; Calder had seen him go down in the water. He looked over the wall at Calder for a long time and then down at the old one in the heather and said, "Damp," to nobody, and went away again to fetch Arn.
+The steward came first. Gorm Askell, long and sour and ink-fingered, limping. He'd been hurt at the ford; Calder had seen him go down in the water. He looked over the wall at Calder and then down at the old one in the heather and said, "Damp," to nobody, and went away again to fetch Arn.
 
 And while they waited, the ledges came down.
 
@@ -134,7 +134,7 @@ Behind Gunna, the others. Old men and women, and three or four of middle years, 
 
 They came out into the road.
 
-They didn't say anything to him. Gunna looked at him once, a short dry look. Then she went past him, to the old one in the heather, and put her hand on Aurveth's jaw, and said something in the old tongue he didn't know, and Aurveth closed her eye.
+They said nothing to him. Gunna looked at him once, a short dry look. Then she went past him, to the old one in the heather, and put her hand on Aurveth's jaw, and said something in the old tongue he didn't know, and Aurveth closed her eye.
 
 Then Gunna came back and stood behind him.
 
@@ -280,7 +280,7 @@ It was a herd-song. That was all. He knew the shape of it. It was the song his o
 
 He knelt by the wing with the rope-burns on his hands and listened to it and felt it go in.
 
-That was the thing. He felt it go in. Through the bond, through her. Not like the herd-word on the wound, a coolness. Something slower. A warmth in the bone itself, deep in it, the two ends of each break under the splints. And a drawing. As if each piece were reaching for the other through the dark inside the wing, slowly, two hands reaching across a bed in the night. A drawing together. Like a cut pulling shut.
+That was the thing. He felt it go in. Through the bond, through her. Something slower than the herd-word's coolness on the wound. A warmth in the bone itself, deep in it, the two ends of each break under the splints. And a drawing. As if each piece were reaching for the other through the dark inside the wing, slowly, two hands reaching across a bed in the night. A drawing together. Like a cut pulling shut.
 
 A little. He could feel how little. But it went in, and it held, and when the song stopped after a long time, it didn't stop. It went on in the bone by itself, slow, faint, like the pulse in the ground under the ledge.
 
@@ -290,7 +290,7 @@ Ivar Leck sat back on his heels and wiped his hands down his beard.
 
 "Doesn't it always?"
 
-"Not like that." The old man looked at the wing for a long time. "I've been singing that song on this ledge fifty years. Ten years now it's been like singing into a sack. The ground's been poor. Everybody's songs have been going thin." He shook his head. "That's more than I've had out of it in ten years."
+"Not like that." The old man looked at the wing. "I've been singing that song on this ledge fifty years. Ten years now it's been like singing into a sack. The ground's been poor. Everybody's songs have been going thin." He shook his head. "That's more than I've had out of it in ten years."
 
 "It's poor everywhere else," said Calder. "You should feel it on the other bank. Over there it's nothing. Over there your song wouldn't do anything at all."
 
@@ -322,7 +322,7 @@ Arn sat on the east side, at the high table, with Gorm beside him and two of his
 
 So Calder said it.
 
-He said it the way he'd heard it. Lying on the boards in the tower at the Old Ruin, with his face to the crack, and the fire below, and Rook's pleasant ordinary voice coming up. He'd said it to Maren on Liss's floor, the first night, and it had come out of him in pieces. He'd said it to himself every night on the Way since, so it would come out whole.
+He said it as he'd heard it. Lying on the boards in the tower at the Old Ruin, with his face to the crack, and the fire below, and Rook's pleasant ordinary voice coming up. He'd said it to Maren on Liss's floor, the first night, and it had come out of him in pieces. He'd said it to himself every night on the Way since, so it would come out whole.
 
 He told Arn about the horse taken from Ulric's camp, and the night in the gorse above the water. About Teo coming down alone at first light, pleased to see him, holding out the reins.
 
@@ -470,7 +470,7 @@ She looked at him for a long time. The short dry look, the one she'd given him i
 
 "Hallam's dead."
 
-She didn't say anything to that. Behind her, Tamsin opened one grey-green eye and looked at him, and shut it again.
+She let that go. Behind her, Tamsin opened one grey-green eye and looked at him, and shut it again.
 
 "All right," said Gunna Tarne. "I'll take Tamsin, and Harl, and the boy Leif, and his. We'll go down tomorrow and sit on the edge and wait." She picked the broth up again. "And I'll tell your girl her father's sorry he couldn't come himself, because she'll ask."
 

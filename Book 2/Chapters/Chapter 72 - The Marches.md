@@ -89,7 +89,7 @@ Liss looked at her.
 
 "Over the Wend. Onto the Saltreach bank. Up the Drover's Way to Harrow's End, and past it, toward the Clan's ground." She looked at Liss. "Away from this bank. Away from the river. Away from him."
 
-Liss looked at the window for a long time.
+Liss looked at the window.
 
 "How many?" she said.
 
@@ -103,7 +103,7 @@ Liss looked at the window for a long time.
 
 "No," said Maren.
 
-"Neither do I," said Liss. She stood up. "I'll need another rope."
+"Neither do I," said Liss. She stood up and swept the crumbs off the table into her hand. "I'll need another rope."
 
 ---
 

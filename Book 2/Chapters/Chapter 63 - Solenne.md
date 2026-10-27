@@ -29,7 +29,7 @@ notes -->
 
 For three days the white city burned.
 
-Not all at once. A roof. Then another. She watched it from the low quarter's shore, from the shingle by the boats, from the stable door with Orrun's head against her back. The lamps in the white city burning white and bursting, and something catching where they burst. A stable-roof. A noble house's shutters. The bonded lords' gifts blazing in the streets, a cat shedding gold sparks into straw, a hound burning in a doorway. And the fire going from roof to roof down the terraces toward the walls.
+A roof first. Then another. She watched it from the low quarter's shore, from the shingle by the boats, from the stable door with Orrun's head against her back. The lamps in the white city burning white and bursting, and something catching where they burst. A stable-roof. A noble house's shutters. The bonded lords' gifts blazing in the streets, a cat shedding gold sparks into straw, a hound burning in a doorway. And the fire going from roof to roof down the terraces toward the walls.
 
 The cliff under the palace cracked. Wider every hour, with white light in the crack.
 
@@ -101,7 +101,7 @@ Every boat in the low quarter. Fishing boats. Rowing boats. The flat-bottomed sa
 
 Tobin ran the shingle.
 
-She'd seen him do it at the Scald, in the ditches, talking. He did it here. Up and down the stones, loud, in his bad Sarovel and his good common tongue, shouting, pointing, picking up children and putting them into boats and telling their mothers to get in after. Everybody listened to him. She didn't know why. They'd listened to him in the wine-inn every night for two weeks, and now they listened to him on the shingle.
+She'd seen him do it at the Scald, in the ditches, talking. He did it here. Up and down the stones, loud, in his bad Sarovel and his good common tongue, shouting, pointing, picking up children and putting them into boats and telling their mothers to get in after. Everybody listened to him. They'd listened to him in the wine-inn every night for two weeks, and now they listened to him on the shingle.
 
 "Children in the middle! Old ones in the bow! Don't stand up! Don't stand up in it! Sit! That's it! That's grand!"
 
@@ -253,7 +253,7 @@ She didn't know how long after. She was still kneeling. The three lions were sti
 
 The smoke was coming down off the white city. Drifting across the harbour. Thick, grey, in sheets. And through a gap in it, across the bay, under the palace cliff, at its western end, she saw the palace's harbour stair.
 
-Not the Sun Stair. That was gone into the sea. The other one. The private one, that went down from the palace's west wing to a deep-water quay under the cliff, where the court's own ships tied up.
+The Sun Stair was gone into the sea. This was the other one. The private one, that went down from the palace's west wing to a deep-water quay under the cliff, where the court's own ships tied up.
 
 A ship at the quay.
 
@@ -265,7 +265,7 @@ And men on the quay. Dragging someone.
 
 A man in a brown robe.
 
-Bent. Grey at the temples. Fighting them. Not well. He'd never fought anyone in his life. Pulling back against them, with his feet on the stone of the quay, and they had him by the arms, two of them, and a third behind with a hand in the back of his robe.
+Bent. Grey at the temples. Fighting them, badly. He'd never fought anyone in his life. Pulling back against them, with his feet on the stone of the quay, and they had him by the arms, two of them, and a third behind with a hand in the back of his robe.
 
 A stick went into the water off the quay's edge.
 
@@ -315,7 +315,7 @@ When the slide was held. When the three lions on the stair had stood long enough
 
 The Horned Sun moved again as she reached the island.
 
-Another swell. Not so big. Big enough. It took the boat on the rocks below Sorrel Isle's landing and turned it over.
+Another swell. Smaller. Big enough. It took the boat on the rocks below Sorrel Isle's landing and turned it over.
 
 The island's people pulled the children out. On ropes, from the rocks. All twelve. The two old women.
 
@@ -435,7 +435,7 @@ Tobin wasn't there.
 
 He'd stayed. With the street-tribunes. On the shingle. In the low quarter, under the walls of the burning white city, holding what was left.
 
-"Somebody's got to," he'd said. When she'd tried to make him get in a boat. "You said. *I will stand between the weak and what would harm them.*" He'd grinned at her. Thin, and tired, and filthy. "I've said it now. In a dead town. I can't take it back."
+"Somebody's got to," he'd said, when she tried to make him get in a boat. He hadn't let her finish. "You said it. *I will stand between the weak and what would harm them.*" He'd grinned at her. Thin, and tired, and filthy. "Said it now myself. In a dead town. Can't take it back."
 
 ---
 

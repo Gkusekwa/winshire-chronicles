@@ -188,7 +188,7 @@ She hit Orrun. Grey, enormous, standing at the foot of the stone where the ladde
 
 He went up the stone himself.
 
-She didn't know he could. She felt him do it through the bond, the earth in him, the stone answering. He set his forepaws on the stone's side and the stone took them. Not gave way: took them, the way the gallery stone under the river had opened for him, the way the floor had held under the knowe. His claws went into the stone a finger's depth, as if it were clay, and held. He went up the side of it, with her on his back, slow, a forepaw and then a forepaw.
+She didn't know he could. She felt him do it through the bond, the earth in him, the stone answering. He set his forepaws on the stone's side and the stone took them. Not gave way: took them, as the gallery stone under the river had opened for him, and the floor under the knowe had held. His claws went into the stone a finger's depth, as if it were clay, and held. He went up the side of it, with her on his back, slow, a forepaw and then a forepaw.
 
 At the top, Pask looked up from his hands, and saw a lion coming over the edge of his stone with a knight on its back, and screamed.
 
@@ -232,7 +232,7 @@ A woman, older, grey-haired. Ysolde Marr, with the lynx. Kneeling on her stone w
 
 Orrun put his head down and walked toward her stone.
 
-Not fast. He didn't need to go fast. He walked across the grey grass toward the foot of Ysolde Marr's stone, slowly, with his head down and his mane up, a lion the size of a dray-beast coming at her out of the smoke and the white light, and the ground under his feet heaving a little with every step, so that the stone she knelt on rocked.
+He didn't need to go fast. He walked across the grey grass toward the foot of Ysolde Marr's stone, slowly, with his head down and his mane up, a lion the size of a dray-beast coming at her out of the smoke and the white light, and the ground under his feet heaving a little with every step, so that the stone she knelt on rocked.
 
 She stood up.
 
@@ -298,7 +298,7 @@ She'd seen it on the knowe. Once. A lion of earth and stone rising out of the hi
 
 She felt it now.
 
-She was stretched. That was the only word. She stood at the foot of the north-west stone with the sword in her hands and felt herself pulled out thin between two bodies, a hundred paces apart, both of them him, both of them pulling stakes out of dead ground, and her half of the one life stretched across both, like a skin stretched over two drums. She was cold. Not the beck. Deeper than that. Cold in the middle of her bones, as if something were drinking the warm out of her from the inside.
+She was stretched. That was the only word. She stood at the foot of the north-west stone with the sword in her hands and felt herself pulled out thin between two bodies, a hundred paces apart, both of them him, both of them pulling stakes out of dead ground, and her half of the one life stretched across both, like a skin stretched over two drums. She was cold. Cold in the middle of her bones, as if something were drinking the warm out of her from the inside.
 
 Something ran down her lip.
 

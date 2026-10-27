@@ -30,7 +30,7 @@ That was the old way at Greyhold, older than the charter over the gate. A bonded
 
 They dug them all through the first day after the flight. Knights and students and grooms and the refugees from Millbrook who'd come up to the walls in the night and stayed, a long ragged line of people with spades on the west slope of the hill in the thin spring sun, and the ground was soft from the thaw and the digging went fast, and nobody spoke much.
 
-Haverly went into the ground with Kesh. Somebody had smoothed the falcon's feathers and laid her on his chest with her head under his chin, the way she'd sat on his shoulder in the yard. Thorne went in with her boar. It had taken eleven men and a dray-team on a chain to drag the black boar up the hill from the river gate where it had died with her, and they'd had to dig its grave twice the size of any other, and Thorne lay in it against the great black flank like a child asleep against a dog. Pell went in alone. He'd never bonded. He'd taught three hundred students to subdue and not to kill and he went into the ground with his two-fingered hand on his sword and no beast beside him, and Maren stood at the foot of the hill and thought that he wouldn't have wanted one, and knew that was a lie she was telling herself because it was easier.
+Haverly went into the ground with Kesh. Somebody had smoothed the falcon's feathers and laid her on his chest with her head under his chin, as she'd sat on his shoulder in the yard. Thorne went in with her boar. It had taken eleven men and a dray-team on a chain to drag the black boar up the hill from the river gate where it had died with her, and they'd had to dig its grave twice the size of any other, and Thorne lay in it against the great black flank like a child asleep against a dog. Pell went in alone. He'd never bonded. He'd taught three hundred students to subdue and not to kill and he went into the ground with his two-fingered hand on his sword and no beast beside him, and Maren stood at the foot of the hill and thought that he wouldn't have wanted one, and knew that was a lie she was telling herself because it was easier.
 
 Hale went in alone too. The archivist. Forty years in the dark with the black book and the door. They put him at the end of the row, a little apart, because nobody knew quite where he belonged.
 
@@ -88,7 +88,7 @@ He didn't hug her. He'd stopped hugging her the year their father died, the same
 
 "No," said Maren.
 
-Tam looked at the lion for a long time. Then he went and sat down on the grass a little way off, close enough to put out a hand, not putting it out, and stayed there all afternoon while they buried the dead.
+Tam looked at the lion. Then he went and sat down on the grass a little way off, close enough to put out a hand, not putting it out, and stayed there all afternoon while they buried the dead.
 
 ---
 
@@ -140,7 +140,7 @@ The last name was Hale's. *Osric Hale.* She couldn't read the script, not proper
 
 Under it, the page was empty.
 
-She sat in his chair for a long time looking at the empty page.
+She sat in his chair a while, looking at the empty page.
 
 *I said I'd not make you that,* he'd said, on the floor by the three steps, with the sword-cut in him and the key in his hand. *I'm making you it now.*
 
@@ -188,9 +188,9 @@ She stood at the edge of the ledge with her hand on the first ring and looked do
 
 They brought Callis up past her.
 
-Four knights carried him on a door, the way Tam had carried Odo. He was in irons: a chain at his ankles and a bar across his chest, though there was no need, because both his arms were splinted to the shoulder in bound slats and he couldn't have lifted either of them. His right arm she'd broken on the island in the snow, with Tobin's blunt practice sword. His left wrist she'd broken three nights ago in the round chamber, with the flat of the river watch sword. He was grey in the face and his eyes were open.
+Four knights carried him on a door. He was in irons: a chain at his ankles and a bar across his chest, though there was no need, because both his arms were splinted to the shoulder in bound slats and he couldn't have lifted either of them. His right arm she'd broken on the island in the snow, with Tobin's blunt practice sword. His left wrist she'd broken three nights ago in the round chamber, with the flat of the river watch sword. He was grey in the face and his eyes were open.
 
-He saw her as they carried him past. He didn't say anything. He didn't look away, either. He looked at her the whole time they carried him along the ledge, steadily, as a man looks at weather, until they took him into the passage and the dark.
+He saw her as they carried him past. He said nothing. He didn't look away, either. He looked at her the whole time they carried him along the ledge, steadily, as a man looks at weather, until they took him into the passage and the dark.
 
 She'd thought he would hate her. Perhaps he did. It didn't look like hate. It looked like a man who had wanted something all his life and had stood very close to it and had it taken away by somebody he'd never thought about, and was trying to understand how.
 
@@ -396,4 +396,4 @@ Then, very slowly, she folded them.
 
 The farmer got up and went to her and put his hand on her jaw and said something Maren couldn't hear. The red one had his head up. The green one had gone down the shingle and was standing in the shallows with her wings half open, as if she could show the old one how.
 
-Maren stood at the top of the steps with Haverly's sword under her arm and the black book against her chest and watched the old dragon fold her wings, and lie down again on the shingle in the dusk, and put her great head on her forefeet, and close her one gold eye.
+Maren stood at the top of the steps with Haverly's sword under her arm and the black book against her chest and watched the old dragon fold her wings, and lie down again on the shingle, and put her great head on her forefeet, and close her one gold eye.

@@ -132,7 +132,7 @@ He came back to the fire. His hands were cold. The frost-map lay out on the shor
 
 Idony had got up.
 
-He came out onto the frost with the chart under his arm and a stick to lean on, walking bent, slowly, and stood at the edge of the circle and looked at the six lines going out into the dark. He didn't say anything for a long time.
+He came out onto the frost with the chart under his arm and a stick to lean on, walking bent, slowly, and stood at the edge of the circle and looked at the six lines going out into the dark. For a while he said nothing.
 
 Then he knelt down.
 
@@ -262,7 +262,7 @@ He said it in a voice Calder hadn't heard him use. As if he were reading it.
 
 Calder looked across the fire.
 
-Maren was sitting by the lion with her dead arm in her lap. She was looking at the circle in the frost. Not at Idony. Not at him. At the circle. And her face had gone still, the way it went still when she knew a thing and wasn't going to say it.
+Maren was sitting by the lion with her dead arm in her lap. She was looking at the circle in the frost, not at Idony or at him. And her face had gone still, as it went still when she knew a thing and wasn't going to say it.
 
 He'd seen that face before. On the jetty at Greyhold. In the yard, the first night.
 
@@ -384,7 +384,7 @@ The lion got up.
 
 Taller than the sheds on the shore. He shook the frost off his mane in a white spray and stood looking west along the shore, toward the end of the lake and the road that went round it under the mountains. Toward the snow-line, where the Titan had gone.
 
-Maren came over to Calder. Not close. A few paces off.
+Maren came over to Calder, and stopped a few paces off.
 
 "The water," she said. "Greyhold."
 

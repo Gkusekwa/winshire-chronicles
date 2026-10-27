@@ -76,7 +76,7 @@ He felt it the next morning, going down the attic stair. In his feet. Faint, thr
 
 In the Library's lower halls it was louder.
 
-He went there that morning, before anything else. Before Nessa, before the Council, before the stall at the bottom of Ferry Street. He went in at the great door of the Long Library and down the first hall, between the shelves, and it came up through the floor. Not loud. You'd have thought it was a cart going over a bridge somewhere. But it didn't stop. It went on and on, steady, under the stone, and the readers at the long tables had their feet up on the rungs of their chairs, off the floor, every one of them, without seeming to know why.
+He went there that morning, before anything else. Before Nessa, before the Council, before the stall at the bottom of Ferry Street. He went in at the great door of the Long Library and down the first hall, between the shelves, and it came up through the floor, so low you'd have thought it was a cart going over a bridge somewhere. But it didn't stop. It went on and on, steady, under the stone, and the readers at the long tables had their feet up on the rungs of their chairs, off the floor, every one of them, without seeming to know why.
 
 He took the field-glass out of its case and set it on the floor of the Long Library.
 
@@ -142,7 +142,7 @@ He told her.
 
 He told her the way he'd tell anybody, carefully, in order. The drain. The cup. The Ring, and the grey, and the full stones. He told her about the stir, and what came after it, and what came after that. A stir, a flood, and then a famine.
 
-Nessa listened. She didn't interrupt. When he'd done she was quiet for a long time, looking at the island.
+Nessa listened. She didn't interrupt. When he'd done she was quiet a while, looking at the island.
 
 "And it's lying on our lake," she said.
 
@@ -168,7 +168,7 @@ The far-shore villages needed salt and flour and a midwife, and the *Heron* had 
 
 At the end of the ferry steps, before she cast off, Nessa did something he'd never seen her do.
 
-She took a handful of salt from a sack in the stern. Coarse grey salt, the kind the fish-wives used. She stood up in the boat and threw it over the prow, into the water, past the tin serpent and the owl. Not hard. As you'd throw grain to hens.
+She took a handful of salt from a sack in the stern. Coarse grey salt, the kind the fish-wives used. She stood up in the boat and threw it over the prow, into the water, past the tin serpent and the owl, as you'd throw grain to hens.
 
 "For the Lady," she said.
 
@@ -216,7 +216,7 @@ He told them.
 
 ---
 
-He told them the way he'd told Nessa. In order. Carefully. The surge at the Ring. The glasses climbing fastest to the south. The clans at the lake, thousands of them. The slope of the climb, and what it meant. Seven days. Fewer.
+He told them as he'd told Nessa. In order. Carefully. The surge at the Ring. The glasses climbing fastest to the south. The clans at the lake, thousands of them. The slope of the climb, and what it meant. Seven days. Fewer.
 
 "And Magister Dane meant to bind the sleeper as it rose," he said. "With three lamps. And the clans were on the shore."
 
@@ -228,7 +228,7 @@ He didn't look at Dane.
 
 The Hall of Rings was quiet.
 
-Quell looked at him for a long time with her pale old eyes.
+Quell looked at him with her pale old eyes.
 
 Then she said, in her dry-leaf voice, exactly as she'd said it on the twelfth day, as if she were reading it from something written down long ago:
 
@@ -280,7 +280,7 @@ Quell put it on the table in front of him. A roll, old, on vellum, in a clerk's 
 
 He read it twice.
 
-It was very old. Older than anything in the College's ordinary archive. The vellum was brown and soft as cloth. The ink had gone the colour of rust. And the form of the working was strange. Not like the many-voice workings in the grammar. Tighter. More exact. With a line in it, near the end, that he didn't understand: a line the voices said together, at the last, that wasn't part of the binding at all. A line that told them not to think about what they were doing.
+It was very old. Older than anything in the College's ordinary archive. The vellum was brown and soft as cloth. The ink had gone the colour of rust. And the form of the working was strange: tighter than the many-voice workings in the grammar, more exact. With a line in it, near the end, that he didn't understand: a line the voices said together, at the last, that wasn't part of the binding at all. A line that told them not to think about what they were doing.
 
 He read it a third time.
 
@@ -346,7 +346,7 @@ He'd never talked so long in his life. The light went in the tall windows while 
 
 The Old Reader didn't interrupt once.
 
-It sat on its perch with its head on one side and its one good eye on him and listened. Once, at *sleep, six times*, its feathers lifted all down its back, the way they had on the morning of the breaking, and settled again. Once, at the stag, it closed its eye. That was all.
+It sat on its perch with its head on one side and its one good eye on him and listened. Once, at *sleep, six times*, its feathers lifted all down its back, as they had on the morning of the breaking, and settled again. Once, at the stag, it closed its eye. That was all.
 
 When he'd finished, it was quiet for a long time. He was used to its silences. He waited.
 

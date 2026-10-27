@@ -44,13 +44,13 @@ Inside the field it fell, and melted as it fell, and came up again as steam. All
 
 The envoys went.
 
-Not all at once. By the two-hundred-and-seventieth day the camp outside the west gate was half the size it had been. Lorne went first, in his crown-blue cloak, to Ironhythe, to sign for the second cage at the Hall of Measures. Dane went with him, very straight, with his gloved hands, without looking back at the bank. The Lady Aurel went south with her twenty riders and her carriage and her bright interested eyes, back to the Sun Stair, apologising prettily to Moss at the gate for nothing in particular.
+Slowly. By the two-hundred-and-seventieth day the camp outside the west gate was half the size it had been. Lorne went first, in his crown-blue cloak, to Ironhythe, to sign for the second cage at the Hall of Measures. Dane went with him, very straight, with his gloved hands, without looking back at the bank. The Lady Aurel went south with her twenty riders and her carriage and her bright interested eyes, back to the Sun Stair, apologising prettily to Moss at the gate for nothing in particular.
 
 The Quill house's thin woman in white went back to the coast.
 
 The Kessmoor guildmasters stayed. They came out every few days in their steam-launches to look at the cage and went back again.
 
-"They'll come back," said Tobin. "When it does something."
+"They'll be back," said Tobin. "Soon as it does something."
 
 "It won't do anything," said Pike. "That's the point."
 
@@ -140,7 +140,7 @@ With flint. Tobin struck it. He tried the hearth-word first, the one every child
 
 "Dead," said Idony. "The surge went out with the Furnace. It's all dead again outside the bank."
 
-"I know," said Tobin. "I just like saying it."
+"I know, I know," said Tobin. "I like saying it."
 
 The fire caught on the flint's third spark. They sat round it on the cold floor of the chapel with their backs to the walls and the snow coming down out of the dark through the roof, and the light going up.
 
@@ -150,13 +150,11 @@ The fire caught on the flint's third spark. They sat round it on the cold floor 
 
 He was looking at the fire.
 
-"At noon. Today. Facing the wall." He picked up a stick and put the end of it in the flames. "The ones that are left. Grieve and the rest. In the yard. Facing the inner wall. The way they did every day." He turned the stick. "I used to stand at the back and listen. I wasn't let say it. Unchosen. You only say it once you're sworn."
-
-Maren didn't say anything.
+"At noon. Today. Facing the wall." He picked up a stick and put the end of it in the flames. "The ones that are left. Grieve and the rest. In the yard, facing the inner wall, same as every day." He turned the stick. "I used to stand at the back and listen. I wasn't let say it. Unchosen. You only say it once you're sworn."
 
 "Do they still?" said Idony. "After the gate?"
 
-"Grieve does," said Tobin. "I'd bet you. Grieve'd say it if the wall fell down on him."
+"Grieve does," said Tobin. "Bet you anything. Grieve'd say it with the wall coming down on him."
 
 ---
 
@@ -216,7 +214,7 @@ He stopped where she'd stopped. He looked at her.
 
 Idony didn't.
 
-He sat against the chapel wall with his knees up and his hands round them and looked at the fire, and didn't say anything.
+He sat against the chapel wall with his knees up and his hands round them and looked at the fire.
 
 "I read who wrote it," he said at last. Not to them. To the fire. "In the case. Under the perch. My college wrote it, for a lord, to keep a thing under the river still. The last line's a muzzle. It's there so the voices won't doubt." He was quiet. "*Keep the watch below* fed the chains. Three hundred years of people saying it at noon, not knowing, and it fed the chains."
 
@@ -236,7 +234,7 @@ She thought he wouldn't. She thought that was all right. He'd never been sworn. 
 
 *I will hold the river,* said Idony.
 
-Very quietly. The way he said things he'd had to work for.
+Very quietly, as he said things he'd had to work for.
 
 *I will keep the road.*
 
@@ -278,7 +276,7 @@ Lisska came in at dawn.
 
 Maren saw her from the chapel door. She'd gone out to look at the morning, grey and white and very still, the snow stopped, the smoke from the basin going straight up into a sky like slate. And out of the east, low over the moor, small, green, fast, a dragon.
 
-She came round the cordon. Not through the field. Wide of it, along the outer bank, with the steam going up beside her where the snow turned to vapour, and down along the street of Orrin's ruins to the chapel.
+She came round the cordon, wide of the field, along the outer bank, with the steam going up beside her where the snow turned to vapour, and down along the street of Orrin's ruins to the chapel.
 
 She landed on the broken wall of the house beside the door.
 
@@ -402,7 +400,7 @@ He read the last line again.
 
 "I don't know."
 
-He looked at it for a long time.
+He kept looking at it.
 
 Then he took out the silk and his graphite and copied the line into the margin. Small. Exactly. With the question mark.
 

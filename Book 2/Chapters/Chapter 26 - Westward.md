@@ -316,7 +316,7 @@ His nose was bleeding.
 
 It bled for an hour.
 
-He knelt in the top field with his head down and his hands on his knees and the blood running off his chin into the nettles, and couldn't stop it. He pressed it. He tipped his head back. Nothing. It ran. Not hard. Steadily, like a tap left open, warm, and it went on and on.
+He knelt in the top field with his head down and his hands on his knees and the blood running off his chin into the nettles, and couldn't stop it. He pressed it. He tipped his head back. Nothing. It ran, steadily, like a tap left open, warm, and it went on and on.
 
 Lisska came down in the field beside him.
 
@@ -376,7 +376,7 @@ He thought of Lisska lying flat in the weeds. *I gave it all to you.*
 
 Fisk said it best, at the Eelweir, the next morning.
 
-Calder had gone down to the village before he flew back, with Lisska walking slowly behind him, too tired still to fly far. Fisk was sitting in his door, as he'd sat in it on the night the companies came through, the way he'd sat in it every day since the spring. He'd seen the elk turn from the weir. He'd seen everything.
+Calder had gone down to the village before he flew back, with Lisska walking slowly behind him, too tired still to fly far. Fisk was sitting in his door, as he'd sat in it on the night the companies came through, and every day since the spring. He'd seen the elk turn from the weir. He'd seen everything.
 
 "Somebody's got to," said Fisk. "Tell it after. That's what I'm for." He looked up at Calder. "I'll tell that one. The farmer in his own weeds with his hand on an elk."
 
@@ -400,7 +400,7 @@ Fisk leaned over and looked at it too.
 
 The old one flew on the hundred-and-fourteenth day.
 
-Ivar Leck had taken the splints off on the hundred-and-tenth. The wing was crooked. There was a kink in it at the outer finger-joint, where the bone had ridden over and been pulled apart and set again and knitted, and it would never lie quite straight now when it was folded. But it had knitted. Ivar had put his hands on it for a long time with his head on one side, listening, and then wiped his beard and said, "Well," and gone away.
+Ivar Leck had taken the splints off on the hundred-and-tenth. The wing was crooked. There was a kink in it at the outer finger-joint, where the bone had ridden over and been pulled apart and set again and knitted, and it would never lie quite straight now when it was folded. But it had knitted. Ivar had put his hands on it with his head on one side, listening, and then wiped his beard and said, "Well," and gone away.
 
 She didn't tell anyone she was going to do it.
 
@@ -408,7 +408,7 @@ Calder was in the yard. Back from Harrow's End, on Kharrak, with Lisska flying b
 
 She was walking to the end of the setters' ledge.
 
-Slowly. On four legs. Her head up. The way she'd walked up the long brown slope to Coldtarn for Tor's burning. To the very end of the ledge, where it stopped and the cliff went down two hundred feet to the yard.
+Slowly. On four legs. Her head up. As she'd walked up the long brown slope to Coldtarn for Tor's burning. To the very end of the ledge, where it stopped and the cliff went down two hundred feet to the yard.
 
 She opened the wing.
 

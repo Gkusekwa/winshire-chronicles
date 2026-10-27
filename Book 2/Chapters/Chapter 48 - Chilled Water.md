@@ -57,7 +57,7 @@ Grey plates. Ridged on one face. As big as doors. Cut from things that had been 
 
 "I know."
 
-"It's going to come up," said Tobin, "and they're still unloading."
+"It's coming up," said Tobin, "and they're still unloading."
 
 ---
 
@@ -79,7 +79,7 @@ Then the basin heaved.
 
 It came up through its own glass.
 
-She saw the glass go red first. Round the hole. A red glow, dull, like the bottom of a fire in the morning. Then orange. Then bright. And the glass ran. Not slowly, now, like tar. It ran like water, like wax off a candle, down and away from the hole in a great bright ring.
+She saw the glass go red first. Round the hole. A red glow, dull, like the bottom of a fire in the morning. Then orange. Then bright. And the glass ran. Fast now. It ran like water, like wax off a candle, down and away from the hole in a great bright ring.
 
 And out of the ring, a snout.
 
@@ -215,7 +215,7 @@ She knew a word.
 
 Pell had taught it.
 
-Not to her. In the yard at Greyhold, to the older students, the year she was fourteen. She'd been sweeping. A horse had gone wild in the yard, a big grey, rearing, with a student hanging off its bridle, and Pell had walked up to it. Not fast. Walked. And put his hand flat on its neck and said a word. Low. Into its neck, under the mane, where the big vein ran.
+In the yard at Greyhold, to the older students, the year she was fourteen. She'd been sweeping. A horse had gone wild in the yard, a big grey, rearing, with a student hanging off its bridle, and Pell had walked up to it. Not fast. Walked. And put his hand flat on its neck and said a word. Low. Into its neck, under the mane, where the big vein ran.
 
 The horse had stood still.
 
@@ -277,15 +277,11 @@ Tobin told her afterwards.
 
 In the hut, in the afternoon, sitting on the end of her cot with his arms round his knees. She'd asked him. She'd woken on the bank with him holding her head out of the wet grass and the sun gone over to the west and an hour gone that she couldn't find. She'd asked him what happened. He'd told her.
 
-"He went down off the bank," Tobin said. "Onto the first one. The inner one. Between the first canal and the second. He went down off the outer bank and over the water in one jump, I didn't know he could jump like that, and landed on the bank between and put his head down." He was quiet. "And then the second bank. The next one. It opened. The ground of it. Broke open, right in the middle, and he came up out of it."
+"He went down off the bank," Tobin said. "Onto the first one, the inner one, between the first canal and the second. Off the outer bank and over the water in one jump, didn't know he could jump like that, and down on the bank between with his head down." He was quiet. "Then the second bank. The next one. It opened. The ground of it. Broke open, right in the middle, and he came up out of it."
 
 "Who?"
 
-"Him," said Tobin. "Orrun. Another one. Just like him. Exactly. Standing up out of the earth with the dirt falling off his back. And put his head down." Tobin looked at his hands. "And then the third."
-
-She didn't say anything.
-
-"Three of him," said Tobin. "Three lions. On three banks. All with their heads down and their front feet braced, like they were pushing a cart up a hill. Holding the earth. You could see it. The banks stopped going. Not all the way. Enough." He shook his head. "The crews ran along behind them. To where the bridges are, the pivots. The cordon men threw ropes over and hauled them across. One at a time. All of them."
+"Him," said Tobin. "Orrun. Another one. Just like him. Exactly. Standing up out of the earth with the dirt falling off his back. And put his head down." Tobin looked at his hands. "Then the third. Three of him. Three lions. On three banks. All with their heads down and their front feet braced, like they were pushing a cart up a hill. Holding the earth. You could see it. The banks stopped going. Not all the way. Enough." He shook his head. "The crews ran along behind them. To where the bridges are, the pivots. The cordon men threw ropes over and hauled them across. One at a time. All of them."
 
 "All of them?"
 
@@ -390,5 +386,3 @@ She didn't go at once. She went up over the cordon and round it, in a long slow 
 Then she turned south.
 
 Toward the coast. Toward wherever the farmer was. Fast. Getting smaller.
-
-Maren watched her go until she couldn't see her, and then stood on the tower a while longer, looking south, with her hand on the cold iron rail and her legs shaking under her.

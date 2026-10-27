@@ -30,7 +30,7 @@ Lions. With manes like rocks. Lying down, mostly. With their heads up.
 
 "They've been doing it all week," said Tobin. He was standing in the stable door with a piece of bread. "At night. Nobody says who."
 
-Maren looked at the gold one for a long time.
+Maren looked at the gold one.
 
 "Who taught them what he looks like?"
 
@@ -222,7 +222,7 @@ They talked all night.
 
 Maren didn't hear any of it. There wasn't anything to hear. The old mare stood at ten paces with her broken horn lowered and Orrun lay with his chin on the leaves, and neither of them made a sound, and the other ten stood at the edge of the clearing in the dark, and the stars came out in the hole in the canopy.
 
-But she felt it. Through Orrun. Not the words. What was in them. Something old being handed to him, piece by piece, very carefully, as you'd hand someone a thing you'd carried a long way and were afraid to drop.
+But she felt it through Orrun: what was under the words. Something old being handed to him, piece by piece, very carefully, as you'd hand someone a thing you'd carried a long way and were afraid to drop.
 
 He told her at dawn.
 
@@ -245,8 +245,6 @@ He hadn't moved all night. His chin on the leaves. His eyes open.
 The sun was coming up. Gold, through the oaks. Too bright.
 
 "Nine kings ago. The first Bond-King came into this wood. With smoke. With sweet smoke, in pots, on poles. And men." He was very still. "And took a foal. From her grandmother's grandmother's... from a mare of the herd. Small. A year old. Too small to run fast in the smoke."
-
-Maren didn't say anything.
 
 "They put gold round its neck," said Orrun. "And a hand on its head. And it never came back to the trees. And the people below the walls were told that the king and the unicorn had chosen each other. That it was a bond. The first unicorn bond in all the world." He breathed out, long. "And they believed it. And the king was the Bond-King. And his son. And when it died, the son came into the wood with the smoke again."
 
@@ -314,7 +312,7 @@ She stood in the gold light and thought of a noon oath, in a yard, facing a wall
 
 "Will still be on the stair," said Orrun. "With gold round its neck. With a hand on its head. When its kin wakes and stands up out of the cliff."
 
-He didn't say anything else for a long time.
+He was quiet after that.
 
 She felt him grieve. Kin to kin. For the one taken in the snow. For the foal the old mare had gone into the smoke after. For nine of them. For a thing under a cliff that had slept since before the kings and was about to wake up to this.
 
@@ -328,13 +326,13 @@ Then she turned and went back across the clearing.
 
 The others went with her. One after another. Into the trees. Grey and silver-black. Gone.
 
-Orrun lay where she'd left him and didn't move for a long time.
+Orrun lay where she'd left him and didn't move.
 
 ---
 
 They stayed in the clearing one more night.
 
-She didn't know why. Orrun didn't want to go. He lay with his chin on the leaves where the mare had touched him, and looked at the place in the trees where they'd gone, and she sat against him.
+Orrun didn't want to go. He lay with his chin on the leaves where the mare had touched him, and looked at the place in the trees where they'd gone, and she sat against him.
 
 Lisska was asleep in the oak above them. Along the great grey branch, with her tail hanging down. Waiting. She'd been waiting four days. She'd wait, she said, as long as it took.
 
@@ -353,5 +351,3 @@ She put it back behind the black book.
 "Idony said two weeks. Perhaps less. It's been ten days."
 
 "Yes," said Orrun. "It is filling. I can feel it from here."
-
-She lay down against him and looked up through the hole in the canopy at the stars, too bright, and the dark shape of the small green dragon on the branch, asleep, waiting for an answer she hadn't written.

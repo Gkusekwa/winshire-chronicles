@@ -52,7 +52,7 @@ Wren looked at him. Up and down. At his coat, still stiff with river-water and d
 
 "I said I would," said Calder. "I said I would."
 
-She came and put her arms round his waist and held on, hard, for a long time, without saying anything else.
+She came and put her arms round his waist and held on, hard, and said nothing else.
 
 ---
 

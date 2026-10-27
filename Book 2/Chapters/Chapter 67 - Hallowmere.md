@@ -9,7 +9,7 @@ Beats: The capital is dead ground: no lamps, sour wells, bread riots, licensed w
 Echo of the other's story: A Tide Council herald nailing a contract on Hallowmere's corn exchange: "the Bell", sold.
 Status: first draft
 Draft notes: Days 323–335. Decided here (proposals):
-- Days 323–334 NE up the Sun Road out of Sarovel (drained: the Grace gone; vineyards grey; stage-houses with the gold lions still painted on their gates; the stage-keepers still kneel, the servants' gates still open for her), across the border into Hearthmere's dead south-western downs, then the King's Road to Hallowmere. Orrun's leg mends on the road (walking sound by day 331). Twelve days.
+- Days 323–334 NE up the Sun Road out of Sarovel (drained: the Grace gone; vineyards grey; stage-houses with the gold lions still painted on their gates; the stage-keepers still kneel, the servants' gates still open for her), across the border into Hearthmere's dead south-western downs, then the King's Road to Hallowmere. Orrun's leg mends on the road (walking sound by day 331). Twelve days. **The cost on the road** (witness beat, added 27 Oct 2026): the chosen's beasts loose in the cut-back vineyards (nineteen by the fourth day: hounds, a cat on a stage-house wall, a bond-steed caught by its reins on the vine-stakes); a keeper's wife's hen-house broken by the lords' cats, her hay-fork by the door; unchosen families with handcarts going up to the hill towns; a woman and two children gleaning windfall olives on their knees; a thin tawny cat watching them till Orrun looks at it.
 - **Hallowmere** dead ground (as in ch 46, worse): the black glass lamps on their posts; the wells gone sour (the city's wells were charmed sweet for two hundred years; the charm is only words); bread riots at the corn exchange (the Clan's grain goes to the Marches, not here; the crown's last gold went on a grain ship from Corsa: ch 68 echo); licensed workers begging in the streets with their crown licences pinned to their coats (a lamp-tender's, a keeping-wife's, a bone-setter's).
 - **Reede's paper** on every door and post: printed in black on cheap grey paper off the press he saved from Cotter's Cross (ch 54): THE CROWN'S CRIME: the crown's lamps burned stolen light: a great beast chained under Greyhold for three hundred years by the first knights, its light sold through the lamps; the crown knew and hid it; the noon oath was the chain; *Ask what you kept.* Signed with the ring of six. (Half true: the Restoration has turned Hearthmere's real history into its last recruiting bill.) People read it aloud on corners.
 - **The chapel off the corn exchange**: the old women kneel at the hearthstone (every Hearthmere chapel has one, a flat grey stone set in the floor before the altar where the hearth-fire was once kept) and ask the hearth-mother to keep the fire: *Mother, keep the fire. Keep it small and keep it in.* No lamp in the city lights; they kneel anyway. (Plant: the Grey Mother.) Maren kneels with them once; she doesn't know why.
@@ -34,6 +34,22 @@ She felt it go on the first day out of Solenne. Not the slow thinning she'd felt
 They still knelt when Orrun came through the gate.
 
 She still went in at the servants' gate. It was open for her at every stage now. Grooms waiting at it. Unchosen. Who'd heard.
+
+---
+
+The vineyards had beasts in them.
+
+She saw the first on the second day. A big brindled hound in a studded leather collar, alone between the rows on the slope above the road, nosing at something in the black stumps. It lifted its head at Orrun and ran. By the fourth day she'd seen nineteen. Hounds in twos and threes. A cat on a stage-house wall. A bond-steed standing in a terrace with its reins caught on the vine-stakes, too frightened to pull free, and nobody going up to it.
+
+At a stage-house in the hills the keeper's wife showed her the hen-house. Feathers. The door torn off its leather hinges.
+
+"Cats," she said. "The lords' cats. They come down out of the vines at night." She had a hay-fork by the kitchen door, and she didn't put it away while Orrun was in the yard.
+
+And people. Families with handcarts, going up the road toward the hill towns. Unchosen, most of them, by their brown. Thin. At the foot of an olive terrace a woman and two children went along the rows on their knees in the wet grass, picking windfalls out of it one at a time into a shawl. The olives were black and shrivelled. The woman ate one as she picked, and spat the stone, and went on.
+
+A cat watched them from the wall at the top of the terrace. Tawny. Its silk cloth gone. Thin too.
+
+Orrun looked at it, and it went.
 
 ---
 

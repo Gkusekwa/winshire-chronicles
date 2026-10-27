@@ -146,7 +146,7 @@ The first knights' binders had said them. Three hundred years ago, in the cavern
 
 He sat very still on the tower in the dark.
 
-A working that's still fed can still be spoken to. No first-year knew that. It wasn't in the grammar. It was in the commentaries, in the margins, in an argument two Fifth rings had had in letters two hundred years ago that he'd read once at nineteen for a citation and forgotten. *A fed working answers its words as long as it is fed. Imbued iron is a door that is never quite shut.*
+A working that's still fed can still be spoken to. No first-year knew that. It wasn't in the grammar. It was in the commentaries, in the margins, in an argument two Fifth rings had had in letters two hundred years ago that he'd read once at twenty for a citation and forgotten. *A fed working answers its words as long as it is fed. Imbued iron is a door that is never quite shut.*
 
 So.
 

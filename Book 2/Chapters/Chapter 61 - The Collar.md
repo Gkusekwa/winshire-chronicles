@@ -307,7 +307,7 @@ As Pell had put his mouth to the grey's neck, in the yard at Greyhold, that Mare
 
 He said the unmaking.
 
-The rune, read backward. The closing word, turned. The first page of the grammar's chapter on shaping, that every first-year knew was there and nobody was ever taught to say. He'd read it at nineteen for a citation. He'd read the collar's working in the stables, at the clasp, and turned it in his head, and not said it, and not written it down.
+The rune, read backward. The closing word, turned. The first page of the grammar's chapter on shaping, that every first-year knew was there and nobody was ever taught to say. He'd read it at twenty for a citation. He'd read the collar's working in the stables, at the clasp, and turned it in his head, and not said it, and not written it down.
 
 He said it.
 
@@ -405,7 +405,7 @@ Three more. Off the edge.
 
 Six.
 
-He'd known the word. He'd read it at nineteen. He'd turned it in his head in the stables and not said it. He'd said it today, into a crack in a collar, in a surge, because a thing the size of a hill was being bound through a prisoner's neck into a king's hand, and he could stop it.
+He'd known the word. He'd read it at twenty. He'd turned it in his head in the stables and not said it. He'd said it today, into a crack in a collar, in a surge, because a thing the size of a hill was being bound through a prisoner's neck into a king's hand, and he could stop it.
 
 He had stopped it.
 

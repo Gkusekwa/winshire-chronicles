@@ -10,7 +10,7 @@ Echo of the other's story: Through the marks, the farmer's three dragons going s
 Status: first draft (expanded 27 Oct 2026, about 3,190 prose words; was about 1,670)
 Draft notes: Day 355, mid-afternoon. Decided here (proposals):
 - (The plan says the Titan "breaks Idony's hold": in ch 83 Idony lets go once the cellars are empty and burns out; the Titan then simply goes on. Played here as: the last of the hold going out of the chain-ends as Idony's words die in the iron, and the Titan shaking them off.)
-- **The door opens**: the Titan puts its brow to the clay-soft shut place and pushes, and the old stone goes in like a wall of wet sand; behind it, a passage, then **the vault**: small (the size of Liss's kitchen), round, domed, old grey stone without a mark on it; warm; and the held breath goes out of it past her: a long warm wind out of the vault into the cavern, smelling of nothing, as from a sleeper's mouth: the breath let go after three hundred years and more; every lamp on Greyhold's hill (the few that are left) flares and goes out for good, she'll hear later.
+- **The door opens**: the Titan puts its brow to the clay-soft shut place and pushes, and the old stone goes in with the soft slump of a river bank; behind it, a passage, then **the vault**: small (the size of Liss's kitchen), round, domed, old grey stone without a mark on it; warm; and the held breath goes out of it past her: a long warm wind out of the vault into the cavern, smelling of nothing, as from a sleeper's mouth: the breath let go after three hundred years and more; every lamp on Greyhold's hill (the few that are left) flares and goes out for good, she'll hear later.
 - In the vault's middle, on a plinth like the empty one under the Ring, **the control relic**: a ring of grey old-realm stone, a cartwheel across, warm, with six hollows in its rim, five of them the shape of eggs; the sixth hollow round, empty, as if something round once sat in it (Book 3 open question; don't explain).
 - **Maren at the door**: she stands in the opening with Haverly's edge (dark: the hill's live now, but the sword's letters stay dead: old magic, not hers); the Titan's head the size of a church coming at the opening; she cuts at it once; the blade rings on its brow like a hammer on an anvil and does nothing; the head doesn't notice her; she steps aside or is crushed; she steps aside. She knew she would. She'd chosen it upstairs, a breath before.
 - **Corvin first**: while the head fills the passage, Corvin comes out of the arch along the ledge, with Callis behind him and the roll under his arm, past Idony sitting on the ledge, past Maren, through the opening beside the Titan's jaw (there's room for a man), into the vault, to the plinth; his good hand (the right; his left forearm bitten by the hound, ch 71, still in its sling) on the ring. "Now," he says. To it. Quietly.
@@ -18,7 +18,7 @@ Draft notes: Day 355, mid-afternoon. Decided here (proposals):
 - **The Titan takes it**: its jaws close on the ring, gently (as it held the egg at the Scald); lifts it off the plinth (Corvin's stone hand a lump in its rim); turns its head over its shoulder in the cavern, and lays it into the plates of its back, among the five; the plates close; the stone grows over it. Six.
 - **It speaks to Orrun**: once. Through the rock. Orrun is above, in the hill (the cellars empty now: the last of the seventy up and out on the hill with Joby and his lantern). Maren hears it through him: not words exactly: what Orrun makes of it: *You kept it well, little brother. It is not yours to keep any more.* Orrun doesn't answer.
 - **Echo**: Orrun gives her what he sees on the hill: the farmer's three dragons, on the broken hill-side, Kharrak with a man in his claws, Lisska in the air, the old bronze one lying on the rubble: **going still at once**, all three, in the middle of what they're doing, heads up, toward the river, like hounds hearing a horn. And the farmer standing among them with his hand at his chest where his marks are.
-- **Expansion (27 Oct 2026)**, no new plot: the twelve chain-ends going dark link by link; Maren soaked to the shoulders and shaking in the warm breath (she counts it and loses the count in the water); Orrun's tiredness and the shadow's spear-ache carried in her through the bond; the shut place going in with a bank's slump, not a crack; Pell's "one in a door can hold twenty"; the Titan's head grinding the passage, its smell, her own reflection in its eye; the ring coming off the plinth like a millstone; **the ring going home**: the back-plates parting like a rank, the knock as it seats, the plates locking like shields, the stone growing over it like bank-ice; Orrun flinching in the hill. Orrun's picture of the dragons is pushed on purpose (World: sight only when pushed).
+- **Expansion (27 Oct 2026)**, no new plot: the twelve chain-ends going dark link by link; Maren soaked to the shoulders and shaking in the warm breath (she counts it and loses the count in the water); Orrun's tiredness and the shadow's spear-ache carried in her through the bond; the shut place going in with a bank's slump, not a crack; Pell's "one in a door can hold twenty"; the Titan's head grinding the passage, its smell, her own reflection in its eye; the ring coming off the plinth like a millstone; **the ring going home**: the back-plates parting like a rank, the knock as it seats, the plates closing edge on edge, the stone growing over it like bank-ice; Orrun flinching in the hill. Orrun's picture of the dragons is pushed on purpose (World: sight only when pushed).
 - **The five answer** (expansion): after the picture, the call reaches her through Orrun and he leans into it on the hillside (as Calder's three do, ch 85); she drops Haverly's edge on the ledge; far off, through him, five weights turn, one after another, the last slow and under water; she counts them like beacons on a raid night and says "Five" aloud, as she said "Four" (83); Idony lifts his head; Orrun: *They have opened their eyes. All of them.* She doesn't name them or their quarters: Aurveth does that in ch 85, Idony's glasses in ch 87.
 - End: the Titan turns in the cavern and goes away up it, toward the Ruin end, in the dark, with six in its back. Corvin on his knees on the ledge in the arch with Callis holding him; Idony on the ledge; Maren in the empty vault with her hand on the warm plinth where the ring had been, her wet handprint drying on it; the sword dark on the ledge outside (she has it in hand again when Calder comes down, ch 85).
 Magic touches: old magic opening; the held breath let go; the control relic; old magic taking a man's hand (Magic §10: old magic isn't for people); the relic grown into the Titan's back; the Titan's word through the rock; a live sight pushed through the bond; the call, and the five sleepers answering, felt through Orrun; Calder's dragons stilled.
@@ -28,11 +28,11 @@ notes -->
 
 The last of the hold went out of the iron.
 
-She felt it go through the ledge, up through her wet boots. Twelve chain-ends hung from the Titan's legs, each link as thick as her body, and for as long as Idony's palm had been on one of them they had been still. Now they went slack. His words dying in them, as a fire dies in a grate when nobody feeds it. The white in the runes went yellow, then brown, then dark, one link after the next down the length of every chain.
+She felt it go through the ledge, up through her wet boots. Twelve chain-ends hung from the Titan's legs, each link as thick as her body, and for as long as Idony's palm had been on one of them they had been still. Now they went slack. His words dying in them. The white in the runes went yellow, then brown, then dark, one link after the next down the length of every chain.
 
 The Titan shook its legs.
 
-Once. As a dog shakes water off. The chain-ends swung out over the black water and came back and struck its hide, iron on stone, a sound she felt in her back teeth. Then they hung. Loose. Old iron.
+Once. The chain-ends swung out over the black water and came back and struck its hide, iron on stone, a sound she felt in her back teeth. Then they hung. Loose. Old iron.
 
 It put its brow to the shut place.
 
@@ -56,7 +56,7 @@ She didn't ask him to come down. He didn't offer.
 
 And it pushed.
 
-She'd braced for a blow. It leaned instead. As you lean on a gate that's already open. And the clay that had been old stone, that had held for three hundred years and more, went in under its brow like a bank of wet sand going into the river at the spring flood.
+She'd braced for a blow. It leaned instead. And the clay that had been old stone, that had held for three hundred years and more, went in under its brow.
 
 No crack. The stone had screamed for an hour, and now it made a sound she knew from every spring of her life on the river: a long soft slump, a bank giving, the slap of it going under. The last of the gold rings smeared in it and went out. Grit ran off the edges of the hole and pattered on the ledge round her boots.
 
@@ -74,11 +74,11 @@ All at once. Past her. A wind out of the passage, out of the dark behind it, war
 
 It smelled of nothing.
 
-Like the air on the old stair. Like a sleeper's breath, let go, after holding it.
+Like a sleeper's breath, let go, after holding it.
 
 It was as warm as the Long Barn on a winter night. It went into her wet coat and found the river there, and she began to shake. All over. Her jaw going. The sword's point ticking on the stone by her boot. She set her heels and stood in it and let it go past her.
 
-She counted it. She couldn't help that. A breath was a thing you counted, on a stair, in a fight, by a bed. Ten. Thirty. It didn't end. At fifty the black water was running away from the ledge in long low lines, as if a hand were smoothing it flat. At seventy the lantern flames on the ledge lay down sideways in their glass and stayed down. After that she was only watching the water.
+She counted it. She couldn't help that. A breath was a thing you counted, on a stair, in a fight, by a bed. Ten. Thirty. It didn't end. At fifty the black water was running away from the ledge in long low lines. At seventy the lantern flames on the ledge lay down sideways in their glass and stayed down. After that she was only watching the water.
 
 She felt it go up through the rock behind her. Up the stair. Up through Greyhold. Into the open air. Up in the hill Orrun felt it go past him, and she felt him lift his head to it, as a horse lifts its head to a wind off the river.
 
@@ -100,7 +100,7 @@ And on the plinth, a ring.
 
 ---
 
-Grey stone. Old-realm. A cartwheel across. Lying flat. Warm: she could feel the warmth of it from where she stood, on her wet face, as you feel a forge door through a wall.
+Grey stone. Old-realm. A cartwheel across. Lying flat. Warm: she could feel the warmth of it from where she stood, on her wet face.
 
 Six hollows in its rim.
 
@@ -214,7 +214,7 @@ She came to the passage mouth to watch.
 
 ---
 
-Its back went away from her into the dark like a hillside. Grey plates, each as broad as a barge, lying over one another as roof-slates lie. And among them, five places where the stone was paler and smoother than the rest. One for every temple it had broken open.
+Its back went away from her into the dark like a hillside. Grey plates, each as broad as a barge, lying over one another. And among them, five places where the stone was paler and smoother than the rest. One for every temple it had broken open.
 
 The plates by them moved.
 
@@ -224,11 +224,9 @@ It laid the ring down into it.
 
 Among the five.
 
-The ring went in with a knock. Low. Deep. She felt it more than heard it, through the ledge, through her boots, in her chest, as you feel a ram hit a gate from across the yard before the sound comes. Then a second sound under it, longer, as something seated home.
+The ring went in with a knock. Low. Deep. She felt it more than heard it, through the ledge, through her boots, in her chest. Then a second sound under it, longer, as something seated home.
 
-The plates closed over it.
-
-Like shields locking. One edge onto the next, all down its back.
+The plates closed over it, one edge onto the next, all down its back.
 
 The stone grew.
 
@@ -352,4 +350,4 @@ She left her palm there. The river ran off her sleeve onto the stone, and the st
 
 Outside on the ledge, Corvin was on his knees in the arch's mouth with Callis holding him up by the coat. Idony was sitting on the stone with his grey hands in his lap.
 
-And above her, through the rock, on the broken hill, three dragons stood still with their heads turned toward the river, as if listening for something only they could hear.
+And above her, through the rock, on the broken hill, three dragons stood still with their heads turned toward the river.

@@ -157,7 +157,7 @@ That was the thing. He stood in the white marble stall in front of the silver-gr
 
 Every shaping has its unmaking. It's the first page of the grammar's chapter on shaping. The same rune, read backward, with the closing word turned. Every first-year learns that there is one. It's the last thing anyone is ever taught to say, because nobody ever unmakes anything. The colleges make. They don't unmake.
 
-He'd read the page at nineteen. For a citation. He'd never said the word.
+He'd read the page at twenty. For a citation. He'd never said the word.
 
 He looked at the line of court hand at the clasp, and read it backward in his head, and turned the closing word.
 

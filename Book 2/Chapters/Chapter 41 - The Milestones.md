@@ -68,7 +68,7 @@ Idony had sent the boy up for it. Up to the attic over the ferry-folk's boat-she
 
 Idony unrolled a little of it on his knee by the fire. Calder saw lines. Hundreds of them. Fine black lines in a small hand, curving across a pale ground, crossing, bending, with numbers beside them so small he couldn't have read them if he'd been able to read.
 
-"The College's chart," said Idony. "The great chart of the tides. Every reading the College of Tides has taken for three hundred years, on one map." He let it roll up again. "This is my copy. I've been correcting it since I was nineteen."
+"The College's chart," said Idony. "The great chart of the tides. Every reading the College of Tides has taken for three hundred years, on one map." He let it roll up again. "This is my copy. I've been correcting it since I was twenty."
 
 "What's it a map of?"
 

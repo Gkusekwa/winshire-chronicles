@@ -17,11 +17,12 @@ Draft notes: Days 315–318. Decided here (proposals):
 - **The rockfall**: mid-morning the Horned Sun moves (turns in the bay toward the Gilt's mouth); the sea heaves; the low cliff above the fishing-stair cracks and slides with its mud-brick houses; Orrun goes onto the stair; two shadows stand up out of the cliff-rock beside him (two at once, as at the Scald: second time); three lions braced against the slide holding it off the shingle (Idony's echo, ch 61). Maren kneels on the shingle with both hands in the stones to say Pell's stand-word into the slope below the slide, to help: it fails: nothing in her: everything she has is in the three of them (plan: uncertainty is part of the rule). She doesn't lose the hour this time; she feels herself empty and kneels there.
 - **Idony taken**: through the smoke drifting down off the burning white city, across the harbour, at the palace's harbour stair (the private stair from the palace's west wing down to the deep-water quay under the cliff), a ship: black, two masts (Corvin's own, Sarovel-built, white hull blackened with smoke); men on the quay dragging a man in a brown robe up the plank: grey at the temples, bent, a stick falling into the water. Idony. Maren sees him; can't reach (half the bay between, and three lions holding a cliff, and a crowd); she screams his name; Lisska, overhead on watch since dawn, sees it too and goes, low, over the harbour, and is driven off by crossbows from the ship's deck. The ship goes out past Sorrel Isle on the morning tide toward the open sea, east.
 - **Mother Ysa**: rows the last boat off the shingle when the slide is held: twelve children and two old women; a heave of the bay from the Horned Sun's walking takes the boat on the rocks off Sorrel Isle's landing; the children are pulled out by the island's people on ropes; Mother Ysa isn't. Found the next day on the island's shingle.
+- **The drain's cost** (witness beat, added 27 Oct 2026): as the Grace goes, the beasts that aren't olifants don't stand: a riderless lord's cat (torn silk saddle-cloth) goes over the road's end wall into the cut-back vineyards with a girl in a white-city gown calling after it; two hounds trailing leashes; an empty-saddled bond-steed through a family coming down the rows (a man knocked down, holding his arm). The girl stops at the wall with her hands on the stones.
 - **The heir**: about noon a party of unchosen (palace grooms, kitchen-women, two hands in brown, Old Sebold led by a boy) come down the harbour road through the olifants' wall carrying a boy of nine in a white shirt with blood on it: the Bond-King's son, **Seraphin**, carried out of the burning palace; they put him in a boat for Sorrel Isle. The unchosen of the low quarter's street-tribunes (the elected street-heads of the mud-brick quarter, who settle quarrels and keep the wells) say they'll hold Solenne in the boy's name. Tobin stays with them.
 - **The drain**: afternoon 318: the Horned Sun wades out of the bay at the Gilt's mouth and goes up the Gilt valley north toward the Elderwood and the hills, slowly, with the wild unicorns round it and the small silver-grey one at its knee; and as it goes the Grace goes: every white lamp in Solenne goes out; the blazing gifts stop; the olifants' riders feel their bonds go dull (not broken: dull, the gift gone out of them); the chosen are ordinary people on frightened beasts. The olifants stay standing in the road anyway. Maren feels the ground go from flood to nothing.
 - Orrun: the shadows go back into the cliff; he lies on the shingle by the stair, lame in a foreleg (the toll: lame for days).
 - Echo: at dusk on Sorrel Isle, the boats off, the low quarter's people on the lighthouse rock, Maren takes out the letter she wouldn't read in the Elderwood and reads it: Blackwater; the two; the bronze; *The man who pays them is at Solenne with you. He is selling our young ones to the court. He has a buyer there.* / *Be careful of him. I know you will be. I am writing it anyway.* / *LISS SAYS COME HOME.* She reads it twice.
-Magic touches: the surge then the drain in the Grace; olifants' war-stand; bond-steeds following grooms; two shadows (second time); a stand-word failing because everything is in the shadows; the waking's going draining a kingdom.
+Magic touches: the surge then the drain in the Grace (and what it costs: the chosen's beasts bolting into the vineyards); olifants' war-stand; bond-steeds following grooms; two shadows (second time); a stand-word failing because everything is in the shadows; the waking's going draining a kingdom.
 notes -->
 
 ---
@@ -387,6 +388,18 @@ All over Solenne. All the chosen. Ordinary people, on frightened beasts, on burn
 The olifants stood in the road anyway.
 
 They didn't move till the last of the crowd was through.
+
+---
+
+The other beasts didn't stand.
+
+A lord's cat came out of the smoke behind the olifants' wall with nobody on it. Tawny, the size of a pony, a torn silk saddle-cloth hanging off one flank. It went along the wall's foot with its belly low and its ears flat. A girl in a white-city gown ran after it, calling a name. It didn't turn its head. It went over the low wall at the end of the road in one bound and up into the vineyards on the slope above, between the black cut-back stumps, and was gone.
+
+Others went after it. A pair of hounds with their leashes trailing. A bond-steed with an empty saddle, coal-eyed, screaming, taking the terraces in long uneven leaps, straight through a family coming down between the rows with their bundles. A man went down under it. He got up. He sat in the vines holding his arm against his chest, and his wife stood over him and looked up the hill after the beast.
+
+The girl in the gown stopped at the wall where the cat had gone over. She called the name again, thinner. Then she stood with her hands flat on the stones.
+
+Maren had seen men on the river lose a horse under them in the shallows. They looked like that afterwards. As if the bank had gone.
 
 ---
 

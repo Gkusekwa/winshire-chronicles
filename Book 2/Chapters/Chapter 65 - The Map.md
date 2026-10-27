@@ -15,7 +15,7 @@ Draft notes: Days 319–322. Decided here (proposals):
 - She works it out: the held breath Idony found on his glass under the river hill at Greyhold the morning after the gate (Part One), the dead-still place on his chart under the river hill: it's not a sleeper; it's the ring: the control relic; in a vault **beyond the first chains**: below the cavern where the Last Titan was chained, under Greyhold's hill: Hearthmere's deepest vault. The lock's sentence in the back of the black book (copied day 3; the bird's one word: *together*; "the lock was made for two hands. So was the other thing").
 - **Corvin knows**: the bird said the ring went missing after the lord broke the egg ("Nobody knows where it went"; Idony doubted it). The roll the captain took is the College's contract with that lord, with an appendix; whoever had the chains forged knew where the ring was put. Corvin has had the roll since the autumn and couldn't read it: now he has Idony, who can read it, and who has the chain-words in his head. And the ship went east.
 - The decision: night 321 on the lighthouse rock: not to follow the Titan to the Bell (Calder's coast; he's there with the Clan; she'd be a week behind it on foot anyway); to go home: to Greyhold, to the cavern, to the door under the river: "to keep the door." The one the lion failed to keep three hundred years ago when the binders came with pitch-fire (ch 34). Orrun: "I failed it. With fire on my side." "Then we'll keep it this time." "We will be too late again, perhaps." "Then we'll be too late at the door."
-- She tells Tobin in the low quarter (rowed over day 322): he stays; the street-tribunes; the heir on Sorrel Isle with the fish-wife.
+- She tells Tobin in the low quarter (rowed over day 322). Going up (witness beat, added 27 Oct 2026): the drained quarter hungry and idle under its painted lions, the white city's kitchens burned; the fish-market fountain dry, children scooping the green water in the basin; a groom behind the wine-inn sharing a sack of barley into twenty-two hats and evening the last three; a boy of six on the inn step holding a heel of bread uneaten. Tobin stays; the street-tribunes; the heir on Sorrel Isle with the fish-wife.
 - **Her answer** (for ch 66): she writes on the back of Calder's Blackwater page, in her square hand: *Corvin's men took Idony onto a ship at Solenne. East. He knows the words.* / *The ring is under Greyhold. Below the chains. That is the held breath. Corvin knows.* / *Going home. Keep your coast.* (Plan ch 66 echo: "Going home. Keep your coast.")
 - Echo: Lisska on the lighthouse rail day 322, thin, waiting for the answer to take east; Maren ties it on herself; Lisska goes at dusk 322 (end of flight 5 reaches Calder d.325).
 - Departure: Maren and Orrun leave Solenne on day 323 north-east by the Sun Road (Orrun lame; slow), toward Hallowmere and the river (ch 67: Hallowmere day 335).
@@ -328,7 +328,19 @@ She didn't say it. She didn't have to.
 
 She told Tobin on the three-hundred-and-twenty-second day.
 
-In the low quarter. The nephew rowed her over in the morning. The low quarter was half empty and half full, with the low cliff slid down against the fishing-stair and three grey shapes in the rubble where the lions had stood, pressed into the earth, the shape of them, as if something had lain there. The street-tribunes were in the wine-inn. Tobin was with them.
+In the low quarter. The nephew rowed her over in the morning. The low quarter was half empty and half full, with the low cliff slid down against the fishing-stair and three grey shapes in the rubble where the lions had stood, pressed into the earth, the shape of them, as if something had lain there.
+
+She walked up through it to find him.
+
+People sat in their doorways under the lions painted on the doors, with nothing in their hands. There was nothing to work at. The boats were on Sorrel Isle or broken on the shingle, and the white city's kitchens, where half the quarter had carried water and scrubbed pots, were black shells on the terraces above.
+
+The fountain at the fish-market was dry. It had run every day she'd been in Solenne, a jet out of a bronze fish's mouth, sweet and cold and higher than a man. Now there was a skin of green in the basin, and two children kneeling at the rim, scooping it up in their hands.
+
+Behind the wine-inn a groom was sharing out a sack of barley into hats. A line of women held the hats out. He counted under his breath, and she counted with him. Twenty-two. When he got to the end of the line the sack was flat, and the last three hats had a handful each. He went back along the line and took a little out of the first hats and put it in the last ones. Nobody said anything.
+
+On the inn step a boy of six sat with a heel of bread held in both hands against his chest, uneaten, and watched the line.
+
+The street-tribunes were in the wine-inn. Tobin was with them.
 
 He came out when he saw her.
 

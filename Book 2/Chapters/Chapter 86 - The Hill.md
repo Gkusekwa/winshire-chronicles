@@ -15,7 +15,7 @@ Draft notes: Day 356, dawn to night. Decided here (proposals):
 - **Who doesn't come**: the Tide Council's clerk (Marrow's, with his ledger) and the Quill house's woman in white, at the camp in ch 80, took the first barge down to Wendmouth at dawn to write it up for Corsa; Saltreach's Council sends no one to the table (Arn and Ulric speak for the Clan, not the League). Ulric: "They came to watch. They watched." So the table is a smaller delegation than the camp.
 - **The envoys** come over at noon on Liss's boat and the barge: **Rowan** (torn white surcoat, for Hearthmere's knights: "Not the crown. The crown's council is in Hallowmere. I'm what's left of the knights at the river"); **Arn and Ulric** (for the Clan: they came together, on one boat); **Perrin Sade** (new: the Solenne low city's voice, a street-tribune of the mud-brick quarter, brown, dusty, sent by Tobin with a letter for Maren); **Engineer Garth Tolley** (Pike's deputy, for Kessmoor: he's just had the semaphore from the Iron Road: the Scald's cage broke at mid-afternoon yesterday; the Furnace is out; three engines gone; Pike alive); **Magister Ansel Corrow** (Blue College, Fourth ring, for Isvaren, Dane's man; thin, anxious; a lantern owl came for him in the night: Dane's dead and he's the senior magister in the south). Also the farmer.
 - **The table**: Liss's kitchen table, too small; they sit round it and on the bench and the step; Liss makes tea; the farmer at the far end by the door; Maren at the other end by the fire; Idony on the settle with a blanket and his hands in his lap, Liss's mug held for him by Liss.
-- **Each speaks for what they saw**: Rowan the cage; Tolley the Scald (Pike's message: *Told you. Send me the day.*); Perrin the Sun Stair and the drain in Sarovel and Tobin's low city holding Solenne in the boy's name; Arn and Ulric the coast; Corrow, stiffly, Vael and the colleges' binding; **the echo**: the farmer at the far end, asked by Rowan what he saw, tells them everything he saw from the beginning: the roof and the stars and the three, the Clan, the mint, the young ones, the coast, the reef, the wave, the hill; slowly; the envoys listen; Maren listens from the far end; she's heard most of it in letters and never heard him say it.
+- **Each speaks for what they saw** (as a scene, 27 Oct 2026, each in their own words): Rowan the cage (the eyes out of the rock, Dane on the footplate, "So I did": three on the horn); Tolley the Scald (the league of iron, the hearts by the crate down the Cut; Pike's message on the jetty: *Told you. Send me the day.*); Perrin the Sun Stair as the low city heard it (the windows at noon, the Horned Sun in the bay, the unicorn killing the king on his stair), the drain in Sarovel, and Tobin's low city holding Solenne in the boy's name; Arn the coast (the marked roofs, Vey's wyverns at the sheds, the burning on the shingle), Ulric silent; Corrow, stiffly, Vael and the colleges' binding (a hundred barefoot on the paving, one breath held, the Blue tower); **the echo**: the farmer at the far end, asked by Rowan what he saw, tells them everything he saw from the beginning: the roof and the stars and the three, the Clan, the mint, the young ones, the coast, the reef, the wave, the hill; slowly; the envoys listen; Maren listens from the far end; she's heard most of it in letters and never heard him say it.
 - **Idony speaks**: grey, shaking, on the settle; can't hold a cup; he tells them what his own college, the College of Tides, sold the first knights three hundred years ago (the chain-craft, the hold rune, the oath's form) and what the colleges sold again this year (the cage's runes, Dane's binders, the Bond-King's collar drawings): the Undercroft binding, the gold collar, the second cage; "My college has sold chains to every kingdom that asked, and called it scholarship, and told its students not to ask." Corrow is asked by Rowan: does Isvaren deny it? Corrow: "It's in the College's books." He doesn't deny it.
 - **No single kingdom can stand** *(canon)*: Tolley: five are awake and turned toward here and the sixth has the ring; Kessmoor's cage was the best cage in the world. Rowan: Hearthmere has a dead kingdom and a fallen hill. Perrin: Sarovel's Grace is gone and its king is dead. Corrow: Isvaren's colleges burned out half their magisters at Vael. Arn: the Clan has a hundred and twenty dragons and none of them could stop one of these. Silence. **The first sour unwilling word**: Ulric, who's said nothing: "Then we stand together. Or we drown one at a time." Arn looks at him: "That's my line." "It was your father's," says Ulric. Tolley: "Kessmoor'll want it in writing." Corrow: "The College will want to be asked." Rowan: "Then ask them." Nobody agrees to anything; nobody leaves.
 - **Tobin's letter**, night, by Liss's lamp (the brass one): *Maren. Seraphin is well. We hold the low city. The olifants are still standing in the road, nobody can make them move. Mother Ysa is buried on the island. Come and see the sea when this is over. I said it twice. Tobin.* (Perrin wrote it down for him.)
@@ -185,15 +185,55 @@ Idony on the settle. With a blanket over his knees and his hands in his lap. Lis
 
 Each spoke for what they'd seen.
 
-Rowan first. Because it was her kingdom. The cage. The chains. The eyes tearing out of the rock. The engine going over with Dane on it, his hands on the wheel. Letting go.
+Rowan first. Because it was her kingdom.
 
-Tolley. The Scald. The league of iron, the canals, the hearts. A hundred and seventeen days of holding. Then the semaphore, tower to tower, in the night.
+She put her forearms on the table and talked to the wood between them, as she'd have given a report in the guardroom.
 
-Perrin Sade. The Sun Stair. The Horned Sun in the bay. The Bond-King on his stair. The Grace going out of Sarovel like a lamp going out. The low city holding Solenne in a nine-year-old's name, with a loud boy from the Marches shouting at the wells.
+"We had it under the chains at dawn," she said. "Four engines. Twelve binders on the iron. The engines hauled them in over it and it held." She stopped. "Till the eyes came out of the rock. The first went like thunder. The third took a slab of the inner wall with it, out into the river."
 
-Arn. The coast. Ulric beside him saying nothing.
+Tolley's fist closed on his paper.
 
-Corrow, stiffly. Vael. The colleges' binding. The Blue tower.
+"The fourth took an engine. Across the yard and over the wall." Rowan's eyes went to Corrow. "Magister Dane was on the footplate. Both hands on the wheel. He didn't let go."
+
+Corrow looked at his cuffs.
+
+"So I did," said Rowan. "Three on the horn. We knocked the pins out and let the chains run and got the people off the hill."
+
+---
+
+Tolley next. He gave it as he'd read a gauge, the number first.
+
+"A league of iron round the Scald," he said. "Three canals of cold water. Four engines burning hearts." He didn't look at the paper. "We fed it every day it held. Hearts by the crate, down the Cut. Plate off the herds." He put his fist on the table, paper and all. "And then the towers, last night."
+
+---
+
+Perrin Sade spoke from the step. He didn't turn round. He sat with his back against the cracked frame and his eyes on the river.
+
+"Nobody from the low city was let on the stair," he said. "We heard it. At noon. Every window down the cliff, one after another." He was quiet a moment. "Then the bay stood up. A horn first. Then the rays round its head, like the sun over the shrine door."
+
+Liss stopped pouring.
+
+"The king's own unicorn killed him," said Perrin. "On his stair. And the Grace went out of Sarovel like a lamp. All of it at once. Lords on the harbour road on beasts that didn't know them." He turned his head then, and found Maren by the fire. "The low city holds Solenne now. In the boy's name. He's nine. And your loud one from the Marches is shouting at the wells, and people do what he says."
+
+On the settle, Idony didn't lift his head.
+
+---
+
+"Gullhaven," said Arn.
+
+He turned his mug on the table, a quarter turn, and left it.
+
+"When the wave came we lifted them off the marked roofs. The marks were right. Vey's wyverns took the children off the salt-pan sheds." He looked at the mug. "We burned what it left on the shingle."
+
+Ulric sat beside him with his arms folded and said nothing.
+
+---
+
+Corrow last. Stiffly. To the table, as if it were a paper he'd been sent to read.
+
+"The colleges bound it at Vael," he said. "At noon. A hundred magisters barefoot on the old paving." His hands lay flat on the wood. "They held it one breath. Then it breathed in, and the hill went empty under their feet." He stopped. "It came down on the Blue College's side. The Blue tower fell under its forefoot."
+
+Nobody asked him which of them had been under it.
 
 Then Rowan looked down the table.
 

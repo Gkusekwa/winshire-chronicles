@@ -10,12 +10,12 @@ Carried forward: From Chapter 54: Calder living on Crow Scar, coming down to Upp
 Draft notes: Night one hundred and nineteen to day one hundred and twenty-two. Decided here (proposals):
 - Lisska's eyes: she can see a sparrow on a roof at a league, a face at two. From the crag above Upper Rush the island is two leagues and more off, across the river. She can see the arch, and the lantern in it. She can't see faces from there in the dark, but she can see shapes.
 - Night 119: Calder is at Upper Rush when the river goes out. The noise wakes the whole house. Wren won't go back to bed. He takes her up the crag path to where Lisska sits, wrapped in his coat. Lisska tells him what she sees and Wren makes him say every word aloud, and then say it again.
-- What Lisska sees: the ice going, a man on the reeds (Ottery) who gets off it in time; a lantern in the arch of the tower on the island; the woman sitting in it; the lion lying down in front of her, ten paces, then five, then with its head on the step. "She's put her hand on it. On its mane. On its neck. It's letting her." Wren: "Say it again."
+- What Lisska sees: the ice going, a man on the reeds (Ottery) who gets off it in time; a lantern in the arch of the tower on the island; the woman sitting in it; the lion lying down in front of her, ten paces, then five, then with its head on the step. Wren: "Say it again."
 - Near midnight Lisska also sees, on the forest path from the east, four men with a hooded lantern, coming down toward Upper Rush the way Calder comes every night. They've been watching his path. Kharrak goes and they run. One drops a coil of rope and a sack. Calder knows what the sack is for.
-- Dawn, day 120: Lisska sees the woman kneel with iron in front of the lion, and the lion put its head down, and the collar come off. Wren is asleep against Calder by then and doesn't hear it. Calder tells her at breakfast, every word, and she makes him say it twice.
+- Dawn, day 120: in the grey light Lisska can see the woman's hand in the lion's mane, where it has been since the lantern went out: "She's put her hand on it. On its mane. It's letting her." Then she sees the woman kneel with iron in front of the lion, and the lion put its head down, and the collar come off. Wren is asleep against Calder by then and doesn't hear it. Calder tells her at breakfast, every word, and she makes him say it twice.
 - Calder understands it then, on the crag at dawn with Wren asleep against him: they came down his path. If he weren't there, they'd have no path. He tells Ada that day: when the ferry runs, Wren goes over. Ada says yes. Bel won't decide.
 - Day 121: Old Grey turns his head toward Wren's voice at the paddock gate. Only that. Wren tells everyone.
-- Day 122: Calder goes up to Crow Scar and doesn't come down. He sends Lisska each night to sit on the crag over the house instead. Wren asks Lisska to tell him what the lion-woman is doing. Lisska does.
+- Day 122: Calder goes up to Crow Scar and doesn't come down. He sends Lisska each night to sit on the crag over the house instead. Wren asks him to tell her what the lion-woman is doing. Lisska will watch, and he'll tell Wren when he comes down.
 - Magic (proposal): Ada says her keeping-word over the milk pail in the byre (a Saltreach hearth charm, small and ordinary) before she listens.
 - Revision (proposal): Orrun's multiplication, second glimpse. On night 119 Lisska sees two lions at the arch for a moment, then one, and isn't sure of herself afterward. Calder repeats it; he half thinks it was a stone or a shadow. Wren believes it at once.
 notes -->
@@ -146,7 +146,7 @@ He should have taken her down. He knew it. It was cold, and late, and Bel would 
 
 *She's asleep, I think. Her head's gone down.*
 
-*It's closer. It's moved closer. I didn't see it move. It's five paces off now. Lying across the front of the arch. I can see its breath.*
+*It's closer. It's moved closer. I didn't see it move. It's five paces off now. Lying across the front of the arch.*
 
 Then, sharp: *Calder. There's two.*
 
@@ -238,9 +238,7 @@ He'd moved out of Bel's house so they'd come to the Scar instead. He'd thought t
 
 She'd be safer anywhere he wasn't.
 
-He'd known it since the hillside. Since the eleven men in the snow. He'd known it and told Wren so at the paddock gate, *I want to be somewhere you're not*, and said it like a man saying something he'd decided. He hadn't decided anything. He'd moved two leagues into the forest and kept coming down.
-
-He sat with her on the crag in the cold and knew it all the way through, for the first time, the way you know a bone's broken. Not a league. Not the Scar. Further. A river's width. More. Wherever he was, the men with the sacks would come. So she had to be somewhere he couldn't be.
+He sat with her on the crag in the cold and knew it all the way through, for the first time. Not a league. Not the Scar. Further. A river's width. More. Wherever he was, the men with the sacks would come. So she had to be somewhere he couldn't be.
 
 Over the water.
 
@@ -376,13 +374,13 @@ He said goodbye to her at the paddock gate at dusk. He didn't say it was goodbye
 
 "Every night."
 
-"And she'll tell me about the lion-woman?"
+"And you'll tell me about the lion-woman?"
 
-He looked up at the crag. *Will you?*
+He looked up at the crag. *Will you watch her?*
 
-*Yes,* said Lisska. *Every night. Everything I see.* A pause. *She'll make me say it twice.*
+*Yes,* said Lisska. *Every night. Everything I see.* A pause. *She'll make you say it twice.*
 
-"Yes," he said to Wren. "Everything. Twice."
+"Yes," he said to Wren. "When I come down. Everything. Twice."
 
 Wren nodded. She was standing on the bottom bar of the gate with Old Grey's head over it beside her. She didn't cry. She hadn't cried at Joss's burying either, Bel said. She'd stood on the hill with her mouth shut tight, the way she was standing now.
 

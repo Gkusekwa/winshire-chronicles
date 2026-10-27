@@ -41,11 +41,7 @@ The second thing he noticed was that some of the men round the east fire weren't
 
 It wasn't anything you could point to, at first. They wore grey armbands like everyone else. They stood like everyone else. But there was something about them, about the way they stood, that made him look twice. He'd seen it before. At the Ram's Head, at the long table under the window. At the hiring yard in Cotter's Cross. Men who'd been fed by too many different hands.
 
-"Hired hands," said the steward sourly, when Calder asked, counting sacks. "Ulric's taking them on. Says the hold needs more men for the winter. Says the old chief let the walls go, and he's mending them." He wrote down a number. "Twenty-two since the funeral. Twenty-two. Eating like wolves. Damp barley. You'll want a token."
-
-"The barley's not damp."
-
-"Everyone's barley is damp," said the steward. "It's the Scarfell. Everything is damp. Token."
+"Hired hands," said the steward sourly, when Calder asked, counting sacks. "Ulric's taking them on. Says the hold needs more men for the winter. Says the old chief let the walls go, and he's mending them." He wrote down a number. "Twenty-two since the funeral. Twenty-two. Eating like wolves."
 
 ---
 
@@ -55,7 +51,7 @@ There were three or four of the hired men in there, seeing to Ulric's horses, an
 
 The man looked up and nodded, pleasant, and went back to the halter.
 
-Calder rubbed Sorrel down. It took a while; she'd come up the Way sweating at the noise of the Roosts, the way she had the first time, and he talked to her the whole while, low, about nothing. And while he talked he watched the man on the bucket, without meaning to, the way you watch something that's slightly wrong in a picture until you work out what it is.
+Calder rubbed Sorrel down. It took a while; she'd come up the Way sweating at the noise of the Roosts, the way she had the first time, and he talked to her the whole while, low, about nothing. And while he talked he watched the man on the bucket, without meaning to, as you watch something that's slightly wrong in a picture until you work out what it is.
 
 It was the hands.
 
@@ -89,7 +85,7 @@ Then it was gone, and he was smiling again.
 
 Teo found him in the yard.
 
-"Fenn! The bee man! Twice in a month!" Teo looked worse than he had at Coldtarn: thinner, if that was possible, with dark rings under his eyes. But the smile was the same. "Did you see Lisska? She's been on the cliff all morning, sulking. Imra says she's waiting for somebody."
+"Fenn! Twice in a month!" Teo looked worse than he had at Coldtarn: thinner, if that was possible, with dark rings under his eyes. But the smile was the same. "Did you see Lisska? She's been on the cliff all morning, sulking. Imra says she's waiting for somebody."
 
 "Wren says hello."
 
@@ -101,13 +97,13 @@ Teo laughed, delighted. "Then you'll have to come up and tell her. Imra'll never
 
 ---
 
-They went up the cliff path in the wind, with the iron rail cold under Calder's hand and the Roosts going past on the left, hot and loud and smelling of stone and iron and burnt hair. On the ledge a third of the way up the three warriors were sitting where they'd sat before, as if they hadn't moved in a month, with the brazier between them and the three dragons in the cave behind.
+They went up the cliff path in the wind. On the ledge the three warriors were sitting where they'd sat before, as if they hadn't moved in a month, with the brazier between them and the three dragons in the cave behind.
 
 Sigrun nodded to him. Dag Rorke looked up from his axe and said, "Farmer. Late," and went back to it. Imra jumped up.
 
 "He came! I told you he'd come! Lisska, look…"
 
-But Lisska had already seen. She came out of the back of the cave in one long, quick, dark-green pour, past Imra, past the brazier, and stopped with her long narrow head a hand's width from Calder's face, and looked at him with her pale green eyes, everywhere at once, the way she had before.
+But Lisska had already seen. She came out of the back of the cave in one long, quick, dark-green pour, past Imra, past the brazier, and stopped with her long narrow head close to Calder's face, and looked at him with her pale green eyes.
 
 "Wren says hello," said Calder to the dragon. He felt like a fool. "She made me promise."
 
@@ -144,8 +140,6 @@ He looked at Sigrun. Sigrun looked back at him and didn't say anything at all.
 *You'll stand there and not say anything,* Sigrun had said, *and everyone will believe whatever you saw.*
 
 Calder looked at the hollow below, at the two fires, east and west, and the wide dark space between them. He looked at Teo's tired, lit-up face.
-
-He thought: it's not my business. It's never my business.
 
 He thought: he walked out onto the stone at Coldtarn with his hands empty.
 
@@ -214,5 +208,3 @@ Calder went home.
 He didn't take the chain out from under the flag that night, or the next, or the next. He went past the corner of the byre every morning and every evening, milking Bramble, and every time he went past it he knew exactly where it was, the way you know where a sore tooth is.
 
 On the third night he dreamed of a man on a bucket by a stable door, mending a halter that never got mended, and the halter was a chain, and the man looked up at him with a face he couldn't remember and said, pleasant, *you'd laugh to see me with sheep.*
-
-He woke before dawn and lay in the dark listening to Wren breathing in the loft above him, slow and even, and the river going by below the fields, and didn't go back to sleep.

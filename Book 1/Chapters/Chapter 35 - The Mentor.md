@@ -62,7 +62,7 @@ Hale was on the bench at the foot of the Lesson Wall the next day at noon, alone
 
 "Yes, Warden."
 
-He looked at her then. She'd never seen him look like that. Not frightened. Something older. A man who's waited a long time for a knock at the door and has just heard it.
+He looked at her then. She'd never seen him look like that. Something older than fright. A man who's waited a long time for a knock at the door and has just heard it.
 
 "I've had a report," he said. "The inner circle has. From over the river." He was looking at the empty yard, not at her. "Vey's company, the Tide Council's sellswords, went into the Fellwood nine days ago after the dragon farmer. They had him boxed up a crag in a cave with his three. And they lost him. In the rain, six nights ago, out of a cave with one way out, past a hundred and twenty men." He turned the stick in his hands. "Our scouts on the far bank saw three dragons that same night, high, going south. Toward the coast."
 
@@ -182,13 +182,13 @@ She looked back once from the door. He was sitting as she'd left him, with the b
 
 She went to the island that night.
 
-She hadn't meant to. She'd done her muck, thirty-one stalls by lantern light, and been to supper, and sat on her cot in the dormitory with the shutters closed and the others asleep. And she'd thought about a black door with no handle, and a line at the top of a page. *From the closing.* A square with a line through it.
+She hadn't meant to. She'd done her muck, thirty-one stalls by lantern light, and been to supper at the ferry house, and sat on her cot in the dormitory with the shutters closed and the others asleep. And she'd thought about a black door with no handle, and a line at the top of a page. *From the closing.* A square with a line through it.
 
 She'd got up, and put her coat on, and gone out the postern and up the River Road to Redwatch.
 
 Ottery was there with the punt. She hadn't sent for him. He was just there, at the bottom of the steps, in the stern in the dark with his pipe.
 
-"Your mother said you'd come," he said. "She said you had a face on you at supper." He handed her the pole. "She says to tell her when you're back."
+"Your mother sent word up with the flour boat," he said. "She said you had a face on you." He handed her the pole. "She says to tell her when you're back."
 
 She poled them across. Half a league of black water, in the dark. Her ribs had mended enough. She didn't light a lamp; she knew the river now, every bend and every snag, as she knew the stalls in the Long Barn. At the island Ottery took the punt into the reeds at the mouth of the west channel and sat there with the boathook across his knees, and she went up the stream.
 
@@ -204,13 +204,9 @@ The lion came down at the hour, out of the trees on the far side, and stopped at
 
 It saw where she was. Its head came up a little. It looked at the place on the bank where she always sat, twenty paces off, and at the place where she was now, closer to the water, closer to it.
 
-Its lip went back.
-
 She didn't move. She'd decided that on the river too. She sat with her hands open on her knees and looked at the water, and felt her whole body go cold as it always did, and didn't move.
 
-The lip stayed back longer than it had in weeks. She could hear it breathing across the stream. She could feel the ground under her, very faint, tremble.
-
-Then the lip came down.
+She could hear it breathing across the stream. She could feel the ground under her, very faint, tremble.
 
 It didn't drink. It looked at her empty hands. At her pockets. At the place by the water where her fire usually was, and the flat grey stone where she'd laid the iron, and the cold grass where it had lain down last time.
 

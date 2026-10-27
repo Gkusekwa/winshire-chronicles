@@ -9,12 +9,12 @@ Status: first draft
 Carried forward: From Chapter 63: cast out at the river gate on the morning of day 136; her chest (the hammer and chisel, the collar in two halves, the scale, her father's brown cloak); the lion swam the east channel and went into the Fellwood; the Restoration is three or four days from the Old Ruin. From Chapter 64 (Calder's side): Liss carried Ada, Wren, Bel and her children and the three greys on day 137; Wren's account of the dragons; Calder's two messages: "A girl called Wren says hello" and "the old one says it's the cat from the bridge"; Lisska went low over the river with the blue ribbon on her horn. From Chapter 57: Tam on the hedge-wain with the torch; Odo Marl. From Chapter 3: the ferry house with the red door, where Maren was born.
 Draft notes: Days one hundred and thirty-six to one hundred and thirty-nine. Decided here (proposals):
 - Night 136: the ferry house. Liss doesn't ask. Maren sits on the floor by the fire all night with the scale in her lap.
-- Day 137: Liss makes four crossings for the Fenns and their greys (the people, then one beast at a time) and is done after noon. That evening she tells Maren about the refugees she's carried since the autumn, and the girl called Wren, and Wren's story, twice: her father talks to dragons out loud and they answer. Then the green dragon, low, with a blue ribbon on its horn. Then the two messages. Maren holds the scale. She knows now whose it is. "The cat from the bridge" means nothing to either of them.
+- Day 137: Liss makes four crossings for the Fenns and their greys (the people, then one beast at a time) and is done after noon. That evening she tells Maren about the refugees she's carried since the autumn, and the girl called Wren, and Wren's story: her father talks to dragons out loud and they answer. Then the green dragon, low, with a blue ribbon on its horn. Then the two messages. Maren holds the scale. She knows now whose it is. "The cat from the bridge" means nothing to either of them.
 - Ada and Wren and Bel's family go on to the refugee camp at Millbrook, below the town. Maren doesn't go to see them. She thinks about it.
 - Day 138: Millbrook, looking for Tam. The town is tight as a drum. Odo's forge still chained. She finds Tam in the Kettle's yard, splitting kindling where Davin used to. She puts the collar on the block in front of him, inside up, with Odo's hammers showing. Tam knows the mark. Odo told him the collars were for the camps, for beasts "brought in to be cared for". Tam goes white. He won't come home. He tells her, not meaning to, that when the Ram's Head army crosses to the island, Millbrook will rise, and the barns will open, and the knights will be caught between. Vale has promised that no Millbrook house will burn.
 - Night 138: Liss's skiff, upriver alone in the dark, past Greyhold's lights and Redwatch's, to the island. The lion has come back to the old place. It's at the pit. She sits with it, against its shoulder, all of day 139.
 - She tells it about Wren. Out loud, twice, though it can't understand. A girl on the far bank whose father talks to dragons.
-- Dusk, day 139: from the island's east shore, across the channel, she sees fires at Harrow's End and carts coming down the hill behind it, and boats being run down to the water at the Eelweir. They'll come in the morning. Before first light on day 140 she takes the skiff back across the west channel and the lion swims after her, and they go west over the fields toward the Brackenwood.
+- Dusk, day 139: from the island's east shore, across the channel, she sees fires at Harrow's End (more than the few she saw from the skiff the night before) and carts coming down the hill behind it, and boats being run down to the water at the Eelweir. They'll come in the morning. Before first light on day 140 she takes the skiff back across the west channel and the lion swims after her, and they go west over the fields toward the Brackenwood.
 - Magic (proposal): in Millbrook, the licensed keeping-wife's painted board (KEEPING OF MILK AND GRAIN, BY LICENCE) still hangs over her shut door, with sour milk smelling under it.
 notes -->
 
@@ -64,7 +64,7 @@ Maren didn't move.
 
 The fire ticked.
 
-"A green one, she said, the smallest, that could see a sparrow on a roof a league off. And a red one that's cross all the time but isn't really. And a big old one with one eye, three hundred years old." Liss picked up her mending and didn't do anything with it. "And she said her father talks to them. Out loud. And they answer him, in his head. And he tells her what they say. And she makes him say it twice. So she doesn't forget."
+"All three of them. Their names and their colours and their tempers, and how old the big one is." Liss picked up her mending and didn't do anything with it. "And that her father talks to them, and they answer, and she makes him say it twice."
 
 Maren held the scale in her lap.
 
@@ -160,7 +160,7 @@ He looked at her. At her shirt, with nothing over it.
 
 "I know."
 
-"The whole town heard. Before noon yesterday." He put the axe down. "They said you hit Callis. With a sword."
+"The whole town heard. Before noon, the day they threw you out." He put the axe down. "They said you hit Callis. With a sword."
 
 "With Tobin's sword. It's blunt." She came across the yard. "I broke his arm."
 
@@ -262,7 +262,7 @@ It let her.
 
 She stayed there all day.
 
-She told it about Wren. Out loud, though it couldn't understand. She'd stopped minding that. She sat with her back against its shoulder in the thin spring sun with the scale in her lap, and told it, the way Liss had told her. A girl, nine or ten, thin, with a lot of hair. Who wouldn't get in the boat. Who stood on the jetty and told the ferrywoman her father had three dragons. A green one, the smallest, who could see a sparrow on a roof a league off. A red one who was cross all the time but wasn't really. A big old one with one eye, three hundred years old.
+She told it about Wren, out loud. She sat with her back against its shoulder in the thin spring sun with the scale in her lap, and told it, as Liss had told her. A girl, nine or ten, thin, with a lot of hair. Who wouldn't get in the boat. Who stood on the jetty and told the ferrywoman her father had three dragons. A green one, the smallest, who could see a sparrow on a roof a league off. A red one who was cross all the time but wasn't really. A big old one with one eye, three hundred years old.
 
 "And her father talks to them," she said. "Out loud. And they answer him. And he tells her what they say." She put her hand flat on the lion's shoulder. "And she makes him say it twice. So she doesn't forget."
 
@@ -272,7 +272,7 @@ The lion breathed against her back. Slow. Enormous.
 
 She did.
 
-It couldn't understand. There was no thread between them, no voice, nothing for words to go down. She said it all again anyway, the whole of it, from the jetty to the ribbon, sitting against its shoulder in the bottom of the old world, with the hum coming up through her back.
+She said it all again, the whole of it, from the jetty to the ribbon, sitting against its shoulder in the bottom of the old world, with the hum coming up through her back.
 
 "A girl called Wren says hello," she said at the end. "That was for me. But I'll give you half."
 
@@ -290,7 +290,7 @@ At dusk on the hundred-and-thirty-ninth day she went to the east shore and looke
 
 There were fires at Harrow's End.
 
-Not burning. Campfires. Dozens of them, then more, coming out one after another in the dusk all over the hill behind the village. Along the Drover's Way where it came down off the high ground. In the empty lanes. In the black ruin of the mill. And on the road down the hill, in the last of the light, carts. A long line of them, coming down with their lanterns swinging. Carts with long low shapes on them, under canvas.
+Campfires. More than last night, when she'd seen the first few from the skiff, low on the hill. Dozens now, then more, coming out one after another in the dusk all over the hill behind the village. Along the Drover's Way where it came down off the high ground. In the empty lanes. In the black ruin of the mill. And on the road down the hill, in the last of the light, carts. A long line of them, coming down with their lanterns swinging. Carts with long low shapes on them, under canvas.
 
 Boats.
 

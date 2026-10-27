@@ -24,13 +24,13 @@ notes -->
 
 They put the second-years on the River Road three days after Holloway burned.
 
-Not as knights. As horse-holders. Runners. Lantern-carriers. Somebody to stand at the back of the patrol with the spare mounts and gallop for help if it went wrong. Greyhold had doubled the patrols on the Hearthmere bank, every tower from Millbrook to Northwatch, and there weren't enough passed knights to ride them all. So the instructors took who they could get. Pell took Maren.
+As horse-holders, not knights. Runners. Lantern-carriers. Somebody to stand at the back of the patrol with the spare mounts and gallop for help if it went wrong. Greyhold had doubled the patrols on the Hearthmere bank, every tower from Millbrook to Northwatch, and there weren't enough passed knights to ride them all. So the instructors took who they could get. Pell took Maren.
 
 "You can ride," he said, in the yard, at dawn, while Grieve stood by the Long Barn with his arms folded and looked disgusted. "And your ribs are good enough. And I want you where I can see you." He looked at her. "Not on that island."
 
 She didn't argue.
 
-There were eight of them. Pell, at the front, on his old bay. Two passed knights from the gate, Callis and Wynn, both bonded, both with hounds trotting at their stirrups. Haverly, in his new grey cloak, with Kesh hooded on his fist. Ide Darrow, the quiet one from Maren's own year, with Bracken loping beside her pony, brindled and silent. Tobin, unbonded and sour, on a cob. Maren on Turnip, at the back, with the spare horses on a string and the dried turnip still knocking on Turnip's bridle where someone had tied it years ago and nobody had ever taken it off.
+There were seven of them. Pell, at the front, on his old bay. Two passed knights from the gate, Callis and Wynn, both bonded, both with hounds trotting at their stirrups. Haverly, in his new grey cloak, with Kesh hooded on his fist. Ide Darrow, the quiet one from Maren's own year, with Bracken loping beside her pony, brindled and silent. Tobin, unbonded and sour, on a cob. Maren on Turnip, at the back, with the spare horses on a string and the dried turnip still knocking on Turnip's bridle where someone had tied it years ago and nobody had ever taken it off.
 
 They rode the River Road north from Greyhold in the grey of the morning, past the landing, past the ferry-house where her mother was at the guide rope and lifted one hand and didn't wave, past the stretch of bank where the island lay out in the river with its broken arches and its stump of a tower. She looked at it as they went by. She couldn't help it. Somewhere on the west shore, under the trees, at the end of a stream, something was lying in the long grass with a collar on its neck.
 
@@ -55,8 +55,6 @@ It was a little place. A dozen houses of grey stone with slate roofs, round a gr
 They had beasts in Ferriby. That was why it was on Pell's list. Old Hamm, who farmed the land along the creek, had an ox-beast, bonded, as old as he was, that he still ploughed with. The smith had a hound. And in a paddock behind the chapel, the crown kept a breeding pair of greyharts: a buck and a doe, white, nine feet at the shoulder, for the war-stables at Hallowmere. They'd been there since Maren was a child. The whole river knew about them.
 
 They got there at dusk. The light was going grey and blue over the fields, and the smoke from the chimneys was going straight up in the still cold air, and somewhere a woman was calling children in. An old man with a staff was going round the green, stopping at each of the three lamp-posts to say the dusk-word, and the lamps came up white behind him one after another. The crown's licensed tender. Ferriby was proud of having one. Pell rode into the green and stopped by the pump, and the smith came out of his forge, wiping his hands, and said *nothing, Instructor, not yet, thank the gods,* and Pell nodded and turned his bay to go.
-
-Callis had gone off along the bank to water his hound an hour before dusk, and come back when the lamps were lit.
 
 Bracken lifted his head.
 
@@ -148,9 +146,9 @@ She sat on Turnip and stared at him, and he stood on the ridge of the smithy roo
 
 It was over in a quarter of an hour.
 
-She'd never have believed it. She'd have said, if anyone had asked her, that a raid on a hamlet with eight of Greyhold's people in it would take half the night. It took a quarter of an hour. The man on the roof lifted his hand one last time, all five fingers spread, and the boy blew a long falling note like a curlew. And all over Ferriby the raiders let go of whatever they were fighting and went.
+She'd never have believed it. She'd have said, if anyone had asked her, that a raid on a hamlet with seven of Greyhold's people in it would take half the night. It took a quarter of an hour. The man on the roof lifted his hand one last time, all five fingers spread, and the boy blew a long falling note like a curlew. And all over Ferriby the raiders let go of whatever they were fighting and went.
 
-Down the lane. Down the creek. To the landing. Walking fast, not running, the way men walk away from a job that's done. And the patrol, which had been pulled about all over the hamlet for a quarter of an hour, chasing pieces, came back together in the green in ones and twos, bloodied and breathing hard, and found that there was nobody left to fight.
+Down the lane. Down the creek. To the landing. Walking fast, not running, like men walking away from a job that's done. And the patrol, which had been pulled about all over the hamlet for a quarter of an hour, chasing pieces, came back together in the green in ones and twos, bloodied and breathing hard, and found that there was nobody left to fight.
 
 Nothing left to fight for, either. The greyharts were gone. Old Hamm's ox-beast was gone, out of its byre, with old Hamm sitting in the doorway in the straw with his face in his hands, alive. The smith's hound was gone. The barn behind Hamm's farm was burning. Nothing else. No houses. Not one.
 

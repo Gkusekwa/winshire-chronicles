@@ -3,7 +3,7 @@
 <!-- notes
 POV: Maren
 Part: Part Two: Harvest of Knives
-Beats: Maren's second day on the island. Tracks bigger than anything she knows. The hunters' camp, empty. Clan war smoke across the water. She sleeps in the tower and counts something enormous breathing in the dark.
+Beats: Maren's fifth day on the island, the day after the ford. Tracks bigger than anything she knows. The hunters' camp, empty. Clan war smoke across the water. She sleeps in the tower and counts something enormous breathing in the dark.
 Echo of the other's story: War horns from the Saltreach bank all night.
 Status: first draft
 Draft notes: Renumbered in the timeline: this is day 5, Maren's fifth day on the island, the day after the smoke at the ford (day 4; Chapter 13 covered days 0 to 4). The plan's "second day" is superseded. Night 5 is the first night she hears the breathing. Decided here (proposals):
@@ -63,7 +63,7 @@ The birds went quiet after two hundred paces.
 
 She kept going.
 
-There were older tracks, now, mixed with the new. Some in mud that had dried hard in the summer and never softened again, so that they stood there like casts, with leaves blown into them. Some so old they'd half filled with moss. There was a path. Not a made path; a worn one, like a deer path but wide, wide enough for a cart, beaten into the earth by something that had walked it, back and forth, for longer than the moss had been growing in its prints. It went north. Toward the end of the island where the trees grew thickest and the quiet was deepest and she had never been.
+There were older tracks, now, mixed with the new. Some in mud that had dried hard in the summer and never softened again, so that they stood there like casts, with leaves blown into them. Some so old they'd half filled with moss. There was a path, worn rather than made, like a deer path but wide, wide enough for a cart, beaten into the earth by something that had walked it, back and forth, for longer than the moss had been growing in its prints. It went north. Toward the end of the island where the trees grew thickest and the quiet was deepest and she had never been.
 
 At the edge of the thick trees she stopped.
 
@@ -71,13 +71,13 @@ She could see, a little way ahead, where the path went in under the oaks: a dark
 
 She stood at the edge of it with the sword in her hand, and every part of her that had been trained on the river watch and in Greyhold's yard said, very quietly and very clearly: *no.*
 
-The quiet in there wasn't empty. It was the quiet of something listening.
+The quiet in there was the quiet of something listening.
 
 *If you hear it breathing, you lie still, and you count, and you don't go looking.*
 
 She hadn't heard it breathing. Not yet.
 
-She went back the way she'd come, notch by notch, walking backwards for the first fifty paces with the sword up, and the birds came back one by one, and she didn't stop shaking until she was back at the stream and the river, and the sun was on the water, and a heron was standing in the shallows on one leg looking at her with deep contempt.
+She went back the way she'd come, notch by notch, walking backwards for the first fifty paces with the sword up, and she didn't stop shaking until she was back at the stream and the river, and the sun was on the water, and a heron was standing in the shallows on one leg looking at her with deep contempt.
 
 ---
 
@@ -123,7 +123,7 @@ She sat in the tower in the dark with her blanket round her and listened to it, 
 
 She heard it breathing a little after midnight.
 
-She'd been dozing. Not sleeping, exactly; dozing as you do on watch, with half of you under and half of you sitting up behind your eyes, listening. The half that was listening heard it, and woke the other half, gently, the way you wake someone in a boat when there's something on the water.
+She'd been dozing. Not sleeping, exactly; dozing as you do on watch, with half of you under and half of you sitting up behind your eyes, listening. The half that was listening heard it, and woke the other half, gently, as you wake someone in a boat when there's something on the water.
 
 It came from the north. From the north end of the island, from the green dark under the oaks where the path went in.
 
@@ -143,7 +143,7 @@ Eleven breaths in a quarter of an hour. A horse breathed that many times in a mi
 
 She lay in the tower with her back against the wall and her hand on Pell's sword and listened to it, and counted, all night.
 
-Some time after the horns started again across the river, very late, toward dawn, the count changed. Eleven became thirteen. Thirteen became fifteen. As if, somewhere at the bottom of that enormous sleep, something had heard the dragons screaming in the hills, and the horns, and was turning over, slowly, the way a sleeper does when there's a noise in the house that might be nothing.
+Some time after the horns started again across the river, very late, toward dawn, the count changed. Eleven became thirteen. Thirteen became fifteen. As if, somewhere at the bottom of that enormous sleep, something had heard the dragons screaming in the hills, and the horns, and was turning over, slowly, as a sleeper does when there's a noise in the house that might be nothing.
 
 Then the horns stopped. After a while the breathing slowed again, and settled, and went back to eleven.
 

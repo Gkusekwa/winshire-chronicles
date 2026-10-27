@@ -51,7 +51,7 @@ She'd known it would. Hale had told her. *Stairs, going down. And then the stair
 
 Orrun stepped off the last step onto it and the walls went away.
 
-Dark. Enormous. The lantern light went out from them into nothing and didn't come back. At the edge of the ledge, close enough to touch, going down past them into the dark from somewhere high above: chain. One link of it taller than Orrun's shoulder. Black. Rust gone hard on it like bark.
+Dark. Enormous. The lantern light went out from them into nothing and didn't come back. At the edge of the ledge, close enough to touch, going down past them into the dark from somewhere high above: chain. One link of it taller than a man, as high as Orrun's chest. Black. Rust gone hard on it like bark.
 
 Beside it another, and another. She counted. Six.
 
@@ -119,7 +119,7 @@ She didn't know why. Orrun could have had him. She felt Orrun want to. She felt 
 
 *Mine,* she thought at him. Not in words. *This one's mine.*
 
-Callis came at her across the carved stone. His face was white and wild. He'd lost his helm somewhere. He was shouting a word as he came, past her, at Orrun: the stand-word, the one the old knights said to a frightened horse. She felt it come at them and go by, like a thrown stone past a boat, and saw his face when it did. He swung at her with his left hand, clumsily, and she did what Pell had taught her a thousand times in the yard at Greyhold against the straw men and against Haverly and against Callis himself, two years ago, on her first day, when he'd put her on her back on the cobbles and laughed.
+Callis came at her across the carved stone. His face was white and wild. He'd lost his helm somewhere. He was shouting a word as he came, past her, at Orrun: the stand-word, the one the old knights said to a frightened horse. She felt it come at them and go by, like a thrown stone past a boat, and saw his face when it did. He swung at her with his left hand, clumsily, and she did what Pell had taught her in the yard at Greyhold against the straw men and against Haverly and against Callis himself, two years ago, on her first day, when he'd put her on her back on the cobbles and laughed.
 
 Close. Take the weapon arm.
 
@@ -249,7 +249,7 @@ She felt it. Through Orrun. Through the rock under the river. Far off, east, und
 
 *Gone.*
 
-Below the ledge, outside the passage, in the dark, the six chains made a sound she'd never heard iron make. Not a groan. A note. High, and rising, and rising, the way a rope sings just before it parts.
+Below the ledge, outside the passage, in the dark, the six chains made a sound she'd never heard iron make. Not a groan. A note. High, and rising, and rising, like a rope just before it parts.
 
 ---
 
@@ -291,7 +291,7 @@ It had been a sleeper.
 
 It wasn't now.
 
-There was nothing in it now but the chains, and the hate of the chains, and under the hate, so huge she couldn't see the edges of it, a want. Not a thought. A want. Like hunger. Like the river going to the sea.
+There was nothing in it now but the chains, and the hate of the chains, and under the hate, so huge she couldn't see the edges of it, a want. Like hunger. Like the river going to the sea.
 
 Far off.
 
@@ -343,7 +343,7 @@ Green, filthy, with her wings folded tight and scraped raw from the stair and th
 
 She put her head against his.
 
-Maren felt it go between them. Kin to kin. A small bright warmth going into the great grey grief, the way you'd hold a candle up in a cellar.
+Maren felt it go between them. Kin to kin. A small bright warmth going into the great grey grief, like a candle held up in a cellar.
 
 Then Lisska lifted her head and looked east.
 

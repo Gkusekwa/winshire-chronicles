@@ -22,13 +22,13 @@ notes -->
 
 On the morning of the tenth day Lisska came to the window.
 
-He was in the kitchen. They'd carried him in at last the evening before, after the fires had burned down, when the three of them had finally let him go; or not let him go, but understood, somehow, through the marks, that he'd be in the house, near, and would come back. The feeling had gone through them all like a long breath. *Near. Not gone. Near.* They'd let Ada and Wat Garrow take him in, and lay him on the settle by the fire with his ribs bound and his leg up on a stool, and he'd slept for the first time since the battle, and dreamed of nothing at all.
+He was in the kitchen. They'd carried him in at last near dawn, after the fires had burned down, when the three of them had finally let him go; or not let him go, but understood, somehow, through the marks, that he'd be in the house, near, and would come back. The feeling had gone through them all like a long breath. *Near. Not gone. Near.* They'd let Ada and Wat Garrow take him in, and lay him on the settle by the fire with his ribs bound and his leg up on a stool, and he'd slept for the first time since the battle, and dreamed of nothing at all.
 
 He woke because the light had gone out of the kitchen.
 
 The window was full of a green eye.
 
-It was very close to the glass. As big as a plate. Pale green, with a long black slit in the middle, and moving, quick, round the kitchen: the dresser, the fire, the table, the jug, the cat on the hearth, which had gone flat and enormous and was making a sound like a kettle.
+It was very close to the glass. As big as a man's fist. Pale green, with a long black slit in the middle, and moving, quick, round the kitchen: the dresser, the fire, the table, the jug, the cat on the hearth, which had gone flat and enormous and was making a sound like a kettle.
 
 *Is this where you live?* said Lisska. *It's very small. Is it all of it? Is there more? Where do you sleep? What's that? What's that thing that's making the noise?*
 
@@ -112,7 +112,7 @@ There was a silence in his head. A long one, for Lisska.
 
 He told Wren. Wren held out the bread. The forked tongue took it.
 
-The green head went out of the window, and he heard something outside, against the wall of the house, settle down, heavy and warm, the way a dog does in the sun by a door. Through the mark, he felt her. Lying there against the wall. Content. For the first time since the battle. Still grieving, the great dark tide of it still there underneath, going in and out. But on top of it, just for now, something small and bright, like a candle on water.
+The green head went out of the window, and he heard something outside, against the wall of the house, settle down, heavy and warm, as a dog does in the sun by a door. Through the mark, he felt her. Lying there against the wall. Content. For the first time since the battle. Still grieving, the great dark tide of it still there underneath, going in and out. But on top of it, just for now, something small and bright, like a candle on water.
 
 *I like her,* said Lisska. *I've decided.*
 
@@ -136,7 +136,7 @@ He told Ada about the window later. She was mending his shirt at the table, and 
 
 "No." Ada bit off a thread. "Nobody will."
 
-He heard what she meant. He'd heard it all the night before, through the window, from the lanes, the shape of the voices. Nobody would come within a field of them. Nobody would come within a field of *him*.
+He heard what she meant. He'd heard it all the night before, in the field, from the lanes, the shape of the voices. Nobody would come within a field of them. Nobody would come within a field of *him*.
 
 ---
 
@@ -146,7 +146,7 @@ He hadn't thought about it. Nobody had. On the eleventh day he woke in the dark 
 
 *Hungry,* said Kharrak.
 
-He said it the way he said everything, short and hard, like a door slammed. But under it, through the mark, Calder felt something else. Not just hunger. The way a sick beast is hungry. The body asking for something to mend itself with.
+He said it the way he said everything, short and hard, like a door slammed. But under it, through the mark, Calder felt something else. Not just hunger. As a sick beast is hungry. The body asking for something to mend itself with.
 
 *We have not eaten,* said Aurveth, *since the morning before the battle, and we have burned more than we had in us since then, and the bond has taken something too, I think. More than one would expect. We are mending, all three of us, faster than I have ever mended. I can feel my back drawing closed. But it is drawing on something to do it. And there is nothing in us left to draw on.*
 
@@ -166,7 +166,7 @@ You could lose an army in the Fellwood. You could lose a dragon in it, and never
 
 She came back before dawn with a deer.
 
-He heard her land in the yard, and went out on his crutch, and found her standing over it in the grey light by the byre, very pleased with herself, with blood on her muzzle. It was a red stag. A great one, an old one, with antlers spread wider than his arms could reach, and it was bigger than any horse he'd ever owned. Bigger than Sorrel. She'd carried it back in her claws over a mile of forest.
+He heard her land in the yard, and went out on his crutch, and found her standing over it in the grey light by the byre, very pleased with herself, with blood on her muzzle. It was a red stag. A great one, an old one, with antlers spread wider than his arms could reach, and it was bigger than any horse he'd ever owned, near as big as Joss's Sorrel. She'd carried it back in her claws over a mile of forest.
 
 *For them,* she said, and looked at the burned field where the other two lay. *They can't hunt. So I hunted. That's right, isn't it? That's what you do? When someone can't?*
 
@@ -318,7 +318,7 @@ He looked at her.
 
 "All right," he said.
 
-They went away down the lane, the five of them, the way they'd come, slowly. Wat Garrow went with them. Only Fisk looked back, once, at the corner, and lifted his hand, and Calder lifted his.
+They went away down the lane, the four of them, the way they'd come, slowly. Wat Garrow went with them. Only Fisk looked back, once, at the corner, and lifted his hand, and Calder lifted his.
 
 ---
 
@@ -372,7 +372,7 @@ The lantern flame stood very still between them.
 
 "Why?"
 
-"She said…" Ada stopped. Started again. "She said it wasn't a song for singing. She said it was a song for knowing. She said I'd keep it, the way you keep a key you've no lock for, and one day I'd see what it was for, and then I'd know whether to sing it."
+"She said…" Ada stopped. Started again. "She said it wasn't a song for singing. She said it was a song for knowing. She said I'd keep it, as you keep a key you've no lock for, and one day I'd see what it was for, and then I'd know whether to sing it."
 
 The eye above them stayed where it was.
 

@@ -126,7 +126,7 @@ She put the barrow down.
 
 She stood very still with the barrow handles in her hand.
 
-"I asked her to. I'd heard about the island. Everybody had." He was looking at the midden, not at her. "The camp. The chains. The verse, which you copied very well for a girl who's forgotten most of her father's letters. And the last page." He was quiet a moment. "I knew your father a little. Not well. He was a river man; he didn't come up to the archive."
+"I asked her to. I'd heard about the island. Everybody had." He was looking at the midden, not at her. "The camp. The chains. The verse, which you copied very well for a girl who's forgotten most of her father's letters. And the lines under the camp." He was quiet a moment. "I knew your father a little. Not well. He was a river man; he didn't come up to the archive."
 
 "Then you've read it all, Warden."
 
@@ -249,5 +249,3 @@ She watched him go back along the side of the barn, limping, with the keys chimi
 He'd asked like a man asking after a key he'd lost and didn't want anyone to know he'd lost. *Whether you've seen him.*
 
 She hadn't. She'd only heard of him. A farmer, in a burned field, among three dragons.
-
-She went in to her supper, and found she wasn't hungry.

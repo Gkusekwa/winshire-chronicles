@@ -27,7 +27,7 @@ notes -->
 
 He ran.
 
-She'd thought she knew what it would be. She'd seen him run on the island, in the summer, on the shore, the night he woke. She'd felt him come down the slope of the knowe behind her and the ground jump. She'd never been on him.
+She'd thought she knew what it would be. She'd seen him run on the island, in the autumn, on the shore, the night he woke. She'd felt him come down the slope of the knowe behind her and the ground jump. She'd never been on him.
 
 A horse goes up and down. He didn't. He went flat, and long, and the ground went under them in great slow strides that weren't slow at all, and the fields went past in the dark, and the hedges, and the ditches full of thaw-water that he went over without seeming to notice they were there. She lay flat along his neck in the mane with her burned hands knotted in it and her knees gripping and the wind tearing at her eyes so she couldn't see.
 
@@ -67,7 +67,7 @@ A lion ten feet at the shoulder had come in through the gate. With a woman on it
 
 She saw faces. She knew some. A second-year with a marten on his shoulder, the one who'd leaned out over the wall to hear her shout about Callis, with a sword in his hand and his mouth open. A knight of the gate she'd mucked out under since the autumn, Vasey, with no helm and blood in his beard. Restoration men she didn't know, with spears, with rings on their fingers, with their faces gone white.
 
-Rowan wasn't in the yard. There wasn't a greyhart or a horse anywhere in it. She'd taken every rider who could sit a horse back up the River Road at dusk, to Redwatch, where the bank was going.
+Rowan wasn't in the yard. There wasn't a greyhart or a horse anywhere in it.
 
 On the walls round the yard the old lamps were lighting and going out. Not together. One here, one there, along the parapets and on the towers, white, a breath, dark, white again, as if something under the hill were breathing on them. Every time one flared the shadows in the yard jumped.
 
@@ -107,7 +107,7 @@ The flagstones by the well came up. Not heaved, the way the knowe had heaved. Li
 
 The men at the well stopped deciding.
 
-*It will hold them,* said Orrun. *Not long.* She heard what it cost him. He said it the way a man talks with a sack on his back.
+*It will hold them,* said Orrun. *Not long.* She heard what it cost him. He said it like a man with a sack on his back.
 
 He went north.
 
@@ -173,7 +173,7 @@ She held his head.
 
 "I know."
 
-"Your mother," said Haverly. "She came to the water-gate at dusk, shouting for Hale. Nobody believed her." He swallowed. "Hale did."
+"Your mother," said Haverly. "She came to the water-gate at dusk, shouting for Hale. Nobody believed her." He swallowed. "Hale did." He breathed. "Rowan took every rider up to Redwatch at dusk. The bank was going."
 
 His eyes went past her, up the stair, to the top, where Orrun stood in the broken flagstones against the firelight with his mane up, looking down.
 
@@ -309,7 +309,7 @@ She knelt at the foot of the three steps with the key in her hands.
 
 ---
 
-She moved him first. Gently, the way you'd move somebody asleep, off the door and along the bottom step to the wall, with his stick across his knees. Then she put the key in the lock.
+She moved him first. Gently, as you'd move somebody asleep, off the door and along the bottom step to the wall, with his stick across his knees. Then she put the key in the lock.
 
 It went in a long way. Further than she would have thought. She turned it.
 

@@ -78,7 +78,7 @@ On the jetty beside the last boat, in the shade of a pile of sacks, stood a cage
 
 It was a beast cage, iron-barred, the bars as thick as her thumb, the floor wet straw, the whole thing not much bigger than a dog kennel. Inside it, crouched as far back as the bars would let it, with its sides going in and out very fast, was something about the size of a hound puppy, all legs and ears, the colour of chimney smoke. When she came near, it opened its mouth and made the sound again, high and thin and hopeless, and she saw its eyes.
 
-They were gold. Not gold like a coin; gold like a lamp, as if there were a light behind them. They took up half its face. They looked straight at her through the bars, and the sound stopped, and the thing in the cage held perfectly still and watched her, and she understood that it was doing the only thing it had left, which was to look at each new face and hope this one was different.
+They were gold, lamp-gold, as if there were a light behind them. They took up half its face. They looked straight at her through the bars, and the sound stopped, and the thing in the cage held perfectly still and watched her, and she understood that it was doing the only thing it had left, which was to look at each new face and hope this one was different.
 
 "Isn't it," said Tam, beside her, in a voice gone soft with wonder, "the best thing you've ever seen?"
 

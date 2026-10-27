@@ -138,7 +138,7 @@ He opened his mouth.
 
 "There was a man," he said.
 
-His voice didn't carry. The beck was too loud. He saw Arn lean forward on his horse. He took a breath and said it again, louder, the way you'd shout across a field.
+His voice didn't carry. The beck was too loud. He saw Arn lean forward on his horse. He took a breath and said it again, louder, as you'd shout across a field.
 
 "There was a man. At Varrhold. In the summer. In the lower stable." He made himself look at Ulric. "One of yours. Taken on after the funeral. A coast drover, he said. He sat on a bucket at the stable door mending a halter, three paces from the foot of the cliff path. And when Teo said the ford out loud, the place and the hour, for anybody to hear…"
 
@@ -238,7 +238,7 @@ And Calder, on his knees in the beck, saw the bolt.
 
 He'd always see it. One bolt, from the far gorse, from a man in red thread who'd turned when he saw the black dragon coming. A short flat flight, upward, across the slope. Hallam Brecc, standing on his dragon's back with his stick in his fist, shouting, stopped shouting.
 
-He folded over. Morrow, beneath him, in the same moment, stopped in the air as if she'd been struck too, and came down. Not landing. Coming down. Onto the hillside, and sliding, in a long black tumble of wings, down the slope through the gorse and the stones, onto the bank of the ford, into the edge of the water.
+He folded over. Morrow, beneath him, in the same moment, stopped in the air as if she'd been struck too, and fell. Onto the hillside, and sliding, in a long black tumble of wings, down the slope through the gorse and the stones, onto the bank of the ford, into the edge of the water.
 
 ---
 
@@ -248,7 +248,7 @@ The ten on the slope came down. All of them, when Morrow fell. They came down of
 
 And Arn was gone. And Ulric.
 
-Calder didn't see them go. He was on his knees in the water and then he was up and running through the ford toward the black shape at the edge of it, and by the time he looked up again the far bank was empty except for the dead, and Arn's black horse going away over the far rise with Arn on it and his riders behind him, those that could ride. On the near bank, Ulric's people were going too, up the Way, at a run, carrying their hurt, and Ulric among them on foot, with Raske's body over his shoulder.
+Calder didn't see them go. He was on his knees in the water and then he was up and running through the ford toward the black shape at the edge of it, and by the time he looked up again the far bank was empty except for the dead, and Arn's black horse going away over the far rise with Arn on it and his riders behind him, those that could ride. On the near bank, Ulric's people were going too, back down the Way, at a run, carrying their hurt, and Ulric among them on foot, with Raske's body over his shoulder.
 
 Each of them sure. Each of them going home certain of what he'd seen.
 

@@ -8,10 +8,10 @@ Echo of the other's story: From the heights he sees Hearthmere knights riding ou
 Status: first draft
 Carried forward: From Chapter 24: Lieutenant Corrin Ash of Captain Idris Vey's company, under contract to the Tide Council: "The Captain doesn't usually ask twice." From Chapter 30: Calder went home to Wren after the second burning. From Chapter 26: Crow Scar; Rue and old Hesketh Coley. Lisska: the cave "goes back a long way". From Chapter 2: Joss's two greys and Hollin's ox-beast, stolen from Upper Rush.
 Draft notes: Days 43–49. Decided here (proposals):
-- Calder spends the night of day 42 at home after the burning, then goes back to Crow Scar on day 43 so the village won't be the target. Ada and Wren stay.
+- Calder spends night 43 at home after the burning, then goes back to Crow Scar on day 44 so the village won't be the target. Ada and Wren stay.
 - How Vey finds them: his scouts read the flight lines. Three dragons coming and going from the same patch of forest every day.
 - Captain Idris Vey: small, neat, about fifty, grey-gloved, soft-voiced and pleasant, with a scholar's spectacles. Never raises his voice. A hundred and twenty men, and two hooded wyverns, Sable and Hask, black-green, each a little smaller than Lisska. His handlers fly them on long lines.
-- The siege, days 43–46: Vey's men are found round the crag on the morning of day 43. Fires of green wood all round the base to smoke the cave. Two bolt-throwers on carts dragged through the Fellwood (day 44). Nets. They don't attack; they wait. Vey parleys from the foot of the crag on the morning of day 45.
+- The siege, days 44–46: Vey's men are found round the crag on the morning of day 44, the morning he goes back. Fires of green wood all round the base to smoke the cave. Two bolt-throwers on carts dragged through the Fellwood (day 44). Nets. They don't attack; they wait. Vey parleys from the foot of the crag on the morning of day 45.
 - What Vey lets slip: his company sells to a house at Gallows Quay in Wendmouth that buys "anything with horns or wings out of the Marches". It paid for two dray-beasts and an ox-beast out of Upper Rush in the summer, and pays in new silver. Calder knows the greys.
 - Kharrak wants to burn the camp. Calder won't let him. They nearly fight again; Aurveth sides with Calder.
 - Lisska finds the way out on the night of day 45: the cave runs back through the crag into a split, the Chimney, wide at the bottom and narrowing to a squeeze in the middle, that comes out on a ledge high on the east face above a sheer drop, where nobody watches. They go on the night of day 46, in rain, with Calder on Aurveth. A wyvern handler sees them too late.
@@ -55,7 +55,7 @@ He told her.
 
 ---
 
-They found Crow Scar the morning after he went back.
+They found Crow Scar the morning he went back.
 
 Lisska saw them first, as she always did. She came back from the morning's hunting without a deer and landed on the ledge so hard she slid, and said, before she'd even folded her wings: *Men. In the forest. Lots. Under the trees. All round the bottom of the rock.*
 
@@ -67,7 +67,7 @@ A crow went up off a branch at the foot of the rock, with a squawk. Another. And
 
 *Hoods,* said Lisska. *They've got hooded birds. And something else. Something big, in a cage on a cart. Two. Two big things. With hoods on.* She pressed her head against his arm. *Like the sea man. The one who came to the gate.*
 
-*Vey's,* said Aurveth, from the back of the cave. She'd lifted her head. *The Tide Council's sellswords. Sigrun fought them once, years ago, on the coast road. Ulric hired them for a summer. Sigrun said they were the only men she'd ever met who fought exactly as hard as they were paid to and not a hair harder, and that it made them very hard to frighten.*
+*Vey's,* said Aurveth, from the back of the cave. She'd lifted her head. *The Tide Council's sellswords. Sigrun fought beside them once, years ago, on the coast road, when Ulric hired them for a summer. Sigrun said they were the only men she'd ever met who fought exactly as hard as they were paid to and not a hair harder, and that it made them very hard to frighten.*
 
 *Then let's see,* said Kharrak, and got up.
 
@@ -79,7 +79,7 @@ They waited.
 
 By noon of the first day there were fires all round the foot of the crag. Small, smoky ones. Green wood, damp, piled on top of the flames so that the smoke came up off them thick and white and slow and drifted up the face of the rock. By dusk the smoke was so thick round the ledges that the crows had gone, every one, and the cave mouth was full of it, and they had to go to the back of the cave to breathe.
 
-By the second morning there were two great wooden machines at the edge of the trees on the west side, on carts. He didn't know what they were. Aurveth did.
+By evening there were two great wooden machines at the edge of the trees on the west side, on carts. He didn't know what they were. Aurveth did.
 
 *Bolt-throwers,* she said. *Saltreach ship's engines. They throw a spear as long as a man, with an iron head, further than any bow, and they wind them with a crank. They were made for wyverns. They will do for us.*
 
@@ -123,25 +123,17 @@ He'd wanted to from the first morning. Calder had felt it come up through the ru
 
 Kharrak lay at the back of the cave with his head down and the red tide going round and round in him like a bull in a pen, and Calder could feel it, through the mark, pressing, and pressing. It was harder than at the Scar the first time, when the news of Benna Hode came up the charcoal road. Much harder. Because this time they were here. Because this time they were coming for Kharrak himself.
 
-*He's right,* said Aurveth. Very quietly. *Calder. Kharrak. He is right. Listen to me. If you burn those men, they will tell the Tide Council the dragons of the Marches are killers, and the Council will send three hundred more. If you don't, they will tell the Council the dragons of the Marches are clever, and slippery, and not worth the price. That is what Vey's men are like. They fight exactly as hard as they are paid. Make them think the price is too high, and they'll go home.*
+*Listen to me,* said Aurveth. Very quietly. *Calder. Kharrak. Listen. If you burn those men, they will tell the Tide Council the dragons of the Marches are killers, and the Council will send three hundred more. If you don't, they will tell the Council the dragons of the Marches are clever, and slippery, and not worth the price. That is what Vey's men are like. They fight exactly as hard as they are paid. Make them think the price is too high, and they'll go home.*
 
 *And if they don't?*
 
 *Then we will think again.*
 
-Kharrak lay with his head down and the red going round in him.
-
-*I hate both of you,* he said at last.
-
-*I know, child.*
-
-*I hate him more.*
-
-"I know," said Calder.
+Kharrak lay with his head down and the red going round in him. He said nothing at all. But he didn't get up.
 
 ---
 
-Captain Idris Vey came to the foot of the crag on the third morning, under a white cloth on a pole, and called up.
+Captain Idris Vey came to the foot of the crag on the second morning, under a white cloth on a pole, and called up.
 
 Calder went to the edge of the ledge. He had to lie flat on his stomach to see over, through the smoke, all the way down. A long way down. And there, at the foot of the rock, at the edge of the trees, in a little clear space where the smoke had been let thin, stood a man.
 
@@ -181,7 +173,7 @@ He thought about the chain he'd found in the ashes of the barn. With the ring of
 
 *There's a way out,* said Lisska.
 
-It was night. The third night. The smoke had gone thin with the dark, because the fires had burned down and the men below were sleeping. He was lying at the back of the cave with his face near the spring, where the air was cleanest, and Lisska had been gone for an hour, and he hadn't known where. He'd felt her, through the mark. Near. Moving. Somewhere in the rock.
+It was night. The second night. The smoke had gone thin with the dark, because the fires had burned down and the men below were sleeping. He was lying at the back of the cave with his face near the spring, where the air was cleanest, and Lisska had been gone for an hour, and he hadn't known where. He'd felt her, through the mark. Near. Moving. Somewhere in the rock.
 
 *There's a way out,* she said again. She came out of the dark at the very back of the cave, where the roof came down low and the floor went up and he'd always thought it ended. She was covered in dust. Her eyes were bright. *I told you. When I found it. I said it goes back a long way. It does. It goes back and back, and gets narrow, and then there's a crack, a big one, up, like a chimney, and it goes all the way up through the rock and comes out on the other side. The east side. High up. Near the top.*
 
@@ -201,7 +193,7 @@ They went the next night, in the rain.
 
 The rain came in from the west at dusk, heavy and cold and steady, the first real rain of the long autumn. It put out the fires at the foot of the crag. It put out the torches of the men on watch. It hammered on the rock and ran down the face of it in sheets, and the hooded wyverns screamed in their cages on the carts and wouldn't fly, whatever the handlers said over them, and in the camp at the edge of the trees the men went in under their canvas and stayed there.
 
-He'd sent Lisska to Rue in the afternoon, under cover of the cloud. With a purse. Everything he had left from the barley money, tied up in his last clean handkerchief, to drop by the door of the charcoal burners' hut. *Don't land,* he'd told her. *Don't let them see you. Just drop it.* Vey's men had been at the hut the second day, he knew, asking. Rue had told them she sold bread to anyone who paid and she'd never seen any dragons, and old Hesketh had said *the barley man* and nobody had understood him. He didn't want them to have anything to explain.
+He'd sent Lisska to Rue in the afternoon, under cover of the cloud. With a purse. Everything but a few coppers from the barley money, tied up in his last clean handkerchief, to drop by the door of the charcoal burners' hut. *Don't land,* he'd told her. *Don't let them see you. Just drop it.* Vey's men had been at the hut the second day, he knew, asking. Rue had told them she sold bread to anyone who paid and she'd never seen any dragons, and old Hesketh had said *the barley man* and nobody had understood him. He didn't want them to have anything to explain.
 
 Lisska had come back without the purse, and said Rue was outside splitting wood in the rain and had looked up, just once, as the purse came down in the mud by the woodpile, and looked down at it, and then, very slowly, raised her hatchet in the air, the way you'd raise a cup.
 

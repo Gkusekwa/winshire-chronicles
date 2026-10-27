@@ -204,7 +204,7 @@ Maren's hands stopped on the pole. The boat ran on a little way on its own, and 
 
 "He never said."
 
-"No. He wouldn't have. He was a knight; he'd sworn not to ask what he kept." She said it lightly, the way you say a line of an old song. Then she looked at Maren, and her face was not light at all. "You're poling, girl. We're drifting."
+"No. He wouldn't have. He was a knight; he'd sworn not to ask what he kept." She said it lightly, like a line of an old song. Then she looked at Maren, and her face was not light at all. "You're poling, girl. We're drifting."
 
 Maren set the pole. The boat moved. Her arms did what they had always done, and the rope hissed through the rings, and the Greyhold landing came up out of the bright water toward them, stone and red door and the high grey wall above, and she counted the strokes all the way in, and got to forty-one, and did not look upriver again.
 

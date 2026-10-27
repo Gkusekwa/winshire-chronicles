@@ -96,7 +96,7 @@ She told it that she couldn't say the second half any more.
 
 The lion lay in the arch and watched her. It didn't look away. Not once, the whole time she talked, and she talked until her feet had gone dead in the snow. It didn't put its head down. It didn't close its eyes. It lay with its chin on the threshold of the tower under the verse and looked at her as if it were listening, though it couldn't be. The collar was still on it, black iron, with the raw band under it where the fur had worn away.
 
-When she stopped there was nothing but the wind in the bare oaks, and the ice ticking out on the river, and the ground under her humming. Very low. Like a bowl that was struck long ago and is still, just, ringing.
+When she stopped there was nothing but the wind in the bare oaks, and the ice ticking out on the river, and the ground under her humming. Very low. So low she felt it in her teeth more than heard it.
 
 She got up. She picked up the lantern.
 
@@ -160,7 +160,7 @@ She didn't decide to do it. Her hand went out on its own, the way it had gone ou
 
 The oak was warm.
 
-She hadn't expected that. She'd thought it would be cold, cold as the stone, cold as the cellar. It was warm. Warm the way a horse's flank is warm in winter when you lay your hand on it in the stall. Old dry wood, and under it, through it, warmth, coming up from somewhere a long way down.
+She hadn't expected that. She'd thought it would be cold, cold as the stone, cold as the cellar. It was warm. Warm as a horse's flank is warm in winter when you lay your hand on it in the stall. Old dry wood, and under it, through it, warmth, coming up from somewhere a long way down.
 
 Something else.
 

@@ -312,6 +312,6 @@ Far below them, on a ridge above the frozen valley of Hollow Beck, there was a f
 
 "I heard."
 
-*It was,* said Lisska. *I lay on it the whole time. It was still warm.*
+*It was,* said Lisska. *I lay on it the whole time.*
 
 They flew on toward the dark.

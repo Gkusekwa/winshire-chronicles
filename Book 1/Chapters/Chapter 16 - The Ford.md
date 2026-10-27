@@ -35,7 +35,7 @@ Wren had cried herself to sleep the night before. She'd been waiting at the gate
 
 Now she sat at the table with her porridge going cold and didn't eat it.
 
-"He carried Nan on his shoulders," she said. "At the fair. All the way round the green. Twice." She looked at Calder. "Who'd want to hurt somebody who carries Nan on his shoulders?"
+"He carried Nan on his shoulders," she said. "At the fair. All the way round the fire. Twice." She looked at Calder. "Who'd want to hurt somebody who carries Nan on his shoulders?"
 
 He didn't have an answer. He looked at Ada. Ada didn't have one either.
 
@@ -115,7 +115,7 @@ He stood there. Long enough for the fire to burn down from the top, so that you 
 
 Somebody touched his arm.
 
-It was a woman. Small, quick, brown, with her hair loose and wet under her hood and dark eyes that moved all the time, the way a bird's do. Imra Sallow. The last time he'd seen her she'd been dropping off a ledge at the Roosts with a grin on her face, telling him Lisska thought he looked like a ghost. She wasn't grinning now. Her face was swollen and her eyes were red, and she was holding out a coat.
+It was a woman. Small, quick, brown, with her hair loose and wet under her hood and dark eyes that moved all the time, like a bird's. Imra Sallow. The last time he'd seen her she'd been dropping off a ledge at the Roosts with a grin on her face, telling him Lisska thought he looked like a ghost. She wasn't grinning now. Her face was swollen and her eyes were red, and she was holding out a coat.
 
 His coat.
 
@@ -171,7 +171,7 @@ Before light, Teo had ridden down alone to the ford on Hollow Beck, to be standi
 
 It was the first lie he'd told about any of it. It came out easy and flat and ordinary, and the old man grunted and went back to the horse, and Calder turned round and went out into the rain.
 
-He didn't go back to the fire. He found the grey mare, and saddled her himself, and rode home down the Drover's Way in the dark, past the ford, with the chain in his pocket and the glow of Teo's pyre on the clouds behind him the whole way down.
+He didn't go back to the fire. He lay the rest of the night in the straw of the lower stable and didn't sleep, and at first light he found the grey mare, and saddled her himself, and rode home down the Drover's Way, past the ford, with the chain in his pocket and the smoke of Teo's pyre on the sky behind him the whole way down.
 
 He thought: *I could have told him.* At the fair. On the cliff path. At the gate of the top field, in the dark, with Wren asleep in the house. Any time. *I found this at Upper Rush. Your uncle's man Rook has the same mark on his knife.* Seventeen words. He'd had seventeen words in his pocket for more than a week and he'd kept them there, because he was waiting for it to be safe. Because he didn't want to be the one who said the thing that made trouble.
 
@@ -179,13 +179,13 @@ He thought: *I could have told him.* At the fair. On the cliff path. At the gate
 
 *I don't know it wasn't.*
 
-The grey mare went on down the Way in the dark, picking her own path, and he let her.
+The grey mare went on down the Way in the grey light, picking her own path, and he let her.
 
 ---
 
-The Clan split the next day.
+The Clan split that day.
 
-It didn't happen all at once. It happened the way ice goes on a pond, a crack here and a crack there, so that by the time anyone heard it the whole thing had already gone. News came down to Harrow's End all day, by carters and shepherds and boys on ponies.
+It didn't happen all at once. It happened as ice goes on a pond, a crack here and a crack there, so that by the time anyone heard it the whole thing had already gone. News came down to Harrow's End all day, by carters and shepherds and boys on ponies.
 
 Ulric had gone east. He'd gone back over the Scarfell to his own steading at Skarrow with his six and every man who wore the plain grey, and that was most of the fighting men in the Clan, because Ulric had led them for thirty years and they'd follow him into the sea. He'd sent word to the hold that he hadn't killed his nephew and wouldn't be named for it, and that any man who said he had could come to Skarrow and say it to his face.
 
@@ -213,7 +213,7 @@ Nobody laughed.
 
 The riders came on the third day.
 
-They came in the morning, two lots of them, from the two directions, an hour apart, as if they'd agreed it. First down the Drover's Way from the moor: four men in grey with the red thread, with Arn's steward at the front, a long sour man called Gorm Askell who'd counted Calder's barley sacks at the hold every autumn for ten years. Then up the Way from the south, from Cotter's Cross, the long way round from Skarrow: five men in plain grey, with a big red-bearded man at the front Calder didn't know, and a pack-horse.
+They came in the morning, two lots of them, from the two directions, an hour apart, as if they'd agreed it. First down the Drover's Way from the moor: four men in grey with the red thread, with Arn's steward at the front, a long sour man called Gorm Askell who'd counted Harrow's End's barley sacks at the hold every autumn for ten years. Then up the Way from the south, from Cotter's Cross, the long way round from Skarrow: five men in plain grey, with a big red-bearded man at the front Calder didn't know, and a pack-horse.
 
 They both stopped on the green. They didn't look at each other. They stood their horses at opposite ends of the green, by the well and by the Wheel, as far apart as they could get, and the village came out of its houses and stood in the lanes and watched them.
 

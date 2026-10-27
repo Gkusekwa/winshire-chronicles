@@ -9,7 +9,7 @@ Status: first draft
 Carried forward: From Chapter 28: Calder now flies on Aurveth; Kharrak has been refused Skarrow; Lisska ranges everywhere. From Chapter 24: Hob sold Calder's road and hour to the coin man. From Chapter 16: Wat Garrow and the Ashby widow sold to Arn; Hob and three farms to Ulric. From Chapter 18: his father's rule, "don't fight it, move what it wants."
 Draft notes: About day forty-two, at night. Decided here (proposals):
 - Why Harrow's End again: Sten Raske comes with forty of Ulric's men to burn the farms that sold to Arn (the Garrows', the Ashby widow's). Gorm Askell is camped above the ford with Arn's riders, waiting to catch Ulric's men at it, and comes down on them in the village. Neither side wins. The village burns between them.
-- Lisska, five leagues out over the Reedmarsh, sees the glow and feels for the house; her words only reach him as she comes within a few leagues. All three fly from Crow Scar: Calder on Aurveth.
+- Lisska, five leagues out over the reed beds along the river, sees the glow and feels for the house; her words only reach him as she comes within a few leagues. All three fly from Crow Scar: Calder on Aurveth.
 - What they do:
   - Aurveth fans the fire back from the lanes with her wings.
   - Kharrak burns a firebreak across the top of the Garrows' stubble ("move what it wants"). Calder has forbidden him to burn people.
@@ -32,7 +32,7 @@ His father had never had three dragons. Calder thought, afterwards, that it migh
 
 Lisska saw it first. Of course she did.
 
-She was a long way out. Five leagues, she said afterwards, down over the Reedmarsh, where she'd gone to look at the tall white birds standing on one leg in the water. Too far for her voice to carry. But he felt her, through the green mark, suddenly, in the middle of the night: a jolt, a spike of fear so sharp it woke him on the floor of the cave with his heart going.
+She was a long way out. Five leagues, she said afterwards, down over the reed beds along the river, where she'd gone to look at the tall white birds standing on one leg in the water. Too far for her voice to carry. But he felt her, through the green mark, suddenly, in the middle of the night: a jolt, a spike of fear so sharp it woke him on the floor of the cave with his heart going.
 
 Then her voice, faint, coming in from very far off, like someone shouting from the bottom of a well, getting louder.
 
@@ -94,7 +94,7 @@ Grey and grey. One lot with red in their armbands. One without.
 
 *They're burning the village…*
 
-"I know what they're doing. Listen to me." He held on to the ridge on Aurveth's neck and made himself think, the way his father had taught him. Not about the men. About the fire. *Don't fight it. Move what it wants.*
+"I know what they're doing. Listen to me." He held on to the ridge on Aurveth's neck and made himself think, the way his father had taught him. About the fire, not the men. *Don't fight it. Move what it wants.*
 
 He looked at the valley spread out below him. At the fire. Where it was, and where it was going.
 
@@ -156,7 +156,7 @@ Below them, in the light of the fires, the men were looking up.
 
 ---
 
-They'd stopped fighting. Not all at once. The way a crowd goes quiet at a fair when someone shouts. A few at a time, all over the green and the lanes and the bottom of the Drover's Way, they'd looked up, and seen what was in the air over them. A great bronze dragon beating the fire back off the houses. A rust-red one going over the Garrows' field in a sheet of flame. A small green one carrying children off a roof.
+They'd stopped fighting, as a crowd goes quiet at a fair when someone shouts. A few at a time, all over the green and the lanes and the bottom of the Drover's Way, they'd looked up, and seen what was in the air over them. A great bronze dragon beating the fire back off the houses. A rust-red one going over the Garrows' field in a sheet of flame. A small green one carrying children off a roof.
 
 And a man on the bronze one's neck.
 
@@ -304,7 +304,7 @@ He got Hob's arm over his shoulder and dragged him. Down the stair, through the 
 
 Calder stood over him, breathing hard.
 
-Hob didn't look up. He knelt on the grass with his head down and his hands flat on the ground and coughed until he stopped coughing. He stayed there. He didn't say anything. He didn't say thank you, or sorry, or anything at all. He just knelt there on the green with his face to the ground, in the light of his own house burning.
+Hob didn't look up. He knelt on the grass with his head down and his hands flat on the ground and coughed until he stopped coughing. He stayed there. He didn't say thank you, or sorry, or anything at all. He just knelt there on the green with his face to the ground, in the light of his own house burning.
 
 Calder turned and walked away.
 

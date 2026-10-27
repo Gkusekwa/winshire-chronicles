@@ -89,7 +89,7 @@ He looked at her.
 
 ---
 
-They were all looking at him. He could feel it. He could feel all three of them, the way you feel the sun on your back without looking at it. He could feel Kharrak's wing, the torn root of it, as a deep sick ache in his own shoulder, so that he put his hand up to it without meaning to. He could feel the long lines of fire down Aurveth's back, and the dark hole where her eye had been, cold and wrong, so that he wanted to cover his own eye with his hand. He could feel Lisska's bruises, small and many and sharp, and under them something else, something that wasn't a bruise.
+They were all looking at him. He could feel it. He could feel all three of them, as you feel the sun on your back without looking at it. He could feel Kharrak's wing, the torn root of it, as a deep sick ache in his own shoulder, so that he put his hand up to it without meaning to. He could feel the long lines of fire down Aurveth's back, and the dark hole where her eye had been, cold and wrong, so that he wanted to cover his own eye with his hand. He could feel Lisska's bruises, small and many and sharp, and under them something else, something that wasn't a bruise.
 
 He could feel what they were feeling.
 
@@ -163,7 +163,7 @@ That was when he heard the voices at the hedge.
 
 He looked down the field. The hedge at the bottom, where the crossbow had been in the dark, was black and broken where Kharrak's slide had gone through it, and beyond it was the lane down to the village, and the lane was full of people.
 
-The whole of Harrow's End. Or it looked like it. They stood in the lane and at the gaps in the hedge in the grey light, in their nightclothes and coats, with their faces smudged with smoke, and some of them had pitchforks, and some had axes, and old Garrow had a scythe. Nobody had come into the field. They stood at the hedge, crowded together, the way sheep crowd at a gate when there's a dog in the field, and looked at him.
+The whole of Harrow's End. Or it looked like it. They stood in the lane and at the gaps in the hedge in the grey light, in their nightclothes and coats, with their faces smudged with smoke, and some of them had pitchforks, and some had axes, and old Garrow had a scythe. Nobody had come into the field. They stood at the hedge, crowded together, as sheep crowd at a gate when there's a dog in the field, and looked at him.
 
 At him sitting in the stubble with three dragons round him, talking to the air.
 
@@ -299,8 +299,6 @@ He went very still.
 
 He found, sitting there in the stubble with the coat round him and her voice in his head, that she didn't know. That she could feel he'd gone still, and feel there was something, a coldness, a weight, a thing he didn't want to look at. But not what it was. Not the man on the bucket, or the ring of six, or the seventeen words he hadn't said. Not unless he gave her them.
 
-They could hear what he said to them, and feel what he felt. They couldn't hear everything he thought.
-
 He let his breath out, slowly, round the stake.
 
 "It's a chain," he said. "It's nothing. I'll tell you later."
@@ -361,7 +359,7 @@ She stood over the old woman with her head down.
 
 Then she opened her mouth.
 
-The fire came out of her slowly, nothing like the roaring torrent of the night before: a long, slow, steady pour, pale gold, almost white, that went down over the small grey shape on the ground and wrapped it and held it. It didn't flicker. It burned the way a forge burns, so hot and so still that the air above it shook, and the light of it went up the hill and down the field and out across the valley.
+The fire came out of her slowly, nothing like the roaring torrent of the night before: a long, slow, steady pour, pale gold, almost white, that went down over the small grey shape on the ground and wrapped it and held it. It didn't flicker. It burned as a forge burns, so hot and so still that the air above it shook, and the light of it went up the hill and down the field and out across the valley.
 
 At the bottom of the field, by the broken hedge, Lisska was doing the same. He hadn't felt her go. She was standing over the dark shape by the hedge where Imra had fallen, with her thin green body curled round it, and the fire coming out of her was thinner and brighter and quicker, a white-blue flame, and she was making a sound as she did it, a high thin sound, going up and down, like a child singing to itself in the dark.
 

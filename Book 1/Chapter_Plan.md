@@ -4,7 +4,7 @@
 
 ## Shape
 
-- **79 chapters in six parts, across about five months (days 0–144):** from the harvest fair at the end of summer to sunrise on day 144, in early spring (see the Calendar in `Bible/World.md`). **No upper word limit**; chapters run as long as their scenes need. The first draft came in at about **311,000 words** (about 3,900 a chapter).
+- **79 chapters in six parts, across about five months (days 0–144):** from the harvest fair at the end of summer to sunrise on day 144, in early spring (chapters 1–10 fall in the three weeks before the fair, about days -23 to -1) (see the Calendar in `Bible/World.md`). **No upper word limit**; chapters run as long as their scenes need. The first draft came in at about **311,000 words** (about 3,900 a chapter).
 - **Strictly alternating chapters** *(established)*: odd chapters follow Maren (S), even chapters Calder (F).
 - **Echoes** *(established)*: each chapter picks up something from the other's story (the Echo column). The reader always knows more than either protagonist, until they meet.
 - **The arcs converge only at the end:** they meet underground after the seal opens (chapter 78).
@@ -71,7 +71,7 @@
 | 23 | S | Proof | Maren could take a lock of the lion's mane as proof but leaves it in peace. The trial is failed; Haverly passes his. | At Greyhold everyone is talking about a farmer bonded to three dragons. No one believes it. |
 | 24 | F | Hunted | Everyone wants the dragons: Ulric, Arn, Saltreach sellswords, and strangers paying in Restoration coin. Hob sells Calder's whereabouts. He leaves Wren with Ada and flees into the hills. | Lisska spots a knight-student alone at the Old Ruin, with a beast that won't attack her. |
 | 25 | S | The Midden | Maren is reassigned to the stables and the midden. Warden Osric Hale of the inner circle takes an interest and asks about the lion. | Hale asks, too carefully, whether she has seen "the dragon farmer." |
-| 26 | F | Why Me | In a cave at Crow Scar, Calder asks the dragons why they came to him. None of them knows. Aurveth, who has survived two earlier bonds, has never heard of anything like it. | He hears a Hearthmere student failed her trial rather than harm a monster. It stays with him. |
+| 26 | F | Why Me? | In a cave at Crow Scar, Calder asks the dragons why they came to him. None of them knows. Aurveth, who has survived two earlier bonds, has never heard of anything like it. | He hears a Hearthmere student failed her trial rather than harm a monster. It stays with him. |
 
 ## Part Three: The Long Autumn (chapters 27–40)
 

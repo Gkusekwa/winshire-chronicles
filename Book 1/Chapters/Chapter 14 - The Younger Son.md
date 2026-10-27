@@ -8,7 +8,7 @@ Echo of the other's story: Old Fisk at the Eelweir, Harrow's End's landing, says
 Status: first draft
 Carried forward: From Chapters 8 and 10: Calder sets out to the ford as a witness, at Teo's request, and is the one who finds Teo dead in the water before noon. Rook overheard the time and place at the foot of the cliff path in Chapter 10; Calder doesn't yet connect it. The ring of six dots matters later, not here.
 Draft notes: Day 4, four days after the fair (day 0). Calder and Hob leave on Hob's cart at two in the morning (old Garrow's knees won't do it); the ford is six leagues below Varrhold, a league above the Ram's Head, about eight up the Drover's Way from Harrow's End, and they arrive an hour before noon. They wait with the body until Teo's men come, and reach the Eelweir in the small hours of day 5. Decided here (proposals):
-- Teo rode down to the ford alone at first light to be there before anyone, as he always was. His six men were to follow at mid-morning.
+- Teo rode down to the ford alone at first light to be there before anyone, as he always was. His six were told to come down in the afternoon, after the three had met in the water.
 - He was stabbed at the water's edge from close in. His own knife is still in its sheath: whoever did it was someone he let come close.
 - Left at the scene: a plain grey armband, no red thread (Ulric's men's), snagged on the alders; a Clan axe in the shallows.
 - Arn swears vengeance with his hand in his brother's blood. Ulric arrives and denies it. One of Ulric's six is killed by Arn's men at the ford; someone fires the gorse and the shepherd's shieling (the smoke Maren sees). Both horns blow.
@@ -59,9 +59,9 @@ There was a horse grazing on the far bank, under the alders. A tall bay. Saddled
 
 "Stop the cart."
 
-Hob stopped the cart. Calder was already down. He went down the slope of the Way on foot, not running, not yet, the way you'd walk toward a frightened animal: steady, near, not straight at it. He watched the bay. The bay lifted its head and looked at him and went back to grazing. Its saddle was good leather, Clan work, with a grey cloth under it, and a black hound stitched on the cloth.
+Hob stopped the cart. Calder was already down. He went down the slope of the Way on foot, not running, not yet, as you'd walk toward a frightened animal: steady, near, not straight at it. He watched the bay. The bay lifted its head and looked at him and went back to grazing. Its saddle was good leather, Clan work, with a grey cloth under it, and a black hound stitched on the cloth.
 
-He knew that horse. He'd held its head at the gate of his own top field, four nights ago, while its rider bent down and told Wren she danced better than any girl at the hold.
+He knew that horse. He'd held its head at the gate of his own top field, four nights ago, while its rider leaned from the saddle and told him to tell Wren she danced better than any girl at the hold.
 
 Then he was running.
 
@@ -163,7 +163,7 @@ Calder couldn't have said anything if the hills had fallen. He stood on the bank
 
 ---
 
-Ulric came a quarter of an hour later, with his six, over the near rise, down the long slant of the Way.
+Ulric came a quarter of an hour later, with his six, over the near rise, up from the Ram's Head, where he'd lain the night, and down the long slant of the Way.
 
 Calder heard them before he saw them. He looked up and saw them come over the top, six big men in plain grey with axes at their belts, and Ulric at the front on a huge grey horse, and he saw Ulric see it. The bay. The black horse. Arn's six in a line along the bank with their swords out now. Arn standing over something on the stones.
 
@@ -173,7 +173,7 @@ At last he came down the Way at a walk, alone, leaving his six at the top, and s
 
 Calder was close enough to see his face. He watched it, because a witness watches.
 
-He would think about that face for a long time afterwards. He would turn it over in the dark, the way you turn over a coin you think might be false. It was a big, heavy, closed face, the face of a man who had spent fifty years making sure nobody ever knew what he was thinking. For one moment, looking down at Teo on the stones, it opened. Just for a moment. And what was in it was grief, plain and enormous and real, like a man who has been struck from behind and doesn't yet know how badly.
+He would think about that face for a long time afterwards. He would turn it over in the dark, as you turn over a coin you think might be false. It was a big, heavy, closed face, the face of a man who had spent fifty years making sure nobody ever knew what he was thinking. For one moment, looking down at Teo on the stones, it opened. Just for a moment. And what was in it was grief, plain and enormous and real, like a man who has been struck from behind and doesn't yet know how badly.
 
 Then it closed again.
 
@@ -213,7 +213,7 @@ They got behind the shieling wall and crouched there. Calder found he still had 
 
 Somebody had set the gorse on fire. He didn't see who. He smelled it first, the sharp hot smell of gorse going up, and then he saw it: a line of fire running across the slope above the ford in the dry brown bushes, crackling, throwing up thick white smoke. The turf roof of the shieling caught next, above their heads, and they had to run again, Hob dragging him, down the slope behind the shieling into a hollow full of bracken, where they lay on their faces in the cold wet fronds and listened.
 
-It went on for a while. Then the horns blew again, both of them, and the sounds changed, and drew apart, and went away: Ulric's men up the Way toward the hold, Arn's men across the moor to the west. Shouting, fading. Horses, fading.
+It went on for a while. Then the horns blew again, both of them, and the sounds changed, and drew apart, and went away: Ulric's men away east over the moor, Arn's up the Way toward the hold. Shouting, fading. Horses, fading.
 
 There was only the fire crackling in the gorse, and the beck going over the stones, and Hob crying quietly beside him in the bracken, with his face in his arm.
 
@@ -245,7 +245,7 @@ It was done now. There was no after.
 
 ---
 
-They brought Teo up to the hold at dusk, on a hurdle, with his own men walking beside it and his own bay walking behind with the reins over the saddle. Calder and Hob went home in the cart in the dark without speaking, the whole long way down the Way, with the cob picking its own path by the starlight.
+His own six came down from the hold in the afternoon, at the hour he'd given them, too late. They took him up the Way at dusk on a hurdle, walking beside it, with his bay behind and the reins over the saddle. Calder and Hob went home in the cart in the dark without speaking, the whole long way down the Way, with the cob picking its own path by the starlight.
 
 It was the small hours when they came down off the moor. At the bottom, where the Way came down to the river lane above Harrow's End, there were still lights at the Eelweir: lanterns on the jetty, and men standing about. Hob stopped the cart without being asked.
 

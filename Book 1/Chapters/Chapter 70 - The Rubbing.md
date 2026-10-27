@@ -8,7 +8,7 @@ Echo of the other's story: His choice to warn the student, a stranger he knows o
 Status: first draft
 Carried forward: From Chapter 68: Corvin and Cassian; "the knight's lock" under the school; "at the hour, midnight, the night after tomorrow" (night 143); "Two hands"; Rook killed Teo. From Chapter 66: the rubbing of the verse inside his shirt; the slab with the iron plate under the tower; the three sent north; Fisk in the north reeds for three nights. From Chapter 46: Ada's third verse. From Chapter 38: Wren's washed blue ribbon on Lisska's left horn. From Chapter 2: the five links from the ruts at Upper Rush, the first night. From Chapter 64: Liss Ashdown; "Tell her a girl called Wren says hello."
 Draft notes: Night one hundred and forty-two to dawn on day one hundred and forty-three. Decided here (proposals):
-- Day 142: the island empties as the army crosses to Redwatch. Corvin stays at the fort with a few hundred; the guards stay on the tower stair; Rook leaves the step at dusk to go to the west shore.
+- Day 142: the island empties as the army crosses to Redwatch. Corvin stays at the fort with a few hundred; the guards stay on the tower stair; Rook leaves the step in the afternoon to go to the west shore.
 - Night 142: Calder goes up, not down: through the broken top of the tower and down its outside wall by the ivy on the river side, and north through the oaks to the reeds. Fisk is there, the last of his three nights. "Thought you were dead. Was looking forward to getting drunk."
 - Fisk lands him on the Saltreach shore above the Eelweir. He climbs to the hill above the Fenn farm and calls them the only way he can at that distance: he stops holding them back. They feel it and come. Before midnight all three are on the hill.
 - Aurveth reads the rubbing. She can read it whole now: what's gone from the stone she remembers, because she saw it whole from the bridge with her first partner, and the rubbing brings it back. The verse in full:
@@ -21,7 +21,7 @@ Draft notes: Night one hundred and forty-two to dawn on day one hundred and fort
 - What Calder puts together, out loud, to them: the thing under the river (Aurveth's throat on the ice), the lock under the tower, the "knight's lock" under the school, Ada's "two hands", Corvin's "the same breath, here and there". The twins will open both at midnight tomorrow and let the thing out, to take it. "Its own kin kept the door": the lion is its kin. The cat on the steps was keeping the door. "Keep the watch below" was never the knights' oath first. It was the old ones' charge to the lion.
 - He can't be in two places. He'll be at the Ruin, against Corvin. Somebody has to be under the school. He knows one person on the Hearthmere bank who might be: the woman with the lion, cast out, whose mother runs the ferry. She knows the island; she knows something under it. He can't speak to her. Lisska can't either.
 - What he gives Lisska: the five links from the first night (the Restoration's own chain); a strip torn from his shirt with TWO burned into it with a charred stick from his own field that Kharrak breathes alight, the only word he can write besides his name; and the ribbon already on her horn. Wren's. He hopes the ferrywoman told her. He hopes she'll know whose it is.
-- Kharrak: *She won't understand.* Calder: "Then she won't. But she'll know someone over here is trying to tell her something." Lisska goes at first light on day 143, west, low, toward the Brackenwood, where the prints pointed.
+- Kharrak: *She won't understand.* Calder: "Then she won't. But she'll know someone over here is trying to tell her something." Lisska goes at first light on day 143, west, high, toward the Brackenwood, where the prints pointed.
 - He stays. With Aurveth and Kharrak, on the hill, through day 143. Tomorrow night they'll go to the Ruin.
 - Magic (proposal): Fisk mutters the eel-word over his oars (never worked on the river, running water). Night 142 from the Fenn hill, Greyhold's dead wall-lamps flare white along their whole line for a breath (the surge seen from the Saltreach bank). Aurveth: the hooked letters "aren't men's letters. Men were given them."
 - Revision (proposal): Aurveth hedges her account of the waking and chaining ("I think", twice; "I wasn't below").
@@ -179,7 +179,7 @@ He waited.
 
 "Who was he?"
 
-*A warden of the bridge. The bridge had wardens then, the way a ford has a ferryman.* The gold eye stayed on the rubbing. *When the first knights came to the door, he stood in front of it. I think he stood in front of it. I was in the air over the bridge, and they had chain-nets on the walls, and I couldn't get down to him. And they put him down.* A long pause. *They had binders with them. Men who know where a bond is fastened. I think they put their hands on him before he died and cut him out of me. The way you'd cut a mooring rope before a boat goes under, so it doesn't drag the jetty in after it.*
+*A warden of the bridge. The bridge had wardens then, as a ford has a ferryman.* The gold eye stayed on the rubbing. *When the first knights came to the door, he stood in front of it. I think he stood in front of it. I was in the air over the bridge, and they had chain-nets on the walls, and I couldn't get down to him. And they put him down.* A long pause. *They had binders with them. Men who know where a bond is fastened. I think they put their hands on him before he died and cut him out of me. The way you'd cut a mooring rope before a boat goes under, so it doesn't drag the jetty in after it.*
 
 Calder sat with the rubbing in his hands.
 
@@ -255,7 +255,7 @@ He sat on the hill with the rubbing in his hands and had no answer.
 
 He thought about it with his hands.
 
-He took the five links out of his coat. The first chain. From the ruts at Upper Rush, the morning after the raid, the last link cut, with the ring of six on every link and the two little crossed hammers inside. He'd carried it every day since the autumn. He held it in his hand.
+He took the five links out of his coat. The first chain. From the ruts at Upper Rush, the night of the raid, the last link cut, with the ring of six on every link and the two little crossed hammers inside. He'd carried it every day since the autumn. He held it in his hand.
 
 *Their chain,* he thought. *She'll know it. She took a collar off with that mark on it.*
 

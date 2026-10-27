@@ -20,7 +20,7 @@ It is the coldest water in the Six Kingdoms, the Clan says. It doesn't freeze. I
 
 Nobody in Harrow's End wanted to carry the mourning cloth.
 
-It wasn't the cloth. It was a fine thing. Ada had woven it in the eleven nights since the pyre was lit, grey wool with a border of black, and the village women had each put in a thread of their own, the way you were supposed to for a chief. It was the going. Two days up into the Scarfell to stand on the shore of Coldtarn with the whole Clan, in the cold, at the new moon, while the dead man's brother and the dead man's son glared at each other over the urn. Everybody in the village had heard about the two fires at Varrhold by now. Everybody had heard about the bard. Nobody wanted to be standing anywhere near it if it went wrong.
+The cloth was a fine thing. Ada had woven it in the eleven nights since the pyre was lit, grey wool with a border of black, and the village women had each put in a thread of their own, the way you were supposed to for a chief. The trouble was the going. Two days up into the Scarfell to stand on the shore of Coldtarn with the whole Clan, in the cold, at the new moon, while the dead man's brother and the dead man's son glared at each other over the urn. Everybody in the village had heard about the two fires at Varrhold by now. Everybody had heard about the bard. Nobody wanted to be standing anywhere near it if it went wrong.
 
 "Hob should go," said old Garrow, at the meeting in the mill. "He's the miller. He's the most important man in the village."
 
@@ -48,11 +48,11 @@ He went up on the Ewe Hollow wool cart, which was going anyway, sitting on the b
 
 They came over the last rise in the afternoon of the second day and he saw that the whole Clan was there.
 
-Coldtarn lay in a bowl in the rock above the hold, higher up than he'd ever been, so high the clouds came down and sat on the rim of it. The water was black. Not dark; black, like a hole cut in the world, and perfectly still, so still that the cliffs round it stood upside down in it without a ripple. The shore was a long slope of grey stones going down to the edge. And on the stones, in the cold, in their grey cloaks, stood more people than Calder had seen in one place in his life: hundreds of them, the whole hold and every farm in the Scarfell and half the Marches, ranked up the slope in a great half-circle facing the water.
+Coldtarn lay in a bowl in the rock above the hold, higher up than he'd ever been, so high the clouds came down and sat on the rim of it. The water was black, like a hole cut in the world, and perfectly still, so still that the cliffs round it stood upside down in it without a ripple. The shore was a long slope of grey stones going down to the edge. And on the stones, in the cold, in their grey cloaks, stood more people than Calder had seen in one place in his life: hundreds of them, the whole hold and every farm in the Scarfell and half the Marches, ranked up the slope in a great half-circle facing the water.
 
 Above them, on every ledge of the cliffs round the bowl, sat the dragons.
 
-He'd thought the Roosts were a lot of dragons. The Roosts were a lot of dragons the way a pond is a lot of water. They sat on the ledges with their wings folded and their heads down and their eyes on the tarn, so still and so many that at first he took them for rocks, until one of them shifted its weight and a shower of stones went rattling down into the water, and the sound came back off the cliffs three times.
+He'd thought the Roosts were a lot of dragons. The Roosts were a lot of dragons as a pond is a lot of water. They sat on the ledges with their wings folded and their heads down and their eyes on the tarn, so still and so many that at first he took them for rocks, until one of them shifted its weight and a shower of stones went rattling down into the water, and the sound came back off the cliffs three times.
 
 None of them made a sound. The whole bowl was silent. Hundreds of people, hundreds of dragons, and nothing but the wind on the rim and the far faint sound of the falls below.
 
@@ -84,7 +84,7 @@ Arn didn't take his hands off the urn. He turned his head. "The eldest son pours
 
 Arn let go of the urn.
 
-He did it slowly, and that was worse. Calder saw his face, from where he stood halfway up the slope, and it wasn't the face of a man who'd lost an argument. It was the face of a man who has been waiting for someone to say something, and now they have, and now there's nothing left to wait for. His hand went to his hip. On both sides of the black stone, men moved, and there was a sound up the slope like a wave pulling back off shingle as people stepped away from the people next to them.
+He did it slowly, and that was worse. Calder saw his face, from where he stood halfway up the slope: the face of a man who has been waiting for someone to say something, and now they have, and now there's nothing left to wait for. His hand went to his hip. On both sides of the black stone, men moved, and there was a sound up the slope like a wave pulling back off shingle as people stepped away from the people next to them.
 
 On the cliffs, a dragon lifted its head and hissed, very softly. The sound went round the bowl and came back.
 
@@ -106,7 +106,7 @@ They tipped it together.
 
 The ash went into Coldtarn in a long grey pour like smoke going the wrong way. It didn't sink at first. It lay on the black water in a great pale shape, spreading slowly outward from the stone. Then, in the middle, it began to go down, and the whole shape drew in toward that point and went down after it, turning slowly, until there was nothing on the water at all.
 
-On every ledge round the bowl, the dragons lifted their heads and opened their mouths, all together, and the sound they made was nothing Calder had ever heard or would ever be able to describe afterwards. It wasn't a roar. It was lower than that, and longer, and it went into the rock and came up through his feet and into his chest and stayed there, and he found that his face was wet, and so was everyone's around him.
+On every ledge round the bowl, the dragons lifted their heads and opened their mouths, all together, and the sound they made was nothing Calder had ever heard or would ever be able to describe afterwards: lower than a roar, and longer. It went into the rock and came up through his feet and into his chest and stayed there, and he found that his face was wet, and so was everyone's around him.
 
 ---
 
@@ -160,7 +160,7 @@ He sat. The rock was cold through his trousers. Down below, the last of the half
 
 "You don't think they'll come round."
 
-"I think Ulric's been waiting thirty years and Arn's been waiting since he could walk, and I think waiting men don't come round. They go off." She pulled her cloak tighter. "I've been in this Clan sixty years. I've buried two chiefs. I've never seen the dragons sit on the rim like that. Not for Rurik. Not for anyone."
+"I think Ulric's been waiting thirty years and Arn's been waiting since he could walk, and I think waiting men don't come round. They go off." She pulled her cloak tighter. "I've ridden for this Clan near sixty years. I've buried two chiefs. I've never seen the dragons sit on the rim like that. Not for Rurik. Not for anyone."
 
 Calder looked up at Aurveth. The great dragon hadn't moved. Her eyes were still on the water.
 
@@ -188,11 +188,11 @@ Aurveth's eye moved.
 
 It was a small thing. The great gold eye, the size of a cartwheel hub, that had been fixed on the tarn the whole time, turned in its socket and came round and down, slowly, and rested on Calder.
 
-It stayed there. He didn't move. He couldn't have moved if the mountain had fallen. He sat on the cold rock beside Sigrun Holm and the oldest living thing in the Scarfell looked at him for a long, long moment, the way you look at a word in a language you used to know, trying to remember what it means.
+It stayed there. He didn't move. He couldn't have moved if the mountain had fallen. He sat on the cold rock beside Sigrun Holm and the oldest living thing in the Scarfell looked at him for a long, long moment, as you look at a word in a language you used to know, trying to remember what it means.
 
 Then the eye went back to the water.
 
-Sigrun had seen it. He knew she had. She didn't say anything for a while.
+Sigrun had seen it. He knew she had. She was quiet for a while.
 
 "Well," she said at last, quite lightly. "She's never done that to a farmer before."
 
@@ -206,10 +206,10 @@ Sigrun had seen it. He knew she had. She didn't say anything for a while.
 
 ---
 
-He rode home on the wool bales in the dark, two days, and on the second night the cart stopped at the Ram's Head and he lay awake in the loft above the stable with Tuft and Fell snoring on either side of him, and thought about the black water, and a long line of dead chiefs falling slowly through it side by side forever.
+He rode home on the wool bales, the best part of three days, and on the second night the cart stopped at the Ram's Head and he lay awake in the loft above the stable with Tuft and Fell snoring on either side of him, and thought about the black water, and a long line of dead chiefs falling slowly through it side by side forever.
 
 He thought about two hands on an urn, and a young man standing behind them with his head bowed.
 
 He thought about a great gold eye coming round, slowly, and resting on him, as if it were trying to remember something.
 
-He didn't sleep until nearly dawn. When he did, he dreamed he was standing on the black stone at the edge of Coldtarn, and the water was rising, and three enormous shapes were coming up through it from very far below, and he woke with his heart going like a drum.
+He didn't sleep until nearly dawn. When he did, he dreamed he was standing on the black stone at the edge of Coldtarn, and the water was rising, and three enormous shapes were coming up through it from very far below.

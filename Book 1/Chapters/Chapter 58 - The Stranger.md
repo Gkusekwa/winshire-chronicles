@@ -35,7 +35,7 @@ He didn't get off Morrow this time. He sat on the old black dragon's neck on the
 
 "You want me to go into the Ram's Head."
 
-"I want somebody to." Hallam looked away south. "I'd go myself. Morrow won't let me. Says I'm too old to be a carter." "She's right."
+"I want somebody to." Hallam looked away south. "I'd go myself. Morrow won't let me. Says I'm too old to be a carter. She's right."
 
 "Why me?"
 
@@ -263,7 +263,7 @@ On the hundred-and-twenty-sixth day Aurveth took him high.
 
 He'd asked her to. He wanted to see the road again, the black road from the Ram's Head down to the ice opposite the island. He wanted to see how far it had come. She went up from the Scar in long slow circles, the way she had before, until the cold was in his teeth and the whole of the Marches lay under them, white and brown now with the snow going off, and the Wend a long brown flood.
 
-The tents had come further. You could see them strung down the Way, dark on the brown, through the Fellwood's edge and over the hills behind Harrow's End. Much nearer the river than before.
+The tents had come further. A new camp below the Ram's Head, astride the Way, and fires at the Fellwood's edge. Nearer the river than before.
 
 *Look the other way,* said Aurveth.
 

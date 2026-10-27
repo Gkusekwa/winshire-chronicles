@@ -137,7 +137,7 @@ The little green one. The one Haverly had seen in the burned field above Harrow'
 
 She looked down at the hobnailed boot-prints, kneeling beside the stones.
 
-*A farmer,* she thought, and set the thought down carefully, the way you put your foot down on ice you don't trust. *A farmer, from the far bank, in Marches boots. Who walked across the ice in the dark to the Old Ruin. And looked at the verse, and cut a length of the hunters' chain, and knelt by my fire. And followed the lion to the oaks, and heard it, and backed away.*
+*A farmer,* she thought, and set the thought down carefully, as you put your foot down on ice you don't trust. *A farmer, from the far bank, in Marches boots. Who walked across the ice in the dark to the Old Ruin. And looked at the verse, and cut a length of the hunters' chain, and knelt by my fire. And followed the lion to the oaks, and heard it, and backed away.*
 
 *And had a dragon's scale in his coat.*
 
@@ -211,7 +211,7 @@ If she said it, it would go up. To Rowan. To the inner circle. To whoever wrote 
 
 Pell looked up at her then.
 
-He looked at her, with his tired old soldier's face, over the rim of his cup. She held his eyes. She'd never lied to him. Not once in two years. She'd never lied to the orders in her life.
+He looked at her, with his tired old soldier's face, over the rim of his cup. She held his eyes. She'd never lied to him. Not once in two years. A lie to Ottery on a frozen shore was one thing. This was the orders.
 
 "Only the lion," said Pell.
 
@@ -224,5 +224,3 @@ He looked at her a moment longer. Then he looked back at his cup.
 She went. Across the yard, toward the Long Barn, with the frost crunching under her boots and her back very straight and her face very still. She didn't look back. At the door of the barn the grey cat that nobody owned was sitting in the straw, washing one enormous paw. It stopped washing as she came past, and looked up at her with its yellow eyes.
 
 She went in and picked up the fork.
-
-At the bottom of her chest in the dormitory, wrapped in a shirt, the scale was still warm. She'd checked before she came out. She'd put her hand on it in the dark, under the shirt, and felt the heat come up into her palm, steady, like something that wasn't going to go out.

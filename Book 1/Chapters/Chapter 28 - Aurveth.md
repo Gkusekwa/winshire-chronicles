@@ -302,7 +302,7 @@ A great grey cat.
 
 Iron grey. Grey-gold on the flanks. With a mane round its head like a cloud.
 
-He saw them pass it. Aurveth and her rider. In the picture. Not flying; walking. They were walking over the bridge, the dragon and the man, on the white road among all the people, and the man was walking at her shoulder with his hand on her neck. He couldn't see the man's face. Where it should have been was like a place in a painting that's been rubbed out with a thumb. But he saw the man stop, as they came level with the tower steps. He saw him turn toward the great grey cat lying there in the sun.
+He saw them pass it. Aurveth and her rider. In the picture. They were walking over the bridge, not flying, the dragon and the man, on the white road among all the people, and the man was walking at her shoulder with his hand on her neck. He couldn't see the man's face. Where it should have been was like a place in a painting that's been rubbed out with a thumb. But he saw the man stop, as they came level with the tower steps. He saw him turn toward the great grey cat lying there in the sun.
 
 And bow.
 

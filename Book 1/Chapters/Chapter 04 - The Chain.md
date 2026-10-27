@@ -6,7 +6,7 @@ Part: Part One: Two Banks
 Beats: Calder helps Bel and Joss clear the burned barns. Joss swears he'll find his stolen greys. Clan riders come to look, and among them is Teo Varr, the chief's younger son, furious that anyone thinks the Clan did this. Teo notices how Calder calms Joss's terrified mare. Calder nearly shows him the chain, and doesn't.
 Echo of the other's story: Across the river, knights ride the bank road in force for the first time in years.
 Status: first draft
-Draft notes: The morning after the raid, the same morning as Chapter 3. Old Tolly from the Staithe is poking about the ashes (he spent the night at the Staithe and came up by boat after dawn; in Chapter 3 he has the cart news secondhand from Penner's lad). Wren comes along; she isn't afraid of the dragon overhead, which sets up Chapter 22. Lisska flies over with Imra; Calder doesn't know their names yet. Joss's surviving beast is a young dray-mare called Sorrel who was out in the far paddock. New: Joss and Bel's children, Pip (6) and Nan (4).
+Draft notes: The morning after the raid, the same morning as Chapter 3. Old Tolly from the Staithe is poking about the ashes (he spent the night at the Staithe and came up by boat after dawn; in Chapter 3 he has the cart news secondhand from Hollin's lad). Wren comes along; she isn't afraid of the dragon overhead, which sets up Chapter 22. Lisska flies over with Imra; Teo names them both; Calder meets them in Chapter 6. Joss's surviving beast is a young dray-mare called Sorrel who was out in the far paddock. New: Joss and Bel's children, Pip (6) and Nan (4).
 Magic touches: Teo's Varrhold horse-master uses settling-words; Calder only talks.
 notes -->
 
@@ -42,7 +42,7 @@ Joss was the one he was worried about.
 
 Joss had been out in the far paddock since sunrise with the only beast the raiders hadn't got: a young dray-mare called Sorrel, three years old, the colour of wet sand. She'd been loose in the paddock under the alders all night with nobody to see her, and she'd heard everything, and smelled everything, and now she stood in the far corner with her head up and her whole hide shivering in long ripples, and if anyone came within ten paces she went up on her hind legs and screamed.
 
-Dray-beasts were not horses. People who didn't know them called them horses because they had four legs and you could put a collar on them, the way people who didn't know dragons called them big lizards. A grown dray-beast stood eight feet at the shoulder and more, taller than a man could reach, three times the weight of the biggest horse, and could pull a loaded wain out of a ditch that would drown a team of oxen. It had a long, soft, heavy face like a sad old man's, and small round ears, and a way of looking at you that made you feel it had been thinking about something for a long time and was about to tell you. Some of the old farmers swore their beasts understood them without any bond at all. Calder had never believed it. He'd also never said it out loud, in case one of them heard.
+Dray-beasts were not horses. People who didn't know them called them horses because they had four legs and you could put a collar on them, just as people who didn't know dragons called them big lizards. A grown dray-beast stood eight feet at the shoulder and more, taller than a man could reach, three times the weight of the biggest horse, and could pull a loaded wain out of a ditch that would drown a team of oxen. It had a long, soft, heavy face like a sad old man's, and small round ears, and a way of looking at you that made you feel it had been thinking about something for a long time and was about to tell you. Some of the old farmers swore their beasts understood them without any bond at all. Calder had never believed it. He'd also never said it out loud, in case one of them heard.
 
 Joss had raised Sorrel from the first night. Her mother had been one of the greys. Now Joss stood at the paddock gate with a halter in his big hands and tears running down his face, and didn't seem to know they were there.
 
@@ -56,7 +56,7 @@ Joss had raised Sorrel from the first night. Her mother had been one of the grey
 
 "You don't. You're just saying it."
 
-That was true. Calder didn't say anything. Behind them, Bel was calling the children; behind that, somebody was laughing too loudly at nothing.
+That was true. Calder let it stand. Behind them, Bel was calling the children; behind that, somebody was laughing too loudly at nothing.
 
 "Let me try," Calder said.
 
@@ -170,7 +170,7 @@ There was no point pretending. "I saw it."
 
 "Nobody asked."
 
-Teo laughed again, but it was shorter this time. "No. Nobody would, would they. Not you." He wasn't being unkind. He looked like he was trying to work something out. "The Clan doesn't use carts, Fenn. We don't need them. And we don't take beasts to the river, because there's nothing across the river for us but knights." He looked over the water at the far bank, at the low brown line with Greyhold's grey smudge on it, and Calder followed his look.
+Teo laughed again, but it was shorter this time. "No. Nobody would, would they. Not you." He wasn't being unkind. He looked like he was trying to work something out. "The Clan doesn't use carts, Fenn. We don't need them. And we don't take beasts to the river, because there's nothing across the river for us but knights." He looked over the water at the far bank, at the low brown line with Greyhold's grey smudge far down it, and Calder followed his look.
 
 There were riders on the Hearthmere bank road. A long column of them, small at this distance, going north at a steady pace with the sun on their helmets and a banner at the front he couldn't read, and out on the water a long patrol boat with six oars going, pulling hard upriver against the current, toward Upper Rush, toward them, as if there were still something to be done.
 
@@ -226,7 +226,7 @@ He walked a while.
 
 "Because some things," he said at last, "once you've given them to somebody, you can't take them back. And you don't know what they'll do with them. And then it's your fault, whatever they do."
 
-Wren thought about that for a long time. The river went by on their left, wide and dark and smooth. Across the water the lanterns were coming out on Greyhold's wall, one after another, small and steady.
+Wren thought about that. The river went by on their left, wide and dark and smooth. Across the water the lanterns were coming out on Greyhold's wall, one after another, small and steady.
 
 "But it's your fault if you don't, too," she said. "Isn't it? Whatever happens."
 

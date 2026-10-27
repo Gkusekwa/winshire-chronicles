@@ -34,7 +34,7 @@ It was old. Everybody knew it was old. It had been old when Maren came to Greyho
 
 He came every morning to sit with it. Maren had seen him every day since she'd been on the midden. A tiny bent old man, ninety-one years old, with no teeth and hands like bundles of twigs, who came across the yard at dawn on two sticks and lowered himself onto a stool in the corner of Dun's stall and sat there all morning, talking to it. A word here and there. *Cold today, old lad.* *Rain coming.* *Vasey's broken his wrist, the fool.* And Dun would lie in the straw with his great white face toward the old man, and breathe, and once in a while make a sound in his chest like a cart going over a bridge.
 
-On the fifty-sixth morning she came into the barn with the barrow before the bell and Merrow was already there, on his stool, in the dark. He hadn't lit the lantern. He was sitting with one hand on Dun's face. Against the old ox's belly, in the straw, lay the warming-stone Grieve had begged off the infirmary at the first cold nights, still giving out its heat.
+On the fifty-sixth morning she came into the barn with the barrow before the bell and Merrow was already there, on his stool, in the dark. He hadn't lit the lantern. He was sitting with one hand on Dun's face. Against the old ox's belly, in the straw, lay the warming-stone Grieve had begged off the infirmary at the first cold nights, still giving out its heat, and, curled beside it, the cat nobody owned.
 
 Dun wasn't breathing.
 
@@ -52,7 +52,7 @@ They carried him to his bed in the old knights' lodging by the north wall, Griev
 
 Grieve wept. Maren had never seen him weep. She'd never seen him do anything but stand at the end of the barn with his arms folded and look disgusted. He stood by Merrow's bed with his bald head bowed and his hands hanging at his sides and wept like a child, without making a sound, and nobody said anything.
 
-The Long Barn was silent that night. She went in to do evening muck and every beast in it was awake, and still, and silent. The hounds lay in their stalls with their chins on their paws. The greyharts stood with their heads down. Kesh sat on her perch with her feathers flat and didn't bate. Even Captain Thorne's boar lay at the back of its stall with its small red eyes open, looking at the empty stall where Dun had been. And in the straw of that stall, curled up against the place where the great grey body had lain, was the cat nobody owned.
+The Long Barn was silent that night. She went in to do evening muck and every beast in it was awake, and still, and silent. The hounds lay in their stalls with their chins on their paws. The greyharts stood with their heads down. Kesh sat on her perch with her feathers flat and didn't bate. Even Captain Thorne's boar lay at the back of its stall with its small red eyes open, looking at the empty stall where Dun had been. And in the straw of that stall, curled up against the place where the great grey body had lain, was the cat nobody owned, still.
 
 *It picks,* Grieve had said. *Picks the beast whose rider's going to have a bad day tomorrow.*
 
@@ -86,7 +86,7 @@ The archive was dark except for the lamp over the long table. Hale was sitting u
 
 She sat.
 
-He poured from the jar into the cup, slowly, carefully, the way you pour when you've had enough that you have to think about it. It was the brown spirit they made in the south of Hearthmere from apples. She could smell it across the table. He pushed the cup toward her. She shook her head. He took it back and drank from it himself.
+He poured from the jar into the cup, slowly, carefully, as you pour when you've had enough that you have to think about it. It was the brown spirit they made in the south of Hearthmere from apples. She could smell it across the table. He pushed the cup toward her. She shook her head. He took it back and drank from it himself.
 
 He wasn't drunk. Not the way the river was drunk, on fair nights at the Kettle, falling down in the road. He'd never be that. But something in him had come loose. Something that was always held, very tight, like a rope on a cleat, had been let out a little. She could see it in his face. In the way he sat. In the way his big hands lay on the table.
 
@@ -248,9 +248,7 @@ She stopped on the road. It saw her. Its head turned.
 
 She didn't go any closer. She sat down where she was, on the cold stone of the old road, in the frost, with her hands open on her knees. She'd counted the paces from the arch without meaning to. Ten.
 
-Its lip went back. She didn't move.
-
-It came down.
+Its head came down.
 
 They stayed like that for an hour, the lion lying in the arch of the tower under the verse, and the girl sitting on the frosty road of the old realm ten paces off, with nothing between them. She looked at the verse over its head. She couldn't read it in the dark. She didn't need to.
 

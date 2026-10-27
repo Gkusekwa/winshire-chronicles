@@ -12,7 +12,7 @@ Draft notes: Days nineteen to twenty-four. Decided here (proposals):
 - Holding three wears on him: headaches, nosebleeds, and nights when he dreams the riders' deaths from inside. On bad days he can't tell whose anger is whose.
 - Kharrak's first flight since the battle, from the ledge of Crow Scar on day twenty-one. He falls, catches himself above the treetops, and flies a short circuit. After that he's a different animal.
 - The charcoal burners at the edge of the Fellwood under Crow Scar: old Hesketh Coley and his daughter Rue, who sell Calder bread and cheese and don't ask questions, because Rue's man was killed at the mill fight. They bring river news; Weir's boy runs his mouth on both banks.
-- The echo: Rue says the girl on the island was a Greyhold student. She failed her knight's trial because she wouldn't harm the monster. The story on the ferry is that it tried to kill her three times and she never once struck it.
+- The echo: Rue says the girl on the island was a Greyhold student. She failed her knight's trial because she wouldn't harm the monster. The story on the ferry is that it went for her a dozen times and she never once struck it back.
 - Why him? Kharrak: "You talked." Lisska: "You said come here. Nobody else said anything." Aurveth: it felt like falling toward a fire in the cold, a pull, not a choice; he was "open", the way a door is. None of them knows why a door would be open to three. Aurveth's first partner: she says he lived "before the Clan was the Clan" and that she has lost his name, which frightens her more than she'll say.
 Magic touches: old Hesketh says the burner's words over the charcoal mound.
 notes -->
@@ -27,7 +27,7 @@ He'd believed that all his life. He was trying to believe it now.
 
 The days at Crow Scar had a shape, after a while, the way days do anywhere if you stay long enough.
 
-He woke at first light because the crows did. Hundreds of them, on the ledges above and below the cave, all going up at once into the grey with a noise like the whole crag tearing. He lay in the mouth of the cave on his blanket and watched the mist go off the Fellwood the way a sheet comes off a bed, and the treetops come up out of it, green and black and endless, all the way to the edge of the sky.
+He woke at first light because the crows did. Hundreds of them, on the ledges above and below the cave, all going up at once into the grey with a noise like the whole crag tearing. He lay in the mouth of the cave on his blanket and watched the mist go off the Fellwood as a sheet comes off a bed, and the treetops come up out of it, green and black and endless, all the way to the edge of the sky.
 
 Aurveth slept against the back wall. Kharrak lay in the mouth of the cave with his torn wing stretched out in the sun. Lisska went out before dawn and came back at sunrise with something in her claws, a deer, a hare, once a great grey owl that she'd been very proud of and that nobody would eat. They ate. He ate the bread and cheese he'd bought from the charcoal burners, and drank from the spring that came out of the rock at the back of the cave, cold as iron. He slept again, mostly, through the middle of the day, and his ribs mended, and his leg.
 
@@ -81,7 +81,7 @@ He was sitting on the woodpile. He looked up.
 
 He took it.
 
-"She came back on the new moon in an old man's punt with her arm all cut open and nothing in her hands," said Rue. "And they failed her. Put her to mucking out the stables. Weir's boy says she's the talk of the ferry." She sat down on a log across from him. "He says the monster's real. He says it's a lion, if you can credit that, a lion the size of a hay wain, and it tried to kill her. Three times. On the shore, and at a stream, and at the old tower all night, trying to get in at her." She shook her head. "And she never once struck it back. Had a sword, had fire, Weir's boy says, and she never once struck it. And she could have taken a bit of it home, a hair or a claw or something, to show them, and she wouldn't. Wouldn't take anything off it. So they failed her."
+"She came back on the new moon in an old man's punt with her arm all cut open and nothing in her hands," said Rue. "And they failed her. Put her to mucking out the stables. Weir's boy says she's the talk of the ferry." She sat down on a log across from him. "He says the monster's real. He says it's a lion, if you can credit that, a lion the size of a hay wain, and it went for her a dozen times, and she never once struck it back. Had a sword, Weir's boy says, and never used it." She shook her head. "And she could have taken a bit of it home, a hair or a claw or something, to show them, and she wouldn't. Wouldn't take anything off it. So they failed her."
 
 Calder sat on the woodpile with the bread and cheese in his lap.
 
@@ -103,7 +103,7 @@ He thought about a girl in river grey on a stream bank, not moving. He'd thought
 
 Now he thought: *it tried.*
 
-Three times. And she'd stood there with a sword in her hand and never struck it back.
+A dozen times, Rue said. And she'd stood there with a sword in her hand and never struck it back.
 
 He'd never met her. He didn't know her name. She was a Hearthmere knight-student, and Hearthmere knights stood on their wall and watched while the Clan burned Saltreach villages and never crossed, and he'd never thought about one of them for more than a moment in his life. But he thought about her all the way back through the Fellwood, under the great oaks, in the green dark.
 
@@ -175,7 +175,7 @@ A silence.
 
 They tested it, after that. Lisska did, mostly; Lisska would test anything. She flew out from the crag, straight, west, and talked the whole way, the way she always did, *can you hear me now? Now? Now?*, and he sat on the ledge and listened and said *yes, yes, yes,* and then her voice began to go thin. Thinner. A murmur. A whisper, like a voice in another house. And then nothing.
 
-But she was still there. He could feel her. Far off, the way you feel a fire in the next room through a wall. Not words. Just her. Lisska, out there, somewhere over the Fellwood, bright and curious and a little bit worried, wondering if he could still hear her.
+But she was still there. He could feel her. Far off, as you feel a fire in the next room through a wall. Not words. Just her. Lisska, out there, somewhere over the Fellwood, bright and curious and a little bit worried, wondering if he could still hear her.
 
 *Three leagues,* said Aurveth, when Lisska came back. *Perhaps four. Speech goes further for some pairs than others. Sigrun and I could speak across the Scarfell, on a clear day. But that was after fifty years.* She was quiet a while. *The feeling goes further. The feeling, I think, goes everywhere. I felt Ragnald die from the other side of the mountain. I was asleep. I woke screaming.*
 
@@ -241,7 +241,7 @@ The cave was very quiet.
 
 He lay awake after that.
 
-"Your first," he said, at last, into the dark. "Your first rider. Before Ragnald. You told Sigrun you wouldn't say who. You told me you've been bonded three times." He turned his head toward the back of the cave. "Who was it?"
+"Your first," he said, at last, into the dark. "Your first rider. Before Ragnald. Sigrun said you'd never answer. You told me you've been bonded three times." He turned his head toward the back of the cave. "Who was it?"
 
 The silence went on so long he thought she wasn't going to answer.
 
@@ -249,7 +249,7 @@ The silence went on so long he thought she wasn't going to answer.
 
 He waited.
 
-*That is the truth. I don't know. I have told Sigrun, and the hold, and everyone who has ever asked, that I would not say. That was easier than the truth. The truth is that I can't.* Her voice had changed. It was still slow. But there was something under it that he'd never heard there before, and it took him a moment to know what it was. *I remember that there was one. I remember the bond, the shape of it, the warmth of it, a long time. A very long time. Longer than Ragnald and Sigrun together. I remember that he lived before the Clan was the Clan. Before the hold. Before the caves. I remember that we went along a road together, a great road, with stones in it, and over a bridge.*
+*That is the truth. I don't know. I have gone quiet for Sigrun, and the hold, and everyone who has ever asked. That was easier than the truth. The truth is that I can't.* Her voice had changed. It was still slow. But there was something under it that he'd never heard there before, and it took him a moment to know what it was. *I remember that there was one. I remember the bond, the shape of it, the warmth of it, a long time. A very long time. Longer than Ragnald and Sigrun together. I remember that he lived before the Clan was the Clan. Before the hold. Before the caves. I remember that we went along a road together, a great road, with stones in it, and over a bridge.*
 
 *And I don't remember his name. Or his face. Or how he died, or when, or where. I reach for him and he goes down, like a stone in Coldtarn. Further every year.*
 
@@ -268,5 +268,3 @@ Against his legs, Lisska had gone very still. In the mouth of the cave, Kharrak 
 He lay on his back on the cold floor of the cave and looked up into the dark and thought about a road with stones in it, and a bridge, and an island in a river with the stumps of old piers drowned round it, and a girl in river grey sitting on a stream bank, not doing anything at all.
 
 *Like robbing it,* Rue had said.
-
-It stayed with him.

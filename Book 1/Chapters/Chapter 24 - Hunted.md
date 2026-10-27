@@ -10,7 +10,7 @@ Carried forward: From Chapter 22: the elders gave him till the new moon (day fou
 Draft notes: Days thirteen to eighteen. Decided here (proposals):
 - Callers: Gorm Askell on day thirteen; the other three on day fourteen, the new moon. On the page they fall in two scenes. The Clan: Sten Raske at the gate on the morning of day fourteen, with Gorm Askell's visit of the afternoon before recalled as he rides up. The outsiders: Corrin Ash in the afternoon and the coin man at dusk, one scene, with Calder on the mounting block between them.
   - Gorm Askell for Arn: the dragons are Clan beasts and must come to Varrhold; Calder can come with them as a "keeper".
-  - Ulric's red-bearded man, named here as Sten Raske: silver, and the champion's place for the farmer if he brings them east. Arn has about two hundred spears, Ulric about four hundred and fifty; every other bonded pair has shut itself in the Roosts under the no-kin law, so these are the war's only three dragons.
+  - Ulric's red-bearded man, named here as Sten Raske: silver, and the war-leader's place for the farmer if he brings them east. Arn has about two hundred spears, Ulric about four hundred and fifty; every other bonded pair has shut itself in the Roosts under the no-kin law, so these are the war's only three dragons.
   - A Saltreach sellsword officer from Captain Idris Vey's company, out of Wendmouth and hiring at Cotter's Cross: a contract and a wage, under the Tide Council's standing commission and seal. (The Council itself hasn't heard yet.)
   - A soft-spoken stranger in a good coat who pays in new silver. Each coin has the ring of six dots struck small on its edge. Calder knows the mark. He doesn't take it.
 - The plan, made on the new-moon night for the night after (day fifteen): Hob is to drive Ada and Wren in his cart to Calder's sister Bel at Upper Rush, while Calder takes the dragons up the Drover's Way toward the Scarfell. Only Hob, Ada and Wren know the road and the hour.
@@ -41,17 +41,17 @@ Ulric's red-bearded man came on the fourteenth morning, down the Drover's Way of
 
 "Same as the last one."
 
-"Not the same at all." He grinned through the red beard. "Arn wants them back in the caves on chains, with you mucking out after them for a wage. Ulric's seen what you are. Three bonds. There's not a hold in the six kingdoms has heard of it. That's not a keeper, Fenn. That's a champion."
+"Not the same at all." He grinned through the red beard. "Arn wants them back in the caves on chains, with you mucking out after them for a wage. Ulric's seen what you are. Three bonds. There's not a hold in the six kingdoms has heard of it. That's not a keeper, Fenn. That's a war-leader."
 
 He flicked the cloth off the pack-horse. Another chest. He didn't bother to open it this time.
 
-"Silver. For the barley I'll not be getting from that mill. And for you, the champion's chair at Ulric's table at Skarrow, the one Sigrun Holm sat in, gods rest her, with those three behind it." He leaned on the gate. "Arn's got two hundred spears. Ulric's got four hundred and fifty. Every bonded pair in the Roosts has shut itself in rather than fight kin, so there's three dragons in this war, and you've got all of them. Bring them east and it's over by midwinter. You'd save more lives than any man in the Marches."
+"Silver. For the barley I'll not be getting from that mill. And for you, the war-leader's place at Ulric's table at Skarrow, the one Sigrun Holm sat in, gods rest her, with those three behind it." He leaned on the gate. "Arn's got two hundred spears. Ulric's got four hundred and fifty. Every bonded pair in the Roosts has shut itself in rather than fight kin, so there's three dragons in this war, and you've got all of them. Bring them east and it's over by midwinter. You'd save more lives than any man in the Marches."
 
 *He's not lying,* said Aurveth, very quietly. *That is the trouble with him. Ulric would win, with us. And there would be a great many fewer pyres on the Scarfell this winter.*
 
 *Then go,* said Kharrak. *Go east. Burn Arn. Burn them all.*
 
-*Ulric's champion took Dag off your back, child. Sigrun took him. I took him. I have his blood in my teeth still. And you took Sigrun. Whose side would you like to be on?*
+*Ulric's war-leader took Dag off your back, child. Sigrun took him. I took him. I have his blood in my teeth still. And you took Sigrun. Whose side would you like to be on?*
 
 Kharrak said nothing at all. Calder felt the red tide go still, and something underneath it, much worse, come up.
 
@@ -343,7 +343,7 @@ He'd never been on anything bigger than a dray-mare. He climbed onto her neck in
 
 He was higher than the roof of the house. He could see the whole valley in the starlight: the farm, the house with its shutters closed and a crack of light at the edge, the black field, the village, the black heap of the mill, the river going silver beyond it, the island in the middle of the river, dark.
 
-And up on the Way, above the ford, nothing. Just the dark under the trees, where the men were waiting.
+And away up the Way, where it climbed toward the moor, nothing. Just the dark, and somewhere in it the men who were waiting.
 
 *Ready?* said Aurveth.
 

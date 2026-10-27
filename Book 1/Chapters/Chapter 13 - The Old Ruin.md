@@ -7,7 +7,7 @@ Beats: Maren on the island. The bridge-fort, the broken arches, the verse carved
 Echo of the other's story: Smoke rises across the river. Something has happened at the ford.
 Status: first draft
 Draft notes: From dusk on day 0, the night of the fair (Chapter 11's ending), to noon on day 4, when the ford meeting was set (smoke over the hills). She hears no breathing on nights 1 to 4. Decided here (proposals):
-- The verse under the tower arch, in the old script of the Oneroad milestones, which Maren can half read (her father taught her the old letters from the river-watch boundary stones). Weathered; she copies what she can. Its last line, "keep the watch below and do not ask," is the knights' oath, older than Greyhold.
+- The verse under the tower arch, in the old script of the Oneroad milestones, which Maren can half read (her father taught her the old letters from a milestone on the Hearthmere side). Weathered; she copies what she can. Its last line, "keep the watch below and do not ask," is the knights' oath, older than Greyhold.
 - The hunters' chain carries the ring of six dots; Maren keeps one cut link as proof. The reader has seen the mark on Calder's chain (Chapters 2, 10); Maren hasn't.
 - The north end of the island is silent: no birds. She doesn't go there yet.
 Magic touches: Edric learned the old letters from a Reader of the Isvaren colleges (iron ring) copying stones; Hanna's keeping-words hold the bread.
@@ -138,7 +138,7 @@ She hadn't been down there yet. She'd been all round the fort, and down both sho
 
 It was the quiet.
 
-On the rest of the island there were birds. Not many, but some: the wren on the spit, the robin in the fort, rooks going over, a woodpecker somewhere. Every time she came up the slope toward the north end, toward the thick trees past the traps, the birds stopped. Gradually, the way the noise of a village fades as you walk away from it. Until there was nothing at all. No birdsong, no rustle, no wind even, somehow, though she could see the tops of the trees moving.
+On the rest of the island there were birds. Not many, but some: the wren on the spit, the robin in the fort, rooks going over, a woodpecker somewhere. Every time she came up the slope toward the north end, toward the thick trees past the traps, the birds stopped. Gradually, like the noise of a village fading as you walk away from it. Until there was nothing at all. No birdsong, no rustle, no wind even, somehow, though she could see the tops of the trees moving.
 
 Just a deep, green, waiting quiet, like the inside of a held breath.
 
@@ -182,6 +182,6 @@ Behind her, on the island, every bird went quiet at once.
 
 She didn't turn round. She stood very still, with her back to the trees, and the wet shirt in her hands, and counted. She got to forty before the robin in the fort started singing again.
 
-Whatever had happened across the river, and whatever was at the north end of the island, she knew two things, standing on the spit at noon on the fourth day with the smoke going up over the Scarfell: that both of them had just started, and that she was the only person on either bank who could see them both at once.
+Whatever had happened across the river, and whatever was at the north end of the island, she knew, standing on the spit at noon on the fourth day with the smoke going up over the Scarfell, that both of them had just started.
 
 She wrung out the shirt, and went up to the fort, and wrote it down.

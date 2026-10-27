@@ -136,7 +136,7 @@ Pell wrote on a scrap from his saddlebag, leaning on the pommel. Haverly held up
 
 ---
 
-They waited at the bend for most of an hour, and while they waited the roadblock went on doing what it was doing, politely, under the eyes of a Greyhold patrol.
+They waited at the bend for most of two hours, and while they waited the roadblock went on doing what it was doing, politely, under the eyes of a Greyhold patrol.
 
 They let the drovers through, after counting the sheep. They let the pedlar through, after turning out his entire handcart in the road and putting it all back again. They let the family through, cow and all, after the cow had been looked at from every side by a man who plainly knew cattle. Then they came to the carrier's dray, and the crate.
 
@@ -214,7 +214,7 @@ Kesh came back out of the south at a long slant, low over the trees, and landed 
 
 He didn't say anything for a while.
 
-"Knight-Captain Rowan's compliments," he said at last. "The licence is genuine. The magistrate at Ashford confirms it was issued at the request of the Millbrook carriers' guild, in response to the raids, and the men holding it are guild road wardens. We're to let them be." He folded the scrap very small and put it in his coat. "Patrol. We ride to Northwatch."
+"Knight-Captain Rowan's compliments," he said at last. "The licence is genuine. Greyhold had the magistrate's copy yesterday, under his seal, issued at the request of the Millbrook carriers' guild, and the men holding it are guild road wardens. We're to let them be." He folded the scrap very small and put it in his coat. "Patrol. We ride to Northwatch."
 
 "Instructor," said Tobin.
 

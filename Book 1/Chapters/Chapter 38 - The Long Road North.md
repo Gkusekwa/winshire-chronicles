@@ -54,7 +54,7 @@ Calder felt him. All the time. Through the rust-red mark, close, prowling in the
 
 "I know."
 
-*He says you could have died. He says the men on the quay could have killed you and then we'd all have died, all three of us, because of you, because one life between two, and he'd have died in a forest on the coast for nothing, because you were stupid. He says it over and over. Not to you. To me. He won't say it to you.*
+*He says you could have died. He says the men on the quay could have killed you and then we'd all have died, all three of us, because of you, because one life between two, and he'd have died in a forest on the coast for nothing, because you were stupid. He says it over and over. He says it to me. He won't say it to you.*
 
 "Why not?"
 
@@ -74,9 +74,11 @@ Aurveth stopped him.
 
 He felt her do it. A jolt through the bronze mark, like a hand closing on his arm. A league off in the forest, lying up in the dark under the oaks, she'd lifted her head.
 
-*Stop,* she said. *There. By the road. On your left. The stone.*
+*Stop,* she said. *Here. I know this place. There is something by the road. Look.*
 
-He stopped. Mabbin stopped beside him, and dropped her head, and began to crop the bracken.
+He looked, and found it on his left: a stone.
+
+Mabbin stopped beside him, and dropped her head, and began to crop the bracken.
 
 *Go to it. Please. Clear the moss.*
 
@@ -180,7 +182,7 @@ He took Mabbin's halter and walked on, past the camp, up the road, north, and di
 
 There were two more camps on the road. One on the fifth day, still in the Wendwood, and one on the tenth, in sight of the hills above Cotter's Cross. They were the same. Soup and blankets at the front. Fields at the back. Young men with rings, and beasts with collars, drilling. In the fields one man in grey would call the time, and fifty beasts would move to it, every one, as if they had all been put on the same lead.
 
-He stopped at each one, the way anyone would, and looked. And walked on.
+He stopped at each one and looked. And walked on.
 
 At the second camp, on the fifth day, there was a hound at the end of the line nearest the road. A big brindled thing, on a short chain, beside a boy of sixteen with a ring on his neck. It was trotting in step with the boy, eyes on nothing, the way they all did. And as Calder stood at the top of the road looking down, a shadow went over the field.
 
@@ -244,7 +246,7 @@ They sat there for a while. The horse drank. Mabbin drank. The carter ate.
 
 "No."
 
-"Hearthmere side. Little place, a league in from the river, up past Greyhold, by Redwatch." The carter tore off some bread. "Raided. A fortnight back, near enough. Masked men up the creek in barges at dusk, a crowd of them. Took every beast in the place. Old fellow's ox-beast, the smith's hound, and a pair of the crown's own greyharts out of the paddock. Didn't touch a soul. Didn't burn a house. Just the beasts. Down the creek and onto the Wend and gone, in the dark, and not a river-watch boat on the water to stop them." He chewed. "Knights were there and all. A patrol. Eight of them. Couldn't do a thing."
+"Hearthmere side. Little place, a league in from the river, up past Greyhold, by Redwatch." The carter tore off some bread. "Raided. A fortnight back, near enough. Masked men up the creek in barges at dusk, a crowd of them. Took every beast in the place. Old fellow's ox-beast, the smith's hound, and a pair of the crown's own greyharts out of the paddock. Didn't touch a soul. Didn't burn a house. Just the beasts. Down the creek and onto the Wend and gone, in the dark, and not a river-watch boat on the water to stop them." He chewed. "Knights were there and all. A patrol. Seven of them. Couldn't do a thing."
 
 Calder thought of two great white shapes at the head of a drill, in a field behind a willow screen, with empty eyes.
 
@@ -412,7 +414,7 @@ Light came out into the yard. And a voice, high, clear, cracking:
 
 ---
 
-She came across the yard through the rain in her nightgown and her bare feet, the way she'd gone across the yard at home to Lisska on the night he left, and he went down on his bad knee in the mud and caught her.
+She came across the yard through the rain in her nightgown and her bare feet, the way she'd gone across the yard at home to Lisska on the morning he left, and he went down on his bad knee in the mud and caught her.
 
 She was heavier. She'd grown. Three weeks, and she'd grown. She put her arms round his neck so tight he couldn't breathe and put her face in his wet coat, and didn't cry, and didn't say anything, and he knelt in Joss's yard in the mud and the rain and held her and didn't say anything either.
 

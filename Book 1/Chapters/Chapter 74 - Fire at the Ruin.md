@@ -167,7 +167,7 @@ Corvin Vale turned his head and looked at Calder standing in the mouth of the pa
 
 He went at them.
 
-He didn't know why. Ten men with swords and he was a barley farmer with a knife. He went at them anyway, out of the passage into the chamber, straight across the stone disc at the man with the lantern, and he got two of them. The brand into one man's face and the man went down screaming. Joss's knife into the next, the way you'd stick a pig, low, under the coat, and the man folded over it.
+Ten men with swords and he was a barley farmer with a knife. He went at them anyway, out of the passage into the chamber, straight across the stone disc at the man with the lantern, and he got two of them. The brand into one man's face and the man went down screaming. Joss's knife into the next, low, under the coat, and the man folded over it.
 
 The small grey man lifted his hands.
 
@@ -233,7 +233,7 @@ Not the way his brother talked. Quietly, standing by the iron boss with the key 
 
 The ground moved.
 
-He felt it come up through the stone disc into his knees. Not the hum. Something bigger. A heave. As if the whole rock under the chamber had taken a breath.
+He felt it come up through the stone disc into his knees. Something bigger than the hum. A heave. As if the whole rock under the chamber had taken a breath.
 
 From the ledge, from the dark beyond the passage, a sound.
 
@@ -275,7 +275,7 @@ He felt Kharrak start to dig.
 
 Through the marks, through the rock, he felt it. Great claws in old stone. Tearing. The floor of the round room at the foot of the tower coming up in pieces. The fallen stone, the old earth, the steps of the stair. Kharrak tearing at it with his forefeet the way the lion had torn at the pit, all winter, at the stone over its kin. Digging down. Toward him.
 
-*I'm coming,* said Kharrak. Not to Calder. To the rock. *I'm coming.*
+*I'm coming,* said Kharrak, to the rock. *I'm coming.*
 
 Dust came down out of the dome of the chamber in a thin stream onto the carved stone.
 

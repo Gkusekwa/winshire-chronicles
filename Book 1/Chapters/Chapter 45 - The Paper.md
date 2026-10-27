@@ -15,7 +15,7 @@ Draft notes: Day eighty-eight, midwinter (full moon). Decided here (proposals):
   - Hearthmere's lamps that burn without oil, its licensed magic, its harvests and its wealth are drawn from it.
   - The orders' oath, "keep the watch below, and do not ask", is a jailer's oath. The knights stand guard over a prisoner and are not told.
   - "The bonded sit in front and the unchosen at the back, on top of a beast in chains. That is your kingdom."
-  - Proof that the old powers are waking: the farmer in the Marches whom three dragons chose in one night, and the monster on the island that a Greyhold girl sits with.
+  - Proof that the old powers are waking: the farmer in the Marches whom three dragons chose in one night. (Reede adds the monster on the island that a Greyhold girl sits with, from his own mouth: it isn't on the paper.)
 - Callis tries to arrest Reede. The crowd closes round Reede. Tam is in it, with the ring out on his coat. Stones, a brazier over, Callis knocked down on the ice, a skater's leg broken. Reede is gone in the confusion.
 - At dusk a herald from Ashford (eighteen leagues; the paper went up there too in the night) reads the crown's answer at the Kettle's door and at Greyhold's gate: "a lie, a slander against the crown and the orders, put about by enemies of the realm. Any person repeating it shall answer to the magistrate."
 - That midnight Maren stands on the wall with the whole school and sings the midwinter oath, and the words are different in her mouth.
@@ -54,7 +54,7 @@ She stood in the frozen yard with her hand on the paper.
 
 *The bonded sit in front, and the unchosen at the back, and all of them sit on top of a beast in chains. That is your kingdom.*
 
-At the bottom, two words. *One again.*
+At the bottom, two words. *One again.* Under them something smaller, that she didn't read.
 
 ---
 
@@ -64,7 +64,7 @@ She hadn't taken it down. She'd meant to. She'd stood there with her hand on it,
 
 Rowan came herself. Small and neat in her grey coat, down the north tower stair and across the yard, and the crowd of students round the gate parted for her without a word. She stood in front of the paper and read it, all of it, top to bottom. Her face didn't change at all.
 
-She reached up and pulled out the four nails, one after another, with her small neat fingers, and folded the paper in half, and in half again, and put it inside her coat.
+She reached up and pulled out the four nails, one after another, and folded the paper in half, and in half again, and put it inside her coat.
 
 "Breakfast," she said to the yard. Not loudly.
 
@@ -150,7 +150,7 @@ She thought of a black door at the end of the archive, three steps down, with no
 
 Reede lowered the paper.
 
-"There's more," he said. "Not on the paper. Something I've seen. Something you've all heard of." He looked out over the ice. "The old songs say that when the last great beast lies down below, the old powers go to sleep with it. And the old songs say that when the old powers come back, you'll know them. By signs." He let that go out over the crowd. "There are signs."
+"There's more," he said. "At the bottom. Something you've all heard of." He looked out over the ice. "The old songs say that when the last great beast lies down below, the old powers go to sleep with it. And the old songs say that when the old powers come back, you'll know them. By signs." He let that go out over the crowd. "There are signs."
 
 The crowd was very quiet.
 
@@ -158,7 +158,7 @@ The crowd was very quiet.
 
 A murmur. Bigger. *The dragon farmer.* She heard it go round the ice. *The farmer. Fenn. The one with three.*
 
-"And on the island in the river," said Reede, "the island the river folk won't land on, the Old Ruin, where the old road crossed the water, there's a beast. A great beast. Something out of the old songs. And it's woken this year, after longer than anyone can remember. And there's a girl from Greyhold who goes out to it across the river, and sits with it, and it lets her."
+"And something that isn't on the paper," said Reede. "Something I've seen. On the island in the river, the island the river folk won't land on, the Old Ruin, where the old road crossed the water, there's a beast. A great beast. Something out of the old songs. And it's woken this year, after longer than anyone can remember. And there's a girl from Greyhold who goes out to it across the river, and sits with it, and it lets her."
 
 He didn't look at her. He didn't need to. Seven hundred people did it for him.
 
@@ -212,7 +212,7 @@ When it was over, Reede was gone too.
 
 Nobody had seen him go. He'd been on the mill steps, and then the brazier went over and Callis went down, and then he wasn't on the mill steps. The mill door was shut. Nobody in Millbrook had seen him go through it, or anywhere else.
 
-The knights got Callis up. His collarbone was broken and his face was white and furious. Wynn knelt on the ice and said the setting-word over it, the one the gate knights were licensed for, and Callis swore at him all the way through, and the bone took it. The skater's leg was broken in two places. A child had been burned by the brazier. The bear had got loose in the confusion and gone off across the ice and into the Brackenwood dragging its chain, and the bear-men were going after it with dogs, and nobody tried to stop them.
+The knights got Callis up the bank. His collarbone was broken and his face was white and furious. Wynn knelt by him on the frozen grass and said the setting-word over it, the one the gate knights were licensed for, and Callis swore at him all the way through, and the bone took it. The skater's leg was broken in two places. A child had been burned by the brazier. The bear had got loose in the confusion and gone off across the ice and into the Brackenwood dragging its chain, and the bear-men were going after it with dogs, and nobody tried to stop them.
 
 The fair was over. People were going home. Quietly. In twos and threes, across the ice and up the bank and away along the River Road, not looking at the knights. The braziers were going out one by one. The fiddler had gone. The chestnut-sellers had gone.
 
@@ -236,11 +236,11 @@ From Ashford, eighteen leagues off, on the third lathered horse he'd had since m
 
 He rolled up the scroll. He looked round at the empty street, at the knights, at the overturned braziers on the ice behind them with the smoke still going up. He turned his horse and rode on toward Greyhold, to read it at the gate.
 
-So the paper had been on doors in Ashford too, before dawn, and the crown had its answer written by noon.
+So the paper had been on doors in Ashford too, before dawn, and the crown's answer had been on the road by morning. As if somebody had had it written already.
 
 *A lie,* thought Maren.
 
-She stood by the mill holding the horses in the dusk. She thought of a black door, three steps down, at the end of the archive, with no handle and a lock as big as a man's hand. She thought of a line in the old script at the top of a list of three hundred and eleven names. *From the closing.* She thought of Hale's big hand going to the ring of keys on his belt. *The Watch had a name for it.* She thought of the lion on the island, lifting its head, turning it, looking toward Greyhold, while the ground hummed under her like a struck bowl.
+She stood by the mill holding the horses in the dusk. She thought of a black door, three steps down, at the end of the archive, with no handle and a lock as big as a man's hand. She thought of a line in the old script at the top of a list of three hundred and eleven names. *From the closing.* She thought of Hale's big hand going to the ring of keys on his belt. *The Watch had a name for it.* She thought of the lion on the island, lifting its head, turning it, looking toward Greyhold, while the ground hummed under her, low, up through her boots.
 
 *It isn't a lie.*
 
@@ -277,5 +277,3 @@ The singing stopped. All at once, the way it always did, at the end.
 In the silence afterwards, Haverly turned his head and looked at her, beside him on the wall, in the torchlight. Kesh was on his fist with her hood off, very still, looking upriver.
 
 Maren looked upriver too.
-
-She thought of a scale wrapped in a shirt at the bottom of her chest, still warm.

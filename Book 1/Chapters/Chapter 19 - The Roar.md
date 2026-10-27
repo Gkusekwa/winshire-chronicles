@@ -8,8 +8,8 @@ Echo of the other's story: Three dragons scream across the water, and the sky ov
 Status: first draft
 Carried forward: From Chapter 17: the same night, day 8. She has heard the breathing for four nights (nights 5 to 8). Maren's skiff is gone; her cloak stinks of the hunters' honey smoke from stamping out the fire in the hollow; the beast's near forefoot has two loops of chain over it, one stake still through the end link. From Chapter 18: the roar Calder hears as the third bond takes is the one in this chapter.
 Draft notes: Decided here (proposals):
-- The three dragons' death-screams come across the water first (the riders dying, Chapter 18). The breathing in the north end stops. Then the lion comes down its path to the west shore, toward the sound and the fire.
-- First full sight of it, by starlight and the glow off the far bank: a lion, longer than a hay wain, about ten feet at the shoulder (nearly twice a man's height), taller than a dray-beast, grey-gold, with a mane gone grey at the roots like an old man's beard; eyes pale. It drags the chain and the one stake from its forefoot. It roars at the burning bank.
+- The three dragons' death-screams come across the water first (the riders dying, Chapter 18). The breathing in the north end stops. Then the lion comes down its path to the west shore, toward the water and toward her.
+- First full sight of it, by starlight and the glow over the island's trees: a lion, longer than a hay wain, about ten feet at the shoulder (nearly twice a man's height), taller than a dray-beast, grey-gold, with a mane gone grey at the roots like an old man's beard; eyes pale. It drags the chain and the one stake from its forefoot. It roars toward the burning bank, east, over the trees.
 - It smells the honey smoke on her. It comes at her slowly. The trailing stake jams in the broken stones at the landward end of the old bridge and pulls it up short, its head a sword's length from her and its throat open. She has Pell's sword up. She lowers it.
 - It strikes her anyway: one sweep of the free forefoot, claws half out. Three cuts down her left shoulder and upper arm; she's thrown into the west channel. She gets onto the stump of the first bridge pier and lies there.
 - The lion tears the stake out of the stones, and the iron opens the forefoot. It goes away south along the shore, limping, bleeding, with the chain still on it. That's the wound in Chapter 21.
@@ -26,7 +26,7 @@ Pell told her once, in the first month at Greyhold, that there are only two ways
 
 She was still sitting on the wet grass of the west shore when the dragons screamed.
 
-The fire on the far bank had grown. The mill was a single great torch now, its wheel standing black against the middle of it, and the fire had gone up the hill behind it, into the fields, in long running lines where the stubble had caught, so that the whole slope above Harrow's End was laced with orange like the cracks in a coal. Three shapes had been going round in the air above it. Two big, one small. She'd watched them meet, and tear, and come apart, and come together again, with fire going out of them in streams that lit the river from bank to bank. She'd seen one fall, and another. Then the small one, coming in low, and something happening to it, and it going down too.
+The glow over the trees had grown. It stood up behind the island now, east, the whole underside of the sky orange with it, and above the oaks she could see the fire on the high slope above Harrow's End, in long running lines where the stubble had caught, laced with orange like the cracks in a coal. Three shapes had been going round in the air above it. Two big, one small. She'd watched them meet, and tear, and come apart, and come together again, with fire going out of them in streams that lit the clouds from end to end. She'd seen one fall, and another. Then the small one, coming in low, and something happening to it, and it going down too.
 
 Then the sound came across the water.
 
@@ -40,17 +40,17 @@ All three at once, as if a door had shut on them.
 
 She lifted her head.
 
-The silence after it was so complete that she could hear the river going past the reeds below her, and the fire across the water crackling, faint and far off, and her own heart.
+The silence after it was so complete that she could hear the river going past the reeds below her, and her own heart.
 
 And she couldn't hear the breathing.
 
 ---
 
-She'd been hearing it all night, and four nights before that. Under everything, slow, so slow she'd stopped noticing it the way you stop noticing your own heart, the long deep bellows-breath from the north end, in, and out, eleven to the quarter hour. She'd counted it so long it had gone into her. It had been there behind the horns and behind the screaming and behind the men dying in the hollow.
+She'd been hearing it all night, and four nights before that. Under everything, slow, so slow she'd stopped noticing it as you stop noticing your own heart, the long deep bellows-breath from the north end, in, and out, eleven to the quarter hour. She'd counted it so long it had gone into her. It had been there behind the horns and behind the screaming and behind the men dying in the hollow.
 
 It wasn't there now.
 
-She sat very still on the grass and listened, and there was nothing. Only the river. Only the fire.
+She sat very still on the grass and listened, and there was nothing. Only the river.
 
 Then, from the north, from the dark under the oaks, a sound like a tree coming down.
 
@@ -58,7 +58,7 @@ A crack. A long splintering tearing crack, and a crash, and the shaking in the g
 
 It was coming down the path. The worn path, the cart-wide path, the path its own feet had made coming down to drink at the stream on the west shore, for longer than the moss had been growing in its prints.
 
-It was coming down to the water. Toward the fire. Toward where the screaming had come from.
+It was coming down to the water.
 
 Toward her.
 
@@ -78,7 +78,7 @@ It was a lion.
 
 She'd known. She'd known since the hollow, since the hair like a horse's mane and the foot like a shield and the warm smell of fur in the sun. Some part of her had known since the first print by the stream. She'd known, and she hadn't let herself put the word to it, because there were no lions, not in Hearthmere, not anywhere in the six kingdoms, not for a thousand years. They were a thing in songs and carvings and the banners of old houses that had died out. A thing on a coin.
 
-It came out of the trees onto the top of the shore and stood there, and the light of the burning bank across the river fell on it, and it was a lion.
+It came out of the trees onto the top of the shore and stood there, against the glow over the trees, and it was a lion.
 
 It was bigger than anything she had words for. Longer than a hay wain. Taller at the shoulder than the biggest dray-beast in Greyhold's stables, nearly twice a man's height, so that its head, held low, was still above hers, and she'd have had to stand on a cart to touch its shoulder, and broad, and heavy, and hung with a mane so great that it seemed to have a second, darker animal crouched round its head and neck and chest. The mane was grey. Not the grey-gold of its flanks: grey, iron grey, gone almost white at the roots, like an old man's beard. Old leaves were caught in it. Moss. A long tangle of something like ivy, trailing. It had been lying a long time.
 
@@ -88,7 +88,7 @@ From its near forefoot, chain trailed. Two loops of it, still round the great fo
 
 The lion didn't look at her.
 
-It looked across the river. At the far bank. At the fire on the hill, and the burning mill, and the dark place in the fields where the three dragons had come down and screamed and stopped. It stood at the top of the shore with its head low and its pale eyes on the far bank, and she saw its sides go in, in a breath so deep and long that she could hear the air going into it.
+It looked back, east, over the trees of its own island, at the glow above the far bank, where the three dragons had come down and screamed and stopped. It stood at the top of the shore with its head low and its pale eyes on the glow, and she saw its sides go in, in a breath so deep and long that she could hear the air going into it.
 
 Then it lifted its head, and opened its mouth, and roared.
 
@@ -102,9 +102,9 @@ She didn't run.
 
 She stood in it. She stood on the grass in the starlight with her boots in the earth and her sword in her hand and the roar going through her, and she didn't put her hands over her ears and she didn't go down on her knees, though her knees wanted to go so badly they shook. She stood. She didn't know why. Something in her said: *if you go down now, you'll never get up.*
 
-Under her boots, the shore moved, a little. A shiver, a settling, the way a riverbank settles in spring when the water goes down, but she saw it. Pebbles at the water's edge hopped and rattled like dried peas in a pan. Dust lifted off the tumbled stones of the old bridge in a fine grey breath. And a crack ran across the flat top of the nearest block, from one side to the other, slow and clean, as if someone had drawn it with a nail.
+Under her boots, the shore moved, a little. A shiver, a settling, as a riverbank settles in spring when the water goes down, but she saw it. Pebbles at the water's edge hopped and rattled like dried peas in a pan. Dust lifted off the tumbled stones of the old bridge in a fine grey breath. And a crack ran across the flat top of the nearest block, from one side to the other, slow and clean, as if someone had drawn it with a nail.
 
-The roar went across the river and up the far bank, over the fire, into the hills. From the hills, long after, faint, it came back.
+The roar went out over the island and the river, over the fire, into the hills. From the hills, long after, faint, it came back.
 
 Then it stopped. The lion lowered its head.
 
@@ -116,7 +116,7 @@ It knew she was there. She saw that. It had known all along; it had smelled her 
 
 It cared now.
 
-She saw the nostrils move. Wide, dark, wet, each one big enough to put her fist into. Breathing her in. She saw the lips go back from the teeth, wrinkling, the way a dog's do, and the teeth were yellow and long and there were so many of them. She saw the pale eyes change. They didn't narrow. They went flat. Like ice going hard over water.
+She saw the nostrils move. Wide, dark, wet, each one big enough to put her fist into. Breathing her in. She saw the lips go back from the teeth, wrinkling, like a dog's, and the teeth were yellow and long and there were so many of them. She saw the pale eyes change. They didn't narrow. They went flat. Like ice going hard over water.
 
 And she knew what it smelled.
 
@@ -202,11 +202,11 @@ It looked at her.
 
 It turned its head away, and looked down at its foot.
 
-The stake was still jammed between the stones. The chain ran from it, taut, to the great forefoot. The lion looked at it, the way a dog looks at a thorn in its paw: puzzled, almost, and patient. It put its head down and smelled the chain. It took a link in its teeth and pulled, gently, and the chain didn't give.
+The stake was still jammed between the stones. The chain ran from it, taut, to the great forefoot. The lion looked at it, as a dog looks at a thorn in its paw: puzzled, almost, and patient. It put its head down and smelled the chain. It took a link in its teeth and pulled, gently, and the chain didn't give.
 
 Then it set its weight back, all of it, and pulled the foot away.
 
-She heard the iron go. A shriek, metal on stone, and the stake came out from between the blocks in a spray of grit, and the chain, which had been looped round the foot just behind the toes, slid, and caught, and tore. She heard that too. She heard the lion make a sound, a short, deep, coughing grunt, like a man who has been hit in the stomach. There was dark on the stones where it had been standing. Dark, and spreading, shining wet in the light from the far bank.
+She heard the iron go. A shriek, metal on stone, and the stake came out from between the blocks in a spray of grit, and the chain, which had been looped round the foot just behind the toes, slid, and caught, and tore. She heard that too. She heard the lion make a sound, a short, deep, coughing grunt, like a man who has been hit in the stomach. There was dark on the stones where it had been standing. Dark, and spreading, shining wet in the glow over the trees.
 
 The chain was still round the foot. One loop. It had torn the foot open going over, but it hadn't come off. The stake hung at the end of it, free now, swinging.
 
@@ -218,7 +218,7 @@ It turned, and went away along the shore, south, toward the spit. Slowly. On thr
 
 She lay on the pier and the night went on.
 
-She didn't sleep. She was too cold to sleep, and her arm was too bad. She got her belt off, after a while, one-handed, with her teeth, and got it round the top of her arm above the cuts and pulled it tight, the way they taught on the river watch, and the bleeding slowed. She thought of the staunching-word the surgeon said over cut knees, and didn't bother. She had no licence for it, and out here, with the river going by on both sides, it would only have gone downriver. She lay with her cheek on the wet stone and looked at the fire on the far bank, which was going down now, the mill a red heap and the fields black, and thought about nothing.
+She didn't sleep. She was too cold to sleep, and her arm was too bad. She got her belt off, after a while, one-handed, with her teeth, and got it round the top of her arm above the cuts and pulled it tight, the way they taught on the river watch, and the bleeding slowed. She thought of the staunching-word the surgeon said over cut knees, and didn't bother. She had no licence for it, and out here, with the river going by on both sides, it would only have gone downriver. She lay with her cheek on the wet stone and looked at the glow over the trees, which was going down now, red and then dull and then only a smudge on the sky, and thought about nothing.
 
 Some time toward dawn, she thought: *the sword.*
 
@@ -230,7 +230,7 @@ She lay on the stone and cried, then, for the first time. Not for her arm, or th
 
 When she'd finished, she lay still and thought about the claws.
 
-Half out. Three of them, not four. Across the shoulder and down the arm, a sweep, sideways, the way you'd brush a fly off a table. She'd seen what one of those feet did to a man in the hollow. She'd seen the young one opened from the shoulder to the hip, and the other one crushed like a sack of grain, and that was the lion asleep. That was the lion not even trying.
+Half out. Three of them, not four. Across the shoulder and down the arm, a sweep, sideways, as you'd brush a fly off a table. She'd seen what one of those feet did to a man in the hollow. She'd seen the young one opened from the shoulder to the hip, and the other one crushed like a sack of grain, and that was the lion asleep. That was the lion not even trying.
 
 It had been awake on the shore. It had been angry. It had smelled the men who chained it on her cloak. And it had hit her. Once. Sideways. With its claws half out.
 

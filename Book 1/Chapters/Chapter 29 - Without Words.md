@@ -27,7 +27,7 @@ The river watch has no word for what happens between two animals that can't spea
 
 She lit a fire on the twenty-ninth day.
 
-It was cold. That was the reason she gave herself. The long autumn had come down on the river like a lid: grey days, short and still, and nights with frost in them, so that when she poled across in Ottery's punt in the dusk the reeds along the bank were white at the tips and her breath went out in front of her in clouds. Sitting on the bank of the stream for an hour in the dark, not moving, she'd gone so stiff on her last visit that she could barely stand up when the lion had gone. So she brought kindling in her pack, and a flint, and a twist of tow, and when she came down through the trees to the stream and sat in her place she built a fire in front of her, on the flat stones at the water's edge, small, no bigger than a cooking fire, and lit it.
+It was cold. That was the reason she gave herself. The long autumn had come down on the river like a lid: grey days, short and still, and nights with frost in them, so that when she poled across in Ottery's punt in the dusk the reeds along the bank were white at the tips and her breath went out in front of her in clouds. The sling had come off at last, and the arm was sore, but it worked. Sitting on the bank of the stream for an hour in the dark, not moving, she'd gone so stiff on her last visit that she could barely stand up when the lion had gone. So she brought kindling in her pack, and a flint, and a twist of tow, and when she came down through the trees to the stream and sat in her place she built a fire in front of her, on the flat stones at the water's edge, small, no bigger than a cooking fire, and lit it.
 
 That was the reason she gave herself. It wasn't all of it.
 
@@ -139,7 +139,7 @@ She lit her fire. She sat in her place. The lion came down at the hour and stopp
 
 She stood up.
 
-She'd never stood up while it was there. Not once since the tower. She stood up slowly, the way you'd stand in a boat, with her hands out from her sides, and saw its head come up out of the water and its eyes go to her. She took the hammer and the chisel out of her belt. She held them low, at her sides, where it could see them.
+She'd never stood up while it was there. Not once since the tower. She stood up slowly, as you'd stand in a boat, with her hands out from her sides, and saw its head come up out of the water and its eyes go to her. She took the hammer and the chisel out of her belt. She held them low, at her sides, where it could see them.
 
 She stepped into the stream.
 
@@ -159,7 +159,7 @@ She took another step, and it came.
 
 ---
 
-It didn't come the way it had come at the stream before, fast, all at once, like a cat off a wall. It came the way it had come down the shore the night it woke: slowly. One great paw and then another, through the water, with its head low and its lip back and its eyes gone flat as ice. And she knew. She knew in that moment, with the water round her knees and the chisel in her hand, that she'd been wrong about everything. That it didn't understand. That it couldn't. That what it saw, coming across the stream at it in the dusk, was not a girl who'd sat by its water for three weeks and lit a fire and not moved.
+It didn't come the way it had come at the stream before, fast, all at once, like a cat off a wall. It came the way it had come down the shore the night it woke: slowly. One great paw and then another, through the water, with its head low and its lip back and its eyes gone flat as ice. And she knew. She knew then, with the water round her knees and the chisel in her hand, that she'd been wrong about everything. That it didn't understand. That it couldn't. That what it saw, coming across the stream at it in the dusk, was not a girl who'd sat by its water for three weeks and lit a fire and not moved.
 
 A human with iron in her hands, coming at its neck.
 
@@ -301,7 +301,7 @@ It didn't drink. It didn't go away. It did something it had never done.
 
 It lay down.
 
-On its own side of the stream. At the edge of the trees. It folded its forelegs under its great chest, the way a cat does on a doorstep, and lowered itself onto the frosty grass, and lay there with its head up, facing her across the water, with the collar on its neck and the cut chain lying in the grass beside it, and looked at her.
+On its own side of the stream. At the edge of the trees. It folded its forelegs under its great chest, like a cat on a doorstep, and lowered itself onto the frosty grass, and lay there with its head up, facing her across the water, with the collar on its neck and the cut chain lying in the grass beside it, and looked at her.
 
 She didn't move.
 

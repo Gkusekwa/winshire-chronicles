@@ -61,7 +61,7 @@ He had Bramble tied short to the ring in the byre wall and her off-hind foot up 
 
 She leaned on him. She was very good at leaning. He had the knife in and the muck coming out, and was feeling quite pleased with both of them, when the light went.
 
-Not cloud. Cloud came slowly. This was a hand closing over the yard.
+Cloud came slowly. This was a hand closing over the yard.
 
 Bramble screamed, the long, cracked, outraged bellow of a cow who has been lied to, and kicked, and put him flat on his back in the byre muck with the knife still in his fist.
 
@@ -164,7 +164,7 @@ The fire ticked. Somewhere outside a goat complained about the roof.
 
 "What happens when the six are one again?"
 
-Ada didn't answer that one. She never did. She sang the last verse faster than the others, Calder had noticed years ago, the way you walk faster past a dog you don't know, and when Wren asked about it she always found something that needed doing. Tonight it was the kettle.
+Ada didn't answer that one. She never did. She sang the last verse faster than the others, Calder had noticed years ago, as you walk faster past a dog you don't know, and when Wren asked about it she always found something that needed doing. Tonight it was the kettle.
 
 Calder put Wren to bed in the loft, under the eaves where the warm from the fire collected, and she was asleep before he'd got the blanket straight. He stood there a while. She slept with her fists up by her face like a baby, still, at nine. Senna had slept like that.
 
@@ -174,7 +174,7 @@ That was when he saw the fire.
 
 ---
 
-It was upriver, north, past the bend where the Wend went out of sight behind the hill. A dull orange smear on the bottom of the cloud. Then, while he watched, a second one beside it. Then a third, small and sharp, further back from the water.
+It was upriver, north, past the bend. A dull orange smear on the bottom of the cloud. Then, while he watched, a second one beside it. Then a third, small and sharp, further back from the water.
 
 Upper Rush.
 
@@ -228,7 +228,7 @@ He'd seen chain like it once, years ago, on a Saltreach barge that came up the W
 
 He closed his hand. "Nothing. Bit of harness."
 
-She looked at his fist, and then at his face, and she was his sister and had been looking at that face for thirty years.
+She looked at his fist, and then at his face, and she was his sister and had been looking at that face all her life.
 
 "Say it, then," she said.
 
@@ -244,7 +244,7 @@ The barn roof went in behind them with a long, soft roar, and sparks went up int
 
 He stayed till the fire was down to embers and the men from Harrow's End had done what they could, which was nothing, and then he walked down to the river to wash the smoke off his face.
 
-The Wend was wide and black here and moving fast. On the far side, a long way off, the Hearthmere bank was a low line against a slightly lighter sky, and on that line, small and steady, were lights. A row of them, high up, too regular for houses. Lanterns on a wall. Crown lamps, Ada called them, that burned all night on nothing at all, though she'd never been closer to one than this.
+The Wend was wide and black here and moving fast. On the far side, a long way off, the Hearthmere bank was a low line against a slightly lighter sky, and on that line, small and steady, very far off downriver, were lights. A row of them, high up, too regular for houses. Lanterns on a wall. Crown lamps, Ada called them, that burned all night on nothing at all, though she'd never been closer to one than this.
 
 Joss had come down behind him. He stood with his big hands hanging and looked across the water at them.
 

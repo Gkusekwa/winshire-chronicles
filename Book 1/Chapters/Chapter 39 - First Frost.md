@@ -28,7 +28,7 @@ The first hard frost in the Marches is called the Widow's Frost. Nobody knows wh
 
 The frost came in the night, and the raiders came with it.
 
-She was at Redwatch. Pell had taken the patrol up again, the same eight as Ferriby, the night before: to stand at the tower, and watch the river, and wait. Every tower on the Hearthmere bank had a patrol on it now. Since Ferriby. Since the boats. Since the second rider with Greyhold's seal. Rowan had sent the order herself. *No boat to come in on any order but mine, in my own hand, carried by someone the tower knows.* Ottery had pinned it to the guardroom door with his knife.
+She was at Redwatch. Pell had taken the patrol up again, the same seven as Ferriby, the night before: to stand at the tower, and watch the river, and wait. Every tower on the Hearthmere bank had a patrol on it now. Since Ferriby. Since the boats. Since the second rider with Greyhold's seal. Rowan had sent the order herself. *No boat to come in on any order but mine, in my own hand, carried by someone the tower knows.* Ottery had pinned it to the guardroom door with his knife.
 
 They'd slept in the guardroom, on the floor, in their cloaks, by the fire. Maren had woken in the dark before dawn and gone out to see to Turnip, and found the yard white. Every stone, every rail, every blade of grass in the cracks. White. The frost had come down in the night like a hand. Her breath went out in front of her in a long grey cloud. The water in Turnip's trough was a slab of ice she had to break with her heel.
 
@@ -42,11 +42,11 @@ She knew that sound. She'd heard it at Ferriby, from the creek, in the dusk.
 
 They were after the boats.
 
-She understood that afterwards, when it was over and she sat in the guardroom with her hands round a cup she couldn't drink from. Not beasts. The river-watch boats themselves. The long grey patrol boats tied up at the Redwatch landing, five of them, that Ottery and his crews took out every night since Rowan's order. Somebody had decided the river would be easier with no boats on it at all.
+She understood that afterwards, when it was over and she sat in the guardroom with her hands round a cup she couldn't drink from. They'd come for the river-watch boats themselves, and not for beasts. The long grey patrol boats tied up at the Redwatch landing, five of them, that Ottery and his crews took out every night since Rowan's order. Somebody had decided the river would be easier with no boats on it at all.
 
 There were twenty of them, maybe. Masked. Come up the river in the dark in two barges and onto the landing in the frost before dawn, quiet, with axes, to stave in the boats where they lay. And they'd have done it, too, if Maren hadn't been out in the yard breaking ice for a horse.
 
-She shouted. She didn't think about it. She shouted the way you shout on the river watch when there's something in the reeds, and the guardroom door banged open, and Pell came out with his sword already drawn, and Ottery behind him with a boathook, and the others, and they went down the frozen steps to the landing in the grey light, sliding, and the raiders turned round.
+She shouted. She didn't think about it. She shouted as you shout on the river watch when there's something in the reeds, and the guardroom door banged open, and Pell came out with his sword already drawn, and Ottery behind him with a boathook, and the others, and they went down the frozen steps to the landing in the grey light, sliding, and the raiders turned round.
 
 And the hounds came up out of the barges.
 
@@ -220,7 +220,7 @@ That was the third day. Maren remembered. Her father hadn't known her on the thi
 
 Ide lay under the blankets and Bracken's blanket with her eyes open and her face very white and very still, and looked at the window, at the frost on the glass, and didn't know anybody.
 
-Her mother sat by the bed and held her hand and talked to her. About the farm. About the litter, and the pup that sat on her foot. About her uncle, and her brothers, and the apple trees. On and on. In a steady country voice, low, the way you'd talk to a frightened animal. Not crying. Maren watched her not cry, and thought she'd never seen anyone so brave.
+Her mother sat by the bed and held her hand and talked to her. About the farm. About the litter, and the pup that sat on her foot. About her uncle, and her brothers, and the apple trees. On and on. In a steady country voice, low, as you'd talk to a frightened animal. Not crying. Maren watched her not cry, and thought she'd never seen anyone so brave.
 
 The cat lay on the foot of the bed.
 
@@ -262,7 +262,7 @@ Pell was on a crutch, with his torn leg bound. He had something in his hand. Mar
 
 Pell held out the collar. Rowan took it.
 
-She looked at it in the grey light by the dying pyre. Turned it over in her small neat hands. Looked at the inside of it, and the outside, and at a place on the iron where, Maren knew without seeing, there'd be a mark, small and neat, the way a smith marks his work.
+She looked at it in the grey light by the dying pyre. Turned it over in her hands. Looked at the inside of it, and the outside, and at a place on the iron where, Maren knew without seeing, there'd be a mark, small and neat, the way a smith marks his work.
 
 A ring of six dots.
 

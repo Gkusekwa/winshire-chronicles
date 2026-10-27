@@ -74,7 +74,7 @@ One of them was complaining. He had a voice made for complaining, high and aggri
 
 "Upper Rush is on *this* side. They watched it burn. They didn't cross." The complainer slapped the table. "And now they're riding about like it was their barns. You know what I think? I think they know something. I think something's coming, and they know it, and they're not telling anyone, and in a month there'll be no honest work left on that road for a man who wants to move a crate without some knight's brat lifting the lid on it."
 
-"What's in your crates, Fen?"
+"What's in your crates, Nolly?"
 
 "Nothing that's anybody's business."
 
@@ -106,7 +106,7 @@ The hold was full of grey. Grey cloaks, grey armbands, grey ash from the long fi
 
 The yard was split.
 
-Not with a fence. Nobody had built anything. But on the east side of the pyre, toward the gate, the men in grey were big, older, hard, with axes at their belts and the look of men who had fought in the Clan's raids on the Saltreach coast twenty years ago and never really stopped. On the west side, toward the hall, the men were younger, and their armbands had been sewn with a thin line of red, and they stood closer together, and they watched the east side the whole time. In between them there was a space, ten or twelve paces wide, round the fire. Nobody stood in it. People walked round it.
+There was no fence. Nobody had built anything. But on the east side of the pyre, toward the gate, the men in grey were big, older, hard, with axes at their belts and the look of men who had fought in the Clan's raids on the Saltreach coast twenty years ago and never really stopped. On the west side, toward the hall, the men were younger, and their armbands had been sewn with a thin line of red, and they stood closer together, and they watched the east side the whole time. In between them there was a space, ten or twelve paces wide, round the fire. Nobody stood in it. People walked round it.
 
 He'd heard about it at the Ram's Head. He hadn't believed it until now.
 
@@ -132,7 +132,7 @@ At the left-hand table sat a young man of perhaps twenty-five, lean and dark, wi
 
 Arn Varr. The elder son.
 
-And Teo, the younger, wasn't at either table. Teo was coming down the middle of the hall, through the empty space round the hearth that nobody else would walk in, with a jug in one hand and two cups in the other, smiling at someone on the east side and someone on the west side and stopping to say something to an old woman by the fire that made her laugh. He walked down the middle of that hall the way you'd walk across a frozen river, easy and careful at once.
+And Teo, the younger, wasn't at either table. Teo was coming down the middle of the hall, through the empty space round the hearth that nobody else would walk in, with a jug in one hand and two cups in the other, smiling at someone on the east side and someone on the west side and stopping to say something to an old woman by the fire that made her laugh. He walked down the middle of that hall as you'd walk across a frozen river, easy and careful at once.
 
 He saw Calder in the doorway and his face lit up.
 
@@ -248,7 +248,7 @@ He froze.
 
 "It's not flour," said Calder, faintly. "It's barley dust. From the sacks."
 
-"She knows. She's teasing you." Imra laughed. "She thinks you look like a ghost. A ghost who's been rolling in a mill." The dragon's breath was warm on his face and smelled like rain on hot stone. Her eye, very close, was pale green, and quick, and it went over his face the way a child's eyes go over a new room, everywhere at once. "She also wants to know where the small one is."
+"She knows. She's teasing you." Imra laughed. "She thinks you look like a ghost. A ghost who's been rolling in a mill." The dragon's breath was warm on his face and smelled like rain on hot stone. Her eye, very close, was pale green, and quick, and it went over his face like a child's eyes over a new room, everywhere at once. "She also wants to know where the small one is."
 
 "The small one?"
 

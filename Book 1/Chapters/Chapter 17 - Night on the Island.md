@@ -10,17 +10,17 @@ Carried forward: From Chapter 15: the hunters' camp on the north-west shore, the
 Draft notes: Days 6 to 8, Maren's sixth to eighth days on the island. The night of day 8 is the night of Chapters 18 and 19; the new moon is day 14. Decided here (proposals):
 - Days six and seven she hides from the Greyhold patrol boats. She thinks they're Rowan's, come to fetch her back before the new moon, and she won't go back with nothing.
 - The eighth night the patrol boats don't come. The hunters do: twelve of them on a big poled raft from the Saltreach bank, with the rest of a cage, more chain, and clay pots of a sweet, heavy smoke they set burning upwind of the sleeper.
-- Their leader is a woman with a Saltreach voice whom the others call Captain. With them, giving no orders and carrying nothing, is a man of middle height with a forgettable face, soft hands with a pale scar across the knuckles, and oiled boots with brass eyelets. Maren doesn't know him. The reader does: Rook. She notes the boots in her notebook later.
+- Their leader is a woman with a Saltreach voice whom the others call Captain. With them, giving no orders and carrying nothing, is a man of middle height with a forgettable face, hands kept in his pockets (she never sees them), and oiled boots with brass eyelets. Maren doesn't know him. The reader does: Rook. She notes the boots in her notebook later.
 - In the north end: something under the oaks she first takes for a mossy hillock. Lantern light shows only a flank of grey-gold hair and one enormous forefoot. They throw chain over it and start to drive stakes. On the third stake it shifts in its sleep. One man is crushed; one is opened by a claw; one runs blind into their own jaw-trap. The smoke pots go over and the dry leaves catch. It doesn't wake. The breathing quickens and settles.
 - The Captain calls them off ("Not tonight. It's not far enough under."). They go out by the west channel, find Maren's skiff, and cut it loose. She reaches the reeds to see it turning away downstream in the dark, empty. She's stranded.
-- Echo: from the west shore she sees a glow at Harrow's End: the mill burning. Then a long jet of fire in the sky over the fields beyond it. Dragon fire.
+- Echo: from the west shore she sees a glow over the island's trees, east, where Harrow's End is: the mill burning. Then a long jet of fire in the sky beyond it, high enough to show over the oaks. Dragon fire.
 notes -->
 
 ---
 
 The boats came on her sixth day.
 
-She saw them from the tower in the morning, when she went up the broken stair as far as it went and stood on the last step with her shoulder against the wall and looked out through a gap where the stones had fallen. Two patrol boats, long and grey, coming upriver from Greyhold under oars. She knew them. She'd rowed in them. She knew which one had the cracked thwart and which one leaked at the stern, and she knew, though she couldn't see faces at that distance, roughly who'd be at the oars on a morning watch in harvest month.
+She saw them from the tower in the morning, when she went up the broken stair as far as it went and stood on the last step with her shoulder against the wall and looked out through a gap where the stones had fallen. Two patrol boats, long and grey, coming out from the Redwatch boathouse under oars and round the foot of the island. She knew them. She'd rowed in them. She knew which one had the cracked thwart and which one leaked at the stern, and she knew, though she couldn't see faces at that distance, roughly who'd be at the oars on a morning watch in harvest month.
 
 They came past the middle of the river.
 
@@ -42,7 +42,7 @@ And go home with what? A cut link of chain, and a drawing in a notebook, and a n
 
 She lay in the bracken and didn't move, and the boats went by below her, and Fenna in the bow looked straight up at the bluff, straight at her, and didn't see her, and looked away.
 
-They went round the north end, and came back down the west side, and went away downriver in the afternoon.
+They went round the north end, and came back down the west side, and went back across to Redwatch in the afternoon.
 
 They came back the next day. She hid again.
 
@@ -58,7 +58,7 @@ On the eighth night the boats didn't come.
 
 She waited for them at dusk, in the bracken, and they didn't come. The river lay grey and empty under the evening, going fast and quiet. Over on the Saltreach bank there were lights in Harrow's End, more than usual, and a lot of movement down by the mill: lanterns, carts, men. She could hear voices across the water now and then, faint, and once a horse.
 
-And, from the hills, the horns. They'd never really stopped. Three, four times a day, and all night: one, and then an answer. She'd got used to them, the way you get used to rain.
+And, from the hills, the horns. They'd never really stopped. Three, four times a day, and all night: one, and then an answer. She'd got used to them, as you get used to rain.
 
 She went back to the tower and ate the last of her bread and the last but one of the dried apples. She had enough salt fish for four more days, if she was careful. She sat in the dark with her back to the wall, and Pell's sword beside her, and waited for the breathing.
 
@@ -94,7 +94,7 @@ Nobody answered. They worked faster.
 
 "Far enough," said the woman. "If you're quiet."
 
-There was one more. Maren almost didn't count him, because he wasn't doing anything. He was standing by the raft, at the edge of the light, with his hands in the pockets of a good dark coat. He wasn't carrying or unloading, and he wasn't giving orders either. He was watching, the way the Captain was watching, but differently: as if all of it, the raft and the chain and the men sweating under it, belonged to someone else, and he'd been sent along to see it was done right.
+There was one more. Maren almost didn't count him, because he wasn't doing anything. He was standing by the raft, at the edge of the light, with his hands in the pockets of a drover's coat too good for a drover. He wasn't carrying or unloading, and he wasn't giving orders either. He was watching, the way the Captain was watching, but differently: as if all of it, the raft and the chain and the men sweating under it, belonged to someone else, and he'd been sent along to see it was done right.
 
 He was nobody. That was what she noticed. Middle height, middle build, a face she looked at and couldn't keep hold of; she looked away and looked back and had to learn it again. Only his boots stood out, when he stepped into the lantern light for a moment to look at something on the raft: good boots, oiled, black, with little brass eyelets that caught the light. Coast boots. Wendmouth boots. Nobody on the river wore boots like that. You couldn't afford them on a boatman's pay.
 
@@ -126,7 +126,7 @@ The Captain raised her hand, and the line went forward.
 
 She saw it for the first time by the light of their lanterns.
 
-She saw it in pieces, the way you see a room by lightning, never all at once. It was too big to be all at once.
+She saw it in pieces, as you see a room by lightning, never all at once. It was too big to be all at once.
 
 The path came out under the oaks into a place where there were no trees, a kind of hollow, deep, with banks of earth and roots round it and the oaks leaning in over it so that their branches met far above, like the roof of a hall. And on the floor of the hollow there was a hill.
 
@@ -168,7 +168,7 @@ The smoke came thicker, drifting in over the hollow, grey in the lantern light. 
 
 They went on.
 
-They laid a second chain over the foot. A third, longer, that four men carried round in a great slow circle, out of the lantern light, round the far side of the hill, so that Maren heard it more than saw it, clinking over roots in the dark, and back. They meant to go over the whole beast with chain. Over the foot, over the flank, over the neck, the way you'd net a boat. Pin it down with stakes all round, forty of them, and then, when it woke, it would wake bound.
+They laid a second chain over the foot. A third, longer, that four men carried round in a great slow circle, out of the lantern light, round the far side of the hill, so that Maren heard it more than saw it, clinking over roots in the dark, and back. They meant to go over the whole beast with chain. Over the foot, over the flank, over the neck, as you'd net a boat. Pin it down with stakes all round, forty of them, and then, when it woke, it would wake bound.
 
 After that, the cage. The raft. The river.
 
@@ -222,7 +222,7 @@ She didn't move. She didn't dare. She stood there with her legs shaking under he
 
 Eleven.
 
-It hadn't woken. She knew it, in her body, the way you know when a sleeper in the next bed has turned over and gone under again. It had turned over in its sleep, and put out a hand to push away something that was tickling it, and three men were down, and it hadn't even woken up.
+It hadn't woken. She knew it, in her body, as you know when a sleeper in the next bed has turned over and gone under again. It had turned over in its sleep, and put out a hand to push away something that was tickling it, and three men were down, and it hadn't even woken up.
 
 She heard, from away down on the north-west shore, the Captain's voice, shouting, high and hard over the river. A man's voice answering. And then, clear in the dark, a word.
 
@@ -270,22 +270,22 @@ She was shaking. She noticed it after a while, as if it were happening to someon
 
 She waded out of the reeds. She sat down on the bank, on the wet grass, and put her face in her hands, and didn't cry, because there wasn't any point, and Ottery would have said so.
 
-When she lifted her head again, the far bank was on fire.
+When she lifted her head again, the sky to the east was on fire.
 
 ---
 
-Not all of it. One place. Downstream a little, opposite her, where the lights of Harrow's End had been: a glow, low down, by the water, orange and growing. The mill. She could see the shape of it against the fire, the big wheel, the roof, and the flames coming up through the roof. Figures. Small, black, many, running in the light. Horses. She heard, very faint across the water, shouting, and the clash of something, and a horn.
+Not all of it. One place. Over the trees behind her, east, where the lights of Harrow's End had been: a glow on the underside of the sky, orange and growing. The mill. Nothing else on that bank stood high enough to burn like that. She heard, very faint over the island, shouting, and the clash of something, and a horn.
 
-Then something went over the fire, in the sky.
+Then something went over the glow, high up.
 
 A shape. Dark against the glow. Huge. Wings.
 
-As she watched, it opened its mouth, and a long tongue of fire came out of it, yellow-white and roaring, a whole river of fire poured out across the sky and down onto the fields beyond the mill, so bright that for a moment she could see the whole far bank lit up as if by day: the village, the lanes, the green, the barley stubble on the slope above, and people running across it.
+As she watched, it opened its mouth, and a long tongue of fire came out of it, yellow-white and roaring, a whole river of fire poured out across the sky and down beyond the trees, so bright that for a moment the oaks of the island stood up black against it, every branch.
 
 Another shape came up out of the dark to meet it, and another.
 
 Across the river, the Clan was at war, and it had come down out of the hills, and onto the fields.
 
-She sat on the wet grass on the island, in the dark, with no boat, and watched the dragons burn the far bank, and behind her, in the north end, under the oaks, the breathing went on.
+She sat on the wet grass on the island, in the dark, with no boat, and watched the sky over the trees burn, and behind her, in the north end, under the oaks, the breathing went on.
 
 Eleven.

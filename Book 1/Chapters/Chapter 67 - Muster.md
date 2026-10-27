@@ -24,7 +24,7 @@ The Brackenwood began on a long rise two leagues west of the river, and the rise
 
 She'd ridden past the foot of it a hundred times on patrol and never been up. Nobody went up. There was nothing on the top but heather and the old beacon-stones, a ring of grey boulders where the river watch had lit fires in the old wars to warn Hallowmere. Behind them the forest began, all at once, the way the Brackenwood did: one moment open heather, the next a wall of oaks so old and thick that the light went green under them a step inside.
 
-She came up the knowe in the first grey of the hundred-and-fortieth day with the lion beside her.
+She came up the knowe as the sun came up on the hundred-and-fortieth day with the lion beside her.
 
 They'd come two leagues across the fields in the dark. Wet plough, and hedges, and ditches full of thaw-water. She'd waded the ditches. The lion had stepped over them. They'd gone round the farms, wide, where the dogs were. Once a dog had started to bark in a yard a long way off and then stopped as if somebody had put a hand over its mouth, and she'd felt the ground under her feet go still, and looked at the lion, and it was looking at the farm with its lip back. She'd put her hand on its shoulder. It had come on.
 
@@ -52,7 +52,7 @@ The lion stood beside her among the beacon-stones and looked at it.
 
 It didn't want to be there.
 
-She knew that before the sun was up. It paced. Along the edge of the trees, behind the stones, back and forth, the way she'd seen the hounds in the Long Barn pace when something was wrong in the yard. Up to the end of the ring of stones and stop and look east. Back. Stop. Look east. Its tail going. Its mane up and then down and then up.
+She knew that before the sun was clear of the hills. It paced. Along the edge of the trees, behind the stones, back and forth, the way she'd seen the hounds in the Long Barn pace when something was wrong in the yard. Up to the end of the ring of stones and stop and look east. Back. Stop. Look east. Its tail going. Its mane up and then down and then up.
 
 Twice it went down the slope.
 
@@ -67,18 +67,6 @@ She didn't ask it why. She couldn't. She sat on the beacon-stone and looked at i
 *It came with me,* she thought. *Off the island. In the dark. I didn't call it. And now it won't go back.*
 
 She didn't know what to do with that. She put her hand down on its mane. It let her.
-
----
-
-It hunted that night, or tried to.
-
-It went into the Brackenwood at dusk without a sound, and she sat among the beacon-stones in her father's brown cloak with her back against the coldest stone in the world and ate the last of the bread from her sack, and drank from the spring that came out of the rock under the stones, cold enough to hurt her teeth. She heard it in the wood, sometimes, a long way off. A crash. Something running. Then nothing.
-
-It came back before dawn with nothing.
-
-It lay down in the heather beside her again and put its head on its paws and looked east.
-
-*You're not hungry,* she thought. *You didn't go to hunt. You went to look at the island from somewhere else.*
 
 ---
 
@@ -103,6 +91,18 @@ She sat on the stone and looked at them.
 *They're not going to stay on the island,* she thought.
 
 She'd known that. She'd known it since the bill on the Millbrook jetty, since the paper on the river gate, since Hale's face. *The thing under the hill.* The island was the way across. It wasn't what they'd come for.
+
+---
+
+It hunted that night, or tried to.
+
+It went into the Brackenwood at dusk without a sound, and she sat among the beacon-stones in her father's brown cloak with her back against the coldest stone in the world and ate the last of the bread from her sack, and drank from the spring that came out of the rock under the stones, cold enough to hurt her teeth. She heard it in the wood, sometimes, a long way off. A crash. Something running. Then nothing.
+
+It came back before dawn with nothing.
+
+It lay down in the heather beside her again and put its head on its paws and looked east.
+
+*You're not hungry,* she thought. *You didn't go to hunt. You went to look at the island from somewhere else.*
 
 ---
 

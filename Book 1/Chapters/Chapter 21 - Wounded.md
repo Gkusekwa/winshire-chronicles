@@ -10,9 +10,9 @@ Carried forward: From Chapter 19: dawn after the battle night (Maren's ninth day
 Draft notes: Day nine, from dawn into the night. Decided here (proposals):
 - She wades ashore at first light and goes to the hunters' camp. In the crate are tools: a cold chisel, a smith's hammer, files, shackle pins, a pot of grease, rolls of linen. She takes linen, the chisel and the hammer, and water. She dresses her arm herself.
 - The lion is lying on the spit at the south tip, by the water, weak from bleeding, licking its foot.
-- At midday the raft comes back with eight hunters, the Captain, and the cage. Rook isn't with them. They set the pots upwind, then chain the lion where it lies: a collar-chain round the neck staked into the paving at the foot of the old landing stair on the spit, and chains over the body. They plan to bring the raft round to the spit after dark, out of sight of the patrol boats, and load the cage.
-- Overheard (the echo): their buyer, "the man", went across the river late that morning, as soon as word of the bonds came over to the Eelweir. He wants the Clan's three loose dragons, which are bonded now to some farmer, if you believe it, and pays twenty times the price of the cat.
-- At dusk six of them go to fetch the raft round; two stay on guard. Maren goes in with a wet cloth over her face against the smoke and cuts the collar-chain at the stake with the chisel. Four blows; the guards come at the third. The link parts on the fourth.
+- At midday the raft comes back with eight hunters, the Captain, and the cage. Rook isn't with them. They set the pots upwind, then chain the lion where it lies: a collar-chain round the neck staked into the paving at the foot of the old landing stair on the spit, and chains over the body. They plan to load the cage after dark, out of sight of the patrol boats.
+- Overheard (the echo): their buyer, "the man", went off after the farmer late that morning, as soon as word of the bonds came over to the Eelweir. He wants the Clan's three loose dragons, which are bonded now to some farmer, if you believe it, and pays twenty times the price of the cat.
+- At dusk six of them take the raft back across to the Saltreach bank for a windlass and the rest of the gear; two stay on guard. Maren goes in with a wet cloth over her face against the smoke and cuts the collar-chain at the stake with the chisel. Four blows; the guards come at the third. The link parts on the fourth.
 - The lion rises. The ground heaves with it; stakes come out of the paving, and old stones split along their seams. It throws off the body chains, knocks one guard into the river, and goes north into the dark under the oaks. It doesn't touch her.
 - The hunters search for her by lantern and don't find her (she's up the tower stair). They leave on the raft, cursing; the Captain says they'll come back with men enough to take the island apart.
 - She keeps the hammer and chisel.
@@ -47,7 +47,7 @@ And the crate she hadn't opened.
 
 She opened it now. It was tools. Files, in a roll of leather. Shackle pins, a bag of them. A pot of grease. A pair of heavy pincers. A smith's hammer with a short ash handle, and beside it a cold chisel as long as her forearm, its edge bright and new-ground. Rolls of linen, clean, wrapped in oilcloth. For binding, she thought; for binding men, when the beasts they were binding bit them.
 
-She took the linen. She washed the arm with water from the barrel, which hurt so much she had to stop twice, and sat on the gravel and bound it, one-handed and with her teeth, round and round, tight, from the shoulder to the elbow. It took a long time. She pressed the heel of her good hand over the worst of it and counted to three hundred, the way Ottery taught, and the arm stopped seeping through the linen, or she wanted it to. When it was done she ate some of their salt meat, slowly, and drank, and sat with her back against their woodpile and her eyes shut.
+She took the linen. She washed the arm with water from the barrel, which hurt so much she had to stop more than once, and sat on the gravel and bound it, one-handed and with her teeth, round and round, tight, from the shoulder to the elbow. It took a long time. She pressed the heel of her good hand over the worst of it and counted to three hundred, the way Ottery taught, and the arm stopped seeping through the linen, or she wanted it to. When it was done she ate some of their salt meat, slowly, and drank, and sat with her back against their woodpile and her eyes shut.
 
 When she opened them she was looking at the cold chisel.
 
@@ -105,7 +105,7 @@ They brought the raft in to the far side of the spit, away from the lion, downwi
 
 Then the chain.
 
-They put a collar on it first. A great hinged collar of iron, in two halves, that two men carried up from the raft between them on a pole, and that they had to go right up to its head to fit. She watched them go. They went the way you'd walk out onto ice. Slow. Not breathing. The Captain stood a few paces off with something in her hands, a long pole with a hook on the end, and talked to them low the whole time. They got the collar round its neck, under the mane. They closed it. One of them put the pin through it and hammered the pin over, and at every blow the lion's eyes moved, and the man's hands shook so badly he missed twice.
+They put a collar on it first. A great hinged collar of iron, in two halves, that two men carried up from the raft between them on a pole, and that they had to go right up to its head to fit. She watched them go. They went as you'd walk out onto ice. Slow. Not breathing. The Captain stood a few paces off with something in her hands, a long pole with a hook on the end, and talked to them low the whole time. They got the collar round its neck, under the mane. They closed it. One of them put the pin through it and hammered the pin over, and at every blow the lion's eyes moved, and the man's hands shook so badly he missed twice.
 
 From the collar ran a chain. Short, heavy, thicker than any of the others. They took the end of it a little way up the slope to the foot of the landing stair, and drove a great iron stake down through the end link into the gap between two paving stones, a stake as long as a man's leg, with a sledge, blow after blow, until it was in to the head.
 
@@ -117,23 +117,17 @@ When it was done, they stood back, all of them, and looked at it lying there on 
 
 ---
 
-They sat on the gravel by the raft afterwards, out of the smoke, and ate, and talked. They thought they were alone. They'd seen nothing of her in the night but a cut rope and an empty boat, and they'd decided, she supposed, that whoever had been on the island had drowned, or bled, or run off into the trees to die, and that it didn't matter which. The river carried their voices up the slope to the gap in the wall the way the river carries everything.
+They sat on the gravel by the raft afterwards, out of the smoke, and ate, and talked. They thought they were alone. They'd seen nothing of her in the night but a cut rope and an empty boat, and they'd decided, she supposed, that whoever had been on the island had drowned, or bled, or run off into the trees to die, and that it didn't matter which. The river carried their voices up the slope to the gap in the wall.
 
-"When do we load it?"
-
-"Dark." That was the Captain. "Raft round to this side. Cage door on the gravel, there, against the stones. Drag it in on the chains with the windlass. Then out on the current, down the far side, and across, and nobody on this bank any the wiser."
-
-"There's no one on this bank anyway."
-
-"There's always someone on this bank. They've got boats. They've got eyes on that wall." She jerked her head downstream, toward Greyhold. "They've been all round this island two days, in daylight, looking for something. I don't want them looking at a cage."
+"We load at dark," said the Captain, before anyone asked. "Not before." She jerked her head downstream, toward Greyhold. "They've had boats all round this island two days, in daylight, looking for something. I don't want them looking at a cage."
 
 "What were they looking for?"
 
-"Whoever came over in that boat we cut loose. One of theirs, I'd guess. Who cares. She's not here now."
+"Whoever came over in that boat we cut loose. One of theirs, I'd guess. Who cares. They're not here now."
 
 "The man said…"
 
-"The man," said the Captain, "isn't here either. The man's gone across the river. You heard him." She drank from a leather bottle and passed it on. "He's done with the cat. He said so. He says it's ours to finish, and the money's at Wendmouth when we bring it in. He's after something else now."
+"The man," said the Captain, "isn't here either. The man's gone after the farmer. You heard him." She drank from a leather bottle and passed it on. "He's done with the cat. He said so. He says it's ours to finish, and the money's at Wendmouth when we bring it in. He's after something else now."
 
 "The dragons," said one of them.
 
@@ -145,7 +139,7 @@ There was a silence.
 
 Somebody laughed, disbelieving.
 
-"I'm telling you what he said. I don't know. The man believes it. He heard it at the Eelweir this morning and was off across the water inside the hour, and I've never seen him move that fast for anything." The Captain looked across the river at the far bank, where a long thin smoke was still going up from Harrow's End into the grey sky. "He says the people he works for would pay twenty times what they're paying for the cat. For the three of them. Twenty times." She spat on the gravel. "And we get the cat."
+"I'm telling you what he said. I don't know. The man believes it. He had it from the boy at the Eelweir this morning, when we put in for water, and was off up the hill toward that farm inside the hour, and I've never seen him move that fast for anything." The Captain looked across the river at the far bank, where a long thin smoke was still going up from Harrow's End into the grey sky. "He says the people he works for would pay twenty times what they're paying for the cat. For the three of them. Twenty times." She spat on the gravel. "And we get the cat."
 
 "Twenty times," somebody said, wonderingly.
 
@@ -181,7 +175,7 @@ She didn't decide anything. She'd tell herself afterwards that she'd sat there a
 
 She'd gone and looked.
 
-The light went. The river went from grey to black. Across the water, a few lights came on in Harrow's End, fewer than there should have been. Down on the spit the hunters were moving. She watched six of them get onto the raft and push off, with poles and a lantern, out into the current, and go away up the east side of the island toward the north point. Going round. Going to bring the raft round to this side, to the cage-loading place, and come back for it.
+The light went. The river went from grey to black. Across the water, a few lights came on in Harrow's End, fewer than there should have been. Down on the spit the hunters were moving. She watched six of them get onto the raft and push off, with poles and a lantern, out into the current and away across toward the Saltreach bank, for a windlass and the rest of the gear, and come back for it.
 
 Two stayed. They sat by a small fire on the gravel, upwind of the pots, between the fire and the lion, with crossbows across their knees. Crossbows. She looked at them. Every hunter she'd ever stopped on the river carried a bow, or a spear, or nets. These had crossbows. She didn't know why that bothered her. It did.
 
@@ -223,7 +217,7 @@ The first blow rang, and she lifted the hammer and brought it down again.
 
 "*What…*" One of the guards. On his feet. She heard the crossbow come up.
 
-Third blow. The link bent. She felt it go, under the edge of the chisel, a little, the way ice goes before it breaks.
+Third blow. The link bent. She felt it go, under the edge of the chisel, a little, as ice goes before it breaks.
 
 "*Somebody at the chain!* Somebody at the… *Gods,* it's a girl, it's…"
 
@@ -259,7 +253,7 @@ She lay on the paving and didn't move.
 
 It came up the slope toward her, slow, limping badly, holding the hurt foot off the ground, setting it down only when it had to. The broken collar-chain dragged and rang on the paving beside it. It came up the slope until it was standing over her, so close that the grey mane hung down over her, and she could smell it, fur and blood and honey-smoke and cold stone, and its breath went over her face, hot.
 
-Its head came down. Lower. Lower. Until the great broad scarred face was an arm's length above hers, and the pale eyes were looking straight into her own, one and then the other, the way a horse looks at you, first with one eye and then the other, to be sure.
+Its head came down. Lower. Lower. Until the great broad scarred face was an arm's length above hers, and the pale eyes were looking straight into her own, one and then the other, as a horse looks at you, first with one eye and then the other, to be sure.
 
 She lay there with the hammer in her hand and didn't lift it.
 
@@ -275,7 +269,7 @@ She lay there till she could feel her hands.
 
 They came back for her, of course.
 
-The raft came round the south point an hour later with its lantern swinging and the men poling hard, and she heard the shouting on the gravel when they found the guards gone and the chains lying empty on the spit and the collar-chain cut through at the stake. She heard the Captain. She'd never heard a voice go so flat and so quiet.
+The raft came back across the water an hour later with its lantern swinging and the men poling hard, and she heard the shouting on the gravel when they found the guards gone and the chains lying empty on the spit and the collar-chain cut through at the stake. She heard the Captain. She'd never heard a voice go so flat and so quiet.
 
 She was up the tower by then. Up the broken stair, as far as it went, with her back against the wall and her knees drawn up, in the dark, under the ash tree. She heard them come up into the fort with their lanterns. She heard them go through it, every corner, every heap of fallen stone, calling to each other. She heard one of them come in under the arch, under the verse, into the tower, and stand there at the foot of the stair, breathing hard, and lift his lantern, and the light went up the inside of the wall toward her, and stopped three steps below where she sat, where the stair turned.
 

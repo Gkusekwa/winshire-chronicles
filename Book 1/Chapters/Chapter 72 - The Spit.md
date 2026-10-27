@@ -34,7 +34,7 @@ He felt them both. Kharrak's tide, all the way up. Aurveth's slow old weight und
 
 And the empty place where the third should have been.
 
-He felt that most. Not a fire through a wall now. Nothing. Lisska was too far. Gone west over the Brackenwood with a bundle in her claw. He felt the space she'd left, cold, where she always was, at the edge of everything, chattering.
+He felt that most. Not a fire through a wall now. A spark, far off and west, small and frightened, and no words in it. She'd gone where he sent her, and she didn't speak. He felt the space she'd left, cold, where she always was, at the edge of everything, chattering.
 
 *Now,* he said.
 
@@ -52,7 +52,7 @@ Aurveth went along the east shore, without hurry. The boats drawn up on the grav
 
 The men on the island broke.
 
-Not all. Most. He saw them from Aurveth's neck as she came round. Running for the boats that weren't burning yet, at the south end, at the spit. Throwing themselves into the river. Swimming for the Saltreach shore. Shouting.
+Most of them. He saw them from Aurveth's neck as she came round. Running for the boats that weren't burning yet, at the south end, at the spit. Throwing themselves into the river. Swimming for the Saltreach shore. Shouting.
 
 A few hundred didn't run.
 
@@ -112,7 +112,7 @@ Then he saw Rook.
 
 Going the other way.
 
-Away from the tower and the fighting. Out through the broken wall on the south side of the fort, where it was down to the height of a man's knee, and down the slope beyond it through the oaks toward the south end of the island. Toward the spit. Toward the landing. Alone. Walking fast, with his head down, the way a man walks out of a house where something's gone wrong, before anybody notices he's gone.
+Away from the tower and the fighting. Out through the broken wall on the south side of the fort, where it was down to the height of a man's knee, and down the slope beyond it through the oaks toward the south end of the island. Toward the spit. Toward the landing. Alone. Walking fast, with his head down, like a man leaving a house where something's gone wrong, before anybody notices he's gone.
 
 A man of no particular height. With a face you forgot while you were looking at it.
 
@@ -302,7 +302,7 @@ The bells rang.
 
 And then, all at once, they stopped.
 
-Not one by one. All of them. In the middle of a stroke. As if a hand had come down on every rope at once. One moment the night full of bells, and then nothing. The river. The fire on the hill. His own breath.
+All of them, in the middle of a stroke. As if a hand had come down on every rope at once. One moment the night full of bells, and then nothing. The river. The fire on the hill. His own breath.
 
 He stood there.
 

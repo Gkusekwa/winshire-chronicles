@@ -95,7 +95,7 @@ The drover's face didn't change at all. "Marches," he said. "Like I said."
 
 ---
 
-He moved along. He walked the whole quay, end to end, the way you'd walk Cotter's Cross on market day, looking at everything. He made himself.
+He moved along. He walked the whole quay, end to end, as you'd walk Cotter's Cross on market day, looking at everything. He made himself.
 
 It was all cages. Pens, for the big ones. Iron cages for the dangerous ones. Wire boxes, stacked three high, for the small. Down both sides of the quay and along the middle, under awnings, with men standing by them shouting prices and men walking past them looking, and the noise of the beasts going up into the grey sky over the harbour, barking and howling and bellowing and screaming, so that the gulls kept away. Between the cages a man with a tray round his neck went up and down selling charms against bite and claw, warranted, he said, with the Council's stamp, and the buyers bought them the way you'd buy a pie.
 
@@ -191,7 +191,7 @@ Calder stood at the back of the crowd.
 
 *For the north.*
 
-Where was *the north*? The Marches? The Scarfell? Hearthmere? He thought of the barges on the Wend that the beast-sellers in the Crane had grumbled about, going up the river at night with their cargo, *over the water by barge and nobody the wiser.* Going north. Up the river. Back to where the beasts had come from.
+Where was *the north*? The Marches? The Scarfell? Hearthmere? He thought of barges on the Wend, going up the river at night with their cargo. Going north. Up the river. Back to where the beasts had come from.
 
 Why would anybody buy beasts out of the Marches, ship them all the way south to Wendmouth, and pay to ship them all the way north again?
 
@@ -245,7 +245,7 @@ He thought of Kharrak in the field, dragging himself through the burning straw. 
 
 *That's not what that was.*
 
-He didn't know what it was. He didn't have a word for it. But he knew what it wasn't. He'd felt the real thing go into him. Three times. Like lightning that took a lifetime to hit. And whatever was happening in that little stone room with the smoke and the collar and the man in grey saying the same words over and over, it wasn't that. It was something wearing its clothes.
+He didn't know what it was. He didn't have a word for it. But he knew what it wasn't. He'd felt the real thing go into him. Three times. Like lightning that took a lifetime to hit. And whatever was happening in that little stone room with the smoke and the collar and the man in grey saying the same words over and over was something wearing its clothes.
 
 He thought of the young man's face. Wet. Shaking. Crying out.
 
@@ -261,9 +261,9 @@ He'd have them by dark.
 
 He took the bar from a chandler's yard on the fish-docks.
 
-It was the kind sailors used in the capstans of the big ships: a length of oak as long as he was tall, as thick as his wrist, shod with iron at both ends. There was a stack of them in the yard, leaning against a wall under a lean-to, and the yard had a gate that didn't shut properly, and nobody was watching. He waited till dusk and took one and walked out with it over his shoulder, the way a docker would, and nobody looked twice.
+It was the kind sailors used in the capstans of the big ships: a length of oak as long as he was tall, as thick as his wrist, shod with iron at both ends. There was a stack of them in the yard, leaning against a wall under a lean-to, and the yard had a gate that didn't shut properly, and nobody was watching. He waited till dusk and took one and walked out with it over his shoulder, the way a docker would, and nobody looked.
 
-He waited in the Low Lantern till the middle of the night. He sat on the straw against the wall with the bar across his knees and his eyes shut, and the woman from Ewe Hollow slept a few feet off with her children, and he didn't think about anything. He felt the three of them. He'd sent it to them, as best he could, what he was going to do. Not the words. They couldn't hear words at five leagues. The feeling. The shape of it. *Going back. Tonight. Not coming to you. Not yet. Stay. Stay where you are.*
+He waited in the Low Lantern till the middle of the night. He sat on the straw against the wall with the bar across his knees and his eyes shut, and the woman from Ewe Hollow slept a few feet off with her children, and he didn't think about anything. He felt the three of them. He'd sent it to them, as best he could, what he was going to do. They couldn't hear words at five leagues, only the feeling. The shape of it. *Going back. Tonight. Not coming to you. Not yet. Stay. Stay where you are.*
 
 He felt Kharrak's rage come back at him, hot, wordless, *no, no, alone, no.* He felt Aurveth's long slow sorrow, that was not quite agreement and not quite refusal. He felt Lisska's fear.
 
@@ -415,7 +415,7 @@ A paper. Nailed to the iron rail at the top of the Tidesteps, where Vale had sto
 
 *Wanted, alive. The Marches farmer called Calder Fenn, who keeps three dragons. For theft of Halloran property and breach of the Council's peace. Two hundred silver.*
 
-"Two hundred," said the carter, who'd stopped to water his horse at the ford where Calder was sitting, and didn't look at him twice. "For a barley farmer. Imagine." He spat. "And you should've heard them on the quay. All the stall-holders. Yelling at anyone who'd listen. *First some Hearthmere knight-girl smashing locks at Millbrook, freeing other folk's beasts, and now this Marches farmer letting out the whole of Gallows Quay in one night! Is nobody's property safe?*" He laughed. "*Property.* Gods. I've carted for them. I know what their property is."
+"Two hundred," said the carter, who'd stopped to water his horse at the ford where Calder was sitting, and hardly looked at him. "For a barley farmer. Imagine." He spat. "And you should've heard them on the quay. All the stall-holders. Yelling at anyone who'd listen. *First some Hearthmere knight-girl smashing locks at Millbrook, freeing other folk's beasts, and now this Marches farmer letting out the whole of Gallows Quay in one night! Is nobody's property safe?*" He laughed. "*Property.* Gods. I've carted for them. I know what their property is."
 
 He got back on his cart and clicked to his horse.
 

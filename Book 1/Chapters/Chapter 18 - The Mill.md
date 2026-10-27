@@ -156,7 +156,7 @@ He talked to it.
 
 The great gold eye looked at him.
 
-"It's all right," said Calder. It wasn't. Nothing was. He said it anyway, the way you say it to a calf. "It's all right. I'm here. I'm here, lad. Easy."
+"It's all right," said Calder. It wasn't. Nothing was. He said it anyway, as you say it to a calf. "It's all right. I'm here. I'm here, lad. Easy."
 
 And the dragon moved.
 
@@ -254,6 +254,8 @@ And then nothing.
 
 And the third hand closed in him, and the third root went down, and held.
 
+Around him, all three of them cried out at once, one long broken sound, and stopped, as if a door had shut on it.
+
 ---
 
 It was too much.
@@ -274,7 +276,7 @@ And then the roar came.
 
 It came from the river.
 
-It came across the water from the north, from the island, from the Old Ruin, and it was the biggest sound he had ever heard. Bigger than the dragons. Bigger than the mill going up. It was so deep that the first of it wasn't a sound at all, just a shaking in the ground under him, coming up through his back and his broken ribs. Then it rose. It came up out of the ground and into the air and went on rising, a long, rolling, endless roar, like the whole of the river had stood up on its end and was shouting, and it went over the burning mill and the green and the lanes and the fields, and over him, and up the hill, and away into the Scarfell, and he heard it echo back off the hills, and come back, and go away again.
+It came across the water from the west, from the island, from the Old Ruin, and it was the biggest sound he had ever heard. Bigger than the dragons. Bigger than the mill going up. It was so deep that the first of it wasn't a sound at all, just a shaking in the ground under him, coming up through his back and his broken ribs. Then it rose. It came up out of the ground and into the air and went on rising, a long, rolling, endless roar, like the whole of the river had stood up on its end and was shouting, and it went over the burning mill and the green and the lanes and the fields, and over him, and up the hill, and away into the Scarfell, and he heard it echo back off the hills, and come back, and go away again.
 
 Everything stopped.
 

@@ -159,8 +159,6 @@ She stayed where she was.
 
 "I'm sorry," she said. "It's your place. I'll go if you want."
 
-It couldn't understand her. She said it anyway.
-
 It lay down.
 
 In the mud, in the rain, facing the arch. It put its great head on its forepaws and looked at her, and the river roared, and the rain came down, and the lantern hissed on the step.
@@ -195,7 +193,7 @@ She wasn't going to die.
 
 She put out her hand.
 
-Slowly. So slowly. The way you'd put your hand out to a horse you didn't know, in a dark stall, palm down, fingers loose. Not toward its face. Toward its shoulder, where the mane began, behind the great head, where it ran thick and grey and wet over the top of the neck.
+Slowly. So slowly. As you'd put your hand out to a horse you didn't know, in a dark stall, palm down, fingers loose. Toward its shoulder, away from its face, where the mane began, behind the great head, where it ran thick and grey and wet over the top of the neck.
 
 It watched her hand come.
 
@@ -285,7 +283,7 @@ It fell off the lion's neck in two halves, on its hinge, heavy, and lay in the m
 
 The lion stood up.
 
-It stood up all at once, to its full height over her, ten feet at the shoulder and more, and shook itself. From its head down to its tail, the way a dog shakes coming out of water, the great mane flying out round its head in a spray. And the ground shook with it. The whole island. The old tower behind it groaned and a stone came down off the top of the broken wall into the stream. She was thrown sideways in the mud.
+It stood up all at once, to its full height over her, ten feet at the shoulder and more, and shook itself. From its head down to its tail, as a dog shakes coming out of water, the great mane flying out round its head in a spray. And the ground shook with it. The whole island. The old tower behind it groaned and a stone came down off the top of the broken wall into the stream. She was thrown sideways in the mud.
 
 It didn't look at her. It turned away and walked down the bank of the stream to the river, to the edge of the brown flood water where the floes were going past, and put its head down, and drank.
 
@@ -345,7 +343,7 @@ She read it standing by the fire with the water running off her onto the flags. 
 
 She thought of the hillside burning at the mouth of the Ewe Beck, on the night of the bell. Haverly on the wall. *That's dragon-fire.* She thought of the hills above Harrow's End two nights later, the torches scattering.
 
-*Calder Fenn.* She'd known the name since the turn of the winter. Liss had told her, at supper. She'd never said it aloud.
+*Calder Fenn.* She'd known the name since the autumn, from a man on her mother's ferry. She'd never said it aloud.
 
 "Ashdown," said Pell.
 

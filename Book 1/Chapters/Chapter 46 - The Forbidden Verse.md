@@ -56,13 +56,13 @@ He stood in the yard with the paper in his hands.
 
 By dark, all of Harrow's End had heard it.
 
-The ones who'd stayed. Wat Garrow, who came up the river lane to Upper Rush at dusk on the excuse of a borrowed saw and stood in Bel's kitchen looking at Calder with his face very strange. The Ashby widow, who didn't come but sent her girl. Two of the Hollins from the next farm, who came to the gate and stood there in the dusk and wouldn't come in. Fisk, who'd gone back down to the Eelweir with his paper and read it out at the Wheel's burned doorway to anybody who'd stand and listen, which was everybody.
+The ones who'd stayed. Wat Garrow, who came up the river lane to Upper Rush at dusk on the excuse of a borrowed saw and stood in Bel's kitchen looking at Calder with his face very strange. The Ashby widow, who didn't come but sent her girl. Two of the Hollins from the next farm, who came to the gate and stood there in the dusk and wouldn't come in. Fisk, who'd gone back down to the Eelweir with another copy and read it out at the Wheel's burned doorway to anybody who'd stand and listen, which was everybody.
 
 He didn't need them to tell him what they were saying. He'd heard it on the Tidesteps. He'd heard it at the hedge after the battle.
 
 *It's begun with him. Ask yourselves why.*
 
-"Calder," said Bel, at supper. She hadn't looked at him all evening. "Is it true?"
+"Calder," said Bel, at supper the next night. She hadn't looked at him all day. "Is it true?"
 
 "Is what true?"
 
@@ -142,25 +142,17 @@ The kitchen was absolutely silent.
 
 He sat at the table with his hands round his cup and heard it go into him. For the third time. Twice on the ice at midwinter, and now here.
 
-On the ice, in the black shadow under the bank, with Aurveth's throat pressed against the river. *Do not ask me. Not yet.*
-
-Across four leagues of frozen river at midnight, faint and clear, in Lisska's small bright voice, keeping time. *Keep the watch below. And do not ask.*
-
-And now his mother, at Bel's table, with her hands flat on the wood. *Hush now, and do not ask it.*
-
 *The last one sleeps where the oath is kept.*
 
-He hadn't known what the knights' oath was until midwinter night. He'd lived his whole life across the river from Greyhold, and he'd known the knights swore something, at noon, facing the river; everyone on the Saltreach bank knew that, the way you know your neighbour says his prayers. He'd never known the words. He'd never cared. On midwinter night he'd sat in the snow on the ice beside a dragon who wouldn't speak, and the words had come across the river to him in the dark, from hundreds of voices on Greyhold's wall.
+He hadn't known what the knights' oath was until midwinter night. He'd lived his whole life across the river from Greyhold, and he'd known the knights swore something, at noon, facing the river; everyone on the Saltreach bank knew that, as you know your neighbour says his prayers. He'd never known the words. He'd never cared. On midwinter night he'd sat in the snow on the ice beside a dragon who wouldn't speak, and the words had come across the river to him in the dark, from hundreds of voices on Greyhold's wall.
 
 *Keep the watch below.*
 
-*Beneath the fortress-school of Greyhold,* said the paper on the table, in Fisk's careful reading, *the crown of Hearthmere keeps in chains the last of the great beasts.*
+*Beneath the fortress-school of Greyhold,* said the paper on the table, in his own slow reading, *the crown of Hearthmere keeps in chains the last of the great beasts.*
 
 *In iron and dark beneath the stone,* sang his mother. *And the watch above has never slept. And the watch has forgotten what it keeps.*
 
 He sat very still.
-
-*The knights keep the oath,* he thought. *Every day. At noon. Facing east, toward the river, toward the old wall. Where the oath is kept.*
 
 *It's under them. Under Greyhold. That's where it is. That's what she touched, on the ice. That's what's lying down there, awake, turning, in iron and dark, with a whole school of knights standing on top of it every day at noon singing to it not to ask.*
 

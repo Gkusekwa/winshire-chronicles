@@ -7,9 +7,9 @@ All of these are proposals until you accept them.
 ## Timeline
 | Days | Chapter | Events |
 |---|---|---|
-| 42 | 30, 32 | Harrow's End burns; Calder spends that night at home |
+| 42–43 | 30, 32 | Harrow's End burns (night 42); Calder spends night 43 at home |
 | 44 | 31 | Tam and Absalom Reede (Tam went to the barn on night 43) |
-| 43–46 | 32 | Back at Crow Scar on day 43; Vey's men found round the crag that morning; Vey parleys on day 45; Lisska finds the Chimney on night 45; the escape on night 46 (Holloway seen burning) |
+| 44–46 | 32 | Back at Crow Scar on day 44; Vey's men found round the crag that morning (in the wood since day 43); Vey parleys on day 45; Lisska finds the Chimney on night 45; the escape on night 46 (Holloway seen burning) |
 | 46–48 (nights) | 32 | Three nights' flying south, lying up by day; the last day in the Wendwood |
 | 49 | 33, 34 | The same day: Vale on the Tidesteps at noon, and the Ferriby raid at dusk |
 | 50–53 | 35 | Report written night 50; Pell and Rowan day 51; Hale's oath history and the island on day 52; the Lesson Wall report on day 53 |

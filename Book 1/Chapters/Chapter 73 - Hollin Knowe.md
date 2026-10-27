@@ -36,7 +36,7 @@ She stopped dead in the heather.
 
 *Honey-smoke.*
 
-The island hunters had burned it in the summer, on the spit, to keep the lion asleep while they chained it. It had come off the barge at the Redwatch landing on the morning Bracken died. Calder Fenn's dragons had burned a tent full of it at the Ewe Beck, and the wind had brought the smell of it across the river that night to the wall at Greyhold.
+The island hunters had burned it in the autumn, on the spit, to keep the lion asleep while they chained it. It had come off the barge at the Redwatch landing on the morning Bracken died. Calder Fenn's dragons had burned a tent full of it at the Ewe Beck, and the wind had brought the smell of it across the river that night to the wall at Greyhold.
 
 It was coming down off the top of the knowe.
 
@@ -48,7 +48,7 @@ There was light at the top. Red. Low. Pots of it, on poles, round the ring of be
 
 In the middle of the beacon-stones, in the smoke, the lion.
 
-It was lying down. On its side. The way she'd seen it lying on the spit in the summer, with the hunters' chain on it. Its great head on the heather. Its flanks going, slow, heavy, like a beast asleep. Chain over it. Across its shoulders and its haunches and round its forelegs, the long beast-chains staked into the ground at both ends, with men leaning on the stakes.
+It was lying down. On its side. The way she'd seen it lying on the spit in the autumn, with the hunters' chain on it. Its great head on the heather. Its flanks going, slow, heavy, like a beast asleep. Chain over it. Across its shoulders and its haunches and round its forelegs, the long beast-chains staked into the ground at both ends, with men leaning on the stakes.
 
 At its head, a man.
 
@@ -100,7 +100,7 @@ She hadn't known. Nobody had ever told her. She'd thought it would be like putti
 
 It pulled.
 
-The smoke had opened it. That was what the honey-smoke was for. Not to make a beast sleep. To open it. The way sleep opens a sleeper, so that whatever's there can come out, and whatever's waiting can come in. The lion was open under her hand like a door with the wind behind it, and through the door, everything in her was going.
+The smoke had opened it. That was what the honey-smoke was for: to open it. The way sleep opens a sleeper, so that whatever's there can come out, and whatever's waiting can come in. The lion was open under her hand like a door with the wind behind it, and through the door, everything in her was going.
 
 She felt it go. Out of her palm. Out of her arm. Out of her chest. Like the river going out through a sluice when the paddles are drawn. Everything. Her breath. Her warmth. Her father's face. Liss on the red door with the lantern. Tam crying in the smoke. Pell sitting down. Fourteen pages about a roadblock. The ice, and the rope parting. The arch. The pit. The scale. All of it, going out of her into the open door under her hand, faster and faster.
 
@@ -128,7 +128,7 @@ She felt it happen. Everything in her going out through her hand into the open d
 
 Something came the other way.
 
-Up the passage. Out of the dark. Toward her. Not pulling. Coming, very large. It met her. Where she was going out and it was coming up, in the middle, in the door, it met her, and it didn't take her. It stopped her going. It stood in the passage and held her there, the way you'd catch somebody falling down a stair.
+Up the passage. Out of the dark. Toward her. Not pulling. Coming, very large. It met her. Where she was going out and it was coming up, in the middle, in the door, it met her, and it didn't take her. It stopped her going. It stood in the passage and held her there, as you'd catch somebody falling down a stair.
 
 The door shut.
 
@@ -156,7 +156,7 @@ She lay in the heather with her hand on its head and the tears running sideways 
 
 She knew its name.
 
-Nobody told her. It didn't say it. She just knew it, all at once, the way you know your own name when somebody calls it in a crowd. It was there. In the door. Where they'd met.
+Nobody told her. It didn't say it. She just knew it, all at once. It was there. In the door. Where they'd met.
 
 *Orrun.*
 
@@ -186,7 +186,7 @@ Some of Delling's men had kept hold of the chains. Six of them, with spears, com
 
 The earth one went at them.
 
-It was as strong as he was. She felt that through the bond, the way you know your two hands are the same hand. A spear went into its chest and broke, and the shaft stuck out of the turf there like a stake out of a bank. It took a man under its forefoot and he didn't get up. It took the chain out of two others' hands with its jaws, links and all, and shook it, and the men let go and ran, and then they all ran.
+It was as strong as he was. She felt that through the bond, as you know your two hands are the same hand. A spear went into its chest and broke, and the shaft stuck out of the turf there like a stake out of a bank. It took a man under its forefoot and he didn't get up. It took the chain out of two others' hands with its jaws, links and all, and shook it, and the men let go and ran, and then they all ran.
 
 It lasted the time it takes a bell to ring the noon. No longer.
 
@@ -208,7 +208,7 @@ It was over very fast.
 
 She lay in the heather on the top of Hollin Knowe in the light of the burning smoke-pots and felt it. Through the bond. Everything Orrun felt. The rage going out of it. A hollow in it where the thing on the knowe had come out of it, filling, a little at a time. The smoke still sour in its throat. The chain-galls on its legs, raw, stinging. And under all of it, so huge she couldn't see the edges, something else.
 
-The island. The door. The pit. The stone under its claws. Scraping. All winter. Every night. And something below, a long way down, under a mile of rock, breathing. Turning. *Kin.* Not a word. A pull. The way a hound pulls toward its master's grave.
+The island. The door. The pit. The stone under its claws. Scraping. All winter. Every night. And something below, a long way down, under a mile of rock, breathing. Turning. *Kin.* A pull, like a hound's toward its master's grave.
 
 And her. A woman at ten paces. Talking. Talking and talking, in the arch, in the pit, all winter, in a noise it couldn't make anything of, and it had lain there and let her, and it hadn't known why.
 
@@ -280,9 +280,7 @@ She felt it through the bond.
 
 No words, at first. A kind of hum between them. The way the ground had hummed under the archive. Something going across between them that she couldn't hear, and then could. Through him.
 
-*Kin,* said Orrun, as if he were surprised. *She is kin. Not close. Far. A long way back. But kin.*
-
-*She's been in the trees since noon,* said Orrun. *At the edge of the wood. Watching me. She found me on the hill in the morning and didn't dare come down. She was waiting for you. She saw the men come with the smoke, and she was too small, and too frightened, and she stayed in the trees.* A pause. *She's sorry. She says it over and over. She's sorry.*
+*Kin,* said Orrun, as if he were surprised. *She is kin. Far off. A long way back. But kin.*
 
 *What's she saying?*
 
@@ -294,9 +292,11 @@ Maren stopped breathing.
 
 *She says: one under the tower on the island. In the floor. One under the school.* Orrun's great head turned south and east. Toward Greyhold. Four leagues off in the dark. *She says: at midnight. Both. In the same breath. The still one at the tower. The other one under the school. If one turns and the other doesn't, nothing opens. Both, or nothing.*
 
-The green dragon was still saying it. Over and over. Maren could feel it now, through Orrun. Not the words. The shape of them. Desperate. Like a child saying a lesson she's been made to learn by heart.
+The green dragon was still saying it. Over and over. Maren could feel the shape of it now, through Orrun. Desperate. Like a child saying a lesson she's been made to learn by heart.
 
 *She says he said tell her.* Orrun was quiet a moment. *He said she'd know about two.*
+
+*She's been in the trees since noon,* said Orrun. *At the edge of the wood. Watching me. She found me on the hill in the morning and didn't dare come down. She was waiting for you. She saw the men come with the smoke, and she was too small, and too frightened, and she stayed in the trees.* A pause. *She's sorry. She keeps saying it. She's sorry.*
 
 ---
 

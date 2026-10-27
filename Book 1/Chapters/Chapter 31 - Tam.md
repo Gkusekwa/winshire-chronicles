@@ -10,7 +10,7 @@ Carried forward: From Chapter 7: Tam (19) is apprenticed to Odo Marl, the Millbr
 Draft notes: Day 44. Decided here (proposals):
 - The man at the Kettle is Absalom Reede, a travelling bookbinder, grey and gentle, who mends the Kettle's ledgers and talks history. He runs the meeting in Fennick's tithe barn behind the mill: sixty people, lamps, no masks. He reads from an old book about the one realm, when beasts walked free and nobody was bonded "above" anybody.
 - The pitch, as Tam repeats it: the unchosen are equal; the knights lied, because Hearthmere's wealth rests on something it keeps hidden; the kingdoms chain beasts and the old realm didn't; "one again".
-- Tam was on the River Road opposite Harrow's End on the night of the second burning (night 42), with the Millbrook men who walked up to watch. He saw the knights sit on the bank, Captain Thorne in the middle of the line on a horse. He went to the barn the next night. That's what turned him.
+- Tam was on the River Road opposite Harrow's End on the night of the second burning (night 42), with Millbrook men who were at Redwatch that night. He saw the knights sit on the bank, Captain Thorne in the middle of the line on a horse. He went to the barn the next night. That's what turned him.
 - Tam wears an iron ring on a cord round his neck, the size of a thumbnail, stamped with six dots. "They give you one when you stand up." Maren recognises the mark from the chain.
 - The quarrel: she tells him about the island, the hunters, the chains with that mark. He says Reede told them about that: hunters with stolen chain, trying to discredit the movement. He doesn't believe her. She doesn't tell him she half agrees about the gate.
 - Odo Marl, the smith, says nothing and goes on hammering. At the door he tells her quietly: "Half my trade's mending their chain."
@@ -25,7 +25,7 @@ She went to Millbrook on her rest day because Grieve sent her for nails.
 
 That was the reason. Grieve needed horseshoe nails, a keg of them, and the smithy at Millbrook made the best on the river, and it was two leagues downstream, and somebody had to walk there and walk back with a keg on a handcart. He'd looked at her ribs, still bound under her shirt, and at the handcart, and said *you'll manage,* and she had.
 
-It wasn't all of the reason. She hadn't seen Tam since the fair. Since the three days he'd spent at the ferry house telling the duskcat story at supper, with more boatmen in it every night. Before the island. Before everything.
+She hadn't seen Tam since the fair. Since the three days he'd spent at the ferry house telling the duskcat story at supper, with more boatmen in it every night. Before the island. Before everything.
 
 Millbrook was quieter than it had been. She noticed it coming in along the river path. The jetty, which on any autumn day she could remember had been crowded with Saltreach boats tied up three deep, had four boats at it. The stalls by the inn were shut. The mill was turning, the great grey wheel going round in its race, but there was only one cart waiting at the loading door. On the board by the inn, where the crown's notices went, there was a fresh one with the seal on it: a Millbrook woman fined four silver for saying a keeping-word over her neighbour's milk without the licence for it. Somebody had chalked underneath that the milk had kept, all the same.
 
@@ -135,7 +135,7 @@ Tam looked at the river.
 
 She went still.
 
-"A lot of us went up. From Millbrook. When we saw the glow. We went up the River Road in the dark, on foot, twenty of us, past Greyhold, to the bank opposite Harrow's End. To see." He wasn't looking at her. "And the knights were there. Already. Twenty of them, on horses, and a greyhart or two, in a line at the water, with lanterns. Sitting there. Captain Thorne in the middle of the line on her big grey." His voice had gone very flat. "And we stood behind them on the road. And we watched it burn. All night. The houses by the mill. The farm with the cows. The fighting in the lanes. We could hear people screaming. Children. We could hear children, Maren. Across the water."
+"A lot of us were up at Redwatch that night. Odo had the tower's boat-irons to deliver, and he took twenty of us to carry and stay for the ale. When the glow went up we went along the bank with the tower men, to the water opposite Harrow's End. To see." He wasn't looking at her. "And the knights were there. Already. Twenty of them, on horses, and a greyhart or two, in a line at the water, with lanterns. Sitting there. Captain Thorne in the middle of the line on her big grey." His voice had gone very flat. "And we stood behind them on the road. And we watched it burn. All night. The houses by the mill. The farm with the cows. The fighting in the lanes. We could hear people screaming. Children. We could hear children, Maren. Across the water."
 
 She said nothing.
 
@@ -155,7 +155,7 @@ The river went by under the jetty.
 
 ---
 
-She should have left it there. She knew that afterwards. She should have put her arm round him and said *I know, I know, I'd have said it too,* which was very nearly true, and gone home. But she was tired, and her ribs hurt, and she'd been sitting in the mud by a stream for six weeks being very careful not to do anything, and something in her had had enough of being careful.
+She should have left it there. She knew that afterwards. She should have put her arm round him and said *I know, I know, I'd have said it too,* which was very nearly true, and gone home. But she was tired, and her ribs hurt, and she'd been sitting in the mud by a stream for a month and more being very careful not to do anything, and something in her had had enough of being careful.
 
 "Show me," she said.
 

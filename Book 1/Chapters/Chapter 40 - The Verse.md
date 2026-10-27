@@ -8,7 +8,7 @@ Echo of the other's story: Lisska says the knight-student and the beast are at t
 Status: first draft
 Carried forward: From Chapter 38: Calder at his sister Bel and Joss's farm at Upper Rush with Ada, Wren, and Bel's children Pip and Nan; the price on his head; the soft-spoken man asking at Ada's door. From Chapter 39: on the night Ide Darrow died, three dragons were seen high over the river going north. From Chapter 28: Aurveth's memory of the white bridge and the grey cat on the tower steps. From Chapter 22: Ada's third verse, sworn on the hearthstone, "not till I'm sure". From Chapter 13: the verse under the tower arch.
 Draft notes: Days 65–72. Decided here (proposals):
-- Why the dragons were over the river going north at dusk on day 65: Calder sent them to find a winter lie-up in the high Scarfell. Lisska begged to go over the island on the way, "just to see". Aurveth let her, high, once. They went north from there to the old hatching caves above Coldtarn, which the Clan hasn't used in a hundred years, and come back on day 68. Lisska shows Calder her memory that night.
+- Why the dragons were over the river going north at dusk on day 65: Calder sent them to find a winter lie-up in the high Scarfell. Lisska begged to go over the island on the way, "just to see". Aurveth let her, low, once. They went north from there to the old hatching caves above Coldtarn, which the Clan hasn't used in a hundred years, and come back on day 68. Lisska shows Calder her memory that night.
 - Lisska's memory: nine years ago, when she was barely fledged, Imra took her down onto the island one summer night on a dare, which is against every rule of the Clan and the river. Lisska landed in the fort, saw the arch, and saw letters she couldn't read. She remembers every stroke.
 - Through the bond she shows Calder the arch as it was nine years ago. Aurveth, reading through him, reads the old script aloud. The weathering was a little less then: "the last … great … sleeps below the stone … let no hand wake it". There is one more line under it, cut deeper, but Lisska was watching Imra and the memory goes before Calder can see it. (He doesn't get the oath line; that waits for Ada's verse in Chapter 46.)
 - Aurveth knows the script, the way you know your own hand. She doesn't know why. She is afraid of the island: "something there cut me." She says no more than that.
@@ -41,11 +41,11 @@ It had to be done. He knew it. He'd known it since Wat Garrow's fire. *You'll no
 
 "For a few days. I want to stay with Wren. A few days."
 
-*Can we go over the island?* said Lisska. *On the way? Just to see? Just once? High up. Nobody will see. Please?*
+*Can we go down low over the island?* said Lisska. *On the way? Low, just once? Nobody will see. Please?*
 
 He looked at Aurveth. Aurveth looked at the sky.
 
-*Once,* she said. *High. And then north.*
+*Once,* she said. *Low, and quick. And then north.*
 
 They went at dusk. He stood in Bel's yard with Wren and watched them go up over the hill, one after another, the bronze and the red and the green, into the last of the light. He felt them go away from him, downriver first, toward the island, and then turn, and go north, and grow faint, and fainter, until their voices were gone and there was only the feeling.
 
@@ -61,7 +61,7 @@ He felt them coming before dawn, a long way off, the voices coming in faint and 
 
 They landed on the hill above Bel's in the grey light, and he went up to them through the frozen bracken, and Lisska came down the hill to meet him so fast that she slid the last few lengths on the frost and nearly knocked him over.
 
-*I saw it,* she said. *The island. I told you I wanted to go and see and I went and saw. Aurveth let me. Very high. Just once.* She was quivering. *And I remembered something.*
+*I saw it,* she said. *The island. I told you I wanted to go and see and I went and saw. Aurveth let me. I went low. Lower than I've ever been.* She was quivering. *And I remembered something.*
 
 "What?"
 
@@ -99,7 +99,7 @@ He said it out loud, at Bel's table, and Bel jumped, and Pip and Nan stared at h
 
 *I don't know how.*
 
-*Yes you do, child,* said Aurveth. From the hill, from the bracken, faint and deep. *You have been doing it since the field. Every time you see something new and come racing back to tell him, you push it at him, and he sees a little of it. You don't know you're doing it. Do it on purpose. Think of the arch. Not the words. The stone. As if you were standing in front of it. And push.*
+*Yes you do, child,* said Aurveth. From the hill, from the bracken, faint and deep. *You have been doing it since the field. Every time you see something new and come racing back to tell him, you push it at him, and he sees a little of it. You don't know you're doing it. Do it on purpose. Think of the arch. The stone of it, not the words. As if you were standing in front of it. And push.*
 
 There was a silence.
 
@@ -153,7 +153,7 @@ The window closed.
 
 He was sitting at Bel's kitchen table with his hands flat on the wood and the fire crackling and four people staring at him.
 
-Outside, against the wall, he could feel Lisska. Shaking. Through the green mark. Not with fear. With Imra. She'd seen her. For the first time since the field. Not the last of her, cold, with something in her throat. The first of her. Eighteen. Laughing. Turning round and round in the starlight. *There, Brann Holt.*
+Outside, against the wall, he could feel Lisska. Shaking, through the green mark, with Imra. She'd seen her. For the first time since the field. Not the last of her, cold, with something in her throat. The first of her. Eighteen. Laughing. Turning round and round in the starlight. *There, Brann Holt.*
 
 *I didn't know I still had that,* said Lisska. Very small. *I remember everything. But I didn't know I still had that.*
 
@@ -217,7 +217,7 @@ He thought about the girl in river grey, sitting on the stream bank, with someth
 
 He thought about Vale on the Tidesteps, with his hands on the iron rail and his grey eyes going over the crowd. *One of them is built on a lie so old, and so big, and so deep, that when it comes out, the ground will shake.*
 
-He thought about his own question. The one he'd asked them at Crow Scar, in the dark, with the rain on the rock. The one nobody could answer, not even Aurveth, who was three hundred years old and had been bonded three times before him and had never heard of anything like it.
+He thought about his own question. The one he'd asked them at Crow Scar, in the dark, with the rain on the rock. The one nobody could answer, not even Aurveth, who was more than three hundred years old and had been bonded three times before him and had never heard of anything like it.
 
 *Why me?*
 

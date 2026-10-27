@@ -39,7 +39,7 @@ There was a crock of honey.
 
 A brown clay crock with a waxed cloth tied over it, tucked in among the salt meat. Somebody's luxury. Somebody who'd liked something sweet on his bread at the end of a long day of laying traps. Maybe the young one in the hollow. Maybe the one who'd run into the jaw-trap in the dark.
 
-She sat on the gravel with the crock between her knees and unwound the linen from her arm, which took a long time and made her cry out twice, and looked at the cuts, and then took the honey in her fingers and laid it into them. Thick. Gold. Into each one, from the shoulder to the elbow. The way her mother did for burns on the ferry, when a passenger's child put its hand on the hot stove of the cabin, or a boatman caught a rope wrong. *Honey,* Liss always said. *It keeps out the rot. Nobody knows why. It just does.*
+She sat on the gravel with the crock between her knees and unwound the linen from her arm, which took a long time and made her cry out, and looked at the cuts, and then took the honey in her fingers and laid it into them. Thick. Gold. Into each one, from the shoulder to the elbow. The way her mother did for burns on the ferry, when a passenger's child put its hand on the hot stove of the cabin, or a boatman caught a rope wrong. *Honey,* Liss always said. *It keeps out the rot. Nobody knows why. It just does.*
 
 She bound it up again in fresh linen. She lay down on the gravel under the bluff where the hunters had slept, with the tarp over her, and slept, and woke shaking, and slept again.
 
@@ -155,7 +155,7 @@ On the thirteenth day the lion slept in the sun.
 
 She'd come down to the shore at noon to wash her arm in the river, and it was there. Not at the stream. On the open grass of the shore above the reeds, where she'd stood with Pell's sword on the night it woke. Where the noon sun lay warm on the grass. It was lying on its side, the way it had lain in the hollow, with its back to the trees and its legs stretched out and its great head on the grass, and its eyes were shut, and it was asleep.
 
-Not the smoke-sleep of the hollow, with the eleven breaths. Something heavier than ordinary sleep, and worse. Its sides went up and down slow and shallow. A fly walked across its ear and it didn't stir. It was sleeping the way a beast sleeps when it has bled for a week and has nothing left to stay awake with: sunk, gone right down, because it was warm, and hurt, and nothing on the island could do it any harm.
+Not the smoke-sleep of the hollow, with the eleven breaths. Something heavier than ordinary sleep, and worse. Its sides went up and down slow and shallow. A fly walked across its ear and it didn't stir. It was sleeping as a beast sleeps when it has bled for a week and has nothing left to stay awake with: sunk, gone right down, because it was warm, and hurt, and nothing on the island could do it any harm.
 
 She stood at the edge of the trees and looked at it.
 
@@ -199,7 +199,7 @@ Behind her, nothing happened. Nothing at all. When she reached the trees and tur
 
 They came for her before dawn on the fourteenth day.
 
-She heard the oars. She was awake; she'd hardly slept. She heard the knock of oars in rowlocks out on the dark water, downstream, coming up against the current. Not a raft. Not poles. Oars, two pairs, pulled in long slow strokes by someone who knew the river. She was on her feet and out under the arch with the hunters' hammer in her hand before she was properly awake.
+She heard the oars. She was awake; she'd hardly slept. She heard the knock of oars in rowlocks out on the dark water, downstream, coming up against the current. Not a raft. Not poles. Oars, one pair, pulled in long slow strokes by someone who knew the river. She was on her feet and out under the arch with the hunters' hammer in her hand before she was properly awake.
 
 A punt came round the south point in the dark. Small. Low in the water. A lantern hooded at the stern. Two figures in it.
 
@@ -289,7 +289,7 @@ She told about the shore, and the sword, and the claws. About the chain round it
 
 And the stream. And the sun.
 
-When she'd finished, Rowan sat without speaking. Then she put out one hand, the one with the ink-stained finger, and turned a page of Maren's notebook. And another, and stopped at the last page, where Maren had written, in pencil, on the first morning in the tower: *Breathing. North end. Eleven to the quarter hour. Faster when the dragons called. Da heard this.*
+When she'd finished, Rowan sat without speaking. Then she put out one hand, the one with the ink-stained finger, and laid it on the page beside the drawing, and read the lines under it, where Maren had written, in pencil, on the first morning in the tower: *Breathing. North end. Eleven to the quarter hour. Faster when the dragons called. Da heard this.*
 
 She looked at that for a while.
 

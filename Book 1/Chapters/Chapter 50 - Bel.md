@@ -125,7 +125,7 @@ He didn't go.
 
 The cart came at noon on the hundredth day.
 
-He saw it from the hill. A small cart, one horse, a dark bay, coming up the river lane from the south at a walk, slow, the way you drive a cart when you don't want to jolt what's in it. Two men walking at the horse's head. A woman sitting on the tail. All three in grey.
+He saw it from the hill. A small cart, one horse, a dark bay, coming up the river lane from the south at a walk, slow, as you drive a cart when you don't want to jolt what's in it. Two men walking at the horse's head. A woman sitting on the tail. All three in grey.
 
 He knew before it turned into the lane.
 
@@ -245,7 +245,7 @@ He looked at his sister. At her face, which was their father's face, square and 
 
 He told her at the table.
 
-Not the long table, where Joss was. The small one, by the fire. Ada was in her chair by the hearth with her hands in her lap. Bel sat across from him. Wren was on the ladder. He saw her there, in the edge of the firelight, and thought about sending her out, and didn't. She'd been sent out of everything. She'd sat on that ladder for the verse. She could sit on it for this.
+The small one, by the fire, away from the long table where Joss was. Ada was in her chair by the hearth with her hands in her lap. Bel sat across from him. Wren was on the ladder. He saw her there, in the edge of the firelight, and thought about sending her out, and didn't. She'd been sent out of everything. She'd sat on that ladder for the verse. She could sit on it for this.
 
 He took the chain out of his coat. The five links from the ruts at Upper Rush, in the summer, with the last link cut. He'd carried it every day since. Its weight had worn a hole in the lining of his pocket and he'd sewn it up twice. He laid it on the table between them.
 

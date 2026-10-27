@@ -23,10 +23,6 @@ notes -->
 
 ---
 
-A hedge-meeting is an old thing in Hearthmere. Older than the orders. When the crown forbade the old songs, people met under the hedges at night to sing them, because the crown's men were on the roads and nobody walked the fields. When the crown forbade the river guilds, the guilds met under the hedges. Liss says her grandmother went to them. Liss says you could tell a hedge-meeting from half a league off by the lanterns, strung out along the thorn like beads, and that nobody ever went to one who didn't already know what would be said.
-
----
-
 Pell sent her back to Greyhold on the hundred-and-twenty-first day with the report.
 
 *The beast's collar was removed on the morning of day one hundred and twenty by Student Ashdown, with hammer and chisel, at the beast's leave.* That was how he'd written it. *At the beast's leave.* She'd read it over his shoulder and hadn't said anything. She carried it in her coat on Turnip along the River Road in the thin spring sun, with the Wend running brown and loud and full of ice beside her, and the island going by on the left, and the snow going off the fields in long grey patches.

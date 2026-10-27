@@ -13,7 +13,7 @@ Draft notes: The first hour after midnight, night one hundred and forty-three in
 - Lisska's voice comes back into Calder's head when she's within three leagues: *Calder! Calder, I've got her, I've got her, she's with me, she's got the lion, she understood, she understood, Calder…*
 - They meet on the cavern floor at the foot of the rubble slope, in the light of Kharrak's fire, with the chains going up into the dark over them and the deep dark beyond moving.
 - Lisska first, at a run, round Calder, and then Orrun comes out of the gallery mouth with Maren on his back, and stops, ten paces off. Exactly ten. Maren gets down.
-- First words. He says, "You got it." She holds out the five links in the strip of his shirt. "Your dragon told my lion. My lion told me." He doesn't understand that. She says: "I met her. At the gate. At Greyhold. She held on to my arm." Then: "She says hello. She said it to my mother, and to me. Twice."
+- First words. He says, "You got it." She holds out the five links in the strip of his shirt. "Your dragon told my lion. My lion told me." He doesn't understand that. She says: "I met her. At the gate. At Greyhold. She held on to my arm." Then: "She says hello. She sent it by my mother. Then on the road she asked me had I given it to the lion."
 - Structure (revision): no recap of the night's news (the reader has it from 72–77). What passes between them is new, and short:
   - Kin: Orrun goes up the rubble to Aurveth. She bows her head to the stones, as Ennis bowed on the bridge, and the lion lowers his, as the cat did. Kharrak bristles; Lisska tells him he's kin too, far back. Kharrak lies down.
   - What each sees: Maren, looking at him with his three, says Lisska talks of him all the way as if he'd know everything; she thought he'd know more. Calder sees her hands and the blood to the elbow that isn't hers.
@@ -111,7 +111,7 @@ She slid off its neck onto the floor of the cavern and stood there. In the light
 
 He'd never seen her face.
 
-He knew her like weather in another valley, by Lisska's telling: on the east shore of the island in the dusk, pointing across the channel; at the stream in the summer; a narrow shape in a cloak in the arch, in the rain, at night, two leagues off. Boot-prints. A fire. A long pressed hollow beside a smaller one at the edge of a pit, both warm. He'd never once been close enough to see her face.
+He knew her like weather in another valley, by Lisska's telling: on the east shore of the island in the dusk, pointing across the channel; at the stream in the first autumn days; a narrow shape in a cloak in the arch, in the rain, at night, two leagues off. Boot-prints. A fire. A long pressed hollow beside a smaller one at the edge of a pit, both warm. He'd never once been close enough to see her face.
 
 A woman. Older than he'd thought. Twenty-five, thirty. Dark hair tied back hard behind her head. A long face, weathered, river-brown, with the broad bones of her mother's in it. Blood on it. Dust on it. In a shirt and breeches and a brown cloak too big for her, with a sword in her belt that wasn't a knight's sword, and her hands wrapped in rags that were black with blood and burned through at the palms. Blood on her to the elbow.
 
@@ -141,9 +141,9 @@ Her voice was hoarse. Low. A river voice, from the Hearthmere bank, like her mot
 
 He didn't understand that.
 
-He came down the rubble slope with Lisska beside him, and across the gap, and took the bundle out of her hand. The five links inside it. The first chain. From the ruts at Upper Rush, the morning after the raid. Heavy. Warm from her shirt.
+He came down the rubble slope with Lisska beside him, and across the gap, and took the bundle out of her hand. The five links inside it. The first chain. From the ruts at Upper Rush, the night of the raid. Heavy. Warm from her shirt.
 
-The lion watched him come. He felt it look at him. Not like a beast looks at you. Like a person.
+The lion watched him come. He felt it look at him. Like a person.
 
 "I met her," said Maren.
 
@@ -161,7 +161,7 @@ He couldn't speak.
 
 He stood there in the dark at the bottom of the world with the chain in his hand.
 
-"She says hello," said Maren. "She said it to my mother on the jetty and to me on the road. *A girl called Wren says hello.* Twice. So I wouldn't forget."
+"She says hello," said Maren. "She sent it by my mother. *A girl called Wren says hello.* Then on the road she asked me had I given it to the lion."
 
 ---
 

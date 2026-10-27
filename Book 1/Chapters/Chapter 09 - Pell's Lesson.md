@@ -46,7 +46,7 @@ She'd looked at it for a long time.
 
 ---
 
-There were eleven of them on the bench that morning, the second-years, with their beasts at their feet or on their shoulders or, in the case of the grey cat, asleep on the warm stones of the wall top, in the sun, where no one had put it. Haverly sat at the end with Kesh on his fist. The Darrow girl sat beside him with her hound's head on her knee. Tobin sat at the other end, as far from the bonded as the bench allowed, with his arms folded and the look he'd had for a week now, as if he were chewing something he hadn't decided whether to swallow.
+There were fourteen of them on the bench that morning, the second-years, with their beasts at their feet or on their shoulders or, in the case of the grey cat, asleep on the warm stones of the wall top, in the sun, where no one had put it. Haverly sat at the end with Kesh on his fist. The Darrow girl sat beside him with her hound's head on her knee. Tobin sat at the other end, as far from the bonded as the bench allowed, with his arms folded and the look he'd had for a week now, as if he were chewing something he hadn't decided whether to swallow.
 
 Maren sat in the middle. She always did. You could see both ends from the middle.
 
@@ -209,5 +209,3 @@ A young man, walking out between two swords with his hands empty.
 She thought of Pell's story. She thought: subdue, don't kill. Take the wound. Take the risk. Take the long way round.
 
 She thought: there's someone over there who does that, too.
-
-She stood on the wall until the light went, and then went down, and didn't sleep for a long time.

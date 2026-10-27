@@ -57,7 +57,7 @@ He took the pipe out of his mouth.
 
 "I know."
 
-Ottery looked at her a while longer. He put the pipe back in his mouth, and put the net down off his knees, and got up the way old men get up, a piece at a time, and went to the slip where his punt lay with its pole beside it, and pushed it down the planks into the black water, and held it there by the painter.
+Ottery looked at her a while longer. He put the pipe back in his mouth, and put the net down off his knees, and got up as old men get up, a piece at a time, and went to the slip where his punt lay with its pole beside it, and pushed it down the planks into the black water, and held it there by the painter.
 
 "I was asleep," he said. "In the guardroom. All night. I never saw you."
 
@@ -145,7 +145,7 @@ He stopped. His face went through something. Surprise, and then a kind of ugly g
 
 "Leave it. Go back. Tell Rowan it wouldn't drive."
 
-"Get *out of the way*, you dung-shoveller." Callis lifted the crossbow. Not at her. Past her. At the lion standing over her with its mane up. "Rowan wants it alive. She'll have it with a bolt in its leg, then. It'll drive on three."
+"Get *out of the way*, you dung-shoveller." Callis lifted the crossbow past her, at the lion standing over her with its mane up. "Rowan wants it alive. She'll have it with a bolt in its leg, then. It'll drive on three."
 
 She saw his finger move.
 
@@ -205,7 +205,7 @@ She stood on the shore and watched it go.
 
 Above her something cried out. High, thin, wild. She looked up.
 
-Kesh. Going over, very high, against the last of the light. The falcon was over the lion, over the channel, hanging there on her wings the way a falcon hangs over something it's marked, so that everybody looking up from the reeds on the west shore could see where it was. Marking it.
+Kesh. Going over, very high, against the last of the light. The falcon was over the lion, over the channel, hanging there on her wings as a falcon hangs over something it's marked, so that everybody looking up from the reeds on the west shore could see where it was. Marking it.
 
 Maren stood on the shore and watched the falcon hang there and thought, *That's it, then. That's what he's for. He's brave enough to be in the reeds.*
 

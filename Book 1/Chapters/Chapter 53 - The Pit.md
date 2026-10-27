@@ -8,7 +8,7 @@ Echo of the other's story: Fire on the far bank: the farmer's dragons fighting o
 Status: first draft
 Carried forward: From Chapter 25: Hale asked whether it digs; the hollow at the north end "dug, and filled, and dug again". From Chapter 49: the cut pages, the stubs in the binding; the margin's signs, "*A thing that was sleeping comes to the old place, and will not leave it.*" From Chapter 51: her hand on the door; the lion's roar; the chain going taut; Thorne: "Rowan wants the island watched." From Chapter 52 (Calder's side): the camp at the Ewe Beck burned on night 103; Greyhold's bell.
 Draft notes: Days one hundred and three to one hundred and five. Decided here (proposals):
-- Night 103: Greyhold's bell. Maren on the wall with everybody else, seeing the glow at the mouth of the Ewe Beck, straight across the river on the Saltreach bank, three leagues off. Haverly: "That's dragon-fire. Nothing else burns that colour." Nobody says the farmer's name. Everybody thinks it.
+- Night 103: Greyhold's bell. Maren on the wall with everybody else, seeing the glow at the mouth of the Ewe Beck, east on the Saltreach bank, upriver of Tolly's Staithe and below the long bend at Harrow's End, two leagues off or so. Haverly: "That's dragon-fire. Nothing else burns that colour." Nobody says the farmer's name. Everybody thinks it.
 - Day 103, morning: Rowan sends for Maren to her room at the top of the north tower, for the first time since the trial. She puts her on Pell's patrol at Redwatch, which is to watch the island day and night from the tower and the ice. "You'll go closer than anybody. You'll tell me what it does. You'll not go further than you've been." Rowan doesn't say why. Maren doesn't ask.
 - Day 103, afternoon: Hale sends for her. In the binding of the black book, on one of the cut stubs, there's a fragment of drawing the knife missed: a corner of a page, brown ink, the edge of something drawn very large: a forefoot. Four splayed toes, claws drawn in. Under it, half a word in the old script. Hale doesn't know what it is. Maren does. She's put her own hand in those prints in the snow.
 - Day 104, dusk: the island, with Pell's patrol at the tower and Ottery on the ice. The lion isn't at the stream or in the arch. She finds it at the north end, in the hollow, digging. It has dug through the frozen ground and down into old fill, deep, a pit the size of a barn floor, and at the bottom of the pit there's stone: worked stone, dressed blocks, the same grey as the inner wall at Greyhold. It's digging toward Greyhold. It's been digging all winter.
@@ -112,7 +112,7 @@ Under it, along the very bottom of the stub, half a word in the old script. She 
 
 "I don't know what it is," said Hale. "A beast's foot. Something drawn very big. I've never seen it before. I've been looking at those stubs for forty years and I never once looked at the bottom of the fourth." He was watching her. "Do you know what it is?"
 
-She'd put her own hand in those prints. In the mud by the stream in the autumn, and in the snow at midwinter. She'd knelt in the snow on the island and laid her hand flat in one of them, and it hadn't been big enough to fill the pad. Four toes, splayed. The claws drawn in at the front.
+She'd put her own hand in those prints. In the mud by the stream in the autumn, and in the snow before midwinter. She'd knelt in the snow on the island and laid her hand flat in one of them, and it hadn't been big enough to fill the pad. Four toes, splayed. The claws drawn in at the front.
 
 She gave him back the glass.
 
@@ -172,9 +172,7 @@ She found it in the hollow.
 
 She'd known she would. She'd seen the hollow in the summer, on her first night, before the hunters: a long shallow dip at the north end of the island among the oaks, with banks of raw earth round it. In the autumn it had been deeper. She'd noticed and not thought about it. She hadn't been up to the north end since the freeze.
 
-It wasn't a hollow any more.
-
-It was a pit. The size of a barn floor, and deep. Deeper than a man standing on another man's shoulders. Dug straight down through the frozen ground, through the black topsoil and the yellow clay under it and into something else, something grey and loose and old, that wasn't clay at all. Fill. The kind of earth you get when somebody's dug a hole a long time ago and filled it in again. The banks round the edge of the pit were piled higher than her head, frozen hard, with great claw-marks raked down the inside of them.
+The hollow was a pit now. The size of a barn floor, and deep. Deeper than a man standing on another man's shoulders. Dug straight down through the frozen ground, through the black topsoil and the yellow clay under it and into something else, something grey and loose and old, that wasn't clay at all. Fill. The kind of earth you get when somebody's dug a hole a long time ago and filled it in again. The banks round the edge of the pit were piled higher than her head, frozen hard, with great claw-marks raked down the inside of them.
 
 And at the bottom of the pit, in the grey fill, the lion was digging.
 
@@ -190,7 +188,7 @@ At the bottom of the pit, under its forefeet, there was stone.
 
 She went down.
 
-She didn't decide to. She found herself going sideways down the raw bank on her heels with her hand on the frozen earth, the way you'd go down into a quarry. Rowan had said *no further than you've been.* She'd never been here. She went down anyway.
+She didn't decide to. She found herself going sideways down the raw bank on her heels with her hand on the frozen earth, as you'd go down into a quarry. Rowan had said *no further than you've been.* She'd never been here. She went down anyway.
 
 She stopped on a ledge of grey fill a few paces above the bottom, not far from the lion, and crouched there, and looked.
 
@@ -209,8 +207,6 @@ The pit hadn't been dug, and filled, and dug again by anybody else. It had been 
 She crouched on the ledge and watched it scrape, and understood.
 
 ---
-
-It wasn't guarding anything.
 
 It had never been guarding anything. It had come to the old place, the way the dog at the Ottery reach came back to the bank. It wouldn't leave. It lay in the arch of the tower under the verse with its chin on the threshold, *the last sleeps below the stone,* and it looked at Greyhold, and when she'd put her hand on the black door and something far down had moved, it had roared.
 
@@ -328,7 +324,7 @@ Pell went down to the guardroom and wrote it in the report. *Fire on the Saltrea
 
 Maren stayed on the tower.
 
-She looked at the far hills, where the last of the fire was going out on the snow. Above Harrow's End. Where three dragons had answered a roar across the ice two nights ago. Where a man in Marches boots had walked home across the river after kneeling by her fire. Where somebody had just tried to take him in the night with a hundred men, and the dragons had burned the hillside to stop them.
+She looked at the far hills, where the last of the fire was going out on the snow. Above Harrow's End. Where three dragons had answered a roar across the ice three nights ago. Where a man in Marches boots had walked home across the river after kneeling by her fire. Where somebody had just tried to take him in the night with a hundred men, and the dragons had burned the hillside to stop them.
 
 *They've come for him.*
 

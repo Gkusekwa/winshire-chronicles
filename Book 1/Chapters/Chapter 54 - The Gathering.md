@@ -12,16 +12,12 @@ Draft notes: Days one hundred and five to one hundred and twelve. Decided here (
 - Kharrak brings one back alive in his claws: a sellsword, a coast man called Brask, from a Wendmouth free company. He's not a believer. He wears no ring. He's paid: ten silver a man to come up the river; two hundred for the farmer, alive; "and the same again for the knight with the lion. Over the water. A woman. Greyhold." Structure (revision): told as a bargain, not a speech. Calder presses; Brask gives up what he knows a piece at a time to keep his legs, and holds back the knight with the lion until Calder gives his word he'll walk. Calder keeps it against Kharrak, and lets him go at dawn with his boots and nothing else. (Brask owing him his life sets up Book 2 ch 7, 14, 30.)
 - Days 106–108: Calder moves out of Bel's house to Crow Scar with the dragons, so that whatever comes looking for him comes there. He goes down to Upper Rush only by night, to see Wren.
 - Lisska scouts the roads. The camps on the drove road are emptying into one: a great camp at the Ram's Head, halfway up the Drover's Way to Varrhold, where the cart road from Cotter's Cross comes in. Thousands. Companies coming up from Cotter's Cross with carts and bound beasts. More every day.
-- Day 109: Hallam Brecc and Morrow come to Crow Scar, the first time a bonded pair has left the Roosts since the ford. Hallam says the Clan is still killing itself: Arn's riders burned a Skarrow steading two nights ago, Ulric's burned Teo's ford-house. "Neither of them has turned his head to look south." He's come to see for himself what's on the road.
+- Day 109: Hallam Brecc and Morrow come to Crow Scar, the first time a bonded pair has left the Roosts since the ford. Hallam says the Clan is still killing itself: Arn's riders burned a Skarrow steading three nights ago, Ulric's burned Teo's ford-house. "Neither of them has turned his head to look south." He's come to see for himself what's on the road.
 - Aurveth notices it, on day 110, looking down at the Ram's Head from the tops: every road the Restoration is using bends toward the river, and comes down to it opposite the island. Harrow's End is the last village on the way. "They're not coming for the Marches. They're coming through it."
 - Day 111: the meeting in the burned shell of the Wheel at Harrow's End. Fisk, Wat Garrow, the Ashby widow, the Hollins. Who's staying, who's going. Liss Ashdown's ferry is still taking people over from the Saltreach jetty at Tolly's Staithe whenever the ice lets her. The meeting ends on one decision: Tessa Garrow says the Garrows are going over, not on the ice with Davy, but on Liss's boat when the river's out and the ferry's running again; Wat gives way. Fisk tells Calder his own family could go the same way. (Sets up 56, 62 and 64: the Garrows are the first to go in 62.)
 - Night 112: Wren at the paddock gate with Old Grey: "You're always going." "I know." "Take me." "No." She asks him whether the lion-woman is in trouble too. He says he doesn't know. He thinks: two hundred silver, the same as me.
 - Magic touches: Ada's old staunching-words over Lisska's bolt wound; Brask on the warranted charms sold to the companies at the Ram's Head ("Didn't do much tonight").
 notes -->
-
----
-
-On the Saltreach bank they count a man's wealth in beasts and his trouble in roads. A farm with one road to it is a quiet farm. A farm with two is a busy one. A farm that three roads meet at, Ada says, you should sell, because sooner or later something will come down all three at once. She said it about the Ram's Head, the inn at the crossroads, when Calder was a boy. She said it about Harrow's End too, once, with a look at the river.
 
 ---
 
@@ -73,7 +69,7 @@ He'd never seen it from her back before, in the dark: what men look like when a 
 
 Kharrak came in from the east and opened his mouth.
 
-He did it the way Calder had asked. Not at the men. In front of them. A long white-and-orange wall of fire laid across the snow of the field from end to end, a short way in front of the line, so that the snow went up in steam and the ground under it went black and the whole field lit up as bright as noon.
+He did it as Calder had asked. A long white-and-orange wall of fire laid across the snow of the field from end to end, a short way in front of the line, so that the snow went up in steam and the ground under it went black and the whole field lit up as bright as noon.
 
 The line stopped.
 
@@ -93,7 +89,7 @@ It was over in less time than it takes to milk a cow. There was no moon; the fir
 
 Eleven of them lay on the hillside below Bel's farm.
 
-Calder walked among them by the light of the burning. He made himself. The dog-man, who'd driven the pack; Kharrak had taken him first. The horsemen, five of them, and their horses. Aurveth had stood in the lane between them and the farm and they'd come at her anyway, at a gallop, with lances, as if she were a gate they could ride through. Two crossbowmen who'd stood their ground by the fire and shot at Lisska, and hit her, once, in the soft skin under the wing, and Kharrak had seen it.
+Calder walked among them by the light of the burning. He made himself. The dog-man, who'd driven the pack; Kharrak had taken him first. The horsemen, five of them, and their horses. Aurveth had stood in the lane between them and the farm and they'd come at her anyway, at a gallop, with lances, as if she were a gate they could ride through. Two crossbowmen who'd stood their ground by the fire and shot at Lisska, and hit her, once, in the soft skin under the wing, and Kharrak had seen it. Three spearmen who'd come through the gap behind the dogs and met Kharrak there.
 
 And the dogs. Eight of them. They hadn't stopped. They'd never stop. They'd come on and on, through the fire, with their coats burning, until there was nothing of them left to come on with.
 
@@ -225,7 +221,7 @@ The three he'd walked past in the autumn on the drove road, with their soup and 
 
 *The inn,* said Lisska. *Where the roads meet. The one with the sign with the horns on it.*
 
-The Ram's Head. Halfway up the Drover's Way from Harrow's End to Varrhold, where the old cart road came in from Cotter's Cross and the south. Where Calder had stopped with Sorrel and the funeral grain a lifetime ago, in the summer, and slept in the last stall. Half a day's walk from Harrow's End.
+The Ram's Head. Halfway up the Drover's Way from Harrow's End to Varrhold, where the old cart road came in from Cotter's Cross and the south. Where Calder had stopped with Sorrel and the funeral grain a lifetime ago, in the summer, and slept in the last stall. A day's walk from Harrow's End.
 
 *It's not a camp any more,* said Lisska. *It's a town. A town made of tents. All round the inn, on both sides of the road, and up the hill behind, and down to the beck. And more coming. Every day. On the road from the south. Carts. Men walking. Men on horses. And beasts.* Her voice went small. *So many beasts, Calder. In lines. In collars. All with the eyes.*
 
@@ -235,7 +231,7 @@ The Ram's Head. Halfway up the Drover's Way from Harrow's End to Varrhold, where
 
 There'd been three thousand at Haldor's funeral. The whole Clan, and half the Marches.
 
-He sat on the Scar and looked north-east along the line of the Way toward the Ram's Head, a morning's walk off, and he couldn't see it, and he could feel it there. The way you feel a storm on the other side of a hill before you see the cloud.
+He sat on the Scar and looked north-east along the line of the Way toward the Ram's Head, a long day's walk off, and he couldn't see it, and he could feel it there. As you feel a storm on the other side of a hill before you see the cloud.
 
 ---
 
@@ -243,7 +239,7 @@ Hallam Brecc came on the hundred-and-ninth day.
 
 He came out of the north in the afternoon, high, on Morrow, the old black dragon going slow and steady through the cold with her grey-edged wings beating long and even. Calder saw them coming a long way off and felt the three of them go up behind him, alert, and said, *It's all right. It's him. The old man from the ledges.* Kharrak growled anyway.
 
-Morrow came down on the top of the Scar beside Aurveth, carefully, the way old people sit down. Hallam Brecc climbed off her neck with his stick, and stood on the black rock in his grey cloak with his white beard blowing, and looked at Calder.
+Morrow came down on the top of the Scar beside Aurveth, carefully, as old people sit down. Hallam Brecc climbed off her neck with his stick, and stood on the black rock in his grey cloak with his white beard blowing, and looked at Calder.
 
 "Farmer," he said.
 

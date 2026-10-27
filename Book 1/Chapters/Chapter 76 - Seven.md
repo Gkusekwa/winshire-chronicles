@@ -13,7 +13,7 @@ Draft notes: Midnight, night one hundred and forty-three. Decided here (proposal
 - The echo: in the same breath, from far away, under the river, toward Greyhold, the same sound. A great grinding turn, through all that rock. Two locks. One moment. Calder feels it through his knees. Corvin, kneeling, smiles for the only time.
 - The seal opens. Not a door: the whole floor. The disc drops away under them, and the chamber floor round it, and the ledge, and the tower above, and the fort above that. The Old Ruin falls into the cavern.
 - Calder falls. Kharrak falls, wings jammed in the collapsing rock. Aurveth comes down through the hole from the fort with the ironback still locked on her, tears free of it, and folds her wings and dives, and catches Calder in her forefoot a long way down, in the dark, among the falling stone. She can't stop. She opens her wings in the cavern, the first time in three hundred years anything has flown in it, and comes down hard on a slope of rubble far below, by the foot of the chains.
-- Corvin: Calder sees his lantern going up, not down, on the far side of the hole: a second stair, an older one, cut into the rock, that he must have known was there. Two of his men with him. He doesn't look back.
+- Corvin: after the turn he lets go of the key and walks to the rim while Calder is held on his knees by the grinding, so he isn't on the disc when it drops. Calder sees his lantern going up, not down, on the far side of the hole: a second stair, an older one, cut into the rock, that he must have known was there. Two of his men with him. He doesn't look back.
 - Kharrak comes down out of the falling stone onto the rubble beside them, cut and burned and alive. The ironback falls past them into the dark and doesn't make a sound when it lands.
 - They're at the bottom of the world. The six chains go up past them into the dark, taut, and down into a deeper dark ahead. Something is moving at the bottom of them. The anchor-stones the chains run through are cracking.
 - Lisska: the feeling of her, very far off, in the other direction, by Greyhold, under the other bank, and still (she's at the top of the archive stair over Haverly; she starts to move only in 78, after the seal breaks). Through her, faintly, something large, old and warm somewhere below her, and a person. Calder doesn't understand it.
@@ -42,7 +42,7 @@ On the edge of the disc the grey man got to his feet.
 
 "Four," said Corvin.
 
-He hadn't moved. He knelt on the iron boss in the middle of the stone disc with his long pale hand on the bow of the key and his eyes on the candle, calm, the way a man kneels at a wayside shrine. He didn't look up at the dome, or the dust, or Calder.
+He hadn't moved. He knelt on the iron boss in the middle of the stone disc with his long pale hand on the bow of the key and his eyes on the candle, calm, as a man kneels at a wayside shrine. He didn't look up at the dome, or the dust, or Calder.
 
 *Kharrak,* said Calder. *Kharrak, now, now, now…*
 
@@ -52,7 +52,7 @@ He hadn't moved. He knelt on the iron boss in the middle of the stone disc with 
 
 The dome came in.
 
-Not all of it. The part over the passage. Where the crack was. It came down in one great slab, rock and earth and stone, and the noise of it was louder than the river going out, and through the hole where it had been, out of the dark and the dust, came Kharrak.
+The part over the passage, where the crack was. It came down in one great slab, rock and earth and stone, and the noise of it was louder than the river going out, and through the hole where it had been, out of the dark and the dust, came Kharrak.
 
 Head first. Rust-red, filthy, bleeding from a long cut down his side, with his claws still out from the digging and the fire coming up in his throat. He came through the hole in the dome into the chamber with the floor of the tower coming down round him in pieces, and the light of his fire went over everything, white, and the men holding Calder let go.
 
@@ -113,6 +113,8 @@ Corvin felt it too. Calder saw him feel it. Kneeling on the iron boss with his h
 And he smiled.
 
 It was the only time Calder ever saw him do it. A small smile. Not like his brother's. Satisfied. The smile of a man at the weighing-post when the sack comes out at the weight he said.
+
+Then he let go of the key, and Calder's hand came away with nothing in it, and Corvin was up and walking across the lit stone to the rim as if he'd paced it out beforehand. Calder, held by the grinding in the stone, couldn't get up off his knees to follow.
 
 ---
 
@@ -238,7 +240,7 @@ Going up.
 
 He watched it. It went up slowly, back and forth, back and forth. A stair he hadn't known was there. An older one. Cut into the far wall of the cavern, going up to somewhere he couldn't see. Three figures with it. One tall and thin, going first, not hurrying, not looking down.
 
-Corvin had known it was there. Of course he had. He'd read the verse. He'd read the cut pages, or the ones that hadn't been cut, or whatever the Restoration had that Hearthmere didn't. He'd known the floor would go. He'd knelt on the iron boss with his hand on the key and counted down to one and turned it, and when the floor went he'd been a step from the edge of it, and the stair.
+Corvin had known it was there. Of course he had. He'd read the verse. He'd read the cut pages, or the ones that hadn't been cut, or whatever the Restoration had that Hearthmere didn't. He'd known the floor would go. He'd knelt on the iron boss with his hand on the key and counted down to one and turned it, and when the floor went he'd already been at the edge of it, and the stair.
 
 The lantern went up the far wall and round a corner of the rock, and was gone.
 

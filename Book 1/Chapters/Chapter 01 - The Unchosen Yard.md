@@ -14,7 +14,7 @@ notes -->
 
 They say the river at Greyhold was here before the kingdoms and will be here after them, and that it has never once taken a side. It runs brown between two countries that don't trust each other and carries the silt of both down to the same sea. In spring the fishermen on both banks curse it in two accents. In winter it freezes from the edges in, and for a week or two a person could walk across into Saltreach, and every year someone tries, and every year the river takes one of them back.
 
-The school sits on the Hearthmere bank where the water bends. It was a fort before it was a school and a quarry before it was a fort, and the yard is still quarry floor under the sand, so anyone who falls in it hard enough learns the difference. Over the gate, in letters cut deep enough to hold snow, the charter of the knightly orders says that the bonded and the unbonded serve as equals. The letters are very old. Most of the students have stopped seeing them, the way you stop seeing a crack in your own ceiling.
+The school sits on the Hearthmere bank where the water bends. It was a fort before it was a school and a quarry before it was a fort, and the yard is still quarry floor under the sand, so anyone who falls in it hard enough learns the difference. Over the gate, in letters cut deep enough to hold snow, the charter of the knightly orders says that the bonded and the unbonded serve as equals. The letters are very old. Most of the students have stopped seeing them, as you stop seeing a crack in your own ceiling.
 
 Maren Ashdown saw them every morning. She made a point of it.
 
@@ -40,7 +40,7 @@ A few laughs from the fence. Pell didn't laugh. He was a long-boned, grey-haired
 
 The third time, she watched the man.
 
-He was good. That was the trouble with Haverly; it would have been easier if he weren't. He had quick feet and a wrist like a coachman's whip, and he'd been taught by a master in Ashford before he ever came to Greyhold, and it showed in everything but his patience. He was twenty. He had never had to wait for anything in his life, and so he didn't.
+He was good. That was the trouble with Haverly; it would have been easier if he weren't. He had quick feet and a wrist like a coachman's whip, and he'd been taught by a master in Ashford before he ever came to Greyhold, and it showed in everything but his patience. He was twenty-one. He had never had to wait for anything in his life, and so he didn't.
 
 She gave him the opening he wanted, a little low on her left, a little slow on the recovery. He took it. She let his blade go past her ribs close enough to feel the air move, and then she was inside his guard before he'd finished being pleased with himself. Pommel to the breastbone. Heel behind his heel. Down.
 
@@ -100,7 +100,7 @@ Nobody shouted. You didn't, at Greyhold. But every head along the fence went up 
 
 Five. Six. Seven.
 
-Clan dragons, high up and in no kind of order, following the river south the way geese follow it, as if the water were a road someone had drawn on the land for them. The sun came through their wings the colour of a cut. They made no sound that reached the ground. That was the thing nobody told you about dragons until you'd seen them: how quiet they were, how the size of them filled the sky without disturbing it, like weather.
+Clan dragons, high up and in no kind of order, following the river south as geese follow it, as if the water were a road someone had drawn on the land for them. The sun came through their wings the colour of a cut. They made no sound that reached the ground. That was the thing nobody told you about dragons until you'd seen them: how quiet they were, how the size of them filled the sky without disturbing it, like weather.
 
 One banked low over the water, low enough that she saw its rider, a dark knot strapped in at the shoulders, a pale smear of a face turned toward the school. Then it levelled and followed the others over the far bank, and they were gone into the brown haze that had hung over Saltreach since dawn.
 
@@ -144,7 +144,7 @@ Only every one of them had turned its head the same way. Not toward the river. D
 
 Then the Darrow girl clicked her tongue, and the hound looked up at her, and the moment broke.
 
-*The watch below.* Nobody knew what it meant. Maren had asked once, in her first month, and Pell had looked at her the way you look at a horse someone has just told you is lame. "Below the river," he'd said, and walked off. As if the river had anything below it but mud.
+*The watch below.* Nobody knew what it meant. Maren had asked once, in her first month, and Pell had looked at her as you look at a horse someone has just told you is lame. "Below the river," he'd said, and walked off. As if the river had anything below it but mud.
 
 She'd asked the chaplain, who said it meant the dead. She'd asked an old knight at the muster, who said it meant the poor. Haverly, when she was new and still asked people things, had told her cheerfully that it was a joke from the old days, and that the founders had kept their wine in the cellars.
 
@@ -196,7 +196,7 @@ Haverly followed her look. He was quiet for a moment.
 
 She didn't answer. She was counting the fires. Two. Then, while she watched, a third, small and far back from the water, like someone striking a light in a dark room.
 
-Out on the river a lantern was coming across from the Saltreach bank, low and steady, the way a lantern moves on a ferry when the woman poling it has done it ten thousand times. Maren watched it until it was halfway, and then until it was close enough that she could hear the pole knock the hull, and only then did she find that she'd been gripping the stone hard enough to hurt.
+Out on the river a lantern was coming across from the Saltreach bank, low and steady, as a lantern moves on a ferry when the woman poling it has done it ten thousand times. Maren watched it until it was halfway, and then until it was close enough that she could hear the pole knock the hull, and only then did she find that she'd been gripping the stone hard enough to hurt.
 
 She let go of the wall. Kesh watched her do it.
 

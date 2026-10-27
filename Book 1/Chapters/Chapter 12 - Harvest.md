@@ -96,7 +96,7 @@ Later, when the fire had burned down to a great red heap and the dancing had gon
 
 She didn't stand up. She never did. Someone asked, the way someone always did, and she sighed and said she was too old, the way she always did, and then she sang anyway, from her stool, with her hands in her lap and her thin cracked voice going out over the field and the fire.
 
-She sang the old one. *Before the six there was one.* Everybody knew it. Everybody went quiet for it, the way you go quiet for a prayer, even the drunk ones, even the children who'd woken up under the coats. Her voice went up thin and clear into the dark, and the fire ticked, and down below the field the river went by black under the stars.
+She sang the old one. *Before the six there was one.* Everybody knew it. Everybody went quiet for it, as you go quiet for a prayer, even the drunk ones, even the children who'd woken up under the coats. Her voice went up thin and clear into the dark, and the fire ticked, and down below the field the river went by black under the stars.
 
 *Hush now, the last one's sleeping.*
 *Hush now, you'll wake it if you weep.*

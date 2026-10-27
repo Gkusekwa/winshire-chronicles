@@ -71,7 +71,7 @@ Tolly was on his boat. Greta's smoke-house was going. A few families stood on th
 
 Across the water, on its hill, was Greyhold.
 
-He'd seen it from the Scar, and from Aurveth's back, high up. He'd never stood this close to it. It was right there, across a river a long bowshot wide. The grey walls going round the hill. The scaffolds on the river wall, and the new timber hoardings along the top of it, raw and yellow in the dawn. The engines on the river towers, black, with their long arms. And the smoke. A dozen black threads going straight up out of the yards inside the walls into the still air, and the sound of hammering coming across the water, faint and steady. *Tink. Tink. Tink.*
+He'd seen it from the Scar, and from Aurveth's back, high up. He'd stood here every autumn of his life and never looked at it. He looked now. It was right there, across a river a long bowshot wide. The grey walls going round the hill. The scaffolds on the river wall, and the new timber hoardings along the top of it, raw and yellow in the dawn. The engines on the river towers, black, with their long arms. And the smoke. A dozen black threads going straight up out of the yards inside the walls into the still air, and the sound of hammering coming across the water, faint and steady. *Tink. Tink. Tink.*
 
 Below the walls, at the water's edge, a stone jetty, and a little house with a red door.
 
@@ -167,7 +167,7 @@ He stood on the timber jetty and watched the first crossing go.
 
 The ferry went out on the rope across the brown water, with Liss at the stern hauling hand over hand on the guide-rope and the boat swinging a little on the current. The handcart. The children in the middle. Ada on the eel box. Wren standing up, looking back at him.
 
-Not at him. Up. Past him. At the sky over the Staithe, where Lisska was.
+Then past him. Up, at the sky over the Staithe, where Lisska was.
 
 *She's looking for you,* he said.
 
@@ -265,7 +265,7 @@ He looked at the walls. At the scaffolds and the engines. At the men on the hoar
 
 She came down out of the sky.
 
-He'd never seen her come down so fast. She came out of the grey cloud over the Staithe the way a hawk drops on a hen-run, green, folding her wings, and opened them at the last moment over the water and went along the river low, so low her wingtips left two lines on the surface, between the Staithe and the stone jetty, past the ferry, past the end of the stone jetty where a small girl stood with her arms up.
+He'd never seen her come down so fast. She came out of the grey cloud over the Staithe like a hawk dropping on a hen-run, green, folding her wings, and opened them at the last moment over the water and went along the river low, so low her wingtips left two lines on the surface, between the Staithe and the stone jetty, past the ferry, past the end of the stone jetty where a small girl stood with her arms up.
 
 On her left horn, as she went by, something blue. A ribbon. Washed. Tied in a bow.
 

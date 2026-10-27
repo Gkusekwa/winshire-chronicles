@@ -34,7 +34,7 @@ He put his head down, and his shoulder, and walked at the wall of the cavern at 
 
 *Up,* said Orrun. *Toward the water. Not into it. Beside it.*
 
-She lay on his neck with her hands in his mane and felt him find the way. Through the stone. Not seeing. Knowing. The way her father had known where the snags were in the river in the dark.
+She lay on his neck with her hands in his mane and felt him find the way. Through the stone, blind, knowing it. The way her father had known where the snags were in the river in the dark.
 
 Behind them, the others came.
 
@@ -42,7 +42,7 @@ Lisska first, ahead of Orrun's head now, with the lantern hooked in her front cl
 
 She heard him talk to them. The farmer. Out loud. Low and steady, the whole way. She couldn't hear the answers. She could feel them, a little, through Orrun, through Lisska: kin to kin. A great slow weight of pain, and under it something patient. A rust-red heat, holding.
 
-*Wren's grandmother says she was the best in the barn at her letters,* the farmer was saying, to the old dragon, for no reason Maren could understand. *At Varrhold. Sixty years ago.* And a pause, while something answered him. *I didn't know that either.*
+*Ma says she was the best in the barn at her letters,* the farmer was saying, to the old dragon, for no reason Maren could understand. *At Varrhold. Sixty years ago.* And a pause, while something answered him. *I didn't know that either.*
 
 ---
 
@@ -68,9 +68,9 @@ Out of the passage wall beside the old dragon, a shoulder of grey stone, and a m
 
 Maren looked back past Lisska's lantern and saw it. Holding the roof, with the dust pouring off it, while the old dragon dragged herself under it with the red one at her shoulder and the farmer at her head, his face turned up to the stone thing over him.
 
-Under her, Orrun shook. All of him, the way a horse shakes under a load too heavy for it. She felt it go out of him into the thing behind them, warm and steady, like blood from a cut you can't reach to stop.
+Under her, Orrun shook. All of him, like a horse under a load too heavy for it. She felt it go out of him into the thing behind them, warm and steady.
 
-*Go,* he said. Not to her. To them.
+*Go,* he said, to the ones behind.
 
 They went. The red one last, his tail clear. Then the stone lion let the roof down behind them and went back into the wall it had come out of, and the passage closed over the place where it had stood.
 
@@ -86,7 +86,7 @@ Then the sixth chain went, the last, and there was no thunder at all.
 
 There was a silence.
 
-The whole of the rock round them, the whole hill, the whole cavern below, the river overhead, all of it, went utterly silent and still, the way a room goes still when somebody in it stands up who's been sitting a long time.
+The whole of the rock round them, the whole hill, the whole cavern below, the river overhead, all of it, went utterly silent and still, as a room goes still when somebody in it stands up who's been sitting a long time.
 
 *It's free,* said Orrun.
 

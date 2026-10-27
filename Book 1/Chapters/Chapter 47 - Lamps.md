@@ -65,7 +65,7 @@ She saw them not believe it. All that day, and the next. Students glancing up at
 
 The lamps didn't all go out together again. But they weren't right.
 
-They dimmed. At odd hours, for no reason, in the middle of the day or the middle of the night, a lamp would go low, yellow, like an oil lamp running dry, and flicker, and then come back. Sometimes one. Sometimes a whole row along a wall. Once, at supper on the ninety-second night, every lamp in the refectory went down to a dull red glow at the same moment and stayed there for as long as it took to say the noon oath twice, while two hundred people sat at the long tables with their spoons in their hands and nobody spoke. Then they came up again.
+They dimmed. At odd hours, for no reason, in the middle of the day or the middle of the night, a lamp would go low, yellow, like an oil lamp running dry, and flicker, and then come back. Sometimes one. Sometimes a whole row along a wall. Once, at supper on the ninety-second night, every lamp in the refectory went down to a dull red glow at the same moment and stayed there for as long as it took to say the noon oath through, while two hundred people sat at the long tables with their spoons in their hands and nobody spoke. Then they came up again.
 
 Greyhold's lamp-tender was a licensed man who had walked the wall at dusk for thirty years with his staff, saying the dusk-word at every bracket in a voice like a ferryman calling the last crossing. Now he said it twice at each lamp, and then three times, and his voice went higher every time. Maren saw him one evening on the wall walk under a bracket that wouldn't come up, saying the word over and over to the dark glass, until a knight of the gate took him by the elbow and walked him down the stair.
 
@@ -133,7 +133,7 @@ She went in.
 
 Maren was on the Millbrook detail. Of course she was. She'd been on every detail since Ferriby. She sat Turnip at the back with the spare horses on their string and rode down the River Road behind twelve knights of the gate, in the bitter cold, with the frozen river on the left glittering under a white sky, and nobody talked.
 
-Millbrook, when they rode into it, smelled of oil. There were oil lamps in the windows along the jetty road, old brass and clay ones dug out of lofts, smoking. She'd never seen one in a Millbrook window in her life. On the chapel steps a man in a patched coat had a tray of folded slips and was calling them out: the old lamp-words, from before the licence, two coppers, sure to take. Nobody was buying them twice.
+Millbrook, when they rode into it, smelled of oil. There were oil lamps in the windows along the jetty road, old brass and clay ones dug out of lofts, smoking. She'd never seen one in a Millbrook window in her life. On the chapel steps a man in a patched coat had a tray of folded slips and was calling them out: the old lamp-words, from before the licence, two coppers, sure to take. Nobody came back for a second.
 
 ---
 

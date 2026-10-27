@@ -8,10 +8,10 @@ Echo of the other's story: The order also covers "the farmer with the dragons, i
 Status: first draft
 Carried forward: From Chapter 53: Rowan's room at the top of the north tower; "You'll not go further than you've been"; the report that says only "it digs". From Chapter 55: the collar struck off "at the beast's leave"; Pell's "Is there anything else?" From Chapter 51: Thorne in the archive: "Then we'd better start deciding what to do about it." From Chapter 57: the hedge-meeting; Odo's hammers; Vale's "I forgive Calder Fenn". From Chapter 54 (Calder's side): two hundred silver for "the knight with the lion".
 Draft notes: Days one hundred and twenty-four to one hundred and twenty-eight. Decided here (proposals):
-- Days 124–125: back on Pell's patrol at Redwatch. The river's high and full of floes; Ottery takes her over in the punt only twice, at first light, when the night frost has slowed the melt and the floes run thinner. The lion is in the pit, which is flooded to the stone now. It stands in the water and scrapes. Since the collar came off it lets her come to five paces. Once, she lays her hand on its foreleg. It lets her.
+- Days 124–125: back on Pell's patrol at Redwatch. The river's high and full of floes; Ottery takes her over in the punt only once, on day 125, at first light, when the night frost has slowed the melt and the floes run thinner. The lion is in the pit, which is flooded to the stone now. It stands in the water and scrapes. Since the collar came off it lets her come to five paces. Once, she lays her hand on its foreleg. It lets her.
 - Day 127: Rowan sends for her. Thorne is in the room, by the fire, with the ledger.
 - Rowan is inner circle but not Watch: she was told the secret as Captain of Greyhold, when she took the school. She knows what's under the hill. She knows Maren knows. "Hale's a bad liar, and you're a worse one."
-- Thorne went out to the island with Pell on day 126 while Maren was at Greyhold drawing stores. Thorne has seen the pit and the stone. Rowan: "Your report said it digs. It didn't say where to."
+- Thorne went out to the island with Pell on the morning of day 126 while Maren was on the road down to Greyhold to draw stores. Thorne has seen the pit and the stone. Rowan: "Your report said it digs. It didn't say where to."
 - The order, from the council at Hallowmere, read aloud by Rowan from the paper: the beast at the Old Ruin is to be secured before the Restoration can reach it. A trap on the island's west shore: a pit-net and the crown's beast-chain, and a sleeping-draught in a carcass, and forty knights. Ashdown is to bring it to the shore at dusk. It follows her. Everybody knows it follows her.
 - Rowan's reasons, and they aren't stupid: if the Restoration takes it, they'll bind it, and Maren has seen what bound beasts are. A beast that size, bound, at the head of five thousand men, at a wall. If Greyhold takes it, it lives. "In chains," Maren says. "Like the other one." Rowan doesn't answer that.
 - The echo: the order's last clause, which Rowan reads in the same voice: *and the farmer with the dragons, if he crosses, to be taken, or, failing that, killed.* Rowan: "That's the council, not me." Thorne looks at the fire.
@@ -23,13 +23,9 @@ notes -->
 
 ---
 
-There's a thing the river watch says when an order comes down that nobody likes. *It's not the hand that writes it.* It means: don't blame the captain, blame whoever's over the captain, and so on up, all the way to the crown, who blames the gods. Maren's father used to say it with a shrug. He used to say it was the only true thing the river watch had ever taught him. He'd say it, and go and do what the order said.
-
----
-
 The river was full of ice and running high, and Ottery wouldn't take her over except at first light.
 
-He took her twice. On the hundred-and-twenty-fourth day and the hundred-and-twenty-fifth, in the grey hour before dawn, when the night's frost had slowed the melt upriver and the floes came down thinner, and slowed and spun, and you could pole a punt through the leads between them if you knew what you were doing. Ottery knew. He stood in the stern without a word and took them through, and grounded on the west shore, and sat in the punt in the reeds with the pole across his knees and waited.
+He took her once, on the hundred-and-twenty-fifth, in the grey hour before dawn, when the night's frost had slowed the melt upriver and the floes came down thinner, and slowed and spun, and you could pole a punt through the leads between them if you knew what you were doing. Ottery knew. He stood in the stern without a word and took them through, and grounded on the west shore, and sat in the punt in the reeds with the pole across his knees and waited.
 
 The pit was flooded.
 
@@ -39,7 +35,7 @@ It looked up when she came over the bank.
 
 It let her come closer now. Since the collar. She came down the bank on her heels to the edge of the brown water and stood there, five paces off, and it watched her and went on scraping.
 
-On the hundred-and-twenty-fifth morning it came up out of the water.
+Then it came up out of the water.
 
 It came up the bank, streaming, and stood beside her. Close. She could feel the cold coming off its wet coat. She stood very still. It put its head down to the water at the edge of the pit, beside her, and drank.
 
@@ -87,7 +83,7 @@ Maren sat on the stool and said nothing.
 
 By the fire, Thorne turned a page of the ledger and didn't look up.
 
-"With Pell. In the morning, while you were here drawing stores. At first light. Ottery took them, and wasn't pleased about it." Rowan's hands didn't move on the paper. "They went to the north end."
+"With Pell. In the morning, while you were on the road down here. At first light. Ottery took them, and wasn't pleased about it." Rowan's hands didn't move on the paper. "They went to the north end."
 
 Maren felt her face go hot.
 
@@ -109,7 +105,7 @@ Maren looked up at her.
 
 "Because it's trying to get down," she said. "To its own."
 
-The room went very quiet. The fire ticked.
+The room went very quiet.
 
 Thorne, by the fire, turned her head and looked at Maren for the first time.
 
@@ -243,7 +239,7 @@ Rowan sat for a long moment.
 
 "I swore to keep the watch below," said Maren. "I can't say the rest of it any more. I've tried. It won't come out. And I never swore to put another one down there."
 
-The fire ticked. Thorne had put her hand over her eyes.
+Thorne had put her hand over her eyes.
 
 Rowan looked at her across the table. Her quiet face didn't change. It never changed. But her hands, folded on the table, on the council's paper, had gone white at the knuckles.
 

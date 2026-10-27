@@ -24,11 +24,11 @@ ISLANDS = [
 ]
 
 KINGDOMS = {
-    "kessmoor":  {"name": "Kessmoor",   "label": (62, 30),  "status": "working name"},
-    "isvaren":   {"name": "Isvaren",    "label": (178, 34), "status": "working name"},
-    "wyldmarch": {"name": "The Wyldmarch", "label": (262, 30), "status": "working name"},
-    "sarovel":   {"name": "Sarovel",    "label": (52, 128), "status": "working name"},
-    "hearthmere": {"name": "Hearthmere", "label": (128, 150), "status": "working name"},
+    "kessmoor":  {"name": "Kessmoor",   "label": (62, 30),  "status": "established"},
+    "isvaren":   {"name": "Isvaren",    "label": (178, 34), "status": "established"},
+    "wyldmarch": {"name": "The Wyldmarch", "label": (262, 30), "status": "established"},
+    "sarovel":   {"name": "Sarovel",    "label": (52, 128), "status": "established"},
+    "hearthmere": {"name": "Hearthmere", "label": (128, 150), "status": "established"},
     "saltreach": {"name": "Saltreach",  "label": (240, 160), "status": "established"},
 }
 

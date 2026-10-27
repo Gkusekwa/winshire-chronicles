@@ -65,7 +65,7 @@
 
 ## The kingdoms
 
-### Hearthmere *(working name)*
+### Hearthmere *(established)*
 
 **Land.** Green, rich and well watered: chalk downs, wheat and orchards around the Mere, oak woods in the north, the Wend on its eastern border. Magic is licensed and plentiful here, more than anywhere else, and the land feels it: harvests come early, lamps burn without oil in the better streets.
 
@@ -102,7 +102,7 @@
 - **Blackwater** (town). A smugglers' town in a dark-water inlet under the southern tail of the Worldsend. Outlaws, sellsword companies between contracts, and no questions.
 - **The Saltings** (landmark). Salt marsh and tidal flats between Gullhaven and Corsa. Salt pans, wading birds, and a maze of channels that only the locals sail.
 
-### Kessmoor *(working name)*
+### Kessmoor *(established)*
 
 **Land.** Cold north-west: moorland, coal and iron in the Iron Fells, the Coldrun valley cut with canals, and the dead glass basin of the Scald where Orrin stood.
 
@@ -116,7 +116,7 @@
 - **Gearmouth** (city). Port at the mouth of the Coldrun. Dry docks, steam cranes, and ships with iron-sheathed hulls built for the Western Deep.
 - **The Scald** (landmark). A wide basin of fused, glassy ground near the Hearthmere border where a town called Orrin stood until the disaster within living memory that led Kessmoor to ban magic. Nothing grows there. Kessmoor keeps a cordon around it and says it is to keep looters out.
 
-### Sarovel *(working name)*
+### Sarovel *(established)*
 
 **Land.** Warm west and south-west: vineyards and olive terraces in the Sunward Hills, the Gilt valley, the Elderwood, a sunlit coast around Solenne's bay.
 
@@ -130,7 +130,7 @@
 - **Highcrest** (city). A hill city in the Sunward Hills, seat of the beast-lords who breed and train bonded mounts. Vineyards on the slopes, horse-fairs that are really beast-fairs.
 - **Sorrel Isle** (landmark). A small island off Solenne where the unchosen are sent to serve the lighthouse. Or to be forgotten.
 
-### Isvaren *(working name)*
+### Isvaren *(established)*
 
 **Land.** High, cold north under the Iron Fells and the High Crown: snowfields, glacier lakes like Glasswater, the headwaters of the Wend, observatory peaks.
 
@@ -144,7 +144,7 @@
 - **The Long Library** (landmark). *(established (archive and speaking beast))* Isvaren's oldest archive, a single hall half a league long, built into the hillside above Vael. Its keeper is an ancient raven-like beast that learned human speech over centuries of listening to scholars. (Book 2)
 - **Starwatch** (tower). An observatory on a peak of the Iron Fells, reached by six hundred steps cut into the rock. The colleges' astronomers chart the stars and, quietly, the strange lights over the Worldsend.
 
-### The Wyldmarch *(working name)*
+### The Wyldmarch *(established)*
 
 **Land.** The wild east: the Thornwood's deep forest, the Hallow Plains' grass and standing stones, Lake Ysse, and the Worldsend mountains at the edge of the world.
 

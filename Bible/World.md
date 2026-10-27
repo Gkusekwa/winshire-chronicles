@@ -109,16 +109,16 @@ The six kingdoms differ in government and in their laws on magic, bonding, and k
 
 | Kingdom | Government and character | Learned magic | Bonding | Knighthood |
 |---|---|---|---|---|
-| **Kessmoor** *(working name)* | Assembly of guildmasters and engineers | Banned; arcane-like technology is encouraged | Restricted; bonded people may be registered or exiled | Open to those who pass trials; knights use engineered arms |
-| **Sarovel** *(working name)* | Bond-monarchy | Embraced and prestigious | Determines social status | Only bonded people may be knighted |
-| **Hearthmere** *(working name)* | Chartered monarchy advised by knightly orders | Licensed and regulated | Respected, never required | Bonded and unbonded knights serve as equals |
-| **Isvaren** *(working name)* | Magocracy ruled by high colleges | Foundation of law and rank | Bond gifts treated as wild power; may be registered | Wardens guard the colleges and enforce their law |
-| **The Wyldmarch** *(working name)* | Confederation of clans and elders; no crown | Folk magic passed down orally | Sacred; beasts are kin | No knights; protectors are called Keepers |
+| **Kessmoor** | Assembly of guildmasters and engineers | Banned; arcane-like technology is encouraged | Restricted; bonded people may be registered or exiled | Open to those who pass trials; knights use engineered arms |
+| **Sarovel** | Bond-monarchy | Embraced and prestigious | Determines social status | Only bonded people may be knighted |
+| **Hearthmere** | Chartered monarchy advised by knightly orders | Licensed and regulated | Respected, never required | Bonded and unbonded knights serve as equals |
+| **Isvaren** | Magocracy ruled by high colleges | Foundation of law and rank | Bond gifts treated as wild power; may be registered | Wardens guard the colleges and enforce their law |
+| **The Wyldmarch** | Confederation of clans and elders; no crown | Folk magic passed down orally | Sacred; beasts are kin | No knights; protectors are called Keepers |
 | **Saltreach** *(established name; no knights)* | League of port-cities led by trading houses and pirate captains | Available by contract | Beast markets, legal and illegal | No knights; sellswords, pirates, and outlaws do the fighting |
 
 ### Kessmoor — kingdom without magic
 
-**Established:** One kingdom has banned magic and is exploring arcane-like technology. Kessmoor is the working name.
+**Established:** One kingdom has banned magic and is exploring arcane-like technology. The kingdom is Kessmoor.
 
 **Settled:** the disaster behind the ban was at **Orrin**, now the Scald (see `Magic.md` §7 and `Atlas.md`).
 
@@ -126,7 +126,7 @@ The six kingdoms differ in government and in their laws on magic, bonding, and k
 
 ### Sarovel — kingdom of the chosen
 
-**Established:** One kingdom embraces bonding and magic and requires a bond for knighthood. Sarovel is the working name.
+**Established:** One kingdom embraces bonding and magic and requires a bond for knighthood. The kingdom is Sarovel.
 
 **Working proposals:** Bonded status could shape noble rank and political authority. The unbonded may be called “the unchosen” and treated as lesser. The student’s later lion bond could reverse how some people treat them; the farmer’s three bonds could make him a political prize or threat. A ruler’s bond with an ancient beast would be controversial because ancient beasts regard bonding as a taint.
 
@@ -228,7 +228,7 @@ Established landscape types include outskirts and villages, farmlands, hunting g
 - lets the two strands cross naturally on the same roads, rivers, and ruins;
 - puts the Restoration's raids, roadblocks, and camps between them.
 
-**The Marches** *(established)*: the border region is called **the Marches**. **A river marks the border,** and the Old Ruin stands on an island or ford in it. The layout and distances are in `Atlas.md`. Hearthmere remains a working name.
+**The Marches** *(established)*: the border region is called **the Marches**. **A river marks the border,** and the Old Ruin stands on an island or ford in it. The layout and distances are in `Atlas.md`.
 - **Days and sky** *(from the drafts)*: Hearthmere is the west bank, so the sun and moon rise over the Saltreach bank.
 - **The freeze and the thaw** *(from the drafts)*: the Wend freezes hard on night 74; the channel under the Hearthmere bank stays open until night 80. Ice a hand and a half thick by midwinter. The south wind comes on the full moon (about day 117); "the river goes out" on night 119, from upriver down, all at once. River people never say the ice breaks. There are no cannon in this world.
 - **Hollin Knowe** *(from the drafts)*: a long rise at the Brackenwood's edge two leagues west of the river, with the old watch's beacon-stones.

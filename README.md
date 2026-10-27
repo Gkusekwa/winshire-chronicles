@@ -59,7 +59,7 @@ The story is told first as a **three-book series**, self-published through Amazo
 - Everything about the Council of Immortals belongs to the later books. Books 1–3 don't reveal or name it, and don't hint that anyone can still hear beasts after the bond goes quiet.
 - At the end of Book 3, no Titans appear to remain and beast–human bonding no longer exists; Book 3 only hints at the full destruction. The new age is the Age of Elementals, which gets its own books. Nothing in Books 1–3 explains elementals: one is seen at Book 3 ch 86, never named or explained. Don't reveal in Books 1–3 that some Titans survived; that belongs to the next series.
 - In the story's world, only ancient beasts, old songs, and a few scholars use the name Winshire; most people speak of their own kingdom or "the Six Kingdoms."
-- Saltreach is a confirmed name. The other kingdom names (Kessmoor, Sarovel, Hearthmere, Isvaren, the Wyldmarch) are working names until confirmed.
+- The six kingdom names (Saltreach, Kessmoor, Sarovel, Hearthmere, Isvaren, the Wyldmarch) and the place names as used in the drafts are final *(author, Oct 2026)*.
 - Knights are protectors. A bond is not required for knighthood, except in the kingdom that makes it a requirement (Sarovel).
 - Magic can be learned without a bond. Knight schools and magic schools are separate.
 - The student begins unbonded. The lion-like beast's bond is gradual and mutual, formed only through respect and sacrifice, and the beast stays violent by nature afterward.

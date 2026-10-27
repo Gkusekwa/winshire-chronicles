@@ -414,7 +414,7 @@ Saltreach is a place in Book 3, not a backdrop: Part Two is set there, Kit's eig
 
 ---
 
-## The land beyond the sea *(canon: the protagonists go there to find the other Titans; proposal: everything else)*
+## The land beyond the sea *(canon: the protagonists go there to find the other Titans; everything else settled by the author as drafted, Oct 2026)*
 
 - **Which sea**: **the Shattered Sea**, on the drowned road. The Western Deep is Kessmoor's (Gearmouth's iron ships, the Book 2 rumour), and the far shore can be reached that way round. The way the Merrins know runs straight, from Saltreach's coast south-west over the Shatters, the broken piers of an old-realm causeway that ran past the Drowned Bell's temple *(Atlas: the Bell sank at the split)*. Its milestones count *into the light*.
 - **What it's called**: Saltreach sailors say **the Lit Shore**; the light-script calls it *where the light is kept*. Neither is a kingdom's name.

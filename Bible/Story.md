@@ -115,7 +115,7 @@ These are distinct personalities. Their names are established (Aurveth, Kharrak,
 
 ## The antagonist: the Restoration
 
-**Established:** The antagonist is a restoration faction, *the Restoration* as a working name, that wants to bring back the old realm of Winshire. Its aims are to:
+**Established:** The antagonist is a restoration faction, *the Restoration* (name final, Oct 2026), that wants to bring back the old realm of Winshire. Its aims are to:
 
 1. **Overthrow the current regimes** of the six kingdoms.
 2. **Gather beasts by capture,** through raids, roadblocks, and camps.

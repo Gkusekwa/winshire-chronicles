@@ -72,7 +72,7 @@
 - **Titans** for mountain-sized beasts; **the Last Titan** for the one beneath Hearthmere in Book 1.
 - **The elder Titans** are known to people only as **gods**. Don't call them Titans on the page in Book 1.
 - **The Marches** for the border region; **the Old Ruin** for the ruin on the border river.
-- **The Restoration** (working name) for the antagonist; before chapter 68, always **"the leader,"** one man.
+- **The Restoration** (final) for the antagonist; before chapter 68, always **"the leader,"** one man.
 - The six kingdom names and the place names as used in the drafts are final *(author, Oct 2026)*.
 
 ## Reveals to protect (Book 1)

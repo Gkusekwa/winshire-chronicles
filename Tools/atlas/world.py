@@ -71,7 +71,7 @@ LAKES = {
 
 MOUNTAINS = {  # name: (polyline, half-width in leagues, density)
     "The Worldsend": ([(300, 22), (304, 50), (301, 90), (304, 130), (298, 160)], 8, 1.2),
-    "The Iron Fells": ([(100, 14), (110, 26), (120, 38), (128, 52), (134, 64)], 6, 1.0),
+    "The Iron Fells": ([(100, 14), (110, 26), (120, 38), (130, 47), (142, 52), (154, 53), (162, 51), (168, 55)], 6, 1.0),  # south-east from the High Crown, then east under Glasswater's foot; Vael lies north-west of Starwatch and the hunters' camp (Book 2 chs 32-38)
     "The High Crown": ([(40, 20), (90, 18), (140, 19), (200, 18), (260, 19)], 4, 0.9),
     "The Scarfell": ([(183, 72), (188, 80), (192, 88), (196, 97)], 4.0, 0.8),
     "Sunward Hills": ([(62, 100), (74, 106), (86, 114)], 4, 0.45),
@@ -234,8 +234,11 @@ place("vael", "Vael", "capital", "isvaren", 150, 36,
 place("longlibrary", "The Long Library", "landmark", "isvaren", 153, 33,
       "Isvaren's oldest archive, a single hall half a league long, built into the hillside above Vael. Its keeper is an ancient raven-like beast that learned human speech over centuries of listening to scholars. (Book 2)",
       canon="established (archive and speaking beast)", label_dx=4)
-place("starwatch", "Starwatch", "tower", "isvaren", 128, 22,
+place("starwatch", "Starwatch", "tower", "isvaren", 158, 47,
       "An observatory on a peak of the Iron Fells, reached by six hundred steps cut into the rock. The colleges' astronomers chart the stars and, quietly, the strange lights over the Worldsend.")
+place("fellscamp", "The hunters' camp", "landmark", "isvaren", 168, 51,
+      "A bowl under a cornice in a high pass on the Isvaren side of the Iron Fells, a few hours' flight south-east of Vael and six days on foot by the cornice pass, with Starwatch's peak along the range to the west. Corvin's hunters kept four bound young dragons here in honey-smoke through the summer. (Book 2)",
+      canon="Book 2 chs 33-38")
 place("isv_temple", "The Undercroft", "temple", "isvaren", 150, 39,
       "Excavated ruins beneath Vael, older than the colleges, which the scholars study as the remains of a pre-split shrine. One sealed chamber they have never opened holds a sleep relic. (Book 2)", secret=True)
 

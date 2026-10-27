@@ -89,7 +89,7 @@
 
 ## Book design *(working)*
 
-- **Every chapter** *(established)*: it **opens with its abstract picture** and **closes with the updated map**, in the ebook and the print book alike (one edition, Oct 2026).
+- **Every chapter** *(established)*: it **opens with its abstract picture** and **closes with the updated map**. The books are published as ebooks only, in one complete edition (Oct 2026).
 
 - **Chapter openers:** each chapter opens with its abstract ink piece (`Book 1/Art/Chapter Openers/`).
 - **Chapter endings:** each chapter closes with a map page (`Book 1/Art/Maps/Chapter endings/`). All of Winshire sits on top, showing only the names the story has reached so far; unexplored lands stay bare. A close-up of the Marches sits below it, with a list of what's new on the map. New places and events are ringed. Older events keep their mark without a label.

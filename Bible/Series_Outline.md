@@ -283,8 +283,8 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - ~~Whether Idony stays unbonded through Book 3~~ *Settled (Oct 2026), as drafted: unbonded (question 19; `Magic.md` §11).*
 
 **Publishing** (`Publishing.md`)
-- ~~What "simplified" means for the print text~~ *Settled (Oct 2026): one edition, no simplified text.* Still open: how the full text fits print, and whether print comes out with the ebook or later
+- ~~Editions and formats~~ *Settled (Oct 2026): ebooks only, one complete edition, never split.*
 - KDP Select or wide
 - Which editor and cover designer
 - Own name or a pen name, and the imprint
-- Release Book 1 alone, or wait until Book 2 is close
+- Release Book 1 alone, or the three close together

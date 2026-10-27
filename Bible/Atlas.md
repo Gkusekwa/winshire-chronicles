@@ -143,6 +143,7 @@
 - **Vael** (capital). The city of the high colleges, on the north shore of Glasswater, under the Iron Fells. Slender towers of blue-grey slate, covered bridges between them, snow on the roofs half the year. Each college has its own colour of lamp, and the city at night looks like a hand of cards.
 - **The Long Library** (landmark). *(established (archive and speaking beast))* Isvaren's oldest archive, a single hall half a league long, built into the hillside above Vael. Its keeper is an ancient raven-like beast that learned human speech over centuries of listening to scholars. (Book 2)
 - **Starwatch** (tower). An observatory on a peak of the Iron Fells, reached by six hundred steps cut into the rock. The colleges' astronomers chart the stars and, quietly, the strange lights over the Worldsend.
+- **The hunters' camp** (landmark). *(Book 2 chs 33-38)* A bowl under a cornice in a high pass on the Isvaren side of the Iron Fells, a few hours' flight south-east of Vael and six days on foot by the cornice pass, with Starwatch's peak along the range to the west. Corvin's hunters kept four bound young dragons here in honey-smoke through the summer. (Book 2)
 
 ### The Wyldmarch *(established)*
 

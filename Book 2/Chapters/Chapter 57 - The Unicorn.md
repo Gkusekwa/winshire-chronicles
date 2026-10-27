@@ -222,7 +222,7 @@ They talked all night.
 
 Maren didn't hear any of it. There wasn't anything to hear. The old mare stood at ten paces with her broken horn lowered and Orrun lay with his chin on the leaves, and neither of them made a sound, and the other ten stood at the edge of the clearing in the dark, and the stars came out in the hole in the canopy.
 
-But she felt it. Through Orrun. Not the words. The weight of them. Something old being handed to him, piece by piece, very carefully, as you'd hand someone a thing you'd carried a long way and were afraid to drop.
+But she felt it. Through Orrun. Not the words. What was in them. Something old being handed to him, piece by piece, very carefully, as you'd hand someone a thing you'd carried a long way and were afraid to drop.
 
 He told her at dawn.
 

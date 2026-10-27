@@ -373,7 +373,7 @@ He saw it. He was sitting on the shingle by her, as he'd sat every night since t
 
 In the middle of the night she lifted it.
 
-And turned it. Slowly. Away from the reef. Along the coast. West. South-west. Toward the far end of the long shore, past Wendmouth and the river's mouth and beyond everything he knew, toward a country he'd never seen.
+And turned it. Slowly. Away from the reef. Along the coast. West. South-west. Toward the far end of the long shore, past Wendmouth and beyond everything he knew, toward a country he'd never seen.
 
 And left it there.
 

@@ -210,7 +210,7 @@ It lifted it off the plinth. The stone came away from the stone with a sound lik
 
 And it drew its head back out of the vault. Out of the passage, grinding. Past her. Into the cavern. And turned its head over its own shoulder, slowly, as she'd seen it do at the Scald, with the river running off its neck.
 
-She came to the passage mouth to watch. She didn't decide to.
+She came to the passage mouth to watch.
 
 ---
 
@@ -310,7 +310,7 @@ She felt it come back through him. A weight, very far away, shifting. Something 
 
 Then another. Further. Cold.
 
-She was counting before she'd decided to. As she'd counted beacons going up along the river wall on a raid night, post after post down the valley, each fire telling the next.
+She counted them as she'd counted beacons going up along the river wall on a raid night, post after post down the valley, each fire telling the next.
 
 Three. Four.
 

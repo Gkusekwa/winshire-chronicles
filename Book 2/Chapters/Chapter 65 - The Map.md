@@ -228,7 +228,7 @@ Below the cavern. Below where the Titan had lain in its chains for three hundred
 
 A vault.
 
-And Orrun had said it, on the third day after the gate, in the cavern, by the lock, with the black river standing half-way up the walls. She'd copied the lock's sentence into the back of the black book by the light of the burning words and he'd stood beside her and said:
+And Orrun had said it, on the second night after the river, in the cavern, by the lock, with the black river standing half-way up the walls. She'd copied the lock's sentence into the back of the black book by the light of the burning words and he'd stood beside her and said:
 
 *Something is shut there. Like a breath held.*
 

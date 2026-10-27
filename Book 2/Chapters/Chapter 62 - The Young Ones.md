@@ -115,7 +115,7 @@ Slowly. On her neck. Toward the bowl. Toward the small girl sitting on it with h
 
 And she looked at her.
 
-He saw it. Even from the mouth of the cave, thirty paces off, in the gold light. Her eyes. Dark gold. Not like Lisska's. Darker than anything. They'd been open since the autumn and there'd been nobody behind them.
+He saw it. Even from the mouth of the cave, thirty paces off, in the gold light. Her eyes. Dark gold, like Kharrak's, but darker. They'd been open since the autumn and there'd been nobody behind them.
 
 There was somebody behind them.
 

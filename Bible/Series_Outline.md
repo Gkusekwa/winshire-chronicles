@@ -232,13 +232,13 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - ~~How does the Clan come to believe the farmer in Book 2?~~ *Settled (Oct 2026), as drafted: the ledger, Ulric's memory and the ledges' witness, sealed by Corvin's raid on the Roosts and the united pour (`Book 2/Chapter_Plan.md`, question 22).*
 - What does each relic look like? *(Proposal: hollow eggs of grey old-realm stone, `Book 2/Chapter_Plan.md`; `Magic.md` §5.)*
 - How exactly did Hearthmere find and chain its Titan? *(About three hundred years ago, Book 1 ch 49, 57; the full history is revealed in Book 2, proposed for its ch 34.)*
-- How does the surviving twin die in Book 3, and does he find any redemption? *(`Book 3/Chapter_Plan.md`, question 5.)*
+- How does the surviving twin die in Book 3, and does he find any redemption? *(`Book 3/Chapter_Plan.md`, question 7; drafted unredeemed.)*
 - Who are the elder Titans, where have they been, and why do they choose to help? *(`Book 3/Chapter_Plan.md`, question 9.)*
 - What does it cost the lion and the dragons to become Titans, and does it change their bonds?
 - Which kingdom plots to be supreme, and does its betrayal cause the defeat? *(Working choice: Kessmoor, in both plans; provisional. See Book 3's **Who** above.)*
 - Which Titans survive the end of Book 3, and how do they stay hidden?
 - What does immortality cost them? *(How they become near-Titans is outlined under **After the fall**; the details are open.)*
-- What happens to the destroyer Titans at the very end? *(`Book 3/Chapter_Plan.md`, question 14.)*
+- What happens to the destroyer Titans at the very end? *(`Book 3/Chapter_Plan.md`, question 1; drafted: they burn out in the surge.)*
 - What are elementals: beings, a new kind of magic, or both? How do people first encounter them?
 - Does the Age of Elementals get its own books or games?
 - Does the student's own character change as the lion grows into a Titan?
@@ -254,12 +254,12 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - How the Clan breeds and controls dragons, and how the dragons experience it (`World.md`)
 - How common bonds are, kingdom by kingdom (`World.md`)
 - Where the elder Titans are, and what people's faiths say about them; who they are and why they help (`World.md`; **Beyond the sea** above; `Book 3/Chapter_Plan.md` questions 8–9)
-- The land beyond the sea: which sea, its name, whether people live there (**Beyond the sea** above; Book 3 question 8)
+- The land beyond the sea: which sea, its name, whether people live there (**Beyond the sea** above; Book 3 question 5)
 - Why Calder could survive three bonds, and why a bond-place cut once "heals harder" (`Story.md`; **After the fall** above)
 - How the lion's and the dragons' Titan-growth changes Maren and Calder and their bonds; what becoming Titans costs the beasts (`Story.md`; open series questions above)
 - How Maren and Calder become near-Titans, and what immortality costs them (`Story.md`; **After the fall** above)
 - Which kingdom plots to be supreme: Kessmoor is the working choice in both plans (Book 3 question 3); Sarovel and Isvaren are the alternatives
-- Which Titans survive Book 3, and what happens to the destroyers (open series questions above; Book 3 question 14)
+- Which Titans survive Book 3, and what happens to the destroyers (open series questions above; Book 3 question 1)
 - What elementals are, and whether the Age of Elementals gets its own books or games (open series questions above)
 - *(Composed Oct 2026, to confirm:)* tuskers and olifants have a rumble-language and remember the old realm as a map; Sarovel's royal olifants have lost it; the grey cat at Greyhold is a great cat of the old lions' kind, not a duskcat (`Bestiary.md`).
 - *(Proposed Oct 2026, to confirm:)* the three ways a bond-death has been survived (cut before death; caught by another bond; given, not taken), and how the Clan keeps its dragons (the eggs, the pens, the bargain) (`World.md`).

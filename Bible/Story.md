@@ -203,7 +203,7 @@ The two protagonists argue these themes from opposite sides. The student has wor
 - Why does a bond-place cut once "heal harder"? *(Proposed Oct 2026 in `World.md`, **When a partner dies**: the three survivals of the pull, and why none is a method. To confirm.)*
 - How does the lion's growth into a Titan change Maren, and her bond?
 - How do the dragons' growth to Titan class change the farmer?
-- How does Corvin die in Book 3? *(Proposals in `Book 3/Chapter_Plan.md`, question 5.)*
+- How does Corvin die in Book 3? *(`Book 3/Chapter_Plan.md`, question 7; drafted unredeemed, taken whole by the relic, ch 74.)*
 - How do the student and the farmer become near-Titans, and what does immortality cost them? *(Outline in `Series_Outline.md`; details open.)*
 - Does Old Grey come back? *(Begun in Book 1, ch 69: inside Greyhold's gate he takes one step toward Wren's voice with nobody driving him, his first act of his own will; his eyes are still empty. Book 2 proposal: he follows Wren of his own accord and recovers.)*
 

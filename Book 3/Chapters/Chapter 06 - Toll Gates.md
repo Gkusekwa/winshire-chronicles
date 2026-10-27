@@ -38,7 +38,7 @@ They came down on it on the twelfth day. The salt-store, its fortress roof where
 
 Nobody.
 
-"Two weeks since," said Ulric. He'd talked to a farmer's wife at a gate. "They put them off on the last day of the year. Said they'd fed them the winter and there was nothing for the spring." He looked at the shut doors. "They're on the road west."
+"Two weeks since," said Ulric. He'd talked to a farmer's wife at a gate. "They put them off before the year was out. Said they'd fed them the winter and there was nothing for the spring." He looked at the shut doors. "They're on the road west."
 
 ---
 
@@ -146,7 +146,7 @@ He came out of the gatehouse with a crossbow on his shoulder and stood on the ro
 
 "Thought so," said the Gaffer. He looked at the gate post. At the board, a copper a head. And above the board, nailed to the post, a paper with a blue wave at its head. Calder could read it from where he stood. He didn't need to. *For the taking and holding of the three dragons bonded to the outlaw Calder Fenn. Alive. Ten thousand gold.*
 
-The Gaffer looked at the paper for a long time.
+The Gaffer looked at the paper.
 
 Then at the dragons.
 
@@ -222,7 +222,7 @@ She looked at it in his hand. Then at him. She didn't take it.
 
 "For forty dragons," said Calder.
 
-Hessa looked at the dragons on the gravel bar for a long time.
+Hessa looked at the dragons on the gravel bar.
 
 Then she took the cup and leaned into the hand-cart and put it back in her mother's hands, and her mother's fingers closed on it without her eyes opening.
 
@@ -292,7 +292,7 @@ The old man with the stick, Abel Tarrow, laughed. Then he stopped, and looked at
 
 "How far?" he said.
 
-"Thirty leagues," said Calder. "More. By the road." He looked up. At the dragons on the bar, asleep in the dark, forty of them, like a herd in a yard. "Not by the road."
+"A hundred leagues," said Calder. "More. By the road." He looked up. At the dragons on the bar, asleep in the dark, forty of them, like a herd in a yard. "Not by the road."
 
 ---
 
@@ -402,7 +402,7 @@ Above the village. Where the barley had stood, the last summer before everything
 
 The first families from Gullhaven were sitting in it.
 
-On the stubble. With their bundles. Looking at the valley below them, the river and the village and the empty farms on the Way, the hills going up behind to the Scarfell, the way people look at a country they've never been to.
+On the stubble. With their bundles. Looking at the valley below them, the river and the village and the empty farms on the Way, the hills going up behind to the Scarfell, as people look at a field they've been given.
 
 Hessa Pane's mother was on a blanket at the field's edge. With her eyes shut. With the tin cup in her lap.
 

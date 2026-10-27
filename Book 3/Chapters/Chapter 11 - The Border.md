@@ -4,29 +4,29 @@
 POV: Maren
 Part: Part One: Lights over the Worldsend
 Days: 44–50 (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
-Ends at (chapter-end map): The Hearthmere border (the Greenwold road, where it leaves the oaks)
-Beats: Maren brings the clans to the Hearthmere border, more than a hundred leagues at a herd's pace (about six a day), and Rowan meets her there. They let the clans in between them. Then Idony's readings come by courier: **the six have divided**, one to each kingdom, each to the ground it slept under; the Last Titan is coming to Hearthmere. Kessmoor calls every kingdom to Ironhythe.
+Ends at (chapter-end map): The Hearthmere border (the Greenwold road's ford on the upper Wend, under the oaks)
+Beats: Maren brings the clans to the Hearthmere border, about eighty leagues from the Ysse across Saltreach's empty scrub and moor to the upper Wend, at a herd's pace (about four a day), and Rowan meets her there. They let the clans in between them. Then Idony's readings come by courier: **the six have divided**, one to each kingdom, each to the ground it slept under; the Last Titan is coming to Hearthmere. Kessmoor calls every kingdom to Ironhythe.
 Echo of another story: Lisska over the Saltings, a courier says, holding Corsa's harbour chain up in a gale.
 Status: first draft
 Draft notes: Days 44–50. Decided here (proposals):
-- **The march, days 44–46**: the eastern march between the Ysse and the Greenwold: dead downs, grey grass the stonehorns crop to the dirt and still go thin; the column a league and a half long; Keepers' wolves on the flanks; children walking now, the mares too tired to carry two. Tova counts the dead every dusk: eleven since the Ysse (old people, two infants, a herd-man gored). Maren's feet: feeling back, but cold in the mornings since the ridge (ch. 7). A Greyhold falcon over them on day 45: Rowan's outrider (ch. 10).
-- **Day 47, the border**: the Greenwold's edge; the barricade gone, its oak trunks lying in the ditch, the ditch planked; on the road where it goes into the oaks, Rowan alone on her greyhart with the white blaze; behind her, drawn up on both sides of the road, her twelve, Crale's old dozen and sixty crown men, in two lines, facing each other across the road like a lane at a wedding. Rowan to Maren: "You're outlawed. By name. Five hundred crowns. I signed it." "I know you did." "And I'm Marshal of the Border. The road's in my keeping." She turns her greyhart side-on to the road. **They let the clans in between them**: Orrun lies down at the planks on one side, Rowan sits her greyhart at the other, and ten thousand people and their herds walk between the lion and the knight into the oaks, all afternoon and into the dark. Neither of them says anything the whole time. Tova at the end: "Is that your captain?" "She's the crown's marshal." "She looks like a captain."
+- **The march, days 44–46**: Saltreach's empty scrub and moor between the Ysse and the Wend: dead ground, grey grass the stonehorns crop to the dirt and still go thin; the column a league and a half long; Keepers' wolves on the flanks; children walking now, the mares too tired to carry two. Tova counts the dead every dusk: eleven since the Ysse (old people, two infants, a herd-man gored). Maren's feet: feeling back, but cold in the mornings since the ridge (ch. 7). A Greyhold falcon over them on day 45: Rowan's outrider (ch. 10).
+- **Day 47, the border**: the Greenwold road's ford on the upper Wend, under the Greenwold's edge; the barricade gone, its oak trunks lying in the ditch, the ditch planked; on the road where it goes into the oaks, Rowan alone on her greyhart with the white blaze; behind her, drawn up on both sides of the road, her twelve, Crale's old dozen and sixty crown men, in two lines, facing each other across the road like a lane at a wedding. Rowan to Maren: "You're outlawed. By name. Five hundred crowns. I signed it." "I know you did." "And I'm Marshal of the Border. The road's in my keeping." She turns her greyhart side-on to the road. **They let the clans in between them**: Orrun lies down at the planks on one side, Rowan sits her greyhart at the other, and ten thousand people and their herds walk between the lion and the knight into the oaks, all afternoon and into the dark. Neither of them says anything the whole time. Tova at the end: "Is that your captain?" "She's the crown's marshal." "She looks like a captain."
 - **The Greenwold**: Rowan's terms, at the fire: the crown's hunting forest, unhunted a year; grass in the glades under the oaks; the clans to keep inside the wood and off the farmland; no grain, but the aurochs are the crown's and the crown isn't using them; the stonehorns' calves, the Keepers' wolves at the edges. Tova: "We'll take the aurochs." Rowan: "Not all of them." The thing between them stays unsaid: the jetty road, Rowan's turned back.
-- **Day 49, the courier**: Liss's grandson **Dickon** (new) on a ferry pony from the river, five days on the road, with Idony's readings in Liss's big round hand (she writes for him now Davin's back in Hallowmere): **the six have divided**: the Bell first (day 25, ch. 9), then the other five on day 41: each turned toward the ground it slept under: the Pale Coil north toward Isvaren; the Furnace west-south-west toward Kessmoor; the Horned Sun south-west toward Sarovel; the Antlered back east toward the Thornwood; **the Last Titan west, toward Hearthmere**; the glasses breathe in six now, each a different length. *It's going home. Like the others. Its home is under you.*
+- **Day 49, the courier**: **Dickon** (new: a boy from the Staithe, twelve) on a ferry pony from the river, two days up the River Road, with Idony's readings in Liss's big round hand (she writes for him now Davin's back in Hallowmere): **the six have divided**: the Bell first (day 25, ch. 9), then the other five on day 41: each turned toward the ground it slept under: the Pale Coil north toward Isvaren; the Furnace west and north toward Kessmoor; the Horned Sun west and south toward Sarovel; the Antlered back east toward the Thornwood; **the Last Titan west, toward Hearthmere**; the six leans, already breathing apart since day 9 (ch. 4), now point six ways. *It's going home. Like the others. Its home is under you.*
 - **Day 50, Kessmoor's call**: a Kessmoor rider in black and grey, on a horse that's never been bonded to anything, with a printed sheet (Kessmoor prints): *To every kingdom of Winshire, and to the lion's knight and the dragons' farmer: the Hall of Measures at Ironhythe, the sixtieth day.* Rowan is named in hers as Marshal; Maren is named as *the lion's knight*, not by name, which is how Kessmoor gets round outlaws. Rowan: "Go." "You'll go?" "I'm the crown's marshal. The crown will send me because nobody else will go." Tova will go for the Wyldmarch.
 - **Echo**: Dickon has a courier's tale from the Wend: in a gale off Corsa the harbour chain's winch broke with the herring fleet outside, and the green dragon held the chain up out of the sea in her claws for an hour while the boats ran in under it.
-Magic touches: Orrun lying across the road as a gate (no working); the glasses' six breaths; kin-speech not possible at distance (Lisska only by courier).
+Magic touches: Orrun lying across the road as a gate (no working); the glasses' six leans; kin-speech not possible at distance (Lisska only by courier).
 notes -->
 
 ---
 
 The grass went on being grey.
 
-All the way west. Across the eastern march, between the Ysse and the oaks, a hundred leagues of downs. Grey to the roots. Nothing in it. The stonehorns cropped it to the dirt every evening and stood in the morning with their ribs showing, and walked on.
+All the way west. Across the empty country between the Ysse and the Wend, eighty leagues of scrub and moor. Grey to the roots. Nothing in it. The stonehorns cropped it to the dirt every evening and stood in the morning with their ribs showing, and walked on.
 
-Six leagues a day.
+Four leagues a day.
 
-She'd stopped counting the leagues somewhere after the twentieth day. She counted other things.
+She'd stopped counting the leagues somewhere after the thirtieth day. She counted other things.
 
 ---
 
@@ -86,7 +86,7 @@ Tova shaded her eyes.
 
 She saw the oaks on the forty-seventh.
 
-Dark along the whole western sky at noon. A wall of them, low, going north and south out of sight. The Greenwold. The road ran up the last of the downs toward them, straight, and went in under the trees.
+Dark along the whole western sky at noon. A wall of them, low, going north and south out of sight. The Greenwold. The road ran down the last of the moor toward them, straight, to the Wend, small and fast up here over its gravel, and crossed it, and ran on up the far slope and in under the trees.
 
 And where it went in, there were people on it.
 
@@ -94,13 +94,13 @@ And where it went in, there were people on it.
 
 She'd thought about this.
 
-For a hundred leagues. Walking. What she'd do at the barricade. Whether Orrun would have to go through it, and what that would cost, and whose men would be under it. She'd thought it through every way and come out at the same place every time, which was that she'd do what she had to and pay for it after.
+For eighty leagues. Walking. What she'd do at the barricade. Whether Orrun would have to go through it, and what that would cost, and whose men would be under it. She'd thought it through every way and come out at the same place every time, which was that she'd do what she had to and pay for it after.
 
 There wasn't a barricade.
 
 ---
 
-There had been. The oak trunks were in the ditch at the side of the road, three deep, where something had dragged them. The ditch across the road had planks over it. Wide enough for a cart.
+There had been. On the far bank, past the ford. The oak trunks were in the ditch at the side of the road, three deep, where something had dragged them. The ditch across the road had planks over it. Wide enough for a cart.
 
 And beyond the planks, on the road, where it went in under the first of the oaks, a woman on a greyhart.
 
@@ -110,11 +110,11 @@ Behind her, on both sides of the road, men. Knights on greyharts and crown men o
 
 ---
 
-Maren walked up to the planks and stopped.
+Maren took the lion over the ford and up to the planks, and stopped.
 
 Orrun stopped beside her.
 
-Behind them, the column came up and stopped too, slowly, a league and a half of it, as a long train of carts stops, the front first and then the rest bunching up. She could hear it behind her. Ten thousand people going quiet.
+Behind them, the column came up to the river and stopped too, slowly, a league and a half of it, as a long train of carts stops, the front first and then the rest bunching up. She could hear it behind her. Ten thousand people going quiet.
 
 Rowan looked at her.
 
@@ -140,7 +140,7 @@ Maren looked at the road.
 
 Then she put her hand on Orrun's neck, and he lay down.
 
-Across the near side. At the end of the left-hand line, on the planks' edge. On the road. His great head toward the oaks and his tail out on the downs. A wall on one side of the road, and a woman on a greyhart on the other.
+Across the near side. At the end of the left-hand line, on the planks' edge. On the road. His great head toward the oaks and his tail back toward the river. A wall on one side of the road, and a woman on a greyhart on the other.
 
 Between them, the way in.
 
@@ -148,7 +148,7 @@ Between them, the way in.
 
 They came all afternoon.
 
-She stood by Orrun's shoulder and watched them come. She didn't count. Tova's carts first, with the old people. Then the mares, with the children. Then the herd-men on foot with their poles, and the stonehorns, huge, grey, slow, with their plated shoulders brushing the planks' edges and their horns lowered, going past the lion's head one by one and turning their eyes to him and going on. Then the Keepers in their green. Then the wolves, coming in off the flanks at a throat-sound from Rhun and slipping down the lane between the crown men's boots like water. Then more carts. Then more people.
+She stood by Orrun's shoulder and watched them come. She watched faces. A boy asleep on a load of tent-poles with his mouth open. An old man with a hen under his arm. Tova's carts first, up out of the ford, with the old people. Then the mares, with the children. Then the herd-men on foot with their poles, and the stonehorns, huge, grey, slow, with their plated shoulders brushing the planks' edges and their horns lowered, going past the lion's head one by one and turning their eyes to him and going on. Then the Keepers in their green. Then the wolves, coming in off the flanks at a throat-sound from Rhun and slipping down the lane between the crown men's boots like water. Then more carts. Then more people.
 
 The crown men stood in their lines and watched them go by. A woman with a baby on her hip held it up to show a pikeman, for no reason, and the pikeman looked at the baby, and nodded.
 
@@ -200,7 +200,7 @@ Tova waited.
 
 ---
 
-Tova looked at her for a long time.
+Tova looked at her.
 
 "We'll take the aurochs," she said.
 
@@ -248,11 +248,11 @@ Maren looked at the fire.
 
 Dickon came on the forty-ninth.
 
-Liss's grandson. Twelve. On one of the ferry ponies, a fat brown thing with a white nose that he'd ridden five days up the Marches road and the Greenwold road alone, asking the way, with a satchel on his back. He found the clans' fires by riding into the oaks till a wolf stood up in front of him, and then he sat on the pony and didn't move until a Keeper came.
+A boy from the Staithe. Twelve. On one of the ferry ponies, a fat brown thing with a white nose that he'd ridden two days up the River Road alone, asking the way, with a satchel on his back. He found the clans' fires by riding into the oaks till a wolf stood up in front of him, and then he sat on the pony and didn't move until a Keeper came.
 
 They brought him to Maren with the satchel still on his back.
 
-"From the old man," he said. "Grandmother wrote it. He said it had to be you."
+"From the old man," he said. "Liss wrote it. He said it had to be you."
 
 ---
 
@@ -268,9 +268,9 @@ Maren read it by the fire with Tova and Rhun and Dickon watching her.
 
 *He says to tell you they've divided.*
 
-*The bell one first. It turned off on its own on the 25th day. He saw a second breath come out of the first one in the glasses and didn't know what it was for two days.*
+*The bell one first. It turned off on its own on the 25th day. He saw one of the leans swing off south on its own and didn't know what it was for two days.*
 
-*Then the other five. All at once. On the 41st day at noon. He says the glasses went still for a long breath and then started again and they weren't breathing together any more. Six breaths. All different. Long and short.*
+*Then the other five. All at once. On the 41st day at noon. He says the six leans went still for a long breath, and then each of them leaned a different way.*
 
 *He worked out which was which from the charts and the way they lean. He sat up two nights. I made him sleep the third.*
 
@@ -278,9 +278,9 @@ Maren read it by the fire with Tova and Rhun and Dickon watching her.
 
 *The cold one, the coil, is going north. Toward Isvaren.*
 
-*The hot one, the one with the chain on it, is going south and west. Toward Kessmoor.*
+*The hot one, the one with the chain on it, is going west and north. Toward Kessmoor.*
 
-*The bright one is going south and west too but further south. Toward Sarovel.*
+*The bright one is going west and south. Toward Sarovel.*
 
 *The one with the forest is going back east. Toward the Wyldmarch.*
 
@@ -302,9 +302,9 @@ Maren read it by the fire with Tova and Rhun and Dickon watching her.
 
 ---
 
-She read it twice.
+She read it to the end.
 
-Then she gave it to Tova, who couldn't read, and read it a third time aloud, for Tova and Rhun. The fires went on round them through the oaks. Hundreds of them. Ten thousand people who'd walked a hundred leagues away from the thing in the east.
+Then she gave it to Tova, who couldn't read, and read it again aloud, for Tova and Rhun. The fires went on round them through the oaks. Hundreds of them. Ten thousand people who'd walked a hundred leagues away from the thing in the east.
 
 And the thing in the east had turned round, and was coming after them.
 
@@ -372,7 +372,7 @@ Tova was reading her sheet upside down, gravely.
 
 Dickon had a tale.
 
-He told it at the fire that night, with his mouth full of aurochs, because a boy who'd ridden five days alone had a tale whether he had one or not. He'd had it from a courier at the Wend crossing, he said, who'd had it from a bargeman, who'd come up from the coast.
+He told it at the fire that night, with his mouth full of aurochs, because a boy who'd ridden two days alone had a tale whether he had one or not. He'd had it from a courier at the Wend crossing, he said, who'd had it from a bargeman, who'd come up from the coast.
 
 A gale off Corsa. Ten days back. The herring fleet out, and the gale coming, and the fleet running for the harbour. And the harbour chain up across the mouth between the towers, because the winch had broken in the wind and nobody could lower it.
 
@@ -416,7 +416,7 @@ Maren stood at the fire's edge.
 
 Maren went back up the road into the oaks.
 
-Behind her, the downs. Grey, open, empty, going away east under the stars. Somewhere at the far end of them, beyond the Ysse, beyond the Plains, something as big as a hill had turned round, and was walking home.
+Behind her, the ford, and the moor beyond it. Grey, open, empty, going away east under the stars. Somewhere at the far end of them, beyond the Ysse, beyond the Plains, something as big as a hill had turned round, and was walking home.
 
 She walked into the trees. Orrun beside her.
 

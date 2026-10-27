@@ -11,12 +11,12 @@ Status: first draft
 Draft notes: Days 245–250. Decided here (proposals):
 - **D.245 Calder flies north** from the Wend on the three (Arn stays at the camp); **at the hatching caves by dusk** (half a day at their pace). The first snow on the Scarfell's tops. **Ada** at the cave mouth; **Wren** (eleven now) with her milestone stone; **Old Grey** in the cave's back stall; Bel down at Varrhold with Pip and Nan.
 - **D.246 Wren's question**, at the warm spring in the cave at night, after Ada doesn't sing (she hasn't since the muster's news: *till the six are one again*): **"What happens if we lose?"** Calder: "We won't." **"Say it twice."** He can't. "Nobody's said, have they. What happens." "No." "Somebody should."
-- **Nobody plans for losing**: Rowan's council plans the line, the Lamp, the relic; every plan begins *when the Lamp takes it*. Calder (who once planned Gullhaven's roofs and the hulks) makes the other plan: if the middle breaks, the people go **north**, up the Drover's Way to Harrow's End and over the Scarfell's lip to Coldtarn; Varrhold's hold and the caves can take a thousand at most and not in deep winter; **they need somewhere warm, under stone, that a Titan can't dig into**.
+- **Nobody plans for losing**: Rowan's council plans the line, the Lamp, the relic; every plan begins *when the Lamp takes it*. Calder (who once planned Gullhaven's roofs and the hulks) makes the other plan: if the middle breaks, the people go **north**, through Harrow's End and up the Drover's Way past Teo's ford, over the Scarfell's edge to Coldtarn; Varrhold's hold and the caves can take a thousand at most and not in deep winter; **they need somewhere warm, under stone, that a Titan can't dig into**.
 - **D.247 with Ada**: he tells her; she listens; "Your father kept his head down." "I know." "You never have." She asks where. He doesn't know yet.
-- **D.248 the tarn**: why it never freezes (Book 1 ch. 8; Book 2 ch. 88, it froze at its edges in a ring short of the warm middle when the Coil passed); he lies on the pouring-stone beside Aurveth and **looks down through her deep sight through the black water**: the tarn's floor, and under it, rock, and under the rock, **warm: the Deep running under the tarn like a hot spring under a field**; and in the rock on the tarn's western side, under the crag, **straight lines**: walls; **an old-realm hall**: a long chamber cut in the rock, pillars in two rows, a floor, steps going up to a door sealed under the scree of the crag's foot above Hollow Beck's source; dry; **warm from the Deep under it**; "the length of Varrhold's hall twice over, and wide"; holds a few hundred, not thousands. *Somebody kept something here*, says Aurveth. *Once. A long time ago.*
+- **D.248 the tarn**: why it never freezes (Book 1 ch. 8; Book 2 ch. 88, it froze at its edges in a ring short of the warm middle when the Coil passed, coming down out of the north-west); he lies on the pouring-stone beside Aurveth and **looks down through her deep sight through the black water**: the tarn's floor, and under it, rock, and under the rock, **warm: the Deep running under the tarn like a hot spring under a field**; and in the rock on the tarn's western side, under the crag, **straight lines**: walls; **an old-realm hall**: a long chamber cut in the rock, pillars in two rows, a floor, steps going up to a door sealed under the scree of the crag's foot above Hollow Beck's source; dry; **warm from the Deep under it**; "the length of Varrhold's hall twice over, and wide"; holds a few hundred, not thousands. *Somebody kept something here*, says Aurveth. *Once. A long time ago.*
 - **He can't open it.** Nobody can but the lion: only Orrun's stone opens stone. **He won't go himself** (they meet only when they must; and he doesn't want to see her face when he asks).
 - **D.249 Lisska goes** (kin-speech only in sight; she flies to the eddy, half a day, and lands on the rampart's end beside the lion); Calder hears it through the green, faint, at the edge of the bond: the ask; then Orrun's voice and, through Orrun, Maren's. **Maren's answer (angry)**: *Tell him yes. Tell him I'll open it. If it comes to that.* And: *Tell him I hate him for asking.* And: *Tell him he's right.* Lisska back at dusk 249: "She's angry." "I heard." "She said yes." "I heard that too."
-- **Echo (through Lisska, d.249)**: the lion-hill lying along the Saltreach-bank rampart's top at the river end, grey, his scorched mane over the edge, "like a new hill nobody's named yet"; the knight asleep against his foreleg.
+- **Echo (through Lisska, d.249)**: the lion-hill lying along the Hearthmere-bank rampart's top at the river end, grey, his scorched mane over the edge, "like a new hill nobody's named yet"; the knight asleep against his foreleg.
 - **D.250**: Calder tells Wren. "If we lose, we go there. Under the tarn. Where it's warm." "Is that true?" "Yes." "Say it twice." **"Yes. Yes."** (He can say that one twice.)
 Magic touches: deep sight through water and rock; the Deep warm under Coldtarn; kin-speech within sight.
 notes -->
@@ -25,7 +25,7 @@ notes -->
 
 He flew north on the two-hundred-and-forty-fifth.
 
-He didn't tell anyone why. He didn't know why, at first. The camp was moving up the Wend to the eddy. The knight was coming in from the south with eight thousand people. Rowan wanted him at her council, standing at the back as he did, and he went to her in the barn's yard in the dark and said he was going home for three days, and she looked at him and didn't ask.
+He didn't tell anyone why. He didn't know why, at first. There was talk of moving the camp up the Wend to the eddy. The knight was coming in from the west, with eight thousand people on the road behind her. Rowan wanted him at her council, standing at the back as he did, and he went to her in the barn's yard in the dark and said he was going home for three days, and she looked at him and didn't ask.
 
 "Three days," said Rowan.
 
@@ -85,9 +85,9 @@ Joss's old dray-beast, grey, huge, quiet, who'd been bound once and made to kill
 
 Ada didn't sing that night.
 
-He noticed it. He'd noticed it before, in the autumn, when he lay on the pallet after the Lit Shore. She'd always sung. At the hearth, in the evenings, the old songs. *The old ones went up into the light, and the one fell into six.* He'd heard it all his life, at Harrow's End, every winter.
+He noticed it. He'd noticed it before, in the summer, when he lay on the pallet after the Lit Shore. She'd always sung. At the hearth, in the evenings, the old songs. *The old ones went up into the light, and the one fell into six.* He'd heard it all his life, at Harrow's End, every winter.
 
-She didn't sing it now. She hadn't since the news came up from the muster, the printed sheet with the Accord's seal on it, that a Clan rider had brought to the caves and Bel had read out at the fire. *The gods are Titans who stopped. The one realm fell for chaining one.*
+She didn't sing it now. She'd sung a little, after the summer. She hadn't at all since the news came up from the muster, the printed sheet with the Accord's seal on it, that a Clan rider had brought to the caves and Bel had read out at the fire. *The gods are Titans who stopped. The one realm fell for chaining one.*
 
 *Till the six are one again*, the song ended.
 
@@ -189,7 +189,7 @@ North.
 
 If the middle broke, the people would have to go north. Away from it. Not south, where the Bell was. Not east, into the dead Wyldmarch. Not west, into dead Hearthmere and whatever came out of the Mere.
 
-North. Up the Drover's Way. Through Cotter's Cross, through Harrow's End, past the top field. Over the Scarfell's lip.
+North. Through Harrow's End, past the top field, up the Drover's Way to Teo's ford. Over the Scarfell's edge.
 
 To here.
 
@@ -263,7 +263,7 @@ Coldtarn never froze.
 
 He'd known it all his life. Everybody did. The Clan burned its dead on the rim and poured them into the one water in the Scarfell that never froze, not in the worst winter, not when the burn froze solid to the bed and the snow lay to the crags' shoulders. The ash went down into black water.
 
-Except once. The night the Coil passed, at the end of the spring, going east. The tarn had frozen at its edges. In a ring. White, a hand's breadth thick, all round the shore.
+Except once. The night the Coil passed, at the end of the spring, coming down out of the north-west. The tarn had frozen at its edges. In a ring. White, a hand's breadth thick, all round the shore.
 
 And stopped. Short of the middle. The middle had stayed black and open, steaming in the cold, as if something under it were warm.
 
@@ -307,7 +307,7 @@ Running warm under Coldtarn. So that the water above it never froze.
 
 She looked west.
 
-Through the tarn's western side. Where the crag came down steep to the water's edge, and at its foot the scree ran down into the shallows, grey, and Hollow Beck came out from under the scree and ran away west through the bowl's gap toward Varrhold.
+Through the tarn's western side. Where the crag came down steep to the water's edge, and at its foot the scree ran down into the shallows, grey, and Hollow Beck came out from under the scree and ran away south-west through the bowl's gap toward Varrhold.
 
 Into the crag.
 
@@ -317,7 +317,7 @@ And then lines.
 
 ---
 
-Straight lines. In the rock. He saw them as he'd seen the walls under the Lit Shore's sand. Not cracks. Not seams. Straight. Meeting at corners. A wall. Another, across from it. A floor between, flat.
+Straight lines. In the rock. He saw them as he'd seen the walls under the Lit Shore's sand. Straight. Meeting at corners. A wall. Another, across from it. A floor between, flat.
 
 Pillars.
 
@@ -371,7 +371,7 @@ Only one thing opened stone without bringing the hill down.
 
 He didn't go.
 
-He thought about it. He sat on the pouring-stone all afternoon and thought about it. Getting up on Kharrak, flying south. Half a day. Landing on the rampart by the lion and asking her.
+He thought about it. He sat on the pouring-stone all afternoon and thought about it. Getting up on Kharrak, flying south. Half a day. Landing by the lion at the eddy and asking her.
 
 He didn't go.
 

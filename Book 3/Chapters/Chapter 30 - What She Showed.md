@@ -6,7 +6,7 @@ Part: Part Three: The Far Shore
 Days: 130–135 (126–129 told back) (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): The hills of the Lit Shore
 Beats: The mountain is the **Grey Mother**: earth and stone, great-cat kind, mother of the old lions. Through Orrun she *shows* Maren (memory shown on purpose, World.md) **the collapse**: the one realm's people learned the hooked script from the old ones and used it to bind beasts, then Titans; the Titans rose; the elders put the six to sleep, and it cost them their bodies. Then a young grey lion set at a door on a river: *keep the watch*. The one realm fell for doing what the Restoration does. She won't come back: *We closed the door once. We have nothing left but light.*
-Echo of another story: Orrun being looked at the way a cub is looked at. Maren feels it through the bond and has to look away.
+Echo of another story: Orrun being looked at as a cub is looked at. Maren feels it through the bond and has to look away.
 Status: first draft
 Draft notes: Days 130–135 (126–129 told back). Decided here (proposals):
 - **Sleep, told back**: dawn 127, after four nights awake, Maren falls asleep sitting against the milestone without knowing it; wakes at noon, alive; Orrun didn't sleep: *I watched you. The whole time.* The light didn't take her. **The bonded are safe while their beast is awake beside them** (plan, The land beyond the sea): she sleeps after that in short watches while he keeps awake, and he sleeps (rarely; he's never needed much) while she does.
@@ -15,10 +15,10 @@ Draft notes: Days 130–135 (126–129 told back). Decided here (proposals):
   1. **The one realm**: a land green to the edges; the road of grey stone crossing everything, milestones, bridges; people among beasts; lions on tower steps that people bow to; the old ones (great shapes, many, of every kind, too big to see whole) teaching people **the hooked script**: a beasts' language set down in marks, so that people and beasts could speak.
   2. **The binding**: people learning to cut the marks into iron, not stone; a collar; a beast with a collar on, standing still, eyes empty; then many; then **chain**: *hold* on the inside of every link; then a great one, a Titan, chained, under a hill, bleeding its breath into a city that lit its lamps on it.
   3. **The rising**: the chained ones and the ones who felt them rising; the realm breaking; the split; the sea coming in over the land where the road ran; fire, ice, the bell.
-  4. **The sleeping**: the old ones coming together, many, in light; laying the six down one by one under temples, each with a stone (the relics) holding its sleep, and a seventh stone over them all; **it costs them their bodies**: each one that gives goes thin, and pale, and into light, and doesn't come back; the ones left are few.
+  4. **The sleeping**: the old ones coming together, many, in light; laying the six down one by one under temples, each with a stone (the relics) holding its sleep, and one stone more over them all; **it costs them their bodies**: each one that gives goes thin, and pale, and into light, and doesn't come back; the ones left are few.
   5. **The door**: a river; an island; a door of grey stone; **a young grey lion**, thin, half-grown, set down in front of it by something vast and grey; and the charge, which comes through in words because Orrun has it in words, in Maren's own tongue, as the verse has it: ***keep the watch***. Orrun, three hundred years ago and more. His mother.
 - **Why the realm fell**: Maren understands it before she's told: for doing what the Restoration does: binding a Titan for power.
-- **Maren asks**, through Orrun: will they come back and put the six to sleep again. The answer, in words, Orrun's words for it: ***We closed the door once. We have nothing left but light.***
+- **Maren asks**, through Orrun: will they come back and put the six to sleep again. The Mother looks at her for the first time, and Maren knows the look: the grey cat nobody owned, in the Long Barn (Book 1 ch. 37). The answer, in words, Orrun's words for it: ***We closed the door once. We have nothing left but light.***
 - **Echo**, the days after (131–134): the Mother keeps looking at Orrun as a cub is looked at, licking him once along his whole length with a tongue like a wind over stone; Orrun lies against her paw with his eyes shut; through the bond Maren feels what he feels: being somebody's. She has to look away.
 - **Her toll**: still neck to jaw and ribs; on the 132nd the grey at her temple, one lock of hair gone white over the left ear (plant for 37: "grey at one temple").
 - **D.135 dusk**: Idony comes up the road on the grey horse; "I've come to read," he says.
@@ -83,7 +83,7 @@ The shape had another name. Maren knew that. That name was light and stone and o
 
 ---
 
-Hesper had said it. At the Hollow Ring, a lifetime ago, Keeper Hesper with her duskcat, telling Maren what the Wyldmarch's clans called the thing they prayed to when the ground shook. Tova had said it, at the Ysse fords, under her breath, when the ridge came up out of the turf. Every chapel in Hearthmere had a hearthstone at its heart that the old women called by it, on their knees, when the lamps still burned.
+Hesper had said it, a lifetime ago, Keeper Hesper with her duskcat. *The Grey Mother keeps the stones. That's what we say when the ground shakes.* Tova had said it, at the Ysse fords, under her breath, when the ridge came up out of the turf. Every chapel in Hearthmere had a hearthstone at its heart that the old women called the grey one, the hearth-mother, on their knees, when the lamps still burned.
 
 The Grey Mother.
 
@@ -121,7 +121,7 @@ And on the roads, people.
 
 And beasts. Walking with them. Among them. Not on chains. Not on leads. Walking. A woman on a road with a great grey cat padding beside her, its shoulder at her shoulder, the two of them talking. A boy on a bridge with a bird on his wrist that wasn't hooded. Lions on the steps of a tower, and people going up the steps past them and bowing, and the lions bowing back.
 
-She'd seen the lions. Aurveth had shown the farmer, and he'd said so in a letter. She'd never seen them bow back.
+She'd heard of the lions. Aurveth had shown the farmer, and he'd said so in a letter. Nobody had said they bowed back.
 
 ---
 
@@ -183,7 +183,7 @@ It went on a long time. She was in it. She couldn't get out. Orrun's shoulder un
 
 The old ones. Coming together. Many of them, in light, on a plain of black ground under a black sky. Gathering round the six, one at a time. Laying them down. Under hills. Under the sea. Under a lake, a mountain, a stair, a ring of stones. Six. And with each, a stone, glowing, set into the ground over it, to hold its sleep.
 
-And a seventh stone, over them all.
+And one stone more, over them all.
 
 And with each one laid down, an old one went thin.
 
@@ -255,6 +255,8 @@ For the first time.
 
 Gold. Old. Very tired. They looked at her a long time.
 
+She knew the look. The cat nobody owned had given it her once, from the straw of an empty stall in the Long Barn.
+
 The answer came through Orrun in words. His words for it. Slow.
 
 ***We closed the door once.***
@@ -293,7 +295,7 @@ On the hundred-and-thirty-second she found the white.
 
 In the morning. She'd woken from an hour's sleep against the milestone, with Orrun awake, and pushed her hair out of her face with her right hand. And there was a lock of it, over her left ear, that came into her fingers white.
 
-Not grey. White. Like an old woman's.
+White. Like an old woman's.
 
 She looked at it a long time. It was still hers. She could feel it pull at her scalp when she tugged it.
 

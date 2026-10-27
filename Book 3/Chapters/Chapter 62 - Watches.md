@@ -133,9 +133,7 @@ Ten days.
 
 ---
 
-At night on the downs, it was beautiful.
-
-He couldn't help it. He knew what it was. He stood on a rise one night on the empty Candle Downs, burned black and white with frost, and looked back along the line.
+He stood on a rise one night on the empty Candle Downs, burned black and white with frost, and looked back along the line. He knew what it was. He looked anyway.
 
 A league of green lamps. In the dark. Swinging. One on every flat, a hundred and eight, going away down the road behind him in a long curve over the downs like a string of green beads somebody had laid on the land.
 
@@ -235,7 +233,7 @@ She looked at Callis a long time.
 
 She'd known him. At Greyhold. She'd ferried him across a hundred times.
 
-She didn't say anything. She ladled.
+She ladled.
 
 ---
 
@@ -307,7 +305,7 @@ He fed his boxes.
 
 He went to the seventh after midnight.
 
-He didn't know why. It was on the coal-run, the seventh's bed was on his way. He went to it with his basket and climbed up beside the firebox, where Callis sat with his shovel and his crate.
+The seventh's bed was on the coal-run. It was on his way. He went to it with his basket and climbed up beside the firebox, where Callis sat with his shovel and his crate.
 
 Callis was awake. He was always awake. He sat with his back to the engine's warm side and his crooked arms across his knees and looked at the ring in its cradle across the Flat, with the green lamps round it and the stage black on its top.
 

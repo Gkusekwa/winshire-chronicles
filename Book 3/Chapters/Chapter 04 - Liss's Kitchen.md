@@ -5,17 +5,17 @@ POV: Maren
 Part: Part One: Lights over the Worldsend
 Days: 8–10 (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): Liss's ferry house; the road east
-Beats: Idony shows Maren the western rising. When he says "light", Orrun remembers: the ones who set him at the door went *into the light*, west, where the sun goes down over the sea *(canon: the verse)*. Word from the east: the six have come down off the Worldsend onto the Hallow Plains, and the Wyldmarch's clans are running west with their herds. Hearthmere's council won't open the border to "the clans and their beasts". Maren goes east to bring them out; Rowan forbids it; she goes anyway.
+Beats: Idony shows Maren the western rising. When he says "light", Orrun remembers: the ones who set him at the door went *into the light*, west, where the sun goes down over the sea *(canon: the verse)*. Word from the east: the six have come down off the Worldsend onto the Hallow Plains, and the Wyldmarch's clans are getting ready to run west with their herds. Hearthmere's council won't open the border to "the clans and their beasts". Maren goes east to bring them out; Rowan forbids it; she goes anyway.
 Echo of another story: Dragon-fire going south down the Wend at dusk: the farmer and the Clan, for the coast.
 Status: first draft
 Draft notes: Days 8–10. Decided here (proposals):
 - Night 8: Idony, with Davin holding the silk, shows her the margin and the mark (ch. 3); he says "lamp", then "light: something that only gives, and doesn't drink". **Orrun remembers** (lying across the doorway with his head in the kitchen): the ones who set him at the door, long ago, when he was young and the river was a different river: they didn't die: they went *into the light*; west; where the sun goes down over the sea; he watched them go from the door. Ada's song, the line every child in the Marches knows: *The old ones went up into the light* (Book 1 ch. 2). Idony very still; Maren: "That's a song." *Yes,* says Orrun. *Somebody made a song of it.*
-- Day 9 dawn, **the six come down**: the lights over the Worldsend don't come at midnight; at dawn Idony's glasses swing: the lean goes from east to east-south-east and the breath breaks into six (no longer one); "They've come down. Onto the Plains." By noon a **horse-clan rider** of the Wyldmarch at the Staithe on a lathered grey mare (the clans' mares, Bestiary), sent ahead by **Elder Tova** of the horse clans to find the lion-woman because the Keepers remember her from the Moot (Book 2 ch. 25): the six came down onto the Hallow Plains at the Worldsend's foot two days ago; the grass burning where they walk; the stones of the Plains cracking; **the clans are running west with their herds**, every clan, ten thousand on foot and more; they're making for the Hearthmere border, the only country west of them that isn't dead in a hundred leagues: and the border is shut.
+- Day 9 dawn, **the six come down**: the lights over the Worldsend don't come at midnight; at dawn Idony's glasses swing: the lean goes from east to east-south-east and the breath breaks into six (no longer one); "They've come down. Onto the Plains." By noon a **horse-clan rider** of the Wyldmarch at the Staithe on a lathered grey mare (the clans' mares, Bestiary), sent ahead by **Elder Tova** of the horse clans when the lights first came (about day 4) to find the lion-woman because the Keepers remember her from the Moot (Book 2 ch. 25): the lights over the Worldsend's foot; the high pastures going black under them; the stones of the Plains cracking; **the clans getting ready to run west with their herds** when the six come down, every clan, ten thousand on foot and more. He doesn't know they've come down; Maren tells him (Idony's glasses, that dawn). They'll make west across Saltreach's empty scrub and moor for Hearthmere, over the Wend: the only land west of them that will feed a herd: and the border is shut. He came by the Greenwold road's ford on the upper Wend with the clans' riders sent to ask; the crown's knights turned them back; he came down the Saltreach bank to the Staithe.
 - **The council's answer**, day 9 afternoon: a rider for Rowan from Hallowmere (the first answer in a month): the border's closed to "the clans and their beasts" on the council's order; no herds, no beast-folk, no Keepers; knights at the Greenwold road to turn them back. Rowan reads it on the jetty and folds it very small.
 - Davin's tribunes' letter: she writes the answer herself (square hand): *I can't come. I'm going east. Tell the city the truth: something is coming, and the council has shut the door on the people running from it. Maren Ashdown.* Davin goes back up the King's Road on day 10 with it.
-- **Maren goes east**, day 10: to bring the clans out, through the border, whatever the council says. **Rowan forbids it**: on the jetty road, in front of the knights: as the senior knight at the river, under the council's order, she forbids any knight to go. "I'm not a knight." "You were a student of this school." "There's no school." Rowan: outlawed by name, with a price; "Then I'll be outlawed." "I'll be the one who has to sign it." Rowan turns her back, as she did on the River Road (Book 1, Book 2 ch. 1), and then turns round again and says "The Greenwold road. That's where they'll put the knights. Don't go by the Greenwold." Wynn offers to come; Maren: stay with the people here.
+- **Maren goes east**, day 10: Liss takes her and Orrun over on the rope to the Staithe, and she goes east from the Saltreach bank: to bring the clans out, through the border, whatever the council says. **Rowan forbids it**: on the jetty road, in front of the knights: as the senior knight at the river, under the council's order, she forbids any knight to go. "I'm not a knight." "You were a student of this school." "There's no school." Rowan: outlawed by name, with a price; "Then I'll be outlawed." "I'll be the one who has to sign it." Rowan turns her back, as she did on the River Road (Book 1, Book 2 ch. 1), and then turns round again and says "The Greenwold road. That's where the knights are. Don't go by the Greenwold." Wynn offers to come; Maren: stay with the people here.
 - **Liss**: "Come home after." "I always do." "You don't. You always come home before. After's different." (Bread in her pack; the brass lamp, which Maren gives back.)
-- **Echo**, dusk 10, on the downs above the Marches heading east: looking back down the valley of the Wend: lines of dragon-fire, gold, short, going south down the river, low, one after another: the farmer and the Clan's flights, for the coast.
+- **Echo**, dusk 10, on the Marches hills above the Saltreach bank heading east: looking back west down into the valley of the Wend: lines of dragon-fire, gold, short, going south down the river, low, one after another: the farmer and the Clan's flights, for the coast.
 Magic touches: none worked; Orrun's memory; tide-glasses breaking from one breath into six.
 notes -->
 
@@ -23,31 +23,11 @@ notes -->
 
 The reader had the silk out on Liss's table.
 
-Spread flat. With cups on the corners. The boy from Millbrook holding the edges down where the cups didn't reach, because the silk kept wanting to roll itself back up after eleven years in a coat lining.
+Spread flat, with cups on the corners and the boy from Millbrook holding the edges down. The six kingdoms small in the middle, and at the south-west edge, past the Saltreach coast, a mark, with *error* beside it in six hands. The last of them his.
 
-"Here," said Idony.
+"I said to Davin it was like a lamp," said Idony. He looked at the mark. "It isn't."
 
-He put his shaking finger on the edge of it. Maren bent over the table.
-
-A drawing. Faint. Old, in a careful young hand. The six kingdoms small in the middle, as she'd never seen them drawn, the Marches a scrap, the Wend a line you could hardly see. And all round them, sea. Empty. With wavy lines on it where whoever drew it first had given up.
-
-And at the edge, south-west, past the Saltreach coast, a mark.
-
-And a word beside it. Six times.
-
----
-
-"*Error,*" she read.
-
-"Six readers," said Idony. "Two hundred years. Every one of them copied it, and came to that, and wrote the same word." He took his finger off the silk. "I'm the sixth."
-
-"What is it?"
-
-"I don't know." He looked at the mark. "Everything else on this chart breathes. Every sleeper. In and out. This doesn't. It rises, and it stays. It's been rising and staying since before there was a College to measure it." He was quiet a moment. "I said to Davin it's like a lamp. A lamp left burning in an empty house."
-
-Davin nodded. "He did."
-
-"Not a lamp," said Idony. Slowly. As if he were reading it off something. "Light. Something that only gives. That doesn't drink." He looked at Maren. "Everything we've measured for a year drinks. The Titan drank. The six are drinking now. This doesn't. It's the only thing on the chart that doesn't."
+He was quiet. Then, slowly, as if he were reading it off something: "Light. Something that only gives. That doesn't drink." He looked at Maren. "Everything we've measured for a year drinks. The Titan drank. The six are drinking now. This doesn't. It's the only thing on the chart that doesn't."
 
 ---
 
@@ -63,7 +43,7 @@ He opened them.
 
 She felt it before he said anything else.
 
-Through the bond. In the place behind her eyes. Not a word. A memory. Coming up in him from a long way down, slowly, as a stone comes up out of the river-bed in a flood, rolled over and over.
+Through the bond. In the place behind her eyes. A memory. Coming up in him from a long way down, slowly, as a stone comes up out of the river-bed in a flood, rolled over and over.
 
 A river. Not this river. Wider. Brown. With no rope across it, and no ferry, and no hill on the far side.
 
@@ -105,7 +85,7 @@ She heard her own voice say it. Small, in Liss's kitchen. Every child in the Mar
 
 ---
 
-Nobody said anything for a long time.
+The kitchen was quiet.
 
 Liss was at the fire. She'd stopped stirring the pot. She stood with the spoon in her hand and looked at the lion's head on her kitchen floor.
 
@@ -161,19 +141,25 @@ He came up the jetty on foot with the mare left at the Staithe, and he looked at
 
 ---
 
-"They came down two days ago," he said.
+"She sent me when the lights came," he said.
 
 At Liss's table. With tea he didn't drink. His hands round the cup.
 
-"Off the mountains. All six. At the Worldsend's foot, where the Plains start. We saw them come down from the high pastures." He looked at the cup. "The grass burns where they walk. Not fire. It goes black. And the stones." He looked up. "The standing stones on the Plains. The old ones. They crack. You can hear them from a league off. Like ice."
+"Over the mountains. At the Worldsend's foot, where the Plains start. Every night. We watched from the high pastures." He looked at the cup. "The grass on the high pastures goes black under it. Not fire. Black. And the stones." He looked up. "The standing stones on the Plains. The old ones. They crack. You can hear them from a league off. Like ice."
 
 "The clans?"
 
-"Running," said the rider. "West. Every clan. The horse clans and the stonehorn clans and the Keepers out of what's left of the Thornwood. With the herds." He put the cup down. "Ten thousand on foot. More. Children. The old. Every stonehorn on the Plains, every mare."
+"Getting ready to run," said the rider. "When they come down. West. Every clan. The horse clans and the stonehorn clans and the Keepers out of what's left of the Thornwood. With the herds. Ten thousand on foot. More. Children. The old. Every stonehorn on the Plains, every mare."
+
+"They've come down," said Maren. "At dawn."
+
+The rider looked at her. Then at the grey man at the window with his glasses. He put the cup down very carefully.
+
+"Then they're running," he said.
 
 "West where?"
 
-"Here," said the rider. "Hearthmere. The border." He looked at Maren. "There's nowhere else. Everything east of the Wyldmarch is mountains. Everything north is the High Crown. Everything south is dead from the drain. A hundred leagues of it. The only land west of us that isn't dead is yours."
+"Here," said the rider. "Hearthmere. Over the Wend." He looked at Maren. "There's nowhere else. Everything east of the Wyldmarch is mountains. Everything north is the High Crown. Everything south is dead from the drain. A hundred leagues of it. West there's the scrub and the moor, and nothing on them. The only land past that that'll feed a herd is yours."
 
 He looked at the fallen hill through the window.
 
@@ -185,7 +171,7 @@ He looked at the fallen hill through the window.
 
 "Shut?"
 
-"Knights on the road," said the rider. "Crown men. At the fords. We sent riders ahead to ask. They were turned back." He looked at Rowan. Across the table, in her white surcoat. "By knights. With hounds. They said the council's order. No clans. No herds."
+"Knights on the road," said the rider. "Crown men. At the ford on the Greenwold road, up the river. We sent riders ahead to ask. I came with them. They turned us back." He looked at Rowan. Across the table, in her white surcoat. "By knights. With hounds. They said the council's order. No clans. No herds."
 
 Rowan didn't say anything.
 
@@ -201,7 +187,7 @@ Rowan pushed it across to her, and she read it herself. In the council's hand. W
 
 *The border of the kingdom is closed to the clans of the Wyldmarch and their beasts by order of the crown's council. No herds, no beast-folk, no Keepers shall be admitted. The knights of the Greenwold road shall turn them back.*
 
-She read it twice.
+She read it to the end, and then the seal.
 
 "*The clans and their beasts,*" she said.
 
@@ -219,7 +205,7 @@ She read it twice.
 
 She wrote to the tribunes that night.
 
-At Liss's table. Davin's letter was there. From the street tribunes of Hallowmere: *Come and tell the city what's coming. The council won't.* It had been on the table two days. She hadn't answered it.
+At Liss's table. Davin's letter was there. From the street tribunes of Hallowmere: *Come and tell the city what's coming. The council won't.* It had been on the table three days. She hadn't answered it.
 
 She answered it now. In her own square hand. Davin watched.
 
@@ -287,7 +273,7 @@ She'd turned to go, Orrun turning with her, when Rowan said it. Without turning 
 
 Maren stopped.
 
-"That's where they'll put the knights," said Rowan. To the river. "The council's. With hounds. The Greenwold road's the only road from the Plains that'll take a herd." She was quiet. "Don't go by the Greenwold."
+"That's where the knights are," said Rowan. To the river. "The council's. With hounds. The Greenwold road's the only road from the Plains that'll take a herd." She was quiet. "Don't go by the Greenwold."
 
 Then she turned round again, and looked at Maren, and walked past her up the jetty road toward the fallen hill, and didn't look back.
 
@@ -331,7 +317,9 @@ Liss looked at the lamp. She didn't put it back in.
 
 She went east at noon.
 
-Up the jetty road. Past the charter stone against the wall. Past the fallen hill and the rows of stone along its foot. Onto the King's Road, and off it, onto the old drove track that ran east over the downs, away from the river, toward the Plains.
+Down the jetty to the rope. Liss took them over herself, the lion lying flat in the middle of the boat with the water an inch from the gunwale, and kept her eyes on the rope the whole way. At the Staithe Maren got off, and Orrun after her, and the boat went back.
+
+Then up through the huts and the drying racks, onto the old drove track that ran east over the Marches hills, away from the river, toward the Plains.
 
 Orrun walked beside her.
 
@@ -339,11 +327,11 @@ She didn't look back until dusk.
 
 ---
 
-At dusk, on the top of the downs, she stopped.
+At dusk, on the top of the hills, she stopped.
 
 She didn't know why. Orrun stopped with her. She turned round.
 
-Below her, the valley of the Wend. Grey in the last light. The river a darker line in it, going south. The fallen hill, small, a lump. The ferry house, too small to see. The Saltreach bank beyond, and the hills, and the Scarfell's long dark rim in the north.
+Below her, the valley of the Wend. Grey in the last light. The river a darker line in it, going south. The fallen hill across it, small, a lump. The ferry house, too small to see. The Hearthmere bank beyond, and the downs going away west, and the Scarfell's long dark rim away to the north.
 
 And over the river, fire.
 

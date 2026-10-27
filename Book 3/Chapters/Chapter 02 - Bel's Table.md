@@ -6,14 +6,14 @@ Part: Part One: Lights over the Worldsend
 Days: 3–6 (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): The hatching caves above Coldtarn
 Beats: The hatching caves above Coldtarn *(Book 2)*: Wren, Ada, Bel, Pip and Nan. Aurveth flies slowly and her old wound weeps. The young dragons brought back from Corvin's binders *(Book 2)* cling to the caves, half-wild; the one Wren woke follows Arn about the yard. Calder says Ada's hearth-word over the cave hearth *(Book 2 ch. 33)* with Kharrak's heat behind it, and the fire comes up to the roof and burns his palm: a Book 2 word, said untaught with a beast behind it, huge and crude (see **Magic in the war**). Lisska shows him the Worldsend through her eyes, and his own eyes bleed. Arn and Ulric come up: the Clan will fly where it's needed, but they want the three under the Clan's banner. "They're not mine to give." His task: the Saltreach coast. Gullhaven's survivors are on the Coast Road with nothing; the Tide Council, which owes him and hates him the more since Marrow read his Gullhaven page aloud to it *(Book 2 ch. 49, 68, 88)*, has already put a contract on his dragons; and Idony's first reading (3) says that when the six come down they'll each go home to the ground they slept under, which puts the Bell back on his own sea.
-Echo of another story: Lisska's sight of the lion-woman on the fallen hill, digging with her bare hands beside three lions.
+Echo of another story: Lisska's sight of the fallen hill, and the lion's picture of the lion-woman holding the lintel, passed on to Calder.
 Status: first draft
 Draft notes: Days 3–6. Decided here (proposals):
 - Day 3 (Book 2's day 365, the last day of the year): the account's second line at Bel's table; Wren reads them with her finger.
 - **The young ones**: the black and the red from Blackwater still empty-eyed by the warm spring (Book 2 ch. 62, 88), half-wild now: they've begun to eat and fly short and come back, and won't let anyone but Wren within a length; **Ildra** follows Arn round the cave yard on day 4 when he comes up, and he keeps sending her back to Wren.
 - **The hearth-word**, night 3: the cave hearth out (the turf damp); Ada's hands too stiff in the cold for the turns; Calder does it with his hand on Kharrak's jaw where the heat is (Coldtarn is live ground: the Deep runs warm under the tarn): two fingers, three turns, the word, the catch: the fire goes up to the cave roof in a sheet and blackens it, the turf gone in a breath, Pip's blanket alight (Bel beats it out); his right palm blistered from heel to fingers; Ada: "That's not the hearth-word. That's the hearth-word shouted." Bel won't speak to him till morning.
 - **Aurveth**: lying in the cave mouth since she came up from the Staithe (Book 2 ch. 88); the old horn-wound under her chest plates weeping again, Ivar Leck packing it; she flies only to the tarn and back.
-- Day 4 morning he sends Lisska to the river ("Go and see"); she's back at dawn day 5 with the picture (echo).
+- Day 4 morning he sends Lisska to the river ("Go and see"); she's back at dawn day 5 with the picture (echo): her own sight of the heap at dusk, the laid rows and the lion lying in the road, and the lion's picture of the lintel (day 3), passed on.
 - Day 4 noon **Arn and Ulric** come up from Varrhold together: the Clan will fly where it's needed, all of it; but the riders want the three under the Clan's banner, red thread and grey, "as they were Sigrun's and Dag's and Imra's"; Calder: "They're not mine to give." Ulric: "Ask them, then." Kharrak: *No.* Lisska (away). Aurveth: *I was the Clan's for three hundred years. I'm tired.* Arn doesn't press; Ulric laughs.
 - **The coast**: Ulric's news (a rider in from Gullhaven by the Coast Road): Gullhaven's survivors put off the salt-pan farms by the farmers when their own stores ran short, on the Coast Road west to Wendmouth with nothing, four hundred, a thousand; and a Council notice nailed at Wendmouth and Gullhaven's harbour-master's door: **a contract on the farmer's three**, for the Council's account, taken alive, ten thousand gold: the Strand house lost four ships and its execution on the reef and wants the price of them back, and Marrow's reading of his page made the houses look like what they were. "They hate you more for being right," says Ulric.
 - **The lights** from the Scarfell, night 4 and 5: much brighter than at the river; the whole eastern sky white over the Worldsend; every dragon on every ledge awake and humming.
@@ -26,7 +26,7 @@ notes -->
 
 He'd written two lines.
 
-The first that morning, the last morning of the year, at Bel's table, with Ada pushing the ink-pot nearer. The second after noon. He'd sat looking at the first one for half a day before he wrote it.
+The first that morning, the last morning of the year, at Bel's table, with Ada pushing the ink-pot nearer. The second after noon. He'd written it straight after the first, crossed it out, and sat half a day before he wrote it again.
 
 *It was the end of the harvest fair, and I had a daughter asleep in the house, and nobody had ever told me anything.*
 
@@ -138,7 +138,7 @@ The fire went up to the roof.
 
 All of it. All at once. Not a flame: a sheet. Gold, then white, out of the hearth and up the wall and across the roof of the cave in a roar, so that for a breath the whole cave was lit like noon and everyone in it was standing in their own shadow.
 
-The turf was gone. Not burned. Gone, in a breath, to ash.
+The turf was gone, in a breath, to ash.
 
 Pip's blanket was on fire.
 
@@ -206,7 +206,7 @@ Lisska looked at him for a while with her pale green eyes.
 
 Arn and Ulric came up at noon.
 
-Together. On their two dragons, red and grey, side by side over the moor from Varrhold. They landed on the ledge by the cave mouth beside Aurveth and got down, and Ulric looked at the black roof over the hearth and grinned, and Arn didn't.
+Together. On two of the Clan's dragons, red and grey, behind their riders, side by side over the moor from Varrhold. They landed on the ledge by the cave mouth beside Aurveth and got down, and Ulric looked at the black roof over the hearth and grinned, and Arn didn't.
 
 They sat at Bel's table.
 
@@ -260,7 +260,7 @@ She was quiet a long time.
 
 Calder told them.
 
-Ulric laughed until he had to put his head on the table. Arn didn't. Arn looked at the cave mouth for a long time.
+Ulric laughed until he had to put his head on the table. Arn didn't. Arn looked at the cave mouth.
 
 "I'll tell the riders," he said.
 
@@ -310,7 +310,7 @@ From the end of the table. Where she'd been sitting with her bad hands in her la
 
 The lights were brighter from the Scarfell.
 
-He'd seen them from the river on the night the six went up. A glow. From the moor they were more than a glow. The whole of the eastern sky, at midnight, over the dark line of the Worldsend's foothills, white. White and gold. Pulsing. Slowly. Like a forge when the bellows go.
+From the moor, on the fourth night, they were more than a glow. The whole of the eastern sky, at midnight, over the dark line of the Worldsend's foothills, white. White and gold. Pulsing. Slowly. Like a forge when the bellows go.
 
 Every dragon on the ledges was awake.
 
@@ -324,9 +324,11 @@ Lisska came back at dawn on the fifth day.
 
 Fast, over the Scarfell's southern rim, out of the valley of the Wend. She came down on the ledge beside Kharrak and put her head on Calder's knee where he sat in the cave mouth, and gave it to him.
 
-Not words. A picture.
+A picture.
 
-The fallen hill. From the air, at dusk. The long grey heap where Greyhold had been, with rows of stone laid along the bottom of it like a field wall. And on the heap, three lions. All the same. Grey, huge, lifting stone off the hill with their shoulders.
+The fallen hill. From the air, at dusk. The long grey heap where Greyhold had been, with rows of stone laid along the bottom of it like a field wall. And in the road below it, a lion. Grey, huge, lying with his chin on the road.
+
+*The lion gave me the rest,* said Lisska. *From the day before I came.*
 
 And in the doorway of something, under a great cracked stone, the lion-woman. Small. With one hand flat on the stone above her head. Holding it. And people coming out under her arm.
 
@@ -348,7 +350,7 @@ He knew he shouldn't. He asked her anyway.
 
 "At them."
 
-Lisska looked east for a long time. At the white rim of the morning over the Worldsend.
+Lisska looked east. At the white rim of the morning over the Worldsend.
 
 *All right,* she said.
 

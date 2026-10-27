@@ -9,7 +9,7 @@ Beats: **The first Titan battle, from the air, and the air is shared**: Kharrak'
 Echo of another story: The ground rising out of the forest floor: the lion.
 Status: first draft
 Draft notes: Days 225–228 (208–224 told back). Decided here (proposals):
-- **Told back**: the clans march d.208 (Maren and the lion walking with them, the lion's steps shortened to a man's); **the air leaves the camp d.220** (four days' flying for the pairs; the three could do it in a morning but keep to the pairs' pace) and comes down **d.224 at the clans' camp on the open downs a league west of the Thornwood's edge**. Calder hasn't spoken to Maren; Rowan sent **Davin's younger clerk, Hobb** (new) to carry between them; Rowan stays at the Wend.
+- **Told back**: the clans march d.208 (Maren and the lion walking with them, the lion's steps shortened to a man's); **the air leaves the camp at dawn d.224** (a day's flying for the pairs; the three could do it in a morning but keep to the pairs' pace) and comes down **at dusk d.224 at the clans' camp on the open downs a league west of the Thornwood's edge**. Calder hasn't spoken to Maren; Rowan sent **Davin's younger clerk, Hobb** (new) to carry between them; Rowan stays at the Wend.
 - **The air**: the three; **Arn's forty pairs** (the rest at the Wend); **Yeva's four rocs**; **Aud Hallin's six stormkite-riders** (light riders: two girls of fifteen and four slight old women; long thin grey birds); **Nell Tallis's twelve wyverns** (hooded till the last moment). Kessmoor sends none (no engines in the Thornwood).
 - **The Thornwood dead**: grey sticks for twenty leagues; **the walking wood** round the Antlered: oak, thorn and ash pulled up by the roots and walking, grey, dead, a league deep round it on every side; **the Antlered**: a stag-shape the size of a hill, grey-brown and mossed, lying or walking, its **crown of antlers like another forest**, branching a quarter-league across.
 - **D.225 first day**: the stormkites go up at dawn and **feel its turns a hundred breaths before it makes them** (as they feel weather); the riders blow **bone horns** down to the clans: one for *left*, two for *right*, a long one for *coming*. **Kharrak's white fire** into the walking edge: dead wood burns like paper and **the burning trees keep walking**, into the clans' lines on the downs; **Lisska's wind turns the fire back east into the wood**, over and over, all day; Calder's palms blister open on Kharrak's neck. **The rocs drop stones** (boulders the size of carts, carried from the Worldsend scree in their feet) into the walking trees, breaking them where fire doesn't stop them. The Keepers go in on the ground with bears and wolves to drive the Thornwood's maddened beasts out (boar, elk, bears gone wild, wolves gone wrong) from under its feet: Maren's part, seen from above: **the lion at the wood's western edge, still, with the clans streaming round him like water round a rock.**
@@ -27,7 +27,7 @@ notes -->
 
 Tova had said eighteen days. The clans walked it in seventeen.
 
-He didn't. He waited at the Wend with the air. Rowan wanted it that way. The pairs could make the Thornwood in four days of flying. The clans couldn't make it in less than seventeen, with the stonehorns and the old people and the carts. So the clans went first, on the two-hundred-and-eighth, at dawn, along the Hearthmere road east, a column three leagues long.
+He didn't. He waited at the Wend with the air. Rowan wanted it that way. The pairs could make the Thornwood in a day of flying. The clans couldn't make it in less than seventeen, with the stonehorns and the old people and the carts. So the clans went first, on the two-hundred-and-eighth, at dawn, along the east road, a column three leagues long.
 
 And the lion went with them.
 
@@ -45,13 +45,13 @@ Wren had watched it out of sight.
 
 ---
 
-The air went on the two-hundred-and-twentieth.
+The air went on the two-hundred-and-twenty-fourth.
 
 He kissed Wren on the ridge in the dark and gave her to Ada and climbed up Kharrak's nose. Arn's forty pairs went up off the camp's western edge round them, and the four rocs off the eastern ridge, and the stormkites like thrown grey threads, and Nell's wyverns on their chains, hooded, behind the riders.
 
-The three could have done it in a morning. They flew at the pairs' pace. Four days. Eastward, over the Marches, over the burned Downs and the empty Greenwold, high, and people on the roads below ducked.
+The three could have done it in a morning. They flew at the pairs' pace. All day. Eastward, over the Marches, past the Scarfell's southern end, over Saltreach's empty scrub and moor, high, and people on the roads below ducked.
 
-They came down on the two-hundred-and-twenty-fourth at dusk.
+They came down at dusk.
 
 ---
 
@@ -279,7 +279,7 @@ The crown. A quarter-league of branches. Each tine as long as a tower. You could
 
 He sent the word down.
 
-Not by Hobb. By Lisska. She was the one who could.
+By Lisska. She was the one who could.
 
 She went down off the smoke to the wood's western edge. Low. Over the clans. Over the lion. Into his sight. And the lion lifted its head.
 
@@ -507,7 +507,7 @@ And came down.
 
 On Tamsin.
 
-On the old grey-green dragon going down over the wind-wall for four wolves. The grey branches closing over her, slowly, as a man reaches for an apple. Her wings. Her neck. Gunna on her neck.
+On the old grey-green dragon going down over the wind-wall for four wolves. The grey branches closing over her, slowly. Her wings. Her neck. Gunna on her neck.
 
 Gunna didn't get off. He saw that. She could have. Tamsin had put her shoulder down. Gunna put her hands on Tamsin's neck instead, flat, and her head down on them, and stayed.
 
@@ -559,7 +559,7 @@ Four Keepers dead. Eleven wolves. Two bears. A wyvern. Bryn Tolle and his green.
 
 Gunna Tarne and Tamsin.
 
-He counted them on the blanket in the dark. He didn't know why. He'd never counted things before.
+He counted them on the blanket in the dark. He'd never counted things before.
 
 ---
 

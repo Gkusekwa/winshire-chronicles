@@ -10,9 +10,9 @@ Echo of another story: Aurveth's new sight, looking down through the sea: a grey
 Status: first draft
 Draft notes: Days 149–150. Decided here (proposals):
 - **Dawn 149**: off the crossroads; Calder on Kharrak's neck (Kharrak's neck now wider than a road); **Jory on Aurveth**; Lisska ahead; they fly north-east straight over the Shatters: **Aurveth's deep sight shows the drowned road's piers through the sea from the air** (what Lisska couldn't find in ch. 26), so Jory reads the stones for the pleasure of it and calls the numbers anyway; *forty-one* by noon: a month's sailing in half a day.
-- **The *Kittiwake***, first light 149, between the third and fourth piers: a day out from the Needle, low in the water; ninety-three on her deck and in two boats astern; the three come down low over her (Lisska first; the ninety-three scream; Kit doesn't); **Idony on the deck waving both arms** (steady hands, shaking again by now? not yet: he's on far-stone ballast); Kit raises one hand; Gannet at the mainmast looking up, not smiling. Calder can't shout down (the voice); Lisska says it for him in nobody's head, then flies on.
-- **The echo**, noon 149: Aurveth looks down through the sea: below the piers, in the sea-bed's stone, a grey warmth the size of a hill walking north-east along the road's line inside the stone; *The lion. On his road home.*; and beside it in the black water, a long pale light (the Lady).
-- **The coast**, afternoon 149: the Saltreach coast empty below: the Saltings, the spit where the white water was (he doesn't know about Ivo and Sunniva), the Corsa terrace with forty-one empty hulks; the Accord's camp's smoke far to the east up the Wend (he doesn't go there: home first; Wren); at dusk over the Marches (ch. 41's echo: the camp sees them).
+- **The *Kittiwake***, early morning 149, between the third and fourth piers: a day out from the Needle, low in the water; ninety-three on her deck and in two boats astern; the three come down low over her (Lisska first; the ninety-three scream; Kit doesn't); **Idony on the deck waving both arms**; Kit raises one hand; Gannet at the mainmast looking up, not smiling. Calder can't shout down (the voice); Lisska says it for him in nobody's head, then flies on.
+- **The echo**, noon 149: Aurveth looks back through the sea, far behind them under the first piers: in the sea-bed's stone, a grey warmth the size of a hill walking north-east along the road's line inside the stone; *The lion. On his road home.*; and far off in the black water, something pale that might be the Lady (Maren first sees her on what she thinks is the fifth day, ch. 40).
+- **The coast**, afternoon 149: the Saltreach coast empty below: the Saltings, the spit where the white water was (he doesn't know about Ivo and Sunniva), the Corsa terrace with forty-one empty hulks; the Accord's camp's smoke far to the west and north, up the Wend (he doesn't go there: home first; Wren); at dusk over the Marches (ch. 41's echo: the camp sees them).
 - **His body**: he can't sit straight; the scars on his chest pull; nosebleeds twice on the flight; the breath short; he lies along Kharrak's neck most of the way.
 - **Night 149, the hatching caves** above Coldtarn (four leagues from Varrhold): the warm spring, the hatching bowls, the yard: **too big for the yard**: Kharrak lands on the moor above the cave mouth and his tail lies across the burn; Aurveth on the tarn's shore; Lisska on the crag. **Ada** at the cave mouth with a lantern; **Wren** running past her; Bel behind.
 - **Wren**: makes him say everything twice: the far shore, the light, the lion as big as a hill, the gods ("Say it again." "The gods are what's left of Titans that stopped." "Say it *again*"), the storm Lisska threw; and the present: **from his coat a piece of the crossroads milestone Kharrak melted**, cooled to grey glassy stone, still faintly warm and humming, the hooked letters run into a swirl on one face: "It said *into the light*." "Say it twice." "*Into the light.* Into the light." She holds it in both hands. "It's warm." Ada watches; doesn't sing; puts a hand on his scarred chest through his shirt once and takes it away.
@@ -122,7 +122,7 @@ Calder looked away.
 
 ---
 
-The *Kittiwake* had been below them at first light.
+The *Kittiwake* had been below them in the early morning.
 
 Early. Between the third pier and the fourth. A day out from the Needle. Low in the water. So low he thought at first she was sinking. Two boats astern on lines. And her deck black with people.
 
@@ -148,7 +148,7 @@ When Kharrak came over, lower, slower, the size of a hill, she raised one hand.
 
 And at the mainmast, waving both arms, an old man in a blanket.
 
-Idony. Jumping. He was jumping, on the deck, in his blanket, with both arms over his head, waving them, as a boy waves at a fair. His hands were steady. Calder could see that even from the air. He was on far-stone. Steady as an old man's hands.
+Idony. Jumping. He was jumping, on the deck, in his blanket, with both arms over his head, waving them, as a boy waves at a fair.
 
 He was shouting something. Calder couldn't hear what.
 
@@ -178,15 +178,13 @@ Beside the old man. Coiling a line. Looking up.
 
 He wasn't smiling.
 
-Calder didn't know the man. He'd seen him on the far shore's beach, a thick Wendmouth face at the edge of things with a board on his knee. He saw him now from the air, looking up at a dragon the size of a hill going over the mast, with no smile on his face at all, and then looking down again at the line in his hands, and going on coiling it.
-
-He didn't think about it again for a long time.
+Calder didn't know the man. He'd seen him in the hall, a thick Wendmouth face between the columns with a board on his knee. He saw him now from the air, looking up at a dragon the size of a hill going over the mast, with no smile on his face at all, and then looking down again at the line in his hands, and going on coiling it.
 
 ---
 
-Aurveth looked down at noon.
+Aurveth looked back at noon.
 
-Past *forty-one*. Over the Shatters' reefs, the white water, the rock teeth. He felt her look.
+From *forty-one*. Back the way they'd come, a long way, to the first piers under the shelf. He felt her look.
 
 Through the sea. Through the sea-bed. Into the stone.
 
@@ -196,11 +194,11 @@ Through the sea. Through the sea-bed. Into the stone.
 
 He saw it through her.
 
-Under the reefs. Under the sea-bed. In the stone, down there in the dark, along the line of the drowned road.
+Under the piers. Under the sea-bed. In the stone, down there in the dark, along the line of the drowned road.
 
 Something warm.
 
-Grey. The size of a hill. Walking. Slowly. North-east. Inside the stone, along the road's line, under the piers, with the stone in front of it opening and behind it closing, as water opens and closes round a boat. A grey warmth, going home through the bottom of the sea.
+Grey. The size of a hill. Walking. Slowly. North-east. Inside the stone, along the road's line, under the piers, with the stone in front of it opening and behind it closing, as a seam opens and is stitched shut behind the needle. A grey warmth, going home through the bottom of the sea.
 
 With something small on its back.
 
@@ -208,13 +206,11 @@ With something small on its back.
 
 ---
 
-And beside it, out in the black water beyond the stone, something else.
+And far off, out in the black water beyond the stone, something pale.
 
-Long. Pale. Cold. Coiling. Keeping pace with the grey warmth as a dog keeps pace with a cart.
+*Something,* said Aurveth. *Gone.*
 
-*Her,* said Aurveth. *The Lady.*
-
-He watched them through her for a long time. The lion walking home under the sea. The Lady beside him in the dark.
+It might have been the Lady. He watched the lion through her for a long time instead, walking home under the sea.
 
 The knight on his back, small, asleep.
 
@@ -254,7 +250,7 @@ He looked at it a long time.
 
 "Arn," said Calder. "Arn did."
 
-He hoped it was Arn. He thought it was. He looked east, up the Wend, where the river went inland from its mouth past Wendmouth into the Marches. A long way up, on the river's bank, smoke. A great deal of smoke. A camp, the size of a city.
+He hoped it was Arn. He thought it was. He looked west, along the coast, to where the Wend came down past Wendmouth into the sea. A long way up it, on the river's bank, smoke. A great deal of smoke. A camp, the size of a city.
 
 He didn't go there.
 
@@ -264,7 +260,7 @@ Home first. Wren first.
 
 They crossed the Marches at dusk.
 
-High. Over the Saltreach bank, over the Way, over farms he knew. West of the camp. A long way west. He saw its fires come on along the river as the light went, thousands, going away up the bank.
+High. Over the Saltreach bank, over the Way, over farms he knew. East of the camp. A long way east. He saw its fires come on along the river as the light went, thousands, going away up the bank.
 
 And something else. From the camp, faintly, a long way off, so faint he only heard it through Lisska's ears.
 
@@ -470,7 +466,7 @@ He felt her. On the black stone at the tarn's edge. Lying with her straight wing
 
 *Good,* said Calder.
 
-*And east,* said Aurveth. *A long way. In the middle of everything. Something burning.*
+*And west,* said Aurveth. *Across the river. In the Mere. Something burning.*
 
 He didn't ask her what. He was too tired.
 

@@ -12,10 +12,10 @@ Draft notes: Days 185–195 (172–184 told back). Decided here (proposals):
 - **D.172 home**: twenty-four days from the lagoon by day-sailing, ninety-three aboard; nobody died; **at Blackwater's mended chain** (iron, every shackle; the toll-hut on the western headland) **the chain-clerk won't take her money: an unsalted ketch can't pay chain money**; she lies off the chain a day; **Fosse** comes out in a boat, pleasant: the ninety-three are the House of Ostrey's passengers (they paid Ostrey for berths); Ostrey pays their chain money; the chain goes down; the *Kittiwake* goes in with them because they're aboard her. Master Loy goes ashore first and doesn't look back. The rich among them go to Ostrey's counting-house; the servants and children go anywhere.
 - **Unsalted in Blackwater**: nobody sells her water; the spring under the eastern cliff's keeper turns his back; **Tansy fills the casks at night from a seep under the north shore**, by the roofless boathouse; nobody will buy far-stone flakes from her; the Merrin house still under Council wax; she lives aboard.
 - **Ostrey's claim**, d.186: Fosse along the moored ketch's side in his boat with a paper: the remnant Council (the houses that didn't sail, in the boathouse) finds the *Kittiwake* **forfeit** to the Council for breach of the requisition (ch. 20), and the Council has assigned its claim to Ostrey; a Council marshal will take her on the 196th. Fosse: "The house of Ostrey would like to say it's sorry."
-- **Jory**, d.187: **Lisska** brings him (Calder's word: "Bring him home"): down onto the roofless boathouse's walls (she's the size of the boathouse now; the walls crack); Jory slides down her foreleg; Kit on the walkway; she doesn't run; he does; she holds him a long time. **He's alive because the farmer brought him**: the whole inlet saw a green dragon the size of a house bring the Merrin boy home and go.
-- **Gannet sells**, d.188–190: ashore every day "for news"; Kit sees him on d.189 come out of **Ostrey's counting-house** on the walkway with a purse; she thinks: flakes; he'd chipped a bag of far-stone on the shore every day; Ostrey buys stone; she doesn't ask. (*He sells Fosse his copies of Idony's notes: the light-script lines, the relic's line, *breath = the Deep*, *unbound = nothing holding it*, *ring = notch, seventh: theirs*; Fosse sells on to whoever pays.* Not on the page: Kit doesn't know; ch. 60.)
+- **Jory**, d.187: **Lisska** brings him (Calder's word: "Bring him home"): down onto the roofless boathouse's walls (she's the size of the boathouse now; the walls crack); Jory slides down her foreleg; Kit on the walkway; she doesn't run; he does; she holds him a long time. **He's alive because the farmer brought him**: the whole inlet saw a green dragon the size of a house bring the Merrin boy home and go. **Idony and Corrie go with her** to Coldtarn ("I'll tell them what I read." Plant for 46); he comes down to the camp with the three on d.196.
+- **Gannet sells**, d.188–190: ashore every day "for news"; Kit sees him on d.189 come out of **Ostrey's counting-house** on the walkway with a purse; she thinks: flakes; he'd chipped a bag of far-stone on the shore every day; Ostrey buys stone; she doesn't ask. (*He sells Fosse his copies of Idony's notes: the light-script lines, the relic's line, *breath = the Deep*, *unbound = nothing holding it*, *ring = notch, the control stone: theirs*; Fosse sells on to whoever pays.* Not on the page: Kit doesn't know; ch. 60.)
 - **The Accord's warrant**, d.192: by **a Kessmoor courier** up from the Wend camp with a sealed letter from **Rowan**, answering Idony's letter (he wrote to her from the ketch's cabin at Blackwater on d.173, in Corrie's hand: Corrie writes): ***The house of Merrin carries for the Accord, under the Accord's warrant, by the war's necessary costs. Its ketch and its people are the Accord's carriers and no other claim lies against them while the war lasts. I. Rowan, Marshal.*** with the brass seal; **the Tide Council signed the Accord**: Fosse reads it, says "Of course," and withdraws the claim. Kit: the price? The Accord pays at cost: what it costs and not a copper over; a Saltreach house carrying at cost is a thing nobody's heard of; **she takes it.** The first job: **barges up the Wend** to the camp: Rowan wants every flat-bottomed hull on the coast; the warrant buys two old salt-barges off the Saltings (unsalted can't buy; the Accord can); Ferris and Lorn rig them.
-- **Idony** goes up the Wend on the first barge on the 194th with Nye and Corrie and a hold of salt fish for the camp: "I'll tell them what I read." (Plant for 46.)
+- **The first barge** goes up the Wend on the 194th with Nye and a hold of salt fish for the camp (at the camp about d.204).
 - **Echo**, dawn 195, from Blackwater's black cliff-top: east along the coast under the mountains' end, where the sun's coming up out of the sea: a shape of white-gold light **walking up out of the sea's light onto the land**: tall, horned, too bright to look at; it goes inland north-west over the mountains' foot, toward the Marches; the whole inlet comes out onto its walkways to look.
 Magic touches: none worked; the salt as the League's law (unsalted: no water, no chain); the Accord's seal over the Council's; the Lamp taking shape.
 notes -->
@@ -204,6 +204,20 @@ Kit looked across the inlet at the green dragon on the boathouse.
 
 It looked back at her. Sideways. As if it were pleased with itself.
 
+---
+
+The old man went with it.
+
+He'd come along the walkway in his blanket, with the sea-birds on his shoulders that had followed him from the far shore and wouldn't leave, and Corrie at his elbow with his papers. He looked up at the green dragon a while.
+
+"I'll tell them," he said. To Kit. "What I read. On the shore. In the light."
+
+"Will they believe you?"
+
+"No," said Idony happily. "Not at first. Then they will."
+
+Jory rowed them over. The dragon put its foreleg down for them, as it had for him, and the old man went up it slowly, with Corrie pushing, and the birds lifting off him and settling again.
+
 Then it went. Up off the boathouse in one beat that sent a wave across the inlet and rocked every boat in it, and away north-west, over the cliffs.
 
 ---
@@ -240,7 +254,7 @@ He'd chipped far-stone every day on the far shore. A canvas bag of it, heavy, ev
 
 She'd have done the same.
 
-She didn't ask him. She thought about that afterwards. She thought about it for a long time.
+She didn't ask him. She thought about that afterwards.
 
 ---
 
@@ -320,15 +334,9 @@ Ferris and Lorn rigged them. Two days.
 
 ---
 
-The old man went up on the first barge.
+The first barge went up on the hundred-and-ninety-fourth.
 
-On the hundred-and-ninety-fourth. With Nye and Corrie to work her, and a hold of salt fish from the Saltings for the camp. He sat on the barge's roof in his blanket with the sea-birds on his shoulders, that had followed him from the far shore and wouldn't leave, and looked up the Wend toward the Marches.
-
-"I'll tell them," he said. To Kit, on the shingle. "What I read. On the shore. In the light."
-
-"Will they believe you?"
-
-"No," said Idony happily. "Not at first. Then they will."
+With Nye and a Saltings hand to work her, and a hold of salt fish from the Saltings for the camp.
 
 Nye cast off. The barge went out across the inlet toward the mouth, toward the chain, which the Accord's warrant lowered now, and the clerk in the hut took the Accord's paper and wrote it in his book and rang his bell.
 
@@ -336,7 +344,7 @@ Nye cast off. The barge went out across the inlet toward the mouth, toward the c
 
 She went up on the cliff on the hundred-and-ninety-fifth.
 
-At dawn. The path she'd watched the knight come down on the lion. She went up it in the dark and stood at the top with the wind off the sea, where the black rock stopped. To look east. She didn't know why.
+At dawn. The path she'd watched the knight come down on the lion. She went up it in the dark and stood at the top with the wind off the sea, where the black rock stopped. To look east.
 
 The sun was coming up out of the sea.
 
@@ -360,7 +368,7 @@ It left the light on the sea behind it.
 
 Below her, the inlet woke.
 
-She heard it. The ladders. Not going up. Down. People coming out onto the walkways in the dawn, all round the water, and turning to look east, and standing still. The houses' people at their shutters. The sellswords on the shingle. The keeper of the spring. Fosse, at his door, in his nightshirt, with his spectacles in his hand.
+She heard it. The ladders, going down. People coming out onto the walkways in the dawn, all round the water, and turning to look east, and standing still. The houses' people at their shutters. The sellswords on the shingle. The keeper of the spring. Fosse, at his door, in his nightshirt, with his spectacles in his hand.
 
 All of Blackwater, looking east at a god walking inland out of the sea.
 

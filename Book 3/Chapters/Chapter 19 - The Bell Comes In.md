@@ -84,7 +84,7 @@ The sea went out of the Saltings at mid-morning.
 
 He saw it go. West of the city, along the coast, where the salt marsh lay grey and green and folded with channels for leagues. All the channels shining with water. And then not. All at once. As if somebody had pulled a plug out of the bottom of the world. The water went out of every channel of the Saltings in the time it took to breathe twice, and left the mud shining in the sun.
 
-He'd seen that before. At Gullhaven. On the three hundred and forty-ninth day of last year, at noon.
+He'd seen that before. At Gullhaven. At the end of the winter, at noon.
 
 He stood up on the copper.
 
@@ -116,7 +116,7 @@ A wall.
 
 He couldn't think of another word. Grey-green, glassy, with white along its top, going along in front of the Bell across the Saltings' shallows, east, toward the city, as high as the counting-houses. Higher. Growing.
 
-Aurveth had said it would go home and lie down where it had slept. It had gone home. It had lain off the Saltings two days.
+Lisska had said it would go home and lie down where it had slept. It had gone home. It had lain off the Saltings two days.
 
 Now it was coming back out.
 

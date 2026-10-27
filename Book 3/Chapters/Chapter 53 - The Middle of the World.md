@@ -5,20 +5,20 @@ POV: Maren
 Part: Part Four: The Old Ones Come
 Days: 240–250 (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): The eddy where the island was
-Beats: On the road home, at the Sun Road's mouth, the Horned Sun comes up behind Sarovel's column, olifants and bond-steeds and carts; Orrun and one shadow hold it until the Lamp, its kin, comes down, and it withdraws. Maren doesn't drop the hillside on it, because the column is under the hillside (Pell's "Subdue, don't kill"). Home: the eddy where the island was; Liss and her new rope. The Accord will make its stand at the hub, where the Oneroad's six ends meet. Maren raises ramparts of stone across the Vale of the Wend; the toll takes the feeling out of her hands.
+Beats: On the road home, at the Sun Road's mouth, the Horned Sun comes up behind Sarovel's column, olifants and bond-steeds and carts; Orrun and one shadow hold it until the Lamp, its kin, comes down, and it withdraws. Maren doesn't drop the hillside on it, because the column is under the hillside (Pell's "Subdue, don't kill"). Home: the eddy where the island was; Liss, moved up to it, and her new rope. The Accord will make its stand at the hub, where the Oneroad's six ends meet. Maren raises ramparts of stone across the Vale of the Wend; the toll takes the feeling out of her hands.
 Echo of another story: Dragons and Saltreach wyverns flying the coast's last people in over the Saltreach bank, side by side, which nobody alive has seen.
 Status: first draft
 Draft notes: Days 240–250. Decided here (proposals):
-- **D.240** Maren with the clans at the Candle Downs' east end (twelve days out of the Thornwood); Orrun walking on four legs again since d.236, stiff. **D.241 Brede and the red-thread girl** (ch. 43) bring Rowan's word: the five are turning toward the hub (52); and **the Sun is coming up the Sun Road behind Sarovel's last column**: **eight thousand from Solenne's low city and Sorrel Isle under Perrin Sade** (Book 2 ch. 86's low-city voice), left Solenne d.230 when the Sun began to stir on the Stair; **olifants (sixty), bond-steeds, carts, the old and the children**; two days from the Sun Road's mouth.
-- **The Sun Road's mouth**: where the road comes out of the Sunward Hills onto the Candle Downs' southern edge, **through a defile called the Vintner's Gate** (new): a league-long cut between two steep chalk-and-stone hillsides, the road at the bottom, the pilgrims' beast-stables at its north end. Maren leaves the clans with Tova and goes south at Orrun's own pace (a day and a night).
+- **D.240** Maren with the clans on the high moor below the Scarfell's southern end (nine days out of the Thornwood); Orrun walking on four legs again since d.236, stiff. **D.241 Brede and the red-thread girl** (ch. 43) bring Rowan's word: the five are turning toward the hub (52); and **the Sun is coming up the Sun Road behind Sarovel's last column**: **eight thousand from Solenne's low city and Sorrel Isle under Perrin Sade** (Book 2 ch. 86's low-city voice), left Solenne d.230 when the Sun began to stir on the Stair; **olifants (twenty), bond-steeds, carts, the old and the children**; two days from the Sun Road's mouth.
+- **The Sun Road's mouth**: where the road comes out of the Sunward Hills for Hallowmere, **through a defile called the Vintner's Gate** (new): a league-long cut between two steep chalk-and-stone hillsides, the road at the bottom, the pilgrims' beast-stables at its north end. Maren leaves the clans with Tova and goes west at Orrun's own pace, over the Wend and across Hearthmere (a day and a night: a long run, at his fastest).
 - **D.243 dawn the Horned Sun** comes up the road behind the column: unicorn-kind, a single great horn, the size of a hill, **burning white-gold, "half a league of day" round it**; the vines on the hillsides blacken; the column is in the defile, strung out a league, olifants at the back hauling carts, Perrin Sade at the front.
 - **The hold**: Orrun and **one shadow** go into the defile's south end behind the column and stand across the road, side by side, between the Sun and the last carts; it comes on; they take it on their shoulders; the heat; Orrun's mane smokes.
 - **The hillside**: Maren on the defile's western lip, hand on the ground; she could drop the whole hillside on the Sun: **the column is under the hillside** (the defile's whole length); **she remembers Pell** at Greyhold: *Subdue, don't kill. You take the wound. You take the risk. You take the long way round.* She doesn't drop it. The olifants at the back kneel in the road (as at the muster) facing the Sun, and won't move; the carters can't shift them; **the bond-steeds go mad**; Perrin Sade's people unhitch the olifants' carts and drag them by hand.
-- **The Lamp comes down**: at noon from the north, over the Downs, on the sun's light, walking down the defile's eastern hillside onto the road between the shadows; the Horned Sun sees its kin; **it stops**; the two stand face to face across the lions, two lights; the Sun lowers its horn; **it turns and goes back south up the road into the hills** and lies down two days south in the Sunward Hills, burning, and waits. The olifants get up.
+- **The Lamp comes down**: at noon from the north, over the hills, on the sun's light, walking down the defile's eastern hillside onto the road between the shadows; the Horned Sun sees its kin; **it stops**; the two stand face to face across the lions, two lights; the Sun lowers its horn; **it turns and goes back south up the road into the hills** and lies down two days south in the Sunward Hills, burning, and waits. The olifants get up.
 - **Toll**: Orrun's mane scorched on the left side, grey-black; the shadow's burns come back into him when it goes; Maren's face burned on the right side (she doesn't feel it; Perrin Sade tells her).
-- **The column** goes north behind the lion to the Wend (d.243–248); the clans come in d.245.
-- **D.248 home**: the eddy where the island was; **the island gone since Book 1's end** (the Wend's bed opened and closed; a wide slow pool now, turning, where the river bends); **Liss's ferry house** on the Hearthmere bank; **Liss's new rope**: the old Kessmoor hawser chafed through on d.240 when the eddy turned the wrong way (the Last Titan turning, 52); **she has a new one, three-strand hemp, laid by the camp's rope-walk, across the eddy**; "It turns the wrong way. Twice a day now. Since the fortieth." "Since the two-hundred-and-fortieth?" "Since whenever it was. I'm not Davin."
-- **The stand at the hub**: Rowan's council d.248 (Maren there; Calder not; at Coldtarn): the Accord will make its stand at the hub, the eddy, where the Oneroad's six ends meet; the line across the Vale on both banks; the camp moves up the Wend three leagues to it.
+- **The column** follows by Hallowmere and the King's Road, about a week behind; Maren and the lion come in ahead on d.248; the clans come in d.245.
+- **D.248 home**: the eddy where the island was; **the island gone since Book 1's end** (the Wend's bed opened and closed; a wide slow pool now, turning, where the river split, three and a half leagues above Greyhold, opposite cracked Redwatch); **Liss's ferry house**, new: after the hill fell she brought her scow, her rope and her household up from Greyhold's jetty in the autumn (a new landing on the Hearthmere bank, a house above it, her hay-barn, the Ferry Barn); from here on "the ferry house" means the new house; **Liss's new rope**: the old Kessmoor hawser chafed through on d.240 when the eddy turned the wrong way (the Last Titan turning, 52); **she has a new one, three-strand hemp, laid by the camp's rope-walk, across the eddy**; "It turns the wrong way. Twice a day now. Since the fortieth." "Since the two-hundred-and-fortieth?" "Since whenever it was. I'm not Davin."
+- **The stand at the hub**: Rowan's council d.248 (Maren there; Calder not; at Coldtarn): the Accord will make its stand at the hub, the eddy, where the Oneroad's six ends meet; the line across the Vale on both banks; the camp moves up the Wend about six leagues to it.
 - **The ramparts**, d.249–250: Rowan asks for walls; **Maren raises the first rampart on the Hearthmere bank**: a league of grey stone out of the Vale's floor, waist-high, then man-high, then twice that, from the Wend's bank west to the downs' foot, through Orrun (bond gift; the Vale is the Last Titan's own dead ground, so no words, only the stone moving through her); then **the second on the Saltreach bank** d.250. **Toll: the feeling goes out of her right hand** (her left was dead already): first heat, then cold, then touch; by dusk 250 she can't feel the stone under her palm; she has to look at her hand to know it's there.
 - **Echo, dusk 250** from the top of the Saltreach-bank rampart: over the Saltreach bank from the south, **Clan dragons and Nell Tallis's wyverns flying side by side**, carrying the coast's last people in baskets and on their backs from the Saltings and Wendmouth's outlying villages; Brede: "Nobody alive's seen that." "Seen what?" "Wyverns and dragons in the one sky. Not fighting."
 Magic touches: Titan shadow; the Horned Sun's half-league of day; the Lamp walking on light; bond-gift stone on dead ground; the toll in her right hand.
@@ -30,7 +30,7 @@ The lion walked on four legs again from the two-hundred-and-thirty-sixth.
 
 Stiffly. The left foreleg put down with care, as an old man puts down a bad foot on a stair. But four. She sat on his head between his ears and felt each step come up through his skull into her, and counted them. Nine days out of the Thornwood. The clans strung out behind on the road west, three leagues of them, the stonehorns, the carts, the old people walking.
 
-On the two-hundred-and-fortieth they were at the Candle Downs' east end. Burned country, still. Black stubble to the edge of the sky, and the first frost on it white in the mornings.
+On the two-hundred-and-fortieth they were on the high moor below the Scarfell's southern end. Brown heather to the edge of the sky, and the first frost on it white in the mornings.
 
 She counted that too.
 
@@ -38,7 +38,7 @@ She counted that too.
 
 Brede came on the two-hundred-and-forty-first.
 
-Out of the west, low, on his old blue, with the red-thread girl with the healed lip on her brown behind him. He came down on the road ahead of the clans and walked back to the lion with his white beard in the wind.
+Out of the south-west, low, on his old blue, with the red-thread girl with the healed lip on her brown behind him. He came down on the road ahead of the clans and walked back to the lion with his white beard in the wind.
 
 "Knight," said Brede.
 
@@ -52,7 +52,7 @@ The first she half knew. She'd felt it through Orrun on the road: a pull in the 
 
 "And the second?"
 
-Brede looked south.
+Brede looked west.
 
 "The Sun's come down off the Stair," said Brede. "It's coming up the Sun Road. And there's a column on the Sun Road in front of it."
 
@@ -80,9 +80,9 @@ She didn't need to ask. Tova was on her bay mare at the column's head, and looke
 
 ---
 
-They went south.
+They went west.
 
-At his own pace. Not the clans'. His great stiff stride eating the burned downs half a league at a time, the wind of it in her face, the frost going by under her in a grey blur.
+At his own pace. Not the clans'. Down off the moor, over the Wend, across Hearthmere, his great stiff stride eating the country a furlong at a time, the wind of it in her face, the frost going by under her in a grey blur.
 
 *It hurts*, she said.
 
@@ -98,7 +98,7 @@ She counted his steps. She lost them. She started again.
 
 The Sun Road came out of the Sunward Hills through a gate.
 
-That was what the pilgrims called it. The Vintner's Gate. She'd never seen it; she'd only seen it on the map at Greyhold, in the schoolroom, a mark where the road went into the hills. A cut. A league long. Two steep hillsides, chalk and old stone, terraced with vines, coming down close on both sides, and the road at the bottom, and at the north end, where it opened onto the Downs, the long low beast-stables where the pilgrims had changed their mounts.
+That was what the pilgrims called it. The Vintner's Gate. She'd never seen it; she'd only seen it on the map at Greyhold, in the schoolroom, a mark where the road went into the hills. A cut. A league long. Two steep hillsides, chalk and old stone, terraced with vines, coming down close on both sides, and the road at the bottom, and at the north end, where it opened onto the road for Hallowmere, the long low beast-stables where the pilgrims had changed their mounts.
 
 She came to its western lip at dawn on the two-hundred-and-forty-third.
 
@@ -110,9 +110,9 @@ And looked down.
 
 The column was in the Gate.
 
-All of it. Strung out a league along the road at the bottom of the cut, between the hillsides. The front of it coming out at the north end, past the stables, onto the Downs. The back of it still at the south end, where the road came in out of the hills.
+All of it. Strung out a league along the road at the bottom of the cut, between the hillsides. The front of it coming out at the north end, past the stables, onto the open road. The back of it still at the south end, where the road came in out of the hills.
 
-People. Walking. Thousands. Carrying children. Pushing barrows. The carts, in a long line, with the old people sitting up on them in blankets. Bond-steeds, tall and white, led, shying. And at the back, the olifants. Sixty of them. Grey. Hauling the heaviest carts in their traces, slowly, at an olifant's pace, which is a man's.
+People. Walking. Thousands. Carrying children. Pushing barrows. The carts, in a long line, with the old people sitting up on them in blankets. Bond-steeds, tall and white, led, shying. And at the back, the olifants. Twenty of them. Grey. Hauling the heaviest carts in their traces, slowly, at an olifant's pace, which is a man's.
 
 And behind the olifants, coming up the road out of the hills, the day.
 
@@ -120,7 +120,7 @@ And behind the olifants, coming up the road out of the hills, the day.
 
 That was what she saw first. Day.
 
-Not a shape. Light. A white-gold brightness on the road at the south end of the Gate, half a league across, as if a piece of noon had come loose from the sky and was walking up the road on its own. The vines on the terraces either side of it going black as it passed. Smoke coming up off them.
+Light. A white-gold brightness on the road at the south end of the Gate, half a league across, as if a piece of noon had come loose from the sky and was walking up the road on its own. The vines on the terraces either side of it going black as it passed. Smoke coming up off them.
 
 And in the middle of the light, a shape she could only see by not looking at it.
 
@@ -202,7 +202,7 @@ If the hillside went, it went on them.
 
 ---
 
-She heard him. Not through Orrun. Through nothing. In her own head, in his own voice, from the front of the yard at Greyhold, with two fingers gone from his spear hand.
+She heard him. In her own head, in his own voice, from the front of the yard at Greyhold, with two fingers gone from his spear hand.
 
 *Subdue. Don't kill. You take the wound. You take the risk. You take the long way round.*
 
@@ -270,7 +270,7 @@ She watched Orrun's mane begin to smoke.
 
 The Lamp came at noon.
 
-Out of the north. Over the Downs. She saw it as she saw the Sun: by not looking. A second light, white-gold, coming down over the edge of the Downs above the stables at the Gate's north end. Walking down the eastern hillside on the light the sun laid on it. Along the terraces. Down. Past the column.
+Out of the north. Over the hills. She saw it as she saw the Sun: by not looking. A second light, white-gold, coming down over the hilltops above the stables at the Gate's north end. Walking down the eastern hillside on the light the sun laid on it. Along the terraces. Down. Past the column.
 
 The people stopped dragging the carts. They looked up. They went down on their knees in the road, all of them, as their olifants had.
 
@@ -310,7 +310,7 @@ The olifants got up.
 
 The shadow went back into him at dusk.
 
-On the road. When the column was out of the Gate and onto the Downs, and the light was two days south, and there was nothing left in the cut but kneeling marks in the dust and twenty olifants walking north on their own, without traces, after their people.
+On the road. When the column was out of the Gate and onto the open road, and the light was two days south, and there was nothing left in the cut but kneeling marks in the dust and twenty olifants walking north on their own, without traces, after their people.
 
 It went into him as breath goes in. And its burns came with it.
 
@@ -350,9 +350,9 @@ He nodded slowly, as if that were an answer.
 
 ---
 
-They came in to the Wend on the two-hundred-and-forty-eighth.
+She came in to the Wend on the two-hundred-and-forty-eighth.
 
-The column behind the lion, five days on the burned Downs. Eight thousand. Twenty olifants walking loose at the back, following, and nobody tried to harness them again. At the Wend they went to the forty that had hauled Kessmoor's wagons since the muster and stood with them, and Kessmoor didn't get any of them back.
+Ahead of the column. It was a week behind her, on the King's Road by Hallowmere, with Rowan's carts gone out to it with bread. Eight thousand. Twenty olifants walking loose at the back, following, and nobody tried to harness them again. When they came in they went to the forty that had hauled Kessmoor's wagons since the muster and stood with them, and Kessmoor didn't get any of them back.
 
 The clans had come in three days before.
 
@@ -368,13 +368,13 @@ The island was gone.
 
 It had been gone since the night the Last Titan came up out of it, when the Wend's bed opened and swallowed it and closed again. She'd seen that. She'd stood on the bank and watched.
 
-There was a pool there now. Wide. Slow. Where the river bent below Greyhold's fallen hill, the Wend spread out and went round and round on itself in a great grey eddy, a quarter-league across, turning. Nothing grew in it. Birds didn't sit on it.
+There was a pool there now. Wide. Slow. Where the river had split, three leagues and more above Greyhold's fallen hill, opposite cracked Redwatch, the Wend spread out and went round and round on itself in a great grey eddy, a quarter-league across, turning. Nothing grew in it. Birds didn't sit on it.
 
 The middle of the world.
 
 ---
 
-Liss's ferry house stood on the Hearthmere bank above the eddy, as it always had.
+Liss's ferry house stood on the Hearthmere bank above the eddy. She'd brought her scow and her windlass and her household up from under Greyhold in the autumn, after the hill fell: a new landing, a house above it, a hay-barn behind.
 
 And across the eddy, a rope.
 
@@ -416,9 +416,9 @@ Liss's new rope went taut across it, and creaked, and held.
 
 ---
 
-The council sat that night. In the barn. The camp was moving: tomorrow, three leagues up the Wend, to the eddy, and every tent and cart and fire with it.
+The council sat that night. In the barn. The camp was moving: tomorrow, six leagues up the Wend, to the eddy, and every tent and cart and fire with it.
 
-The knight was at it. The farmer wasn't. He'd gone north to Coldtarn three days before, Davin said, to his family. Nobody said why.
+The knight was at it. The farmer wasn't. He'd gone north-east to Coldtarn three days before, Davin said, to his family. Nobody said why.
 
 ---
 
@@ -462,7 +462,7 @@ Up.
 
 It came up out of the Vale's floor like a grey back rising out of water.
 
-Slowly. The frozen earth splitting along a league, in a long dark seam. Stone coming up through it. Grey. Rough. Waist-high. Knee-high first, then waist. Men in the camp stopping, all along it, with their arms full. Then man-high. Then higher. Twice a man's height. A wall. A rampart, broad as a road on top, going away west across the Vale from her hand, straight as a ruled line, to the downs.
+Slowly. The frozen earth splitting along a league, in a long dark seam. Stone coming up through it. Grey. Rough. Knee-high first, then waist-high. Men in the camp stopping, all along it, with their arms full. Then man-high. Then higher. Twice a man's height. A wall. A rampart, broad as a road on top, going away west across the Vale from her hand, straight as a ruled line, to the downs.
 
 She held it there.
 

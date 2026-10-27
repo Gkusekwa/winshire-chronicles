@@ -5,13 +5,13 @@ POV: Calder
 Part: Part Seven: Coldtarn
 Days: 323 (the hours before dawn to first light) (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): The hall under Coldtarn
-Beats: **The bond goes quiet** *(canon)*. In the hall, every bonded pair at once: the Clan's riders and their dragons, a knight and her hound, a Keeper and his wolf, Arn and Ildra. The beasts don't die; the quiet is a fading, not a tearing *(canon)*. The beasts look at their people with their own minds and there's no way across *(canon)*. Calder, who has lost his three twice *(canon)*, writes the account's last page. Wren asks what he can see, now that his eyes see to the edge of the world. "Nothing," he says.
+Beats: **The bond goes quiet** *(canon)*. In the hall, every bonded pair at once: the Clan's riders and their dragons, a knight and his hound, a Keeper and his wolf, Arn and Ildra. The beasts don't die; the quiet is a fading, not a tearing *(canon)*. The beasts look at their people with their own minds and there's no way across *(canon)*. Calder, who has lost his three twice *(canon)*, writes the account's last page. Wren asks what he can see, now that his eyes see to the edge of the world. "Nothing," he says.
 Echo of another story: Wren asking Maren to say it twice, and Maren saying it once.
 Status: first draft
 Draft notes: Day 323. Decided here (proposals):
 - **The quiet**: it begins with the dragons' silence (83) and goes through the hall in the hours after the last breath goes out; **every bonded pair at once**: **Arn and Ildra** (she's there; he can't hear her; she can't hear him; she puts her head against his chest and he puts his hand on it and it's a hand on a dragon's head); **the Clan's twenty riders and their dragons**; **Wynn and Sorrow**; **Osk and his wolf**; the Warden and the lame lynx; **a fading, not a tearing**: like a voice going away down a road, not like a rope cut; the beasts don't die, don't sicken, don't go mad; **they look at their people with their own minds**, kindly, puzzled, and there's no way across.
 - **Calder**: he has no bond left to go quiet; **he lost his three twice**: once in death (78, 81), once now: the last thread of them in him, the green, the bronze, the rust, in the powers they gave him, going quiet too: the fire still in his palms, the wind in his chest, the sight in his eyes; but **no voice in any of them**; *Kharrak* he says to the fire in his hands; nothing; it's only fire.
-- **The account's last page**: Davin's case; the account (Book 2 ch. 88: Calder wrote its first line; Davin and Liss have kept it since, in the case: the pages of the war in many hands: Liss's round, Davin's quick, Maren's square, Corrie's); Calder asks for the last page; **he can write only a few words** (CALDER, FENN, TWO, and since Gullhaven a handful more); he writes it himself, letter by letter, Davin spelling each word aloud, in big square capitals that take the whole page, with Davin's pencil (it breaks twice): **THE BOND WENT QUIET AT FIRST LIGHT. NOBODY DIED OF IT.** (As he wrote his first sentence at Fisk's table with a burnt stick. No fire is lit in the hall before Tam's, 86.)
+- **The account's last page**: Davin's case; the account (Book 2 ch. 88: Calder wrote its first line at Bel's table in the hatching caves on day 365; Davin and Liss have kept it since, in the case: the pages of the war in many hands: Liss's round, Davin's quick, Maren's square, Corrie's); Calder asks for the last page; **he can write, slowly and badly** (Book 2 finished that arc); he writes it himself, Davin checking his spelling, in big square capitals that take the whole page, with Davin's pencil (it breaks twice): **THE BOND WENT QUIET AT FIRST LIGHT. NOBODY DIED OF IT.** (As he wrote his first sentence at Fisk's table with a burnt stick. No fire is lit in the hall before Tam's, 86.)
 - **First light**: a crack high in the door-stone where the fallen mountain didn't close: a thin line of grey light at the hour Idony says is dawn; people turn to it.
 - **Wren's question**: by Old Grey, with her hand on his neck; Old Grey looks at her kindly and doesn't understand (he never did; he was never bonded; but now nothing is): "Papa. What can you see? Now. With your eyes." He looks: through the crack, through the stone, through the Scarfell, to the edge of the world: **no smoke on any horizon; no road with anyone on it; no light under the ground; no Titans; no fires**; "Nothing," he says.
 - **Echo**: across the hall Wren goes to the knight sitting on the fallen stone inside the door: "Is it over?" "Yes." "Say it twice." **Maren says it once.** "Yes." Wren looks at her a long time and nods; that's enough.
@@ -98,7 +98,7 @@ The rope was just not there. And had never been anything you could see.
 
 The dragons didn't die.
 
-He watched for it. He was frightened of it. He watched the twenty along the hall's back with his strange eyes, that saw too far, and none of them died. None of them sickened. None of them went mad, or went for their riders, or bolted for the door that wasn't there.
+He watched for it. He was frightened of it. He watched the twenty along the hall's back with his strange eyes, and none of them died. None of them sickened. None of them went mad, or went for their riders, or bolted for the door that wasn't there.
 
 They lay among the pillars and looked at their people.
 
@@ -118,11 +118,11 @@ No way across.
 
 By the door, Wynn.
 
-On the floor against the wall. With her arm in its bandage. With Sorrow lying beside her, grey, her head on Wynn's knee.
+On the floor against the wall. With his arm in its bandage. With Sorrow lying beside him, grey, her head on Wynn's knee.
 
 Wynn was talking to her.
 
-He could hear it. She'd been talking to her all night. As a knight talks to her hound. Low. Half words. *Good girl. There. Good.*
+Calder could hear it. Wynn had been talking to her all night. As a knight talks to his hound. Low. Half words. *Good girl. There. Good.*
 
 Sorrow lifted her head.
 
@@ -132,7 +132,7 @@ And wagged her tail, slowly, on the stone floor. Once. Twice. As a hound does wh
 
 Wynn stopped talking.
 
-She put her face down in the grey hound's neck.
+He put his face down in the grey hound's neck.
 
 ---
 
@@ -146,7 +146,7 @@ It just couldn't hear him any more.
 
 The Warden and her lame lynx.
 
-A riders' wife with a small brown dragon's head in her lap, that wasn't hers, that was her dead husband's, and that had followed her in. Stroking it.
+A riders' wife with a small brown dragon's head in her lap, that wasn't hers, that was her husband's, and her husband lying hurt in the niche behind her. Stroking it.
 
 All of them.
 
@@ -196,7 +196,7 @@ It was only fire.
 
 He'd lost them twice.
 
-Once on the top field. Once on the black water. Once on the beck's mouth, white. Three deaths. As at the mill. And they'd given, and he'd lived.
+The first time three times over: on the top field, on the black water, on the beck's mouth, white. Three deaths. As at the mill. And they'd given, and he'd lived.
 
 And now the second time. The thread of them that had been left in what they gave. Going quiet with everything else.
 
@@ -232,7 +232,7 @@ The old man woke. On his hurdle. He looked at the crack.
 
 People turned to it.
 
-All over the hall. In the niches. On the floor. Turning their heads, in the dark, toward the thin grey line high in the door. As the beasts had turned their heads toward the Lamp, once, at the muster. All at once.
+All over the hall. In the niches. On the floor. Turning their heads, in the dark, toward the thin grey line high in the door. All at once.
 
 Looking at it.
 
@@ -252,7 +252,7 @@ He came.
 
 Davin opened the case.
 
-It was in there. It had been in there since the ferry house. Since the night the six went up. He'd written its first line himself at Liss's table with a burnt stick, in big square letters, because somebody had to begin it and nobody else would.
+It was in there. It had been in there nearly a year. He'd written its first line himself at Bel's table, the last morning of the year, with Ada pushing the ink-pot nearer, because somebody had to begin it and nobody else would.
 
 Pages. Many hands. Liss's round. Davin's quick. The knight's square one, from the far shore, one-handed. A girl called Corrie's. The old man's tide-logs. Rowan's orders, copied.
 
@@ -268,11 +268,7 @@ Davin looked at him.
 
 ---
 
-He couldn't write.
-
-He could write his name. CALDER. FENN. And TWO, which he'd burned on a strip of his shirt once. And since Gullhaven a handful more, that Wren had made him learn, sitting at the cave's fire with a slate, because a man who wrote to the Tide Council ought to be able to write *roof*.
-
-Not enough for a page.
+He could write. Slowly. Badly. Enough for a page, in the light there was.
 
 ---
 
@@ -280,7 +276,7 @@ Not enough for a page.
 
 ---
 
-Davin spelled it.
+Davin said he would.
 
 Calder sat on the floor in the dust by the stone of the door with the last page on a board on his knees, and Davin's pencil, which he held as he held a hoe.
 
@@ -290,7 +286,7 @@ He wrote.
 
 ---
 
-Davin said each word. Then each letter. Slowly.
+Davin said each word. Calder found the letters himself, slowly, and Davin nodded at each one.
 
 He cut each one with the pencil. Pressing. It broke twice. Davin sharpened it with his knife and gave it back.
 
@@ -378,7 +374,7 @@ Out.
 
 ---
 
-South. The moor. The Way. The lip at Harrow's End. The top field, with a grey shape on it, under snow now. The Vale, below, a long way down. The hole in its middle. No light in it. No river going into it. The river was gone. Mud. Ice.
+South. The moor. The Way. The lip. The Fellwood. The top field above Harrow's End, with a grey shape on it, under snow now. The Vale, below, a long way down. The hole in its middle. No light in it. No river going into it. The river was gone. Mud. Ice.
 
 The Wend's mouth. Grey. The sea. Grey. Flat.
 

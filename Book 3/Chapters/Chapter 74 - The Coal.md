@@ -6,11 +6,11 @@ Part: Part Six: The Vale of the Wend
 Days: 319 (afternoon) (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): The Last Titan's back
 Beats: Maren reaches Corvin on the Last Titan's back. "You killed my brother." "Yes." She holds out her hand to him: give, not take. He kneels at the relic as a man kneels at a wayside shrine and puts his iron hand and then his own on it. Old magic takes him whole. **Corvin dies** *(canon)*. Callis, reaching for him, goes with him. The Bridle holds one breath and fails: Corvin's chain-words carry Idony's wrong stroke, and the hold slips. The Last Titan rises, chained again for that breath and past all rage now, and uses the relic. Orrun pulls Maren off its back.
-Echo of another story: Far down at the Wend's mouth, the Lady wound round the Bell, holding it out of the river so it can't come up into the camps.
+Echo of another story: Felt through Orrun, far down at the Wend's mouth, the Lady wound round the Bell, holding it out of the river so it can't come up into the camps.
 Status: first draft
 Draft notes: Day 319, afternoon. Decided here (proposals):
 - **The climb**: from Orrun's shoulder up one of the Bridle's taut chains (the fourth, over the Titan's left shoulder) one-handed and with her knees, watching her hand close each time; the *hold* glowing on the links' insides; the Bridle hauling: **the Last Titan drawn across the eddy toward the Ferry Flat's edge**, its flank coming against the bank by the jib-posts; she reaches its back behind the left shoulder.
-- **The back**: plates like a hillside of grey slates, each a barn door; the five dark eggs grown into them, cart-sized, cold; **the crack the Lamp's horn opened**, a hand's breadth, red light coming up; and **Corvin**, there before her: he left the stage when the chain-words were read and walked onto the Titan's back from the jib-post platform at the Flat's edge where its flank lies against the bank; he's kneeling at the crack with the old roll's case beside him.
+- **The back**: plates like a hillside of grey slates, each a barn door; the five dark eggs grown into them, cart-sized, cold; **the crack the Lamp's horn opened**, a hand's breadth, red light coming up; and **Corvin**, there before her: he left the stage when the chain-words were read and climbed a chain from the jib nearest the stage while the Bridle hauled (73); he's kneeling at the crack with the old roll's case beside him.
 - **The plan as Corvin has it**: the Bridle holds the Titan; **the iron hand** (Kessmoor's: unbound iron, worked by no person, a made thing; his reasoning: an engine breathes and an iron hand holds; the old magic took his flesh hand at the relic; it won't take iron) will lift the relic out of the crack and he'll carry it to the ring's sixth hollow; then the Bridle has the stone the six are tied to.
 - **The talk**: "You killed my brother." "Yes." He nods; as at a figure. "Ashdown." She holds out her right hand (bandaged; she can't feel it; she looks at it to see it's out): "Give it to me. Not to them. Not to anyone. Give it." **Give, not take.** He looks at her hand a long time: the one human moment; his left hand moves an inch toward it.
 - **The shrine**: then he turns to the crack and **kneels, as a man kneels at a wayside shrine** (Book 1 ch. 76, the lock under the school), and puts **his iron hand** into the crack onto the coal; **the iron goes white, then grey, then stone**, to the cuff; he looks at it: "Oh." Then, because the iron won't lift, **he puts his own left hand on it**.
@@ -20,7 +20,7 @@ Draft notes: Day 319, afternoon. Decided here (proposals):
 - **The Last Titan rises**: under the slack chains, **chained again for that breath** (she feels it: the old *hold* closing on it as it closed for three hundred years, and opening), and **past all rage now**: she feels nothing in it at all, no fury, no grief: a stillness worse than rage; it gets up out of the eddy; **it uses the relic**: the coal flares through the plates; **a sound she feels through every stone**: a call; on the horizons the five answer: the Sun, the Coil, the Bell (and through Orrun, the Furnace's and the Antlered's breaths in it).
 - **The Bridle torn**: the Titan's rising drags the six jibs off their posts and the chains off the ring; three of the twelve engines go into the eddy on their own chains; the stage goes over; **Pike** (on the Flat by the ring, with her book; she came down from the hay-barn at noon) **and the Bridle's crews** under it.
 - **Orrun pulls her off**: the bond comes taut (the smoke thinned on the water); his jaws close on her coat as he once dragged her out of the river by the coat under the ice; he lifts her off the rising back and down into the water and holds her up.
-- **Echo**: through Orrun's last reach of sight, south: **at the Wend's mouth the Lady wound round the Bell**, coil on coil, pale on the white water, holding it out of the river so it can't come up into the camps.
+- **Echo**: through Orrun's far-sense in the river's stone (a hundred leagues; not sight), south: **at the Wend's mouth the Lady wound round the Bell**, coil on coil, pale on the white water, holding it out of the river so it can't come up into the camps.
 Magic touches: old magic taking a person whole; the wrong stroke undoing the *hold*; the relic used.
 notes -->
 
@@ -64,7 +64,7 @@ She didn't know if he had.
 
 The chain moved under her.
 
-Not swaying. Moving. Along. Toward the Flat. She felt it through her knees. The Bridle. Hauling. Twelve engines, breathing, on twelve chains, pulling the Last Titan across the eddy toward the bank.
+Moving. Along. Toward the Flat. She felt it through her knees. The Bridle. Hauling. Twelve engines, breathing, on twelve chains, pulling the Last Titan across the eddy toward the bank.
 
 She looked up the chain.
 
@@ -366,7 +366,7 @@ Then she felt it open.
 
 ---
 
-As a hand opens. Not torn. Not broken. Opening. *Let go*, the word on the links said, instead of *tighten*. She didn't know it. She'd know it later, from the old man, sitting in the snow: a stroke turned the wrong way in the third curve, on a ship, a year ago. And Corvin's own wrong mending of it in the fourth.
+As a hand opens. Not torn. Opening. *Let go*, the word on the links said, instead of *tighten*. She didn't know it. She'd know it later, from the old man, sitting in the snow: a stroke turned the wrong way in the third curve, on a ship, a year ago. And Corvin's own wrong mending of it in the fourth.
 
 The chain-words he'd read from the stage had carried it.
 
@@ -434,7 +434,7 @@ And on the horizons, they answered.
 
 ---
 
-She felt them answer. South, in the shallows and beyond: the Sun, getting up, white. North, in the channel: the Coil, turning in the water. Further south, at the mouth: the Bell.
+She felt them answer. East, on the Saltreach bank, behind the farmer's fire: the Sun, flaring white. Near, in the river by the Flat: the Coil, lifting its head. Far south, at the mouth: the Bell.
 
 And in the coal under her feet, the two that had gone into it. The Antlered. The Furnace. Their breaths. Answering too. From inside it.
 
@@ -522,7 +522,7 @@ Round the coat. Through his teeth.
 
 ---
 
-She looked past him. South. Down the river. As far as she could see, through him, through the last reach of his sight in the stone of the river-bed.
+She looked past him. South. Down the river. Farther than eyes go: through him, through the long reach of his sense in the stone of the river-bed, a hundred leagues of it.
 
 To the mouth.
 

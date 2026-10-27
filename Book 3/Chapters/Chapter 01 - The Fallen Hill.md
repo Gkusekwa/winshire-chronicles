@@ -10,11 +10,11 @@ Echo of another story: Lisska over the fallen hill at dusk, low enough for kin-s
 Status: first draft
 Draft notes: Days 2–5. Decided here (proposals):
 - Day 2 morning: Maren back at the ferry house since Book 2's day 362 (she watched the six go from the jetty); Liss's rope running the Marches home the other way; the envoys (Rowan, Tolley, Corrow, Perrin Sade) still at the ferry house arguing (ch. 3); Idony on the settle.
-- **The dig**, days 2–5: Rowan's knights (forty: what's left of the river's knights; Wynn and his hounds among them), Greyhold's grooms under Joby Marsh, Isak Thurl and six Kessmoor men who stayed; Orrun and two shadows lift the fallen stone off the north side of the heap, slab by slab, and lay it down the slope in rows. Orrun **sleeps a day** after (plan's shadows table: two, digging, sleeps a day): day 4.
+- **The dig**, days 2–5: Rowan's knights (forty: what's left of the river's knights; Wynn and his hounds among them), Greyhold's grooms under Joby Marsh, Isak Thurl and six Kessmoor men who stayed; Orrun and two shadows lift the fallen stone off the north side of the heap, slab by slab, and lay it down the slope in rows. Orrun **sleeps a day** after (plan's shadows table: two, digging, sleeps a day): after the dig stops on day 5.
 - **What comes up**: day 2, the north tower forge: Tam's anvil, cracked, with the unfinished link of cage-chain still on its horn (Book 2 ch. 79) and his hammer under it; day 3, the yard engine on its side down the slope and **Dane** under the firebox, his gloved hands still on the governor wheel (Book 2 ch. 82); Corrow, the Blue magister, comes over from the ferry house to see him buried; they bury him by the fifty-three graves on the hill west of the walls (Book 2 ch. 4); day 3–4, the archive: the long table split, **four iron chests** of the Watch's records (rolls of names, the duty books, Hale's predecessors' hands), carried down to Liss's outhouse; the charter stone, face-up by the road since Book 2 ch. 86: Maren reads it this time, the first line only (*The gate shall stand open to all who would serve*), and has the knights stand it up against the ferry house wall.
-- **The lintel**, day 3, in the archive's broken doorway: a great lintel of the inner wall's old stone, cracked across, going over on the grooms and two knights inside; no shadow up (Orrun's two are holding the slope above); she puts her left hand flat on the stone and holds it with Orrun's earth through her: no word (dead ground: no word would take), no count; it holds while they crawl out; then her left hand is grey to the wrist, cold, no feeling, until morning; she can't feel Orrun's mane with it. (Toll: feeling.)
+- **The lintel**, day 3, in the archive's broken doorway: a great lintel of the inner wall's old stone, cracked across, going over on the grooms and two knights inside; no shadow up (Orrun's two are holding the slope above); she puts her left hand flat on the stone and holds it with Orrun's earth through her: no word (dead ground: no word would take), no count; it holds while they crawl out; then her left hand is grey to the wrist, cold, no feeling, until morning, and the fingertips stay grey after; she can't feel Orrun's mane with it. (Toll: feeling.)
 - **Thurl** with his rod: the hill reads empty; the whole of it; "Dead. Not drained. There's nothing to drain." The held breath gone (Book 2 ch. 84).
-- **Mother Ketch** comes up from Millbrook on day 3 on a donkey and sits on a block and watches all day; "You said the stone. It held."
+- **Mother Ketch** comes up from Millbrook on day 4 on a donkey and sits on a block and watches all day; "You said the stone. It held."
 - **Rowan's offer**, day 4, at the grooms' burial ground by Garran Vale's stone, where the old stair's mouth is buried under the fall: the captaincy of what's left of the knights at the river; Wynn's hounds. "There's no gate." "Then captain of the road." Maren won't take rank: "I'm the lion's." Rowan: "That's a rank too."
 - **Echo**, dusk day 4: Lisska down the valley low over the fallen hill, onto the ferry-house roof for a breath, with nothing on her leg; to Orrun, kin-speech: the farmer's gone up to the caves and is writing; Wren said you said twice; then away north.
 - **The lights**, night day 4 and again day 5: far east over the Saltreach bank and the Scarfell, past them, on the rim where the Worldsend must be, a glow coming up like dawn in the wrong place and at the wrong hour, white-gold, pulsing slowly; it lasts until the real dawn. Orrun: *They are drinking.* "What?" *Everything. Out of the mountains.* Day 5: the dig stopped; what's left of Greyhold is a heap; the knights go to the ferry house.
@@ -107,7 +107,7 @@ Thurl opened his eyes.
 
 "I know."
 
-"I know you know," said Thurl. "I'm writing it down."
+"Then you'll not mind me writing it down," said Thurl.
 
 ---
 
@@ -135,7 +135,7 @@ They had to take the gloves off to get his hands free.
 
 Corrow came over from the ferry house to see him buried.
 
-The thin anxious Blue magister. Dane's man. He stood at the graveside on the hill west of the walls, where the fifty-three were buried from the night of the chains with their beasts beside them, and he didn't say anything for a long time. Then he said the College's words for the dead, in the old tongue, quickly, looking at the ground, and stepped back.
+The thin anxious Blue magister. Dane's man. He stood at the graveside on the hill west of the walls, where the fifty-three were buried from the night of the chains with their beasts beside them, and looked at the ground a while. Then he said the College's words for the dead, in the old tongue, quickly, looking at the ground, and stepped back.
 
 "He wrote to Ironhythe," said Thurl. Beside her. Quietly. "Did you know that? After the second time I did. He wrote that the anchors would hold. He signed it." He looked at the grave. "I've got the copy."
 
@@ -201,7 +201,7 @@ The lintel came down in the doorway behind her with a sound like the end of the 
 
 Her hand was grey.
 
-She looked at it in the dust. Her left hand. Grey, from the fingertips to the wrist. Not dirty. Grey, as the stone was grey. She turned it over. The palm too.
+She looked at it in the dust. Her left hand. Grey, from the fingertips to the wrist, as the stone was grey. She turned it over. The palm too.
 
 She couldn't feel it.
 
@@ -229,11 +229,11 @@ It came back in the night.
 
 Slowly. She lay on the floor of Liss's kitchen with her grey hand on her chest and felt it come back, from the wrist outward, like blood into a foot you've sat on. Pins. Then cold. Then, a little before dawn, the floor under her knuckles.
 
-In the morning it was her hand again. A little stiff. A little pale.
+In the morning it was her hand again, all but the fingertips. A little stiff. A little pale.
 
 She didn't tell Liss.
 
-Liss saw it anyway, at the table, when she picked up her cup with her right hand instead of her left. Liss didn't say anything either. She put the bread nearer.
+Liss saw it anyway, at the table, when she picked up her cup with her right hand instead of her left. Liss let it be. She put the bread nearer.
 
 ---
 
@@ -263,7 +263,7 @@ Four of them. Iron. Carried down the jetty road on poles by eight knights each. 
 
 Rolls. Tied with ribbon gone brown. The duty books of the Watch, three hundred years of them. Lists of names. Hands she didn't know. Captains before Hale, and before them, back and back.
 
-Rowan looked at them for a long time.
+Rowan turned one of the rolls over in her hands.
 
 "Nobody will read them now," she said.
 

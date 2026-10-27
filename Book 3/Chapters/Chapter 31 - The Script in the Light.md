@@ -15,7 +15,7 @@ Draft notes: Day 136, dawn to night. Decided here (proposals):
 - **The reveal**: the gods in every chapel (the hearthstone, the Lamp on the Stair, the Lady, the Wayfarer at the crossroads) are what's left of Titans who stopped drinking, who gave up their bodies and the drinking with them, and lived on as light; the old ones of the songs who *walked unbound* and *went into the light* (Book 1 ch. 2; the arch verse) were them. **The seventh ring**, *the Unbound*, old magic, "working the Deep with nothing between" (Magic §4b): they were the Deep with nothing between; no person ever wore the seventh notch because it was never a person's.
 - **Idony doesn't believe in gods** (a tide-reader; measure, not prayer; his grandmother prayed to the Lady on Glasswater and he never did). He dictates the sentence to Maren anyway, because it's what the light says and he's a reader: ***the gods are what is left of Titans who stopped.*** He laughs at himself afterwards; then sits a long time without laughing.
 - **The hall**: the last lines of the morning: *Others of us are near. Come to the hall. Bring the other bond.* Maren's face when he reads *the other bond*. (Sets up 34.) Idony asks where the hall is; the light draws a line south-west along the road to where it crosses a far ridge, a day off, and one word: *Hall*.
-- **Echo**, night 136 at the fire: Gannet with Maren's pages on his knee (he's asked to see them, to "know what the stone's worth"; Maren let him; Idony let him), copying with his pencil stub, asks: "What's *ring* mean? In the old tongue. The old man's notes say *the seventh ring*." Idony explains the College's rings (notches on a staff for what a worker can do; seven; the seventh never worn). Gannet writes it down. Idony is flattered.
+- **Echo**, night 136 at the fire: Gannet with Maren's pages on his knee (he's asked to see them, to "know what the stone's worth"; Maren let him; Idony let him), copying with his pencil stub, asks: "What's *ring* mean? In the old tongue. The old man's notes say *the seventh ring*." Idony explains the College's rings (a plain iron ring on the working hand, notched for a worker's grade; seven; the seventh never worn; his own was the second, cut off his hand on the Library steps). Gannet writes it down. Idony is flattered.
 - **Idony's hands** shake less here than anywhere; he reads the light without his glass; he doesn't need it.
 Magic touches: the hooked script written in light (old magic); the Unbound (Magic §4b) explained; the bonded's kin-meaning (Maren through Orrun).
 notes -->
@@ -194,7 +194,7 @@ He read it.
 
 He sat down on the grey rock.
 
-Not fell. Sat. As he'd sat on the *Kittiwake*'s deck at the last milestone. His legs went and he let them.
+Sat, as he'd sat on the *Kittiwake*'s deck at the last milestone. His legs went and he let them.
 
 *What is left.*
 
@@ -224,7 +224,7 @@ And the seventh ring.
 
 He laughed. He couldn't help it. It came out of him, sitting on the grey rock, short and cracked.
 
-The College's rings. Seven. Notches cut on a worker's staff for what he could do. First ring, a hedge-charm. Fourth, a tide-reader like himself, once. Sixth, the Keepers of the Script, two or three living, all in Isvaren, who could read the oldest stone.
+The College's rings. Seven. A plain iron ring on a worker's hand, notched for what he could do. First ring, a hedge-charm. Second, a Reader like himself, once. Sixth, the Keepers of the Script, two or three living, all in Isvaren, who could read the oldest stone.
 
 And the seventh. That no person had ever worn. That the College wrote in its books as *the Unbound*, and defined as *old magic: working the Deep with nothing between*, and argued about for six hundred years: what it was, whether anyone could reach it, how.
 
@@ -232,7 +232,7 @@ Nobody could reach it.
 
 It had never been a person's.
 
-It was theirs. The things that had been Titans and stopped. That *were* the Deep, with nothing between. The Unbound. They'd been the seventh ring all along, and the College had been drawing a notch on a staff for a god.
+It was theirs. The things that had been Titans and stopped. That *were* the Deep, with nothing between. The Unbound. They'd been the seventh ring all along, and the College had been cutting a notch in a ring for a god.
 
 ---
 
@@ -263,6 +263,10 @@ He said it slowly. So that every word would be set down exactly, in her square h
 She wrote it.
 
 He watched her write it. Every letter, separately. *The gods are what is left of Titans who stopped.* On Kit's paper, on her knee, on a hill-top at the end of the world, in a soldier's hand.
+
+"Write this too," he said. "*The seventh ring. The Unbound was always theirs.*"
+
+She wrote that too.
 
 Then he laughed again. At himself. A long time. Until his eyes ran.
 
@@ -316,7 +320,7 @@ His hands hadn't shaken all day.
 
 He noticed it at dusk. Looking down at them in his lap by the fire at the road's edge. He'd read the light without his glass. He'd not needed it. He'd held his hands up in front of him all morning without thinking, as if to warm them at the letters, and they'd been steady.
 
-Not still. Steady. An old man's hands.
+An old man's hands, and steady.
 
 He didn't tell Maren. She didn't tell him about the white in her hair. It seemed fair.
 
@@ -350,7 +354,7 @@ He looked up from the board. Pencil in his fingers.
 
 "In the old tongue. Your notes. Here." He tapped the page. "*The seventh ring.* *The Unbound was always theirs.* What's a ring?"
 
-"Oh," said Idony. He was pleased. Somebody was asking. "The College's word. At Vael. A worker's rings are notches cut on his staff. One for each kind of thing he can do. Seven in all. The first is a hedge-charm. The fourth was mine, once." He held up his steady hand. "The sixth reads the oldest stone. The seventh..."
+"Oh," said Idony. He was pleased. Somebody was asking. "The College's word. At Vael. A worker wears a ring of plain iron on the hand he works with, with notches cut in it. One notch for each grade. Seven in all. The first is a hedge-charm. The second was mine, once." He held up his steady hand. Bare. "The sixth reads the oldest stone. The seventh..."
 
 "Nobody's worn it," said Gannet. "It says."
 
@@ -358,7 +362,7 @@ He looked up from the board. Pencil in his fingers.
 
 Gannet wrote it down.
 
-"*Ring,*" he said, writing. "*Notch on a staff. Seventh: theirs.*" He looked up and smiled. "Thank you, master."
+"*Ring,*" he said, writing. "*Iron, notched. Seventh: theirs.*" He looked up and smiled. "Thank you, master."
 
 "Not at all," said Idony.
 

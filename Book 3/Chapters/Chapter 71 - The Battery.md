@@ -14,9 +14,9 @@ Draft notes: Day 319, noon to the first hour after. Decided here (proposals):
 - **The fight**: Tobin and Ines and forty of his hands at the winch; **the Kessmoor winch crew** (twelve, under a crew-master with a brass watch) take the brake off to swing the forty in; Tobin pulls the crew-master off the brake lever; a fight in the smoke at the drum: crowbars, a shovel; **Callis**, at the seventh engine's box beside it, **turns and helps**: he can't hold a weapon in his crooked hands, so he puts his shoulder into the crew-master and both go down; "Not that. Not this time. Go on."
 - **The brake**: the crew have the drum running; the chain winding; the forty starting to move on the rail; **Tobin jams the brake**: there's no time to set the pawl; he throws himself across the brake-band between the band and the drum, his body in the brake; the drum stops; the forty stop, facing west; **the seventh engine pulling on the winch through the chain**; it holds, on him; Wardle shouts for the engine to be stopped; nobody stops it.
 - **The forty stay facing the line**: Sarovel's hands at them (they've loaded them all winter) fire west into the smoke where the Coil is coming down the channel and the line at the bend has opened: one sector's engines, facing the line.
-- **The refugee road**: Tobin, on the brake, tells Ines: take the hands; the olifants (loose, maddened, coming out of the smoke as it thins by the river; the Sarovel hands know olifants, catch them by the ears and trunk and talk to them in the low-city words) north to the Drover's Way, with the old and the children from the Sarovel camp on their backs; "Go. Now. Before the bridge on the pontoon goes."
+- **The refugee road**: Tobin, on the brake, tells Ines: take the hands; the olifants (loose, maddened, coming out of the smoke as it thins by the river; the Sarovel hands know olifants, catch them by the ears and trunk and talk to them in the low-city words) south to the pontoon below the eddy and then north to the Drover's Way, with the old and the children from the Sarovel camp on their backs; "Go. Now. Before the bridge on the pontoon goes."
 - **Callis** gets up off the crew-master; looks at the stage, where Corvin is reading; "I have to go to him." "Go," says Tobin. Callis goes across the Flat toward the ring (74).
-- **Tobin dies on the brake**: the seventh engine pulls; the drum turns a hand's breadth on him; he holds it; Ines doesn't go until he shouts at her; she goes; the hands go with her, with eleven olifants; he dies there, a little after the first hour, with the brake-band across his chest, the forty facing west.
+- **Tobin dies on the brake**: the seventh engine pulls; the drum turns a hand's breadth on him; he holds it; Ines doesn't go until he shouts at her; she goes; the hands go with her, with eleven olifants; at the last pull the seventh engine's cracked left runner (Odo's warning, 62) gives under it, the engine lurches on its bed and the pull on the drum goes crooked and slack for a breath, and the brake holds; he dies there, a little after the first hour, with the brake-band across his chest, the forty facing west.
 - **Echo** (his last seeing): through the smoke across the eddy, **the chains on the jibs swinging out again** (the Bridle hauling), and **a grey stone hill sliding sideways in the water**: the lion, staggering, pushed off his bed by the Last Titan rising under the chains.
 Magic touches: none but the Bridle's engines breathing; the smoke.
 notes -->
@@ -71,7 +71,7 @@ The winch crew went to the drum.
 
 ---
 
-Twelve of them. Kessmoor's. In grey. Under a crew-master with a brass watch, still open in his hand. A big man. Young. With a mild face.
+Twelve of them. Kessmoor's. In grey. Under a crew-master with a brass watch, still open in his hand. A big man. Young. A forge-burn white across the back of one hand.
 
 He put his hand on the brake lever.
 
@@ -99,7 +99,7 @@ The crew-master looked at him.
 
 "No," said Tobin. "Leave them. They're facing the line. The line's going. Leave them."
 
-"Orders," said the crew-master. Pleasantly. He held up his watch. "On the hour. You heard."
+"Orders," said the crew-master. His voice shook. He held up his watch anyway. "On the hour. You heard."
 
 He pulled the lever.
 
@@ -269,7 +269,7 @@ Kneeling. By the drum. Her face close to his. Her strong dye-works hands on the 
 
 He'd seen them. Out of the side of his eye. Through the smoke, where it was thinning by the river. Coming. Grey. Enormous. Loose. The Sarovel olifants, that had broken their wall at noon. Running. Some of them. Some of them standing, lost, swaying, in the smoke at the Flat's edge, trumpeting.
 
-"Catch them," he said. "You can. You know how. Talk to them. In our words."
+"Catch them," he said. "You can. You know how. Talk to them. In your words."
 
 She looked at him.
 
@@ -317,9 +317,9 @@ And went.
 
 ---
 
-North.
+South first.
 
-Toward the pontoon. The chained barges below the eddy, to the Saltreach bank. And beyond it, the Drover's Way.
+To the pontoon. The chained barges below the eddy, to the Saltreach bank. Then north, up the Drover's Way.
 
 Ines at the front. On foot. With her hand on the first olifant's trunk.
 
@@ -416,5 +416,7 @@ He thought: *watch him.*
 ---
 
 The drum moved a last time.
+
+Behind him, under the seventh, something cracked. Iron. The left runner, near the back bolt. Odo's crack. The engine lurched on its bed, and the pull on the drum went crooked, and slack, for a breath.
 
 He held it.

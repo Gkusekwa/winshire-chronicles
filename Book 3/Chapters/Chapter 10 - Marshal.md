@@ -9,14 +9,14 @@ Beats: Rowan's first POV. Hallowmere, still dead ground; the knights' hounds and
 Echo of another story: Couriers: the outcast knight is at the border with ten thousand people and their herds.
 Status: first draft
 Draft notes: Days 30–45. Decided here (proposals):
-- **The summons**, day 29 at Liss's ferry house: the council's rider: Captain Ilse Rowan to Hallowmere, "to answer for a knight of her school". The knight-captain from the Greenwold road (ch. 7, dusk 24) reached Hallowmere on day 27. Day 30 she rides with **twelve knights** and **Wynn** with Ash and Sorrow; the rest of the forty stay at the river under Sir Aldous Pryne *(Book 1)* with Liss's rope. Two days by the Marches road on greyharts.
+- **The summons**, day 29 at Liss's ferry house: the council's rider: Captain Ilse Rowan to Hallowmere, "to answer for a knight of her school". The report of the crown's outriders (ch. 7, dusk 24) went by falcon to Sir Hamon Crale's post at the Greenwold road's ford on the upper Wend, about 47 leagues from Hallowmere; Crale followed it and reached Hallowmere on day 27. Day 30 she rides with **twelve knights** and **Wynn** with Ash and Sorrow; the rest of the forty stay at the river under Sir Aldous Pryne *(Book 1)* with Liss's rope. Three days by the King's Road on greyharts, west over the downs.
 - **Hallowmere, day 32**: dead ground still; the lamps glass; the sweet wells brackish; the Mere grey and low; bread queues; the noon bell that nobody faces. The only working thing: the knights' beasts. In the lower town a child is lost in the tanners' lanes; Wynn puts Ash on the shoe; Ash finds her in a dry cistern in a quarter of an hour; a crowd follows the hound through the streets as if it were a lamp; nobody in the city has seen anything *work* in two years. Rowan: a bond isn't the Deep; it's two animals agreeing.
-- **The council, day 33**, in the crown's chapter-house on the Crown's Square: **Lord Ambrose Thale** presiding *(Book 2 ch. 46)*; **Sir Hamon Crale** (new: the knight-captain from the Greenwold road, ch. 7; heavy, red-faced, honest, frightened of the lion and ashamed of it): ten thousand across the Ysse at the drove fords, and the herds, and the outcast knight on a lion the size of a barn. The council: the line at the Greenwold holds; the clans stay in the eastern march, between the Ysse and the oaks, on the dead downs; no grain. **The outlawry**: Maren Ashdown, a knight of Greyhold, outlawed by name, a price of five hundred crowns; it needs her school's captain to sign. **Rowan signs it** (she said she would: ch. 4). Then asks what Crale's knights are to do when ten thousand people come to the barricade with a Titan behind them. Thale: "Turn them back." "With what?" Nobody answers.
+- **The council, day 33**, in the crown's chapter-house on the Crown's Square: **Lord Ambrose Thale** presiding *(Book 2 ch. 46)*; **Sir Hamon Crale** (new: the knight-captain of the crown's post at the Greenwold road's ford on the Wend, whose outriders saw the crossing, ch. 7; heavy, red-faced, honest, frightened of the lion and ashamed of it): ten thousand across the Ysse at the drove fords, and the herds, and the outcast knight on a lion the size of a barn. The council: the line at the Wend holds; the clans stay on the far side, on Saltreach's empty moor between the Ysse and the Wend; no grain. **The outlawry**: Maren Ashdown, a knight of Greyhold, outlawed by name, a price of five hundred crowns; it needs her school's captain to sign. **Rowan signs it** (she said she would: ch. 4). Then asks what Crale's knights are to do when ten thousand people come to the barricade with a Titan behind them. Thale: "Turn them back." "With what?" Nobody answers.
 - **Davin** on the chapter-house steps after (the tribunes' clerk, ch. 3): he read Maren's letter to the square on day 20; the tribunes are asking for the clans to be let in, and the council has stopped answering the tribunes. "Did you sign it?" "Yes." Davin: "She said you would."
 - **The chapel, night 33**: the crown's chapel off the square, where the lamps were said to be the gods' gift to the crown *(Magic.md)*: a row of glass lamps on the altar step, glass now, dusty. She has never prayed; knights of Greyhold don't, much. She sits on the back bench and thinks about the chain *(Book 2 ch. 82)*: three notes on her horn, the pins out, the chain running; she counted seventy in the cellars dead when she let go (they weren't: Orrun tore the hill open and Joby brought them up, Book 2 ch. 83–84); she'd do it again; that's the trouble; a knight who'd let go of the crown's chain to save seventy people would let go of the crown's order to save ten thousand. She sits until the candle she lit out of habit goes out. She doesn't pray.
-- **The Greenwold road, days 34–38**: east with her twelve, by the old road through the oak woods of the Greenwold (aurochs in the oaks); the crown's post where the road comes out of the woods onto the eastern downs: a barricade of felled oaks across the road and a ditch, sixty crown men and Crale's knights with hounds, a fire. Beyond, the march: grey downs, dead, to the Ysse. **Day 38 she takes the barricade down**: her knights' greyharts and the post's own ox-team drag the trunks off the road; Crale: "That's against the council's order." "Yes. Write it down." She writes her own name in his report, under the line that says so. The crown men help in the end.
+- **The Greenwold road, days 34–38**: east with her twelve, by the old road through the oak woods of the Greenwold (aurochs in the oaks); the crown's post at the Greenwold road's ford on the upper Wend, below the last of the oaks: a barricade of felled oaks across the road and a ditch on the Hearthmere bank, sixty crown men and Crale's knights with hounds, a fire. Beyond, over the ford: Saltreach's moor, grey, dead, empty, toward the Ysse. **Day 38 she takes the barricade down**: her knights' greyharts and the post's own ox-team drag the trunks off the road; Crale: "That's against the council's order." "Yes. Write it down." She writes her own name in his report, under the line that says so. The crown men help in the end.
 - **Day 42 the council's rider**: Thale's letter, in his own careful hand: since she has opened the road, she will keep it: **Ilse Rowan, Marshal of the Border**, with every crown man east of the Greenwold under her; Crale asked to be relieved; no lord would go. Grain: none. The outlawry: "pending" (Thale's word, Book 2 ch. 46). Under the crown's seal in blue wax. She believes the seal; she has always believed a seal. (Plant: her faith in a sworn word.)
-- **Echo, day 45**: her outriders and a falcon in from the east: the outcast knight is two days off, on the downs a dozen leagues east of the post, with ten thousand people and their herds, coming west at a herd's pace; a lion at the head.
+- **Echo, day 45**: her outriders and a falcon in from the east: the outcast knight is two days off, on the moor eight leagues east of the ford, with ten thousand people and their herds, coming west at a herd's pace; a lion at the head.
 Magic touches: bond gifts on dead ground (hounds tracking, falcons calling); dead lamps; no word works in the city.
 notes -->
 
@@ -24,11 +24,11 @@ notes -->
 
 The council's rider came on the twenty-ninth day.
 
-Down the Marches road to the river, on a crown horse that had been ridden too far. Rowan was on the jetty with Liss, watching the rope. She saw the blue wax on the paper before the man was out of the saddle, and knew what it was.
+Down the King's Road to the river, on a crown horse that had been ridden too far. Rowan was on the jetty with Liss, watching the rope. She saw the blue wax on the paper before the man was out of the saddle, and knew what it was.
 
 *Captain Ilse Rowan, of the school of Greyhold, to attend the council of the crown at Hallowmere. To answer for a knight of her school.*
 
-She read it twice. Then she folded it very small, as she'd folded the last one.
+She read it to the end, and then the seal. Then she folded it very small, as she'd folded the last one.
 
 "Well," said Liss.
 
@@ -40,7 +40,7 @@ She rode on the thirtieth with twelve.
 
 Twelve knights on greyharts. Wynn with Ash and Sorrow at her heels. The rest of the forty she left at the river under Aldous Pryne, who'd been a knight longer than she had and wouldn't thank her for saying so, to keep the road down to the ferry and help Liss with whoever came over.
 
-Two days by the Marches road. North and east, over the downs. The greyharts went at the long easy walk they could keep all day, their heads high, their ears turning.
+Three days by the King's Road. West, over the downs. The greyharts went at the long easy walk they could keep all day, their heads high, their ears turning.
 
 The country was dead the whole way.
 
@@ -60,7 +60,7 @@ Everything else had stopped. The hounds hadn't.
 
 Hallowmere on the thirty-second day.
 
-Grey stone and slate, in terraces down to the Mere. She came in by the south gate at noon as the bell was ringing. Nobody in the street stopped. Nobody faced anything. They used to face the Mere at noon, when the lamps were lit and the wells were sweet. Now the bell rang and people went on queuing for bread.
+Grey stone and slate, in terraces down to the Mere. She came in by the east gate at noon as the bell was ringing. Nobody in the street stopped. Nobody faced anything. They used to face the Mere at noon, when the lamps were lit and the wells were sweet. Now the bell rang and people went on queuing for bread.
 
 The queues were long. They went round corners.
 
@@ -134,11 +134,11 @@ Lord Ambrose Thale at the head of the table. Old. Thin. Careful. The chain of of
 
 The knight-captain told it first.
 
-Sir Hamon Crale. From the crown's post on the Greenwold road. A heavy man, red in the face, honest, she thought, and frightened, and ashamed of being frightened, which was to his credit. He stood at the side of the table with his gloves in his hands and told the council what he'd seen at dusk on the twenty-fourth day.
+Sir Hamon Crale. From the crown's post on the Greenwold road. A heavy man, red in the face, honest, she thought, and frightened, and ashamed of being frightened, which was to his credit. He stood at the side of the table with his gloves in his hands and told the council what his outriders had seen at dusk on the twenty-fourth day. His falcon had brought it to the post. He'd come after it.
 
-Ten thousand people. On the Hearthmere bank of the Ysse. Across already, at the drove fords to the north of the road, where there'd been no fords that would take a herd. Their herds with them. Stonehorns. Horses. Wolves.
+Ten thousand people. On the west bank of the Ysse. Across already, at the drove fords, where there'd been no fords that would take a herd. Their herds with them. Stonehorns. Horses. Wolves.
 
-"And the knight," said Crale. "Ashdown. On her lion." He turned his gloves over. "It's the size of a barn now, my lords. Bigger. It looked at me." He stopped. "I took my men back to the post."
+"And the knight," said Crale. "Ashdown. On her lion." He turned his gloves over. "It's the size of a barn now, my lords. Bigger. It looked at my falconer across the river." He stopped. "He turned his horse round. I'd have done the same."
 
 Nobody at the table blamed him for it. She could see them not blaming him.
 
@@ -148,7 +148,7 @@ The council decided quickly.
 
 It had decided before she came, she thought. It said so in its own way.
 
-The line at the Greenwold would hold. The clans would stay in the eastern march, between the Ysse and the oaks, on the downs. There was no grain. The kingdom could not feed ten thousand clansfolk and their beasts. The Candle Downs would be eaten to the root in a month.
+The line at the Wend would hold. The clans would stay on the far side of it, on the Saltreach moor, between the Ysse and the river. There was no grain. The kingdom could not feed ten thousand clansfolk and their beasts. The Candle Downs would be eaten to the root in a month.
 
 All true. She'd said it herself, at Liss's table.
 
@@ -160,7 +160,7 @@ The clerk had the paper ready.
 
 He laid it in front of her at the foot of the table. Fair-copied. With a space at the bottom.
 
-*Maren Ashdown, a knight of the school of Greyhold, having led the clans of the Wyldmarch and their beasts across the crown's border against the order of the crown's council, is outlawed by name. Five hundred crowns to any who bring her to the crown's justice.*
+*Maren Ashdown, a knight of the school of Greyhold, having gone east against the order of the crown's council to lead the clans of the Wyldmarch and their beasts to the crown's border, is outlawed by name. Five hundred crowns to any who bring her to the crown's justice.*
 
 And the space. For her school's captain.
 
@@ -306,9 +306,9 @@ Nobody said much.
 
 ---
 
-The crown's post was where the road came out of the woods.
+The crown's post was at the ford.
 
-At the eastern edge of the Greenwold, on the thirty-eighth day. Where the oaks stopped and the downs began, grey, open, going away east and down toward the Ysse valley out of sight.
+At the eastern edge of the Greenwold, on the thirty-eighth day. Where the road came out of the last of the oaks and went down over grey open ground to the Wend, small up here and fast over its gravel, and crossed it. And on the far bank the moor, grey, open, going away east out of sight.
 
 A barricade across the road. Oak trunks. Felled from the wood's edge and dragged across, three deep, with a ditch dug in front and the spoil thrown up behind. A fire. Tents. Sixty crown men with pikes and crossbows. Crale's knights, a dozen, with their hounds tied to a picket line.
 
@@ -326,7 +326,7 @@ He looked at her twelve. He didn't ask why she'd come. He knew.
 
 She got down off her greyhart and walked up to the barricade and looked over it.
 
-East. The downs. The road going on over them, empty, toward the river. Somewhere down there, eight days off, ten, ten thousand people walking west at a herd's pace.
+East. Over the ford. The road going on up the far bank onto the moor, empty. Somewhere out there, eight days off, ten, ten thousand people walking west at a herd's pace.
 
 She put her hand on the nearest oak trunk.
 
@@ -372,7 +372,7 @@ She took his pen and wrote her name under the line. *Ilse Rowan.* Square. Plain.
 
 The council's rider came on the forty-second day.
 
-The same man. The same horse, ridden as hard. She was on the downs a mile east of the post with Wynn and the hounds, looking at nothing, when she saw him come out of the woods, and she rode back to meet him.
+The same man. The same horse, ridden as hard. She was over the ford on the moor, a mile east of the post, with Wynn and the hounds, looking at nothing, when she saw him come down the road from the woods, and she rode back to meet him.
 
 Blue wax. Thale's own hand, inside. Careful. Small. She read it standing by the fire with the crown men watching her read it.
 
@@ -420,13 +420,13 @@ He said it to see how it sounded.
 
 The falcon came in on the forty-fifth day.
 
-At dawn. Out of the east, low over the downs, to the fist of the outrider she'd sent down toward the river three days before. And the outrider himself an hour after it, on a lathered greyhart, up the road through the gap where the barricade had been.
+At dawn. Out of the east, low over the moor, to the fist of the outrider she'd sent out east three days before. And the outrider himself an hour after it, on a lathered greyhart, up the road through the gap where the barricade had been.
 
 She was at the fire.
 
 He didn't get down.
 
-"Two days off, Marshal," he said. "On the downs. A dozen leagues out. Coming west on the road. Slow. Herd's pace." He wiped his face. "I counted them from a hill for an hour and gave up. Ten thousand. More. And the herds. Stonehorns as far as I could see. Horses. Wolves running the flanks."
+"Two days off, Marshal," he said. "On the moor. Eight leagues out. Coming west on the road. Slow. Herd's pace." He wiped his face. "I counted them from a hill for an hour and gave up. Ten thousand. More. And the herds. Stonehorns as far as I could see. Horses. Wolves running the flanks."
 
 "And at the head?"
 
@@ -436,7 +436,7 @@ He didn't get down.
 
 Rowan stood up.
 
-East. The downs going away grey toward the river. The road on them, open, empty, with the ditch planked across behind her and the oak trunks lying in it.
+East. Over the ford, the moor going away grey toward the Plains. The road on it, open, empty, and behind her the ditch planked across and the oak trunks lying in it.
 
 Two days.
 

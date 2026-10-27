@@ -9,11 +9,11 @@ Beats: Kit at the hall's mouth, getting people inside. Saltreach's custom turned
 Echo of another story: Aurveth enormous over the tarn, looking at something nobody else can see.
 Status: first draft
 Draft notes: Days 321–322. Decided here (proposals):
-- **Arrival**: Kit, Gannet and the one-eyed dog come over the Scarfell's lip at Harrow's End with the Drover's Way stream at the second hour of the night of 321 (after Tam's wagons, after Kharrak; they see the slag on the top field and the grey shape on it by starlight and don't stop); Coldtarn by dawn 322 down the beck's valley path.
+- **Arrival**: Kit, Gannet and the one-eyed dog come up through Harrow's End past the top field with the Drover's Way stream at the second hour of the night of 321 (after Tam's wagons, after Kharrak; they see the slag on the top field and the grey shape on it by starlight and don't stop); at the Fellwood's edge the Clan's baskets are lifting Tam's old and hurt off the wagons to fly them up to Coldtarn (the wagons follow over a night and a day with his smiths), and a rider makes room for two and a dog; Coldtarn in the night; the bowl at dawn 322.
 - **The bowl**: the black tarn steaming in the middle; snow; the freed gone from the crags (they flew in the night, nobody knows where); **the hall's door open** in the western crag's foot above Hollow Beck's source, the scree Maren moved lying in the shallows; **a steep slope of loose scree and frozen turf** from the tarn's shore up to the door's step, forty paces, the only way up.
-- **Who's there**: Tam's wagons at the shore (the old, the hurt); **Arn's Clan families** come up from the ledges and Varrhold, waiting in a block on the shore and not going in (Arn's word: *in the order they come*); thousands more coming over the bowl's rim from the Way and spreading round the shore; Ada and Bel and the children at the caves across the bowl; the knight not there yet (she's at the Scarfell's foot with the lion); **nobody at the door**.
-- **Kit takes the door**: she goes up the scree and stands at the step: "In the order you came. The knight said. Five hundred. The rest to the caves, the hold, the ledges, the byres." Tam's wagons first (they came first), then the Clan's families, then whoever came next; she counts; Jory beside her, counting with her; Davin (with Idony, carried up on a hurdle from the Way) writing names.
-- **The salt**: as each one comes up to the step, **Kit takes a pinch of coarse grey sea-salt from her coat pocket** (Blackwater salt, the last she has; she always has some; the ketch's galley dish) **and puts it on their tongue**: ***Salt between us. Nothing owed.*** The old words are *What's sworn is kept, or neither of us is fit to drink with*; she says the new ones; **a contract with no price**: nothing to pay, nothing sworn but that; Saltreach's custom turned round. Tam: "What's this?" "Salt." "What for?" "So you know you don't owe me anything." The Clan's families take it; Kessmoor crews take it; a Keeper's wolf licks it off her fingers.
+- **Who's there**: Tam and his old and hurt at the shore, flown up in the Clan's baskets in the night; **Arn's Clan families** come up from the ledges and Varrhold, waiting in a block on the shore and not going in (Arn's word: *in the order they come*); thousands on the shore since the day before, not going in, and more coming over the bowl's rim from the Way; Ada and Bel and the children at the caves across the bowl; the knight not there yet (she's on the moor with the lion); **nobody at the door**.
+- **Kit takes the door**: she goes up the scree and stands at the step: "In the order you came. The knight said. Five hundred. The rest to the caves, the hold, the ledges, the byres." Tam's old and hurt first (the knight's rule), then the Clan's families, then whoever came next; she counts; Jory beside her, counting with her; Davin (with Idony, carried up on a hurdle from the Way) writing names.
+- **The salt**: as each one comes up to the step, **Kit takes a pinch of coarse grey sea-salt from her coat pocket** (Blackwater salt, the last she has; she always has some; the ketch's galley dish) **and puts it on their tongue**: ***Salt between us. Nothing owed.*** The old words are *What's sworn is kept, or neither of us is fit to drink with*; she says the new ones; **a contract with no price**: nothing to pay, nothing sworn but that; Saltreach's custom turned round. **Grounding** (27 Oct 2026 check: the arc is earned across 20, 39, 44, 60 and 76; two short beats tie it to the page here): Jory beside her came home on Lisska because the farmer said *bring him home*, and no bill ever came (44; new line: "She'd waited a month for one"); and before she says the new words, the knight at the stern-cabin table, who let Kit win every price (14), and at the forehatch at the last milestone, *It's paid. By whom? By me.* (25). Tam: "What's this?" "Salt." "What for?" "So you know you don't owe me anything." The Clan's families take it; Kessmoor crews take it; a Keeper's wolf licks it off her fingers.
 - **The rest sent on**: Tam and the Clan's riders lead the overflow down the beck to Varrhold's hold and pens, the caves, the ledges; Arn on the shore sorting.
 - **Gannet dies**: midday 322 the ground of the bowl shakes (the surge coming up the Scarfell from the broken middle; the storm at 81 starting; the Last Titan coming up the Scarfell after the lion); **the scree slope slips** under a line climbing to the door; a child (**a Wendmouth girl of five** from the floating market, carried by nobody, crying on the slope) slides; Gannet goes down after her, picks her up, comes up the sliding scree with her on his shoulder; at the top, four paces from the step, a boulder comes down the slope from the crag above and takes his legs; he throws the child up onto the step into Kit's arms and goes down the scree with the stones into the shallows; they find him at the water's edge, dead. His last words (shouted): "Kit. Catch." She catches.
 - **Kit puts salt on his tongue** at the water's edge. *Salt between us. Nothing owed.* She thinks of his purse of Ostrey silver; it's in his coat; she leaves it there.
@@ -24,15 +24,15 @@ notes -->
 
 ---
 
-They came over the lip in the second hour of the night.
+They came through Harrow's End in the second hour of the night.
 
-At Harrow's End. On the Drover's Way, in the stream, with the dog under Gannet's coat because its feet were bleeding on the frozen ruts. Over the last bend and up onto the high moor.
+On the Drover's Way, in the stream, with the dog under Gannet's coat because its feet were bleeding on the frozen ruts. Up through the empty village and onto the slope.
 
 And past the top field.
 
 ---
 
-She saw it by starlight. From the road. A field, on the slope below the lip, with something wrong about its walls. They were low. Shining. Black and wet-looking, like glass. And the snow gone off the whole slope round it, and the ground steaming.
+She saw it by starlight. From the road. A field, on the slope below the wood, with something wrong about its walls. They were low. Shining. Black and wet-looking, like glass. And the snow gone off the whole slope round it, and the ground steaming.
 
 And across the field, across the road below, a shape.
 
@@ -46,17 +46,19 @@ A hill. Grey. With its wings out.
 
 They didn't stop. Nobody on the road stopped. They went past it in the dark with their faces turned to it and their feet going on.
 
-She looked back at it from the lip.
+She looked back at it from the wood's edge.
 
-Then the moor.
+The Clan were there. Baskets on the snow under the first trees, and dragons, and riders lifting Tam's old ones and his hurt off the wagons by lantern-light, to fly them up to Coldtarn. The wagons would come after, a night and a day behind, with his smiths. A rider looked at the dog's feet, and at Gannet's, and at hers, and made room. Two and a dog.
 
----
-
-Coldtarn at dawn.
+Then the dark, and the wind, and the moor going by under the basket's rim.
 
 ---
 
-Down the beck's valley path, in the grey, with the stream of people. Into the bowl.
+Coldtarn in the night. She saw it at dawn.
+
+---
+
+From the shore where the basket had set them down, in the grey, with the snow coming. The bowl.
 
 She'd never seen it. She'd heard of it all her life, as you hear of places in songs. *The black tarn where the Clan pours its dead.* A bowl of crags in the high moor. Snow on everything. And in the middle, black water. Steaming. Open. A ring of white ice round its edge and the middle black and smoking in the cold.
 
@@ -66,7 +68,7 @@ The tarn that never froze.
 
 The crags were empty.
 
-Somebody beside her on the path said so. A Clan woman. *The freed were all on the crags. Round the three. A hundred of them.* They'd gone. In the night. Nobody knew where.
+Somebody beside her on the shore said so. A Clan woman. *The freed were all on the crags. Round the three. A hundred of them.* They'd gone. In the night. Nobody knew where.
 
 ---
 
@@ -92,7 +94,7 @@ There was nobody at the door.
 
 She stood on the shore and looked at it.
 
-Tam's wagons were there. On the shore below the slope. Forty. Pulled up in a line. The old and the hurt still in them under the canvas. Tam on the first box with his head in his hands.
+Tam's old ones were there. On the shore below the slope. Flown up in the night, the old and the hurt, lying in rows on the snow under the wagons' canvas, that the riders had brought up with them. Tam sitting on an empty basket with his head in his hands.
 
 Beyond them, a block of people. Standing. Close. A few hundred. In the Clan's colours, red and grey, with children. Waiting.
 
@@ -100,9 +102,9 @@ Not going in.
 
 ---
 
-Behind her, coming over the bowl's rim, the rest.
+And all round the shore, the rest.
 
-Thousands. Off the Way. Off the moor. Spreading round the tarn's shore in the snow. Looking at the door.
+Thousands. Off the Way. Off the moor. On the shore since the day before, in the snow, and more coming over the rim. Not going in. Looking at the door. Nobody had told them they could.
 
 And nobody at it.
 
@@ -112,7 +114,7 @@ And nobody at it.
 
 He'd lifted his head. He was looking at her.
 
-"She said she'd be at the door. Counting." He looked at the slope. "She's at the Scarfell's foot. With the lion. With the other one coming."
+"She said she'd be at the door. Counting." He looked at the slope. "She's down at Harrow's End. With the lion. With the other one coming."
 
 "Then somebody has to," said Kit.
 
@@ -136,23 +138,25 @@ She turned round and looked down at the shore. At the thousands.
 
 She didn't shout. She'd learned from the farmer you didn't have to shout; you had to say it so the front heard and told the back.
 
-"The knight said. In the order you came. Five hundred. That's all it holds." She looked at the block in red and grey. "The rest to the caves. The hold at Varrhold. The ledges. The byres. Anywhere with a roof." She looked at Tam. "The wagons came first."
+"The knight said. In the order you came. Five hundred. That's all it holds." She looked at the block in red and grey. "The rest to the caves. The hold at Varrhold. The ledges. The byres. Anywhere with a roof." She looked at Tam. "The old and the hurt go first."
 
 ---
 
 Tam looked at her a long time.
 
-Then he got down off his box and went to the first wagon's tail and started lifting the old ones out.
+Then he got up off the basket and went to the first row and started lifting the old ones.
 
 ---
 
 Jory came up the slope.
 
-He'd come in the night with the Staithe's four hundred. He came up beside her on the step and stood there. Sixteen. His voice gone down.
+He'd come in the night with the Staithe's four hundred. He came up beside her on the step and stood there. Nineteen. His voice gone down.
 
 "I'll count," said Jory.
 
 "So will I," said Kit.
+
+He'd come home over the sea on a green dragon because a farmer said *bring him home*. Nobody had ever sent the Merrins a bill for it. She'd waited a month for one.
 
 ---
 
@@ -170,7 +174,7 @@ They came up.
 
 ---
 
-The old first. Tam's. Out of the wagons, carried up the slope, by Tam, by his smiths, by anyone. Old men and women from the Hearthmere camp and the Wyldmarch and Sarovel. Hurt. Burned. Frozen.
+The old first. Tam's. Off the snow, carried up the slope, by Tam, by his smiths, by anyone. Old men and women from the Hearthmere camp and the Wyldmarch and Sarovel. Hurt. Burned. Frozen.
 
 One by one to the step.
 
@@ -200,7 +204,15 @@ The old words were *Salt between us. What's sworn is kept, or neither of us is f
 
 She'd said them to the knight in the stern cabin at Blackwater, with a dish between them and a price written down. The Accord's warrant. The reef-stone. Passage both ways. The rule kept.
 
-She didn't say them.
+She'd won every price off the knight at that table. The knight had let her. And on the deck by the forehatch at the last milestone, with the grey up her neck to the jaw, Kit had asked what it was, and the knight hadn't put her hand up to it.
+
+*It's paid.*
+
+*By whom?*
+
+*By me.*
+
+She didn't say the old words.
 
 ---
 
@@ -254,13 +266,13 @@ Tam looked at her. Then he opened his mouth. She put it on his tongue.
 
 "Salt between us," said Kit. "Nothing owed."
 
-He went in. He came out again a breath later and went back down the slope for the next wagon.
+He went in. He came out again a breath later and went back down the slope for the next one.
 
 ---
 
 The Clan's families came next.
 
-They'd stood on the shore since before dawn. In their block. Waiting. Because Arn had told them. *In the order they come.* They'd been at the ledges, half a day off. They'd come before anyone. They'd stood and waited while Tam's wagons came, because Tam's wagons had come over the lip first.
+They'd stood on the shore since before dawn. In their block. Waiting. Because Arn had told them. *In the order they come.* They'd come up from the ledges, half a day off, to wait their turn. They'd stood and waited while Tam's old ones went up, because the knight had said the old and the hurt went in first.
 
 Arn on the shore. Sorting. Pointing. Ildra beside him.
 
@@ -306,7 +318,7 @@ Davin wrote.
 
 The rest went on.
 
-Down the beck. Arn and the riders leading them. And Tam, when he'd done with the wagons. Down the valley path toward Varrhold, half a day. To the hold. To the pens. To the caves across the bowl, where an old woman in a shawl was standing in the cave mouth with a lantern lit in the morning, waving them in. To the ledges.
+Down the beck. Arn and the riders leading them. And Tam, when he'd done with his old ones. Down the valley path toward Varrhold, half a day. To the hold. To the pens. To the caves across the bowl, where an old woman in a shawl was standing in the cave mouth with a lantern lit in the morning, waving them in. To the ledges.
 
 Anywhere with a roof.
 

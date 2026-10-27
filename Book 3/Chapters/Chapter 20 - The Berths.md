@@ -18,7 +18,7 @@ Draft notes: Days 89–93. Decided here (proposals):
 - **Jory taken**, night 92: the Council's warrant: *the Merrin pilot is requisitioned for the Council's fleet in the League's need*; four of Rennick's men and Fosse with his spectacles at the *Kittiwake*'s side; Jory goes because Kit tells him to (if he doesn't, they take the ketch now); he looks back once. Fosse, pleasant: "He'll be well paid. The Council pays its pilots."
 - **The impounding**: the warrant's second paper: *the ketch* Kittiwake *to be held at the Council's mooring from dawn of the 95th, as lead ship of the Council's fleet.* Kit has till then.
 - **The salt**: the Merrins swore salt to the League when the house was chartered, four generations ago, a Council contract; a Council order in the League's need binds every salted house; to sail against it is a breach: **unsalted**: no contract, no debt honoured, no water sold, anywhere in the League, for life. Against it: the salt she took from the chipped dish with the lion's knight on the 78th. Kit sits with both in the stern cabin, night 93, with the dish on the table. She chooses the dish. "Tomorrow night," she tells Maren. "Before they come at dawn."
-- **The new chain**: d.92–93 the Council's men string a chain across Blackwater's mouth for the first time in its history: anchor-cables off the houses' ships shackled end to end, on a boom of spars, between the two headlands, with one of Rennick's black ships at each end. Gannet reports it, smiling.
+- **The new chain**: d.92–93 the Council's men string a chain across Blackwater's mouth, its fourth and the first the Council has come itself to hang: anchor-cables off the houses' ships shackled end to end, on a boom of spars, between the two headlands, with one of Rennick's black ships at each end. Gannet reports it, smiling.
 - **Gannet** goes ashore every night of the four, to the boathouse and the shingle, for news, he says.
 - **Echo**, night 93: Kit looks down through the hold grating: Orrun lying on the far-stone ballast the whole length of the keel, chin on paws, eyes half shut, the old man asleep against his side; quiet, like a dog by a fire.
 Magic touches: none worked; far-stone ballast; the salt as the League's only law.
@@ -202,7 +202,7 @@ On the ninety-second he told her about the chain.
 
 ---
 
-"They're stringing one," he said. "Across the mouth. Between the headlands." He was smiling. "Anchor-cables. Off the houses' ships. Shackled end to end on a boom of spars, with a black ship of Rennick's at each end of it." He shook his head, admiring. "Blackwater's first chain. And no harbour-master to drown."
+"They're stringing one," he said. "Across the mouth. Between the headlands." He was smiling. "Anchor-cables. Off the houses' ships. Shackled end to end on a boom of spars, with a black ship of Rennick's at each end of it." He shook his head, admiring. "Blackwater's fourth chain. And no harbour-master to drown."
 
 "When?"
 
@@ -352,7 +352,7 @@ She went back up on deck.
 
 The light was coming. Grey over the black cliffs. Out at the inlet's mouth, between the headlands, she could see the boom going across: spars and cables, low on the water, a black ship at each end of it with lanterns at their mastheads.
 
-Blackwater's first chain.
+Blackwater's fourth chain.
 
 On the shingle the queue had started again at the boathouse door. In the deep water the houses' ships rode at anchor in their line. On one of them, somewhere, Jory was asleep, or wasn't.
 

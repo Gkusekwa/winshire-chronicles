@@ -14,7 +14,7 @@ Draft notes: Days 6–8. Decided here (proposals):
 - **The readings**: Idony's four glasses on the ferry-house windowsill (one cracked, Book 2 ch. 87); all four leaning east, hard, steady, every reading; the lean in time, all of them, as one breath (Book 2 ch. 87's "six as one") but long, slow, in, held, and the in-breath longer every day; the Deep being drawn out of the east "like the tide going out before a wave"; the western quarter of his readings (Hearthmere, the Marches) flat already; the eastern going.
 - **The margin**: his silk copies, sewn into his winter coat since Vael, begin with a copy he made at twenty of the Gallery's oldest chart, the founding chart of the College of Tides (two hundred and some years old), with the six kingdoms drawn small in the middle; at its south-west edge, out past the Saltreach coast over the Shattered Sea, a mark the first readers made: a steady rise, no rhythm, no breath, never moving; and in the margin beside it, in five hands across two centuries, the same word: *error*. Every reader since had copied it and marked it so. He'd copied it and marked it so. He reads it again on day 7 with Davin holding the silk flat: no sleeper makes a rise like that. Sleepers breathe. This doesn't. It's light, not breath (he doesn't know that yet: he thinks "a lamp left burning in an empty house").
 - **The rumours**: Abner Quayle's *Margery* (Book 2 ch. 50): a mountain walking on a far shore, out of the Western Deep; and day 8, a Saltreach salt-boatman at the jetty (up from Wendmouth with salt, as in Book 2 ch. 69), laughing about "far-stone": flakes of old grey stone off a Blackwater salvage house's cargo, sold on Gallows Quay as warranted old charms, "and the joke is one in ten of them works." Idony has Davin write both down beside the margin.
-- **Echo**, night 7: Maren at the table with a cup in her left hand, the hand grey at the fingertips still from the lintel (ch. 1), gripping the cup so hard the knuckles stand up; not shaking because she's holding it so hard. He notices because his own hands shake.
+- **Echo**, night 7: Maren at the table with a cup in her left hand, the hand grey at the fingertips still from the lintel (ch. 1: the tips never came back), gripping the cup so hard the knuckles stand up; not shaking because she's holding it so hard. He notices because his own hands shake.
 - End, day 8: he dictates the first line of what he'll call the last chart and isn't: *The east is being drunk. The west has been. Something in the south-west has never been drunk at all.* Davin reads it back twice without being asked; Idony thinks of Wren.
 Magic touches: tide-glasses (measure, not craft); the founding chart's margin; far-stone rumour.
 notes -->
@@ -213,7 +213,7 @@ His.
 
 "What does it mean?" said Davin.
 
-Idony looked at it for a long time.
+Idony looked at it.
 
 "It means nobody understood it," he said. "So they said it was wrong."
 
@@ -281,11 +281,11 @@ He noticed because of his own.
 
 His hands were on the table, shaking. They always shook. He'd stopped seeing it. He saw hers.
 
-Her left hand round the cup. The fingertips grey. Not dirty. Grey, as the old stone of the hill was grey, from the nails to the first knuckle, the colour going out of them toward the palm. And her fingers round the cup so hard the knuckles stood up white under the grey.
+Her left hand round the cup. The fingertips grey, as the old stone of the hill was grey, from the nails to the first knuckle, the colour going out of them toward the palm. And her fingers round the cup so hard the knuckles stood up white under the grey.
 
 It didn't shake.
 
-He watched it for a long time. It didn't shake at all.
+He watched it. It didn't shake at all.
 
 Because she was holding it so hard, he thought. So hard nothing could.
 
@@ -299,9 +299,9 @@ She didn't put the cup down. She didn't hide the hand. She looked at him across 
 
 "Does it hurt?"
 
-"No," said Maren. "Nothing. That's the trouble." She drank. "It comes back by morning. Less, every time."
+"No," said Maren. "Nothing. That's the trouble." She drank. "It came back by morning. Most of it."
 
-"Every time?"
+"Most of it?"
 
 She didn't answer that.
 

@@ -9,12 +9,12 @@ Beats: The Merrin barges and the last free captains carry the Accord's people up
 Echo of another story: The lion-hill on the rampart, a woman asleep against his foreleg.
 Status: first draft
 Draft notes: Days 295–310. Decided here (proposals):
-- **The run**: from **the Staithe** (where the floating market was towed, 58: a ford-and-landing village eight leagues below the hub, now a town of lashed barges) up to the hub; **eight leagues of winter river against the current**, poled and towed; **the Merrin barges (four) and nineteen free captains' barges** (the last on the coast; every one that came up the mouth when Wendmouth went); towing horses on the Saltreach-bank towpath, and **six of the tuskers** (Quell lends them, d.298) on the Hearthmere bank. **Five thousand two hundred from Wendmouth, and the coast's last villages, and stores** (Saltreach salt fish, rope, the last Wendmouth grain) carried up in fifteen days; one barge lost on the ice-shoal at Cutter's Elbow (new: a bend above the Staithe), nobody drowned.
+- **The run**: from **the Staithe** (where the floating market was towed over ten days after the lift, 58: a ford-and-landing village eight leagues below the hub, now a town of lashed barges) up to the hub; **eight leagues of winter river against the current**, poled and towed; **the Merrin barges (four) and nineteen free captains' barges** (the last on the coast; every one that came up the mouth when Wendmouth went); towing horses on the Saltreach-bank towpath, and **six of the tuskers** (Quell lends them, d.298) on the Hearthmere bank. **About six thousand: Wendmouth's five thousand two hundred, the coast's last villages, and stores** (Saltreach salt fish, rope, the last Wendmouth grain) carried up in fifteen days; one barge lost on the ice-shoal at Cutter's Elbow (new: a bend above the Staithe), nobody drowned.
 - **The *Kittiwake*** laid up at the Staithe, masts down, Ferris and Lorn aboard; **Jory** on the first barge with Kit; **Tansy, Nye, Corrie** (Corrie back from writing for Idony) on the others; **Gannet** on Kit's barge.
 - **No price**: the Accord's warrant pays the Merrins *at cost* (44); on d.299 the Wendmouth houses' factors (**Saffery's** man and **Ostrey's Fosse**) come down the towpath to settle the houses' freight by the old custom, per head and per barrel, salt on the tongue; **Kit won't take it**: "Unsalted. I can't take your salt and you can't take mine." Fosse: "The Accord, then." **She tears up the cost tally she's kept since d.192** ("I've stopped counting it"). The free captains, one by one, do the same (**Dace Overy**, new, an old free captain with a one-eyed dog, first). **Saltreach's last act**: carrying for nothing.
 - **Gannet's confession**, night 304, at the tiller, on the Saltreach-bank mooring above Cutter's Elbow: he copied Idony's notes on the far shore (29, 31, 36) and **sold them to Fosse in Ostrey's counting-house on d.189 for a purse of Ostrey silver**; "All of it. *Breath. Unbound.* What the old man said in the hold. The far shore's lines. Your mother's book, some of it"; **he doesn't know where they went after**: "Fosse sells on. Everything. To whoever pays. That's the house." Why: "I've been thirty years crew. Never house. I wanted a purse that was mine." He doesn't smile. Kit doesn't hit him. She says: "You'll pole tomorrow." He poles.
-- **Kit tells Idony** d.308 at the ferry house kitchen; he shrugs: **"Half the courts in Winshire have bought a copy of something I wrote, mistress. The College sold my tide-charts to Kessmoor for forty years. Sarovel's Grace-priests had my lamp notes. The crown had my Glasswater readings." "These were the far shore's." "Yes." He thinks about it. "Whoever bought them has a great many lines in an old tongue and Gannet's spelling. I wish them joy of it."** (Nobody thinks further; the misreading is at 69.)
-- **Echo, d.310**: the last barge in at dusk under the eastern rampart; on the wall's river end the grey lion-hill lying along the top, and against his foreleg, small, the knight asleep in a Warden's blue coat, a bandaged hand in her lap; Jory: "Is she dead?" Kit: "No. She's asleep. She sleeps like that now." (Kit doesn't know how she knows.)
+- **Kit tells Idony** d.308 at the ferry house kitchen; he shrugs: **"Half the courts in Winshire have bought a copy of something I wrote, mistress. The College sold my tide-charts to Kessmoor for eleven years. Sarovel's Grace-priests had my lamp notes. The crown had my Glasswater readings." "These were the far shore's." "Yes." He thinks about it. "Whoever bought them has a great many lines in an old tongue and Gannet's spelling. I wish them joy of it."** As she goes he asks whether Quell's people brought any word of Nessa's ferry on Glasswater; they didn't (X-S). (Nobody thinks further; the misreading is at 69.)
+- **Echo, d.310**: the last barge in at dusk under the eastern rampart; on the wall's river end the grey lion-hill lying along the top, and against his foreleg, small, the knight asleep in a Warden's blue coat, a bandaged hand in her lap; Jory: "Is she dead?" Kit stands at the tiller and says the whole count up at the wall, not loud: "Six thousand and twelve." The one count she kept. The woman doesn't wake; the lion's eye opens and shuts.
 Magic touches: none; the tuskers on the towpath; the river in winter.
 notes -->
 
@@ -22,13 +22,13 @@ notes -->
 
 The Staithe had been a ford.
 
-That was all, once. A ford and a landing and a dozen houses, eight leagues below the hub on the Hearthmere bank, where the drovers brought sheep over the Wend in the summer when the river was low. A ferry when it wasn't. An inn.
+That was all, once. A ford and a landing and a dozen houses, eight leagues below the hub on the Hearthmere bank, where the drovers brought sheep over the Wend in the summer when the river was low. A ferry when it wasn't. An inn. Not Tolly's Staithe, at the old ferry under Greyhold. The drovers' one, further down.
 
 Now it was a town on the water.
 
 ---
 
-The floating market had been towed there after Wendmouth. All of it that floated. A hundred and forty barges and rafts, lashed again, side by side and end to end, a quarter-league of it along the Staithe's bank, with planks across and smoke going up and people living on it. Five thousand of them. Wendmouth's. And the coast's last villages, that the dragons and the wyverns had flown in over the Saltreach bank.
+The floating market had been towed there after Wendmouth, ten days up the river behind the poles. All of it that floated. A hundred and forty barges and rafts, lashed again, side by side and end to end, a quarter-league of it along the Staithe's bank, with planks across and smoke going up and people living on it. Six thousand of them. Wendmouth's five thousand two hundred. And the coast's last villages, that the dragons and the wyverns had flown in over the Saltreach bank.
 
 And they had to go up.
 
@@ -46,7 +46,7 @@ And nineteen more.
 
 Free captains'. The last on the coast. Every one that had come up the mouth when Wendmouth went and hadn't gone back down, because there was nothing to go back down to. Old men, mostly. Old boats.
 
-Twenty-three barges. Five thousand people. Eight leagues.
+Twenty-three barges. Six thousand people. Eight leagues.
 
 She worked it out on a slate at the Staithe's inn table on the two-hundred-and-ninety-fifth. Fifteen days.
 
@@ -156,7 +156,7 @@ She looked at him.
 
 At the book. At the little pouch of salt on Saffery's man's belt, ready.
 
-At the five hundred people on her barge, behind her, from Wendmouth's waterfront. Ostrey's people, some of them. Saffery's. The houses'. Who the houses had left on the floating market when the Bell came, because the houses wouldn't leave their stock.
+At the fifty people on her barge, behind her, from Wendmouth's waterfront. Ostrey's people, some of them. Saffery's. The houses'. Who the houses had left on the floating market when the Bell came, because the houses wouldn't leave their stock.
 
 ---
 
@@ -250,7 +250,7 @@ Saltreach. The coast. The free captains. The people who'd carried things up and 
 
 Carrying for nothing.
 
-It was the last thing. She was sure of it. She didn't know how she was sure.
+It was the last thing. She was sure of it.
 
 ---
 
@@ -258,7 +258,7 @@ Gannet told her on the night of the three-hundred-and-fourth.
 
 ---
 
-At the mooring above Cutter's Elbow. On her barge, on the way up, with five hundred asleep in the hold under canvas and the tuskers lying down on the frozen bank like hills. She had the tiller watch. He came aft and sat down on the deck beside her, in the dark, with his back against the rail.
+At the mooring above Cutter's Elbow. On her barge, on the way up, with fifty asleep in the hold under canvas and the tuskers lying down on the frozen bank like hills. She had the tiller watch. He came aft and sat down on the deck beside her, in the dark, with his back against the rail.
 
 He'd been quiet since the Lit Shore. Since he'd carried the old man's notes up the hill and copied the light by the fire. His smile had gone out on the far shore and not come back. He poled. He ate. He didn't whistle.
 
@@ -342,7 +342,7 @@ She hadn't expected that. She'd thought he'd be angry. Or frightened. He shrugge
 
 She looked at him.
 
-"The College sold my tide-charts to Kessmoor for forty years," said Idony. "Sarovel's Grace-priests had my lamp notes. The crown bought my Glasswater readings and never read them. Everyone buys what I write." He smiled a little. "Almost nobody reads it."
+"The College sold my tide-charts to Kessmoor for eleven years," said Idony. "Sarovel's Grace-priests had my lamp notes. The crown bought my Glasswater readings and never read them. Everyone buys what I write." He smiled a little. "Almost nobody reads it."
 
 ---
 
@@ -356,6 +356,8 @@ Then they came back.
 
 "Then whoever bought them," said Idony, "has a great many lines in an old tongue, and Gannet's spelling, and my guesses in the margin." He put his cup down. "I wish them joy of it. It took me a year and a god to read it. It'll take them longer."
 
+When she got up to go he asked, not looking up, whether Quell's people had brought any word of the ferry on Glasswater, of a woman called Nessa. They hadn't, and he nodded at the fire as if he'd known.
+
 ---
 
 She went back down the river that afternoon for the last load.
@@ -364,7 +366,7 @@ She went back down the river that afternoon for the last load.
 
 The last barge came in on the three-hundred-and-tenth.
 
-At dusk. Hers. With the last two hundred from the Staithe, and the goat, and Dace Overy's dog, which had decided it was hers. Up the last league of grey river to the hub with the tuskers pulling on the bank and the walls coming up out of the dusk ahead, one on each side.
+At dusk. Hers. With the last fifty from the Staithe, and the goat, and Dace Overy's dog, which had decided it was hers. Up the last league of grey river to the hub with the tuskers pulling on the bank and the walls coming up out of the dusk ahead, one on each side.
 
 Fifteen days. As she'd said on the slate.
 
@@ -394,14 +396,12 @@ Not moving.
 
 ---
 
-"Is she dead?" said Jory.
+Kit stood up at the tiller.
 
-At the bow. Quietly. Looking up.
+"Six thousand and twelve," she said.
 
-"No," said Kit. "She's asleep."
+Up at the wall. Not loud. The whole count, off the water and up the river, every head of it. She'd kept that one. She'd only stopped counting the price.
 
-She didn't know how she knew. She looked up at the woman against the lion's leg, and the lion breathing, slow, like the sea, and knew.
-
-"She sleeps like that now," said Kit.
+The woman didn't wake. The lion's eye opened, pale, and looked down at the barge going by under it, and shut.
 
 They went on up past the wall to the landing in the dusk, and tied up, and that was the last of it.

@@ -9,13 +9,13 @@ Beats: Rowan's camp in the Marches, where the Accord gathers people behind the W
 Echo of another story: Three new mountains in the southern sky, not knowing whose.
 Status: first draft
 Draft notes: Days 145–150. Decided here (proposals):
-- **The camp**: on the Saltreach bank of the Wend (river between the people and Hearthmere, where the Last Titan lies in the boiled Mere, ch. 23), in the Marches between the Way and the river, three leagues below Greyhold's fallen hill; tents, carts, pens, smoke; **sixty thousand from Hallowmere** (the King's Road columns, crossed at Liss's ferry and the Staithe and the new pontoon Kessmoor laid), **ten thousand clansfolk** out of the Greenwold (Tova brought them across on d.120 when the Titan lay down in the Mere), the coast's people coming in from Arn's baskets and the Track; **Dorcas's carts** (d.148) and the blind stonehorn; Liss's ferry running day and night; **Tam** at a camp forge shoeing horses (Rowan sees him, nods; he nods back).
+- **The camp**: on the Saltreach bank of the Wend (river between the people and Hearthmere, where the Last Titan lies in the boiled Mere, ch. 23), in the Marches between the Way and the river, three leagues below Greyhold's fallen hill; tents, carts, pens, smoke; **sixty thousand from Hallowmere** (the King's Road columns, crossed at Liss's ferry and the Staithe and the new pontoon Kessmoor laid), **ten thousand clansfolk** out of the Greenwold (Tova brought them across on d.120, when it was plain the Titan wasn't getting up out of the Mere), the coast's people coming in from Arn's baskets and the Track; **Dorcas's carts** (d.148) and the blind stonehorn; Liss's ferry running day and night; **Tam** at a camp forge shoeing horses (Rowan sees him, nods; he nods back).
 - **The dispatches**, d.145, read at the Marshal's table (a door on trestles in a barn): **Vael silent**: no owl since the 112th; a Warden's last bird said the Pale Coil was coiled round Glasswater and the lake was ice in summer; Master Quell's seat empty; **Solenne evacuated to Sorrel Isle**: the Horned Sun came up the Gilt again on the 120th and the low city went over the water in fishing boats; Lady Ismay's dispatch in her own hand; **Kessmoor turned the Furnace** on the 126th at **the Gearmouth foundries**: engines on rails and bolt-throwers on the foundry walls and chilled canals, a day and a night; it turned and went back to the Scald; *the only kingdom to turn a Titan* (Kaye's dispatch says so in those words); the **Antlered** holds the dead Thornwood (Tova's scouts); the **Last Titan** lies in the Mere and hasn't moved since the 95th.
-- **The council**, d.147 (the barn; trestles): **Agathe Pike** (down the Iron Road with the wagons on 146, Strake with her), **Lord Thale** for the crown, **Elder Tova**, **Gunna Tarne** for the Clan (Arn on the coast), **tribune Mattias** for Sarovel, **Hal Rennick** for what's left of the Bench and the Tide Council (Celia Ostrey sailed with the fleet; Rennick turned back at the fifth pier and brought word on d.130 that it sailed on at night; nothing since; her death unknown here), and Rowan. **The Bridle's report**: finished at Ironhythe on the 144th: twelve engines, the great chain, the central ring (Pike: "the hub"); to come down by barge and the Iron Road in parts; **its purpose**: to hold the Last Titan "if the elders fail" (rumour of the elders has come by gull-hawk from Blackwater, garbled).
+- **The council**, d.147 (the barn; trestles): **Agathe Pike** (down the Iron Road on 146 behind Tam's twenty wagons, Strake with her; the Bridle's last report reached her by courier on the road), **Lord Thale** for the crown, **Elder Tova**, **Gunna Tarne** for the Clan (Arn on the coast), **tribune Mattias** for Sarovel, **Hal Rennick** for what's left of the Bench and the Tide Council (Celia Ostrey sailed with the fleet; Rennick turned back at the fifth pier and brought word on d.130 that it sailed on at night; nothing since; her death unknown here), and Rowan. **The Bridle's report**: finished at Ironhythe on the 144th: twelve engines, the great chain, the central ring (Pike: "the hub"); to come down by barge and the Iron Road in parts; **its purpose**: to hold the Last Titan "if the elders fail" (rumour of the elders has come by gull-hawk from Blackwater, garbled).
 - **Rowan argues against it**: she's held a chain twice for the crown and let it go twice; chains on a Titan are what started the war; Tova with her ("You're making the thing that made it"); **outvoted**: Thale (the crown needs Kessmoor's bread and iron), Mattias (Sarovel's hands eat Kessmoor's bread), Rennick (Kessmoor pays), Gunna abstains ("I'll not vote on chains. Arn can"); Pike: engines or nothing: Kessmoor's leverage is plain and she doesn't hide it: "Without the engines you have knights and stonehorns. With them, you have a fallback."
 - **Rowan's condition**: it fires only on her word: the Marshal's; nobody else's. **Pike agrees at once**, before Rowan has finished saying it. It's written into the council's minute and sealed with the Accord's seal (Rowan's). Rowan believes the seal.
 - **Tobin's letter** (reached her d.142): on her table; she asks Pike after the vote, alone: Callis, in the works, feeding the engines. **Pike's answer is ready**: "A Greyhold man. Deserter. Came up the Iron Road in the spring with the Hearthmere smiths' wagons asking for work. We took him for bread, as we've taken hundreds. He shovels coal into a box. He's no more Restoration than the ox that pulls the carts." Strake behind her, not looking at anyone. Rowan, who needs the engines more than she needs to be right, accepts it. She writes back to Tobin: *Noted. Watch him. R.*
-- **Echo**, dusk 149: from the camp, high in the southern sky, three shapes, coming up out of the south over the Saltings and going north-east toward the Scarfell, so big that people in the camp think at first they're clouds, then mountains; Wynn's hounds howl; nobody knows whose; Rowan watches through her glass and can't tell; one is red. (Calder's three, ch. 42.)
+- **Echo**, dusk 149: from the camp, high in the southern sky, three shapes, coming up out of the south over the Saltings and going north toward the Scarfell, a long way east of the camp, so big that people in the camp think at first they're clouds, then mountains; Wynn's hounds howl; nobody knows whose; Rowan watches through her glass and can't tell; one is red. (Calder's three, ch. 42.)
 - **D.150**: the coast's last people in; Rowan's count (Davin): ninety-one thousand behind the Wend.
 Magic touches: none worked; the Bridle (Kessmoor engines; heartstones); the Accord's seal; Titan-class dragons seen.
 notes -->
@@ -46,7 +46,7 @@ They'd come down the King's Road after the Downs, and crossed the Wend at Liss's
 
 Ten thousand clansfolk.
 
-Tova had brought them out of the Greenwold on the hundred-and-twentieth, when the Titan lay down in the Mere and didn't get up and the oaks were too near it. Across the downs. Across the King's Road behind the last of the Hallowmere columns. Over the Wend at the Staithe, with their herds swimming. Their stonehorns grazed the water-meadows below the camp now and the Marches farmers came to look at them and went away shaking their heads.
+Tova had brought them out of the Greenwold on the hundred-and-twentieth, when it was plain the Titan wasn't getting up out of the Mere, and the oaks were too near it. Across the downs. Across the King's Road behind the last of the Hallowmere columns. Over the Wend at the Staithe, with their herds swimming. Their stonehorns grazed the water-meadows below the camp now and the Marches farmers came to look at them and went away shaking their heads.
 
 And now the coast.
 
@@ -152,7 +152,7 @@ In the barn. Round the door on trestles. The Accord, what was left of it, and wh
 
 Pike.
 
-Down the Iron Road on the hundred-and-forty-sixth with twenty wagons of iron and two lent engines, and Strake beside her with her burned hands and her face shut. Pike sat at the table in her smoked spectacles and looked at everything as if she were measuring it.
+Down the Iron Road on the hundred-and-forty-sixth, behind the twenty wagons, with the Bridle's last report a courier had brought her on the road, and Strake beside her with her burned hands and her face shut. Pike sat at the table in her smoked spectacles and looked at everything as if she were measuring it.
 
 Thale. For the crown. Old, thin, careful. The chain of office on his chest. He'd come over the pontoon in a carriage, the last of the council, and taken a farmhouse.
 
@@ -340,7 +340,7 @@ Then they moved against the wind.
 
 ---
 
-They came on. North-east. Across the southern sky, high, slow, over the Marches, over the Saltreach bank, a long way west of the camp. Toward the Scarfell.
+They came on. North. Across the southern sky, high, slow, over the Marches, over the Way, a long way east of the camp. Toward the Scarfell.
 
 Huge.
 
@@ -364,7 +364,7 @@ These were the size of hills.
 
 They went over the Scarfell's edge into the dark.
 
-North-east. Gone.
+North. Gone.
 
 The camp stood about in the dusk for a long time, talking, and then went back to its fires.
 

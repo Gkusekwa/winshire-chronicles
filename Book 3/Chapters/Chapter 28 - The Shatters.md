@@ -3,12 +3,12 @@
 <!-- notes
 POV: Calder
 Part: Part Three: The Far Shore
-Days: 125–128 (118–124 told back; the tow to 138 in summary) (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
+Days: 119–129 (the tow 128–137 in summary) (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): The Shattered Sea (pier eleven)
 Beats: Calder and the three over the Shatters with the Berths fleet, at its pace, Jory on Aurveth's back reading the milestones the fleet's pilots are missing. The Bell rises under the fleet. Jory finds the one stretch of the drowned road shallow enough to hold a boat off the rocks, and Calder saves two boatloads of passengers there; most of the fleet goes down. He lets Lisska's wind go through him, holding it off the boats (a bond gift, so the sea doesn't break it), and can't breathe for a long time afterwards. Then ten days of towing two boats from milestone to milestone.
 Echo of another story: On a Shatter island, a milestone: *into the light, eleven*, and a Merrin mark scratched under it.
 Status: first draft
-Draft notes: Days 125–128 (118–124 told back; the tow 128–138 in summary). Decided here (proposals):
+Draft notes: Days 119–129 (the tow 128–137 in summary). Decided here (proposals):
 - **D.119 the first pier**: the fleet (sailing day and night, ch. 26) reaches *forty-one* at dusk on 119; **Aurveth comes down on the sea beside Ostrey's flagship**, as Jory said; Jory goes over the rail onto her shoulder; Rennick's men on the deck don't stop him; **Rennick** on his black ship laughs again. Jory rides Aurveth from then on, lying along her neck, calling the stones.
 - **D.121 Rennick turns back**: at the fifth pier, the Council's pilots sail on into the dark; Rennick's three black ships heave to at the pier, and in the morning go back north-east: "I don't sail at night where I can't see the bottom"; he signals the fleet once and goes. *(Rennick survives; later chapters.)*
 - **D.122–125**: eleven ships pier to pier, day and night, fast; Quenby and Loy miss two turns (the fallen piers Jory warned of), and **the *White Heron*** (a Quill ship) strikes a reef in the dark on 123 and goes down with sixty; Calder and the dragons lift eleven off her rigging. Celia Ostrey won't stop; "The Merrins sail this. So can we." Jory calls each turn from the air; they don't hear.
@@ -16,8 +16,8 @@ Draft notes: Days 125–128 (118–124 told back; the tow 128–138 in summary).
 - **Jory's stretch**: between twelve and eleven the causeway lies a fathom and a half down for half a league, unbroken, flat: the only stretch of the drowned road shallow and whole enough to hold a boat off the rocks; Jory calls it from Aurveth's neck; Calder sends Kharrak and Lisska to herd two of the flagship's boats onto it (the flagship's own longboat and a jolly-boat, launched by her crew as she went over).
 - **Lisska's wind**: the swell's second wave coming across the shallow stretch, white; Calder on Kharrak, his hand on Lisska's neck as she comes alongside: no word (running water); **the bond gift through him**: Lisska's wind, the gift she has that she's never been asked for, comes up out of her through his chest and out, a wall of wind laid across the sea between the wave and the boats, flattening the wave's top into spray; it holds as long as he has breath; when it goes, the wave's spent.
 - **The toll**: he can't breathe; for a long time; on Kharrak's neck, as after Corsa, but worse; Kharrak lands on pier twelve's broken top and Calder lies there until dawn breathing like a man drowning slowly; he can't speak for a day.
-- **Most of the fleet goes down**: nine of the eleven ships; **the two boats hold sixty-three people** (from the flagship and two others: house servants, children, a few of the rich, **Master Loy** the pilot; **Celia Ostrey goes down with the flagship**, at her rail; **Aubrey Strand goes down** with his); the dragons lift **thirty-one more** off wreckage and rigging by dawn, ninety-four in all, put into the two boats and onto pier twelve.
-- **The tow**, 128–138 (summary): ten days; the boats rowed by turns and towed on war-harness lines by Kharrak and Lisska; Aurveth carries Jory ahead to read each pier; nights tied to the piers; water rationed from the flagship's boat's breaker and from rain; Calder speaks again on the 129th.
+- **Most of the fleet goes down**: nine of the ten ships, and the tenth found drifting and empty; **the two boats hold sixty-three people** (from the flagship and two others: house servants, children, a few of the rich, **Master Loy** the pilot; **Celia Ostrey goes down with the flagship**, at her rail; **Aubrey Strand goes down** with his); the dragons lift **thirty-one more** off wreckage and rigging by dawn, ninety-four in all, put into the two boats and onto pier twelve.
+- **The tow**, 128–137 (summary): ten days; the boats rowed by turns and towed on war-harness lines by Kharrak and Lisska; Aurveth carries Jory ahead to read each pier; nights tied to the piers; water rationed from the flagship's boat's breaker and from rain; Calder speaks again on the 129th.
 - **Echo**, d.128 at pier eleven: on its broken top, the milestone, *into the light, eleven*, and under it, scratched with a knife-point, a Merrin mark: a small ship with a K for a mast. Jory: "Kit. She's been past." Days ago.
 - **Calder's warning to the survivors**, d.129, when he can speak a little: nobody sleeps ashore over there. Ever. (Plant for 32.)
 Magic touches: bond gift at sea (Lisska's wind through him, not a word); toll: breath (a day speechless); Jory reads the stones; the Bell under the road.
@@ -325,7 +325,7 @@ Most of the fleet went down.
 
 He learned it in the morning. From Jory, who'd counted, and came to the pier on Aurveth and told him while he lay there unable to answer.
 
-Nine of the eleven ships. Four off the Bell's back. Five on the reefs either side of the road, flung there by the first wave. Two drifted away north, waterlogged, empty; they found them in the afternoon, and nobody aboard.
+Nine of the ten ships. Four off the Bell's back. Five on the reefs either side of the road, flung there by the first wave. The tenth drifted away north, waterlogged, empty; they found her in the afternoon, and nobody aboard.
 
 The Bell had gone down again. Back into the deep, under the road. Gone.
 

@@ -79,7 +79,7 @@ She found Tam at the pontoon.
 
 She hadn't looked for him. She'd heard. Brede had told her at the shingle fire on the Saltings that her brother was at the camp, shoeing horses by the pontoon. She'd thought about it all up the Coast Road and hadn't gone.
 
-She didn't know why. She didn't feel enough to know why.
+She didn't feel enough to know why.
 
 She heard a hammer by the pontoon and went to it as if her feet had decided.
 
@@ -135,7 +135,7 @@ She couldn't feel the iron. She could see his hand over hers, black at the knuck
 
 She stood there with him by the coals.
 
-She didn't count anything.
+She watched the coals. She let the numbers go.
 
 ---
 
@@ -309,7 +309,7 @@ She turned on the bench and looked up at the eye.
 
 ---
 
-He was quiet a long time.
+He was quiet.
 
 The table didn't move. Out on the meadow a stonehorn lowed. The Wend went by pale behind them.
 
@@ -355,7 +355,7 @@ What he said after. When the table had moved on to marches and carts and who wou
 
 *Don't let me feel it go.*
 
-She thought about that for a long time. She didn't know how. She didn't know if she could.
+She thought about that. She didn't know how. She didn't know if she could.
 
 *I'll try*, she said.
 

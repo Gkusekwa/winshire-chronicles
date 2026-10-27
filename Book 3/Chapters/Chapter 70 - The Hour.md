@@ -11,7 +11,7 @@ Status: first draft
 Draft notes: Day 319, noon. Decided here (proposals):
 - **Noon**: Maren on Orrun's head with Calder's hand in hers; the Lamp's horn in the parting plates a finger deep; the coal's light up the horn. She hears it first through Orrun: **a sound off the Flat: eight packets' wax breaking**, then the crew-masters' voices reading, flat, all at once.
 - **The jibs**: the six jibs swing out over the eddy together "like the hands of a clock" and **the Bridle's chain-ends drop over the Last Titan** (over its neck, its shoulders, its legs where the old chain-ends are); the Bridle's twelve engines roar; **the chains go taut** across the eddy from the jibs to the ring; the hooked script on the links glowing.
-- **The bolts**: the hundred bolt-throwers on both banks swing from the line to the eddy and fire: **heartstone bolts into the Lamp** on the Last Titan's back; the first ten miss or glance; then it's full of them: in its side, its neck, its flank; grey-tipped black bolts standing out of the light.
+- **The bolts**: the sixty line bolt-throwers on both banks (all but the hub battery's forty) swing from the line to the eddy and fire: **heartstone bolts into the Lamp** on the Last Titan's back; the first ten miss or glance; then it's full of them: in its side, its neck, its flank; grey-tipped black bolts standing out of the light.
 - **The smoke**: the magazine's doors open; the Hearthmere guard down; the Kessmoor crews roll the casks out, **Rowan's seal on every bung, broken**; resin into braziers along the Flat's eddy edge; **honey-smoke** goes up, thick, yellow-grey, sweet, burnt; the wind off the downs takes it east over the eddy, both banks, the whole line.
 - **Every beast comes loose**: the hounds at the Hearthmere bend turn on their knights (Maren sees through the bend-shadow before it goes: **Ash going for Wynn's throat**); greyharts bolting through the militia; **the olifants break their wall**, trumpeting, through Sarovel's lines; the wyverns over the scrub end falling out of the smoke; the stonehorns scattering; the Wardens' lynx and the sabrecats going for anything; **the dragons screaming**: Arn's, the three; **Aurveth in the water beside Orrun screaming**.
 - **Orrun comes loose**: the smoke reaches the eddy; she feels him go, "like a boat off its rope"; the bond doesn't break, it slacks; he's there and not holding her; his forefoot comes off the Last Titan's neck; **his shadows go out in a breath**: the one on the channel bar (the Coil slides loose under the Lady), the one at the mouth (the Bell comes up into the river), the one in the eddy; **their wounds come back into him**: the Bell's shoulder-blows, the bar's ice-cold, the chain-flails; he staggers in the water; **three sectors** empty (the shadows had held them on day one; today they'd gone to hold the five; now nothing holds the five or the line).
@@ -214,7 +214,7 @@ Wynn's hound. The big grey one, that had come to Maren's pockets in the kennels 
 
 The greyharts bolted.
 
-Through the militia. Three hundred of them. Grey, long-legged, white-blazed, with their eyes white. Through the lines behind the wall. Knocking people down. Not running from anything. Running. As a horse runs out of a burning barn.
+Through the militia. Three hundred of them. Grey, long-legged, white-blazed, with their eyes white. Through the lines behind the wall. Knocking people down. As a horse runs out of a burning barn.
 
 ---
 
@@ -422,7 +422,7 @@ His mouth moving.
 
 She couldn't hear it.
 
-The engines. The screaming. The smoke. She saw his mouth move, steadily, as a man reads aloud. Not shouting. Never shouting. He never had.
+The engines. The screaming. The smoke. She saw his mouth move, steadily, as a man reads aloud. Never shouting. He never had.
 
 Reading.
 
@@ -484,7 +484,7 @@ Over and over. In his ruined voice.
 
 The screaming changed.
 
-She heard it change. Not stop. Change. Aurveth's, beside her, first. Going from that terrible high sound to something lower. Shaking. Then Lisska's, above. Then, far off, Kharrak's.
+She heard it change. Aurveth's, beside her, first. Going from that terrible high sound to something lower. Shaking. Then Lisska's, above. Then, far off, Kharrak's.
 
 Holding on.
 

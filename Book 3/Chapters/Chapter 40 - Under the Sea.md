@@ -5,7 +5,7 @@ POV: Maren
 Part: Part Three: The Far Shore
 Days: 147–180 (plan 150–180; the walk begins dusk 148, ch. 39's echo) (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): Under the Shattered Sea; the Drowned Bell's reef off the Saltreach coast
-Beats: Orrun walks home along the drowned road **under** the Shattered Sea. The sea-bed stone opens ahead of him and closes behind, the way the rock opened in Book 1 ch. 79, at the size of a hill. It takes days in the dark. For the first time in her life Maren loses count. They come up at the Drowned Bell's reef on the Saltreach coast.
+Beats: Orrun walks home along the drowned road **under** the Shattered Sea. The sea-bed stone opens ahead of him and closes behind, as the rock opened in Book 1 ch. 79, at the size of a hill. It takes days in the dark. For the first time in her life Maren loses count. They come up at the Drowned Bell's reef on the Saltreach coast.
 Echo of another story: Far off in the black water beside them, something long and pale keeping pace: the Lady.
 Status: first draft
 Draft notes: Days 147–180. Decided here (proposals):
@@ -13,7 +13,7 @@ Draft notes: Days 147–180. Decided here (proposals):
 - **Dusk 148 the walk begins**: Orrun walks into the lagoon, then out under the Needle's shelf, and down: **the sea-bed stone opens in front of him**: a space his size, moving with him, the stone parting ahead as the rock opened under the Ruin in Book 1 ch. 79 (the night they came up in the reeds below Redwatch), and closing behind; **air comes with it**, cold, stone-smelling (*The stone remembers the air that was over it before the sea*, he says); **dark**: no light but the faint pale of his eyes; the walls of the moving space the drowned road's own stone: the causeway, the piers' footings, cut stone; he walks along the road's line under the piers.
 - **Water**: the stone weeps fresh water where he passes, drops on the walls; she fills the skin from them. **Food**: the biscuit and pork, rationed; she eats little; she's cold and isn't hungry. **Sleep**: in his mane between his shoulders; he doesn't sleep.
 - **Losing count**: she counts days by sleeps at first, then by the biscuit, then by the drops in the skin; by what she thinks is the twelfth day she doesn't know; by what might be the twentieth she stops trying; **for the first time in her life she doesn't know the count**; she tells herself she promised Idony, and can't.
-- **The piers overhead**: he feels each one pass above; says them: *Forty. Thirty-nine.* Counting up now, toward home; she holds on to his count instead of hers, and then he stops saying them, and she doesn't ask.
+- **The piers overhead**: he feels each one pass above; says them: *Two. Three.* Counting up now, toward home; she holds on to his count instead of hers, and then he stops saying them, and she doesn't ask.
 - **Echo**: from somewhere in the black water beyond the walls (seen through him, a light through stone), something long and pale keeping pace, coiling, cold: the Lady; it's there for days; then it isn't; then it is.
 - **The salt**: she opens Kit's twist of paper once in the dark and touches a grain to her tongue; it's the only taste in the world.
 - **Coming up**: what turns out to be d.180: he climbs: the stone opening upward, the cold air warmer, the walls getting lighter; and they come up out of the sea-bed into water, and up through water into air, onto **the Drowned Bell's reef** at low tide, the broken temple's columns round them (Book 2 ch. 73), the dome fallen, no bell; grey morning; the Saltreach coast low in the north (the empty hill where Gullhaven was). She doesn't know the day. A fishing boat on the horizon, the only one. (Somebody tells her later: the hundred-and-eightieth.)
@@ -24,7 +24,7 @@ notes -->
 
 He carried them down from the hall in a day.
 
-Walking. On the road. At a hill's pace, which was faster than she'd have believed, because a hill's stride was half a league. The road sang under him where his paws came down. The old man rode between his shoulders with her, wrapped in his blanket, holding her coat with his steady hands. Gannet behind, on the grey paving of the road, half running, with his bag.
+Walking. On the road. At a hill's pace, which was faster than she'd have believed, because a hill's stride was half a league. The road sang under him where his paws came down. The old man rode between his shoulders with her, wrapped in his blanket, holding her coat with his steady hands. Gannet behind them in the mane, clinging on, with his bag.
 
 The deer came out of the hills and watched them pass and didn't run.
 
@@ -172,11 +172,11 @@ He felt the piers.
 
 Overhead. Through the sea-bed. Each one, standing up out of the road above them, going up through the water to the air, with its milestone on its top. He felt them pass.
 
-*Forty-one,* he said, the first night.
+*One,* he said, the first night.
 
 She didn't know if it was night.
 
-*Forty-one,* he said. *Going the other way now. Counting up.* He walked. *Toward home.*
+*One,* he said. *Going the other way now. Counting up.* He walked. *Toward home.*
 
 ---
 
@@ -258,7 +258,7 @@ She laughed. In the dark, in his mane, under the sea, on the side of her mouth t
 
 He'd stopped saying the piers.
 
-She noticed it after. He'd said them for days. *Thirty. Twenty-nine. Twenty-eight.* Counting up. And she'd held on to his count when she lost hers. And then at some point he'd stopped, and she hadn't noticed for a long time, and when she did she didn't ask.
+She noticed it after. He'd said them for days. *Twenty-eight. Twenty-nine. Thirty.* Counting up. And she'd held on to his count when she lost hers. And then at some point he'd stopped, and she hadn't noticed for a long time, and when she did she didn't ask.
 
 She thought he'd stopped because she'd stopped.
 

@@ -10,7 +10,7 @@ Echo of another story: Lisska crying from the coast, out of reach.
 Status: first draft
 Draft notes: Day 94 night to dawn 95. Decided here (proposals):
 - **The crew** (named here): **Ferris** (mate; grey, sixty, sailed with Hal), **Lorn** (old, deaf in one ear, the best hand on a sheet), **Tansy** (cook; broad, red-armed, sings), **Nye and Sim** (brothers, sixteen and seventeen, quick aloft), **Corrie** (twenty, quiet, a Blackwater girl Kit took on last year). With Gannet as bosun: six and one. Jory gone to the Council's fleet (ch. 20).
-- **The chain** (ch. 20): anchor-cables shackled end to end on a boom of spars between the two headlands; a black ship of Rennick's at each end with lanterns at the masthead. **"They're short of shackles"** (Gannet, ch. 20): Gannet, who's been ashore every night, knows where: two joins in the middle lashed with rope instead of iron, under a spar painted white so the black ships can see it. He tells Kit, smiling. Maren notes that he knows.
+- **The chain** (ch. 20): anchor-cables shackled end to end on a boom of spars between the two headlands; a black ship of Rennick's at each end with lanterns at the masthead. **"They're short of shackles"** (Gannet, ch. 20): Gannet, who's been ashore every night, knows where: two joins in the middle lashed with rope instead of iron, under a spar painted white so the black ships can see it. He tells Kit, smiling.
 - **The run**, night 94, moonless, the ebb: no lights; the *Kittiwake* slips her mooring off the sealed house and drifts on the ebb down the inlet past the houses' anchored line (a watch on Strand's ship sees nothing); at the boom Kit puts her at the white spar under full sail; **the ketch's stem hits the lashed join and the rope parts**; but the boom's ends swing in on the cables, spars and all, toward the ketch's sides, to foul her rudder and pin her, and the black ships' crews wake and haul on them.
 - **Orrun's shadow**: Maren in the bow; she can't reach stone from a deck; she puts her one good hand flat on the far-stone ballast through the forehatch (the only stone aboard) and Orrun, lying on it, sends **one shadow** out of **the eastern headland's rock**: a grey stone lion rising out of the cliff-foot at the water's edge, which takes the boom's eastern end in its jaws and holds it open against the black ship's capstan; the western end swings in and scrapes along the ketch's side and goes under her counter; Ferris at the helm holds her; she's through.
 - **The bolt**: Rennick's eastern ship looses its bolt-thrower; the bolt goes through the mainsail and out; nobody hurt; Rennick himself on his deck, laughing, raising a hand: he lets them go (he'd laughed at her at Ironhythe; he doesn't chase a contract nobody's paid him for).
@@ -57,16 +57,6 @@ Kit had looked at him.
 "How do you know?"
 
 "I've been ashore every night," said Gannet. "For news."
-
----
-
-Maren had watched him say it.
-
-He'd been ashore every night. He knew which joins were rope. He knew they'd painted the spar. He knew, she thought, a great many things about the Council's boom that a man who'd gone ashore for news had no reason to know.
-
-She'd said nothing.
-
-He was the reason they had a chance. She'd keep it.
 
 ---
 
@@ -166,7 +156,7 @@ It came up out of the headland.
 
 She saw it. In the lantern-light from the eastern black ship's masthead. At the foot of the cliff, at the water's edge, where the black rock went down into the sea, something stood up out of the rock.
 
-Grey. Stone. The shape of a lion. Rising out of the cliff-foot as if the cliff were water and it had been lying in it. Shaking itself.
+Grey. Stone. The shape of a lion. Rising out of the cliff-foot as a swimmer comes up out of a pool. Shaking itself.
 
 The boom's eastern end was sweeping in past it, on its cable, to the ketch's side.
 
@@ -302,7 +292,7 @@ Slowly.
 
 "Is it?"
 
-"It's been right eighty years," said Kit. "It was right for my father." She didn't say anything else.
+"It's been right eighty years," said Kit. "It was right for my father."
 
 ---
 

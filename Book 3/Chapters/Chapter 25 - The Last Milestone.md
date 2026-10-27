@@ -11,14 +11,14 @@ Status: first draft
 Draft notes: Day 115, dawn to night. Decided here (proposals):
 - **The last stretch**: from *two* at dawn; by noon **the last pier, *into the light, one***, standing at the edge of a long shelf of reef: the road's landfall shallows, old-realm causeway stone lying broken under a fathom or two of clear water for a league, white with breaking water at its seaward edge; beyond it, a lagoon, and the shore (low, long, pale) four leagues off. The Merrins go in through **the Needle**, a gap in the shelf by the last pier, at the top of the flood only, as Abram drew it.
 - **The Bell rises**, early afternoon, half a league off to the west along the shelf's edge, in the deep water: it stands up out of the sea, the dome and columns on its back streaming, the bell swinging and ringing *down* once, enormous; it has come to the end of the road too, and stops there; the sea goes up round it in a swell that runs along the shelf and lifts the *Kittiwake* in the Needle and throws her toward the shelf's rocks.
-- **The shadows**: Maren at the forehatch with her right hand on the far-stone ballast; Orrun calls up out of **the shelf itself** (the old road's stone, under the water: the first real stone in a hundred leagues) **six shadows**, more than Kit has seen; grey stone lions standing waist-deep on the reef on either side of the Needle, putting their shoulders to the *Kittiwake*'s sides as she's thrown, holding her off the rocks, passing her along between them through the gap, hand to hand, like men passing a bucket; the swell breaking white over their backs.
+- **The shadows**: Maren at the forehatch with her right hand on the far-stone ballast; Orrun calls up out of **the shelf itself** (the old road's stone, under the water: the first real stone in a hundred leagues) **two shadows**, each his own size; grey stone lions standing waist-deep on the reef on either side of the Needle, putting their shoulders to the *Kittiwake*'s sides as she's thrown, holding her off the rocks, passing her from one to the other through the gap, like two men passing a bucket; the swell breaking white over their backs.
 - **Kit sees what the lion is**: not a beast; something the stone itself is doing; something that was here before the road; her father's water full of grey lions.
 - **Her father**: Hal drowned at the ninth, not here; but this is the water he'd talk about at night; the Needle where he'd always gone in; Kit says his name once aloud in the Needle.
 - **The toll** (seen by Kit): Maren on the deck afterward, sitting against the forehatch coaming, the grey up her neck now to the hinge of her jaw on the left side, the corner of her mouth not moving when she talks; Kit asks; Maren: "It's paid." Kit: "By whom?" "By me."
-- **The lagoon**, dusk: calm, clear, white sand under the water; the Bell behind them on the shelf's edge, lying still now, its back like an island, the bell silent; the ketch anchors a league off the shore; **nobody goes ashore**: Kit's order; the rule.
+- **The lagoon**, dusk: calm, clear, white sand under the water; the Bell behind them on the shelf's edge, lying still now, its back like an island, the bell silent; the ketch anchors a league off the shore; **nobody goes ashore**: Kit's order; the rule. She tells the crew she doesn't know why; she does, from her father, and keeps it back.
 - **The lights**, night: the far shore's hills lit from within, pale, the light coming up out of them as mist comes off a field, slow, moving; shapes on the shore that might be buildings, half under sand; a sound like breathing, very far.
 - **Echo**, night: Maren at the rail, her lips moving; Kit, near, hears her counting under her breath: one, two, three... to about sixty and starting again. (She's counting the light's slow pulse, as Idony counted the glasses' breath in ch. 3: in sixty.)
-Magic touches: bond gift (six shadows from the road's drowned stone, through far-stone ballast); toll: feeling (neck to the jaw, the mouth's corner); the Lit Shore's light.
+Magic touches: bond gift (two shadows from the road's drowned stone, through far-stone ballast); toll: feeling (neck to the jaw, the mouth's corner); the Lit Shore's light.
 notes -->
 
 ---
@@ -27,7 +27,7 @@ notes -->
 
 The old man said it at noon and sat down on the deck.
 
-Not fell. Sat. His legs went and he let them, and he sat on the planks by the mainmast with Kit's glass in his two shaking hands, looking at the pier, and didn't say anything else for a long time.
+His legs went and he let them, and he sat on the planks by the mainmast with Kit's glass in his two shaking hands, looking at the pier, and didn't say anything else.
 
 Kit didn't need the glass. She knew this pier. She'd seen it eight times.
 
@@ -157,11 +157,11 @@ To the far-stone, and the lion lying on it.
 
 The sea round the *Kittiwake* stood up.
 
-Not the swell. Something in it. Grey. On the slab ahead, on the eastern side, in the white water, a shape came up out of the stone itself. Out of the drowned road. As if the slab were water and something had been lying in it for a thousand years and had stood up.
+Not the swell. Something in it. Grey. On the slab ahead, on the eastern side, in the white water, a shape came up out of the stone itself. Out of the drowned road. As if it had been waiting under the slab all along, and had stood up.
 
 A lion.
 
-Stone. Grey. The size of a hay-cart. Standing waist-deep on the slab in the breaking sea.
+Stone. Grey. As big as Orrun. Standing waist-deep on the slab in the breaking sea.
 
 It put its shoulder to the *Kittiwake*'s side.
 
@@ -179,19 +179,15 @@ Then there was another.
 
 On the western slab. Out of the stone. Rising. Shaking the water off. Another lion, as big, standing in the sea on the other side of the Needle, and putting its shoulder to the other side of the ketch.
 
-Then two more. Ahead. Further along the gap, one on each side.
+Two.
 
-Then two more beyond them.
-
-Six.
-
-Six grey lions standing in the sea on the drowned road, on either side of the Needle, waist-deep in the white water, with the swell breaking over their backs.
+Two grey lions standing in the sea on the drowned road, on either side of the Needle, waist-deep in the white water, with the swell breaking over their backs.
 
 ---
 
 They passed her along.
 
-The first two let her go. The next two took her. Shoulders on her sides, as the swell went by and threw her and she came off one and onto the next. Passing her. From one to the next. Through the Needle. Along the gap. Hand to hand, as men pass a bucket along a line at a fire, except the men were lions and the bucket was her ship and the fire was the sea.
+From one to the other. Shoulders on her sides, as the swell went by and threw her and she came off one and onto the other, and the two of them walking with her along the slabs. Through the Needle. Along the gap. Hand to hand, as two men pass a bucket at a fire, except the men were lions and the bucket was her ship and the fire was the sea.
 
 The *Kittiwake* went through the Needle between them.
 
@@ -207,7 +203,7 @@ She'd thought the lion was a beast. A big one. The biggest on the coast, the rum
 
 Not a beast.
 
-She watched the six of them in the sea, standing on the drowned road, made of it. Coming up out of the old stone her family had sailed over for eighty years and never known was anything but rock. Something the stone was doing. Something that had been here before the road, before the split, before Abram. Before anything.
+She watched the two of them in the sea, standing on the drowned road, made of it. Coming up out of the old stone her family had sailed over for eighty years and never known was anything but rock. Something the stone was doing. Something that had been here before the road, before the split, before Abram. Before anything.
 
 Her father's water was full of grey lions.
 
@@ -233,9 +229,9 @@ They came out of the Needle into the lagoon.
 
 Calm. All at once. Out of the white water and the roaring and the grey shapes, into pale green water, flat, clear, with white sand under it a fathom down and the ketch sliding over it as if it were glass.
 
-Behind them, the six lions sank back into the shelf.
+Behind them, the two lions sank back into the shelf.
 
-She watched them go. Down into the stone, one after another, the water closing over them. Then there was only the reef, and the white water breaking on its edge, and the pier, and the birds settling on it again.
+She watched them go. Down into the stone, one and then the other, the water closing over them. Then there was only the reef, and the white water breaking on its edge, and the pier, and the birds settling on it again.
 
 And beyond the pier, at the shelf's edge, the Bell. Standing. Not moving. The bell silent.
 
@@ -291,6 +287,8 @@ The crew. Ferris and Lorn and Tansy and the brothers and Corrie. Gannet. The old
 
 "Nobody goes ashore tonight," she said. "Nobody sleeps ashore, ever. That's the rule. You all know it. It's in your articles." She looked at each of them. "I don't know why. My father didn't. My great-grandfather made it and never said. But I've kept it eight times and so did he and we came home." She looked at the shore. "Keep it."
 
+That wasn't all of it. She'd heard the rest once, from her father, at the tiller. She'd not say it with the knight listening.
+
 Nobody said anything.
 
 Gannet smiled.
@@ -301,7 +299,7 @@ The lights came up after dark.
 
 She'd seen them eight times. She'd never got used to them.
 
-Out of the hills behind the shore. Not lamps. Not fires. Light coming up out of the hills themselves, out of the ground, pale, slow, as mist comes up off a field on an autumn evening. Moving. Rising and spreading along the ridges and sinking back, and rising again further along. White. Gold at the edges. Not bright. You could look straight at it.
+Out of the hills behind the shore. Light coming up out of the hills themselves, out of the ground, pale, slow, as mist comes up off a field on an autumn evening. Moving. Rising and spreading along the ridges and sinking back, and rising again further along. White. Gold at the edges. Not bright. You could look straight at it.
 
 And on the shore, in the light, shapes.
 

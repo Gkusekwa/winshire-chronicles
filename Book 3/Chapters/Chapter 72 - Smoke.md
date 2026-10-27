@@ -121,7 +121,7 @@ And the ropes came back.
 
 ---
 
-Not right. Not as they'd been. He felt them come taut again, one after another. The bronze. Then the green. Then, a long way off, the rust. As a rope that has been slack comes taut when the boat is pulled back in. With a jerk. With everything that had drifted out on the current still in it.
+Not right. He felt them come taut again, one after another. The bronze. Then the green. Then, a long way off, the rust. As a rope that has been slack comes taut when the boat is pulled back in. With a jerk. With everything that had drifted out on the current still in it.
 
 But taut.
 
@@ -312,6 +312,8 @@ Going north. Behind the fire.
 *Then hold.*
 
 *I'm holding.*
+
+He went across to the red one at the fire's end, in the air, as he'd gone across a hundred times.
 
 ---
 

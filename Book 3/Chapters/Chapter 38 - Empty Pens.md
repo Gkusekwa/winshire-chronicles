@@ -12,8 +12,8 @@ Draft notes: Days 140–150. Decided here (proposals):
 - **The order**: Rowan's, from the Accord's camp behind the Wend (d.138 by courier): the coast to be emptied inland behind the Wend: the Corsa terrace, the Saltings' fishing villages, the hamlets of the Ashlings scrub, Wendmouth's outskirts; "hold people, not ground" (her lesson, ch. 23). Arn has the coast since d.117 (ch. 26).
 - **The Clan on the coast**: Brede's forty pairs (Ulric's that were), Arn's twenty, and **thirty more of the freed** (from the pens, ch. 18) who followed Ildra south without being asked and fly loose with the pairs and carry nothing at first, then carry; **the pens at Varrhold stand empty** (Gorm's word by rider: half the freed stayed on the ledges and crags round the hold; half went up to the Scarfell's high glens and haven't come down).
 - **The baskets**: war-harness baskets, twenty to a pair, as at Gullhaven (Book 2); inland over the Ashlings to the Wend's crossings; the Corsa terrace's hulk-folk go by cart on the Track with Dorcas (the hulks stay on their hill; Dorcas bangs her pan and the blind stonehorn follows the carts).
-- **The wyverns**: **Nell Tallis's company** and two others, **Black Ruth's** and **the Crane brothers'** (new: small Saltings companies; nine wyverns between them) under the **Accord's warrant** (Rowan's seal, as Maren's at Blackwater: the war's necessary costs), at **cost**: they take the low coves under the Ashlings' cliffs where a dragon's wingspan won't go; small, quick, a basket of four.
-- **The rocs**, d.143: **four roc-riders of the Wyldmarch horse clans**, sent down the coast from the Worldsend by Elder Tova (who heard of the coast from the Greenwold); rust-brown and white, wingspan wider than a barn is long; riders lean, silent, in felt; leader **Yeva** (new: a woman of Tova's clan, forty, a scar across both lips); at the Saltings' salt-villages where the children are on the mud-flats: **a roc lifts a child from a flat in its talons as gently as a yearling elk off the Plains and carries it inland**; no Clan rider has ever seen a roc; they stop and stare; Yeva: "They're careful with calves."
+- **The wyverns**: **Nell Tallis's company** and two others, **Black Ruth's** and **the Crane brothers'** (new: small Saltings companies; seven wyverns between them; twelve in all) under the **Accord's warrant** (Rowan's seal, as Maren's at Blackwater: the war's necessary costs), at **cost**: they take the low coves under the Ashlings' cliffs where a dragon's wingspan won't go; small, quick, a basket of four.
+- **The rocs**, d.143: **four roc-riders of the Wyldmarch horse clans**, sent down the coast from the Worldsend by Elder Tova (who heard of the coast at the Marshal's camp); rust-brown and white, wingspan wider than a barn is long; riders lean, silent, in felt; leader **Yeva** (new: a woman of Tova's clan, forty, a scar across both lips); at the Saltings' salt-villages where the children are on the mud-flats: **a roc lifts a child from a flat in its talons as gently as a yearling elk off the Plains and carries it inland**; no Clan rider has ever seen a roc; they stop and stare; Yeva: "They're careful with calves."
 - **The Bell's surf**, d.145: no storm; a long surf off the open sea, three waves, each higher, out of a calm (the Bell rising far out on the road; ch. 28's wave's cousin, or its own); **two pairs lost** off the Saltings' outer spit (red-thread **Ivo Brack** and his grey; a grey-thread girl, **Sunniva**, and her young red), caught low over the flats with full baskets; nine people with them; Arn sees it from Ildra.
 - **The chair**, night 146 at the coast camp (the Ashlings' edge above the Saltings): the riders, red and grey, come to his fire with Gunna; Bjarke speaks for them (changed since the pens): the Clan wants a chief; the chair's been empty since Teo burned; he opened the pens; he poured for Ulric; sit in it. Arn: "**The chair's for whoever pours.**" Bjarke: "You poured." Arn: "Two of us poured." (Calder.) They take it as a no. Gunna laughs.
 - **Echo**, d.147, an hour after dawn: every dragon on the coast (pairs, freed, Ildra) turns its head south-west at the same moment and cries, a long torn sound; Ildra in him: *It hurts. It's not ours. It's his three.* Arn on the cliff, his hand on her neck, until it stops.
@@ -69,7 +69,7 @@ Then on the third day one of them, a young grey with nobody on its back, had com
 
 The baskets were the Gullhaven baskets.
 
-War-harness. Wicker and rope and leather, twenty people to a pair, as the Clan had flown them off the marked roofs at Gullhaven at the end of last winter. Inland. Over the Ashlings' grey-green scrub to the Wend's crossings at the Staithe and Cotter's Cross, and down, and back.
+War-harness. Wicker and rope and leather, twenty people to a pair, as the Clan had flown them off the marked roofs at Gullhaven at the end of last winter. Inland. Over the Ashlings' grey-green scrub to Cotter's Cross on the Way, and the Wend's crossing at the Staithe, and down, and back.
 
 Over and over.
 
@@ -159,7 +159,7 @@ A woman. Forty, perhaps. With a scar across both her lips, old and white, that p
 
 "Arn Varr."
 
-"I know," said Yeva. "Tova sent us. She heard about the coast. In the oak wood. A courier." She looked down at the Saltings. At the salt-villages on the flats, and the mud between them, and the children. "She said you'd need more sky."
+"I know," said Yeva. "Tova sent us. She heard about the coast. At the Marshal's camp." She looked down at the Saltings. At the salt-villages on the flats, and the mud between them, and the children. "She said you'd need more sky."
 
 ---
 
@@ -221,7 +221,7 @@ Not all of them.
 
 Two pairs were too low.
 
-Ivo Brack, red-thread, from Skarrow, on his grey. And a grey-thread girl, Sunniva, seventeen, on her young red, the first year she'd flown the baskets. Low over the outer spit with twenty in each basket, coming in slow because they were heavy.
+Ivo Brack, red-thread, from Skarrow, on his grey. And a grey-thread girl, Sunniva, seventeen, on her young red, the first year she'd flown the baskets. Low over the outer spit, coming in slow with the last of the Saltings' old folk, nine between the two baskets, and still too low because the baskets were wet and heavy.
 
 The third swell came up under them.
 
@@ -329,7 +329,7 @@ And opened their mouths and cried.
 
 ---
 
-Not the sound at Coldtarn. Not the pour-sound, the long low one that went into the rock. This was high. Torn. A sound like something being pulled out of them. Every dragon on the coast, a hundred and more, crying the same cry at the same moment toward the empty south-western sea.
+Not the sound at Coldtarn. Not the pour-sound, the long low one that went into the rock. This was high. Torn. A sound like something being pulled out of them. Every dragon on the coast, near ninety of them, crying the same cry at the same moment toward the empty south-western sea.
 
 The rocs woke and screamed back.
 
@@ -357,7 +357,7 @@ It stopped.
 
 All at once, as it had started.
 
-A hundred dragons on the Saltreach coast closing their mouths, and putting their heads down, and standing very still, breathing.
+Ninety dragons on the Saltreach coast closing their mouths, and putting their heads down, and standing very still, breathing.
 
 Then going back to the baskets.
 

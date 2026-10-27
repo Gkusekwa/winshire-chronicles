@@ -92,7 +92,7 @@ The door opened.
 
 ---
 
-The fallen stone moved aside. From the doorway. Not falling. Not breaking. Moving. As the scree had moved for him once, at the crag's foot. Like water. The grey stone that had filled the doorway from the step to the lintel going back. Down. Aside. Into a broad slope going down from the door to the new shore.
+The fallen stone moved aside. From the doorway. As the scree had moved for him once, at the crag's foot. Like water. The grey stone that had filled the doorway from the step to the lintel going back. Down. Aside. Into a broad slope going down from the door to the new shore.
 
 The doorway open.
 
@@ -122,7 +122,7 @@ She'd counted them in. She knew how many. She sat on the fallen stone and watche
 
 The old first, because the young ones carried them. Out into the light, blinking. Ada in her shawl with her lantern, unlit, because she couldn't think what else to carry. Bel with her two. The Clan's families. The riders, and their dragons after them, small, quiet, squeezing out one at a time under the lintel and standing in the snow and looking round.
 
-Wynn and her hound. Osk and his wolf. A Warden with a lynx.
+Wynn and his hound. Osk and his wolf. A Warden with a lynx.
 
 The stonehorn calf, following its woman, bleating at the snow.
 
@@ -292,7 +292,7 @@ Not because he called them. Because he was by the fire and sitting down and old,
 
 "Somebody's got to," said Fisk. "To tell it after."
 
-He'd said that at the Eelweir. The spring before last. With a burnt stick on a board in front of him that the farmer had written on, that neither of them could read.
+He'd said that at the Eelweir. The summer before last. With a burnt stick on a board in front of him that the farmer had written on, that neither of them could read.
 
 He looked at the children.
 
@@ -386,7 +386,7 @@ Then went on.
 
 ---
 
-The farmer had written the last page of his. She'd seen it. In Davin's case, on top. In big square capitals, the size of a palm, each one. The only page of his own account he'd written all through.
+The farmer had written the last page of his. She'd seen it. In Davin's case, on top. In big square capitals, the size of a palm, each one. The last page of his account, in his own hand, as the first line had been.
 
 THE BOND WENT QUIET AT FIRST LIGHT. NOBODY DIED OF IT.
 
@@ -428,7 +428,7 @@ Nothing was, now.
 
 She looked round the fire.
 
-At Wynn, with her hand on Sorrow's head. At Osk with his wolf. At the riders with their dragons lying in the snow round the fire like dogs round a hearth, small and quiet, with their chins on their forefeet. At Arn by the water's edge with Ildra lying against his legs.
+At Wynn, with his hand on Sorrow's head. At Osk with his wolf. At the riders with their dragons lying in the snow round the fire like dogs round a hearth, small and quiet, with their chins on their forefeet. At Arn by the water's edge with Ildra lying against his legs.
 
 All of them looking at their people. With their own minds.
 
@@ -538,9 +538,7 @@ Fisk had stopped telling.
 
 She heard him stop. Mid-word. And the children turn.
 
-And the ring round the fire. All of them. Turning. Five hundred and fifty-five people, in the snow, turning their heads at once, toward the scree.
-
-As the beasts had turned toward the Lamp at the muster.
+And the ring round the fire. All of them. Turning. Five hundred and fifty-five people, in the snow, turning their heads at once, toward the scree, as the beasts had turned toward the Lamp at the muster.
 
 Looking at it.
 

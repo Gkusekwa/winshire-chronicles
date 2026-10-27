@@ -5,19 +5,19 @@ POV: Calder
 Part: Part Two: Salt
 Days: 112–118 (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): Blackwater; out over the Shatters
-Beats: Blackwater. The Council's Berths fleet is fitting out with the rich of Corsa aboard and **Jory Merrin** taken as its pilot under guard (20). Jory slips the guard and comes to Calder at the harbour mouth: Ostrey's own pilots have the Merrins' stolen charts and none of the road's sense, and the fleet will drown, passengers and all. Calder knows two things already: the Bell is on the road, and (from Kit's word, left with Brask) people who sleep on the far shore don't wake. Aurveth has started to wither under the call she's refusing. Why a dragon-rider needs a pilot at all: the Lit Shore can't be found from the air; you find it only by the drowned road's milestones, island by island, and only a Merrin reads them *(proposal)*. He **chooses** to go *(Calder's arc: from things happening to him to choosing)*, with Jory on Aurveth's back reading the stones, after the fleet and with the call. The coast goes to Arn. On day 118 they go out over the Shatters at the fleet's pace, low over its masts.
+Beats: Blackwater. The Council's Berths fleet is fitting out with the rich of Corsa aboard and **Jory Merrin** taken as its pilot under guard (20). Jory slips the guard and comes to Calder at the harbour mouth: Ostrey's own pilots have the Merrins' stolen charts and none of the road's sense, and the fleet will drown, passengers and all. Calder knows two things already: the Bell is on the road, and (from Kit's word, left with Brask) people who sleep on the far shore don't wake. Aurveth has started to wither under the call she's refusing. Why a dragon-rider needs a pilot at all: the Lit Shore can't be found from the air; you find it only by the drowned road's milestones, island by island, and only a Merrin reads them *(proposal)*. He **chooses** to go *(Calder's arc: from choosing for duty to choosing for himself)*, with Jory on Aurveth's back reading the stones, after the fleet and with the call. The coast goes to Arn. On day 118 they go out over the Shatters at the fleet's pace, low over its masts.
 Echo of another story: Wren's letter in his coat: "Bring back something from the end of the world."
 Status: first draft
 Draft notes: Days 112–118 (101–111 told back). Decided here (proposals):
 - **Told back**: d.101–110 Calder on the coast: Corsa's terrace, the Gullhaven families, the Wend's mouth; the Bell gone south over the Shatters (d.90); he flies to Blackwater on 112 to try to stop the Berths fleet sailing, because Lisska saw it fitting out.
 - **Aurveth withering**, since the pour (d.98): she eats little; her bronze has gone dull, like a pan left out; the plates along her spine stand a little proud as the flesh under them goes; she sleeps facing south-west; the wing that holds is weaker; **she's refusing the call and it's taking her**. Ivar Leck isn't there; Calder knows it anyway. *(Plant: Book 3 plan's "his withering dragon".)*
 - **The fleet** at Blackwater: **eleven ships** (house fast ships, refitted, with berths built in their holds) and **Rennick's three black ships** as escort for a Council fee; **five hundred and forty** passengers paid (the board at six hundred gold by the end); Ostrey's two pilots, **Master Quenby** and **Master Loy** (new), who've sailed the Saltings and the coast all their lives and never past the Shatters, with Hal Merrin's working charts from the sealed house (ch. 20). **Celia Ostrey** sails with it, and Aubrey Strand: the Council is leaving Saltreach for the Titan-free shore and will sit there.
-- **Brask** (*Coll Brask*, Book 1, Book 2; can't write): in Blackwater between contracts with what's left of a company; Kit came to him on the night of 93 and said it to him to say to the farmer if the farmer came: *Tell him the Berths are a grave. Nobody sleeps ashore over there and wakes. My great-grandfather's brother did, the first time. They left him on the sand with his eyes open. That's what the rule's for. I've not told the knight; she'll keep it anyway.* Brask says it to Calder word for word on 112, as he does everything: as a price, with the price waived.
+- **Brask** (*Coll Brask*, Book 1, Book 2; can't write): in Blackwater between contracts with what's left of a company; Kit came to him at dusk on 93 and said it to him to say to the farmer if the farmer came: *Tell him the Berths are a grave. Nobody sleeps ashore over there and wakes. My great-grandfather's brother did, the first time. They left him on the sand with his eyes open. That's what the rule's for. I've not told the knight; she'll keep it anyway.* Brask says it to Calder word for word on 112, as he does everything: as a price, with the price waived.
 - **Calder to the Council**, d.113, in the roofless boathouse: tells Celia Ostrey what Brask said; she listens, calm; "A reef-pilot's tale. A salvage family protecting its route." He says the Bell is on the road. "The Bell is south of the Shatters. The fleet goes south-west." The board stays up.
 - **Jory**, night 114: slips his guard on Ostrey's ship (two of Rennick's men asleep over dice) by going over the side and swimming the inlet's mouth in the dark to the rocks under the eastern headland where Calder is camped with the dragons (above the new-mended chain); comes up the rocks wet and shaking: Quenby and Loy have Hal's charts and none of the road's sense: they read the turns off paper and don't know which rocks move, which piers have fallen since, that you don't sail at night, the Needle at the top of the flood only; "They'll drown. All of them. The passengers. Everyone." And: "I'm the pilot. They'll take me back in the morning and make me. And I'll take them in as far as I can, and when it goes wrong it'll be my name."
-- **Why a pilot**: Lisska flew south-west on 115 as far as she dared and came back: open sea, piers far apart; past the first day she couldn't tell one way from another; no shore, no light by day; *it's not there from up here*; Jory: you find it by the stones, island by island; each pier's broken top is a shape, each milestone a number; the bearing changes at each; "Kit reads them with the book. I read them by eye."
+- **Why a pilot**: Lisska flew south-west on 115 as far as she dared and came back: open sea, piers far apart; past the first few stones she couldn't tell one way from another; no shore, no light by day; *it's not there from up here*; Jory: you find it by the stones, island by island; each pier's broken top is a shape, each milestone a number; the bearing changes at each; "Kit reads them with the book. I read them by eye."
 - **The choosing**, night 116, Blackwater's eastern headland, by the dragons: Aurveth facing south-west, thin; Calder thinks about the coast and the terrace and the forty pairs and Wren, and about Aurveth dying of a call he won't answer, and the fleet; he **chooses**: "I'll go. After the fleet. With you on her back." Jory: "On the old one?" "She's the one who wants to go." Aurveth, for the first time since the pour, lifts her head and looks at him.
-- **The coast to Arn**, d.117: Arn comes down on Ildra (his first long flight on her) with twenty pairs, on Calder's letter by Lisska; on the headland: "The coast's yours." "It's not mine." "It's not mine either." Arn gives him **Wren's letter** (Wren's own hand, big, crooked, two lines, the D's the right way round): *Papa. Bring back something from the end of the world. Wren.*
+- **The coast to Arn**, d.117: Arn comes down on Ildra (his first long flight on her) with twenty pairs, on Calder's letter by Kharrak (sent d.112); on the headland: "The coast's yours." "It's not mine." "It's not mine either." Arn gives him **Wren's letter** (Wren's own hand, big, crooked, two lines, the D's the right way round): *Papa. Bring back something from the end of the world. Wren.*
 - **D.118 dawn**: the fleet sails at the top of the flood out through the re-shackled chain (Jory back aboard under guard at dawn: he went back himself so they'd not search for him; plan: "with Jory on Aurveth's back": **at the first pier, two days out, Calder takes him off Ostrey's ship's deck** by Aurveth landing on the water beside her; Rennick lets it happen) *(proposal: changes the plan's "met in Blackwater" to taken off at sea; noted)*. The three go out over the Shatters low over the fleet's masts, at its pace.
 - Rennick on his black ship's deck, looking up at three dragons over his mast, raising his hand.
 Magic touches: none worked; the call (Aurveth withering under it, reviving when he chooses); dragons can't find the shore from the air.
@@ -107,7 +107,7 @@ On a shore where if you lay down and slept, you didn't get up.
 
 He went to the Council on the hundred-and-thirteenth.
 
-In the boathouse. On foot, with Kharrak on the roofless walls above, so that nobody would say he hadn't been heard. The sea-chests in their row. Celia Ostrey in her grey silk at the end of the row, in the Speaker's place.
+In the boathouse. On foot, with Lisska on the roofless walls above, so that nobody would say he hadn't been heard. The sea-chests in their row. Celia Ostrey in her grey silk at the end of the row, in the Speaker's place.
 
 He told her.
 
@@ -193,7 +193,7 @@ She came back at dusk. Tired. She'd flown a long way.
 
 "What isn't?"
 
-*Anything. From up here.* She lay down on the ledge by the fire. *Past the rocks there's just sea. Every way the same. The stones stick up out of it, far apart, and from high up they look like nothing, like birds' rocks, and from low down you can't see the next one.* She put her head down. *I couldn't tell one way from another after the first day. No shore. No light. Not by day. If I'd gone on I'd not have found the way back.*
+*Anything. From up here.* She lay down on the ledge by the fire. *Past the rocks there's just sea. Every way the same. The stones stick up out of it, far apart, and from high up they look like nothing, like birds' rocks, and from low down you can't see the next one.* She put her head down. *I couldn't tell one way from another after the first few stones. No shore. No light. Not by day. If I'd gone on I'd not have found the way back.*
 
 ---
 
@@ -239,9 +239,9 @@ She'd waited. She was dying of it.
 
 ---
 
-He'd let things happen to him all his life.
+He'd chosen before.
 
-The thought came to him plainly, by the fire, with the sea dark below. The war. The ford. The dragons themselves, three of them, in his head, not one of them asked for. The outlawry. The coast. He'd done what was in front of him, every time, and called it duty, and mostly it had been. He'd never once stood on a road with two ways off it and picked one because he wanted to.
+The thought came to him plainly, by the fire, with the sea dark below. For the village. For the coast. For whoever was drowning. He'd done what was in front of him, every time, and called it duty, and mostly it had been. He'd never once chosen a thing because he wanted it.
 
 He looked at the old one.
 
@@ -255,7 +255,7 @@ She didn't move.
 
 He felt her listening.
 
-"I'm choosing it," he said. "Not because it's happening to me. Because I want to."
+"I'm choosing it," he said. "Because I want to."
 
 ---
 
@@ -283,7 +283,7 @@ He was sitting up in Calder's coat, looking at Aurveth along the ledge as if he'
 
 Arn came on the hundred-and-seventeenth.
 
-On Ildra. Down out of the north over the black cliffs at noon, with twenty pairs behind him. Calder had sent Lisska to Varrhold with a letter on the hundred-and-fifteenth, before he'd chosen, in case. Arn had come the day it reached him.
+On Ildra. Down out of the north over the black cliffs at noon, with twenty pairs behind him. Calder had sent Kharrak to Varrhold with a letter on the hundred-and-twelfth, before he'd chosen, in case. Arn had come the day it reached him.
 
 He'd never seen Arn fly. Arn came down on the headland on the young dark dragon with her broken horn, and got off her stiffly, as a man gets off a horse after a long first day, and stood with his hand on her neck.
 
@@ -295,7 +295,7 @@ He'd never seen Arn fly. Arn came down on the headland on the young dark dragon 
 
 "It's not mine either," said Calder. "It's Brede's and Dorcas Kell's and Hessa Pane's and two thousand people's on a hill. Somebody has to fly over it."
 
-Arn looked at him a long time.
+Arn looked at him.
 
 "All right," he said.
 

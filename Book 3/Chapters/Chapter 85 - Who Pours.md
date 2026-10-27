@@ -169,9 +169,7 @@ She came back at noon.
 
 With a hare. White. In her jaws. She landed by him on the stone and put it down at his feet.
 
-And waited.
-
-As a dog waits. Looking at him. With her head on one side.
+And waited, as a dog waits. Looking at him. With her head on one side.
 
 ---
 
@@ -213,7 +211,7 @@ He got up.
 
 ---
 
-She flew where his weight leaned. Not where he asked. He didn't ask; he couldn't. Where he leaned. Down the beck. West. Out of the bowl.
+She flew where his weight leaned. He didn't ask; he couldn't. Where he leaned. Down the beck. West. Out of the bowl.
 
 It was like riding a horse. He'd ridden horses as a boy, before the bond. It was like that. You leaned and the beast went, because it trusted you, not because it heard you.
 
@@ -285,7 +283,7 @@ Nobody would sit in it again.
 
 On the way back he looked at the caves.
 
-Across Coldtarn's bowl, on its southern side. The hatching caves, where the farmer's family had lived, where his mother had stood in the mouth with a lantern lit in daylight, waving the overflow in.
+Across Coldtarn's bowl, on its southern side. The hatching caves, where the farmer's family had lived, where the farmer's mother had stood in the mouth with a lantern lit in daylight, waving the overflow in.
 
 The mouth had fallen in.
 
@@ -303,7 +301,7 @@ They poured on the three-hundred-and-twenty-eighth.
 
 ---
 
-Not on the pouring-stone. It was under the fall, with Aurveth. On the new shore. On the fallen stone at the black water's edge, where the mountain had come down into the tarn and made a new lip, grey, raw, under snow.
+The pouring-stone was under the fall, with Aurveth. They poured from the new shore. From the fallen stone at the black water's edge, where the mountain had come down into the tarn and made a new lip, grey, raw, under snow.
 
 At noon. In the snow. No wind.
 
@@ -321,7 +319,7 @@ The knight above them, on the fallen stone by the passage's mouth. Sitting.
 
 There were no ashes.
 
-Nothing to burn. Nothing to burn with. No fire had been lit since Liss's lamp went out; nobody had thought to. The dead were under the mountain, or in the tarn, or on a top field four leagues off, or on the Vale.
+Nothing to burn. Nothing to burn with. No fire had been lit since Liss's lamp went out; nobody had thought to. The dead were under the mountain, or in the tarn, or on a top field a long day's walk off, or on the Vale.
 
 No ashes.
 

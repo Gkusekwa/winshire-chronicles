@@ -9,12 +9,12 @@ Beats: Night in the camp. Corvin comes to Idony with a hand of Kessmoor iron and
 Echo of another story: The hub battery rehearsing: on the hour, the chains swing out.
 Status: first draft
 Draft notes: Day 276 (midwinter) and 277. Decided here (proposals):
-- **Midwinter night**: the camp keeps the long night with fires on both walls, end to end, two lines of fire across the Vale (the Hearthmere custom; the clans and Sarovel join it); Idony in **his old room at Liss's ferry house** (the small back room off the kitchen where he lived in Book 2's last weeks), Davin asleep in the loft, Liss at the clans' fire.
+- **Midwinter night**: the camp keeps the long night with fires on both walls, end to end, two lines of fire across the Vale (the Hearthmere custom; the clans and Sarovel join it); Idony in **the back room Liss gave him in her new ferry house above the eddy** (the small back room off the kitchen; the shelf and the cot came up on her scow from the cracked house under Greyhold, where he lived in Book 2's last weeks), Davin asleep in the loft, Liss at the clans' fire.
 - **Corvin** at the third hour of the night: comes in from the kitchen, quietly, a man in a plain grey Kessmoor drover's coat, hood down; long pale face, short dark hair, grey eyes; thinner; the left forearm stiff (the hound's bite); **the right hand is iron**: a Kessmoor hand, black, jointed at every knuckle with fine pins, the fingers moving on brass tendons from a cuff strapped to the forearm above the stone-sealed wrist; **on the back of it, small, the Assembly's maker's stamp half filed off** (a ring and a rule: Idony sees it by the lamp). He carries **the long case** (the oldest roll) under his arm.
 - **The ask**: the chain-word for *tighten*: "the third curve. You turned it. I know you did. The hound told me." He's worked at it a year; he thinks he has it; **he draws it on the table in spilled water with an iron finger**; "Tell me if it's right." Idony looks: **it's still wrong** (he has turned a different curve, the fourth; the third still faces the way Idony taught it). Idony says nothing about it.
 - **The argument**: Corvin: chains made it a destroyer; there's chaining it or commanding it; "I'm offering it a hand on its neck instead." **Idony: "You never asked it what it wanted."** (On the ship Corvin said he wanted to ask it whether it remembered being asked; he never did.) Corvin: "It wants everything down." Idony: "Yes. Now. Because of what we did. Because of the chains, as you say. And you'd put another hand on its neck." Corvin: "A better hand." "There aren't any." **Idony refuses**: "No." Corvin: "Then you'll have to be there to say it. All of it. Yourself." (echo of Book 2 ch. 71) "I'll be there," says Idony. "I won't say it." Corvin goes out by the kitchen. **He doesn't say who he works for; he doesn't say *Kessmoor***; when Idony asks where he's been: "Measuring."
 - **Rowan** (woken by Davin at the fourth hour): the camp hunted all night: the walls' fires, the pontoon, the ferry, the batteries; **nothing**. A man in a grey drover's coat in a camp of ninety-eight thousand.
-- **The hand**: d.277 at the council in Liss's hay-barn Idony reports it: a Kessmoor hand, Assembly work, the stamp filed; "I'd know their pinning anywhere; I've repaired their glasses for forty years." **Pike, at once and kindly**: "Of course it is, Master Vael. We make the best hands in Winshire. We sell them on Gallows Quay to anyone with the silver: sailors, smiths, the Bench's captains. Half the one-handed men in Saltreach wear one of ours. A one-handed outlaw would buy the best." She takes off her spectacles. "I'm sorry he frightened you." **Rowan accepts it.** She orders double watches on the ferry house. Idony doesn't argue; he's an old man who was frightened in the night.
+- **The hand**: d.277 at the council in Liss's hay-barn Idony reports it: a Kessmoor hand, Assembly work, the stamp filed; "I'd know their pinning anywhere; I've repaired their glasses half my life." **Pike, at once and kindly**: "Of course it is, Master Vael. We make the best hands in Winshire. We sell them on Gallows Quay to anyone with the silver: sailors, smiths, the Bench's captains. Half the one-handed men in Saltreach wear one of ours. A one-handed outlaw would buy the best." She takes off her spectacles. "I'm sorry he frightened you." **Rowan accepts it.** She orders double watches on the ferry house. Idony doesn't argue; he's an old man who was frightened in the night.
 - **Echo, d.277 at noon**: from the ferry house window Idony watches **Kessmoor's battery crews rehearse on the Ferry Flat**: on the stroke of the hour by their watches (set by the Hall of Measures' clock), practice chain-lengths on the six jib-posts swing out over the eddy together, hang, and swing back; "like the hands of a clock". (The Bridle itself not yet come.)
 Magic touches: the iron hand; a chain-word drawn in spilled water; the wrong stroke kept.
 notes -->
@@ -31,13 +31,13 @@ So the camp lit fires along the tops of both of them. End to end. From the downs
 
 The clans joined in. Sarovel joined in. Even Kessmoor's battery crews lit a brazier on the Ferry Flat.
 
-He watched it from the ferry house window. It was the most beautiful thing he'd seen since the Lit Shore.
+He watched it from the ferry house window.
 
 ---
 
-He had his old room.
+He had his own room again.
 
-Liss had kept it for him. The small back room off the kitchen, with the shelf and the cot and the window onto the eddy, where he'd lived in the last weeks before the six went up. Where he'd sat with a burned-out head and watched his hands shake and dictated his readings to Liss because he couldn't hold a pen.
+Liss had given it him in the new house, when she brought her scow and her rope up the river in the autumn. The small back room off the kitchen, with the window onto the eddy. The shelf and the cot had come up on the scow from the cracked house under Greyhold. He'd sat on that cot with a burned-out head and watched his hands shake and dictated his readings to Liss because he couldn't hold a pen.
 
 His glasses were on the shelf again. Eight of them. In a row.
 
@@ -143,13 +143,11 @@ He'd found the wrong stroke. And put it in the wrong curve.
 
 Idony looked at the word drying on the table.
 
-He didn't say anything.
-
 ---
 
 Corvin waited.
 
-Then he looked at Idony's face for a long time.
+Then he looked at Idony's face.
 
 "You won't," he said.
 
@@ -287,7 +285,7 @@ He told it.
 
 The barn went quiet.
 
-"I'd know your pinning anywhere," said Idony. "I've mended Kessmoor glasses for forty years. The knuckles. The brass. The way the cuff takes the strap." He held his own shaking hand up. "And a stamp on the back. Half filed off. A ring and a rule."
+"I'd know your pinning anywhere," said Idony. "I've mended Kessmoor glasses half my life. The knuckles. The brass. The way the cuff takes the strap." He held his own shaking hand up. "And a stamp on the back. Half filed off. A ring and a rule."
 
 ---
 
@@ -299,7 +297,7 @@ That was the thing he'd remember, after. She didn't need a breath. She took her 
 
 ---
 
-"We make the best hands in Winshire," said Pike. "We have for fifty years. Since the Scald. There were a great many men in Kessmoor with one hand after the Scald." She folded her spectacles. "And we sell them. On Gallows Quay, through the Bench's factors. To anyone with the silver. Sailors. Smiths. Half the captains on the Bench have one of ours under their glove, Master Rennick will tell you."
+"We make the best hands in Winshire," said Pike. "We have for forty years. Since the Scald. There were a great many men in Kessmoor with one hand after the Scald." She folded her spectacles. "And we sell them. On Gallows Quay, through the Bench's factors. To anyone with the silver. Sailors. Smiths. Half the captains on the Bench have one of ours under their glove, Master Rennick will tell you."
 
 Rennick held up his left hand, gloved, and wiggled the fingers, and grinned.
 

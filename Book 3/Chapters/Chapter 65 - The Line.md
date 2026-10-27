@@ -13,7 +13,7 @@ Draft notes: Day 318. Decided here (proposals):
 - **The ward on the Hearthmere bank**: the Last Titan walks along it from the bend toward the river all morning, its head on it; where it touches the ward goes white; **the voices under it**: when the white comes near a stretch of the line the people under it say the words again, and again, and it holds; Rowan learns to ride ahead of the white and start the words.
 - **The olifants**: as the Last Titan comes along the ward toward the Sarovel sector, the sixty olifants **stand as walls in a double row behind the wall's top**, trunks curled, eyes shut, and don't move even when the ward goes white a spear's length over their heads; Mattias's unchosen behind them on the white steeds, which shy and are held.
 - **The greyharts at the bend**: the Furnace's push heaves the ground at the bend (the stone lions in the wall's face hold it, 64); a stretch of the line behind the bend breaks at the fourth hour (a gully opening, steam, militia falling back); **the greyharts carry the knights** along the bank where the line bends back to the river, three hundred at a gallop on the wall's top and its foot, to the break; Wynn and Ash and Sorrow first; they hold it.
-- **The beast-flood** (seen from the wall across the river, through the Saltreach ward): at noon out of the north down the Saltreach bank, driven by the Coil's cold, **a flood of maddened beasts** from the dead Wyldmarch and the upper country: elk, deer, wild cattle, boar, wolves gone wrong, white-eyed, thousands, running south at the Wyldmarch's river end; **the stonehorns** (ten thousand, the clans' herd-men on the leaders) turn into it in a wedge and **break the charge**, plated heads down; the flood splits round them and goes east into the scrub.
+- **The beast-flood** (seen from the wall across the river, through the Saltreach ward): before noon out of the north down the Saltreach bank, driven by the Coil's cold, **a flood of maddened beasts** from the dead Wyldmarch and the upper country: elk, deer, wild cattle, boar, wolves gone wrong, white-eyed, thousands, running south at the Wyldmarch's river end; **the stonehorns** (ten thousand, the clans' herd-men on the leaders) turn into it in a wedge and **break the charge**, plated heads down; the flood splits round them and goes east into the scrub.
 - **The Furnace**: the fourth hour after noon, **it comes up under the batteries**: the Ferry Flat's western edge heaves and splits by the magazine, glass-hot rock, a plated head like an ironback's the size of a barn, molten at the seams, the Kessmoor chain still hanging off it from the Scald; **the chilled-chain engines** throw their chains (Kessmoor iron run through ice-water tanks from the eddy: the chains steam) round its neck and forelegs; they hold; it drags toward the Bridle's engines; **Kessmoor's crews fight for the Bridle** like men for their own house; the Bridle stays banked, **unfired**; Rowan rides down onto the Flat; **the Lady** comes down out of the northern channel and up out of the eddy at the Flat's edge, winds round the Furnace and **pulls it into the Wend**; **quenched like iron at the forge**: a column of steam a league high, a scream of metal cooling, the river boiling grey; the plated thing goes black and cracks and lies in the eddy's edge, dead. **The first destroyer of the battle killed.** The line cheers.
 - **The Last Titan lifts its head** on the Hearthmere side as the Furnace dies; Rowan sees it; she remembers Idony's logs (*every one we kill, he eats*) and doesn't say it; she can't not have killed it.
 - **The Bridle unfired**: she rides past it at dusk on the Flat: its engines banked, its chains on the jibs, untouched; the crews at their braziers; **she's glad of it**.
@@ -44,7 +44,7 @@ So she rode it.
 
 The Last Titan walked along the ward all morning.
 
-She watched it from the wall's top. Three hundred paces off, on the other side of the shimmer. A hill, walking. Its great grey head against the ward's face, low, and the ward going white where it touched, in a patch the size of a field. Moving north. Toward the river. A pace at a time.
+She watched it from the wall's top. Three hundred paces off, on the other side of the shimmer. A hill, walking. Its great grey head against the ward's face, low, and the ward going white where it touched, in a patch the size of a field. Moving east. Toward the river. A pace at a time.
 
 It wasn't hurrying. That was the worst of it. It walked along the ward as a man walks along a fence looking for the gate.
 
@@ -110,7 +110,7 @@ The unchosen said it louder. *Keep the watch.* Sarovel's accent, high, ragged, a
 
 The ward lifted.
 
-The white went on. Past them. North. Toward the river.
+The white went on. Past them. East. Toward the river.
 
 ---
 
@@ -146,7 +146,7 @@ And they went.
 
 Along the bank. On the wall's top and at its foot. Three hundred greyharts at a gallop, grey, long-legged, white-blazed, the knights on them low, the hounds running beside. Along the line where it bent back toward the river. To the gap.
 
-Wynn first. On her grey. With Ash and Sorrow running at her knee, the two great hounds, their tongues out.
+Wynn first. On his grey. With Ash and Sorrow running at his knee, the two great hounds, their tongues out.
 
 ---
 
@@ -162,9 +162,9 @@ The ward over them held.
 
 ---
 
-At noon she'd seen the beast-flood.
+Before noon she'd seen the beast-flood.
 
-Across the river. Through the shimmer of the Saltreach ward, from the wall's top at the river end. She'd seen it come and couldn't do anything about it but watch.
+Across the river. Through the shimmer of the Saltreach ward, from the wall's top near the river end. She'd seen it come and couldn't do anything about it but watch.
 
 ---
 
@@ -274,7 +274,7 @@ The rest didn't stop.
 
 She rode down off the wall onto the Flat.
 
-She didn't know why. There was nothing she could do. She had a dark sword and a greyhart. She rode down anyway, to the Bridle's edge, and sat there, and the greyhart stood under her shaking, and she watched the Furnace drag the chains toward the engines.
+There was nothing she could do. She had a dark sword and a greyhart. She rode down anyway, to the Bridle's edge, and sat there, and the greyhart stood under her shaking, and she watched the Furnace drag the chains toward the engines.
 
 And looked at the Bridle.
 

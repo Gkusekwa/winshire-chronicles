@@ -18,7 +18,7 @@ Draft notes: Days 70–82. Decided here (proposals):
 - **Gorm Askell's ledgers**, d.78 morning: he brings all of them, a barrow of books, and reads the count he sat up all night making: since Varrhold's pens were built, **one thousand one hundred and forty** dragons bred and kept; **two hundred and twelve** chose a rider in their lives; **the rest lived and died in the pens**. "It's on the books. All of it. The riders wanted it said." He says it to Bjarke.
 - **Gunna backs him**, on the pen rail with her clay pipe: Tamsin chose her on a ledge when Gunna was twelve, out of a wild clutch off the high crags, never penned; "You can't keep a thing and expect it to choose you. I'd not choose you either, Bjarke, and I've known you since you were born."
 - **The opening**, dawn 79: Leir draws the first bar himself and weeps; keepers at every gate; the dragons don't come out; then Ildra goes down the stair and stands in the open gate of the first pen and makes the sound Wren taught her back (the kettle-chirr, Book 2 ch. 62); a young grey comes out, then others; by noon the pens are empty; by dusk **about forty gone**, east and north over the moor, and the rest on the ledges and crags round the hold, and some, the old ones, back inside the open pens because that's where they sleep. **The bars burned** that night in the yard, the oak; Arn watches. The rule, said once in the hall and written by Gorm: *Any dragon that flies with the Clan flies by choice.*
-- **Echo**, d.81: a red-thread pair down from the coast for harness (Ulric's): the hulk lift done at Corsa for one copper; and **the farmer's three restless, all three turning their heads south-west at the same hour, the old one at Harrow's End too, sixty leagues off**; that night Ildra turns her head south-west on the Roosts for a long time, and Arn feels it in her as a pull, faint.
+- **Echo**, d.81: a red-thread pair down from the coast for harness (Ulric's): the hulk lift done at Corsa for one copper; and **the farmer's three restless, all three turning their heads south-west at the same hour, the old one at Harrow's End too, a hundred and twenty leagues off**; that night Ildra turns her head south-west on the Roosts for a long time, and Arn feels it in her as a pull, faint.
 - **The chair**: still empty under its blanket at the end. Arn hasn't sat in it.
 Magic touches: a true bond formed (beast's choice; mind-speech; one life between two); a freed bound beast's voice; dragons' far-sense of the call (plant for 22).
 notes -->
@@ -53,7 +53,7 @@ On the seventy-first day a young red broke its wing.
 
 In the dark. Against the bars. A two-year-old, not named. Gorm Askell's books had it as a number. It had beaten itself against the bars of the eleventh pen all night and in the morning it was lying in the straw with its left wing bent the wrong way at the second joint and the bone through the skin.
 
-Leir looked at it a long time.
+Leir looked at it.
 
 Then he went for the knife. The keepers' long knife, that hung in the pen-house for this.
 
@@ -187,7 +187,7 @@ She wasn't crying. He'd thought she might. She stood with her plait over her sho
 
 "She says she will," said Arn.
 
-Wren looked at Ildra a long time. Then she nodded. Once. As if she'd been told the terms of something, and they were fair.
+Wren looked at Ildra. Then she nodded. Once. As if she'd been told the terms of something, and they were fair.
 
 "Good," she said.
 
@@ -269,7 +269,7 @@ Gorm Askell looked at Arn, sourly, as he'd looked at him every day of his life.
 
 Gunna backed him at the pens.
 
-She was on the rail when he came down. Where she always was. Half her face scar since the Roosts, one arm stiff from the shoulder, her clay pipe in her teeth. Tamsin below her, old and dun-gold and slow, with her ruined wing folded.
+She was on the rail when he came down. Where she always was. Half her face scar since the Roosts, one arm stiff from the shoulder, her clay pipe in her teeth. Tamsin below her, old and grey-green and slow, with her ruined wing folded.
 
 The riders had followed him down. Red and grey. Standing on the stair, watching.
 
@@ -377,7 +377,7 @@ The hall laughed. Even Bjarke.
 
 "Wrong how?"
 
-"Restless," she said. "All three. The big red and the green at Corsa. And the old one at his farm, at Harrow's End: the farmer's mother's man who keeps her sent word." She looked at the fire. "The same hour. Sixty leagues apart. They all turned their heads the same way, at the same hour, and they won't put them down."
+"Restless," she said. "All three. The big red and the green at Corsa. And the old one at his farm, at Harrow's End: the farmer's mother's man who keeps her sent word." She looked at the fire. "The same hour. A hundred and twenty leagues apart. They all turned their heads the same way, at the same hour, and they won't put them down."
 
 "Which way?"
 

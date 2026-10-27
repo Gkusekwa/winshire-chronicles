@@ -33,7 +33,7 @@ They paid to go over it.
 
 He went to see how.
 
-On the sixty-seventh, the day after he got back from Ironhythe. He went down to the eastern tower on foot and stood outside its window with the ship-masters, in the queue, and watched.
+On the sixty-seventh, the day he got back from Ironhythe. He went down to the eastern tower on foot and stood outside its window with the ship-masters, in the queue, and watched.
 
 A window in the tower's foot, with an iron grille. Behind it, a clerk with a book. Behind the clerk, through a door, the winch-house: a great wooden capstan with twelve men on its bars, and the chain coming in through a slot in the wall and going round the drum. New iron on the drum. Gearmouth iron, a ship-master told him, after the gale, when the old drum split and the green dragon held the chain up.
 
@@ -219,7 +219,7 @@ She said it before he could. She'd been waiting to.
 
 "One copper," said Calder. "For the clearing of the low harbour. Same terms as mine. Signed by the Speaker under the odd-jobs rule." He kept his hand out. "Your wyverns are small and quick. I need lines carried under the keels. Before the big ones lift."
 
-She looked at the copper in his palm for a long time.
+She looked at the copper in his palm.
 
 Then she looked at the board on the post.
 

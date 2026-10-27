@@ -9,7 +9,7 @@ Beats: At sea: milestones on the Shatters, the old road's broken piers turned in
 Echo of another story: Nothing. Beyond kin-range, for the first time since the bond, Maren hears no other beast through Orrun.
 Status: first draft
 Draft notes: Days 95–114. Decided here (proposals):
-- **The road's shape**: out of the Shatters' reef-maze by the book's turns (95–96); **d.97 the first pier, *into the light, forty-one***: a square column of old grey stone standing up out of open sea, broken off at twice a mast's height, birds white on it, a milestone on its top; then a pier every half-day to a day, south-west, island to island, each with its stone; the sea between deep and blue-black and empty; the swell long; Kit sails from pier to pier by the book's bearings and the shape of each pier's broken top.
+- **The road's shape**: out of the Shatters' reef-maze by the book's turns (95–96); **d.97 the first pier, *into the light, forty-one***: a square column of old grey stone standing up out of open sea, broken off at twice a mast's height, birds white on it, a milestone on its top; then two or three piers a day, south-west, island to island, each with its stone; the sea between deep and blue-black and empty; the swell long; Kit sails from pier to pier by the book's bearings and the shape of each pier's broken top.
 - **Idony** reads every milestone aloud from the deck through Kit's glass; the count goes down: *forty, thirty-nine...*; he's never once wrong about the number before Kit finds it in the book.
 - **The ferry families**, d.100: Idony's grandmother kept the ferry across **Glasswater** under Vael's towers (Atlas), a flat-bottomed scow on a rope like Liss's, three generations; he and Kit talk freight rates for an hour on the afterdeck (per head, per beast, per hundredweight; what a ferry charges a Warden; how a rope wears) while Maren listens and doesn't follow half of it; Kit laughs once, out loud, the first time since Blackwater.
 - **The Bell**, d.104: a league off to the east, a long low black shape like a reef where the chart has none, moving south-west, the water piling white along it, the bell ringing faintly every stride under the water; it's on the road too; it passes ahead of them and out of sight; Kit: "It's going the same way." Idony: "It slept on this road. Its temple was on it." (The road ran past the Drowned Bell's temple, plan; *note for the author*: the atlas has the Bell's reef ~25 leagues off Gullhaven, the prose 2.)
@@ -25,7 +25,7 @@ notes -->
 
 The first pier came on the ninety-seventh.
 
-Out of open sea. They'd left the Shatters' reefs behind them in the night: the last tooth of rock gone astern at moonrise, the water going from white and broken to long and dark and smooth. Blue-black. Deep. Kit had sounded and found no bottom. Nobody had found a bottom out here, she said. Not even her father.
+Out of open sea. They'd left the Shatters' reefs behind them the evening before: the last tooth of rock gone astern at sunset, the water going from white and broken to long and dark and smooth. Blue-black. Deep. Kit had sounded and found no bottom. Nobody had found a bottom out here, she said. Not even her father.
 
 And at noon, ahead, standing up out of the sea, a column.
 
@@ -47,7 +47,7 @@ Kit looked at the book. At Abram's first page. She didn't say anything. She didn
 
 They went on.
 
-South-west. Pier to pier. Every half-day, or every day, a column out of the sea ahead. The same square grey stone. Broken at different heights. Some no taller than the ketch's rail, the swell washing over their tops. Some taller than any tower she'd ever seen, with the birds going round them in white wheels. Each with its milestone.
+South-west. Pier to pier. Two in a day, sometimes three, a column out of the sea ahead. The same square grey stone. Broken at different heights. Some no taller than the ketch's rail, the swell washing over their tops. Some taller than any tower she'd ever seen, with the birds going round them in white wheels. Each with its milestone.
 
 Each one counting.
 
@@ -75,7 +75,7 @@ She understood it on the third day, standing at the rail with her coat fastened 
 
 The world had split. The land had gone down. The road had gone down with it.
 
-The piers were what was left. Standing up out of the sea where the road had been, a day apart, saying how far.
+The piers were what was left. Standing up out of the sea where the road had been, half a day apart or less, saying how far.
 
 *Into the light.*
 
@@ -217,7 +217,7 @@ And under the water, so faint she felt it in the deck more than heard it, every 
 
 Kit came up beside her.
 
-She'd been asleep. She came up from the cabin with her coat half on and stood at the rail and watched it, and didn't say anything for a long time.
+She'd been asleep. She came up from the cabin with her coat half on and stood at the rail and watched it.
 
 "It's going the same way," she said at last.
 
@@ -257,7 +257,7 @@ Kit went below.
 
 She came back with the dish. The chipped clay dish, with the coarse grey salt in it.
 
-She stood at the rail with it. She didn't say anything. She took a pinch of the salt between her finger and thumb, and held it a moment over the water. Then she let it go.
+She stood at the rail with it. She took a pinch of the salt between her finger and thumb, and held it a moment over the water. Then she let it go.
 
 It went into the sea at the pier's foot. White. Then nothing.
 
@@ -277,7 +277,7 @@ Then Kit took the dish below, and came back up, and took the tiller from Ferris.
 
 *There's nobody,* said Orrun.
 
-The ninety-eighth day. The first day past the first pier. She'd been lying on the ballast in the night, and it had come to her slowly what was wrong. Not wrong. Missing.
+The ninety-eighth day. The first day past the first pier. She'd been lying on the ballast in the night, and it had come to her slowly that something was missing.
 
 All her life since the bond, since the river, there'd been something at the edge. Through Orrun. Faint. Always there. Other beasts. The hounds in Greyhold's kennels. The horses in the Long Barn. Later, the stonehorns, the wolves, the farm cats in the Marches, a fox. Lisska, when she was near. Kharrak, like a fire in the next room. Aurveth, deep and slow, like a well. Never words. Just the edge of other minds, there, as a room has other people in it even when nobody's speaking.
 

@@ -374,7 +374,7 @@ Toward the sea.
 
 He opened his eyes. They didn't bleed this time. She'd not gone as close.
 
-*The one with the bell has left the others. It turned away from them three days ago, Aurveth says. I asked her as I came over. It's going south.* She lifted her head off the copper and looked at him. *To its water. Like she said.*
+*The one with the bell has left the others. It turned away from them three days ago, Aurveth says. I went round by the farm and asked her. It's going south.* She lifted her head off the copper and looked at him. *To its water. Like she said.*
 
 "Where?"
 
@@ -390,4 +390,4 @@ The quays were empty. The docks had gone home.
 
 On the wyvern quay at the harbour's end, a woman on a barrel was mending a strap by a lantern, and beside her a board on a post said *For hire. Any contract*.
 
-He looked at it for a long time.
+He looked at it until it was too dark to read.

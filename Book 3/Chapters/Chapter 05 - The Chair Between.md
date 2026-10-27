@@ -318,7 +318,7 @@ From the grey table. Not loudly. He didn't look at Arn when he said it. He looke
 
 He did know it.
 
-That was the trouble. He knew it as surely as he knew what was under the cloth without lifting it. Teo would have gone. Teo would have laughed at the riders on the steps and gone down into the yard and put his arm round the farmer's neck and said *Well, what are we waiting for,* and gone. Teo had been like that at sixteen with a green dragon nobody else could handle. Teo had been like that at the ford.
+That was the trouble. He knew it as surely as he knew what was under the cloth without lifting it. Teo would have gone. Teo would have laughed at the riders on the steps and gone down into the yard and put his arm round the farmer's neck and said *Well, what are we waiting for,* and gone. Teo had been like that at sixteen, throwing apples at a green dragon nobody else dared go near. Teo had been like that at the ford.
 
 Teo was ash in the black water.
 
@@ -350,7 +350,7 @@ The farmer looked up the hall at him. At the bench. At the chair beside it under
 
 They went at dusk on the tenth day.
 
-Off the Roosts. Forty pairs, red thread and grey, mixed, as they'd flown at Gullhaven. The farmer's three among them, the old one slow at the back with the red one off her crooked side. Ulric at the front on his grey, with the white scar through his eyebrow, not looking back.
+Off the Roosts. Forty pairs, red thread and grey, mixed, as they'd flown at Gullhaven. The farmer's three among them, the old one slow at the back with the red one off her crooked side. Ulric at the front behind Sigge Brack on Sigge's grey, with the white scar through his eyebrow, not looking back.
 
 Arn stood on the high ledge and watched them go.
 

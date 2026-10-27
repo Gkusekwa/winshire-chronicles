@@ -12,7 +12,8 @@ Draft notes: Days 142–143. Decided here (proposals):
 - **The asking**, afternoon 142: Calder asks, cracked, with Maren's hand in his: can they put the six to sleep again. **The Lamp writes** (its script white-gold, harder to look at than the Mother's); Idony reads: ***No.*** / ***The houses are broken.*** (the temples) / ***The stones are in the last one's back.*** (the relics) / ***The sleeping cost us what we were. We have nothing left to pay with.***
 - **What they can do**, dusk 142: ***Two of us will take a shape again and stand with you.*** (the Lamp; the Lady) / ***Two of us will give what is left, and go out.*** (the Mother: *to the lion*; the Wayfarer: *to the three*). Calder feels Aurveth hear it; Maren feels Orrun.
 - **They let go of each other's hands** at dusk when the light rests; it fades at once; they sit on the pool's edge apart, a pace between them.
-- **The talk**, night 142, by the pool with the elders' light low and Idony asleep in his blanket for once (an hour) and Gannet at the columns: his letter's nine lines (Book 2 ch. 51): she read it three times, twice so as not to laugh; **fathers**: his paid the Clan's dues every year and kept his head down and died in his bed, and he'd thought that was the best a man could do; hers died when his hound died, one life between two; she was fourteen; **Senna**: fever, five years ago (six now), Wren four; no bond and it felt like one; **one life between four**: "a house with the doors open"; she: "One life between two is a house with one door, and someone always standing in it." **Her fear**: the Mother's gift will make Orrun what his kin is: a Titan, the size of a hill, and she's afraid he'll become the thing under Greyhold; "I've seen what they are." **His fear**: Aurveth will die: she's old, the gift's for the three, she's waited all her life for this and he thinks it's the last thing she's waiting for. Neither comforts the other. They say what they're afraid of and leave it there.
+- **The talk**, night 142, by the pool with the elders' light low and Idony asleep in his blanket for once (an hour) and Gannet at the columns: his letter's nine lines (Book 2 ch. 51): she read it three times, twice so as not to laugh; **fathers**: his paid the Clan's dues every year and kept his head down and died in his bed, and he'd thought that was the best a man could do; hers died when his hound died, one life between two; she was fourteen; **Senna**: fever, nearly seven years ago now, Wren four; no bond and it felt like one; **one life between four**: "a house with the doors open"; she: "One life between two is a house with one door, and someone always standing in it." **Her fear**: the Mother's gift will make Orrun what his kin is: a Titan, the size of a hill, and she's afraid he'll become the thing under Greyhold; "I've seen what they are." **His fear**: Aurveth will die: she's old, the gift's for the three, she's waited all her life for this and he thinks it's the last thing she's waiting for. Neither comforts the other. They say what they're afraid of and leave it there.
+- **The rest of the night** (expansion, 27 Oct 2026): what the beasts are about to become and what it costs; oblique, talking past each other, nothing romantic. Maren has paced the Mother (412; 410 the first time, "she'd moved her tail") and Orrun (38). Calder's father's byre, built for four, and the fifth heifer left in the yard all winter: "You can't keep a beast in a place it's outgrown." Maren: on the ketch Orrun lay on the ballast under the forehatch so she could reach down to him, twenty-nine nights; "Nobody puts a hand down a hatch to a hill." Calder: "Rain after a dry month comes all at once." / "That's no help." **The mill**: it came in through him, all three; three days in the stubble; Ada says he kept asking where Bramble was; the Wayfarer's *because you have room*, "as if I were a barn"; Maren: "Then it'll come through you." (Plant for 39's "He'd known it would.") Her hand moves toward the dead arm and stops; she doesn't apply it to herself aloud (37 is where she understands). **"Four things it's had off me. Since the spring."** He can see three. "I don't know what I'll stop at." Wren's letter (*Bring back something from the end of the world*): he'd thought she meant a shell. Idony wakes when his hour is up: "What have I missed?" "Barns."
 - **Her mouth**: he asks; "It's paid." He doesn't ask by whom; he knows.
 - **The plan**, morning 143, the Lamp writing: ***There is one stone over the six.*** (the control relic) / ***We made it. Only one of us can hold it.*** / ***If one of us takes it out of the last one's back, the six will hear.*** / ***They will come into the light with the one who holds it.*** / ***They will stop, as we stopped.*** Idony reads it twice. The Lamp: ***I will carry it.***
 - **How it's taken** isn't said here (ch. 36: *it answers a breath that is unbound*).
@@ -94,7 +95,7 @@ Calder felt Aurveth hear it.
 
 Outside the western columns, on the grass, where she lay. He felt it go into her through the bond like a stone into a well. Down. And down. A long way. And at the bottom, something.
 
-Not fear. He knew her fear. This wasn't it.
+He knew her fear. This was something else.
 
 She was very still.
 
@@ -160,7 +161,7 @@ She was quiet.
 
 He'd never said it to anyone who didn't know her. He said it to the water.
 
-"Six years ago. Wren was four. She was ill nine days and then she wasn't. There was no bond." He stopped. "It felt like there was. It felt like half of me went with her. I kept waking up and reaching for the other half."
+"Seven years ago. Wren was four. She was ill nine days and then she wasn't. There was no bond." He stopped. "It felt like there was. It felt like half of me went with her. I kept waking up and reaching for the other half."
 
 Maren didn't say anything.
 
@@ -258,6 +259,100 @@ They'd each said the thing. They left it there, on the stone between them, in th
 
 ---
 
+The night went on.
+
+He'd sat up with ewes on nights like it. Nothing to be done but be there. The dark not moving, and the breathing.
+
+Outside the western columns Kharrak lay along the grass with one eye open on the Lamp. He didn't like it. He didn't like anything brighter than his own fire. Lisska was on her broken column with her head under her wing. Aurveth lay with her chin on the ground and her eyes on the south-west, toward the crossroads, a day off. She didn't close them. He could feel her not closing them.
+
+---
+
+"How long is she?" he said.
+
+Maren looked at the great grey head on the paving. At the rest of her beyond the columns, a ridge lying along the ridge.
+
+"Four hundred and twelve paces," said Maren. "Nose to tail. I walked it on the hill."
+
+"You walked a god."
+
+"Twice. I got four hundred and ten the first time. She'd moved her tail." She looked at the lion against his mother's jaw. "He's thirty-eight."
+
+He didn't ask when she'd walked Orrun. He thought she probably walked him most days.
+
+---
+
+He thought about his father's byre.
+
+Built for four cows. Dry-stone, turf-roofed, with a door you went through bent. One spring there'd been a fifth, a red heifer bought cheap at Cotter's Cross, and his father wouldn't knock a wall through for her. She'd stood in the yard all that winter with her back to the weather and the snow on her, and every morning his father had gone out and looked at the wall as if it might have moved in the night.
+
+"You can't keep a beast in a place it's outgrown," he said.
+
+"He's never been kept anywhere," said Maren.
+
+"That's not what I meant."
+
+"I know what you meant." She was quiet. "On the ketch he lay on the ballast with his head under the forehatch, so I could put my hand down through it and reach him. Every night. Twenty-nine nights." Her right hand was flat on the pool's edge, on the stone. "Nobody puts a hand down a hatch to a hill."
+
+He didn't have anything to say to that. He said something anyway.
+
+"Rain after a dry month comes all at once," he said. "Flattens what you waited on."
+
+She looked at him.
+
+"That's no help," said Calder.
+
+"No," said Maren.
+
+---
+
+"It came through me," he said. "At the mill."
+
+He hadn't meant to say it. It was the thing under the other thing.
+
+"Three of them dying. All in an afternoon. It came in through me, all three, and I lay three days in the stubble and couldn't have told you my own name. Ada says I kept asking her where Bramble was." He turned his scarred hands over on his knees. "At the crossroads I asked the old thing why me. It said *because you have room.*" He looked at the dark between the columns. "As if I were a barn."
+
+"Is that all it said?"
+
+"That's all."
+
+Maren looked at the lion. Then at him.
+
+"Then it'll come through you," she said. "Whatever it gives them."
+
+"I'd think so."
+
+She didn't say anything else. He saw her right hand move on the stone, toward her coat, where the dead arm was. It stopped before it got there and went back.
+
+---
+
+"Four," she said, after a while.
+
+He waited.
+
+"Four things it's had off me. Since the spring." She didn't say what they were. He could see three of them from where he sat. "I counted them on the ketch. I thought I'd stop at four."
+
+"Will you?"
+
+"I don't know what I'll stop at," said Maren.
+
+He thought of Wren's letter, in his coat, against the marks. *Bring back something from the end of the world.* He'd thought she meant a shell.
+
+---
+
+The old man woke when his hour was up.
+
+He sat up in his blanket by the arch all at once, as if somebody had called him, and looked at the two of them on the pool's edge a pace apart, and at the light lying low in the water.
+
+"What have I missed?" he said.
+
+"Barns," said Calder.
+
+The old man looked at Maren.
+
+"Barns," said Maren.
+
+---
+
 The Lamp wrote the plan in the morning.
 
 On the hundred-and-forty-third. At sunrise, when its light was strongest. He took her hand again without either of them saying anything, and the brightness came back over the pool at once, and the letters came.
@@ -268,7 +363,7 @@ White-gold. Sharp. The old man read them with his hand over his eyes.
 
 "*There is one stone over the six.*"
 
-"The control relic," said the old man. Under his breath. "The seventh. The one from Hearthmere's vault. The coal in its back."
+"The control relic," said the old man. Under his breath. "The one from Hearthmere's vault. The coal in its back."
 
 "*We made it,*" he read. "*Only one of us can hold it.*"
 
@@ -324,7 +419,7 @@ He didn't let go of her hand.
 
 Between the western columns, on the grass, a man sat with a board on his knee.
 
-He'd sat there two days. He'd written every line the old man read. The lock's sentence over the arch. *We called. Others did not answer.* *No.* *The houses are broken.* *To the lion. To the three.*
+He'd sat there six days. He'd written every line the old man read. The lock's sentence over the arch. *We called. Others did not answer.* *No.* *The houses are broken.* *To the lion. To the three.*
 
 *I will carry it.*
 

@@ -9,7 +9,7 @@ Beats: The war council. The line across the Vale; each kingdom's sector, each wi
 Echo of another story: The farmer refusing a seat at the council table, standing at the back.
 Status: first draft
 Draft notes: Day 270 (250–269 told back). Decided here (proposals):
-- **The hub camp** (since d.249): the Accord moved three leagues up the Wend to the eddy; **a new barn** (the Ferry Barn, Liss's hay-barn above the ferry house) for the council; **the two ramparts** across the Vale (53); ninety-eight thousand behind them now (Davin's count d.268: the Sun Road column, the coast, the last Marches farms).
+- **The hub camp** (since d.249): the Accord moved about six leagues up the Wend to the eddy; **a new barn** (the Ferry Barn, Liss's hay-barn above her new ferry house) for the council; **the two ramparts** across the Vale (53); ninety-eight thousand behind them now (Davin's count d.268: the Sun Road column, the coast, the last Marches farms).
 - **The Bridle's place**: **the Ferry Flat**, the water-meadow on the Hearthmere bank at the eddy's edge, between the rampart's river end and the water; **Kessmoor's surveyors** came d.255 and **laid the footings**: twelve iron sledge-beds bedded in the turf in a ring a quarter-mile across, the spokes pegged out with white cord to a timber cradle at the middle; and **six iron jib-posts on the eddy's edge** for the chains to swing out over the water (the Last Titan to be downed in the eddy, its old prison). The Bridle itself still at Ironhythe, in the sidings (48); it comes down in 62.
 - **The line** (Rowan's map on the barn floor, chalk): west to east across the Vale, the river in the middle. **Hearthmere bank, from the downs' foot**: Hearthmere's knights and militia (greyharts carrying the knights along the bank where the line bends; hounds); then **Sarovel** (the sixty olifants as walls, the unchosen on the white bond-steeds their knights left behind, Mattias); then **Kessmoor's batteries at the centre round the hub**, both banks, either side of the Bridle's place ("where the relic will be"). **Saltreach bank, from the river**: Kessmoor's second battery; **the Wyldmarch** (stonehorns, Rhun's bears and wolves, the clans); **Isvaren** (Aud Hallin's thirty Wardens with snow lynx, and **twelve sabrecats** come down the Iron Fells with the last Wardens in d.261); **Saltreach** at the eastern end (Rennick's sellswords, Black Ruth's and the Crane brothers' wyverns on the ground till the call). **The air**: the Clan (Arn), Yeva's rocs, Aud Hallin's stormkites, Nell Tallis's wyverns, each over its own kingdom's sector. **On the river**: the Lamp, the Lady in the water, the lion, the three.
 - **The Wyldmarch at the line, not the table**: Tova sends **Rhun** to stand at the barn door and say where they'll stand: "We'll stand. On the line. Not at your table."
@@ -23,7 +23,7 @@ notes -->
 
 ---
 
-They'd moved the camp three leagues in a day.
+They'd moved the camp six leagues in a day.
 
 She'd thought it would take a week. It took a day. Ninety thousand people pick up a camp as water picks up a boat: all at once, and in the direction it's already going. On the two-hundred-and-forty-ninth she'd given the word at dawn, and by dusk the whole of it was strung along both banks of the Wend from the knight's new wall to the eddy, and the old camp downriver was trodden grass and ash and a great many lost boots.
 
@@ -43,7 +43,7 @@ The middle of the world. She'd stopped thinking it was a strange thing to call a
 
 The council sat in Liss's hay-barn.
 
-Above the ferry house. On the Hearthmere bank, looking down on the eddy. It smelled of hay and of Liss's goats, who'd been moved, and complained about it from the next field. The door on its trestles had come up the river on a cart. Davin had carried the ink-pot himself.
+Above the new ferry house. On the Hearthmere bank, looking down on the eddy. It smelled of hay and of Liss's goats, who'd been moved, and complained about it from the next field. The door on its trestles had come up the river on a cart. Davin had carried the ink-pot himself.
 
 On the two-hundred-and-seventieth, at noon, they sat to settle the line.
 
@@ -57,7 +57,7 @@ She'd been up half the night doing it on her knees. Her knees told her so.
 
 ---
 
-They stood round it. Not sat. You couldn't see a map on the floor sitting down.
+They stood round it. You couldn't see a map on the floor sitting down.
 
 Thale, in his chain, leaning on a stick now. Pike, with her spectacles down. Mattias. Rennick. Aud Hallin with her one eye. Arn. The old man in his chair, which Davin had carried in and set at the map's northern edge so that he could see it.
 
@@ -85,19 +85,13 @@ West to east. With a stick, along the chalk.
 
 ---
 
-"Hearthmere's bank first. From the downs' foot."
+Most of it they knew already. Hearthmere's knights at the western end, where the wall met the high ground, three hundred with the ones in from the north, the militia with them, and the greyharts to carry them back and forth along the bend all day; nobody wanted that end, and it was Hearthmere's war more than anyone's. Rennick's sellswords at the eastern end, where the wall met the scrub, with Black Ruth's wyverns and the Cranes' on the ground till they were wanted, paid from the Accord's chest on her seal.
 
-The western end of the line. Where the wall met the high ground.
-
-"Our knights. What's left. Three hundred, with the ones who came in from the north. The militia with them. The greyharts carry the knights along the bank where the line bends back, here, to the river." She touched the place. "They're the only ones fast enough to go where the line breaks, on that bank. The hounds with their knights."
-
-Nobody said anything. Hearthmere had the end of the line nobody wanted, because it was the end that would have to run back and forth all day.
-
-That was fair. It was Hearthmere's war more than anyone's. The thing had been under Greyhold.
+She spent her time on the rest.
 
 ---
 
-"Then Sarovel."
+"Sarovel," she said.
 
 Mattias straightened.
 
@@ -135,7 +129,7 @@ She put the stick on the eddy.
 
 She crossed the chalk river with her stick.
 
-"Kessmoor's second battery, at the river. Then the Wyldmarch." She looked at the door. "Stonehorns. The Keepers' bears and wolves. The clans. Next to the river, Keeper."
+"Kessmoor's second battery, at the river. Then the Wyldmarch." She looked at the door. "Next to the river, Keeper."
 
 "Next to the river," said Rhun, in the doorway.
 
@@ -148,18 +142,6 @@ Aud Hallin nodded once. "Thirty Wardens. The lynx." She paused. "And the cats."
 "Twelve," said Aud Hallin. "Down the Iron Fells with the last of us, on the two-hundred-and-sixty-first. Sabrecats. From the College's pens at Vael, when the lower city went." Her one eye didn't blink. "They're not tame. They're not bonded. They follow the Wardens because the Wardens fed them on the road. They'll fight anything that comes at a Warden."
 
 "That'll do," said Rowan.
-
----
-
-"And Saltreach. The east end. Where the wall meets the scrub."
-
-Rennick put his thumbs in his belt.
-
-"My sellswords," he said. "And Black Ruth's wyverns, and the Cranes', on the ground till they're wanted. Paid."
-
-"Paid," said Rowan. "By the Accord's chest. On my seal."
-
-"Then they'll stand," said Rennick. He grinned. "Saltreach stands anywhere it's paid to."
 
 ---
 
@@ -227,7 +209,7 @@ She'd been quiet. She'd been writing. She looked up over her spectacles.
 
 "No," said Idony. "There isn't."
 
-He looked at the barn door. Past Rhun. Toward the eastern meadow, where the Lamp stood in its ring of unicorns and wolves, too bright to look at, and had stood since the muster. And the river, where the Lady lay.
+He looked at the barn door. Past Rhun. Toward the eastern meadow, where the Lamp stood in its ring of unicorns and wolves, too bright to look at, and had stood since the camp came up to the eddy. And the river, where the Lady lay.
 
 "Their light," he said. "The Lamp's. The Lady's. What they are now is the Deep, Master Engineer. In the open air. As it was on the far shore. They'll stand with the line, and their light will go into the wards, like oil into a lamp."
 
@@ -281,7 +263,7 @@ She'd have been worried if Pike had argued.
 
 The farmer came in late.
 
-He'd flown down from the north that morning; she'd seen the three come in over the western ridge at dawn. He came in at the barn door past Rhun, who stood aside for him, and looked at the map on the floor, and at all of them standing round it.
+He'd flown down from the north that morning; she'd seen the three come in over the ridge behind the Saltreach wall at dawn. He came in at the barn door past Rhun, who stood aside for him, and looked at the map on the floor, and at all of them standing round it.
 
 Davin had put a stool for him.
 
@@ -317,7 +299,7 @@ Rowan didn't take it.
 
 "I know whose it is."
 
-"It's no use to me." The knight's voice was even. It always was, now. "I don't fight with it. I fight with him." She didn't look back at the lion, lying along the wall's end below them on the far bank. "I've carried it two years. I've drawn it four times. It's been dark for three of them."
+"It's no use to me," said the knight. Rowan had stopped listening for anything in her voice. "I don't fight with it. I fight with him." She didn't look back at the lion, lying along the wall's end below them on the far bank. "I've carried it two years. I've drawn it four times. It's been dark for three of them."
 
 ---
 

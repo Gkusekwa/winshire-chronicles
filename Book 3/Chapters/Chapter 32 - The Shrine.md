@@ -6,20 +6,20 @@ Part: Part Three: The Far Shore
 Days: 135–140 (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): The crossroads on the far shore's south coast
 Beats: Calder lands on the far shore's south coast with Jory and the two boats' survivors. At a crossroads of two old roads stands a three-faced shape of light: the figure carved on the crossroads shrine at Harrow's End, where he left a copper every market day *(Book 1 ch. 2; the carving, Book 2 ch. 7)*. **The Wayfarer**: wind and sky, dragon-kind, three heads. In the light Aurveth lifts her head and breathes properly for the first time in a month. "Why me?" *(canon want)*. The half-answer: *Because you have room.* The Wayfarer won't fight either.
-Echo of another story: On the hills to the north, a grey shape lying in the light.
+Echo of another story: On the ridge to the north-east, a grey shape lying in the light.
 Status: first draft
 Draft notes: Days 135–140. Decided here (proposals):
 - **D.137 the last pier**: the tow reaches *into the light, one* at dusk; the Bell lies at the shelf's edge west of the Needle where Maren saw it stop (ch. 25), a black island, silent; Jory won't take two laden boats through the Needle past it; he takes them **south along the shelf's outer edge** half a day to **a second gap** he knows from Kit's book (Abram drew it once and never used it: *south way, small boats*), and in, to a bay on the shore's **south coast**, where **a second paved road** comes down to the sea out of the hills.
 - **D.138 landfall** in the south bay: white sand, column-tops, a milestone at the tide-line, *into the light*; the beasts unafraid; ninety-four people step ashore, and some of them lie down on the warm sand at once. Calder, his voice cracked, gets them up. **The night**: the boats anchored off in the bay, everyone in them sitting up, sleeping in shifts against each other; the dragons in the shallows alongside, awake; Jory and Calder on the beach with Kharrak (bonded; safe while the beast's awake; Calder doesn't know that yet, only that Kit said the rule is for everyone, and he keeps it).
 - **One doesn't listen**: **a Corsa wine-merchant's son, Piers Calloway** (new), who paid six hundred gold and says so, sleeps on the dunes the first night out of contempt: "A reef-pilot's tale." At dawn he's lying on his back in the marram grass with his eyes open, smiling. The ninety-three believe after that.
-- **D.139 the crossroads**: inland a half-day on the southern road, at the place where it meets the western road (the one Maren came up from the lagoon, running north-east to the hills): a paved square of grey stone, four milestones, one at each corner, and in the middle, **a shape of light**: standing, taller than a tower, three-faced: three long heads on three long necks from one body, wings folded like a heron's, all of it pale gold light with the shapes of scales in it; the three faces looking three ways down three roads. **The carving at Harrow's End**: the three-faced god in the crossroads shrine's stone, where Calder left a copper every market day; **he knows it at once.**
+- **D.139 the crossroads**: inland a half-day on the southern road, at the place where it crosses the western road (which runs on north-east to the hills and the hall's ridge; the southern road runs on north, and Jory says that must be the road up to the lagoon, Kit's road by another way): a paved square of grey stone, four milestones, one at each corner, and in the middle, **a shape of light**: standing, taller than a tower, three-faced: three long heads on three long necks from one body, wings folded like a heron's, all of it pale gold light with the shapes of scales in it; the three faces looking three ways down three roads. **The carving at Harrow's End**: the three-faced god in the crossroads shrine's stone, where Calder left a copper every market day; **he knows it at once.**
 - **Aurveth**, in the light: she's been dull and thin and short of breath since the pour; at the crossroads she lifts her head and **breathes properly for the first time in a month**: long, deep, slow; the bronze doesn't come back, but her sides fill.
 - **The copper**: Calder has two coppers in his coat: **Marrow's** (don't spend it) and one of his own; he puts his own on the milestone at the crossroads' corner, out of habit, as at home.
 - **The Wayfarer speaks** (in the dragons, not in light-script: wind-kind; Calder hears it through all three bonds at once as three voices that are one): his three marks (the bond-marks) go hot when it speaks.
 - **"Why me?"**: he asks it aloud. Why three dragons. Why a barley farmer. Why, of everyone. **The half-answer**: ***Because you have room.*** Nothing else; he doesn't understand it; the dragons do, he thinks.
 - **It won't fight**: he asks whether it'll come home and fight the six; *No. I have only this left. It is for them.* (The three dragons; plant for 39.)
-- **The hall**: it tells him (through Aurveth): the others are gathering; the other bond is coming; *Go to the hall where the road crosses the ridge, north-east. Two hands.* (Sets up 34.)
-- **Echo**, dusk 140, from the crossroads' north-east corner: on the hills to the north a long grey shape lying in the light, and beside it, smaller, another. Calder thinks: the lion.
+- **The hall**: it tells him (through Aurveth): the others are gathering; the other bond is there; *Go to the hall where the road crosses the ridge, north-east. Two hands.* (Sets up 34.)
+- **Echo**, dusk 139, from the crossroads' north-east corner: on the ridge to the north-east a long grey shape lying in the light, and beside it, smaller, another. Calder thinks: the lion.
 Magic touches: the Wayfarer (wind and sky, three-headed, dragon-kind); bond-marks hot; the Lit Shore's light (a sleeper dies; Aurveth revives in it).
 notes -->
 
@@ -167,7 +167,7 @@ And at noon, a crossing.
 
 Another road came in from the west.
 
-Paved. Grey. Running north-east, toward the hills. Jory said it must be the one that came up from the lagoon. From the Needle. Kit's road.
+Paved. Grey. Running on north-east, toward the hills. And their own road ran on north past the crossing. Jory said that one must go up to the lagoon. To the Needle. Kit's road, by another way.
 
 Where the two roads met, a square.
 
@@ -327,7 +327,7 @@ It told him about the hall at dusk.
 
 Through Aurveth. Slow. In her old deep voice, so that he heard it as her, and as the light, both.
 
-*The others are gathering. In the hall. Where the road crosses the ridge. North and east.* A pause. *The other bond is coming. Come. Two hands.*
+*The others are gathering. In the hall. Where the road crosses the ridge. North and east.* A pause. *The other bond is there. Come. Two hands.*
 
 *Two hands,* he said.
 
@@ -341,9 +341,9 @@ He went to the square's north-east corner at dusk.
 
 Where the western road went off toward the hills. He stood by the milestone there and looked along it. North and east. The hills going away green, fold behind fold, toward where the light was beginning to come up out of the grass.
 
-On the hills to the north, far off, a shape.
+On the ridge to the north-east, far off, a shape.
 
-Long. Grey. Lying in the light, on a hill's crown. A hill on a hill.
+Long. Grey. Lying in the light along the ridge's crown. A hill on a hill.
 
 And beside it, smaller, another. Grey. Lying.
 

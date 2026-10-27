@@ -157,6 +157,26 @@ He stopped.
 
 ---
 
+"The Marshal," he said.
+
+---
+
+He looked at the knights. His guard. Standing on the slope behind his chair, looking at the river, at the Lamp, at the light on the Last Titan's back, as everyone on the Vale was looking.
+
+"You," he said. To the younger one. The woman with the falcon. "Go to the Marshal. On the wall. Now. Run. Tell her the batteries open their orders on the hour without her. Tell her the Bridle means to take it. Tell her Tobin said, and Callis. Run."
+
+She looked at him. Then at Tobin.
+
+She ran.
+
+---
+
+He watched her go.
+
+Down the slope. Along the bank. Toward the Flat's western edge, and the wall's river end beyond it, four hundred paces. Running well. A young knight. Her falcon on her shoulder, flapping for balance.
+
+---
+
 He understood it in a breath.
 
 All of it. At once. As he'd understood the light on the far shore, line by line, and then all at once.
@@ -229,26 +249,6 @@ With its horn in the plates. Over the coal. Now.
 
 And every bolt-thrower on the Ferry Flat was pointed at the eddy.
 
----
-
-"The Marshal," he said.
-
----
-
-He looked at the knights. His guard. Standing on the slope behind his chair, looking at the river, at the Lamp, at the light on the Last Titan's back, as everyone on the Vale was looking.
-
-"You," he said. To the younger one. The woman with the falcon. "Go to the Marshal. On the wall. Now. Run. Tell her the batteries open their orders on the hour without her. Tell her the Bridle means to take it. Tell her Tobin said, and Callis. Run."
-
-She looked at him. Then at Tobin.
-
-She ran.
-
----
-
-He watched her go.
-
-Down the slope. Along the bank. Toward the Flat's western edge, and the wall's river end beyond it, four hundred paces. Running well. A young knight. Her falcon on her shoulder, flapping for balance.
-
 He couldn't sit.
 
 ---
@@ -259,7 +259,7 @@ The board went off his knees. The glasses went into the frozen grass, all three,
 
 He stood up.
 
-His legs shook. They always shook now. He'd been sitting in chairs for a year and a half. He'd been carried up hills in slings and onto barges in blankets and down slopes by Davin.
+His legs shook. They always shook now. He'd been sitting in chairs for most of a year. He'd been carried up hills in slings and onto barges in blankets and down slopes by Davin.
 
 He ran.
 
@@ -389,7 +389,7 @@ She didn't turn.
 
 The crews' watches were open in their hands.
 
-He could see the nearest one. A crew-master at the nearest jib, twenty paces off, an older man, with a mild face. The watch in his palm. The hands on it.
+He could see the nearest one. A crew-master at the nearest jib, twenty paces off, an older man. The watch in his palm. The hands on it.
 
 Almost together. Almost at the top.
 

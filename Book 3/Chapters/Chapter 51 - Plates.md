@@ -10,13 +10,13 @@ Echo of another story: Idony shouting numbers at a glass.
 Status: first draft
 Draft notes: Days 230–236 (229 told back). Decided here (proposals):
 - **D.229 they find them**: the Keepers' wolves find Tamsin under the fallen wood on the south side; Gunna still on her neck, hands flat, head down; Bryn Tolle's green and the brown a league apart; Bryn himself not found.
-- **No Coldtarn here**: the Clan pours into Coldtarn; this is twenty days from it. **Arn asks Tova**; Tova: **pour them on the Thornwood** ("It will need something to grow from"). A break with custom; the riders mutter; Arn: "Ulric poured with a farmer. Gunna laughed for an hour. She'll not mind a wood."
+- **No Coldtarn here**: the Clan pours into Coldtarn; this is a long way from it. **Arn asks Tova**; Tova: **pour them on the Thornwood** ("It will need something to grow from"). A break with custom; the riders mutter; Arn: "Ulric poured with a farmer. Gunna laughed for an hour. She'll not mind a wood."
 - **D.230 the burning**: no seven days; **Kharrak burns Tamsin and Gunna together in his white fire in an hour** ("Small," Calder tells him, and it's not small, and it's enough), then the green and the brown; the ash raked by the riders into four of the Keepers' clay seed-jars (no urns this far from home).
 - **The pour**, d.230 at dusk, on the fallen wood's western edge: no priest; **Arn says the words himself** (*Gunna. Daughter of Tarne. Rider of the ledges. And Tamsin*); **"Who pours?"**; Gunna had no one; **Arn: "Pour with me"**; Calder, both palms wrapped, one hand on the jar; **they pour it on the black ground among the fallen grey trees**; Ildra at Arn's shoulder; the Clan's sound; **Lisska puts her nose on the ash and breathes on it and it goes into the ground** (her wind, small); Maren and the lion at a distance, not at the pour (Orrun lame; she stands with the Keepers).
 - **D.231 the carts**: **forty Kessmoor wagons under Engineer Garth Tolley** (Pike's deputy: square, red-bearded) with two hundred labourers, saws, picks, jacks and **two steam winch-carts** ("winches, not engines, Fenn"); they'd left the Wend d.214, a week behind the clans, so they were ready before the kill. **The plates**: the Antlered's hide is plated under the moss like bark on an oak, each plate the size of a door; they start sawing at noon. **The heart**: under the stone Maren closed; Tolley asks her (through Hobb) to open the ground; **she refuses** ("Tell him the ground's closed").; they start digging with picks. **Tolley never says heartstone**: "matter", "the find", "the recovery under the clause".
 - **Kharrak wants to burn the carts**: *Let me. Small.*; Calder: *No.* *Why?* *Because then it's us. And Rowan's word's nothing.* Lisska: *He's right. I hate it.*
 - **Tova's condition** (ch. 12): *No more heartstones from living beasts.* Tolley, reading the minute from his book: "From living beasts, Elder."
-- **D.232 Calder flies to the Wend** on Kharrak (two days at the three's own pace, with Tova on Yeva's roc beside him); **council d.234 in the open on the water-meadow** (Orrun's place empty): Rowan, Thale, Pike, Tova, Arn (flew back with them), Mattias, Rennick, Aud Hallin, Idony. **Calder fights the clause**: "You're cutting up a god's kin for lamp-oil." Pike: "For study and safe custody, Master Fenn. As signed. By you." His name under his card. **Tova: "I said no heartstones." Pike: "From living beasts, Elder. The minute is exact. It is dead."** Tova stands, and **the Wyldmarch walks out**: Tova, Yeva, the Keepers on the bank; they go to their own fires, not away (they stay in the Accord's camp, but no longer at the table).
+- **D.232 Calder flies to the Wend** on Kharrak (two days at the roc's pace, with Tova on Yeva's roc beside him); **council d.234 in the open on the water-meadow** (Orrun's place empty): Rowan, Thale, Pike, Tova, Arn (flew back with them), Mattias, Rennick, Aud Hallin, Idony. **Calder fights the clause**: "You're cutting up a god's kin for lamp-oil." Pike: "For study and safe custody, Master Fenn. As signed. By you." His name under his card. **Tova: "I said no heartstones." Pike: "From living beasts, Elder. The minute is exact. It is dead."** Tova stands, and **the Wyldmarch walks out**: Tova, Yeva, the Keepers on the bank; they go to their own fires, not away (they stay in the Accord's camp, but no longer at the table).
 - **Rowan upholds it**: "The Accord's word is all we have. If I break the clause when it costs us, every kingdom at this table breaks the next one when it costs them. I'll not be the first." To Calder after, alone: "I know." "Then why?" "Because I signed it. And so did you."
 - **Echo, night 236**: from the barn Calder hears the old man in the next room **shouting numbers at a glass** (Liss's brass lamp, the glasses, Davin writing): "*Again. Read it again. That's not right. That's not the right way*" (plant for 52).
 Magic touches: white fire as a pyre; Lisska's breath taking the ash into the ground; the plates.
@@ -64,7 +64,7 @@ The Clan poured at Coldtarn.
 
 Always had. You burned your dead for seven days, or eleven for a chief, and raked them into a grey urn, and carried the urn up to the tarn, and poured. The ash went down into the black water that never froze. That was where the Clan's dead were. All of them. Sigrun Holm. Haldor. Ulric.
 
-Coldtarn was twenty days off.
+Coldtarn was a long way off.
 
 ---
 
@@ -186,7 +186,7 @@ And breathed on it.
 
 Small. The smallest wind he'd ever felt off her. A breath.
 
-The ash went into the ground. Not blown away. In. Between the black crumbs of the burned earth, down, as it went down into the tarn, and was gone.
+The ash went into the ground. Between the black crumbs of the burned earth, down, as it went down into the tarn, and was gone.
 
 *There*, said Lisska. *Now it's like the water.*
 
@@ -204,7 +204,7 @@ The carts came on the two-hundred-and-thirty-first.
 
 He heard them before he saw them. Wheels. A lot of wheels. And a sound under the wheels that he knew from Ironhythe and from nowhere else: a hissing, and a thump, and a hissing.
 
-Up the Hearthmere road out of the west. Onto the downs. Forty wagons. Kessmoor's, black, with iron tyres and the Assembly's mark painted on their tail-boards. Two hundred men walking beside them in leather aprons. Saws on the wagons, long ones, two-man and four-man. Picks. Jacks. Chains.
+Up the east road out of the west. Onto the downs. Forty wagons. Kessmoor's, black, with iron tyres and the Assembly's mark painted on their tail-boards. Two hundred men walking beside them in leather aprons. Saws on the wagons, long ones, two-man and four-man. Picks. Jacks. Chains.
 
 And two things at the back of the line, on wheels, with chimneys, hissing.
 
@@ -358,9 +358,9 @@ He took the book back. He looked at the great dead shape in the fallen wood.
 
 They flew to the Wend on the two-hundred-and-thirty-second.
 
-He and Arn and Tova. The three at their own pace, for once, not the pairs'; Tova on Yeva's roc beside them, wrapped in felt, her face set, not looking down. Two days.
+He and Arn and Tova. The three at the roc's pace, because of Tova; she sat Yeva's roc beside them, wrapped in felt, her face set, not looking down. Two days.
 
-The clans would walk it in seventeen. The carts would follow them. Slower. Loaded.
+The clans would walk it in a fortnight, going home. The carts would follow them. Slower. Loaded.
 
 ---
 
@@ -388,7 +388,7 @@ Pike put her spectacles up on her forehead.
 
 His own name. Big. Square. CALDER FENN, under his card, *the dragons' farmer*, in the Hall of Measures, under the clock.
 
-He'd signed it. He'd signed it without reading it, because Arn had, and the tide was coming in at Corsa.
+He'd signed it. He'd signed it without reading it, because Arn had, and he'd wanted to be back at Corsa before the tide.
 
 ---
 
@@ -416,7 +416,7 @@ Not loud. She never was. She sat at the door with her hands flat on it.
 
 "From living beasts, Elder," said Pike. Gently. As if to a child. "The minute is exact. Kessmoor keeps to the minute. It is not a living beast. It is dead. Master Fenn and the knight killed it, at the Accord's word." She put her hands together on the door. "We take nothing from any living beast. We never shall."
 
-Calder thought of the harvest sheds. He didn't know why. He'd never seen them. He'd heard Tobin's hands talk, once, at the camp, of a smell at Ironhythe.
+Calder thought of a smell. He'd heard Sarovel's hands in the gallery at Ironhythe talk of it once, a smell down the canal.
 
 He didn't say it. He didn't know it.
 
@@ -478,7 +478,7 @@ She was quiet a long time. The greyhart lifted its head out of the trough and lo
 
 ---
 
-He slept in the barn. On straw, in the loft, as he had at the muster. The three on the ridge. Wren and Ada half a day's flight north, at the caves.
+He slept in the barn. On straw, in the loft, as he had at the muster. The three on the ridge. Wren and Ada half a day's flight north-east, at the caves.
 
 He didn't sleep.
 

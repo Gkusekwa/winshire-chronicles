@@ -9,8 +9,8 @@ Beats: **The Accord of Ironhythe** *(canon: the kingdoms unite)*. Kessmoor, the 
 Echo of another story: Tobin in the gallery with Sarovel's hands, looking up at the clock.
 Status: first draft
 Draft notes: Days 60–65. Decided here (proposals):
-- **Day 60, late**: Calder from Corsa on Kharrak with Lisska, two days' flying west along the coast and up the Coldrun (left Corsa d.58; Ulric and the forty pairs stay at Corsa; Aurveth at Harrow's End). Ironhythe from the air: chimneys, sheds, canals, green lamps lit at noon, the clock tower white-faced on its rise. They land in the Hall's yard among the carriages; Kessmoor's grooms don't run; a clerk with a brass rule measures Kharrak's wingspan for the record. He comes in an hour after noon; **the clock says so**; the doorkeeper writes the minute down.
-- **The Hall of Measures**: a long hall of grey stone, iron roof-trusses, the great clock's works visible behind glass at the far end, the pendulum the length of a ship's mast going back and forth over the floor; brass rules, weights and measures in cases round the walls (Kessmoor's standards: the yard, the pound, the hour); a round table, the only round table Calder has ever seen, so no seat is at the head; the gallery above for the guilds and the public. **Who sits** (from the plan's alliance section): **First Guildmaster Edmund Kaye** (new to the prose: small, bald, quiet, ledger under his hand) and **Agathe Pike** for Kessmoor; **Rowan** for the crown (Thale stayed home); **Mistress Orla Marrow** and **Captain Hal Rennick** for the Tide Council and the Bench; **Arn Varr** for the Clan (Wren behind his chair); **Elder Tova** for the Wyldmarch; **Master Beatrix Quell** for Isvaren's College (Vael's owls few now); **Lady Ismay Aurel** and **tribune Mattias** for Sarovel's regency and the unchosen; and two empty seats with printed cards: *the lion's knight*, *the dragons' farmer*. Maren's is already filled.
+- **Day 60, late**: Calder from Corsa on Kharrak with Lisska, two days' flying north-west over Hearthmere and down the Coldrun's valley (left Corsa d.58; Ulric and the forty pairs stay at Corsa; Aurveth at Harrow's End). Ironhythe from the air: chimneys, sheds, canals, green lamps lit at noon, the clock tower white-faced on its rise. They land in the Hall's yard among the carriages; Kessmoor's grooms don't run; a clerk with a brass rule measures Kharrak's wingspan for the record. He comes in an hour after noon; **the clock says so**; the doorkeeper writes the minute down.
+- **The Hall of Measures**: a long hall of grey stone, iron roof-trusses, the great clock's works visible behind glass at the far end, the pendulum the length of a ship's mast going back and forth over the floor; brass rules, weights and measures in cases round the walls (Kessmoor's standards: the yard, the pound, the hour); a round table, the only round table Calder has ever seen, so no seat is at the head; the gallery above for the guilds and the public. **Who sits** (from the plan's alliance section): **First Guildmaster Edmund Kaye** (new to the prose: small, bald, quiet, ledger under his hand) and **Agathe Pike** for Kessmoor; **Rowan** for the crown (Thale stayed home); **Mistress Orla Marrow** and **Captain Hal Rennick** for the Tide Council and the Bench; **Arn Varr** for the Clan (Gorm Askell behind his chair with his ledger); **Elder Tova** for the Wyldmarch; **Master Beatrix Quell** for Isvaren's College (Vael's owls few now); **Lady Ismay Aurel** and **tribune Mattias** for Sarovel's regency and the unchosen; and two empty seats with printed cards: *the lion's knight*, *the dragons' farmer*. Maren's is already filled.
 - **The costs**, days 61–63, each read out by Kaye's clerk and signed: **Sarovel takes unbonded knights** (Ismay Aurel: the unchosen will carry lances; Mattias: "and be paid as knights"; she signs it); **Kessmoor lifts its ban on magic for the war** (Kaye: forty years since the Scald; "the Bleed may be used, under licence, for the duration"; Pike adds: "and measured"); **Saltreach's captains stand with crowns** (Rennick at a table with a crown's marshal and laughing about it; Marrow signs for the houses; Rennick signs for the Bench with a gold-ringed thumbprint beside his mark); **the Wyldmarch** trusts the kingdoms that hunted its beasts, one condition: Tova: no more heartstones from living beasts, not one, not a bird; Pike, after a long look at her spectacles: "Accepted. We'll find other fuel." Tova: "You said that very fast." Pike: "I measure fast."
 - **The clause**, day 64: Kaye's clerk reads it last: *All Titan-matter and relics recovered in the course of the war shall pass into the keeping of the Assembly of Kessmoor, for study and safe custody, at the war's end.* Nobody argues. Rennick: "If there's an end, they can have the lot." Marrow signs. Calder thinks it: there won't be anything left to keep. He signs his name under *the dragons' farmer*, slowly, the D the right way round. Maren signs *Maren Ashdown* under *the lion's knight*, and the crown's seat looks at the clock.
 - **The West**, day 64 afternoon: Maren argues it at the table: Orrun's memory (the ones who set him at the door went *into the light*, west, over the sea); Idony's chart and its margin; something in the south-west that has never been drunk; the kingdoms can't win with what they have; go and find what put the Titans to sleep. The table goes quiet. Rennick laughs. **Calder says it**: "It's a song. While people drown." He means it. She doesn't flinch. Kaye: Kessmoor's Western Deep ships are needed for the war, the coast, the canals' mouths; nobody will carry her.
@@ -39,7 +39,7 @@ He knew it from the air. The clock told him. He came in over the chimneys of Iro
 
 Two days from Corsa.
 
-West along the coast, and then up the Coldrun where it came down out of the Fells, over the canals, over the locks and the lift-bridges and the barges on their tow-ropes. He'd left Ulric at Corsa with the forty pairs, and Aurveth at the farm in the top field with the Gullhaven families, and come with the two of them because the paper had said *the dragons' farmer* and that seemed to mean dragons.
+North-west, over Hearthmere, and then down the Coldrun's valley, over the canals, over the locks and the lift-bridges and the barges on their tow-ropes. He'd left Ulric at Corsa with the forty pairs, and Aurveth at the farm in the top field with the Gullhaven families, and come with the two of them because the paper had said *the dragons' farmer* and that seemed to mean dragons.
 
 He'd stared at the paper a long time at Corsa. Printed. Every letter the same as every other. Nobody at Corsa had ever seen print except on the Kessmoor bills of lading. Marrow had turned hers over and looked at the back.
 
@@ -47,7 +47,7 @@ He'd stared at the paper a long time at Corsa. Printed. Every letter the same as
 
 Ironhythe was smoke.
 
-He'd been told. He hadn't believed it. A hundred chimneys and more, going up out of a valley at the Fells' foot like a wood of dead trees, and the smoke off them going up in columns into the cold and spreading out under the sky in a brown roof. Under it, the sheds. Long and iron-roofed. Row after row. The canals between them, black. The streets.
+He'd been told. He hadn't believed it. A hundred chimneys and more, going up out of a valley on the Coldrun, under the moors, like a wood of dead trees, and the smoke off them going up in columns into the cold and spreading out under the sky in a brown roof. Under it, the sheds. Long and iron-roofed. Row after row. The canals between them, black. The streets.
 
 And lamps. On every corner. Green. Lit, at noon. Glass globes on iron posts with green fire in them, steady, not flickering.
 
@@ -129,7 +129,7 @@ He sat down.
 
 He knew most of them.
 
-Rowan, for the crown, small and neat in her mended surcoat, sitting very straight. Thale hadn't come. Marrow in her blue silk, for the Tide Council, and beside her Hal Rennick for the Bench, with his gold ring in his ear and his boots, for once, on the floor. Arn, for the Clan. Wren behind his chair with her hands folded.
+Rowan, for the crown, small and neat in her mended surcoat, sitting very straight. Thale hadn't come. Marrow in her blue silk, for the Tide Council, and beside her Hal Rennick for the Bench, with his gold ring in his ear and his boots, for once, on the floor. Arn, for the Clan, with Gorm Askell behind his chair and his ledger.
 
 Tova for the Wyldmarch. He knew her from the scouts' talk. A furrowed old woman with her grey hair cropped like a man's and root-knotted hands, sitting as if the chair were a horse she didn't trust.
 
@@ -259,7 +259,7 @@ There wouldn't be.
 
 Somebody in the gallery laughed.
 
-Marrow signed. Rowan signed. Arn signed without reading it, because he couldn't, and didn't ask anyone to read it again. Quell signed. Lady Ismay signed and Mattias signed under her.
+Marrow signed. Rowan signed. Arn signed without reading it, because he'd read it the night before, and didn't ask anyone to read it again. Quell signed. Lady Ismay signed and Mattias signed under her.
 
 The clerk brought it round to the two printed cards.
 
@@ -287,7 +287,7 @@ She stood up.
 
 She told them about the West.
 
-Plainly. As she'd have reported to a captain. The lion's memory: that the ones who'd set him at his door, long ago, before the chaining, had gone *into the light*. West. Over the sea. Where the sun went down. The tide-reader's chart: the old realm's chart, with a mark in its south-western margin, and *error* written beside it in six different hands, because six different scholars had thought it couldn't be right. The breath of the world, drunk in the east by the six as they woke. Drunk in the west long ago. And something in the south-west, past the edge of every chart, that had never been drunk at all.
+Plainly. As she'd have reported to a captain. The lion's memory: that the ones who'd set him at his door, long ago, before the chaining, had gone *into the light*. West. Over the sea. Where the sun went down. The tide-reader's chart: the College's oldest chart, with a mark in its south-western margin, and *error* written beside it in six different hands, because six different scholars had thought it couldn't be right. The breath of the world, drunk in the east by the six as they woke. Drunk in the west long ago. And something in the south-west, past the edge of every chart, that had never been drunk at all.
 
 "Whatever put them to sleep the first time," she said, "went there. Over the sea." She looked round the table. "We can't win this with what we've got. We can hold. For a while. Then we lose. I want to go and find what put them to sleep."
 
@@ -379,7 +379,7 @@ She stopped.
 
 He hadn't been asked. He said it anyway, to her back, standing by Kharrak's shoulder with his hand on the plates.
 
-"The smugglers' inlet. Under the mountains' southern end. I was there before the winter. There's no law. There's reef-pilots: families that know the channels nobody else does. Some of them go further than they say." He looked at the cobbles. "Ask for a reef-pilot. And don't pay what they ask first."
+"The smugglers' inlet. Under the mountains' southern end. I was there in the winter. There's no law. There's reef-pilots: families that know the channels nobody else does. Some of them go further than they say." He looked at the cobbles. "Ask for a reef-pilot. And don't pay what they ask first."
 
 ---
 

@@ -6,10 +6,10 @@ Part: Part Five: The Gathering
 Days: 272–275 (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): The upper Wend
 Beats: The Pale Coil freezes the upper Wend in a single night, weeks before the river would freeze: a mirror of the first freeze. Maren and Orrun hold the upriver villages; Isvaren's tuskers, come down from drowned Vael with Quell's people, drag the villagers' sledges over the black ice. The Lady comes up the river and drives the Coil back north: the first time the elders fight.
-Echo of another story: Calder's fire far to the north, too far to help.
+Echo of another story: Calder's fire beyond the eastern hills, too far to help.
 Status: first draft
 Draft notes: Days 272–275. Decided here (proposals):
-- **Night 271–272 the freeze**: the Wend freezes from the Isvaren border south to **Eskby** (new: a ferry village twelve leagues above the hub) in one night: **black ice**, clear, a yard thick, the river visible moving under it at first and then not; rime on the banks a quarter-league inland; weeks before the river would freeze. A stormkite rider brings it at dawn 272.
+- **Night 271–272 the freeze**: the Wend freezes from the Isvaren border south to a little below **Eskby** (new: a ferry village twelve leagues above the hub) in one night: **black ice**, clear, a yard thick, the river visible moving under it at first and then not; rime on the banks a quarter-league inland; weeks before the river would freeze. A stormkite rider brings it at dawn 272.
 - **The upper Wend villages** (new): **Eskby** (Hearthmere bank, ferry), **Otterholt** (Saltreach bank, eel-weirs), **Trimley** (Hearthmere bank, a mill), and a dozen farms; **about two thousand people** who stayed behind their own walls; now their wells frozen solid and their beasts dying in the byres.
 - **Quell's column**: **Master Beatrix Quell** (Isvaren's seat at Ironhythe, gone home after; chair empty since) **comes down the upper Wend valley on the ice d.273 with Vael's last people**: **four hundred**, and **a tusker herd of nineteen** (shaggy, red-brown, high-shouldered, tusks curled back like old roots) under its oldest cow, who agreed to come; the Coil came south behind them from Glasswater. The tuskers walk the ice because the river is the old road (they remember the Oneroad's fords); Quell is grey, thin, in a Warden's coat, and says Vael is under ice to the tops of the towers.
 - **D.273 the sledges**: the villagers load what they have onto sledges; **the tuskers drag them** south down the black ice (rope traces round their chests; the oldest cow's rumble felt through the ice in Maren's feet); Orrun walks on the bank, too heavy for the ice.
@@ -17,7 +17,7 @@ Draft notes: Days 272–275. Decided here (proposals):
 - **The mirror**: the last sledge, Trimley's miller's, goes through the ice behind the tuskers where the Coil's thrashing cracked it; a girl (**Hessa**, new, the miller's daughter, nine) in the water; Maren goes out flat on the ice as the river watch taught her, a rope round her, one hand that she can't feel; she can't tell if she has the girl; she goes in; **she doesn't feel the cold** (and knows that's what will kill her); under the ice, **something huge and pale comes up under her and lifts her and the girl out onto the ice**: this time she sees it: **the Lady**.
 - **D.275 the Lady drives the Coil back**: she came up the Wend from the hub overnight (the river pale and moving under the black ice in a line ahead of her, the ice going grey and soft over her and breaking up behind); **serpent and serpent, kin**: she winds round the Coil in the open water Orrun made; the river boils with cold and not-cold; the ice breaks for a league; **the Coil lets go of the lion and goes back north up the river under the ice**; the Lady follows it a league and turns back; the ice behind her is water again, grey, running. **The first time the elders fight.**
 - **Toll**: Orrun's jaw and forelegs frosted white for a day; **Maren cold "to the middle": she can't feel the girl's weight in her arms; Quell wraps her in a Warden's coat and she doesn't know she's shaking until Quell says so.**
-- **Echo, night 274**: on the northern sky a red glow, low, over the Saltreach-bank hills toward the Scarfell: **the farmer's fire**, Kharrak burning the ice off the Drover's Way fords at Cotter's Cross and Hollow Beck to keep the north road open (his plan, 54); too far to help.
+- **Echo, night 274**: on the eastern sky a red glow, low, over the Saltreach-bank hills under the Scarfell: **the farmer's fire**, Kharrak burning the ice off the Drover's Way at Teo's ford on Hollow Beck and the crossings below it, to keep the north road open (his plan, 54); some ten leagues east, too far to help.
 - **D.275 dusk**: the column (two thousand villagers, four hundred from Vael, nineteen tuskers, sledges) walks south on the bank toward the hub; Quell: "The Coil will come again." "Yes." "When?" "When it's called."
 Magic touches: the Coil's black ice; the Lady's pale water; bond-gift stone in the river-bed; the tuskers' rumble; the toll as cold.
 notes -->
@@ -32,7 +32,7 @@ One of the girls. Fifteen, grey felt, a face blue with cold. Her bird came down 
 
 Maren looked at the Wend. Grey. Running. Turning in the eddy below the wall the wrong way.
 
-"Not here," said the girl. "Up. North. From the border to Eskby. In the night." She put her hands under her arms. "Black ice. You can see through it. A yard thick. I came down over it at dawn. You can see the bottom."
+"Not here," said the girl. "Up. North. From the border to below Eskby. Halfway to us. In the night." She put her hands under her arms. "Black ice. You can see through it. A yard thick. I came down over it at dawn. You can see the bottom."
 
 ---
 
@@ -54,7 +54,7 @@ Orrun was already getting up.
 
 The first time the Wend froze she'd been at Greyhold, crossing to the lion at dusk in a punt.
 
-She thought of it on his head, going north up the Saltreach bank at his long stiff stride with the frost going by under her. Two winters ago. Three. She couldn't count it. The running ice jamming at the bend below the island. The white road across. A family walking out onto it in the dark because they couldn't wait. The man going through. Her going in after him with a rope, and the rope parting on the edge, and the black water, and something huge in the water dragging her out by the coat and gone before she could see what it was.
+She thought of it on his head, going north up the Hearthmere bank at his long stiff stride with the frost going by under her. Two winters ago. Three. She couldn't count it. The running ice jamming at the bend below the island. The white road across. A family walking out onto it in the dark because they couldn't wait. The man going through. Her going in after him with a rope, and the rope parting on the edge, and the black water, and something huge in the water dragging her out by the coat and gone before she could see what it was.
 
 She'd known what it was, after. A long time after.
 
@@ -406,7 +406,7 @@ The Lady came up the river in the night.
 
 ---
 
-She'd been at the hub. In the eddy. Lying on the water by the ferry rope since the muster, as she lay. And sometime in the night of the two-hundred-and-seventy-fourth she'd come up the river. Twelve leagues. Under the ice.
+She'd been at the hub. In the eddy. Lying on the water by the ferry rope since the camp came up, as she lay. And sometime in the night of the two-hundred-and-seventy-fourth she'd come up the river. Twelve leagues. The last of them under the ice.
 
 Maren saw where she'd been at dawn.
 
@@ -438,7 +438,7 @@ Not with heat. With cold and not-cold. Steam and frost going up together off the
 
 *Let go*, said the Lady.
 
-Maren didn't hear it. Orrun did. She heard it through Orrun. Not a voice. A shape. Light, in the water.
+Maren didn't hear it. Orrun did. She heard it through Orrun. A shape. Light, in the water.
 
 He let go.
 
@@ -474,7 +474,7 @@ Slowly. Frost on his jaw. Frost white on his forelegs to the shoulder, thick as 
 
 She'd seen the fire in the night.
 
-She remembered it now. Lying on the ice in Quell's coat, after the girl, before the Lady. Looking north. Not up the river. North-east. Over the hills of the Saltreach bank, toward the Scarfell.
+She remembered it now. Lying on the ice in Quell's coat, after the girl, before the Lady. Looking away from the river. East. Over the hills of the Saltreach bank, under the Scarfell.
 
 A glow. Red. Low on the sky, far off, beyond the hills. Like a town burning, if there'd been a town there to burn.
 
@@ -482,11 +482,11 @@ She'd known what it was.
 
 ---
 
-Lisska had told Orrun, two days before, on the wall. The farmer was on the north road. On the Drover's Way, at the fords. Cotter's Cross. Hollow Beck. Burning the ice off them, so the road north would stay open in the winter.
+Lisska had told Orrun, two days before, on the wall. The farmer was on the north road. On the Drover's Way, at the fords. Teo's ford on Hollow Beck, and the crossings below it. Burning the ice off them, so the road north would stay open in the winter.
 
 For the other plan. The one nobody said.
 
-She'd looked at the red glow on the northern sky for a long time, lying on the ice. It was twenty leagues off. More.
+She'd looked at the red glow on the eastern sky for a long time, lying on the ice. It was ten leagues off. Less.
 
 Too far to help. Too far to see her.
 

@@ -9,14 +9,14 @@ Beats: On the Saltreach bank, Calder stops a smuggler's sleepwood barge: Ostrey 
 Echo of another story: Maren's ramparts across the Vale, seen from the air as a new grey line on the land.
 Status: first draft
 Draft notes: Days 280–290. Decided here (proposals):
-- **The river watch on the Saltreach bank**: since d.278 Calder flies the lower Wend between the hub and Wendmouth (twelve leagues of river) with Lisska, because the north road (54, 56) is open and Rowan wants the river watched. **D.281 the barge**: a flat Ostrey grain-barge, the house's green pennant taken down, poling up the Wend at dawn under the Saltreach bank; **forty casks under the grain-sacks**, sealed with pitch; the bargee (**Ambry Coyle**, new, Wendmouth bargee, fat, frightened, honest) shows a Kessmoor waybill: *Resin, sleepwood, forty casks. For the hub batteries. To open the Titan for the fallback*; the waybill bears Garth Tolley's mark; **not on the Accord's warrant** (the warrant lists sixty casks, delivered in the autumn through Blackwater). Lisska smells it before he does: *Honey. Burnt honey. Like the Roosts.*
+- **The river watch on the Saltreach bank**: since d.278 Calder flies the lower Wend between the hub and Wendmouth (about ninety leagues of river) with Lisska, because the north road (54, 56) is open and Rowan wants the river watched. **D.281 the barge**: a flat Ostrey grain-barge, the house's green pennant taken down, poling up the Wend at dawn under the Saltreach bank a few leagues below the hub; **forty casks under the grain-sacks**, sealed with pitch; the bargee (**Ambry Coyle**, new, Wendmouth bargee, fat, frightened, honest) shows a Kessmoor waybill: *Resin, sleepwood, forty casks. For the hub batteries. To open the Titan for the fallback*; the waybill bears Garth Tolley's mark; **not on the Accord's warrant** (the warrant lists sixty casks, delivered in the autumn through Blackwater). Lisska smells it before he does: *Honey. Burnt honey. Like the Roosts.*
 - **Council d.283 (hay-barn)**: Calder, standing at the back, warns: **smoke on the wind opens every beast it reaches**: "Not the Titan. Everything. Every hound on the line. Every greyhart. The olifants. Nell's wyverns. The Clan's. Mine. Hers." (Book 2 ch. 21, the Roosts.) Arn: the wet cloths work for a dragon; "Nobody can cloth a thousand hounds in a minute." **Pike**: the forty are the same order, a second delivery, carried cheaper by Ostrey's barges because the Blackwater road is slow in winter; "the warrant will be amended; Tolley was hasty." **Rowan orders**: the smoke goes up only on her word; **every cask to be sealed with the Marshal's seal on the bung**, and kept in the batteries' magazine on the Ferry Flat under a Hearthmere guard as well as Kessmoor's. Pike: "Agreed." (Not a hint: open, approved fallback.)
 - **D.285 the Bell comes up the mouth**: the sea goes white off the Wend's mouth for three leagues; **Wendmouth**: a port-city on the east bank at the mouth, four trading houses that hate one another; **painted stilt-warehouses** along the waterfront; **the floating market**: two hundred barges, hulks and rafts lashed together in the river-mouth's lee, a town on the water where everything still sells; **Gallows Quay** with the Halloran beast-office (empty since Book 1); about **six thousand people** still there (the houses wouldn't leave their stock).
 - **The first wave** at noon: a long swell up the mouth; **the stilt-warehouses go**, one after another, along a league of waterfront, painted fronts folding into the water; the floating market heaves and its lashings part.
-- **The lift**: Calder and the three, **Arn and sixty pairs** (flown down from the hub that morning on Lisska's word), **Nell Tallis's wyverns and Black Ruth's and the Crane brothers'**, and **Kit's barges** (the Merrin barges and a dozen free captains' at the Wend's mouth since d.239) **lift the floating market**: the barges cut loose and poled and towed upriver by Kit's people; the dragons and wyverns taking people off the hulks that can't be moved, in baskets; **the gull-hawks** (Wendmouth's message birds, every house keeps them) **carry the count from barge to barge**: tallies on slips, *forty off the Saffery hulk; ninety on the Merrin second*; Kit at the tiller of the first barge shouting numbers.
-- **Gallows Quay**: Calder lands Lisska on the quay's end to take off the last forty from the beast-office roof; **the cages**: the iron cage-rows still standing, empty, rusted, the doors he broke with a capstan bar in Book 1 still hanging open; he remembers the unicorn colt looking back "like something remembering"; the phoenix feather's glass case in Rusk's window, empty.
+- **The lift**: Calder and the three, **Arn and sixty pairs** (flown down from the hub that morning, hard, on Kit's bird's word), **Nell Tallis's wyverns and Black Ruth's and the Crane brothers'**, and **Kit's barges** (the Merrin barges and a dozen free captains' at the Wend's mouth since d.239) **lift the floating market**: the barges cut loose and poled and towed upriver by Kit's people; the dragons and wyverns taking people off the hulks that can't be moved, in baskets; **the gull-hawks** (Wendmouth's message birds, every house keeps them) **carry the count from barge to barge**: tallies on slips, *forty off the Saffery hulk; ninety on the Merrin second*; Kit at the tiller of the first barge shouting numbers.
+- **Gallows Quay**: Calder lands Lisska on the quay's end to take off the last forty from the beast-office roof; **the cages**: the iron cage-rows still standing, empty, rusted, the doors he broke with a capstan bar in Book 1 still hanging open; he remembers the unicorn colt looking back "like something remembering"; the phoenix feather's glass case in Rusk's window, empty; Rusk, maybe, and his black ship not seen since Corsa (pays off Book 2 ch. 49, X-M).
 - **Kharrak and the Bell**: the Bell's back a league off the mouth, a long low reef-shape where there's none, the bell-note under the water; **Kharrak boils the sea round it**: white fire into the water in a ring, a league round, until the sea steams and the Bell's back is in a boiling ring; it doesn't die; **it pulls back**, out of the river mouth, a league, two, and lies there in the sea at the mouth, waiting. **"Small fire,"** Calder says, at the end, when Kharrak wants to go on. Kharrak: *Small?* "Small." *That was small?* "Smaller than you wanted." Kharrak stops. (Restraint at Titan size.)
-- **Counts**: of six thousand, **five thousand two hundred lifted**; about eight hundred drowned or missing; the floating market moved upriver to the Staithe and lashed again there.
+- **Counts**: of six thousand, **five thousand two hundred lifted**; about eight hundred drowned or missing; the floating market towed upriver over the next ten days to the Staithe (eight leagues below the hub) and lashed again there; Kit reads Calder the count on the bank two days after the lift, with the market strung out under tow behind her.
 - **Echo, d.290 flying home up the Wend**: from Kharrak's neck, high, the Vale ahead: **two new grey lines across it**, straight, one each side of the river, "as if someone had ruled them on the land with a pencil".
 Magic touches: white fire on water; Kharrak's restraint; gull-hawks.
 notes -->
@@ -25,7 +25,7 @@ notes -->
 
 Rowan wanted the river watched.
 
-Not the Vale. The Vale was the line, and the line had ninety-eight thousand people on it, and the knight's walls, and the lion lying on the eastern one like a hill. The river below the line was nobody's. Twelve leagues of the lower Wend between the hub and the sea, with the Saltreach bank on one side and nothing on the other but dead Hearthmere fields.
+Not the Vale. The Vale was the line, and the line had ninety-eight thousand people on it, and the knight's walls, and the lion lying on the eastern one like a hill. The river below the line was nobody's. Ninety leagues of the lower Wend between the hub and the sea, with the Saltreach bank on one side and nothing on the other but dead Hearthmere fields.
 
 The Bell was at the mouth. Everybody knew that. Kit's gull-hawk had said so on the two-hundred-and-thirty-ninth. *Whole sea's white.*
 
@@ -33,7 +33,7 @@ So from the two-hundred-and-seventy-eighth he flew the river.
 
 ---
 
-On Lisska, mostly. She liked it. Down the Wend in the morning, low, over the grey water, to the mouth and back. Twelve leagues. Kharrak and Aurveth on the ridge above the hub, resting. Lisska didn't need resting.
+On Lisska, mostly. She liked it. Down the Wend in the morning, low, over the grey water, to the mouth and back. Ninety leagues each way. Kharrak and Aurveth on the ridge above the hub, resting. Lisska didn't need resting.
 
 *I like rivers*, said Lisska. *You can see where they're going.*
 
@@ -53,7 +53,7 @@ He went cold.
 
 ---
 
-The barge was under the Saltreach bank.
+The barge was under the Saltreach bank, a few leagues below the hub.
 
 Poling upriver. Slowly. A flat grain-barge, broad, low in the water, the kind that came up from Wendmouth with Saltreach wheat when there'd been Saltreach wheat. Grain-sacks piled on its deck under tarred canvas. Four men on the poles. No pennant on its mast. There'd been one; he could see the pale place on the mast where the ties had been.
 
@@ -215,7 +215,7 @@ He was on Lisska before the light.
 
 ---
 
-He saw it from twelve leagues off.
+He saw it from far up the river.
 
 The mouth of the Wend. Where the river went into the Shattered Sea between two low headlands, and Wendmouth stood on the eastern one on its stilts. Beyond it, the sea.
 
@@ -281,7 +281,7 @@ He did what he'd always done. He shouted.
 
 ---
 
-Arn came at the first hour after noon. Sixty pairs. Lisska had gone up the river at dawn, before he did, and told the ridge, and the ridge had told Arn. Red and grey and brown, coming down out of the north over the river, low, with baskets.
+Arn came at the first hour after noon. Sixty pairs. Kit's bird had come to the hay-barn before dawn, and Rowan had sent them down after him, and they'd flown hard. Red and grey and brown, coming down out of the north over the river, low, with baskets.
 
 And behind them, wyverns.
 
@@ -375,6 +375,8 @@ The glass case was still there. On its stand. Empty. Where a feather had lain on
 
 Somebody had taken it. Long ago.
 
+Rusk, maybe. Him and his black ship, out past Corsa's towers on the morning tide, and nobody Calder knew had seen either since.
+
 ---
 
 *Farmer*, said Lisska. *They're on. All of them. Come on.*
@@ -421,7 +423,7 @@ Then again. Different. Lower. Further.
 
 It went back.
 
-He saw it go. Through the steam, through Aurveth's sight, which she gave him from the ridge twelve leagues off because she'd been watching. The long back sinking. Turning. Going out. Away from the mouth. A league. Two. Into the open sea.
+He saw it go. Through the steam, through Aurveth's sight, which she gave him from the ridge ninety leagues off because she'd been watching. The long back sinking. Turning. Going out. Away from the mouth. A league. Two. Into the open sea.
 
 And stopping.
 
@@ -471,7 +473,7 @@ Then he came back to the headland and lay down on the rocks with his chin on the
 
 Five thousand two hundred.
 
-Kit had it. On slips, in a box, at her tiller. She read it to him on the bank above the Staithe two days later, where the floating market had been towed and lashed again, a smaller town on a quieter river.
+Kit had it. On slips, in a box, at her tiller. She read it to him on the bank two days later, with the floating market strung out up the river behind her under tow. Ten days yet to the Staithe, where they'd lash it again, a smaller town on a quieter river.
 
 Five thousand two hundred, off the water and out of Wendmouth.
 

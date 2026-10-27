@@ -14,7 +14,7 @@ Draft notes: Night 318–319. Decided here (proposals):
 - **The sky shared**: the Clan's eighty fit pairs with Gullhaven baskets (twenty a basket at Gullhaven; **six wounded** a basket now, lying); **Yeva's three rocs** (each carries a whole wagon-bed slung, twenty wounded, slow, straight, low); **Nell Tallis's wyverns and Black Ruth's** (fast, a man or two each, in slings); the freed (thirty, from the ledges, carrying baskets with nobody on their backs); **nobody's flight the same size or speed**: rocs slow and straight, dragons in pairs, wyverns darting; three near-collisions over the Drover's Way in the first hour; **Arn learns to work it**: he stops trying to make one flight of it; the rocs take the low straight road down the Drover's Way's line, the dragons the middle air, the wyverns high and fast for the worst cases; each to its own height; "a sky in layers, like a cake"; Yeva signs her agreement with a raised fist.
 - **The wolf**: at the Wyldmarch's river end a Keeper boy (**Osk**, new, sixteen, Rhun's sister's son) sitting with **a grey wolf with its back broken** in the beast-flood; won't leave it; "He's mine. He's not a beast, he's mine"; the surgeons won't fly a wolf; **Arn puts it in Ildra's basket** (Ildra small, red-gold, carries a two-man basket) with the boy beside it; Ildra flies it to Varrhold herself, slowly, Arn on her neck; Gorm at the gate: "That's a wolf." "Yes." "In my hall?" "In the pens. With Leir."
 - **The battery**: every return over the Vale he sees **the Ferry Flat lit all night**: the Bridle's green lamps; its twelve engines' fireboxes; **the crews awake at every engine and every bolt-thrower, standing, with brass watches in their hands, open, in the green light**; at the second hour, the fourth, the sixth; "Nobody keeps watches like that at night. Not for a fallback." He has nobody to say it to: **Gunna is in the Thornwood's ground; Ulric is in Coldtarn**; Calder is asleep; Rowan is on the wall; he says it to Ildra, who doesn't understand watches.
-- **The count**: by dawn **eight hundred and sixty flown out**; two baskets lost (a wyvern's sling parted over Cotter's Cross; a pair's basket iced and dropped at the Scarfell's lip: the riders went down after it and brought up four of six alive).
+- **The count**: by dawn **eight hundred and sixty flown out**; two baskets lost (a wyvern's sling parted over Teo's ford; a pair's basket iced and dropped at the Scarfell's lip: the riders went down after it and brought up four of six alive).
 - **Echo, dawn 319**: Arn lands on the ridge above the hub; between Aurveth's forelegs (not Kharrak's: Kharrak's face is too blistered to lie against) **the farmer asleep, curled on his side, his bandaged hands under his chin, like a boy**; Aurveth's great bronze head curled round him; she opens one eye at Arn and shuts it.
 Magic touches: none (the air war's craft); the freed carrying without riders.
 notes -->
@@ -277,7 +277,7 @@ He held up the lantern to Ildra's basket.
 
 "In the pens," said Arn. "With Leir."
 
-Gorm looked at the wolf, and the boy, and Arn, for a long time.
+Gorm looked at the wolf, and the boy, and Arn.
 
 Then he wrote something in his book.
 
@@ -311,7 +311,7 @@ The sixth.
 
 At the sixth he came low.
 
-He didn't know why. He took Ildra down over the Flat on the way back, empty, low enough to see faces. The crews standing at their engines in the green light. And in their hands, open, brass.
+He took Ildra down over the Flat on the way back, empty, low enough to see faces. The crews standing at their engines in the green light. And in their hands, open, brass.
 
 Watches.
 
@@ -333,7 +333,7 @@ He went over it in his head, on Ildra's neck, in the dark, going north again wit
 
 Rowan was on the wall. Riding it. Saying the words to whoever was awake. She had a hundred things. She'd have said *Kessmoor keeps time, Arn. It's what they do.*
 
-Calder was asleep. On the ridge. He'd been asleep since the Sun went down.
+Calder was asleep. On the ridge. He'd gone to sleep at last, some time in the night.
 
 ---
 
@@ -377,7 +377,7 @@ Gorm had them in his book. Eight hundred and sixty, in the hall at Varrhold and 
 
 Two baskets lost.
 
-A wyvern's sling, parting, over Cotter's Cross. A man in it. They didn't find him.
+A wyvern's sling, parting, over Teo's ford. A man in it. They didn't find him.
 
 A pair's basket iced at the Scarfell's lip in the cold and the rope slipping, and the basket falling into the scree below the lip with six in it. The riders had gone down after it. In the dark, on foot. They'd brought up four alive.
 

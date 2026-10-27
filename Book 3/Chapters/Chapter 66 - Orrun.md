@@ -28,9 +28,7 @@ The Saltreach bank was alive.
 
 She'd felt it come. In the last three days, through Orrun's feet on his bed in the river, through the stone of the eastern wall when she lay against him at night. A hum. Faint. Then not so faint. Coming up under the Saltreach bank as the five came in.
 
-The old man had seen it in his glasses. Climbing. Five of them near the top. She'd thought it was the five, coming.
-
-It was the knot.
+The old man had seen it in his glasses. Climbing. Five of them near the top. She'd thought it was the five, coming. It was the five, and what came with them: the knot, filling.
 
 ---
 

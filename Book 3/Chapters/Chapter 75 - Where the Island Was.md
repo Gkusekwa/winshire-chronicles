@@ -11,7 +11,7 @@ Status: first draft
 Draft notes: Day 319 late afternoon to the small hours of 320. Decided here (proposals):
 - **The hub torn open**: the Last Titan, standing over the eddy with the coal blazing, **puts its forefeet down into the eddy's middle where the island was** and tears: the bed of the Wend opens under the eddy as it opened at the first book's end, **but this time the river pours in**: the whole Wend above and below turning and running into the hole; a roar; the eddy draining downward like water out of a basin; the Ferry Flat's edge going in; the ruined Bridle's remaining engines sliding in.
 - **The middle breaks**: from four hundred feet on Kharrak he sees **every horizon light**: north (Isvaren's snows), west (dead Hearthmere, the Mere), south (the Sunward Hills, Sarovel), east (the Worldsend over the Wyldmarch), south-east (the sea): **a glow coming up out of the ground on every horizon at once**, white, gold, blue, as the old man said: every temple's waking on the same day; **Aurveth sees the tide-lines** lit under the land like veins under skin, all running to the hole and out of it.
-- **The four rise**: the Last Titan up out of the broken eddy on its wings over the Vale, blazing white through its plates (the surge in it); **the Horned Sun** standing on the Saltreach bank at the ruined Wyldmarch line, a full league of day now; **the Pale Coil** coiling up out of the river channel into the air, rime-light; **the Bell**: still held at the mouth by the Lady (74, 76); its back is seen rising out of the sea far off, blazing blue-white under the water, something pale round it; **they stand on the field**; nothing on the ground stands against them; the wards gone; the walls broken in places; the Accord gone.
+- **The four rise**: the Last Titan up out of the broken eddy on its wings over the Vale, blazing white through its plates (the surge in it); **the Horned Sun** standing on the Saltreach bank at the ruined Wyldmarch line, a full league of day now; **the Pale Coil** coiling up out of the river channel into the air, rime-light; **the Bell**: still held at the mouth by the Lady (74); its back seen through Aurveth's sight, a hundred leagues off, rising out of the sea, blazing blue-white under the water, something pale round it; **they stand on the field**; nothing on the ground stands against them; the wards gone; the walls broken in places; the Accord gone.
 - **What's left**: everyone running; north; the Hearthmere bank's people up the River Road and the camp road (Rowan's word, 73); **the Saltreach bank** a broken army and the camps: clans, Wardens, sellswords, Kessmoor crews who didn't go to the Bridle, Sarovel's people come over the pontoon before it went, stonehorns, tuskers, sabrecats, all running in every direction, some toward the hole; the herd scattering.
 - **The herd-charm** (Book 2 ch. 26: his father's word for turning a cow; said loud and sharp into the beast with a hand on her; the elk on the top field): the **Saltreach bank is alive and roaring** with the surge (he feels it hum under Kharrak's fire); he lands Kharrak at the front of the broken mass on the open ground north of the river end where the road behind the fire was; finds **the lead**: **the old tusker cow with the broken tusk** (Quell's herd, 56), standing, rumbling, turning her head every way; **he puts his hand on her** and on the live ground at once (kneeling, one bandaged hand flat on the earth, the other on her foreleg) and **shouts the herd-charm** in his ruined voice **with three Titan-class dragons behind it**: Kharrak over him, Lisska and Aurveth either side; the word goes into the cow and into the ground and out through the ground; **the cow turns north**; the herd behind her; **the tuskers, the stonehorns, the clans, the Wardens, the sellswords, the Kessmoor crews, the children: a broken army turns north like a herd behind its lead cow**, onto the Drover's Way and the scrub tracks and the towpath; toll: **his voice goes**: nothing at all for a day; blood in his mouth.
 - **Echo**: from the eddy, as the river pours into the hole and the bank's edge begins to slide in after it under the people, **Orrun's roar**: not the question it was on the island at the first book's end; **an order to the stone**: *Hold*; and the Saltreach bank's edge stops sliding; the people go north over it.
@@ -27,7 +27,7 @@ He saw it from four hundred feet. Out of the smoke. Up. Its wings open, wide as 
 
 And in its back, through the plates, the coal.
 
-Not red. White. Blazing. So bright he could see it from the air without Aurveth's eyes.
+White now. Blazing. So bright he could see it from the air without Aurveth's eyes.
 
 ---
 
@@ -137,7 +137,7 @@ He looked down. Through her.
 
 The land was full of light.
 
-Under it. Not on it. Under the fields and the downs and the rivers and the roads. Lines. Lit. White and gold and blue. Like the veins under the skin of a wrist when you hold it up to a candle.
+Under the fields and the downs and the rivers and the roads. Lines. Lit. White and gold and blue. Like the veins under the skin of a wrist when you hold it up to a candle.
 
 The tide-lines. The old College's brown ink. Every kingdom's. He could see them. All of them. Running across the whole of Winshire under the ground, lit, from every horizon.
 
@@ -193,7 +193,7 @@ Into the air. He'd never seen it out of water. It came up out of the cracking ic
 
 And far off, south, at the mouth, the Bell.
 
-He couldn't see it. He saw the sea. Lit from under. Blazing blue-white, out beyond the headlands, in a long shape. Rising.
+He couldn't see it. It was a hundred leagues off. Aurveth could. Through her he saw the sea lit from under, blazing blue-white, out beyond the headlands, in a long shape. Rising.
 
 And round it, something pale. Holding.
 
@@ -201,7 +201,7 @@ And round it, something pale. Holding.
 
 Four.
 
-The Last Titan over the hole. The Sun on the Saltreach bank. The Coil in the air over the channel. The Bell's light at the mouth.
+The Last Titan over the hole. The Sun on the Saltreach bank. The Coil in the air over the channel. The Bell's light at the mouth, in Aurveth's eyes.
 
 Standing on the field.
 
@@ -275,7 +275,7 @@ He thought of the top field.
 
 ---
 
-Above Harrow's End. His own. Gone to weed. The spring before last. Four hundred great elk coming down off the Scarfell mad, with thirty people in the village behind him and nowhere to go but the river. An old cow at the herd's head, with antlers like two spread hands and a white blaze. Lisska turning her down to him. His hand on her antler.
+Above Harrow's End. His own. Gone to weed. The summer before last. Four hundred great elk coming down off the Scarfell mad, with thirty people in the village behind him and nowhere to go but the river. An old cow at the herd's head, with antlers like two spread hands and a white blaze. Lisska turning her down to him. His hand on her antler.
 
 His father's word.
 
@@ -483,7 +483,7 @@ He knelt there until the last of them had gone past.
 
 Then he got up. His knees. His hand off the ground, covered in earth. He looked at it.
 
-He looked at the four standing on the field behind him. The Last Titan over the hole, blazing white, the river going down into the ground under it. The Sun on the bank, a league of day. The Coil in the air, coiling, snowing frost. The sea lit at the mouth.
+He looked at the four standing on the field behind him. The Last Titan over the hole, blazing white, the river going down into the ground under it. The Sun on the bank, a league of day. The Coil in the air, coiling, snowing frost. And far south, through Aurveth, the sea lit at the mouth.
 
 They didn't follow.
 

@@ -13,7 +13,7 @@ Draft notes: Day 319, noon to mid-afternoon. Decided here (proposals):
 - **Her greyhart** goes in the smoke under her: rears, throws her on the wall's top, bolts; she gets up with Haverly's edge and her own sword.
 - **The word to every camp**: she sends all four runners and the signaller's flags: **"Run north. Every camp. Now. The Drover's Way. The River Road. Any road north. By the Marshal's word."** (Her word, the only one she has left that anybody will obey.) The signaller's flags go along the wall; the Saltreach bank's signaller answers.
 - **The gap**: the Hearthmere battery's sector beside the Ferry Flat, empty since Kessmoor's crews went in; **the Coil** coming through it from the river (it came down the channel into the bend's sector and along the river's edge behind the wall, 72) **into the Hearthmere camp's eastern end**, where the camp's road runs north-west to the River Road; thousands on it.
-- **The knights**: what's left at the bend and the hub: **ninety**, on foot; **bonded and unbonded together**: the bonded on foot because their greyharts and hounds have run mad (some of the hounds dead by their own knights' hands; some of the knights dead by their hounds'); **Wynn** alive, her forearm torn where she put it up against Ash's teeth, Sorrow at her knee still (Sorrow came back through the smoke; Ash didn't); the woman with the falcon; militia with pikes; a few of Mattias's unchosen on foot. Rowan: **"On the gate, there is no bond."** (Greyhold's oldest rule: on the river gate bonded and unbonded stand as equals: one sword, one pair of eyes.) They form across the gap: **a line of people, not a chain**, to hold the camp's north road open behind them.
+- **The knights**: what's left at the bend and the hub: **ninety**, on foot; **bonded and unbonded together**: the bonded on foot because their greyharts and hounds have run mad (some of the hounds dead by their own knights' hands; some of the knights dead by their hounds'); **Wynn** alive, his forearm torn where he put it up against Ash's teeth, Sorrow at his knee still (Sorrow came back through the smoke; Ash didn't); the woman with the falcon; militia with pikes; a few of Mattias's unchosen on foot. Rowan: **"On the gate, there is no bond."** (Greyhold's oldest rule: on the river gate bonded and unbonded stand as equals: one sword, one pair of eyes.) They form across the gap: **a line of people, not a chain**, to hold the camp's north road open behind them.
 - **Haverly's edge** dark on the Last Titan's dead ground; "only steel"; she carries it in her right hand and her own in her left.
 - **The Coil comes**: its pale head out of the rime, barn-sized, pike-like; the cold killing at a spear's length; the line's front rank freezing where they stand; Rowan goes forward and cuts at its jaw with Haverly's edge: steel on frost-scale, a long white scar; it rears; she cuts again; the militia's pikes; the Coil's body comes round through the gap's edge like a falling wall; **it pauses**, turns its head toward the river, toward the eddy (where the relic is waking; called); then comes on.
 - **She holds**: an hour; more; the camp's road north emptying behind her; the flags going along both walls: *north*; **she dies**: the Coil's coil comes over the line's centre where she stands; the cold; she stands in it with both swords up; Wynn sees her **frozen standing** in the rime, white, Haverly's edge in her right hand, dark; the Coil goes past her and on toward the river.
@@ -73,7 +73,7 @@ And the greyhart went.
 
 ---
 
-Under her. She felt it go. Not a shy. Not a rear. Something going out of it. Its head coming up, and round, and its eye on her, and nothing in its eye.
+Under her. She felt it go. Not a shy. Something going out of it. Its head coming up, and round, and its eye on her, and nothing in its eye.
 
 It reared.
 
@@ -195,13 +195,13 @@ On foot. All of them.
 
 Wynn first.
 
-Her left forearm bound up in a strip of her own surcoat, soaked dark. Where she'd got it up between her throat and Ash's teeth. And at her knee, a hound.
+His left forearm bound up in a strip of his own surcoat, soaked dark. Where he'd got it up between his throat and Ash's teeth. And at his knee, a hound.
 
 Sorrow. The other one. Grey, shaking, with its eyes back in it. Come back through the smoke to its knight.
 
 Ash hadn't.
 
-"I had to," said Wynn. She didn't say what. "Sorrow came back."
+"I had to," said Wynn. He didn't say what. "Sorrow came back."
 
 ---
 
@@ -361,9 +361,7 @@ Then it stopped.
 
 She saw it stop. The great pale head, up, over the line. And turning. Away from her. Toward the river. Toward the eddy.
 
-Listening.
-
-As a hound listens when it hears its name.
+Listening, as a hound listens when it hears its name.
 
 Something was calling it.
 
@@ -421,7 +419,7 @@ Emptying.
 
 ---
 
-Wynn beside her. With her torn arm. With Sorrow at her knee, shaking, growling at the cold.
+Wynn beside her. With his torn arm. With Sorrow at his knee, shaking, growling at the cold.
 
 "Marshal."
 
@@ -479,9 +477,9 @@ With both swords up.
 
 Wynn saw her.
 
-After. When the Coil had gone past. On, toward the river, toward whatever was calling it in the eddy, its body sliding back through the gap into the water. Wynn on her knees in the rime with Sorrow beside her and the road behind her empty.
+After. When the Coil had gone past. On, toward the river, toward whatever was calling it in the eddy, its body sliding back through the gap into the water. Wynn on his knees in the rime with Sorrow beside him and the road behind him empty.
 
-She saw the Marshal.
+He saw the Marshal.
 
 ---
 

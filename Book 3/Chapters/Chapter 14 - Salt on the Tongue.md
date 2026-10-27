@@ -5,7 +5,7 @@ POV: Maren
 Part: Part Two: Salt
 Days: 76–80 (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): Blackwater
-Beats: Maren, Idony and Orrun come into Blackwater on Calder's word at Ironhythe (12), ten days and more than two hundred leagues from the Accord. There's no law here but the contract. Orrun frightens the whole inlet; Maren has no money. Kit names her price for a crossing: the Accord's warrant to clear the Merrin debt, plus labour. The Bell's waking dropped a reef-stone across the Merrins' own channel, and only a lion who moves stone can shift it. They swear the contract on salt, the Saltreach way, a pinch on the tongue. Idony is delighted.
+Beats: Maren, Idony and Orrun come into Blackwater on Calder's word at Ironhythe (12), eleven days and more than two hundred leagues from the Accord. There's no law here but the contract. Orrun frightens the whole inlet; Maren has no money. Kit names her price for a crossing: the Accord's warrant to clear the Merrin debt, plus labour. The Bell's waking dropped a reef-stone across the Merrins' own channel, and only a lion who moves stone can shift it. They swear the contract on salt, the Saltreach way, a pinch on the tongue. Idony is delighted.
 Echo of another story: Lisska over the Saltings, too far off to speak.
 Status: first draft
 Draft notes: Days 76–80. Decided here (proposals):
@@ -13,10 +13,10 @@ Draft notes: Days 76–80. Decided here (proposals):
 - **Orrun frightens the whole inlet**: he comes down the cliff path onto the shingle; ships slip their moorings and stand off into the inlet; sellswords leave their fires; the stilt-houses pull up their ladders, one after another, all round the inlet's head, a clattering going away round the water. Orrun lies down on the shingle where the sellswords' fires were and puts his chin on his paws.
 - **Maren has no money**: three silver and some coppers; the Accord's brass seal (ch. 12) in her coat.
 - **D.77 Kit Merrin** comes to her, not the other way: rows across from the eastern end at dawn alone and walks up the shingle to the lion as if he were a cargo: "You're the one who wants to go west." "Yes." "I'm the one who can take you." Kit has done her sums. **Gannet** in the boat behind; the smile; "Mistress student knight." Maren knows him at once. "The cub was worth a gold piece." "It was worth more than that to the cub."
-- **Kit's price**, d.78 aboard the *Kittiwake* at the stern-cabin table: (1) **the Accord's warrant to clear the Merrin debt to Ostrey** (the sum against the ketch, due day 100): Maren's seal on Ostrey's paper, drawn on the Accord's chest at Ironhythe as a war's necessary cost; (2) **labour**: the reef-stone in the Merrins' channel, which only a lion who moves stone can shift; (3) passage both ways, the Merrins' rule kept by everyone aboard (*never sleep ashore over there*), and the Merrin road kept secret. Kit tells her about the rule but not why; she doesn't know why. Maren: the warrant's for the war's necessary costs. Kit: "So's the boat." Maren thinks about Kaye: *and keep a record*. She seals it. **The sum** isn't named in the prose (a house's ketch: "more than Greyhold's stable was worth").
+- **Kit's price**, d.78 aboard the *Kittiwake* at the stern-cabin table: (1) **the Accord's warrant to clear the Merrin debt to Ostrey** (the sum against the ketch, due day 100): Maren's seal on Ostrey's paper, drawn on the Accord's chest at Ironhythe as a war's necessary cost; (2) **labour**: the reef-stone in the Merrins' channel, which only a lion who moves stone can shift; (3) passage both ways, the Merrins' rule kept by everyone aboard (*never sleep ashore over there*), and the Merrin road kept secret. Kit tells her about the rule but not why; she says she doesn't know why. Maren: the warrant's for the war's necessary costs. Kit: "So's the boat." Maren thinks about Kaye: *and keep a record*. She seals it. **The sum** isn't named in the prose (a house's ketch: "more than Greyhold's stable was worth").
 - **Salt on the tongue**: Kit brings a dish of grey sea-salt from the galley; each takes a pinch from the same dish and puts it on the tongue; Kit's words: *Salt between us. What's sworn is kept, or neither of us is fit to drink with.* Idony, who has only ever read about it, takes a pinch too, though he isn't party to it, and Kit lets him, and he's delighted: "Third century. Corsa's founding charter has it. I never thought I'd taste one." Gannet witnesses, and doesn't take salt.
-- **D.79–80**: Idony in the hold among the far-stone (plant for 16: the tide-glass climbing); Maren on deck with Kit, prices; Maren's fingertips grey and numb since the ford, she keeps her left hand in her coat.
-- **Echo**, dusk 80: from the cliff top, far off west along the coast over the Saltings, a green speck turning in the last light; Orrun lifts his head; *Too far. She can't hear. Nor can I.*
+- **D.79–80**: Idony in the *Kittiwake*'s hold among the far-stone (plant for 16: the tide-glass climbing); Maren on deck with Kit, prices; Maren's fingertips grey and numb since the ford, she keeps her left hand in her coat.
+- **Echo**, dusk 80: from the cliff top, far off west along the coast over the Saltings, a green speck turning in the last light; Orrun lifts his head; *Too far. She can't hear. Nor can I.* He guesses she's looking at the sea.
 Magic touches: none worked; kin-speech fails at distance; far-stone's hum; the Accord seal.
 notes -->
 
@@ -32,7 +32,7 @@ Below, the town.
 
 She'd heard about Blackwater from the farmer.
 
-In twelve words, at Ironhythe, by a dragon. He hadn't said it was like this. Black cliffs going up into cloud. Black water. Houses on legs, tarred, crowded round the inlet's head, leaning on each other over the water. Lanterns coming on in the windows. Ships at anchor.
+In a handful of words, at Ironhythe, by a dragon. He hadn't said it was like this. Black cliffs going up into cloud. Black water. Houses on legs, tarred, crowded round the inlet's head, leaning on each other over the water. Lanterns coming on in the windows. Ships at anchor.
 
 And on the shingle below the path, fires. Men round them. Sellswords. A lot of them.
 
@@ -48,7 +48,7 @@ Out in the deep water the ships slipped their moorings. She saw them do it. Men 
 
 On the beach the sellswords left their fires.
 
-Not running. Walking backwards. Fast.
+Walking backwards. Fast.
 
 ---
 
@@ -80,7 +80,7 @@ She undid the strap and got him down.
 
 ---
 
-Ten days.
+Eleven days.
 
 Out of Ironhythe on the sixty-fifth by the canal road south-east, and then off it, across country. Orrun at his long lope, the one he could keep up all day. She'd never asked him how far. Twenty leagues in a day. More. She'd sat on his back with her eyes shut against the wind and let him go.
 
@@ -168,7 +168,7 @@ Then she knew him.
 
 The jetty at Millbrook. The cage. The pin.
 
-A student in a grey coat. With a practice sword and her brother beside her with his mouth open, and a young duskcat in a cage with a cheap padlock on the pin, and this man on the jetty with two men behind him and his smile.
+A student in Greyhold blue. With a practice sword and her brother beside her with his mouth open, and a young duskcat in a cage with a cheap padlock on the pin, and this man on the jetty with two men behind him and his smile.
 
 He looked older. Heavier. The smile hadn't changed at all.
 
@@ -342,7 +342,7 @@ He didn't take salt. Kit didn't ask him to. He stood in the door with his hands 
 
 The old man went down into the hold on the seventy-ninth and didn't come up.
 
-The salvage hold. Under the deck, aft, among the ballast. Kit had told him the ballast was far-stone: grey old blocks off the far shore's buildings, that the Merrins stowed low to keep the ketch stiff and sold in flakes on Gallows Quay. Idony had gone down the ladder as if it were a stair into a library.
+The *Kittiwake*'s hold. Under the deck, aft, among the ballast. Kit had told him the ballast was far-stone: grey old blocks off the far shore's buildings, that the Merrins stowed low to keep the ketch stiff and sold in flakes on Gallows Quay. Idony had gone down the ladder as if it were a stair into a library.
 
 She went down at noon to bring him bread.
 
@@ -390,7 +390,7 @@ He looked at it a long time.
 
 "Him, probably."
 
-*No,* said Orrun. *He's with her. She's looking for the bell one. In the sea.*
+*No,* said Orrun. *He's with her. She's looking at the sea. Something in it.*
 
 The speck turned once more, and went down behind the coast's edge, into the dark.
 

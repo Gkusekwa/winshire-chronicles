@@ -5,18 +5,18 @@ POV: Maren
 Part: Part Seven: Coldtarn
 Days: 322 (afternoon and evening) (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): The hall under Coldtarn
-Beats: Maren counts the people into the hall under Coldtarn, as she counts everything: a few hundred, and their beasts, a knight's hound, a Keeper's wolf, two greys, a stonehorn calf. Wren and Old Grey, Ada, Bel, Pip and Nan; Liss; Tam with his wagons; Fisk, who's going to tell it after; Kit and Jory; Davin and Idony; Arn's riders' families; people from every kingdom, Kessmoor's battery crews among them. The roof cracks. Idony knows the *hold* rune and can't hold a tool; Tam can hold a tool and can't read; so Idony says the strokes and Tam cuts them into the roof-stone, with Maren's hand flat on it and Orrun's earth going through her from the door. Coldtarn's ground is alive, the Deep running warm under it, and the rune answers. The roof holds.
+Beats: Maren counts the people into the hall under Coldtarn, as she counts everything: a few hundred, and their beasts, a knight's hound, a Keeper's wolf, two greys, a stonehorn calf. Wren and Old Grey, Ada, Bel, Pip and Nan; Liss; Tam with his old ones; Fisk, who's going to tell it after; Kit and Jory; Davin and Idony; Arn's riders' families; people from every kingdom, Kessmoor's battery crews among them. The roof cracks. Idony knows the *hold* rune and can't hold a tool; Tam can hold a tool and can't read; so Idony says the strokes and Tam cuts them into the roof-stone, with Maren's hand flat on it and Orrun's earth going through her from the door. Coldtarn's ground is alive, the Deep running warm under it, and the rune answers. The roof holds.
 Echo of another story: Through Orrun, his kin coming up the Scarfell.
 Status: first draft
 Draft notes: Day 322, afternoon and evening. Decided here (proposals):
-- **Orrun at the door**: he left the Scarfell's foot when the last wagon went over the lip (d.321, afternoon), walking north slowly with his kin following at a distance, stopping when it stopped; at **the second hour after noon of 322** he comes over the bowl's rim in the storm and down to the tarn's shore below the door; he lies down across the foot of the slope (the new raw slope from Gannet's slide) **with his head at the step**, as a dog lies across a doorway.
+- **Orrun at the door**: he left his place below Harrow's End when the last wagon went up past the top field (d.321, afternoon), walking north slowly with his kin following at a distance, stopping when it stopped; at **the second hour after noon of 322** he comes over the bowl's rim in the storm and down to the tarn's shore below the door; he lies down across the foot of the slope (the new raw slope from Gannet's slide) **with his head at the step**, as a dog lies across a doorway.
 - **Maren takes the count from Kit** at the step: "Two hundred and ninety." Kit: "Two hundred and ninety-one. The girl in the red coat. I caught her." Maren counts on from there. Kit stays on the step with her, with the salt pocket empty.
 - **Who comes in** (in order, as she counts): the rest of Tam's old ones; the Clan's families (the last of them); **Ada, Bel, Pip and Nan** from the caves across the bowl (they came round the shore in the storm; Ada with her lantern); **Wren** with **Old Grey** on a halter (the grey won't go into the dark; Wren talks to him and he goes; **Sorrel** the young mare with them: **two greys**); **Liss** (came up the Way from the hub with Fisk, her brass lamp in a sack and the ferry's windlass-pin in her pocket: "The river's gone. I brought the pin"); **Fisk** ("Somebody's got to. To tell it after"); **Wynn** with **Sorrow** (the knight's hound); **Osk** with **the wolf** (in already: counted again by mistake and taken off); **a stonehorn calf** that followed a Wyldmarch woman up the slope and won't leave her; **Kessmoor's battery crews** (eleven, grey, the ones who refused the orders at the hub battery's twenty and kept firing west); a Sarovel olifant-boy (no olifant); two Isvaren Wardens; three sellswords; a Saltreach woman captain with knots on a string; Davin and Idony (in already); **Jory and Kit** last of the morning's, counted by Maren at the end: "And you." "And me."
 - **The count at dusk**: **four hundred and seventy-three** people (and beasts: a hound, a wolf, two greys, a stonehorn calf). The niches full; the floor filling. Tam: "Room for thirty. If they stand."
 - **The roof cracks**: at dusk the surge's shaking comes up through the bowl harder; **a crack opens across the hall's roof** near the door, between the third and fourth pillars, dust and grit falling; the roof-stone sagging a hand's breadth.
 - **The rune**: Idony (on his hurdle by the pillars) knows **the *hold* rune** (cut once at Vael with Haverly's edge, Book 2 ch. 37) and **can't hold a tool**; Tam has Odo's chisel and hammer and **can't read**; Idony says the strokes; Tam cuts them **into the roof-stone at the crack**, standing on **Old Grey's back** (Wren at the grey's head, holding him still, talking); Maren on the step, **her right hand flat on the door's jamb**, the stone of the crag, which runs into the roof; **Orrun's earth through her** from where he lies at the step with his head on the stone; **Coldtarn's ground alive**: the Deep warm under it; the strokes: *down. Then the hook, left. Then the cross, high, from the right.* Tam cuts each one.
 - **The rune answers**: the last stroke; the cut lines in the roof-stone light white, thin, along their edges; the sagging roof-stone lifts the hand's breadth back; the crack closes to a hair; dust stops; **the roof holds**. Toll: Maren cold for the rest of the night "colder than she'd been under the sea" (and she was already cold).
-- **Echo**: through Orrun, lying at the step with his chin on the stone: **his kin coming up the Scarfell** behind them: out of the south, over the lip at Harrow's End, past the top field, white, blazing, on foot now, wings folded, coming up the Way toward Coldtarn; *He's on the moor. He's coming up. He's slow. He's in no hurry.*
+- **Echo**: through Orrun, lying at the step with his chin on the stone: **his kin coming up the Scarfell** behind them: out of the south, up past the top field and over the lip, white, blazing, on foot now, wings folded, coming up the Way toward Coldtarn; *He's on the moor. He's coming up. He's slow. He's in no hurry.*
 Magic touches: the *hold* rune cut by two people on live ground with a Titan's earth behind it; Orrun at the door.
 notes -->
 
@@ -28,7 +28,7 @@ In the storm. In the snow going sideways off the south, with the wind that the o
 
 She was on his head.
 
-She'd been on his head since the Scarfell's foot. All night. All morning. While he walked north up the moor behind the last of the column, and his kin came behind him, and stopped when he stopped, and came on when he came on.
+She'd been on his head since the village. All night. All morning. While he walked north up the moor behind the last of the column, and his kin came behind him, and stopped when he stopped, and came on when he came on.
 
 He hadn't turned to fight it. He'd walked ahead of it. To here.
 
@@ -52,9 +52,7 @@ He lay down.
 
 ---
 
-Across the slope's foot. With his flank to the tarn. With his head up the slope, on the stones, so that his chin lay on the step at the top, by the door.
-
-As a dog lies across a doorway.
+Across the slope's foot. With his flank to the tarn. With his head up the slope, on the stones, so that his chin lay on the step at the top, by the door, as a dog lies across a doorway.
 
 Nobody would get past him to the door without going over him. Nobody would get to it from the tarn without his leave.
 
@@ -318,7 +316,7 @@ He went in.
 
 Wynn.
 
-With her arm bound up. With a hound at her knee. Grey. Shaking. Its eyes its own.
+With his arm bound up. With a hound at his knee. Grey. Shaking. Its eyes its own.
 
 Sorrow.
 
@@ -620,11 +618,11 @@ She looked through him.
 
 ---
 
-South. Over the bowl's rim. Over the high moor in the storm. To the Scarfell's lip at Harrow's End, a long way off, where the Way came over.
+South. Over the bowl's rim. Over the high moor in the storm. To the Scarfell's lip, a long way off, where the Way came over.
 
 Something white coming over it.
 
-Blazing. Walking. Not flying. Its wings folded on its back. Coming up past the top field, past the grey shape lying on it, without stopping. Onto the high moor. Up the Way. Toward Coldtarn.
+Blazing. Walking. Not flying. Its wings folded on its back. It had come up past the top field and the grey shape lying on it without stopping. Now onto the high moor. Up the Way. Toward Coldtarn.
 
 Slowly.
 

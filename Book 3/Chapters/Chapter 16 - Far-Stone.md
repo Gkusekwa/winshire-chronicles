@@ -16,7 +16,7 @@ Draft notes: Days 80–84. Decided here (proposals):
 - **Maren writes** for him (Liss wrote at the ferry house; Davin before her): her square soldier's hand, each letter separate, slow; he dictates slowly too, to match; neither mentions it. What she writes (the page that Gannet will later copy, ch. 29): the formula, the counting-down, *into the light* with no number; the glass's climb; the bearing; one line he adds at the end, half to himself, which she writes because he says it: ***It answers a breath that is unbound.*** (Plant for Gannet's copies, the Bridle and 69: the reader learns it only at 69.) Idony means the shore: the full, undrunk breath. He doesn't know what else it could be read as.
 - **Gannet** brings lamp oil down the ladder on day 83 and stays at the bottom of it a while, reading over Maren's shoulder, upside down, easily. Idony notices that he reads. He says nothing; it's a Saltreach ship and everyone on it reads prices.
 - **The feather**: Idony asks Kit, d.82, where a Merrin would find a thing that stays warm forever. Kit: "Ask my grandmother. She's dead." Then: "From where we go. That's all she said." Idony writes nothing down about it.
-- **Echo**, d.84 noon, through the hold's slip: Maren and Kit on the walkway above arguing the price of a lion's day (Kit wants the reef-stone shifted at the bottom of the spring tide on the 85th, Maren says the 84th, Kit says the 84th costs extra); Maren loses; Idony laughs on his block.
+- **Echo**, d.84 noon, through the hold's slip: Maren and Kit on the walkway above arguing the price of a lion's day (Kit wants the reef-stone shifted at the month's lowest tide on the 85th, Maren says the 84th, Kit says the 84th costs extra); Maren loses; Idony laughs on his block.
 - **His toll, or his lack of one**: near the stone his hands shake less. He doesn't tell Maren.
 Magic touches: far-stone's hum; the hooked script; the tide-glass climbing (measure, not craft); far-stone as carried live ground (proposal).
 notes -->
@@ -129,7 +129,7 @@ The first pier. South-west of the Shatters' edge, two days out.
 
 *Thirty-nine.*
 
-Counting down. Every page. Every pier one less. Abram had copied the numbers without knowing they were numbers, and his son had, and his son's daughter, and the man who'd drowned, and the woman holding the book. Four generations of Merrins drawing a count they couldn't read.
+Counting down. Every page. Every pier one less. Abram had copied the numbers without knowing they were numbers, and his daughter had, and her son, who'd drowned, and the woman holding the book. Four generations of Merrins drawing a count they couldn't read.
 
 *Nine.* A page with a darker margin. A note in a newer hand: *Hal. Squall. The boat.*
 
@@ -187,11 +187,11 @@ A third of the way up the column.
 
 There it stopped. And held.
 
-He sat and looked at it for a long time.
+He sat and looked at it.
 
 ---
 
-In the *Kittiwake*'s hold it had climbed a little. A finger's width. He'd thought that was the sea.
+In the *Kittiwake*'s hold it had climbed a little. A finger's width. He'd hardly dared believe it.
 
 Here, among forty blocks, a third.
 
@@ -233,7 +233,7 @@ She was at the top of the ladder again. She came down when he talked about money
 
 "One in ten," said Idony. "Your great-grandfather was selling live ground by the pinch." He smiled. "At two silver. He was robbing himself."
 
-Kit looked at the flake for a long time.
+Kit looked at the flake.
 
 "Don't tell Ostrey," she said.
 
@@ -267,11 +267,11 @@ He told her where. She walked them.
 
 ---
 
-The coast of Saltreach, on the old chart, a different shape from now, because the chart was older than the split. Blackwater's inlet, a notch under the mountains' end. The edge of the Shatters, where the old chart showed land and the new world had sea.
+The coast of Saltreach, on the old chart. Blackwater's inlet, a notch under the mountains' end. The edge of the Shatters, and past it, nothing but sea and the readers' marks.
 
 And Abram's first bearing off it. South and west.
 
-Maren walked the dividers. He read her the turns from the book. Pier to pier. Bearing to bearing. Forty-one, forty, thirty-nine, down the page, down the chart, south-west across what had been land when the chart was drawn and was sea now, and had been sea for a thousand years. Her dividers went across it step by step. Slowly. Neither of them said anything about how slowly.
+Maren walked the dividers. He read her the turns from the book. Pier to pier. Bearing to bearing. Forty-one, forty, thirty-nine, down the page, down the chart, south-west across the sea. Her dividers went across it step by step. Slowly. Neither of them said anything about how slowly.
 
 At *one*, she stopped.
 
@@ -279,7 +279,7 @@ At *one*, she stopped.
 
 The dividers' point was on the margin.
 
-The chart's south-western margin. The edge of the world, as the old realm had known it. And there, under the point, the mark. The little hooked sign he'd found at Liss's table. And beside it, in six hands, six scholars across six hundred years who'd each been sure it couldn't be right:
+The chart's south-western margin. The edge of the world, as the readers had known it. And there, under the point, the mark. The little hooked sign he'd found at Liss's table. And beside it, in six hands, six readers across two hundred years who'd each been sure it couldn't be right:
 
 *Error.*
 
@@ -353,7 +353,7 @@ He heard them at noon on the eighty-fourth.
 
 Through the slip at the hold's end, where the light came in off the water. Above him, on the walkway. Kit's voice and Maren's. He knew the tone before he heard the words. He'd heard it every day for four days.
 
-"The eighty-fifth," said Kit. "The bottom of the spring tide. That's when the stone's shallowest. That's when the lion lifts it."
+"The eighty-fifth," said Kit. "The bottom of the tide. The lowest this month. That's when the stone's shallowest. That's when the lion lifts it."
 
 "The eighty-fourth," said Maren. "Tonight. The tide's nearly as low. It's a day sooner."
 

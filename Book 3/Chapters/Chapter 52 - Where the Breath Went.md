@@ -9,9 +9,9 @@ Beats: The Antlered's breath didn't go free. It went back into the Deep and up i
 Echo of another story: Calder's dragons all looking west at once.
 Status: first draft
 Draft notes: Days 236–240 (207–235 told back). Decided here (proposals):
-- **The glass-line**: on d.207 Idony asked Rowan for **eight riders to carry eight tide-glasses** east along the clans' road and set them at stations a day apart, so that whatever the Antlered's death did, he'd see it move: **(1) the Thornwood's western edge (Hobb kept it), (2) the Greenwold's edge, (3) the Candle Downs' east end, (4) the Hallowmere road at the Downs' west end, (5) the camp (his own), (6) Greyhold's fallen hill, (7) the Mere's eastern shore at a drowned farm called Sallow End (new), (8) the Staithe** (a check, off the line). Each station-keeper wrote the glass's height every quarter-hour by the sun from d.225. The riders brought the logs back d.233–236; **the fourth (Hallowmere road) came last, on 236**, which is why he shouted for it.
-- **What the logs show**: at **noon on d.228** the Thornwood glass leapt and fell; **a quarter-hour later the Greenwold glass leapt and fell; then the Downs; then the Hallowmere road; then the camp's own glass** (Davin had logged it and nobody looked); **then Greyhold's hill; then the Mere's: and the Mere's glass leapt and didn't fall.** It stayed up. It's still up. The Staithe's glass, off the line, never moved. "Like a wave going down a rope. To the one who's holding the end."
-- **Calder's confirmation**: Idony sends Davin up the ridge d.237; Calder looks through Aurveth a hundred leagues: **the coal in the Last Titan's back is brighter, "like a coal somebody's blown on"**; and the five dark eggs round it unchanged; **the Last Titan has turned on the Mere's bottom and lies with its head toward the Marches.**
+- **The glass-line**: on d.207 Idony asked Rowan for **eight riders to carry eight tide-glasses** out along the clans' road and on west past the camp, and set them at stations a day apart, so that whatever the Antlered's death did, he'd see it move; she gave him seven (six knights and Hobb), since the camp's glass stays with Davin: **(1) the Thornwood's western edge (Hobb kept it), (2) the Wyldmarch border, (3) Skarrow, on the Scarfell's east side, (4) Varrhold's gate, (5) the camp (his own), (6) Greyhold's fallen hill, (7) the Mere's eastern shore at a drowned farm called Sallow End (new), (8) the Staithe** (a check, off the line). Every station before the camp lies east of the Wend. Each station-keeper wrote the glass's height every quarter-hour by the sun from d.225. The riders brought the logs back d.233–236; **the fourth (Varrhold's gate) came last, on 236**, which is why he shouted for it.
+- **What the logs show**: at **noon on d.228** the Thornwood glass leapt and fell; **a quarter-hour later the border glass leapt and fell; then Skarrow; then Varrhold's gate; then the camp's own glass** (Davin had logged it and nobody looked); **then Greyhold's hill; then the Mere's: and the Mere's glass leapt and didn't fall.** It stayed up. It's still up. The Staithe's glass, off the line, never moved. "Like a wave going down a rope. To the one who's holding the end."
+- **Calder's confirmation**: Idony sends Davin up the ridge d.237; Calder looks through Aurveth some forty-five leagues: **the coal in the Last Titan's back is brighter, "like a coal somebody's blown on"**; and the five dark eggs round it unchanged; **the Last Titan has turned on the Mere's bottom and lies with its head toward the Marches.**
 - **The rule** (proposal, now said): a dead Titan's breath goes back into the Deep and to the nearest Titan while any remain; with the relic, to the one who holds it. "Nothing's let go. Nothing comes free." This is why no elemental stirs (Idony doesn't say *elemental*; he says "nothing new in the ground; nothing small"; he has looked).
 - **Idony goes to Tova's fire** first (d.237), before the council, because it's her wood: "It didn't go into your ground, Elder. I'm sorry. I thought it would. Nothing will grow from it." Tova: "Then what grows from the ash?" "Something. Ash is ours." She nods. She comes to the council for this one sitting only.
 - **Council d.238** in the barn (winter coming; first frost): Rowan, Thale, Pike, Mattias, Rennick, Aud Hallin, Arn, Tova (standing, at the door, not at the table), Calder (standing at the back), Maren absent (on the road with the clans and the lame lion, d.228–245). **Idony with the eight logs pinned to the barn wall in a line** (Davin's quarter-hour columns). "Every one we kill, he eats." **Pike**: "Then we kill them all at once." Idony: "Then he eats all five at once." **Rowan**: "Then the relic has to be taken. Not won." **"The Lamp's plan was always the plan. Now it's the only one."** Pike writes in her book.
@@ -45,15 +45,15 @@ She'd looked at him as soldiers looked at him. Patiently. As at a man asking for
 
 Rowan had looked at him a while longer.
 
-Then she'd given him nine.
+Then she'd given him seven, and Hobb for the last.
 
 ---
 
 So there'd been eight glasses on the road.
 
-Sealed glass, the length of a finger, a drop of quicksilver in each under the rune that rises with the Deep. Packed in wool. Carried east by six of Rowan's knights and a clerk's boy.
+Sealed glass, the length of a finger, a drop of quicksilver in each under the rune that rises with the Deep. Packed in wool. Carried out along the road by six of Rowan's knights and a clerk's boy.
 
-The first at the Thornwood's western edge, with Hobb. The second at the Greenwold's edge, where the burned country started. The third at the Candle Downs' east end. The fourth on the Hallowmere road, at the Downs' west end. The fifth here, on the shelf in his room, with Davin. The sixth on Greyhold's fallen hill. The seventh at the Mere's eastern shore, at a drowned farm called Sallow End, where a knight sat in a hayloft above the water for twenty days with the Last Titan lying a league out under it.
+The first at the Thornwood's western edge, with Hobb. The second at the Wyldmarch border, where the dead country ended. The third at Skarrow, on the Scarfell's east side. The fourth at Varrhold's gate. The fifth here, on the shelf in his room, with Davin. The sixth on Greyhold's fallen hill. The seventh at the Mere's eastern shore, at a drowned farm called Sallow End, where a knight sat in a hayloft above the water for twenty days with the Last Titan lying a league out under it.
 
 And the eighth at the Staithe. Off the line. To be sure.
 
@@ -61,11 +61,11 @@ And the eighth at the Staithe. Off the line. To be sure.
 
 They'd brought the logs back one by one.
 
-The Staithe's first, on the two-hundred-and-thirty-third. Sallow End's on the thirty-fourth, the knight grey-faced from sitting above the Mere. Greyhold's. The Downs'. The Greenwold's. Hobb's from the Thornwood, on the thirty-fifth, carried by a Clan rider.
+The Staithe's first, on the two-hundred-and-thirty-third. Sallow End's on the thirty-fourth, the knight grey-faced from sitting above the Mere. Greyhold's. Skarrow's. The border's. Hobb's from the Thornwood, on the thirty-fifth, carried by a Clan rider.
 
 The fourth came last.
 
-On the two-hundred-and-thirty-sixth, at night. A young knight with a cough, off a horse that had gone lame at the Downs. And Davin had read it out, and he'd shouted.
+On the two-hundred-and-thirty-sixth, at night. A young knight with a cough, off a horse that had gone lame on the moor. And Davin had read it out, and he'd shouted.
 
 He wasn't proud of the shouting.
 
@@ -97,11 +97,11 @@ Hobb had written it in letters a finger high. *UP. TO THE TOP. THE GLASS HURT MY
 
 He moved his eye one log west.
 
-The Greenwold. A quarter-hour after the Thornwood's noon. A leap. And down again.
+The border. A quarter-hour after the Thornwood's noon. A leap. And down again.
 
-The Downs' east end. A quarter-hour after that. A leap. Down.
+Skarrow. A quarter-hour after that. A leap. Down.
 
-The Hallowmere road. The fourth. The one he'd waited for. A quarter-hour after. *Leapt. Fell.*
+Varrhold's gate. The fourth. The one he'd waited for. A quarter-hour after. *Leapt. Fell.*
 
 ---
 
@@ -127,7 +127,7 @@ And on the next line, a quarter-hour later: *Up.*
 
 And on the next: *Up.*
 
-And on every line after it, every quarter-hour, for seven days, until the knight had packed the glass in its wool and ridden west: *Up. Up. Up. Still up.*
+And on every line after it, every quarter-hour, for four days, until the knight had packed the glass in its wool and ridden east: *Up. Up. Up. Still up.*
 
 ---
 
@@ -155,7 +155,7 @@ It was like a wave going down a rope.
 
 He'd seen it done, as a boy, on the ferry at Glasswater. You tied one end of a rope to a post and held the other and gave it a flick, and the wave went down the rope to the post. And stopped there. Because the post was holding it.
 
-The Antlered's breath had gone down the road, west, a quarter-hour a station, through the Deep. Under the Greenwold. Under the Downs. Under the camp, under his feet, while he argued about carts.
+The Antlered's breath had gone down the road, west, a quarter-hour a station, through the Deep. Under the border country. Under the Scarfell. Under the camp, under his feet, while he argued about carts.
 
 To the one holding the end.
 
@@ -203,13 +203,13 @@ It went to him.
 
 He'd been right about one thing.
 
-He'd been looking. All twenty days, through the glasses and without them. In the Thornwood logs, in Hobb's careful letters. For anything new. In the ground. Anything small, stirring, where the great thing had been. Anything that might come up out of a dead Titan's breath, as grass comes up out of a burned field.
+He'd been looking. All twenty days, through the glasses and without them. In the Thornwood logs, in Hobb's careful letters. For anything new. In the ground. Anything small, stirring, where the great thing had been.
 
 There was nothing.
 
-There'd been nothing, he thought, for three hundred years. Not since the six were laid down. Nothing new in the ground anywhere. He'd never thought about that either.
+There'd been nothing, he thought, in all the College's records. Nothing new in the ground anywhere. He'd never thought about that either.
 
-Nothing comes free. Not while one of them's left to take it.
+Nothing comes free.
 
 ---
 
@@ -231,7 +231,7 @@ Not the logs. Not the rope. He told her plainly, in as few words as he had.
 
 ---
 
-Tova was quiet for a long time.
+Tova was quiet.
 
 "Then what grows from the ash?" she said.
 

@@ -196,7 +196,7 @@ It made sense. It was the kind of sense Gannet always made. A bosun who'd been a
 
 She went back to the stern cabin.
 
-She didn't look closer. She thought about that afterwards. She thought about it for a long time.
+She didn't look closer.
 
 ---
 
@@ -240,7 +240,7 @@ She stayed.
 
 The old man went inland on the hundred-and-thirty-third.
 
-He'd argued every day. Since the knight went. Every day, on the beach, on the deck, at the table. He wanted to go up to the hills. He wanted to see the thing on the hill. He wanted to read whatever there was to read. He was a reader; reading was what he was for.
+He'd argued every day. Since the knight went. Every day, on the beach, on the deck, at the table. He wanted to go up to the hills. He wanted to see the thing on the hill. He wanted to read whatever there was to read.
 
 Every day she'd said no.
 
@@ -300,7 +300,7 @@ At dawn, on deck. Whether he might go after the old man. To see he didn't fall o
 
 "I never sleep," said Gannet. The smile came first. "Ask anyone."
 
-She let him go. He was crew. He'd kept the custom fourteen days without a slip. He went up the road at a long easy walk with his canvas bag on his shoulder and his pencil, she supposed, in his pocket.
+She let him go. He was crew. He'd kept the custom fifteen days without a slip. He went up the road at a long easy walk with his canvas bag on his shoulder and his pencil, she supposed, in his pocket.
 
 ---
 

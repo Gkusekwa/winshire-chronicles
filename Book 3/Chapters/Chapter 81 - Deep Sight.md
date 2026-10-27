@@ -9,7 +9,7 @@ Beats: The surge comes over the Scarfell as a storm. Lisska spends all her wind 
 Echo of another story: The lion and his kin at the door.
 Status: first draft
 Draft notes: Day 322, dusk into night. Decided here (proposals):
-- **The last climbers**: about **sixty** stragglers off the high moor (the tail of the tail: the slowest, the hurt, a few riders on foot whose dragons were dead) coming over the bowl's southern rim at dusk in the storm; Calder on Lisska's neck bringing them across the moor since noon (after Kharrak, 78); **Aurveth** overhead seeing.
+- **The last climbers**: about **sixty** stragglers off the high moor (the tail of the tail: the slowest, the hurt, a few riders on foot whose dragons were too hurt to fly) coming over the bowl's southern rim at dusk in the storm; Calder on Lisska's neck bringing them across the moor since noon (after Kharrak, 78); **Aurveth** overhead seeing.
 - **The surge-storm**: the surge comes over the Scarfell from the south as weather: **a wall of wind and snow and hail with light in it**, green and white and gold flickering through it (the Deep's colours), the noise of it like the sea; it comes over the rim at dusk onto the bowl; the Clan's fifty pairs and the two rocs and the riderless wyvern driven down onto the shore.
 - **Lisska holds it**: over the sixty on the rim and the shore path, with **all her wind**: a roof of wind over them, as over the Keepers in the Thornwood, but she doesn't need Calder to hold it; she holds it herself; *Go on. I've got it. Go on.*; the ribbon on her horn (Wren's, blue, faded, tied on by Wren in the first winter; on Lisska's horn when she carried the five links to Maren) streaming; she holds it until the sixty are down off the rim onto the shore; **then she has no wind left**; she comes down out of the storm, slowly, wings folding, and **falls into the tarn**, into the black open middle; the water closes; the ribbon floats a moment, blue on black, and goes down. **Calder takes the death through the green scar: the wind comes back into him** (he breathes, properly, for the first time in a year: his lungs open).
 - **The Coil**: the Pale Coil (spent, burning out in the surge but not out) **comes up Hollow Beck from the west under its ice**, up the beck's frozen bed from the Varrhold side toward where the beck comes out of the rock under the door's slope: the hall's mouth; nobody can see it (white ice, snow, black water); **Aurveth sees it**: *Under the ice. Coming up the beck. To the door.*
@@ -27,7 +27,7 @@ notes -->
 
 He'd been bringing them across the moor since noon.
 
-On Lisska. Low. Over the high moor in the storm. The tail of the tail. The ones who couldn't keep up. The hurt. The old who'd walked twenty leagues and couldn't walk one more. A few of Arn's riders on foot, whose dragons had died on the Vale.
+On Lisska. Low. Over the high moor in the storm. The tail of the tail. The ones who couldn't keep up. The hurt. The old who'd walked twenty leagues and couldn't walk one more. A few of Arn's riders on foot, whose dragons were too hurt to fly.
 
 Sixty.
 
@@ -193,7 +193,7 @@ And she came down out of it.
 
 Slowly.
 
-Her wings folding. Not falling, not at first. Coming down. Out of the storm's dark, green, slowly, the size of a crag, as a leaf comes down in still air. Over the bowl. Over the tarn.
+Her wings folding. Coming down. Out of the storm's dark, green, slowly, the size of a crag, as a leaf comes down in still air. Over the bowl. Over the tarn.
 
 Into the tarn.
 
@@ -361,7 +361,7 @@ Down the shore. To the sixty. To the slope's foot. To the lion lying across it w
 
 He took them up.
 
-Himself. One at a time. Over the lion's foreleg, up his shoulder, onto the step. Carrying the ones who couldn't. An old man from the Sun Road, light as a child. A rider whose dragon had died at the hub, with both legs burned. A woman with a baby.
+Himself. One at a time. Over the lion's foreleg, up his shoulder, onto the step. Carrying the ones who couldn't. An old man from the Sun Road, light as a child. A rider whose dragon couldn't carry him any more, with both legs burned. A woman with a baby.
 
 His lungs open. He could breathe. He could carry.
 

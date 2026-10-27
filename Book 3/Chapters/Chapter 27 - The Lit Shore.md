@@ -5,7 +5,7 @@ POV: Maren
 Part: Part Two: Salt
 Days: 119–126 (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): The Lit Shore (the city on the sand; the hills inland)
-Beats: **Landfall** *(canon: the land beyond the sea)*: a city of old-realm stone half-buried in white sand; beasts that don't fear people; light on the hills at night (see **The land beyond the sea**). The crew keep the rule and sleep aboard. Inland, a mountain walks on the far hills *(Book 2 ch. 50: the rumour)*. Orrun goes and lies down in front of it, the way he lay at ten paces from his kin. It knows him.
+Beats: **Landfall** *(canon: the land beyond the sea)*: a city of old-realm stone half-buried in white sand; beasts that don't fear people; light on the hills at night (see **The land beyond the sea**). The crew keep the rule and sleep aboard. Inland, a mountain walks on the far hills *(Book 2 ch. 50: the rumour)*. Orrun goes and lies down in front of it, as he lay at ten paces from his kin. It knows him.
 Echo of another story: Far out on the Shatters behind them, a fleet's lights strung out across the dark: the Council's ships.
 Status: first draft
 Draft notes: Days 119–126. Decided here (proposals):
@@ -101,7 +101,7 @@ He set it out on the great steps, halfway up, in the sun. His best one, on its b
 
 It went up as if somebody had poured it. All the way. To the top of its column. And stayed there.
 
-He looked at it for a long time.
+He looked at it.
 
 "It can't go higher," he said. "There isn't any higher." He laughed, very quietly. "It's full. All of it. The whole shore."
 
@@ -137,7 +137,7 @@ A fox slept in a doorway.
 
 Half under the sand, at the foot of the steps. Red. Curled up in the sun. It opened one eye when they went by, and looked at the lion, and closed it again.
 
-On the dunes, a herd of small grey horses grazing. They lifted their heads when Orrun came along the road. They looked at him for a long time.
+On the dunes, a herd of small grey horses grazing. They lifted their heads when Orrun came along the road. They looked at him.
 
 They went back to grazing.
 
@@ -221,7 +221,7 @@ Kit looked at her.
 
 "I've stood watch longer."
 
-Kit didn't say anything for a long time. She looked at the knight in her coat fastened to the throat, with the grey on her neck, and her dead arm inside the coat, and the left corner of her mouth not moving.
+Kit was quiet. She looked at the knight in her coat fastened to the throat, with the grey on her neck, and her dead arm inside the coat, and the left corner of her mouth not moving.
 
 "If you sleep," said Kit, "I don't know what happens. My great-grandfather's brother slept. On the sand. Here." She looked at the beach. "They left him with his eyes open."
 
@@ -255,7 +255,7 @@ He walked. Steadily. Toward the far hills. His head up.
 
 The light came up at night all round them.
 
-Close. Not out on the hills a league off, as it had been from the ketch. Here. Out of the grass on either side of the road. Out of the ground under her boots. Pale. White, gold at the edges. Rising slowly, as mist comes up off a field. Warm. Not hot. Like standing near a hearth in a room where the fire's been banked.
+Close. Not out on the hills a league off, as it had been from the ketch. Here. Out of the grass on either side of the road. Out of the ground under her boots. Pale. White, gold at the edges. Rising slowly. Warm. Not hot. Like standing near a hearth in a room where the fire's been banked.
 
 She didn't sleep.
 
@@ -271,7 +271,7 @@ Sixty, while it rose. A long hold. Sixty while it sank. As the old man's glasses
 
 It was hard not to sleep.
 
-The light was warm. The road was smooth. The hum came up through her boots into her legs, steady, patient, like a cat's purr through a floor. Twice in the second night she found her eyes closed and her feet still walking, and jerked awake, and bit the inside of her cheek on the side she could feel until it bled.
+The light was warm. The road was smooth. The hum came up through her boots into her legs, steady, patient. Twice in the second night she found her eyes closed and her feet still walking, and jerked awake, and bit the inside of her cheek on the side she could feel until it bled.
 
 *You're tired,* said Orrun. The only thing he said all night.
 
@@ -381,16 +381,16 @@ Ships.
 
 Sailing at night. On the drowned road. Where no Merrin would sail at night, because Abram hadn't and Hal hadn't and Kit wouldn't.
 
-She stood on the hill-top at the end of the world and counted them. Eleven. Then three more, behind, close together.
+She stood on the hill-top at the end of the world and counted them. Ten. Strung out, low, and no more behind them.
 
 The Council's fleet.
 
 ---
 
-She looked at them a long time.
+She looked at them.
 
-Five hundred and forty people, at six hundred gold a head. Coming to a land without Titans. To a shore where if you lay down and slept you didn't get up. Sailing at night through the Shatters with two pilots reading paper.
+Four hundred people and more, at five hundred gold a head. Coming to a land without Titans. To a shore where if you lay down and slept you didn't get up. Sailing at night through the Shatters with pilots reading paper.
 
-She couldn't do anything. They were ten days off. More.
+She couldn't do anything. They were days off yet.
 
 She went back to the milestone and sat down against it and put her hand on the road, and stayed awake, and watched the great grey shape on the hill-top look at her lion in the light, until it was dawn.

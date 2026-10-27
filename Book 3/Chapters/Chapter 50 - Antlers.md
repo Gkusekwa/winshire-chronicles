@@ -17,7 +17,7 @@ Draft notes: Day 228 (225–227 told back from the ground). Decided here (propos
 - **The earth**: when its head is on the ground, **Maren (through Orrun, through her hands at the edge) opens the earth under its head**: a split in the forest floor a quarter-league long, the head going down into it to the antlers' roots; **then she closes it**: the stone of the Wyldmarch closing on the bone between the antler roots, where the heart is. **The first Titan killed.** It doesn't scream; it stops.
 - **Every walking tree for a league falls down at once**, all together, like a crowd sitting; the Thornwood lies flat; under the fallen trees they'll find (51) Tamsin and Gunna.
 - **Don't let me feel it go**: as it dies, **she takes it for him**: she pulls the going through the bond into herself, because she can't feel and he can; it goes into her like cold into cold. **He feels some of it anyway.** *That was mine.* *I know.*
-- **The breath**: through the ground she feels **its breath go out of it into the ground, down into the Deep, and rise, and run west, "like water finding a slope", a warmth going away under the Wyldmarch, under the Downs, toward Hearthmere**; she doesn't understand it; she thinks it's going home (52 says where).
+- **The breath**: through the ground she feels **its breath go out of it into the ground, down into the Deep, and rise, and run west, "like water finding a slope", a warmth going away under the Wyldmarch, under Saltreach's moor and the Marches, under the Wend and the Downs, toward Hearthmere**; she doesn't understand it; she thinks it's going home (52 says where).
 - **The cheer**: ten thousand on the downs, and the Keepers, and the riders; it goes on and on; she can't hear it at first because she's still in four bodies.
 - **She loses the day**: when she comes back into her own body at the edge it's dusk; Tova's hand on her shoulder; **she doesn't know where the day went**; she thinks it's still the third hour; she can't count it; Tova tells her the hours. (Toll per the plan's shadow table: "Maren loses the day.")
 - **Echo, dusk 228**: the three dragons over the dead Titan, circling low, **crying**, all three, long high calls she's never heard from them; Orrun: *They don't know why.* *Do you?* He doesn't answer.
@@ -28,7 +28,7 @@ notes -->
 
 For three days she sat on his head and listened.
 
-The horns. One for left. Two for right. A long one for *coming*. They came down out of the smoke all day from the grey birds high over the wood, and she heard the clans move round her before she saw them. Ten thousand people and their beasts, and the stonehorns, going left at one note and right at two, round Orrun where he lay at the wood's edge, as water goes round a stone in a river.
+The horns. One for left. Two for right. A long one for *coming*. They came down out of the smoke all day from the grey birds high over the wood, and she heard the clans move round her before she saw them. Ten thousand people and their beasts, and the stonehorns, going left at one note and right at two, round Orrun where he lay at the wood's edge, as a flock parts round a cairn.
 
 She didn't move. Neither did he.
 
@@ -182,7 +182,7 @@ He lay down.
 
 She felt him do it. Through the ground under her hand. The great weight of him settling. His chin on his paws. And then going down.
 
-Into the ground. As a stone goes into a pond. Slowly. The earth taking him. Opening under him without a crack, without a sound, as water opens, and closing over his flanks, his back, his shoulders. His mane. His eyes, last, pale, looking at her.
+Into the ground. As a man goes down into deep snow. Slowly. The earth taking him. Opening under him without a crack, without a sound, as water opens, and closing over his flanks, his back, his shoulders. His mane. His eyes, last, pale, looking at her.
 
 Then grass.
 
@@ -212,7 +212,7 @@ And she was in all four.
 
 She could feel each one. Separate. Four weights. Four bodies going through the stone. Four sets of eyes, seeing nothing. And her own, at the edge, seeing grass.
 
-She didn't count them. She didn't need to. She was them.
+Four. She let the number go. She was them.
 
 ---
 
@@ -248,7 +248,7 @@ The Antlered got up.
 
 Fast. Faster than she'd known it could. The crown going up off the ground, the head, the neck, the whole hill of it rising, and the wood round it surging in.
 
-The walking trees came at the lions. All of them. From every side. Grey branches reaching. Reaching slowly, as a man reaches for an apple.
+The walking trees came at the lions. All of them. From every side. Grey branches reaching. Slowly.
 
 The lions didn't fight them.
 
@@ -302,7 +302,7 @@ On Orrun's foreleg.
 
 She felt it.
 
-Him. Not her. She felt him feel it. Through the bond. The weight of a hill coming down on his leg. The bone of it in his shoulder, groaning. Stone grinding on stone.
+She felt him feel it. Through the bond. The weight of a hill coming down on his leg. The bone of it in his shoulder, groaning. Stone grinding on stone.
 
 *Hold*, she said.
 
@@ -434,7 +434,7 @@ And under her hand, she felt the other thing.
 
 The breath.
 
-Going out of the dead Titan. Not into her. Not into Orrun. Into the ground. She felt it go. Through her hand, through the stone. A warmth, leaving the great still body under the fallen crown.
+Going out of the dead Titan into the ground. She felt it go. Through her hand, through the stone. A warmth, leaving the great still body under the fallen crown.
 
 Down. Into the ground. Into the Deep.
 
@@ -444,7 +444,7 @@ And then running.
 
 West.
 
-Like water finding a slope. Away under the Wyldmarch. Under the Downs. Under the burned Greenwold, under the Marches, the Wend, the whole country. Running west through the Deep, a long warm thread of it, faster than a horse.
+Like water finding a slope. Away under the Wyldmarch. Under Saltreach's empty moor. Under the Marches, the Wend. Under the burned Downs, the whole country. Running west through the Deep, a long warm thread of it, faster than a horse.
 
 Toward Hearthmere.
 
@@ -517,8 +517,6 @@ It was dusk.
 ---
 
 "How long," she said.
-
-Her voice came out even. It always did.
 
 "All day," said Tova. Quietly. "Since the third hour. You've knelt there all day, knight. It fell at noon." She looked at Maren's hand on the ground. "We cheered all afternoon. You didn't move."
 

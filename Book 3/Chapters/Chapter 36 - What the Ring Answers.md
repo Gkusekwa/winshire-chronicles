@@ -9,12 +9,12 @@ Beats: The Lamp's script about the control relic: made as a safeguard; *it answe
 Echo of another story: Maren holding Orrun's head in the light, telling him she isn't afraid, and lying.
 Status: first draft
 Draft notes: Day 144. Decided here (proposals):
-- **The relic's script**, morning 144 (Maren and Calder's hands joined; the Lamp writing): ***We made the stone when we laid them down.*** / ***A safeguard. If they woke, one of us could hold it and call them into the light.*** / ***The small ones found it. They used it to hold the last one in its chains.*** (Hearthmere's vault: the crown) / ***It answers a breath that is unbound.*** **Idony knows the line**: he said it himself at Blackwater over the far-stone, half to himself, and Maren wrote it down (ch. 16): *Write it down so I can find out*; he's found out. He's frightened, a little: he'd heard it somewhere before he knew he had.
+- **The relic's script**, morning 144 (Maren and Calder's hands joined; the Lamp writing): ***We made the stone when we laid them down.*** / ***A safeguard. If they woke, one of us could hold it and call them into the light.*** / ***The small ones found it. They used it to hold the last one in its chains.*** (Hearthmere's vault: the crown) / ***It answers a breath that is unbound.*** **Idony knows the line**: he said it himself at Blackwater over the far-stone, half to himself, and Maren wrote it down (ch. 16): *Write it down so I can find out*; he's found out. He's frightened, a little: he'd heard it somewhere before he knew he had. **Maren asks** aloud: does it ask them? ***It calls. They can choose to stop. We chose.*** (She has the meaning through Orrun before Idony reads it.)
 - **What it means**, as Idony understands it (and says): the relic will only go to a breath with nothing between it and the Deep: an elder's, the Unbound's: not a person's, not a bound beast's, not a chained Titan's; that's why only one of them can carry it; that's why Hearthmere could hold it in a vault but never use it except to keep the chains fed.
 - **Gannet asks**, at noon, from between the columns, with his board: "What's *breath* mean? In this. The old man keeps saying it." Idony, pleased to be asked: the Deep, what Kessmoor calls the Bleed and Hearthmere called the crown's gift, is the sleepers' breath: the six breathing in their sleep under the temples, for a thousand years, and everyone living on it; an *unbound* breath is one nothing holds. Gannet writes: *breath = the Deep. Unbound = nothing holding it.* (The misreading comes later, ch. 69: "an engine breathes too.")
 - **The Mother's offer**, afternoon: her script (grey light, slow): ***Small one. Your hands.*** / ***There is a little left in me. I can mend what you burned.*** Idony looks at his hands; steady here, an old man's; they'll shake again on the ship, on dead ground. He refuses: "No. Thank you. Every scrap of you goes to him." (the lion) "He'll need all of it. I've only to read. I can read with my hands shaking." Maren, who has the lion's meaning, says the Mother is glad; Idony doesn't believe in gods and finds he's glad she's glad.
 - **The grey horse**: it has stayed with him since the beach, grazing outside the columns; at dusk it comes in among the columns and stands by him and puts its head against his chest and won't go; he knows what it is (the beginning of a choosing); he sends it back to its herd: "I've seen what it costs. I'm too old to be anyone's door." It goes, slowly, looking back. **He stays unbonded.**
-- **Echo**, night 144: by the Mother's head in the low light, Maren kneeling with Orrun's great head in her one arm: *I'm not afraid,* she tells him, aloud, and Idony knows she's lying, and so does Orrun.
+- **Echo**, night 144: by the Mother's head in the low light, Maren kneeling with her one arm round as much of Orrun's great head as it will go: *I'm not afraid,* she tells him, aloud, and Idony knows she's lying, and so does Orrun.
 Magic touches: the elders' script; the relic's nature (answers only an unbound breath); a choosing refused; the Mother's offer refused.
 notes -->
 
@@ -36,13 +36,13 @@ He found out on the hundred-and-forty-fourth.
 
 At sunrise, in the hall. With the farmer and the knight holding hands at the pool's corner like two children, and the Lamp at the south end too bright to look at, and the letters coming up white-gold in the air over the water.
 
-He read them. That was what he was for.
+He read them.
 
 ---
 
 "*We made the stone,*" he read, "*when we laid them down.*"
 
-The relic. The seventh. The coal in the Last Titan's back.
+The relic. The coal in the Last Titan's back.
 
 "*A safeguard,*" he read. "*If they woke, one of us could hold it, and call them into the light.*"
 
@@ -100,6 +100,16 @@ He was frightened. A little. He'd never been frightened of a sentence before.
 
 ---
 
+"Does it ask them?" said Maren.
+
+Aloud. To the light. Her hand still in the farmer's.
+
+The letters came slowly. She had the meaning before he had the words. He saw it come into her face through the lion, and her shoulders go down.
+
+"*It calls,*" he read. "*They can choose to stop. We chose.*"
+
+---
+
 He told them what it meant.
 
 At noon, when the light rested and the two of them let go of each other's hands and sat on the pool's edge apart. He sat on the paving between them, with his back against a column, and told them, slowly, as he understood it.
@@ -108,7 +118,7 @@ At noon, when the light rested and the two of them let go of each other's hands 
 
 He looked at the Lamp.
 
-"Theirs," he said. "The Unbound. The seventh ring. A person can't hold it. A bound beast can't. A chained Titan can't, even with it grown into its back; it can only sit there, under the plates, like a coal. Only one of them."
+"Theirs," he said. "The Unbound. A person can't hold it. A bound beast can't. A chained Titan can't, even with the stone grown into its back; the stone can only sit there, under the plates, like a coal. Only one of them."
 
 ---
 
@@ -126,7 +136,7 @@ The farmer looked at him.
 
 Gannet asked at noon.
 
-From between the western columns. Where he'd sat three days with his board on his knee. He'd been writing all morning. He looked up from the board and called across the hall, politely, the smile coming first.
+From between the western columns. Where he'd sat a week with his board on his knee. He'd been writing all morning. He looked up from the board and called across the hall, politely, the smile coming first.
 
 "Master."
 
@@ -230,7 +240,7 @@ He said it aloud. To the grey letters. To the great head on the floor.
 
 Maren looked at him.
 
-"Every scrap of you goes to him," said Idony. To the Mother. "All of it. He'll need all of it. I don't know what for yet but he will." He looked at his steady hands. "I've only to read. I can read with my hands shaking. I've done it a year." He smiled. "I'm quite good at it now."
+"Every scrap of you goes to him," said Idony. To the Mother. "All of it. He'll need all of it. I don't know what for yet but he will." He looked at his steady hands. "I've only to read. I can read with my hands shaking. I've done it since the cellars." He smiled. "I'm quite good at it now."
 
 ---
 
@@ -248,7 +258,7 @@ He found he was glad she was glad.
 
 The horse came at dusk.
 
-The little grey one. That had come down the beach to him and let him on its back and carried him up the road to the hill, and then here. It had stayed with him. All three days, grazing outside the western columns on the ridge's grass, never far. Coming when he went out to it. Standing by him.
+The little grey one. That had come down the beach to him and let him on its back and carried him up the road to the hill, and then here. It had stayed with him. All week, grazing outside the western columns on the ridge's grass, never far. Coming when he went out to it. Standing by him.
 
 At dusk it came in.
 
@@ -302,7 +312,7 @@ He stayed unbonded. He'd chosen that too.
 
 Maren was at the Mother's head that night.
 
-Kneeling. On the floor of the hall, by the pool, in the low grey light. With the lion's great head lying in the crook of her one arm. His eyes shut. Her face close to his.
+Kneeling. On the floor of the hall, by the pool, in the low grey light. With her one arm round as much of the lion's great head as it would go. His eyes shut. Her face close to his.
 
 Idony was against his column. Awake. He was always awake.
 

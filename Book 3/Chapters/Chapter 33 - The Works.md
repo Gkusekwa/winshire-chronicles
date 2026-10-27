@@ -148,7 +148,7 @@ To the Hearthmere smiths' barracks, across the canal. For his health, the order 
 
 "He frightens the hands," said Strake.
 
-To nobody. At the fifth forge, on the morning Odo went, standing by Tam's anvil with a drawing under her arm. She didn't look at anyone when she said it.
+To nobody. At the fourth forge, on the morning Odo went, standing by Tam's anvil with a drawing under her arm. She didn't look at anyone when she said it.
 
 Tam didn't look up from the link he was striking.
 
@@ -262,7 +262,7 @@ Odo came across the canal in his chair to see Tam off. He sat on the towpath and
 
 Nobody asked.
 
-That was the thing Tobin noticed. He kept noticing it. Twenty smiths on the forges, and three hundred hands at them, and nobody asked why a smith from Hearthmere who'd eaten Kessmoor's bread all summer would turn down Kessmoor's pay for the best iron work in the yards and go off on a wagon to a camp in the Marches.
+That was the thing Tobin noticed. He kept noticing it. Twenty smiths on the forges, and fifty hands at them, and nobody asked why a smith from Hearthmere who'd eaten Kessmoor's bread all summer would turn down Kessmoor's pay for the best iron work in the yards and go off on a wagon to a camp in the Marches.
 
 Everyone looked at their own anvil.
 

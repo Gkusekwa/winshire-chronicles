@@ -35,7 +35,7 @@ Liss didn't ask why. She'd stopped asking Maren why, a long time ago.
 
 ---
 
-Up the Saltreach bank. Up the Drover's Way, rutted and frozen, and the ice burned off the fords where the farmer's fire had been: black ground at Cotter's Cross, black ground at the beck, the snow round it melted back in a ring. Through Harrow's End, empty. Past the Fenn top field above it with its stone walls and the snow on them.
+Up the Saltreach bank. Through Harrow's End, empty. Past the Fenn top field above it with its stone walls and the snow on them. Up the Drover's Way, rutted and frozen, and the ice burned off the fords where the farmer's fire had been: black ground below the Ram's Head, black ground at Teo's ford where the Way crosses the beck, the snow round it melted back in a ring.
 
 Over the Scarfell's lip at dusk.
 
@@ -95,7 +95,7 @@ Nobody said anything else yet.
 
 The crag was on the tarn's western side.
 
-As the farmer had said, in Lisska's telling. Steep. Grey. Coming down to the water. And at its foot, the scree: a long fan of broken stone, grey, snow on it, going down into the tarn's shallows. And out from under the scree's southern edge, Hollow Beck, coming out of the rock black and fast and running away west through the bowl's gap toward Varrhold.
+As the farmer had said, in Lisska's telling. Steep. Grey. Coming down to the water. And at its foot, the scree: a long fan of broken stone, grey, snow on it, going down into the tarn's shallows. And out from under the scree's southern edge, Hollow Beck, coming out of the rock black and fast and running away south-west through the bowl's gap toward Varrhold.
 
 She walked along the shore to the scree's foot.
 
@@ -235,7 +235,7 @@ She went close to one. She looked in. Dust. Nothing else. No bones. No cloth. No
 
 ---
 
-She knew it the moment she said it. She didn't know how.
+She knew it the moment she said it.
 
 Somebody had done this before. A long time ago. When the one realm broke. When the six rose and the sea came in. Somebody had cut a hall under a warm tarn in the mountains, a long way from everything, and cut beds in its walls, and brought people up here, and lain down in the warm dark and waited.
 

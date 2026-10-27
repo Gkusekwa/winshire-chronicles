@@ -5,14 +5,14 @@ POV: Calder
 Part: Part Four: The Old Ones Come
 Days: 185–190 (150–184 told back) (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): The hatching caves
-Beats: The three dragons are too big for the Clan's world, and Arn sees it. Arn and Calder's real conversation: "You never wanted them." "No. They're not the Clan's and they're not mine." Through Aurveth's deep sight Calder sees, across a hundred leagues, the control relic in the Last Titan's back, burning like a coal among the five dark eggs grown into its plates *(Book 2 ch. 45, 60, 84)*: nobody else can see it, and that will matter (68).
+Beats: The three dragons are too big for the Clan's world, and Arn sees it. Arn and Calder's real conversation: "You never wanted them." "No. They're not the Clan's and they're not mine." Through Aurveth's deep sight Calder sees, across sixty leagues, the control relic in the Last Titan's back, burning like a coal among the five dark eggs grown into its plates *(Book 2 ch. 45, 60, 84)*: nobody else can see it, and that will matter (68).
 Echo of another story: The lion-hill walking north up the Coast Road.
 Status: first draft
 Draft notes: Days 185–190 (150–184 told back). Decided here (proposals):
-- **D.150–184 at the caves**: Calder recovering: scars, breath, a cough; Wren every day; Ada; Bel; Jory taken home to Blackwater by Lisska on 187 (ch. 44; Lisska back on 188). **The three are too big**: the hatching caves' yard is a step for Kharrak; they lie on the moor round Coldtarn's rim like three new hills (the herdsmen call them that: *the three hills*); **they eat**: a flock a day between them; the Clan's flocks on the high moor can't stand it; Kharrak hunts aurochs-sized moor cattle and wild stonehorns off the Scarfell's eastern edge and the herdsmen complain; Lisska fishes Coldtarn and the tarns empty; Aurveth eats least and looks; **the freed dragons** from the pens come up from the ledges and the high glens and sit round them on the crags like children round a fire, not too close.
+- **D.150–184 at the caves**: Calder recovering: scars, breath, a cough; Wren every day; Ada; Bel; Jory taken home to Blackwater by Lisska on 187 (ch. 44; Lisska back on 188 with Idony and Corrie, who stay at the caves till 196). **The three are too big**: the hatching caves' yard is a step for Kharrak; they lie on the moor round Coldtarn's rim like three new hills (the herdsmen call them that: *the three hills*); **they eat**: a flock a day between them; the Clan's flocks on the high moor can't stand it; Kharrak hunts aurochs-sized moor cattle and wild stonehorns off the Scarfell's eastern edge and the herdsmen complain; Lisska fishes Coldtarn and the tarns empty; Aurveth eats least and looks; **the freed dragons** from the pens come up from the ledges and the high glens and sit round them on the crags like children round a fire, not too close.
 - **The Clan's world**: the Roosts' ledges can't take their weight (Kharrak tried, d.160: a ledge cracked); the setters' ledge, the pens, the caves, all of it built for dragons a tenth their size; the Clan's riders don't come near; the young ones are frightened.
 - **Arn**, d.185 at Coldtarn on Ildra (back from the coast since d.151, at Varrhold since): he sees it: "They'd eat the Scarfell in a year. The Roosts won't hold them. The riders won't go near them." **The real conversation**, d.186, on Sigrun's rock at the tarn's rim (Aurveth below on the pouring-stone, Kharrak along the rim, Lisska on the crag): Arn: "**You never wanted them.**" Calder: "**No. They're not the Clan's and they're not mine.**" Then the rest: the ledgers, the thread, the banner request (ch. 2); Arn's pens; Ildra; Ulric; Teo (who never stood on the ledge twice and laughed); the chair; "two of us poured". Arn: "When it's done, if there's a when, they'll not come back to the ledges." "No." "Good," says Arn, and means it. He tells Calder about the pour for Ivo and Sunniva without ashes (ch. 38).
-- **The coal**, night 188: Calder lying against Aurveth on the pouring-stone; she's been looking east every night; he asks her to show him; **through her deep sight, across a hundred leagues of stone and downs and the boiled Mere's water**: the Last Titan lying on the Mere's bottom; its back; **five dark eggs grown into its plates** (the sleep relics, Book 2 ch. 45, 60, 84) **and among them the sixth, burning like a coal**: the control relic; he can see exactly where it is: behind the left shoulder, a hand's breadth (a hall's breadth) below the ridge of the spine, between the second and third dark ones. **Nobody else can see it.** Aurveth: *Only me. And you, through me.* He thinks of the Lamp's line: *If one of us takes it out of the last one's back.* Someone will have to know where to reach. (Plant for 68.)
+- **The coal**, night 188: Calder lying against Aurveth on the pouring-stone; she's been looking west every night; he asks her to show him; **through her deep sight, across sixty leagues of stone and downs and the boiled Mere's water**: the Last Titan lying on the Mere's bottom; its back; **five dark eggs grown into its plates** (the sleep relics, Book 2 ch. 45, 60, 84) **and among them the sixth, burning like a coal**: the control relic; he can see exactly where it is: behind the left shoulder, a hand's breadth (a hall's breadth) below the ridge of the spine, between the second and third dark ones. **Nobody else can see it.** Aurveth: *Only me. And you, through me.* He thinks of the Lamp's line: *If one of us takes it out of the last one's back.* Someone will have to know where to reach. (Plant for 68.)
 - **Echo**, d.184–185 (told on 186 by Aurveth, who's been watching): the lion-hill walking north up the Coast Road along the Saltings with the knight on its head, counting.
 - **D.190**: a rider from Rowan's camp: the Accord will muster at the camp on the 200th; the Lamp has come ashore (Blackwater, 195, ch. 44, is still ahead: on 190 the courier says the elders are coming); Calder will go.
 Magic touches: Titan-class dragons; Aurveth's deep sight (through stone and distance); the relics in the Last Titan's back.
@@ -60,7 +60,7 @@ Coldtarn first. The black water. She lay on the rim with her head in it, as Aurv
 
 Aurveth ate least.
 
-She lay on the pouring-stone at the tarn's edge, bronze, shining, both wings straight, and ate a sheep in two days and looked. East. Mostly east. And west, sometimes, and south. Through things.
+She lay on the pouring-stone at the tarn's edge, bronze, shining, both wings straight, and ate a sheep in two days and looked. West. Mostly west. And south, sometimes. Through things.
 
 ---
 
@@ -68,7 +68,7 @@ The freed came up to look at them.
 
 From the ledges round Varrhold and the high glens above Coldtarn where they'd gone when the pens opened. Young ones. Old ones. A hundred, perhaps, over the days. They came up onto the crags round the tarn's bowl and sat there.
 
-Not close. On the crags. Round the three hills lying on the rim and the shore. Like children round a fire on a winter night, near enough to feel it, not near enough to be burned.
+On the crags. Round the three hills lying on the rim and the shore. Like children round a fire on a winter night, near enough to feel it, not near enough to be burned.
 
 They didn't fly away when he came out.
 
@@ -232,9 +232,9 @@ He got up on Ildra and went.
 
 ---
 
-Aurveth had been looking east every night.
+Aurveth had been looking west every night.
 
-He'd felt her do it. Since the caves. Lying on the pouring-stone with her head on the water and her new eyes open. Looking. Through the mountain, through the moor, through the downs and the Marches and the river, east and south, a long way.
+He'd felt her do it. Since the caves. Lying on the pouring-stone with her head on the water and her new eyes open. Looking. Through the mountain, through the moor, through the Marches and the river and the downs, west and south, a long way.
 
 At the middle of everything.
 
@@ -256,11 +256,11 @@ He looked through her.
 
 Through the Scarfell.
 
-Through the mountain he was lying on, as if it were glass. Down through the moor, the rock, the roots of the hills. Out, south and east. Over the Marches, which were nothing to her sight, a blur of stone and earth. Over the Wend, a thread of running water she saw as a cold line. Over the Candle Downs, black, dead, nothing in them.
+Through the mountain he was lying on, as if it were glass. Down through the moor, the rock, the roots of the hills. Out, south and west. Over the Marches, which were nothing to her sight, a blur of stone and earth. Over the Wend, a thread of running water she saw as a cold line. Over the Candle Downs, black, dead, nothing in them.
 
 To the Mere.
 
-A hundred leagues.
+Sixty leagues.
 
 ---
 
@@ -274,7 +274,7 @@ And in the water, on its bottom, something lying.
 
 The Last Titan.
 
-He'd seen it. At the Ruin, going out of its chains, the night the world changed. He'd seen it in the cavern under Greyhold coming down toward Maren at the shut place. He'd never seen it like this. Through Aurveth. Through water and stone and a hundred leagues.
+He'd seen it. At the Ruin, going out of its chains, the night the world changed. He'd seen it in the cavern under Greyhold coming down toward Maren at the shut place. He'd never seen it like this. Through Aurveth. Through water and stone and sixty leagues.
 
 Lying on the Mere's bottom on its side. Its great head on the mud. Its wings, stone and leather, folded. The chain-ends on its legs. The size of a hill, of three hills, of more.
 
@@ -338,7 +338,7 @@ Then he made her stop.
 
 She'd seen the lion too.
 
-She told him on the hundred-and-eighty-sixth, the night after Arn. He'd asked her what she looked at in the south, when she wasn't looking east.
+She told him on the hundred-and-eighty-sixth, the night after Arn. He'd asked her what she looked at in the south, when she wasn't looking west.
 
 *Him,* she said. *The lion. On the coast.*
 
@@ -350,7 +350,7 @@ The Coast Road. Along the Saltings' edge, south. A hundred leagues and more.
 
 And on it, walking north, a grey hill.
 
-Slowly. Half a league a stride. Along the road above the salt-flats, past empty stilt-huts and boats pulled up on the shingle, with the sea on one side and the Ashlings' scrub on the other. A grey warmth, the shape of a lion, the size of a hill.
+Slowly. A furlong a stride. Along the road above the salt-flats, past empty stilt-huts and boats pulled up on the shingle, with the sea on one side and the Ashlings' scrub on the other. A grey warmth, the shape of a lion, the size of a hill.
 
 And on its head, between its ears, very small, a woman.
 
@@ -368,7 +368,7 @@ From Rowan. Up from the camp behind the Wend, by the Way and the moor, a young g
 
 He brought a paper. He stood at the bottom of the slope and held it up and wouldn't come any closer.
 
-Calder went down to him. Slowly. Stopping twice.
+Calder went down to him. Slowly. Stopping on the way.
 
 ---
 
@@ -382,7 +382,7 @@ Calder went down to him. Slowly. Stopping twice.
 
 ---
 
-He read it twice. For Wren, who'd come down the slope behind him and was holding his coat.
+He read it out. For Wren, who'd come down the slope behind him and was holding his coat.
 
 "Say it again," said Wren.
 
@@ -392,4 +392,6 @@ He looked up the slope. At the three hills lying round Coldtarn's rim in the aft
 
 "We'll go," he said.
 
-*Yes,* said Aurveth. From the shore. *Now.*
+Behind him, in the cave mouth, the old man had come out into the light in his blanket, with Corrie at his elbow. Lisska had brought them up from the coast two days before, and he'd hardly stopped talking since, with Corrie's pen going.
+
+*Yes,* said Aurveth. From the shore. *Soon.*

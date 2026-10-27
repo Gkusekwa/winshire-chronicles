@@ -10,14 +10,14 @@ Echo of another story: Calder's voice over the roads, the old herd-charm with th
 Status: first draft
 Draft notes: Day 320. Decided here (proposals):
 - **Night 319–320**: Orrun carries her out of the draining eddy in his jaws and up the Saltreach bank after the herd; she on his head again by midnight; the four behind on the Vale, blazing; the Last Titan over the hole.
-- **The six roads north** (from the Vale to the Scarfell's lip): **(1) the Drover's Way** (Saltreach bank; Tam's wagons; the broken army's main stream; Kit's Staithe four hundred joining from the south); **(2) the scrub track** east of it (the clans; the stonehorns breaking a road through gorse for the carts); **(3) the old towpath** along the drained riverbed (Sarovel's people; Ines and the eleven olifants carrying the old and children); **(4) the River Road** on the Hearthmere bank north to Eskby, then across the drained river at Eskby's ford (Rowan's flags' people; the Hearthmere camp; the knights' remnant with Wynn); **(5) the camp road** north-west, onto the line of **the Oneroad** (the tuskers' road: the old realm's highway; the tusker herd leading, Quell and the Wardens and Isvaren's people; the cow found it in the dark); **(6) the moor track** from Cotter's Cross straight up (Kessmoor's crews who ran, the sellswords, everyone else).
-- **The six shadows**: they reach the Scarfell's foot at dawn 320 and wait all morning; at the second hour after noon the Last Titan's light moves on the Vale and the columns' tails are still in the scrub; she asks him for six; *Six?* *One for each road*; *That's most of me.* *I know.* **Six Titan shadows**, each hill-sized; one walks beside each road's people at a man's pace; **seven bodies**: Orrun lies across the roads' end at the Scarfell's foot facing south and the six walk.
+- **The six roads north** (from the Vale up past Harrow's End toward the Scarfell's edge): **(1) the Drover's Way** (Saltreach bank; Tam's wagons; the broken army's main stream; Kit's Staithe four hundred joining from the south); **(2) the scrub track** east of it (the clans; the stonehorns breaking a road through gorse for the carts); **(3) the old towpath** along the drained riverbed (Sarovel's people; Ines and the eleven olifants carrying the old and children); **(4) the River Road** on the Hearthmere bank north to Eskby, then across the drained river at Eskby's ford (Rowan's flags' people; the Hearthmere camp; the knights' remnant with Wynn); **(5) the camp road** north-west, onto the line of **the Oneroad** (the tuskers' road: the old realm's highway; the tusker herd leading, Quell and the Wardens and Isvaren's people; the cow found it in the dark); **(6) the moor track** from Cotter's Cross straight up (Kessmoor's crews who ran, the sellswords, everyone else).
+- **The six shadows**: they reach the Vale's edge below Harrow's End at dawn 320 and wait all morning; at the second hour after noon the Last Titan's light moves on the Vale and the columns' tails are still in the scrub; she asks him for six; *Six?* *One for each road*; *That's most of me.* *I know.* **Six Titan shadows**, each hill-sized; one walks beside each road's people at a man's pace; **seven bodies**: Orrun lies across the roads' end below Harrow's End facing south and the six walk.
 - **The toll**: she is spread across seven for an hour; **she stops breathing; her heart stops** (she knows it, from far off, in each of seven bodies; nobody near her body but Orrun); through the shadows' eyes she sees all six roads at once; it's the most she's ever been and the least.
-- **What she sees**: **Tam's wagons** on the Drover's Way, Tam on the first box with Odo's tools under the seat, forty wagons of the old and the hurt, the shadow walking beside them; **Isvaren's tuskers on the Oneroad** with sledges and children on their backs, the old cow in front; **Sarovel's olifants on the towpath** carrying the old and children, Ines walking at the first one's trunk; **stonehorns breaking a road through the scrub** for the clans' carts, their plated heads down through the gorse, Rhun's wolves running beside; **Wynn** and the knights' remnant on the River Road at Eskby's ford, carrying the hurt, Sorrow at Wynn's knee; two people and a dog far down the lower Drover's Way.
+- **What she sees**: **Tam's wagons** on the Drover's Way, Tam on the last box with Odo's tools under the seat, forty wagons of the old and the hurt, the shadow walking beside them; **Isvaren's tuskers on the Oneroad** with sledges and children on their backs, the old cow in front; **Sarovel's olifants on the towpath** carrying the old and children, Ines walking at the first one's trunk; **stonehorns breaking a road through the scrub** for the clans' carts, their plated heads down through the gorse, Rhun's wolves running beside; **Wynn** and the knights' remnant on the River Road at Eskby's ford, carrying the hurt, Sorrow at Wynn's knee; two people and a dog far down the lower Drover's Way.
 - **Echo**: through the ground under all six roads, **the herd-charm** still going: the farmer's word, said into the live Saltreach ground yesterday with three dragons behind it, running north through the earth under every road and turning every stream of people north "like cattle"; she hears it as his voice though he has none now; it keeps them walking all night without stopping, as driven cattle walk.
-- **Up into the Scarfell**: by dusk 320 the heads of the columns at the Scarfell's lip at Harrow's End and above Cotter's Cross; the tails strung back down the moor; the Clan's dragons and the three overhead.
-- **Her heart starts**: at the hour's end (about the third hour after noon; Kit sees the six at about that hour, 76) Orrun lets the shadows go one by one as each road's head reaches the moor's edge; her breath comes back; her heart; he licks her face (she doesn't feel it); *You stopped.* *I know.* *Don't.* *I won't.* (She will, in a way.)
-- **Orrun turns west**: at dusk on the Scarfell's foot, with his body spent (*That was most of me*), he turns to face west, toward the Vale and what's coming up out of it: his kin, blazing, getting up off the hole and coming north.
+- **Up into the Scarfell**: by dusk 320 the heads of the columns at the Scarfell's edge above the Fellwood, a day above Harrow's End; the tails strung back down through the village to the Vale; the Clan's dragons and the three overhead.
+- **Her heart starts**: at the hour's end (about the third hour after noon; Kit sees the six at about that hour, 76) Orrun lets the shadows go one by one at the hour's end; her breath comes back; her heart; he licks her face (she doesn't feel it); *You stopped.* *I know.* *Don't.* *I won't.* (She will, in a way.)
+- **Orrun turns west**: at dusk below Harrow's End, with his body spent (*That was most of me*), he turns to face west, toward the Vale and what's coming up out of it: his kin, blazing, getting up off the hole and coming north.
 Magic touches: six Titan shadows; seven bodies; the herd-charm still running in the ground.
 notes -->
 
@@ -73,11 +73,11 @@ But in the ground she heard it. His voice. Ruined, cracked, a crack in a pot. Sa
 
 ---
 
-They came to the Scarfell's foot at dawn.
+They came to Harrow's End at dawn.
 
 ---
 
-Where the moor began. Where the Vale's scrub gave way to heather, and the land went up, north, in a long brown-white swell, to the Scarfell's lip a day off. White on its tops. The snow.
+Below the village. Where the Vale's scrub ended and the land went up. Past the roofs, past the farmer's top field and the dark of the Fellwood above it, north and east, in a long brown-white swell, to the Scarfell's edge a day off. White on its tops. The snow.
 
 And the roads.
 
@@ -87,7 +87,7 @@ Six of them.
 
 ---
 
-She saw them from his head as the light came up. Six lines going up the moor from the Vale toward the lip. Six streams of people on them.
+She saw them from his head as the light came up. Six lines coming up out of the Vale toward the high ground. Six streams of people on them.
 
 The Drover's Way. The broad one. Rutted. The farmer's road. With the most on it. The broken army's main stream, and her brother's wagons, and the Staithe's four hundred that had come up from the south in the night.
 
@@ -107,7 +107,7 @@ Six.
 
 Too many people.
 
-She could see that too. Too many, on six roads, going up a moor in deep winter, a day from the lip, with the four on the Vale behind them. Too slow. Too strung out. The tails of the columns still on the Vale, in the scrub, at the riverbed's edge, a league back. More.
+She could see that too. Too many, on six roads, going up into the Scarfell in deep winter, a day from its edge, with the four on the Vale behind them. Too slow. Too strung out. The tails of the columns still on the Vale, in the scrub, at the riverbed's edge, a league back. More.
 
 And behind them, the light.
 
@@ -115,7 +115,7 @@ And behind them, the light.
 
 She waited.
 
-All morning, at the Scarfell's foot, with him lying under her, while the columns went up past them. She counted them going past. She lost count. She waited because he was so tired, and because she hoped.
+All morning, below the village, with him lying under her, while the columns went up past them. She counted them going past. She lost count. She waited because he was so tired, and because she hoped.
 
 At the second hour after noon the light on the Vale moved.
 
@@ -157,7 +157,7 @@ He never had. Not once. Not on the island, not at the Ring, not on the far shore
 
 He lay down.
 
-At the Scarfell's foot. Across the ends of the six roads, where they came out of the Vale onto the moor. Facing south. His chin on his paws.
+Below Harrow's End. Across the ends of the six roads, where they came up out of the Vale. Facing south. His chin on his paws.
 
 And made them.
 
@@ -167,7 +167,7 @@ Six.
 
 ---
 
-Out of him. As breath comes out. One. Then another. Then another. Rising out of the moor round him, out of the ground, grey, stone, each one as big as he. Each one a hill.
+Out of him. As breath comes out. One. Then another. Then another. Rising out of the ground round him, out of the ground, grey, stone, each one as big as he. Each one a hill.
 
 Four. Five.
 
@@ -177,7 +177,7 @@ Six.
 
 She'd never seen six.
 
-Three, in the line. Four, under Greyhold, once. The six on the drowned road, at the last milestone, hay-cart-sized, standing in the shallows. Never six like this. Six Titans. Six hills with manes. Rising out of the moor round a seventh lying across the roads, in the afternoon light.
+Three, in the line. Four, under Greyhold, once. Never six. Six Titans. Six hills with manes. Rising out of the ground round a seventh lying across the roads, in the afternoon light.
 
 They went.
 
@@ -197,7 +197,7 @@ This was seven.
 
 She was on the Drover's Way, walking beside her brother's wagons. She was on the scrub track, beside the clans. She was on the towpath, beside the olifants. She was on the River Road, at Eskby's ford. She was on the Oneroad, beside the tuskers. She was on the moor track, beside everyone else.
 
-She was at the Scarfell's foot, lying across the roads' ends, facing south.
+She was below Harrow's End, lying across the roads' ends, facing south.
 
 And she was on his head. Between his ears. In her own body. Which she couldn't feel.
 
@@ -239,7 +239,7 @@ All six. At once. She'd never seen so much.
 
 The Drover's Way.
 
-Her brother's wagons. Forty of them. The long flat Hearthmere wagons with canvas tilts and dray-horses, on the rutted road going up the moor, full. The old. The hurt. The children too small to walk. And on the first wagon's box, Tam. In his leather apron, with his coat over it. With Odo's tools in their roll under the seat. With the reins in his black-knuckled hands.
+Her brother's wagons. Forty of them. The long flat Hearthmere wagons with canvas tilts and dray-horses, on the rutted road across the Vale's scrub, full. The old. The hurt. The children too small to walk. And on the last wagon's box, Tam. In his leather apron, with his coat over it. With Odo's tools in their roll under the seat. With the reins in his black-knuckled hands.
 
 Looking up at the shadow walking beside his wagons.
 
@@ -309,7 +309,7 @@ His voice.
 
 She stayed spread across seven for an hour.
 
-She didn't count it. She couldn't. There wasn't enough of her to count with. She knew it was an hour because the sun moved.
+There wasn't enough of her to count with. She knew it was an hour because the sun moved.
 
 Up the moor, the heads of the columns reaching the high ground. Strung out behind. Going up. Into the Scarfell.
 
@@ -319,15 +319,13 @@ At the hour's end he let them go.
 
 ---
 
-One by one. As each road's head reached the moor's top, below the lip.
+One by one.
 
-The Oneroad's first. The tuskers came over a rise onto the high moor, and the shadow beside them stopped, and turned, and walked back down the road toward him, and lay down at the Scarfell's foot beside him, and went into him.
-
-As breath goes in.
+The Oneroad's first. The shadow beside the tuskers stopped, and turned, and walked back down the road toward him, and lay down beside him, and went into him, as breath goes in.
 
 Then the towpath's. Then the scrub track's. The moor track's. The River Road's.
 
-The Drover's Way's last. It walked beside Tam's wagons until the first wagon was over the high moor's edge. Then it came back.
+The Drover's Way's last. It walked beside Tam's wagons as long as it could. Then it came back.
 
 ---
 
@@ -395,7 +393,7 @@ He wasn't complaining. He was telling her.
 
 He turned.
 
-At the Scarfell's foot. With the roads behind him going up into the moor, and the people on them going up, and the dark coming down. He turned round. Away from the roads.
+Below the village. With the roads behind him going up into the Scarfell, and the people on them going up, and the dark coming down. He turned round. Away from the roads.
 
 West.
 
@@ -405,7 +403,7 @@ Toward the Vale.
 
 She looked where he looked.
 
-South-west. Down the moor. Over the scrub. To the Vale, a long way off, in the dusk, lit. Every horizon still burning. And in the middle of it, over the hole, a white light.
+Over the scrub. Down the Vale, in the dusk, lit. Every horizon still burning. And in the middle of it, over the hole, a white light.
 
 Moving.
 
@@ -421,8 +419,8 @@ Coming north.
 
 *My kin*, said Orrun. Very quietly. *He's coming after them.*
 
-He lay down again. Across the roads' ends. At the Scarfell's foot. Facing the light. His chin on his paws.
+He lay down again. Across the roads' ends. Below the village. Facing the light. His chin on his paws.
 
-The last thing on the moor between the Vale and the roads.
+The last thing between the Vale and the roads.
 
 She sat on his head and watched it come, and counted her own heartbeats, slow and cold, to be sure they went on.

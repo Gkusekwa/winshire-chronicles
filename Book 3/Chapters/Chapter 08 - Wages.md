@@ -12,10 +12,10 @@ Draft notes: Days 15–45. Decided here (proposals):
 - **Solenne's low city**, day 15: the mud-brick quarter under the burned white city's walls; the tribunes (street-heads, elected) in the old fish-market; the regency on **Sorrel Isle** under the lighthouse: **Seraphin** (nine, ten now) and a regency council of two tribunes, Old **Sebold** (the hands' master, half-blind) and a lady of the court who came down to the shingle (**Lady Ismay Aurel**, Book 2 ch. 50, 58: she survived the palace and keeps the boy's lessons); Mother Ysa buried under the light (Book 2 ch. 86's letter). The Grace gone: no lamps, the fountains dry, the vineyards grey; spring and nothing planted because the seed was in the palace granaries and the palace burned.
 - **The olifants**: the three royal olifants that stood in the harbour road (Book 2 ch. 63) haul rubble out of the white city's streets in chain traces for bread like everyone; their riders' bonds dull since the drain (Book 2 ch. 63) but the olifants stay with them; "nobody can make them move" (Book 2 ch. 86) is a joke now: they move when they're fed.
 - **Tobin**: twenty or twenty-one; thinner; still all elbows; loud; the tribunes listen to him; Perrin Sade went north with his letter in the winter and hasn't come back.
-- **Kessmoor's envoy**, day 20: **Inspector Harl Moss** of the Assembly's Office of the Cordon (Book 2 ch. 42–48: Maren's companion on the Iron Road, careful, writes everything down), sent down the Sun Road by the First Guildmaster with a contract and a cart of Kessmoor bread: **three thousand hands for Ironhythe's works**; wages in Kessmoor iron coin, a loaf a day a head, a roof in the works' sheds; "Whatever comes, there'll have to be an alliance, and an alliance will need engines, and engines need hands." Moss, being Moss, writes down every name. He asks after Maren; Tobin tells him what he knows (nothing since Book 2's end). Moss says she's said to be on the Wyldmarch border with the clans (news by Kessmoor semaphore and the Sun Road).
+- **Kessmoor's envoy**, day 20: **Inspector Harl Moss** of the Assembly's Office of the Cordon (Book 2 ch. 42–48: Maren's companion on the Iron Road, careful, writes everything down), sent down the Sun Road by the First Guildmaster with a contract and a cart of Kessmoor bread: **three thousand hands for Ironhythe's works**; wages in Kessmoor iron coin, a loaf a day a head, a roof in the works' sheds; "Whatever comes, there'll have to be an alliance, and an alliance will need engines, and engines need hands." Moss, being Moss, writes down every name. He asks after Maren; Tobin tells him what he knows (nothing since Book 2's end). Moss says she's said to be on the Wyldmarch border with the clans (news from a stage-rider on the Sun Road, three days back).
 - **"Hands"**: the word in Moss's contract is *hands*: Kessmoor's word for labourers; in Sarovel it's the word for the unchosen who do the court's workings out of sight while the chosen take the credit (Book 2 ch. 58); Sebold reads it and laughs till he coughs: "Hands. They'll call us hands." Tobin knows what it means; the tribunes argue two days; the low city has eaten the last of the fish-market's salt fish; **Tobin says yes** because they're starving; he'll lead them; three thousand sign (Moss writes every name).
-- **Echo**, night 24: a stage-keeper's boy from the Sun Road brings a letter that came down the stages from the north in the winter and sat at a stage-house for two months because nobody was going south: **Maren's, three lines**, in her square hand, dated from Sarovel's border on her way home (Book 2 ch. 67, day 324ish): *Tobin. / I'm going home. The farmer's coast is next. / Keep the watch. / M.* He reads it twice; puts it in his shirt.
-- **The road north**, days 25–45: three thousand on the Sun Road and then the Kessmoor road north through the drained Sunward Hills and Highcrest to the Iron Fells and Ironhythe: about 128 leagues; Moss's carts of bread every three days at stage-houses; the olifants don't come (the regency keeps them for the rubble and the boy); old Sebold doesn't come (too old); a dozen of the court's old hands in brown do; the gold lions still on the stage gates; Tobin keeps them walking with jokes and shouting; at the Fells' foot on day 45 he sees Ironhythe's smoke and the works' chimneys, a hundred of them, and the clock tower over the Hall of Measures.
+- **Echo**, night 24: a stage-keeper's boy from the Sun Road brings a letter that came down the stages from the north in the winter and sat at a stage-house for two months because nobody was going south: **Maren's, three lines**, in her square hand, dated from Sarovel's border on her way home (Book 2 ch. 67, day 324ish): *Tobin. / I'm going home. The farmer's coast is next. / Keep the watch. / M.* He reads it to the end, and the outside with his own name; puts it in his shirt.
+- **The road north**, days 25–45: three thousand on the Sun Road and then the Kessmoor road north through the drained Sunward Hills and Highcrest to the Coldrun and Ironhythe: about 128 leagues; Moss's carts of bread every three days at stage-houses; the olifants don't come (the regency keeps them for the rubble and the boy); old Sebold doesn't come (too old); a dozen of the court's old hands in brown do; the gold lions still on the stage gates; Tobin keeps them walking with jokes and shouting; in the Coldrun's valley on day 45 he sees Ironhythe's smoke and the works' chimneys, a hundred of them, and the clock tower over the Hall of Measures.
 Magic touches: none (Sarovel drained: the Grace gone); Kessmoor's iron coin; the word "hands".
 notes -->
 
@@ -127,7 +127,7 @@ Three thousand. For the works. Wages in Kessmoor coin, iron, paid every seventh 
 
 Moss looked up from his ledger.
 
-"For whatever comes," he said. "You've seen what came here. There are six of them now, in the mountains. When they come down, there'll have to be an alliance. Every kingdom. Nobody can stand alone. Your own envoy said so at the river." He looked at the ledger. "And an alliance will need engines. And engines need hands."
+"For whatever comes," he said. "You've seen what came here. There are six of them. They've come down onto the Plains, the stages say. There'll have to be an alliance. Every kingdom. Nobody can stand alone. Your own envoy said so at the river." He looked at the ledger. "And an alliance will need engines. And engines need hands."
 
 ---
 
@@ -191,8 +191,6 @@ He heard himself say it. Loud. As he said everything.
 
 "I'll lead it. Whoever comes. I'll walk at the front and I'll shout at the back and I'll see every one of you fed." He stood up on the wall. "I know what the word means. I know what Sebold means. I'm not a fool." He looked at the bread cart, empty now. "We'll be hands. In Kessmoor. For iron money." He looked at the fish-market. "Or we'll be dead here. In Sarovel. Of pride."
 
-Nobody said anything.
-
 "I'd rather be a hand," said Tobin. "You can stop being a hand. You can't stop being dead."
 
 ---
@@ -221,7 +219,7 @@ On the last night. At the fish-market's fire. He'd finished his ledger and close
 
 "Nothing," said Tobin. "Not since the river. Perrin went north in the winter with my letter. He hasn't come back."
 
-"She's on the Wyldmarch border," said Moss. "With the clans. The semaphore had it, before I came south. The clans are running west off the Plains, and she's gone east to bring them over, and the crown's shut its border." He looked at the fire. "The crown's council may outlaw her."
+"She's on the Wyldmarch border," said Moss. "With the clans. A stage-rider had it on the Sun Road, three days back. The clans are running west off the Plains, and she's gone east to bring them over, and the crown's shut its border." He looked at the fire. "The crown's council may outlaw her."
 
 Tobin laughed.
 
@@ -257,7 +255,7 @@ Three lines.
 
 ---
 
-He read it twice.
+He read it to the end, and then the outside, his own name.
 
 Then he sat by the fire with it on his knee. Months old. Written somewhere on the Sun Road, going north, after the bay and the boy and the burning, when she'd left him on the shingle. *Keep the watch.* As if there were a watch. As if there were a wall to face, at noon.
 
@@ -307,7 +305,7 @@ Moss's bread was at every third stage-house. Every time. On the day he'd said.
 
 ---
 
-On the forty-fifth day they came down out of the hills to the Fells' foot.
+On the forty-fifth day they came down out of the hills into the Coldrun's valley.
 
 And he saw it.
 
@@ -315,7 +313,7 @@ And he saw it.
 
 Smoke.
 
-The whole northern sky. Grey and black and brown, going up in columns into the cold, and under the smoke, chimneys. A hundred of them. More. Tall, square, black, standing up out of a valley at the foot of the Iron Fells as thick as a wood of dead trees.
+The whole northern sky. Grey and black and brown, going up in columns into the cold, and under the smoke, chimneys. A hundred of them. More. Tall, square, black, standing up out of a valley on the Coldrun, under the moors, as thick as a wood of dead trees.
 
 And under the chimneys, sheds. Iron-roofed. Long. Row after row.
 

@@ -5,13 +5,13 @@ POV: Calder
 Part: Part Six: The Vale of the Wend
 Days: 318 (Book 3 count; day 0 = dusk on the day the six went up from the Scarfell, Book 2 ch. 88)
 Ends at (chapter-end map): Over the Vale
-Beats: The five come on: the Last Titan from the west, the Pale Coil down the Wend, the Bell up it, the Furnace burrowing in from the north-west, the Horned Sun from the south-west. Calder in the air with the three, and the air full: the Clan's flights, the Wyldmarch's rocs, Isvaren's stormkite-riders, Saltreach's wyvern companies, each taking a stretch of sky over its own kingdom's sector. Kharrak against the Horned Sun; fire across a league.
+Beats: The five come on: the Last Titan from the west, the Pale Coil down the Wend, the Bell up it, the Furnace burrowing in from the north-west, the Horned Sun from the south-east. Calder in the air with the three, and the air full: the Clan's flights, the Wyldmarch's rocs, Isvaren's stormkite-riders, Saltreach's wyvern companies, each taking a stretch of sky over its own kingdom's sector. Kharrak against the Horned Sun; fire across a league.
 Echo of another story: Hundreds of stone lions holding the Candle Downs side: Maren's work and Orrun's together.
 Status: first draft
 Draft notes: Day 318. Decided here (proposals):
 - **Dawn**: all five move at once, at the same breath (*They've been told*, says Aurveth); Calder up at first light on Kharrak, Lisska and Aurveth either side; the wards glow up again at sunrise as the voices on the line say the words again (at dawn, not noon: Rowan's order, so they're fed before it starts).
-- **The air, shared**: **the Clan** (Arn's hundred pairs) over the centre and both banks in flights of ten; **Yeva's four rocs** over the Wyldmarch's sector with cart-sized rocks; **Aud Hallin's six stormkites** high over Isvaren's sector calling every Titan's turn with bone horns (now in a code agreed at the council: one note per Titan, west one, north two, south three, north-west four, south-west five; then left/right); **Nell Tallis's wyverns, Black Ruth's and the Cranes'** over Saltreach's end; nobody's sky; "the air was full and nobody owned it".
-- **The five come on**: **the Last Titan** walks east off the downs to the Hearthmere wall's western half, and **the Hearthmere ward holds it**: it puts its head against the ward and the ward lights white where it touches, and it walks along the ward toward the river, testing; **the Pale Coil** comes down the Wend from the north under black ice to the line's northern edge and **the Lady** goes up the eddy's head to meet it in the channel (the river between the wards); **the Bell** comes up from the south to a league below the line and lies there, the river white; **the Furnace** burrows in under the north-west downs toward the Hearthmere bend, the ground rising, steam; **the Horned Sun** comes down off the south-west hills onto the Saltreach wall's scrub end.
+- **The air, shared**: **the Clan** (Arn's hundred pairs) over the centre and both banks in flights of ten; **Yeva's four rocs** over the Wyldmarch's sector with cart-sized rocks; **Aud Hallin's six stormkites** high over Isvaren's sector calling every Titan's turn with bone horns (now in a code agreed at the council: one note per Titan, west one, north two, south three, north-west four, south-east five (agreed after the Sun came round); then left/right); **Nell Tallis's wyverns, Black Ruth's and the Cranes'** over Saltreach's end; nobody's sky; "the air was full and nobody owned it".
+- **The five come on**: **the Last Titan** walks east off the downs to the Hearthmere wall's western half, and **the Hearthmere ward holds it**: it puts its head against the ward and the ward lights white where it touches, and it walks along the ward toward the river, testing; **the Pale Coil** comes down the Wend from the north under black ice to the line's northern edge and **the Lady** goes up the eddy's head to meet it in the channel (the river between the wards); **the Bell** comes up from the south to a league below the line and lies there, the river white; **the Furnace** burrows in under the north-west downs toward the Hearthmere bend, the ground rising, steam; **the Horned Sun** comes down off the south-east hills onto the Saltreach wall's scrub end.
 - **Kharrak and the Horned Sun**: at the scrub end the Sun walks into the Saltreach ward and the ward bends in under its light; Rennick's sellswords on the wall's top burning; Calder takes Kharrak down: **white fire across a league**, from the scrub end along the Sun's front, a wall of it between the Sun and the ward; light against fire; the Sun's half-league of day and Kharrak's white fire meeting; heat so great the frost goes off the whole south-east Vale; the Sun stops; it turns its horn on Kharrak; Kharrak burns it on the horn and on the face, and it goes back up the hills a quarter-league, blazing, and comes again, and again, all day. **Toll**: Calder's palms open again and bleed on the plates; he takes it.
 - **Lisska over the people**: the Saltreach camp's people behind the scrub end; when the Sun's heat comes over the ward she puts a wind under it and turns it up into the sky. **Aurveth high**, seeing for all of them: the Furnace's tunnel under the Hearthmere bend, going toward the batteries (plant 65).
 - **The wyverns** at the scrub end hit the Sun from the sky in the fire's smoke and lose three; **a roc** drops a rock on the Coil's head at the channel and loses its feathers to the cold.
@@ -76,7 +76,7 @@ It was the most beautiful thing he'd ever seen. He was frightened of how beautif
 
 The horns started.
 
-The stormkites. Bone horns, blown down from the sky. They'd agreed the code at the council, Aud Hallin and Arn and Rowan, over the chalk map. One note for the west. Two for the north. Three for the south. Four for the north-west. Five for the south-west. Then left, then right.
+The stormkites. Bone horns, blown down from the sky. They'd agreed the code at the council, Aud Hallin and Arn and Rowan, over the chalk map. One note for the west. Two for the north. Three for the south. Four for the north-west. Five for the south-east. Then left, then right.
 
 *One*, came down from the sky. *One. One.*
 
@@ -104,7 +104,7 @@ The ward held.
 
 ---
 
-It didn't push again. It turned its head. And walked. Along the ward. North, toward the river. With its head against the shimmer, as a man walks along a wall in the dark with his hand on it. And the ward lit white along its side as it went, a line of white light following it.
+It didn't push again. It turned its head. And walked. Along the ward. East, toward the river. With its head against the shimmer, as a man walks along a wall in the dark with his hand on it. And the ward lit white along its side as it went, a line of white light following it.
 
 Testing. Feeling for the end.
 
@@ -166,7 +166,7 @@ He didn't have time to.
 
 ---
 
-The south-west.
+The south-east.
 
 He'd known it would be his. He'd known since the Vintner's Gate. Since the knight's lion had held it in the road and the Lamp had come down and it had gone back into the hills. Since it had lain there burning.
 

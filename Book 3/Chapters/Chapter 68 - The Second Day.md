@@ -12,7 +12,7 @@ Draft notes: Day 319, dawn to a little before noon. Decided here (proposals):
 - **Dawn**: the words said again; the wards light; the five get up again at the same breath.
 - **The Sun into the shallows**: the Horned Sun comes off the southern hills not at the scrub end but **west along the scrub toward the river**, to come up the gap; **Kharrak** drives it with fire into the Wend's shallows **a league below the eddy** on the Saltreach side (the Kingfisher Shallows, new: the gravel flats below the eddy's lower lip); **the Lamp** comes down the river on the light and meets its kin in the water; **the Lamp holds it down in the shallows**, light on light, and in the water the Sun's light goes dim, grey-gold; it lies in the shallows, held, its horn down, steam going up; *It's down. It's down.*
 - **The Coil pinned**: north, in the Wend's channel above the line, the Lady winds the Coil down under the black ice and **pins it against the river-bed** that Orrun's shadow (the Hearthmere-bend shadow) has raised into a bar across the channel; it lies pinned, its pale light under the ice, coiling slower.
-- **The Bell held at the mouth**: **the scrub-end shadow** (free once the Sun is in the shallows) goes south down the Saltreach bank and **into the Wend's mouth**, twelve leagues, at a Titan's run, and **stands across the mouth's channel in the shallows**, holding the Bell's long back off with its shoulder as it tries to come up; the bell-note, over and over; held.
+- **The Bell held at the mouth**: **the scrub-end shadow** (free once the Sun is in the shallows) goes south down the Saltreach bank and **into the Wend's mouth**, ninety leagues, at a Titan's run (the Bell went back to the white water off the mouth in the night and comes on again at sunrise), and **stands across the mouth's channel in the shallows**, holding the Bell's long back off with its shoulder as it tries to come up; the bell-note, over and over; held.
 - **The Last Titan brought down**: in the eddy at sunrise it rises off the water; **Orrun** goes at it from his bed at the lower lip, with the Wyldmarch-river-end shadow coming in from the Saltreach side, and they **bring it down in the eddy's middle**, where the island was; **Orrun's forefoot on its neck**, pressing its head down on the water; *the reverse of the chains*: no iron; a lion's foot.
 - **The task**: Aurveth sees the coal; the Lamp can't, under the plates; the elders hear only two bonds together; **Calder flies Aurveth down** (he goes across from Kharrak to her in the air over the shallows; Kharrak stays over the Sun) **and lands her in the eddy beside the lion**, on the raised bed, along Orrun's flank; he climbs from her neck onto Orrun's shoulder and up to his head; **Maren** is there.
 - **Two hands**: as in the Hall of Light; **he takes her bandaged right hand** (she can't feel it; she looks at it to see that he has it); **Aurveth's sight goes through him; Orrun's hold through her**; and **the Lamp** (leaving its kin held under the water in its own dimmed light) walks up the river to the eddy and **walks down onto the Last Titan's back on the light** and **hears both at once**: guided hand over hand: *left. Down. Under the second plate. Between the second egg and the third.*
@@ -138,7 +138,7 @@ He saw it through Aurveth. She'd been in the channel above the line all night, w
 
 And the river-bed had come up to meet it.
 
-One of the lion's shadows. The one that had held the bend all day with its paws flat on the heaving ground. It had gone in the night up the Hearthmere bank to the channel and into the river, and raised the bed there, as the lion had raised his. A bar of stone across the channel.
+One of the lion's shadows. The one that had held the bend all day with its paws flat on the heaving ground. It had gone at first light up the Hearthmere bank to the channel and into the river, and raised the bed there, as the lion had raised his. A bar of stone across the channel.
 
 The Lady pinned the Coil against it.
 
@@ -150,7 +150,7 @@ South, the Bell.
 
 ---
 
-He didn't see it at first. It was twelve leagues off, at the Wend's mouth. Then Aurveth looked, and he looked with her.
+He didn't see it at first. It had gone back down the river in the night. Back to the white water off the mouth, as it had after Kharrak's fire, and at sunrise it came on again. Ninety leagues off. Then Aurveth looked, and he looked with her.
 
 Another shadow. The one from the scrub end. Free now, with the Sun in the shallows. Going south. Down the Saltreach bank. At a Titan's run, a hill running, a league in a breath, along the river toward the sea.
 

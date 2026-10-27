@@ -9,16 +9,16 @@ Beats: **The three dragons become Titan-class** *(canon)*. The Wayfarer's one gi
 Echo of another story: The grey hill that was a lion walking into the sea.
 Status: first draft
 Draft notes: Day 147 (143–146 told back; the echo at dusk 148). Decided here (proposals):
-- **The ninety-three**, told back: Jory led them up the western road to the lagoon on 143–144 (two days, sleeping sitting up in turns on the road with the dragons awake around them; nobody died); **Kit took them aboard the *Kittiwake*** (ninety-three on a salvage ketch, in the hold and on the deck and in the two boats towed astern; she charged nothing; she said nothing about it); Jory back to the crossroads on Aurveth on 145 with Calder from the hall.
+- **The ninety-three**, told back: Jory led them up the northern road to the lagoon on 143–144 (two days, sleeping sitting up in turns on the road, Jory walking the line all night; nobody died); **Kit took them aboard the *Kittiwake*** (ninety-three on a salvage ketch, in the hold and on the deck and in the two boats towed astern; she charged nothing; she said nothing about it); Calder, coming back from the hall on 145, comes down at the lagoon for Jory, and Jory rides Aurveth back to the crossroads.
 - **The gift**, dawn 147: the Wayfarer's light in the crossroads' square grows; its script is in them, not on the air: three voices that are one: ***Farmer. Hold them.*** / ***What I am goes into them. Through you.*** / ***Three ways. One gift.*** He says yes (he doesn't know how to say anything else; he thinks of Maren's *yes* at the ridge, which he couldn't have heard). The light comes down out of the square into all three dragons at once, **through him**.
 - **Kharrak's fire**: he opens his jaws at the square's south-east milestone and the fire is **white**: not red, not gold: white as the Lamp; the milestone **melts**, runs, pools on the paving like wax.
-- **Aurveth's deep sight**: she lifts her head and **looks through things**: through the hills to the hall's ridge (she sees the lion as a grey warmth the size of a hill, a day off), through the sea-bed to the drowned road's piers (each one a cold standing shape), through distance: east, over the sea, very far, a burning coal among five dark eggs (she doesn't tell him yet; ch. 45 is the first time he sees it through her clearly).
+- **Aurveth's deep sight**: she lifts her head and **looks through things**: through the hills to the hall's ridge (she sees the lion as a grey warmth the size of a hill, a day off), through the sea-bed to the drowned road's piers (each one a cold standing shape), through distance: north, over the sea, very far, a burning coal among five dark eggs (she doesn't tell him yet; ch. 45 is the first time he sees it through her clearly).
 - **Lisska's wind**: she goes up and the sky goes with her: clouds come out of a clear morning and turn round her in a ring a league wide; she carries a storm on her back and lets it go over the sea, laughing.
 - **Aurveth's wing heals straight**: the old wound at the wing's root (the wing that held) cracks like a branch and straightens; she spreads both wings full for the first time since Book 1 and the bronze comes back into her plates, bright, like a pan rubbed with sand and vinegar.
 - **The toll**, all three at once (as at the mill, three deaths in a day, Book 1 ch. 18): **fever**: he burns; **nosebleeds**: blood from his nose, then his eyes (the old Calder toll); **his three bond-marks (bronze, rust, green) on his chest burned into raised scars**, as if branded; he goes down on the paving and doesn't get up; Jory holds his head on his knees; the dragons, changing, can't come close (the heat; Kharrak's white fire in his throat). **He nearly dies**: through the morning his heart stutters; Jory feels it stop under his hand once and start. **He holds.** By noon the fever breaks.
-- **The Wayfarer fades**: as the gift goes, the three-headed light thins; its three faces turn, at the last, not down the roads but to the three dragons; goes out like the Mother; the square's paving goes quiet; his copper still on the south milestone (the one that didn't melt: the south one; it was the south-east that melted).
+- **The Wayfarer fades**: as the gift goes, the three-headed light thins; its three faces turn, at the last, not down the roads but to the three dragons; goes out like the Mother; the square's paving goes quiet; his copper still on the south milestone (the one that didn't melt: the south one; it was the south-east that melted). **The bereavement** (expansion, 27 Oct 2026): nobody is going to empty the copper; Kharrak makes **the pour-sound** (the Clan's dragons' sound at Coldtarn, ch. 38; Calder heard it pouring for Ulric), Aurveth and Lisska take it up, a long time, to the empty middle of the square; Calder hasn't the throat for it and it goes through him and out of his eyes with the blood; Lisska, hall-sized and walking as light as ever, puts her nose to the paving where it stood: *Road. It smells of road.*
 - **Their size**: Titan-class: Kharrak the size of a hill, Aurveth larger, Lisska the smallest still and the size of the hall; all three still themselves, voices the same.
-- **Echo**, dusk 148: through Aurveth's new sight, far to the north-east, a grey hill walking down off the hall's ridge, across the green country, to the lagoon's shore, and into the sea; the stone of the sea-bed opening before it; *The lion,* says Aurveth. *Going home. Under.*
+- **Echo**, dusk 148: through Aurveth's new sight, far to the north-east, the hall's ridge empty, and on the lagoon's shore a grey hill, sitting, then walking into the sea (he came down from the hall on 147, ch. 40); the stone of the sea-bed opening before it; *The lion,* says Aurveth. *Going home. Under.*
 - **Voice**: his voice comes back a little through the fever; still cracked.
 Magic touches: the gift through the bond (three ways); Titan-class fire, deep sight, wind; toll through three bonds at once (fever, nosebleeds, branded marks); the Wayfarer's fading.
 notes -->
@@ -27,9 +27,9 @@ notes -->
 
 Jory had taken the ninety-three to the lagoon.
 
-On the hundred-and-forty-third, while Calder was at the hall. Up the western road from the crossroads, a day and a half, the boy at the front with his long brown hands swinging, and ninety-three people from Corsa behind him in a line in their rotted good coats, walking.
+On the hundred-and-forty-third, while Calder was at the hall. Up the northern road from the crossroads, a day and a half, the boy at the front with his long brown hands swinging, and ninety-three people from Corsa behind him in a line in their rotted good coats, walking.
 
-They'd slept on the road. Sitting up. In turns. With Kharrak and Lisska lying awake at either end of the line.
+They'd slept on the road. Sitting up. In turns. With Jory walking the line all night, waking anyone who lay down.
 
 Nobody had died.
 
@@ -37,7 +37,7 @@ Nobody had died.
 
 Kit had taken them aboard.
 
-Jory told him at the crossroads on the hundred-and-forty-fifth, when Calder came back from the hall. The *Kittiwake*, at anchor in the lagoon. A salvage ketch with a crew of seven. Ninety-three people, from a fleet that had sailed to sell her family's road at six hundred gold a head.
+Jory told him at the lagoon on the hundred-and-forty-fifth, when Calder came down for him on the way back from the hall. The *Kittiwake*, at anchor in the lagoon. A salvage ketch with a crew of seven. Ninety-three people, from a fleet that had sailed to sell her family's road at six hundred gold a head.
 
 In the hold. On the deck. In the two boats, towed astern.
 
@@ -57,7 +57,7 @@ At dawn the light in the square's middle got brighter.
 
 Not much. Then more.
 
-The tall pale shape. Three heads, three necks, wings folded like a heron's. Pale gold. Standing where the roads crossed, as it had stood for ten days, looking down three roads.
+The tall pale shape. Three heads, three necks, wings folded like a heron's. Pale gold. Standing where the roads crossed, as it had stood every day he'd known it, looking down three roads.
 
 It turned its three faces.
 
@@ -111,7 +111,7 @@ And out of him, three ways at once, into three dragons.
 
 He'd done this before.
 
-At the mill. Three deaths in a day. Three bonds forming in an afternoon, three dragons' dying pulling through him at once, and he'd lain in the straw on the mill floor for three days and not known his own name.
+At the mill. Three deaths in a day. Three bonds forming in an afternoon, three dragons' dying pulling through him at once, and he'd lain in the burning stubble below the mill with his hand on a dragon's jaw, and for three days after not known his own name.
 
 This was that, the other way.
 
@@ -133,7 +133,7 @@ White as the Lamp at the hall. White as noon on snow. It went out of Kharrak's j
 
 The milestone melted.
 
-Not cracked. Not burned. Melted. The grey old stone going red, then yellow, then white, and slumping, and running down off its own base onto the paving like a candle in a fire. Pooling. Glowing. The hooked letters on it gone into the pool.
+The grey old stone going red, then yellow, then white, and slumping, and running down off its own base onto the paving like a candle in a fire. Pooling. Glowing. The hooked letters on it gone into the pool.
 
 Kharrak shut his jaws.
 
@@ -169,7 +169,7 @@ Down. Through the ground under the square. Through the stone, the sand, the sea-
 
 And further.
 
-East. Over the sea. Over the Shatters. So far. Something.
+North. Over the sea. Over the Shatters. So far. Something.
 
 A burning. Small. Like a coal, among five dark shapes.
 
@@ -327,15 +327,39 @@ He'd never asked which.
 
 ---
 
-It went out.
+It went out as a wind drops at evening.
 
-Like the Mother. Like a lamp. There was light where the roads crossed, and then less, and then grey paving, and four milestones, three of them standing and one a cooled pool of slag.
+There was light where the roads crossed, and then the grass lay still, and grey paving, and four milestones, three of them standing and one a cooled pool of slag.
 
 And the square went quiet.
 
-The hum stopped. In the paving. In the milestones. As a bell stops.
+The hum stopped. In the paving. In the milestones.
 
 On the south milestone, the one that hadn't melted, his copper. A Hearthmere copper with a lamp on it. Still there.
+
+Nobody was going to empty it.
+
+---
+
+Kharrak made the sound first.
+
+Low. In his chest, then lower, down into the paving, so that Calder felt it come up through the stone into his back where he lay. The pour-sound. The long one the Clan's dragons made at Coldtarn when the urn went over, that went into the rock and stayed there. He'd heard it with his bound hand on the urn for Ulric, every dragon round the bowl making it at once, and the rock taking it.
+
+Aurveth took it up, deep under Kharrak's. Then Lisska, high and thin. Three, in a square of grey stone with nothing round it to take the sound in.
+
+They made it a long time. At the middle of the square, where the light had stood, where there was nothing now but four roads meeting.
+
+He couldn't make it. He hadn't the throat for it. He lay with Jory's hands under his head and let it go through him, through the new scars, until it ran out of the corners of his eyes with the blood and he couldn't tell the one from the other.
+
+---
+
+Lisska came across the square when it stopped.
+
+The size of the hall now. She walked as she always had, light, picking her feet up, as if nobody had told her. She put her nose down to the paving where its feet had been and held it there. She'd always been the one who wanted to know what a thing smelled of.
+
+She lifted her head.
+
+*Road,* she said. In him. Puzzled. *It smells of road.*
 
 ---
 
@@ -385,7 +409,7 @@ He put his hand under his shirt.
 
 On his chest. Over his heart. Where the marks were.
 
-Raised. Hard. Ridged. Three of them, side by side. Not marks now. Scars. Branded into him, bronze and rust and green, as if somebody had pressed three hot seals into his skin. He'd carry them the rest of his life.
+Raised. Hard. Ridged. Three of them, side by side. Scars now. Branded into him, bronze and rust and green, as if somebody had pressed three hot seals into his skin. He'd carry them the rest of his life.
 
 He took his hand away.
 
@@ -401,19 +425,15 @@ He looked through her.
 
 ---
 
-Through the hills. A day off. The hall's ridge, the columns. And the grey warmth that had been lying there.
+Through the hills. The hall's ridge, the columns, empty. And further, on the lagoon's shore, the grey warmth. Sitting. A hill, with something small on its back, between its shoulders.
 
-Moving.
+Then moving.
 
-Walking. Down off the ridge. Across the green country, north-east, toward the lagoon. Slowly. A hill, walking. Grey. With something small on its back, between its shoulders.
-
-He watched it reach the lagoon's shore.
-
-And go into the sea.
+Toward the sea.
 
 ---
 
-Not swimming. Walking. Into the water, and down. The sea closing over its back. And under the sea, through Aurveth's sight, the stone of the sea-bed opening in front of it. Opening, as water opens round a boat's bow. And closing behind.
+Not swimming. Walking. Into the water, and down. The sea closing over its back. And under the sea, through Aurveth's sight, the stone of the sea-bed opening in front of it. Opening, as a ploughed furrow opens. And closing behind.
 
 A grey warmth, going down into the sea-bed, along the line of the drowned road. Under the piers.
 

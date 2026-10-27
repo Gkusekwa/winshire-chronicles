@@ -9,13 +9,13 @@ Beats: Idony's glasses in the hall. The surge everywhere, off the scale. He read
 Echo of another story: The hill shaking; something at the door.
 Status: first draft
 Draft notes: Night 322. Decided here (proposals):
-- **The glasses**: **three** left of eight (the three from the landing, picked up out of the frozen grass by Davin at 69; the other five lost in the ferry house when the river went); Davin sets them **on the hall's floor in a triangle** by the third pillar (one toward the door, south; one toward the hall's back, north; one against the western wall) so that a fall in one before the others gives a direction; Liss's brass lamp beside them.
+- **The glasses**: **three** left of eight (the three from the landing, picked up out of the frozen grass by Davin at 69; the other five lost in the ferry house when the river went); Davin sets them **on the hall's floor in a triangle** by the third pillar (one toward the door, east; one toward the hall's back, west; one against the southern wall) so that a fall in one before the others gives a direction; Liss's brass lamp beside them.
 - **Off the scale**: all three at the tops since the hall was opened, the quicksilver pressed against the glass, shaking; **the surge everywhere**; the hall's floor warm and getting warmer; the *hold* rune in the roof lit faintly white.
-- **The breaths going out** (each a glass dropping suddenly a finger and climbing back, the others following a little after, the direction from which dropped first; Idony knows each by the direction and by the feel of it, after a year): **(1) the Horned Sun's**, east, near the second hour of the night: the east glass first: "The Sun. East. Along the Scarfell's edge toward the Worldsend. It's gone out. Burned through." **(2) the Pale Coil's**, west, an hour later, close: the western glass: "The Coil. Under the beck. It's gone out" (Calder, at the step, nods: he saw it go). **(3) the Lady's**, south and far, the south glass dropping a long slow fall: "Ysse. The Lady. Under the sea." (He says her light-script name; his grandmother's Lady.) **(4) the Bell's**, south and far, a breath after: "And the Bell. With her. Under the sea. Together." (Kit, on the floor by the wall, hears it; she says nothing; she saw them go down; now she knows.)
+- **The breaths going out** (each a glass dropping suddenly a finger and climbing back, the others following a little after, the direction from which dropped first; Idony knows each by the direction and by the feel of it, after a year): **(1) the Horned Sun's**, east, near the second hour of the night: the east glass first: "The Sun. East. Along the Scarfell's edge toward the Worldsend. It's gone out. Burned through." **(2) the Pale Coil's**, west, an hour later, close: the back glass: "The Coil. Under the beck. It's gone out" (Calder, at the step, nods: he saw it go). **(3) the Lady's**, south and far, the south glass dropping a long slow fall: "Ysse. The Lady. Under the sea." (He says her light-script name; his grandmother's Lady.) **(4) the Bell's**, south and far, a breath after: "And the Bell. With her. Under the sea. Together." (Kit, on the floor by the wall, hears it; she says nothing; she saw them go down; Idony doesn't press it, and her doubt stays her own.)
 - **Each burned through** "as a lamp burns white before it fails": the surge they made going through them.
 - **The bond**: as each goes, the beasts in the hall (Sorrow, the wolf, Old Grey, the mare, the calf, the lynx) **lift their heads and look round as if someone had called them by name from a long way off**; the knight's hand on Sorrow; Wynn: "She's shaking." Idony looks at them and **almost understands** something (that the bond runs on the Titans' breath: the Deep is their breath; when the last breath goes...) and doesn't finish the thought. (Plant: never lectured; 84.)
 - **The surge lines**: with the four out, the surge is still going: **he starts naming the cities on the surge lines to Davin**, the old College tide-chart in his head: "Vael. Under ice already. Now the surge in the ice. Glasswater. The Library hill. Ironhythe. The Coldrun. The Hall of Measures, and its clock. Solenne. Sorrel Isle. The lighthouse. Corsa's terrace. Blackwater. Hallowmere..." **and stops** ("Write: *the surge went along the lines*. That's all. Don't write the names"); Davin has written six names; he crosses them out; then doesn't; he leaves them.
-- **One breath left**: the three glasses still at the top, but now all pressing the same way: **south**, toward the door, close: the Last Titan's; "One," he says. "One left." "Where?" says Davin. Idony looks at the door.
+- **One breath left**: the three glasses still at the top, but now all pressing the same way: **south**, toward the south wall, close: the Last Titan's; "One," he says. "One left." "Where?" says Davin. Idony looks at the door.
 - **Echo**: the hill shakes; the hall's floor; grit; the rune holds; at the door, against the storm's flicker, **something huge outside the step, white, and the lion getting up**.
 Magic touches: tide-glasses reading breaths going out; the surge on the lines; the beasts lifting their heads.
 notes -->
@@ -34,7 +34,7 @@ The ferry house was on the mud now. Or in the hole.
 
 Three.
 
-Davin set them out on the floor of the hall. By the third pillar. Under the rune. In a triangle, on a flat stone, as Idony told him. One toward the door, which faced east over the tarn. One toward the hall's dark back. One against the western wall.
+Davin set them out on the floor of the hall. By the third pillar. Under the rune. In a triangle, on a flat stone, as Idony told him. One toward the door, which faced east over the tarn. One toward the hall's dark back. One against the southern wall.
 
 "If one falls before the others," said Idony, "it tells you where."
 
@@ -142,7 +142,7 @@ Then they put their heads down again.
 
 The second went out an hour later.
 
-The western glass. The one against the western wall. Dropping. Close. Hard. A finger. Two. Then climbing.
+The back glass. The one toward the hall's dark back, west. Dropping. Close. Hard. A finger. Two. Then climbing.
 
 Close. Very close.
 
@@ -154,7 +154,7 @@ At the door, the farmer turned his head.
 
 He was on the step. Beside the knight. In the doorway, with the storm behind him. He'd been standing there since he brought the last ones up. He turned his head and looked at Idony, across the hall. And nodded.
 
-His eyes were strange. Idony had seen them when he came in. They looked at things too far away.
+His eyes were strange. Idony had seen them when he came in. Fixed on something past the storm.
 
 He'd seen it go.
 
@@ -208,7 +208,7 @@ The third went out near the fifth hour.
 
 ---
 
-South. Far. The door glass, and the back glass after it, and he knew the way of it.
+South. Far. The south glass, and the door glass after it, and he knew the way of it.
 
 Not a drop. A fall. Long. Slow. The quicksilver going down its throat a long way. Further than the others. As a sigh goes on. Then climbing, slowly, back.
 
@@ -222,7 +222,7 @@ He'd known it all his life. Before he could read. On the ferry on Glasswater, wi
 
 Davin looked at him.
 
-"The Lady," said Idony. "Under the water." He watched the glass climb. "Under the sea. Far south. At the mouth, or past it." He breathed. "She's gone out."
+"The Lady," said Idony. "Under the water." He watched the glass climb. "Under the sea. Far south." He breathed. "She's gone out."
 
 ---
 
@@ -266,9 +266,7 @@ She'd seen them go down. He knew that. She'd said so on the step in the morning,
 
 ---
 
-"Now you know," said Idony. Quietly. Across the hall. To her.
-
-Kit nodded.
+She looked at the glass. She didn't say anything, and he didn't say anything to her.
 
 She lay back down against the wall. She put her hand on the dog.
 
@@ -325,6 +323,8 @@ He didn't know why he was saying it. He said it.
 "Under ice already. The surge under the ice now. The lake. Glasswater. The Library hill."
 
 Davin wrote.
+
+*The ferry. Nessa's ferry, on the ice.* He didn't say it. Davin didn't write it.
 
 "Ironhythe. The Coldrun. The Low Yards. The Hall of Measures." He breathed. "And its clock."
 
@@ -390,7 +390,7 @@ The quicksilver in each, at the top of its throat, leaning. A little. All three.
 
 South.
 
-Toward the door.
+Toward the south wall.
 
 Close.
 

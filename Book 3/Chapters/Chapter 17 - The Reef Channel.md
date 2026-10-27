@@ -10,7 +10,7 @@ Echo of another story: Through Orrun, Lisska at last: Corsa's chain is up, and t
 Status: first draft
 Draft notes: Days 84–86. Decided here (proposals):
 - **Night 84, the low water**: the *Kittiwake*'s boat in the channel's throat with Kit, Jory and Maren; Orrun swims out from the reef (he hates the sea; lions don't swim; he does) and stands on the reef's lip waist-deep; **two shadows** come up out of the reef itself, grey stone lions, and go down into the channel either side of the chapel-sized block. Maren on the reef's top with both hands flat on wet rock.
-- **The lift**: the shadows get their shoulders under the block's ends; Orrun on the reef pulls stone up through her (bond gift, works on dead ground and on the sea's floor; the sea's tidal, not running, so nothing breaks); the block rises out of the water a foot at a time, streaming, the hooked script on its top face catching the lantern (Idony on the *Kittiwake*'s deck shouting what it says: *into the light, none*: it was a shore-stone carried out to the road's end once, he thinks, to stand on the last pier); the shadows walk it along the channel and set it down on the reef's shoulder, where it'll stand above high water from now on. Jory sounds the throat: five fathoms.
+- **The lift**: the shadows get their shoulders under the block's ends; Orrun on the reef pulls stone up through her (bond gift, works on dead ground and on the sea's floor; the sea's tidal, not running, so nothing breaks); the block rises out of the water a foot at a time, streaming, the hooked script on its top face catching the lantern (Idony on the *Kittiwake*'s deck shouting what it says: *into the light, none*: it was a shore-stone carried out to the road's end once, he thinks, to stand on the road's first pier); the shadows walk it along the channel and set it down on the reef's shoulder, where it'll stand above high water from now on. Jory sounds the throat: five fathoms.
 - **The Bell**: while the block's in the air, a league out, the sea moves: a long low shape like a reef that isn't there, going west, slowly, the water piling white along it; then the sound, once, very far and deep, a bell under water. The block doesn't drop. The shadows hold. Kit in the boat: "That's my father's water."
 - **The toll**: Maren's left arm goes dead from the fingertips to the elbow, cold and grey; she can't feel the oar Jory hands her; she rows one-armed back. It doesn't come back by morning. She doesn't say. Orrun knows.
 - **The contract done**, d.85 dawn: Kit at the stern-cabin table with the salt dish: she touches a grain to her tongue: "Done. The stone's out. That's the second thing." The first was done with the seal; the third is the crossing.
@@ -130,7 +130,7 @@ On the *Kittiwake*, a cable off, the old man was shouting.
 
 She could hear him across the water. Thin. Delighted.
 
-"*Into the light!*" he was shouting. "*Into the light, and nothing!* No number! It's a shore-stone! Somebody carried a shore-stone out to the end of the road and stood it on the last pier! Maren! Maren, they carried it out!"
+"*Into the light!*" he was shouting. "*Into the light, and nothing!* No number! It's a shore-stone! Somebody carried a shore-stone out to the end of the road and stood it on the road's first pier! Maren! Maren, they carried it out!"
 
 She couldn't answer. She was holding it up.
 

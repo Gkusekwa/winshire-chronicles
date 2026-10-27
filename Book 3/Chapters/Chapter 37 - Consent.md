@@ -9,12 +9,12 @@ Beats: **The lion becomes a Titan** *(canon)*. The gift goes through the bond, o
 Echo of another story: Through the ground, three dragons screaming a long way off: the other gift.
 Status: first draft
 Draft notes: Day 146 (145 told back; the echo at dawn 147). Decided here (proposals):
-- **D.145**: Calder and his three go back south-west to the crossroads (the Wayfarer's place) at dawn; he and Maren part at the arch with no words but "Two hands" (his) and "I know" (hers). Idony, Gannet stay at the hall. The Lamp and the Lady leave the hall at dusk 145, east and to the pool's channel, "to take a shape" (ch. 35).
+- **D.145**: Calder and his three go at dawn, north-east first to the lagoon for Jory, then back south-west to the crossroads (the Wayfarer's place); he and Maren part at the arch with no words but "Two hands" (his) and "I know" (hers). Idony, Gannet stay at the hall. The Lamp and the Lady leave the hall at dusk 145, east and to the pool's channel, "to take a shape" (ch. 35).
 - **The asking**, dawn 146, on the ridge outside the hall's eastern columns: the Mother gets up and comes out onto the grass; lies down facing Orrun; her script (grey, slow), for Maren: ***Lion's knight.*** / ***He is yours. You are his. One life.*** / ***What I give him goes through you.*** / ***Will you let it?*** Maren understands: it's the bond; if she says no, it can't go; if yes, she'll be changed too, and him more.
 - **Book 1 ch. 73** in her head: Hollin Knowe, the bond-forcers' binding, and her saying *take me instead*, offering her life into the binding in his place: the lion accepting. A binding takes without asking. This asks.
 - **Her consent**, aloud: "Yes." And to Orrun: *Yes.* He: *Are you afraid?* She: *Yes.* (Truth, this time; ch. 36's echo was the lie.)
 - **The gift**: the Mother lays her great jaw on the ground before Orrun; light goes out of her into the ridge's stone, through it into Orrun, and **through the bond into Maren**: cold: down into her bones, all of them, the right side too; she can feel it in the bones she can't feel. **Stone runs into Orrun**: out of the ridge, out of the paving, out of the hills: grey, flowing up into him like water up a wick; **he grows**: the size of a barn, a house, a hall, a hill; grey as old stone; his mane like the Mother's, dust and mist; **his eyes go pale**, gold to the colour of the morning sky; **no wings** (the Last Titan has stone-and-leather wings; he has none). The far shore's stone moves for him like water: the ridge flows round his paws.
-- **The Mother goes out**: as she gives she thins: grey to pale to light, the mane last, the eyes last of all on Orrun; then a light going out, like a lamp; and **the hall's stone goes quiet**: the hum stops in the columns and the paving; only Orrun hums now.
+- **The Mother goes out**: as she gives she thins: grey to pale to light, the mane last, the eyes last of all on Orrun; then a light going out, like a lamp; **the bereavement** (expansion, 27 Oct 2026): Orrun lays his house-sized head on the flattened grass where she lay and breathes her in (dust, sun-warmed stone, the light's smell of twenty-one days); each breath has less of her; Maren counts them, ten, and on the eleventh there's only grass and he breathes it anyway; through the bond, the place low in him where she lay against him since the hill (the warmth Maren couldn't stand in, ch. 30) is a hollow the shape of a paw; Maren doesn't touch him: nothing of him small enough to put a hand on; and **the hall's stone goes quiet**: the hum stops in the columns and the paving; only Orrun hums now.
 - **Maren's toll**: cold to the bone, from then on, always (she'll never be warm again, she thinks, and isn't); **her left temple's hair goes grey** (the white lock spreading to a band of grey over the left ear and temple).
 - **He's himself**: the fear (ch. 35): she waits for the thing under Greyhold: *Maren,* he says: the same voice, deeper, slower, like stone settling; no rage in it at all; *I'm here. I'm still here.* She weeps (both sides of her face; she can feel neither, now: the cold).
 - **The shadows**: he tries, at noon: one shadow up out of the ridge: as big as he is now; another; another; **each as big and strong as Orrun**; she feels each one through him as if it were him; *They're me,* he says. *All of them. Now.* He lets them go back.
@@ -27,7 +27,7 @@ notes -->
 
 He'd gone at dawn on the hundred-and-forty-fifth.
 
-The farmer. Back to the crossroads, south-west, with his three. She'd stood under the arch with the lock's sentence in light over her head and watched him walk out between the western columns to the red one on the grass.
+The farmer. With his three. To the lagoon first, for the boy, and then back to the crossroads. She'd stood under the arch with the lock's sentence in light over her head and watched him walk out between the western columns to the red one on the grass.
 
 He'd stopped at the columns. Turned.
 
@@ -35,7 +35,7 @@ He'd stopped at the columns. Turned.
 
 "I know," she'd said.
 
-That was all. He'd got up on the red one and they'd gone up off the ridge, three of them, slow, and away over the green country toward where the roads crossed.
+That was all. He'd got up on the red one and they'd gone up off the ridge, three of them, slow, and away north-east over the green country, toward the lagoon.
 
 ---
 
@@ -51,7 +51,7 @@ And Idony. And Gannet, at his columns.
 
 The Mother got up at dawn on the hundred-and-forty-sixth.
 
-Out of the hall. Her head drew back between the columns, slowly, off the floor where it had lain six days, and she stood up on the grass outside, and came round the end of the hall onto the open ridge.
+Out of the hall. Her head drew back between the columns, slowly, off the floor where it had lain eight days, and she stood up on the grass outside, and came round the end of the hall onto the open ridge.
 
 And lay down.
 
@@ -137,7 +137,7 @@ Then, to him. In the place where they talked.
 
 *Are you afraid?* said Orrun.
 
-She'd lied to him last night. Three times. With his head in her arm, by his mother's head, in the low light. *I'm not afraid.* He'd known. She'd known he'd known.
+She'd lied to him last night. Three times. With her arm round his head, by his mother's head, in the low light. *I'm not afraid.* He'd known. She'd known he'd known.
 
 *Yes,* she said.
 
@@ -171,7 +171,7 @@ And through him, into her.
 
 Cold.
 
-That was what came into her. Not warmth. Cold. Down. Into her bones. All of them. The right side, that she could feel, and the left, that she couldn't; she felt it in the bones of her left arm that she hadn't felt in sixty days, and the bones of her neck, and her jaw, and her ribs. A cold like deep stone. Like the stone under the Ruin. Like the stone a long way down where nothing had ever been warm.
+That was what came into her. Cold. Down. Into her bones. All of them. The right side, that she could feel, and the left, that she couldn't; she felt it in the bones of her left arm that she hadn't felt in sixty days, and the bones of her neck, and her jaw, and her ribs. A cold like deep stone. Like the stone under the Ruin. Like the stone a long way down where nothing had ever been warm.
 
 It went into her bones and stayed.
 
@@ -243,6 +243,28 @@ Like a lamp.
 
 That was all. A light going out. The great shape on the grass was light, and then it was less, and then it wasn't, and there was grass where she'd lain, flattened in the shape of her, and nothing on it.
 
+---
+
+Orrun put his head down.
+
+All the way. Out of the sky, past Maren, to the grass where his mother had been. A head the size of a house, laid on a flattened place the size of a field. He breathed in. She felt it go into him through the bond, long and slow: dust, and stone that has had the sun on it all day, and the light's warm smell that had been on everything for twenty-one days.
+
+He breathed in again. There was less of it.
+
+She counted his breaths. It was something to do with them. Nine. Ten. On the eleventh there was nothing on the grass for him but grass, and he breathed it in anyway, with his pale eyes shut.
+
+---
+
+Through the bond she felt the place in him.
+
+Low down, under everything. Where something as warm as he was had lain against him since the hill. She'd stood in it once and had to walk to the edge of the hill-top with her back to it.
+
+It was a hollow now. The shape of a paw.
+
+She stood between his paws and didn't touch him. There was nothing of him small enough to put a hand on.
+
+---
+
 And the hall went quiet.
 
 ---
@@ -271,7 +293,7 @@ He looked down at her.
 
 The same voice.
 
-Deeper. Slower. Like stone settling, a long way down, at the bottom of a well. But his. The same. The voice that had said *you're walking strangely* on the eastern march and *I like it dark* in the inlet and *it's like standing on a coin in a river* on the ballast.
+Deeper. Slower. Like stone settling, a long way down, at the bottom of a well. But his. The same. The voice that had said *you're walking strangely* on the long walk west with the clans and *I like it dark* in the inlet and *it's like standing on a coin in a river* on the ballast.
 
 No rage in it. None. Not anywhere.
 
@@ -317,9 +339,9 @@ She felt each one. Through him. Not as a shadow. Not as a thing he was making an
 
 ---
 
-She didn't count them.
+She watched them.
 
-She'd counted everything her whole life. She didn't count them.
+She'd counted everything her whole life. Here was a number standing on the ridge in the sun, and she let it stand.
 
 He let them go. Back into the ridge. The stone closed over them as water closes over something dropped into it. Gone.
 

@@ -15,7 +15,7 @@ Draft notes: Day 316 (night). Decided here (proposals):
 - **Where the dragons fly**: over the river and the gap between the banks; Kharrak against the Horned Sun if it comes up the south-west; Lisska over the people; Aurveth high, seeing.
 - **Where the people go if it fails**: north. The Drover's Way. Tam's wagons. Kit's barges up the river as far as they'll go. Over the Scarfell's lip. To Coldtarn. The hall. Five hundred. "And the rest?" "The caves. The hold. The ledges. Anywhere with a roof." Neither says how many that is.
 - **Their talk**: short. Her letter ("You came when I wasn't there." "Yes." "Lisska said you'd be cross." "I was." "She said you'd be glad too." "I was that too."); her hands (he sees the bandage); his voice; Wren ("She asked about you." "What?" "Whether you'd say it twice." Maren: "Say what?" "Anything").
-- **The five links**: the first chain, from the ruts at Upper Rush, ring of six on every link and two crossed hammers inside; he sent them to her by Lisska wrapped in a strip of shirt with TWO burned on it; **she left them on Liss's table at the ferry house at the end of the second spring when the six went up (Book 2 ch. 86–88); he picked them up and has carried them since**; he gives them back now, in the same strip of shirt, TWO faded; she takes them in her bandaged hand and can't feel them and looks at them.
+- **The five links**: the first chain, from the ruts at Upper Rush, ring of six on every link and two crossed hammers inside; he sent them to her by Lisska wrapped in a strip of shirt with TWO burned on it; **he'd emptied them onto Liss's table at the old ferry house (Book 2 ch. 2) and she took them up and carried them a year; she left them on that table the last night before he flew up to the caves (Book 2 day 359); he went back in for his coat, found them, and has carried them since**; he gives them back now, in the same strip of shirt, TWO faded; she takes them in her bandaged hand and can't feel them and looks at them.
 - **"It won't come to that," she says. "Say it twice," he says.** She looks at him. She doesn't. (Wren's rule.) He nods.
 - **Echo**: from the ferry, the ferry-house window lit; through it Idony at his shelf in his blanket, Davin beside him, **the eight tide-glasses all climbing at once, five of them highest**; the old man's shadow on the wall leaning close; five breaths converging on the eddy.
 Magic touches: the Lady on the water; the Bridle banked and green-lit; the glasses climbing.
@@ -91,8 +91,6 @@ The knight came down the bank at the second hour.
 
 From the ferry house. She'd been in the kitchen with Liss. She came down the steps to the landing slowly, as she did everything now, in a blue coat too big for her, a Warden's. Her right hand bandaged. Her left in her coat.
 
-She didn't say anything.
-
 She got onto the ferry. He got on after her. Liss got on last, and went to the windlass, and put her back to them, and hauled.
 
 ---
@@ -155,9 +153,7 @@ The bandage. Round the palm, round and round. A smith's bandage, neat, tied off 
 
 ---
 
-He didn't say anything to that.
-
-He couldn't think of anything. She didn't seem to want anything.
+He couldn't think of anything to say to that. She didn't seem to want anything.
 
 "Your voice," she said, after a while.
 
@@ -211,7 +207,7 @@ Neither of them said it for a while. The ferry turned slowly on its rope. The La
 
 "North."
 
-"The Drover's Way. Tam's wagons. Kit's barges up the river as far as they'll go, then off and walk. Over the Scarfell's lip at Harrow's End. To Coldtarn." He breathed. "The hall."
+"The Drover's Way. Tam's wagons. Kit's barges up the river as far as they'll go, then off and walk. Through Harrow's End and up past the Fellwood. Over the Scarfell's lip. To Coldtarn." He breathed. "The hall."
 
 "Five hundred," said the knight.
 
@@ -253,7 +249,7 @@ The knight looked at him.
 
 He put his hand in his coat.
 
-He'd been carrying them since the spring. Since the night the six went up and everyone left Liss's table and he'd gone back in for his coat and found them there. On the table, among the cups. Where she'd put them down and not picked them up again.
+He'd been carrying them since the spring. Since the last night before he flew up to the caves, when everyone left Liss's table and he'd gone back in for his coat and found them there. On the table, among the cups. Where she'd put them down and not picked them up again.
 
 He took them out.
 
@@ -261,7 +257,7 @@ He took them out.
 
 The five links.
 
-The first chain. From the ruts at Upper Rush, the morning after the raid, in the autumn of the first year. A length of it as long as his forearm, the last link cut clean through, dark iron, heavier than it should have been. And on every link the ring of six, small, stamped. And inside each ring two little crossed hammers.
+The first chain. From the ruts at Upper Rush, the night of the raid, in the autumn of the first year. A length of it as long as his forearm, the last link cut clean through, dark iron, heavier than it should have been. And on every link the ring of six, small, stamped. And inside each ring two little crossed hammers.
 
 Wrapped in the strip of his shirt. The same strip. Torn from the hem, the night before the island. With TWO burned on it with a charred stick from his own field.
 
@@ -272,6 +268,8 @@ The black had faded. Two years in a coat. He could still read it. It was one of 
 He held it out.
 
 She looked at it. She didn't take it for a moment.
+
+He'd emptied them out of his own coat onto that same table, the spring before, and she'd picked them up and carried them a year. Then she'd put them down again.
 
 "You left them on Liss's table," he said. "At the end."
 

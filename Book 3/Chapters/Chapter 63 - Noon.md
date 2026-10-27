@@ -14,7 +14,7 @@ Draft notes: Day 317. Decided here (proposals):
   - **Two, the north**: the Pale Coil down the Wend; the river above Eskby going black; it stops under the ice a league above the line's northern edge.
   - **Three, the south**: the Bell up the Wend's mouth: the river below the Staithe going white; its bell-note; it stops two leagues below the line.
   - **Four, the north-west**: the Furnace, not seen: **the ground**: a long low swelling ridge moving under the downs toward the Hearthmere bank's western end, smoke coming up through cracks, the frost melting in a line; it stops.
-  - **Five, the south-west**: the Horned Sun over the Saltreach-bank hills from the Sun Road country (it has come round), half a league of day; it stops on the hills a league south of the Saltreach wall's east end.
+  - **Five, the south-east**: the Horned Sun over the Saltreach-bank hills from the Sun Road country (it has come round), half a league of day; it stops on the hills a league south of the Saltreach wall's east end.
   - "Five," she says aloud. Orrun: *Five.* They stop. They wait. Aurveth (through Lisska through Orrun): *They're waiting for something.* Maren: *Tomorrow.*
 - **Morning 317**: the line takes its places: every sector, every kingdom's beasts (brief roll: the greyharts and hounds at the Hearthmere bend; the olifants standing as walls, the unchosen on white steeds behind them; the batteries round the hub and the Bridle banked; the stonehorns and Rhun's bears and wolves at the Wyldmarch's river end; the Wardens with lynx and the twelve sabrecats; Rennick's sellswords and the grounded wyverns at the scrub end; the Clan on the ridge; the rocs on the eastern downs; the stormkites up already). **Orrun goes down off the wall to the eddy's lower lip** and raises the bed and stands on it; she on his head. **The three shadows go out at the fourth hour** to the three sectors and lie down there; the camp sees four lions; "the lion counts as four".
 - **The Lamp** walks down from the eastern meadow at the fifth hour onto the river and stands on the light on the water at the eddy's head; **the Lady** lies in the eddy.
@@ -128,7 +128,7 @@ Five.
 
 ---
 
-South-west. Over the hills on the Saltreach side.
+South-east. Over the hills on the Saltreach side.
 
 Day.
 
@@ -150,7 +150,7 @@ Aloud. To nobody.
 
 They lay where they'd stopped.
 
-All five. On five horizons. West, north, south, north-west, south-west. Round the Vale like the points of a star round its middle.
+All five. On five horizons. West, north, south, north-west, south-east. Round the Vale like the points of a star round its middle.
 
 And didn't come on.
 
@@ -160,7 +160,7 @@ And didn't come on.
 
 *Tomorrow*, said Maren.
 
-She didn't know how she knew. She knew.
+Orrun knew. She knew it from him.
 
 ---
 
@@ -246,13 +246,13 @@ She was in all four.
 
 She could feel each one. Four weights. Four sets of eyes. The knights at the bend, looking up at a hill with a mane. The stonehorns lifting their plated heads. Rennick's sellswords at the scrub end, backing off a pace. And her own eyes, in her own head, between his ears, in the river.
 
-She didn't count them. She didn't need to.
+One lion. Four places. She let the number go.
 
 ---
 
 The Lamp came down at the fifth hour.
 
-From the eastern meadow, where it had stood since the muster in its ring of unicorns and wolves. Walking. Too bright to look at. Down the bank. Onto the river. On the light on the water. And along the river on the light to the eddy's head, above the ferry rope, and stood there.
+From the eastern meadow, where it had stood since the camp came up to the eddy, in its ring of unicorns and wolves. Walking. Too bright to look at. Down the bank. Onto the river. On the light on the water. And along the river on the light to the eddy's head, above the ferry rope, and stood there.
 
 On the water. Not in it.
 

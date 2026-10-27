@@ -11,11 +11,11 @@ Status: first draft
 Draft notes: Days 181–185. Decided here (proposals):
 - **D.181 ashore**: off the Drowned Bell's reef at low tide, across the shallows to the coast below Gullhaven's empty hill (the fisherman, **Saul Trent** (new), rows ahead of them the whole way, looking back); Orrun walks out of the sea onto the Coast Road; she rides **on his head** now, between his ears, in the mist of his mane: the only place she can see from.
 - **The villages run**: a handful of fisher-folk have come back to the Saltings' edge since the coast was emptied (there's fish and nothing in the camp); **Redshank** (new: a fishing village of a dozen huts on stilts at the Saltings' western edge): they see a hill walk out of the sea and run, inland, across the salt-flats, leaving their pots on the fires.
-- **D.182 the Clan**: two pairs on coast-patrol out of the Accord camp see her: **Brede** (old man of the ledges, on his blue; ch. 22's leader of the forty pairs) and a young red-thread rider; they come down on the Coast Road a quarter-league off and won't come closer until Brede sees the woman on the lion's head and knows the iron-grey temple and the coat; "Knight." **News from Brede**: the camp behind the Wend, ninety thousand; Rowan Marshal; **Ulric's dead** (on the Tidehall's steps at Corsa on the 88th); Corsa fell; the Council's fleet went out and nobody's come back; the farmer came home three days back on dragons the size of hills; Gunna and the Clan at the camp; **Lisska's crying** from the cliff: Maren understands it now.
+- **D.182 the Clan**: two pairs on coast-patrol out of the Accord camp see her: **Brede** (old man of the ledges, on his blue; ch. 22's leader of the forty pairs) and a young red-thread rider; they come down on the Coast Road a quarter-league off and won't come closer until Brede sees the woman on the lion's head and knows the iron-grey temple and the coat; "Knight." **News from Brede**: the camp behind the Wend, ninety thousand; Rowan Marshal; **Ulric's dead** (on the Tidehall's steps at Corsa on the 88th); Corsa fell; the Council's fleet went out and nobody's come back; the farmer came home a month back on dragons the size of hills; Gunna and the Clan at the camp; **Lisska's crying** from the cliff: Maren understands it now.
 - **The wall**, d.183 at Redshank (the villagers come back, slowly, once Brede has told them): an old woman's sea-wall below her hut knocked down by the Bell's surf (the 145th); Maren puts her hand on it to raise the stones back: the stones come up; **so does the whole cliff behind the village, a creak through the rock, a crack opening in the cliff's face**; she stops; the stones fall back; the crack stays. She can't do small things now. **She could drop a cliff.** She doesn't touch the wall again; she and Brede's red-thread girl and the villagers rebuild it by hand, stone by stone; it takes the day. **Restraint as discipline**: she decides, aloud, to Orrun: nothing small with the gift; only by hand.
-- **Counting again**, d.184–185: walking north up the Coast Road toward the Wend's mouth and the camp: she counts aloud: steps, the stilt-huts, the boats drawn up, the days: "The hundred-and-eighty-fourth"; Orrun counts with her; she's not sure of her numbers; she counts anyway.
+- **Counting again**, d.184–185: walking west along the Coast Road toward the Wend's mouth and the camp: she counts aloud: steps, the stilt-huts, the boats drawn up, the days: "The hundred-and-eighty-fourth"; Orrun counts with her; she's not sure of her numbers; she counts anyway.
 - **The far stone**: Orrun feels all of Saltreach's stone now as he felt the far shore's; the coast's cliffs, the Ashlings' rock, the Wend's bed; it hums for him, faintly, dead ground or not.
-- **Echo**, dusk 185 from the Coast Road above the Saltings: Orrun lifts his head and turns it north-west, toward Hearthmere, the Mere, where his kin lies: *There.* He feels it through all the stone between, a hundred leagues: lying in the water; awake; burning in its back. He doesn't go. He puts his head down and walks on north.
+- **Echo**, dusk 185 from the Coast Road above the Saltings: Orrun lifts his head and turns it north-west, toward Hearthmere, the Mere, where his kin lies: *There.* He feels it through all the stone between, a hundred leagues: lying in the water; awake; burning in its back. He doesn't go. He puts his head down and walks on west.
 Magic touches: Orrun Titan-born (all Saltreach's stone hums for him); Maren's strength too big for small things; restraint.
 notes -->
 
@@ -59,7 +59,7 @@ The village ran.
 
 Redshank. A dozen huts on stilts at the western edge of the Saltings, where the salt-marsh began. She saw it from his head: smoke, boats drawn up on the shingle, nets on poles. People.
 
-They'd come back. The coast had been emptied fifty days ago, Saul Trent said; the Clan had come with baskets and flown everyone inland. But there were fish here and nothing at the camp, and some had walked back.
+They'd come back. The coast had been emptied a month ago, Saul Trent said; the Clan had come with baskets and flown everyone inland. But there were fish here and nothing at the camp, and some had walked back.
 
 They saw a hill walk out of the sea.
 
@@ -71,7 +71,7 @@ The dog stayed.
 
 The Clan came on the hundred-and-eighty-second.
 
-Two pairs. Out of the north-east, low over the Saltings, on coast-patrol from the Accord's camp. She saw them coming from a long way off. A blue dragon and a red.
+Two pairs. Out of the north-west, low over the Saltings, on coast-patrol from the Accord's camp. She saw them coming from a long way off. A blue dragon and a red.
 
 They saw Orrun.
 
@@ -141,7 +141,7 @@ It had been for him. For Ulric. Lisska had flown all the way to Blackwater to te
 
 She looked up.
 
-"Home," said Brede. "Three days back. Over the Marches at dusk. The whole camp saw." He looked at Orrun, lying along the Coast Road like a hill that had been there forever. "On dragons the size of hills. Like that." He nodded at the lion. "The red one. The green one. The old one with both wings straight."
+"Home," said Brede. "A month back. Over the Marches at dusk. The whole camp saw." He looked at Orrun, lying along the Coast Road like a hill that had been there forever. "On dragons the size of hills. Like that." He nodded at the lion. "The red one. The green one. The old one with both wings straight."
 
 He looked back at the fire.
 
@@ -301,7 +301,7 @@ She felt him think. Slowly. Stone settling at the bottom of a well.
 
 She counted again on the hundred-and-eighty-fourth.
 
-Walking north. On his head, between his ears, up the Coast Road, along the Saltings' edge, toward the Wend's mouth and the river, and up the river to the camp. Brede's two pairs over them in the air.
+Walking west. On his head, between his ears, along the Coast Road, along the Saltings' edge, toward the Wend's mouth and the river, and up the river to the camp. Brede's two pairs over them in the air.
 
 She counted out loud.
 
@@ -355,7 +355,7 @@ He lifted his head.
 
 She felt it before she knew what it was.
 
-Through him. Through the stone. Not the coast's stone. Further. Through the coast and the Ashlings and the Marches and the downs beyond, the whole long dead grey body of Winshire's stone, a hundred leagues and more, north-west, toward the middle of everything.
+Through him. Through the stone. Not the coast's stone. Further. Through the coast and the Ashlings and the Marches and the downs beyond, the whole long dead grey body of Winshire's stone, a hundred leagues and more, north-west, into Hearthmere.
 
 To the Mere.
 
@@ -393,7 +393,7 @@ She didn't say anything. She put her hand on his head, between his ears, in the 
 
 He didn't go.
 
-He put his head down. Slowly. Turned it back from the north-west, to the north, to the road. To the Wend's mouth a day ahead, and the river, and the camp.
+He put his head down. Slowly. Turned it back from the north-west, to the west, to the road. To the Wend's mouth a day ahead, and the river, and the camp.
 
 And walked on.
 

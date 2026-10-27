@@ -14,11 +14,11 @@ Draft notes: Night 322 to before dawn 323. Decided here (proposals):
 - **The verse** in her head: *the last great one lay down to sleep below the stone, / and its own kin kept the door.* Greyhold's arch; the first book; the cavern (the second book) where the door was not kept.
 - **Kin, last time**: Orrun to it: *Brother.* It doesn't answer. It looks past him at the door. **It wants the hall**: what's in it: the last breathing things; everything down.
 - **One**: Maren: *Make them. Three. Hold it.* Orrun: *No. No more of me out there. All of me here. One.* **He unmakes every shadow**: draws back into himself the share he'd always kept for making them (the six roads spent most of it; the rest now); he becomes wholly one: a hill, standing at the foot of a mountain.
-- **Their last words** (on the step and the slope; she on the step with her hand on the jamb, he below with his head up to her): *Maren.* *Yes.* *Let me go.* She's held him two years: the binding in the first book, the gift on the far shore, the slack rope on the eddy. *I have to keep the door. I can't keep it if you're holding me.* *I know.* *You kept the watch*, she says. *Keep the door.* *I kept it before. Under the hill. For three hundred years. I was small.* *You're not small.* *No*, says Orrun. *Not now.* And: *Count them for me.* *I have. Five hundred and thirty-three. And twenty dragons. And a hound and a wolf and two greys and a calf and a lynx.* *That's a lot.* *Yes.* *Good.* **She lets go**: of the bond she's been holding taut since the eddy; not the bond itself; her hold on him; she takes her hand off the jamb.
+- **Their last words** (on the step and the slope; she on the step with her hand on the jamb, he below with his head up to her): *Maren.* *Yes.* *Let me go.* She's held him two years: the binding in the first book, the gift on the far shore, the slack rope on the eddy. *I have to keep the door. I can't keep it if you're holding me.* *I know.* *You kept the watch*, she says. *Keep the door.* *I kept it before. Under the hill. For three hundred years. I was small.* *You're not small.* *No*, says Orrun. *Not now.* And: *Count them for me.* *I have. Five hundred and fifty-three. And twenty dragons. And a hound and a wolf and two greys and a calf and a lynx.* *That's a lot.* *Yes.* *Good.* **She lets go**: of the bond she's been holding taut since the eddy; not the bond itself; her hold on him; she takes her hand off the jamb.
 - **The mountain**: the crag over the door and the Scarfell's shoulder above Coldtarn's western side, live ground with the Deep under it; **Orrun puts his forefeet on the slope and his head against the crag's foot beside the door and asks the stone**: not a question; an order: *Come down*; the Last Titan comes at him up the slope; they meet on the slope; **the mountain comes down** on both: the crag, the shoulder above it, a hillside of stone, over the slope and the beck's mouth and Aurveth's body and the two lions; *the last great one lay down below the stone*.
 - **The door**: Calder beside her on the step (he came up with the last climbers, 81, and stayed); as the stone comes down they **step back into the doorway**; they watch from inside as the falling stone fills the door's frame from the bottom up, grey, the storm's light going, until the doorway is stone; **the door is kept**; dust; Liss's lamp; the rune in the roof white and holding; the *hold* in the stone.
 - **His death into her**: through the bond as the stone closes over him: a weight coming in, all of him, stone, patience, the earth; **and his power with it**: she feels the stone of the whole mountain over the door in her, alive, many-shaped, moving, hers; **the cold goes out of her**: not warmth; she simply isn't cold any more; she lives.
-- **Idony's last glass**: the south glass's quicksilver pressing toward the door; then **one long fall**: under the stone: the Last Titan's breath going out, the last; all three glasses fall to the bottom and stay; *flat*; "Nothing," says Idony. "Nothing anywhere is breathing." (Except them; he means the Titans; he looks round at five hundred people breathing and corrects nothing.)
+- **Idony's last glass**: all three glasses' quicksilver pressing toward the door, where it now is; then **one long fall**: under the stone: the Last Titan's breath going out, the last; all three glasses fall to the bottom and stay; *flat*; "Nothing," says Idony. "Nothing anywhere is breathing." (Except them; he means the Titans; he looks round at five hundred people breathing and corrects nothing.)
 - **Echo**: in the hall's back, **every dragon goes silent at once**: Ildra and the twenty, who'd been making a low sound since the lion stood up; they stop; the silence.
 Magic touches: Orrun's last order to the stone; the power flowing back; the door kept; the last breath going out on the glass.
 notes -->
@@ -153,11 +153,11 @@ She felt him do it.
 
 ---
 
-All of it. The part of him he'd always kept for making them. That had made two on the Greyhold hill, and three at the fords, and six on the drowned road. Three on the line. Four on the Antlered's crown. Six on six roads, that had cost most of him. What was left of it. The share.
+All of it. The part of him he'd always kept for making them. That had made two on the Greyhold hill, and one at a time at the fords, and two on the drowned road. Three on the line. Three on the Antlered's crown. Six on six roads, that had cost most of him. What was left of it. The share.
 
 He drew it in.
 
-Into himself. All of it. Not to make anything. To be.
+Into himself. All of it. To be one thing.
 
 ---
 
@@ -241,7 +241,7 @@ She watched it come off. She couldn't feel it come off. She watched her bandaged
 
 And she felt him go free.
 
-Not loose. Not drifting. Free. As a man walks out of a door into the morning.
+Free. As a man walks out of a door into the morning.
 
 He was still there. All of him. In the bond. Where he'd always been.
 
@@ -251,7 +251,7 @@ She wasn't holding him.
 
 The farmer was beside her.
 
-On the step. In the doorway. She didn't know when he'd come. He'd been there since he brought the last of the sixty up; he'd stayed. He stood beside her with his scarred hands at his sides and his strange eyes, that saw too far, looking down at the two hills on the shore.
+On the step. In the doorway. She didn't know when he'd come. He'd been there since he brought the last of the sixty up; he'd stayed. He stood beside her with his scarred hands at his sides, looking down at the two hills on the shore.
 
 He didn't say anything.
 
@@ -333,7 +333,7 @@ Coming down.
 
 ---
 
-Not falling. Coming down. As he'd asked. As the scree had moved for him, once, like water. The whole crag over the door bowing. Leaning out. Over the slope. Over the two hills on it. Over the beck's mouth and the white shape lying across it.
+Coming down. As he'd asked. As the scree had moved for him, once, like water. The whole crag over the door bowing. Leaning out. Over the slope. Over the two hills on it. Over the beck's mouth and the white shape lying across it.
 
 Slowly.
 
@@ -439,7 +439,7 @@ And the cold went out of her.
 
 ---
 
-Not warmth. She didn't feel warm. She didn't feel her hands. She didn't feel her face.
+She didn't feel warm. She didn't feel her hands. She didn't feel her face.
 
 She simply wasn't cold.
 

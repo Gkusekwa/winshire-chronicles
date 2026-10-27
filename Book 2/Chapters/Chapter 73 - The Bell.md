@@ -13,7 +13,7 @@ Draft notes: Day 348, dawn to dusk. Decided here (proposals):
 - Mid-morning to noon: the tide going out; the Titan in the deep water beyond the breakers doesn't move; the fleet's lines; Vey's black ship with Sable and Hask unhooded on its deck.
 - A little before noon the reef comes up; the bell: the long low note through the rock and the water and Kharrak's body and his own; Lisska under him in the air shudders.
 - The Titan stands up out of the sea: water pouring off the plates; the chain-ends; four grown-over places in its back. It walks onto the reef; the reef's rock cracks under it; it puts its head down into the reef as it did at the Scald into the glass.
-- **Vey's attack**: horns; the harpoon-ships' bolt-throwers loose: harpoons the length of a mast, rune-cut point to barb, with chain behind them to the engine-barges; three go in under the plates of its flank and hold (imbued: they bite where nothing else would); the Kessmoor engines on the barges roar and haul; the chain comes taut; the Titan's head comes up out of the reef. For a moment it's held. **Sable and Hask** go in low over the reef, Vey's riders on them, carrying the house drawers onto the reef: the Strand house's drawers (eight, in green) can't draw on a deck (a drawer draws on the ground under him: a ship's deck over the sea is nothing), so the wyverns set them down on the bare reef in pairs, and Vey's own boat lands him there with them. The drawers kneel on the wet rock and draw on the reef's stone, which is full (the cup's full under it) and pour into the harpoon-chains: the runes on the chains light white; the chains shorten; the Titan is pulled down onto one knee on the reef.
+- **Vey's attack**: horns; the harpoon-ships' bolt-throwers loose: harpoons the length of a mast, rune-cut point to barb, with chain behind them to the engine-barges; three go in under the plates of its flank and hold (imbued: they bite where nothing else would); the Kessmoor engines on the barges roar and haul; the chain comes taut; the Titan's head comes up out of the reef. For a moment it's held. **Sable and Hask** go in low over the reef, Vey's riders on them, carrying the house drawers onto the reef: the Strand house's drawers (eight, in green) can't draw on a deck (a drawer draws on the ground under him: a ship's deck over the sea is nothing), so the wyverns set them down on the bare reef in pairs, and Vey's own boat lands him there with them. The drawers kneel on the wet rock where the chains come in over the reef's edge, one hand on the stone and one on the chain, and draw on the reef's stone, which is full (the cup's full under it) and pour into the harpoon-chains: the runes on the chains light white; the chains shorten; the Titan is pulled down onto one knee on the reef.
 - The Titan turns its head and looks at the barges. Then it pulls. One barge goes over, engine and all, into the sea, steam; the second is dragged across the water onto the reef's edge and breaks. The harpoon-ships' bolt-throwers loose again; two more harpoons in.
 - **Calder's fire-word**: the Titan's head comes round toward the drawers on the reef; Calder, low over the water on Kharrak, puts his hand flat on Kharrak's neck where the heat is and says Ada's hearth-word, the lighting word, meaning to put a wall of fire on the water between the head and the drawers: nothing. Not even smoke. Running water: the sea under him. *That's a kettle word,* says Kharrak. *I'll do it.* Kharrak's own fire, a long gout down across the reef's edge in front of the head, steam off the pools; it works: the head pulls back from the fire for a moment; enough for two of the drawers to run for Vey's boat. Only the dragons' own fire works at sea.
 - **The relic within the hour**: the Titan, held by five harpoons and the drawers' pour, puts its head down into the reef anyway: the reef breaks open; the drowned temple's hall underneath, columns, a dome broken in, the sea pouring in; the bell (it is a bell: old-realm bronze the size of a house, green, hung in the dome, ringing as the water pours past it); it comes up with the egg: warm stone, the size of a cart-wheel's hub, glowing through the water; within the hour of the reef coming up. It lifts it and lays it into the plates of its back, and the plates close over it: five.
@@ -137,9 +137,9 @@ Off Vey's black ship. Low over the water. Two wyverns, black-green, fast, their 
 
 People. The Strand house's drawers. In green. One in each claw.
 
-They couldn't draw on a deck. He'd heard Vey say it to Arn, at the sheds. A drawer drew on the ground under him. A ship's deck over the sea was nothing to draw on. So the wyverns carried them out, two at a time, and set them down on the bare reef, on the wet black rock, a long stone's throw from the Titan's feet, and went back for more.
+They couldn't draw on a deck. He'd heard Vey say it to Arn, at the sheds. A drawer drew on the ground under him. A ship's deck over the sea was nothing to draw on. So the wyverns carried them out, two at a time, and set them down on the bare reef, on the wet black rock, where the chains came in over the reef's edge, and went back for more.
 
-Eight drawers. On the reef. On their knees on the rock with their hands flat on it.
+Eight drawers. On the reef. On their knees on the rock, one hand flat on it and the other on a harpoon-chain.
 
 And Vey's own boat, rowed in through the breakers, and Vey stepping out of it onto the reef in his grey gloves.
 
@@ -147,7 +147,7 @@ And Vey's own boat, rowed in through the breakers, and Vey stepping out of it on
 
 They drew.
 
-He felt it from the air. The reef was full. The cup was full under it. The drawers knelt on it with their palms on the stone and drew, and poured what they drew into the harpoon-chains, and the runes on the chains lit white from end to end.
+He felt it from the air. The reef was full. The cup was full under it. The drawers knelt on it with a palm on the stone and a palm on the iron and drew, and poured what they drew into the harpoon-chains, and the runes on the chains lit white from end to end.
 
 The chains shortened.
 
@@ -189,7 +189,7 @@ He said it.
 
 Nothing.
 
-Not a flame. Not a spark. Not a breath of smoke. The word went out of him into Kharrak's heat and out of Kharrak into the air over the sea, and the sea took it, and it was gone.
+Not a spark. Not a breath of smoke. The word went out of him into Kharrak's heat and out of Kharrak into the air over the sea, and the sea took it, and it was gone.
 
 Running water. Under him. The biggest running water there was.
 
@@ -203,7 +203,7 @@ He banked. Hard. Down over the reef's edge. In front of the head.
 
 Kharrak's own fire.
 
-Not a word. Not a charm. What dragons had had before there were words. It came out of him in a long gout, gold, down across the reef's edge between the Titan's head and the drawers, and the pools on the rock boiled, and steam went up white in a wall.
+Not a word. What dragons had had before there were words. It came out of him in a long gout, gold, down across the reef's edge between the Titan's head and the drawers, and the pools on the rock boiled, and steam went up white in a wall.
 
 The head pulled back.
 

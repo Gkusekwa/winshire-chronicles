@@ -9,7 +9,7 @@ Beats: **The third waking** *(canon)*: the Scald sleeper comes up molten and pla
 Echo of the other's story: Lisska overhead for an hour, then gone south with Maren's letter.
 Status: first draft
 Draft notes: Day 238, before dawn to afternoon. Decided here (proposals):
-- Before dawn: the whole cordon on its stations. Pike in the north-quarter engine-house at the core's lever; Moss on the north tower with a gauge; Idony beside him with the four glasses; Maren, Tobin and Orrun on the earth bank at the north quarter, where the Iron Road's carts come in. The last cart of ironback plate is still at the north-quarter crane, men swinging plates off it onto the bank above the first canal (the store-room was emptied into the hoppers overnight and Pike wanted every plate she could get).
+- Before dawn: the whole cordon on its stations. Pike in the north-quarter engine-house at the core's lever; Moss on the north tower with a gauge; Idony beside him with the four glasses; Maren, Tobin and Orrun on the earth bank at the north quarter, by the crane. The last cart of ironback plate is still at the north-quarter crane, men swinging plates off it onto the bank above the first canal (the store-room was emptied into the hoppers overnight and Pike wanted every plate she could get).
 - Why "the Furnace": the Orrin survivors' word, from the night forty years ago: what came up the shafts was hot and moved; the engineers have called the thing under the Scald the Furnace in their reports ever since, half a joke. Moss tells Maren that before dawn.
 - Dawn: the hole stops breathing. Then the basin heaves. The glass round the hole goes red, then orange, then runs. Out of it comes a snout: plated, grey-black plates edged in red where the joints are, like an ironback's but each plate the size of a house, a snout like a boar's but blunt and shovel-wide; it doesn't climb out, it pushes, and the ground in front of it melts and sets behind it into glass. Molten at the joints, the heat off it making the air shake. Fire-proof: the glass runs off its plates like water off oil. It comes up out of the basin floor to its shoulders and goes forward along the surface, burrowing in it like a mole under a lawn, the glass bulging up over its back and cracking and setting again behind.
 - Pike closes the cage: a lever in the north engine-house; the four cores at once; the marks on every pylon light, a dull red, not white (heartstones, not the Deep); the cables between the pylons go taut with a crack that runs all round the cordon; a shimmer goes up between the inner pylons like a wall of heat that bends the light. The field. Turn back. Within.
@@ -103,7 +103,7 @@ The glass ran off its plates where they broke the surface. Bright, molten, runni
 
 *Kin,* said Orrun.
 
-She felt it in him. Not a word. A grief. The same grief she'd felt on the shingle at Vael when he'd listened down, and in the white light in the Library when the bird said his face was on a door. Old. Deep. Kin.
+She felt it in him. A grief. The same grief she'd felt on the shingle at Vael when he'd listened down, and in the white light in the Library when the bird said his face was on a door. Old. Deep. Kin.
 
 *It is the one with its snout in the floor,* he said. *On the wall. It is awake. It is so hot.*
 
@@ -329,11 +329,13 @@ He didn't eat for four days.
 
 The Furnace lay in the middle of the basin by the afternoon.
 
-She saw it through the brass glass from the tower, that afternoon, when she could climb the stairs at all, with Tobin's arm under hers. Lying in the middle of the basin, half sunk in its own glass. Glowing at the joints of its plates, red, dull, like a fire banked for the night. The black glass round it smooth and new where it had melted and set. And round it, a league off on every side, the shimmer of the field going up into the grey sky, and the red marks on the pylons, and the cables taut, and the canals smoking.
+She saw it through the brass glass from the tower, that afternoon, when she could climb the stairs at all, with Tobin's arm under hers. Lying in the middle of the basin, half sunk in its own glass. Glowing at the joints of its plates, red, dull, like a fire banked for the night. The black glass round it smooth and new where it had melted and set. And round it, half a league off on every side, the shimmer of the field going up into the grey sky, and the red marks on the pylons, and the cables taut, and the canals smoking.
 
 Caged.
 
 It held. Pike's cage held. Kessmoor had caught a Titan's kin in a ring of iron and cold water, and it held.
+
+By afternoon Pike had the north bridge swung back across the first canal. The field was the inner ring. The first canal only had to be cold.
 
 She went down to the north-quarter engine-house with Tobin and stood in the door of the store-room and looked at the hoppers. At the heartstones going grey. A man with a long iron rake was raking the ash of them out of the bottom of the core into a barrow. Fine grey ash. Like the ash of a fire. A hundred and fifty a day, Idony had said. Each core.
 
@@ -369,7 +371,7 @@ Then she wrote it again underneath.
 
 Tobin tied it to Lisska's foreleg in a twist of oilcloth with a bit of string from his boots.
 
-On the tower rail, in the grey afternoon. Lisska held still for it and looked at him with her gold eyes and then at Maren.
+On the tower rail, in the grey afternoon. Lisska held still for it and looked at him with her pale green eyes and then at Maren.
 
 Maren couldn't hear her. She never could. But Orrun could, from the bank below, where he lay. And Maren could hear Orrun.
 

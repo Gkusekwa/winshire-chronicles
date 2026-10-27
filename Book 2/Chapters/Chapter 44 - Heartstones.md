@@ -126,7 +126,7 @@ Wooden crates, with straw in them. Stencilled on the sides with the marks of Sal
 
 In the straw, a stone.
 
-Dark red. Almost brown. Glassy. As big as his fist. He bent and looked at it closer, and it was the shape of something. Not round. Lobed. With a stump at the top, cut off clean. The shape of a heart, gone to glass.
+Dark red. Almost brown. Glassy. As big as his fist. He bent and looked at it closer, and it was the shape of something. Lobed. With a stump at the top, cut off clean. The shape of a heart, gone to glass.
 
 The next crate. Bigger ones. Two. As big as his head.
 
@@ -272,7 +272,7 @@ She read the silk. She couldn't read his notation, but she could read a slope. S
 
 "And after?"
 
-"Then the surge. Then the waking." He looked at the basin. "At Vael it was five days between. Here it'll be fewer."
+"Then the surge. Then the waking." He looked at the basin. "At Vael it was five days between. Here it may be fewer."
 
 "Which day? For the waking."
 

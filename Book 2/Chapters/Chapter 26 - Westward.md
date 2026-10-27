@@ -3,14 +3,14 @@
 <!-- notes
 POV: Calder
 Part: Part Two: Midsummer
-Days: 106–114 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
+Days: 105–114 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Harrow's End, the Fenn top field
 Beats: The beast-flood comes over the Scarfell's edge: the Thornwood's beasts have been streaming west since the stir began at the Ring, a few more each week, and the waking at the Moot has turned the stream into a flood. **Calder's first casting** *(canon: limited casting begins in Book 2)*: on the Fenn top field, Saltreach ground and alive, Lisska drives the lead cow of a few hundred elk down to him; he gets a hand on her horn as she goes by and shouts the Clan herd-charm every Marches boy knows for turning cattle *(Magic §10a)* into her ear, with Lisska's wind going through him into the word. A charm reaches what you can touch (Magic §10 rule 4): it lands on one cow, and the herd follows her off the field like a flock off a dog. Then the words stop working. His nose bleeds for an hour and Lisska can't fly until the next day. A second Titan walks in the Thornwood, and "the knight with the lion was seen in two places at once" at the Moot. Aurveth flies off the Roosts on a crooked wing, and doesn't fall.
 Echo of the other's story: The Moot-legend of the two lions, told in Varrhold's hall like the twins again.
 Status: first draft
-Draft notes: Day 106 to day 114. Decided here (proposals):
+Draft notes: Day 105 to day 114. Decided here (proposals):
 - Days 102–106: since midsummer, deer and boar have been coming over the Scarfell from the east in ones and twos, then tens, as Hesper's Keepers saw them leaving the Thornwood (ch 13, 15). The ledges' riders see them on the moor. Nobody makes anything of it.
-- Day 106: the Roosts' stone, which hummed east after midsummer and faded, hums again, hard, for a morning. Aurveth: *Something has stood up.* (The Antlered, day 105.)
+- Day 105: the Roosts' stone, which hummed east after midsummer and faded, hums again, hard, from mid-morning to noon. Aurveth: *Something has stood up.* (The Antlered, standing that morning.)
 - Day 108: the first of the flood on the moor: a herd of wild stonehorns, sixty, coming over the Scarfell from the east at a run, through Skarrow's valley; they flatten two folds and go on west. Ulric's rider. Then elk, wolves, bears, boar, all going one way, west, toward the Marches and the river, as if the Wend were the edge of something they had to get past.
 - Day 109–110: the news, with the first Wyldmarch people driven ahead of the flood (a family of the horse clans on elk, come over the moor to Skarrow): something has stood up in the Thornwood, a stag with antlers like a forest, the size of a hill, and the forest walked with it; at the Moot the clans held the lanes and a Keeper died; and the lion-woman stood in two lanes at once with two lions. Orm Garrick brings it to Varrhold.
 - Day 110, night, the echo: told in Varrhold's hall at the east fire, by Orm, to a full hall, the Moot-legend: two lions, the knight in two places at once. Somebody laughs: "Like the twins." The hall goes quiet. In the autumn and winter everyone said Vale could be in two places at once and it was two men; now they say it of the lion-woman. Calder says, "It's not two of her. It's two of him." Nobody understands. Ulric, at the east fire for the first time since the pour (red and grey sit at one fire now), says: "Then it's worse."
@@ -40,13 +40,13 @@ Then more. Tens. A herd of red deer, thirty, crossing the Drover's Way above the
 
 ---
 
-On the hundred-and-sixth day the Roosts' stone hummed again.
+On the hundred-and-fifth day the Roosts' stone hummed again.
 
-He was on the setters' ledge at first light with his hand flat on the rock, out of habit. It had hummed east after midsummer, the morning after the smoke, faint and steady. *Something has opened.* Then, over the days, it had faded, until he had to press hard to feel it at all.
+He was on the setters' ledge in the middle of the morning with his hand flat on the rock, out of habit. It had hummed east after midsummer, the morning after the smoke, faint and steady. *Something has opened.* Then, over the days, it had faded, until he had to press hard to feel it at all.
 
 Now it hummed so hard he took his hand away.
 
-He put it back. It was there. Under the pulse, through it. A great deep ringing, coming from the east, through the whole cliff, as if something a long way off had been struck by a hammer as big as a hill. It went on all morning. Then it faded again.
+He put it back. It was there. Under the pulse, through it. A great deep ringing, coming from the east, through the whole cliff, as if something a long way off had been struck by a hammer as big as a hill. It went on till noon. Then it faded again.
 
 The old one had her head up, looking east.
 
@@ -74,7 +74,7 @@ Ulric's rider brought it first. Orm Garrick, on his grey hill-pony, lathered, co
 
 Lisska went up and looked, and came back, and told him.
 
-The moor was moving. That was what she said. From the edge of the fells in the east, across the whole width of the Scarfell, the heather was moving, the way it had moved behind the lion where there was no wind, only now it was beasts. Brown and grey and black. Herds. Packs. Ones and twos and hundreds. All going west, across the moor, toward the edge, toward the Marches.
+The moor was moving. That was what she said. From the edge of the fells in the east, across the whole width of the Scarfell, the heather was moving, as it had moved behind the lion where there was no wind, only now it was beasts. Brown and grey and black. Herds. Packs. Ones and twos and hundreds. All going west, across the moor, toward the edge, toward the Marches.
 
 *Toward the river,* said Lisska. *They're all going toward the river.*
 
@@ -84,13 +84,13 @@ The moor was moving. That was what she said. From the edge of the fells in the e
 
 ---
 
-The first Wyldmarch people came over the moor on the hundred-and-ninth day.
+The first Wyldmarch people came over the moor on the hundred-and-tenth day.
 
 A family of the horse clans. On elk. Three of the great antlered beasts, coming down the Way out of the east toward the hold at dusk, with a man and a woman and four children on them, and their faces painted with the red bars, and everything they owned tied on behind. They'd come over the Plains and the fells ahead of the flood, the man said, through Orm Garrick, who had enough of their tongue. They'd come away from the Moot. From the lake.
 
 The hall was full that night.
 
-The east fire, and the west. Both lit. Red thread and grey at both, since the pour: the war between them was out, and the cold west hearth had been raked and laid and lit, and nobody had said anything about it. Ulric had come over the moor with Orm, behind the flood, with forty men, to see. He sat at the high table on the left of the empty chair under its cloth. Arn on the right. Neither of them looked at the other. Both of them listened.
+The east fire, and the west. Both lit. Red thread and grey at both, since the pour: the war between them was out, and the cold west hearth had been raked and laid and lit, and nobody had said anything about it. Ulric had come over the moor behind Orm, behind the flood, with forty men, to see. He sat at the high table on the left of the empty chair under its cloth. Arn on the right. Neither of them looked at the other. Both of them listened.
 
 The horse-clan man told it, and Orm said it after him.
 
@@ -126,7 +126,7 @@ The hall went quiet.
 
 Somebody at the west fire laughed.
 
-Not unkindly. The way you laugh at a tale that's grown in the telling. A man of Ulric's, grey, with a cup in his hand.
+Not unkindly. As you laugh at a tale that's grown in the telling. A man of Ulric's, grey, with a cup in his hand.
 
 "Two places at once," he said. "Like the twins."
 
@@ -240,7 +240,7 @@ Lisska. Above him, low, over the field, her wings out.
 
 He looked.
 
-At the head of the herd, coming down the slope a length ahead of the rest, a cow. Old. Bigger than the others, grey at the muzzle, with short broad antlers like two spread hands and a white blaze on her face. The others came behind her. Not round her. Behind. Where she went, they went.
+At the head of the herd, coming down the slope a length ahead of the rest, a cow. Old. Bigger than the others, grey at the muzzle, with short broad antlers like two spread hands and a white blaze on her face. The others came behind her. Where she went, they went.
 
 "Bring her to me," he said.
 
@@ -248,7 +248,7 @@ At the head of the herd, coming down the slope a length ahead of the rest, a cow
 
 Lisska went at the old cow like a dog at a ewe.
 
-He'd never seen her do it. He'd never seen any dragon do it. She came down out of the morning over the head of the herd, low, so low her belly brushed the old cow's antlers, and the cow threw her head up and swerved, and Lisska came round and down again on the other side, wings out, crying, and the cow swerved again. Toward him. Lisska herding her. Turning her with her wings and her body and her voice, the way his father's old dog had turned ewes at the Fenn gate, a little this way, a little that, down the slope, toward the man standing in the weeds of the top field.
+He'd never seen her do it. He'd never seen any dragon do it. She came down out of the morning over the head of the herd, low, so low her belly brushed the old cow's antlers, and the cow threw her head up and swerved, and Lisska came round and down again on the other side, wings out, crying, and the cow swerved again. Toward him. Lisska herding her. Turning her with her wings and her body and her voice, as his father's old dog had turned ewes at the Fenn gate, a little this way, a little that, down the slope, toward the man standing in the weeds of the top field.
 
 The herd came behind her. Where she went.
 
@@ -382,7 +382,7 @@ Calder had gone down to the village before he flew back, with Lisska walking slo
 
 Calder sat down at Fisk's table.
 
-There was a board on it, a bit of planking, and a stick from the fire with the end burnt black. He picked up the stick. He didn't know why. He leaned over the board and wrote, slowly, with his tongue between his teeth, like Wren. It took him a long time. He had to stop and think about every letter, and two of them he had to do twice.
+There was a board on it, a bit of planking, and a stick from the fire with the end burnt black. He picked up the stick. He leaned over the board and wrote, slowly, with his tongue between his teeth, like Wren. It took him a long time. He had to stop and think about every letter, and two of them he had to do twice.
 
 CALDER TURNED THE ELK
 
@@ -424,11 +424,11 @@ She dropped.
 
 He saw her drop. Off the end of the ledge, wings out, and down, too fast, much too fast, with the crooked wing not catching, the whole great bronze weight of her falling past the cave mouths toward the yard, and somebody screamed.
 
-He didn't. He couldn't. He felt it through the bond. Not fear. Something else. Something he hadn't felt in her for a hundred and fourteen days, since the night of the locks, since the fort, since the horn. Something that was nearly joy.
+He didn't. He couldn't. He felt it through the bond. Something he hadn't felt in her for a hundred and fourteen days, since the night of the locks, since the fort, since the horn. Something that was nearly joy.
 
 The crooked wing caught.
 
-Not well. Lopsided. He saw it bite the air, and the whole of her tip over toward it, and right herself, and tip again. But it caught. And she was flying. Not falling. Flying. Out from the cliff, over the yard, over the turf wall, over the heads of the people on the wall who ducked, and out across the glen. Low. Slow. Crooked. Her body tipped a little to one side the whole time, the way a cart goes with one wheel smaller than the other.
+Not well. Lopsided. He saw it bite the air, and the whole of her tip over toward it, and right herself, and tip again. But it caught. And she was flying. Not falling. Flying. Out from the cliff, over the yard, over the turf wall, over the heads of the people on the wall who ducked, and out across the glen. Low. Slow. Crooked. Her body tipped a little to one side the whole time, as a cart goes with one wheel smaller than the other.
 
 She went out over the glen in a long slow circle, a quarter-league across, with the evening sun on her. Over the beck. Over the Way. Round.
 

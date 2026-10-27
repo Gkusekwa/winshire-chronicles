@@ -9,13 +9,13 @@ Beats: Maren comes up from the old stair having lost Corvin's party in the dark.
 Echo of the other's story: Dragon-fire over the Scarfell, coming down.
 Status: first draft
 Draft notes: Day 354. Decided here (proposals):
-- Dawn 354: Maren and Orrun come up the old stair (Orrun finds the way back by the stair's worn middle: the old ones' tread); Wynn at the head with Ash and Sorrow, three knights, and Joby Marsh asleep against Garran Vale's stone; nobody else came up. Liss's lamp still burning (she relit it twice more on the way; her hands numb to the wrist).
-- **The cage strung**: in the night of 353–354 Thurl's men and the crown's engines hauled the six chains across the river (on Thurl's hawsers) to the Saltreach anchors; they hang over the river from the iron eyes in the rock below the inner wall in long curves; the heartstone engines (four, Kessmoor, brought up the Wend on barges in the autumn, set in the yard and on the Saltreach bank) idling, steaming; Dane's binders (twelve College binders in blue, Dane's own, the College's chain-craft men) on the inner wall; Rowan in command; the crown's men at the engines.
+- Dawn 354: Maren and Orrun come up the old stair (Orrun finds the way back by the stair's worn middle: the old ones' tread); Wynn at the head with Ash and Sorrow, two knights, and Joby Marsh asleep against Garran Vale's stone; nobody else came up. Liss's lamp still burning (she relit it twice more on the way; her hands numb to the wrist).
+- **The cage strung**: in the night of 353–354 Thurl's men and the crown's engines hauled the six chains across the river (on Thurl's hawsers) to the Saltreach anchors; they hang over the river from the iron eyes in the rock below the inner wall in long curves; the heartstone engines (four, Kessmoor, brought up the Wend on barges in the autumn, set in the yard and on the Saltreach bank) idling, steaming; Dane's binders (twelve College binders in blue, Dane's own, the College's chain-craft men), six at the eyes below the inner wall and six on the Saltreach bank by the anchors; the grey cat gone from the Long Barn, nobody saw it go; Rowan in command; the crown's men at the engines.
 - **The envoys** arrive on the Saltreach bank during the day (ch 80): a camp on the slope above the Staithe: Kessmoor's (Pike's deputy), Isvaren's (a Blue College magister), a Sarovel voice (sent by Tobin): Maren sees the flags across the river; she doesn't go.
 - **The landing**: the last refugees: Millbrook's lower lane, Ferriby's stragglers, the crown company's camp-women, Greyhold's grooms (Joby among them); the ferry and the barge.
 - **The ones who won't cross**: about seventy: the poorest of Millbrook's lower lane and the river-flats, old, who say the river took their fathers and they won't go on it; who've never been over; who trust stone. Rowan lets them into the Greyhold cellars (the long knocked-through vaults under the inner wall where the drills were, the deepest and thickest stone in the Marches). Maren argues: the anchors are in that wall. Thurl: the cellars are the strongest roof on the hill; it's the wall above them that's empty. An old woman (**Mother Ketch**, Millbrook lower lane, eighty) to Maren: "Your mother's river took my man and my two boys. I'll not go on it. I'll go in the stone." Maren can't make them. She tells Joby Marsh to stay with them with a lantern. He does.
 - **Tam's chain**: the last link on the anvil at the north-tower forge, half-struck, orange gone grey; Tam puts his hammer down on it; "It's not going to be wanted." Odo: "It was never going to be enough." Tam carries Odo's chair down the jetty road himself.
-- **Liss's last crossing**, dusk: Liss, Tam, Odo in his chair, the last cart, Joby's grandson; Maren on the jetty; Liss to Maren: "Come over." "No." Liss: "Then come home after." Maren gives her back the lamp ("You said bring it back." "I said it twice."). Liss takes the boat across; on the far side at the Staithe a red dragon lying on the shingle, and an old one, and a man standing by the post; the boat comes to him; Maren watches from the jetty and doesn't cross. Liss doesn't come back. The barge does: last trip: the knights take it back to the Greyhold side for the cage.
+- **Liss's last crossing**, dusk: Liss, Tam, Odo in his chair, the last cart, Joby's grandson; Maren on the jetty; Liss to Maren: "Come over." "No." Liss: "Then come home after." Maren gives her back the lamp ("You said bring it back." "I did."). Liss takes the boat across; on the far side at the Staithe a red dragon lying on the shingle, and an old one, and a man standing by the post; the boat comes to him; Maren watches from the jetty and doesn't cross. Liss doesn't come back. The barge does: last trip: the knights take it back to the Greyhold side for the cage.
 - **Echo**, night: from the jetty, over the Scarfell to the north-east, lines of dragon-fire coming down off the moor in the dark: the rest of the Clan, the ledges, every pair (Arn's promise); Orrun: *They are all coming.* Fires on the hill above Harrow's End. Maren sits on the jetty with the rope humming beside her.
 Magic touches: the old stair's worn tread; Ada's hearth-word again (Maren's hands numb to the wrist); the cage's engines; the cage-chain runes white; the Clan's fire.
 notes -->
@@ -34,7 +34,7 @@ At the top there was grey light.
 
 Wynn was there.
 
-At the stair's head, on the grass of the grooms' burial ground, with his hounds lying either side of him and his sword across his knees. Three knights behind him. Joby Marsh asleep sitting up against Garran Vale's stone with his lantern out in his lap.
+At the stair's head, on the grass of the grooms' burial ground, with his hounds lying either side of him and his sword across his knees. Two knights behind him. Joby Marsh asleep sitting up against Garran Vale's stone with his lantern out in his lap.
 
 Wynn stood up when he saw the lion's head come out of the ground.
 
@@ -64,9 +64,11 @@ Two of them. Kessmoor's. Black iron the size of a barn, brought up the Wend on b
 
 The heartstones were in them. She knew what that meant. Pike had shown her, at the Scald. Hearts. Beasts' hearts, burning.
 
-On the inner wall, the binders. Dane's. Twelve of them, in the Blue College's blue, standing along the wall's top above the eyes, with their hands folded. Waiting.
+On the inner wall, the binders. Dane's. Twelve of them, in the Blue College's blue: six on the rock below the wall by the eyes, with their hands folded, and six across the river by the anchors. Waiting.
 
 And on the north tower, in her white surcoat, Rowan.
+
+The Long Barn's doors stood open on empty stalls. The grey cat that nobody owned wasn't in the straw. Nobody had seen it go.
 
 ---
 
@@ -132,7 +134,7 @@ Thurl was behind her. With his rod. He'd come down from the yard. He looked at t
 
 She couldn't make them.
 
-She tried. She stood in front of Mother Ketch and told her what was coming. The big one. Out of the sky. With five in its back. She told her about Gullhaven, as much as Lisska had given her, and the reef, and the wave. She told her about the Scald, and the Sun Stair, and Vael. She told her the river was the one thing that stopped a binding.
+She tried. She stood in front of Mother Ketch and told her what was coming. The big one. Out of the sky. With five in its back. She told her about the farmer's spit, and the white crosses, as much as Lisska had given her. She told her about the Scald, and the Sun Stair, and Vael. She told her the river was the one thing that stopped a binding.
 
 Mother Ketch listened to all of it.
 
@@ -224,7 +226,7 @@ The brass one. With its glass chimney. Out, now, cold. She held it out in both h
 
 "You said bring it back," she said.
 
-"I said it twice," said Liss.
+"I did," said Liss.
 
 She took it.
 
@@ -268,7 +270,7 @@ The rope hummed in the dark across the river. Black. Empty.
 
 The fire came down off the Scarfell at night.
 
-She was sitting on the jetty with her back against the post. Orrun lying across the road behind her with his chin on the boards. The river going by under the chains. The fires of Arn's flights on the hill above Harrow's End, small, a league off on the far bank.
+She was sitting on the jetty with her back against the post. Orrun lying across the road behind her with his chin on the boards. The river going by under the chains. The fires of Arn's flights on the hill above Harrow's End, small, four leagues off on the far bank.
 
 Then, beyond them, to the north-east, high on the dark rim of the moor, fire.
 

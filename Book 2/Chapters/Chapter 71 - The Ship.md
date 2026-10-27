@@ -16,7 +16,7 @@ Draft notes: Days 320–348 (318–319 in a line). Decided here (proposals):
 - **The hound**, day 330: Corvin tries it (a chain-word is a rune *read*, not spoken from nothing: Corvin can read it now, aloud, slowly, with his palm on the collar's iron, as Idony read the roll with his palm on it; the collar is the College's chain-craft, *hold* runes inside the iron, like the chains): the collar loosens; the hound's eyes fill; somebody behind them; it stands one breath looking at Corvin and then goes for him; the binders have it down with the pots before it reaches his throat; it's re-bound. Corvin, with blood on his sleeve, very quiet: "That's not tighten." Idony: "No." "Is that the only one?" Idony doesn't answer. Corvin isn't angry. "Then you'll have to be there to say it. All of it. Yourself." (Why Corvin takes him down the stair, ch 77.)
 - **Callis**, night 332: the ship puts into a cove north of Blackwater with no lights; a boat comes out with two Halloran men and **Callis**: thin, grey-faced, both arms set crooked (the right from the island in the snow, the left wrist from the river gate: Maren broke both) and weak; he can't lift a cup to his mouth with one hand; he holds it in both. Bought out of Hallowmere's cells in the autumn, carried across the Marches and the Saltreach Track by Corvin's people to wait at Blackwater. He brings news from the Marches: the crown's second cage at Greyhold, Kessmoor iron, the anchors going into the hill. He asks Idony on deck: "You were with Ashdown." "Yes." "Is the lion bigger?" "Yes." Callis looks at his hands. He becomes Corvin's right hand: he gives orders on deck; the crew obey him because Corvin's eyes are on him.
 - **Corvin's argument**, night 335, on the deck in the dark, without raising his voice: the crown's cage is the College's chains again (iron, *hold* runes, fed on what it holds, anchored on the same drained stone); the first chains held a sleeping thing for three hundred years and made it what it is now; a cage on a waking one makes it worse; there are only two things you can do with a Titan: chain it or command it; chains fail; "So." He wants to ask it something. Idony asks what. "Whether it remembers being asked." Idony, who wanted all his life to speak to a Titan, can't answer him; he lies awake knowing he can't.
-- Day 333 the ship turns back west along the coast (Blackwater is the far east of the Saltreach shore; Corvin went that far only for Callis). - Day 338 (the twenty-first day) into **the Saltings**: a local pilot comes aboard off a reed-boat (paid in Halloran silver) and takes them in through the maze of channels; they lie hidden in a reed-channel with the masts down among the reeds, two leagues inland of the coast, west of Gullhaven.
+- Day 333 the ship turns back west along the coast (Blackwater is the far east of the Saltreach shore; Corvin went that far only for Callis). - Day 338 (the twenty-first day) into **the Saltings**: a local pilot comes aboard off a reed-boat (paid in Halloran silver) and takes them in through the maze of channels; they lie hidden in a reed-channel with the masts down among the reeds, two leagues inland of the coast, east of Gullhaven.
 - **Echo**, day 341: from the masthead (Idony carried up in a sling by two sailors because Corvin wants him to read the glasses high), the Tide Council's fleet sighted off the Saltings: green sails, eleven, going west along the coast with barges in tow, toward Gullhaven. Corvin: "There's the Council. Going to take it." Callis laughs; Corvin doesn't.
 - Night 344, **the stir**: Idony's glasses in the cabin run up their throats at midnight; the hold's binders' pots smoke; the bound wyverns scream in their hoods; the hound howls. Idony knows it. He tells Corvin: "Within the day. Then it waits for the tide."
 - Day 345 noon: **the Titan passes over the Saltings**: Idony on deck sees it go over: low, from the north (over the Ashlings' scrub), its shadow going over the marsh for a long time; the reeds flattening; wading birds rising in thousands; it goes on south-west out over the coast to sea toward the Bell; the chain-ends hanging from its legs, twelve, iron, taller than the masts. Corvin watches it with his face very still. Idony counts the relics in its back he can see: four; plates grown over them.
@@ -188,7 +188,7 @@ His sleeve was torn open. Blood on his forearm, where the teeth had gone in. He 
 
 "That's not *tighten*," he said.
 
-Quietly. He never raised his voice.
+Quietly.
 
 "No," said Idony.
 
@@ -244,7 +244,7 @@ He couldn't lift a cup to his mouth with one hand. He held it in both. He drank 
 
 "Yes."
 
-Callis looked at his hands for a long time. Then he went aft to where Corvin was, and stood at his shoulder, and stayed there.
+Callis looked at his hands. Then he went aft to where Corvin was, and stood at his shoulder, and stayed there.
 
 ---
 
@@ -272,7 +272,7 @@ On deck. In the dark. The ship running west before a soft wind with the coast a 
 
 Idony didn't say anything.
 
-"The first chains held a sleeping thing for three hundred years," said Corvin. "And it woke what it is now. Angry. Looking for its own." He didn't raise his voice. "What do you think a cage does to a waking one?"
+"The first chains held a sleeping thing for three hundred years," said Corvin. "And it woke what it is now. Angry. Looking for its own." "What do you think a cage does to a waking one?"
 
 ---
 

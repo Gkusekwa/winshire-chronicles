@@ -17,7 +17,7 @@ Draft notes: Day 6, morning, to day 10, dusk (ch 10 picks up on day 11). Decided
 - Day 8, morning: the crossroads shrine. The bowl's gone. Calder sees the carving on the shrine stone for the first time in his life, though he's passed it every market day: a figure with three faces looking three ways, worn nearly smooth. He puts a copper on the bare ledge out of habit. (Plant for Book 3 ch 32: the Wayfarer.)
 - Day 9: Aurveth's second fall, by a stream (the Skell Water) below the Ram's Head. Calder sends Lisska back down the Way to look in on Wren, as he promised. The Ram's Head is sacked: the sign (a ram's head painted on a board) hanging by one chain; the barrels stove; the charm-board where the warranted tin charms were sold (Book 1 ch 58) kicked in the mud.
 - Day 10, dusk: Lisska comes back up the Way. The ferry house was empty; the lion-woman has crossed the river with Wren and all of them and is coming north on the Way. It frightens him: the whole Drover's Way between them, full of men like the sixteen at Ewe Hollow.
-- Live ground: on the Saltreach bank he feels, faintly, under his boots, the pulse he didn't feel on the other side. A warranted tin charm on a dead deserter's string actually works a little: the bolt from it flies straight.
+- Live ground: on the Saltreach bank he feels, faintly, under his boots, the pulse he didn't feel on the other side. A warranted tin charm on Pasco's bolt-fletching actually works a little: the bolt from it flies straight.
 Magic touches: the faint live ground on the Saltreach bank; a deserter's warranted bolt-charm (tin, from the Ram's Head charm-board) that takes faintly; the Ram's Head's charm-board in the mud; the shrine's carving (not magic, but a plant).
 notes -->
 
@@ -87,9 +87,9 @@ He'd felt Kharrak's red tide before. On the night of the field, on the night of 
 
 He let go of the old one's jaw and stepped out in front of the red dragon.
 
-Into the line of it. Between Kharrak's mouth and the sixteen men. He stood there with his back to the men and his face to the dragon, close enough to feel the heat coming off the red scales, and put both his hands up flat in front of him the way you put your hands up to a bull, and held on.
+Into the line of it. Between Kharrak's mouth and the sixteen men. He stood there with his back to the men and his face to the dragon, close enough to feel the heat coming off the red scales, and put both his hands up flat in front of him as you put your hands up to a bull, and held on.
 
-Not with his hands. Through the bond. He held on to the red tide the way he'd held on to Lisska on the night of the honey-smoke when she was coming loose: he took hold of it from inside, all of it, and held it, and it burned him. It went through him like a fever. He felt his own face go hot and his eyes water.
+He held on through the bond, to the red tide, the way he'd held on to Lisska on the night of the honey-smoke when she was coming loose: he took hold of it from inside, all of it, and held it, and it burned him. It went through him like a fever. He felt his own face go hot and his eyes water.
 
 "No," he said. Out loud. "Kharrak. No."
 
@@ -123,7 +123,7 @@ A voice from the back of the sixteen. A coast voice, Wendmouth, flat and tired.
 
 Calder didn't turn round. He couldn't. He had the red tide in both hands and if he took his eyes off Kharrak's it would get away from him. But he knew the voice.
 
-"I know that man," said the voice. Closer now. "I was in his barn at Upper Rush, in the winter, with that red bastard's claws round my middle. He had my legs. He could've had them off." The voice stopped a few paces behind him. "He let me walk. Gave me his word and kept it, with his dragon standing over me wanting to do the other thing. Same as now."
+"I know that man," said the voice. Closer now. "I was on his sister's hill at Upper Rush, in the winter, with that red bastard's foot on my back. He had my legs. He could've had them off." The voice stopped a few paces behind him. "He let me walk. Gave me his word and kept it, with his dragon standing over me wanting to do the other thing. Same as now."
 
 "So?"
 
@@ -167,7 +167,7 @@ Calder looked at the bolt. He took hold of it, close to the plates, and the old 
 
 "I heard it read."
 
-"There's more than us on the Way. More than sixteen. They'll not all have been in your barn."
+"There's more than us on the Way. More than sixteen. They'll not all have been under your dragon's foot."
 
 "I know."
 
@@ -185,7 +185,7 @@ Calder said nothing. The old one breathed beside him.
 
 Calder looked up.
 
-"The paymaster's chest. Off the Ram's Head. The morning after the thing flew, while everybody else was sat on the hill with their mouths open, Delling went up to the inn with twenty of us and took the paymaster's chest out of the back room, where it had been all winter under guard, and put it on a cart, and went south." Brask shrugged. "There's not much silver in it. Not after a winter. But there's the book."
+"The paymaster's chest. Off the Ram's Head. The morning after the thing flew, while everybody else was still walking off that hill not knowing where to, Delling went up to the inn with twenty of us and took the paymaster's chest out of the back room, where it had been all winter under guard, and put it on a cart, and went south." Brask shrugged. "There's not much silver in it. Not after a winter. But there's the book."
 
 "Rook's book."
 
@@ -197,7 +197,7 @@ Calder looked up.
 
 He let that sit. Then he hitched his crossbow up on his shoulder.
 
-"That's the last of what I owe you," he said. "My legs. That's the last of it. I'll not come with you, and don't ask." He started off south down the track after the others. Then he stopped and looked back. "Get her off the Way, farmer. Get her up on her ledges before the next lot find you. Not everybody on this road was in your barn."
+"That's the last of what I owe you," he said. "My legs. That's the last of it. I'll not come with you, and don't ask." He started off south down the track after the others. Then he stopped and looked back. "Get her off the Way, farmer. Get her up on her ledges before the next lot find you. Not everybody on this road was under that red one's foot."
 
 He went off down the track through the sheep.
 
@@ -211,7 +211,7 @@ She went down all at once. The front legs went, both of them, and she came down 
 
 Calder was on his knees at her head before he'd thought.
 
-Her eye was shut. Her breath was going in and out of her in long rough heaves. Through the bond he felt her, the old slow fire of her, and under it, very faint, something he'd never felt in her before: not pain. A tiredness. Old. Three hundred years of tiredness, all at once, as if she'd put down something she'd been carrying and found she couldn't pick it up again.
+Her eye was shut. Her breath was going in and out of her in long rough heaves. Through the bond he felt her, the old slow fire of her, and under it, very faint, something he'd never felt in her before. A tiredness. Old. Three hundred years of tiredness, all at once, as if she'd put down something she'd been carrying and found she couldn't pick it up again.
 
 "Up," he said. "Come on. Up."
 
@@ -323,7 +323,7 @@ It wasn't the Way he knew.
 
 There were things on it. A cart on its side in the ditch with its wheels gone. A dead horse, three days dead, that the crows had been at. A man's boot, on its own, in the middle of the road. A long trail of feathers where somebody had plucked hens as they walked. Cold fires at the roadside every quarter-league, black rings in the grass with bones in them. And twice, far off, up the valley ahead, the glint of metal and a knot of men on the road, who saw what was coming toward them and got off the Way into the hills before he reached them, and watched him go by from the bracken.
 
-Nobody shot at him again. He thought about Brask. *Not everybody on this road was in your barn.*
+Nobody shot at him again. He thought about Brask. *Not everybody on this road was under that red one's foot.*
 
 He walked with his hand on the old one's jaw and his eyes on her feet.
 
@@ -333,7 +333,7 @@ She fell the second time on the ninth day, by the Skell Water, below the Ram's H
 
 It was where the beck came down off the hills on the left and went under the Way through a stone culvert, and the road dipped to it and rose again, and the dip was soft. She put her bad side down into it and the leg went, and she went down onto her shoulder in the wet, and lay there with the water going round her.
 
-It took them an hour to get her up. Kharrak got his shoulder under her and pushed, and Calder pulled on her jaw, and Lisska ran round them crying and getting in the way, and in the end it was none of them; it was the old one herself, who lay in the beck with her eye shut until Calder had stopped pulling, and then said, quite calmly, *Stand back,* and got up on her own, slowly, one leg at a time, the way an old woman gets up from her knees after prayers.
+It took them an hour to get her up. Kharrak got his shoulder under her and pushed, and Calder pulled on her jaw, and Lisska ran round them crying and getting in the way, and in the end it was none of them; it was the old one herself, who lay in the beck with her eye shut until Calder had stopped pulling, and then said, quite calmly, *Stand back,* and got up on her own, slowly, one leg at a time, as an old woman gets up from her knees after prayers.
 
 She stood in the road with the water running off her and her whole body shaking.
 
@@ -341,7 +341,7 @@ She stood in the road with the water running off her and her whole body shaking.
 
 "I know."
 
-*Wren said every few days. You said. You said it twice.*
+*Wren said every few days. You said.*
 
 He looked at the green dragon. She was standing in the road with her wings half up and the dirty blue ribbon on her horn, and she was frightened, he could feel it, frightened for the old one and frightened of the road and frightened of the men in the bracken, and she wanted Wren. She'd wanted Wren every hour since the ferry house. He'd felt it the whole way.
 
@@ -368,6 +368,8 @@ The charm-board was in the mud of the yard. A board as long as a door, painted w
 He looked at it a long time, and didn't pick it up.
 
 They lay up that night behind the inn, out of the wind, in what had been the paymaster's yard.
+
+She wouldn't get up in the morning. They lay there all the next day.
 
 ---
 
@@ -410,9 +412,3 @@ Then he thought of the lion.
 He thought of it coming up out of the gallery under the river into the light of Kharrak's fire, the size of a dray-beast and grey as old stone, and stopping ten paces off. He thought of the stone moving for it. He thought of sixteen men at the Ewe Hollow turn seeing that come up the track at them out of the morning.
 
 "Maybe not," he said, to Lisska, to the dark. "Maybe not bad."
-
-*Say it twice,* said Lisska.
-
-He nearly laughed.
-
-"Maybe not bad," said Calder Fenn. "Maybe not."

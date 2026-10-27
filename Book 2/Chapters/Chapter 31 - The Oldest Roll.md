@@ -44,7 +44,7 @@ He came down the old quay slowly. The stones rocked under his boots. He stopped 
 
 She looked at him a moment. Then she nodded.
 
-He came the rest of the way and sat down on the shingle on her other side, not too close to the lion. Orrun didn't look at him. He lay with his chin on his paws and his eyes half shut, facing the island, and Idony could see the band of pale at the roots of his mane that hadn't been there at the Ring, and the ribs under the grey coat.
+He came the rest of the way and sat down on the shingle on her other side, not too close to the lion. Orrun didn't look at him. He lay with his chin on his paws and his eyes half shut, facing the island, and Idony could see the band of pale at the roots of his mane, wider than it had been at the Ring, and the ribs under the grey coat.
 
 The island lay on the water a mile out, in the late afternoon, grey, breathing.
 
@@ -114,11 +114,11 @@ They were talking now. Not to him. Round him.
 
 "What did the Wardens do?"
 
-"Nothing." The young Scribe looked round the table, pleased to have something. "That's the thing. Nothing. Old Brannagh was on the gate, the big one, and she looked at the lion, and the lion looked at her, and she said *pass*."
+"Nothing." The young Scribe looked round the table, pleased to have something. "That's the thing. Nothing. Old Brannagh was on the gate, the big one, and he looked at the lion, and the lion looked at him, and he said *pass*."
 
-"She can't do that."
+"He can't do that."
 
-"She did."
+"He did."
 
 "It's a scandal," said an old Fourth ring at the end of the table, a woman with ink to her elbows who'd been working on the same commentary for twenty years. "Every bond-gift is wild power. Every one. It's the law of the colleges. If she won't register it, the Blue College should have her up before the Council."
 
@@ -220,7 +220,7 @@ Clause by clause. In the old College form, every clause numbered in the old coun
 
 *First: the College shall measure the sleeper beneath the river hill, its breath and its depth and the great draw of its waking, and render the measure to the lord.*
 
-There was a table after it. A reading-table. Columns and figures, in a notation he knew. Not quite the notation of his own ledgers. Older. Rougher. But the same. The ancestor of it. He looked at it and saw the first tide-reader who'd ever sat with a glass over a sleeping thing and written down what it did, and the columns were his columns. The figures were his figures. A Reader of the College of Tides, three hundred and four years ago, had measured the draw under the river hill, and laid it out on vellum the way Idony laid out the Hearthmere ledgers, and sold it.
+There was a table after it. A reading-table. Columns and figures, in a notation he knew. Not quite the notation of his own ledgers. Older. Rougher. But the same. The ancestor of it. He looked at it and saw the first tide-reader who'd ever sat with a glass over a sleeping thing and written down what it did, and the columns were his columns. The figures were his figures. A Reader of the College of Tides, three hundred years and more ago, had measured the draw under the river hill, and laid it out on vellum as Idony laid out the Hearthmere ledgers, and sold it.
 
 *Second: the College shall design and cut the forms for six chains, to be forged by the lord's smiths in the cavern beneath the hill, every link to bear upon the inner curve the rune of holding; which rune shall feed upon that which it holds, so that the harder the held thing strains, the faster it is held.*
 
@@ -238,7 +238,7 @@ He sat at the reading-desk at the foot of the perch with his palm flat on the ve
 
 He'd never heard it said. It was a Hearthmere thing, a knights' thing. He'd read it in a letter once, years ago, from a Hearthmere archivist called Hale, who'd written to the College asking about old oaths, and the College had filed the letter and told Idony not to bother answering. *Keep the watch below, and do not ask.* Their oath. Said at noon by every knight in Hearthmere for three hundred years.
 
-The words were older; he'd learn whose. The charm was his college's.
+The words were older. The charm was his college's.
 
 Written here. On this vellum. In this hand. Sold, with the chains and the measure, to the lord of the river hill.
 
@@ -302,7 +302,7 @@ He didn't need to. He'd read like a Sixth his whole life. He had them. In his he
 
 He didn't answer. He didn't know.
 
-The bird looked at him with its one good eye for a long time.
+The bird looked at him with its one good eye.
 
 "The chain-ends," it said.
 
@@ -346,7 +346,7 @@ The Old Reader got back up on its perch. Slowly. With its beak and its claws, th
 
 He walked home at the fourth bell.
 
-Down the half-league of the Long Library with every lamp white. Out of the small door. Down the hill in the dark, past the Hall of Rings, past the College of Tides with its lamps burning white instead of their own soft blue. The soft blue that had always been so steady, so cheap, a tenth of the light, for so long as the light should last. He stopped outside the College's door and looked up at it for a long time.
+Down the half-league of the Long Library with every lamp white. Out of the small door. Down the hill in the dark, past the Hall of Rings, past the College of Tides with its lamps burning white instead of their own soft blue. The soft blue that had always been so steady, so cheap, a tenth of the light, for so long as the light should last. He stopped outside the College's door and looked up at it.
 
 Then he went on down.
 
@@ -358,4 +358,4 @@ He didn't know why. He stood at the top of the old fish-quay in the dark and loo
 
 She was awake. He could tell. She was looking at the island.
 
-He didn't go down to her. He stood at the top of the quay with the working-words in his head and the cold coming up off the lake, and watched her watch it, until the sky began to go grey over the High Crown.
+He didn't go down to her. He stood at the top of the quay with the working-words in his head and the cold coming up off the lake, and watched her watch it, until the sky began to go grey in the east.

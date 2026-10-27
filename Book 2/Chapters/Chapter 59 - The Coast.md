@@ -17,7 +17,7 @@ Draft notes: Days 300–312. Decided here (proposals):
 - The cost: Aurveth's old horn-wound (the ironback's horn, Book 1 ch 76; set and cleaned at Varrhold) opens on the reef: she's held the sight too long; blood on the black rock. Kharrak carries Calder off the reef; Aurveth flies the two leagues back to the spit herself, low, bleeding, and lands on the shingle.
 - That night on the spit, Ivar Leck (come down with Arn's flights) packs the wound; Aurveth asks: why did *she* live? *Ennis, and Ragnald, and Sigrun. A dragon almost never lives through one. I lived through three. Why?* He has the bird's words (Maren's pages: a scar holds harder than skin) and Starwatch's (*one comes with three*). He tells her both. Neither is an answer. "I don't know." *Nor do I.* (Third beat of "Why me?".)
 - The contract: day 311 a Tide Council herald rides in on the coast road and nails a notice on Gullhaven's harbour-master's door: the Council has sold the Bell: a contract to "whoever shall take and hold the thing beneath the reef, for the Council's account, as Kessmoor took and holds the thing beneath the Scald"; to the highest bidder; sold to the **Strand house** (green), who will bring a contract fleet with Kessmoor engines and Vey's company. Calder reads the notice himself, slowly, at the door, while the salt-wives watch.
-- Echo, night 311: on the spit, Aurveth's head turning toward the south-west, toward the far end of the coast and Sarovel beyond it, and staying there all night. She doesn't say what she feels. (Ch 60: the Sun Stair.) Calder thinks: the reader said the Sun Stair within the month.
+- Echo, night 311: on the spit, Aurveth's head turning toward the south-west, toward the far end of the coast and Sarovel beyond it, and staying there all night. She doesn't say what she feels. (Ch 60: the Sun Stair.) He sits against her all night and doesn't sleep.
 Magic touches: **deep sight** (Aurveth's bond gift, shared: his first sense of the Deep itself); the Bell's bell-note; the old wound's toll; the Tide Council's contract; dragons carrying people (practice).
 notes -->
 
@@ -203,7 +203,7 @@ He lay with his face on the wet barnacles and his hand on Aurveth's neck and fel
 
 Waking.
 
-He didn't know how he knew. He knew. It wasn't asleep the way the rock was asleep. It was asleep the way Wren was asleep at dawn, just before she opened her eyes. The breath was getting shorter. Quicker. A sleeper turning over.
+He didn't know how he knew. He knew. Not asleep as the rock was. Asleep as Wren was at dawn, just before she opened her eyes. The breath was getting shorter. Quicker. A sleeper turning over.
 
 Turning over, he thought. Like a child before morning.
 
@@ -215,7 +215,7 @@ Then she began to bleed.
 
 He felt it before he knew what it was. A heat. In his own chest. Under his ribs, on the left, where his three marks were. A hot tearing ache, as if something there had come open.
 
-It wasn't his.
+Not his.
 
 He lifted his head off the rock.
 
@@ -373,7 +373,7 @@ He saw it. He was sitting on the shingle by her, as he'd sat every night since t
 
 In the middle of the night she lifted it.
 
-And turned it. Slowly. Away from the reef. Along the coast. West. South-west. Toward the far end of the long shore, where it went away beyond Corsa and beyond everything he knew, toward a country he'd never seen.
+And turned it. Slowly. Away from the reef. Along the coast. West. South-west. Toward the far end of the long shore, past Wendmouth and the river's mouth and beyond everything he knew, toward a country he'd never seen.
 
 And left it there.
 
@@ -385,8 +385,4 @@ She didn't answer.
 
 He looked where she was looking. South-west. There was nothing. The dark sea. The dark coast going away. Stars low on the horizon.
 
-She didn't put her head down again. She lay all night with it lifted, turned south-west, very still, the way a dog lies when it hears something far off that nobody else can hear. And he sat against her and didn't sleep, and thought of a reader's numbers on the back of his own letter.
-
-*The next one is south. Sarovel. The Sun Stair. Within the month.*
-
-It had been a month.
+She didn't put her head down again. She lay all night with it lifted, turned south-west, very still, as a dog lies when it hears something far off that nobody else can hear. And he sat against her and didn't sleep.

@@ -101,7 +101,7 @@ She saw it from the shore. The Vael Pass above the city, where the road went up 
 
 Orrun got up when he saw it.
 
-He went up through the empty lower city. Up Ferry Street, up Rope Street, through the crowds on Candle Row, who drew back from him into doorways with their bundles and their children, up past the dark hill and out of the city on the pass road, to the lake gate. She went with him. The Wardens at the gate stood back. He went past them and lay down in the road on the far side of the iron-rail fence, with his chin on the frozen ruts, and was still.
+He went up through the empty lower city. Up Ferry Street, up Rope Street, through the crowds on Candle Row, who drew back from him into doorways with their bundles and their children, up past the broken hill and out of the city on the pass road, to the lake gate. She went with him. The Wardens at the gate stood back. He went past them and lay down in the road on the far side of the iron-rail fence, with his chin on the frozen ruts, and was still.
 
 She felt him call.
 
@@ -189,7 +189,7 @@ The big one came out of the toll-house. The short-haired one who'd let her throu
 
 He didn't ask for the register. He took the bar off the gate himself and swung it open and stood beside it.
 
-They came down through the city. Down the pass road, past the dark hill, down Rope Street. The crowds on Candle Row stood up on the steps to watch them go by. Down Ferry Street. They came out at the bottom into the empty fish-market and stood in it, steaming, among the dead stalls and the frozen gutters, and the old cow came over the shingle to where Orrun lay at the water's edge and put her trunk on his head.
+They came down through the city. Down the pass road, past the broken hill, down Rope Street. The crowds on Candle Row stood up on the steps to watch them go by. Down Ferry Street. They came out at the bottom into the empty fish-market and stood in it, steaming, among the dead stalls and the frozen gutters, and the old cow came over the shingle to where Orrun lay at the water's edge and put her trunk on his head.
 
 He didn't get up. He leaned his head into it.
 
@@ -203,7 +203,7 @@ She drew it.
 
 The runes were lit.
 
-All along the blade, from the hilt to a hand's breadth from the point. The old letters that Haverly's family had cut there before anybody's grandfather was born. They'd been dark since the stair. Since the morning she'd stood in the river-fog with the dead on the hill and Grieve had put the sword into her hands, dark and cold, and she'd sharpened it every night on the jetty and watched the letters stay dark under the whetstone, and stopped expecting anything else. She'd carried it since the fourth day. Through Hearthmere and the Ring and the Moot and the Plains and the High Crown. Steel. A good edge. Nothing.
+All along the blade, from the hilt to a hand's breadth from the point. The old letters that Haverly's family had cut there before anybody's grandfather was born. They'd been dark since the stair. Since the morning she'd stood in the river-fog with the dead on the hill and Grieve had put the sword into her hands, dark and cold, and she'd sharpened it every night on the jetty and watched the letters stay dark under the whetstone, and stopped expecting anything else. She'd carried it since the first day. Through Hearthmere and the Ring and the Moot and the Plains and the High Crown. Steel. A good edge. Nothing.
 
 They were white. Not bright. A thin white light along each stroke, like frost catching the first sun, steady, and when she turned the blade the light didn't move with the light of the sky. It was in the steel.
 
@@ -251,13 +251,13 @@ She saw it come.
 
 The whole lake lifted. As if the thing under it had taken all the room there was, and the water had nowhere to go but up. It rose round the coils in a great slow swell, and the broken ice rode up on it, and it came toward the shore.
 
-Not fast. It didn't need to be fast. A long grey wall of water and ice, the height of a house, the length of the shore, coming in over the shingle.
+It didn't need to be fast. A long grey wall of water and ice, the height of a house, the length of the shore, coming in over the shingle.
 
 "Up," she said, to nobody, to everybody. "Up."
 
 Orrun was already moving.
 
-Not up. Along. Along the shingle behind the old fish-quay, past the fish-market, toward the low end of the lower city where Dye Street ran behind the market to the dyers' yards. Where the smoke was coming out of a chimney. Where she'd heard a child laughing.
+Along the shingle behind the old fish-quay, past the fish-market, toward the low end of the lower city where Dye Street ran behind the market to the dyers' yards. Where the smoke was coming out of a chimney. Where she'd heard a child laughing.
 
 She ran with him.
 
@@ -377,7 +377,7 @@ His hands were white to the wrist. His nose was bleeding. He looked at his hands
 
 He looked up at the rune.
 
-"It'll fall," he said. "That block. Within the year." His teeth were going too. "Shaped stone's weaker forever after. The toll's split. Some from you and some from the stone." He looked at it for a long time. "It'll hold today."
+"It'll fall," he said. "That block. Within the year." His teeth were going too. "Shaped stone's weaker forever after. The toll's split. Some from you and some from the stone." He looked at it. "It'll hold today."
 
 ---
 
@@ -463,7 +463,7 @@ He came up onto the wall beside her, slowly, with his white hands in his armpits
 
 "Because you told her."
 
-"Because I told her five." He looked at the gap. "I said perhaps fewer. It wasn't fewer. It was five." His voice did something. "If I'd said four, she'd have let them go down yesterday with the dyers."
+"Because I told her five." He looked at the gap. "I said perhaps fewer. It was five." His voice did something. "If I'd said four, she'd have let them go down yesterday with the dyers."
 
 He didn't say anything else about it. She didn't either.
 
@@ -497,7 +497,7 @@ She knew them.
 
 She'd seen the green one at dusk from the Library window, going north along the snow-line. She'd heard of the red one from a salt-merchant at the lake gate. A red and a green, over Gallows Quay in broad day.
 
-They came up over the broken lip of the lake, over the gap, and went up the lake low over the churning ice, and over the drowned lower city, and up. Up over the dark hill. Over the Library.
+They came up over the broken lip of the lake, over the gap, and went up the lake low over the churning ice, and over the drowned lower city, and up. Up over the broken hill. Over the Library.
 
 She watched them go over the hill and out of sight.
 

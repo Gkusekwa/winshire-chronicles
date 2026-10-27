@@ -15,7 +15,7 @@ Draft notes: Night 348. Decided here (proposals):
 - People: the crown company on the walls cheering; the knights in the yard; the last few on the jetty road dropping their bundles; a woman on her knees in the road weeping; men running back up from the boats ("It's come back! The light's come back!"); a man from Penfold who'd been about to cross turns his cart round. Liss stands in her boat midstream and looks at the wall lamps and doesn't stop hauling.
 - Maren takes the black book out and reads Idony's words under the list by the light of a lamp that hasn't burned since the spring.
 - **Thurl** with his rod in the cellar: the old stone reads full, for the first time; Dane in the yard, exultant, gloved hands up to the lamps: "The stone's full. It'll hold now." Thurl: "It's not filling. It's being drawn through." Like a pipe, not a cup; the draw goes south, to the sea.
-- **Rowan** at the yard gate with Maren: "Is it?" "No." Rowan sends knights down the jetty road to tell the people it isn't, and keep them crossing. "They won't believe us." "Then say it twice."
+- **Rowan** at the yard gate with Maren: "Is it?" "No." Rowan sends knights down the jetty road to tell the people it isn't, and keep them crossing. "They won't believe us." "Then tell them again."
 - **The held breath**: Maren and Orrun on the water-gate stair; the stair's walls humming; the cavern's black water standing up in ripples although nothing touches it; the knight's lock blazing; the shut place's warmth come up the stair to meet them. Orrun: *It is calling it home. And it is answering.* *It has five. It wants the sixth breath.*
 - The hour ends: the lamps go down, one by one, from the north, the way they came, until only the river wall's are left; then those; dark. The people in the road. Silence. Then the woman who knelt gets up and picks up her bundle and goes down to the boat.
 - **Echo**: at the jetty, after the dark comes back: the river at the landing rising: Liss marks it on the jetty post with her knife: a hand's breadth in an hour, no rain, the river running no faster; as if the sea had drawn a breath somewhere south and the river had come up the valley to meet it. (Coincides with the Bell's surge, ch 73.)
@@ -124,7 +124,7 @@ He didn't open his eyes.
 
 She put her hand on the rod.
 
-It hummed. Under her palm. Not empty. Not nothing. Full. The old stone of the inner wall, that had read like chalk, like the glass at the Scald before the Titan stood up on it: full. Humming.
+It hummed. Under her palm. Not empty. Full. The old stone of the inner wall, that had read like chalk, like the glass at the Scald before the Titan stood up on it: full. Humming.
 
 And moving.
 
@@ -168,7 +168,7 @@ He put his gloved hands down.
 
 The chain was lit.
 
-She saw it as she crossed the yard. The heaps of new cage-chain by the carts, every link as tall as a man, black in the day. They were glowing. Not on the outside. On the inside of every curve, where Tam had struck the runes where the thing wouldn't see them. A faint white line in every link, all down every heap, like embers under ash.
+She saw it as she crossed the yard. The heaps of new cage-chain by the carts, every link as tall as a man, black in the day. They were glowing. On the inside of every curve, where Tam had struck the runes where the thing wouldn't see them. A faint white line in every link, all down every heap, like embers under ash.
 
 Odo was at the forge door.
 
@@ -212,7 +212,7 @@ Rowan turned round to the yard.
 
 "They won't believe us," said Wynn.
 
-"Then say it twice," said Rowan.
+"Then tell them again," said Rowan.
 
 ---
 
@@ -286,7 +286,7 @@ The river came up the post.
 
 ---
 
-Not fast. Not a flood. The river ran no faster than it had all day. No rain had fallen. The sky over the valley was clear and black and full of stars.
+Not a flood. The river ran no faster than it had all day. No rain had fallen. The sky over the valley was clear and black and full of stars.
 
 But it came up.
 

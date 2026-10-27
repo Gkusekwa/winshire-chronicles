@@ -6,7 +6,7 @@ Part: Part Two: Midsummer
 Days: 99–102 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Coldtarn
 Beats: Tor Brecc and Skell to the black tarn. Arn and Ulric pour together, one hand each, as Teo made them *(Book 1 ch. 8)*. The Clan stands against the Restoration *(canon)*; the chief's chair stays empty between them. Corvin has lost the dragons he hoped to take *(canon)*, all but four. **The Clan gives Calder his errand**: bring the four home, and bring back the names of whoever paid for Teo. "You're the only one of us who can follow a coin."
-Echo of the other's story: A Wyldmarch trader on the Scarfell road: the clans are going to the Moot on the lake, and the lion-woman with them.
+Echo of the other's story: A Wyldmarch trader on the Scarfell road: the great one has flown west, and the clans are at the Moot on the lake; if the lion-woman is anywhere, he guesses, she's with them.
 Status: first draft
 Draft notes: Day 99 to day 102. Decided here (proposals):
 - Day 99: the captured binder in Varrhold's yard. Ulric questions him; he says little, except that he was hired at Wendmouth and paid in advance. In his purse: twelve coins of new silver, Saltreach coin (a ship on one face, a wave on the other), each with the ring of six struck small into the rim, the burr still on the edge: the coin man's silver from the autumn (Book 1 ch 24). Calder knows them. Nobody else in the yard does.
@@ -17,7 +17,7 @@ Draft notes: Day 99 to day 102. Decided here (proposals):
 - Then, on the stone, to the Clan: Arn: the Clan stands against the man upstairs at the Fleece and everyone who wears his ring. Ulric: the war between the red thread and the grey is over, here, at the black water; whoever lit it, it's out. They don't pour for a chief. Arn: "The chair stays empty. Till we've buried my brother right." Meaning: till the men who paid for Teo are named.
 - The count, said by Ulric on the stone: Corvin came for the Clan's dragons twice. At the mill, to break the war-pairs and loose three of the greatest dragons in the Clan; they went to a barley farmer instead. And at the choosing, for forty; he got four. "He's lost all he came for. All but four."
 - The errand, given on the stone, by both: bring the four home, and bring back the names of whoever paid for Teo. Calder: "Why me?" Ulric holds up one of the binder's coins: "Because the silver came up from the coast, and the coin's struck somewhere, and somebody paid for the die. You sold barley twenty years to factors who cheated you, and you know a factor's coin from a fair one." Arn: "You're the only one of us who can follow a coin." The ledges stand behind him on the shore.
-- The echo, day 102, afternoon, on the Scarfell road above the hold: a Wyldmarch trader with a horse-train going home east, met by Calder and Orm Garrick; the clans are all at the Moot on the lake for the last week of midsummer, and the lion-woman is going there, they say, with a Keeper and the lion and a lowland scholar with a box. Calder thinks of the lion standing in a ring of stones at ten paces from the great one, in the grey; and of the stone with the white ring round it in his coat.
+- The echo, day 102, afternoon, on the Scarfell road above the hold: a Wyldmarch trader with a horse-train going home east, met by Calder and Orm Garrick; the great one flew west off the stones on midsummer night; the clans are all at the Moot on the lake for the last week of midsummer, and if the lion-woman is anywhere now, he guesses, she'll be with them. Calder thinks of the lion standing in a ring of stones at ten paces from the great one, in the grey; and of the stone with the white ring round it in his coat.
 - Lisska: she holds close to him for three days after the smoke, never more than a ledge away. She's still not joking. At the pour she says the only thing she says all day: *Tor didn't lift the axe.* "No." *I'd have lifted it.* "I know." *I'm glad he didn't.*
 Magic touches: the Roosts' cry (going down, for the dead); the Clan's old words at the pyre; Ada's hearth-word lighting the bier-fire; the tarn that never freezes; the hum in the stone toward the east, fading over these days.
 notes -->
@@ -74,7 +74,7 @@ Calder gave it to him.
 
 At midnight he went down to the hall anyway.
 
-He didn't know why. He couldn't sleep. Lisska wouldn't leave him; she hadn't left him since the smoke, not further than a ledge away, not for a moment, as if the rope were still loose and she had to keep her end of it in sight. She came down the long stair behind him in the dark and lay down outside the hall door and put her chin on the step.
+He couldn't sleep. Lisska wouldn't leave him; she hadn't left him since the smoke, not further than a ledge away, not for a moment, as if the rope were still loose and she had to keep her end of it in sight. She came down the long stair behind him in the dark and lay down outside the hall door and put her chin on the step.
 
 He went in.
 
@@ -246,7 +246,7 @@ It was Arn who turned to the shore first.
 
 He held up his hand. In it, the board. The plank from the Brack steading, with the boot-print in clay. He'd carried it out onto the stone under his arm. Calder hadn't seen.
 
-"He killed my brother at the ford. With a hired knife, on a borrowed horse. He killed Hallam Brecc on the hill. He killed the Sallow girl and Sigrun Holm and Dag Rorke at the mill, with one bolt, bought, out of a hedge. He burned the Brack steading three nights ago and left our grey on its door so I'd ride on my uncle. He came for our dragons with smoke two nights ago and killed Hallam's grandson on the Choosing Ledge." He put the board down at his feet on the black stone. "The Clan stands against him. Red thread and grey. All of it. From the black water."
+"He killed my brother at the ford. With a hired knife, on a borrowed horse. He killed Hallam Brecc on the hill. He killed the Sallow girl and Sigrun Holm and Dag Rorke at the mill, with one bolt, bought, out of a hedge. He burned the Brack steading before midsummer and left our grey on its door so I'd ride on my uncle. He came for our dragons with smoke on midsummer night and killed Hallam's grandson on the Choosing Ledge." He put the board down at his feet on the black stone. "The Clan stands against him. Red thread and grey. All of it. From the black water."
 
 On the shore nobody moved.
 
@@ -286,7 +286,7 @@ He held up one of the binder's coins between two fingers so the light caught it.
 
 A sound went through the crowd. Not a laugh. Nearly.
 
-"And at the choosing," said Ulric. "Two nights ago. With smoke on the wind, for all forty of our young ones on the ledge, opened. He got four." He closed his fingers on the coin. "He's lost all he came for. Every time. All but four."
+"And at the choosing," said Ulric. "On midsummer night. With smoke on the wind, for all forty of our young ones on the ledge, opened. He got four." He closed his fingers on the coin. "He's lost all he came for. Every time. All but four."
 
 ---
 
@@ -304,7 +304,7 @@ He went out along the stone. It was very long. He'd never been on it. The black 
 
 "Bring them home," said Arn. "The four. The bronze and the black and the two reds. Wherever he's taken them. Bring them home to the ledges."
 
-"And bring back the names," said Ulric. "Of whoever paid. For Teo. For all of it. Not the knife. The purse behind the knife."
+"And bring back the names," said Ulric. "Of whoever paid. For Teo. For all of it. The purse behind the knife."
 
 Calder looked at them.
 
@@ -330,7 +330,7 @@ He thought: I can write my own name, and the D's backwards.
 
 He looked at the two Varrs on the stone.
 
-On the shore behind him, he felt the ledges. He didn't turn round. He didn't need to. He felt them come down to the water's edge, Ivar and Hulda and Brede and the boy Leif, and Gunna on her litter carried by four of them, and stand there behind him, at the root of the stone, the way they'd stood behind him at the gate. Not beside him. Behind.
+On the shore behind him, he felt the ledges. He didn't turn round. He didn't need to. He felt them come down to the water's edge, Ivar and Hulda and Brede and the boy Leif, and Gunna on her litter carried by four of them, and stand there behind him, at the root of the stone, as they'd stood behind him at the gate. Not beside him. Behind.
 
 "Yes," said Calder.
 
@@ -354,7 +354,7 @@ Orm asked.
 
 The trader said something, and then the short word, the two syllables, that the other trader had said at Skarrow's gate.
 
-"She's going to the Moot," said Orm. "With a Keeper. And the lion. And a lowlander with a box." He shrugged. "That's what he heard on the road. That she's going to the lake with the clans."
+"She was at the stones with it, he says," said Orm. "Sitting by it." He listened again. "Nobody's heard since. If she's anywhere now, he says, she'll be at the lake with the clans." He shrugged. "That's his guess."
 
 The trader touched his forehead to Calder, and went on east with his horses, over the rise and away.
 

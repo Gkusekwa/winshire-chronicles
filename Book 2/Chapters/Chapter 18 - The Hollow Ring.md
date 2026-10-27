@@ -9,7 +9,7 @@ Beats: The Titan over the stones. Orrun lies at ten paces from his kin, as Maren
 Echo of the other's story: Lisska over the dead trees (**flight 2**, d.82): the farmer has gone to the uncle's steading with a book.
 Status: first draft
 Draft notes: Day 74, dusk, to day 90. Decided here (proposals):
-- Day 74 (the end of ch 16 from her side): Maren, Orrun and Hesper came into the grey on day 70 from the south, along a stream; Hush with them, unhappy. On the evening of day 74 Orrun walks into the ring and lies down at ten paces from the Titan's head, as Maren lay at ten paces from him on the island in the autumn (Book 1, ch 21–27). Maren sits by him. The Titan doesn't turn its head. Its breath goes past them: eleven in, nineteen out.
+- Day 74 (the end of ch 16 from her side): Maren, Orrun and Hesper came into the grey on day 69 from the south, along a stream; Hush with them, unhappy, so the last league takes five days. On the evening of day 74 Orrun walks into the ring and lies down at ten paces from the Titan's head, as Maren lay at ten paces from him on the island in the autumn (Book 1, ch 21–27). Maren sits by him. The Titan doesn't turn its head. Its breath goes past them: eleven in, nineteen out.
 - Days 74–79: Orrun lies there day and night, eating nothing. He speaks to it as kin, within sight; Maren feels him do it, a long reaching through the bond toward the thing; nothing comes back. Not refusal. Nothing, as if he were calling into a well. *It doesn't hear me. Or it hears and there's nobody there.* (Book 1 ch 77: it doesn't know him.) The hollow owls on the stones watch them.
 - Day 76: the ground under Orrun. Maren notices the grey grass where he lies has gone faintly green at the roots, a ring a few paces round him; it fades a little each night and comes back each day.
 - Day 80: Idony comes down from the Wardens' rise alone, with a small glass in a padded case, and stops at a polite distance, and introduces himself: Idony Vael, Second ring, College of Tides, Vael; tide-reader. He sets the glass on the green-at-the-roots grass by Orrun and the quicksilver lifts a finger's breadth. He tells her plainly that the Titan is drinking the ground dead, and the stones are full, and that's why the grey; then asks, very politely, whether her lion does the same thing on a smaller scale. Maren: "No. He gives it back." Idony looks at the glass: "Yes. I think he does." He has been calling Orrun *the walker* for eighty days. He doesn't tell her so yet.
@@ -25,7 +25,7 @@ notes -->
 
 He lay down at ten paces, and she sat beside him, and the thing on the stones didn't turn its head.
 
-She'd known it wouldn't. She'd known the whole four days from Hesper's oak, through the green and then the grey, along the grey stream where nothing moved and nothing rotted, with Hush slinking behind them low to the ground and unhappy. She'd known when they came out of the grey trees into the clearing at dusk and she saw it for the first time since the river.
+She'd known it wouldn't. She'd known the whole ten days from Hesper's oak, through the green and then the grey, the last five of them slow, along the grey stream where nothing moved and nothing rotted, with Hush slinking behind them low to the ground and unhappy, lying down every few hundred paces and having to be talked up again. She'd known when they came out of the grey trees into the clearing at dusk and she saw it for the first time since the river.
 
 It was bigger than she remembered. Or she remembered it wrong. On the morning of the flight she'd seen it from below, from the reeds, going up into the sunrise, a shape against fire. Here it lay on the ground in the grey light, and the ground under it was the size of a village green, and it filled it.
 
@@ -33,7 +33,7 @@ Orrun walked out into the ring between two of the stones.
 
 She walked beside him with her hand on his shoulder. She didn't decide to. Her hand was there, and her feet went.
 
-He went toward the head. Slowly. The way she'd gone toward him, on the island, in the autumn, every evening for a month, a step at a time, stopping, waiting, going on. And at ten paces from the great half-shut eye, he stopped, and stood, and then lay down. Front legs first. Chin on his paws. Facing it.
+He went toward the head. Slowly. As she'd gone toward him, on the island, in the autumn, every evening for a month, a step at a time, stopping, waiting, going on. And at ten paces from the great half-shut eye, he stopped, and stood, and then lay down. Front legs first. Chin on his paws. Facing it.
 
 Ten paces. She'd lain at ten paces from him on the island, night after night, in the cold, before he let her come closer.
 
@@ -59,8 +59,6 @@ Not a refusal. Not a turning-away. Nothing. The reaching went out of him and int
 
 *It doesn't hear me,* he said, on the second night.
 
-She didn't say anything.
-
 *Or it hears,* said Orrun, *and there's nobody there.*
 
 On the island, on the night of the locks, he'd learned it didn't know him. She'd felt him learn it, under the hill, with the chains coming off: the cold of it, going through him like a blade. *It doesn't know me.* She'd thought then that it might come, given time. That three hundred years of chains had worn it down to nothing, and that something might grow back.
@@ -79,11 +77,11 @@ The grass where he lay was green.
 
 Not much. Not the grass itself: the blades were grey, like all the grass in the ring, like all the grass in a league. But at the roots, where they went into the ground, close to his body, there was green. A faint green, like the first green on a field after snow. In a ring round him, a few paces across. As if the ground under him had remembered something.
 
-She knelt and looked at it a long time.
+She knelt and looked at it.
 
-That night it had faded. Not gone. Faded, as if the thing on the stones had drawn it out again in the dark. In the morning it was back. A little greener.
+That night it had faded, as if the thing on the stones had drawn it out again in the dark. In the morning it was back. A little greener.
 
-She didn't say anything to him about it. She thought he knew.
+She didn't tell him. She thought he knew.
 
 ---
 
@@ -91,7 +89,7 @@ The tide-reader came on the eightieth day.
 
 She'd seen him. She'd seen him on the Plains, walking beside the last mule with his box, looking at the ground. She'd seen him every evening since she came into the ring, sitting on the rise to the north where the Wardens camped, with a book on his knee, looking down at the clearing. Watching. Writing.
 
-He came down from the rise in the middle of the morning, alone, with a small leather case in his hand and nothing else. He came across the grey grass between the stones, slowly, the way you'd walk up to a horse you didn't know, and stopped twenty paces off. Well short of Orrun. Well short of her.
+He came down from the rise in the middle of the morning, alone, with a small leather case in his hand and nothing else. He came across the grey grass between the stones, slowly, as you'd walk up to a horse you didn't know, and stopped twenty paces off. Well short of Orrun. Well short of her.
 
 He was younger than she'd thought. Thirty, perhaps. Thin, with untidy brown hair and ink on his fingers and a coat that had been good once. He had a plain iron ring on his left hand with two small notches cut in it.
 
@@ -121,11 +119,9 @@ He set it on the grey ground in front of him. The quicksilver lay in the bottom.
 
 "It's drinking it."
 
-"Yes." He looked pleased, as if she'd got a sum right. "Exactly. It's drinking the ground dead. It lies on the stones and draws the Deep in from a league round, from the trees and the grass and the birds, the way a drain draws water. And the stones fill." He nodded at the nearest one. "They're full. Brim-full. The only live ground in the league. And it drinks from them. And the ground goes grey from the stones outward, a hundred and twenty paces a week." He stopped. "I've measured it."
+"Yes." He looked pleased, as if she'd got a sum right. "Exactly. It's drinking the ground dead. It lies on the stones and draws the Deep in from a league round, from the trees and the grass and the birds. And the stones fill." He nodded at the nearest one. "They're full. Brim-full. The only live ground in the league. And it drinks from them. And the ground goes grey from the stones outward, a hundred and twenty paces a week." He stopped. "I've measured it."
 
-She didn't say anything.
-
-Idony Vael looked at the lion, lying at ten paces from the thing on the stones. He looked for a long time. Then he looked at her again, and his face was very polite.
+Idony Vael looked at the lion, lying at ten paces from the thing on the stones. Then he looked at her again, and his face was very polite.
 
 "May I ask you something?"
 
@@ -149,7 +145,7 @@ The quicksilver lifted.
 
 Off the bottom. Up the throat. A finger's breadth. And stayed there.
 
-Idony Vael knelt in the grey grass and looked at it for a long time without saying anything at all. She watched his face. It went very still. Then something came into it, slowly, from underneath, like light coming up through water. Not surprise. Something more like a man who has been looking for a word in a book for a long time and has turned a page and there it is.
+Idony Vael knelt in the grey grass and looked at it without saying anything at all. She watched his face. It went very still. Then something came into it, slowly, from underneath, like light coming up through water. He looked like a man who has been looking for a word in a book for a long time and has turned a page and there it is.
 
 "Yes," he said softly. "Yes. I think he does."
 
@@ -285,7 +281,7 @@ On the eighty-fourth day, when the green dragon had gone, she said, "I'll show y
 
 It was simple. That was the first thing.
 
-Three turns. Round two fingers, the cord going over and under, the way you'd start a net. A twist, back on itself, to lock the turns. And the word. A short word in the clans' tongue, like water going over a stone: you said it on the twist, not before, not after. And all the while, in your head, the asking.
+Three turns. Round two fingers, the cord going over and under, as you'd start a net. A twist, back on itself, to lock the turns. And the word. A short word in the clans' tongue, like water going over a stone: you said it on the twist, not before, not after. And all the while, in your head, the asking.
 
 "What asking?"
 
@@ -303,7 +299,7 @@ She tied the knot.
 
 Three turns, with the hair laid into the cord. A twist. The word, on the twist, the water-over-stone word, and she got it wrong the first time and Hesper said it again for her and she got it nearly right. In her head, the asking. She didn't know what she was asking. She asked anyway. *Where. Which way. What's here.*
 
-She held the knot loose in her palm, the way Hesper showed her.
+She held the knot loose in her palm, as Hesper showed her.
 
 It lay there.
 
@@ -357,7 +353,7 @@ Hesper thought about it.
 
 "Maybe it's the same thing," she said. "Maybe down and the stone and him are all the same thing, here. Maybe that's what it was trying to tell you." She shrugged. "Knots don't explain. They pull. You work out the rest yourself."
 
-Maren held her numb hand in her good one for a long time. The knot lay in the grey grass by Orrun's foreleg, where she'd dropped it. Grey cord with a grey hair in it.
+Maren held her numb hand in her good one. The knot lay in the grey grass by Orrun's foreleg, where she'd dropped it. Grey cord with a grey hair in it.
 
 She picked it up with her left hand and put it in her coat.
 

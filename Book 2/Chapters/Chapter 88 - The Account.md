@@ -11,11 +11,11 @@ Status: first draft
 Draft notes: Days 359–365. Decided here (proposals):
 - Day 359 Calder flies up from the ferry house to the Scarfell; the Titan lies on the high moor above the Coldtarn caves, a league from the hatching caves, on the bare heather under the Scarfell's crags, very still, six in its back; the Clan on the ledges at Varrhold and at the caves, every pair, watching it; nobody goes near. Wren at the caves with Ada and Bel (and Pip and Nan); Ildra at Wren's side; the black and the red still empty-eyed by the spring.
 - Wren: "You came back." "I said I would." "Say it twice." He does.
-- **The five come**, days 360–361 (seen from the caves' mouth and the ledges): the **Antlered** out of the east over the Worldsend's foothills, with the forest walking round it (trees moving on the moor where there are no trees); the **Pale Coil** out of the north-west, frost going ahead of it over the heather, the tarn freezing at its edges as it passes, but not at the warm middle (Book 3 needs Coldtarn never to freeze); the **Furnace** out of the west, the ground smoking where it walks, broken iron still hanging from it; the **Horned Sun** out of the south, light coming off its horn so the moor's night is day for a league; the **Bell**, last, slowest (near midnight 361), out of the sea and up the Wend's valley and over the hills, reef-backed, the bronze bell on its back ringing as it walks. Each comes to the Last Titan and lies down beside it. Six on the moor.
+- **The five come**, days 360–361 (seen from the caves' mouth and the ledges): the **Antlered** out of the east over the Worldsend's foothills, with the forest walking round it (trees moving on the moor where there are no trees); the **Pale Coil** out of the north-west, frost going ahead of it over the heather, the tarn freezing at its edges as it passes, but not at the warm middle (Book 3 needs Coldtarn never to freeze); the **Furnace** out of the west, the ground smoking where it walks, broken iron still hanging from it; the **Horned Sun** out of the south, light coming off its horn so the moor's night is day for a league; the **Bell**, last, slowest (near midnight 361), out of the sea and north over the Ashlings and the Saltreach hills, well east of the river, reef-backed, the bronze bell on its back ringing as it walks. Each comes to the Last Titan and lies down beside it. Six on the moor.
 - The Clan's dragons, every one, lie on the ledges with their heads toward the six and hum, low, all night, both nights; Calder's three with them; Aurveth: *They're not calling us. We're only near enough to hear.* (ch 85 echo).
 - **Day 362 dusk: the six go up**: together, off the moor; the heather flattening for a league; the Clan's dragons silent; the six in the air over the Scarfell, turning; and east, toward the Worldsend; gone into the dark over the mountains. (Idony sees it from the ferry-house door, ch 87.) Wren on the cave ledge with Calder: "Where are they going?" "East." "Will they come back?" He doesn't know; he says so; twice.
 - **Echo**, day 364: Lisska back from the river (sent on the morning of 363 for the reader's pages): the pages in oilcloth on her leg (two and a half sheets of blue-ruled ferry-book paper, his own columns, and on the back of the third, in Liss's hand, the readings of days 360–362 that Idony said aloud to her when she came home and she wrote down); and kin-speech through Orrun: Maren was on the ferry-house jetty at dusk on 362, watching the east, and saw them go; she says to tell Wren she saw it too. Twice. Wren: "She said twice?" *Twice,* says Lisska. Wren is satisfied.
-- **The account**, day 365 (a year from the sunrise of day 0): at Bel's table in the hatching caves (the long table by the warm spring Bel had carried up from the hold in the autumn), with Ada across from him (who wrote the first account while he told it, ch 46) and Wren beside him and the reader's numbers and Maren's letters and Rook's book and the eleven pages and Ada's account on the table in a pile. Ada: "Well. Are you going to tell it, or am I writing it?" Calder: "I'll write it." He takes a clean sheet (the Clan's grey paper; Arn sent a ream from the tally-house) and the pen. **The first line**, in his own hand, big and square and careful: *The dragons came to me on a roof, and I had never asked them for anything.* He looks at it. Ada reads it upside down. She doesn't say anything. She pushes the ink-pot nearer.
+- **The account**, day 365 (a year from the sunrise of day 0): at Bel's table in the hatching caves (the long table by the warm spring Bel had carried up from the hold in the autumn), with Ada across from him (who wrote the first account while he told it, ch 46) and Wren beside him and the reader's numbers and Maren's letters and Rook's book and the eleven pages and Ada's account on the table in a pile. Ada: "Well. Are you going to tell it, or am I writing it?" Calder: "I'll write it." He takes a clean sheet (the Clan's grey paper; Arn sent a ream from the tally-house) and the pen. **The first line**, in his own hand, big and square and careful: *The dragons came to me in a barley field, and I had never asked them for anything.* He looks at it. Ada reads it upside down. She doesn't say anything. She pushes the ink-pot nearer.
 - Maren has already gone back to the river (she's bringing the Marches home with Liss; the ferry runs the other way now).
 Magic touches: none worked; the six together; the Clan's dragons humming; the account.
 notes -->
@@ -122,7 +122,7 @@ The night came back.
 
 And last, slowest, the one with the bell on its back.
 
-Out of the sea. Up the Wend's valley, he heard later, through the Marches, past the fallen hill. Over the hills above Harrow's End. He saw it come over the Scarfell's southern rim near midnight on the second day, after the bright one's light had gone down.
+Out of the sea. North over the Ashlings and the Saltreach hills, he heard later, well east of the river. He saw it come over the Scarfell's southern rim near midnight on the second day, after the bright one's light had gone down.
 
 Reef-backed. Barnacled. The size of an island. With the drowned temple on its back, the grey columns, the broken dome. And in the dome, the bell.
 
@@ -258,7 +258,7 @@ Wren thought about it. Then she nodded, once, very seriously, as Ada nodded when
 
 On the last day of the year he sat down at Bel's table.
 
-A year. From the sunrise on the River Road, a year ago, when he'd walked down it with three dragons behind him and a woman with a lion on the other bank, and Rowan had turned her back.
+A year. From the noon on the River Road, a year ago, when he'd walked down it with three dragons and a woman with a lion behind him, and Rowan had turned her back.
 
 The table was covered.
 
@@ -276,7 +276,7 @@ She looked at the pile. Then at him.
 
 "Well," she said. "Are you going to tell it, or am I writing it?"
 
-Calder looked at the pile for a long time.
+Calder looked at the pile.
 
 "I'll write it," he said.
 
@@ -302,7 +302,7 @@ Big. Square. Careful. As he'd written to Maren a year ago on the back of a page 
 
 One line.
 
-*The dragons came to me on a roof, and I had never asked them for anything.*
+*The dragons came to me in a barley field, and I had never asked them for anything.*
 
 ---
 
@@ -320,4 +320,4 @@ Wren read it too. Slowly. With her finger. She was learning. She got to the end 
 
 He read it again.
 
-Then he dipped the pen, and wrote the next line.
+Then he dipped the pen, and sat with it over the paper a long time.

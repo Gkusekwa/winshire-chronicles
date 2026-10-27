@@ -29,7 +29,7 @@ A Corsa boat had come in on the morning tide. Fast. With the news. The Council h
 
 They were on their roofs when the Clan came in over the spit.
 
-Calder saw them from Kharrak's back. Every white cross had somebody standing on it. Looking up. Not waving. Watching the flights come down along the shingle, pair after pair, red and grey, onto the stones between the smoke-houses and the sea.
+Calder saw them from Kharrak's back. Every white cross had somebody standing on it. Looking up. Watching the flights come down along the shingle, pair after pair, red and grey, onto the stones between the smoke-houses and the sea.
 
 ---
 
@@ -211,7 +211,7 @@ Ivar Leck said so, and let her fly. Short. Once round the harbour and down. She 
 
 *You know a little,* said Aurveth. *Lie down.*
 
-He lay down on the stones against her side with his hand behind her jaw, where her neck plates met, and she opened it for him a little. Not the deep sight. Not all of it. A crack. Enough.
+He lay down on the stones against her side with his hand behind her jaw, where her neck plates met, and she opened it for him a little. Not the deep sight. A crack. Enough.
 
 The breath. Under the Bell. Quick now. In, held, out. In. Held. Out.
 
@@ -255,7 +255,7 @@ He folded it and put it in his coat with the others. Her answer page. The five-l
 
 The stir came that night.
 
-He was asleep against Aurveth on the shingle. She woke him. Not with a word. She lifted her head, and he felt it through her before he was awake: something coming up under the sea. All at once. Everywhere.
+He was asleep against Aurveth on the shingle. She woke him. She lifted her head, and he felt it through her before he was awake: something coming up under the sea. All at once. Everywhere.
 
 Then the shouting started.
 
@@ -295,7 +295,7 @@ Ada was beside him. In her nightgown, with her shawl. She'd come down from the A
 
 "What does that mean?"
 
-"It means it's coming," said Calder. "The big one. The one with the others in its back." He looked out at the bay, at the fleet glowing in the dark. "It came up like this at Vael the night before. And at the Scald."
+"It means it's coming," said Calder. "The big one. The one with the others in its back." He looked out at the bay, at the fleet glowing in the dark. "It came up like this at Vael, after. I saw the sky go white from a long way off. And at the Scald, through her."
 
 ---
 

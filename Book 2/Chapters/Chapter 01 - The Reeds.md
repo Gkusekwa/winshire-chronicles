@@ -41,7 +41,7 @@ There was blood in his mane, some of it his. She hadn't asked him where it came 
 
 The farmer was talking.
 
-He sat against the green dragon a few paces off, with his knees up and his arms on them, and he talked, low, steadily, the way a man talks to frightened stock. Not to her. She heard only his half.
+He sat against the green dragon a few paces off, with his knees up and his arms on them, and he talked, low, steadily, as a man talks to frightened stock. Not to her. She heard only his half.
 
 "No. Lie still. You can't, you know you can't, you'll open it again." A pause. "I know. I know it does." A longer one. "Because I'm not having you walk on it till somebody's looked. That's why." He put a hand back without looking and laid it flat on the green dragon's neck, and the green dragon stopped shaking for as long as the hand was there. "No, he's not. Kharrak. Kharrak, leave her be, she's not going anywhere. Neither are you." He listened. Something in his face moved. "Well, I don't know that. Nobody knows that."
 
@@ -81,7 +81,7 @@ On both banks the world was beginning to move again.
 
 It started on the Saltreach side. All night there had been an army on the hill above Harrow's End, thousands, with the ring of six on its banners and its boats drawn up along the Eelweir. When the Titan's shadow went over they had gone flat in the mud, all of them, like barley under hail. Now, a man at a time, they were getting up.
 
-Nobody was telling them to. She watched for it, out of eight winters' habit on the river: the horn, the runner, the banner dipping to call the companies in. It didn't come. The men stood up and looked at the hole in the river, and at each other, and at the empty sky in the north-east, and then a pair of them turned and walked away north along the Drover's Way, not fast, the way men walk home from a fair. Then a dozen. Then a whole company, with its banner rolled on its pole and carried like a hoe. A boat at the Eelweir slipped its rope and went round once in the eddy and out into the current, and nobody on the bank went after it.
+Nobody was telling them to. She watched for it, out of eight winters' habit on the river: the horn, the runner, the banner dipping to call the companies in. It didn't come. The men stood up and looked at the hole in the river, and at each other, and at the empty sky in the north-east, and then a pair of them turned and walked away north along the Drover's Way, not fast, like men walking home from a fair. Then a dozen. Then a whole company, with its banner rolled on its pole and carried like a hoe. A boat at the Eelweir slipped its rope and went round once in the eddy and out into the current, and nobody on the bank went after it.
 
 "They're going," said the farmer.
 
@@ -131,7 +131,7 @@ A long bowshot from the reeds, the greyharts stopped.
 
 They didn't balk. They stopped, all of them at once, as if they'd come to the edge of a cliff only they could see. They stood with their great heads up and their nostrils wide, shivering in long ripples from shoulder to haunch, and when their riders put heels to them they didn't move. One of them went back on its haunches and had to be held. Up and down the column the hounds lay down in the wet grass with their bellies flat and their eyes on the reeds, and stayed down.
 
-They smelled the lion. Four days ago, from Hollin Knowe, she'd watched a column's greyharts catch his scent on a west wind and stop like this, and she had turned back. She remembered that, and didn't turn back.
+They smelled the lion. Three days ago, from a hedge below Hollin Knowe, she'd watched a column's greyharts catch his scent on a west wind and stop like this, and she had turned back. She remembered that, and didn't turn back.
 
 The knights got down. They did it the way they did everything, in order, by the files, and walked the last of the way leading their beasts, and the beasts came, because their knights asked them. A hound got up when its knight looked at it. A falcon came down out of the sky to the fist that rose for it. All along the line, on ground where not one lamp in a league would light, the bonds held. She saw it and understood it at the same moment, the way she'd understood things through Orrun all night: a bond wasn't the thing that had gone out of the ground. A bond had never come from the ground at all.
 
@@ -209,7 +209,7 @@ There were eleven in the row. Students and knights and grooms. The Restoration's
 
 The two licensed surgeons were working down the row on their knees.
 
-She knew the old one, who was at Greyhold behind the barricade, or had been. These were the young ones: Hallard, who had a beard, and Aske, who didn't, and who couldn't have been more than twenty-five. She had watched Aske in the infirmary in the autumn set a groom's wrist with three words and his hands, the bone grating once and then lying straight, and the groom laughing with relief before the pain had even gone. Licensed words. Knitting and stanching. Every surgeon who trained at Hallowmere took the licence and the words with it, and the words had worked for three hundred years.
+She knew the old one, who was at Greyhold behind the barricade, or had been. These were the young ones: Hallard, who had a beard, and Aske, who didn't, and who couldn't have been more than twenty-five. She had watched Aske in the infirmary in the autumn set a groom's wrist with three words and his hands, the bone grating once and then lying straight, and the groom laughing with relief before the pain had even gone. Licensed words. Knitting and stanching. Every surgeon who trained at Hallowmere took the licence and the words with it, and the words had worked for three hundred years, until this winter.
 
 Aske was on his knees by a man in a groom's jerkin with his thigh laid open. It was a spear-cut, long and deep, and somebody had tied it off above the knee in the night, and the binding had slipped, and the grass under him was dark.
 
@@ -235,7 +235,7 @@ Aske knelt there. He didn't take his hands away. Then he did, and looked at them
 
 She'd never heard it said. She found she knew exactly what it meant.
 
-She'd felt it go. On the shore at sunrise, with her hand on Orrun's shoulder, she'd felt the thing that had been under Hearthmere all her life, warm and humming, the thing under the island and under the archive and behind the black door, go draining away north-east after a speck in the sky, the way a flood goes back off the fields and leaves only mud. She'd felt it through Orrun. And now she stood on the bank where she'd stood her first watch, and put her weight on her feet, and listened with whatever it was in her that had learned in the night to listen through him.
+She'd felt it go. On the shore at sunrise, with her hand on Orrun's shoulder, she'd felt the thing that had been under Hearthmere all her life, warm and humming, the thing under the island and under the archive and behind the black door, go draining away north-east after a speck in the sky, as a flood goes back off the fields and leaves only mud. She'd felt it through Orrun. And now she stood on the bank where she'd stood her first watch, and put her weight on her feet, and listened with whatever it was in her that had learned in the night to listen through him.
 
 Nothing. Not quiet: quiet had something in it. This had nothing. Under her boots the ground lay there like a cart with the horse gone out of the traces.
 
@@ -269,7 +269,7 @@ The army that had stood on the hill above Harrow's End all night was gone, north
 
 The farmer was standing at the water's edge when she came back.
 
-He'd got the old dragon up. She stood on three legs with the torn wing folded as far as it would go, which wasn't far, and the red one's shoulder under her chest on the wounded side, holding her up the way a man holds a drunk friend up outside a tavern, all his weight leant in. The green one walked round and round them both, anxious, getting in the way.
+He'd got the old dragon up. She stood on three legs with the torn wing folded as far as it would go, which wasn't far, and the red one's shoulder under her chest on the wounded side, holding her up like a man holding a drunk friend up outside a tavern, all his weight leant in. The green one walked round and round them both, anxious, getting in the way.
 
 "She can't fly," the farmer said. He said it to Maren, this time. "She won't be able to fly. Not for a long while. She's saying she can, and she can't."
 
@@ -287,7 +287,7 @@ They both looked up the rise, at the line of knights holding the bank, and at Ro
 
 "She'll look the other way while you do it. It's the most she can do."
 
-He thought about that. Then he nodded, the same nod he'd given her in the sunrise, as if something had been decided that he hadn't decided and he found he agreed with it.
+He thought about that. Then he nodded, the same nod he'd given her in the sunrise.
 
 "Down your road, then," he said. To the dragons. "No, slowly. We're going slowly. There's no hurry now." He listened. "Because it's gone, that's why. There's nothing left to hurry for." He put his hand on the old dragon's neck. "Lean on him. Lean. He doesn't mind. He'll tell you he minds, and he doesn't."
 
@@ -295,6 +295,6 @@ They went up off the shore onto the River Road, the farmer at the bronze dragon'
 
 At the foot of the tower Rowan stood with her back to the road, talking to Corbet about the wain, and didn't turn round.
 
-The noon sun stood over the river. Down at Greyhold, she knew, the bell would be wanting to ring. She listened for it as they walked, out of two years' habit, the way she'd listen for her own name in a crowd.
+The noon sun stood over the river. Down at Greyhold, she knew, the bell would be wanting to ring. She listened for it as they walked, out of two years' habit, as she'd listen for her own name in a crowd.
 
 Under her boots the ground said nothing at all.

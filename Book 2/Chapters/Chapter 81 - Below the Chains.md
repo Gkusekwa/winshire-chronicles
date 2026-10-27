@@ -71,7 +71,7 @@ A man with his arms held against his body.
 
 A tall thin man in black, very still.
 
-And in front of the shut place, with a lantern in his hand, a grey-haired man on a piece of spar.
+And in front of the shut place, with a lantern in his hand, a thin man on a piece of spar.
 
 ---
 
@@ -101,7 +101,7 @@ As if the thing above, pressing down on the hill, was pressing the words up out 
 
 To Idony. Quietly. He hadn't seen her yet. Or he had, and didn't look round.
 
-Idony held the lantern up. He didn't need it. The stone was bright enough to read by. He held it up anyway, as he'd held a lamp up to every carving she'd ever seen him read. His hand was shaking. The light shook on the stone.
+Idony held the lantern up. He didn't need it. The stone was bright enough to read by. He held it up anyway, as he'd held a lamp up to every carving she'd ever seen him read. The cavern was shaking. The light shook on the stone.
 
 He put his finger on the outer ring.
 

@@ -3,18 +3,18 @@
 <!-- notes
 POV: Maren
 Part: Part Five: The Sun Stair
-Days: 290–305 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
+Days: 287–305 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Sun Road; Solenne
 Beats: South-west by the pilgrim road. In the bond-kingdom an ancient lion's bond is the highest rank there is, and people kneel to the woman who stood at the back of every line. Tobin is sent round to the servants' gate, and Maren goes with him. At every stage-chapel on the pilgrim road the evening liturgy is sung to **the Sun on the Stair**, "who lit the first lamp and gave it to the crown" *(plant for Book 3: the Lamp)*. Idony goes to court on his own errand: Dane is there selling chain-craft, and Corvin is a guest.
 Echo of the other's story: A Saltreach sea captain at an inn: the dragon farmer brought down a Council house.
 Status: first draft
-Draft notes: Days 290–305. Decided here (proposals):
-- Leaving the Scald, day 290: Idony's glasses have shown the Titan's ring of dots over the Western Deep break on day 287 and swing in toward the south-west coast; on day 290 it's coming in over Sarovel's shore. Pike says goodbye at the gate without looking up from a drawing ("Send me the day, if you have it"); Moss gives Orrun a new paper, "for Sarovel, for what it's worth"; Lisska went east on 284.
-- Route: south on the Iron Road to the Hearthmere border, then south-west across the dead edge of Hearthmere's western downs to Highcrest in the Sunward Hills, where they join **the Sun Road** (the pilgrim and wine road, Solenne to Hallowmere) and go down it south-west to Solenne: about twelve days. Sarovel's ground is live and bright, almost too bright: the Grace. Orrun feels it as sweetness.
+Draft notes: Days 287–305. Decided here (proposals):
+- Leaving the Scald, day 287: Idony's glasses show the Titan's ring of dots over the Western Deep break that morning and swing in toward the south-west coast; they leave the same day, and on day 290 the glasses show it coming in over Sarovel's shore. Pike says goodbye at the gate without looking up from a drawing ("Send me the day, if you have it"); Moss gives Orrun a new paper, "for Sarovel, for what it's worth"; Lisska went east on 284.
+- Route: south on the Iron Road to the Hearthmere border, on an Office steam-wagon Moss finds them, with Orrun pacing alongside; then south-west across the dead edge of Hearthmere's western downs to Highcrest in the Sunward Hills, where they join **the Sun Road** (the pilgrim and wine road, Solenne to Hallowmere) and go down it south-west to Solenne: about thirteen days. Sarovel's ground is live and bright, almost too bright: the Grace. Orrun feels it as sweetness.
 - The stage-houses: every half-day's walk, a stage-house with a beast-stable grander than the house (the bonded travel with their beasts), and a small domed stage-chapel of white limestone with a gilded sun over the door. At dusk the liturgy, sung by the stage-keeper and whoever's there: *Praise to the Sun on the Stair, / who lit the first lamp / and gave it to the crown, / and keeps it burning / while the crown keeps faith.* (Plant: the Lamp.)
-- Rank: at the first stage-house below Highcrest (day 296) the keeper sees Orrun and goes down on both knees in the yard; then everyone. An ancient lion's bond: higher than a unicorn's (the Bond-King's), higher than any noble's; "the Lion of the old songs". They offer Maren the best room and the beast-stable's gilded stall for Orrun (he doesn't fit). Tobin, unbonded, is sent round to the servants' gate by a groom without a word. Maren goes with him. They eat in the servants' kitchen with the unchosen grooms and stable-hands (mud-brick quarter people, who keep the beast-stables). After that she uses the servants' gate at every stage. People kneel to her in the yards anyway; she doesn't stop them; she doesn't stop going in at the servants' gate.
+- Rank: at the first stage-house below Highcrest (day 292) the keeper sees Orrun and goes down on both knees in the yard; then everyone. An ancient lion's bond: higher than a unicorn's (the Bond-King's), higher than any noble's; "the Lion of the old songs". They offer Maren the best room and the beast-stable's gilded stall for Orrun (he doesn't fit). Tobin, unbonded, is sent round to the servants' gate by a groom without a word. Maren goes with him. They eat in the servants' kitchen with the unchosen grooms and stable-hands (mud-brick quarter people, who keep the beast-stables). After that she uses the servants' gate at every stage. People kneel to her in the yards anyway; she doesn't stop them; she doesn't stop going in at the servants' gate.
 - She thinks of Greyhold's yard: the back of every line; the late-oath candidates' lists with her name at the bottom.
-- Idony's errand (he tells her at Highcrest, day 297): at Highcrest a court messenger is looking for "the Kessmoor measurer": the Lady Aurel has asked the Bond-King's household to find him and bring him to court; the household wants a reader for the royal collars, which are cracking. Idony will go: Dane is at court selling the College's chain-craft to the Bond-King (the second-cage idea, for Sarovel's own beasts); Corvin is a guest of the Lady Aurel's house with the roll. "If the man who has the roll is going to show it to somebody, I want to be in the room. And the Titan's coming here. My glasses need to be near the stair." Maren: "He wants you." "I know. That's why I can get in."
+- Idony's errand (he tells her at the last stage-house above the Gilt, day 298; they halt there on 297–298): there a court messenger is looking for "the Kessmoor measurer": the Lady Aurel has asked the Bond-King's household to find him and bring him to court; the household wants a reader for the royal collars, which are cracking. Idony will go: Dane is at court selling the College's chain-craft to the Bond-King (the second-cage idea, for Sarovel's own beasts); Corvin is a guest of the Lady Aurel's house with the roll. "If the man who has the roll is going to show it to somebody, I want to be in the room. And the Titan's coming here. My glasses need to be near the stair." Maren: "He wants you." "I know. That's why I can get in."
 - Day 300 they part at Solenne's landward gate: Idony in a court carriage the household sends; Maren, Tobin and Orrun to the low quarter (mud-brick, below the walls), where the unchosen live, and a stable built for a horse that Orrun lies outside of with his head in. Maren sees Solenne from the hill: white limestone on a curving bay, domes, the palace on the cliff with its long stair down to the sea, the Sunward Hills behind.
 - Echo (day 302, a wine-inn in the low quarter): a Saltreach sea captain, drunk and loud, telling the room the dragon farmer from the Marches brought down a Council house at Corsa: walked into the Tidehall with three dragons on the steps and a red book, and the Halloran house fell before noon, and the fat factor ran off on the morning tide. Maren doesn't turn round.
 - Days 302–305: the royal unicorn seen on a feast-day on the palace stair (lean, deer-boned, silver-grey chalked white for the feast, gilded horn, a gold collar, the Bond-King on it, its eyes empty): opens ch 57. Maren decides to go out to the Elderwood (a day's walk north of the city) where the wild unicorns are, because Orrun wants to: "Kin. Far kin. They are frightened."
@@ -34,8 +34,6 @@ Then it had stopped going round.
 "The Sun Stair."
 
 "Within the month," said Idony. "I told her within the month."
-
-On the two-hundred-and-ninetieth day it came in over the shore.
 
 ---
 
@@ -61,13 +59,15 @@ Moss nodded. He looked at her for a moment with his dry face.
 
 ---
 
-South on the Iron Road, to the border. Then off it. South-west, across the western edge of Hearthmere.
+South on the Iron Road, to the border, on an Office steam-wagon Moss had found them, with Orrun pacing alongside. Then off it. South-west, across the western edge of Hearthmere.
 
 Dead. Grey. She'd known it would be. Downs that should have been green in a mild winter and were the colour of old ash. Farms with nobody in them. A village with its doors open and snow in the rooms, like Orrin's ruins. Orrun walked through it with his head low and didn't speak for two days.
 
 She thought of her mother. Of the river. Of Greyhold, a long way east, on its hill, dead like this.
 
 She didn't say anything either.
+
+On the two-hundred-and-ninetieth day, on the downs, Idony's glasses showed the Titan come in over the shore.
 
 Then the hills began. Low, then higher. And on the fifth day, on the slope of the first real hill, Orrun stopped.
 
@@ -107,7 +107,7 @@ A long low house of white limestone with a red-tiled roof, round a courtyard. An
 
 Beside the house, a chapel. Small. Domed. White. With a gilded sun over its door.
 
-They came into the courtyard at dusk on the two-hundred-and-ninety-sixth day.
+They came into the courtyard at dusk on the two-hundred-and-ninety-second day.
 
 The stage-keeper came out of the house. A stout man with an apron and a cloth over his shoulder. He saw Orrun.
 
@@ -245,7 +245,7 @@ At every chapel, at every dusk, the liturgy.
 
 ---
 
-Idony told her at Highcrest.
+Idony told her at the stage-house above the Gilt.
 
 They'd stopped there two nights, on the two-hundred-and-ninety-seventh and -eighth, because Orrun needed it: the sweetness, he said, was like walking all day in a bee-hive. And on the second evening a man came to the stage-house in the livery of the Bond-King's household, gold and white, on a horse, asking for the Kessmoor measurer.
 

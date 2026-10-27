@@ -18,7 +18,7 @@ Draft notes: Day 353. Decided here (proposals):
 - **Down**: Liss's lamp; the stair goes down in long straight flights with landings; the walls carved in rings of hooked script; she reads words with Idony's list: *keeper*, *below*, *door*, *together*; on a landing the six carved again with the lion at the door; the air warm; the held breath's pull through Orrun; far below, once, lamplight, and a voice: Idony's, reading something aloud; then gone.
 - **Lost**: the stair opens into a warren: a hall with seven ways out, all going down; Orrun can feel the held breath but all seven go toward it; the boot-prints go into all of them (Corvin split his party to lose her: Callis's idea); she takes one; it turns, branches; water on the floor, then running: a stream through the old ways (running water: Orrun's earth thins under it); the lamp gutters in the draught off it and goes out; dark.
 - In the dark: Orrun's breath; the warmth; the stone humming; through Orrun, far above, the Titan coming: a weight in the sky. She sits with her back to his side in the dark and relights the lamp with Ada's hearth-word (two fingers, three turns; it takes, on old stone, through Orrun: small, costly: her fingers go numb). They go on. They don't find them.
-- End: she understands Corvin's "come down after us": he wanted her lost down here, out of the way, while the Titan came; or he wanted her at the vault after. She doesn't know which. Orrun: *We go up. When the light comes. And down again by our own door.* (Ch 79.)
+- End: she thinks of Corvin's "so you'd stand aside" on the shingle: he wanted her lost down here, out of the way, while the Titan came; or he wanted her at the vault after. She doesn't know which. Orrun: *We go up. When the light comes. And down again by our own door.* (Ch 79.)
 Magic touches: the old stair (made for the door-keepers); hooked script read with a word-list; running water under the old ways thinning Orrun's earth; the hearth-word on old stone through Orrun (small, costly).
 notes -->
 
@@ -68,7 +68,7 @@ She stood on the wall and watched them for as long as she could spare. She could
 
 Orrun lifted his head.
 
-Beside her on the wall walk. Not looking south. Looking up. At nothing. At the grey sky over the downs, to the south-west.
+Beside her on the wall walk. Looking up. At nothing. At the grey sky over the downs, to the south-west.
 
 *It has stood up,* he said.
 
@@ -126,7 +126,7 @@ He brought it up the jetty road with a jar of oil under his arm and put both in 
 
 "I will."
 
-"She says it twice," said Tam. He looked at her. Then he put his black hand on her shoulder for a moment, hard, like a blow, and went back down to the forge.
+Tam looked at her. Then he put his black hand on her shoulder for a moment, hard, like a blow, and went back down to the forge.
 
 ---
 
@@ -136,7 +136,7 @@ Outside the west wall. Where the hill went down in a long slope of rough grass t
 
 One stone.
 
-Plain. Grey. A groom's work, the letters cut a little crooked. GARRAN VALE. Nothing else. Not a date. Not *knight*. Not a word.
+Plain. Grey. A groom's work, the letters cut a little crooked. GARRAN VALE. Nothing else. Not a date. Not *knight*.
 
 And beside it, the slab.
 
@@ -164,7 +164,7 @@ The turf round the cut was trampled. Boot-prints. Many. A drag-mark, as of a hur
 
 Orrun stood at the stair's head.
 
-He put his head down into the cut. Then his shoulders. He stood there half in and half out of the earth with his mane brushing the roof and was quiet for a long time.
+He put his head down into the cut. Then his shoulders. He stood there half in and half out of the earth with his mane brushing the roof and was quiet.
 
 *I know this stair,* he said.
 
@@ -216,13 +216,13 @@ Lying down. With its head up.
 
 Orrun stopped and looked at it.
 
-He didn't say anything. He looked at it for a long time in the light of Liss's lamp. Then he went on down.
+He stood a while in the light of Liss's lamp. Then he went on down.
 
 ---
 
 It got warmer.
 
-Every flight. She took her coat off on the eighth landing and carried it. The air coming up the stair from below was warm, and still, and smelled of nothing. Not damp. Not earth. Like the air in a room where someone has been asleep for a long time.
+Every flight. She took her coat off on the eighth landing and carried it. The air coming up the stair from below was warm, and still, and smelled of nothing. Like the air in a room where someone has been asleep for a long time.
 
 The walls hummed.
 
@@ -370,9 +370,9 @@ She stopped in a small round chamber at a meeting of four ways.
 
 Carved, like all of it. Rings of the hooked script. Warm. Humming. She sat down against the wall with Liss's lamp beside her and her numb hands in her lap.
 
-*Come down after us,* he'd said. On the shingle. *I'd rather she was there too.*
+*So you'd stand aside,* he'd said. On the shingle. *I wanted you to know.*
 
-She didn't know which he'd meant. That he wanted her lost down here in the dark, out of his way, while the big one came. Or that he wanted her at the vault when he got there. With the lion. At the door.
+She didn't know what he'd wanted. Her lost down here in the dark, out of his way, while the big one came. Or her at the vault when he got there. With the lion. At the door.
 
 She didn't know which was worse.
 

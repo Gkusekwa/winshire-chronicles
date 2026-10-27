@@ -33,13 +33,13 @@ Then the air.
 
 Two days of it. North over the Saltings and the scrub of the Ashlings, low, fast, with the wind tearing at his coat and his back screaming at every wingbeat. Down at noon in the scrub to rest the beasts. Up. Down at dusk. He lay on the ground both nights and didn't sleep, and couldn't stand in the mornings, and they lifted him back into the harness like a sack.
 
-On the third day at dusk they came down in a wood.
+On the second day at dusk they came down in a wood.
 
 ---
 
 The Brackenwood.
 
-A royal hunting ground, Callis said. Beside Greyhold. A day's walk from the river wall. Oak and holly and bracken, brown with winter, and in a hollow among the oaks, a camp.
+A royal hunting ground, Callis said. Beside Greyhold. An hour's walk from the river wall. Oak and holly and bracken, brown with winter, and in a hollow among the oaks, a camp.
 
 Forty men. Rings on their fingers, iron. Broken men, with old Restoration coats and no banner. Five binders with their pots. A pen of oxen made of hurdles, the oxen standing in it with their heads low and nothing in their eyes. Horses. A pile of Saltreach gold in a cloth on a stump, with a man sitting beside it with a crossbow.
 
@@ -59,7 +59,7 @@ Ten men on the gate, he said. Crown men, not knights. Watching the river. Watchi
 
 They came back before dawn with it on a hurdle.
 
-Still in its chains. He didn't look. He heard Corvin get up from the fire and go to it, and stand there, and not say anything for a long time.
+Still in its chains. He didn't look. He heard Corvin get up from the fire and go to it, and stand there, and not say anything.
 
 ---
 
@@ -205,7 +205,7 @@ She came at moonrise.
 
 Along the shingle bar. From downriver. On foot. Alone.
 
-No knights. No lanterns. He saw her small and dark against the pale stones, walking, with the river on her left and the moon coming up over the Saltreach bank on her right.
+No knights. No lanterns. He saw her small and dark against the pale stones, walking, with the river on her right, and the moon coming up over the Saltreach bank beyond it.
 
 And behind her, the lion.
 
@@ -237,7 +237,7 @@ Then back at Corvin.
 
 He told her.
 
-Plainly. As he'd told Idony on the deck in the dark. Quietly. Without raising his voice.
+Plainly. As he'd told Idony on the deck in the dark. Quietly.
 
 "It has five," he said. "In its back. You've seen them go in. It's coming home. Here. Tomorrow, or the next day. The reader's glasses say so."
 
@@ -279,9 +279,9 @@ He looked at the fire.
 
 She looked at Idony.
 
-For a long time. He looked back. He knew what she was seeing. He'd seen it himself in the brass of the stern-cabin lamp. Thinner. Grey all through now, not just at the temples. No stick. Held up by a piece of spar. The brown robe of a hand, still, under his winter coat, filthy from the wyvern.
+For a long time. He looked back. He knew what she was seeing. He'd seen it himself in the brass of the stern-cabin lamp. Thinner. Grey at the temples, as he'd been at the Sun Stair. No stick. Held up by a piece of spar. The brown robe of a hand, still, under his winter coat, filthy from the wyvern.
 
-She looked at his hands. On the spar. Shaking.
+She looked at his hands. On the spar. Blue with cold.
 
 Then at Corvin. Three paces from her. With one good arm.
 

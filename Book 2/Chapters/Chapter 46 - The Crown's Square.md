@@ -10,7 +10,7 @@ Echo of the other's story: A knight's rumour: Kessmoor is going to cage a Titan.
 Status: first draft
 Draft notes: Days 190–204 in summary; day 205 noon to dusk. Decided here (proposals):
 - Days 190–203 at Varrhold: Ada writes the account at Bel's table in the hold kitchen while Calder tells it, eleven days, on paper Arn gets from the Clan's tally-house: who paid, from the mint-book and Rook's book; what Calder saw (the ford, the Fleece, Cotter's Cross, the mint, the camp, Vael); the refugees from the Saltreach bank; and the Clan's offer, which Arn and Ulric make together at the hall's two hearths: if the crown stops driving the river folk back over the Wend, the Clan will send grain and mutton down the Way to the Marches all winter, on both banks. Twenty-two pages in Ada's hand, with Calder's own name at the end, which he writes himself: CALDER FENN, the D the right way round now.
-- Day 205: off the setters' ledge at dawn, six hours south and east over the Marches and the Brackenwood and the dead country to Hallowmere; Lisska with them (she'll leave for the Scald on d.228: flight 3).
+- Day 205: off the setters' ledge at dawn, six hours south and west over the Marches and the Brackenwood and the dead country to Hallowmere; Lisska with them (she'll leave for the Scald on d.228: flight 3).
 - Hallowmere from the air: grey stone and slate in terraces down to the Mere; every lamp in the better streets glass now, black; the Mere grey and low; smoke from cookfires, tallow; the palace a long hall of chapter-houses along the top terrace with a paved square before it: the Crown's Square, with the crown's own chapter-house at its head, steps, and a dead lamp on a post at each corner.
 - Noon, the council in session (it sits at noon, from habit; the noon bell in Hallowmere rings and nobody faces anything any more). Kharrak lands in the square; the guards run; the people in the square don't (they've nothing left to run from); Lisska on the dead lamp-post at the square's west corner.
 - The council comes out on the steps: the President of the Council, **Lord Ambrose Thale** (named Thale, not Hesketh: Book 1 ch 32 has a Hesketh) (old, thin, careful, a chain of office), a dozen councillors of the orders in their colours, clerks, guards with crossbows that won't shoot a dragon. Calder doesn't get down off Kharrak until Thale asks him to.
@@ -126,7 +126,7 @@ He went on the two-hundred-and-fifth day.
 
 Off the setters' ledge at dawn. Kharrak under him and Lisska ahead. Aurveth lifted her head from the warm stone as they went and watched them go and didn't say anything. He felt her watching till they were over the Scarfell's edge.
 
-South and east. Over the Marches, brown still where the flood had been, the water-meadows gone to mud and wrack. Over the Wend, grey, back inside its banks. Over the Brackenwood, the royal forest by Greyhold, black and bare. Then the dead country.
+South and west. Over the Marches, brown still where the flood had been, the water-meadows gone to mud and wrack. Over the Wend, grey, back inside its banks. Over the Brackenwood, the royal forest by Greyhold, black and bare. Then the dead country.
 
 He felt it under them all morning. Hearthmere. Grey. Fields that had been sown and hadn't come up. Villages with no smoke. A road with nobody on it.
 
@@ -260,7 +260,7 @@ Not a councillor. From behind them, from among the guards at the back. A woman. 
 
 Beside the dragon.
 
-Calder knew her. He'd last seen her in the yard at Greyhold on the day of the gate. She'd turned her back.
+Calder knew her. He'd last seen her on the River Road below Greyhold, the morning after the gate. She'd turned her face away.
 
 "Sir Rowan," said Thale, from the top of the steps. Something in his voice had changed. "You have business with the council?"
 
@@ -292,7 +292,7 @@ She still hadn't looked at him.
 
 "I can read it," said somebody in the crowd.
 
-A boy. Not a boy. Seventeen, perhaps. Thin, like all of them, with a clerk's ink on his cuffs and a cap too big for him. He'd pushed through to the front of the crowd behind Calder and was standing there, looking at the grey paper in Calder's hands.
+A boy. Seventeen, perhaps. Thin, like all of them, with a clerk's ink on his cuffs and a cap too big for him. He'd pushed through to the front of the crowd behind Calder and was standing there, looking at the grey paper in Calder's hands.
 
 "I can read it," he said again. Louder. To the square. "If nobody up there will. I can read it out." He looked at Calder. "I used to read the papers. On the jetty at Millbrook. For the ones that couldn't."
 
@@ -312,7 +312,7 @@ And he read it.
 
 All of it. All twenty-two pages.
 
-It took more than an hour. He read slowly, and loud, and clear, the way a man reads something he wants every word of heard. He read the mint-book's lines, word for word, with the page they were on. He read Rook's ledger. *Saltreach silver, new.* He read the ford, and the Fleece, and the coins with the ring of six, and the cellar on Mint Lane. He read the river folk. *Who burned them out? The companies. Paid with what?* He read Ada's plain sentences in his loud clear voice, and the crowd listened.
+It took more than an hour. He read slowly, and loud, and clear, as a man reads something he wants every word of heard. He read the mint-book's lines, word for word, with the page they were on. He read Rook's ledger. *Saltreach silver, new.* He read the ford, and the Fleece, and the coins with the ring of six, and the cellar on Mint Lane. He read the river folk. *Who burned them out? The companies. Paid with what?* He read Ada's plain sentences in his loud clear voice, and the crowd listened.
 
 It grew. Calder felt it. People coming into the square from the streets below. Up the terraces. More, and more. Standing on the edges of the dead lamps' plinths to see. Standing on each other's shoulders. Children on their fathers' backs. The old man with the licence pinned to his coat, standing at the front with his mouth open.
 
@@ -342,7 +342,7 @@ At dusk the carved doors opened and Thale came out alone onto the top step with 
 
 "The council has considered the account of Calder Fenn," he said. His thin voice carried over the square. "It has found the matter of the river folk to be as he says." He looked at the paper. "The order of the spring for the return of Saltreach folk over the Wend is lifted. Pending." A pause. "The council accepts the Dragon Clan's offer of grain for the Marches, with thanks. The matter of the Halloran house is referred to the Tide Council at Corsa, whose member it is."
 
-A sound went through the crowd. Not a cheer. Something lower. Like a held breath going out.
+A sound went through the crowd, lower than a cheer. Like a held breath going out.
 
 "They'll burn the paper," said Calder. From the bottom step. Not loudly. "At Corsa. They'll burn it."
 
@@ -378,7 +378,7 @@ Two of Rowan's knights, at the edge of the square, by the brazier. Talking low. 
 
 "Who says?"
 
-"The envoy. The crown's man that went to Ironhythe for the chain. He came back through the Downs last week and stopped at our fire." The knight looked at the brazier. "He says Kessmoor's going to cage it. When the thing under the ground comes up. They've been building a cage forty years. Iron and cold water, and some engine nobody'll talk about." He shook his head. "He says it'll hold. He says they're sure."
+"The envoy. The crown's man that went to Ironhythe for the chain. He came back by the steam wagons and then the carts, ahead of his chain, two nights since, and stopped at our fire on his way up to the palace." The knight looked at the brazier. "He says Kessmoor's going to cage it. When the thing under the ground comes up. They've been building a cage forty years. Iron and cold water, and some engine nobody'll talk about." He shook his head. "He says it'll hold. He says they're sure."
 
 "They were sure at the Ring," said the one with the sling.
 

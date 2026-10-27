@@ -13,8 +13,8 @@ Draft notes: Days 330–334. Decided here (proposals):
 - **Idony's numbers in his own hand**: on the way, at the Anchor-and-Net the night before, Calder copies out on one sheet the reader's numbers from Maren's letters and his memory of the frost, as a table in big letters: THE RING: RELIC MIDSUMMER. WOKE 7 DAYS. / VAEL: RELIC DAY 172. WOKE 5 DAYS. / THE SCALD: RELIC DAY 233. WOKE 5 DAYS. / THE SUN STAIR: RELIC DAY 315. WOKE 2 DAYS. / EVERY TIME SOONER. And under: THE BELL: WITHIN THE MONTH. THEN SAME DAY OR NEXT. Ada checks the arithmetic.
 - Day 331 the Council in the great room: Marrow presiding; the Strand member (the soft-voiced man in green from ch 49, named here **Master Aubrey Strand**; Lucan and Joss avoided as taken names); Vey sitting at the captains' end in grey gloves; the Halloran chair empty. Calder lays the sheet on the long black table and reads it himself, slowly, aloud, every line. Then: the spit; four hundred and twelve marked roofs; the Clan's forty baskets; what Kessmoor's cage needed on land. Marrow: the Council has read his letter: "We know now. As you said." Strand: the contract stands; Vey's company will take and hold the thing with Kessmoor engines on barges and imbued harpoons; the Council will not order Gullhaven emptied: **it's oyster season**: the Gullhaven beds are the League's richest; the spit has never fallen; "The Lady keeps the stones" (said drily, a Corsa joke). Nobody votes to empty it.
 - Vey afterwards, on the Tidehall's steps: he has the contract because nobody else would bid on the execution; he'll do it because he's paid; and he'll empty no harbour for free (ch 49). "If it comes up, Master Fenn, I'll be on the reef. You'll be on the spit. One of us will be wrong." He takes off a glove, shakes Calder's hand, puts it back on.
-- **Day 332 the Clan's flights over Corsa**: Arn and Ulric come in over the harbour at noon with every pair from Gullhaven and twenty more from the Scarfell: forty-odd dragons, red and grey thread, in a long wheel over the harbour and the Tidehall's copper roof; first time in Corsa's memory the Clan has come over the city in force (Calder's three in the spring were three). The town on its roofs; the Council on its balcony. Arn lands on the sea-steps and says to the balcony: the Clan will lift Gullhaven off its roofs when the sea comes, with or without the Council's leave; he wants the Council's word it won't hinder; and he'll pay Vey's wyverns out of the Clan's own purse to take the children off the salt-pan sheds, if Vey'll take the coin. Marrow, after a long look at forty dragons: "The Council will not hinder." Vey, from the steps below: "I'll take the coin."
-- Night 333: Calder sends Lisska west to Greyhold (**flight 6**; she'll find Maren at Greyhold d.337) with his page (written at Gullhaven: the promise; the crosses; the Strand fleet) and a second page from today: the Council, oyster season, Vey, the Clan over Corsa, the Council won't hinder.
+- **Day 332 the Clan's flights over Corsa**: Arn and Ulric come in over the harbour at noon with every pair from Gullhaven and twenty more from the Scarfell: forty-odd dragons, red and grey thread, in a long wheel over the harbour and the Tidehall's copper roof; first time in Corsa's memory the Clan has come over the city in force (Calder's three in the autumn were three). The town on its roofs; the Council on its balcony. Arn lands on the sea-steps and says to the balcony: the Clan will lift Gullhaven off its roofs when the sea comes, with or without the Council's leave; he wants the Council's word it won't hinder; and he'll pay Vey's wyverns out of the Clan's own purse to take the children off the salt-pan sheds, if Vey'll take the coin. Marrow, after a long look at forty dragons: "The Council will not hinder." Vey, from the steps below: "I'll take the coin."
+- Night 333: Calder sends Lisska west to Greyhold (**flight 6**; by the Wend's mouth and up the river, two nights on the Wendmouth roofs; she finds Maren at Greyhold d.340) with his page (written at Gullhaven: the promise; the crosses; the Strand fleet) and a second page from today: the Council, oyster season, Vey, the Clan over Corsa, the Council won't hinder.
 - Echo, day 334 on the quay: a Hearthmere grain ship in the harbour (a fat cog with the crown's blue on its sail), loading Saltreach grain, bought (a harbour clerk says) with the crown's last gold: sold the crown's plate to pay for it; bound for Stillhaven and up the Meryl to Hallowmere. Calder thinks of the bread-lines he's never seen.
 Magic touches: none worked; the Clan's mass flight; the Council's contract.
 notes -->
@@ -73,7 +73,7 @@ Ada checked the arithmetic. With her finger, down the column, her lips moving.
 
 He went on the three-hundred-and-thirtieth day.
 
-Kharrak and Lisska. Lisska was rested now, mostly. Still thin. She'd slept a week and eaten, and she said she was well, and said it twice, and he believed her the second time. Aurveth stayed on the spit. Ivar Leck's month wasn't up, and she said she'd seen the Council once and once was enough.
+Kharrak and Lisska. Lisska was rested now, mostly. Still thin. She'd slept and eaten, and she said she was well, and he believed her. Aurveth stayed on the spit. Ivar Leck's month wasn't up, and she said she'd seen the Council once and once was enough.
 
 *Tell them plainly,* she said. *They're traders. They understand a plain price.*
 
@@ -85,7 +85,7 @@ The great room again. The long black table under the smoke-darkened ceiling of p
 
 Mistress Orla Marrow at the head, in blue silk, with her salt-grey hair in its net and her square calm figurehead face. The Quill house's thin woman in white. The Strand member in green, the soft-voiced one who'd offered him a hundred silver a month on the balcony. Master Aubrey Strand, the clerk at the door called him.
 
-The Halloran chair empty. Nobody had sat in it since the spring.
+The Halloran chair empty. Nobody had sat in it since the autumn.
 
 And at the captains' end, near the door, a small neat man in grey gloves and spectacles, with his hands folded on the table, looking at Calder pleasantly.
 
@@ -127,9 +127,9 @@ Marrow looked at the sheet for a long time. Then at him.
 
 "Slowly."
 
-"In the spring you couldn't."
+"In the autumn you couldn't."
 
-"In the spring I couldn't," said Calder.
+"In the autumn I couldn't," said Calder.
 
 ---
 
@@ -209,7 +209,7 @@ Afterwards. Coming down out of the Tidehall into the grey afternoon with the she
 
 Calder stopped.
 
-"You'll want to know why I took it," said Vey. "The execution." He looked at the harbour. "Nobody else would bid. Not on the execution. The Strand house bought the contract and then couldn't find a company to go out on the reef for it." He took off his spectacles and cleaned them on a corner of his coat. "So the price went up. And up. And I took it."
+"You'll want to know why I took it," said Vey. "The execution." He looked at the harbour. "Nobody else would bid. Not on the execution. The Strand house bought the contract and then couldn't find a company to go out on the reef for it." He took off his spectacles and cleaned them on a corner of his coat. "So the price went up. And up. And I took it. Ten days ago."
 
 "For the money."
 
@@ -251,7 +251,7 @@ The Council came out on its balcony.
 
 Marrow first. Then the others. Strand in his green, with his soft face gone hard. The Quill woman. The captains. They stood on the balcony of the Tidehall over the sea-steps and looked up at forty-odd dragons going round over their harbour.
 
-Nobody in Corsa had seen it. Not in memory. Not the Clan over the city in force. Three dragons on the sea-steps in the spring had been a wonder. This was the Scarfell.
+Nobody in Corsa had seen it. Not in memory. Not the Clan over the city in force. Three dragons on the sea-steps in the autumn had been a wonder. This was the Scarfell.
 
 ---
 
@@ -331,7 +331,7 @@ He saw it from the quay in the morning. A fat cog, broad-bellied, riding low, wi
 
 Calder watched the sacks go up the plank.
 
-He'd been to Hallowmere once. In the spring. He'd stood in the Crown's Square with a red dragon behind him and three books in his arms. The people in the square had been thin then. Baskets with nothing in them. A man with a licence pinned to his coat.
+He'd been to Hallowmere once. In the autumn. He'd stood in the Crown's Square with a red dragon behind him and three books in his arms. The people in the square had been thin then. Baskets with nothing in them. A man with a licence pinned to his coat.
 
 He thought of them standing in a line for bread that was on a fat cog in a Saltreach harbour, bought with the dishes off a king's table.
 

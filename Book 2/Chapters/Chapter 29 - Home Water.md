@@ -26,7 +26,7 @@ notes -->
 
 He came down the pass road at dusk on the hundred-and-twenty-first day, and stopped at the stone at the top of it for an hour.
 
-He hadn't meant to stop. He'd walked four days from the foot of the High Crown with the crate on his shoulder, and his feet hurt, and he wanted his attic and his bed and a bowl of something hot from the stall at the bottom of Ferry Street. He'd meant to walk straight down the zigzags in the last of the light and be in the city by full dark.
+He hadn't meant to stop. He'd walked three days from the foot of the High Crown with the crate on his shoulder, and his feet hurt, and he wanted his attic and his bed and a bowl of something hot from the stall at the bottom of Ferry Street. He'd meant to walk straight down the zigzags in the last of the light and be in the city by full dark.
 
 Then he came over the saddle and saw the lake.
 
@@ -36,11 +36,11 @@ It was lying on the water.
 
 He'd known it would be. He'd watched it settle on the glasses for six days. He'd done the lines three times on a flat stone in the road and they'd crossed at Glasswater and he'd known. Knowing a number and seeing it are different things. He kept forgetting that. He stood by the old flat stone at the top of the pass, the one the tuskers laid their trunks on in winter, and looked down at his own lake, and there it was.
 
-A mile out from the lower city's quays. Between the city and the far shore, where the lake was widest and deepest. Grey. Long. With its head on its paws and its wings folded along its sides and its tail curled round. Lying on the surface of Glasswater the way a log lies on a pond, only it was the size of an island, and the water round it was still.
+A mile out from the lower city's quays. Between the city and the far shore, where the lake was widest and deepest. Grey. Long. With its head on its paws and its wings folded along its sides and its tail curled round. Lying on the surface of Glasswater as a log lies on a pond, only it was the size of an island, and the water round it was still.
 
 The ferries were going round it.
 
-He could see them, small, in the dusk. Three of them, with their lugsails up, crossing from the city to the far-shore villages. Not straight across, as they'd crossed for as long as there'd been ferries. Round. In a long wide curve, a quarter-mile off the thing on the water, the way you'd steer round a rock.
+He could see them, small, in the dusk. Three of them, with their lugsails up, crossing from the city to the far-shore villages. Not straight across, as they'd crossed for as long as there'd been ferries. Round. In a long wide curve, a quarter-mile off the thing on the water, as you'd steer round a rock.
 
 One of them was the *Heron*. He knew her sail.
 
@@ -168,7 +168,7 @@ The far-shore villages needed salt and flour and a midwife, and the *Heron* had 
 
 At the end of the ferry steps, before she cast off, Nessa did something he'd never seen her do.
 
-She took a handful of salt from a sack in the stern. Coarse grey salt, the kind the fish-wives used. She stood up in the boat and threw it over the prow, into the water, past the tin serpent and the owl. Not hard. The way you'd throw grain to hens.
+She took a handful of salt from a sack in the stern. Coarse grey salt, the kind the fish-wives used. She stood up in the boat and threw it over the prow, into the water, past the tin serpent and the owl. Not hard. As you'd throw grain to hens.
 
 "For the Lady," she said.
 
@@ -264,7 +264,7 @@ The great binding.
 
 A hundred magisters. Every Fifth ring and Fourth ring in Vael, from all seven colleges, standing on the Library hill in a ring. On the stone of it, over whatever was under it, at the height of the stir, when the hill's stone would be fullest. A cup, full to the brim, and a hundred voices drawing on it at once.
 
-Not lamps. Not three Wardens kneeling on three stones. A many-voice working.
+A many-voice working. Dane had had three lamps and three Wardens kneeling on three stones.
 
 He knew the words. Every student did; it was in the first-year grammar, the last page, the one nobody was ever examined on. A working where many voices said the same words at the same time, so the working was held up by all of them and none of them, and the toll was split a hundred ways, and nobody burned out. Greater runework. Fifth-ring work. The commentaries said it was how the old realm had raised its bridges, a hundred masons singing one stone into place.
 
@@ -296,7 +296,7 @@ She didn't answer. She took the roll back and rolled it up and put it in her sle
 
 He sat at the end of the table and thought about it all that night in the attic, with the lamps of the lower city going brown below his window and the deep glass on the sill breathing in, and in, and couldn't think where he'd seen a working like that before. A many-voice charm, very old, from his own college, with a line at the end to stop the voices asking.
 
-He would know, in a fortnight. He didn't know yet.
+He would know, in a dozen days. He didn't know yet.
 
 ---
 
@@ -306,7 +306,7 @@ At the Library, in the lower halls, where the hum came up through the floor, wit
 
 At night in the attic, with the window open and the glasses on the sill, watching the line.
 
-It came down the hill. A street a week, as he'd said. On the hundred-and-twenty-fourth night it was at Rope Street; on the hundred-and-thirty-first, Candle Row. The white lamps creeping down from the top of the hill and the brown creeping up from the water to meet them, and the line between them narrower every night, like a seam being pulled tight.
+It came down the hill. A street a week, as he'd said. On the hundred-and-thirty-first night it was at Candle Row. The white lamps creeping down from the top of the hill and the brown creeping up from the water to meet them, and the line between them narrower every night, like a seam being pulled tight.
 
 The cup was filling. The drain was widening. And somewhere under the lake, a long way down, something was breathing in.
 
@@ -410,7 +410,7 @@ He'd gone to the Blue College with the week's readings, as he'd been told to, an
 
 From the pass-watch. The Wardens who kept the high road over the Vael Pass and the High Crown's southern flank, and sent word down by lantern owl every night.
 
-"A herd on the flank," said the Warden's voice through the door. "Tuskers. Thirty. On their summer road, west, two days out from the pass-stone." A pause. "And a lion-woman with them. A knight, by her sword, out of Hearthmere by her coat. With a lion."
+"A herd on the flank," said the Warden's voice through the door. "Tuskers. Thirty. On their summer road, west, a day out from the pass-stone." A pause. "And a lion-woman with them. A knight, by her sword, out of Hearthmere by her coat. With a lion."
 
 Idony sat very still on the bench.
 

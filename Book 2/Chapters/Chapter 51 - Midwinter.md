@@ -3,18 +3,18 @@
 <!-- notes
 POV: Maren
 Part: Part Four: Iron and Glass
-Days: 265–281 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
+Days: 265–282 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Orrin's ruins
-Beats: Midwinter night in Orrin's ruins. Maren says the oath her own way: "Keep the watch." Tobin says it too; Idony doesn't, then does. Orrun is Kharrak's size now. Lisska comes in over the glass at dawn (**flight 4**) with a letter, the first in Calder's own hand: nine lines. He writes what they never said aloud: his father and hers, Senna, and what one life between two is like with three; the talk they'd have had if they'd ever had a night for it. The last is a line of the old song Ada has sent with a question mark after it: "till the six are one again" *(canon: Book 1 ch. 2's song)*.
+Beats: Midwinter night in Orrin's ruins. Maren says the oath her own way: "Keep the watch." Tobin says it too; Idony doesn't, then does. Orrun is Kharrak's size now. Lisska comes in over the glass at dawn (**flight 4**) with a letter, the first in Calder's own hand: eight lines, and a ninth in Ada's. He writes what they never said aloud: his father and hers, Senna, and what one life between two is like with three; the talk they'd have had if they'd ever had a night for it. The last is a line of the old song Ada has sent with a question mark after it: "till the six are one again" *(canon: Book 1 ch. 2's song)*.
 Echo of the other's story: The letter's spelling, which Maren reads twice so as not to laugh, and then once more for the rest of it.
 Status: first draft
-Draft notes: Days 265–281 in summary; midwinter night 281 and its dawn. Decided here (proposals):
+Draft notes: Days 265–280 in summary; midwinter night 281 and the dawn of 282. Decided here (proposals):
 - Days 265–280: winter on the Scald. Snow on the moor, none on the basin (it's warm; the snow melts as it falls inside the field and comes up as steam). The envoys' camp thins by day 270 (Lorne and Dane gone to Ironhythe to sign for the second cage; Lady Aurel gone south; the Quill factor gone). Orrun came out of the ditch on day 266 and began to eat (a sheep a day from the cordon's stores); his stone came back on day 268 (he split the gatehouse stone that wouldn't crack on 239). He grows over the winter: by midwinter his shoulder is level with Kharrak's at Glasswater (about sixteen feet; plan's size line).
 - Why they stay: Idony says the temple under the basin isn't empty (his glasses lean to a point under the hole even with the field closed: something left under there that the Titan didn't take, or that isn't the kind of thing it takes). The full reason comes in ch 53. Maren: "He won't leave till he's seen it."
 - **Orrin's ruins**: the north end of the old town, outside the cordon's bank, where the fused glass stopped: forty years roofless, stone houses with their doors open, a street of them, a chapel with a hearthstone, a well. Nobody goes there (the cordon men say it's unlucky). Maren and Tobin and Idony go there on midwinter night because it's the one place nobody will come; Orrun lies across the end of the street.
 - Midwinter night: a fire in the chapel's hearth (flint; no word works this side of the bank: the drain after the surge has left the moor dead again). Tobin's idea: "At home they'd be saying it. At noon. Facing the wall." Greyhold's noon oath (Book 1 ch 1): *I will hold the river. / I will keep the road. / I will stand between the weak and what would harm them, / and I will keep the watch below, / and I will not ask what I keep.* Maren says it her own way, the first three lines and then: *I will keep the watch.* No *below*. No *not ask*. Tobin says it after her the same way (he was never sworn; he's unchosen; "Nobody ever let me say it"). Idony doesn't: "It's a muzzle. I read who wrote it." Then, after a long time, he says it too, her way: "That's not their oath. That's yours." Three voices in a dead town.
-- Dawn 281: Lisska in over the basin's glass from the east (flight 4: left Calder d.278), through the steam over the field (she goes high over it; she won't fly through the shimmer), down into Orrin's street. The letter in oilcloth on her foreleg.
-- **The letter**, nine lines, Calder's own hand, in charcoal on Clan tally-paper, big letters, misspelt, some letters backwards, written over two weeks at Bel's table with Ada (proposal text below; spellings his):
+- Dawn 282: Lisska in from the east (flight 4: left Calder d.278), round the cordon (she goes wide of the field along the outer bank; she won't fly through the shimmer), down into Orrin's street. The letter in oilcloth on her foreleg.
+- **The letter**, eight lines in Calder's own hand and a ninth in Ada's, in charcoal on Clan tally-paper, big letters, misspelt, some letters backwards, written over two weeks at Bel's table with Ada (proposal text below; spellings his):
   1. *Maren. This is me riting. Ada is not helping, she is siting there.*
   2. *My father payd the dues every year and kept his hed down and dyed in his bed. I thout that was the best a man cud do.*
   3. *Yours dyed when his hound dyed. Ada told me. One life between two.*
@@ -23,8 +23,8 @@ Draft notes: Days 265–281 in summary; midwinter night 281 and its dawn. Decide
   6. *I think you know what that is like. I think you are the only one who does.*
   7. *We never had a nite to say any of this. So I am saying it on paper.*
   8. *Lisska says Orrun is too big. Kharrak says Lisska is a lier.*
-  9. *Ada says send you this: till the six are one agen?*
-  Signed CALDER (D right way round).
+  9. *Ada says send you this: till the six are one agen?* (Ada's small upright hand; her *again* crossed out and *agen* written in by Calder)
+  Signed CALDER, under all of it (D right way round).
 - The echo: she reads it twice so as not to laugh at the spelling, and then once more for the rest of it. Then she sits in the chapel doorway with it on her knee in the first light.
 - Line 9: the song; Maren knows the song (every Hearthmere child knows some of it; she heard Ada sing it whole to Wren in the Fellwood, days 10–14, ch 9). She shows the line to Idony; he copies it into the silk without knowing why it nags at him (ch 53).
 Magic touches: none worked (dead moor after the surge); the oath as a many-voice working with the doubt-line taken out; Lisska avoiding the field.
@@ -78,7 +78,7 @@ He looked at it for a while.
 
 He grew.
 
-All winter. She didn't notice it day to day. She noticed it at the gate. In the autumn, when they came, his back had been at the height of the gatehouse's lintel. By midwinter he had to put his head down to go under it, and then he stopped going through the gate at all and went over the bank instead, in one long step, the way she'd step over a stile.
+All winter. She didn't notice it day to day. She noticed it at the gate. In the autumn, when they came, his back had been at the height of the gatehouse's lintel. By midwinter he had to put his head down to go under it, and then he stopped going through the gate at all and went over the bank instead, in one long step, as she'd step over a stile.
 
 She stood next to him by the north tower one morning and looked up, and thought of the red dragon on the Library steps at Vael, lying beyond the bird's fire with his head on his forefeet.
 
@@ -198,7 +198,7 @@ The fire cracked. Snow came down through the roof and hissed on the edge of the 
 
 "I know what I left out," said Maren.
 
-Tobin looked at her across the fire. For a long time. Then he looked at the flames.
+Tobin looked at her across the fire. Then he looked at the flames.
 
 *I will hold the river,* he said.
 
@@ -228,7 +228,7 @@ He sat against the chapel wall with his knees up and his hands round them and lo
 
 "No," said Idony. "You didn't."
 
-He looked at the fire for a long time.
+He looked at the fire.
 
 She thought he wouldn't. She thought that was all right. He'd never been sworn. It had never been his. He'd read the bill of sale.
 
@@ -278,7 +278,7 @@ Lisska came in at dawn.
 
 Maren saw her from the chapel door. She'd gone out to look at the morning, grey and white and very still, the snow stopped, the smoke from the basin going straight up into a sky like slate. And out of the east, low over the moor, small, green, fast, a dragon.
 
-She came in over the cordon. Not through the field. Over it. High, higher than Maren had ever seen her go, up over the shimmer and the steam where the snow turned to vapour, and down again on the near side, and along the street of Orrin's ruins to the chapel.
+She came round the cordon. Not through the field. Wide of it, along the outer bank, with the steam going up beside her where the snow turned to vapour, and down along the street of Orrin's ruins to the chapel.
 
 She landed on the broken wall of the house beside the door.
 
@@ -302,7 +302,7 @@ Clan tally-paper. Grey. Rough. Folded small. She unfolded it standing in the cha
 
 Charcoal. Big letters. Pressed so hard the paper had torn in two places. The lines not straight. Going uphill across the page and then down again, as if the writer had got tired halfway along each one and let his hand drop. Some of the letters backwards. An S like a Z. Two Ds facing the wrong way, crossed out, and written again the right way above.
 
-Nine lines.
+Eight lines. And under them, smaller, upright, in a hand that wasn't his, one more, with its last word crossed out and spelled again his way.
 
 ---
 
@@ -358,9 +358,9 @@ She sat down on the step.
 
 With the letter on her knee. In the cold, in the first light, with the snow on the ground and Lisska on the broken wall beside her and Orrun at the bottom of the street with his head up, watching her.
 
-Her father had died when she was fourteen. Thirteen years ago. Poachers had killed his hound-beast, and he'd come home, and sat down in the kitchen, and he'd been dead within the week. One life between two. She'd watched it. She'd never talked about it. Not to anyone. Not to Hale. Not to her mother, who'd been there.
+Her father had died when she was fourteen. Fourteen years ago. Poachers had killed his hound-beast, and he'd come home, and sat down in the kitchen, and he'd been dead within the week. One life between two. She'd watched it. She'd never talked about it. Not to anyone. Not to Hale. Not to her mother, who'd been there.
 
-She'd never told the farmer. Ada must have had it from Liss. Or from her, in the Fellwood, on one of those nights by the fire, when Ada had told her about Senna, and she hadn't said anything back.
+She'd never told the farmer. Ada must have had it from Liss.
 
 *We never had a nite to say any of this.*
 
@@ -398,7 +398,7 @@ He read the last line again.
 
 "The song," she said. "The old one. The one every grandmother knows. *Before the six there was one.*" She looked at the paper. "That's the last line."
 
-"I know the song." He didn't look up. "Everybody knows the song. The Restoration took the end of it for their oath. *One again.*" He was quiet. "Why's she sent it with a question?"
+"I know the song." He didn't look up. "Everybody knows the song. The Restoration took the end of it for their oath. *One again.* Why's she sent it with a question?"
 
 "I don't know."
 

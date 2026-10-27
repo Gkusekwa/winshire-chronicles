@@ -15,7 +15,7 @@ Draft notes: Days 255–281. Decided here (proposals):
 - Midwinter day 281 he walks up to the caves (Kharrak flies; he walks, because Wren will want to see him come up the path). Old Grey at the cave mouth: the big grey dray-beast, scarred at the neck where the collar was; he walks out to meet Wren when she comes out, and walks behind her back in, and nobody leads him. Bel's grief: Old Grey's forefoot killed Joss while bound (Book 1 ch 50); Bel is at the hold, not the caves; she hasn't come up since Old Grey began following Wren; Calder doesn't push it.
 - The yearling at the back of the caves by the warm spring, standing, not lying: on her feet, head level, eyes open, looking at nothing; she eats when food is put under her nose and not otherwise. Gunna: "She stands all night. Like a horse asleep. Only she isn't asleep."
 - Wren sits with her: on an upturned hatching bowl an arm's length off, not touching, talking: about the hold, the dogs, the snow, Lisska, the lion-woman, Old Grey: as she sat with Old Grey in the spring before the gate (Book 1 ch 52–56). Old Grey stands behind Wren. Calder watches from the cave mouth and doesn't go in.
-- Midwinter night at the caves' fire: Ada (come up with him), Gunna, Wren, Leif, Calder; Aurveth at the cave mouth with her head inside where it's warm; Kharrak outside. Ada sings the song for Wren (who says she's too old; "Sing it twice"). Afterwards Calder and Ada put the line together: *the one fell into six*. Everyone's always said six kingdoms: Hearthmere, Saltreach, the Wyldmarch, Isvaren, Kessmoor, Sarovel. But the song never says kingdoms. The reader at Glasswater laid six ends on the frost, six roads, six sleepers under them, and the great one going round them all. "*It sleeps under all of us, sleeping.*" "It's not about kingdoms," says Ada. "It never was. The kingdoms came after. They're sitting on top of it." "The six are them." "And *one again*..." Ada stops. "I don't know what one again is. I sent her the question so she'd ask her reader." She sings the last verse faster than the others, as always. (Ch 53 answers.)
+- Midwinter night at the caves' fire: Ada (come up with him), Gunna, Wren, Leif, Calder; Aurveth at the cave mouth with her head inside where it's warm; Kharrak outside. Ada sings the song for Wren (who says she's too old; "Sing it twice"). Afterwards Calder and Ada put the line together as far as it goes: *the one fell into six*. Everyone's always said six kingdoms: Hearthmere, Saltreach, the Wyldmarch, Isvaren, Kessmoor, Sarovel. But the song never says kingdoms. "Then what's the six?" Ada doesn't know, nor what *one again* is: her grandmother's sworn verse (Book 1 ch 46) said where the last one sleeps, never what *one* was. "I sent her the question so she'd ask her reader." She sings the last verse faster than the others, as always. (Ch 53 answers.)
 - Echo: Lisska gone west since the dark of the moon (day 278), and the caves too quiet without her: no small green dragon on the warm ledge, nobody saying things twice back to Wren.
 Magic touches: Ada's hearth-word takes at once in the caves (the Clan's ground is live: Scarfell and Varrhold weren't drained); a bound beast's empty stand (Magic §6: some never come back); Old Grey's will returning.
 notes -->
@@ -62,9 +62,9 @@ Some because the spelling was so bad even he couldn't read them the next morning
 
 The twelfth he kept.
 
-Nine lines. He sat and looked at it for a whole evening. Then he pushed it across the table to Ada.
+Eight lines. He sat and looked at it for a whole evening. Then he pushed it across the table to Ada.
 
-She read it. Slowly. All nine lines. Her face didn't change. When she got to the end she looked at it a long time.
+She read it. Slowly. All eight lines. Her face didn't change. When she got to the end she looked at it a long time.
 
 Then she took the charcoal out of his hand and wrote something at the bottom. Not in his letter. Under it. Small. In her own upright hand.
 
@@ -77,6 +77,8 @@ He read it. It took him a moment.
 "Send it," said Ada. "Ask her what she thinks. Ask her reader." She gave him back the charcoal. "And spell it how you like. I've written it how it's said."
 
 He crossed out *again* and wrote *agen* underneath, because that was how he'd have written it, and she looked at him over her folded arms and very nearly laughed.
+
+Then he wrote his name under all of it, the D the right way round.
 
 ---
 
@@ -122,7 +124,7 @@ He read it.
 
 Straight through. Standing in the yard. By himself.
 
-He didn't put his finger under it. He didn't have to. He didn't sound out a single word. The letters were small and plain and spelled right, better spelled than his, and they went into his head one after another the way water goes into the ground, and he got to the end, and he'd read it.
+He didn't put his finger under it. He didn't have to. He didn't sound out a single word. The letters were small and plain and spelled right, better spelled than his, and they went into his head one after another, like water into the ground, and he got to the end, and he'd read it.
 
 The first thing he'd ever read straight through in his life.
 
@@ -319,25 +321,7 @@ Ada looked at him.
 
 "No," said Ada.
 
----
-
-"The reader," said Calder. "At Glasswater. On the frost."
-
-He told her again. He'd told her in the autumn, but he told her again, slowly, by the fire. The round place at the end of the bridge. Six roads. The reader's chart laid over the frost, and the six marks on it, the places where the glass stood high. Six ends. Six temples. Six sleepers under them.
-
-And the great one. The one that had been under the river. Going round them all.
-
-"*It sleeps under all of us,*" said Ada. Quietly.
-
-"Six of them. Under six places." He looked at her. "Under the kingdoms. Under all of us."
-
-Ada was quiet for a long time.
-
-"It's not about kingdoms," she said. "It never was." She looked at the fire. "The kingdoms came after. They're sitting on top of it. Like a house on a well, and nobody remembers the well." She pulled her shawl tighter round her shoulders, and then remembered it was on Wren, and let it go. "*The one fell into six.* The six are them. The sleepers."
-
-"And *one again*?"
-
-Ada stopped.
+"Then what's the six?"
 
 ---
 
@@ -345,7 +329,7 @@ Ada stopped.
 
 He'd never heard her say it. Not about a song. She knew more of the old songs than anyone in Harrow's End. She knew which verse went where and which grandmother had sung which line wrong. She'd never once not known.
 
-"I don't know what *one again* is," she said. "If the six are the sleepers. One what?" She looked at the fire. "That's why I sent it. With the mark after it. So she'd ask her reader. He reads the old things." She almost smiled. "Somebody had better."
+"I don't know what the six are," she said. "Not if they aren't kingdoms. Or what *one again* is. One what?" She looked at the fire. "My grandmother knew something. She gave me a verse for it and made me swear. It said where the last one sleeps. It never said what *one* was." She almost smiled. "That's why I sent it. With the mark after it. So she'd ask her reader. He reads the old things. Somebody had better."
 
 "You sing it faster," said Calder. "That verse. You always have."
 

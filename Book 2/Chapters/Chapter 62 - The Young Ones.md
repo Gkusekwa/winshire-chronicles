@@ -6,24 +6,24 @@ Part: Part Five: The Sun Stair
 Days: 305–318 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The hatching caves, Varrhold
 Beats: Varrhold. The two dragons recovered at Blackwater and the one from Vael are empty-eyed in the caves. Wren sits with them every day, talking. On the ninth day one lifts its head to her voice and makes a sound. It comes back, and Wren names her **Ildra** *(Book 3 needs her)*. Calder writes to Maren, a whole page this time, and keeps it for Lisska's return.
-Echo of the other's story: On the last night, every dragon in the caves turns its head south-west at once and won't settle: something waking, very far off.
+Echo of the other's story: On the last morning, every dragon in the caves turns its head south-west at once and won't settle: something waking, very far off.
 Status: first draft
 Draft notes: Days 305–318. Decided here (proposals):
-- Days 305–312 Calder is at Gullhaven (ch 59); Harl and two riders bring the black and the red up the coast and into the caves by day 306. Wren starts sitting with all three on day 306 (the yearling from Vael, the black, the red): three upturned hatching bowls in a row by the warm spring, an arm's length from each. Calder comes home on day 313 on Kharrak, leaving Aurveth on the spit with Arn under Ivar Leck's orders (not to fly for a month) and the baskets practice going on.
+- Days 305–312 Calder is at Gullhaven (ch 59); old Brede (on his blue) and two riders bring the black and the red up the coast and into the caves by day 306. Wren starts sitting with all three on day 306 (the yearling from Vael, the black, the red): three upturned hatching bowls in a row by the warm spring, an arm's length from each. Calder comes home on day 313 on Kharrak, leaving Aurveth on the spit with Arn under Ivar Leck's orders (not to fly for a month) and the baskets practice going on.
 - Wren's sitting, as seen by Calder on 313–315: she talks to each in turn, an hour each, morning and afternoon: the hold, the dogs, the snow going off the moor, Papa's letters, Lisska gone west, the lion-woman, Old Grey (who stands behind her), and barley: because Papa told her he'd talked to the little red one about barley on a roof (ch 38) and she thinks that's the right thing to talk about. "Papa says you'll like barley."
 - The ninth day of sitting (day 314): late afternoon, Calder at the cave mouth; Wren talking about barley going gold and the wind making it go all one way like water; **the yearling** (the one from Vael, who's stood empty by the spring since the autumn) lifts her head to Wren's voice and turns it, and looks at her: somebody behind her eyes. And makes a sound: small, high, a chirr like a kettle starting, the sound Lisska makes half asleep and content by the fire. Wren: "She said something." She doesn't touch her. She says it again, about the barley. The yearling makes the sound again.
 - Over days 314–317 she comes back: she eats from Wren's hand on day 315; on day 316 she lies down for the first time instead of standing all night; she follows Wren's voice round the caves with her eyes. Gunna: "That one's come back." The black and the red don't (not yet).
 - **Ildra**: on day 316 Wren names her. "Ildra." Calder asks why. Wren doesn't know; it's what she sounds like. "She said it. When she made the noise. Ildra." She makes Calder say it twice. (Book 3 needs her: plant only that she's Wren's, not bonded: Wren is ten; no bond: "she's not mine. She just comes when I talk.")
 - The letter: day 316 at Bel's table with Ada (who still won't help and still won't sing): a whole page, charcoal, his hand better: the reef and the bell; Aurveth's deep sight and the breath under the coast; the contract (Strand house, a fleet, a cage); the Clan's baskets; the yearling, and her name; Wren; Ada not singing. He keeps it for Lisska, who is still west (flight 5) and doesn't come.
-- Echo, night 317 (the Horned Sun waking): at the caves' fire every dragon in the caves (Gunna's old Tamsin, the winterers at the back, Leif's brown, Kharrak at the mouth, the black and the red standing by the spring, Ildra lying by Wren) turns its head south-west at once, toward the far end of everything, and won't put it down; they hum, low, all of them; nobody sleeps. Gunna: "Something's woken. A long way off." Calder thinks of the reader's numbers: the Sun Stair within the month. And of Maren, and Lisska, there.
+- Echo, morning 317 (the Horned Sun waking): at the caves' fire every dragon in the caves (Gunna's old grey-green Tamsin, the winterers at the back, Leif's brown, Kharrak at the mouth, the black and the red standing by the spring, Ildra lying by Wren) turns its head south-west at once, toward the far end of everything, and won't put it down; they hum, low, all of them, all day; nobody sleeps that night. Gunna: "Something's woken. A long way off." Calder thinks of the reader's numbers: the Sun Stair within the month. And of Maren, and Lisska, there.
 Magic touches: a binding's emptiness lifting through voice and patience (no working: Magic §6.5, "let the beast come back slowly. Some never do"); dragons' far-sense of a waking.
 notes -->
 
 ---
 
-Harl brought them up the coast in four days.
+Brede brought them up the coast in six days.
 
-The black and the red. Slowly. Low, a few leagues at a time, with Harl on his dragon in front and two riders of the ledges behind, the way you'd bring a pair of lame heifers home from a fair. Calder had been at Gullhaven. He'd heard it from Gunna afterwards. They'd come up over the edge of the moor on the three-hundred-and-fifth day, and down to the caves on the three-hundred-and-sixth, and walked in past the hatching bowls without looking at anything, and stood by the warm spring next to the little red one from Vael.
+The black and the red. Slowly. Low, a few leagues at a time, with Brede on his blue in front and two riders of the ledges behind, the way you'd bring a pair of lame heifers home from a fair. Calder had been at Gullhaven. He'd heard it from Gunna afterwards. They'd come up over the edge of the moor on the three-hundred-and-fifth day, and down to the caves on the three-hundred-and-sixth, and walked in past the hatching bowls without looking at anything, and stood by the warm spring next to the little red one from Vael.
 
 Three of them. In a row. By the water.
 
@@ -115,7 +115,7 @@ Slowly. On her neck. Toward the bowl. Toward the small girl sitting on it with h
 
 And she looked at her.
 
-He saw it. Even from the mouth of the cave, thirty paces off, in the gold light. Her eyes. Dark gold, like Lisska's, but darker. They'd been open since the autumn and there'd been nobody behind them.
+He saw it. Even from the mouth of the cave, thirty paces off, in the gold light. Her eyes. Dark gold. Not like Lisska's. Darker than anything. They'd been open since the autumn and there'd been nobody behind them.
 
 There was somebody behind them.
 
@@ -149,7 +149,7 @@ Over the next days. Gunna had told him, in the autumn, *some come out again, som
 
 On the three-hundred-and-fifteenth day she ate from Wren's hand.
 
-Not from the floor where Gunna put it, under her nose, as she'd eaten all winter. From Wren's hand. A strip of mutton, held out on a flat palm, an arm's length off. She looked at it for a long time. Then she put her head down and took it, very carefully, with her lips, the way a horse takes an apple.
+Not from the floor where Gunna put it, under her nose, as she'd eaten all winter. From Wren's hand. A strip of mutton, held out on a flat palm, an arm's length off. She looked at it for a long time. Then she put her head down and took it, very carefully, with her lips, as a horse takes an apple.
 
 Wren didn't move until she'd taken it.
 
@@ -251,13 +251,13 @@ Maren hadn't written one yet.
 
 ---
 
-Every dragon in the caves turned its head on the three-hundred-and-seventeenth night.
+Every dragon in the caves turned its head on the morning of the three-hundred-and-seventeenth day.
 
 All at once.
 
-He was at the fire at the cave mouth. Gunna across from him with Tamsin's long dun-gold head in her lap. Leif with his young brown. Wren asleep against him. Ada gone down to the hold. Kharrak lying in the heather outside with his head on his forefeet.
+He was at the fire at the cave mouth. Gunna across from him with Tamsin's long grey-green head in her lap. Leif with his young brown. Wren on her bowl by the spring. Ada gone down to the hold. Kharrak lying in the heather outside with his head on his forefeet.
 
-In the middle of the night they all moved.
+In the middle of the morning they all moved.
 
 Tamsin's head came up out of Gunna's lap. Leif's brown lifted its head off the stone. At the back of the caves, in the dark, the winterers, the old unbonded dragons who'd lain there all winter without moving, lifted theirs. Kharrak, in the heather, outside. The black and the red, by the spring. Ildra, lying by the warm water.
 
@@ -275,7 +275,7 @@ And they hummed.
 
 Low. All of them. Together. Not the ledges' mother-hum, that meant *here, you're here*. Something else. Lower. Longer. A sound he'd never heard the dragons make. It came up through the cave floor and through the stone he was sitting on and through his chest, where his three marks were, and made them ache.
 
-Wren woke up.
+Wren turned round on her bowl.
 
 "What is it?" she said.
 
@@ -285,7 +285,7 @@ Nobody answered.
 
 They didn't settle.
 
-He waited for them to. They didn't. All night. Every head turned south-west, every dragon humming, low and long, under the stone. Tamsin's old gold eyes wide open. Kharrak's, outside, in the heather, red in the dark.
+He waited for them to. They didn't. All day, and all night. Every head turned south-west, every dragon humming, low and long, under the stone. Tamsin's old gold eyes wide open. Kharrak's, outside, in the heather, red in the dark.
 
 *Something's woken,* said Kharrak. At last. Very low. *A long way off. South. West. Something very big.* A pause. *It's waking up and it's frightened.*
 

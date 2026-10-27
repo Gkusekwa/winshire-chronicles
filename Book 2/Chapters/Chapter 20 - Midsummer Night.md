@@ -17,12 +17,12 @@ Draft notes: Dusk on day 98 to the small hours. Decided here (proposals):
 - Maren's target: the Wardens, not the chain, because without the lamps the chain is only iron on a beast that could lift a hill. She goes for the stone by the beck (the fourth, sunwise): Warden Pask, red-haired, young, kneeling on top with his hands flat. She climbs the ladder; he drives her back off it with a blow of drawn weight; she goes up the stone itself, by Orrun's shoulder; she takes him round the waist and they go off the stone together into the beck. In running water his draw breaks outright (Magic §2a); he comes up choking, and that lamp's beam goes out. She leaves him in the beck alive.
 - Two Wardens on the next stones step off rather than face Orrun, who comes round the ring toward them with his head down. Once they're on the grey ground their lamps go out; they have nothing to draw from but themselves, and they won't.
 - Haverly's sword: its letters dark, as since day 4. Only steel. She cuts a lamp's hanging-chain at the foot of a stone; the lamp falls and its panes break on the grey stones with a sound like ice on a pond.
-- Three beams out of six. The net frays. The Titan's eyes come back.
+- Four beams out of six (Pask's, Ysolde Marr's, the next Warden's, and the north-west lamp cut). The net frays. The Titan's eyes come back.
 - Orrun and the stakes: he goes to the western line of stakes and sets his shoulder and his earth to the first and it comes out of the grey ground like a carrot out of sand; then the next; and on the other line, at the same moment, a second Orrun, grey, the same size, the same weight, pulling stakes. For two minutes. Maren feels herself stretched between two bodies, cold to the bone, and her nose bleeds into her collar.
 - The Titan rises. The chain comes off the forelegs in loops as the stakes fail. It stands, for the first time since the river; the ground heaves; the knights' wains go over. It puts its head down between its forepaws, into the middle of the ring, and the ground there opens like a mouth, a great sink falling in; stones lean, then fall inward. It reaches down into the dark, and comes up with something in its jaws, small against it, grey: the relic (a stone egg, Maren thinks; she can't see it well; Idony will). Then it spreads its wings, wider than the clearing, and goes up, and the downdraft flattens the grey trees and throws men off their feet, and it flies west, low, over the Thornwood, under the midsummer stars.
 - The collapse: the ring falls in after it, the stones going down into the opened ground, the remaining Wardens with them; Dane jumps from the north stone and lands on grey ground and lives. The sink is forty paces across, rubble and dust.
 - Maren pulls out Rowan: Rowan was under the forelegs with the chain-teams; she's pinned at the sink's lip under a loop of chain and a fallen stake, with a broken leg; Orrun (one again) lifts the chain off with his head. And Idony: he was at the foot of the fifth stone with his glasses, and went down the slope of the sink with the stone, and is clinging to it half-buried; Maren goes down on a rope of chain-loops and gets him out with his crate still on its strap.
-- The dead (that she sees): two Wardens under the stones; eleven of Rowan's labourers; a knight. Wynn's pale hound Sorrow, crushed. Corvin's binders' fires go out in the west; their smoke thins; they're gone before dawn.
+- The dead (that she sees): two Wardens under the stones; eleven of Rowan's labourers; a knight. A gate knight's brindled hound, crushed; its packmate howls over it. (Wynn's Ash and Sorrow both live.) Corvin's binders' fires go out in the west; their smoke thins; they're gone before dawn.
 - The echo: Idony, sitting in the grey dust at the sink's lip with his crate open, the glasses spilled and most of them broken, holding one of the green ones up to the stars. "There," he says. "South-west. Far. Three together, the way they've been all spring." He stares at it. "They're going ragged. As if one of them were coming loose." (Ch 21: the Roosts, the same night.)
 - Toll: Orrun sleeps a day and a night after. Maren bleeds, and is cold to the bone until dawn. Hesper and Hush come in from the edge at first light.
 Magic touches: the binding-lamps' white net and their runes; Wardens drawing from the full stones; running water breaking a draw; lamps failing on grey ground; Haverly's dark edge; honey-smoke on the wind; Orrun's shadow (one, two minutes); the relic; the ring falling into the temple.
@@ -48,7 +48,7 @@ All round the ring, in the grey dusk, she heard men begin to move.
 
 She'd watched them get ready for nine days.
 
-She'd watched the Wardens carry ladders down from the rise, long ash ladders lashed with rawhide, and lay them in the grey grass at the feet of the stones. She'd watched the two Scribes set up the lamps. Six iron tripods, as tall as a man, at the feet of six of the stones on the north side of the ring and the west. From each tripod, on a short chain, a lamp: a tall iron cage with panes of thick crystal in it, so thick they were green at the edges, and cut all over with marks she couldn't read. Idony could. He'd looked at them for a long time on the first day and then walked away and not looked at them again.
+She'd watched the Wardens carry ladders down from the rise, long ash ladders lashed with rawhide, and lay them in the grey grass at the feet of the stones. She'd watched the two Scribes set up the lamps. Six iron tripods, as tall as a man, at the feet of six of the stones on the north side of the ring and the west. From each tripod, on a short chain, a lamp: a tall iron cage with panes of thick crystal in it, so thick they were green at the edges, and cut all over with marks she couldn't read. Idony could. He'd looked at them on the first day and then walked away and not looked at them again.
 
 She'd watched the knights run their stakes.
 
@@ -56,7 +56,7 @@ Two long curved lines of iron stakes, coming in from the west side of the ring t
 
 And behind the stakes, on the six wains, the chain. Brought up close now, the oxen gone. Heaped in loops on the wains like a sleeping snake, each link as long as her body, still bright.
 
-She'd watched it all and said nothing. Nobody had asked her anything. Rowan had looked at her once, across the ring, on the seventh day, and then looked away.
+She'd watched it all and said nothing. Nobody had asked her anything. Rowan had looked at her once, across the ring, on the seventh of those days, and then looked away.
 
 Now the Wardens were going up the ladders.
 
@@ -80,7 +80,7 @@ The thing on the stones breathed out. Twenty-four.
 
 Its half-shut eyes, ten paces from her, pale as ice under water, went blank.
 
-She'd seen that before. In the collars, on the knowe. In Old Grey's face, walking behind Wren. In the snow lynx on the forest's edge in the smoke. One moment there was something behind the eyes. The next there was nobody.
+She'd seen that before. In the collars, on the knowe. In Old Grey's face, walking behind Wren. In the snow lynx Corran had seen at the forest's edge in the smoke. One moment there was something behind the eyes. The next there was nobody.
 
 Beside her, Orrun made a sound she'd never heard him make. Low. From the bottom of his chest.
 
@@ -128,7 +128,7 @@ The smoke came over the stakes. The labourers coughed and swore and kept working
 
 It came to Orrun first.
 
-She felt him go. All at once, the way he'd gone at the grove, at a league off. Only he wasn't a league off now. He was here, and the smoke was here, and it went into him like water into a cracked pot.
+She felt him go. All at once, as he'd gone at the grove, at a league off. Only he wasn't a league off now. He was here, and the smoke was here, and it went into him like water into a cracked pot.
 
 Slow. Heavy. Far away. Down, into the dark, into the well.
 
@@ -212,7 +212,7 @@ She came up. He came up beside her, choking, flailing, his robe dragging him dow
 
 Above them, at the foot of the stone, his lamp went out.
 
-Not dimmed. Out. The white light in the crystal panes snuffed like a candle, and the beam that had gone up from it into the net over the thing's back was gone, and the net, where it had been, sagged.
+The white light in the crystal panes snuffed out like a candle, and the beam that had gone up from it into the net over the thing's back was gone, and the net, where it had been, sagged.
 
 She got the Warden by the collar and dragged him to the bank and pushed him up onto the grey grass. He lay there on his face, coughing up beck-water, shaking.
 
@@ -258,11 +258,11 @@ Nobody was going to come down off that stone. The Warden on it was kneeling with
 
 The letters on the blade were dark.
 
-They'd been dark since the morning after the river. Since Greyhold. Dark at the reeds, dark in the black book's cavern, dark on the Saltreach bank and the Scarfell and the Plains and the grey. Lucan Haverly's quickened edge, that had burned in his hand, that Grieve had given her in the yard. On dead ground it was only steel.
+They'd been dark since the morning after the river. Since Greyhold. Dark in the yard where Grieve gave it her, dark in the black book's cavern, dark on the Saltreach bank and the Scarfell and the Plains and the grey. Lucan Haverly's quickened edge, that had burned in his hand, and was hers now. On dead ground it was only steel.
 
 Steel was enough for a lamp-chain.
 
-The lamp hung from the tripod's top on a short chain, four links, as thick as her finger. She swung the sword two-handed, the way Pell taught you to cut a rope on a boat, and the edge went through the chain at the second link with a sound like a bell.
+The lamp hung from the tripod's top on a short chain, four links, as thick as her finger. She swung the sword two-handed, as Pell taught you to cut a rope on a boat, and the edge went through the chain at the second link with a sound like a bell.
 
 The lamp fell.
 
@@ -406,7 +406,7 @@ He looked down at her.
 
 She didn't say anything. Neither did he. Maren didn't know what passed between them, the knight-captain of Greyhold and the beast that had kept the door for three hundred years. Something. Rowan closed her eyes.
 
-Maren got her by the shoulders and dragged her back from the edge. Somewhere further along the lip a hound was howling, Wynn's dark one, Ash, standing over something pale that lay still in the grey grass.
+Maren got her by the shoulders and dragged her back from the edge. Somewhere further along the lip a hound was howling, a gate knight's brindled one, over its packmate lying still in the grey grass.
 
 ---
 

@@ -188,7 +188,7 @@ The low cliff above the fishing-stair cracked.
 
 She heard it go. Over the sea. A long grinding crack, above her. And the cliff over the stair began to slide.
 
-Not all of it. A shoulder. A whole shoulder of the low cliff, with the top of the stair on it, and the mud-brick houses at the top of the stair, and the street, sliding. Down. Slowly. Earth and stone and brick. Toward the stair. Toward the shingle. Toward the boats, loading below it, full of children.
+A shoulder of it. A whole shoulder of the low cliff, with the top of the stair on it, and the mud-brick houses at the top of the stair, and the street, sliding. Down. Slowly. Earth and stone and brick. Toward the stair. Toward the shingle. Toward the boats, loading below it, full of children.
 
 Orrun went up the stair.
 
@@ -212,13 +212,13 @@ Another.
 
 ---
 
-Three lions on the old fishing-stair, in the dawn, holding a cliff.
+Three lions on the old fishing-stair, in the morning light, holding a cliff.
 
 She saw them from the shingle. Side by side across the stair, in the slide, with the earth and the brick and the stone coming down round them and stopping against them. Heads down. Forefeet braced. Holding it. Off the stair. Off the shingle. Off the boats.
 
 She felt herself go into them.
 
-Not like at the Scald. She didn't lose the hour this time. She stayed. She felt it. All of her. Everything she was, going up the stair, into the three of them. Into the weight and the slowness and the long patience of stone, three times over. Stretched across three bodies. Holding.
+She didn't lose the hour this time. She stayed. She felt it. All of her. Everything she was, going up the stair, into the three of them. Into the weight and the slowness and the long patience of stone, three times over. Stretched across three bodies. Holding.
 
 She knelt on the shingle.
 
@@ -376,7 +376,7 @@ All of them. The ones still burning in the white city, on the terraces, in the n
 
 The olifants' riders felt it.
 
-She saw it. The old man with the white beard on the middle olifant put his hand on its neck, and his face changed. Something going out of it. Not grief. Puzzlement. Like a man who's lost his place in a book.
+She saw it. The old man with the white beard on the middle olifant put his hand on its neck, and his face changed. Something going out of it. Puzzlement, more than grief. Like a man who's lost his place in a book.
 
 The bond hadn't broken. The olifant was still under him, still his. But dull. The gift gone out of it. Whatever the Grace had given them, the riders and the beasts, that made them more than a man on an olifant: gone.
 

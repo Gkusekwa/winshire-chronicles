@@ -43,7 +43,7 @@ Slowly. He walked on three legs for five days. Then on four, with the left forel
 
 Hearthmere was the same.
 
-Dead. Grey. She'd known. She'd crossed it in the autumn the other way. Downs the colour of ash. Villages with their doors open. A crossroads shrine with its bowl empty and its three-faced figure grey with dust.
+Dead. Grey. She'd known. She'd crossed it in the winter the other way. Downs the colour of ash. Villages with their doors open. A crossroads shrine with its bowl empty and its three-faced figure grey with dust.
 
 Then the King's Road. Then Hallowmere.
 
@@ -105,7 +105,7 @@ And at the bottom, printed, small, a ring of six.
 
 ---
 
-She read it twice.
+She read it again.
 
 Half of it was true. More than half. The cavern, the chains, the lamps, the oath. She'd read it in a black book in an archive, and heard it from a bird, and written it on eleven pages in Kessmoor graphite. *Keep the watch below.*
 
@@ -175,7 +175,7 @@ He stopped.
 
 She looked at him.
 
-"Davin," he said. "From the Kettle. At Millbrook. I used to read the papers on the jetty." He looked at Orrun. "I read the farmer's account here. In the spring. On these steps. To the whole square."
+"Davin," he said. "From the Kettle. At Millbrook. I used to read the papers on the jetty." He looked at Orrun. "I read the farmer's account here. In the autumn. On these steps. To the whole square."
 
 "I heard."
 
@@ -201,7 +201,7 @@ Davin looked at her for a long moment.
 
 The council heard her on the three-hundred-and-thirty-fourth day.
 
-In the long hall of the crown's chapter-house. At the top of the city, on the last terrace, above the Crown's Square where the farmer had landed in the spring with his red dragon. Grey stone and dark wood and banners of the orders hanging from the beams, faded. A long table. Old men and old women in the colours of the orders, with chains and badges. And at the head, a thin old man with a heavy gold chain on his chest.
+In the long hall of the crown's chapter-house. At the top of the city, on the last terrace, above the Crown's Square where the farmer had landed in the autumn with his red dragon. Grey stone and dark wood and banners of the orders hanging from the beams, faded. A long table. Old men and old women in the colours of the orders, with chains and badges. And at the head, a thin old man with a heavy gold chain on his chest.
 
 "Lord Thale," said a clerk. "President of the Council."
 
@@ -373,7 +373,7 @@ He lowered the paper.
 
 Nobody answered.
 
-Maren stood at the foot of the corn exchange's steps with her hand on Orrun's neck and thought of a spit of stones a league long, with white crosses on its roofs. And a farmer on it, if he'd done what she'd written on the back of his own page.
+Maren stood at the foot of the corn exchange's steps with her hand on Orrun's neck and thought of a spit of stones a league long, with four thousand people on it. And a farmer on it, if he'd done what she'd written on the back of his own page.
 
 *Keep your coast.*
 

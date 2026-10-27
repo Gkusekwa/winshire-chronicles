@@ -11,11 +11,11 @@ Status: first draft
 Draft notes: Day 45 to day 60. Decided here (proposals):
 - Day 45: the Speaking Stones, on the Plains a day west of the Thornwood's edge: seven tall stones in a horseshoe open to the east, with a flat stone in the mouth of it. The elders of the clans come in: the horse clans on great elk, the forest clans on foot with wolves and bears, the river clans by the Ysse's feeder streams in hide boats carried over the last league. Three elders speak: Elder Aun of the horse clans (very old, white-haired, blind, led by a girl), Elder Morwen of the forest clans (Hesper's clan; heavy, slow, a brown bear lying behind her), and Elder Tolly-Bright (the river clans; small, quick, laughs). About four hundred people sit in the grass outside the horseshoe.
 - The asking, the clans' way: what you know, out loud. What is he. ("The grey-maned. Grandfather.") What does he want. (Maren: "To be near his kin.") What will he do. (Maren: "I don't know. Neither does he.") What is she to him. Hesper: "He lets her sit with him." Aun laughs, a dry sound, and says that's the first true thing a lowlander's said at the Stones in her lifetime.
-- Orrun at the Stones: he lies down in the mouth of the horseshoe on the flat stone, and the seven stones hum, audibly, a low note under the wind; the elk shift and the bears lie down. Aun, blind, puts her hand on the flat stone and says, "There. They know him."
+- Orrun at the Stones: he lies down in the mouth of the horseshoe on the flat stone, and the seven stones hum, audibly, a low note under the wind; the elk shift and the bears lie down. Hesper, palm on the grass, under her breath: "The Grey Mother keeps the stones. That's what we say when the ground shakes." (Plant for Book 3 ch 30.) Aun, blind, puts her hand on the flat stone and says, "There. They know him."
 - The clans' answer, given by Aun: the great beast on the Hollow Ring is kin, as every beast is kin. You don't hunt kin. You don't chain kin. You don't drive kin from where it has lain down. The clans will keep watch, and keep the people out of the grey, and do nothing else. Maren asks what they'll do if the kingdoms come. Morwen: "They'll come. They always come. Then we'll see."
 - Day 48 (flight 1, the echo): Lisska comes in over the plains from the west at noon, very high, and down, and lands in the grass by Orrun; the elk-riders go for their bows and Aun stops them. Lisska can speak to Maren only through Orrun, as far kin: Orrun gives Maren the words slowly. The farmer has bought a book. With a promise. A road for bad men. His family's in the warm caves; the old one's wing is knitting; Wren rode Old Grey all the way to the caves and has given the stone to her father. Maren asks what he'll do with the book. Lisska: *Have it read. He can't read.* Orrun adds his own: *She talks too fast.*
 - Hesper sends wound-moss west with Lisska: Keepers' moss, grey-green, that closes cuts, in a hide bag on a cord round the green dragon's neck, with the knot that tells it what to do tied in the cord. "For the old one's chest. Tell him pack it in wet and leave it. It'll not do much on poor ground. It'll do something." Lisska goes west at dusk on day 48. (She reaches Calder d.54, ch 17.)
-- Days 50–55: the kingdoms come. Day 51: from the west across the Plains, Rowan's company: thirty knights on greyharts with hounds at heel and falcons up, and behind them six wains drawn by oxen with the great chain on them, the links each as long as a man, still bright, and a hundred labourers. Wynn with Ash and Sorrow. They camp at the Thornwood's edge in sight of the Stones. Rowan sends a rider to the elders asking passage to the Ring; the elders say the Thornwood isn't theirs to give passage through, and no one should go. Rowan goes in on day 53. Day 54: from the north, Dane's Wardens: Blue College robes, a dozen Wardens on mountain horses, snow lynx at heel, three stormkites over them, and six mules with the iron binding-lamps wrapped in sacking: the binding-lamps (*be mine*). A thin young man walking beside the last mule with a wooden box on a strap, stopping every half-league to put the box on the ground and kneel by it. Maren doesn't know who he is; she notices him because he's the only one who looks at the ground instead of at the lion.
+- Days 50–55: the kingdoms come. Day 51: from the west across the Plains, Rowan's company: thirty knights on greyharts with hounds at heel and falcons up, Rowan herself on a plain grey horse, and behind them six wains drawn by oxen with the great chain on them (the reeds chain, lengthened and its links recast at Greyhold's forge since the river), the links each as long as a man, still bright, and a hundred labourers. Wynn with Ash and Sorrow. They camp at the Thornwood's edge in sight of the Stones. Rowan sends a rider to the elders asking passage to the Ring; the elders say the Thornwood isn't theirs to give passage through, and no one should go. Rowan goes in on day 53. Day 54: from the north, Dane's Wardens: Blue College robes, a dozen Wardens on mountain horses, snow lynx at heel, three stormkites over them, and six mules with the iron binding-lamps wrapped in sacking: the binding-lamps (*be mine*). A thin young man walking beside the last mule with a wooden box on a strap, stopping every half-league to put the box on the ground and kneel by it. Maren doesn't know who he is; she notices him because he's the only one who looks at the ground instead of at the lion.
 - Day 56: Hesper takes Maren to a sleepwood grove two days' walk south: forty trees with pale smooth bark and long weeping streaks of amber resin, the air sweet as a honey-store. Orrun won't come within a league of it; it's the smell of the knowe, of the hunters' smoke on the island. Hesper: the Keepers have decided at the Stones, without the elders, that the groves must burn, so no binder can cut resin to cook honey-smoke for the Ring. Her grandmother planted this one.
 - Night 57: the burning. Keepers in a ring round the grove with torches; they ask the trees' leave in the old tongue first, a long murmur, and then put the torches in. The resin goes up like fat. The smoke is sweet and heavy and goes up over the Thornwood in a pillar; all over the forest, other pillars, a dozen, two dozen. Maren keeps far upwind with a wet cloth over her face. Even at a league, through the bond, she feels Orrun go slow and heavy and far away for a moment, like the knowe, and has to call him back. Hesper weeps without making a sound and keeps her torch in.
 - Days 58–60: the smoke drifts over the Plains for three days. The beasts go out of the Thornwood from it, faster now. The Wardens' snow lynx are seen staggering at the forest's edge with their eyes empty for a moment and then come back. Rowan's company and Dane's Wardens have both gone in, toward the grey. Hesper, day 60: "Now we go too."
@@ -117,6 +117,8 @@ He got up out of the grass before she'd turned round, and came through the ring,
 The Stones hummed.
 
 Maren heard it. Everybody heard it. Not through the bond: with her ears. A low note, under the wind, very deep, coming out of the seven stones all at once, like the note a great bell makes long after it's been struck, when you can feel it more than hear it. It went on. The elk shifted their feet and threw up their heads. All round the ring, the bears lay down flat in the grass with their chins on their paws. The wolves whined.
+
+Beside Maren, Hesper had put her palm flat on the grass. "The Grey Mother keeps the stones," she said, under her breath. "That's what we say when the ground shakes."
 
 Orrun lay on the flat stone with his eyes half shut, and the Stones hummed round him.
 
@@ -222,7 +224,7 @@ Hesper sent the moss that evening.
 
 She came across from the Keepers' fires with a hide bag the size of two fists, tied at the neck, and knelt in the grass in front of Lisska, who looked at her with great suspicion.
 
-"Keepers' moss," Hesper said to Maren. She opened the bag and showed her: grey-green, soft, damp, smelling of stone and rain. "We put it in wounds. It closes them. On good ground it closes a cut in a night. On poor ground, slower." She tied the bag shut again, and then took a length of green cord from her belt and began to knot it round the bag's neck. Three turns, a twist, and a word, soft. "This tells it what it's for. So it'll wait in the bag till it's put in a wound and then it'll know." She looked at the knot. It held. Out here, on the Plains, a day from the grey, it held. "Tell your farmer: for the old one's chest. Wet it in clean water, pack it in, and leave it. Don't keep looking. Moss doesn't like being looked at."
+"Keepers' moss," Hesper said to Maren. She opened the bag and showed her: grey-green, soft, damp, smelling of stone and rain. "We put it in wounds. It closes them. On good ground it closes a cut in a night. On poor ground, slower." She tied the bag shut again, and then took a length of green cord from her belt and began to knot it round the bag's neck. Three turns, a twist, and a word, soft. "This tells it what it's for. So it'll wait in the bag till it's put in a wound and then it'll know." She looked at the knot. It held. Out here, on the Plains, a day from the forest and a week from the grey, it held. "Tell your farmer: for the old one's chest. Wet it in clean water, pack it in, and leave it. Don't keep looking. Moss doesn't like being looked at."
 
 Maren said it to Orrun. Orrun said it to Lisska. Lisska listened with her head on one side.
 
@@ -242,13 +244,13 @@ From the west first. Maren saw them from the rise of the Stones in the middle of
 
 Knights.
 
-Thirty of them, perhaps, on greyharts, the tall grey deer of the knights' stables, with the hounds running at their heels and two falcons up over them, turning in the sky. Greyhold's banner at the head of the column. And behind the knights, slower, six great wains drawn by oxen, eight to a wain, and on each wain a heap of something that caught the sun.
+Thirty of them, perhaps, on greyharts, the tall white deer of the knights' stables, with the hounds running at their heels and two falcons up over them, turning in the sky. Greyhold's banner at the head of the column. And behind the knights, slower, six great wains drawn by oxen, eight to a wain, and on each wain a heap of something that caught the sun.
 
 She knew what it was before she could see it.
 
-The chain. The great new chain they'd forged at Greyhold before the gate fell, that she'd seen on its wain in the reeds below Redwatch on the morning after the river. Links as long as a man's body, bright iron still, every one, wound in heaps on the six wains like a great sleeping snake. And a hundred labourers walking beside the wains with picks and stakes and mallets over their shoulders.
+The chain from the reeds, and more. She'd seen it on its wain below Redwatch on the morning after the river, forty fathoms of ordinary iron; the crown had had it lengthened since, and its links recast at Greyhold's forge, every link now as long as a man's body, bright iron still, wound in heaps on the six wains like a great sleeping snake. And a hundred labourers walking beside the wains with picks and stakes and mallets over their shoulders.
 
-At the head of the column, on a big grey greyhart with a white blaze, a small neat woman with iron-grey hair cut short.
+At the head of the column, on a plain grey horse among the greyharts, a small neat woman with iron-grey hair cut short.
 
 Rowan.
 
@@ -334,9 +336,7 @@ She stood at the edge of the hollow with her spear in her hand and looked at the
 
 "Not all of them. The ones in the middle. She brought the seedlings up from the south in a basket on her back when she was a girl, and planted them here, and came every spring to see them, and when she was too old to walk I carried her." She was quiet. "We don't cut them. Ever. The resin's for wounds. For birthing. A little, in a fire, at a burying, so the dead sleep easy. That's all. It's forbidden to sell it. It's forbidden to take it out of the forest." She looked at the long gold streaks down the bone-white bark. "And they take it anyway. The smugglers. To Saltreach. And it comes back as honey-smoke, and it goes in a pot under a beast's nose, and a binder puts his hand on its head."
 
-Maren didn't say anything.
-
-"The knights have a chain," said Hesper. "The Wardens have their lamps. And somewhere behind them, there'll be the others. The ones who came for the grey-maned on the knowe. You know there will." She turned and looked at Maren. "They'll want smoke. For the one on the Ring. A great deal of smoke, for a beast that size. And here it is. Forty trees of it. A day from the grey."
+"The knights have a chain," said Hesper. "The Wardens have their lamps. And somewhere behind them, there'll be the others. The ones who came for the grey-maned on the knowe. You know there will." She turned and looked at Maren. "They'll want smoke. For the one on the Ring. A great deal of smoke, for a beast that size. And here it is. Forty trees of it. Within reach of the grey."
 
 "So you're going to burn it."
 
@@ -346,9 +346,9 @@ Maren didn't say anything.
 
 They burned it at moonrise.
 
-Twelve Keepers, in a ring round the hollow, with torches. Maren stood far back, upwind, on the path, with a cloth soaked in the stream over her mouth and nose, the way Hesper had told her.
+Twelve Keepers, in a ring round the hollow, with torches. Maren stood far back, upwind, on the path, with a cloth soaked in the stream over her mouth and nose, as Hesper had told her.
 
-They didn't put the torches in at once. They stood in the ring with the torches lit and held up, and they spoke to the trees. In the old tongue. All of them together, low, a long running murmur that went on and on, round and round, like the setting-song the farmer had told her about. Asking, Hesper said afterwards. Asking the trees' leave.
+They didn't put the torches in at once. They stood in the ring with the torches lit and held up, and they spoke to the trees. In the old tongue. All of them together, low, a long running murmur that went on and on, round and round, like the song Gunna had said the ledges sang over the old one's wing. Asking, Hesper said afterwards. Asking the trees' leave.
 
 Maren didn't know if the trees gave it.
 
@@ -364,9 +364,9 @@ She looked round. Away to the north, over the black line of the trees, another p
 
 Through the bond, a league off, she felt Orrun go.
 
-Not far. A little. Slow and heavy and far away, as if he'd lain down in deep water and was letting himself go under. Like the knowe. The smoke hadn't reached him; she could feel he was upwind, a long way. It was enough that he could smell it. That he knew what it was.
+Not far. A little. Slow and heavy and far away, as if he'd lain down in deep water and was letting himself go under. Like the knowe. Only the thin edge of the smoke had reached him; she could feel he was upwind, a long way. It was enough that he could smell it. That he knew what it was.
 
-She didn't think. She reached for him. Hard, through the bond, the way she'd reached on the knowe.
+She didn't think. She reached for him. Hard, through the bond, as she'd reached on the knowe.
 
 *Orrun.*
 

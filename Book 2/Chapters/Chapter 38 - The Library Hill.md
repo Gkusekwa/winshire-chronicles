@@ -9,10 +9,10 @@ Beats: Afternoon. In drowning Vael, Corvin's hunters attack the Library with the
 Echo of the other's story: The lion's wall in the lower city, holding.
 Status: first draft
 Draft notes: Days 157–176 in summary; day 177 dawn to mid-afternoon. Decided here (proposals):
-- Days 157–171 on the ridge over the camp, in the snow, watching. The lantern owl comes to the captain's tent every few days from the south-west. Night 172 the whole south-west sky goes white for a moment, low on the clouds, very far off, and then the cold comes on the wind a day later (he doesn't know what it was: Vael's surge; ch 36).
+- Days 157–171 on the ridge over the camp, in the snow, watching. The lantern owl comes to the captain's tent every few days from the north-west. Night 172 the whole north-west sky goes white for a moment, low on the clouds, very far off, and then the cold comes on the wind a day later (he doesn't know what it was: Vael's surge; ch 36).
 - Day 171 the foot party goes: the captain and fifteen hunters, packs and crossbows, down by the cornice pass the way Tasso guided them. Left in the camp: four hunters, the four binders, the Saltreach drawer, the four young dragons and the two wyverns.
 - Night 176 the binders put riding pads on the four dragons and iron baskets of honey-pots under their chests; a binder sits on each neck with a hand on the head; the drawer rides the bronze behind its binder; the four camp hunters ride the wyverns, two to each. They go up at midnight and fly west, then south round the Fells' end, low, without fire. Calder follows on Kharrak a league back, by the honey-smell on the wind; Lisska flies ahead in the dark, high, and tells him where they are.
-- Dawn 177 the hunters' flight lies up in the valley below Glasswater's foot, on a shelf above the river, under the hills: they're coming at Vael from the south, up the lake, because the Wardens' watch is on the pass road and Starwatch looks north-east. Calder lies up a league below on a ledge in the valley side.
+- Dawn 177 the hunters' flight lies up in the valley below Glasswater's foot, on a shelf above the river, under the hills: they're coming at Vael from the south, up the lake, because the Wardens' watch is on the pass road and Starwatch watches the sky. Calder lies up a league below on a ledge in the valley side.
 - Mid-morning: the owl comes down the valley to the hunters' shelf; the six go up into the fog over the lake's foot and are gone. Before Calder can follow: the cold. The fog thickens and comes down the valley. The Pale Coil comes over the lake's lip in it, and the lip breaks behind it; the Coil goes down the valley past the ledge in its own fog, so close he feels the frost form in his beard; Kharrak flattens on the ledge and doesn't breathe fire; Lisska presses herself under Kharrak's wing. The flood comes after it, filling the valley side to side below the ledge. Kharrak refuses to fly into the Coil's fog; they wait till it's gone down the valley.
 - Early afternoon: they go north up the drowned valley, low, against the flood (Maren's view, ch 37), over the broken lip, up the lake, over the lower city half under water, over the hill.
 - The hill: dust and frost on the broken crown; the Blue tower a heap; the Library's long slate roof running half a league along the hill's top. The bronze on the broken terrace by the hole; the black on the slates above the great door; the two-year-old red on the Hall of Rings' dome; the yearling red on the ridge of the Library's roof at the hill end, over the great window at the bird's end. Honey-smoke from the iron baskets set down along the front. A dead proctor at the great door. The foot party is inside. The wyverns circling over the front. Black smoke from the Scribes' college roof, which the black has fired to draw the Wardens.
@@ -46,17 +46,17 @@ He watched the yearling most. Since the night Lisska had called to her from the 
 
 The lantern owl came every few days.
 
-A grey bird, big-eyed, out of the south-west, low over the snow at dusk. Into the captain's tent. Out again the next morning, back the way it had come. He knew where it went. He didn't know what it carried.
+A grey bird, big-eyed, out of the north-west, low over the snow at dusk. Into the captain's tent. Out again the next morning, back the way it had come. He knew where it went. He didn't know what it carried.
 
 On the night of the hundred-and-seventy-second day the sky went white.
 
-Not over the camp. Far off. South-west, over the Fells, low on the clouds, so far away that at first he thought it was lightning. But it didn't flicker. It came up white along the bottom of the clouds, as if somebody had opened a door in a dark room a long way off, and stayed, and then went out.
+Not over the camp. Far off. North-west, over the Fells, low on the clouds, so far away that at first he thought it was lightning. But it didn't flicker. It came up white along the bottom of the clouds, as if somebody had opened a door in a dark room a long way off, and stayed, and then went out.
 
 *What was that?* said Lisska.
 
 He didn't know.
 
-The next day a wind came off the south-west so cold that the snow in his hole went hard as stone, and Kharrak stopped saying he was bored.
+The next day a wind came off the north-west so cold that the snow in his hole went hard as stone, and Kharrak stopped saying he was bored.
 
 ---
 
@@ -124,7 +124,7 @@ And at the far end of the lake, small, a city on a hill.
 
 The hunters had come down on a shelf above the river a little below the lake's lip. Six shapes on the grass, folded. Calder saw them from a league down the valley and put Kharrak down on a ledge in the valley's side under an overhang of rock, out of sight, where they could see the shelf.
 
-He understood it then. Why they'd come round. The Wardens watched the pass road into Vael, on the north-east. Starwatch looked north-east. Nobody looked at the lake's foot. Nobody would look for six dragons coming up the lake from the south, low over the water, in the fog.
+He understood it then. Why they'd come round. The Wardens watched the pass road into Vael. Starwatch watched the sky. Nobody looked at the lake's foot. Nobody would look for six dragons coming up the lake from the south, low over the water, in the fog.
 
 He lay on the ledge with his chin on his hands and watched the shelf.
 
@@ -272,7 +272,7 @@ There. On the edge of the broken terrace. A man standing on the old stone at the
 
 His coat was smoking.
 
-As Calder watched, the big man's knees went. He went down on one knee on the stone, with his hands still out, and smoke coming up off his sleeves, and his face grey. In the surge, Calder thought. He didn't know the word yet. He thought it later. In the surge the stone was too full, and the man had drawn on it as hard as he would have drawn on ordinary stone, and it had gone through him like a river through a sluice.
+As Calder watched, the big man's knees went. He went down on one knee on the stone, with his hands still out, and smoke coming up off his sleeves, and his face grey. The stone was too full, and the man had drawn on it as hard as he would have drawn on ordinary stone, and it had gone through him like a river through a sluice.
 
 The big man got up again. Slowly. He turned his hands toward the roof.
 
@@ -348,7 +348,7 @@ The yearling lifted her head.
 
 ---
 
-Everything was too much that afternoon. He understood that afterwards. Everything in Vael was too full. The stone, the lamps, the words. The bound beasts too. The binding was only words and smoke and a man's will, held in an iron collar, and in the surge it held as a wet knot holds when the rope swells.
+Everything in Vael was too full that afternoon. The stone, the lamps, the words. The bound beasts too. The binding was only words and smoke and a man's will, held in an iron collar, and in the surge it held as a wet knot holds when the rope swells.
 
 It slipped.
 
@@ -382,9 +382,9 @@ He didn't touch her.
 
 "It's all right," he said. Out loud. "It's a roof. You're on a roof. It's all right."
 
-She looked at him. Her eyes were gold, like Lisska's, but darker. Wide.
+She looked at him. Her eyes were gold, like Kharrak's, but darker. Wide.
 
-"There's a lake down there," said Calder. "It's done something odd today, but it's a lake. And that's a city. People live in it. Too many of them. And over there," he pointed, slowly, west, "there's barley. A long way off. Fields of it. You'll like barley. Everyone does. It's no use to you, you can't eat it, but you'll like it. It goes gold at the end of summer, and when the wind comes over it, it goes all one way, like water."
+"There's a lake down there," said Calder. "It's done something odd today, but it's a lake. And that's a city. People live in it. Too many of them. And over there," he pointed, slowly, south, "there's barley. A long way off. Fields of it. You'll like barley. Everyone does. It's no use to you, you can't eat it, but you'll like it. It goes gold at the end of summer, and when the wind comes over it, it goes all one way, like water."
 
 He didn't know why he said it. He kept saying it. Barley, and the farm, and the river, and the reeds. Lisska came down out of the air and landed on the ridge on the other side of the yearling and lay down on the lead with her chin on her forefeet, small and green and close, and hummed.
 

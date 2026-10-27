@@ -19,7 +19,7 @@ Draft notes: Day 177, from soon after noon to late afternoon. Decided here (prop
 - The killing: three crossbows. The bird doesn't move off the case. The bolts take it in the breast. It sits down on the case.
 - Last words, to Idony, who has crawled back to it on his elbows: "Ask, ferryman." And then: "Ask everything."
 - The captain lifts the bird off the case (it's light) and takes the case. Idony sees him open it to be sure: the roll, and the appendix with the rune of holding drawn stroke by stroke and the working-words. Sixth-ring script. The captain can't read it; he looks at it upside down for a moment and shuts it. The realisation: Corvin has the chain-craft now, and can't read a word of it; he'll need a reader; the only reader in Vael who has read it is Idony.
-- Kharrak comes through the great window at the hill end: the glass and the lead coming in in a sheet, frost and white light, the red dragon on the floor of the hall among the shelves. Too late. The hunters are already going out by the readers' door under the window to the steps, where the black and the two-year-old red are down and the bronze is slack, waiting for a hand; three dragons go up from the steps with the hunters on them and the case. Kharrak turns in the hall, can't get out the way he came fast enough, breaks out through the window again; they're over the towers north-east; he comes back.
+- Kharrak comes through the great window at the hill end: the glass and the lead coming in in a sheet, frost and white light, the red dragon on the floor of the hall among the shelves. Too late. The hunters are already going out by the readers' door under the window to the steps, where the black and the two-year-old red are down; the bronze lies slack on the terrace beyond, waiting for a hand, until a hunter runs to it; three dragons go up from the steps and the terrace with the hunters on them and the case. Kharrak turns in the hall, can't get out the way he came fast enough, breaks out through the window again; they're over the towers south-east, toward the Fells; he comes back.
 - Echo: the farmer comes in through the broken window, climbing down Kharrak's leg: three marks on his chest where his shirt is torn (Idony sees them in the white light); he kneels by the bird and says "I know. I know" to something nobody else can hear (Kharrak, grieving; Idony can't hear dragon-speech).
 - Idony sends a clerk running for Maren (ch 37 end).
 Magic touches: the surge in the hall (lamps, hum, shelves frosting); an old beast's feathers turning a net in the surge; the drawer's blow (weight) and his burnout; old script that nobody but a Sixth ring and Idony can read.
@@ -33,7 +33,7 @@ Up Ferry Street through the wreck. Up Rope Street through the frost, past the cr
 
 The College of Tides stood on the hill's south shoulder, below the Library, with a covered bridge from its fourth floor into the Library's upper gallery at the middle of the hall's length. The Tides readers used it in winter, so as not to go out into the snow. He'd used it for eleven years.
 
-The College was empty. Every lamp white. The soft green of the Tides' lamps gone to a white so hard it hurt to look at. He went up the stairs and along the corridor and the floor hummed under his boots again, wild, uneven, not the steady full hum of the stir but a shaking, like a drum being beaten by someone who didn't know how. The surge. He'd felt it every day for five days and he still wasn't used to it.
+The College was empty. Every lamp white. The soft blue of the Tides' lamps gone to a white so hard it hurt to look at. He went up the stairs and along the corridor and the floor hummed under his boots again, wild, uneven, not the steady full hum of the stir but a shaking, like a drum being beaten by someone who didn't know how. The surge. He'd felt it every day for five days and he still wasn't used to it.
 
 The bridge's door was locked. He got the key out with his teeth.
 
@@ -109,7 +109,7 @@ One of the men swore.
 
 They brought the cage. They put it down in front of the bird with its door open. They waited.
 
-The bird looked at the cage. It looked at it for a long time with its good eye. Then it looked up at the man with the grey beard.
+The bird looked at the cage. It looked at it with its good eye. Then it looked up at the man with the grey beard.
 
 "No," it said.
 
@@ -143,7 +143,7 @@ Idony didn't say anything.
 
 He said it reasonably. Like a man laying out the terms of a sale.
 
-"My master. The man who pays for all this." He moved a hand, a small movement, at the hunters, the cage, the net, the crossbows. "He knows what's in that case. He was told. He's wanted it a long time. But he can't read it. I've been told that too. Nobody can read it but your oldest masters, and they won't. And one Second-ring reader of the College of Tides who was seen at a reading-desk at the foot of this perch for a whole night in the spring with his palm on the vellum." He looked at Idony. "Who's read it. Who's got it in his head."
+"My master. The man who pays for all this." He moved a hand, a small movement, at the hunters, the cage, the net, the crossbows. "He knows what's in that case. He was told. He's wanted it a long time. But he can't read it. I've been told that too. Nobody can read it but your oldest masters, and they won't. And one Second-ring reader of the College of Tides who was seen at a reading-desk at the foot of this perch for a whole night this summer with his palm on the vellum." He looked at Idony. "Who's read it. Who's got it in his head."
 
 Idony said nothing. He felt the bird behind him. Very still.
 
@@ -257,7 +257,7 @@ Then he picked up the case.
 
 He opened it. Standing there, at the foot of the perch, with Idony kneeling beside him. To be sure. He lifted the silver-bound lid and looked in. Idony saw the vellum. Brown, soft as cloth. The roll, and under it, folded, the appendix. He saw the man's eyes go over the first lines.
 
-The man with the grey beard looked at the hooked script for a long moment. He turned the case a little in his hands, as if the letters might make more sense from a different side. They didn't. Idony watched him look at it as anyone in Winshire would have looked at it, but three or four old men in the Sixth-ring house and one Second-ring reader of the College of Tides.
+The man with the grey beard looked at the hooked script for a long moment. He turned the case a little in his hands, as if the letters might make more sense from a different side. They didn't. Idony watched him look at it as anyone in Winshire would have looked at it, but two old men in the Sixth-ring house and one Second-ring reader of the College of Tides.
 
 He shut the lid.
 
@@ -291,7 +291,7 @@ Red. Huge. Wings filling the end of the hall.
 
 The red dragon came down on the floor of the Long Library among the shelves with the broken glass still falling round it and the shelves going over on either side of it like dominoes, books going everywhere in a storm of pages, and roared. The sound filled the hall from end to end. Half a league of it. Every lamp shook.
 
-He'd seen it once before, small, at dusk, coming over the Fells beside a green one, from the window at this end of the hall.
+He'd read it once before, on a green glass at this end of the hall: two coming over the Fells, close together.
 
 It was too late.
 
@@ -307,9 +307,9 @@ It couldn't turn fast. The hall was wide for a hall and narrow for a dragon. Its
 
 Idony got up onto his knees and looked out through the broken window.
 
-On the steps below, three dragons. The black. A red, young. And a bronze, standing slack on the steps with its head down until a hunter climbed onto its neck and laid a hand on it, and it lifted its head and its eyes stayed empty.
+On the steps below, three dragons. The black. A red, young. And on the terrace beyond, a bronze, lying slack with its head down, until a hunter ran to it and climbed onto its neck and laid a hand on it, and it lifted its head and its eyes stayed empty.
 
-They went up. All three. Off the steps, with the hunters on their backs, and the man with the grey beard on the black with the case held against his chest. Up over the towers. North-east. Fast. Toward the Fells.
+They went up. All three. Off the steps and the terrace, with the hunters on their backs, and the man with the grey beard on the black with the case held against his chest. Up over the towers. South-east. Fast. Toward the Fells.
 
 The red dragon went after them, out of the window, over the steps.
 

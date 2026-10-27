@@ -14,7 +14,7 @@ Draft notes: Days 318–324. Decided here (proposals):
 - **The salt-wives' brine**: every dawn, at the end of the spit, the salt-wives (the women who work the pans; the town's real government, Arn says) come out in a line with cups of brine from the pans and pour them back into the sea, one cup each, for the Drowned Lady, so she'll keep the spit; the eldest says the words: *Lady, we give you back your salt. Keep the stones.* They say she always has: the spit has stood through every storm in living memory and in the stories before that. The white-armed salt-wife (ch 59) is **Hessa Pane**, the eldest's daughter. They won't leave the pans: "The Lady keeps the spit. She's kept it since before the Council."
 - The roofs: Arn's riders go along the spit marking every roof that can take a dragon's weight: a white lime cross on the ridge; flat ones and stone-built ones; the smoke-houses' roofs are best; four hundred and twelve roofs marked; the plan: when it comes, the people go up onto the marked roofs and the baskets come for them, roof by roof.
 - **The letter to the Tide Council**: Calder writes it at a table in the Anchor-and-Net (Gullhaven's inn, the worst wine in Winshire) with Ada. First version: what Aurveth felt; the breath; it's waking; the Strand fleet won't hold it; please tell Gullhaven to go. Ada reads it: "They'll say a farmer had a feeling on a rock." She makes him rewrite it "so they can't pretend not to understand": second version, plainer, with things they can't wave away: the reader's numbers (Glasswater five days after the Vael relic; the Scald five days; the Sun Stair: within the month, and it was); what happened at Vael, at the Scald (with names: Pike, Moss); that the Council's own contract says *as Kessmoor took and holds*: Kessmoor's cage is a league of iron and canals on land, burning six hundred hearts a day; a fleet can't build that on a reef; and what the Council will be asked when four thousand people drown on a spit in its own League: *Who knew?* "Say it plainer than that." Third version signed CALDER FENN; sent by a Clan rider to Corsa on day 322.
-- Echo: Lisska three weeks gone (since day 300): the bond an empty place where she should be: not gone, far: so far he can only feel that the thread's still there, not her at the end of it. Night 323 Aurveth wakes on the spit and lifts her head and stares south-west along the coast and won't say what she felt. (Lisska saw Idony taken, ch 63; she's coming home east now.)
+- Echo: Lisska three weeks gone (since day 300): the bond an empty place where she should be: not gone, far: so far he can only feel that the thread's still there, not her at the end of it. Night 323 Aurveth wakes on the spit and lifts her head and stares south-west along the coast and won't say what she felt. (Lisska, who saw Idony taken in ch 63, left Sorrel Isle at dusk 322 and has turned for home; Aurveth feels her coming.)
 Magic touches: the Drowned Lady's offering (folk practice, no working); dragon weight on roofs; the bond felt across great distance as a thread with nobody at its end.
 notes -->
 
@@ -140,7 +140,7 @@ The smoke-houses were best. Stone-walled, with flat roofs of slab for the smoke 
 
 Four hundred and twelve roofs.
 
-He walked the spit at dusk on the three-hundred-and-twentieth day and looked at them. White crosses on the ridges, all the way out along the shingle to the end, in the last light. Like the lions on the doors of Solenne's low quarter, that a Sarovel sailor had told him about on the jetty at Blackwater.
+He walked the spit at dusk on the three-hundred-and-twentieth day and looked at them. White crosses on the ridges, all the way out along the shingle to the end, in the last light.
 
 People had come out of their houses to look at the crosses on their roofs.
 
@@ -160,7 +160,7 @@ He pushed it across the table.
 
 Ada read it.
 
-She read it twice. She put it down.
+She read it. She put it down.
 
 "They'll say a farmer had a feeling on a rock," she said.
 
@@ -256,7 +256,7 @@ He was asleep against her side on the shingle at the end of the spit, where she'
 
 He woke too.
 
-She was looking south-west. Along the coast. Toward the far end of everything, where it went away past Corsa into a dark he'd never flown.
+She was looking south-west. Along the coast. Toward the far end of everything, where it went away west past the Wend's mouth into a dark he'd never flown.
 
 She was very still.
 
@@ -274,7 +274,7 @@ She didn't answer. She lay on the shingle with her great old head lifted and tur
 
 "What, then?"
 
-*Something happened,* said Aurveth. *A long way off. She saw it.* She didn't put her head down. *I can feel her feeling it. At the end of the thread. Very far.* A long pause. *I won't say what. I don't know what. I only know it was bad, and she saw it, and she's coming.*
+*She's turned,* said Aurveth. *A long way off. She's coming.* She didn't put her head down. *I can feel her feeling it. At the end of the thread. Very far.* A long pause. *I won't say what. I don't know what. She saw something bad, a long way off, and she's coming now.*
 
 She didn't say anything else.
 

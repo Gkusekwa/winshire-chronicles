@@ -36,7 +36,7 @@ Not all of it. In one crack, at the bottom, where the stone went into the ground
 
 It spread.
 
-He watched it spread. Up the crack, slowly, the way a stain spreads up a wick: the grey moss going green a hair's breadth at a time, and then faster, and then the next crack, and the lichen round it, grey to yellow-green, like a lamp being turned up.
+He watched it spread. Up the crack, slowly, as a stain spreads up a wick: the grey moss going green a hair's breadth at a time, and then faster, and then the next crack, and the lichen round it, grey to yellow-green, like a lamp being turned up.
 
 He looked round.
 
@@ -92,7 +92,7 @@ He buried it at the lip of the sink, in the green grass, with his quill-knife, a
 
 The Wardens' wards blazed.
 
-He saw it in the afternoon. The Wardens who were left, five of them who could walk, sitting by their camp on the rise. Their sleeve-wards, the grey silk bands with the blue-thread runes that had gone dull on the sixty-first day as they crossed into the grey, and stayed dull since.
+He saw it in the afternoon. The Wardens who were left, five of them who could walk, and Pask, still sick from the beck, sitting by their camp on the rise. Their sleeve-wards, the grey silk bands with the blue-thread runes that had gone dull on the sixty-first day as they crossed into the grey, and stayed dull since.
 
 They weren't dull now.
 
@@ -152,7 +152,7 @@ He saw it later, when the surgeon came out of the tent shaking his head and Mare
 
 Rowan lay on her pallet and looked at the bowl of moss Hesper had left on the floor beside her for a long time.
 
-She didn't say anything about it. Not then, not after. But Idony saw her look at it, and he thought he knew what she was thinking, because he was thinking it too. On the other bank of the world, in her own kingdom, there were children drinking sour water, and the licensed surgeons' words did nothing, and somewhere a Keeper's moss that had sat in a bag on the dead grey for twenty days had closed a gash in a night as soon as the ground came back.
+She didn't say anything about it. Not then, not after. But Idony saw her look at it, and he thought he knew what she was thinking, because he was thinking it too. On the other bank of the world, in her own kingdom, there were children drinking sour water, and the licensed surgeons' words did nothing, and somewhere a Keeper's moss that had sat in a bag on the dead grey for a month had closed a gash in a night as soon as the ground came back.
 
 He wrote it down. *Moss: healing in a night, in the surge. The moss is the same moss. The ground is not the same ground.*
 
@@ -186,7 +186,7 @@ He couldn't. Idony understood it before anyone. The young Warden was kneeling on
 
 "Let go!" Dane shouted.
 
-It was Maren who got him off. Climbed the stone, again, two days after she'd taken him off the other one into the beck. Took him by the collar and pulled, and his hands came away from the stone with a sound like tearing cloth, and they fell together off the top, and this time there was no beck under them, only the grass, and Orrun, who'd come round the stone and was there for them to fall on.
+It was Maren who got him off. Climbed the stone, again, the day after she'd taken him off the other one into the beck. Took him by the collar and pulled, and his hands came away from the stone with a sound like tearing cloth, and they fell together off the top, and this time there was no beck under them, only the grass, and Orrun, who'd come round the stone and was there for them to fall on.
 
 Pask lay on the green grass with his eyes open, shaking.
 
@@ -198,7 +198,7 @@ He didn't know why it was him. He thought perhaps because he'd been sitting near
 
 He talked, some of the time. Not to Idony. To someone called Ell, who Idony guessed was a sister, about a goat that had got into the kitchen. Then about stones. Then nothing.
 
-His hair was red. Bright red, the way it had been every day for a hundred days, when Idony looked at him at midnight.
+His hair was red. Bright red, as it had been every day since Vael, when Idony looked at him at midnight.
 
 When Idony looked at him at dawn it was white.
 
@@ -378,7 +378,7 @@ Then, out of habit, he took the first of them, the green one that had come throu
 
 On midsummer night he'd held it up at the lip of the sink, in the wreck, with the dead in the grass, and seen the three-together stir far off in the south-west going ragged. Pulling apart. One of the three coming away from the others, as if it were coming loose. He'd looked once since, coming up out of the dark under the stones, and they'd still been there, three, together, but thin at one edge, as if the one that had been coming loose were only just holding on.
 
-He'd thought about it every night since. He didn't know why. He didn't know what it was. Three things that drew on the Deep together, in the same place, always together, on a high moor a long way south-west, at the edge of his chart. Nothing in the commentaries looked like it. He'd thought, on midsummer night, that whatever it was had broken. He'd thought, under the stones, that it might still.
+He'd thought about it every night since. He didn't know what it was. Three things that drew on the Deep together, in the same place, always together, on a high moor a long way south-west, at the edge of his chart. Nothing in the commentaries looked like it. He'd thought, on midsummer night, that whatever it was had broken. He'd thought, under the stones, that it might still.
 
 He held the glass up and looked.
 

@@ -17,7 +17,7 @@ Draft notes: Day 111 to day 135. Decided here (proposals):
 - Day 131: the High Crown's shoulder; Glasswater below, long and blue under the towers of Vael, and, lying on the lake, grey, enormous, the Titan. On the water. Like an island that breathes. The lower city's lamps at dusk dimmer than they should be; the Library hill above lit white; a cold coming off the lake that isn't the season.
 - Day 133: the herd stops above the Vael Pass at the pass-stone and the old cow lays her trunk on it (the old agreement, Bestiary). They'll go no further toward the city. The cow and Orrun: a long rumble. Maren and Orrun go on alone.
 - Day 135, Vael's south gate (the lake gate, at the end of the pass road): Wardens with a register: every bond-gift is wild power and must be written down, with the bearer's name, the beast, the gift, its reach, and a mark. Maren gives her name. She won't put Orrun on the register. "He's not a gift. He's not mine." The Wardens look at the lion. They don't make her. (Rumour of it reaches the Library by night, ch 31.)
-- The echo, at the gate: a Saltreach salt-merchant in the queue with three mules, arguing about tolls, telling the Wardens about Wendmouth: a dragon farmer came down on Gallows Quay a fortnight ago with a red dragon and a green one and burned a trading house's warehouse to the waterline, the Halloran house, and nobody could stop him, and the Tide Council's offering money. Maren listens and doesn't turn round.
+- The echo, at the gate: a Saltreach salt-merchant in the queue with three mules, arguing about tolls, telling the Wardens the talk at the pass-toll, come up from the coast by bird: a dragon farmer came down on Gallows Quay a fortnight ago with a red dragon and a green one and burned a trading house's warehouse to the waterline, the Halloran house, and nobody could stop him, and the Tide Council's offering money. Maren listens and doesn't turn round.
 - The voice: the road from the lake gate up into the city passes under the Library hill, under a row of tall narrow windows cut in the hillside. From one of them, high up, as she passes under it with the lion, a dry exact voice like a quill on good paper says, "Maren Ashdown." She looks up. A dark shape at the window, a beak like a cobbler's awl, one milky eye. It says nothing else.
 Magic touches: the drained Plains; live ground again at the foothills; the tuskers' rumble; far-kin speech (lion and tusker); the old milestone; the Titan's stir on Glasswater as seen from the shoulder (lower city dim, Library hill white, a cold off the lake); the Wardens' register of wild power.
 notes -->
@@ -42,7 +42,7 @@ Orrun was eating again.
 
 Not much. Not the way he'd eaten on the Scarfell. He went out into the grass at night and came back before dawn and she didn't ask what he'd found. He walked beside her by day, slowly, and he was thin, and the grey at the roots of his mane hadn't gone. She'd thought it would grow out. It hadn't. When the sun was behind him she could see it: a band of ash-pale, close to the skin, under the iron-grey.
 
-*It will not go,* he said, when she looked at it too long. *It is the lanes.*
+*It will not go,* he said, when she looked at it too long. *It is the stakes. And the lanes.*
 
 "Does it hurt?"
 
@@ -128,11 +128,11 @@ The old cow and the lion. In the high bowl, under the snowfields, with the herd 
 
 And the ground spoke.
 
-Maren felt it. Not heard: felt. A rumble. Long, low, rising and falling, so deep it was below sound. It came up out of the ground under the old cow's feet and went through the bowl and through Maren's boots and up her legs and into her chest, where it sat like a second heartbeat, slow, enormous. It went on. It stopped. It came again.
+Maren felt it, below hearing. A rumble. Long, low, rising and falling, so deep it was below sound. It came up out of the ground under the old cow's feet and went through the bowl and through Maren's boots and up her legs and into her chest, where it sat like a second heartbeat, slow, enormous. It went on. It stopped. It came again.
 
 Then Orrun answered.
 
-Not in words. She felt it through the bond, and she felt it through the ground. Something went out of him, down, into the earth under his paws, the way his earth went out of him into the bank at the Moot, only not to move anything. To say something. And it went across the ten paces of turf and white flowers to the old cow's feet.
+Not in words. She felt it through the bond, and she felt it through the ground. Something went out of him, down, into the earth under his paws, as his earth went out of him into the bank at the Moot, only not to move anything. To say something. And it went across the ten paces of turf and white flowers to the old cow's feet.
 
 The cow lifted her head.
 
@@ -282,7 +282,7 @@ Not the colour of any college. White. Bright, cold, every one of its tall window
 
 A drain, with a full cup at its mouth.
 
-And coming up off the lake, as the light went, cold. She felt it on her face, on the ridge, a long way above the water. Not the night's cold. Not the mountain cold. Something else. A cold that came off the surface of Glasswater like breath off ice, in high summer, and went up the hills on every side.
+And coming up off the lake, as the light went, cold. She felt it on her face, on the ridge, a long way above the water. Something other than the night's cold, or the mountain's. A cold that came off the surface of Glasswater like breath off ice, in high summer, and went up the hills on every side.
 
 She pulled her coat round her and didn't know what it was.
 
@@ -358,7 +358,7 @@ She didn't say anything.
 
 "No," said Maren.
 
-The clerk looked at her. One of the Wardens, a big woman with short hair, came over from the gate.
+The clerk looked at her. One of the Wardens, a big man with short hair, came over from the gate.
 
 "He's not a gift," said Maren. "He's not mine." She looked down at the book, at the column of beasts. *Hawk. Hound.* "I'll write my name. I've written it. He's not going in your book."
 
@@ -368,7 +368,7 @@ Orrun hadn't moved. He stood in the road with his head up and his pale eyes on t
 
 The Warden looked at him a long time.
 
-Then she looked at the clerk.
+Then he looked at the clerk.
 
 The clerk turned the book back round and wrote something in it, beside Maren's name, very small, and didn't look up again.
 
@@ -378,7 +378,7 @@ The clerk turned the book back round and wrote something in it, beside Maren's n
 
 The merchant behind her in the queue was arguing about tolls.
 
-She heard him as she went through the gate. A Saltreach voice, loud, aggrieved, the coast in every vowel. A salt-merchant, with three mules loaded with sacks, who'd come all the way up from the coast and over the pass, and was not going to pay the colleges' toll on salt as well as the pass-toll on mules, and said so, at length.
+She heard him as she went through the gate. A Saltreach voice, loud, aggrieved, the coast in every vowel. A salt-merchant, with three mules loaded with sacks, who'd come over the pass, and was not going to pay the colleges' toll on salt as well as the pass-toll on mules, and said so, at length.
 
 "Things are bad enough on the coast," he was saying. "Bad enough. You'd not believe. There's a dragon farmer loose in Wendmouth."
 
@@ -386,7 +386,7 @@ Maren stopped.
 
 She didn't turn round. She stood just inside the gate with her back to the queue and her hand on Orrun's shoulder and listened.
 
-"A fortnight ago," said the merchant. "On Gallows Quay. Came down out of the sky in broad day with a red one and a green one, a red dragon and a green, and set fire to a trading house's warehouse. The Halloran house. Biggest on the quay." He was enjoying it now; she could hear it. "Burned it to the waterline. Nobody could stop him. Their drawer came out on the quay and the red one knocked him in the harbour with its tail. And the farmer standing on the quay in the smoke with something under his arm, a book, they said, as if he'd come shopping."
+"It was all the talk at the pass-toll," said the merchant. "Came up by bird. A fortnight ago, it was. On Gallows Quay. Came down out of the sky in broad day with a red one and a green one, a red dragon and a green, and set fire to a trading house's warehouse. The Halloran house. Biggest on the quay." He was enjoying it now; she could hear it. "Burned it to the waterline. Nobody could stop him. Their drawer came out on the quay and the red one knocked him in the harbour with its tail. And the farmer standing on the quay in the smoke with something under his arm, a book, they said, as if he'd come shopping."
 
 "And?" said a Warden, bored.
 

@@ -17,7 +17,7 @@ Draft notes: Days 357–362. Decided here (proposals):
 - **He still knows everything**: he tests himself in the night: the grammar, the unmakings, the roll's appendix: all there, every stroke; he says *hold* to a cup and it's a word; he can see the shape of every working and can't do one.
 - Day 359 dawn Calder goes (to the Scarfell, where the Clan's gone: the Titan's on their moor; Wren; Ada); he leaves the pages, ruled and full, on the table weighted with Liss's lamp; "I'll come back for them. Or Lisska will." Idony reads the glasses alone after that, aloud, to the empty kitchen, and remembers the numbers because he can't write them.
 - Days 360–361: the five dips arrive at the Scarfell one by one; then the readings change: not six breaths: one; all six glasses (he has four) moving together, in time: **all six breathing as one**. He says it aloud to the kitchen.
-- **Echo**, day 362 dusk: he stands in the ferry-house door with his stick (Joby Marsh cut him a better one from a hazel) and looks north-east up the valley, past the fallen hill, to the Scarfell's rim; and on the horizon, against the evening sky, six shapes, very far off, rising off the moor together into the air; going east.
+- **Echo**, day 362 dusk: he stands in the ferry-house door with his stick (Joby Marsh cut him a better one from a hazel) and looks north-east up the valley, past the fallen hill, to the Scarfell's rim; and on the horizon, against the evening sky, six shapes, very far off, rising off the moor together into the air; going east. Maren, back from the river with Liss, stands at the jetty's end with her hand in the lion's mane, watching the same way; he doesn't call to her. He says the last reading aloud through the open door.
 Magic touches: tide-glasses read without working (measure); burnout's aftermath: knowledge without craft; the six as one breath.
 notes -->
 
@@ -213,7 +213,7 @@ He lay there in the dark with everything he'd ever known in his head, whole, and
 
 The farmer went at dawn on the third day.
 
-To the Scarfell. The Clan had gone up there in the night of the hill's falling, all of them, to their own moor, because that was where the thing had lain down. His daughter was there. His mother.
+To the Scarfell. The Clan had gone up there the day after the hill fell, all of them, to their own moor, because that was where the thing had lain down. His daughter was there. His mother.
 
 He left the pages on the table.
 
@@ -305,4 +305,6 @@ Toward the Worldsend.
 
 He stood in the door and watched them go until there was nothing on the horizon but the dark.
 
-Then he went in and sat down at Liss's table with the farmer's pages under the lamp, and put his shaking hand flat on them, and said the last reading aloud, to the empty kitchen, so somebody would have heard it.
+Down at the jetty's end a small figure stood with her back to him and her hand in a lion's mane, looking the same way. He didn't call to her.
+
+Then he went in and sat down at Liss's table with the farmer's pages under the lamp, and put his shaking hand flat on them, and said the last reading aloud, through the open door, so somebody would have heard it.

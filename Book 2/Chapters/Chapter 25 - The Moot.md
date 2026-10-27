@@ -6,7 +6,7 @@ Part: Part Two: Midsummer
 Days: 104–105 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Kethra's Moot, Lake Ysse
 Beats: Kethra's Moot on Lake Ysse. Because of Idony's warning, half the clans are on the water when the ground opens. **The first waking** *(canon)*: the Thornwood sleeper rises, antlered like a winter wood, and the forest walks with it; the Thornwood's beasts come in a beast-flood, elk and wolves and bears and stonehorns all running one way. The clans hold the tent-lanes with what they have: the horse clans' stonehorns shoulder to shoulder, the Keepers' wolves and bears, a duskcat on every tent-ridge for the night watch. **Orrun's shadow** *(canon: he can multiply; Book 1 ends with one duplicate at a time)*: one second Orrun, as big and as strong as he is, holds the far tent-lane while he holds the near one, for half an hour, longer than he's ever held one. Maren feels herself stretched across two bodies; afterwards she can't feel her legs until dawn, and Orrun won't eat for three days. Hesper and Hush die holding the last lane.
-Echo of the other's story: Idony's last reading before the ground opens: three dragons together, far off, and still.
+Echo of the other's story: Idony's last reading before the ground opens: he turns the green glass south-west, to the far-off three, and nods once.
 Status: first draft
 Draft notes: Day 104, morning, to dawn on day 106. Decided here (proposals):
 - Day 104, morning: the Moot's answer, given by Aun on the shingle: nobody will be told to go. Whoever believes the lowlander's glass takes to the water; whoever doesn't, stays; the elders stay, because elders stay. By noon half the clans are on the lake: the river clans' round hide boats, rafts of lashed poles, the horse clans' people crowded into anything that floats, out on the still water a bowshot from shore. The other half stay on the north shore with the beasts, the old, the sick, and the stubborn.
@@ -69,7 +69,7 @@ She said it as if she'd seen it before. Maren asked.
 
 They set the lanes at dusk.
 
-The clans did it the way they'd have done it for a fire. Without being told. Maren watched it happen all along the slope.
+The clans did it as they'd have done it for a fire. Without being told. Maren watched it happen all along the slope.
 
 The horse clans brought their stonehorns down. Not wild ones: tame ones, the herd they'd brought to the Moot to trade, sixty of the great grey plated beasts, short-sighted, short-tempered, as big as haywains, driven down by riders on elk into the two western lanes and turned to face the forest. They stood shoulder to shoulder across the lanes, three deep, with their great horns forward, like a wall of grey rock with spikes in it.
 
@@ -141,13 +141,9 @@ The lake was absolutely still.
 
 Idony picked up the first of the four glasses. The green one. The one that had come through the sink.
 
-He didn't look north. He turned it south-west, as he always did, and held it up to the grey sky, and looked into it for a long moment.
+He didn't look north. He turned it south-west, as he always did, and held it up to the grey sky, and looked into it for a long moment. Then he nodded, once, to himself.
 
-"Three," he said. "Together. Still."
-
-He said it to her. She didn't know why. As if he thought she'd want to know, the last thing, before.
-
-She did.
+She didn't ask.
 
 He put the glass into the crate, in its straw, and shut the lid.
 
@@ -229,7 +225,7 @@ And in her own lane, the near lane, the flood came down at Orrun.
 
 He stood across it.
 
-She stood beside him. She didn't know why. There was nothing she could do. She stood at his shoulder in the near lane with Haverly's sword in her hand, dark, useless, and the flood came down the slope at them: deer and boar and a pack of wild wolves and an elk bull with its antlers back and its eyes white, all of it, mad, coming straight down the lane at the lion.
+She stood beside him. There was nothing she could do. She stood at his shoulder in the near lane with Haverly's sword in her hand, dark, useless, and the flood came down the slope at them: deer and boar and a pack of wild wolves and an elk bull with its antlers back and its eyes white, all of it, mad, coming straight down the lane at the lion.
 
 He roared.
 
@@ -285,7 +281,7 @@ The flood hit it, and turned.
 
 She was in two places.
 
-She didn't know how else to say it, after. She tried, to Idony, and he wrote it down, and she read what he'd written and it was wrong, and she couldn't make it right. She stood in the near lane beside Orrun with the flood going past her, and she was there. And she stood in the far lane, too, in the turf, in the earth, in the bank, with the flood going past, and the children's roundhouse at her back, and she was there. Not seeing it. Being it. Stretched between them like a skin over two drums, and both drums being beaten.
+She didn't know how else to say it, after. She tried, to Idony, and he wrote it down, and she read what he'd written and it was wrong, and she couldn't make it right. She stood in the near lane beside Orrun with the flood going past her, and she was there. And she stood in the far lane, too, in the turf, in the earth, in the bank, with the flood going past, and the children's roundhouse at her back, and she was there. Stretched between them like a skin over two drums, and both drums being beaten.
 
 She was cold.
 
@@ -299,7 +295,7 @@ She stood in two lanes at once and held on.
 
 In the seventh lane, Hesper was singing.
 
-Maren heard her through the far lion's ears. The seventh lane was the next one over from the sixth, the narrow one, by the forest's edge, and the far Orrun was close enough to hear. Not Maren. Him. And through him, her.
+Maren heard her through the far lion's ears. The seventh lane was the next one over from the sixth, the narrow one, by the forest's edge, and the far Orrun was close enough to hear. And through him, she heard.
 
 Hesper was standing in the narrow lane with her spear in her hand and Hush beside her, low, flat to the ground, with her tail lashing. And the flood was coming down the seventh lane at them. Not as much as the others: it was narrow. But the first of everything had come out of the trees there, nearest the forest's edge, and it was coming.
 
@@ -309,7 +305,7 @@ In the old tongue. The Keepers' way. Maren heard the words and didn't know them 
 
 In the surge, it took too hard.
 
-They heard her. Every one. The whole front of the flood coming down the seventh lane heard the Keeper ask, and turned, all at once, the way Hesper's knot had wound too tight round her fingers, the way her torch had flared to her wrist. They turned. Too hard. Too fast. A wild stonehorn bull at the front of them, mad, plated, as big as a haywain, heard her ask it to go round, and went round.
+They heard her. Every one. The whole front of the flood coming down the seventh lane heard the Keeper ask, and turned, all at once, as Hesper's knot had wound too tight round her fingers, the way her torch had flared to her wrist. They turned. Too hard. Too fast. A wild stonehorn bull at the front of them, mad, plated, as big as a haywain, heard her ask it to go round, and went round.
 
 Into the side of the lane.
 
@@ -323,7 +319,7 @@ Maren heard it. The far Orrun heard it. The crack of the roof-tree. The rush of 
 
 Under it, as it came down, Hesper was singing.
 
-Not the asking. The other thing. The little tune. Rising and falling, the way you'd sing to something you were trying to rock. Maren heard it, through him, the last of it, very clear, in the clans' tongue and then, at the very end, as if she'd known somebody was listening who wouldn't understand, in Maren's own.
+Not the asking. The other thing. The little tune. Rising and falling, as you'd sing to something you were trying to rock. Maren heard it, through him, the last of it, very clear, in the clans' tongue and then, at the very end, as if she'd known somebody was listening who wouldn't understand, in Maren's own.
 
 *Hush, now. Hush. Like the six who sleep.*
 

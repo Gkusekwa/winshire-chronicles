@@ -3,19 +3,19 @@
 <!-- notes
 POV: Calder
 Part: Part Five: The Sun Stair
-Days: 325–332 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
+Days: 325–329 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Gullhaven
 Beats: Lisska comes home at last (end of **flight 5**) with Maren's word: Idony taken, the control relic under Hearthmere, Maren going home to the door. Calder's errand has caught up with the Titan's road: Corvin is going where the Titan's going. He stays for the Bell, because it's his people, and keeps Lisska with him for a week to rest; the Clan's promise will go west with her next flight: when the coast is done, they'll come.
 Echo of the other's story: Maren's word, in her square hand on the back of his own page: "Going home. Keep your coast."
 Status: first draft
-Draft notes: Day 325, with the week after in summary (to 332). Decided here (proposals):
-- Lisska comes in at dawn over the end of the spit from the west, so tired she lands in the sea short of the shingle and Kharrak wades in and lifts her out by the scruff like a cat with a kitten. She's been gone twenty-five days.
-- She tells him (bond-voice, now she's close) what she saw at Solenne: the thing in the bay; the three lions on the stair; the ship; the reader dragged up the plank; the crossbows; following it to the bay's end. Aurveth's night-stare (ch 64, night 323) was this.
+Draft notes: Day 325, with the days after in summary (to 329). Decided here (proposals):
+- Lisska comes in at dawn over the end of the spit from the west, so tired she lands in the sea short of the shingle and Kharrak wades in and lifts her out by the scruff. She's been gone twenty-five days.
+- She tells him (bond-voice, now she's close) what she saw at Solenne: the thing in the bay; the three lions on the stair; the ship; the reader dragged up the plank; the crossbows; following it to the bay's end. Aurveth's night-stare (ch 64, night 323) was Lisska turning for home with it.
 - The letter: his own Blackwater page, Maren's answer on its back; he reads it himself at once on the shingle. *Corvin's men took Idony onto a ship at Solenne. Going east. He knows the words.* / *The ring is under Greyhold. Below the chains. That is the held breath. It is carved in the temple. Corvin knows where.* / *Going home. Keep your coast.*
 - The two roads: he sees it on the shingle with the reef out there and the crosses on the roofs behind him: his errand (Corvin, the coin, the young ones, the man who paid) has caught up with the Titan's road: Corvin's going where the Titan's going: to the middle: under Greyhold. The ship went east: along this coast. Toward the Wend's mouth, and up it.
 - He wants to go. To Greyhold. Liss is there. Maren's going there. He stays: the Bell is coming (the reader's interval: a month after the Sun Stair: about day 345–348), and Gullhaven is his people: Saltreach, his own coast, four thousand on a spit with white crosses on their roofs, and the Clan's baskets, and a contract fleet coming to cage the thing.
 - Arn on the shingle: "Go, if you want. We'll lift them." Calder: "No. I said I'd keep it." (Maren's line.) Arn: "Then when the coast's done, the Clan goes to the river. All of us. Tell her." The Clan's promise: when the coast is done, they'll come.
-- Lisska rests a week (to day 333: flight 6) before going west again with the promise; Calder writes it (a page; the promise, the crosses, the Strand fleet sighted off Corsa; Ada adds nothing this time).
+- Lisska rests (to day 333: flight 6) before going west again with the promise; Calder writes it on day 328 (a page; the promise, the crosses, the Strand fleet sighted off Corsa; Ada adds nothing this time).
 - Echo: he reads the last line again at dusk on the shingle: *Going home. Keep your coast.* The salt-wives come back from the pans past him.
 Magic touches: the bond-voice returning at close range; dragon exhaustion; the reef's breath (felt faintly now through his own feet: since the reef he can feel it a little without Aurveth).
 notes -->
@@ -36,7 +36,7 @@ She came down short. Ten paces out. Into the sea, with a splash, and went under,
 
 Kharrak was already in the water.
 
-He waded out. To his chest. And put his head down and took her by the scruff of the neck in his jaws, very carefully, as a cat lifts a kitten, and lifted her out of the sea, dripping, and carried her up onto the shingle, and put her down at Calder's feet.
+He waded out. To his chest. And put his head down and took her by the scruff of the neck in his jaws, very carefully, and lifted her out of the sea, dripping, and carried her up onto the shingle, and put her down at Calder's feet.
 
 She lay there with the sea running off her.
 
@@ -96,7 +96,7 @@ Aurveth, behind him, said: *That's what I felt.*
 
 He turned his head.
 
-*Two nights ago,* said Aurveth. *When I woke. When I looked south-west and wouldn't say.* She was very quiet. *That was her seeing it. At the end of the thread. I didn't know what it was. I knew it was bad.*
+*Two nights ago,* said Aurveth. *When I woke. When I looked south-west and wouldn't say.* She was very quiet. *That was her turning for home with it. At the end of the thread. I didn't know what it was. I knew it was bad.*
 
 ---
 
@@ -112,9 +112,7 @@ Her hand. Square. Big. Plain. Written so he could read it.
 
 He read it on the shingle. Himself. At once. Without his finger. He didn't need his finger for her hand any more.
 
-*Corvin's men took Idony onto a ship at Solenne. Going east. He knows the words.*
-
-*The ring is under Greyhold. Below the chains. That is the held breath. It is carved in the temple. Corvin knows where.*
+Idony taken, onto a ship, going east. The ring under Greyhold, below the chains. Corvin knowing where. And the last line, on its own.
 
 *Going home. Keep your coast.*
 
@@ -126,7 +124,7 @@ The sun came up over the sea behind the reef. The salt-wives came past him along
 
 *The ring is under Greyhold.*
 
-The held breath. The dead-still place on the reader's chart, under the Old Ruin, where all the lines went in and nothing moved. *Nobody knows what that is,* the reader had said, on the frost, with his finger on it.
+The held breath. The dead-still place on the reader's chart, under the river hill, where all the lines went in and nothing moved. *Nobody knows what that is,* the reader had said, on the frost, with his finger on it.
 
 Now somebody did.
 
@@ -134,7 +132,7 @@ And so did the man who'd paid for everything. The man who'd paid for the ford an
 
 The ship had gone east.
 
-Along this coast. Past Corsa. Past the Saltings. Past here, perhaps, in the night, out at sea, with no lights. To the Wend's mouth. And up the river. Home.
+Along the coast. West of here. To the Wend's mouth, and up the river. Home.
 
 ---
 
@@ -156,7 +154,7 @@ His road had caught up with hers.
 
 He wanted to go.
 
-He sat on the shingle with the letter in his hands and wanted it so much his chest hurt where the three marks were. To get up on Kharrak's back now, this morning, and go north and east. Over the Saltings, over the Ashlings, over the Marches. To the river. To Greyhold, where Liss was. Where Maren was going, on foot, with a lame lion, from the other end of the world.
+He sat on the shingle with the letter in his hands and wanted it so badly he couldn't sit still. To get up on Kharrak's back now, this morning, and go north. Over the Ashlings, over the Marches. To the river. To Greyhold, where Liss was. Where Maren was going, on foot, with a lame lion, from the other end of the world.
 
 *Liss says come home.*
 
@@ -168,7 +166,7 @@ He looked out at the reef.
 
 Two leagues off the end of the spit. Black. Low. The line of white where the waves broke on it. He couldn't hear the bell. It wasn't low water. But he could feel it.
 
-He'd been able to, a little, since the night on the rock. Not like Aurveth. Not like what she'd shown him. A little. Through his feet, through the shingle. A slow cold pull, going in toward the reef, under everything. And under it, something breathing. Shorter now. Quicker.
+He'd been able to, a little, since the night on the rock. Nothing like what Aurveth had shown him. A little. Through his feet, through the shingle. A slow cold pull, going in toward the reef, under everything. And under it, something breathing. Shorter now. Quicker.
 
 The reader's numbers. On the back of his own letter. *After that the coast. The reef by Gullhaven. A month after. Your coast.*
 
@@ -226,7 +224,7 @@ He kept Lisska a week.
 
 She needed it. She slept for two days on the shingle against Kharrak's side with his wing over her, and woke, and ate a whole sheep, and slept again. On the fourth day she flew a little, round the harbour, and came down, and slept again.
 
-*I'll go again,* she said. On the sixth day. *When you've written it.*
+*I'll go again,* she said. That evening. *When you've written it.*
 
 "When you're well."
 
@@ -238,7 +236,7 @@ She needed it. She slept for two days on the shingle against Kharrak's side with
 
 ---
 
-He wrote it at the Anchor-and-Net.
+He wrote it at the Anchor-and-Net that night.
 
 At the table with the bad wine on it, with Ada across from him. She didn't fold her arms this time. She didn't say anything at all. She sat and watched him write, and when he'd finished she read it and nodded and gave it back.
 
@@ -264,6 +262,6 @@ He didn't read the first two lines. He knew them. He turned it to the last one.
 
 *Going home. Keep your coast.*
 
-He read it. Once. Then once more.
+He read it. Once.
 
 Behind him, along the spit, the salt-wives were coming back from the pans in the dusk with their arms white to the elbow, talking, laughing, past the roofs with the white crosses on them, going home.

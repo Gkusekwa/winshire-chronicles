@@ -11,7 +11,7 @@ Status: first draft
 Draft notes: Day 151 to day 156. Decided here (proposals):
 - Day 151–152: west along the Fells from the camp to Starwatch's peak, the highest in this end of the range; seen from Vael on day 152 (ch 34). Kharrak and Lisska lie up in a corrie below the summit on the far side; Calder climbs.
 - Day 153: the six hundred steps, cut in the rock up the peak's south face from a guardhouse at the foot (a stone hut with a slate roof where two College Wardens keep the road, with one bonded sabrecat between them). He walks past it at dawn as a pilgrim (the astronomers take pilgrims; people climb to see the stars from the top). He counts the steps. At the four-hundredth he can see Glasswater, a day off, blue, and the grey island lying on it.
-- The tower: a squat round tower of black stone on the very top, with a dome of iron plates that open; inside, the great lens: a tube of brass as long as a barn on an iron cradle, with a lens at its end the size of a cartwheel, ground by Kessmoor glassmen two hundred years ago. Three astronomers live there: Master Halvard Esk, Fourth ring, old, small, with a beard to his belt and a squint from sixty years at the eyepiece; his granddaughter Mira, sixteen, sharp; and a silent Third-ring Scribe who does the arithmetic.
+- The tower: a squat round tower of black stone on the very top, with a dome of iron plates that open; inside, the great lens: a tube of brass as long as a barn on an iron cradle, with a lens at its end the size of a cartwheel, ground by Kessmoor glassmen two hundred years ago. Three astronomers live there: Master Halvard Esk, Fifth ring, old, small, with a beard to his belt and a squint from sixty years at the eyepiece; his granddaughter Mira, sixteen, sharp; and a silent Third-ring Scribe who does the arithmetic.
 - Day 153–154: Esk takes Calder for a pilgrim and then, when Mira sees the bond marks at his open collar (bronze, rust, green), goes very quiet and takes him down to the library under the tower: the star-tables, three hundred volumes, every night's sky for six hundred years and older copies of older tables.
 - "One comes with three": in a very old table (a copy of a copy, of a table from before the colleges), a conjunction: the three wandering stars the Isvaren call the Ferrymen (red, green, and pale gold) standing together in the Hunter's belt, which happens once in about a thousand years. Beside the entry, in the margin, a little drawing in faded ink: a man, standing, with three marks on his chest, one under the other, and a line of hooked script under the drawing that Esk reads: *one comes with three.* The next column gives when it was last seen: the end of the one realm. And the one before that, as far back as the table goes. Esk worked out years ago when it would come next: last autumn. He watched it from the dome. "The night of the harvest's last full moon. I've never seen anything so beautiful." Calder asks what night. It was the night of the mill.
 - Calder can read three of the words in the margin himself: ONE, WITH, THREE (Esk has the hooked script read out; Mira writes it in common letters under it for him). He looks at the drawing a long time. It's a man; it doesn't look like him; it's nobody.
@@ -75,7 +75,7 @@ He was out of breath. Six hundred and four steps; the last four were up to the d
 
 A girl opened it.
 
-Sixteen, perhaps. Thin, in a long grey woollen gown with ink on the cuffs and her hair tied up in a cloth, and a sharp face, and eyes that went over him once from his boots to his hood, quickly, the way Wren's did.
+Sixteen, perhaps. Thin, in a long grey woollen gown with ink on the cuffs and her hair tied up in a cloth, and a sharp face, and eyes that went over him once from his boots to his hood, quickly, as Wren's did.
 
 "Pilgrim?" she said.
 
@@ -95,13 +95,13 @@ She looked at him a moment longer. Then she stood aside.
 
 Her name was Mira, and her grandfather was the Master of Starwatch, and he'd been looking at the sky for sixty years.
 
-Master Halvard Esk. Fourth ring, the girl said, as if that meant something, and Calder nodded as if it did. Small, old, with a white beard down to his belt that he tucked into the belt so it wouldn't get in the way, and a squint in his right eye so bad that he had to turn his head sideways to look at you with his left. Sixty years at the eyepiece, Mira said. The right eye was the one he looked through.
+Master Halvard Esk. Fifth ring, the girl said, as if that meant something, and Calder nodded as if it did. Small, old, with a white beard down to his belt that he tucked into the belt so it wouldn't get in the way, and a squint in his right eye so bad that he had to turn his head sideways to look at you with his left. Sixty years at the eyepiece, Mira said. The right eye was the one he looked through.
 
 He was in the dome.
 
 Calder had never seen anything like it. The whole of the inside of the tower was one room, round, going up to the iron dome, and in the middle of it, on an iron cradle as big as a hay-wain, there was a tube. Brass. Green with age. As long as a barn. It pointed up at the slot in the dome, which was shut, at an angle, and at the bottom end of it there was a little brass cup you put your eye to, and at the top end, Mira said, a glass. A great round glass, the size of a cartwheel, ground by Kessmoor glassmen two hundred years ago, the only one like it in the world.
 
-"The great lens," said Master Esk, without turning round. He was standing at the bottom end of the tube with a cloth, polishing the brass cup. "It sees what eyes can't. That's all. No magic in it. Kessmoor glass and Kessmoor brass and a great deal of patience." He turned his head sideways and looked at Calder with his good eye. "You've come up for the stars."
+"The great lens," said Master Esk, without turning round. He was standing at the bottom end of the tube with a cloth, polishing the brass cup. "It sees what eyes can't. That's all. No magic in it. Kessmoor glass and Kessmoor brass and a great deal of patience." He turned his head sideways to look at Calder past the squint. "You've come up for the stars."
 
 "Yes."
 
@@ -135,7 +135,7 @@ Mira stood in the doorway with the candle and looked at them.
 
 She didn't say anything. She went very white. Then she turned round and went away down the stair fast, and he heard her calling her grandfather, and her grandfather's voice answering, cross, and then not cross.
 
-When Master Esk came to the door of the cell, he didn't look at Calder's face. He looked at his chest. For a long time, with his head turned sideways and his good eye very close.
+When Master Esk came to the door of the cell, he didn't look at Calder's face. He looked at his chest. With his head turned sideways, very close.
 
 "Three," he said.
 
@@ -167,7 +167,7 @@ He took one down. Brown. Soft. So old the binding was coming away in flakes.
 
 ---
 
-He opened it on a table under a lamp and turned the pages for a long time, with his head sideways, looking with his good eye.
+He opened it on a table under a lamp and turned the pages, with his head sideways.
 
 Calder stood beside him.
 
@@ -175,7 +175,7 @@ The pages were columns. Rows and rows of them, in the hooked script, tiny, faded
 
 The old man stopped.
 
-He put his finger on a line. Not on the page; just above it, not touching, the way you'd point at something you were afraid would come off on your hand.
+He put his finger on a line. Not on the page; just above it, not touching, as you'd point at something you were afraid would come off on your hand.
 
 "There," he said.
 
@@ -189,7 +189,7 @@ He moved his finger to the margin.
 
 There was a drawing there.
 
-Small. In ink gone brown and faint. A figure: a man, standing, drawn the way a child draws a man, a round head and a body and arms and legs. And on the man's chest, on the left side, one under the other, three small marks.
+Small. In ink gone brown and faint. A figure: a man, standing, drawn as a child draws a man, a round head and a body and arms and legs. And on the man's chest, on the left side, one under the other, three small marks.
 
 Under the drawing, a line of the hooked script.
 
@@ -199,7 +199,7 @@ He couldn't read the hooked script. Nobody could but the scholars. But he looked
 
 "What does it say?" he said.
 
-The old man read it, slowly, with his good eye very close.
+The old man read it, slowly, with his head sideways and his nose nearly on the page.
 
 "*One comes with three,*" said Master Esk.
 
@@ -335,11 +335,11 @@ The man Warden put his hand on the sabrecat's chain. The cat's tail stopped lash
 
 "Enough," said Master Esk.
 
-He'd come out from behind the great lens. Small, old, with his beard tucked into his belt and his head turned sideways to look at the Wardens with his good eye. He stood in the middle of the dome between them and the stair.
+He'd come out from behind the great lens. Small, old, with his beard tucked into his belt and his head turned sideways to look at the Wardens. He stood in the middle of the dome between them and the stair.
 
 "This tower is the colleges'," he said. "These steps are the colleges'. That lens is the colleges'. I've kept them for the colleges for sixty years." He didn't raise his voice. "And I'll not have the colleges' business done on my roof by two Wardens and a cat." He pointed at the door. "If the Blue College wants him, it can send a Master to ask. Politely. Up six hundred steps."
 
-The woman Warden looked at the old man for a long time.
+The woman Warden looked at the old man.
 
 Then she folded the paper and put it in her coat.
 
@@ -427,7 +427,7 @@ Grey. Enormous. With a mane like an iron-grey cloud. Walking out of the door of 
 
 He didn't breathe.
 
-He watched them come out of the door and stand at the top of the hill in the dusk, for a moment, looking out. North-east. Toward the mountains. Toward him, though she couldn't know. The lion lifted its head. The woman stood with her hand on its neck and looked at the Fells going pink along their tops.
+He watched them come out of the door and stand at the top of the hill in the dusk, for a moment, looking out. South-east. Toward the mountains. Toward him, though she couldn't know. The lion lifted its head. The woman stood with her hand on its neck and looked at the Fells going pink along their tops.
 
 Then they turned, and went down the hill, out of the lens.
 
@@ -447,7 +447,7 @@ He took his eye away.
 
 Master Esk stopped cranking.
 
-He looked at Calder sideways with his good eye for a long moment. Then he went back to the crank.
+He looked at Calder sideways for a long moment. Then he went back to the crank.
 
 "Then you'd better be quick," he said, "when you go down. And go before the Master comes up."
 
@@ -463,11 +463,11 @@ He put it in his coat. With the red book and Rook's book. With the knife and the
 
 And the stone. Small, flat, grey, with a white ring round it.
 
-He touched it in his coat. He didn't know why. He'd started doing that.
+He touched it in his coat. He'd started doing that.
 
 Kharrak came over the top of the peak from the corrie and landed on the bare rock by the tower door so heavily that the iron plates of the dome rang, and stood there, red, enormous, in the dawn, and Mira looked up at him with her mouth open and didn't say anything at all.
 
-Master Esk came to the door behind her. He looked at the red dragon for a long time, with his head sideways and his good eye very wide.
+Master Esk came to the door behind her. He looked at the red dragon with his head sideways, very still.
 
 "Hm," he said.
 

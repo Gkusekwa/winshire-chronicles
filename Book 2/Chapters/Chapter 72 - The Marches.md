@@ -6,7 +6,7 @@ Part: Part Six: The Drowned Bell
 Days: 342–348 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Marches; Greyhold landing
 Beats: Maren tells the Marches to leave the river. Corvin is buying binders and the Restoration's broken bands on the Hearthmere bank, and running water is the one thing that stops a spoken binding (Magic §8), so she sends people **east over the Wend**, onto the Saltreach bank and up the Drover's Way, away from them. Liss's new rope; the ferry running day and night; Rowan sending knights to help, against the council's word.
-Echo of the other's story: Liss, from a Saltreach boatman at the jetty: the Titan's been seen going out to sea over the Saltings.
+Echo of the other's story: Liss, from a Clan rider on the Staithe shingle: the Titan's been seen going out to sea over the Saltings.
 Status: first draft
 Draft notes: Days 342–348. Decided here (proposals):
 - Day 342 (after Lisska goes at dawn): **Wynn** (knight of the gate; hounds Ash and Sorrow, ch 1) rides in from Ferriby at noon with news: a band of the Restoration's broken men (twenty, rings on, no banner) came into Ferriby (a River Road village upriver of Greyhold) in the night with three binders; took every plough-ox and the miller's horses and two farm dogs; walked them out on the River Road north in a line, **empty-eyed**, bound; they paid the miller for the horses in Saltreach gold, coins with a ring of six in the rim (Corvin's coin, ch 58). Wynn followed them a league: they went into the Brackenwood.
@@ -15,7 +15,7 @@ Draft notes: Days 342–348. Decided here (proposals):
 - **Liss's new rope**: the old guide-rope won't take the traffic; Isak Thurl gives Liss a coil of Kessmoor hawser off a cage cart (hemp round an iron-wire core, thumb-thick) "against the inventory" ("Put it down as lost in the river." "I will," says Thurl, "and it will be.") Tam and two Kessmoor men rig it from the jetty post to the Staithe on day 343. A second boat: the crown's flat-bottomed cage barge, borrowed by Rowan. The ferry runs day and night from day 344: Liss on one boat, Tam on the other at night, lanterns.
 - **Rowan's knights**: the council's order (by rider, day 343) is every knight at Greyhold to the cage, none on the River Road; Rowan sends Wynn and eight knights with hounds down the River Road anyway on day 344 to help carry the old, to drive cattle down to the landing, and to see the Restoration bands off. "If the council asks, they're scouting." Wynn's hounds working the cattle onto the boats.
 - Day 346 a band at Penfold: twelve men with rings and two binders taking a farmer's cows; Orrun comes down the lane; the binders try a word on him (bond-beast: binders can't bind a bonded beast; he's also old and not a beast in their sense); a beck is running water too: bound cows driven into the beck come out of it themselves, mooing, looking round: Maren sees running water break a binding for the first time with her own eyes; the band runs from the lion; the binders drop their pots.
-- **Echo**, day 348 afternoon: at the jetty a Saltreach salt-boatman come up from Wendmouth on the tide with news from a Saltings barge: the Titan went over the Saltings three days ago, low, at noon, the reeds flat for a league, and out to sea toward Gullhaven. Liss tells Maren at the jetty's end. Maren looks downriver. The farmer's coast. The low spring tide was today, at noon.
+- **Echo**, day 348 afternoon: a Clan rider, down on the Staithe shingle with his dragon and Arn's word for Varrhold, brings it from Gullhaven: the Titan went over the Saltings three days ago, low, at noon, the reeds flat for a league, and out to sea toward Gullhaven. Liss tells Maren at the jetty's end. Maren looks downriver. The farmer's coast. The low spring tide was today, at noon.
 Magic touches: binders' spoken bindings; running water breaking a binding (the beck at Penfold; the Wend); a bonded beast not bindable; the Kessmoor hawser.
 notes -->
 
@@ -31,7 +31,7 @@ He got down. He'd been riding since before dawn.
 
 ---
 
-A band. In the night. Twenty men, he said. No banner. Rings on their fingers, iron, the Restoration's, the ones Reede's paper used to sell for a copper apiece. Broken men. From the army that had come apart on the hill above Cotter's Cross in the autumn.
+A band. In the night. Twenty men, he said. No banner. Rings on their fingers, iron, the Restoration's, the ones Reede's paper used to sell for a copper apiece. Broken men. From the army that had come apart on the hill above Cotter's Cross at midwinter.
 
 And three binders. With pots.
 
@@ -285,7 +285,7 @@ On the three-hundred-and-forty-eighth day. In the afternoon. Maren had come back
 
 Liss came up the jetty from her boat.
 
-"A boatman," she said. "Saltreach. Up from Wendmouth on the tide with salt." She nodded at a flat barge tied up at the Staithe on the other side. "He had it off a Saltings barge at the river's mouth."
+"A Clan rider," she said. "Down on the Staithe shingle with his dragon, carrying Arn's word for Varrhold." She nodded at the far bank. "They'd seen it from Gullhaven."
 
 "Had what?"
 

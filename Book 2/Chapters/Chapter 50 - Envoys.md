@@ -61,7 +61,7 @@ Two Wardens in grey and blue, with a snow lynx. Two Scribes in black with writin
 
 He got down at the gate and stood there.
 
-Idony saw his hands when he took the gloves off to sign Moss's book. Scarred. White and pink and shiny from the fingertips to the wrists, the skin drawn tight and puckered, the fingers stiff. The Wardens' sleeve-wards on fire at the Ring had done that. On the night the Antlered stood up. He'd been bandaged to the wrists at Vael.
+Idony saw his hands when he took the gloves off to sign Moss's book. Scarred. White and pink and shiny from the fingertips to the wrists, the skin drawn tight and puckered, the fingers stiff. The binding-lamps had done that, shattering in his hands at the Thornwood's edge when the Antlered stood up. He'd been bandaged to the wrists at Vael.
 
 "Magister Dane," said Moss. "For the Council of Colleges."
 
@@ -271,7 +271,7 @@ He'd been talking about ships to anyone who'd listen. Idony listened.
 
 "And the *Margery*?"
 
-"Came back in the summer." Quayle turned his good ear to the fire. "Half her crew. The rest dead. Fever, and the sea." He was quiet. "And the ones who came back said they'd seen a far shore. Land. Out there. West of everything. And on it, a mountain."
+"Came back in the summer." Quayle turned his good ear to the fire. "Half her crew. The rest dead. Fever, and the sea. And the ones who came back said they'd seen a far shore. Land. Out there. West of everything. And on it, a mountain."
 
 He looked at Idony.
 
@@ -295,13 +295,13 @@ He looked at it. He didn't cross out *sailors' talk*. He didn't cross out anythi
 
 He marked the Titan every night.
 
-He'd lost it, nearly, after the thirty-third day. It had gone up off the broken basin with the egg in its back and gone west, low, over the cordon, over the moor, toward Gearmouth and the coast. His glasses had followed it. Fainter every night. Out to the very edge of his readings, where the quicksilver barely leaned at all, where a tide-reader learns to look for the faintest things.
+He'd lost it, nearly, after the two-hundred-and-thirty-third day. It had gone up off the broken basin with the egg in its back and gone west, low, over the cordon, over the moor, toward Gearmouth and the coast. His glasses had followed it. Fainter every night. Out to the very edge of his readings, where the quicksilver barely leaned at all, where a tide-reader learns to look for the faintest things.
 
 Then past Gearmouth. Past the coast.
 
 Out over the Western Deep.
 
-It hadn't settled. That was the thing. Every other time, at the Ring, at Vael, at the Scald, it had wandered and then turned and then lain down. Here it didn't lie down. There was nothing to lie down on. It was over the sea.
+It hadn't settled. That was the thing. Every other time, at Vael, at the Scald, it had wandered and then turned and then lain down. At the Ring it had come straight. Here it didn't lie down. There was nothing to lie down on. It was over the sea.
 
 It went round.
 
@@ -333,12 +333,12 @@ He didn't eat. Tobin brought him a sheep from the camp every second day and it l
 
 She looked down at the lion.
 
-"He says it's in a box," she said. "He says it can't drink." She was quiet. "He says it's so hot, and it can't drink, and it doesn't know why."
+"He says it's in a box," she said. "He says it can't drink. He says it's so hot, and it can't drink, and it doesn't know why."
 
 Down in the ditch the lion opened his eyes. He didn't lift his head. He looked along the foot of the bank toward the gate, and the field going up into the grey sky beyond it, and the dull red glow in the middle of the basin.
 
 Then he shut them again.
 
-Idony stood at the top of the bank with Maren for a long time. Neither of them said anything.
+Idony stood at the top of the bank with Maren. Neither of them said anything.
 
 Then he went back to the tower, and set out his four glasses on the cold rail in a ring, and marked the Titan, a dot at the chart's edge, a little further round, over the empty sea.

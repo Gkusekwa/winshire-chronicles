@@ -9,7 +9,7 @@ Beats: The Tide Council's contract on the beast pen: ten thousand for the great 
 Echo of the other's story: The yard shakes underfoot; the sellswords say it's coming from the far east.
 Status: first draft
 Draft notes: Day 25, evening, to day 34. Decided here (proposals):
-- Day 25: Kharrak comes down at dusk in the Ashlings, the Saltreach scrub woods two leagues north-east of the Cross, in a dry gully. Calder can't walk into the Cross with a dragon and a hundred crowns on his head. Kharrak stays in the gully; Lisska goes over the town at dusk and comes back: fires everywhere; men sleeping in the beast pens; and Coll Brask, in the hiring yard, under the yellow tower of Delling's company.
+- Day 25: dawn to dusk for a morning's flight (Calder makes Kharrak come down twice to let the tide go out, and they lie up in a fold till evening). Kharrak comes down at dusk in the Ashlings, the Saltreach scrub woods two leagues north-east of the Cross, in a dry gully. Calder can't walk into the Cross with a dragon and a hundred crowns on his head. Kharrak stays in the gully; Lisska goes over the town at dusk and comes back: fires everywhere; men sleeping in the beast pens; and Coll Brask, in the hiring yard, under the yellow tower of Delling's company.
 - Day 26: Calder walks in at dawn with the hood of the grey Clan cloak up and a borrowed shepherd's crook, among the drovers, as he's done every market day of his life. The Cross: inns, the beast pen, the hiring yard; every door with Reede's bills; the Fleece with the six dots painted on its ram sign; the big room upstairs with its shutters closed. Men everywhere: the companies from the hill above Harrow's End, unpaid since the flight, on credit, waiting.
 - The beast pen: a board nailed on the pen gate, in fresh paint, with the Tide Council's mark (a wave over a coin): TEN THOUSAND SILVER. THE GREAT BEAST OF THE MARCHES. ALIVE. Brask reads it to him. Brask says it means the lion. Every company in the yard has read it.
 - Contract-workers on the pen rail selling "warranted" Titan-charms: tin discs stamped with a beast's shape, against the walker, against the earth-shakes, against the great one coming back. Fakes, all of them: Lisska says they smell of nothing. Calder buys one for a copper to show Ada.
@@ -27,7 +27,7 @@ notes -->
 
 Kharrak came down at dusk in the Ashlings, and Calder slid off his neck into a dry gully full of thorn and sat there a while with his hands shaking.
 
-Not from fear. From the flying. Half a day on the red dragon's neck with the wind in his face and the red tide coming up under him every time they caught a warm draught over a hill, and his own self pushing it down every time, and his hands on the ridge of Kharrak's neck so tight they'd gone white. He sat in the gully and looked at his hands until they stopped.
+Not from fear. From the flying. Most of a day on the red dragon's neck, though the Cross was a morning off: twice he'd made Kharrak come down to let the tide go out of them both, and at the last they'd lain up in a fold of the hills till the light was going. The wind in his face, and the red tide coming up under him every time they caught a warm draught over a hill, and his own self pushing it down every time, and his hands on the ridge of Kharrak's neck so tight they'd gone white. He sat in the gully and looked at his hands until they stopped.
 
 *You'll get used to it,* said Kharrak.
 
@@ -175,7 +175,7 @@ Calder didn't move.
 
 "I know why you want it." Delling put the spectacles on again and looked at him through them, and took them off. "Here's my price."
 
-He said it the way the factors said it, every autumn. As if it were already written down.
+He said it as the factors said it, every autumn. As if it were already written down.
 
 "You."
 
@@ -263,7 +263,7 @@ The red dragon opened one gold eye and looked at him.
 
 Kharrak shut the eye.
 
-Brask sat down on a rock as far from the red dragon as the gully allowed. He put the lantern down and looked at it for a long time.
+Brask sat down on a rock as far from the red dragon as the gully allowed. He put the lantern down and looked at it.
 
 "Delling wants out," he said.
 
@@ -327,7 +327,7 @@ Delling took off his spectacles.
 
 "A road," said Calder. "Home. For your company. All of it. North over the Scarfell from the Ashlings, across the moor, and down Skarrow's side to the coast and along it to Wendmouth. In the Clan's name. Safe." He kept his voice steady. "No burning. No taking. Not a hen. Three parties, a day apart, so the moor can feed you. The riders of the ledges will see you over. Nobody'll touch you. Nobody from the Clan and nobody from upstairs, because the man upstairs doesn't hold the moor and never will."
 
-Delling looked at him for a long time.
+Delling looked at him.
 
 "In the Clan's name," he said. "You can give that?"
 
@@ -381,7 +381,7 @@ Calder stopped with his hand on the latch.
 
 "I've said."
 
-Delling sat back against the wall in the tallow-light, with his small hands on his account book, and looked at the farmer in the doorway for a long time.
+Delling sat back against the wall in the tallow-light, with his small hands on his account book, and looked at the farmer in the doorway.
 
 "Then you're a fool," he said. "Or you're something I haven't got a word for. Forty years in this trade and I haven't got a word for it." He picked up his pen. "Go on. Before the man upstairs hears you've been in."
 

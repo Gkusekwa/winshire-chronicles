@@ -77,7 +77,7 @@ Out of a lifetime's habit. She put two fingers to the kindling at the pyre's foo
 
 Nothing.
 
-Not a spark. Not smoke. Saltreach was drained. Since the leviathan went south with the bell ringing on its back, every charm on the coast was a word and nothing else. Ada knew it. He saw her know it. She'd known it before she turned her fingers.
+Not a spark. Saltreach was drained. Since the leviathan went south with the bell ringing on its back, every charm on the coast was a word and nothing else. Ada knew it. He saw her know it. She'd known it before she turned her fingers.
 
 She took a coal from the salt-store's fire in a pair of tongs, like anyone. And lit it.
 
@@ -107,7 +107,7 @@ For their own.
 
 These weren't their own.
 
-Ulric came down the shingle. Onto the jetty. Out to the end of it, past the barrels, to Arn. He didn't say anything. He put one hand on the barrel's rim.
+Ulric came down the shingle. Onto the jetty. Out to the end of it, past the barrels, to Arn. He put one hand on the barrel's rim.
 
 "One hand each," said Arn.
 
@@ -127,7 +127,7 @@ Then the next. And the next. Sixteen. One hand each.
 
 The salt-wives came after.
 
-Down the jetty in a line. Twenty of them, thirty, with their cups of brine from the pans. The tin cups and the clay and the wooden. Hessa Pane at the front, with her mother's tin cup in both hands, because her mother had been on the chapel roof and was on the hill now with eleven others who'd come off Tamsin's back.
+Down the jetty in a line. Twenty of them, thirty, with their cups of brine from the pans. The tin cups and the clay and the wooden. Hessa Pane at the front, with her mother's tin cup in both hands, because her mother had been on the chapel roof and was on the hill now with ten others who'd come off Tamsin's back.
 
 They lined the jetty's end where the barrels had been.
 
@@ -181,7 +181,7 @@ He stopped. He wet the pen.
 
 *Captain Vey is dead. He died on the reef on the 348th day, getting his drawers into his boat. He was paid for the reef. He stayed on it.*
 
-He stopped again. For a long time.
+He stopped again.
 
 *The roofs we marked stood. The ones we did not mark went. We marked them because a dragon stood on them. Anyone could have.*
 
@@ -247,7 +247,7 @@ Ulric's half stayed a day. To lift the last of Gullhaven off the hill to the far
 
 Gunna took Ada.
 
-Home. To Varrhold. In Tamsin's basket, which Tamsin had flown with eleven people in it three days ago and said nothing about.
+Home. To Varrhold. In Tamsin's basket, which Tamsin had flown with six people in it and five more on her back three days ago and said nothing about.
 
 "Wren'll want it twice," said Ada. Getting into the basket. Without being asked. "All of it. You'd better come and tell her yourself."
 
@@ -347,7 +347,7 @@ They came down at dusk on the Saltreach bank.
 
 At Tolly's Staithe. By the ferry post, where the new rope was tied off, thick, black, humming in the current. Aurveth landed on the shingle above the Staithe and lay down at once and shut her eyes and didn't open them.
 
-On the hill above Harrow's End, a league off, Arn's flights. He could see them in the dusk. Thirty dragons on the hillside, and fires.
+On the hill above Harrow's End, four leagues off, Arn's flights. He could see them in the dusk. Thirty dragons on the hillside, and fires.
 
 And across the river, chains.
 

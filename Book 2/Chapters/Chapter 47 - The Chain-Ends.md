@@ -72,7 +72,7 @@ The four glasses on the tower rail. The silk on his knee. The slope drawn on it 
 
 He laid Vael's slope beside it. And the Ring's.
 
-At the Ring, from the relic to the rising, seven days. At Vael, five. Here the slope said: fewer. He'd told Maren four. He'd been wrong. He drew the line on along the curve of the readings, out past the last mark, to where it would turn.
+At the Ring, from the relic to the rising, seven days. At Vael, five. Here the slope said: no more than that. He'd told Maren four. He drew the line on along the curve of the readings, out past the last mark, to where it would turn.
 
 "Dawn," he said. "The day after tomorrow. The two-hundred-and-thirty-eighth."
 
@@ -108,7 +108,7 @@ He thought it now.
 
 A rune that lights is a rune being fed.
 
-That was the first thing. The first thing any first-year knew. A rune that's dead is dark. A rune that's fed shows it, if you know how to look, and in a surge, or at a touch from something that's all Deep, it shows it plainly. The chain-ends had lit at Orrun's touch.
+Any first-year knew that. A rune that's dead is dark. A rune that's fed shows it, if you know how to look, and in a surge, or at a touch from something that's all Deep, it shows it plainly. The chain-ends had lit at Orrun's touch.
 
 So they were fed.
 
@@ -126,9 +126,9 @@ And it still did. The links that were left.
 
 ---
 
-He took the second thing slowly.
+He took the appendix slowly.
 
-The appendix. Folded under the roll, in the dark-wood case, that the man with the grey beard had opened at the foot of the perch to be sure. The rune of holding drawn stroke by stroke. And under it, the working-words.
+It had lain folded under the roll, in the dark-wood case that the man with the grey beard had opened at the foot of the perch to be sure. The rune of holding drawn stroke by stroke. And under it, the working-words.
 
 He knew them. He'd read them twice and kept them in his head, unwritten, because the bird had told him to. He'd never said them aloud. He said them now, in his head, very carefully, one word after another, like stepping across a stream on stones.
 
@@ -146,7 +146,7 @@ The first knights' binders had said them. Three hundred years ago, in the cavern
 
 He sat very still on the tower in the dark.
 
-A working that's still fed can still be spoken to. That was the third thing, and it wasn't a thing any first-year knew. It wasn't in the grammar. It was in the commentaries, in the margins, in an argument two Fifth rings had had in letters two hundred years ago that he'd read once at nineteen for a citation and forgotten. *A fed working answers its words as long as it is fed. Imbued iron is a door that is never quite shut.*
+A working that's still fed can still be spoken to. No first-year knew that. It wasn't in the grammar. It was in the commentaries, in the margins, in an argument two Fifth rings had had in letters two hundred years ago that he'd read once at nineteen for a citation and forgotten. *A fed working answers its words as long as it is fed. Imbued iron is a door that is never quite shut.*
 
 So.
 
@@ -174,7 +174,7 @@ The two who were left wouldn't leave the house. They hadn't left it in thirty ye
 
 And there was Idony.
 
-Who'd read it twice. Who'd been seen at a reading-desk at the foot of a perch with his palm on the vellum, all night, in the spring.
+Who'd read it twice. Who'd been seen at a reading-desk at the foot of a perch with his palm on the vellum, all night, in the summer.
 
 *He'll need someone who can read it.*
 

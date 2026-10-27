@@ -202,7 +202,7 @@ Under the silk, through it, Calder could see his own white scratches. The six fr
 
 They lay along the lines.
 
-Not near. Along. Each of the six white scratches in the frost lay under one of the great black curves on the chart, from the circle out, as if one had been drawn from the other. The north road under the line to Vael. The south road under the line to the Sun Stair. The one that went south-east and turned and ran east along, the one he hadn't understood, under the line that went down to the coast and along it to the reef. All six.
+Each of the six white scratches in the frost lay under one of the great black curves on the chart, from the circle out, as if one had been drawn from the other. The north road under the line to Vael. The south road under the line to the Sun Stair. The one that went south-east and turned and ran east along, the one he hadn't understood, under the line that went down to the coast and along it to the reef. All six.
 
 The short one, down the river, under the short line to the river hill.
 
@@ -238,7 +238,7 @@ Calder thought of the Ruin. The lock. The roof coming down on Aurveth, and a lio
 
 "Going round them," he said.
 
-"In order." Idony put his finger on the frost-map. Not the chart. The scratches. "It came out from under the river and went north-east. To the Ring. That's the first end." His finger went along. "Then here. Vael. The second." Along. "And this morning, west. Along the snow-line. Toward the third." He stopped on the west road. On the mark at the end of it. "The Scald."
+"In order." Idony put his finger on the frost-map. Not the chart. The scratches. "It came out from under the river and went north-east. To the Ring. That's the first end." His finger went along. "Then here. Vael. The second." Along. "And five days ago, west. Along the snow-line. Toward the third." He stopped on the west road. On the mark at the end of it. "The Scald."
 
 His finger went on, round the wheel, without touching it.
 
@@ -306,7 +306,7 @@ Idony thought about it. Calder watched him think. He did it like a man doing a s
 
 He thought about the Marches. About Fisk on his roof. About Liss at the ferry house, and the jetty, and the Eelweir, and every steading along the river with its barley in. About the water coming down the Wend in five days with nobody knowing.
 
-He thought about three young dragons going north-east over the towers with a man with a grey beard and a box.
+He thought about three young dragons going south-east over the towers with a man with a grey beard and a box.
 
 "I can't catch three with two," he said. Out loud. To nobody. "Not today. They've got a day's start and I'd have to fight them all at once." He looked at the fire. "The water's going to Greyhold."
 

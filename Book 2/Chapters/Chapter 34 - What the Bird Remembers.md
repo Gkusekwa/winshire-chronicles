@@ -46,7 +46,7 @@ She sat at the reading-desk at the foot of the perch with the quire in front of 
 
 The white lamps burned. The hum came up through the floor.
 
-The Old Reader sat on its perch and looked at the three of them for a long time.
+The Old Reader sat on its perch and looked at the three of them.
 
 "I'll tell it plainly," it said. "I'm telling it from a letter. The College's copy. Written by the first archivist of the knights' house, three hundred and six years ago, after he'd cut it out of his book." It shifted its feet. "He wrote like a man trying not to be frightened. All flourishes. I'll leave them out. You can imagine them."
 
@@ -290,7 +290,7 @@ Maren looked up.
 
 The pencil stopped.
 
-She knew the name. She didn't know how she knew it. Then she did: the farmer. On Liss's floor. Talking about the old dragon, about what she'd remembered under the arch, about a man whose face had come back to her after three hundred years. *Ennis. A warden of the bridge. She said his name and then she was quiet for a long time.*
+She knew the name. She didn't know how she knew it. Then she did: the farmer. On Liss's floor. Talking about the old dragon, about what she'd remembered under the arch, about a man whose face had come back to her after three hundred years. *Ennis. A warden of the bridge. She said his name and then she was quiet.*
 
 "He stood at the door," said the Old Reader, "with his dragon. A bronze. Old even then. And when the cat had been driven off with fire, he stood in the door with the bronze behind him and wouldn't let them by." It paused. "He was one man and one dragon against a hundred men and a lord. He knew what was down the steps. He'd been keeping it with the cat. He wouldn't let them by."
 
@@ -418,7 +418,7 @@ She didn't know when that would be. She didn't know if it would be. She put them
 
 Idony had gone to the window.
 
-The hill-end window, by the perch, the one that looked north-east over the city to the Iron Fells. It was dusk. The Fells were going pink along their tops. He'd gone there out of habit, she thought, as he did everything, with a green glass in his hand, and he was standing with it held up to the light, the way he held it.
+The hill-end window, by the perch. It was nearly dark, and the lamps had come up white along the hall behind him. He'd gone there out of habit, she thought, as he did everything, with a green glass in his hand, and he was standing with it held up to the last of the light.
 
 He turned round.
 
@@ -426,9 +426,9 @@ He turned round.
 
 Maren got up.
 
-"Two," said Idony. He looked out of the window again, at the pink snow, and then down at the glass in his hand. He frowned at it the way he'd frowned at the top of the forty steps under the Ring. "Two. On the glass. Coming over, from the south-east, toward the peaks. Close together."
+"Two," said Idony. He looked out of the window again, into the dark, and then down at the glass in his hand. He frowned at it as he'd frowned at the top of the forty steps under the Ring. "Two. On the glass. Coming over, from the south-east, toward the peaks. Close together."
 
-She went to the window and stood beside him. She couldn't see anything. The Fells, pink, going grey. The sky.
+She went to the window and stood beside him. She couldn't see anything. The dark, and the line of the Fells a little darker under it.
 
 "The glass says three," said Idony slowly. "It's always said three. Three together, since the spring." He turned it in his fingers. "Two of them are coming over the Fells. And the third one..." He tilted the glass. "The third is a long way south. Still. Very still."
 
@@ -436,7 +436,7 @@ He looked at her.
 
 "What is it?" he said. "You know. You've known since the Ring. I saw your face."
 
-She looked out of the window at the Iron Fells going dark.
+She looked out at the dark.
 
 Two dragons coming over. A red, and a green. And a third, a long way south, on a ledge, with a crooked wing, very still.
 

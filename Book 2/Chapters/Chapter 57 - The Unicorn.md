@@ -166,7 +166,7 @@ She didn't know until she'd said it. She heard herself say it in the bright clea
 
 "If I read it I'll go home. And it's on the hill. Over the city. And the stair's under the palace. And Idony's in the palace." She looked at the small green dragon lying in the leaves. "I can't go home yet."
 
-Lisska looked at her for a long time with her gold eyes.
+Lisska looked at her for a long time with her pale green eyes.
 
 *She says she'll wait,* said Orrun. *For an answer. She says she always waits. She says you always say you'll write.*
 
@@ -178,9 +178,9 @@ Lisska went up into the oak above the clearing and lay along a great grey branch
 
 ---
 
-The unicorns came out on the third evening.
+The unicorns came out on the fourth evening.
 
-They'd been round all the time. Two days. Watching. Going round the clearing at a distance in the trees with their careful cloven feet. She'd seen one, once, on the second afternoon. A shape between two oaks. Grey. Gone.
+They'd been round all the time. Three days. Watching. Going round the clearing at a distance in the trees with their careful cloven feet. She'd seen one, once, on the second afternoon. A shape between two oaks. Grey. Gone.
 
 At dusk on the three-hundred-and-eighth day, they came out.
 
@@ -222,7 +222,7 @@ They talked all night.
 
 Maren didn't hear any of it. There wasn't anything to hear. The old mare stood at ten paces with her broken horn lowered and Orrun lay with his chin on the leaves, and neither of them made a sound, and the other ten stood at the edge of the clearing in the dark, and the stars came out in the hole in the canopy.
 
-But she felt it. Through Orrun. Not the words. The weight of them. Something old being handed to him, piece by piece, very carefully, the way you'd hand someone a thing you'd carried a long way and were afraid to drop.
+But she felt it. Through Orrun. Not the words. The weight of them. Something old being handed to him, piece by piece, very carefully, as you'd hand someone a thing you'd carried a long way and were afraid to drop.
 
 He told her at dawn.
 
@@ -320,7 +320,7 @@ She felt him grieve. Kin to kin. For the one taken in the snow. For the foal the
 
 ---
 
-The old mare came forward on the third morning.
+The old mare came forward on the second morning.
 
 The ten paces. Slowly. Through the leaves, with her cloven feet making no sound, to Orrun lying with his chin on the ground. She put her head down. And touched the broken end of her horn to his mane. Once. Where the broken-rock mane was thickest, on his neck.
 

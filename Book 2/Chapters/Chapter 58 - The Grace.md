@@ -15,7 +15,7 @@ Draft notes: Days 300–312. Decided here (proposals):
 - **The collars**: day 302 Sebold takes him to the royal stables (the beast-stables of the court, a palace of their own on the cliff, marble, gilded stalls). The bonded beasts of the nobles and the royal unicorn in its own stall. The collars are gold outside and iron inside; on the iron, the hooked script, very fine, Sarovel's court hand: not *hold*, not *turn back*: a **greater shaping** cut into the beast's self: the working that takes a beast's self out and leaves the shape (Magic §2a: a binding is at bottom a greater shaping done on a beast's self). Cracking: a hair-line in the gold of six collars, in the iron of two, the unicorn's among them; Sebold: since the beast lay down on the hill (day 300).
 - The **unmaking word**: every shaping in the College's grammar has its unmaking, the same rune read backward with the closing word turned; it's the first page of the grammar's chapter on shaping and the last thing anyone is ever taught, because nobody unmakes anything. He reads the collar's working and knows its unmaking. He doesn't say it. He writes nothing down.
 - **Dane** is at court: Idony sees him at a distance on day 303 in a gallery with the Bond-King's chamberlain, with drawings; they don't speak. Dane sees him and looks away.
-- **Corvin** finds him on day 307, at night, in the royal stables, at the unicorn's stall, where Idony goes every night to look at the cracked collar. Tall, thin, very still, a long pale face, short dark hair, grey eyes; never raises his voice; neither young nor old. No guards. The grey-bearded captain waiting at the stable door. Corvin knows who he is: the Library's reader; Second ring broken; the one who read the roll all night with his palm on it in the spring (he had it from somebody in the College's own household: the owl's papers). He has the case with him and opens it on the straw. "I can't read a word of it. I've had it eight months." He asks Idony to teach him the chain-words: the working-words of the appendix, to speak to the chain-ends. "You want to speak to a Titan. So do I." Idony: what for? Corvin: "To ask it something." He doesn't say what. He offers: the roll itself, to read, to keep; every book in Sarovel's library; a college of his own. "You were never let ask anything in Vael. Here you could ask everything."
+- **Corvin** finds him on day 307, at night, in the royal stables, at the unicorn's stall, where Idony goes every night to look at the cracked collar. Tall, thin, very still, a long pale face, short dark hair, grey eyes; never raises his voice; neither young nor old. No guards. The grey-bearded captain waiting at the stable door. Corvin knows who he is: the Library's reader; Second ring broken; the one who read the roll all night with his palm on it in the summer (he had it from somebody in the College's own household: the owl's papers). He has the case with him and opens it on the straw. "I can't read a word of it. I've had it since the autumn." He asks Idony to teach him the chain-words: the working-words of the appendix, to speak to the chain-ends. "You want to speak to a Titan. So do I." Idony: what for? Corvin: "To ask it something." He doesn't say what. He offers: the roll itself, to read, to keep; every book in Sarovel's library; a college of his own. "You were never let ask anything in Vael. Here you could ask everything."
 - Idony says no. He wants to say yes: to read the roll again, all of it, to have someone ask him what he knows instead of telling him not to. Corvin isn't angry: "You'll say yes. Not tonight." He leaves the case shut and takes it with him.
 - The stir: since day 300 the Grace has grown brighter every day: lamps in the hands' hall burn so white they crack their glass; the fountains in the palace gardens sing by themselves at night; collars crack; day 308 at a banquet in the great hall a court drawer (a chosen lord's hand who does the lord's drawing behind a screen) draws for a show of fire over the tables and can't stop, burns grey in front of the court (the court applauds before it understands); Sebold has him carried below.
 - Idony's glasses (he has a window in the hands' hall cut through the cliff, facing the hills): the Titan lies on the Sunward Hills' ridge above the palace; the stone under the palace and the stair filling like a cup; slope steeper than the Scald's: **two weeks** from day 300: about day 314–315. He writes it in the silk: *Two weeks. Every time, less.*
@@ -131,11 +131,9 @@ Very fine. Very small. Sarovel's court hand, close and elegant, with long tails 
 
 He had to have the collar off the beast to see the inside. He couldn't. He read what he could see, at the edge, where the iron showed under the gold at the clasp. A line. Two. And the crack, a hair-line, running across the iron.
 
-It wasn't *hold*.
+Not *hold*, nor *turn back*, nor *within*.
 
-It wasn't *turn back* or *within*.
-
-It was a shaping.
+A shaping.
 
 ---
 
@@ -225,7 +223,7 @@ His voice was quiet. It didn't need to be anything else.
 
 Idony didn't say anything.
 
-"I know who you are," said Corvin. "The Long Library's reader. Second ring, broken. The one who walked out of the colleges' binding in the middle of the form." He looked at the unicorn. "The one who sat at a desk at the foot of a perch one night in the spring with his palm on a roll of vellum, and read it, all night."
+"I know who you are," said Corvin. "The Long Library's reader. Second ring, broken. The one who walked out of the colleges' binding in the middle of the form." He looked at the unicorn. "The one who sat at a desk at the foot of a perch one night in the summer with his palm on a roll of vellum, and read it, all night."
 
 "Who told you?"
 
@@ -239,7 +237,7 @@ Under his arm. Dark wood. Tarnished silver. The College of Tides' mark on the li
 
 The roll. The appendix, folded under it.
 
-"I've had it eight months," said Corvin. "I can't read a word of it." He looked up at Idony from the straw. "Nobody in Sarovel can. Nobody in Saltreach. Your two old men in the Sixth-ring house won't leave the house. I sent to ask. They sent my man back with his letter unopened."
+"I've had it since the autumn," said Corvin. "I can't read a word of it." He looked up at Idony from the straw. "Nobody in Sarovel can. Nobody in Saltreach. Your two old men in the Sixth-ring house won't leave the house. I sent to ask. They sent my man back with his letter unopened."
 
 He took the appendix out. He unfolded it on the straw. The rune of holding, drawn stroke by stroke. And under it, the working-words.
 

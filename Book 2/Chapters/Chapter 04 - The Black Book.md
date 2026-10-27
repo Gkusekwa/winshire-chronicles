@@ -46,7 +46,7 @@ It was the right place. She'd broken her oath in the snow on the island and been
 
 Orrun lay down behind her with his head on his paws and watched the graves fill.
 
-*They put the beasts in with them,* he said. Slowly. She'd learned in four days that he always said things slowly, as if each word had to be found and turned over and looked at underneath before it could be set down.
+*They put the beasts in with them,* he said. Slowly. She'd learned in two days that he always said things slowly, as if each word had to be found and turned over and looked at underneath before it could be set down.
 
 "Yes."
 
@@ -106,7 +106,7 @@ They'd burned white on the archive stair. She'd seen them from the yard, coming 
 
 They were dark now. Just cuts in the steel.
 
-"His father sent it from Hallowmere," Grieve said. "When the paper went up. It's been in that family two hundred years. It's quickened." He said the word the way a stableman says *bad-tempered*. "Takes something out of you every time you use it. He knew that. Used it anyway."
+"His father sent it from Hallowmere," Grieve said. "When the paper went up. It's been in that family two hundred years. It's quickened." He said the word as a stableman says *bad-tempered*. "Takes something out of you every time you use it. He knew that. Used it anyway."
 
 "His family will want it back."
 
@@ -132,7 +132,7 @@ The black book was on the table where he'd left it.
 
 She sat down in his chair.
 
-She didn't mean to. She'd meant to stand, and take it, and go. But the chair was there, and the book was there in front of it, open, and her legs decided it. They'd been deciding things for four days.
+She didn't mean to. She'd meant to stand, and take it, and go. But the chair was there, and the book was there in front of it, open, and her legs decided it. They'd been deciding things for days.
 
 It was a thick book, bound in black leather gone brown at the edges and cracked across the spine, with heavy pages of something older than paper. Hale had shown it to her in the autumn, in the first of the afternoons: the list of the Watch. Three hundred and eleven names, in the old script, one under another, page after page, each in a different hand. The first knights. Then their sons and daughters. Then the ones the Watch had chosen out of each year at Greyhold, quietly, the ones who could be trusted to say the noon words every day and not ask. Each name written by the hand that owned it, on the night that hand first turned the long black key in the black door.
 
@@ -170,7 +170,7 @@ At the bottom of the stair there was a passage, and at the end of the passage th
 
 ---
 
-She'd stood on it once before, four nights ago. Then the cavern had been full of sound: the chains singing, the stone groaning, something huge at the bottom of the chains, lifting. Six chains, each link taller than a man, going down from great iron rings in the ledge into a darkness so deep the lanterns gave out before the chains did, and coming up again out of it on the far side, a quarter-mile off, to another ledge she couldn't see. The whole of it humming. The ground, the air, her teeth.
+She'd stood on it once before, three nights ago. Then the cavern had been full of sound: the chains singing, the stone groaning, something huge at the bottom of the chains, lifting. Six chains, each link taller than a man, going down from great iron rings in the ledge into a darkness so deep the lanterns gave out before the chains did, and coming up again out of it on the far side, a quarter-mile off, to another ledge she couldn't see. The whole of it humming. The ground, the air, her teeth.
 
 Now there was water.
 
@@ -188,7 +188,7 @@ She stood at the edge of the ledge with her hand on the first ring and looked do
 
 They brought Callis up past her.
 
-Four knights carried him on a door, the way Tam had carried Odo. He was in irons: a chain at his ankles and a bar across his chest, though there was no need, because both his arms were splinted to the shoulder in bound slats and he couldn't have lifted either of them. His right arm she'd broken on the island in the snow, with Tobin's blunt practice sword. His left wrist she'd broken four nights ago in the round chamber, with the flat of the river watch sword. He was grey in the face and his eyes were open.
+Four knights carried him on a door, the way Tam had carried Odo. He was in irons: a chain at his ankles and a bar across his chest, though there was no need, because both his arms were splinted to the shoulder in bound slats and he couldn't have lifted either of them. His right arm she'd broken on the island in the snow, with Tobin's blunt practice sword. His left wrist she'd broken three nights ago in the round chamber, with the flat of the river watch sword. He was grey in the face and his eyes were open.
 
 He saw her as they carried him past. He didn't say anything. He didn't look away, either. He looked at her the whole time they carried him along the ledge, steadily, as a man looks at weather, until they took him into the passage and the dark.
 
@@ -206,7 +206,7 @@ She made herself look at it all the way past. Then they took him into the passag
 
 ---
 
-The passage to the lock chamber went off the ledge into the rock, and its walls were carved from floor to roof with the old letters, line after line, hooked at the ends of the strokes. They'd glowed, four nights ago. They were dark now. Cuts in stone.
+The passage to the lock chamber went off the ledge into the rock, and its walls were carved from floor to roof with the old letters, line after line, hooked at the ends of the strokes. They'd glowed, three nights ago. They were dark now. Cuts in stone.
 
 At the end of the passage there was light.
 
@@ -220,7 +220,7 @@ Round the disc, from the rim to the boss, the old letters ran in rings, one insi
 
 They were still lit.
 
-Not the white blaze of the night. A steady white light, like a lamp turned low, like snow under a moon. Ring inside ring, from the rim to the boss, the lined-up letters made a single line, a sentence running in from the edge to the centre like the spoke of a wheel, and every stroke of it burned. Quietly. Without flicker. In a chamber a hundred feet under a hill where not one lamp would light, on ground she could feel through Orrun was as dead as a stone in a field.
+A steadier white than the night's blaze, like a lamp turned low, like snow under a moon. Ring inside ring, from the rim to the boss, the lined-up letters made a single line, a sentence running in from the edge to the centre like the spoke of a wheel, and every stroke of it burned. Quietly. Without flicker. In a chamber a hundred feet under a hill where not one lamp would light, on ground she could feel through Orrun was as dead as a stone in a field.
 
 She put the lantern down. She didn't need it.
 
@@ -270,7 +270,7 @@ On the ledge, going back, Orrun stopped.
 
 She was ahead of him with the lantern, at the place where the passage came out onto the ledge above the black water. She felt him stop behind her, as a boat feels the bottom. She turned round.
 
-He was standing at the very edge of the ledge, beside the first of the great iron rings with its stump of broken chain, with his head down, looking past the ring into the water. Not at the water. Through it. Down past the drowned chains into the dark below where the bottom of the cavern must be, under forty feet of river.
+He was standing at the very edge of the ledge, beside the first of the great iron rings with its stump of broken chain, with his head down, looking past the ring into the water, and through it, down past the drowned chains into the dark below where the bottom of the cavern must be, under forty feet of river.
 
 She came back to him.
 
@@ -358,7 +358,7 @@ Rowan didn't move.
 
 Rowan looked at her for a long moment.
 
-"No," Rowan said. "One thing." She folded her hands. "Hale went to the black door at dusk, the night of the gate. Liss got to him at the water-gate. He went to the door and stood in front of it." She paused. "He had the archivist's key. The knights who brought him up didn't find it on him." Another pause. "Did he make you Watch?"
+"No," Rowan said. "One thing." She folded her hands. "Hale went to the black door at dusk, the night of the locks. Liss got to him at the water-gate. He went to the door and stood in front of it." She paused. "He had the archivist's key. The knights who brought him up didn't find it on him." Another pause. "Did he make you Watch?"
 
 Maren didn't answer.
 

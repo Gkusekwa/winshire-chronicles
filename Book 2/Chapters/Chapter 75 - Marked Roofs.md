@@ -273,7 +273,7 @@ The last shed went as Hask lifted the last two off it.
 
 It went quiet at dusk.
 
-The sea came back in. Not a wave. The sea. Back to where it had been, and over where the spit had been, and it lay there grey and flat and ordinary, with the evening on it.
+The sea came back in. No wave. Back to where it had been, and over where the spit had been, and it lay there grey and flat and ordinary, with the evening on it.
 
 The spit's seaward half was gone.
 

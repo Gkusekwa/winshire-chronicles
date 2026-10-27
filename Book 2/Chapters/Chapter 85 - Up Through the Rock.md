@@ -18,7 +18,7 @@ Draft notes: Days 355 (mid-afternoon) to 356 (dawn). Decided here (proposals):
 - **The hill falls in**: the cavern's near-end roof under Greyhold going: stone in falls; the ledge cracking; Maren: "Go. Through the water. The way you came." "You..." "He's coming for me." Orrun comes down out of the rock wall beside her, one lion, white at the roots of his mane now, swaying; she gets Idony onto Orrun's back; she climbs on behind him; the lion goes into the rock. Calder goes with Kharrak and Lisska into the black water, through the breach, up into the Wend, as the roof comes down behind them.
 - **Out through the water**: up into the river under Greyhold's hill; he comes up into dusk; behind him **Greyhold's hill falls in**: the north tower, the yard, the broken inner wall, going down into the hill as the cavern under it collapses; a cloud of grey dust over the river; the river wall above the jetty falling; the ferry house cracked and standing (ch 86).
 - Night 355–356 on the Saltreach bank at the Staithe: the people from the hill on the barge and the boats; Rowan; Liss in her hut doorway looking at where Greyhold was; Calder on the shingle with Aurveth; no lion.
-- **Echo**, dawn 356: a league off down the Hearthmere bank, below Millbrook's woods, the hillside above the river opens: a lion comes up out of the ground, grey, white at the mane's roots, with a grey-haired man on his back and a woman walking beside him with her hand in his mane. Calder sees it from the Staithe. He doesn't go.
+- **Echo**, dawn 356: a league off down the Hearthmere bank, above Millbrook's woods, the hillside above the river opens: a lion comes up out of the ground, grey, white at the mane's roots, with a grey-haired man on his back and a woman walking beside him with her hand in his mane. Calder sees it from the Staithe. He doesn't go.
 Magic touches: the control relic's call; five sleepers answering; Kessmoor's cage broken by the answer; the Clan's dragons hearing the call (Book 3 plant); a lion going through rock carrying two people; the cavern's collapse.
 notes -->
 
@@ -316,7 +316,7 @@ He saw it at dawn.
 
 He was awake. He hadn't slept. He was sitting against Aurveth's side with his arms on his knees, looking across the river at the grey shape of the fallen hill in the first light.
 
-And down the Hearthmere bank. A league off. Below Millbrook's woods, where the bank rose in a long green slope above the river.
+And down the Hearthmere bank. A league off. Above Millbrook's woods, where the bank rose in a long green slope above the river.
 
 The hillside opened.
 

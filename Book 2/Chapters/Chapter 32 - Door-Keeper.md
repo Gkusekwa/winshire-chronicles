@@ -13,9 +13,9 @@ Draft notes: Day 139 to day 140, dusk. Decided here (proposals):
 - Day 140, morning: up through the city: the lower city's brown lamps, the line at Candle Row (Maren feels it through him: the ground going from thin to full under his feet in one step), the hill. People in doorways. A Warden patrol stops at the top of Rope Street and looks and doesn't come closer. Through the Library's great door, which is high enough (it was built for carts of books); readers stand up from the long tables and back away; an old librarian sits where he is and goes on writing. Half a league. The hum louder with every step. Orrun walks slower as it gets louder.
 - The Old Reader on its perch. It looks at the lion for a long time. Then: "Door-keeper." Orrun stops dead. *It knows.* The bird: "I know your face. Not from life. From a carving on a door that isn't there any more, and from a page that a frightened man cut out of a book." It asks him to come closer. He comes to ten paces and lies down. It says, "You kept it a long time." *Not long enough.* (Maren gives his side aloud for Idony.) "Nobody keeps anything long enough."
 - The black book: the bird asks for it. Maren gives it. It turns the pages with its beak, the list, the 311 names, the charter, back into the oldest hands, to the stubs: the pages cut out near the front, the knife-edges, a few letters left at the margins of each stub. On the fourth stub, the fragment Hale showed her (Book 1 ch 53): a great forefoot, four toes, claws drawn in, and "…kin". The bird looks at the stubs and laughs, dry, short, like a page torn. "He cut out the cat." Maren: "Who?" "The first archivist. He cut out the door-keeper. Because the crown didn't want anyone to know there had been somebody at the door before the knights. He left a foot." It says it has the College's copy of what was cut (a promise for ch 34).
-- The lock's sentence: at the back of the black book, in charcoal, what Maren copied in the cavern under Greyhold on day 3 or 4: the white sentence on the lock-disc that still burns on dead ground. The bird reads it. It stops laughing. It reads it for a long time, its feathers lifting down its back and not settling. Idony, leaning over, can read the script but not the sense: "It's... a binding of two. It's in a form I've never seen." The bird won't say what it says. Maren asks. It gives her one word: *together*. "That's all of it you can bear yet." She asks what it means. "It means what it says. The lock was made for two hands. So was the other thing." It won't say what other thing.
+- The lock's sentence: at the back of the black book, in charcoal, what Maren copied in the cavern under Greyhold on the evening of day 2: the white sentence on the lock-disc that still burns on dead ground. The bird reads it. It stops laughing. It reads it for a long time, its feathers lifting down its back and not settling. Idony, leaning over, can read the script but not the sense: "It's... a binding of two. It's in a form I've never seen." The bird won't say what it says. Maren asks. It gives her one word: *together*. "That's all of it you can bear yet." She asks what it means. "It means what it says. The lock was made for two hands. So was the other thing." It won't say what other thing.
 - The bird to Maren, at the end: "Write down what I tell you, when I tell you. For yourself, and for the farmer." She hasn't mentioned the farmer. It knows.
-- The echo, dusk: from the tall window by the perch, where the hill end of the hall looks north-east across the city to the Iron Fells, white along their tops. A dragon's shape against the snow, far off, small, green, going north along the Fells. Then, as she watches, not: gone behind a ridge, or down. She stands at the window a long time. Idony, beside her: "Was that...?" "Yes."
+- The echo, dusk: from the tall window by the perch, where the hill end of the hall looks south-east across the city to the Iron Fells, white along their tops. A dragon's shape against the snow, far off, small, green, going north along the Fells. Then, as she watches, not: gone behind a ridge, or down. She stands at the window a long time. Idony, beside her: "Was that...?" "Yes."
 Magic touches: the cup's edge at Candle Row felt through the bond; the Library's white lamps and the hum; the lock's sentence still burning in its charcoal copy? (No: charcoal copies are just charcoal; the bird reads the script); the hooked script; the black book.
 notes -->
 
@@ -169,7 +169,7 @@ The Old Reader was quiet.
 
 It asked for the black book.
 
-Maren hadn't told it she had it. She hadn't told Idony. It had been inside her coat since the fourth day after the river, since she'd written her name in it under Hale's, in plain letters, and taken it out of the archive under the north tower. She'd carried it across the Marches and the Scarfell and the Plains and the Thornwood and the grey. She'd never shown it to anyone.
+Maren hadn't told it she had it. She hadn't told Idony. It had been inside her coat since the second day after the river, since she'd written her name in it under Hale's, in plain letters, and taken it out of the archive under the north tower. She'd carried it across the Marches and the Scarfell and the Plains and the Thornwood and the grey. She'd never shown it to anyone.
 
 "The book," said the Old Reader. "The archivist's. You have it in your coat. I can smell the old vellum from here." Its good eye was on her. "May I see it?"
 
@@ -201,7 +201,7 @@ She'd seen them. A row of them, near the front, where pages had been cut out clo
 
 On the fourth stub, a drawing. The edge of one. Hale had held a candle to it for her. A great forefoot, four toes, the claws drawn in. And beside it, the end of a word. *…kin.*
 
-The Old Reader looked at the stubs for a long time.
+The Old Reader looked at the stubs.
 
 Then it laughed.
 
@@ -251,7 +251,7 @@ The Old Reader looked at her with its good eye.
 
 ---
 
-She'd copied it on the third day after the river.
+She'd copied it on the second night after the river.
 
 Under Greyhold. Down past the black door, past the ledge over the cavern that was half full of still black water now, with the six iron rings in its walls and the stumps of chain hanging from them, and Callis on a door in irons, and Cassian's body on a plank. Along the passage with its walls carved floor to roof in the old letters, dark now, only cuts in stone. To the lock chamber. And the disc in the middle of its floor, the great round of carved stone with the iron boss at its centre, turned a quarter out of true, with a long scar in the floor where it had ground round under a dead man's hand.
 
@@ -259,7 +259,7 @@ Everything else down there had been dark. Every rune, every mark, every lamp. De
 
 The lock's sentence had been burning.
 
-White. In the stone. The rings of hooked letters that had lined up from rim to boss when the disc turned, lit from inside, steady, as they'd been lit at midnight. Still burning, three days after, on dead ground, when nothing else in the kingdom would. She'd sat cross-legged on the cold floor beside it with the black book on her knee and copied it, stroke by stroke, with a stub of charcoal Ada had given her, without knowing what any of it said.
+White. In the stone. The rings of hooked letters that had lined up from rim to boss when the disc turned, lit from inside, steady, as they'd been lit at midnight. Still burning, two days after, on dead ground, when nothing else in the kingdom would. She'd sat cross-legged on the cold floor beside it with the black book on her knee and copied it, stroke by stroke, with a stub of charcoal Ada had given her, without knowing what any of it said.
 
 She'd asked Orrun. He couldn't read it either. But he'd looked at it a long time and said: *Something is shut there. Like a breath held.*
 
@@ -273,7 +273,7 @@ She watched it read. It stood over the page with its head on one side and its go
 
 It stopped laughing.
 
-It had stopped already. Now it went still. All of it. Its feathers lifted down its back, slowly, all of them, until it stood on the desk in the white lamplight with every ragged feather on end, like a bird in a frost. And they didn't settle. It read the third line, and the fourth, and they didn't settle, and it went on reading for a long time.
+It had stopped already. Now it went still. All of it. Its feathers lifted down its back, slowly, all of them, until it stood on the desk in the white lamplight with every ragged feather on end, like a bird in a frost. And they didn't settle. It read the third line, and the fourth, and they didn't settle, and it went on reading.
 
 Idony leaned in beside it.
 
@@ -323,7 +323,7 @@ She stood at the desk with her hand flat beside the black book.
 
 "What other thing?"
 
-It didn't answer. It looked at her a long time with its good eye, and then it shut the black book with its beak, very gently, the way you'd close a door on someone sleeping, and pushed it across the desk toward her.
+It didn't answer. It looked at her a long time with its good eye, and then it shut the black book with its beak, very gently, as you'd close a door on someone sleeping, and pushed it across the desk toward her.
 
 "Keep it," it said. "Keep it in your coat. Don't show anyone else what's in the back." It turned round on the desk. "And don't let anyone read it aloud. Not even him." It meant Idony. "Not even me."
 
@@ -349,9 +349,9 @@ He lay at ten paces from the perch with his chin on his paws, and through the bo
 
 She went to the window at dusk.
 
-There was a window at the hill end of the hall, by the perch, the last of the tall narrow ones cut in the hillside. The one the bird had walked to, Idony said, on the day she came through the gate. It looked north-east, across the city, over the white-lit towers of the hill and the brown-lit ones below, across the lake with the island lying on it, to the mountains.
+There was a window at the hill end of the hall, by the perch, the last of the tall narrow ones cut in the hillside. It looked south-east, across the city, over the white-lit towers of the hill and the brown-lit ones below, across the lake with the island lying on it, to the mountains.
 
-The Iron Fells. Running away north-east along the edge of the sky, grey and steep, with snow along their tops even in high summer. White, in the last of the light. Going pink.
+The Iron Fells. Running away south-east along the edge of the sky, grey and steep, with snow along their tops even in high summer. White, in the last of the light. Going pink.
 
 She stood at the window and looked at them because there was nothing else to look at, and her eyes were tired of white lamps.
 

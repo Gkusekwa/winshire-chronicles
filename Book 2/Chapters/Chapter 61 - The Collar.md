@@ -8,8 +8,8 @@ Ends at (chapter-end map): Solenne, the royal stair
 Beats: **The fourth waking** begins *(canon)*: the palace cliff breaks into the bay as the sleeper rises white-gold, horned like a unicorn the size of a hill. The Bond-King's binders are working on it. At the royal unicorn's stall, Idony speaks the unmaking word into its cracked collar to stop them. The unicorn wakes, goes to its kin, and kills the Bond-King on his own stair. His knowledge has a body count now.
 Echo of the other's story: The lion holding the sea stair's rockfall off the boats.
 Status: first draft
-Draft notes: Days 315–318 (dawn). Decided here (proposals):
-- Noon 315 in the hands' hall: the windows go; a hand's palms blaze white on the floor of the room above; Sebold sends the hands out by the ramp. Idony runs for the stair (hands aren't let on it; nobody's stopping anyone): down the zigzags as the Titan lifts its head out of the shrine with the egg and goes up off the cliff to the hills and away north-west; he gets to the stair's middle landing and shouts down into the broken shrine the old-tongue word the bird used for Orrun: *door-keeper* (the word on the Scald's door), twice, so the lion will hear it and bring her up. Orrun brings her up the stair (it holds for him) and Idony sees them go along the cliff path to the low quarter (they can't stay: the cliff is cracking).
+Draft notes: Days 315–318 (morning). Decided here (proposals):
+- Noon 315 in the hands' hall: the windows go; a hand's palms blaze white on the floor of the room above; Sebold sends the hands out by the ramp. Idony runs for the stair (hands aren't let on it; nobody's stopping anyone): down the zigzags as the Titan lifts its head out of the shrine with the egg and goes up off the cliff to the hills and away north-west; he gets to the stair's middle landing and shouts down into the broken shrine the old tongue's word for what the bird called Orrun: *door-keeper* (the word on the Scald's door), twice, so the lion will hear it and bring her up. Orrun brings her up the stair (it holds for him) and Idony sees them go along the cliff path to the low quarter (they can't stay: the cliff is cracking).
 - The surge, days 315–317: the Grace floods: every lamp in Solenne white; the bonded nobles' gifts blaze (a lord's hound burning gold, a lady's cat shedding sparks; their gifts take them over: they can't stop); the court's hands burn grey one after another; the sea in the bay white; the palace cliff cracking from the shrine upward.
 - **The Bond-King's binding**: the court knows the old shrine's thing is waking (the hands have whispered it for days; Corvin told the Bond-King at dinner). The Bond-King means to bind it as the crown has bound its unicorns: with the court's **binders** (forty of them, chosen lords' binder-hands, in white, with gold-chained honey-pots), and a great gold collar that the court smiths have been making since Dane came (Dane's drawings: the College's chain-craft; it's iron inside), and the Bond-King's own will through his unicorn: the royal "bond" is the channel; the court's whole binding-working runs through the ninth unicorn's collar into the king's hand. They set up on the broken palace terrace over the cliff on day 316 with the smoke. (Dane is not there: gone to the harbour; he takes ship on day 316.)
 - **The waking**, day 317 morning: the cliff below the palace breaks away from the shrine upward into the bay with a sound like the end of the world; out of the sea and the falling cliff something rises: white-gold, lean, deer-shaped, horned, the size of a hill: **the Horned Sun**, its single horn going up spiralled and shining, rays of light coming off its head as off the sun at noon. Water and rock pour off it. It stands in the bay with the sea round its knees.
@@ -19,7 +19,7 @@ Draft notes: Days 315–318 (dawn). Decided here (proposals):
 - The unicorn goes to its kin: off the terrace, down the cliff (it goes down the broken rock like a goat), into the bay, wading, swimming, to the Horned Sun standing in the clearing smoke; the Horned Sun lifts its head, its light comes back; the small grey unicorn stands at its knee in the water.
 - The body count: the Bond-King dead on his stair; two binders burned out; three more fell from the terrace when the unicorn reared. Idony stands on the terrace and counts them. He knew the word. He said it. "My knowledge has a body count now." (In his head, in those words.)
 - Corvin: on the terrace at the start (beside the king, watching the binding) and gone before the collar breaks (Idony sees him leave at the first sign of the binding working, toward the harbour stair).
-- Echo, dawn 318: from the broken terrace, looking down the cliff to the sea stair (the old fishing stair under the low quarter, down to the boat-shingle): the cliff above it sliding, a rockfall coming down toward the boats loading on the shingle, and a grey lion (and another, and another) standing in the slide with his head down, holding it off the boats. (Ch 63.)
+- Echo, morning 318: from the broken terrace, looking down the cliff to the sea stair (the old fishing stair under the low quarter, down to the boat-shingle): the cliff above it sliding, a rockfall coming down toward the boats loading on the shingle, and a grey lion (and another, and another) standing in the slide with his head down, holding it off the boats. (Ch 63.)
 Magic touches: the surge in the Grace (gifts blazing out of control; hands burning out); a court binding run through a royal collar into a king's hand; the unmaking of a greater shaping, spoken in a surge; a great beast's waking; a unicorn's will returning.
 notes -->
 
@@ -95,15 +95,15 @@ He looked down at the shrine.
 
 Somewhere down there. In the white. Under the stone. In the temple, with the empty plinth.
 
-She was down there. He knew she was. Tobin had said. *She went at dawn. In a boat. With the lion swimming.*
+She was down there. He knew she was. Where else would she be, with the lion?
 
 ---
 
 He shouted.
 
-Not her name. Her name was a Hearthmere name, a common-tongue name, and the stone wouldn't carry it, and the lion wouldn't care. He shouted the word the bird had said to the lion. On the first day. In the white light of the Long Library, with the readers backing away and the lion lying down at ten paces.
+Not her name. Her name was a Hearthmere name, a common-tongue name, and the stone wouldn't carry it, and the lion wouldn't care. He shouted the old tongue's word for what the bird had called the lion. On the first day. In the white light of the Long Library, with the readers backing away and the lion lying down at ten paces.
 
-The old tongue's word. The one cut on the door under the Scald, round the carved door that wasn't a door.
+The one cut on the door under the Scald, round the carved door that wasn't a door.
 
 *Door-keeper.*
 
@@ -151,7 +151,7 @@ He saw it in the palace corridors. A lord in green, the one from the banquet, wi
 
 The hands burned out.
 
-One after another. In the cliff-rooms. In the stables. Wherever they were. Sebold had sent them all out by the ramp, and some had come back, because the court needed its rooms warm and its lamps lit and its beasts calm, and the court screamed at them to come. And they came. And they knelt and put their palms to the floor, as they had every day of their lives. And the Grace came up through them like a river through a broken sluice.
+One after another. In the cliff-rooms. In the stables. Wherever they were. Sebold had sent them all out by the ramp, and some had come back, because the court needed its rooms warm and its lamps lit and its beasts calm, and the court screamed at them to come. And they came. And they knelt and put their palms to the floor, as they had every day of their lives. And the Grace came up through them and didn't stop.
 
 He stopped counting at eleven.
 
@@ -183,7 +183,7 @@ The great upper terrace. Above the cliff. Above the bay. The broken one, where t
 
 And behind him, the binders.
 
-Forty of them. The court's. Not hands. Not in brown. In white. Chosen lords' binder-hands, the ones who did the court's binding, that nobody in Sarovel admitted the court did. Each one with a honey-pot on a gold chain, smouldering. They came out onto the terrace in a long white line and made a ring.
+Forty of them. The court's. In white, not the hands' brown. Chosen lords' binder-hands, the ones who did the court's binding, that nobody in Sarovel admitted the court did. Each one with a honey-pot on a gold chain, smouldering. They came out onto the terrace in a long white line and made a ring.
 
 And on a cart, drawn by six bonded horses that weren't horses, a collar.
 
@@ -323,7 +323,7 @@ He heard it go. Like a bell cracking. The gold, and the iron under it, parting a
 
 The unicorn's eyes filled.
 
-He was a hand's breadth from them. He saw it. Somebody coming up from the bottom of a well. Fast. Not slowly, as with the black at Blackwater, as with the yearling at Vael. Fast. All at once. A self, coming back into a place it had been kept out of for twelve winters, since it was taken in the snow.
+He was a hand's breadth from them. He saw it. Somebody coming up from the bottom of a well. Fast. Not slowly, as with the yearling at Vael. Fast. All at once. A self, coming back into a place it had been kept out of for twelve winters, since it was taken in the snow.
 
 It stood still for one breath.
 
@@ -413,7 +413,7 @@ Six.
 
 *My knowledge has a body count now,* he thought.
 
-He stood on the broken terrace with his stick in his hand and his back screaming and said it to himself again, so he'd believe it.
+He stood on the broken terrace with his stick in his hand and his back screaming.
 
 ---
 
@@ -421,7 +421,7 @@ He didn't sleep that night either.
 
 He sat against the broken balustrade with his glasses. They'd come down off the top of their throats. A little. The surge going over. Turning toward the drain. And out in the bay, in the moonlight, the Horned Sun stood in the sea with its light round its head, white and gold, and the small silver-grey unicorn at its knee, and didn't move.
 
-At dawn he looked east.
+In the morning he looked east.
 
 Along the bay. Along the white city on its terraces, with its lamps still white, to the low quarter below the walls, brown, and the shingle below it where the unchosen kept their boats. And the boats. Dozens of them. More. Pulled down to the water. People on the shingle in a crowd, loading them. Children being handed in. And above the shingle, the old fishing-stair, cut in the low cliff under the low quarter, going down from the mud-brick houses to the boats.
 
@@ -435,4 +435,4 @@ Grey. With his head down. Standing in the falling earth on the stair with his fo
 
 And beside him, another. And another.
 
-Three lions. On the old fishing stair, in the dawn, holding a cliff.
+Three lions. On the old fishing stair, in the morning light, holding a cliff.

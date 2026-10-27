@@ -191,7 +191,7 @@ He knew holding runes. A ward was a holding rune: *keep out*, *keep in*, *stay*.
 
 It was *be mine*.
 
-He'd read about it. Every Second ring read about it, in the first year, in the chapter of the old commentary that told you what you were never to do. The forbidden discipline. The thing they did in Saltreach with honey-smoke and collars, that Sarovel was said to do with its unicorns, that the colleges had sworn off four hundred years ago in this same city under this same dome. Binding.
+He'd read about it. Every Second ring read about it, in the first year, in the chapter of the old commentary that told you what you were never to do. The forbidden discipline. The thing they did in Saltreach with honey-smoke and collars, that the colleges had sworn off four hundred years ago in this same city under this same dome. Binding.
 
 He stood with his hand on the cold iron of the lamp and read it twice, to be sure.
 
@@ -229,7 +229,7 @@ It was the ferry's owl. Every Glasswater ferry carried one. Its eyes were their 
 
 Nailed to the prow beside the cage was the Lady.
 
-He'd forgotten it. You stopped seeing it, like the grain in a table. A little tin serpent, no longer than his hand, coiled round on itself in a ring with its tail in its mouth, nailed to the wood with two copper tacks. Every ferry on Glasswater had one. The Lady under the Water. You touched her when you pushed off, for a safe crossing, and you touched her when you came in, for thanks. Their mother had done it every time, all her life, without thinking, the way you'd touch the door-post going out of your own house.
+He'd forgotten it. You stopped seeing it, like the grain in a table. A little tin serpent, no longer than his hand, coiled round on itself in a ring with its tail in its mouth, nailed to the wood with two copper tacks. Every ferry on Glasswater had one. The Lady under the Water. You touched her when you pushed off, for a safe crossing, and you touched her when you came in, for thanks. Their mother had done it every time, all her life, without thinking, as you'd touch the door-post going out of your own house.
 
 Nessa did it now. She took one hand off the sweep as they came out past the quay-end and touched the tin serpent with two fingers, and put her hand back.
 
@@ -329,11 +329,11 @@ The first four lay flat. Dead, still, the beads of quicksilver lying in the bott
 
 The two at the end were moving.
 
-Not dipping. Not the quick dip and recovery of the morning of the breaking, something going over at the speed of a bird. This was slow. The quicksilver in the throats of the two recut glasses was going down, very slowly, steadily, a hair's breadth at a time, like water going down in a basin with the plug pulled. Both of them. Leaning, almost. As if the Deep under the places they named were being drawn toward one point, east, beyond them, and was going.
+This was slow, nothing like the quick dip and recovery of the morning of the breaking, something going over at the speed of a bird. The quicksilver in the throats of the two recut glasses was going down, very slowly, steadily, a hair's breadth at a time, like water going down in a basin with the plug pulled. Both of them. Leaning, almost. As if the Deep under the places they named were being drawn toward one point, east, beyond them, and was going.
 
 He watched it for an hour. He wrote it down at every quarter. The same slow fall. The same lean.
 
-Something in the east had stopped moving, and was sitting on the ground, and was drawing the Deep in toward it from every side, steadily, the way water runs to a drain.
+Something in the east had stopped moving, and was sitting on the ground, and was drawing the Deep in toward it from every side, steadily, as water runs to a drain.
 
 He did the arithmetic on the back of the ledger, the lines from the two glasses, where they'd cross.
 
@@ -343,15 +343,15 @@ The Thornwood. Somewhere in the middle of the Thornwood.
 
 He nearly missed the other thing.
 
-It was on the middle glasses. *The high moor. The black water. The edge.* Glasses he'd cut for the Scarfell and the high country beyond it, a long way south-west of here, and he'd only been watching them out of habit.
+It was on the same two glasses, the last ones, the two he'd turned east. Under the slow fall, so small he'd nearly lost it in watching the fall.
 
-A small draw. There for a count, and gone. Then there again, on the next glass along, a little further north-east. Gone. Short steps.
+A small draw. There for a count, and gone. Then there again, on the other glass, a little further north-east. Gone. Short steps.
 
 He knew it. He'd seen it on the morning of the breaking on the Hearthmere glasses before they went flat, and written it in the margin, and crossed it out, and written it again.
 
 The walker.
 
-It was going north-east. Slowly. A step, and a step, along the line of his glasses, from the river toward the hills. Taking a little of the Deep with every footfall and giving it back. Going the same way the great draw had gone ten days ago, at the speed of a man walking. As if it were following.
+It was going north-east. Slowly. A step, and a step, across the two glasses, from the south-west toward the forest. Taking a little of the Deep with every footfall and giving it back. Going the same way the great draw had gone on the morning of the breaking, at the speed of a man walking. As if it were following.
 
 He sat on the blanket in the meadow with the evening coming down and looked at it.
 

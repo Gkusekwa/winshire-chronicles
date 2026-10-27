@@ -18,7 +18,7 @@ Draft notes: Day 11, dawn, to day 15, dusk. (Distances follow the Atlas: Harrow'
 - Day 14: Calder tells Arn. In the hall, with Gorm and two of Arn's captains, the fire on the east side only (Ulric's side of the hall cold since the split). Everything from under the arch, in Rook's own words: the gorse, the horse, *he held the reins out to me*, the grey armband on the alders, the Clan axe in the shallows, the crossbow in the hedge at the mill. He lays the six-knife and the shooter's iron ring on the table. Arn: "A dead man's words in a living man's mouth aren't proof." And: "You found him. I found you. That's all I know." He says if there's a book, bring the book. (Plant for 12, 14, 19.)
 - Day 14, evening: Lisska, sent south on day 13 to watch his family on the Saltreach bank, comes back: the lion killed two men at a beck in the Fellwood who loosed at the lion-woman. Wren saw the trees after. Calder is frightened and, under it, glad, and ashamed of being glad.
 - Night 14: he can't go himself (the wing's a day set, and Aurveth pulls at him through the bond like a hand when he's more than a few leagues off; and he won't bring a lion into Arn's yard while Arn calls him a liar). He asks Gunna to go down to the moor's edge with Tamsin and two others and take his family off the lion-woman's hands and up to the hatching caves above Coldtarn, Clan ground, where Arn's writ doesn't run in practice because the ledges keep the caves. Gunna: "You'll not go down yourself?" "No." She looks at him. "Hallam would've gone." "Hallam's dead." She goes at first light on day 15.
-- Day 15, dusk (the echo): Lisska comes back up the glen to the ledge. She's seen them on the last climb of the Way where it comes out of the trees under the moor: Wren is up on Old Grey's back, and he let her, and the lion is walking beside them.
+- Day 15, dusk (the echo): Lisska comes back up the glen to the ledge. She's seen them on the last climb of the old drove track where it comes out of the trees under the moor: Wren is up on Old Grey's back, and he let her, and the lion is walking beside them.
 Magic touches: the Roosts' cry; the setting-song (Clan herd-charm, healing-shaping in a song, Magic §2a) taking a little on Saltreach ground; Kharrak's heat for the knife; the thin pulse in the ground of the Scarfell, stronger than on the Way.
 notes -->
 
@@ -70,7 +70,7 @@ The Way climbed.
 
 Below the ford it had run along the valley floor through farms and copses. Above it, it went up. Not steeply. The drove-road had been made for sheep and cattle and drays, and it went up the side of the glen in long patient slants, turning back on itself at the corners, with the beck going down beside it in a gully full of alder and stones. The farms gave out. The walls gave out. There was bracken and then heather and then the long brown flank of the moor going up on the left hand into cloud.
 
-He walked at her head. He'd walked at her head for five days and he'd got so he could feel, through his hand on her jaw and through the bond, the moment before she was going to stop: a heaviness that came down on her like water filling a boat. When it came he stopped before she did, so she wouldn't have to be the one, and they stood in the road with the wind going over the heather and he talked to her. About nothing. About the barley, which he hadn't sown and wouldn't now. About the price of wool at Cotter's Cross in his father's day. About Wren's ribbon. She didn't answer. After a while the heaviness would lift a little and she'd lean on Kharrak and they'd go on.
+He walked at her head. He'd walked at her head for six days and he'd got so he could feel, through his hand on her jaw and through the bond, the moment before she was going to stop: a heaviness that came down on her like water filling a boat. When it came he stopped before she did, so she wouldn't have to be the one, and they stood in the road with the wind going over the heather and he talked to her. About nothing. About the barley, which he hadn't sown and wouldn't now. About the price of wool at Cotter's Cross in his father's day. About Wren's ribbon. She didn't answer. After a while the heaviness would lift a little and she'd lean on Kharrak and they'd go on.
 
 There was nobody on the Way above the ford. The companies hadn't gone up. The Clan's country began at the falls on Hollow Beck, and the Clan had dragons, and the companies had found that out last autumn.
 
@@ -170,7 +170,7 @@ He looked at her a while longer. Then, at last, at Calder.
 
 "She walked from the river."
 
-"From the Staithe. Five days."
+"From the Staithe. Seven days."
 
 Arn looked at the old one again. Something moved in his face and was put away.
 
@@ -198,7 +198,7 @@ He hadn't asked her.
 
 *It is the Clan's shame.* A pause. *It is also where the setters are.*
 
-He stood in the road and thought of the five days. The two falls. The smell out of the wound. The bone in the wing grinding when she turned.
+He stood in the road and thought of the seven days. The two falls. The smell out of the wound. The bone in the wing grinding when she turned.
 
 "Yes," said Calder.
 
@@ -262,7 +262,7 @@ They pulled.
 
 ---
 
-He'd thought the knife was the worst thing he'd ever felt through the bond. It wasn't.
+The knife had been the worst thing he'd ever felt through the bond, until now.
 
 He didn't remember much of it after. He remembered the rope burning through his palms. He remembered Kharrak behind him on the ledge with the red tide coming up and up in him, so that Calder had to hold the red dragon with one part of himself and pull the rope with another and feel the bone with a third. He remembered Lisska screaming somewhere above them on the cliff, high and thin, as if she were the one. He remembered the sound the bone made.
 
@@ -282,7 +282,7 @@ He knelt by the wing with the rope-burns on his hands and listened to it and fel
 
 That was the thing. He felt it go in. Through the bond, through her. Not like the herd-word on the wound, a coolness. Something slower. A warmth in the bone itself, deep in it, the two ends of each break under the splints. And a drawing. As if each piece were reaching for the other through the dark inside the wing, slowly, two hands reaching across a bed in the night. A drawing together. Like a cut pulling shut.
 
-Not much. A little. He could feel how little. But it went in, and it held, and when the song stopped after a long time, it didn't stop. It went on in the bone by itself, slow, faint, like the pulse in the ground under the ledge.
+A little. He could feel how little. But it went in, and it held, and when the song stopped after a long time, it didn't stop. It went on in the bone by itself, slow, faint, like the pulse in the ground under the ledge.
 
 Ivar Leck sat back on his heels and wiped his hands down his beard.
 
@@ -324,13 +324,13 @@ So Calder said it.
 
 He said it the way he'd heard it. Lying on the boards in the tower at the Old Ruin, with his face to the crack, and the fire below, and Rook's pleasant ordinary voice coming up. He'd said it to Maren on Liss's floor, the first night, and it had come out of him in pieces. He'd said it to himself every night on the Way since, so it would come out whole.
 
-He told Arn about the horse. Rook taking a horse from Ulric's camp the night before the first ford, saying he was going to the coast for his mother. Lying up all night in the gorse above the water. He told him about Teo coming down alone at first light, before his men, because he always did, because he wanted to be first. About Teo being pleased to see him. Waving. Thinking Rook had come down from Ulric's people to hold the horses. Getting off his horse at the edge of the water and holding out the reins.
+He told Arn about the horse taken from Ulric's camp, and the night in the gorse above the water. About Teo coming down alone at first light, pleased to see him, holding out the reins.
 
-"He never drew," said Calder. "That's what Rook said. *He never drew. He went in the water like a stone.*"
+"He never drew," said Calder. "That's what Rook said."
 
 Arn didn't move.
 
-He told him the rest. The grey armband on the alders, plain, no thread, left there on purpose. The Clan axe dropped in the shallows. *The farmer found them. Arn found the farmer. It went the way you said it would.* He told him about the mill. The crossbow in the hedge at the bottom of the field, bought, one of Delling's, before the rest of the company was hired, to put the woman on the green dragon out of the fight. Imra Sallow. So the war-pairs would break. So the dragons would come loose.
+He told him the rest. The grey armband on the alders, the Clan axe in the shallows, the crossbow in the hedge at the mill, one of Delling's, bought to put Imra Sallow out of the fight. So the war-pairs would break.
 
 He took the knife out of his coat and put it on the table. Plain, round pommel, and the ring of six dots cut in it. He put the iron ring beside it, on its string. The ring of the man who'd shot at the second ford.
 
@@ -370,7 +370,7 @@ He sat back.
 
 Arn looked at him.
 
-"On the spit. Before. He said every bag of silver he paid out went in a book. What for. Who to. And the book went into Delling's chest with the silver, the morning after the flight from the Ram's Head." He heard his own voice, flat. "Delling's at Cotter's Cross. A man on the Way told me. Delling sells anything."
+"On the spit. Before. He said every bag of silver he paid out went in a book. What for. Who to. And the morning after the flight, Delling took the paymaster's chest off the Ram's Head with the book in it." He heard his own voice, flat. "Delling's at Cotter's Cross. A man on the Way told me. Delling sells anything."
 
 "And you can't read," said Arn.
 
@@ -446,13 +446,13 @@ He went along to Gunna's ledge before midnight.
 
 She was sitting on her own ledge, below the setters' cave, with her back against Tamsin's flank and a bowl of broth in her lap, looking at the dark glen. She didn't get up when he came along the ledge to her.
 
-"My family's coming up the Way," he said. "On the Saltreach bank, in the Fellwood. My mother and my sister and her two and my girl. And the greys." He paused. "And a knight. With the lion."
+"My family's coming north," he said. "On the Saltreach bank, in the Fellwood. My mother and my sister and her two and my girl. And the greys." He paused. "And a knight. With the lion."
 
 Gunna drank some broth.
 
 "I heard," she said. "The little green one tells everybody everything."
 
-"I want them taken off her hands. At the moor's edge, where the Way comes out of the trees. Before they get anywhere near the hold." He heard himself say it, plain. "And taken up to the caves. The hatching caves, above Coldtarn. The ledges keep the caves. Arn's men don't go up there in the spring. Nobody does but you."
+"I want them taken off her hands. At the moor's edge, where the old drove track comes up out of the Fellwood. Before they get anywhere near the hold." He heard himself say it, plain. "And taken up to the caves. The hatching caves, above Coldtarn. The ledges keep the caves. Arn's men don't go up there in the spring. Nobody does but you."
 
 "And the lion-woman?"
 
@@ -474,7 +474,7 @@ She didn't say anything to that. Behind her, Tamsin opened one grey-green eye an
 
 "All right," said Gunna Tarne. "I'll take Tamsin, and Harl, and the boy Leif, and his. We'll go down tomorrow and sit on the edge and wait." She picked the broth up again. "And I'll tell your girl her father's sorry he couldn't come himself, because she'll ask."
 
-"She'll ask," he said. "Tell her twice."
+"She'll ask," he said. "Tell her."
 
 ---
 
@@ -496,16 +496,14 @@ He'd sent her down again with Gunna, to go on ahead and find them and come back.
 
 She came down on the ledge and ran three steps along it and stopped in front of him with her wings still half open.
 
-*I saw them,* she said. *Calder. I saw them. Coming up the Way, the last bit, where it comes out of the trees under the moor. Ada with a stick. Bel with Nan. Pip on the old grey mare. All of them.*
+*I saw them,* she said. *Calder. I saw them. Coming up the old track, the last bit, where it comes out of the trees under the moor. Ada with a stick. Bel with Nan. Pip on the old grey mare. All of them.*
 
 "Wren."
 
-*Wren's on Old Grey.* Lisska's voice went high and bright. *Not walking beside him. On him. Up on his back. He let her. She's sitting up on his back with her hands in his mane, and he's walking up the Way with her on him, slow, and he's lifting his feet.* She stopped for breath. *And the lion's walking beside them. On the other side. Right beside her. Like a wall.*
+*Wren's on Old Grey.* Lisska's voice went high and bright. *Not walking beside him. On him. Up on his back. He let her. She's sitting up on his back with her hands in his mane, and he's walking up the track with her on him, slow, and he's lifting his feet.* She stopped for breath. *And the lion's walking beside them. On the other side. Right beside her. Like a wall.*
 
-He didn't say anything. He couldn't.
+He didn't say anything for a while.
 
-*Say it twice,* said Lisska. *She'd want you to. She'd make you.*
-
-"Wren's coming up the Way on Old Grey," said Calder Fenn, on the ledge outside the setters' cave, with his hand on the old one's jaw. "With a lion beside her."
+"Wren's coming up the track on Old Grey," said Calder Fenn, on the ledge outside the setters' cave, with his hand on the old one's jaw. "With a lion beside her."
 
 He said it again.

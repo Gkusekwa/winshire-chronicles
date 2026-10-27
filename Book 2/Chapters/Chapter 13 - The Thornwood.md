@@ -9,7 +9,7 @@ Beats: Maren and Orrun cross the Hallow Plains into the Thornwood. Keeper Hesper
 Echo of the other's story: A Keeper back from the Plains' edge: a red dragon seen going south over the Marches, alone.
 Status: first draft
 Draft notes: Day 28 to day 40. Decided here (proposals):
-- Days 17–28 in summary: east off the Scarfell, down its far side through empty sheep country, across the upper Wend's feeder becks, and out onto the Hallow Plains on about day 24. Eight leagues a day on foot, less where Maren stops to let Orrun stand and feel for the pull. She eats what she can buy at shepherds' doors with the last of her silver, and what Orrun brings her, which she doesn't ask about.
+- Days 17–28 in summary: east off the Scarfell, down its far side through empty sheep country, across becks running south-east toward the Ysse's far feeders, and out onto the Hallow Plains on about day 24. Eight leagues a day on foot, less where Maren stops to let Orrun stand and feel for the pull. She eats what she can buy at shepherds' doors with the last of her silver, and what Orrun brings her, which she doesn't ask about.
 - The Hallow Plains (day 28): grass to the edge of the sky, the Worldsend white at the back of it all day and never nearer; standing stones alone or in rows, each one, the clans say, where a beast is buried. A stonehorn herd that parts round Orrun without breaking step. Horse-clan riders on great elk who watch from a long way off for three days and never come close. A Worldsend roc overhead, very high. Ada's hearth-word takes on the plains on the second try.
 - Day 31: the Thornwood's edge: oak, black pine and thorn, a wall of it. Orrun goes in as if he knows where he's going. The pull and the hum stronger; Maren can feel it in her own feet now without him.
 - Night 31: the duskcat. Two lamp-eyes in the dark beyond the fire, a coat that drinks the firelight; then a woman's voice out of the trees, speaking Maren's tongue with a Wyldmarch lilt, asking permission to come to the fire, of the lion, not of her. Keeper Hesper: fifty or so, lean, brown, grey-streaked hair in a single braid bound with cord, knot-cords at her belt, a short spear, bare feet; her duskcat Hush, black, long, low, silent. Hesper has lived alone in the Thornwood twenty years.
@@ -18,7 +18,7 @@ Draft notes: Day 28 to day 40. Decided here (proposals):
 - Day 35: Hesper's knot-charms. A finding-knot she ties every morning for her path won't hold its turns; a fold-ward on her shelter-platform has come undone in the night, the cord loose as wet string. "As if the ground's being drunk." Hush won't hunt east.
 - The Titan: the clans know where it is. It came down out of the west on the morning after the river, "the size of a hill", and lay down on the Hollow Ring, the clans' sacred stones, four days east of the Barrows; it hasn't moved since. The Keepers watch it from a distance. Nobody goes near it; the elders haven't said, and the ground round the Ring is going grey. Orrun wants to go now. Maren asks him to wait for the clans. He does, of his own choosing. *I have waited before. This time I choose it.* (A small mending of ch 9.)
 - Rumours only (days 35–40): Keepers coming and going at Hesper's platform with news: earth-shakes felt in the north of the Thornwood; deer and boar moving west out of the forest in ones and twos, a few each week; hollow owls restless in their stones. Nobody says *another*. Nobody thinks there is one.
-- Day 38 (the echo): a young Keeper, Corran, back from the western edge of the Plains with word passed along the horse clans: a red dragon seen going south over the Marches, alone, with a man on its back. Maren knows whose. She doesn't say his name.
+- Day 38 (the echo): a young Keeper, Corran, back from the western edge of the Plains with word passed along the horse clans: a red dragon seen going south over the Marches, alone, with a man on its back (seen from the high moor by a horse-clan family over the Scarfell for wool). Maren knows whose. She doesn't say his name.
 - Day 40: the elders will meet on the Plains in five days. Hesper will take her. "They'll ask what you are to him." "What will you tell them?" "That he lets you sit with him. That's enough for the clans."
 Magic touches: the hearth-word taking on the plains; the hum in the ground strong enough for Maren to feel herself; Hesper's knot-charms slipping; Hush's refusal to hunt east; charms in the Wyldmarch asked of beasts, never put on them.
 notes -->
@@ -27,7 +27,7 @@ notes -->
 
 They came down off the far side of the Scarfell in the rain, and for eleven days after that Maren didn't see a roof that wasn't a shepherd's.
 
-The moor went down east in long steps, each one lower and greener than the last, into country where nobody seemed to live but sheep. Becks ran down out of it north-east, toward the upper Wend, and she and Orrun waded them where they were shallow and went up and down their banks where they weren't. She walked eight leagues a day. Less, when Orrun stopped. He stopped often, at first, and stood with his head up into the wind and his eyes half shut, feeling for it, and she stood beside him and waited.
+The moor went down east in long steps, each one lower and greener than the last, into country where nobody seemed to live but sheep. Becks ran down out of it south-east, toward the Ysse's far feeders, and she and Orrun waded them where they were shallow and went up and down their banks where they weren't. She walked eight leagues a day. Less, when Orrun stopped. He stopped often, at first, and stood with his head up into the wind and his eyes half shut, feeling for it, and she stood beside him and waited.
 
 *There,* he'd say, and they'd go on.
 
@@ -67,7 +67,7 @@ That surprised her. She'd thought anything with sense would run from a lion the 
 
 Orrun walked down into them.
 
-They lifted their heads. The nearest ones turned their great short-sighted eyes on him, and snorted, and then put their heads down again and went on grazing. He walked through the middle of the herd. They moved aside for him, a few paces, without hurry, without breaking step, the way cattle part for a farmer walking through a field. He came out the other side. She followed him, with her hand on Haverly's hilt, through a hundred head of stonehorn that didn't look at her once.
+They lifted their heads. The nearest ones turned their great short-sighted eyes on him, and snorted, and then put their heads down again and went on grazing. He walked through the middle of the herd. They moved aside for him, a few paces, without hurry, without breaking step, as cattle part for a farmer walking through a field. He came out the other side. She followed him, with her hand on Haverly's hilt, through a hundred head of stonehorn that didn't look at her once.
 
 "Why didn't they run?"
 
@@ -99,7 +99,7 @@ She looked up. It was very high, so high it was only a shape against the stars, 
 
 *To see,* said Orrun. *Everything here wants to see.*
 
-She lit the fire with Ada's word that night. On the plains it took on the second try. Two fingers, three turns, the catch in the middle. The stems smoked, and then, small and yellow, there was a flame, and she sat and looked at it for a long time as if she'd made it out of nothing. Which she had.
+She lit the fire with Ada's word that night. On the plains it took on the second try. Two fingers, three turns, the catch in the middle. The stems smoked, and then, small and yellow, there was a flame, and she sat and looked at it as if she'd made it out of nothing. Which she had.
 
 Through the bond she felt Orrun, lying out on the dark grass, lift his head and look at it too.
 
@@ -107,11 +107,11 @@ Through the bond she felt Orrun, lying out on the dark grass, lift his head and 
 
 The Thornwood began on the thirty-first day, all at once, like a wall.
 
-One moment it was grass. Then, across the whole of the eastern sky, under the white of the mountains, a dark line that got darker as they came toward it, and taller, until it stood over them: oak and black pine and thorn, so close together that she couldn't see a hand's depth into it. There was no edge to it, no thinning, no scrub going out into the grass. The plains stopped and the forest started, and the line between them ran north and south as far as she could see.
+One moment it was grass. Then, across the whole of the north and the north-east, as far round as the white of the mountains, a dark line that got darker as they came toward it, and taller, until it stood over them: oak and black pine and thorn, so close together that she couldn't see a hand's depth into it. There was no edge to it, no thinning, no scrub going out into the grass. The plains stopped and the forest started, and the line between them ran away east and west as far as she could see.
 
 The hum came out of it.
 
-She'd been feeling it for days, through him. Now she felt it herself. In her own feet, through her own boots. A faint, steady ringing in the ground, the way a stone floor rings when someone's working a forge a long way under it. She stood at the edge of the trees and put her hand flat on the bark of an oak, and it was in the oak too.
+She'd been feeling it for days, through him. Now she felt it herself. In her own feet, through her own boots. A faint, steady ringing in the ground, as a stone floor rings when someone's working a forge a long way under it. She stood at the edge of the trees and put her hand flat on the bark of an oak, and it was in the oak too.
 
 "It's in there," she said.
 
@@ -201,7 +201,7 @@ Then he walked out among them.
 
 She didn't follow. Hesper put a hand on her arm, lightly, and she didn't need it. She stood at the edge of the pines and watched him go down the first row slowly, putting his nose to the foot of each stone, one after another, the way he'd put his nose to the root-hole in the Fellwood. Stopping. Going on.
 
-She felt it through the bond. Not grief. She'd thought it would be grief. It was something emptier than that, and worse.
+She felt it through the bond. She'd thought it would be grief. It was something emptier than that, and worse.
 
 *I don't know them,* he said.
 
@@ -213,7 +213,7 @@ He'd stopped by the tenth stone in the second row. He stood with his head down.
 
 *Some.* He moved on to the next stone. *Not all. Some of them were here when I was here. I know that. I can feel how old the stone is.* He stopped again. *I was here. And they were here. And I don't remember.*
 
-She didn't know what to say. She stood at the edge of the clearing with her hand on the rough bark of a pine and didn't say anything.
+She didn't know what to say. She stood at the edge of the clearing with her hand on the rough bark of a pine.
 
 *Three hundred years at the door,* said Orrun. *And before that, longer. And it took them out of me. The waiting. It took them out one by one, like stones out of a wall, and I didn't notice.*
 
@@ -255,7 +255,7 @@ She tied it. Three turns, a twist, the word, soft. She held it up.
 
 The turns slid. Slowly, as Maren watched, the knot came undone in her fingers, the cord unwinding itself like a snake uncoiling, until it hung from her hand in a plain grey string.
 
-Hesper looked at it a long time.
+Hesper looked at it.
 
 "That's the fourth day," she said. "It's never done that. Not once in thirty years." She tied it again. It held a moment longer, and then the turns slid again, and it was string.
 
@@ -359,7 +359,7 @@ Hesper translated. Maren half listened. Riders gathering. The elders called. Fiv
 
 Then Corran said something, and Hesper stopped, and looked at Maren.
 
-"He says the horse clans saw a dragon," she said. "Over the Marches. Far off, at the Plains' edge, from the rises. A red dragon, going south, alone. With a man on its back."
+"He says the horse clans saw a dragon," she said. "A family of them, over the Scarfell trading for wool, saw it from the high moor. Over the Marches. A red dragon, going south, alone. With a man on its back."
 
 Maren didn't move.
 

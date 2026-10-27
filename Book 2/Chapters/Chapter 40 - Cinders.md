@@ -52,7 +52,7 @@ The clerk had a rushlight. He went ahead with it, and the hall went away in fron
 
 Orrun came in behind her through the great door. It was high enough. Only just.
 
-They walked the length of it. She didn't count. She'd walked it every second day for a month and never once in the dark.
+They walked the length of it. She'd walked it every second day for a month and never once in the dark.
 
 There was light at the far end. Not a lamp. Grey. The last of the sky, coming in through a great hole where the tallest window had been. And against it, filling the hole, the head of a red dragon, resting on the broken sill with its eyes shut.
 
@@ -62,7 +62,7 @@ She stopped at the last shelves.
 
 The bird was on the floor at the foot of its perch.
 
-On its side, with its head on its breast. Small. She'd never seen it small. Three short black shafts standing out of its breast feathers, and frost on its feathers, white at the ragged ends. Somebody had put the dark-wood case's empty lid beside it. Or it had fallen there. A silver-bound lid, with the College's old mark on it, the wave over the glass.
+On its side, with its head on its breast. Small. She'd never seen it small. Three short black shafts standing out of its breast feathers, and frost on its feathers, white at the ragged ends.
 
 Idony was sitting against the perch with his hands in his lap.
 
@@ -208,13 +208,13 @@ She didn't say anything.
 
 "And you," he said.
 
-"West." She didn't have to think about it. "Wherever it goes. It went west this morning, along the snow-line." She looked at Orrun, standing at the edge of the firelight with his head low. "He follows it. I follow him."
+"West." She didn't have to think about it. "Wherever it goes. It went west five days ago, along the snow-line." She looked at Orrun, standing at the edge of the firelight with his head low. "He follows it. I follow him."
 
 "To do what?"
 
 "I don't know yet."
 
-Calder nodded. As if that were a reasonable answer. He looked at the fire for a long time.
+Calder nodded. As if that were a reasonable answer. He looked at the fire.
 
 "You'd not come south," he said.
 

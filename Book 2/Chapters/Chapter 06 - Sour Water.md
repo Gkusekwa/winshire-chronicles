@@ -17,13 +17,13 @@ Draft notes: Day 6, noon, to the small hours of day 10. Decided here (proposals)
 - Orrun opens the split from the river side: he puts his shoulder to the inner wall and the stone moves for him, the crack widening like a door. The granary's back wall is the inner wall. Maren goes through and brings them out: Ada, Bel with Nan, Pip, Wren. Wren says, "You're her," again, and then, "Say it twice," when Maren says it's all right. Old Grey hears Wren's voice outside the gate and comes round the walls to the water-gate on his own.
 - Liss ferries them over in the dark, no lantern, on the guide-rope. The greys swim behind on lead ropes; Orrun swims. They land at Tolly's Staithe before dawn on day 9.
 - Maren's reasons, as she gives them to herself: Calder is three days up the Way with a dragon on three legs; the companies on the Way would sell a farmer's family to the crown by the head; Lisska can't carry five people; only a lion is escort enough. And the thing went north-east. Her road starts that way.
-- Echo: at dawn on day 10, in the Fellwood's edge above the Staithe, Lisska comes down the Way looking for them (Calder sent her back to see Wren, as promised). Within sight, she speaks to Orrun as far kin and he passes it to Maren: the old one has fallen twice on the Way; Calder is past the Ram's Head.
+- Echo: at dawn on day 10, in the Fellwood's edge above the Staithe, Lisska comes down the Way looking for them (Calder sent her back to see Wren, as promised). Within sight, she speaks to Orrun as far kin and he passes it to Maren: the old one has fallen twice on the Way; Calder is near the Ram's Head.
 Magic touches: the sweet well's licensed word cut in its hood, dead; the Widow Rudd's words; Orrun's bond-shaping on dead ground (it isn't the Deep, so it works); Lisska's kin-voice to Orrun within sight.
 notes -->
 
 ---
 
-Millbrook's well had been sweet for three hundred years, and on the sixth day after the flight it turned.
+Millbrook's well had been sweet for three hundred years, and by the sixth day after the flight it had turned.
 
 Maren smelled it from the bottom of the jetty road. She'd come down from the ferry house with Tam and a handcart to fetch what was left of Odo's tools out of the burned forge, because Odo had lain in Liss's kitchen for two days telling everyone in it that if the tongs and the swages and the good anvil weren't fetched before the companies got to them he'd go down for them himself on his hands, and nobody doubted him. The road went up from the river past the inn and the mill to the square, and the well stood in the middle of the square under its carved stone hood, the way it had stood all her life, with the bucket on its chain and the trough beside it for the beasts.
 
@@ -115,7 +115,7 @@ Liss told her. Liss was standing in her own doorway with her big hands hanging a
 
 "Where are they?"
 
-"They walked." Liss's voice cracked. "They walked up to Greyhold between his men. Ada told them to. Your lion was on the jetty. He got up when they came, and the men went white, every one of them, and stopped, and the captain had his hand on his sword. And Ada came out of my door and said, *We'll not have a lion fighting a writ on our account,* and she took the little ones by the hand and walked past him. Past him, Maren. Close enough to touch. And Bel after her with the baby, and Wren." Liss shut her eyes. "And the lion lay down. He let them by. He lay down on the planks and let them walk past him between those men, and watched them go up the road."
+"They walked." Liss's voice cracked. "They walked up to Greyhold between his men. Ada told them to. Your lion was on the jetty. He got up when they came, and the men went white, every one of them, and stopped, and the captain had his hand on his sword. And Ada came out of my door and said, *We'll not have a lion fighting a writ on our account,* and she took the little ones by the hand and walked past him. Past him, Maren. Close enough to touch. And Bel after her with Nan, and Wren." Liss shut her eyes. "And the lion lay down. He let them by. He lay down on the planks and let them walk past him between those men, and watched them go up the road."
 
 Maren looked at the end of the jetty.
 
@@ -171,7 +171,7 @@ She didn't turn round when Maren came up. She'd have heard the lion. She didn't 
 
 Maren waited.
 
-"I had the inner wall surveyed this morning," Rowan said. "Before they came. The split. The council wants to know whether the wall will stand, and whether it's worth the cost of mending, and whether anything could have got in or out through it in the night of the gate." She held the lantern up and looked at the gate's iron studs, as if she were counting them. "It's not a hand's width at its widest. Nobody could get through it. I've written that in my report." She paused. "Nobody at all."
+"I had the inner wall surveyed this morning," Rowan said. "Before they came. The split. The council wants to know whether the wall will stand, and whether it's worth the cost of mending, and whether anything could have got in or out through it since the morning it split." She held the lantern up and looked at the gate's iron studs, as if she were counting them. "It's not a hand's width at its widest. Nobody could get through it. I've written that in my report." She paused. "Nobody at all."
 
 Maren stood in the road and understood her.
 
@@ -197,9 +197,9 @@ They held a council in Liss's kitchen with the door shut and the shutters closed
 
 "Rowan says the split's not a hand's width."
 
-"Rowan," said Odo, "is a liar, God love her. I've seen it from the river. You could put your arm in it." He looked at the lion's shape in the dark beyond the open door. "Could he put his shoulder in it?"
+"Rowan," said Odo, "is a liar, bless her. I've seen it from the river. You could put your arm in it." He looked at the lion's shape in the dark beyond the open door. "Could he put his shoulder in it?"
 
-Maren thought of the black door at the end of the archive, and the stone round it opening like a mouth as Orrun put his shoulder to the frame. She thought of the passage under the rock, rising, the rock opening ahead of him the way water opens round a swimmer.
+Maren thought of the black door at the end of the archive, and the stone round it opening like a mouth as Orrun put his shoulder to the frame. She thought of the passage under the rock, rising, the rock opening ahead of him as water opens round a swimmer.
 
 "Yes," she said.
 
@@ -265,7 +265,7 @@ The granary was black and smelled of old oats. She couldn't see anything. She he
 
 "It's all right," said Maren. "It's all right, Wren."
 
-She brought them out one at a time. Ada first, because Ada said she'd go first, and went through the gap in the old stone sideways with her shawl held close and her hand on the stone, as if she were stepping out of a cart. Then Pip, small and silent, handed out to Odo's shadow at the bottom of the wall. Then Bel with Nan asleep on her shoulder, who stopped in the gap with the baby and looked at the lion standing a yard off in the dark, and said nothing, and went past him. Then Wren.
+She brought them out one at a time. Ada first, because Ada said she'd go first, and went through the gap in the old stone sideways with her shawl held close and her hand on the stone, as if she were stepping out of a cart. Then Pip, small and silent, handed out to Odo's shadow at the bottom of the wall. Then Bel with Nan asleep on her shoulder, who stopped in the gap and looked at the lion standing a yard off in the dark, and said nothing, and went past him. Then Wren.
 
 Wren stopped in the gap too. She put her hand out, without asking, and put it flat on Orrun's shoulder, and left it there for the space of a breath. Then she went past him, down to the river path, and Maren came out last.
 
@@ -297,7 +297,7 @@ She hadn't known whether he could. She found that he could. He did most things b
 
 The cold of the Wend in spring went into her like knives. She'd swum it before, on the river watch, in summer, for a bet. Never in spring. Never at night. She held on to the lion's mane and kicked and thought about nothing except the next kick, and the next.
 
-Halfway, she felt him through the bond. Not words. Something like a hand under her, holding her up.
+Halfway, she felt him through the bond, something like a hand under her, holding her up.
 
 ---
 
@@ -351,7 +351,7 @@ As far as the ledges, Maren thought. As far as the Scarfell's edge, where his ow
 
 The green dragon found them at dawn on the tenth day.
 
-They were in the edge of the Fellwood above the Staithe, in a hollow under the oaks off the Drover's Way, where Maren had brought them in the grey before sunrise to rest out of sight of the road. Liss had gone back over the river at first light with the ferry. Ada had a fire going, small, out of dry stuff, a fire for a land where people with crossbows looked for smoke. The children were asleep. The greys were grazing under the trees with Old Grey standing over Wren like a roof.
+They were in the edge of the Fellwood above the Staithe, in a hollow under the oaks off the Drover's Way, where Maren had brought them in the grey before sunrise of the day before, and where they had lain up all that day and night out of sight of the road. Liss had gone back over the river at first light with the ferry. Ada had a fire going, small, out of dry stuff, a fire for a land where people with crossbows looked for smoke. The children were asleep. The greys were grazing under the trees with Old Grey standing over Wren like a roof.
 
 Maren heard the wings first. Then the cry: thin and high, the cry she'd heard in the cavern under the river, and on the shore in the sunrise. A green shape went over the treetops, low, fast, turned, came back, and dropped into the hollow in a flurry of leaves and wingbeats that sent the greys plunging on their ropes.
 
@@ -367,7 +367,7 @@ Maren felt it go between them through the bond. Not words, at first. A rush, lik
 
 Orrun turned the question over and gave it to the green dragon. The green dragon answered it, fast, tumbling.
 
-*The old one has fallen,* said Orrun. *Twice. On the Way. Once on a hill above the burned village, and once on the road by a stream. She got up both times.* Another rush from Lisska. *He is past the inn with the ram on its sign. Four days, for what a horse does in one.* A pause. *There are men on the road behind him.*
+*The old one has fallen,* said Orrun. *Twice. On the Way. Once on a hill above the burned village, and once on the road by a stream. She got up both times.* Another rush from Lisska. *He is near the inn with the ram on its sign. Four days, for what a horse does in one.* A pause. *There are men on the road behind him.*
 
 Wren was standing up under Old Grey, looking at the green dragon.
 

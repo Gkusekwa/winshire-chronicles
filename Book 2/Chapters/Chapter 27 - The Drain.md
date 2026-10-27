@@ -3,22 +3,22 @@
 <!-- notes
 POV: Idony
 Part: Part Two: Midsummer
-Days: 106–118 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
+Days: 106–119 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Wyldmarch, riding west
 Beats: **The drain**: behind the Antlered the Wyldmarch goes dead, and the Keepers' charms fail across a hundred leagues. Idony writes the first true sentence of his life's work: *a waking is a stir, a flood and then a famine.* The moving draw goes west toward Vael and Glasswater, toward Nessa, and starts to settle on the lake: the next stir. He rides for home.
 Echo of the other's story: The walker going west too.
 Status: first draft
-Draft notes: Day 106 to day 118. Decided here (proposals):
+Draft notes: Day 106 to the morning of day 119. Decided here (proposals):
 - Day 106: Ysolde Marr comes into the Moot on foot with two Wardens and no lynx: Dane set the three lamps at the forest's edge north of the Moot on the night of day 104 to bind the sleeper as it rose; when it stood, the surge came through the lamps and they shattered, and the Wardens kneeling by them were thrown; Frost the lynx ran with the beast-flood and didn't come back. Dane is alive, burned on both hands, and has gone west for Vael with what's left. Ysolde: "He said to tell you you'll answer to the Council." Idony: "Yes."
 - Days 106–108: the surge going down at the Moot; the glasses falling, slowly, the way a flood goes off a field. The Antlered's draw on his glasses: a great slow moving pull, going north-east into the deep Thornwood, then east toward the Worldsend, taking the Deep with it as it walks.
 - Day 108: the drain. Behind it, the ground goes dead: not grey (the stir's grey was the Titan drinking); ordinary dead, Hearthmere's kind. The trees stay green and the grass grows, but the Keepers' knots won't hold, the hearth-songs don't take, Hesper's moss (what's left of it in her bag, which Aun gave to Maren) is only moss. A Keeper's wound opens again in the night. The river clans' boat-charm, that keeps a hide boat dry, fails; three boats sink at their moorings. The wells at the Moot taste of iron.
 - The hollow owls: they won't fly over dead ground (Bestiary). The Keepers' night messages stop. By day 110 nobody at the Moot knows what's happening a day's walk off.
-- Days 110–112: Idony measures the drain westward on a borrowed horse with a horse-clan boy, Tamm, as guide: every half-day's ride, the glass on the ground. Dead. Dead. Dead, for a hundred leagues, to the Plains' western edge, where at last on day 112 the quicksilver lifts a little. The Wyldmarch, from the Worldsend to the Plains, a hundred leagues and more, has gone dead like Hearthmere.
-- The sentence, written on day 112 at the Speaking Stones, with his back to the tallest stone (which doesn't hum): first in the silk: *A waking is a stir, a flood, and then a famine.* He looks at it a long time. It's the first sentence he's written that he's sure is true and that nobody has written before.
-- Days 112–115: he follows the other draw on the green glasses: the Last Titan's, the one that flew west from the Ring on midsummer night. It's been going west for two weeks, slow, wandering, as if looking. On day 114 it turns north-west. On day 116 it stops moving. On day 118 it begins to settle. He works the lines: Glasswater. Vael. Under his own city, his own lake, Nessa's ferry and the *Heron* and the lantern owl and the tin Lady-token. It's sitting down on the lake. The next stir.
+- Days 110–114: Idony measures the drain westward on a borrowed horse with a horse-clan boy, Tamm, as guide: every half-day's ride, the glass on the ground. Dead. Dead. Dead, for a hundred leagues, to the Plains' western edge, where at last on day 114 the quicksilver lifts a little. The Wyldmarch, from the Worldsend to the Plains, a hundred leagues and more, has gone dead like Hearthmere.
+- The sentence, written on the evening of day 114 at the Plains' western edge, with his back to a lone grave-stone (at the Speaking Stones on day 111 the tallest stone didn't hum): first in the silk: *A waking is a stir, a flood, and then a famine.* He looks at it a long time. It's the first sentence he's written that he's sure is true and that nobody has written before.
+- Days 114–118: he follows the other draw on the green glasses: the Last Titan's, the one that flew west from the Ring on midsummer night. It's been going west for two weeks, slow, wandering, as if looking. On day 114 it turns north-west. On day 116 it stops moving. On day 118 it begins to settle. He works the lines: Glasswater. Vael. Under his own city, his own lake, Nessa's ferry and the *Heron* and the lantern owl and the tin Lady-token. It's sitting down on the lake. The next stir.
 - Maren: she stays at the Moot while Orrun won't eat (days 105–108); on day 109 he eats; on day 111 she sets out west on foot after the Titan. Idony and she part at the Moot at dawn on day 110 (he goes first, by horse): she asks where it's gone; he says west, and that he'll know more in a week; she says she'll follow it; he says, "I know. I'll see you on my glasses."
-- The echo: day 116 at the Plains' edge: the walker on the green glasses, a long way behind him, going west too. He watches it step, a mouthful at a time, taking from the Deep and giving it back, the only draw on his whole chart that gives back. He writes: *The walker: west. Following.* Then crosses out *following* and writes *coming.*
-- Day 118: he rides for home; leaves Tamm at the Plains' edge with the horse; goes on foot toward the High Crown road with the crate, alone.
+- The echo: night 118, the walker on the green glasses at the Plains' western edge, a long way behind him, going west too. He watches it step, a mouthful at a time, taking from the Deep and giving it back, the only draw on his whole chart that gives back. He writes: *The walker: west. Following.* Then crosses out *following* and writes *coming.*
+- Day 119, morning: he leaves Tamm at the foot of the High Crown road with the horse; goes on foot up the road toward Vael with the crate, alone.
 Magic touches: the drain (Magic §1): dead ground, ordinary kind; Keepers' charms failing for a hundred leagues; moss that's only moss; boat-charms failing; hollow owls grounded; wells tasting of iron; the glasses' long fall; the Antlered's moving draw; the Last Titan's settling draw on Glasswater; the walker giving back.
 notes -->
 
@@ -28,7 +28,7 @@ Ysolde Marr came into the Moot on foot on the hundred-and-sixth day, with two Wa
 
 Idony saw her coming down the slope from the forest's edge in the morning, past the wrecked roundhouse in the seventh lane. He knew her by the grey hair and the way she walked, very straight, as if her spine were a rune somebody had cut. Her blue robe was torn and black down one side. The two behind her were limping.
 
-He went up the slope to meet her. He didn't know why. He thought she'd want to tell somebody, and he was the only one of them there.
+He went up the slope to meet her. He thought she'd want to tell somebody, and he was the only one of them there.
 
 She stopped in front of him and looked at him for a long time.
 
@@ -52,7 +52,7 @@ Her lynx. Idony remembered it standing on the northern path in the sweet smoke w
 
 He didn't know what to say. He said nothing.
 
-"Magister Dane is alive," she said. "Burned on both hands, worse than mine. He's gone west for Vael, with what's left. Three Wardens and the Scribes and the mules." She looked at him. "He said to tell you you'll answer to the Council."
+"Magister Dane is alive," she said. "Burned on both hands, worse than mine. He's gone west for Vael, with what's left. Pask and the Scribes and the mules." She looked at him. "He said to tell you you'll answer to the Council."
 
 "Yes," said Idony.
 
@@ -220,7 +220,7 @@ He set the glass on the flat stone in the horseshoe's mouth. Dead.
 
 Further west. Dead. And further. The Plains going on, green, under a high summer sky, with nothing wrong with them that anyone could see, and the glass lying dead every time he set it down.
 
-On the hundred-and-twelfth day, at the Plains' western edge, where the grass began to give way to the first low hills and the High Crown's foothills were a line of blue in the north, he set it down on the ground and the quicksilver lifted.
+On the hundred-and-fourteenth day, at the Plains' western edge, where the grass began to give way to the first low hills and the High Crown's foothills were a line of blue in the north, he set it down on the ground and the quicksilver lifted.
 
 A hair. Off the bottom. And stayed.
 
@@ -232,7 +232,7 @@ A hundred leagues. More. From the Worldsend to the Plains' western edge, from th
 
 He wrote the sentence that evening.
 
-He didn't plan to. He was sitting with his back against a standing stone at the Plains' edge, a lone one, a grave-stone, Tamm said, though Tamm said everything with his hands. The sun going down red in the west over the hills. The brown mare grazing. Tamm asleep in the grass with his bow under his head. Idony had the silk out, on his knee, and the pen, and the horn of ink, and he was writing down the day's numbers the way he always did.
+He didn't plan to. He was sitting with his back against a standing stone at the Plains' edge, a lone one, a grave-stone, Tamm said, though Tamm said everything with his hands. The sun going down red in the west over the hills. The brown mare grazing. Tamm asleep in the grass with his bow under his head. Idony had the silk out, on his knee, and the pen, and the horn of ink, and he was writing down the day's numbers as he always did.
 
 Then he stopped.
 
@@ -258,7 +258,7 @@ He sat there and found that he didn't like it nearly as much as he'd thought he 
 
 ---
 
-He followed the other draw for six days.
+He followed the other draw for four days.
 
 The Last Titan's. The one that had flown west from the Ring on midsummer night, low, with something in its jaws, under the stars. He'd been watching it on the green glasses every night since, in the wreck at the sink, at the Moot, on the shingle. A great moving pull, at the western edge of his charts, going west.
 
@@ -268,7 +268,7 @@ It had wandered. For two weeks. West, and then south a little, and then west aga
 
 On the hundred-and-fourteenth day it turned north-west.
 
-He was at the foot of the hills by then, past the Plains' edge, on the road up toward the High Crown, with Tamm and the mare. He saw it turn on the glasses in the evening. A long slow curve. North-west. Steady. Not wandering any more.
+He was still at the Plains' edge, with Tamm and the mare. He saw it turn on the glasses that same evening. A long slow curve. North-west. Steady. Not wandering any more.
 
 On the hundred-and-sixteenth day it stopped moving.
 
@@ -302,7 +302,7 @@ The next stir.
 
 He looked for the walker that night.
 
-He didn't know why. He'd been looking for it every night since the Moot. Since he'd ridden away from the shingle and left the knight sitting by the lion who wouldn't eat.
+He'd been looking for it every night since the Moot. Since he'd ridden away from the shingle and left the knight sitting by the lion who wouldn't eat.
 
 He turned the green glass south and east, back the way he'd come. Across the Plains. Toward the Moot. And watched.
 
@@ -312,9 +312,9 @@ A long way behind him. Small, at the edge of the glass's reach. A draw that came
 
 Going west.
 
-He watched it take three steps. Four. A little further west each time, on the dead ground of the Plains, where nothing else on his glasses moved at all.
+He watched it take three steps. Four. A little further west each time, at the Plains' far edge, where the dead ground ran out and nothing else on his glasses moved at all.
 
-He took out the silk and wrote: *Day 118. The walker: west, on the Plains. Following.*
+He took out the silk and wrote: *Day 118. The walker: west, at the Plains' edge. Following.*
 
 He looked at the word.
 

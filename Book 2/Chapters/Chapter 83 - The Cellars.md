@@ -11,10 +11,10 @@ Status: first draft
 Draft notes: Day 355, early afternoon. Decided here (proposals):
 - How he came to be beside her: since the cavern (ch 81) a band man held him on a cord round his wrist; when the river came in the man went into the water and let go of the cord; Idony walked along the ledge to Maren because his feet did (the fourth time), and stood at her shoulder; Corvin let him.
 - **The old magic gives way**: the Titan's head out of the dark, at the shut place; it puts its brow to the wall of gold rings; the rings turn, faster; the scream; the stone of the shut place *gives*: not breaks: softens, like wax near a flame; the old ones' working, three hundred years and more, giving way to something stronger than the hands that made it.
-- **Corvin speaks the chain-words**: from the arch, the roll open on a binder's back, his palm on it; the working-words of the appendix, the ones Idony taught him right (*hold*, *hold fast*, *turn back*): but badly: wrong weight on the closing hooks, as a man speaks a language he's learned from a book; the chain-ends on the Titan's legs answer anyway (they're still a working, and they feed): they tighten: not *hold*: *bite*: the iron goes into its legs; it screams; it rears in the cavern; its back goes up into the roof at the near end, under the inner wall: the roof over the cellars.
+- **Corvin speaks the chain-words**: from the ledge's edge below the arch, the roll open on a binder's back, his good palm on the runes of the nearest chain-end where it hangs over the ledge (a chain-word is read into the iron, by touch); the working-words of the appendix, the ones Idony taught him right (*hold*, *hold fast*, *turn back*): but badly: wrong weight on the closing hooks, as a man speaks a language he's learned from a book; the chain-ends on the Titan's legs answer anyway (they're still a working, and they feed): they tighten: not *hold*: *bite*: the iron goes into its legs; it screams; it rears in the cavern; its back goes up into the roof at the near end, under the inner wall: the roof over the cellars. The chain-end tears out from under Corvin's hand and he goes back into the arch.
 - **The cellars come down**: through the rock, through Orrun, Maren feels it: the cellar vaults (the knocked-through ones under the inner wall where seventy people and Joby Marsh went in with a lantern) breaking: the vault-roofs cracking; people under them; she knows it before Orrun says it: *The stone people.*
 - **Maren chooses**: one breath. She looks at the shut place, softening under the Titan's brow. At Corvin in the arch. At the roll. At Idony. At the ring that's behind the wall. Then: "Go." To Orrun. "All of you. Up. The cellars." Orrun: *The door.* "I know." *If I go up...* "I know. Go." She takes her hand off the shut place. To Calder: "The cellars. Under the wall. Seventy. Go up through the roof; he'll open it from below." Calder goes: up through the river-breach on Kharrak, the three dragons. Orrun goes up into the rock (bond-shaping: the lion goes into stone as into water, up), and three shadows stand up out of the cavern floor and go after him into the rock. She stays: at the vault, with Haverly's edge dark in her hand, and Idony.
-- **Idony speaks the chain-words rightly**: the Titan thrashing, the roof coming down; if it goes on, the cellars are gone before the lions reach them; Corvin's words made it bite; Idony knows the right ones (he taught them, all but one); not *tighten*: *hold fast* and *be still* (the chain-ends' first words, the ones the first knights' chains said); he puts his palm on the nearest chain-end (one of the twelve hanging from the Titan's foreleg, at the ledge's edge, as tall as a house) and reads it into the iron, rightly, slowly; not for Corvin; the Titan goes still: not bound: held, as a horse is held by the bridle; it stands with its brow against the shut place and its legs locked and its eyes open.
+- **Idony speaks the chain-words rightly**: the Titan thrashing, the roof coming down; if it goes on, the cellars are gone before the lions reach them; Corvin's words made it bite; Idony knows the right ones (he taught them, all but one); not *tighten*: *hold fast* and *be still* (the chain-ends' first words, the ones the first knights' chains said); he puts his palm on another chain-end (one of the twelve hanging from the Titan's foreleg, at the ledge's edge, as tall as a house) and reads it into the iron, rightly, slowly; not for Corvin; the Titan goes still: not bound: held, as a horse is held by the bridle; it stands with its brow against the shut place and its legs locked and its eyes open.
 - **The cost**: it's the hardest working since the first chains: the first chains were a hundred voices; he's one; he feels it go out of him: everything: not just the Deep through him: him; Maren beside him with her hand on his back (she can't help: she's in the lions); **spread across five bodies** (Orrun, three shadows, then for the last minutes **four**: she says "Four" aloud); she stops breathing; he counts: one, two... ten; she starts again.
 - **Echo** through the rock, through Maren, given to him in pieces as she gasps it: the lions in the cellars holding the vault-roofs up on their backs; the hill opening above (Calder's dragons tearing at the broken slab and the inner wall's rubble from above); lions carrying people up through the rock, one in its jaws like a cat with a kitten, three on its back; dragons lifting them off the broken hillside; the lion and the dragons working together and not speaking to each other.
 - **The burnout**: when Maren says "Out. All of them. Joby last," he lets go of the words; and it comes back into him: what he's spent: grey in a breath: his hair, his beard, his face; his hands on the iron begin to shake and don't stop; he tries to say *hold* again, to see, and it's a word: nothing; he knows all of it and none of it will work for him again. He sits down on the ledge. He's alive (canon).
@@ -74,7 +74,7 @@ He hadn't known it would be like this. Quiet. Under the scream. Like ice going o
 
 Corvin was reading.
 
-In the arch. He had the roll open on a binder's bent back, the binder on his hands and knees on the ledge and the roll spread flat across his shoulders, and Corvin's palm flat on it. Reading. Aloud. In the old tongue.
+On the ledge's edge, below the arch. He had the roll open on a binder's bent back, the binder on his hands and knees on the stone and the roll spread flat across his shoulders, and Corvin's good palm flat on the nearest chain-end where it hung over the ledge, on the runes inside the curve. Reading. Aloud. In the old tongue.
 
 The working-words. The appendix.
 
@@ -108,7 +108,7 @@ He'd never heard a sound like it. Nobody had. It came out of it and filled the c
 
 It reared.
 
-In the cavern. Its brow coming off the shut place. Its forelegs coming up out of the water with the chain-ends biting into them. Its back going up.
+In the cavern. Its brow coming off the shut place. Its forelegs coming up out of the water with the chain-ends biting into them, and the one Corvin held tearing out of his hand. Its back going up.
 
 Into the roof.
 
@@ -136,7 +136,7 @@ He watched her do it. He'd watched her do things for a year. On the shore at Vae
 
 She looked at the shut place. Softening. Its rings blurred. The wall going to clay under where the Titan's brow had been. The door, nearly open.
 
-She looked at Corvin in the arch. With the roll under his palm.
+She looked at Corvin. Back in the arch, with the roll under his arm.
 
 She looked at Idony.
 
@@ -202,8 +202,6 @@ At the shut place. With her back to the soft stone. Haverly's sword in her hand 
 
 With him.
 
-A dark sword and a burned-out scholar. He wasn't burned out yet. He thought it, standing there. *Not yet.*
-
 She'd given up the door.
 
 She knew it. He saw her know it. With the lion gone, there was nobody at the door. Nothing between the Titan and what was behind it but a woman with a sword that didn't work and a man who couldn't stand without a spar.
@@ -242,7 +240,7 @@ He went to the ledge's edge.
 
 ---
 
-The nearest chain-end was hanging from its foreleg.
+Another chain-end was hanging from its foreleg.
 
 At the edge of the ledge. In the water. As the Titan reared and came down, the chain-end swung past him, iron, each link as tall as a house, the runes inside the curve blazing white. Biting.
 

@@ -6,16 +6,16 @@ Part: Part Two: Midsummer
 Days: 56–78 (Book 2 count; day 0 = the sunrise of Book 1 ch 79). (The plan said 50–60; moved later because the ledger is only read through on day 55, ch 17, and Lisska's flight 2 leaves on day 78 with this chapter's news.)
 Ends at (chapter-end map): Skarrow
 Beats: Ulric reads the ledger himself. He'll stand in Arn's yard and be called a murderer again, if the farmer stands beside him. Arn won't open his gate. Calder's third telling, and the first with proof. On the ride back, the Restoration's war reaches the Scarfell: two steadings burned on the moor's edge, Ulric's colours left on one and Arn's on the other, so each Varr will blame the other. The ledges' riders read the boot-prints, as they did at the ford *(Book 1 ch. 62)*: hired men's, not Clan.
-Echo of the other's story: A Wyldmarch fur-trader at Skarrow: crowns and colleges going into the Thornwood with chains, and a lion-woman ahead of them.
+Echo of the other's story: A Wyldmarch fur-trader at Skarrow: crowns and colleges coming to the Thornwood with chains, and a lion-woman at the Speaking Stones.
 Status: first draft
 Draft notes: Day 56 to day 78. Decided here (proposals):
 - Day 56: Calder decides not to wait for Ulric to come and look: Arn wouldn't let him in to look. He'll take the book to Skarrow. Ada wraps it in oiled cloth. He flies on Kharrak with Lisska, who still isn't talking.
-- Day 57, Skarrow: Ulric's steading on the east side of the Scarfell, in a long green valley falling toward the coast; a stone hall with a turf roof, byres, sheepfolds, a ring of smaller houses, three hundred fighting men in plain grey camped round it. No dragons; Ulric is unbonded. The lean old rider with the white scar through his eyebrow (ch 12: his name is Orm Garrick) meets him at the gate.
+- Day 57, Skarrow: Ulric's steading on the east side of the Scarfell, in a long green valley falling toward the coast; inside its raw pine stockade (Book 1 ch 48, where Calder got no further than the gate), a stone hall with a turf roof, longhouses, byres, sheepfolds, three hundred fighting men in plain grey camped round it. No dragons; Ulric is unbonded. The lean old rider with the white scar through his eyebrow (ch 12: his name is Orm Garrick) meets him at the gate.
 - Ulric at his table, at dusk: big, grey-bearded, slow, a face that holds a great deal and gives away little (Book 1 ch 6); a voice slow and deep and calm. He listens to Calder tell it, the third telling, all of it, the arch, Rook's words, the spit; doesn't interrupt. Then he says, "Give me the book," and reads it himself. He learned his letters at the dues-school with Haldor.
 - Night 57: he reads every page by one lamp, without moving his lips, turning the dried pages with a wetted thumb. Calder sits across the table all night. Ulric stops at "The drover, Varrhold, paid, for the winter: the uncle's steward, four silver and keep." A long time. Then "A horse, from the uncle's lines; to the coast for my mother. Returned." He stops longer. "My horse. A bay mare with a white sock. I gave it him myself, in my own yard. He said his mother was dying." At dawn he closes it. The mill list he reads twice.
 - Day 58, morning: Ulric's answer, in his yard, in front of his men: "I'll stand in my nephew's yard and be called a murderer again. If the farmer stands beside me." And: "Not in his hall. In his yard. Where he can see me."
-- Day 58 (the echo): a Wyldmarch fur-trader at Skarrow's gate with a pony-train of pelts and amber, come over the moor from the Plains: the crowns and the colleges have gone into the Thornwood with chains; and a lion-woman went in ahead of them, with a lion. The trader's own word for her is a clans' word that means "the one who sits with it".
-- Days 60–62: Ulric rides to Varrhold with twenty men in plain grey; Calder over them on Kharrak. Arn won't open his gate. Ulric sits his horse below the wall for a day and a night; Calder stands at his stirrup. Arn on the wall, in black: "A book. Bought from the company that shot Hallam. Paid for with my moor." Ulric: "Read it." Arn: "I'll not touch it." The ledges come down the stair and stand in the road behind the farmer, as before. Arn doesn't move. On the morning of day 62 Ulric turns his horse: "When you're ready to read it, boy, you know where I am." (His Book 1 line, ch 60.) Arn goes down off the wall without a word.
+- Day 58 (the echo): a Wyldmarch fur-trader at Skarrow's gate with a pony-train of pelts and amber, come over the moor from the Plains (he left about day 50): knights with a chain crossing the grass toward the Thornwood, and the colleges coming down from the north; and a lion-woman at the Speaking Stones, in front of the clans' old ones, with a lion. The trader's word for her is the clans' word coined from Hesper's answer there (ch 15), "the one who sits with it".
+- Days 60–62: Ulric rides to Varrhold with twenty men in plain grey; Calder over them on Kharrak. Arn won't open his gate. Ulric sits his horse below the wall for a day and a night; Calder stands at his stirrup. Arn on the wall, in black: "A book. Bought from the company that shot Hallam. Paid for with my moor." Ulric: "Read it." Arn: "I'll not touch it." The ledges come down the stair and stand in the road behind the farmer, as before. Arn doesn't move. On the morning of day 62 Ulric turns his horse: "When you're ready to read it, boy, you know where I am." (His Book 1 line, ch 48.) Arn goes down off the wall without a word.
 - Days 63–65: Calder rides back to Skarrow with Ulric's party to bring the book home (Ulric gives it back; it's the farmer's). On the moor's edge above the Skell Water, on day 64, two steadings burned in the night, half a league apart: the first an Arn steading (red thread on its gatepost), with a strip of plain grey cloth tied to the burned door; the second an Ulric steading, with a red thread left on its gate. Dead: a shepherd and his son at the first; nobody at the second (the family fled to the fold). Ulric's men want to ride on Varrhold. Ulric holds them. Calder sends Lisska for the ledges.
 - Day 64, afternoon: Hulda Sarr and Harl and old Brede come down. Hulda, who never speaks, kneels in the mud of the first steading's yard and reads the prints. She speaks: "Wendmouth boots. Brass eyelets. Like the ford. Like the drover's." Hired men, not Clan. Forty or so, going south-west toward the Ram's Head. The Restoration's war has come up onto the Scarfell to light the Varrs' quarrel again.
 - Days 65–77: Ulric sends Orm Garrick to Varrhold with a strip of the grey cloth and a boot-print cut out of the mud in a board. Arn sends nothing back. But Gorm Askell tells Calder Arn rode out alone to the burned steading on day 66 and stood in the yard an hour. Calder at the caves, learning: he can write CALDER, badly, by day 75; Wren corrects his D. Aurveth's wound closing under the moss.
@@ -53,11 +53,9 @@ They went east over the Scarfell in the morning, over the long brown swells of t
 
 ---
 
-It was bigger than he'd thought.
+It was bigger than he remembered from the winter. Then it had been a stockade in the snow and a man in the gate who wouldn't let him past it. He'd never been inside. Nobody from Harrow's End went to Skarrow. It was the far side of the Scarfell, the coast side, and the Varr who held it was the Varr you didn't sell barley to unless you had to.
 
-He'd never been. Nobody from Harrow's End went to Skarrow. It was the far side of the Scarfell, the coast side, and the Varr who held it was the Varr you didn't sell barley to unless you had to. He'd pictured something like Varrhold. It wasn't.
-
-It lay in the bottom of a long green valley with a beck going down the middle of it, a stone hall with a turf roof as long as the Wheel at home, and byres, and folds, and a ring of smaller houses round it, all stone and turf, and smoke going up from all of them. And round the ring of houses, in the fields, camped, the men. Three hundred, perhaps. Plain grey cloaks, no thread. Tents and fires and horses on long pickets. The larger part of the Clan's fighting men, who'd gone east with Ulric in the autumn and never come back.
+It lay in the bottom of a long green valley with a beck going down the middle of it, inside the black pine stockade, its logs gone grey now: a stone hall with a turf roof as long as the Wheel at home, and longhouses, and byres, and folds, and smoke going up from all of them. And outside the stockade, in the fields, camped, the men. Three hundred, perhaps. Plain grey cloaks, no thread. Tents and fires and horses on long pickets. The larger part of the Clan's fighting men, who'd gone east with Ulric in the autumn and never come back.
 
 There were no dragons.
 
@@ -83,9 +81,9 @@ Orm Garrick looked at it a moment longer.
 
 Ulric was sitting at his table at the end of the hall, with one lamp.
 
-He was bigger than Calder remembered. Not taller: broader, heavier, as if the winter had settled on him. His beard had gone greyer. He sat at the high table at the end of the long hall, alone, with a cup in front of him and nothing else, and when Calder came in at the far door he didn't get up. He watched him come the whole length of the hall, slow, with his big hands flat on the table.
+He was heavier than Calder remembered. Broader, as if the winter had settled on him. His beard had gone greyer. He sat at the high table at the end of the long hall, alone, with a cup in front of him and nothing else, and when Calder came in at the far door he didn't get up. He watched him come the whole length of the hall, slow, with his big hands flat on the table.
 
-He had, Calder thought, the face he remembered from the funeral feast: a face that held a great deal in it and gave away nothing at all.
+He had, Calder thought, the face he remembered from the stockade gate in the snow: a face that held a great deal in it and gave away nothing at all.
 
 "Farmer," said Ulric.
 
@@ -123,7 +121,7 @@ He unfolded his hands.
 
 He read it all night.
 
-Calder hadn't known a man could sit so still for so long. Ulric unwrapped the oiled cloth, and set the book in front of him under the lamp, and opened it, and began at the first page, and read. He didn't move his lips. He didn't trace the lines with his finger, the way Ada did. He read the way a man looks at a field, all of it at once, and then turned the page with a wetted thumb, carefully, so the dried pages wouldn't tear, and read the next.
+Calder hadn't known a man could sit so still for so long. Ulric unwrapped the oiled cloth, and set the book in front of him under the lamp, and opened it, and began at the first page, and read. He didn't move his lips. He didn't trace the lines with his finger, the way Ada did. He read as a man looks at a field, all of it at once, and then turned the page with a wetted thumb, carefully, so the dried pages wouldn't tear, and read the next.
 
 Calder sat across the table and watched him.
 
@@ -135,7 +133,7 @@ The first time was the drover's wage. Calder saw him come to it. Saw his eyes st
 
 *The drover, Varrhold, paid, for the winter: the uncle's steward, four silver and keep.*
 
-Ulric looked at it for a long time.
+Ulric looked at it.
 
 "My steward," he said. Very quietly. "Paid him. Four silver and keep. Out of my own purse. For driving my sheep down to Cotter's Cross in the back end of the year." He didn't look up. "He was a good drover. That was the thing. He knew sheep."
 
@@ -233,7 +231,7 @@ Then the trader said something, and Orm stopped, and looked back up the yard at 
 
 ---
 
-"He says the crowns have gone into the Thornwood," said Orm Garrick. "The deep forest. Out east." He listened to the trader, and went on. "Knights, from over the Wend. Thirty, with a chain on six wains, each link as long as a man. And Isvaren's colleges, with snow-cats, and lamps on mules. Going in to the place where the great one came down." He listened again. "He says the clans won't stop them and won't help. The clans' old ones said it was kin and you don't hunt kin, and then sat down."
+"He says the crowns are coming to the Thornwood," said Orm Garrick. "The deep forest. Out east." He listened to the trader, and went on. "Knights, from over the Wend. Thirty, with a chain on six wains, each link as long as a man. Crossing the grass toward the forest when he left. And Isvaren's colleges coming down from the north, with snow-cats, and lamps on mules. Going to the place where the great one came down." He listened again. "He says the clans won't stop them and won't help. The clans' old ones said it was kin and you don't hunt kin, and then sat down."
 
 "And the lion?" said Calder.
 
@@ -243,11 +241,11 @@ Orm looked at him.
 
 Orm asked. The trader looked at Calder, at the farmer in the borrowed cloak with the bond marks on his chest that the trader couldn't see but seemed to know were there. He said something. A long thing. And then a short word, two syllables, that he said twice.
 
-"He says there was a lion," said Orm. "A grey one, as big as a dray-horse. And a woman with it. A lowlander." He frowned. "He says she went into the forest ahead of them. Ahead of the knights and the colleges. With a Keeper. Into the grey, where nobody goes." He listened. "He says she sat down with it."
+"He says there was a lion," said Orm. "A grey one, as big as a dray-horse. And a woman with it. A lowlander. At the Speaking Stones, in front of the clans' old ones." He listened. "He says the old ones asked what she was to it."
 
-"With what?"
+"And?"
 
-"With the great one. In the ring of stones." Orm listened again. "He says that's what the clans call her now. That word. *The one who sits with it.*"
+"And a Keeper stood up and said: she sits with him." Orm listened again. "He says that's what the clans call her now. That word. *The one who sits with it.*"
 
 Calder stood at the gate of Skarrow with the trader's ponies blowing beside him and the smell of the pelts in his nose and didn't say anything.
 
@@ -307,9 +305,9 @@ He didn't turn round. He didn't need to. Lanterns, coming down, slowly, as old p
 
 The ledges came out into the road and stood behind him.
 
-Not Gunna; Gunna was at the caves with his family. Hulda Sarr, with Harl on the cliff above her. Old Brede. Ivar Leck, who'd come down from the setters' ledge on his stick. The boy Leif. Six, seven, eight of them. They stood in the road behind the farmer at Ulric's stirrup, with their lanterns, and didn't say anything. Above them, on the cliff, their dragons came out of the caves one by one and sat on the ledges with their heads down, looking at the gate.
+Not Gunna; Gunna was at the caves with his family. Hulda Sarr, with Harl on the cliff above her. Old Brede. Ivar Leck, who'd come down from the setters' ledge on his stick. The boy Leif. Six, seven, eight of them. They stood in the road behind the farmer at Ulric's stirrup, with their lanterns. Above them, on the cliff, their dragons came out of the caves one by one and sat on the ledges with their heads down, looking at the gate.
 
-Arn looked at them from the wall for a long time.
+Arn looked at them from the wall.
 
 He didn't move.
 
@@ -321,7 +319,7 @@ He didn't say he was going. He gathered the reins and turned the big grey round 
 
 "When you're ready to read it, boy," said Ulric Varr, "you know where I am."
 
-He'd said it before. Calder had heard him say it, in the winter, before the second ford. *When you're ready to say it, you know where I am.* He said it now the same way. Slow. Deep. Calm.
+He'd said it before. Calder had heard him say it, in the winter, before the second ford. *When you're ready to say it, farmer, you know where I am.* He said it now the same way. Slow. Deep. Calm.
 
 On the wall, Arn didn't answer. He stood a moment longer. Then he turned and went down off the wall, out of sight, without a word.
 
@@ -373,7 +371,7 @@ They said it in the yard of the second steading, with the smoke going up behind 
 
 He didn't shout. They stopped.
 
-He stood in the yard of the burned steading, by the gate with the red thread on it, and looked at the thread for a long time. Then he looked east, along the edge, at the smoke from the first steading, half a league off, with a grey cloth on its door.
+He stood in the yard of the burned steading, by the gate with the red thread on it, and looked at the thread. Then he looked east, along the edge, at the smoke from the first steading, half a league off, with a grey cloth on its door.
 
 "Grey on his," he said. "Red on mine. On the same night. Half a league apart." He turned his head and looked at Calder. "Farmer. How many times have you seen that done?"
 
@@ -449,7 +447,7 @@ But on the sixty-eighth day, when Calder came down to the setters' ledge from th
 
 He learned his letters for ten days.
 
-At the caves in the evenings, with Ada, with a burnt stick on the warm floor. Wren beside him, impatient, correcting. He'd had one letter when Lisska went east the first time, and none of it right. By the seventy-fifth day he had all of the ones in his own name, and he could write it, if he went slowly and nobody watched.
+At the caves in the evenings, with Ada, with a burnt stick on the warm floor. Wren beside him, impatient, correcting. He'd had one letter the night of the mill page, and none of it right. By the seventy-fifth day he had all of the ones in his own name, and he could write it, if he went slowly and nobody watched.
 
 *CALDER.*
 

@@ -5,14 +5,14 @@ POV: Maren
 Part: Part One: After the Lamps
 Days: 15–17 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Scarfell's edge, above the Fellwood, three leagues south-east of Varrhold
-Beats: Days 15–17. The Way climbs out of the Marches onto the moor, and the ledges' riders come down to meet them: **Gunna Tarne** and Tamsin, sent by Calder, who won't bring a lion into Arn's yard while Arn still calls him a liar. Maren hands over the Fenns, the greys and Old Grey at the moor's edge, with the ground humming under Orrun; the ledges will take them to the old hatching caves above Coldtarn. Wren asks if she's coming. "My road's the other way." Before dawn the ground shakes from the east, and she goes, without going the last three leagues to see him. *(No meeting: the apart rule, Series_Outline.)*
+Beats: Days 15–17. The old drove track climbs out of the Marches onto the moor, and the ledges' riders come down to meet them: **Gunna Tarne** and Tamsin, sent by Calder, who won't bring a lion into Arn's yard while Arn still calls him a liar. Maren hands over the Fenns, the greys and Old Grey at the moor's edge, with the ground humming under Orrun; the ledges will take them to the old hatching caves above Coldtarn. Wren asks if she's coming. "My road's the other way." Before dawn the ground shakes from the east, and she goes, without going the last three leagues to see him. *(No meeting: the apart rule, Series_Outline.)*
 Echo of the other's story: From the edge, the smoke of Varrhold three leagues off, where the farmer is. She doesn't go.
 Status: first draft
 Draft notes: Day 15, morning, to day 17, before dawn. Decided here (proposals):
-- Day 15: the Fellwood's edge gives out under the moor and the charcoal track comes down onto the Drover's Way at its last climb, where the Way leaves the trees and goes up the side of the glen onto the Scarfell. Maren brings them back onto the Way here because there's no other road up the edge. Wren climbs onto Old Grey's back at the foot of the climb, by herself, from a boulder; he stands for it and then walks on with her (the sight Lisska carries to Calder, ch 10). Lisska is overhead at noon and goes; Maren sees her and knows she's been seen.
+- Day 15: the Fellwood's edge gives out under the moor and the charcoal track comes down onto the old drove track at its last climb, where the drove track leaves the trees and goes up the side of the glen onto the Scarfell (a different road from the Drover's Way, which runs past the falls to the west). Wren climbs onto Old Grey's back at the foot of the climb, by herself, from a boulder; he stands for it and then walks on with her (the sight Lisska carries to Calder, ch 10). Lisska is overhead at noon and goes; Maren sees her and knows she's been seen.
 - Day 15, late afternoon: the top of the climb, the Scarfell's edge, above the Fellwood, about three leagues south-east of Varrhold (not above Ewe Hollow: the Atlas puts Ewe Hollow east of Harrow's End, too far south for Varrhold to be three leagues off). From the edge, the falls on Hollow Beck and the Way going down past them. Three dragons come down the moor to them: Tamsin (grey-green), Harl (black-and-grey, ridden by Hulda Sarr, an old woman of the ledges), and Leif's young brown. Gunna Tarne gets down. She's been told by Lisska what's coming and isn't afraid of the lion; she bows to him, the old way, not to Maren.
 - The dragons and the lion: far kin. Tamsin speaks to Orrun; Maren hears his side only. Tamsin calls him "the cat on the steps" (the old Clan story Aurveth told Calder, Book 1 ch 62); Orrun says nothing back for a long time and then: *Yes.*
-- Gunna gives Calder's message, short: he's sorry he couldn't come down himself; the old one's wing is set; Arn has made him Clan again at a price; he won't bring a lion into Arn's yard while Arn calls him a liar, and asks her pardon for it. Gunna adds her own: "He'd have come. I told him Hallam would have. He said Hallam's dead." She'll take the Fenns up to the old hatching caves above Coldtarn, two days over the moor; the ledges keep them, nobody else goes there in spring.
+- Gunna gives Calder's message, short: he's sorry he couldn't come down himself; the old one's wing is set, and the ledges sang over it; Arn has made him Clan again at a price; he won't bring a lion into Arn's yard while Arn calls him a liar, and asks her pardon for it. Gunna adds her own: "He'd have come. I told him Hallam would have. He said Hallam's dead." She'll take the Fenns up to the old hatching caves above Coldtarn, two days over the moor; the ledges keep them, nobody else goes there in spring.
 - Night 15 at the edge: one fire. The ground hums under Orrun all night, faintly, toward the east. Smoke of Varrhold to the north, three leagues off, in the last light. Maren looks at it and doesn't go. Ada sees her looking.
 - Day 16: a rest day; Sorrel lame in a fore-hoof; Bel sits with Maren and says the first thing she's said to her: thanks, plainly, and that Joss would have liked her. Ada gives Maren something of her own: the hearth-word, taught properly, the three turns of the hand, "for when you've a fire and nothing to light it with". (Plant: the knights' stand-word, ch 48, is a second word; this is the first she's taught as a gift, not a lesson.) Maren picks up a small grey stone on the edge, flat, with a white ring through it, and gives it to Wren, and doesn't say what for.
 - Wren: "Are you coming?" Maren: "My road's the other way." Wren: "Which way?" Maren points east. Wren: "That's where it went." "Yes." Wren makes her say it twice.
@@ -22,13 +22,13 @@ notes -->
 
 ---
 
-The Fellwood ran out under the moor on the morning of the sixth day, and there was nowhere left to go but up the Way.
+The Fellwood ran out under the moor on the morning of the sixth day, and there was nowhere left to go but up.
 
-Maren had known it would. She'd watched the land rise for two days, the oaks giving out to birch and the birch to rowan and the rowan to heather, and ahead of them the long brown wall of the Scarfell coming up out of the haze, nearer each morning. The charcoal track had got fainter as it climbed. Now it went down a last steep bank through bracken and came out of the trees onto the Drover's Way, at the foot of its last climb, and stopped there, as if it had done its part.
+Maren had known it would. She'd watched the land rise for two days, the oaks giving out to birch and the birch to rowan and the rowan to heather, and ahead of them the long brown wall of the Scarfell coming up out of the haze, nearer each morning. The charcoal track had got fainter as it climbed. Now it went down a last steep bank through bracken and came out of the trees onto the old drove track, at the foot of its last climb, and stopped there, as if it had done its part.
 
-The Way went up the side of the glen in front of them in long slants, pale against the heather, turning back on itself at the corners. Up there at the top, where it went over the edge onto the moor, there was nothing but sky.
+The drove track went up the side of the glen in front of them in long slants, pale against the heather, turning back on itself at the corners. Up there at the top, where it went over the edge onto the moor, there was nothing but sky.
 
-She stood in the road and looked up and down it for a long time.
+She stood in the road and looked up and down it.
 
 It was empty. No cold fires. No knots of men. The companies hadn't come this high. The Clan's country began somewhere up there, and the Clan had dragons.
 
@@ -40,7 +40,7 @@ It was empty. No cold fires. No knots of men. The companies hadn't come this hig
 
 Wren got onto Old Grey at the foot of the climb.
 
-Nobody helped her. Maren didn't see her decide to do it. She looked round from the road and Wren was standing on a boulder at the side of the Way, a big grey one furred with moss, and Old Grey was standing beside it, quite still, as he stood whenever she stopped. Wren looked at the grey beast's back for a while. Then she put her hands in his mane and pulled herself up and over, as children get onto a wall, and sat up.
+Nobody helped her. Maren didn't see her decide to do it. She looked round from the road and Wren was standing on a boulder at the side of the track, a big grey one furred with moss, and Old Grey was standing beside it, quite still, as he stood whenever she stopped. Wren looked at the grey beast's back for a while. Then she put her hands in his mane and pulled herself up and over, as children get onto a wall, and sat up.
 
 He didn't move.
 
@@ -48,7 +48,7 @@ Maren held her breath. So did Bel, she thought. The old dray-beast had stood beh
 
 He stood. He stood for a long time, with the child on his back and her hands in his mane and her face very serious.
 
-Then he walked on up the Way with her, slow, and lifted his feet.
+Then he walked on up the track with her, slow, and lifted his feet.
 
 "Well," said Ada, behind Maren. Only that.
 
@@ -58,7 +58,7 @@ Bel, carrying Nan, made a sound that might have been a laugh, and put her free h
 
 At noon a dragon went over.
 
-Maren heard it before she saw it, a crack of wings high up. Then she saw it: small, quick, green, very high, going over the glen from north to south and turning, and coming back over them lower, once, in a wide circle, and going away north again up the line of the Way, fast.
+Maren heard it before she saw it, a crack of wings high up. Then she saw it: small, quick, green, very high, going over the glen from north to south and turning, and coming back over them lower, once, in a wide circle, and going away north again up the line of the track, fast.
 
 *The little one,* said Orrun. *Lisska.*
 
@@ -66,7 +66,7 @@ Maren heard it before she saw it, a crack of wings high up. Then she saw it: sma
 
 *She saw the child on the grey.* A pause. *She is happy. She is very loud when she is happy.*
 
-He'd hardly spoken to her in two days. Since the beck. He spoke now, plainly, as he'd have spoken before, and then went quiet again and walked on up the Way at her shoulder a pace further off than he used to.
+He'd hardly spoken to her in two days. Since the beck. He spoke now, plainly, as he'd have spoken before, and then went quiet again and walked on up the track at her shoulder a pace further off than he used to.
 
 She didn't know what to do about it. She walked.
 
@@ -74,7 +74,7 @@ She didn't know what to do about it. She walked.
 
 They came over the edge in the late afternoon.
 
-The Way went up the last slant and round a shoulder of rock and over, and suddenly the climb was behind them and the moor was in front: the whole of the Scarfell lying open under the sky, brown and grey and the green of new bracken, going away north and east in long swells like the sea after a storm, with the high fells standing up white-topped at the back of it. The wind came across it from the north with nothing in the way. It smelled of peat and cold water and sheep.
+The track went up the last slant and round a shoulder of rock and over, and suddenly the climb was behind them and the moor was in front: the whole of the Scarfell lying open under the sky, brown and grey and the green of new bracken, going away north and east in long swells like the sea after a storm, with the high fells standing up white-topped at the back of it. The wind came across it from the north with nothing in the way. It smelled of peat and cold water and sheep.
 
 Behind them and below, the land fell away into the Marches. She could see the whole of it from here. The Fellwood, dark, going south. The glen they'd come up. Far off to the west, down in the glen of Hollow Beck, a thread of white that was the falls, and the pale line of the Way going down past them toward the Ram's Head. And beyond all of it, very far, a pale line in the haze that was the Wend.
 
@@ -146,7 +146,7 @@ Gunna gave her Calder's message by the fire.
 
 There was only one fire. They made it in the lee of a peat-hag where the edge went down, with the three dragons lying in a half-ring round the camp on the windward side and the greys picketed inside it, and the children so tired after the climb that they ate and slept where they sat. Ada lit it with her word. On the moor it caught at once, the first time it had caught at once since the island. Ada looked at it and said nothing and fed it heather-roots.
 
-"He's sorry he couldn't come down himself," said Gunna Tarne. She said it plainly, as she'd been given it, like a list read out. "The old one's wing is set. It's knitting. He can't go far from her yet. She pulls."
+"He's sorry he couldn't come down himself," said Gunna Tarne. She said it plainly, as she'd been given it, like a list read out. "The old one's wing is set. They sang over it, the whole ledge. It's knitting. He can't go far from her yet. She pulls."
 
 "I know," said Maren. She didn't know. She thought she did.
 
@@ -176,7 +176,7 @@ It was north of them, along the edge, where the moor folded down into a glen she
 
 Maren didn't say anything.
 
-She stood at the edge of the firelight a long time and looked at the smoke. She thought about three leagues. It was nothing. She'd walked three leagues before breakfast on the river watch every day for eight winters. She thought about a farmer on a ledge with his hand on an old dragon's jaw. *Your road's that way.* He'd nodded north-east, at the landing. Not up the Way. Past it.
+She stood at the edge of the firelight and looked at the smoke. She thought about three leagues. It was nothing. She'd walked three leagues before breakfast on the river watch every day for eight winters. She thought about a farmer on a ledge with his hand on an old dragon's jaw. *Your road's that way.* He'd nodded north-east, at the landing. Not up the Way. Past it.
 
 He'd known before she had.
 
@@ -184,7 +184,7 @@ She thought about what she'd say if she walked three leagues down a glen in the 
 
 Behind her, by the fire, Ada was awake.
 
-Maren felt her watching before she turned. When she turned, Ada was sitting up in her blanket with her back to the peat-hag and her hazel stick across her knees, looking at her. She didn't say anything. She didn't need to.
+Maren felt her watching before she turned. When she turned, Ada was sitting up in her blanket with her back to the peat-hag and her hazel stick across her knees, looking at her, and said nothing. She didn't need to.
 
 Maren went and sat down on the far side of the fire, with her back to the smoke.
 
@@ -204,7 +204,7 @@ Bel came and sat with Maren in the morning.
 
 She hadn't done that. In sixteen days Bel Fenn hadn't said more than twenty words to her, and none of them had been for her. She'd carried Nan and walked and kept her mouth shut, and when the lion went past at the beck she'd turned her face away.
 
-She sat down beside Maren on the heather with her knees up, as Wren sat. She had her brother's face, Maren thought. Square and plain and stubborn. She looked out over the Marches for a long time.
+She sat down beside Maren on the heather with her knees up, as Wren sat. She had her brother's face, Maren thought. Square and plain and stubborn. She looked out over the Marches.
 
 "Thank you," she said.
 
@@ -230,7 +230,7 @@ She did it without asking. Maren was sitting by the dead fire, cleaning Haverly'
 
 "Watch," she said.
 
-She put two fingers to where the stems crossed. She turned her hand, three times, the way you'd turn a key that was stiff, slow, each turn a little further. And she said the word. Maren had heard her say it every night for sixteen nights and never caught it; it went by too quick, under the breath. Now Ada said it slowly. A short word, in the old tongue, with a catch in the middle of it like a breath drawn in.
+She put two fingers to where the stems crossed. She turned her hand, three times, as you'd turn a stiff key, slow, each turn a little further. And she said the word. Maren had heard her say it every night for sixteen nights and never caught it; it went by too quick, under the breath. Now Ada said it slowly. A short word, in the old tongue, with a catch in the middle of it like a breath drawn in.
 
 The stems smoked. Then, small and yellow, a flame.
 
@@ -248,7 +248,7 @@ Maren put two fingers to the stems. She turned her hand three times. She said th
 
 "Again," said Ada.
 
-She did it eleven times. On the twelfth the stems went warm under her fingers. On the fifteenth, they smoked. Not a flame. A thread of smoke, going up from where the stems crossed, and the smell of burning heather.
+She did it eleven times. On the twelfth the stems went warm under her fingers. On the fifteenth, they smoked: a thread of smoke, going up from where the stems crossed, and the smell of burning heather.
 
 Through the bond, faint, she felt Orrun out on the moor lift his head.
 
@@ -288,7 +288,7 @@ Wren turned it over in her hands. She looked at the white ring through it, all t
 
 "I don't know," said Maren. "I found it on the edge."
 
-Wren held it a long time. Then she put it inside her shirt, where Maren had seen her keep things. A ribbon, once, on the first night at Liss's. A blue one. She didn't say anything about it, and Maren didn't ask.
+Wren held it a long time. Then she put it inside her shirt, where Maren had seen her keep things. A ribbon, once, on the first night at Liss's. A blue one. She never spoke of it, and Maren didn't ask.
 
 "Are you coming?" said Wren.
 
@@ -340,7 +340,7 @@ Maren sat up.
 
 Out on the moor, Orrun was standing.
 
-She felt him through the bond. Not the hum now. Something stronger, a pull, like a hand closing on her wrist. Eastward. It had moved. Or it had done something. Whatever it had done, it had done it far enough off that the shudder had taken a long time to get here and was very faint when it came, and it had done it hard enough that it came at all.
+She felt him through the bond. Stronger than the hum now, a pull, like a hand closing on her wrist. Eastward. It had moved. Or it had done something. Whatever it had done, it had done it far enough off that the shudder had taken a long time to get here and was very faint when it came, and it had done it hard enough that it came at all.
 
 He came back across the heather to the fire.
 
@@ -348,7 +348,7 @@ He came round the edge of the firelight, past the sleeping children, past Bel, p
 
 Then he lay down.
 
-Against her. Not behind her. Not a hand's width off. Against her, along her side, the great warm weight of him through her coat, the way he'd lain every night since the island until the beck. His head came down on his paws by her knee.
+Against her. Not behind her. Not a hand's width off. Against her, along her side, the great warm weight of him through her coat, as he'd lain every night since the island until the beck. His head came down on his paws by her knee.
 
 They hadn't made it up. She knew that. He knew it. The beck was still there between them, and the two men on the far bank of it, and *you are not my hand* and *you are not my teeth*, all of it, nothing said or settled. It would still be there in the morning and the morning after.
 
@@ -368,7 +368,7 @@ She looked at Wren a long moment, asleep under Old Grey, with the stone in her s
 
 Then she went.
 
-At the edge of the firelight she looked back once. Ada was awake, sitting up in her blanket against the peat-hag with her hazel stick across her knees, as she'd been the night before. She didn't say anything. She lifted one hand, and held it up, and put it down again.
+At the edge of the firelight she looked back once. Ada was awake, sitting up in her blanket against the peat-hag with her hazel stick across her knees, as she'd been the night before. She lifted one hand, and held it up, and put it down again.
 
 Maren lifted hers.
 

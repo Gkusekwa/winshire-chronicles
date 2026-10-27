@@ -12,7 +12,7 @@ Draft notes: Days 282–283. Decided here (proposals):
 - **The way down** (why fifty days): the fused glass is not old-realm stone; Orrun can't open it, any more than he could open a window. The only way under the basin is a hole the Furnace made. On day 238, on its fourth (north) try, it burrowed under the edge toward the third canal and broke the canal's bed; the chilled water went down its tunnel, and the tunnel has been full of chilled water since. Pike closed the breach with a cofferdam the next week and has been pumping the tunnel's water round through the coils ever since, to cool it. On day 280 her foreman reported the glass walls of the tunnel cool enough to touch for a count of twenty. On day 282 she pumps the stretch of the third canal over the tunnel's mouth dry between two dams.
 - The tunnel's mouth is in the third canal's bed, inside the inner pylon ring, so inside the field. The field holds the Deep in a thing; it doesn't stop a walker who isn't drawing (Pike: "It's not a wall. It's a mirror for a draw. You're not drawing"). They walk through the shimmer: it feels like walking through warm water that isn't wet; Lisska won't, and waits on the basin rim (the outer bank's top at the north quarter).
 - Who goes: Maren, Idony, Tobin (with a lantern: oil, Kessmoor-made), Orrun. Pike lowers them into the drained canal by a crane-cradle; Orrun steps down.
-- The tunnel: round, as wide as a barn door is tall, sloping down at the steepness of a roof, walls of fused black glass rippled like the inside of a shell, smooth, still warm; their boots wrapped in sacking; it goes down a long way (Tobin counts four hundred paces) and comes out into the Furnace's own shaft, a great round well going down, with the light of the field far above at the top like the sky from the bottom of a well, and the Furnace's dull red a league off across the top. At the bottom of the shaft, rubble and glass, and the outer chambers of the temple: the ones the Orrin engineers broke into forty years ago: square rooms of dressed old-realm stone, their walls glazed where the Bleed came through.
+- The tunnel: round, as wide as a barn door is tall, sloping down at the steepness of a roof, walls of fused black glass rippled like the inside of a shell, smooth, still warm; their boots wrapped in sacking; it goes down a long way (Tobin counts four hundred paces) and comes out into the Furnace's own shaft, a great round well going down, with the light of the field far above at the top like the sky from the bottom of a well, and the Furnace's dull red half a league off across the top. At the bottom of the shaft, rubble and glass, and the outer chambers of the temple: the ones the Orrin engineers broke into forty years ago: square rooms of dressed old-realm stone, their walls glazed where the Bleed came through.
 - **Corvin's agents**: the secretary twice tried to buy the way down (ch 50). Moss had the tunnel's mouth watched every night since.
 - The last stone: a wall at the end of the outer chambers, old-realm stone, dressed joinless, with the hooked script round a door-shape that isn't a door. Orrun puts his head against it. It opens for him as the stone at the Ruin did, a slit going up through it and widening like a curtain parting.
 - The temple: a round domed chamber like the Ring's and the Undercroft's, but the dome whole (the Ring's had fallen); the plinth empty, still warm. Round the wall the six sleepers carved in relief: the stag with the walking forest; the coiled serpent with frost scales; the long low plated burrower with its snout in the floor; the one-horned beast with sun-rays; the island-hump with weed and a fin and a shut eye; the winged lion with a broken-rock mane. Over each, a tall faceless figure, one hand palm-down over the sleeper's head, the other raised toward the dome's centre. And here, whole, what those hands hold up: in the middle of the dome, carved in deep relief, a **ring with six hollows**, held up by six hands, one from each figure, over all six sleepers at once.
@@ -90,7 +90,7 @@ She'd thought about that all night. The shimmer, going up from the inner ring of
 
 "And him?"
 
-Pike looked at Orrun for a long time.
+Pike looked at Orrun.
 
 "I don't know," she said. "I've never had one of him."
 
@@ -104,7 +104,7 @@ Orrun came through after her.
 
 She felt him go through it. Through the bond. A pull, a strange one, as if something had taken hold of the long patience of stone in him and turned it round to look at it, and then let go.
 
-*It looked at me,* he said. *And then it let me go. I was not drawing.* He was quiet. *I am not like the one in the middle. I do not drink.*
+*It looked at me,* he said. *And then it let me go. I was not drawing. I am not like the one in the middle. I do not drink.*
 
 Lisska wouldn't come.
 
@@ -118,7 +118,7 @@ The tunnel went down at the steepness of a roof.
 
 Round. Smooth. Black. Rippled, like the inside of a shell, where the glass had run and set as the Furnace pushed through it. Their boots were wrapped in sacking again and they slid on it. Tobin went first with the lantern, because he said if anyone fell he'd rather it was on him than on him falling. Idony went next, with his stick, slowly. Then Maren. Then Orrun, filling the tunnel behind them, his back brushing the curve of the roof.
 
-The walls were warm. Not hot. Warm, like a stone in a fire that's gone out in the night.
+The walls were warm, like a stone in a fire that's gone out in the night.
 
 Down.
 
@@ -176,7 +176,7 @@ Idony stood at the foot of the rubble and looked at them with the lantern held u
 
 "Orrin," he said. "The engineers. Forty years ago. They sank their shafts down to here. For ore, and to draw the Deep in bulk for the forges. And they broke into these." He went to the nearest doorway and put his hand on its edge. "These rooms. And the sleeper's breath came up the shafts all at once. And in one night the town was glass."
 
-The walls of the chambers were glazed. Not fused like the basin. Glazed. A thin black shine on the grey stone, as if it had been painted with something that had dried hard. Where the Bleed had come through.
+The walls of the chambers were glazed. A thin black shine on the grey stone, as if it had been painted with something that had dried hard. Where the Bleed had come through.
 
 They went through them.
 
@@ -186,7 +186,7 @@ Then a wall.
 
 ---
 
-At the end of the last chamber. Grey. Old. Dressed so close you couldn't see the joins. Not glazed. Clean. As if the Bleed had come up to it and stopped.
+At the end of the last chamber. Grey. Old. Dressed so close you couldn't see the joins. Clean. As if the Bleed had come up to it and stopped.
 
 Cut in it, the hooked script. In rings. Round a shape that looked like a door and wasn't. No hinges. No line where a door would open. Only the shape of one, carved, as a child draws a door on a wall.
 
@@ -270,9 +270,9 @@ Tobin had stopped with the lantern halfway up. Orrun was standing at the lion on
 
 Maren put her hand inside her coat.
 
-She took out the letter. Grey Clan paper. Charcoal. Nine lines going uphill. And at the bottom, under the farmer's ninth line, in a small upright hand that wasn't his, the line Ada had sent.
+She took out the letter. Grey Clan paper. Charcoal. Eight lines going uphill. And at the bottom, under the farmer's eighth line, in a small upright hand that wasn't his, the line Ada had sent.
 
-*till the six are one again?*
+*till the six are one agen?*
 
 She held it up. Under the dome. Under the carved ring with six hollows. Next to the lantern.
 
@@ -352,7 +352,7 @@ And Ada sang the last verse faster. Like walking faster past a dog you don't kno
 
 They went back up the stair in the dark.
 
-Orrun closed the stone behind them. She didn't know why. She didn't ask. He put his head to the grey wall from the outside, and the slit closed, slowly, as a curtain closes, and the carved door was only a carving again.
+Orrun closed the stone behind them. She didn't ask why. He put his head to the grey wall from the outside, and the slit closed, slowly, as a curtain closes, and the carved door was only a carving again.
 
 Round and round. Up the long spiral of steps in the side of the shaft. Up the tunnel at the steepness of a roof, four hundred paces, Tobin counting. Up into the drained canal. Out through the field, warm water that wasn't wet, the soft hand on everything.
 

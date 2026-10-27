@@ -61,7 +61,7 @@ The track came out of the trees.
 
 Ahead of them there was no forest. There was a long open country going away north-east as far as she could see, grey and brown, under the sky. A league across. Perhaps more. And in it, every tree was lying down.
 
-All of them. Every oak and ash and birch in that league-wide strip of the Fellwood lay flat on the ground, roots torn up and standing in the air like the hands of drowned men, crowns pointing the same way. North-east. Every one of them pointing north-east, laid down in rows as if a giant had walked through the forest with a scythe, or the wind of something going over had pressed them flat the way hail presses barley. The torn roots were still raw. The leaves on the fallen crowns were still green. They'd come down twelve days ago, and there was nobody to clear them, and there never would be.
+All of them. Every oak and ash and birch in that league-wide strip of the Fellwood lay flat on the ground, roots torn up and standing in the air like the hands of drowned men, crowns pointing the same way. North-east. Every one of them pointing north-east, laid down in rows as if a giant had walked through the forest with a scythe, or the wind of something going over had pressed them flat as hail presses barley. The torn roots were still raw. The leaves on the fallen crowns were still green. They'd come down eleven days ago, and there was nobody to clear them, and there never would be.
 
 Nothing moved in it. No birds. She listened, and the whole league-wide strip of fallen forest lay there in the noon sun in a silence like the inside of a shut box.
 
@@ -75,7 +75,7 @@ Behind her she heard Ada stop. Then Bel. Then nothing, for a long time.
 
 *It drank,* said Orrun.
 
-She looked at him. He had his head down. Not to the ground. To the strip of fallen forest, as if he were smelling it, or listening to it, the way he'd listened on the ledge above the black water.
+She looked at him. He had his head down toward the strip of fallen forest, as if he were smelling it, or listening to it, the way he'd listened on the ledge above the black water.
 
 *As it went over. It was drinking. From the ground under the trees.* He was quiet. *It was thirsty. Three hundred years in the chains, and it came up out of the river thirsty, and it drank as it went. And the trees were standing on what it drank.*
 
@@ -105,7 +105,7 @@ And Orrun went first. Ahead of all of them, picking the way. Where the trunks la
 
 He walked the whole league with his head down.
 
-She felt it in him through the bond. Not grief, now. Something under grief. He was walking the road his kin had taken, through the forest it had flattened, over the ground it had drunk from going by. He was the only one of his kind for a thousand leagues, and here was the shape of the other one, laid out on the land like a footprint.
+She felt it in him through the bond. Something under grief, now. He was walking the road his kin had taken, through the forest it had flattened, over the ground it had drunk from going by. He was the only one of his kind for a thousand leagues, and here was the shape of the other one, laid out on the land like a footprint.
 
 Once, in the middle of the strip, he stopped by a great oak that lay with its roots up, and put his nose to the raw earth in the root-hole, and stood there a long time.
 
@@ -135,7 +135,7 @@ Then it saw Orrun.
 
 He hadn't done anything. He'd come out of the trees behind Maren and stopped, and stood there, grey as old stone, with his head up, looking at the bear. That was all. He didn't roar. He didn't move.
 
-The bear went down onto all fours. Slowly. It looked at the lion for a long moment with its small eyes, the way a man looks at someone across a crowded room whom he's heard of and didn't expect to see. Then it turned round, unhurried, and walked away across the beck and into the trees on the far side without a sound, and was gone.
+The bear went down onto all fours. Slowly. It looked at the lion for a long moment with its small eyes, as a man looks at someone across a crowded room whom he's heard of and didn't expect to see. Then it turned round, unhurried, and walked away across the beck and into the trees on the far side without a sound, and was gone.
 
 Pip was still crying.
 
@@ -281,7 +281,7 @@ He looked at her in the dark. His eyes caught the firelight from the hollow behi
 
 "I know what they came for."
 
-*For the child who puts her hand on me. Who said *you're her* at the gate. Who walks with the grey one who has lost himself.* He was very still. *Men with crossbows came for her through the trees, and one of them loosed at you. And you wanted me to stand behind you and wait while you talked.*
+*For the child who puts her hand on me. Who said* you're her *at the gate. Who walks with the grey one who has lost himself.* He was very still. *Men with crossbows came for her through the trees, and one of them loosed at you. And you wanted me to stand behind you and wait while you talked.*
 
 "Yes."
 
@@ -327,7 +327,7 @@ She went back to the fire.
 
 She lay down on the far side of it from the children, with her back to the outcrop and her sword beside her, and pulled her cloak over her, and shut her eyes.
 
-After a while she heard him come. The soft enormous pad of his feet in the leaves. He came round the fire and lay down behind her. Not against her, as he'd lain every night since the island. Behind her. Back to back. She felt the warmth of him through her cloak, along her spine, a hand's width away.
+After a while she heard him come. The soft enormous pad of his feet in the leaves. He came round the fire and lay down behind her, back to back, not against her as he'd lain every night since the island. She felt the warmth of him through her cloak, along her spine, a hand's width away.
 
 Neither of them moved closer.
 
@@ -369,7 +369,7 @@ She came in her blanket and sat down beside Maren with her knees up, and looked 
 
 Maren looked at the lion.
 
-She reached for him through the bond. Not words. Just reaching, a hand put out in the dark to see if someone was still there. He was there. She felt him. Vast and still and grey, like the ground, and under it, very deep, something that might have been grief, and might have been the old cold certainty that wouldn't move, and might have been both, wound together, the way the roots of the fallen oaks had been wound round the stones they'd torn up.
+She reached for him through the bond, a hand put out in the dark to see if someone was still there. He was there. She felt him. Vast and still and grey, like the ground, and under it, very deep, something that might have been grief, and might have been the old cold certainty that wouldn't move, and might have been both, wound together, as the roots of the fallen oaks had been wound round the stones they'd torn up.
 
 She didn't know.
 

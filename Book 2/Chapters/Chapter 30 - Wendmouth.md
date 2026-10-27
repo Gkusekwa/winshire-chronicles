@@ -16,7 +16,7 @@ Draft notes: Day 115 to day 130. Decided here (proposals):
 - Days 118–120: watching Mint Lane. The counting-house: three storeys, red and gold shutters, guards. Below it, the mint: a vaulted cellar with a barred grating at street level for the smoke of the furnace, where blanks go in by cart and chests come out at night. Lisska watches from the roofs: the chests leave every new moon on a barge going up the Wend.
 - Night 120: the raid. Brask's crowbar on the grating; Calder down into the cellar; the furnace banked; the presses; two dies on a rack, the ordinary ship-and-wave, and a second rim-collar with the six cut in it. The mint-book on a lectern: a big ledger in Rusk's neat hand. Calder can read a little now: numbers, and some names; he finds TEO himself, on a page, and can't read the words round it, and Brask reads them. "The Varr boy at the ford: three hundred, for the account of the House, at the instruction of the Council's member." The House of Halloran is a house of the Tide Council: it paid for the Restoration's war, and for Teo. Also: "the four, bound, north, for a library: the hunters' wages, a year's" and "the companies at Ashford: a chest up the Wend at every new moon".
 - The clerk: a young man asleep on a pallet behind the presses, Rusk's under-clerk, Piers Abbot, nineteen, terrified. Brask wants to knock him on the head; Calder doesn't let him. The clerk babbles to save himself: Rusk is at the Council in Corsa; the house is rich; the colleges at Vael are buying binding-lamps by the cartload through the Halloran house, crystal panes out of Kessmoor, and the house takes a tenth. (The echo.) Calder ties him and leaves him.
-- Dawn, day 121, Gallows Quay: they come out with the book and the alarm goes up. Rusk's guards; and the house's new drawer, a lean man in a plain coat, coming out on the quay with his hands lifting. Kharrak comes down out of the morning over the harbour, the first time in broad day, and knocks the drawer into the harbour with his tail. Calder goes along the cages on the quay with Brask's crowbar first, as he did in the winter, and lets everything out. Then he tells Kharrak: the warehouse. The Halloran warehouse at the end of the quay, where the forcing was done through the shutter. Empty now. Burn it. Kharrak burns it to the waterline. Calder stands on the quay in the smoke with the book under his arm. (Ch 28's echo.)
+- Dawn, day 121, Gallows Quay: they come out with the book and the alarm goes up. Rusk's guards; and the house's new drawer, a lean man in a plain coat, coming out on the quay with his hands lifting. Kharrak comes down out of the morning over the harbour, the first time in broad day, and knocks the drawer into the harbour with his tail. Calder goes along the cages on the quay with Brask's crowbar first, as he did in the autumn, and lets everything out. Then he tells Kharrak: the warehouse. The Halloran warehouse at the end of the quay, where the forcing was done through the shutter. Empty now. Burn it. Kharrak burns it to the waterline. Calder stands on the quay in the smoke with the book under his arm. (Ch 28's echo.)
 - Days 121–126: out of Wendmouth into the saltings; north up the coast to a fishing-hamlet where nobody asks. The Tide Council's new reward on the Tidesteps by day 124: a thousand silver. Calder reads the mint-book by a driftwood fire with Brask, a page a night, the way his mother read Rook's.
 - Day 127: Brask stays: "Somebody's got to tell the Varrs where the silver's struck if you don't come back." Calder gives him the coin with the six on the rim. Brask will take word to the Scarfell by the coast road.
 - Day 130: Calder north on Kharrak with Lisska, toward the Iron Fells and Vael, after the four. He has the book and Rook's book both.
@@ -55,7 +55,7 @@ The floating market: boats lashed together in the harbour, a hundred of them, wi
 
 Lisska went close enough to read them. She couldn't read. She could see.
 
-*Your face,* she said, coming back. *The old one, from the winter. All grey with rain.* A pause. *And a new one over it. Bigger. With more numbers.*
+*Your face,* she said, coming back. *The old one, from the autumn. All grey with rain.* A pause. *And a new one over it. Bigger. With more numbers.*
 
 "How many?"
 
@@ -119,7 +119,7 @@ It was struck here. In Wendmouth. Everybody on the quays knew that; nobody said 
 
 Lisska went out that night without being sent.
 
-He felt her go. He was lying in the loft of a net-maker's shed on the fish-docks that Brask had found him, under a heap of old nets that smelled of the sea, and he felt her go up off the roof where she'd been sitting and away across the harbour in the dark. Not far. A few streets. And stop.
+He felt her go. He was lying in the loft of a net-maker's shed on the fish-docks that Brask had found him, under a heap of old nets that smelled of the sea, and he felt her go up off the roof where she'd been sitting and away across the harbour in the dark. A few streets. And stop.
 
 She didn't come back till dawn.
 
@@ -185,7 +185,7 @@ They went in on the night of the hundred-and-twentieth day.
 
 Lisska on the roof of the warehouse opposite, watching. The guards on the counting-house door changed at midnight; she saw them go in, and the new ones come out, and stand, and after an hour sit down on the step. Kharrak in the saltings, a league off, a warm red weight at the back of Calder's head, near enough to call.
 
-Brask had a crowbar. A ship's bar, iron, as long as his leg. He'd got it off a chandler. Calder had used one like it on these same quays in the winter, on the cage bolts, the night he took Mabbin home.
+Brask had a crowbar. A ship's bar, iron, as long as his leg. He'd got it off a chandler. Calder had used one like it on these same quays in the autumn, on the cage bolts, the night he took Mabbin home.
 
 They came down Mint Lane in the dark from the top end, slowly, close against the warehouse wall. The grating was warm. The furnace below was banked for the night: a red glow, faint, at the bottom of the chute.
 
@@ -235,7 +235,7 @@ He could read numbers.
 
 He could read some of the words now. Not many. He'd been at it with his mother and Wren for sixty days, with a burnt stick on the cave floor and a board at Fisk's. He knew his own name. He knew the letters, all of them, though some of them still went the wrong way when he wrote. He could make out short words if he went slowly and said each letter in his head.
 
-He turned the pages back. Slowly. With a wet thumb, the way Ulric had.
+He turned the pages back. Slowly. With a wet thumb, as Ulric had.
 
 He didn't know what he was looking for. He looked anyway. Rows and rows. Numbers. Words he couldn't make out. Words he could. *Chest. Silver. Barge.* A name he didn't know. A name he didn't know.
 
@@ -327,7 +327,7 @@ The clerk sat on his pallet with his blanket clutched to his chest and his face 
 
 He couldn't stop now. He sat on his pallet and it came out of him like water out of a cracked jug.
 
-"The colleges. At Vael. They're buying binding-lamps. By the cartload. Tall iron ones with crystal in them, the crystal comes from Kessmoor, out of the Iron Fells, cut, and the colleges cut the words in it themselves, the old words, and the house buys the crystal in Kessmoor and ships it up the Wend and over the pass, and takes a tenth." He swallowed. "Cartloads. Every month since the summer. Since the thing flew. They can't get enough. They want a hundred. They want more than a hundred." He looked at Calder. "I keep the count. That's all. That's all I do. Please."
+"The colleges. At Vael. They're buying binding-lamps. By the cartload. Tall iron ones with crystal in them, the crystal comes from Kessmoor, out of the Iron Fells, cut, and the colleges cut the words in it themselves, the old words, and the house buys the crystal in Kessmoor and ships it up the Wend and over the pass, and takes a tenth." He swallowed. "Cartloads. Every month since the spring. Since the thing flew. They can't get enough. They want a hundred. They want more than a hundred." He looked at Calder. "I keep the count. That's all. That's all I do. Please."
 
 Calder looked at him for a long time.
 
@@ -345,7 +345,7 @@ Not full. Six of them. Rusk's guards, with cudgels and Halloran sashes, and the 
 
 And behind them, coming up from the quay, a man in a plain coat.
 
-Lean. Grey. Nobody you'd look at twice. Walking slowly up the cobbles of Mint Lane with his hands at his sides, and the guards stood aside for him the way a dog gets off a chair.
+Lean. Grey. Nobody you'd look at twice. Walking slowly up the cobbles of Mint Lane with his hands at his sides, and the guards stood aside for him as a dog gets off a chair.
 
 Calder knew what he was before he lifted his hands.
 
@@ -389,19 +389,19 @@ Kharrak landed on the quay at the bottom of the lane with a crash that cracked t
 
 Calder got up.
 
-He had the book. Brask had the crowbar. They went down Mint Lane past the place where the drawer had stood, onto Gallows Quay, past the red dragon. The quay was empty. Everybody had run. The beast-sellers, the buyers, the porters, the gulls. Only the cages were left. Along the whole length of the quay, in rows, the way they'd been in the winter. Hounds and martens and falcons and a sea-otter and a young wyvern, hooded, wild-caught on the coast, and goats and a white ox and things he didn't have names for.
+He had the book. Brask had the crowbar. They went down Mint Lane past the place where the drawer had stood, onto Gallows Quay, past the red dragon. The quay was empty. Everybody had run. The beast-sellers, the buyers, the porters, the gulls. Only the cages were left. Along the whole length of the quay, in rows, the way they'd been in the autumn. Hounds and martens and falcons and a sea-otter and a young wyvern, hooded, wild-caught on the coast, and goats and a white ox and things he didn't have names for.
 
 He took the crowbar from Brask.
 
-He went down the cages, one after another, the way he'd done in the winter, and broke the bolts, and let them out. Hounds went past him down the quay. The martens went up the warehouse walls. The wyvern threw off its hood and went up into the sky over the harbour screaming. The white ox stood in its open pen looking at him until Brask hit it on the rump with his hat.
+He went down the cages, one after another, the way he'd done in the autumn, and broke the bolts, and let them out. Hounds went past him down the quay. The martens went up the warehouse walls. The wyvern threw off its hood and went up into the sky over the harbour screaming. The white ox stood in its open pen looking at him until Brask hit it on the rump with his hat.
 
-At the end of the quay, the Halloran beast-office. With the shutter on the side, where in the winter he'd looked through and seen a boy with an iron ring kneeling in honey-smoke beside a hound with empty eyes. And in the front window, on its velvet cushion, in its glass case, the phoenix feather. Red-gold. Still warm. He could feel it through the glass from a pace away.
+At the end of the quay, the Halloran beast-office. With the shutter on the side, where in the autumn he'd looked through and seen a boy with an iron ring kneeling in honey-smoke beside a hound with empty eyes. And in the front window, on its velvet cushion, in its glass case, the phoenix feather. Red-gold. Still warm. He could feel it through the glass from a pace away.
 
 He left it.
 
 He didn't take what wasn't his.
 
-He came back up the quay to Kharrak, and stood by the red dragon's shoulder, and looked at the warehouse beside the beast-office. The big one. Red and gold. The one the drawer had come out of in the winter, and the man in grey, and the smoke.
+He came back up the quay to Kharrak, and stood by the red dragon's shoulder, and looked at the warehouse beside the beast-office. The big one. Red and gold. The one the drawer had come out of in the autumn, and the man in grey, and the smoke.
 
 It was empty. He'd let everything out.
 
@@ -415,7 +415,7 @@ He did it slowly, the way Calder asked him, so nobody would be in it. He walked 
 
 The fire went in under it.
 
-It went up the way a hayrick goes up. The tarred stilts first, then the floor, then the walls, then the great red and gold roof, all at once, with a roar like the sea and black smoke going up over Gallows Quay into the morning so thick it hid the sun. The heat came off it like a forge. The Halloran colours on the wall went black and curled and fell. The windows burst. The roof came in. The stilts went, and the whole burning thing went down into the mud with a hiss that went on and on, until there was nothing at the end of the quay but black timbers standing in the tide and the smoke going up.
+It went up as a hayrick goes up. The tarred stilts first, then the floor, then the walls, then the great red and gold roof, all at once, with a roar like the sea and black smoke going up over Gallows Quay into the morning so thick it hid the sun. The heat came off it like a forge. The Halloran colours on the wall went black and curled and fell. The windows burst. The roof came in. The stilts went, and the whole burning thing went down into the mud with a hiss that went on and on, until there was nothing at the end of the quay but black timbers standing in the tide and the smoke going up.
 
 Calder stood on the quay in the smoke with the book under his arm.
 

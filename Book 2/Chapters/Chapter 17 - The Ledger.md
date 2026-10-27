@@ -9,7 +9,7 @@ Beats: Ada reads Rook's ledger aloud: "the drover, Varrhold, paid"; "the gorse a
 Echo of the other's story: Lisska, back from the east: the lion-woman is standing between the knights and the clans.
 Status: first draft
 Draft notes: Day 34, evening, to day 55, night. Decided here (proposals):
-- Day 34, evening: back at Varrhold. Calder tells Arn on the wall about the road he gave Delling's company. Arn, cold: "You gave my moor to the men who shot Hallam." He could turn them back; he doesn't, because a road given in the Clan's name by a bonded man binds the ledges under the old law, and the ledges have said they'll keep it. "Your word. Not mine. When they're over, you'll have spent everything you had with me." He doesn't ask to see the book.
+- Day 34, evening: back at Varrhold. Calder tells Arn on the wall about the road he gave Delling's company. Arn, cold: "You gave my moor to the men who shot Hallam." He could turn them back; he doesn't, because a road given in the Clan's name by a bonded man binds the ledges under the old law, and the ledges have said they'll keep it (Lisska flew ahead to the caves with the news; Gunna sent word down within the hour). "Your word. Not mine. When they're over, you'll have spent everything you had with me." He doesn't ask to see the book.
 - Days 35–37: Delling's company crosses the moor in three parties a day apart, by the old peat road east of the hold, with Hulda Sarr and Harl and two more pairs of the ledges sitting on the heights above them the whole way. No burning, no taking. Calder watches the second party from the edge with Kharrak; the men look up at the red dragon and keep walking. Brask, with the first party, lifts a hand.
 - Day 36: Calder takes the book up to the hatching caves for Ada. It's damp; pages stuck; a clerk's small slanting hand full of short forms. Ada reads it at night in the cave mouth by her hearth-fire, slowly, aloud, a few pages a night, with her finger under the line; Wren listens, Bel sometimes; Calder always. Ada dries the stuck pages one at a time on the warm floor.
 - What she finds, nights 36–43: a year and a half of payments in order, each with a place, a thing, a number and often a name. Bags of silver "up from the coast, the ring on every bag". "The drover, Varrhold, paid, for the winter": Rook's own wage, which Ulric's steward paid him and Rook wrote down too. "A horse, from the uncle's lines; to the coast for my mother; returned" (the night before the first ford). Nothing more on that night. "The gorse at the ford, sixty, Delling's, the second meeting; thirty silver the captain, two each the men; one bolt over the count, for the old one, five." (Book 1 ch 60.)
@@ -51,9 +51,7 @@ The wind came up the glen. Below them in the yard somebody was singing, badly, b
 
 "You could."
 
-"But you're bonded. And you gave it in the Clan's name. And the ledges have said they'll keep it." Arn's hands were flat on the turf of the wall-top. "Gunna sent word down from the caves this morning, before you were even back. *The farmer's given the Clan's road. The bonded keep a bonded man's word. That's the old law.*" He almost laughed. "The old law. Every time I turn round, there's the old law, and you standing in it."
-
-Calder didn't say anything.
+"But you're bonded. And you gave it in the Clan's name. And the ledges have said they'll keep it." Arn's hands were flat on the turf of the wall-top. "Your green one was up at the caves before you'd got off the red one's neck. Gunna sent word down an hour since. *The farmer's given the Clan's road. The bonded keep a bonded man's word. That's the old law.*" He almost laughed. "The old law. Every time I turn round, there's the old law, and you standing in it."
 
 "So they'll walk over." Arn turned at last and looked at him in the dark. "Your word. Not mine. Remember that. I'll not lift a hand to stop them, and I'll not lift a hand to help." He was quiet a moment. "And when they're over, farmer, you'll have spent everything you had with me. Everything. There'll be nothing left."
 
@@ -67,7 +65,7 @@ Delling's company crossed the moor in three days.
 
 Calder watched the second party from the edge on the thirty-sixth day, sitting on the red dragon's neck on a crag above the peat road with the wind in his face.
 
-They came up out of the Ashlings and over the lip of the moor in a long straggling line, seventy men or so, in their company coats with the yellow tower on the breast, with their crossbows slung and their packs on their backs, walking. Not marching. Walking, like men going home from a fair. Above them, on the heights either side of the peat road, the ledges sat: Hulda Sarr and her black-and-grey Harl on the left, an old man called Brede and his blue on the right, and further on, two more pairs, small against the sky. Sitting. Watching. Not moving.
+They came up off the south slope and over the lip of the moor, two days out of the Ashlings, in a long straggling line, seventy men or so, in their company coats with the yellow tower on the breast, with their crossbows slung and their packs on their backs, walking. Not marching. Walking, like men going home from a fair. Above them, on the heights either side of the peat road, the ledges sat: Hulda Sarr and her black-and-grey Harl on the left, an old man called Brede and his blue on the right, and further on, two more pairs, small against the sky. Sitting. Watching. Not moving.
 
 The men on the road looked up at the dragons on the heights. Then they looked at the crag, and saw the red one.
 
@@ -89,7 +87,7 @@ The tide went down. Slowly. Kharrak folded his wings.
 
 On the road the men stood a moment longer. Then one of them at the front, the leader, a heavy man, put his hand up, slowly, palm out. Not a wave. The other thing. *I see you.* And they walked on, along the peat road, over the moor, east, with the ledges' dragons sitting on the heights above them, and didn't look up at the crag again.
 
-Brask had gone with the first party the day before. He'd lifted a hand too, at the edge, Hulda told Calder after. Not palm out. Just a hand. As if to say: well. There it is.
+Brask had gone with the first party the day before. He'd lifted a hand too, at the edge, Hulda told Calder after. Just a hand. As if to say: well. There it is.
 
 ---
 
@@ -99,7 +97,7 @@ She was sitting at the cave mouth by her fire, with the warm wind coming out of 
 
 Then she took it from him.
 
-She unbuckled the strap. She opened the cover. She sat there in the firelight with the swollen damp black book open on her knees and looked at the first page for a long time.
+She unbuckled the strap. She opened the cover. She sat there in the firelight with the swollen damp black book open on her knees and looked at the first page.
 
 "It's stuck," she said. "Half of it. The pages. It's been wet and dried and wet again." She turned one, very carefully, with her fingernail. It came away from the next with a small tearing sound. She stopped. "I'll have to dry them. One at a time. On the warm floor. If I pull them they'll tear."
 
@@ -111,7 +109,7 @@ She unbuckled the strap. She opened the cover. She sat there in the firelight wi
 
 She looked up at him.
 
-"You want it read aloud," she said. It wasn't a question.
+"You want it read aloud," she said.
 
 "Yes."
 
@@ -119,7 +117,7 @@ She looked up at him.
 
 "All of it."
 
-Ada looked at the book again. Then she turned it toward the fire, and put her finger under the first line, the way she'd put it under the lines of the old song-book when she taught Wren her letters at the kitchen table at home, and began.
+Ada looked at the book again. Then she turned it toward the fire, and put her finger under the first line, as she'd put it under the lines of the old song-book when she taught Wren her letters at the kitchen table at home, and began.
 
 ---
 
@@ -209,9 +207,9 @@ He didn't say anything.
 
 He thought of Delling at his table in the Plough, with his spectacles on their cord. *One of mine put the bolt in the old man.*
 
-Two hundred of Delling's men had walked over the moor under the Clan's road three days ago. One of them had been paid five silver over the count.
+Two hundred of Delling's men had walked over the moor under the Clan's road a week ago. One of them had been paid five silver over the count.
 
-He got up and went out of the cave mouth into the dark and stood by the tarn a long time.
+He got up and went out of the cave mouth into the dark and stood by the tarn till he was cold.
 
 ---
 
@@ -319,7 +317,7 @@ She looked at him with her pale green eyes.
 
 He put the moss in that night.
 
-He wet it in the setters' spring, the way Lisska said the Keeper had said: clean water, a double handful of the grey-green stuff soaked till it was heavy and cold and smelled of stone and rain. Then he took the old packing out of the wound under Aurveth's foreleg, and the smell came up, and the old one didn't make a sound.
+He wet it in the setters' spring, as Lisska said the Keeper had said: clean water, a double handful of the grey-green stuff soaked till it was heavy and cold and smelled of stone and rain. Then he took the old packing out of the wound under Aurveth's foreleg, and the smell came up, and the old one didn't make a sound.
 
 He packed the moss in. Gently. As much as would go.
 
@@ -339,9 +337,9 @@ Near midnight, for the first time since the fort, she slept without moving her h
 
 Ada found the mill on the fifty-fifth day.
 
-He'd known it would come. He'd known since the first night. The pages went on through the winter, Upper Rush and the Gathering and the Ram's Head and the ford, and every night he waited for the autumn page that wasn't there, the one from before the ford, before Teo. The harvest. The night of the mill.
+He'd known it would come. He'd known since the first night. The pages went on through the winter, Upper Rush and the Gathering and the Ram's Head and the ford, and every night he waited for the autumn page that wasn't there, the one from the week after Teo. The harvest. The night of the mill.
 
-It wasn't in the autumn. It was at the back.
+It was at the back.
 
 Ada turned the last dry page of the night and there was a second page behind it, stuck to the inside of the back cover, that she'd taken half a day to peel off on the warm floor. A separate list. Older ink. Written, Calder thought later, before the rest. Before Rook ever came to Varrhold. Five lines.
 
@@ -387,11 +385,11 @@ Calder had held the red tide down and let him walk.
 
 Lisska didn't say anything else that night.
 
-Not to him. Not to Wren, who crept round the fire to her and put her arms round as much of the green dragon's neck as they'd go round, and held on, and didn't say anything either. Not to anybody. She lay in the cave mouth with her head on her forelegs and her pale green eyes open on the fire and was silent, all night, the whole long night, the first night he'd ever known her silent.
+Not to him. Not to Wren, who crept round the fire to her and put her arms round as much of the green dragon's neck as they'd go round, and held on. Not to anybody. She lay in the cave mouth with her head on her forelegs and her pale green eyes open on the fire and was silent, all night, the whole long night, the first night he'd ever known her silent.
 
 He didn't know what to say to her. He didn't try. He'd given the road. He'd say so, if she asked. She didn't ask.
 
-She didn't joke again for a long time. Not for weeks. When she did, it was smaller, and he heard it.
+She didn't joke again for weeks. When she did, it was smaller, and he heard it.
 
 ---
 

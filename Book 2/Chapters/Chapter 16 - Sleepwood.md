@@ -10,7 +10,7 @@ Echo of the other's story: A woman and a lion lie down at ten paces from the Tit
 Status: first draft
 Draft notes: Day 58 to day 74. Decided here (proposals):
 - Day 58: in the Thornwood on the northern path, the expedition walks into the drift of sweet smoke from the burned sleepwood groves (ch 15). Warden Ysolde Marr's snow lynx, Frost, stops on the path and its pale eyes go empty, blank as a bound beast's, for a count of eleven; then it shakes its head and is itself. Idony writes down the count before he thinks to be frightened. Dane calls the burning barbaric. Idony thinks the Keepers are right, and doesn't say so.
-- Day 61: the edge of the grey. A line through the forest, sharp as frost on a pane: green on one side, grey on the other. Grey trees, not dry, not dead the way a felled tree is dead: drained, the colour gone out of them. Small birds on the ground under the grey trees, finches, a wren, that haven't rotted, because nothing rots on dead ground; rotting is a kind of living. The Wardens' sleeve-wards and the lamp-frames' runes gutter as they cross; a Warden's light-word does nothing. The local glass lies flat.
+- Day 61: the edge of the grey. A line through the forest, sharp as a ruled line: green on one side, grey on the other. Grey trees, not dry, not dead the way a felled tree is dead: drained, the colour gone out of them. Small birds on the ground under the grey trees, finches, a wren, that haven't rotted, because nothing rots on dead ground; rotting is a kind of living. The Wardens' sleeve-wards and the lamp-frames' runes gutter as they cross; a Warden's light-word does nothing. The local glass lies flat.
 - Days 61–63: Idony measures the edge with blazed trees and a knotted line: the grey is nearly a true circle, a league in radius from the Ring, and it grows about a hundred and twenty paces a week. Dane wants a date; Idony won't give one yet.
 - Day 64: the Titan, seen from a rise through grey trees, lying across the Hollow Ring: lion-kin, the size of a hill, grey as old stone, mane like a ridge of broken rock, plates down its back like the courses of a wall, wings folded like a collapsed tent of stone and leather, broken chain-ends on its forelegs, pale eyes half shut; its breath a long slow wind in the grey trees, eleven counts in, nineteen out. The twelve stones of the Ring stand round and under it; two are hidden under its flank. Hollow owls sit in the tops of the visible stones.
 - Day 65: Idony, by Dane's order, goes in to forty paces of the outermost stone with a single field-glass in a padded case, the one he cut on the road for *here*. On the grey ground the quicksilver lies in the bottom of the throat. Set on the stone (a hand on it: the stone is warm, and hums), it runs up to the top of the throat and stays: full. "Full like a cup." The only live ground in the league. The shape of the stir: the Deep drawn in from a league round, poured into the old stone, and drunk from the stone; a drain with a full cup at its mouth. He writes the sentence in the silk copy first.
@@ -37,7 +37,7 @@ He saw it happen. They didn't close. They didn't change colour. Only, from one m
 
 Ysolde said its name. Then louder.
 
-Idony was counting. He found afterwards that he'd been counting from the moment it stopped, under his breath, the way he counted the beats of a glass's fall. *Six. Seven. Eight.*
+Idony was counting. He found afterwards that he'd been counting from the moment it stopped, under his breath, as he counted the beats of a glass's fall. *Six. Seven. Eight.*
 
 On eleven, the lynx put its foot down and shook its head, hard, so its ears flapped, and looked round at Ysolde as if she'd spoken to it from very far off. Then it was itself again. It sneezed. It walked on up the path.
 
@@ -73,7 +73,7 @@ A line through the Thornwood, running away to the left and right as far as he co
 
 Not burned. Not dry. Not dead the way a felled tree is dead, brown and cracking. Grey. As if somebody had taken the colour out of everything with a brush and left only the shapes. The pines were grey. The oaks were grey. The moss on the oaks was grey, the ferns under them grey, the grass grey, the earth grey, all of it standing exactly as it had stood, with every needle and leaf on it, and not one of them moving in the wind.
 
-The line between was sharp as frost on a pane of glass. He could put one boot on green moss and one on grey.
+The line between was as sharp as a rule drawn on a page. He could put one boot on green moss and one on grey.
 
 He did. He stood there with one foot on each side of it and looked down.
 
@@ -83,7 +83,7 @@ He did. He stood there with one foot on each side of it and looked down.
 
 There were birds.
 
-He found them on the first afternoon, under the grey trees, a few hundred paces in. Small birds. Finches, a wren, a pair of tits, lying on the grey ground under the branches they'd fallen from. Grey themselves. He knelt and looked at the wren for a long time.
+He found them on the first afternoon, under the grey trees, a few hundred paces in. Small birds. Finches, a wren, a pair of tits, lying on the grey ground under the branches they'd fallen from. Grey themselves. He knelt and looked at the wren.
 
 It hadn't rotted.
 
@@ -141,15 +141,15 @@ They came up onto a rise in the grey forest in the late afternoon, the whole exp
 
 It took him a moment to see that it was breathing.
 
-It lay across the clearing the way a hill lies across a valley, grey, enormous, the size of the College hill at home, or bigger, so big his eyes kept trying to make it into land. Then he saw the shapes. A head, laid on great forepaws, with a mane like a ridge of broken rock running back from it. Plates down the back, one above the other, like the courses of a wall. Wings, folded, lying along its sides like a fallen tent of stone and leather, wider than Glasswater's harbour. A tail curled round. And on the forelegs, above the paws, something dark that caught the light. Iron. The broken ends of chains, each link as thick as his body, hanging from great cuffs and lying in the grey grass.
+It lay across the clearing as a hill lies across a valley, grey, enormous, the size of the College hill at home, or bigger, so big his eyes kept trying to make it into land. Then he saw the shapes. A head, laid on great forepaws, with a mane like a ridge of broken rock running back from it. Plates down the back, one above the other, like the courses of a wall. Wings, folded, lying along its sides like a fallen tent of stone and leather, wider than Glasswater's harbour. A tail curled round. And on the forelegs, above the paws, something dark that caught the light. Iron. The broken ends of chains, each link as thick as his body, hanging from great cuffs and lying in the grey grass.
 
-Its eyes were half shut. Pale. Like ice under water.
+Its eyes were half shut. Pale, as quicksilver is pale at rest.
 
 It breathed. A long slow wind went through the grey trees, and the grey trees didn't move in it. He counted. Eleven counts in. A pause. Nineteen out.
 
 Round it, and under it, the stones.
 
-Twelve, Hesper's people said. He could see ten. Tall grey stones, older-looking than anything he'd ever seen, standing in a ring round the clearing, and the beast lying across the middle of them as if it had been poured there. Two more hidden under its flank. On the tops of the stones he could see, there were owls. Great pale owls as tall as children, sitting quite still with their faces turned toward the thing in the middle.
+Twelve, the clans said. He could see ten. Tall grey stones, older-looking than anything he'd ever seen, standing in a ring round the clearing, and the beast lying across the middle of them as if it had been poured there. Two more hidden under its flank. On the tops of the stones he could see, there were owls. Great pale owls, a yard and a half standing, he guessed, sitting quite still with their faces turned toward the thing in the middle.
 
 Nobody on the rise said anything for a long time.
 
@@ -199,7 +199,7 @@ The owl looked at him.
 
 ---
 
-He sat down with his back to the warm stone and worked it out in his head, slowly, the way you'd walk across ice.
+He sat down with his back to the warm stone and worked it out in his head, slowly, a step at a time, as he'd work a long sum.
 
 The beast drew. He'd known that for eleven years; he'd watched the hole under Hearthmere, and the hole was the chains, feeding on it. Now it was free and it drew for itself. It lay on the Ring and drew the Deep in from a league round, from the trees and the ground and the birds, the way a drain draws water from a basin. That was the fall on the recut glasses. That was the grey.
 
@@ -249,7 +249,7 @@ Hearthmere's knights were on the western side of the Ring, at the edge of the gr
 
 He'd seen their smoke on the second day. On the sixty-sixth day he went over with Dane and two Wardens to look, by Dane's arrangement, under a white cloth on a stick, to a fallen grey oak halfway between the two camps.
 
-The knights' camp was very ordered. Rows of tents. Greyharts picketed in a line, tall grey deer with branched antlers, and hounds lying by the tents, and two falcons on a perch. All of them alive and well and themselves, on the green side of the line, and when a knight walked his greyhart over onto the grey to water it at a grey stream, it stayed itself there too.
+The knights' camp was very ordered. Rows of tents. Greyharts picketed in a line, tall white deer with branched antlers, and hounds lying by the tents, and two falcons on a perch. All of them alive and well and themselves, on the green side of the line, and when a knight walked his greyhart over onto the grey to water it at a grey stream, it stayed itself there too.
 
 Bonds, Idony thought. Bonds weren't fed by the ground. They were fed by the two lives in them. Dead ground didn't stop them. He wrote that down later and underlined it.
 

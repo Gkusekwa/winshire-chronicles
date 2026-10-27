@@ -15,7 +15,7 @@ Draft notes: Days 312–315. Decided here (proposals):
 - The shrine: inside the bronze doors a white domed room, a hundred lamps of plain glass blazing, a gilded sun on the far wall over an altar where the crowned line kneels; the floor old-realm stone under the white marble (Orrun feels it); behind the altar, carved in the old stone, a door-shape like the one under the Scald.
 - Corvin's men are already there: they came down the stair from the palace in the night with the chamberlain's leave; the grey-bearded captain and eight hunters with crossbows, and a drawer (lean, grey, plain coat: the Halloran house's drawer Kharrak knocked into Wendmouth harbour, ch 30, now Corvin's; the big bald one from the Fells burned out at Vael) standing on the old stone; they've broken the marble round the door-shape and can't open it.
 - Orrun puts his head to the door-shape; it opens for him (the stone moves for kin); Corvin's men follow them in at crossbow-point; nobody shoots the lion.
-- **The temple**: like the others; the plinth, and on it, here, *not empty*: the egg. Grey old-realm stone, warm, carved round with the one-horned sleeper and rays. The sixth temple Maren has seen; the first with the egg still in it. The carvings round the walls, the six, the faceless figures, the ring held up in the dome by six hands (whole here too); and more: a long band of carving round the walls below the six: the six ends and the roads (ch 65 reads it).
+- **The temple**: like the others; the plinth, and on it, here, *not empty*: the egg. Grey old-realm stone, warm, carved round with the one-horned sleeper and rays. The third temple Maren has seen; the first with the egg still in it. The carvings round the walls, the six, the faceless figures, the ring held up in the dome by six hands (whole here too); and more: a long band of carving round the walls below the six: the six ends and the roads (ch 65 reads it).
 - **Take the relic and the sleeper wakes**: Maren can't take it; Corvin's men could, and don't: the captain: "My master says leave it. My master says watch." So they stand on either side of the plinth: Maren and Orrun before it, the hunters behind, and wait.
 - **Corvin** comes down at noon: down the stair through the shrine, alone, in his plain dark coat; walks into the temple; stops. Maren sees his face: Cassian's face. Long, pale, grey-eyed: the face she last saw at the school's lock, the night of the gate, with her sword. He looks at her for a long time. "You killed my brother." "Yes." He nods once, as if a sum came out. Nothing else. He looks at the egg and at the dome and at the band of carving below the six, reads none of it, and says to the captain: "When it comes, we go."
 - Above: through the stone, the court singing the noon hymn in the palace chapel (the hands told Tobin the court would be at noon prayers, the Bond-King leading): *Praise to the Sun on the Stair, who lit the first lamp*; and then the windows breaking: a long high shattering coming down the stair; screaming; the drawers' force going wild (a blow through the stone like a battering ram; the shrine's lamps bursting one after another).
@@ -137,7 +137,7 @@ They went.
 
 The bronze doors were open.
 
-She saw it when she turned. Not shut. Open, a hand's breadth. Somebody had come through them before her. Since the night. And left them.
+She saw it when she turned. Open, a hand's breadth. Somebody had come through them before her. Since the night. And left them.
 
 She pushed one. It swung in, slowly, heavy, on oiled hinges.
 
@@ -173,7 +173,7 @@ And among them, at the side, standing on the bared grey stone with his feet apar
 
 The captain looked at her. At the lion behind her, filling the shrine.
 
-"Lady," he said. Pleasantly. As he'd spoken to the bird. "You'll forgive us. We've been here since the small hours. We can't get it open." He nodded at the carved door. "The hammers won't touch it. Our drawer won't touch it. My master thought you might."
+"Lady," he said. Pleasantly. As Idony had said he spoke. "You'll forgive us. We've been here since the small hours. We can't get it open." He nodded at the carved door. "The hammers won't touch it. Our drawer won't touch it. My master thought you might."
 
 The crossbows came up.
 
@@ -316,7 +316,7 @@ She turned round.
 
 She knew the face.
 
-Long. Pale. Grey-eyed. Short dark hair. She'd seen it last in the dark under the school, at the lock, the night of the gate, with Haverly's sword in her hand. She'd seen it come toward her out of the dark, warm, smiling, talking, the voice that had won half of Hearthmere, saying her name as if they were friends.
+Long. Pale. Grey-eyed. Short dark hair. She'd seen it last in the dark under the school, at the lock, the night of the gate, with the river watch sword in her hand. She'd seen it come toward her out of the dark, warm, smiling, talking, the voice that had won half of Hearthmere, saying her name as if they were friends.
 
 She'd seen it stop smiling.
 
@@ -340,7 +340,7 @@ He looked at her a moment longer. Then he nodded. Once. As if a sum had come out
 
 That was all.
 
-He looked past her. At the egg on the plinth. At the six round the walls. At the ring in the dome, held up by six hands. At the long band of carving below the six, with its lines and its small shapes and its words. She watched his grey eyes go along it. He couldn't read it. She could see he couldn't. He looked at it as the captain had looked at the roll at the foot of the perch, turning it a little in his mind, as if it might make more sense from another side.
+He looked past her. At the egg on the plinth. At the six round the walls. At the ring in the dome, held up by six hands. At the long band of carving below the six, with its lines and its small shapes and its words. She watched his grey eyes go along it. He couldn't read it. She could see he couldn't. He looked at it as a clerk looks at a ledger in a hand he doesn't know, turning it a little in his mind, as if it might make more sense from another side.
 
 He didn't say anything about any of it.
 
@@ -354,7 +354,7 @@ She felt it first. Through Orrun. Through the stone. The whole cliff shaking. A 
 
 Then down.
 
-She heard it come down through the palace. Floor after floor. Through the stone. A grinding, crashing roar, coming down and down, the way a rockfall comes down a mountain. Closer. The stair. The shrine's dome above the temple. She heard the shrine's dome go, a long splintering crash of marble and gilding.
+She heard it come down through the palace. Floor after floor. Through the stone. A grinding, crashing roar, coming down and down, as a rockfall comes down a mountain. Closer. The stair. The shrine's dome above the temple. She heard the shrine's dome go, a long splintering crash of marble and gilding.
 
 The temple's dome cracked.
 
@@ -450,4 +450,4 @@ He was shouting a word. One word. In the old tongue. She didn't know it. She'd h
 
 She didn't know what it meant.
 
-She knew he'd said it twice.
+She knew his voice.

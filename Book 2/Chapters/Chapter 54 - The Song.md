@@ -9,16 +9,16 @@ Beats: Lisska brings the turn back east in Idony's numbers and Orrun's words. "O
 Echo of the other's story: Maren's postscript, in her own hand: "Orrun says your red one's too loud."
 Status: first draft
 Draft notes: Days 284–290. Decided here (proposals):
-- Day 284: news at the hold (a Marches drover up the Way with the grain-wagons' return): the companies at Ashford haven't been paid since the new moon after Corsa; half of them have broken camp and gone back west over the Wend by the fords above Ashford (the flood is long down), heading for Cotter's Cross, burning steadings on the Saltreach side as they go (Upper Rush again; the Lowe; the Ewe Hollow turn). Rowan's knights followed them to the river and hold the fords behind them: they can't go back into Hearthmere.
+- Day 284: news at the hold (a Marches drover up the Way with the grain-wagons' return): the companies at Ashford haven't been paid since the new moon after Corsa; half of them have broken camp and gone back east over the Wend by the fords above Ashford (the flood is long down), heading for Cotter's Cross, burning steadings on the Saltreach side as they go (Upper Rush again; the Lowe; the Ewe Hollow turn). Rowan's knights followed them to the river and hold the fords behind them: they can't go back into Hearthmere.
 - Day 286 noon Lisska in from the west (flight 4 home) with Maren's answer written on the back of Calder's own letter. He reads it on the setters' ledge, himself, slowly. Then takes it to Ada in the kitchen.
-- Ada reads *The song is true. Tell Ada. It is in the temple, word for word. Tell her that is why she sings it fast.* She sits down. She doesn't sing for the rest of the winter. She says: "One as in one thing." And: "My grandmother would have known."
+- Ada reads *The song is true. Tell Ada. It is in the temple, word for word. Tell her that is why she sings it fast.* She sits down. She doesn't sing for the rest of the winter. She says: "One as in one thing." And: "My grandmother knew. Some of it." (The sworn verse, Book 1 ch 46: where it sleeps, not what it was for.)
 - The turn, in Calder's head: the Restoration's *One again*, their badge of six, Corvin's ring of six on every coin: all of it read off a temple wall by somebody who didn't understand it. "They took a warning and made it a promise."
 - The errand's second half: the reef by Gullhaven; a month after the Sun Stair (which is "within the month"): about two months off. Warn the coast; get the Clan ready to lift a town (Gullhaven on its spit: no harbour-road out but the spit itself; dragons can carry people off it if they're ready with harness and baskets). Arn in the hall at the two hearths: "Yes." Before Calder's said what he's asking. "You'll want baskets. And harness. And every pair on the ledges." Ulric: "And mine."
 - First the debt: day 288 dawn, the Clan's flights go up from the Scarfell: Arn's red-thread pairs and Ulric's grey, thirty-odd dragons, the first time the two halves have flown together since Teo. Down on the deserters on the Cotter's Cross road in the Ashlings scrub (a long column, carts, plunder, smoke behind them from a burning steading). No killing order: Arn's word is to break it, not butcher it: fire on the carts and the plunder and the road ahead, dragons down in the column to scatter it. The companies break; men run into the scrub, the Reedmarsh's reed-beds below the Cross, back toward the Marches; bands, not an army.
 - Calder rides Kharrak over it; Kharrak wants to burn the runners and Calder won't let him (as at Crow Scar, Book 1 ch 32): "Not the ones running. The ones running are done." Kharrak: *They burned Upper Rush.* "I know. Not the ones running."
 - Reede: Calder sees a cart going fast down the road west out of the scrub with a press lashed on it (the screw-press from the Fleece's back yard, ch 14) and a thin man driving; he lets it go too, without meaning to: Kharrak is turning a dragon off a band of boys. Corvin isn't there. Nobody's seen him since the autumn.
 - Rowan's knights at the fords: from the air Calder sees them on the Hearthmere bank, a long grey line, with pikes, holding. She lifts her sword once. He lifts his hand.
-- Day 290 at the hold: Arn and Ulric at the two hearths; the chair still empty under its cloth (both halves will pour for it when the man who paid is named to his face); the war over as a war. Echo: Maren's postscript, which Calder reads aloud to Kharrak: *Orrun says your red one's too loud.* Kharrak: *Who's Orrun?* "The lion." Long silence. *He's too big.* Lisska: *That's what I said.*
+- Day 290 at the hold: Arn and Ulric at the two hearths; the chair still empty under its cloth (both halves will pour for it when every one who paid is named; the Halloran house is named, the man at the Fleece isn't yet); the war over as a war. Echo: Maren's postscript, which Calder reads aloud to Kharrak: *Orrun says your red one's too loud.* Kharrak: *Who's Orrun?* "The lion." Long silence. *He's too big.* Lisska: *That's what I said.*
 Magic touches: dragonfire only (the Ashlings scrub is thin Saltreach ground; nobody casts); the song and the temple; the Clan's ledges hum.
 notes -->
 
@@ -28,7 +28,7 @@ The news came up the Way with the grain-wagons.
 
 On the two-hundred-and-eighty-fourth day. A drover from the Marches, on the box of the last empty wagon, coming back up to the hold for the next load. He'd seen smoke on the Saltreach bank all the way up from the Staithes.
 
-"The companies," he said. In the yard, to Arn, to Calder, to anyone who'd stand still. "At Ashford. They've not been paid since the new moon. Not a coin. The chests stopped coming up the Wend." He spat. "So half of them have broke camp and gone. Back over the river by the fords above Ashford. West. For Cotter's Cross."
+"The companies," he said. In the yard, to Arn, to Calder, to anyone who'd stand still. "At Ashford. They've not been paid since the new moon. Not a coin. The chests stopped coming up the Wend." He spat. "So half of them have broke camp and gone. Back over the river by the fords above Ashford. East. For Cotter's Cross."
 
 "Burning?" said Arn.
 
@@ -56,21 +56,17 @@ He couldn't see anything. Moor, and the Fellwood beyond it, black, and the sky. 
 
 Lisska came home on the two-hundred-and-eighty-sixth day at noon.
 
-Out of the west, low over the moor, small, fast, and then not fast, labouring, the way she always came home. He was on the ledge. He'd been on the ledge every noon for three days. He saw her a long way off and felt her before he saw her, small at the back of his head, tired, and something else. Full. As if she were carrying more than a bit of oilcloth.
+He'd been on the ledge every noon for three days. He felt her before he saw her, small at the back of his head, tired, and something else. Full. As if she were carrying more than a bit of oilcloth.
 
-She came down beside him on the warm stone and lay flat.
+She came down beside him on the warm stone and lay flat, and held out her foreleg before he could speak.
 
-*I'm back,* she said.
-
-"I know."
-
-*It's a true one,* said Lisska. *She said. Not a good one. A true one.* She held out her foreleg. *She wrote on the back of yours. There wasn't any other paper.*
+*It's a true one,* said Lisska. *She said. Not a good one. A true one. She wrote on the back of yours. There wasn't any other paper.*
 
 ---
 
 He read it himself.
 
-On the setters' ledge, in the cold sun, with Lisska asleep against his leg before he'd got the string off. He unfolded it. His own letter. His nine lines going uphill, his *riting* and his *nite* and his backwards D crossed out. He turned it over.
+On the setters' ledge, in the cold sun, with Lisska asleep against his leg before he'd got the string off. He unfolded it. His own letter. His eight lines going uphill, his *riting* and his *nite* and his backwards D crossed out. He turned it over.
 
 Her hand.
 
@@ -104,7 +100,7 @@ He sat on the ledge with it. He read it again. All of it. Then he folded it and 
 
 Ada read it at Bel's table.
 
-Slowly. With her finger under the lines, as he did. He'd never seen her do that. She read his nine lines on the front first, though she'd seen them, because she said a letter has to be read in order or not at all. Then she turned it over.
+Slowly. With her finger under the lines, as he did. He'd never seen her do that. She read his eight lines on the front first, though she'd seen them, because she said a letter has to be read in order or not at all. Then she turned it over.
 
 He watched her read Maren's hand.
 
@@ -134,7 +130,7 @@ Ada looked at the paper.
 
 She read it again. The reader's lines. *Not together. One will.* She read them three times, as he had.
 
-"My grandmother would have known," she said at last. "Or hers. Somebody would have." She put the paper down on the table and smoothed it flat with both hands. "They sang the last verse fast because they knew what it meant. And they didn't tell. And then they forgot. And we kept singing it fast." She looked at the fire. "Like walking past a dog."
+"My grandmother knew," she said at last. "Some of it. She gave me the verse that says where it sleeps, and kept back what it was for. Or she never had that part either." She put the paper down on the table and smoothed it flat with both hands. "Somebody sang the last verse fast because they knew what it meant. And kept the rest back. And then it was forgotten. And we kept singing it fast." She looked at the fire. "Like walking past a dog."
 
 She didn't sing for the rest of the winter. Not once. Wren asked, in the caves, at the new moon, and Ada said her throat was sore.
 
@@ -294,9 +290,7 @@ Reede.
 
 He knew him by the shoulders. By the way he sat, bent. The man who'd printed every bill he'd ever seen with the ring of six on it. The one in his coat, that he'd carried since the spring.
 
-Kharrak was turning a grey dragon off a band of boys. Boys, fifteen, sixteen, with the black ship on their sleeves, crying in a ditch. Calder had his hand up, shouting at the grey's rider. When he looked back, the cart was gone into the scrub.
-
-He let it go. He didn't mean to. He'd think afterwards that he should have meant to.
+Kharrak was turning a grey dragon off a band of boys. Boys, fifteen, sixteen, with the black ship on their sleeves, crying in a ditch. Calder had his hand up, shouting at the grey's rider. When he looked back, the cart was gone into the scrub, and the press with it.
 
 ---
 
@@ -324,7 +318,7 @@ He lifted his hand.
 
 They came home on the two-hundred-and-ninetieth day.
 
-All thirty-four. Not one hurt. A grey had a burn on one wing from flying too close to a cart. A red had a bolt in the soft skin under a foreleg that Ivar Leck took out with pincers on the setters' ledge while the dragon swore at him in a way Calder could feel from across the cliff.
+All thirty-four. None badly hurt. A grey had a burn on one wing from flying too close to a cart. A red had a bolt in the soft skin under a foreleg that Ivar Leck took out with pincers on the setters' ledge while the dragon swore at him in a way Calder could feel from across the cliff.
 
 Arn and Ulric sat at the two hearths that night. With the chair between them under its grey cloth.
 
@@ -338,7 +332,7 @@ Arn and Ulric sat at the two hearths that night. With the chair between them und
 
 They looked at the chair.
 
-Neither of them took the cloth off it. It wasn't time. The man who'd paid hadn't been named to his face. He'd been named in a Council room in Corsa, and in a square in Hallowmere, and in a mint-book. Not to his face. When he was, both halves would pour for the chair at the black water.
+Neither of them took the cloth off it. It wasn't time. The Halloran house had been named, in a Council room in Corsa, and in a square in Hallowmere, and in a mint-book. The man at the Fleece hadn't been named in any of them. *Every one,* Arn had said. When he was, both halves would pour for the chair at the black water.
 
 Not yet.
 

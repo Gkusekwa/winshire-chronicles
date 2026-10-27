@@ -5,16 +5,17 @@ POV: Idony
 Part: Part Three: The Long Library
 Days: 157–172 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Vael; the Undercroft
-Beats: The stir over Vael at its height, and the colleges' binding: a hundred magisters on the humming hill, every lamp on it white, the many-voice working holding the Titan for one breath. Idony knows the relic is beneath them in the Undercroft, and he has read the stir three times now: when it peaks, the Titan goes down for the relic, and after that comes the surge and the lake's sleeper. He leaves his place in the ring, which is a crime, to get Nessa and the lake-folk off the shore. The Coil's cold has skinned Glasswater with ice in late summer; the ice goes; the Titan breaks down into the Undercroft and takes the relic *(canon)*; the Blue tower falls. **The surge** comes up through the broken hill that night.
+Beats: The stir over Vael at its height, and the colleges' binding: a hundred magisters on the humming hill, every lamp on it white, the many-voice working holding the Titan for one breath. Idony knows the relic is beneath them in the Undercroft, and he has read the stir three times now: when it peaks, the Titan goes down for the relic, and after that comes the surge and the lake's sleeper. On the night he finds the Undercroft he sits with the bird, the one reader his ledgers ever had, and feeds it. He leaves his place in the ring, which is a crime, to get Nessa and the lake-folk off the shore. The Coil's cold has skinned Glasswater with ice in late summer; the ice goes; the Titan breaks down into the Undercroft and takes the relic *(canon)*; the Blue tower falls. **The surge** comes up through the broken hill that night.
 Echo of the other's story: The lion at the lake's edge with its head down, and the ground opening round it.
 Status: first draft
 Draft notes: Days 157–172 (summary to day 171), night 172. Decided here (proposals):
 - Days 157–168 in summary: the line of the cup comes down to the water; by day 165 the whole lower city is dark at night, every lamp brown or out; the hill above Candle Row white even at noon. The hum in the Library's lowest halls so strong the readers have gone. The deep glass's breathing quickens. On day 166 a skin of ice forms on Glasswater at dawn, in late summer, a mile out round the island, thin as a pane; by day 170 it reaches the ferry steps. Ferries break it with poles to cross. The Coil's cold.
 - The Undercroft: Idony finds it on day 160, by measuring: the lowest of the Library's halls, under the hill end, below the bird's perch, has a floor of old-realm stone with a carved door in it that the librarians call the Undercroft door and nobody has opened in living memory; the glass on it runs past full and the quicksilver cracks the throat. The relic is under it. The Titan is drinking the hill to reach it.
+- **The bird** (added 27 Oct 2026, about 800 words): night 160, straight up the Undercroft stair to the perch with the cracked field-glass; the readers gone a week, the bird's dish dry because the juniors who fed it have fled; he gives it Nessa's smoked whitefish; it keeps a note of every reader who sat at the desk ("a list of corrections"), and it is the one reader of his eleven years of Hearthmere ledgers; "Keeping a thing is easy... Reading it is the work"; he offers it the window and it asks him to read it the day's numbers instead, which he does like a ferryman calling depths; it corrects none. It eats only when he's gone. No history, no new revelation: a scene so its death in ch 39 costs a friend. (Its eye's gold ring stays unseen till 39: he never gets that close.)
 - His third reading of the stir, written in the silk on day 168: *When the cup is fullest, the beast goes down for what is under it. Then the flood. Then, out of the flood, the sleeper.* At the Ring: stir 90 days, relic at the peak, surge 7 days, waking. Here the slope says: peak on day 172, near noon; surge after; the lake's sleeper (the thing breathing under the water) in about five days.
 - The Council sets the working for noon on day 172, at Idony's reading, because noon is the hour the form was made for (the noon bell). He sees the joke and nobody laughs.
 - Day 172, morning: Idony at the ferry steps to Nessa: get everyone off the shore and up above Candle Row by dusk, and keep them there five days; the lake-folk, the ferry-folk, the fish-market. Don't cross. Don't sleep on the water. She looks at the ice. "Five days." "Five. Perhaps fewer." She doesn't argue. She tells Tib to start with Mother Talley.
-- Noon: the ring on the crown of the hill, on the great paved terrace in front of the Hall of Rings and the Library's upper door, old-realm paving, humming: a hundred magisters in grey and their college colours, Fifth and Fourth rings, standing in a ring two hundred paces across, every one with bare feet on the stone (Dane's order; the commentaries say so). Quell at the north point. Dane, bandaged, at the south. The very old Keeper of the Script in a chair. Idony at the centre with four glasses on a stand and the College's great sand-glass, to call the hour and keep the voices in time.
+- Noon: the ring on the crown of the hill, on the great paved terrace in front of the Hall of Rings and the Library's upper door, old-realm paving, humming: a hundred magisters in grey and their college colours, Fifth and Fourth rings and the best of the Thirds, standing in a ring two hundred paces across, every one with bare feet on the stone (Dane's order; the commentaries say so). Quell at the north point. Dane, bandaged, at the south. The very old Keeper of the Script in a chair. Idony at the centre with four glasses on a stand and the College's great sand-glass, to call the hour and keep the voices in time.
 - The working: at the moment the glasses peak (the quicksilver stops climbing and trembles), he calls "Now." A hundred voices begin. The form from Quell's roll: *Keep the watch below* in the old tongue, and the hold-words woven through it, and at the end, the muzzle. Every lamp on the hill goes whiter. A pressure goes out from the ring over the lake like a held breath. On the lake, the island stops breathing. One breath. Its eyes go blank. Held.
 - Then the end of the form: the voices say together the line that tells them not to ask. Idony hears it said by a hundred mouths, the noon oath's last line, and steps out of the ring. A proctor shouts. He walks out of the centre between two Fourth rings who don't break off. He doesn't run until he's past the Hall of Rings.
 - The fall: behind him, as he goes down the hill, the voices falter, not because of him: because the Titan, held for one breath, breathes in, and it breathes in the hill. The cup empties into it in one draw. A hundred magisters standing barefoot on stone that is suddenly empty, drawing on themselves. Screams. The lamps on the hill go out all at once. The ice on Glasswater cracks from the island outward with a sound like the world's ice-house; the island rises, wings opening, ice falling off it in sheets; it comes across the mile of water in three wingbeats and comes down on the hill on the Blue College's side, and the Blue tower falls under its forefoot; and it puts its head down into the hill as it did at the Ring, and the hill opens.
@@ -33,7 +34,7 @@ He watched it from the attic every night. Candle Row on the hundred-and-thirty-f
 
 Dark.
 
-Not brown. Dark. Every lamp in the lower city out, or so near out that it was a red ember in a glass. Mother Talley's corner. The Dyers' College. The stall at the bottom of Ferry Street. The Tide-hall annex with its soft blue. All of it. People had candles in their windows, tallow, as they had in Hearthmere now, and in the Wyldmarch. He could see them from the attic, small and yellow and ordinary, along the shore.
+Dark. Every lamp in the lower city out, or so near out that it was a red ember in a glass. Mother Talley's corner. The Dyers' College. The stall at the bottom of Ferry Street. The Tide-hall annex with its soft blue. All of it. People had candles in their windows, tallow, as they had in Hearthmere now, and in the Wyldmarch. He could see them from the attic, small and yellow and ordinary, along the shore.
 
 He wrote it down. *Day 165. The cup is the whole hill. The drain is the whole shore.*
 
@@ -77,7 +78,79 @@ He sat on the floor of the lowest hall in the dark for a long time.
 
 It was under here. Whatever the Titan had come to Glasswater for. The thing on the plinth. The lantern with the flame in it. Under the Undercroft door, under the Library, under the hill.
 
-It wasn't drinking the hill to fill a cup. It was drinking the hill to reach what was under it.
+It was drinking the hill to reach what was under it.
+
+---
+
+He came up the stair with the cracked glass in his hand.
+
+The lamps in the hall were white and there was nobody under them. The readers had gone a week ago, when the hum in the lowest halls got into their teeth. Chairs pushed in. Inkwells capped. At the hill end the perch of black oak, and on it, the Old Reader, with its head under its wing.
+
+It took the head out when he was still twenty paces off.
+
+"Ferryman," it said. "You have been under my floor."
+
+"Yes."
+
+He put the glass on the reading-desk. The crack ran up its throat from the bulb like a hair in an egg. As he set it down, a second bead came out of the crack and lay on the wood and trembled, and then it rolled, slowly, toward the rock.
+
+The bird watched it go with its good eye.
+
+"Did you know?" he said. "What's under you."
+
+"I have sat on it a long time."
+
+"That isn't an answer."
+
+"It is half of one. Sitting on a thing is not knowing it." The feathers lifted along its back and settled. "It is, however, a start. Most of this hall never got so far."
+
+He sat down at the desk. His desk. The scratches on its lid were his, eleven years of a dividers' point. The bird's dish stood at the corner. Dry. A crust in it gone hard as slate.
+
+He looked at it.
+
+Nobody had come up with scraps. Not since the readers went. The juniors had brought them twice a day for as long as anyone remembered, and nobody had thought about who'd bring them when the juniors didn't.
+
+He had smoked whitefish in his coat. Nessa had pushed it at him that morning at the steps, because he hadn't eaten, she said, since the ice. He unwrapped it and put it in the dish. All of it.
+
+The Old Reader looked at the dish. It didn't come down.
+
+"Seven days," it said. "Footnote: the hum makes junior readers remember they have mothers in the country. I don't blame them. I make a note of it."
+
+"You make a note of everything."
+
+"I make a note of everyone. That is different." It shifted its feet on the black oak. "Every reader who sat at that desk. What they read. What they got wrong. Which is most of what remembering is, ferryman, if you do it honestly. A list of corrections."
+
+He laughed. He hadn't meant to. The sound went off down the empty hall between the shelves.
+
+"What did I get wrong?" he said.
+
+The bird thought about it. It thought about everything, slowly, as if every question were a book it had to send down to the stacks for.
+
+"Your Hearthmere ledgers," it said. "Eleven years. Read low every night. The commentaries said the glasses were faulty, and the Masters said so, and nobody above the Third ring opened a page." It looked at him. "I opened them."
+
+He sat very still.
+
+"Every page," said the Old Reader. "Your sevens are untidy. You correct in the margin and not on the line, as a ferryman's boy would, so the next one can see where the shallows were. I approve of that. I approve of very little." Its head went on one side. "You got nothing wrong, as it turns out. You only wrote it down for eleven years with nobody to read it."
+
+"You read it."
+
+"I read everything, ferryman. It's no compliment." It closed its good eye. "Keeping a thing is easy. You put it somewhere dark and you sit on it. Reading it is the work."
+
+The quicksilver had reached the edge of the desk. It hung there, a bead of it, against the lip of the wood.
+
+"You could go," he said. "When it comes. Out of the window. You still could."
+
+"I could." The eye opened. "Read me today's numbers. My eye is old and your hand is worse than it was in spring."
+
+He took the silk out of his coat and read them. The field-glass on every floor, the lean, the height up the throat, all of it, in order, slowly, as his father had called the depths off the ferry's bow, coming in to the steps in fog. Three fathom. Two. Two and a half. Ground.
+
+The bird didn't correct one.
+
+When he'd finished it said, "Go home and sleep." And then, after a pause, "Leave the dish."
+
+He left it. He went down the hall with the lamps white over the empty tables. At the twentieth shelf he heard, behind him, the black oak creak as something leaned down from it, and the dish move on the wood.
+
+He didn't look round. Nobody had ever seen it eat.
 
 ---
 
@@ -147,7 +220,7 @@ She put the hammer down.
 
 "I don't know," said Idony. "Something under it. In five days. Perhaps fewer."
 
-Nessa looked at the ice for a long time. At the channels the ferries had broken through it, black. At the island. At the lantern owl in its cage on the prow, which had turned on its perch and was staring at the island, as it had stared for fifty-six days, and hadn't slept.
+Nessa looked at the ice. At the channels the ferries had broken through it, black. At the island. At the lantern owl in its cage on the prow, which had turned on its perch and was staring at the island, as it had stared for fifty-six days, and hadn't slept.
 
 "Five days," she said.
 
@@ -167,7 +240,7 @@ The crown of the hill. A great paved space between the Hall of Rings and the Lib
 
 A hundred magisters stood on it in a ring.
 
-All seven colleges. Grey gowns with their colours at the collar: the Blue College's blue, the Scribes' black, the Tides' soft green, the violet of the Measures, the red of the Healers, the gold of the Sky-watchers, the white of the Keepers of the Script. Fifth rings and Fourth rings, every one in Vael who'd earned the notches. Old men and old women mostly. Some young. A hundred of them, standing in a ring two hundred paces across on the old stone of the terrace, an arm's length apart.
+All seven colleges. Grey gowns with their colours at the collar: the Blue College's blue, the Scribes' black, the Tides' soft green, the violet of the Measures, the red of the Healers, the gold of the Sky-watchers, the white of the Keepers of the Script. Fifth rings and Fourth rings, and the best of the Thirds. Old men and old women mostly. Some young. A hundred of them, standing in a ring two hundred paces across on the old stone of the terrace, an arm's length apart.
 
 Barefoot.
 
@@ -199,7 +272,7 @@ He watched the glasses.
 
 They stopped.
 
-Not slowed. Stopped. All four, at the same moment. The quicksilver in the throats, that had been climbing for fifty-six days, stopped at the very top, and trembled there, and didn't move.
+Stopped. All four, at the same moment. The quicksilver in the throats, that had been climbing for fifty-six days, stopped at the very top, and trembled there, and didn't move.
 
 The peak.
 
@@ -215,7 +288,7 @@ A hundred voices began.
 
 All at once. On the word. A hundred magisters on the old stone saying the same words at the same moment in the old tongue, low, steady, and the sound of it went up off the terrace into the noon like smoke going up from a hundred chimneys on a still day. He'd never heard a many-voice working. Nobody living had. It was like a choir. It was like the sea. It was like a hundred people breathing in.
 
-He knew the words. He'd read them twice on Quell's roll and once on the bird's. *Keep the watch below.* In the old tongue, over and over, round and round, and through it, woven, the hold-words. The ones the bird had shown him in the appendix of the contract, that had gone into him like a hook into a fish. He heard a hundred people say them, and felt them go into the stone.
+He knew the words. He'd read them once on Quell's roll and twice on the bird's. *Keep the watch below.* In the old tongue, over and over, round and round, and through it, woven, the hold-words. The ones the bird had shown him in the appendix of the contract, that had gone into him like a hook into a fish. He heard a hundred people say them, and felt them go into the stone.
 
 The stone answered.
 
@@ -227,7 +300,7 @@ Every lamp on the hill went whiter.
 
 He felt it go out over the lake.
 
-Not see. Feel. A pressure. Going out from the ring on the hill over the dark lower city, over the shore, over the ice, toward the island. Like a held breath. Like the weight in a room before a storm. He felt it in his ears, a pressing, and in his chest, and the four glasses on their stand in front of him didn't move.
+A pressure. Going out from the ring on the hill over the dark lower city, over the shore, over the ice, toward the island. Like a held breath. Like the weight in a room before a storm. He felt it in his ears, a pressing, and in his chest, and the four glasses on their stand in front of him didn't move.
 
 On the lake, the island stopped breathing.
 
@@ -325,7 +398,7 @@ On the Blue College's side. The east side of the crown, where the Blue tower sto
 
 He saw the forefoot come down.
 
-On the tower. Not on purpose, he thought. It was there. It was where the forefoot came down. The Blue tower went under it the way a reed goes under a boot. Down. All of it. The slate and the stone and the covered bridge, folding, falling, with a sound like a cliff coming down into the sea, and a cloud of grey dust going up off the crown of the hill into the noon.
+On the tower. Not on purpose, he thought. It was there. It was where the forefoot came down. The Blue tower went under it as a reed goes under a boot. Down. All of it. The slate and the stone and the covered bridge, folding, falling, with a sound like a cliff coming down into the sea, and a cloud of grey dust going up off the crown of the hill into the noon.
 
 Then it put its head down.
 
@@ -421,7 +494,7 @@ Five days. Perhaps fewer.
 
 He looked down to the shore.
 
-He didn't know why. He looked past the crowds on the steps, down over the white-lit lower city, to the shore. To the old fish-quay, sinking, with its stones rocking. To the shingle beyond the end of it, at the water's edge, where a lion had lain for thirty-six days facing the island.
+He looked past the crowds on the steps, down over the white-lit lower city, to the shore. To the old fish-quay, sinking, with its stones rocking. To the shingle beyond the end of it, at the water's edge, where a lion had lain for thirty-six days facing the island.
 
 The lion was standing.
 

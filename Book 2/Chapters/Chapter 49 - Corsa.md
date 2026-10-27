@@ -9,7 +9,7 @@ Beats: Calder before the Tide Council with the mint-book, and with all three dra
 Echo of the other's story: Trading news on the quay: a Titan in a cage in Kessmoor, and the price of heartstone up threefold.
 Status: first draft
 Draft notes: Days 206–248 (206–231 in summary at the opening; the scene-by-scene action runs 232–248). Decided here (proposals):
-- Days 206–239: Calder goes back up to Varrhold after Hallowmere (days 206–231 at the hold and the caves, told in summary: the Clan's grain going down the Way in wagons; Lisska gone south-west to the Scald on d.228). Aurveth says she'll come to Corsa. She flies on day 232: off the setters' ledge, slow, low, the crooked wing holding; a league at a time with rests on the coast-heads; seven days down the coast with Kharrak beside her; she rests at Skarrow, at the Saltings, at a cape above Gullhaven. Into Corsa day 239.
+- Days 206–239: Calder goes back up to Varrhold after Hallowmere (days 206–231 at the hold and the caves, told in summary: the Clan's grain going down the Way in wagons; Lisska gone south-west to the Scald on d.228). Aurveth says she'll come to Corsa. She flies on day 232: off the setters' ledge, slow, low, the crooked wing holding; a league at a time with rests on the coast-heads; seven days down the coast with Kharrak beside her; she rests at Skarrow, at a cape above Gullhaven, at the Saltings. Into Corsa day 239.
 - Corsa: tall narrow houses with painted shutters up the hillsides round a deep harbour; a chain across the harbour mouth between two towers; every second building a counting-house or a tavern; the **Tidehall** on the harbour front: a great house of grey stone with a copper roof gone green and a balcony over the water where the Council shows itself; the houses' colours on its flagpoles (Marrow blue, Quill white, Strand green, Halloran red and gold, and a dozen captains' rags). Three dragons on the Tidehall's sea-steps at dawn on day 240: the town comes out to look.
 - Lisska in on day 241 at dawn (from the Scald, flight 3) with Maren's letter in oilcloth on her foreleg. Calder reads it himself on the sea-steps: five lines. *The cage holds. It eats beasts.* He reads that line three times. Lisska (tired, thin) tells him the cage, the egg going into the beast's back, three lions on three banks, a woman counting to nineteen.
 - Day 242 the Council in the Tidehall's great room (a long table of black wood under a painted ceiling of ships; forty seats, houses at the top, captains at the bottom): the Speaker, **Mistress Orla Marrow** (sixties, broad, blue silk, salt-grey hair in a net); the Halloran member, **Master Brand Halloran** (old, pale, very still); Rusk standing behind his chair. Calder lays the red mint-book on the table and opens it at the page Brask read: *The Varr boy at the ford*... and *The companies at Ashford: a chest, up the Wend, at every new moon.* The Council's clerks read it aloud, one line at a time. The other houses see a rival's throat. Marrow: "A house of this Council has paid for a war in a neighbour's kingdom, out of the Council's own mint, under the Council's own licence, without the Council's leave." The vote: the Halloran licence to strike the ship-and-wave revoked; the Halloran seat struck; the Halloran warehouses and ships at Corsa and Wendmouth seized for the Council. **The pay-chests stop**: no more silver up the Wend.
@@ -46,7 +46,7 @@ Off the setters' ledge on the two-hundred-and-thirty-second day, with the whole 
 
 He went after her on Kharrak.
 
-A league at a time. She'd fly a league and come down on a hill, or a cape, or a beach, and lie with her wings spread out on the ground and her sides going in and out. Then up again. A league. Down. Seven days down the coast. They rested at Skarrow, at the Brack steading, where old Orm Garrick came out and stood looking at her with his hat in his hands. They rested on the Saltings, on a hummock of salt grass between the channels, with the wading birds all round them. They rested on a cape above Gullhaven where the wind came straight off the sea.
+A league at a time. She'd fly a league and come down on a hill, or a cape, or a beach, and lie with her wings spread out on the ground and her sides going in and out. Then up again. A league. Down. Seven days down the coast. They rested at Skarrow, at the Brack steading, where old Orm Garrick came out and stood looking at her with his hat in his hands. They rested on a cape above Gullhaven where the wind came straight off the sea. They rested on the Saltings, on a hummock of salt grass between the channels, with the wading birds all round them.
 
 Kharrak flew beside her the whole way. Close. Off her crooked side. He didn't say anything about it. He didn't complain once. Calder had never known him go seven days without complaining.
 
@@ -92,7 +92,7 @@ Salt. He saw it go. Grey, coarse, scattered on the harbour.
 
 Lisska came in the next morning.
 
-He felt her before he saw her. A long way off, small, at the back of his head. Tired. So tired. And then nearer. He went up onto the Tidehall's roof, onto the green copper, to watch for her, and she came in over the eastern headland low over the sea, labouring, and came down on the roof beside him with a thump and lay there.
+He felt her before he saw her. A long way off, small, at the back of his head. Tired. So tired. And then nearer. He went up onto the Tidehall's roof, onto the green copper, to watch for her, and she came in over the western headland low over the sea, labouring, and came down on the roof beside him with a thump and lay there.
 
 Thin. Thinner than when she'd left. He could see her ribs.
 
@@ -300,45 +300,23 @@ He was wrong about that, he'd think later. But that was later.
 
 They asked him onto the balcony the next day.
 
-Mistress Marrow. The woman in white, who was the Quill house's member. The man in green, the Strand house's. They stood on the balcony of the Tidehall over the sea-steps, with the three dragons below them and the whole harbour watching, and Mistress Marrow smiled at him as if they'd known each other a long time.
+Mistress Marrow. The woman in white, who was the Quill house's member. The man in green, the Strand house's. They stood over the sea-steps with the three dragons below them and the whole harbour watching.
 
-"The Council is grateful," she said.
+"The Council's price on your head is lifted," said Mistress Marrow. "In Saltreach. From today. Hearthmere's is Hearthmere's affair."
 
-"You've said."
+"And there's a contract," said the man in green. He had a soft voice, like a man selling a horse. "Your three dragons, on the Council's account. For whatever the next beast is. A hundred silver a month. Each. And a house on the hill."
 
-"The Council would like to show it." She folded her hands on the balcony's rail. "The Council's price on your head is lifted. In Saltreach. From today. Hearthmere's is Hearthmere's affair." She looked down at the dragons. "And the Council would like to offer you a contract."
+"There's always a next beast, Master Fenn," said Mistress Marrow.
 
----
-
-He'd known it was coming. Ada had told him that too. *They'll want them. Everyone wants them. Every one of them will want them.*
-
-"A contract," he said.
-
-"Your three dragons, on the Council's account." The man in green said it. He had a soft voice, like a man selling a horse. "For whatever the next beast is. A hundred silver a month. Each. And a house on the hill. Any house you like."
-
-"Whatever the next beast is."
-
-"There's always a next beast, Master Fenn," said Mistress Marrow. "There's a thing in Kessmoor in a ring of iron. There's a thing that took a lake at Vael. There's the great one, that's going round them all." She looked at him. "Something will come up out of the ground somewhere near Saltreach one day. Or out of the sea. The Council would like to have three dragons on its account when it does."
-
-He looked down at the sea-steps. At Kharrak, with his chin on the step. At Aurveth, with her head up, looking at the balcony. At Lisska on the copper roof above, a small green shape against the sky.
-
-"No," he said.
-
----
-
-"No?"
+He looked down at Kharrak, with his chin on the step. At Aurveth, with her head up, looking at the balcony. At Lisska on the copper roof above.
 
 "I'm not for hire," said Calder. "They're not mine to hire out."
 
-The man in green laughed, softly, as if Calder had made a joke.
-
-Mistress Marrow didn't laugh. She looked at him for a long time with her square calm face.
-
-"Everyone in Corsa is for hire, Master Fenn," she said. "Only the price differs."
+"Everyone in Corsa is for hire, Master Fenn," said Mistress Marrow. "Only the price differs."
 
 "Then I've not got one," said Calder.
 
-He went down off the balcony and down the stairs and out onto the sea-steps, and sat down on the bottom step between Kharrak's forefeet, and nobody followed him.
+He went down off the balcony and out onto the sea-steps, and sat down on the bottom step between Kharrak's forefeet, and nobody followed him.
 
 ---
 

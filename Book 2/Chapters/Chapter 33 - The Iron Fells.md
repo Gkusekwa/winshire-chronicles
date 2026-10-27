@@ -11,20 +11,20 @@ Status: first draft
 Draft notes: Day 131 to day 150. Decided here (proposals):
 - Days 131–135: north from the coast over the scrub and the hills on Kharrak; the Iron Fells come up: a long range running south-east from the High Crown between Kessmoor and Isvaren, steep, grey, iron-stained red in the gullies, snow along the tops in summer. Mines and spoil heaps on the Kessmoor side; goat-herders' shielings on the Isvaren side. Calder doesn't know where in the Fells a library is; Lisska says the colleges are on the far side, north-west, by a lake.
 - Days 136–140: searching the passes from the air, high, at dawn and dusk; Kharrak lying up by day in corries. Day 140 Lisska ranges north along the snow-line alone (seen from the Library's window, ch 32) and drops into a valley, and finds it.
-- Day 141: the camp, in a high pass on the Isvaren side of the Fells, a day's flight north-east of Vael: a bowl under a cornice, a dozen tents, a rope corral, fires; twenty hunters in plain coats; four binders; honey-smoke pots kept smouldering on a hearth day and night, the smoke led along the ground to the four young dragons on chains, by a trench; the two wyverns in their six-dot collars on a ledge above. The four: the big bronze, the black, the two reds; collared, chained, empty-eyed, lying in the smoke. Calder watches from a ridge with Lisska. Two dragons and a man can't take twenty men and four binders and two wyverns and four bound dragons in a smoke-filled bowl; the smoke would have Lisska off her rope again.
+- Day 141: the camp, in a high pass on the Isvaren side of the Fells, a few hours' flight south-east of Vael and six days on foot by the cornice pass: a bowl under a cornice, a dozen tents, a rope corral, fires; twenty hunters in plain coats; four binders; honey-smoke pots kept smouldering on a hearth day and night, the smoke led along the ground to the four young dragons on chains, by a trench; the two wyverns in their six-dot collars on a ledge above. The four: the big bronze, the black, the two reds; collared, chained, empty-eyed, lying in the smoke. Calder watches from a ridge with Lisska. Two dragons and a man can't take twenty men and four binders and two wyverns and four bound dragons in a smoke-filled bowl; the smoke would have Lisska off her rope again.
 - Day 143, dusk: Lisska's kin-voice. Dragons speak as kin within sight (Ruling 5). She creeps along the ridge to where she can see the smaller red, the youngest, a female, a yearling hardly bigger than Lisska was, and calls to her, not words, the kin-call, the ledges' call a mother dragon gives a hatchling. For one breath the young red lifts her head and her eyes are her own and she looks straight at the ridge. Then the smoke goes over her and a binder's hand comes down and she's empty again. Lisska comes back shaking: *She heard me. She heard me. For one breath.* (The same young red wakes at 38.)
 - Day 145: a summer storm on the tops: sleet, then snow, a white-out for a night. In the morning, below the pass on the Isvaren side, in a gully, a boy: a goat-herd of twelve, half-dead of cold, in a sheepskin coat, with frost in his hair. Tasso, he'll say later. The hunters took him from his shieling a fortnight ago to guide them over the pass, and when the storm came he ran, and got lost, and lay down.
 - The casting: he's dying of cold: blue-lipped, not shivering. No fire possible in the wind. Calder kneels in the snow with both hands flat on the boy's chest and says Ada's hearth-word, the word for warming that she said over kindling every night of his life: two fingers, three turns; he has no kindling, he uses his palms. And Kharrak, behind him, puts his great head down over Calder's shoulders, and the red heat comes down the bond into him, into his hands, into the word. It takes too hard. The boy's sheepskin coat smoulders under Calder's palms, smoke coming off the fleece, and Calder's palms blister, and he doesn't take his hands away until the boy's chest heaves and he coughs and cries. The boy lives. Calder's palms are raw for a week; he wraps them in strips of his shirt.
-- Tasso, when he can talk (Isvaren hill-talk; Calder can follow some): the hunters are waiting. For a word from the city. For "when the hill burns all through". Their captain says they're going to the library, to a bird, "for a paper". They have a Saltreach drawer with them who doesn't speak, and four pots of smoke kept going for the dragons, and they've been there twenty days.
+- Tasso, when he can talk (Isvaren hill-talk; Calder can follow some): the hunters are waiting. For a word from the city. For "when the hill burns all through". Their captain says they're going to the library, to a bird, "for a paper". They have a Saltreach drawer with them who doesn't speak, and four pots of smoke kept going for the dragons, and they've been there a fortnight.
 - Days 146–149: Calder takes the boy down to his family's shieling on the Isvaren side, two valleys over, on Kharrak, the boy screaming with joy the whole way. His mother gives Calder goat's cheese and doesn't ask anything.
-- Night 149, the echo: back on the ridge over the pass, at night, Calder looks north-west down the long valley toward Vael, a day off. He can see it: a lake, faintly, and a hill above it, lit white, the whole hill, every light on it white and cold, over a lower city that's dark; brown pinpricks, almost nothing. Lisska: *Like the hill's on fire. Cold fire.* "When the hill burns all through," says Calder.
+- Night 149, the echo: back on the ridge over the pass, at night, Calder looks north-west down the long valley toward Vael, six days off on foot. He can see it: a lake, faintly, and a hill above it, lit white, the whole hill, every light on it white and cold, over a lower city that's dark; brown pinpricks, almost nothing. Lisska: *Like the hill's on fire. Cold fire.* "When the hill burns all through," says Calder.
 - Day 150: he decides: he can't take the camp. He'll watch it, and follow it when it moves, and get to the library first if he can. Tasso has told him of the star-tower on the peak to the west, Starwatch, six hundred steps, where the colleges' sky-watchers live: you can see the whole of Vael from it. He'll go there.
-Magic touches: the Fells' live ground; honey-smoke kept on bound dragons day and night; Lisska's kin-voice within sight; Ada's hearth-word with Kharrak's heat (Magic §10a: touch range; it takes too hard: coat smoulders, palms blister); the stir at Vael seen from a day off.
+Magic touches: the Fells' live ground; honey-smoke kept on bound dragons day and night; Lisska's kin-voice within sight; Ada's hearth-word with Kharrak's heat (Magic §10a: touch range; it takes too hard: coat smoulders, palms blister); the stir at Vael seen from far off.
 notes -->
 
 ---
 
-The Iron Fells came up out of the south on the hundred-and-thirty-fifth day, and he'd never seen mountains like them.
+The Iron Fells came up out of the north on the hundred-and-thirty-fifth day, and he'd never seen mountains like them.
 
 He'd thought the Scarfell was high. He'd thought the fells above Coldtarn were high, with snow in the gullies into spring. These were something else. A long grey wall, running away north-west and south-east along the whole of the sky, steep, broken, the rock of them not grey all through but stained in the gullies a deep rust-red, as if they'd bled. And snow. Along the tops, in high summer, white, so bright against the blue it hurt to look.
 
@@ -90,7 +90,7 @@ She came back after dark. Low and slow and shaking.
 
 ---
 
-The camp was in a high pass on the Isvaren side of the Fells, a day's flight north-east of the lake.
+The camp was in a high pass on the Isvaren side of the Fells, a few hours' flight south-east of the lake, six days by the cornice pass on foot.
 
 He saw it at dawn on the hundred-and-forty-first day from a ridge above it, lying on his belly in the snow with Lisska beside him and Kharrak a quarter-league back in a gully, out of sight.
 
@@ -212,7 +212,7 @@ Lisska went up to look at the camp. She came back fast.
 
 He was in a gully below the pass, on the Isvaren side, a quarter-league from the camp.
 
-Lying in the snow. Curled up, the way you curl in a bed. A boy of twelve, perhaps, in a sheepskin coat with the fleece turned in, and sheepskin leggings, and no hat. There was frost in his hair. White. His face was grey-blue, and his lips were blue, and he wasn't shivering.
+Lying in the snow. Curled up, as you curl in a bed. A boy of twelve, perhaps, in a sheepskin coat with the fleece turned in, and sheepskin leggings, and no hat. There was frost in his hair. White. His face was grey-blue, and his lips were blue, and he wasn't shivering.
 
 Calder had seen it before. On the Scarfell, in the winter of the bad snows, when he was a boy himself. A shepherd from Ewe Hollow they'd found in a drift after three days, curled up just like that, not shivering. His father had said: when they stop shivering, it's bad. When they stop shivering, they've stopped fighting it.
 
@@ -306,7 +306,7 @@ His palms were raw for a week.
 
 He tore strips off the tail of his shirt and wrapped them, there in the gully, with the boy shivering in his arms inside his own coat. Lisska lay down against the boy's other side, close, and the boy put his frozen hands on her green scales and stopped screaming and stared at her.
 
-Then he started to cry, the ordinary way, and didn't stop for a long time.
+Then he started to cry, the ordinary way, and didn't stop.
 
 ---
 
@@ -330,7 +330,7 @@ When the storm came he'd run. In the white-out, in the night. He'd thought he kn
 
 The boy looked at him.
 
-"They're waiting," said Calder. "Twenty days, you said. In that bowl. With the pots going. Waiting for what?"
+"They're waiting," said Calder. "A fortnight, you said. In that bowl. With the pots going. Waiting for what?"
 
 Tasso thought about it.
 
@@ -364,7 +364,7 @@ The shieling was a turf-roofed hut in a green bowl with a beck and a hundred goa
 
 She dropped the pail.
 
-Tasso slid off Kharrak's neck and ran to her through the goats. She went down on her knees in the turf and held him. She didn't look at the dragon. She didn't look at Calder. She held the boy for a long time with her face in his hair.
+Tasso slid off Kharrak's neck and ran to her through the goats. She went down on her knees in the turf and held him. She didn't look at the dragon. She didn't look at Calder. She held the boy with her face in his hair.
 
 Then she got up and went into the hut and came out with a whole goat's cheese wrapped in a cloth, and walked across the turf to Calder, and put it into his bandaged hands, and went back to her son.
 
@@ -376,7 +376,7 @@ He thought he'd remember her face for the rest of his life, and he never learned
 
 He went back up to the ridge on the hundred-and-forty-ninth day, and at night he looked north-west.
 
-He hadn't looked before. He'd been looking down into the bowl, at the camp, at the four in the smoke. That night he turned round on the ridge with the stars very close and the cold coming up off the snow and looked the other way. Down the long valley that went away from the pass north-west, between the mountains, a day's flight. Toward the lake Lisska said was there.
+He hadn't looked before. He'd been looking down into the bowl, at the camp, at the four in the smoke. That night he turned round on the ridge with the stars very close and the cold coming up off the snow and looked the other way. Down the long valley that went away from the pass north-west, between the mountains, six days on foot. Toward the lake Lisska said was there.
 
 He could see it.
 
@@ -384,17 +384,17 @@ Far off. Very small. A faint pale gleam at the bottom of the night, where the va
 
 And above the lake, a hill. Lit.
 
-The whole hill. White. Every light on it, every pinprick of it, from the top of the hill to a line a third of the way down: white, cold, bright, so bright that from a day off he could see the shape of the hill against the dark by its lights alone. Like a lantern. Like a hill made of ice with a fire inside it.
+The whole hill. White. Every light on it, every pinprick of it, from the top of the hill nearly to the water: white, cold, bright, so bright that from so far off he could see the shape of the hill against the dark by its lights alone. Like a lantern. Like a hill made of ice with a fire inside it.
 
-And below the line, at the foot of the hill, by the water, where there must be streets and houses and people: almost nothing. A few brown pinpricks. Dim, guttering, so faint he had to look away and look back to be sure they were there. As if somebody had put a hand over the bottom of the city and was squeezing the light out of it.
+And along the shore, at the very foot of the hill, where there must be streets and houses and people: almost nothing. A few brown pinpricks. Dim, guttering, so faint he had to look away and look back to be sure they were there. As if somebody had put a hand over the bottom of the city and was squeezing the light out of it.
 
-*Like the hill's on fire,* said Lisska, beside him. *Cold fire. The top of it.* She was quiet. *And the bottom's gone out.*
+*Like the hill's on fire,* said Lisska, beside him. *Cold fire. All of it. Nearly.* She was quiet. *And the bottom's gone out.*
 
 He looked at it a long time.
 
 "When the hill burns all through," he said.
 
-Lisska didn't answer. She lay beside him on the ridge in the snow and looked at the white hill a day off, and he felt her think of the young red in the smoke in the bowl behind them, who'd lifted her head for one breath and looked at her as if she were her mother.
+Lisska didn't answer. She lay beside him on the ridge in the snow and looked at the white hill far off, and he felt her think of the young red in the smoke in the bowl behind them, who'd lifted her head for one breath and looked at her as if she were her mother.
 
 ---
 

@@ -6,21 +6,21 @@ Part: Part Five: The Sun Stair
 Days: 291–300 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Blackwater
 Beats: Calder, with Gunna Tarne and Tamsin and six riders of the ledges, comes down on the smugglers' town where Corvin's binders keep the other three stolen dragons. They fight in honey-smoke again; this time the riders have wet cloths over their dragons' nostrils, Gunna's idea. Lisska's kin-voice and the strike of a collar-pin bring two back to the edge of themselves. The binders kill the third rather than lose it. The captured binders say Corvin has a buyer at Solenne. That night Calder sends Lisska west with a letter (**flight 5**).
-Echo of the other's story: Rumour on the quay: in Sarovel they're painting a lion on the gates.
+Echo of the other's story: Rumour on the quay, old news by sea: a lion at the Scald held up the ground three times over while the iron cage shut.
 Status: first draft
 Draft notes: Days 291–300. Decided here (proposals):
 - How he knows: day 291 a letter from **Brask** (in Wendmouth since the Halloran fall, working for the Council's men clearing the seized Halloran warehouses) by a Clan rider coming up the Way: one of the seized Halloran ships' logs shows three young dragons, bound, brought in from Solenne by sea on day 268 and landed at **Blackwater**, to be held for "the gentleman's buyer". So the three flew south with the case (ch 47), gave the case to Corvin at Solenne, and were shipped east again to be kept out of sight till sold.
 - Day 292 Calder stops at Greyhold landing on the way south-east to Blackwater (the Clan's grain wagons are there): Liss on the ferry (mended, new rope); she asks if he's writing to Maren; tells him to put at the bottom: *Liss says come home.* Two words, really: she makes him write *come home* and her name. (Ch 57.)
-- Who goes: Calder on Kharrak, Lisska; **Gunna Tarne** on **Tamsin** (312 years old, dun-gold, slow, sure); six riders of the ledges (Harl among them, on Hulda Sarr's dragon; Leif and his young brown left at home). Aurveth stays (Gullhaven practice is Arn's; ch 59).
+- Who goes: Calder on Kharrak, Lisska; **Gunna Tarne** on **Tamsin** (312 years old, grey-green, slow, sure); six riders of the ledges (old Brede among them, on his blue; Leif and his young brown left at home). Aurveth stays (Gullhaven practice is Arn's; ch 59).
 - **Blackwater** (day 296, dusk from the air): a dark-water inlet under the southern tail of the Worldsend, steep black cliffs, black water stained by the peat-streams off the mountains, a town of tarred wooden houses on stilts round the inlet's head, a dozen smugglers' ships, sellswords' fires on the beach, no lights on the headland (no harbour-master, no toll). The dragons are kept in a boathouse on the north shore: a great tarred shed over the water with an open sea-door, honey-smoke going up from its roof-vents; four binders and a dozen hired men; no drawer (the coast drawer from the Fells is in Sarovel with Corvin).
 - **Gunna's idea**: she's thought about the Roosts' night and the Library hill all winter: wet cloths over the dragons' nostrils, tied on with straps behind the jaw, and over the riders' faces; soaked in seawater, then vinegar from the town's own pickling-sheds (they buy a barrel at a fishing village up the coast). Dragons hate it; it works: the sweetness comes through thin.
 - Dawn 297: down on the boathouse from the landward side; the binders light every pot and the hired men throw burning honey-cakes off the roof into the wind; the smoke rolls out over the water. Through the wet cloths the riders feel it as a far-off sweetness, a tug, not a drowning. Kharrak rips the boathouse roof off (he enjoys it); Tamsin sits on the sea-door so nothing gets out by water.
-- Inside, on the floor of the shed above the water, three young dragons on chains: the bronze, the black, the two-year-old red. A binder at each head. Lisska above the hole in the roof with her cloth off (she has to sing) gives the ledges' mother-hum; she feels the smoke and keeps singing. The black lifts its head; the binder presses; Calder jumps down off Kharrak onto the shed floor and drives the black's collar-pin out with Rook's knife and his palm (as at Vael); the black's eyes come to the edge of itself, don't come through. The two-year-old red the same: Harl does it, with a smith's punch Gunna brought. 
+- Inside, on the floor of the shed above the water, three young dragons on chains: the bronze, the black, the two-year-old red. A binder at each head. Lisska above the hole in the roof with her cloth off (she has to sing) gives the ledges' mother-hum; she feels the smoke and keeps singing. The black lifts its head; the binder presses; Calder jumps down off Kharrak onto the shed floor and drives the black's collar-pin out with Rook's knife and his palm (as at Vael); the black's eyes come to the edge of itself, don't come through. The two-year-old red the same: Brede does it, with a smith's punch Gunna brought. 
 - **The bronze**: its binder, a thin man with a pot-burned face, sees it's going; he has a long knife; he puts it into the soft place under the bronze's jaw where the plates don't meet, and leans on it. The bronze doesn't make a sound. Bound beasts don't. It goes down on the boards. "If I can't have it, you can't." The binder is knocked into the water by Tamsin's tail and pulled out alive by the hired men, who then throw down their weapons.
 - Captured: three binders alive (one drowned), eight hired men. The pot-burned one talks, at the fire on the beach, at night, with Gunna's hand on Tamsin's neck behind him: the dragons were for **a buyer at Solenne**; the gentleman (Corvin) is at the Bond-King's court; he's selling the Clan's young dragons to Sarovel's court for its beast-lords; the price was to pay for something else. He doesn't know what. "He's always paying for something else."
 - The bronze burned on the beach at dusk; the Blackwater folk watch from their stilt-houses; nobody comes near.
-- Echo, day 299 on the quay: a Sarovel wine-trader's crew, unloading: in Solenne they're painting a lion on the gates; at every stage-house on the Sun Road; for the Lady of the Lion, who came in at the servants' gate. Calder thinks: of course she did.
-- Night 300 Calder sends Lisska west with a letter (flight 5): a page this time, his hand, better: Blackwater, the two, the bronze, the buyer at Solenne; and at the bottom, in his biggest letters, Liss's two words: *LISS SAYS COME HOME.* Lisska leaves at dawn 300 toward Sarovel; the two young ones and Harl go home to the caves with Gunna.
+- Echo, day 299 on the quay: a Sarovel wine-trader's crew, unloading, with old news: at the Scald in Kessmoor a lion bigger than a house held up the ground on three banks at once, three of him, while the iron men's cage shut; and a lowland woman with it, gone south since. Calder thinks: that's her.
+- Night 299 Calder writes; dawn 300 Lisska goes west with the letter (flight 5): a page this time, his hand, better: Blackwater, the two, the bronze, the buyer at Solenne; and at the bottom, in his biggest letters, Liss's two words: *LISS SAYS COME HOME.* Lisska leaves at dawn 300 toward Sarovel; the two young ones and Brede go home to the caves with Gunna.
 Magic touches: honey-smoke against wet vinegar cloths; kin-voice within sight; collar-pins struck (Magic §6.5: break the binding: drive off the binder, strike the collar, let the beast come back slowly); a binder killing his beast (no shared life: the binder lives).
 notes -->
 
@@ -66,7 +66,7 @@ He hadn't asked. He'd gone up to the caves to tell Wren he'd be gone a fortnight
 
 "How did you know?"
 
-"Harl told me. Ada told Harl." She stroked Tamsin's long dun-gold jaw. "I'm coming. So's she. So are six of the ledges. I've asked them."
+"Brede told me. Ada told Brede." She stroked Tamsin's long grey-green jaw. "I'm coming. So's she. So are six of the ledges. I've asked them."
 
 "Gunna..."
 
@@ -108,7 +108,7 @@ It was mended. New boards in its back where the jetty had stove it in. The new r
 
 "Blackwater."
 
-She didn't ask why. She looked at Gunna, and at the old dun-gold dragon, and at the six riders of the ledges coming down behind, and at the buckets of linen cloths on their saddles.
+She didn't ask why. She looked at Gunna, and at the old grey-green dragon, and at the six riders of the ledges coming down behind, and at the buckets of linen cloths on their saddles.
 
 "Are you writing to her?" she said.
 
@@ -240,7 +240,7 @@ He'd been wanting to. Calder could feel it. Since Starwatch. Since the guardhous
 
 Tamsin went down on the sea-door.
 
-Slowly. Heavily. The old dun-gold dragon, three hundred and twelve years old, settled down across the great open boat-door on the water side of the shed like a hen on a nest, filling it, so that nothing could get out by water. She lay there with her wet cloth on her nose and her eyes half shut and didn't move again until it was over.
+Slowly. Heavily. The old grey-green dragon, three hundred and twelve years old, settled down across the great open boat-door on the water side of the shed like a hen on a nest, filling it, so that nothing could get out by water. She lay there with her wet cloth on her nose and her eyes half shut and didn't move again until it was over.
 
 ---
 
@@ -288,7 +288,7 @@ The binder looked at him. A heavy man. Startled.
 
 Calder hit him.
 
-He didn't think about it. He hit him the way he'd hit a ram that had gone for Wren once in the top field, with his whole weight behind his shoulder, and the binder went backwards off the black's head and into a honey-pot, which went over, and he rolled in the hot coals screaming.
+He didn't think about it. He hit him as he'd hit a ram that had gone for Wren once in the top field, with his whole weight behind his shoulder, and the binder went backwards off the black's head and into a honey-pot, which went over, and he rolled in the hot coals screaming.
 
 ---
 
@@ -314,11 +314,11 @@ But there.
 
 ---
 
-"The red!" Gunna was shouting. From above, on Tamsin, through her rag. "Harl! The red!"
+"The red!" Gunna was shouting. From above, on Tamsin, through her rag. "Brede! The red!"
 
-Harl was already down. Off his dragon's neck into the shed, through the side of the roof Kharrak had torn open, with a smith's punch in one hand and a hammer in the other that Gunna had brought from the hold's forge. The red's binder saw him coming and let go of the red's head and ran. Out along the plank floor toward the landward door, past Calder, and Calder put his foot out, and the binder went down on his face.
+Brede was already down. Off his blue's neck into the shed, through the side of the roof Kharrak had torn open, with a smith's punch in one hand and a hammer in the other that Gunna had brought from the hold's forge. The red's binder saw him coming and let go of the red's head and ran. Out along the plank floor toward the landward door, past Calder, and Calder put his foot out, and the binder went down on his face.
 
-Harl knelt at the red's head. Set the punch to the pin. Struck.
+Brede knelt at the red's head. Set the punch to the pin. Struck.
 
 Once.
 
@@ -334,7 +334,7 @@ But there.
 
 The bronze's binder saw it going.
 
-Calder saw him see it. A thin man with a face burned by pots, scarred red down one cheek. Standing at the bronze's head with his hand on it, looking at the black and the red with their collars off and their eyes coming up from the bottom of themselves. Looking at Lisska in the smoke above, singing. At Calder. At Harl with the punch.
+Calder saw him see it. A thin man with a face burned by pots, scarred red down one cheek. Standing at the bronze's head with his hand on it, looking at the black and the red with their collars off and their eyes coming up from the bottom of themselves. Looking at Lisska in the smoke above, singing. At Calder. At Brede with the punch.
 
 He took his hand off the bronze's head.
 
@@ -360,7 +360,7 @@ From the sea-door. The old dragon didn't get up. She didn't even open her eyes p
 
 The hired men on the shingle pulled him out. Alive.
 
-Then they looked up at the dragons over the shed. At the red one standing on the ruins of the roof with a wet rag on his nose. At the old dun-gold one lying across the sea-door. At the six riders of the ledges coming round over the water in a long line.
+Then they looked up at the dragons over the shed. At the red one standing on the ruins of the roof with a wet rag on his nose. At the old grey-green one lying across the sea-door. At the six riders of the ledges coming round over the water in a long line.
 
 They threw their weapons down on the shingle.
 
@@ -402,7 +402,7 @@ At the fire on the beach, at dusk, with his arms tied behind him and his wet clo
 
 The binder looked at the fire.
 
-"Corvin," he said. "He's at the court. At Solenne. The Bond-King gives him dinner." He spat. "He's selling them. To Sarovel's court. To the beast-lords at Highcrest, who'd pay anything for a dragon. The Clan's dragons. Young. Bound already." He shrugged against his ropes. "The price was to pay for something else."
+"Corvin," he said. "He's at the court. At Solenne. The Bond-King gives him dinner." He spat. "He's selling them. To Sarovel's court. To the beast-lords at Highcrest, who'd pay anything for a dragon. The Clan's dragons. Young. Bound already." He shrugged against his ropes. "The court won't have them in Sarovel till the price is paid. The Bond-King doesn't keep what he hasn't bought. So they wait where nobody asks." He looked at the fire. "The price was to pay for something else."
 
 "What?"
 
@@ -428,19 +428,19 @@ The trader's crew were unloading on the quay on the two-hundred-and-ninety-ninth
 
 A Sarovel ship, in for water, with wine. He'd gone down to the town's one jetty to see about food for the dragons, and a gang of sailors were rolling casks off it onto the planks, and talking, loudly, in the common tongue with a Sarovel lilt.
 
-"...a lion," one was saying. "Painted. On the gates. On the Sun Road gate at Solenne, and at every stage-house up the road, they say. Gold paint. A lion with a mane like rocks."
+"...a lion," one was saying. "In Kessmoor. At the burned place they've got up there, the Scald. A lion bigger than a house, with a mane like rocks."
 
 "What for?"
 
-"For the Lady." The sailor heaved a cask. "The Lady of the Lion. Came down the Sun Road from the north with a lion bigger than a house. And they all knelt to her at every stage. And she wouldn't have it." He laughed. "Went in at the servants' gate. Every time. With some skinny lad nobody'd bonded. Every stage."
+"Holding the ground up." The sailor heaved a cask. "Three banks of it, all coming down at once, and the iron men shutting their cage under it. And the lion held all three. Three of him, they say. One on each."
 
 "Never."
 
-"Every stage," said the sailor. "The unchosen are painting her lion on their doors now. In the low quarter. In gold, if they can get it. In mud if they can't."
+"Three of him," said the sailor. "And a lowland woman with him, that wouldn't let the iron men thank her. Gone south since, they say."
 
 Calder stood on the jetty with his hands in his pockets.
 
-*Of course she did,* he thought.
+*That's her,* he thought.
 
 ---
 
@@ -480,8 +480,8 @@ She held out her foreleg and he tied the letter on. In oilcloth. With string.
 
 "In Sarovel. At Solenne. Or somewhere near it."
 
-*There's a lion on the gates,* said Lisska. *I'll find her.*
+*There's a lion bigger than a house with her,* said Lisska. *I'll find her.*
 
 She went up off the shingle into the grey morning and turned west, out along the coast, toward the sun that wasn't up yet, small and green and quick, and he watched her go until he couldn't.
 
-Gunna was already seeing to the black and the red, for Harl and two of the riders to bring home slowly up the coast to the caves, a few leagues a day, flying low, with rests.
+Gunna was already seeing to the black and the red, for Brede and two of the riders to bring home slowly up the coast to the caves, a few leagues a day, flying low, with rests.

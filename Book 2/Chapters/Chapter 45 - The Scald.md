@@ -16,9 +16,9 @@ Draft notes: Days 230–235. Decided here (proposals):
 - Echo, day 232 dusk: Lisska in over the glass from the east (flight 3), low, landing on the north-quarter tower's rail, thin and tired; she can speak to Orrun as kin when she's here, and Orrun gives Maren what she says: the farmer stood in Hallowmere's square with the red one and Lisska; he read his own paper to the council and the crowd; a knight spoke for him; the river folk aren't to be driven out any more. They still want his head. Lisska stays (she's to carry Maren's answer back after: ch 48).
 - Day 233 noon (Idony's week; he names the day at dawn on 232): the Titan stands up on the glass and puts its head down to it between its forepaws; the fused glass of the basin cracks outward from it in rings and breaks; it goes down into the broken glass to its shoulders; something under the basin, a long way down, gives. It comes up with the egg in its jaws: grey stone, as big as a cart-wheel's hub, carved (she can't see with what). It lifts it, then turns its head back over its shoulder and lays the egg among the plates on its back, between the wings, and the plate there opens and closes over it like water over a dropped stone, and is plate again. Then it goes up, west, low over the cordon (the cordon men lie flat), out over the moor toward the Western Deep.
 - The surge comes up as the Bleed at dusk on 233: out of the cracks in the basin, out of every ditch, hot, shimmering, smelling of forge; the green lamps on the canals flare white; the cordon men's gauges' needles bend on their pins; the chilled canals smoke harder.
-- The labourers: Pike's crews (forty men) clearing the outer ditch and the inner ditch at the east quarter where the last carts come in. The Bleed comes up in the ditches round them, warm then hot; they go strange: laughing; one starts digging with his hands; two lie down in the water; one walks along the ditch-bottom toward the chilled canal singing. Orrin's madness (Magic §7), in small.
+- The labourers: Pike's crews (fifty men; some come up when the Titan stands) clearing the outer ditch and the inner ditch at the east quarter, where the Iron Road goes out toward the border and the spoil carts are tipped. The Bleed comes up in the ditches round them, warm then hot; they go strange: laughing; one starts digging with his hands; two lie down in the water; one walks along the ditch-bottom toward the chilled canal singing. Orrin's madness (Magic §7), in small.
 - Tobin walks in at the east gate in the middle of it, out of the dark from the Hearthmere side: thin, all bones and eyes, a grey coat in rags, no ring (a pale band on his finger, like Idony's), boots tied with string. He followed the stories: a knight with a lion, from Millbrook to the Ring to Vael to "the iron place". "You said you'd come and find us. When they threw me out. You didn't. So I came and found you." (He means Book 1 ch 57's line, turned round.)
-- Getting them out: Maren and Tobin go down into the ditch with ropes; Orrun lies along the ditch's lip and lifts the earth of the ditch-floor under each man so he's pushed up the side (bond-shaping, works on dead ground and in the surge both); Tobin talks to them (he talks to everyone; it keeps them listening); Maren gets the rope round them and Orrun's earth lifts them out. Eleven out of the inner ditch, twenty-six out of the outer; three found dead in the water. Pike's crews tied to the iron rail of the gatehouse till morning, raving; by the third day most are quiet, two never are.
+- Getting them out: Maren and Tobin go down into the ditch with ropes; Orrun lies along the ditch's lip and lifts the earth of the ditch-floor under each man so he's pushed up the side (bond-shaping, works on dead ground and in the surge both); Tobin talks to them (he talks to everyone; it keeps them listening); Maren gets the rope round them and Orrun's earth lifts them out. Eleven out of the inner ditch, twenty-six out of the outer; three found dead in the water. Three can walk; the other thirty-four are tied to the iron rail of the gatehouse till morning, raving; by the third day most are quiet, two never are.
 - Days 234–235: the Bleed still rising; Idony's glasses say the waking within five days, likely three (ch 47); the cage still open. Maren and Tobin sit on the bank; Tobin tells her Hearthmere: Millbrook rebuilt half, the Downs burning, Rowan holding; his ring went in the river at the Ashford ford in the summer when the companies came through and he saw what they did at a farm.
 Magic touches: the fused glass; glass moths; the chain-ends' runes still feeding and lit at a beast's touch; bond-shaping on dead ground; the sleep relic going into the Titan's back (the relics grown in); the surge as the Bleed; surge-madness; the green lamps flaring white (the alchemical lamps aren't magic, but the surge's heat in the glass does it: Idony says it isn't the lamps, it's the glass round them).
 notes -->
@@ -51,7 +51,7 @@ On the far side of the third canal, the basin.
 
 Idony rode.
 
-She'd made him. He couldn't walk it. A league out across the glass to the middle, and a league back, with his back the way it was and his stick sliding on the smooth places. She'd said she wasn't leaving him at the canal. He'd said he could watch from the canal with the brass glass. She'd said no.
+She'd made him. He couldn't walk it. Half a league out across the glass to the middle, and half a league back, with his back the way it was and his stick sliding on the smooth places. She'd said she wasn't leaving him at the canal. He'd said he could watch from the canal with the brass glass. She'd said no.
 
 So he rode. On Orrun's back, behind the shoulders, where the mane began, with both hands wound in the broken-rock mane and his stick across his knees and the brass glass on a cord round his neck. He sat very straight, or as straight as he could, and held on, and his face was grey.
 
@@ -231,7 +231,7 @@ She was on the outer bank with Orrun. Idony was on the tower with Pike and Moss.
 
 The Titan stood up.
 
-Slowly. On the glass, in the middle of the basin, a league off. Its forelegs first, the chain-ends swinging. Then its hind legs. It stood on the glass with its wings half open and its head up, and turned it once, slowly, round the whole ring of the cordon, as if it were looking at every one of them.
+Slowly. On the glass, in the middle of the basin, half a league off. Its forelegs first, the chain-ends swinging. Then its hind legs. It stood on the glass with its wings half open and its head up, and turned it once, slowly, round the whole ring of the cordon, as if it were looking at every one of them.
 
 Then it put its head down.
 
@@ -267,7 +267,7 @@ Back. Over its own shoulder. The long neck bending round, slowly, until its head
 
 The plate opened.
 
-She saw it. The grey stone of the Titan's back, a plate as big as a cart, opening under the egg. Not like a door. Like water. Like the surface of a pond when you drop a stone into it, going down and round and closing over. The egg went into it, and the plate closed over it, and was plate again.
+She saw it. The grey stone of the Titan's back, a plate as big as a cart, opening under the egg. Like water. Like the surface of a pond when you drop a stone into it, going down and round and closing over. The egg went into it, and the plate closed over it, and was plate again.
 
 Grey. Smooth. As if nothing had been there.
 
@@ -321,7 +321,7 @@ And it came up in the ditches.
 
 The labourers were in the ditches.
 
-Pike's crews. Forty men. At the east quarter, where the Iron Road came in and the carts unloaded, clearing the outer ditch and the inner one, as they'd been doing every day for a week. Digging out the silt. They'd been told to come up when the Titan stood. Some had. Most were still down there, in the ditch-bottoms, with their shovels, when the Bleed came up round them.
+Pike's crews. Fifty men. At the east quarter, where the Iron Road went out toward the border and the spoil carts were tipped, clearing the outer ditch and the inner one, as they'd been doing every day for a week. Digging out the silt. They'd been told to come up when the Titan stood. Some had. Most were still down there, in the ditch-bottoms, with their shovels, when the Bleed came up round them.
 
 She heard the first one laugh.
 
@@ -389,7 +389,7 @@ He went down into the ditch after her and he talked to them.
 
 "You're all right," he said, to the ones lying in the water. "You're lying down. Good. Lie down up there, though. It's drier. It's much nicer up there. Come on."
 
-He kept talking. All of it. Nonsense. She didn't think he knew what he was saying. It didn't matter. They listened to him. They listened to his voice the way a frightened horse listens to a voice, not the words, and while they were listening they didn't run, and she got the rope round them, and Orrun lifted them out.
+He kept talking. All of it. Nonsense. She didn't think he knew what he was saying. It didn't matter. They listened to him. They listened to his voice as a frightened horse listens to a voice, not the words, and while they were listening they didn't run, and she got the rope round them, and Orrun lifted them out.
 
 ---
 
@@ -399,9 +399,9 @@ Then the outer ditch, outside the bank, in the dark, by the light of the white l
 
 Three they found in the water. Face down. Too late.
 
-The cordon men tied the rest to the iron rail of the gatehouse. With their own rope. Thirty-four men tied to a rail in the white lamplight, laughing and crying and singing and talking to people who weren't there. Pike came and stood and looked at them for a long time.
+Three could walk, and sat on the bank with their heads in their hands. The cordon men tied the rest to the iron rail of the gatehouse. With their own rope. Thirty-four men tied to a rail in the white lamplight, laughing and crying and singing and talking to people who weren't there. Pike came and stood and looked at them for a long time.
 
-"Forty years," she said. "My father told me what it looked like." She didn't say anything else.
+"Forty years," she said. "My father told me what it looked like."
 
 By morning some of them had gone quiet. By the third day most of them had. Two never did.
 
@@ -415,7 +415,7 @@ Tobin sat beside her with his arms round his knees.
 
 "How did you get here?" she said.
 
-"Walked." He looked at the lamps. "From Millbrook. In the summer. Down the Downs, and over the dead country, and here." He was quiet. "You're easy to follow. You know that? There's stories about you everywhere. A knight with a lion. The lion holds the stakes at the Ring. The lion's in two places at the Moot. The lion raises a wall at Vael." He almost laughed. "Every inn. Every barge. I just went where the stories went."
+"Walked." He looked at the lamps. "From Millbrook. All the summer and after. Up the Downs and back, and wherever the stories were, and then over the dead country, and here. You're easy to follow. You know that? There's stories about you everywhere. A knight with a lion. The lion holds the stakes at the Ring. The lion's in two places at the Moot. The lion raises a wall at Vael." He almost laughed. "Every inn. Every barge. I just went where the stories went."
 
 She looked at his hand.
 
@@ -429,9 +429,7 @@ He saw her look.
 
 "At the hedge," he said. "In the spring, before the gate. I said to you, *when they throw you out, come and find us.* Meaning us. The ring. As if they'd ever throw you out and keep me." He looked at her. "Well. I threw myself out. So I came and found you."
 
-She didn't say anything for a long time.
-
-"I'm glad," she said.
+"I'm glad," she said, after a while.
 
 It was true. She was surprised how true it was.
 

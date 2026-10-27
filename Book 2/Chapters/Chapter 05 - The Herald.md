@@ -86,7 +86,7 @@ Fisk's boy came over in the morning.
 
 Calder saw the punt coming from the far bank, a little flat eel-punt with one boy standing in the stern poling, the way Fisk's boys had poled across the Wend all their lives, which nobody on the Saltreach side was supposed to do and everybody did. It came in under the landing and the boy threw a rope round a post on the jetty and came up the steps two at a time.
 
-It was Abe, Fisk's youngest. Fourteen, all elbows. He'd rowed over in the night of the gate to tell Wren her father had gone to the Ruin; Wren had told Calder that twice. He stopped at the top of the steps when he saw the lion, and stood there with his mouth open, and the lion opened one pale eye and looked at him and shut it again.
+It was Abe, Fisk's youngest. Fourteen, all elbows. He'd rowed over in the night of the gate to tell Wren her father had gone to the Ruin; Wren had told Calder. He stopped at the top of the steps when he saw the lion, and stood there with his mouth open, and the lion opened one pale eye and looked at him and shut it again.
 
 "It's all right," said Calder. "Come down."
 
@@ -130,7 +130,7 @@ It was Liss's idea, or Ada's; Calder never found out which. They'd been at the t
 
 "Liss's milk," said Ada, "is turning."
 
-He looked at Liss. Liss shrugged. "It always kept," she said. "Three days, four, in the cold-room. My mother's words over the churn. Since the night it flew, it turns by evening."
+He looked at Liss. Liss shrugged. "It always kept," she said. "Three days, four, in the cold-room. My mother's words over the churn. Till this winter. Then it kept a day. Since the night it flew, it turns by evening."
 
 He watched them go across on the guide-rope, the flat ferry going out into the brown spring water with his mother in the bow holding her pail and Liss hauling on the rope, hand over hand, the way she'd hauled it thirty years. Halfway across the current took the ferry and swung it, and the rope went taut and sang, and held.
 
@@ -280,9 +280,9 @@ She looked at him then. Senna's look. Long and level and storing it.
 
 "Every few days."
 
-"Every few days," said Calder. "I'll say it twice. Every few days."
+"Every few days," said Calder. "Every few days."
 
-Behind her, in the dusk, Old Grey put his great head down, slowly, and rested his chin on the top of Wren's head, the way a horse rests its chin on a gate. He'd never done it before. Wren went very still under it. Then she put her hand up, without looking round, and laid it flat on the grey muzzle, and left it there.
+Behind her, in the dusk, Old Grey put his great head down, slowly, and rested his chin on the top of Wren's head, as a horse rests its chin on a gate. He'd never done it before. Wren went very still under it. Then she put her hand up, without looking round, and laid it flat on the grey muzzle, and left it there.
 
 ---
 

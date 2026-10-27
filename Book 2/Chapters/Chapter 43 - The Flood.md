@@ -127,7 +127,7 @@ He wrote on doors. WATER COMING. Two strokes now, then three, for the days, as t
 
 He came into the Marches at dusk on the third day.
 
-He knew it before he saw it. He knew the shape of the hills, low and round. The smell of the water-meadows. The reeds. The way the river went, in its long slow bends, and the willows along it. He'd been away since the spring. He came over the last hill on Kharrak's back and there it was, all of it, going away south in the evening light, and something in his chest went tight.
+He knew it before he saw it. He knew the shape of the hills, low and round. The smell of the water-meadows. The reeds. The way the river went, in its long slow bends, and the willows along it. He'd been away since the summer. He came over the last hill on Kharrak's back and there it was, all of it, going away south in the evening light, and something in his chest went tight.
 
 Harrow's End. The hill. The Fenn farm on the slope above it, with its broken top wall. The lane down to the river.
 
@@ -201,7 +201,7 @@ On the jetty, quickly. The lake. The water. Two days, now. Less.
 
 She listened. She didn't ask how a lake could break. She looked at the river, and at the people on the bank, and at the rope going out across the water to the Staithe.
 
-"I've been taking them over," she said. "All summer. A load at a time. The crown says they're to go back over the river, and they're going. But slowly. Because there's nothing for them on the other side either. The companies took it all." She looked at the far bank. "I've forty more on this side. And the boat takes forty."
+"I've been taking them over," she said. "All summer. A load at a time. The crown says they're to go back over the river, and they're going. But slowly. Because there's nothing for them on the other side either. The companies took it all." She looked at the far bank. "I've a hundred and forty more on this side. And the boat takes forty."
 
 "Then take them," said Calder. "Today. And then don't take the boat out again."
 
@@ -221,7 +221,7 @@ Three crossings. The ferry was a big flat boat, square at both ends, with a rail
 
 The water was rising.
 
-He felt it all day. Not saw. Felt. The river going up a hand's breadth at a time against the jetty steps. Going brown. Going faster. Things beginning to come down it. Branches. A dead sheep. A door.
+He felt it all day. The river going up a hand's breadth at a time against the jetty steps. Going brown. Going faster. Things beginning to come down it. Branches. A dead sheep. A door.
 
 At dusk Liss came back across empty and tied up and said, "Forty left."
 
@@ -341,7 +341,7 @@ She didn't say it unkindly. She didn't have anything left to say it any other wa
 
 Kharrak was standing over both of them. He'd been standing there a long time, Calder thought. His great head was down close over Lisska, and his wings were half open, as if to keep the wind off her.
 
-*She can't fly,* said Kharrak. *Not today. Not tomorrow.* He didn't say anything else for a while. Then: *You said a word. I felt you say it.*
+*She can't fly,* said Kharrak. *Not today. Not tomorrow.* Then: *You said a word. I felt you say it.*
 
 "It didn't work."
 
@@ -407,7 +407,7 @@ He looked up at Kharrak circling over him.
 
 "Took your time," he said.
 
-Kharrak came down and took him off the roof by his coat-collar, very carefully, the way a cat carries a kitten, and Fisk complained all the way up the hill. The teapot fell in the river.
+Kharrak came down and took him off the roof by his coat-collar, very carefully, as a cat carries a kitten, and Fisk complained all the way up the hill. The teapot fell in the river.
 
 "Forty year that pot," said Fisk, on the top field, when he'd been set down. He looked down at the brown water where the Eelweir had been. At the stumps of the houses. At his own roof, a grey ridge in the flood, with nothing on it now.
 
@@ -461,7 +461,7 @@ He took the pages out and unfolded the first one and held it up for her to see.
 
 She looked at it. For so long that he thought she hadn't understood. She couldn't read. Dragons didn't. Her great gold eye went over the letters, one, and the next, and back.
 
-*He wrote the first one like that,* she said at last. *With the line through it. In the dust, on the bridge, for children. He wrote his name for them in the dust with his finger.* She was quiet. *I'd forgotten that.*
+*He wrote the first one like that,* she said at last. *With the line through it. In the dust, on the bridge, for children. He wrote his name for them in the dust with his finger. I'd forgotten that.*
 
 He held the page up until his arms ached.
 

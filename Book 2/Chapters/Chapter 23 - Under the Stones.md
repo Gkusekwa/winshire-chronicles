@@ -75,7 +75,7 @@ All at once, and too fast. The loose stones over the lintel slid aside, not tumb
 
 It stopped.
 
-She felt him do it, through the bond. Not opening. Holding. Like a man who's leaned on a door expecting it to be stuck, and it's flown open, and he has to catch it before it hits the wall. In the surge the stone answered him too fast. Too much. It wanted to move. He held it.
+She felt him do it, through the bond. He was holding. Like a man who's leaned on a door expecting it to be stuck, and it's flown open, and he has to catch it before it hits the wall. In the surge the stone answered him too fast. Too much. It wanted to move. He held it.
 
 When it was still, there was a doorway in front of them.
 
@@ -185,7 +185,7 @@ He stood there a long time.
 
 *That is my kin,* he said.
 
-It wasn't the way he'd said it at the Barrows. *I don't know them.* It wasn't the cold, empty not-knowing that had gone through him walking down the rows of grey stones. It was the other thing. The thing she'd felt in him on the island, in the autumn, before the bond, when he dug at the north end night after night with his claws, toward something under the earth that he could feel and she couldn't.
+He'd said it otherwise at the Barrows. *I don't know them.* That had been the cold, empty not-knowing that went through him walking down the rows of grey stones. This was the other thing. The thing she'd felt in him on the island, in the autumn, before the bond, when he dug at the north end night after night with his claws, toward something under the earth that he could feel and she couldn't.
 
 He knew this.
 
@@ -211,7 +211,7 @@ The beasts were cut into the stone, shallow, pressed in. The tall shapes were cu
 
 Their hands were held out. Over the sleepers. Palms down, open, over each sleeping head.
 
-The way you'd hold your hand over a child's head in the dark, to see if it was still breathing. Or to keep it asleep.
+Like a hand held over a child's head in the dark, to see if it was still breathing. Or to keep it asleep.
 
 ---
 

@@ -18,7 +18,7 @@ Draft notes: The evening of Book 1's night 143 (in Vael) to day 3. Decided here 
 - **Magister Hollis Dane** of the Blue College (the Wardens' college) comes to the Gallery on day 2 with two Wardens and an order from the Council of Colleges, and impounds the ledgers and the green glasses "for the Council's review". Idony had copied the charts onto oiled silk on the night of day 0 and sewn them into the lining of his winter coat.
 - Idony is 31, Second ring, a ferryman's son from the Glasswater lake-ferries; sister Nessa (introduced by name only here; ch 8 for her). He sleeps badly, eats when he remembers, and talks to instruments.
 - Isvaren's beasts on the page: lantern owls in the observatory towers and on the ferry boats; stormkites sliding down off the High Crown the morning after, early, in pairs; the snow lynx at the Wardens' heels.
-Magic touches: tide-glasses (a drop of quicksilver under a place-rune); the surge as Vael sees it from a hundred leagues off; the College lamps by colour; the lantern owls' eyes as a poor man's tide-glass.
+Magic touches: tide-glasses (a drop of quicksilver under a place-rune); the surge as Vael sees it from seventy-odd leagues off; the College lamps by colour; the lantern owls' eyes as a poor man's tide-glass.
 notes -->
 
 ---
@@ -37,13 +37,13 @@ The glass didn't answer. Glasses didn't. That was one of the things he liked abo
 
 The Gallery of Glasses ran the whole length of the College of Tides' east wing, a hundred and forty paces from the door to the window at the far end, and every pace of it on both sides was shelves. Oak shelves, black with age, from floor to roof, and on every shelf the brass cradles, and in every cradle a glass. Three hundred and twelve. Each one was cut with the name of a place in the hooked script of the old milestones: a river ford, a hill, a city, a spring nobody remembered the name of in any other tongue. The quicksilver in it rose and fell with the Deep under that place. You could stand at the door at night with a lamp and look down the Gallery and see the whole of Winshire breathing, if you knew how to look.
 
-Nobody else did, much. The College of Tides was the smallest of Vael's colleges, and the poorest, and the oldest, and its readers spent their lives at these shelves writing numbers into ledgers that nobody above the Third ring ever opened. Idony had been at them since he was nineteen. He'd come up from the lake-ferries with a letter from a village priest and a talent for the old script that nobody could account for, and the College had looked at his hands, which were a ferryman's hands, and given him a Second ring and the night bells and the Hearthmere ledgers, because nobody wanted the Hearthmere ledgers.
+Nobody else did, much. The College of Tides was the smallest of Vael's colleges, and the poorest, and the oldest, and its readers spent their lives at these shelves writing numbers into ledgers that nobody above the Third ring ever opened. Idony had been at them since he was twenty. He'd come up from the lake-ferries with a letter from a village priest and a talent for the old script that nobody could account for, and the College had looked at his hands, which were a ferryman's hands, and given him a Second ring and the night bells and the Hearthmere ledgers, because nobody wanted the Hearthmere ledgers.
 
 Nobody wanted them because they were boring. For three hundred years every glass cut for Hearthmere had read low. Not dead. Low. A kingdom of lamps that burned without oil and wells that ran sweet and licensed words that worked every time, and under it, by every glass the College owned, almost nothing. Old readers had noted it once and stopped noting it. The Hearthmere glasses were faulty; Hearthmere was an anomaly; it was in the commentaries.
 
 Idony had looked at it for eleven years and come to a different view, which he had written up, twice, and been told, twice, to stop writing up.
 
-It wasn't low. It was a hole. A draw. As if something under that one kingdom were pumping the Deep out of the ground as fast as it came in.
+It was a hole. A draw. As if something under that one kingdom were pumping the Deep out of the ground as fast as it came in.
 
 ---
 
@@ -69,11 +69,11 @@ Vael lay below him on its hill above the black water of Glasswater, the slate to
 
 Tonight every lamp in it was burning white.
 
-Not its colour. White. Every tower, every bridge, every lantern on the quays far below, every lamp on every ferry on the lake, the same hard white, like the snow had caught fire. Up in the observatory towers of the College of Stars, where the lantern owls nested, the owls were out on the ledges in the cold with their eyes blazing like coals, turning their heads, all of them, south. Not one was asleep. Somewhere below, on the Scribes' stair, a student had chalked a sticking-charm on his door to keep it shut against the wind, and Idony could hear him, faintly, swearing, because it wouldn't open.
+Every tower, every bridge, every lantern on the quays far below, every lamp on every ferry on the lake, the same hard white, like the snow had caught fire. Up in the observatory towers of the College of Stars, where the lantern owls nested, the owls were out on the ledges in the cold with their eyes blazing like coals, turning their heads, all of them, south. Not one was asleep. Somewhere below, on the Scribes' stair, a student had chalked a sticking-charm on his door to keep it shut against the wind, and Idony could hear him, faintly, swearing, because it wouldn't open.
 
 He stood on the balcony in his shirt in the frost and looked south.
 
-There was nothing to see. A hundred leagues of night between him and Hearthmere, and the Iron Fells across it like a wall. There was nothing to see, and every glass in the Gallery behind him was pointing at it like a dog.
+There was nothing to see. Seventy-odd leagues of night between him and Hearthmere, and the Iron Fells across it like a wall. There was nothing to see, and every glass in the Gallery behind him was pointing at it like a dog.
 
 ---
 
@@ -141,7 +141,7 @@ He watched it happen. *The river hill* first. The quicksilver in its throat, sta
 
 He didn't understand it. He sat and looked at it.
 
-It wasn't a draw. A draw pulled; you could see it pulling, a glass held low and straining. This wasn't held. There was nothing in these glasses at all. As if the ground under them had been a well, for three hundred years, and someone had been drawing on it day and night, and now the rope was cut, and the well wasn't there.
+This was no draw. A draw pulled; you could see it pulling, a glass held low and straining. This wasn't held. There was nothing in these glasses at all. As if the ground under them had been a well, for three hundred years, and someone had been drawing on it day and night, and now the rope was cut, and the well wasn't there.
 
 Then the fifth glass dipped.
 
@@ -149,13 +149,13 @@ Then the fifth glass dipped.
 
 He grabbed the ledger.
 
-*The hill of the hold*: down, and up. *The high moor*, a little later. *The black water.* *The edge.* One after another, south-west to north-east, along the line he'd chosen because it was straight on an old chart. Each glass dipping and coming back as something went over the place it named. He counted between them. He had a good count; he'd learned it on the ferries, counting oar-strokes in the fog. He wrote the counts down. He did the arithmetic on the floorboards with the stub of a pencil because his hand was shaking too much to use the pen.
+*The hill of the hold*: down, and up. *The high moor*, a little later. *The black water.* *The edge.* One after another, south-west to north-east, along the line he'd chosen because it was straight on an old chart. Each glass dipping and coming back as something went over the place it named. He counted between them. He had a good count; he'd learned it on the ferries, counting oar-strokes in the fog. He wrote the counts down. He did the arithmetic on the floorboards with the stub of a pencil because he didn't trust his hand with the pen.
 
 Leagues between the places. Counts between the dips.
 
 Something was moving north-east across the old realm at the speed of a bird.
 
-Not a bird. A bird didn't drink from the Deep as it flew. A bird didn't dip a glass a hundred leagues away. Something the speed of a bird, and the size of nothing he had a word for, going north-east, away from the place where for eleven years there'd been a hole, which wasn't there any more.
+Not a bird. A bird didn't drink from the Deep as it flew. A bird didn't dip a glass seventy leagues away. Something the speed of a bird, and the size of nothing he had a word for, going north-east, away from the place where for eleven years there'd been a hole, which wasn't there any more.
 
 ---
 
@@ -169,7 +169,7 @@ There were two other marks. He nearly didn't put them in, because they were smal
 
 One was on the Hearthmere bank glasses, *the water meadows* and *the river hill*, before they went flat: a small draw, there for a count and gone, there again a little further along, gone. Short steps. Like something walking. Like a beast walking along a riverbank, taking a little of the Deep with every footfall and giving it back. He watched it on the last of the readings and it went upriver, then stopped, then went down, then stopped. He wrote beside it, in the margin, *the walker*, and then crossed it out, because it was fanciful, and then wrote it again.
 
-The other was under *the river hill*, at the very bottom of the glass, under the flat. When he put the lens on it there was a point in the bottom of the throat where the bead of quicksilver didn't sit still and didn't move. It wasn't drawing and it wasn't rising. It was doing neither, very precisely, the way a man is doing neither when he has filled his lungs and is holding them.
+The other was under *the river hill*, at the very bottom of the glass, under the flat. When he put the lens on it there was a point in the bottom of the throat where the bead of quicksilver didn't sit still and didn't move. It wasn't drawing and it wasn't rising. It was doing neither, very precisely, as a man is doing neither when he has filled his lungs and is holding them.
 
 He wrote, *a held breath.* He didn't cross that one out.
 
@@ -261,7 +261,7 @@ He copied the charts that night.
 
 He didn't know why, exactly. He told himself afterwards it was the bird's laugh. He sat up under the sloping roof with a lamp and a sheet of the oiled silk the ferry-folk used for sail-patches, which Nessa had given him once for something and he'd never used, and he traced both charts onto it with a fine pen, the old hole and the new flat and the line going north-east and the walker and the held breath, every mark, every number in the margin. It took till the second bell. Then he folded the silk small and unpicked the lining of his winter coat along the hem and sewed it in, badly, with the big stitches his mother had despaired of.
 
-He felt ridiculous. He felt like a boy hiding a letter. He went to bed and slept the whole of day 1 through and woke at dusk with his face in the ledger.
+He felt ridiculous. He felt like a boy hiding a letter. He went to bed and slept the whole of the next day through and woke at dusk with his face in the ledger.
 
 ---
 
@@ -329,4 +329,4 @@ Then he took the coat down off its peg, though it was a mild morning and the sno
 
 He'd been right for eleven years. He thought he ought to feel something about that.
 
-What he felt, standing on the quay in his winter coat in the sun, was that somewhere a hundred leagues south, something had been holding its breath for three hundred years, and was still holding it, and nobody in the world but him and a bird had noticed.
+What he felt, standing on the quay in his winter coat in the sun, was that somewhere seventy-odd leagues south, something had been holding its breath for three hundred years, and was still holding it, and nobody in the world but him and a bird had noticed.

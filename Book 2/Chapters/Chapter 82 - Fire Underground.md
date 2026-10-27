@@ -12,7 +12,7 @@ Draft notes: Day 355, about noon to early afternoon. Decided here (proposals):
 - Noon: the Titan stops waiting; it doesn't pull: it **draws**; Aurveth feels it go into the hill like a tide going out; the chain-runes, feeding on what they hold, feed on what goes through the hill too, and the inner wall's emptied stone can't carry it; the cracks Thurl read come out on the face of the rock round the eyes, white.
 - **The eyes go**: the first bolt tears out of the rock with a crack like thunder; its chain whips across the river and smashes into the water; the second; the third pulls a slab of the inner wall out with it, outward toward the river, as Thurl said (not down); the fourth drags a yard engine across the yard on its timber bed and over the broken wall: **Dane** is on the engine's footplate with his gloved hands on the governor, trying to hold the pressure, and goes over with it, and under it.
 - **Rowan lets go**: three short notes on her horn from the north tower: the crown's men knock the pins from the drums on the two Saltreach engines and the chains run out; on the hill her knights do the same at the last yard engine; she gets the knights and the crown company and the last of the camp (thirty-odd people who'd stayed to work the engines' fires, and the grooms' loft-boys) down the jetty road to the barge and across; she's the last off the hill, on foot, with her white surcoat torn. She doesn't hold on to the chain. (Ch 69 plant.) The seventy in the cellars she can't reach: the cellar door's under the fallen slab.
-- **The Titan goes**: free, the chains running off it into the river; it turns in the Wend and walks back up the river, three leagues, to the eddy where the island was, and goes down into it: the eddy opens: a whirlpool, the river going down after it.
+- **The Titan goes**: free, the chains running off it into the river; it turns in the Wend and walks back up the river, three leagues and a half, to the eddy where the island was, and goes down into it: the eddy opens: a whirlpool, the river going down after it.
 - **Calder follows**: Aurveth from the Staithe: *Down. It's going home. Under.* Kharrak, Lisska and Aurveth (she won't stay) into the eddy after it; the dive: brown water, then black, then the drowned island's stones, then the hole in the river-bed where the Ruin's floor went in Book 1 (the Ruin's lock chamber, broken), and through it: air. The long cavern: the one the Titan lay in for three hundred years, from under the Ruin to under Greyhold: vast, half full of black water, the anchor-stones at the Ruin end with their iron eyes and the stumps of the first chains. Kharrak's fire lights it.
 - The Titan ahead in the dark, going down the cavern toward Greyhold's end, its back scraping the roof; far off at the end, a gold light (the shut place's writing; Corvin's lanterns).
 - **The wyverns**: near Greyhold's end, from the far arch (the old way Corvin's party came in by, ch 81), two shapes come screaming out of the dark over the water: Corvin's last bound pair, which his binders had chained in the old way's mouth: the flood (ch 81) drowned their binders and the running water broke what was left: loose, terrified, mad: they come at the dragons. Lisska tries the kin-voice (the one that reached the yearling at Vael and the young ones at Blackwater; what Wren did with her own voice at the caves, ch 62): *Come. You're safe. Come to me.* Nothing answers: a wyvern isn't kin, and there's nobody in it to hear. Kharrak's fire drives them off into the old ways, screaming.
@@ -26,7 +26,7 @@ At noon it stopped waiting.
 
 He felt it through Aurveth. On the shingle at the Staithe, with her eyes shut. She lifted her head all at once, and he felt it go out through her into him, high over the river on Kharrak.
 
-It wasn't pulling.
+It had stopped pulling.
 
 It was drawing.
 
@@ -98,9 +98,7 @@ Letting go.
 
 ---
 
-She'd said it to Maren. He didn't know that. He knew it later. *I'll hold it as long as it holds. And when it doesn't, I'll let it go.*
-
-She let it go.
+Rowan let it go.
 
 He saw her get them off the hill. Her knights. The crown company. The thirty-odd people who'd stayed to feed the engines' fires. A handful of boys from the grooms' loft who'd hidden and not crossed. Down the jetty road, past the dead lamps, at a run, to the barge under the river wall, and onto it, and across, under the chains that weren't chains any more, to his bank.
 
@@ -110,7 +108,7 @@ On foot. Down the jetty road. With her white surcoat torn half off her and her s
 
 At the inner wall. At the cellar door under it.
 
-The fallen slab was across it.
+Rubble from the torn wall was across it, to the lintel.
 
 ---
 
@@ -122,7 +120,7 @@ Upriver.
 
 It turned in the Wend. Slowly. With the brown water going round it in a wave and over both banks. And walked. Up the river. Away from Greyhold. Away from the broken wall and the engines and the chains in the water.
 
-Three leagues.
+Three leagues and a half.
 
 He followed it on Kharrak, high. Up the valley. Past the Brackenwood's edge, past Redwatch, up the river to where it turned. To the eddy where the island had been.
 
@@ -142,7 +140,7 @@ The river went down after it.
 
 *Down,* said Aurveth.
 
-She'd come. She'd got up off the shingle at the Staithe and flown three leagues up the river after him, slowly, low, with her crooked wing, and he hadn't known until she was beside him.
+She'd come. She'd got up off the shingle at the Staithe and flown three leagues and a half up the river after him, slowly, low, with her crooked wing, and he hadn't known until she was beside him.
 
 *It's going home. Under. Where it lay.* She looked at the whirlpool. *Where the lion is.*
 
@@ -218,7 +216,7 @@ He knew them. Their shape. He'd seen wyverns on Vey's ship. These were smaller. 
 
 Corvin's.
 
-Their binders had chained them in the old way's mouth. And the river had come in. He didn't know that yet. He knew it later. The binders were in the water somewhere, and the running water had gone over the wyverns and broken what was left of the words in them.
+Their binders had chained them in the old way's mouth. And the river had come in.
 
 They were loose.
 
@@ -274,7 +272,7 @@ She was beside the lion.
 
 With her back to the wall. With her palm flat on the stone behind her, on the gold rings. Small. Soaked to the shoulders. Haverly's sword at her hip, dark. And her face, in the gold light coming off the stone, turned toward him.
 
-A grey-haired man at her shoulder. Thin. Shaking. Holding a lantern he didn't need.
+A thin man at her shoulder. Holding a lantern he didn't need.
 
 The reader.
 

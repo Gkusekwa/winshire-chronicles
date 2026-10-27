@@ -5,14 +5,14 @@ POV: Calder
 Part: Part Seven: Under the Hill
 Days: 355 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Greyhold's hill and the river
-Beats: Dawn. The Titan comes down on the Marches. The second cage springs: chains from Greyhold's hill to anchors on the Saltreach bank, heartstone engines roaring, Dane's binders on the wall, Rowan in command. Envoys from every kingdom watch from the Saltreach bank, come to see the second cage as they came to see the first (50). Calder and the Clan keep the people moving behind it, with the knights' hounds working the crowd like sheep and the greyharts carrying the old; the Restoration's last band, come to loot the empty landing, breaks and runs when the Clan's flights come down on it, and that's the last of the Restoration's war. It holds, for a while.
+Beats: Dawn. The Titan comes down on the Marches. The second cage springs: chains from Greyhold's hill to anchors on the Saltreach bank, heartstone engines roaring, Dane's binders with their hands on the iron at both ends, Rowan in command. Envoys from every kingdom watch from the Saltreach bank, come to see the second cage as they came to see the first (50). Calder and the Clan keep the people moving behind it, with the knights' hounds working the crowd like sheep and the greyharts carrying the old; the Restoration's last band, come to loot the empty landing, breaks and runs when the Clan's flights come down on it, and that's the last of the Restoration's war. It holds, for a while.
 Echo of the other's story: Far below, through Lisska, the lion in the dark.
 Status: first draft
 Draft notes: Day 355, dawn to about noon. Decided here (proposals):
 - Night 354–355 in a line: Liss at the Staithe post (she took his hand: "You're the farmer." "Yes." "You write like a child." "I know."); Tam and Odo up the Way with the cart; Liss stays at the Staithe in a fisher's hut "to see my rope". The envoys' camp above the anchors: Calder walks through it at first light: Pike's deputy (**Engineer Garth Tolley**, new: Kessmoor, square, red-bearded); a Blue magister (Dane's man, thin, anxious; unnamed); a voice from Solenne's low city (a street-tribune of the mud-brick quarter, sent by Tobin with a letter for Maren; unnamed); others from Quill and the Tide Council (Marrow's clerk). They look at him (the farmer from the Tidehall). Arn's and Ulric's flights on the hill above Harrow's End with every pair on the ledges come down in the night: more than a hundred and twenty dragons.
 - First light: Rowan sends Wynn and eight knights across on the barge with their hounds and greyharts (the crown's white elk-mounts, nine feet at the shoulder) to the Saltreach bank to keep the people moving: there are still several hundred at the Staithe and on the lower Way (late crossers, the envoys' servants, the curious).
 - **The Titan comes down**: out of the south-west at sunrise, low over the downs, the sky darkening under it; it comes down onto the Marches: onto the river, half a league upriver of Greyhold (not at the island's place, which is three leagues further up) and walks down the river toward the hill in the water to its chest; the five grown-over places in its back; harpoons from the Bell still in its side; the twelve old chain-ends trailing.
-- **The cage springs**: when it's under the chains, Rowan's horn from the north tower; the four engines roar (the heartstones flaring in their fireboxes, black smoke); the chains haul in, link by link, off the river, rising and closing over it in a net; Dane's twelve binders on the inner wall speak the College's chain-words together (the noon oath's form again, *Keep the watch below* and the hold-words); the runes inside every link blaze white; the chains come down over the Titan's back and neck and close; it's held, standing in the river, with six chains on it and the white running along them both ways from its back to the hill and to the anchors.
+- **The cage springs**: when it's under the chains, Rowan's horn from the north tower; the four engines roar (the heartstones flaring in their fireboxes, black smoke); the chains haul in, link by link, off the river, rising and closing over it in a net; Dane's twelve binders (six at the iron eyes below the inner wall, six at the Saltreach anchors, every one with his hands on the iron, so no word crosses the river) speak the College's chain-words together (the noon oath's form again, *Keep the watch below* and the hold-words); the runes inside every link blaze white; the chains come down over the Titan's back and neck and close; it's held, standing in the river, with six chains on it and the white running along them both ways from its back to the hill and to the anchors.
 - The Titan pulls; the chains feed (Odo: they feed on what they hold); every pull makes them brighter; the engines scream; the Saltreach anchors groan but they're new stone, live; the hill's eyes hold.
 - **The people**: Calder on Kharrak over the Saltreach bank keeps them moving up the Way; Wynn's hounds working the crowd like sheep, low and silent, turning stragglers; the knights on their greyharts lifting the old up behind them; Ulric's riders landing in front of carts to turn them; nobody running toward the river.
 - **The Restoration's last band**: about mid-morning, with the cage holding, thirty men out of the Brackenwood with the one binder Corvin left them (he took four down the old stair, ch 77) come down onto the empty Greyhold landing on the Hearthmere bank to loot: the ferry house, the grooms' cottages, the crown company's empty camp; Calder sees them from the air; Arn sees them; Arn's red goes down on the landing with twenty pairs behind him in a roar; the band breaks and runs back up the River Road into the Brackenwood without a blow struck; the binder throws down his pot; the Ferriby oxen (bound, driven down with them) walk into the river and come out of it themselves. That's the last of the Restoration's war (Reede's press is in Hallowmere; the army broke at 54).
@@ -59,7 +59,7 @@ A brown man in a plain coat, with dust on his boots from a long road and a lette
 
 "You know the lion-woman," he said. In a Sarovel voice. "Tobin sent me. From the low city. With this." He held up the letter. "For her."
 
-"She's over there," said Calder. He looked across the river. "Under."
+"She's over there," said Calder. He looked across the river. "On the hill."
 
 The brown man looked at the hill.
 
@@ -107,7 +107,7 @@ He looked.
 
 Out of the south-west. Over the downs. Low.
 
-The sky went dark under it. That was what he saw first. Not the Titan. The light going. A shadow coming across the downs toward the river, over the fields and the hedges and the empty villages, faster than a horse, and the sunrise going out behind it.
+The sky went dark under it. That was what he saw first. The light going. A shadow coming across the downs toward the river, over the fields and the hedges and the empty villages, faster than a horse, and the sunrise going out behind it.
 
 Then it.
 
@@ -147,9 +147,9 @@ Off the river.
 
 He saw them rise. Six black curves over the water, lifting, as the drums turned and the slack came in. Link by link. Rising off the river and closing in toward each other over the Titan's back as it walked under them, like a net being drawn up out of the sea round a fish.
 
-On the inner wall, the binders.
+And the binders.
 
-Twelve. In the College's blue. Standing along the wall's top above the iron eyes with their hands lifted. He couldn't hear them over the engines. He could see their mouths. All moving together. The same words.
+Twelve. In the College's blue. Six on the rock below the inner wall, with their hands on the chains where they came out of the eyes. Six on his own bank, with their hands on the anchor-links. So no word of theirs had to cross the river. He couldn't hear them over the engines. He could see their mouths. All moving together. The same words.
 
 He knew what the words were. Everyone on the river knew them. The noon oath. *Keep the watch below.* And the hold-words, woven through it.
 
@@ -189,7 +189,7 @@ Brighter.
 
 *They feed on what they hold,* Liss had said at the post, in the dark. The smith had told her. Odo. The more it pulled, the more of it went into the runes, and the stronger the chains. A cage that got stronger the more it was fought.
 
-The engines screamed. On his bank, two hundred paces off, the iron anchor-posts groaned in their beds of stone. But they were new stone. Live. Saltreach stone, from a quarry above the Staithe, with the Deep still in it.
+The engines screamed. On his bank, two hundred paces off, the iron anchor-posts groaned in their beds of stone. But they were new stone. Live. Stone from a quarry above the Staithe, a hundred leagues up from the drained coast, with the Deep still in it.
 
 On the hill, the eyes held.
 
@@ -245,7 +245,7 @@ And twenty pairs behind him.
 
 He'd never seen the Clan come down on anything.
 
-Not like that. Twenty dragons out of the sky at once, red and grey, onto a landing a hundred paces wide, in a roar of wings and a noise out of their throats that he felt in his chest across the river. Not fire. They didn't need fire. They came down on the shingle round the band in a ring, and stood there, twenty of them, with their wings half open and their heads low.
+Not like that. Twenty dragons out of the sky at once, red and grey, onto a landing a hundred paces wide, in a roar of wings and a noise out of their throats that he felt in his chest across the river. They didn't need fire. They came down on the shingle round the band in a ring, and stood there, twenty of them, with their wings half open and their heads low.
 
 The band broke.
 
@@ -279,7 +279,7 @@ It held.
 
 For a while.
 
-He hung over the river on Kharrak, high, and looked down at it. The Titan standing in the Wend under six white chains, its head low now. Not pulling. Not fighting. The engines roaring. The binders' mouths moving on the wall. The white running along the chains, steady.
+He hung over the river on Kharrak, high, and looked down at it. The Titan standing in the Wend under six white chains, its head low now. Not pulling. The engines roaring. The binders' mouths moving at the eyes and at the anchors. The white running along the chains, steady.
 
 The envoys on the slope behind him had stopped making any sound at all.
 

@@ -10,7 +10,7 @@ Echo of the other's story: The stones of the Roosts hum toward the east.
 Status: first draft
 Draft notes: Day 98, afternoon, to dawn on day 99. Decided here (proposals):
 - Why everyone's there: midsummer is the Clan's choosing night. Under the old law the choosing stands outside any quarrel: every family's young who are of age stand on the Choosing Ledge, the long ledge below the Roosts, before the young dragons let out of the pens, and wait to be chosen, or not. After the board under the chair (ch 19), Arn sends word to Skarrow on day 85: Ulric's young may come to the choosing, under the old law, with Ulric and twenty. It's the first word Arn has sent his uncle since the ford. Ulric comes on day 97.
-- Lisska came home on day 95 (flight 2). She's speaking again, a little.
+- Lisska came home on day 88 (flight 2). She's speaking again, a little.
 - Day 98, dusk: the young dragons out of the pens on the Choosing Ledge, forty of them, yearlings and two-year-olds, restless; thirty young people of the Clan, Arn's and Ulric's, standing in a line with their families below in the yard; fires on the ledges; the ledges' bonded on the cliff above; Gunna and Tamsin down from the caves for it; Ada and Wren at the yard's edge with Old Grey. Tor Brecc, Hallam's grandson, nineteen, bonded two midsummers ago to a young blue called Skell, stands with the ledges for the first time.
 - Calder on the setters' ledge with Aurveth, Kharrak on the high ledge, Lisska beside him.
 - An hour after dark: honey-smoke on the wind, from the moor to the north-east, upwind of the hold: a long bank of it rolling down off the heather over the cliffs, from fires a quarter-league off. Corvin's binders. It reaches the Roosts and goes into the caves and over the ledges.
@@ -36,7 +36,7 @@ That was all. They stood, and the young dragons walked up and down the ledge amo
 
 Most years, nobody was chosen. Some years, one. Gunna said there'd been a year, when she was a girl, when three were chosen in one night, and the Clan talked of nothing else till winter.
 
-It stood outside everything, the choosing. Outside feuds, outside wars. That was the old law. A young dragon didn't care whose thread you wore. So on the eighty-fifth day, a week after he'd taken the board with the boot-print into the hall and put it under the chair, Arn sent a rider to Skarrow.
+It stood outside everything, the choosing. Outside feuds, outside wars. That was the old law. A young dragon didn't care whose thread you wore. So on the eighty-fifth day, more than a fortnight after he'd taken the board with the boot-print into the hall and put it under the chair, Arn sent a rider to Skarrow.
 
 The first word he'd sent his uncle since the ford.
 
@@ -50,7 +50,7 @@ But the gate was open.
 
 ---
 
-Lisska had come home on the ninety-fifth day.
+Lisska had come home on the eighty-eighth day.
 
 From the east, over the fells, at dusk, low and tired and quiet. She'd seen the lion-woman, she said, and the lion, lying at ten paces from the great one, in a ring of stones, in the grey. A league of grey. The trees grey. Nothing moving. She'd stayed two days and then come home.
 
@@ -146,7 +146,7 @@ Lisska.
 
 *Calder. Calder, I'm coming loose.*
 
-He felt it. He'd never felt anything like it. The bond, the green one, the bright quick flicker at the back of his head that had been there since the barley field: it was going. Not breaking. Loosening. Sliding. As if it were a rope and the knot at her end was coming undone, slowly, turn by turn, like a knot in wet cord, and her end was sliding away from him into the dark.
+He felt it. He'd never felt anything like it. The bond, the green one, the bright quick flicker at the back of his head that had been there since the barley field: it was going. Loosening. Sliding. As if it were a rope and the knot at her end was coming undone, slowly, turn by turn, like a knot in wet cord, and her end was sliding away from him into the dark.
 
 *Like a boat,* said Lisska. *Like a boat off its rope. I'm going out. I'm going out on the water. I can't feel you, Calder, I can't feel you any more, I can't...*
 
@@ -180,13 +180,13 @@ The smoke went over her. He felt it go over her. Felt it try. Felt it press at h
 
 And she held on to him.
 
-He felt it. While he held the green one's rope in his two hands, with the blood running into his mouth, the old one held him. Not the rope. Him. As if she'd put her great jaw down over his shoulder from behind, the way Skell put his chin on Tor's, and held him steady, so that he could hold.
+He felt it. While he held the green one's rope in his two hands, with the blood running into his mouth, the old one held him. As if she'd put her great jaw down over his shoulder from behind, as Skell put his chin on Tor's, and held him steady, so that he could hold.
 
 ---
 
 On the high ledge, Kharrak came back roaring.
 
-Calder felt it happen. Down in the dark, under the blanket, under the warm sweet weight, the red tide came up. Not because Calder let it. Because it came. Kharrak's own fury, coming up out of the bottom of him like a spring out of rock, hot, red, furious at being made warm, furious at the smoke, furious at whatever was doing it, furious, and it burned the smoke out of him the way fire burns off mist.
+Calder felt it happen. Down in the dark, under the blanket, under the warm sweet weight, the red tide came up. Not because Calder let it. Because it came. Kharrak's own fury, coming up out of the bottom of him like a spring out of rock, hot, red, furious at being made warm, furious at the smoke, furious at whatever was doing it, furious, and it burned the smoke out of him as fire burns off mist.
 
 The red dragon came up off his ledge with a roar that shook stones off the cliff.
 
@@ -212,7 +212,7 @@ He'd seen wyverns. On Gallows Quay, caged. Long lean black-green things with two
 
 On the Choosing Ledge the young dragons stood in the smoke with their heads down.
 
-Forty of them. Not moving. Opened. Empty-eyed, the yearlings and the two-year-olds, the bronze that had stopped in front of the girl from Skarrow, all of them, standing on the ledge in the white smoke with nothing behind their eyes.
+Forty of them, standing still. Opened. Empty-eyed, the yearlings and the two-year-olds, the bronze that had stopped in front of the girl from Skarrow, all of them, standing on the ledge in the white smoke with nothing behind their eyes.
 
 The binders went to them.
 
@@ -270,7 +270,7 @@ Not hit. Nothing touched him. He just went. His knees went, and he folded, as if
 
 The young blue came down beside him.
 
-Calder had felt it once. On the barley field, in the dark, when Dag went off Kharrak's back and Sigrun died and Imra died: three bonds torn, and the pull of them, going down. He felt it now, from above. Not his. Not his bond. But he felt it: the pull, when one of the two lives goes and takes the other with it down the bond the way water takes a man down a weir. A breath. Less.
+Calder had felt it once. On the barley field, in the dark, when Dag went off Kharrak's back and Sigrun died and Imra died: three bonds torn, and the pull of them, going down. He felt it now, from above. Not his. Not his bond. But he felt it: the pull, when one of the two lives goes and takes the other with it down the bond as water takes a man down a weir. A breath. Less.
 
 Tor Brecc and Skell lay together at the lip of the Choosing Ledge, the boy's hand still open, the young blue's head across his knees.
 
@@ -312,7 +312,7 @@ Corvin Vale didn't look at the hold. He didn't look at the fight on the stair, o
 
 Then, once, he looked up. At the setters' ledge. At Calder.
 
-He looked for a moment. Not long. The way you'd look at a man across a market, a man you'd heard of and expected to see, and now you'd seen him.
+He looked for a moment. Not long. As you'd look at a man across a market, a man you'd heard of and expected to see, and now you'd seen him.
 
 Then he looked away.
 
@@ -360,7 +360,7 @@ The young dragons on the ledge came back, slowly, one by one, as the smoke went.
 
 Lisska came back last.
 
-He felt her come. The rope, in his hands, that had been sliding all night: it stopped sliding. Slowly. Turn by turn, the knot at her end tightened. The boat stopped going out. And then, at the very last, as the sky went grey over the fells, he felt her end of it pull. Not away. Toward him.
+He felt her come. The rope, in his hands, that had been sliding all night: it stopped sliding. Slowly. Turn by turn, the knot at her end tightened. The boat stopped going out. And then, at the very last, as the sky went grey over the fells, he felt her end of it pull toward him.
 
 *Calder.*
 
@@ -400,13 +400,13 @@ Below, in the yard, Arn and Ulric were standing on either side of the captured b
 
 He put his hand flat on the rock.
 
-He didn't know why. He'd done it every morning on that ledge since he came, to feel the pulse, the heart under the hill. He did it now, out of habit, with the blood dry on his lip.
+He'd done it every morning on that ledge since he came, to feel the pulse, the heart under the hill. He did it now, out of habit, with the blood dry on his lip.
 
 The rock was humming.
 
-Not the pulse. Something else. Under the pulse, and through it. A hum, low and steady, like a bowl that's been struck and is still ringing. He'd felt it once before, in the summer, through Lisska's eyes: the heather on the Scarfell moving behind the lion where there wasn't any wind. The moor ringing where he'd walked.
+Something else, under the pulse and through it. A hum, low and steady, like a bowl that's been struck and is still ringing. He'd heard of it once before, in the spring, from Lisska: the heather on the Scarfell moving behind the lion where there wasn't any wind. The moor ringing where he'd walked.
 
-It wasn't coming from under him. It was coming from the east.
+It was coming from the east.
 
 He put both hands on the rock. The hum went into his palms and up his arms. East. All the stone of the Roosts, the whole cliff, humming toward the east, faintly, steadily, as if something a long way off had been struck very hard and the ringing had come all this way through the rock.
 

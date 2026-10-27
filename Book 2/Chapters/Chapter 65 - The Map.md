@@ -9,11 +9,11 @@ Beats: Maren reads the Sun Stair's fullest carving with Idony's notes and a lamp
 Echo of the other's story: Lisska on the lighthouse rail, waiting for her answer to take east.
 Status: first draft
 Draft notes: Days 319–322. Decided here (proposals):
-- **Idony's notes**: at Highcrest on day 298, the night before the household's man came, Idony wrote out for her, on the back of the last of Moss's spare paper-forms, "the words you'll need, in case": a list of sixty-odd hooked-script words with their common-tongue meanings in his small hand, the commonest on milestones and temple walls (sleep, breath, door, keep, hold, road, end, bridge, first, chain, beyond, below, six, one, ring, kin, keeper, sun, frost, forest, glass...) and the shapes of the hooks that turn a word into *of*, *under*, *toward*. She has carried it since in her coat with the letters and the black book. She can read a little of the script already (her father's milestone; Hale; Book 1 ch 13).
+- **Idony's notes**: at the stage-house above the Gilt on day 297, the night before the household's man came, Idony wrote out for her, on the back of the last of Moss's spare paper-forms, "the words you'll need, in case": a list of sixty-odd hooked-script words with their common-tongue meanings in his small hand, the commonest on milestones and temple walls (sleep, breath, door, keep, hold, road, end, bridge, first, chain, beyond, below, six, one, ring, kin, keeper, sun, frost, forest, glass...) and the shapes of the hooks that turn a word into *of*, *under*, *toward*. She has carried it since in her coat with the letters and the black book. She can read a little of the script already (her father's milestone; Hale; Book 1 ch 13).
 - **The carving**: the temple under the Sun Stair went into the bay with the cliff (ch 61). On day 319 at low water the old stable-owner's nephew rows her and Orrun (lame, swimming on three legs) from Sorrel Isle to the foot of the new raw cliff under the ruined palace: the fallen cliff lies in the shallows in great slabs; among them, face-up in a hand's depth of water, a slab of grey old-realm stone carved with part of the band that ran round the temple below the six: lines, small shapes, words. Orrun lifts it upright out of the water against the cliff (lame; the stone answers him: bond-shaping on old stone works on dead ground). She reads it by an oil lamp over two nights (319–320), at low water, with Idony's word-list.
-- What it shows (in plain terms): the frost-map. A round place with a river through it; six roads out from it to six marks, each mark a sleeper's shape (stag, coil, burrower, horn, island, winged lion). Five of the marks have a word cut under them she reads as *sleep* (the egg's sign). The sixth, the winged lion, close to the round, down the river, has no egg-sign: *chains* instead, and the word *first*: *the first chains*. And past it, beyond the first chains, deeper, under the round, a seventh sign: the ring with six hollows. And the words cut beside it, which she reads twice with the list: *beyond the first chains, the one is kept.* And a word she finds on the list: *breath*. *Here the breath is kept*: the ring.
-- She works it out: the held breath Idony found on his glass under the river hill at Greyhold the morning after the gate (Part One), the dead-still place on his chart under the Old Ruin: it's not a sleeper; it's the ring: the control relic; in a vault **beyond the first chains**: below the cavern where the Last Titan was chained, under Greyhold's hill: Hearthmere's deepest vault. The lock's sentence in the back of the black book (copied day 3; the bird's one word: *together*; "the lock was made for two hands. So was the other thing").
-- **Corvin knows**: the bird said the ring went missing after the lord broke the egg ("Nobody knows where it went"; Idony doubted it). The roll the captain took is the College's contract with that lord, with an appendix; whoever had the chains forged knew where the ring was put. Corvin has had the roll eight months and couldn't read it: now he has Idony, who can read it, and who has the chain-words in his head. And the ship went east.
+- What it shows (in plain terms): the frost-map. A round place with a river through it; six roads out from it to six marks, each mark a sleeper's shape (stag, coil, burrower, horn, island, winged lion). Five of the marks have a word cut under them she reads as *sleep* (the egg's sign). The sixth, the winged lion, close to the round, down the river, has no egg-sign: *chains* instead, and the word *first*: *the first chains*. And past it, beyond the first chains, deeper, under the round, another sign: the ring with six hollows. And the words cut beside it, which she reads twice with the list: *beyond the first chains, the one is kept.* And a word she finds on the list: *breath*. *Here the breath is kept*: the ring.
+- She works it out: the held breath Idony found on his glass under the river hill at Greyhold the morning after the gate (Part One), the dead-still place on his chart under the river hill: it's not a sleeper; it's the ring: the control relic; in a vault **beyond the first chains**: below the cavern where the Last Titan was chained, under Greyhold's hill: Hearthmere's deepest vault. The lock's sentence in the back of the black book (copied day 3; the bird's one word: *together*; "the lock was made for two hands. So was the other thing").
+- **Corvin knows**: the bird said the ring went missing after the lord broke the egg ("Nobody knows where it went"; Idony doubted it). The roll the captain took is the College's contract with that lord, with an appendix; whoever had the chains forged knew where the ring was put. Corvin has had the roll since the autumn and couldn't read it: now he has Idony, who can read it, and who has the chain-words in his head. And the ship went east.
 - The decision: night 321 on the lighthouse rock: not to follow the Titan to the Bell (Calder's coast; he's there with the Clan; she'd be a week behind it on foot anyway); to go home: to Greyhold, to the cavern, to the door under the river: "to keep the door." The one the lion failed to keep three hundred years ago when the binders came with pitch-fire (ch 34). Orrun: "I failed it. With fire on my side." "Then we'll keep it this time." "We will be too late again, perhaps." "Then we'll be too late at the door."
 - She tells Tobin in the low quarter (rowed over day 322): he stays; the street-tribunes; the heir on Sorrel Isle with the fish-wife.
 - **Her answer** (for ch 66): she writes on the back of Calder's Blackwater page, in her square hand: *Corvin's men took Idony onto a ship at Solenne. East. He knows the words.* / *The ring is under Greyhold. Below the chains. That is the held breath. Corvin knows.* / *Going home. Keep your coast.* (Plan ch 66 echo: "Going home. Keep your coast.")
@@ -24,7 +24,7 @@ notes -->
 
 ---
 
-He'd written it at Highcrest.
+He'd written it at the stage-house above the Gilt.
 
 The night before the household's man came. She'd forgotten. She found it on the rock of Sorrel Isle, by the flint fire, in the dark, looking for the letters in her coat. Folded small. Behind the black book. On the back of one of the paper forms Moss had given them at the Scald, *the Office of the Cordon*, printed across the top.
 
@@ -48,7 +48,7 @@ In case.
 
 She sat on the rock with it in her hands.
 
-He'd known. At Highcrest. With the household's man in the courtyard asking for the Kessmoor measurer. He'd known he might not come back down from the palace, and he'd sat at the long table in the servants' kitchen with a pencil and written her a list of words.
+He'd known. At the stage-house above the Gilt, the night before the household's man came asking for the Kessmoor measurer. He'd known he might not come back down from the palace, and he'd sat at the long table in the servants' kitchen with a pencil and written her a list of words.
 
 *Sleep. Breath. Door.*
 
@@ -58,7 +58,7 @@ She folded it again very carefully and held it.
 
 The temple was in the sea.
 
-She knew that. She'd seen it go. Not seen. Felt. From the shingle, on the morning of the waking, through Orrun: the cliff below the palace breaking away and leaning out and going into the bay, with the shrine and the stair and the temple under it, the plinth and the dome and the six and the ring and the long band of carving below the six that Corvin had looked at and couldn't read. All of it. Into the water.
+She knew that. She'd felt it go. From the shingle, on the morning of the waking, through Orrun: the cliff below the palace breaking away and leaning out and going into the bay, with the shrine and the stair and the temple under it, the plinth and the dome and the six and the ring and the long band of carving below the six that Corvin had looked at and couldn't read. All of it. Into the water.
 
 She hadn't looked at the band long. In the temple. She'd looked at the egg.
 
@@ -142,7 +142,7 @@ Under the stag, the coil, the burrower, the horn, the island. Five times. *Sleep
 
 Under the lion, no egg.
 
-Something else. A line of hooked marks, short. She went down the list with her finger in the lamplight. Twice. She found it.
+Something else. A line of hooked marks, short. She went down the list with her finger in the lamplight. She found it.
 
 *Chains.*
 
@@ -172,7 +172,7 @@ Past the lion, there was more.
 
 The line from the round to the lion went on. Past it. Not along the river. Down. She saw it now in the lamplight: the carving didn't stop at the lion's shape. A short cut went on beyond it, deeper, under the round. Under the island. Under the bridge.
 
-And at the end of it, a seventh sign.
+And at the end of it, another sign.
 
 A ring. Round. With six small hollows cut in it. Evenly spaced.
 
@@ -214,7 +214,7 @@ The held breath.
 
 Idony had found it on the morning after the gate. On his glass, in Vael, before he'd ever met her. He'd told her about it on the road south from the Ring, walking: the hole under Hearthmere, and a line of dips going north-east at the speed of a bird, the walker, and under the river hill, at Greyhold, something else. *Like a breath held.* A dead-still place, where the glass didn't go up and didn't go down.
 
-On the frost at Glasswater he'd found it again. On the College's great chart. The one place where the tide didn't move. Under the Old Ruin. Under the bridge. Where all the lines went in.
+On the frost at Glasswater he'd found it again. On the College's great chart. The one place where the tide didn't move. Under the river hill. Where all the lines went in.
 
 Nobody knew what it was.
 
@@ -222,13 +222,13 @@ It was the ring.
 
 ---
 
-Not a sleeper. Not a seventh beast. The ring. The thing the six hands held up. The thing that would make the six one. *One as in one thing. One will.* Kept under the bridge, under the river, beyond the first chains.
+Not a sleeper. Not another beast. The ring. The thing the six hands held up. The thing that would make the six one. *One as in one thing. One will.* Kept under the bridge, under the river, beyond the first chains.
 
 Below the cavern. Below where the Titan had lain in its chains for three hundred years. Down. Deeper. In the dark under Greyhold's hill.
 
 A vault.
 
-And Orrun had said it, on the night of the gate. On the third day, in the cavern, by the lock, with the black river standing half-way up the walls. She'd copied the lock's sentence into the back of the black book by the light of the burning words and he'd stood beside her and said:
+And Orrun had said it, on the third day after the gate, in the cavern, by the lock, with the black river standing half-way up the walls. She'd copied the lock's sentence into the back of the black book by the light of the burning words and he'd stood beside her and said:
 
 *Something is shut there. Like a breath held.*
 
@@ -356,7 +356,7 @@ In her square hand. Big. Plain. So he could read it.
 
 *The ring is under Greyhold. Below the chains. That is the held breath. It is carved in the temple. Corvin knows where.*
 
-She stopped. She looked at it. She thought of him on the reef with his hand on the old bronze's neck, feeling something breathe. Of the white crosses on the roofs of a spit that Lisska would have seen on her way west.
+She stopped. She looked at it. She thought of him on his coast, with the Clan, waiting for something none of them had seen yet.
 
 She wrote the last line.
 
@@ -366,7 +366,7 @@ She wrote the last line.
 
 Lisska was on the lighthouse rail.
 
-Where she'd been since the shingle. Since the ship. Thin, and silent, and looking east at the open sea where it had gone. Three weeks she'd waited for an answer. Since the Elderwood. Since dawn in the clearing with a letter on her leg.
+Where she'd been since the shingle. Since the ship. Thin, and silent, and looking east at the open sea where it had gone. Sixteen days she'd waited for an answer. Since the Elderwood. Since dawn in the clearing with a letter on her leg.
 
 She looked round when Maren came up the lighthouse stair.
 
@@ -388,6 +388,6 @@ Maren thought about it.
 
 Lisska went off the rail at dusk on the three-hundred-and-twenty-second day.
 
-East. Out over the sea. Along the coast. Toward the reef, and the spit with the white crosses on its roofs, and the farmer.
+East. Out over the sea. Along the coast. Toward the reef, and the spit, and the farmer.
 
 Maren watched her go until she couldn't see her. In the morning she went down the lighthouse stair, and down to the boats, and over to the shore, with the lion swimming beside her on three legs, and they went up through the burned white city and out by the landward gate onto the Sun Road, north-east, toward home.

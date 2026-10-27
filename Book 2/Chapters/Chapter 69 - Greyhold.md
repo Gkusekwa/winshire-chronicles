@@ -6,18 +6,18 @@ Part: Part Six: The Drowned Bell
 Days: 338–342 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Greyhold
 Beats: Home. The inner wall split; Dane and Kessmoor engineers in the cellars setting the cage's anchors **into the inner wall's drained old stone**, the flaw that weakened the first chains (Magic §5). Tam forging cage-chain under conscription, with Odo in his chair telling him which links will fail. Callis is gone from Hallowmere's cells: bought out. Maren and Rowan in the yard, once enemies, with nothing to say and then a great deal. Maren goes down to the held breath with Orrun. It's waiting. Lisska comes in over the river with the farmer's page, and goes back with Maren's verdict on the cage.
-Echo of the other's story: A Saltreach boatman: dragons over Corsa in the Clan's colours.
+Echo of the other's story: A Saltreach boatman: dragons over Gullhaven in the Clan's colours, lifting sacks off the spit.
 Status: first draft
 Draft notes: Days 338–342. Decided here (proposals):
 - Days 336–337 in a line: down the King's Road from Hallowmere and onto the River Road at Millbrook. Day 338 noon she comes along the River Road to Greyhold: the charter still on the gatehouse; **Cassian's body still hanging in its chains under it** with the board (ch 4; Corvin takes it before ch 76); the crown's blue over the gate; a crown company on the walls; the yard full of carts, iron, Kessmoor men in leather aprons.
 - **Liss** at the ferry house first: older, the rope new-spliced; the ferry running every day with people going east because of rumour; Liss: "You came home." "Yes." "With a lion." "He's bigger." Maren sleeps in her old bed.
 - **Tam at the forge**: the crown has conscripted every smith on the Hearthmere bank of the Marches; Tam (19/20) at Greyhold's old forge under the north tower, forging cage-chain to a Kessmoor pattern (links a man's height, runes struck inside the curve, as the first chains were); Odo Marl in his chair by the forge door (his legs healed crooked; he walks with two sticks, mostly doesn't), telling Tam which links will fail: "That one. Cold shut. Strike it again." and, about the anchors, "It's not the links. It's what you hang them on."
 - **The anchors**: Dane (Magister Hollis Dane, Blue College, Fifth ring, gloved burned hands, very straight; Maren saw him at the Scald's envoy camp) and the Kessmoor engineers (chief: **Isak Thurl**, Master Engineer Pike's man, square, quiet; new name) are in the cellars under the inner wall, drilling the old stone for the great iron eyes the cage's chains will hang from: the cage runs from Greyhold's hill to anchors on the Saltreach bank (ch 80). The inner wall is old-realm stone, the same as the first anchor-stones; it was drained for three hundred years by the bleed going up to the lamps; it's brittle; the split in it (ch 6) is still open behind the granary. Odo rebuilt that wall; he says it'll go. Thurl knows (he has a reading-rod: the stone reads empty) and says so to Dane in front of Maren; Dane: "It held three hundred years." Thurl: "It held something asleep."
-- **Callis**: Rowan tells her: gone from Hallowmere's cells on day 300-odd, bought out: the gaoler's books show his fine paid in Saltreach gold by "a friend of the family", and the gaoler gone too. Maren knows whose friend.
-- **The yard**: day 339, Rowan in the old practice yard at dawn, alone, with a blunt sword, as when Maren was a student; they don't speak for a long time; then Rowan says the thing she has never said (she sent Maren into the trap in the spring because the council told her to, and she did it because she always did what she was told; and she turned her back on the River Road because she couldn't look at the farmer); Maren says the thing she never said (she broke Callis's arm on the island, she killed the one at the school, she lost Thorne at the river gate); they talk until the noon bell, which doesn't ring (no one says the oath now; the bell-rope cut). Rowan: the cage won't hold; she's written it to the council twice; "so I'll hold it as long as it holds, and then I'll let it go." (Plant for ch 82.) Rowan will not chain Orrun: she'll tell the council the lion couldn't be taken.
-- **Echo**, day 339 at the jetty: a Saltreach boatman come up from Wendmouth with salt: dragons over Corsa, forty of them, red thread and grey, wheeling over the Tidehall: the Clan's colours. "Never seen in Corsa. My cousin saw it from a roof."
+- **Callis**: Rowan tells her: gone from Hallowmere's cells in the autumn, bought out: the gaoler's books show his fine paid in Saltreach gold by "a friend of the family", and the gaoler gone too. Maren knows whose friend.
+- **The yard**: day 339, Rowan in the old practice yard at dawn, alone, with a blunt sword, as when Maren was a student; they don't speak for a long time; then Rowan says the thing she has never said (she sent Maren into the trap in the spring because the council told her to, and she did it because she always did what she was told; and she turned her back on the River Road because she couldn't look at the farmer); Maren says the thing she never said (she broke Callis's arm on the island, she killed the one at the school, she lost Thorne at the river gate); they talk until the noon bell, which doesn't ring (no one says the oath now; the bell-rope cut). Rowan: the cage won't hold; she's written it to the council; "so I'll hold it as long as it holds, and then I'll let it go." (Plant for ch 82.) Rowan will not chain Orrun: she'll tell the council the lion couldn't be taken.
+- **Echo**, day 339 at the jetty: a Saltreach boatman come up from Wendmouth with salt, and old news: dragons over Gullhaven, forty of them, red thread and grey, lifting sacks in baskets off the spit's roofs: the Clan's colours. "My cousin saw it from the salt pans."
 - **The held breath**, night 339: Maren and Orrun down the water-gate stair into the cavern (half full of still black river; the six iron rings with their chain stumps; the knight's lock still lit; the Kessmoor men's lamps and scaffolds at the cavern's near end where the eyes go into the wall); past the lock, across the wet stone to the cavern's end; the shut place. Orrun lies with his chin on the stone. *It is waiting.* "For what?" *For the one who comes home. And for us.* The stone warm under her hand. She hears it: not a sound: a breath held.
-- **Lisska**, dusk 340: in over the river from the south-west, thin, onto the ferry-house roof (flight 6; she went first to the Staithe and slept a night). Two pages. Maren reads them in Liss's kitchen: the Clan's promise in big letters, and the six lines from Corsa. Liss reads over her shoulder: "He writes like a child." "He writes." Lisska talks to Orrun; Orrun gives Maren: the coast, the spit, the Council, and that he says keep the door.
+- **Lisska**, dusk 340: in over the river from the south, thin, onto the ferry-house roof (flight 6; she came by the Wend's mouth and up the river, and slept two nights on the Wendmouth roofs). Two pages. Maren reads them in Liss's kitchen: the Clan's promise in big letters, and the six lines from Corsa. Liss reads over her shoulder: "He writes like a child." "He writes." Lisska talks to Orrun; Orrun gives Maren: the coast, the spit, the Council, and that he says keep the door.
 - **Maren's verdict**, written day 341 on the back of his Corsa page: *The cage won't hold. They are hanging it on the inner wall. The inner wall is the same stone as the first anchors and it's empty. Odo says so. The Kessmoor engineer says so. Rowan says so. Dane says it held three hundred years. / The crown wants Orrun for bait. No. / Callis is out. Corvin bought him. / Keep your spit. Then come.* Lisska goes back south-east at dawn 342.
 Magic touches: the drained old stone (Thurl's reading-rod); the cage-chain's runes struck inside the curve; the knight's lock still lit; the held breath; kin-speech Lisska–Orrun.
 notes -->
@@ -100,7 +100,7 @@ Later. Sitting on the forge step with a cup of water, with the link cooling on t
 
 "Did they hold?"
 
-"No."
+"Yes," said Maren. "On dry land. With six hundred hearts a day."
 
 Tam looked at her. Then at Odo.
 
@@ -274,7 +274,7 @@ Rowan didn't say anything.
 
 They talked until noon.
 
-She didn't know how. She didn't know what about, afterwards, most of it. The yard. Hale. Haverly and his sword, which was on her hip. The trial. The stair. Tobin. The Sun Stair. The Scald. What Rowan had seen at Hallowmere in the autumn: the lamps going one by one, from the gate inward, until the whole city was dark.
+She didn't know how. She didn't know what about, afterwards, most of it. The yard. Hale. Haverly and his sword, which was on her hip. The trial. The stair. Tobin. The Sun Stair. The Scald. What Rowan had been told at Hallowmere in the autumn: the lamps going one by one on the morning after the river, from the gate inward, until the whole city was dark.
 
 At noon the bell didn't ring.
 
@@ -284,7 +284,7 @@ They both looked up. At the bell tower over the inner wall, where the bell had r
 
 She was looking at the inner wall. At the cellar doors.
 
-"The cage. I've written it to the council twice. Odo told me. The Kessmoor man told me. I've been down there with his rod." She looked at her hands. "They read the letters and they thank me and they send more iron."
+"The cage. I've written it to the council. Odo told me. The Kessmoor man told me. I've been down there with his rod." She looked at her hands. "They read the letters and they thank me and they send more iron."
 
 "Then why command it?"
 
@@ -320,11 +320,11 @@ A boatman told her about the dragons.
 
 That afternoon. At the jetty. A Saltreach man, up from Wendmouth with salt in a flat-bottomed barge, tying up at the Staithe and then crossing on Liss's boat for the Hearthmere market because he'd heard there was a lion. He stood on the jetty and looked at Orrun with his mouth open, and then he told her, because he had to tell someone.
 
-"Dragons over Corsa," he said. "Forty of them. More. Red thread and grey. The Clan's colours." He made a circle with his hand in the air. "Round and round over the harbour. Over the Tidehall. Low as the masts. My cousin saw it from a roof." He shook his head. "Never seen in Corsa. Never. Not in my grandfather's time."
+"Dragons over Gullhaven," he said. "Forty of them. More. Red thread and grey. The Clan's colours." He made a lifting motion with his hand in the air. "Taking sacks off the roofs of the spit in baskets. Over the harbour and back. Every day. My cousin saw it from the salt pans." He shook his head. "Never seen on that coast. Never. Not in my grandfather's time."
 
 "Why?"
 
-"Nobody knows," said the boatman. "Something about the oyster beds, my cousin says." He looked at the lion again. "Strange times."
+"Nobody knows," said the boatman. "Practising, my cousin says. He can't say what for." He looked at the lion again. "Strange times."
 
 ---
 
@@ -368,7 +368,7 @@ He was quiet for a long time. His eyes were half shut. His chin on the stone flo
 
 Lisska came the next day at dusk.
 
-In over the river from the south-west, low, thin. Thinner than Maren had ever seen her, her pale green eyes too big for her head. She came in over the Saltreach bank and the Staithe and the ferry rope, and landed on the ferry-house roof with a sound like a barn coming down, and lay there with her wings spread out over the slates and her sides going in and out.
+In over the river from the south, low, thin. She'd come by the Wend's mouth and up the river, looking for the lion, and slept two nights on the Wendmouth roofs on the way. Thinner than Maren had ever seen her, her pale green eyes too big for her head. She came in over the Saltreach bank and the Staithe and the ferry rope, and landed on the ferry-house roof with a sound like a barn coming down, and lay there with her wings spread out over the slates and her sides going in and out.
 
 Liss came out and looked at her.
 
@@ -384,17 +384,7 @@ The first one she'd seen the like of before. His big square careful letters, get
 
 *WHEN THE COAST IS DONE THE CLAN WILL COME TO THE RIVER.*
 
-The second was short.
-
-*The Council will not empty the spit. It is oyster season.*
-
-*Vey has the contract. He is going out on the reef with harpoons.*
-
-*The Clan came over Corsa today. All of them. The Council will not hinder.*
-
-*Vey's wyverns will take the children off the sheds. Arn is paying.*
-
-*The reader's numbers are right. I read them to the Council myself.*
+The second was short. Six lines. The Council, the oysters, Vey's harpoons, the Clan over Corsa. And the last one.
 
 *Keep the door.*
 

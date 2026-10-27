@@ -9,7 +9,7 @@ Beats: Days 17–25. Gunna brings the Fenns up to the caves; Wren tells him the 
 Echo of the other's story: From the Scarfell, Lisska watches the lion go east, and the ground humming behind it.
 Status: first draft
 Draft notes: Day 17, morning, to day 25, dawn. Decided here (proposals):
-- Day 17, morning (the echo): Lisska, who flew down with Gunna on day 15 and stayed on the edge, comes back to the setters' ledge. Before light she saw the lion go east across the moor alone with the woman, and the heather moving behind them as if wind were going through it where there was no wind: the ground humming. Calder doesn't say anything for a long time.
+- Day 17, morning (the echo): Lisska, whom Calder sent back down to the edge on day 16 to watch (she'd come home at dusk on day 15, ch 10), comes back to the setters' ledge. Before light she saw the lion go east across the moor alone with the woman, and the heather moving behind them as if wind were going through it where there was no wind: the ground humming. Calder doesn't say anything for a long time.
 - Day 18: Gunna's three dragons come over the moor, walking pace, with the Fenns, the greys and Old Grey; Calder walks up to the old hatching caves above Coldtarn to meet them (four leagues; the wing is five days set and Aurveth lets him go for a day). The caves: warm rock, the old hatching hollows like great stone bowls in the floor, a few wintering dragons still in the back; the warm spring that never freezes runs out of the cave mouth to the tarn. Wren on Old Grey. "She wouldn't come in." Twice. The stone with the white ring through it, out of her shirt: "She found it on the edge. She didn't say what it's for." He keeps it in his coat with the knife and the ring. Ada: "She'd not have come, son. Don't be a fool about it." Bel hugs him, once, hard.
 - Days 19–20, Varrhold: the spring pens. The breeding pens on the lower ledges are shut now, chosen pairs behind oak bars, the Clan's keepers feeding them Scarfell mutton; Calder sees it properly for the first time. Aurveth: *That is the shame I told you of.* He asks why the dragons stand it. *The eggs. The caves. The bargain. And habit, which is the strongest chain there is.* (World.md, "How the Clan keeps its dragons".)
 - Day 20, the hall: the chief's chair. A high-backed chair of black oak at the middle of the high table, between where the two fires were, empty. Arn sits beside it, never in it. Gorm: a chief is named at Coldtarn by both halves of the Clan pouring together, and half the Clan is at Skarrow. Until then nobody sits in it. Arn had a cloth put over it after Teo. It's still there.
@@ -23,7 +23,7 @@ notes -->
 
 ---
 
-Lisska came back on the morning of the seventeenth day, early, with the sun not yet over the fells.
+Lisska came back on the morning of the seventeenth day, early, with the sun not yet over the fells. He'd sent her back down to the edge the day before, to sit on the rocks and watch.
 
 He was on the setters' ledge with the old one, as he'd been every morning, sitting with his back to the warm rock and his hand on her jaw, and he felt Lisska coming a long way off: a bright quick flicker in the back of his head, like a fish turning in a shallow. Then she came round the shoulder of the cliff low and fast and landed on the ledge in a scatter of grit, and folded her wings, and didn't say anything.
 
@@ -47,9 +47,9 @@ He looked out over the glen. The light was coming up grey over the moor. Somewhe
 
 "Wind."
 
-*There wasn't any wind. It was still. Everything was still.* She was quiet. *Only behind them. Behind the lion. A long way back, the heather moving, the way it moves when the wind goes over it, in a line, following. As if the ground was humming. As if the ground under the moor was ringing where he'd walked and it went on ringing after he'd gone.*
+*There wasn't any wind. It was still. Everything was still.* She was quiet. *Only behind them. Behind the lion. A long way back, the heather moving, as it moves when the wind goes over it, in a line, following. As if the ground was humming. As if the ground under the moor was ringing where he'd walked and it went on ringing after he'd gone.*
 
-He sat with that a long time.
+He sat with that.
 
 Beside him the old one had opened her eye.
 
@@ -141,7 +141,7 @@ He took it. It was warm from being in her shirt. He turned it over, and it was t
 
 "Because she didn't know what it was for," said Wren, as if that settled it, "and she gave it to me anyway."
 
-He sat on the edge of the hatching bowl with the stone in his hand and his daughter beside him and the warm water going by, and didn't say anything for a long time.
+He sat on the edge of the hatching bowl with the stone in his hand and his daughter beside him and the warm water going by, and turned the stone over, and over.
 
 Then he put it in his coat. In the inside pocket, with Rook's knife and the dead shooter's iron ring on its string. Three things. He didn't know what the third one meant. He thought maybe nobody did.
 
@@ -171,7 +171,7 @@ He didn't say anything.
 
 "No," said his mother. "You're not. That's what I mean."
 
-Bel came and sat down by him at the fire after the children were asleep. She didn't say anything either. She put her arms round him, once, hard, as she'd done when their father died, and when Senna died, and let go, and went back to Nan.
+Bel came and sat down by him at the fire after the children were asleep. She put her arms round him, once, hard, as she'd done when their father died, and when Senna died, and let go, and went back to Nan.
 
 ---
 
@@ -345,7 +345,7 @@ He went down off the wall.
 
 He went up to Kharrak in the morning.
 
-The red dragon had taken a cave of his own on the high ledges, the first night, without asking anybody, and nobody had argued with him. He was lying across the mouth of it in the early sun when Calder came along the ledge, with his chin on his forelegs and his eyes half shut, the way a dog lies across a door.
+The red dragon had taken a cave of his own on the high ledges, the first night, without asking anybody, and nobody had argued with him. He was lying across the mouth of it in the early sun when Calder came along the ledge, with his chin on his forelegs and his eyes half shut, as a dog lies across a door.
 
 He opened one gold eye.
 
@@ -357,7 +357,7 @@ He opened one gold eye.
 
 Calder sat down on the ledge in front of him.
 
-He knew about Dag. Everybody knew about Dag. Dag Rorke, the hardest rider on the ledges, as hard as his dragon. At the mill, in the dark, over the barley field. Dag standing up on Kharrak's back with his axe to swing at the old one's eye, and the old one taking him off it, in the air, the way a heron takes a fish. Kharrak coming down across the Fenn field with nobody on him and the bond torn out of him like a tooth. He'd fallen into the barley a hundred yards from Calder and lain there and looked at him.
+He knew about Dag. Everybody knew about Dag. Dag Rorke, the hardest rider on the ledges, as hard as his dragon. At the mill, in the dark, over the barley field. Dag standing up on Kharrak's back with his axe to swing at the old one's eye, and the old one taking him off it, in the air, as a heron takes a fish. Kharrak coming down across the Fenn field with nobody on him and the bond torn out of him like a tooth. He'd fallen into the barley a hundred yards from Calder and lain there and looked at him.
 
 *He was a hard man,* said Kharrak. *Dag. I liked him. He didn't talk.* A pause. *He'd have killed her. The old one. If she'd not taken him. He'd have had her eye and then her throat.* Another pause. *I'd have let him.*
 
@@ -389,7 +389,7 @@ Straight up. No run. No slow beating to get the air under him. He crouched and t
 
 And the red tide came up.
 
-He felt it come, through the bond. Not anger. The other thing, the thing under Kharrak's anger that the anger was made of. Height. Speed. The air going past. A great hot joy in it that went up through the red dragon like fire up a chimney and into Calder and filled him, so that for a moment he wanted, more than he'd ever wanted anything, to go higher, and faster, and to find something below and go down on it with fire.
+He felt it come, through the bond: the thing under Kharrak's anger that the anger was made of. Height. Speed. The air going past. A great hot joy in it that went up through the red dragon like fire up a chimney and into Calder and filled him, so that for a moment he wanted, more than he'd ever wanted anything, to go higher, and faster, and to find something below and go down on it with fire.
 
 He held it.
 
@@ -407,7 +407,7 @@ They came down in the heather a quarter-league from where they'd gone up. Calder
 
 "Was that wrong?"
 
-The red dragon looked at him for a long time.
+The red dragon looked at him.
 
 *No,* said Kharrak. *It was different.*
 

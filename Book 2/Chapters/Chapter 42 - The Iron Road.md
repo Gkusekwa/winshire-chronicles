@@ -30,7 +30,7 @@ notes -->
 
 The country was dead all the way to the mountains.
 
-She knew it before Idony told her. She felt it through Orrun, every step, the way you feel a floor go from boards to stone under bare feet. West round the end of the lake, west under the High Crown, along the foot of the snow on the old road where the herd had brought them in summer. Every step the same. Nothing in it. Ground. Stone that was only stone.
+She knew it before Idony told her. She felt it through Orrun, every step, like a floor going from boards to stone under bare feet. West round the end of the lake, west under the High Crown, along the foot of the snow on the old road where the herd had brought them in summer. Every step the same. Nothing in it. Ground. Stone that was only stone.
 
 Idony took his glass out every evening and set it on a rock and looked at it, and it lay there with its quicksilver at the bottom of the bulb like a bead of lead.
 
@@ -50,7 +50,7 @@ They'd turned south-west by then, off the High Crown road, up toward the saddle 
 
 He went through it like a ship. She walked in the channel behind him. Idony walked behind her, in her footprints, with his stick.
 
-They went over the saddle on the eighth day in a wind that took the breath out of her mouth.
+They went over the saddle on the ninth day in a wind that took the breath out of her mouth.
 
 On the far side, halfway down, Idony stopped and took out his glass.
 
@@ -90,7 +90,7 @@ West, the first night. North-west, the second. Then back. Then west again. Over 
 
 The first canal was at the bottom of the valley.
 
-She saw it from above, coming down out of the snow on the tenth day. A town at the head of the river where the Coldrun came down out of the moors in a white rush and ran into a lock. A long straight cut of grey water going away west between brick banks, as straight as a rule, with towpaths on either side, and lock-gates every half-mile stepping it down the valley like stairs. Brick lock-houses. Iron bridges over the cut that lifted, Idony said, so the barges could pass. Chimneys. Smoke.
+She saw it from above, coming down out of the snow on the eleventh day. A town at the head of the river where the Coldrun came down out of the moors in a white rush and ran into a lock. A long straight cut of grey water going away west between brick banks, as straight as a rule, with towpaths on either side, and lock-gates every half-mile stepping it down the valley like stairs. Brick lock-houses. Iron bridges over the cut that lifted, Idony said, so the barges could pass. Chimneys. Smoke.
 
 "Coldrun Locks," said Idony. "The top of the canals."
 
@@ -100,7 +100,7 @@ At dusk the lamps came on in the town below. Green. A soft, sick green, in glass
 
 "Is that a working?" she said.
 
-"No." Idony looked at them. "That's the one thing they're allowed. It's not the Deep. It's a salt in water and a metal in the salt, and they light it with a spark. It burns green." He was quiet. "It's very clever. Isvaren laughs at it."
+"No." Idony looked at them. "That's the one thing they're allowed. It's not the Deep. It's a salt in water and a metal in the salt, and they light it with a spark. It burns green. It's very clever. Isvaren laughs at it."
 
 ---
 
@@ -161,7 +161,7 @@ A man got off.
 
 Neat. In a grey coat and a waistcoat, with a brass gauge on a chain at his waistcoat pocket, like the clerk's but bigger. Forty, perhaps. Clean-shaven. A dry, careful face, as if he'd been told a great many things in his life and believed about half. Behind him six men in oilcloth coats with crossbows. The crossbows had marks on them. Little cut marks, along the stocks.
 
-He walked along the towpath to where Orrun lay and stopped at ten paces and looked at him for a long time.
+He walked along the towpath to where Orrun lay and stopped at ten paces and looked at him.
 
 Then he looked at her.
 
@@ -237,7 +237,7 @@ He stood at the rail in the sleet with his stick and one glass in his hand and l
 
 The engine-house went past. The glass came upright again.
 
-He went back into the cabin and wrote something down and didn't say anything else about it.
+He went back into the cabin and wrote something down.
 
 ---
 
@@ -313,7 +313,7 @@ On the far side, the cage.
 
 She didn't understand it at first.
 
-Water. That was the first thing. A canal. Running round the inside of the bank, wide, grey, smoking. Not with steam. With cold. A grey haze lying on it, and frost on its brick edges, and the water in it moving, fast, running along between its banks in the same direction all the way round.
+Water. That was the first thing. A canal. Running round the inside of the bank, wide, grey, smoking with cold. A grey haze lying on it, and frost on its brick edges, and the water in it moving, fast, running along between its banks in the same direction all the way round.
 
 Beyond it, iron.
 
@@ -335,7 +335,7 @@ A woman had come out of the nearest hut.
 
 Tall. Heavy in the shoulders. Sixty, or more. Grey hair cut short, like a man's. A leather coat, old, black at the cuffs. A pair of spectacles with smoked lenses pushed up on her forehead, and soot in the creases of her knuckles, so deep it would never wash out.
 
-She looked at Orrun the way Maren had seen a smith look at a horse that was going to be shod. Not afraid. Measuring.
+She looked at Orrun as a smith looks at a horse that's to be shod. Measuring.
 
 "Agathe Pike," she said. "Master Engineer. Of the Cordon." She looked at the lion a moment longer. "He's bigger than they said on the barges."
 
@@ -393,13 +393,13 @@ She gave them the glass to look through. A long brass one, like a little of Esk'
 
 The Scald.
 
-A basin. Wide. Wider than Glasswater had been. Low in the middle, curving up at the edges to the third canal, under the yellow-grey sky. And all of it glass. Fused. Black and green and brown, glinting, smooth in places and in places heaped and rippled like a pond frozen in a wind. Shapes in it. Lumps, and lines, and squares. She looked at the squares a long time before she understood them.
+A basin. Wide. A league across, near enough. Low in the middle, curving up at the edges to the third canal, under the yellow-grey sky. And all of it glass. Fused. Black and green and brown, glinting, smooth in places and in places heaped and rippled like a pond frozen in a wind. Shapes in it. Lumps, and lines, and squares. She looked at the squares a long time before she understood them.
 
 Streets. Walls. The footings of houses. A town, melted into the glass. Orrin.
 
 Small things moving over the glass in the low light. White. Fluttering.
 
-"Moths," said Pike. "Glass moths. Nothing else lives on it. Nobody knows what they eat." She was quiet. "They ring, when they hit the glass. Like little bells. You'll hear them at night."
+"Moths," said Pike. "Glass moths. Nothing else lives on it. Nobody knows what they eat. They ring, when they hit the glass. Like little bells. You'll hear them at night."
 
 Maren moved the brass glass.
 

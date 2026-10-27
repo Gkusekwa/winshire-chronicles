@@ -13,7 +13,7 @@ Draft notes: Noon of day 0 to the first grey of day 1. Decided here (proposals):
 - The noon bell: Maren keeps looking downriver at noon; Calder asks; she says it has rung at noon every day for three hundred years. It doesn't. (The echo.)
 - On the road: refugees from Millbrook coming back to look at what's left; a knight's widow with a hound that won't leave the road; nobody stops them. Kharrak says what everyone's thinking, which is that they're being let go.
 - The ferry house is a long low stone house at the foot of the jetty under Greyhold's river wall, with a smoke-house, a net-loft and the ferry drawn up on its slip; the guide-rope runs from a post on the jetty across to Tolly's Staithe.
-- Wren and Liss are at the ferry house: Liss brought her down from the gate on night 143 when she went for Hale at the water-gate, and kept her there. Wren is on the jetty when they come. She makes him say "We're all here" twice. She ties nothing new on Lisska: the blue ribbon is still on the left horn.
+- Wren and Liss are at the ferry house: Wren has been at the ferry house with Liss since night 142. Wren is on the jetty when they come. She makes him say "We're all here" twice. She ties nothing new on Lisska: the blue ribbon is still on the left horn.
 - Ada, Bel, Pip (6) and Nan (4) come down from the Long Barn after dark with the three greys: Mabbin, Sorrel and Old Grey. Old Grey walks to where Wren is and stands there. Bel hasn't forgiven Calder and doesn't pretend; she says Joss would have liked to see the island go.
 - Liss calls her daughter Maren; from then on Calder thinks of her by name.
 - Night: Calder lays out on Liss's table what he carries: Rook's knife with the ring of six on its round pommel (the "six-knife"); the dead shooter's iron ring on its string from the second ford (Book 1 ch 60); the island chain and the five-link chain from Upper Rush, both with Odo's crossed hammers inside a link. He tells Maren everything he heard under the arch (Book 1 ch 68): the twins' names; "a man's a halter"; Teo, told like a cart-load delivered; Imra's shooter, one of Delling's crossbowmen; the plan for the two locks. Ada listens from the fire and doesn't speak. Maren believes him; neither of them can prove it. Rook is dead; his book is in Delling's chest; Delling sells anything; Calder can't read.
@@ -50,7 +50,7 @@ Calder walked at her head with his hand on her jaw.
 
 At noon the woman with the lion started looking downriver.
 
-She'd walked behind them since the reeds without saying much, her hand on the lion's shoulder, the river watch sword through her belt now instead of in her fist. Every so often the lion turned his great grey head and looked at the dragons and the dragons looked back, and something went between them that Calder only half caught, the way you half catch two neighbours talking over a wall about a thing you weren't there for. Kin, Lisska called it. *Far kin. Very far. He talks slow.*
+She'd walked behind them since the reeds without saying much, her hand on the lion's shoulder, the river watch sword through her belt now instead of in her fist. Every so often the lion turned his great grey head and looked at the dragons and the dragons looked back, and something went between them that Calder only half caught, as you half catch two neighbours talking over a wall about a thing you weren't there for. Kin, Lisska called it. *Far kin. Very far. He talks slow.*
 
 Now the woman kept turning her head toward Greyhold, still hidden by the long bend below the road. Again. Then again.
 
@@ -66,7 +66,7 @@ They walked. The sun stood on top of the sky.
 
 Nothing rang.
 
-She stopped listening after a while. He saw her stop: her shoulders came down a little, the way a horse's do when you take the harness off. She didn't say anything else about it, and he didn't ask.
+She stopped listening after a while. He saw her stop: her shoulders came down a little, as a horse's do when you take the harness off. She didn't say anything else about it, and he didn't ask.
 
 ---
 
@@ -114,7 +114,7 @@ The bend came round and there was Greyhold.
 
 He'd seen it from the far side all his life. Everybody on the Saltreach bank had: the grey hill and the grey walls on top of it, the river wall along the water, the towers. Lights on it at night like a string of stars set down on the ground. Never a fire. Never a lamp guttering. Clean white lights, every one, all night, all year, so that you could tell the hour on the Saltreach bank by when they came on.
 
-There were no lights on it now. It wasn't dark yet, and he could see that the walls were dark anyway, the way a house is dark at noon when everyone in it has died. There was a crack in the inner wall that he could see from a league off, top to bottom, like a split in a log. Smoke went up from inside, thin. Somebody was burning something.
+There were no lights on it now. It wasn't dark yet, and he could see that the walls were dark anyway, like a house at noon when everyone in it has died. There was a crack in the inner wall that he could see from a league off, top to bottom, like a split in a log. Smoke went up from inside, thin. Somebody was burning something.
 
 Under the river wall, at the foot of a stone jetty that ran out into the Wend, there was a long low house with a turf roof. A net-loft. A smoke-house. A flat-bottomed ferry drawn up on a slip, and a thick rope running from a post on the jetty out over the water, across to the far bank, to a little huddle of huts and drying racks that he'd sold barley at every autumn of his life.
 
@@ -130,7 +130,7 @@ She stood at the end of the jetty with her arms at her sides and watched them co
 
 The blue ribbon on the green dragon's left horn was dirty, and wet, and still there.
 
-Calder walked down the landing. He found he couldn't go faster than he was going. His legs had decided it.
+Calder walked down the landing. He found he couldn't go faster than he was going.
 
 Wren let go of Lisska and looked at him.
 
@@ -168,7 +168,7 @@ Liss looked at her. Then at the lion, a long look, all the way up and all the wa
 
 "You'll want something hot, Maren," said Liss.
 
-That was all. She went back in. Maren stood there a moment longer, and then she sat down on the bottom step of the jetty, where she was, as if her legs had decided it too.
+That was all. She went back in. Maren stood there a moment longer, and then she sat down on the bottom step of the jetty, where she was, and stayed there.
 
 ---
 
@@ -216,9 +216,9 @@ Later, when the children were asleep in the net-loft and Bel had gone up with th
 
 He hadn't meant to. He'd come in from the shingle where the dragons were, and Maren was at the table, alone, with a bowl in front of her she hadn't touched, and the lion lying full length on the jetty outside the open door with his head toward it. Liss at the fire. Ada in the corner, mending something that didn't need mending. He'd sat down across from her, and his coat was heavy, and he'd started taking things out of it so he could take it off. Then he'd kept going.
 
-A knife. Plain, short, a round pommel worn smooth by a thumb, and on the pommel, cut small, a ring of six dots round a seventh.
+A knife. Plain, short, a round pommel worn smooth by a thumb, and on the pommel, cut small, a ring of six dots.
 
-An iron ring on a string, small enough to go over a thumb, stamped with the same six round the seventh. Kharrak had brought it to him off a dead man's neck in the gorse at the ford on Hollow Beck, the second time, the day Hallam died.
+An iron ring on a string, small enough to go over a thumb, stamped with the same ring of six. Kharrak had brought it to him off a dead man's neck in the gorse at the ford on Hollow Beck, the second time, the day Hallam died.
 
 A length of beast-chain. Heavy. Cut. Off the island, off the lion's leg, in the summer.
 
@@ -264,7 +264,7 @@ He told it the way it had come to him, in order, lying on the beam. The still on
 
 Then the first ford.
 
-He told her that part exactly. He'd found that he could say it exactly, word for word, the way you can recite a thing you've been made to learn by someone who beat you. The laughing one asking, quietly, as if he'd never asked before: *the boy. The first one. Varr's son.* And Rook: *went in the water like a stone. He never drew. He thought I'd come to hold his horse.*
+He told her that part exactly. He'd found that he could say it exactly, word for word, as you can recite a thing you've been made to learn by someone who beat you. The laughing one asking, quietly, as if he'd never asked before: *the boy. The first one. Varr's son.* And Rook: *went in the water like a stone. He never drew. He thought I'd come to hold his horse.*
 
 Ada had stopped mending.
 

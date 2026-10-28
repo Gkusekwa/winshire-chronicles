@@ -1,0 +1,1413 @@
+{
+ "chapter": 39,
+ "title": "First Frost",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Thirty-nine.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "First Frost.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The first hard frost in the Marches is called the Widow’s Frost. Nobody knows why. Liss says it’s because it comes in the night, when nobody’s watching, and takes the last of the green, and you come out in the morning and everything you planted is black. Ottery says it’s because it’s the frost the river watch used to lose men to, in the old days, on the long night patrols, when a man would sit down in the reeds for a moment’s rest and not get up. Maren’s father used to say it was just a name. He said that every year. Then one year he didn’t say anything at all, because it was the year he died, and the Widow’s Frost came down on the morning they burned him.",
+   "mood": "reflective",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "The frost came in the night, and the raiders came with it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "She was at Redwatch. Pell had taken the patrol up again, the same seven as Ferriby, the night before: to stand at the tower, and watch the river, and wait. Every tower on the Hearthmere bank had a patrol on it now. Since Ferriby. Since the boats. Since the second rider with Greyhold’s seal. Rowan had sent the order herself."
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "written",
+   "text": "No boat to come in on any order but mine, in my own hand, carried by someone the tower knows."
+  },
+  {
+   "seq": 7,
+   "para": "p3",
+   "type": "narration",
+   "text": "Ottery had pinned it to the guardroom door with his knife.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p4",
+   "type": "narration",
+   "text": "They’d slept in the guardroom, on the floor, in their cloaks, by the fire. Maren had woken in the dark before dawn and gone out to see to Turnip, and found the yard white. Every stone, every rail, every blade of grass in the cracks. White. The frost had come down in the night like a hand. Her breath went out in front of her in a long grey cloud. The water in Turnip’s trough was a slab of ice she had to break with her heel.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p5",
+   "type": "narration",
+   "text": "Down on the river, at the landing below the tower, something knocked.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "narration",
+   "text": "Wood on stone. Then a voice, low, cut off.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "narration",
+   "text": "She knew that sound. She’d heard it at Ferriby, from the creek, in the dusk.",
+   "mood": "dread",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 12,
+   "para": "p8",
+   "type": "narration",
+   "text": "They were after the boats.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p9",
+   "type": "narration",
+   "text": "She understood that afterwards, when it was over and she sat in the guardroom with her hands round a cup she couldn’t drink from. They’d come for the river-watch boats themselves, and not for beasts. The long grey patrol boats tied up at the Redwatch landing, five of them, that Ottery and his crews took out every night since Rowan’s order. Somebody had decided the river would be easier with no boats on it at all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p10",
+   "type": "narration",
+   "text": "There were twenty of them, maybe. Masked. Come up the river in the dark in two barges and onto the landing in the frost before dawn, quiet, with axes, to stave in the boats where they lay. And they’d have done it, too, if Maren hadn’t been out in the yard breaking ice for a horse.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p11",
+   "type": "narration",
+   "text": "She shouted. She didn’t think about it. She shouted as you shout on the river watch when there’s something in the reeds, and the guardroom door banged open, and Pell came out with his sword already drawn, and Ottery behind him with a boathook, and the others, and they went down the frozen steps to the landing in the grey light, sliding, and the raiders turned round.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p12",
+   "type": "narration",
+   "text": "And the hounds came up out of the barges.",
+   "mood": "dread",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 17,
+   "para": "p13",
+   "type": "narration",
+   "text": "She didn’t understand them. Not then.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p14",
+   "type": "narration",
+   "text": "There were six of them. Big, rough, brindled things, like Bracken but heavier, with iron collars on their necks. They came up out of the barges onto the landing in a line, and they didn’t bark. That was the first thing. Every hound she’d ever known barked when it went for something; barked, or bayed, or growled. These made no sound at all. They came up the landing in the frost in a line, silent, all together, and their eyes in the grey light were the strangest thing she had ever seen.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 19,
+   "para": "p15",
+   "type": "narration",
+   "text": "Empty. Like windows in a house where nobody lived.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 20,
+   "para": "p16",
+   "type": "narration",
+   "text": "They went for the patrol. All six at once. Not the way hounds go, each one at its own man. They went together, as if one hand were moving all of them, two at Callis, two at Wynn, two at Pell. In the stern of the nearer barge a man in grey stood with one arm out, not fighting, not even watching the fight, and when the arm moved, all six of them moved. And when Wynn’s hound, a big grey bitch called Ash, went for one of them and opened its shoulder to the bone, it didn’t yelp. It didn’t stop. It didn’t even turn its head. It went on at Wynn as if nothing had touched it, with the blood running down its leg into the frost.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p17",
+   "type": "narration",
+   "text": "Maren had a practice sword and a lantern. She stood at the top of the landing steps and stared.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p18",
+   "type": "thought",
+   "text": "They don’t feel it,",
+   "speaker": "Maren",
+   "mood": "dread"
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "narration",
+   "text": "she thought.",
+   "mood": "dread"
+  },
+  {
+   "seq": 24,
+   "para": "p18",
+   "type": "thought",
+   "text": "They don’t feel anything.",
+   "speaker": "Maren",
+   "mood": "dread",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 25,
+   "para": "p19",
+   "type": "narration",
+   "text": "Pell went down.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p20",
+   "type": "narration",
+   "text": "She saw it. He was on the landing at the foot of the steps, with his sword, fighting a raider with an axe, and one of the silent hounds came at him from the side, low, and took his leg, and he went down on the frozen stones on his back with the hound on his legs and the raider over him with the axe going up.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p21",
+   "type": "narration",
+   "text": "And Bracken went past her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p22",
+   "type": "narration",
+   "text": "She felt him go. A rush of grey at her knee, going down the steps, fast, low, silent too, but not their silence. His own. Bracken never made a sound when he went for something. Ide had told her.",
+   "mood": "action"
+  },
+  {
+   "seq": 29,
+   "para": "p22",
+   "type": "remembered",
+   "text": "He’s quiet. He’s always been quiet. He took the poacher’s arm without a sound.",
+   "speaker": "Ide",
+   "mood": "action"
+  },
+  {
+   "seq": 30,
+   "para": "p22",
+   "type": "narration",
+   "text": "He went down the frozen steps and across the landing like a thrown stone and hit the raider with the axe at the knees, and the raider went over backwards into the river with a great splash, and the axe went spinning away across the stones.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p23",
+   "type": "narration",
+   "text": "Bracken turned. The two silent hounds that had been on Callis left Callis, both at once, as the arm in the stern swung, and came at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p24",
+   "type": "narration",
+   "text": "He fought them. She’d remember that. He fought them both, on the landing in the frost, a big rough brindled hound with one torn ear and a scar down his muzzle, against two that didn’t feel anything and didn’t stop. He fought them the way he’d been taught, the way Ide had taught him, quick and hard and silent, and he had one of them by the throat and was bearing it down when the crossbow went.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p25",
+   "type": "narration",
+   "text": "Thock.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 34,
+   "para": "p26",
+   "type": "narration",
+   "text": "She heard it. From the barge. The same sound. The same sound she’d heard on the spit, from the guard, when the bolt went past her ear and rang off the paving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p27",
+   "type": "narration",
+   "text": "Bracken stopped.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 36,
+   "para": "p28",
+   "type": "narration",
+   "text": "He stood on the landing, very still, with the silent hound’s throat still in his jaws. Then he let go of it. Gently. The way he always let go when Ide told him. And lay down on the frost, on his side, slowly, like an old dog lying down by the fire. And didn’t get up.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 37,
+   "para": "p29",
+   "type": "narration",
+   "text": "Behind Maren, on the steps, someone screamed.",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 38,
+   "para": "p30",
+   "type": "narration",
+   "text": "Ide Darrow had been ten paces off. At the top of the steps, with her sword, behind Maren. She’d been coming down. She’d stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p31",
+   "type": "narration",
+   "text": "She was standing on the step with her sword in her hand and her other hand pressed flat against her side, under her ribs, on the left. Where the bolt had gone into Bracken. Her face was white, like the frost.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 40,
+   "para": "p32",
+   "type": "narration",
+   "text": "She didn’t scream again. She looked down at the landing, at the grey shape lying on its side on the frozen stones, and her mouth opened, and nothing came out of it.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 41,
+   "para": "p33",
+   "type": "narration",
+   "text": "Then her knees went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p34",
+   "type": "narration",
+   "text": "Maren caught her. She dropped the lantern and the practice sword and caught her as she fell, and went down with her on the frozen steps, and held her. Ide was shaking. Her eyes were open. She was looking at the landing, past Maren’s shoulder, at Bracken.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 43,
+   "para": "p35",
+   "type": "speech",
+   "text": "“He let go,”",
+   "speaker": "Ide",
+   "how": "whispered",
+   "mood": "grief"
+  },
+  {
+   "seq": 44,
+   "para": "p35",
+   "type": "narration",
+   "text": "she said. In a whisper.",
+   "mood": "grief"
+  },
+  {
+   "seq": 45,
+   "para": "p35",
+   "type": "speech",
+   "text": "“Did you see? He let go. I didn’t tell him. He let go anyway.”",
+   "speaker": "Ide",
+   "how": "whispered",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 46,
+   "para": "p36",
+   "type": "narration",
+   "text": "It was over very quickly after that. The raiders had come for boats, not for a fight, and the fight had gone wrong for them. Ottery’s crews came pouring down from the tower with boathooks. The raiders went back into their barges and pushed off, and the silent hounds went with them, every one, back into the barges at once, the way they’d come, as if a hand had called them. One of them was limping, with its shoulder open. It didn’t make a sound.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p37",
+   "type": "narration",
+   "text": "Not one boat was staved. Not one man of the patrol was dead. Pell had a torn leg and Callis had a bitten arm and Wynn’s hound Ash was cut. That was all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p38",
+   "type": "narration",
+   "text": "Bracken was lying on the landing with a bolt in his side.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 49,
+   "para": "p39",
+   "type": "narration",
+   "text": "Ide Darrow was sitting on the frozen steps in Maren’s arms, with her hand pressed flat under her ribs, beginning, very quietly, to go cold.",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 50,
+   "para": "p40",
+   "type": "narration",
+   "text": "She’d seen it before. That was the worst of it. She’d seen every hour of it before, thirteen years ago, when she was fourteen, in a little room over the ferry-house with the river going by under the window.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 51,
+   "para": "p41",
+   "type": "narration",
+   "text": "They brought Ide back to Greyhold on a cart, lying on straw with a cloak over her, and Bracken beside her on the straw, wrapped in a blanket, because she wouldn’t let them take him anywhere else. They put her in the infirmary, in the end bed, by the window. And she lay there. And it began.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p42",
+   "type": "narration",
+   "text": "The first day, she talked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p43",
+   "type": "narration",
+   "text": "That was how it always began. Maren remembered. Her father had talked the whole of the first day. About the river, and the ferry, and the hound, whose name was Fly, and how Fly had come to him as a puppy, and what Fly liked, and what she didn’t. As if he were telling it so somebody would remember.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 54,
+   "para": "p44",
+   "type": "narration",
+   "text": "Ide talked about Bracken. She lay in the end bed by the window with the frost on the glass and talked about him all day, quietly, to whoever was there. How he’d come to her when she was twelve, a rough brindled pup in a litter on her uncle’s farm in the south, the runt, the one nobody wanted. How he’d picked her. Walked across the barn to her through the straw on his fat little legs and sat on her foot. How he never barked. How he hated cats, except the one nobody owned, which he pretended not to see. How he’d taken the poacher’s arm on the Brackenwood road two winters ago without a sound, and then let go the moment she said, and lain down, and looked at her, as if to say:",
+   "mood": "tender"
+  },
+  {
+   "seq": 55,
+   "para": "p44",
+   "type": "remembered",
+   "text": "was that right?",
+   "speaker": "Ide",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p45",
+   "type": "speech",
+   "text": "“He always let go,”",
+   "speaker": "Ide",
+   "mood": "grief"
+  },
+  {
+   "seq": 57,
+   "para": "p45",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "grief"
+  },
+  {
+   "seq": 58,
+   "para": "p45",
+   "type": "speech",
+   "text": "“Always. When I told him.”",
+   "speaker": "Ide",
+   "mood": "grief"
+  },
+  {
+   "seq": 59,
+   "para": "p45",
+   "type": "narration",
+   "text": "She looked at the window.",
+   "mood": "grief"
+  },
+  {
+   "seq": 60,
+   "para": "p45",
+   "type": "speech",
+   "text": "“He let go at the end. I didn’t tell him. He just let go.”",
+   "speaker": "Ide",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 61,
+   "para": "p46",
+   "type": "narration",
+   "text": "Maren sat by the bed after evening muck and listened.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 62,
+   "para": "p47",
+   "type": "narration",
+   "text": "The second day, she was cold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p48",
+   "type": "narration",
+   "text": "That was how it went on. Maren remembered that too. Her father had been cold on the second day. Cold all through, so that they piled blankets on him and lit a fire in the room and still he shook. The cold came from the inside. Like the frost. It came down in the night when nobody was watching and took the last of the green.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p49",
+   "type": "narration",
+   "text": "Ide shook. They piled blankets on her and put warming-stones from the infirmary shelf at her feet and her sides, the licensed ones that held their heat all night, and she shook under them. The infirmary surgeon, the old one, who’d sworn at Maren about the honey, came and looked at her and didn’t swear at all. He felt her hands and her face. He didn’t say any words over her. There weren’t any for this, licensed or not. He shook his head and went away again, quickly, so nobody would see his face. There was nothing to do. There never was. Everybody at Greyhold knew there was nothing to do. One life between two.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p50",
+   "type": "narration",
+   "text": "In the afternoon, Ide asked for Bracken’s blanket.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p51",
+   "type": "narration",
+   "text": "Not the one he was wrapped in. They’d taken him to the ice-house, under the north wall, where they kept the dead in winter. His own. The old grey horse-blanket from the back of his stall in the Long Barn, that he’d slept on for two years. Grieve brought it. He came across the yard himself in the frost with it folded over his arm, the way he’d come to Merrow’s bed, and stood by Ide’s bed and laid it over her, on top of the others, and tucked it in at the sides with his big rough hands, very carefully.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p52",
+   "type": "narration",
+   "text": "Ide put her face in it. It smelled of hound. Of straw, and the Long Barn, and him.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p53",
+   "type": "speech",
+   "text": "“Thank you, Master Grieve,”",
+   "speaker": "Ide"
+  },
+  {
+   "seq": 69,
+   "para": "p53",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p54",
+   "type": "speech",
+   "text": "“I’m not a master,”",
+   "speaker": "Grieve",
+   "mood": "grief"
+  },
+  {
+   "seq": 71,
+   "para": "p54",
+   "type": "narration",
+   "text": "said Grieve, and went away fast.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 72,
+   "para": "p55",
+   "type": "narration",
+   "text": "That night, when Maren came after muck, there was a cat on the foot of the bed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p56",
+   "type": "narration",
+   "text": "The cat nobody owned. The grey one, the size of a calf. Lying curled on the foot of Ide’s bed, on top of Bracken’s blanket, with its tail over its nose and its yellow eyes open. The infirmary woman had tried to move it twice, she said. It wouldn’t be moved. It had looked at her, and she’d stopped trying.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p57",
+   "type": "remembered",
+   "text": "It picks,",
+   "speaker": "Grieve"
+  },
+  {
+   "seq": 75,
+   "para": "p57",
+   "type": "narration",
+   "text": "Grieve had said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p58",
+   "type": "narration",
+   "text": "Maren sat in the chair by the bed and looked at the cat, and the cat looked back at her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 77,
+   "para": "p59",
+   "type": "narration",
+   "text": "She went to the island on the second night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p60",
+   "type": "narration",
+   "text": "She sat by Ide’s bed till Ide slept, if it was sleep, shallow and shaking, with her face in the hound’s blanket. Then she got up, and took Turnip up the River Road to Redwatch in the dark, past midnight, in the frost. Ottery wasn’t there. She hadn’t sent for him. She took his punt anyway, from the boathouse steps, and poled it across the west channel alone, in the cold, with the thin ice cracking along the edges of the reeds like glass.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p61",
+   "type": "narration",
+   "text": "She didn’t tell her mother. It was the first time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p62",
+   "type": "narration",
+   "text": "She came to the island and tied up in the reeds at the mouth of the west channel and went up the stream in the dark. She didn’t bring anything. She didn’t think about bringing anything. She went to her place on the bank, at fifteen paces, and sat down on the frozen grass.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p63",
+   "type": "narration",
+   "text": "And cried.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 82,
+   "para": "p64",
+   "type": "narration",
+   "text": "She hadn’t cried on the island since the first night, on the pier, with her arm torn open, and then only for Pell’s sword. Not in the tower, after the stream. Not in the stream with the foot on her chest. She’d been very careful. She’d sat in the mud for two months with her hands open on her knees, not moving, not doing anything, being very careful.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p65",
+   "type": "narration",
+   "text": "She wasn’t careful now. She sat on the frozen bank of the stream with her arms round her knees and her face in them and cried. For Ide in the end bed, shaking under a hound’s blanket. For Bracken lying on the landing on his side, letting go. For her father in the little room over the ferry-house, telling everyone what Fly liked so somebody would remember. For four days. For the Widow’s Frost on the morning they burned him. For all of it. She cried the way she hadn’t cried since she was fourteen. Out loud. With her mouth open. Like a child.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 84,
+   "para": "p66",
+   "type": "narration",
+   "text": "She didn’t hear it come.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p67",
+   "type": "narration",
+   "text": "When she lifted her head, it was there.",
+   "mood": "awe",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 86,
+   "para": "p68",
+   "type": "narration",
+   "text": "It had come out of the trees on the far side. She hadn’t heard it. She’d been crying too hard to hear anything. It was standing at the edge of the stream, on its side, in the starlight, with the frost on its mane, and it was looking at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p69",
+   "type": "narration",
+   "text": "It had never seen her like this. She knew that. Two months, and it had only ever seen her one way. Still. Quiet. Careful. With her hands open on her knees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p70",
+   "type": "narration",
+   "text": "She looked at it through her tears. She couldn’t stop. She didn’t try.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p71",
+   "type": "narration",
+   "text": "It looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p72",
+   "type": "narration",
+   "text": "Then it stepped down into the stream.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 91,
+   "para": "p73",
+   "type": "narration",
+   "text": "She saw it. She saw it and didn’t understand it. In two months it had never once put a foot in the water toward her. It had stood on its own bank, and drunk from its own side, and lain down on its own grass. The stream was the fence."
+  },
+  {
+   "seq": 92,
+   "para": "p73",
+   "type": "remembered",
+   "text": "Keeping the fence.",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 93,
+   "para": "p73",
+   "type": "narration",
+   "text": "She’d kept it. So had it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p74",
+   "type": "narration",
+   "text": "It came through the water. Slowly. The great paws going down into the black stream one after another and coming up again, with the water running off the fur. The cut chain on the collar dragged in the water behind it. It came across, all the way, and up the bank on her side. Her side. Where she’d never seen it stand.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 95,
+   "para": "p75",
+   "type": "narration",
+   "text": "She didn’t move. She couldn’t have. She sat on the frozen grass with her arms round her knees and the tears running down her face and watched it come up her bank toward her, ten feet at the shoulder, in the starlight, with its pale eyes on her face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p76",
+   "type": "narration",
+   "text": "At ten paces it stopped, and lay down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p77",
+   "type": "narration",
+   "text": "On her side of the water. On her bank. Facing her. With its great forepaws stretched out on the frost and its head up and the collar on its neck. Not as close as the night it stood over her on the spit. But on her side. It had crossed.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 98,
+   "para": "p78",
+   "type": "narration",
+   "text": "She looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p79",
+   "type": "narration",
+   "text": "It looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p80",
+   "type": "narration",
+   "text": "She couldn’t tell what it meant. Whether a thing like that could feel what she was feeling, or know what crying was, or care. Whether it had crossed because of her, or because it was cold, or because the grass on her side was better, or for no reason at all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p81",
+   "type": "narration",
+   "text": "She knew it had crossed.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p82",
+   "type": "narration",
+   "text": "She sat there until she stopped crying. It took a long time. The whole time, it lay at ten paces on her side of the stream and watched her, and the frost came down on both of them.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p83",
+   "type": "narration",
+   "text": "When she got up at last to go, it stayed lying down. It watched her go. She felt it watching all the way down the stream to the reeds.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 104,
+   "para": "p84",
+   "type": "narration",
+   "text": "Ide’s mother came on the third day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p85",
+   "type": "narration",
+   "text": "From the south, from the farm with the litter in the barn, on a cart, as fast as a cart could go on frozen roads. A big red-faced farm woman in a shawl, who’d been sent for on the first day and had driven two days and a night without stopping. She came into the infirmary in the afternoon with her face set and went to the end bed by the window and looked down at her daughter.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p86",
+   "type": "narration",
+   "text": "Ide didn’t know her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p87",
+   "type": "narration",
+   "text": "That was the third day. Maren remembered. Her father hadn’t known her on the third day. Or her mother. Or Tam. He’d lain with his eyes open, looking at the ceiling, and they’d talked to him and held his hands, and he hadn’t known any of them. He’d been somewhere else already. Following Fly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p88",
+   "type": "narration",
+   "text": "Ide lay under the blankets and Bracken’s blanket with her eyes open and her face very white and very still, and looked at the window, at the frost on the glass, and didn’t know anybody.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 109,
+   "para": "p89",
+   "type": "narration",
+   "text": "Her mother sat by the bed and held her hand and talked to her. About the farm. About the litter, and the pup that sat on her foot. About her uncle, and her brothers, and the apple trees. On and on. In a steady country voice, low, as you’d talk to a frightened animal. Not crying. Maren watched her not cry, and thought she’d never seen anyone so brave.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p90",
+   "type": "narration",
+   "text": "The cat lay on the foot of the bed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p91",
+   "type": "narration",
+   "text": "Maren sat on the other side, in the chair, because Ide’s mother had asked her to stay."
+  },
+  {
+   "seq": 112,
+   "para": "p91",
+   "type": "remembered",
+   "text": "You were her friend,",
+   "speaker": "Ide's mother"
+  },
+  {
+   "seq": 113,
+   "para": "p91",
+   "type": "narration",
+   "text": "she’d said."
+  },
+  {
+   "seq": 114,
+   "para": "p91",
+   "type": "remembered",
+   "text": "She wrote about you. In her letters. The girl on the midden that Bracken let in.",
+   "speaker": "Ide's mother"
+  },
+  {
+   "seq": 115,
+   "para": "p91",
+   "type": "narration",
+   "text": "And Maren had sat down, and stayed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p92",
+   "type": "narration",
+   "text": "At dusk, as the bell went on the wall for the change of watch, Ide turned her head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p93",
+   "type": "narration",
+   "text": "Not toward her mother. Not toward Maren. Toward the door of the infirmary. As if she’d heard something. A hound’s nails on the stone floor outside, maybe. Or a voice calling her, from a long way off.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p94",
+   "type": "narration",
+   "text": "She smiled.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p95",
+   "type": "narration",
+   "text": "Then she stopped breathing.",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 120,
+   "para": "p96",
+   "type": "narration",
+   "text": "They burned her on the shore at dawn the next day, with Bracken beside her, on one pyre, in the frost. The whole of Greyhold came down again, the way it had for Merrow. Grieve stood at the front in his clean shirt. Ide’s mother stood beside him, red-faced and dry-eyed, with her shawl round her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p97",
+   "type": "speech",
+   "text": "“They went together,”",
+   "speaker": "the chaplain"
+  },
+  {
+   "seq": 122,
+   "para": "p97",
+   "type": "narration",
+   "text": "said the chaplain.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p98",
+   "type": "narration",
+   "text": "Maren stood at the back with her hands in her coat and didn’t want to hit him. She looked at the fire going up yellow against the grey river, with the frost white on every stone of the shore, and thought:",
+   "mood": "anger"
+  },
+  {
+   "seq": 124,
+   "para": "p98",
+   "type": "thought",
+   "text": "no. They didn’t. He went first. And she followed him for three days. Alone. Cold. Not knowing anybody.",
+   "speaker": "Maren",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p99",
+   "type": "thought",
+   "text": "That’s not together.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p100",
+   "type": "narration",
+   "text": "She thought of her father, telling everyone what Fly liked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p101",
+   "type": "narration",
+   "text": "She thought of a farmer in a burned field with three dragons round him that should have gone after their riders and hadn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p102",
+   "type": "narration",
+   "text": "Hale had gone grey when he talked about it."
+  },
+  {
+   "seq": 129,
+   "para": "p102",
+   "type": "remembered",
+   "text": "Because he’s three.",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p103",
+   "type": "thought",
+   "text": "What does that do to a man? To take three of those? All at once?",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p104",
+   "type": "thought",
+   "text": "I watched one. For three days. It was the worst thing I’ve ever seen.",
+   "speaker": "Maren",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 132,
+   "para": "p105",
+   "type": "narration",
+   "text": "Rowan was at the pyre. She stood a little apart from the others, in her grey coat, small and neat and still, and when the fire had burned down she went to Pell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p106",
+   "type": "narration",
+   "text": "Pell was on a crutch, with his torn leg bound. He had something in his hand. Maren saw it from the back of the crowd. A collar. Iron. Heavy. Pell had brought it back from the Redwatch landing, off the silent hound that Bracken had held by the throat, the one that didn’t go back to the barge, because Bracken hadn’t let go of it till the end. It had died on the landing. It had died without a sound.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p107",
+   "type": "narration",
+   "text": "Pell held out the collar. Rowan took it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p108",
+   "type": "narration",
+   "text": "She looked at it in the grey light by the dying pyre. Turned it over in her hands. Looked at the inside of it, and the outside, and at a place on the iron where, Maren knew without seeing, there’d be a mark, small and neat, the way a smith marks his work.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p109",
+   "type": "narration",
+   "text": "A ring of six dots.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 137,
+   "para": "p110",
+   "type": "narration",
+   "text": "Rowan said nothing. She didn’t look surprised. She didn’t look anything at all.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 138,
+   "para": "p111",
+   "type": "narration",
+   "text": "She took a little book out of her coat, and a pencil, and wrote something in it, there on the shore, standing by the pyre, with the collar in her other hand, and put the book away, and went up the landing steps to Greyhold, with the collar, and didn’t look back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 139,
+   "para": "p112",
+   "type": "narration",
+   "text": "Haverly found her on the wall that night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p113",
+   "type": "narration",
+   "text": "She’d gone up there because she couldn’t sleep and couldn’t go to the island again, not tonight, not with Ottery’s punt back at the boathouse and her mother’s face at supper. She stood on the wall above the river gate in the cold, wrapped in her coat, looking upstream at the dark where the island was. Three leagues off. Too far to see. She looked anyway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p114",
+   "type": "narration",
+   "text": "He came along the wall walk from the gate with Kesh on his fist, hooded, and stopped beside her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p115",
+   "type": "speech",
+   "text": "“I’m sorry,”",
+   "speaker": "Haverly",
+   "mood": "quiet"
+  },
+  {
+   "seq": 143,
+   "para": "p115",
+   "type": "narration",
+   "text": "he said at last.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 144,
+   "para": "p115",
+   "type": "speech",
+   "text": "“About Darrow.”",
+   "speaker": "Haverly",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p116",
+   "type": "speech",
+   "text": "“So am I.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p117",
+   "type": "speech",
+   "text": "“She stood next to you. At drill. After Bracken let you in.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p118",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p119",
+   "type": "speech",
+   "text": "“I noticed.”",
+   "speaker": "Haverly",
+   "mood": "reflective"
+  },
+  {
+   "seq": 149,
+   "para": "p119",
+   "type": "narration",
+   "text": "He looked at the river.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 150,
+   "para": "p119",
+   "type": "speech",
+   "text": "“I should have stood next to you too. I didn’t. I’m sorry for that as well.”",
+   "speaker": "Haverly",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p120",
+   "type": "narration",
+   "text": "She had nothing to say to that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p121",
+   "type": "speech",
+   "text": "“There’s something else,”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 153,
+   "para": "p121",
+   "type": "narration",
+   "text": "said Haverly."
+  },
+  {
+   "seq": 154,
+   "para": "p121",
+   "type": "speech",
+   "text": "“I thought you’d want to know. It’s stupid. Nobody believes it. But I was on the gate last night. At dusk. When…”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 155,
+   "para": "p121",
+   "type": "narration",
+   "text": "He stopped."
+  },
+  {
+   "seq": 156,
+   "para": "p121",
+   "type": "speech",
+   "text": "“When she went. And Kesh screamed.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p122",
+   "type": "narration",
+   "text": "Maren looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p123",
+   "type": "speech",
+   "text": "“She never screams on the gate. Not with her hood on. She can’t see. But she screamed. All at once. And I took her hood off, because I thought she was hurt. And she was looking up.”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 159,
+   "para": "p123",
+   "type": "narration",
+   "text": "He lifted his face to the sky."
+  },
+  {
+   "seq": 160,
+   "para": "p123",
+   "type": "speech",
+   "text": "“North. High. And I looked where she was looking. And there were three of them.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p124",
+   "type": "speech",
+   "text": "“Three what?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p125",
+   "type": "speech",
+   "text": "“Dragons,”",
+   "speaker": "Haverly",
+   "mood": "awe"
+  },
+  {
+   "seq": 163,
+   "para": "p125",
+   "type": "narration",
+   "text": "said Haverly.",
+   "mood": "awe"
+  },
+  {
+   "seq": 164,
+   "para": "p125",
+   "type": "speech",
+   "text": "“Very high. In the moonlight. Over the river. One big, one middling, one small. Going north. Not fast. Like geese. Like they were going somewhere they’d been before.”",
+   "speaker": "Haverly",
+   "mood": "awe"
+  },
+  {
+   "seq": 165,
+   "para": "p125",
+   "type": "narration",
+   "text": "He was quiet.",
+   "mood": "awe"
+  },
+  {
+   "seq": 166,
+   "para": "p125",
+   "type": "speech",
+   "text": "“Callis saw them too. He says I’m mad. Wynn says he saw something but it was cloud.”",
+   "speaker": "Haverly",
+   "mood": "awe"
+  },
+  {
+   "seq": 167,
+   "para": "p125",
+   "type": "narration",
+   "text": "He looked down at Kesh on his fist.",
+   "mood": "awe"
+  },
+  {
+   "seq": 168,
+   "para": "p125",
+   "type": "speech",
+   "text": "“Kesh saw them. Kesh doesn’t lie.”",
+   "speaker": "Haverly",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 169,
+   "para": "p126",
+   "type": "speech",
+   "text": "“The farmer’s,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 170,
+   "para": "p126",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p127",
+   "type": "speech",
+   "text": "“The farmer’s.”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 172,
+   "para": "p127",
+   "type": "narration",
+   "text": "Haverly nodded."
+  },
+  {
+   "seq": 173,
+   "para": "p127",
+   "type": "speech",
+   "text": "“The same three I saw in the burned field from the ridge. I’d know them anywhere. The big bronze one. I’ll never forget her.”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 174,
+   "para": "p127",
+   "type": "narration",
+   "text": "He looked north, up the dark river."
+  },
+  {
+   "seq": 175,
+   "para": "p127",
+   "type": "speech",
+   "text": "“They say he went south. They say there’s a price on his head in Wendmouth. They say he’s walking north with a stolen mare.”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 176,
+   "para": "p127",
+   "type": "narration",
+   "text": "He shook his head."
+  },
+  {
+   "seq": 177,
+   "para": "p127",
+   "type": "speech",
+   "text": "“And last night, at dusk, while Darrow was dying, his three went over the river by the island. Going north.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p128",
+   "type": "narration",
+   "text": "Maren looked up at the sky. Clear. Cold. Stars. Nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p129",
+   "type": "speech",
+   "text": "“Why north?”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 180,
+   "para": "p129",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p130",
+   "type": "speech",
+   "text": "“I don’t know.”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 182,
+   "para": "p130",
+   "type": "narration",
+   "text": "Haverly put Kesh’s hood back on, gently."
+  },
+  {
+   "seq": 183,
+   "para": "p130",
+   "type": "speech",
+   "text": "“Maybe he’s home. Maybe they’re looking for somewhere to winter. The Scarfell has caves.”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 184,
+   "para": "p130",
+   "type": "narration",
+   "text": "He was quiet a moment."
+  },
+  {
+   "seq": 185,
+   "para": "p130",
+   "type": "speech",
+   "text": "“Maybe they’re just going to see.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p131",
+   "type": "speech",
+   "text": "“See what?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p132",
+   "type": "narration",
+   "text": "Haverly stood beside her on the wall, in the cold, with his hooded falcon on his fist, and looked up at the empty sky where three dragons had gone over at the hour Ide Darrow died, and she stood beside him, and neither of them went in for a long time.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p133",
+   "type": "narration",
+   "text": "Upstream, three leagues off, in the dark, on an island in a river, something huge was lying on the frozen grass on the wrong side of a stream.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 189,
+   "para": "p134",
+   "type": "narration",
+   "text": "She didn’t know if it was still there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p135",
+   "type": "narration",
+   "text": "She thought it might be.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  }
+ ]
+}

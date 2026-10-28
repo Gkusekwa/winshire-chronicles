@@ -1,0 +1,1458 @@
+{
+ "chapter": 71,
+ "title": "Millbrook",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Seventy-one.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Millbrook.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "Millbrook burned because of the horses.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "Not because of the Restoration, not because of the rising. The rising had promised.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 5,
+   "para": "p2",
+   "type": "remembered",
+   "text": "No Millbrook house’ll burn.",
+   "speaker": "Cassian",
+   "mood": "reflective"
+  },
+  {
+   "seq": 6,
+   "para": "p2",
+   "type": "narration",
+   "text": "Whatever else Vale was, whatever else he’d lied about, she thought he’d meant that one, standing on the wain with his arms out. The rising hadn’t meant to burn the town. It had meant to hold it.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p3",
+   "type": "narration",
+   "text": "Then Rowan sent the knights.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p4",
+   "type": "narration",
+   "text": "At dusk on the hundred-and-forty-second day, the half that had come back from Redwatch rode down the River Road out of Greyhold’s gate to drive the rising out of the town. Greyharts and horses, in a column, in the last of the light. The rising, at the top of the jetty road, with its barricades of carts and barrels and its staves and pitchforks, saw what was coming down at it, and did the only thing it could think of to stop a charge of horses in a narrow street.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p5",
+   "type": "narration",
+   "text": "It fired the thatch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "narration",
+   "text": "She saw it from the road. A long line of roofs at the top of the town going up all at once, one after another, red. The column of knights checking at the bottom of the street with the horses rearing. And the wind, coming up off the river at dusk the way it always did in spring, taking it.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "narration",
+   "text": "By the time she got there the whole jetty road was alight.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 12,
+   "para": "p8",
+   "type": "narration",
+   "text": "She went in from the river side.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p9",
+   "type": "narration",
+   "text": "Along the back channel, where the boats were drawn up, in the smoke. Not by the street; the street was fire from end to end, and horses, and men shouting, and somewhere in the middle of it iron on iron. She went along the water’s edge below the backs of the houses, in the mud, with her father’s cloak over her head against the sparks and the river watch sword in her hand.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p10",
+   "type": "narration",
+   "text": "She’d grown up here. She’d swum in this channel. She knew every back yard and every slip and every gap between the sheds. She went through them in the dark and the smoke the way she went through the stalls in the Long Barn, without thinking, and the town burned over her head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p11",
+   "type": "narration",
+   "text": "People. Running the other way, down to the water. A woman with a feather bed. A man carrying another man. Children. Nobody looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p12",
+   "type": "narration",
+   "text": "From the top of the town, over the fire, voices. A lot of them, at the barricades, saying the same few words over and over all together, low, like a chapel litany. Not the common tongue. She didn’t know the words. Somebody had taught them, Reede or somebody, and a hundred men with rings were saying them at once, facing down the street at the knights. Between two sheds she saw the bottom of the street: a knight on a rearing horse with his hand flat on its neck, shouting the stand-word at it, and the horse going up again as if he’d said nothing at all. His word wasn’t landing. Something the hundred were saying was turning it aside.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 17,
+   "para": "p13",
+   "type": "narration",
+   "text": "Then the roofs over the barricades caught, and the voices broke up into shouting, and she didn’t hear the words again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p14",
+   "type": "narration",
+   "text": "The Kettle was burning. She went past the back of it. She heard the roof go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p15",
+   "type": "narration",
+   "text": "At the top of the town, at the top of the back lanes, where the jetty road came out, was the forge.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 20,
+   "para": "p16",
+   "type": "narration",
+   "text": "The crown’s chain was gone off the doors.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p17",
+   "type": "narration",
+   "text": "Broken. Somebody had taken a hammer to it. It lay on the step in two pieces, with the crown’s seal still hanging off it on its ribbon, and the great doors stood open, and inside the forge was red, and the red was the roof. The old thatch over the forge-yard was alight, and the rafters under it, and the smoke was coming out of the open doors in a black roll along the ground.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p18",
+   "type": "narration",
+   "text": "Somebody was inside shouting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p19",
+   "type": "narration",
+   "text": "She knew the voice.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 24,
+   "para": "p20",
+   "type": "narration",
+   "text": "She went in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p21",
+   "type": "narration",
+   "text": "The heat hit her in the face. She got her cloak over her mouth and went in low, under the smoke, the way the river watch taught you to go into a burning boathouse, and the forge came up round her in the red dark. The anvil. The cold hearth. The racks of iron on the walls. The roof over the back of it, over the bench where Odo kept his tools, coming down in pieces, burning.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p22",
+   "type": "narration",
+   "text": "Tam was at the back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p23",
+   "type": "narration",
+   "text": "On his knees, by the bench, with his arms round something, hauling at it. A beam. One of the great rafters had come down across the bench and somebody was under it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p24",
+   "type": "speech",
+   "text": "“Tam!”",
+   "speaker": "Maren",
+   "how": "shouted",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p25",
+   "type": "narration",
+   "text": "He looked round. His face was black. His eyes were streaming. He looked at her as if he’d never seen her before.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p26",
+   "type": "speech",
+   "text": "“Odo,”",
+   "speaker": "Tam",
+   "how": "crying",
+   "mood": "urgent"
+  },
+  {
+   "seq": 31,
+   "para": "p26",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 32,
+   "para": "p26",
+   "type": "speech",
+   "text": "“It’s Odo. He came back in. He came back in for…”",
+   "speaker": "Tam",
+   "how": "crying",
+   "mood": "urgent"
+  },
+  {
+   "seq": 33,
+   "para": "p26",
+   "type": "narration",
+   "text": "He was crying.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 34,
+   "para": "p26",
+   "type": "speech",
+   "text": "“I can’t shift it. I can’t…”",
+   "speaker": "Tam",
+   "how": "crying",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p27",
+   "type": "narration",
+   "text": "She got her hands under the beam beside his.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p28",
+   "type": "narration",
+   "text": "It was hot. It was so hot it burned through her palms. She didn’t let go. They lifted. Together, the way they used to lift the ferry’s fenders when they were children, Tam counting,",
+   "mood": "action"
+  },
+  {
+   "seq": 37,
+   "para": "p28",
+   "type": "speech",
+   "text": "one, two,",
+   "speaker": "Tam",
+   "how": "counting",
+   "mood": "action"
+  },
+  {
+   "seq": 38,
+   "para": "p28",
+   "type": "narration",
+   "text": "and on three it came up. A hand’s breadth. Two. Enough.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p29",
+   "type": "narration",
+   "text": "Odo Marl came out from under it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p30",
+   "type": "narration",
+   "text": "He came out on his elbows, dragging himself, with his face set and grey under the black, and his legs dragging behind him, useless. They dropped the beam behind him and it hit the floor and the sparks went up.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p31",
+   "type": "speech",
+   "text": "“Door,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 42,
+   "para": "p31",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 43,
+   "para": "p31",
+   "type": "speech",
+   "text": "“A door. Anything.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p32",
+   "type": "narration",
+   "text": "There was a door. The little one at the back of the forge, off its hinges, leaning against the wall where Odo had been meaning to mend it since the summer. Tam got it. They got Odo onto it. He didn’t make a sound. He lay on the door with his big burned arms across his chest and his teeth set and his eyes open, and they picked it up between them, Maren at the head, Tam at the foot, and went out through the back of the forge into the lane as the roof over the bench came down behind them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 45,
+   "para": "p33",
+   "type": "narration",
+   "text": "They got to the back channel.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p34",
+   "type": "narration",
+   "text": "She didn’t remember how. Down the back lanes in the smoke with the door between them and Odo on it, and the fire coming down the lanes behind them on the wind, house to house. Tam was sobbing. He kept saying something. She couldn’t hear it. At the water’s edge they put the door down in the mud and stood over it, gasping, with the town burning over them.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p35",
+   "type": "narration",
+   "text": "Odo lifted his hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p36",
+   "type": "narration",
+   "text": "His right hand. He’d had it closed in a fist the whole way. She’d thought it was the pain. He opened it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p37",
+   "type": "narration",
+   "text": "There was a punch in it. A smith’s punch. A short bar of hard steel, as long as a finger, with a mark cut in the end of it that you struck into hot iron with a hammer so it stood there for ever. She knew what the mark would be before she saw it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p38",
+   "type": "narration",
+   "text": "Two hammers, crossed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p39",
+   "type": "speech",
+   "text": "“Came back for it,”",
+   "speaker": "Odo",
+   "how": "a rasp",
+   "mood": "grief"
+  },
+  {
+   "seq": 52,
+   "para": "p39",
+   "type": "narration",
+   "text": "said Odo. His voice was a rasp, with no laugh anywhere in it.",
+   "mood": "grief"
+  },
+  {
+   "seq": 53,
+   "para": "p39",
+   "type": "speech",
+   "text": "“And the six. Got the six too.”",
+   "speaker": "Odo",
+   "how": "a rasp",
+   "mood": "grief"
+  },
+  {
+   "seq": 54,
+   "para": "p39",
+   "type": "narration",
+   "text": "He opened his other hand. Another punch. The ring of six dots.",
+   "mood": "grief"
+  },
+  {
+   "seq": 55,
+   "para": "p39",
+   "type": "speech",
+   "text": "“Couldn’t get the dies. The dies are under the beam.”",
+   "speaker": "Odo",
+   "how": "a rasp",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 56,
+   "para": "p40",
+   "type": "narration",
+   "text": "He looked at her. At Maren. Up from the door, from the mud, with his face grey and his legs not working and the town on fire over him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p41",
+   "type": "speech",
+   "text": "“The boy told me,”",
+   "speaker": "Odo",
+   "how": "a rasp",
+   "mood": "anger"
+  },
+  {
+   "seq": 58,
+   "para": "p41",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "anger"
+  },
+  {
+   "seq": 59,
+   "para": "p41",
+   "type": "speech",
+   "text": "“What you showed him. The collar.”",
+   "speaker": "Odo",
+   "how": "a rasp",
+   "mood": "anger"
+  },
+  {
+   "seq": 60,
+   "para": "p41",
+   "type": "narration",
+   "text": "He swallowed.",
+   "mood": "anger"
+  },
+  {
+   "seq": 61,
+   "para": "p41",
+   "type": "speech",
+   "text": "“Beasts brought in to be cared for. That’s what the man said. With the order. In the spring, before the summer. A hundred collars. And chain by the hundredweight. To be cared for.”",
+   "speaker": "Odo",
+   "how": "a rasp",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p42",
+   "type": "narration",
+   "text": "He lifted his arm. It was shaking. He threw.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 63,
+   "para": "p43",
+   "type": "narration",
+   "text": "The two punches went out over the back channel, small and dark, turning, and into the water, and were gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p44",
+   "type": "narration",
+   "text": "Odo Marl lay back on the door and shut his eyes.",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 65,
+   "para": "p45",
+   "type": "narration",
+   "text": "Tobin was at the foot of the jetty road.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p46",
+   "type": "narration",
+   "text": "She hadn’t known. She’d never have gone that way if she had. But the back channel ended at the slip below the jetty, and there was no way along the water past it with the river up, and the only way out of the town to the River Road was across the foot of the jetty road, where it came down to the water. Where the rising had its last barricade.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p47",
+   "type": "narration",
+   "text": "Carts. Barrels. A boat on its side. And a dozen men behind it with staves and billhooks, black-faced, coughing, with the fire coming down the street behind them and the knights somewhere beyond it, and their backs to the river.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 68,
+   "para": "p48",
+   "type": "narration",
+   "text": "In the middle of them, with a stave, thin, all bones and eyes, in a grey coat: Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p49",
+   "type": "narration",
+   "text": "He saw her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p50",
+   "type": "narration",
+   "text": "She was coming along the slip with Tam, with the door between them and Odo on it, in the light of the burning street. He looked round from the barricade, and saw her, and his face went still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p51",
+   "type": "narration",
+   "text": "He looked at Tam. At Odo on the door. At her, with a sword.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p52",
+   "type": "narration",
+   "text": "The men on the barricade had seen her too. One of them lifted a billhook.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p53",
+   "type": "speech",
+   "text": "“No.”",
+   "speaker": "Tobin",
+   "mood": "tension"
+  },
+  {
+   "seq": 74,
+   "para": "p53",
+   "type": "narration",
+   "text": "Tobin put his stave out across the man’s chest.",
+   "mood": "tension"
+  },
+  {
+   "seq": 75,
+   "para": "p53",
+   "type": "speech",
+   "text": "“No. Let them by.”",
+   "speaker": "Tobin",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 76,
+   "para": "p54",
+   "type": "speech",
+   "text": "“She’s crown…”",
+   "speaker": "a rising man",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p55",
+   "type": "speech",
+   "text": "“She’s not anybody’s.”",
+   "speaker": "Tobin",
+   "how": "hoarse"
+  },
+  {
+   "seq": 78,
+   "para": "p55",
+   "type": "narration",
+   "text": "He didn’t look at the man. He was looking at her."
+  },
+  {
+   "seq": 79,
+   "para": "p55",
+   "type": "speech",
+   "text": "“Let them by.”",
+   "speaker": "Tobin",
+   "how": "hoarse",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p56",
+   "type": "narration",
+   "text": "They let them by.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p57",
+   "type": "narration",
+   "text": "She came along the slip past the end of the barricade, past the boat on its side, with Tam at the foot of the door, and Tobin stood at the end of it with his stave and watched her come. When she was level with him she stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p58",
+   "type": "speech",
+   "text": "“I didn’t know about the camp,”",
+   "speaker": "Tobin",
+   "how": "hoarse"
+  },
+  {
+   "seq": 83,
+   "para": "p58",
+   "type": "narration",
+   "text": "said Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p59",
+   "type": "narration",
+   "text": "His voice was wrong. Hoarse with smoke. Something else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p60",
+   "type": "speech",
+   "text": "“The tents by the meadows. The ones from over the river.”",
+   "speaker": "Tobin",
+   "how": "hoarse",
+   "mood": "grief"
+  },
+  {
+   "seq": 86,
+   "para": "p60",
+   "type": "narration",
+   "text": "He swallowed.",
+   "mood": "grief"
+  },
+  {
+   "seq": 87,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Nobody said about the camp. Reede didn’t. Nobody. Millbrook rises, holds the town, the knights get caught, that’s what they said. Nobody said anybody was going down the back channel at dawn to burn the camp.”",
+   "speaker": "Tobin",
+   "how": "hoarse",
+   "mood": "grief"
+  },
+  {
+   "seq": 88,
+   "para": "p60",
+   "type": "narration",
+   "text": "He looked at Odo on the door.",
+   "mood": "grief"
+  },
+  {
+   "seq": 89,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Nobody said about any of it.”",
+   "speaker": "Tobin",
+   "how": "hoarse",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 90,
+   "para": "p61",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 91,
+   "para": "p61",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 92,
+   "para": "p61",
+   "type": "speech",
+   "text": "“They don’t.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p62",
+   "type": "narration",
+   "text": "He stood there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p63",
+   "type": "speech",
+   "text": "“Go on,”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 95,
+   "para": "p63",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 96,
+   "para": "p63",
+   "type": "speech",
+   "text": "“Get them out.”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p64",
+   "type": "narration",
+   "text": "She went on. Past him. Along the slip, toward the punts drawn up beyond the barricade.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p65",
+   "type": "speech",
+   "text": "“Maren.”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p66",
+   "type": "narration",
+   "text": "She stopped. She didn’t turn round. She’d done this before, at the gate of a field on a hill under a thorn hedge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p67",
+   "type": "speech",
+   "text": "“The friend,”",
+   "speaker": "Tobin",
+   "how": "low, fast",
+   "mood": "urgent"
+  },
+  {
+   "seq": 101,
+   "para": "p67",
+   "type": "narration",
+   "text": "said Tobin, behind her. Low. Fast.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 102,
+   "para": "p67",
+   "type": "speech",
+   "text": "“With the seal. The one whose paper cleared the river for the barges, and whose men rode it. The one who’s to let them in.”",
+   "speaker": "Tobin",
+   "how": "low, fast",
+   "mood": "urgent"
+  },
+  {
+   "seq": 103,
+   "para": "p67",
+   "type": "narration",
+   "text": "He stopped. She heard him breathe.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 104,
+   "para": "p67",
+   "type": "speech",
+   "text": "“It’s Callis.”",
+   "speaker": "Tobin",
+   "how": "low, fast",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p68",
+   "type": "narration",
+   "text": "She turned round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p69",
+   "type": "narration",
+   "text": "Tobin was standing at the end of the barricade with the fire behind him, looking at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p70",
+   "type": "speech",
+   "text": "“He’s had the seal since the summer,”",
+   "speaker": "Tobin",
+   "mood": "urgent"
+  },
+  {
+   "seq": 108,
+   "para": "p70",
+   "type": "narration",
+   "text": "said Tobin.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 109,
+   "para": "p70",
+   "type": "speech",
+   "text": "“Since before Upper Rush. Reede gave it him. He hates them, the orders. Has done since they passed him over for the inner circle five years ago for men with better names.”",
+   "speaker": "Tobin",
+   "mood": "urgent"
+  },
+  {
+   "seq": 110,
+   "para": "p70",
+   "type": "narration",
+   "text": "He looked at her.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 111,
+   "para": "p70",
+   "type": "speech",
+   "text": "“And since the frost fair. And since you. Tomorrow night he opens the river gate. Third hour. Takes them down, under the school.”",
+   "speaker": "Tobin",
+   "mood": "urgent"
+  },
+  {
+   "seq": 112,
+   "para": "p70",
+   "type": "narration",
+   "text": "His voice cracked.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 113,
+   "para": "p70",
+   "type": "speech",
+   "text": "“I don’t know what’s down there. Nobody’s told me. I’m only telling you.”",
+   "speaker": "Tobin",
+   "how": "voice cracking",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p71",
+   "type": "speech",
+   "text": "“Why?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Because you came to the hedge,”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 116,
+   "para": "p72",
+   "type": "narration",
+   "text": "said Tobin."
+  },
+  {
+   "seq": 117,
+   "para": "p72",
+   "type": "speech",
+   "text": "“And because of the camp.”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 118,
+   "para": "p72",
+   "type": "narration",
+   "text": "He turned back to the barricade."
+  },
+  {
+   "seq": 119,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Go on. Get Tam home.”",
+   "speaker": "Tobin",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 120,
+   "para": "p73",
+   "type": "narration",
+   "text": "They got Odo into one of the eel-punts below the slip, door and all, and Tam poled them up under the bank in the dark. She got them to the ferry house.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p74",
+   "type": "narration",
+   "text": "Liss was there. Liss was on the stone jetty with a lantern, in the dark, looking south toward Millbrook burning, and when she saw them coming up the river under the bank out of the smoke, three of them and a door, she put the lantern down on the stones and came running.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p75",
+   "type": "narration",
+   "text": "She didn’t speak to Tam. She put her arms round him and held on with both hands, and Tam put his face down in her shoulder and cried like a child.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p76",
+   "type": "narration",
+   "text": "Over Tam’s shoulder Liss looked at Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p77",
+   "type": "narration",
+   "text": "Maren nodded.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p78",
+   "type": "narration",
+   "text": "Behind Liss, in the red door of the ferry house, there was a thin girl with a great deal of hair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p79",
+   "type": "speech",
+   "text": "“I wouldn’t stay in,”",
+   "speaker": "Wren",
+   "mood": "humour"
+  },
+  {
+   "seq": 127,
+   "para": "p79",
+   "type": "narration",
+   "text": "said Wren, before anybody could ask.",
+   "mood": "humour"
+  },
+  {
+   "seq": 128,
+   "para": "p79",
+   "type": "speech",
+   "text": "“Inside the walls. With the knights. I wanted Mistress Ashdown. Grandma said go if I liked. She’s with Aunt Bel and the greys.”",
+   "speaker": "Wren",
+   "mood": "humour"
+  },
+  {
+   "seq": 129,
+   "para": "p79",
+   "type": "narration",
+   "text": "She looked at Odo on the door.",
+   "mood": "humour"
+  },
+  {
+   "seq": 130,
+   "para": "p79",
+   "type": "speech",
+   "text": "“Is he dead?”",
+   "speaker": "Wren",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p80",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 132,
+   "para": "p80",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Good,”",
+   "speaker": "Wren",
+   "mood": "humour"
+  },
+  {
+   "seq": 134,
+   "para": "p81",
+   "type": "narration",
+   "text": "said Wren, and stood aside to let them carry him in.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p82",
+   "type": "narration",
+   "text": "Over the red door the old lamp lit as they went under it. The one that had hung dark on its hook since midwinter. White, a breath, so bright Odo shut his eyes on the door. Then dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p83",
+   "type": "narration",
+   "text": "Later, by the fire, Liss took Maren’s hands and unwrapped them and looked at the palms. She said the burn-word over them. The river one, that her own mother had said over every burned hand in the ferry house, that hadn’t done anything since the turn of the year. Liss said it anyway, out of habit, as she’d say mind the step.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p84",
+   "type": "narration",
+   "text": "It took.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p85",
+   "type": "narration",
+   "text": "It took so hard Maren cried out. Heat went into her palms and through them, and the raw skin drew together and went tight and shiny in a breath, as if a week had gone by. It still hurt. It hurt more. Liss let go of her hands as if they’d bitten her, and sat looking at her own.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 139,
+   "para": "p86",
+   "type": "speech",
+   "text": "“That’s not right,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 140,
+   "para": "p86",
+   "type": "narration",
+   "text": "said Liss.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 141,
+   "para": "p87",
+   "type": "narration",
+   "text": "On the hundred-and-forty-third day she tried to tell them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p88",
+   "type": "narration",
+   "text": "She went to the river gate in the morning. In her shirt and her father’s brown cloak, black with smoke, with the river watch sword in her belt and her palms wrapped in rags where the beam had burned them. The gate was shut. It had been shut since Pell. There were people on the wall over it, more than there had been, knights back from Redwatch, students. She stood in the road below it, where Pell had sat down, and looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p89",
+   "type": "speech",
+   "text": "“The seal!”",
+   "speaker": "Maren",
+   "how": "shouted",
+   "mood": "urgent"
+  },
+  {
+   "seq": 144,
+   "para": "p89",
+   "type": "narration",
+   "text": "she shouted.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 145,
+   "para": "p89",
+   "type": "speech",
+   "text": "“The rider with Greyhold’s seal! It’s Callis!”",
+   "speaker": "Maren",
+   "how": "shouted",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p90",
+   "type": "narration",
+   "text": "Faces looked down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p91",
+   "type": "speech",
+   "text": "“He’s had it since the summer! He’ll open the river gate tonight! In the third hour! For Vale!”",
+   "speaker": "Maren",
+   "how": "shouted"
+  },
+  {
+   "seq": 148,
+   "para": "p91",
+   "type": "narration",
+   "text": "She didn’t know if Vale was the word. She didn’t know any other."
+  },
+  {
+   "seq": 149,
+   "para": "p91",
+   "type": "speech",
+   "text": "“Tell Rowan! Tell Hale! Callis!”",
+   "speaker": "Maren",
+   "how": "shouted",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p92",
+   "type": "narration",
+   "text": "Nobody answered.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p93",
+   "type": "narration",
+   "text": "A student she half knew, a second-year, a boy with a marten on his shoulder, leaned out over the parapet and looked at her a while, and went away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p94",
+   "type": "narration",
+   "text": "She didn’t know where he went, or who he’d tell, or if he’d tell Callis. Nobody on that wall was going to believe a word an outcast shouted at them from the road about a knight of the gate with a broken arm who’d been one of them for fifteen years.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p95",
+   "type": "narration",
+   "text": "She stood there till the noon bell. Nobody came back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 154,
+   "para": "p96",
+   "type": "narration",
+   "text": "She told Liss.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p97",
+   "type": "speech",
+   "text": "“The water-gate,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 156,
+   "para": "p97",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 157,
+   "para": "p97",
+   "type": "speech",
+   "text": "“Below the ferry jetty. Where you were taking them in yesterday. Is it still open?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p98",
+   "type": "speech",
+   "text": "“For me,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 159,
+   "para": "p98",
+   "type": "narration",
+   "text": "said Liss."
+  },
+  {
+   "seq": 160,
+   "para": "p98",
+   "type": "speech",
+   "text": "“They know my boat.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p99",
+   "type": "speech",
+   "text": "“Then go to it. Today. Ask for Hale. The archivist. Warden Osric Hale. Nobody else. Tell him Callis has the seal. Tell him tonight, in the third hour, the river gate.”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 162,
+   "para": "p99",
+   "type": "narration",
+   "text": "She held her mother’s arm."
+  },
+  {
+   "seq": 163,
+   "para": "p99",
+   "type": "speech",
+   "text": "“Tell him I said. Tell him I heard it from Tobin. Tell him I’m sorry I didn’t come myself. They won’t let me in.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p100",
+   "type": "narration",
+   "text": "Liss looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p101",
+   "type": "speech",
+   "text": "“And you?”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p102",
+   "type": "speech",
+   "text": "“I’m going back to the knowe.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p103",
+   "type": "speech",
+   "text": "“Now?”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p104",
+   "type": "speech",
+   "text": "“Tonight.”",
+   "speaker": "Maren",
+   "mood": "tender"
+  },
+  {
+   "seq": 169,
+   "para": "p104",
+   "type": "narration",
+   "text": "She looked west, toward the long dark line of the Brackenwood on its hill, four leagues off.",
+   "mood": "tender"
+  },
+  {
+   "seq": 170,
+   "para": "p104",
+   "type": "speech",
+   "text": "“It wouldn’t come down with me. Yesterday. It’s been up there on its own for two days.”",
+   "speaker": "Maren",
+   "mood": "tender"
+  },
+  {
+   "seq": 171,
+   "para": "p104",
+   "type": "narration",
+   "text": "She didn’t know how to say the rest.",
+   "mood": "tender"
+  },
+  {
+   "seq": 172,
+   "para": "p104",
+   "type": "speech",
+   "text": "“I need to be with it. Tonight. I don’t know why. I just do.”",
+   "speaker": "Maren",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p105",
+   "type": "narration",
+   "text": "Liss looked at her. Then she nodded.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p106",
+   "type": "speech",
+   "text": "“Wren,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 175,
+   "para": "p106",
+   "type": "narration",
+   "text": "she said, without turning round."
+  },
+  {
+   "seq": 176,
+   "para": "p106",
+   "type": "speech",
+   "text": "“Get her some bread.”",
+   "speaker": "Liss",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 177,
+   "para": "p107",
+   "type": "narration",
+   "text": "She left at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p108",
+   "type": "narration",
+   "text": "West out of the ferry house, up the River Road past Greyhold’s shut gate, toward the turning where the lane went off across the fields to Hollin Knowe. Wren stood at the red door of the ferry house and watched her go. Maren looked back once. The girl lifted her hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p109",
+   "type": "narration",
+   "text": "She was a league up the River Road when she saw it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p110",
+   "type": "narration",
+   "text": "Upriver. Over the island. Over the Old Ruin, in the dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p111",
+   "type": "narration",
+   "text": "Fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p112",
+   "type": "narration",
+   "text": "A long tongue of it coming down out of the darkening sky onto the island, white at the root, orange-red at the end, so bright the river at her feet showed it back, leagues downstream of it. Then another, from somewhere else in the sky. Deeper. Slow, heavy, bronze-gold, like Odo’s forge door swung open, rolling down over the fort and the arch in a great slow wave.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 183,
+   "para": "p113",
+   "type": "narration",
+   "text": "Two.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p114",
+   "type": "narration",
+   "text": "She stood on the River Road and stared at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p115",
+   "type": "remembered",
+   "text": "That’s dragon-fire,",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 186,
+   "para": "p115",
+   "type": "narration",
+   "text": "Haverly had said, on the wall, the night of the bell."
+  },
+  {
+   "seq": 187,
+   "para": "p115",
+   "type": "remembered",
+   "text": "Nothing else burns that colour. It’s white at the root.",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p116",
+   "type": "narration",
+   "text": "She watched them. The white-and-red and the bronze-gold, coming and going over the island in the dusk, each one lighting the whole reach of the river for a moment as bright as noon and then going out. Shouting came across the water. Horns. The fires on the island scattering.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p117",
+   "type": "narration",
+   "text": "Two colours.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p118",
+   "type": "narration",
+   "text": "She thought of a girl at the red door of the ferry house, saying it on the jetty to Liss with her hands going."
+  },
+  {
+   "seq": 191,
+   "para": "p118",
+   "type": "remembered",
+   "text": "A green one, the smallest. And a red one. And a big old one with one eye.",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p119",
+   "type": "narration",
+   "text": "Three.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p120",
+   "type": "narration",
+   "text": "She didn’t know what it meant that there were only two, or where the third was. She stood on the road in the dusk and counted the fires over the island, white-and-red, bronze-gold, white-and-red, and there was no third.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 194,
+   "para": "p121",
+   "type": "narration",
+   "text": "She ran.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  }
+ ]
+}

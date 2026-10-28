@@ -1,0 +1,1496 @@
+{
+ "chapter": 78,
+ "title": "Underground",
+ "pov": "Calder",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Seventy-eight.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Underground.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The cavern shook.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "It didn’t stop. It hadn’t stopped since the floor went. The rubble slope under him trembled like a cart-bed on a bad road, all the time, and every so often it heaved, and stones came down out of the dark overhead and hit the slope and went bouncing past them down into the deeper dark below, and he never heard them land.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "The chains sang.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "They were lit. Each link of all six with a thin white line of writing on the inside of the curve, burning, so that the chains went up past him into the dark like six long strings of beads, and down ahead of him into the deeper dark the same, smaller and smaller. He’d seen it on the ledge. It was brighter now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "He’d thought it was a sound you couldn’t hear. Now it was a note. High and thin and getting higher, from all six of them at once. He’d heard that sound once, as a boy, on Fisk’s boat, from a rope in a gale, and Fisk had thrown him flat in the bottom of it a moment before the rope parted and the end came whipping back over the gunwale where his head had been.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "Below the slope, out in the dark at the far end of the chains, something was lifting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "He couldn’t see it. He could feel it. The whole dark at the bottom of the cavern moving upward, slowly, like a barn floor when something under it stands up.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "He sat on the rubble beside Aurveth with his hand on her neck and Kharrak lying against her other side, and Kharrak’s fire burning low in his throat for light, and watched the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "thought",
+   "text": "Lisska,",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 12,
+   "para": "p9",
+   "type": "narration",
+   "text": "he thought.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p10",
+   "type": "narration",
+   "text": "The small bright fire. It had stayed still a long while, far off under the other bank. Then, a little after the floor went, it had started to move, and it hadn’t stopped since. Through the rock. From the west. Closer and closer, and still not close enough for words.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p11",
+   "type": "thought",
+   "text": "Come on,",
+   "speaker": "Calder",
+   "mood": "urgent"
+  },
+  {
+   "seq": 15,
+   "para": "p11",
+   "type": "narration",
+   "text": "he thought.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 16,
+   "para": "p11",
+   "type": "thought",
+   "text": "Come on. Come on.",
+   "speaker": "Calder",
+   "mood": "urgent",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 17,
+   "para": "p12",
+   "type": "bond",
+   "text": "…alder! Calder! Calder, can you hear me, can you, Calder…",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "loud, sudden",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p13",
+   "type": "narration",
+   "text": "It came into his head so suddenly and so loud that he cried out.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p14",
+   "type": "bond",
+   "text": "I’m here! I’m here, little one, I’m here…",
+   "speaker": "Calder",
+   "listener": "Lisska",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p15",
+   "type": "bond",
+   "text": "I’ve got her!",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "high, wild, breaking",
+   "mood": "urgent"
+  },
+  {
+   "seq": 21,
+   "para": "p15",
+   "type": "narration",
+   "text": "Lisska’s voice was high and wild and breaking.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 22,
+   "para": "p15",
+   "type": "bond",
+   "text": "I’ve got her, she’s with me, she’s got the lion, Calder, she understood, she got it, she understood everything, the two, the locks, she went to the school, she went down, she, Calder, Calder, there’s a man dead, there’s a man dead on the lock, she, and the lion, the lion’s called Orrun, and he can hear me, Calder, he can HEAR me, he’s kin, we’re kin, a long way back, and he told her, he told her what I said, and she…",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "high, wild, breaking",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p16",
+   "type": "bond",
+   "text": "Lisska. Slow. Where are you?",
+   "speaker": "Calder",
+   "listener": "Lisska",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p17",
+   "type": "bond",
+   "text": "Coming. Along the stone road. Under the river. The old one. There’s a road, Calder, a road under the river, all stone, like the bottom of the pit, and he knew it, he knew it was there, and it’s falling down behind us and we’re running and…",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "urgent"
+  },
+  {
+   "seq": 25,
+   "para": "p17",
+   "type": "narration",
+   "text": "A breath.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 26,
+   "para": "p17",
+   "type": "bond",
+   "text": "Nearly there. I can see Kharrak’s fire. I can see it. On the wall. Ahead of us.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p18",
+   "type": "narration",
+   "text": "He stood up on the rubble.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 28,
+   "para": "p19",
+   "type": "narration",
+   "text": "He saw the light first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p20",
+   "type": "narration",
+   "text": "Across the floor of the cavern, at the foot of the far wall, low down, where he hadn’t seen anything before: a square of dark that was darker than the dark. An opening. In it, coming toward him, light. Yellow. Small. A lantern.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p21",
+   "type": "narration",
+   "text": "A sound with it. Feet. Big feet, padding, and claws on stone, scrabbling, and the rock round the opening groaning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p22",
+   "type": "bond",
+   "text": "There!",
+   "speaker": "Lisska",
+   "listener": "Calder"
+  },
+  {
+   "seq": 32,
+   "para": "p22",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 33,
+   "para": "p22",
+   "type": "bond",
+   "text": "There, Calder, look, LOOK…",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p23",
+   "type": "narration",
+   "text": "She came out of the opening first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p24",
+   "type": "narration",
+   "text": "Green, at a run, low, with her wings scraped raw and filthy and the blue ribbon still on her horn, across the floor of the cavern through the falling stones and the dust, and up the rubble slope, and round him. All the way round. With her head against his chest and her whole long body curled round him, shaking.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p25",
+   "type": "bond",
+   "text": "I did it,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tender"
+  },
+  {
+   "seq": 37,
+   "para": "p25",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "tender"
+  },
+  {
+   "seq": 38,
+   "para": "p25",
+   "type": "bond",
+   "text": "I did it. I found her. I put it down a good way off like you said and I waited and she came, she came to it, and she couldn’t hear me and I didn’t know what to do, and then the lion put his head down to me and I could…",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tender"
+  },
+  {
+   "seq": 39,
+   "para": "p25",
+   "type": "narration",
+   "text": "She stopped.",
+   "mood": "tender"
+  },
+  {
+   "seq": 40,
+   "para": "p25",
+   "type": "bond",
+   "text": "Calder. She’s here.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p26",
+   "type": "narration",
+   "text": "He looked up over Lisska’s neck.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 42,
+   "para": "p27",
+   "type": "narration",
+   "text": "Something came out of the opening in the far wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p28",
+   "type": "narration",
+   "text": "Big. Grey. Low. Its head down and its shoulders working, the rock round the opening moving back from it as it came. Ten feet at the shoulder. More. With a great grey mane, dark with dust and sweat. With pale eyes that caught Kharrak’s fire across the cavern floor and threw it back.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 44,
+   "para": "p29",
+   "type": "narration",
+   "text": "He’d seen its prints. In the snow by her fire. Round, each as broad as a round shield, four toes splayed and the claws drawn in. He’d heard it breathe in the dark under the oaks and backed away. He’d had it from Lisska, a league off, word by word: lying in the arch with its head on the step and a woman’s hand in its mane.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p30",
+   "type": "narration",
+   "text": "He’d never seen it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p31",
+   "type": "narration",
+   "text": "It came across the floor of the cavern toward the rubble slope, steady, not hurrying, through the falling stones, with the lantern on its back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p32",
+   "type": "narration",
+   "text": "And on its back, holding the lantern, a woman.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p33",
+   "type": "narration",
+   "text": "It stopped at the foot of the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p34",
+   "type": "narration",
+   "text": "Ten paces off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p35",
+   "type": "narration",
+   "text": "Exactly ten.",
+   "mood": "quiet",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 51,
+   "para": "p36",
+   "type": "narration",
+   "text": "She got down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p37",
+   "type": "narration",
+   "text": "She slid off its neck onto the floor of the cavern and stood there. In the light of the lantern she held, and of Kharrak’s fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p38",
+   "type": "narration",
+   "text": "He’d never seen her face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p39",
+   "type": "narration",
+   "text": "He knew her like weather in another valley, by Lisska’s telling: on the east shore of the island in the dusk, pointing across the channel; at the stream in the first autumn days; a narrow shape in a cloak in the arch, in the rain, at night, two leagues off. Boot-prints. A fire. A long pressed hollow beside a smaller one at the edge of a pit, both warm. He’d never once been close enough to see her face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p40",
+   "type": "narration",
+   "text": "A woman. Older than he’d thought. Twenty-five, thirty. Dark hair tied back hard behind her head. A long face, weathered, river-brown, with the broad bones of her mother’s in it. Blood on it. Dust on it. In a shirt and breeches and a brown cloak too big for her, with a sword in her belt that wasn’t a knight’s sword, and her hands wrapped in rags that were black with blood and burned through at the palms. Blood on her to the elbow.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p41",
+   "type": "narration",
+   "text": "She looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p42",
+   "type": "narration",
+   "text": "He looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p43",
+   "type": "thought",
+   "text": "She’s here,",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 59,
+   "para": "p43",
+   "type": "narration",
+   "text": "he thought."
+  },
+  {
+   "seq": 60,
+   "para": "p43",
+   "type": "thought",
+   "text": "I warned her and she came.",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p44",
+   "type": "thought",
+   "text": "I don’t know her at all.",
+   "speaker": "Calder",
+   "mood": "quiet",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 62,
+   "para": "p45",
+   "type": "speech",
+   "text": "“You got it,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 63,
+   "para": "p45",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p46",
+   "type": "narration",
+   "text": "It was the first thing. He didn’t know where it came from. He’d thought about what he’d say to her, a hundred times, on the hill, in the tower, on the ferry jetty.",
+   "mood": "humour"
+  },
+  {
+   "seq": 65,
+   "para": "p46",
+   "type": "thought",
+   "text": "Tell her the old one says it’s the cat from the bridge.",
+   "speaker": "Calder",
+   "mood": "humour"
+  },
+  {
+   "seq": 66,
+   "para": "p46",
+   "type": "narration",
+   "text": "None of it. He stood on the rubble with Lisska curled round him and said you got it, like a man asking if a parcel had come.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p47",
+   "type": "narration",
+   "text": "She put her hand inside her shirt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p48",
+   "type": "narration",
+   "text": "She took out something wrapped in a strip of grey cloth, and held it out. On the outside of the cloth, brown and black and ragged, burned with a coal: T W O.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p49",
+   "type": "speech",
+   "text": "“I got it,”",
+   "speaker": "Maren",
+   "how": "hoarse, low"
+  },
+  {
+   "seq": 70,
+   "para": "p49",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p50",
+   "type": "narration",
+   "text": "Her voice was hoarse. Low. A river voice, from the Hearthmere bank, like her mother’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p51",
+   "type": "speech",
+   "text": "“Your dragon told my lion,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 73,
+   "para": "p51",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 74,
+   "para": "p51",
+   "type": "speech",
+   "text": "“My lion told me.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p52",
+   "type": "narration",
+   "text": "He didn’t understand that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p53",
+   "type": "narration",
+   "text": "He came down the rubble slope with Lisska beside him, and across the gap, and took the bundle out of her hand. The five links inside it. The first chain. From the ruts at Upper Rush, the night of the raid. Heavy. Warm from her shirt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p54",
+   "type": "narration",
+   "text": "The lion watched him come. He felt it look at him. Like a person.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p55",
+   "type": "speech",
+   "text": "“I met her,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 79,
+   "para": "p55",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p56",
+   "type": "narration",
+   "text": "He looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p57",
+   "type": "speech",
+   "text": "“At the gate. At Greyhold. In the war. In the crush, with my mother, when the camp burned. She came up the road right behind my mother.”",
+   "speaker": "Maren",
+   "mood": "tender"
+  },
+  {
+   "seq": 82,
+   "para": "p57",
+   "type": "narration",
+   "text": "Maren’s mouth went tight.",
+   "mood": "tender"
+  },
+  {
+   "seq": 83,
+   "para": "p57",
+   "type": "speech",
+   "text": "“She knew me. She said you’re her. She said Lisska said I’d have my hair tied back like this.”",
+   "speaker": "Maren",
+   "mood": "tender"
+  },
+  {
+   "seq": 84,
+   "para": "p57",
+   "type": "narration",
+   "text": "She swallowed.",
+   "mood": "tender"
+  },
+  {
+   "seq": 85,
+   "para": "p57",
+   "type": "speech",
+   "text": "“She held on to my arm. With both hands. Right up to the gate. I pushed her through.”",
+   "speaker": "Maren",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p58",
+   "type": "narration",
+   "text": "He couldn’t speak.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p59",
+   "type": "speech",
+   "text": "“Your mother’s in the Long Barn,”",
+   "speaker": "Maren",
+   "mood": "tender"
+  },
+  {
+   "seq": 88,
+   "para": "p59",
+   "type": "narration",
+   "text": "said Maren.",
+   "mood": "tender"
+  },
+  {
+   "seq": 89,
+   "para": "p59",
+   "type": "speech",
+   "text": "“At Greyhold. With your sister and the little ones and the three greys, behind a barricade, with the grooms and Grieve with a pitchfork, and a grey dray-beast in the gap that nobody would come near.”",
+   "speaker": "Maren",
+   "mood": "tender"
+  },
+  {
+   "seq": 90,
+   "para": "p59",
+   "type": "narration",
+   "text": "She looked at him.",
+   "mood": "tender"
+  },
+  {
+   "seq": 91,
+   "para": "p59",
+   "type": "speech",
+   "text": "“Wren wouldn’t stay in. She went back to the ferry house to be with my mother. She was there at dusk. It’s stone. It’s by the water. It’s…”",
+   "speaker": "Maren",
+   "mood": "tender"
+  },
+  {
+   "seq": 92,
+   "para": "p59",
+   "type": "narration",
+   "text": "She stopped.",
+   "mood": "tender"
+  },
+  {
+   "seq": 93,
+   "para": "p59",
+   "type": "speech",
+   "text": "“I don’t know where she is now. I’m sorry.”",
+   "speaker": "Maren",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p60",
+   "type": "speech",
+   "text": "“She’s alive.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p61",
+   "type": "speech",
+   "text": "“She was at dusk.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p62",
+   "type": "narration",
+   "text": "He stood there in the dark at the bottom of the world with the chain in his hand.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p63",
+   "type": "speech",
+   "text": "“She says hello,”",
+   "speaker": "Maren",
+   "mood": "tender"
+  },
+  {
+   "seq": 98,
+   "para": "p63",
+   "type": "narration",
+   "text": "said Maren.",
+   "mood": "tender"
+  },
+  {
+   "seq": 99,
+   "para": "p63",
+   "type": "speech",
+   "text": "“She sent it by my mother. A girl called Wren says hello. Then on the road she asked me had I given it to the lion.”",
+   "speaker": "Maren",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 100,
+   "para": "p64",
+   "type": "narration",
+   "text": "The cavern heaved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p65",
+   "type": "narration",
+   "text": "All of it. The floor under their feet, the rubble slope behind him, the far wall where the opening was. The dark overhead. Stones came down all round them, and a big one, as big as a cart, came down out of the dark onto the floor a stone’s throw off and broke in half. The lion’s head went up. Kharrak’s fire flared.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p66",
+   "type": "narration",
+   "text": "The chains screamed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p67",
+   "type": "narration",
+   "text": "He’d never heard iron scream. It did. All six of them at once, a sound so high and terrible he put his hands over his ears.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 104,
+   "para": "p68",
+   "type": "narration",
+   "text": "Then it stopped. Shuddering. Holding. Just.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p69",
+   "type": "narration",
+   "text": "In the quiet after it the lion moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p70",
+   "type": "narration",
+   "text": "It went past him. Past her. Up the rubble slope, slowly, with the stones sliding under its feet, toward the place where Aurveth lay with her torn wing out over the rubble and her one gold eye open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p71",
+   "type": "narration",
+   "text": "Kharrak came up off the stones between them with his broken horn lowered and a growl in him like a kiln-door opening.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p72",
+   "type": "bond",
+   "text": "Lie down, child,",
+   "speaker": "Aurveth",
+   "listener": "Kharrak"
+  },
+  {
+   "seq": 109,
+   "para": "p72",
+   "type": "narration",
+   "text": "said Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p73",
+   "type": "bond",
+   "text": "It’s too big. It’s too close to you.",
+   "speaker": "Kharrak",
+   "listener": "Aurveth",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p74",
+   "type": "bond",
+   "text": "Lie down.",
+   "speaker": "Aurveth",
+   "listener": "Kharrak",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p75",
+   "type": "narration",
+   "text": "Kharrak didn’t lie down. But he didn’t move either.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p76",
+   "type": "narration",
+   "text": "The lion stopped on the slope below the old dragon, so close its breath stirred the dust on her scales. It put its head out. It smelled her, long and deep, from her jaw to the torn edge of the wing, as it must have smelled everything, all its life, before it decided.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 114,
+   "para": "p77",
+   "type": "narration",
+   "text": "Aurveth lifted her head off the stones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p78",
+   "type": "narration",
+   "text": "Calder felt it go through her. Not the pain, though that was there. Something older, coming up from the bottom of her like a stone out of a ploughed field. Sun on white stone. A road crowded with people. A man beside her, stopping, turning, bowing to a great grey cat on the tower steps. Ennis. She had his face now. She had it all.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 116,
+   "para": "p79",
+   "type": "narration",
+   "text": "She bowed her head to the lion. All the way down, until her jaw was on the rubble.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 117,
+   "para": "p80",
+   "type": "narration",
+   "text": "The lion lowered its head to her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p81",
+   "type": "narration",
+   "text": "It held it there a long moment. Then it lifted it, and looked past her at Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p82",
+   "type": "bond",
+   "text": "He says you’re kin too,",
+   "speaker": "Lisska",
+   "listener": "Kharrak",
+   "how": "very small"
+  },
+  {
+   "seq": 120,
+   "para": "p82",
+   "type": "narration",
+   "text": "said Lisska, very small, against Calder’s chest."
+  },
+  {
+   "seq": 121,
+   "para": "p82",
+   "type": "bond",
+   "text": "Far back. Like me. Like her.",
+   "speaker": "Lisska",
+   "listener": "Kharrak",
+   "how": "very small",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p83",
+   "type": "bond",
+   "text": "I’m not kin to anything,",
+   "speaker": "Kharrak",
+   "listener": "Lisska"
+  },
+  {
+   "seq": 123,
+   "para": "p83",
+   "type": "narration",
+   "text": "said Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p84",
+   "type": "bond",
+   "text": "You are. He says you are.",
+   "speaker": "Lisska",
+   "listener": "Kharrak",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p85",
+   "type": "narration",
+   "text": "Kharrak looked at the lion a long time with the fire going down in his throat. Then he lay down against Aurveth’s side, and put his broken horn on his forefeet, and kept his eyes open.",
+   "mood": "humour",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 126,
+   "para": "p86",
+   "type": "narration",
+   "text": "Maren was looking at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p87",
+   "type": "narration",
+   "text": "At the three of them round him on the rubble. The old bronze one with her head still down. The red one, watching the lion. The green one with her whole body curled round his legs and the ribbon on her horn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p88",
+   "type": "speech",
+   "text": "“She never stops,”",
+   "speaker": "Maren",
+   "mood": "humour"
+  },
+  {
+   "seq": 129,
+   "para": "p88",
+   "type": "narration",
+   "text": "said Maren.",
+   "mood": "humour"
+  },
+  {
+   "seq": 130,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Your green one. All the way along the road under the river, through him. Calder says. Calder thinks. Calder would know.”",
+   "speaker": "Maren",
+   "mood": "humour"
+  },
+  {
+   "seq": 131,
+   "para": "p88",
+   "type": "narration",
+   "text": "Something moved at the corner of her mouth, and went.",
+   "mood": "humour"
+  },
+  {
+   "seq": 132,
+   "para": "p88",
+   "type": "speech",
+   "text": "“I thought you’d know more.”",
+   "speaker": "Maren",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p89",
+   "type": "speech",
+   "text": "“So did she.”",
+   "speaker": "Calder",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p90",
+   "type": "narration",
+   "text": "The other corner moved that time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p91",
+   "type": "speech",
+   "text": "“The other one,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 136,
+   "para": "p91",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 137,
+   "para": "p91",
+   "type": "speech",
+   "text": "“At your end. Did he turn it?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p92",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 139,
+   "para": "p92",
+   "type": "narration",
+   "text": "He looked down at his own hand."
+  },
+  {
+   "seq": 140,
+   "para": "p92",
+   "type": "speech",
+   "text": "“I had my hand on his wrist. It turned anyway. He went up a stair in the far wall with a lantern when the floor fell. He didn’t look back.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p93",
+   "type": "narration",
+   "text": "She nodded, slowly, as if he’d told her a thing she’d already known and needed to hear said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p94",
+   "type": "narration",
+   "text": "He didn’t ask about hers. He could see her hands in their black rags, and the blood to her elbows, and that it wasn’t hers. She didn’t say. She held her hands a little away from herself, and didn’t look at them.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p95",
+   "type": "narration",
+   "text": "And he had the rest of it in him, carried down from under the arch: men talking in the firelight below his crack in the wall, an axe in the shallows, a boy who’d thought somebody had come to hold his horse. He opened his mouth, and the slope shuddered under them, and a stone the size of a sheep went past them into the dark. He shut it again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p96",
+   "type": "narration",
+   "text": "It would keep. Till there was a sky over them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p97",
+   "type": "speech",
+   "text": "“Orrun touched it,”",
+   "speaker": "Maren",
+   "mood": "dread"
+  },
+  {
+   "seq": 146,
+   "para": "p97",
+   "type": "narration",
+   "text": "said Maren. She was looking past him now, out over the cavern floor, into the dark at the bottom of the chains, where the dark was lifting.",
+   "mood": "dread"
+  },
+  {
+   "seq": 147,
+   "para": "p97",
+   "type": "speech",
+   "text": "“When the seal went. What’s down there. It’s nothing he knew. It’s nothing anybody knew.”",
+   "speaker": "Maren",
+   "mood": "dread"
+  },
+  {
+   "seq": 148,
+   "para": "p97",
+   "type": "narration",
+   "text": "Her voice didn’t change.",
+   "mood": "dread"
+  },
+  {
+   "seq": 149,
+   "para": "p97",
+   "type": "speech",
+   "text": "“They made it into something that wants the world down.”",
+   "speaker": "Maren",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 150,
+   "para": "p98",
+   "type": "narration",
+   "text": "Behind Calder on the rubble, Aurveth closed her eye.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p99",
+   "type": "bond",
+   "text": "I knew,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "grief"
+  },
+  {
+   "seq": 152,
+   "para": "p99",
+   "type": "narration",
+   "text": "she said, inside him.",
+   "mood": "grief"
+  },
+  {
+   "seq": 153,
+   "para": "p99",
+   "type": "bond",
+   "text": "On the ice at midwinter, with my throat to it. I have known since then.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 154,
+   "para": "p100",
+   "type": "narration",
+   "text": "The first anchor-stone broke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p101",
+   "type": "narration",
+   "text": "He saw it. Up at the top of the rubble slope, in the light of the fire round the hole far above. The great stone set in the cavern wall, as big as a house, with the chain running through the iron eye in it. The crack across its face that he’d watched growing. It went all the way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p102",
+   "type": "narration",
+   "text": "The stone came apart in two halves.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p103",
+   "type": "narration",
+   "text": "And the chain came loose.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p104",
+   "type": "narration",
+   "text": "He watched it fall. It went past them. Down the wall of the cavern, past the rubble slope, out into the dark, one link at a time, each link taller than a man, each with its thin line of white writing still burning on the inside of the curve, like a string of lamps let go into a well, falling, hitting the rock and the rubble and each other, with a sound like all the bells of a city being thrown down a well, one after another after another, going down into the deep dark at the bottom of the cavern where the dark was lifting.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 159,
+   "para": "p105",
+   "type": "narration",
+   "text": "The dark lifted faster.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p106",
+   "type": "narration",
+   "text": "Five chains sang.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 161,
+   "para": "p107",
+   "type": "speech",
+   "text": "“Out,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 162,
+   "para": "p107",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 163,
+   "para": "p107",
+   "type": "speech",
+   "text": "“We have to get out.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p108",
+   "type": "speech",
+   "text": "“Which way?”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 165,
+   "para": "p108",
+   "type": "narration",
+   "text": "Maren was looking at the opening in the far wall, the way she’d come."
+  },
+  {
+   "seq": 166,
+   "para": "p108",
+   "type": "speech",
+   "text": "“The road under the river’s coming down. It was coming down behind us all the way.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p109",
+   "type": "narration",
+   "text": "He looked at Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p110",
+   "type": "narration",
+   "text": "She was trying to stand. He felt her try. Her hind legs under her on the rubble, her forelegs, and the left wing, the torn one, half open and dragging, and the horn-wound in her chest opening when she moved. She got her chest up off the stones and stood there, swaying, with her one eye shut.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 169,
+   "para": "p111",
+   "type": "bond",
+   "text": "I can’t fly,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "very calm"
+  },
+  {
+   "seq": 170,
+   "para": "p111",
+   "type": "narration",
+   "text": "she said. Very calm."
+  },
+  {
+   "seq": 171,
+   "para": "p111",
+   "type": "bond",
+   "text": "Not with this wing. Not up through that.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "very calm",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p112",
+   "type": "narration",
+   "text": "Kharrak was up. He’d been up the moment she moved. He stood against her shoulder, holding her, with his broken horn and his torn claws.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p113",
+   "type": "bond",
+   "text": "Then I’ll carry her,",
+   "speaker": "Kharrak",
+   "listener": "Aurveth"
+  },
+  {
+   "seq": 174,
+   "para": "p113",
+   "type": "narration",
+   "text": "said Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p114",
+   "type": "bond",
+   "text": "You can’t carry me, child.",
+   "speaker": "Aurveth",
+   "listener": "Kharrak",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p115",
+   "type": "bond",
+   "text": "Then I’ll DIG.",
+   "speaker": "Kharrak",
+   "listener": "Aurveth",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p116",
+   "type": "narration",
+   "text": "Maren had gone back to the lion. She was standing by its head with her hand on its jaw. Calder saw her face change. Listening. He knew that look. He’d had it on his own face since the autumn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p117",
+   "type": "speech",
+   "text": "“He says up,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 179,
+   "para": "p117",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p118",
+   "type": "narration",
+   "text": "Calder looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p119",
+   "type": "speech",
+   "text": "“He says the stone will move for him. It knows him. It moved for him all the way down from the school, and along the road under the river. He says it’ll move for him going up.”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 182,
+   "para": "p119",
+   "type": "narration",
+   "text": "She looked up into the dark over their heads. Not toward the hole where the island had been, with the fire round it. Straight up."
+  },
+  {
+   "seq": 183,
+   "para": "p119",
+   "type": "speech",
+   "text": "“Up through the rock. To the river. The way he dug all winter. Only the other way.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p120",
+   "type": "narration",
+   "text": "She held the lantern out to Lisska. Lisska looked at it, and at her, and put out her front claw and hooked the handle, carefully, and held it up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p121",
+   "type": "narration",
+   "text": "The lion lowered its great grey head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p122",
+   "type": "narration",
+   "text": "To the floor. To the rock at the foot of the rubble slope. It laid the side of its face against it, as Aurveth had laid her throat on the ice at midwinter.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p123",
+   "type": "narration",
+   "text": "The ground under Calder’s feet answered.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 188,
+   "para": "p124",
+   "type": "narration",
+   "text": "Five chains sang.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p125",
+   "type": "narration",
+   "text": "The dark at the bottom of the cavern lifted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p126",
+   "type": "narration",
+   "text": "Standing on the rubble with the five links in his hand and his three dragons behind him and Wren alive somewhere in a stone house by the water, Calder looked across the ten paces of falling dust at the woman from the other bank. Hair tied back. Hands burned to the bone in their rags. A river watch sword and somebody else’s blood to the elbow. Her hand on the lion’s jaw.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p127",
+   "type": "narration",
+   "text": "He’d sent her a chain and a word. Not knowing her. Not knowing if she’d understand, or if she’d come, or if the ferrywoman had told her anything at all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p128",
+   "type": "narration",
+   "text": "She’d understood. And come.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p129",
+   "type": "narration",
+   "text": "She looked back at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p130",
+   "type": "speech",
+   "text": "“Fenn,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 195,
+   "para": "p130",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p131",
+   "type": "speech",
+   "text": "“Ashdown.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p132",
+   "type": "narration",
+   "text": "The lion lifted its head off the rock, and the rock overhead began, with a long deep groan like the whole hill breathing out, to open.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  }
+ ]
+}

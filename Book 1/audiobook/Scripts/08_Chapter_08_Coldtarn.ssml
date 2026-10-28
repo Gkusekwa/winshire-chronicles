@@ -1,202 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<speak version="1.0" xml:lang="en-GB">
-  <!-- AI CUE: TITLE: clear and composed; give the heading room. Do not perform as narrative prose. -->
-  <p><s>Chapter 8: Coldtarn</s></p><break time="700ms"/>
-  <break time="1400ms"/>
-  <!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>The Clan says Coldtarn has no bottom. Children are told that if you drop a stone in the middle it falls forever, and that the dead go down after it, slowly, all the chiefs and warriors of four hundred years, sinking through the black water side by side in the order they died, so that somewhere far below there is a long, quiet line of them, still falling. Children are also told not to swim in it. Every year one of them does anyway, on a dare, in high summer, and comes out blue and gasping and changed, and never goes in again.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It is the coldest water in the Six Kingdoms, the Clan says. It doesn't freeze. It's too deep to freeze. It lies in its cup of black rock above the falls of Hollow Beck like an eye that never shuts, and the dragons won't drink from it, and the Clan burns its dead on its shore and gives them to it, and has done since before the hold had a name.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Nobody in Harrow's End wanted to carry the mourning cloth.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The cloth was a fine thing. Ada had woven it in the eleven nights since the pyre was lit, grey wool with a border of black, and the village women had each put in a thread of their own, as you were supposed to for a chief. The trouble was the going. Two days up into the Scarfell to stand on the shore of Coldtarn with the whole Clan, in the cold, at the new moon, while the dead man's brother and the dead man's son glared at each other over the urn. Everybody in the village had heard about the two fires at Varrhold by now. Everybody had heard about the bard. Nobody wanted to be standing anywhere near it if it went wrong.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Hob should go," said old Garrow, at the meeting in the mill. "He's the miller. He's the most important man in the village."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I've the mill to run," said Hob. "A day off the stones is a day's flour lost. Garrow should go. He's the oldest."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"My knees won't do the Scarfell. Not at this time of year."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Your knees did the Cotter's Cross fair well enough."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"That was downhill."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>They went round like that for half an hour. Calder sat at the back on a sack of meal with his arms folded and said nothing, which was what he always did, and which had kept him out of every job in Harrow's End that nobody wanted for thirty-two years. He was quite good at it. He could feel the room deciding, and he could feel it not deciding on him.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>Then Hob said, "Teo Varr knows Fenn. Shook his hand at Upper Rush. Took him up the cliff at the hold, I heard. Fenn should go."</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>And the room turned and looked at him, all of it at once, and was relieved.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I've the barley," said Calder.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Your barley'll keep. It's the best barley in the village; it always keeps." Hob smiled at him with all his teeth. "You've a friend at the hold now, Fenn. You're practically Clan. Go on."</p>
- <break time="1400ms"/>
-  <!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He went up on the Ewe Hollow wool cart, which was going anyway, sitting on the bales with the cloth in a bundle on his knees and his coat collar up against the wind. Two days. The moor was brown now, the heather going over, and there were geese going south high up in long, crooked lines, crying. The Ewe Hollow men were brothers called Tuft and Fell, and they talked about sheep, and the Clan herd-charm that Fell's wife swore by and Tuft swore at, for the whole of the first day and the morning of the second, and Calder found it the most restful conversation he'd had in a month.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>They came over the last rise in the afternoon of the second day and he saw that the whole Clan was there.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Coldtarn lay in a bowl in the rock above the hold, higher up than he'd ever been, so high the clouds came down and sat on the rim of it. The water was black, like a hole cut in the world, and perfectly still, so still that the cliffs round it stood upside down in it without a ripple. The shore was a long slope of grey stones going down to the edge. And on the stones, in the cold, in their grey cloaks, stood more people than Calder had seen in one place in his life: hundreds of them, the whole hold and every farm in the Scarfell and half the Marches, ranked up the slope in a great half-circle facing the water.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Above them, on every ledge of the cliffs round the bowl, sat the dragons.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>He'd thought the Roosts were a lot of dragons. The Roosts were a lot of dragons as a pond is a lot of water. They sat on the ledges with their wings folded and their heads down and their eyes on the tarn, so still and so many that at first he took them for rocks, until one of them shifted its weight and a shower of stones went rattling down into the water, and the sound came back off the cliffs three times.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>None of them made a sound. The whole bowl was silent. Hundreds of people, hundreds of dragons, and nothing but the wind on the rim and the far faint sound of the falls below.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He got down off the wool cart. His knees were shaking, and it wasn't the cold.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The quarrel came at the water's edge, as everyone had known it would.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>At the bottom of the slope, on a flat black stone that ran out into the tarn like a jetty, stood the urn. It was big and plain and grey, as tall as a child, and it held the ash of Haldor Varr and his pyre: eleven days and nights of burning, the whole great fire raked and sifted and carried up the mountain on a sledge. In front of it, facing the half-circle, stood the Clan's priest, an old man in grey with a staff. Behind him, to the left, Arn and his men. To the right, Ulric and his. Teo stood a little apart from both, near the priest, bareheaded, with his hands clasped in front of him.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The priest said the words, the plain ones first and then the old ones that only priests still had, which were meant to keep a dead chief down in the water where he belonged. Calder couldn't hear most of them; the wind took them. He heard Haldor, and son of Rurik, and chief of the Varr, and he heard the gods named, all of them, the old ones who walk unbound, and he saw the whole half-circle bow their heads at that, and he bowed his. Then the priest stepped back and lifted his staff and said, loud enough to carry up the slope:</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Who pours?"</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>That was the custom. The eldest son poured. Everyone knew that. Arn Varr stepped forward and put his hands on the urn.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>And Ulric's voice came across the stone, slow and deep and perfectly calm. "The champion pours."</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>There was a sound from the half-circle: not a word, more like a breath going out of hundreds of people at once.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>Arn didn't take his hands off the urn. He turned his head. "The eldest son pours, Uncle. It's been the eldest son since Varr himself."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"It's been the eldest son when the eldest son was a man the Clan would follow into a fight," said Ulric. He hadn't moved. He stood with his men behind him and his arms folded across his chest, enormous in his grey cloak, and he didn't raise his voice at all. "When there's doubt, the champion pours. That's custom too. Ask the priest. Ask your grandmother's bones. My grandfather poured for his brother because his brother's son was nine years old and soft in the head, and nobody said a word."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Are you calling me soft in the head?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I'm saying there's doubt." Ulric looked up at the half-circle. Then he looked up at the cliffs, at the hundreds of dragons sitting silent on the ledges, and back down. "Look around you, boy. Look how they're standing. Look how they're watching. That's doubt. Your father kept it quiet for thirty-one years. Now he's in that pot, and it's not quiet anymore."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Arn let go of the urn.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>He did it slowly, and that was worse. Calder saw his face, from where he stood halfway up the slope: the face of a man who has been waiting for someone to say something, and now they have, and now there's nothing left to wait for. His hand went to his hip. On both sides of the black stone, men moved, and there was a sound up the slope like a wave pulling back off shingle as people stepped away from the people next to them.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>On the cliffs, a dragon lifted its head and hissed, very softly. The sound went round the bowl and came back.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And Teo walked between them.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He didn't hurry. He walked out onto the black stone as if he had all day, and stood beside the urn, between his brother and his uncle, bareheaded, and put one hand on the urn. Then he looked at his uncle, and held out his other hand, open.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Pour with him," he said.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Ulric didn't move.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Pour with him," Teo said again. Not loud. Calder had to strain to hear it. "You're both right. It's the son's to pour and the champion's to pour, and you're both here, and you're both his. So pour together. One hand each. Let the Clan see two hands on it." He looked at Arn. "Brother. Please. He was our father. He was Uncle's brother. Let them see us put him in the water together, and then you can go back to the hold and hate each other in private like decent people."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>For a long moment nobody on the black stone moved at all.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Then Ulric Varr unfolded his arms and stepped forward and put one huge hand on the urn, on one side, without looking at his nephew. And after a moment Arn put his hand on the other side, without looking at his uncle. And Teo took his own hand away and stepped back, and stood behind them, between them, with his head bowed.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>They tipped it together.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>The ash went into Coldtarn in a long grey pour like smoke going the wrong way. It didn't sink at first. It lay on the black water in a great pale shape, spreading slowly outward from the stone. Then, in the middle, it began to go down, and the whole shape drew in toward that point and went down after it, turning slowly, until there was nothing on the water at all.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>On every ledge round the bowl, the dragons lifted their heads and opened their mouths, all together, and the sound they made was nothing Calder had ever heard or would ever be able to describe afterwards: lower than a roar, and longer. It went into the rock and came up through his feet and into his chest and stayed there, and he found that his face was wet, and so was everyone's around him.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>Afterwards, when the half-circle broke up and people began to go back down toward the hold in long grey lines, Calder found the priest and gave him the cloth from Harrow's End, and the old man took it and unfolded it and looked at the threads and said, "This is good work. Who wove it?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"My mother. Ada Fenn. The village women all put in a thread."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Tell her the Clan thanks her." The priest folded it again. "And tell her the border's crooked on the third side, but I won't say a word about it."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Calder laughed, surprised, and the old man smiled at him and went off with the cloth under his arm.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He was standing near the bottom of the slope, out of the wind behind a boulder, trying to decide whether to go and find Teo or to go and find the Ewe Hollow cart and start home before dark, when he heard the voice.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It was a high, aggrieved voice, and he'd heard voices like it at the Ram's Head. A knot of men stood a little way off among the stones: three or four of Ulric's, big men in grey, and with them a thin man who wasn't Clan at all. Saltreach, by his clothes, all colours and none, with a silver ring in one ear, from the boats by the look of him. He was talking fast and waving his hands.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"…one girl. One. In a Greyhold coat, with a tin sword and a horse that looked like it'd died the year before. And she breaks the lock and lets it out. In front of the whole village. A Brackenwood duskcat, that cub, worth more than this whole mountain. Gannet had a buyer lined up in Wendmouth paying silver, and she lets it go into the trees like it was a sparrow." He spat on the stones. "Knights. They won't cross the river to save a burning farm, but they'll stand on a jetty and rob an honest man of his living. And then she tells us to get back in our boats. Tells us. Like we were dogs."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"So what d'you want us to do about it?" said one of Ulric's men. He sounded bored. "She's across the river."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Gannet says you people have long arms."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Gannet says a lot of things."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"He says to tell your master there's a knight-student at Greyhold who frees beasts. A tall one, dark, unbonded, late in her years for a student. Says your master'll want to know. Says your master's going to be wanting beasts himself, soon, and he'll not want some knight's girl letting them out of their cages." The boatman looked round at the slope, at the grey cloaks going down toward the hold. "Says there's others will want to know, too. Others with long arms. Says to tell them."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Tell who?"</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>But the boatman had seen Calder behind his boulder, and stopped. He looked at him with flat, quick eyes. Calder looked at the stones, the way he'd looked at the stones his whole life, and after a moment the boatman decided he was nobody and turned his back.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>Calder walked away up the slope. He thought: a knight-student who frees beasts. A tall one, dark, unbonded, late in her years.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He thought about the masked men at Upper Rush, who'd wanted the beasts and not the blood. About Joss's greys going down to the river on a rope. About a girl he'd never met standing on a jetty somewhere on the far bank, breaking a lock, with six men in front of her.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>He thought, good, and was surprised at how much he meant it.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>He found Sigrun Holm at the top of the slope, sitting on a flat rock under the rim with her cloak round her and her back to the wind, watching the tarn. Behind her, crouched on the rim itself like a bronze hill, was Aurveth, with her great head lowered over the bowl and her gold eyes on the black water, unmoving.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Farmer," said Sigrun, without looking round. "You brought the cloth."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"My mother made it."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I know. Everyone's seen it. Crooked on the third side." The old warrior almost smiled. "Sit down. You look like you've seen your own ghost."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He sat. The rock was cold through his trousers. Down below, the last of the half-circle was going down the path, and the tarn lay black and still, with the cliffs standing upside down in it again as if nothing had happened.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Teo," he said, after a while.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Teo." Sigrun nodded slowly. "He walked onto that stone like it was his kitchen. I've seen men walk into a shield-wall with more fear in their faces." She looked down at the black stone, empty now, where the urn had been. "He bought them a month. Maybe two. That's all. They poured together, and now they'll go back to the hold and sit at their two tables, and every day of the next month they'll each be thinking how the other one's hand felt on the urn."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"You don't think they'll come round."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I think Ulric's been waiting thirty years and Arn's been waiting since he could walk, and I think waiting men don't come round. They go off." She pulled her cloak tighter. "I've ridden for this Clan near sixty years. I've buried two chiefs. I've never seen the dragons sit on the rim like that. Not for Rurik. Not for anyone."</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Calder looked up at Aurveth. The great dragon hadn't moved. Her eyes were still on the water.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Is she all right?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"She's remembering." Sigrun reached back without looking and laid her hand on the bronze foreleg behind her, the way Calder had seen her do on the ledge at the Roosts. "She's done this before. More times than I have. More times than anyone." She was quiet a moment. "Did you know she's had three of us? Three partners. I'm the third."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Teo said she was old."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Teo doesn't know the half of it. Nobody does. I'm not sure she does, all of it." Sigrun looked out over the tarn. "Her second was my great-uncle. Ragnald Holm. A big, kind, slow man; I remember him a little, from when I was a girl. He was killed in a rockfall in the Scarfell, sixty years ago. Sixty-one. And everyone in the hold waited for her to go after him. That's what happens. You know that. The beast goes after the rider, the rider goes after the beast. One life between two. It's the oldest law there is. They wait a few days, and then they burn them both on the same pyre."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"But she didn't."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"She didn't. She came up here, to this rock, and she lay down on the shore with her head in the water, and she stayed there. A full year. Through a whole winter. She didn't eat that anyone saw. People came up to look at her and went away again, and the priests said prayers over her, and everyone waited. And she didn't wither, and she didn't die. And in the spring she got up and went back to the Roosts and lay in her cave for another year, and then I came of age, and she chose me." Sigrun was quiet. "Nobody knew how. Nobody knows now. It doesn't happen. A beast that loses its rider dies. It's not a rule anyone made, it's just what is. And she didn't."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The wind came over the rim and went across the black water without leaving a mark on it.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"And her first?" said Calder.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Sigrun shook her head.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Nobody knows. Before Ragnald, she was in the Roosts for longer than anyone could remember, alone, unbonded, old already. The oldest stories in the hold have her in them, sitting on the cliff, just like that. Before that…" She shrugged. "I've asked her. Through the bond, you can ask anything. She doesn't answer. She doesn't refuse. She just goes quiet, like a well, and you feel how deep it goes, and you stop asking." Sigrun looked up at the great bronze head above her. "Sometimes I think she's been waiting for something. For a long time. Longer than all of us. And she doesn't know what it is either."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Aurveth's eye moved.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>It was a small thing. The great gold eye, the size of a cartwheel hub, that had been fixed on the tarn the whole time, turned in its socket and came round and down, slowly, and rested on Calder.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>It stayed there. He didn't move. He couldn't have moved if the mountain had fallen. He sat on the cold rock beside Sigrun Holm and the oldest living thing in the Scarfell looked at him for a long, long moment, as you look at a word in a language you used to know, trying to remember what it means.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Then the eye went back to the water.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Sigrun had seen it. He knew she had. She was quiet for a while.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Well," she said at last, quite lightly. "She's never done that to a farmer before."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"What does it mean?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Gods know." Sigrun got up, stiffly, and pulled her cloak round her, and looked down at him with an expression he couldn't read. "She doesn't tell me everything, Fenn. She never has. Go home. The Ewe Hollow cart's leaving and you'll freeze up here." She turned to go, and then stopped. "And Fenn. When Teo gets them to the ford, and he will, he'll want people there who aren't Ulric's and aren't Arn's. Ordinary people. Witnesses. He'll ask you. Don't say no."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Why me?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Because you'll stand there and not say anything," said Sigrun Holm, "and everyone will believe whatever you saw."</p>
- <break time="1400ms"/>
-  <!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He rode home on the wool bales, two days of it, and on the first night the cart stopped at the Ram's Head and he lay awake in the loft above the stable with Tuft and Fell snoring on either side of him, and thought about the black water, and a long line of dead chiefs falling slowly through it side by side forever.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>He thought about two hands on an urn, and a young man standing behind them with his head bowed.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>He thought about a great gold eye coming round, slowly, and resting on him, as if it were trying to remember something.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>He didn't sleep until nearly dawn. When he did, he dreamed he was standing on the black stone at the edge of Coldtarn, and the water was rising, and three enormous shapes were coming up through it from very far below.</p>
-<break time="450ms"/></speak>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<!-- The Watch Below, Chapter 8: Coldtarn. Point of view: Calder. -->
+<p><s>Chapter Eight.</s></p><break time="800ms"/>
+<p><s>Coldtarn.</s></p><break time="1800ms"/>
+<!-- p1 · dread: a Clan legend -->
+<p><prosody rate="96%">The Clan says Coldtarn has no bottom. Children are told that if you drop a stone in the middle it falls forever, and that the dead go down after it, slowly, all the chiefs and warriors of four hundred years, sinking through the black water side by side in the order they died, so that somewhere far below there is a long, quiet line of them, still falling. Children are also told not to swim in it. Every year one of them does anyway, on a dare, in high summer, and comes out blue and gasping and changed, and never goes in again.</prosody></p><break time="800ms"/>
+<!-- p2 -->
+<p>It is the coldest water in the Six Kingdoms, the Clan says. It doesn’t freeze. It’s too deep to freeze. It lies in its cup of black rock above the falls of Hollow Beck like an eye that never shuts, and the dragons won’t drink from it, and the Clan burns its dead on its shore and gives them to it, and has done since before the hold had a name.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p3 -->
+<p>Nobody in Harrow’s End wanted to carry the mourning cloth.</p><break time="500ms"/>
+<!-- p4 -->
+<p>The cloth was a fine thing. Ada had woven it in the eleven nights since the pyre was lit, grey wool with a border of black, and the village women had each put in a thread of their own, as you were supposed to for a chief. The trouble was the going. Two days up into the Scarfell to stand on the shore of Coldtarn with the whole Clan, in the cold, at the new moon, while the dead man’s brother and the dead man’s son glared at each other over the urn. Everybody in the village had heard about the two fires at Varrhold by now. Everybody had heard about the bard. Nobody wanted to be standing anywhere near it if it went wrong.</p><break time="500ms"/>
+<!-- p5 · old Garrow -->
+<p>“Hob should go,” said old Garrow, at the meeting in the mill. “He’s the miller. He’s the most important man in the village.”</p><break time="500ms"/>
+<!-- p6 · Hob -->
+<p>“I’ve the mill to run,” said Hob. “A day off the stones is a day’s flour lost. Garrow should go. He’s the oldest.”</p><break time="500ms"/>
+<!-- p7 · old Garrow -->
+<p>“My knees won’t do the Scarfell. Not at this time of year.”</p><break time="500ms"/>
+<!-- p8 · Hob -->
+<p>“Your knees did the Cotter’s Cross fair well enough.”</p><break time="500ms"/>
+<!-- p9 · humour · old Garrow -->
+<p>“That was downhill.”</p><break time="500ms"/>
+<!-- p10 -->
+<p>They went round like that for half an hour. Calder sat at the back on a sack of meal with his arms folded and said nothing, which was what he always did, and which had kept him out of every job in Harrow’s End that nobody wanted for thirty-two years. He was quite good at it. He could feel the room deciding, and he could feel it not deciding on him.</p><break time="500ms"/>
+<!-- p11 · Hob -->
+<p>Then Hob said, “Teo Varr knows Fenn. Shook his hand at Upper Rush. Took him up the cliff at the hold, I heard. Fenn should go.”</p><break time="500ms"/>
+<!-- p12 · humour -->
+<p>And the room turned and looked at him, all of it at once, and was relieved.</p><break time="500ms"/>
+<!-- p13 · Calder -->
+<p>“I’ve the barley,” said Calder.</p><break time="500ms"/>
+<!-- p14 · humour · Hob -->
+<p>“Your barley’ll keep. It’s the best barley in the village; it always keeps.” Hob smiled at him with all his teeth. “You’ve a friend at the hold now, Fenn. You’re practically Clan. Go on.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p15 -->
+<p>He went up on the Ewe Hollow wool cart, which was going anyway, sitting on the bales with the cloth in a bundle on his knees and his coat collar up against the wind. Two days. The moor was brown now, the heather going over, and there were geese going south high up in long, crooked lines, crying. The Ewe Hollow men were brothers called Tuft and Fell, and they talked about sheep, and the Clan herd-charm that Fell’s wife swore by and Tuft swore at, for the whole of the first day and the morning of the second, and Calder found it the most restful conversation he’d had in a month.</p><break time="500ms"/>
+<!-- p16 -->
+<p>They came over the last rise in the afternoon of the second day and he saw that the whole Clan was there.</p><break time="500ms"/>
+<!-- p17 -->
+<p>Coldtarn lay in a bowl in the rock above the hold, higher up than he’d ever been, so high the clouds came down and sat on the rim of it. The water was black, like a hole cut in the world, and perfectly still, so still that the cliffs round it stood upside down in it without a ripple. The shore was a long slope of grey stones going down to the edge. And on the stones, in the cold, in their grey cloaks, stood more people than Calder had seen in one place in his life: hundreds of them, the whole hold and every farm in the Scarfell and half the Marches, ranked up the slope in a great half-circle facing the water.</p><break time="500ms"/>
+<!-- p18 -->
+<p>Above them, on every ledge of the cliffs round the bowl, sat the dragons.</p><break time="500ms"/>
+<!-- p19 · awe -->
+<p><prosody rate="95%">He’d thought the Roosts were a lot of dragons. The Roosts were a lot of dragons as a pond is a lot of water. They sat on the ledges with their wings folded and their heads down and their eyes on the tarn, so still and so many that at first he took them for rocks, until one of them shifted its weight and a shower of stones went rattling down into the water, and the sound came back off the cliffs three times.</prosody></p><break time="800ms"/>
+<!-- p20 · awe: silence -->
+<p><prosody rate="95%">None of them made a sound. The whole bowl was silent. Hundreds of people, hundreds of dragons, and nothing but the wind on the rim and the far faint sound of the falls below.</prosody></p><break time="800ms"/>
+<!-- p21 · tension -->
+<p><prosody rate="97%">He got down off the wool cart. His knees were shaking, and it wasn’t the cold.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p22 -->
+<p>The quarrel came at the water’s edge, as everyone had known it would.</p><break time="500ms"/>
+<!-- p23 -->
+<p>At the bottom of the slope, on a flat black stone that ran out into the tarn like a jetty, stood the urn. It was big and plain and grey, as tall as a child, and it held the ash of Haldor Varr and his pyre: eleven days and nights of burning, the whole great fire raked and sifted and carried up the mountain on a sledge. In front of it, facing the half-circle, stood the Clan’s priest, an old man in grey with a staff. Behind him, to the left, Arn and his men. To the right, Ulric and his. Teo stood a little apart from both, near the priest, bareheaded, with his hands clasped in front of him.</p><break time="500ms"/>
+<!-- p24 · the priest -->
+<p>The priest said the words, the plain ones first and then the old ones that only priests still had, which were meant to keep a dead chief down in the water where he belonged. Calder couldn’t hear most of them; the wind took them. He heard Haldor, and son of Rurik, and chief of the Varr, and he heard the gods named, all of them, the old ones who walk unbound, and he saw the whole half-circle bow their heads at that, and he bowed his. Then the priest stepped back and lifted his staff and said, loud enough to carry up the slope:</p><break time="500ms"/>
+<!-- p25 · the priest, loud enough to carry -->
+<p>“Who pours?”</p><break time="500ms"/>
+<!-- p26 -->
+<p>That was the custom. The eldest son poured. Everyone knew that. Arn Varr stepped forward and put his hands on the urn.</p><break time="500ms"/>
+<!-- p27 · Ulric, slow, deep, perfectly calm -->
+<p>And Ulric’s voice came across the stone, slow and deep and perfectly calm. <prosody volume="-5dB">“The champion pours.”</prosody></p><break time="500ms"/>
+<!-- p28 · tension -->
+<p><prosody rate="97%">There was a sound from the half-circle: not a word, more like a breath going out of hundreds of people at once.</prosody></p><break time="800ms"/>
+<!-- p29 · Arn -->
+<p>Arn didn’t take his hands off the urn. He turned his head. “The eldest son pours, Uncle. It’s been the eldest son since Varr himself.”</p><break time="500ms"/>
+<!-- p30 · tension: calm, unhurried · Ulric -->
+<p><prosody rate="97%">“It’s been the eldest son when the eldest son was a man the Clan would follow into a fight,” said Ulric. He hadn’t moved. He stood with his men behind him and his arms folded across his chest, enormous in his grey cloak, and he didn’t raise his voice at all. “When there’s doubt, the champion pours. That’s custom too. Ask the priest. Ask your grandmother’s bones. My grandfather poured for his brother because his brother’s son was nine years old and soft in the head, and nobody said a word.”</prosody></p><break time="800ms"/>
+<!-- p31 · Arn -->
+<p>“Are you calling me soft in the head?”</p><break time="500ms"/>
+<!-- p32 · tension · Ulric -->
+<p><prosody rate="97%">“I’m saying there’s doubt.” Ulric looked up at the half-circle. Then he looked up at the cliffs, at the hundreds of dragons sitting silent on the ledges, and back down. “Look around you, boy. Look how they’re standing. Look how they’re watching. That’s doubt. Your father kept it quiet for thirty-one years. Now he’s in that pot, and it’s not quiet anymore.”</prosody></p><break time="800ms"/>
+<!-- p33 -->
+<p>Arn let go of the urn.</p><break time="500ms"/>
+<!-- p34 · tension -->
+<p><prosody rate="97%">He did it slowly, and that was worse. Calder saw his face, from where he stood halfway up the slope: the face of a man who has been waiting for someone to say something, and now they have, and now there’s nothing left to wait for. His hand went to his hip. On both sides of the black stone, men moved, and there was a sound up the slope like a wave pulling back off shingle as people stepped away from the people next to them.</prosody></p><break time="800ms"/>
+<!-- p35 · dread -->
+<p><prosody rate="96%">On the cliffs, a dragon lifted its head and hissed, very softly. The sound went round the bowl and came back.</prosody></p><break time="800ms"/>
+<!-- p36 · tension -->
+<p><prosody rate="97%">And Teo walked between them.</prosody></p><break time="800ms"/>
+<!-- p37 -->
+<p>He didn’t hurry. He walked out onto the black stone as if he had all day, and stood beside the urn, between his brother and his uncle, bareheaded, and put one hand on the urn. Then he looked at his uncle, and held out his other hand, open.</p><break time="500ms"/>
+<!-- p38 · Teo -->
+<p>“Pour with him,” he said.</p><break time="500ms"/>
+<!-- p39 -->
+<p>Ulric didn’t move.</p><break time="500ms"/>
+<!-- p40 · tender: pleading, not loud · Teo, not loud; Teo -->
+<p><prosody rate="95%">“Pour with him,” Teo said again. Not loud. Calder had to strain to hear it. “You’re both right. It’s the son’s to pour and the champion’s to pour, and you’re both here, and you’re both his. So pour together. One hand each. Let the Clan see two hands on it.” He looked at Arn. “Brother. Please. He was our father. He was Uncle’s brother. Let them see us put him in the water together, and then you can go back to the hold and hate each other in private like decent people.”</prosody></p><break time="500ms"/>
+<!-- p41 · tension -->
+<p><prosody rate="97%">For a long moment nobody on the black stone moved at all.</prosody></p><break time="800ms"/>
+<!-- p42 -->
+<p>Then Ulric Varr unfolded his arms and stepped forward and put one huge hand on the urn, on one side, without looking at his nephew. And after a moment Arn put his hand on the other side, without looking at his uncle. And Teo took his own hand away and stepped back, and stood behind them, between them, with his head bowed.</p><break time="500ms"/>
+<!-- p43 -->
+<p>They tipped it together.</p><break time="500ms"/>
+<!-- p44 · awe -->
+<p><prosody rate="95%">The ash went into Coldtarn in a long grey pour like smoke going the wrong way. It didn’t sink at first. It lay on the black water in a great pale shape, spreading slowly outward from the stone. Then, in the middle, it began to go down, and the whole shape drew in toward that point and went down after it, turning slowly, until there was nothing on the water at all.</prosody></p><break time="800ms"/>
+<!-- p45 · grief: the dragons' lament -->
+<p><prosody rate="94%">On every ledge round the bowl, the dragons lifted their heads and opened their mouths, all together, and the sound they made was nothing Calder had ever heard or would ever be able to describe afterwards: lower than a roar, and longer. It went into the rock and came up through his feet and into his chest and stayed there, and he found that his face was wet, and so was everyone’s around him.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p46 · the priest -->
+<p>Afterwards, when the half-circle broke up and people began to go back down toward the hold in long grey lines, Calder found the priest and gave him the cloth from Harrow’s End, and the old man took it and unfolded it and looked at the threads and said, “This is good work. Who wove it?”</p><break time="500ms"/>
+<!-- p47 · Calder -->
+<p>“My mother. Ada Fenn. The village women all put in a thread.”</p><break time="500ms"/>
+<!-- p48 · the priest -->
+<p>“Tell her the Clan thanks her.” The priest folded it again. “And tell her the border’s crooked on the third side, but I won’t say a word about it.”</p><break time="500ms"/>
+<!-- p49 · humour -->
+<p>Calder laughed, surprised, and the old man smiled at him and went off with the cloth under his arm.</p><break time="500ms"/>
+<!-- p50 -->
+<p>He was standing near the bottom of the slope, out of the wind behind a boulder, trying to decide whether to go and find Teo or to go and find the Ewe Hollow cart and start home before dark, when he heard the voice.</p><break time="500ms"/>
+<!-- p51 -->
+<p>It was a high, aggrieved voice, and he’d heard voices like it at the Ram’s Head. A knot of men stood a little way off among the stones: three or four of Ulric’s, big men in grey, and with them a thin man who wasn’t Clan at all. Saltreach, by his clothes, all colours and none, with a silver ring in one ear, from the boats by the look of him. He was talking fast and waving his hands.</p><break time="500ms"/>
+<!-- p52 · anger: aggrieved boatman · the boatman -->
+<p>“…one girl. One. In a Greyhold coat, with a tin sword and a horse that looked like it’d died the year before. And she breaks the lock and lets it out. In front of the whole village. A Brackenwood duskcat, that cub, worth more than this whole mountain. Gannet had a buyer lined up in Wendmouth paying silver, and she lets it go into the trees like it was a sparrow.” He spat on the stones. “Knights. They won’t cross the river to save a burning farm, but they’ll stand on a jetty and rob an honest man of his living. And then she tells us to get back in our boats. Tells us. Like we were dogs.”</p><break time="500ms"/>
+<!-- p53 · one of Ulric's men -->
+<p>“So what d’you want us to do about it?” said one of Ulric’s men. He sounded bored. “She’s across the river.”</p><break time="500ms"/>
+<!-- p54 · the boatman -->
+<p>“Gannet says you people have long arms.”</p><break time="500ms"/>
+<!-- p55 · one of Ulric's men -->
+<p>“Gannet says a lot of things.”</p><break time="500ms"/>
+<!-- p56 · the boatman -->
+<p>“He says to tell your master there’s a knight-student at Greyhold who frees beasts. A tall one, dark, unbonded, late in her years for a student. Says your master’ll want to know. Says your master’s going to be wanting beasts himself, soon, and he’ll not want some knight’s girl letting them out of their cages.” The boatman looked round at the slope, at the grey cloaks going down toward the hold. “Says there’s others will want to know, too. Others with long arms. Says to tell them.”</p><break time="500ms"/>
+<!-- p57 · one of Ulric's men -->
+<p>“Tell who?”</p><break time="500ms"/>
+<!-- p58 -->
+<p>But the boatman had seen Calder behind his boulder, and stopped. He looked at him with flat, quick eyes. Calder looked at the stones, the way he’d looked at the stones his whole life, and after a moment the boatman decided he was nobody and turned his back.</p><break time="500ms"/>
+<!-- p59 -->
+<p>Calder walked away up the slope. He thought: a knight-student who frees beasts. A tall one, dark, unbonded, late in her years.</p><break time="500ms"/>
+<!-- p60 -->
+<p>He thought about the masked men at Upper Rush, who’d wanted the beasts and not the blood. About Joss’s greys going down to the river on a rope. About a girl he’d never met standing on a jetty somewhere on the far bank, breaking a lock, with six men in front of her.</p><break time="500ms"/>
+<!-- p61 · reflective · Calder (thought) -->
+<p><prosody rate="96%">He thought, <prosody rate="97%" volume="-4dB">good</prosody>, and was surprised at how much he meant it.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p62 -->
+<p>He found Sigrun Holm at the top of the slope, sitting on a flat rock under the rim with her cloak round her and her back to the wind, watching the tarn. Behind her, crouched on the rim itself like a bronze hill, was Aurveth, with her great head lowered over the bowl and her gold eyes on the black water, unmoving.</p><break time="500ms"/>
+<!-- p63 · Sigrun -->
+<p>“Farmer,” said Sigrun, without looking round. “You brought the cloth.”</p><break time="500ms"/>
+<!-- p64 · Calder -->
+<p>“My mother made it.”</p><break time="500ms"/>
+<!-- p65 · Sigrun -->
+<p>“I know. Everyone’s seen it. Crooked on the third side.” The old warrior almost smiled. “Sit down. You look like you’ve seen your own ghost.”</p><break time="500ms"/>
+<!-- p66 -->
+<p>He sat. The rock was cold through his trousers. Down below, the last of the half-circle was going down the path, and the tarn lay black and still, with the cliffs standing upside down in it again as if nothing had happened.</p><break time="500ms"/>
+<!-- p67 · Calder -->
+<p>“Teo,” he said, after a while.</p><break time="500ms"/>
+<!-- p68 · reflective · Sigrun -->
+<p><prosody rate="96%">“Teo.” Sigrun nodded slowly. “He walked onto that stone like it was his kitchen. I’ve seen men walk into a shield-wall with more fear in their faces.” She looked down at the black stone, empty now, where the urn had been. “He bought them a month. Maybe two. That’s all. They poured together, and now they’ll go back to the hold and sit at their two tables, and every day of the next month they’ll each be thinking how the other one’s hand felt on the urn.”</prosody></p><break time="500ms"/>
+<!-- p69 · Calder -->
+<p>“You don’t think they’ll come round.”</p><break time="500ms"/>
+<!-- p70 · Sigrun -->
+<p>“I think Ulric’s been waiting thirty years and Arn’s been waiting since he could walk, and I think waiting men don’t come round. They go off.” She pulled her cloak tighter. “I’ve ridden for this Clan near sixty years. I’ve buried two chiefs. I’ve never seen the dragons sit on the rim like that. Not for Rurik. Not for anyone.”</p><break time="500ms"/>
+<!-- p71 -->
+<p>Calder looked up at Aurveth. The great dragon hadn’t moved. Her eyes were still on the water.</p><break time="500ms"/>
+<!-- p72 · Calder -->
+<p>“Is she all right?”</p><break time="500ms"/>
+<!-- p73 · reflective · Sigrun -->
+<p><prosody rate="96%">“She’s remembering.” Sigrun reached back without looking and laid her hand on the bronze foreleg behind her, the way Calder had seen her do on the ledge at the Roosts. “She’s done this before. More times than I have. More times than anyone.” She was quiet a moment. “Did you know she’s had three of us? Three partners. I’m the third.”</prosody></p><break time="500ms"/>
+<!-- p74 · Calder -->
+<p>“Teo said she was old.”</p><break time="500ms"/>
+<!-- p75 · Sigrun -->
+<p>“Teo doesn’t know the half of it. Nobody does. I’m not sure <emphasis level="moderate">she</emphasis> does, all of it.” Sigrun looked out over the tarn. “Her second was my great-uncle. Ragnald Holm. A big, kind, slow man; I remember him a little, from when I was a girl. He was killed in a rockfall in the Scarfell, sixty years ago. Sixty-one. And everyone in the hold waited for her to go after him. That’s what happens. You know that. The beast goes after the rider, the rider goes after the beast. One life between two. It’s the oldest law there is. They wait a few days, and then they burn them both on the same pyre.”</p><break time="500ms"/>
+<!-- p76 · Calder -->
+<p>“But she didn’t.”</p><break time="500ms"/>
+<!-- p77 · awe: quiet wonder · Sigrun -->
+<p><prosody rate="95%">“She didn’t. She came up here, to this rock, and she lay down on the shore with her head in the water, and she stayed there. A full year. Through a whole winter. She didn’t eat that anyone saw. People came up to look at her and went away again, and the priests said prayers over her, and everyone waited. And she didn’t wither, and she didn’t die. And in the spring she got up and went back to the Roosts and lay in her cave for another year, and then I came of age, and she chose me.” Sigrun was quiet. “Nobody knew how. Nobody knows now. It doesn’t happen. A beast that loses its rider dies. It’s not a rule anyone made, it’s just what is. And she didn’t.”</prosody></p><break time="800ms"/>
+<!-- p78 -->
+<p>The wind came over the rim and went across the black water without leaving a mark on it.</p><break time="500ms"/>
+<!-- p79 · Calder -->
+<p>“And her first?” said Calder.</p><break time="500ms"/>
+<!-- p80 -->
+<p>Sigrun shook her head.</p><break time="500ms"/>
+<!-- p81 · reflective · Sigrun -->
+<p><prosody rate="96%">“Nobody knows. Before Ragnald, she was in the Roosts for longer than anyone could remember, alone, unbonded, old already. The oldest stories in the hold have her in them, sitting on the cliff, just like that. Before that…” She shrugged. “I’ve asked her. Through the bond, you can ask anything. She doesn’t answer. She doesn’t refuse. She just goes quiet, like a well, and you feel how deep it goes, and you stop asking.” Sigrun looked up at the great bronze head above her. “Sometimes I think she’s been waiting for something. For a long time. Longer than all of us. And she doesn’t know what it is either.”</prosody></p><break time="500ms"/>
+<!-- p82 -->
+<p>Aurveth’s eye moved.</p><break time="500ms"/>
+<!-- p83 · awe -->
+<p><prosody rate="95%">It was a small thing. The great gold eye, the size of a cartwheel hub, that had been fixed on the tarn the whole time, turned in its socket and came round and down, slowly, and rested on Calder.</prosody></p><break time="800ms"/>
+<!-- p84 · awe -->
+<p><prosody rate="95%">It stayed there. He didn’t move. He couldn’t have moved if the mountain had fallen. He sat on the cold rock beside Sigrun Holm and the oldest living thing in the Scarfell looked at him for a long, long moment, as you look at a word in a language you used to know, trying to remember what it means.</prosody></p><break time="800ms"/>
+<!-- p85 -->
+<p>Then the eye went back to the water.</p><break time="500ms"/>
+<!-- p86 -->
+<p>Sigrun had seen it. He knew she had. She was quiet for a while.</p><break time="500ms"/>
+<!-- p87 · humour: lightly · Sigrun, quite lightly -->
+<p>“Well,” she said at last, quite lightly. “She’s never done that to a farmer before.”</p><break time="500ms"/>
+<!-- p88 · Calder -->
+<p>“What does it mean?”</p><break time="500ms"/>
+<!-- p89 · Sigrun -->
+<p>“Gods know.” Sigrun got up, stiffly, and pulled her cloak round her, and looked down at him with an expression he couldn’t read. “She doesn’t tell me everything, Fenn. She never has. Go home. The Ewe Hollow cart’s leaving and you’ll freeze up here.” She turned to go, and then stopped. “And Fenn. When Teo gets them to the ford, and he will, he’ll want people there who aren’t Ulric’s and aren’t Arn’s. Ordinary people. Witnesses. He’ll ask you. Don’t say no.”</p><break time="500ms"/>
+<!-- p90 · Calder -->
+<p>“Why me?”</p><break time="500ms"/>
+<!-- p91 · Sigrun -->
+<p>“Because you’ll stand there and not say anything,” said Sigrun Holm, “and everyone will believe whatever you saw.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p92 -->
+<p>He rode home on the wool bales, two days of it, and on the first night the cart stopped at the Ram’s Head and he lay awake in the loft above the stable with Tuft and Fell snoring on either side of him, and thought about the black water, and a long line of dead chiefs falling slowly through it side by side forever.</p><break time="500ms"/>
+<!-- p93 -->
+<p>He thought about two hands on an urn, and a young man standing behind them with his head bowed.</p><break time="500ms"/>
+<!-- p94 -->
+<p>He thought about a great gold eye coming round, slowly, and resting on him, as if it were trying to remember something.</p><break time="500ms"/>
+<!-- p95 · dread -->
+<p><prosody rate="96%">He didn’t sleep until nearly dawn. When he did, he dreamed he was standing on the black stone at the edge of Coldtarn, and the water was rising, and three enormous shapes were coming up through it from very far below.</prosody></p>
+<break time="1800ms"/>
+</speak>

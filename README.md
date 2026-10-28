@@ -17,15 +17,16 @@ The home of the Winshire books: the series bible and the manuscripts. Keep estab
 - **[Book 1/Chapters/](Book%201/Chapters/):** the manuscript, one Markdown file per chapter. Each file starts with its planning notes; the prose goes below the line.
 - **[Book 1/Notes/](Book%201/Notes/):** working notes, drafts of scenes, and research (including the voice samples). The Decisions logs are a historical record, merged into the Bible.
 - **[Book 1/Notes/Rulings_41-79.md](Book%201/Notes/Rulings_41-79.md):** rulings from the Chapters 41–79 review and the October 2026 revision.
+- **[Book 1/audiobook/](Book%201/audiobook/):** the audiobook production files for Book 1: scripts for any narrator or voice engine, the cast, pronunciations, and an ElevenLabs kit. Generated from the manuscript by `Tools/audiobook/`; see its README.
 - **[Book 1/Art/](Book%201/Art/):** chapter-opener art (79 pieces) and the maps: bare front-matter maps, the 79 chapter-end map pages, full maps, and the interactive atlas page.
 - **[Book 2/Chapter_Plan.md](Book%202/Chapter_Plan.md):** the Book 2 chapter plan (revision 5; 88 chapters, all in first draft, audited and fixed Oct 2026; three POVs: Maren, Calder, Idony; review questions settled as drafted).
 - **[Book 3/Chapter_Plan.md](Book%203/Chapter_Plan.md):** the Book 3 chapter plan (revision 3; 86 chapters, all in first draft, audited and fixed Oct 2026; seven POVs; review questions settled as drafted; ch. 86's last line is the author's).
 - **Book 2/Chapters/, Book 3/Chapters/** and **Book 2/Notes/, Book 3/Notes/:** the manuscripts, one file per chapter as in Book 1, and each part's running ledger of facts (`Part1–7_Ledger.md`).
 - **[Tales/Plan.md](Tales/Plan.md):** Winshire Tales, short works from points of view the main books can't give (beasts, the dead, the years before), in five slots: before Book 1, within each book, and the handovers between them. Its open questions are settled (Oct 2026); the tale outlines are proposals until drafted.
-- **[Tools/](Tools/):** the scripts that generate the maps and `Bible/Atlas.md` (`Tools/atlas/build.py`) and the chapter-opener art (`Tools/art/`). Edit their data files and rebuild rather than editing the outputs by hand. Book 1's maps were rebuilt in October 2026; Books 2–3 don't have their art or chapter-end maps yet. The chapter plans are maintained by hand.
+- **[Tools/](Tools/):** the scripts that generate the maps and `Bible/Atlas.md` (`Tools/atlas/build.py`), the chapter-opener art (`Tools/art/`) and the audiobook scripts (`Tools/audiobook/`). Edit their data files and rebuild rather than editing the outputs by hand. Book 1's maps were rebuilt in October 2026; Books 2–3 don't have their art or chapter-end maps yet. The chapter plans are maintained by hand.
 - **[Tools/README.md](Tools/README.md):** what each tool builds and how to run it.
 - **[Style_Guide.md](Style_Guide.md):** voice, point of view, and conventions for the prose.
-- **[Publishing.md](Publishing.md):** the self-publishing plan: ebooks only, on Amazon KDP, one complete edition, never split.
+- **[Publishing.md](Publishing.md):** the self-publishing plan: ebooks on Amazon KDP, one complete edition, never split; the Book 1 audiobook is in preparation.
 
 The game project (`~/Documents/Unreal Projects/WinShire`) keeps only game design documents and follows the canon here.
 

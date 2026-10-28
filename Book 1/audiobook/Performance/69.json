@@ -1,0 +1,1843 @@
+{
+ "chapter": 69,
+ "title": "The Gate",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Sixty-nine.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Gate.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "She saw both at once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "It was the hundred-and-forty-second day, and the sun wasn’t up. She was on the edge of Hollin Knowe in the grey with her back against the lion’s shoulder, the way she’d sat all night, and the river was a long pale line two leagues off under a pale sky, and she saw them both in the same breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "Upriver: the island. The boats coming off its west shore.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Dozens. All at once. Out of the reeds where the ladders had been, into the west channel, dark specks on the grey water, crossing toward Redwatch. Toward the long line of the knights’ fires on the bank, gone to embers now. A sound came off the river a moment later, faint, two leagues off, that she knew from Ferriby and from the Redwatch landing at dawn when Bracken died. Shouting. Horns. A lot of horns.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "Downriver: smoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "Over Millbrook. Black, thick, going up from the water-meadows below the town and leaning north on the wind.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "The lion stood up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "It went to the edge of the knowe and stood there facing the island, with its mane up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "She stood up beside it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "She looked at the island. At the boats crossing. At Redwatch, where the bank was coming alive with noise. She looked downriver, at the smoke over the water-meadows, where the camp was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "thought",
+   "text": "Wren,",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 14,
+   "para": "p11",
+   "type": "narration",
+   "text": "she thought."
+  },
+  {
+   "seq": 15,
+   "para": "p11",
+   "type": "thought",
+   "text": "Liss.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p12",
+   "type": "narration",
+   "text": "She put her hand on the lion’s shoulder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p13",
+   "type": "speech",
+   "text": "“I have to go,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 18,
+   "para": "p13",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p14",
+   "type": "narration",
+   "text": "It didn’t look at her. It was looking at the island.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p15",
+   "type": "speech",
+   "text": "“I have to,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 21,
+   "para": "p15",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 22,
+   "para": "p15",
+   "type": "speech",
+   "text": "“There. Not there.”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 23,
+   "para": "p15",
+   "type": "narration",
+   "text": "She pointed. South. Downriver. The smoke. It didn’t look where she pointed. It couldn’t understand."
+  },
+  {
+   "seq": 24,
+   "para": "p15",
+   "type": "speech",
+   "text": "“You can come. You don’t have to.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p16",
+   "type": "narration",
+   "text": "She took her hand off its shoulder and went down the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p17",
+   "type": "narration",
+   "text": "A dozen strides. She looked back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p18",
+   "type": "narration",
+   "text": "It was standing on the edge of the knowe, against the sky, where it had stood all night. Facing the island. It hadn’t moved.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p19",
+   "type": "narration",
+   "text": "She stood in the heather and looked at it. It was the first time. All winter. Off the island, across the fields, up the knowe. It had always come.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p20",
+   "type": "narration",
+   "text": "It didn’t come.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 30,
+   "para": "p21",
+   "type": "narration",
+   "text": "She turned round and went on down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 31,
+   "para": "p22",
+   "type": "narration",
+   "text": "There was a farm at the foot of the knowe. Hollin Farm. A long low house and a paddock with three cobs in it, shaggy, half wild with the noise from the river, galloping round and round the paddock with their tails up. Nobody in the house. The door open. The family gone, in the night, somewhere.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p23",
+   "type": "narration",
+   "text": "She caught a cob. It took a while. In the end it came to her because it was more frightened of everything else than of her, and she got a halter on it from the hook by the paddock gate and a rope through the halter for reins, and got on its bare back, and rode.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p24",
+   "type": "narration",
+   "text": "South. Across the fields. Toward the River Road. Toward the smoke.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 34,
+   "para": "p25",
+   "type": "narration",
+   "text": "The River Road was full of people running.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p26",
+   "type": "narration",
+   "text": "North. Toward Greyhold. She saw them before she reached it: a long dark stream of people on the road, on the bank above the river, going north as fast as they could. Running. Walking. Carrying things. Children carried. Carts. A cow on a rope. And smoke behind them, over the meadows below Millbrook, black.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p27",
+   "type": "narration",
+   "text": "She rode into them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p28",
+   "type": "speech",
+   "text": "“What happened?”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 38,
+   "para": "p28",
+   "type": "narration",
+   "text": "She caught at a man’s arm from the cob’s back."
+  },
+  {
+   "seq": 39,
+   "para": "p28",
+   "type": "speech",
+   "text": "“What happened?”",
+   "speaker": "Maren",
+   "how": "shouted",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p29",
+   "type": "narration",
+   "text": "He looked up at her. A Saltreach face. Brown, lined, a farmer’s. One of the families Liss had carried over.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p30",
+   "type": "speech",
+   "text": "“The camp,”",
+   "speaker": "a refugee",
+   "how": "shaking",
+   "mood": "anger"
+  },
+  {
+   "seq": 42,
+   "para": "p30",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "anger"
+  },
+  {
+   "seq": 43,
+   "para": "p30",
+   "type": "speech",
+   "text": "“They burned the camp. At the meadows. At first light.”",
+   "speaker": "a refugee",
+   "how": "shaking",
+   "mood": "anger"
+  },
+  {
+   "seq": 44,
+   "para": "p30",
+   "type": "narration",
+   "text": "He was shaking.",
+   "mood": "anger"
+  },
+  {
+   "seq": 45,
+   "para": "p30",
+   "type": "speech",
+   "text": "“The ones from the town. With the rings. They came down the back channel in boats and burned it. Our tents. Our things. They said we were the crown’s. They said we’d come over to the crown.”",
+   "speaker": "a refugee",
+   "how": "shaking",
+   "mood": "anger"
+  },
+  {
+   "seq": 46,
+   "para": "p30",
+   "type": "narration",
+   "text": "He pulled his arm away.",
+   "mood": "anger"
+  },
+  {
+   "seq": 47,
+   "para": "p30",
+   "type": "speech",
+   "text": "“They said there’d be no fires. They said no Millbrook house. We weren’t a Millbrook house. We were tents.”",
+   "speaker": "a refugee",
+   "how": "shaking",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p31",
+   "type": "narration",
+   "text": "He ran on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p32",
+   "type": "narration",
+   "text": "She sat on the cob in the middle of the road with people pouring past her on both sides.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p33",
+   "type": "remembered",
+   "text": "No Millbrook house’ll burn. Not one. He said so.",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p34",
+   "type": "narration",
+   "text": "She kicked the cob on. North. With them. Toward Greyhold.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 52,
+   "para": "p35",
+   "type": "narration",
+   "text": "The river gate was shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p36",
+   "type": "narration",
+   "text": "She came round the last bend of the River Road below Greyhold’s hill and saw it, and saw the crowd in front of it. Hundreds. All the people off the road, and more, piled up against the shut gate in the wall above the landing, beating on it. Shouting. Children crying. Somebody had a cart jammed sideways in the road. Somebody’s cow had got loose and was standing in the middle of it all, lowing.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p37",
+   "type": "narration",
+   "text": "And behind them, down the road, coming up from Millbrook: men.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p38",
+   "type": "narration",
+   "text": "In twos and threes at first. Then more. With rings on their fingers and on strings round their necks. With staves and billhooks and pitchforks and a few with swords. Millbrook men. And among them, harder, in companies, men off boats: in grey, with the six on their coats, with spears. A flag over one company, a yellow tower on blue. Coming up the road after the refugees. Walking. Spreading out across the road and the bank as they came.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p39",
+   "type": "narration",
+   "text": "At the front of them, low, quick, brindled, in collars, silent: hounds.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 57,
+   "para": "p40",
+   "type": "narration",
+   "text": "On the wall above the gate, a handful of figures. She looked for faces. She couldn’t see.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p41",
+   "type": "narration",
+   "text": "Then one of them leaned out over the parapet above the gate. Long-boned. Grey. One hand on the stone with two fingers missing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p42",
+   "type": "narration",
+   "text": "Pell.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 60,
+   "para": "p43",
+   "type": "narration",
+   "text": "He looked down at the crowd at the gate. At the road. At the men coming up it. At the hounds.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p44",
+   "type": "narration",
+   "text": "She saw him decide. She saw it from the road, from the cob’s back, a long bowshot off: the long grey face going very still, the way it went at the straw men in the yard just before he moved.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 62,
+   "para": "p45",
+   "type": "narration",
+   "text": "He turned and said something to the people on the wall. Then he was gone from the parapet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p46",
+   "type": "narration",
+   "text": "The gate opened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p47",
+   "type": "narration",
+   "text": "Wide enough. The great oak leaf on the left swinging inward a cart’s width, and the crowd at it surging, and Pell in the gap. In his old leather coat, with a sword. And behind him, coming out through the gap round him, eleven others. She counted. Students, most of them. Second-years. Two of the old knights of the gate, too old to have ridden to Redwatch, white-haired, in mail. And the cook’s boy with a cleaver.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p48",
+   "type": "speech",
+   "text": "“In!”",
+   "speaker": "Pell",
+   "how": "shouting"
+  },
+  {
+   "seq": 66,
+   "para": "p48",
+   "type": "narration",
+   "text": "Pell was shouting."
+  },
+  {
+   "seq": 67,
+   "para": "p48",
+   "type": "speech",
+   "text": "“In, in, in! Children first! Go on! In!”",
+   "speaker": "Pell",
+   "how": "shouting",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p49",
+   "type": "narration",
+   "text": "The crowd poured through the gap past him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p50",
+   "type": "narration",
+   "text": "He went out through them. Past them. Down the road toward the men coming up it. The eleven went with him. They stood across the road below the gate, a thin line, twelve of them, between the crowd going in through the gap behind them and the men with rings and the hounds coming up the road in front.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p51",
+   "type": "narration",
+   "text": "Maren put the cob at the crowd.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 71,
+   "para": "p52",
+   "type": "narration",
+   "text": "It came in pieces.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p53",
+   "type": "narration",
+   "text": "The cob going down in the crush and her rolling off it into the road among feet. Getting up. A knight lying in the ditch at the side of the road, one of the river watch from Redwatch who must have ridden down with a message and been caught, with his sword beside him in the mud. Picking it up. A real one, heavier than Tobin’s. She held it in both hands.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p54",
+   "type": "narration",
+   "text": "People. Pushing them. Pulling them. Up the road toward the gate. A woman with a baby who’d fallen. An old man with no shoes.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 74,
+   "para": "p54",
+   "type": "thought",
+   "text": "Go on. The gate. Go on.",
+   "speaker": "Maren",
+   "mood": "urgent"
+  },
+  {
+   "seq": 75,
+   "para": "p54",
+   "type": "narration",
+   "text": "Two children with nobody, holding hands, crying, and she picked up the smaller one and put her on her hip and pushed the other in front of her toward the gap.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p55",
+   "type": "narration",
+   "text": "A thin boy with spots and a badly mended scar over his eye, carrying a bundle for an old woman, who looked at her over it and knew her. Davin."
+  },
+  {
+   "seq": 77,
+   "para": "p55",
+   "type": "speech",
+   "text": "“They let me go!”",
+   "speaker": "Davin",
+   "how": "shouted"
+  },
+  {
+   "seq": 78,
+   "para": "p55",
+   "type": "narration",
+   "text": "he shouted, over all of it, as if she’d asked."
+  },
+  {
+   "seq": 79,
+   "para": "p55",
+   "type": "speech",
+   "text": "“In Hallowmere! They looked for six weeks and couldn’t find a law for it!”",
+   "speaker": "Davin",
+   "how": "shouted"
+  },
+  {
+   "seq": 80,
+   "para": "p55",
+   "type": "narration",
+   "text": "Then the crush had him and he went in through the gap with the old woman’s bundle on his head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p56",
+   "type": "narration",
+   "text": "The noise from down the road, where the twelve were. Iron. Shouting. A dog that screamed and then stopped, and she knew it wasn’t one of the hounds, because the hounds didn’t scream.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p57",
+   "type": "narration",
+   "text": "A thump she felt through her boots, like a cellar door slammed shut under the road. Down the road, between the heads, the line of twelve buckled in the middle. Three of them went over backward as if a cart had gone through them. Behind the men with rings, under the yellow tower, a woman in a plain grey coat was standing in the road with her feet planted and her hands out in front of her, palms first.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p58",
+   "type": "narration",
+   "text": "A drawer. Maren had never seen one. Pell had talked about them once, on the bench, the siege-drawers the crown used to license, who could knock a man flat at five paces and afterwards couldn’t lift a cup.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p59",
+   "type": "narration",
+   "text": "The woman did it again. The thump. Two more of the twelve went down. Then she sat down in the road. Two men under the yellow tower picked her up under the arms and carried her back through the crowd with her heels dragging, and the hair at the front of her head, where her hood had come off, had gone white.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 85,
+   "para": "p60",
+   "type": "narration",
+   "text": "Down the road, through a gap in the crush, one of the old knights of the gate with his hand out flat at a hound. Saying something. The stand-word. Maren had heard the old knights say it to frightened horses in the yard all her life, and heard it fail all winter. The hound went down in the road as if it had been poleaxed. All four legs at once. The old man stared at his hand.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 86,
+   "para": "p61",
+   "type": "narration",
+   "text": "In the crush, a voice she knew.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p62",
+   "type": "speech",
+   "text": "“Maren!”",
+   "speaker": "Liss",
+   "how": "shouted",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p63",
+   "type": "narration",
+   "text": "She turned round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p64",
+   "type": "narration",
+   "text": "Liss. In her man’s coat with the sleeves turned back, with her grey hair come down out of her scarf, pushing through the crowd toward her. And behind Liss, holding on to Liss’s coat, an old woman in a good shawl with a stick. And holding on to the old woman, two small children, a boy and a girl.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p65",
+   "type": "narration",
+   "text": "And holding on to nobody, on her own, right behind Liss, a thin girl with a great deal of hair.",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 91,
+   "para": "p66",
+   "type": "speech",
+   "text": "“I brought them up from the ferry house,”",
+   "speaker": "Liss",
+   "how": "gasping"
+  },
+  {
+   "seq": 92,
+   "para": "p66",
+   "type": "narration",
+   "text": "said Liss. She was gasping."
+  },
+  {
+   "seq": 93,
+   "para": "p66",
+   "type": "speech",
+   "text": "“The camp was burning. I saw it from the jetty. I went down in the boat and got who I could. Bel’s two.”",
+   "speaker": "Liss",
+   "how": "gasping"
+  },
+  {
+   "seq": 94,
+   "para": "p66",
+   "type": "narration",
+   "text": "She had Maren’s arm in a grip like iron."
+  },
+  {
+   "seq": 95,
+   "para": "p66",
+   "type": "speech",
+   "text": "“Their mother’s behind. With the beasts. She won’t leave the beasts, the daft woman.”",
+   "speaker": "Liss",
+   "how": "gasping",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p67",
+   "type": "narration",
+   "text": "Maren looked at the girl.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p68",
+   "type": "narration",
+   "text": "The girl was looking up at her. Thin. Nine or ten. A lot of hair, dark, everywhere.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p69",
+   "type": "speech",
+   "text": "“You’re her,”",
+   "speaker": "Wren",
+   "mood": "tender"
+  },
+  {
+   "seq": 99,
+   "para": "p69",
+   "type": "narration",
+   "text": "said the girl.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p70",
+   "type": "narration",
+   "text": "Maren couldn’t speak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p71",
+   "type": "speech",
+   "text": "“You’re the lion-woman,”",
+   "speaker": "Wren",
+   "mood": "humour"
+  },
+  {
+   "seq": 102,
+   "para": "p71",
+   "type": "narration",
+   "text": "said Wren.",
+   "mood": "humour"
+  },
+  {
+   "seq": 103,
+   "para": "p71",
+   "type": "speech",
+   "text": "“Papa said you’d have your hair tied back like that. Lisska told him.”",
+   "speaker": "Wren",
+   "mood": "humour"
+  },
+  {
+   "seq": 104,
+   "para": "p71",
+   "type": "narration",
+   "text": "She looked at the sword in Maren’s hands.",
+   "mood": "humour"
+  },
+  {
+   "seq": 105,
+   "para": "p71",
+   "type": "speech",
+   "text": "“Where’s the lion?”",
+   "speaker": "Wren",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p72",
+   "type": "speech",
+   "text": "“On the knowe,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 107,
+   "para": "p72",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 108,
+   "para": "p72",
+   "type": "speech",
+   "text": "“It wouldn’t come.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p73",
+   "type": "narration",
+   "text": "Wren nodded, as if that made sense. Then she took hold of Maren’s arm, the one without the sword, with both her hands, and held on, the way she’d been holding on to Liss’s coat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p74",
+   "type": "speech",
+   "text": "“Fisk’s boy came over in the night,”",
+   "speaker": "Wren",
+   "how": "loud and clear",
+   "mood": "tension"
+  },
+  {
+   "seq": 111,
+   "para": "p74",
+   "type": "narration",
+   "text": "she said. She said it over the noise, quite loud, quite clear.",
+   "mood": "tension"
+  },
+  {
+   "seq": 112,
+   "para": "p74",
+   "type": "speech",
+   "text": "“From the Eelweir. In his eel-boat. To the ferry house. He told Mistress Ashdown.”",
+   "speaker": "Wren",
+   "how": "loud and clear",
+   "mood": "tension"
+  },
+  {
+   "seq": 113,
+   "para": "p74",
+   "type": "narration",
+   "text": "She looked up at Maren.",
+   "mood": "tension"
+  },
+  {
+   "seq": 114,
+   "para": "p74",
+   "type": "speech",
+   "text": "“Papa’s gone to the Old Ruin. On his own. He left the dragons in the north so they wouldn’t be seen. He’s on the island with all of them.”",
+   "speaker": "Wren",
+   "how": "loud and clear",
+   "mood": "tension"
+  },
+  {
+   "seq": 115,
+   "para": "p74",
+   "type": "narration",
+   "text": "Her face didn’t change.",
+   "mood": "tension"
+  },
+  {
+   "seq": 116,
+   "para": "p74",
+   "type": "speech",
+   "text": "“Fisk took him over in the dark.”",
+   "speaker": "Wren",
+   "how": "loud and clear",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 117,
+   "para": "p75",
+   "type": "narration",
+   "text": "Maren stood in the road with the sword in one hand and the girl holding on to the other.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p76",
+   "type": "thought",
+   "text": "The farmer. On the island. With all of them.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p77",
+   "type": "speech",
+   "text": "“Did you say hello?”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 120,
+   "para": "p77",
+   "type": "narration",
+   "text": "said Wren."
+  },
+  {
+   "seq": 121,
+   "para": "p77",
+   "type": "speech",
+   "text": "“To the lion? From me?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p78",
+   "type": "speech",
+   "text": "“Yes,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 123,
+   "para": "p78",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 124,
+   "para": "p79",
+   "type": "narration",
+   "text": "They got them to the gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p80",
+   "type": "narration",
+   "text": "Liss pushing. Maren pulling. The old woman, Ada, with her stick, not hurrying, not falling, coming steadily through the crush like a barge through reeds. The two little ones. Wren still holding on to Maren’s arm. Up the road. Through the gap in the gate, where the crowd was thinning now. Into the dark of the gateway.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p81",
+   "type": "narration",
+   "text": "Wren let go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p82",
+   "type": "narration",
+   "text": "Maren stood in the gateway and pushed her through it, after Ada, into the yard. Into Greyhold. The girl turned round on the cobbles inside and looked back at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p83",
+   "type": "speech",
+   "text": "“Come on,”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 129,
+   "para": "p83",
+   "type": "narration",
+   "text": "said Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p84",
+   "type": "narration",
+   "text": "Maren stood in the gateway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p85",
+   "type": "remembered",
+   "text": "You’ll not come back here.",
+   "speaker": "Ottery"
+  },
+  {
+   "seq": 132,
+   "para": "p85",
+   "type": "narration",
+   "text": "Ottery."
+  },
+  {
+   "seq": 133,
+   "para": "p85",
+   "type": "remembered",
+   "text": "She has no place in it, and no claim on it, and no part in the orders, now or after.",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 134,
+   "para": "p85",
+   "type": "narration",
+   "text": "Rowan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p86",
+   "type": "speech",
+   "text": "“Go on,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 136,
+   "para": "p86",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 137,
+   "para": "p86",
+   "type": "speech",
+   "text": "“I’ll come.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p87",
+   "type": "narration",
+   "text": "She turned round and went back out of the gate.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 139,
+   "para": "p88",
+   "type": "narration",
+   "text": "Bel was on the road with the greys.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p89",
+   "type": "narration",
+   "text": "She’d come up from the camp behind everybody else with all three of them on ropes. Mabbin and Sorrel, wild, rearing at the smoke and the noise and the people, and Old Grey between them with his head low, walking through all of it as if it were a road. Bel was at Mabbin’s head, hanging on to her halter with both hands and being lifted off her feet every time the mare went up.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p90",
+   "type": "narration",
+   "text": "Maren got to Sorrel’s halter.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p91",
+   "type": "speech",
+   "text": "“Who are you?”",
+   "speaker": "Bel",
+   "how": "shouted"
+  },
+  {
+   "seq": 143,
+   "para": "p91",
+   "type": "narration",
+   "text": "Bel shouted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p92",
+   "type": "speech",
+   "text": "“Maren Ashdown.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p93",
+   "type": "narration",
+   "text": "Bel stared at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p94",
+   "type": "speech",
+   "text": "“Get them in,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 147,
+   "para": "p94",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 148,
+   "para": "p94",
+   "type": "speech",
+   "text": "“The gate’s wide enough. Go on.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p95",
+   "type": "narration",
+   "text": "They got them in, somehow. Mabbin went through the gate on her hind legs, screaming. Sorrel went after her mother. Old Grey went last, with Bel at his head now, walking through the gateway into Greyhold’s yard as if it were his own paddock, head low, steady, while the crowd scattered round his feet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p96",
+   "type": "narration",
+   "text": "At the far side of the gateway, inside, he stopped. He turned his head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p97",
+   "type": "narration",
+   "text": "Toward the yard. Toward a thin girl with a great deal of hair, standing on the cobbles by the Long Barn with her arms out, saying his name.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p98",
+   "type": "narration",
+   "text": "Bel had stopped too. The rope hung slack between her hand and his halter. Nobody was pulling it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p99",
+   "type": "narration",
+   "text": "Old Grey took a step.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p100",
+   "type": "narration",
+   "text": "One. Toward the voice. His great forefoot coming up off the cobbles and going down again a stride nearer the Long Barn, with nobody at his head and nobody’s arm up behind him, and then he stood there as he’d stood before, his eyes empty, his head low.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 155,
+   "para": "p101",
+   "type": "narration",
+   "text": "Bel looked at the rope in her hand as if somebody had put it there.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 156,
+   "para": "p102",
+   "type": "narration",
+   "text": "Pell was in the gateway when she turned round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p103",
+   "type": "narration",
+   "text": "He’d come back. Up the road from where the twelve had stood. There weren’t twelve now. She counted five. Two students, bloodied, holding each other up. One of the old knights of the gate, with his helm gone and his white hair red. The cook’s boy, without his cleaver. And Pell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p104",
+   "type": "narration",
+   "text": "He had blood all down the left side of his coat. He was walking very straight.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 159,
+   "para": "p105",
+   "type": "narration",
+   "text": "He saw her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p106",
+   "type": "narration",
+   "text": "He stopped in the gateway and looked at her, and at the sword in her hands. The river watch sword from the ditch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p107",
+   "type": "speech",
+   "text": "“Ashdown,”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 162,
+   "para": "p107",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p108",
+   "type": "speech",
+   "text": "“Sir.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p109",
+   "type": "narration",
+   "text": "He looked at the sword a moment longer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p110",
+   "type": "speech",
+   "text": "“Subdue,”",
+   "speaker": "Pell",
+   "mood": "tender"
+  },
+  {
+   "seq": 166,
+   "para": "p110",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "tender"
+  },
+  {
+   "seq": 167,
+   "para": "p110",
+   "type": "speech",
+   "text": "“Don’t kill.”",
+   "speaker": "Pell",
+   "mood": "tender"
+  },
+  {
+   "seq": 168,
+   "para": "p110",
+   "type": "narration",
+   "text": "Then, very quietly:",
+   "mood": "tender"
+  },
+  {
+   "seq": 169,
+   "para": "p110",
+   "type": "speech",
+   "text": "“Unless you have to. I never told you that part. I should have.”",
+   "speaker": "Pell",
+   "how": "very quietly",
+   "mood": "tender"
+  },
+  {
+   "seq": 170,
+   "para": "p110",
+   "type": "narration",
+   "text": "He looked past her into the yard. At the refugees. At the greys. At the girl by the Long Barn with her arms round the grey’s foreleg.",
+   "mood": "tender"
+  },
+  {
+   "seq": 171,
+   "para": "p110",
+   "type": "speech",
+   "text": "“You’ll not be let in. You know that.”",
+   "speaker": "Pell",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p111",
+   "type": "speech",
+   "text": "“I know.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p112",
+   "type": "speech",
+   "text": "“Rowan’s orders. My orders. Nobody can unsay them but her.”",
+   "speaker": "Pell",
+   "mood": "tender"
+  },
+  {
+   "seq": 174,
+   "para": "p112",
+   "type": "narration",
+   "text": "He swayed a little and caught himself on the gatepost.",
+   "mood": "tender"
+  },
+  {
+   "seq": 175,
+   "para": "p112",
+   "type": "speech",
+   "text": "“I’d let you in. I want you to know that. I’d let you in.”",
+   "speaker": "Pell",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p113",
+   "type": "narration",
+   "text": "Down the road, the hounds came.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 177,
+   "para": "p114",
+   "type": "narration",
+   "text": "They came the way the hounds at the Redwatch landing had come, the morning Bracken died. Out of the smoke down the road. Low. Brindled. In a pack. Silent. With a man in grey walking behind them with his arm up. And behind him, the men with rings, and the men off the boats with spears, coming on again now that the twelve were five.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 178,
+   "para": "p115",
+   "type": "narration",
+   "text": "Pell looked at them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p116",
+   "type": "speech",
+   "text": "“Shut it,”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 180,
+   "para": "p116",
+   "type": "narration",
+   "text": "he said, to the people in the gateway behind him."
+  },
+  {
+   "seq": 181,
+   "para": "p116",
+   "type": "speech",
+   "text": "“Shut it behind me.”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p117",
+   "type": "speech",
+   "text": "“Sir…”",
+   "speaker": "a student",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p118",
+   "type": "speech",
+   "text": "“Shut it.”",
+   "speaker": "Pell",
+   "mood": "urgent"
+  },
+  {
+   "seq": 184,
+   "para": "p118",
+   "type": "narration",
+   "text": "He pushed the two students back through the gap, one hand on each, and they went. He pushed the cook’s boy. The old knight of the gate looked at him, and at the hounds, and went through too.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 185,
+   "para": "p118",
+   "type": "speech",
+   "text": "“Shut it,”",
+   "speaker": "Pell",
+   "mood": "urgent"
+  },
+  {
+   "seq": 186,
+   "para": "p118",
+   "type": "narration",
+   "text": "said Pell again, and turned his back on them, and stepped out into the road in front of the gate.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p119",
+   "type": "narration",
+   "text": "They shut it. She heard the great oak leaf swing to behind him, and the bar go down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p120",
+   "type": "narration",
+   "text": "He stood with his back to it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p121",
+   "type": "narration",
+   "text": "He looked round once. At her, on the road beside the gate, with the sword. He nodded. Once. The way he nodded at the straw men in the yard when somebody did it right.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 190,
+   "para": "p122",
+   "type": "narration",
+   "text": "The hounds reached him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 191,
+   "para": "p123",
+   "type": "narration",
+   "text": "She didn’t see much of it. She was fighting herself. Two of the hounds came past Pell for her, and she did what he’d taught her a thousand times, close and take the weapon arm, except a hound has no weapon arm, it is all weapon, and she did what she had to.",
+   "mood": "action"
+  },
+  {
+   "seq": 192,
+   "para": "p123",
+   "type": "remembered",
+   "text": "Unless you have to.",
+   "speaker": "Pell",
+   "mood": "action"
+  },
+  {
+   "seq": 193,
+   "para": "p123",
+   "type": "narration",
+   "text": "She did it. And then the third. She didn’t feel anything. Her arms did it.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p124",
+   "type": "narration",
+   "text": "When she could look, Pell was still standing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p125",
+   "type": "narration",
+   "text": "In the gateway. With his back to the shut gate. With hounds round him on the road, three, four, that weren’t moving. With his sword in his three-fingered hand. With more coming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p126",
+   "type": "narration",
+   "text": "The noon bell went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p127",
+   "type": "narration",
+   "text": "Over their heads. From the north tower. One long stroke, and then another, the way it rang every day of the year, whatever happened, because it always had. She heard it go out over the yard behind the wall, and the river, and the road, and the smoke.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 198,
+   "para": "p128",
+   "type": "narration",
+   "text": "Nobody said the oath. Not inside the wall, that she could hear. Not outside. Not her. The bell rang and rang over Greyhold and nobody turned east and nobody said anything at all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p129",
+   "type": "narration",
+   "text": "On the wall over the gate the old lamps lit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p130",
+   "type": "narration",
+   "text": "The ones on the iron brackets, dark since the ninetieth night. All of them, all along the wall, at once. White. In the full noon sun, so white she put her arm across her eyes, white as the heart of Odo’s forge. For two strokes of the bell. Then they were dark again, and the bell went on.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 201,
+   "para": "p131",
+   "type": "narration",
+   "text": "Pell stood in the gateway under the bell with his back to the gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p132",
+   "type": "narration",
+   "text": "Then he sat down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p133",
+   "type": "narration",
+   "text": "With his back against the oak. The way an old man sits down on a bench in the sun. He sat down in the gateway with his sword across his knees and his long legs out in front of him on the cobbles, and looked down the road at the men coming up it, and the smoke.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 204,
+   "para": "p134",
+   "type": "narration",
+   "text": "She got to him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p135",
+   "type": "narration",
+   "text": "She was on her knees beside him in the gateway with the sword in the road and her hands on his coat. His coat was wet through.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p136",
+   "type": "speech",
+   "text": "“Ashdown,”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 207,
+   "para": "p136",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p137",
+   "type": "speech",
+   "text": "“Don’t talk.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p138",
+   "type": "speech",
+   "text": "“Everybody says that.”",
+   "speaker": "Pell",
+   "mood": "tender"
+  },
+  {
+   "seq": 210,
+   "para": "p138",
+   "type": "narration",
+   "text": "He almost smiled. His long grey face was very calm.",
+   "mood": "tender"
+  },
+  {
+   "seq": 211,
+   "para": "p138",
+   "type": "speech",
+   "text": "“Did I tell you about Aldo Venn?”",
+   "speaker": "Pell",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p139",
+   "type": "speech",
+   "text": "“Yes. On the bench. In the autumn.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p140",
+   "type": "speech",
+   "text": "“Good.”",
+   "speaker": "Pell",
+   "how": "weakening",
+   "mood": "grief"
+  },
+  {
+   "seq": 214,
+   "para": "p140",
+   "type": "narration",
+   "text": "He looked at her.",
+   "mood": "grief"
+  },
+  {
+   "seq": 215,
+   "para": "p140",
+   "type": "speech",
+   "text": "“Subdue,”",
+   "speaker": "Pell",
+   "how": "weakening",
+   "mood": "grief"
+  },
+  {
+   "seq": 216,
+   "para": "p140",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "grief"
+  },
+  {
+   "seq": 217,
+   "para": "p140",
+   "type": "speech",
+   "text": "“Don’t kill. Unless you have to.”",
+   "speaker": "Pell",
+   "how": "weakening",
+   "mood": "grief"
+  },
+  {
+   "seq": 218,
+   "para": "p140",
+   "type": "narration",
+   "text": "He shut his eyes.",
+   "mood": "grief"
+  },
+  {
+   "seq": 219,
+   "para": "p140",
+   "type": "speech",
+   "text": "“That’s the whole of it. All the rest’s straw men.”",
+   "speaker": "Pell",
+   "how": "weakening",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 220,
+   "para": "p141",
+   "type": "narration",
+   "text": "The bell stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p142",
+   "type": "narration",
+   "text": "He didn’t say anything else.",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 222,
+   "para": "p143",
+   "type": "narration",
+   "text": "The orders came back in the middle of the afternoon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p144",
+   "type": "narration",
+   "text": "She was still in the gateway. She’d pulled Pell’s body back into the angle of the gate and the wall, out of the road, and sat in front of it with the sword. The Restoration had pulled back from the walls an hour before, down the road toward Millbrook, and left the road full of what it had cost. Liss had found her there. Liss had come round the outside of the wall from the ferry house landing, where she’d been ferrying people into the water-gate below the landing all morning, and sat down beside her, and not said anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p145",
+   "type": "narration",
+   "text": "The horns came down the River Road from the north.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 225,
+   "para": "p146",
+   "type": "narration",
+   "text": "Riders. A lot of them. Galloping. With greyharts. With dust going up behind them. At the head, small and straight on a tall grey horse, Rowan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 226,
+   "para": "p147",
+   "type": "narration",
+   "text": "Half of them. Maren could see that, even from the gateway. Half of what had gone up the road the day before. The other half still at Redwatch, on the bank, where the noise was still coming from, faint, three leagues off. Rowan had turned back with half when she saw the smoke. Too late.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p148",
+   "type": "narration",
+   "text": "They came up the road to the gate and pulled up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 228,
+   "para": "p149",
+   "type": "narration",
+   "text": "Rowan looked down from her horse at the gateway. At the road. At the hounds lying in it. At the dead. At Pell, in the angle of the gate and the wall, with his sword across his knees. At Maren, sitting in front of him in the road with a river watch sword in her lap, in her shirt, with blood to the elbow.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 229,
+   "para": "p150",
+   "type": "narration",
+   "text": "She looked at Maren. Then at Pell. She got down off her horse and went to him, and stood over him. She took off her glove and put her bare hand on his shoulder.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 230,
+   "para": "p151",
+   "type": "narration",
+   "text": "Then she turned round to the gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 231,
+   "para": "p152",
+   "type": "speech",
+   "text": "“Open,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 232,
+   "para": "p152",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 233,
+   "para": "p152",
+   "type": "speech",
+   "text": "“And bring him in.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 234,
+   "para": "p153",
+   "type": "narration",
+   "text": "She didn’t say bring her in. She didn’t look at Maren again. She went through the gate, and the riders after her, and they carried Pell in on a door, and the gate shut.",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 235,
+   "para": "p154",
+   "type": "narration",
+   "text": "Liss put her hand on Maren’s arm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 236,
+   "para": "p155",
+   "type": "narration",
+   "text": "Maren looked up. Her mother was looking south. Down the River Road. Toward Millbrook.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 237,
+   "para": "p156",
+   "type": "narration",
+   "text": "The smoke over the meadows had spread to the jetty end. A few roofs. Not the town. Not yet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 238,
+   "para": "p157",
+   "type": "remembered",
+   "text": "No Millbrook house’ll burn.",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 239,
+   "para": "p158",
+   "type": "speech",
+   "text": "“Tam,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 240,
+   "para": "p158",
+   "type": "narration",
+   "text": "said Liss.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 241,
+   "para": "p159",
+   "type": "narration",
+   "text": "Maren got up. She picked up the sword.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 242,
+   "para": "p160",
+   "type": "speech",
+   "text": "“Stay here,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 243,
+   "para": "p160",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 244,
+   "para": "p160",
+   "type": "speech",
+   "text": "“By the gate. With them. With Wren.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 245,
+   "para": "p161",
+   "type": "speech",
+   "text": "“Maren…”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 246,
+   "para": "p162",
+   "type": "speech",
+   "text": "“Stay here.”",
+   "speaker": "Maren",
+   "mood": "urgent"
+  },
+  {
+   "seq": 247,
+   "para": "p162",
+   "type": "narration",
+   "text": "She was already walking.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 248,
+   "para": "p162",
+   "type": "speech",
+   "text": "“I’ll bring him.”",
+   "speaker": "Maren",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  }
+ ]
+}

@@ -1,344 +1,345 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<speak version="1.0" xml:lang="en-GB">
-  <!-- AI CUE: TITLE: clear and composed; give the heading room. Do not perform as narrative prose. -->
-  <p><s>Chapter 69: The Gate</s></p><break time="700ms"/>
-  <break time="1400ms"/>
-  <!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>She saw both at once.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>It was the hundred-and-forty-second day, and the sun wasn't up. She was on the edge of Hollin Knowe in the grey with her back against the lion's shoulder, the way she'd sat all night, and the river was a long pale line two leagues off under a pale sky, and she saw them both in the same breath.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Upriver: the island. The boats coming off its west shore.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>Dozens. All at once. Out of the reeds where the ladders had been, into the west channel, dark specks on the grey water, crossing toward Redwatch. Toward the long line of the knights' fires on the bank, gone to embers now. A sound came off the river a moment later, faint, two leagues off, that she knew from Ferriby and from the Redwatch landing at dawn when Bracken died. Shouting. Horns. A lot of horns.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Downriver: smoke.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Over Millbrook. Black, thick, going up from the water-meadows below the town and leaning north on the wind.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The lion stood up.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It went to the edge of the knowe and stood there facing the island, with its mane up.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She stood up beside it.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She looked at the island. At the boats crossing. At Redwatch, where the bank was coming alive with noise. She looked downriver, at the smoke over the water-meadows, where the camp was.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>Wren, she thought. Liss.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She put her hand on the lion's shoulder.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I have to go," she said.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It didn't look at her. It was looking at the island.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I have to," she said. "There. Not there." She pointed. South. Downriver. The smoke. It didn't look where she pointed. It couldn't understand. "You can come. You don't have to."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She took her hand off its shoulder and went down the slope.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>A dozen strides. She looked back.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It was standing on the edge of the knowe, against the sky, where it had stood all night. Facing the island. It hadn't moved.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She stood in the heather and looked at it. It was the first time. All winter. Off the island, across the fields, up the knowe. It had always come.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It didn't come.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She turned round and went on down.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>There was a farm at the foot of the knowe. Hollin Farm. A long low house and a paddock with three cobs in it, shaggy, half wild with the noise from the river, galloping round and round the paddock with their tails up. Nobody in the house. The door open. The family gone, in the night, somewhere.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She caught a cob. It took a while. In the end it came to her because it was more frightened of everything else than of her, and she got a halter on it from the hook by the paddock gate and a rope through the halter for reins, and got on its bare back, and rode.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>South. Across the fields. Toward the River Road. Toward the smoke.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The River Road was full of people running.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>North. Toward Greyhold. She saw them before she reached it: a long dark stream of people on the road, on the bank above the river, going north as fast as they could. Running. Walking. Carrying things. Children carried. Carts. A cow on a rope. And smoke behind them, over the meadows below Millbrook, black.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She rode into them.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"What happened?" She caught at a man's arm from the cob's back. "What happened?"</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He looked up at her. A Saltreach face. Brown, lined, a farmer's. One of the families Liss had carried over.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"The camp," he said. "They burned the camp. At the meadows. At first light." He was shaking. "The ones from the town. With the rings. They came down the back channel in boats and burned it. Our tents. Our things. They said we were the crown's. They said we'd come over to the crown." He pulled his arm away. "They said there'd be no fires. They said no Millbrook house. We weren't a Millbrook house. We were tents."</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He ran on.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She sat on the cob in the middle of the road with people pouring past her on both sides.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>No Millbrook house'll burn. Not one. He said so.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She kicked the cob on. North. With them. Toward Greyhold.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The river gate was shut.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She came round the last bend of the River Road below Greyhold's hill and saw it, and saw the crowd in front of it. Hundreds. All the people off the road, and more, piled up against the shut gate in the wall above the landing, beating on it. Shouting. Children crying. Somebody had a cart jammed sideways in the road. Somebody's cow had got loose and was standing in the middle of it all, lowing.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And behind them, down the road, coming up from Millbrook: men.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>In twos and threes at first. Then more. With rings on their fingers and on strings round their necks. With staves and billhooks and pitchforks and a few with swords. Millbrook men. And among them, harder, in companies, men off boats: in grey, with the six on their coats, with spears. A flag over one company, a yellow tower on blue. Coming up the road after the refugees. Walking. Spreading out across the road and the bank as they came.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>At the front of them, low, quick, brindled, in collars, silent: hounds.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>On the wall above the gate, a handful of figures. She looked for faces. She couldn't see.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Then one of them leaned out over the parapet above the gate. Long-boned. Grey. One hand on the stone with two fingers missing.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Pell.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He looked down at the crowd at the gate. At the road. At the men coming up it. At the hounds.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She saw him decide. She saw it from the road, from the cob's back, a long bowshot off: the long grey face going very still, the way it went at the straw men in the yard just before he moved.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He turned and said something to the people on the wall. Then he was gone from the parapet.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The gate opened.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Wide enough. The great oak leaf on the left swinging inward a cart's width, and the crowd at it surging, and Pell in the gap. In his old leather coat, with a sword. And behind him, coming out through the gap round him, eleven others. She counted. Students, most of them. Second-years. Two of the old knights of the gate, too old to have ridden to Redwatch, white-haired, in mail. And the cook's boy with a cleaver.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"In!" Pell was shouting. "In, in, in! Children first! Go on! In!"</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The crowd poured through the gap past him.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He went out through them. Past them. Down the road toward the men coming up it. The eleven went with him. They stood across the road below the gate, a thin line, twelve of them, between the crowd going in through the gap behind them and the men with rings and the hounds coming up the road in front.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Maren put the cob at the crowd.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It came in pieces.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>The cob going down in the crush and her rolling off it into the road among feet. Getting up. A knight lying in the ditch at the side of the road, one of the river watch from Redwatch who must have ridden down with a message and been caught, with his sword beside him in the mud. Picking it up. A real one, heavier than Tobin's. She held it in both hands.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>People. Pushing them. Pulling them. Up the road toward the gate. A woman with a baby who'd fallen. An old man with no shoes. Go on. The gate. Go on. Two children with nobody, holding hands, crying, and she picked up the smaller one and put her on her hip and pushed the other in front of her toward the gap.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>A thin boy with spots and a badly mended scar over his eye, carrying a bundle for an old woman, who looked at her over it and knew her. Davin. "They let me go!" he shouted, over all of it, as if she'd asked. "In Hallowmere! They looked for six weeks and couldn't find a law for it!" Then the crush had him and he went in through the gap with the old woman's bundle on his head.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>The noise from down the road, where the twelve were. Iron. Shouting. A dog that screamed and then stopped, and she knew it wasn't one of the hounds, because the hounds didn't scream.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>A thump she felt through her boots, like a cellar door slammed shut under the road. Down the road, between the heads, the line of twelve buckled in the middle. Three of them went over backward as if a cart had gone through them. Behind the men with rings, under the yellow tower, a woman in a plain grey coat was standing in the road with her feet planted and her hands out in front of her, palms first.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>A drawer. Maren had never seen one. Pell had talked about them once, on the bench, the siege-drawers the crown used to license, who could knock a man flat at five paces and afterwards couldn't lift a cup.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The woman did it again. The thump. Two more of the twelve went down. Then she sat down in the road. Two men under the yellow tower picked her up under the arms and carried her back through the crowd with her heels dragging, and the hair at the front of her head, where her hood had come off, had gone white.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>Down the road, through a gap in the crush, one of the old knights of the gate with his hand out flat at a hound. Saying something. The stand-word. Maren had heard the old knights say it to frightened horses in the yard all her life, and heard it fail all winter. The hound went down in the road as if it had been poleaxed. All four legs at once. The old man stared at his hand.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>In the crush, a voice she knew.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Maren!"</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She turned round.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Liss. In her man's coat with the sleeves turned back, with her grey hair come down out of her scarf, pushing through the crowd toward her. And behind Liss, holding on to Liss's coat, an old woman in a good shawl with a stick. And holding on to the old woman, two small children, a boy and a girl.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And holding on to nobody, on her own, right behind Liss, a thin girl with a great deal of hair.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I brought them up from the ferry house," said Liss. She was gasping. "The camp was burning. I saw it from the jetty. I went down in the boat and got who I could. Bel's two." She had Maren's arm in a grip like iron. "Their mother's behind. With the beasts. She won't leave the beasts, the daft woman."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Maren looked at the girl.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The girl was looking up at her. Thin. Nine or ten. A lot of hair, dark, everywhere.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"You're her," said the girl.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Maren couldn't speak.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"You're the lion-woman," said Wren. "Papa said you'd have your hair tied back like that. Lisska told him." She looked at the sword in Maren's hands. "Where's the lion?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"On the knowe," said Maren. "It wouldn't come."</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Wren nodded, as if that made sense. Then she took hold of Maren's arm, the one without the sword, with both her hands, and held on, the way she'd been holding on to Liss's coat.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Fisk's boy came over in the night," she said. She said it over the noise, quite loud, quite clear. "From the Eelweir. In his eel-boat. To the ferry house. He told Mistress Ashdown." She looked up at Maren. "Papa's gone to the Old Ruin. On his own. He left the dragons in the north so they wouldn't be seen. He's on the island with all of them." Her face didn't change. "Fisk took him over in the dark."</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Maren stood in the road with the sword in one hand and the girl holding on to the other.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The farmer. On the island. With all of them.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Did you say hello?" said Wren. "To the lion? From me?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Yes," said Maren.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>They got them to the gate.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Liss pushing. Maren pulling. The old woman, Ada, with her stick, not hurrying, not falling, coming steadily through the crush like a barge through reeds. The two little ones. Wren still holding on to Maren's arm. Up the road. Through the gap in the gate, where the crowd was thinning now. Into the dark of the gateway.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Wren let go.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Maren stood in the gateway and pushed her through it, after Ada, into the yard. Into Greyhold. The girl turned round on the cobbles inside and looked back at her.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Come on," said Wren.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Maren stood in the gateway.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>You'll not come back here. Ottery. She has no place in it, and no claim on it, and no part in the orders, now or after. Rowan.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Go on," she said. "I'll come."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She turned round and went back out of the gate.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Bel was on the road with the greys.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She'd come up from the camp behind everybody else with all three of them on ropes. Mabbin and Sorrel, wild, rearing at the smoke and the noise and the people, and Old Grey between them with his head low, walking through all of it as if it were a road. Bel was at Mabbin's head, hanging on to her halter with both hands and being lifted off her feet every time the mare went up.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Maren got to Sorrel's halter.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Who are you?" Bel shouted.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Maren Ashdown."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Bel stared at her.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Get them in," said Maren. "The gate's wide enough. Go on."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>They got them in, somehow. Mabbin went through the gate on her hind legs, screaming. Sorrel went after her mother. Old Grey went last, with Bel at his head now, walking through the gateway into Greyhold's yard as if it were his own paddock, head low, steady, while the crowd scattered round his feet.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>At the far side of the gateway, inside, he stopped. He turned his head.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Toward the yard. Toward a thin girl with a great deal of hair, standing on the cobbles by the Long Barn with her arms out, saying his name.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Bel had stopped too. The rope hung slack between her hand and his halter. Nobody was pulling it.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Old Grey took a step.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>One. Toward the voice. His great forefoot coming up off the cobbles and going down again a stride nearer the Long Barn, with nobody at his head and nobody's arm up behind him, and then he stood there as he'd stood before, his eyes empty, his head low.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Bel looked at the rope in her hand as if somebody had put it there.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Pell was in the gateway when she turned round.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He'd come back. Up the road from where the twelve had stood. There weren't twelve now. She counted five. Two students, bloodied, holding each other up. One of the old knights of the gate, with his helm gone and his white hair red. The cook's boy, without his cleaver. And Pell.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He had blood all down the left side of his coat. He was walking very straight.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He saw her.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He stopped in the gateway and looked at her, and at the sword in her hands. The river watch sword from the ditch.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Ashdown," he said.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Sir."</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He looked at the sword a moment longer.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Subdue," he said. "Don't kill." Then, very quietly: "Unless you have to. I never told you that part. I should have." He looked past her into the yard. At the refugees. At the greys. At the girl by the Long Barn with her arms round the grey's foreleg. "You'll not be let in. You know that."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I know."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Rowan's orders. My orders. Nobody can unsay them but her." He swayed a little and caught himself on the gatepost. "I'd let you in. I want you to know that. I'd let you in."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Down the road, the hounds came.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>They came the way the hounds at the Redwatch landing had come, the morning Bracken died. Out of the smoke down the road. Low. Brindled. In a pack. Silent. With a man in grey walking behind them with his arm up. And behind him, the men with rings, and the men off the boats with spears, coming on again now that the twelve were five.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Pell looked at them.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Shut it," he said, to the people in the gateway behind him. "Shut it behind me."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Sir…"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Shut it." He pushed the two students back through the gap, one hand on each, and they went. He pushed the cook's boy. The old knight of the gate looked at him, and at the hounds, and went through too. "Shut it," said Pell again, and turned his back on them, and stepped out into the road in front of the gate.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>They shut it. She heard the great oak leaf swing to behind him, and the bar go down.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He stood with his back to it.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He looked round once. At her, on the road beside the gate, with the sword. He nodded. Once. The way he nodded at the straw men in the yard when somebody did it right.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The hounds reached him.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>She didn't see much of it. She was fighting herself. Two of the hounds came past Pell for her, and she did what he'd taught her a thousand times, close and take the weapon arm, except a hound has no weapon arm, it is all weapon, and she did what she had to. Unless you have to. She did it. And then the third. She didn't feel anything. Her arms did it.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>When she could look, Pell was still standing.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>In the gateway. With his back to the shut gate. With hounds round him on the road, three, four, that weren't moving. With his sword in his three-fingered hand. With more coming.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The noon bell went.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Over their heads. From the north tower. One long stroke, and then another, the way it rang every day of the year, whatever happened, because it always had. She heard it go out over the yard behind the wall, and the river, and the road, and the smoke.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Nobody said the oath. Not inside the wall, that she could hear. Not outside. Not her. The bell rang and rang over Greyhold and nobody turned east and nobody said anything at all.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>On the wall over the gate the old lamps lit.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>The ones on the iron brackets, dark since the ninetieth night. All of them, all along the wall, at once. White. In the full noon sun, so white she put her arm across her eyes, white as the heart of Odo's forge. For two strokes of the bell. Then they were dark again, and the bell went on.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Pell stood in the gateway under the bell with his back to the gate.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Then he sat down.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>With his back against the oak. The way an old man sits down on a bench in the sun. He sat down in the gateway with his sword across his knees and his long legs out in front of him on the cobbles, and looked down the road at the men coming up it, and the smoke.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She got to him.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>She was on her knees beside him in the gateway with the sword in the road and her hands on his coat. His coat was wet through.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Ashdown," he said.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Don't talk."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Everybody says that." He almost smiled. His long grey face was very calm. "Did I tell you about Aldo Venn?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Yes. On the bench. In the autumn."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Good." He looked at her. "Subdue," he said. "Don't kill. Unless you have to." He shut his eyes. "That's the whole of it. All the rest's straw men."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The bell stopped.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He didn't say anything else.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The orders came back in the middle of the afternoon.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>She was still in the gateway. She'd pulled Pell's body back into the angle of the gate and the wall, out of the road, and sat in front of it with the sword. The Restoration had pulled back from the walls an hour before, down the road toward Millbrook, and left the road full of what it had cost. Liss had found her there. Liss had come round the outside of the wall from the ferry house landing, where she'd been ferrying people into the water-gate below the landing all morning, and sat down beside her, and not said anything.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The horns came down the River Road from the north.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Riders. A lot of them. Galloping. With greyharts. With dust going up behind them. At the head, small and straight on a tall grey horse, Rowan.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Half of them. Maren could see that, even from the gateway. Half of what had gone up the road the day before. The other half still at Redwatch, on the bank, where the noise was still coming from, faint, three leagues off. Rowan had turned back with half when she saw the smoke. Too late.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>They came up the road to the gate and pulled up.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Rowan looked down from her horse at the gateway. At the road. At the hounds lying in it. At the dead. At Pell, in the angle of the gate and the wall, with his sword across his knees. At Maren, sitting in front of him in the road with a river watch sword in her lap, in her shirt, with blood to the elbow.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She looked at Maren. Then at Pell. She got down off her horse and went to him, and stood over him. She took off her glove and put her bare hand on his shoulder.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Then she turned round to the gate.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Open," she said. "And bring him in."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She didn't say bring her in. She didn't look at Maren again. She went through the gate, and the riders after her, and they carried Pell in on a door, and the gate shut.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Liss put her hand on Maren's arm.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Maren looked up. Her mother was looking south. Down the River Road. Toward Millbrook.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The smoke over the meadows had spread to the jetty end. A few roofs. Not the town. Not yet.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>No Millbrook house'll burn.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Tam," said Liss.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Maren got up. She picked up the sword.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Stay here," she said. "By the gate. With them. With Wren."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Maren…"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Stay here." She was already walking. "I'll bring him."</p>
-<break time="450ms"/></speak>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<!-- The Watch Below, Chapter 69: The Gate. Point of view: Maren. -->
+<p><s>Chapter Sixty-nine.</s></p><break time="800ms"/>
+<p><s>The Gate.</s></p><break time="1800ms"/>
+<!-- p1 -->
+<p>She saw both at once.</p><break time="500ms"/>
+<!-- p2 -->
+<p>It was the hundred-and-forty-second day, and the sun wasn’t up. She was on the edge of Hollin Knowe in the grey with her back against the lion’s shoulder, the way she’d sat all night, and the river was a long pale line two leagues off under a pale sky, and she saw them both in the same breath.</p><break time="500ms"/>
+<!-- p3 -->
+<p>Upriver: the island. The boats coming off its west shore.</p><break time="500ms"/>
+<!-- p4 · urgent -->
+<p><prosody rate="105%">Dozens. All at once. Out of the reeds where the ladders had been, into the west channel, dark specks on the grey water, crossing toward Redwatch. Toward the long line of the knights’ fires on the bank, gone to embers now. A sound came off the river a moment later, faint, two leagues off, that she knew from Ferriby and from the Redwatch landing at dawn when Bracken died. Shouting. Horns. A lot of horns.</prosody></p><break time="500ms"/>
+<!-- p5 -->
+<p>Downriver: smoke.</p><break time="500ms"/>
+<!-- p6 · dread -->
+<p><prosody rate="96%">Over Millbrook. Black, thick, going up from the water-meadows below the town and leaning north on the wind.</prosody></p><break time="800ms"/>
+<!-- p7 -->
+<p>The lion stood up.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p8 -->
+<p>It went to the edge of the knowe and stood there facing the island, with its mane up.</p><break time="500ms"/>
+<!-- p9 -->
+<p>She stood up beside it.</p><break time="500ms"/>
+<!-- p10 -->
+<p>She looked at the island. At the boats crossing. At Redwatch, where the bank was coming alive with noise. She looked downriver, at the smoke over the water-meadows, where the camp was.</p><break time="500ms"/>
+<!-- p11 · Maren (thought) -->
+<p><prosody rate="97%" volume="-4dB">Wren,</prosody> she thought. <prosody rate="97%" volume="-4dB">Liss.</prosody></p><break time="500ms"/>
+<!-- p12 -->
+<p>She put her hand on the lion’s shoulder.</p><break time="500ms"/>
+<!-- p13 · Maren -->
+<p>“I have to go,” she said.</p><break time="500ms"/>
+<!-- p14 -->
+<p>It didn’t look at her. It was looking at the island.</p><break time="500ms"/>
+<!-- p15 · Maren -->
+<p>“I have to,” she said. “There. Not there.” She pointed. South. Downriver. The smoke. It didn’t look where she pointed. It couldn’t understand. “You can come. You don’t have to.”</p><break time="500ms"/>
+<!-- p16 -->
+<p>She took her hand off its shoulder and went down the slope.</p><break time="500ms"/>
+<!-- p17 -->
+<p>A dozen strides. She looked back.</p><break time="500ms"/>
+<!-- p18 · reflective -->
+<p><prosody rate="96%">It was standing on the edge of the knowe, against the sky, where it had stood all night. Facing the island. It hadn’t moved.</prosody></p><break time="500ms"/>
+<!-- p19 -->
+<p>She stood in the heather and looked at it. It was the first time. All winter. Off the island, across the fields, up the knowe. It had always come.</p><break time="500ms"/>
+<!-- p20 · grief -->
+<p><prosody rate="94%">It didn’t come.</prosody></p><break time="800ms"/>
+<!-- p21 -->
+<p>She turned round and went on down.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p22 -->
+<p>There was a farm at the foot of the knowe. Hollin Farm. A long low house and a paddock with three cobs in it, shaggy, half wild with the noise from the river, galloping round and round the paddock with their tails up. Nobody in the house. The door open. The family gone, in the night, somewhere.</p><break time="500ms"/>
+<!-- p23 -->
+<p>She caught a cob. It took a while. In the end it came to her because it was more frightened of everything else than of her, and she got a halter on it from the hook by the paddock gate and a rope through the halter for reins, and got on its bare back, and rode.</p><break time="500ms"/>
+<!-- p24 -->
+<p>South. Across the fields. Toward the River Road. Toward the smoke.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p25 -->
+<p>The River Road was full of people running.</p><break time="500ms"/>
+<!-- p26 · urgent -->
+<p><prosody rate="105%">North. Toward Greyhold. She saw them before she reached it: a long dark stream of people on the road, on the bank above the river, going north as fast as they could. Running. Walking. Carrying things. Children carried. Carts. A cow on a rope. And smoke behind them, over the meadows below Millbrook, black.</prosody></p><break time="500ms"/>
+<!-- p27 -->
+<p>She rode into them.</p><break time="500ms"/>
+<!-- p28 · Maren; Maren, shouted -->
+<p>“What happened?” She caught at a man’s arm from the cob’s back. <prosody volume="+3dB">”<emphasis level="moderate">What happened?</emphasis>”</prosody></p><break time="500ms"/>
+<!-- p29 -->
+<p>He looked up at her. A Saltreach face. Brown, lined, a farmer’s. One of the families Liss had carried over.</p><break time="500ms"/>
+<!-- p30 · anger: shaking with shock · a refugee, shaking -->
+<p>“The camp,” he said. “They burned the camp. At the meadows. At first light.” He was shaking. “The ones from the town. With the rings. They came down the back channel in boats and burned it. Our tents. Our things. They said we were the crown’s. They said we’d come over to the crown.” He pulled his arm away. “They said there’d be no fires. They said <emphasis level="moderate">no Millbrook house.</emphasis> We weren’t a Millbrook house. We were tents.”</p><break time="500ms"/>
+<!-- p31 -->
+<p>He ran on.</p><break time="500ms"/>
+<!-- p32 -->
+<p>She sat on the cob in the middle of the road with people pouring past her on both sides.</p><break time="500ms"/>
+<!-- p33 · Tam (remembered) -->
+<p><prosody volume="-3dB">No Millbrook house’ll burn. Not one. He said so.</prosody></p><break time="500ms"/>
+<!-- p34 -->
+<p>She kicked the cob on. North. With them. Toward Greyhold.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p35 -->
+<p>The river gate was shut.</p><break time="500ms"/>
+<!-- p36 · urgent -->
+<p><prosody rate="105%">She came round the last bend of the River Road below Greyhold’s hill and saw it, and saw the crowd in front of it. Hundreds. All the people off the road, and more, piled up against the shut gate in the wall above the landing, beating on it. Shouting. Children crying. Somebody had a cart jammed sideways in the road. Somebody’s cow had got loose and was standing in the middle of it all, lowing.</prosody></p><break time="500ms"/>
+<!-- p37 -->
+<p>And behind them, down the road, coming up from Millbrook: men.</p><break time="500ms"/>
+<!-- p38 -->
+<p>In twos and threes at first. Then more. With rings on their fingers and on strings round their necks. With staves and billhooks and pitchforks and a few with swords. Millbrook men. And among them, harder, in companies, men off boats: in grey, with the six on their coats, with spears. A flag over one company, a yellow tower on blue. Coming up the road after the refugees. Walking. Spreading out across the road and the bank as they came.</p><break time="500ms"/>
+<!-- p39 · dread -->
+<p><prosody rate="96%">At the front of them, low, quick, brindled, in collars, silent: hounds.</prosody></p><break time="800ms"/>
+<!-- p40 -->
+<p>On the wall above the gate, a handful of figures. She looked for faces. She couldn’t see.</p><break time="500ms"/>
+<!-- p41 -->
+<p>Then one of them leaned out over the parapet above the gate. Long-boned. Grey. One hand on the stone with two fingers missing.</p><break time="500ms"/>
+<!-- p42 -->
+<p>Pell.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p43 -->
+<p>He looked down at the crowd at the gate. At the road. At the men coming up it. At the hounds.</p><break time="500ms"/>
+<!-- p44 · tension -->
+<p><prosody rate="97%">She saw him decide. She saw it from the road, from the cob’s back, a long bowshot off: the long grey face going very still, the way it went at the straw men in the yard just before he moved.</prosody></p><break time="800ms"/>
+<!-- p45 -->
+<p>He turned and said something to the people on the wall. Then he was gone from the parapet.</p><break time="500ms"/>
+<!-- p46 -->
+<p>The gate opened.</p><break time="500ms"/>
+<!-- p47 · urgent -->
+<p><prosody rate="105%">Wide enough. The great oak leaf on the left swinging inward a cart’s width, and the crowd at it surging, and Pell in the gap. In his old leather coat, with a sword. And behind him, coming out through the gap round him, eleven others. She counted. Students, most of them. Second-years. Two of the old knights of the gate, too old to have ridden to Redwatch, white-haired, in mail. And the cook’s boy with a cleaver.</prosody></p><break time="500ms"/>
+<!-- p48 · Pell, shouting -->
+<p><prosody volume="+3dB">”<emphasis level="moderate">In!</emphasis>”</prosody> Pell was shouting. <prosody volume="+3dB">”<emphasis level="moderate">In, in, in! Children first! Go on! In!</emphasis>”</prosody></p><break time="500ms"/>
+<!-- p49 -->
+<p>The crowd poured through the gap past him.</p><break time="500ms"/>
+<!-- p50 -->
+<p>He went out through them. Past them. Down the road toward the men coming up it. The eleven went with him. They stood across the road below the gate, a thin line, twelve of them, between the crowd going in through the gap behind them and the men with rings and the hounds coming up the road in front.</p><break time="500ms"/>
+<!-- p51 -->
+<p>Maren put the cob at the crowd.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p52 -->
+<p>It came in pieces.</p><break time="500ms"/>
+<!-- p53 · action -->
+<p><prosody rate="104%">The cob going down in the crush and her rolling off it into the road among feet. Getting up. A knight lying in the ditch at the side of the road, one of the river watch from Redwatch who must have ridden down with a message and been caught, with his sword beside him in the mud. Picking it up. A real one, heavier than Tobin’s. She held it in both hands.</prosody></p><break time="500ms"/>
+<!-- p54 · urgent · Maren (thought) -->
+<p><prosody rate="105%">People. Pushing them. Pulling them. Up the road toward the gate. A woman with a baby who’d fallen. An old man with no shoes. <prosody rate="97%" volume="-4dB">Go on. The gate. Go on.</prosody> Two children with nobody, holding hands, crying, and she picked up the smaller one and put her on her hip and pushed the other in front of her toward the gap.</prosody></p><break time="500ms"/>
+<!-- p55 · Davin, shouted -->
+<p>A thin boy with spots and a badly mended scar over his eye, carrying a bundle for an old woman, who looked at her over it and knew her. Davin. <prosody volume="+3dB">“They let me go!”</prosody> he shouted, over all of it, as if she’d asked. <prosody volume="+3dB">“In Hallowmere! They looked for six weeks and couldn’t find a law for it!”</prosody> Then the crush had him and he went in through the gap with the old woman’s bundle on his head.</p><break time="500ms"/>
+<!-- p56 · action -->
+<p><prosody rate="104%">The noise from down the road, where the twelve were. Iron. Shouting. A dog that screamed and then stopped, and she knew it wasn’t one of the hounds, because the hounds didn’t scream.</prosody></p><break time="500ms"/>
+<!-- p57 · action -->
+<p><prosody rate="104%">A thump she felt through her boots, like a cellar door slammed shut under the road. Down the road, between the heads, the line of twelve buckled in the middle. Three of them went over backward as if a cart had gone through them. Behind the men with rings, under the yellow tower, a woman in a plain grey coat was standing in the road with her feet planted and her hands out in front of her, palms first.</prosody></p><break time="500ms"/>
+<!-- p58 -->
+<p>A drawer. Maren had never seen one. Pell had talked about them once, on the bench, the siege-drawers the crown used to license, who could knock a man flat at five paces and afterwards couldn’t lift a cup.</p><break time="500ms"/>
+<!-- p59 · dread -->
+<p><prosody rate="96%">The woman did it again. The thump. Two more of the twelve went down. Then she sat down in the road. Two men under the yellow tower picked her up under the arms and carried her back through the crowd with her heels dragging, and the hair at the front of her head, where her hood had come off, had gone white.</prosody></p><break time="800ms"/>
+<!-- p60 · awe -->
+<p><prosody rate="95%">Down the road, through a gap in the crush, one of the old knights of the gate with his hand out flat at a hound. Saying something. The stand-word. Maren had heard the old knights say it to frightened horses in the yard all her life, and heard it fail all winter. The hound went down in the road as if it had been poleaxed. All four legs at once. The old man stared at his hand.</prosody></p><break time="800ms"/>
+<!-- p61 -->
+<p>In the crush, a voice she knew.</p><break time="500ms"/>
+<!-- p62 · Liss, shouted -->
+<p><prosody volume="+3dB">”<emphasis level="moderate">Maren!</emphasis>”</prosody></p><break time="500ms"/>
+<!-- p63 -->
+<p>She turned round.</p><break time="500ms"/>
+<!-- p64 -->
+<p>Liss. In her man’s coat with the sleeves turned back, with her grey hair come down out of her scarf, pushing through the crowd toward her. And behind Liss, holding on to Liss’s coat, an old woman in a good shawl with a stick. And holding on to the old woman, two small children, a boy and a girl.</p><break time="500ms"/>
+<!-- p65 · tender -->
+<p><prosody rate="95%">And holding on to nobody, on her own, right behind Liss, a thin girl with a great deal of hair.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p66 · Liss, gasping -->
+<p>“I brought them up from the ferry house,” said Liss. She was gasping. “The camp was burning. I saw it from the jetty. I went down in the boat and got who I could. Bel’s two.” She had Maren’s arm in a grip like iron. “Their mother’s behind. With the beasts. She won’t leave the beasts, the daft woman.”</p><break time="500ms"/>
+<!-- p67 -->
+<p>Maren looked at the girl.</p><break time="500ms"/>
+<!-- p68 -->
+<p>The girl was looking up at her. Thin. Nine or ten. A lot of hair, dark, everywhere.</p><break time="500ms"/>
+<!-- p69 · tender · Wren -->
+<p><prosody rate="95%">“You’re her,” said the girl.</prosody></p><break time="500ms"/>
+<!-- p70 -->
+<p>Maren couldn’t speak.</p><break time="500ms"/>
+<!-- p71 · humour: Wren matter-of-fact · Wren -->
+<p>“You’re the lion-woman,” said Wren. “Papa said you’d have your hair tied back like that. Lisska told him.” She looked at the sword in Maren’s hands. “Where’s the lion?”</p><break time="500ms"/>
+<!-- p72 · Maren -->
+<p>“On the knowe,” said Maren. “It wouldn’t come.”</p><break time="500ms"/>
+<!-- p73 -->
+<p>Wren nodded, as if that made sense. Then she took hold of Maren’s arm, the one without the sword, with both her hands, and held on, the way she’d been holding on to Liss’s coat.</p><break time="500ms"/>
+<!-- p74 · tension: a child calmly delivering news · Wren, loud and clear -->
+<p><prosody rate="97%">“Fisk’s boy came over in the night,” she said. She said it over the noise, quite loud, quite clear. “From the Eelweir. In his eel-boat. To the ferry house. He told Mistress Ashdown.” She looked up at Maren. “Papa’s gone to the Old Ruin. On his own. He left the dragons in the north so they wouldn’t be seen. He’s on the island with all of them.” Her face didn’t change. “Fisk took him over in the dark.”</prosody></p><break time="800ms"/>
+<!-- p75 -->
+<p>Maren stood in the road with the sword in one hand and the girl holding on to the other.</p><break time="500ms"/>
+<!-- p76 · Maren (thought) -->
+<p><prosody rate="97%" volume="-4dB">The farmer. On the island. With all of them.</prosody></p><break time="500ms"/>
+<!-- p77 · Wren -->
+<p>“Did you say hello?” said Wren. “To the lion? From me?”</p><break time="500ms"/>
+<!-- p78 · Maren -->
+<p>“Yes,” said Maren.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p79 -->
+<p>They got them to the gate.</p><break time="500ms"/>
+<!-- p80 · urgent -->
+<p><prosody rate="105%">Liss pushing. Maren pulling. The old woman, Ada, with her stick, not hurrying, not falling, coming steadily through the crush like a barge through reeds. The two little ones. Wren still holding on to Maren’s arm. Up the road. Through the gap in the gate, where the crowd was thinning now. Into the dark of the gateway.</prosody></p><break time="500ms"/>
+<!-- p81 -->
+<p>Wren let go.</p><break time="500ms"/>
+<!-- p82 -->
+<p>Maren stood in the gateway and pushed her through it, after Ada, into the yard. Into Greyhold. The girl turned round on the cobbles inside and looked back at her.</p><break time="500ms"/>
+<!-- p83 · Wren -->
+<p>“Come on,” said Wren.</p><break time="500ms"/>
+<!-- p84 -->
+<p>Maren stood in the gateway.</p><break time="500ms"/>
+<!-- p85 · Ottery (remembered); Rowan (remembered) -->
+<p><prosody volume="-3dB">You’ll not come back here.</prosody> Ottery. <prosody volume="-3dB">She has no place in it, and no claim on it, and no part in the orders, now or after.</prosody> Rowan.</p><break time="500ms"/>
+<!-- p86 · Maren -->
+<p>“Go on,” she said. “I’ll come.”</p><break time="500ms"/>
+<!-- p87 -->
+<p>She turned round and went back out of the gate.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p88 -->
+<p>Bel was on the road with the greys.</p><break time="500ms"/>
+<!-- p89 · action -->
+<p><prosody rate="104%">She’d come up from the camp behind everybody else with all three of them on ropes. Mabbin and Sorrel, wild, rearing at the smoke and the noise and the people, and Old Grey between them with his head low, walking through all of it as if it were a road. Bel was at Mabbin’s head, hanging on to her halter with both hands and being lifted off her feet every time the mare went up.</prosody></p><break time="500ms"/>
+<!-- p90 -->
+<p>Maren got to Sorrel’s halter.</p><break time="500ms"/>
+<!-- p91 · Bel, shouted -->
+<p><prosody volume="+3dB">“Who are you?”</prosody> Bel shouted.</p><break time="500ms"/>
+<!-- p92 · Maren -->
+<p>“Maren Ashdown.”</p><break time="500ms"/>
+<!-- p93 -->
+<p>Bel stared at her.</p><break time="500ms"/>
+<!-- p94 · Maren -->
+<p>“Get them in,” said Maren. “The gate’s wide enough. Go on.”</p><break time="500ms"/>
+<!-- p95 -->
+<p>They got them in, somehow. Mabbin went through the gate on her hind legs, screaming. Sorrel went after her mother. Old Grey went last, with Bel at his head now, walking through the gateway into Greyhold’s yard as if it were his own paddock, head low, steady, while the crowd scattered round his feet.</p><break time="500ms"/>
+<!-- p96 -->
+<p>At the far side of the gateway, inside, he stopped. He turned his head.</p><break time="500ms"/>
+<!-- p97 · tender -->
+<p><prosody rate="95%">Toward the yard. Toward a thin girl with a great deal of hair, standing on the cobbles by the Long Barn with her arms out, saying his name.</prosody></p><break time="500ms"/>
+<!-- p98 -->
+<p>Bel had stopped too. The rope hung slack between her hand and his halter. Nobody was pulling it.</p><break time="500ms"/>
+<!-- p99 -->
+<p>Old Grey took a step.</p><break time="500ms"/>
+<!-- p100 · awe -->
+<p><prosody rate="95%">One. Toward the voice. His great forefoot coming up off the cobbles and going down again a stride nearer the Long Barn, with nobody at his head and nobody’s arm up behind him, and then he stood there as he’d stood before, his eyes empty, his head low.</prosody></p><break time="800ms"/>
+<!-- p101 -->
+<p>Bel looked at the rope in her hand as if somebody had put it there.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p102 -->
+<p>Pell was in the gateway when she turned round.</p><break time="500ms"/>
+<!-- p103 -->
+<p>He’d come back. Up the road from where the twelve had stood. There weren’t twelve now. She counted five. Two students, bloodied, holding each other up. One of the old knights of the gate, with his helm gone and his white hair red. The cook’s boy, without his cleaver. And Pell.</p><break time="500ms"/>
+<!-- p104 · dread -->
+<p><prosody rate="96%">He had blood all down the left side of his coat. He was walking very straight.</prosody></p><break time="800ms"/>
+<!-- p105 -->
+<p>He saw her.</p><break time="500ms"/>
+<!-- p106 -->
+<p>He stopped in the gateway and looked at her, and at the sword in her hands. The river watch sword from the ditch.</p><break time="500ms"/>
+<!-- p107 · Pell -->
+<p>“Ashdown,” he said.</p><break time="500ms"/>
+<!-- p108 · Maren -->
+<p>“Sir.”</p><break time="500ms"/>
+<!-- p109 -->
+<p>He looked at the sword a moment longer.</p><break time="500ms"/>
+<!-- p110 · tender: very quiet, a final lesson · Pell; Pell, very quietly; Pell -->
+<p><prosody rate="95%">“Subdue,” he said. “Don’t kill.” Then, very quietly: <prosody volume="-5dB">“Unless you have to. I never told you that part. I should have.”</prosody> He looked past her into the yard. At the refugees. At the greys. At the girl by the Long Barn with her arms round the grey’s foreleg. “You’ll not be let in. You know that.”</prosody></p><break time="500ms"/>
+<!-- p111 · Maren -->
+<p>“I know.”</p><break time="500ms"/>
+<!-- p112 · tender · Pell -->
+<p><prosody rate="95%">“Rowan’s orders. My orders. Nobody can unsay them but her.” He swayed a little and caught himself on the gatepost. “I’d let you in. I want you to know that. I’d let you in.”</prosody></p><break time="500ms"/>
+<!-- p113 -->
+<p>Down the road, the hounds came.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p114 · dread -->
+<p><prosody rate="96%">They came the way the hounds at the Redwatch landing had come, the morning Bracken died. Out of the smoke down the road. Low. Brindled. In a pack. Silent. With a man in grey walking behind them with his arm up. And behind him, the men with rings, and the men off the boats with spears, coming on again now that the twelve were five.</prosody></p><break time="800ms"/>
+<!-- p115 -->
+<p>Pell looked at them.</p><break time="500ms"/>
+<!-- p116 · Pell -->
+<p>“Shut it,” he said, to the people in the gateway behind him. “Shut it behind me.”</p><break time="500ms"/>
+<!-- p117 · a student -->
+<p>”<emphasis level="moderate">Sir…</emphasis>”</p><break time="500ms"/>
+<!-- p118 · urgent · Pell -->
+<p><prosody rate="105%">“Shut it.” He pushed the two students back through the gap, one hand on each, and they went. He pushed the cook’s boy. The old knight of the gate looked at him, and at the hounds, and went through too. “Shut it,” said Pell again, and turned his back on them, and stepped out into the road in front of the gate.</prosody></p><break time="500ms"/>
+<!-- p119 -->
+<p>They shut it. She heard the great oak leaf swing to behind him, and the bar go down.</p><break time="500ms"/>
+<!-- p120 -->
+<p>He stood with his back to it.</p><break time="500ms"/>
+<!-- p121 · grief -->
+<p><prosody rate="94%">He looked round once. At her, on the road beside the gate, with the sword. He nodded. Once. The way he nodded at the straw men in the yard when somebody did it right.</prosody></p><break time="800ms"/>
+<!-- p122 -->
+<p>The hounds reached him.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p123 · action · Pell (remembered) -->
+<p><prosody rate="104%">She didn’t see much of it. She was fighting herself. Two of the hounds came past Pell for her, and she did what he’d taught her a thousand times, close and take the weapon arm, except a hound has no weapon arm, it is all weapon, and she did what she had to. <prosody volume="-3dB">Unless you have to.</prosody> She did it. And then the third. She didn’t feel anything. Her arms did it.</prosody></p><break time="500ms"/>
+<!-- p124 -->
+<p>When she could look, Pell was still standing.</p><break time="500ms"/>
+<!-- p125 -->
+<p>In the gateway. With his back to the shut gate. With hounds round him on the road, three, four, that weren’t moving. With his sword in his three-fingered hand. With more coming.</p><break time="500ms"/>
+<!-- p126 -->
+<p>The noon bell went.</p><break time="500ms"/>
+<!-- p127 · grief -->
+<p><prosody rate="94%">Over their heads. From the north tower. One long stroke, and then another, the way it rang every day of the year, whatever happened, because it always had. She heard it go out over the yard behind the wall, and the river, and the road, and the smoke.</prosody></p><break time="800ms"/>
+<!-- p128 -->
+<p>Nobody said the oath. Not inside the wall, that she could hear. Not outside. Not her. The bell rang and rang over Greyhold and nobody turned east and nobody said anything at all.</p><break time="500ms"/>
+<!-- p129 -->
+<p>On the wall over the gate the old lamps lit.</p><break time="500ms"/>
+<!-- p130 · awe -->
+<p><prosody rate="95%">The ones on the iron brackets, dark since the ninetieth night. All of them, all along the wall, at once. White. In the full noon sun, so white she put her arm across her eyes, white as the heart of Odo’s forge. For two strokes of the bell. Then they were dark again, and the bell went on.</prosody></p><break time="800ms"/>
+<!-- p131 -->
+<p>Pell stood in the gateway under the bell with his back to the gate.</p><break time="500ms"/>
+<!-- p132 -->
+<p>Then he sat down.</p><break time="500ms"/>
+<!-- p133 · grief -->
+<p><prosody rate="94%">With his back against the oak. The way an old man sits down on a bench in the sun. He sat down in the gateway with his sword across his knees and his long legs out in front of him on the cobbles, and looked down the road at the men coming up it, and the smoke.</prosody></p><break time="800ms"/>
+<!-- p134 -->
+<p>She got to him.</p><break time="500ms"/>
+<!-- p135 -->
+<p>She was on her knees beside him in the gateway with the sword in the road and her hands on his coat. His coat was wet through.</p><break time="500ms"/>
+<!-- p136 · Pell -->
+<p>“Ashdown,” he said.</p><break time="500ms"/>
+<!-- p137 · Maren -->
+<p>“Don’t talk.”</p><break time="500ms"/>
+<!-- p138 · tender · Pell -->
+<p><prosody rate="95%">“Everybody says that.” He almost smiled. His long grey face was very calm. “Did I tell you about Aldo Venn?”</prosody></p><break time="500ms"/>
+<!-- p139 · Maren -->
+<p>“Yes. On the bench. In the autumn.”</p><break time="500ms"/>
+<!-- p140 · grief: dying, calm · Pell, weakening -->
+<p><prosody rate="94%">“Good.” He looked at her. “Subdue,” he said. “Don’t kill. Unless you have to.” He shut his eyes. “That’s the whole of it. All the rest’s straw men.”</prosody></p><break time="800ms"/>
+<!-- p141 -->
+<p>The bell stopped.</p><break time="500ms"/>
+<!-- p142 · grief -->
+<p><prosody rate="94%">He didn’t say anything else.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p143 -->
+<p>The orders came back in the middle of the afternoon.</p><break time="500ms"/>
+<!-- p144 -->
+<p>She was still in the gateway. She’d pulled Pell’s body back into the angle of the gate and the wall, out of the road, and sat in front of it with the sword. The Restoration had pulled back from the walls an hour before, down the road toward Millbrook, and left the road full of what it had cost. Liss had found her there. Liss had come round the outside of the wall from the ferry house landing, where she’d been ferrying people into the water-gate below the landing all morning, and sat down beside her, and not said anything.</p><break time="500ms"/>
+<!-- p145 -->
+<p>The horns came down the River Road from the north.</p><break time="500ms"/>
+<!-- p146 -->
+<p>Riders. A lot of them. Galloping. With greyharts. With dust going up behind them. At the head, small and straight on a tall grey horse, Rowan.</p><break time="500ms"/>
+<!-- p147 -->
+<p>Half of them. Maren could see that, even from the gateway. Half of what had gone up the road the day before. The other half still at Redwatch, on the bank, where the noise was still coming from, faint, three leagues off. Rowan had turned back with half when she saw the smoke. Too late.</p><break time="500ms"/>
+<!-- p148 -->
+<p>They came up the road to the gate and pulled up.</p><break time="500ms"/>
+<!-- p149 · grief -->
+<p><prosody rate="94%">Rowan looked down from her horse at the gateway. At the road. At the hounds lying in it. At the dead. At Pell, in the angle of the gate and the wall, with his sword across his knees. At Maren, sitting in front of him in the road with a river watch sword in her lap, in her shirt, with blood to the elbow.</prosody></p><break time="800ms"/>
+<!-- p150 · grief -->
+<p><prosody rate="94%">She looked at Maren. Then at Pell. She got down off her horse and went to him, and stood over him. She took off her glove and put her bare hand on his shoulder.</prosody></p><break time="800ms"/>
+<!-- p151 -->
+<p>Then she turned round to the gate.</p><break time="500ms"/>
+<!-- p152 · Rowan -->
+<p>“Open,” she said. “And bring him in.”</p><break time="500ms"/>
+<!-- p153 · grief -->
+<p><prosody rate="94%">She didn’t say <emphasis level="moderate">bring her in.</emphasis> She didn’t look at Maren again. She went through the gate, and the riders after her, and they carried Pell in on a door, and the gate shut.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p154 -->
+<p>Liss put her hand on Maren’s arm.</p><break time="500ms"/>
+<!-- p155 -->
+<p>Maren looked up. Her mother was looking south. Down the River Road. Toward Millbrook.</p><break time="500ms"/>
+<!-- p156 -->
+<p>The smoke over the meadows had spread to the jetty end. A few roofs. Not the town. Not yet.</p><break time="500ms"/>
+<!-- p157 · Tam (remembered) -->
+<p><prosody volume="-3dB">No Millbrook house’ll burn.</prosody></p><break time="500ms"/>
+<!-- p158 · Liss -->
+<p>“Tam,” said Liss.</p><break time="500ms"/>
+<!-- p159 -->
+<p>Maren got up. She picked up the sword.</p><break time="500ms"/>
+<!-- p160 · Maren -->
+<p>“Stay here,” she said. “By the gate. With them. With Wren.”</p><break time="500ms"/>
+<!-- p161 · Liss -->
+<p>“Maren…”</p><break time="500ms"/>
+<!-- p162 · urgent · Maren -->
+<p><prosody rate="105%">“Stay here.” She was already walking. “I’ll bring him.”</prosody></p>
+<break time="1800ms"/>
+</speak>

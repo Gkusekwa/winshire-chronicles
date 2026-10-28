@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<voice name="en-GB-RyanNeural">
+<!-- The Watch Below, Chapter 39: First Frost. Point of view: Maren. -->
+<p><s>Chapter Thirty-nine.</s></p><break time="800ms"/>
+<p><s>First Frost.</s></p><break time="1800ms"/>
+<!-- p1 · reflective -->
+<p><prosody rate="96%">The first hard frost in the Marches is called the Widow’s Frost. Nobody knows why. Liss says it’s because it comes in the night, when nobody’s watching, and takes the last of the green, and you come out in the morning and everything you planted is black. Ottery says it’s because it’s the frost the river watch used to lose men to, in the old days, on the long night patrols, when a man would sit down in the reeds for a moment’s rest and not get up. Maren’s father used to say it was just a name. He said that every year. Then one year he didn’t say anything at all, because it was the year he died, and the Widow’s Frost came down on the morning they burned him.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p2 -->
+<p>The frost came in the night, and the raiders came with it.</p><break time="500ms"/>
+<!-- p3 -->
+<p>She was at Redwatch. Pell had taken the patrol up again, the same seven as Ferriby, the night before: to stand at the tower, and watch the river, and wait. Every tower on the Hearthmere bank had a patrol on it now. Since Ferriby. Since the boats. Since the second rider with Greyhold’s seal. Rowan had sent the order herself. <prosody rate="95%">No boat to come in on any order but mine, in my own hand, carried by someone the tower knows.</prosody> Ottery had pinned it to the guardroom door with his knife.</p><break time="500ms"/>
+<!-- p4 · quiet -->
+<p><prosody rate="95%">They’d slept in the guardroom, on the floor, in their cloaks, by the fire. Maren had woken in the dark before dawn and gone out to see to Turnip, and found the yard white. Every stone, every rail, every blade of grass in the cracks. White. The frost had come down in the night like a hand. Her breath went out in front of her in a long grey cloud. The water in Turnip’s trough was a slab of ice she had to break with her heel.</prosody></p><break time="500ms"/>
+<!-- p5 · tension -->
+<p><prosody rate="97%">Down on the river, at the landing below the tower, something knocked.</prosody></p><break time="800ms"/>
+<!-- p6 · dread -->
+<p><prosody rate="96%">Wood on stone. Then a voice, low, cut off.</prosody></p><break time="800ms"/>
+<!-- p7 · dread -->
+<p><prosody rate="96%">She knew that sound. She’d heard it at Ferriby, from the creek, in the dusk.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p8 -->
+<p>They were after the boats.</p><break time="500ms"/>
+<!-- p9 -->
+<p>She understood that afterwards, when it was over and she sat in the guardroom with her hands round a cup she couldn’t drink from. They’d come for the river-watch boats themselves, and not for beasts. The long grey patrol boats tied up at the Redwatch landing, five of them, that Ottery and his crews took out every night since Rowan’s order. Somebody had decided the river would be easier with no boats on it at all.</p><break time="500ms"/>
+<!-- p10 -->
+<p>There were twenty of them, maybe. Masked. Come up the river in the dark in two barges and onto the landing in the frost before dawn, quiet, with axes, to stave in the boats where they lay. And they’d have done it, too, if Maren hadn’t been out in the yard breaking ice for a horse.</p><break time="500ms"/>
+<!-- p11 · urgent -->
+<p><prosody rate="105%">She shouted. She didn’t think about it. She shouted as you shout on the river watch when there’s something in the reeds, and the guardroom door banged open, and Pell came out with his sword already drawn, and Ottery behind him with a boathook, and the others, and they went down the frozen steps to the landing in the grey light, sliding, and the raiders turned round.</prosody></p><break time="500ms"/>
+<!-- p12 · dread -->
+<p><prosody rate="96%">And the hounds came up out of the barges.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p13 -->
+<p>She didn’t understand them. Not then.</p><break time="500ms"/>
+<!-- p14 · dread -->
+<p><prosody rate="96%">There were six of them. Big, rough, brindled things, like Bracken but heavier, with iron collars on their necks. They came up out of the barges onto the landing in a line, and they didn’t bark. That was the first thing. Every hound she’d ever known barked when it went for something; barked, or bayed, or growled. These made no sound at all. They came up the landing in the frost in a line, silent, all together, and their eyes in the grey light were the strangest thing she had ever seen.</prosody></p><break time="800ms"/>
+<!-- p15 · dread -->
+<p><prosody rate="96%">Empty. Like windows in a house where nobody lived.</prosody></p><break time="800ms"/>
+<!-- p16 · action -->
+<p><prosody rate="104%">They went for the patrol. All six at once. Not the way hounds go, each one at its own man. They went together, as if one hand were moving all of them, two at Callis, two at Wynn, two at Pell. In the stern of the nearer barge a man in grey stood with one arm out, not fighting, not even watching the fight, and when the arm moved, all six of them moved. And when Wynn’s hound, a big grey bitch called Ash, went for one of them and opened its shoulder to the bone, it didn’t yelp. It didn’t stop. It didn’t even turn its head. It went on at Wynn as if nothing had touched it, with the blood running down its leg into the frost.</prosody></p><break time="500ms"/>
+<!-- p17 -->
+<p>Maren had a practice sword and a lantern. She stood at the top of the landing steps and stared.</p><break time="500ms"/>
+<!-- p18 · dread · Maren (thought) -->
+<p><prosody rate="96%"><prosody rate="97%" volume="-4dB">They don’t feel it,</prosody> she thought. <prosody rate="97%" volume="-4dB">They don’t feel anything.</prosody></prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p19 · action -->
+<p><prosody rate="104%">Pell went down.</prosody></p><break time="500ms"/>
+<!-- p20 · action -->
+<p><prosody rate="104%">She saw it. He was on the landing at the foot of the steps, with his sword, fighting a raider with an axe, and one of the silent hounds came at him from the side, low, and took his leg, and he went down on the frozen stones on his back with the hound on his legs and the raider over him with the axe going up.</prosody></p><break time="500ms"/>
+<!-- p21 -->
+<p>And Bracken went past her.</p><break time="500ms"/>
+<!-- p22 · action · Ide (remembered) -->
+<p><prosody rate="104%">She felt him go. A rush of grey at her knee, going down the steps, fast, low, silent too, but not their silence. His own. Bracken never made a sound when he went for something. Ide had told her. <prosody volume="-3dB">He’s quiet. He’s always been quiet. He took the poacher’s arm without a sound.</prosody> He went down the frozen steps and across the landing like a thrown stone and hit the raider with the axe at the knees, and the raider went over backwards into the river with a great splash, and the axe went spinning away across the stones.</prosody></p><break time="500ms"/>
+<!-- p23 -->
+<p>Bracken turned. The two silent hounds that had been on Callis left Callis, both at once, as the arm in the stern swung, and came at him.</p><break time="500ms"/>
+<!-- p24 · action -->
+<p><prosody rate="104%">He fought them. She’d remember that. He fought them both, on the landing in the frost, a big rough brindled hound with one torn ear and a scar down his muzzle, against two that didn’t feel anything and didn’t stop. He fought them the way he’d been taught, the way Ide had taught him, quick and hard and silent, and he had one of them by the throat and was bearing it down when the crossbow went.</prosody></p><break time="500ms"/>
+<!-- p25 · tension -->
+<p><prosody rate="97%"><emphasis level="moderate">Thock.</emphasis></prosody></p><break time="800ms"/>
+<!-- p26 -->
+<p>She heard it. From the barge. The same sound. The same sound she’d heard on the spit, from the guard, when the bolt went past her ear and rang off the paving.</p><break time="500ms"/>
+<!-- p27 · grief -->
+<p><prosody rate="94%">Bracken stopped.</prosody></p><break time="800ms"/>
+<!-- p28 · grief: slow, gentle -->
+<p><prosody rate="94%">He stood on the landing, very still, with the silent hound’s throat still in his jaws. Then he let go of it. Gently. The way he always let go when Ide told him. And lay down on the frost, on his side, slowly, like an old dog lying down by the fire. And didn’t get up.</prosody></p><break time="800ms"/>
+<!-- p29 · grief -->
+<p><prosody rate="94%">Behind Maren, on the steps, someone screamed.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p30 -->
+<p>Ide Darrow had been ten paces off. At the top of the steps, with her sword, behind Maren. She’d been coming down. She’d stopped.</p><break time="500ms"/>
+<!-- p31 · grief -->
+<p><prosody rate="94%">She was standing on the step with her sword in her hand and her other hand pressed flat against her side, under her ribs, on the left. Where the bolt had gone into Bracken. Her face was white, like the frost.</prosody></p><break time="800ms"/>
+<!-- p32 · grief -->
+<p><prosody rate="94%">She didn’t scream again. She looked down at the landing, at the grey shape lying on its side on the frozen stones, and her mouth opened, and nothing came out of it.</prosody></p><break time="800ms"/>
+<!-- p33 -->
+<p>Then her knees went.</p><break time="500ms"/>
+<!-- p34 · grief -->
+<p><prosody rate="94%">Maren caught her. She dropped the lantern and the practice sword and caught her as she fell, and went down with her on the frozen steps, and held her. Ide was shaking. Her eyes were open. She was looking at the landing, past Maren’s shoulder, at Bracken.</prosody></p><break time="800ms"/>
+<!-- p35 · grief: a whisper · Ide, whispered -->
+<p><prosody rate="94%"><prosody volume="-5dB">“He let go,”</prosody> she said. In a whisper. <prosody volume="-5dB">“Did you see? He let go. I didn’t tell him. He let go anyway.”</prosody></prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p36 -->
+<p>It was over very quickly after that. The raiders had come for boats, not for a fight, and the fight had gone wrong for them. Ottery’s crews came pouring down from the tower with boathooks. The raiders went back into their barges and pushed off, and the silent hounds went with them, every one, back into the barges at once, the way they’d come, as if a hand had called them. One of them was limping, with its shoulder open. It didn’t make a sound.</p><break time="500ms"/>
+<!-- p37 -->
+<p>Not one boat was staved. Not one man of the patrol was dead. Pell had a torn leg and Callis had a bitten arm and Wynn’s hound Ash was cut. That was all.</p><break time="500ms"/>
+<!-- p38 · grief -->
+<p><prosody rate="94%">Bracken was lying on the landing with a bolt in his side.</prosody></p><break time="800ms"/>
+<!-- p39 · grief: very quietly -->
+<p><prosody rate="94%">Ide Darrow was sitting on the frozen steps in Maren’s arms, with her hand pressed flat under her ribs, beginning, very quietly, to go cold.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p40 · grief -->
+<p><prosody rate="94%">She’d seen it before. That was the worst of it. She’d seen every hour of it before, thirteen years ago, when she was fourteen, in a little room over the ferry-house with the river going by under the window.</prosody></p><break time="800ms"/>
+<!-- p41 -->
+<p>They brought Ide back to Greyhold on a cart, lying on straw with a cloak over her, and Bracken beside her on the straw, wrapped in a blanket, because she wouldn’t let them take him anywhere else. They put her in the infirmary, in the end bed, by the window. And she lay there. And it began.</p><break time="500ms"/>
+<!-- p42 -->
+<p>The first day, she talked.</p><break time="500ms"/>
+<!-- p43 · grief -->
+<p><prosody rate="94%">That was how it always began. Maren remembered. Her father had talked the whole of the first day. About the river, and the ferry, and the hound, whose name was Fly, and how Fly had come to him as a puppy, and what Fly liked, and what she didn’t. As if he were telling it so somebody would remember.</prosody></p><break time="800ms"/>
+<!-- p44 · tender · Ide (remembered) -->
+<p><prosody rate="95%">Ide talked about Bracken. She lay in the end bed by the window with the frost on the glass and talked about him all day, quietly, to whoever was there. How he’d come to her when she was twelve, a rough brindled pup in a litter on her uncle’s farm in the south, the runt, the one nobody wanted. How he’d picked her. Walked across the barn to her through the straw on his fat little legs and sat on her foot. How he never barked. How he hated cats, except the one nobody owned, which he pretended not to see. How he’d taken the poacher’s arm on the Brackenwood road two winters ago without a sound, and then let go the moment she said, and lain down, and looked at her, as if to say: <prosody volume="-3dB">was that right?</prosody></prosody></p><break time="500ms"/>
+<!-- p45 · grief · Ide -->
+<p><prosody rate="94%">“He always let go,” she said. “Always. When I told him.” She looked at the window. “He let go at the end. I didn’t tell him. He just let go.”</prosody></p><break time="800ms"/>
+<!-- p46 -->
+<p>Maren sat by the bed after evening muck and listened.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p47 -->
+<p>The second day, she was cold.</p><break time="500ms"/>
+<!-- p48 -->
+<p>That was how it went on. Maren remembered that too. Her father had been cold on the second day. Cold all through, so that they piled blankets on him and lit a fire in the room and still he shook. The cold came from the inside. Like the frost. It came down in the night when nobody was watching and took the last of the green.</p><break time="500ms"/>
+<!-- p49 -->
+<p>Ide shook. They piled blankets on her and put warming-stones from the infirmary shelf at her feet and her sides, the licensed ones that held their heat all night, and she shook under them. The infirmary surgeon, the old one, who’d sworn at Maren about the honey, came and looked at her and didn’t swear at all. He felt her hands and her face. He didn’t say any words over her. There weren’t any for this, licensed or not. He shook his head and went away again, quickly, so nobody would see his face. There was nothing to do. There never was. Everybody at Greyhold knew there was nothing to do. One life between two.</p><break time="500ms"/>
+<!-- p50 -->
+<p>In the afternoon, Ide asked for Bracken’s blanket.</p><break time="500ms"/>
+<!-- p51 · tender -->
+<p><prosody rate="95%">Not the one he was wrapped in. They’d taken him to the ice-house, under the north wall, where they kept the dead in winter. His own. The old grey horse-blanket from the back of his stall in the Long Barn, that he’d slept on for two years. Grieve brought it. He came across the yard himself in the frost with it folded over his arm, the way he’d come to Merrow’s bed, and stood by Ide’s bed and laid it over her, on top of the others, and tucked it in at the sides with his big rough hands, very carefully.</prosody></p><break time="500ms"/>
+<!-- p52 · tender -->
+<p><prosody rate="95%">Ide put her face in it. It smelled of hound. Of straw, and the Long Barn, and him.</prosody></p><break time="500ms"/>
+<!-- p53 · Ide -->
+<p>“Thank you, Master Grieve,” she said.</p><break time="500ms"/>
+<!-- p54 · grief: gruff, quick · Grieve -->
+<p><prosody rate="94%">“I’m not a master,” said Grieve, and went away fast.</prosody></p><break time="800ms"/>
+<!-- p55 -->
+<p>That night, when Maren came after muck, there was a cat on the foot of the bed.</p><break time="500ms"/>
+<!-- p56 · quiet -->
+<p><prosody rate="95%">The cat nobody owned. The grey one, the size of a calf. Lying curled on the foot of Ide’s bed, on top of Bracken’s blanket, with its tail over its nose and its yellow eyes open. The infirmary woman had tried to move it twice, she said. It wouldn’t be moved. It had looked at her, and she’d stopped trying.</prosody></p><break time="500ms"/>
+<!-- p57 · Grieve (remembered) -->
+<p><prosody volume="-3dB">It picks,</prosody> Grieve had said.</p><break time="500ms"/>
+<!-- p58 -->
+<p>Maren sat in the chair by the bed and looked at the cat, and the cat looked back at her.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p59 -->
+<p>She went to the island on the second night.</p><break time="500ms"/>
+<!-- p60 -->
+<p>She sat by Ide’s bed till Ide slept, if it was sleep, shallow and shaking, with her face in the hound’s blanket. Then she got up, and took Turnip up the River Road to Redwatch in the dark, past midnight, in the frost. Ottery wasn’t there. She hadn’t sent for him. She took his punt anyway, from the boathouse steps, and poled it across the west channel alone, in the cold, with the thin ice cracking along the edges of the reeds like glass.</p><break time="500ms"/>
+<!-- p61 -->
+<p>She didn’t tell her mother. It was the first time.</p><break time="500ms"/>
+<!-- p62 -->
+<p>She came to the island and tied up in the reeds at the mouth of the west channel and went up the stream in the dark. She didn’t bring anything. She didn’t think about bringing anything. She went to her place on the bank, at fifteen paces, and sat down on the frozen grass.</p><break time="500ms"/>
+<!-- p63 · grief -->
+<p><prosody rate="94%">And cried.</prosody></p><break time="800ms"/>
+<!-- p64 -->
+<p>She hadn’t cried on the island since the first night, on the pier, with her arm torn open, and then only for Pell’s sword. Not in the tower, after the stream. Not in the stream with the foot on her chest. She’d been very careful. She’d sat in the mud for two months with her hands open on her knees, not moving, not doing anything, being very careful.</p><break time="500ms"/>
+<!-- p65 · grief -->
+<p><prosody rate="94%">She wasn’t careful now. She sat on the frozen bank of the stream with her arms round her knees and her face in them and cried. For Ide in the end bed, shaking under a hound’s blanket. For Bracken lying on the landing on his side, letting go. For her father in the little room over the ferry-house, telling everyone what Fly liked so somebody would remember. For four days. For the Widow’s Frost on the morning they burned him. For all of it. She cried the way she hadn’t cried since she was fourteen. Out loud. With her mouth open. Like a child.</prosody></p><break time="800ms"/>
+<!-- p66 -->
+<p>She didn’t hear it come.</p><break time="500ms"/>
+<!-- p67 · awe -->
+<p><prosody rate="95%">When she lifted her head, it was there.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p68 -->
+<p>It had come out of the trees on the far side. She hadn’t heard it. She’d been crying too hard to hear anything. It was standing at the edge of the stream, on its side, in the starlight, with the frost on its mane, and it was looking at her.</p><break time="500ms"/>
+<!-- p69 -->
+<p>It had never seen her like this. She knew that. Two months, and it had only ever seen her one way. Still. Quiet. Careful. With her hands open on her knees.</p><break time="500ms"/>
+<!-- p70 -->
+<p>She looked at it through her tears. She couldn’t stop. She didn’t try.</p><break time="500ms"/>
+<!-- p71 -->
+<p>It looked at her.</p><break time="500ms"/>
+<!-- p72 · awe -->
+<p><prosody rate="95%">Then it stepped down into the stream.</prosody></p><break time="800ms"/>
+<!-- p73 · Maren (remembered) -->
+<p>She saw it. She saw it and didn’t understand it. In two months it had never once put a foot in the water toward her. It had stood on its own bank, and drunk from its own side, and lain down on its own grass. The stream was the fence. <prosody volume="-3dB">Keeping the fence.</prosody> She’d kept it. So had it.</p><break time="500ms"/>
+<!-- p74 · awe -->
+<p><prosody rate="95%">It came through the water. Slowly. The great paws going down into the black stream one after another and coming up again, with the water running off the fur. The cut chain on the collar dragged in the water behind it. It came across, all the way, and up the bank on her side. Her side. Where she’d never seen it stand.</prosody></p><break time="800ms"/>
+<!-- p75 -->
+<p>She didn’t move. She couldn’t have. She sat on the frozen grass with her arms round her knees and the tears running down her face and watched it come up her bank toward her, ten feet at the shoulder, in the starlight, with its pale eyes on her face.</p><break time="500ms"/>
+<!-- p76 -->
+<p>At ten paces it stopped, and lay down.</p><break time="500ms"/>
+<!-- p77 · awe: it has crossed -->
+<p><prosody rate="95%">On her side of the water. On her bank. Facing her. With its great forepaws stretched out on the frost and its head up and the collar on its neck. Not as close as the night it stood over her on the spit. But on her side. It had crossed.</prosody></p><break time="800ms"/>
+<!-- p78 -->
+<p>She looked at it.</p><break time="500ms"/>
+<!-- p79 -->
+<p>It looked at her.</p><break time="500ms"/>
+<!-- p80 -->
+<p>She couldn’t tell what it meant. Whether a thing like that could feel what she was feeling, or know what crying was, or care. Whether it had crossed because of her, or because it was cold, or because the grass on her side was better, or for no reason at all.</p><break time="500ms"/>
+<!-- p81 · tender -->
+<p><prosody rate="95%">She knew it had crossed.</prosody></p><break time="500ms"/>
+<!-- p82 · quiet -->
+<p><prosody rate="95%">She sat there until she stopped crying. It took a long time. The whole time, it lay at ten paces on her side of the stream and watched her, and the frost came down on both of them.</prosody></p><break time="500ms"/>
+<!-- p83 -->
+<p>When she got up at last to go, it stayed lying down. It watched her go. She felt it watching all the way down the stream to the reeds.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p84 -->
+<p>Ide’s mother came on the third day.</p><break time="500ms"/>
+<!-- p85 -->
+<p>From the south, from the farm with the litter in the barn, on a cart, as fast as a cart could go on frozen roads. A big red-faced farm woman in a shawl, who’d been sent for on the first day and had driven two days and a night without stopping. She came into the infirmary in the afternoon with her face set and went to the end bed by the window and looked down at her daughter.</p><break time="500ms"/>
+<!-- p86 -->
+<p>Ide didn’t know her.</p><break time="500ms"/>
+<!-- p87 -->
+<p>That was the third day. Maren remembered. Her father hadn’t known her on the third day. Or her mother. Or Tam. He’d lain with his eyes open, looking at the ceiling, and they’d talked to him and held his hands, and he hadn’t known any of them. He’d been somewhere else already. Following Fly.</p><break time="500ms"/>
+<!-- p88 · grief -->
+<p><prosody rate="94%">Ide lay under the blankets and Bracken’s blanket with her eyes open and her face very white and very still, and looked at the window, at the frost on the glass, and didn’t know anybody.</prosody></p><break time="800ms"/>
+<!-- p89 · tender: steady, low country voice -->
+<p><prosody rate="95%">Her mother sat by the bed and held her hand and talked to her. About the farm. About the litter, and the pup that sat on her foot. About her uncle, and her brothers, and the apple trees. On and on. In a steady country voice, low, as you’d talk to a frightened animal. Not crying. Maren watched her not cry, and thought she’d never seen anyone so brave.</prosody></p><break time="500ms"/>
+<!-- p90 -->
+<p>The cat lay on the foot of the bed.</p><break time="500ms"/>
+<!-- p91 · Ide's mother (remembered) -->
+<p>Maren sat on the other side, in the chair, because Ide’s mother had asked her to stay. <prosody volume="-3dB">You were her friend,</prosody> she’d said. <prosody volume="-3dB">She wrote about you. In her letters. The girl on the midden that Bracken let in.</prosody> And Maren had sat down, and stayed.</p><break time="500ms"/>
+<!-- p92 -->
+<p>At dusk, as the bell went on the wall for the change of watch, Ide turned her head.</p><break time="500ms"/>
+<!-- p93 · quiet -->
+<p><prosody rate="95%">Not toward her mother. Not toward Maren. Toward the door of the infirmary. As if she’d heard something. A hound’s nails on the stone floor outside, maybe. Or a voice calling her, from a long way off.</prosody></p><break time="500ms"/>
+<!-- p94 · tender -->
+<p><prosody rate="95%">She smiled.</prosody></p><break time="500ms"/>
+<!-- p95 · grief -->
+<p><prosody rate="94%">Then she stopped breathing.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p96 -->
+<p>They burned her on the shore at dawn the next day, with Bracken beside her, on one pyre, in the frost. The whole of Greyhold came down again, the way it had for Merrow. Grieve stood at the front in his clean shirt. Ide’s mother stood beside him, red-faced and dry-eyed, with her shawl round her.</p><break time="500ms"/>
+<!-- p97 · the chaplain -->
+<p>“They went together,” said the chaplain.</p><break time="500ms"/>
+<!-- p98 · anger: bitter · Maren (thought) -->
+<p>Maren stood at the back with her hands in her coat and didn’t want to hit him. She looked at the fire going up yellow against the grey river, with the frost white on every stone of the shore, and thought: <prosody rate="97%" volume="-4dB">no. They didn’t. He went first. And she followed him for three days. Alone. Cold. Not knowing anybody.</prosody></p><break time="500ms"/>
+<!-- p99 · Maren (thought) -->
+<p><prosody rate="97%" volume="-4dB">That’s not together.</prosody></p><break time="500ms"/>
+<!-- p100 -->
+<p>She thought of her father, telling everyone what Fly liked.</p><break time="500ms"/>
+<!-- p101 -->
+<p>She thought of a farmer in a burned field with three dragons round him that should have gone after their riders and hadn’t.</p><break time="500ms"/>
+<!-- p102 · Hale (remembered) -->
+<p>Hale had gone grey when he talked about it. <prosody volume="-3dB">Because he’s three.</prosody></p><break time="500ms"/>
+<!-- p103 · Maren (thought) -->
+<p><prosody rate="97%" volume="-4dB">What does that do to a man? To take three of those? All at once?</prosody></p><break time="500ms"/>
+<!-- p104 · grief · Maren (thought) -->
+<p><prosody rate="94%"><prosody rate="97%" volume="-4dB">I watched one. For three days. It was the worst thing I’ve ever seen.</prosody></prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p105 -->
+<p>Rowan was at the pyre. She stood a little apart from the others, in her grey coat, small and neat and still, and when the fire had burned down she went to Pell.</p><break time="500ms"/>
+<!-- p106 -->
+<p>Pell was on a crutch, with his torn leg bound. He had something in his hand. Maren saw it from the back of the crowd. A collar. Iron. Heavy. Pell had brought it back from the Redwatch landing, off the silent hound that Bracken had held by the throat, the one that didn’t go back to the barge, because Bracken hadn’t let go of it till the end. It had died on the landing. It had died without a sound.</p><break time="500ms"/>
+<!-- p107 -->
+<p>Pell held out the collar. Rowan took it.</p><break time="500ms"/>
+<!-- p108 -->
+<p>She looked at it in the grey light by the dying pyre. Turned it over in her hands. Looked at the inside of it, and the outside, and at a place on the iron where, Maren knew without seeing, there’d be a mark, small and neat, the way a smith marks his work.</p><break time="500ms"/>
+<!-- p109 · dread -->
+<p><prosody rate="96%">A ring of six dots.</prosody></p><break time="800ms"/>
+<!-- p110 · tension -->
+<p><prosody rate="97%">Rowan said nothing. She didn’t look surprised. She didn’t look anything at all.</prosody></p><break time="800ms"/>
+<!-- p111 -->
+<p>She took a little book out of her coat, and a pencil, and wrote something in it, there on the shore, standing by the pyre, with the collar in her other hand, and put the book away, and went up the landing steps to Greyhold, with the collar, and didn’t look back.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p112 -->
+<p>Haverly found her on the wall that night.</p><break time="500ms"/>
+<!-- p113 -->
+<p>She’d gone up there because she couldn’t sleep and couldn’t go to the island again, not tonight, not with Ottery’s punt back at the boathouse and her mother’s face at supper. She stood on the wall above the river gate in the cold, wrapped in her coat, looking upstream at the dark where the island was. Three leagues off. Too far to see. She looked anyway.</p><break time="500ms"/>
+<!-- p114 -->
+<p>He came along the wall walk from the gate with Kesh on his fist, hooded, and stopped beside her.</p><break time="500ms"/>
+<!-- p115 · quiet · Haverly -->
+<p><prosody rate="95%">“I’m sorry,” he said at last. “About Darrow.”</prosody></p><break time="500ms"/>
+<!-- p116 · Maren -->
+<p>“So am I.”</p><break time="500ms"/>
+<!-- p117 · Haverly -->
+<p>“She stood next to you. At drill. After Bracken let you in.”</p><break time="500ms"/>
+<!-- p118 · Maren -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p119 · reflective · Haverly -->
+<p><prosody rate="96%">“I noticed.” He looked at the river. “I should have stood next to you too. I didn’t. I’m sorry for that as well.”</prosody></p><break time="500ms"/>
+<!-- p120 -->
+<p>She had nothing to say to that.</p><break time="500ms"/>
+<!-- p121 · Haverly -->
+<p>“There’s something else,” said Haverly. “I thought you’d want to know. It’s stupid. Nobody believes it. But I was on the gate last night. At dusk. When…” He stopped. “When she went. And Kesh screamed.”</p><break time="500ms"/>
+<!-- p122 -->
+<p>Maren looked at him.</p><break time="500ms"/>
+<!-- p123 · Haverly -->
+<p>“She never screams on the gate. Not with her hood on. She can’t see. But she screamed. All at once. And I took her hood off, because I thought she was hurt. And she was looking up.” He lifted his face to the sky. “North. High. And I looked where she was looking. And there were three of them.”</p><break time="500ms"/>
+<!-- p124 · Maren -->
+<p>“Three what?”</p><break time="500ms"/>
+<!-- p125 · awe · Haverly -->
+<p><prosody rate="95%">“Dragons,” said Haverly. “Very high. In the moonlight. Over the river. One big, one middling, one small. Going north. Not fast. Like geese. Like they were going somewhere they’d been before.” He was quiet. “Callis saw them too. He says I’m mad. Wynn says he saw something but it was cloud.” He looked down at Kesh on his fist. “Kesh saw them. Kesh doesn’t lie.”</prosody></p><break time="800ms"/>
+<!-- p126 · Maren -->
+<p>“The farmer’s,” said Maren.</p><break time="500ms"/>
+<!-- p127 · Haverly -->
+<p>“The farmer’s.” Haverly nodded. “The same three I saw in the burned field from the ridge. I’d know them anywhere. The big bronze one. I’ll never forget her.” He looked north, up the dark river. “They say he went south. They say there’s a price on his head in Wendmouth. They say he’s walking north with a stolen mare.” He shook his head. “And last night, at dusk, while Darrow was dying, his three went over the river by the island. Going north.”</p><break time="500ms"/>
+<!-- p128 -->
+<p>Maren looked up at the sky. Clear. Cold. Stars. Nothing.</p><break time="500ms"/>
+<!-- p129 · Maren -->
+<p>“Why north?” she said.</p><break time="500ms"/>
+<!-- p130 · Haverly -->
+<p>“I don’t know.” Haverly put Kesh’s hood back on, gently. “Maybe he’s home. Maybe they’re looking for somewhere to winter. The Scarfell has caves.” He was quiet a moment. “Maybe they’re just going to see.”</p><break time="500ms"/>
+<!-- p131 · Maren -->
+<p>“See what?”</p><break time="500ms"/>
+<!-- p132 · quiet -->
+<p><prosody rate="95%">Haverly stood beside her on the wall, in the cold, with his hooded falcon on his fist, and looked up at the empty sky where three dragons had gone over at the hour Ide Darrow died, and she stood beside him, and neither of them went in for a long time.</prosody></p><break time="500ms"/>
+<!-- p133 · awe -->
+<p><prosody rate="95%">Upstream, three leagues off, in the dark, on an island in a river, something huge was lying on the frozen grass on the wrong side of a stream.</prosody></p><break time="800ms"/>
+<!-- p134 -->
+<p>She didn’t know if it was still there.</p><break time="500ms"/>
+<!-- p135 · tender -->
+<p><prosody rate="95%">She thought it might be.</prosody></p>
+<break time="1800ms"/>
+</voice>
+</speak>

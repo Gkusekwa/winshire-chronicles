@@ -1,0 +1,1977 @@
+{
+ "chapter": 60,
+ "title": "The Ford Again",
+ "pov": "Calder",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Sixty.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Ford Again.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The ford remembers. The Clan says so. Every weight that ever crossed it. Calder had stood in it once with Teo’s weight in his arms, heavy and cold, with the water going over both of them, and he’d thought:",
+   "mood": "reflective"
+  },
+  {
+   "seq": 4,
+   "para": "p1",
+   "type": "thought",
+   "text": "it’s learning this one now.",
+   "speaker": "Calder",
+   "mood": "reflective"
+  },
+  {
+   "seq": 5,
+   "para": "p1",
+   "type": "narration",
+   "text": "He’d thought about it in the winter, at night, on Bel’s floor. Whether a ford could remember the weight of a thing that was said in it. Whether words weighed anything at all.",
+   "mood": "reflective",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 6,
+   "para": "p2",
+   "type": "narration",
+   "text": "Hallam Brecc went to Varrhold on the hundred-and-twenty-seventh day and to Skarrow on the hundred-and-twenty-eighth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p3",
+   "type": "narration",
+   "text": "He came back to the Scar on the evening of the second day on Morrow, slow, tired, with the old black dragon’s wings beating long and heavy in the dusk, and climbed down off her neck, and sat on the rock with his stick across his knees, and was quiet a while before he spoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p4",
+   "type": "speech",
+   "text": "“They’ll come,”",
+   "speaker": "Hallam"
+  },
+  {
+   "seq": 9,
+   "para": "p4",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p5",
+   "type": "narration",
+   "text": "Calder had been sure they wouldn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p6",
+   "type": "speech",
+   "text": "“Both of them.”",
+   "speaker": "Hallam"
+  },
+  {
+   "seq": 12,
+   "para": "p6",
+   "type": "narration",
+   "text": "Hallam looked out over the dark valley toward the north."
+  },
+  {
+   "seq": 13,
+   "para": "p6",
+   "type": "speech",
+   "text": "“Arn said he’d come to hear the barley man say whatever it is he’s been carrying in his mouth all winter, and then he’d decide whether to drown him in the beck. Ulric said…”",
+   "speaker": "Hallam"
+  },
+  {
+   "seq": 14,
+   "para": "p6",
+   "type": "narration",
+   "text": "He stopped."
+  },
+  {
+   "seq": 15,
+   "para": "p6",
+   "type": "speech",
+   "text": "“Ulric said he’d told you once, when you’re ready to say it, you know where I am, and if you were ready, he’d be there.”",
+   "speaker": "Hallam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p7",
+   "type": "speech",
+   "text": "“And the truce?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p8",
+   "type": "speech",
+   "text": "“Under the old law. In the boy’s name. Twenty riders each, on their own banks. Nobody crosses the water but you.”",
+   "speaker": "Hallam",
+   "mood": "reflective"
+  },
+  {
+   "seq": 18,
+   "para": "p8",
+   "type": "narration",
+   "text": "Hallam leaned on his stick.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 19,
+   "para": "p8",
+   "type": "speech",
+   "text": "“And the ledges will sit on the hill. All eleven of us. As keepers. It’s not been done since Teo’s grandfather’s time. The bonded sit above a ford meeting, and if either side breaks the truce, the bonded come down on them.”",
+   "speaker": "Hallam",
+   "mood": "reflective"
+  },
+  {
+   "seq": 20,
+   "para": "p8",
+   "type": "narration",
+   "text": "He was quiet a moment.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 21,
+   "para": "p8",
+   "type": "speech",
+   "text": "“I told them both that. They both went very still.”",
+   "speaker": "Hallam",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p9",
+   "type": "speech",
+   "text": "“Will the others come? From the ledges?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p10",
+   "type": "speech",
+   "text": "“They’ll come.”",
+   "speaker": "Hallam"
+  },
+  {
+   "seq": 24,
+   "para": "p10",
+   "type": "narration",
+   "text": "Hallam looked at Morrow, lying on the rock behind him with her grey-edged head on her forelegs."
+  },
+  {
+   "seq": 25,
+   "para": "p10",
+   "type": "speech",
+   "text": "“For the law. It’s the only thing they’ve got left. It’s why they sat out the war.”",
+   "speaker": "Hallam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p11",
+   "type": "narration",
+   "text": "He got up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p12",
+   "type": "speech",
+   "text": "“The hundred-and-thirtieth day,”",
+   "speaker": "Hallam"
+  },
+  {
+   "seq": 28,
+   "para": "p12",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 29,
+   "para": "p12",
+   "type": "speech",
+   "text": "“At noon. The same hour the boy chose.”",
+   "speaker": "Hallam",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 30,
+   "para": "p13",
+   "type": "narration",
+   "text": "He told the dragons that night what he wanted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p14",
+   "type": "narration",
+   "text": "Nobody else. Only them, in the cave under the Scar, in the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p15",
+   "type": "speech",
+   "text": "“Lisska. You’ll be on the road from the Ram’s Head. From first light. High. Where nobody looks.”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 33,
+   "para": "p15",
+   "type": "narration",
+   "text": "He felt her listening."
+  },
+  {
+   "seq": 34,
+   "para": "p15",
+   "type": "speech",
+   "text": "“You’re looking for one man. You know his face. You saw it at Varrhold in the summer. In the lower stable.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p16",
+   "type": "bond",
+   "text": "The bucket man,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "very small",
+   "mood": "quiet"
+  },
+  {
+   "seq": 36,
+   "para": "p16",
+   "type": "narration",
+   "text": "said Lisska. Very small.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 37,
+   "para": "p16",
+   "type": "bond",
+   "text": "I don’t like him. I never liked him.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "very small",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p17",
+   "type": "speech",
+   "text": "“I know. If he comes up the road toward the ford, on his own, or with a few, you tell me. And Kharrak goes and takes him. Alive.”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 39,
+   "para": "p17",
+   "type": "narration",
+   "text": "He looked at Kharrak in the dark."
+  },
+  {
+   "seq": 40,
+   "para": "p17",
+   "type": "speech",
+   "text": "“Alive. Not a mark on him he can’t walk with. And brings him to the ford. And I’ll stand him in the water in front of both of them.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p18",
+   "type": "bond",
+   "text": "And if he doesn’t come?",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p19",
+   "type": "speech",
+   "text": "“Then I’ll say it anyway.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p20",
+   "type": "bond",
+   "text": "He’ll not come,",
+   "speaker": "Aurveth",
+   "listener": "Calder"
+  },
+  {
+   "seq": 44,
+   "para": "p20",
+   "type": "narration",
+   "text": "said Aurveth."
+  },
+  {
+   "seq": 45,
+   "para": "p20",
+   "type": "bond",
+   "text": "A man like that doesn’t come to see. He sends.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p21",
+   "type": "speech",
+   "text": "“Then we’ll see what he sends.”",
+   "speaker": "Calder",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 47,
+   "para": "p22",
+   "type": "narration",
+   "text": "He went down to the ford on the morning of the hundred-and-thirtieth day on Aurveth, with Kharrak beside him, and the sun coming up gold on the moor.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p23",
+   "type": "narration",
+   "text": "It was the same. He’d known it would be and it still went through him. The long slant of the Drover’s Way coming down off the moor to the water. The beck running wide and shallow over its smooth brown stones, high now with the thaw, loud, brown, fast. The alders leaning in from both banks, with their catkins out, yellow. On the slope above, where the shepherd’s shieling had stood, a black square of burned turf and fallen stone.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 49,
+   "para": "p24",
+   "type": "narration",
+   "text": "Further up, on the near side, the ford-house. Where they’d laid Teo out. Ulric’s men had burned that too, in the winter. Four black walls with the sky in them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p25",
+   "type": "narration",
+   "text": "Aurveth came down on the ridge above the near bank, behind the gorse, where she could see the whole of it. Kharrak beside her. Calder slid off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p26",
+   "type": "bond",
+   "text": "Lisska,",
+   "speaker": "Calder",
+   "listener": "Lisska"
+  },
+  {
+   "seq": 52,
+   "para": "p26",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p27",
+   "type": "bond",
+   "text": "I’m here.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "far off, thin"
+  },
+  {
+   "seq": 54,
+   "para": "p27",
+   "type": "narration",
+   "text": "Far off. Thin. Cold."
+  },
+  {
+   "seq": 55,
+   "para": "p27",
+   "type": "bond",
+   "text": "On the road. Above the Fellwood. I can see a long way.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "far off, thin"
+  },
+  {
+   "seq": 56,
+   "para": "p27",
+   "type": "narration",
+   "text": "A pause."
+  },
+  {
+   "seq": 57,
+   "para": "p27",
+   "type": "bond",
+   "text": "There’s nobody. Carts. Men walking. Not him.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "far off, thin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p28",
+   "type": "bond",
+   "text": "Keep looking.",
+   "speaker": "Calder",
+   "listener": "Lisska",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 59,
+   "para": "p29",
+   "type": "narration",
+   "text": "The ledges came at the middle of the morning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p30",
+   "type": "narration",
+   "text": "He heard them before he saw them. The sound of wings, a lot of wings, coming down out of the north from the Scarfell. Then they were over the ridge, low, in a long line: eleven dragons. Black and bronze and green and grey, old most of them, with their riders on their necks in plain grey cloaks, coming down the sky toward the ford one behind the other like geese.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 61,
+   "para": "p31",
+   "type": "narration",
+   "text": "Morrow first. Hallam on her neck, his white beard blowing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p32",
+   "type": "narration",
+   "text": "They came down on the slope above the ford, by the black ruin of the shieling, and folded their wings, and settled. In a row, along the hillside. Eleven of them, facing the water. Their riders slid down and stood beside them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p33",
+   "type": "narration",
+   "text": "Calder had never seen anything like it. Nobody living had, Hallam said. The bonded of the Clan sitting above a ford in a row, as keepers of a truce, the way their grandfathers’ grandfathers had.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 64,
+   "para": "p34",
+   "type": "narration",
+   "text": "He stood on the ridge and looked at them and something in his chest went tight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p35",
+   "type": "bond",
+   "text": "They came,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "very low",
+   "mood": "awe"
+  },
+  {
+   "seq": 66,
+   "para": "p35",
+   "type": "narration",
+   "text": "said Aurveth. Very low.",
+   "mood": "awe"
+  },
+  {
+   "seq": 67,
+   "para": "p35",
+   "type": "bond",
+   "text": "All of them. I thought they’d forgotten how.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "very low",
+   "mood": "awe",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 68,
+   "para": "p36",
+   "type": "narration",
+   "text": "Arn came at the hour before noon. Over the far rise, at a walk, on his black horse, with twenty riders behind him in grey with the red thread. Gorm Askell at his side. They came down the far slope of the Way to the edge of the alders, and stopped, and sat their horses on the far bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p37",
+   "type": "narration",
+   "text": "Arn looked up at the hillside, at the eleven dragons in their row.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p38",
+   "type": "narration",
+   "text": "Then he looked across the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p39",
+   "type": "narration",
+   "text": "Ulric came a few minutes after. Down the near slope, the long slant of the Way from the south, on the huge grey horse, with Sten Raske beside him and twenty riders in plain grey behind. He came down to the near bank, under the alders, a stone’s throw from where Teo had lain, and stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p40",
+   "type": "narration",
+   "text": "The two of them sat their horses on either bank of the ford with the beck running brown and loud between them, and looked at each other.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 73,
+   "para": "p41",
+   "type": "narration",
+   "text": "Neither spoke.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 74,
+   "para": "p42",
+   "type": "bond",
+   "text": "Lisska,",
+   "speaker": "Calder",
+   "listener": "Lisska"
+  },
+  {
+   "seq": 75,
+   "para": "p42",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p43",
+   "type": "bond",
+   "text": "Nobody,",
+   "speaker": "Lisska",
+   "listener": "Calder"
+  },
+  {
+   "seq": 77,
+   "para": "p43",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 78,
+   "para": "p43",
+   "type": "bond",
+   "text": "Still nobody. I’m sorry.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p44",
+   "type": "narration",
+   "text": "He went down the slope.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 80,
+   "para": "p45",
+   "type": "narration",
+   "text": "He walked into the beck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p46",
+   "type": "narration",
+   "text": "The water came up cold to his knees and pushed at him, hard. He went out over the smooth brown stones to the middle, to the place where the beck ran fastest. Then, without meaning to, a little toward the near bank. To the place under the alders. Where the water had gone over Teo’s back and round his shoulders and out past his hands, red.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 82,
+   "para": "p47",
+   "type": "narration",
+   "text": "He stood there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p48",
+   "type": "narration",
+   "text": "He looked at Arn on the far bank. At Ulric on the near. At the eleven dragons on the hillside, and Hallam Brecc in front of them with his stick. At the ridge behind, where Aurveth lay with her head up, and Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p49",
+   "type": "narration",
+   "text": "He’d never said anything to anybody’s face in his life. He’d told Bel, a month ago, that he thought he might start.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p50",
+   "type": "narration",
+   "text": "He opened his mouth.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 86,
+   "para": "p51",
+   "type": "speech",
+   "text": "“There was a man,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 87,
+   "para": "p51",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p52",
+   "type": "narration",
+   "text": "His voice didn’t carry. The beck was too loud. He saw Arn lean forward on his horse. He took a breath and said it again, louder, as you’d shout across a field.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p53",
+   "type": "speech",
+   "text": "“There was a man. At Varrhold. In the summer. In the lower stable.”",
+   "speaker": "Calder",
+   "how": "shouting across the beck",
+   "mood": "tension"
+  },
+  {
+   "seq": 90,
+   "para": "p53",
+   "type": "narration",
+   "text": "He made himself look at Ulric.",
+   "mood": "tension"
+  },
+  {
+   "seq": 91,
+   "para": "p53",
+   "type": "speech",
+   "text": "“One of yours. Taken on after the funeral. A coast drover, he said. He sat on a bucket at the stable door mending a halter, three paces from the foot of the cliff path. And when Teo said the ford out loud, the place and the hour, for anybody to hear…”",
+   "speaker": "Calder",
+   "how": "shouting across the beck",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 92,
+   "para": "p54",
+   "type": "narration",
+   "text": "He swallowed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p55",
+   "type": "speech",
+   "text": "“He was sitting there,”",
+   "speaker": "Calder",
+   "how": "loud"
+  },
+  {
+   "seq": 94,
+   "para": "p55",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 95,
+   "para": "p55",
+   "type": "speech",
+   "text": "“Three paces off. He heard it. And he was gone before light on the morning of the ford. And on his knife there’s a ring of six dots. The same six that’s on every chain and collar and coin the Restoration ever made.”",
+   "speaker": "Calder",
+   "how": "loud"
+  },
+  {
+   "seq": 96,
+   "para": "p55",
+   "type": "narration",
+   "text": "He turned to Arn."
+  },
+  {
+   "seq": 97,
+   "para": "p55",
+   "type": "speech",
+   "text": "“And six nights ago I saw him at the Ram’s Head. In the inn yard. With a ledger and a chest of silver. Paying out the swords.”",
+   "speaker": "Calder",
+   "how": "loud",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p56",
+   "type": "narration",
+   "text": "The beck went over the stones.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 99,
+   "para": "p57",
+   "type": "speech",
+   "text": "“His name’s Rook,”",
+   "speaker": "Calder",
+   "how": "loud"
+  },
+  {
+   "seq": 100,
+   "para": "p57",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 101,
+   "para": "p58",
+   "type": "narration",
+   "text": "Ulric’s face changed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p59",
+   "type": "narration",
+   "text": "Calder saw it. He was looking at Ulric when he said the name, and he saw the big closed face open, all at once.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 103,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Rook,”",
+   "speaker": "Ulric"
+  },
+  {
+   "seq": 104,
+   "para": "p60",
+   "type": "narration",
+   "text": "said Ulric.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p61",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p62",
+   "type": "speech",
+   "text": "“My drover.”",
+   "speaker": "Ulric",
+   "how": "voice gone strange"
+  },
+  {
+   "seq": 107,
+   "para": "p62",
+   "type": "narration",
+   "text": "Ulric’s voice had gone strange."
+  },
+  {
+   "seq": 108,
+   "para": "p62",
+   "type": "speech",
+   "text": "“The coast man. With the hands.”",
+   "speaker": "Ulric",
+   "how": "voice gone strange"
+  },
+  {
+   "seq": 109,
+   "para": "p62",
+   "type": "narration",
+   "text": "He stared at Calder across the water."
+  },
+  {
+   "seq": 110,
+   "para": "p62",
+   "type": "speech",
+   "text": "“He went before light. That morning. The morning of the ford. My steward came and told me he’d gone in the night with one of the horses. I thought he’d run off. I thought…”",
+   "speaker": "Ulric",
+   "how": "voice gone strange"
+  },
+  {
+   "seq": 111,
+   "para": "p62",
+   "type": "narration",
+   "text": "He stopped."
+  },
+  {
+   "seq": 112,
+   "para": "p62",
+   "type": "speech",
+   "text": "“I didn’t think anything. A drover gone with a horse. I sent nobody after him.”",
+   "speaker": "Ulric",
+   "how": "voice gone strange",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p63",
+   "type": "narration",
+   "text": "On the far bank, Arn hadn’t moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p64",
+   "type": "speech",
+   "text": "“Your man,”",
+   "speaker": "Arn"
+  },
+  {
+   "seq": 115,
+   "para": "p64",
+   "type": "narration",
+   "text": "said Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p65",
+   "type": "speech",
+   "text": "“My man.”",
+   "speaker": "Ulric"
+  },
+  {
+   "seq": 117,
+   "para": "p65",
+   "type": "narration",
+   "text": "Ulric turned his head and looked at his nephew."
+  },
+  {
+   "seq": 118,
+   "para": "p65",
+   "type": "speech",
+   "text": "“Taken on after the funeral. Raske took him on. On my word. I never…”",
+   "speaker": "Ulric"
+  },
+  {
+   "seq": 119,
+   "para": "p65",
+   "type": "narration",
+   "text": "He stopped again. His face had gone grey."
+  },
+  {
+   "seq": 120,
+   "para": "p65",
+   "type": "speech",
+   "text": "“I never once thought of him. Not once. All winter.”",
+   "speaker": "Ulric",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p66",
+   "type": "narration",
+   "text": "Arn sat on his black horse on the far bank and looked at his uncle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p67",
+   "type": "narration",
+   "text": "He didn’t speak. But his face was doing something Calder had never seen it do. Not at the ford in the autumn, with his hand in his brother’s blood. Not on the step of his father’s hall. It had stopped being a knife. It was listening.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 123,
+   "para": "p68",
+   "type": "narration",
+   "text": "Calder stood in the water between them and felt it. The thing he’d wanted. Both of them, at once, hearing it in the same breath, on either side of the water, with the beck going over the stones between them. Neither able to say it had been told to the other first. He felt it hold, as you feel a knot hold when you pull on it.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 124,
+   "para": "p69",
+   "type": "narration",
+   "text": "He opened his mouth to say the rest.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 125,
+   "para": "p70",
+   "type": "narration",
+   "text": "The first bolt took one of Ulric’s riders in the throat.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p71",
+   "type": "narration",
+   "text": "Calder heard it. A short flat thock, from somewhere up the far slope behind Arn. The rider went sideways off his horse into the shallows without a sound, and the horse reared.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p72",
+   "type": "narration",
+   "text": "Then the gorse on the far hillside was full of men.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p73",
+   "type": "narration",
+   "text": "Up the slope behind Arn’s riders. In the yellow gorse, among the rocks. Twenty, thirty, standing up all at once, with crossbows. In grey. With the red thread in their armbands. Calder saw it. He saw them stand up out of the gorse in Arn’s colours and lift their crossbows and loose, all together, down the slope, over Arn’s head, across the water, into Ulric’s riders on the near bank.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p74",
+   "type": "narration",
+   "text": "Men fell. Horses screamed. Raske’s horse went down in the shallows and Raske with it.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p75",
+   "type": "narration",
+   "text": "From behind Calder, from the gorse on the near slope, above Ulric, in the same breath, the same sound. Thock. Thock. Thock. He turned in the water. Men standing up in the gorse on the near hillside. Thirty. In plain grey. Ulric’s colours. Loosing down the slope, over Ulric’s head, across the water, into Arn’s riders on the far bank.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p76",
+   "type": "narration",
+   "text": "Both at once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p77",
+   "type": "narration",
+   "text": "He stood in the middle of the ford with the bolts going over him both ways and understood it in one terrible clear moment, as you understand a fall while you’re still falling.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 133,
+   "para": "p78",
+   "type": "narration",
+   "text": "Every man on the far bank had just seen men in plain grey shoot their fellows from Ulric’s side. Every man on the near bank had just seen men in red thread shoot theirs from Arn’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p79",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 135,
+   "para": "p79",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 136,
+   "para": "p79",
+   "type": "speech",
+   "text": "“No…”",
+   "speaker": "Calder",
+   "how": "anguished",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p80",
+   "type": "narration",
+   "text": "Arn was shouting. Ulric was shouting. Each of them, on his own bank, with his own men dying round him, shouting the other’s name. Arn wheeled his black horse with his sword out, and Calder saw his face, and it was a knife again. Worse.",
+   "mood": "action"
+  },
+  {
+   "seq": 138,
+   "para": "p80",
+   "type": "thought",
+   "text": "Truce. Under truce. In my brother’s name. At his ford.",
+   "speaker": "Arn",
+   "mood": "action"
+  },
+  {
+   "seq": 139,
+   "para": "p80",
+   "type": "narration",
+   "text": "Ulric was off his horse in the shallows, hauling at Raske, roaring.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p81",
+   "type": "narration",
+   "text": "Neither of them looked up at the gorse. They looked at each other.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 141,
+   "para": "p82",
+   "type": "narration",
+   "text": "On the slope above, the eleven dragons hadn’t moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p83",
+   "type": "narration",
+   "text": "He saw it. Eleven dragons, the bonded of the ledges, keepers of the truce, sitting on the hillside in their row by the black ruin of the shieling, with their heads up and their riders beside them, watching men in Clan grey shoot each other across the ford. And not moving.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 143,
+   "para": "p84",
+   "type": "narration",
+   "text": "They didn’t know what to do.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p85",
+   "type": "narration",
+   "text": "He saw it in the way they sat. In the riders’ faces. The old law."
+  },
+  {
+   "seq": 145,
+   "para": "p85",
+   "type": "remembered",
+   "text": "No bonded rider fights kin.",
+   "speaker": "Hallam"
+  },
+  {
+   "seq": 146,
+   "para": "p85",
+   "type": "narration",
+   "text": "They’d sat out the whole war for it. There in the gorse on both slopes were men in Clan grey, with the Clan’s own colours on their arms, and the law said those were kin. The law said you don’t come down on them. You don’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p86",
+   "type": "narration",
+   "text": "That was what it had been built for. He knew it as he stood there. Somebody had known about the law. Somebody had known the ledges would sit on the hill. Somebody had put Clan grey on sixty strangers and put them in the gorse on both slopes, so that when the bonded came to keep the truce they’d sit there and watch it break, and not move. Because it would look like kin.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 148,
+   "para": "p87",
+   "type": "thought",
+   "text": "Somebody heard,",
+   "speaker": "Calder",
+   "mood": "anger"
+  },
+  {
+   "seq": 149,
+   "para": "p87",
+   "type": "narration",
+   "text": "he thought.",
+   "mood": "anger"
+  },
+  {
+   "seq": 150,
+   "para": "p87",
+   "type": "thought",
+   "text": "He heard. I counted on it.",
+   "speaker": "Calder",
+   "mood": "anger"
+  },
+  {
+   "seq": 151,
+   "para": "p87",
+   "type": "narration",
+   "text": "He was in the water to his knees with the bolts going over his head.",
+   "mood": "anger"
+  },
+  {
+   "seq": 152,
+   "para": "p87",
+   "type": "thought",
+   "text": "I counted on it, and he heard, and he sent.",
+   "speaker": "Calder",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p88",
+   "type": "narration",
+   "text": "Behind him on the ridge, Aurveth stood up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 154,
+   "para": "p89",
+   "type": "narration",
+   "text": "Kharrak didn’t hesitate. Kharrak didn’t have a law.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p90",
+   "type": "narration",
+   "text": "He came off the ridge behind Calder with a roar that shook the alders and went straight down the near slope, low, over Ulric’s riders, into the gorse where the men in plain grey were standing with their crossbows. Calder heard him hit. He heard the men in the gorse scream. He felt the red tide go through him like a flood through a broken weir.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p91",
+   "type": "narration",
+   "text": "Aurveth went the other way. Over the ford, over Calder’s head, so low the wind of her wings knocked him to his knees in the water, and up the far slope over Arn’s head, into the gorse where the men in red thread were. He saw her come down among them like a falling hill.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p92",
+   "type": "narration",
+   "text": "And on the slope above, one of the eleven moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p93",
+   "type": "narration",
+   "text": "Morrow. The old black dragon with the grey at the edges of her scales. She came up off the hillside, heavy, slow, with Hallam Brecc on her neck, and he had his stick in his fist and was standing up on her back, shouting. Calder could hear him. Even over everything. An old man’s voice, high and cracked, shouting across the slope at the other ten.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p94",
+   "type": "speech",
+   "text": "“They’re not kin! They’re not kin! Look at them! They’re not Clan!”",
+   "speaker": "Hallam",
+   "how": "shouting, high and cracked",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p95",
+   "type": "narration",
+   "text": "Morrow went down the slope toward the far gorse.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p96",
+   "type": "narration",
+   "text": "And Calder, on his knees in the beck, saw the bolt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p97",
+   "type": "narration",
+   "text": "He’d always see it. One bolt, from the far gorse, from a man in red thread who’d turned when he saw the black dragon coming. A short flat flight, upward, across the slope. Hallam Brecc, standing on his dragon’s back with his stick in his fist, shouting, stopped shouting.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 163,
+   "para": "p98",
+   "type": "narration",
+   "text": "He folded over. Morrow, beneath him, in the same moment, stopped in the air as if she’d been struck too, and fell. Onto the hillside, and sliding, in a long black tumble of wings, down the slope through the gorse and the stones, onto the bank of the ford, into the edge of the water.",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 164,
+   "para": "p99",
+   "type": "narration",
+   "text": "It was over very fast after that.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p100",
+   "type": "narration",
+   "text": "The ten on the slope came down. All of them, when Morrow fell. They came down off the hillside into the gorse on both sides of the ford with a sound Calder had no word for, and the men in the gorse, the ones who were left, broke and ran. Up and over the ridges. Into the heather. Down the far side, where there must have been horses waiting, because by the time the dragons came up over the ridges after them they were gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p101",
+   "type": "narration",
+   "text": "And Arn was gone. And Ulric.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p102",
+   "type": "narration",
+   "text": "Calder didn’t see them go. He was on his knees in the water and then he was up and running through the ford toward the black shape at the edge of it, and by the time he looked up again the far bank was empty except for the dead, and Arn’s black horse going away over the far rise with Arn on it and his riders behind him, those that could ride. On the near bank, Ulric’s people were going too, back down the Way, at a run, carrying their hurt, and Ulric among them on foot, with Raske’s body over his shoulder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p103",
+   "type": "narration",
+   "text": "Each of them sure. Each of them going home certain of what he’d seen.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 169,
+   "para": "p104",
+   "type": "narration",
+   "text": "He could have shouted after them. He didn’t. There was nobody to shout to.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 170,
+   "para": "p105",
+   "type": "narration",
+   "text": "Hallam Brecc was lying on the stones at the edge of the ford with his head on Morrow’s foreleg.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p106",
+   "type": "narration",
+   "text": "The bolt was in his chest, high, on the left side, under the collarbone. Most of it. Only the flights showing. His cloak was soaked dark round it. He was alive. His eyes were open, pale and old, looking up at the alders with their yellow catkins against the sky.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 172,
+   "para": "p107",
+   "type": "narration",
+   "text": "Morrow lay beside him in the shallows with the water going over her tail. She wasn’t hurt that Calder could see. There was no bolt in her. She was lying with her great grey-edged head curled round, close to the old man’s, and her eyes were open, and she wasn’t moving at all.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 173,
+   "para": "p108",
+   "type": "narration",
+   "text": "Calder knelt down on the stones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p109",
+   "type": "speech",
+   "text": "“Farmer,”",
+   "speaker": "Hallam"
+  },
+  {
+   "seq": 175,
+   "para": "p109",
+   "type": "narration",
+   "text": "said Hallam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p110",
+   "type": "speech",
+   "text": "“Lie still.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p111",
+   "type": "speech",
+   "text": "“Shut up, farmer.”",
+   "speaker": "Hallam",
+   "how": "dry thread of a voice",
+   "mood": "humour"
+  },
+  {
+   "seq": 178,
+   "para": "p111",
+   "type": "narration",
+   "text": "Hallam’s voice was a dry thread.",
+   "mood": "humour"
+  },
+  {
+   "seq": 179,
+   "para": "p111",
+   "type": "speech",
+   "text": "“Sixty years I’ve done what I’m told. I’ll talk.”",
+   "speaker": "Hallam",
+   "how": "dry thread of a voice",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p112",
+   "type": "narration",
+   "text": "Calder took his hand. It was very cold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p113",
+   "type": "speech",
+   "text": "“They weren’t kin,”",
+   "speaker": "Hallam"
+  },
+  {
+   "seq": 182,
+   "para": "p113",
+   "type": "narration",
+   "text": "said Hallam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p114",
+   "type": "speech",
+   "text": "“No.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p115",
+   "type": "speech",
+   "text": "“Did you see? The others? They wouldn’t come down. Not till I fell.”",
+   "speaker": "Hallam",
+   "how": "weak"
+  },
+  {
+   "seq": 185,
+   "para": "p115",
+   "type": "narration",
+   "text": "His mouth moved."
+  },
+  {
+   "seq": 186,
+   "para": "p115",
+   "type": "speech",
+   "text": "“The law. All our lives. And somebody used it like a… like a knife, and put it in us, and we sat there and let him.”",
+   "speaker": "Hallam",
+   "how": "weak"
+  },
+  {
+   "seq": 187,
+   "para": "p115",
+   "type": "narration",
+   "text": "His eyes moved to Calder’s face."
+  },
+  {
+   "seq": 188,
+   "para": "p115",
+   "type": "speech",
+   "text": "“Who?”",
+   "speaker": "Hallam",
+   "how": "weak",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p116",
+   "type": "speech",
+   "text": "“Rook,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 190,
+   "para": "p116",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 191,
+   "para": "p116",
+   "type": "speech",
+   "text": "“Or whoever Rook works for.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p117",
+   "type": "narration",
+   "text": "Hallam looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p118",
+   "type": "speech",
+   "text": "“Then tell them,”",
+   "speaker": "Hallam",
+   "how": "weak"
+  },
+  {
+   "seq": 194,
+   "para": "p118",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p119",
+   "type": "narration",
+   "text": "Calder didn’t answer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p120",
+   "type": "speech",
+   "text": "“Tell them.”",
+   "speaker": "Hallam",
+   "how": "weak",
+   "mood": "tender"
+  },
+  {
+   "seq": 197,
+   "para": "p120",
+   "type": "narration",
+   "text": "Hallam’s hand tightened on his, very weakly.",
+   "mood": "tender"
+  },
+  {
+   "seq": 198,
+   "para": "p120",
+   "type": "speech",
+   "text": "“Both. Don’t you… carry it any more. You’ve carried it all winter, like a stone in your coat, and look.”",
+   "speaker": "Hallam",
+   "how": "weak",
+   "mood": "tender"
+  },
+  {
+   "seq": 199,
+   "para": "p120",
+   "type": "narration",
+   "text": "He coughed. Something came up with it, dark.",
+   "mood": "tender"
+  },
+  {
+   "seq": 200,
+   "para": "p120",
+   "type": "speech",
+   "text": "“Tell them. Again. And again. Every one of them. Write it down if you have to. Nail it on a door. That’s what they do.”",
+   "speaker": "Hallam",
+   "how": "weak",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p121",
+   "type": "speech",
+   "text": "“I will.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p122",
+   "type": "speech",
+   "text": "“You’ll not.”",
+   "speaker": "Hallam",
+   "how": "weak",
+   "mood": "tender"
+  },
+  {
+   "seq": 203,
+   "para": "p122",
+   "type": "narration",
+   "text": "The old pale eyes held his.",
+   "mood": "tender"
+  },
+  {
+   "seq": 204,
+   "para": "p122",
+   "type": "speech",
+   "text": "“You’ll want to. And then you’ll stand somewhere with it in your mouth, and think, what if I’m wrong.”",
+   "speaker": "Hallam",
+   "how": "weak",
+   "mood": "tender"
+  },
+  {
+   "seq": 205,
+   "para": "p122",
+   "type": "narration",
+   "text": "He breathed.",
+   "mood": "tender"
+  },
+  {
+   "seq": 206,
+   "para": "p122",
+   "type": "speech",
+   "text": "“You’re not wrong, farmer. Not about this.”",
+   "speaker": "Hallam",
+   "how": "weak",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 207,
+   "para": "p123",
+   "type": "narration",
+   "text": "Kharrak came down onto the stones at the edge of the ford a little after.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p124",
+   "type": "narration",
+   "text": "He had something in his jaws. He laid it on the stones at Calder’s feet. A man. Dead. One of the shooters from the near slope, from the gorse above Ulric’s bank. He’d been in plain grey. Ulric’s colours. The armband was still on his arm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p125",
+   "type": "narration",
+   "text": "Kharrak put one claw under the edge of the man’s cloak and turned it back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p126",
+   "type": "narration",
+   "text": "Under the Clan grey was a shirt of fine-woven Wendmouth linen. On his feet were boots of oiled black leather, with brass eyelets for the laces. And round his neck, on a string, under the shirt, an iron ring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p127",
+   "type": "narration",
+   "text": "Calder turned it over in his fingers. Plain iron. The kind the boys in the camp fields wore on strings.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p128",
+   "type": "narration",
+   "text": "There was something else on the string with it. A strip of tin as long as his finger, scratched with old letters, with the Tide Council’s stamp pressed into the back. He’d seen a board of them at the Ram’s Head."
+  },
+  {
+   "seq": 213,
+   "para": "p128",
+   "type": "written",
+   "text": "A word against bolts. Warranted."
+  },
+  {
+   "seq": 214,
+   "para": "p128",
+   "type": "narration",
+   "text": "The bolt that had killed the man had gone in a hand’s breadth under it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p129",
+   "type": "bond",
+   "text": "Proof,",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "how": "very low"
+  },
+  {
+   "seq": 216,
+   "para": "p129",
+   "type": "narration",
+   "text": "said Kharrak. Very low."
+  },
+  {
+   "seq": 217,
+   "para": "p129",
+   "type": "bond",
+   "text": "You wanted proof.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "how": "very low",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p130",
+   "type": "narration",
+   "text": "Calder looked up at the empty banks of the ford. The far rise where Arn had gone. The near slope where Ulric had gone. The ten dragons of the ledges coming back over the ridges one by one to land on the hillside above, and look down at Morrow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p131",
+   "type": "narration",
+   "text": "There was nobody left to show it to.",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 220,
+   "para": "p132",
+   "type": "narration",
+   "text": "Hallam died in the late afternoon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p133",
+   "type": "narration",
+   "text": "He spoke no more. He lay with his head on Morrow’s foreleg and his hand in Calder’s and looked up at the alders, and the sun went over, and the shadows came down the far slope across the water. Once he lifted his other hand a little and put it on Morrow’s face, beside him. Then he put it down. A while after that, he stopped breathing.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 222,
+   "para": "p134",
+   "type": "narration",
+   "text": "Calder didn’t let go of his hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p135",
+   "type": "narration",
+   "text": "Morrow didn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p136",
+   "type": "narration",
+   "text": "The ten on the hillside stayed where they were. They sat in their row in the gorse with their riders standing beside them, and looked down at the old black dragon lying in the edge of the ford with the dead man’s head on her leg, and none of them came down. They knew. They’d known since the bolt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 225,
+   "para": "p137",
+   "type": "narration",
+   "text": "One life between two.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 226,
+   "para": "p138",
+   "type": "narration",
+   "text": "He’d heard it all his life. He’d seen it, once, as a boy: an old man in Harrow’s End whose cow-beast died, and three days later the old man died too, in his chair by the fire, and nobody was surprised. He’d heard Ada say it. He’d heard Teo say it, about Sigrun and Aurveth, laughing."
+  },
+  {
+   "seq": 227,
+   "para": "p138",
+   "type": "remembered",
+   "text": "They’ll go together, those two. You watch.",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 228,
+   "para": "p139",
+   "type": "narration",
+   "text": "Morrow lay in the water beside Hallam Brecc with her eyes open, and it had already begun. He could see it in her eyes. Something going out of them, slowly.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 229,
+   "para": "p140",
+   "type": "narration",
+   "text": "He couldn’t hear her. She wasn’t his. But Aurveth could. He felt it through the bronze mark: Aurveth, on the ridge behind him, hearing something from the old black dragon that he couldn’t hear, and lowering her head to the ground, all the way down, the way she had lowered it to the ice at midwinter.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 230,
+   "para": "p141",
+   "type": "bond",
+   "text": "She says go,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "grief"
+  },
+  {
+   "seq": 231,
+   "para": "p141",
+   "type": "narration",
+   "text": "said Aurveth.",
+   "mood": "grief"
+  },
+  {
+   "seq": 232,
+   "para": "p141",
+   "type": "bond",
+   "text": "She says she’ll stay with him. She says it won’t be long. She says thank you for staying.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 233,
+   "para": "p142",
+   "type": "narration",
+   "text": "He stayed anyway, until the sun was down behind the far rise.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 234,
+   "para": "p143",
+   "type": "narration",
+   "text": "At dusk he flew down Hollow Beck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 235,
+   "para": "p144",
+   "type": "narration",
+   "text": "He didn’t know why. He told Aurveth he wanted to see where they went. The dead. There’d been a lot of them in the water. Arn’s riders and Ulric’s, the ones that had fallen in the shallows, and their horses. He’d seen the beck take them. It was in spring flood, brown and loud and fast, and it had picked them up off the stones and turned them over and carried them away downstream, the way it carried everything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 236,
+   "para": "p145",
+   "type": "narration",
+   "text": "So he followed it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 237,
+   "para": "p146",
+   "type": "narration",
+   "text": "Aurveth went low, above the water, in the dusk, with Kharrak behind. Down the long glen from the ford, past the black square of the burned shieling and the slope where the ledges sat. Down off the moor. Down past the hollow where the Drover’s Way went off to Harrow’s End. The beck getting bigger, browner, louder, fed by every stream off the hills.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 238,
+   "para": "p147",
+   "type": "narration",
+   "text": "And in it, now and then, a shape.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 239,
+   "para": "p148",
+   "type": "narration",
+   "text": "A horse, on its side, legs stiff, going round in a slow eddy and away. A cloak, spread out on the water, grey, with a thread of red. A man, face down, arms out, as if he’d lain down to drink.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 240,
+   "para": "p149",
+   "type": "narration",
+   "text": "He watched them go by under him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 241,
+   "para": "p150",
+   "type": "narration",
+   "text": "Down past Harrow’s End. Past the black ruin of the mill. Past the Wheel. Out at last, at the mouth, at the Eelweir, where Fisk’s little landing was and the beck came out into the Wend in a long brown tongue that went out into the river and turned south with it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 242,
+   "para": "p151",
+   "type": "narration",
+   "text": "And on the Wend, across the mouth of the beck, there was a line of boats.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 243,
+   "para": "p152",
+   "type": "narration",
+   "text": "He saw them in the last of the light. Six, eight. Long boats, river-watch boats, at anchor across the current, a little way out from the Saltreach shore, where the brown water of the beck came out into the river. Each one with a lantern at the bow. Each one with men in it. In grey. Sitting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 244,
+   "para": "p153",
+   "type": "narration",
+   "text": "Knights. From the other bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 245,
+   "para": "p154",
+   "type": "narration",
+   "text": "They were sitting in their boats at anchor in the dusk, with their lanterns, across the mouth of Hollow Beck, watching. Watching what came down. The cloaks. The horses. The men face down in the brown water, coming out of the beck into the Wend one by one and turning south with the river, past the boats, close enough to touch with an oar.",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 246,
+   "para": "p155",
+   "type": "narration",
+   "text": "Nobody in the boats moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 247,
+   "para": "p156",
+   "type": "narration",
+   "text": "Calder went over them, low, on Aurveth, in the dusk. He saw their faces turn up. The lanterns. A man in the bow of the nearest boat standing up, staring. Another reaching for something in the bottom of the boat, a crossbow, and the man beside him putting a hand on his arm, and he stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 248,
+   "para": "p157",
+   "type": "narration",
+   "text": "They watched him go over. They watched the dead go past. They sat in their boats with their lanterns and their oars shipped, a stone’s throw from the Saltreach shore, and came no nearer. They didn’t cross.",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 249,
+   "para": "p158",
+   "type": "bond",
+   "text": "They won’t,",
+   "speaker": "Aurveth",
+   "listener": "Calder"
+  },
+  {
+   "seq": 250,
+   "para": "p158",
+   "type": "narration",
+   "text": "said Aurveth."
+  },
+  {
+   "seq": 251,
+   "para": "p158",
+   "type": "bond",
+   "text": "They never do. They sat on the bank in the autumn and watched your village burn.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 252,
+   "para": "p159",
+   "type": "speech",
+   "text": "“I know.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 253,
+   "para": "p160",
+   "type": "bond",
+   "text": "They’ll go back and tell someone what they saw.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 254,
+   "para": "p161",
+   "type": "speech",
+   "text": "“Yes,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 255,
+   "para": "p161",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 256,
+   "para": "p162",
+   "type": "narration",
+   "text": "He looked down at the dead going out into the river. At the boats. At the island, a league off in the dusk, dark, between the two banks, with the brown flood going past it on both sides.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 257,
+   "para": "p163",
+   "type": "remembered",
+   "text": "Tell them,",
+   "speaker": "Hallam"
+  },
+  {
+   "seq": 258,
+   "para": "p163",
+   "type": "narration",
+   "text": "Hallam had said."
+  },
+  {
+   "seq": 259,
+   "para": "p163",
+   "type": "remembered",
+   "text": "Again. And again. Every one of them.",
+   "speaker": "Hallam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 260,
+   "para": "p164",
+   "type": "narration",
+   "text": "He put his hand inside his coat. The two chains were there, the five links and the eight, with the little crossed hammers on the inside of the last link of each. Now a third thing, beside them, small and cold: an iron ring on a string, from round a dead man’s neck, under a shirt of Wendmouth linen.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 261,
+   "para": "p165",
+   "type": "speech",
+   "text": "“Home,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 262,
+   "para": "p165",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 263,
+   "para": "p166",
+   "type": "narration",
+   "text": "Aurveth turned east, up the beck, toward the Scar, and the boats and the lanterns and the dead went away behind them into the dark.",
+   "pause_after_ms": 500
+  }
+ ]
+}

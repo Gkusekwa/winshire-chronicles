@@ -1,0 +1,1709 @@
+{
+ "chapter": 64,
+ "title": "The Staithe",
+ "pov": "Calder",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Sixty-four.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Staithe.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "They came down the river lane from Upper Rush in the middle of the night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "Bel with the handcart, piled with everything that would go on it: bedding, the good pot, Joss’s harness, the clock that didn’t go, the box with the papers from the farm. Pip and Nan walking on either side of it with a hand on the rail each, because Bel had said so, too sleepy to argue. After the first league they were asleep on top of the bedding. Ada behind, in her best shawl, with a bundle on her back and her stick. Wren beside her.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "And the greys.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Calder led them. Mabbin first, then Sorrel, then Old Grey, each on a halter, roped head to tail. Three dray-beasts in a line in the dark, eight feet at the shoulder and more, the biggest beasts in the Marches, walking down the river lane in the mud with their great hooves going down soft and heavy, thud, thud, and their breath going up white. Old Grey at the back with his head low. Following the rope. Following anything.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "Calder walked at Mabbin’s head in Joss’s long carter’s coat with the cape on the shoulders.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "Far above, out of sight, he felt Lisska. High over the river, in the last of the dark, keeping watch."
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "bond",
+   "text": "Nobody on the lane,",
+   "speaker": "Lisska",
+   "listener": "Calder"
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 11,
+   "para": "p6",
+   "type": "bond",
+   "text": "Nobody on the road. Nobody in the fields. Some lights at the Staithe. Not many.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p7",
+   "type": "bond",
+   "text": "Stay high.",
+   "speaker": "Calder",
+   "listener": "Lisska",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p8",
+   "type": "bond",
+   "text": "I’m high. I’m so high I’m cold.",
+   "speaker": "Lisska",
+   "listener": "Calder"
+  },
+  {
+   "seq": 14,
+   "para": "p8",
+   "type": "narration",
+   "text": "A pause."
+  },
+  {
+   "seq": 15,
+   "para": "p8",
+   "type": "bond",
+   "text": "Is Wren all right?",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p9",
+   "type": "narration",
+   "text": "He looked back. Wren was walking beside Ada with her hand in her grandmother’s, and her face up. Looking at the sky. At the place where there was nothing to see.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p10",
+   "type": "bond",
+   "text": "She’s looking for you,",
+   "speaker": "Calder",
+   "listener": "Lisska"
+  },
+  {
+   "seq": 18,
+   "para": "p10",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p11",
+   "type": "bond",
+   "text": "I know,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tender"
+  },
+  {
+   "seq": 20,
+   "para": "p11",
+   "type": "narration",
+   "text": "said Lisska.",
+   "mood": "tender"
+  },
+  {
+   "seq": 21,
+   "para": "p11",
+   "type": "bond",
+   "text": "I can see her.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 22,
+   "para": "p12",
+   "type": "narration",
+   "text": "It was the best part of six leagues to the Staithe by the river lane. Past the burned bottom of Harrow’s End, with nobody in it. Past the Eelweir, where there was a light in Fisk’s door and Fisk standing in it with his pipe, who lifted his hand as they went by and didn’t come out. Past the long reach below the village where the lane ran close along the water and you could see the island, upriver, dark, with the stump of its tower against the first grey of the sky.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p13",
+   "type": "narration",
+   "text": "Wren looked at it all the way along that reach.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p14",
+   "type": "speech",
+   "text": "“Is she there?”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 25,
+   "para": "p14",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 26,
+   "para": "p14",
+   "type": "speech",
+   "text": "“The lion-woman?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p15",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 28,
+   "para": "p15",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 29,
+   "para": "p15",
+   "type": "speech",
+   "text": "“Not any more.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p16",
+   "type": "speech",
+   "text": "“How do you know?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p17",
+   "type": "narration",
+   "text": "He didn’t. He thought of Lisska on the crag two nights ago, watching the island at dusk.",
+   "mood": "dread"
+  },
+  {
+   "seq": 32,
+   "para": "p17",
+   "type": "remembered",
+   "text": "Lights in the trees. Hounds. A lot of men in the reeds on the far side. And then her and the cat running. Running east. And the cat went in the water.",
+   "speaker": "Lisska",
+   "mood": "dread"
+  },
+  {
+   "seq": 33,
+   "para": "p17",
+   "type": "narration",
+   "text": "She’d lost them after that, in the dark. She’d been frightened, coming back. She hadn’t wanted to talk about it.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 34,
+   "para": "p18",
+   "type": "speech",
+   "text": "“Lisska saw,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 35,
+   "para": "p18",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p19",
+   "type": "narration",
+   "text": "Wren looked at him sideways. She didn’t ask anything else.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 37,
+   "para": "p20",
+   "type": "narration",
+   "text": "They came to the Staithe as the sky went grey, and it was nearly empty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p21",
+   "type": "narration",
+   "text": "He’d been there a hundred times. Every autumn of his life, with the barley, down the lane on the wain to sell to the Hearthmere factors who came over on the ferry. It had always been full. Carts, beasts, men shouting prices, Greta’s smoke-house going and the smell of eels over everything, and old Tolly sitting on his upturned boat by the weirs telling anybody who’d listen that the river was lower than it had been in his grandfather’s day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p22",
+   "type": "narration",
+   "text": "Tolly was on his boat. Greta’s smoke-house was going. A few families stood on the timber jetty with their bundles, waiting. The Penhallows’ cousins from Low Ashby, and a man with two goats he didn’t know. That was all. And a woman from down the coast with a tray on a strap round her neck, going up and down the jetty selling crossing-charms. Strips of tin with a word scratched on, a copper each, warranted. The Low Ashby family had bought two and the man with the goats had bought one for each goat.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p23",
+   "type": "narration",
+   "text": "Across the water, on its hill, was Greyhold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p24",
+   "type": "narration",
+   "text": "He’d seen it from the Scar, and from Aurveth’s back, high up. He’d stood here every autumn of his life and never looked at it. He looked now. It was right there, across a river a long bowshot wide. The grey walls going round the hill. The scaffolds on the river wall, and the new timber hoardings along the top of it, raw and yellow in the dawn. The engines on the river towers, black, with their long arms. And the smoke. A dozen black threads going straight up out of the yards inside the walls into the still air, and the sound of hammering coming across the water, faint and steady. Tink. Tink. Tink.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 42,
+   "para": "p25",
+   "type": "narration",
+   "text": "Below the walls, at the water’s edge, a stone jetty, and a little house with a red door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p26",
+   "type": "narration",
+   "text": "The ferry was coming across from it on the rope.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 44,
+   "para": "p27",
+   "type": "narration",
+   "text": "He’d known Liss Ashdown for twenty years, as you know the ferrywoman. He’d bought from her factors and sold to them, and stood on this jetty while she brought the boat in, and nodded, and she’d nodded back, and now and then she’d said"
+  },
+  {
+   "seq": 45,
+   "para": "p27",
+   "type": "remembered",
+   "text": "Fenn,",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 46,
+   "para": "p27",
+   "type": "narration",
+   "text": "and he’d said"
+  },
+  {
+   "seq": 47,
+   "para": "p27",
+   "type": "remembered",
+   "text": "Mistress Ashdown,",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 48,
+   "para": "p27",
+   "type": "narration",
+   "text": "and that was all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p28",
+   "type": "narration",
+   "text": "She brought the ferry in to the timber jetty and made it fast and stood up in the stern and looked at the people waiting. A broad strong woman with a weathered face and grey hair bound up in a scarf, in a man’s coat with the sleeves turned back. She looked at the families with their bundles. At the man with the goats. At Bel and the handcart and the children. At the three greys.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p29",
+   "type": "narration",
+   "text": "At him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p30",
+   "type": "narration",
+   "text": "She looked at him longer than she needed to. He saw her know him. He saw it go across her face: the face on the trading houses’ bill at the Millbrook jetty, and twenty years of barley, and a man in a dead man’s carter’s coat with three dray-beasts on a rope.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 52,
+   "para": "p31",
+   "type": "narration",
+   "text": "She didn’t say anything about it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p32",
+   "type": "speech",
+   "text": "“Beasts after,”",
+   "speaker": "Liss",
+   "mood": "humour"
+  },
+  {
+   "seq": 54,
+   "para": "p32",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "humour"
+  },
+  {
+   "seq": 55,
+   "para": "p32",
+   "type": "speech",
+   "text": "“One a crossing. The big one last. People first. Mind the rail.”",
+   "speaker": "Liss",
+   "mood": "humour"
+  },
+  {
+   "seq": 56,
+   "para": "p32",
+   "type": "narration",
+   "text": "She looked at the strip of tin in the Low Ashby woman’s fist, and at the charm-seller, who’d stopped at the end of the jetty.",
+   "mood": "humour"
+  },
+  {
+   "seq": 57,
+   "para": "p32",
+   "type": "speech",
+   "text": "“And you can throw those in. Nothing said on this bank lands on that one. There’s a river in the way. Every child on the Wend knows it.”",
+   "speaker": "Liss",
+   "mood": "humour"
+  },
+  {
+   "seq": 58,
+   "para": "p32",
+   "type": "narration",
+   "text": "The charm-seller went back up the jetty. Liss watched her go. She looked at Bel.",
+   "mood": "humour"
+  },
+  {
+   "seq": 59,
+   "para": "p32",
+   "type": "speech",
+   "text": "“You’ll be the Fenns from Upper Rush. Bel. I knew your Joss. Bought his oats.”",
+   "speaker": "Liss",
+   "mood": "humour"
+  },
+  {
+   "seq": 60,
+   "para": "p32",
+   "type": "narration",
+   "text": "She paused.",
+   "mood": "humour"
+  },
+  {
+   "seq": 61,
+   "para": "p32",
+   "type": "speech",
+   "text": "“I heard.”",
+   "speaker": "Liss",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p33",
+   "type": "narration",
+   "text": "Bel nodded. She couldn’t speak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p34",
+   "type": "speech",
+   "text": "“Get in,”",
+   "speaker": "Liss",
+   "how": "more gently"
+  },
+  {
+   "seq": 64,
+   "para": "p34",
+   "type": "narration",
+   "text": "said Liss, more gently."
+  },
+  {
+   "seq": 65,
+   "para": "p34",
+   "type": "speech",
+   "text": "“Children in the middle. You too, mother.”",
+   "speaker": "Liss",
+   "how": "more gently"
+  },
+  {
+   "seq": 66,
+   "para": "p34",
+   "type": "narration",
+   "text": "This to Ada."
+  },
+  {
+   "seq": 67,
+   "para": "p34",
+   "type": "speech",
+   "text": "“Sit on the eel box. It’s clean, more or less.”",
+   "speaker": "Liss",
+   "how": "more gently",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 68,
+   "para": "p35",
+   "type": "narration",
+   "text": "Wren didn’t get in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p36",
+   "type": "narration",
+   "text": "She stood on the jetty in front of the ferrywoman with her bundle in her arms and looked up at her. Calder saw her do it. He knew that look. It was the look she’d had on the ladder the night of the verse, and at the paddock gate with Old Grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p37",
+   "type": "speech",
+   "text": "“My papa has three dragons,”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 71,
+   "para": "p37",
+   "type": "narration",
+   "text": "said Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p38",
+   "type": "narration",
+   "text": "Bel said,"
+  },
+  {
+   "seq": 73,
+   "para": "p38",
+   "type": "speech",
+   "text": "“Wren…”",
+   "speaker": "Bel",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p39",
+   "type": "narration",
+   "text": "Liss looked down at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p40",
+   "type": "speech",
+   "text": "“Has he,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 76,
+   "para": "p40",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p41",
+   "type": "speech",
+   "text": "“Lisska’s green. She’s the smallest. She can see a sparrow on a roof a league off. She’s up there now.”",
+   "speaker": "Wren",
+   "how": "eager, tumbling",
+   "mood": "humour"
+  },
+  {
+   "seq": 78,
+   "para": "p41",
+   "type": "narration",
+   "text": "Wren pointed at the sky.",
+   "mood": "humour"
+  },
+  {
+   "seq": 79,
+   "para": "p41",
+   "type": "speech",
+   "text": "“You can’t see her. She’s too high. She’s watching to see we’re all right. And there’s Kharrak, he’s red, and he’s cross all the time but he’s not really, and he burned a camp because they had Old Grey.”",
+   "speaker": "Wren",
+   "how": "eager, tumbling",
+   "mood": "humour"
+  },
+  {
+   "seq": 80,
+   "para": "p41",
+   "type": "narration",
+   "text": "She pointed at the grey on his rope.",
+   "mood": "humour"
+  },
+  {
+   "seq": 81,
+   "para": "p41",
+   "type": "speech",
+   "text": "“And Aurveth. She’s the biggest. She’s three hundred years old and she’s only got one eye and she flew in the old wars.”",
+   "speaker": "Wren",
+   "how": "eager, tumbling",
+   "mood": "humour"
+  },
+  {
+   "seq": 82,
+   "para": "p41",
+   "type": "narration",
+   "text": "She took a breath.",
+   "mood": "humour"
+  },
+  {
+   "seq": 83,
+   "para": "p41",
+   "type": "speech",
+   "text": "“And my papa talks to them. Out loud. And they answer. In his head. And he tells me what they say, and I make him say it twice.”",
+   "speaker": "Wren",
+   "how": "eager, tumbling",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p42",
+   "type": "narration",
+   "text": "The jetty had gone quiet. The family from Low Ashby was staring. The man with the goats had taken a step back.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 85,
+   "para": "p43",
+   "type": "narration",
+   "text": "Liss Ashdown looked at Wren, and then up at Calder, standing at Mabbin’s head with the halter in his hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p44",
+   "type": "narration",
+   "text": "She crouched down on the jetty, so her face was level with Wren’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p45",
+   "type": "speech",
+   "text": "“Twice,”",
+   "speaker": "Liss",
+   "mood": "tender"
+  },
+  {
+   "seq": 88,
+   "para": "p45",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Twice,”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 90,
+   "para": "p46",
+   "type": "narration",
+   "text": "said Wren."
+  },
+  {
+   "seq": 91,
+   "para": "p46",
+   "type": "speech",
+   "text": "“So I don’t forget.”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p47",
+   "type": "speech",
+   "text": "“That’s sensible,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 93,
+   "para": "p47",
+   "type": "narration",
+   "text": "said Liss."
+  },
+  {
+   "seq": 94,
+   "para": "p47",
+   "type": "speech",
+   "text": "“I do that with the river. Tell me again. The green one. What’s her name?”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p48",
+   "type": "narration",
+   "text": "So Wren told her again. All of it. Twice. Liss crouched on the timber jetty at Tolly’s Staithe in the dawn with the ferry waiting and listened to every word, nodding, asking things.",
+   "mood": "tender"
+  },
+  {
+   "seq": 96,
+   "para": "p48",
+   "type": "speech",
+   "text": "How big? What colour are her eyes? Does she like apples?",
+   "speaker": "Liss",
+   "mood": "tender"
+  },
+  {
+   "seq": 97,
+   "para": "p48",
+   "type": "narration",
+   "text": "And Wren answered everything, and Calder stood at the mare’s head and listened to his daughter tell the ferrywoman about his dragons, and couldn’t have stopped her if he’d tried, and didn’t try.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p49",
+   "type": "narration",
+   "text": "When she’d done, Liss stood up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p50",
+   "type": "speech",
+   "text": "“Get in, then,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 100,
+   "para": "p50",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 101,
+   "para": "p50",
+   "type": "speech",
+   "text": "“Wren. In the middle with your aunt.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p51",
+   "type": "narration",
+   "text": "Wren got in.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 103,
+   "para": "p52",
+   "type": "narration",
+   "text": "They loaded the first crossing. People. The family from Low Ashby, the man with the goats, Bel and Pip and Nan and the handcart lashed to the rail, Ada on the eel box with her stick across her knees. Wren in the middle with her bundle, standing up so she could see.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p53",
+   "type": "narration",
+   "text": "Calder handed the handcart’s ropes across. Liss took them and lashed them to the rail with quick hard knots.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p54",
+   "type": "narration",
+   "text": "She didn’t look at him while she did it. She looked at the knots. She said, quite low, not to him, not to anyone:",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p55",
+   "type": "speech",
+   "text": "“My daughter came to the ferry house last night.”",
+   "speaker": "Liss",
+   "how": "quite low",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p56",
+   "type": "narration",
+   "text": "He held the rope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p57",
+   "type": "speech",
+   "text": "“Came down the landing steps from the school with her chest on her back. In her shirt. They’d had her grey off her.”",
+   "speaker": "Liss",
+   "how": "low",
+   "mood": "grief"
+  },
+  {
+   "seq": 109,
+   "para": "p57",
+   "type": "narration",
+   "text": "Liss pulled a knot tight.",
+   "mood": "grief"
+  },
+  {
+   "seq": 110,
+   "para": "p57",
+   "type": "speech",
+   "text": "“Cast out. Yesterday morning, at the river gate, in front of everybody. For loving a monster, they’re saying in Millbrook.”",
+   "speaker": "Liss",
+   "how": "low",
+   "mood": "grief"
+  },
+  {
+   "seq": 111,
+   "para": "p57",
+   "type": "narration",
+   "text": "She pulled the next.",
+   "mood": "grief"
+  },
+  {
+   "seq": 112,
+   "para": "p57",
+   "type": "speech",
+   "text": "“She’d say it was for not being able to say a thing she didn’t mean.”",
+   "speaker": "Liss",
+   "how": "low",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 113,
+   "para": "p58",
+   "type": "narration",
+   "text": "He stood on the jetty with the rope in his hands and didn’t move.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 114,
+   "para": "p59",
+   "type": "remembered",
+   "text": "The knight with the lion. Over the water. A woman. Greyhold.",
+   "speaker": "Brask",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p60",
+   "type": "narration",
+   "text": "He looked at Liss Ashdown’s face. Broad. Weathered. The eyes in it. He’d seen them before, on somebody else, through Lisska’s eyes, from two leagues off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p61",
+   "type": "remembered",
+   "text": "Like you were a pair.",
+   "speaker": "Lisska",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p62",
+   "type": "speech",
+   "text": "“Your daughter,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 118,
+   "para": "p62",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p63",
+   "type": "speech",
+   "text": "“Maren.”",
+   "speaker": "Liss",
+   "how": "very steadily",
+   "mood": "tender"
+  },
+  {
+   "seq": 120,
+   "para": "p63",
+   "type": "narration",
+   "text": "Liss tied off the last knot. She looked up at him at last.",
+   "mood": "tender"
+  },
+  {
+   "seq": 121,
+   "para": "p63",
+   "type": "speech",
+   "text": "“She sat on my floor all night by the fire with that chest beside her and didn’t say a word. And when I went to put a blanket on her she had something out of it in her lap. Holding it.”",
+   "speaker": "Liss",
+   "how": "very steadily",
+   "mood": "tender"
+  },
+  {
+   "seq": 122,
+   "para": "p63",
+   "type": "narration",
+   "text": "She looked at him very steadily.",
+   "mood": "tender"
+  },
+  {
+   "seq": 123,
+   "para": "p63",
+   "type": "speech",
+   "text": "“A scale. Green. As broad as a round shield.”",
+   "speaker": "Liss",
+   "how": "very steadily",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p64",
+   "type": "narration",
+   "text": "He couldn’t speak.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p65",
+   "type": "speech",
+   "text": "“I don’t know where she got it,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 126,
+   "para": "p65",
+   "type": "narration",
+   "text": "said Liss."
+  },
+  {
+   "seq": 127,
+   "para": "p65",
+   "type": "speech",
+   "text": "“I didn’t ask. She’d not have told me.”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 128,
+   "para": "p65",
+   "type": "narration",
+   "text": "She straightened up."
+  },
+  {
+   "seq": 129,
+   "para": "p65",
+   "type": "speech",
+   "text": "“Mind your hands. We’re casting off.”",
+   "speaker": "Liss",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 130,
+   "para": "p66",
+   "type": "narration",
+   "text": "He stood on the timber jetty and watched the first crossing go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p67",
+   "type": "narration",
+   "text": "The ferry went out on the rope across the brown water, with Liss at the stern hauling hand over hand on the guide-rope and the boat swinging a little on the current. The handcart. The children in the middle. Ada on the eel box. Wren standing up, looking back at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p68",
+   "type": "narration",
+   "text": "Then past him. Up, at the sky over the Staithe, where Lisska was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p69",
+   "type": "bond",
+   "text": "She’s looking for you,",
+   "speaker": "Calder",
+   "listener": "Lisska"
+  },
+  {
+   "seq": 134,
+   "para": "p69",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p70",
+   "type": "bond",
+   "text": "I know,",
+   "speaker": "Lisska",
+   "listener": "Calder"
+  },
+  {
+   "seq": 136,
+   "para": "p70",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 137,
+   "para": "p70",
+   "type": "bond",
+   "text": "I’m here.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p71",
+   "type": "narration",
+   "text": "The ferry reached the stone jetty under the walls of Greyhold. He saw them get out. Small figures, at that distance. Bel lifting Nan. Ada with her stick. Somebody on the ferry-house steps, coming down to the jetty to help.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p72",
+   "type": "narration",
+   "text": "He couldn’t see who. It was too far.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p73",
+   "type": "narration",
+   "text": "He didn’t ask Lisska.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 141,
+   "para": "p74",
+   "type": "narration",
+   "text": "The ferry came back for the beasts.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p75",
+   "type": "narration",
+   "text": "Mabbin first. She didn’t want to. She stood at the end of the jetty with her forefeet on the edge of the planks and looked at the boat moving under her and blew, and wouldn’t. Calder talked to her. Low, steady, nothing, the way his father had talked to cows. Liss stood in the boat and didn’t hurry him. After a while Mabbin put one foot down onto the ferry’s boards, and then the other, and then she was in, standing in the middle of the flat boat with her legs braced and her ears going, and the whole ferry down in the water to the rail with the weight of her.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p76",
+   "type": "narration",
+   "text": "Liss looked at the waterline and took her across.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p77",
+   "type": "narration",
+   "text": "Sorrel next. Easier. She’d seen her mother go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p78",
+   "type": "narration",
+   "text": "Then Old Grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p79",
+   "type": "narration",
+   "text": "He went in the way he went everywhere now. Head low. Following the rope. He walked down the jetty behind Calder and onto the ferry as if it were a road, and stood in the middle of it where Calder put him, and didn’t look at the water at all.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 147,
+   "para": "p80",
+   "type": "narration",
+   "text": "Liss looked at him for a while. At his head. At his eyes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Bound,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 149,
+   "para": "p81",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p82",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p83",
+   "type": "speech",
+   "text": "“The Restoration’s.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p84",
+   "type": "speech",
+   "text": "“They had him in a camp. They made him kill my sister’s husband.”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 153,
+   "para": "p84",
+   "type": "narration",
+   "text": "Calder kept his hand on the grey’s neck."
+  },
+  {
+   "seq": 154,
+   "para": "p84",
+   "type": "speech",
+   "text": "“I brought him home. He’s turned his head twice. To the girl’s voice.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p85",
+   "type": "narration",
+   "text": "Liss looked at the grey’s empty eyes a moment longer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p86",
+   "type": "speech",
+   "text": "“Then she’d best keep talking,”",
+   "speaker": "Liss",
+   "mood": "tender"
+  },
+  {
+   "seq": 157,
+   "para": "p86",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p87",
+   "type": "narration",
+   "text": "She bent to the rope.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 159,
+   "para": "p88",
+   "type": "narration",
+   "text": "He spoke before she cast off. He’d been thinking how to all the while the beasts were crossing, and hadn’t found it, and said it anyway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p89",
+   "type": "speech",
+   "text": "“Mistress Ashdown.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p90",
+   "type": "narration",
+   "text": "She looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p91",
+   "type": "speech",
+   "text": "“Your daughter,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 163,
+   "para": "p91",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 164,
+   "para": "p91",
+   "type": "speech",
+   "text": "“Will you tell her something?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p92",
+   "type": "narration",
+   "text": "Liss straightened. She stood in the stern of the ferry with her hand on the guide-rope and Old Grey standing huge in the middle of the boat behind her, and waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p93",
+   "type": "speech",
+   "text": "“A girl called Wren says hello,”",
+   "speaker": "Calder",
+   "mood": "tender"
+  },
+  {
+   "seq": 167,
+   "para": "p93",
+   "type": "narration",
+   "text": "said Calder.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p94",
+   "type": "narration",
+   "text": "Liss’s face did something. He didn’t know what.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p95",
+   "type": "speech",
+   "text": "“Wren says hello,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 170,
+   "para": "p95",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p96",
+   "type": "speech",
+   "text": "“She asked me to. To tell her. If I ever could.”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 172,
+   "para": "p96",
+   "type": "narration",
+   "text": "He looked at the water."
+  },
+  {
+   "seq": 173,
+   "para": "p96",
+   "type": "speech",
+   "text": "“She made me promise.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p97",
+   "type": "speech",
+   "text": "“I’ll tell her,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 175,
+   "para": "p97",
+   "type": "narration",
+   "text": "said Liss. She looked at him."
+  },
+  {
+   "seq": 176,
+   "para": "p97",
+   "type": "speech",
+   "text": "“And you? Anything from you?”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p98",
+   "type": "narration",
+   "text": "He stood on the jetty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p99",
+   "type": "narration",
+   "text": "He thought of narrow boot-prints in the snow on the island, a woman’s, going down to a fire. A long pressed hollow a few strides off. A scale in her lap all night by the fire. A collar struck off at dawn, three blows, tink, tink, tink, across two leagues of river. A lion swimming the east channel in the dusk while she stood on the shore and watched it go.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p100",
+   "type": "narration",
+   "text": "He couldn’t think of anything he had the right to say.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p101",
+   "type": "speech",
+   "text": "“Tell her…”",
+   "speaker": "Calder",
+   "how": "halting",
+   "mood": "tender"
+  },
+  {
+   "seq": 181,
+   "para": "p101",
+   "type": "narration",
+   "text": "He stopped. He tried again.",
+   "mood": "tender"
+  },
+  {
+   "seq": 182,
+   "para": "p101",
+   "type": "speech",
+   "text": "“Tell her the old one says it’s the cat from the bridge. The one on the tower steps. That people used to bow to.”",
+   "speaker": "Calder",
+   "how": "halting",
+   "mood": "tender"
+  },
+  {
+   "seq": 183,
+   "para": "p101",
+   "type": "narration",
+   "text": "He felt foolish.",
+   "mood": "tender"
+  },
+  {
+   "seq": 184,
+   "para": "p101",
+   "type": "speech",
+   "text": "“She’ll not know what it means. Tell her anyway.”",
+   "speaker": "Calder",
+   "how": "halting",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p102",
+   "type": "narration",
+   "text": "Liss looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p103",
+   "type": "speech",
+   "text": "“The cat from the bridge,”",
+   "speaker": "Liss",
+   "mood": "tender"
+  },
+  {
+   "seq": 187,
+   "para": "p103",
+   "type": "narration",
+   "text": "she said, as if she were putting it away somewhere safe.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p104",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p105",
+   "type": "speech",
+   "text": "“I’ll tell her.”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 190,
+   "para": "p105",
+   "type": "narration",
+   "text": "She pulled the slip-knot and the ferry swung out off the jetty on the rope."
+  },
+  {
+   "seq": 191,
+   "para": "p105",
+   "type": "speech",
+   "text": "“Go home, Fenn. There’s nobody watching from that wall who’d not like to have you.”",
+   "speaker": "Liss",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 192,
+   "para": "p106",
+   "type": "narration",
+   "text": "He didn’t go home. He stood on the jetty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p107",
+   "type": "narration",
+   "text": "The ferry went out across the brown water on the rope with the great grey beast standing in the middle of it and Liss hauling at the stern. Halfway across, it swung on the current, and Old Grey braced his legs and the boat steadied, and went on. Liss didn’t look back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p108",
+   "type": "narration",
+   "text": "On the stone jetty under the walls, they were waiting. He could see them now, a little. Bel with the children. Ada. Mabbin and Sorrel, held by somebody on the ferry-house steps. And Wren, at the very end of the jetty, on her own, looking up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p109",
+   "type": "bond",
+   "text": "Calder,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "very small",
+   "mood": "tender"
+  },
+  {
+   "seq": 196,
+   "para": "p109",
+   "type": "narration",
+   "text": "said Lisska. Very small.",
+   "mood": "tender"
+  },
+  {
+   "seq": 197,
+   "para": "p109",
+   "type": "bond",
+   "text": "Can I?",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "very small",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p110",
+   "type": "narration",
+   "text": "He knew what she meant.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p111",
+   "type": "narration",
+   "text": "He looked at the walls. At the scaffolds and the engines. At the men on the hoardings, small at this distance, stopped in their work, looking down at the ferry coming over with a dray-beast in it. At the knights of the gate on the river tower.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p112",
+   "type": "bond",
+   "text": "Once,",
+   "speaker": "Calder",
+   "listener": "Lisska"
+  },
+  {
+   "seq": 201,
+   "para": "p112",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 202,
+   "para": "p112",
+   "type": "bond",
+   "text": "Low and fast. And then up. Don’t stop. Don’t land.",
+   "speaker": "Calder",
+   "listener": "Lisska",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p113",
+   "type": "narration",
+   "text": "She came down out of the sky.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p114",
+   "type": "narration",
+   "text": "He’d never seen her come down so fast. She came out of the grey cloud over the Staithe like a hawk dropping on a hen-run, green, folding her wings, and opened them at the last moment over the water and went along the river low, so low her wingtips left two lines on the surface, between the Staithe and the stone jetty, past the ferry, past the end of the stone jetty where a small girl stood with her arms up.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p115",
+   "type": "narration",
+   "text": "On her left horn, as she went by, something blue. A ribbon. Washed. Tied in a bow.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p116",
+   "type": "narration",
+   "text": "Wren screamed. Not frightened. The other kind.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 207,
+   "para": "p117",
+   "type": "narration",
+   "text": "Then Lisska went up. Straight up, past the river towers, past the engines, so close to the walls of Greyhold that the men on the hoardings threw themselves flat, up and up into the cloud, and was gone.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p118",
+   "type": "narration",
+   "text": "On the ferry, halfway across, Liss Ashdown had stopped hauling. She stood in the stern with both hands on the guide-rope, with her head tipped back and her mouth open, looking up at the place in the cloud where the green dragon had gone.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 209,
+   "para": "p119",
+   "type": "narration",
+   "text": "She looked back across the water at him on the timber jetty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p120",
+   "type": "narration",
+   "text": "He lifted his hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p121",
+   "type": "narration",
+   "text": "After a moment she lifted hers.",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 212,
+   "para": "p122",
+   "type": "narration",
+   "text": "He stood on the Staithe jetty until the ferry reached the stone jetty under the walls and Old Grey walked off it onto the stones as if it were a road, and Bel took his rope, and Wren ran to him and put her arms round as much of his foreleg as she could reach.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p123",
+   "type": "narration",
+   "text": "He turned and walked back up the river lane, north, toward the Scar.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p124",
+   "type": "narration",
+   "text": "Old Tolly was on his upturned boat by the weirs. He’d watched all of it. He looked at Calder going by in the carter’s coat and took his pipe out of his mouth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p125",
+   "type": "speech",
+   "text": "“River’s lower than it was in my grandfather’s day,”",
+   "speaker": "Tolly",
+   "mood": "humour"
+  },
+  {
+   "seq": 216,
+   "para": "p125",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p126",
+   "type": "speech",
+   "text": "“Yes,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 218,
+   "para": "p126",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p127",
+   "type": "narration",
+   "text": "He walked on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p128",
+   "type": "bond",
+   "text": "Is she across?",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "out of breath"
+  },
+  {
+   "seq": 221,
+   "para": "p128",
+   "type": "narration",
+   "text": "said Lisska, from somewhere high and far off, out of breath."
+  },
+  {
+   "seq": 222,
+   "para": "p128",
+   "type": "bond",
+   "text": "Is Wren across? I didn’t look. I was going too fast.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "out of breath",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p129",
+   "type": "bond",
+   "text": "She’s across.",
+   "speaker": "Calder",
+   "listener": "Lisska",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p130",
+   "type": "bond",
+   "text": "Did she see me?",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 225,
+   "para": "p131",
+   "type": "narration",
+   "text": "He thought of the scream at the end of the stone jetty. The arms round the grey’s foreleg.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 226,
+   "para": "p132",
+   "type": "bond",
+   "text": "She saw you,",
+   "speaker": "Calder",
+   "listener": "Lisska",
+   "mood": "tender"
+  },
+  {
+   "seq": 227,
+   "para": "p132",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  }
+ ]
+}

@@ -1,243 +1,244 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<speak version="1.0" xml:lang="en-GB">
-  <!-- AI CUE: TITLE: clear and composed; give the heading room. Do not perform as narrative prose. -->
-  <p><s>Chapter 2: Across the River</s></p><break time="700ms"/>
-  <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>His mother had a saying for every weather, and none of them were any use.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Red smoke at morning, the Clan's in mourning. She said that one in the doorway with her shawl pulled tight, looking north to where the smoke from Varrhold lay along the hills like a stain on a sleeve. It had been lying there three days. Everyone in Harrow's End knew what it meant. Haldor Varr was dead, and the Clan was burning him slowly, the way they burned chiefs, so the smoke could be seen in every valley he had ever taxed.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"It's a poor rhyme," Calder said.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"It's an old one." Ada Fenn went back in to the fire. "Old ones don't have to be good. They have to be true."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>On the Saltreach bank of the Wend they say the river was put there to keep the knights off, and that it has done a fair job of it. The farms on that side are older than the kingdom they belong to, if a league of port-cities with no king can be called a kingdom, which on the river it always is, and most of them have never seen a tax collector, because Saltreach keeps its collectors in the port-cities on the coast, a long way south, where the money is. What the Marches farmers pay, they pay to the Clan. Grain at harvest, wool at shearing, a calf when the hold asks for one. In return the Clan keeps the sellswords out of the valley and the dragons off the sheep, mostly, and nobody has to think too hard about whether that's a fair arrangement or the other kind.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>Calder Fenn had never thought about it at all. He had paid the dues every year since his father died, the same as his father had. It was cheaper than thinking.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Wren was at the table with her porridge, eating it the way she did everything, one careful edge at a time.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Will they burn him all week?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Till the new moon," said Ada. "Then they scatter him on Coldtarn."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Why the new moon?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Because it isn't the full one."</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Wren thought about this and decided to let it go, which was new. She was nine. Last year she'd have followed it all the way down. She had her mother's habit of going quiet when she was storing something, and Calder had stopped trying to guess what she did with it all.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Davy Garrow says there'll be a war," she said.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Davy Garrow is ten."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Ten and a half. He says the uncle wants the hold and the sons want the hold, and when two lots want the same thing you get a war." She licked her spoon. "He says the uncle's the best fighter in the Clan, so he'll win."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Eat."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Will he?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>Calder pulled his boots on. They were still damp from yesterday and would be damp tomorrow. "Whoever gets the hold," he said, "the barley still needs cutting. And Bramble's foot still needs seeing to. And you've still got porridge."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She looked at him over the bowl, a long, level look that was entirely Senna's. Then she ate the porridge.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The cow had an abscess in her hoof and no opinions about the Clan. He liked her for it. Ada had said her cow-words over the foot two mornings running, which worked about one time in three, and this was not one of the three, so now it was the knife.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>He had Bramble tied short to the ring in the byre wall and her off-hind foot up on his knee, and he was talking to her the whole time because she liked that, and because his father had talked to cows and Calder had never found a reason to stop. "There," he told her. "That's the bad bit. Hold still. Hold still, you great soft lump. Nobody's cutting anything off you that you'll miss."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She leaned on him. She was very good at leaning. He had the knife in and the muck coming out, and was feeling quite pleased with both of them, when the light went.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Cloud came slowly. This was a hand closing over the yard.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Bramble screamed, the long, cracked, outraged bellow of a cow who has been lied to, and kicked, and put him flat on his back in the byre muck with the knife still in his fist.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He lay there and looked up through the open half of the roof.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>They were low. Lower than he'd ever seen them come over the farms. Seven of them, black against the white sky, going south-west from the hills toward the river, and he could see the plates along their bellies and the shine on the nearest one's claws, folded up neat as a sleeping dog's. They went over without a sound. Then the wind of them came down a moment later, all at once, and every loose thing in the yard went flying, the hens and the straw and Wren's washing off the line.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Calder got up on one elbow and watched them reach the Wend and turn, all seven together, and follow it south, past the trees of the Old Ruin's island, along the border, toward the grey smudge on the far bank that was Greyhold.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Well," he told the cow. "There goes the harvest."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Bramble looked at him with deep dislike.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He knew what it was. Everyone over forty would know. When a Clan chief died, the Clan flew the border, the whole length of the Marches, once, on the third day. It was meant to be a mourning. It was also meant to remind everyone on both banks, and especially the knights, that a dead chief didn't mean a weak Clan. Calder's father had seen it done for Haldor's father. He'd said the dragons had come over so low that you could have hit one with a thrown stone, if you'd wanted to die that particular way.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Seven, though. His father had said three.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Calder wiped his hand on his trousers, which did nothing, and went to get Wren's washing out of the plum tree.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>In the afternoon he took the last of the old barley to the mill, because Hob had sent twice for it, and because the mill was where you went if you wanted to hear things without being seen to want to.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Harrow's End was thirty-one houses, a mill, a shrine to the gods at the crossroads, and one long argument about water that had been running since before anyone could remember. The houses were river stone at the bottom and tarred timber at the top, with turf on the roofs that the goats got onto every spring. Hollow Beck ran down through the middle of it from the Scarfell, fast and brown, and turned Hob's wheel, and went on into the Wend opposite the Old Ruin, where nobody went. The wheel had a charm-tag nailed to its hub that Hob had paid a Wendmouth contract-man two silver for, warranted, and it squealed exactly as it always had.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>There were eight men at the mill and none of them were grinding anything.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Seven," Hob was saying when Calder came in with the sack. "Seven. For a funeral."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"It's a big funeral."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"It's a big hint, is what it is." Hob took the sack off Calder without looking at it and weighed it with one hand and named a price that was an insult. Calder nodded. Hob was the miller; his prices were how he said hello. "That's Ulric showing the sons how many dragons he can put in the air. Three of those were his own riders. I'd swear to it."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"You'd swear to anything," said old Garrow.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Then it's the sons showing Ulric. Either way." Hob slapped the sack down. "Somebody's counting."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>They argued it like weather. Ulric Varr, the old chief's brother, the best warrior the Clan had, with more men in his hall than his brother ever had in his. Everyone had always said Ulric should have been chief and then everyone had always said it quietly. Arn, the elder son, who had his father's name in his favour and his father's temper against him. Teo, the younger, who had come through Harrow's End at lambing two springs ago with a dozen riders and a hangover, and had stayed three days to help pull lambs because, he said, he'd never done it, and everyone in the village had liked him for it, and been a little ashamed of liking him.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Teo'll keep the peace between them," said Garrow's son. "He's the only one both sides listen to."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Teo's twenty."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Ulric was twenty once."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Ulric was never twenty. He was born forty and holding an axe."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>They laughed. Calder laughed too, a little behind the rest.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"What about you, Fenn?" said Hob. "Where's your money, for the hold?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>He thought about it. "Whoever's buying barley."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"That's not an answer."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"It's the one I've got."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Hob gave him a look that said he'd expected nothing better, and paid him short by two coppers, and Calder let him. On the way out he stopped at the crossroads shrine, as everybody did, and put one of the coppers he had left in the bowl. Some days it was for the gods. Some days it was for whoever emptied the bowl. He'd never asked which, because he didn't want to know.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>After supper Wren wanted the song.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>She was too old for it and they both knew it and Ada sang it anyway, sitting by the fire with her hands in her lap. Calder sat on the other side with a harness across his knees that didn't need mending and mended it.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Ada had a thin voice that had once been better. It didn't matter. She'd sung this one so often that the tune carried itself, low and slow and going somewhere sad without being in any hurry to get there.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Before the six there was one, and the one was Winshire, and the old ones walked it unbound by water and by fire.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>The old ones went up into the light, and the one fell into six, and the last great beast lay down below to sleep in stone and dark.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Hush now, the last one's sleeping. Hush now, you'll wake it if you weep. It sleeps under all of us, sleeping, till the six are one again.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>The fire ticked. Somewhere outside a goat complained about the roof.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Who were the old ones?" said Wren. She knew. She asked anyway. It was part of the song.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"The gods." Ada didn't look up. "Before they went into the light. They walked about like you or me, the old women say, only bigger, and nobody could tell them where to go."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"That's what unbound means."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"That's what unbound means. Which is more than I can say for you. Bed."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"And the last great beast?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Sleeps."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Where?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Under somewhere." Ada smiled a little at the fire. "That's the point of a song, love. You don't find out."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"What happens when the six are one again?"</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>Ada didn't answer that one. She never did. She sang the last verse faster than the others, Calder had noticed years ago, as you walk faster past a dog you don't know, and when Wren asked about it she always found something that needed doing. Tonight it was the kettle.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Calder put Wren to bed in the loft, under the eaves where the warm from the fire collected, and she was asleep before he'd got the blanket straight. He stood there a while. She slept with her fists up by her face like a baby, still, at nine. Senna had slept like that.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He went down and out to check the byre, because he always did, and because he wanted the air.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>That was when he saw the fire.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>It was upriver, north, past the bend. A dull orange smear on the bottom of the cloud. Then, while he watched, a second one beside it. Then a third, small and sharp, further back from the water.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Upper Rush.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>He stood with his hand on the byre door and did nothing for a long breath, which was the thing he always did, and which had kept him alive and out of trouble for thirty-two years. Then he thought of Bel.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He was running before he'd decided to.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>It was two leagues up the river lane to Upper Rush. He'd never run it before. By the time he got there his chest was a fist and there were four other men from Harrow's End strung out behind him on the lane with lanterns, Garrow and his son and Hob, of all people, and one of the Tanner boys, and the fires had mostly done what fires do.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Upper Rush was four farms in a hollow above the river. Two of the barns were gone, just gone, black ribs standing up in a red glow, and the third was going, and there was no point in water. People stood around in their nightclothes in the yard of the nearest farm, holding things they'd grabbed without thinking. A woman with a clock. A boy with one boot.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>Bel was in the middle of them, filthy to the elbows, with her husband Joss beside her and their two little ones wrapped together in one blanket at her feet. She saw Calder and her face went through about five things and landed on angry, which was how he knew she was all right.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"You ran," she said.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I walked fast."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"You ran. You're purple." She hit him in the chest, not hard. "We're all right. We're all right. The house is all right."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"What happened?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>Joss answered. He was a big, slow, gentle man who bred dray-beasts, and his voice had gone strange and thin. "They came just on dark. Twenty, maybe more. Masks. No colours. They didn't come for the houses." He looked at the burning barn. "They came for the beasts. They knew which barns. They had them roped and out before we were even down the ladder, and then they fired the barns behind them. Like you'd shut a door."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"All of them?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"My two greys. Hollin's ox-beast. The Pellow girl's hound, the one that finds the lambs in fog." Joss swallowed. "They had a cage for the hound. On a cart. A cage."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"It's the Clan," said someone in the crowd. Hollin, whose ox-beast was gone. "It's Ulric's men, getting their hands in before the war. Or the sons'. They want beasts for the fighting and they don't want to pay for them."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>There was a growl of agreement. It had a shape to it that was easy to hold.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"The Clan's got dragons," said Hob. "What's an ox worth to a man with a dragon?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Eat it, maybe."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>That got a bad laugh. Calder didn't laugh. He was looking at the yard.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>It was churned to mud, as any yard is after twenty men and a lot of frightened animals have been through it. But across the mud, plain in the light of the burning barn, ran two deep ruts. A cart, heavy, iron-tyred. They went out of the yard and down the slope.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Not up toward the lane and the hills and Varrhold. Down. Toward the river.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The Clan didn't use carts. The Clan didn't need to. Anything the Clan wanted, it carried home in the air.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He walked along the ruts a little way, out of the lantern light, and something turned under his boot. He bent and picked it up. A length of chain, five links, as long as his forearm, the last link cut clean through. The metal was dark and good and heavier than it should have been, and each link had a mark stamped into it that he didn't know: a small ring of six dots, neat as a smith's, like six seeds laid in a circle.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He'd seen chain like it once, years ago, on a Saltreach barge that came up the Wend selling things nobody in Harrow's End could afford. Beast chain. The kind you used on something that might pull a wall down to get at you.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Calder?" Bel had followed him. She stood at the edge of the light with her arms wrapped round herself. "What've you got?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>He closed his hand. "Nothing. Bit of harness."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She looked at his fist, and then at his face, and she was his sister and had been looking at that face all her life.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Say it, then," she said.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Say what?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Whatever you're not saying."</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>The barn roof went in behind them with a long, soft roar, and sparks went up into the dark, and everyone in the yard stepped back at once.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"It's late," Calder said. "You should get the little ones inside."</p>
- <break time="1400ms"/>
-  <!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He stayed till the fire was down to embers and the men from Harrow's End had done what they could, which was nothing, and then he walked down to the river to wash the smoke off his face.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The Wend was wide and black here and moving fast. On the far side, a long way off, the Hearthmere bank was a low line against a slightly lighter sky, and on that line, small and steady, well down the river, were lights. A row of them, high up, too regular for houses. Lanterns on a wall. Crown lamps, Ada called them, that burned all night on nothing at all, though she'd never been closer to one than this.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Joss had come down behind him. He stood with his big hands hanging and looked across the water at them.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Greyhold," he said. "The knights' school. They'll have seen it. They'll have watched the whole thing."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Probably."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Three barns going up a few leagues from their wall. And they'll have stood there and watched." Joss spat in the river. "They'll not cross."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"They never do," said Calder.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He didn't mean anything by it. It was just a thing everyone said, like the thing about red smoke, and it was true in the same way, which is to say it had always been true so far.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The lanterns on the far wall didn't move. After a while one of them went out, and then the others, one by one, as if someone over there had finished looking and gone to bed.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Calder walked home in the dark. Two leagues. He didn't run it this time. The chain was in his coat pocket, and it knocked against his hip with every step, and by the time he got to his own door it had got so heavy that he'd almost made up his mind to tell someone about it.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He hung the coat on its peg and went up to check on Wren. She was still asleep, fists up by her face. Downstairs, his mother had banked the fire and left the kettle on the hob for him, the way she always did.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He didn't tell anyone. It was the kind of thing he was good at.</p>
-<break time="450ms"/></speak>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<!-- The Watch Below, Chapter 2: Across the River. Point of view: Calder. -->
+<p><s>Chapter Two.</s></p><break time="800ms"/>
+<p><s>Across the River.</s></p><break time="1800ms"/>
+<!-- p1 -->
+<p>His mother had a saying for every weather, and none of them were any use.</p><break time="500ms"/>
+<!-- p2 · Ada (verse) -->
+<p><prosody rate="90%">Red smoke at morning, the Clan’s in mourning.</prosody> She said that one in the doorway with her shawl pulled tight, looking north to where the smoke from Varrhold lay along the hills like a stain on a sleeve. It had been lying there three days. Everyone in Harrow’s End knew what it meant. Haldor Varr was dead, and the Clan was burning him slowly, the way they burned chiefs, so the smoke could be seen in every valley he had ever taxed.</p><break time="500ms"/>
+<!-- p3 · Calder -->
+<p>“It’s a poor rhyme,” Calder said.</p><break time="500ms"/>
+<!-- p4 · Ada -->
+<p>“It’s an old one.” Ada Fenn went back in to the fire. “Old ones don’t have to be good. They have to be true.”</p><break time="500ms"/>
+<!-- p5 -->
+<p>On the Saltreach bank of the Wend they say the river was put there to keep the knights off, and that it has done a fair job of it. The farms on that side are older than the kingdom they belong to, if a league of port-cities with no king can be called a kingdom, which on the river it always is, and most of them have never seen a tax collector, because Saltreach keeps its collectors in the port-cities on the coast, a long way south, where the money is. What the Marches farmers pay, they pay to the Clan. Grain at harvest, wool at shearing, a calf when the hold asks for one. In return the Clan keeps the sellswords out of the valley and the dragons off the sheep, mostly, and nobody has to think too hard about whether that’s a fair arrangement or the other kind.</p><break time="500ms"/>
+<!-- p6 -->
+<p>Calder Fenn had never thought about it at all. He had paid the dues every year since his father died, the same as his father had. It was cheaper than thinking.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p7 -->
+<p>Wren was at the table with her porridge, eating it the way she did everything, one careful edge at a time.</p><break time="500ms"/>
+<!-- p8 · Wren -->
+<p>“Will they burn him all week?”</p><break time="500ms"/>
+<!-- p9 · Ada -->
+<p>“Till the new moon,” said Ada. “Then they scatter him on Coldtarn.”</p><break time="500ms"/>
+<!-- p10 · Wren -->
+<p>“Why the new moon?”</p><break time="500ms"/>
+<!-- p11 · Ada -->
+<p>“Because it isn’t the full one.”</p><break time="500ms"/>
+<!-- p12 -->
+<p>Wren thought about this and decided to let it go, which was new. She was nine. Last year she’d have followed it all the way down. She had her mother’s habit of going quiet when she was storing something, and Calder had stopped trying to guess what she did with it all.</p><break time="500ms"/>
+<!-- p13 · Wren -->
+<p>“Davy Garrow says there’ll be a war,” she said.</p><break time="500ms"/>
+<!-- p14 · Calder -->
+<p>“Davy Garrow is ten.”</p><break time="500ms"/>
+<!-- p15 · Wren -->
+<p>“Ten and a half. He says the uncle wants the hold and the sons want the hold, and when two lots want the same thing you get a war.” She licked her spoon. “He says the uncle’s the best fighter in the Clan, so he’ll win.”</p><break time="500ms"/>
+<!-- p16 · Calder -->
+<p>“Eat.”</p><break time="500ms"/>
+<!-- p17 · Wren -->
+<p>“Will he?”</p><break time="500ms"/>
+<!-- p18 · Calder -->
+<p>Calder pulled his boots on. They were still damp from yesterday and would be damp tomorrow. “Whoever gets the hold,” he said, “the barley still needs cutting. And Bramble’s foot still needs seeing to. And you’ve still got porridge.”</p><break time="500ms"/>
+<!-- p19 -->
+<p>She looked at him over the bowl, a long, level look that was entirely Senna’s. Then she ate the porridge.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p20 -->
+<p>The cow had an abscess in her hoof and no opinions about the Clan. He liked her for it. Ada had said her cow-words over the foot two mornings running, which worked about one time in three, and this was not one of the three, so now it was the knife.</p><break time="500ms"/>
+<!-- p21 · humour: talking to the cow · Calder -->
+<p>He had Bramble tied short to the ring in the byre wall and her off-hind foot up on his knee, and he was talking to her the whole time because she liked that, and because his father had talked to cows and Calder had never found a reason to stop. “There,” he told her. “That’s the bad bit. Hold still. Hold still, you great soft lump. Nobody’s cutting anything off you that you’ll miss.”</p><break time="500ms"/>
+<!-- p22 -->
+<p>She leaned on him. She was very good at leaning. He had the knife in and the muck coming out, and was feeling quite pleased with both of them, when the light went.</p><break time="500ms"/>
+<!-- p23 -->
+<p>Cloud came slowly. This was a hand closing over the yard.</p><break time="500ms"/>
+<!-- p24 · action -->
+<p><prosody rate="104%">Bramble screamed, the long, cracked, outraged bellow of a cow who has been lied to, and kicked, and put him flat on his back in the byre muck with the knife still in his fist.</prosody></p><break time="500ms"/>
+<!-- p25 -->
+<p>He lay there and looked up through the open half of the roof.</p><break time="500ms"/>
+<!-- p26 · awe -->
+<p><prosody rate="95%">They were low. Lower than he’d ever seen them come over the farms. Seven of them, black against the white sky, going south-west from the hills toward the river, and he could see the plates along their bellies and the shine on the nearest one’s claws, folded up neat as a sleeping dog’s. They went over without a sound. Then the wind of them came down a moment later, all at once, and every loose thing in the yard went flying, the hens and the straw and Wren’s washing off the line.</prosody></p><break time="800ms"/>
+<!-- p27 -->
+<p>Calder got up on one elbow and watched them reach the Wend and turn, all seven together, and follow it south, past the trees of the Old Ruin’s island, along the border, toward the grey smudge on the far bank that was Greyhold.</p><break time="500ms"/>
+<!-- p28 · humour: dry · Calder -->
+<p>“Well,” he told the cow. “There goes the harvest.”</p><break time="500ms"/>
+<!-- p29 · humour -->
+<p>Bramble looked at him with deep dislike.</p><break time="500ms"/>
+<!-- p30 -->
+<p>He knew what it was. Everyone over forty would know. When a Clan chief died, the Clan flew the border, the whole length of the Marches, once, on the third day. It was meant to be a mourning. It was also meant to remind everyone on both banks, and especially the knights, that a dead chief didn’t mean a weak Clan. Calder’s father had seen it done for Haldor’s father. He’d said the dragons had come over so low that you could have hit one with a thrown stone, if you’d wanted to die that particular way.</p><break time="500ms"/>
+<!-- p31 -->
+<p>Seven, though. His father had said three.</p><break time="500ms"/>
+<!-- p32 -->
+<p>Calder wiped his hand on his trousers, which did nothing, and went to get Wren’s washing out of the plum tree.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p33 -->
+<p>In the afternoon he took the last of the old barley to the mill, because Hob had sent twice for it, and because the mill was where you went if you wanted to hear things without being seen to want to.</p><break time="500ms"/>
+<!-- p34 -->
+<p>Harrow’s End was thirty-one houses, a mill, a shrine to the gods at the crossroads, and one long argument about water that had been running since before anyone could remember. The houses were river stone at the bottom and tarred timber at the top, with turf on the roofs that the goats got onto every spring. Hollow Beck ran down through the middle of it from the Scarfell, fast and brown, and turned Hob’s wheel, and went on into the Wend opposite the Old Ruin, where nobody went. The wheel had a charm-tag nailed to its hub that Hob had paid a Wendmouth contract-man two silver for, warranted, and it squealed exactly as it always had.</p><break time="500ms"/>
+<!-- p35 -->
+<p>There were eight men at the mill and none of them were grinding anything.</p><break time="500ms"/>
+<!-- p36 · Hob -->
+<p>“Seven,” Hob was saying when Calder came in with the sack. “Seven. For a funeral.”</p><break time="500ms"/>
+<!-- p37 · a villager -->
+<p>“It’s a big funeral.”</p><break time="500ms"/>
+<!-- p38 · Hob -->
+<p>“It’s a big hint, is what it is.” Hob took the sack off Calder without looking at it and weighed it with one hand and named a price that was an insult. Calder nodded. Hob was the miller; his prices were how he said hello. “That’s Ulric showing the sons how many dragons he can put in the air. Three of those were his own riders. I’d swear to it.”</p><break time="500ms"/>
+<!-- p39 · old Garrow -->
+<p>“You’d swear to anything,” said old Garrow.</p><break time="500ms"/>
+<!-- p40 · Hob -->
+<p>“Then it’s the sons showing Ulric. Either way.” Hob slapped the sack down. “Somebody’s counting.”</p><break time="500ms"/>
+<!-- p41 -->
+<p>They argued it like weather. Ulric Varr, the old chief’s brother, the best warrior the Clan had, with more men in his hall than his brother ever had in his. Everyone had always said Ulric should have been chief and then everyone had always said it quietly. Arn, the elder son, who had his father’s name in his favour and his father’s temper against him. Teo, the younger, who had come through Harrow’s End at lambing two springs ago with a dozen riders and a hangover, and had stayed three days to help pull lambs because, he said, he’d never done it, and everyone in the village had liked him for it, and been a little ashamed of liking him.</p><break time="500ms"/>
+<!-- p42 · Wat Garrow -->
+<p>“Teo’ll keep the peace between them,” said Garrow’s son. “He’s the only one both sides listen to.”</p><break time="500ms"/>
+<!-- p43 · a villager -->
+<p>“Teo’s twenty.”</p><break time="500ms"/>
+<!-- p44 · Wat Garrow -->
+<p>“Ulric was twenty once.”</p><break time="500ms"/>
+<!-- p45 · humour · Hob -->
+<p>“Ulric was never twenty. He was born forty and holding an axe.”</p><break time="500ms"/>
+<!-- p46 -->
+<p>They laughed. Calder laughed too, a little behind the rest.</p><break time="500ms"/>
+<!-- p47 · Hob -->
+<p>“What about you, Fenn?” said Hob. “Where’s your money, for the hold?”</p><break time="500ms"/>
+<!-- p48 · Calder -->
+<p>He thought about it. “Whoever’s buying barley.”</p><break time="500ms"/>
+<!-- p49 · Hob -->
+<p>“That’s not an answer.”</p><break time="500ms"/>
+<!-- p50 · Calder -->
+<p>“It’s the one I’ve got.”</p><break time="500ms"/>
+<!-- p51 -->
+<p>Hob gave him a look that said he’d expected nothing better, and paid him short by two coppers, and Calder let him. On the way out he stopped at the crossroads shrine, as everybody did, and put one of the coppers he had left in the bowl. Some days it was for the gods. Some days it was for whoever emptied the bowl. He’d never asked which, because he didn’t want to know.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p52 -->
+<p>After supper Wren wanted the song.</p><break time="500ms"/>
+<!-- p53 -->
+<p>She was too old for it and they both knew it and Ada sang it anyway, sitting by the fire with her hands in her lap. Calder sat on the other side with a harness across his knees that didn’t need mending and mended it.</p><break time="500ms"/>
+<!-- p54 · quiet -->
+<p><prosody rate="95%">Ada had a thin voice that had once been better. It didn’t matter. She’d sung this one so often that the tune carried itself, low and slow and going somewhere sad without being in any hurry to get there.</prosody></p><break time="500ms"/>
+<!-- p55 · quiet: sung, low and slow · Ada (verse), singing -->
+<p><prosody rate="95%"><prosody rate="90%">Before the six there was one,</prosody> <prosody rate="90%">and the one was Winshire,</prosody> <prosody rate="90%">and the old ones walked it unbound</prosody> <prosody rate="90%">by water and by fire.</prosody></prosody></p><break time="500ms"/>
+<!-- p56 · quiet: sung · Ada (verse), singing -->
+<p><prosody rate="95%"><prosody rate="90%">The old ones went up into the light,</prosody> <prosody rate="90%">and the one fell into six,</prosody> <prosody rate="90%">and the last great beast lay down below</prosody> <prosody rate="90%">to sleep in stone and dark.</prosody></prosody></p><break time="500ms"/>
+<!-- p57 · quiet: lullaby · Ada (verse), singing -->
+<p><prosody rate="95%"><prosody rate="90%">Hush now, the last one’s sleeping.</prosody> <prosody rate="90%">Hush now, you’ll wake it if you weep.</prosody> <prosody rate="90%">It sleeps under all of us, sleeping,</prosody> <prosody rate="90%">till the six are one again.</prosody></prosody></p><break time="500ms"/>
+<!-- p58 -->
+<p>The fire ticked. Somewhere outside a goat complained about the roof.</p><break time="500ms"/>
+<!-- p59 · Wren -->
+<p>“Who were the old ones?” said Wren. She knew. She asked anyway. It was part of the song.</p><break time="500ms"/>
+<!-- p60 · Ada -->
+<p>“The gods.” Ada didn’t look up. “Before they went into the light. They walked about like you or me, the old women say, only bigger, and nobody could tell them where to go.”</p><break time="500ms"/>
+<!-- p61 · Wren -->
+<p>“That’s what unbound means.”</p><break time="500ms"/>
+<!-- p62 · Ada -->
+<p>“That’s what unbound means. Which is more than I can say for you. Bed.”</p><break time="500ms"/>
+<!-- p63 · Wren -->
+<p>“And the last great beast?”</p><break time="500ms"/>
+<!-- p64 · Ada -->
+<p>“Sleeps.”</p><break time="500ms"/>
+<!-- p65 · Wren -->
+<p>“Where?”</p><break time="500ms"/>
+<!-- p66 · Ada -->
+<p>“Under somewhere.” Ada smiled a little at the fire. “That’s the point of a song, love. You don’t find out.”</p><break time="500ms"/>
+<!-- p67 · Wren -->
+<p>“What happens when the six are one again?”</p><break time="500ms"/>
+<!-- p68 · reflective -->
+<p><prosody rate="96%">Ada didn’t answer that one. She never did. She sang the last verse faster than the others, Calder had noticed years ago, as you walk faster past a dog you don’t know, and when Wren asked about it she always found something that needed doing. Tonight it was the kettle.</prosody></p><break time="500ms"/>
+<!-- p69 · tender: Wren asleep -->
+<p><prosody rate="95%">Calder put Wren to bed in the loft, under the eaves where the warm from the fire collected, and she was asleep before he’d got the blanket straight. He stood there a while. She slept with her fists up by her face like a baby, still, at nine. Senna had slept like that.</prosody></p><break time="500ms"/>
+<!-- p70 -->
+<p>He went down and out to check the byre, because he always did, and because he wanted the air.</p><break time="500ms"/>
+<!-- p71 -->
+<p>That was when he saw the fire.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p72 · dread -->
+<p><prosody rate="96%">It was upriver, north, past the bend. A dull orange smear on the bottom of the cloud. Then, while he watched, a second one beside it. Then a third, small and sharp, further back from the water.</prosody></p><break time="800ms"/>
+<!-- p73 · dread -->
+<p><prosody rate="96%">Upper Rush.</prosody></p><break time="800ms"/>
+<!-- p74 -->
+<p>He stood with his hand on the byre door and did nothing for a long breath, which was the thing he always did, and which had kept him alive and out of trouble for thirty-two years. Then he thought of Bel.</p><break time="500ms"/>
+<!-- p75 · urgent -->
+<p><prosody rate="105%">He was running before he’d decided to.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p76 -->
+<p>It was two leagues up the river lane to Upper Rush. He’d never run it before. By the time he got there his chest was a fist and there were four other men from Harrow’s End strung out behind him on the lane with lanterns, Garrow and his son and Hob, of all people, and one of the Tanner boys, and the fires had mostly done what fires do.</p><break time="500ms"/>
+<!-- p77 · tension -->
+<p><prosody rate="97%">Upper Rush was four farms in a hollow above the river. Two of the barns were gone, just gone, black ribs standing up in a red glow, and the third was going, and there was no point in water. People stood around in their nightclothes in the yard of the nearest farm, holding things they’d grabbed without thinking. A woman with a clock. A boy with one boot.</prosody></p><break time="800ms"/>
+<!-- p78 -->
+<p>Bel was in the middle of them, filthy to the elbows, with her husband Joss beside her and their two little ones wrapped together in one blanket at her feet. She saw Calder and her face went through about five things and landed on angry, which was how he knew she was all right.</p><break time="500ms"/>
+<!-- p79 · Bel -->
+<p>“You ran,” she said.</p><break time="500ms"/>
+<!-- p80 · Calder -->
+<p>“I walked fast.”</p><break time="500ms"/>
+<!-- p81 · tender: relieved anger · Bel -->
+<p><prosody rate="95%">“You ran. You’re purple.” She hit him in the chest, not hard. “We’re all right. We’re all right. The house is all right.”</prosody></p><break time="500ms"/>
+<!-- p82 · Calder -->
+<p>“What happened?”</p><break time="500ms"/>
+<!-- p83 · grief: voice thin and strange · Joss -->
+<p><prosody rate="94%">Joss answered. He was a big, slow, gentle man who bred dray-beasts, and his voice had gone strange and thin. “They came just on dark. Twenty, maybe more. Masks. No colours. They didn’t come for the houses.” He looked at the burning barn. “They came for the beasts. They knew which barns. They had them roped and out before we were even down the ladder, and then they fired the barns behind them. Like you’d shut a door.”</prosody></p><break time="800ms"/>
+<!-- p84 · Calder -->
+<p>“All of them?”</p><break time="500ms"/>
+<!-- p85 · grief · Joss -->
+<p><prosody rate="94%">“My two greys. Hollin’s ox-beast. The Pellow girl’s hound, the one that finds the lambs in fog.” Joss swallowed. “They had a cage for the hound. On a cart. A cage.”</prosody></p><break time="800ms"/>
+<!-- p86 · Hollin -->
+<p>“It’s the Clan,” said someone in the crowd. Hollin, whose ox-beast was gone. “It’s Ulric’s men, getting their hands in before the war. Or the sons’. They want beasts for the fighting and they don’t want to pay for them.”</p><break time="500ms"/>
+<!-- p87 -->
+<p>There was a growl of agreement. It had a shape to it that was easy to hold.</p><break time="500ms"/>
+<!-- p88 · Hob -->
+<p>“The Clan’s got dragons,” said Hob. “What’s an ox worth to a man with a dragon?”</p><break time="500ms"/>
+<!-- p89 · a villager -->
+<p>“Eat it, maybe.”</p><break time="500ms"/>
+<!-- p90 -->
+<p>That got a bad laugh. Calder didn’t laugh. He was looking at the yard.</p><break time="500ms"/>
+<!-- p91 -->
+<p>It was churned to mud, as any yard is after twenty men and a lot of frightened animals have been through it. But across the mud, plain in the light of the burning barn, ran two deep ruts. A cart, heavy, iron-tyred. They went out of the yard and down the slope.</p><break time="500ms"/>
+<!-- p92 · tension -->
+<p><prosody rate="97%">Not up toward the lane and the hills and Varrhold. Down. Toward the river.</prosody></p><break time="800ms"/>
+<!-- p93 -->
+<p>The Clan didn’t use carts. The Clan didn’t need to. Anything the Clan wanted, it carried home in the air.</p><break time="500ms"/>
+<!-- p94 · tension -->
+<p><prosody rate="97%">He walked along the ruts a little way, out of the lantern light, and something turned under his boot. He bent and picked it up. A length of chain, five links, as long as his forearm, the last link cut clean through. The metal was dark and good and heavier than it should have been, and each link had a mark stamped into it that he didn’t know: a small ring of six dots, neat as a smith’s, like six seeds laid in a circle.</prosody></p><break time="800ms"/>
+<!-- p95 -->
+<p>He’d seen chain like it once, years ago, on a Saltreach barge that came up the Wend selling things nobody in Harrow’s End could afford. Beast chain. The kind you used on something that might pull a wall down to get at you.</p><break time="500ms"/>
+<!-- p96 · Bel -->
+<p>“Calder?” Bel had followed him. She stood at the edge of the light with her arms wrapped round herself. “What’ve you got?”</p><break time="500ms"/>
+<!-- p97 · Calder -->
+<p>He closed his hand. “Nothing. Bit of harness.”</p><break time="500ms"/>
+<!-- p98 -->
+<p>She looked at his fist, and then at his face, and she was his sister and had been looking at that face all her life.</p><break time="500ms"/>
+<!-- p99 · Bel -->
+<p>“Say it, then,” she said.</p><break time="500ms"/>
+<!-- p100 · Calder -->
+<p>“Say what?”</p><break time="500ms"/>
+<!-- p101 · Bel -->
+<p>“Whatever you’re not saying.”</p><break time="500ms"/>
+<!-- p102 · action -->
+<p><prosody rate="104%">The barn roof went in behind them with a long, soft roar, and sparks went up into the dark, and everyone in the yard stepped back at once.</prosody></p><break time="500ms"/>
+<!-- p103 · Calder -->
+<p>“It’s late,” Calder said. “You should get the little ones inside.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p104 -->
+<p>He stayed till the fire was down to embers and the men from Harrow’s End had done what they could, which was nothing, and then he walked down to the river to wash the smoke off his face.</p><break time="500ms"/>
+<!-- p105 -->
+<p>The Wend was wide and black here and moving fast. On the far side, a long way off, the Hearthmere bank was a low line against a slightly lighter sky, and on that line, small and steady, well down the river, were lights. A row of them, high up, too regular for houses. Lanterns on a wall. Crown lamps, Ada called them, that burned all night on nothing at all, though she’d never been closer to one than this.</p><break time="500ms"/>
+<!-- p106 -->
+<p>Joss had come down behind him. He stood with his big hands hanging and looked across the water at them.</p><break time="500ms"/>
+<!-- p107 · Joss -->
+<p>“Greyhold,” he said. “The knights’ school. They’ll have seen it. They’ll have watched the whole thing.”</p><break time="500ms"/>
+<!-- p108 · Calder -->
+<p>“Probably.”</p><break time="500ms"/>
+<!-- p109 · Joss -->
+<p>“Three barns going up a few leagues from their wall. And they’ll have stood there and watched.” Joss spat in the river. “They’ll not cross.”</p><break time="500ms"/>
+<!-- p110 · Calder -->
+<p>“They never do,” said Calder.</p><break time="500ms"/>
+<!-- p111 -->
+<p>He didn’t mean anything by it. It was just a thing everyone said, like the thing about red smoke, and it was true in the same way, which is to say it had always been true so far.</p><break time="500ms"/>
+<!-- p112 · quiet -->
+<p><prosody rate="95%">The lanterns on the far wall didn’t move. After a while one of them went out, and then the others, one by one, as if someone over there had finished looking and gone to bed.</prosody></p><break time="500ms"/>
+<!-- p113 -->
+<p>Calder walked home in the dark. Two leagues. He didn’t run it this time. The chain was in his coat pocket, and it knocked against his hip with every step, and by the time he got to his own door it had got so heavy that he’d almost made up his mind to tell someone about it.</p><break time="500ms"/>
+<!-- p114 -->
+<p>He hung the coat on its peg and went up to check on Wren. She was still asleep, fists up by her face. Downstairs, his mother had banked the fire and left the kettle on the hob for him, the way she always did.</p><break time="500ms"/>
+<!-- p115 · reflective -->
+<p><prosody rate="96%">He didn’t tell anyone. It was the kind of thing he was good at.</prosody></p>
+<break time="1800ms"/>
+</speak>

@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<!-- The Watch Below, Chapter 30: Harrow's End. Point of view: Calder. -->
+<p><s>Chapter Thirty.</s></p><break time="800ms"/>
+<p><s>Harrow’s End.</s></p><break time="1800ms"/>
+<!-- p1 · reflective · Calder's father (remembered) -->
+<p><prosody rate="96%">His father had a rule for fire and a rule for men, and he said they were the same rule. <prosody volume="-3dB">Don’t fight it. Move what it wants.</prosody></prosody></p><break time="500ms"/>
+<!-- p2 -->
+<p>His father had never had three dragons. <sub alias="Cawlder">Calder</sub> thought, afterwards, that it might have changed his mind.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p3 -->
+<p><sub alias="Liska">Lisska</sub> saw it first. Of course she did.</p><break time="500ms"/>
+<!-- p4 · urgent -->
+<p><prosody rate="105%">She was a long way out. Five leagues, she said afterwards, down over the reed beds along the river, where she’d gone to look at the tall white birds standing on one leg in the water. Too far for her voice to carry. But he felt her, through the green mark, suddenly, in the middle of the night: a jolt, a spike of fear so sharp it woke him on the floor of the cave with his heart going.</prosody></p><break time="500ms"/>
+<!-- p5 -->
+<p>Then her voice, faint, coming in from very far off, like someone shouting from the bottom of a well, getting louder.</p><break time="500ms"/>
+<!-- p6 · Lisska (bond, to Calder), shouting from far off -->
+<p><prosody rate="94%" volume="-2dB">Fire. Fire. Fire. Your village. Your village is on fire.</prosody></p><break time="500ms"/>
+<!-- p7 -->
+<p>He was on his feet before he knew it.</p><break time="500ms"/>
+<!-- p8 · urgent · Lisska (bond, to Calder) -->
+<p><prosody rate="105%"><prosody rate="94%" volume="-2dB">Wren,</prosody> she said. Nearer now. Coming fast. <prosody rate="94%" volume="-2dB">Is Wren there? Is she? Is it your house? I can’t see. I can see it from the marsh. It’s all fire.</prosody></prosody></p><break time="500ms"/>
+<!-- p9 -->
+<p><sub alias="Karrak">Kharrak</sub> was up. <sub alias="Orveth">Aurveth</sub>’s head had come round off the floor of the cave, and the one eye was open.</p><break time="500ms"/>
+<!-- p10 · Calder -->
+<p>“Is it the house?” <sub alias="Cawlder">Calder</sub> said. “<sub alias="Liska">Lisska</sub>. Is it the house?”</p><break time="500ms"/>
+<!-- p11 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">I don’t know. I don’t know. I’m coming. I’m nearly there. I’ll look.</prosody></p><break time="500ms"/>
+<!-- p12 -->
+<p>He went to <sub alias="Orveth">Aurveth</sub>. She’d already stretched out her neck along the floor of the cave toward him.</p><break time="500ms"/>
+<!-- p13 · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Up,</prosody> she said.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p14 · urgent -->
+<p><prosody rate="105%">They went off the ledge into the dark, the three of them, him on <sub alias="Orveth">Aurveth</sub>’s neck and <sub alias="Karrak">Kharrak</sub> beside, and went west over the Fellwood faster than he’d ever gone. <sub alias="Orveth">Aurveth</sub> didn’t climb. She went low over the treetops, so low the wind of her wings tore the leaves off, beating hard, with her scarred back pulling and pulling under him. He felt it. He didn’t care. Neither did she.</prosody></p><break time="500ms"/>
+<!-- p15 -->
+<p>Before they were halfway, he saw the glow.</p><break time="500ms"/>
+<!-- p16 -->
+<p>It was in the sky ahead, low down, beyond the edge of the forest and the shoulder of the hill. Orange. The underside of the clouds lit up like the inside of an oven. He’d seen it before. The night of the mill. He’d stood at the byre door with Bramble’s halter in his hand and seen the sky go that colour.</p><break time="500ms"/>
+<!-- p17 · urgent · Lisska (bond, to Calder) -->
+<p><prosody rate="105%"><prosody rate="94%" volume="-2dB">It’s not your house,</prosody> said <sub alias="Liska">Lisska</sub>. Her voice was close now, sharp, clear. <prosody rate="94%" volume="-2dB">It’s not. I’m over it. Your house is dark. It’s up the hill, it’s all dark, there’s no fire there. It’s the lanes. It’s the village. The bottom of the village. The houses by the mill. And the farm with the red cows. And men. Lots of men. Fighting. Two lots. Grey and grey.</prosody></prosody></p><break time="500ms"/>
+<!-- p18 -->
+<p>He didn’t let his breath out. He couldn’t.</p><break time="500ms"/>
+<!-- p19 · urgent: turning to relief · Lisska (bond, to Calder) -->
+<p><prosody rate="105%"><prosody rate="94%" volume="-2dB">There’s a light in your house,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">In the window. A little one. Someone’s there.</prosody> A pause. <prosody rate="94%" volume="-2dB">Someone’s at the window. A little one. It’s Wren. It’s Wren! She’s at the window! She’s all right!</prosody></prosody></p><break time="500ms"/>
+<!-- p20 · quiet -->
+<p><prosody rate="95%">He let his breath out.</prosody></p><break time="500ms"/>
+<!-- p21 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">She’s looking at the fire,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">Your mother’s pulling her away from the window. She’s all right. She’s all right.</prosody></p><break time="500ms"/>
+<!-- p22 · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Then we will keep her so,</prosody> said <sub alias="Orveth">Aurveth</sub>, under him, and beat her great wings, and went faster.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p23 -->
+<p>They came over the shoulder of the hill and saw it.</p><break time="500ms"/>
+<!-- p24 · dread -->
+<p><prosody rate="96%">The whole bottom of the valley was burning. The lanes by the mill, where the black heap of the mill still stood from last time. The row of cottages along the beck. The Wheel, or what was left of it. Along the lane to the north, the Garrows’ farm, house and byre and barn and stacks, all going up together in one great roaring sheet of yellow, with the smoke going up off it black into the orange sky.</prosody></p><break time="800ms"/>
+<!-- p25 -->
+<p>In the lanes, in the light of it, men.</p><break time="500ms"/>
+<!-- p26 · action -->
+<p><prosody rate="104%">He could see them from the air, small and black against the fire, like ants on a burning log. Horses rearing. Swords. Axes. Two lots, <sub alias="Liska">Lisska</sub> had said, and he could see it: men coming down the lane from the ford, from the Drover’s Way, riders, forty or more. Men already in the village, on foot, in among the houses, with torches. Meeting in the middle. At the green. Round the well. In the light of the burning houses.</prosody></p><break time="500ms"/>
+<!-- p27 -->
+<p>Grey and grey. One lot with red in their armbands. One without.</p><break time="500ms"/>
+<!-- p28 · anger · Kharrak (bond, to Calder), low -->
+<p><prosody rate="94%" volume="-6dB"><sub alias="Ullrick">Ulric</sub>’s,</prosody> said <sub alias="Karrak">Kharrak</sub>, beside him, low. The red tide was coming up in him already; <sub alias="Cawlder">Calder</sub> felt it through the mark, hot, rising. <prosody rate="94%" volume="-6dB"><sub alias="Ullrick">Ulric</sub>’s, with the torches. Burning. Arn’s coming down on them from the Way. Both. Both of them. In your village. Again.</prosody></p><break time="500ms"/>
+<!-- p29 · Calder -->
+<p>“I know.”</p><break time="500ms"/>
+<!-- p30 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Let me…</prosody></p><break time="500ms"/>
+<!-- p31 · Calder -->
+<p>“No. Not men. You don’t burn men. You hear me? Not one.”</p><break time="500ms"/>
+<!-- p32 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">They’re burning the village…</prosody></p><break time="500ms"/>
+<!-- p33 · Calder; Calder's father (remembered) -->
+<p>“I know what they’re doing. Listen to me.” He held on to the ridge on <sub alias="Orveth">Aurveth</sub>’s neck and made himself think, the way his father had taught him. About the fire, not the men. <prosody volume="-3dB">Don’t fight it. Move what it wants.</prosody></p><break time="500ms"/>
+<!-- p34 -->
+<p>He looked at the valley spread out below him. At the fire. Where it was, and where it was going.</p><break time="500ms"/>
+<!-- p35 -->
+<p>The wind was from the west. Off the river. Pushing the fire east, up the valley, along the lane, toward the Garrows’ stubble field, which was dry, which hadn’t been ploughed yet, which ran up the hill toward the Ashby farm and the top fields and, past them, over the brow, the Fenn farm. His house. With the light in the window.</p><break time="500ms"/>
+<!-- p36 · Calder -->
+<p>“<sub alias="Karrak">Kharrak</sub>,” he said. “The Garrows’ field. Above their farm. The stubble. Burn it.”</p><break time="500ms"/>
+<!-- p37 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">What?</prosody></p><break time="500ms"/>
+<!-- p38 · urgent: sounding like his father · Calder -->
+<p><prosody rate="105%">“Burn it. A line. Right across the top of it, from the hedge to the beck. Before the fire gets there. Burn a strip so wide it can’t jump. Then there’s nothing for it to eat. It’ll come up the field and hit the burned strip and stop.” He heard his own voice. It sounded like his father. “Burn the field, not the men. Go.”</prosody></p><break time="500ms"/>
+<!-- p39 -->
+<p>There was a moment. A long one.</p><break time="500ms"/>
+<!-- p40 -->
+<p><sub alias="Karrak">Kharrak</sub> turned, and went down.</p><break time="500ms"/>
+<!-- p41 · Kharrak (bond, to Calder) -->
+<p><sub alias="Cawlder">Calder</sub> felt him go. Felt the red tide in him, the wanting, the <prosody rate="94%" volume="-2dB">let me, let me,</prosody> turn. Like a river turned by a weir. Not stopping; going somewhere else. <sub alias="Karrak">Kharrak</sub> went down over the Garrows’ farm low and fast, over the burning house, through the smoke, and up the slope above it, over the stubble, and opened his mouth.</p><break time="500ms"/>
+<!-- p42 · action -->
+<p><prosody rate="104%">The fire came out of him in a long straight sheet, yellow-white, roaring, and went down across the top of the Garrows’ field from the hedge to the beck in a single line, so bright that the whole slope lit up like noon. The stubble went up. It went up in a wall, crackling, and the wind took it and pushed it, not back down the field toward the farm, but up, east, into nothing, into the bare ploughed ground of the Ashby top field where there was nothing left to burn, and burned out, and left behind it a long black strip of ash across the top of the field, smoking, wider than the lane.</prosody></p><break time="500ms"/>
+<!-- p43 -->
+<p>Below it, the fire from the Garrows’ farm came up the field on the wind, through the stubble, and reached the black strip.</p><break time="500ms"/>
+<!-- p44 · awe -->
+<p><prosody rate="95%">And stopped.</prosody></p><break time="800ms"/>
+<!-- p45 -->
+<p>He felt <sub alias="Karrak">Kharrak</sub> feel it. Through the mark. The fire coming up, and stopping. Something in the great rust-red mind went very still and very surprised.</p><break time="500ms"/>
+<!-- p46 · quiet: surprised · Kharrak (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">Oh,</prosody> said <sub alias="Karrak">Kharrak</sub>.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p47 · urgent · Lisska (bond, to Calder) -->
+<p><prosody rate="105%"><prosody rate="94%" volume="-2dB">There’s children,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">On a roof. In the lane by the beck. The little houses. The one in the middle’s burning at the back. They’re on the front. Three. On the roof. They can’t get down. The front’s burning now. Can I? Can I? Please?</prosody></prosody></p><break time="500ms"/>
+<!-- p48 · Calder -->
+<p>“Go.”</p><break time="500ms"/>
+<!-- p49 -->
+<p>She went. He watched her from <sub alias="Orveth">Aurveth</sub>’s neck, a small green shape going down through the smoke over the row of cottages along the beck, quick, slipping, the way she slipped between trees in the Fellwood at night. He saw the roof. Thatch, black and smoking at the back, with yellow coming up through it, and three small figures at the front of it, at the ridge, clinging, with the smoke going over them.</p><break time="500ms"/>
+<!-- p50 -->
+<p><sub alias="Liska">Lisska</sub> came down over the roof, and hung there, beating, her wings throwing the smoke away, and put out her forefeet.</p><break time="500ms"/>
+<!-- p51 · action · Lisska (bond, to a child) -->
+<p><prosody rate="104%">He saw the first child grab. A boy, bigger than the others. He saw him grab one of the green forelegs and hang on, and <sub alias="Liska">Lisska</sub> lift, and swing out over the lane, and drop down, and let him go onto the grass by the beck, and go back up. Twice more. A girl. Another girl, the smallest, who wouldn’t let go of the ridge, and <sub alias="Liska">Lisska</sub> hung there over the burning roof and put her head down to her and <sub alias="Cawlder">Calder</sub> heard her, in his head, saying <prosody rate="94%" volume="-2dB">please, please, it’s all right, it’s me, I’m Wren’s, please,</prosody> and the child let go and grabbed.</prosody></p><break time="500ms"/>
+<!-- p52 · action -->
+<p><prosody rate="104%">The roof fell in a moment after. He saw the ridge go, and the thatch, and the sparks go up in a great spout. <sub alias="Liska">Lisska</sub> was already down by the beck with the third child, setting her down on the grass with her brother and sister, and standing over them, wings half spread, the way a hen stands over chicks.</prosody></p><break time="500ms"/>
+<!-- p53 · tender · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">I did it,</prosody> she said. <prosody rate="94%" volume="-2dB">Did I? I did. Three. I did it.</prosody></prosody></p><break time="500ms"/>
+<!-- p54 · Calder -->
+<p>“You did it.”</p><break time="500ms"/>
+<!-- p55 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">They were frightened of me. And then they weren’t.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p56 -->
+<p><sub alias="Orveth">Aurveth</sub> went down into the lanes.</p><break time="500ms"/>
+<!-- p57 · action -->
+<p><prosody rate="104%">She didn’t land. She came down low over the burning houses along the mill lane with her great wings spread, and she began to beat them. Slowly. Hard. Not to fly. To push. Every beat sent a wind down the lane like a winter storm, and the fire, which had been going from house to house on the west wind, bent away from it. Away from the lane. Away from the houses that hadn’t caught yet. Back onto the ones that were already gone, and the black heap of the mill, and the bare river shore, where there was nothing left for it.</prosody></p><break time="500ms"/>
+<!-- p58 -->
+<p>He felt what it cost her. The scars down her back were pulling with every stroke, and he felt it in his own spine, a long line of fire, so that he gasped and held on to the ridge with his teeth set. She didn’t stop.</p><break time="500ms"/>
+<!-- p59 · tender · Aurveth (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">Move what it wants,</prosody> she said, through her teeth, or what she had for teeth. <prosody rate="94%" volume="-2dB">Your father was a wise man.</prosody></prosody></p><break time="500ms"/>
+<!-- p60 -->
+<p>Below them, in the light of the fires, the men were looking up.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p61 -->
+<p>They’d stopped fighting, as a crowd goes quiet at a fair when someone shouts. A few at a time, all over the green and the lanes and the bottom of the Drover’s Way, they’d looked up, and seen what was in the air over them. A great bronze dragon beating the fire back off the houses. A rust-red one going over the Garrows’ field in a sheet of flame. A small green one carrying children off a roof.</p><break time="500ms"/>
+<!-- p62 -->
+<p>And a man on the bronze one’s neck.</p><break time="500ms"/>
+<!-- p63 -->
+<p><sub alias="Cawlder">Calder</sub> saw them see him. He saw their faces turn up in the firelight, white, <sub alias="Ullrick">Ulric</sub>’s men and Arn’s men together, and the swords stop, and the axes come down.</p><break time="500ms"/>
+<!-- p64 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Now,</prosody> said <sub alias="Karrak">Kharrak</sub>. He was coming back from the field, low, fast, over the green. <prosody rate="94%" volume="-2dB">Now. They’re all there. Both lots. Together. Look at them. Let me…</prosody></p><break time="500ms"/>
+<!-- p65 · Calder -->
+<p>“Land,” said <sub alias="Cawlder">Calder</sub>. “Don’t burn. Land. In the middle. All three of us.”</p><break time="500ms"/>
+<!-- p66 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Why?</prosody></p><break time="500ms"/>
+<!-- p67 · Calder -->
+<p>“Because they’re more afraid of you than they are of each other,” said <sub alias="Cawlder">Calder</sub>. “Land.”</p><break time="500ms"/>
+<!-- p68 -->
+<p>They landed.</p><break time="500ms"/>
+<!-- p69 · action -->
+<p><prosody rate="104%"><sub alias="Karrak">Kharrak</sub> first, in the middle of the green, by the well, so hard the ground shook and the men nearest were thrown off their feet. Then <sub alias="Orveth">Aurveth</sub>, on the far side, by the burning Wheel, with her wings still half spread and the fire behind her and her one eye blazing gold. Then <sub alias="Liska">Lisska</sub>, last, on the roof of the well-house, small and green and furious, with her head down and her wings up and a sound coming out of her like a kettle about to burst.</prosody></p><break time="500ms"/>
+<!-- p70 -->
+<p><sub alias="Cawlder">Calder</sub> slid down off <sub alias="Orveth">Aurveth</sub>’s neck onto the trampled grass of the green, in the middle of forty of <sub alias="Ullrick">Ulric</sub>’s men and fifty of Arn’s, with three dragons round him, and stood there.</p><break time="500ms"/>
+<!-- p71 · tension -->
+<p><prosody rate="97%">Nobody moved.</prosody></p><break time="800ms"/>
+<!-- p72 -->
+<p>He could see Sten <sub alias="Rask">Raske</sub>. By the well, with his red beard black with soot and a sword in his hand, staring at <sub alias="Karrak">Kharrak</sub>’s head, which was a pace from his face, with the jaws a little open and the smoke coming out of them. He could see Gorm <sub alias="Askel">Askell</sub>, on a horse at the bottom of the Way, with his long sour face gone the colour of ash. He could see men he didn’t know, all round the green, in grey with red thread and grey without, with their weapons in their hands and their mouths open.</p><break time="500ms"/>
+<!-- p73 · Calder -->
+<p>“Go home,” said <sub alias="Cawlder">Calder</sub>.</p><break time="500ms"/>
+<!-- p74 -->
+<p>Nobody moved.</p><break time="500ms"/>
+<!-- p75 · anger: a voice much bigger than his · Calder -->
+<p>“Go <emphasis level="moderate">home,</emphasis>” said <sub alias="Cawlder">Calder</sub>. He heard his own voice go out across the green. It didn’t sound like him. It sounded like something much bigger. “All of you. <sub alias="Ullrick">Ulric</sub>’s and Arn’s. Back up the Way and back along the river lane. Now. Tonight. And tell them both. Tell Arn and tell <sub alias="Ullrick">Ulric</sub>. There’s nothing here for them. There’s no grain. There’s no silver. There’s no men. There’s nobody in Harrow’s End who’s on anybody’s side.” He looked at Sten <sub alias="Rask">Raske</sub>. “There’s just us.”</p><break time="500ms"/>
+<!-- p76 -->
+<p>Through the three marks on his chest, he felt the three of them, all at once, lift their heads.</p><break time="500ms"/>
+<!-- p77 · action -->
+<p><prosody rate="104%"><sub alias="Karrak">Kharrak</sub> opened his jaws and roared, without fire. The sound went out across the green and the lanes and the burning houses like a wall falling, and the horses screamed and bolted, and the men nearest went down on their knees with their hands over their ears.</prosody></p><break time="500ms"/>
+<!-- p78 -->
+<p>When it stopped, they ran.</p><break time="500ms"/>
+<!-- p79 · action -->
+<p><prosody rate="104%">Both lots. <sub alias="Ullrick">Ulric</sub>’s men down the lane to the water and away along the river lane, on foot, throwing their torches down as they went. Arn’s men back up the Drover’s Way, the riders wheeling and spurring, Gorm <sub alias="Askel">Askell</sub> at the front. Running. All of them. Away from the green, away from the village, away from three dragons and a farmer, into the dark.</prosody></p><break time="500ms"/>
+<!-- p80 -->
+<p><sub alias="Cawlder">Calder</sub> stood in the middle of the green and watched them go.</p><break time="500ms"/>
+<!-- p81 · humour: wondering · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">They ran,</prosody> said <sub alias="Liska">Lisska</sub>, from the roof of the well-house. Wonderingly. <prosody rate="94%" volume="-2dB">They all ran. Both lots. Did you see?</prosody></p><break time="500ms"/>
+<!-- p82 · Calder -->
+<p>“I saw.”</p><break time="500ms"/>
+<!-- p83 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">We didn’t burn anybody.</prosody></p><break time="500ms"/>
+<!-- p84 · Calder -->
+<p>“No.”</p><break time="500ms"/>
+<!-- p85 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB"><sub alias="Karrak">Kharrak</sub> didn’t burn anybody.</prosody></p><break time="500ms"/>
+<!-- p86 · humour · Kharrak (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">Don’t,</prosody> said <sub alias="Karrak">Kharrak</sub>.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p87 -->
+<p>Not all of them ran.</p><break time="500ms"/>
+<!-- p88 · urgent -->
+<p><prosody rate="105%">He heard it before he saw it. Down the lane by the beck, past the row of cottages, beyond the place where <sub alias="Liska">Lisska</sub> had set the children down. A scream. A boy’s.</prosody></p><break time="500ms"/>
+<!-- p89 -->
+<p>He ran.</p><break time="500ms"/>
+<!-- p90 -->
+<p>He didn’t think. He was across the green and into the lane and down it on his bad leg before he knew he’d moved, through the smoke, past the burning cottages, and there they were. At the corner by the Garrows’ gate, where the lane went down to the beck. Two of <sub alias="Ullrick">Ulric</sub>’s men who hadn’t run. One holding a horse. The other with a boy.</p><break time="500ms"/>
+<!-- p91 -->
+<p>It was Wat Garrow’s boy. Davy. Ten years old. <sub alias="Cawlder">Calder</sub> had taught him to tickle trout in the beck two summers ago. The man had him by the hair, bent back, and a knife at his throat, and he was shouting at the burning Garrow farmhouse, at the doorway, where Wat Garrow stood with a pitchfork in his hands and his face streaked black.</p><break time="500ms"/>
+<!-- p92 · anger: shouting · an Ulric man, shouting -->
+<p><prosody volume="+3dB">“…your silver, Garrow, Arn’s silver, where is it, you sold to the hold, where’s the silver he gave you, or I’ll…”</prosody></p><break time="500ms"/>
+<!-- p93 -->
+<p><sub alias="Cawlder">Calder</sub> felt it come up.</p><break time="500ms"/>
+<!-- p94 · anger · Lisska (bond, to Calder); Calder (thought) -->
+<p>It came up through the rust-red mark first, hot and huge, <sub alias="Karrak">Kharrak</sub>’s, the red tide, all the rage that had been turned like a river at a weir and had nowhere to go. Then through the others. <sub alias="Orveth">Aurveth</sub>’s, slow and deep and terrible, the rage of a thing that had been beating fire off houses with her torn back for an hour. <sub alias="Liska">Lisska</sub>’s, high and thin and white-hot, <prosody rate="94%" volume="-2dB">that’s a child, that’s a child, that’s like Wren.</prosody> And under all three, his own. The bottom of it. <prosody rate="97%" volume="-4dB"><sub alias="Tayo">Teo</sub>. The old woman in her house. The ford. Hob in the ashes. Wren at the window.</prosody></p><break time="500ms"/>
+<!-- p95 -->
+<p>It came up all at once, all four, and filled him to the top, and went over.</p><break time="500ms"/>
+<!-- p96 -->
+<p>There was a rail lying in the lane. Off the Garrows’ fence, where a horse had gone through it. Oak, as long as he was tall. He picked it up.</p><break time="500ms"/>
+<!-- p97 · action -->
+<p><prosody rate="104%">He didn’t remember crossing the lane. He remembered the man turning, too late, with the knife coming away from the boy’s throat. He remembered the rail going round. He remembered the sound it made on the man’s shoulder, and the man going down, and the knife going spinning off into the dark, and the boy running, screaming, to his father in the doorway.</prosody></p><break time="500ms"/>
+<!-- p98 -->
+<p>And then he remembered the rail going up again. And down.</p><break time="500ms"/>
+<!-- p99 · anger: terrible, intoxicating rage · Calder (thought) -->
+<p>And up. And down. On the man on the ground, who had his arms over his head, who was screaming, who was trying to crawl away. He couldn’t stop. He didn’t want to stop. The red was in his eyes and his mouth and his hands, and it was good, it was so good, it was the best thing he’d ever felt, it was simple and hot and clean and he wanted to go on doing it forever. <prosody rate="97%" volume="-4dB">Burn them. Burn them all. Every one. Who did it. Who. Find them. Burn.</prosody></p><break time="500ms"/>
+<!-- p100 · Lisska (bond, to Calder), very small -->
+<p><prosody rate="94%" volume="-2dB"><sub alias="Cawlder">Calder</sub>.</prosody></p><break time="500ms"/>
+<!-- p101 -->
+<p>Up. Down.</p><break time="500ms"/>
+<!-- p102 · quiet · Lisska (bond, to Calder), very small -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB"><sub alias="Cawlder">Calder</sub>. Please.</prosody></prosody></p><break time="500ms"/>
+<!-- p103 · quiet -->
+<p><prosody rate="95%">A voice. Small. Very small. In the middle of all the red, like a candle in a furnace.</prosody></p><break time="500ms"/>
+<!-- p104 · tender: very small voice · Lisska (bond, to Calder), very small -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">You’re frightening me.</prosody></prosody></p><break time="500ms"/>
+<!-- p105 -->
+<p>He stopped.</p><break time="500ms"/>
+<!-- p106 -->
+<p>He stood in the lane with the oak rail up over his head, in both hands, and the man on the ground under him, curled up, with his arms over his head and blood on them, sobbing. He stood there. The red was still in him. It was going round and round in him like a dog in a pen. He could feel it wanting.</p><break time="500ms"/>
+<!-- p107 · tender · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">Please,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">You’re frightening me. Please stop. Please. You’re not you. You’re like <sub alias="Karrak">Kharrak</sub>. You’re like <sub alias="Karrak">Kharrak</sub> when he wanted to burn the hold. Please. I don’t like it. Please be you.</prosody></prosody></p><break time="500ms"/>
+<!-- p108 -->
+<p>He put the rail down.</p><break time="500ms"/>
+<!-- p109 · quiet -->
+<p><prosody rate="95%">He didn’t drop it. He put it down. He bent over and laid it on the ground in the lane, beside the man, very carefully, as if it might go off. He stood up and stepped back from it.</prosody></p><break time="500ms"/>
+<!-- p110 -->
+<p>The man on the ground lay where he was.</p><break time="500ms"/>
+<!-- p111 -->
+<p>The other one, the one with the horse, had already gone. <sub alias="Cawlder">Calder</sub> heard hooves going away down the lane toward the beck and the river lane.</p><break time="500ms"/>
+<!-- p112 · dread -->
+<p><prosody rate="96%">He stood there. He was shaking. His hands were shaking. He looked at them and they didn’t look like his.</prosody></p><break time="800ms"/>
+<!-- p113 · grief · Kharrak (bond, to Calder), very low -->
+<p><prosody rate="94%"><prosody rate="94%" volume="-6dB">That was mine,</prosody> said <sub alias="Karrak">Kharrak</sub>, very low, somewhere behind him on the green. <prosody rate="94%" volume="-6dB">That was mine, in you. I felt it go in. I’m sorry. I’m…</prosody></prosody></p><break time="800ms"/>
+<!-- p114 · reflective · Aurveth (bond, to Calder) -->
+<p><prosody rate="96%"><prosody rate="94%" volume="-2dB">It was all of ours,</prosody> said <sub alias="Orveth">Aurveth</sub>. <prosody rate="94%" volume="-2dB">And his. All four. He was full, and we filled him more, and it went over.</prosody> A long breath. <prosody rate="94%" volume="-2dB">We must be careful. We must be very careful. With him. We are too many for one man to hold, and we are all very angry.</prosody></prosody></p><break time="500ms"/>
+<!-- p115 -->
+<p>The man on the ground groaned and rolled onto his side.</p><break time="500ms"/>
+<!-- p116 -->
+<p>He was alive. His arm was wrong, and his face was a mess, and there was blood in the dust of the lane. But he was alive, and breathing, and after a while he got up onto his knees and looked up at <sub alias="Cawlder">Calder</sub> with his eyes huge and white in his black face. He got up and ran, stumbling, holding his arm, away down the lane after his friend.</p><break time="500ms"/>
+<!-- p117 -->
+<p><sub alias="Cawlder">Calder</sub> let him go.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p118 -->
+<p>Hob’s house was burning when he came back up the lane.</p><break time="500ms"/>
+<!-- p119 -->
+<p>It stood at the corner of the green, by the burned Wheel, a little stone house with a slate roof that Hob had built for his wife the year they married, and she was dead ten years now and he lived in it alone. The fire from the Wheel had gone into the back of it. The roof was going. Smoke was pouring out of the upstairs window. At the window, someone was shouting.</p><break time="500ms"/>
+<!-- p120 -->
+<p><sub alias="Cawlder">Calder</sub> stood on the green and looked at it.</p><break time="500ms"/>
+<!-- p121 · reflective · Hob (remembered) -->
+<p><prosody rate="96%">He thought about Hob at the gate with the elders. <prosody volume="-3dB">I lost my mill, <sub alias="Cawlder">Calder</sub>. And you came out of it with three dragons.</prosody> He thought about Hob raking the ashes for nails, and saying <prosody volume="-3dB">all right</prosody> in a strange flat voice. He thought about a man in a good coat standing in the black heap of the mill and holding out a bag that smelled cold.</prosody></p><break time="500ms"/>
+<!-- p122 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">He sold you,</prosody> said <sub alias="Karrak">Kharrak</sub>. <prosody rate="94%" volume="-2dB">He sold Wren. He’d have put her in the cart and driven her to them.</prosody></p><break time="500ms"/>
+<!-- p123 · Calder -->
+<p>“I know.”</p><break time="500ms"/>
+<!-- p124 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Leave him.</prosody></p><break time="500ms"/>
+<!-- p125 -->
+<p><sub alias="Cawlder">Calder</sub> stood on the green.</p><break time="500ms"/>
+<!-- p126 -->
+<p>He went into the house.</p><break time="500ms"/>
+<!-- p127 · action -->
+<p><prosody rate="104%">The door was open. The ground floor was full of smoke, thick and grey and stinking, and there was fire at the back, in the kitchen, roaring. He put his sleeve over his face and went through it, bent double, to the stair, and up. The stair was hot under his hands. At the top, in the little room under the slates, Hob was on his knees at the window with his face out of it, coughing, and the room behind him was full of smoke and the roof above was beginning to glow.</prosody></p><break time="500ms"/>
+<!-- p128 -->
+<p><sub alias="Cawlder">Calder</sub> got him by the collar.</p><break time="500ms"/>
+<!-- p129 · reflective -->
+<p><prosody rate="96%">Hob looked round. His face was black and his eyes were streaming, and he saw who it was. And something went across his face that <sub alias="Cawlder">Calder</sub> would never forget. Not fear. Not shame. Something like a man looking down a well and seeing, at the bottom, his own face looking back.</prosody></p><break time="500ms"/>
+<!-- p130 · Calder -->
+<p>“Come on,” said <sub alias="Cawlder">Calder</sub>.</p><break time="500ms"/>
+<!-- p131 -->
+<p>He got Hob’s arm over his shoulder and dragged him. Down the stair, through the smoke, through the burning ground floor, out of the door onto the green, and let him go, and Hob went down on his hands and knees on the grass, coughing, retching, and behind them the roof of the little stone house fell in with a great rush of sparks.</p><break time="500ms"/>
+<!-- p132 -->
+<p><sub alias="Cawlder">Calder</sub> stood over him, breathing hard.</p><break time="500ms"/>
+<!-- p133 · quiet -->
+<p><prosody rate="95%">Hob didn’t look up. He knelt on the grass with his head down and his hands flat on the ground and coughed until he stopped coughing. He stayed there. He didn’t say thank you, or sorry, or anything at all. He just knelt there on the green with his face to the ground, in the light of his own house burning.</prosody></p><break time="500ms"/>
+<!-- p134 -->
+<p><sub alias="Cawlder">Calder</sub> turned and walked away.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p135 -->
+<p>The fires burned down toward dawn. Most of the bottom of the village was gone: the cottages by the mill, the Wheel, Hob’s house, the Garrows’ farm. The rest stood. The Ashby farm, behind its black strip of burned stubble. The top fields. The shrine at the crossroads. The houses along the upper lane.</p><break time="500ms"/>
+<!-- p136 -->
+<p>The Fenn farm, up the hill, dark, with a light in the window.</p><break time="500ms"/>
+<!-- p137 -->
+<p>People came out into the lanes. Slowly. From their cellars and their ditches and the back of the beck pasture where they’d hidden. They stood in the grey light among the smoking ruins and looked at what was left. They looked at him. Standing on the green, with three dragons round him.</p><break time="500ms"/>
+<!-- p138 -->
+<p>Some of them came up to him.</p><break time="500ms"/>
+<!-- p139 · tender -->
+<p><prosody rate="95%">Wat Garrow came first, with Davy holding his hand, and Tessa behind him with the baby. He stood in front of <sub alias="Cawlder">Calder</sub> with his face working, and put out his hand. <sub alias="Cawlder">Calder</sub> took it. Wat Garrow didn’t say anything. He just held <sub alias="Cawlder">Calder</sub>’s hand, hard, for a long moment, and let go, and went away with his family down the lane to look at what was left of his farm. Over the black gap where the byre door had been, the cow-charm his father had nailed up the year <sub alias="Cawlder">Calder</sub> was born still hung from its nail, rowan and red thread, scorched, turning a little in the smoke.</prosody></p><break time="500ms"/>
+<!-- p140 · tender -->
+<p><prosody rate="95%">The children <sub alias="Liska">Lisska</sub> had carried off the roof came, with their mother. The smallest girl, the one who wouldn’t let go of the ridge, came right up to <sub alias="Liska">Lisska</sub> where she lay on the green and stood in front of her with her thumb in her mouth and stared. <sub alias="Liska">Lisska</sub> put her head down until it was level with the child’s face, carefully, and stayed very still.</prosody></p><break time="500ms"/>
+<!-- p141 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">She’s like Wren,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">Isn’t she? A bit. Is she?</prosody></p><break time="500ms"/>
+<!-- p142 · Calder -->
+<p>“A bit,” said <sub alias="Cawlder">Calder</sub>.</p><break time="500ms"/>
+<!-- p143 -->
+<p>Old Garrow came, on his stick, and looked at him, and nodded once, and went away.</p><break time="500ms"/>
+<!-- p144 -->
+<p>The rest didn’t come.</p><break time="500ms"/>
+<!-- p145 · dread -->
+<p><prosody rate="96%">He saw them, standing at the edges of the green, in the lanes, at their doors, keeping their distance. Watching him. Watching the dragons. Their faces in the grey light were the faces he’d seen at the hedge on the morning after the mill. Frightened. More frightened now than they’d been then.</prosody></p><break time="800ms"/>
+<!-- p146 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Why are they afraid?</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">We helped. Didn’t we? We saved them. Why are they afraid?</prosody></p><break time="500ms"/>
+<!-- p147 · quiet · Calder -->
+<p><prosody rate="95%">“Because we could have done the other thing,” said <sub alias="Cawlder">Calder</sub>.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p148 -->
+<p>He looked across the river as the sun came up.</p><break time="500ms"/>
+<!-- p149 -->
+<p>He hadn’t thought to, in the night. He hadn’t thought of anything but the fire. But standing on the green in the grey light, with the smoke going up all round him, he looked out past the black heap of the mill and the river shore, across the water, to the <sub alias="Harthmeer">Hearthmere</sub> bank.</p><break time="500ms"/>
+<!-- p150 -->
+<p>There were knights there.</p><break time="500ms"/>
+<!-- p151 -->
+<p>A line of them. At the water’s edge on the far bank, opposite the village, where the Greyhold road came along the river. Twenty, maybe. Mounted, most of them on horses, and a greyhart or two among them, white and tall with their antlers spread, standing in a long line along the bank in the dawn with lanterns on poles beside them, <sub alias="Harthmeer">Hearthmere</sub> lanterns that wanted no oil, still burning white and steady after the whole night, and the knights in grey sitting very still.</p><break time="500ms"/>
+<!-- p152 · tension -->
+<p><prosody rate="97%">Watching.</prosody></p><break time="800ms"/>
+<!-- p153 -->
+<p>They’d been there all night, he thought. They’d come along the road from Greyhold when the fire went up, and stopped at the water, and sat there on their horses, with their lanterns, and watched Harrow’s End burn. Watched the fighting in the lanes. Watched the dragons come down out of the sky.</p><break time="500ms"/>
+<!-- p154 · anger -->
+<p>And hadn’t crossed.</p><break time="500ms"/>
+<!-- p155 -->
+<p>He stood on the green and looked at them across the river, and they looked back at him. The light came up. The lanterns went pale. Nobody moved.</p><break time="500ms"/>
+<!-- p156 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Why don’t they come?</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">They’re knights. <sub alias="Imruh">Imra</sub> said knights are for helping. Why don’t they come over?</prosody></p><break time="500ms"/>
+<!-- p157 · Calder -->
+<p>“Because it’s the river,” said <sub alias="Cawlder">Calder</sub>.</p><break time="500ms"/>
+<!-- p158 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">So?</prosody></p><break time="500ms"/>
+<!-- p159 · quiet · Calder (thought) -->
+<p><prosody rate="95%">He didn’t have an answer. He watched them sit there, in their long grey line, on the far bank, in the dawn. One of them, in the middle of the line, on a big grey horse, lifted a hand. Just lifted it. Not a wave. Something else. As if to say: <prosody rate="97%" volume="-4dB">we see you.</prosody></prosody></p><break time="500ms"/>
+<!-- p160 -->
+<p>They turned, all together, and rode away along the River Road toward Greyhold, and the bank was empty.</p><break time="500ms"/>
+<!-- p161 · tender -->
+<p><prosody rate="95%"><sub alias="Cawlder">Calder</sub> turned round and walked up the hill toward his mother’s house, and the light in the window, and Wren.</prosody></p>
+<break time="1800ms"/>
+</speak>

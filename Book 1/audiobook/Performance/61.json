@@ -1,0 +1,1108 @@
+{
+ "chapter": 61,
+ "title": "Lucan",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Sixty-one.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Lucan.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "He came to the Long Barn on the hundred-and-thirty-first night, after the last bell, when she was on the late muck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "She heard Kesh first. A rattle of bells at the door, and the soft angry chittering the falcon made when she’d been brought somewhere she hadn’t chosen. Then the door, and the lantern, and Haverly in the gap with the bird hooded on his fist, looking down the long dim aisle between the stalls to where Maren stood with the barrow.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "He didn’t come in at once. He stood in the door as if he were deciding something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "speech",
+   "text": "“Ashdown,”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "narration",
+   "text": "She put the fork in the barrow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "speech",
+   "text": "“I’m on the late muck,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 11,
+   "para": "p6",
+   "type": "speech",
+   "text": "“Every night. Grieve’s orders. Rowan’s orders. Somebody’s.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p7",
+   "type": "speech",
+   "text": "“I know.”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 13,
+   "para": "p7",
+   "type": "narration",
+   "text": "He came in and let the door swing to behind him."
+  },
+  {
+   "seq": 14,
+   "para": "p7",
+   "type": "speech",
+   "text": "“That’s why I came now.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p8",
+   "type": "narration",
+   "text": "He walked down the aisle toward her, past the dray-beasts and the greyharts and the empty stall at the end where Dun had been. Under the old lamps. They still hung on their hooks the length of the barn, dark, and Grieve had hung a tallow lantern under each one, as if the old ones might be shamed into lighting. Kesh shifted on his glove. Somewhere down at the far end, behind its iron-banded doors, Thorne’s boar grunted once in its sleep and was quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p9",
+   "type": "narration",
+   "text": "He stopped a few paces off. He looked tired. She’d never seen him tired. Lucan Haverly had come to Greyhold two years ago with his hair cut the way they cut it in Hallowmere and a falcon on his fist he’d had since he was fifteen, and he’d looked rested every day since, as if he slept more than other people because he’d earned it.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p10",
+   "type": "narration",
+   "text": "He didn’t look rested now. There was a grey line under each eye. His boots were stained to the knee.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p11",
+   "type": "speech",
+   "text": "“I was in the boats,”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 19,
+   "para": "p11",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 20,
+   "para": "p11",
+   "type": "speech",
+   "text": "“On the hundred-and-thirtieth. Did you hear?”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p12",
+   "type": "speech",
+   "text": "“I heard there were boats.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p13",
+   "type": "speech",
+   "text": "“Six of them. Across the mouth of Hollow Beck, on the Saltreach side. Rowan sent us when the word came down the Way that the Clan was meeting at Teo Varr’s ford under some kind of truce. To watch. To see who came down the beck after.”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 23,
+   "para": "p13",
+   "type": "narration",
+   "text": "He shifted Kesh on his fist."
+  },
+  {
+   "seq": 24,
+   "para": "p13",
+   "type": "speech",
+   "text": "“We sat there from noon. And at dusk they started coming.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p14",
+   "type": "narration",
+   "text": "She waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p15",
+   "type": "speech",
+   "text": "“Men,”",
+   "speaker": "Haverly",
+   "mood": "grief"
+  },
+  {
+   "seq": 27,
+   "para": "p15",
+   "type": "narration",
+   "text": "said Haverly.",
+   "mood": "grief"
+  },
+  {
+   "seq": 28,
+   "para": "p15",
+   "type": "speech",
+   "text": "“In the water. In Clan grey. Some with the red thread, some without. Face down mostly. Horses. A saddle, on its own. Somebody’s cloak, spread out, going round and round in the eddy at the mouth like it was looking for something.”",
+   "speaker": "Haverly",
+   "mood": "grief"
+  },
+  {
+   "seq": 29,
+   "para": "p15",
+   "type": "narration",
+   "text": "He didn’t look at her.",
+   "mood": "grief"
+  },
+  {
+   "seq": 30,
+   "para": "p15",
+   "type": "speech",
+   "text": "“Wynn counted. He was in my boat. He counted out loud. He got to nineteen and stopped. An old man’s stick came down after. Just the stick, blackthorn, with a silver band. It went past my oar close enough to touch.”",
+   "speaker": "Haverly",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 31,
+   "para": "p16",
+   "type": "narration",
+   "text": "The barn was very quiet.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p17",
+   "type": "speech",
+   "text": "“It ended in blood again,”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 33,
+   "para": "p17",
+   "type": "narration",
+   "text": "said Haverly."
+  },
+  {
+   "seq": 34,
+   "para": "p17",
+   "type": "speech",
+   "text": "“The ford. Whatever the farmer was trying to do up there, it ended like the first time.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p18",
+   "type": "speech",
+   "text": "“The farmer?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p19",
+   "type": "speech",
+   "text": "“He went over us. In the dusk. On the old one, the big bronze one with the eye. So low I could see the scales.”",
+   "speaker": "Haverly",
+   "mood": "reflective"
+  },
+  {
+   "seq": 37,
+   "para": "p19",
+   "type": "narration",
+   "text": "Haverly’s voice was flat.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 38,
+   "para": "p19",
+   "type": "speech",
+   "text": "“He looked down at us. At the boats. I don’t know what he was looking for. Wynn reached for his crossbow and I put my hand on his arm.”",
+   "speaker": "Haverly",
+   "how": "flat",
+   "mood": "reflective"
+  },
+  {
+   "seq": 39,
+   "para": "p19",
+   "type": "narration",
+   "text": "He looked at her then.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 40,
+   "para": "p19",
+   "type": "speech",
+   "text": "“I don’t know why I did that either.”",
+   "speaker": "Haverly",
+   "mood": "reflective",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 41,
+   "para": "p20",
+   "type": "narration",
+   "text": "She didn’t ask him why he’d come. She thought he’d tell her. He did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p21",
+   "type": "speech",
+   "text": "“Rowan’s setting it for the hundred-and-thirty-fifth,”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 43,
+   "para": "p21",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 44,
+   "para": "p21",
+   "type": "speech",
+   "text": "“At dusk. The river’ll be down enough by then for the punts. She’s had the net carried out to the west shore already, in pieces, at first light, a bit every morning. And the chain from the armoury.”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 45,
+   "para": "p21",
+   "type": "narration",
+   "text": "He hesitated."
+  },
+  {
+   "seq": 46,
+   "para": "p21",
+   "type": "speech",
+   "text": "“She’s got Callis. With Wynn’s hounds, and his own. They’re to go in at the north end and drive it. Down the island, away from the pit, toward the west shore. The carcass’ll be on the net. Forty of us in the reeds. Thorne’s boar at the south end so it can’t go that way.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p22",
+   "type": "speech",
+   "text": "“Us,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 48,
+   "para": "p22",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p23",
+   "type": "speech",
+   "text": "“Us.”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 50,
+   "para": "p23",
+   "type": "narration",
+   "text": "He didn’t look away."
+  },
+  {
+   "seq": 51,
+   "para": "p23",
+   "type": "speech",
+   "text": "“I’m in the reeds. Kesh is to go up and mark where it runs.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p24",
+   "type": "narration",
+   "text": "She stood with her hands on the barrow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p25",
+   "type": "speech",
+   "text": "“She’ll do it without you,”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 54,
+   "para": "p25",
+   "type": "narration",
+   "text": "said Haverly."
+  },
+  {
+   "seq": 55,
+   "para": "p25",
+   "type": "speech",
+   "text": "“She told the captains so. In the north tower, yesterday. I was on the door. She said you’d refused three times and she’d confined you and she’d do it without you, and that it would go worse.”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 56,
+   "para": "p25",
+   "type": "narration",
+   "text": "He paused."
+  },
+  {
+   "seq": 57,
+   "para": "p25",
+   "type": "speech",
+   "text": "“She said you’d made it worse. Not you, exactly. She said you’d made it so there’s no way to do it that isn’t worse.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p26",
+   "type": "speech",
+   "text": "“Good,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 59,
+   "para": "p26",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p27",
+   "type": "narration",
+   "text": "He looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p28",
+   "type": "speech",
+   "text": "“I don’t mean good it’ll go worse,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 62,
+   "para": "p28",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 63,
+   "para": "p28",
+   "type": "speech",
+   "text": "“I mean good she knows.”",
+   "speaker": "Maren",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 64,
+   "para": "p29",
+   "type": "narration",
+   "text": "They sat on the edge of the empty stall at the end. Dun’s stall, where the old man’s stool still stood in the corner because nobody had had the heart to move it. She sat on the rail. Haverly sat on Merrow’s stool, with Kesh on his knee, and took the hood off her, and the falcon blinked at the lantern and roused and settled and looked at Maren with her fierce black eye.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p30",
+   "type": "narration",
+   "text": "They’d never sat down together. In two years. They’d drilled at the same straw men and stood in the same lines at the Lesson Wall and stood on the same wall at midwinter with the oath in their mouths. He’d been on the far side of everything. The front. The bonded. The ones who’d been chosen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p31",
+   "type": "speech",
+   "text": "“Why are you telling me?”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 67,
+   "para": "p31",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p32",
+   "type": "narration",
+   "text": "He was quiet a while.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p33",
+   "type": "speech",
+   "text": "“My father was a knight of the gate at Hallowmere,”",
+   "speaker": "Haverly",
+   "mood": "reflective"
+  },
+  {
+   "seq": 70,
+   "para": "p33",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 71,
+   "para": "p33",
+   "type": "speech",
+   "text": "“And his father. And his. There’s a list in the hall at home with all the names on it, back to the charter. And a sword over the hearth that’s gone to every one of them, with letters in the steel, that you’re not allowed to touch till you’re on the list. He sent it me when the paper went up on the gate. In a box. Like a cake. It’s under my cot.”",
+   "speaker": "Haverly",
+   "mood": "reflective"
+  },
+  {
+   "seq": 72,
+   "para": "p33",
+   "type": "narration",
+   "text": "He was quiet a moment.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 73,
+   "para": "p33",
+   "type": "speech",
+   "text": "“I used to read the list when I was small. I knew I’d be on it. Everybody knew. I was the eldest son, I’d go to Greyhold, I’d be chosen.”",
+   "speaker": "Haverly",
+   "mood": "reflective"
+  },
+  {
+   "seq": 74,
+   "para": "p33",
+   "type": "narration",
+   "text": "He ran a finger down Kesh’s back.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 75,
+   "para": "p33",
+   "type": "speech",
+   "text": "“And I was. The first time I ever held my fist out. I was fifteen, in my father’s mews at home, with the old falconer beside me to show me the glove. Nobody’s chosen in a mews, everybody knows that, it’s where you learn to carry the birds you’re given. I held out my fist and she came down on it. Out of the sky, through the open hatch in the roof. A wild eyas, from the cliffs above Hallowmere. Nobody had ever seen her before. She came down on my fist in front of my father and the falconer and half the house, and looked at me, and that was it.”",
+   "speaker": "Haverly",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p34",
+   "type": "narration",
+   "text": "Kesh looked at him with one eye, then the other.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p35",
+   "type": "speech",
+   "text": "“Everybody said, well, of course. My father said it. The falconer said it. They said it like it was weather. Of course it was me. Of course I’d be chosen. And I thought so too.”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 78,
+   "para": "p35",
+   "type": "narration",
+   "text": "He didn’t look up."
+  },
+  {
+   "seq": 79,
+   "para": "p35",
+   "type": "speech",
+   "text": "“I’ve thought so every day for six years. That I deserved her. That I deserved the front of the line and the silver pin and passing my trial. That I’d earned it somehow, by being who I am.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p36",
+   "type": "speech",
+   "text": "“And now?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p37",
+   "type": "speech",
+   "text": "“And now I’ve sat in a boat and watched nineteen men and an old man’s stick come down a beck,”",
+   "speaker": "Haverly",
+   "mood": "reflective"
+  },
+  {
+   "seq": 82,
+   "para": "p37",
+   "type": "narration",
+   "text": "said Haverly,",
+   "mood": "reflective"
+  },
+  {
+   "seq": 83,
+   "para": "p37",
+   "type": "speech",
+   "text": "“and the farmer go over my head on a dragon, and I didn’t do anything. Nobody did. We weren’t to cross. We sat there.”",
+   "speaker": "Haverly",
+   "mood": "reflective"
+  },
+  {
+   "seq": 84,
+   "para": "p37",
+   "type": "narration",
+   "text": "He looked at her.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 85,
+   "para": "p37",
+   "type": "speech",
+   "text": "“And I thought about you. On the ice. Going out flat with a rope after that family when Ottery told everybody to stay off. And I thought, she wasn’t chosen. Nothing ever came down out of the sky onto her fist. And she went out on the ice anyway.”",
+   "speaker": "Haverly",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p38",
+   "type": "narration",
+   "text": "She had nothing to say to that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p39",
+   "type": "speech",
+   "text": "“I don’t think I deserve her,”",
+   "speaker": "Haverly",
+   "how": "very quietly",
+   "mood": "quiet"
+  },
+  {
+   "seq": 88,
+   "para": "p39",
+   "type": "narration",
+   "text": "said Haverly, very quietly, with his hand on the falcon’s back.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 89,
+   "para": "p39",
+   "type": "speech",
+   "text": "“I don’t think I ever did. I think she just came down.”",
+   "speaker": "Haverly",
+   "how": "very quietly",
+   "mood": "quiet",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 90,
+   "para": "p40",
+   "type": "speech",
+   "text": "“Then don’t go,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 91,
+   "para": "p40",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 92,
+   "para": "p40",
+   "type": "speech",
+   "text": "“On the hundred-and-thirty-fifth. Don’t be in the reeds.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p41",
+   "type": "narration",
+   "text": "He looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p42",
+   "type": "speech",
+   "text": "“I’ll be in the reeds,”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 95,
+   "para": "p42",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p43",
+   "type": "speech",
+   "text": "“Why?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p44",
+   "type": "speech",
+   "text": "“Because if I’m not, somebody worse is.”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 98,
+   "para": "p44",
+   "type": "narration",
+   "text": "He said it simply."
+  },
+  {
+   "seq": 99,
+   "para": "p44",
+   "type": "speech",
+   "text": "“Callis is going in at the north end with three hounds and his collarbone still not right and a temper on him like a boil since the frost fair. If I’m in the reeds with Kesh, and she marks where it runs, maybe it goes on the net clean and nobody’s hurt. If I’m not, maybe Callis puts a bolt in it to slow it. Maybe it goes for a boat. Maybe it’s worse.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p45",
+   "type": "speech",
+   "text": "“It’s already worse. It’s a net.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p46",
+   "type": "speech",
+   "text": "“I know.”",
+   "speaker": "Haverly",
+   "mood": "urgent"
+  },
+  {
+   "seq": 102,
+   "para": "p46",
+   "type": "narration",
+   "text": "He was quiet.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 103,
+   "para": "p46",
+   "type": "speech",
+   "text": "“And because…”",
+   "speaker": "Haverly",
+   "mood": "urgent"
+  },
+  {
+   "seq": 104,
+   "para": "p46",
+   "type": "narration",
+   "text": "He stopped, and tried again.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 105,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Because the orders are the only thing that makes this grey anything but a coat for people like me. You see? If I start choosing which ones I’ll keep… if the bonded at the front start deciding for themselves which orders are good enough… then we’re just the front. We’re just the ones the beasts happened to come down to. And the people at the back are right about us. Tobin’s right. Tam’s right. The man on the hedge-wain’s right.”",
+   "speaker": "Haverly",
+   "mood": "urgent"
+  },
+  {
+   "seq": 106,
+   "para": "p46",
+   "type": "narration",
+   "text": "He looked down at Kesh.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 107,
+   "para": "p46",
+   "type": "speech",
+   "text": "“The only thing that makes it fair, Ashdown, the only thing that makes the front anything but luck, is that we do what we’re told when it’s hard. When it’s worst. That we’re the ones who don’t get to choose.”",
+   "speaker": "Haverly",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p47",
+   "type": "narration",
+   "text": "She looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p48",
+   "type": "narration",
+   "text": "She’d thought, for two years, that he was a boy who’d been handed everything and thought he’d earned it. She’d thought it at the trial table and at the Lesson Wall and on the wall at midwinter. She’d been right. And this was the other half of it, that she hadn’t seen. He’d been handed everything, and he’d decided the price of it was obedience, and he’d pay the price.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p49",
+   "type": "speech",
+   "text": "“You’re wrong,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 111,
+   "para": "p49",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p50",
+   "type": "speech",
+   "text": "“Maybe.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p51",
+   "type": "speech",
+   "text": "“It’s not fair because you obey. It’s not fair at all. Obeying doesn’t make it fair. It just makes it…”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 114,
+   "para": "p51",
+   "type": "narration",
+   "text": "She couldn’t find the word."
+  },
+  {
+   "seq": 115,
+   "para": "p51",
+   "type": "speech",
+   "text": "“Tidy.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p52",
+   "type": "speech",
+   "text": "“Maybe,”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 117,
+   "para": "p52",
+   "type": "narration",
+   "text": "said Haverly again. He put the hood back on Kesh, gently, and the falcon settled."
+  },
+  {
+   "seq": 118,
+   "para": "p52",
+   "type": "speech",
+   "text": "“I’m not brave enough to be you, Ashdown. I worked that out in the boat. I’m brave enough to be in the reeds. That’s all I’ve got.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p53",
+   "type": "narration",
+   "text": "She sat on the rail of Dun’s stall and understood him all the way through, as plainly as a man who’s told you which way he’ll jump. She didn’t agree with a word of it.",
+   "mood": "reflective",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 120,
+   "para": "p54",
+   "type": "narration",
+   "text": "He got up. He went back down the aisle toward the door with Kesh on his fist and the lantern, past the greyharts, past the dray-beasts. She stayed on the rail.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p55",
+   "type": "narration",
+   "text": "At the end of the barn, there were two doors. The great double door to the yard, that he’d come in by. And the small door at the back, on the midden side, that the grooms used to wheel the barrows out, and that Grieve barred every night at the last bell with a beam as thick as a man’s leg, because it gave on the midden, and the midden gave on the wall, and the wall was where the grooms went over to the Kettle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p56",
+   "type": "narration",
+   "text": "The beam was on its hooks beside it. The door was shut. Not barred.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p57",
+   "type": "narration",
+   "text": "Haverly went past it. He stopped. He looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p58",
+   "type": "narration",
+   "text": "She watched him look at it. He stood there in the lantern light with the falcon on his fist and looked at the unbarred door, and at the beam on its hooks, and his free hand came up a little way toward the beam, as it would have every other night of his life.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 125,
+   "para": "p59",
+   "type": "narration",
+   "text": "He put his hand down.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 126,
+   "para": "p60",
+   "type": "narration",
+   "text": "He went on to the great double door, and out, and pulled it to behind him. She heard his steps go away across the yard toward the mews.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p61",
+   "type": "narration",
+   "text": "She sat on the rail and looked at the small door on the midden side, shut, not barred, with the beam on its hooks beside it.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p62",
+   "type": "narration",
+   "text": "He hadn’t said anything. He hadn’t looked back.",
+   "mood": "quiet",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 129,
+   "para": "p63",
+   "type": "narration",
+   "text": "At the noon bell on the hundred-and-thirty-second day Kesh went up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p64",
+   "type": "narration",
+   "text": "Maren was in the yard with the barrow. Everybody was turning east toward the inner wall, with the scaffolds on the river wall above them and the hammering stopped for the bell. Haverly was in his place in the front line at the Lesson Wall with Kesh on his fist, hooded, the way the bonded stood.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p65",
+   "type": "speech",
+   "text": "Keep the watch below,",
+   "speaker": "crowd"
+  },
+  {
+   "seq": 132,
+   "para": "p65",
+   "type": "narration",
+   "text": "said three hundred voices.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p66",
+   "type": "narration",
+   "text": "The ground hummed. Maren felt it come up through her boots, stronger than it had been. Somebody near her caught their breath.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 134,
+   "para": "p67",
+   "type": "narration",
+   "text": "Kesh screamed.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p68",
+   "type": "narration",
+   "text": "She’d been hooded. She tore the hood off. Maren saw it: the falcon twisting on Haverly’s fist and ripping at the leather with her foot until it came away, and then going up. Off his glove, straight up, with her jesses trailing and her bells ringing wild, up past the scaffolds and the river wall and the north tower, screaming, into the white spring sky.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p69",
+   "type": "narration",
+   "text": "The voices faltered."
+  },
+  {
+   "seq": 137,
+   "para": "p69",
+   "type": "speech",
+   "text": "And do not…",
+   "speaker": "crowd",
+   "how": "faltering",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p70",
+   "type": "narration",
+   "text": "Haverly stood in the front line with his arm still out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p71",
+   "type": "narration",
+   "text": "The bell stopped. The yard turned to look. Up above Greyhold Kesh was going round and round in a high wide circle, screaming, and wouldn’t come down. Haverly didn’t call her. He didn’t whistle. He stood in the yard with his gloved arm held out, level, steady, where she could see it, and waited.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 140,
+   "para": "p72",
+   "type": "narration",
+   "text": "Everybody went back to work. The hammering started again on the scaffolds. Grieve shouted at somebody about straw.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p73",
+   "type": "narration",
+   "text": "Haverly stood with his arm out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p74",
+   "type": "narration",
+   "text": "Maren stood by the barrow and watched him. A quarter of an hour. Half an hour. The falcon going round overhead, screaming, then just going round. His arm stayed level. It must have burned from the shoulder down.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 143,
+   "para": "p75",
+   "type": "narration",
+   "text": "It didn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p76",
+   "type": "narration",
+   "text": "After an hour Kesh came down. All at once, out of the sky, the way she must have come down on his fist the first time, when he was fifteen, in front of three hundred people. She came down on the glove so hard his arm dropped a hand’s breadth under her and came back up. She sat there with her feathers up and her beak open, panting.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 145,
+   "para": "p77",
+   "type": "narration",
+   "text": "Haverly put his other hand on her back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p78",
+   "type": "narration",
+   "text": "He stood there a moment longer, with his head down over the bird, and turned and walked across the yard toward the mews with Kesh on his fist, and he passed the place where Maren stood with the barrow, and he didn’t look at her.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p79",
+   "type": "narration",
+   "text": "She watched him go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p80",
+   "type": "remembered",
+   "text": "I’m brave enough to be in the reeds.",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p81",
+   "type": "narration",
+   "text": "She picked up the barrow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p82",
+   "type": "narration",
+   "text": "Three nights. She counted them as she pushed it across the yard toward the midden, past the small door at the back of the Long Barn, shut, with the beam on its hooks beside it. Three nights to the hundred-and-thirty-fifth.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  }
+ ]
+}

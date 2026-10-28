@@ -1,292 +1,293 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<speak version="1.0" xml:lang="en-GB">
-  <!-- AI CUE: TITLE: clear and composed; give the heading room. Do not perform as narrative prose. -->
-  <p><s>Chapter 34: The Tidesteps</s></p><break time="700ms"/>
-  <break time="1400ms"/>
-  <!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>Go to Wendmouth with a full purse and you'll come home with a story, they say in the Marches. Calder's father had been to Wendmouth once, when he was young, with a cartload of barley, and had come home three weeks later with an empty cart, a broken nose and a story he never told.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>Calder had always wondered what the story was. Walking down the drove road into Wendmouth with four coppers in his purse and nothing else, he thought he might be about to find out.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He saw it first from the last hill above the coast, with the sun well up.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The road came down out of the Wendwood, where he'd left the three of them in the dark before dawn, in a hollow under the oaks so deep and so dark they could have lain there a hundred years and never been seen, and went over a long bare hill, and there below him was the sea.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>He'd never seen it. He'd heard of it all his life. He'd thought of it, when he thought of it at all, as a very big river with no far bank. It was nothing like a river. It was grey and enormous and it moved all at once, all of it, the whole thing rising and falling and coming in toward the land in long slow lines like the furrows of a field ploughed by a giant. It smelled of salt and rot and something cold and clean, and it made a sound, even from up here, a long deep endless breathing, that went into him and stayed.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>On the edge of it, where the Wend came down out of the hills and spread out into the grey in a great fan of brown water and mudflats and channels, there was a city.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He'd never seen one of those either. He'd been to Cotter's Cross, which had a market and a shrine and four hundred people. He'd been to Varrhold, which was a hold. This was neither. It went on and on. Along the east bank of the river mouth and out onto the mudflats and up the hill on the far side, roofs and roofs and roofs, grey slate and red tile and, out over the water, on legs, wood. Painted wood. Great warehouses built out over the mud on stilts as thick as trees, painted in colours he'd never seen on a building, crimson and saffron and a deep sea-green and a blue like a jay's wing, with their names written along their sides in letters as tall as a man. And between the warehouses, in the channels of the river mouth, boats. Hundreds of boats. Lashed together, side by side, in great rafts that went out across the water like islands, with awnings on them and smoke going up and people moving about on them in the morning light.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>The floating market, he thought. Rue had told him. And everybody on the charcoal road.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And at the bottom of the city, on the harbour, among the ships, he could see a quay. Long and grey and stone, going out into the water, with buildings on it, and cages.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He stood on the hill above the sea with his collar up and his hat down and looked at Gallows Quay.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Then he went down into Wendmouth.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Nobody looked at him. He'd been right about that.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>The road was full of people going into the city, and most of them looked like him. Burned out, travel-stained, with bundles on their backs and children by the hand and the dazed, slow, careful look of people who've come a long way to somewhere they don't know. Marches people, a lot of them. He heard the Marches in their voices, the long flat vowels of the river farms and the hills. Hearthmere people too, a few, from the south bank. And others, from further, from places he didn't know.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>They went in through a gate in a wall that nobody was guarding, past a toll-house where nobody asked for a toll, and into streets so narrow and so tall and so full of people that he couldn't see the sky.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He'd thought he'd be frightened. He was, a little. But mostly he was just tired, and lost, and hungry, and after an hour of walking he found that the city had carried him down to the water, as a river carries a stick, to a long street along the fish-docks where the air stank and the gulls screamed and every third door had a lantern over it.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>The Low Lantern was the cheapest of them. He knew because a woman from Ewe Hollow told him so, standing in the street with her three children, looking up at it. Three coppers a night, she said. And you get a bit of floor. He had four coppers. He went in with her.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>It was a long low room under a warehouse, with straw on the floor and a fire at one end and about sixty people in it, sitting and lying and sleeping in their clothes. Marches people. Burned-out people. Talking low in the long flat river vowels. He found a bit of floor against the wall, and sat down on it, and leaned his head back, and shut his eyes.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And felt them.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Far off. Faint. Five leagues back up the drove road, in the hollow under the oaks of the Wendwood. Too far to talk. He'd known it would be; he'd tested it with Lisska at Crow Scar. Three leagues, perhaps four, and then the voice went thin and went. But the feeling was there. Three of them. Aurveth, slow and deep and patient, asleep or nearly. Kharrak, restless, prowling, unhappy, the red tide low but never quite gone. And Lisska. Bright and anxious and small, a little hum of worry going round and round, like a bee in a jar, the way it had been since he'd walked away from them at dawn.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>I'm all right, he thought, at her. He knew she couldn't hear it. He thought it anyway, and tried to feel it. I'm all right, little one. I'm sitting down. I'm safe.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He felt the hum go round, and round. And then, very slightly, settle.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"You'll be going to hear him, then," said the woman from Ewe Hollow, toward noon.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She was sitting on the straw beside him with her youngest asleep in her lap. She'd been talking since he sat down, about the farm, and the burning, and her man, who'd gone to the fighting for Arn's silver and not come back. He'd let her talk. He was good at that.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Who?"</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She looked at him as if he were simple.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Vale," she said. "At noon. On the Tidesteps. Everybody's going." She looked round the room, and he saw that people were getting up, here and there, shaking the straw out of their clothes, gathering children. "He speaks on the Tidesteps when he's in the city. Anyone can. That's the law here. But nobody gets a crowd like him." She smoothed the child's hair. "I heard him the first week we came. My cousin took me. I didn't want to go." She was quiet a moment. "I go every time now."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Who is he?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Vale," she said again, as if that were all anyone needed. Then, seeing his face: "He's the one who talks about the old realm. The one road. Before the six. When there weren't any lords and the beasts were free." She looked at him. "You've not heard of him? Where've you been?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Up in the hills," said Calder.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Well." She got up, carefully, with the child. "Come and hear him. You'll see."</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The Tidesteps went down from the street the city called the Strand to the harbour in one great sweep of grey stone, wide as a field and a hundred steps high, with the warehouses of the trading houses standing up on either side of it in their crimson and saffron and green and blue. At the bottom was the water, and the masts of ships, and the smell of the sea. At the top was the Strand, and a stone platform where the steps began, with an iron rail round it.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>When Calder came out onto the Strand at noon with the woman from Ewe Hollow and her children, the steps were full.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He'd never seen so many people. Not at Coldtarn. Not at Teo's pyre. They filled the Tidesteps from top to bottom and side to side, sitting and standing, packed so close that he couldn't see the stone. Thousands. Two thousand. Three. All facing up the steps toward the platform at the top. Fishwives and dockers and sailors and clerks. Marches people from the doss-houses, in their burned clothes. Women with babies. Old men on sticks. Young men, a great many young men, with iron rings on cords round their necks.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He saw the rings and his stomach went cold.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>There were sellers working the steps, the way there are at any crowd. Hot pies. Ballad-sheets. A thin man in a sea-green coat with a tray round his neck, going along the rows calling "Warranted, warranted," holding up little knots of cord and twists of paper with a stamp on each: fair winds, a dry hold, a sound night's sleep. The Tide Council's own stamp, he said, on every one. The woman from Ewe Hollow said half the stamps in Wendmouth were cut in the same back room as the charms. She bought one anyway, for her youngest.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>The woman from Ewe Hollow pulled him down into a gap on the steps, halfway, near the middle, and sat. He sat beside her. Above them, on the platform at the top of the steps, there was nobody yet. Just the iron rail, and the empty stone, and the four great painted warehouses standing round it like judges.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And then there was.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He came up onto the platform from the back, from the Strand, without any fuss at all. No trumpets. No guards. Two or three men behind him, plainly dressed, who stopped at the edge of the platform and stood there. He walked out alone to the iron rail at the front, and put his hands on it, and looked down at the Tidesteps.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Three thousand people went quiet.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Calder had never heard a silence like it. Three thousand people, on a hundred stone steps, by the sea, and in one moment there wasn't a sound but the gulls and the waves. He felt it go through the crowd round him like wind through barley. The woman from Ewe Hollow had stopped breathing.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The man at the rail smiled.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He was tall. Taller than most. Lean, in a plain dark coat, with no hat, and his hair cut short and dark. His face was long and pale and clean-shaven, and at that distance Calder couldn't have said whether he was young or old. But he could see the smile. Everyone could. It went down the Tidesteps like sun coming out from behind a cloud.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Well," said the man. "That's a lot of you."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And three thousand people laughed.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Calder found that he'd laughed too. He hadn't meant to. It just came out of him. It was the way the man said it. Easy, warm, a little surprised, as if he'd come out to talk to a few friends on a doorstep and found the whole street there. His voice wasn't loud. It didn't need to be. It went down the steps to the very bottom and out over the water, clear and close, so that Calder, halfway down, felt as if the man were sitting beside him.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I'll not keep you long," said Vale. "It's cold, and you've all got better things to do. Most of you have got nothing to eat and nowhere to sleep and you've walked a long way to get here, and here I am, keeping you sitting on wet stone." He shook his head. "I'm sorry for that. I am. I'll be quick."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He wasn't quick. He talked for an hour. And nobody moved.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He talked about the one realm.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Calder had heard about it. Everybody had. Ada sang about it at the fair. Before the six, there was one. Teo had said the ports were singing it now like a promise. But he'd never heard it told like this.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Vale told it like a story you'd tell a child at bedtime. Slowly. Simply. With his hands on the rail, and his voice going down the steps, warm and low. A long time ago, he said, so long that nobody remembered it, there was one country. Not six. One. Winshire. And one road ran through it from end to end, from the cold north to the warm south, from the mountains to the sea, and every people in the world walked on it. And the beasts walked on it too. Free. Beside the people. Not caged. Not chained. Not licensed. Not owned.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"And nobody was above anybody," said Vale, "because of a beast."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He let that go down the steps.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Think about that," he said. "Nobody sat in the front of the hall because they'd a falcon on their fist. Nobody got the good land because their grandfather had a bond and yours didn't. Nobody was called unchosen." He let the word sit on the steps a moment, like something spat out. "There wasn't a word for it. It didn't mean anything. A beast was a beast and a person was a person, and they walked the road together, and when they chose each other, they chose each other, and it didn't put either of them above anybody else."</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>The crowd was so quiet that Calder could hear the woman beside him breathing.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"And then it broke," said Vale.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He told them how. Not the details. Nobody knew the details. But it broke, he said, into six, and every one of the six kingdoms that came out of it did the same thing. It took the beasts. It chained them, or caged them, or licensed them, or made them a thing for lords. It took the bond, which had been a free thing between two creatures who'd chosen each other, and made it a ladder, with the bonded at the top and everyone else at the bottom. And it told everybody that it had always been that way, and always would be.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"It's a lie," said Vale. Quite gently. "All of it. Every crown in Winshire is built on that lie." He looked down the steps. "And one of them," he said, "is built on a lie so old, and so big, and so deep, that when it comes out, and it will come out, the ground will shake."</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Three thousand people drew breath at once.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I'll not tell you which one, friends," said Vale, and smiled. "Not today. You'd not believe me. You'll see it for yourselves, soon. Sooner than you think." He looked out over the harbour, north, toward the hills. "The world's turning. You can feel it, can't you? All of you. You've felt it this year. On the river. In the hills. In your fields. Things aren't the way they've always been. Things are waking up."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He turned back to the crowd.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I'll tell you something that happened in the Marches this autumn," he said.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Calder went cold.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"There's a farmer," said Vale. "In the Marches. On the river. A barley farmer. No lord. No knight. Not bonded to anything, his whole life. Never had a falcon or a hound or a dray-beast that'd look twice at him. One of the unchosen." He smiled. "One of you."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The crowd stirred.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"And in the Clan's war this autumn, three of the Clan's dragons lost their riders. All three. In one night. And you know what happens then. Everyone knows. The beast goes after the rider. One life between two. They should have died." He paused. "They didn't."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The Tidesteps were silent.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"They chose him," said Vale. "The farmer. All three. At once. In the same hour. Three dragons, choosing one unchosen man, in a burned field." He let it go down the steps. "Nobody has ever done that. Not in any kingdom. Not in any history. Not since the six. Nobody's ever held more than one bond." His voice dropped. "Except in the songs. Except in the old realm. When the bond was free, and beasts and people chose who they liked, and there was no one above anyone."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He leaned on the rail.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"The old bonds are waking," he said. "That's what it means. That's what he is. He's a sign. The world's turning back to what it was. To one. And it didn't start with a king, or a knight, or a lord. It started with a farmer." He smiled down the steps. "It started with one of you."</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>And the Tidesteps exploded.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Calder sat in the middle of it with his collar up and his hat down and his hands clenched between his knees, and three thousand people roared all round him. On their feet. Shouting. Weeping. The woman from Ewe Hollow was on her feet with the child in her arms and tears on her face, shouting something he couldn't hear. The young men with the iron rings round their necks were holding them up, all over the steps, a thousand little dark rings held up in a thousand fists in the grey sea light. And somewhere a voice started it, and then another, and then all of them, three thousand people on the Tidesteps of Wendmouth, by the sea, saying it all together like a heartbeat:</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>One again. One again. One again.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And five leagues away, under the oaks of the Wendwood, through the green mark on his chest, he felt Lisska sit up.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>She couldn't hear. He knew she couldn't. She was too far off. But she felt him. Felt what was going through him, sitting there on the cold stone in the middle of all that roaring. The cold. The fear. The sick, crawling, terrible feeling of being seen, by three thousand people, who didn't know they were seeing him. Of being talked about. Of being used.</p>
-  <break time="450ms"/><!-- AI CUE: QUESTION: shape the sentence as a genuine question, following its context; avoid an exaggerated upward lilt. -->
-  <p>He felt her worry come pulsing up through the green mark, hot and frantic. What? What is it? What's wrong? Are you hurt? What's happening? What's wrong?</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He couldn't answer. He sat there with his hands between his knees and let it pulse.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The man at the rail was looking down the steps.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Not at him. Calder knew that. There were three thousand people on the steps. The man couldn't possibly know. But he was looking down the steps, smiling, with his hands on the rail, and his eyes went over the crowd, slowly, the way you'd look over a field of barley, and for one moment they went over the place where Calder sat.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>He couldn't see the colour of them from there. Grey, the woman beside him had said that morning; everyone in Wendmouth knew Vale's grey eyes. What he could see was how they looked. Warm, and very, very interested.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>They went on. Over the crowd. Away.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The man at the rail lifted his hand.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>The roaring stopped. All at once. Three thousand people, mid-shout, stopped and sat down on the Tidesteps like children told to by their mother.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Go home," said Vale gently. "Those of you who've got homes. And those of you who haven't, go and find the people in the grey coats at the bottom of the Strand, by the Halloran warehouse. They've got soup. And blankets. And they'll find you somewhere to sleep." He smiled. "That's all I came to say. Thank you for listening."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He turned, and walked back off the platform, and the plainly dressed men closed in behind him, and he was gone.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>Calder sat on the steps after. The crowd went past him, up the steps and down, talking, glowing, holding their rings. The woman from Ewe Hollow went with them, toward the bottom of the Strand and the soup, and turned round once and looked for him, and didn't see him, and went on.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He sat there.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He wants me.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Not the way Gorm Askell wanted him, as a keeper. Or Sten Raske, as a sword. Or Idris Vey, as a threat with a price on it. Or the coin man at the gate, with his pleasant face and his purse of new silver with a ring of six struck on the rim. They'd ask. They'd listen. They believe a man like you ought to have a say.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The coin man was his. He wants me as a sign.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>The worst of it was that, sitting on the cold steps by the sea, with the crowd going past him and the gulls screaming and three dragons waiting for him under the oaks five leagues away, he'd felt it. In the middle of the roaring. When Vale said it started with one of you. He'd felt it go into him like warm water. Just for a moment.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He'd wanted to stand up.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He went to Gallows Quay at dusk.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>His feet took him, the way they'd taken him to the lower stable at Varrhold on the night of Teo's pyre. Down from the Tidesteps, along the harbour, past the ships, to the long grey stone quay that went out into the water with buildings on it and cages.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It was closing. The market, if that's what it was, was over for the day. The cages along the quay were mostly empty, their doors standing open, their floors swept. A few weren't. He walked along the quay in the dusk with his collar up and looked into them as he went.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>A hound, in one. Thin, grey, with a cut on its muzzle, lying with its head on its paws.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>A pair of martens in a wire box, going round and round.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>A thing like a great white ox, with a hump, that he'd seen in Aurveth's memory walking free on a white bridge in the sun. Lying in a cage too small for it, on its side, with its eyes shut, breathing.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And at the end of the quay, a building. Stone, three floors, with a sign over the door painted in the dark red and gold of one of the trading houses, and a little brass plate beside it with a name on it that he couldn't read. There were lights in the upper windows. There was a man at the door. A big one, with a cudgel.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>While he looked, the door opened and a woman came out. Grey-haired, plain, in a plain coat, nobody you'd look at twice, and the man with the cudgel stood back from her like a dog getting off a chair. She went off along the quay without looking at anybody. Two beast-sellers coming the other way crossed to the far side to let her by. When she'd gone, one of them said, low, "Halloran's drawer," and the other spat on the stones for luck and didn't look after her.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He didn't go near it. He turned round and walked back along the quay and went into the tavern at the landward end. A low, smoky, crowded place called the Crane, with a painted bird on its sign and sawdust on its floor, full of men who smelled of beasts.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>He bought a cup of small beer with his last copper and sat in the corner and listened.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>They were beast-sellers. Most of them. He could tell by their hands, and their clothes, and what they talked about. Prices. Buyers. Which house was paying, and for what, and how much. They talked the way farmers talked at Cotter's Cross on market day, about barley and wool, and he'd have felt almost at home if he hadn't known what they were selling.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>They were unhappy.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"…gone to the dogs," a big red-faced man at the next table was saying, to anybody who'd listen. "The Marches trade. Gone to the dogs this year. Two years ago you could pick up anything you liked on that river. Anything. Hounds, martens, a dray-beast if you were quick. Over the water on a barge by night and nobody the wiser." He drank. "Now look at it."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"It's the war," said someone.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"It's not the war. War's good for trade. Everyone's selling. It's the knights." The red-faced man banged his cup down. "Hearthmere knights. Poking their noses in. There was one at Millbrook in the summer, a girl, a student, freed a whole cage of Gannet's off the jetty. Smashed the lock with her sword and let it go. A duskcat. Worth forty silver. Just let it go." He shook his head. "Freeing other people's property. It's not right."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"That's the same one," said a thin man across the table. "Isn't it? The one up at the Ruin."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"What one?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"You've not heard?" The thin man leaned in. "There's a Hearthmere girl, a knight-student, that's been sitting with the Old Ruin's monster. On the island. For weeks. They sent her out there for her trial, to bring back proof of it, and she came back with nothing and they failed her. And she keeps going back. Sits by it. Every few days. In a punt. And it doesn't eat her." He drank. "Sits with it instead of killing it."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Monster," said the red-faced man scornfully.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"It's real," said the thin man. "Bigger than a dray-beast. I had it from the Captain's lot, the hunters. They had a contract on it. Big money. Cage and all, the works." He lowered his voice. "Three of their men dead on that island in one night, and then the girl cuts it loose off their chains with a hammer, and now they won't go back. Not for any money. Not with her out there sitting by it. They say it's gone strange." He shook his head. "Sitting with monsters. Instead of killing them. That's Hearthmere knights for you."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Students," said the red-faced man.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Same thing."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Calder sat in the corner with his cup of small beer and didn't drink it.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Cuts it loose off their chains with a hammer.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>He thought about the girl on the stream bank, not moving. Like robbing it, Rue had said.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She's on her own over there. On the island. With the hunters and the Captain's lot. And then: no. She's not on her own. She's got the old thing.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>He thought, quite clearly, sitting in the smoke of the Crane on Gallows Quay with the cages outside in the dark and the man at the door of the red-and-gold building with his cudgel:</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>So have I.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He walked out of Wendmouth that night, up the drove road in the dark, five leagues, with no money and nothing to eat and a cold wind off the sea at his back.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He felt them, all the way. Getting stronger. Nearer. Like coming up a long dark hall toward a room with a fire in it. Somewhere past the third league, Lisska's voice came in, faint, a whisper in another house, getting louder.</p>
-  <break time="450ms"/><!-- AI CUE: QUESTION: shape the sentence as a genuine question, following its context; avoid an exaggerated upward lilt. -->
-  <p>…you? Is that you? Are you there? Can you hear me? I can feel you. Are you there? Are you all right? What happened? You went all cold. In the middle of the day. All cold and frightened. What happened?</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I'm here," he said, out loud, on the dark road. "I'm all right, little one. I'm coming."</p>
-  <break time="450ms"/><!-- AI CUE: QUESTION: shape the sentence as a genuine question, following its context; avoid an exaggerated upward lilt. -->
-  <p>What happened?</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He walked on for a while before he answered.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I met a man," he said, "who wants me."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Everybody wants you.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Not like this one."</p>
-  <break time="450ms"/><!-- AI CUE: QUESTION: shape the sentence as a genuine question, following its context; avoid an exaggerated upward lilt. -->
-  <p>He felt Kharrak come up, through the rust-red mark. Sharp. Awake. Who?</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>He thought about the face at the rail. The long pale face. The smile that went down three thousand people like sun coming out from behind a cloud. The grey eyes going over the crowd, warm, and very, very interested.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"His name's Vale," he said. "And everyone in Wendmouth would die for him."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>None of them spoke for a while.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Then Aurveth, very low, from the dark under the oaks, nearer now, much nearer: Tell me everything. Every word. From the beginning.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He did. Walking up the drove road in the dark, toward the Wendwood, he told them all of it.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>When he got to the part on the Tidesteps, when Vale said it started with one of you, and he'd felt it go into him like warm water, he told them that too.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He felt them feel it. All three.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Not one of them spoke.</p>
-<break time="450ms"/></speak>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<!-- The Watch Below, Chapter 34: The Tidesteps. Point of view: Calder. -->
+<p><s>Chapter Thirty-four.</s></p><break time="800ms"/>
+<p><s>The Tidesteps.</s></p><break time="1800ms"/>
+<!-- p1 · the Marches (remembered) -->
+<p><prosody volume="-3dB">Go to Wendmouth with a full purse and you’ll come home with a story,</prosody> they say in the Marches. Calder’s father had been to Wendmouth once, when he was young, with a cartload of barley, and had come home three weeks later with an empty cart, a broken nose and a story he never told.</p><break time="500ms"/>
+<!-- p2 -->
+<p>Calder had always wondered what the story was. Walking down the drove road into Wendmouth with four coppers in his purse and nothing else, he thought he might be about to find out.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p3 -->
+<p>He saw it first from the last hill above the coast, with the sun well up.</p><break time="500ms"/>
+<!-- p4 -->
+<p>The road came down out of the Wendwood, where he’d left the three of them in the dark before dawn, in a hollow under the oaks so deep and so dark they could have lain there a hundred years and never been seen, and went over a long bare hill, and there below him was the sea.</p><break time="500ms"/>
+<!-- p5 · awe -->
+<p><prosody rate="95%">He’d never seen it. He’d heard of it all his life. He’d thought of it, when he thought of it at all, as a very big river with no far bank. It was nothing like a river. It was grey and enormous and it moved all at once, all of it, the whole thing rising and falling and coming in toward the land in long slow lines like the furrows of a field ploughed by a giant. It smelled of salt and rot and something cold and clean, and it made a sound, even from up here, a long deep endless breathing, that went into him and stayed.</prosody></p><break time="800ms"/>
+<!-- p6 -->
+<p>On the edge of it, where the Wend came down out of the hills and spread out into the grey in a great fan of brown water and mudflats and channels, there was a city.</p><break time="500ms"/>
+<!-- p7 · awe -->
+<p><prosody rate="95%">He’d never seen one of those either. He’d been to Cotter’s Cross, which had a market and a shrine and four hundred people. He’d been to Varrhold, which was a hold. This was neither. It went on and on. Along the east bank of the river mouth and out onto the mudflats and up the hill on the far side, roofs and roofs and roofs, grey slate and red tile and, out over the water, on legs, wood. Painted wood. Great warehouses built out over the mud on stilts as thick as trees, painted in colours he’d never seen on a building, crimson and saffron and a deep sea-green and a blue like a jay’s wing, with their names written along their sides in letters as tall as a man. And between the warehouses, in the channels of the river mouth, boats. Hundreds of boats. Lashed together, side by side, in great rafts that went out across the water like islands, with awnings on them and smoke going up and people moving about on them in the morning light.</prosody></p><break time="800ms"/>
+<!-- p8 · Calder (thought) -->
+<p><prosody rate="97%" volume="-4dB">The floating market,</prosody> he thought. Rue had told him. And everybody on the charcoal road.</p><break time="500ms"/>
+<!-- p9 -->
+<p>And at the bottom of the city, on the harbour, among the ships, he could see a quay. Long and grey and stone, going out into the water, with buildings on it, and cages.</p><break time="500ms"/>
+<!-- p10 -->
+<p>He stood on the hill above the sea with his collar up and his hat down and looked at Gallows Quay.</p><break time="500ms"/>
+<!-- p11 -->
+<p>Then he went down into Wendmouth.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p12 -->
+<p>Nobody looked at him. He’d been right about that.</p><break time="500ms"/>
+<!-- p13 -->
+<p>The road was full of people going into the city, and most of them looked like him. Burned out, travel-stained, with bundles on their backs and children by the hand and the dazed, slow, careful look of people who’ve come a long way to somewhere they don’t know. Marches people, a lot of them. He heard the Marches in their voices, the long flat vowels of the river farms and the hills. Hearthmere people too, a few, from the south bank. And others, from further, from places he didn’t know.</p><break time="500ms"/>
+<!-- p14 -->
+<p>They went in through a gate in a wall that nobody was guarding, past a toll-house where nobody asked for a toll, and into streets so narrow and so tall and so full of people that he couldn’t see the sky.</p><break time="500ms"/>
+<!-- p15 -->
+<p>He’d thought he’d be frightened. He was, a little. But mostly he was just tired, and lost, and hungry, and after an hour of walking he found that the city had carried him down to the water, as a river carries a stick, to a long street along the fish-docks where the air stank and the gulls screamed and every third door had a lantern over it.</p><break time="500ms"/>
+<!-- p16 · the Ewe Hollow woman -->
+<p>The Low Lantern was the cheapest of them. He knew because a woman from Ewe Hollow told him so, standing in the street with her three children, looking up at it. Three coppers a night, she said. And you get a bit of floor. He had four coppers. He went in with her.</p><break time="500ms"/>
+<!-- p17 -->
+<p>It was a long low room under a warehouse, with straw on the floor and a fire at one end and about sixty people in it, sitting and lying and sleeping in their clothes. Marches people. Burned-out people. Talking low in the long flat river vowels. He found a bit of floor against the wall, and sat down on it, and leaned his head back, and shut his eyes.</p><break time="500ms"/>
+<!-- p18 -->
+<p>And felt them.</p><break time="500ms"/>
+<!-- p19 · tender -->
+<p><prosody rate="95%">Far off. Faint. Five leagues back up the drove road, in the hollow under the oaks of the Wendwood. Too far to talk. He’d known it would be; he’d tested it with Lisska at Crow Scar. Three leagues, perhaps four, and then the voice went thin and went. But the feeling was there. Three of them. Aurveth, slow and deep and patient, asleep or nearly. Kharrak, restless, prowling, unhappy, the red tide low but never quite gone. And Lisska. Bright and anxious and small, a little hum of worry going round and round, like a bee in a jar, the way it had been since he’d walked away from them at dawn.</prosody></p><break time="500ms"/>
+<!-- p20 · tender: reassuring someone who can't hear · Calder (thought) -->
+<p><prosody rate="95%"><prosody rate="97%" volume="-4dB">I’m all right,</prosody> he thought, at her. He knew she couldn’t hear it. He thought it anyway, and tried to feel it. <prosody rate="97%" volume="-4dB">I’m all right, little one. I’m sitting down. I’m safe.</prosody></prosody></p><break time="500ms"/>
+<!-- p21 -->
+<p>He felt the hum go round, and round. And then, very slightly, settle.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p22 · the Ewe Hollow woman -->
+<p>“You’ll be going to hear him, then,” said the woman from Ewe Hollow, toward noon.</p><break time="500ms"/>
+<!-- p23 -->
+<p>She was sitting on the straw beside him with her youngest asleep in her lap. She’d been talking since he sat down, about the farm, and the burning, and her man, who’d gone to the fighting for Arn’s silver and not come back. He’d let her talk. He was good at that.</p><break time="500ms"/>
+<!-- p24 · Calder -->
+<p>“Who?”</p><break time="500ms"/>
+<!-- p25 -->
+<p>She looked at him as if he were simple.</p><break time="500ms"/>
+<!-- p26 · the Ewe Hollow woman -->
+<p>“Vale,” she said. “At noon. On the Tidesteps. Everybody’s going.” She looked round the room, and he saw that people were getting up, here and there, shaking the straw out of their clothes, gathering children. “He speaks on the Tidesteps when he’s in the city. Anyone can. That’s the law here. But nobody gets a crowd like him.” She smoothed the child’s hair. “I heard him the first week we came. My cousin took me. I didn’t want to go.” She was quiet a moment. “I go every time now.”</p><break time="500ms"/>
+<!-- p27 · Calder -->
+<p>“Who is he?”</p><break time="500ms"/>
+<!-- p28 · the Ewe Hollow woman -->
+<p>“Vale,” she said again, as if that were all anyone needed. Then, seeing his face: “He’s the one who talks about the old realm. The one road. Before the six. When there weren’t any lords and the beasts were free.” She looked at him. “You’ve not heard of him? Where’ve you been?”</p><break time="500ms"/>
+<!-- p29 · Calder -->
+<p>“Up in the hills,” said Calder.</p><break time="500ms"/>
+<!-- p30 · the Ewe Hollow woman -->
+<p>“Well.” She got up, carefully, with the child. “Come and hear him. You’ll see.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p31 -->
+<p>The Tidesteps went down from the street the city called the Strand to the harbour in one great sweep of grey stone, wide as a field and a hundred steps high, with the warehouses of the trading houses standing up on either side of it in their crimson and saffron and green and blue. At the bottom was the water, and the masts of ships, and the smell of the sea. At the top was the Strand, and a stone platform where the steps began, with an iron rail round it.</p><break time="500ms"/>
+<!-- p32 -->
+<p>When Calder came out onto the Strand at noon with the woman from Ewe Hollow and her children, the steps were full.</p><break time="500ms"/>
+<!-- p33 -->
+<p>He’d never seen so many people. Not at Coldtarn. Not at Teo’s pyre. They filled the Tidesteps from top to bottom and side to side, sitting and standing, packed so close that he couldn’t see the stone. Thousands. Two thousand. Three. All facing up the steps toward the platform at the top. Fishwives and dockers and sailors and clerks. Marches people from the doss-houses, in their burned clothes. Women with babies. Old men on sticks. Young men, a great many young men, with iron rings on cords round their necks.</p><break time="500ms"/>
+<!-- p34 · dread -->
+<p><prosody rate="96%">He saw the rings and his stomach went cold.</prosody></p><break time="800ms"/>
+<!-- p35 · a seller, calling -->
+<p>There were sellers working the steps, the way there are at any crowd. Hot pies. Ballad-sheets. A thin man in a sea-green coat with a tray round his neck, going along the rows calling “Warranted, warranted,” holding up little knots of cord and twists of paper with a stamp on each: fair winds, a dry hold, a sound night’s sleep. The Tide Council’s own stamp, he said, on every one. The woman from Ewe Hollow said half the stamps in Wendmouth were cut in the same back room as the charms. She bought one anyway, for her youngest.</p><break time="500ms"/>
+<!-- p36 -->
+<p>The woman from Ewe Hollow pulled him down into a gap on the steps, halfway, near the middle, and sat. He sat beside her. Above them, on the platform at the top of the steps, there was nobody yet. Just the iron rail, and the empty stone, and the four great painted warehouses standing round it like judges.</p><break time="500ms"/>
+<!-- p37 -->
+<p>And then there was.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p38 -->
+<p>He came up onto the platform from the back, from the Strand, without any fuss at all. No trumpets. No guards. Two or three men behind him, plainly dressed, who stopped at the edge of the platform and stood there. He walked out alone to the iron rail at the front, and put his hands on it, and looked down at the Tidesteps.</p><break time="500ms"/>
+<!-- p39 -->
+<p>Three thousand people went quiet.</p><break time="500ms"/>
+<!-- p40 · awe: a vast hush -->
+<p><prosody rate="95%">Calder had never heard a silence like it. Three thousand people, on a hundred stone steps, by the sea, and in one moment there wasn’t a sound but the gulls and the waves. He felt it go through the crowd round him like wind through barley. The woman from Ewe Hollow had stopped breathing.</prosody></p><break time="800ms"/>
+<!-- p41 -->
+<p>The man at the rail smiled.</p><break time="500ms"/>
+<!-- p42 -->
+<p>He was tall. Taller than most. Lean, in a plain dark coat, with no hat, and his hair cut short and dark. His face was long and pale and clean-shaven, and at that distance Calder couldn’t have said whether he was young or old. But he could see the smile. Everyone could. It went down the Tidesteps like sun coming out from behind a cloud.</p><break time="500ms"/>
+<!-- p43 · Vale -->
+<p>“Well,” said the man. “That’s a lot of you.”</p><break time="500ms"/>
+<!-- p44 · humour -->
+<p>And three thousand people laughed.</p><break time="500ms"/>
+<!-- p45 -->
+<p>Calder found that he’d laughed too. He hadn’t meant to. It just came out of him. It was the way the man said it. Easy, warm, a little surprised, as if he’d come out to talk to a few friends on a doorstep and found the whole street there. His voice wasn’t loud. It didn’t need to be. It went down the steps to the very bottom and out over the water, clear and close, so that Calder, halfway down, felt as if the man were sitting beside him.</p><break time="500ms"/>
+<!-- p46 · Vale -->
+<p>“I’ll not keep you long,” said Vale. “It’s cold, and you’ve all got better things to do. Most of you have got nothing to eat and nowhere to sleep and you’ve walked a long way to get here, and here I am, keeping you sitting on wet stone.” He shook his head. “I’m sorry for that. I am. I’ll be quick.”</p><break time="500ms"/>
+<!-- p47 -->
+<p>He wasn’t quick. He talked for an hour. And nobody moved.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p48 -->
+<p>He talked about the one realm.</p><break time="500ms"/>
+<!-- p49 -->
+<p>Calder had heard about it. Everybody had. Ada sang about it at the fair. <prosody rate="90%">Before the six, there was one.</prosody> Teo had said the ports were singing it now like a promise. But he’d never heard it told like this.</p><break time="500ms"/>
+<!-- p50 · quiet: like a bedtime story -->
+<p><prosody rate="95%">Vale told it like a story you’d tell a child at bedtime. Slowly. Simply. With his hands on the rail, and his voice going down the steps, warm and low. A long time ago, he said, so long that nobody remembered it, there was one country. Not six. One. Winshire. And one road ran through it from end to end, from the cold north to the warm south, from the mountains to the sea, and every people in the world walked on it. And the beasts walked on it too. Free. Beside the people. Not caged. Not chained. Not licensed. Not owned.</prosody></p><break time="500ms"/>
+<!-- p51 · Vale -->
+<p>“And nobody was above anybody,” said Vale, “because of a beast.”</p><break time="500ms"/>
+<!-- p52 -->
+<p>He let that go down the steps.</p><break time="500ms"/>
+<!-- p53 · Vale -->
+<p>“Think about that,” he said. “Nobody sat in the front of the hall because they’d a falcon on their fist. Nobody got the good land because their grandfather had a bond and yours didn’t. Nobody was called <emphasis level="moderate">unchosen</emphasis>.” He let the word sit on the steps a moment, like something spat out. “There wasn’t a word for it. It didn’t mean anything. A beast was a beast and a person was a person, and they walked the road together, and when they chose each other, they chose each other, and it didn’t put either of them above anybody else.”</p><break time="500ms"/>
+<!-- p54 -->
+<p>The crowd was so quiet that Calder could hear the woman beside him breathing.</p><break time="500ms"/>
+<!-- p55 · Vale -->
+<p>“And then it broke,” said Vale.</p><break time="500ms"/>
+<!-- p56 -->
+<p>He told them how. Not the details. Nobody knew the details. But it broke, he said, into six, and every one of the six kingdoms that came out of it did the same thing. It took the beasts. It chained them, or caged them, or licensed them, or made them a thing for lords. It took the bond, which had been a free thing between two creatures who’d chosen each other, and made it a ladder, with the bonded at the top and everyone else at the bottom. And it told everybody that it had always been that way, and always would be.</p><break time="500ms"/>
+<!-- p57 · tension · Vale, quite gently; Vale -->
+<p><prosody rate="97%">“It’s a lie,” said Vale. Quite gently. “All of it. Every crown in Winshire is built on that lie.” He looked down the steps. “And one of them,” he said, “is built on a lie so old, and so big, and so deep, that when it comes out, and it will come out, the ground will shake.”</prosody></p><break time="800ms"/>
+<!-- p58 -->
+<p>Three thousand people drew breath at once.</p><break time="500ms"/>
+<!-- p59 · Vale -->
+<p>“I’ll not tell you which one, friends,” said Vale, and smiled. “Not today. You’d not believe me. You’ll see it for yourselves, soon. Sooner than you think.” He looked out over the harbour, north, toward the hills. “The world’s turning. You can feel it, can’t you? All of you. You’ve felt it this year. On the river. In the hills. In your fields. Things aren’t the way they’ve always been. Things are waking up.”</p><break time="500ms"/>
+<!-- p60 -->
+<p>He turned back to the crowd.</p><break time="500ms"/>
+<!-- p61 · Vale -->
+<p>“I’ll tell you something that happened in the Marches this autumn,” he said.</p><break time="500ms"/>
+<!-- p62 · dread -->
+<p><prosody rate="96%">Calder went cold.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p63 · Vale -->
+<p>“There’s a farmer,” said Vale. “In the Marches. On the river. A barley farmer. No lord. No knight. Not bonded to anything, his whole life. Never had a falcon or a hound or a dray-beast that’d look twice at him. One of the unchosen.” He smiled. “One of you.”</p><break time="500ms"/>
+<!-- p64 -->
+<p>The crowd stirred.</p><break time="500ms"/>
+<!-- p65 · Vale -->
+<p>“And in the Clan’s war this autumn, three of the Clan’s dragons lost their riders. All three. In one night. And you know what happens then. Everyone knows. The beast goes after the rider. One life between two. They should have died.” He paused. “They didn’t.”</p><break time="500ms"/>
+<!-- p66 -->
+<p>The Tidesteps were silent.</p><break time="500ms"/>
+<!-- p67 · tension · Vale; Vale, voice dropped -->
+<p><prosody rate="97%">“They chose him,” said Vale. “The farmer. All three. At once. In the same hour. Three dragons, choosing one unchosen man, in a burned field.” He let it go down the steps. “Nobody has ever done that. Not in any kingdom. Not in any history. Not since the six. Nobody’s ever held more than one bond.” His voice dropped. “Except in the songs. Except in the old realm. When the bond was free, and beasts and people chose who they liked, and there was no one above anyone.”</prosody></p><break time="800ms"/>
+<!-- p68 -->
+<p>He leaned on the rail.</p><break time="500ms"/>
+<!-- p69 · Vale -->
+<p>“The old bonds are waking,” he said. “That’s what it means. That’s what he is. He’s a sign. The world’s turning back to what it was. To one. And it didn’t start with a king, or a knight, or a lord. It started with a farmer.” He smiled down the steps. “It started with one of you.”</p><break time="500ms"/>
+<!-- p70 -->
+<p>And the Tidesteps exploded.</p><break time="500ms"/>
+<!-- p71 · awe: the crowd roaring -->
+<p><prosody rate="95%">Calder sat in the middle of it with his collar up and his hat down and his hands clenched between his knees, and three thousand people roared all round him. On their feet. Shouting. Weeping. The woman from Ewe Hollow was on her feet with the child in her arms and tears on her face, shouting something he couldn’t hear. The young men with the iron rings round their necks were holding them up, all over the steps, a thousand little dark rings held up in a thousand fists in the grey sea light. And somewhere a voice started it, and then another, and then all of them, three thousand people on the Tidesteps of Wendmouth, by the sea, saying it all together like a heartbeat:</prosody></p><break time="800ms"/>
+<!-- p72 · awe: chanted like a heartbeat · crowd, chanting together -->
+<p><prosody rate="95%">One again. One again. One again.</prosody></p><break time="800ms"/>
+<!-- p73 -->
+<p>And five leagues away, under the oaks of the Wendwood, through the green mark on his chest, he felt Lisska sit up.</p><break time="500ms"/>
+<!-- p74 · dread -->
+<p><prosody rate="96%">She couldn’t hear. He knew she couldn’t. She was too far off. But she felt him. Felt what was going through him, sitting there on the cold stone in the middle of all that roaring. The cold. The fear. The sick, crawling, terrible feeling of being <emphasis level="moderate">seen</emphasis>, by three thousand people, who didn’t know they were seeing him. Of being talked about. Of being <emphasis level="moderate">used</emphasis>.</prosody></p><break time="800ms"/>
+<!-- p75 · urgent · Lisska (bond, to Calder), hot and frantic -->
+<p><prosody rate="105%">He felt her worry come pulsing up through the green mark, hot and frantic. <prosody rate="94%" volume="-2dB">What? What is it? What’s wrong? Are you hurt? What’s happening? What’s wrong?</prosody></prosody></p><break time="500ms"/>
+<!-- p76 -->
+<p>He couldn’t answer. He sat there with his hands between his knees and let it pulse.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p77 -->
+<p>The man at the rail was looking down the steps.</p><break time="500ms"/>
+<!-- p78 -->
+<p>Not at him. Calder knew that. There were three thousand people on the steps. The man couldn’t possibly know. But he was looking down the steps, smiling, with his hands on the rail, and his eyes went over the crowd, slowly, the way you’d look over a field of barley, and for one moment they went over the place where Calder sat.</p><break time="500ms"/>
+<!-- p79 · tension -->
+<p><prosody rate="97%">He couldn’t see the colour of them from there. Grey, the woman beside him had said that morning; everyone in Wendmouth knew Vale’s grey eyes. What he could see was how they looked. Warm, and very, very interested.</prosody></p><break time="800ms"/>
+<!-- p80 -->
+<p>They went on. Over the crowd. Away.</p><break time="500ms"/>
+<!-- p81 -->
+<p>The man at the rail lifted his hand.</p><break time="500ms"/>
+<!-- p82 -->
+<p>The roaring stopped. All at once. Three thousand people, mid-shout, stopped and sat down on the Tidesteps like children told to by their mother.</p><break time="500ms"/>
+<!-- p83 · Vale, gently; Vale -->
+<p>“Go home,” said Vale gently. “Those of you who’ve got homes. And those of you who haven’t, go and find the people in the grey coats at the bottom of the Strand, by the Halloran warehouse. They’ve got soup. And blankets. And they’ll find you somewhere to sleep.” He smiled. “That’s all I came to say. Thank you for listening.”</p><break time="500ms"/>
+<!-- p84 -->
+<p>He turned, and walked back off the platform, and the plainly dressed men closed in behind him, and he was gone.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p85 -->
+<p>Calder sat on the steps after. The crowd went past him, up the steps and down, talking, glowing, holding their rings. The woman from Ewe Hollow went with them, toward the bottom of the Strand and the soup, and turned round once and looked for him, and didn’t see him, and went on.</p><break time="500ms"/>
+<!-- p86 -->
+<p>He sat there.</p><break time="500ms"/>
+<!-- p87 · dread · Calder (thought) -->
+<p><prosody rate="96%"><prosody rate="97%" volume="-4dB">He wants me.</prosody></prosody></p><break time="800ms"/>
+<!-- p88 · the coin man (remembered) -->
+<p>Not the way Gorm Askell wanted him, as a keeper. Or Sten Raske, as a sword. Or Idris Vey, as a threat with a price on it. Or the coin man at the gate, with his pleasant face and his purse of new silver with a ring of six struck on the rim. <prosody volume="-3dB">They’d ask. They’d listen. They believe a man like you ought to have a say.</prosody></p><break time="500ms"/>
+<!-- p89 · Calder (thought) -->
+<p><prosody rate="97%" volume="-4dB">The coin man was his. He wants me as a sign.</prosody></p><break time="500ms"/>
+<!-- p90 · reflective · Vale (remembered) -->
+<p><prosody rate="96%">The worst of it was that, sitting on the cold steps by the sea, with the crowd going past him and the gulls screaming and three dragons waiting for him under the oaks five leagues away, he’d felt it. In the middle of the roaring. When Vale said <prosody volume="-3dB">it started with one of you.</prosody> He’d felt it go into him like warm water. Just for a moment.</prosody></p><break time="500ms"/>
+<!-- p91 · quiet -->
+<p><prosody rate="95%">He’d wanted to stand up.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p92 -->
+<p>He went to Gallows Quay at dusk.</p><break time="500ms"/>
+<!-- p93 -->
+<p>His feet took him, the way they’d taken him to the lower stable at Varrhold on the night of Teo’s pyre. Down from the Tidesteps, along the harbour, past the ships, to the long grey stone quay that went out into the water with buildings on it and cages.</p><break time="500ms"/>
+<!-- p94 -->
+<p>It was closing. The market, if that’s what it was, was over for the day. The cages along the quay were mostly empty, their doors standing open, their floors swept. A few weren’t. He walked along the quay in the dusk with his collar up and looked into them as he went.</p><break time="500ms"/>
+<!-- p95 -->
+<p>A hound, in one. Thin, grey, with a cut on its muzzle, lying with its head on its paws.</p><break time="500ms"/>
+<!-- p96 -->
+<p>A pair of martens in a wire box, going round and round.</p><break time="500ms"/>
+<!-- p97 · grief -->
+<p><prosody rate="94%">A thing like a great white ox, with a hump, that he’d seen in Aurveth’s memory walking free on a white bridge in the sun. Lying in a cage too small for it, on its side, with its eyes shut, breathing.</prosody></p><break time="800ms"/>
+<!-- p98 -->
+<p>And at the end of the quay, a building. Stone, three floors, with a sign over the door painted in the dark red and gold of one of the trading houses, and a little brass plate beside it with a name on it that he couldn’t read. There were lights in the upper windows. There was a man at the door. A big one, with a cudgel.</p><break time="500ms"/>
+<!-- p99 · a beast-seller, low -->
+<p>While he looked, the door opened and a woman came out. Grey-haired, plain, in a plain coat, nobody you’d look at twice, and the man with the cudgel stood back from her like a dog getting off a chair. She went off along the quay without looking at anybody. Two beast-sellers coming the other way crossed to the far side to let her by. When she’d gone, one of them said, low, <prosody volume="-5dB">“Halloran’s drawer,”</prosody> and the other spat on the stones for luck and didn’t look after her.</p><break time="500ms"/>
+<!-- p100 -->
+<p>He didn’t go near it. He turned round and walked back along the quay and went into the tavern at the landward end. A low, smoky, crowded place called the Crane, with a painted bird on its sign and sawdust on its floor, full of men who smelled of beasts.</p><break time="500ms"/>
+<!-- p101 -->
+<p>He bought a cup of small beer with his last copper and sat in the corner and listened.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p102 -->
+<p>They were beast-sellers. Most of them. He could tell by their hands, and their clothes, and what they talked about. Prices. Buyers. Which house was paying, and for what, and how much. They talked the way farmers talked at Cotter’s Cross on market day, about barley and wool, and he’d have felt almost at home if he hadn’t known what they were selling.</p><break time="500ms"/>
+<!-- p103 -->
+<p>They were unhappy.</p><break time="500ms"/>
+<!-- p104 · the red-faced man -->
+<p>“…gone to the dogs,” a big red-faced man at the next table was saying, to anybody who’d listen. “The Marches trade. Gone to the dogs this year. Two years ago you could pick up anything you liked on that river. Anything. Hounds, martens, a dray-beast if you were quick. Over the water on a barge by night and nobody the wiser.” He drank. “Now look at it.”</p><break time="500ms"/>
+<!-- p105 · a beast-seller -->
+<p>“It’s the war,” said someone.</p><break time="500ms"/>
+<!-- p106 · humour: aggrieved trader · the red-faced man -->
+<p>“It’s not the war. War’s good for trade. Everyone’s selling. It’s the <emphasis level="moderate">knights</emphasis>.” The red-faced man banged his cup down. “Hearthmere knights. Poking their noses in. There was one at Millbrook in the summer, a girl, a student, freed a whole cage of Gannet’s off the jetty. Smashed the lock with her sword and let it go. A duskcat. Worth forty silver. Just let it go.” He shook his head. “Freeing other people’s property. It’s not right.”</p><break time="500ms"/>
+<!-- p107 · the thin seller -->
+<p>“That’s the same one,” said a thin man across the table. “Isn’t it? The one up at the Ruin.”</p><break time="500ms"/>
+<!-- p108 · the red-faced man -->
+<p>“What one?”</p><break time="500ms"/>
+<!-- p109 · the thin seller -->
+<p>“You’ve not heard?” The thin man leaned in. “There’s a Hearthmere girl, a knight-student, that’s been sitting with the Old Ruin’s monster. On the island. For weeks. They sent her out there for her trial, to bring back proof of it, and she came back with nothing and they failed her. And she keeps going back. Sits by it. Every few days. In a punt. And it doesn’t eat her.” He drank. “Sits with it instead of killing it.”</p><break time="500ms"/>
+<!-- p110 · the red-faced man -->
+<p>“Monster,” said the red-faced man scornfully.</p><break time="500ms"/>
+<!-- p111 · the thin seller; the thin seller, lowered voice; the thin seller -->
+<p>“It’s real,” said the thin man. “Bigger than a dray-beast. I had it from the Captain’s lot, the hunters. They had a contract on it. Big money. Cage and all, the works.” He lowered his voice. <prosody volume="-5dB">“Three of their men dead on that island in one night, and then the girl cuts it loose off their chains with a hammer, and now they won’t go back. Not for any money. Not with her out there sitting by it. They say it’s gone strange.”</prosody> He shook his head. “Sitting with monsters. Instead of killing them. That’s Hearthmere knights for you.”</p><break time="500ms"/>
+<!-- p112 · the red-faced man -->
+<p>”<emphasis level="moderate">Students,</emphasis>” said the red-faced man.</p><break time="500ms"/>
+<!-- p113 · the thin seller -->
+<p>“Same thing.”</p><break time="500ms"/>
+<!-- p114 -->
+<p>Calder sat in the corner with his cup of small beer and didn’t drink it.</p><break time="500ms"/>
+<!-- p115 · the thin seller (remembered) -->
+<p><prosody volume="-3dB">Cuts it loose off their chains with a hammer.</prosody></p><break time="500ms"/>
+<!-- p116 · Rue (remembered) -->
+<p>He thought about the girl on the stream bank, not moving. <prosody volume="-3dB">Like robbing it,</prosody> Rue had said.</p><break time="500ms"/>
+<!-- p117 · tender · Calder (thought) -->
+<p><prosody rate="95%"><prosody rate="97%" volume="-4dB">She’s on her own over there. On the island. With the hunters and the Captain’s lot.</prosody> And then: <prosody rate="97%" volume="-4dB">no. She’s not on her own. She’s got the old thing.</prosody></prosody></p><break time="500ms"/>
+<!-- p118 -->
+<p>He thought, quite clearly, sitting in the smoke of the Crane on Gallows Quay with the cages outside in the dark and the man at the door of the red-and-gold building with his cudgel:</p><break time="500ms"/>
+<!-- p119 · quiet: quiet resolve · Calder (thought) -->
+<p><prosody rate="95%"><prosody rate="97%" volume="-4dB">So have I.</prosody></prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p120 -->
+<p>He walked out of Wendmouth that night, up the drove road in the dark, five leagues, with no money and nothing to eat and a cold wind off the sea at his back.</p><break time="500ms"/>
+<!-- p121 -->
+<p>He felt them, all the way. Getting stronger. Nearer. Like coming up a long dark hall toward a room with a fire in it. Somewhere past the third league, Lisska’s voice came in, faint, a whisper in another house, getting louder.</p><break time="500ms"/>
+<!-- p122 · urgent: Lisska tumbling anxious questions · Lisska (bond, to Calder), faint, getting louder -->
+<p><prosody rate="105%"><prosody rate="94%" volume="-2dB">…you? Is that you? Are you there? Can you hear me? I can feel you. Are you there? Are you all right? What happened? You went all cold. In the middle of the day. All cold and frightened. What happened?</prosody></prosody></p><break time="500ms"/>
+<!-- p123 · tender · Calder -->
+<p><prosody rate="95%">“I’m here,” he said, out loud, on the dark road. “I’m all right, little one. I’m coming.”</prosody></p><break time="500ms"/>
+<!-- p124 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">What happened?</prosody></p><break time="500ms"/>
+<!-- p125 -->
+<p>He walked on for a while before he answered.</p><break time="500ms"/>
+<!-- p126 · Calder -->
+<p>“I met a man,” he said, “who wants me.”</p><break time="500ms"/>
+<!-- p127 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Everybody wants you.</prosody></p><break time="500ms"/>
+<!-- p128 · Calder -->
+<p>“Not like this one.”</p><break time="500ms"/>
+<!-- p129 · Kharrak (bond, to Calder), sharp -->
+<p>He felt Kharrak come up, through the rust-red mark. Sharp. Awake. <prosody rate="94%" volume="-2dB">Who?</prosody></p><break time="500ms"/>
+<!-- p130 -->
+<p>He thought about the face at the rail. The long pale face. The smile that went down three thousand people like sun coming out from behind a cloud. The grey eyes going over the crowd, warm, and very, very interested.</p><break time="500ms"/>
+<!-- p131 · dread · Calder -->
+<p><prosody rate="96%">“His name’s Vale,” he said. “And everyone in Wendmouth would die for him.”</prosody></p><break time="800ms"/>
+<!-- p132 -->
+<p>None of them spoke for a while.</p><break time="500ms"/>
+<!-- p133 · quiet · Aurveth (bond, to Calder), very low -->
+<p><prosody rate="95%">Then Aurveth, very low, from the dark under the oaks, nearer now, much nearer: <prosody rate="94%" volume="-6dB">Tell me everything. Every word. From the beginning.</prosody></prosody></p><break time="500ms"/>
+<!-- p134 -->
+<p>He did. Walking up the drove road in the dark, toward the Wendwood, he told them all of it.</p><break time="500ms"/>
+<!-- p135 · Vale (remembered) -->
+<p>When he got to the part on the Tidesteps, when Vale said <prosody volume="-3dB">it started with one of you,</prosody> and he’d felt it go into him like warm water, he told them that too.</p><break time="500ms"/>
+<!-- p136 -->
+<p>He felt them feel it. All three.</p><break time="500ms"/>
+<!-- p137 · quiet -->
+<p><prosody rate="95%">Not one of them spoke.</prosody></p>
+<break time="1800ms"/>
+</speak>

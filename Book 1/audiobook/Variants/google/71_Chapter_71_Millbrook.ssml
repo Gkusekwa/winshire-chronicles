@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<!-- The Watch Below, Chapter 71: Millbrook. Point of view: Maren. -->
+<p><s>Chapter Seventy-one.</s></p><break time="800ms"/>
+<p><s>Millbrook.</s></p><break time="1800ms"/>
+<!-- p1 -->
+<p>Millbrook burned because of the horses.</p><break time="500ms"/>
+<!-- p2 · reflective · Cassian (remembered) -->
+<p><prosody rate="96%">Not because of the Restoration, not because of the rising. The rising had promised. <prosody volume="-3dB">No Millbrook house’ll burn.</prosody> Whatever else Vale was, whatever else he’d lied about, she thought he’d meant that one, standing on the wain with his arms out. The rising hadn’t meant to burn the town. It had meant to hold it.</prosody></p><break time="500ms"/>
+<!-- p3 -->
+<p>Then Rowan sent the knights.</p><break time="500ms"/>
+<!-- p4 -->
+<p>At dusk on the hundred-and-forty-second day, the half that had come back from Redwatch rode down the River Road out of Greyhold’s gate to drive the rising out of the town. Greyharts and horses, in a column, in the last of the light. The rising, at the top of the jetty road, with its barricades of carts and barrels and its staves and pitchforks, saw what was coming down at it, and did the only thing it could think of to stop a charge of horses in a narrow street.</p><break time="500ms"/>
+<!-- p5 -->
+<p>It fired the thatch.</p><break time="500ms"/>
+<!-- p6 · action -->
+<p><prosody rate="104%">She saw it from the road. A long line of roofs at the top of the town going up all at once, one after another, red. The column of knights checking at the bottom of the street with the horses rearing. And the wind, coming up off the river at dusk the way it always did in spring, taking it.</prosody></p><break time="500ms"/>
+<!-- p7 -->
+<p>By the time she got there the whole jetty road was alight.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p8 -->
+<p>She went in from the river side.</p><break time="500ms"/>
+<!-- p9 · urgent -->
+<p><prosody rate="105%">Along the back channel, where the boats were drawn up, in the smoke. Not by the street; the street was fire from end to end, and horses, and men shouting, and somewhere in the middle of it iron on iron. She went along the water’s edge below the backs of the houses, in the mud, with her father’s cloak over her head against the sparks and the river watch sword in her hand.</prosody></p><break time="500ms"/>
+<!-- p10 -->
+<p>She’d grown up here. She’d swum in this channel. She knew every back yard and every slip and every gap between the sheds. She went through them in the dark and the smoke the way she went through the stalls in the Long Barn, without thinking, and the town burned over her head.</p><break time="500ms"/>
+<!-- p11 -->
+<p>People. Running the other way, down to the water. A woman with a feather bed. A man carrying another man. Children. Nobody looked at her.</p><break time="500ms"/>
+<!-- p12 · dread: eerie low chanting -->
+<p><prosody rate="96%">From the top of the town, over the fire, voices. A lot of them, at the barricades, saying the same few words over and over all together, low, like a chapel litany. Not the common tongue. She didn’t know the words. Somebody had taught them, <sub alias="Reed">Reede</sub> or somebody, and a hundred men with rings were saying them at once, facing down the street at the knights. Between two sheds she saw the bottom of the street: a knight on a rearing horse with his hand flat on its neck, shouting the stand-word at it, and the horse going up again as if he’d said nothing at all. His word wasn’t landing. Something the hundred were saying was turning it aside.</prosody></p><break time="800ms"/>
+<!-- p13 -->
+<p>Then the roofs over the barricades caught, and the voices broke up into shouting, and she didn’t hear the words again.</p><break time="500ms"/>
+<!-- p14 -->
+<p>The Kettle was burning. She went past the back of it. She heard the roof go.</p><break time="500ms"/>
+<!-- p15 -->
+<p>At the top of the town, at the top of the back lanes, where the jetty road came out, was the forge.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p16 -->
+<p>The crown’s chain was gone off the doors.</p><break time="500ms"/>
+<!-- p17 · urgent -->
+<p><prosody rate="105%">Broken. Somebody had taken a hammer to it. It lay on the step in two pieces, with the crown’s seal still hanging off it on its ribbon, and the great doors stood open, and inside the forge was red, and the red was the roof. The old thatch over the forge-yard was alight, and the rafters under it, and the smoke was coming out of the open doors in a black roll along the ground.</prosody></p><break time="500ms"/>
+<!-- p18 -->
+<p>Somebody was inside shouting.</p><break time="500ms"/>
+<!-- p19 -->
+<p>She knew the voice.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p20 -->
+<p>She went in.</p><break time="500ms"/>
+<!-- p21 · action -->
+<p><prosody rate="104%">The heat hit her in the face. She got her cloak over her mouth and went in low, under the smoke, the way the river watch taught you to go into a burning boathouse, and the forge came up round her in the red dark. The anvil. The cold hearth. The racks of iron on the walls. The roof over the back of it, over the bench where <sub alias="Ohdoh">Odo</sub> kept his tools, coming down in pieces, burning.</prosody></p><break time="500ms"/>
+<!-- p22 -->
+<p>Tam was at the back.</p><break time="500ms"/>
+<!-- p23 -->
+<p>On his knees, by the bench, with his arms round something, hauling at it. A beam. One of the great rafters had come down across the bench and somebody was under it.</p><break time="500ms"/>
+<!-- p24 · Maren, shouted -->
+<p><prosody volume="+3dB">”<emphasis level="moderate">Tam!</emphasis>”</prosody></p><break time="500ms"/>
+<!-- p25 -->
+<p>He looked round. His face was black. His eyes were streaming. He looked at her as if he’d never seen her before.</p><break time="500ms"/>
+<!-- p26 · urgent: Tam sobbing · Tam, crying -->
+<p><prosody rate="105%"><prosody volume="+3dB">“<sub alias="Ohdoh">Odo</sub>,”</prosody> he said. <prosody volume="+3dB">“It’s <sub alias="Ohdoh">Odo</sub>. He came back in. He came back in for…”</prosody> He was crying. <prosody volume="+3dB">“I can’t shift it. I can’t…”</prosody></prosody></p><break time="500ms"/>
+<!-- p27 -->
+<p>She got her hands under the beam beside his.</p><break time="500ms"/>
+<!-- p28 · action · Tam, counting -->
+<p><prosody rate="104%">It was hot. It was so hot it burned through her palms. She didn’t let go. They lifted. Together, the way they used to lift the ferry’s fenders when they were children, Tam counting, one, two, and on three it came up. A hand’s breadth. Two. Enough.</prosody></p><break time="500ms"/>
+<!-- p29 -->
+<p><sub alias="Ohdoh">Odo</sub> Marl came out from under it.</p><break time="500ms"/>
+<!-- p30 · action -->
+<p><prosody rate="104%">He came out on his elbows, dragging himself, with his face set and grey under the black, and his legs dragging behind him, useless. They dropped the beam behind him and it hit the floor and the sparks went up.</prosody></p><break time="500ms"/>
+<!-- p31 · Maren -->
+<p>“Door,” said <sub alias="Mairen">Maren</sub>. “A door. Anything.”</p><break time="500ms"/>
+<!-- p32 -->
+<p>There was a door. The little one at the back of the forge, off its hinges, leaning against the wall where <sub alias="Ohdoh">Odo</sub> had been meaning to mend it since the summer. Tam got it. They got <sub alias="Ohdoh">Odo</sub> onto it. He didn’t make a sound. He lay on the door with his big burned arms across his chest and his teeth set and his eyes open, and they picked it up between them, <sub alias="Mairen">Maren</sub> at the head, Tam at the foot, and went out through the back of the forge into the lane as the roof over the bench came down behind them.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p33 -->
+<p>They got to the back channel.</p><break time="500ms"/>
+<!-- p34 · urgent -->
+<p><prosody rate="105%">She didn’t remember how. Down the back lanes in the smoke with the door between them and <sub alias="Ohdoh">Odo</sub> on it, and the fire coming down the lanes behind them on the wind, house to house. Tam was sobbing. He kept saying something. She couldn’t hear it. At the water’s edge they put the door down in the mud and stood over it, gasping, with the town burning over them.</prosody></p><break time="500ms"/>
+<!-- p35 -->
+<p><sub alias="Ohdoh">Odo</sub> lifted his hand.</p><break time="500ms"/>
+<!-- p36 -->
+<p>His right hand. He’d had it closed in a fist the whole way. She’d thought it was the pain. He opened it.</p><break time="500ms"/>
+<!-- p37 -->
+<p>There was a punch in it. A smith’s punch. A short bar of hard steel, as long as a finger, with a mark cut in the end of it that you struck into hot iron with a hammer so it stood there for ever. She knew what the mark would be before she saw it.</p><break time="500ms"/>
+<!-- p38 -->
+<p>Two hammers, crossed.</p><break time="500ms"/>
+<!-- p39 · grief: a rasp, no laugh · Odo, a rasp -->
+<p><prosody rate="94%">“Came back for it,” said <sub alias="Ohdoh">Odo</sub>. His voice was a rasp, with no laugh anywhere in it. “And the six. Got the six too.” He opened his other hand. Another punch. The ring of six dots. “Couldn’t get the dies. The dies are under the beam.”</prosody></p><break time="800ms"/>
+<!-- p40 -->
+<p>He looked at her. At <sub alias="Mairen">Maren</sub>. Up from the door, from the mud, with his face grey and his legs not working and the town on fire over him.</p><break time="500ms"/>
+<!-- p41 · anger: bitter, betrayed · Odo, a rasp -->
+<p>“The boy told me,” he said. “What you showed him. The collar.” He swallowed. ”<prosody volume="-3dB">Beasts brought in to be cared for.</prosody> That’s what the man said. With the order. In the spring, before the summer. A hundred collars. And chain by the hundredweight. <prosody volume="-3dB">To be cared for.</prosody>”</p><break time="500ms"/>
+<!-- p42 · grief -->
+<p><prosody rate="94%">He lifted his arm. It was shaking. He threw.</prosody></p><break time="800ms"/>
+<!-- p43 -->
+<p>The two punches went out over the back channel, small and dark, turning, and into the water, and were gone.</p><break time="500ms"/>
+<!-- p44 · grief -->
+<p><prosody rate="94%"><sub alias="Ohdoh">Odo</sub> Marl lay back on the door and shut his eyes.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p45 -->
+<p>Tobin was at the foot of the jetty road.</p><break time="500ms"/>
+<!-- p46 -->
+<p>She hadn’t known. She’d never have gone that way if she had. But the back channel ended at the slip below the jetty, and there was no way along the water past it with the river up, and the only way out of the town to the River Road was across the foot of the jetty road, where it came down to the water. Where the rising had its last barricade.</p><break time="500ms"/>
+<!-- p47 · tension -->
+<p><prosody rate="97%">Carts. Barrels. A boat on its side. And a dozen men behind it with staves and billhooks, black-faced, coughing, with the fire coming down the street behind them and the knights somewhere beyond it, and their backs to the river.</prosody></p><break time="800ms"/>
+<!-- p48 -->
+<p>In the middle of them, with a stave, thin, all bones and eyes, in a grey coat: Tobin.</p><break time="500ms"/>
+<!-- p49 -->
+<p>He saw her.</p><break time="500ms"/>
+<!-- p50 -->
+<p>She was coming along the slip with Tam, with the door between them and <sub alias="Ohdoh">Odo</sub> on it, in the light of the burning street. He looked round from the barricade, and saw her, and his face went still.</p><break time="500ms"/>
+<!-- p51 -->
+<p>He looked at Tam. At <sub alias="Ohdoh">Odo</sub> on the door. At her, with a sword.</p><break time="500ms"/>
+<!-- p52 -->
+<p>The men on the barricade had seen her too. One of them lifted a billhook.</p><break time="500ms"/>
+<!-- p53 · tension · Tobin -->
+<p><prosody rate="97%">”<emphasis level="moderate">No.</emphasis>” Tobin put his stave out across the man’s chest. “No. Let them by.”</prosody></p><break time="800ms"/>
+<!-- p54 · a rising man -->
+<p>“She’s crown…”</p><break time="500ms"/>
+<!-- p55 · Tobin, hoarse -->
+<p>“She’s not anybody’s.” He didn’t look at the man. He was looking at her. “Let them by.”</p><break time="500ms"/>
+<!-- p56 -->
+<p>They let them by.</p><break time="500ms"/>
+<!-- p57 -->
+<p>She came along the slip past the end of the barricade, past the boat on its side, with Tam at the foot of the door, and Tobin stood at the end of it with his stave and watched her come. When she was level with him she stopped.</p><break time="500ms"/>
+<!-- p58 · Tobin, hoarse -->
+<p>“I didn’t know about the camp,” said Tobin.</p><break time="500ms"/>
+<!-- p59 -->
+<p>His voice was wrong. Hoarse with smoke. Something else.</p><break time="500ms"/>
+<!-- p60 · grief: hoarse, ashamed · Tobin, hoarse -->
+<p><prosody rate="94%">“The tents by the meadows. The ones from over the river.” He swallowed. “Nobody said about the camp. <sub alias="Reed">Reede</sub> didn’t. Nobody. Millbrook rises, holds the town, the knights get caught, that’s what they said. Nobody said anybody was going down the back channel at dawn to burn the camp.” He looked at <sub alias="Ohdoh">Odo</sub> on the door. “Nobody said about any of it.”</prosody></p><break time="800ms"/>
+<!-- p61 · Maren -->
+<p>“No,” said <sub alias="Mairen">Maren</sub>. “They don’t.”</p><break time="500ms"/>
+<!-- p62 -->
+<p>He stood there.</p><break time="500ms"/>
+<!-- p63 · Tobin -->
+<p>“Go on,” he said. “Get them out.”</p><break time="500ms"/>
+<!-- p64 -->
+<p>She went on. Past him. Along the slip, toward the punts drawn up beyond the barricade.</p><break time="500ms"/>
+<!-- p65 · Tobin -->
+<p>“<sub alias="Mairen">Maren</sub>.”</p><break time="500ms"/>
+<!-- p66 -->
+<p>She stopped. She didn’t turn round. She’d done this before, at the gate of a field on a hill under a thorn hedge.</p><break time="500ms"/>
+<!-- p67 · urgent: low and fast · Tobin, low, fast -->
+<p><prosody rate="105%"><prosody volume="-5dB">“The friend,”</prosody> said Tobin, behind her. Low. Fast. <prosody volume="-5dB">“With the seal. The one whose paper cleared the river for the barges, and whose men rode it. The one who’s to let them in.”</prosody> He stopped. She heard him breathe. <prosody volume="-5dB">“It’s Callis.”</prosody></prosody></p><break time="500ms"/>
+<!-- p68 -->
+<p>She turned round.</p><break time="500ms"/>
+<!-- p69 -->
+<p>Tobin was standing at the end of the barricade with the fire behind him, looking at her.</p><break time="500ms"/>
+<!-- p70 · urgent · Tobin; Tobin, voice cracking -->
+<p><prosody rate="105%">“He’s had the seal since the summer,” said Tobin. “Since before Upper Rush. <sub alias="Reed">Reede</sub> gave it him. He hates them, the orders. Has done since they passed him over for the inner circle five years ago for men with better names.” He looked at her. “And since the frost fair. And since you. Tomorrow night he opens the river gate. Third hour. Takes them down, under the school.” His voice cracked. “I don’t know what’s down there. Nobody’s told me. I’m only telling you.”</prosody></p><break time="500ms"/>
+<!-- p71 · Maren -->
+<p>“Why?”</p><break time="500ms"/>
+<!-- p72 · Tobin -->
+<p>“Because you came to the hedge,” said Tobin. “And because of the camp.” He turned back to the barricade. “Go on. Get Tam home.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p73 -->
+<p>They got <sub alias="Ohdoh">Odo</sub> into one of the eel-punts below the slip, door and all, and Tam poled them up under the bank in the dark. She got them to the ferry house.</p><break time="500ms"/>
+<!-- p74 -->
+<p>Liss was there. Liss was on the stone jetty with a lantern, in the dark, looking south toward Millbrook burning, and when she saw them coming up the river under the bank out of the smoke, three of them and a door, she put the lantern down on the stones and came running.</p><break time="500ms"/>
+<!-- p75 · tender -->
+<p><prosody rate="95%">She didn’t speak to Tam. She put her arms round him and held on with both hands, and Tam put his face down in her shoulder and cried like a child.</prosody></p><break time="500ms"/>
+<!-- p76 -->
+<p>Over Tam’s shoulder Liss looked at <sub alias="Mairen">Maren</sub>.</p><break time="500ms"/>
+<!-- p77 -->
+<p><sub alias="Mairen">Maren</sub> nodded.</p><break time="500ms"/>
+<!-- p78 -->
+<p>Behind Liss, in the red door of the ferry house, there was a thin girl with a great deal of hair.</p><break time="500ms"/>
+<!-- p79 · humour: Wren blunt · Wren -->
+<p>“I wouldn’t stay in,” said Wren, before anybody could ask. “Inside the walls. With the knights. I wanted Mistress Ashdown. Grandma said go if I liked. She’s with Aunt <sub alias="Bell">Bel</sub> and the greys.” She looked at <sub alias="Ohdoh">Odo</sub> on the door. “Is he dead?”</p><break time="500ms"/>
+<!-- p80 · Maren -->
+<p>“No,” said <sub alias="Mairen">Maren</sub>.</p><break time="500ms"/>
+<!-- p81 · humour · Wren -->
+<p>“Good,” said Wren, and stood aside to let them carry him in.</p><break time="500ms"/>
+<!-- p82 -->
+<p>Over the red door the old lamp lit as they went under it. The one that had hung dark on its hook since midwinter. White, a breath, so bright <sub alias="Ohdoh">Odo</sub> shut his eyes on the door. Then dark.</p><break time="500ms"/>
+<!-- p83 -->
+<p>Later, by the fire, Liss took <sub alias="Mairen">Maren</sub>’s hands and unwrapped them and looked at the palms. She said the burn-word over them. The river one, that her own mother had said over every burned hand in the ferry house, that hadn’t done anything since the turn of the year. Liss said it anyway, out of habit, as she’d say <emphasis level="moderate">mind the step.</emphasis></p><break time="500ms"/>
+<!-- p84 -->
+<p>It took.</p><break time="500ms"/>
+<!-- p85 · awe -->
+<p><prosody rate="95%">It took so hard <sub alias="Mairen">Maren</sub> cried out. Heat went into her palms and through them, and the raw skin drew together and went tight and shiny in a breath, as if a week had gone by. It still hurt. It hurt more. Liss let go of her hands as if they’d bitten her, and sat looking at her own.</prosody></p><break time="800ms"/>
+<!-- p86 · Liss -->
+<p>“That’s not right,” said Liss.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p87 -->
+<p>On the hundred-and-forty-third day she tried to tell them.</p><break time="500ms"/>
+<!-- p88 -->
+<p>She went to the river gate in the morning. In her shirt and her father’s brown cloak, black with smoke, with the river watch sword in her belt and her palms wrapped in rags where the beam had burned them. The gate was shut. It had been shut since Pell. There were people on the wall over it, more than there had been, knights back from Redwatch, students. She stood in the road below it, where Pell had sat down, and looked up.</p><break time="500ms"/>
+<!-- p89 · urgent · Maren, shouted -->
+<p><prosody rate="105%"><prosody volume="+3dB">”<emphasis level="moderate">The seal!</emphasis>”</prosody> she shouted. <prosody volume="+3dB">”<emphasis level="moderate">The rider with Greyhold’s seal! It’s Callis!</emphasis>”</prosody></prosody></p><break time="500ms"/>
+<!-- p90 -->
+<p>Faces looked down.</p><break time="500ms"/>
+<!-- p91 · Maren, shouted -->
+<p><prosody volume="+3dB">”<emphasis level="moderate">He’s had it since the summer! He’ll open the river gate tonight! In the third hour! For Vale!</emphasis>”</prosody> She didn’t know if Vale was the word. She didn’t know any other. <prosody volume="+3dB">”<emphasis level="moderate">Tell Rowan! Tell Hale! Callis!</emphasis>”</prosody></p><break time="500ms"/>
+<!-- p92 -->
+<p>Nobody answered.</p><break time="500ms"/>
+<!-- p93 -->
+<p>A student she half knew, a second-year, a boy with a marten on his shoulder, leaned out over the parapet and looked at her a while, and went away.</p><break time="500ms"/>
+<!-- p94 · reflective -->
+<p><prosody rate="96%">She didn’t know where he went, or who he’d tell, or if he’d tell Callis. Nobody on that wall was going to believe a word an outcast shouted at them from the road about a knight of the gate with a broken arm who’d been one of them for fifteen years.</prosody></p><break time="500ms"/>
+<!-- p95 -->
+<p>She stood there till the noon bell. Nobody came back.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p96 -->
+<p>She told Liss.</p><break time="500ms"/>
+<!-- p97 · Maren -->
+<p>“The water-gate,” she said. “Below the ferry jetty. Where you were taking them in yesterday. Is it still open?”</p><break time="500ms"/>
+<!-- p98 · Liss -->
+<p>“For me,” said Liss. “They know my boat.”</p><break time="500ms"/>
+<!-- p99 · Maren -->
+<p>“Then go to it. Today. Ask for Hale. The archivist. Warden <sub alias="Ozrick">Osric</sub> Hale. Nobody else. Tell him Callis has the seal. Tell him tonight, in the third hour, the river gate.” She held her mother’s arm. “Tell him I said. Tell him I heard it from Tobin. Tell him I’m sorry I didn’t come myself. They won’t let me in.”</p><break time="500ms"/>
+<!-- p100 -->
+<p>Liss looked at her.</p><break time="500ms"/>
+<!-- p101 · Liss -->
+<p>“And you?”</p><break time="500ms"/>
+<!-- p102 · Maren -->
+<p>“I’m going back to the knowe.”</p><break time="500ms"/>
+<!-- p103 · Liss -->
+<p>“Now?”</p><break time="500ms"/>
+<!-- p104 · tender · Maren -->
+<p><prosody rate="95%">“Tonight.” She looked west, toward the long dark line of the Brackenwood on its hill, four leagues off. “It wouldn’t come down with me. Yesterday. It’s been up there on its own for two days.” She didn’t know how to say the rest. “I need to be with it. Tonight. I don’t know why. I just do.”</prosody></p><break time="500ms"/>
+<!-- p105 -->
+<p>Liss looked at her. Then she nodded.</p><break time="500ms"/>
+<!-- p106 · Liss -->
+<p>“Wren,” she said, without turning round. “Get her some bread.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p107 -->
+<p>She left at dusk.</p><break time="500ms"/>
+<!-- p108 -->
+<p>West out of the ferry house, up the River Road past Greyhold’s shut gate, toward the turning where the lane went off across the fields to <sub alias="Hollin Now">Hollin Knowe</sub>. Wren stood at the red door of the ferry house and watched her go. <sub alias="Mairen">Maren</sub> looked back once. The girl lifted her hand.</p><break time="500ms"/>
+<!-- p109 -->
+<p>She was a league up the River Road when she saw it.</p><break time="500ms"/>
+<!-- p110 -->
+<p>Upriver. Over the island. Over the Old Ruin, in the dusk.</p><break time="500ms"/>
+<!-- p111 -->
+<p>Fire.</p><break time="500ms"/>
+<!-- p112 · awe -->
+<p><prosody rate="95%">A long tongue of it coming down out of the darkening sky onto the island, white at the root, orange-red at the end, so bright the river at her feet showed it back, leagues downstream of it. Then another, from somewhere else in the sky. Deeper. Slow, heavy, bronze-gold, like <sub alias="Ohdoh">Odo</sub>’s forge door swung open, rolling down over the fort and the arch in a great slow wave.</prosody></p><break time="800ms"/>
+<!-- p113 -->
+<p>Two.</p><break time="500ms"/>
+<!-- p114 -->
+<p>She stood on the River Road and stared at it.</p><break time="500ms"/>
+<!-- p115 · Haverly (remembered) -->
+<p><prosody volume="-3dB">That’s dragon-fire,</prosody> Haverly had said, on the wall, the night of the bell. <prosody volume="-3dB">Nothing else burns that colour. It’s white at the root.</prosody></p><break time="500ms"/>
+<!-- p116 · action -->
+<p><prosody rate="104%">She watched them. The white-and-red and the bronze-gold, coming and going over the island in the dusk, each one lighting the whole reach of the river for a moment as bright as noon and then going out. Shouting came across the water. Horns. The fires on the island scattering.</prosody></p><break time="500ms"/>
+<!-- p117 -->
+<p>Two colours.</p><break time="500ms"/>
+<!-- p118 · Wren (remembered) -->
+<p>She thought of a girl at the red door of the ferry house, saying it on the jetty to Liss with her hands going. <prosody volume="-3dB">A green one, the smallest. And a red one. And a big old one with one eye.</prosody></p><break time="500ms"/>
+<!-- p119 -->
+<p>Three.</p><break time="500ms"/>
+<!-- p120 · tension -->
+<p><prosody rate="97%">She didn’t know what it meant that there were only two, or where the third was. She stood on the road in the dusk and counted the fires over the island, white-and-red, bronze-gold, white-and-red, and there was no third.</prosody></p><break time="800ms"/>
+<!-- p121 · urgent -->
+<p><prosody rate="105%">She ran.</prosody></p>
+<break time="1800ms"/>
+</speak>

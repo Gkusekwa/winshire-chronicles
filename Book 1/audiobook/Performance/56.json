@@ -1,0 +1,2308 @@
+{
+ "chapter": 56,
+ "title": "Wren and the Far-Seer",
+ "pov": "Calder",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Fifty-six.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Wren and the Far-Seer.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The river woke them all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "It was the hundred-and-nineteenth night. Calder had come down from the Scar after dark, the way he did, by the forest path, to sit an hour by Bel’s fire and see Wren into the loft. He was still there when it came. Ada was in her chair. Bel was at the table with Joss’s harness, mending it, which she did every night now though nobody would ever use it. The children were asleep.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "The cups on the dresser began to chime.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Then the floor moved, and the sound came up the valley from the river, a league off, and filled the house. A long roaring tearing grinding rush, coming from the north, getting louder, coming down past them, going on.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "Up in the loft, Nan screamed. Pip started crying. Wren’s face came over the edge of the loft, white, with her hair everywhere.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "speech",
+   "text": "“It’s the river,”",
+   "speaker": "Ada",
+   "mood": "quiet"
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": "said Ada. She hadn’t moved from her chair.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "speech",
+   "text": "“It’s only the river going out. Lie down.”",
+   "speaker": "Ada",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "narration",
+   "text": "Wren didn’t lie down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 12,
+   "para": "p8",
+   "type": "bond",
+   "text": "It’s all going,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "excited, frightened",
+   "mood": "urgent"
+  },
+  {
+   "seq": 13,
+   "para": "p8",
+   "type": "narration",
+   "text": "said Lisska, from the crag. He felt her through the green mark, sitting up there in the dark above the house, high, with the wind in her face. Excited. Frightened.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 14,
+   "para": "p8",
+   "type": "bond",
+   "text": "The whole river. All the ice. All at once. It’s breaking in pieces and the pieces are standing up on their ends and falling over. Calder. Calder, there’s one as big as the Wheel.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "excited, frightened",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p9",
+   "type": "narration",
+   "text": "He went out into the yard. He could hear it. He couldn’t see it; the river was below the line of the hill, a league off. But he could hear it, and feel it in the ground, the way he’d felt the roar.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p10",
+   "type": "narration",
+   "text": "Wren came out after him in her nightgown, with her boots on the wrong feet and Bel’s shawl round her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p11",
+   "type": "speech",
+   "text": "“I want to see.”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p12",
+   "type": "speech",
+   "text": "“You can’t see it from here.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p13",
+   "type": "speech",
+   "text": "“Lisska can.”",
+   "speaker": "Wren",
+   "mood": "tender"
+  },
+  {
+   "seq": 20,
+   "para": "p13",
+   "type": "narration",
+   "text": "She looked up at the crag, a black shape against the cloud, where she knew the dragon was.",
+   "mood": "tender"
+  },
+  {
+   "seq": 21,
+   "para": "p13",
+   "type": "speech",
+   "text": "“Lisska can see it. I want her to tell me.”",
+   "speaker": "Wren",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p14",
+   "type": "narration",
+   "text": "He looked at his daughter in the dark, in the cold, with her boots on the wrong feet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p15",
+   "type": "narration",
+   "text": "He went back into the house and got his coat and came out and wrapped her in it, over the shawl, and picked her up, and carried her up the crag path.",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 24,
+   "para": "p16",
+   "type": "narration",
+   "text": "It was a short climb. Bel’s farm sat in the hollow under it, and the crag came up behind the top paddock, a knuckle of grey rock with a path up it the Hollins’ sheep had made. Lisska was lying on the top, along the ridge of the rock, with her head out over the edge, facing south and west toward the river. She lifted her head when they came up and put it down beside Wren, and Wren put her arms round as much of it as she could reach.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p17",
+   "type": "narration",
+   "text": "They sat on the rock in the wind against Lisska’s warm green side, with the coat round them both, and Lisska told him what she saw.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p18",
+   "type": "narration",
+   "text": "And Wren made him say it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p19",
+   "type": "narration",
+   "text": "All of it. Every word. Lisska would say it to him, inside, through the mark, and Wren would say,",
+   "mood": "tender"
+  },
+  {
+   "seq": 28,
+   "para": "p19",
+   "type": "speech",
+   "text": "“What? What’s she saying?”",
+   "speaker": "Wren",
+   "mood": "tender"
+  },
+  {
+   "seq": 29,
+   "para": "p19",
+   "type": "narration",
+   "text": "and he’d say it aloud. Then Wren would say,",
+   "mood": "tender"
+  },
+  {
+   "seq": 30,
+   "para": "p19",
+   "type": "speech",
+   "text": "“Say it again,”",
+   "speaker": "Wren",
+   "mood": "tender"
+  },
+  {
+   "seq": 31,
+   "para": "p19",
+   "type": "narration",
+   "text": "and he’d say it again. She’d ask a question, and he’d ask Lisska, and Lisska would answer, and he’d say that too.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p20",
+   "type": "narration",
+   "text": "He’d never done it before. Spoken for one of them. Out loud, to somebody else, their words in his mouth. It felt strange. Like reading somebody else’s letter to a room.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p21",
+   "type": "bond",
+   "text": "The ice is all gone past the Eelweir,",
+   "speaker": "Lisska",
+   "listener": "Calder"
+  },
+  {
+   "seq": 34,
+   "para": "p21",
+   "type": "narration",
+   "text": "said Lisska.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p22",
+   "type": "speech",
+   "text": "“The ice is all gone past the Eelweir,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 36,
+   "para": "p22",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p23",
+   "type": "speech",
+   "text": "“Say it again.”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p24",
+   "type": "speech",
+   "text": "“The ice is all gone past the Eelweir.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p25",
+   "type": "speech",
+   "text": "“Is Fisk all right?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p26",
+   "type": "bond",
+   "text": "Fisk’s house is all right. It’s up on the bank. There’s a light in it. He’s standing in the door with a lantern looking at the river.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p27",
+   "type": "speech",
+   "text": "“Fisk’s standing in his door with a lantern looking at the river.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p28",
+   "type": "speech",
+   "text": "“Is he cross?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p29",
+   "type": "bond",
+   "text": "He’s always cross.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p30",
+   "type": "speech",
+   "text": "“She says he’s always cross.”",
+   "speaker": "Calder",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p31",
+   "type": "narration",
+   "text": "Wren laughed. Into the coat. He felt it go through her.",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 46,
+   "para": "p32",
+   "type": "bond",
+   "text": "There’s a man,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tension"
+  },
+  {
+   "seq": 47,
+   "para": "p32",
+   "type": "narration",
+   "text": "said Lisska, after a while. Her voice had changed.",
+   "mood": "tension"
+  },
+  {
+   "seq": 48,
+   "para": "p32",
+   "type": "bond",
+   "text": "On the other side. On the reeds. By the island. He’s got a lantern and a long pole. He was on the ice and he’s run back onto the reeds just in time. He’s shouting.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 49,
+   "para": "p33",
+   "type": "narration",
+   "text": "He said it aloud.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p34",
+   "type": "speech",
+   "text": "“Who is he?”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 51,
+   "para": "p34",
+   "type": "narration",
+   "text": "said Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p35",
+   "type": "bond",
+   "text": "I don’t know. An old man. In a hat.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p36",
+   "type": "speech",
+   "text": "“Is he all right?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p37",
+   "type": "bond",
+   "text": "He’s all right. He’s on the reeds. He’s shouting at the island.",
+   "speaker": "Lisska",
+   "listener": "Calder"
+  },
+  {
+   "seq": 55,
+   "para": "p37",
+   "type": "narration",
+   "text": "A pause."
+  },
+  {
+   "seq": 56,
+   "para": "p37",
+   "type": "bond",
+   "text": "He’s shouting at somebody on the island.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p38",
+   "type": "narration",
+   "text": "Calder went still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p39",
+   "type": "bond",
+   "text": "There’s a light on the island,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tension"
+  },
+  {
+   "seq": 59,
+   "para": "p39",
+   "type": "narration",
+   "text": "said Lisska.",
+   "mood": "tension"
+  },
+  {
+   "seq": 60,
+   "para": "p39",
+   "type": "bond",
+   "text": "By the tower. In the arch. A lantern. Somebody’s sitting in the arch of the tower with a lantern.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 61,
+   "para": "p40",
+   "type": "narration",
+   "text": "He didn’t say it aloud.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p41",
+   "type": "speech",
+   "text": "“What?”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 63,
+   "para": "p41",
+   "type": "narration",
+   "text": "said Wren."
+  },
+  {
+   "seq": 64,
+   "para": "p41",
+   "type": "speech",
+   "text": "“What’s she saying? Papa, what?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p42",
+   "type": "narration",
+   "text": "He said it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p43",
+   "type": "bond",
+   "text": "It’s her,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "very quietly",
+   "mood": "quiet"
+  },
+  {
+   "seq": 67,
+   "para": "p43",
+   "type": "narration",
+   "text": "said Lisska. Very quietly now.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 68,
+   "para": "p43",
+   "type": "bond",
+   "text": "I think it’s her. The one. The woman by the water, from the summer. I can’t see her face, it’s too dark and too far. But it’s her. I know the shape of her. She’s sitting in the arch in a cloak. On her own. The river’s gone out on both sides and she can’t get off.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "very quietly",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p44",
+   "type": "narration",
+   "text": "He said it. Wren had gone very still against him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p45",
+   "type": "speech",
+   "text": "“The lion-woman,”",
+   "speaker": "Wren",
+   "mood": "awe"
+  },
+  {
+   "seq": 71,
+   "para": "p45",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 72,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p47",
+   "type": "speech",
+   "text": "“She’s stuck.”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p48",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p49",
+   "type": "speech",
+   "text": "“Is the lion there?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p50",
+   "type": "narration",
+   "text": "He asked. Lisska was quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p51",
+   "type": "bond",
+   "text": "Yes,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "quiet"
+  },
+  {
+   "seq": 78,
+   "para": "p51",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "quiet",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 79,
+   "para": "p52",
+   "type": "narration",
+   "text": "They sat on the crag for hours.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p53",
+   "type": "narration",
+   "text": "He should have taken her down. He knew it. It was cold, and late, and Bel would be at the door. He didn’t. He sat on the rock with his daughter in his coat and his back against Lisska’s side and said everything Lisska saw, out loud, into the wind, while the river went out a league below them in the dark.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p54",
+   "type": "bond",
+   "text": "It’s come out of the trees. The lion. It’s very big. Bigger than the camp’s hounds all together. It’s grey. It’s standing in front of the tower in the rain, looking at her.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p55",
+   "type": "bond",
+   "text": "It’s lain down a little way from her. In the mud. With its head on its paws.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p56",
+   "type": "bond",
+   "text": "She’s not moving.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p57",
+   "type": "bond",
+   "text": "It’s not moving.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p58",
+   "type": "bond",
+   "text": "She’s asleep, I think. Her head’s gone down.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p59",
+   "type": "bond",
+   "text": "It’s closer. It’s moved closer. I didn’t see it move. It’s five paces off now. Lying across the front of the arch.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p60",
+   "type": "narration",
+   "text": "Then, sharp:"
+  },
+  {
+   "seq": 88,
+   "para": "p60",
+   "type": "bond",
+   "text": "Calder. There’s two.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "sharp",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p61",
+   "type": "bond",
+   "text": "Two what?",
+   "speaker": "Calder",
+   "listener": "Lisska",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p62",
+   "type": "bond",
+   "text": "Two of it. Two lions. One lying across the arch, and one standing up behind it by the tower wall, the same size, the same grey. I saw it.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "awe"
+  },
+  {
+   "seq": 91,
+   "para": "p62",
+   "type": "narration",
+   "text": "A pause, and her voice went small.",
+   "mood": "awe"
+  },
+  {
+   "seq": 92,
+   "para": "p62",
+   "type": "bond",
+   "text": "Now there’s one.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "small",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 93,
+   "para": "p63",
+   "type": "narration",
+   "text": "He looked out at the dark where the river was. Two leagues and more, at night, in the rain. She’d said herself she couldn’t see faces from here. Only shapes. A shape could be a stone. It could be the shadow of an oak when a cloud came off the moon.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p64",
+   "type": "speech",
+   "text": "“What?”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 95,
+   "para": "p64",
+   "type": "narration",
+   "text": "said Wren."
+  },
+  {
+   "seq": 96,
+   "para": "p64",
+   "type": "speech",
+   "text": "“Papa. What?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p65",
+   "type": "narration",
+   "text": "He told her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p66",
+   "type": "bond",
+   "text": "I saw it,",
+   "speaker": "Lisska",
+   "listener": "Calder"
+  },
+  {
+   "seq": 99,
+   "para": "p66",
+   "type": "narration",
+   "text": "said Lisska. Then, less sure:"
+  },
+  {
+   "seq": 100,
+   "para": "p66",
+   "type": "bond",
+   "text": "I think I saw it.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p67",
+   "type": "narration",
+   "text": "Wren didn’t think about it at all. She settled back into the coat as if he’d told her the lion had a tail.",
+   "mood": "humour"
+  },
+  {
+   "seq": 102,
+   "para": "p67",
+   "type": "speech",
+   "text": "“Two,”",
+   "speaker": "Wren",
+   "mood": "humour"
+  },
+  {
+   "seq": 103,
+   "para": "p67",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "humour"
+  },
+  {
+   "seq": 104,
+   "para": "p67",
+   "type": "speech",
+   "text": "“Say it again.”",
+   "speaker": "Wren",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p68",
+   "type": "narration",
+   "text": "He said all of it. Wren made him say each one twice. Then she made him say them all again, from the beginning, in order, the way she made him tell stories, and he did."
+  },
+  {
+   "seq": 106,
+   "para": "p68",
+   "type": "remembered",
+   "text": "It’s come out of the trees. It’s lain down. She’s asleep. It’s closer. There were two.",
+   "speaker": "Lisska",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p69",
+   "type": "speech",
+   "text": "“Why?”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 108,
+   "para": "p69",
+   "type": "narration",
+   "text": "said Wren."
+  },
+  {
+   "seq": 109,
+   "para": "p69",
+   "type": "speech",
+   "text": "“Why’s it closer?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p70",
+   "type": "speech",
+   "text": "“I don’t know.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p71",
+   "type": "speech",
+   "text": "“Ask Lisska.”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p72",
+   "type": "narration",
+   "text": "He asked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p73",
+   "type": "bond",
+   "text": "I don’t know either,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tender"
+  },
+  {
+   "seq": 114,
+   "para": "p73",
+   "type": "narration",
+   "text": "said Lisska.",
+   "mood": "tender"
+  },
+  {
+   "seq": 115,
+   "para": "p73",
+   "type": "bond",
+   "text": "I think it’s cold. I think she’s cold, and it’s cold, and it’s raining.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tender"
+  },
+  {
+   "seq": 116,
+   "para": "p73",
+   "type": "narration",
+   "text": "She was quiet.",
+   "mood": "tender"
+  },
+  {
+   "seq": 117,
+   "para": "p73",
+   "type": "bond",
+   "text": "I think it’s keeping her company.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p74",
+   "type": "narration",
+   "text": "He said it. Wren was quiet a while.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p75",
+   "type": "speech",
+   "text": "“Like Old Grey,”",
+   "speaker": "Wren",
+   "mood": "tender"
+  },
+  {
+   "seq": 120,
+   "para": "p75",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "tender"
+  },
+  {
+   "seq": 121,
+   "para": "p75",
+   "type": "speech",
+   "text": "“At the gate. With me.”",
+   "speaker": "Wren",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 122,
+   "para": "p76",
+   "type": "narration",
+   "text": "Near midnight Lisska said:",
+   "mood": "urgent"
+  },
+  {
+   "seq": 123,
+   "para": "p76",
+   "type": "bond",
+   "text": "Calder. Behind you.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p77",
+   "type": "narration",
+   "text": "He turned his head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p78",
+   "type": "narration",
+   "text": "Not at the river. East. Up the hill behind the crag, where the forest came down to the top of the Hollins’ fields. The path he came down every night from the Scar. The forest path, through the oaks, a long dark line through the trees, coming out at the top of Bel’s paddock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p79",
+   "type": "bond",
+   "text": "Four men,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "thin and quick",
+   "mood": "urgent"
+  },
+  {
+   "seq": 127,
+   "para": "p79",
+   "type": "narration",
+   "text": "said Lisska. Her voice had gone thin and quick.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 128,
+   "para": "p79",
+   "type": "bond",
+   "text": "On your path. Coming down it. Slow. Quiet. They’ve got a lantern with a hood on it. They’re coming the way you come.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "thin and quick",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p80",
+   "type": "narration",
+   "text": "He was on his feet with Wren in his arms.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p81",
+   "type": "bond",
+   "text": "Kharrak,",
+   "speaker": "Calder",
+   "listener": "Kharrak"
+  },
+  {
+   "seq": 131,
+   "para": "p81",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p82",
+   "type": "narration",
+   "text": "He didn’t have to say anything else. He felt the red tide come up, two leagues off, on the Scar, and the great wings open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p83",
+   "type": "speech",
+   "text": "“Papa?”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 134,
+   "para": "p83",
+   "type": "narration",
+   "text": "said Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p84",
+   "type": "speech",
+   "text": "“It’s all right.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p85",
+   "type": "speech",
+   "text": "“What is it?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p86",
+   "type": "speech",
+   "text": "“Nothing. Lisska saw a fox.”",
+   "speaker": "Calder",
+   "mood": "tension"
+  },
+  {
+   "seq": 138,
+   "para": "p86",
+   "type": "narration",
+   "text": "He held her very tight.",
+   "mood": "tension"
+  },
+  {
+   "seq": 139,
+   "para": "p86",
+   "type": "bond",
+   "text": "Don’t burn,",
+   "speaker": "Calder",
+   "listener": "Kharrak",
+   "mood": "tension"
+  },
+  {
+   "seq": 140,
+   "para": "p86",
+   "type": "narration",
+   "text": "he said to Kharrak.",
+   "mood": "tension"
+  },
+  {
+   "seq": 141,
+   "para": "p86",
+   "type": "bond",
+   "text": "Don’t burn. Not by the house. Just frighten them. Just make them run.",
+   "speaker": "Calder",
+   "listener": "Kharrak",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 142,
+   "para": "p87",
+   "type": "bond",
+   "text": "They’re on your path,",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "mood": "anger"
+  },
+  {
+   "seq": 143,
+   "para": "p87",
+   "type": "narration",
+   "text": "said Kharrak.",
+   "mood": "anger"
+  },
+  {
+   "seq": 144,
+   "para": "p87",
+   "type": "bond",
+   "text": "They’re on your path to your girl.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p88",
+   "type": "bond",
+   "text": "I know. Make them run.",
+   "speaker": "Calder",
+   "listener": "Kharrak",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p89",
+   "type": "narration",
+   "text": "He stood on the crag in the dark and held his daughter and felt Kharrak come over the Scar and down the forest, low, fast, over the treetops, not burning. Just the sound of him. The wings. Lisska told him the rest as it happened: four men on the forest path stopping dead, looking up, dropping the lantern, running. Back up the path. Into the trees. Scattering.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p90",
+   "type": "bond",
+   "text": "They’ve gone,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tension"
+  },
+  {
+   "seq": 148,
+   "para": "p90",
+   "type": "narration",
+   "text": "said Lisska.",
+   "mood": "tension"
+  },
+  {
+   "seq": 149,
+   "para": "p90",
+   "type": "bond",
+   "text": "They’ve gone. They’re running. One fell over.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tension"
+  },
+  {
+   "seq": 150,
+   "para": "p90",
+   "type": "narration",
+   "text": "A small pause.",
+   "mood": "tension"
+  },
+  {
+   "seq": 151,
+   "para": "p90",
+   "type": "bond",
+   "text": "He’s dropped something. A rope. A coil of rope. And a bag.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 152,
+   "para": "p91",
+   "type": "bond",
+   "text": "What kind of bag?",
+   "speaker": "Calder",
+   "listener": "Lisska",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p92",
+   "type": "bond",
+   "text": "A big one. A sack. Like for grain.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p93",
+   "type": "narration",
+   "text": "He stood on the crag with Wren in his arms, warm, heavy, half asleep, with her face against his neck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p94",
+   "type": "thought",
+   "text": "A sack,",
+   "speaker": "Calder",
+   "mood": "dread"
+  },
+  {
+   "seq": 156,
+   "para": "p94",
+   "type": "narration",
+   "text": "he thought.",
+   "mood": "dread"
+  },
+  {
+   "seq": 157,
+   "para": "p94",
+   "type": "thought",
+   "text": "Like for grain.",
+   "speaker": "Calder",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 158,
+   "para": "p95",
+   "type": "narration",
+   "text": "He knew what it was for. Not him. You don’t bring a grain sack for a grown man. You bring it for something you can carry.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 159,
+   "para": "p96",
+   "type": "remembered",
+   "text": "Two hundred. Alive.",
+   "speaker": "Coll Brask",
+   "mood": "dread"
+  },
+  {
+   "seq": 160,
+   "para": "p96",
+   "type": "narration",
+   "text": "A coin man at a farm gate.",
+   "mood": "dread"
+  },
+  {
+   "seq": 161,
+   "para": "p96",
+   "type": "remembered",
+   "text": "What does the girl like?",
+   "speaker": "the coin man",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 162,
+   "para": "p97",
+   "type": "narration",
+   "text": "He sat down on the rock again. He didn’t trust his legs.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 163,
+   "para": "p98",
+   "type": "narration",
+   "text": "He didn’t take her down. He couldn’t. He sat with her on the crag in his coat with Lisska’s head beside them, and Wren fell asleep against him toward morning, with her face in his neck and her fist in his shirt, and he didn’t stir. He sat there with his daughter asleep in his arms and looked east at the forest path, at the dark line of it through the oaks, and the place at the top of the paddock where it came out. The place where he came out. Every night, for a fortnight.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p99",
+   "type": "narration",
+   "text": "They’d watched him. They’d sat in the trees and watched him come down that path every night after dark to sit by his sister’s fire and see his girl to bed. And they’d thought: that’s the way. That’s the way in. He’ll lead us. Not to him: to her.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 165,
+   "para": "p100",
+   "type": "narration",
+   "text": "He’d led them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p101",
+   "type": "narration",
+   "text": "He’d moved out of Bel’s house so they’d come to the Scar instead. He’d thought that was enough. He’d thought, if I’m on the Scar, she’s safe. But he’d come down every night to see her, because he couldn’t not, and made a path through the forest to her door with his own feet, a path anybody could follow, with his own lantern at the end of it.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p102",
+   "type": "narration",
+   "text": "She’d be safer anywhere he wasn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p103",
+   "type": "narration",
+   "text": "He sat with her on the crag in the cold and knew it all the way through, for the first time. A league wasn’t enough, or the Scar. A river’s width. More. Wherever he was, the men with the sacks would come. So she had to be somewhere he couldn’t be.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p104",
+   "type": "narration",
+   "text": "Over the water.",
+   "mood": "quiet",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 170,
+   "para": "p105",
+   "type": "bond",
+   "text": "Calder,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "very softly",
+   "mood": "awe"
+  },
+  {
+   "seq": 171,
+   "para": "p105",
+   "type": "narration",
+   "text": "said Lisska, at dawn. Very softly.",
+   "mood": "awe"
+  },
+  {
+   "seq": 172,
+   "para": "p105",
+   "type": "bond",
+   "text": "Calder, look. Look.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "very softly",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 173,
+   "para": "p106",
+   "type": "narration",
+   "text": "He’d been half asleep himself. He opened his eyes. The light was coming grey over the Saltreach hills behind them, and the rain had stopped, and the river below was a long brown flood with the ice going down it in broken pieces.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p107",
+   "type": "bond",
+   "text": "She’s put her hand on it.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p108",
+   "type": "narration",
+   "text": "He was awake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p109",
+   "type": "bond",
+   "text": "The woman. On the island. In the arch.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "very small and very full",
+   "mood": "awe"
+  },
+  {
+   "seq": 177,
+   "para": "p109",
+   "type": "narration",
+   "text": "Lisska’s voice was very small and very full.",
+   "mood": "awe"
+  },
+  {
+   "seq": 178,
+   "para": "p109",
+   "type": "bond",
+   "text": "She’s put her hand on it. On the lion. On its mane. Up on its neck, at the shoulder. She put her hand out and it let her. It’s letting her. It’s lying there with its head on the step and her hand in its mane, and it’s letting her.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "very small and very full",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 179,
+   "para": "p110",
+   "type": "narration",
+   "text": "He sat very still with Wren asleep against him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p111",
+   "type": "bond",
+   "text": "I’ve never seen anything let anybody,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "awe"
+  },
+  {
+   "seq": 181,
+   "para": "p111",
+   "type": "narration",
+   "text": "said Lisska.",
+   "mood": "awe"
+  },
+  {
+   "seq": 182,
+   "para": "p111",
+   "type": "bond",
+   "text": "Not like that. Not something that big.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "awe"
+  },
+  {
+   "seq": 183,
+   "para": "p111",
+   "type": "narration",
+   "text": "A pause.",
+   "mood": "awe"
+  },
+  {
+   "seq": 184,
+   "para": "p111",
+   "type": "bond",
+   "text": "Is that how it was? With us? In the field? When you put your hands on us?",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 185,
+   "para": "p112",
+   "type": "narration",
+   "text": "He didn’t answer. He didn’t know.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p113",
+   "type": "bond",
+   "text": "She’s crying,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tender"
+  },
+  {
+   "seq": 187,
+   "para": "p113",
+   "type": "narration",
+   "text": "said Lisska.",
+   "mood": "tender"
+  },
+  {
+   "seq": 188,
+   "para": "p113",
+   "type": "bond",
+   "text": "I think. Her face is wet. But it’s been raining. I don’t know.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p114",
+   "type": "narration",
+   "text": "He looked out across the river, two leagues and more, at the island, small and dark between the floes. He couldn’t see anything but the bare oaks, and the brown water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p115",
+   "type": "bond",
+   "text": "Tell me,",
+   "speaker": "Calder",
+   "listener": "Lisska"
+  },
+  {
+   "seq": 191,
+   "para": "p115",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 192,
+   "para": "p115",
+   "type": "bond",
+   "text": "Everything. I’ll tell her when she wakes.",
+   "speaker": "Calder",
+   "listener": "Lisska",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p116",
+   "type": "narration",
+   "text": "Lisska told him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p117",
+   "type": "bond",
+   "text": "She’s taken her hand away. She’s gone off into the trees. She’s coming back. She’s got something. Iron. In her hands. A hammer, I think, and something else.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p118",
+   "type": "bond",
+   "text": "She’s kneeling down. In front of it. In the mud. She’s put the iron on the ground. She’s put her hands on her knees.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p119",
+   "type": "bond",
+   "text": "It’s getting up.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p120",
+   "type": "bond",
+   "text": "It’s standing over her.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p121",
+   "type": "narration",
+   "text": "He held Wren, and listened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p122",
+   "type": "bond",
+   "text": "It’s put its head down. All the way down. On the ground. Beside her. Like a horse when you go to halter it. Its neck. She’s picked up the iron.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p123",
+   "type": "bond",
+   "text": "She’s hitting it. The collar. The iron one, round its neck. She’s…",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p124",
+   "type": "narration",
+   "text": "He couldn’t hear it. Lisska could, across two leagues of river in the still morning air after the rain, and she gave it to him the way Wren would have wanted it.",
+   "mood": "tension"
+  },
+  {
+   "seq": 202,
+   "para": "p124",
+   "type": "bond",
+   "text": "Iron on iron. Tink.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tension"
+  },
+  {
+   "seq": 203,
+   "para": "p124",
+   "type": "narration",
+   "text": "A breath.",
+   "mood": "tension"
+  },
+  {
+   "seq": 204,
+   "para": "p124",
+   "type": "bond",
+   "text": "Tink.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tension"
+  },
+  {
+   "seq": 205,
+   "para": "p124",
+   "type": "bond",
+   "text": "And again. Harder.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 206,
+   "para": "p125",
+   "type": "bond",
+   "text": "It’s off,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "awe"
+  },
+  {
+   "seq": 207,
+   "para": "p125",
+   "type": "narration",
+   "text": "said Lisska.",
+   "mood": "awe"
+  },
+  {
+   "seq": 208,
+   "para": "p125",
+   "type": "bond",
+   "text": "It’s off. The collar’s off. It’s fallen off. In two halves.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 209,
+   "para": "p126",
+   "type": "bond",
+   "text": "It’s standing up. It’s shaking. Like a dog. Calder, the ground’s shaking, I can see the trees on the island shaking from here…",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 210,
+   "para": "p127",
+   "type": "bond",
+   "text": "It’s gone down to the water. It’s drinking.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p128",
+   "type": "bond",
+   "text": "She’s sitting in the mud. She’s holding the collar.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p129",
+   "type": "narration",
+   "text": "Lisska stopped. He felt her lying on the crag beside him with her head out over the edge, looking across the river at the island in the dawn, not saying anything, her whole long green body very still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p130",
+   "type": "bond",
+   "text": "Calder,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "quiet"
+  },
+  {
+   "seq": 214,
+   "para": "p130",
+   "type": "narration",
+   "text": "she said at last.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 215,
+   "para": "p130",
+   "type": "bond",
+   "text": "Somebody should tell her.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p131",
+   "type": "narration",
+   "text": "It was a while before he answered.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p132",
+   "type": "speech",
+   "text": "“Yes,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 218,
+   "para": "p132",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 219,
+   "para": "p133",
+   "type": "narration",
+   "text": "He told Wren at breakfast.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p134",
+   "type": "narration",
+   "text": "He came down off the crag with her asleep in his arms and put her in Bel’s bed, and she slept till nearly noon, and when she woke she came down the ladder at a run and said,",
+   "mood": "urgent"
+  },
+  {
+   "seq": 221,
+   "para": "p134",
+   "type": "speech",
+   "text": "“What happened? What happened? Did the lion-woman get off?”",
+   "speaker": "Wren",
+   "mood": "urgent"
+  },
+  {
+   "seq": 222,
+   "para": "p134",
+   "type": "narration",
+   "text": "before her feet were on the floor.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p135",
+   "type": "narration",
+   "text": "So he told her. At Bel’s table, with porridge going cold in front of her, and Ada in her chair, and Bel at the window. All of it. The hand on the mane. The iron. The lion putting its head down. The collar. Every word Lisska had said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p136",
+   "type": "narration",
+   "text": "Wren made him say it twice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 225,
+   "para": "p137",
+   "type": "narration",
+   "text": "She sat with her spoon in her hand and didn’t eat, and her face was the way it had been on the ladder the night of the verse. The most beautiful one.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 226,
+   "para": "p138",
+   "type": "speech",
+   "text": "“She took its collar off,”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 227,
+   "para": "p138",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 228,
+   "para": "p139",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 229,
+   "para": "p140",
+   "type": "speech",
+   "text": "“And it let her.”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 230,
+   "para": "p141",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 231,
+   "para": "p142",
+   "type": "narration",
+   "text": "Wren put her spoon down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 232,
+   "para": "p143",
+   "type": "speech",
+   "text": "“I want to meet her,”",
+   "speaker": "Wren",
+   "mood": "tender"
+  },
+  {
+   "seq": 233,
+   "para": "p143",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 234,
+   "para": "p144",
+   "type": "narration",
+   "text": "Ada laughed, a short soft sound, by the fire. Bel didn’t. Bel was looking out of the window at the paddock, where Old Grey stood with his head low by the gate.",
+   "mood": "humour",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 235,
+   "para": "p145",
+   "type": "narration",
+   "text": "He told Ada that afternoon, in the byre, where Wren couldn’t hear.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 236,
+   "para": "p146",
+   "type": "narration",
+   "text": "She was at the milk, saying the keeping-word over the pail the way she had every evening of his life. Three words in the old tongue, that her own mother had said, that kept milk sweet a day longer in harvest and did nothing anybody could tell in a cold spring. She finished it before she looked up. She always did.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 237,
+   "para": "p147",
+   "type": "narration",
+   "text": "He told her about the four men on the forest path. The rope. The sack. Ada listened with her hands folded and her face not moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 238,
+   "para": "p148",
+   "type": "speech",
+   "text": "“When the ferry runs,”",
+   "speaker": "Calder",
+   "mood": "tension"
+  },
+  {
+   "seq": 239,
+   "para": "p148",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "tension"
+  },
+  {
+   "seq": 240,
+   "para": "p148",
+   "type": "speech",
+   "text": "“When the river’s clear enough for Liss Ashdown to bring it over. Wren goes. Over the water. To the Hearthmere side.”",
+   "speaker": "Calder",
+   "mood": "tension"
+  },
+  {
+   "seq": 241,
+   "para": "p148",
+   "type": "narration",
+   "text": "He made himself say the next part.",
+   "mood": "tension"
+  },
+  {
+   "seq": 242,
+   "para": "p148",
+   "type": "speech",
+   "text": "“And you go with her.”",
+   "speaker": "Calder",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 243,
+   "para": "p149",
+   "type": "narration",
+   "text": "Ada looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 244,
+   "para": "p150",
+   "type": "speech",
+   "text": "“Yes,”",
+   "speaker": "Ada"
+  },
+  {
+   "seq": 245,
+   "para": "p150",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 246,
+   "para": "p151",
+   "type": "narration",
+   "text": "He’d thought she’d argue. He’d had it ready, everything he’d say. She didn’t argue. She stood in the byre with her shawl round her and looked at him, and he saw she’d been ready for this a long time too.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 247,
+   "para": "p152",
+   "type": "speech",
+   "text": "“And Bel,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 248,
+   "para": "p152",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 249,
+   "para": "p153",
+   "type": "speech",
+   "text": "“Bel won’t go,”",
+   "speaker": "Ada"
+  },
+  {
+   "seq": 250,
+   "para": "p153",
+   "type": "narration",
+   "text": "said Ada."
+  },
+  {
+   "seq": 251,
+   "para": "p153",
+   "type": "speech",
+   "text": "“Not with Joss on the hill. Not with the greys.”",
+   "speaker": "Ada"
+  },
+  {
+   "seq": 252,
+   "para": "p153",
+   "type": "narration",
+   "text": "She looked through the byre door at the paddock."
+  },
+  {
+   "seq": 253,
+   "para": "p153",
+   "type": "speech",
+   "text": "“You ask her. She’ll not say yes. She’ll not say no either. Give her time.”",
+   "speaker": "Ada",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 254,
+   "para": "p154",
+   "type": "speech",
+   "text": "“There isn’t time.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 255,
+   "para": "p155",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Ada",
+   "mood": "tender"
+  },
+  {
+   "seq": 256,
+   "para": "p155",
+   "type": "narration",
+   "text": "said Ada.",
+   "mood": "tender"
+  },
+  {
+   "seq": 257,
+   "para": "p155",
+   "type": "speech",
+   "text": "“There never is. Give her it anyway.”",
+   "speaker": "Ada",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 258,
+   "para": "p156",
+   "type": "narration",
+   "text": "On the hundred-and-twenty-first day Old Grey turned his head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 259,
+   "para": "p157",
+   "type": "narration",
+   "text": "Wren told everyone. She came running up the lane from the paddock with her face lit up, shouting it, before anybody had asked. She’d been at the gate, on the bottom bar, talking to him the way she did, about nothing, about the river and Lisska and the lion-woman and the collar. And in the middle of it, when she said his name, he’d turned his head.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 260,
+   "para": "p158",
+   "type": "narration",
+   "text": "A little. Toward her voice. His great grey head, that hadn’t turned toward anything since the night of the Ewe Beck, turning a hand’s breadth on its neck toward the sound of her saying",
+   "mood": "tender"
+  },
+  {
+   "seq": 261,
+   "para": "p158",
+   "type": "remembered",
+   "text": "Old Grey",
+   "speaker": "Wren",
+   "mood": "tender"
+  },
+  {
+   "seq": 262,
+   "para": "p158",
+   "type": "narration",
+   "text": ", and stopping.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 263,
+   "para": "p159",
+   "type": "narration",
+   "text": "His eyes were still empty. Calder went down and looked. There was still nobody in them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 264,
+   "para": "p160",
+   "type": "narration",
+   "text": "But he’d turned his head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 265,
+   "para": "p161",
+   "type": "narration",
+   "text": "Bel came down too. She stood at the gate beside Wren and looked at the grey. Then she put her hand on Wren’s head, on her hair, and left it there.",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 266,
+   "para": "p162",
+   "type": "narration",
+   "text": "On the hundred-and-twenty-second day he went up to the Scar, and didn’t come down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 267,
+   "para": "p163",
+   "type": "narration",
+   "text": "He said goodbye to her at the paddock gate at dusk. He didn’t say it was goodbye. He said he’d be on the Scar, and that she’d see Lisska on the crag every night, and that Lisska would tell him everything and he’d tell Lisska everything back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 268,
+   "para": "p164",
+   "type": "speech",
+   "text": "“Every night?”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 269,
+   "para": "p164",
+   "type": "narration",
+   "text": "said Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 270,
+   "para": "p165",
+   "type": "speech",
+   "text": "“Every night.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 271,
+   "para": "p166",
+   "type": "speech",
+   "text": "“And you’ll tell me about the lion-woman?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 272,
+   "para": "p167",
+   "type": "narration",
+   "text": "He looked up at the crag."
+  },
+  {
+   "seq": 273,
+   "para": "p167",
+   "type": "bond",
+   "text": "Will you watch her?",
+   "speaker": "Calder",
+   "listener": "Lisska",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 274,
+   "para": "p168",
+   "type": "bond",
+   "text": "Yes,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "humour"
+  },
+  {
+   "seq": 275,
+   "para": "p168",
+   "type": "narration",
+   "text": "said Lisska.",
+   "mood": "humour"
+  },
+  {
+   "seq": 276,
+   "para": "p168",
+   "type": "bond",
+   "text": "Every night. Everything I see.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "humour"
+  },
+  {
+   "seq": 277,
+   "para": "p168",
+   "type": "narration",
+   "text": "A pause.",
+   "mood": "humour"
+  },
+  {
+   "seq": 278,
+   "para": "p168",
+   "type": "bond",
+   "text": "She’ll make you say it twice.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 279,
+   "para": "p169",
+   "type": "speech",
+   "text": "“Yes,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 280,
+   "para": "p169",
+   "type": "narration",
+   "text": "he said to Wren."
+  },
+  {
+   "seq": 281,
+   "para": "p169",
+   "type": "speech",
+   "text": "“When I come down. Everything. Twice.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 282,
+   "para": "p170",
+   "type": "narration",
+   "text": "Wren nodded. She was standing on the bottom bar of the gate with Old Grey’s head over it beside her. She didn’t cry. She hadn’t cried at Joss’s burying either, Bel said. She’d stood on the hill with her mouth shut tight, the way she was standing now.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 283,
+   "para": "p171",
+   "type": "speech",
+   "text": "“Papa,”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 284,
+   "para": "p171",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 285,
+   "para": "p172",
+   "type": "speech",
+   "text": "“Yes?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 286,
+   "para": "p173",
+   "type": "speech",
+   "text": "“When you tell her. The lion-woman. That somebody wants her too.”",
+   "speaker": "Wren",
+   "mood": "tender"
+  },
+  {
+   "seq": 287,
+   "para": "p173",
+   "type": "narration",
+   "text": "She looked at him.",
+   "mood": "tender"
+  },
+  {
+   "seq": 288,
+   "para": "p173",
+   "type": "speech",
+   "text": "“Tell her I said hello.”",
+   "speaker": "Wren",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 289,
+   "para": "p174",
+   "type": "narration",
+   "text": "He went up into the forest in the dark by a new way, round the far side of the Hollins’ wood, through the snow, a way nobody had walked. He’d find a new one every time, if he came down at all. He didn’t think he would.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 290,
+   "para": "p175",
+   "type": "narration",
+   "text": "On the crag above the farm, behind him, he felt Lisska settle on the rock with her head out over the edge, facing south and west across the river, toward the island.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 291,
+   "para": "p176",
+   "type": "narration",
+   "text": "And below her, in the dark of the hollow, a small square of candlelight in Bel’s house, and a face in it, looking up at her.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  }
+ ]
+}

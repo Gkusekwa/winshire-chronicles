@@ -1,0 +1,1915 @@
+{
+ "chapter": 59,
+ "title": "Orders",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Fifty-nine.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Orders.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The river was full of ice and running high, and Ottery wouldn’t take her over except at first light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "He took her once, on the hundred-and-twenty-fifth, in the grey hour before dawn, when the night’s frost had slowed the melt upriver and the floes came down thinner, and slowed and spun, and you could pole a punt through the leads between them if you knew what you were doing. Ottery knew. He stood in the stern without a word and took them through, and grounded on the west shore, and sat in the punt in the reeds with the pole across his knees and waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "The pit was flooded.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "The brown water had come up through the old fill from below and filled it to the top of the stone. The lion stood in it to its knees. It was scraping. Under the water now. She could see the mud boil up round its forefeet where the claws went in.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "It looked up when she came over the bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "It let her come closer now. Since the collar. She came down the bank on her heels to the edge of the brown water and stood there, five paces off, and it watched her and went on scraping.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "Then it came up out of the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "It came up the bank, streaming, and stood beside her. Close. She could feel the cold coming off its wet coat. She stood very still. It put its head down to the water at the edge of the pit, beside her, and drank.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "She put her hand on its foreleg.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "Above the great paw, where the leg went up thick as a tree into the chest. The coat was short there, and wet, and under it the muscle was hard and moving as it drank. The hum came up through her palm.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "narration",
+   "text": "It lifted its head and looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p12",
+   "type": "narration",
+   "text": "It didn’t move away. It let her hand stay. Then it went back down into the water, and turned to the stone, and she stood at the edge of the pit with her wet palm against her chest and watched it scrape until Ottery called.",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 15,
+   "para": "p13",
+   "type": "narration",
+   "text": "Rowan sent for her on the hundred-and-twenty-seventh day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p14",
+   "type": "narration",
+   "text": "She’d been at Greyhold since the evening before, drawing stores for the patrol: lamp oil, because nothing burned without it now, and bread, and a new pole for Ottery. The lamp-tender was in the stores yard too, filling oil-cans at the cask. He’d walked Greyhold’s walls every dusk for thirty years saying the words over each lamp, with his licence on a cord round his neck, and he still wore it. He filled the cans and didn’t look at anybody. She was loading the cart when the boy came."
+  },
+  {
+   "seq": 17,
+   "para": "p14",
+   "type": "speech",
+   "text": "The Captain.",
+   "speaker": "the boy",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p15",
+   "type": "narration",
+   "text": "She climbed the north tower stair behind him. Past the second floor. Up the last winding flight so tight she had to go sideways. She knocked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p16",
+   "type": "speech",
+   "text": "“Come.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p17",
+   "type": "narration",
+   "text": "Rowan was at her table this time, sitting, with her hands folded on the table in front of her and a paper under them. By the fire, in the chair where Maren had never seen anybody sit, Captain Thorne. Square and grey-haired, in her riding coat, with a ledger open on her knee. She looked up when Maren came in, and down again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p18",
+   "type": "speech",
+   "text": "“Shut the door, Ashdown,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 22,
+   "para": "p18",
+   "type": "narration",
+   "text": "said Rowan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p19",
+   "type": "narration",
+   "text": "Maren shut it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p20",
+   "type": "speech",
+   "text": "“Sit down.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p21",
+   "type": "narration",
+   "text": "There was a stool in front of the table. She sat on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p22",
+   "type": "narration",
+   "text": "Rowan looked at her across the table for a long moment, with her quiet face and her iron-grey hair cut short. Then she said, without any change in her voice at all:",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p23",
+   "type": "speech",
+   "text": "“I know what’s under the hill.”",
+   "speaker": "Rowan",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 28,
+   "para": "p24",
+   "type": "narration",
+   "text": "Maren didn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p25",
+   "type": "speech",
+   "text": "“I’m inner circle, but I’m not Watch,”",
+   "speaker": "Rowan",
+   "mood": "tension"
+  },
+  {
+   "seq": 30,
+   "para": "p25",
+   "type": "narration",
+   "text": "said Rowan.",
+   "mood": "tension"
+  },
+  {
+   "seq": 31,
+   "para": "p25",
+   "type": "speech",
+   "text": "“I’ve never been down. I’ve never held the lantern. But I’m Captain of Greyhold, and when the council gave me the school they sat me down in a room in Hallowmere and told me what I’d be captain of.”",
+   "speaker": "Rowan",
+   "mood": "tension"
+  },
+  {
+   "seq": 32,
+   "para": "p25",
+   "type": "narration",
+   "text": "She looked at Maren.",
+   "mood": "tension"
+  },
+  {
+   "seq": 33,
+   "para": "p25",
+   "type": "speech",
+   "text": "“So I know. And I know you know. I’ve known since the night of the lamps. Osric Hale is a bad liar, Ashdown, and he’s been looking at you across the yard for a month like a man who’s given away his last coat.”",
+   "speaker": "Rowan",
+   "mood": "tension"
+  },
+  {
+   "seq": 34,
+   "para": "p25",
+   "type": "narration",
+   "text": "She paused.",
+   "mood": "tension"
+  },
+  {
+   "seq": 35,
+   "para": "p25",
+   "type": "speech",
+   "text": "“And you’re a worse liar than he is.”",
+   "speaker": "Rowan",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 36,
+   "para": "p26",
+   "type": "narration",
+   "text": "Maren sat on the stool and said nothing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 37,
+   "para": "p27",
+   "type": "speech",
+   "text": "“Captain Thorne went out to the island yesterday,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 38,
+   "para": "p27",
+   "type": "narration",
+   "text": "said Rowan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p28",
+   "type": "narration",
+   "text": "By the fire, Thorne turned a page of the ledger and didn’t look up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p29",
+   "type": "speech",
+   "text": "“With Pell. In the morning, while you were on the road down here. At first light. Ottery took them, and wasn’t pleased about it.”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 41,
+   "para": "p29",
+   "type": "narration",
+   "text": "Rowan’s hands didn’t move on the paper."
+  },
+  {
+   "seq": 42,
+   "para": "p29",
+   "type": "speech",
+   "text": "“They went to the north end.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p30",
+   "type": "narration",
+   "text": "Maren felt her face go hot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p31",
+   "type": "speech",
+   "text": "“Captain Thorne saw the pit,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 45,
+   "para": "p31",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 46,
+   "para": "p31",
+   "type": "speech",
+   "text": "“And the water in it. And the beast standing in the water. And under the water, at the bottom, when it moved, she saw the stone. Dressed blocks. Grey.”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 47,
+   "para": "p31",
+   "type": "narration",
+   "text": "She looked at Maren."
+  },
+  {
+   "seq": 48,
+   "para": "p31",
+   "type": "speech",
+   "text": "“The same as the inner wall.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p32",
+   "type": "narration",
+   "text": "Thorne closed the ledger.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p33",
+   "type": "speech",
+   "text": "“Your report said it digs,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 51,
+   "para": "p33",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 52,
+   "para": "p33",
+   "type": "speech",
+   "text": "“That’s all it said. Every report since the hundred-and-fourth day. It keeps to the north end, and digs.”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 53,
+   "para": "p33",
+   "type": "narration",
+   "text": "She tilted her head, very slightly."
+  },
+  {
+   "seq": 54,
+   "para": "p33",
+   "type": "speech",
+   "text": "“It didn’t say where to.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p34",
+   "type": "narration",
+   "text": "Maren looked at the table.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p35",
+   "type": "speech",
+   "text": "“Why?”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 57,
+   "para": "p35",
+   "type": "narration",
+   "text": "said Rowan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p36",
+   "type": "narration",
+   "text": "She didn’t answer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p37",
+   "type": "speech",
+   "text": "“I’m not angry,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 60,
+   "para": "p37",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 61,
+   "para": "p37",
+   "type": "speech",
+   "text": "“I want to know. You wrote fourteen pages about a roadblock on your first patrol. Every raider, every signal. Pell says you’d count the sheep in a field if he didn’t stop you. And you’ve sat on the bank of that pit for three weeks and watched that beast scrape at a course of the same stone as the inner wall, running under the river, toward us, and you wrote it digs.”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 62,
+   "para": "p37",
+   "type": "narration",
+   "text": "She waited."
+  },
+  {
+   "seq": 63,
+   "para": "p37",
+   "type": "speech",
+   "text": "“Why?”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p38",
+   "type": "narration",
+   "text": "Maren looked up at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p39",
+   "type": "speech",
+   "text": "“Because it’s trying to get down,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 66,
+   "para": "p39",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 67,
+   "para": "p39",
+   "type": "speech",
+   "text": "“To its own.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p40",
+   "type": "narration",
+   "text": "The room went very quiet.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 69,
+   "para": "p41",
+   "type": "narration",
+   "text": "Thorne, by the fire, turned her head and looked at Maren for the first time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p42",
+   "type": "speech",
+   "text": "“To its own,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 71,
+   "para": "p42",
+   "type": "narration",
+   "text": "said Rowan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p43",
+   "type": "speech",
+   "text": "“What’s under the hill. It’s the same as the lion. Or it’s the lion’s… I don’t know the word. Its kin. Its kind.”",
+   "speaker": "Maren",
+   "how": "unsteady",
+   "mood": "urgent"
+  },
+  {
+   "seq": 73,
+   "para": "p43",
+   "type": "narration",
+   "text": "Her voice wasn’t steady.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 74,
+   "para": "p43",
+   "type": "speech",
+   "text": "“There’s a drawing in the black book. On one of the cut stubs. A forefoot. It’s the lion’s foot, Captain. I’ve put my hand in that print. And the lion came back to the island and lay down in the arch under the verse and wouldn’t leave, and it’s been digging down toward it all winter. Every night. When I put my hand on the door, something moved down there, and the lion roared. And something answered.”",
+   "speaker": "Maren",
+   "how": "unsteady",
+   "mood": "urgent"
+  },
+  {
+   "seq": 75,
+   "para": "p43",
+   "type": "narration",
+   "text": "She stopped.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 76,
+   "para": "p43",
+   "type": "speech",
+   "text": "“It’s not guarding the island. It never was. It’s trying to get to it.”",
+   "speaker": "Maren",
+   "how": "unsteady",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p44",
+   "type": "narration",
+   "text": "Rowan looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p45",
+   "type": "speech",
+   "text": "“And you didn’t want me to know that,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 79,
+   "para": "p45",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p46",
+   "type": "speech",
+   "text": "“No.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p47",
+   "type": "speech",
+   "text": "“Because of what I’d do.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p48",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p49",
+   "type": "narration",
+   "text": "Rowan nodded. As if Maren had confirmed something. She looked down at the paper under her hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p50",
+   "type": "speech",
+   "text": "“Well,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 85,
+   "para": "p50",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 86,
+   "para": "p50",
+   "type": "speech",
+   "text": "“You were right.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 87,
+   "para": "p51",
+   "type": "narration",
+   "text": "She read it aloud.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p52",
+   "type": "narration",
+   "text": "She didn’t hand it over. She held it flat on the table and read it in her quiet voice that carried to the back of the yard without being raised, and Maren sat on the stool and listened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p53",
+   "type": "narration",
+   "text": "It was from the council at Hallowmere. It had come the day before, by a rider with the crown’s own seal. It was short.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p54",
+   "type": "written",
+   "text": "The beast at the Old Ruin is to be secured before the faction calling itself the Restoration can reach it. The Captain of Greyhold is to take it alive by whatever means are judged surest, and bring it in chains to Greyhold, to be held under the old wall.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 91,
+   "para": "p55",
+   "type": "narration",
+   "text": "Rowan looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p56",
+   "type": "speech",
+   "text": "“A trap,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 93,
+   "para": "p56",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 94,
+   "para": "p56",
+   "type": "speech",
+   "text": "“On the island’s west shore, where the reeds come down. Captain Thorne’s drawn it.”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 95,
+   "para": "p56",
+   "type": "narration",
+   "text": "She nodded at the ledger on Thorne’s knee."
+  },
+  {
+   "seq": 96,
+   "para": "p56",
+   "type": "speech",
+   "text": "“A pit-net. The crown’s beast-chain, the old chain, from the armoury. Not theirs. Ours. A carcass with a sleeping-draught in it, the strongest the infirmary can brew without words. Forty knights in the reeds, with the greyharts and Thorne’s boar.”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 97,
+   "para": "p56",
+   "type": "narration",
+   "text": "She paused."
+  },
+  {
+   "seq": 98,
+   "para": "p56",
+   "type": "speech",
+   "text": "“And you.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p57",
+   "type": "narration",
+   "text": "Maren sat very still.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 100,
+   "para": "p58",
+   "type": "speech",
+   "text": "“It follows you,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 101,
+   "para": "p58",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 102,
+   "para": "p58",
+   "type": "speech",
+   "text": "“Everybody knows it follows you. Pell’s seen it. Ottery’s seen it. It followed you to the water every night in the autumn and watched you go. It let you take its collar off.”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 103,
+   "para": "p58",
+   "type": "narration",
+   "text": "She said it without any weight on it at all."
+  },
+  {
+   "seq": 104,
+   "para": "p58",
+   "type": "speech",
+   "text": "“You’ll go out at dusk the way you always do, and sit where you always sit. And when it comes to you, you’ll get up and walk down to the west shore. Slowly. The way you’d lead a horse. And it’ll follow you onto the net.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 105,
+   "para": "p59",
+   "type": "narration",
+   "text": "Maren was quiet for a while.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Why?”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 107,
+   "para": "p60",
+   "type": "narration",
+   "text": "she said at last.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p61",
+   "type": "speech",
+   "text": "“Because if we don’t take it, they will.”",
+   "speaker": "Rowan",
+   "mood": "dread"
+  },
+  {
+   "seq": 109,
+   "para": "p61",
+   "type": "narration",
+   "text": "Rowan’s voice didn’t change.",
+   "mood": "dread"
+  },
+  {
+   "seq": 110,
+   "para": "p61",
+   "type": "speech",
+   "text": "“The Restoration. You’ve heard what’s on the road at the Ram’s Head. Pell’s seen the glow from the tower. Five thousand men, by the count that’s come to us. And a quarter-mile of beast lines.”",
+   "speaker": "Rowan",
+   "mood": "dread"
+  },
+  {
+   "seq": 111,
+   "para": "p61",
+   "type": "narration",
+   "text": "She looked at Maren.",
+   "mood": "dread"
+  },
+  {
+   "seq": 112,
+   "para": "p61",
+   "type": "speech",
+   "text": "“You’ve seen what they do to beasts, Ashdown. You saw it on the Redwatch landing. The hounds that came on with bolts in them. The ones with the eyes. You sat with Ide Darrow for three nights.”",
+   "speaker": "Rowan",
+   "mood": "dread"
+  },
+  {
+   "seq": 113,
+   "para": "p61",
+   "type": "narration",
+   "text": "She waited, and when Maren didn’t answer, went on.",
+   "mood": "dread"
+  },
+  {
+   "seq": 114,
+   "para": "p61",
+   "type": "speech",
+   "text": "“Think what that would be. A beast like that one. Ten feet at the shoulder and growing, with the ground moving for it. Bound. With some man’s hand on its neck and nothing in its eyes. At the head of five thousand men. At our wall.”",
+   "speaker": "Rowan",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 115,
+   "para": "p62",
+   "type": "narration",
+   "text": "Maren thought of it. She couldn’t stop herself.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p63",
+   "type": "speech",
+   "text": "“If they take it,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 117,
+   "para": "p63",
+   "type": "narration",
+   "text": "said Rowan,"
+  },
+  {
+   "seq": 118,
+   "para": "p63",
+   "type": "speech",
+   "text": "“it’s a weapon. If we take it, it lives.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p64",
+   "type": "speech",
+   "text": "“In chains,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 120,
+   "para": "p64",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p65",
+   "type": "narration",
+   "text": "Rowan didn’t answer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p66",
+   "type": "speech",
+   "text": "“In chains,”",
+   "speaker": "Maren",
+   "mood": "anger"
+  },
+  {
+   "seq": 123,
+   "para": "p66",
+   "type": "narration",
+   "text": "said Maren again.",
+   "mood": "anger"
+  },
+  {
+   "seq": 124,
+   "para": "p66",
+   "type": "speech",
+   "text": "“Under the old wall. You said so. You read it. To be held under the old wall.”",
+   "speaker": "Maren",
+   "mood": "anger"
+  },
+  {
+   "seq": 125,
+   "para": "p66",
+   "type": "narration",
+   "text": "She heard her own voice and didn’t know it.",
+   "mood": "anger"
+  },
+  {
+   "seq": 126,
+   "para": "p66",
+   "type": "speech",
+   "text": "“Like the other one. Down there. Next to it. So it can lie in the dark with chain on it for three hundred years and hear its own kin breathe through the rock. And we’ll light the lamps.”",
+   "speaker": "Maren",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p67",
+   "type": "narration",
+   "text": "The fire ticked.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p68",
+   "type": "narration",
+   "text": "By the fire, Thorne was looking at the floor.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p69",
+   "type": "speech",
+   "text": "“That’s not mine to decide,”",
+   "speaker": "Rowan",
+   "how": "very quietly"
+  },
+  {
+   "seq": 130,
+   "para": "p69",
+   "type": "narration",
+   "text": "said Rowan, very quietly."
+  },
+  {
+   "seq": 131,
+   "para": "p69",
+   "type": "speech",
+   "text": "“It’s not the hand that writes it.”",
+   "speaker": "Rowan",
+   "how": "very quietly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p70",
+   "type": "speech",
+   "text": "“It’s your hand that’s reading it.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p71",
+   "type": "narration",
+   "text": "Rowan looked at her a long moment.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Yes,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 135,
+   "para": "p72",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 136,
+   "para": "p72",
+   "type": "speech",
+   "text": "“It is.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 137,
+   "para": "p73",
+   "type": "narration",
+   "text": "She finished reading.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p74",
+   "type": "narration",
+   "text": "She looked back down at the paper and read the last of it in the same quiet voice, without pausing, without any change at all, as if it were the same as everything before it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p75",
+   "type": "written",
+   "text": "And the farmer with the dragons, if he crosses, to be taken, or, failing that, killed.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 140,
+   "para": "p76",
+   "type": "narration",
+   "text": "She put the paper down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p77",
+   "type": "narration",
+   "text": "Maren stared at her.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 142,
+   "para": "p78",
+   "type": "speech",
+   "text": "“That’s the council,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 143,
+   "para": "p78",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 144,
+   "para": "p78",
+   "type": "speech",
+   "text": "“Not me.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p79",
+   "type": "speech",
+   "text": "“He put out the fires,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 146,
+   "para": "p79",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 147,
+   "para": "p79",
+   "type": "speech",
+   "text": "“At Harrow’s End. In the autumn. When we sat on the bank. He put out the fires and got the children off the roof.”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 148,
+   "para": "p79",
+   "type": "narration",
+   "text": "She turned on the stool."
+  },
+  {
+   "seq": 149,
+   "para": "p79",
+   "type": "speech",
+   "text": "“Captain Thorne. You were there. You saw him.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p80",
+   "type": "narration",
+   "text": "Thorne didn’t look up from the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p81",
+   "type": "speech",
+   "text": "“The council,”",
+   "speaker": "Rowan",
+   "mood": "tension"
+  },
+  {
+   "seq": 152,
+   "para": "p81",
+   "type": "narration",
+   "text": "said Rowan,",
+   "mood": "tension"
+  },
+  {
+   "seq": 153,
+   "para": "p81",
+   "type": "speech",
+   "text": "“has had a printed paper nailed to its own gate in Hallowmere with the farmer’s name on it as the sign of the one realm come again. It’s had another one since that calls him the one realm’s enemy. It doesn’t know which to believe, and it doesn’t care. It knows that there’s a man on the other bank with three dragons, who no book has ever heard of, and that every sign in the margin of the Watch’s black book is coming true at once, and he’s the last of them.”",
+   "speaker": "Rowan",
+   "mood": "tension"
+  },
+  {
+   "seq": 154,
+   "para": "p81",
+   "type": "narration",
+   "text": "Her voice was very even.",
+   "mood": "tension"
+  },
+  {
+   "seq": 155,
+   "para": "p81",
+   "type": "speech",
+   "text": "“It’s frightened of him. They all are. Hale told you that too, I expect.”",
+   "speaker": "Rowan",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 156,
+   "para": "p82",
+   "type": "speech",
+   "text": "“I’m frightened of him,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 157,
+   "para": "p82",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 158,
+   "para": "p82",
+   "type": "speech",
+   "text": "“I’m not ashamed of it.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 159,
+   "para": "p83",
+   "type": "speech",
+   "text": "“There’s one more thing,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 160,
+   "para": "p83",
+   "type": "narration",
+   "text": "said Rowan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p84",
+   "type": "narration",
+   "text": "She took something else from under the paper. A scrap of a different kind. A page torn out of a ledger, with writing on it in Pell’s square hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Pell’s patrol took a man last night,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 163,
+   "para": "p85",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 164,
+   "para": "p85",
+   "type": "speech",
+   "text": "“At the Redwatch landing. A sellsword. Off a Restoration boat that tried to come over in the dusk, to look at the island, we think. Two of them drowned. Pell pulled this one out.”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 165,
+   "para": "p85",
+   "type": "narration",
+   "text": "She glanced at the page."
+  },
+  {
+   "seq": 166,
+   "para": "p85",
+   "type": "speech",
+   "text": "“He talked. They do, when they’re wet enough. There’s a price on the Saltreach bank, he says. Paid by a man at the Ram’s Head. Two hundred silver for the farmer, alive.”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 167,
+   "para": "p85",
+   "type": "narration",
+   "text": "She looked up."
+  },
+  {
+   "seq": 168,
+   "para": "p85",
+   "type": "speech",
+   "text": "“And two hundred for you.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p86",
+   "type": "narration",
+   "text": "Maren sat very still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p87",
+   "type": "speech",
+   "text": "“The knight with the lion,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 171,
+   "para": "p87",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 172,
+   "para": "p87",
+   "type": "speech",
+   "text": "“That’s what he called you. You and the farmer. Same price, he said. Same buyer.”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 173,
+   "para": "p87",
+   "type": "narration",
+   "text": "She laid the page down."
+  },
+  {
+   "seq": 174,
+   "para": "p87",
+   "type": "speech",
+   "text": "“They want you because the beast follows you. If they have you, they have it. That’s all you are to them, Ashdown. A halter.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p88",
+   "type": "narration",
+   "text": "She folded her hands on the table.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p89",
+   "type": "speech",
+   "text": "“That’s what you are to us as well,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 177,
+   "para": "p89",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 178,
+   "para": "p89",
+   "type": "speech",
+   "text": "“I’ll not pretend otherwise. We want you for the same reason. The only difference between us and them is that we’ll keep you. And we’ll keep it alive.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 179,
+   "para": "p90",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 180,
+   "para": "p90",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p91",
+   "type": "narration",
+   "text": "Rowan looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p92",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 183,
+   "para": "p92",
+   "type": "narration",
+   "text": "said Maren again."
+  },
+  {
+   "seq": 184,
+   "para": "p92",
+   "type": "speech",
+   "text": "“I won’t.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p93",
+   "type": "speech",
+   "text": "“Think about it.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p94",
+   "type": "speech",
+   "text": "“I have.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p95",
+   "type": "speech",
+   "text": "“You’ve had a quarter of an hour.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p96",
+   "type": "speech",
+   "text": "“I’ve had all winter.”",
+   "speaker": "Maren",
+   "how": "steady",
+   "mood": "anger"
+  },
+  {
+   "seq": 189,
+   "para": "p96",
+   "type": "narration",
+   "text": "She was surprised how steady her voice was.",
+   "mood": "anger"
+  },
+  {
+   "seq": 190,
+   "para": "p96",
+   "type": "speech",
+   "text": "“I’ve sat with it every night since the freeze. I’ve sat in the bottom of that pit and watched it scrape at the stone over its own kin with its claws until they bled. I’ve put my hand on it. It let me. It put its head down in the mud and let me take the iron off its neck. I’m not going to walk it onto a net.”",
+   "speaker": "Maren",
+   "how": "steady",
+   "mood": "anger"
+  },
+  {
+   "seq": 191,
+   "para": "p96",
+   "type": "narration",
+   "text": "She looked at Rowan.",
+   "mood": "anger"
+  },
+  {
+   "seq": 192,
+   "para": "p96",
+   "type": "speech",
+   "text": "“No.”",
+   "speaker": "Maren",
+   "how": "steady",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p97",
+   "type": "narration",
+   "text": "Rowan sat for a long moment.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p98",
+   "type": "speech",
+   "text": "“I’m ordering you, Ashdown,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 195,
+   "para": "p98",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 196,
+   "para": "p98",
+   "type": "speech",
+   "text": "“As your Captain. I’m ordering you to do it.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p99",
+   "type": "speech",
+   "text": "“No.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p100",
+   "type": "speech",
+   "text": "“You swore an oath.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p101",
+   "type": "speech",
+   "text": "“I swore to keep the watch below,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 200,
+   "para": "p101",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 201,
+   "para": "p101",
+   "type": "speech",
+   "text": "“I can’t say the rest of it any more. I’ve tried. It won’t come out. And I never swore to put another one down there.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p102",
+   "type": "narration",
+   "text": "Thorne had put her hand over her eyes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p103",
+   "type": "narration",
+   "text": "Rowan looked at her across the table. Her quiet face didn’t change. It never changed. But her hands, folded on the table, on the council’s paper, had gone white at the knuckles.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 204,
+   "para": "p104",
+   "type": "speech",
+   "text": "“A third time,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 205,
+   "para": "p104",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 206,
+   "para": "p104",
+   "type": "speech",
+   "text": "“So it’s said. I’m ordering you to bring the beast at the Old Ruin onto the net on the west shore of the island at dusk, on the day I name.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p105",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 208,
+   "para": "p105",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 209,
+   "para": "p106",
+   "type": "narration",
+   "text": "Rowan sat back in her chair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p107",
+   "type": "narration",
+   "text": "She looked out of the window for a while. At the river, high and brown and full of ice. At the island in the middle of it, dark, with the bare oaks.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p108",
+   "type": "speech",
+   "text": "“Then I’ll do it without you,”",
+   "speaker": "Rowan",
+   "mood": "tension"
+  },
+  {
+   "seq": 212,
+   "para": "p108",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "tension"
+  },
+  {
+   "seq": 213,
+   "para": "p108",
+   "type": "speech",
+   "text": "“And it’ll go worse. You know it will. Forty knights in the reeds and no one it trusts to bring it in. It’ll fight. Some of my knights will die. It may die. The net may not hold it, and the chain may not, and then I’ll have to do it another way, and I don’t know what that way is yet.”",
+   "speaker": "Rowan",
+   "mood": "tension"
+  },
+  {
+   "seq": 214,
+   "para": "p108",
+   "type": "narration",
+   "text": "She didn’t look round.",
+   "mood": "tension"
+  },
+  {
+   "seq": 215,
+   "para": "p108",
+   "type": "speech",
+   "text": "“You know all that.”",
+   "speaker": "Rowan",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 216,
+   "para": "p109",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p110",
+   "type": "speech",
+   "text": "“And you still say no.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p111",
+   "type": "speech",
+   "text": "“Then it’ll go worse,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 219,
+   "para": "p111",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p112",
+   "type": "narration",
+   "text": "Rowan turned and looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p113",
+   "type": "narration",
+   "text": "For a moment, just a moment, something moved in the quiet face, something like what Hale’s face had done on the archive step, under the carved line, when he said"
+  },
+  {
+   "seq": 222,
+   "para": "p113",
+   "type": "remembered",
+   "text": "you don’t tell people things.",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 223,
+   "para": "p113",
+   "type": "narration",
+   "text": "Then it was gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p114",
+   "type": "speech",
+   "text": "“You’re off Pell’s patrol,”",
+   "speaker": "Rowan",
+   "mood": "anger"
+  },
+  {
+   "seq": 225,
+   "para": "p114",
+   "type": "narration",
+   "text": "said Rowan.",
+   "mood": "anger"
+  },
+  {
+   "seq": 226,
+   "para": "p114",
+   "type": "speech",
+   "text": "“From now. You’re confined to Greyhold. The midden. The barn. The refectory. The dormitory. Nowhere else. You’ll not go to Redwatch. You’ll not go on the river. You’ll not go near the island.”",
+   "speaker": "Rowan",
+   "mood": "anger"
+  },
+  {
+   "seq": 227,
+   "para": "p114",
+   "type": "narration",
+   "text": "She picked up her pen.",
+   "mood": "anger"
+  },
+  {
+   "seq": 228,
+   "para": "p114",
+   "type": "speech",
+   "text": "“If you go over the wall behind the midden again, the way you did on the hundred-and-twenty-third night, the gate will be told to stop you, and they’ll stop you however they have to.”",
+   "speaker": "Rowan",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 229,
+   "para": "p115",
+   "type": "narration",
+   "text": "Maren felt it go through her."
+  },
+  {
+   "seq": 230,
+   "para": "p115",
+   "type": "remembered",
+   "text": "The hundred-and-twenty-third night.",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 231,
+   "para": "p115",
+   "type": "narration",
+   "text": "The hedge-meeting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 232,
+   "para": "p116",
+   "type": "narration",
+   "text": "Rowan didn’t look up from her pen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 233,
+   "para": "p117",
+   "type": "speech",
+   "text": "“Captain Thorne will see you down,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 234,
+   "para": "p117",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 235,
+   "para": "p118",
+   "type": "narration",
+   "text": "Thorne walked her down the stair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 236,
+   "para": "p119",
+   "type": "narration",
+   "text": "She went first, with a lantern, though it was daylight; the tower stair had no windows. Down the tight winding flight, sideways. Past the second floor. Down. Thorne didn’t speak. Her boots rang on the steps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 237,
+   "para": "p120",
+   "type": "narration",
+   "text": "At the bottom, at the door into the yard, she stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 238,
+   "para": "p121",
+   "type": "narration",
+   "text": "She stood with her hand on the latch and didn’t open it. She looked at the door, not at Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 239,
+   "para": "p122",
+   "type": "speech",
+   "text": "“I lifted my hand to him, you know,”",
+   "speaker": "Thorne",
+   "how": "very low"
+  },
+  {
+   "seq": 240,
+   "para": "p122",
+   "type": "narration",
+   "text": "she said. Very low."
+  },
+  {
+   "seq": 241,
+   "para": "p122",
+   "type": "speech",
+   "text": "“The farmer. In the autumn. The morning after the burning, at Harrow’s End.”",
+   "speaker": "Thorne",
+   "how": "very low",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 242,
+   "para": "p123",
+   "type": "narration",
+   "text": "Maren looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 243,
+   "para": "p124",
+   "type": "speech",
+   "text": "“We sat on the bank all night,”",
+   "speaker": "Thorne",
+   "how": "low",
+   "mood": "grief"
+  },
+  {
+   "seq": 244,
+   "para": "p124",
+   "type": "narration",
+   "text": "said Thorne.",
+   "mood": "grief"
+  },
+  {
+   "seq": 245,
+   "para": "p124",
+   "type": "speech",
+   "text": "“Twenty of us. With the lanterns. Watching it burn. Because the orders said no knight crosses the river into the Marches, not for anything, not for any reason. And I sat on my horse in the middle of the line and watched a whole village burn, and heard the children.”",
+   "speaker": "Thorne",
+   "how": "low",
+   "mood": "grief"
+  },
+  {
+   "seq": 246,
+   "para": "p124",
+   "type": "narration",
+   "text": "She was quiet a moment.",
+   "mood": "grief"
+  },
+  {
+   "seq": 247,
+   "para": "p124",
+   "type": "speech",
+   "text": "“And then he came. Out of the dark. On the old general. And put the fires out. And in the morning when it was light he stood on the bank on the far side with the three of them behind him, and looked across the water at us, sitting there.”",
+   "speaker": "Thorne",
+   "how": "low",
+   "mood": "grief"
+  },
+  {
+   "seq": 248,
+   "para": "p124",
+   "type": "narration",
+   "text": "She took a breath.",
+   "mood": "grief"
+  },
+  {
+   "seq": 249,
+   "para": "p124",
+   "type": "speech",
+   "text": "“And I lifted my hand to him. I don’t know why. I couldn’t do anything else.”",
+   "speaker": "Thorne",
+   "how": "low",
+   "mood": "grief"
+  },
+  {
+   "seq": 250,
+   "para": "p124",
+   "type": "narration",
+   "text": "She turned her head and looked at Maren at last.",
+   "mood": "grief"
+  },
+  {
+   "seq": 251,
+   "para": "p124",
+   "type": "speech",
+   "text": "“It was the only right thing I did that whole night.”",
+   "speaker": "Thorne",
+   "how": "low",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 252,
+   "para": "p125",
+   "type": "narration",
+   "text": "She opened the door. The thin spring light came in off the yard, and the noise of the hammering on the scaffolds on the river wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 253,
+   "para": "p126",
+   "type": "speech",
+   "text": "“Go to your barn, Ashdown,”",
+   "speaker": "Thorne"
+  },
+  {
+   "seq": 254,
+   "para": "p126",
+   "type": "narration",
+   "text": "said Thorne.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 255,
+   "para": "p127",
+   "type": "narration",
+   "text": "Maren went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 256,
+   "para": "p128",
+   "type": "narration",
+   "text": "She crossed the yard under the scaffolds, with men on the planks above her lashing up the new timber along the wall, and the great arm of a throwing-engine swinging slowly round on the river tower as they set it, turning to face the Saltreach bank. She went into the Long Barn. It was dim and warm and smelled of the beasts.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 257,
+   "para": "p129",
+   "type": "narration",
+   "text": "At the end of the barn, in the biggest stall, behind the double doors with the iron bands, Thorne’s boar lay in the straw with its small red eyes open, facing the north wall.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 258,
+   "para": "p130",
+   "type": "narration",
+   "text": "She picked up a fork.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 259,
+   "para": "p131",
+   "type": "remembered",
+   "text": "And the farmer with the dragons, if he crosses.",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 260,
+   "para": "p132",
+   "type": "narration",
+   "text": "She thought of narrow boot-prints and hobnailed ones, in the snow by her fire, one over the other. Knees in the snow. A scale the size of a round shield, warm, in the chest under her cot. Three dragons answering a roar across the ice from the hills above Harrow’s End.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 261,
+   "para": "p133",
+   "type": "remembered",
+   "text": "You and the farmer. Same price. Same buyer.",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 262,
+   "para": "p134",
+   "type": "narration",
+   "text": "She began to muck out.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  }
+ ]
+}

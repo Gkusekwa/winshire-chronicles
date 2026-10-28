@@ -1,0 +1,181 @@
+{
+ "_help": "Paste an ElevenLabs voice_id for each role you want voiced (Voice Library or your own voices). Roles left empty fall back to Narrator. Per-role 'settings' override 'defaults'. eleven_v3 accepts stability 0.0, 0.5 or 1.0 only.",
+ "output_format": "mp3_44100_128",
+ "defaults": {
+  "stability": 0.5,
+  "similarity_boost": 0.75,
+  "style": 0.0,
+  "use_speaker_boost": true,
+  "speed": 1.0
+ },
+ "roles": {
+  "Narrator": {
+   "voice_id": "",
+   "note": "British English, warm and unhurried, intimate rather than announcer-like; the backbone of the book. Reads all narration,"
+  },
+  "Maren": {
+   "voice_id": "",
+   "note": "Measured, precise, few words; dry humour at her own expense. Formal with superiors, blunt with peers. Under pressure her"
+  },
+  "Calder": {
+   "voice_id": "",
+   "note": "Plain and earthy, a Saltreach farmer; wry, tired humour; swears mildly. Talks to animals like friends and argues with th"
+  },
+  "Orrun": {
+   "voice_id": "",
+   "note": "The great lion. Slow and deep, like stone settling, with grief underneath. Few words. Must stay intelligible: deep, not "
+  },
+  "Aurveth": {
+   "voice_id": "",
+   "note": "The oldest dragon. Long, measured, precise sentences; patient; guides rather than commands. An old woman's authority, ne"
+  },
+  "Kharrak": {
+   "voice_id": "",
+   "note": "Broad, scarred, battle-trained. Short, hard bursts; fragments. Fierce, protective. Rough but not a monster voice."
+  },
+  "Lisska": {
+   "voice_id": "",
+   "note": "Lean, quick, restless; questions and teasing; jokes to avoid grief. Lighter and faster than the others."
+  },
+  "Wren": {
+   "voice_id": "",
+   "note": "Calder's daughter. A real child's voice: clear, direct, curious. Must sound nine."
+  },
+  "Ada": {
+   "voice_id": "",
+   "note": "Calder's mother. Knows the old songs; steady, dry, practical; can be sharp."
+  },
+  "Bel": {
+   "voice_id": "",
+   "note": "Calder's younger sister at Upper Rush. Quick, blunt; grief turns hard in her."
+  },
+  "Joss": {
+   "voice_id": "",
+   "note": "Bel's husband; breeds dray-beasts. Easy, practical."
+  },
+  "Hob": {
+   "voice_id": "",
+   "note": "Harrow's End miller. Prices are how he says hello; wheedling, shrewd."
+  },
+  "Fisk": {
+   "voice_id": "",
+   "note": "Old Fisk of the Eelweir; river man, sparing with words."
+  },
+  "Wat Garrow": {
+   "voice_id": "",
+   "note": "Harrow's End farmer; blunt, neighbourly."
+  },
+  "Hale": {
+   "voice_id": "",
+   "note": "Warden Osric Hale. Kind, tired, carrying a secret; a scholar's care with words."
+  },
+  "Pell": {
+   "voice_id": "",
+   "note": "Weapons instructor. Grey, laconic, dry. 'Subdue. Don't kill.'"
+  },
+  "Rowan": {
+   "voice_id": "",
+   "note": "Knight-Captain Ilse Rowan. Clipped, commanding, cold under pressure."
+  },
+  "Thorne": {
+   "voice_id": "",
+   "note": "Captain Marta Thorne of the Watch. Hard, plain-spoken."
+  },
+  "Haverly": {
+   "voice_id": "",
+   "note": "Lucan Haverly, the bonded rival. Gifted, certain, well-born; not cruel."
+  },
+  "Tobin": {
+   "voice_id": "",
+   "note": "Maren's friend. All elbows; loud about being unchosen; warm."
+  },
+  "Grieve": {
+   "voice_id": "",
+   "note": "Master of Stables. Gruff."
+  },
+  "Ottery": {
+   "voice_id": "",
+   "note": "Maren's old river-watch sergeant. Unhurried, gravelly, fond under it."
+  },
+  "Liss": {
+   "voice_id": "",
+   "note": "Maren's mother, the ferrywoman. Tells the river's stories; warm, weathered, knowing."
+  },
+  "Tam": {
+   "voice_id": "",
+   "note": "Maren's brother, a smith's apprentice. Eager, easily fired up."
+  },
+  "Teo": {
+   "voice_id": "",
+   "note": "Teo Varr, the younger son. Warm and well liked."
+  },
+  "Arn": {
+   "voice_id": "",
+   "note": "Arn Varr, the elder son. Proud, sharp, grieving."
+  },
+  "Ulric": {
+   "voice_id": "",
+   "note": "Ulric Varr, the uncle and warrior. Big, confident, dangerous."
+  },
+  "Hallam": {
+   "voice_id": "",
+   "note": "Hallam Brecc, oldest rider on the ledges. Slow, grave."
+  },
+  "Sigrun": {
+   "voice_id": "",
+   "note": "Sigrun Holm, Aurveth's rider. An old war-leader."
+  },
+  "Imra": {
+   "voice_id": "",
+   "note": "Imra Sallow, Lisska's rider. Quick and laughing."
+  },
+  "Rook": {
+   "voice_id": "",
+   "note": "A forgettable, pleasant voice that never rises; quietly menacing."
+  },
+  "Corvin": {
+   "voice_id": "",
+   "note": "Corvin Vale. Still, patient, never raises his voice. Same timbre as Cassian, colder."
+  },
+  "Cassian": {
+   "voice_id": "",
+   "note": "Cassian Vale, the public face. Same timbre as Corvin, warm and open: a speaker who wins crowds."
+  },
+  "the Captain": {
+   "voice_id": "",
+   "note": "Leader of the island hunters. Saltreach voice; curt."
+  },
+  "Coll Brask": {
+   "voice_id": "",
+   "note": "Wendmouth sellsword. Mercenary candour."
+  },
+  "Gannet": {
+   "voice_id": "",
+   "note": "Saltreach boatman and poacher; a smile that arrives first."
+  },
+  "Man 1": {
+   "voice_id": "",
+   "note": "Shared voice for minor men (one of three, assigned by name so each minor speaker keeps one voice)."
+  },
+  "Man 2": {
+   "voice_id": "",
+   "note": "Shared voice for minor men; contrast with Man 1 (age or weight)."
+  },
+  "Man 3": {
+   "voice_id": "",
+   "note": "Shared voice for minor men; an older or rougher contrast."
+  },
+  "Woman 1": {
+   "voice_id": "",
+   "note": "Shared voice for minor women."
+  },
+  "Woman 2": {
+   "voice_id": "",
+   "note": "Shared voice for minor women; contrast with Woman 1."
+  },
+  "Child": {
+   "voice_id": "",
+   "note": "Shared voice for minor children and boys (Davy, Pip, messenger boys). Different from Wren."
+  }
+ }
+}

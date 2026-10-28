@@ -1,0 +1,1259 @@
+{
+ "chapter": 9,
+ "title": "Pell's Lesson",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Nine.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Pell’s Lesson.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The yard at Greyhold has a wall on its east side that the students call the Lesson Wall, though nobody can tell you who started calling it that. It’s the oldest part of the fort: rough grey ragstone, blackened at the bottom by three hundred years of rain splash, with a stone bench along its foot. On the bench, every autumn, the instructors sit the year down and tell them the things they will need to know in order not to die. The students sit facing the wall, because the instructors stand with their backs to it, and so for the length of a lesson there is nothing in front of you but a man talking and a wall that has heard it all before.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "Pell’s lesson came on the morning after the new moon. It always did. He was, everyone agreed, the only instructor at Greyhold who timed his lessons by the moon, and nobody had ever had the nerve to ask him why.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "The Millbrook fair had come and gone, and Tam with it. He’d come home for three days to the ferry house with a knife for their mother that he’d made himself and was enormously proud of, and that Liss said was very fine and put in the drawer, and he’d told the story of the duskcat at the supper table four times. Each time the boatmen got bigger and there were more of them and Maren’s practice sword got more like a real one. By the second night there were ten boatmen and she’d cut the padlock in half. By the third night their mother had started laughing in the middle of it, helplessly, with her hand over her eyes, and Tam had looked hurt, and then laughed too.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "speech",
+   "text": "“Tell it right,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "narration",
+   "text": "Maren had said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "speech",
+   "text": "“I am telling it right. I’m telling it how it felt.”",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "speech",
+   "text": "“That’s not the same thing.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "speech",
+   "text": "“It is to me,”",
+   "speaker": "Tam"
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "narration",
+   "text": "said Tam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p8",
+   "type": "narration",
+   "text": "Then he’d gone back to Millbrook and Odo’s anvil, and she’d gone back up to Greyhold, and nothing had come of the boatmen’s promise. Nothing had come of anything. The roadblock at the shrine had gone. The knights rode the River Road every day now, in pairs, and saw nothing. The far bank was quiet, apart from the dragons that went up and down the river more than they used to, and the smoke that still went up from Varrhold, far off in the hills, day after day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p9",
+   "type": "narration",
+   "text": "And her report on the roadblock had come back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p10",
+   "type": "narration",
+   "text": "Pell had given it to her in the stable, two days before the new moon, without a word. It was her own paper, folded twice the way she’d folded it, but someone had unfolded it and read it, because at the bottom, under her last line, under"
+  },
+  {
+   "seq": 15,
+   "para": "p10",
+   "type": "written",
+   "text": "The thin man knew what I was"
+  },
+  {
+   "seq": 16,
+   "para": "p10",
+   "type": "narration",
+   "text": ", someone had written one word in a neat, slanting, educated hand she didn’t know.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p11",
+   "type": "written",
+   "text": "Noted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p12",
+   "type": "narration",
+   "text": "She’d looked at it for a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p13",
+   "type": "speech",
+   "text": "“From Knight-Captain Rowan,”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 20,
+   "para": "p13",
+   "type": "narration",
+   "text": "Pell had said."
+  },
+  {
+   "seq": 21,
+   "para": "p13",
+   "type": "speech",
+   "text": "“Through the proper channel.”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p14",
+   "type": "speech",
+   "text": "“That’s all?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p15",
+   "type": "speech",
+   "text": "“That’s all.”",
+   "speaker": "Pell",
+   "mood": "reflective"
+  },
+  {
+   "seq": 24,
+   "para": "p15",
+   "type": "narration",
+   "text": "He’d looked at the word too, upside down.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 25,
+   "para": "p15",
+   "type": "speech",
+   "text": "“You’ll find, Ashdown, that noted is the most dangerous word in the orders. It means someone has read it, and understood it, and decided not to do anything about it. And now there’s a record that they did.”",
+   "speaker": "Pell",
+   "mood": "reflective"
+  },
+  {
+   "seq": 26,
+   "para": "p15",
+   "type": "narration",
+   "text": "He’d taken the paper back from her and put it inside his coat.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 27,
+   "para": "p15",
+   "type": "speech",
+   "text": "“I’ll keep this.”",
+   "speaker": "Pell",
+   "mood": "reflective",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 28,
+   "para": "p16",
+   "type": "narration",
+   "text": "There were fourteen of them on the bench that morning, the second-years, with their beasts at their feet or on their shoulders or, in the case of the grey cat, asleep on the warm stones of the wall top, in the sun, where no one had put it. Haverly sat at the end with Kesh on his fist. The Darrow girl sat beside him with her hound’s head on her knee. Tobin sat at the other end, as far from the bonded as the bench allowed, with his arms folded and the look he’d had for a week now, as if he were chewing something he hadn’t decided whether to swallow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p17",
+   "type": "narration",
+   "text": "Maren sat in the middle. She always did. You could see both ends from the middle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p18",
+   "type": "narration",
+   "text": "Pell came out of the armoury with a spear in one hand and stood in front of the wall and looked at them for a while without saying anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p19",
+   "type": "narration",
+   "text": "He was not a big man. He was long-boned and grey and narrow, and he stood very straight, and his left hand, the one he held the spear in, had only three fingers on it: the thumb, the forefinger, the middle finger, and then two neat, healed stumps where the others had been. Every student at Greyhold had looked at that hand. Nobody had ever asked. There was a rumour that the last one who’d asked had been sent to muck out the stables until midwinter.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p20",
+   "type": "speech",
+   "text": "“Subdue,”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 33,
+   "para": "p20",
+   "type": "narration",
+   "text": "said Pell."
+  },
+  {
+   "seq": 34,
+   "para": "p20",
+   "type": "speech",
+   "text": "“Don’t kill.”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p21",
+   "type": "narration",
+   "text": "He let it sit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p22",
+   "type": "speech",
+   "text": "“You’ve heard it from me a hundred times since you came here. You’ll hear it a hundred times more. Every one of you can say it in your sleep. Some of you do; I’ve heard you through the barracks wall.”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 37,
+   "para": "p22",
+   "type": "narration",
+   "text": "Nobody laughed."
+  },
+  {
+   "seq": 38,
+   "para": "p22",
+   "type": "speech",
+   "text": "“It’s the first rule of the orders after the oath itself. It’s carved over the armoury door, in case you’ve ever wondered what that says. Subdue, don’t kill. Not men. Beasts. When a beast comes at you, any beast, wild or tame or bonded or caged, you put it down without killing it if there’s any way under the sky to do it. You take the wound. You take the risk. You take the long way round. And you do not kill it unless there is nothing else left in the world to do.”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p23",
+   "type": "speech",
+   "text": "“Why?”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 40,
+   "para": "p23",
+   "type": "narration",
+   "text": "said Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p24",
+   "type": "narration",
+   "text": "Everyone looked at him. He didn’t look away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p25",
+   "type": "speech",
+   "text": "“Why,”",
+   "speaker": "Tobin",
+   "mood": "anger"
+  },
+  {
+   "seq": 43,
+   "para": "p25",
+   "type": "narration",
+   "text": "he said again.",
+   "mood": "anger"
+  },
+  {
+   "seq": 44,
+   "para": "p25",
+   "type": "speech",
+   "text": "“Instructor. Respectfully. Beasts kill people every year. A beast took your fingers. If a beast comes at me, why shouldn’t I kill it? Why’s a beast’s life worth more than a man’s hand?”",
+   "speaker": "Tobin",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p26",
+   "type": "narration",
+   "text": "Maren thought Pell might send him to the stables. Pell didn’t. He looked at Tobin for a long moment with something that, on any other face, she’d have called approval.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p27",
+   "type": "speech",
+   "text": "“That’s the right question,”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 47,
+   "para": "p27",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 48,
+   "para": "p27",
+   "type": "speech",
+   "text": "“It’s the only question. I’ll answer it.”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p28",
+   "type": "narration",
+   "text": "He held up his left hand, and spread what was left of the fingers.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 50,
+   "para": "p29",
+   "type": "speech",
+   "text": "“Thirty-one years ago,”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 51,
+   "para": "p29",
+   "type": "narration",
+   "text": "said Pell,"
+  },
+  {
+   "seq": 52,
+   "para": "p29",
+   "type": "speech",
+   "text": "“I was a second-year at Ashford Keep, before they closed it, which some of you will remember from your histories, and some of you won’t, because you don’t read your histories. I was nineteen. I’d been at the Keep a year and a half. I was quick and I was good and I thought I was better than I was, which you’ll find is true of most quick, good people at nineteen.”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 53,
+   "para": "p29",
+   "type": "narration",
+   "text": "He didn’t look at Haverly. He didn’t need to."
+  },
+  {
+   "seq": 54,
+   "para": "p29",
+   "type": "speech",
+   "text": "“In the spring they sent a dozen of us down to Stillhaven, to ride the coast road with the knights there. There’d been trouble with a Saltreach company camped on the shore below the town. Sellswords. The kind that take a contract from anyone and do whatever it says.”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p30",
+   "type": "narration",
+   "text": "He lowered the hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p31",
+   "type": "speech",
+   "text": "“They had wyverns. Two of them. You’ve seen wyverns, some of you, from a distance, going over the coast. You know what they are. Two legs and two wings and a tail with a barb on it. Not dragons. Not clever. A hawk’s mind in a horse’s body. The Saltreach companies tame them with a hood and a hook and an empty belly, and they’re never really tame; they’re just frightened in the right direction. Most handlers lose a hand sooner or later. Some lose more.",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p32",
+   "type": "speech",
+   "text": "“One night one of the wyverns got loose. It came up off the shingle onto the coast road, where we were riding, in the dark. It took my horse first. I’d a licence for one battle-word, the one to make a horse stand, which the Keep still taught to anyone who’d pay the fee, and I said it, and my horse stood, and the wyvern took it standing. Then it took these.”",
+   "speaker": "Pell",
+   "mood": "dread"
+  },
+  {
+   "seq": 58,
+   "para": "p32",
+   "type": "narration",
+   "text": "He held up the hand again, briefly.",
+   "mood": "dread"
+  },
+  {
+   "seq": 59,
+   "para": "p32",
+   "type": "speech",
+   "text": "“I’d put my arm up, the way you’re taught not to. I was nineteen.”",
+   "speaker": "Pell",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 60,
+   "para": "p33",
+   "type": "narration",
+   "text": "The grey cat on the wall top opened one eye.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p34",
+   "type": "speech",
+   "text": "“My friend Aldo Venn was riding behind me. Aldo was the best of us. Better than me. Kinder than me. He’d have been first lance that year, if they’d had first lance at the Keep. He came up the road at the gallop with a boar-spear, and he put it into the wyvern’s chest while it was still on top of me, and it died.”",
+   "speaker": "Pell",
+   "mood": "grief"
+  },
+  {
+   "seq": 62,
+   "para": "p34",
+   "type": "narration",
+   "text": "Pell looked at the spear in his hand.",
+   "mood": "grief"
+  },
+  {
+   "seq": 63,
+   "para": "p34",
+   "type": "speech",
+   "text": "“I’d have died if he hadn’t. I want that clear. He saved my life. Every instructor in this school would have said he did right. I said so myself, at the time. I said it for a year.”",
+   "speaker": "Pell",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 64,
+   "para": "p35",
+   "type": "narration",
+   "text": "He was quiet for a moment.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p36",
+   "type": "speech",
+   "text": "“A hundred yards down the shore,”",
+   "speaker": "Pell",
+   "mood": "grief"
+  },
+  {
+   "seq": 66,
+   "para": "p36",
+   "type": "narration",
+   "text": "he said,",
+   "mood": "grief"
+  },
+  {
+   "seq": 67,
+   "para": "p36",
+   "type": "speech",
+   "text": "“there was a girl. Fifteen, sixteen. One of the company’s. A pirate’s girl, the kind they pick up in the ports. She’d been running up the shingle after the wyvern, calling it, trying to get it back before it hurt someone. And when Aldo’s spear went in, she dropped. Just dropped, in the dark, on the stones, a hundred yards away, as if somebody had cut her strings. We didn’t even know she was there until the company came up with torches and found her.”",
+   "speaker": "Pell",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 68,
+   "para": "p37",
+   "type": "narration",
+   "text": "Nobody on the bench moved. Down at the end, the Darrow girl’s hand had gone still on her hound’s head.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p38",
+   "type": "speech",
+   "text": "“It was bonded,”",
+   "speaker": "Pell",
+   "mood": "grief"
+  },
+  {
+   "seq": 70,
+   "para": "p38",
+   "type": "narration",
+   "text": "Pell said.",
+   "mood": "grief"
+  },
+  {
+   "seq": 71,
+   "para": "p38",
+   "type": "speech",
+   "text": "“That wyvern. It was the rare thing. The one in a thousand. The one the Saltreach men tell stories about in the taverns and nobody believes. A wild wyvern doesn’t bond. A tamed one doesn’t bond. But that one had. With that girl. And when you see a bonded wyvern, they say, you never forget it, because it isn’t frightened anymore. Ours had been frightened. It came up off the shingle screaming. We never saw it calm. We never had the chance to see it calm, because it got loose in the dark, and came up onto a road full of horses and torches, and was frightened, and a frightened beast does what frightened beasts do.”",
+   "speaker": "Pell",
+   "mood": "grief"
+  },
+  {
+   "seq": 72,
+   "para": "p38",
+   "type": "narration",
+   "text": "He stopped.",
+   "mood": "grief"
+  },
+  {
+   "seq": 73,
+   "para": "p38",
+   "type": "speech",
+   "text": "“And Aldo killed it, to save me. And the girl died, a hundred yards away, because one life between two is the oldest law there is, and it doesn’t care who’s right.”",
+   "speaker": "Pell",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 74,
+   "para": "p39",
+   "type": "narration",
+   "text": "The wall behind him stood in the sun. Somewhere in the stables a horse was kicking its door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p40",
+   "type": "speech",
+   "text": "“Aldo walked into the sea at Stillhaven a year later,”",
+   "speaker": "Pell",
+   "mood": "grief"
+  },
+  {
+   "seq": 76,
+   "para": "p40",
+   "type": "narration",
+   "text": "Pell said.",
+   "mood": "grief"
+  },
+  {
+   "seq": 77,
+   "para": "p40",
+   "type": "speech",
+   "text": "“In the spring. On the same date. They found his horse on the shore with his boots beside it.”",
+   "speaker": "Pell",
+   "mood": "grief"
+  },
+  {
+   "seq": 78,
+   "para": "p40",
+   "type": "narration",
+   "text": "He looked down the bench at them, one by one.",
+   "mood": "grief"
+  },
+  {
+   "seq": 79,
+   "para": "p40",
+   "type": "speech",
+   "text": "“He was right to do what he did. I’ve never once said he wasn’t. And he still couldn’t live with it. That’s the answer to your question, Tobin. That’s why the beast’s life isn’t worth more than a man’s hand, and is worth more than a man’s hand, both at once. Because you will never know, when you kill a beast, who else you’re killing. You won’t know. You can’t know. A bond doesn’t show from a hundred yards away in the dark. So you subdue. Every time. You take the wound. You take the risk. You take the long way round. Because if you don’t, you might be standing on a road one night with a spear in your hands and a girl dead behind you that you never saw, and you’ll be right, and you’ll walk into the sea.”",
+   "speaker": "Pell",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 80,
+   "para": "p41",
+   "type": "narration",
+   "text": "He stood the spear against the wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p42",
+   "type": "speech",
+   "text": "“That’s the lesson,”",
+   "speaker": "Pell",
+   "mood": "quiet"
+  },
+  {
+   "seq": 82,
+   "para": "p42",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 83,
+   "para": "p42",
+   "type": "speech",
+   "text": "“That’s the only one I’ve got. The rest is footwork.”",
+   "speaker": "Pell",
+   "mood": "quiet",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 84,
+   "para": "p43",
+   "type": "narration",
+   "text": "Nobody said anything at all for a long moment. Then the grey cat stood up on the wall top, stretched, yawned enormously, and jumped down onto the bench beside Maren and sat there washing its paw as if the morning had been arranged for its convenience, and somebody laughed, shakily, and the lesson was over.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p44",
+   "type": "narration",
+   "text": "Pell sent them to footwork.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 86,
+   "para": "p45",
+   "type": "narration",
+   "text": "Tobin found her afterwards, by the well, while the others were at the practice posts. He had the look again, the chewing look, and he had something in his hand, folded small.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Here,”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 88,
+   "para": "p46",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 89,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Look at this. Don’t tell anyone.”",
+   "speaker": "Tobin",
+   "how": "low, secretive",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p47",
+   "type": "narration",
+   "text": "It was a sheet of cheap paper, the kind printers in Stillhaven sold by the ream, folded in four. On the outside there was nothing. Inside, there was a woodcut: rough, black, but cleverly done. Six hands, each one different, reaching in from the six edges of the page, and joining in the middle in a ring, each one clasping the wrist of the next. Underneath, in heavy black letters, two words.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p48",
+   "type": "written",
+   "text": "ONE AGAIN.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p49",
+   "type": "narration",
+   "text": "That was all. No name. No place. No call to do anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p50",
+   "type": "speech",
+   "text": "“Where did you get it?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p51",
+   "type": "speech",
+   "text": "“Millbrook. Fair day.”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 95,
+   "para": "p51",
+   "type": "narration",
+   "text": "Tobin wasn’t looking at her."
+  },
+  {
+   "seq": 96,
+   "para": "p51",
+   "type": "speech",
+   "text": "“There was a man handing them out by the Kettle. Not handing them out, exactly. Leaving them. On the tables. You’d pick up your cup and there’d be one under it.”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p52",
+   "type": "speech",
+   "text": "“What man?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p53",
+   "type": "speech",
+   "text": "“Don’t know. Just a man. He was talking to some people, I listened, that’s all.”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p54",
+   "type": "speech",
+   "text": "“What was he saying?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p55",
+   "type": "narration",
+   "text": "Tobin looked across the yard at the practice posts, where the bonded students were working in pairs with their beasts at the edge of the sand, and the unbonded ones were working in pairs with no one, and Haverly was doing something quick and clever with his feet that made the Darrow girl laugh.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p56",
+   "type": "speech",
+   "text": "“He said,”",
+   "speaker": "Tobin",
+   "how": "all in a rush",
+   "mood": "urgent"
+  },
+  {
+   "seq": 102,
+   "para": "p56",
+   "type": "narration",
+   "text": "said Tobin, all in a rush,",
+   "mood": "urgent"
+  },
+  {
+   "seq": 103,
+   "para": "p56",
+   "type": "speech",
+   "text": "“that before the six kingdoms there was one. Everyone knows that. The old song. And that in the one, it didn’t matter who a beast chose and who it didn’t. That nobody was chosen and nobody was unchosen. That a man was a man and a knight was a knight and the beasts were free and nobody owned anybody.”",
+   "speaker": "Tobin",
+   "how": "all in a rush",
+   "mood": "urgent"
+  },
+  {
+   "seq": 104,
+   "para": "p56",
+   "type": "narration",
+   "text": "He looked at the pamphlet in her hand.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 105,
+   "para": "p56",
+   "type": "speech",
+   "text": "“And that the six kingdoms broke all that. That they made the beasts into things you buy and sell and the people into chosen and unchosen, and gave the chosen everything and the unchosen the turnip horse.”",
+   "speaker": "Tobin",
+   "mood": "urgent"
+  },
+  {
+   "seq": 106,
+   "para": "p56",
+   "type": "narration",
+   "text": "He glanced at her.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 107,
+   "para": "p56",
+   "type": "speech",
+   "text": "“He actually said that. The turnip horse. I swear he did. He said it as a joke, about knights’ schools, and everyone laughed, and I didn’t laugh, because it’s not a joke, is it? Not to us.”",
+   "speaker": "Tobin",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p57",
+   "type": "narration",
+   "text": "Maren folded the pamphlet back up along its creases.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p58",
+   "type": "speech",
+   "text": "“Tobin,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 110,
+   "para": "p58",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 111,
+   "para": "p58",
+   "type": "speech",
+   "text": "“The men at the roadblock. With the licence. The thin one. He said the same thing to me. About the horse.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p59",
+   "type": "speech",
+   "text": "“So?”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p60",
+   "type": "speech",
+   "text": "“So it’s not a coincidence.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p61",
+   "type": "speech",
+   "text": "“Maybe it’s not a coincidence because it’s true.”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 115,
+   "para": "p61",
+   "type": "narration",
+   "text": "He took the paper back out of her hand, quite gently."
+  },
+  {
+   "seq": 116,
+   "para": "p61",
+   "type": "speech",
+   "text": "“Maybe everyone who isn’t blind can see it. Maybe that’s why they all say it.”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 117,
+   "para": "p61",
+   "type": "narration",
+   "text": "He put it inside his shirt."
+  },
+  {
+   "seq": 118,
+   "para": "p61",
+   "type": "speech",
+   "text": "“I’m not doing anything, Maren. I’m just reading. I’m allowed to read.”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p62",
+   "type": "speech",
+   "text": "“I didn’t say you weren’t.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p63",
+   "type": "speech",
+   "text": "“Your face did.”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 121,
+   "para": "p63",
+   "type": "narration",
+   "text": "He tried to smile and nearly managed it."
+  },
+  {
+   "seq": 122,
+   "para": "p63",
+   "type": "speech",
+   "text": "“You’ve got your Pell face on. The noted face.”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p64",
+   "type": "narration",
+   "text": "She didn’t have an answer to that, so she didn’t give one, and after a while he went back to the practice posts, and she stood by the well and watched him go, and thought about six hands joined in a ring, and how much she had liked the picture, and how much she didn’t like that she’d liked it.",
+   "mood": "reflective",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 124,
+   "para": "p65",
+   "type": "narration",
+   "text": "In the afternoon there was footwork, and Pell paired her with Haverly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p66",
+   "type": "narration",
+   "text": "He hadn’t done that since the bout. She didn’t know if it meant anything. With Pell, it usually did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p67",
+   "type": "narration",
+   "text": "They worked at the posts in the long autumn light, with their practice swords, slowly at first and then less slowly, Pell walking up and down behind them saying"
+  },
+  {
+   "seq": 127,
+   "para": "p67",
+   "type": "speech",
+   "text": "feet, feet, your feet are lying to you, Haverly",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 128,
+   "para": "p67",
+   "type": "narration",
+   "text": ", and Kesh sitting on the fence rail watching with her flat gold eye. Haverly was good. He was better than he’d been at the bout. He’d been working; she could see it in the way he held his weight now, lower, more patient, and she thought: he’s been practising against what I did to him. He’s been practising against me.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p68",
+   "type": "narration",
+   "text": "She found she didn’t mind.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p69",
+   "type": "narration",
+   "text": "Halfway through, Kesh came off the rail.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p70",
+   "type": "narration",
+   "text": "It wasn’t an attack. It was the same thing as the bout: the falcon opening her wings, all at once, a flare of feathers at the edge of sight, at exactly the moment Maren set her weight. And Maren’s head started to turn, as eight winters on the river watch had taught it to, and she stopped it. She stopped it halfway. She felt the turn start in her neck and she said",
+   "mood": "action"
+  },
+  {
+   "seq": 132,
+   "para": "p70",
+   "type": "thought",
+   "text": "no",
+   "speaker": "Maren",
+   "mood": "action"
+  },
+  {
+   "seq": 133,
+   "para": "p70",
+   "type": "narration",
+   "text": ", inside, and held it, and kept her eyes on Haverly’s chest, and his blade came past her ribs and she was already inside it.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p71",
+   "type": "narration",
+   "text": "She didn’t put him on the sand. She stopped with her pommel a finger’s width from his breastbone and held it there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p72",
+   "type": "narration",
+   "text": "Haverly looked down at it. Then at her. Then over his shoulder at Kesh, who was settling back onto the rail with an air of injured innocence.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p73",
+   "type": "speech",
+   "text": "“I didn’t tell her to do that,”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 137,
+   "para": "p73",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p74",
+   "type": "speech",
+   "text": "“I know.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p75",
+   "type": "speech",
+   "text": "“I didn’t. I swear. She does it on her own. She thinks it’s funny.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p76",
+   "type": "speech",
+   "text": "“I know,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 141,
+   "para": "p76",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 142,
+   "para": "p76",
+   "type": "speech",
+   "text": "“It is funny. She’s very good at it.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p77",
+   "type": "narration",
+   "text": "He looked at her for a moment as if he wasn’t sure she wasn’t mocking him. Then he laughed: a real laugh, startled out of him, a little rueful.",
+   "mood": "humour"
+  },
+  {
+   "seq": 144,
+   "para": "p77",
+   "type": "speech",
+   "text": "“She is, isn’t she. She does it to the grooms, too. And the chaplain.”",
+   "speaker": "Haverly",
+   "mood": "humour"
+  },
+  {
+   "seq": 145,
+   "para": "p77",
+   "type": "narration",
+   "text": "He lowered his blade.",
+   "mood": "humour"
+  },
+  {
+   "seq": 146,
+   "para": "p77",
+   "type": "speech",
+   "text": "“You stopped your head.”",
+   "speaker": "Haverly",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p78",
+   "type": "speech",
+   "text": "“Halfway.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p79",
+   "type": "speech",
+   "text": "“Halfway’s enough. Halfway’s all it takes.”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 149,
+   "para": "p79",
+   "type": "narration",
+   "text": "He looked at her with that frank, open face that had never had to hide anything."
+  },
+  {
+   "seq": 150,
+   "para": "p79",
+   "type": "speech",
+   "text": "“I’ll have to find something else, then.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p80",
+   "type": "speech",
+   "text": "“You will.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p81",
+   "type": "speech",
+   "text": "“I’ll find it.”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 153,
+   "para": "p81",
+   "type": "narration",
+   "text": "He grinned."
+  },
+  {
+   "seq": 154,
+   "para": "p81",
+   "type": "speech",
+   "text": "“And you’ll stop that, too.”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p82",
+   "type": "narration",
+   "text": "Behind them, Pell said nothing at all, which from Pell was very high praise, and walked on down the line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p83",
+   "type": "narration",
+   "text": "Maren went back to her mark. She thought: he’s not my enemy. He never was. He’s just a person who’s been given everything, and knows it, and hasn’t worked out yet what to do about it. She thought: neither have I.",
+   "mood": "reflective",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 157,
+   "para": "p84",
+   "type": "narration",
+   "text": "That evening, on the river wall, it was Weir’s boy who brought the news from across the water, as he brought all the news, because his uncle ran the barges.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p85",
+   "type": "speech",
+   "text": "“They nearly went at each other,”",
+   "speaker": "Weir's boy",
+   "mood": "humour"
+  },
+  {
+   "seq": 159,
+   "para": "p85",
+   "type": "narration",
+   "text": "he told the little crowd of students at the north corner, with the pleasure of a boy who knows something nobody else does.",
+   "mood": "humour"
+  },
+  {
+   "seq": 160,
+   "para": "p85",
+   "type": "speech",
+   "text": "“At the ashes. Up at that black lake of theirs, Coldtarn. Last night, at the new moon. The whole Clan up there, and the dragons all round on the cliffs, hundreds of them, my uncle’s man said. And the brother and the son had a row at the water over who got to tip the old chief in, and the son put his hand on his sword, in front of everyone, and the brother’s men put their hands on theirs.”",
+   "speaker": "Weir's boy",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p86",
+   "type": "speech",
+   "text": "“And?”",
+   "speaker": "a student",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p87",
+   "type": "speech",
+   "text": "“And the young one, the other son, walked out and stood between them and made them do it together. Both hands on the pot.”",
+   "speaker": "Weir's boy"
+  },
+  {
+   "seq": 163,
+   "para": "p87",
+   "type": "narration",
+   "text": "Weir’s boy shook his head, admiring."
+  },
+  {
+   "seq": 164,
+   "para": "p87",
+   "type": "speech",
+   "text": "“Everyone says it was the bravest thing they ever saw. Walking out between them like that, with his hands empty. They’d have killed each other, my uncle’s man said, else. Right there on the shore.”",
+   "speaker": "Weir's boy",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Better their bones than ours,”",
+   "speaker": "a student"
+  },
+  {
+   "seq": 166,
+   "para": "p88",
+   "type": "narration",
+   "text": "said someone, the way someone always did, and a few of them laughed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p89",
+   "type": "narration",
+   "text": "Maren didn’t. She stood at the parapet and looked north up the river, past the dark lump of the Old Ruin on its island, toward the far hills where Varrhold was, though you couldn’t see it from here. You could only see, if you knew where to look, a faint smudge on the sky above the Scarfell where the smoke of the old chief’s fire had hung for eleven days. Tonight it was gone. They’d put him in the water.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p90",
+   "type": "narration",
+   "text": "A young man, walking out between two swords with his hands empty.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p91",
+   "type": "narration",
+   "text": "She thought of Pell’s story. She thought: subdue, don’t kill. Take the wound. Take the risk. Take the long way round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p92",
+   "type": "narration",
+   "text": "She thought: there’s someone over there who does that, too.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  }
+ ]
+}

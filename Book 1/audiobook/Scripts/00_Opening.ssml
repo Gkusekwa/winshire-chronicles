@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<speak version="1.0" xml:lang="en-GB">
-  <!-- AI CUE: TITLE: clear and composed; give the heading room. Do not perform as narrative prose. -->
-  <p>The Watch Below.</p>
-  <break time="450ms"/><!-- AI CUE: TITLE: clear and composed; give the heading room. Do not perform as narrative prose. -->
-  <p>The Winshire Chronicles, Book One.</p>
-  <break time="450ms"/><!-- AI CUE: TITLE: clear and composed; give the heading room. Do not perform as narrative prose. -->
-  <p>Written by Goodluck Kusekwa.</p>
-<break time="450ms"/></speak>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<p><s>The Watch Below.</s></p><break time="900ms"/>
+<p><s>The Winshire Chronicles, Book One.</s></p><break time="900ms"/>
+<p><s>Written by Goodluck Kusekwa.</s></p><break time="700ms"/>
+<p><s>Narrated by a digital voice.</s></p><break time="2000ms"/>
+</speak>

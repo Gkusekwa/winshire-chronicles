@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<!-- The Watch Below, Chapter 56: Wren and the Far-Seer. Point of view: Calder. -->
+<p><s>Chapter Fifty-six.</s></p><break time="800ms"/>
+<p><s>Wren and the Far-Seer.</s></p><break time="1800ms"/>
+<!-- p1 -->
+<p>The river woke them all.</p><break time="500ms"/>
+<!-- p2 -->
+<p>It was the hundred-and-nineteenth night. <sub alias="Cawlder">Calder</sub> had come down from the Scar after dark, the way he did, by the forest path, to sit an hour by <sub alias="Bell">Bel</sub>’s fire and see Wren into the loft. He was still there when it came. Ada was in her chair. <sub alias="Bell">Bel</sub> was at the table with Joss’s harness, mending it, which she did every night now though nobody would ever use it. The children were asleep.</p><break time="500ms"/>
+<!-- p3 -->
+<p>The cups on the dresser began to chime.</p><break time="500ms"/>
+<!-- p4 · dread -->
+<p><prosody rate="96%">Then the floor moved, and the sound came up the valley from the river, a league off, and filled the house. A long roaring tearing grinding rush, coming from the north, getting louder, coming down past them, going on.</prosody></p><break time="800ms"/>
+<!-- p5 · urgent -->
+<p><prosody rate="105%">Up in the loft, Nan screamed. Pip started crying. Wren’s face came over the edge of the loft, white, with her hair everywhere.</prosody></p><break time="500ms"/>
+<!-- p6 · quiet: calm, unmoved · Ada -->
+<p><prosody rate="95%">“It’s the river,” said Ada. She hadn’t moved from her chair. “It’s only the river going out. Lie down.”</prosody></p><break time="500ms"/>
+<!-- p7 -->
+<p>Wren didn’t lie down.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p8 · urgent: excited, frightened · Lisska (bond, to Calder), excited, frightened -->
+<p><prosody rate="105%"><prosody rate="94%" volume="-2dB">It’s all going,</prosody> said <sub alias="Liska">Lisska</sub>, from the crag. He felt her through the green mark, sitting up there in the dark above the house, high, with the wind in her face. Excited. Frightened. <prosody rate="94%" volume="-2dB">The whole river. All the ice. All at once. It’s breaking in pieces and the pieces are standing up on their ends and falling over. <sub alias="Cawlder">Calder</sub>. <sub alias="Cawlder">Calder</sub>, there’s one as big as the Wheel.</prosody></prosody></p><break time="500ms"/>
+<!-- p9 -->
+<p>He went out into the yard. He could hear it. He couldn’t see it; the river was below the line of the hill, a league off. But he could hear it, and feel it in the ground, the way he’d felt the roar.</p><break time="500ms"/>
+<!-- p10 -->
+<p>Wren came out after him in her nightgown, with her boots on the wrong feet and <sub alias="Bell">Bel</sub>’s shawl round her.</p><break time="500ms"/>
+<!-- p11 · Wren -->
+<p>“I want to see.”</p><break time="500ms"/>
+<!-- p12 · Calder -->
+<p>“You can’t see it from here.”</p><break time="500ms"/>
+<!-- p13 · tender: stubborn child · Wren -->
+<p><prosody rate="95%">“<sub alias="Liska">Lisska</sub> can.” She looked up at the crag, a black shape against the cloud, where she knew the dragon was. “<sub alias="Liska">Lisska</sub> can see it. I want her to tell me.”</prosody></p><break time="500ms"/>
+<!-- p14 -->
+<p>He looked at his daughter in the dark, in the cold, with her boots on the wrong feet.</p><break time="500ms"/>
+<!-- p15 · tender -->
+<p><prosody rate="95%">He went back into the house and got his coat and came out and wrapped her in it, over the shawl, and picked her up, and carried her up the crag path.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p16 · tender -->
+<p><prosody rate="95%">It was a short climb. <sub alias="Bell">Bel</sub>’s farm sat in the hollow under it, and the crag came up behind the top paddock, a knuckle of grey rock with a path up it the Hollins’ sheep had made. <sub alias="Liska">Lisska</sub> was lying on the top, along the ridge of the rock, with her head out over the edge, facing south and west toward the river. She lifted her head when they came up and put it down beside Wren, and Wren put her arms round as much of it as she could reach.</prosody></p><break time="500ms"/>
+<!-- p17 -->
+<p>They sat on the rock in the wind against <sub alias="Liska">Lisska</sub>’s warm green side, with the coat round them both, and <sub alias="Liska">Lisska</sub> told him what she saw.</p><break time="500ms"/>
+<!-- p18 -->
+<p>And Wren made him say it.</p><break time="500ms"/>
+<!-- p19 · tender · Wren -->
+<p><prosody rate="95%">All of it. Every word. <sub alias="Liska">Lisska</sub> would say it to him, inside, through the mark, and Wren would say, “What? What’s she saying?” and he’d say it aloud. Then Wren would say, “Say it again,” and he’d say it again. She’d ask a question, and he’d ask <sub alias="Liska">Lisska</sub>, and <sub alias="Liska">Lisska</sub> would answer, and he’d say that too.</prosody></p><break time="500ms"/>
+<!-- p20 · reflective -->
+<p><prosody rate="96%">He’d never done it before. Spoken for one of them. Out loud, to somebody else, their words in his mouth. It felt strange. Like reading somebody else’s letter to a room.</prosody></p><break time="500ms"/>
+<!-- p21 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">The ice is all gone past the <sub alias="Eel-weer">Eelweir</sub>,</prosody> said <sub alias="Liska">Lisska</sub>.</p><break time="500ms"/>
+<!-- p22 · Calder -->
+<p>“The ice is all gone past the <sub alias="Eel-weer">Eelweir</sub>,” he said.</p><break time="500ms"/>
+<!-- p23 · Wren -->
+<p>“Say it again.”</p><break time="500ms"/>
+<!-- p24 · Calder -->
+<p>“The ice is all gone past the <sub alias="Eel-weer">Eelweir</sub>.”</p><break time="500ms"/>
+<!-- p25 · Wren -->
+<p>“Is Fisk all right?”</p><break time="500ms"/>
+<!-- p26 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Fisk’s house is all right. It’s up on the bank. There’s a light in it. He’s standing in the door with a lantern looking at the river.</prosody></p><break time="500ms"/>
+<!-- p27 · Calder -->
+<p>“Fisk’s standing in his door with a lantern looking at the river.”</p><break time="500ms"/>
+<!-- p28 · Wren -->
+<p>“Is he cross?”</p><break time="500ms"/>
+<!-- p29 · humour · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">He’s always cross.</prosody></p><break time="500ms"/>
+<!-- p30 · humour · Calder -->
+<p>“She says he’s always cross.”</p><break time="500ms"/>
+<!-- p31 · tender -->
+<p><prosody rate="95%">Wren laughed. Into the coat. He felt it go through her.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p32 · tension · Lisska (bond, to Calder) -->
+<p><prosody rate="97%"><prosody rate="94%" volume="-2dB">There’s a man,</prosody> said <sub alias="Liska">Lisska</sub>, after a while. Her voice had changed. <prosody rate="94%" volume="-2dB">On the other side. On the reeds. By the island. He’s got a lantern and a long pole. He was on the ice and he’s run back onto the reeds just in time. He’s shouting.</prosody></prosody></p><break time="800ms"/>
+<!-- p33 -->
+<p>He said it aloud.</p><break time="500ms"/>
+<!-- p34 · Wren -->
+<p>“Who is he?” said Wren.</p><break time="500ms"/>
+<!-- p35 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">I don’t know. An old man. In a hat.</prosody></p><break time="500ms"/>
+<!-- p36 · Wren -->
+<p>“Is he all right?”</p><break time="500ms"/>
+<!-- p37 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">He’s all right. He’s on the reeds. He’s shouting at the island.</prosody> A pause. <prosody rate="94%" volume="-2dB">He’s shouting at somebody on the island.</prosody></p><break time="500ms"/>
+<!-- p38 -->
+<p><sub alias="Cawlder">Calder</sub> went still.</p><break time="500ms"/>
+<!-- p39 · tension · Lisska (bond, to Calder) -->
+<p><prosody rate="97%"><prosody rate="94%" volume="-2dB">There’s a light on the island,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">By the tower. In the arch. A lantern. Somebody’s sitting in the arch of the tower with a lantern.</prosody></prosody></p><break time="800ms"/>
+<!-- p40 -->
+<p>He didn’t say it aloud.</p><break time="500ms"/>
+<!-- p41 · Wren -->
+<p>“What?” said Wren. “What’s she saying? Papa, what?”</p><break time="500ms"/>
+<!-- p42 -->
+<p>He said it.</p><break time="500ms"/>
+<!-- p43 · quiet: very quietly · Lisska (bond, to Calder), very quietly -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-6dB">It’s her,</prosody> said <sub alias="Liska">Lisska</sub>. Very quietly now. <prosody rate="94%" volume="-6dB">I think it’s her. The one. The woman by the water, from the summer. I can’t see her face, it’s too dark and too far. But it’s her. I know the shape of her. She’s sitting in the arch in a cloak. On her own. The river’s gone out on both sides and she can’t get off.</prosody></prosody></p><break time="500ms"/>
+<!-- p44 -->
+<p>He said it. Wren had gone very still against him.</p><break time="500ms"/>
+<!-- p45 · awe: hushed child · Wren -->
+<p><prosody rate="95%">“The lion-woman,” she said.</prosody></p><break time="800ms"/>
+<!-- p46 · Calder -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p47 · Wren -->
+<p>“She’s stuck.”</p><break time="500ms"/>
+<!-- p48 · Calder -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p49 · Wren -->
+<p>“Is the lion there?”</p><break time="500ms"/>
+<!-- p50 -->
+<p>He asked. <sub alias="Liska">Lisska</sub> was quiet.</p><break time="500ms"/>
+<!-- p51 · quiet · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">Yes,</prosody> she said.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p52 -->
+<p>They sat on the crag for hours.</p><break time="500ms"/>
+<!-- p53 · tender -->
+<p><prosody rate="95%">He should have taken her down. He knew it. It was cold, and late, and <sub alias="Bell">Bel</sub> would be at the door. He didn’t. He sat on the rock with his daughter in his coat and his back against <sub alias="Liska">Lisska</sub>’s side and said everything <sub alias="Liska">Lisska</sub> saw, out loud, into the wind, while the river went out a league below them in the dark.</prosody></p><break time="500ms"/>
+<!-- p54 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">It’s come out of the trees. The lion. It’s very big. Bigger than the camp’s hounds all together. It’s grey. It’s standing in front of the tower in the rain, looking at her.</prosody></p><break time="500ms"/>
+<!-- p55 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">It’s lain down a little way from her. In the mud. With its head on its paws.</prosody></p><break time="500ms"/>
+<!-- p56 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">She’s not moving.</prosody></p><break time="500ms"/>
+<!-- p57 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">It’s not moving.</prosody></p><break time="500ms"/>
+<!-- p58 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">She’s asleep, I think. Her head’s gone down.</prosody></p><break time="500ms"/>
+<!-- p59 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">It’s closer. It’s moved closer. I didn’t see it move. It’s five paces off now. Lying across the front of the arch.</prosody></p><break time="500ms"/>
+<!-- p60 · Lisska (bond, to Calder), sharp -->
+<p>Then, sharp: <prosody rate="94%" volume="-2dB"><sub alias="Cawlder">Calder</sub>. There’s two.</prosody></p><break time="500ms"/>
+<!-- p61 · Calder (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">Two what?</prosody></p><break time="500ms"/>
+<!-- p62 · awe · Lisska (bond, to Calder); Lisska (bond, to Calder), small -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">Two of it. Two lions. One lying across the arch, and one standing up behind it by the tower wall, the same size, the same grey. I saw it.</prosody> A pause, and her voice went small. <prosody rate="94%" volume="-2dB">Now there’s one.</prosody></prosody></p><break time="800ms"/>
+<!-- p63 · reflective -->
+<p><prosody rate="96%">He looked out at the dark where the river was. Two leagues and more, at night, in the rain. She’d said herself she couldn’t see faces from here. Only shapes. A shape could be a stone. It could be the shadow of an oak when a cloud came off the moon.</prosody></p><break time="500ms"/>
+<!-- p64 · Wren -->
+<p>“What?” said Wren. “Papa. What?”</p><break time="500ms"/>
+<!-- p65 -->
+<p>He told her.</p><break time="500ms"/>
+<!-- p66 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">I saw it,</prosody> said <sub alias="Liska">Lisska</sub>. Then, less sure: <prosody rate="94%" volume="-2dB">I think I saw it.</prosody></p><break time="500ms"/>
+<!-- p67 · humour: Wren unbothered · Wren -->
+<p>Wren didn’t think about it at all. She settled back into the coat as if he’d told her the lion had a tail. “Two,” she said. “Say it again.”</p><break time="500ms"/>
+<!-- p68 · Lisska (remembered) -->
+<p>He said all of it. Wren made him say each one twice. Then she made him say them all again, from the beginning, in order, the way she made him tell stories, and he did. <prosody volume="-3dB">It’s come out of the trees. It’s lain down. She’s asleep. It’s closer. There were two.</prosody></p><break time="500ms"/>
+<!-- p69 · Wren -->
+<p>“Why?” said Wren. “Why’s it closer?”</p><break time="500ms"/>
+<!-- p70 · Calder -->
+<p>“I don’t know.”</p><break time="500ms"/>
+<!-- p71 · Wren -->
+<p>“Ask <sub alias="Liska">Lisska</sub>.”</p><break time="500ms"/>
+<!-- p72 -->
+<p>He asked.</p><break time="500ms"/>
+<!-- p73 · tender · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">I don’t know either,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">I think it’s cold. I think she’s cold, and it’s cold, and it’s raining.</prosody> She was quiet. <prosody rate="94%" volume="-2dB">I think it’s keeping her company.</prosody></prosody></p><break time="500ms"/>
+<!-- p74 -->
+<p>He said it. Wren was quiet a while.</p><break time="500ms"/>
+<!-- p75 · tender · Wren -->
+<p><prosody rate="95%">“Like Old Grey,” she said. “At the gate. With me.”</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p76 · urgent · Lisska (bond, to Calder) -->
+<p><prosody rate="105%">Near midnight <sub alias="Liska">Lisska</sub> said: <prosody rate="94%" volume="-2dB"><sub alias="Cawlder">Calder</sub>. Behind you.</prosody></prosody></p><break time="500ms"/>
+<!-- p77 -->
+<p>He turned his head.</p><break time="500ms"/>
+<!-- p78 -->
+<p>Not at the river. East. Up the hill behind the crag, where the forest came down to the top of the Hollins’ fields. The path he came down every night from the Scar. The forest path, through the oaks, a long dark line through the trees, coming out at the top of <sub alias="Bell">Bel</sub>’s paddock.</p><break time="500ms"/>
+<!-- p79 · urgent · Lisska (bond, to Calder), thin and quick -->
+<p><prosody rate="105%"><prosody rate="94%" volume="-2dB">Four men,</prosody> said <sub alias="Liska">Lisska</sub>. Her voice had gone thin and quick. <prosody rate="94%" volume="-2dB">On your path. Coming down it. Slow. Quiet. They’ve got a lantern with a hood on it. They’re coming the way you come.</prosody></prosody></p><break time="500ms"/>
+<!-- p80 · urgent -->
+<p><prosody rate="105%">He was on his feet with Wren in his arms.</prosody></p><break time="500ms"/>
+<!-- p81 · Calder (bond, to Kharrak) -->
+<p><prosody rate="94%" volume="-2dB"><sub alias="Karrak">Kharrak</sub>,</prosody> he said.</p><break time="500ms"/>
+<!-- p82 -->
+<p>He didn’t have to say anything else. He felt the red tide come up, two leagues off, on the Scar, and the great wings open.</p><break time="500ms"/>
+<!-- p83 · Wren -->
+<p>“Papa?” said Wren.</p><break time="500ms"/>
+<!-- p84 · Calder -->
+<p>“It’s all right.”</p><break time="500ms"/>
+<!-- p85 · Wren -->
+<p>“What is it?”</p><break time="500ms"/>
+<!-- p86 · tension: calm voice to Wren, urgent inside · Calder; Calder (bond, to Kharrak) -->
+<p><prosody rate="97%">“Nothing. <sub alias="Liska">Lisska</sub> saw a fox.” He held her very tight. <prosody rate="94%" volume="-2dB">Don’t burn,</prosody> he said to <sub alias="Karrak">Kharrak</sub>. <prosody rate="94%" volume="-2dB">Don’t burn. Not by the house. Just frighten them. Just make them run.</prosody></prosody></p><break time="800ms"/>
+<!-- p87 · anger · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">They’re on your path,</prosody> said <sub alias="Karrak">Kharrak</sub>. <prosody rate="94%" volume="-2dB">They’re on your path to your girl.</prosody></p><break time="500ms"/>
+<!-- p88 · Calder (bond, to Kharrak) -->
+<p><prosody rate="94%" volume="-2dB">I know. Make them run.</prosody></p><break time="500ms"/>
+<!-- p89 · action -->
+<p><prosody rate="104%">He stood on the crag in the dark and held his daughter and felt <sub alias="Karrak">Kharrak</sub> come over the Scar and down the forest, low, fast, over the treetops, not burning. Just the sound of him. The wings. <sub alias="Liska">Lisska</sub> told him the rest as it happened: four men on the forest path stopping dead, looking up, dropping the lantern, running. Back up the path. Into the trees. Scattering.</prosody></p><break time="500ms"/>
+<!-- p90 · tension · Lisska (bond, to Calder) -->
+<p><prosody rate="97%"><prosody rate="94%" volume="-2dB">They’ve gone,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">They’ve gone. They’re running. One fell over.</prosody> A small pause. <prosody rate="94%" volume="-2dB">He’s dropped something. A rope. A coil of rope. And a bag.</prosody></prosody></p><break time="800ms"/>
+<!-- p91 · Calder (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">What kind of bag?</prosody></p><break time="500ms"/>
+<!-- p92 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">A big one. A sack. Like for grain.</prosody></p><break time="500ms"/>
+<!-- p93 -->
+<p>He stood on the crag with Wren in his arms, warm, heavy, half asleep, with her face against his neck.</p><break time="500ms"/>
+<!-- p94 · dread · Calder (thought) -->
+<p><prosody rate="96%"><prosody rate="97%" volume="-4dB">A sack,</prosody> he thought. <prosody rate="97%" volume="-4dB">Like for grain.</prosody></prosody></p><break time="800ms"/>
+<!-- p95 · dread -->
+<p><prosody rate="96%">He knew what it was for. Not him. You don’t bring a grain sack for a grown man. You bring it for something you can carry.</prosody></p><break time="800ms"/>
+<!-- p96 · dread · Coll Brask (remembered); the coin man (remembered) -->
+<p><prosody rate="96%"><prosody volume="-3dB">Two hundred. Alive.</prosody> A coin man at a farm gate. <prosody volume="-3dB">What does the girl like?</prosody></prosody></p><break time="800ms"/>
+<!-- p97 -->
+<p>He sat down on the rock again. He didn’t trust his legs.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p98 · tender -->
+<p><prosody rate="95%">He didn’t take her down. He couldn’t. He sat with her on the crag in his coat with <sub alias="Liska">Lisska</sub>’s head beside them, and Wren fell asleep against him toward morning, with her face in his neck and her fist in his shirt, and he didn’t stir. He sat there with his daughter asleep in his arms and looked east at the forest path, at the dark line of it through the oaks, and the place at the top of the paddock where it came out. The place where he came out. Every night, for a fortnight.</prosody></p><break time="500ms"/>
+<!-- p99 · dread -->
+<p><prosody rate="96%">They’d watched him. They’d sat in the trees and watched him come down that path every night after dark to sit by his sister’s fire and see his girl to bed. And they’d thought: that’s the way. That’s the way in. He’ll lead us. Not to him: to her.</prosody></p><break time="800ms"/>
+<!-- p100 -->
+<p>He’d led them.</p><break time="500ms"/>
+<!-- p101 · reflective -->
+<p><prosody rate="96%">He’d moved out of <sub alias="Bell">Bel</sub>’s house so they’d come to the Scar instead. He’d thought that was enough. He’d thought, if I’m on the Scar, she’s safe. But he’d come down every night to see her, because he couldn’t not, and made a path through the forest to her door with his own feet, a path anybody could follow, with his own lantern at the end of it.</prosody></p><break time="500ms"/>
+<!-- p102 -->
+<p>She’d be safer anywhere he wasn’t.</p><break time="500ms"/>
+<!-- p103 · reflective -->
+<p><prosody rate="96%">He sat with her on the crag in the cold and knew it all the way through, for the first time. A league wasn’t enough, or the Scar. A river’s width. More. Wherever he was, the men with the sacks would come. So she had to be somewhere he couldn’t be.</prosody></p><break time="500ms"/>
+<!-- p104 · quiet: a decision -->
+<p><prosody rate="95%">Over the water.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p105 · awe: very softly · Lisska (bond, to Calder), very softly -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-6dB"><sub alias="Cawlder">Calder</sub>,</prosody> said <sub alias="Liska">Lisska</sub>, at dawn. Very softly. <prosody rate="94%" volume="-6dB"><sub alias="Cawlder">Calder</sub>, look. Look.</prosody></prosody></p><break time="800ms"/>
+<!-- p106 -->
+<p>He’d been half asleep himself. He opened his eyes. The light was coming grey over the <sub alias="Salt-reach">Saltreach</sub> hills behind them, and the rain had stopped, and the river below was a long brown flood with the ice going down it in broken pieces.</p><break time="500ms"/>
+<!-- p107 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">She’s put her hand on it.</prosody></p><break time="500ms"/>
+<!-- p108 -->
+<p>He was awake.</p><break time="500ms"/>
+<!-- p109 · awe: small and full · Lisska (bond, to Calder), very small and very full -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">The woman. On the island. In the arch.</prosody> <sub alias="Liska">Lisska</sub>’s voice was very small and very full. <prosody rate="94%" volume="-2dB">She’s put her hand on it. On the lion. On its mane. Up on its neck, at the shoulder. She put her hand out and it let her. It’s letting her. It’s lying there with its head on the step and her hand in its mane, and it’s letting her.</prosody></prosody></p><break time="800ms"/>
+<!-- p110 -->
+<p>He sat very still with Wren asleep against him.</p><break time="500ms"/>
+<!-- p111 · awe · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">I’ve never seen anything let anybody,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">Not like that. Not something that big.</prosody> A pause. <prosody rate="94%" volume="-2dB">Is that how it was? With us? In the field? When you put your hands on us?</prosody></prosody></p><break time="800ms"/>
+<!-- p112 -->
+<p>He didn’t answer. He didn’t know.</p><break time="500ms"/>
+<!-- p113 · tender · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">She’s crying,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">I think. Her face is wet. But it’s been raining. I don’t know.</prosody></prosody></p><break time="500ms"/>
+<!-- p114 -->
+<p>He looked out across the river, two leagues and more, at the island, small and dark between the floes. He couldn’t see anything but the bare oaks, and the brown water.</p><break time="500ms"/>
+<!-- p115 · Calder (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">Tell me,</prosody> he said. <prosody rate="94%" volume="-2dB">Everything. I’ll tell her when she wakes.</prosody></p><break time="500ms"/>
+<!-- p116 -->
+<p><sub alias="Liska">Lisska</sub> told him.</p><break time="500ms"/>
+<!-- p117 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">She’s taken her hand away. She’s gone off into the trees. She’s coming back. She’s got something. Iron. In her hands. A hammer, I think, and something else.</prosody></p><break time="500ms"/>
+<!-- p118 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">She’s kneeling down. In front of it. In the mud. She’s put the iron on the ground. She’s put her hands on her knees.</prosody></p><break time="500ms"/>
+<!-- p119 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">It’s getting up.</prosody></p><break time="500ms"/>
+<!-- p120 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">It’s standing over her.</prosody></p><break time="500ms"/>
+<!-- p121 -->
+<p>He held Wren, and listened.</p><break time="500ms"/>
+<!-- p122 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">It’s put its head down. All the way down. On the ground. Beside her. Like a horse when you go to halter it. Its neck. She’s picked up the iron.</prosody></p><break time="500ms"/>
+<!-- p123 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">She’s hitting it. The collar. The iron one, round its neck. She’s…</prosody></p><break time="500ms"/>
+<!-- p124 · tension · Lisska (bond, to Calder) -->
+<p><prosody rate="97%">He couldn’t hear it. <sub alias="Liska">Lisska</sub> could, across two leagues of river in the still morning air after the rain, and she gave it to him the way Wren would have wanted it. <prosody rate="94%" volume="-2dB">Iron on iron. Tink.</prosody> A breath. <prosody rate="94%" volume="-2dB">Tink.</prosody> <prosody rate="94%" volume="-2dB">And again. Harder.</prosody></prosody></p><break time="800ms"/>
+<!-- p125 · awe: joyful · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">It’s off,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">It’s off. The collar’s off. It’s fallen off. In two halves.</prosody></prosody></p><break time="800ms"/>
+<!-- p126 · awe · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">It’s standing up. It’s shaking. Like a dog. <sub alias="Cawlder">Calder</sub>, the ground’s shaking, I can see the trees on the island shaking from here…</prosody></prosody></p><break time="800ms"/>
+<!-- p127 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">It’s gone down to the water. It’s drinking.</prosody></p><break time="500ms"/>
+<!-- p128 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">She’s sitting in the mud. She’s holding the collar.</prosody></p><break time="500ms"/>
+<!-- p129 -->
+<p><sub alias="Liska">Lisska</sub> stopped. He felt her lying on the crag beside him with her head out over the edge, looking across the river at the island in the dawn, not saying anything, her whole long green body very still.</p><break time="500ms"/>
+<!-- p130 · quiet · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB"><sub alias="Cawlder">Calder</sub>,</prosody> she said at last. <prosody rate="94%" volume="-2dB">Somebody should tell her.</prosody></prosody></p><break time="500ms"/>
+<!-- p131 -->
+<p>It was a while before he answered.</p><break time="500ms"/>
+<!-- p132 · Calder -->
+<p>“Yes,” he said.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p133 -->
+<p>He told Wren at breakfast.</p><break time="500ms"/>
+<!-- p134 · urgent: excited child · Wren -->
+<p><prosody rate="105%">He came down off the crag with her asleep in his arms and put her in <sub alias="Bell">Bel</sub>’s bed, and she slept till nearly noon, and when she woke she came down the ladder at a run and said, “What happened? What happened? Did the lion-woman get off?” before her feet were on the floor.</prosody></p><break time="500ms"/>
+<!-- p135 -->
+<p>So he told her. At <sub alias="Bell">Bel</sub>’s table, with porridge going cold in front of her, and Ada in her chair, and <sub alias="Bell">Bel</sub> at the window. All of it. The hand on the mane. The iron. The lion putting its head down. The collar. Every word <sub alias="Liska">Lisska</sub> had said.</p><break time="500ms"/>
+<!-- p136 -->
+<p>Wren made him say it twice.</p><break time="500ms"/>
+<!-- p137 · tender -->
+<p><prosody rate="95%">She sat with her spoon in her hand and didn’t eat, and her face was the way it had been on the ladder the night of the verse. The most beautiful one.</prosody></p><break time="500ms"/>
+<!-- p138 · Wren -->
+<p>“She took its collar off,” she said.</p><break time="500ms"/>
+<!-- p139 · Calder -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p140 · Wren -->
+<p>“And it let her.”</p><break time="500ms"/>
+<!-- p141 · Calder -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p142 -->
+<p>Wren put her spoon down.</p><break time="500ms"/>
+<!-- p143 · tender · Wren -->
+<p><prosody rate="95%">“I want to meet her,” she said.</prosody></p><break time="500ms"/>
+<!-- p144 · humour -->
+<p>Ada laughed, a short soft sound, by the fire. <sub alias="Bell">Bel</sub> didn’t. <sub alias="Bell">Bel</sub> was looking out of the window at the paddock, where Old Grey stood with his head low by the gate.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p145 -->
+<p>He told Ada that afternoon, in the byre, where Wren couldn’t hear.</p><break time="500ms"/>
+<!-- p146 · quiet -->
+<p><prosody rate="95%">She was at the milk, saying the keeping-word over the pail the way she had every evening of his life. Three words in the old tongue, that her own mother had said, that kept milk sweet a day longer in harvest and did nothing anybody could tell in a cold spring. She finished it before she looked up. She always did.</prosody></p><break time="500ms"/>
+<!-- p147 -->
+<p>He told her about the four men on the forest path. The rope. The sack. Ada listened with her hands folded and her face not moving.</p><break time="500ms"/>
+<!-- p148 · tension · Calder -->
+<p><prosody rate="97%">“When the ferry runs,” he said. “When the river’s clear enough for Liss Ashdown to bring it over. Wren goes. Over the water. To the <sub alias="Harthmeer">Hearthmere</sub> side.” He made himself say the next part. “And you go with her.”</prosody></p><break time="800ms"/>
+<!-- p149 -->
+<p>Ada looked at him.</p><break time="500ms"/>
+<!-- p150 · Ada -->
+<p>“Yes,” she said.</p><break time="500ms"/>
+<!-- p151 · quiet -->
+<p><prosody rate="95%">He’d thought she’d argue. He’d had it ready, everything he’d say. She didn’t argue. She stood in the byre with her shawl round her and looked at him, and he saw she’d been ready for this a long time too.</prosody></p><break time="500ms"/>
+<!-- p152 · Calder -->
+<p>“And <sub alias="Bell">Bel</sub>,” he said.</p><break time="500ms"/>
+<!-- p153 · Ada -->
+<p>“<sub alias="Bell">Bel</sub> won’t go,” said Ada. “Not with Joss on the hill. Not with the greys.” She looked through the byre door at the paddock. “You ask her. She’ll not say yes. She’ll not say no either. Give her time.”</p><break time="500ms"/>
+<!-- p154 · Calder -->
+<p>“There isn’t time.”</p><break time="500ms"/>
+<!-- p155 · tender: wry · Ada -->
+<p><prosody rate="95%">“No,” said Ada. “There never is. Give her it anyway.”</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p156 -->
+<p>On the hundred-and-twenty-first day Old Grey turned his head.</p><break time="500ms"/>
+<!-- p157 · tender: joyful child -->
+<p><prosody rate="95%">Wren told everyone. She came running up the lane from the paddock with her face lit up, shouting it, before anybody had asked. She’d been at the gate, on the bottom bar, talking to him the way she did, about nothing, about the river and <sub alias="Liska">Lisska</sub> and the lion-woman and the collar. And in the middle of it, when she said his name, he’d turned his head.</prosody></p><break time="500ms"/>
+<!-- p158 · tender · Wren (remembered) -->
+<p><prosody rate="95%">A little. Toward her voice. His great grey head, that hadn’t turned toward anything since the night of the Ewe Beck, turning a hand’s breadth on its neck toward the sound of her saying <prosody volume="-3dB">Old Grey</prosody>, and stopping.</prosody></p><break time="500ms"/>
+<!-- p159 -->
+<p>His eyes were still empty. <sub alias="Cawlder">Calder</sub> went down and looked. There was still nobody in them.</p><break time="500ms"/>
+<!-- p160 -->
+<p>But he’d turned his head.</p><break time="500ms"/>
+<!-- p161 · tender -->
+<p><prosody rate="95%"><sub alias="Bell">Bel</sub> came down too. She stood at the gate beside Wren and looked at the grey. Then she put her hand on Wren’s head, on her hair, and left it there.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p162 -->
+<p>On the hundred-and-twenty-second day he went up to the Scar, and didn’t come down.</p><break time="500ms"/>
+<!-- p163 -->
+<p>He said goodbye to her at the paddock gate at dusk. He didn’t say it was goodbye. He said he’d be on the Scar, and that she’d see <sub alias="Liska">Lisska</sub> on the crag every night, and that <sub alias="Liska">Lisska</sub> would tell him everything and he’d tell <sub alias="Liska">Lisska</sub> everything back.</p><break time="500ms"/>
+<!-- p164 · Wren -->
+<p>“Every night?” said Wren.</p><break time="500ms"/>
+<!-- p165 · Calder -->
+<p>“Every night.”</p><break time="500ms"/>
+<!-- p166 · Wren -->
+<p>“And you’ll tell me about the lion-woman?”</p><break time="500ms"/>
+<!-- p167 · Calder (bond, to Lisska) -->
+<p>He looked up at the crag. <prosody rate="94%" volume="-2dB">Will you watch her?</prosody></p><break time="500ms"/>
+<!-- p168 · humour: teasing · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Yes,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">Every night. Everything I see.</prosody> A pause. <prosody rate="94%" volume="-2dB">She’ll make you say it twice.</prosody></p><break time="500ms"/>
+<!-- p169 · Calder -->
+<p>“Yes,” he said to Wren. “When I come down. Everything. Twice.”</p><break time="500ms"/>
+<!-- p170 · grief: holding it in -->
+<p><prosody rate="94%">Wren nodded. She was standing on the bottom bar of the gate with Old Grey’s head over it beside her. She didn’t cry. She hadn’t cried at Joss’s burying either, <sub alias="Bell">Bel</sub> said. She’d stood on the hill with her mouth shut tight, the way she was standing now.</prosody></p><break time="800ms"/>
+<!-- p171 · Wren -->
+<p>“Papa,” she said.</p><break time="500ms"/>
+<!-- p172 · Calder -->
+<p>“Yes?”</p><break time="500ms"/>
+<!-- p173 · tender · Wren -->
+<p><prosody rate="95%">“When you tell her. The lion-woman. That somebody wants her too.” She looked at him. “Tell her I said hello.”</prosody></p><break time="500ms"/>
+<!-- p174 -->
+<p>He went up into the forest in the dark by a new way, round the far side of the Hollins’ wood, through the snow, a way nobody had walked. He’d find a new one every time, if he came down at all. He didn’t think he would.</p><break time="500ms"/>
+<!-- p175 -->
+<p>On the crag above the farm, behind him, he felt <sub alias="Liska">Lisska</sub> settle on the rock with her head out over the edge, facing south and west across the river, toward the island.</p><break time="500ms"/>
+<!-- p176 · tender -->
+<p><prosody rate="95%">And below her, in the dark of the hollow, a small square of candlelight in <sub alias="Bell">Bel</sub>’s house, and a face in it, looking up at her.</prosody></p>
+<break time="1800ms"/>
+</speak>

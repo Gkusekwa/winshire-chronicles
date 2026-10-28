@@ -1,0 +1,1157 @@
+{
+ "chapter": 17,
+ "title": "Night on the Island",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Seventeen.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Night on the Island.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The boats came on her sixth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "She saw them from the tower in the morning, when she went up the broken stair as far as it went and stood on the last step with her shoulder against the wall and looked out through a gap where the stones had fallen. Two patrol boats, long and grey, coming out from the Redwatch boathouse under oars and round the foot of the island. She knew them. She’d rowed in them. She knew which one had the cracked thwart and which one leaked at the stern, and she knew, though she couldn’t see faces at that distance, roughly who’d be at the oars on a morning watch in harvest month.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "They came past the middle of the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "The river doesn’t take sides, Ottery used to say. That’s why it’s a border. Everything else does.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "She watched them do it and felt her stomach drop, like a missed step in the dark. They came on, past the line nobody crossed, straight across the current toward the island, until they were in under the east shore, so close she could hear the oars knock in the rowlocks. Then they turned, and began to row north along the shore.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "Looking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "She went down the stair and out of the tower and into the trees on the east side and lay in the bracken on the bluff above the water and watched them go by below her. She could see the men now. Old Brannoch at the stroke oar in the first boat, with his bald head shining. Ottery’s sister’s boy. A girl from her own year at the school, Fenna, in the bow with a boathook. They were looking at the shore. Every one of them, looking at the shore, the gravel and the trees and the tumbled stones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "thought",
+   "text": "They’ve come for me,",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 11,
+   "para": "p8",
+   "type": "narration",
+   "text": "she thought.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p9",
+   "type": "narration",
+   "text": "Of course they had. Rowan had given her till the new moon; but Rowan had only said that something would break across the river, not that it would break like this. That there’d be horns all night and smoke on the hills. Somebody at Greyhold had decided the island wasn’t a trial any more but a danger, and sent the boats to bring the student back before anything happened to her that would have to be written down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p10",
+   "type": "narration",
+   "text": "All she had to do was stand up. Walk down to the gravel. Wave.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p11",
+   "type": "narration",
+   "text": "And go home with what? A cut link of chain, and a drawing in a notebook, and a number."
+  },
+  {
+   "seq": 15,
+   "para": "p11",
+   "type": "thought",
+   "text": "Eleven to the quarter hour.",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 16,
+   "para": "p11",
+   "type": "narration",
+   "text": "Haverly would be home by now, if he’d done what he said he’d do. He’d have counted the Clan’s war-strength from a hilltop and come back with a list."
+  },
+  {
+   "seq": 17,
+   "para": "p11",
+   "type": "thought",
+   "text": "So many spears. So many dragons. Two factions.",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 18,
+   "para": "p11",
+   "type": "narration",
+   "text": "He’d have it written fair, in that neat hand, ready for Rowan’s desk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p12",
+   "type": "narration",
+   "text": "She lay in the bracken and didn’t move, and the boats went by below her, and Fenna in the bow looked straight up at the bluff, straight at her, and didn’t see her, and looked away.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 20,
+   "para": "p13",
+   "type": "narration",
+   "text": "They went round the north end, and came back down the west side, and went back across to Redwatch in the afternoon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p14",
+   "type": "narration",
+   "text": "They came back the next day. She hid again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p15",
+   "type": "narration",
+   "text": "She told herself it was because the trial wasn’t finished. That was true. She told herself it was because she’d been set a task by the Knight-Captain of Greyhold and she’d finish it or fail it on her own, not be fetched home like a child who’d stayed out after dark. That was true too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p16",
+   "type": "narration",
+   "text": "But it wasn’t all of it. Lying in the bracken the second time, watching Brannoch’s bald head go by, she knew it wasn’t all of it. Some of it was the breathing. Some of it was that she’d lain in the tower two more nights and counted, eleven, eleven, twelve, eleven, and that she couldn’t go home without knowing what it was. She’d heard it. She’d heard what her father heard. She was the only person alive who’d ever lain in the dark and counted it.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p17",
+   "type": "narration",
+   "text": "She wasn’t going home with a number.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 25,
+   "para": "p18",
+   "type": "narration",
+   "text": "On the eighth night the boats didn’t come.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p19",
+   "type": "narration",
+   "text": "She waited for them at dusk, in the bracken, and they didn’t come. The river lay grey and empty under the evening, going fast and quiet. Over on the Saltreach bank there were lights in Harrow’s End, more than usual, and a lot of movement down by the mill: lanterns, carts, men. She could hear voices across the water now and then, faint, and once a horse.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p20",
+   "type": "narration",
+   "text": "And, from the hills, the horns. They’d never really stopped. Three, four times a day, and all night: one, and then an answer. She’d got used to them, as you get used to rain.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p21",
+   "type": "narration",
+   "text": "She went back to the tower and ate the last of her bread and the last but one of the dried apples. She had enough salt fish for four more days, if she was careful. She sat in the dark with her back to the wall, and Pell’s sword beside her, and waited for the breathing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p22",
+   "type": "narration",
+   "text": "It came a little before midnight. Eleven.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p23",
+   "type": "narration",
+   "text": "At the same time, from the river, on the north-west side, she heard something else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p24",
+   "type": "narration",
+   "text": "A splash. A knock, wood on wood. Then a voice, low and short, cut off.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 32,
+   "para": "p25",
+   "type": "narration",
+   "text": "She was on her feet before she knew she’d moved.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 33,
+   "para": "p26",
+   "type": "narration",
+   "text": "She went north through the dark the way she’d gone by day, by the notches on the trees, feeling for each one with her fingers. It was black under the trees, no moon, the new moon only six days off. She made no sound. She’d learned to do that on the river watch, coming up on smugglers’ camps in the reeds, and she’d learned it better in Greyhold’s yard, where the senior students would wait for you behind doors with a bucket of water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p27",
+   "type": "narration",
+   "text": "She came out above the hunters’ camp on the bluff, on her belly, in the bracken, and looked down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p28",
+   "type": "narration",
+   "text": "They’d come.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p29",
+   "type": "narration",
+   "text": "There was a raft drawn up on the gravel, a big one, logs lashed with rope, wide enough to carry a cart. There were lanterns, three of them, hooded so they only gave light downward. In the light she could see men moving. Unloading. Carrying things up from the raft to the camp under the bluff: more chain, in coils, on poles between two men. Iron bars, long, that went clanking onto the heap with the others. Something in sacks that one man carried very carefully, as if it might break.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p30",
+   "type": "narration",
+   "text": "She counted them. She made herself do it slowly, the way she’d counted the breaths, the way Ottery had taught her to count anything that might kill you. Ten. Eleven. Twelve.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 38,
+   "para": "p31",
+   "type": "narration",
+   "text": "Twelve men. No; eleven men and a woman.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p32",
+   "type": "narration",
+   "text": "The woman stood a little apart, by the lean-to, with her arms folded, watching. She was tall and broad in the shoulder, in a long oiled coat, with her hair cut short as a man’s and a heavy jaw, and when she spoke it was in a low flat voice with the long vowels of the Saltreach coast.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p33",
+   "type": "speech",
+   "text": "“Pots first,”",
+   "speaker": "the Captain"
+  },
+  {
+   "seq": 41,
+   "para": "p33",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 42,
+   "para": "p33",
+   "type": "speech",
+   "text": "“Then chain. Nobody goes up the path till the pots are lit. Nobody. Anyone so much as sneezes before then, I’ll leave him here.”",
+   "speaker": "the Captain"
+  },
+  {
+   "seq": 43,
+   "para": "p33",
+   "type": "narration",
+   "text": "She looked round at them."
+  },
+  {
+   "seq": 44,
+   "para": "p33",
+   "type": "speech",
+   "text": "“You heard what it did to Berrin.”",
+   "speaker": "the Captain",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p34",
+   "type": "narration",
+   "text": "Nobody answered. They worked faster.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p35",
+   "type": "speech",
+   "text": "“Captain,”",
+   "speaker": "a young hunter"
+  },
+  {
+   "seq": 47,
+   "para": "p35",
+   "type": "narration",
+   "text": "said one of them, a young one, by the raft."
+  },
+  {
+   "seq": 48,
+   "para": "p35",
+   "type": "speech",
+   "text": "“How far under is it?”",
+   "speaker": "a young hunter",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p36",
+   "type": "speech",
+   "text": "“Far enough,”",
+   "speaker": "the Captain"
+  },
+  {
+   "seq": 50,
+   "para": "p36",
+   "type": "narration",
+   "text": "said the woman."
+  },
+  {
+   "seq": 51,
+   "para": "p36",
+   "type": "speech",
+   "text": "“If you’re quiet.”",
+   "speaker": "the Captain",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p37",
+   "type": "narration",
+   "text": "There was one more. Maren almost didn’t count him, because he wasn’t doing anything. He was standing by the raft, at the edge of the light, with his hands in the pockets of a drover’s coat too good for a drover. He wasn’t carrying or unloading, and he wasn’t giving orders either. He was watching, like the Captain, but differently: as if all of it, the raft and the chain and the men sweating under it, belonged to someone else, and he’d been sent along to see it was done right.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p38",
+   "type": "narration",
+   "text": "He was nobody. That was what she noticed. Middle height, middle build, a face she looked at and couldn’t keep hold of; she looked away and looked back and had to learn it again. Only his boots stood out, when he stepped into the lantern light for a moment to look at something on the raft: good boots, oiled, black, with little brass eyelets that caught the light. Coast boots. Wendmouth boots. Nobody on the river wore boots like that. You couldn’t afford them on a boatman’s pay.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p39",
+   "type": "narration",
+   "text": "The Captain didn’t give him orders. When she spoke to him, which she did once, it was in a lower voice, and he answered without taking his hands out of his pockets.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p40",
+   "type": "narration",
+   "text": "Maren lay in the bracken and fixed him in her mind as best she could. Boots. Brass eyelets. Hands in pockets. A face like water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p41",
+   "type": "narration",
+   "text": "Then the Captain said,"
+  },
+  {
+   "seq": 57,
+   "para": "p41",
+   "type": "speech",
+   "text": "“Pots,”",
+   "speaker": "the Captain"
+  },
+  {
+   "seq": 58,
+   "para": "p41",
+   "type": "narration",
+   "text": "and the men began to move.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 59,
+   "para": "p42",
+   "type": "narration",
+   "text": "They went up the path in a line, with the hooded lanterns, and she followed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p43",
+   "type": "narration",
+   "text": "It was easier than she’d expected. They made enough noise for twelve, careful as they were: the chains clinked, a man stumbled and swore and was hissed at, the lanterns swung. They were looking ahead, all of them, up the path into the dark. Nobody looked back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p44",
+   "type": "narration",
+   "text": "She stayed fifty paces behind and off the path, in the trees, moving when they moved and stopping when they stopped. The birds were silent. She’d known they would be. The quiet came down round her like water closing over her head, and she went on into it, behind the lanterns, with Pell’s sword in her hand.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 62,
+   "para": "p45",
+   "type": "narration",
+   "text": "Under the oaks, the men with the sacks went ahead. She watched them set things down along the path and off to the sides of it, low, in a wide half-circle: clay pots, round, the size of a man’s head, with lids. They took the lids off and put something into each from a tinderbox, and blew on it, very gently, and put the lids back on loosely, with a gap. Smoke began to come out, a thin grey thread from each pot, going up and sideways, drifting with the night air, which was coming from the river, from the south-west, carrying the smoke ahead of them into the dark under the trees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p46",
+   "type": "narration",
+   "text": "She smelled it a moment later. Sweet. Heavy. Like honey burned in a pan, and under it something sharper, like crushed leaves. It got into the back of her throat and made her eyes water and her head go slow and thick for a moment. She put her sleeve over her mouth and nose and breathed through the wool, and backed off further from the path, upwind, away from the drift.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p47",
+   "type": "thought",
+   "text": "They’re keeping it asleep,",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 65,
+   "para": "p47",
+   "type": "narration",
+   "text": "she thought."
+  },
+  {
+   "seq": 66,
+   "para": "p47",
+   "type": "thought",
+   "text": "That’s what the cold fires were. They’ve been coming here for weeks, burning this, keeping it under. Like a farmer giving a horse poppy so it’ll stand for the knife.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p48",
+   "type": "narration",
+   "text": "Ahead of her, the breathing went on. In, and out. Slow. Eleven.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p49",
+   "type": "narration",
+   "text": "The Captain raised her hand, and the line went forward.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 69,
+   "para": "p50",
+   "type": "narration",
+   "text": "She saw it for the first time by the light of their lanterns.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p51",
+   "type": "narration",
+   "text": "She saw it in pieces, as you see a room by lightning, never all at once. It was too big to be all at once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p52",
+   "type": "narration",
+   "text": "The path came out under the oaks into a place where there were no trees, a kind of hollow, deep, with banks of earth and roots round it and the oaks leaning in over it so that their branches met far above, like the roof of a hall. And on the floor of the hollow there was a hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p53",
+   "type": "narration",
+   "text": "That was what she thought, first. A long low mound, heaped up in the middle of the hollow, longer than a hay wain, covered with moss and dead leaves and the litter of a hundred autumns. Then a lantern swung and caught the side of it, and the light went across it, and it wasn’t moss.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p54",
+   "type": "narration",
+   "text": "It was hair. Grey and gold, thick and coarse as a horse’s mane, matted with old leaves, lying in long heavy waves. A flank. A side, going up and over into the dark, higher than the man who held the lantern. The side moved: rose, very slowly, as if the whole hill were breathing in, and kept rising, and stopped, and after a long while sank down again, and the breath came out of the dark at the far end of it like a wind out of a cave, and stirred the leaves on the floor of the hollow, and she smelled it. Warm. The smell she hadn’t been able to place in the tower. Fur in the sun.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 74,
+   "para": "p55",
+   "type": "narration",
+   "text": "Another lantern swung, lower, and she saw the foot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p56",
+   "type": "narration",
+   "text": "It lay out on the floor of the hollow, toward the path, the way a sleeping dog lays out its forepaw. It was the foot whose prints she’d found by the stream. She knew it at once, the four great splayed toes, and the soft pads, dark, cracked like old leather. Each toe was as big as her two fists together, and the whole foot as broad as a round shield. The claws were drawn in, sheathed in the fur, and she could only see their points, curved and pale and long as her forearm.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 76,
+   "para": "p57",
+   "type": "narration",
+   "text": "The man nearest the foot was standing a pace from it. He was holding a coil of chain. He was shaking so hard she could hear the links.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p58",
+   "type": "narration",
+   "text": "Maren lay on the bank of the hollow, in the roots, with her face pressed into the cold earth and the sword under her and her whole body trying to run, and she didn’t run. She lay there. She watched.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 78,
+   "para": "p59",
+   "type": "remembered",
+   "text": "If you hear it breathing, you lie still, and you count, and you don’t go looking.",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p60",
+   "type": "narration",
+   "text": "She’d gone looking. Here it was.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 80,
+   "para": "p61",
+   "type": "narration",
+   "text": "They worked fast and quiet. She had to give them that. They’d done this before; not with this, maybe, but with something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p62",
+   "type": "narration",
+   "text": "Two men took the end of a chain each and went round the foot in a wide circle, one each way, paying out the chain between them so it lay across the floor of the hollow, across the foot, just behind the toes, in a long loop. Two more came after them with iron stakes and mallets wrapped in sacking, to deaden the sound. They set a stake at each end of the chain, through the end link, and drove it. Three blows. Four. The sacking did nothing. Every blow went up into the roof of oak like a door slamming in an empty house.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p63",
+   "type": "narration",
+   "text": "The breathing changed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p64",
+   "type": "narration",
+   "text": "She heard it. Everybody heard it. The men froze with their mallets up. Eleven became twelve. The long slow breath came out of the dark at the far end of the hill, and the leaves stirred, and then, instead of the long silence, there was a sound. Low. Deeper than the breathing. A kind of rumble, deep down, under everything, so deep she didn’t hear it so much as feel it in the earth under her face. Like a cart going over a bridge a long way off.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 84,
+   "para": "p65",
+   "type": "narration",
+   "text": "Then it stopped, and the breath went in again, slow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p66",
+   "type": "speech",
+   "text": "“Pots,”",
+   "speaker": "the Captain",
+   "how": "very quietly"
+  },
+  {
+   "seq": 86,
+   "para": "p66",
+   "type": "narration",
+   "text": "said the Captain’s voice, very quietly, from somewhere behind the lanterns."
+  },
+  {
+   "seq": 87,
+   "para": "p66",
+   "type": "speech",
+   "text": "“More smoke. Now.”",
+   "speaker": "the Captain",
+   "how": "very quietly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p67",
+   "type": "narration",
+   "text": "Somebody went back down the path at a run. The others stood where they were, frozen, not breathing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p68",
+   "type": "narration",
+   "text": "The smoke came thicker, drifting in over the hollow, grey in the lantern light. The sweet heavy smell filled everything. Maren pressed her face into her sleeve and breathed through it and her head swam anyway. On the hill, the great flank rose and fell, rose and fell. Twelve. Eleven.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p69",
+   "type": "speech",
+   "text": "“Again,”",
+   "speaker": "the Captain"
+  },
+  {
+   "seq": 91,
+   "para": "p69",
+   "type": "narration",
+   "text": "said the Captain.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p70",
+   "type": "narration",
+   "text": "They went on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p71",
+   "type": "narration",
+   "text": "They laid a second chain over the foot. A third, longer, that four men carried round in a great slow circle, out of the lantern light, round the far side of the hill, so that Maren heard it more than saw it, clinking over roots in the dark, and back. They meant to go over the whole beast with chain. Over the foot, over the flank, over the neck, as you’d net a boat. Pin it down with stakes all round, forty of them, and then, when it woke, it would wake bound.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p72",
+   "type": "narration",
+   "text": "After that, the cage. The raft. The river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p73",
+   "type": "thought",
+   "text": "Where?",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 96,
+   "para": "p73",
+   "type": "narration",
+   "text": "she thought."
+  },
+  {
+   "seq": 97,
+   "para": "p73",
+   "type": "thought",
+   "text": "Where are they taking it? What do you want with a thing like this?",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p74",
+   "type": "narration",
+   "text": "Nobody said. They just worked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p75",
+   "type": "narration",
+   "text": "The third stake went in on the near side of the foot, close, a pace from the toes. The man who held it was the young one who’d asked the Captain how far under it was. The man with the mallet hit it, once, twice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p76",
+   "type": "narration",
+   "text": "On the third blow, the foot moved.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 101,
+   "para": "p77",
+   "type": "narration",
+   "text": "It didn’t move fast. That was the terrible thing. It was slow, like a sleeper turning over, putting out a hand in the dark to push away something that’s tickling him. The toes spread. The great soft pads pressed down on the floor of the hollow. The claws came out of the fur, all four, long and pale and curved, slowly, almost lazily, and the whole foot slid forward a little way across the leaves and closed.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 102,
+   "para": "p78",
+   "type": "narration",
+   "text": "The young man was standing where it closed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p79",
+   "type": "narration",
+   "text": "She didn’t hear him make a sound. She heard the chain. The chain he’d been holding snapped taut and then rang like a bell, and one of the stakes came out of the ground and went spinning through the air into the dark, and the man with the mallet was thrown sideways against the bank of the hollow as if a horse had kicked him. And the foot opened again and drew back, and the claws went back into the fur. The young man was lying on the leaves where it had been, and he had been opened from the shoulder to the hip, and he wasn’t moving.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p80",
+   "type": "narration",
+   "text": "Somebody screamed then. More than one somebody.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p81",
+   "type": "narration",
+   "text": "And the hill moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p82",
+   "type": "narration",
+   "text": "The ground moved with it. The earth of the hollow heaved under her, so that the roots she lay among lifted and settled, and a stone in the bank beside her face cracked across with a sound like a knuckle, all on its own.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p83",
+   "type": "narration",
+   "text": "The whole flank shifted. It went over, sideways, away from them, slowly, enormously, the hair going up into the dark like a wave and coming down again, and the floor of the hollow shook under her, and the roots she was lying among creaked and moved, and the oaks above groaned. A lantern went over. Somebody was running. Somebody else had been under the flank when it turned, and she heard a sound she would hear in the dark for years afterwards, a sound like a sack of grain dropped from a loft onto stone, and then nothing.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p84",
+   "type": "narration",
+   "text": "The breathing roared. Fifteen. Twenty. Fast, deep, like a bellows worked by a madman, and with every breath that low rumble under it, louder, rising.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Back,”",
+   "speaker": "the Captain",
+   "how": "shouting"
+  },
+  {
+   "seq": 110,
+   "para": "p85",
+   "type": "narration",
+   "text": "the Captain was shouting."
+  },
+  {
+   "seq": 111,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Back! Leave it! Back to the raft!”",
+   "speaker": "the Captain",
+   "how": "shouting",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p86",
+   "type": "narration",
+   "text": "Men were running past her. They didn’t see her. They didn’t see anything. One went straight past her in the dark, a pace from her face, crashing through the bracken off the path, sobbing, and she heard him go on down the slope toward the west and heard, a few breaths later, a heavy iron snap, like a door slamming, and then a scream that went up and up and didn’t stop.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p87",
+   "type": "narration",
+   "text": "The jaw-traps. Their own traps, laid across the path the beast walked to water. He’d run into one in the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p88",
+   "type": "narration",
+   "text": "The scream went on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p89",
+   "type": "narration",
+   "text": "One of the pots had gone over in the hollow, kicked by someone running. The lid was off. The coals inside had spilled out onto the dead leaves of a hundred autumns, and the leaves were dry, and there was a little yellow flame, and then another, running along the floor of the hollow toward the great dark hill, crackling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p90",
+   "type": "narration",
+   "text": "She didn’t think. She was up and over the bank of the hollow and down into it with her cloak off and in her hands before she knew she was going to do it. She threw the cloak down on the flames and stamped on it and stamped again, with her boots, in the sweet thick smoke, with her eyes streaming and her head going round, three paces from a foot as broad as a shield. The leaves were burning under the cloak. She stamped. She dragged the cloak sideways onto the next flame and stamped on that. She kicked earth over the coals.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p91",
+   "type": "narration",
+   "text": "The fire went out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p92",
+   "type": "narration",
+   "text": "She stood in the hollow in the dark, with the cloak in her hands and the smoke all round her and nobody else there at all. The lanterns were gone. The men were gone. Somewhere down the slope to the west, the man in the trap was still screaming, but weaker now. In front of her, a few paces off in the dark, the hill was breathing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p93",
+   "type": "narration",
+   "text": "Twenty. Eighteen. Sixteen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p94",
+   "type": "narration",
+   "text": "Slowing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p95",
+   "type": "narration",
+   "text": "She didn’t move. She didn’t dare. She stood there with her legs shaking under her, and the breaths came out of the dark, warm, stirring her hair, and she counted them, and they slowed. Fifteen. Thirteen. Twelve. The rumble under them went down, and down, and stopped. The great flank, which had been heaving like a sea, rose more slowly, and fell more slowly, and was still.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 122,
+   "para": "p96",
+   "type": "narration",
+   "text": "Eleven.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p97",
+   "type": "narration",
+   "text": "It hadn’t woken. She knew it, in her body, as you know when a sleeper in the next bed has turned over and gone under again. It had turned over in its sleep, and put out a hand to push away something that was tickling it, and three men were down, and it hadn’t even woken up.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 124,
+   "para": "p98",
+   "type": "narration",
+   "text": "She heard, from away down on the north-west shore, the Captain’s voice, shouting, high and hard over the river. A man’s voice answering. And then, clear in the dark, a word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p99",
+   "type": "speech",
+   "text": "“Boat!”",
+   "speaker": "a hunter",
+   "how": "shouted",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 126,
+   "para": "p100",
+   "type": "narration",
+   "text": "She ran.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p101",
+   "type": "narration",
+   "text": "She didn’t go by the notches. There wasn’t time. She went straight down the slope toward the west shore through the trees in the dark, falling, getting up, with the cloak over her arm and the sword in her hand and branches whipping her face. She went past the trap. She didn’t mean to. She almost went into it herself. She saw it at the last moment, a darker shape on the path, and a man in it, lying very still now, with his leg in the iron jaws, and she went round him without stopping, and hated herself for not stopping, and kept going.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p102",
+   "type": "narration",
+   "text": "She came out on the west shore above the reeds.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p103",
+   "type": "narration",
+   "text": "The raft was out on the water. She could see it in the starlight, a dark square on the dark river, far out already, with men on it poling hard for the Saltreach bank, and the hooded lanterns swinging. Between her and the raft, closer in, in the west channel where the reeds thinned out and the current ran, there was something else on the water. Small. Dark. Turning round and round as it went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p104",
+   "type": "narration",
+   "text": "Her skiff.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p105",
+   "type": "narration",
+   "text": "She went down into the reeds at a run, up to her knees in the mud, up to her thighs, to the place where she’d hidden it. The stake was there. The rope was there, tied to the stake, the way she’d tied it. It was cut. A clean cut, a pace from the knot, the end of the rope floating loose on the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p106",
+   "type": "narration",
+   "text": "She stood in the reeds up to her waist in the cold black water and watched her boat go.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p107",
+   "type": "narration",
+   "text": "It went out of the west channel into the main current and the river took it. It turned once more, almost gracefully, as if it were waving. Then it went away downstream, faster and faster, small and dark on the dark water, toward Greyhold and the sea, until she couldn’t see it any more.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p108",
+   "type": "narration",
+   "text": "On the raft, far out, somebody laughed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p109",
+   "type": "narration",
+   "text": "She heard the Captain’s voice come across the water, flat and carrying."
+  },
+  {
+   "seq": 136,
+   "para": "p109",
+   "type": "speech",
+   "text": "“Leave it. Whoever it is, they’re not going anywhere now. We’ll come back for them.”",
+   "speaker": "the Captain",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p110",
+   "type": "narration",
+   "text": "And then, quieter, but the river carried it, as it carries everything at night, another voice. A man’s. Pleasant. Unhurried. A voice you’d forget.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p111",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Rook",
+   "mood": "dread"
+  },
+  {
+   "seq": 139,
+   "para": "p111",
+   "type": "narration",
+   "text": "it said.",
+   "mood": "dread"
+  },
+  {
+   "seq": 140,
+   "para": "p111",
+   "type": "speech",
+   "text": "“We won’t need to.”",
+   "speaker": "Rook",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 141,
+   "para": "p112",
+   "type": "narration",
+   "text": "The raft went on, poling for the far bank, and the lanterns grew small.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 142,
+   "para": "p113",
+   "type": "narration",
+   "text": "She stood in the reeds until the lanterns were gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p114",
+   "type": "narration",
+   "text": "She was shaking. She noticed it after a while, as if it were happening to someone else: the shaking, and the cold, and the water round her waist, and the sword still in her hand, and the cloak over her arm, scorched and stinking of honey smoke. She noticed that her face was cut, and her hands. She noticed that she couldn’t feel her feet.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p115",
+   "type": "thought",
+   "text": "Stranded,",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 145,
+   "para": "p115",
+   "type": "narration",
+   "text": "she thought."
+  },
+  {
+   "seq": 146,
+   "para": "p115",
+   "type": "thought",
+   "text": "On the island, with no boat, with the new moon six days off, and the boats from Greyhold not coming any more, because there’s a war on the other bank and there’ll be nobody to send.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p116",
+   "type": "thought",
+   "text": "And that.",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 148,
+   "para": "p116",
+   "type": "narration",
+   "text": "She thought of the hollow, and the hill that breathed, and the foot like a shield."
+  },
+  {
+   "seq": 149,
+   "para": "p116",
+   "type": "thought",
+   "text": "That’s here too.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p117",
+   "type": "thought",
+   "text": "And they’re coming back.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p118",
+   "type": "narration",
+   "text": "She waded out of the reeds. She sat down on the bank, on the wet grass, and put her face in her hands, and didn’t cry, because there wasn’t any point, and Ottery would have said so.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p119",
+   "type": "narration",
+   "text": "When she lifted her head again, the sky to the east was on fire.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 153,
+   "para": "p120",
+   "type": "narration",
+   "text": "Not all of it. One place. Over the trees behind her, east, where the lights of Harrow’s End had been: a glow on the underside of the sky, orange and growing. The mill. Nothing else on that bank stood high enough to burn like that. She heard, very faint over the island, shouting, and the clash of something, and a horn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p121",
+   "type": "narration",
+   "text": "Then something went over the glow, high up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p122",
+   "type": "narration",
+   "text": "A shape. Dark against the glow. Huge. Wings.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p123",
+   "type": "narration",
+   "text": "As she watched, it opened its mouth, and a long tongue of fire came out of it, yellow-white and roaring, a whole river of fire poured out across the sky and down beyond the trees, so bright that for a moment the oaks of the island stood up black against it, every branch.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 157,
+   "para": "p124",
+   "type": "narration",
+   "text": "Another shape came up out of the dark to meet it, and another.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p125",
+   "type": "narration",
+   "text": "Across the river, the Clan was at war, and it had come down out of the hills, and onto the fields.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p126",
+   "type": "narration",
+   "text": "She sat on the wet grass on the island, in the dark, with no boat, and watched the sky over the trees burn, and behind her, in the north end, under the oaks, the breathing went on.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p127",
+   "type": "narration",
+   "text": "Eleven.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  }
+ ]
+}

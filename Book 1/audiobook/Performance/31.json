@@ -1,0 +1,1786 @@
+{
+ "chapter": 31,
+ "title": "Tam",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Thirty-one.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Tam.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "She went to Millbrook on her rest day because Grieve sent her for nails.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "That was the reason. Grieve needed horseshoe nails, a keg of them, and the smithy at Millbrook made the best on the river, and it was two leagues downstream, and somebody had to walk there and walk back with a keg on a handcart. He’d looked at her ribs, still bound under her shirt, and at the handcart, and said"
+  },
+  {
+   "seq": 5,
+   "para": "p2",
+   "type": "remembered",
+   "text": "you’ll manage,",
+   "speaker": "Grieve"
+  },
+  {
+   "seq": 6,
+   "para": "p2",
+   "type": "narration",
+   "text": "and she had.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p3",
+   "type": "narration",
+   "text": "She hadn’t seen Tam since the fair. Since the three days he’d spent at the ferry house telling the duskcat story at supper, with more boatmen in it every night. Before the island. Before everything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p4",
+   "type": "narration",
+   "text": "Millbrook was quieter than it had been. She noticed it coming in along the river path. The jetty, which on any autumn day she could remember had been crowded with Saltreach boats tied up three deep, had four boats at it. The stalls by the inn were shut. The mill was turning, the great grey wheel going round in its race, but there was only one cart waiting at the loading door. On the board by the inn, where the crown’s notices went, there was a fresh one with the seal on it: a Millbrook woman fined four silver for saying a keeping-word over her neighbour’s milk without the licence for it. Somebody had chalked underneath that the milk had kept, all the same.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p5",
+   "type": "narration",
+   "text": "There were people everywhere who didn’t belong there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "narration",
+   "text": "They were sitting on the inn steps, and along the wall by the jetty, and in the lee of the mill, out of the wind. Families. Bundles. Handcarts. Old people on stools, children wrapped in blankets. A goat. She looked at their clothes, black at the hems with old soot, and their faces, and knew where they’d come from without having to ask.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "narration",
+   "text": "Over. Anywhere over.",
+   "mood": "quiet",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 12,
+   "para": "p8",
+   "type": "narration",
+   "text": "The smithy was where it had always been, at the top of the jetty road, with its doors open and the forge going and the sound of the hammer coming out into the street. Odo Marl was at the anvil. He was the same huge bald man with forearms like hams and burns on both of them, in a leather apron burned through in a dozen places. In the summer he’d been shouting and laughing like a bellows. Now he looked up when she came in, and nodded, and went on hammering.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p9",
+   "type": "narration",
+   "text": "Tam was at the bellows.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p10",
+   "type": "narration",
+   "text": "He saw her and his face did three things at once. It lit up. It closed. It tried to light up again, and didn’t quite manage, and settled on something in between that she’d never seen on it before.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p11",
+   "type": "speech",
+   "text": "“Maren,”",
+   "speaker": "Tam"
+  },
+  {
+   "seq": 16,
+   "para": "p11",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p12",
+   "type": "speech",
+   "text": "“Tam.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p13",
+   "type": "speech",
+   "text": "“You’re hurt.”",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p14",
+   "type": "speech",
+   "text": "“It’s nothing. Ribs.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p15",
+   "type": "speech",
+   "text": "“Ribs.”",
+   "speaker": "Tam",
+   "mood": "tender"
+  },
+  {
+   "seq": 21,
+   "para": "p15",
+   "type": "narration",
+   "text": "He let go of the bellows. He was taller than she remembered. He’d been taller than her for two years, but now he was broader, too; his shoulders had filled out at the forge, and his face had lost the last of its roundness, and he looked, for a moment, so like their father that she had to look away.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p16",
+   "type": "narration",
+   "text": "When he was small he used to say he’d be a knight like Da, and a better one. He’d stopped saying it the year their father died. She’d thought, for years, that he’d stopped wanting it. He’d only stopped wanting it in front of her.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 23,
+   "para": "p16",
+   "type": "speech",
+   "text": "“I heard you failed your trial.”",
+   "speaker": "Tam",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p17",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p18",
+   "type": "speech",
+   "text": "“I heard it was a lion.”",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p19",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p20",
+   "type": "narration",
+   "text": "He looked at her a while longer. Then he said,"
+  },
+  {
+   "seq": 28,
+   "para": "p20",
+   "type": "speech",
+   "text": "“Odo, can I…”",
+   "speaker": "Tam"
+  },
+  {
+   "seq": 29,
+   "para": "p20",
+   "type": "narration",
+   "text": "and Odo Marl grunted without looking up, and Tam pulled off his apron and came out into the street with her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 30,
+   "para": "p21",
+   "type": "narration",
+   "text": "They walked down to the jetty and sat on the end of it, with their legs over the water, as they had when they were children on the ferry steps. The river went by below them, brown and fast and cold. Away upstream, two leagues off, she could just see the Greyhold wall, and beyond it, far up, the dark low line of the island.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p22",
+   "type": "speech",
+   "text": "“Was it really?”",
+   "speaker": "Tam"
+  },
+  {
+   "seq": 32,
+   "para": "p22",
+   "type": "narration",
+   "text": "said Tam."
+  },
+  {
+   "seq": 33,
+   "para": "p22",
+   "type": "speech",
+   "text": "“A lion?”",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p23",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p24",
+   "type": "speech",
+   "text": "“A real one. Like on the old coins.”",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p25",
+   "type": "speech",
+   "text": "“Bigger.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p26",
+   "type": "narration",
+   "text": "He looked at her sideways."
+  },
+  {
+   "seq": 38,
+   "para": "p26",
+   "type": "speech",
+   "text": "“And you sat with it.”",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p27",
+   "type": "speech",
+   "text": "“Who told you that?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p28",
+   "type": "speech",
+   "text": "“Everybody. Weir’s boy. The ferrymen. The whole river.”",
+   "speaker": "Tam"
+  },
+  {
+   "seq": 41,
+   "para": "p28",
+   "type": "narration",
+   "text": "He was quiet a moment."
+  },
+  {
+   "seq": 42,
+   "para": "p28",
+   "type": "speech",
+   "text": "“They say it tried to kill you.”",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p29",
+   "type": "speech",
+   "text": "“It has. More than once.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p30",
+   "type": "speech",
+   "text": "“And you keep going back.”",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p31",
+   "type": "narration",
+   "text": "She didn’t answer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p32",
+   "type": "speech",
+   "text": "“Ma’s half mad with it,”",
+   "speaker": "Tam",
+   "mood": "grief"
+  },
+  {
+   "seq": 47,
+   "para": "p32",
+   "type": "narration",
+   "text": "said Tam.",
+   "mood": "grief"
+  },
+  {
+   "seq": 48,
+   "para": "p32",
+   "type": "speech",
+   "text": "“She came down here last week and stood in the smithy and cried at Odo. Odo. She’s never cried in front of anyone in her life. She said you’d be dead by midwinter and nobody would stop you and she’d have no children left.”",
+   "speaker": "Tam",
+   "mood": "grief"
+  },
+  {
+   "seq": 49,
+   "para": "p32",
+   "type": "narration",
+   "text": "He picked at a splinter on the jetty.",
+   "mood": "grief"
+  },
+  {
+   "seq": 50,
+   "para": "p32",
+   "type": "speech",
+   "text": "“She said I was the only sensible one.”",
+   "speaker": "Tam",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 51,
+   "para": "p33",
+   "type": "speech",
+   "text": "“You are.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p34",
+   "type": "narration",
+   "text": "He laughed. It wasn’t much of a laugh.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p35",
+   "type": "speech",
+   "text": "“I’m not,”",
+   "speaker": "Tam",
+   "mood": "quiet"
+  },
+  {
+   "seq": 54,
+   "para": "p35",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 55,
+   "para": "p35",
+   "type": "speech",
+   "text": "“That’s the thing. I’m not. Not any more.”",
+   "speaker": "Tam",
+   "mood": "quiet",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 56,
+   "para": "p36",
+   "type": "narration",
+   "text": "He told her about the meeting in a rush, all at once, looking at the river and not at her, the way he’d told her things when he was small and knew she wouldn’t like them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p37",
+   "type": "narration",
+   "text": "There was a man who came to the Kettle. He’d told her about him on the jetty, the day of the duskcat. A bookbinder, travelling, grey and gentle and soft-spoken, called Absalom Reede, who went up and down the river mending the ledgers of inns and mills and chapels, and who’d sit in the corner of the Kettle in the evenings with a cup of cider and talk to anyone who’d listen about the old days. About the one realm. About what Winshire had been before it was six kingdoms.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p38",
+   "type": "speech",
+   "text": "“Everyone listens to him,”",
+   "speaker": "Tam"
+  },
+  {
+   "seq": 59,
+   "para": "p38",
+   "type": "narration",
+   "text": "said Tam."
+  },
+  {
+   "seq": 60,
+   "para": "p38",
+   "type": "speech",
+   "text": "“You’d listen to him. He doesn’t shout. He doesn’t wave his arms about. He just knows things. Old things. He’s read everything.”",
+   "speaker": "Tam"
+  },
+  {
+   "seq": 61,
+   "para": "p38",
+   "type": "narration",
+   "text": "He threw the splinter into the river."
+  },
+  {
+   "seq": 62,
+   "para": "p38",
+   "type": "speech",
+   "text": "“He asked me, after a while, if I’d like to hear more. Properly. Not in the Kettle. With other people who’d like to hear more.”",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p39",
+   "type": "speech",
+   "text": "“Where?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p40",
+   "type": "speech",
+   "text": "“Fennick’s barn. The tithe barn, behind the mill.”",
+   "speaker": "Tam"
+  },
+  {
+   "seq": 65,
+   "para": "p40",
+   "type": "narration",
+   "text": "Tam looked at her, then, quickly, and away."
+  },
+  {
+   "seq": 66,
+   "para": "p40",
+   "type": "speech",
+   "text": "“There were sixty people there, Maren. Sixty. Millbrook people. People I know. Odo’s cousin. The Kettle’s potboy. Old Wenna from the bakery. And people from the other villages, and the boats, and some from over the river. All sitting on the hay in the dark with lamps. And Reede stood up at the front with a book. An old book, older than anything, with wooden covers. And read to us.”",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p41",
+   "type": "speech",
+   "text": "“Read what?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p42",
+   "type": "speech",
+   "text": "“About the one realm.”",
+   "speaker": "Tam",
+   "mood": "awe"
+  },
+  {
+   "seq": 69,
+   "para": "p42",
+   "type": "narration",
+   "text": "Tam’s voice changed.",
+   "mood": "awe"
+  },
+  {
+   "seq": 70,
+   "para": "p42",
+   "type": "speech",
+   "text": "“About what it was like. Before. When there was one Winshire, and one road going through it from end to end, and the people of every country walked on it. And the beasts walked on it with them. Free. Not chained, not caged, not licensed, not bonded to anybody. Walking where they liked. And nobody was above anybody because of a beast. Nobody sat on the front bench because they’d got a falcon and you hadn’t. Nobody was unchosen.”",
+   "speaker": "Tam",
+   "mood": "awe"
+  },
+  {
+   "seq": 71,
+   "para": "p42",
+   "type": "narration",
+   "text": "He said the word as if it tasted bad.",
+   "mood": "awe"
+  },
+  {
+   "seq": 72,
+   "para": "p42",
+   "type": "speech",
+   "text": "“There wasn’t even a word for it. Because it didn’t mean anything.”",
+   "speaker": "Tam",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 73,
+   "para": "p43",
+   "type": "narration",
+   "text": "Maren looked at the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p44",
+   "type": "speech",
+   "text": "“And then it broke,”",
+   "speaker": "Tam",
+   "mood": "anger"
+  },
+  {
+   "seq": 75,
+   "para": "p44",
+   "type": "narration",
+   "text": "said Tam.",
+   "mood": "anger"
+  },
+  {
+   "seq": 76,
+   "para": "p44",
+   "type": "speech",
+   "text": "“Into six. And every one of the six kingdoms took the beasts and chained them, or caged them, or licensed them, or made them a thing for nobles. And made the bond a thing that put some people over others. And told everybody it had always been that way.”",
+   "speaker": "Tam",
+   "mood": "anger"
+  },
+  {
+   "seq": 77,
+   "para": "p44",
+   "type": "narration",
+   "text": "He was quiet.",
+   "mood": "anger"
+  },
+  {
+   "seq": 78,
+   "para": "p44",
+   "type": "speech",
+   "text": "“Reede says it’s a lie. All of it. The knights’ history, the gilt-edged book, the charter. He says Hearthmere’s wealth and Hearthmere’s magic and Hearthmere’s knights are all built on something the crown keeps hidden. He says one day it’ll come out. And when it does, people will see they’ve been lied to their whole lives.”",
+   "speaker": "Tam",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p45",
+   "type": "speech",
+   "text": "“Built on what?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p46",
+   "type": "speech",
+   "text": "“He didn’t say. He said it wasn’t time.”",
+   "speaker": "Tam",
+   "mood": "anger"
+  },
+  {
+   "seq": 81,
+   "para": "p46",
+   "type": "narration",
+   "text": "Tam turned and looked at her properly.",
+   "mood": "anger"
+  },
+  {
+   "seq": 82,
+   "para": "p46",
+   "type": "speech",
+   "text": "“But he said the people who know are inside Greyhold, Maren. In the inner circle. Right there.”",
+   "speaker": "Tam",
+   "mood": "anger"
+  },
+  {
+   "seq": 83,
+   "para": "p46",
+   "type": "narration",
+   "text": "He pointed upstream, at the far grey line of the wall.",
+   "mood": "anger"
+  },
+  {
+   "seq": 84,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Your Wardens. Your Captains. They know. And they make you swear an oath every day at noon that you don’t understand, and they tell you you’re all equal on the gate, and then they put you in the stables to shovel muck for the bonded.”",
+   "speaker": "Tam",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p47",
+   "type": "narration",
+   "text": "She thought about Hale, under the lamp in the archive, with his hand on his keys."
+  },
+  {
+   "seq": 86,
+   "para": "p47",
+   "type": "remembered",
+   "text": "I’ve spent forty years trying to find out what was below.",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 87,
+   "para": "p47",
+   "type": "narration",
+   "text": "And not believing him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p48",
+   "type": "speech",
+   "text": "“And then he said it,”",
+   "speaker": "Tam",
+   "mood": "quiet"
+  },
+  {
+   "seq": 89,
+   "para": "p48",
+   "type": "narration",
+   "text": "said Tam.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 90,
+   "para": "p48",
+   "type": "speech",
+   "text": "“At the end. He closed the book and he said it, and everyone in the barn said it back. One again.”",
+   "speaker": "Tam",
+   "mood": "quiet"
+  },
+  {
+   "seq": 91,
+   "para": "p48",
+   "type": "narration",
+   "text": "He took a breath.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 92,
+   "para": "p48",
+   "type": "speech",
+   "text": "“And I said it too.”",
+   "speaker": "Tam",
+   "mood": "quiet",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 93,
+   "para": "p49",
+   "type": "speech",
+   "text": "“Why?”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 94,
+   "para": "p49",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p50",
+   "type": "narration",
+   "text": "She’d meant to say something else. Something cleverer, something with an argument in it. That was all that came out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p51",
+   "type": "narration",
+   "text": "Tam looked at the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p52",
+   "type": "speech",
+   "text": "“I was there,”",
+   "speaker": "Tam"
+  },
+  {
+   "seq": 98,
+   "para": "p52",
+   "type": "narration",
+   "text": "he said at last."
+  },
+  {
+   "seq": 99,
+   "para": "p52",
+   "type": "speech",
+   "text": "“The night Harrow’s End burned. The second time. Two nights ago.”",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p53",
+   "type": "narration",
+   "text": "She went still.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 101,
+   "para": "p54",
+   "type": "speech",
+   "text": "“A lot of us were up at Redwatch that night. Odo had the tower’s boat-irons to deliver, and he took twenty of us to carry and stay for the ale. When the glow went up we went along the bank with the tower men, to the water opposite Harrow’s End. To see.”",
+   "speaker": "Tam",
+   "mood": "grief"
+  },
+  {
+   "seq": 102,
+   "para": "p54",
+   "type": "narration",
+   "text": "He wasn’t looking at her.",
+   "mood": "grief"
+  },
+  {
+   "seq": 103,
+   "para": "p54",
+   "type": "speech",
+   "text": "“And the knights were there. Already. Twenty of them, on horses, and a greyhart or two, in a line at the water, with lanterns. Sitting there. Captain Thorne in the middle of the line on her big grey.”",
+   "speaker": "Tam",
+   "mood": "grief"
+  },
+  {
+   "seq": 104,
+   "para": "p54",
+   "type": "narration",
+   "text": "His voice had gone very flat.",
+   "mood": "grief"
+  },
+  {
+   "seq": 105,
+   "para": "p54",
+   "type": "speech",
+   "text": "“And we stood behind them on the road. And we watched it burn. All night. The houses by the mill. The farm with the cows. The fighting in the lanes. We could hear people screaming. Children. We could hear children, Maren. Across the water.”",
+   "speaker": "Tam",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 106,
+   "para": "p55",
+   "type": "narration",
+   "text": "She said nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p56",
+   "type": "speech",
+   "text": "“And they just sat there,”",
+   "speaker": "Tam",
+   "mood": "anger"
+  },
+  {
+   "seq": 108,
+   "para": "p56",
+   "type": "narration",
+   "text": "said Tam.",
+   "mood": "anger"
+  },
+  {
+   "seq": 109,
+   "para": "p56",
+   "type": "speech",
+   "text": "“On their horses. With their lanterns. Twenty knights of Hearthmere. And didn’t cross.”",
+   "speaker": "Tam",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p57",
+   "type": "speech",
+   "text": "“It’s the river,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 111,
+   "para": "p57",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 112,
+   "para": "p57",
+   "type": "speech",
+   "text": "“It’s the law. They can’t cross it. It’s the border. If they cross it, that’s war with Saltreach, and the orders can’t…”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p58",
+   "type": "speech",
+   "text": "“I know what the law is.”",
+   "speaker": "Tam",
+   "mood": "anger"
+  },
+  {
+   "seq": 114,
+   "para": "p58",
+   "type": "narration",
+   "text": "He said it quite gently. That was the worst of it.",
+   "mood": "anger"
+  },
+  {
+   "seq": 115,
+   "para": "p58",
+   "type": "speech",
+   "text": "“I’ve known what the law is since I was five. Da told me. We keep our bank, and they keep theirs. I know.”",
+   "speaker": "Tam",
+   "mood": "anger"
+  },
+  {
+   "seq": 116,
+   "para": "p58",
+   "type": "narration",
+   "text": "He looked at her.",
+   "mood": "anger"
+  },
+  {
+   "seq": 117,
+   "para": "p58",
+   "type": "speech",
+   "text": "“And there were children screaming on the other side of the river and twenty knights sat on their horses and kept their bank. And you know who came?”",
+   "speaker": "Tam",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p59",
+   "type": "narration",
+   "text": "She knew.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Not knights,”",
+   "speaker": "Tam",
+   "mood": "anger"
+  },
+  {
+   "seq": 120,
+   "para": "p60",
+   "type": "narration",
+   "text": "said Tam.",
+   "mood": "anger"
+  },
+  {
+   "seq": 121,
+   "para": "p60",
+   "type": "speech",
+   "text": "“A farmer. A Saltreach barley farmer. On a dragon. Out of the dark. With two more behind him. And he put out the fires and he stopped the fighting and he got the children off the roof.”",
+   "speaker": "Tam",
+   "mood": "anger"
+  },
+  {
+   "seq": 122,
+   "para": "p60",
+   "type": "narration",
+   "text": "His voice cracked.",
+   "mood": "anger"
+  },
+  {
+   "seq": 123,
+   "para": "p60",
+   "type": "speech",
+   "text": "“We watched him do it. From behind the knights. Twenty of us from Millbrook and twenty knights, all standing there on the bank, watching a farmer do what they wouldn’t. And in the morning Captain Thorne lifted her hand to him. Just lifted it. Like she was saying well done.”",
+   "speaker": "Tam",
+   "mood": "anger"
+  },
+  {
+   "seq": 124,
+   "para": "p60",
+   "type": "narration",
+   "text": "He laughed, horribly.",
+   "mood": "anger"
+  },
+  {
+   "seq": 125,
+   "para": "p60",
+   "type": "speech",
+   "text": "“And then they turned round and rode home to Greyhold for breakfast.”",
+   "speaker": "Tam",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p61",
+   "type": "narration",
+   "text": "The river went by under the jetty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p62",
+   "type": "speech",
+   "text": "“So I went to the barn,”",
+   "speaker": "Tam"
+  },
+  {
+   "seq": 128,
+   "para": "p62",
+   "type": "narration",
+   "text": "said Tam."
+  },
+  {
+   "seq": 129,
+   "para": "p62",
+   "type": "speech",
+   "text": "“The next night. When Reede asked. And I said it.”",
+   "speaker": "Tam",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 130,
+   "para": "p63",
+   "type": "narration",
+   "text": "She should have left it there. She knew that afterwards. She should have put her arm round him and said",
+   "mood": "reflective"
+  },
+  {
+   "seq": 131,
+   "para": "p63",
+   "type": "thought",
+   "text": "I know, I know, I’d have said it too,",
+   "speaker": "Maren",
+   "mood": "reflective"
+  },
+  {
+   "seq": 132,
+   "para": "p63",
+   "type": "narration",
+   "text": "which was very nearly true, and gone home. But she was tired, and her ribs hurt, and she’d been sitting in the mud by a stream for a month and more being very careful not to do anything, and something in her had had enough of being careful.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p64",
+   "type": "speech",
+   "text": "“Show me,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 134,
+   "para": "p64",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p65",
+   "type": "speech",
+   "text": "“Show you what?”",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p66",
+   "type": "speech",
+   "text": "“What they give you. When you say it.”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 137,
+   "para": "p66",
+   "type": "narration",
+   "text": "She looked at his collar."
+  },
+  {
+   "seq": 138,
+   "para": "p66",
+   "type": "speech",
+   "text": "“You’ve got something on a cord. You keep touching it.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p67",
+   "type": "narration",
+   "text": "He went red. He’d always gone red, since he was a baby. He put his hand up to his collar, and then, slowly, as if he were proud of it and ashamed of it at the same time, he pulled out the cord.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p68",
+   "type": "narration",
+   "text": "On the end of it was a ring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p69",
+   "type": "narration",
+   "text": "Iron. Small. The size of her thumbnail. Plain, dark, a little rough, as things are when a smith’s made a lot of them quickly. Stamped into the face of it, small and neat:",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p70",
+   "type": "narration",
+   "text": "A ring of six dots.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 143,
+   "para": "p71",
+   "type": "narration",
+   "text": "She looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p72",
+   "type": "speech",
+   "text": "“They give you one when you stand up,”",
+   "speaker": "Tam"
+  },
+  {
+   "seq": 145,
+   "para": "p72",
+   "type": "narration",
+   "text": "said Tam."
+  },
+  {
+   "seq": 146,
+   "para": "p72",
+   "type": "speech",
+   "text": "“When you say it the first time. So other people know.”",
+   "speaker": "Tam"
+  },
+  {
+   "seq": 147,
+   "para": "p72",
+   "type": "narration",
+   "text": "He turned it in his fingers."
+  },
+  {
+   "seq": 148,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Odo made these. A gross of them. Reede paid him.”",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p73",
+   "type": "narration",
+   "text": "She put her hand in her coat pocket. She’d carried it there every day since the island, out of habit. She took it out and held it up beside his.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p74",
+   "type": "narration",
+   "text": "The cut link. From the cold fire, on the first night. Dark, heavy, rough at the cut where the chisel had gone through it. And on its side, small and neat, the same mark.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 151,
+   "para": "p75",
+   "type": "narration",
+   "text": "Tam looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p76",
+   "type": "speech",
+   "text": "“Where did you get that?”",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p77",
+   "type": "speech",
+   "text": "“On the island,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 154,
+   "para": "p77",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 155,
+   "para": "p77",
+   "type": "speech",
+   "text": "“Off the hunters. The ones who came for the lion. With chains. Eleven coils of it, and forty stakes, and a cage as big as a cottage. They came at night and burned smoke to keep it asleep and crept up on it and chained it. Three of them died doing it. I watched.”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 156,
+   "para": "p77",
+   "type": "narration",
+   "text": "She held the link beside the ring."
+  },
+  {
+   "seq": 157,
+   "para": "p77",
+   "type": "speech",
+   "text": "“Every link of every chain had that on it. Every one. The collar they put round its neck. The stakes. Everything. And they talked about who was paying them. And the man who was with them, with the good boots, went across the river to try and buy that farmer’s dragons.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p78",
+   "type": "narration",
+   "text": "Tam stared at the link.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p79",
+   "type": "speech",
+   "text": "“That’s not…”",
+   "speaker": "Tam",
+   "mood": "tension"
+  },
+  {
+   "seq": 160,
+   "para": "p79",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "tension"
+  },
+  {
+   "seq": 161,
+   "para": "p79",
+   "type": "speech",
+   "text": "“No. That’s not them.”",
+   "speaker": "Tam",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 162,
+   "para": "p80",
+   "type": "speech",
+   "text": "“It’s the same mark, Tam.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Reede told us about that.”",
+   "speaker": "Tam",
+   "mood": "urgent"
+  },
+  {
+   "seq": 164,
+   "para": "p81",
+   "type": "narration",
+   "text": "His voice had gone fast.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 165,
+   "para": "p81",
+   "type": "speech",
+   "text": "“He told us. He said there’d be people saying it. He said there are hunters on the river using stolen chain, chain with our mark on it, to make it look like… so people would think the movement was… He said, Maren. He said there’d be lies.”",
+   "speaker": "Tam",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p82",
+   "type": "speech",
+   "text": "“I’m not lying.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p83",
+   "type": "speech",
+   "text": "“I didn’t say you were lying. I said they were. The hunters. Whoever they are.”",
+   "speaker": "Tam",
+   "mood": "anger"
+  },
+  {
+   "seq": 168,
+   "para": "p83",
+   "type": "narration",
+   "text": "He shoved the ring back inside his shirt.",
+   "mood": "anger"
+  },
+  {
+   "seq": 169,
+   "para": "p83",
+   "type": "speech",
+   "text": "“The movement doesn’t chain beasts. That’s the whole point. That’s what it’s against. It wants them free. Like in the old realm. That’s what the kingdoms do, chain them. That’s what Greyhold does. You’ve got thirty-one of them in a barn, on chains, and you shovel their muck.”",
+   "speaker": "Tam",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p84",
+   "type": "speech",
+   "text": "“They’re bonded. That’s different.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Is it?”",
+   "speaker": "Tam",
+   "mood": "anger"
+  },
+  {
+   "seq": 172,
+   "para": "p85",
+   "type": "narration",
+   "text": "He was on his feet now, on the jetty, looking down at her.",
+   "mood": "anger"
+  },
+  {
+   "seq": 173,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Is it, Maren? Is it different? The Darrow girl’s hound’s in a stall with a door on it. Kesh is on a perch with jesses on her legs. Your lion’s got a collar on it, you said. Somebody put it there. And who’s the first person in the whole of Hearthmere who’s sat with it? Who didn’t chain it?”",
+   "speaker": "Tam",
+   "mood": "anger"
+  },
+  {
+   "seq": 174,
+   "para": "p85",
+   "type": "narration",
+   "text": "He pointed at her.",
+   "mood": "anger"
+  },
+  {
+   "seq": 175,
+   "para": "p85",
+   "type": "speech",
+   "text": "“You. An unchosen girl they failed and put in the muck. Not a Warden. Not a Captain. Not a bonded knight on a tall horse. You.”",
+   "speaker": "Tam",
+   "mood": "anger"
+  },
+  {
+   "seq": 176,
+   "para": "p85",
+   "type": "narration",
+   "text": "His face was working.",
+   "mood": "anger"
+  },
+  {
+   "seq": 177,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Can’t you see? You’re one of us. You’ve always been one of us. You just won’t say it.”",
+   "speaker": "Tam",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p86",
+   "type": "narration",
+   "text": "She sat on the end of the jetty with the cut link in her hand and looked up at her little brother.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p87",
+   "type": "narration",
+   "text": "Because he was right.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Tam,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 181,
+   "para": "p88",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p89",
+   "type": "speech",
+   "text": "“Don’t.”",
+   "speaker": "Tam",
+   "mood": "anger"
+  },
+  {
+   "seq": 183,
+   "para": "p89",
+   "type": "narration",
+   "text": "He turned away.",
+   "mood": "anger"
+  },
+  {
+   "seq": 184,
+   "para": "p89",
+   "type": "speech",
+   "text": "“Don’t. You’ll say something about Da. Or the oath. Or the gate. I know what you’ll say. I’ve been hearing it from you my whole life.”",
+   "speaker": "Tam",
+   "mood": "anger"
+  },
+  {
+   "seq": 185,
+   "para": "p89",
+   "type": "narration",
+   "text": "He stood with his back to her, looking at the river.",
+   "mood": "anger"
+  },
+  {
+   "seq": 186,
+   "para": "p89",
+   "type": "speech",
+   "text": "“Go home, Maren. Go back to your stables. Go and sit with your lion.”",
+   "speaker": "Tam",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p90",
+   "type": "narration",
+   "text": "He walked away up the jetty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p91",
+   "type": "narration",
+   "text": "She sat there a long time.",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 189,
+   "para": "p92",
+   "type": "narration",
+   "text": "She went back to the smithy for Grieve’s nails, because she’d been sent for them and she wasn’t going back without them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p93",
+   "type": "narration",
+   "text": "Tam wasn’t there. Odo Marl was at the anvil. The keg was by the door, already filled, with the lid nailed down. He’d done it while she was on the jetty. He didn’t stop hammering when she came in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p94",
+   "type": "narration",
+   "text": "She paid him. He took the money without looking at it and put it in the pot on the shelf.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p95",
+   "type": "narration",
+   "text": "She was at the door, with the keg on the handcart, when he spoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p96",
+   "type": "speech",
+   "text": "“Ashdown.”",
+   "speaker": "Odo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p97",
+   "type": "narration",
+   "text": "She turned.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p98",
+   "type": "narration",
+   "text": "Odo Marl was holding a length of iron in his tongs, glowing, over the anvil, and looking at it, not at her. He was quiet for so long that she thought she’d imagined it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p99",
+   "type": "speech",
+   "text": "“Half my trade this year,”",
+   "speaker": "Odo",
+   "how": "very low",
+   "mood": "dread"
+  },
+  {
+   "seq": 197,
+   "para": "p99",
+   "type": "narration",
+   "text": "he said at last, very low, to the iron,",
+   "mood": "dread"
+  },
+  {
+   "seq": 198,
+   "para": "p99",
+   "type": "speech",
+   "text": "“is mending their chain.”",
+   "speaker": "Odo",
+   "how": "very low",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 199,
+   "para": "p100",
+   "type": "narration",
+   "text": "Then he brought the hammer down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p101",
+   "type": "narration",
+   "text": "She stood in the doorway with the sound of it ringing in her ears. He didn’t look up again. After a while she turned and went out into the street with the handcart, and the hammer went on behind her, steady, like a heart.",
+   "mood": "reflective",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 201,
+   "para": "p102",
+   "type": "narration",
+   "text": "She went home by water. It was quicker than the river path with a keg, and her ribs were bad, and old Penner was sailing a load of flour up to Tolly’s Staithe on the afternoon wind and said he’d carry a knight’s nails for nothing, which was more than he’d ever said to anyone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p103",
+   "type": "narration",
+   "text": "There were people on the Staithe jetty when Penner’s boat came in. Families, with bundles and handcarts, come down off the far farms since morning, the same faces as on the Millbrook inn steps, or their cousins. Going over, to Greyhold landing, because someone had said there was soup at the ferry-house, and someone else had said the knights were giving out blankets at the river gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p104",
+   "type": "narration",
+   "text": "The ferry was in, loading. Fuller than she’d ever seen it. Liss had them packed in along both rails and in the middle, standing, with their bundles at their feet and their children on their shoulders, and the old ones sitting on the handcarts. Maren put the keg in the bow and took the pole from her mother without asking, and Liss let her, and stood at the guide rope instead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p105",
+   "type": "narration",
+   "text": "They went out across the current on the rope. A woman at the rail started a crossing-charm under her breath, the kind they sold at Cotter’s Cross, and Liss told her not to waste it. Nothing said held over running water. Every ferry child knew that before they knew their letters. Nobody talked much, after that. Then a man at the rail, a big shaggy man in a sheepskin with a little girl on his shoulders, said something to the woman beside him, and she said something back, and then the man behind them joined in, and after a while half the ferry was talking. Low. All about the same thing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p106",
+   "type": "narration",
+   "text": "She listened. She couldn’t help it. She stood in the bow with the pole and listened to them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p107",
+   "type": "narration",
+   "text": "They were from the west side. From the farms under Hollow Beck, and the hamlets along the Drover’s Way, and the bottom of Harrow’s End. They’d been burned out, one way or another, by one side or another, in the last month. And they’d all been on the Saltreach bank on one night, or near enough to see it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p108",
+   "type": "speech",
+   "text": "“…came down out of the dark,”",
+   "speaker": "a shaggy refugee",
+   "mood": "awe"
+  },
+  {
+   "seq": 208,
+   "para": "p108",
+   "type": "narration",
+   "text": "the shaggy man was saying.",
+   "mood": "awe"
+  },
+  {
+   "seq": 209,
+   "para": "p108",
+   "type": "speech",
+   "text": "“I saw it. I was in the ditch by the beck with the little one. And there’s this noise, like the whole sky’s breathing. And down they come. Three of them. A great gold one first, the size of a barn, with a man on her neck.”",
+   "speaker": "a shaggy refugee",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 210,
+   "para": "p109",
+   "type": "speech",
+   "text": "“A man?”",
+   "speaker": "a passenger"
+  },
+  {
+   "seq": 211,
+   "para": "p109",
+   "type": "narration",
+   "text": "said someone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p110",
+   "type": "speech",
+   "text": "“A farmer. A barley farmer, from up the hill. Calder Fenn. Everybody knows him.”",
+   "speaker": "a shaggy refugee",
+   "mood": "awe"
+  },
+  {
+   "seq": 213,
+   "para": "p110",
+   "type": "narration",
+   "text": "The man shook his head.",
+   "mood": "awe"
+  },
+  {
+   "seq": 214,
+   "para": "p110",
+   "type": "speech",
+   "text": "“He came down on that dragon out of the dark with his coat flying, and the other two behind him, and they put out the fire. And the little one took the Corby children off their roof. One, two, three. Set them down on the grass by the beck, gentle as you like. And then the whole lot of them, Ulric’s and Arn’s, ran like rabbits. Ninety men. From a barley farmer.”",
+   "speaker": "a shaggy refugee",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 215,
+   "para": "p111",
+   "type": "thought",
+   "text": "Calder Fenn.",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 216,
+   "para": "p111",
+   "type": "narration",
+   "text": "Greta’s farmer, who ran two leagues to his sister’s fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p112",
+   "type": "speech",
+   "text": "“Then why are you over here?”",
+   "speaker": "a passenger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p113",
+   "type": "speech",
+   "text": "“Because my house had already gone by then,”",
+   "speaker": "a shaggy refugee",
+   "mood": "grief"
+  },
+  {
+   "seq": 219,
+   "para": "p113",
+   "type": "narration",
+   "text": "said the man.",
+   "mood": "grief"
+  },
+  {
+   "seq": 220,
+   "para": "p113",
+   "type": "speech",
+   "text": "“And because it’s not safe over there. Not now. Not for anybody.”",
+   "speaker": "a shaggy refugee",
+   "mood": "grief"
+  },
+  {
+   "seq": 221,
+   "para": "p113",
+   "type": "narration",
+   "text": "He looked down at the little girl on his shoulders, who was asleep with her face in his hair.",
+   "mood": "grief"
+  },
+  {
+   "seq": 222,
+   "para": "p113",
+   "type": "speech",
+   "text": "“But I’ll tell you something. I’ll tell you what I saw. I saw twenty knights sat on their horses on your bank all night watching us burn. And I saw one farmer come down out of the sky and save us.”",
+   "speaker": "a shaggy refugee",
+   "mood": "grief"
+  },
+  {
+   "seq": 223,
+   "para": "p113",
+   "type": "narration",
+   "text": "He looked across the ferry at Maren, in her river-watch grey, at the pole. Not unkindly. Just looking.",
+   "mood": "grief"
+  },
+  {
+   "seq": 224,
+   "para": "p113",
+   "type": "speech",
+   "text": "“That’s what I saw.”",
+   "speaker": "a shaggy refugee",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 225,
+   "para": "p114",
+   "type": "narration",
+   "text": "The ferry was quiet after that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 226,
+   "para": "p115",
+   "type": "narration",
+   "text": "Maren poled. The rope hissed through the rings. The Greyhold landing came up out of the grey water, stone and the red door of the ferry-house and the long wall going up behind it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p116",
+   "type": "narration",
+   "text": "On the wall, on the gate, a knight stood his watch. Alone. As the rule said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 228,
+   "para": "p117",
+   "type": "narration",
+   "text": "Equal, on the gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 229,
+   "para": "p118",
+   "type": "narration",
+   "text": "A farmer on a bronze dragon, coming down out of the dark onto a burning green, with his coat flying. A girl on a stream bank in the mud with a tin cup. Tam on the end of the jetty, red in the face, pointing at her.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 230,
+   "para": "p118",
+   "type": "remembered",
+   "text": "You’re one of us. You just won’t say it.",
+   "speaker": "Tam",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 231,
+   "para": "p119",
+   "type": "thought",
+   "text": "The farmer came. He’s not a knight and he’s not anything, and he came. Into the fire. To get children off a roof.",
+   "speaker": "Maren",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 232,
+   "para": "p120",
+   "type": "thought",
+   "text": "And I sit by a stream.",
+   "speaker": "Maren",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 233,
+   "para": "p121",
+   "type": "narration",
+   "text": "The ferry bumped against the landing steps. Liss let go of the rope. The refugees began to climb out with their bundles and their children, up the steps toward the soup, the blankets, the safety of the knights.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 234,
+   "para": "p122",
+   "type": "narration",
+   "text": "Maren stood in the bow with the pole in her hands and didn’t move.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 235,
+   "para": "p123",
+   "type": "speech",
+   "text": "“Maren, love,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 236,
+   "para": "p123",
+   "type": "narration",
+   "text": "said her mother."
+  },
+  {
+   "seq": 237,
+   "para": "p123",
+   "type": "speech",
+   "text": "“The nails.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 238,
+   "para": "p124",
+   "type": "narration",
+   "text": "She picked up the keg, and went home.",
+   "pause_after_ms": 500
+  }
+ ]
+}

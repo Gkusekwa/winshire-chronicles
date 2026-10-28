@@ -1,0 +1,1217 @@
+{
+ "chapter": 35,
+ "title": "The Mentor",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Thirty-five.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Mentor.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "She wrote the report the night they rode back into Greyhold from Redwatch, by a stub of candle in the dormitory, as she’d written the one about the roadblock. Fourteen pages. Every raider she’d counted, every signal the boy had blown, every move. The two fingers. The three fingers. The four men in the middle of the green opening like a gate and closing again behind Pell. The greyharts going over the paddock fence. The barges.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "The man on the roof.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "She wrote what he looked like, and where she’d seen him before. She wrote what he’d said exactly, in the middle of a page, on a line by itself, so nobody could miss it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "written",
+   "text": "Ashdown. I hear you sit with lions.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "And under it, the other thing."
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "written",
+   "text": "All river-watch boats from Redwatch to Millbrook ordered in at dusk by a rider bearing Greyhold’s seal. Sergeant Ottery does not know the hand. This is the second time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": "Pell read it in the yard in the morning, standing, with the strip of Wynn’s shirt still round his head. All fourteen pages. He folded them up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "speech",
+   "text": "“He said your name,”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p8",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p9",
+   "type": "speech",
+   "text": "“I’ll take it up myself.”",
+   "speaker": "Pell",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 14,
+   "para": "p10",
+   "type": "narration",
+   "text": "Rowan had it by the afternoon. She sent for her, and Maren went up the narrow stair sideways with her shoulder to the wall, and stood in front of the desk while Rowan read the line in the middle of the page. Then read it again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p11",
+   "type": "speech",
+   "text": "“Your name isn’t a secret,”",
+   "speaker": "Rowan",
+   "mood": "tension"
+  },
+  {
+   "seq": 16,
+   "para": "p11",
+   "type": "narration",
+   "text": "Rowan said at last.",
+   "mood": "tension"
+  },
+  {
+   "seq": 17,
+   "para": "p11",
+   "type": "speech",
+   "text": "“The whole river knows a Greyhold student failed her trial on the island, and that she goes back. But the fishermen call you the girl on the island. The ferrymen call you Liss’s girl. The beast-sellers, I’m told, call you the lion girl.”",
+   "speaker": "Rowan",
+   "mood": "tension"
+  },
+  {
+   "seq": 18,
+   "para": "p11",
+   "type": "narration",
+   "text": "She looked up. Her pale eyes were very still.",
+   "mood": "tension"
+  },
+  {
+   "seq": 19,
+   "para": "p11",
+   "type": "speech",
+   "text": "“Not one of them calls you Ashdown.”",
+   "speaker": "Rowan",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 20,
+   "para": "p12",
+   "type": "speech",
+   "text": "“No, Captain.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p13",
+   "type": "speech",
+   "text": "“So someone told him.”",
+   "speaker": "Rowan",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 22,
+   "para": "p14",
+   "type": "narration",
+   "text": "She bent her head and wrote something in the margin of the fourteenth page, small, beside the line about the boats. Maren couldn’t see what.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p15",
+   "type": "speech",
+   "text": "“Dismissed.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 24,
+   "para": "p16",
+   "type": "narration",
+   "text": "Hale was on the bench at the foot of the Lesson Wall the next day at noon, alone in the thin cold sun, with his stick across his knees. When she came across the yard he moved over without a word, and she sat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p17",
+   "type": "speech",
+   "text": "“He said your name,”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 26,
+   "para": "p17",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 27,
+   "para": "p17",
+   "type": "speech",
+   "text": "“At Ferriby.”",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p18",
+   "type": "speech",
+   "text": "“Yes, Warden.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p19",
+   "type": "narration",
+   "text": "He looked at her then. She’d never seen him look like that. Something older than fright. A man who’s waited a long time for a knock at the door and has just heard it.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 30,
+   "para": "p20",
+   "type": "speech",
+   "text": "“I’ve had a report,”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 31,
+   "para": "p20",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 32,
+   "para": "p20",
+   "type": "speech",
+   "text": "“The inner circle has. From over the river.”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 33,
+   "para": "p20",
+   "type": "narration",
+   "text": "He was looking at the empty yard, not at her."
+  },
+  {
+   "seq": 34,
+   "para": "p20",
+   "type": "speech",
+   "text": "“Vey’s company, the Tide Council’s sellswords, went into the Fellwood nine days ago after the dragon farmer. They had him boxed up a crag in a cave with his three. And they lost him. In the rain, six nights ago, out of a cave with one way out, past a hundred and twenty men.”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 35,
+   "para": "p20",
+   "type": "narration",
+   "text": "He turned the stick in his hands."
+  },
+  {
+   "seq": 36,
+   "para": "p20",
+   "type": "speech",
+   "text": "“Our scouts on the far bank saw three dragons that same night, high, going south. Toward the coast.”",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p21",
+   "type": "narration",
+   "text": "Maren didn’t breathe.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 38,
+   "para": "p22",
+   "type": "speech",
+   "text": "“There’s more in it, for what it’s worth. Our man in Wendmouth says Vale spoke on the Tidesteps there at noon on the day of Ferriby. Three thousand heard him.”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 39,
+   "para": "p22",
+   "type": "narration",
+   "text": "He almost smiled."
+  },
+  {
+   "seq": 40,
+   "para": "p22",
+   "type": "speech",
+   "text": "“The man in two places. The river was telling that one before you were born. I’ve a box of it in the archive: a new port every year, a new raid the same day, and always somebody who’ll swear to the hour. Crowds.”",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p23",
+   "type": "narration",
+   "text": "She thought of the face on the smithy roof, lit from below. She let it go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p24",
+   "type": "speech",
+   "text": "“South,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 43,
+   "para": "p24",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p25",
+   "type": "speech",
+   "text": "“South. Out of the Marches. Away from the river.”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 45,
+   "para": "p25",
+   "type": "narration",
+   "text": "Hale let out a long breath."
+  },
+  {
+   "seq": 46,
+   "para": "p25",
+   "type": "speech",
+   "text": "“He’s gone.”",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p26",
+   "type": "narration",
+   "text": "He said it with relief. Real relief, deep and simple, like a man setting down a sack at the end of a long road. Then, as she watched, it went out of his face, and something came in behind it that she’d never seen there, and it took her a moment to know it.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p27",
+   "type": "narration",
+   "text": "Shame.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p28",
+   "type": "speech",
+   "text": "“Why?”",
+   "speaker": "Maren",
+   "mood": "anger"
+  },
+  {
+   "seq": 50,
+   "para": "p28",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "anger"
+  },
+  {
+   "seq": 51,
+   "para": "p28",
+   "type": "speech",
+   "text": "“Why are you glad he’s gone? He saved Harrow’s End, the scouts say. He got children off a roof. Twenty of our knights sat on the bank and watched, and he came.”",
+   "speaker": "Maren",
+   "mood": "anger"
+  },
+  {
+   "seq": 52,
+   "para": "p28",
+   "type": "narration",
+   "text": "She heard her voice go hard.",
+   "mood": "anger"
+  },
+  {
+   "seq": 53,
+   "para": "p28",
+   "type": "speech",
+   "text": "“Why would anybody be glad?”",
+   "speaker": "Maren",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p29",
+   "type": "narration",
+   "text": "He didn’t look at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p30",
+   "type": "speech",
+   "text": "“Because he’s three,”",
+   "speaker": "Hale",
+   "how": "very quietly",
+   "mood": "dread"
+  },
+  {
+   "seq": 56,
+   "para": "p30",
+   "type": "narration",
+   "text": "he said at last. Very quietly.",
+   "mood": "dread"
+  },
+  {
+   "seq": 57,
+   "para": "p30",
+   "type": "speech",
+   "text": "“Three bonds, in one man. It’s never happened.”",
+   "speaker": "Hale",
+   "how": "very quietly",
+   "mood": "dread"
+  },
+  {
+   "seq": 58,
+   "para": "p30",
+   "type": "narration",
+   "text": "His big hands were tight on the stick.",
+   "mood": "dread"
+  },
+  {
+   "seq": 59,
+   "para": "p30",
+   "type": "speech",
+   "text": "“And everything in that archive, Ashdown, every line in every book old enough to remember anything, says that when the old signs come all at once, beasts turning their heads to the ground and the earth answering and things that can’t happen happening, the last time it was so…”",
+   "speaker": "Hale",
+   "how": "very quietly",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 60,
+   "para": "p31",
+   "type": "narration",
+   "text": "He stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p32",
+   "type": "narration",
+   "text": "She waited. She wasn’t going to let him off. She sat beside him on the bench and waited, and he knew she was waiting, and the sun went behind a cloud, and the yard went grey.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 62,
+   "para": "p33",
+   "type": "speech",
+   "text": "“I’m an old man,”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 63,
+   "para": "p33",
+   "type": "narration",
+   "text": "said Hale,"
+  },
+  {
+   "seq": 64,
+   "para": "p33",
+   "type": "speech",
+   "text": "“and I read too much.”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 65,
+   "para": "p33",
+   "type": "narration",
+   "text": "He got up, slowly, with the stick, his weight on his good hip."
+  },
+  {
+   "seq": 66,
+   "para": "p33",
+   "type": "speech",
+   "text": "“Come down after drill. You wanted to know about the oath.”",
+   "speaker": "Hale",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 67,
+   "para": "p34",
+   "type": "narration",
+   "text": "He was at the long table under the hanging lamp when she came in, with the old black book open in front of him and his stick against the chair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p35",
+   "type": "speech",
+   "text": "“Sit,”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 69,
+   "para": "p35",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p36",
+   "type": "narration",
+   "text": "She sat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p37",
+   "type": "narration",
+   "text": "He turned the pages of the black book with one big finger, not reading them, and stopped, and looked past her down the long vaulted room to the far end.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p38",
+   "type": "narration",
+   "text": "She’d never looked properly at the far end. The archive went back a long way under the north tower, stack after stack, into the dark beyond the lamp, and she’d thought it just went on. Following his eyes now, she saw that it didn’t. At the very back, past the last stack, three stone steps went down. At the bottom of them, set into the old grey wall of the tower’s foundation, there was a door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p39",
+   "type": "narration",
+   "text": "Low. Black. Oak so old it had gone the colour of iron, bound across with real iron in three great bands. No handle. Only a lock: an iron plate as big as a man’s hand, with a keyhole in the middle of it, deep and dark. Round the keyhole, worn nearly smooth, ran a ring of small square letters with hooks at the ends of the strokes.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 74,
+   "para": "p40",
+   "type": "narration",
+   "text": "Hale was looking at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p41",
+   "type": "narration",
+   "text": "Then he looked back at her, and saw that she’d seen him look, and something in his face closed.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 76,
+   "para": "p42",
+   "type": "speech",
+   "text": "“The oath,”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 77,
+   "para": "p42",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p43",
+   "type": "narration",
+   "text": "He’d told her about the Watch weeks before, in the first of the afternoons: the list in the black book, three hundred and eleven names in the old script, the crown coming to the river with its charter and its masons and building Greyhold on top of whatever the Watch had kept. He turned the book round on the table now so she could see the first page. The heading,"
+  },
+  {
+   "seq": 79,
+   "para": "p43",
+   "type": "written",
+   "text": "Watch"
+  },
+  {
+   "seq": 80,
+   "para": "p43",
+   "type": "narration",
+   "text": ", in its square spare letters. And above it, in the same hand, small, a line she hadn’t noticed before.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p44",
+   "type": "speech",
+   "text": "“There’s no date,”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 82,
+   "para": "p44",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 83,
+   "para": "p44",
+   "type": "speech",
+   "text": "“No king’s name. Nothing to say when it was begun. Only that.”",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p45",
+   "type": "narration",
+   "text": "She traced the letters in her mind, slowly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p46",
+   "type": "speech",
+   "text": "“From the…”",
+   "speaker": "Maren",
+   "how": "slowly, reading"
+  },
+  {
+   "seq": 86,
+   "para": "p46",
+   "type": "narration",
+   "text": "She tried again."
+  },
+  {
+   "seq": 87,
+   "para": "p46",
+   "type": "speech",
+   "text": "“From the closing.”",
+   "speaker": "Maren",
+   "how": "slowly, reading",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p47",
+   "type": "speech",
+   "text": "“Not from the founding. Not from the coronation of. From the closing.”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 89,
+   "para": "p47",
+   "type": "narration",
+   "text": "He looked at the line."
+  },
+  {
+   "seq": 90,
+   "para": "p47",
+   "type": "speech",
+   "text": "“I’ve spent forty years trying to find out what was closed. Nobody wrote it down. Or if they did, it isn’t here.”",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p48",
+   "type": "narration",
+   "text": "He turned the pages. Name after name, each in a different hand, she saw now, some neat and some rough, as if each Watcher had written their own when their turn came. And beside each name the same mark. A small square, with a line through it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p49",
+   "type": "speech",
+   "text": "“Like a door,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 93,
+   "para": "p49",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p50",
+   "type": "narration",
+   "text": "Hale’s finger stopped on the page.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p51",
+   "type": "speech",
+   "text": "“I’ve always thought so,”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 96,
+   "para": "p51",
+   "type": "narration",
+   "text": "he said, after a moment.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p52",
+   "type": "narration",
+   "text": "He turned to the last page with writing on it. Under the three hundred and eleventh name, in a newer hand, in the ordinary letters of Hearthmere that any student could read:",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p53",
+   "type": "written",
+   "text": "Given into the keeping of the crown.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p54",
+   "type": "narration",
+   "text": "And a year. The year of the charter. Three hundred years ago.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p55",
+   "type": "speech",
+   "text": "“After that, nothing,”",
+   "speaker": "Hale",
+   "mood": "reflective"
+  },
+  {
+   "seq": 101,
+   "para": "p55",
+   "type": "narration",
+   "text": "said Hale.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 102,
+   "para": "p55",
+   "type": "speech",
+   "text": "“The list stops. And in the founding book of the orders, which is upstairs in Rowan’s room and which she’ll let you read if you ask her nicely and wash your hands, the oath appears. Near enough word for word. I will keep the watch below, and I will not ask what I keep. Sworn by every knight of every order, every day, at the noon bell. The crown took the Watch’s oath and gave it to the orders, and the Watch went away. And nobody ever wrote down what the watch was.”",
+   "speaker": "Hale",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p56",
+   "type": "speech",
+   "text": "“Did they know? The first knights. When they swore it.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p57",
+   "type": "speech",
+   "text": "“Some of them, I think. The ones the crown chose.”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 105,
+   "para": "p57",
+   "type": "narration",
+   "text": "He looked at his hands on the table."
+  },
+  {
+   "seq": 106,
+   "para": "p57",
+   "type": "speech",
+   "text": "“And then they died, and their children swore it, and their children’s children, and each time a little less was told. Until nobody was told anything. Just the words, said at noon, facing east toward the old wall, by people who think it’s a figure of speech.”",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p58",
+   "type": "speech",
+   "text": "“And nobody keeps it now? Not really? It’s just words?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p59",
+   "type": "speech",
+   "text": "“Of course they keep it,”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 109,
+   "para": "p59",
+   "type": "narration",
+   "text": "said Hale."
+  },
+  {
+   "seq": 110,
+   "para": "p59",
+   "type": "speech",
+   "text": "“The inner circle keeps a watch nobody else is told…”",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p60",
+   "type": "narration",
+   "text": "He stopped.",
+   "mood": "tension",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 112,
+   "para": "p61",
+   "type": "narration",
+   "text": "The archive was very quiet. Somewhere far above them, up through three floors of stone, a bell rang faintly in the yard for the change of watch. The lamp over the table burned on, white and steady, with nothing in it to burn.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p62",
+   "type": "narration",
+   "text": "Hale sat with his mouth a little open on the word he hadn’t said.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 114,
+   "para": "p63",
+   "type": "narration",
+   "text": "He shut it, and picked up his stick from where it leaned against the chair, and looked at it, and put it down again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p64",
+   "type": "speech",
+   "text": "“Keeps the old customs,”",
+   "speaker": "Hale",
+   "mood": "tension"
+  },
+  {
+   "seq": 116,
+   "para": "p64",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "tension"
+  },
+  {
+   "seq": 117,
+   "para": "p64",
+   "type": "speech",
+   "text": "“I meant. The noon bell. The facing east. The words.”",
+   "speaker": "Hale",
+   "mood": "tension"
+  },
+  {
+   "seq": 118,
+   "para": "p64",
+   "type": "narration",
+   "text": "He turned a page of the black book that didn’t need turning.",
+   "mood": "tension"
+  },
+  {
+   "seq": 119,
+   "para": "p64",
+   "type": "speech",
+   "text": "“That’s what I meant.”",
+   "speaker": "Hale",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 120,
+   "para": "p65",
+   "type": "narration",
+   "text": "It was the worst lie she’d ever heard. She’d heard better from first-years caught out of bed after the bell. He knew it, too. He sat under the lamp with his big tired face gone grey, and didn’t look at her, and didn’t look at the door at the end of the archive either. He was working hard at not looking at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p66",
+   "type": "narration",
+   "text": "At noon she’d sat on the bench and waited him out and got nothing. She’d been on the river watch since she was seventeen; she knew how to catch a man in a lie and hold him in it until he gave you the rest. She had him now. She could see him waiting for her to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p67",
+   "type": "narration",
+   "text": "She didn’t. Because he was an old man with a bad hip who’d been kind to her when no one else at Greyhold had, and who’d told her about the gate, and who’d said",
+   "mood": "tender"
+  },
+  {
+   "seq": 123,
+   "para": "p67",
+   "type": "remembered",
+   "text": "I’d like to see it, one day, before I die.",
+   "speaker": "Hale",
+   "mood": "tender"
+  },
+  {
+   "seq": 124,
+   "para": "p67",
+   "type": "narration",
+   "text": "And because it wasn’t a liar’s face. It was the face of a man carrying something very heavy up a very long stair, who’s just stumbled, and caught himself, and is standing there with his heart going, waiting to see if it’s going to fall.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p68",
+   "type": "speech",
+   "text": "“Thank you, Warden,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 126,
+   "para": "p68",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 127,
+   "para": "p68",
+   "type": "speech",
+   "text": "“For telling me about the oath.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p69",
+   "type": "speech",
+   "text": "“Ashdown,”",
+   "speaker": "Hale",
+   "how": "very quietly",
+   "mood": "quiet"
+  },
+  {
+   "seq": 129,
+   "para": "p69",
+   "type": "narration",
+   "text": "he said. Very quietly.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p70",
+   "type": "speech",
+   "text": "“Yes?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p71",
+   "type": "narration",
+   "text": "He shook his head, and picked up the black book, and held it closed in his big hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Go to your muck.”",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p73",
+   "type": "narration",
+   "text": "Over the inside of the archive door, where you only saw it on your way out, someone had carved a line three hundred years ago.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 134,
+   "para": "p73",
+   "type": "written",
+   "text": "What is written here is true. What is true is not all written here.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 135,
+   "para": "p73",
+   "type": "narration",
+   "text": "The first archivist, Hale said, as a joke. He said it had taken him thirty years to understand it wasn’t.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p74",
+   "type": "narration",
+   "text": "She looked back once from the door. He was sitting as she’d left him, with the book closed in his hands, and at his belt among the keys, longer than the rest, black and heavy and plain, the one she knew now would fit a lock as big as a man’s hand.",
+   "mood": "dread",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 137,
+   "para": "p75",
+   "type": "narration",
+   "text": "She went to the island that night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p76",
+   "type": "narration",
+   "text": "She hadn’t meant to. She’d done her muck, thirty-one stalls by lantern light, and been to supper at the ferry house, and sat on her cot in the dormitory with the shutters closed and the others asleep. And she’d thought about a black door with no handle, and a line at the top of a page."
+  },
+  {
+   "seq": 139,
+   "para": "p76",
+   "type": "written",
+   "text": "From the closing."
+  },
+  {
+   "seq": 140,
+   "para": "p76",
+   "type": "narration",
+   "text": "A square with a line through it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p77",
+   "type": "narration",
+   "text": "She’d got up, and put her coat on, and gone out the postern and up the River Road to Redwatch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p78",
+   "type": "narration",
+   "text": "Ottery was there with the punt. She hadn’t sent for him. He was just there, at the bottom of the steps, in the stern in the dark with his pipe.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p79",
+   "type": "speech",
+   "text": "“Your mother sent word up with the flour boat,”",
+   "speaker": "Ottery",
+   "mood": "tender"
+  },
+  {
+   "seq": 144,
+   "para": "p79",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "tender"
+  },
+  {
+   "seq": 145,
+   "para": "p79",
+   "type": "speech",
+   "text": "“She said you had a face on you.”",
+   "speaker": "Ottery",
+   "mood": "tender"
+  },
+  {
+   "seq": 146,
+   "para": "p79",
+   "type": "narration",
+   "text": "He handed her the pole.",
+   "mood": "tender"
+  },
+  {
+   "seq": 147,
+   "para": "p79",
+   "type": "speech",
+   "text": "“She says to tell her when you’re back.”",
+   "speaker": "Ottery",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p80",
+   "type": "narration",
+   "text": "She poled them across. Half a league of black water, in the dark. Her ribs had mended enough. She didn’t light a lamp; she knew the river now, every bend and every snag, as she knew the stalls in the Long Barn. At the island Ottery took the punt into the reeds at the mouth of the west channel and sat there with the boathook across his knees, and she went up the stream.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p81",
+   "type": "narration",
+   "text": "She’d brought nothing. Not the hammer, not the chisel, not kindling, not a cup. She’d decided on the river. Empty hands. Nothing it could see and think about.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p82",
+   "type": "narration",
+   "text": "She came to her place on the bank, and walked on past it. Five paces, toward the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p83",
+   "type": "narration",
+   "text": "She sat down at fifteen paces.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 152,
+   "para": "p84",
+   "type": "narration",
+   "text": "The lion came down at the hour, out of the trees on the far side, and stopped at the edge of them, and looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p85",
+   "type": "narration",
+   "text": "It saw where she was. Its head came up a little. It looked at the place on the bank where she always sat, twenty paces off, and at the place where she was now, closer to the water, closer to it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p86",
+   "type": "narration",
+   "text": "She didn’t move. She’d decided that on the river too. She sat with her hands open on her knees and looked at the water, and felt her whole body go cold as it always did, and didn’t move.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 155,
+   "para": "p87",
+   "type": "narration",
+   "text": "She could hear it breathing across the stream. She could feel the ground under her, very faint, tremble.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p88",
+   "type": "narration",
+   "text": "It didn’t drink. It looked at her empty hands. At her pockets. At the place by the water where her fire usually was, and the flat grey stone where she’d laid the iron, and the cold grass where it had lain down last time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p89",
+   "type": "narration",
+   "text": "It came down to the water, slowly, and lay down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p90",
+   "type": "narration",
+   "text": "Not at the edge of the trees, where it had lain before. At the water’s edge, on its own side, with its great forepaws almost in the stream and its head up, facing her. The collar on its neck, the cut chain lying in the wet grass. Fifteen paces. The nearest it had ever chosen to be.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 159,
+   "para": "p91",
+   "type": "narration",
+   "text": "She sat with her hands open, and it lay there, and between them the stream went over the stones in the dark.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p92",
+   "type": "narration",
+   "text": "The lion lifted its head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p93",
+   "type": "narration",
+   "text": "It lifted it sharply, like a dog hearing its name, and turned it. Not toward her. Away, south-west, downriver, across the dark of the west channel and the Hearthmere bank beyond. Toward Greyhold.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 162,
+   "para": "p94",
+   "type": "narration",
+   "text": "It held it there. Ears forward. Eyes on the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p95",
+   "type": "narration",
+   "text": "Under her, the ground hummed. Faint. Very faint. Like a bowl of bronze that someone had touched with one finger, once, a long way off.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 164,
+   "para": "p96",
+   "type": "narration",
+   "text": "The lion lowered its head onto its forepaws at the edge of the stream, and looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p97",
+   "type": "narration",
+   "text": "She sat there until it got up and went.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  }
+ ]
+}

@@ -1,0 +1,1584 @@
+{
+ "chapter": 73,
+ "title": "Hollin Knowe",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Seventy-three.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Hollin Knowe.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "She smelled it before she saw it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "Halfway up the long slope of Hollin Knowe in the dark, running, with the river watch sword in her hand and her burned palms, tight and shiny from Liss’s word, split again on the grip and bleeding through the rags, she smelled it on the wind coming down off the top. Thick. Sweet. Like honey left too long on the fire.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "She stopped dead in the heather.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "thought",
+   "text": "Honey-smoke.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "The island hunters had burned it in the autumn, on the spit, to keep the lion asleep while they chained it. It had come off the barge at the Redwatch landing on the morning Bracken died. Calder Fenn’s dragons had burned a tent full of it at the Ewe Beck, and the wind had brought the smell of it across the river that night to the wall at Greyhold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "It was coming down off the top of the knowe.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "She ran.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "There was light at the top. Red. Low. Pots of it, on poles, round the ring of beacon-stones, burning, with the thick sweet smoke coming up off them and lying along the top of the knowe in the still night like fog in a hollow. And men. A dozen, more, in the coats of a company, a yellow tower on blue. With spears. With chain.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "In the middle of the beacon-stones, in the smoke, the lion.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "It was lying down. On its side. The way she’d seen it lying on the spit in the autumn, with the hunters’ chain on it. Its great head on the heather. Its flanks going, slow, heavy, like a beast asleep. Chain over it. Across its shoulders and its haunches and round its forelegs, the long beast-chains staked into the ground at both ends, with men leaning on the stakes.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "narration",
+   "text": "At its head, a man.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p12",
+   "type": "narration",
+   "text": "Kneeling. In grey. With his hand flat on the lion’s head, between its eyes, where the mane began.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p13",
+   "type": "narration",
+   "text": "She knew him. She’d seen him once, standing in the stern of a barge at the Redwatch landing at dawn with his arm out, not fighting, while six silent hounds moved when his arm moved and Bracken went down under two of them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p14",
+   "type": "narration",
+   "text": "He was talking. Low. Steady. The same words, over and over, that she couldn’t hear.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p15",
+   "type": "narration",
+   "text": "On the heather beside his knee, open on its hinge, lay a collar. New. Black. Big enough for the lion’s neck. Something had been scratched on the inside of the curve, where Odo’s hammers would be: a line of small square letters with hooks at the ends of the strokes, like the letters on the arch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p16",
+   "type": "narration",
+   "text": "The lion’s eyes were open. She could see them in the red light of the pots. Pale. Looking at nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p17",
+   "type": "narration",
+   "text": "Going.",
+   "mood": "dread",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 20,
+   "para": "p18",
+   "type": "narration",
+   "text": "She went through them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p19",
+   "type": "narration",
+   "text": "Pell, sitting down in the gateway.",
+   "mood": "action"
+  },
+  {
+   "seq": 22,
+   "para": "p19",
+   "type": "remembered",
+   "text": "Subdue. Don’t kill. Unless you have to.",
+   "speaker": "Pell",
+   "mood": "action"
+  },
+  {
+   "seq": 23,
+   "para": "p19",
+   "type": "narration",
+   "text": "She came up over the edge of the knowe out of the dark into the red smoke with the sword, and they hadn’t been watching the slope, they’d been watching the lion, and the first two went down before they knew she was there. Subdue. The flat. The weapon arm. The knee. The third turned with a spear and flung his free hand up at her face and said a word, one hard word, and the world went white. White as the lamps on the wall at noon. She was blind. She closed on him blind, the way Pell had taught her a thousand times at the straw men, by the sound of his feet, close and take the weapon arm, and he went down, and the white went to red and then to the smoke and the pots again. The fourth had a crossbow and was lifting it, not at her, past her, at the lion, and she did what she had to.",
+   "mood": "action"
+  },
+  {
+   "seq": 24,
+   "para": "p19",
+   "type": "remembered",
+   "text": "Unless you have to.",
+   "speaker": "Pell",
+   "mood": "action"
+  },
+  {
+   "seq": 25,
+   "para": "p19",
+   "type": "narration",
+   "text": "And the fifth.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p20",
+   "type": "narration",
+   "text": "Then she was at the lion’s head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p21",
+   "type": "narration",
+   "text": "The man in grey looked up at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p22",
+   "type": "narration",
+   "text": "He didn’t stop talking. His hand didn’t come off the lion’s head. He looked up at her with a calm, tired, ordinary face, a clerk’s face, and the words went on, low and steady, and she saw his lips make them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p23",
+   "type": "speech",
+   "text": "You’re chosen now. You’re chosen now. You’re chosen now.",
+   "speaker": "the man in grey",
+   "how": "low, steady, over and over",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 30,
+   "para": "p24",
+   "type": "narration",
+   "text": "She hit him with the flat of the sword across the side of the head, and he went over sideways into the heather, and his hand came off the lion.",
+   "mood": "action",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 31,
+   "para": "p25",
+   "type": "narration",
+   "text": "She knelt down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p26",
+   "type": "narration",
+   "text": "The lion’s head was on the heather in front of her. Its eyes were open, pale, in the red light. Looking at nothing. There was nothing in them. Or nearly nothing. A little, very far back. Going. The way a light goes down a long passage, further and further, smaller and smaller.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 33,
+   "para": "p27",
+   "type": "narration",
+   "text": "She knew what it was. She’d seen it on Old Grey in Greyhold’s gateway, and on the hounds at the Redwatch landing. Eyes with nobody behind them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p28",
+   "type": "narration",
+   "text": "Not nobody yet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p29",
+   "type": "narration",
+   "text": "She put her hand where his had been.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 36,
+   "para": "p30",
+   "type": "narration",
+   "text": "It took hold of her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p31",
+   "type": "narration",
+   "text": "She hadn’t known. Nobody had ever told her. She’d thought it would be like putting your hand on a door, or a horse’s flank, or the lion’s mane in the arch on the night the river went out: warm, and the hum coming up through her palm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p32",
+   "type": "narration",
+   "text": "It pulled.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p33",
+   "type": "narration",
+   "text": "The smoke had opened it. That was what the honey-smoke was for: to open it. The way sleep opens a sleeper, so that whatever’s there can come out, and whatever’s waiting can come in. The lion was open under her hand like a door with the wind behind it, and through the door, everything in her was going.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p34",
+   "type": "narration",
+   "text": "She felt it go. Out of her palm. Out of her arm. Out of her chest. Like the river going out through a sluice when the paddles are drawn. Everything. Her breath. Her warmth. Her father’s face. Liss on the red door with the lantern. Tam crying in the smoke. Pell sitting down. Fourteen pages about a roadblock. The ice, and the rope parting. The arch. The pit. The scale. All of it, going out of her into the open door under her hand, faster and faster.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p35",
+   "type": "narration",
+   "text": "It would take all of her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p36",
+   "type": "narration",
+   "text": "She knew that. She knew it as you know, on the ice, that the next step won’t hold. It would take everything there was and there’d be nothing left of Maren Ashdown kneeling in the heather on Hollin Knowe but a woman with her hand on a lion’s head and her eyes like windows.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 43,
+   "para": "p37",
+   "type": "thought",
+   "text": "That’s what his will was for,",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 44,
+   "para": "p37",
+   "type": "narration",
+   "text": "she thought. Very clearly. As if somebody else were thinking it."
+  },
+  {
+   "seq": 45,
+   "para": "p37",
+   "type": "thought",
+   "text": "The man in grey. He had his hand here and he didn’t go. He wasn’t giving. He was holding himself shut and pouring his will in, a little, through a crack, to fill it up when the lion went out. He was taking.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p38",
+   "type": "narration",
+   "text": "She wasn’t holding herself shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p39",
+   "type": "narration",
+   "text": "She could. She knew she could. She could pull her hand back now, while there was still enough of her to pull it, and the lion would lie there with the door open and the light going down the passage and nothing coming in, and in the morning it would be empty and nobody’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p40",
+   "type": "narration",
+   "text": "She didn’t pull her hand back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p41",
+   "type": "narration",
+   "text": "She didn’t have words for it. There was nothing to put words into; it couldn’t understand words; it never had. So she didn’t use words. She just stopped holding on. To any of it. She let it all go through her hand into the door, everything, the way she’d let go of the rope on the ice when it parted, and she thought it as hard as she’d ever thought anything, not in words, in the shape of words:",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p42",
+   "type": "thought",
+   "text": "All of it. Take it. Not him. Not anyone. Me.",
+   "speaker": "Maren",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 51,
+   "para": "p43",
+   "type": "narration",
+   "text": "It accepted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p44",
+   "type": "narration",
+   "text": "She felt it happen. Everything in her going out through her hand into the open door, faster and faster, the last of it, and she was nearly gone, she was a thin thing at the end of her own arm, a voice at the end of a long passage, and then…",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 53,
+   "para": "p45",
+   "type": "narration",
+   "text": "Something came the other way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p46",
+   "type": "narration",
+   "text": "Up the passage. Out of the dark. Toward her. Not pulling. Coming, very large. It met her. Where she was going out and it was coming up, in the middle, in the door, it met her, and it didn’t take her. It stopped her going. It stood in the passage and held her there, as you’d catch somebody falling down a stair.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 55,
+   "para": "p47",
+   "type": "narration",
+   "text": "The door shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p48",
+   "type": "narration",
+   "text": "Over both of them. With both of them on the same side of it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 57,
+   "para": "p49",
+   "type": "bond",
+   "text": "You,",
+   "speaker": "Orrun",
+   "listener": "Maren",
+   "how": "very slow, very deep"
+  },
+  {
+   "seq": 58,
+   "para": "p49",
+   "type": "narration",
+   "text": "said a voice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p50",
+   "type": "narration",
+   "text": "In her head, not her ears. Very slow. Very deep. Like stones turning over in a riverbed. Like the hum, if the hum had a voice.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 60,
+   "para": "p51",
+   "type": "narration",
+   "text": "She was lying in the heather. She didn’t remember falling. Her hand was still on its head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p52",
+   "type": "bond",
+   "text": "You,",
+   "speaker": "Orrun",
+   "listener": "Maren"
+  },
+  {
+   "seq": 62,
+   "para": "p52",
+   "type": "narration",
+   "text": "said the voice again."
+  },
+  {
+   "seq": 63,
+   "para": "p52",
+   "type": "bond",
+   "text": "You came back.",
+   "speaker": "Orrun",
+   "listener": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p53",
+   "type": "narration",
+   "text": "She couldn’t speak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p54",
+   "type": "bond",
+   "text": "You came back with iron. In the autumn. To my neck. And I put you under my foot.",
+   "speaker": "Orrun",
+   "listener": "Maren"
+  },
+  {
+   "seq": 66,
+   "para": "p54",
+   "type": "narration",
+   "text": "A long slow pause, like the ground settling."
+  },
+  {
+   "seq": 67,
+   "para": "p54",
+   "type": "bond",
+   "text": "And then you came back with iron again. And put it down on a stone. And went away. And came back. And put it down.",
+   "speaker": "Orrun",
+   "listener": "Maren"
+  },
+  {
+   "seq": 68,
+   "para": "p54",
+   "type": "narration",
+   "text": "Another pause."
+  },
+  {
+   "seq": 69,
+   "para": "p54",
+   "type": "bond",
+   "text": "And knelt in the mud and put your hands on your knees.",
+   "speaker": "Orrun",
+   "listener": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p55",
+   "type": "speech",
+   "text": "“Yes,”",
+   "speaker": "Maren",
+   "how": "a thread"
+  },
+  {
+   "seq": 71,
+   "para": "p55",
+   "type": "narration",
+   "text": "said Maren. Out loud. Her voice was a thread.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p56",
+   "type": "bond",
+   "text": "I didn’t know what you said,",
+   "speaker": "Orrun",
+   "listener": "Maren",
+   "mood": "tender"
+  },
+  {
+   "seq": 73,
+   "para": "p56",
+   "type": "narration",
+   "text": "said the voice.",
+   "mood": "tender"
+  },
+  {
+   "seq": 74,
+   "para": "p56",
+   "type": "bond",
+   "text": "All winter. All the words. In the arch. In the pit. I didn’t know any of it.",
+   "speaker": "Orrun",
+   "listener": "Maren",
+   "mood": "tender"
+  },
+  {
+   "seq": 75,
+   "para": "p56",
+   "type": "narration",
+   "text": "It was quiet.",
+   "mood": "tender"
+  },
+  {
+   "seq": 76,
+   "para": "p56",
+   "type": "bond",
+   "text": "I knew you said them.",
+   "speaker": "Orrun",
+   "listener": "Maren",
+   "how": "quiet",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p57",
+   "type": "narration",
+   "text": "She lay in the heather with her hand on its head and the tears running sideways down her face into her hair.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p58",
+   "type": "narration",
+   "text": "She knew its name.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p59",
+   "type": "narration",
+   "text": "Nobody told her. It didn’t say it. She just knew it, all at once. It was there. In the door. Where they’d met.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p60",
+   "type": "thought",
+   "text": "Orrun.",
+   "speaker": "Maren",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 81,
+   "para": "p61",
+   "type": "narration",
+   "text": "The chains broke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p62",
+   "type": "narration",
+   "text": "She felt it coming before it came. Through the bond. Through her hand. A great slow heave from very deep down, from the ground, from under the knowe, coming up. Orrun’s eyes weren’t empty any more. They were full. Full of red smoke-light and the dark sky and her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p63",
+   "type": "narration",
+   "text": "And full of anger.",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p64",
+   "type": "narration",
+   "text": "The ground on the top of Hollin Knowe moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p65",
+   "type": "narration",
+   "text": "It heaved. Under the heather. Under the stakes. The stakes came up out of the earth like teeth being pulled, all of them at once, with the chains still on them, and the men leaning on them went over backward. The beacon-stones moved. The great grey boulders of the old watch-fire ring, each as big as a cart, that had stood on the knowe since before Hallowmere, rocked, and rolled, and two of them went over with a sound like a quay wall going into the river.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p66",
+   "type": "narration",
+   "text": "Orrun stood up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p67",
+   "type": "narration",
+   "text": "Out of the smoke. Out of the chains. The chains fell off it in pieces as it stood, the links breaking, she heard them go, crack, crack, like ice. It stood up over her in the red light, enormous, bigger than she’d ever seen it, ten feet at the shoulder and more, with its mane up round its head and the broken chain falling off its back, and the honey-smoke pots round the beacon-stones went over in the heaving ground and the burning stuff ran out over the heather.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 88,
+   "para": "p68",
+   "type": "narration",
+   "text": "And the knowe stood up beside him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p69",
+   "type": "narration",
+   "text": "The ground on his left side, between him and the nearest of the beacon-stones, went on heaving after the rest had stopped. Heather and turf and the grey stone under the turf, rising. It had a shoulder. It had a mane of broken rock and roots. It had a head. It came up out of the hill all at once, and stood there in the red light beside him, his height, his shape, with soil pouring off its back and two hollows where the eyes should be, and in each, very far back, a pale light.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 90,
+   "para": "p70",
+   "type": "narration",
+   "text": "Two lions on Hollin Knowe.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p71",
+   "type": "narration",
+   "text": "Some of Delling’s men had kept hold of the chains. Six of them, with spears, coming back in at Orrun from the far side of the ring, shouting to each other like men who’ve been paid for a thing and mean to have it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p72",
+   "type": "narration",
+   "text": "The earth one went at them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p73",
+   "type": "narration",
+   "text": "It was as strong as he was. She felt that through the bond, as you know your two hands are the same hand. A spear went into its chest and broke, and the shaft stuck out of the turf there like a stake out of a bank. It took a man under its forefoot and he didn’t get up. It took the chain out of two others’ hands with its jaws, links and all, and shook it, and the men let go and ran, and then they all ran.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p74",
+   "type": "narration",
+   "text": "It lasted the time it takes a bell to ring the noon. No longer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p75",
+   "type": "narration",
+   "text": "Then it stopped where it stood, at the edge of the beacon-stones, and lowered its head, and went back into the knowe. Going down, like water into sand. The heather closed over the place.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p76",
+   "type": "narration",
+   "text": "She felt it go. Not out of the hill. Out of him. Through the bond, warm and steady, like blood out of a cut. Orrun’s legs shook under him. He stood over her with his head low and his flanks going like a bellows, and for a breath he seemed smaller to her than he had ever been.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p77",
+   "type": "narration",
+   "text": "The man in grey didn’t run. He was getting up out of the heather where she’d knocked him, with blood on the side of his head, and his arm going up, the way it went up at the Redwatch landing when the hounds moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p78",
+   "type": "narration",
+   "text": "Nothing moved for him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p79",
+   "type": "narration",
+   "text": "He stood there with his arm up, looking at the lion that should have been his. At its eyes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p80",
+   "type": "narration",
+   "text": "The beacon-stone behind him rolled.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 101,
+   "para": "p81",
+   "type": "narration",
+   "text": "It was over very fast.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p82",
+   "type": "narration",
+   "text": "She lay in the heather on the top of Hollin Knowe in the light of the burning smoke-pots and felt it. Through the bond. Everything Orrun felt. The rage going out of it. A hollow in it where the thing on the knowe had come out of it, filling, a little at a time. The smoke still sour in its throat. The chain-galls on its legs, raw, stinging. And under all of it, so huge she couldn’t see the edges, something else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p83",
+   "type": "narration",
+   "text": "The island. The door. The pit. The stone under its claws. Scraping. All winter. Every night. And something below, a long way down, under a mile of rock, breathing. Turning."
+  },
+  {
+   "seq": 104,
+   "para": "p83",
+   "type": "thought",
+   "text": "Kin.",
+   "speaker": "Orrun"
+  },
+  {
+   "seq": 105,
+   "para": "p83",
+   "type": "narration",
+   "text": "A pull, like a hound’s toward its master’s grave.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p84",
+   "type": "narration",
+   "text": "And her. A woman at ten paces. Talking. Talking and talking, in the arch, in the pit, all winter, in a noise it couldn’t make anything of, and it had lain there and let her, and it hadn’t known why.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p85",
+   "type": "bond",
+   "text": "Now I know why,",
+   "speaker": "Orrun",
+   "listener": "Maren"
+  },
+  {
+   "seq": 108,
+   "para": "p85",
+   "type": "narration",
+   "text": "said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p86",
+   "type": "narration",
+   "text": "She lay with her hand flat on its foreleg.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p87",
+   "type": "bond",
+   "text": "You were keeping a watch too,",
+   "speaker": "Orrun",
+   "listener": "Maren",
+   "mood": "tender"
+  },
+  {
+   "seq": 111,
+   "para": "p87",
+   "type": "narration",
+   "text": "it said.",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 112,
+   "para": "p88",
+   "type": "narration",
+   "text": "The green dragon came down in the heather ten paces off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p89",
+   "type": "narration",
+   "text": "She didn’t hear it come. One moment the sky over the knowe was dark and empty and full of the smoke of the burning pots. The next there was a sound like a sail filling, and wind, and the heather flattened, and something long and green and slender was standing on the edge of the knowe in the red light, folding its wings.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p90",
+   "type": "narration",
+   "text": "Twelve feet at the shoulder. Long. Lean. Green as a beetle’s back, bronze at the edges. Pale green eyes. She knew the colour of the scales. She’d held one in her lap all night by the fire in the ferry house.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p91",
+   "type": "narration",
+   "text": "It stood there and came no closer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p92",
+   "type": "narration",
+   "text": "On its left horn there was a ribbon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p93",
+   "type": "narration",
+   "text": "Blue. Washed and faded. Tied in a bow. A child’s hair-ribbon.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p94",
+   "type": "narration",
+   "text": "Maren sat up in the heather.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p95",
+   "type": "remembered",
+   "text": "A girl called Wren,",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 120,
+   "para": "p95",
+   "type": "narration",
+   "text": "said Liss, by the fire, with her mending in her lap."
+  },
+  {
+   "seq": 121,
+   "para": "p95",
+   "type": "remembered",
+   "text": "Nine or ten. Thin, with a lot of hair. And a green dragon came down out of the cloud and went along the river so low its wings were in the water. And on its horn, a ribbon. Blue. Tied in a bow.",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p96",
+   "type": "thought",
+   "text": "Wren’s,",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 123,
+   "para": "p96",
+   "type": "narration",
+   "text": "she thought.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p97",
+   "type": "thought",
+   "text": "The farmer.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p98",
+   "type": "thought",
+   "text": "He sent it. He sent it to me.",
+   "speaker": "Maren",
+   "mood": "quiet",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 126,
+   "para": "p99",
+   "type": "narration",
+   "text": "The dragon had something in its front claw. It put it down. Carefully, on the heather. Then it backed away from it, two steps, three, and stood there, and waited. Looking at her with its pale green eyes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p100",
+   "type": "narration",
+   "text": "Waiting for her to come to it. The way the lion had waited for her to come to the hammer and chisel on the stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p101",
+   "type": "narration",
+   "text": "She got up. Her legs nearly didn’t hold her. Orrun stood beside her. She went across in the red light to the thing in the heather and knelt down by it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p102",
+   "type": "narration",
+   "text": "A bundle. Small. Wrapped in a strip of grey cloth. Linen, old, a shirt-tail. Tied with a thread.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p103",
+   "type": "narration",
+   "text": "On the outside of the cloth, burned into it, brown and black and ragged, as if somebody had done it with a coal from a fire, three letters.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p104",
+   "type": "narration",
+   "text": "T W O.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p105",
+   "type": "narration",
+   "text": "She untied the thread.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p106",
+   "type": "narration",
+   "text": "Chain. Five links. Heavy, dark, good iron, the last link cut. On every link, small and neat, the ring of six. She turned the last link over in the firelight and rubbed at the inside of the curve with her thumb, though she knew what she’d find there. Two little hammers, crossed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p107",
+   "type": "narration",
+   "text": "She knelt in the heather with the chain in one hand and the strip of shirt in the other.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p108",
+   "type": "written",
+   "text": "TWO.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p109",
+   "type": "narration",
+   "text": "She looked up at the dragon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p110",
+   "type": "speech",
+   "text": "“I can’t hear you,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 138,
+   "para": "p110",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 139,
+   "para": "p110",
+   "type": "speech",
+   "text": "“I’m sorry. I don’t know what he… I can’t hear you.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p111",
+   "type": "narration",
+   "text": "The green dragon looked at her. It made a small sound in its throat, like a question.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p112",
+   "type": "narration",
+   "text": "Beside her, Orrun moved.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 142,
+   "para": "p113",
+   "type": "narration",
+   "text": "He lowered his head toward the dragon. The dragon lowered hers, and they stood there, the lion and the green dragon, with their heads low in the red light, looking at each other.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p114",
+   "type": "narration",
+   "text": "She felt it through the bond.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p115",
+   "type": "narration",
+   "text": "No words, at first. A kind of hum between them. The way the ground had hummed under the archive. Something going across between them that she couldn’t hear, and then could. Through him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p116",
+   "type": "bond",
+   "text": "Kin,",
+   "speaker": "Orrun",
+   "listener": "Maren",
+   "how": "surprised",
+   "mood": "awe"
+  },
+  {
+   "seq": 146,
+   "para": "p116",
+   "type": "narration",
+   "text": "said Orrun, as if he were surprised.",
+   "mood": "awe"
+  },
+  {
+   "seq": 147,
+   "para": "p116",
+   "type": "bond",
+   "text": "She is kin. Far off. A long way back. But kin.",
+   "speaker": "Orrun",
+   "listener": "Maren",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 148,
+   "para": "p117",
+   "type": "bond",
+   "text": "What’s she saying?",
+   "speaker": "Maren",
+   "listener": "Orrun",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p118",
+   "type": "narration",
+   "text": "Orrun was quiet. Listening. She felt him listen. She felt something come across to him from the dragon, fast and high and frightened, a bright small voice, like a bird, saying the same thing over and over.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p119",
+   "type": "bond",
+   "text": "She says two locks,",
+   "speaker": "Orrun",
+   "listener": "Maren"
+  },
+  {
+   "seq": 151,
+   "para": "p119",
+   "type": "narration",
+   "text": "said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p120",
+   "type": "narration",
+   "text": "Maren stopped breathing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p121",
+   "type": "bond",
+   "text": "She says: one under the tower on the island. In the floor. One under the school.",
+   "speaker": "Orrun",
+   "listener": "Maren"
+  },
+  {
+   "seq": 154,
+   "para": "p121",
+   "type": "narration",
+   "text": "Orrun’s great head turned south and east. Toward Greyhold. Four leagues off in the dark."
+  },
+  {
+   "seq": 155,
+   "para": "p121",
+   "type": "bond",
+   "text": "She says: at midnight. Both. In the same breath. The still one at the tower. The other one under the school. If one turns and the other doesn’t, nothing opens. Both, or nothing.",
+   "speaker": "Orrun",
+   "listener": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p122",
+   "type": "narration",
+   "text": "The green dragon was still saying it. Over and over. Maren could feel the shape of it now, through Orrun. Desperate. Like a child saying a lesson she’s been made to learn by heart.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p123",
+   "type": "bond",
+   "text": "She says he said tell her.",
+   "speaker": "Orrun",
+   "listener": "Maren"
+  },
+  {
+   "seq": 158,
+   "para": "p123",
+   "type": "narration",
+   "text": "Orrun was quiet a moment."
+  },
+  {
+   "seq": 159,
+   "para": "p123",
+   "type": "bond",
+   "text": "He said she’d know about two.",
+   "speaker": "Orrun",
+   "listener": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p124",
+   "type": "bond",
+   "text": "She’s been in the trees since noon,",
+   "speaker": "Orrun",
+   "listener": "Maren",
+   "mood": "tender"
+  },
+  {
+   "seq": 161,
+   "para": "p124",
+   "type": "narration",
+   "text": "said Orrun.",
+   "mood": "tender"
+  },
+  {
+   "seq": 162,
+   "para": "p124",
+   "type": "bond",
+   "text": "At the edge of the wood. Watching me. She found me on the hill in the morning and didn’t dare come down. She was waiting for you. She saw the men come with the smoke, and she was too small, and too frightened, and she stayed in the trees.",
+   "speaker": "Orrun",
+   "listener": "Maren",
+   "mood": "tender"
+  },
+  {
+   "seq": 163,
+   "para": "p124",
+   "type": "narration",
+   "text": "A pause.",
+   "mood": "tender"
+  },
+  {
+   "seq": 164,
+   "para": "p124",
+   "type": "bond",
+   "text": "She’s sorry. She keeps saying it. She’s sorry.",
+   "speaker": "Orrun",
+   "listener": "Maren",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 165,
+   "para": "p125",
+   "type": "narration",
+   "text": "She knew about two.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p126",
+   "type": "narration",
+   "text": "She knelt in the heather on the top of Hollin Knowe with the chain in her hand and she knew. All at once. The way the river goes out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p127",
+   "type": "narration",
+   "text": "A black door at the end of the archive, three steps down, with no handle and a lock as big as a man’s hand. Warm, under her palm. Something far below turning its attention toward her hand."
+  },
+  {
+   "seq": 168,
+   "para": "p127",
+   "type": "remembered",
+   "text": "The Watch goes down once.",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 169,
+   "para": "p127",
+   "type": "narration",
+   "text": "Hale’s long black key.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p128",
+   "type": "narration",
+   "text": "The verse over the arch on the island, in her own notebook, with the ink run."
+  },
+  {
+   "seq": 171,
+   "para": "p128",
+   "type": "written",
+   "text": "The last … sleeps below the stone. Let no hand wake it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p129",
+   "type": "narration",
+   "text": "A man on a smithy roof at Ferriby with two fingers lifted, the same day another man stood on the Tidesteps at Wendmouth, a hundred leagues off."
+  },
+  {
+   "seq": 173,
+   "para": "p129",
+   "type": "thought",
+   "text": "The man in two places.",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 174,
+   "para": "p129",
+   "type": "narration",
+   "text": "A face that knew her name in the dark at Ferriby and didn’t know it at all on the hedge-wain."
+  },
+  {
+   "seq": 175,
+   "para": "p129",
+   "type": "remembered",
+   "text": "The crowd,",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 176,
+   "para": "p129",
+   "type": "narration",
+   "text": "she’d told herself. The river said he had some old beast’s gift. She’d just seen an old beast’s gift, standing up out of the hill, and it had cost Orrun like blood. No man was paying that twice a week to be seen on the Tidesteps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p130",
+   "type": "thought",
+   "text": "Two.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p131",
+   "type": "remembered",
+   "text": "He opens the river gate tomorrow night,",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 179,
+   "para": "p131",
+   "type": "narration",
+   "text": "Tobin had said, at the barricade, with the fire behind him."
+  },
+  {
+   "seq": 180,
+   "para": "p131",
+   "type": "remembered",
+   "text": "In the third hour. And takes them down. Under the school.",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p132",
+   "type": "narration",
+   "text": "A little while ago, lying in the heather with her hand on the lion and the bond still settling through her like silt, she’d heard Greyhold’s bells come faint across four leagues of fields. Ringing and ringing. And then, all at once, in the middle of a stroke, stop.",
+   "mood": "dread",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 182,
+   "para": "p133",
+   "type": "narration",
+   "text": "She stood up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p134",
+   "type": "speech",
+   "text": "“What hour is it?”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 184,
+   "para": "p134",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p135",
+   "type": "bond",
+   "text": "The fourth,",
+   "speaker": "Orrun",
+   "listener": "Maren"
+  },
+  {
+   "seq": 186,
+   "para": "p135",
+   "type": "narration",
+   "text": "said Orrun."
+  },
+  {
+   "seq": 187,
+   "para": "p135",
+   "type": "bond",
+   "text": "Or nearly.",
+   "speaker": "Orrun",
+   "listener": "Maren"
+  },
+  {
+   "seq": 188,
+   "para": "p135",
+   "type": "narration",
+   "text": "He didn’t look at the stars. He knew it the way he knew the ground."
+  },
+  {
+   "seq": 189,
+   "para": "p135",
+   "type": "bond",
+   "text": "Two more to the middle of the night.",
+   "speaker": "Orrun",
+   "listener": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p136",
+   "type": "narration",
+   "text": "Two hours. Four leagues.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p137",
+   "type": "narration",
+   "text": "She looked at the green dragon, standing in the heather with the ribbon on her horn, waiting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p138",
+   "type": "speech",
+   "text": "“Tell her I heard,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 193,
+   "para": "p138",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 194,
+   "para": "p138",
+   "type": "speech",
+   "text": "“Can you? Tell her I understood. Tell her…”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 195,
+   "para": "p138",
+   "type": "narration",
+   "text": "She didn’t know what."
+  },
+  {
+   "seq": 196,
+   "para": "p138",
+   "type": "speech",
+   "text": "“Tell her I’ve got it. The two. Tell her to tell him.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p139",
+   "type": "narration",
+   "text": "She felt Orrun do it. A hum going across the ten paces. The green dragon’s head came up, all at once, and her pale eyes went wide, and something went across from her to Orrun that came through to Maren like light through a door, bright and wild and so relieved it hurt.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p140",
+   "type": "bond",
+   "text": "She says yes,",
+   "speaker": "Orrun",
+   "listener": "Maren"
+  },
+  {
+   "seq": 199,
+   "para": "p140",
+   "type": "narration",
+   "text": "said Orrun."
+  },
+  {
+   "seq": 200,
+   "para": "p140",
+   "type": "bond",
+   "text": "She says she’ll come. She says she won’t go back without seeing.",
+   "speaker": "Orrun",
+   "listener": "Maren",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 201,
+   "para": "p141",
+   "type": "narration",
+   "text": "She’d never ridden him. She’d never thought of it. She stood beside him on the top of the knowe with the chain wrapped in its strip of shirt inside her shirt, and the river watch sword in her belt, and didn’t know how.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p142",
+   "type": "narration",
+   "text": "He lowered himself.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p143",
+   "type": "narration",
+   "text": "He folded his forelegs under his great chest, the way he’d lain down in the arch, and put his head down on the heather, and waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p144",
+   "type": "bond",
+   "text": "Here,",
+   "speaker": "Orrun",
+   "listener": "Maren"
+  },
+  {
+   "seq": 205,
+   "para": "p144",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 206,
+   "para": "p144",
+   "type": "bond",
+   "text": "Behind the head. In the mane. Hold on.",
+   "speaker": "Orrun",
+   "listener": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p145",
+   "type": "narration",
+   "text": "She got onto his back. Behind the great head, where the mane was thickest, with her knees on either side of his neck and her burned hands knotted in the coarse grey hair to the knuckles. He was warm. The hum came up through her whole body.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p146",
+   "type": "narration",
+   "text": "He stood up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p147",
+   "type": "narration",
+   "text": "She’d never been so high. Not on the wall at Greyhold, not on the top of the Redwatch tower. She sat on his back on the top of Hollin Knowe with the whole night below her, the fields and the river and the island with the fire on it and the long dark line of Greyhold’s hill four leagues off, with no lights in it at all.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 210,
+   "para": "p148",
+   "type": "bond",
+   "text": "Which way?",
+   "speaker": "Orrun",
+   "listener": "Maren"
+  },
+  {
+   "seq": 211,
+   "para": "p148",
+   "type": "narration",
+   "text": "said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p149",
+   "type": "narration",
+   "text": "She pointed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p150",
+   "type": "narration",
+   "text": "He went down off the knowe into the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p151",
+   "type": "narration",
+   "text": "Over them, high, green against the stars, the dragon came too.",
+   "pause_after_ms": 500
+  }
+ ]
+}

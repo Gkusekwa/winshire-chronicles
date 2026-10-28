@@ -1,0 +1,1261 @@
+{
+ "chapter": 46,
+ "title": "The Forbidden Verse",
+ "pov": "Calder",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Forty-six.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Forbidden Verse.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "Old Fisk brought the paper up the river lane on the eighty-ninth day, inside his coat, because he could read and most of Harrow’s End couldn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "He came into Bel’s yard at noon on his stick, red with cold, and stood by the byre door, and didn’t come in, and didn’t say good day. He took the paper out of his coat and held it out to Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "speech",
+   "text": "“Carter brought it over the ice from Millbrook last night,”",
+   "speaker": "Fisk",
+   "mood": "tension"
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "tension"
+  },
+  {
+   "seq": 7,
+   "para": "p3",
+   "type": "speech",
+   "text": "“Off the chapel door. There’s a dozen of them about. They read it out on the ice at Millbrook yesterday at the fair, in front of the whole town. There was a fight. The knights tried to take the man that read it.”",
+   "speaker": "Fisk",
+   "mood": "tension"
+  },
+  {
+   "seq": 8,
+   "para": "p3",
+   "type": "narration",
+   "text": "He looked at the paper in his own hand as if it might bite him.",
+   "mood": "tension"
+  },
+  {
+   "seq": 9,
+   "para": "p3",
+   "type": "speech",
+   "text": "“You’ll want to see it. It’s got you in it.”",
+   "speaker": "Fisk",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 10,
+   "para": "p4",
+   "type": "narration",
+   "text": "Calder took it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p5",
+   "type": "narration",
+   "text": "He could read, a little. Enough to sign his name and count sacks and make out a broadsheet if he went slowly. He went slowly. He stood in Bel’s frozen yard with Mabbin’s long sad face over the byre door beside him and read it, word by word, with his lips moving, and Fisk stood and watched him do it and didn’t help.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p6",
+   "type": "written",
+   "text": "Beneath the fortress-school of Greyhold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p7",
+   "type": "narration",
+   "text": "He read it twice. The second time he didn’t move his lips.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p8",
+   "type": "written",
+   "text": "The last of the great beasts of the old realm. The Titan of the songs. That lay down below when the old ones went into the light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p9",
+   "type": "written",
+   "text": "Keep the watch below, and do not ask. It is a jailer’s oath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p10",
+   "type": "narration",
+   "text": "And at the bottom, under the two words he’d heard three thousand people shout on the Tidesteps at Wendmouth, a smaller part, that Fisk had said had him in it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p11",
+   "type": "written",
+   "text": "The old powers are waking. In the Marches, a farmer, one of the unchosen, has been chosen by three dragons in one night. Nobody has been chosen by three since the one realm. Ask yourselves why it has begun with him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p12",
+   "type": "narration",
+   "text": "He stood in the yard with the paper in his hands.",
+   "mood": "quiet",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 19,
+   "para": "p13",
+   "type": "narration",
+   "text": "By dark, all of Harrow’s End had heard it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p14",
+   "type": "narration",
+   "text": "The ones who’d stayed. Wat Garrow, who came up the river lane to Upper Rush at dusk on the excuse of a borrowed saw and stood in Bel’s kitchen looking at Calder with his face very strange. The Ashby widow, who didn’t come but sent her girl. Two of the Hollins from the next farm, who came to the gate and stood there in the dusk and wouldn’t come in. Fisk, who’d gone back down to the Eelweir with another copy and read it out at the Wheel’s burned doorway to anybody who’d stand and listen, which was everybody.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p15",
+   "type": "narration",
+   "text": "He didn’t need them to tell him what they were saying. He’d heard it on the Tidesteps. He’d heard it at the hedge after the battle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p16",
+   "type": "written",
+   "text": "It’s begun with him. Ask yourselves why.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p17",
+   "type": "speech",
+   "text": "“Calder,”",
+   "speaker": "Bel"
+  },
+  {
+   "seq": 24,
+   "para": "p17",
+   "type": "narration",
+   "text": "said Bel, at supper the next night. She hadn’t looked at him all day."
+  },
+  {
+   "seq": 25,
+   "para": "p17",
+   "type": "speech",
+   "text": "“Is it true?”",
+   "speaker": "Bel",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p18",
+   "type": "speech",
+   "text": "“Is what true?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p19",
+   "type": "speech",
+   "text": "“Any of it. Is there a… thing. Under Greyhold. Under the river.”",
+   "speaker": "Bel",
+   "mood": "tension"
+  },
+  {
+   "seq": 28,
+   "para": "p19",
+   "type": "narration",
+   "text": "She was looking at her plate. Joss beside her was very still, his big hands on the table.",
+   "mood": "tension"
+  },
+  {
+   "seq": 29,
+   "para": "p19",
+   "type": "speech",
+   "text": "“Is there something down there? You go out there. You’ve been on the ice. You’ve been on the island. Your dragons… Do they know? Is it true?”",
+   "speaker": "Bel",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 30,
+   "para": "p20",
+   "type": "narration",
+   "text": "He looked at his sister across the table.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p21",
+   "type": "narration",
+   "text": "He thought of a night on the ice under the black shadow of the bank, a league above the island, and Aurveth lying flat with her throat pressed to the frozen river. Something vast. Bound. Turning. Wrong, like a bone set badly.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 32,
+   "para": "p22",
+   "type": "remembered",
+   "text": "Do not ask me. Not yet.",
+   "speaker": "Aurveth",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p23",
+   "type": "speech",
+   "text": "“I don’t know,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 34,
+   "para": "p23",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p24",
+   "type": "narration",
+   "text": "It was true. He told himself it was true.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p25",
+   "type": "narration",
+   "text": "Across the table, at the end of it, Ada had put down her spoon.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 37,
+   "para": "p26",
+   "type": "narration",
+   "text": "She waited until the children were asleep.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p27",
+   "type": "narration",
+   "text": "Or until she thought they were. Pip and Nan in the loft with Wren, the three of them in a heap under the blankets like puppies. Ada went up the ladder and looked at them, and came down again, and went to the door and put the bar across it. She went to the shutters and closed them, both, and barred those too. She stood a moment at the hearth with her hand on the warm stone and said the hearth-words over it, low, the way she did every night. Calder had heard them ten thousand times. Tonight her voice wasn’t steady on them. Then she came back to the table, to her own chair, and sat down in it, and put her hands flat on the table in front of her.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 39,
+   "para": "p28",
+   "type": "narration",
+   "text": "Bel and Joss looked at her. Calder looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p29",
+   "type": "speech",
+   "text": "“There’s a verse,”",
+   "speaker": "Ada",
+   "mood": "quiet"
+  },
+  {
+   "seq": 41,
+   "para": "p29",
+   "type": "narration",
+   "text": "said Ada.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p30",
+   "type": "narration",
+   "text": "Bel opened her mouth. Ada looked at her, and she closed it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p31",
+   "type": "speech",
+   "text": "“You know the song,”",
+   "speaker": "Ada",
+   "mood": "tender"
+  },
+  {
+   "seq": 44,
+   "para": "p31",
+   "type": "narration",
+   "text": "said Ada.",
+   "mood": "tender"
+  },
+  {
+   "seq": 45,
+   "para": "p31",
+   "type": "speech",
+   "text": "“All of you. Before the six, there was one. I’ve sung it to all of you. I sang it to you, Bel, in this kitchen, when you were teething and wouldn’t sleep. I sang it to Calder. I’ve sung it to Wren and to your two. Two verses and the hush. That’s how everybody sings it, on both banks. That’s how the mothers at Greyhold sing it to their babies, I shouldn’t wonder.”",
+   "speaker": "Ada",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p32",
+   "type": "speech",
+   "text": "“Ma,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 47,
+   "para": "p32",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p33",
+   "type": "speech",
+   "text": "“Let me say it.”",
+   "speaker": "Ada",
+   "mood": "quiet"
+  },
+  {
+   "seq": 49,
+   "para": "p33",
+   "type": "narration",
+   "text": "She didn’t look at him.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 50,
+   "para": "p33",
+   "type": "speech",
+   "text": "“There’s a third verse. My grandmother taught it to me. My father’s mother, who came over the river from the Hearthmere side when she was a girl and never once went back. She taught it to me when I was Wren’s age, by her own fire, and made me say it back till I had it, and then she put my hand on her hearthstone and made me swear. Never to sing it. Not to anybody. Not until I saw what it was for.”",
+   "speaker": "Ada",
+   "mood": "quiet"
+  },
+  {
+   "seq": 51,
+   "para": "p33",
+   "type": "narration",
+   "text": "Her hands were very still on the table.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 52,
+   "para": "p33",
+   "type": "speech",
+   "text": "“She said if I sang it before then, I’d be calling something I couldn’t send back.”",
+   "speaker": "Ada",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p34",
+   "type": "narration",
+   "text": "The fire cracked in the grate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p35",
+   "type": "speech",
+   "text": "“I’ve kept that,”",
+   "speaker": "Ada"
+  },
+  {
+   "seq": 55,
+   "para": "p35",
+   "type": "narration",
+   "text": "said Ada,"
+  },
+  {
+   "seq": 56,
+   "para": "p35",
+   "type": "speech",
+   "text": "“for fifty-one years.”",
+   "speaker": "Ada",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p36",
+   "type": "narration",
+   "text": "She looked at Calder then.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p37",
+   "type": "speech",
+   "text": "“I’ve seen what it’s for,”",
+   "speaker": "Ada",
+   "mood": "quiet"
+  },
+  {
+   "seq": 59,
+   "para": "p37",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "quiet",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 60,
+   "para": "p38",
+   "type": "narration",
+   "text": "She sang it sitting at the table with her hands flat on the wood and her eyes on the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p39",
+   "type": "narration",
+   "text": "She sang it the way she sang everything, low and a little rough, in her old voice that had sung every lullaby and every harvest song and every dirge in Harrow’s End for forty years. To the old tune. The same tune as the other two verses. He’d heard that tune every night of his childhood. He knew where it went. He knew where it rose and where it came down and where it hushed.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p40",
+   "type": "narration",
+   "text": "She sang the first verse."
+  },
+  {
+   "seq": 63,
+   "para": "p40",
+   "type": "verse",
+   "text": "Before the six there was one, and the one was Winshire, and the old ones walked it unbound, by water and by fire.",
+   "speaker": "Ada",
+   "how": "singing, low and a little rough",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p41",
+   "type": "narration",
+   "text": "She sang the second."
+  },
+  {
+   "seq": 65,
+   "para": "p41",
+   "type": "verse",
+   "text": "The old ones went up into the light, and the one fell into six, and the last great beast lay down below to sleep in stone and dark.",
+   "speaker": "Ada",
+   "how": "singing, low and a little rough",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p42",
+   "type": "narration",
+   "text": "And where the hush should have come, she didn’t sing the hush. She went on. The tune went on, the same tune, into a place he’d never heard it go, and Ada’s voice went with it, very quiet.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 67,
+   "para": "p43",
+   "type": "verse",
+   "text": "The last one sleeps where the oath is kept,",
+   "speaker": "Ada",
+   "how": "singing, very quiet",
+   "mood": "awe"
+  },
+  {
+   "seq": 68,
+   "para": "p43",
+   "type": "verse",
+   "text": "in iron and dark beneath the stone,",
+   "speaker": "Ada",
+   "how": "singing, very quiet",
+   "mood": "awe"
+  },
+  {
+   "seq": 69,
+   "para": "p43",
+   "type": "verse",
+   "text": "and the watch above has never slept,",
+   "speaker": "Ada",
+   "how": "singing, very quiet",
+   "mood": "awe"
+  },
+  {
+   "seq": 70,
+   "para": "p43",
+   "type": "verse",
+   "text": "and the watch has forgotten what it keeps.",
+   "speaker": "Ada",
+   "how": "singing, very quiet",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 71,
+   "para": "p44",
+   "type": "narration",
+   "text": "Nobody moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p45",
+   "type": "narration",
+   "text": "The hush came next, but not the hush he knew. The same tune, the same rocking, a mother’s tune for a child who won’t sleep. Different words.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p46",
+   "type": "verse",
+   "text": "Hush now, and do not ask it.",
+   "speaker": "Ada",
+   "how": "singing, a rocking hush",
+   "mood": "awe"
+  },
+  {
+   "seq": 74,
+   "para": "p46",
+   "type": "verse",
+   "text": "Hush now, and do not turn the key.",
+   "speaker": "Ada",
+   "how": "singing, a rocking hush",
+   "mood": "awe"
+  },
+  {
+   "seq": 75,
+   "para": "p46",
+   "type": "verse",
+   "text": "When two hands open what one hand shut,",
+   "speaker": "Ada",
+   "how": "singing, a rocking hush",
+   "mood": "awe"
+  },
+  {
+   "seq": 76,
+   "para": "p46",
+   "type": "verse",
+   "text": "it wakes, and it will not sleep again.",
+   "speaker": "Ada",
+   "how": "singing, a rocking hush",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 77,
+   "para": "p47",
+   "type": "narration",
+   "text": "She stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p48",
+   "type": "narration",
+   "text": "The kitchen was absolutely silent.",
+   "mood": "quiet",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 79,
+   "para": "p49",
+   "type": "thought",
+   "text": "Do not ask.",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p50",
+   "type": "narration",
+   "text": "He sat at the table with his hands round his cup and heard it go into him. For the third time. Twice on the ice at midwinter, and now here.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p51",
+   "type": "verse",
+   "text": "The last one sleeps where the oath is kept.",
+   "speaker": "Ada",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p52",
+   "type": "narration",
+   "text": "He hadn’t known what the knights’ oath was until midwinter night. He’d lived his whole life across the river from Greyhold, and he’d known the knights swore something, at noon, facing the river; everyone on the Saltreach bank knew that, as you know your neighbour says his prayers. He’d never known the words. He’d never cared. On midwinter night he’d sat in the snow on the ice beside a dragon who wouldn’t speak, and the words had come across the river to him in the dark, from hundreds of voices on Greyhold’s wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p53",
+   "type": "verse",
+   "text": "Keep the watch below.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p54",
+   "type": "written",
+   "text": "Beneath the fortress-school of Greyhold,"
+  },
+  {
+   "seq": 85,
+   "para": "p54",
+   "type": "narration",
+   "text": "said the paper on the table, in his own slow reading,"
+  },
+  {
+   "seq": 86,
+   "para": "p54",
+   "type": "written",
+   "text": "the crown of Hearthmere keeps in chains the last of the great beasts.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p55",
+   "type": "verse",
+   "text": "In iron and dark beneath the stone,",
+   "speaker": "Ada"
+  },
+  {
+   "seq": 88,
+   "para": "p55",
+   "type": "narration",
+   "text": "sang his mother."
+  },
+  {
+   "seq": 89,
+   "para": "p55",
+   "type": "verse",
+   "text": "And the watch above has never slept. And the watch has forgotten what it keeps.",
+   "speaker": "Ada",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p56",
+   "type": "narration",
+   "text": "He sat very still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p57",
+   "type": "thought",
+   "text": "It’s under them. Under Greyhold. That’s where it is. That’s what she touched, on the ice. That’s what’s lying down there, awake, turning, in iron and dark, with a whole school of knights standing on top of it every day at noon singing to it not to ask.",
+   "speaker": "Calder",
+   "mood": "dread",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 92,
+   "para": "p58",
+   "type": "narration",
+   "text": "Two leagues away, at Crow Scar, in the back of the cave, he felt Aurveth lift her head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p59",
+   "type": "narration",
+   "text": "She’d heard. All three of them had heard; they always heard what he heard, if it went into him hard enough, and this had gone into him like a nail. But it was Aurveth he felt. Her great head coming up off the stone in the dark, for the first time since the ice. The millwheel turning in her, turning, and then catching on something, and stopping.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p60",
+   "type": "bond",
+   "text": "That is what I touched,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "quiet"
+  },
+  {
+   "seq": 95,
+   "para": "p60",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p61",
+   "type": "narration",
+   "text": "That was all. Five words. Then nothing. He felt her put her head back down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p62",
+   "type": "narration",
+   "text": "But it was the first thing she’d said about it since the ice. It went into him and stayed.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 98,
+   "para": "p63",
+   "type": "speech",
+   "text": "“Ma,”",
+   "speaker": "Bel",
+   "how": "very small"
+  },
+  {
+   "seq": 99,
+   "para": "p63",
+   "type": "narration",
+   "text": "said Bel.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p64",
+   "type": "narration",
+   "text": "Her voice was very small. She was sitting at the table with her hands over her mouth, staring at her mother. Joss beside her had put his arm round her.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p65",
+   "type": "narration",
+   "text": "Ada didn’t look up. She sat with her eyes on the fire. She looked older than he’d ever seen her. Her hands lay on the table like something she’d set down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p66",
+   "type": "speech",
+   "text": "“When two hands open what one hand shut,”",
+   "speaker": "Joss"
+  },
+  {
+   "seq": 103,
+   "para": "p66",
+   "type": "narration",
+   "text": "said Joss."
+  },
+  {
+   "seq": 104,
+   "para": "p66",
+   "type": "speech",
+   "text": "“What does that mean?”",
+   "speaker": "Joss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p67",
+   "type": "speech",
+   "text": "“I don’t know,”",
+   "speaker": "Ada"
+  },
+  {
+   "seq": 106,
+   "para": "p67",
+   "type": "narration",
+   "text": "said Ada.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p68",
+   "type": "speech",
+   "text": "“It wakes, and it will not sleep again.”",
+   "speaker": "Joss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p69",
+   "type": "speech",
+   "text": "“I don’t know, Joss. I never knew. She never told me. She just taught me the words and made me swear.”",
+   "speaker": "Ada",
+   "mood": "dread"
+  },
+  {
+   "seq": 109,
+   "para": "p69",
+   "type": "narration",
+   "text": "She lifted her hands off the table at last and looked at them, as if they were somebody else’s.",
+   "mood": "dread"
+  },
+  {
+   "seq": 110,
+   "para": "p69",
+   "type": "speech",
+   "text": "“I’ve never sung it. Never. Not once. Not even to myself, under my breath, hanging out washing. I was afraid to.”",
+   "speaker": "Ada",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 111,
+   "para": "p70",
+   "type": "speech",
+   "text": "“Why did you sing it now?”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 112,
+   "para": "p70",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p71",
+   "type": "narration",
+   "text": "His mother looked at him across the table.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Because they’ve put your name on it,”",
+   "speaker": "Ada",
+   "mood": "tender"
+  },
+  {
+   "seq": 115,
+   "para": "p72",
+   "type": "narration",
+   "text": "said Ada.",
+   "mood": "tender"
+  },
+  {
+   "seq": 116,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Those people with the rings. They’ve put your name at the bottom of a paper about a beast under the earth, and nailed it to the doors, and said it began with you.”",
+   "speaker": "Ada",
+   "mood": "tender"
+  },
+  {
+   "seq": 117,
+   "para": "p72",
+   "type": "narration",
+   "text": "Her voice didn’t change.",
+   "mood": "tender"
+  },
+  {
+   "seq": 118,
+   "para": "p72",
+   "type": "speech",
+   "text": "“And I don’t know what’s under the earth. And I don’t know what my grandmother knew, or how. But I know my son. And I’ll not have you walking out into whatever this is not knowing the one thing I know.”",
+   "speaker": "Ada",
+   "mood": "tender"
+  },
+  {
+   "seq": 119,
+   "para": "p72",
+   "type": "narration",
+   "text": "She put her hands back on the table.",
+   "mood": "tender"
+  },
+  {
+   "seq": 120,
+   "para": "p72",
+   "type": "speech",
+   "text": "“That’s what it’s for. I’ve seen it now.”",
+   "speaker": "Ada",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p73",
+   "type": "narration",
+   "text": "On the ladder to the loft, in the shadow, something moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p74",
+   "type": "narration",
+   "text": "Calder looked up. Wren was sitting on the top rung in her nightgown with her knees drawn up and her arms round them. She’d been there, he understood, the whole time. Since the bar went across the door. Her face in the firelight was very white and very still, and she was looking at her grandmother.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p75",
+   "type": "speech",
+   "text": "“Gran,”",
+   "speaker": "Wren",
+   "mood": "tender"
+  },
+  {
+   "seq": 124,
+   "para": "p75",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "tender"
+  },
+  {
+   "seq": 125,
+   "para": "p75",
+   "type": "speech",
+   "text": "“That was the most beautiful one.”",
+   "speaker": "Wren",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p76",
+   "type": "narration",
+   "text": "Ada looked up at her. For a moment her old face didn’t do anything at all. Then it crumpled, all at once, like paper in a fire, and she put her hands over it.",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 127,
+   "para": "p77",
+   "type": "bond",
+   "text": "The lights,",
+   "speaker": "Lisska",
+   "listener": "Calder"
+  },
+  {
+   "seq": 128,
+   "para": "p77",
+   "type": "narration",
+   "text": "said Lisska.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p78",
+   "type": "narration",
+   "text": "She’d been at the window. She’d come over from Crow Scar after dark, low over the Fellwood, without being asked, and was lying in Bel’s yard against the wall under the shuttered window with her long head beside the shutters, listening. He felt her lift her head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p79",
+   "type": "bond",
+   "text": "The lights,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "sharp, frightened",
+   "mood": "urgent"
+  },
+  {
+   "seq": 131,
+   "para": "p79",
+   "type": "narration",
+   "text": "she said again. Sharp. Frightened.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 132,
+   "para": "p79",
+   "type": "bond",
+   "text": "Across the river. At the big grey place. Greyhold. All the lights. They’ve gone out.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "sharp, frightened",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p80",
+   "type": "narration",
+   "text": "He was up from the table before he knew it, and across the kitchen, and lifting the bar from the door, and out into the yard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p81",
+   "type": "narration",
+   "text": "It was very cold. Bitter. The stars were sharp and the moon was coming up late and lopsided over the hills behind the house, and the white river went away below the hollow, frozen from bank to bank, down past Harrow’s End and the island to the bend where Greyhold stood.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p82",
+   "type": "narration",
+   "text": "Greyhold was dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p83",
+   "type": "narration",
+   "text": "He’d seen it every night of his life. The long low line of its wall on the far bank, six leagues and more down the river, with its windows lit. On midwinter night every window had been lit. On any night of the year, from Harrow’s End, from Upper Rush, from anywhere on the Saltreach bank where you could see down the river, Greyhold was there: a line of small steady lights in the dark, like a necklace laid along the far bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p84",
+   "type": "narration",
+   "text": "It wasn’t there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p85",
+   "type": "narration",
+   "text": "The whole line of it was gone. Every window. Every lamp on the wall. Every torch at the gate. As if somebody had put a hand over it. There was the dark bank, and the dark sky, and the white river, and nothing.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 139,
+   "para": "p86",
+   "type": "narration",
+   "text": "Lisska had come round the corner of the house and was standing beside him in the snow, very close, so close her wing was against his shoulder. He felt her shaking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p87",
+   "type": "bond",
+   "text": "They all went out,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "dread"
+  },
+  {
+   "seq": 141,
+   "para": "p87",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "dread"
+  },
+  {
+   "seq": 142,
+   "para": "p87",
+   "type": "bond",
+   "text": "All at once. Just now. Just when she stopped singing. I was looking. They all went out together. Like a candle when you blow it.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 143,
+   "para": "p88",
+   "type": "narration",
+   "text": "He stood in the yard and looked at the dark place on the far bank where Greyhold should be.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p89",
+   "type": "narration",
+   "text": "Behind him, in the doorway, he heard Joss come out. And Bel. Ada came last, with her shawl round her, to stand in the door with the firelight behind her and look down the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p90",
+   "type": "thought",
+   "text": "Hush now, and do not ask it,",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 146,
+   "para": "p90",
+   "type": "narration",
+   "text": "he thought. He didn’t mean to. It went round in him."
+  },
+  {
+   "seq": 147,
+   "para": "p90",
+   "type": "thought",
+   "text": "Hush now, and do not turn the key.",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p91",
+   "type": "remembered",
+   "text": "She said if I sang it before I saw what it was for, I’d be calling something I couldn’t send back.",
+   "speaker": "Ada",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p92",
+   "type": "narration",
+   "text": "The dark went on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p93",
+   "type": "narration",
+   "text": "He didn’t know how long. Not long. As long as it would take to sing the hush through, slowly. He stood in the frozen yard and didn’t breathe. Lisska didn’t breathe. At Crow Scar, two leagues off, he felt Kharrak on his feet, and Aurveth with her head up, all of them looking down the river at the place where the lights should be.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 151,
+   "para": "p94",
+   "type": "narration",
+   "text": "Then they came back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p95",
+   "type": "narration",
+   "text": "All at once. Every one. The whole long line of Greyhold’s wall, every window and lamp and torch, lit again on the far bank like a necklace laid down in the dark. As if nothing had happened.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 153,
+   "para": "p96",
+   "type": "narration",
+   "text": "Nobody in the yard spoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p97",
+   "type": "speech",
+   "text": "“It’s the cold,”",
+   "speaker": "Joss",
+   "how": "not very steadily",
+   "mood": "tension"
+  },
+  {
+   "seq": 155,
+   "para": "p97",
+   "type": "narration",
+   "text": "said Joss at last. Not very steadily.",
+   "mood": "tension"
+  },
+  {
+   "seq": 156,
+   "para": "p97",
+   "type": "speech",
+   "text": "“That’s all. Something to do with the cold. Their lamps don’t burn oil, they say. Some sort of magic. It’ll be the cold.”",
+   "speaker": "Joss",
+   "how": "not very steadily",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 157,
+   "para": "p98",
+   "type": "narration",
+   "text": "Nobody answered him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p99",
+   "type": "narration",
+   "text": "Ada stood in the doorway with her shawl round her and looked down the river at the lights. Calder turned round and looked at her. In the firelight from the kitchen behind her, her face was very calm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p100",
+   "type": "speech",
+   "text": "“I didn’t call it,”",
+   "speaker": "Ada",
+   "how": "quietly",
+   "mood": "quiet"
+  },
+  {
+   "seq": 160,
+   "para": "p100",
+   "type": "narration",
+   "text": "she said. Quietly. To him.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 161,
+   "para": "p100",
+   "type": "speech",
+   "text": "“Did I?”",
+   "speaker": "Ada",
+   "how": "quietly",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p101",
+   "type": "narration",
+   "text": "He went and put his arm round her, and she let him, which she almost never did, and they stood in the doorway together and watched the lights of Greyhold burn on the far bank, steady and small, as if they had always been there and always would be.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p102",
+   "type": "bond",
+   "text": "That is what I touched,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "very far off, very low",
+   "mood": "quiet"
+  },
+  {
+   "seq": 164,
+   "para": "p102",
+   "type": "narration",
+   "text": "said Aurveth, very far off, very low.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p103",
+   "type": "narration",
+   "text": "He didn’t ask her what she meant.",
+   "pause_after_ms": 500
+  }
+ ]
+}

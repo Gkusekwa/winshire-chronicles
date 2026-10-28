@@ -1,0 +1,1461 @@
+{
+ "chapter": 57,
+ "title": "Tobin",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Fifty-seven.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Tobin.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "Pell sent her back to Greyhold on the hundred-and-twenty-first day with the report.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "written",
+   "text": "The beast’s collar was removed on the morning of day one hundred and twenty by Student Ashdown, with hammer and chisel, at the beast’s leave."
+  },
+  {
+   "seq": 5,
+   "para": "p2",
+   "type": "narration",
+   "text": "That was how he’d written it."
+  },
+  {
+   "seq": 6,
+   "para": "p2",
+   "type": "written",
+   "text": "At the beast’s leave."
+  },
+  {
+   "seq": 7,
+   "para": "p2",
+   "type": "narration",
+   "text": "She’d read it over his shoulder and hadn’t said anything. She carried it in her coat on Turnip along the River Road in the thin spring sun, with the Wend running brown and loud and full of ice beside her, and the island going by on the left, and the snow going off the fields in long grey patches.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p3",
+   "type": "narration",
+   "text": "She went on past Greyhold to Millbrook. She didn’t have to. It was two leagues out of her way. She turned Turnip off at the jetty road anyway, and rode up it, past the Kettle with its smashed shutters boarded over with raw planks, past a woman on an upturned crate by the well. A hedge-worker. She had lamp-words written out on scraps of sacking, a copper each, for anybody whose licensed tender had stopped coming, and she was calling them out in the open street as if there’d never been a fine for it. The lamp on the crate beside her was dark. Nobody was buying. Maren rode on to the top of the street.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p4",
+   "type": "narration",
+   "text": "Odo Marl’s forge was cold.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p5",
+   "type": "narration",
+   "text": "The doors were shut. There was a chain through the handles, new, bright, with a crown’s seal hanging off the lock on a ribbon. Nobody had swept the step. There was ash blown out under the doors onto the cobbles, grey, gone to mud in the thaw.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p6",
+   "type": "narration",
+   "text": "She sat on Turnip and looked at the doors.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p7",
+   "type": "narration",
+   "text": "They were hung on iron. Great black hinges, strap hinges, as long as her arm, bolted through the oak. She’d seen them all her life. She’d swung on these doors when she was six, and Odo had shouted at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p8",
+   "type": "narration",
+   "text": "She got down. She went to the left-hand door and put her thumb on the bottom hinge, at the curl where the strap went round the pin, and rubbed until the little hammers showed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p9",
+   "type": "narration",
+   "text": "She stood there with her thumb on them.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p10",
+   "type": "narration",
+   "text": "A woman came out of the house opposite with a bucket and stopped and looked at her. At the grey coat. She went back in and shut the door.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 16,
+   "para": "p11",
+   "type": "narration",
+   "text": "The boy found her on the hundred-and-twenty-second day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p12",
+   "type": "narration",
+   "text": "She’d come down to Millbrook again with the Greyhold supply wain, because Grieve wanted straw and the Millbrook factor was the only one with any left, and she was standing on the jetty in the noon sun watching the ice go past when a boy came up behind her. Ten, perhaps. A Millbrook boy, barefoot in the mud, with a running nose. He pushed something into her hand and was gone before she’d turned round, off up the jetty and between two sheds.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p13",
+   "type": "narration",
+   "text": "A scrap of paper. Folded small. Tied with a bit of blue cord.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p14",
+   "type": "narration",
+   "text": "She knew the cord. It was on the grip of the sword under her cot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p15",
+   "type": "narration",
+   "text": "She untied it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p16",
+   "type": "written",
+   "text": "The long hedge above Fennick’s top field. Moonrise tomorrow. Come and hear him. T.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 22,
+   "para": "p17",
+   "type": "narration",
+   "text": "She told nobody.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "narration",
+   "text": "She thought about telling Hale. She thought about it all that day and all the next, mucking out, at drill, at the noon bell where she said",
+   "mood": "tension"
+  },
+  {
+   "seq": 24,
+   "para": "p18",
+   "type": "speech",
+   "text": "keep the watch below",
+   "speaker": "Maren",
+   "mood": "tension"
+  },
+  {
+   "seq": 25,
+   "para": "p18",
+   "type": "narration",
+   "text": "and stopped. She thought about Hale’s face going grey. About Rowan in her room at the top of the tower, with her hands behind her back, not asking. About Davin going out of the river gate in a closed cart with no window.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 26,
+   "para": "p19",
+   "type": "narration",
+   "text": "She told nobody.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p20",
+   "type": "narration",
+   "text": "On the hundred-and-twenty-third night, after the last bell, she went out over the wall behind the midden, the way the grooms did when they went to the Kettle, where the old dung-heap was banked up high against the stones and you could climb it and drop down the far side into the ditch. She’d never done it. She’d mucked out under it every morning since the autumn. She went over it in a plain brown cloak that had been her father’s, with no grey on her anywhere, and dropped into the ditch, and walked.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 28,
+   "para": "p21",
+   "type": "narration",
+   "text": "It was a league. Inland, up from Millbrook, by the lanes. Past Fennick’s mill and the tithe barn behind it, dark tonight, where Tam had stood up in the autumn and said it the first time and been given his ring. Up the long hill behind Fennick’s farm, through the soft fields with the snow going off them, toward the top.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p22",
+   "type": "narration",
+   "text": "She saw the lanterns before she was halfway up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p23",
+   "type": "narration",
+   "text": "A long line of them, along the top of the hill. Strung out along a hedge, the great old thorn hedge that ran along the top of Fennick’s land, on poles, every few paces, like beads. Fifty lanterns. More. Under them, in the field below the hedge, people. She could hear them before she could see them. A sound like the river. Hundreds of voices, low.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 31,
+   "para": "p24",
+   "type": "narration",
+   "text": "The moon was coming up behind the hedge. Big and yellow, six nights past full, lopsided, rising slow over the black thorn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p25",
+   "type": "narration",
+   "text": "She came up the last of the hill and stopped at the gate of the field.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 33,
+   "para": "p26",
+   "type": "narration",
+   "text": "There were men at the gate. Two, with cudgels, and lanterns, and rings on their fingers, iron, plain. They looked at her as she came up out of the dark. At the brown cloak. At her face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p27",
+   "type": "narration",
+   "text": "She thought they’d stop her. They didn’t. One of them looked at her a moment longer than he needed to, and then stood aside.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p28",
+   "type": "narration",
+   "text": "She went in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p29",
+   "type": "narration",
+   "text": "It was a long field, sloping up to the hedge. Full. Full from the gate to the thorn, and from side to side. People standing, sitting on the wet grass on sacks and cloaks, children on shoulders. Millbrook people. People she knew. Old Wenna from the bakery, with her daughter. The man who mended nets at the jetty. A woman from the Kettle’s kitchen. People she didn’t know, from the other villages, from the boats, from further, with bundles and blankets, who’d walked a long way. Six hundred. Seven. She stopped trying to count.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p30",
+   "type": "narration",
+   "text": "There was a hay-wain across the top of the field, under the hedge, with its shafts down and its bed for a platform. Lanterns on poles at each corner. A few people standing on it, waiting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p31",
+   "type": "narration",
+   "text": "She stood at the back by the gate, in the dark, with her hood up, and looked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p32",
+   "type": "narration",
+   "text": "At the front corner of the wain, holding a torch, was Tam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p33",
+   "type": "narration",
+   "text": "She’d known he might be. She hadn’t let herself think it. He was standing on the bed of the wain at the right-hand corner with a pitch torch in his fist, in a grey coat, with his ring on his finger, not on a string any more. He’d grown. Or he’d stopped stooping. He stood up straight in the torchlight with his face turned to the crowd, and he looked like their father.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p34",
+   "type": "narration",
+   "text": "Beside him on the wain, huge, bald, with his arms folded across his chest over his leather apron, was Odo Marl.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p35",
+   "type": "narration",
+   "text": "She stood at the back of the field and looked at Odo Marl’s arms. Forearms like hams, with the burns on them. The arms that had swung the hammer that struck the two little crossed hammers inside the collar of the lion.",
+   "mood": "dread",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 43,
+   "para": "p36",
+   "type": "speech",
+   "text": "“You came.”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p37",
+   "type": "narration",
+   "text": "She turned.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p38",
+   "type": "narration",
+   "text": "Tobin was standing beside her in the dark at the edge of the crowd. She hadn’t heard him come. He was in grey too, a good coat, and he had a ring on his finger. He was thinner than he’d been at Greyhold. Much thinner. His face had gone all bones and eyes. And he was smiling. She’d known him two years and she’d never seen him smile like that, with all of his mouth.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p39",
+   "type": "speech",
+   "text": "“You came,”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 47,
+   "para": "p39",
+   "type": "narration",
+   "text": "he said again."
+  },
+  {
+   "seq": 48,
+   "para": "p39",
+   "type": "speech",
+   "text": "“I told them you would. I didn’t believe it. I told them anyway.”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p40",
+   "type": "speech",
+   "text": "“Told who?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p41",
+   "type": "speech",
+   "text": "“Everybody.”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 51,
+   "para": "p41",
+   "type": "narration",
+   "text": "He took her arm. She let him."
+  },
+  {
+   "seq": 52,
+   "para": "p41",
+   "type": "speech",
+   "text": "“Maren. You know. Don’t you? It’s all over you. Hale told you. Didn’t he. What’s under the hill.”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p42",
+   "type": "narration",
+   "text": "She didn’t answer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p43",
+   "type": "speech",
+   "text": "“He did.”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 55,
+   "para": "p43",
+   "type": "narration",
+   "text": "Tobin’s grip tightened on her arm."
+  },
+  {
+   "seq": 56,
+   "para": "p43",
+   "type": "speech",
+   "text": "“I knew he would. He’d tell you before anybody. He always liked you.”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 57,
+   "para": "p43",
+   "type": "narration",
+   "text": "He pulled her a little way along the edge of the crowd, out of the lantern light, into the dark by the side hedge."
+  },
+  {
+   "seq": 58,
+   "para": "p43",
+   "type": "speech",
+   "text": "“So you know. It’s true, all of it, every word on the paper, and you’re still there. Mucking out their barn. Standing at their bell.”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 59,
+   "para": "p43",
+   "type": "narration",
+   "text": "He looked into her face."
+  },
+  {
+   "seq": 60,
+   "para": "p43",
+   "type": "speech",
+   "text": "“Why?”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p44",
+   "type": "speech",
+   "text": "“I don’t know.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p45",
+   "type": "speech",
+   "text": "“Come over.”",
+   "speaker": "Tobin",
+   "how": "very fast, very low",
+   "mood": "urgent"
+  },
+  {
+   "seq": 63,
+   "para": "p45",
+   "type": "narration",
+   "text": "He said it very fast, very low.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 64,
+   "para": "p45",
+   "type": "speech",
+   "text": "“Come tonight. Now. You don’t have to go back. Nobody would make you go back. They want you, Maren. You don’t know how much they want you. The one with the lion. Every hedge on the river’s heard of you. They talk about you. You’re…”",
+   "speaker": "Tobin",
+   "how": "very fast, very low",
+   "mood": "urgent"
+  },
+  {
+   "seq": 65,
+   "para": "p45",
+   "type": "narration",
+   "text": "He stopped. He was almost laughing.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 66,
+   "para": "p45",
+   "type": "speech",
+   "text": "“You’re a sign. Like the farmer.”",
+   "speaker": "Tobin",
+   "how": "almost laughing",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p46",
+   "type": "speech",
+   "text": "“The farmer’s an enemy,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 68,
+   "para": "p46",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 69,
+   "para": "p46",
+   "type": "speech",
+   "text": "“It’s on the jetty. Two hundred silver.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p47",
+   "type": "narration",
+   "text": "Something went across Tobin’s face. Quick. Gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p48",
+   "type": "speech",
+   "text": "“Never mind the jetty,”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 72,
+   "para": "p48",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 73,
+   "para": "p48",
+   "type": "speech",
+   "text": "“Listen to him. Just listen. Then decide.”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p49",
+   "type": "narration",
+   "text": "He let go of her arm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p50",
+   "type": "narration",
+   "text": "On the wain, the people standing waiting had stepped back to the hedge. Tam lifted his torch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p51",
+   "type": "narration",
+   "text": "Somebody climbed up onto the wain from the far side.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 77,
+   "para": "p52",
+   "type": "narration",
+   "text": "She knew the face at once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p53",
+   "type": "narration",
+   "text": "Long. Pale. Clean-shaven, with the dark hair cut short. Neither young nor old. She’d seen it by the wayside shrine on the River Road in the autumn, on her first patrol, looking at Turnip’s dried turnip and her practice sword and the empty place at her shoulder."
+  },
+  {
+   "seq": 79,
+   "para": "p53",
+   "type": "remembered",
+   "text": "They’ll never give you a horse worth riding.",
+   "speaker": "Corvin"
+  },
+  {
+   "seq": 80,
+   "para": "p53",
+   "type": "narration",
+   "text": "She’d seen it on the smithy roof at Ferriby, lit from below by the forge and the burning barn, with two fingers lifted and a boy with a whistle, playing the hamlet like a game of stones. She’d seen it look up the lane at her in the dark and say her name.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p54",
+   "type": "narration",
+   "text": "He stood on the wain in the torchlight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p55",
+   "type": "narration",
+   "text": "And he laughed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p56",
+   "type": "narration",
+   "text": "He stood up on the bed of the wain and looked out at the field, at seven hundred people under the hedge in the moonlight, and he laughed out loud, a big warm open laugh, as if he’d just seen something wonderful. He threw his arms out.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 84,
+   "para": "p57",
+   "type": "speech",
+   "text": "“Look at you,”",
+   "speaker": "Cassian"
+  },
+  {
+   "seq": 85,
+   "para": "p57",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 86,
+   "para": "p57",
+   "type": "speech",
+   "text": "“Look at you. All of you. Seven hundred, under one hedge, on a cold night, in the mud. Look at you!”",
+   "speaker": "Cassian",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p58",
+   "type": "narration",
+   "text": "The field roared.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p59",
+   "type": "narration",
+   "text": "Maren stood at the back and didn’t move.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 89,
+   "para": "p60",
+   "type": "narration",
+   "text": "He talked for an hour.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p61",
+   "type": "narration",
+   "text": "She remembered some of what he said. She remembered more of how he said it. He didn’t stand still. He walked up and down the bed of the wain. He crouched at the edge of it and talked to the people at the front as if they were the only ones there. Halfway through he jumped down off it into the crowd, right down into the mud, and walked among them, and took their hands. An old woman at the front held out her hand to him and he took it in both of his and called her",
+   "mood": "awe"
+  },
+  {
+   "seq": 91,
+   "para": "p61",
+   "type": "speech",
+   "text": "mother",
+   "speaker": "Cassian",
+   "mood": "awe"
+  },
+  {
+   "seq": 92,
+   "para": "p61",
+   "type": "narration",
+   "text": "and she burst into tears. He laughed. He raised his voice and it broke, and the field went silent with it, and then he laughed again and they laughed with him.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 93,
+   "para": "p62",
+   "type": "narration",
+   "text": "He was warm. That was the word that kept coming to her, standing at the back in her father’s brown cloak with her hood up. Warm. Like a fire you’ve come in to out of the snow. Everybody in the field had turned toward him without thinking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p63",
+   "type": "narration",
+   "text": "The thin man on the smithy roof had been cold, as a good knife is cold. Still. Patient. He’d never raised his voice. He’d lifted two fingers, and the boy had blown, and Ferriby had burned, and he’d watched it with that still patient face, and afterwards, at the landing, he’d looked up the lane at her and said her name as if he’d been keeping it in his pocket.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 95,
+   "para": "p64",
+   "type": "narration",
+   "text": "This man was on fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p65",
+   "type": "thought",
+   "text": "The crowd,",
+   "speaker": "Maren",
+   "mood": "reflective"
+  },
+  {
+   "seq": 97,
+   "para": "p65",
+   "type": "narration",
+   "text": "she thought.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 98,
+   "para": "p65",
+   "type": "thought",
+   "text": "It’s the crowd.",
+   "speaker": "Maren",
+   "mood": "reflective"
+  },
+  {
+   "seq": 99,
+   "para": "p65",
+   "type": "narration",
+   "text": "A man on a roof in a raid, directing it, has to be still. A man on a wain in front of seven hundred people has to be warm, or they’d go home. It was the same face. Of course it was. It was the same man, on a different night, doing a different thing.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p66",
+   "type": "narration",
+   "text": "She told herself that.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 101,
+   "para": "p67",
+   "type": "narration",
+   "text": "He told them about the chained beast under the hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p68",
+   "type": "narration",
+   "text": "He did it simply. Better than the paper. He told them what Hale had told her, nearly word for word, as if he’d stood in the archive and heard it. The first knights. Something asleep under the hill. Woken, and chained, before it knew. The inner wall over the way down. The lamps without oil. The words that set bones. The sweet water in the wells at Hallowmere.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p69",
+   "type": "speech",
+   "text": "“Bled,”",
+   "speaker": "Cassian"
+  },
+  {
+   "seq": 104,
+   "para": "p69",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 105,
+   "para": "p69",
+   "type": "speech",
+   "text": "“Three hundred years. They’ve been bleeding something older than the six kingdoms, older than the one realm, older than anything, and lighting their lamps with it, and telling you it was the gods’ gift to the crown. And every knight in Hearthmere faces it at noon and says keep the watch below, and do not ask.”",
+   "speaker": "Cassian"
+  },
+  {
+   "seq": 106,
+   "para": "p69",
+   "type": "narration",
+   "text": "He stood at the edge of the wain in the torchlight."
+  },
+  {
+   "seq": 107,
+   "para": "p69",
+   "type": "speech",
+   "text": "“Well. We asked.”",
+   "speaker": "Cassian",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p70",
+   "type": "narration",
+   "text": "The field roared again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p71",
+   "type": "narration",
+   "text": "He told them about the bond. About the bonded at the front and the unchosen at the back. About the gate, and the knights who sat on the bank and watched Harrow’s End burn. He told them about the one realm, when beasts walked free and nobody was chosen over anybody. He told them that in the one realm, every one of them would be chosen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Every one,”",
+   "speaker": "Cassian"
+  },
+  {
+   "seq": 111,
+   "para": "p72",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 112,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Not by a beast that happens to look at you on a trial day. Not by a crown that licenses who may and who may not. Every one of you. Every potboy and every ferry-hand and every girl in the bakery. A beast at your side. The bond in your chest. The one realm, come again.”",
+   "speaker": "Cassian",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p73",
+   "type": "narration",
+   "text": "She thought of silent hounds in six-dot collars on the Redwatch landing at dawn, with nothing in their eyes, coming on with crossbow bolts in them. Bracken going down under two of them. Ide, three days, in the infirmary.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 114,
+   "para": "p74",
+   "type": "thought",
+   "text": "Every one of you chosen.",
+   "speaker": "Maren",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 115,
+   "para": "p75",
+   "type": "narration",
+   "text": "He told them about the farmer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p76",
+   "type": "narration",
+   "text": "He’d come back up onto the wain by then. He stood at the front of it with Tam’s torch behind him, and his face went quiet and sad. He looked out over the field for a long moment before he spoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p77",
+   "type": "speech",
+   "text": "“They’ll tell you,”",
+   "speaker": "Cassian"
+  },
+  {
+   "seq": 118,
+   "para": "p77",
+   "type": "narration",
+   "text": "he said,"
+  },
+  {
+   "seq": 119,
+   "para": "p77",
+   "type": "speech",
+   "text": "“that the farmer burned our camp at the Ewe Beck.”",
+   "speaker": "Cassian",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p78",
+   "type": "narration",
+   "text": "The field went very still.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 121,
+   "para": "p79",
+   "type": "speech",
+   "text": "“He did,”",
+   "speaker": "Cassian"
+  },
+  {
+   "seq": 122,
+   "para": "p79",
+   "type": "narration",
+   "text": "said Vale."
+  },
+  {
+   "seq": 123,
+   "para": "p79",
+   "type": "speech",
+   "text": "“I’ll not lie to you. He came in the night on the old general’s dragon with the other two at his back, and he burned it. Our stores. Our tents. The tent where we bring the chosen to their beasts. Three of ours are dead. Good men.”",
+   "speaker": "Cassian"
+  },
+  {
+   "seq": 124,
+   "para": "p79",
+   "type": "narration",
+   "text": "He paused."
+  },
+  {
+   "seq": 125,
+   "para": "p79",
+   "type": "speech",
+   "text": "“And you’ll have seen what’s been nailed on the jetty. Enemy. Two hundred silver. Alive.”",
+   "speaker": "Cassian",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p80",
+   "type": "narration",
+   "text": "Somewhere in the crowd somebody shouted something. Vale held up his hand and it stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Now hear me,”",
+   "speaker": "Cassian"
+  },
+  {
+   "seq": 128,
+   "para": "p81",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 129,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Hear me, all of you. Because I’ll say this once and I want it carried to every hedge on the river.”",
+   "speaker": "Cassian",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p82",
+   "type": "narration",
+   "text": "He leaned forward.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p83",
+   "type": "speech",
+   "text": "“His sister’s man died in our lines. In the night, under a beast. Went in with a knife to bring home a grey he’d raised from a foal, and a handler of ours woke and called out, and the beast came down on him. A fool of a handler, who thought a beast was worth more than a grieving man.”",
+   "speaker": "Cassian",
+   "mood": "grief"
+  },
+  {
+   "seq": 132,
+   "para": "p83",
+   "type": "narration",
+   "text": "His voice cracked.",
+   "mood": "grief"
+  },
+  {
+   "seq": 133,
+   "para": "p83",
+   "type": "speech",
+   "text": "“I’ll not have it. Not in the one realm. That’s the old way. That’s their way. That’s the knights’ way. A beast worth more than a man.”",
+   "speaker": "Cassian",
+   "how": "voice cracking",
+   "mood": "grief"
+  },
+  {
+   "seq": 134,
+   "para": "p83",
+   "type": "narration",
+   "text": "He straightened.",
+   "mood": "grief"
+  },
+  {
+   "seq": 135,
+   "para": "p83",
+   "type": "speech",
+   "text": "“The handler’s been sent away. And as for the farmer…”",
+   "speaker": "Cassian",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 136,
+   "para": "p84",
+   "type": "narration",
+   "text": "He looked out over the field.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p85",
+   "type": "speech",
+   "text": "“I forgive him,”",
+   "speaker": "Cassian",
+   "mood": "urgent"
+  },
+  {
+   "seq": 138,
+   "para": "p85",
+   "type": "narration",
+   "text": "said Vale.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 139,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Hear me. I forgive Calder Fenn. For the camp. For our three. For all of it. He’s a man of the Marches whose sister’s man died under one of our beasts, and he did what a man does. And when this is done, he’ll come home. To the one realm. Him and his dragons and his girl.”",
+   "speaker": "Cassian",
+   "mood": "urgent"
+  },
+  {
+   "seq": 140,
+   "para": "p85",
+   "type": "narration",
+   "text": "His voice rose.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 141,
+   "para": "p85",
+   "type": "speech",
+   "text": "“He’ll come home to the one realm. All of them will! Every one!”",
+   "speaker": "Cassian",
+   "how": "voice rising",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p86",
+   "type": "narration",
+   "text": "The field roared it back at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p87",
+   "type": "speech",
+   "text": "Home! Home! The one realm!",
+   "speaker": "crowd",
+   "how": "roared",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p88",
+   "type": "narration",
+   "text": "Maren stood at the back of the field in the noise with her hood up and thought of the bill on the Millbrook jetty, printed under the same six hands, from the same press."
+  },
+  {
+   "seq": 145,
+   "para": "p88",
+   "type": "written",
+   "text": "To be brought in alive.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 146,
+   "para": "p89",
+   "type": "narration",
+   "text": "At the end he came down off the wain again and walked through the crowd.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p90",
+   "type": "narration",
+   "text": "Slowly. Taking hands. Touching shoulders. Stopping to speak to people, bending his head to hear what they said, laughing. Working his way down the field toward the gate, toward the back, where she stood. She saw him coming. She could have gone. She didn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p91",
+   "type": "narration",
+   "text": "He came past her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p92",
+   "type": "narration",
+   "text": "So close she could have touched his sleeve. He seemed taller than she’d remembered from the roadblock. People do, she thought, with seven hundred faces turned up to them. The same long pale face, clean-shaven. The same short dark hair. The same grey eyes. He turned his head as he passed, the way he’d turned it a hundred times coming down the field, and looked straight at her, at her face under the brown hood, in the light of the lantern on the gatepost.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 150,
+   "para": "p93",
+   "type": "narration",
+   "text": "He smiled at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p94",
+   "type": "narration",
+   "text": "Warm. Friendly. The way he’d smiled at the old woman at the front.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p95",
+   "type": "narration",
+   "text": "And there was nothing in it. No knowing. Nothing at all. He looked at her face as you’d look at the seven-hundredth face in a field, and smiled, and went past, and put his hand on the shoulder of the man beside her and said something, and laughed, and was gone through the gate into the dark with the men with cudgels round him.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 153,
+   "para": "p96",
+   "type": "narration",
+   "text": "She stood there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p97",
+   "type": "narration",
+   "text": "At the landing at Ferriby, stepping down into the barge, he’d looked up the lane in the dark and said her name.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p98",
+   "type": "thought",
+   "text": "The crowd,",
+   "speaker": "Maren",
+   "mood": "reflective"
+  },
+  {
+   "seq": 156,
+   "para": "p98",
+   "type": "narration",
+   "text": "she thought.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 157,
+   "para": "p98",
+   "type": "thought",
+   "text": "Seven hundred faces. He sees a thousand a night. He saw me twice, for a moment, in the dark, in the autumn. Why would he remember?",
+   "speaker": "Maren",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p99",
+   "type": "narration",
+   "text": "He’d said her name. At the landing. Out of the dark, with the barn burning behind her."
+  },
+  {
+   "seq": 159,
+   "para": "p99",
+   "type": "remembered",
+   "text": "Ashdown.",
+   "speaker": "Corvin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p100",
+   "type": "thought",
+   "text": "The crowd.",
+   "speaker": "Maren",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 161,
+   "para": "p101",
+   "type": "narration",
+   "text": "Tobin found her again at the gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p102",
+   "type": "narration",
+   "text": "The field was emptying round them. People going down the hill in the dark in twos and threes with their lanterns, singing. Some of them singing the river lullaby."
+  },
+  {
+   "seq": 163,
+   "para": "p102",
+   "type": "verse",
+   "text": "Before the six, there was one.",
+   "speaker": "crowd",
+   "how": "singing"
+  },
+  {
+   "seq": 164,
+   "para": "p102",
+   "type": "narration",
+   "text": "The two verses and the hush. She heard it go away down the hill toward Millbrook in the moonlight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p103",
+   "type": "speech",
+   "text": "“Well?”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 166,
+   "para": "p103",
+   "type": "narration",
+   "text": "said Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p104",
+   "type": "narration",
+   "text": "He was flushed. His eyes were bright. He looked like a man coming out of a chapel, or a fair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p105",
+   "type": "narration",
+   "text": "She looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p106",
+   "type": "speech",
+   "text": "“Your people,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 170,
+   "para": "p106",
+   "type": "narration",
+   "text": "she said,"
+  },
+  {
+   "seq": 171,
+   "para": "p106",
+   "type": "speech",
+   "text": "“put the collar on it.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p107",
+   "type": "narration",
+   "text": "He stared at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p108",
+   "type": "speech",
+   "text": "“The lion. On the island. In the summer. Your people put the collar on it. And the chain. With your six on every link.”",
+   "speaker": "Maren",
+   "how": "very low",
+   "mood": "anger"
+  },
+  {
+   "seq": 174,
+   "para": "p108",
+   "type": "narration",
+   "text": "She kept her voice very low.",
+   "mood": "anger"
+  },
+  {
+   "seq": 175,
+   "para": "p108",
+   "type": "speech",
+   "text": "“I took it off. Three days ago. With a hammer and a chisel. It’s under my cot. You can come and look at it, if you like. There’s a smith’s mark on the inside of it. You’d know it. You’ve been in Millbrook all winter. It’s on every horseshoe in the street.”",
+   "speaker": "Maren",
+   "how": "very low",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p109",
+   "type": "narration",
+   "text": "Tobin’s face had gone blank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p110",
+   "type": "speech",
+   "text": "“I don’t…”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p111",
+   "type": "speech",
+   "text": "“Odo Marl made it,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 179,
+   "para": "p111",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 180,
+   "para": "p111",
+   "type": "speech",
+   "text": "“Odo’s on that wain.”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 181,
+   "para": "p111",
+   "type": "narration",
+   "text": "She looked up the field at the wain under the hedge, where Odo stood with his arms folded, and Tam beside him with the torch."
+  },
+  {
+   "seq": 182,
+   "para": "p111",
+   "type": "speech",
+   "text": "“Ask him.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p112",
+   "type": "speech",
+   "text": "“Reede said… there were hunters. With stolen chain. Trying to make it look like…”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p113",
+   "type": "speech",
+   "text": "“Ask him,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 185,
+   "para": "p113",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p114",
+   "type": "narration",
+   "text": "She pulled her hood forward and turned to go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p115",
+   "type": "speech",
+   "text": "“Maren.”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p116",
+   "type": "narration",
+   "text": "She stopped. She didn’t turn round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p117",
+   "type": "speech",
+   "text": "“They’ll throw you out,”",
+   "speaker": "Tobin",
+   "how": "low, urgent, frightened",
+   "mood": "urgent"
+  },
+  {
+   "seq": 190,
+   "para": "p117",
+   "type": "narration",
+   "text": "said Tobin behind her. The brightness had gone out of his voice. It came low and urgent and frightened.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 191,
+   "para": "p117",
+   "type": "speech",
+   "text": "“You know they will. For the lion. For what you know. For whatever you do next. Rowan couldn’t stop it if she wanted to.”",
+   "speaker": "Tobin",
+   "how": "low, urgent, frightened",
+   "mood": "urgent"
+  },
+  {
+   "seq": 192,
+   "para": "p117",
+   "type": "narration",
+   "text": "He was quiet a moment.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 193,
+   "para": "p117",
+   "type": "speech",
+   "text": "“When they throw you out of the gate with nothing, come and find us.”",
+   "speaker": "Tobin",
+   "how": "low, urgent, frightened",
+   "mood": "urgent"
+  },
+  {
+   "seq": 194,
+   "para": "p117",
+   "type": "narration",
+   "text": "She heard him swallow.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 195,
+   "para": "p117",
+   "type": "speech",
+   "text": "“We’ll still be here.”",
+   "speaker": "Tobin",
+   "how": "low, urgent, frightened",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p118",
+   "type": "narration",
+   "text": "She went out through the gate between the men with cudgels, and down the hill in the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p119",
+   "type": "narration",
+   "text": "At the bottom of the field, at the turn of the lane, she looked back once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p120",
+   "type": "narration",
+   "text": "The lanterns along the hedge were going out, one by one. Somebody was walking along the hedge with a pole, taking them down. The wain stood dark under the thorn. At the front corner of it, still, alone, a single torch, held up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p121",
+   "type": "narration",
+   "text": "Tam. Standing on the wain with his torch, looking down the hill after her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p122",
+   "type": "narration",
+   "text": "He didn’t call out. He didn’t lift his hand. He just stood there with the torch held up, so she could see him, until she turned the corner of the lane and couldn’t any more.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  }
+ ]
+}

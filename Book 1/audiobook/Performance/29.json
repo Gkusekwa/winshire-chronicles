@@ -1,0 +1,1322 @@
+{
+ "chapter": 29,
+ "title": "Without Words",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Twenty-nine.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Without Words.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The river watch has no word for what happens between two animals that can’t speak to each other and have decided not to kill each other yet. Ottery says the Saltreach shepherds have one. They use it for a dog and a fox that share a hillside: the fox knows the dog’s rounds, the dog knows the fox’s earth, and they pass each other at a distance every morning for years and never close it. The shepherds call it keeping the fence. There’s no fence. That’s the point. They keep it anyway.",
+   "mood": "reflective",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "She lit a fire on the twenty-ninth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "It was cold. That was the reason she gave herself. The long autumn had come down on the river like a lid: grey days, short and still, and nights with frost in them, so that when she poled across in Ottery’s punt in the dusk the reeds along the bank were white at the tips and her breath went out in front of her in clouds. The sling had come off at last, and the arm was sore, but it worked. Sitting on the bank of the stream for an hour in the dark, not moving, she’d gone so stiff on her last visit that she could barely stand up when the lion had gone. So she brought kindling in her pack, and a flint, and a twist of tow, and when she came down through the trees to the stream and sat in her place she built a fire in front of her, on the flat stones at the water’s edge, small, no bigger than a cooking fire, and lit it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "That was the reason she gave herself. It wasn’t all of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "She’d thought about it for days, mucking out in the dark before the bell. The brand in her hand at the stream. The fire swept across the air in front of its eyes. The burning end held to the claws at the tower door. She’d used fire on it. Not to hurt it. But she’d used it, and it would remember. Everything remembered fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "So she built one, and lit it, and put it on the ground. Between them. On her side of the water, and took her hand away from it, and sat back, and left it there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "thought",
+   "text": "Here is the thing I used against you,",
+   "speaker": "Maren",
+   "mood": "quiet"
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "narration",
+   "text": "she thought.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "thought",
+   "text": "And I’m not holding it.",
+   "speaker": "Maren",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p8",
+   "type": "narration",
+   "text": "Whether a thing like that could be said without words, she had no idea. She sat by her little fire and waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p9",
+   "type": "narration",
+   "text": "The lion came down to drink at the hour, the way it always did. It stopped at the edge of the trees on the far side of the stream and saw the fire, and stood there a long time. Its lip went back. Its head went low. She felt her whole body go cold, as it did every time, and she made herself not move. She sat by the fire with her hands open on her knees and looked at the water.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 14,
+   "para": "p10",
+   "type": "narration",
+   "text": "It stood at the edge of the trees for so long that the fire burned down to a red heap and she had to put on more sticks, one at a time, her hands shaking.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 15,
+   "para": "p11",
+   "type": "narration",
+   "text": "It came down to the water, and drank, on its own side, with its eyes on her and on the fire the whole time. Then it went.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 16,
+   "para": "p12",
+   "type": "narration",
+   "text": "She lit it every time after that. Every time, the lion stopped at the edge of the trees and looked at it. Every time, a little less long.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 17,
+   "para": "p13",
+   "type": "narration",
+   "text": "On the thirty-first night there was a moon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p14",
+   "type": "narration",
+   "text": "Just past full, white, coming up over the Saltreach bank as she sat down by her fire. It was colder than ever, and very still; the river lay like black glass, and the trees on the island stood without a sound, and the frost was already coming on the stones at the edge of the stream, so that her fire hissed when a spark landed on them.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p15",
+   "type": "narration",
+   "text": "The lion came down at the hour. It stopped at the edge of the trees, and looked at the fire, and at her. Not long, this time. It came down to the water and put its head down and drank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p16",
+   "type": "narration",
+   "text": "And stopped.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 21,
+   "para": "p17",
+   "type": "narration",
+   "text": "She saw it go still. All of it, at once. Its head came up out of the water and lifted, higher, higher, until its great scarred face was turned up to the sky. Its ears went forward. Water ran off its jaw and fell back into the stream in drops, and she could hear each one land.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 22,
+   "para": "p18",
+   "type": "narration",
+   "text": "She looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p19",
+   "type": "narration",
+   "text": "Something was crossing the moon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p20",
+   "type": "narration",
+   "text": "High. So high she didn’t understand at first how big it was. A shape. Dark against the white of the moon, and then against the stars. Wings. Long and slow and broad, going up and down, so slow that she could count the beats, and so big that when it went across the moon it covered half of it. It wasn’t a bird. Nothing was that big. Nothing in the world.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 25,
+   "para": "p21",
+   "type": "narration",
+   "text": "It was going round. Circling. Over the island. High and slow, in a great ring, under the stars.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p22",
+   "type": "narration",
+   "text": "She’d seen dragons all her life. Over the Scarfell on summer evenings, far off, small as swallows. She’d seen them fight over Harrow’s End in the firelight, the night the mill burned. She’d never seen one like this. So high, and so slow, and so quiet, going round and round over the island in the moonlight as if it were looking for something it had lost.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 27,
+   "para": "p23",
+   "type": "narration",
+   "text": "The lion watched it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p24",
+   "type": "narration",
+   "text": "It stood in the stream with its head up and its face to the sky and watched the shape go round. Once. Twice. Its pale eyes followed it, the whole circle, from the moon to the stars and back. It didn’t growl. It didn’t lift its lip. It didn’t move at all, except to turn its great head as the shape went round.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 29,
+   "para": "p25",
+   "type": "narration",
+   "text": "Under her, the ground hummed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p26",
+   "type": "narration",
+   "text": "She felt it before she heard it. Through the stones she was sitting on, through her legs and her back and her hands flat on the cold earth. A low steady trembling, like the hum of a wheel turning far off. She heard it then: a sound, coming up out of the ground under the stream, under the island, under everything, very deep and very soft. Like a bowl of bronze that someone had struck once, very gently, and that was still ringing. It went on and on. The water of the stream shivered with it. The frost on the stones shivered.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 31,
+   "para": "p27",
+   "type": "narration",
+   "text": "The lion watched the dragon go round, and the ground sang under it, and Maren sat by her fire with her hands on the humming earth and didn’t breathe.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 32,
+   "para": "p28",
+   "type": "narration",
+   "text": "The shape went round once more. Then it turned, high up, and went away east. Over the Saltreach bank, over the hills, toward the dark line of the Scarfell, getting smaller, until it went into the stars and she couldn’t see it any more.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p29",
+   "type": "narration",
+   "text": "The humming stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p30",
+   "type": "narration",
+   "text": "The lion stood in the stream with its face to the sky long after. Looking east. Where the shape had gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p31",
+   "type": "narration",
+   "text": "It lowered its head and turned it, and looked at her across the water. Straight at her. In the light of her fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p32",
+   "type": "narration",
+   "text": "She’d never been looked at like that by anything. She’d had the flat ice look from it, before it struck, and the long patient look on the shore in the sun. This was neither. As if it had seen something, up there, going round, that it had forgotten it remembered, and had turned to her, of all the things in the world, to see if she’d seen it too.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p33",
+   "type": "thought",
+   "text": "I saw,",
+   "speaker": "Maren",
+   "mood": "tender"
+  },
+  {
+   "seq": 38,
+   "para": "p33",
+   "type": "narration",
+   "text": "she thought.",
+   "mood": "tender"
+  },
+  {
+   "seq": 39,
+   "para": "p33",
+   "type": "thought",
+   "text": "I saw it. I don’t know what it was. I saw.",
+   "speaker": "Maren",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p34",
+   "type": "narration",
+   "text": "The lion looked at her a moment longer. It went away up the stream into the trees, and she sat by her fire until it went out.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 41,
+   "para": "p35",
+   "type": "narration",
+   "text": "She told Hale about the shadow, the next afternoon, in the archive. He listened without moving, the way he did. When she got to the humming in the ground, his hand went to his keys.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p36",
+   "type": "speech",
+   "text": "“It watched it,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 43,
+   "para": "p36",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 44,
+   "para": "p36",
+   "type": "speech",
+   "text": "“The whole time. The way you’d watch someone you knew, going by on the road. As if it knew it.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p37",
+   "type": "narration",
+   "text": "Hale was quiet a while.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p38",
+   "type": "speech",
+   "text": "“A dragon,”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 47,
+   "para": "p38",
+   "type": "narration",
+   "text": "he said at last.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p39",
+   "type": "speech",
+   "text": "“A big one. Bigger than any I’ve seen.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p40",
+   "type": "speech",
+   "text": "“Bronze, would you say? In the moonlight?”",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p41",
+   "type": "narration",
+   "text": "She stared at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p42",
+   "type": "speech",
+   "text": "“I don’t know. It was too high. It was just dark. Why?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p43",
+   "type": "narration",
+   "text": "He didn’t answer. He turned a page of his black book, and didn’t read it, and turned another.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 53,
+   "para": "p44",
+   "type": "speech",
+   "text": "“The ground hummed,”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 54,
+   "para": "p44",
+   "type": "narration",
+   "text": "he said, as if to himself."
+  },
+  {
+   "seq": 55,
+   "para": "p44",
+   "type": "speech",
+   "text": "“Like a struck bowl.”",
+   "speaker": "Hale",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 56,
+   "para": "p45",
+   "type": "narration",
+   "text": "She brought the chisel on the thirty-fourth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p46",
+   "type": "narration",
+   "text": "She’d been thinking about it since the twenty-eighth. Since she’d seen the raw band in the fur under the collar, where the iron had rubbed it away. She’d thought about it every morning in the Long Barn, mucking out the boar’s stall, looking at the great black tusked head and the old iron ring through the boar’s nose that Captain Thorne had put there when it was a piglet and that it had grown round. She’d thought about it at drill and in the refectory and in the dormitory at night, with the chisel and the hammer in the bottom of her chest wrapped in a shirt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p47",
+   "type": "narration",
+   "text": "The collar was the hunters’. It was their chain. Every link of it had the ring of six. It sat on the lion’s neck day and night, rubbing, and every time it went down to drink the broken end of the chain dragged in the water. She’d put it there, in a way. She’d cut the chain and let it go, and not cut the collar, because there hadn’t been time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p48",
+   "type": "narration",
+   "text": "She’d thought:"
+  },
+  {
+   "seq": 60,
+   "para": "p48",
+   "type": "thought",
+   "text": "I can take it off.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p49",
+   "type": "narration",
+   "text": "She’d thought:"
+  },
+  {
+   "seq": 62,
+   "para": "p49",
+   "type": "thought",
+   "text": "it lets me sit at the stream. It lets me light a fire. It watched the dragon, and then it looked at me.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p50",
+   "type": "narration",
+   "text": "She’d thought:"
+  },
+  {
+   "seq": 64,
+   "para": "p50",
+   "type": "thought",
+   "text": "it’ll understand.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p51",
+   "type": "narration",
+   "text": "She was wrong.",
+   "mood": "dread",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 66,
+   "para": "p52",
+   "type": "narration",
+   "text": "She lit her fire. She sat in her place. The lion came down at the hour and stopped at the edge of the trees and looked at the fire, not long now, hardly at all, and came down to the water and drank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p53",
+   "type": "narration",
+   "text": "She stood up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p54",
+   "type": "narration",
+   "text": "She’d never stood up while it was there. Not once since the tower. She stood up slowly, as you’d stand in a boat, with her hands out from her sides, and saw its head come up out of the water and its eyes go to her. She took the hammer and the chisel out of her belt. She held them low, at her sides, where it could see them.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 69,
+   "para": "p55",
+   "type": "narration",
+   "text": "She stepped into the stream.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p56",
+   "type": "narration",
+   "text": "It was the first time. Twenty paces, the stream between them, all those evenings. She’d never crossed it. She’d never even put her foot in it. She stepped down off the bank into the cold water, to her shins, and took another step, toward the middle, toward the lion standing on the far side with the broken end of the chain hanging from its collar in the stream.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 71,
+   "para": "p57",
+   "type": "thought",
+   "text": "Easy,",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 72,
+   "para": "p57",
+   "type": "narration",
+   "text": "she thought at it."
+  },
+  {
+   "seq": 73,
+   "para": "p57",
+   "type": "thought",
+   "text": "Easy. I’m going to take it off. That’s all. I’m going to take it off you.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p58",
+   "type": "narration",
+   "text": "Its lip went back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p59",
+   "type": "narration",
+   "text": "She took another step. The water was to her knees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p60",
+   "type": "narration",
+   "text": "Its head went low. Its shoulders bunched.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p61",
+   "type": "thought",
+   "text": "Easy.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p62",
+   "type": "narration",
+   "text": "She took another step, and it came.",
+   "mood": "dread",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 79,
+   "para": "p63",
+   "type": "narration",
+   "text": "It didn’t come the way it had come at the stream before, fast, all at once, like a cat off a wall. It came the way it had come down the shore the night it woke: slowly. One great paw and then another, through the water, with its head low and its lip back and its eyes gone flat as ice. And she knew. She knew then, with the water round her knees and the chisel in her hand, that she’d been wrong about everything. That it didn’t understand. That it couldn’t. That what it saw, coming across the stream at it in the dusk, was not a girl who’d sat by its water for three weeks and lit a fire and not moved.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 80,
+   "para": "p64",
+   "type": "narration",
+   "text": "A human with iron in her hands, coming at its neck.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 81,
+   "para": "p65",
+   "type": "narration",
+   "text": "She turned to run. She was too slow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p66",
+   "type": "narration",
+   "text": "The forefoot took her across the back and threw her forward into the shallows on the far side, and before she could get up it was on her. She was on her back on the stones at the edge of the stream, half in the water, and the foot was on her chest. The whole weight of it. Pressing down. The claws were out, all four, long and pale, and they’d gone into the mud on either side of her, either side of her ribs, so that she was pinned in a cage of them. And the weight went on coming down.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p67",
+   "type": "narration",
+   "text": "She couldn’t breathe. She heard something in her side go, a crack, like a stick under a boot. The pain came after, white and huge. She tried to scream and there was no air to do it with.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p68",
+   "type": "narration",
+   "text": "Its head came down over her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p69",
+   "type": "narration",
+   "text": "The great scarred face, an arm’s length from hers. The teeth. The breath, hot and foul. The pale eyes, flat, looking down at her with nothing in them at all. Nothing she knew. Nothing that had ever sat across a stream from her and watched a dragon go over the moon.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 86,
+   "para": "p70",
+   "type": "narration",
+   "text": "And the weight went on coming down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p71",
+   "type": "thought",
+   "text": "I’m going to die,",
+   "speaker": "Maren",
+   "mood": "quiet"
+  },
+  {
+   "seq": 88,
+   "para": "p71",
+   "type": "narration",
+   "text": "she thought, quite clearly.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 89,
+   "para": "p71",
+   "type": "thought",
+   "text": "Here. In the stream. Under its foot. Because I wanted to take off its collar.",
+   "speaker": "Maren",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p72",
+   "type": "narration",
+   "text": "Then:"
+  },
+  {
+   "seq": 91,
+   "para": "p72",
+   "type": "thought",
+   "text": "no.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p73",
+   "type": "narration",
+   "text": "The hammer was still in her hand. She didn’t know how. Her right hand, her good one, flung out sideways on the stones, still holding it. She felt it there, the short ash handle in her fist.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p74",
+   "type": "remembered",
+   "text": "Subdue,",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 94,
+   "para": "p74",
+   "type": "narration",
+   "text": "Pell said, in her head, at the Lesson Wall, with his ruined hand held up."
+  },
+  {
+   "seq": 95,
+   "para": "p74",
+   "type": "remembered",
+   "text": "Don’t kill. You’ll want to. Don’t. There’s always somewhere you can hit that hurts and doesn’t harm. Find it.",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p75",
+   "type": "narration",
+   "text": "She brought the hammer up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p76",
+   "type": "narration",
+   "text": "Not the head. She turned it in her hand as it came, and brought the butt of the handle up, the blunt end of the ash, hard, with all the strength she had left, into the soft dark leather of its nose.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p77",
+   "type": "narration",
+   "text": "Once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p78",
+   "type": "narration",
+   "text": "The way Grieve stopped the boar, when it went for him, with the flat of a shovel. Not a wound. Just pain. Sharp and sudden, in the one place on any beast’s face that has no armour.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p79",
+   "type": "narration",
+   "text": "The lion reared back off her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p80",
+   "type": "narration",
+   "text": "It went up, all of it, off her chest, with a sound that came out of it like a tree splitting, a roar and a cough and a snarl all at once. Its head went up and back, shaking, and its forefoot came off her and went to its own face, pawing at its nose. The ground under the stream heaved. She felt it under her back, the whole bank lifting and dropping, and a stone she was lying on split clean in two.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p81",
+   "type": "narration",
+   "text": "She rolled.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p82",
+   "type": "narration",
+   "text": "She rolled off the stones into the stream, into the water, and it took her. The stream ran fast and steep there, down the last of the slope toward the river, over stones, and she went down it on her back, half floating, half dragged, with the cold closing over her face and her side screaming. Down. Round a bend. Over a little fall. Into the shallows at the mouth of the stream, where it ran out into the west channel among the reeds.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p83",
+   "type": "narration",
+   "text": "Something hooked her coat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p84",
+   "type": "narration",
+   "text": "She was pulled. Hard. Up out of the water, over the side of something wooden, and dropped in the bottom of it on her face, choking. She heard a pole go into the water, and the boat move, fast, out of the reeds, out into the channel. She heard someone breathing hard.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p85",
+   "type": "narration",
+   "text": "She rolled over in the bottom of the punt and looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p86",
+   "type": "narration",
+   "text": "Ottery stood in the stern with the punt pole in his hands, poling like a man half his age, out into the middle of the west channel, away from the island. His face was grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p87",
+   "type": "narration",
+   "text": "On the bank above the mouth of the stream, in the dusk, the lion stood.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p88",
+   "type": "narration",
+   "text": "It stood at the top of the slope with its head down and its mane up round it like a storm cloud and its nose bleeding a little, dark on the leather. Ten feet at the shoulder. Taller than a dray-beast. Taller than anything that had any right to be standing on a riverbank in Hearthmere. It stood there and watched the punt go out into the channel, and Ottery poling, and her in the bottom of it. It didn’t come down to the water. It didn’t roar. It just stood, and looked.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 110,
+   "para": "p89",
+   "type": "narration",
+   "text": "Ottery looked back at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p90",
+   "type": "narration",
+   "text": "He poled. He kept quiet the whole way across the west channel. Then, with the lights of Redwatch showing ahead on the Hearthmere bank, he said, in a voice she’d never heard him use:",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p91",
+   "type": "speech",
+   "text": "“Your mother told me once what your father heard out there. Years back, at a wake, with drink in her. And I told her he’d dreamed it.”",
+   "speaker": "Ottery",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p92",
+   "type": "narration",
+   "text": "She lay in the bottom of the punt and looked up at the stars.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p93",
+   "type": "speech",
+   "text": "“I told her: he was a boy, Liss. He was cold. He was lost in the fog. He heard the river.”",
+   "speaker": "Ottery",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p94",
+   "type": "narration",
+   "text": "He poled.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p95",
+   "type": "speech",
+   "text": "“Why were you there?”",
+   "speaker": "Maren",
+   "how": "whispered"
+  },
+  {
+   "seq": 117,
+   "para": "p95",
+   "type": "narration",
+   "text": "she said. Her voice came out in a whisper. Every breath hurt."
+  },
+  {
+   "seq": 118,
+   "para": "p95",
+   "type": "speech",
+   "text": "“In the channel. You always wait at the spit.”",
+   "speaker": "Maren",
+   "how": "whispered",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p96",
+   "type": "speech",
+   "text": "“Didn’t like the quiet,”",
+   "speaker": "Ottery",
+   "mood": "humour"
+  },
+  {
+   "seq": 120,
+   "para": "p96",
+   "type": "narration",
+   "text": "said Ottery.",
+   "mood": "humour"
+  },
+  {
+   "seq": 121,
+   "para": "p96",
+   "type": "speech",
+   "text": "“The birds stopped. On the west side. I sat at the spit and heard them stop, all at once. You don’t sit still for that, on the river. So I came round.”",
+   "speaker": "Ottery",
+   "mood": "humour"
+  },
+  {
+   "seq": 122,
+   "para": "p96",
+   "type": "narration",
+   "text": "He spat over the side.",
+   "mood": "humour"
+  },
+  {
+   "seq": 123,
+   "para": "p96",
+   "type": "speech",
+   "text": "“Good thing too.”",
+   "speaker": "Ottery",
+   "mood": "humour",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 124,
+   "para": "p97",
+   "type": "narration",
+   "text": "Two cracked ribs. The old surgeon said so, prodding her side in the infirmary while she lay on the bench with her teeth set, and then swore at her again, and asked who’d bound her this time, and she said nobody, and he swore more. Then he put both hands flat on her side and said the knitting-words over the ribs, the ones the crown licensed him for, three times through, flat and bored, like a man counting sacks. The ache went down to something she could lie on. The words only hurried what the bone would do anyway, he said. She’d still be two days on her back. A long shallow gash across the outside of her right thigh where a claw had caught her when the foot came down; she hadn’t even felt it. And bruises. Great purple-black bruises across her chest and down her back, spreading, so that by the next morning when she looked down at herself in the dormitory she could see the shape of it. The pads. The four toes. Printed on her.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p98",
+   "type": "narration",
+   "text": "She lay on her cot in the dormitory for two days, with her side bound, and couldn’t muck out, and Grieve said nothing about it, and Ide Darrow brought her soup.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p99",
+   "type": "narration",
+   "text": "She thought.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p100",
+   "type": "narration",
+   "text": "She lay on her back on her cot and looked at the ceiling of the dormitory, at the cracks in the old plaster, and thought about it, properly, the way Pell had taught her to think about things. From the beginning, and about what she’d done rather than what she’d wanted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p101",
+   "type": "narration",
+   "text": "She’d stood up. She’d never stood up before, while it was there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p102",
+   "type": "narration",
+   "text": "She’d taken out iron. She’d held it at her sides, where it could see.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p103",
+   "type": "narration",
+   "text": "She’d crossed the water. Its water. The line she’d never crossed in three weeks of sitting on the far bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p104",
+   "type": "narration",
+   "text": "And she’d come at its neck. With iron. At the collar.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p105",
+   "type": "narration",
+   "text": "That was what the hunters did. That was what they’d done, every night, for weeks: crept up on it while it slept, with chains and iron, to its neck. That was the last thing that had come at its neck before her. Two men with a hinged collar on a pole, and a third with a hammer, hammering the pin over while their hands shook.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p106",
+   "type": "thought",
+   "text": "It read me,",
+   "speaker": "Maren",
+   "mood": "reflective"
+  },
+  {
+   "seq": 134,
+   "para": "p106",
+   "type": "narration",
+   "text": "she thought.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 135,
+   "para": "p106",
+   "type": "thought",
+   "text": "The only way it could. By what I did. And what I did was what they did.",
+   "speaker": "Maren",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p107",
+   "type": "narration",
+   "text": "The fire on the ground, and her hands open, and not moving: that had said something, whatever it was. Then she’d stood up and taken out iron and walked across its water at its neck, and that had said something too, much louder, and it had answered.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p108",
+   "type": "thought",
+   "text": "Without words,",
+   "speaker": "Maren",
+   "mood": "reflective"
+  },
+  {
+   "seq": 138,
+   "para": "p108",
+   "type": "narration",
+   "text": "she thought.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 139,
+   "para": "p108",
+   "type": "thought",
+   "text": "It’s all without words. Everything I do is a word. Where I sit. What I hold. Which way I walk. Whether I cross the water.",
+   "speaker": "Maren",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p109",
+   "type": "narration",
+   "text": "There was the other thing, too. The hammer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p110",
+   "type": "narration",
+   "text": "She’d struck it. After all of it. After the shore, and the stream, and the tower, and not once, she’d struck it. In the nose, with the butt of a hammer, as hard as she could.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p111",
+   "type": "narration",
+   "text": "She waited to feel ashamed. She lay there a good while waiting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p112",
+   "type": "narration",
+   "text": "It didn’t come.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p113",
+   "type": "thought",
+   "text": "I didn’t harm it,",
+   "speaker": "Maren",
+   "mood": "reflective"
+  },
+  {
+   "seq": 145,
+   "para": "p113",
+   "type": "narration",
+   "text": "she thought.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 146,
+   "para": "p113",
+   "type": "thought",
+   "text": "I hurt it. That’s different. Pell says so. Grieve does it to the boar with a shovel. I hurt it once, in the one place that doesn’t harm, to make it stop crushing me. And it stopped.",
+   "speaker": "Maren",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p114",
+   "type": "thought",
+   "text": "And it didn’t come after me. It stood on the bank and watched me go. It could have come down to the water. It didn’t.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p115",
+   "type": "narration",
+   "text": "What that meant, she couldn’t say either.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 149,
+   "para": "p116",
+   "type": "narration",
+   "text": "She went back on the thirty-eighth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p117",
+   "type": "narration",
+   "text": "Ottery took her. She rode Turnip out to Redwatch after evening muck, the way she always did now, and he was at the boathouse steps with the punt. He handed her the pole, and when she couldn’t use it, because of her side, he took it back without a word and poled them across the channel himself, in the frost. At the island he didn’t stay at the spit. He took the punt round to the mouth of the west channel, and into the reeds, and sat there in the stern with his pipe and the boathook across his knees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p118",
+   "type": "narration",
+   "text": "She went up the stream. Slowly. Her side was bad. She came to her place on the bank and stopped, and didn’t sit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p119",
+   "type": "narration",
+   "text": "She took the hammer and the chisel out of her belt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p120",
+   "type": "narration",
+   "text": "There was a flat stone at the edge of the water on her side of the stream, a big one, grey, with a dip in the middle where the rain collected. She laid them on it. The hammer and the chisel, side by side, on the flat grey stone, in plain sight, where anything on the far bank could see them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p121",
+   "type": "narration",
+   "text": "She walked away from them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p122",
+   "type": "narration",
+   "text": "Ten paces. Upstream. Away from the water, up the bank, away from the stone with the iron on it. She counted the paces. At ten she stopped, and turned round, and sat down with her hand pressed to her side, on the cold earth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p123",
+   "type": "narration",
+   "text": "She didn’t light a fire. She’d thought about it. She’d decided. Not tonight. Tonight there’d be nothing between them but the stream, and the stone with the iron on it, and her, sitting a long way back from it, with empty hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p124",
+   "type": "narration",
+   "text": "The lion came down at the hour.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p125",
+   "type": "narration",
+   "text": "It stopped at the edge of the trees. It looked at her. It looked at the place by the water where she usually sat, where her fire usually was, and it wasn’t there. It looked at the flat grey stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p126",
+   "type": "narration",
+   "text": "It looked at the stone for a very long time.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 160,
+   "para": "p127",
+   "type": "narration",
+   "text": "She watched it out of the corner of her eye. She didn’t look at it straight. She sat with her hands open on her knees and her side aching and the frost coming on the grass around her and watched it look at the hammer and the chisel lying on the stone. Its head went low. Its lip went back. The ground under her trembled, just a little.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p128",
+   "type": "narration",
+   "text": "It didn’t come.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p129",
+   "type": "narration",
+   "text": "It stood at the edge of the trees on the far bank and looked at the iron, and at her, sitting ten paces back from the iron with nothing in her hands. Slowly, its lip came down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p130",
+   "type": "narration",
+   "text": "It didn’t drink. It didn’t go away. It did something it had never done.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p131",
+   "type": "narration",
+   "text": "It lay down.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 165,
+   "para": "p132",
+   "type": "narration",
+   "text": "On its own side of the stream. At the edge of the trees. It folded its forelegs under its great chest, like a cat on a doorstep, and lowered itself onto the frosty grass, and lay there with its head up, facing her across the water, with the collar on its neck and the cut chain lying in the grass beside it, and looked at her.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p133",
+   "type": "narration",
+   "text": "She didn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p134",
+   "type": "narration",
+   "text": "They stayed like that until it was dark. The stream went between them. The stone with the iron on it lay at the edge of the water on her side, grey and still. The frost came down. The stars came out. The cold went into her until she couldn’t feel her hands, and she didn’t move them, and across the water, in the dark, she could hear it breathing: slow, and even, and deep. Not eleven to the quarter hour. Not asleep. Just breathing. The way something breathes when it’s lying down near something else, and has decided, for now, to let it be.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p135",
+   "type": "thought",
+   "text": "Keeping the fence,",
+   "speaker": "Maren",
+   "mood": "quiet"
+  },
+  {
+   "seq": 169,
+   "para": "p135",
+   "type": "narration",
+   "text": "she thought.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p136",
+   "type": "narration",
+   "text": "When it got up at last and went away into the trees, she waited until she couldn’t hear it. She got up and went down to the flat stone, and picked up the hammer and the chisel, and put them in her belt, and went back down the stream to Ottery in the reeds.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p137",
+   "type": "narration",
+   "text": "He looked at her face in the light of his pipe.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p138",
+   "type": "speech",
+   "text": "“Well?”",
+   "speaker": "Ottery"
+  },
+  {
+   "seq": 173,
+   "para": "p138",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p139",
+   "type": "speech",
+   "text": "“It lay down,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 175,
+   "para": "p139",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p140",
+   "type": "narration",
+   "text": "Ottery looked at her. He knocked out his pipe on the side of the punt, and picked up the pole.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p141",
+   "type": "speech",
+   "text": "“Your father would have liked that,”",
+   "speaker": "Ottery",
+   "mood": "tender"
+  },
+  {
+   "seq": 178,
+   "para": "p141",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  }
+ ]
+}

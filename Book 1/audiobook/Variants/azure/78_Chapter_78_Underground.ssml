@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<voice name="en-GB-RyanNeural">
+<!-- The Watch Below, Chapter 78: Underground. Point of view: Calder. -->
+<p><s>Chapter Seventy-eight.</s></p><break time="800ms"/>
+<p><s>Underground.</s></p><break time="1800ms"/>
+<!-- p1 -->
+<p>The cavern shook.</p><break time="500ms"/>
+<!-- p2 · dread -->
+<p><prosody rate="96%">It didn’t stop. It hadn’t stopped since the floor went. The rubble slope under him trembled like a cart-bed on a bad road, all the time, and every so often it heaved, and stones came down out of the dark overhead and hit the slope and went bouncing past them down into the deeper dark below, and he never heard them land.</prosody></p><break time="800ms"/>
+<!-- p3 -->
+<p>The chains sang.</p><break time="500ms"/>
+<!-- p4 -->
+<p>They were lit. Each link of all six with a thin white line of writing on the inside of the curve, burning, so that the chains went up past him into the dark like six long strings of beads, and down ahead of him into the deeper dark the same, smaller and smaller. He’d seen it on the ledge. It was brighter now.</p><break time="500ms"/>
+<!-- p5 · dread -->
+<p><prosody rate="96%">He’d thought it was a sound you couldn’t hear. Now it was a note. High and thin and getting higher, from all six of them at once. He’d heard that sound once, as a boy, on Fisk’s boat, from a rope in a gale, and Fisk had thrown him flat in the bottom of it a moment before the rope parted and the end came whipping back over the gunwale where his head had been.</prosody></p><break time="800ms"/>
+<!-- p6 -->
+<p>Below the slope, out in the dark at the far end of the chains, something was lifting.</p><break time="500ms"/>
+<!-- p7 · dread -->
+<p><prosody rate="96%">He couldn’t see it. He could feel it. The whole dark at the bottom of the cavern moving upward, slowly, like a barn floor when something under it stands up.</prosody></p><break time="800ms"/>
+<!-- p8 -->
+<p>He sat on the rubble beside Aurveth with his hand on her neck and Kharrak lying against her other side, and Kharrak’s fire burning low in his throat for light, and watched the dark.</p><break time="500ms"/>
+<!-- p9 · Calder (thought) -->
+<p><prosody rate="97%" volume="-4dB">Lisska,</prosody> he thought.</p><break time="500ms"/>
+<!-- p10 -->
+<p>The small bright fire. It had stayed still a long while, far off under the other bank. Then, a little after the floor went, it had started to move, and it hadn’t stopped since. Through the rock. From the west. Closer and closer, and still not close enough for words.</p><break time="500ms"/>
+<!-- p11 · urgent · Calder (thought) -->
+<p><prosody rate="105%"><prosody rate="97%" volume="-4dB">Come on,</prosody> he thought. <prosody rate="97%" volume="-4dB">Come on. Come on.</prosody></prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p12 · Lisska (bond, to Calder), loud, sudden -->
+<p><prosody rate="94%" volume="-2dB">…alder! Calder! Calder, can you hear me, can you, Calder…</prosody></p><break time="500ms"/>
+<!-- p13 · urgent -->
+<p><prosody rate="105%">It came into his head so suddenly and so loud that he cried out.</prosody></p><break time="500ms"/>
+<!-- p14 · Calder (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">I’m here! I’m here, little one, I’m here…</prosody></p><break time="500ms"/>
+<!-- p15 · urgent: breathless, tumbling, joyful · Lisska (bond, to Calder), high, wild, breaking -->
+<p><prosody rate="105%"><prosody rate="94%" volume="-2dB">I’ve got her!</prosody> Lisska’s voice was high and wild and breaking. <prosody rate="94%" volume="-2dB">I’ve got her, she’s with me, she’s got the lion, Calder, she understood, she got it, she understood everything, the two, the locks, she went to the school, she went down, she, Calder, Calder, there’s a man dead, there’s a man dead on the lock, she, and the lion, the lion’s called Orrun, and he can hear me, Calder, he can <emphasis level="moderate">Hear</emphasis> me, he’s kin, we’re kin, a long way back, and he told her, he told her what I said, and she…</prosody></prosody></p><break time="500ms"/>
+<!-- p16 · Calder (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">Lisska. Slow. Where are you?</prosody></p><break time="500ms"/>
+<!-- p17 · urgent · Lisska (bond, to Calder) -->
+<p><prosody rate="105%"><prosody rate="94%" volume="-2dB">Coming. Along the stone road. Under the river. The old one. There’s a road, Calder, a road under the river, all stone, like the bottom of the pit, and he knew it, he knew it was there, and it’s falling down behind us and we’re running and…</prosody> A breath. <prosody rate="94%" volume="-2dB">Nearly there. I can see Kharrak’s fire. I can see it. On the wall. Ahead of us.</prosody></prosody></p><break time="500ms"/>
+<!-- p18 -->
+<p>He stood up on the rubble.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p19 -->
+<p>He saw the light first.</p><break time="500ms"/>
+<!-- p20 -->
+<p>Across the floor of the cavern, at the foot of the far wall, low down, where he hadn’t seen anything before: a square of dark that was darker than the dark. An opening. In it, coming toward him, light. Yellow. Small. A lantern.</p><break time="500ms"/>
+<!-- p21 -->
+<p>A sound with it. Feet. Big feet, padding, and claws on stone, scrabbling, and the rock round the opening groaning.</p><break time="500ms"/>
+<!-- p22 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">There!</prosody> said Lisska. <prosody rate="94%" volume="-2dB">There, Calder, look, <emphasis level="moderate">Look</emphasis>…</prosody></p><break time="500ms"/>
+<!-- p23 -->
+<p>She came out of the opening first.</p><break time="500ms"/>
+<!-- p24 · tender -->
+<p><prosody rate="95%">Green, at a run, low, with her wings scraped raw and filthy and the blue ribbon still on her horn, across the floor of the cavern through the falling stones and the dust, and up the rubble slope, and round him. All the way round. With her head against his chest and her whole long body curled round him, shaking.</prosody></p><break time="500ms"/>
+<!-- p25 · tender: breathless, proud · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">I did it,</prosody> she said. <prosody rate="94%" volume="-2dB">I did it. I found her. I put it down a good way off like you said and I waited and she came, she came to it, and she couldn’t hear me and I didn’t know what to do, and then the lion put his head down to me and I could…</prosody> She stopped. <prosody rate="94%" volume="-2dB">Calder. She’s here.</prosody></prosody></p><break time="500ms"/>
+<!-- p26 -->
+<p>He looked up over Lisska’s neck.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p27 -->
+<p>Something came out of the opening in the far wall.</p><break time="500ms"/>
+<!-- p28 · awe -->
+<p><prosody rate="95%">Big. Grey. Low. Its head down and its shoulders working, the rock round the opening moving back from it as it came. Ten feet at the shoulder. More. With a great grey mane, dark with dust and sweat. With pale eyes that caught Kharrak’s fire across the cavern floor and threw it back.</prosody></p><break time="800ms"/>
+<!-- p29 -->
+<p>He’d seen its prints. In the snow by her fire. Round, each as broad as a round shield, four toes splayed and the claws drawn in. He’d heard it breathe in the dark under the oaks and backed away. He’d had it from Lisska, a league off, word by word: lying in the arch with its head on the step and a woman’s hand in its mane.</p><break time="500ms"/>
+<!-- p30 -->
+<p>He’d never seen it.</p><break time="500ms"/>
+<!-- p31 -->
+<p>It came across the floor of the cavern toward the rubble slope, steady, not hurrying, through the falling stones, with the lantern on its back.</p><break time="500ms"/>
+<!-- p32 -->
+<p>And on its back, holding the lantern, a woman.</p><break time="500ms"/>
+<!-- p33 -->
+<p>It stopped at the foot of the slope.</p><break time="500ms"/>
+<!-- p34 -->
+<p>Ten paces off.</p><break time="500ms"/>
+<!-- p35 · quiet -->
+<p><prosody rate="95%">Exactly ten.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p36 -->
+<p>She got down.</p><break time="500ms"/>
+<!-- p37 -->
+<p>She slid off its neck onto the floor of the cavern and stood there. In the light of the lantern she held, and of Kharrak’s fire.</p><break time="500ms"/>
+<!-- p38 -->
+<p>He’d never seen her face.</p><break time="500ms"/>
+<!-- p39 -->
+<p>He knew her like weather in another valley, by Lisska’s telling: on the east shore of the island in the dusk, pointing across the channel; at the stream in the first autumn days; a narrow shape in a cloak in the arch, in the rain, at night, two leagues off. Boot-prints. A fire. A long pressed hollow beside a smaller one at the edge of a pit, both warm. He’d never once been close enough to see her face.</p><break time="500ms"/>
+<!-- p40 · quiet -->
+<p><prosody rate="95%">A woman. Older than he’d thought. Twenty-five, thirty. Dark hair tied back hard behind her head. A long face, weathered, river-brown, with the broad bones of her mother’s in it. Blood on it. Dust on it. In a shirt and breeches and a brown cloak too big for her, with a sword in her belt that wasn’t a knight’s sword, and her hands wrapped in rags that were black with blood and burned through at the palms. Blood on her to the elbow.</prosody></p><break time="500ms"/>
+<!-- p41 -->
+<p>She looked at him.</p><break time="500ms"/>
+<!-- p42 -->
+<p>He looked at her.</p><break time="500ms"/>
+<!-- p43 · Calder (thought) -->
+<p><prosody rate="97%" volume="-4dB">She’s here,</prosody> he thought. <prosody rate="97%" volume="-4dB">I warned her and she came.</prosody></p><break time="500ms"/>
+<!-- p44 · quiet · Calder (thought) -->
+<p><prosody rate="95%"><prosody rate="97%" volume="-4dB">I don’t know her at all.</prosody></prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p45 · Calder -->
+<p>“You got it,” he said.</p><break time="500ms"/>
+<!-- p46 · humour · Calder (thought) -->
+<p>It was the first thing. He didn’t know where it came from. He’d thought about what he’d say to her, a hundred times, on the hill, in the tower, on the ferry jetty. <prosody rate="97%" volume="-4dB">Tell her the old one says it’s the cat from the bridge.</prosody> None of it. He stood on the rubble with Lisska curled round him and said <emphasis level="moderate">you got it</emphasis>, like a man asking if a parcel had come.</p><break time="500ms"/>
+<!-- p47 -->
+<p>She put her hand inside her shirt.</p><break time="500ms"/>
+<!-- p48 -->
+<p>She took out something wrapped in a strip of grey cloth, and held it out. On the outside of the cloth, brown and black and ragged, burned with a coal: T W O.</p><break time="500ms"/>
+<!-- p49 · Maren, hoarse, low -->
+<p><prosody volume="-5dB">“I got it,”</prosody> she said.</p><break time="500ms"/>
+<!-- p50 -->
+<p>Her voice was hoarse. Low. A river voice, from the Hearthmere bank, like her mother’s.</p><break time="500ms"/>
+<!-- p51 · Maren -->
+<p>“Your dragon told my lion,” she said. “My lion told me.”</p><break time="500ms"/>
+<!-- p52 -->
+<p>He didn’t understand that.</p><break time="500ms"/>
+<!-- p53 -->
+<p>He came down the rubble slope with Lisska beside him, and across the gap, and took the bundle out of her hand. The five links inside it. The first chain. From the ruts at Upper Rush, the night of the raid. Heavy. Warm from her shirt.</p><break time="500ms"/>
+<!-- p54 -->
+<p>The lion watched him come. He felt it look at him. Like a person.</p><break time="500ms"/>
+<!-- p55 · Maren -->
+<p>“I met her,” said Maren.</p><break time="500ms"/>
+<!-- p56 -->
+<p>He looked up.</p><break time="500ms"/>
+<!-- p57 · tender · Maren -->
+<p><prosody rate="95%">“At the gate. At Greyhold. In the war. In the crush, with my mother, when the camp burned. She came up the road right behind my mother.” Maren’s mouth went tight. “She knew me. She said <prosody volume="-3dB">you’re her.</prosody> She said Lisska said I’d have my hair tied back like this.” She swallowed. “She held on to my arm. With both hands. Right up to the gate. I pushed her through.”</prosody></p><break time="500ms"/>
+<!-- p58 · tender -->
+<p><prosody rate="95%">He couldn’t speak.</prosody></p><break time="500ms"/>
+<!-- p59 · tender · Maren -->
+<p><prosody rate="95%">“Your mother’s in the Long Barn,” said Maren. “At Greyhold. With your sister and the little ones and the three greys, behind a barricade, with the grooms and Grieve with a pitchfork, and a grey dray-beast in the gap that nobody would come near.” She looked at him. “Wren wouldn’t stay in. She went back to the ferry house to be with my mother. She was there at dusk. It’s stone. It’s by the water. It’s…” She stopped. “I don’t know where she is now. I’m sorry.”</prosody></p><break time="500ms"/>
+<!-- p60 · Calder -->
+<p>“She’s alive.”</p><break time="500ms"/>
+<!-- p61 · Maren -->
+<p>“She was at dusk.”</p><break time="500ms"/>
+<!-- p62 · quiet -->
+<p><prosody rate="95%">He stood there in the dark at the bottom of the world with the chain in his hand.</prosody></p><break time="500ms"/>
+<!-- p63 · tender · Maren -->
+<p><prosody rate="95%">“She says hello,” said Maren. “She sent it by my mother. <prosody volume="-3dB">A girl called Wren says hello.</prosody> Then on the road she asked me had I given it to the lion.”</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p64 -->
+<p>The cavern heaved.</p><break time="500ms"/>
+<!-- p65 · action -->
+<p><prosody rate="104%">All of it. The floor under their feet, the rubble slope behind him, the far wall where the opening was. The dark overhead. Stones came down all round them, and a big one, as big as a cart, came down out of the dark onto the floor a stone’s throw off and broke in half. The lion’s head went up. Kharrak’s fire flared.</prosody></p><break time="500ms"/>
+<!-- p66 -->
+<p>The chains screamed.</p><break time="500ms"/>
+<!-- p67 · dread -->
+<p><prosody rate="96%">He’d never heard iron scream. It did. All six of them at once, a sound so high and terrible he put his hands over his ears.</prosody></p><break time="800ms"/>
+<!-- p68 -->
+<p>Then it stopped. Shuddering. Holding. Just.</p><break time="500ms"/>
+<!-- p69 -->
+<p>In the quiet after it the lion moved.</p><break time="500ms"/>
+<!-- p70 -->
+<p>It went past him. Past her. Up the rubble slope, slowly, with the stones sliding under its feet, toward the place where Aurveth lay with her torn wing out over the rubble and her one gold eye open.</p><break time="500ms"/>
+<!-- p71 -->
+<p>Kharrak came up off the stones between them with his broken horn lowered and a growl in him like a kiln-door opening.</p><break time="500ms"/>
+<!-- p72 · Aurveth (bond, to Kharrak) -->
+<p><prosody rate="94%" volume="-2dB">Lie down, child,</prosody> said Aurveth.</p><break time="500ms"/>
+<!-- p73 · Kharrak (bond, to Aurveth) -->
+<p><prosody rate="94%" volume="-2dB">It’s too big. It’s too close to you.</prosody></p><break time="500ms"/>
+<!-- p74 · Aurveth (bond, to Kharrak) -->
+<p><prosody rate="94%" volume="-2dB">Lie down.</prosody></p><break time="500ms"/>
+<!-- p75 -->
+<p>Kharrak didn’t lie down. But he didn’t move either.</p><break time="500ms"/>
+<!-- p76 · tension -->
+<p><prosody rate="97%">The lion stopped on the slope below the old dragon, so close its breath stirred the dust on her scales. It put its head out. It smelled her, long and deep, from her jaw to the torn edge of the wing, as it must have smelled everything, all its life, before it decided.</prosody></p><break time="800ms"/>
+<!-- p77 -->
+<p>Aurveth lifted her head off the stones.</p><break time="500ms"/>
+<!-- p78 · awe: Ennis returning -->
+<p><prosody rate="95%">Calder felt it go through her. Not the pain, though that was there. Something older, coming up from the bottom of her like a stone out of a ploughed field. Sun on white stone. A road crowded with people. A man beside her, stopping, turning, bowing to a great grey cat on the tower steps. Ennis. She had his face now. She had it all.</prosody></p><break time="800ms"/>
+<!-- p79 · awe -->
+<p><prosody rate="95%">She bowed her head to the lion. All the way down, until her jaw was on the rubble.</prosody></p><break time="800ms"/>
+<!-- p80 -->
+<p>The lion lowered its head to her.</p><break time="500ms"/>
+<!-- p81 -->
+<p>It held it there a long moment. Then it lifted it, and looked past her at Kharrak.</p><break time="500ms"/>
+<!-- p82 · Lisska (bond, to Kharrak), very small -->
+<p><prosody rate="94%" volume="-2dB">He says you’re kin too,</prosody> said Lisska, very small, against Calder’s chest. <prosody rate="94%" volume="-2dB">Far back. Like me. Like her.</prosody></p><break time="500ms"/>
+<!-- p83 · Kharrak (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">I’m not kin to anything,</prosody> said Kharrak.</p><break time="500ms"/>
+<!-- p84 · Lisska (bond, to Kharrak) -->
+<p><prosody rate="94%" volume="-2dB">You are. He says you are.</prosody></p><break time="500ms"/>
+<!-- p85 · humour: grudging -->
+<p>Kharrak looked at the lion a long time with the fire going down in his throat. Then he lay down against Aurveth’s side, and put his broken horn on his forefeet, and kept his eyes open.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p86 -->
+<p>Maren was looking at him.</p><break time="500ms"/>
+<!-- p87 -->
+<p>At the three of them round him on the rubble. The old bronze one with her head still down. The red one, watching the lion. The green one with her whole body curled round his legs and the ribbon on her horn.</p><break time="500ms"/>
+<!-- p88 · humour: dry · Maren -->
+<p>“She never stops,” said Maren. “Your green one. All the way along the road under the river, through him. Calder says. Calder thinks. Calder would know.” Something moved at the corner of her mouth, and went. “I thought you’d know more.”</p><break time="500ms"/>
+<!-- p89 · humour · Calder -->
+<p>“So did she.”</p><break time="500ms"/>
+<!-- p90 -->
+<p>The other corner moved that time.</p><break time="500ms"/>
+<!-- p91 · Maren -->
+<p>“The other one,” she said. “At your end. Did he turn it?”</p><break time="500ms"/>
+<!-- p92 · Calder -->
+<p>“Yes.” He looked down at his own hand. “I had my hand on his wrist. It turned anyway. He went up a stair in the far wall with a lantern when the floor fell. He didn’t look back.”</p><break time="500ms"/>
+<!-- p93 -->
+<p>She nodded, slowly, as if he’d told her a thing she’d already known and needed to hear said.</p><break time="500ms"/>
+<!-- p94 · quiet -->
+<p><prosody rate="95%">He didn’t ask about hers. He could see her hands in their black rags, and the blood to her elbows, and that it wasn’t hers. She didn’t say. She held her hands a little away from herself, and didn’t look at them.</prosody></p><break time="500ms"/>
+<!-- p95 -->
+<p>And he had the rest of it in him, carried down from under the arch: men talking in the firelight below his crack in the wall, an axe in the shallows, a boy who’d thought somebody had come to hold his horse. He opened his mouth, and the slope shuddered under them, and a stone the size of a sheep went past them into the dark. He shut it again.</p><break time="500ms"/>
+<!-- p96 -->
+<p>It would keep. Till there was a sky over them.</p><break time="500ms"/>
+<!-- p97 · dread · Maren -->
+<p><prosody rate="96%">“Orrun touched it,” said Maren. She was looking past him now, out over the cavern floor, into the dark at the bottom of the chains, where the dark was lifting. “When the seal went. What’s down there. It’s nothing he knew. It’s nothing anybody knew.” Her voice didn’t change. “They made it into something that wants the world down.”</prosody></p><break time="800ms"/>
+<!-- p98 -->
+<p>Behind Calder on the rubble, Aurveth closed her eye.</p><break time="500ms"/>
+<!-- p99 · grief · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%"><prosody rate="94%" volume="-2dB">I knew,</prosody> she said, inside him. <prosody rate="94%" volume="-2dB">On the ice at midwinter, with my throat to it. I have known since then.</prosody></prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p100 -->
+<p>The first anchor-stone broke.</p><break time="500ms"/>
+<!-- p101 -->
+<p>He saw it. Up at the top of the rubble slope, in the light of the fire round the hole far above. The great stone set in the cavern wall, as big as a house, with the chain running through the iron eye in it. The crack across its face that he’d watched growing. It went all the way.</p><break time="500ms"/>
+<!-- p102 -->
+<p>The stone came apart in two halves.</p><break time="500ms"/>
+<!-- p103 -->
+<p>And the chain came loose.</p><break time="500ms"/>
+<!-- p104 · dread -->
+<p><prosody rate="96%">He watched it fall. It went past them. Down the wall of the cavern, past the rubble slope, out into the dark, one link at a time, each link taller than a man, each with its thin line of white writing still burning on the inside of the curve, like a string of lamps let go into a well, falling, hitting the rock and the rubble and each other, with a sound like all the bells of a city being thrown down a well, one after another after another, going down into the deep dark at the bottom of the cavern where the dark was lifting.</prosody></p><break time="800ms"/>
+<!-- p105 -->
+<p>The dark lifted faster.</p><break time="500ms"/>
+<!-- p106 -->
+<p>Five chains sang.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p107 · Calder -->
+<p>“Out,” said Calder. “We have to get out.”</p><break time="500ms"/>
+<!-- p108 · Maren -->
+<p>“Which way?” Maren was looking at the opening in the far wall, the way she’d come. “The road under the river’s coming down. It was coming down behind us all the way.”</p><break time="500ms"/>
+<!-- p109 -->
+<p>He looked at Aurveth.</p><break time="500ms"/>
+<!-- p110 · grief -->
+<p><prosody rate="94%">She was trying to stand. He felt her try. Her hind legs under her on the rubble, her forelegs, and the left wing, the torn one, half open and dragging, and the horn-wound in her chest opening when she moved. She got her chest up off the stones and stood there, swaying, with her one eye shut.</prosody></p><break time="800ms"/>
+<!-- p111 · Aurveth (bond, to Calder), very calm -->
+<p><prosody rate="94%" volume="-2dB">I can’t fly,</prosody> she said. Very calm. <prosody rate="94%" volume="-2dB">Not with this wing. Not up through that.</prosody></p><break time="500ms"/>
+<!-- p112 -->
+<p>Kharrak was up. He’d been up the moment she moved. He stood against her shoulder, holding her, with his broken horn and his torn claws.</p><break time="500ms"/>
+<!-- p113 · Kharrak (bond, to Aurveth) -->
+<p><prosody rate="94%" volume="-2dB">Then I’ll carry her,</prosody> said Kharrak.</p><break time="500ms"/>
+<!-- p114 · Aurveth (bond, to Kharrak) -->
+<p><prosody rate="94%" volume="-2dB">You can’t carry me, child.</prosody></p><break time="500ms"/>
+<!-- p115 · anger · Kharrak (bond, to Aurveth) -->
+<p><prosody rate="94%" volume="-2dB">Then I’ll <emphasis level="moderate">Dig</emphasis>.</prosody></p><break time="500ms"/>
+<!-- p116 -->
+<p>Maren had gone back to the lion. She was standing by its head with her hand on its jaw. Calder saw her face change. Listening. He knew that look. He’d had it on his own face since the autumn.</p><break time="500ms"/>
+<!-- p117 · Maren -->
+<p>“He says up,” she said.</p><break time="500ms"/>
+<!-- p118 -->
+<p>Calder looked at her.</p><break time="500ms"/>
+<!-- p119 · Maren -->
+<p>“He says the stone will move for him. It knows him. It moved for him all the way down from the school, and along the road under the river. He says it’ll move for him going up.” She looked up into the dark over their heads. Not toward the hole where the island had been, with the fire round it. Straight up. “Up through the rock. To the river. The way he dug all winter. Only the other way.”</p><break time="500ms"/>
+<!-- p120 -->
+<p>She held the lantern out to Lisska. Lisska looked at it, and at her, and put out her front claw and hooked the handle, carefully, and held it up.</p><break time="500ms"/>
+<!-- p121 -->
+<p>The lion lowered its great grey head.</p><break time="500ms"/>
+<!-- p122 -->
+<p>To the floor. To the rock at the foot of the rubble slope. It laid the side of its face against it, as Aurveth had laid her throat on the ice at midwinter.</p><break time="500ms"/>
+<!-- p123 -->
+<p>The ground under Calder’s feet answered.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p124 -->
+<p>Five chains sang.</p><break time="500ms"/>
+<!-- p125 -->
+<p>The dark at the bottom of the cavern lifted.</p><break time="500ms"/>
+<!-- p126 · reflective -->
+<p><prosody rate="96%">Standing on the rubble with the five links in his hand and his three dragons behind him and Wren alive somewhere in a stone house by the water, Calder looked across the ten paces of falling dust at the woman from the other bank. Hair tied back. Hands burned to the bone in their rags. A river watch sword and somebody else’s blood to the elbow. Her hand on the lion’s jaw.</prosody></p><break time="500ms"/>
+<!-- p127 -->
+<p>He’d sent her a chain and a word. Not knowing her. Not knowing if she’d understand, or if she’d come, or if the ferrywoman had told her anything at all.</p><break time="500ms"/>
+<!-- p128 · tender -->
+<p><prosody rate="95%">She’d understood. And come.</prosody></p><break time="500ms"/>
+<!-- p129 -->
+<p>She looked back at him.</p><break time="500ms"/>
+<!-- p130 · Maren -->
+<p>“Fenn,” she said.</p><break time="500ms"/>
+<!-- p131 · Calder -->
+<p>“Ashdown.”</p><break time="500ms"/>
+<!-- p132 · awe -->
+<p><prosody rate="95%">The lion lifted its head off the rock, and the rock overhead began, with a long deep groan like the whole hill breathing out, to open.</prosody></p>
+<break time="1800ms"/>
+</voice>
+</speak>

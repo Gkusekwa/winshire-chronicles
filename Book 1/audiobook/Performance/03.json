@@ -1,0 +1,1369 @@
+{
+ "chapter": 3,
+ "title": "The Ferry",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Three.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Ferry.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The ferry’s guide rope had been spliced so many times that there was probably not an inch of the first rope left in it, and every morning for thirty years Liss Ashdown had put her hand on it before she did anything else. It was the nearest thing to a charm that ferry people bothered with. A word said over running water goes downriver with everything else, Liss said, and you might as well say it to the eels.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "She was touching it now, in the grey before sunrise, when Maren came down the landing steps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "speech",
+   "text": "“You’re not on the list,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "narration",
+   "text": "Liss said, without turning round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "speech",
+   "text": "“I’m not crossing for trade.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "speech",
+   "text": "“I didn’t think you were.”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 9,
+   "para": "p5",
+   "type": "narration",
+   "text": "Her mother looked at her then: the boots, the plain wool coat over the school shirt, no badge, no sword."
+  },
+  {
+   "seq": 10,
+   "para": "p5",
+   "type": "speech",
+   "text": "“Does your Instructor Pell know you’re out of the walls?”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p6",
+   "type": "speech",
+   "text": "“He’ll know if I’m not back by the second bell.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p7",
+   "type": "speech",
+   "text": "“Then we’d better be quick.”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 13,
+   "para": "p7",
+   "type": "narration",
+   "text": "Liss took her hand off the rope."
+  },
+  {
+   "seq": 14,
+   "para": "p7",
+   "type": "speech",
+   "text": "“Get in. Mind the eel boxes. And you’re poling, since you’ve come to be nosy.”",
+   "speaker": "Liss",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 15,
+   "para": "p8",
+   "type": "narration",
+   "text": "The ferry was a long flat-bottomed boat, broad as a cart, with a rail along one side and a ring at either end where it ran on the rope. At the Greyhold landing there was a stone jetty and a little ferry house with a red door, where Maren had been born. At the far end there was a timber jetty at Tolly’s Staithe, on the Saltreach bank, and a few huts, and the smell of smoke and eels. In between was the Wend.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p9",
+   "type": "narration",
+   "text": "It was quiet at this hour. Mist lay on the water in a flat white skin, just deep enough to hide your feet, so that standing in the ferry felt like standing on a cloud that smelled of weed. Maren set the pole and leaned and the boat moved out, and the rope came up dripping out of the mist ahead of them and slid through the rings with the small hiss it always made. She had learned to pole on this boat before she could read. It didn’t take thinking. Her body did it and left the rest of her free, which was why she’d come.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p10",
+   "type": "speech",
+   "text": "“You heard about first lance, then,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 18,
+   "para": "p10",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p11",
+   "type": "speech",
+   "text": "“Everyone heard about first lance.”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 20,
+   "para": "p11",
+   "type": "narration",
+   "text": "Liss sat on an eel box with her hands in her sleeves."
+  },
+  {
+   "seq": 21,
+   "para": "p11",
+   "type": "speech",
+   "text": "“Weir’s lad was telling the whole landing by supper. Said you put that Haverly boy on his back and Pell gave it to him anyway.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p12",
+   "type": "speech",
+   "text": "“It’s not Haverly’s fault.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p13",
+   "type": "speech",
+   "text": "“I didn’t say it was.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p14",
+   "type": "speech",
+   "text": "“You were going to.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p15",
+   "type": "speech",
+   "text": "“I was going to say,”",
+   "speaker": "Liss",
+   "how": "mildly",
+   "mood": "tender"
+  },
+  {
+   "seq": 26,
+   "para": "p15",
+   "type": "narration",
+   "text": "said her mother mildly,",
+   "mood": "tender"
+  },
+  {
+   "seq": 27,
+   "para": "p15",
+   "type": "speech",
+   "text": "“that the Haverly boy’s father bought him a master in Ashford when he was ten and a falcon found him when he was fifteen, and you’ve had a pole and a river and nothing else your whole life, and you still put him on his back. That’s what I was going to say. I’m not going to say it now, because you’ll argue.”",
+   "speaker": "Liss",
+   "how": "mildly",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p16",
+   "type": "narration",
+   "text": "Maren leaned on the pole. The boat slid. Somewhere off to the left a heron got up out of the mist with a noise like someone shaking out a wet sheet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p17",
+   "type": "speech",
+   "text": "“I’m not arguing.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p18",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 31,
+   "para": "p18",
+   "type": "narration",
+   "text": "said Liss."
+  },
+  {
+   "seq": 32,
+   "para": "p18",
+   "type": "speech",
+   "text": "“You’re counting strokes. You think I don’t know what your face does.”",
+   "speaker": "Liss",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 33,
+   "para": "p19",
+   "type": "narration",
+   "text": "They were halfway across when the sun came up behind the Saltreach bank and turned the mist gold, and then the mist began to lift in long slow tatters, and the river came out from under it brown and wide and full of light. Upriver, past the bend, three leagues off and a little to the east, the Old Ruin’s island sat in the middle of the water like a ship that had run aground in another century. From here you could make out the line of the trees and, above them, the stump of the tower. Nothing else.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 34,
+   "para": "p20",
+   "type": "narration",
+   "text": "Maren looked at it the way she always looked at it, which was without meaning to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p21",
+   "type": "narration",
+   "text": "She had poled past that island a thousand times. Eight winters on the river watch, out of Northwatch and Redwatch, up and down this stretch in the long patrol boats with three oars a side and a lantern in the bow. You learned every bar and snag on the river. You learned the island too, from the water: the gravel spit at its south end where the current split, the east channel that was faster and the west channel that silted every summer, the place where the old bridge piers broke the surface in a dry year like the backs of drowned animals. You learned not to look at it too long at night. You never landed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p22",
+   "type": "narration",
+   "text": "Nobody landed. It was the first thing they taught you, before they taught you to row.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p23",
+   "type": "speech",
+   "text": "“Ma.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p24",
+   "type": "speech",
+   "text": "“Mm.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p25",
+   "type": "speech",
+   "text": "“Why does nobody land on the island?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p26",
+   "type": "narration",
+   "text": "Liss looked at her sideways."
+  },
+  {
+   "seq": 41,
+   "para": "p26",
+   "type": "speech",
+   "text": "“You know why. It’s the law.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p27",
+   "type": "speech",
+   "text": "“I know it’s the law. I’ve known it’s the law since I was seventeen. I’ve had it read to me off a board at Northwatch every spring.”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 43,
+   "para": "p27",
+   "type": "narration",
+   "text": "She leaned on the pole."
+  },
+  {
+   "seq": 44,
+   "para": "p27",
+   "type": "speech",
+   "text": "“No boat of the river watch shall put in at the island of the Old Ruin, nor any person land there, on pain of dismissal. I know what it says. I asked why.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p28",
+   "type": "speech",
+   "text": "“And what did your captain say, when you asked him?”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p29",
+   "type": "speech",
+   "text": "“He said it was the law.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p30",
+   "type": "speech",
+   "text": "“Well, then.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p31",
+   "type": "speech",
+   "text": "“Ma.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p32",
+   "type": "narration",
+   "text": "Her mother sighed and settled deeper into her coat, which was what she did before a story, and Maren felt something in her own chest loosen a little, because that was what it did before one of her mother’s stories, even at twenty-seven, even with the bell coming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p33",
+   "type": "speech",
+   "text": "“The law’s old,”",
+   "speaker": "Liss",
+   "mood": "reflective"
+  },
+  {
+   "seq": 51,
+   "para": "p33",
+   "type": "narration",
+   "text": "Liss said.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 52,
+   "para": "p33",
+   "type": "speech",
+   "text": "“Older than your captain, older than his captain. I don’t know where it comes from and I don’t think he does either. But the river folk didn’t need a law. We’ve always kept off it. When I was little, your grandmother told me the island was minding something, and you don’t walk into someone else’s house while they’re minding something. That’s all. Minding something.”",
+   "speaker": "Liss",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p34",
+   "type": "speech",
+   "text": "“Minding what?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p35",
+   "type": "speech",
+   "text": "“She didn’t say. She didn’t know. Nobody knows. There’s a story.”",
+   "speaker": "Liss",
+   "mood": "dread"
+  },
+  {
+   "seq": 55,
+   "para": "p35",
+   "type": "narration",
+   "text": "Liss watched the island.",
+   "mood": "dread"
+  },
+  {
+   "seq": 56,
+   "para": "p35",
+   "type": "speech",
+   "text": "“There’s always a story. Before your grandmother was born, a boy from the Saltreach side swam out to it on a bet, on a hot day, middle of summer, and climbed up the spit and went in under the trees. His friends waited on the bank. He didn’t come out. They waited till dark and then they went home and told his mother, and she went out in a boat with a lantern, and she found him sitting on the spit with his feet in the water. Not hurt. Not a mark on him. He came home with her and he never said a word about what he’d seen. Not that night and not ever after. He lived to be old, they said, and every year on that day he went down to the bank and looked at the island, and then went home.”",
+   "speaker": "Liss",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 57,
+   "para": "p36",
+   "type": "narration",
+   "text": "The rope hissed through the rings.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p37",
+   "type": "speech",
+   "text": "“That’s not a story,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 59,
+   "para": "p37",
+   "type": "narration",
+   "text": "Maren said."
+  },
+  {
+   "seq": 60,
+   "para": "p37",
+   "type": "speech",
+   "text": "“That’s half a story.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p38",
+   "type": "speech",
+   "text": "“The good ones usually are,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 62,
+   "para": "p38",
+   "type": "narration",
+   "text": "said her mother.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 63,
+   "para": "p39",
+   "type": "narration",
+   "text": "Tolly’s Staithe had been awake for hours. Fishing people get up before everyone and then pretend they haven’t, and by the time the ferry bumped the jetty the eel traps were already up and emptied, and the smoke house was going, and Greta, who smoked the eels, was standing in the door with her arms folded, watching the ferry come in as if it owed her money.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p40",
+   "type": "speech",
+   "text": "“You’re early, Liss.”",
+   "speaker": "Greta",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p41",
+   "type": "speech",
+   "text": "“I’m on time. Everybody else is late.”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 66,
+   "para": "p41",
+   "type": "narration",
+   "text": "Her mother stepped onto the jetty with the rope’s end and made it fast without looking."
+  },
+  {
+   "seq": 67,
+   "para": "p41",
+   "type": "speech",
+   "text": "“Where’s Tolly?”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p42",
+   "type": "speech",
+   "text": "“Out on the weirs since before light. You’ll have seen the fires.”",
+   "speaker": "Greta",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p43",
+   "type": "speech",
+   "text": "“We saw them.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p44",
+   "type": "speech",
+   "text": "“Everybody saw them.”",
+   "speaker": "Greta"
+  },
+  {
+   "seq": 71,
+   "para": "p44",
+   "type": "narration",
+   "text": "Greta’s eyes went to Maren and stayed there, and moved over the coat and the school shirt under it, and came back to her face. Maren knew that look. The far bank had a dozen ways of looking at someone from Greyhold, and this was the polite one."
+  },
+  {
+   "seq": 72,
+   "para": "p44",
+   "type": "speech",
+   "text": "“This your girl? The knight?”",
+   "speaker": "Greta",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p45",
+   "type": "speech",
+   "text": "“Not a knight yet,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 74,
+   "para": "p45",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Not one at all, from what I hear.”",
+   "speaker": "Greta"
+  },
+  {
+   "seq": 76,
+   "para": "p46",
+   "type": "narration",
+   "text": "Greta jerked her head toward the river."
+  },
+  {
+   "seq": 77,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Weir’s boy runs his mouth on both banks. First lance to the falcon.”",
+   "speaker": "Greta"
+  },
+  {
+   "seq": 78,
+   "para": "p46",
+   "type": "narration",
+   "text": "She almost smiled."
+  },
+  {
+   "seq": 79,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Come in, then. Kettle’s on. You’ll want to know what happened, since your lot stood on the wall and watched it.”",
+   "speaker": "Greta",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 80,
+   "para": "p47",
+   "type": "narration",
+   "text": "The smoke house was hot and dark and smelled so strongly of eel that after a while you stopped smelling it and started tasting it instead. There were half a dozen people in there, fishing folk and a woman Maren didn’t know with a baby, all talking at once, as people do after a fire, when nobody has slept and the worst is over and the news is still new enough to be worth having.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p48",
+   "type": "narration",
+   "text": "Maren sat on an upturned crate in the corner with a cup of something hot and brown, and listened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p49",
+   "type": "narration",
+   "text": "It came out in pieces. Upper Rush, two leagues upriver of Harrow’s End: four farms in a hollow above the water. A crowd of men just on dark, twenty or thirty, with masks and no colours. They’d known which barns. They’d gone straight in and brought the beasts out roped, a pair of grey dray-beasts and an ox-beast and a hound in a cage, and then they’d fired the barns behind them. Nobody killed. Nobody even much hurt, apart from a man who’d tried to stop them and been knocked down with the flat of a sword.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p50",
+   "type": "speech",
+   "text": "“The flat,”",
+   "speaker": "Greta"
+  },
+  {
+   "seq": 84,
+   "para": "p50",
+   "type": "narration",
+   "text": "said Greta."
+  },
+  {
+   "seq": 85,
+   "para": "p50",
+   "type": "speech",
+   "text": "“Mark that. They didn’t want blood. They wanted the beasts.”",
+   "speaker": "Greta",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p51",
+   "type": "speech",
+   "text": "“It’s the Clan,”",
+   "speaker": "a big man"
+  },
+  {
+   "seq": 87,
+   "para": "p51",
+   "type": "narration",
+   "text": "said a big man by the door."
+  },
+  {
+   "seq": 88,
+   "para": "p51",
+   "type": "speech",
+   "text": "“Everyone knows it’s the Clan. The old chief’s three days dead and they’re already taking what they’ll need for the fighting.”",
+   "speaker": "a big man",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p52",
+   "type": "speech",
+   "text": "“The Clan doesn’t hide its face,”",
+   "speaker": "the woman with the baby"
+  },
+  {
+   "seq": 90,
+   "para": "p52",
+   "type": "narration",
+   "text": "said the woman with the baby.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p53",
+   "type": "speech",
+   "text": "“The Clan doesn’t need a cart, either.”",
+   "speaker": "Tolly"
+  },
+  {
+   "seq": 92,
+   "para": "p53",
+   "type": "narration",
+   "text": "That was a thin old man who’d come in behind them, still wet to the knees, with the look of a man who hasn’t slept. Tolly. Maren knew him from the river; he’d sold the watch eels for years and sworn at their wakes for longer. He sat down heavily on a sack."
+  },
+  {
+   "seq": 93,
+   "para": "p53",
+   "type": "speech",
+   "text": "“Hollin’s lad came down from Upper Rush in the night. They had a cart. Big one, iron tyres. He saw where it went.”",
+   "speaker": "Tolly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p54",
+   "type": "speech",
+   "text": "“Went where?”",
+   "speaker": "Greta",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p55",
+   "type": "speech",
+   "text": "“Down to the water.”",
+   "speaker": "Tolly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p56",
+   "type": "narration",
+   "text": "There was a small silence in the smoke house.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 97,
+   "para": "p57",
+   "type": "speech",
+   "text": "“Could’ve been going to the ford,”",
+   "speaker": "a big man"
+  },
+  {
+   "seq": 98,
+   "para": "p57",
+   "type": "narration",
+   "text": "said the big man.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p58",
+   "type": "speech",
+   "text": "“Wasn’t the ford. The ford’s the other way.”",
+   "speaker": "Tolly",
+   "mood": "tension"
+  },
+  {
+   "seq": 100,
+   "para": "p58",
+   "type": "narration",
+   "text": "Tolly took the cup Greta gave him and held it without drinking.",
+   "mood": "tension"
+  },
+  {
+   "seq": 101,
+   "para": "p58",
+   "type": "speech",
+   "text": "“I’ll tell you something else. Middle of the night, after the fires were down, I was out checking the traps, because I couldn’t sleep. There was a barge on the river. Going down. No light on her. Not a lantern, not a pipe, nothing.”",
+   "speaker": "Tolly",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 102,
+   "para": "p59",
+   "type": "speech",
+   "text": "“Barges go down all night.”",
+   "speaker": "a big man",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Not without a light, they don’t, not on this water. They’d be on the bar below Millbrook before they knew it.”",
+   "speaker": "Tolly",
+   "mood": "tension"
+  },
+  {
+   "seq": 104,
+   "para": "p60",
+   "type": "narration",
+   "text": "Tolly drank at last.",
+   "mood": "tension"
+  },
+  {
+   "seq": 105,
+   "para": "p60",
+   "type": "speech",
+   "text": "“And she wasn’t rowing. She was poling. You row a barge down this stretch, you’re in a hurry, it sounds like a mill. This was poles. Quiet. Somebody on that boat knew this river like I know it, and didn’t want to be heard.”",
+   "speaker": "Tolly",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 106,
+   "para": "p61",
+   "type": "narration",
+   "text": "Maren didn’t say anything. She put the cup down on the floor between her feet and looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p62",
+   "type": "narration",
+   "text": "Poling, down the river, in the dark, without a light. Keeping close to which bank? On the Saltreach side the water was shallower below the Staithe and you’d ground in a hundred yards. On the Hearthmere side there was a deep channel close under the bank all the way to Millbrook, under Greyhold’s own wall, under the place where she had stood last night and watched the fires and gone down to meet the ferry.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 108,
+   "para": "p63",
+   "type": "narration",
+   "text": "The river watch would have had a boat out. They always had a boat out. Unless they’d been told not to.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 109,
+   "para": "p64",
+   "type": "speech",
+   "text": "“Anyway,”",
+   "speaker": "Greta"
+  },
+  {
+   "seq": 110,
+   "para": "p64",
+   "type": "narration",
+   "text": "said Greta,"
+  },
+  {
+   "seq": 111,
+   "para": "p64",
+   "type": "speech",
+   "text": "“it’s done now. And Bel Fenn’s all right, and Joss, and the little ones, thank the gods, even if Joss has lost his greys. And that brother of hers turned up, if you’ll believe it. Calder Fenn. Ran it.”",
+   "speaker": "Greta",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p65",
+   "type": "speech",
+   "text": "“Ran what?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p66",
+   "type": "speech",
+   "text": "“Ran from Harrow’s End. Two leagues in the dark, when he saw the fire. Hob the miller’s lad says he got there purple in the face and couldn’t speak for a quarter of an hour.”",
+   "speaker": "Greta"
+  },
+  {
+   "seq": 114,
+   "para": "p66",
+   "type": "narration",
+   "text": "Greta shook her head."
+  },
+  {
+   "seq": 115,
+   "para": "p66",
+   "type": "speech",
+   "text": "“Calder Fenn. Never ran anywhere in his life. Never did anything in his life, that one, except pay his dues and mind his cows.”",
+   "speaker": "Greta",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p67",
+   "type": "speech",
+   "text": "“He’s got a little girl,”",
+   "speaker": "the woman with the baby"
+  },
+  {
+   "seq": 117,
+   "para": "p67",
+   "type": "narration",
+   "text": "said the woman with the baby."
+  },
+  {
+   "seq": 118,
+   "para": "p67",
+   "type": "speech",
+   "text": "“His wife died. The fever, five years back.”",
+   "speaker": "the woman with the baby",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p68",
+   "type": "speech",
+   "text": "“Everybody’s got something,”",
+   "speaker": "Greta"
+  },
+  {
+   "seq": 120,
+   "para": "p68",
+   "type": "narration",
+   "text": "said Greta."
+  },
+  {
+   "seq": 121,
+   "para": "p68",
+   "type": "speech",
+   "text": "“Doesn’t make them run.”",
+   "speaker": "Greta",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p69",
+   "type": "speech",
+   "text": "“I know Ada Fenn,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 123,
+   "para": "p69",
+   "type": "narration",
+   "text": "Liss said from across the room. Maren hadn’t known she was listening."
+  },
+  {
+   "seq": 124,
+   "para": "p69",
+   "type": "speech",
+   "text": "“Brings me honey in the spring. Sings like a split reed and knows every song on the river. Her son came over once, years ago, with a cart of barley for the Millbrook mill, and wouldn’t look at the knights on the landing. Wouldn’t look at anyone. Polite. Quiet.”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 125,
+   "para": "p69",
+   "type": "narration",
+   "text": "She shrugged."
+  },
+  {
+   "seq": 126,
+   "para": "p69",
+   "type": "speech",
+   "text": "“Not the running sort. But it was his sister.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p70",
+   "type": "speech",
+   "text": "“It was his sister,”",
+   "speaker": "Greta"
+  },
+  {
+   "seq": 128,
+   "para": "p70",
+   "type": "narration",
+   "text": "Greta agreed, and that seemed to settle it, and the talk went on to other things.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p71",
+   "type": "narration",
+   "text": "Maren sat with her cup going cold and thought about a quiet man who didn’t look at knights, running two leagues through the dark toward a fire because it was his sister’s. She found she could picture it very clearly, though she had never seen him. A big man, she thought, slow, purple in the face, too late to do anything when he got there, there anyway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p72",
+   "type": "narration",
+   "text": "She thought: I stood on the wall.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p73",
+   "type": "narration",
+   "text": "She picked up the cup and drank the cold brown stuff to the bottom.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 132,
+   "para": "p74",
+   "type": "narration",
+   "text": "On the way back the sun was full up and the river was bright and busy. Two barges were coming up from Millbrook under sail with the wind behind them, and a Hearthmere patrol boat was out in the middle of the stream with six oars going and a knight in the bow, rowing hard upriver toward Upper Rush as if there were still something to be done there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p75",
+   "type": "speech",
+   "text": "“Now they go,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 134,
+   "para": "p75",
+   "type": "narration",
+   "text": "said Liss.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p76",
+   "type": "narration",
+   "text": "Maren said nothing. She was poling. The boat moved. The rope came up out of the water ahead and slid through the rings and went back down behind.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p77",
+   "type": "speech",
+   "text": "“There’s something else,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 137,
+   "para": "p77",
+   "type": "narration",
+   "text": "her mother said after a while."
+  },
+  {
+   "seq": 138,
+   "para": "p77",
+   "type": "speech",
+   "text": "“I nearly forgot. Old Penner from Millbrook came across yesterday with his boat. He had a message from your brother.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p78",
+   "type": "speech",
+   "text": "“From Tam?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p79",
+   "type": "speech",
+   "text": "“Who else is your brother?”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 141,
+   "para": "p79",
+   "type": "narration",
+   "text": "Liss pulled a folded scrap of paper out of her sleeve and held it up without giving it to her."
+  },
+  {
+   "seq": 142,
+   "para": "p79",
+   "type": "speech",
+   "text": "“He’s coming home for the harvest fair. Six days. He says the smith’s letting him off for three days, which I’ll believe when he’s sitting at my table, and he says, and I’m reading this exactly, Tell Maren I’ve something to show her that’ll make her eyes pop out.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p80",
+   "type": "speech",
+   "text": "“That sounds like Tam.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p81",
+   "type": "speech",
+   "text": "“It sounds like trouble is what it sounds like.”",
+   "speaker": "Liss",
+   "mood": "humour"
+  },
+  {
+   "seq": 145,
+   "para": "p81",
+   "type": "narration",
+   "text": "Liss folded the paper and put it away.",
+   "mood": "humour"
+  },
+  {
+   "seq": 146,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Last time he had something to show you it was a dead pike the size of a dog, and he kept it under his bed for a week.”",
+   "speaker": "Liss",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p82",
+   "type": "speech",
+   "text": "“He was nine.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p83",
+   "type": "speech",
+   "text": "“He’s nineteen. I don’t know that it’s made a lot of difference.”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 149,
+   "para": "p83",
+   "type": "narration",
+   "text": "But her mother was smiling. Then the smile went, and she looked upriver past the bend at the island, and Maren followed her look without meaning to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p84",
+   "type": "narration",
+   "text": "It sat there in the sun, small and green and harmless, with the stump of its tower and the water splitting around it white at the south end. A place you could have walked round in an hour. A place you’d never think twice about, if you’d been born anywhere else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p85",
+   "type": "speech",
+   "text": "“I’ll tell you one more thing about that island,”",
+   "speaker": "Liss",
+   "how": "quietly",
+   "mood": "quiet"
+  },
+  {
+   "seq": 152,
+   "para": "p85",
+   "type": "narration",
+   "text": "Liss said quietly.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 153,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Since you asked. And then I’ll not say another word about it, because it’s a fine morning and you’ve a bell to make.”",
+   "speaker": "Liss",
+   "how": "quietly",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p86",
+   "type": "speech",
+   "text": "“Go on.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p87",
+   "type": "speech",
+   "text": "“Your father landed on it once.”",
+   "speaker": "Liss",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p88",
+   "type": "narration",
+   "text": "Maren’s hands stopped on the pole. The boat ran on a little way on its own, and slowed.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 157,
+   "para": "p89",
+   "type": "speech",
+   "text": "“When?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p90",
+   "type": "speech",
+   "text": "“Before you were born. Before we were married. He was a boy on the river watch, like you were. They were chasing poachers in the fog and he lost the others and came up on the spit before he knew where he was. He was there all night. He never told anybody but me, and he only told me because I asked him why he wouldn’t go near it after, not even in the boat, not even to fish.”",
+   "speaker": "Liss",
+   "mood": "dread"
+  },
+  {
+   "seq": 159,
+   "para": "p90",
+   "type": "narration",
+   "text": "Liss watched the island.",
+   "mood": "dread"
+  },
+  {
+   "seq": 160,
+   "para": "p90",
+   "type": "speech",
+   "text": "“He said he didn’t see anything. He said he lay on the spit all night in the fog, with the water going by on both sides, and he could hear something breathing in the trees. Slow. Like a bellows in a forge. All night long. And in the morning the fog lifted and there was nothing there, and he got back in the boat and rowed home, and he didn’t sleep for three days.”",
+   "speaker": "Liss",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 161,
+   "para": "p91",
+   "type": "speech",
+   "text": "“He never said.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p92",
+   "type": "speech",
+   "text": "“No. He wouldn’t have. He was a knight; he’d sworn not to ask what he kept.”",
+   "speaker": "Liss",
+   "how": "lightly, like a line of an old song",
+   "mood": "tender"
+  },
+  {
+   "seq": 163,
+   "para": "p92",
+   "type": "narration",
+   "text": "She said it lightly, like a line of an old song. Then she looked at Maren, and her face was not light at all.",
+   "mood": "tender"
+  },
+  {
+   "seq": 164,
+   "para": "p92",
+   "type": "speech",
+   "text": "“You’re poling, girl. We’re drifting.”",
+   "speaker": "Liss",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p93",
+   "type": "narration",
+   "text": "Maren set the pole. The boat moved. Her arms did what they had always done, and the rope hissed through the rings, and the Greyhold landing came up out of the bright water toward them, stone and red door and the high grey wall above, and she counted the strokes all the way in, and got to forty-one, and did not look upriver again.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 166,
+   "para": "p94",
+   "type": "narration",
+   "text": "She made the second bell with half a minute to spare and her boots soaked to the ankle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p95",
+   "type": "narration",
+   "text": "Pell was at the gate. He looked at the boots. He looked at her. He had a way of looking at you that made you feel he’d already read the whole of the report you were about to give him and found three errors in it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p96",
+   "type": "speech",
+   "text": "“Ashdown.”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p97",
+   "type": "speech",
+   "text": "“Instructor.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p98",
+   "type": "speech",
+   "text": "“You’ve been across.”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p99",
+   "type": "narration",
+   "text": "There was no point lying to Pell."
+  },
+  {
+   "seq": 172,
+   "para": "p99",
+   "type": "speech",
+   "text": "“Yes, Instructor.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p100",
+   "type": "speech",
+   "text": "“And what did you learn on the far bank?”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p101",
+   "type": "narration",
+   "text": "She thought about the masks and the cart and the barge with no light on it, poled not rowed, slipping down the deep channel under this wall. She thought about a river-watch boat that would have been out on the water, and had seen nothing. She thought about a quiet farmer who didn’t look at knights.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p102",
+   "type": "speech",
+   "text": "“That they think we watched,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 176,
+   "para": "p102",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p103",
+   "type": "narration",
+   "text": "Pell was quiet for a moment. The yard behind him was filling up; she could hear the beasts, and somebody laughing, and Tobin’s voice saying something about breakfast.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p104",
+   "type": "speech",
+   "text": "“We did,”",
+   "speaker": "Pell",
+   "mood": "humour"
+  },
+  {
+   "seq": 179,
+   "para": "p104",
+   "type": "narration",
+   "text": "Pell said.",
+   "mood": "humour"
+  },
+  {
+   "seq": 180,
+   "para": "p104",
+   "type": "speech",
+   "text": "“Go and change your boots. You’re on the River Road tomorrow. First patrol.”",
+   "speaker": "Pell",
+   "mood": "humour"
+  },
+  {
+   "seq": 181,
+   "para": "p104",
+   "type": "narration",
+   "text": "He turned away, and then turned back.",
+   "mood": "humour"
+  },
+  {
+   "seq": 182,
+   "para": "p104",
+   "type": "speech",
+   "text": "“And Ashdown. The next time you want to go across, you ask me first, and I’ll say no, and then you’ll go anyway, and at least I’ll know where to send the boat.”",
+   "speaker": "Pell",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p105",
+   "type": "narration",
+   "text": "He walked off across the sand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p106",
+   "type": "narration",
+   "text": "Maren stood in the gate a moment longer, with the river at her back and the yard in front of her, and found that she was smiling, and didn’t know why, and stopped.",
+   "pause_after_ms": 500
+  }
+ ]
+}

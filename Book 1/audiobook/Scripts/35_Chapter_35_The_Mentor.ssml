@@ -1,206 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<speak version="1.0" xml:lang="en-GB">
-  <!-- AI CUE: TITLE: clear and composed; give the heading room. Do not perform as narrative prose. -->
-  <p><s>Chapter 35: The Mentor</s></p><break time="700ms"/>
-  <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She wrote the report the night they rode back into Greyhold from Redwatch, by a stub of candle in the dormitory, as she'd written the one about the roadblock. Fourteen pages. Every raider she'd counted, every signal the boy had blown, every move. The two fingers. The three fingers. The four men in the middle of the green opening like a gate and closing again behind Pell. The greyharts going over the paddock fence. The barges.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The man on the roof.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She wrote what he looked like, and where she'd seen him before. She wrote what he'd said exactly, in the middle of a page, on a line by itself, so nobody could miss it.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Ashdown. I hear you sit with lions.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And under it, the other thing. All river-watch boats from Redwatch to Millbrook ordered in at dusk by a rider bearing Greyhold's seal. Sergeant Ottery does not know the hand. This is the second time.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Pell read it in the yard in the morning, standing, with the strip of Wynn's shirt still round his head. All fourteen pages. He folded them up.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"He said your name," he said.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Yes."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I'll take it up myself."</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Rowan had it by the afternoon. She sent for her, and Maren went up the narrow stair sideways with her shoulder to the wall, and stood in front of the desk while Rowan read the line in the middle of the page. Then read it again.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Your name isn't a secret," Rowan said at last. "The whole river knows a Greyhold student failed her trial on the island, and that she goes back. But the fishermen call you the girl on the island. The ferrymen call you Liss's girl. The beast-sellers, I'm told, call you the lion girl." She looked up. Her pale eyes were very still. "Not one of them calls you Ashdown."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"No, Captain."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"So someone told him."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She bent her head and wrote something in the margin of the fourteenth page, small, beside the line about the boats. Maren couldn't see what.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Dismissed."</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Hale was on the bench at the foot of the Lesson Wall the next day at noon, alone in the thin cold sun, with his stick across his knees. When she came across the yard he moved over without a word, and she sat.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"He said your name," he said. "At Ferriby."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Yes, Warden."</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>He looked at her then. She'd never seen him look like that. Something older than fright. A man who's waited a long time for a knock at the door and has just heard it.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I've had a report," he said. "The inner circle has. From over the river." He was looking at the empty yard, not at her. "Vey's company, the Tide Council's sellswords, went into the Fellwood nine days ago after the dragon farmer. They had him boxed up a crag in a cave with his three. And they lost him. In the rain, six nights ago, out of a cave with one way out, past a hundred and twenty men." He turned the stick in his hands. "Our scouts on the far bank saw three dragons that same night, high, going south. Toward the coast."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Maren didn't breathe.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"There's more in it, for what it's worth. Our man in Wendmouth says Vale spoke on the Tidesteps there at noon on the day of Ferriby. Three thousand heard him." He almost smiled. "The man in two places. The river was telling that one before you were born. I've a box of it in the archive: a new port every year, a new raid the same day, and always somebody who'll swear to the hour. Crowds."</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>She thought of the face on the smithy roof, lit from below. She let it go.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"South," she said.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"South. Out of the Marches. Away from the river." Hale let out a long breath. "He's gone."</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>He said it with relief. Real relief, deep and simple, like a man setting down a sack at the end of a long road. Then, as she watched, it went out of his face, and something came in behind it that she'd never seen there, and it took her a moment to know it.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Shame.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Why?" she said. "Why are you glad he's gone? He saved Harrow's End, the scouts say. He got children off a roof. Twenty of our knights sat on the bank and watched, and he came." She heard her voice go hard. "Why would anybody be glad?"</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He didn't look at her.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Because he's three," he said at last. Very quietly. "Three bonds, in one man. It's never happened." His big hands were tight on the stick. "And everything in that archive, Ashdown, every line in every book old enough to remember anything, says that when the old signs come all at once, beasts turning their heads to the ground and the earth answering and things that can't happen happening, the last time it was so…"</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He stopped.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>She waited. She wasn't going to let him off. She sat beside him on the bench and waited, and he knew she was waiting, and the sun went behind a cloud, and the yard went grey.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I'm an old man," said Hale, "and I read too much." He got up, slowly, with the stick, his weight on his good hip. "Come down after drill. You wanted to know about the oath."</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He was at the long table under the hanging lamp when she came in, with the old black book open in front of him and his stick against the chair.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Sit," he said.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She sat.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He turned the pages of the black book with one big finger, not reading them, and stopped, and looked past her down the long vaulted room to the far end.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>She'd never looked properly at the far end. The archive went back a long way under the north tower, stack after stack, into the dark beyond the lamp, and she'd thought it just went on. Following his eyes now, she saw that it didn't. At the very back, past the last stack, three stone steps went down. At the bottom of them, set into the old grey wall of the tower's foundation, there was a door.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Low. Black. Oak so old it had gone the colour of iron, bound across with real iron in three great bands. No handle. Only a lock: an iron plate as big as a man's hand, with a keyhole in the middle of it, deep and dark. Round the keyhole, worn nearly smooth, ran a ring of small square letters with hooks at the ends of the strokes.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Hale was looking at it.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Then he looked back at her, and saw that she'd seen him look, and something in his face closed.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"The oath," he said.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He'd told her about the Watch weeks before, in the first of the afternoons: the list in the black book, three hundred and eleven names in the old script, the crown coming to the river with its charter and its masons and building Greyhold on top of whatever the Watch had kept. He turned the book round on the table now so she could see the first page. The heading, Watch, in its square spare letters. And above it, in the same hand, small, a line she hadn't noticed before.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"There's no date," he said. "No king's name. Nothing to say when it was begun. Only that."</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>She traced the letters in her mind, slowly.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"From the…" She tried again. "From the closing."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Not from the founding. Not from the coronation of. From the closing." He looked at the line. "I've spent forty years trying to find out what was closed. Nobody wrote it down. Or if they did, it isn't here."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He turned the pages. Name after name, each in a different hand, she saw now, some neat and some rough, as if each Watcher had written their own when their turn came. And beside each name the same mark. A small square, with a line through it.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Like a door," said Maren.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Hale's finger stopped on the page.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I've always thought so," he said, after a moment.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He turned to the last page with writing on it. Under the three hundred and eleventh name, in a newer hand, in the ordinary letters of Hearthmere that any student could read:</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Given into the keeping of the crown.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>And a year. The year of the charter. Three hundred years ago.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"After that, nothing," said Hale. "The list stops. And in the founding book of the orders, which is upstairs in Rowan's room and which she'll let you read if you ask her nicely and wash your hands, the oath appears. Near enough word for word. I will keep the watch below, and I will not ask what I keep. Sworn by every knight of every order, every day, at the noon bell. The crown took the Watch's oath and gave it to the orders, and the Watch went away. And nobody ever wrote down what the watch was."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Did they know? The first knights. When they swore it."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Some of them, I think. The ones the crown chose." He looked at his hands on the table. "And then they died, and their children swore it, and their children's children, and each time a little less was told. Until nobody was told anything. Just the words, said at noon, facing east toward the old wall, by people who think it's a figure of speech."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"And nobody keeps it now? Not really? It's just words?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Of course they keep it," said Hale. "The inner circle keeps a watch nobody else is told…"</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He stopped.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>The archive was very quiet. Somewhere far above them, up through three floors of stone, a bell rang faintly in the yard for the change of watch. The lamp over the table burned on, white and steady, with nothing in it to burn.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Hale sat with his mouth a little open on the word he hadn't said.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He shut it, and picked up his stick from where it leaned against the chair, and looked at it, and put it down again.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Keeps the old customs," he said. "I meant. The noon bell. The facing east. The words." He turned a page of the black book that didn't need turning. "That's what I meant."</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>It was the worst lie she'd ever heard. She'd heard better from first-years caught out of bed after the bell. He knew it, too. He sat under the lamp with his big tired face gone grey, and didn't look at her, and didn't look at the door at the end of the archive either. He was working hard at not looking at it.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>At noon she'd sat on the bench and waited him out and got nothing. She'd been on the river watch since she was seventeen; she knew how to catch a man in a lie and hold him in it until he gave you the rest. She had him now. She could see him waiting for her to.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>She didn't. Because he was an old man with a bad hip who'd been kind to her when no one else at Greyhold had, and who'd told her about the gate, and who'd said I'd like to see it, one day, before I die. And because it wasn't a liar's face. It was the face of a man carrying something very heavy up a very long stair, who's just stumbled, and caught himself, and is standing there with his heart going, waiting to see if it's going to fall.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Thank you, Warden," she said. "For telling me about the oath."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Ashdown," he said. Very quietly.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Yes?"</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He shook his head, and picked up the black book, and held it closed in his big hands.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Go to your muck."</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>Over the inside of the archive door, where you only saw it on your way out, someone had carved a line three hundred years ago. What is written here is true. What is true is not all written here. The first archivist, Hale said, as a joke. He said it had taken him thirty years to understand it wasn't.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>She looked back once from the door. He was sitting as she'd left him, with the book closed in his hands, and at his belt among the keys, longer than the rest, black and heavy and plain, the one she knew now would fit a lock as big as a man's hand.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She went to the island that night.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>She hadn't meant to. She'd done her muck, thirty-one stalls by lantern light, and been to supper at the ferry house, and sat on her cot in the dormitory with the shutters closed and the others asleep. And she'd thought about a black door with no handle, and a line at the top of a page. From the closing. A square with a line through it.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She'd got up, and put her coat on, and gone out the postern and up the River Road to Redwatch.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Ottery was there with the punt. She hadn't sent for him. He was just there, at the bottom of the steps, in the stern in the dark with his pipe.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Your mother sent word up with the flour boat," he said. "She said you had a face on you." He handed her the pole. "She says to tell her when you're back."</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>She poled them across. Half a league of black water, in the dark. Her ribs had mended enough. She didn't light a lamp; she knew the river now, every bend and every snag, as she knew the stalls in the Long Barn. At the island Ottery took the punt into the reeds at the mouth of the west channel and sat there with the boathook across his knees, and she went up the stream.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She'd brought nothing. Not the hammer, not the chisel, not kindling, not a cup. She'd decided on the river. Empty hands. Nothing it could see and think about.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She came to her place on the bank, and walked on past it. Five paces, toward the water.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She sat down at fifteen paces.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The lion came down at the hour, out of the trees on the far side, and stopped at the edge of them, and looked at her.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It saw where she was. Its head came up a little. It looked at the place on the bank where she always sat, twenty paces off, and at the place where she was now, closer to the water, closer to it.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She didn't move. She'd decided that on the river too. She sat with her hands open on her knees and looked at the water, and felt her whole body go cold as it always did, and didn't move.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>She could hear it breathing across the stream. She could feel the ground under her, very faint, tremble.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>It didn't drink. It looked at her empty hands. At her pockets. At the place by the water where her fire usually was, and the flat grey stone where she'd laid the iron, and the cold grass where it had lain down last time.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>It came down to the water, slowly, and lay down.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Not at the edge of the trees, where it had lain before. At the water's edge, on its own side, with its great forepaws almost in the stream and its head up, facing her. The collar on its neck, the cut chain lying in the wet grass. Fifteen paces. The nearest it had ever chosen to be.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She sat with her hands open, and it lay there, and between them the stream went over the stones in the dark.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The lion lifted its head.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It lifted it sharply, like a dog hearing its name, and turned it. Not toward her. Away, south-west, downriver, across the dark of the west channel and the Hearthmere bank beyond. Toward Greyhold.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It held it there. Ears forward. Eyes on the dark.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>Under her, the ground hummed. Faint. Very faint. Like a bowl of bronze that someone had touched with one finger, once, a long way off.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The lion lowered its head onto its forepaws at the edge of the stream, and looked at her.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She sat there until it got up and went.</p>
-<break time="450ms"/></speak>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<!-- The Watch Below, Chapter 35: The Mentor. Point of view: Maren. -->
+<p><s>Chapter Thirty-five.</s></p><break time="800ms"/>
+<p><s>The Mentor.</s></p><break time="1800ms"/>
+<!-- p1 -->
+<p>She wrote the report the night they rode back into Greyhold from Redwatch, by a stub of candle in the dormitory, as she’d written the one about the roadblock. Fourteen pages. Every raider she’d counted, every signal the boy had blown, every move. The two fingers. The three fingers. The four men in the middle of the green opening like a gate and closing again behind Pell. The greyharts going over the paddock fence. The barges.</p><break time="500ms"/>
+<!-- p2 -->
+<p>The man on the roof.</p><break time="500ms"/>
+<!-- p3 -->
+<p>She wrote what he looked like, and where she’d seen him before. She wrote what he’d said exactly, in the middle of a page, on a line by itself, so nobody could miss it.</p><break time="500ms"/>
+<!-- p4 · tension -->
+<p><prosody rate="97%"><prosody rate="95%">Ashdown. I hear you sit with lions.</prosody></prosody></p><break time="800ms"/>
+<!-- p5 -->
+<p>And under it, the other thing. <prosody rate="95%">All river-watch boats from Redwatch to Millbrook ordered in at dusk by a rider bearing Greyhold’s seal. Sergeant Ottery does not know the hand. This is the second time.</prosody></p><break time="500ms"/>
+<!-- p6 -->
+<p>Pell read it in the yard in the morning, standing, with the strip of Wynn’s shirt still round his head. All fourteen pages. He folded them up.</p><break time="500ms"/>
+<!-- p7 · Pell -->
+<p>“He said your name,” he said.</p><break time="500ms"/>
+<!-- p8 · Maren -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p9 · Pell -->
+<p>“I’ll take it up myself.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p10 -->
+<p>Rowan had it by the afternoon. She sent for her, and Maren went up the narrow stair sideways with her shoulder to the wall, and stood in front of the desk while Rowan read the line in the middle of the page. Then read it again.</p><break time="500ms"/>
+<!-- p11 · tension · Rowan -->
+<p><prosody rate="97%">“Your name isn’t a secret,” Rowan said at last. “The whole river knows a Greyhold student failed her trial on the island, and that she goes back. But the fishermen call you the girl on the island. The ferrymen call you Liss’s girl. The beast-sellers, I’m told, call you the lion girl.” She looked up. Her pale eyes were very still. “Not one of them calls you Ashdown.”</prosody></p><break time="800ms"/>
+<!-- p12 · Maren -->
+<p>“No, Captain.”</p><break time="500ms"/>
+<!-- p13 · tension · Rowan -->
+<p><prosody rate="97%">“So someone told him.”</prosody></p><break time="800ms"/>
+<!-- p14 -->
+<p>She bent her head and wrote something in the margin of the fourteenth page, small, beside the line about the boats. Maren couldn’t see what.</p><break time="500ms"/>
+<!-- p15 · Rowan -->
+<p>“Dismissed.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p16 -->
+<p>Hale was on the bench at the foot of the Lesson Wall the next day at noon, alone in the thin cold sun, with his stick across his knees. When she came across the yard he moved over without a word, and she sat.</p><break time="500ms"/>
+<!-- p17 · Hale -->
+<p>“He said your name,” he said. “At Ferriby.”</p><break time="500ms"/>
+<!-- p18 · Maren -->
+<p>“Yes, Warden.”</p><break time="500ms"/>
+<!-- p19 · dread -->
+<p><prosody rate="96%">He looked at her then. She’d never seen him look like that. Something older than fright. A man who’s waited a long time for a knock at the door and has just heard it.</prosody></p><break time="800ms"/>
+<!-- p20 · Hale -->
+<p>“I’ve had a report,” he said. “The inner circle has. From over the river.” He was looking at the empty yard, not at her. “Vey’s company, the Tide Council’s sellswords, went into the Fellwood nine days ago after the dragon farmer. They had him boxed up a crag in a cave with his three. And they lost him. In the rain, six nights ago, out of a cave with one way out, past a hundred and twenty men.” He turned the stick in his hands. “Our scouts on the far bank saw three dragons that same night, high, going south. Toward the coast.”</p><break time="500ms"/>
+<!-- p21 · tension -->
+<p><prosody rate="97%">Maren didn’t breathe.</prosody></p><break time="800ms"/>
+<!-- p22 · Hale -->
+<p>“There’s more in it, for what it’s worth. Our man in Wendmouth says Vale spoke on the Tidesteps there at noon on the day of Ferriby. Three thousand heard him.” He almost smiled. “The man in two places. The river was telling that one before you were born. I’ve a box of it in the archive: a new port every year, a new raid the same day, and always somebody who’ll swear to the hour. Crowds.”</p><break time="500ms"/>
+<!-- p23 -->
+<p>She thought of the face on the smithy roof, lit from below. She let it go.</p><break time="500ms"/>
+<!-- p24 · Maren -->
+<p>“South,” she said.</p><break time="500ms"/>
+<!-- p25 · Hale -->
+<p>“South. Out of the Marches. Away from the river.” Hale let out a long breath. “He’s gone.”</p><break time="500ms"/>
+<!-- p26 · reflective -->
+<p><prosody rate="96%">He said it with relief. Real relief, deep and simple, like a man setting down a sack at the end of a long road. Then, as she watched, it went out of his face, and something came in behind it that she’d never seen there, and it took her a moment to know it.</prosody></p><break time="500ms"/>
+<!-- p27 · quiet -->
+<p><prosody rate="95%">Shame.</prosody></p><break time="500ms"/>
+<!-- p28 · anger: voice going hard · Maren -->
+<p>“Why?” she said. “Why are you glad he’s gone? He saved Harrow’s End, the scouts say. He got children off a roof. Twenty of our knights sat on the bank and watched, and he came.” She heard her voice go hard. “Why would anybody be glad?”</p><break time="500ms"/>
+<!-- p29 -->
+<p>He didn’t look at her.</p><break time="500ms"/>
+<!-- p30 · dread: very quietly · Hale, very quietly -->
+<p><prosody rate="96%"><prosody volume="-5dB">“Because he’s three,”</prosody> he said at last. Very quietly. <prosody volume="-5dB">“Three bonds, in one man. It’s never happened.”</prosody> His big hands were tight on the stick. <prosody volume="-5dB">“And everything in that archive, Ashdown, every line in every book old enough to remember anything, says that when the old signs come all at once, beasts turning their heads to the ground and the earth answering and things that can’t happen happening, the last time it was so…”</prosody></prosody></p><break time="800ms"/>
+<!-- p31 -->
+<p>He stopped.</p><break time="500ms"/>
+<!-- p32 · tension -->
+<p><prosody rate="97%">She waited. She wasn’t going to let him off. She sat beside him on the bench and waited, and he knew she was waiting, and the sun went behind a cloud, and the yard went grey.</prosody></p><break time="800ms"/>
+<!-- p33 · Hale -->
+<p>“I’m an old man,” said Hale, “and I read too much.” He got up, slowly, with the stick, his weight on his good hip. “Come down after drill. You wanted to know about the oath.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p34 -->
+<p>He was at the long table under the hanging lamp when she came in, with the old black book open in front of him and his stick against the chair.</p><break time="500ms"/>
+<!-- p35 · Hale -->
+<p>“Sit,” he said.</p><break time="500ms"/>
+<!-- p36 -->
+<p>She sat.</p><break time="500ms"/>
+<!-- p37 -->
+<p>He turned the pages of the black book with one big finger, not reading them, and stopped, and looked past her down the long vaulted room to the far end.</p><break time="500ms"/>
+<!-- p38 -->
+<p>She’d never looked properly at the far end. The archive went back a long way under the north tower, stack after stack, into the dark beyond the lamp, and she’d thought it just went on. Following his eyes now, she saw that it didn’t. At the very back, past the last stack, three stone steps went down. At the bottom of them, set into the old grey wall of the tower’s foundation, there was a door.</p><break time="500ms"/>
+<!-- p39 · awe -->
+<p><prosody rate="95%">Low. Black. Oak so old it had gone the colour of iron, bound across with real iron in three great bands. No handle. Only a lock: an iron plate as big as a man’s hand, with a keyhole in the middle of it, deep and dark. Round the keyhole, worn nearly smooth, ran a ring of small square letters with hooks at the ends of the strokes.</prosody></p><break time="800ms"/>
+<!-- p40 -->
+<p>Hale was looking at it.</p><break time="500ms"/>
+<!-- p41 · tension -->
+<p><prosody rate="97%">Then he looked back at her, and saw that she’d seen him look, and something in his face closed.</prosody></p><break time="800ms"/>
+<!-- p42 · Hale -->
+<p>“The oath,” he said.</p><break time="500ms"/>
+<!-- p43 -->
+<p>He’d told her about the Watch weeks before, in the first of the afternoons: the list in the black book, three hundred and eleven names in the old script, the crown coming to the river with its charter and its masons and building Greyhold on top of whatever the Watch had kept. He turned the book round on the table now so she could see the first page. The heading, <prosody rate="95%">Watch</prosody>, in its square spare letters. And above it, in the same hand, small, a line she hadn’t noticed before.</p><break time="500ms"/>
+<!-- p44 · Hale -->
+<p>“There’s no date,” he said. “No king’s name. Nothing to say when it was begun. Only that.”</p><break time="500ms"/>
+<!-- p45 -->
+<p>She traced the letters in her mind, slowly.</p><break time="500ms"/>
+<!-- p46 · Maren, slowly, reading -->
+<p><prosody volume="-5dB">”<prosody rate="95%">From the…</prosody>”</prosody> She tried again. <prosody volume="-5dB">”<prosody rate="95%">From the closing.</prosody>”</prosody></p><break time="500ms"/>
+<!-- p47 · Hale -->
+<p>“Not <prosody rate="95%">from the founding</prosody>. Not <prosody rate="95%">from the coronation of</prosody>. <prosody rate="95%">From the closing</prosody>.” He looked at the line. “I’ve spent forty years trying to find out what was closed. Nobody wrote it down. Or if they did, it isn’t here.”</p><break time="500ms"/>
+<!-- p48 -->
+<p>He turned the pages. Name after name, each in a different hand, she saw now, some neat and some rough, as if each Watcher had written their own when their turn came. And beside each name the same mark. A small square, with a line through it.</p><break time="500ms"/>
+<!-- p49 · Maren -->
+<p>“Like a door,” said Maren.</p><break time="500ms"/>
+<!-- p50 -->
+<p>Hale’s finger stopped on the page.</p><break time="500ms"/>
+<!-- p51 · Hale -->
+<p>“I’ve always thought so,” he said, after a moment.</p><break time="500ms"/>
+<!-- p52 -->
+<p>He turned to the last page with writing on it. Under the three hundred and eleventh name, in a newer hand, in the ordinary letters of Hearthmere that any student could read:</p><break time="500ms"/>
+<!-- p53 -->
+<p><prosody rate="95%">Given into the keeping of the crown.</prosody></p><break time="500ms"/>
+<!-- p54 -->
+<p>And a year. The year of the charter. Three hundred years ago.</p><break time="500ms"/>
+<!-- p55 · reflective · Hale -->
+<p><prosody rate="96%">“After that, nothing,” said Hale. “The list stops. And in the founding book of the orders, which is upstairs in Rowan’s room and which she’ll let you read if you ask her nicely and wash your hands, the oath appears. Near enough word for word. <prosody rate="95%">I will keep the watch below, and I will not ask what I keep.</prosody> Sworn by every knight of every order, every day, at the noon bell. The crown took the Watch’s oath and gave it to the orders, and the Watch went away. And nobody ever wrote down what the watch was.”</prosody></p><break time="500ms"/>
+<!-- p56 · Maren -->
+<p>“Did they know? The first knights. When they swore it.”</p><break time="500ms"/>
+<!-- p57 · Hale -->
+<p>“Some of them, I think. The ones the crown chose.” He looked at his hands on the table. “And then they died, and their children swore it, and their children’s children, and each time a little less was told. Until nobody was told anything. Just the words, said at noon, facing east toward the old wall, by people who think it’s a figure of speech.”</p><break time="500ms"/>
+<!-- p58 · Maren -->
+<p>“And nobody keeps it now? Not really? It’s just words?”</p><break time="500ms"/>
+<!-- p59 · Hale -->
+<p>“Of course they keep it,” said Hale. “The inner circle keeps a watch nobody else is told…”</p><break time="500ms"/>
+<!-- p60 · tension -->
+<p><prosody rate="97%">He stopped.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p61 · quiet -->
+<p><prosody rate="95%">The archive was very quiet. Somewhere far above them, up through three floors of stone, a bell rang faintly in the yard for the change of watch. The lamp over the table burned on, white and steady, with nothing in it to burn.</prosody></p><break time="500ms"/>
+<!-- p62 · tension -->
+<p><prosody rate="97%">Hale sat with his mouth a little open on the word he hadn’t said.</prosody></p><break time="800ms"/>
+<!-- p63 -->
+<p>He shut it, and picked up his stick from where it leaned against the chair, and looked at it, and put it down again.</p><break time="500ms"/>
+<!-- p64 · tension: a clumsy cover · Hale -->
+<p><prosody rate="97%">“Keeps the old customs,” he said. “I meant. The noon bell. The facing east. The words.” He turned a page of the black book that didn’t need turning. “That’s what I meant.”</prosody></p><break time="800ms"/>
+<!-- p65 -->
+<p>It was the worst lie she’d ever heard. She’d heard better from first-years caught out of bed after the bell. He knew it, too. He sat under the lamp with his big tired face gone grey, and didn’t look at her, and didn’t look at the door at the end of the archive either. He was working hard at not looking at it.</p><break time="500ms"/>
+<!-- p66 -->
+<p>At noon she’d sat on the bench and waited him out and got nothing. She’d been on the river watch since she was seventeen; she knew how to catch a man in a lie and hold him in it until he gave you the rest. She had him now. She could see him waiting for her to.</p><break time="500ms"/>
+<!-- p67 · tender · Hale (remembered) -->
+<p><prosody rate="95%">She didn’t. Because he was an old man with a bad hip who’d been kind to her when no one else at Greyhold had, and who’d told her about the gate, and who’d said <prosody volume="-3dB">I’d like to see it, one day, before I die.</prosody> And because it wasn’t a liar’s face. It was the face of a man carrying something very heavy up a very long stair, who’s just stumbled, and caught himself, and is standing there with his heart going, waiting to see if it’s going to fall.</prosody></p><break time="500ms"/>
+<!-- p68 · Maren -->
+<p>“Thank you, Warden,” she said. “For telling me about the oath.”</p><break time="500ms"/>
+<!-- p69 · quiet · Hale, very quietly -->
+<p><prosody rate="95%"><prosody volume="-5dB">“Ashdown,”</prosody> he said. Very quietly.</prosody></p><break time="500ms"/>
+<!-- p70 · Maren -->
+<p>“Yes?”</p><break time="500ms"/>
+<!-- p71 -->
+<p>He shook his head, and picked up the black book, and held it closed in his big hands.</p><break time="500ms"/>
+<!-- p72 · Hale -->
+<p>“Go to your muck.”</p><break time="500ms"/>
+<!-- p73 · reflective -->
+<p><prosody rate="96%">Over the inside of the archive door, where you only saw it on your way out, someone had carved a line three hundred years ago. <prosody rate="95%">What is written here is true. What is true is not all written here.</prosody> The first archivist, Hale said, as a joke. He said it had taken him thirty years to understand it wasn’t.</prosody></p><break time="500ms"/>
+<!-- p74 · dread -->
+<p><prosody rate="96%">She looked back once from the door. He was sitting as she’d left him, with the book closed in his hands, and at his belt among the keys, longer than the rest, black and heavy and plain, the one she knew now would fit a lock as big as a man’s hand.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p75 -->
+<p>She went to the island that night.</p><break time="500ms"/>
+<!-- p76 -->
+<p>She hadn’t meant to. She’d done her muck, thirty-one stalls by lantern light, and been to supper at the ferry house, and sat on her cot in the dormitory with the shutters closed and the others asleep. And she’d thought about a black door with no handle, and a line at the top of a page. <prosody rate="95%">From the closing.</prosody> A square with a line through it.</p><break time="500ms"/>
+<!-- p77 -->
+<p>She’d got up, and put her coat on, and gone out the postern and up the River Road to Redwatch.</p><break time="500ms"/>
+<!-- p78 -->
+<p>Ottery was there with the punt. She hadn’t sent for him. He was just there, at the bottom of the steps, in the stern in the dark with his pipe.</p><break time="500ms"/>
+<!-- p79 · tender · Ottery -->
+<p><prosody rate="95%">“Your mother sent word up with the flour boat,” he said. “She said you had a face on you.” He handed her the pole. “She says to tell her when you’re back.”</prosody></p><break time="500ms"/>
+<!-- p80 -->
+<p>She poled them across. Half a league of black water, in the dark. Her ribs had mended enough. She didn’t light a lamp; she knew the river now, every bend and every snag, as she knew the stalls in the Long Barn. At the island Ottery took the punt into the reeds at the mouth of the west channel and sat there with the boathook across his knees, and she went up the stream.</p><break time="500ms"/>
+<!-- p81 -->
+<p>She’d brought nothing. Not the hammer, not the chisel, not kindling, not a cup. She’d decided on the river. Empty hands. Nothing it could see and think about.</p><break time="500ms"/>
+<!-- p82 -->
+<p>She came to her place on the bank, and walked on past it. Five paces, toward the water.</p><break time="500ms"/>
+<!-- p83 -->
+<p>She sat down at fifteen paces.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p84 -->
+<p>The lion came down at the hour, out of the trees on the far side, and stopped at the edge of them, and looked at her.</p><break time="500ms"/>
+<!-- p85 -->
+<p>It saw where she was. Its head came up a little. It looked at the place on the bank where she always sat, twenty paces off, and at the place where she was now, closer to the water, closer to it.</p><break time="500ms"/>
+<!-- p86 · tension -->
+<p><prosody rate="97%">She didn’t move. She’d decided that on the river too. She sat with her hands open on her knees and looked at the water, and felt her whole body go cold as it always did, and didn’t move.</prosody></p><break time="800ms"/>
+<!-- p87 -->
+<p>She could hear it breathing across the stream. She could feel the ground under her, very faint, tremble.</p><break time="500ms"/>
+<!-- p88 -->
+<p>It didn’t drink. It looked at her empty hands. At her pockets. At the place by the water where her fire usually was, and the flat grey stone where she’d laid the iron, and the cold grass where it had lain down last time.</p><break time="500ms"/>
+<!-- p89 -->
+<p>It came down to the water, slowly, and lay down.</p><break time="500ms"/>
+<!-- p90 · awe -->
+<p><prosody rate="95%">Not at the edge of the trees, where it had lain before. At the water’s edge, on its own side, with its great forepaws almost in the stream and its head up, facing her. The collar on its neck, the cut chain lying in the wet grass. Fifteen paces. The nearest it had ever chosen to be.</prosody></p><break time="800ms"/>
+<!-- p91 · quiet -->
+<p><prosody rate="95%">She sat with her hands open, and it lay there, and between them the stream went over the stones in the dark.</prosody></p><break time="500ms"/>
+<!-- p92 -->
+<p>The lion lifted its head.</p><break time="500ms"/>
+<!-- p93 · tension -->
+<p><prosody rate="97%">It lifted it sharply, like a dog hearing its name, and turned it. Not toward her. Away, south-west, downriver, across the dark of the west channel and the Hearthmere bank beyond. Toward Greyhold.</prosody></p><break time="800ms"/>
+<!-- p94 -->
+<p>It held it there. Ears forward. Eyes on the dark.</p><break time="500ms"/>
+<!-- p95 · awe: faint, uncanny -->
+<p><prosody rate="95%">Under her, the ground hummed. Faint. Very faint. Like a bowl of bronze that someone had touched with one finger, once, a long way off.</prosody></p><break time="800ms"/>
+<!-- p96 -->
+<p>The lion lowered its head onto its forepaws at the edge of the stream, and looked at her.</p><break time="500ms"/>
+<!-- p97 · quiet -->
+<p><prosody rate="95%">She sat there until it got up and went.</prosody></p>
+<break time="1800ms"/>
+</speak>

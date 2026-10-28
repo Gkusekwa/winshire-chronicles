@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<voice name="en-GB-RyanNeural">
+<!-- The Watch Below, Chapter 54: The Gathering. Point of view: Calder. -->
+<p><s>Chapter Fifty-four.</s></p><break time="800ms"/>
+<p><s>The Gathering.</s></p><break time="1800ms"/>
+<!-- p1 -->
+<p>Lisska saw them first.</p><break time="500ms"/>
+<!-- p2 -->
+<p>She was on the crag above Bel’s farm, where she’d taken to sitting at night since the cart came up the lane. She liked it there. She said she could see everything. She said it was like sitting on the roof of the world. It was the hundred-and-fifth night, a little before midnight, and Calder was lying on Bel’s kitchen floor again, not sleeping, when her voice came through the green mark, very sharp.</p><break time="500ms"/>
+<!-- p3 · urgent · Lisska (bond, to Calder), very sharp -->
+<p><prosody rate="105%"><prosody rate="94%" volume="-2dB">Lights. On the river lane. Coming up. A lot of them.</prosody></prosody></p><break time="500ms"/>
+<!-- p4 -->
+<p>He was at the door with his boots in his hand before she’d finished.</p><break time="500ms"/>
+<!-- p5 · Calder (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">How many?</prosody></p><break time="500ms"/>
+<!-- p6 · urgent · Lisska (bond, to Calder) -->
+<p><prosody rate="105%"><prosody rate="94%" volume="-2dB">Too many to count. Fifty. More. A line of them. Torches. They’ve turned off the road. They’re coming up the lane toward the hollow.</prosody> A pause. <prosody rate="94%" volume="-2dB">There are dogs. Silent ones.</prosody></prosody></p><break time="500ms"/>
+<!-- p7 · tension -->
+<p><prosody rate="97%">He looked down the hollow in the dark. He could see them now from the door. A line of small orange lights, strung out across the white fields below the farm, coming up from the river lane, slowly, spreading out as they came, like men closing on something.</prosody></p><break time="800ms"/>
+<!-- p8 -->
+<p>On the ridge behind Bel’s, he felt the other two get up.</p><break time="500ms"/>
+<!-- p9 · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">It’s you,</prosody> said Aurveth. <prosody rate="94%" volume="-2dB">They’ve come for you.</prosody></p><break time="500ms"/>
+<!-- p10 · Calder -->
+<p>“I know.”</p><break time="500ms"/>
+<!-- p11 · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">And they’ve come here. To your sister’s house.</prosody></p><break time="500ms"/>
+<!-- p12 -->
+<p>He looked back into the kitchen. Ada was up, in her doorway. Bel was at the foot of the ladder with her hand on it. Up in the loft, three faces in the dark.</p><break time="500ms"/>
+<!-- p13 · urgent · Calder -->
+<p><prosody rate="105%">“Bar the door,” he said to Bel. “Don’t open it. Whatever you hear.”</prosody></p><break time="500ms"/>
+<!-- p14 -->
+<p>He went out.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p15 -->
+<p>He’d thought about what he’d say, on the hill, if this ever came. He’d thought about it every night since the cart, lying on the floor. He said it now, standing in Bel’s yard in the snow with the line of torches coming up the field below him, to the three of them coming in over the hill.</p><break time="500ms"/>
+<!-- p16 · tension: orders · Calder -->
+<p><prosody rate="97%">“Drive them. Burn the ground in front of them. Make them turn.”</prosody></p><break time="800ms"/>
+<!-- p17 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">And the ones who won’t turn?</prosody></p><break time="500ms"/>
+<!-- p18 -->
+<p>He looked at the torches.</p><break time="500ms"/>
+<!-- p19 · tension · Calder -->
+<p><prosody rate="97%">“The ones who won’t turn,” he said, “don’t let them reach the house.”</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p20 -->
+<p>Aurveth came down beside him in the yard and he climbed onto her neck and she went up, and over the farm, and down the field, low, toward the line of lights.</p><break time="500ms"/>
+<!-- p21 · awe -->
+<p><prosody rate="95%">He’d never seen it from her back before, in the dark: what men look like when a dragon comes at them out of the night. They were so small. Little black shapes on the white, each with its spark of fire. The line was a hundred paces across. At one end of it, the silent dogs. At the other, a knot of men on horses. In between, men on foot, with spears and crossbows and torches held up, and their faces turned up toward the sound of her wings.</prosody></p><break time="800ms"/>
+<!-- p22 -->
+<p>Kharrak came in from the east and opened his mouth.</p><break time="500ms"/>
+<!-- p23 · action -->
+<p><prosody rate="104%">He did it as Calder had asked. A long white-and-orange wall of fire laid across the snow of the field from end to end, a short way in front of the line, so that the snow went up in steam and the ground under it went black and the whole field lit up as bright as noon.</prosody></p><break time="500ms"/>
+<!-- p24 -->
+<p>The line stopped.</p><break time="500ms"/>
+<!-- p25 · action -->
+<p><prosody rate="104%">Most of it turned. He saw it happen. Men stopping dead in the glare with their torches up, and looking at the fire in front of them, and up at the shape going over, and turning. Running. Back down the field toward the river lane, dropping torches, dropping spears.</prosody></p><break time="500ms"/>
+<!-- p26 -->
+<p>Not all of them.</p><break time="500ms"/>
+<!-- p27 · action -->
+<p><prosody rate="104%">The dogs didn’t turn. They came on through the gap at the end of the fire where it was thinnest, silent, low, in a pack, with a man running behind them with his arm up. At the other end the horsemen came on. Six or eight. Round the end of the fire, at a gallop, up the field toward the farm, toward the yard, toward Bel’s door.</prosody></p><break time="500ms"/>
+<!-- p28 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Those,</prosody> said Kharrak.</p><break time="500ms"/>
+<!-- p29 · Calder -->
+<p>“Yes,” said Calder.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p30 · quiet: aftermath -->
+<p><prosody rate="95%">It was over in less time than it takes to milk a cow. There was no moon; the first thin sliver after the dark had gone down behind the Hearthmere hills at dusk. The fire on the field was still burning in a long black line across the snow. The torches were gone down the hill. The river lane was dark.</prosody></p><break time="500ms"/>
+<!-- p31 -->
+<p>Eleven of them lay on the hillside below Bel’s farm.</p><break time="500ms"/>
+<!-- p32 · grief -->
+<p><prosody rate="94%">Calder walked among them by the light of the burning. He made himself. The dog-man, who’d driven the pack; Kharrak had taken him first. The horsemen, five of them, and their horses. Aurveth had stood in the lane between them and the farm and they’d come at her anyway, at a gallop, with lances, as if she were a gate they could ride through. Two crossbowmen who’d stood their ground by the fire and shot at Lisska, and hit her, once, in the soft skin under the wing, and Kharrak had seen it. Three spearmen who’d come through the gap behind the dogs and met Kharrak there.</prosody></p><break time="800ms"/>
+<!-- p33 · dread -->
+<p><prosody rate="96%">And the dogs. Eight of them. They hadn’t stopped. They’d never stop. They’d come on and on, through the fire, with their coats burning, until there was nothing of them left to come on with.</prosody></p><break time="800ms"/>
+<!-- p34 -->
+<p>He stood at the bottom of the field and looked at it all.</p><break time="500ms"/>
+<!-- p35 · tender: Ada scolding, Lisska stung · Lisska (bond, to Calder) -->
+<p><prosody rate="95%">Lisska was in the yard at Bel’s, behind him, lying in the snow with her wing held out, and Ada was out there with a lantern and a pot of honey, as she’d done for Calder’s arm, scolding her, and between scolds saying the old staunching-words over the hole, the ones she’d said over every cut knee in Harrow’s End, and Lisska was letting her. He could feel it through the mark. The sting under her wing, and Ada’s hands, and under that, Lisska, going round and round. <prosody rate="94%" volume="-2dB">They shot me. They shot at me. I didn’t do anything to them.</prosody></prosody></p><break time="500ms"/>
+<!-- p36 · Calder (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">They know who you are now,</prosody> he said.</p><break time="500ms"/>
+<!-- p37 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">I don’t want them to know who I am.</prosody></p><break time="500ms"/>
+<!-- p38 -->
+<p>He looked down at the dead men in the field.</p><break time="500ms"/>
+<!-- p39 · quiet · Calder (bond, to Lisska) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">No,</prosody> he said. <prosody rate="94%" volume="-2dB">Nor do I.</prosody></prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p40 -->
+<p>Kharrak had one alive.</p><break time="500ms"/>
+<!-- p41 · tension -->
+<p><prosody rate="97%">He came up the field from the river lane with the man in his claws, not carrying him, walking, with the man held flat against the ground under one great forefoot like a mouse under a cat’s paw, pushing him along the snow ahead of him. He brought him to Calder at the bottom of the field and stopped and kept his foot on him.</prosody></p><break time="800ms"/>
+<!-- p42 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">This one ran the wrong way,</prosody> said Kharrak. <prosody rate="94%" volume="-2dB">Into the trees. I thought you’d want to ask him something.</prosody></p><break time="500ms"/>
+<!-- p43 · tension -->
+<p><prosody rate="97%">The man was alive. He wasn’t hurt, much. He lay in the snow under Kharrak’s foot with his face turned to the side and his eyes shut, breathing in quick little gasps, and he’d wet himself.</prosody></p><break time="800ms"/>
+<!-- p44 -->
+<p>Calder crouched down beside him.</p><break time="500ms"/>
+<!-- p45 -->
+<p>He was a coast man. You could see it. Brown and weathered, with a sea-man’s rope-callused hands and a sea-man’s knife and a coat of good Wendmouth wool, and boots that had walked a long way. Thirty, forty. He had a sword on his belt that he hadn’t drawn. He had no ring. Not on his finger, not on a string round his neck. Calder looked.</p><break time="500ms"/>
+<!-- p46 · Calder -->
+<p>“You’re not one of them,” said Calder.</p><break time="500ms"/>
+<!-- p47 -->
+<p>The man opened his eyes. He looked at Calder. Then up, past him, at Kharrak’s head, very close above, rust-red, with the heat still coming off it.</p><break time="500ms"/>
+<!-- p48 · urgent: croak, terrified · Coll Brask, croaking; Coll Brask -->
+<p><prosody rate="105%">“No,” he said. His voice was a croak. “No. I’m a sword. Hired. Coll Brask, of Delling’s company, out of Wendmouth. I don’t hold with any of it. The rings. The one realm.” He swallowed. “Ask me. Anything. I’ll tell you. Only get that off me.”</prosody></p><break time="500ms"/>
+<!-- p49 -->
+<p>Kharrak’s foot didn’t move.</p><break time="500ms"/>
+<!-- p50 · Calder -->
+<p>“Paid by who?” said Calder.</p><break time="500ms"/>
+<!-- p51 · Coll Brask -->
+<p>“Them. The ring men.”</p><break time="500ms"/>
+<!-- p52 · Calder -->
+<p>“That’s not who.”</p><break time="500ms"/>
+<!-- p53 · tension · Coll Brask -->
+<p><prosody rate="97%">Brask’s eyes went to Kharrak and back. “A man at the Ram’s Head with a chest. He pays the companies. Ten silver a man to come up the river and stand where we’re put.” He licked his lips. “That’s worth something. Where the chest is. That’s worth my legs, that is.”</prosody></p><break time="800ms"/>
+<!-- p54 · Calder -->
+<p>“Your legs are his.” Calder nodded up at the dragon. “Why here? Why tonight?”</p><break time="500ms"/>
+<!-- p55 · Coll Brask -->
+<p>“You.” Brask tried to laugh and coughed instead. “Two hundred for you. Alive. That’s what the paper says. Alive, and the dragons with you if they’ll come, and if they won’t, you.”</p><break time="500ms"/>
+<!-- p56 · Calder -->
+<p>“And you came up a hill against three dragons for a share of two hundred silver.”</p><break time="500ms"/>
+<!-- p57 · humour: grim · Coll Brask -->
+<p>“There’s a woman with a cart at the Ram’s Head sells the companies charms. Warranted against bolts and fire, Council stamp and all.” He made a sound that wasn’t a laugh. “Didn’t do much tonight.”</p><break time="500ms"/>
+<!-- p58 -->
+<p>Kharrak’s foot pressed down, a little. Brask’s breath went out of him in a grunt.</p><break time="500ms"/>
+<!-- p59 · Coll Brask -->
+<p>“There’s more,” he said, when he had it back. “There’s a thing you’ll want more than you want me. But I want your word first. That I walk off this hill.”</p><break time="500ms"/>
+<!-- p60 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">No,</prosody> said Kharrak.</p><break time="500ms"/>
+<!-- p61 -->
+<p>Calder looked at the man. At the rope-callused hands, open on the snow, not reaching for anything.</p><break time="500ms"/>
+<!-- p62 · Calder -->
+<p>“Tell me,” he said, “and you’ll walk.”</p><break time="500ms"/>
+<!-- p63 · Coll Brask -->
+<p>“Your word.”</p><break time="500ms"/>
+<!-- p64 · Calder -->
+<p>“My word.”</p><break time="500ms"/>
+<!-- p65 -->
+<p>Brask shut his eyes.</p><break time="500ms"/>
+<!-- p66 · tension · Coll Brask -->
+<p><prosody rate="97%">“There’s another,” he said. “Same again. Two hundred, alive. The knight with the lion.” He opened them, and saw Calder’s face. “Over the water. On the other bank. A woman. Greyhold. There’s a beast on the island out there, the big one, the one that roared. She sits with it. They say it pulled her out of the river.” He breathed. “Two hundred for her and two hundred for you. Like you were a pair. Delling said we’d do the farmer first, because the knight was on the wrong bank, and the ice was going to break soon, and then we’d see.”</prosody></p><break time="800ms"/>
+<!-- p67 · reflective · Coll Brask (remembered); Arn (remembered); the pedlars (remembered) -->
+<p><prosody rate="96%"><prosody volume="-3dB">The knight with the lion.</prosody> Arn on the step of his father’s hall. <prosody volume="-3dB">That’s the kind of madness we could use.</prosody> The pedlars under Joss’s byre, in the autumn. <prosody volume="-3dB">A knight-student who goes out to the Old Ruin and sits with the monster.</prosody> Narrow boot-prints in the snow on the island, a woman’s, going down to a fire. A long pressed hollow a little way off, where something huge had lain and watched her.</prosody></p><break time="500ms"/>
+<!-- p68 · Coll Brask (remembered) -->
+<p><prosody volume="-3dB">Like you were a pair.</prosody></p><break time="500ms"/>
+<!-- p69 · Calder -->
+<p>“Why her?” he said.</p><break time="500ms"/>
+<!-- p70 · Coll Brask -->
+<p>“I don’t know. I don’t ask. Nobody asks.” Brask let his head go back on the snow. “Something to do with the island. Everything’s to do with the island. Every company I’ve talked to on the road, they’re all going the same way. Up the Wend. To the island.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p71 -->
+<p>He let him go at dawn.</p><break time="500ms"/>
+<!-- p72 · humour: Kharrak sulking · Kharrak (bond, to Calder) -->
+<p>Kharrak didn’t like it. Calder felt him not like it, a slow red sulk, all the rest of the night. <prosody rate="94%" volume="-2dB">He came to take you. He’d come again for less.</prosody></p><break time="500ms"/>
+<!-- p73 · Calder (bond, to Kharrak) -->
+<p><prosody rate="94%" volume="-2dB">I gave him my word.</prosody></p><break time="500ms"/>
+<!-- p74 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">You gave it. I didn’t.</prosody></p><break time="500ms"/>
+<!-- p75 · Calder (bond, to Kharrak) -->
+<p><prosody rate="94%" volume="-2dB">Then you’ll keep mine.</prosody></p><break time="500ms"/>
+<!-- p76 -->
+<p>He took the man’s sword, and his knife, and his coat, and let him keep his boots, and walked him to the river lane himself with Kharrak pacing behind them, and pointed down it.</p><break time="500ms"/>
+<!-- p77 · Calder -->
+<p>“Go back to Delling,” he said. “Tell him what you saw on the hill. Tell him the price is too low.”</p><break time="500ms"/>
+<!-- p78 -->
+<p>Brask looked at him, and at the dragon, and went. Fast, in his shirt, in the snow, down the river lane. At the bend he looked back once, as if he wanted to see whether the word had held all the way. Then he was gone.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p79 -->
+<p>He moved out of Bel’s house that day.</p><break time="500ms"/>
+<!-- p80 -->
+<p>He didn’t ask. He packed his things into his old pack, the little he had, and Joss’s knife in his belt, and the two chains in his coat, and he went up to the kitchen door where they were all sitting at breakfast, white, and told them.</p><break time="500ms"/>
+<!-- p81 · Calder -->
+<p>“They came here because I was here,” he said. “They’ll come again. If I’m not here, they’ll go where I am.”</p><break time="500ms"/>
+<!-- p82 · Bel -->
+<p>“And where’s that?” said Bel.</p><break time="500ms"/>
+<!-- p83 · Calder -->
+<p>“Crow Scar. With the three of them. Up in the rocks, where they can see a long way, and nobody can come up the hill without being seen.” He looked at Wren. “I’ll come down at night. Every night I can. To see you.”</p><break time="500ms"/>
+<!-- p84 -->
+<p>Wren looked at him across the table with her mouth shut tight.</p><break time="500ms"/>
+<!-- p85 · Ada -->
+<p>Ada said, “That’s right.”</p><break time="500ms"/>
+<!-- p86 -->
+<p>He looked at his mother.</p><break time="500ms"/>
+<!-- p87 · quiet: very quiet · Ada, very quietly; Ada -->
+<p><prosody rate="95%"><prosody volume="-5dB">“That’s right,”</prosody> said Ada again. She said it very quietly. Her hands were flat on the table. <prosody volume="-5dB">“You go up there. You’re right to.”</prosody> She didn’t look at him. “I’ve been waiting for you to work that out since the summer.”</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p88 -->
+<p>Crow Scar was cold. It always had been. A long broken spur of black rock above the forest east of Harrow’s End, with the cave high in its face where Calder and the three had lain up in the autumn when the price first went on him. He’d been glad of it then. He was glad of it now. You could see a long way from the top of the Scar. North, up the river toward the Scarfell and Varrhold. West, across the ice, to the island and the Hearthmere bank and the far grey shape of Greyhold. South, down the Wend.</p><break time="500ms"/>
+<!-- p89 -->
+<p>He sat on the top of the Scar on the hundred-and-seventh day with Aurveth lying behind him and looked south.</p><break time="500ms"/>
+<!-- p90 -->
+<p>Lisska had been down the Wend twice. High, so high she was a speck. He’d made her promise. She came back each time cold and quiet, and lay down in the cave with her wing out where the bolt had gone in, and told him.</p><break time="500ms"/>
+<!-- p91 -->
+<p>The camps were moving.</p><break time="500ms"/>
+<!-- p92 -->
+<p>The three he’d walked past in the autumn on the drove road, with their soup and their tents and their fields at the back: empty. Grey canvas lying in the snow. The drill-fields trampled and bare. Everything gone north up the road. The camp at the Ewe Beck, the black ruin of it, empty too. And all of them, all of it, going to one place.</p><break time="500ms"/>
+<!-- p93 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">The inn,</prosody> said Lisska. <prosody rate="94%" volume="-2dB">Where the roads meet. The one with the sign with the horns on it.</prosody></p><break time="500ms"/>
+<!-- p94 -->
+<p>The Ram’s Head. Halfway up the Drover’s Way from Harrow’s End to Varrhold, where the old cart road came in from Cotter’s Cross and the south. Where Calder had stopped with Sorrel and the funeral grain a lifetime ago, in the summer, and slept in the last stall. A day’s walk from Harrow’s End.</p><break time="500ms"/>
+<!-- p95 · dread · Lisska (bond, to Calder); Lisska (bond, to Calder), small -->
+<p><prosody rate="96%"><prosody rate="94%" volume="-2dB">It’s not a camp any more,</prosody> said Lisska. <prosody rate="94%" volume="-2dB">It’s a town. A town made of tents. All round the inn, on both sides of the road, and up the hill behind, and down to the beck. And more coming. Every day. On the road from the south. Carts. Men walking. Men on horses. And beasts.</prosody> Her voice went small. <prosody rate="94%" volume="-2dB">So many beasts, Calder. In lines. In collars. All with the eyes.</prosody></prosody></p><break time="800ms"/>
+<!-- p96 · Calder -->
+<p>“How many men?”</p><break time="500ms"/>
+<!-- p97 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">I don’t know. I can’t count that many. More than Varrhold. More than Skarrow. More than both.</prosody> A pause. <prosody rate="94%" volume="-2dB">More than were at the funeral.</prosody></p><break time="500ms"/>
+<!-- p98 -->
+<p>There’d been three thousand at Haldor’s funeral. The whole Clan, and half the Marches.</p><break time="500ms"/>
+<!-- p99 · dread -->
+<p><prosody rate="96%">He sat on the Scar and looked north-east along the line of the Way toward the Ram’s Head, a long day’s walk off, and he couldn’t see it, and he could feel it there. As you feel a storm on the other side of a hill before you see the cloud.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p100 -->
+<p>Hallam Brecc came on the hundred-and-ninth day.</p><break time="500ms"/>
+<!-- p101 · Calder (bond, to the dragons) -->
+<p>He came out of the north in the afternoon, high, on Morrow, the old black dragon going slow and steady through the cold with her grey-edged wings beating long and even. Calder saw them coming a long way off and felt the three of them go up behind him, alert, and said, <prosody rate="94%" volume="-2dB">It’s all right. It’s him. The old man from the ledges.</prosody> Kharrak growled anyway.</p><break time="500ms"/>
+<!-- p102 -->
+<p>Morrow came down on the top of the Scar beside Aurveth, carefully, as old people sit down. Hallam Brecc climbed off her neck with his stick, and stood on the black rock in his grey cloak with his white beard blowing, and looked at Calder.</p><break time="500ms"/>
+<!-- p103 · Hallam Brecc -->
+<p>“Farmer,” he said.</p><break time="500ms"/>
+<!-- p104 · Calder -->
+<p>“You’ve left the ledges.”</p><break time="500ms"/>
+<!-- p105 · anger · Hallam Brecc -->
+<p>“First time since the ford.” Hallam leaned on his stick and looked toward the Ram’s Head. “Somebody had to come and look. None of the others would. Arn’s not looking. Ulric’s not looking. They’re too busy.” He spat over the edge of the Scar. “Arn’s riders burned a Skarrow steading three nights ago. Ulric’s burned the ford-house at Teo’s ford in answer. Where they laid the boy out. Burned it to the stones.” He shook his head. “And neither of them has turned his head to look down the Way. Not once. They’re fighting over the chair with their backs to the door, and there’s a town of tents at the Ram’s Head, half a day’s ride from the hold.”</p><break time="500ms"/>
+<!-- p106 · Calder -->
+<p>“I went to them. Both of them.”</p><break time="500ms"/>
+<!-- p107 · Hallam Brecc -->
+<p>“I know you did. I saw you at the hold.” Hallam looked at him. “And I came today to tell you: I sent to them both again. Myself. After your fire at the Ewe Beck, when the word came up the Way what was at the Ram’s Head. Hallam Brecc of the ledges, who’s never asked either of them for anything. I sent to say: look south.” He was quiet. “Arn sent back that a Saltreach mob is no business of the Clan’s. Ulric didn’t send back at all.”</p><break time="500ms"/>
+<!-- p108 -->
+<p>He sat down on the rock next to Calder, with his stick across his knees.</p><break time="500ms"/>
+<!-- p109 · dread · Hallam Brecc -->
+<p><prosody rate="96%">“They’ll fight each other till there’s nothing left,” said Hallam Brecc. “And then the tents will come up the Way and there’ll be no Clan to fight them.”</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p110 -->
+<p>On the hundred-and-tenth day Aurveth took him high.</p><break time="500ms"/>
+<!-- p111 · awe -->
+<p><prosody rate="95%">Higher than she’d ever flown with him. Up and up, in long slow circles over the Scar, until the cold made his face burn and his breath came short, and the whole of the Marches lay below them like a map. The white hills, and the black forests, and the frozen Wend going away south in a long pale road. And to the north-east, up the Way, at the place where the roads met, a dark smear on the snow. Smoke going up from it in a hundred thin grey threads.</prosody></p><break time="800ms"/>
+<!-- p112 · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Look,</prosody> said Aurveth.</p><break time="500ms"/>
+<!-- p113 -->
+<p>He looked.</p><break time="500ms"/>
+<!-- p114 · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Not at the tents. At the roads.</prosody></p><break time="500ms"/>
+<!-- p115 -->
+<p>He looked at the roads. The Drover’s Way, coming down off the moor from Varrhold. The cart road, coming up from Cotter’s Cross and the south. The sheep track over from Ewe Hollow. All of them meeting at the Ram’s Head.</p><break time="500ms"/>
+<!-- p116 -->
+<p>And going out from it, south and west, the Way down to Harrow’s End. Trodden black through the snow by thousands of feet, wider than he’d ever seen it, with new tracks cut beside it where the carts had gone round. Down off the hill behind the inn, and along the forest’s edge, and on, toward the river.</p><break time="500ms"/>
+<!-- p117 -->
+<p>He followed it with his eyes. It went like a stream, finding the low ground. Through the Fellwood’s edge. Down off the hills behind Harrow’s End. And down, at last, to the water. To the ice.</p><break time="500ms"/>
+<!-- p118 -->
+<p>Opposite the island.</p><break time="500ms"/>
+<!-- p119 -->
+<p>He looked at the island, small and dark in the middle of the white river below, with its bare oaks and its broken tower. He looked at the black road coming down to the ice opposite it. And at the end of the road, where it met the water on the Saltreach shore, the last village on the way.</p><break time="500ms"/>
+<!-- p120 -->
+<p>Harrow’s End.</p><break time="500ms"/>
+<!-- p121 · dread: very low and slow · Aurveth (bond, to Calder), very low and slow -->
+<p><prosody rate="96%"><prosody rate="94%" volume="-6dB">They’re not coming for the Marches,</prosody> said Aurveth. <prosody rate="94%" volume="-6dB">They don’t want the Marches. They don’t want the Clan. They’re coming through it.</prosody> Her voice was very low and very slow. <prosody rate="94%" volume="-6dB">To the island. To the thing under it. And your village is in the road.</prosody></prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p122 -->
+<p>They met in the Wheel on the hundred-and-eleventh day. What was left of it. The burned shell of Hob’s alehouse at the bottom of the village, with its roof gone and its walls black, and snow on the floor, and somebody’s fire lit in the old hearth because it was the only hearth in Harrow’s End big enough for everybody to stand round.</p><break time="500ms"/>
+<!-- p123 -->
+<p>Not everybody came. There wasn’t everybody any more. Half the village had gone already, over the river in the autumn or up into the hills. But Fisk came, on his stick, with his pipe. Wat Garrow and Tessa, with Davy. The Ashby widow and her girl. The Hollins, three of them, from Upper Rush. Old Tolly from the Staithe, who’d come up the river lane on his donkey to hear. A dozen others. Calder stood at the back by the burned door, where he’d stood at every village meeting all his life, and didn’t speak until Fisk made him.</p><break time="500ms"/>
+<!-- p124 -->
+<p>He told them about the Ram’s Head. The road. The tents. The beasts in their collars. He told them it was coming. He couldn’t tell them when. Soon. When the last of the carts were in from the south.</p><break time="500ms"/>
+<!-- p125 -->
+<p>They stood round Hob’s burned hearth and looked at him.</p><break time="500ms"/>
+<!-- p126 · Tessa -->
+<p>“Where do we go?” said Tessa Garrow.</p><break time="500ms"/>
+<!-- p127 -->
+<p>Nobody answered.</p><break time="500ms"/>
+<!-- p128 · a Hollin -->
+<p>“Up the Scarfell,” said one of the Hollins. “To Varrhold.”</p><break time="500ms"/>
+<!-- p129 · Wat -->
+<p>“Into the middle of the war?” said Wat. “Arn’ll take every man for his spears and every beast for his carts.”</p><break time="500ms"/>
+<!-- p130 · a Hollin -->
+<p>“South, then.”</p><break time="500ms"/>
+<!-- p131 · Wat -->
+<p>“South’s where they’re coming from.”</p><break time="500ms"/>
+<!-- p132 · the Ashby widow -->
+<p>“Over the river,” said the Ashby widow.</p><break time="500ms"/>
+<!-- p133 -->
+<p>They all looked at her.</p><break time="500ms"/>
+<!-- p134 · reflective · the Ashby widow -->
+<p><prosody rate="96%">“Liss Ashdown’s still taking people,” she said. “From the jetty at the Staithe. She took the Penhallows in the autumn on the ferry, and the Dunns, and since the freeze she’s been walking them over the ice herself with a pole and a rope. That family from Low Ashby with the twins went last week.” She looked round at them. “They’ve a camp for people like us, on the Hearthmere side, at Millbrook. It’s not much. It’s better than this.”</prosody></p><break time="500ms"/>
+<!-- p135 · Wat -->
+<p>“The knights,” said Wat. “They’ll not want us.”</p><break time="500ms"/>
+<!-- p136 · quiet: very quiet, bitter · Tolly, very quietly -->
+<p><prosody rate="95%"><prosody volume="-5dB">“The knights sat on the bank and watched us burn,”</prosody> said Tolly. Very quietly. Everybody looked at him. He was looking at the fire. <prosody volume="-5dB">“I was there. Up at Fisk’s, for the eels. I saw their lanterns across the water.”</prosody></prosody></p><break time="500ms"/>
+<!-- p137 -->
+<p>Nobody said anything to that. The fire ticked in Hob’s hearth. One of the Hollins looked at the door, as if the meeting were over and he was only waiting for somebody else to go first.</p><break time="500ms"/>
+<!-- p138 · Tessa -->
+<p>“We’re going,” said Tessa Garrow.</p><break time="500ms"/>
+<!-- p139 -->
+<p>Wat turned round.</p><break time="500ms"/>
+<!-- p140 · anger: resolute · Tessa -->
+<p>“Over the water. Me and Davy and you, and the cow.” She didn’t look at him. She was looking at the Ashby widow. “Not on the ice. I’ll not walk Davy out on that ice behind a woman with a pole, not with the river under it. When it’s out, and Liss has her boat back on the rope, we go. The first day she’s running.”</p><break time="500ms"/>
+<!-- p141 · Wat -->
+<p>“Tess. The knights…”</p><break time="500ms"/>
+<!-- p142 · anger · Tessa -->
+<p>“Then they can watch us come over.” Tessa put her hand on Davy’s head. “They watched the rest.”</p><break time="500ms"/>
+<!-- p143 -->
+<p>Wat opened his mouth, and looked at the boy, and shut it again.</p><break time="500ms"/>
+<!-- p144 -->
+<p>That was the end of it. They stood round Hob’s burned hearth a while longer, and then they went home through the snow in twos and threes, not talking. The Hollins went off together, close, with their heads down, like men working out what a cart will carry. Calder stood in the black doorway and watched them go.</p><break time="500ms"/>
+<!-- p145 -->
+<p>Fisk stopped beside him on his stick.</p><break time="500ms"/>
+<!-- p146 · Fisk -->
+<p>“You’ll not be going over the river,” said Fisk.</p><break time="500ms"/>
+<!-- p147 · Calder -->
+<p>“No.”</p><break time="500ms"/>
+<!-- p148 · quiet · Fisk -->
+<p><prosody rate="95%">“No.” Fisk looked at him. “They want you. Not us. If you went over the water they’d come over after you, ice or no ice, and the knights with them.” He knocked out his pipe on the door jamb. “But your girl could. And your mother. And Bel and her two.” He looked at Calder a moment longer. “Liss Ashdown’s a good woman. Ice or ferry, she’ll take them. Think about it.”</prosody></p><break time="500ms"/>
+<!-- p149 -->
+<p>He went off up the lane on his stick.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p150 -->
+<p>He went down to Upper Rush on the hundred-and-twelfth night, late, by the forest path, on foot.</p><break time="500ms"/>
+<!-- p151 -->
+<p>The house was dark. Everyone asleep. He didn’t go in. He went to the paddock gate, because there was somebody standing at it, small, in a big coat, in the moonlight, and he knew who it was before he got there.</p><break time="500ms"/>
+<!-- p152 · tender -->
+<p><prosody rate="95%">Wren was standing on the bottom bar of the gate with her arms over the top of it. Old Grey was standing on the other side, close, with his great head low over the gate beside her. Just standing. Wren had her hand on his face.</prosody></p><break time="500ms"/>
+<!-- p153 · tender: a child, half to herself · Wren -->
+<p><prosody rate="95%">“He likes me,” she said, without turning round. “He does. I know he doesn’t look at anybody. But he comes to the gate when I come.”</prosody></p><break time="500ms"/>
+<!-- p154 -->
+<p>Calder stood beside her.</p><break time="500ms"/>
+<!-- p155 · tender · Wren -->
+<p><prosody rate="95%">“I talk to him,” said Wren. “Like you talk to Bramble. About nothing. Grandma says it’s daft.” She stroked the grey’s face. “I don’t care.”</prosody></p><break time="500ms"/>
+<!-- p156 · Calder -->
+<p>“It’s not daft.”</p><break time="500ms"/>
+<!-- p157 -->
+<p>They stood there.</p><break time="500ms"/>
+<!-- p158 · Wren -->
+<p>“You’re going again,” said Wren.</p><break time="500ms"/>
+<!-- p159 -->
+<p>He didn’t answer.</p><break time="500ms"/>
+<!-- p160 · grief: flat, a child's list · Wren, flatly; Wren -->
+<p><prosody rate="94%">“You’re always going. You went to the hold. You went to Wendmouth. You went over the ice. You went to the big uncle’s. You went to burn the camp.” She said it all quite flatly, the way Bel said things. “Now you live on the Scar.”</prosody></p><break time="800ms"/>
+<!-- p161 · Calder -->
+<p>“I know.”</p><break time="500ms"/>
+<!-- p162 · Wren -->
+<p>“Take me.”</p><break time="500ms"/>
+<!-- p163 · Calder -->
+<p>“No.”</p><break time="500ms"/>
+<!-- p164 · tender -->
+<p><prosody rate="95%">She turned round on the gate and looked at him. In the moonlight her face was Senna’s. It got more so every month.</prosody></p><break time="500ms"/>
+<!-- p165 · Wren -->
+<p>“Why?”</p><break time="500ms"/>
+<!-- p166 · Coll Brask (remembered) -->
+<p>He thought of eleven men lying on the hillside below this house. Of a sea-man under Kharrak’s foot, with his eyes shut. <prosody volume="-3dB">Two hundred. Alive.</prosody></p><break time="500ms"/>
+<!-- p167 · Calder -->
+<p>“Because they’re looking for me,” he said. “And wherever I am, that’s where they’ll come. So I want to be somewhere you’re not.”</p><break time="500ms"/>
+<!-- p168 -->
+<p>Wren looked at him.</p><break time="500ms"/>
+<!-- p169 · Wren -->
+<p>“Is the lion-woman in trouble too?” she said.</p><break time="500ms"/>
+<!-- p170 -->
+<p>He stared at her.</p><break time="500ms"/>
+<!-- p171 · tender: matter-of-fact child · Wren -->
+<p><prosody rate="95%">“Grandma told me,” said Wren. “About the one on the other bank. Who sits with the monster.” She said it as if it were obvious. “Lisska saw her, you said. In the summer. By the water.” She looked at him. “Is she in trouble? Like you?”</prosody></p><break time="500ms"/>
+<!-- p172 -->
+<p>He stood at the paddock gate in the moonlight with his daughter, and the great grey beast standing over them both with its empty eyes, and thought of a sea-man’s voice in the snow.</p><break time="500ms"/>
+<!-- p173 · Coll Brask (remembered) -->
+<p><prosody volume="-3dB">Two hundred for her and two hundred for you. Like you were a pair.</prosody></p><break time="500ms"/>
+<!-- p174 · quiet · Calder -->
+<p><prosody rate="95%">“I don’t know,” he said. “Yes. I think so.”</prosody></p><break time="500ms"/>
+<!-- p175 -->
+<p>Wren turned back to the grey and put her hand on his face again.</p><break time="500ms"/>
+<!-- p176 · tender · Wren -->
+<p><prosody rate="95%">“Then somebody should tell her,” she said.</prosody></p>
+<break time="1800ms"/>
+</voice>
+</speak>

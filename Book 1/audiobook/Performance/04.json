@@ -1,0 +1,1492 @@
+{
+ "chapter": 4,
+ "title": "The Chain",
+ "pov": "Calder",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Four.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Chain.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "A burned barn, they say on the Saltreach bank, smokes for three days and tells lies for thirty, and the only way to get the truth out of it is to shovel.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "Calder had been shovelling since first light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "He’d walked back up from Harrow’s End before dawn with a spade over his shoulder and Wren trotting beside him, because she had woken when he came in and had refused, with a nine-year-old’s terrible patience, to go back to sleep until he promised she could come. Ada had said nothing at all, which was worse than anything she might have said, and had packed them bread and cheese and a jar of honey for Bel, and stood at the door with her shawl round her until they were out of sight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Now the sun was well up and the hollow at Upper Rush was full of people and smoke. The two worst barns were black ribs and grey ash, still too hot in the middle to stand in. The third had kept its gable end and nothing else. Men from the four farms and a dozen from Harrow’s End and the Staithe were dragging out what could be dragged out: iron from the harness, a plough-share, a scorched cartwheel, the bones of the hay-rack. Old Tolly from the Staithe was poking along the edge of the ash with a stick like a heron looking for frogs, and muttering, and every so often picking something up and turning it over and throwing it away again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "Bel had given up being angry at about the second hour and gone on to being practical, which in Bel was harder to watch. She had the little ones, Pip and Nan, set to carrying cups of water to the men, and she had Wren carrying them too, and she was cooking something in a pot over a fire made from bits of her own barn, because, she said, she was damned if she’d waste good wood.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "speech",
+   "text": "“You’ll want to eat,”",
+   "speaker": "Bel"
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": "she told Calder, when he came over for water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "speech",
+   "text": "“Later.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p8",
+   "type": "speech",
+   "text": "“Now. You’ve the face you get.”",
+   "speaker": "Bel",
+   "mood": "humour"
+  },
+  {
+   "seq": 12,
+   "para": "p8",
+   "type": "narration",
+   "text": "She looked at him.",
+   "mood": "humour"
+  },
+  {
+   "seq": 13,
+   "para": "p8",
+   "type": "speech",
+   "text": "“Like a cow that’s swallowed a nail.”",
+   "speaker": "Bel",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p9",
+   "type": "speech",
+   "text": "“That’s a good face.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p10",
+   "type": "speech",
+   "text": "“It’s your face. I’ve known it longer than you have.”",
+   "speaker": "Bel"
+  },
+  {
+   "seq": 16,
+   "para": "p10",
+   "type": "narration",
+   "text": "She handed him a bowl."
+  },
+  {
+   "seq": 17,
+   "para": "p10",
+   "type": "speech",
+   "text": "“Eat.”",
+   "speaker": "Bel",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p11",
+   "type": "narration",
+   "text": "He ate. It was barley and bacon and ash, and it was good. Wren sat down next to him on the low wall with her own bowl and leaned against his arm and didn’t say anything, which was how he knew she’d been more frightened by the night than she was letting on. He put his free arm round her. She smelled of smoke. Everything did.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p12",
+   "type": "narration",
+   "text": "The chain was in his coat pocket. He’d thought about leaving the coat at home, and then put it on anyway, and now it sat against his hip like a stone in a shoe. Every time he bent to the spade it swung and knocked him. He knew exactly where it was all the time. It was like having a fourth person standing in the conversation.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 20,
+   "para": "p13",
+   "type": "narration",
+   "text": "Joss was the one he was worried about.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p14",
+   "type": "narration",
+   "text": "Joss had been out in the far paddock since sunrise with the only beast the raiders hadn’t got: a young dray-mare called Sorrel, three years old, the colour of wet sand. She’d been loose in the paddock under the alders all night with nobody to see her, and she’d heard everything, and smelled everything, and now she stood in the far corner with her head up and her whole hide shivering in long ripples, and if anyone came within ten paces she went up on her hind legs and screamed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p15",
+   "type": "narration",
+   "text": "Dray-beasts were not horses. People who didn’t know them called them horses because they had four legs and you could put a collar on them, just as people who didn’t know dragons called them big lizards. A grown dray-beast stood eight feet at the shoulder and more, taller than a man could reach, three times the weight of the biggest horse, and could pull a loaded wain out of a ditch that would drown a team of oxen. It had a long, soft, heavy face like a sad old man’s, and small round ears, and a way of looking at you that made you feel it had been thinking about something for a long time and was about to tell you. Some of the old farmers swore their beasts understood them without any bond at all. Calder had never believed it. He’d also never said it out loud, in case one of them heard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p16",
+   "type": "narration",
+   "text": "Joss had raised Sorrel from the first night. Her mother had been one of the greys. Now Joss stood at the paddock gate with a halter in his big hands and tears running down his face, and didn’t seem to know they were there.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 24,
+   "para": "p17",
+   "type": "speech",
+   "text": "“She won’t let me near her,”",
+   "speaker": "Joss"
+  },
+  {
+   "seq": 25,
+   "para": "p17",
+   "type": "narration",
+   "text": "he said, when Calder came up."
+  },
+  {
+   "seq": 26,
+   "para": "p17",
+   "type": "speech",
+   "text": "“Me. She’s never once not let me near her.”",
+   "speaker": "Joss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p18",
+   "type": "speech",
+   "text": "“She’s frightened.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p19",
+   "type": "speech",
+   "text": "“I know she’s frightened. I’m frightened.”",
+   "speaker": "Joss",
+   "mood": "grief"
+  },
+  {
+   "seq": 29,
+   "para": "p19",
+   "type": "narration",
+   "text": "Joss wiped his face with the back of his wrist, leaving a long black smear.",
+   "mood": "grief"
+  },
+  {
+   "seq": 30,
+   "para": "p19",
+   "type": "speech",
+   "text": "“They had her mother on a rope, Cal. I saw it from the ladder. Mabbin and Old Grey, both of them, roped, and a man walking in front with a lantern like he was taking them to market. Walking. Not even in a hurry. And she was out here in the dark and heard her mother go.”",
+   "speaker": "Joss",
+   "mood": "grief"
+  },
+  {
+   "seq": 31,
+   "para": "p19",
+   "type": "narration",
+   "text": "He gripped the gate.",
+   "mood": "grief"
+  },
+  {
+   "seq": 32,
+   "para": "p19",
+   "type": "speech",
+   "text": "“I’ll find them. I swear on my children, I’ll find them, whoever had them, I’ll find them and I’ll bring them home.”",
+   "speaker": "Joss",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 33,
+   "para": "p20",
+   "type": "speech",
+   "text": "“I know you will.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p21",
+   "type": "speech",
+   "text": "“You don’t. You’re just saying it.”",
+   "speaker": "Joss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p22",
+   "type": "narration",
+   "text": "That was true. Calder let it stand. Behind them, Bel was calling the children; behind that, somebody was laughing too loudly at nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p23",
+   "type": "speech",
+   "text": "“Let me try,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 37,
+   "para": "p23",
+   "type": "narration",
+   "text": "Calder said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 38,
+   "para": "p24",
+   "type": "narration",
+   "text": "He went in through the gate and shut it behind him and didn’t walk toward her. That was the first thing. You didn’t walk toward a frightened animal; you walked near it, and let it decide what you were for. He went along the hedge a little way and stopped and stood there with his hands loose and looked at the alders, and the river beyond them, and the far bank, which was a brown line in the haze. He started talking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p25",
+   "type": "narration",
+   "text": "He didn’t talk to her. That was the second thing. He talked about the weather, the way his father had, low and steady, nothing in it to be afraid of. He said it was going to be fine later, you could tell by the swallows, and the barley would want cutting at Harrow’s End by the end of the week if this held, and old Bramble had kicked him into the muck yesterday when the dragons came over, and he’d deserved it, honestly, because he’d been showing off with the knife. He said Sorrel’s mother had been the best puller in the Marches and everybody knew it and so did she, and he’d seen her once take a wain of stone up the hill out of Cotter’s Cross that two oxen had given up on, and walk it up like it was empty, and stand at the top and look back down at the oxen like they’d embarrassed her.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p26",
+   "type": "narration",
+   "text": "The mare stopped screaming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p27",
+   "type": "narration",
+   "text": "He kept talking. He talked about the swallows again. He talked about his mother’s honey, and how the bees had swarmed in the spring into the Garrows’ chimney and Davy Garrow had tried to smoke them out and smoked out his own grandmother instead. After a while he sat down on the grass with his back to the hedge, which every horseman he’d ever met would have told him was a fool’s thing to do near a frightened beast that size, and he kept talking, and the mare came three steps closer and stopped and blew through her nose.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p28",
+   "type": "speech",
+   "text": "“There,”",
+   "speaker": "Calder",
+   "how": "low and steady"
+  },
+  {
+   "seq": 43,
+   "para": "p28",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 44,
+   "para": "p28",
+   "type": "speech",
+   "text": "“That’s it. Nobody’s taking you anywhere.”",
+   "speaker": "Calder",
+   "how": "low and steady",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p29",
+   "type": "narration",
+   "text": "She came the rest of the way. It took a long time. When she got there she stood over him, enormous against the sky, shivering, and put her long soft face down and breathed on his hair. Her breath smelled of grass and fear.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p30",
+   "type": "narration",
+   "text": "He put his hand up, slowly, and she let him. He sat there with his palm flat on the side of her face and felt her shaking go through his arm, and he went on talking about bees.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p31",
+   "type": "narration",
+   "text": "When he looked up, Joss was at the gate with his mouth open, and beside Joss there was a young man on a tall bay horse, in a Clan riding coat with the black hound of the Varr stitched on the shoulder, watching him with great interest.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 48,
+   "para": "p32",
+   "type": "narration",
+   "text": "There were a dozen of them, Clan riders, come down the slope from the lane without anyone hearing them over the work and the smoke. Hard men mostly, older, in leather and wool with axes at their saddles. The young one at the front had a long face that was too thin for him yet, and dark hair tied back, and his father’s nose, and he looked like a man who’d been awake all night for a reason he was angry about.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p33",
+   "type": "narration",
+   "text": "Calder knew him. Everyone in Harrow’s End did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p34",
+   "type": "speech",
+   "text": "“Don’t get up,”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 51,
+   "para": "p34",
+   "type": "narration",
+   "text": "said Teo Varr."
+  },
+  {
+   "seq": 52,
+   "para": "p34",
+   "type": "speech",
+   "text": "“You’ll frighten her. Or me.”",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p35",
+   "type": "narration",
+   "text": "Calder didn’t get up. Sorrel had swung her head round at the horses and was shivering again, but she didn’t run; she stood over him and put her nose against his shoulder like a child hiding behind its mother’s skirt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p36",
+   "type": "speech",
+   "text": "“That was well done,”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 55,
+   "para": "p36",
+   "type": "narration",
+   "text": "Teo said."
+  },
+  {
+   "seq": 56,
+   "para": "p36",
+   "type": "speech",
+   "text": "“I’ve seen a horse-master in Varrhold take a whole morning to settle a beast like that, with a whip in one hand and a bucket in the other and the settling-words going the whole time. What did you say to her?”",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p37",
+   "type": "speech",
+   "text": "“Talked to her.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p38",
+   "type": "speech",
+   "text": "“About what?”",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p39",
+   "type": "speech",
+   "text": "“Bees.”",
+   "speaker": "Calder",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p40",
+   "type": "narration",
+   "text": "Teo laughed. It was a good laugh, surprised out of him, and some of the riders behind him smiled, though not all.",
+   "mood": "humour"
+  },
+  {
+   "seq": 61,
+   "para": "p40",
+   "type": "speech",
+   "text": "“Bees. I’ll remember that.”",
+   "speaker": "Teo",
+   "mood": "humour"
+  },
+  {
+   "seq": 62,
+   "para": "p40",
+   "type": "narration",
+   "text": "He looked at Calder properly.",
+   "mood": "humour"
+  },
+  {
+   "seq": 63,
+   "para": "p40",
+   "type": "speech",
+   "text": "“I know you. You’re the one with the good barley. Fenn. Harrow’s End. You lent me a coat at lambing, two springs ago, when I’d gone in the beck after a ewe and come out blue.”",
+   "speaker": "Teo",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p41",
+   "type": "speech",
+   "text": "“You gave it back.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p42",
+   "type": "speech",
+   "text": "“I gave it back with a hole in it.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 66,
+   "para": "p42",
+   "type": "narration",
+   "text": "He swung down off the bay and handed the reins to the man behind him without looking, the way people do who have always had someone behind them to hand reins to, and came to the gate. Close to, he looked younger and more tired. He looked at the burned barns for a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p43",
+   "type": "speech",
+   "text": "“Who did this?”",
+   "speaker": "Teo",
+   "how": "quietly"
+  },
+  {
+   "seq": 68,
+   "para": "p43",
+   "type": "narration",
+   "text": "he said quietly, to no one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p44",
+   "type": "narration",
+   "text": "Nobody answered. Then Hollin, whose ox-beast was gone, said, from among the men by the barn,"
+  },
+  {
+   "seq": 70,
+   "para": "p44",
+   "type": "speech",
+   "text": "“Ask your uncle.”",
+   "speaker": "Hollin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p45",
+   "type": "narration",
+   "text": "The riders went still.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 72,
+   "para": "p46",
+   "type": "narration",
+   "text": "Teo turned round. He didn’t hurry about it."
+  },
+  {
+   "seq": 73,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Say that again.”",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p47",
+   "type": "narration",
+   "text": "Hollin was a big man and a stubborn one and he’d lost his beast in the night, and it was too late now for him to pretend he hadn’t spoken.",
+   "mood": "anger"
+  },
+  {
+   "seq": 75,
+   "para": "p47",
+   "type": "speech",
+   "text": "“Masked men,”",
+   "speaker": "Hollin",
+   "mood": "anger"
+  },
+  {
+   "seq": 76,
+   "para": "p47",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "anger"
+  },
+  {
+   "seq": 77,
+   "para": "p47",
+   "type": "speech",
+   "text": "“Twenty of them, thirty. Knew which barns. Took the beasts and burned the rest. Three days after your father’s pyre is lit, with the whole Clan counting dragons over each other’s heads. You tell me who wants beasts for a war, Teo Varr.”",
+   "speaker": "Hollin",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p48",
+   "type": "speech",
+   "text": "“I’ll tell you who doesn’t hide his face.”",
+   "speaker": "Teo",
+   "how": "quiet",
+   "mood": "tension"
+  },
+  {
+   "seq": 79,
+   "para": "p48",
+   "type": "narration",
+   "text": "Teo’s voice was still quiet. Calder had heard his father speak like that once, at a dues-gathering, just before a man lost a hand.",
+   "mood": "tension"
+  },
+  {
+   "seq": 80,
+   "para": "p48",
+   "type": "speech",
+   "text": "“The Clan does not come at night. The Clan does not wear masks. When the Clan wants your ox, Hollin, it comes in daylight and tells you it’s taking your ox, and you curse it, and it takes your ox. My father never once in thirty years hid his face from this valley and neither will his brother and neither will I.”",
+   "speaker": "Teo",
+   "how": "quiet",
+   "mood": "tension"
+  },
+  {
+   "seq": 81,
+   "para": "p48",
+   "type": "narration",
+   "text": "He stopped. Something moved in his face.",
+   "mood": "tension"
+  },
+  {
+   "seq": 82,
+   "para": "p48",
+   "type": "speech",
+   "text": "“My uncle’s men,”",
+   "speaker": "Teo",
+   "how": "more slowly",
+   "mood": "tension"
+  },
+  {
+   "seq": 83,
+   "para": "p48",
+   "type": "narration",
+   "text": "he said, more slowly,",
+   "mood": "tension"
+  },
+  {
+   "seq": 84,
+   "para": "p48",
+   "type": "speech",
+   "text": "“are not my father’s men. That’s true. And there are some among them I don’t know. I’ll grant you that. But masks?”",
+   "speaker": "Teo",
+   "how": "more slowly",
+   "mood": "tension"
+  },
+  {
+   "seq": 85,
+   "para": "p48",
+   "type": "narration",
+   "text": "He shook his head.",
+   "mood": "tension"
+  },
+  {
+   "seq": 86,
+   "para": "p48",
+   "type": "speech",
+   "text": "“No. Not that. That isn’t us.”",
+   "speaker": "Teo",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 87,
+   "para": "p49",
+   "type": "speech",
+   "text": "“Then who?”",
+   "speaker": "Hollin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p50",
+   "type": "speech",
+   "text": "“I don’t know.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 89,
+   "para": "p50",
+   "type": "narration",
+   "text": "Teo looked at the ashes again."
+  },
+  {
+   "seq": 90,
+   "para": "p50",
+   "type": "speech",
+   "text": "“And I’m going to find out. You can believe that or not.”",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p51",
+   "type": "narration",
+   "text": "Joss said, from the gate, in a voice Calder had never heard him use:"
+  },
+  {
+   "seq": 92,
+   "para": "p51",
+   "type": "speech",
+   "text": "“My greys. Two of them. Mabbin and Old Grey. If you find who has them.”",
+   "speaker": "Joss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p52",
+   "type": "speech",
+   "text": "“Then you’ll have them back, and the men who took them will have a short conversation with my uncle, and a shorter one with me.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 94,
+   "para": "p52",
+   "type": "narration",
+   "text": "Teo looked at him."
+  },
+  {
+   "seq": 95,
+   "para": "p52",
+   "type": "speech",
+   "text": "“Your word I’ll have them looked for. On every road out of the Marches.”",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p53",
+   "type": "narration",
+   "text": "It was a good answer. It was a chief’s son’s answer. Calder sat on the grass under the mare and thought that it was the best answer anyone could have given, and that it changed nothing, and that the chain in his coat pocket was knocking against his hip again because he’d shifted his weight to see Teo’s face.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 97,
+   "para": "p54",
+   "type": "narration",
+   "text": "They stayed an hour. The riders walked the ashes and the yard, and two of them went off down the slope a little way, toward the river, and came back and spoke to Teo in low voices. Calder watched them go and come back. He knew what they’d been looking at. Teo listened and nodded and his long face got tighter.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p55",
+   "type": "narration",
+   "text": "Then something went over the sun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p56",
+   "type": "narration",
+   "text": "Not seven this time. One. Small, as dragons went, and quick: a lean dark-green shape that came down the line of the hills with the light flashing off it, and turned over Upper Rush in a long lazy curve, and came round again lower, so low that the wind of it lifted the ash off the burned barns in a grey sheet and everybody in the yard ducked and swore.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p57",
+   "type": "narration",
+   "text": "Sorrel went up. Calder was on his feet before he’d thought about it, with his hand on her neck and his voice going, low and steady, nonsense about bees and swallows, and she came down again, shuddering, and stood. Over at the barn wall, Pip and Nan had both burst into tears.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p58",
+   "type": "narration",
+   "text": "Wren hadn’t. Wren was standing in the middle of the yard with a cup of water in each hand and her head tipped right back, watching the dragon go round, and her face was the face she’d had at four years old the first time she saw snow.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 102,
+   "para": "p59",
+   "type": "narration",
+   "text": "The dragon came round a third time, slower. Calder could see the rider now, flat along its neck, a woman with her hair blowing loose, and he would have sworn she was laughing. The dragon tilted its head as it passed over the yard and looked down. Its eye went over the riders and the ashes and the shouting children, and over Calder with his hand on the mare’s neck, and stopped, for half a heartbeat, on Wren with her two cups of water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p60",
+   "type": "narration",
+   "text": "Then it beat its wings twice, hard, and went up the hill into the sun and was gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p61",
+   "type": "speech",
+   "text": "“Imra,”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 105,
+   "para": "p61",
+   "type": "narration",
+   "text": "said Teo, and sounded both amused and annoyed."
+  },
+  {
+   "seq": 106,
+   "para": "p61",
+   "type": "speech",
+   "text": "“She’s meant to be scouting the river. She never could pass a crowd without showing off.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 107,
+   "para": "p61",
+   "type": "narration",
+   "text": "He looked at the children crying by the wall."
+  },
+  {
+   "seq": 108,
+   "para": "p61",
+   "type": "speech",
+   "text": "“I’m sorry. She doesn’t mean anything by it.”",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p62",
+   "type": "speech",
+   "text": "“She looked at me,”",
+   "speaker": "Wren",
+   "mood": "awe"
+  },
+  {
+   "seq": 110,
+   "para": "p62",
+   "type": "narration",
+   "text": "Wren said. She’d come over to Calder without his noticing, and she was standing against his leg, and she was not frightened at all. She was shining.",
+   "mood": "awe"
+  },
+  {
+   "seq": 111,
+   "para": "p62",
+   "type": "speech",
+   "text": "“Da. The dragon. She looked right at me.”",
+   "speaker": "Wren",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 112,
+   "para": "p63",
+   "type": "speech",
+   "text": "“She looked at all of us.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p64",
+   "type": "speech",
+   "text": "“No, she looked at me.”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p65",
+   "type": "narration",
+   "text": "Teo was smiling at her."
+  },
+  {
+   "seq": 115,
+   "para": "p65",
+   "type": "speech",
+   "text": "“Lisska likes children,”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 116,
+   "para": "p65",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 117,
+   "para": "p65",
+   "type": "speech",
+   "text": "“She likes anything small that isn’t afraid of her. It doesn’t happen often.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 118,
+   "para": "p65",
+   "type": "narration",
+   "text": "He looked at Calder over Wren’s head."
+  },
+  {
+   "seq": 119,
+   "para": "p65",
+   "type": "speech",
+   "text": "“Yours?”",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p66",
+   "type": "speech",
+   "text": "“Mine.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p67",
+   "type": "speech",
+   "text": "“She’s got good sense.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 122,
+   "para": "p67",
+   "type": "narration",
+   "text": "He meant it kindly."
+  },
+  {
+   "seq": 123,
+   "para": "p67",
+   "type": "speech",
+   "text": "“Most people run.”",
+   "speaker": "Teo",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 124,
+   "para": "p68",
+   "type": "narration",
+   "text": "Teo came over to him before they left. The riders were already mounting in the lane; the bay was being held for him. He stood by the paddock gate with Calder and looked at the river for a while without saying anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p69",
+   "type": "speech",
+   "text": "“My men went down to the water,”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 126,
+   "para": "p69",
+   "type": "narration",
+   "text": "he said at last."
+  },
+  {
+   "seq": 127,
+   "para": "p69",
+   "type": "speech",
+   "text": "“There’s a cart track. Big wheels, iron tyres. All the way to the bank. Not to the ford. To the bank.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 128,
+   "para": "p69",
+   "type": "narration",
+   "text": "He looked at Calder."
+  },
+  {
+   "seq": 129,
+   "para": "p69",
+   "type": "speech",
+   "text": "“You saw it.”",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p70",
+   "type": "narration",
+   "text": "There was no point pretending."
+  },
+  {
+   "seq": 131,
+   "para": "p70",
+   "type": "speech",
+   "text": "“I saw it.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p71",
+   "type": "speech",
+   "text": "“Last night?”",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Last night.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p73",
+   "type": "speech",
+   "text": "“And you didn’t say.”",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p74",
+   "type": "speech",
+   "text": "“Nobody asked.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p75",
+   "type": "narration",
+   "text": "Teo laughed again, but it was shorter this time."
+  },
+  {
+   "seq": 137,
+   "para": "p75",
+   "type": "speech",
+   "text": "“No. Nobody would, would they. Not you.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 138,
+   "para": "p75",
+   "type": "narration",
+   "text": "He wasn’t being unkind. He looked like he was trying to work something out."
+  },
+  {
+   "seq": 139,
+   "para": "p75",
+   "type": "speech",
+   "text": "“The Clan doesn’t use carts, Fenn. We don’t need them. And we don’t take beasts to the river, because there’s nothing across the river for us but knights.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 140,
+   "para": "p75",
+   "type": "narration",
+   "text": "He looked over the water at the far bank, at the low brown line with Greyhold’s grey smudge far down it, and Calder followed his look.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p76",
+   "type": "narration",
+   "text": "There were riders on the Hearthmere bank road. A long column of them, small at this distance, going north at a steady pace with the sun on their helmets and a banner at the front he couldn’t read, and out on the water a long patrol boat with six oars going, pulling hard upriver against the current, toward Upper Rush, toward them, as if there were still something to be done.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p77",
+   "type": "speech",
+   "text": "“Now they come,”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 143,
+   "para": "p77",
+   "type": "narration",
+   "text": "said Teo.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p78",
+   "type": "speech",
+   "text": "“They never cross,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 145,
+   "para": "p78",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p79",
+   "type": "speech",
+   "text": "“No. But I’ve never seen that many on that road, either. Not in my life.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 147,
+   "para": "p79",
+   "type": "narration",
+   "text": "Teo watched them."
+  },
+  {
+   "seq": 148,
+   "para": "p79",
+   "type": "speech",
+   "text": "“Somebody over there is frightened of something. I’d like to know what.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 149,
+   "para": "p79",
+   "type": "narration",
+   "text": "He turned back."
+  },
+  {
+   "seq": 150,
+   "para": "p79",
+   "type": "speech",
+   "text": "“You’ve a good eye. You saw the ruts in the dark when nobody else looked. If you see anything else, anything, you’ll come to the hold and ask for me. Not my uncle. Not my brother. Me.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 151,
+   "para": "p79",
+   "type": "narration",
+   "text": "He held out his hand."
+  },
+  {
+   "seq": 152,
+   "para": "p79",
+   "type": "speech",
+   "text": "“Will you?”",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p80",
+   "type": "narration",
+   "text": "Calder looked at the hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p81",
+   "type": "narration",
+   "text": "The chain was in his pocket. Five links, as long as his forearm, the last one cut clean through. Dark, good metal, heavier than it should be, with a mark stamped on every link that he didn’t know. He could feel the exact weight of it. It would be the easiest thing in the world to put his hand in his pocket and take it out and put it in Teo Varr’s hand and say:",
+   "mood": "tension"
+  },
+  {
+   "seq": 155,
+   "para": "p81",
+   "type": "thought",
+   "text": "this was lying in the yard. This isn’t Clan chain. Whoever this is, they came to take beasts, and they came ready to hold something that fights.",
+   "speaker": "Calder",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 156,
+   "para": "p82",
+   "type": "narration",
+   "text": "He thought about Hollin saying"
+  },
+  {
+   "seq": 157,
+   "para": "p82",
+   "type": "remembered",
+   "text": "ask your uncle",
+   "speaker": "Hollin"
+  },
+  {
+   "seq": 158,
+   "para": "p82",
+   "type": "narration",
+   "text": ", and the riders going still. He thought about whose men the masked men might be, if they weren’t Clan, and whose men they might be if they were. He thought about a chief’s son with his uncle’s warriors behind him and his own grief in front of him, taking a thing like this up to Varrhold and putting it on a table, and what happened next. He thought about Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p83",
+   "type": "narration",
+   "text": "He thought: it’s not my business. It’s never my business. That’s why we’re still here.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p84",
+   "type": "narration",
+   "text": "He took Teo’s hand."
+  },
+  {
+   "seq": 161,
+   "para": "p84",
+   "type": "speech",
+   "text": "“If I see anything,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 162,
+   "para": "p84",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Good.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 164,
+   "para": "p85",
+   "type": "narration",
+   "text": "Teo held on a moment longer than he needed to."
+  },
+  {
+   "seq": 165,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Come to the harvest fair. I’ll be at yours; I’ll be at all of them, this year. My uncle wants every village in the Marches to see a Varr smiling at it before the moon’s out, and I’m the only one of us who can manage it.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 166,
+   "para": "p85",
+   "type": "narration",
+   "text": "He let go."
+  },
+  {
+   "seq": 167,
+   "para": "p85",
+   "type": "speech",
+   "text": "“I’ll buy you a drink. You can tell me about bees.”",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p86",
+   "type": "narration",
+   "text": "He went. The bay danced a little when he swung up, and he gathered it without thinking, and lifted a hand to the yard, and the riders went up the lane in a long jingling line and over the top of the hill and away north.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 169,
+   "para": "p87",
+   "type": "narration",
+   "text": "They worked till the light went. By the end, two of the barns were clean, black squares on the earth, and the third had a tarp over its gable end and Sorrel standing under it, eating from Joss’s hand as if nothing had ever happened. Bel walked Calder and Wren to the top of the lane.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Teo Varr,”",
+   "speaker": "Bel"
+  },
+  {
+   "seq": 171,
+   "para": "p88",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 172,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Shaking your hand. Asking you to come to the hold. You.”",
+   "speaker": "Bel",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p89",
+   "type": "speech",
+   "text": "“He’s like that with everyone.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p90",
+   "type": "speech",
+   "text": "“He’s not, you know.”",
+   "speaker": "Bel"
+  },
+  {
+   "seq": 175,
+   "para": "p90",
+   "type": "narration",
+   "text": "Bel looked at him sideways."
+  },
+  {
+   "seq": 176,
+   "para": "p90",
+   "type": "speech",
+   "text": "“I saw your face when he did it. You had the nail face. Worse.”",
+   "speaker": "Bel",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p91",
+   "type": "speech",
+   "text": "“I’m tired.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p92",
+   "type": "speech",
+   "text": "“You’re always tired. That’s not it.”",
+   "speaker": "Bel"
+  },
+  {
+   "seq": 179,
+   "para": "p92",
+   "type": "narration",
+   "text": "She waited. He didn’t say anything. She sighed, the long, put-upon sigh she’d been sighing at him since she was six years old and he was nine and had broken her doll and blamed the dog."
+  },
+  {
+   "seq": 180,
+   "para": "p92",
+   "type": "speech",
+   "text": "“Go home, Cal. Thank you for coming. Thank you for running.”",
+   "speaker": "Bel"
+  },
+  {
+   "seq": 181,
+   "para": "p92",
+   "type": "narration",
+   "text": "She hugged Wren."
+  },
+  {
+   "seq": 182,
+   "para": "p92",
+   "type": "speech",
+   "text": "“And you, my love. You were brave with the dragon.”",
+   "speaker": "Bel",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p93",
+   "type": "speech",
+   "text": "“I wasn’t brave,”",
+   "speaker": "Wren",
+   "mood": "tender"
+  },
+  {
+   "seq": 184,
+   "para": "p93",
+   "type": "narration",
+   "text": "said Wren.",
+   "mood": "tender"
+  },
+  {
+   "seq": 185,
+   "para": "p93",
+   "type": "speech",
+   "text": "“I liked her.”",
+   "speaker": "Wren",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p94",
+   "type": "narration",
+   "text": "They walked home along the river lane in the dusk, the two leagues he’d run the night before. Wren held his hand and talked the whole way about the dragon: its colour, which she said was the colour of the beck in spring; the woman on its back, who had been laughing; its eye, which had looked at her. Only her. She was sure.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p95",
+   "type": "narration",
+   "text": "He let her talk. The chain knocked against his hip with every step.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p96",
+   "type": "narration",
+   "text": "Halfway home she went quiet, and then she said,"
+  },
+  {
+   "seq": 189,
+   "para": "p96",
+   "type": "speech",
+   "text": "“Da. Why didn’t you give it to him?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p97",
+   "type": "narration",
+   "text": "He nearly stopped walking. He didn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p98",
+   "type": "speech",
+   "text": "“Give what?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p99",
+   "type": "speech",
+   "text": "“The thing in your pocket. You keep touching it.”",
+   "speaker": "Wren",
+   "mood": "quiet"
+  },
+  {
+   "seq": 193,
+   "para": "p99",
+   "type": "narration",
+   "text": "She looked up at him. She had Senna’s look, the long, level one, and she was using it.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 194,
+   "para": "p99",
+   "type": "speech",
+   "text": "“You were going to give it to him. Your hand went to your pocket. And then it didn’t.”",
+   "speaker": "Wren",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p100",
+   "type": "narration",
+   "text": "He walked a while.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p101",
+   "type": "speech",
+   "text": "“Because some things,”",
+   "speaker": "Calder",
+   "mood": "reflective"
+  },
+  {
+   "seq": 197,
+   "para": "p101",
+   "type": "narration",
+   "text": "he said at last,",
+   "mood": "reflective"
+  },
+  {
+   "seq": 198,
+   "para": "p101",
+   "type": "speech",
+   "text": "“once you’ve given them to somebody, you can’t take them back. And you don’t know what they’ll do with them. And then it’s your fault, whatever they do.”",
+   "speaker": "Calder",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p102",
+   "type": "narration",
+   "text": "Wren thought about that. The river went by on their left, wide and dark and smooth. Across the water the lanterns were coming out on Greyhold’s wall, one after another, small and steady.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p103",
+   "type": "speech",
+   "text": "“But it’s your fault if you don’t, too,”",
+   "speaker": "Wren",
+   "mood": "quiet"
+  },
+  {
+   "seq": 201,
+   "para": "p103",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 202,
+   "para": "p103",
+   "type": "speech",
+   "text": "“Isn’t it? Whatever happens.”",
+   "speaker": "Wren",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p104",
+   "type": "narration",
+   "text": "He didn’t answer. After a while she let it go, which she’d learned to do this year, and went back to talking about the dragon, and he walked her home along the river in the dark with the chain in his pocket, and it was heavier at the end than it had been at the start.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  }
+ ]
+}

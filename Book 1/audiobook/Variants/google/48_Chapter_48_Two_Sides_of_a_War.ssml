@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<!-- The Watch Below, Chapter 48: Two Sides of a War. Point of view: Calder. -->
+<p><s>Chapter Forty-eight.</s></p><break time="800ms"/>
+<p><s>Two Sides of a War.</s></p><break time="1800ms"/>
+<!-- p1 -->
+<p>He decided on the ninety-second morning, at <sub alias="Bell">Bel</sub>’s table, with Fisk’s paper still lying on the dresser where nobody would touch it.</p><break time="500ms"/>
+<!-- p2 · quiet -->
+<p><prosody rate="95%">Deciding was a small thing, in the end. It felt like getting up from the table and putting his coat on. Ada watched him do it from the fire and didn’t ask where he was going. She’d hardly spoken since the night of the verse. She sat by the fire with her hands in her lap, the way she’d sat at the table when the lights went out, and looked at the flames.</prosody></p><break time="500ms"/>
+<!-- p3 -->
+<p>Every night since the verse he’d gone out into <sub alias="Bell">Bel</sub>’s yard last thing and looked down the river at Greyhold. Its lights weren’t right any more. Twice he’d seen a whole row of them along the wall go dim and red, like a fire going down to coals, and then come up again. Joss said it was the cold. Nobody else said anything.</p><break time="500ms"/>
+<!-- p4 · Calder -->
+<p>“I’m going to <sub alias="Var-hold">Varrhold</sub>,” he said. “And then to <sub alias="Scarrow">Skarrow</sub>.”</p><break time="500ms"/>
+<!-- p5 -->
+<p><sub alias="Bell">Bel</sub> looked up from the bread.</p><break time="500ms"/>
+<!-- p6 · Calder -->
+<p>“To Arn,” said <sub alias="Cawlder">Calder</sub>. “And to <sub alias="Ullrick">Ulric</sub>. To ask them to stop.”</p><break time="500ms"/>
+<!-- p7 · Bel -->
+<p>“Stop what?”</p><break time="500ms"/>
+<!-- p8 · Calder -->
+<p>“The war.”</p><break time="500ms"/>
+<!-- p9 -->
+<p>Joss put down his knife. <sub alias="Bell">Bel</sub> stared at him.</p><break time="500ms"/>
+<!-- p10 · Bel -->
+<p>“They’ll not stop,” said <sub alias="Bell">Bel</sub>. “Not for you. Not for anybody. Arn’s sworn on his brother’s blood. <sub alias="Ullrick">Ulric</sub>’s had thirty years waiting for the chair. They’ll not stop because a barley farmer flies over and asks them nicely.”</p><break time="500ms"/>
+<!-- p11 · Calder -->
+<p>“I know.”</p><break time="500ms"/>
+<!-- p12 · Bel -->
+<p>“Then why?”</p><break time="500ms"/>
+<!-- p13 -->
+<p>He stood by the door with his hand on the latch and thought about it.</p><break time="500ms"/>
+<!-- p14 · urgent: earnest · Calder -->
+<p><prosody rate="105%">“Because every farm they burn sends a family across the ice to Millbrook,” he said. “And every family in Millbrook goes to a barn in the dark and hears a man with a book. And comes out with a ring on a string. Or goes down the Wend to a camp with soup at the front and a field at the back full of beasts with nothing in their eyes.” He looked at his sister. “The Varrs are feeding them, <sub alias="Bell">Bel</sub>. Every day this goes on, they’re feeding them. And now they’ve put my name at the bottom of their paper.”</prosody></p><break time="500ms"/>
+<!-- p15 · Bel -->
+<p>“So you’ll go and talk to the Varrs.”</p><break time="500ms"/>
+<!-- p16 · humour: wry, self-mocking · Calder -->
+<p>“Somebody has to say it to their faces. Nobody has.” He opened the door. “I’ve never said anything to anybody’s face in my life. I thought I might start.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p17 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">They’ll kill you,</prosody> said <sub alias="Karrak">Kharrak</sub>, on the hill above the Fenn farm, where the three of them were waiting in the snow.</p><break time="500ms"/>
+<!-- p18 · Calder -->
+<p>“They won’t. Not with you behind me.”</p><break time="500ms"/>
+<!-- p19 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">They’ll try.</prosody></p><break time="500ms"/>
+<!-- p20 · Calder -->
+<p>“Then you’ll stop them. Without burning anybody.”</p><break time="500ms"/>
+<!-- p21 · tension · Kharrak (bond, to Calder) -->
+<p><prosody rate="97%"><prosody rate="94%" volume="-2dB">Hah,</prosody> said <sub alias="Karrak">Kharrak</sub>, but it wasn’t a laugh.</prosody></p><break time="800ms"/>
+<!-- p22 · grief: very quiet · Lisska (bond, to Calder), very quietly -->
+<p><prosody rate="94%"><prosody rate="94%" volume="-6dB"><sub alias="Var-hold">Varrhold</sub>,</prosody> said <sub alias="Liska">Lisska</sub>. Very quietly. She’d gone still when he said the name. <prosody rate="94%" volume="-6dB">The hold. <sub alias="Imruh">Imra</sub>’s hold. <sub alias="Tayo">Teo</sub>’s.</prosody> A long pause. <prosody rate="94%" volume="-6dB">I haven’t been there since. Not landed. Only over. High up.</prosody></prosody></p><break time="800ms"/>
+<!-- p23 · Calder -->
+<p>“You don’t have to come, little one.”</p><break time="500ms"/>
+<!-- p24 · tender · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">I want to.</prosody> Another pause. <prosody rate="94%" volume="-2dB">I want to see the stable roof.</prosody></prosody></p><break time="500ms"/>
+<!-- p25 -->
+<p><sub alias="Orveth">Aurveth</sub> lowered her neck for him.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p26 -->
+<p>They went in daylight. That was the point. He’d thought about it all night on <sub alias="Bell">Bel</sub>’s kitchen floor and it was the only way. If he went in the dark, they’d think he’d come to burn them. If he came in the morning, low and slow, like a man coming up a lane to a neighbour’s gate, with the sun on him so they could see who it was, they’d know he’d come to talk.</p><break time="500ms"/>
+<!-- p27 · quiet -->
+<p><prosody rate="95%">He hoped.</prosody></p><break time="500ms"/>
+<!-- p28 -->
+<p>They came up the Drover’s Way from the south, high over the moor, with the <sub alias="Scar-fell">Scarfell</sub> rising white ahead and Hollow Beck frozen in its glen, and the hold came up out of the snow below them in its hollow under the cliffs. The ring of black longhouses inside the turf rampart, with the herd-charms hung over every door, knots of red wool round a shed claw, the way the Clan had hung them when it had hundreds of dragons. The chief’s hall with its roof of shed scales, shining dull green and bronze and black under the snow. The falls frozen in long white ropes down the cliff behind. Above, in the black cliff face, the Roosts.</p><break time="500ms"/>
+<!-- p29 -->
+<p>There were dragons on the ledges.</p><break time="500ms"/>
+<!-- p30 · grief -->
+<p><prosody rate="94%">Not many. A dozen, perhaps. Sitting on the ledges outside the cave mouths in the cold, with their wings folded and their heads up, watching three dragons come in out of the south. He’d seen the Roosts when the Clan had hundreds. He’d stood at <sub alias="Cold-tarn">Coldtarn</sub> with the ledges so thick with them that you couldn’t see the rock. Now there were a dozen on the ledges, and the rest of the cliff was empty and white.</prosody></p><break time="800ms"/>
+<!-- p31 · grief · Lisska (bond, to Aurveth) -->
+<p><prosody rate="94%"><prosody rate="94%" volume="-2dB">Where are they all?</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">Where’s everybody? There used to be so many. Where’ve they gone?</prosody></prosody></p><break time="800ms"/>
+<!-- p32 · Aurveth (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">Hunting,</prosody> said <sub alias="Orveth">Aurveth</sub>. <prosody rate="94%" volume="-2dB">In the high glens. The ones without riders. They go where they like, when there’s no one to keep them.</prosody> She was quiet a moment. <prosody rate="94%" volume="-2dB">The ones on the ledges are the bonded. The ones who wouldn’t fight.</prosody></p><break time="500ms"/>
+<!-- p33 · Calder -->
+<p>“They’re watching us.”</p><break time="500ms"/>
+<!-- p34 · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Of course they are,</prosody> said <sub alias="Orveth">Aurveth</sub>. <prosody rate="94%" volume="-2dB">They know who we are.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p35 -->
+<p>She came down into the yard of the hold in a long slow glide, with her wings spread wide, and landed in the snow in front of the chief’s hall so lightly that the snow barely stirred. <sub alias="Karrak">Kharrak</sub> came down behind her, heavier, and stood at her shoulder with his wings half open. <sub alias="Liska">Lisska</sub> didn’t land in the yard. She went over it, low, and round, and came down on the roof of the long stable by the gate, and folded her wings, and lay there.</p><break time="500ms"/>
+<!-- p36 · tender: bittersweet memory · Teo (remembered) -->
+<p><prosody rate="95%">He’d known she would. He felt it go through her, through the green mark, the thing she’d come for: the warm slates under her belly, the smell of horses coming up through the roof. <sub alias="Tayo">Teo</sub> in the yard below, throwing apples at her. <prosody volume="-3dB">Get off my stable, you green menace.</prosody> <sub alias="Imruh">Imra</sub> laughing.</prosody></p><break time="500ms"/>
+<!-- p37 -->
+<p>He slid down off <sub alias="Orveth">Aurveth</sub>’s neck into the snow.</p><break time="500ms"/>
+<!-- p38 · tension -->
+<p><prosody rate="97%">The yard was full of people. Clan folk, in grey with the red thread, come out of every longhouse and every door at the sound of wings. Men with axes. Women with children pulled behind them. Nobody moved. They stood in the snow in a great ring round the yard, round the two dragons and the man between them, and stared.</prosody></p><break time="800ms"/>
+<!-- p39 · tension -->
+<p><prosody rate="97%">Nobody shot. He’d wondered if somebody would.</prosody></p><break time="800ms"/>
+<!-- p40 -->
+<p>The door of the chief’s hall opened.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p41 -->
+<p>Arn <sub alias="Var">Varr</sub> came out onto the step and stood there.</p><break time="500ms"/>
+<!-- p42 · tension -->
+<p><prosody rate="97%">He’d changed. <sub alias="Cawlder">Calder</sub> saw it at once. It had been three months since the ford, since Arn had knelt on the stones with his hand on his brother’s chest and held up the red palm and sworn. He’d been white then, and still, with nothing in his face at all. He wasn’t still now. He was thinner. Much thinner. His face had gone hard and sharp, all bone, like a knife that’s been ground too often, and his eyes were very bright. He stood on the step of his father’s hall with a sword at his hip and Gorm <sub alias="Askel">Askell</sub> behind him, and looked at <sub alias="Cawlder">Calder</sub> across the yard.</prosody></p><break time="800ms"/>
+<!-- p43 · Arn -->
+<p>“The farmer,” he said. “The barley man. The witness.” He looked at <sub alias="Orveth">Aurveth</sub>, and at <sub alias="Karrak">Kharrak</sub>, and up at the stable roof where <sub alias="Liska">Lisska</sub> lay. “And our dragons.”</p><break time="500ms"/>
+<!-- p44 · Calder -->
+<p>“Arn.”</p><break time="500ms"/>
+<!-- p45 · Arn -->
+<p>“You’ve come back.” Arn came down off the step into the snow, slowly. “You’ve brought them home.”</p><break time="500ms"/>
+<!-- p46 · Calder -->
+<p>“I’ve come to talk.”</p><break time="500ms"/>
+<!-- p47 · anger: very quiet, bitter · Arn; Arn, very quiet -->
+<p>“Talk.” Arn stopped a few paces off. <prosody volume="-5dB">“The <sub alias="Var">Varr</sub> have fed those three since they came out of the egg. Raised them. Named them. Flown them. And they come down out of the sky into a <sub alias="Salt-reach">Saltreach</sub> barley field and lie down round a farmer, and he walks off into the hills with them, and the Clan’s at war, and they’re gone.”</prosody> His voice was very quiet. <prosody volume="-5dB">“And now he comes back. To talk.”</prosody></p><break time="500ms"/>
+<!-- p48 · Calder -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p49 · Arn -->
+<p>“Then talk,” said Arn.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p50 -->
+<p>He talked.</p><break time="500ms"/>
+<!-- p51 -->
+<p>He’d thought, all night on <sub alias="Bell">Bel</sub>’s floor, about what he’d say. He’d had it all in order. He lost it the moment he opened his mouth, and said it anyway, in pieces, standing in the snow in front of Arn <sub alias="Var">Varr</sub> with two dragons at his back and the whole hold watching.</p><break time="500ms"/>
+<!-- p52 -->
+<p>He told Arn about the camps. Three of them, on the drove road up the Wend. Soup at the front. Fields at the back. Young men with rings on strings, drilling with spears. And beasts. Hounds and greyharts and wyverns, in iron collars, with a ring of six on the iron, and nothing in their eyes. Nothing at all.</p><break time="500ms"/>
+<!-- p53 · the man in grey (remembered) -->
+<p>He told him about the room behind the red-and-gold building on Gallows Quay. The smoke. The young man kneeling with his hand on the hound’s head, crying out. The man in grey. <prosody volume="-3dB">You’re chosen now.</prosody></p><break time="500ms"/>
+<!-- p54 -->
+<p>He told him about the coin man at his gate, with new silver in a purse, and the ring of six on the rim of every coin.</p><break time="500ms"/>
+<!-- p55 -->
+<p>He took the chain out of his coat. The one from Upper Rush, from the ashes. He held it up in the snow, so Arn could see the links.</p><break time="500ms"/>
+<!-- p56 · urgent · Calder -->
+<p><prosody rate="105%">“That’s on everything,” he said. “Every chain. Every collar. Every coin. The same mark. They’re buying beasts out of the Marches and binding them to men and putting them in fields. Hundreds. And every farm you and <sub alias="Ullrick">Ulric</sub> burn sends another family across the ice to them. To Millbrook, to the barns, to the men with the books. You’re feeding them, Arn. Both of you. Every day this goes on.”</prosody></p><break time="500ms"/>
+<!-- p57 -->
+<p>He lowered the chain.</p><break time="500ms"/>
+<!-- p58 · Calder -->
+<p>“Stop,” he said. “That’s all I came to say. You and <sub alias="Ullrick">Ulric</sub>. Stop. Before there’s nothing left in the Marches for anybody but them.”</p><break time="500ms"/>
+<!-- p59 · quiet -->
+<p><prosody rate="95%">The yard was very quiet.</prosody></p><break time="500ms"/>
+<!-- p60 -->
+<p>He didn’t tell Arn about Rook.</p><break time="500ms"/>
+<!-- p61 -->
+<p>He’d thought about it all night. A man on a bucket at a stable door, three paces from the foot of the cliff path. A face you forgot while you were looking at it. A knife with a ring of six on the pommel. Gone before light, on the morning of the ford. He’d held it in his mouth all the way up the Drover’s Way.</p><break time="500ms"/>
+<!-- p62 · tension · Calder (thought) -->
+<p><prosody rate="97%">He’d thought: <prosody rate="97%" volume="-4dB">Arn will ask whose man.</prosody> And the answer was <prosody rate="97%" volume="-4dB"><sub alias="Ullrick">Ulric</sub>’s. Taken on after the funeral.</prosody> And Arn would hear <prosody rate="97%" volume="-4dB"><sub alias="Ullrick">Ulric</sub>’s man</prosody> and nothing else, and ride on <sub alias="Scarrow">Skarrow</sub> that night with every spear he had, and burn it to the snow, and <sub alias="Cawlder">Calder</sub> would have done it. On a face and a bucket. With no proof at all.</prosody></p><break time="800ms"/>
+<!-- p63 -->
+<p>So he didn’t say it. He stood in the snow with the chain in his hand and the name in his mouth and didn’t say it.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p64 -->
+<p>Arn looked at the chain.</p><break time="500ms"/>
+<!-- p65 · anger · Arn -->
+<p>“A <sub alias="Salt-reach">Saltreach</sub> mob,” he said at last. “With books and soup.” He looked up at <sub alias="Cawlder">Calder</sub>. “You think I care? You think I’ll stand in my father’s yard and be told my business by a <sub alias="Salt-reach">Saltreach</sub> mob? Let them have their camps. Let them have their rings. When I’ve put <sub alias="Ullrick">Ulric</sub> in <sub alias="Cold-tarn">Coldtarn</sub> and the Clan’s whole again, I’ll go down the Wend with every dragon on that cliff and burn their fields to the ground, and their soup with them.” He turned his head and spat in the snow. “Stop? I’ll stop the day my uncle’s at the bottom of the black water. Not one day before.”</p><break time="500ms"/>
+<!-- p66 · Calder -->
+<p>“And how many more farms?”</p><break time="500ms"/>
+<!-- p67 · Arn -->
+<p>“As many as it takes.”</p><break time="500ms"/>
+<!-- p68 · Calder -->
+<p>“Arn…”</p><break time="500ms"/>
+<!-- p69 · anger: lower, not louder · Arn, low -->
+<p><prosody volume="-5dB">“He killed my brother.”</prosody> Arn’s voice didn’t rise. It went lower. <prosody volume="-5dB">“You were there. You turned him over in the water. You saw his knife in its sheath. You saw the grey on the alders.”</prosody> He came a step closer. <prosody volume="-5dB">“You covered his face with your coat, farmer. I’ll not forget that. But don’t you stand in my yard and tell me to stop.”</prosody></p><break time="500ms"/>
+<!-- p70 -->
+<p><sub alias="Cawlder">Calder</sub> looked at him. At the thin hard face. At the bright eyes.</p><break time="500ms"/>
+<!-- p71 · Calder -->
+<p>“I saw an armband and an axe,” he said. “That’s all I saw. I never said it was <sub alias="Ullrick">Ulric</sub>.”</p><break time="500ms"/>
+<!-- p72 · tension -->
+<p><prosody rate="97%">Something went across Arn’s face. Fast. Gone.</prosody></p><break time="800ms"/>
+<!-- p73 · Arn -->
+<p>“No,” said Arn. “You never did. You never said anything.” He turned away. “Go home, farmer. Or bring my dragons back where they belong and stand in my hall as their keeper, and I’ll give you a chair by the fire. That’s the only talk I’ve got.”</p><break time="500ms"/>
+<!-- p74 · Calder -->
+<p>“They’re not yours.”</p><break time="500ms"/>
+<!-- p75 · Arn -->
+<p>“They’re the Clan’s.”</p><break time="500ms"/>
+<!-- p76 · Calder -->
+<p>“They’re nobody’s,” said <sub alias="Cawlder">Calder</sub>.</p><break time="500ms"/>
+<!-- p77 · tension -->
+<p><prosody rate="97%">Behind him, he felt <sub alias="Karrak">Kharrak</sub> shift in the snow, and the ground under his boots shake a little with it, and the whole ring of Clan folk round the yard step back.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p78 -->
+<p>Arn stopped at the step of the hall. He turned round and looked at <sub alias="Cawlder">Calder</sub> again, and there was something else in his face now. A kind of hungry, bitter interest.</p><break time="500ms"/>
+<!-- p79 · anger: bitter, mocking · Arn -->
+<p>“You know what they’re saying in Millbrook?” he said. “On the other bank? My scouts come back with it every week.” He laughed. Short. Hard. “There’s a girl. A <sub alias="Harthmeer">Hearthmere</sub> girl. A knight-student. Failed her trial and they put her to shovel dung. And she goes out to the Old Ruin, across the river, on her own, at night, and sits with the thing that lives there. The monster. The one that roared.” He looked at <sub alias="Cawlder">Calder</sub>. “Keeps company with it. They say it pulled her out of the river when she went through the ice.”</p><break time="500ms"/>
+<!-- p80 -->
+<p><sub alias="Cawlder">Calder</sub> kept his face still.</p><break time="500ms"/>
+<!-- p81 · Arn -->
+<p>“That’s the kind of madness we could use,” said Arn. “A knight who sits with monsters. Give me her, and a beast like that, and three dragons that know who they belong to, and I’d have <sub alias="Scarrow">Skarrow</sub> by spring.” He turned to go in. “Think about it, farmer. You and that girl. You’re two of a kind.”</p><break time="500ms"/>
+<!-- p82 -->
+<p>The door of the hall closed behind him.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p83 -->
+<p>He was halfway back across the yard to <sub alias="Orveth">Aurveth</sub> when the old man came down the cliff path.</p><break time="500ms"/>
+<!-- p84 -->
+<p>He came on a stick, down the long steep stair cut in the rock below the Roosts, with the iron rail on its outside. An old man in a grey cloak with a white beard to his chest and no thread of any colour in his armband. Plain grey, and old. Behind him, coming down the cliff face itself, slow and careful, from ledge to ledge, a dragon. Black, smaller than <sub alias="Orveth">Aurveth</sub>. Old, like him, with grey at the edges of its scales like a man going grey at the temples.</p><break time="500ms"/>
+<!-- p85 -->
+<p>The ring of Clan folk round the yard parted for him without a word.</p><break time="500ms"/>
+<!-- p86 -->
+<p>He came across the snow and stopped behind <sub alias="Cawlder">Calder</sub>, a pace back, at his shoulder. The black dragon came down off the last ledge into the yard and stood behind the old man, a pace back, the same.</p><break time="500ms"/>
+<!-- p87 · humour: dry old man · Hallam Brecc -->
+<p>“Hallam <sub alias="Breck">Brecc</sub>,” said the old man. His voice was dry as a winter leaf. “And Morrow.” He nodded at the black dragon behind him. “We knew <sub alias="Siggroon">Sigrun</sub>. Sixty years. She sat on our ledge on summer nights and complained about her knees.” He looked at <sub alias="Orveth">Aurveth</sub>. Then he looked at <sub alias="Cawlder">Calder</sub>. “We heard what you said to the boy.”</p><break time="500ms"/>
+<!-- p88 · Calder -->
+<p>“He didn’t listen.”</p><break time="500ms"/>
+<!-- p89 · reflective · Hallam Brecc -->
+<p><prosody rate="96%">“No. He wouldn’t.” Hallam <sub alias="Breck">Brecc</sub> leaned on his stick. “He’s a <sub alias="Var">Varr</sub>. They don’t. Nor does his uncle.” He was quiet a moment. “Eleven of us on those ledges, farmer. Eleven pairs. Bonded. We’ve not flown for either of them since the ford. The old law. No bonded rider fights kin. The Varrs call us cowards. Arn sends his steward up the cliff once a week to tell us so.” He looked up at the ledges, where the other dragons sat watching. “We’re not cowards. We’re old, and we remember what the law’s for.”</prosody></p><break time="500ms"/>
+<!-- p90 · Calder -->
+<p>“Why are you telling me?”</p><break time="500ms"/>
+<!-- p91 · tender · Hallam Brecc -->
+<p><prosody rate="95%">“Because you came and said it to his face.” The old man turned his head and looked at him with pale old eyes. “Nobody’s said it to his face. Not his steward. Not us. Not anybody. A barley farmer flew in on <sub alias="Siggroon">Sigrun</sub>’s old girl in broad day and stood in the snow and said it.” He nodded. “I wanted you to know it was heard. By somebody.”</prosody></p><break time="500ms"/>
+<!-- p92 -->
+<p>He turned, and went back toward the cliff stair on his stick. The black dragon turned and went with him, a pace behind.</p><break time="500ms"/>
+<!-- p93 -->
+<p>At the foot of the stair, he stopped.</p><break time="500ms"/>
+<!-- p94 · tender · Hallam Brecc -->
+<p><prosody rate="95%">“Your little green one’s on the stable roof,” he said, without turning round. “Where she used to sit to plague the boy. She’s been there since you landed.” He went on up. “Tell her it’s still warm. The roof. From the horses. It always was.”</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p95 -->
+<p><sub alias="Scarrow">Skarrow</sub> was worse.</p><break time="500ms"/>
+<!-- p96 -->
+<p>They went on the ninety-sixth day. East, over the <sub alias="Scar-fell">Scarfell</sub>, high and cold, with the wind coming off the snowfields like knives, to <sub alias="Ullrick">Ulric</sub>’s steading in its long valley on the far side of the hills. Bigger than <sub alias="Cawlder">Calder</sub> had thought. A great sprawl of longhouses and byres and barns along a frozen beck, with a stockade round it of black pine logs, new, raw, still bleeding resin. And men. Hundreds of them. More than at <sub alias="Var-hold">Varrhold</sub>. In plain grey, with axes, in the yards and the lanes, who stopped and looked up as the three dragons came over the stockade.</p><break time="500ms"/>
+<!-- p97 -->
+<p><sub alias="Ullrick">Ulric</sub> met him at the gate. Alone, on foot. With Sten <sub alias="Rask">Raske</sub> behind him, and nobody else.</p><break time="500ms"/>
+<!-- p98 -->
+<p>He was bigger than <sub alias="Cawlder">Calder</sub> remembered. Or <sub alias="Cawlder">Calder</sub> was smaller. A great heavy grey-headed man in a grey cloak, with his arms folded across his chest, standing in the open gate of the stockade in the snow, looking up at <sub alias="Orveth">Aurveth</sub> as she came down in front of him. He didn’t step back. He looked at her the whole way down. At the scars on her back. At the dark ruin of her eye, where Dag <sub alias="Rork">Rorke</sub>’s axe had gone in. At the old bronze plates of her chest.</p><break time="500ms"/>
+<!-- p99 · quiet · Ulric, quietly, almost to himself -->
+<p><prosody rate="95%"><prosody volume="-5dB">“<sub alias="Siggroon">Sigrun</sub>’s,”</prosody> he said. Quietly. To himself, almost.</prosody></p><break time="500ms"/>
+<!-- p100 -->
+<p>He looked at <sub alias="Cawlder">Calder</sub>.</p><break time="500ms"/>
+<!-- p101 · Ulric -->
+<p>“I know why you’ve come,” he said. “<sub alias="Rask">Raske</sub> heard what you said at <sub alias="Var-hold">Varrhold</sub>. Every word. We’ve ears in that hold.” He didn’t unfold his arms. “Say it again, if you like. I’ll listen. I’ll give you that.”</p><break time="500ms"/>
+<!-- p102 -->
+<p><sub alias="Cawlder">Calder</sub> said it again.</p><break time="500ms"/>
+<!-- p103 -->
+<p><sub alias="Ullrick">Ulric</sub> listened. He listened to all of it. The camps, the fields, the collars, the empty eyes. The room on Gallows Quay. The coin man. The chain, held up in the snow. He stood in the gate of his stockade with his arms folded and his big closed face not moving, and listened.</p><break time="500ms"/>
+<!-- p104 -->
+<p>When <sub alias="Cawlder">Calder</sub> had finished he was quiet a while.</p><break time="500ms"/>
+<!-- p105 · Ulric -->
+<p>“I didn’t kill the boy,” said <sub alias="Ullrick">Ulric</sub>.</p><break time="500ms"/>
+<!-- p106 -->
+<p><sub alias="Cawlder">Calder</sub> waited.</p><break time="500ms"/>
+<!-- p107 · anger: steady, controlled · Ulric, very steady -->
+<p>“I’ll say it to you because you were there. Because you turned him over.” <sub alias="Ullrick">Ulric</sub>’s voice was very steady. “I didn’t kill him. I didn’t send anybody to kill him. I went down to that ford to shake his brother’s hand in the water because he asked me to, and he was the only one of Haldor’s I’d have done it for.” He looked at the chain in <sub alias="Cawlder">Calder</sub>’s hand. “And my nephew Arn has stood on the stones and sworn to put me in <sub alias="Cold-tarn">Coldtarn</sub> for it. And every farm on the west side says I did it. And my men are named murderers in every alehouse in the Marches.” He unfolded his arms at last. “You want me to stop? I’ll stop. The day somebody shows me who did. The day somebody comes up that road with the man who put the knife in that boy, and stands him in front of Arn, and proves it. That day, I’ll walk into the water at the ford myself and shake Arn’s hand.” He looked at <sub alias="Cawlder">Calder</sub>. “Until then, I’ll not be called a murderer, and I’ll not kneel to the boy who calls me one. I’ll fight.”</p><break time="500ms"/>
+<!-- p108 · Calder -->
+<p>“And the farms?”</p><break time="500ms"/>
+<!-- p109 · Ulric -->
+<p>“Arn burns mine. I burn his.” <sub alias="Ullrick">Ulric</sub>’s face didn’t change. “I didn’t start it, farmer.”</p><break time="500ms"/>
+<!-- p110 -->
+<p><sub alias="Cawlder">Calder</sub> stood in the snow.</p><break time="500ms"/>
+<!-- p111 · Ulric (remembered) -->
+<p><prosody volume="-3dB">Show me who did.</prosody></p><break time="500ms"/>
+<!-- p112 · Calder (thought) -->
+<p>He had it in his mouth, as he’d had it at <sub alias="Var-hold">Varrhold</sub>. <prosody rate="97%" volume="-4dB">A man on a bucket. Three paces from the cliff path. A coast drover you took on after the funeral, with clerk’s hands and Wendmouth boots and a ring of six on his knife. Gone before light on the morning of the ford.</prosody></p><break time="500ms"/>
+<!-- p113 · Calder (thought) -->
+<p><prosody rate="97%" volume="-4dB">Your man.</prosody></p><break time="500ms"/>
+<!-- p114 -->
+<p>He opened his mouth.</p><break time="500ms"/>
+<!-- p115 -->
+<p>He closed it.</p><break time="500ms"/>
+<!-- p116 · tension · Calder (thought) -->
+<p><prosody rate="97%"><prosody rate="97%" volume="-4dB">And then what?</prosody> He’d stand in <sub alias="Ullrick">Ulric</sub>’s gate and say <prosody rate="97%" volume="-4dB">your own hired man</prosody> and <sub alias="Ullrick">Ulric</sub> would say <prosody rate="97%" volume="-4dB">who?</prosody> and <prosody rate="97%" volume="-4dB">where is he?</prosody> and <prosody rate="97%" volume="-4dB">what proof?</prosody> And <sub alias="Cawlder">Calder</sub> would have a face you forgot while you were looking at it, and a bucket, and nothing. No knife. No witness. No Rook. And <sub alias="Ullrick">Ulric</sub> would know that the dragon farmer had come up his road to accuse his own household of the killing on nothing but a feeling. <sub alias="Rask">Raske</sub> had ears in <sub alias="Var-hold">Varrhold</sub>. By tomorrow Arn would know it too.</prosody></p><break time="800ms"/>
+<!-- p117 -->
+<p>He shut his mouth on it, and stood there.</p><break time="500ms"/>
+<!-- p118 -->
+<p><sub alias="Ullrick">Ulric</sub> was watching him.</p><break time="500ms"/>
+<!-- p119 · tension -->
+<p><prosody rate="97%">The big closed face hadn’t moved. But the eyes in it had. They’d gone very still, and very sharp, and they were looking at <sub alias="Cawlder">Calder</sub>’s mouth, like a man watching a door he’s just seen open a crack and close again.</prosody></p><break time="800ms"/>
+<!-- p120 · Ulric -->
+<p>“You were going to say something,” said <sub alias="Ullrick">Ulric</sub>.</p><break time="500ms"/>
+<!-- p121 · Calder -->
+<p>“No.”</p><break time="500ms"/>
+<!-- p122 · Ulric -->
+<p>“You were.” <sub alias="Ullrick">Ulric</sub> looked at him a moment longer. Then he turned away, back toward his stockade. “When you’re ready to say it, farmer, you know where I am. I’ll be here. Fighting.” He went in through the gate. “That’s all the talk I’ve got too.”</p><break time="500ms"/>
+<!-- p123 -->
+<p>The gate swung shut behind him.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p124 · quiet -->
+<p><prosody rate="95%">They flew home over the <sub alias="Scar-fell">Scarfell</sub> in the last of the light, high, in the bitter wind, and for a long way nobody spoke.</prosody></p><break time="500ms"/>
+<!-- p125 -->
+<p>At last <sub alias="Karrak">Kharrak</sub>, beside them, close, his rust-red wing almost touching <sub alias="Orveth">Aurveth</sub>’s:</p><break time="500ms"/>
+<!-- p126 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">The bucket man. At the big one’s gate. You were going to say him.</prosody></p><break time="500ms"/>
+<!-- p127 · Calder -->
+<p>“I don’t know anything about him.”</p><break time="500ms"/>
+<!-- p128 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">You keep saying that.</prosody> The red tide was low, and it wasn’t anger in it. <prosody rate="94%" volume="-2dB">You told us about him in the hills, in the autumn. You’ve said it to us. At the hold and at the gate you nearly said it to them.</prosody></p><break time="500ms"/>
+<!-- p129 -->
+<p><sub alias="Cawlder">Calder</sub> held on to the ridge between <sub alias="Orveth">Aurveth</sub>’s plates and looked down at the snowfields going by below, white and blue in the dusk.</p><break time="500ms"/>
+<!-- p130 · quiet · Calder -->
+<p><prosody rate="95%">“If I’m wrong,” he said, “a lot of people die.”</prosody></p><break time="500ms"/>
+<!-- p131 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">If you’re right,</prosody> said <sub alias="Karrak">Kharrak</sub>, <prosody rate="94%" volume="-2dB">a lot of people are dying anyway.</prosody></p><break time="500ms"/>
+<!-- p132 -->
+<p>He didn’t have an answer to that.</p><break time="500ms"/>
+<!-- p133 · grief -->
+<p><prosody rate="94%">Far below them, on a ridge above the frozen valley of Hollow Beck, there was a fire. Small. Orange. A farm, burning. He couldn’t tell whose. Arn’s or <sub alias="Ullrick">Ulric</sub>’s. From up here, it didn’t look like either. It just looked like a farm.</prosody></p><break time="800ms"/>
+<!-- p134 · tender: very quiet · Lisska (bond, to Calder), very quietly -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-6dB">The old man said the roof’s still warm,</prosody> said <sub alias="Liska">Lisska</sub>, very quietly, from behind. <prosody rate="94%" volume="-6dB">The stable roof. At the hold. He said to tell me.</prosody></prosody></p><break time="500ms"/>
+<!-- p135 · Calder -->
+<p>“I heard.”</p><break time="500ms"/>
+<!-- p136 · tender · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">It was,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">I lay on it the whole time.</prosody></prosody></p><break time="500ms"/>
+<!-- p137 -->
+<p>They flew on toward the dark.</p>
+<break time="1800ms"/>
+</speak>

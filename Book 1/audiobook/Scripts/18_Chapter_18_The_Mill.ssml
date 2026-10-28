@@ -1,270 +1,271 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<speak version="1.0" xml:lang="en-GB">
-  <!-- AI CUE: TITLE: clear and composed; give the heading room. Do not perform as narrative prose. -->
-  <p><s>Chapter 18: The Mill</s></p><break time="700ms"/>
-  <break time="1400ms"/>
-  <!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>There's a thing old farmers say about fire in the fields. They say: don't fight it, move what it wants. Fire wants straw, and hay, and dry stubble, and the wooden end of a byre. Fire doesn't want stone, or turned earth, or water, or a beast you've had the sense to lead out into the wet beck pasture where there's nothing to burn. You can't put out a field. You can only take away what it's hungry for, and stand somewhere it isn't, and wait.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>His father had taught him that when he was six. He'd been sure, at six, that it was the most useless thing anyone had ever told him.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He woke because Wren was shaking him.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Da. Da. Da. There's horses."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He was out of bed and at the window before he was properly awake. It was black outside, no moon, and the stars very sharp, as they are in harvest month when the frost is coming. Down the hill, at the bottom of the lane, the mill had lights in it. Lanterns, a lot of them, moving. Carts, three of them, drawn up on the mill yard, with men loading. He could hear them from the house, the creak of the axles and the thump of sacks going up.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"It's Hob's flour," he said. "Ulric's carts. They've come at night." He'd heard Hob say they might. Better they come in the dark, Hob had said at the Wheel, and nobody sees, and nobody tells Arn. "It's all right, chick. Go back to bed."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>But Wren didn't go back to bed. She stood at the window beside him in her nightgown and pointed, not down the hill at the mill, but up. Up the lane. Up the long dark shoulder of the hill behind the farm, to where the Drover's Way came down off the moor.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>There were lights there too. A lot more lights. Torches, moving fast, coming down.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And above them, against the stars, very high, two shapes, wheeling.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Ada was up. She had her shawl on and her boots and she had Wren's boots in her hand, and she was already pulling Wren's coat on over the nightgown before Calder had finished saying it.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Garrows'," he said. "Their cellar. Go down the back way, by the beck, not the lane. Don't stop. Don't look at anything."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"You come too."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I'll come. I'll get the beasts out first."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Calder."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"If the byre goes, Ma, Bramble goes with it. And the ewes. And the pig. I'll put them in the beck pasture and I'll come." He picked Wren up. She was heavy, and warm, and shaking. He held her very tight for a moment, and put his face in her hair, and then put her down. "Go with Gran. Hold her hand. Don't let go of it, not for anything, not even if she tells you to."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Wren looked up at him. Her face was white.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"The dragons," she said. "Is it Lisska? Is it Imra's dragon?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I don't know, chick. Go on."</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>They went out the back door into the dark, the two of them, Ada holding Wren's hand, down the path along the top of the beck pasture toward the stile and the Garrows' farm. He stood at the door and watched them till he couldn't see them. He went out to the byre.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He'd got the ewes out and the pig, and was going back in for Bramble, when the mill went up.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He heard it before he saw it. A sound like a great breath drawn in. Then a light came up out of the bottom of the valley, orange and yellow, so sudden and so bright that the shadow of the byre jumped out across the yard in front of him like something alive. He turned round.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The mill was burning.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>All at once, the whole roof of it, as if it had been soaked in oil, which perhaps it had. The flames went up through the roof in a single sheet and lit the whole bottom of the valley: the mill yard, the carts, the men round the carts, running. Horses rearing in the shafts. Coming down the lane from the Drover's Way, at the gallop, a long line of riders with torches, grey cloaks, swords out, shouting. Thirty of them. Forty. Arn's men. Coming down on Ulric's carts.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Above them, two shapes, lit from below now, red and gold in the light of the fire.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>He knew them both. The rust-red one, broad and scarred, wings like a ship's sails: Kharrak. The small quick green one, going round and round the other in tight hard circles: Lisska.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Kharrak tipped and dropped. He came down over the mill yard low and slow and opened his mouth, and a long gout of fire came out of it and went across the carts. The flour went up. Forty sacks of Hob's flour, all at once, in a great white rolling ball of flame like a cloud catching fire, with a sound like a door slamming on the whole world. The light of it went right up the hill and over the Fenn farm and Calder put his arm over his face.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>When he took it away, Ulric's men were fighting.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>There'd been more of them than he'd thought. More than a cart escort. They came out from behind the mill and from the lane by the Wheel and from the river path, plain grey, with axes, roaring, and met Arn's riders in the mill yard and the lane and on the green, in the light of the burning flour. He could hear it from the byre door. Iron on iron. Horses screaming. Men.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Then, from the east, from away over the hills, came a sound he'd heard before. Three days before, at Varrhold, in the rain. A deep slow beat in the air, more felt than heard, like a drum under the ground.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He looked east, and saw her come.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Aurveth came over the shoulder of the hill like the sun coming up wrong.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>She was so much bigger than the other two. He'd known that, at Varrhold, with the three of them going round over the pyre. He hadn't known it like this. She came low over the fields, with her great bronze wings going up and down slow and enormous, each beat throwing the smoke from the mill sideways in a long wave, and the firelight running along her flanks and her neck and the long shining plates of her chest. There was a figure on her back. Small. Grey. Sitting very straight.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Sigrun Holm. Who'd stood with Ulric. Who'd said she'd follow the Clan's sword until someone proved to her it had done murder.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Kharrak saw her. He came up off the mill yard in a long climbing turn, beating hard, with Dag on his back, and went to meet her.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Calder stood at the byre door with Bramble's halter in his hand and watched two dragons meet in the air over Harrow's End.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>It was like two thunderstorms fighting. It was too big and too fast and too loud. They came together in the air above the green with a crash that he felt in his teeth, and locked, and went round and round each other, falling, rising, tearing, with their wings beating and their tails lashing and fire going out of them in great streams into the dark. Kharrak was faster. Aurveth was bigger. Kharrak went for her neck and she turned and took him on her shoulder, and her jaws closed on the root of his wing, and he screamed.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>And Dag Rorke stood up on Kharrak's back with his axe in his hand and swung at her eye.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He hit. Calder saw it. Aurveth's head went back and something dark came out of the side of it, and she let go of Kharrak's wing. Her head came round again, fast, faster than anything that size should move, and her jaws opened, and closed, not on Kharrak.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>On Dag.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She took him off Kharrak's back the way a heron takes a fish. Calder saw him go. A small dark figure, in the air, for a moment, between the two great shapes. Then he was falling. Down, and down, turning over, onto the burning roofs at the bottom of the valley, and was gone.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Kharrak screamed.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>This scream was nothing like the one Aurveth's bite had torn out of him. Calder had never heard a sound like it come out of any living thing, and hoped he never would again: high and broken and going on and on, like the whole world tearing down the middle. The rust-red dragon fell away from Aurveth in the air, not flying, not trying to fly, just falling, his wings half open and flailing, his head thrown back, screaming.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>As he fell, he lashed out. Blind. At anything. His great hind claws came up and raked across Aurveth's back as he went down past her, from the shoulders to the root of the tail, through the bronze plates as if they were cloth.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Through the small grey figure sitting very straight on her back.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Then Kharrak was falling toward the hill. Toward the Fenn farm. Toward him.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He didn't run. There wasn't time to run. He stood there at the door of the byre with Bramble's halter in his hand and watched a dragon come down out of the sky at him like a burning house falling off a cliff.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Kharrak hit the barley field above the farm.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>The ground jumped. The whole hill jumped, under Calder's feet, like a blanket shaken out, and he was thrown down on his face in the yard. Dirt came down on him. Stones. The sound came after, a great dull thud that went through everything, and then a long tearing crash, going on, as the dragon slid down the slope through the stubble and the stooks and the hedge, ploughing a furrow in the field as wide as a lane, throwing up earth and straw and burning stooks in a wave in front of him, coming down, and down, toward the yard.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He got up on his hands and knees. He saw the tail coming.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It came round, at the end of that long slide, as the great body slowed and turned and stopped. It came round sideways across the bottom of the field and through the hedge and into the end of the byre, like a scythe, and the wall of the byre went in, all of it, stone and timber and slates, and Calder with it.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He didn't feel it hit him. He felt the wall go, and the air go out of him, and something take him under the ribs and lift him and throw him. Then he was lying on his back in the stubble, outside the hedge, in the field, with the stars going round over him and something wet running into his eyes and no air in him at all. He tried to breathe. Something in his side wouldn't let him. He tried again, and it went in, a little, and the pain came with it, white and huge and clean, from the side of his chest all the way through to his back, as if somebody had driven a stake in him.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He lay there and breathed. In. Out. Each time, the stake.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Somewhere close, very close, something enormous was breathing too.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He turned his head.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Kharrak was lying in the field a few lengths from him, on his side, in the furrow he'd made, with burning straw all round him and the firelight on him. His wings were spread out on the stubble, crumpled, one of them torn at the root where Aurveth had bitten it, and his long neck was stretched out flat on the ground, and his head was lying on the earth, turned toward Calder. His eyes were open. They were gold, and huge, each one as big as a man's two fists, with a long black slit in the middle. They were looking at him.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>His breath came out in long, ragged, shaking gusts that stirred the straw. With every breath, something was going out of him. Calder could see it. The red of his scales, that had been bright as rust in the firelight, was going dull. Grey, at the edges. Like a coal going out.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Withering, Calder thought. That's what it is. I've heard of it. Everyone's heard of it. The rider dies, and the beast goes after.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Dag Rorke had fallen onto the roofs at the bottom of the valley. And Kharrak was going after him.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Calder lay in the stubble with the stake in his side and the blood running into his eyes and looked at the dragon, and the dragon looked at him.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He couldn't have said why he did what he did then. It might have been the eyes. It might have been the breathing, which sounded so much like Bramble's when she'd had the colic, the winter before last, and he'd sat up with her all night in the straw. Or it was just that he was lying there hurt, and something else was lying there hurt beside him, and it was what he did. What he'd always done. With every beast on the farm, all his life.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He talked to it.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Hey," he said. It came out a whisper. It was all the breath he had. "Hey. Hey, now. I know. I know, lad. I know."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The great gold eye looked at him.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"It's all right," said Calder. It wasn't. Nothing was. He said it anyway, as you say it to a calf. "It's all right. I'm here. I'm here, lad. Easy."</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>And the dragon moved.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>It dragged itself toward him. Across the stubble, through the burning straw, slowly, on its belly, with its torn wing trailing, the way he'd once seen a dog with a broken back drag itself to its master's feet. Its claws dug into the earth. Its breath came out of it in great shaking gusts. It came on until its head was lying on the ground beside him, so close he could have put out his hand and touched the long scarred jaw. So close the heat of its breath went over him, and the smell, smoke and iron and something like hot stones.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He put out his hand. He didn't decide to. It was what he did.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He touched it.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Afterwards, when they asked him, he'd say it was like being struck by lightning. And they'd nod, and he'd know they didn't understand, and he'd think: no. Lightning's quick. This wasn't quick. This was slow. This was like being struck by lightning that took a lifetime to hit.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>It went into his hand. Into his arm. Into his chest, under the broken ribs, and into the middle of him, the place where you feel it when you're frightened, and went on going in, further, further, into places in him he didn't know were there. It wasn't pain. Or it was, but not his. He felt the torn wing as if it were his own arm torn at the shoulder. He felt the bite in his side. He felt the ground under him, hard, cold, all along the length of a body that was ten times the length of his, and the fire in the straw along a flank he'd never had.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And he felt the falling.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Not Kharrak's. Dag's.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He was standing up on a dragon's back in the wind and the fire with an axe in his hand and his whole body full of rage, hot and clean and simple, and he'd hit, he'd hit her, he'd seen her eye go, good, and then the jaws, and the air, and he was in the air, and the ground was coming up, and the last thing in him, the very last, wasn't fear. It was fury. Pure and bright and furious. Not yet. Not yet. I'm not finished. I'm not FINISHED.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And then nothing.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Calder screamed.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He heard himself do it, from a long way off. He couldn't stop. He was lying in the stubble with his hand on the dragon's jaw and screaming, and in the middle of him, in the place where it had gone in, something had taken hold. Like a hand closing. Like a root going down. He felt it close, and hold, and he felt the dragon feel it too, at the same moment, the same terrible astonished moment: what. What is this. What have you done.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It wasn't words. He didn't know yet that it would ever be words. It was just a feeling, huge and raw and pressed right up against his own, so close he couldn't tell which of them was feeling it.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Then it was gone, and he was lying on his back in the stubble, breathing, with the stake in his side, and Kharrak's head was lying on the ground beside him, and Kharrak's eye was still open, still gold, still looking at him. The grey that had been spreading across the scales had stopped.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He lay there a few breaths, no more. Then the field shook again.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Aurveth came down.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She came down slower than Kharrak, much slower, gliding, with her great wings spread out stiff and still on either side of her like the sails of a ship with no one at the helm. She came down out of the dark over the burning mill and across the hill and onto the top of the Fenn barley field, above him, and landed, badly, on her chest, and slid, and stopped. Her back was torn open from her shoulders to her tail. He could see it in the firelight, black and glistening. On her back, in the wreck of the saddle, slumped forward over the pommel with her grey cloak torn and her white head hanging, was Sigrun Holm.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Not moving.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>The great bronze dragon lifted her head and turned it on her long neck, and looked back at the woman on her back. Then she put back her head and made a sound, lower than a scream. Long and deep and broken, the sound she'd made over Teo's pyre, but worse, so much worse, going on and on.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>When it stopped, she turned her head and looked down the field at him.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>At him, and at Kharrak lying beside him with his head on the ground.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He saw her see it. Whatever it was, whatever had happened between him and the rust-red dragon, she saw it. He saw something go across that vast bronze face, in the great gold eye that was still whole, the one Dag's axe hadn't found. Something like understanding. And something like horror.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Slowly, she began to come down the field toward him.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>He wanted to say no. He wanted to say not you too, I can't, I can't, there isn't room. He didn't say anything. He lay there and watched her come, dragging herself on her belly through the stubble with her back torn open and Sigrun Holm sliding off her, falling, lying still on the field behind her, and her bronze scales going grey at the edges in the firelight, the same as Kharrak's had, the same as a coal going out.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She stopped above him. Her head came down. The one whole eye, as big as a cartwheel's hub, looked at him from an arm's length away. Old. So old. Older than the hold. Older than the Clan. He could see it in there, the age of her, going back and back like the black water of Coldtarn.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He put out his other hand.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>It was slower this time, and deeper, and colder. It went in and down and he went with it, down, through dark water, falling, and he was sitting very straight on a dragon's back in the wind over a burning valley and he was old, and tired, and his back was a long line of fire, and he thought: oh. Just that. Oh. Surprised. And then: not like this. Not by him. Not by Kharrak, of all of them, that I taught to fly when he was the size of a pony. And then, very quietly, as the dark came up: Aurveth. Old girl. I'm sorry. I'm sorry. Three of us now. I'm sorry.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The hand closed in him again, the root went down. A second one. Beside the first.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>He was crying. He hadn't known. He was lying in the field with a hand on each of two dragons' faces and tears running down into his ears and his whole body shaking, and there was too much in him. Far too much. There was a torn wing and a torn back and a broken rib that was his and a lost eye that wasn't, and a fury that was Dag's and a grief that was Sigrun's, and under all of it, two vast, raw, astonished presences pressed up against him in the dark of his own head, so close, so close, and both of them saying the same thing that wasn't words: What are you. What have you done. What is this.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>I don't know, he thought, at them, or at himself. I don't know. I don't know.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The third came in from the dark by the hedge.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He didn't see her come. He heard her. A quick, light, frantic beating of wings, low over the field, and a high thin crying sound, going up and down, like a child calling for someone in a crowd. Lisska. The small green one. She came in over the hedge low and fast, with Imra on her back, toward the two great shapes lying in the stubble. As if she'd seen them fall and was coming to see. To help. To ask.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Something went thock in the dark by the hedge.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>He knew that sound. Everyone in the Marches knew it, from the autumn shoots on the river. A crossbow. Somewhere in the dark at the bottom of the field, by the hedge, somebody had a crossbow.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>On Lisska's back, Imra Sallow put her hand up to her throat.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Then she was falling sideways out of the saddle, slowly, like someone who has fallen asleep on a horse, and the green dragon was coming down, too fast, wrong, tumbling, into the stubble at the bottom of the field, and rolling, and lying still.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And then the crying.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>It came up out of her, out of the dark at the bottom of the field, high and thin and going on and on, and it didn't stop, and Calder lay there between the two great dying shapes with his hands on their faces and heard it, and thought: oh, no. Oh, no, no. Not you. Not you as well. You're only small.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>He couldn't reach her. He couldn't move. He lay there and he said, through his teeth, with what breath he had, into the dark: "Here. Here. Come here. Come on. I'm here. Come on, little one."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And she came.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He heard her come. Dragging. Crying. Through the stubble, up the slope, toward the only voice she could hear. He couldn't turn his head to see. He felt her arrive: a weight against his legs, a hot frantic face pushing in under his arm, against his side, against the broken ribs, so that the stake went into him again and he cried out. Something touched his hand, his wrist, a long thin muzzle, trembling, and he turned his hand over, and held it.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>This one was fast. This one was so fast it was like falling through ice. Cold, sudden, everywhere at once. He was lying on a green dragon's back in the stubble with something stuck in his throat, and it was cold, it was so cold, and it didn't hurt, that was the strange thing, it didn't hurt at all. It was just cold. He thought, quite clearly: Teo. Just that. He was almost glad. Teo. Wait for me.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And then nothing.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And the third hand closed in him, and the third root went down, and held.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>Around him, all three of them cried out at once, one long broken sound, and stopped, as if a door had shut on it.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It was too much.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>He knew that, quite calmly, lying there. It was too much for one man. There was no room in him for this. There were three of them in him now, pressing in, three vast raw grieving furious astonished minds jammed in against his own in the dark of his skull like three bulls in a pen made for a lamb. And three deaths. He'd felt three people die. He'd been three people dying. They were still in him, the last of them, Dag's fury and Sigrun's sorrow and Imra's cold, going round and round like leaves in a pool.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Under all of it, the stake in his side, going in with every breath.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>He thought: I'm going to die.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>He thought it quite calmly. It seemed obvious. It seemed like the only possible thing. Nobody could hold this. Nobody could live with this in them.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>And then he thought: Wren.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>And then the roar came.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It came from the river.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>It came across the water from the west, from the island, from the Old Ruin, and it was the biggest sound he had ever heard. Bigger than the dragons. Bigger than the mill going up. It was so deep that the first of it wasn't a sound at all, just a shaking in the ground under him, coming up through his back and his broken ribs. Then it rose. It came up out of the ground and into the air and went on rising, a long, rolling, endless roar, like the whole of the river had stood up on its end and was shouting, and it went over the burning mill and the green and the lanes and the fields, and over him, and up the hill, and away into the Scarfell, and he heard it echo back off the hills, and come back, and go away again.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Everything stopped.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>The fighting in the lanes stopped. The shouting. The horses. The fire went on crackling in the straw, and the mill roared, but everything else, every living thing on the Saltreach bank of the river, stopped and stood still and listened.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The three dragons lying around him in the stubble lifted their heads.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He felt them do it. He felt it go through them, through all three, and through him, through the three new roots in the middle of him, like a bell struck in his chest. Not fear. More like the feeling you get when you're very small and you hear your mother's voice in another room.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>What, said something in the dark of his head. It was the first thing that had ever been words. He didn't know which of them said it. Maybe all three. Maybe him. What was that.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He couldn't tell who answered. Maybe nobody did.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Old, something said. Something old.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Then the dark came up over him, gently, the way the black water had come up over the ash at Coldtarn, and drew him in toward the middle, and he went down.</p>
-<break time="450ms"/></speak>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<!-- The Watch Below, Chapter 18: The Mill. Point of view: Calder. -->
+<p><s>Chapter Eighteen.</s></p><break time="800ms"/>
+<p><s>The Mill.</s></p><break time="1800ms"/>
+<!-- p1 · Calder's father (remembered) -->
+<p>There’s a thing old farmers say about fire in the fields. They say: <prosody volume="-3dB">don’t fight it, move what it wants.</prosody> Fire wants straw, and hay, and dry stubble, and the wooden end of a byre. Fire doesn’t want stone, or turned earth, or water, or a beast you’ve had the sense to lead out into the wet beck pasture where there’s nothing to burn. You can’t put out a field. You can only take away what it’s hungry for, and stand somewhere it isn’t, and wait.</p><break time="500ms"/>
+<!-- p2 · humour -->
+<p>His father had taught him that when he was six. He’d been sure, at six, that it was the most useless thing anyone had ever told him.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p3 -->
+<p>He woke because Wren was shaking him.</p><break time="500ms"/>
+<!-- p4 · urgent · Wren, urgent, shaking him awake -->
+<p><prosody rate="105%">“Da. Da. <emphasis level="moderate">Da.</emphasis> There’s horses.”</prosody></p><break time="500ms"/>
+<!-- p5 -->
+<p>He was out of bed and at the window before he was properly awake. It was black outside, no moon, and the stars very sharp, as they are in harvest month when the frost is coming. Down the hill, at the bottom of the lane, the mill had lights in it. Lanterns, a lot of them, moving. Carts, three of them, drawn up on the mill yard, with men loading. He could hear them from the house, the creak of the axles and the thump of sacks going up.</p><break time="500ms"/>
+<!-- p6 · Calder; Hob (remembered); Calder -->
+<p>“It’s Hob’s flour,” he said. “Ulric’s carts. They’ve come at night.” He’d heard Hob say they might. <prosody volume="-3dB">Better they come in the dark,</prosody> Hob had said at the Wheel, <prosody volume="-3dB">and nobody sees, and nobody tells Arn.</prosody> “It’s all right, chick. Go back to bed.”</p><break time="500ms"/>
+<!-- p7 -->
+<p>But Wren didn’t go back to bed. She stood at the window beside him in her nightgown and pointed, not down the hill at the mill, but up. Up the lane. Up the long dark shoulder of the hill behind the farm, to where the Drover’s Way came down off the moor.</p><break time="500ms"/>
+<!-- p8 -->
+<p>There were lights there too. A lot more lights. Torches, moving fast, coming down.</p><break time="500ms"/>
+<!-- p9 -->
+<p>And above them, against the stars, very high, two shapes, wheeling.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p10 -->
+<p>Ada was up. She had her shawl on and her boots and she had Wren’s boots in her hand, and she was already pulling Wren’s coat on over the nightgown before Calder had finished saying it.</p><break time="500ms"/>
+<!-- p11 · urgent · Calder -->
+<p><prosody rate="105%">“Garrows’,” he said. “Their cellar. Go down the back way, by the beck, not the lane. Don’t stop. Don’t look at anything.”</prosody></p><break time="500ms"/>
+<!-- p12 · Ada -->
+<p>“You come too.”</p><break time="500ms"/>
+<!-- p13 · Calder -->
+<p>“I’ll come. I’ll get the beasts out first.”</p><break time="500ms"/>
+<!-- p14 · Ada -->
+<p>“Calder.”</p><break time="500ms"/>
+<!-- p15 · tender: holding Wren before sending her off · Calder -->
+<p><prosody rate="95%">“If the byre goes, Ma, Bramble goes with it. And the ewes. And the pig. I’ll put them in the beck pasture and I’ll come.” He picked Wren up. She was heavy, and warm, and shaking. He held her very tight for a moment, and put his face in her hair, and then put her down. “Go with Gran. Hold her hand. Don’t let go of it, not for anything, not even if she tells you to.”</prosody></p><break time="500ms"/>
+<!-- p16 -->
+<p>Wren looked up at him. Her face was white.</p><break time="500ms"/>
+<!-- p17 · Wren -->
+<p>“The dragons,” she said. “Is it Lisska? Is it Imra’s dragon?”</p><break time="500ms"/>
+<!-- p18 · Calder -->
+<p>“I don’t know, chick. Go on.”</p><break time="500ms"/>
+<!-- p19 -->
+<p>They went out the back door into the dark, the two of them, Ada holding Wren’s hand, down the path along the top of the beck pasture toward the stile and the Garrows’ farm. He stood at the door and watched them till he couldn’t see them. He went out to the byre.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p20 -->
+<p>He’d got the ewes out and the pig, and was going back in for Bramble, when the mill went up.</p><break time="500ms"/>
+<!-- p21 · action -->
+<p><prosody rate="104%">He heard it before he saw it. A sound like a great breath drawn in. Then a light came up out of the bottom of the valley, orange and yellow, so sudden and so bright that the shadow of the byre jumped out across the yard in front of him like something alive. He turned round.</prosody></p><break time="500ms"/>
+<!-- p22 -->
+<p>The mill was burning.</p><break time="500ms"/>
+<!-- p23 -->
+<p>All at once, the whole roof of it, as if it had been soaked in oil, which perhaps it had. The flames went up through the roof in a single sheet and lit the whole bottom of the valley: the mill yard, the carts, the men round the carts, running. Horses rearing in the shafts. Coming down the lane from the Drover’s Way, at the gallop, a long line of riders with torches, grey cloaks, swords out, shouting. Thirty of them. Forty. Arn’s men. Coming down on Ulric’s carts.</p><break time="500ms"/>
+<!-- p24 -->
+<p>Above them, two shapes, lit from below now, red and gold in the light of the fire.</p><break time="500ms"/>
+<!-- p25 -->
+<p>He knew them both. The rust-red one, broad and scarred, wings like a ship’s sails: Kharrak. The small quick green one, going round and round the other in tight hard circles: Lisska.</p><break time="500ms"/>
+<!-- p26 · action -->
+<p><prosody rate="104%">Kharrak tipped and dropped. He came down over the mill yard low and slow and opened his mouth, and a long gout of fire came out of it and went across the carts. The flour went up. Forty sacks of Hob’s flour, all at once, in a great white rolling ball of flame like a cloud catching fire, with a sound like a door slamming on the whole world. The light of it went right up the hill and over the Fenn farm and Calder put his arm over his face.</prosody></p><break time="500ms"/>
+<!-- p27 -->
+<p>When he took it away, Ulric’s men were fighting.</p><break time="500ms"/>
+<!-- p28 -->
+<p>There’d been more of them than he’d thought. More than a cart escort. They came out from behind the mill and from the lane by the Wheel and from the river path, plain grey, with axes, roaring, and met Arn’s riders in the mill yard and the lane and on the green, in the light of the burning flour. He could hear it from the byre door. Iron on iron. Horses screaming. Men.</p><break time="500ms"/>
+<!-- p29 -->
+<p>Then, from the east, from away over the hills, came a sound he’d heard before. Three days before, at Varrhold, in the rain. A deep slow beat in the air, more felt than heard, like a drum under the ground.</p><break time="500ms"/>
+<!-- p30 -->
+<p>He looked east, and saw her come.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p31 · awe -->
+<p><prosody rate="95%">Aurveth came over the shoulder of the hill like the sun coming up wrong.</prosody></p><break time="800ms"/>
+<!-- p32 -->
+<p>She was so much bigger than the other two. He’d known that, at Varrhold, with the three of them going round over the pyre. He hadn’t known it like this. She came low over the fields, with her great bronze wings going up and down slow and enormous, each beat throwing the smoke from the mill sideways in a long wave, and the firelight running along her flanks and her neck and the long shining plates of her chest. There was a figure on her back. Small. Grey. Sitting very straight.</p><break time="500ms"/>
+<!-- p33 -->
+<p>Sigrun Holm. Who’d stood with Ulric. Who’d said she’d follow the Clan’s sword until someone proved to her it had done murder.</p><break time="500ms"/>
+<!-- p34 -->
+<p>Kharrak saw her. He came up off the mill yard in a long climbing turn, beating hard, with Dag on his back, and went to meet her.</p><break time="500ms"/>
+<!-- p35 -->
+<p>Calder stood at the byre door with Bramble’s halter in his hand and watched two dragons meet in the air over Harrow’s End.</p><break time="500ms"/>
+<!-- p36 · action -->
+<p><prosody rate="104%">It was like two thunderstorms fighting. It was too big and too fast and too loud. They came together in the air above the green with a crash that he felt in his teeth, and locked, and went round and round each other, falling, rising, tearing, with their wings beating and their tails lashing and fire going out of them in great streams into the dark. Kharrak was faster. Aurveth was bigger. Kharrak went for her neck and she turned and took him on her shoulder, and her jaws closed on the root of his wing, and he screamed.</prosody></p><break time="500ms"/>
+<!-- p37 -->
+<p>And Dag Rorke stood up on Kharrak’s back with his axe in his hand and swung at her eye.</p><break time="500ms"/>
+<!-- p38 -->
+<p>He hit. Calder saw it. Aurveth’s head went back and something dark came out of the side of it, and she let go of Kharrak’s wing. Her head came round again, fast, faster than anything that size should move, and her jaws opened, and closed, not on Kharrak.</p><break time="500ms"/>
+<!-- p39 -->
+<p>On Dag.</p><break time="500ms"/>
+<!-- p40 · action -->
+<p><prosody rate="104%">She took him off Kharrak’s back the way a heron takes a fish. Calder saw him go. A small dark figure, in the air, for a moment, between the two great shapes. Then he was falling. Down, and down, turning over, onto the burning roofs at the bottom of the valley, and was gone.</prosody></p><break time="500ms"/>
+<!-- p41 -->
+<p>Kharrak screamed.</p><break time="500ms"/>
+<!-- p42 · grief -->
+<p><prosody rate="94%">This scream was nothing like the one Aurveth’s bite had torn out of him. Calder had never heard a sound like it come out of any living thing, and hoped he never would again: high and broken and going on and on, like the whole world tearing down the middle. The rust-red dragon fell away from Aurveth in the air, not flying, not trying to fly, just falling, his wings half open and flailing, his head thrown back, screaming.</prosody></p><break time="800ms"/>
+<!-- p43 -->
+<p>As he fell, he lashed out. Blind. At anything. His great hind claws came up and raked across Aurveth’s back as he went down past her, from the shoulders to the root of the tail, through the bronze plates as if they were cloth.</p><break time="500ms"/>
+<!-- p44 -->
+<p>Through the small grey figure sitting very straight on her back.</p><break time="500ms"/>
+<!-- p45 -->
+<p>Then Kharrak was falling toward the hill. Toward the Fenn farm. Toward him.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p46 · dread -->
+<p><prosody rate="96%">He didn’t run. There wasn’t time to run. He stood there at the door of the byre with Bramble’s halter in his hand and watched a dragon come down out of the sky at him like a burning house falling off a cliff.</prosody></p><break time="800ms"/>
+<!-- p47 -->
+<p>Kharrak hit the barley field above the farm.</p><break time="500ms"/>
+<!-- p48 · action -->
+<p><prosody rate="104%">The ground jumped. The whole hill jumped, under Calder’s feet, like a blanket shaken out, and he was thrown down on his face in the yard. Dirt came down on him. Stones. The sound came after, a great dull thud that went through everything, and then a long tearing crash, going on, as the dragon slid down the slope through the stubble and the stooks and the hedge, ploughing a furrow in the field as wide as a lane, throwing up earth and straw and burning stooks in a wave in front of him, coming down, and down, toward the yard.</prosody></p><break time="500ms"/>
+<!-- p49 -->
+<p>He got up on his hands and knees. He saw the tail coming.</p><break time="500ms"/>
+<!-- p50 -->
+<p>It came round, at the end of that long slide, as the great body slowed and turned and stopped. It came round sideways across the bottom of the field and through the hedge and into the end of the byre, like a scythe, and the wall of the byre went in, all of it, stone and timber and slates, and Calder with it.</p><break time="500ms"/>
+<!-- p51 · action -->
+<p><prosody rate="104%">He didn’t feel it hit him. He felt the wall go, and the air go out of him, and something take him under the ribs and lift him and throw him. Then he was lying on his back in the stubble, outside the hedge, in the field, with the stars going round over him and something wet running into his eyes and no air in him at all. He tried to breathe. Something in his side wouldn’t let him. He tried again, and it went in, a little, and the pain came with it, white and huge and clean, from the side of his chest all the way through to his back, as if somebody had driven a stake in him.</prosody></p><break time="500ms"/>
+<!-- p52 -->
+<p>He lay there and breathed. In. Out. Each time, the stake.</p><break time="500ms"/>
+<!-- p53 -->
+<p>Somewhere close, very close, something enormous was breathing too.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p54 -->
+<p>He turned his head.</p><break time="500ms"/>
+<!-- p55 -->
+<p>Kharrak was lying in the field a few lengths from him, on his side, in the furrow he’d made, with burning straw all round him and the firelight on him. His wings were spread out on the stubble, crumpled, one of them torn at the root where Aurveth had bitten it, and his long neck was stretched out flat on the ground, and his head was lying on the earth, turned toward Calder. His eyes were open. They were gold, and huge, each one as big as a man’s two fists, with a long black slit in the middle. They were looking at him.</p><break time="500ms"/>
+<!-- p56 · grief -->
+<p><prosody rate="94%">His breath came out in long, ragged, shaking gusts that stirred the straw. With every breath, something was going out of him. Calder could see it. The red of his scales, that had been bright as rust in the firelight, was going dull. Grey, at the edges. Like a coal going out.</prosody></p><break time="800ms"/>
+<!-- p57 · Calder (thought) -->
+<p><prosody rate="97%" volume="-4dB">Withering,</prosody> Calder thought. <prosody rate="97%" volume="-4dB">That’s what it is. I’ve heard of it. Everyone’s heard of it. The rider dies, and the beast goes after.</prosody></p><break time="500ms"/>
+<!-- p58 -->
+<p>Dag Rorke had fallen onto the roofs at the bottom of the valley. And Kharrak was going after him.</p><break time="500ms"/>
+<!-- p59 -->
+<p>Calder lay in the stubble with the stake in his side and the blood running into his eyes and looked at the dragon, and the dragon looked at him.</p><break time="500ms"/>
+<!-- p60 -->
+<p>He couldn’t have said why he did what he did then. It might have been the eyes. It might have been the breathing, which sounded so much like Bramble’s when she’d had the colic, the winter before last, and he’d sat up with her all night in the straw. Or it was just that he was lying there hurt, and something else was lying there hurt beside him, and it was what he did. What he’d always done. With every beast on the farm, all his life.</p><break time="500ms"/>
+<!-- p61 -->
+<p>He talked to it.</p><break time="500ms"/>
+<!-- p62 · tender: whispered, as to a hurt beast · Calder, whispered -->
+<p><prosody rate="95%"><prosody volume="-5dB">“Hey,”</prosody> he said. It came out a whisper. It was all the breath he had. <prosody volume="-5dB">“Hey. Hey, now. I know. I know, lad. I know.”</prosody></prosody></p><break time="500ms"/>
+<!-- p63 -->
+<p>The great gold eye looked at him.</p><break time="500ms"/>
+<!-- p64 · tender · Calder -->
+<p><prosody rate="95%">“It’s all right,” said Calder. It wasn’t. Nothing was. He said it anyway, as you say it to a calf. “It’s all right. I’m here. I’m here, lad. Easy.”</prosody></p><break time="500ms"/>
+<!-- p65 -->
+<p>And the dragon moved.</p><break time="500ms"/>
+<!-- p66 · tender -->
+<p><prosody rate="95%">It dragged itself toward him. Across the stubble, through the burning straw, slowly, on its belly, with its torn wing trailing, the way he’d once seen a dog with a broken back drag itself to its master’s feet. Its claws dug into the earth. Its breath came out of it in great shaking gusts. It came on until its head was lying on the ground beside him, so close he could have put out his hand and touched the long scarred jaw. So close the heat of its breath went over him, and the smell, smoke and iron and something like hot stones.</prosody></p><break time="500ms"/>
+<!-- p67 -->
+<p>He put out his hand. He didn’t decide to. It was what he did.</p><break time="500ms"/>
+<!-- p68 -->
+<p>He touched it.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p69 -->
+<p>Afterwards, when they asked him, he’d say it was like being struck by lightning. And they’d nod, and he’d know they didn’t understand, and he’d think: no. Lightning’s quick. This wasn’t quick. This was slow. This was like being struck by lightning that took a lifetime to hit.</p><break time="500ms"/>
+<!-- p70 · awe -->
+<p><prosody rate="95%">It went into his hand. Into his arm. Into his chest, under the broken ribs, and into the middle of him, the place where you feel it when you’re frightened, and went on going in, further, further, into places in him he didn’t know were there. It wasn’t pain. Or it was, but not his. He felt the torn wing as if it were his own arm torn at the shoulder. He felt the bite in his side. He felt the ground under him, hard, cold, all along the length of a body that was ten times the length of his, and the fire in the straw along a flank he’d never had.</prosody></p><break time="800ms"/>
+<!-- p71 -->
+<p>And he felt the falling.</p><break time="500ms"/>
+<!-- p72 -->
+<p>Not Kharrak’s. Dag’s.</p><break time="500ms"/>
+<!-- p73 · anger: Dag's dying fury · Dag (thought) -->
+<p>He was standing up on a dragon’s back in the wind and the fire with an axe in his hand and his whole body full of rage, hot and clean and simple, and he’d hit, he’d hit her, he’d seen her eye go, <prosody rate="97%" volume="-4dB">good,</prosody> and then the jaws, and the air, and he was in the air, and the ground was coming up, and the last thing in him, the very last, wasn’t fear. It was fury. Pure and bright and furious. <prosody rate="97%" volume="-4dB">Not yet. Not yet. I’m not finished. I’m not Finished.</prosody></p><break time="500ms"/>
+<!-- p74 -->
+<p>And then nothing.</p><break time="500ms"/>
+<!-- p75 -->
+<p>Calder screamed.</p><break time="500ms"/>
+<!-- p76 · Kharrak (bond, to Calder) -->
+<p>He heard himself do it, from a long way off. He couldn’t stop. He was lying in the stubble with his hand on the dragon’s jaw and screaming, and in the middle of him, in the place where it had gone in, something had taken hold. Like a hand closing. Like a root going down. He felt it close, and hold, and he felt the dragon feel it too, at the same moment, the same terrible astonished moment: <prosody rate="94%" volume="-2dB">what. What is this. What have you done.</prosody></p><break time="500ms"/>
+<!-- p77 -->
+<p>It wasn’t words. He didn’t know yet that it would ever be words. It was just a feeling, huge and raw and pressed right up against his own, so close he couldn’t tell which of them was feeling it.</p><break time="500ms"/>
+<!-- p78 -->
+<p>Then it was gone, and he was lying on his back in the stubble, breathing, with the stake in his side, and Kharrak’s head was lying on the ground beside him, and Kharrak’s eye was still open, still gold, still looking at him. The grey that had been spreading across the scales had stopped.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p79 -->
+<p>He lay there a few breaths, no more. Then the field shook again.</p><break time="500ms"/>
+<!-- p80 -->
+<p>Aurveth came down.</p><break time="500ms"/>
+<!-- p81 -->
+<p>She came down slower than Kharrak, much slower, gliding, with her great wings spread out stiff and still on either side of her like the sails of a ship with no one at the helm. She came down out of the dark over the burning mill and across the hill and onto the top of the Fenn barley field, above him, and landed, badly, on her chest, and slid, and stopped. Her back was torn open from her shoulders to her tail. He could see it in the firelight, black and glistening. On her back, in the wreck of the saddle, slumped forward over the pommel with her grey cloak torn and her white head hanging, was Sigrun Holm.</p><break time="500ms"/>
+<!-- p82 -->
+<p>Not moving.</p><break time="500ms"/>
+<!-- p83 · grief -->
+<p><prosody rate="94%">The great bronze dragon lifted her head and turned it on her long neck, and looked back at the woman on her back. Then she put back her head and made a sound, lower than a scream. Long and deep and broken, the sound she’d made over Teo’s pyre, but worse, so much worse, going on and on.</prosody></p><break time="800ms"/>
+<!-- p84 -->
+<p>When it stopped, she turned her head and looked down the field at him.</p><break time="500ms"/>
+<!-- p85 -->
+<p>At him, and at Kharrak lying beside him with his head on the ground.</p><break time="500ms"/>
+<!-- p86 -->
+<p>He saw her see it. Whatever it was, whatever had happened between him and the rust-red dragon, she saw it. He saw something go across that vast bronze face, in the great gold eye that was still whole, the one Dag’s axe hadn’t found. Something like understanding. And something like horror.</p><break time="500ms"/>
+<!-- p87 -->
+<p>Slowly, she began to come down the field toward him.</p><break time="500ms"/>
+<!-- p88 · dread · Calder (thought) -->
+<p><prosody rate="96%">He wanted to say <prosody rate="97%" volume="-4dB">no.</prosody> He wanted to say <prosody rate="97%" volume="-4dB">not you too, I can’t, I can’t, there isn’t room.</prosody> He didn’t say anything. He lay there and watched her come, dragging herself on her belly through the stubble with her back torn open and Sigrun Holm sliding off her, falling, lying still on the field behind her, and her bronze scales going grey at the edges in the firelight, the same as Kharrak’s had, the same as a coal going out.</prosody></p><break time="800ms"/>
+<!-- p89 -->
+<p>She stopped above him. Her head came down. The one whole eye, as big as a cartwheel’s hub, looked at him from an arm’s length away. Old. So old. Older than the hold. Older than the Clan. He could see it in there, the age of her, going back and back like the black water of Coldtarn.</p><break time="500ms"/>
+<!-- p90 -->
+<p>He put out his other hand.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p91 · grief: Sigrun's dying thoughts · Sigrun (thought); Sigrun (thought), very quietly -->
+<p><prosody rate="94%">It was slower this time, and deeper, and colder. It went in and down and he went with it, down, through dark water, falling, and he was sitting very straight on a dragon’s back in the wind over a burning valley and he was old, and tired, and his back was a long line of fire, and he thought: <prosody rate="97%" volume="-4dB">oh.</prosody> Just that. <prosody rate="97%" volume="-4dB">Oh.</prosody> Surprised. And then: <prosody rate="97%" volume="-4dB">not like this. Not by him. Not by Kharrak, of all of them, that I taught to fly when he was the size of a pony.</prosody> And then, very quietly, as the dark came up: <prosody rate="97%" volume="-6dB">Aurveth. Old girl. I’m sorry. I’m sorry. Three of us now. I’m sorry.</prosody></prosody></p><break time="800ms"/>
+<!-- p92 -->
+<p>The hand closed in him again, the root went down. A second one. Beside the first.</p><break time="500ms"/>
+<!-- p93 · grief · Kharrak and Aurveth (bond, to Calder) -->
+<p><prosody rate="94%">He was crying. He hadn’t known. He was lying in the field with a hand on each of two dragons’ faces and tears running down into his ears and his whole body shaking, and there was too much in him. Far too much. There was a torn wing and a torn back and a broken rib that was his and a lost eye that wasn’t, and a fury that was Dag’s and a grief that was Sigrun’s, and under all of it, two vast, raw, astonished presences pressed up against him in the dark of his own head, so close, so close, and both of them saying the same thing that wasn’t words: <prosody rate="94%" volume="-2dB">What are you. What have you done. What is this.</prosody></prosody></p><break time="800ms"/>
+<!-- p94 · Calder (bond, to Kharrak and Aurveth) -->
+<p><prosody rate="94%" volume="-2dB">I don’t know,</prosody> he thought, at them, or at himself. <prosody rate="94%" volume="-2dB">I don’t know. I don’t know.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p95 -->
+<p>The third came in from the dark by the hedge.</p><break time="500ms"/>
+<!-- p96 -->
+<p>He didn’t see her come. He heard her. A quick, light, frantic beating of wings, low over the field, and a high thin crying sound, going up and down, like a child calling for someone in a crowd. Lisska. The small green one. She came in over the hedge low and fast, with Imra on her back, toward the two great shapes lying in the stubble. As if she’d seen them fall and was coming to see. To help. To ask.</p><break time="500ms"/>
+<!-- p97 -->
+<p>Something went <emphasis level="moderate">thock</emphasis> in the dark by the hedge.</p><break time="500ms"/>
+<!-- p98 -->
+<p>He knew that sound. Everyone in the Marches knew it, from the autumn shoots on the river. A crossbow. Somewhere in the dark at the bottom of the field, by the hedge, somebody had a crossbow.</p><break time="500ms"/>
+<!-- p99 -->
+<p>On Lisska’s back, Imra Sallow put her hand up to her throat.</p><break time="500ms"/>
+<!-- p100 -->
+<p>Then she was falling sideways out of the saddle, slowly, like someone who has fallen asleep on a horse, and the green dragon was coming down, too fast, wrong, tumbling, into the stubble at the bottom of the field, and rolling, and lying still.</p><break time="500ms"/>
+<!-- p101 -->
+<p>And then the crying.</p><break time="500ms"/>
+<!-- p102 · grief · Calder (thought) -->
+<p><prosody rate="94%">It came up out of her, out of the dark at the bottom of the field, high and thin and going on and on, and it didn’t stop, and Calder lay there between the two great dying shapes with his hands on their faces and heard it, and thought: <prosody rate="97%" volume="-4dB">oh, no. Oh, no, no. Not you. Not you as well. You’re only small.</prosody></prosody></p><break time="800ms"/>
+<!-- p103 · tender · Calder, through his teeth -->
+<p><prosody rate="95%">He couldn’t reach her. He couldn’t move. He lay there and he said, through his teeth, with what breath he had, into the dark: “Here. Here. Come here. Come on. I’m here. Come on, little one.”</prosody></p><break time="500ms"/>
+<!-- p104 -->
+<p>And she came.</p><break time="500ms"/>
+<!-- p105 -->
+<p>He heard her come. Dragging. Crying. Through the stubble, up the slope, toward the only voice she could hear. He couldn’t turn his head to see. He felt her arrive: a weight against his legs, a hot frantic face pushing in under his arm, against his side, against the broken ribs, so that the stake went into him again and he cried out. Something touched his hand, his wrist, a long thin muzzle, trembling, and he turned his hand over, and held it.</p><break time="500ms"/>
+<!-- p106 · quiet: Imra's cold death · Imra (thought) -->
+<p><prosody rate="95%">This one was fast. This one was so fast it was like falling through ice. Cold, sudden, everywhere at once. He was lying on a green dragon’s back in the stubble with something stuck in his throat, and it was cold, it was so cold, and it didn’t hurt, that was the strange thing, it didn’t hurt at all. It was just cold. He thought, quite clearly: <prosody rate="97%" volume="-4dB">Teo.</prosody> Just that. He was almost glad. <prosody rate="97%" volume="-4dB">Teo. Wait for me.</prosody></prosody></p><break time="500ms"/>
+<!-- p107 -->
+<p>And then nothing.</p><break time="500ms"/>
+<!-- p108 -->
+<p>And the third hand closed in him, and the third root went down, and held.</p><break time="500ms"/>
+<!-- p109 -->
+<p>Around him, all three of them cried out at once, one long broken sound, and stopped, as if a door had shut on it.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p110 -->
+<p>It was too much.</p><break time="500ms"/>
+<!-- p111 · dread -->
+<p><prosody rate="96%">He knew that, quite calmly, lying there. It was too much for one man. There was no room in him for this. There were three of them in him now, pressing in, three vast raw grieving furious astonished minds jammed in against his own in the dark of his skull like three bulls in a pen made for a lamb. And three deaths. He’d felt three people die. He’d <emphasis level="moderate">been</emphasis> three people dying. They were still in him, the last of them, Dag’s fury and Sigrun’s sorrow and Imra’s cold, going round and round like leaves in a pool.</prosody></p><break time="800ms"/>
+<!-- p112 -->
+<p>Under all of it, the stake in his side, going in with every breath.</p><break time="500ms"/>
+<!-- p113 · Calder (thought) -->
+<p>He thought: <prosody rate="97%" volume="-4dB">I’m going to die.</prosody></p><break time="500ms"/>
+<!-- p114 -->
+<p>He thought it quite calmly. It seemed obvious. It seemed like the only possible thing. Nobody could hold this. Nobody could live with this in them.</p><break time="500ms"/>
+<!-- p115 · tender · Calder (thought) -->
+<p><prosody rate="95%">And then he thought: <prosody rate="97%" volume="-4dB">Wren.</prosody></prosody></p><break time="500ms"/>
+<!-- p116 -->
+<p>And then the roar came.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p117 -->
+<p>It came from the river.</p><break time="500ms"/>
+<!-- p118 · awe -->
+<p><prosody rate="95%">It came across the water from the west, from the island, from the Old Ruin, and it was the biggest sound he had ever heard. Bigger than the dragons. Bigger than the mill going up. It was so deep that the first of it wasn’t a sound at all, just a shaking in the ground under him, coming up through his back and his broken ribs. Then it rose. It came up out of the ground and into the air and went on rising, a long, rolling, endless roar, like the whole of the river had stood up on its end and was shouting, and it went over the burning mill and the green and the lanes and the fields, and over him, and up the hill, and away into the Scarfell, and he heard it echo back off the hills, and come back, and go away again.</prosody></p><break time="800ms"/>
+<!-- p119 -->
+<p>Everything stopped.</p><break time="500ms"/>
+<!-- p120 · quiet -->
+<p><prosody rate="95%">The fighting in the lanes stopped. The shouting. The horses. The fire went on crackling in the straw, and the mill roared, but everything else, every living thing on the Saltreach bank of the river, stopped and stood still and listened.</prosody></p><break time="500ms"/>
+<!-- p121 -->
+<p>The three dragons lying around him in the stubble lifted their heads.</p><break time="500ms"/>
+<!-- p122 · awe -->
+<p><prosody rate="95%">He felt them do it. He felt it go through them, through all three, and through him, through the three new roots in the middle of him, like a bell struck in his chest. Not fear. More like the feeling you get when you’re very small and you hear your mother’s voice in another room.</prosody></p><break time="800ms"/>
+<!-- p123 · the dragons (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">What,</prosody> said something in the dark of his head. It was the first thing that had ever been words. He didn’t know which of them said it. Maybe all three. Maybe him. <prosody rate="94%" volume="-2dB">What was that.</prosody></p><break time="500ms"/>
+<!-- p124 -->
+<p>He couldn’t tell who answered. Maybe nobody did.</p><break time="500ms"/>
+<!-- p125 · the dragons (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Old,</prosody> something said. <prosody rate="94%" volume="-2dB">Something old.</prosody></p><break time="500ms"/>
+<!-- p126 · quiet -->
+<p><prosody rate="95%">Then the dark came up over him, gently, the way the black water had come up over the ash at Coldtarn, and drew him in toward the middle, and he went down.</prosody></p>
+<break time="1800ms"/>
+</speak>

@@ -1,0 +1,1543 @@
+{
+ "chapter": 27,
+ "title": "The Stables",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Part Three. The Long Autumn.",
+   "pause_after_ms": 2000
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Twenty-seven.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 3,
+   "para": "",
+   "type": "title",
+   "text": "The Stables.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 4,
+   "para": "p1",
+   "type": "narration",
+   "text": "There were thirty-one of them, and by the end of the second week she knew every one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p2",
+   "type": "narration",
+   "text": "Not their names. Some of them had names; some of them had names only their riders used; some of them, Grieve said, had names that nobody but the beast itself had ever known. She knew them the way he did. By their stalls. By the way they stood when she came in with the fork, and where they put their feet, and what they did with their eyes. By their muck. Grieve said you could tell everything about a knight from their beast’s muck: whether they fed it right, whether they worked it enough, whether they were frightened of it, or it of them, whether they were kind. He said it was why no knight ever looked him in the eye. They knew he knew.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "narration",
+   "text": "The small ones were at the east end of the barn, in the old part, where the stalls were low and the beams came down close: the hounds, five of them, and the martens in their tall wire cages, and two hawks besides Kesh, and a thing like a fox with too many teeth that belonged to a second-year and bit everybody. The big ones were at the west end, where the roof went up high on great oak beams and the stalls were as big as cottages.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "narration",
+   "text": "She’d always known that bonded beasts came big. She’d grown up on the river watching dray-beasts on the Saltreach jetty, and greyharts on the Hearthmere road, and she’d seen the dragons go over the Scarfell every summer. But she’d never been in a stall with one. She’d never been down on the floor in the straw with a fork, with something nine feet tall at the shoulder standing over her in the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "narration",
+   "text": "There were two greyharts. White, both of them, with the long narrow heads and the branching antlers and the deep chests that the crown’s war-mounts had been bred for since before Greyhold, and they stood nine feet at the shoulder and looked down at her from the dark of their stalls with eyes as big as her fist. There was an ox-beast, bonded to an old knight called Merrow who’d been retired from the gate for ten years and came to the barn every morning to sit on a stool and talk to it. There were the two dray-beasts that pulled the school’s wains. At the very end, in the biggest stall in the barn, behind a double door with iron bands across it, there was Captain Thorne’s boar.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": "It was black. That was the first thing. Black and bristled and humped, as big as a hay cart, with a head as long as she was tall and tusks like scythes. It lay in the straw at the back of its stall most of the day with its eyes shut, and when she came in with the fork it opened one of them, small and red and clever, and watched her the whole time, and didn’t move. Grieve said it had killed a bear in the Brackenwood the winter before last. Grieve said Captain Thorne was the only person alive it didn’t want to kill, and some days he wasn’t sure about her.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "narration",
+   "text": "She mucked it out every morning, at the end, last. She did it very carefully.",
+   "mood": "humour",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 11,
+   "para": "p8",
+   "type": "narration",
+   "text": "The Darrow girl’s hound let her in on the fifth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p9",
+   "type": "narration",
+   "text": "She’d been doing its stall from the door, the way Grieve had told her to: reaching in with the long fork, dragging the straw out, not going in. The hound would lie at the back, by the wall, with its chin on its paws and its eyes on her, and not get up. It was a big rough brindled thing, waist-high to her, with one ear torn half off and a long scar down its muzzle. It was called Bracken. It belonged to Ide Darrow, a quiet freckled girl in Maren’s own year who never said anything in lessons. Two winters ago it had taken a poacher’s arm off at the elbow on the Brackenwood road.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p10",
+   "type": "narration",
+   "text": "On the fifth day it got up when she came to the door, and walked across the stall to her, and stood there with its head down. She stood very still. It smelled her hand, her good hand. It turned round and went back to the wall and lay down again, with its back to her this time, and she understood, after a while, that she was being let in.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p11",
+   "type": "narration",
+   "text": "She went in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p12",
+   "type": "narration",
+   "text": "Grieve was at the end of the barn. She didn’t see him. She heard him, later, telling Ide Darrow in the yard, in his flat voice that never seemed to say anything much:"
+  },
+  {
+   "seq": 16,
+   "para": "p12",
+   "type": "speech",
+   "text": "“Let the lion girl into its stall this morning. Thought you’d want to know.”",
+   "speaker": "Grieve",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p13",
+   "type": "narration",
+   "text": "Ide Darrow looked at Maren across the yard, properly, for the first time in two years. She didn’t say anything. But at drill that afternoon she came and stood next to Maren at the back of the year, in the empty place there always was beside her now, and stayed there.",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 18,
+   "para": "p14",
+   "type": "narration",
+   "text": "Kesh was harder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p15",
+   "type": "narration",
+   "text": "Kesh had moods. Everybody at Greyhold knew Kesh had moods; Kesh had had moods since she was a fledgling, and Haverly had spent six years pretending she didn’t. But Maren hadn’t known what they looked like from the floor of the barn, before the bell, in the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p16",
+   "type": "narration",
+   "text": "When Haverly was in the school, Kesh was perfect. She sat on her perch in the east end with her hood off and her feathers sleek and her eyes like two drops of honey, and watched the barn with an air of mild disgust, and ate what she was given, and was, as Grieve said, about as much trouble as a portrait.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p17",
+   "type": "narration",
+   "text": "When Haverly was on the gate, she went to pieces.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p18",
+   "type": "narration",
+   "text": "He’d been put on the gate after his trial. All the passed students were, for a season: the river gate, the long cold watches on the wall over the landing, by day and by night. Whenever he was up there, Kesh knew. She knew the moment he went up the wall stair. She’d start to bate on her perch, throwing herself off it and hanging upside down from her jesses, beating her wings, screaming. She wouldn’t eat. She pulled out her own feathers and dropped them on the floor. She bit anyone who came near, and she bit hard; she was a hunting falcon the size of an eagle, and her beak could take the top off a finger.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 23,
+   "para": "p19",
+   "type": "narration",
+   "text": "She bit Maren four times in the first week.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p20",
+   "type": "speech",
+   "text": "“Leave her be,”",
+   "speaker": "Grieve"
+  },
+  {
+   "seq": 25,
+   "para": "p20",
+   "type": "narration",
+   "text": "said Grieve."
+  },
+  {
+   "seq": 26,
+   "para": "p20",
+   "type": "speech",
+   "text": "“She’s not hungry. She’s frightened.”",
+   "speaker": "Grieve",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p21",
+   "type": "speech",
+   "text": "“Of what?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p22",
+   "type": "speech",
+   "text": "“Of him being up there and her being down here. Bonded beasts don’t like their riders out of sight. Some don’t mind. Some go half mad.”",
+   "speaker": "Grieve",
+   "mood": "humour"
+  },
+  {
+   "seq": 29,
+   "para": "p22",
+   "type": "narration",
+   "text": "He looked at the falcon, hanging upside down from her perch with her wings spread, screaming.",
+   "mood": "humour"
+  },
+  {
+   "seq": 30,
+   "para": "p22",
+   "type": "speech",
+   "text": "“That one’s always been half mad.”",
+   "speaker": "Grieve",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p23",
+   "type": "speech",
+   "text": "“Can’t they put her on the wall with him?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p24",
+   "type": "speech",
+   "text": "“Not on the gate.”",
+   "speaker": "Grieve"
+  },
+  {
+   "seq": 33,
+   "para": "p24",
+   "type": "narration",
+   "text": "Grieve picked up a feather off the floor and looked at it."
+  },
+  {
+   "seq": 34,
+   "para": "p24",
+   "type": "speech",
+   "text": "“On the gate, there’s no bond. Didn’t they teach you that?”",
+   "speaker": "Grieve",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p25",
+   "type": "narration",
+   "text": "They had. It was one of the first things."
+  },
+  {
+   "seq": 36,
+   "para": "p25",
+   "type": "remembered",
+   "text": "On the gate, there is no bond.",
+   "speaker": "the instructors"
+  },
+  {
+   "seq": 37,
+   "para": "p25",
+   "type": "narration",
+   "text": "The rule of the wall. When a knight went up onto the river gate, bonded or not, they went alone, and stood their watch alone, and were counted the same as every other knight on the wall: one sword, one pair of eyes. It was the oldest rule in Greyhold, and the proudest. The first-years learned it before they learned how to hold a spear. Bonded and unbonded stand the gate as equals.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p26",
+   "type": "narration",
+   "text": "She’d always thought it was beautiful.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p27",
+   "type": "narration",
+   "text": "She looked at Kesh hanging from her perch, and at the feathers on the floor, and thought:",
+   "mood": "reflective"
+  },
+  {
+   "seq": 40,
+   "para": "p27",
+   "type": "thought",
+   "text": "equals. On the gate. And everywhere else?",
+   "speaker": "Maren",
+   "mood": "reflective",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 41,
+   "para": "p28",
+   "type": "narration",
+   "text": "In the third week Kesh landed on her fork.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p29",
+   "type": "narration",
+   "text": "It was dawn. Haverly had been on the night watch. Maren had come into the barn with the lantern and the barrow and started at the east end, the way she always did, and Kesh had been on her perch, bating, screaming, as she always was after a night watch. Maren didn’t look at her. She’d learned not to. She mucked out the hounds, and the martens, and the fox thing that bit, and came to Kesh’s perch, and started to fork out the soiled straw underneath it, with her head down, not looking up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p30",
+   "type": "narration",
+   "text": "Something landed on the fork handle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p31",
+   "type": "narration",
+   "text": "She stopped. She didn’t look up. She looked at the handle, out of the corner of her eye, and there was a foot on it. Yellow, scaled, with four black talons wrapped round the ash, so close to her hand that she could feel the warmth of it.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 45,
+   "para": "p32",
+   "type": "narration",
+   "text": "Kesh sat on the fork handle and looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p33",
+   "type": "narration",
+   "text": "Maren stood there in the straw with the fork in her good hand and the falcon on it, and didn’t move. Neither did Kesh. She sat with her feathers puffed out, and her head going from side to side, looking at Maren first with one eye and then with the other.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 47,
+   "para": "p34",
+   "type": "narration",
+   "text": "Then she shook herself, all over, a long rattling shake, and her feathers went down sleek. And she stayed there.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p35",
+   "type": "narration",
+   "text": "Maren didn’t know how long she stood. Long enough for her arm to start shaking. Long enough for the bell to go for the change of watch, up on the wall, and for Kesh to turn her head at it, and listen, and turn back. Very carefully, she lowered the fork until the handle was level with the perch, and Kesh stepped off it, and onto the perch, and settled, and didn’t bate again that morning.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p36",
+   "type": "narration",
+   "text": "Grieve was at the end of the barn, again. She didn’t see him. But at noon he gave her the greyharts to groom, as well as muck, which he’d never given anybody on midden duty in forty years, he said, and which was the nearest thing to praise she’d ever get from him.",
+   "mood": "humour",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 50,
+   "para": "p37",
+   "type": "narration",
+   "text": "The cat nobody owned slept in a different stall every night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p38",
+   "type": "narration",
+   "text": "She’d seen it on her first day at Greyhold, two years ago: a grey cat the size of a calf, lying asleep in the only shade in the yard while the first-years sat in the sun on the bench along the Lesson Wall. She’d seen it a hundred times since. Everyone had. It was the school’s cat. It had always been there. It belonged to nobody, and nobody had ever seen it eat, and it went where it liked. Some of the students said it had been there since the school was built. Grieve said that was nonsense; it had been there since he came, forty years ago, and it had been old then.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p39",
+   "type": "narration",
+   "text": "It slept in the Long Barn. In a different stall every night. She’d find it in the morning, curled up in the straw against the flank of one of the beasts, or up on the hay in the rack above a hound, or once, terrifyingly, between the forefeet of Captain Thorne’s boar, with the boar’s great tusked head lying beside it on the straw.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p40",
+   "type": "speech",
+   "text": "“It picks,”",
+   "speaker": "Grieve"
+  },
+  {
+   "seq": 54,
+   "para": "p40",
+   "type": "narration",
+   "text": "said Grieve.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p41",
+   "type": "speech",
+   "text": "“Picks what?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p42",
+   "type": "speech",
+   "text": "“Picks the beast whose rider’s going to have a bad day tomorrow.”",
+   "speaker": "Grieve"
+  },
+  {
+   "seq": 57,
+   "para": "p42",
+   "type": "narration",
+   "text": "He said it the way he said everything, flat, as if it were obvious."
+  },
+  {
+   "seq": 58,
+   "para": "p42",
+   "type": "speech",
+   "text": "“Watch. Tomorrow, the greyhart. You’ll see.”",
+   "speaker": "Grieve",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p43",
+   "type": "narration",
+   "text": "The next morning the cat was in the stall of the elder greyhart, curled up in the straw against its white flank. That afternoon, at drill, the greyhart’s rider, a knight called Vasey who’d been on the gate for twenty years, fell off the wall stair in the rain and broke his wrist in two places.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p44",
+   "type": "narration",
+   "text": "Maren stood in the yard and watched them carry him to the infirmary, where the surgeon would say the setting-words over the wrist and have him back on the wall in a fortnight instead of two months, and looked at Grieve, and Grieve shrugged.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p45",
+   "type": "speech",
+   "text": "“Told you,”",
+   "speaker": "Grieve",
+   "mood": "humour"
+  },
+  {
+   "seq": 62,
+   "para": "p45",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p46",
+   "type": "speech",
+   "text": "“How does it know?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p47",
+   "type": "speech",
+   "text": "“How does anything know?”",
+   "speaker": "Grieve",
+   "mood": "dread"
+  },
+  {
+   "seq": 65,
+   "para": "p47",
+   "type": "narration",
+   "text": "said Grieve. He looked across the yard at the cat, which was lying in the doorway of the barn in the last of the sun, washing one enormous paw.",
+   "mood": "dread"
+  },
+  {
+   "seq": 66,
+   "para": "p47",
+   "type": "speech",
+   "text": "“That one’s not bonded to anybody. Never has been. But it knows them all. Every one. Better than their riders do, sometimes.”",
+   "speaker": "Grieve",
+   "mood": "dread"
+  },
+  {
+   "seq": 67,
+   "para": "p47",
+   "type": "narration",
+   "text": "He spat.",
+   "mood": "dread"
+  },
+  {
+   "seq": 68,
+   "para": "p47",
+   "type": "speech",
+   "text": "“If I were you, lion girl, I’d watch where it sleeps.”",
+   "speaker": "Grieve",
+   "mood": "dread",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 69,
+   "para": "p48",
+   "type": "narration",
+   "text": "Hale taught her in the archive in the afternoons, after drill, before evening muck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p49",
+   "type": "narration",
+   "text": "He’d sent for her again at the end of the first week."
+  },
+  {
+   "seq": 71,
+   "para": "p49",
+   "type": "remembered",
+   "text": "If you’re interested.",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 72,
+   "para": "p49",
+   "type": "narration",
+   "text": "She’d said she was. So twice a week, three times, she went up the narrow stair under the north tower and in through the low door and sideways between the stacks to the long table under the hanging lamp, and he’d be there, with his stick against the chair and a book open, and he’d look up and smile and say"
+  },
+  {
+   "seq": 73,
+   "para": "p49",
+   "type": "remembered",
+   "text": "Ashdown,",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 74,
+   "para": "p49",
+   "type": "narration",
+   "text": "and push a stool toward her with his foot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p50",
+   "type": "narration",
+   "text": "He taught her the old history of the orders.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p51",
+   "type": "narration",
+   "text": "She’d thought she knew it. Every student knew it. They learned it in their first year, from a fat red book with gilt edges that the instructors read aloud from in the hall on winter evenings. Three hundred years ago the crown of Hearthmere chartered the knightly orders to keep the realm’s peace and its border, and built Greyhold on the river to be their school, and the orders had kept the peace and the border ever since, and that was the glory of Hearthmere. Every student could say it in their sleep.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p52",
+   "type": "speech",
+   "text": "“That’s the gilt-edged version,”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 78,
+   "para": "p52",
+   "type": "narration",
+   "text": "said Hale."
+  },
+  {
+   "seq": 79,
+   "para": "p52",
+   "type": "speech",
+   "text": "“It’s not wrong. It’s just very short.”",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p53",
+   "type": "narration",
+   "text": "He opened a different book. Old, and black, and falling apart, with a cover of wooden boards and the pages brown at the edges and the ink gone the colour of rust.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p54",
+   "type": "speech",
+   "text": "“The charter is three hundred years old,”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 82,
+   "para": "p54",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 83,
+   "para": "p54",
+   "type": "speech",
+   "text": "“The orders are three hundred years old. Greyhold is three hundred years old. But the midden,”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 84,
+   "para": "p54",
+   "type": "narration",
+   "text": "and he smiled,"
+  },
+  {
+   "seq": 85,
+   "para": "p54",
+   "type": "speech",
+   "text": "“is older. And so is this.”",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p55",
+   "type": "narration",
+   "text": "He turned the book so she could read it. She couldn’t. The letters were square and spare, with odd little hooks at the ends of the strokes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p56",
+   "type": "speech",
+   "text": "“The old script,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 88,
+   "para": "p56",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p57",
+   "type": "speech",
+   "text": "“The old script. The letters of the one realm. Like your verse.”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 90,
+   "para": "p57",
+   "type": "narration",
+   "text": "He turned a page, very carefully."
+  },
+  {
+   "seq": 91,
+   "para": "p57",
+   "type": "speech",
+   "text": "“This is a list. It’s the oldest thing in the archive. Nobody knows who wrote it. It’s a list of names, three hundred and eleven of them, one after another, each with a mark beside it. And at the top, before the first name, there’s a heading.”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 92,
+   "para": "p57",
+   "type": "narration",
+   "text": "He put his finger under it."
+  },
+  {
+   "seq": 93,
+   "para": "p57",
+   "type": "speech",
+   "text": "“Can you read that word?”",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p58",
+   "type": "narration",
+   "text": "She looked at it for a long time. She traced the letters in her mind, the way her father had traced the milestone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p59",
+   "type": "speech",
+   "text": "“Watch,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 96,
+   "para": "p59",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Watch,”",
+   "speaker": "Hale",
+   "mood": "awe"
+  },
+  {
+   "seq": 98,
+   "para": "p60",
+   "type": "narration",
+   "text": "said Hale.",
+   "mood": "awe"
+  },
+  {
+   "seq": 99,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Not knights. Not orders. The Watch.”",
+   "speaker": "Hale",
+   "mood": "awe"
+  },
+  {
+   "seq": 100,
+   "para": "p60",
+   "type": "narration",
+   "text": "He sat back in his chair.",
+   "mood": "awe"
+  },
+  {
+   "seq": 101,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Before there were knights at Greyhold, Ashdown, there were these. Three hundred and eleven of them, at least. Wardens. Watchers. They kept a watch here, on this river, before there was a Greyhold to keep it from. And nobody knows what they were watching. And when the crown came, three hundred years ago, with its charter and its orders and its masons, it built the school on top of them, and took their oath, and kept it, and forgot what it meant.”",
+   "speaker": "Hale",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 102,
+   "para": "p61",
+   "type": "verse",
+   "text": "Keep the watch below, and do not ask.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 103,
+   "para": "p62",
+   "type": "speech",
+   "text": "“The gilt-edged book,”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 104,
+   "para": "p62",
+   "type": "narration",
+   "text": "said Hale,"
+  },
+  {
+   "seq": 105,
+   "para": "p62",
+   "type": "speech",
+   "text": "“says the orders were made to keep the peace. I think they were made to keep the Watch. I think the crown found these people here, at the river, keeping something, and decided it wanted to be the one keeping it. And so it made the orders, and gave them the oath, and the Watch went away, or was folded in, or simply died out, and the orders went on swearing to keep a watch below without ever being told what was below.”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 106,
+   "para": "p62",
+   "type": "narration",
+   "text": "He looked at the old black book."
+  },
+  {
+   "seq": 107,
+   "para": "p62",
+   "type": "speech",
+   "text": "“I’ve spent forty years trying to find out what was below.”",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p63",
+   "type": "speech",
+   "text": "“And?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p64",
+   "type": "narration",
+   "text": "He looked at her under the lamp.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p65",
+   "type": "speech",
+   "text": "“And I’m still looking,”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 111,
+   "para": "p65",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p66",
+   "type": "narration",
+   "text": "She didn’t believe him. It was something about the way he said it. And about the way his hand had gone, while he talked, to the ring of keys on his belt, and found the long black one, and held it.",
+   "mood": "tension",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 113,
+   "para": "p67",
+   "type": "narration",
+   "text": "It was Hale who showed her the other thing. Not on purpose. He didn’t do anything on purpose that she could see. He just talked, about the orders, and the charter, and the chapter-houses, and she listened, and one afternoon she understood something she’d been looking at for two years without seeing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p68",
+   "type": "narration",
+   "text": "He was talking about the chapter-houses. The great council of the orders, at the palace in Hallowmere, where the knights sat in their chapters and advised the crown. Every order had a chapter-house, he said, and every chapter-house had a hall, and every hall had its benches, and the benches were ranked. The front bench of every hall, the bench with the vote, was for bonded knights.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p69",
+   "type": "speech",
+   "text": "“Only bonded?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p70",
+   "type": "speech",
+   "text": "“Only bonded. It’s not in the charter. It’s never been written down anywhere. It’s just how it’s always been.”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 117,
+   "para": "p70",
+   "type": "narration",
+   "text": "He turned a page."
+  },
+  {
+   "seq": 118,
+   "para": "p70",
+   "type": "speech",
+   "text": "“The unbonded sit behind. They can speak, if they’re asked. They can’t vote.”",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p71",
+   "type": "narration",
+   "text": "She thought about the refectory. The long tables. Where she’d sat for two years, and where everybody sat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p72",
+   "type": "narration",
+   "text": "The bonded sat at the top end, near the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p73",
+   "type": "narration",
+   "text": "She’d never noticed. She’d never noticed because she’d never thought to. That was where they sat; that was all. The way the old sat nearest the fire at home and the young furthest off. She’d thought it was something to do with the beasts, with the smell, with the bonded wanting to sit together. She’d thought it was nothing.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p74",
+   "type": "narration",
+   "text": "She thought about the barracks. The bonded students had rooms of their own, in the range beside the Long Barn, so they could be near their beasts. The unbonded slept in the long dormitory on the ground floor, twenty to a room.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p75",
+   "type": "narration",
+   "text": "The instructors. Pell was unbonded. He’d been an instructor at Greyhold for twenty-five years and he’d never be anything else. Rowan was unbonded, or bonded to nothing anyone had seen, and she was a Knight-Captain and inner circle, and that was so rare that people talked about it. Every Warden in the inner circle she could think of had a beast. Except Hale. She looked at him across the table, under the lamp. She’d never seen him with one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p76",
+   "type": "narration",
+   "text": "Grieve. Forty years in the stables. Unbonded.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p77",
+   "type": "narration",
+   "text": "Tobin, who’d had a pamphlet with two words on it."
+  },
+  {
+   "seq": 126,
+   "para": "p77",
+   "type": "written",
+   "text": "One again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p78",
+   "type": "narration",
+   "text": "Her father, who’d been bonded, and died of it.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 128,
+   "para": "p79",
+   "type": "speech",
+   "text": "“On the gate,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 129,
+   "para": "p79",
+   "type": "narration",
+   "text": "she said slowly,"
+  },
+  {
+   "seq": 130,
+   "para": "p79",
+   "type": "speech",
+   "text": "“there’s no bond.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p80",
+   "type": "narration",
+   "text": "Hale looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p81",
+   "type": "speech",
+   "text": "“On the gate,”",
+   "speaker": "Maren",
+   "mood": "anger"
+  },
+  {
+   "seq": 133,
+   "para": "p81",
+   "type": "narration",
+   "text": "she said,",
+   "mood": "anger"
+  },
+  {
+   "seq": 134,
+   "para": "p81",
+   "type": "speech",
+   "text": "“we’re equals. That’s what they tell us. In the first week. Bonded and unbonded stand the gate as equals.”",
+   "speaker": "Maren",
+   "mood": "anger"
+  },
+  {
+   "seq": 135,
+   "para": "p81",
+   "type": "narration",
+   "text": "She looked at the old black book.",
+   "mood": "anger"
+  },
+  {
+   "seq": 136,
+   "para": "p81",
+   "type": "speech",
+   "text": "“And everywhere else, we’re not. Are we? Not in the hall. Not in the chapter-houses. Not in the inner circle. Not in the refectory. Not in the barracks. Just on the gate.”",
+   "speaker": "Maren",
+   "mood": "anger"
+  },
+  {
+   "seq": 137,
+   "para": "p81",
+   "type": "narration",
+   "text": "She heard her own voice go strange.",
+   "mood": "anger"
+  },
+  {
+   "seq": 138,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Just on the gate. Where you might die.”",
+   "speaker": "Maren",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p82",
+   "type": "narration",
+   "text": "Hale was quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p83",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Hale"
+  },
+  {
+   "seq": 141,
+   "para": "p83",
+   "type": "narration",
+   "text": "he said at last."
+  },
+  {
+   "seq": 142,
+   "para": "p83",
+   "type": "speech",
+   "text": "“Just on the gate.”",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p84",
+   "type": "speech",
+   "text": "“Why?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Because the gate’s where it costs the most,”",
+   "speaker": "Hale",
+   "mood": "reflective"
+  },
+  {
+   "seq": 145,
+   "para": "p85",
+   "type": "narration",
+   "text": "said Hale.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 146,
+   "para": "p85",
+   "type": "speech",
+   "text": "“And the people who wrote the rules knew that. And the people who wrote the rules were bonded.”",
+   "speaker": "Hale",
+   "mood": "reflective"
+  },
+  {
+   "seq": 147,
+   "para": "p85",
+   "type": "narration",
+   "text": "He closed the black book, gently.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 148,
+   "para": "p85",
+   "type": "speech",
+   "text": "“It’s a very old trick, Ashdown. You tell people they’re equal in the one place where equal means equally likely to be killed. And then you let them feel proud of it.”",
+   "speaker": "Hale",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p86",
+   "type": "speech",
+   "text": "“You’re inner circle,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 150,
+   "para": "p86",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 151,
+   "para": "p86",
+   "type": "speech",
+   "text": "“You’re one of them.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p87",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Hale",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p88",
+   "type": "speech",
+   "text": "“And you’re telling me this.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p89",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Hale",
+   "mood": "reflective"
+  },
+  {
+   "seq": 155,
+   "para": "p89",
+   "type": "narration",
+   "text": "He looked at her steadily.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 156,
+   "para": "p89",
+   "type": "speech",
+   "text": "“Because I’m old, and tired, and unbonded, and I’ve sat on the back bench of a chapter-house for forty years. And because someone’s going to tell you sooner or later. Someone with a pamphlet, in a barn, with two words on it. And I’d rather you heard it from someone who’ll tell you the rest of it too.”",
+   "speaker": "Hale",
+   "mood": "reflective"
+  },
+  {
+   "seq": 157,
+   "para": "p89",
+   "type": "narration",
+   "text": "He picked up his stick.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 158,
+   "para": "p89",
+   "type": "speech",
+   "text": "“That the gate’s still the gate. That it still matters. That a thing can be unfair and still be worth standing on.”",
+   "speaker": "Hale",
+   "mood": "reflective"
+  },
+  {
+   "seq": 159,
+   "para": "p89",
+   "type": "narration",
+   "text": "He stood up.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 160,
+   "para": "p89",
+   "type": "speech",
+   "text": "“Go and do your muck.”",
+   "speaker": "Hale",
+   "mood": "reflective",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 161,
+   "para": "p90",
+   "type": "narration",
+   "text": "She went to the island twice in those weeks, riding Turnip out to Redwatch after evening muck and going on in Ottery’s punt at dusk. She told her mother both times.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p91",
+   "type": "narration",
+   "text": "The first time, she sat down closer. Fifteen paces, not twenty. She hadn’t meant anything by it; the ground was drier there. The lion came out of the trees and saw where she was and stopped dead, and its lip went back further than she’d seen it go since the tower, and a snarl came across the water, low and long, and the bank under her trembled with it. She got up, very carefully, and went back five paces to her old place, and sat. It stood at the edge of the trees till the light was nearly gone before it came down to drink.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 163,
+   "para": "p92",
+   "type": "narration",
+   "text": "The second time she sat in her old place. It looked at her, and its lip went back, and she held still; the lip came down, and it drank, and went away up the stream into the trees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p93",
+   "type": "narration",
+   "text": "That time, she noticed that the foot was nearly healed. It was putting weight on it. The loop of chain was still sunk in the fur, black and ugly, but the swelling had gone down and it walked on four legs, limping only a little. The collar was still round its neck, under the grey mane, with the cut end of the chain hanging from it, and the iron had rubbed the fur away beneath it in a long raw band.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p94",
+   "type": "narration",
+   "text": "She thought about the chisel. She’d kept it. It was in the bottom of her chest in the dormitory, with the hammer, wrapped in a shirt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p95",
+   "type": "narration",
+   "text": "She thought about the stream, and the shore, and the tower door, and the ring worn in the earth all round the tower, a pace from the wall, where it had walked all night trying to get at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p96",
+   "type": "narration",
+   "text": "She didn’t bring the chisel. Not yet.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 168,
+   "para": "p97",
+   "type": "narration",
+   "text": "She worked the ferry with her mother on her rest day, at the end of the second week, because Liss’s arms weren’t what they had been and the river was high.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p98",
+   "type": "narration",
+   "text": "It was a cold bright morning with a wind off the Scarfell. They’d done three crossings, empty both ways, because nobody crossed much now, with the war. On the fourth, as they came in to the Saltreach jetty at Tolly’s Staithe, there were people waiting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p99",
+   "type": "narration",
+   "text": "A family. A man and a woman, and an old woman, and three children, and a handcart with everything they had in it, and a goat on a rope. They stood at the end of the jetty in the wind with their faces grey and their clothes black at the hems with old soot, and watched the ferry come in, and didn’t wave.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 171,
+   "para": "p100",
+   "type": "speech",
+   "text": "“Low Garth,”",
+   "speaker": "the Low Garth man",
+   "mood": "grief"
+  },
+  {
+   "seq": 172,
+   "para": "p100",
+   "type": "narration",
+   "text": "said the man, when Liss asked.",
+   "mood": "grief"
+  },
+  {
+   "seq": 173,
+   "para": "p100",
+   "type": "speech",
+   "text": "“West side. Under Hollow Beck.”",
+   "speaker": "the Low Garth man",
+   "mood": "grief"
+  },
+  {
+   "seq": 174,
+   "para": "p100",
+   "type": "narration",
+   "text": "He said it as if it were a whole story, and to anyone from the Marches it was.",
+   "mood": "grief"
+  },
+  {
+   "seq": 175,
+   "para": "p100",
+   "type": "speech",
+   "text": "“Ulric’s men came four nights ago. Because we’d sold to the hold. Because Arn’s steward came round asking and we said yes, the way you do.”",
+   "speaker": "the Low Garth man",
+   "mood": "grief"
+  },
+  {
+   "seq": 176,
+   "para": "p100",
+   "type": "narration",
+   "text": "He looked at the river.",
+   "mood": "grief"
+  },
+  {
+   "seq": 177,
+   "para": "p100",
+   "type": "speech",
+   "text": "“They burned the house. And the byre. And the barley in the stack. And they took the cow.”",
+   "speaker": "the Low Garth man",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 178,
+   "para": "p101",
+   "type": "speech",
+   "text": "“Where are you going?”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 179,
+   "para": "p101",
+   "type": "narration",
+   "text": "said Liss.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p102",
+   "type": "speech",
+   "text": "“Over,”",
+   "speaker": "the Low Garth man"
+  },
+  {
+   "seq": 181,
+   "para": "p102",
+   "type": "narration",
+   "text": "said the man."
+  },
+  {
+   "seq": 182,
+   "para": "p102",
+   "type": "speech",
+   "text": "“Anywhere over. My wife’s got a cousin at Ashford.”",
+   "speaker": "the Low Garth man"
+  },
+  {
+   "seq": 183,
+   "para": "p102",
+   "type": "narration",
+   "text": "He looked at the Hearthmere bank, at the Greyhold wall going up grey and enormous behind the landing."
+  },
+  {
+   "seq": 184,
+   "para": "p102",
+   "type": "speech",
+   "text": "“They say it’s safe over.”",
+   "speaker": "the Low Garth man",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p103",
+   "type": "speech",
+   "text": "“Mind the step,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 186,
+   "para": "p103",
+   "type": "narration",
+   "text": "Liss said."
+  },
+  {
+   "seq": 187,
+   "para": "p103",
+   "type": "speech",
+   "text": "“Little ones in the middle, where it’s dry.”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 188,
+   "para": "p103",
+   "type": "narration",
+   "text": "She took their fare, which was nothing, because she didn’t ask for any, and they got on. The old woman said a crossing-word as they pushed off, the Saltreach one for safe water, with her eyes shut. Liss let her. It was gone downriver before it was out of her mouth, but there was no call to tell her so.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p104",
+   "type": "narration",
+   "text": "The children had never seen a ferry. They stood at the rail all the way across, three of them, with their hands on the wet wood, staring at the water and the guide rope hissing through the rings and the green bank coming up, and the smallest one, a girl of about five with a burned hem on her dress and a cut on her cheek, said, in a high clear voice, to nobody,",
+   "mood": "tender"
+  },
+  {
+   "seq": 190,
+   "para": "p104",
+   "type": "speech",
+   "text": "“Is it the sea?”",
+   "speaker": "a small girl",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p105",
+   "type": "speech",
+   "text": "“No, pet,”",
+   "speaker": "Maren",
+   "mood": "tender"
+  },
+  {
+   "seq": 192,
+   "para": "p105",
+   "type": "narration",
+   "text": "said Maren.",
+   "mood": "tender"
+  },
+  {
+   "seq": 193,
+   "para": "p105",
+   "type": "speech",
+   "text": "“It’s the river.”",
+   "speaker": "Maren",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p106",
+   "type": "narration",
+   "text": "The girl looked at her. At her grey river-watch coat and her arm in its sling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p107",
+   "type": "speech",
+   "text": "“Are you a knight?”",
+   "speaker": "a small girl",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p108",
+   "type": "narration",
+   "text": "Maren looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p109",
+   "type": "speech",
+   "text": "“Not yet,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 198,
+   "para": "p109",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p110",
+   "type": "narration",
+   "text": "The girl thought about that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p111",
+   "type": "speech",
+   "text": "“Will you be?”",
+   "speaker": "a small girl",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p112",
+   "type": "speech",
+   "text": "“I don’t know,”",
+   "speaker": "Maren",
+   "mood": "quiet"
+  },
+  {
+   "seq": 202,
+   "para": "p112",
+   "type": "narration",
+   "text": "said Maren.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p113",
+   "type": "narration",
+   "text": "At the Greyhold landing they helped the family off, and the handcart, and the goat, and watched them go up the steps past the red door of the ferry-house, the old woman leaning on the man’s arm, toward the road that went west to Ashford and the cousin who might or might not take them in. Up on the wall above the landing, on the gate, a knight in grey stood his watch, with his spear, alone, as the rule said. Bonded or not, she couldn’t tell from here. Equal, on the gate. He watched them go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p114",
+   "type": "speech",
+   "text": "“There’ll be more,”",
+   "speaker": "Liss",
+   "mood": "dread"
+  },
+  {
+   "seq": 205,
+   "para": "p114",
+   "type": "narration",
+   "text": "said Liss, beside her, already coiling the stern line.",
+   "mood": "dread"
+  },
+  {
+   "seq": 206,
+   "para": "p114",
+   "type": "speech",
+   "text": "“Every week, now. More and more.”",
+   "speaker": "Liss",
+   "mood": "dread"
+  },
+  {
+   "seq": 207,
+   "para": "p114",
+   "type": "narration",
+   "text": "She looked across the river at the Saltreach bank, at the thin smokes going up here and there from the hills behind it.",
+   "mood": "dread"
+  },
+  {
+   "seq": 208,
+   "para": "p114",
+   "type": "speech",
+   "text": "“And they’ll all think it’s safe over.”",
+   "speaker": "Liss",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 209,
+   "para": "p115",
+   "type": "speech",
+   "text": "“Isn’t it?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p116",
+   "type": "narration",
+   "text": "Her mother didn’t answer.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  }
+ ]
+}

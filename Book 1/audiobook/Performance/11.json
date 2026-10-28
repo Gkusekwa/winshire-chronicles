@@ -1,0 +1,1392 @@
+{
+ "chapter": 11,
+ "title": "The Trial",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Eleven.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Trial.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "They say at Greyhold that every knight’s trial is the same trial: they send you somewhere you don’t want to go, to fetch something you don’t want to touch, and the thing you bring back is never the thing they asked for.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "The summons came at breakfast, on a folded square of good paper, sealed, in a neat slanting hand Maren had seen once before, under the last line of her own report.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "written",
+   "text": "Ashdown. The Knight-Captain’s room. Before the second bell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Tobin read it over her shoulder and whistled. Across the table Haverly had one just like it, folded the same, and was looking at it with the pleased, nervous face of someone who’s been waiting for something all year and has suddenly got it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "speech",
+   "text": "“Trials,”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "narration",
+   "text": "said Tobin."
+  },
+  {
+   "seq": 9,
+   "para": "p5",
+   "type": "speech",
+   "text": "“Both of you. Same day.”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "speech",
+   "text": "“They always set them in pairs,”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 11,
+   "para": "p6",
+   "type": "narration",
+   "text": "said Haverly."
+  },
+  {
+   "seq": 12,
+   "para": "p6",
+   "type": "speech",
+   "text": "“To see who comes back first.”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 13,
+   "para": "p6",
+   "type": "narration",
+   "text": "He looked across at Maren, and for once there was nothing in his face but honest curiosity."
+  },
+  {
+   "seq": 14,
+   "para": "p6",
+   "type": "speech",
+   "text": "“Where do you think they’ll send you?”",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p7",
+   "type": "speech",
+   "text": "“Somewhere I don’t want to go,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 16,
+   "para": "p7",
+   "type": "narration",
+   "text": "said Maren, and folded the paper, and finished her porridge.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 17,
+   "para": "p8",
+   "type": "narration",
+   "text": "Knight-Captain Ilse Rowan’s room was at the top of the north tower, up a stair so narrow you had to turn your shoulders to climb it. It was small and square and perfectly bare: a table, two chairs, a shelf of ledgers, a window looking north up the river. Nothing on the walls. No beast on a perch, no bed in the corner, no dog. Nobody at Greyhold had ever seen the Knight-Captain with a beast, and nobody had ever had the nerve to ask whether that meant she didn’t have one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p9",
+   "type": "narration",
+   "text": "She was writing when Maren came in, and she went on writing, and didn’t look up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p10",
+   "type": "narration",
+   "text": "She was smaller than Maren had expected. Fifty, perhaps. Neat and narrow, with iron-grey hair cut as short as a man’s and a plain grey coat buttoned to the throat. The second finger of her right hand was stained with ink, a deep old stain that had gone into the skin and would never come out. She wrote with that hand, quickly, in a neat slanting script that went across the page like a line of birds.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p11",
+   "type": "narration",
+   "text": "Maren stood at the door and waited. She counted. At forty-one, Rowan put the pen down and looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p12",
+   "type": "narration",
+   "text": "She had pale eyes. Not unkind. Not kind. They looked at Maren the way you’d look at a column of figures you were adding in your head.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 22,
+   "para": "p13",
+   "type": "speech",
+   "text": "“Ashdown,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 23,
+   "para": "p13",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p14",
+   "type": "speech",
+   "text": "“Knight-Captain.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p15",
+   "type": "speech",
+   "text": "“Sit down.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p16",
+   "type": "narration",
+   "text": "Maren sat. The chair was hard and too low, so that she had to look up a little across the table. She had the feeling that the chair had been chosen for that.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 27,
+   "para": "p17",
+   "type": "speech",
+   "text": "“I read your report on the roadblock,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 28,
+   "para": "p17",
+   "type": "narration",
+   "text": "said Rowan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p18",
+   "type": "speech",
+   "text": "“Yes, Knight-Captain.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p19",
+   "type": "speech",
+   "text": "“It was very good. Precise. Unembellished. Fourteen men, two crossbows, the one who talks and the one who decides.”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 31,
+   "para": "p19",
+   "type": "narration",
+   "text": "Rowan said it exactly as Maren had written it, without looking at anything."
+  },
+  {
+   "seq": 32,
+   "para": "p19",
+   "type": "speech",
+   "text": "“Most students write reports to show me how brave they were. Yours showed me what you saw. That’s rare.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p20",
+   "type": "speech",
+   "text": "“Thank you, Knight-Captain.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p21",
+   "type": "speech",
+   "text": "“You’ll have seen what I wrote on it.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p22",
+   "type": "speech",
+   "text": "“Noted.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p23",
+   "type": "speech",
+   "text": "“Noted.”",
+   "speaker": "Rowan",
+   "how": "almost amused",
+   "mood": "tension"
+  },
+  {
+   "seq": 37,
+   "para": "p23",
+   "type": "narration",
+   "text": "Rowan seemed almost amused.",
+   "mood": "tension"
+  },
+  {
+   "seq": 38,
+   "para": "p23",
+   "type": "speech",
+   "text": "“Instructor Pell will have told you what that word means. He’s very fond of explaining it.”",
+   "speaker": "Rowan",
+   "mood": "tension"
+  },
+  {
+   "seq": 39,
+   "para": "p23",
+   "type": "narration",
+   "text": "She folded her ink-stained hands on the table.",
+   "mood": "tension"
+  },
+  {
+   "seq": 40,
+   "para": "p23",
+   "type": "speech",
+   "text": "“He’s wrong, as it happens. Or half wrong. It doesn’t mean nothing will be done. It means nothing will be done yet, by me, in a way anyone can see. Those aren’t the same thing, Ashdown. You’ll find, in the orders, that the difference between them is most of the work.”",
+   "speaker": "Rowan",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 41,
+   "para": "p24",
+   "type": "narration",
+   "text": "Maren said nothing. Rowan watched her say it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p25",
+   "type": "speech",
+   "text": "“Your trial,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 43,
+   "para": "p25",
+   "type": "narration",
+   "text": "said the Knight-Captain.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 44,
+   "para": "p26",
+   "type": "speech",
+   "text": "“There is a story,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 45,
+   "para": "p26",
+   "type": "narration",
+   "text": "Rowan said,"
+  },
+  {
+   "seq": 46,
+   "para": "p26",
+   "type": "speech",
+   "text": "“about a monster on the island of the Old Ruin.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p27",
+   "type": "narration",
+   "text": "Maren felt it go through her, cold, from the top of her head to her feet, like stepping into the river in spring.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 48,
+   "para": "p28",
+   "type": "speech",
+   "text": "“You’ll know the story. Everyone on the river does. Something that breathes in the trees. Something that keeps the island. Children on both banks are frightened with it, and fishermen won’t fish within a cable of the spit, and the river watch has had a law against landing there for longer than the river watch has had a name.”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 49,
+   "para": "p28",
+   "type": "narration",
+   "text": "Rowan’s voice didn’t change at all."
+  },
+  {
+   "seq": 50,
+   "para": "p28",
+   "type": "speech",
+   "text": "“In the last month, there have been other stories. Fishermen from Tolly’s Staithe report lights on the island at night. A Hearthmere patrol boat reported a cold fire on the gravel at the south end. Two days ago a Millbrook boatman says he saw a raft go across to it from the Saltreach bank, at dusk, with men on it, and a cage.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p29",
+   "type": "speech",
+   "text": "“Hunters,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 52,
+   "para": "p29",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p30",
+   "type": "speech",
+   "text": "“Possibly.”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 54,
+   "para": "p30",
+   "type": "narration",
+   "text": "Rowan let the word sit."
+  },
+  {
+   "seq": 55,
+   "para": "p30",
+   "type": "speech",
+   "text": "“Your trial is this. You will go to the island of the Old Ruin. You will find out what is there, monster or men or both or neither. And you will bring back proof.”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 56,
+   "para": "p30",
+   "type": "narration",
+   "text": "She paused."
+  },
+  {
+   "seq": 57,
+   "para": "p30",
+   "type": "speech",
+   "text": "“Something I can hold in my hand. Not a story. Proof.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p31",
+   "type": "speech",
+   "text": "“The island’s forbidden to the river watch.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p32",
+   "type": "speech",
+   "text": "“You are not on the river watch. You haven’t been for two years. You are a candidate of the orders, under trial, and the orders can send you wherever they please.”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 60,
+   "para": "p32",
+   "type": "narration",
+   "text": "Rowan looked at her steadily."
+  },
+  {
+   "seq": 61,
+   "para": "p32",
+   "type": "speech",
+   "text": "“I’m sending you there.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p33",
+   "type": "speech",
+   "text": "“Knight-Captain. Respectfully.”",
+   "speaker": "Maren",
+   "how": "level"
+  },
+  {
+   "seq": 63,
+   "para": "p33",
+   "type": "narration",
+   "text": "Maren made herself keep her voice level."
+  },
+  {
+   "seq": 64,
+   "para": "p33",
+   "type": "speech",
+   "text": "“Why not send knights? A patrol. Six of them, in a boat, in daylight.”",
+   "speaker": "Maren",
+   "how": "level",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p34",
+   "type": "speech",
+   "text": "“Because knights are expensive,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 66,
+   "para": "p34",
+   "type": "narration",
+   "text": "said Rowan,"
+  },
+  {
+   "seq": 67,
+   "para": "p34",
+   "type": "speech",
+   "text": "“and noticed. And because if I send six knights to the island of the Old Ruin in daylight, everyone on both banks will want to know why the orders are suddenly interested in it, after two hundred years of saying it’s nothing. And I would rather they didn’t wonder.”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 68,
+   "para": "p34",
+   "type": "narration",
+   "text": "She tilted her head."
+  },
+  {
+   "seq": 69,
+   "para": "p34",
+   "type": "speech",
+   "text": "“Whereas a student on trial goes where she’s sent and nobody thinks twice. Students are sent to strange places every autumn. It’s the custom.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p35",
+   "type": "thought",
+   "text": "And if a student doesn’t come back,",
+   "speaker": "Maren",
+   "mood": "dread"
+  },
+  {
+   "seq": 71,
+   "para": "p35",
+   "type": "narration",
+   "text": "Maren thought,",
+   "mood": "dread"
+  },
+  {
+   "seq": 72,
+   "para": "p35",
+   "type": "thought",
+   "text": "it’s a sad accident, and noted.",
+   "speaker": "Maren",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 73,
+   "para": "p36",
+   "type": "narration",
+   "text": "She didn’t say it. Rowan looked at her as if she had.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p37",
+   "type": "speech",
+   "text": "“You have until the new moon,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 75,
+   "para": "p37",
+   "type": "narration",
+   "text": "said the Knight-Captain."
+  },
+  {
+   "seq": 76,
+   "para": "p37",
+   "type": "speech",
+   "text": "“A fortnight, a little more. You’ll take a river-watch skiff from Redwatch. You’ll take food for ten days. You’ll go alone; that’s also the custom. If you find men, you’ll observe them and not engage. If you find a monster…”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 77,
+   "para": "p37",
+   "type": "narration",
+   "text": "She considered."
+  },
+  {
+   "seq": 78,
+   "para": "p37",
+   "type": "speech",
+   "text": "“Use your judgement. Instructor Pell tells me you have some.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p38",
+   "type": "speech",
+   "text": "“And if I find nothing?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p39",
+   "type": "speech",
+   "text": "“Then bring me proof of nothing,”",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 81,
+   "para": "p39",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 82,
+   "para": "p39",
+   "type": "speech",
+   "text": "“That’s harder. I’ll be interested to see how you do it.”",
+   "speaker": "Rowan",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 83,
+   "para": "p40",
+   "type": "narration",
+   "text": "At the door, Maren stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p41",
+   "type": "speech",
+   "text": "“Knight-Captain. Where are you sending Haverly?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p42",
+   "type": "narration",
+   "text": "Rowan had already picked up her pen. She didn’t look up.",
+   "mood": "tension"
+  },
+  {
+   "seq": 86,
+   "para": "p42",
+   "type": "speech",
+   "text": "“Lucan Haverly will ride the Scarfell road on the Saltreach side, with his bird, as far as the Clan’s border, and bring me back a count of the Clan’s war-strength. Riders, dragons, hired men. In a drover’s coat, without the pin, and he was never there. No knight crosses. A student on trial isn’t a knight yet.”",
+   "speaker": "Rowan",
+   "mood": "tension"
+  },
+  {
+   "seq": 87,
+   "para": "p42",
+   "type": "narration",
+   "text": "She dipped the pen.",
+   "mood": "tension"
+  },
+  {
+   "seq": 88,
+   "para": "p42",
+   "type": "speech",
+   "text": "“The Clan’s quarrel is coming to a head, Ashdown. The old chief’s brother and his son poured the ashes together at Coldtarn, and every fool on the river thinks that means peace. It doesn’t. It means each of them has felt the other’s hand on the urn, and knows exactly how strong it is.”",
+   "speaker": "Rowan",
+   "mood": "tension"
+  },
+  {
+   "seq": 89,
+   "para": "p42",
+   "type": "narration",
+   "text": "She wrote a line.",
+   "mood": "tension"
+  },
+  {
+   "seq": 90,
+   "para": "p42",
+   "type": "speech",
+   "text": "“Something will break across the river before the moon is new. When it does, I’d like to know what it was, and I’d like to know what’s on that island, and I’d like to know both before anyone else does.”",
+   "speaker": "Rowan",
+   "mood": "tension"
+  },
+  {
+   "seq": 91,
+   "para": "p42",
+   "type": "narration",
+   "text": "She glanced up, briefly, with her pale eyes.",
+   "mood": "tension"
+  },
+  {
+   "seq": 92,
+   "para": "p42",
+   "type": "speech",
+   "text": "“That’s what noted means. Close the door.”",
+   "speaker": "Rowan",
+   "mood": "tension",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 93,
+   "para": "p43",
+   "type": "narration",
+   "text": "Pell was waiting at the bottom of the north tower stair, leaning on the wall, as if he’d happened to be passing. He hadn’t. He fell in beside her as she went out across the yard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p44",
+   "type": "speech",
+   "text": "“Where?”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p45",
+   "type": "speech",
+   "text": "“The island.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p46",
+   "type": "narration",
+   "text": "He didn’t say anything for ten paces. Then:"
+  },
+  {
+   "seq": 97,
+   "para": "p46",
+   "type": "speech",
+   "text": "“She told you why.”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p47",
+   "type": "speech",
+   "text": "“She told me a reason.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p48",
+   "type": "speech",
+   "text": "“That’s the same thing, with her.”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 100,
+   "para": "p48",
+   "type": "narration",
+   "text": "Pell walked a while. Then he stopped in the shadow of the armoury, under the carving over the door that said"
+  },
+  {
+   "seq": 101,
+   "para": "p48",
+   "type": "written",
+   "text": "SUBDUE, DON’T KILL"
+  },
+  {
+   "seq": 102,
+   "para": "p48",
+   "type": "narration",
+   "text": "in letters three hundred years old, and unbuckled the sword at his own hip, sheath and belt and all, and held it out to her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p49",
+   "type": "narration",
+   "text": "She stared at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p50",
+   "type": "speech",
+   "text": "“Students take practice swords on trial,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 105,
+   "para": "p50",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 106,
+   "para": "p50",
+   "type": "speech",
+   "text": "“It’s the custom.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p51",
+   "type": "speech",
+   "text": "“It’s also the custom to go alone, and to come back. We’ll see which customs hold.”",
+   "speaker": "Pell",
+   "mood": "tender"
+  },
+  {
+   "seq": 108,
+   "para": "p51",
+   "type": "narration",
+   "text": "He kept holding it out.",
+   "mood": "tender"
+  },
+  {
+   "seq": 109,
+   "para": "p51",
+   "type": "speech",
+   "text": "“It’s a plain blade. Ashford work, thirty years old. It’s been sharpened more times than you’ve had breakfasts. It’s not lucky and it’s not magic and nobody’s ever named it. It just cuts.”",
+   "speaker": "Pell",
+   "mood": "tender"
+  },
+  {
+   "seq": 110,
+   "para": "p51",
+   "type": "narration",
+   "text": "His face didn’t change.",
+   "mood": "tender"
+  },
+  {
+   "seq": 111,
+   "para": "p51",
+   "type": "speech",
+   "text": "“You won’t use it on whatever’s on that island. I know that. I taught you. But there may be men on it who haven’t been taught, and I’d like you to have something better than a tin stick if you meet them.”",
+   "speaker": "Pell",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p52",
+   "type": "narration",
+   "text": "She took it. It was heavier than the practice sword, and better balanced, and the grip was worn smooth in a shape that wasn’t her hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p53",
+   "type": "speech",
+   "text": "“Thank you, Instructor.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p54",
+   "type": "speech",
+   "text": "“Bring it back,”",
+   "speaker": "Pell",
+   "mood": "tender"
+  },
+  {
+   "seq": 115,
+   "para": "p54",
+   "type": "narration",
+   "text": "said Pell.",
+   "mood": "tender"
+  },
+  {
+   "seq": 116,
+   "para": "p54",
+   "type": "speech",
+   "text": "“That’s all. I don’t care what else you bring back. Bring that back, with you attached to it.”",
+   "speaker": "Pell",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p55",
+   "type": "narration",
+   "text": "He walked off across the yard before she could answer.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 118,
+   "para": "p56",
+   "type": "narration",
+   "text": "Her mother was hanging out washing behind the ferry house when Maren came down the landing steps in the afternoon with a pack on her back and a sword at her hip that wasn’t hers.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p57",
+   "type": "narration",
+   "text": "Liss looked at the sword. Then the pack. Then Maren’s face. She put down the shirt she was holding, very carefully, over the line, as if it might break.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 120,
+   "para": "p58",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 121,
+   "para": "p58",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p59",
+   "type": "speech",
+   "text": "“Ma.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p60",
+   "type": "speech",
+   "text": "“No. Whatever it is. Whatever they’ve told you to do with that thing on your hip. No.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p61",
+   "type": "speech",
+   "text": "“It’s my trial.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p62",
+   "type": "speech",
+   "text": "“I know what it is. I’ve seen that look before.”",
+   "speaker": "Liss",
+   "mood": "grief"
+  },
+  {
+   "seq": 126,
+   "para": "p62",
+   "type": "narration",
+   "text": "Liss came round the washing line. She wasn’t tall; she had to tip her head back to look Maren in the face, and she did it, fiercely.",
+   "mood": "grief"
+  },
+  {
+   "seq": 127,
+   "para": "p62",
+   "type": "speech",
+   "text": "“I saw it on your father. The night before his trial. Twenty-nine years ago, on these steps. He came down with a pack and a borrowed sword and that exact look, like a man who’s already left and is just waiting for his feet to catch up.”",
+   "speaker": "Liss",
+   "how": "voice cracking",
+   "mood": "grief"
+  },
+  {
+   "seq": 128,
+   "para": "p62",
+   "type": "narration",
+   "text": "Her voice cracked and she ignored it.",
+   "mood": "grief"
+  },
+  {
+   "seq": 129,
+   "para": "p62",
+   "type": "speech",
+   "text": "“Where are they sending you?”",
+   "speaker": "Liss",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 130,
+   "para": "p63",
+   "type": "narration",
+   "text": "Maren told her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p64",
+   "type": "narration",
+   "text": "Liss stood very still in the afternoon sun, among the washing, with the river going by below the landing, and she looked upriver past the bend at the dark green lump of the island in the middle of the water, and Maren watched her face go white, all at once.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 132,
+   "para": "p65",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Liss",
+   "how": "quietly, as if to herself",
+   "mood": "quiet"
+  },
+  {
+   "seq": 133,
+   "para": "p65",
+   "type": "narration",
+   "text": "said Liss again, but quietly now, as if to herself.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p66",
+   "type": "speech",
+   "text": "“Ma. It’s a trial. They send everyone somewhere.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p67",
+   "type": "speech",
+   "text": "“They don’t send everyone there.”",
+   "speaker": "Liss",
+   "mood": "urgent"
+  },
+  {
+   "seq": 136,
+   "para": "p67",
+   "type": "narration",
+   "text": "Her mother turned.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 137,
+   "para": "p67",
+   "type": "speech",
+   "text": "“Do you know what your father said, the morning after he spent the night on that spit? He said, Liss, there’s something on that island that isn’t finished. That’s all. He never said what. He never went near it again, not as long as he lived, not even to fish. And now they’re sending his daughter to go and knock on its door.”",
+   "speaker": "Liss",
+   "mood": "urgent"
+  },
+  {
+   "seq": 138,
+   "para": "p67",
+   "type": "narration",
+   "text": "She gripped Maren’s arms.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 139,
+   "para": "p67",
+   "type": "speech",
+   "text": "“Say no. You can say no. Tell them you’ll take a different trial. Tell them you’re sick. Tell them anything. Come home. I’ll go up there myself and tell that woman in the tower…”",
+   "speaker": "Liss",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p68",
+   "type": "speech",
+   "text": "“Ma. If I say no, I’m finished. They’ll send me home with a letter and a turnip horse, and that’ll be the end of it. Twenty-seven, and nothing.”",
+   "speaker": "Maren",
+   "how": "flat, hard, very quiet",
+   "mood": "anger"
+  },
+  {
+   "seq": 141,
+   "para": "p68",
+   "type": "narration",
+   "text": "She held her mother’s wrists.",
+   "mood": "anger"
+  },
+  {
+   "seq": 142,
+   "para": "p68",
+   "type": "speech",
+   "text": "“I’ve done everything else. Every bout, every patrol, every privy. I put Haverly on his back. I let the duskcat go. And they gave him first lance and they gave me Turnip, and now they’ve given me the island, because they think I’ll either fail or not come back, and either way it’s tidy.”",
+   "speaker": "Maren",
+   "how": "flat, hard, very quiet",
+   "mood": "anger"
+  },
+  {
+   "seq": 143,
+   "para": "p68",
+   "type": "narration",
+   "text": "She heard her own voice, flat and hard and very quiet, and didn’t stop it.",
+   "mood": "anger"
+  },
+  {
+   "seq": 144,
+   "para": "p68",
+   "type": "speech",
+   "text": "“So I’m going to go. And I’m going to come back. And I’m going to bring them something they didn’t expect. That’s all I’ve got, Ma. It’s all I’ve ever had.”",
+   "speaker": "Maren",
+   "how": "flat, hard, very quiet",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p69",
+   "type": "narration",
+   "text": "Liss looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p70",
+   "type": "speech",
+   "text": "“You’re him,”",
+   "speaker": "Liss",
+   "mood": "grief"
+  },
+  {
+   "seq": 147,
+   "para": "p70",
+   "type": "narration",
+   "text": "she said at last.",
+   "mood": "grief"
+  },
+  {
+   "seq": 148,
+   "para": "p70",
+   "type": "speech",
+   "text": "“You’re him all over. Gods help us both.”",
+   "speaker": "Liss",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 149,
+   "para": "p71",
+   "type": "narration",
+   "text": "She let go of Maren’s arms. She reached up and took Maren’s face in her two rough hands, the way she hadn’t since Maren was small, and held it.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Promise me one thing,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 151,
+   "para": "p72",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p73",
+   "type": "speech",
+   "text": "“Anything.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p74",
+   "type": "speech",
+   "text": "“If you hear it breathing,”",
+   "speaker": "Liss",
+   "mood": "quiet"
+  },
+  {
+   "seq": 154,
+   "para": "p74",
+   "type": "narration",
+   "text": "said Liss Ashdown,",
+   "mood": "quiet"
+  },
+  {
+   "seq": 155,
+   "para": "p74",
+   "type": "speech",
+   "text": "“you lie still, and you count, and you don’t go looking. Whatever it is. You let it breathe. You promise me.”",
+   "speaker": "Liss",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p75",
+   "type": "narration",
+   "text": "Maren thought about her father lying on the spit all night in the fog, listening to something breathe like a bellows in a forge. She thought about how he’d never gone near it again. She thought about Pell’s sword at her hip, and Rowan’s pale eyes, and"
+  },
+  {
+   "seq": 157,
+   "para": "p75",
+   "type": "remembered",
+   "text": "bring me proof",
+   "speaker": "Rowan"
+  },
+  {
+   "seq": 158,
+   "para": "p75",
+   "type": "narration",
+   "text": ".",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p76",
+   "type": "speech",
+   "text": "“I promise,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 160,
+   "para": "p76",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p77",
+   "type": "narration",
+   "text": "Her mother knew she was lying. Maren saw her know it. Liss let go of her face and turned back to the washing line and picked up the shirt she’d put down and pegged it out, very neatly, with her back turned.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 162,
+   "para": "p78",
+   "type": "speech",
+   "text": "“Go on, then,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 163,
+   "para": "p78",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 164,
+   "para": "p78",
+   "type": "speech",
+   "text": "“Take the good rope. It’s in the boathouse. And there’s bread in the crock. Hanna the keeping-wife said her words over it on market day, so it’ll last. Take all of it.”",
+   "speaker": "Liss",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 165,
+   "para": "p79",
+   "type": "narration",
+   "text": "She took the skiff from Redwatch the next day at the end of the afternoon. Ottery saw her off. He never mentioned the law against landing on the island, and he didn’t ask where she was going. He just checked the skiff’s seams with his thumb, one by one, all the way round, and put an extra blanket in the bow, and a flask of oil for the lamp, since the river watch had never been licensed a lamp-word in its history and never would be, and stood on the bank with his hands in his pockets.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p80",
+   "type": "speech",
+   "text": "“Ten days’ food,”",
+   "speaker": "Ottery"
+  },
+  {
+   "seq": 167,
+   "para": "p80",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 168,
+   "para": "p80",
+   "type": "speech",
+   "text": "“You’ll want to make it last twelve. Nothing on that island you can eat, unless you like bark.”",
+   "speaker": "Ottery",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p81",
+   "type": "speech",
+   "text": "“I’ll manage.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p82",
+   "type": "speech",
+   "text": "“Course you will.”",
+   "speaker": "Ottery"
+  },
+  {
+   "seq": 171,
+   "para": "p82",
+   "type": "narration",
+   "text": "He looked out across the channel."
+  },
+  {
+   "seq": 172,
+   "para": "p82",
+   "type": "speech",
+   "text": "“Ashdown. If you see lights on that spit at night, you keep your lamp shuttered. You hear me? You keep it shuttered and you keep your head down. Whoever’s lighting fires on that island isn’t fishing.”",
+   "speaker": "Ottery",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p83",
+   "type": "speech",
+   "text": "“I know.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p84",
+   "type": "speech",
+   "text": "“I know you know. I’m saying it anyway, so I can tell your mother I did.”",
+   "speaker": "Ottery",
+   "mood": "humour"
+  },
+  {
+   "seq": 175,
+   "para": "p84",
+   "type": "narration",
+   "text": "He pushed the skiff off with his boot.",
+   "mood": "humour"
+  },
+  {
+   "seq": 176,
+   "para": "p84",
+   "type": "speech",
+   "text": "“Go on. Mind the west channel. It’s silted to buggery since the summer.”",
+   "speaker": "Ottery",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p85",
+   "type": "narration",
+   "text": "She rowed out from the boathouse into the west channel in the long slanting light. The skiff was light and quick, and her arms remembered every stroke. Past the mouth of a ditch where she’d once found a drowned calf in her first spring on the river watch. Past the place where the bank rose into a low bluff with alders on top, and the channel opened out ahead of her, and there it was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p86",
+   "type": "narration",
+   "text": "The island of the Old Ruin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p87",
+   "type": "narration",
+   "text": "It sat in the middle of the Wend where the river split, long and narrow, a third of a league from end to end, rising in the middle to a low hump covered in trees. Oak and ash and alder, old ones, close together, leaning out over the water on both sides. Through the trees, at the top of the hump, she could see the stump of the tower: grey, broken off at the height of three men, with something that might once have been an arch beside it. At the south end a long gravel spit ran out into the river where the current split, the water piling white against the stones. Off the middle of the island, in the west channel, low in the dry summer’s water, three stumps of masonry broke the surface: the piers of a bridge that hadn’t been a bridge for longer than anyone could remember.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p88",
+   "type": "narration",
+   "text": "She’d seen it a thousand times. From the water, from the watch boats, from the river wall at Greyhold. She’d never seen it like this: with the sun going down behind her and the light going up the trees in a long gold wash, and the shadows coming out from under them, and nothing between her and the spit but forty strokes of brown water.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 181,
+   "para": "p89",
+   "type": "narration",
+   "text": "Across the river, on the Saltreach bank, there were fires.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p90",
+   "type": "narration",
+   "text": "Bonfires this time: a big one and several small, in the fields above a village she knew from the river, Harrow’s End, at the mouth of Hollow Beck. She could hear, very faint across the water, music: a fiddle, and drums, and people singing. The harvest fair. Someone was letting off sparks; they went up from the big fire in a long red stream and hung in the dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p91",
+   "type": "narration",
+   "text": "She thought about a quiet farmer from Harrow’s End who’d run two leagues in the dark to his sister’s burning farm. She wondered if he was over there, by that fire, dancing. She thought probably not. She thought he probably stood at the back.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p92",
+   "type": "narration",
+   "text": "She shipped her oars and let the skiff drift in the last of the light, and sat there with her hands on her knees and looked at the spit, and counted. Forty strokes. Thirty, with the current. Twenty-five, if she put her back into it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p93",
+   "type": "remembered",
+   "text": "If you hear it breathing, you lie still, and you count, and you don’t go looking.",
+   "speaker": "Liss",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 186,
+   "para": "p94",
+   "type": "narration",
+   "text": "The sun went down behind the Hearthmere bank. The trees on the island went from gold to grey to black. Across the water, the fiddle at the Harrow’s End fair went up into a reel, and somebody whooped.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p95",
+   "type": "narration",
+   "text": "Maren put out the oars, and put her back into it, and went in.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  }
+ ]
+}

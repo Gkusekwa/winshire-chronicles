@@ -1,0 +1,974 @@
+{
+ "chapter": 43,
+ "title": "Footprints",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Forty-three.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Footprints.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The channel had frozen hard in the night of the eightieth, and on the eighty-first, at dusk, Ottery walked her across it himself.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "He didn’t say he would. He was at the Redwatch boathouse when she rode in on Turnip after evening muck, with a pole in one hand and a lantern in the other, standing at the edge of the reeds where the ice began. The lantern was oil, old and smoky. River men never carried a crown lamp out on the water; Ottery said the dusk-word slid off it at the first ripple, and he wasn’t going to find out what it did on ice. He’d been out on it already. She could see his tracks in the snow, going out and coming back, and the holes where he’d driven the pole down every few paces to listen to it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "speech",
+   "text": "“Three hands thick at the channel,”",
+   "speaker": "Ottery"
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 7,
+   "para": "p3",
+   "type": "speech",
+   "text": "“Four at the edges. She’ll hold you.”",
+   "speaker": "Ottery"
+  },
+  {
+   "seq": 8,
+   "para": "p3",
+   "type": "narration",
+   "text": "He looked at her."
+  },
+  {
+   "seq": 9,
+   "para": "p3",
+   "type": "speech",
+   "text": "“She’ll not hold you if you’re a fool on her. So you’ll walk where I walk. And you’ll come back where I come back. And you’ll be back on this bank by full dark.”",
+   "speaker": "Ottery",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p4",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p5",
+   "type": "speech",
+   "text": "“Two days ago,”",
+   "speaker": "Ottery"
+  },
+  {
+   "seq": 12,
+   "para": "p5",
+   "type": "narration",
+   "text": "said Ottery,"
+  },
+  {
+   "seq": 13,
+   "para": "p5",
+   "type": "speech",
+   "text": "“you went under that. You’ve been in the guardroom with your feet in a bucket since.”",
+   "speaker": "Ottery"
+  },
+  {
+   "seq": 14,
+   "para": "p5",
+   "type": "narration",
+   "text": "He shook his head."
+  },
+  {
+   "seq": 15,
+   "para": "p5",
+   "type": "speech",
+   "text": "“And here you are.”",
+   "speaker": "Ottery",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p6",
+   "type": "narration",
+   "text": "She kept her eyes on the ice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p7",
+   "type": "speech",
+   "text": "“Your mother says I’m to let you,”",
+   "speaker": "Ottery",
+   "mood": "humour"
+  },
+  {
+   "seq": 18,
+   "para": "p7",
+   "type": "narration",
+   "text": "said Ottery.",
+   "mood": "humour"
+  },
+  {
+   "seq": 19,
+   "para": "p7",
+   "type": "speech",
+   "text": "“She says if I don’t you’ll go anyway, without a pole.”",
+   "speaker": "Ottery",
+   "mood": "humour"
+  },
+  {
+   "seq": 20,
+   "para": "p7",
+   "type": "narration",
+   "text": "He turned and walked out onto the ice.",
+   "mood": "humour"
+  },
+  {
+   "seq": 21,
+   "para": "p7",
+   "type": "speech",
+   "text": "“She’s right. Come on.”",
+   "speaker": "Ottery",
+   "mood": "humour",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 22,
+   "para": "p8",
+   "type": "narration",
+   "text": "She’d thought it would be different. After the ice. After the dark under the river, and the thing that had come down through the light. She’d thought, crossing the white with Ottery’s pole knocking ahead of her, that something would have changed. That she’d sit by the stream and it would come out of the trees and be something else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p9",
+   "type": "narration",
+   "text": "Nothing had.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p10",
+   "type": "narration",
+   "text": "She built her fire on the flat stones at the water’s edge, small, the way she always did, with the kindling she’d brought in her coat. The stream was frozen over, a white ribbon running down between the snow-covered banks, with a dark thread of water still moving under the ice in the middle where it was fastest. She sat down in the snow in her place. At the hour, it came out of the trees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p11",
+   "type": "narration",
+   "text": "On her side. It had stayed on her side, since the night she’d cried. It came down out of the oaks to the north along the bank, slow and heavy in the snow, with its breath going up in clouds and the frost on its mane, and the collar on its neck under the frost, and the cut chain dragging. Ten feet at the shoulder. It stopped at the edge of the trees and looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p12",
+   "type": "narration",
+   "text": "She looked back. She didn’t look away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p13",
+   "type": "thought",
+   "text": "You pulled me out,",
+   "speaker": "Maren",
+   "mood": "quiet"
+  },
+  {
+   "seq": 28,
+   "para": "p13",
+   "type": "narration",
+   "text": "she thought at it.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 29,
+   "para": "p13",
+   "type": "thought",
+   "text": "Didn’t you. It was you.",
+   "speaker": "Maren",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p14",
+   "type": "narration",
+   "text": "It looked at her with its pale eyes. Then it came on, along the bank, to the place where the snow was already pressed down in a long hollow from before, and lay down in it, and put its great head on its forepaws, and watched her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p15",
+   "type": "narration",
+   "text": "That was all.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p16",
+   "type": "narration",
+   "text": "She sat there till the light went and the stars came. She fed the fire. When it was full dark she got up, and it lifted its head and watched her go down to the reeds where Ottery stood with the lantern, and didn’t follow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p17",
+   "type": "narration",
+   "text": "On the ice, halfway across, she looked back. She could see her fire, small and red on the stones. Beside it, a great dark shape lying in the snow, still there. Still watching.",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 34,
+   "para": "p18",
+   "type": "narration",
+   "text": "She went back the next evening because she’d forgotten her flint.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p19",
+   "type": "narration",
+   "text": "That was what she told Ottery. It was true. She’d left it on the stones by the fire. She could have got another from the stores. She told him she’d forgotten it and he looked at her and picked up the pole without a word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p20",
+   "type": "narration",
+   "text": "The snow had held everything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p21",
+   "type": "narration",
+   "text": "There’d been no new fall in the night, and no wind, and it had frozen hard, so that when she came up the bank from the reeds in the dusk every mark in the snow was still there exactly as it had been made, crisp at the edges, as if it had been cut with a knife. Her own prints, coming up from the reeds the night before, going to the stones, sitting, going away. The lion’s, great and round, coming down from the north on her side, and the long hollow where it had lain. The black ring of her fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p22",
+   "type": "narration",
+   "text": "And a man’s.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 39,
+   "para": "p23",
+   "type": "narration",
+   "text": "She stopped at the top of the bank with Ottery’s lantern in her hand and looked at them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p24",
+   "type": "narration",
+   "text": "They were over hers. On top. Where she’d walked up from the reeds, they’d walked too, after her, and pressed down her narrow boot-prints with their own. Big. Broad. Heavy. A man’s boots, and not a knight’s. She knew knights’ boots; she mucked out under them every morning. These had hobnails. She could see the marks of them in the bottom of every print, a pattern of little round dents. Marches hobnails. Farmers’ boots. The kind every man on the Saltreach bank wore from the time he could walk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p25",
+   "type": "narration",
+   "text": "She went down on one knee beside them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p26",
+   "type": "narration",
+   "text": "They came to her fire. They stood there. They knelt; she could see the two deep dents of knees in the snow beside the black ring of the stones, and the press of a hand, flat, on the stones themselves. Then they got up and went along the bank to the long hollow where the lion had lain, and stood beside it a while; she could see where the weight had shifted from foot to foot. Then they went north. Along the lion’s path, into the trees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p27",
+   "type": "narration",
+   "text": "She followed them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p28",
+   "type": "narration",
+   "text": "She didn’t think about it. She followed them up the bank and into the oaks along the wide beaten path, with the lantern held low, and the lion’s great round prints going on ahead, and the man’s hobnailed boots going on beside them, through the snow. Until the path came round a bend where the oaks leaned in close, a long way short of the hollow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p29",
+   "type": "narration",
+   "text": "There the man’s prints stopped.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 46,
+   "para": "p30",
+   "type": "narration",
+   "text": "They had stood a while; the snow was trodden flat. Then they went back without turning round. She could see it in the prints: the toes pointing forward, toward the hollow, and the prints going backward, step by step, a long way, before they turned.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p31",
+   "type": "narration",
+   "text": "He’d backed away. He’d come up the path in the dark following the lion, and heard it, and backed away.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 48,
+   "para": "p32",
+   "type": "narration",
+   "text": "She stood at the bend in the path in the dark with the lantern and looked at where he’d stood. Then she looked up the path into the dark under the oaks, where the lion’s prints went on alone, and listened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p33",
+   "type": "narration",
+   "text": "Nothing. It wasn’t there tonight. Or it was, and it was being very quiet.",
+   "mood": "dread",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 50,
+   "para": "p34",
+   "type": "narration",
+   "text": "She went back to the fort. She knew where the prints would go before she found them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p35",
+   "type": "narration",
+   "text": "They’d come up from the east shore. She found that easily: the man’s hobnails coming up out of the trees on the island’s eastern side, from the white causeway of ice that ran back across to the Saltreach bank. Up through the trees to the old road. Along the road, down the middle, in the snow. To the tower.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p36",
+   "type": "narration",
+   "text": "They’d stood under the arch a while, under the verse. The snow was trodden flat there too, in front of the doorway, as if somebody had stood looking up at something he couldn’t read.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p37",
+   "type": "narration",
+   "text": "Then down to the spit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p38",
+   "type": "narration",
+   "text": "She found what he’d done there by lantern-light, and stood looking at it with her mouth set.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p39",
+   "type": "narration",
+   "text": "The hunters’ chains still lay in the snow across the gravel, where they’d fallen when the lion stood up out of them. Rusted orange. The stake at the foot of the stair, with the stub of the collar-chain round its head where she’d cut it. She knew every piece; she’d seen them every time she came. Someone had taken a length out of one of the body-chains. Two links rusted thin, prised open with a blade, worked and worked till they gave. She could see the bright raw scratches at the breaks, shining through the rust, new.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p40",
+   "type": "narration",
+   "text": "He’d taken it. An arm’s length of the hunters’ chain, with the ring of six on every link.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p41",
+   "type": "narration",
+   "text": "She stood on the frozen spit in the dark and thought about that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p42",
+   "type": "thought",
+   "text": "A hunter wouldn’t break up his own chain,",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 59,
+   "para": "p42",
+   "type": "narration",
+   "text": "she thought."
+  },
+  {
+   "seq": 60,
+   "para": "p42",
+   "type": "thought",
+   "text": "A hunter would take the whole of it, or none. A hunter would have come with a sledge.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p43",
+   "type": "thought",
+   "text": "Somebody who wanted to remember what it looked like.",
+   "speaker": "Maren",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p44",
+   "type": "narration",
+   "text": "She thought of a link of chain in her own coat pocket. Cut from a cold fire on her first night. Carried every day since. Laid on Rowan’s desk. Held up beside Tam’s iron ring on the end of a jetty.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 63,
+   "para": "p45",
+   "type": "narration",
+   "text": "She almost didn’t find the scale.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p46",
+   "type": "narration",
+   "text": "She’d gone back to the stream for her flint, which was what she’d come for, and it was there on the stones where she’d left it. She picked it up and put it in her pocket and stood up, and the lantern swung, and the light went across the snow beside the black ring of the fire where the man had knelt, and something in the snow shone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p47",
+   "type": "narration",
+   "text": "Green.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 66,
+   "para": "p48",
+   "type": "narration",
+   "text": "She knelt and brushed the snow away with her hand, and her hand stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p49",
+   "type": "narration",
+   "text": "It was a scale. She knew it at once for what it was, though she’d never held one, though she’d only ever seen them from a long way off, on great shapes going over the Scarfell on summer evenings. It was lying half buried in the snow where the man had knelt, where it must have fallen from him. It was as broad as a round shield. Thin as slate. Shaped like a leaf, with a long point at one end and a curved edge at the other, and fine ridges running out from the middle. Green. A deep shining green, the green of a beetle’s back, that went to bronze at the edges where the light caught it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p50",
+   "type": "narration",
+   "text": "She put her hand on it. It was warm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p51",
+   "type": "narration",
+   "text": "The fire had been dead a day. This warmth came from inside it. The way a hearthstone is warm the morning after, when you put your hand on it in the cold kitchen and the heat comes up into your palm out of the stone. She knelt in the snow with her hand flat on a dragon’s scale on a frozen island in the middle of the night, and it was warm.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 70,
+   "para": "p52",
+   "type": "narration",
+   "text": "She picked it up. It was light. Much lighter than it looked. She held it up to the lantern, and the light came through the edges of it, green and gold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p53",
+   "type": "thought",
+   "text": "Green.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p54",
+   "type": "narration",
+   "text": "The little green one. The one Haverly had seen in the burned field above Harrow’s End, and Kesh had seen going north over the river on the night Ide died."
+  },
+  {
+   "seq": 73,
+   "para": "p54",
+   "type": "remembered",
+   "text": "One big, one middling, one small.",
+   "speaker": "Haverly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p55",
+   "type": "narration",
+   "text": "She looked down at the hobnailed boot-prints, kneeling beside the stones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p56",
+   "type": "thought",
+   "text": "A farmer,",
+   "speaker": "Maren",
+   "mood": "reflective"
+  },
+  {
+   "seq": 76,
+   "para": "p56",
+   "type": "narration",
+   "text": "she thought, and set the thought down carefully, as you put your foot down on ice you don’t trust.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 77,
+   "para": "p56",
+   "type": "thought",
+   "text": "A farmer, from the far bank, in Marches boots. Who walked across the ice in the dark to the Old Ruin. And looked at the verse, and cut a length of the hunters’ chain, and knelt by my fire. And followed the lion to the oaks, and heard it, and backed away.",
+   "speaker": "Maren",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p57",
+   "type": "thought",
+   "text": "And had a dragon’s scale in his coat.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p58",
+   "type": "narration",
+   "text": "The whole river knew his name. Calder Fenn. It was on a paper on the market cross at Cotter’s Cross, with two hundred silver beside it. Liss had told her that, at supper, a week ago, shaking her head."
+  },
+  {
+   "seq": 80,
+   "para": "p58",
+   "type": "remembered",
+   "text": "A barley farmer. Two hundred silver. For having three dragons he never asked for.",
+   "speaker": "Liss",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 81,
+   "para": "p59",
+   "type": "narration",
+   "text": "The lion came while she was still kneeling there with the scale in her hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p60",
+   "type": "narration",
+   "text": "She heard it before she saw it, the slow heavy tread in the snow coming down from the north, and kept still. It came out of the trees onto the bank and stopped, and she saw it lift its head and smell the air, and smell it again, and its lip went back from its teeth.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 83,
+   "para": "p61",
+   "type": "narration",
+   "text": "It went to the man’s prints.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p62",
+   "type": "narration",
+   "text": "It came along the bank to the place where the hobnailed boots had stood by the long hollow, and put its great head down to them, and smelled them. Long. Deep. She could hear the breath going in. Along them, to the stones, to where he’d knelt. Its lip was back the whole time. A low sound came out of it, deep down, not a growl, more like a cart going over a bridge a long way off, and under her knees she felt the ground under the snow tremble with it, very faintly, the way it had trembled the night the dragon went over the moon.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 85,
+   "para": "p63",
+   "type": "narration",
+   "text": "It turned its head and looked at her. At what she held.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p64",
+   "type": "narration",
+   "text": "She knelt in the snow with the green scale in her two hands, and the lion stood over the place where the man had knelt, a few paces from her, closer than it had come since the night it pinned her in the stream, and looked at the scale.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p65",
+   "type": "narration",
+   "text": "It put its head down toward the scale. She held still, and its great scarred muzzle came down out of the dark until it was a hand’s breadth from the green shining thing in her hands, and its nostrils went wide, and it breathed in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p66",
+   "type": "narration",
+   "text": "And went still.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 89,
+   "para": "p67",
+   "type": "narration",
+   "text": "She’d never seen it so still, not asleep in the sun on the shore, not lying in the arch keeping the door. It was the stillness of a hound that hears its name from a long way off. It stood over her with its muzzle a hand’s breadth from the scale and didn’t breathe, and the ground under the snow went quiet.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 90,
+   "para": "p68",
+   "type": "narration",
+   "text": "It lifted its head and turned it east. Away from her, away from the fire, across the island and the white causeway of ice and the frozen river, toward the Saltreach bank and the dark line of the hills beyond it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p69",
+   "type": "narration",
+   "text": "It stood looking east with the frost on its mane.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p70",
+   "type": "narration",
+   "text": "She looked where it was looking. She couldn’t see anything. Hills. Dark. A few stars. Somewhere over there, beyond the river, beyond Harrow’s End, a farmer in hobnailed boots who’d lost a scale.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p71",
+   "type": "narration",
+   "text": "At last the lion turned away, and went back along the bank to the long hollow, and lay down in it, and put its head on its paws.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p72",
+   "type": "narration",
+   "text": "She knelt in the snow with the scale against her chest, warm through her coat, until her knees had no feeling in them.",
+   "mood": "quiet",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 95,
+   "para": "p73",
+   "type": "speech",
+   "text": "“Anything?”",
+   "speaker": "Ottery"
+  },
+  {
+   "seq": 96,
+   "para": "p73",
+   "type": "narration",
+   "text": "said Ottery, at the reeds.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p74",
+   "type": "narration",
+   "text": "He’d been standing there with the lantern for an hour. He looked at her face, coming down the bank in the dark, and then at her coat, buttoned over something flat and broad that hadn’t been there when she went up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p75",
+   "type": "speech",
+   "text": "“My flint,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 99,
+   "para": "p75",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 100,
+   "para": "p75",
+   "type": "speech",
+   "text": "“I found it.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p76",
+   "type": "narration",
+   "text": "Ottery looked at her coat a moment longer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p77",
+   "type": "speech",
+   "text": "“Good,”",
+   "speaker": "Ottery",
+   "mood": "quiet"
+  },
+  {
+   "seq": 103,
+   "para": "p77",
+   "type": "narration",
+   "text": "he said, and turned round, and walked out onto the ice.",
+   "mood": "quiet",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 104,
+   "para": "p78",
+   "type": "narration",
+   "text": "Pell asked her at the Lesson Wall the next morning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p79",
+   "type": "narration",
+   "text": "It was the order. Everybody knew it. Since Ferriby, since the second rider with Greyhold’s seal, Rowan’s order had been posted on the door of every guardroom on the river and read out in the yard."
+  },
+  {
+   "seq": 106,
+   "para": "p79",
+   "type": "written",
+   "text": "Any person of the orders who goes near the Old Ruin, by water or by ice, shall report any sign of men: tracks, fires, camps, boats, chain. To their instructor, the same day."
+  },
+  {
+   "seq": 107,
+   "para": "p79",
+   "type": "narration",
+   "text": "Maren was the only person of the orders who went near the Old Ruin. Everybody knew that too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p80",
+   "type": "narration",
+   "text": "Pell was on the bench at the foot of the wall with his crutch beside him, the torn leg stretched out stiff in front of him, a cup of something hot in his good hand. She came past on her way to muck. He didn’t look up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Ashdown.”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p82",
+   "type": "narration",
+   "text": "She stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p83",
+   "type": "speech",
+   "text": "“You were out on the ice last night. And the night before.”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 112,
+   "para": "p83",
+   "type": "narration",
+   "text": "He drank."
+  },
+  {
+   "seq": 113,
+   "para": "p83",
+   "type": "speech",
+   "text": "“Anything on the island? Tracks? Hunters? Chain?”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p84",
+   "type": "narration",
+   "text": "She stood in front of him in the cold yard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p85",
+   "type": "narration",
+   "text": "She thought of the hobnailed prints over her own, and the knees in the snow by her fire, and the bright raw cuts on the hunters’ chain. She thought of the scale, wrapped in her one clean shirt at the bottom of her chest in the dormitory, under the hammer and the chisel. She thought of the man’s prints stopping at the bend in the path under the oaks, and going backward, step by step.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p86",
+   "type": "narration",
+   "text": "She thought of Rowan’s small neat hand writing in the margin of a ledger."
+  },
+  {
+   "seq": 117,
+   "para": "p86",
+   "type": "remembered",
+   "text": "Then someone told him.",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p87",
+   "type": "narration",
+   "text": "If she said it, it would go up. To Rowan. To the inner circle. To whoever wrote orders in a hand Ottery didn’t know and put Greyhold’s seal on them.",
+   "mood": "tension"
+  },
+  {
+   "seq": 119,
+   "para": "p87",
+   "type": "thought",
+   "text": "A man on the island. From the far bank. In Marches boots. With a dragon’s scale.",
+   "speaker": "Maren",
+   "mood": "tension"
+  },
+  {
+   "seq": 120,
+   "para": "p87",
+   "type": "narration",
+   "text": "There was two hundred silver on that man’s head. There was a whole army of people who wanted his dragons.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 121,
+   "para": "p88",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Maren",
+   "mood": "tension"
+  },
+  {
+   "seq": 122,
+   "para": "p88",
+   "type": "narration",
+   "text": "said Maren.",
+   "mood": "tension"
+  },
+  {
+   "seq": 123,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Nothing. Only the lion.”",
+   "speaker": "Maren",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 124,
+   "para": "p89",
+   "type": "narration",
+   "text": "Pell looked up at her then.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p90",
+   "type": "narration",
+   "text": "He looked at her, with his tired old soldier’s face, over the rim of his cup. She held his eyes. She’d never lied to him. Not once in two years. A lie to Ottery on a frozen shore was one thing. This was the orders.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 126,
+   "para": "p91",
+   "type": "speech",
+   "text": "“Only the lion,”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 127,
+   "para": "p91",
+   "type": "narration",
+   "text": "said Pell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p92",
+   "type": "speech",
+   "text": "“Yes, Instructor.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p93",
+   "type": "narration",
+   "text": "He looked at her a moment longer. Then he looked back at his cup.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p94",
+   "type": "speech",
+   "text": "“Go to your muck,”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 131,
+   "para": "p94",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p95",
+   "type": "narration",
+   "text": "She went. Across the yard, toward the Long Barn, with the frost crunching under her boots and her back very straight and her face very still. She didn’t look back. At the door of the barn the grey cat that nobody owned was sitting in the straw, washing one enormous paw. It stopped washing as she came past, and looked up at her with its yellow eyes.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p96",
+   "type": "narration",
+   "text": "She went in and picked up the fork.",
+   "pause_after_ms": 500
+  }
+ ]
+}

@@ -1,0 +1,1312 @@
+{
+ "chapter": 14,
+ "title": "The Younger Son",
+ "pov": "Calder",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Fourteen.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Younger Son.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The Clan says that a ford remembers everyone who crosses it, and how heavy they were. That’s why the stones in a ford are smooth.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "The ford on Hollow Beck was old. Older than the hold. Older than the Clan. The Drover’s Way came down off the moor to it in a long slant and went up the other side in another, and in between, the beck ran wide and shallow over a bed of smooth brown stones, with alders leaning over it on both banks and a shepherd’s shieling of turf and stone on the slope above.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "Teo’s grandfather and his brothers had settled their quarrels there, when they were young, before anybody was chief of anything. Teo had told Calder that. He’d been proud of it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "They left Harrow’s End at two in the morning, in the dark, Calder and Hob, in Hob’s cart, with the mended axle groaning and Hob’s old cob in the shafts. Old Garrow had stood at his door in his nightshirt to see them off and said his knees were very sorry, and Calder had believed him, and Hob hadn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "speech",
+   "text": "“Knees,”",
+   "speaker": "Hob",
+   "mood": "humour"
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "narration",
+   "text": "Hob said, for the first league.",
+   "mood": "humour"
+  },
+  {
+   "seq": 9,
+   "para": "p5",
+   "type": "speech",
+   "text": "“Knees. He’ll be telling everyone at the Wheel next week he’d have come if it weren’t for his knees. He’ll make a song of it.”",
+   "speaker": "Hob",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "speech",
+   "text": "“His knees are bad.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "speech",
+   "text": "“Everybody’s knees are bad. Mine are bad. I’m here.”",
+   "speaker": "Hob",
+   "mood": "humour"
+  },
+  {
+   "seq": 12,
+   "para": "p7",
+   "type": "narration",
+   "text": "Hob flapped the reins at the cob.",
+   "mood": "humour"
+  },
+  {
+   "seq": 13,
+   "para": "p7",
+   "type": "speech",
+   "text": "“I’m here because somebody’s got to witness properly. You’ll stand there like a gatepost and not say anything, and then when they ask you what happened you’ll say they shook hands, and that’s all anyone’ll get out of you. Somebody’s got to notice who shook first, and how long, and what their faces were doing. That’s witnessing.”",
+   "speaker": "Hob",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p8",
+   "type": "speech",
+   "text": "“Teo didn’t ask you to notice their faces.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p9",
+   "type": "speech",
+   "text": "“Teo,”",
+   "speaker": "Hob",
+   "mood": "humour"
+  },
+  {
+   "seq": 16,
+   "para": "p9",
+   "type": "narration",
+   "text": "said Hob,",
+   "mood": "humour"
+  },
+  {
+   "seq": 17,
+   "para": "p9",
+   "type": "speech",
+   "text": "“doesn’t know what’s good for him.”",
+   "speaker": "Hob",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p10",
+   "type": "narration",
+   "text": "The sun came up as they climbed. It was a clear day, cold, with frost in the hollows and a high thin sky, and the whole moor went gold and then brown as the light came on it. Geese went over in long lines, going south. Calder sat beside Hob on the board with his hands in his coat pockets and the chain in his right hand, and watched the hills come up toward them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p11",
+   "type": "narration",
+   "text": "He’d slept badly. He’d dreamed about the man on the bucket again. He’d woken up in the dark and lain there, and thought:",
+   "mood": "reflective"
+  },
+  {
+   "seq": 20,
+   "para": "p11",
+   "type": "thought",
+   "text": "after. When it’s done.",
+   "speaker": "Calder",
+   "mood": "reflective"
+  },
+  {
+   "seq": 21,
+   "para": "p11",
+   "type": "narration",
+   "text": "And then he’d got up and dressed and come out to the gate where Hob was waiting, and the feeling of having decided had been there still, warm, like a coal in his chest. It was there now. He held the chain in his pocket and felt it.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p12",
+   "type": "thought",
+   "text": "After.",
+   "speaker": "Calder",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 23,
+   "para": "p13",
+   "type": "narration",
+   "text": "They came over the last rise above the ford in the middle of the morning, an hour before noon, and saw it below them: the long slant of the Way going down to the water, the beck shining, the alders, the shieling on the slope with its turf roof. Nobody there yet. The banks empty. The water going over the brown stones the way it had for a thousand years.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p14",
+   "type": "speech",
+   "text": "“We’re first,”",
+   "speaker": "Hob"
+  },
+  {
+   "seq": 25,
+   "para": "p14",
+   "type": "narration",
+   "text": "said Hob, pleased."
+  },
+  {
+   "seq": 26,
+   "para": "p14",
+   "type": "speech",
+   "text": "“Good. We’ll get a good place.”",
+   "speaker": "Hob",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p15",
+   "type": "narration",
+   "text": "Calder looked down at the ford. He couldn’t have said what was wrong. Something about the way it lay there, empty, in the clear cold light. The way the water moved.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 28,
+   "para": "p16",
+   "type": "narration",
+   "text": "There was a horse grazing on the far bank, under the alders. A tall bay. Saddled. Reins trailing.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 29,
+   "para": "p17",
+   "type": "speech",
+   "text": "“Hob,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 30,
+   "para": "p17",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p18",
+   "type": "speech",
+   "text": "“What?”",
+   "speaker": "Hob",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p19",
+   "type": "speech",
+   "text": "“Stop the cart.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p20",
+   "type": "narration",
+   "text": "Hob stopped the cart. Calder was already down. He went down the slope of the Way on foot, not running, not yet, as you’d walk toward a frightened animal: steady, near, not straight at it. He watched the bay. The bay lifted its head and looked at him and went back to grazing. Its saddle was good leather, Clan work, with a grey cloth under it, and a black hound stitched on the cloth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p21",
+   "type": "narration",
+   "text": "He knew that horse. He’d held its head at the gate of his own top field, four nights ago, while its rider leaned from the saddle and told him to tell Wren she danced better than any girl at the hold.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 35,
+   "para": "p22",
+   "type": "narration",
+   "text": "Then he was running.",
+   "mood": "urgent",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 36,
+   "para": "p23",
+   "type": "narration",
+   "text": "Teo was in the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p24",
+   "type": "narration",
+   "text": "He was at the edge of the ford, on the near side, where the beck came over the stones in a long shallow sheet and the alders leaned down close. He was lying on his face with his arms out, half in the water and half out of it, as if he’d been going to drink and had lain down instead. The water went over his back and round his shoulders and out past his hands, and it was red.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 38,
+   "para": "p25",
+   "type": "narration",
+   "text": "Calder went into the beck to his knees and turned him over.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p26",
+   "type": "narration",
+   "text": "He’d never done anything like it before. Afterwards he couldn’t remember deciding to. He just found that he had his arms under Teo’s shoulders and was lifting him, and Teo was very heavy and very cold and his head went back over Calder’s arm, and his face was the same face, long and thin and too young for itself, with the eyes open and the mouth a little open as if he’d been about to say something cheerful. There was water in his hair. There was a wound in his side, low, under the ribs, and another under the collarbone, and his shirt was black with it.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 40,
+   "para": "p27",
+   "type": "narration",
+   "text": "Calder dragged him up out of the beck onto the stones of the bank and knelt beside him and didn’t know what to do.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p28",
+   "type": "speech",
+   "text": "“Teo,”",
+   "speaker": "Calder",
+   "mood": "grief"
+  },
+  {
+   "seq": 42,
+   "para": "p28",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 43,
+   "para": "p29",
+   "type": "narration",
+   "text": "It was a stupid thing to say. He said it anyway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p30",
+   "type": "narration",
+   "text": "Behind him, up the slope, he heard Hob shout something, high and cracked, and then the cart rattling, and then Hob’s voice again, nearer, saying",
+   "mood": "grief"
+  },
+  {
+   "seq": 45,
+   "para": "p30",
+   "type": "speech",
+   "text": "oh gods oh gods oh gods",
+   "speaker": "Hob",
+   "how": "whispered, over and over",
+   "mood": "grief"
+  },
+  {
+   "seq": 46,
+   "para": "p30",
+   "type": "narration",
+   "text": "over and over in a whisper, like a prayer that didn’t know any other words.",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 47,
+   "para": "p31",
+   "type": "narration",
+   "text": "He made himself look.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p32",
+   "type": "narration",
+   "text": "He didn’t want to. He wanted to close Teo’s eyes and put his coat over him and walk away up the hill and keep walking, and never come back to this ford, or any ford, ever. He wanted to be at home in the byre with Bramble leaning on him. But he’d been asked to be a witness, and a witness looks.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p33",
+   "type": "narration",
+   "text": "So he looked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p34",
+   "type": "narration",
+   "text": "Teo’s knife was in its sheath on his belt. The good knife, the one with the hound on the pommel. Still in its sheath. He hadn’t drawn it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p35",
+   "type": "narration",
+   "text": "His sword was on his saddle, on the bay, on the far bank. He hadn’t drawn that either.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p36",
+   "type": "narration",
+   "text": "The wounds were from close in, made by a blade, and not by an arrow or a spear from the bank. Someone had come right up to him, close enough to touch, close enough to talk to, and he hadn’t drawn his knife, because he hadn’t thought he needed to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p37",
+   "type": "thought",
+   "text": "Someone he let come close.",
+   "speaker": "Calder",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 54,
+   "para": "p38",
+   "type": "narration",
+   "text": "There was something caught on the alders above the water, at the height of a man’s shoulder, where a branch hung low over the bank. A strip of grey cloth. Calder stood up and reached for it, and it came away in his hand: an armband, plain grey wool, the mourning band every man in the Clan had been wearing since Haldor’s pyre. Plain grey. No thread of red in it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p39",
+   "type": "narration",
+   "text": "East-side grey. Ulric’s men’s grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p40",
+   "type": "narration",
+   "text": "In the shallows, a little way out, half under the water where it ran fast over the stones, lay an axe. A Clan axe, long-hafted, with a bearded blade, the kind every man at Ulric’s table carried at his belt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p41",
+   "type": "narration",
+   "text": "Calder stood on the bank with the armband in one hand and his other hand in his coat pocket, closed so hard round the chain that the links bit into his palm.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 58,
+   "para": "p42",
+   "type": "thought",
+   "text": "After,",
+   "speaker": "Calder",
+   "mood": "grief"
+  },
+  {
+   "seq": 59,
+   "para": "p42",
+   "type": "narration",
+   "text": "he thought.",
+   "mood": "grief"
+  },
+  {
+   "seq": 60,
+   "para": "p42",
+   "type": "thought",
+   "text": "When it’s done. When it’s safe.",
+   "speaker": "Calder",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 61,
+   "para": "p43",
+   "type": "narration",
+   "text": "He thought of a man on a bucket by a stable door, three paces from the foot of the cliff path, mending a halter that never got mended. He thought of Teo turning round on the last step, lit up, saying it out loud."
+  },
+  {
+   "seq": 62,
+   "para": "p43",
+   "type": "remembered",
+   "text": "Four days after your fair, Fenn. Noon. The ford on Hollow Beck.",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p44",
+   "type": "narration",
+   "text": "He thought: no. No. I don’t know that. I don’t know anything. It’s an armband and an axe, and they’re Ulric’s. That’s what’s here. That’s what a witness sees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p45",
+   "type": "narration",
+   "text": "He stood on the bank and held the chain in his pocket and didn’t take it out.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 65,
+   "para": "p46",
+   "type": "narration",
+   "text": "Arn came at noon, with his six.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p47",
+   "type": "narration",
+   "text": "They came over the far rise at a canter, six riders in grey with the red thread in their armbands, and Arn at the front on a black horse, and they saw the bay grazing under the alders and they saw the cart on the near slope and they saw Hob, white-faced, on his knees by the water, and they saw Calder standing on the bank. And then they saw what was lying on the stones at Calder’s feet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p48",
+   "type": "narration",
+   "text": "Arn didn’t make a sound. That was the worst of it. He didn’t shout or cry out. He came down the far slope and through the ford at a gallop, with the water going up white on both sides of the black horse, and threw himself off it on the near bank before it had stopped, and went down on his knees beside his brother, and put his hands on him.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 68,
+   "para": "p49",
+   "type": "narration",
+   "text": "He stayed like that. His six sat their horses in the ford behind him, in the water, not moving. The beck went over the stones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p50",
+   "type": "narration",
+   "text": "At last Arn looked up at Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p51",
+   "type": "narration",
+   "text": "His face was white, and perfectly still, and there was nothing in it at all, no grief and no rage, like the black water at Coldtarn.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 71,
+   "para": "p52",
+   "type": "speech",
+   "text": "“You,”",
+   "speaker": "Arn"
+  },
+  {
+   "seq": 72,
+   "para": "p52",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 73,
+   "para": "p52",
+   "type": "speech",
+   "text": "“The farmer. The barley man. The witness.”",
+   "speaker": "Arn",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p53",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p54",
+   "type": "speech",
+   "text": "“What did you see?”",
+   "speaker": "Arn",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p55",
+   "type": "narration",
+   "text": "Calder looked at him. He looked at Teo’s face, with the open eyes. He held out the armband.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p56",
+   "type": "speech",
+   "text": "“He was dead when I got here,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 78,
+   "para": "p56",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 79,
+   "para": "p56",
+   "type": "speech",
+   "text": "“In the water. His knife’s still in its sheath. This was on the alders. There’s an axe in the shallows.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p57",
+   "type": "narration",
+   "text": "That was all true. Every word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p58",
+   "type": "narration",
+   "text": "Arn took the armband. He looked at it. Plain grey. No thread of red. He turned it over in his hands as if there might be something written on the inside. He looked at the axe in the shallows, and one of his six got down and waded out and fetched it, and brought it, dripping, and held it out, and Arn didn’t take it. He just looked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p59",
+   "type": "speech",
+   "text": "“His knife’s in its sheath,”",
+   "speaker": "Arn"
+  },
+  {
+   "seq": 83,
+   "para": "p59",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p61",
+   "type": "speech",
+   "text": "“He didn’t draw.”",
+   "speaker": "Arn",
+   "how": "very quiet",
+   "mood": "grief"
+  },
+  {
+   "seq": 86,
+   "para": "p61",
+   "type": "narration",
+   "text": "Arn’s voice was very quiet.",
+   "mood": "grief"
+  },
+  {
+   "seq": 87,
+   "para": "p61",
+   "type": "speech",
+   "text": "“He wouldn’t, would he. Not against family. Not against Uncle’s men. Not at the ford, not today, not with his hands out.”",
+   "speaker": "Arn",
+   "how": "very quiet",
+   "mood": "grief"
+  },
+  {
+   "seq": 88,
+   "para": "p61",
+   "type": "narration",
+   "text": "He looked down at his brother.",
+   "mood": "grief"
+  },
+  {
+   "seq": 89,
+   "para": "p61",
+   "type": "speech",
+   "text": "“He came early. He always came early. He’d have been standing here in the water at first light, waiting, so he could be the first thing they saw. Smiling. And they came down the Way and he walked up to meet them with his hands out, and they…”",
+   "speaker": "Arn",
+   "how": "very quiet",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 90,
+   "para": "p62",
+   "type": "narration",
+   "text": "He stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p63",
+   "type": "narration",
+   "text": "He put his hand flat on his brother’s chest, on the black soaked shirt, and held it there. When he lifted it, the palm was red.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p64",
+   "type": "narration",
+   "text": "He stood up. He held up the red hand, so his six could see it, so Calder could see it, so the ford and the alders and the hills could see it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p65",
+   "type": "speech",
+   "text": "“By my father in Coldtarn,”",
+   "speaker": "Arn",
+   "how": "quite quietly",
+   "mood": "anger"
+  },
+  {
+   "seq": 94,
+   "para": "p65",
+   "type": "narration",
+   "text": "said Arn Varr, quite quietly,",
+   "mood": "anger"
+  },
+  {
+   "seq": 95,
+   "para": "p65",
+   "type": "speech",
+   "text": "“and my brother on these stones, and every chief of the Varr who went into the water before them. I’ll have the hand that did this. And the arm it hangs from. And the man the arm belongs to. And every man who eats at his table and every man who wears his grey. I’ll have them all. There’ll be no peace at this ford or any ford, there’ll be no levy and no fair and no bread, until I’ve put Ulric Varr into the water at Coldtarn with my own hands, and all his men after him, one by one, and stood on the black stone and watched them sink.”",
+   "speaker": "Arn",
+   "how": "quite quietly",
+   "mood": "anger"
+  },
+  {
+   "seq": 96,
+   "para": "p65",
+   "type": "narration",
+   "text": "He closed the red hand into a fist.",
+   "mood": "anger"
+  },
+  {
+   "seq": 97,
+   "para": "p65",
+   "type": "speech",
+   "text": "“I swear it. Witness.”",
+   "speaker": "Arn",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p66",
+   "type": "narration",
+   "text": "He was looking at Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p67",
+   "type": "narration",
+   "text": "Calder couldn’t have said anything if the hills had fallen. He stood on the bank with the chain in his pocket and the beck going by over the stones, and was a witness.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 100,
+   "para": "p68",
+   "type": "narration",
+   "text": "Ulric came a quarter of an hour later, with his six, up the Way from the Ram’s Head, where he’d lain the night. They came by the near rise behind the cart, the one Calder and Hob had come over, where the long slant of the Way began.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p69",
+   "type": "narration",
+   "text": "Calder heard them before he saw them. He looked up and saw them come over the top, six big men in plain grey with axes at their belts, and Ulric at the front on a huge grey horse, and he saw Ulric see it. The bay. The black horse. Arn’s six in a line along the bank with their swords out now. Arn standing over something on the stones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p70",
+   "type": "narration",
+   "text": "Ulric stopped his horse at the top of the slope and sat there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p71",
+   "type": "narration",
+   "text": "At last he came down the Way at a walk, alone, leaving his six at the top, and stopped at the edge of the ford on the near side, and looked down from the saddle at his nephew lying on the stones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p72",
+   "type": "narration",
+   "text": "Calder was close enough to see his face. He watched it, because a witness watches.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p73",
+   "type": "narration",
+   "text": "He would think about that face for a long time afterwards. He would turn it over in the dark, as you turn over a coin you think might be false. It was a big, heavy, closed face, the face of a man who had spent fifty years making sure nobody ever knew what he was thinking. For one moment, looking down at Teo on the stones, it opened. Just for a moment. And what was in it was grief, plain and enormous and real, like a man who has been struck from behind and doesn’t yet know how badly.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 106,
+   "para": "p74",
+   "type": "narration",
+   "text": "Then it closed again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p75",
+   "type": "speech",
+   "text": "“Who did this?”",
+   "speaker": "Ulric"
+  },
+  {
+   "seq": 108,
+   "para": "p75",
+   "type": "narration",
+   "text": "said Ulric.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p76",
+   "type": "narration",
+   "text": "Arn held up the armband.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p77",
+   "type": "narration",
+   "text": "Ulric looked at it. He looked at the axe, dripping in the hands of Arn’s man. He looked at his own six, at the top of the slope, in their plain grey, with their axes at their belts.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p78",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Ulric"
+  },
+  {
+   "seq": 112,
+   "para": "p78",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p79",
+   "type": "speech",
+   "text": "“Your grey,”",
+   "speaker": "Arn"
+  },
+  {
+   "seq": 114,
+   "para": "p79",
+   "type": "narration",
+   "text": "said Arn."
+  },
+  {
+   "seq": 115,
+   "para": "p79",
+   "type": "speech",
+   "text": "“Your axe. Your men, the only ones who knew the hour, coming down the Way at noon. And his knife in its sheath, because he walked up to meet them with his hands out.”",
+   "speaker": "Arn"
+  },
+  {
+   "seq": 116,
+   "para": "p79",
+   "type": "narration",
+   "text": "He took a step forward."
+  },
+  {
+   "seq": 117,
+   "para": "p79",
+   "type": "speech",
+   "text": "“No?”",
+   "speaker": "Arn",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p80",
+   "type": "speech",
+   "text": "“I didn’t do this.”",
+   "speaker": "Ulric",
+   "how": "deep, slow, steady"
+  },
+  {
+   "seq": 119,
+   "para": "p80",
+   "type": "narration",
+   "text": "Ulric’s voice was deep and slow and quite steady."
+  },
+  {
+   "seq": 120,
+   "para": "p80",
+   "type": "speech",
+   "text": "“I came here to shake your hand, boy. In the water. Because he asked me to.”",
+   "speaker": "Ulric",
+   "how": "deep, slow, steady"
+  },
+  {
+   "seq": 121,
+   "para": "p80",
+   "type": "narration",
+   "text": "He looked down at Teo again."
+  },
+  {
+   "seq": 122,
+   "para": "p80",
+   "type": "speech",
+   "text": "“Because he was the only one of you I’d have done it for.”",
+   "speaker": "Ulric",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Liar.”",
+   "speaker": "Arn",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p82",
+   "type": "speech",
+   "text": "“Think, Arn. Think, for once in your life. If I wanted him dead, would I leave my grey on a bush and my axe in the water, like a signpost? Would I kill him at the ford I agreed to, on the day I agreed to, an hour before I was due to be here? I’m not a fool.”",
+   "speaker": "Ulric",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p83",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Arn",
+   "mood": "anger"
+  },
+  {
+   "seq": 126,
+   "para": "p83",
+   "type": "narration",
+   "text": "said Arn.",
+   "mood": "anger"
+  },
+  {
+   "seq": 127,
+   "para": "p83",
+   "type": "speech",
+   "text": "“You’re not a fool. You’re a man who’s been waiting thirty years for a chair. And now there’s nobody left between you and it but me.”",
+   "speaker": "Arn",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p84",
+   "type": "narration",
+   "text": "He drew his sword.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 129,
+   "para": "p85",
+   "type": "narration",
+   "text": "It didn’t last long.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p86",
+   "type": "narration",
+   "text": "One of Arn’s six went past Arn, at the gallop, through the ford toward the slope where Ulric’s six were, with his sword up and a shout coming out of him that wasn’t a word. One of Ulric’s men came down to meet him. They met at the bottom of the slope, at the edge of the water, and the horses crashed together, and there was a sound like an axe going into a log, and then one of them was on the ground, and it was Ulric’s man, and he wasn’t moving.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p87",
+   "type": "narration",
+   "text": "Somebody blew a horn. A long, low, rising note, held, and then cut off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p88",
+   "type": "narration",
+   "text": "From the top of the slope, Ulric’s men answered it with another.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p89",
+   "type": "narration",
+   "text": "Then everyone was moving. Ulric’s six came down the slope and Arn’s six went up to meet them, and Ulric himself was turning his huge grey horse and roaring something, and Arn was in the saddle again, and Hob had Calder by the coat and was dragging him, up the bank, away from the water, toward the shieling, shouting in his ear words he couldn’t hear. Behind them there was the sound of horses in water and iron on iron and men shouting.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p90",
+   "type": "narration",
+   "text": "They got behind the shieling wall and crouched there. Calder found he still had the armband in his hand. He didn’t remember Arn giving it back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p91",
+   "type": "narration",
+   "text": "Somebody had set the gorse on fire. He didn’t see who. He smelled it first, the sharp hot smell of gorse going up, and then he saw it: a line of fire running across the slope above the ford in the dry brown bushes, crackling, throwing up thick white smoke. The turf roof of the shieling caught next, above their heads, and they had to run again, Hob dragging him, down the slope behind the shieling into a hollow full of bracken, where they lay on their faces in the cold wet fronds and listened.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p92",
+   "type": "narration",
+   "text": "It went on for a while. Then the horns blew again, both of them, and the sounds changed, and drew apart, and went away: Ulric’s men away east over the moor, Arn’s up the Way toward the hold. Shouting, fading. Horses, fading.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p93",
+   "type": "narration",
+   "text": "There was only the fire crackling in the gorse, and the beck going over the stones, and Hob crying quietly beside him in the bracken, with his face in his arm.",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 138,
+   "para": "p94",
+   "type": "narration",
+   "text": "When they came back down, the ford was empty except for the dead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p95",
+   "type": "narration",
+   "text": "Ulric’s man, at the bottom of the slope. One of Arn’s, further up, who Calder hadn’t seen fall. Teo, on the stones at the water’s edge, where Calder had left him, with his face to the sky and his eyes open and the water going by beside him as if nothing had happened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p96",
+   "type": "narration",
+   "text": "Arn had left him. Or forgotten him. Or not been able to stay.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p97",
+   "type": "narration",
+   "text": "The smoke from the gorse and the shieling went up over the hill in a great grey column, three columns, four, spreading out at the top.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p98",
+   "type": "narration",
+   "text": "Calder knelt beside Teo and closed his eyes. It took two tries; the first time, they wouldn’t stay. He took off his coat, with the chain in its pocket, and laid it over Teo from the chest up, so his face was covered, and sat down on the stones beside him, with his arms round his knees, and waited, because somebody from the hold would come for him, and somebody should be here when they did.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 143,
+   "para": "p99",
+   "type": "narration",
+   "text": "Hob sat down on the other side.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p100",
+   "type": "speech",
+   "text": "“You saw,”",
+   "speaker": "Hob",
+   "how": "ragged"
+  },
+  {
+   "seq": 145,
+   "para": "p100",
+   "type": "narration",
+   "text": "said Hob, after a while. His voice was ragged."
+  },
+  {
+   "seq": 146,
+   "para": "p100",
+   "type": "speech",
+   "text": "“The armband. The axe. You saw. Ulric’s men.”",
+   "speaker": "Hob",
+   "how": "ragged",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p101",
+   "type": "speech",
+   "text": "“I saw an armband and an axe.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p102",
+   "type": "speech",
+   "text": "“That’s what I said.”",
+   "speaker": "Hob",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p103",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 150,
+   "para": "p103",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 151,
+   "para": "p103",
+   "type": "speech",
+   "text": "“It isn’t.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p104",
+   "type": "narration",
+   "text": "Hob looked at him. Calder didn’t look back. He sat on the stones with his coat over Teo’s face and the chain in the coat, and looked at the water, and thought about a man on a bucket, and a knife with a ring of six dots on the pommel, and a promise.",
+   "mood": "grief"
+  },
+  {
+   "seq": 153,
+   "para": "p104",
+   "type": "thought",
+   "text": "After. When it’s done.",
+   "speaker": "Calder",
+   "mood": "grief"
+  },
+  {
+   "seq": 154,
+   "para": "p104",
+   "type": "narration",
+   "text": "He’d held it in his hand all morning. He’d held it in his hand when he turned Teo over in the water.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 155,
+   "para": "p105",
+   "type": "narration",
+   "text": "It was done now. There was no after.",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 156,
+   "para": "p106",
+   "type": "narration",
+   "text": "His own six came down from the hold in the afternoon, at the hour he’d given them, too late. They took him up the Way at dusk on a hurdle, walking beside it, with his bay behind and the reins over the saddle. Calder and Hob went home in the cart in the dark without speaking, the whole long way down the Way, with the cob picking its own path by the starlight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p107",
+   "type": "narration",
+   "text": "It was the small hours when they came down off the moor. At the bottom, where the Way came down to the river lane above Harrow’s End, there were still lights at the Eelweir: lanterns on the jetty, and men standing about. Hob stopped the cart without being asked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p108",
+   "type": "speech",
+   "text": "“The ford,”",
+   "speaker": "Hob",
+   "how": "calling out"
+  },
+  {
+   "seq": 159,
+   "para": "p108",
+   "type": "narration",
+   "text": "Hob called."
+  },
+  {
+   "seq": 160,
+   "para": "p108",
+   "type": "speech",
+   "text": "“Have you heard? Have you heard about the ford?”",
+   "speaker": "Hob",
+   "how": "calling out",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p109",
+   "type": "narration",
+   "text": "They’d heard. The whole river had heard. The horns had carried. The smoke had been seen from Greyhold. Old Fisk himself came up to the cart with a lantern and stood there with his old face working.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p110",
+   "type": "speech",
+   "text": "“Teo Varr,”",
+   "speaker": "Old Fisk"
+  },
+  {
+   "seq": 163,
+   "para": "p110",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 164,
+   "para": "p110",
+   "type": "speech",
+   "text": "“The young one. The good one.”",
+   "speaker": "Old Fisk",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p111",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p112",
+   "type": "speech",
+   "text": "“Gods. Gods. That’s war, then. That’s war, now, for certain.”",
+   "speaker": "Old Fisk"
+  },
+  {
+   "seq": 167,
+   "para": "p112",
+   "type": "narration",
+   "text": "Fisk shook his head. Then, because he was a fisherman, and fishermen always have to say the other thing, the thing that’s on their minds, he said:"
+  },
+  {
+   "seq": 168,
+   "para": "p112",
+   "type": "speech",
+   "text": "“And that Greyhold boat’s still on the island. Four days, now. My boys saw it from the punt. Pulled up on the spit under a log. Nobody’s seen anybody. Nobody’s come off.”",
+   "speaker": "Old Fisk"
+  },
+  {
+   "seq": 169,
+   "para": "p112",
+   "type": "narration",
+   "text": "He looked out across the water into the dark."
+  },
+  {
+   "seq": 170,
+   "para": "p112",
+   "type": "speech",
+   "text": "“Whoever went on there, they’re still there. Or they’re not. Either way, it’s a bad week for it.”",
+   "speaker": "Old Fisk",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p113",
+   "type": "narration",
+   "text": "Calder sat on the cart in his shirtsleeves, because his coat was up at the hold over Teo’s face, and the chain with it, and he was very cold, and he hadn’t noticed until now.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p114",
+   "type": "speech",
+   "text": "“Go home, Calder Fenn,”",
+   "speaker": "Old Fisk",
+   "how": "gently",
+   "mood": "tender"
+  },
+  {
+   "seq": 173,
+   "para": "p114",
+   "type": "narration",
+   "text": "said Fisk gently.",
+   "mood": "tender"
+  },
+  {
+   "seq": 174,
+   "para": "p114",
+   "type": "speech",
+   "text": "“You look like death. Go home to your girl.”",
+   "speaker": "Old Fisk",
+   "how": "gently",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p115",
+   "type": "narration",
+   "text": "He went home to his girl.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  }
+ ]
+}

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<!-- The Watch Below, Chapter 10: Whispers in the Hold. Point of view: Calder. -->
+<p><s>Chapter Ten.</s></p><break time="800ms"/>
+<p><s>Whispers in the Hold.</s></p><break time="1800ms"/>
+<!-- p1 · humour: dry · the Clan (remembered) -->
+<p>The Clan has a saying about strangers: <prosody volume="-3dB">a man with no sheep has no story.</prosody> A man who turns up at the hold gate with good boots and no sheep and no name anybody’s heard is either a fool or a liar. The Clan doesn’t mind fools. It has plenty of its own.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p2 -->
+<p>The new barley was in. It had been a good harvest at Harrow’s End, the best in five years, golden and heavy and dry, and Ada had stood at the field gate every dawn saying the dry-weather words over it, which for once the weather had listened to, and everyone had cut it in a week with their backs aching and their hands blistered and the dragons going over every afternoon like clouds. The first of it went up to the hold for the winter stores. That was the custom. And <sub alias="Cawlder">Calder</sub> took it, because the cart was his and the barley was mostly his and, if he was honest, because some part of him wanted to go back.</p><break time="500ms"/>
+<!-- p3 -->
+<p>He didn’t examine that part too closely. He took Sorrel again, with Joss’s blessing, and Wren stood at the gate and made him promise three times that if he saw the green dragon he would tell it she said hello.</p><break time="500ms"/>
+<!-- p4 · Calder -->
+<p>“Dragons don’t understand hello,” he said.</p><break time="500ms"/>
+<!-- p5 · Wren -->
+<p>“This one does,” said Wren. “Promise.”</p><break time="500ms"/>
+<!-- p6 -->
+<p>He promised.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p7 -->
+<p><sub alias="Var-hold">Varrhold</sub> had changed in the eleven days since <sub alias="Cold-tarn">Coldtarn</sub>.</p><break time="500ms"/>
+<!-- p8 -->
+<p>The pyre was cold. They’d raked it and swept it and carried the last of it up the mountain, and there was only a black scar in the middle of the yard where it had been. The two fires were still there, east and west. But the space between them had got wider, and the men round the east fire had got more numerous. That was the first thing <sub alias="Cawlder">Calder</sub> noticed, driving in through the gate with Sorrel’s ears flat back at the noise of the Roosts.</p><break time="500ms"/>
+<!-- p9 -->
+<p>The second thing he noticed was that some of the men round the east fire weren’t Clan.</p><break time="500ms"/>
+<!-- p10 -->
+<p>It wasn’t anything you could point to, at first. They wore grey armbands like everyone else. They stood like everyone else. But there was something about them, about the way they stood, that made him look again. He’d seen it before. At the Ram’s Head, at the long table under the window. At the hiring yard in Cotter’s Cross. Men who’d been fed by too many different hands.</p><break time="500ms"/>
+<!-- p11 · Gorm Askell, sourly; Gorm Askell -->
+<p>“Hired hands,” said the steward sourly, when <sub alias="Cawlder">Calder</sub> asked, counting sacks. “<sub alias="Ullrick">Ulric</sub>’s taking them on. Says the hold needs more men for the winter. Says the old chief let the walls go, and he’s mending them.” He wrote down a number. “Twenty-two since the funeral. Twenty-two. Eating like wolves.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p12 -->
+<p>He saw Rook in the lower stable, where he’d gone to rub Sorrel down.</p><break time="500ms"/>
+<!-- p13 -->
+<p>There were three or four of the hired men in there, seeing to <sub alias="Ullrick">Ulric</sub>’s horses, and one of them was mending a halter on an upturned bucket by the door. He was a man of no particular height, with a face of no particular kind: brownish hair, brownish beard cut short, a nose and a mouth and two eyes, all where you’d expect them. <sub alias="Cawlder">Calder</sub> looked at him and looked away and found he couldn’t have said, a moment later, what the man looked like. It was a face you forgot while you were looking at it.</p><break time="500ms"/>
+<!-- p14 -->
+<p>The man looked up and nodded, pleasant, and went back to the halter.</p><break time="500ms"/>
+<!-- p15 -->
+<p><sub alias="Cawlder">Calder</sub> rubbed Sorrel down. It took a while; she’d come up the Way sweating at the noise of the Roosts, the way she had the first time, and he talked to her the whole while, low, about nothing. And while he talked he watched the man on the bucket, without meaning to, as you watch something that’s slightly wrong in a picture until you work out what it is.</p><break time="500ms"/>
+<!-- p16 -->
+<p>It was the hands.</p><break time="500ms"/>
+<!-- p17 · tension: noticing what's wrong -->
+<p><prosody rate="97%">The man was mending the halter well enough. Quick and neat. But his hands were wrong for it. They were soft. Pale and soft, with clean nails, the hands of a man who’d spent his life holding a pen, not a rope. There was one old scar across the knuckles of the right hand, white and thin, and that was all. A drover’s hands were cracked and brown and ruined by the time he was twenty. A stable-hand’s were worse. These weren’t anybody’s hands who’d ever done what the man was doing now for a living.</prosody></p><break time="800ms"/>
+<!-- p18 -->
+<p>And the boots. <sub alias="Cawlder">Calder</sub> looked at them and knew he’d seen boots like them before. Oiled leather, black, with brass eyelets for the laces. Not Clan sheepskin, not Marches hobnail. Coast boots. Wendmouth boots. The sellswords at the Ram’s Head had worn them, the expensive ones. They cost more than <sub alias="Cawlder">Calder</sub>’s whole wardrobe.</p><break time="500ms"/>
+<!-- p19 · Rook -->
+<p>“Good beast,” said the man on the bucket. He’d looked up again, and caught <sub alias="Cawlder">Calder</sub> watching, and smiled. It was an ordinary smile. “Dray-mare. You don’t see many of those up here. Not with the Roosts so close. Most of them won’t come past the falls.”</p><break time="500ms"/>
+<!-- p20 · Calder -->
+<p>“She doesn’t like it.”</p><break time="500ms"/>
+<!-- p21 · Rook -->
+<p>“No. But she came.” The man put down the halter. “Yours?”</p><break time="500ms"/>
+<!-- p22 · Calder -->
+<p>“A friend’s.”</p><break time="500ms"/>
+<!-- p23 · Rook -->
+<p>“Lucky friend.” He came over, not too close, and stood with his hands in his pockets, looking at Sorrel. “Rook,” he said. “I’m with <sub alias="Ullrick">Ulric</sub>’s people. Taken on after the funeral.”</p><break time="500ms"/>
+<!-- p24 · Calder -->
+<p>“Fenn. Harrow’s End.”</p><break time="500ms"/>
+<!-- p25 · Rook -->
+<p>“The barley man. I’ve heard. <sub alias="Tayo">Teo</sub> <sub alias="Var">Varr</sub>’s friend.” Rook nodded, pleased, as if this were a good thing to be. “I’m a drover myself. From the coast. Came up looking for work for the winter, and here I am mending halters.” He laughed. “Not what I’m used to. You’d laugh to see me with sheep.”</p><break time="500ms"/>
+<!-- p26 · Calder -->
+<p>“Would I,” said <sub alias="Cawlder">Calder</sub>.</p><break time="500ms"/>
+<!-- p27 · tension -->
+<p><prosody rate="97%">He didn’t mean anything by it. He just said it, the way he’d say it to anyone. But for a moment, just a moment, something moved behind the forgettable face, and Rook looked at him with a quite different look, sharp and quick and measuring.</prosody></p><break time="800ms"/>
+<!-- p28 -->
+<p>Then it was gone, and he was smiling again.</p><break time="500ms"/>
+<!-- p29 · Rook -->
+<p>“You would,” he said. “Truly. I’m hopeless.” He nodded to Sorrel. “Good beast. Look after her.” And he went back to the bucket, and picked up the halter, and didn’t look at <sub alias="Cawlder">Calder</sub> again.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p30 -->
+<p><sub alias="Tayo">Teo</sub> found him in the yard.</p><break time="500ms"/>
+<!-- p31 · Teo -->
+<p>“Fenn! Twice in a month!” <sub alias="Tayo">Teo</sub> looked worse than he had at <sub alias="Cold-tarn">Coldtarn</sub>: thinner, if that was possible, with dark rings under his eyes. But the smile was the same. “Did you see <sub alias="Liska">Lisska</sub>? She’s been on the cliff all morning, sulking. <sub alias="Imruh">Imra</sub> says she’s waiting for somebody.”</p><break time="500ms"/>
+<!-- p32 · Calder -->
+<p>“Wren says hello.”</p><break time="500ms"/>
+<!-- p33 · Teo -->
+<p>“Wren?”</p><break time="500ms"/>
+<!-- p34 · Calder -->
+<p>“My daughter. The small one. With the two cups.” <sub alias="Cawlder">Calder</sub> felt foolish. “She made me promise to tell the green dragon she said hello.”</p><break time="500ms"/>
+<!-- p35 · Teo -->
+<p><sub alias="Tayo">Teo</sub> laughed, delighted. “Then you’ll have to come up and tell her. <sub alias="Imruh">Imra</sub>’ll never forgive me if I don’t bring you. And I’ve something to ask you.” He glanced across the yard, at the east fire with its crowd of grey and its new men, and back. “Come up the cliff.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p36 -->
+<p>They went up the cliff path in the wind. On the ledge the three warriors were sitting where they’d sat before, as if they hadn’t moved in a month, with the brazier between them and the three dragons in the cave behind.</p><break time="500ms"/>
+<!-- p37 · Dag -->
+<p><sub alias="Siggroon">Sigrun</sub> nodded to him. Dag <sub alias="Rork">Rorke</sub> looked up from his axe and said, “Farmer. Late,” and went back to it. <sub alias="Imruh">Imra</sub> jumped up.</p><break time="500ms"/>
+<!-- p38 · Imra -->
+<p>“He came! I told you he’d come! <sub alias="Liska">Lisska</sub>, look…”</p><break time="500ms"/>
+<!-- p39 -->
+<p>But <sub alias="Liska">Lisska</sub> had already seen. She came out of the back of the cave in one long, quick, dark-green pour, past <sub alias="Imruh">Imra</sub>, past the brazier, and stopped with her long narrow head close to <sub alias="Cawlder">Calder</sub>’s face, and looked at him with her pale green eyes.</p><break time="500ms"/>
+<!-- p40 · Calder -->
+<p>“Wren says hello,” said <sub alias="Cawlder">Calder</sub> to the dragon. He felt like a fool. “She made me promise.”</p><break time="500ms"/>
+<!-- p41 · tender -->
+<p><prosody rate="95%"><sub alias="Liska">Lisska</sub> blinked, slowly. Then she pushed her nose, very gently, against his chest, so that he rocked back on his heels and <sub alias="Tayo">Teo</sub> had to catch his arm, and blew out a long warm breath that smelled like rain on hot stone, and pulled back and lay down on the ledge with her head on her claws and her eyes on him.</prosody></p><break time="500ms"/>
+<!-- p42 · Imra, in a slightly odd voice; Imra -->
+<p>“Well,” said <sub alias="Imruh">Imra</sub>, after a moment, in a slightly odd voice. “She says hello back.”</p><break time="500ms"/>
+<!-- p43 · Calder -->
+<p>“She does?”</p><break time="500ms"/>
+<!-- p44 · tender: Imra moved, surprised · Imra -->
+<p><prosody rate="95%">“She says…” <sub alias="Imruh">Imra</sub> stopped. She looked at the dragon with a little frown. “She says to tell the small one she remembers her. And she says she likes you. She says you smell like barley and a cow.” <sub alias="Imruh">Imra</sub> laughed, but there was something under it. “She’s never said she likes anyone who wasn’t Clan. Not once. In nine years.”</prosody></p><break time="500ms"/>
+<!-- p45 · awe: quiet -->
+<p><prosody rate="95%">Behind them, at the back of the cave, <sub alias="Orveth">Aurveth</sub> opened one gold eye and looked at <sub alias="Cawlder">Calder</sub>, and didn’t close it again.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p46 · quiet -->
+<p><prosody rate="95%"><sub alias="Tayo">Teo</sub> sat down by the brazier and pulled <sub alias="Cawlder">Calder</sub> down beside him, and talked low, with the wind taking his words out over the hollow so that nobody below could have heard them. Up here, at least, he was careful.</prosody></p><break time="500ms"/>
+<!-- p47 · urgent: low, eager · Teo, low -->
+<p><prosody rate="105%"><prosody volume="-5dB">“I’ve got him,”</prosody> he said. <prosody volume="-5dB">“Uncle <sub alias="Ullrick">Ulric</sub>. I’ve got him to agree to meet. Not in the hall, not with the two fires and everyone watching. Just him and me and Arn, if I can get Arn to come, which I will. At the ford on Hollow Beck, below the hold, where the Way crosses. Neutral ground. Old ground. My grandfather and his brothers used to settle things there when they were young, before anybody was chief of anything.”</prosody> He was lit up, as he’d been at <sub alias="Cold-tarn">Coldtarn</sub>: a man who has decided that something will work because it has to. <prosody volume="-5dB">“No men. Six on each side, no more, and they stay back on the banks. Just us in the water. And witnesses.”</prosody></prosody></p><break time="500ms"/>
+<!-- p48 · Calder -->
+<p>“Witnesses?”</p><break time="500ms"/>
+<!-- p49 · Teo -->
+<p>“People who aren’t <sub alias="Ullrick">Ulric</sub>’s and aren’t Arn’s. Ordinary people. Farmers. People from the villages, people the Clan protects, people who pay the levy.” <sub alias="Tayo">Teo</sub> looked at him. “If they see us talk, if they see us shake hands in the water, then everyone in the Marches will know it happened, and nobody can say afterwards it didn’t, or that it went different. You understand? It can’t just be us. It has to be seen.”</p><break time="500ms"/>
+<!-- p50 · dread -->
+<p><prosody rate="96%"><sub alias="Cawlder">Calder</sub> understood. He also understood, quite suddenly and with great clarity, what <sub alias="Tayo">Teo</sub> was going to ask him, and that <sub alias="Siggroon">Sigrun</sub> <sub alias="Home">Holm</sub> had known he was going to ask it, sitting on a rock above <sub alias="Cold-tarn">Coldtarn</sub>, eleven days ago.</prosody></p><break time="800ms"/>
+<!-- p51 -->
+<p>He looked at <sub alias="Siggroon">Sigrun</sub>. <sub alias="Siggroon">Sigrun</sub> looked back at him and didn’t say anything at all.</p><break time="500ms"/>
+<!-- p52 · Teo -->
+<p>“Will you come?” said <sub alias="Tayo">Teo</sub>. “As a witness? You and anyone else from Harrow’s End you can bring. Hob, the miller. That old man with the knees. Anyone.”</p><break time="500ms"/>
+<!-- p53 · Calder -->
+<p>“When?”</p><break time="500ms"/>
+<!-- p54 · Teo -->
+<p>“After the harvest fairs. After yours. I’ll come to yours first; I said I would. Then four days after that. At noon, when the sun’s on the water and everyone can see.” <sub alias="Tayo">Teo</sub> smiled. “I know it’s a lot. I know you don’t like to be in anything. I’ve seen you at the levy, standing at the back. I’m not asking you to say anything. I’m asking you to stand there and see it.”</p><break time="500ms"/>
+<!-- p55 · Sigrun (remembered) -->
+<p><prosody volume="-3dB">You’ll stand there and not say anything,</prosody> <sub alias="Siggroon">Sigrun</sub> had said, <prosody volume="-3dB">and everyone will believe whatever you saw.</prosody></p><break time="500ms"/>
+<!-- p56 -->
+<p><sub alias="Cawlder">Calder</sub> looked at the hollow below, at the two fires, east and west, and the wide dark space between them. He looked at <sub alias="Tayo">Teo</sub>’s tired, lit-up face.</p><break time="500ms"/>
+<!-- p57 · reflective -->
+<p><prosody rate="96%">He thought: he walked out onto the stone at <sub alias="Cold-tarn">Coldtarn</sub> with his hands empty.</prosody></p><break time="500ms"/>
+<!-- p58 · Calder -->
+<p>“I’ll come,” he said.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p59 -->
+<p>He saw the knife on the way down.</p><break time="500ms"/>
+<!-- p60 · Teo, out loud, in the open -->
+<p>They came down the cliff path in the late afternoon, <sub alias="Tayo">Teo</sub> ahead of him talking over his shoulder about the fair and the ford and what he’d say to Arn, and at the bottom, where the path came out onto the yard by the lower stable, he turned round on the last step, still lit up, and said it again, out loud, in the open: “Four days after your fair, Fenn. Noon. The ford on Hollow Beck. Don’t you dare forget.”</p><break time="500ms"/>
+<!-- p61 -->
+<p>And a man was sitting on a bucket by the stable door, three paces away, mending a halter.</p><break time="500ms"/>
+<!-- p62 · tension -->
+<p><prosody rate="97%">The same man. The same halter. As if he hadn’t moved all afternoon.</prosody></p><break time="800ms"/>
+<!-- p63 -->
+<p>Rook looked up as they passed and nodded to <sub alias="Tayo">Teo</sub>, pleasant, a hired hand’s nod to a chief’s son. <sub alias="Tayo">Teo</sub> nodded back without really seeing him, still talking. And <sub alias="Cawlder">Calder</sub>, walking behind, looked down at the man on the bucket the way he looked at everything, without meaning to.</p><break time="500ms"/>
+<!-- p64 -->
+<p>Rook had a knife on his belt. An ordinary knife, in an ordinary sheath, the kind every man in the <sub alias="Scar-fell">Scarfell</sub> carried. But the pommel was bare, and the light from the stable door was on it, and there was a mark cut into the end of it, small and neat, the way a smith marks his work.</p><break time="500ms"/>
+<!-- p65 · dread -->
+<p><prosody rate="96%">A ring of six dots.</prosody></p><break time="800ms"/>
+<!-- p66 -->
+<p><sub alias="Cawlder">Calder</sub> knew that mark. He had seen it every day for a month, without wanting to. On the inside of his eyelids, some nights. Stamped on every link of a cut chain, wrapped in a sack, under a loose flag in the corner of his byre behind Bramble’s stall.</p><break time="500ms"/>
+<!-- p67 · tension: outwardly calm -->
+<p><prosody rate="97%">He didn’t stop walking. He didn’t look again. He didn’t do anything at all. He walked past the man on the bucket with his eyes on the stones and his face doing nothing, the way it had done nothing his whole life, and the man went on mending the halter, and <sub alias="Tayo">Teo</sub> went on talking, and they went out across the yard toward the gate.</prosody></p><break time="800ms"/>
+<!-- p68 -->
+<p>But he’d been mending the halter by the stable door, <sub alias="Cawlder">Calder</sub> thought. By the bottom of the cliff path. Three paces from the last step. And <sub alias="Tayo">Teo</sub> had turned round on that step, lit up, the way he got, and said it out loud.</p><break time="500ms"/>
+<!-- p69 · dread · Teo (remembered) -->
+<p><prosody rate="96%"><prosody volume="-3dB">At the ford on Hollow Beck. After the fairs. Four days after Harrow’s End. At noon.</prosody></prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p70 -->
+<p>There were boatmen in the yard by the gate. <sub alias="Salt-reach">Saltreach</sub> men, three of them, in their clothes of all colours and none, with silver in their ears. One of them was the thin one <sub alias="Cawlder">Calder</sub> had seen at <sub alias="Cold-tarn">Coldtarn</sub>, waving his hands at <sub alias="Ullrick">Ulric</sub>’s men. He was still waving them. Some things don’t change.</p><break time="500ms"/>
+<!-- p71 · a boatman -->
+<p>“…cost us a whole season, that girl did,” he was saying to a knot of the new hired men by the gatepost. “A whole season. Gannet’s still sick about it. A duskcat cub. You know what those go for, live? And she lets it into the trees like a sparrow. A Greyhold girl with a tin sword.”</p><break time="500ms"/>
+<!-- p72 · a hired man -->
+<p>“You’ve told us,” said one of the hired men. “Twice.”</p><break time="500ms"/>
+<!-- p73 · a boatman -->
+<p>“I’ll tell it till somebody does something.”</p><break time="500ms"/>
+<!-- p74 · dread: offhand menace · a hired man -->
+<p><prosody rate="96%">“Somebody will,” said the hired man, and laughed, and the others laughed with him. “Don’t you worry. Somebody’s going to do a lot of things, soon. You’ll see.” He glanced up and saw <sub alias="Tayo">Teo</sub> coming, and <sub alias="Cawlder">Calder</sub> behind him, and stopped laughing, and touched his forehead.</prosody></p><break time="800ms"/>
+<!-- p75 -->
+<p><sub alias="Tayo">Teo</sub> didn’t notice. <sub alias="Tayo">Teo</sub> was saying goodbye.</p><break time="500ms"/>
+<!-- p76 · Teo -->
+<p>“Four days after your fair,” he said, at the gate, with the reins of <sub alias="Cawlder">Calder</sub>’s wain in his hand, holding Sorrel’s head himself because <sub alias="Cawlder">Calder</sub> had his hands full of the rope. “At noon. Bring Hob. Bring the old man with the knees. Bring the girl, if you like, if she wants to see a dragon again.” He grinned. “And Fenn. Thank you. You’ve no idea what it means. Nobody else I’ve asked has said yes without looking at Uncle first.”</p><break time="500ms"/>
+<!-- p77 -->
+<p><sub alias="Cawlder">Calder</sub> opened his mouth.</p><break time="500ms"/>
+<!-- p78 · tension · a hired man (remembered) -->
+<p><prosody rate="97%">It was there. The whole of it. The chain under the flag, the six dots, the knife, the man on the bucket by the bottom of the cliff path, the hired hands round the east fire, <prosody volume="-3dB">somebody’s going to do a lot of things, soon</prosody>. It was all there, in his mouth, and all he had to do was say it.</prosody></p><break time="800ms"/>
+<!-- p79 · dread: anxious, racing · Calder (thought); Hollin (remembered) -->
+<p><prosody rate="96%">He thought: and if I’m wrong? If it’s just a smith’s mark, any smith’s, and half the knives on the coast have it? If I say, <prosody rate="97%" volume="-4dB">your uncle’s new man is a liar and maybe something worse</prosody>, and I’m wrong, and it gets back to <sub alias="Ullrick">Ulric</sub> that the barley man from Harrow’s End accused his people in his own yard, four days before the ford? He thought about Hollin saying <prosody volume="-3dB">ask your uncle</prosody> at Upper Rush, and the riders going still. He thought about what happened to people in the Marches who made the Clan angry. He thought about Wren.</prosody></p><break time="800ms"/>
+<!-- p80 · reflective -->
+<p><prosody rate="96%">He thought: it’s not my business. It’s never my business. That’s why we’re still here.</prosody></p><break time="500ms"/>
+<!-- p81 · Calder -->
+<p>“<sub alias="Tayo">Teo</sub>,” he said.</p><break time="500ms"/>
+<!-- p82 · Teo -->
+<p>“Mm?”</p><break time="500ms"/>
+<!-- p83 · Calder -->
+<p>“Be careful. At the ford.”</p><break time="500ms"/>
+<!-- p84 · Teo -->
+<p><sub alias="Tayo">Teo</sub> laughed. “Careful? Fenn, I’m going to stand in a beck with my uncle and my brother and make them shake hands. Careful’s the last thing I’ll be.” He let go of Sorrel’s head and stepped back and lifted his hand. “Go home. Tell the small one <sub alias="Liska">Lisska</sub> says hello.”</p><break time="500ms"/>
+<!-- p85 -->
+<p><sub alias="Cawlder">Calder</sub> went home.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p86 · dread -->
+<p><prosody rate="96%">He didn’t take the chain out from under the flag that night, or the next, or the next. He went past the corner of the byre every morning and every evening, milking Bramble, and every time he went past it he knew exactly where it was, the way you know where a sore tooth is.</prosody></p><break time="800ms"/>
+<!-- p87 · dread: dreamlike · Rook (remembered), pleasant -->
+<p><prosody rate="96%">On the third night he dreamed of a man on a bucket by a stable door, mending a halter that never got mended, and the halter was a chain, and the man looked up at him with a face he couldn’t remember and said, pleasant, <prosody volume="-3dB">you’d laugh to see me with sheep.</prosody></prosody></p>
+<break time="1800ms"/>
+</speak>

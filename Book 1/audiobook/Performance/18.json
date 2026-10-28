@@ -1,0 +1,1322 @@
+{
+ "chapter": 18,
+ "title": "The Mill",
+ "pov": "Calder",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Eighteen.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Mill.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "There’s a thing old farmers say about fire in the fields. They say:"
+  },
+  {
+   "seq": 4,
+   "para": "p1",
+   "type": "remembered",
+   "text": "don’t fight it, move what it wants.",
+   "speaker": "Calder's father"
+  },
+  {
+   "seq": 5,
+   "para": "p1",
+   "type": "narration",
+   "text": "Fire wants straw, and hay, and dry stubble, and the wooden end of a byre. Fire doesn’t want stone, or turned earth, or water, or a beast you’ve had the sense to lead out into the wet beck pasture where there’s nothing to burn. You can’t put out a field. You can only take away what it’s hungry for, and stand somewhere it isn’t, and wait.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p2",
+   "type": "narration",
+   "text": "His father had taught him that when he was six. He’d been sure, at six, that it was the most useless thing anyone had ever told him.",
+   "mood": "humour",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 7,
+   "para": "p3",
+   "type": "narration",
+   "text": "He woke because Wren was shaking him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p4",
+   "type": "speech",
+   "text": "“Da. Da. Da. There’s horses.”",
+   "speaker": "Wren",
+   "how": "urgent, shaking him awake",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p5",
+   "type": "narration",
+   "text": "He was out of bed and at the window before he was properly awake. It was black outside, no moon, and the stars very sharp, as they are in harvest month when the frost is coming. Down the hill, at the bottom of the lane, the mill had lights in it. Lanterns, a lot of them, moving. Carts, three of them, drawn up on the mill yard, with men loading. He could hear them from the house, the creak of the axles and the thump of sacks going up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "speech",
+   "text": "“It’s Hob’s flour,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 11,
+   "para": "p6",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 12,
+   "para": "p6",
+   "type": "speech",
+   "text": "“Ulric’s carts. They’ve come at night.”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 13,
+   "para": "p6",
+   "type": "narration",
+   "text": "He’d heard Hob say they might."
+  },
+  {
+   "seq": 14,
+   "para": "p6",
+   "type": "remembered",
+   "text": "Better they come in the dark,",
+   "speaker": "Hob"
+  },
+  {
+   "seq": 15,
+   "para": "p6",
+   "type": "narration",
+   "text": "Hob had said at the Wheel,"
+  },
+  {
+   "seq": 16,
+   "para": "p6",
+   "type": "remembered",
+   "text": "and nobody sees, and nobody tells Arn.",
+   "speaker": "Hob"
+  },
+  {
+   "seq": 17,
+   "para": "p6",
+   "type": "speech",
+   "text": "“It’s all right, chick. Go back to bed.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p7",
+   "type": "narration",
+   "text": "But Wren didn’t go back to bed. She stood at the window beside him in her nightgown and pointed, not down the hill at the mill, but up. Up the lane. Up the long dark shoulder of the hill behind the farm, to where the Drover’s Way came down off the moor.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p8",
+   "type": "narration",
+   "text": "There were lights there too. A lot more lights. Torches, moving fast, coming down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p9",
+   "type": "narration",
+   "text": "And above them, against the stars, very high, two shapes, wheeling.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 21,
+   "para": "p10",
+   "type": "narration",
+   "text": "Ada was up. She had her shawl on and her boots and she had Wren’s boots in her hand, and she was already pulling Wren’s coat on over the nightgown before Calder had finished saying it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p11",
+   "type": "speech",
+   "text": "“Garrows’,”",
+   "speaker": "Calder",
+   "mood": "urgent"
+  },
+  {
+   "seq": 23,
+   "para": "p11",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 24,
+   "para": "p11",
+   "type": "speech",
+   "text": "“Their cellar. Go down the back way, by the beck, not the lane. Don’t stop. Don’t look at anything.”",
+   "speaker": "Calder",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p12",
+   "type": "speech",
+   "text": "“You come too.”",
+   "speaker": "Ada",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p13",
+   "type": "speech",
+   "text": "“I’ll come. I’ll get the beasts out first.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p14",
+   "type": "speech",
+   "text": "“Calder.”",
+   "speaker": "Ada",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p15",
+   "type": "speech",
+   "text": "“If the byre goes, Ma, Bramble goes with it. And the ewes. And the pig. I’ll put them in the beck pasture and I’ll come.”",
+   "speaker": "Calder",
+   "mood": "tender"
+  },
+  {
+   "seq": 29,
+   "para": "p15",
+   "type": "narration",
+   "text": "He picked Wren up. She was heavy, and warm, and shaking. He held her very tight for a moment, and put his face in her hair, and then put her down.",
+   "mood": "tender"
+  },
+  {
+   "seq": 30,
+   "para": "p15",
+   "type": "speech",
+   "text": "“Go with Gran. Hold her hand. Don’t let go of it, not for anything, not even if she tells you to.”",
+   "speaker": "Calder",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p16",
+   "type": "narration",
+   "text": "Wren looked up at him. Her face was white.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p17",
+   "type": "speech",
+   "text": "“The dragons,”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 33,
+   "para": "p17",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 34,
+   "para": "p17",
+   "type": "speech",
+   "text": "“Is it Lisska? Is it Imra’s dragon?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p18",
+   "type": "speech",
+   "text": "“I don’t know, chick. Go on.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p19",
+   "type": "narration",
+   "text": "They went out the back door into the dark, the two of them, Ada holding Wren’s hand, down the path along the top of the beck pasture toward the stile and the Garrows’ farm. He stood at the door and watched them till he couldn’t see them. He went out to the byre.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 37,
+   "para": "p20",
+   "type": "narration",
+   "text": "He’d got the ewes out and the pig, and was going back in for Bramble, when the mill went up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p21",
+   "type": "narration",
+   "text": "He heard it before he saw it. A sound like a great breath drawn in. Then a light came up out of the bottom of the valley, orange and yellow, so sudden and so bright that the shadow of the byre jumped out across the yard in front of him like something alive. He turned round.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p22",
+   "type": "narration",
+   "text": "The mill was burning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p23",
+   "type": "narration",
+   "text": "All at once, the whole roof of it, as if it had been soaked in oil, which perhaps it had. The flames went up through the roof in a single sheet and lit the whole bottom of the valley: the mill yard, the carts, the men round the carts, running. Horses rearing in the shafts. Coming down the lane from the Drover’s Way, at the gallop, a long line of riders with torches, grey cloaks, swords out, shouting. Thirty of them. Forty. Arn’s men. Coming down on Ulric’s carts.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p24",
+   "type": "narration",
+   "text": "Above them, two shapes, lit from below now, red and gold in the light of the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p25",
+   "type": "narration",
+   "text": "He knew them both. The rust-red one, broad and scarred, wings like a ship’s sails: Kharrak. The small quick green one, going round and round the other in tight hard circles: Lisska.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p26",
+   "type": "narration",
+   "text": "Kharrak tipped and dropped. He came down over the mill yard low and slow and opened his mouth, and a long gout of fire came out of it and went across the carts. The flour went up. Forty sacks of Hob’s flour, all at once, in a great white rolling ball of flame like a cloud catching fire, with a sound like a door slamming on the whole world. The light of it went right up the hill and over the Fenn farm and Calder put his arm over his face.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p27",
+   "type": "narration",
+   "text": "When he took it away, Ulric’s men were fighting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p28",
+   "type": "narration",
+   "text": "There’d been more of them than he’d thought. More than a cart escort. They came out from behind the mill and from the lane by the Wheel and from the river path, plain grey, with axes, roaring, and met Arn’s riders in the mill yard and the lane and on the green, in the light of the burning flour. He could hear it from the byre door. Iron on iron. Horses screaming. Men.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p29",
+   "type": "narration",
+   "text": "Then, from the east, from away over the hills, came a sound he’d heard before. Three days before, at Varrhold, in the rain. A deep slow beat in the air, more felt than heard, like a drum under the ground.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p30",
+   "type": "narration",
+   "text": "He looked east, and saw her come.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 48,
+   "para": "p31",
+   "type": "narration",
+   "text": "Aurveth came over the shoulder of the hill like the sun coming up wrong.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 49,
+   "para": "p32",
+   "type": "narration",
+   "text": "She was so much bigger than the other two. He’d known that, at Varrhold, with the three of them going round over the pyre. He hadn’t known it like this. She came low over the fields, with her great bronze wings going up and down slow and enormous, each beat throwing the smoke from the mill sideways in a long wave, and the firelight running along her flanks and her neck and the long shining plates of her chest. There was a figure on her back. Small. Grey. Sitting very straight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p33",
+   "type": "narration",
+   "text": "Sigrun Holm. Who’d stood with Ulric. Who’d said she’d follow the Clan’s sword until someone proved to her it had done murder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p34",
+   "type": "narration",
+   "text": "Kharrak saw her. He came up off the mill yard in a long climbing turn, beating hard, with Dag on his back, and went to meet her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p35",
+   "type": "narration",
+   "text": "Calder stood at the byre door with Bramble’s halter in his hand and watched two dragons meet in the air over Harrow’s End.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p36",
+   "type": "narration",
+   "text": "It was like two thunderstorms fighting. It was too big and too fast and too loud. They came together in the air above the green with a crash that he felt in his teeth, and locked, and went round and round each other, falling, rising, tearing, with their wings beating and their tails lashing and fire going out of them in great streams into the dark. Kharrak was faster. Aurveth was bigger. Kharrak went for her neck and she turned and took him on her shoulder, and her jaws closed on the root of his wing, and he screamed.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p37",
+   "type": "narration",
+   "text": "And Dag Rorke stood up on Kharrak’s back with his axe in his hand and swung at her eye.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p38",
+   "type": "narration",
+   "text": "He hit. Calder saw it. Aurveth’s head went back and something dark came out of the side of it, and she let go of Kharrak’s wing. Her head came round again, fast, faster than anything that size should move, and her jaws opened, and closed, not on Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p39",
+   "type": "narration",
+   "text": "On Dag.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p40",
+   "type": "narration",
+   "text": "She took him off Kharrak’s back the way a heron takes a fish. Calder saw him go. A small dark figure, in the air, for a moment, between the two great shapes. Then he was falling. Down, and down, turning over, onto the burning roofs at the bottom of the valley, and was gone.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p41",
+   "type": "narration",
+   "text": "Kharrak screamed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p42",
+   "type": "narration",
+   "text": "This scream was nothing like the one Aurveth’s bite had torn out of him. Calder had never heard a sound like it come out of any living thing, and hoped he never would again: high and broken and going on and on, like the whole world tearing down the middle. The rust-red dragon fell away from Aurveth in the air, not flying, not trying to fly, just falling, his wings half open and flailing, his head thrown back, screaming.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 60,
+   "para": "p43",
+   "type": "narration",
+   "text": "As he fell, he lashed out. Blind. At anything. His great hind claws came up and raked across Aurveth’s back as he went down past her, from the shoulders to the root of the tail, through the bronze plates as if they were cloth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p44",
+   "type": "narration",
+   "text": "Through the small grey figure sitting very straight on her back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p45",
+   "type": "narration",
+   "text": "Then Kharrak was falling toward the hill. Toward the Fenn farm. Toward him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 63,
+   "para": "p46",
+   "type": "narration",
+   "text": "He didn’t run. There wasn’t time to run. He stood there at the door of the byre with Bramble’s halter in his hand and watched a dragon come down out of the sky at him like a burning house falling off a cliff.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 64,
+   "para": "p47",
+   "type": "narration",
+   "text": "Kharrak hit the barley field above the farm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p48",
+   "type": "narration",
+   "text": "The ground jumped. The whole hill jumped, under Calder’s feet, like a blanket shaken out, and he was thrown down on his face in the yard. Dirt came down on him. Stones. The sound came after, a great dull thud that went through everything, and then a long tearing crash, going on, as the dragon slid down the slope through the stubble and the stooks and the hedge, ploughing a furrow in the field as wide as a lane, throwing up earth and straw and burning stooks in a wave in front of him, coming down, and down, toward the yard.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p49",
+   "type": "narration",
+   "text": "He got up on his hands and knees. He saw the tail coming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p50",
+   "type": "narration",
+   "text": "It came round, at the end of that long slide, as the great body slowed and turned and stopped. It came round sideways across the bottom of the field and through the hedge and into the end of the byre, like a scythe, and the wall of the byre went in, all of it, stone and timber and slates, and Calder with it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p51",
+   "type": "narration",
+   "text": "He didn’t feel it hit him. He felt the wall go, and the air go out of him, and something take him under the ribs and lift him and throw him. Then he was lying on his back in the stubble, outside the hedge, in the field, with the stars going round over him and something wet running into his eyes and no air in him at all. He tried to breathe. Something in his side wouldn’t let him. He tried again, and it went in, a little, and the pain came with it, white and huge and clean, from the side of his chest all the way through to his back, as if somebody had driven a stake in him.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p52",
+   "type": "narration",
+   "text": "He lay there and breathed. In. Out. Each time, the stake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p53",
+   "type": "narration",
+   "text": "Somewhere close, very close, something enormous was breathing too.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 71,
+   "para": "p54",
+   "type": "narration",
+   "text": "He turned his head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p55",
+   "type": "narration",
+   "text": "Kharrak was lying in the field a few lengths from him, on his side, in the furrow he’d made, with burning straw all round him and the firelight on him. His wings were spread out on the stubble, crumpled, one of them torn at the root where Aurveth had bitten it, and his long neck was stretched out flat on the ground, and his head was lying on the earth, turned toward Calder. His eyes were open. They were gold, and huge, each one as big as a man’s two fists, with a long black slit in the middle. They were looking at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p56",
+   "type": "narration",
+   "text": "His breath came out in long, ragged, shaking gusts that stirred the straw. With every breath, something was going out of him. Calder could see it. The red of his scales, that had been bright as rust in the firelight, was going dull. Grey, at the edges. Like a coal going out.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 74,
+   "para": "p57",
+   "type": "thought",
+   "text": "Withering,",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 75,
+   "para": "p57",
+   "type": "narration",
+   "text": "Calder thought."
+  },
+  {
+   "seq": 76,
+   "para": "p57",
+   "type": "thought",
+   "text": "That’s what it is. I’ve heard of it. Everyone’s heard of it. The rider dies, and the beast goes after.",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p58",
+   "type": "narration",
+   "text": "Dag Rorke had fallen onto the roofs at the bottom of the valley. And Kharrak was going after him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p59",
+   "type": "narration",
+   "text": "Calder lay in the stubble with the stake in his side and the blood running into his eyes and looked at the dragon, and the dragon looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p60",
+   "type": "narration",
+   "text": "He couldn’t have said why he did what he did then. It might have been the eyes. It might have been the breathing, which sounded so much like Bramble’s when she’d had the colic, the winter before last, and he’d sat up with her all night in the straw. Or it was just that he was lying there hurt, and something else was lying there hurt beside him, and it was what he did. What he’d always done. With every beast on the farm, all his life.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p61",
+   "type": "narration",
+   "text": "He talked to it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p62",
+   "type": "speech",
+   "text": "“Hey,”",
+   "speaker": "Calder",
+   "how": "whispered",
+   "mood": "tender"
+  },
+  {
+   "seq": 82,
+   "para": "p62",
+   "type": "narration",
+   "text": "he said. It came out a whisper. It was all the breath he had.",
+   "mood": "tender"
+  },
+  {
+   "seq": 83,
+   "para": "p62",
+   "type": "speech",
+   "text": "“Hey. Hey, now. I know. I know, lad. I know.”",
+   "speaker": "Calder",
+   "how": "whispered",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p63",
+   "type": "narration",
+   "text": "The great gold eye looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p64",
+   "type": "speech",
+   "text": "“It’s all right,”",
+   "speaker": "Calder",
+   "mood": "tender"
+  },
+  {
+   "seq": 86,
+   "para": "p64",
+   "type": "narration",
+   "text": "said Calder. It wasn’t. Nothing was. He said it anyway, as you say it to a calf.",
+   "mood": "tender"
+  },
+  {
+   "seq": 87,
+   "para": "p64",
+   "type": "speech",
+   "text": "“It’s all right. I’m here. I’m here, lad. Easy.”",
+   "speaker": "Calder",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p65",
+   "type": "narration",
+   "text": "And the dragon moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p66",
+   "type": "narration",
+   "text": "It dragged itself toward him. Across the stubble, through the burning straw, slowly, on its belly, with its torn wing trailing, the way he’d once seen a dog with a broken back drag itself to its master’s feet. Its claws dug into the earth. Its breath came out of it in great shaking gusts. It came on until its head was lying on the ground beside him, so close he could have put out his hand and touched the long scarred jaw. So close the heat of its breath went over him, and the smell, smoke and iron and something like hot stones.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p67",
+   "type": "narration",
+   "text": "He put out his hand. He didn’t decide to. It was what he did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p68",
+   "type": "narration",
+   "text": "He touched it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 92,
+   "para": "p69",
+   "type": "narration",
+   "text": "Afterwards, when they asked him, he’d say it was like being struck by lightning. And they’d nod, and he’d know they didn’t understand, and he’d think: no. Lightning’s quick. This wasn’t quick. This was slow. This was like being struck by lightning that took a lifetime to hit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p70",
+   "type": "narration",
+   "text": "It went into his hand. Into his arm. Into his chest, under the broken ribs, and into the middle of him, the place where you feel it when you’re frightened, and went on going in, further, further, into places in him he didn’t know were there. It wasn’t pain. Or it was, but not his. He felt the torn wing as if it were his own arm torn at the shoulder. He felt the bite in his side. He felt the ground under him, hard, cold, all along the length of a body that was ten times the length of his, and the fire in the straw along a flank he’d never had.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 94,
+   "para": "p71",
+   "type": "narration",
+   "text": "And he felt the falling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p72",
+   "type": "narration",
+   "text": "Not Kharrak’s. Dag’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p73",
+   "type": "narration",
+   "text": "He was standing up on a dragon’s back in the wind and the fire with an axe in his hand and his whole body full of rage, hot and clean and simple, and he’d hit, he’d hit her, he’d seen her eye go,",
+   "mood": "anger"
+  },
+  {
+   "seq": 97,
+   "para": "p73",
+   "type": "thought",
+   "text": "good,",
+   "speaker": "Dag",
+   "mood": "anger"
+  },
+  {
+   "seq": 98,
+   "para": "p73",
+   "type": "narration",
+   "text": "and then the jaws, and the air, and he was in the air, and the ground was coming up, and the last thing in him, the very last, wasn’t fear. It was fury. Pure and bright and furious.",
+   "mood": "anger"
+  },
+  {
+   "seq": 99,
+   "para": "p73",
+   "type": "thought",
+   "text": "Not yet. Not yet. I’m not finished. I’m not FINISHED.",
+   "speaker": "Dag",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p74",
+   "type": "narration",
+   "text": "And then nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p75",
+   "type": "narration",
+   "text": "Calder screamed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p76",
+   "type": "narration",
+   "text": "He heard himself do it, from a long way off. He couldn’t stop. He was lying in the stubble with his hand on the dragon’s jaw and screaming, and in the middle of him, in the place where it had gone in, something had taken hold. Like a hand closing. Like a root going down. He felt it close, and hold, and he felt the dragon feel it too, at the same moment, the same terrible astonished moment:"
+  },
+  {
+   "seq": 103,
+   "para": "p76",
+   "type": "bond",
+   "text": "what. What is this. What have you done.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p77",
+   "type": "narration",
+   "text": "It wasn’t words. He didn’t know yet that it would ever be words. It was just a feeling, huge and raw and pressed right up against his own, so close he couldn’t tell which of them was feeling it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p78",
+   "type": "narration",
+   "text": "Then it was gone, and he was lying on his back in the stubble, breathing, with the stake in his side, and Kharrak’s head was lying on the ground beside him, and Kharrak’s eye was still open, still gold, still looking at him. The grey that had been spreading across the scales had stopped.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 106,
+   "para": "p79",
+   "type": "narration",
+   "text": "He lay there a few breaths, no more. Then the field shook again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p80",
+   "type": "narration",
+   "text": "Aurveth came down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p81",
+   "type": "narration",
+   "text": "She came down slower than Kharrak, much slower, gliding, with her great wings spread out stiff and still on either side of her like the sails of a ship with no one at the helm. She came down out of the dark over the burning mill and across the hill and onto the top of the Fenn barley field, above him, and landed, badly, on her chest, and slid, and stopped. Her back was torn open from her shoulders to her tail. He could see it in the firelight, black and glistening. On her back, in the wreck of the saddle, slumped forward over the pommel with her grey cloak torn and her white head hanging, was Sigrun Holm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p82",
+   "type": "narration",
+   "text": "Not moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p83",
+   "type": "narration",
+   "text": "The great bronze dragon lifted her head and turned it on her long neck, and looked back at the woman on her back. Then she put back her head and made a sound, lower than a scream. Long and deep and broken, the sound she’d made over Teo’s pyre, but worse, so much worse, going on and on.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 111,
+   "para": "p84",
+   "type": "narration",
+   "text": "When it stopped, she turned her head and looked down the field at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p85",
+   "type": "narration",
+   "text": "At him, and at Kharrak lying beside him with his head on the ground.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p86",
+   "type": "narration",
+   "text": "He saw her see it. Whatever it was, whatever had happened between him and the rust-red dragon, she saw it. He saw something go across that vast bronze face, in the great gold eye that was still whole, the one Dag’s axe hadn’t found. Something like understanding. And something like horror.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p87",
+   "type": "narration",
+   "text": "Slowly, she began to come down the field toward him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p88",
+   "type": "narration",
+   "text": "He wanted to say",
+   "mood": "dread"
+  },
+  {
+   "seq": 116,
+   "para": "p88",
+   "type": "thought",
+   "text": "no.",
+   "speaker": "Calder",
+   "mood": "dread"
+  },
+  {
+   "seq": 117,
+   "para": "p88",
+   "type": "narration",
+   "text": "He wanted to say",
+   "mood": "dread"
+  },
+  {
+   "seq": 118,
+   "para": "p88",
+   "type": "thought",
+   "text": "not you too, I can’t, I can’t, there isn’t room.",
+   "speaker": "Calder",
+   "mood": "dread"
+  },
+  {
+   "seq": 119,
+   "para": "p88",
+   "type": "narration",
+   "text": "He didn’t say anything. He lay there and watched her come, dragging herself on her belly through the stubble with her back torn open and Sigrun Holm sliding off her, falling, lying still on the field behind her, and her bronze scales going grey at the edges in the firelight, the same as Kharrak’s had, the same as a coal going out.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 120,
+   "para": "p89",
+   "type": "narration",
+   "text": "She stopped above him. Her head came down. The one whole eye, as big as a cartwheel’s hub, looked at him from an arm’s length away. Old. So old. Older than the hold. Older than the Clan. He could see it in there, the age of her, going back and back like the black water of Coldtarn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p90",
+   "type": "narration",
+   "text": "He put out his other hand.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 122,
+   "para": "p91",
+   "type": "narration",
+   "text": "It was slower this time, and deeper, and colder. It went in and down and he went with it, down, through dark water, falling, and he was sitting very straight on a dragon’s back in the wind over a burning valley and he was old, and tired, and his back was a long line of fire, and he thought:",
+   "mood": "grief"
+  },
+  {
+   "seq": 123,
+   "para": "p91",
+   "type": "thought",
+   "text": "oh.",
+   "speaker": "Sigrun",
+   "mood": "grief"
+  },
+  {
+   "seq": 124,
+   "para": "p91",
+   "type": "narration",
+   "text": "Just that.",
+   "mood": "grief"
+  },
+  {
+   "seq": 125,
+   "para": "p91",
+   "type": "thought",
+   "text": "Oh.",
+   "speaker": "Sigrun",
+   "mood": "grief"
+  },
+  {
+   "seq": 126,
+   "para": "p91",
+   "type": "narration",
+   "text": "Surprised. And then:",
+   "mood": "grief"
+  },
+  {
+   "seq": 127,
+   "para": "p91",
+   "type": "thought",
+   "text": "not like this. Not by him. Not by Kharrak, of all of them, that I taught to fly when he was the size of a pony.",
+   "speaker": "Sigrun",
+   "mood": "grief"
+  },
+  {
+   "seq": 128,
+   "para": "p91",
+   "type": "narration",
+   "text": "And then, very quietly, as the dark came up:",
+   "mood": "grief"
+  },
+  {
+   "seq": 129,
+   "para": "p91",
+   "type": "thought",
+   "text": "Aurveth. Old girl. I’m sorry. I’m sorry. Three of us now. I’m sorry.",
+   "speaker": "Sigrun",
+   "how": "very quietly",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 130,
+   "para": "p92",
+   "type": "narration",
+   "text": "The hand closed in him again, the root went down. A second one. Beside the first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p93",
+   "type": "narration",
+   "text": "He was crying. He hadn’t known. He was lying in the field with a hand on each of two dragons’ faces and tears running down into his ears and his whole body shaking, and there was too much in him. Far too much. There was a torn wing and a torn back and a broken rib that was his and a lost eye that wasn’t, and a fury that was Dag’s and a grief that was Sigrun’s, and under all of it, two vast, raw, astonished presences pressed up against him in the dark of his own head, so close, so close, and both of them saying the same thing that wasn’t words:",
+   "mood": "grief"
+  },
+  {
+   "seq": 132,
+   "para": "p93",
+   "type": "bond",
+   "text": "What are you. What have you done. What is this.",
+   "speaker": "Kharrak and Aurveth",
+   "listener": "Calder",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 133,
+   "para": "p94",
+   "type": "bond",
+   "text": "I don’t know,",
+   "speaker": "Calder",
+   "listener": "Kharrak and Aurveth"
+  },
+  {
+   "seq": 134,
+   "para": "p94",
+   "type": "narration",
+   "text": "he thought, at them, or at himself."
+  },
+  {
+   "seq": 135,
+   "para": "p94",
+   "type": "bond",
+   "text": "I don’t know. I don’t know.",
+   "speaker": "Calder",
+   "listener": "Kharrak and Aurveth",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 136,
+   "para": "p95",
+   "type": "narration",
+   "text": "The third came in from the dark by the hedge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p96",
+   "type": "narration",
+   "text": "He didn’t see her come. He heard her. A quick, light, frantic beating of wings, low over the field, and a high thin crying sound, going up and down, like a child calling for someone in a crowd. Lisska. The small green one. She came in over the hedge low and fast, with Imra on her back, toward the two great shapes lying in the stubble. As if she’d seen them fall and was coming to see. To help. To ask.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p97",
+   "type": "narration",
+   "text": "Something went thock in the dark by the hedge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p98",
+   "type": "narration",
+   "text": "He knew that sound. Everyone in the Marches knew it, from the autumn shoots on the river. A crossbow. Somewhere in the dark at the bottom of the field, by the hedge, somebody had a crossbow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p99",
+   "type": "narration",
+   "text": "On Lisska’s back, Imra Sallow put her hand up to her throat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p100",
+   "type": "narration",
+   "text": "Then she was falling sideways out of the saddle, slowly, like someone who has fallen asleep on a horse, and the green dragon was coming down, too fast, wrong, tumbling, into the stubble at the bottom of the field, and rolling, and lying still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p101",
+   "type": "narration",
+   "text": "And then the crying.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p102",
+   "type": "narration",
+   "text": "It came up out of her, out of the dark at the bottom of the field, high and thin and going on and on, and it didn’t stop, and Calder lay there between the two great dying shapes with his hands on their faces and heard it, and thought:",
+   "mood": "grief"
+  },
+  {
+   "seq": 144,
+   "para": "p102",
+   "type": "thought",
+   "text": "oh, no. Oh, no, no. Not you. Not you as well. You’re only small.",
+   "speaker": "Calder",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 145,
+   "para": "p103",
+   "type": "narration",
+   "text": "He couldn’t reach her. He couldn’t move. He lay there and he said, through his teeth, with what breath he had, into the dark:",
+   "mood": "tender"
+  },
+  {
+   "seq": 146,
+   "para": "p103",
+   "type": "speech",
+   "text": "“Here. Here. Come here. Come on. I’m here. Come on, little one.”",
+   "speaker": "Calder",
+   "how": "through his teeth",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p104",
+   "type": "narration",
+   "text": "And she came.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p105",
+   "type": "narration",
+   "text": "He heard her come. Dragging. Crying. Through the stubble, up the slope, toward the only voice she could hear. He couldn’t turn his head to see. He felt her arrive: a weight against his legs, a hot frantic face pushing in under his arm, against his side, against the broken ribs, so that the stake went into him again and he cried out. Something touched his hand, his wrist, a long thin muzzle, trembling, and he turned his hand over, and held it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p106",
+   "type": "narration",
+   "text": "This one was fast. This one was so fast it was like falling through ice. Cold, sudden, everywhere at once. He was lying on a green dragon’s back in the stubble with something stuck in his throat, and it was cold, it was so cold, and it didn’t hurt, that was the strange thing, it didn’t hurt at all. It was just cold. He thought, quite clearly:",
+   "mood": "quiet"
+  },
+  {
+   "seq": 150,
+   "para": "p106",
+   "type": "thought",
+   "text": "Teo.",
+   "speaker": "Imra",
+   "mood": "quiet"
+  },
+  {
+   "seq": 151,
+   "para": "p106",
+   "type": "narration",
+   "text": "Just that. He was almost glad.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 152,
+   "para": "p106",
+   "type": "thought",
+   "text": "Teo. Wait for me.",
+   "speaker": "Imra",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p107",
+   "type": "narration",
+   "text": "And then nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p108",
+   "type": "narration",
+   "text": "And the third hand closed in him, and the third root went down, and held.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p109",
+   "type": "narration",
+   "text": "Around him, all three of them cried out at once, one long broken sound, and stopped, as if a door had shut on it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 156,
+   "para": "p110",
+   "type": "narration",
+   "text": "It was too much.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p111",
+   "type": "narration",
+   "text": "He knew that, quite calmly, lying there. It was too much for one man. There was no room in him for this. There were three of them in him now, pressing in, three vast raw grieving furious astonished minds jammed in against his own in the dark of his skull like three bulls in a pen made for a lamb. And three deaths. He’d felt three people die. He’d been three people dying. They were still in him, the last of them, Dag’s fury and Sigrun’s sorrow and Imra’s cold, going round and round like leaves in a pool.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 158,
+   "para": "p112",
+   "type": "narration",
+   "text": "Under all of it, the stake in his side, going in with every breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p113",
+   "type": "narration",
+   "text": "He thought:"
+  },
+  {
+   "seq": 160,
+   "para": "p113",
+   "type": "thought",
+   "text": "I’m going to die.",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p114",
+   "type": "narration",
+   "text": "He thought it quite calmly. It seemed obvious. It seemed like the only possible thing. Nobody could hold this. Nobody could live with this in them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p115",
+   "type": "narration",
+   "text": "And then he thought:",
+   "mood": "tender"
+  },
+  {
+   "seq": 163,
+   "para": "p115",
+   "type": "thought",
+   "text": "Wren.",
+   "speaker": "Calder",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p116",
+   "type": "narration",
+   "text": "And then the roar came.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 165,
+   "para": "p117",
+   "type": "narration",
+   "text": "It came from the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p118",
+   "type": "narration",
+   "text": "It came across the water from the west, from the island, from the Old Ruin, and it was the biggest sound he had ever heard. Bigger than the dragons. Bigger than the mill going up. It was so deep that the first of it wasn’t a sound at all, just a shaking in the ground under him, coming up through his back and his broken ribs. Then it rose. It came up out of the ground and into the air and went on rising, a long, rolling, endless roar, like the whole of the river had stood up on its end and was shouting, and it went over the burning mill and the green and the lanes and the fields, and over him, and up the hill, and away into the Scarfell, and he heard it echo back off the hills, and come back, and go away again.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 167,
+   "para": "p119",
+   "type": "narration",
+   "text": "Everything stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p120",
+   "type": "narration",
+   "text": "The fighting in the lanes stopped. The shouting. The horses. The fire went on crackling in the straw, and the mill roared, but everything else, every living thing on the Saltreach bank of the river, stopped and stood still and listened.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p121",
+   "type": "narration",
+   "text": "The three dragons lying around him in the stubble lifted their heads.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p122",
+   "type": "narration",
+   "text": "He felt them do it. He felt it go through them, through all three, and through him, through the three new roots in the middle of him, like a bell struck in his chest. Not fear. More like the feeling you get when you’re very small and you hear your mother’s voice in another room.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 171,
+   "para": "p123",
+   "type": "bond",
+   "text": "What,",
+   "speaker": "the dragons",
+   "listener": "Calder"
+  },
+  {
+   "seq": 172,
+   "para": "p123",
+   "type": "narration",
+   "text": "said something in the dark of his head. It was the first thing that had ever been words. He didn’t know which of them said it. Maybe all three. Maybe him."
+  },
+  {
+   "seq": 173,
+   "para": "p123",
+   "type": "bond",
+   "text": "What was that.",
+   "speaker": "the dragons",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p124",
+   "type": "narration",
+   "text": "He couldn’t tell who answered. Maybe nobody did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p125",
+   "type": "bond",
+   "text": "Old,",
+   "speaker": "the dragons",
+   "listener": "Calder"
+  },
+  {
+   "seq": 176,
+   "para": "p125",
+   "type": "narration",
+   "text": "something said."
+  },
+  {
+   "seq": 177,
+   "para": "p125",
+   "type": "bond",
+   "text": "Something old.",
+   "speaker": "the dragons",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p126",
+   "type": "narration",
+   "text": "Then the dark came up over him, gently, the way the black water had come up over the ash at Coldtarn, and drew him in toward the middle, and he went down.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  }
+ ]
+}

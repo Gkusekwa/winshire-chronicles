@@ -1,0 +1,1450 @@
+{
+ "chapter": 5,
+ "title": "Roads and Roadblocks",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Five.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Roads and Roadblocks.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The River Road is the oldest road in Hearthmere that anyone still uses, and the knights will tell you it was built for them. It wasn’t. It was built for the river: a towpath first, a drovers’ track after that, and only last of all a patrol road, when the orders took the Marches and needed a way to ride the whole bank in a day. It runs from Millbrook in the south to Northwatch in the north, a little back from the water so the floods don’t take it, with a tower every few leagues and a wayside shrine in between, and the knights have ridden it every autumn for three hundred years. The farmers along it still call it the towpath. The knights have stopped correcting them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "First patrol was supposed to be a ceremony. Maren had seen it from the river watch, years ago: the year’s students riding out of Greyhold in two lines with the first lance at the front and the banner going, and everyone in Millbrook coming out to watch them go by. It was the first time a student rode the road as a knight, more or less. It meant you were nearly something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "This year it was eight students and one instructor and nobody watching, because two nights ago the far bank had burned, and yesterday every knight in Greyhold who could sit a horse had ridden north on the same road in a column, and come back at midnight with their faces shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "speech",
+   "text": "“Not a ceremony,”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "narration",
+   "text": "Pell said in the yard at dawn, while they were mounting."
+  },
+  {
+   "seq": 8,
+   "para": "p4",
+   "type": "speech",
+   "text": "“A patrol. You’ll ride to Northwatch and back. You’ll look at things. You’ll tell me what you saw. You will not draw a blade unless I draw first, and if I draw first you will still think about it. Haverly, you’re lance. Ashdown, rear. Questions?”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p5",
+   "type": "narration",
+   "text": "Nobody had questions. Pell didn’t encourage them before breakfast.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "narration",
+   "text": "Maren had been given Turnip.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "narration",
+   "text": "Turnip was what the stables had left. He was an elderly piebald gelding with a hanging lip and one white eye and a habit, the grooms said, of stopping dead in the road to consider his life choices. First lance got the good horse; the late-oath candidates got Turnip, and had for years. Someone had tied a turnip to his bridle as a joke, years ago, and nobody had ever taken it off, so it had dried into a small brown fist that knocked against his cheek when he walked. Maren checked his feet, and his girth, and his teeth, which were older than Tobin, and got up.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p8",
+   "type": "speech",
+   "text": "“He likes you,”",
+   "speaker": "the groom"
+  },
+  {
+   "seq": 13,
+   "para": "p8",
+   "type": "narration",
+   "text": "said the groom.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p9",
+   "type": "speech",
+   "text": "“He doesn’t know me.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p10",
+   "type": "speech",
+   "text": "“That’s what I mean. He doesn’t like anybody who knows him.”",
+   "speaker": "the groom",
+   "mood": "humour",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 16,
+   "para": "p11",
+   "type": "narration",
+   "text": "They rode out of the gate in two lines with Haverly at the front, his falcon on his fist and the banner on the pole behind his saddle, and the sun coming up over the Saltreach bank. Maren rode at the back with Turnip and Tobin and the Darrow girl, whose brindled hound loped beside her stirrup with its tongue out like it was the best day of its life. It probably was. Hounds loved patrols. They loved anything that went somewhere.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p12",
+   "type": "speech",
+   "text": "“Rear,”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 18,
+   "para": "p12",
+   "type": "narration",
+   "text": "said Tobin."
+  },
+  {
+   "seq": 19,
+   "para": "p12",
+   "type": "speech",
+   "text": "“Of course you’re rear.”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p13",
+   "type": "speech",
+   "text": "“Someone has to be.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p14",
+   "type": "speech",
+   "text": "“Someone cleans the privies too. Doesn’t make it an honour.”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 22,
+   "para": "p14",
+   "type": "narration",
+   "text": "He was riding a bay that was nearly as bad as Turnip and sitting it worse."
+  },
+  {
+   "seq": 23,
+   "para": "p14",
+   "type": "speech",
+   "text": "“You know why they put us at the back? Ambush. Lose the back, you’ve lost nobody.”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p15",
+   "type": "speech",
+   "text": "“They put me at the back,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 25,
+   "para": "p15",
+   "type": "narration",
+   "text": "Maren said,"
+  },
+  {
+   "seq": 26,
+   "para": "p15",
+   "type": "speech",
+   "text": "“because I can see the whole line from here, and I’ll notice if something goes wrong before Haverly does. Pell told me yesterday.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p16",
+   "type": "speech",
+   "text": "“Did he?”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p17",
+   "type": "speech",
+   "text": "“No. But it’s true.”",
+   "speaker": "Maren",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p18",
+   "type": "narration",
+   "text": "Tobin laughed despite himself. The Darrow girl smiled down at her hound and said nothing. She almost never said anything. She was seventeen and had been bonded since she was twelve, and when she looked at the hound you could see the two of them talking, or something like talking; it was like watching two people share a joke across a crowded room. Maren didn’t look at it for long. She never did.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 30,
+   "para": "p19",
+   "type": "narration",
+   "text": "Turnip stopped dead twice before Redwatch. The second time Maren leaned down and blew in his ear, as Ottery did with the boat ponies, and he walked on, which might have been the breath and might have been that he’d finished thinking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p20",
+   "type": "narration",
+   "text": "At Redwatch she asked Pell for leave to water the horses, and Pell looked at her for a moment as if he knew precisely what she wanted, and gave it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p21",
+   "type": "narration",
+   "text": "Redwatch was a square tower of red sandstone half a league back from the river, with a boathouse on the bank below it where the river watch kept its long boats. Maren had served out of it for two winters. She knew the smell of it, tar and wet rope and cold stone, before she’d even turned Turnip down the track. Sergeant Ottery was sitting in the boathouse door mending a net with his feet up on a barrel, exactly as she’d left him two years ago, as if he’d been sitting there waiting for her the whole time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p22",
+   "type": "speech",
+   "text": "“Ashdown,”",
+   "speaker": "Ottery"
+  },
+  {
+   "seq": 34,
+   "para": "p22",
+   "type": "narration",
+   "text": "he said, without surprise."
+  },
+  {
+   "seq": 35,
+   "para": "p22",
+   "type": "speech",
+   "text": "“Look at you. Nearly a knight.”",
+   "speaker": "Ottery",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p23",
+   "type": "speech",
+   "text": "“Nearly.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p24",
+   "type": "speech",
+   "text": "“First patrol. I saw them go by. I’d have waved, but my arm’s tired.”",
+   "speaker": "Ottery"
+  },
+  {
+   "seq": 38,
+   "para": "p24",
+   "type": "narration",
+   "text": "He looked at Turnip."
+  },
+  {
+   "seq": 39,
+   "para": "p24",
+   "type": "speech",
+   "text": "“They gave you the turnip horse.”",
+   "speaker": "Ottery",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p25",
+   "type": "speech",
+   "text": "“They did.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p26",
+   "type": "speech",
+   "text": "“Course they did.”",
+   "speaker": "Ottery"
+  },
+  {
+   "seq": 42,
+   "para": "p26",
+   "type": "narration",
+   "text": "He didn’t get up. He’d never got up for anyone below a captain."
+  },
+  {
+   "seq": 43,
+   "para": "p26",
+   "type": "speech",
+   "text": "“What do you want? You’ve the face you used to get when you’d found a body in the reeds.”",
+   "speaker": "Ottery",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p27",
+   "type": "narration",
+   "text": "She sat down on the bollard opposite him."
+  },
+  {
+   "seq": 45,
+   "para": "p27",
+   "type": "speech",
+   "text": "“Two nights ago. The night Upper Rush burned. Who had the boat?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p28",
+   "type": "narration",
+   "text": "Ottery’s needle stopped.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 47,
+   "para": "p29",
+   "type": "speech",
+   "text": "“Nobody had the boat,”",
+   "speaker": "Ottery"
+  },
+  {
+   "seq": 48,
+   "para": "p29",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p30",
+   "type": "speech",
+   "text": "“Somebody always has the boat. There’s always one out at night. That’s the whole point of the river watch.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p31",
+   "type": "speech",
+   "text": "“Nobody had the boat.”",
+   "speaker": "Ottery",
+   "mood": "tension"
+  },
+  {
+   "seq": 51,
+   "para": "p31",
+   "type": "narration",
+   "text": "He started mending again, slowly, as if the net were very interesting.",
+   "mood": "tension"
+  },
+  {
+   "seq": 52,
+   "para": "p31",
+   "type": "speech",
+   "text": "“Rider came at dusk. Before the fires. Greyhold seal on the order. Boats in and stay in till dawn; the orders are moving on the river tonight and don’t want to be mistaken for anyone else. So we brought the boats in, and we stayed in. Then the fires went up, and we stood on the bank and watched them like everybody else, and nobody moved on the river tonight but a barge going down with no lights on her, quiet, in the deep channel, which none of us is supposed to have seen. Because we were in. Like we were told.”",
+   "speaker": "Ottery",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 53,
+   "para": "p32",
+   "type": "narration",
+   "text": "The river slid by below the boathouse, brown and quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p33",
+   "type": "speech",
+   "text": "“Who signed it?”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 55,
+   "para": "p33",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p34",
+   "type": "speech",
+   "text": "“I didn’t look. It had the seal. You don’t look past the seal, girl, not on the river watch.”",
+   "speaker": "Ottery"
+  },
+  {
+   "seq": 57,
+   "para": "p34",
+   "type": "narration",
+   "text": "He glanced up at her."
+  },
+  {
+   "seq": 58,
+   "para": "p34",
+   "type": "speech",
+   "text": "“Have I just told you something I shouldn’t have?”",
+   "speaker": "Ottery",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p35",
+   "type": "speech",
+   "text": "“I don’t know yet.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p36",
+   "type": "speech",
+   "text": "“Well, when you do,”",
+   "speaker": "Ottery"
+  },
+  {
+   "seq": 61,
+   "para": "p36",
+   "type": "narration",
+   "text": "said Ottery,"
+  },
+  {
+   "seq": 62,
+   "para": "p36",
+   "type": "speech",
+   "text": "“do me the courtesy of forgetting where you heard it.”",
+   "speaker": "Ottery",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p37",
+   "type": "narration",
+   "text": "She watered Turnip at the trough. It took a long time, because Turnip drank like a man with nothing better to do. When she rode back up the track to the road, the patrol was waiting, and Pell looked at her face and didn’t ask, and she didn’t tell him. She put it away in the place where she put things, and counted it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 64,
+   "para": "p38",
+   "type": "narration",
+   "text": "North of Redwatch the road ran through farmland, wheat and barley on the inland side and water meadows on the river side, with the Brackenwood coming down dark and close on the left like a wave that had stopped. They passed the end of the lane up to Ferriby, which was a dozen houses and a smithy round a green a little way inland, and the children came running down the lane to watch, because whatever else the orders had stopped being, they were still the best thing a village child could see on an ordinary morning. The smith’s boy ran beside Haverly’s horse for a hundred yards shouting questions at the falcon. Kesh ignored him magnificently.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p39",
+   "type": "speech",
+   "text": "“Why don’t they cross?”",
+   "speaker": "a village girl",
+   "how": "called after her"
+  },
+  {
+   "seq": 66,
+   "para": "p39",
+   "type": "narration",
+   "text": "a girl called after Maren from a gate, when the rest of the line had gone by. She couldn’t have been more than eight."
+  },
+  {
+   "seq": 67,
+   "para": "p39",
+   "type": "speech",
+   "text": "“My nan says the knights saw Upper Rush burn and didn’t cross. Why not?”",
+   "speaker": "a village girl",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p40",
+   "type": "narration",
+   "text": "Maren reined Turnip in. He stopped gladly. The girl looked up at her with the frank, fearless contempt of a child who has heard her nan say something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p41",
+   "type": "speech",
+   "text": "“Because it’s not our side of the river,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 70,
+   "para": "p41",
+   "type": "narration",
+   "text": "Maren said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p42",
+   "type": "speech",
+   "text": "“So?”",
+   "speaker": "a village girl",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p43",
+   "type": "speech",
+   "text": "“So if we crossed every time something happened over there, we’d be at war with Saltreach in a week.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p44",
+   "type": "narration",
+   "text": "The girl thought about this.",
+   "mood": "humour"
+  },
+  {
+   "seq": 74,
+   "para": "p44",
+   "type": "speech",
+   "text": "“My nan says if it was our barns, they’d cross quick enough.”",
+   "speaker": "a village girl",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p45",
+   "type": "narration",
+   "text": "Maren had no answer to that. Turnip took the silence as permission and walked on.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 76,
+   "para": "p46",
+   "type": "narration",
+   "text": "They found the roadblock a league short of Northwatch, at the wayside shrine.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p47",
+   "type": "narration",
+   "text": "It was a good place for one. That was the first thing Maren thought, and she disliked herself a little for thinking it. The road came round a long bend with the wood close on one side and a steep bank down to the water meadows on the other, so that anything coming either way had to slow, and couldn’t leave the road without breaking a leg. In the middle of the bend somebody had pulled a heavy farm cart across the road and chained its wheels. Behind it, and in front of it, and lounging against the shrine’s little stone roof, there were fourteen men.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 78,
+   "para": "p48",
+   "type": "narration",
+   "text": "She counted them twice. Fourteen. Good boots, plain coats, no badges, no colours. Swords, mostly short ones, the kind you could use in a crowd. Two crossbows. Nobody was masked. That was the second thing she noticed, and she found she’d been expecting masks, and was angry at herself for expecting them.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 79,
+   "para": "p49",
+   "type": "narration",
+   "text": "There was a queue in front of the cart. Two drovers with a flock of sheep, a pedlar with a handcart, a family in a wagon with a cow tied behind, and a heavy carrier’s dray with a crate on the back. The men at the cart were going through each one, slowly and politely, looking under covers, looking into sacks, lifting the cow’s tail as if they expected to find something under it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p50",
+   "type": "speech",
+   "text": "“What in the gods,”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 81,
+   "para": "p50",
+   "type": "narration",
+   "text": "said Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p51",
+   "type": "narration",
+   "text": "Pell held up his hand, and the patrol stopped. He sat his horse for a long moment, looking. Then he rode forward alone at a walk, and the men at the cart turned round and watched him come, and one of them, a square, greying man with a clean-shaven face, put down the sack he was holding and came to meet him with his hands open and in plain view.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p52",
+   "type": "narration",
+   "text": "Maren couldn’t hear them. She could see. She watched the square man reach into his coat, slowly, with his other hand still open, and take out a folded paper, and hand it up. She watched Pell read it, all the way down, and then read it again. She watched his face not change at all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p53",
+   "type": "narration",
+   "text": "Pell rode back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p54",
+   "type": "speech",
+   "text": "“They have a licence,”",
+   "speaker": "Pell",
+   "how": "perfectly flat"
+  },
+  {
+   "seq": 86,
+   "para": "p54",
+   "type": "narration",
+   "text": "he said, to all of them. His voice was perfectly flat."
+  },
+  {
+   "seq": 87,
+   "para": "p54",
+   "type": "speech",
+   "text": "“From the magistrate at Ashford. To stop and search traffic on the River Road for stolen beasts, in light of the raids, and to hold any beast that answers the description of one reported stolen, against a receipt, until the magistrate has looked into it. It’s sealed. It’s dated three days ago. It appears to be genuine.”",
+   "speaker": "Pell",
+   "how": "perfectly flat"
+  },
+  {
+   "seq": 88,
+   "para": "p54",
+   "type": "narration",
+   "text": "He looked at Haverly."
+  },
+  {
+   "seq": 89,
+   "para": "p54",
+   "type": "speech",
+   "text": "“Your bird. Can she take a message to Greyhold and bring one back?”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p55",
+   "type": "speech",
+   "text": "“Faster than any horse,”",
+   "speaker": "Haverly"
+  },
+  {
+   "seq": 91,
+   "para": "p55",
+   "type": "narration",
+   "text": "said Haverly, and for once it wasn’t boasting; it was just true.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p56",
+   "type": "narration",
+   "text": "Pell wrote on a scrap from his saddlebag, leaning on the pommel. Haverly held up his fist and Kesh stepped onto it and then onto his forearm and stood very still while he tied the scrap to her leg, and the two of them looked at each other for a moment, and then she went up off his arm in three hard beats and over the trees and was gone south.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p57",
+   "type": "speech",
+   "text": "“Now,”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 94,
+   "para": "p57",
+   "type": "narration",
+   "text": "said Pell,"
+  },
+  {
+   "seq": 95,
+   "para": "p57",
+   "type": "speech",
+   "text": "“we wait.”",
+   "speaker": "Pell",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 96,
+   "para": "p58",
+   "type": "narration",
+   "text": "They waited at the bend for most of two hours, and while they waited the roadblock went on doing what it was doing, politely, under the eyes of a Greyhold patrol.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p59",
+   "type": "narration",
+   "text": "They let the drovers through, after counting the sheep. They let the pedlar through, after turning out his entire handcart in the road and putting it all back again. They let the family through, cow and all, after the cow had been looked at from every side by a man who plainly knew cattle. Then they came to the carrier’s dray, and the crate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p60",
+   "type": "narration",
+   "text": "It was a beast crate, Maren could see that from where she sat: slatted, iron-bound, with straw in the bottom and air holes in the lid. Whatever was in it was small, and quiet, and every so often it moved, and the whole crate creaked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p61",
+   "type": "speech",
+   "text": "“Papers,”",
+   "speaker": "the square man"
+  },
+  {
+   "seq": 100,
+   "para": "p61",
+   "type": "narration",
+   "text": "said the square man to the carrier.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p62",
+   "type": "narration",
+   "text": "The carrier had papers. He had them out before he was asked; he’d been holding them for half an hour. The square man read them slowly. Then he lifted a slat with a knife and looked in. Then he looked at the carrier, kindly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p63",
+   "type": "speech",
+   "text": "“This doesn’t match,”",
+   "speaker": "the square man"
+  },
+  {
+   "seq": 103,
+   "para": "p63",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p64",
+   "type": "speech",
+   "text": "“It’s a marten. It says marten. Bought and paid for in Stillhaven, going to a gentleman in Northwatch village who keeps…”",
+   "speaker": "the carrier",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p65",
+   "type": "speech",
+   "text": "“It doesn’t match the description.”",
+   "speaker": "the square man",
+   "mood": "tension"
+  },
+  {
+   "seq": 106,
+   "para": "p65",
+   "type": "narration",
+   "text": "The square man was sorry. You could see he was sorry.",
+   "mood": "tension"
+  },
+  {
+   "seq": 107,
+   "para": "p65",
+   "type": "speech",
+   "text": "“We have a list of beasts reported taken in the raids. This answers to one of them. I’m afraid we’ll have to hold it until it can be looked into.”",
+   "speaker": "the square man",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 108,
+   "para": "p66",
+   "type": "speech",
+   "text": "“Hold it where?”",
+   "speaker": "the carrier",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p67",
+   "type": "speech",
+   "text": "“Safe. You’ll have a receipt.”",
+   "speaker": "the square man",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p68",
+   "type": "narration",
+   "text": "They gave him a receipt. Two of them lifted the crate down off the dray, gently, as if it were full of eggs, and carried it round behind the cart, and out of sight among the trees, and the carrier stood in the road with his receipt in his hand and looked at it as if it had been written in Isvaren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p69",
+   "type": "remembered",
+   "text": "Against a receipt, until the magistrate has looked into it.",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 112,
+   "para": "p69",
+   "type": "narration",
+   "text": "Maren had heard Pell read it out. Every word of what they were doing was in the licence.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p70",
+   "type": "narration",
+   "text": "Tobin made a sound in his throat. Up at the front of the patrol, Haverly’s horse shifted and Haverly stilled it without seeming to notice. The Darrow girl’s hound had its hackles up and was making a noise so low you felt it more than heard it, and the girl had her hand on its neck, and her face had gone very white.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 114,
+   "para": "p71",
+   "type": "narration",
+   "text": "Maren sat on Turnip at the back of the line and counted the men again. Fourteen. Two crossbows. The square man was the one who talked; a tall thin one by the shrine was the one who decided, because the square man looked at him before he spoke, every time. The crate had gone into the trees on the north side. There would be a track there. There would be a cart on the track.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 115,
+   "para": "p72",
+   "type": "narration",
+   "text": "There was a barge with no lights, poling down the deep channel in the dark. There was a rider with Greyhold’s seal on his order, telling the river watch to stay in.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 116,
+   "para": "p73",
+   "type": "narration",
+   "text": "She found that her hand was resting on the hilt of her practice sword, and she took it off.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 117,
+   "para": "p74",
+   "type": "narration",
+   "text": "The travellers who’d been let through had stopped a little way down the road, and some of them had come back to stand near the patrol. People liked to stand near knights when there was trouble. It made them feel that something was going to be done.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p75",
+   "type": "narration",
+   "text": "The drovers were Saltreach men, by their voices, bringing the sheep across to the Northwatch fair. One of them was old and talked to anyone, and he had settled himself against the bank near Maren and was talking to Tobin, who was the only one of them who’d talk back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p76",
+   "type": "speech",
+   "text": "“Beasts,”",
+   "speaker": "the old drover"
+  },
+  {
+   "seq": 120,
+   "para": "p76",
+   "type": "narration",
+   "text": "the old drover was saying."
+  },
+  {
+   "seq": 121,
+   "para": "p76",
+   "type": "speech",
+   "text": "“That’s all anyone’s after, this year. Beasts for this, beasts for that. Over our side it’s the Clan, mostly, and now the old chief’s dead it’ll be worse.”",
+   "speaker": "the old drover",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p77",
+   "type": "speech",
+   "text": "“Worse how?”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p78",
+   "type": "speech",
+   "text": "“Brother and sons.”",
+   "speaker": "the old drover"
+  },
+  {
+   "seq": 124,
+   "para": "p78",
+   "type": "narration",
+   "text": "The drover spat."
+  },
+  {
+   "seq": 125,
+   "para": "p78",
+   "type": "speech",
+   "text": "“Haldor had a brother, Ulric, who’s the best fighter in the Clan and knows it, and has the most men in his hall, and has wanted his brother’s chair since they were both in skirts. And Haldor had two sons, the elder who’s proud as a cockerel and the younger who’s well liked, and the elder can’t stand the brother and the brother can’t stand the elder and neither of them can stand the younger for being liked. You mark me. They’ll be at each other’s throats before the barley’s in.”",
+   "speaker": "the old drover",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p79",
+   "type": "speech",
+   "text": "“Masked men,”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 127,
+   "para": "p79",
+   "type": "narration",
+   "text": "said Tobin."
+  },
+  {
+   "seq": 128,
+   "para": "p79",
+   "type": "speech",
+   "text": "“Upper Rush. Who were they?”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p80",
+   "type": "narration",
+   "text": "The drover gave him a long look."
+  },
+  {
+   "seq": 130,
+   "para": "p80",
+   "type": "speech",
+   "text": "“Nobody over our side knows who they are. Some say Clan. Some say not.”",
+   "speaker": "the old drover"
+  },
+  {
+   "seq": 131,
+   "para": "p80",
+   "type": "narration",
+   "text": "He nodded at the roadblock."
+  },
+  {
+   "seq": 132,
+   "para": "p80",
+   "type": "speech",
+   "text": "“Some say them.”",
+   "speaker": "the old drover",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Who are they?”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p82",
+   "type": "speech",
+   "text": "“Depends who you ask.”",
+   "speaker": "the old drover",
+   "how": "lowered voice"
+  },
+  {
+   "seq": 135,
+   "para": "p82",
+   "type": "narration",
+   "text": "The old man lowered his voice, which made Maren, who’d been pretending not to listen, listen harder."
+  },
+  {
+   "seq": 136,
+   "para": "p82",
+   "type": "speech",
+   "text": "“In Wendmouth they call them the Restoration. Say there’s a man going round the ports and the villages, both sides of the river, telling people the six kingdoms are rotten and it’s time the land was one again, like in the old days, before the six. Fine speaker, they say. Gives you hope and then gives you a job. Half the dockhands in Wendmouth have been to hear him.”",
+   "speaker": "the old drover",
+   "how": "lowered voice",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p83",
+   "type": "speech",
+   "text": "“One man?”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p84",
+   "type": "speech",
+   "text": "“One man.”",
+   "speaker": "the old drover"
+  },
+  {
+   "seq": 139,
+   "para": "p84",
+   "type": "narration",
+   "text": "The drover nodded, slowly, enjoying himself now."
+  },
+  {
+   "seq": 140,
+   "para": "p84",
+   "type": "speech",
+   "text": "“And here’s the thing. My nephew heard him speak on the quay at Wendmouth, middle of the day, middle of the market, a month back. Hundreds of people. Spoke for an hour. And the very same day, the same hour, near enough, there was a raid on a farm down past Stillhaven, on your side, and the farmer swears blind it was the same man led it. Saw his face by the torches. Same man. Tall, quiet, didn’t raise his voice the whole time.”",
+   "speaker": "the old drover",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Stillhaven’s forty leagues from Wendmouth,”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 142,
+   "para": "p85",
+   "type": "narration",
+   "text": "said Tobin."
+  },
+  {
+   "seq": 143,
+   "para": "p85",
+   "type": "speech",
+   "text": "“More.”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p86",
+   "type": "speech",
+   "text": "“So it is.”",
+   "speaker": "the old drover",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p87",
+   "type": "speech",
+   "text": "“Can’t be in both, then.”",
+   "speaker": "Tobin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p88",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "the old drover",
+   "how": "comfortably",
+   "mood": "dread"
+  },
+  {
+   "seq": 147,
+   "para": "p88",
+   "type": "narration",
+   "text": "said the old drover comfortably.",
+   "mood": "dread"
+  },
+  {
+   "seq": 148,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Couldn’t, could he.”",
+   "speaker": "the old drover",
+   "how": "comfortably",
+   "mood": "dread"
+  },
+  {
+   "seq": 149,
+   "para": "p88",
+   "type": "narration",
+   "text": "He looked over at the roadblock, at the square man and the tall thin one by the shrine, and then up at the sky.",
+   "mood": "dread"
+  },
+  {
+   "seq": 150,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Unless he’s not a man. That’s what they’re saying on the docks. That he’s got a beast’s gift, or the old magic, or he’s one of the old ones come back. That he can be in two places at once.”",
+   "speaker": "the old drover",
+   "mood": "dread"
+  },
+  {
+   "seq": 151,
+   "para": "p88",
+   "type": "narration",
+   "text": "He shrugged.",
+   "mood": "dread"
+  },
+  {
+   "seq": 152,
+   "para": "p88",
+   "type": "speech",
+   "text": "“I don’t believe it. I’m just telling you what they say.”",
+   "speaker": "the old drover",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 153,
+   "para": "p89",
+   "type": "narration",
+   "text": "Maren looked away from him, at the bend, and found the tall thin man by the shrine looking straight back at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p90",
+   "type": "narration",
+   "text": "He’d been looking for a while, she thought. He had a still, patient face, neither young nor old. When she met his eye he didn’t look away, as most people did with a knight, or near-knight. He nodded to her, very slightly, as if they’d met before.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 155,
+   "para": "p91",
+   "type": "narration",
+   "text": "Then he looked at Turnip, with his dried turnip knocking on his bridle, and at her plain practice sword, and at the place at her shoulder where a bonded student would have a beast and she had nothing, and then back at her face. He didn’t smile. It said:",
+   "mood": "tension"
+  },
+  {
+   "seq": 156,
+   "para": "p91",
+   "type": "thought",
+   "text": "I know where they put you. I know why.",
+   "speaker": "the thin man",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 157,
+   "para": "p92",
+   "type": "narration",
+   "text": "She looked back at him until he turned away.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 158,
+   "para": "p93",
+   "type": "narration",
+   "text": "Kesh came back out of the south at a long slant, low over the trees, and landed on Haverly’s raised fist so hard that he rocked in the saddle. He untied the scrap from her leg and passed it to Pell without reading it. Pell read it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p94",
+   "type": "narration",
+   "text": "He didn’t say anything for a while.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p95",
+   "type": "speech",
+   "text": "“Knight-Captain Rowan’s compliments,”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 161,
+   "para": "p95",
+   "type": "narration",
+   "text": "he said at last."
+  },
+  {
+   "seq": 162,
+   "para": "p95",
+   "type": "speech",
+   "text": "“The licence is genuine. Greyhold had the magistrate’s copy yesterday, under his seal, issued at the request of the Millbrook carriers’ guild, and the men holding it are guild road wardens. We’re to let them be.”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 163,
+   "para": "p95",
+   "type": "narration",
+   "text": "He folded the scrap very small and put it in his coat."
+  },
+  {
+   "seq": 164,
+   "para": "p95",
+   "type": "speech",
+   "text": "“Patrol. We ride to Northwatch.”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p96",
+   "type": "speech",
+   "text": "“Instructor,”",
+   "speaker": "Tobin"
+  },
+  {
+   "seq": 166,
+   "para": "p96",
+   "type": "narration",
+   "text": "said Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p97",
+   "type": "speech",
+   "text": "“We ride to Northwatch, Tobin.”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p98",
+   "type": "narration",
+   "text": "They rode to Northwatch. The roadblock men moved the cart aside for them, politely, and stood back to let them pass in two lines, and the square man touched his forehead to Pell as he went by. Maren came last. The tall thin man was standing beside the shrine with his arms folded. As Turnip came level with him, he spoke, not loudly, so that only she could hear.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p99",
+   "type": "speech",
+   "text": "“They’ll never give you a horse worth riding, you know,”",
+   "speaker": "the thin man",
+   "how": "not loudly, for her alone",
+   "mood": "dread"
+  },
+  {
+   "seq": 170,
+   "para": "p99",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "dread"
+  },
+  {
+   "seq": 171,
+   "para": "p99",
+   "type": "speech",
+   "text": "“Not if you put every one of them on his back.”",
+   "speaker": "the thin man",
+   "how": "not loudly",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 172,
+   "para": "p100",
+   "type": "narration",
+   "text": "She didn’t answer. She didn’t look at him. She looked straight ahead, between Turnip’s ears, at the road, and rode on round the bend, and only when she was sure she was out of sight did she let out her breath.",
+   "mood": "tension",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 173,
+   "para": "p101",
+   "type": "narration",
+   "text": "They came back at dusk, all eight of them, and nobody talked much on the way. At the bend by the shrine the cart was gone and the men were gone, and there was nothing to show they’d ever been there but some trampled grass and a track going off into the trees on the north side, two wheel ruts deep in the leaf mould, heading for the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p102",
+   "type": "narration",
+   "text": "Maren reined Turnip in and looked at the ruts. Pell stopped beside her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p103",
+   "type": "speech",
+   "text": "“Instructor,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 176,
+   "para": "p103",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p104",
+   "type": "speech",
+   "text": "“I know.”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p105",
+   "type": "speech",
+   "text": "“They’re heading for the water. They had a beast in that crate that matched nothing, and they’re heading for the water. And the river watch…”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 179,
+   "para": "p105",
+   "type": "narration",
+   "text": "She stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p106",
+   "type": "speech",
+   "text": "“Go on.”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p107",
+   "type": "narration",
+   "text": "She didn’t go on. She thought about Ottery, and the seal you didn’t look past, and the face he’d had when she asked. She thought about what it would mean, said out loud in the road in front of Tobin and Haverly and the Darrow girl. She found she couldn’t make herself say it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p108",
+   "type": "narration",
+   "text": "Pell waited, and when she didn’t speak, he nodded as if she had.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p109",
+   "type": "speech",
+   "text": "“When you get in,”",
+   "speaker": "Pell",
+   "mood": "tension"
+  },
+  {
+   "seq": 184,
+   "para": "p109",
+   "type": "narration",
+   "text": "he said,",
+   "mood": "tension"
+  },
+  {
+   "seq": 185,
+   "para": "p109",
+   "type": "speech",
+   "text": "“you’ll sit down with paper and write down everything you saw today. Every face. Every word that drover said. How many men, how many crossbows, which one talked and which one decided. The track, the ruts, the crate. All of it.”",
+   "speaker": "Pell",
+   "mood": "tension"
+  },
+  {
+   "seq": 186,
+   "para": "p109",
+   "type": "narration",
+   "text": "He looked at the trees.",
+   "mood": "tension"
+  },
+  {
+   "seq": 187,
+   "para": "p109",
+   "type": "speech",
+   "text": "“You count things, Ashdown. Count those. And then you’ll give it to me, and nobody else, and you’ll forget you wrote it.”",
+   "speaker": "Pell",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 188,
+   "para": "p110",
+   "type": "speech",
+   "text": "“And then?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p111",
+   "type": "speech",
+   "text": "“And then we’ll see what happens to it,”",
+   "speaker": "Pell"
+  },
+  {
+   "seq": 190,
+   "para": "p111",
+   "type": "narration",
+   "text": "said Pell,"
+  },
+  {
+   "seq": 191,
+   "para": "p111",
+   "type": "speech",
+   "text": "“and that’ll tell us something too.”",
+   "speaker": "Pell",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p112",
+   "type": "narration",
+   "text": "He rode on. After a moment, Turnip followed without being asked, which was the first time he’d done that all day.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 193,
+   "para": "p113",
+   "type": "narration",
+   "text": "She wrote it in the barracks by the light of a stub of candle, because the barracks lamp was said down to a glow at the curfew bell and old Wick would not say it up again for a student, with Tobin snoring in the next bed and the river talking to itself below the window. She wrote fourteen men, two crossbows, a square man who talked and a thin man who decided. She wrote a crate with a marten in it, or something that answered to the description of something. She wrote a drover’s story about a man in two places at once, word for word, as near as she could get it. She wrote a track going north into the trees toward the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p114",
+   "type": "narration",
+   "text": "She didn’t write Ottery’s name, or the rider with Greyhold’s seal. She sat with the pen over the paper for a long time, and then she didn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p115",
+   "type": "narration",
+   "text": "At the bottom, after everything else, she wrote one more line, and looked at it, and nearly crossed it out:",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p116",
+   "type": "written",
+   "text": "The thin man knew what I was.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 197,
+   "para": "p117",
+   "type": "narration",
+   "text": "She didn’t cross it out. She folded the paper twice and put it inside her shirt, and blew out the candle, and lay in the dark listening to the river, and counted the men again, and got to fourteen, and started over.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  }
+ ]
+}

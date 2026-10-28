@@ -1,0 +1,35 @@
+{
+ "chapter": 99,
+ "title": "Closing",
+ "pov": "",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "The End.",
+   "pause_after_ms": 2000
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "You have been listening to The Watch Below, The Winshire Chronicles, Book One, written by Goodluck Kusekwa, and narrated by a digital voice.",
+   "pause_after_ms": 900
+  },
+  {
+   "seq": 3,
+   "para": "",
+   "type": "title",
+   "text": "Copyright 2026 by Goodluck Kusekwa. Production copyright 2026 by Goodluck Kusekwa.",
+   "pause_after_ms": 1200
+  },
+  {
+   "seq": 4,
+   "para": "",
+   "type": "title",
+   "text": "The story continues in The Hunt Beneath, The Winshire Chronicles, Book Two.",
+   "pause_after_ms": 1500
+  }
+ ]
+}

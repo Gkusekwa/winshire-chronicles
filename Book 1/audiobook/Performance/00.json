@@ -1,0 +1,35 @@
+{
+ "chapter": 0,
+ "title": "Opening",
+ "pov": "",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "The Watch Below.",
+   "pause_after_ms": 900
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Winshire Chronicles, Book One.",
+   "pause_after_ms": 900
+  },
+  {
+   "seq": 3,
+   "para": "",
+   "type": "title",
+   "text": "Written by Goodluck Kusekwa.",
+   "pause_after_ms": 700
+  },
+  {
+   "seq": 4,
+   "para": "",
+   "type": "title",
+   "text": "Narrated by a digital voice.",
+   "pause_after_ms": 2000
+  }
+ ]
+}

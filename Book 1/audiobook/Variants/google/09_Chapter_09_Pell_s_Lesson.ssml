@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<!-- The Watch Below, Chapter 9: Pell's Lesson. Point of view: Maren. -->
+<p><s>Chapter Nine.</s></p><break time="800ms"/>
+<p><s>Pell’s Lesson.</s></p><break time="1800ms"/>
+<!-- p1 -->
+<p>The yard at Greyhold has a wall on its east side that the students call the Lesson Wall, though nobody can tell you who started calling it that. It’s the oldest part of the fort: rough grey ragstone, blackened at the bottom by three hundred years of rain splash, with a stone bench along its foot. On the bench, every autumn, the instructors sit the year down and tell them the things they will need to know in order not to die. The students sit facing the wall, because the instructors stand with their backs to it, and so for the length of a lesson there is nothing in front of you but a man talking and a wall that has heard it all before.</p><break time="500ms"/>
+<!-- p2 -->
+<p>Pell’s lesson came on the morning after the new moon. It always did. He was, everyone agreed, the only instructor at Greyhold who timed his lessons by the moon, and nobody had ever had the nerve to ask him why.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p3 · humour: Tam's ever-growing story -->
+<p>The Millbrook fair had come and gone, and Tam with it. He’d come home for three days to the ferry house with a knife for their mother that he’d made himself and was enormously proud of, and that Liss said was very fine and put in the drawer, and he’d told the story of the duskcat at the supper table four times. Each time the boatmen got bigger and there were more of them and <sub alias="Mairen">Maren</sub>’s practice sword got more like a real one. By the second night there were ten boatmen and she’d cut the padlock in half. By the third night their mother had started laughing in the middle of it, helplessly, with her hand over her eyes, and Tam had looked hurt, and then laughed too.</p><break time="500ms"/>
+<!-- p4 · Maren -->
+<p>“Tell it right,” <sub alias="Mairen">Maren</sub> had said.</p><break time="500ms"/>
+<!-- p5 · Tam -->
+<p>“I am telling it right. I’m telling it how it felt.”</p><break time="500ms"/>
+<!-- p6 · Maren -->
+<p>“That’s not the same thing.”</p><break time="500ms"/>
+<!-- p7 · Tam -->
+<p>“It is to me,” said Tam.</p><break time="500ms"/>
+<!-- p8 -->
+<p>Then he’d gone back to Millbrook and <sub alias="Ohdoh">Odo</sub>’s anvil, and she’d gone back up to Greyhold, and nothing had come of the boatmen’s promise. Nothing had come of anything. The roadblock at the shrine had gone. The knights rode the River Road every day now, in pairs, and saw nothing. The far bank was quiet, apart from the dragons that went up and down the river more than they used to, and the smoke that still went up from <sub alias="Var-hold">Varrhold</sub>, far off in the hills, day after day.</p><break time="500ms"/>
+<!-- p9 -->
+<p>And her report on the roadblock had come back.</p><break time="500ms"/>
+<!-- p10 -->
+<p>Pell had given it to her in the stable, two days before the new moon, without a word. It was her own paper, folded twice the way she’d folded it, but someone had unfolded it and read it, because at the bottom, under her last line, under <prosody rate="95%">The thin man knew what I was</prosody>, someone had written one word in a neat, slanting, educated hand she didn’t know.</p><break time="500ms"/>
+<!-- p11 -->
+<p><prosody rate="95%">Noted.</prosody></p><break time="500ms"/>
+<!-- p12 -->
+<p>She’d looked at it for a long time.</p><break time="500ms"/>
+<!-- p13 · Pell -->
+<p>“From Knight-Captain Rowan,” Pell had said. “Through the proper channel.”</p><break time="500ms"/>
+<!-- p14 · Maren -->
+<p>“That’s all?”</p><break time="500ms"/>
+<!-- p15 · reflective: Pell's dry warning · Pell -->
+<p><prosody rate="96%">“That’s all.” He’d looked at the word too, upside down. “You’ll find, Ashdown, that <emphasis level="moderate">noted</emphasis> is the most dangerous word in the orders. It means someone has read it, and understood it, and decided not to do anything about it. And now there’s a record that they did.” He’d taken the paper back from her and put it inside his coat. “I’ll keep this.”</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p16 -->
+<p>There were fourteen of them on the bench that morning, the second-years, with their beasts at their feet or on their shoulders or, in the case of the grey cat, asleep on the warm stones of the wall top, in the sun, where no one had put it. Haverly sat at the end with Kesh on his fist. The Darrow girl sat beside him with her hound’s head on her knee. Tobin sat at the other end, as far from the bonded as the bench allowed, with his arms folded and the look he’d had for a week now, as if he were chewing something he hadn’t decided whether to swallow.</p><break time="500ms"/>
+<!-- p17 -->
+<p><sub alias="Mairen">Maren</sub> sat in the middle. She always did. You could see both ends from the middle.</p><break time="500ms"/>
+<!-- p18 -->
+<p>Pell came out of the armoury with a spear in one hand and stood in front of the wall and looked at them for a while without saying anything.</p><break time="500ms"/>
+<!-- p19 -->
+<p>He was not a big man. He was long-boned and grey and narrow, and he stood very straight, and his left hand, the one he held the spear in, had only three fingers on it: the thumb, the forefinger, the middle finger, and then two neat, healed stumps where the others had been. Every student at Greyhold had looked at that hand. Nobody had ever asked. There was a rumour that the last one who’d asked had been sent to muck out the stables until midwinter.</p><break time="500ms"/>
+<!-- p20 · Pell -->
+<p>“Subdue,” said Pell. “Don’t kill.”</p><break time="500ms"/>
+<!-- p21 -->
+<p>He let it sit.</p><break time="500ms"/>
+<!-- p22 · Pell -->
+<p>“You’ve heard it from me a hundred times since you came here. You’ll hear it a hundred times more. Every one of you can say it in your sleep. Some of you do; I’ve heard you through the barracks wall.” Nobody laughed. “It’s the first rule of the orders after the oath itself. It’s carved over the armoury door, in case you’ve ever wondered what that says. <prosody rate="95%">Subdue, don’t kill.</prosody> Not men. Beasts. When a beast comes at you, any beast, wild or tame or bonded or caged, you put it down without killing it if there’s any way under the sky to do it. You take the wound. You take the risk. You take the long way round. And you do not kill it unless there is nothing else left in the world to do.”</p><break time="500ms"/>
+<!-- p23 · Tobin -->
+<p>“Why?” said Tobin.</p><break time="500ms"/>
+<!-- p24 -->
+<p>Everyone looked at him. He didn’t look away.</p><break time="500ms"/>
+<!-- p25 · anger: Tobin challenging, respectful but hard · Tobin -->
+<p>“Why,” he said again. “Instructor. Respectfully. Beasts kill people every year. A beast took your fingers. If a beast comes at me, why shouldn’t I kill it? Why’s a beast’s life worth more than a man’s hand?”</p><break time="500ms"/>
+<!-- p26 -->
+<p><sub alias="Mairen">Maren</sub> thought Pell might send him to the stables. Pell didn’t. He looked at Tobin for a long moment with something that, on any other face, she’d have called approval.</p><break time="500ms"/>
+<!-- p27 · Pell -->
+<p>“That’s the right question,” he said. “It’s the only question. I’ll answer it.”</p><break time="500ms"/>
+<!-- p28 -->
+<p>He held up his left hand, and spread what was left of the fingers.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p29 · Pell -->
+<p>“Thirty-one years ago,” said Pell, “I was a second-year at Ashford Keep, before they closed it, which some of you will remember from your histories, and some of you won’t, because you don’t read your histories. I was nineteen. I’d been at the Keep a year and a half. I was quick and I was good and I thought I was better than I was, which you’ll find is true of most quick, good people at nineteen.” He didn’t look at Haverly. He didn’t need to. “In the spring they sent a dozen of us down to Stillhaven, to ride the coast road with the knights there. There’d been trouble with a <sub alias="Salt-reach">Saltreach</sub> company camped on the shore below the town. Sellswords. The kind that take a contract from anyone and do whatever it says.”</p><break time="500ms"/>
+<!-- p30 -->
+<p>He lowered the hand.</p><break time="500ms"/>
+<!-- p31 · Pell -->
+<p>“They had wyverns. Two of them. You’ve seen wyverns, some of you, from a distance, going over the coast. You know what they are. Two legs and two wings and a tail with a barb on it. Not dragons. Not clever. A hawk’s mind in a horse’s body. The <sub alias="Salt-reach">Saltreach</sub> companies tame them with a hood and a hook and an empty belly, and they’re never really tame; they’re just frightened in the right direction. Most handlers lose a hand sooner or later. Some lose more.</p><break time="500ms"/>
+<!-- p32 · dread · Pell -->
+<p><prosody rate="96%">“One night one of the wyverns got loose. It came up off the shingle onto the coast road, where we were riding, in the dark. It took my horse first. I’d a licence for one battle-word, the one to make a horse stand, which the Keep still taught to anyone who’d pay the fee, and I said it, and my horse stood, and the wyvern took it standing. Then it took these.” He held up the hand again, briefly. “I’d put my arm up, the way you’re taught not to. I was nineteen.”</prosody></p><break time="800ms"/>
+<!-- p33 -->
+<p>The grey cat on the wall top opened one eye.</p><break time="500ms"/>
+<!-- p34 · grief · Pell -->
+<p><prosody rate="94%">“My friend Aldo Venn was riding behind me. Aldo was the best of us. Better than me. Kinder than me. He’d have been first lance that year, if they’d had first lance at the Keep. He came up the road at the gallop with a boar-spear, and he put it into the wyvern’s chest while it was still on top of me, and it died.” Pell looked at the spear in his hand. “I’d have died if he hadn’t. I want that clear. He saved my life. Every instructor in this school would have said he did right. I said so myself, at the time. I said it for a year.”</prosody></p><break time="800ms"/>
+<!-- p35 -->
+<p>He was quiet for a moment.</p><break time="500ms"/>
+<!-- p36 · grief: quiet, measured · Pell -->
+<p><prosody rate="94%">“A hundred yards down the shore,” he said, “there was a girl. Fifteen, sixteen. One of the company’s. A pirate’s girl, the kind they pick up in the ports. She’d been running up the shingle after the wyvern, calling it, trying to get it back before it hurt someone. And when Aldo’s spear went in, she dropped. Just dropped, in the dark, on the stones, a hundred yards away, as if somebody had cut her strings. We didn’t even know she was there until the company came up with torches and found her.”</prosody></p><break time="800ms"/>
+<!-- p37 · quiet -->
+<p><prosody rate="95%">Nobody on the bench moved. Down at the end, the Darrow girl’s hand had gone still on her hound’s head.</prosody></p><break time="500ms"/>
+<!-- p38 · grief · Pell -->
+<p><prosody rate="94%">“It was bonded,” Pell said. “That wyvern. It was the rare thing. The one in a thousand. The one the <sub alias="Salt-reach">Saltreach</sub> men tell stories about in the taverns and nobody believes. A wild wyvern doesn’t bond. A tamed one doesn’t bond. But that one had. With that girl. And when you see a bonded wyvern, they say, you never forget it, because it isn’t frightened anymore. Ours had been frightened. It came up off the shingle screaming. We never saw it calm. We never had the chance to see it calm, because it got loose in the dark, and came up onto a road full of horses and torches, and was frightened, and a frightened beast does what frightened beasts do.” He stopped. “And Aldo killed it, to save me. And the girl died, a hundred yards away, because one life between two is the oldest law there is, and it doesn’t care who’s right.”</prosody></p><break time="800ms"/>
+<!-- p39 -->
+<p>The wall behind him stood in the sun. Somewhere in the stables a horse was kicking its door.</p><break time="500ms"/>
+<!-- p40 · grief: slow, deliberate · Pell -->
+<p><prosody rate="94%">“Aldo walked into the sea at Stillhaven a year later,” Pell said. “In the spring. On the same date. They found his horse on the shore with his boots beside it.” He looked down the bench at them, one by one. “He was right to do what he did. I’ve never once said he wasn’t. And he still couldn’t live with it. That’s the answer to your question, Tobin. That’s why the beast’s life isn’t worth more than a man’s hand, and is worth more than a man’s hand, both at once. Because you will never know, when you kill a beast, who else you’re killing. You won’t know. You can’t know. A bond doesn’t show from a hundred yards away in the dark. So you subdue. Every time. You take the wound. You take the risk. You take the long way round. Because if you don’t, you might be standing on a road one night with a spear in your hands and a girl dead behind you that you never saw, and you’ll be right, and you’ll walk into the sea.”</prosody></p><break time="800ms"/>
+<!-- p41 -->
+<p>He stood the spear against the wall.</p><break time="500ms"/>
+<!-- p42 · quiet · Pell -->
+<p><prosody rate="95%">“That’s the lesson,” he said. “That’s the only one I’ve got. The rest is footwork.”</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p43 · humour: tension breaking -->
+<p>Nobody said anything at all for a long moment. Then the grey cat stood up on the wall top, stretched, yawned enormously, and jumped down onto the bench beside <sub alias="Mairen">Maren</sub> and sat there washing its paw as if the morning had been arranged for its convenience, and somebody laughed, shakily, and the lesson was over.</p><break time="500ms"/>
+<!-- p44 -->
+<p>Pell sent them to footwork.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p45 -->
+<p>Tobin found her afterwards, by the well, while the others were at the practice posts. He had the look again, the chewing look, and he had something in his hand, folded small.</p><break time="500ms"/>
+<!-- p46 · Tobin; Tobin, low, secretive -->
+<p>“Here,” he said. <prosody volume="-5dB">“Look at this. Don’t tell anyone.”</prosody></p><break time="500ms"/>
+<!-- p47 -->
+<p>It was a sheet of cheap paper, the kind printers in Stillhaven sold by the ream, folded in four. On the outside there was nothing. Inside, there was a woodcut: rough, black, but cleverly done. Six hands, each one different, reaching in from the six edges of the page, and joining in the middle in a ring, each one clasping the wrist of the next. Underneath, in heavy black letters, two words.</p><break time="500ms"/>
+<!-- p48 -->
+<p><prosody rate="95%">One Again.</prosody></p><break time="500ms"/>
+<!-- p49 -->
+<p>That was all. No name. No place. No call to do anything.</p><break time="500ms"/>
+<!-- p50 · Maren -->
+<p>“Where did you get it?”</p><break time="500ms"/>
+<!-- p51 · Tobin -->
+<p>“Millbrook. Fair day.” Tobin wasn’t looking at her. “There was a man handing them out by the Kettle. Not handing them out, exactly. Leaving them. On the tables. You’d pick up your cup and there’d be one under it.”</p><break time="500ms"/>
+<!-- p52 · Maren -->
+<p>“What man?”</p><break time="500ms"/>
+<!-- p53 · Tobin -->
+<p>“Don’t know. Just a man. He was talking to some people, I listened, that’s all.”</p><break time="500ms"/>
+<!-- p54 · Maren -->
+<p>“What was he saying?”</p><break time="500ms"/>
+<!-- p55 -->
+<p>Tobin looked across the yard at the practice posts, where the bonded students were working in pairs with their beasts at the edge of the sand, and the unbonded ones were working in pairs with no one, and Haverly was doing something quick and clever with his feet that made the Darrow girl laugh.</p><break time="500ms"/>
+<!-- p56 · urgent: rushed, bitter · Tobin, all in a rush; Tobin -->
+<p><prosody rate="105%">“He said,” said Tobin, all in a rush, “that before the six kingdoms there was one. Everyone knows that. The old song. And that in the one, it didn’t matter who a beast chose and who it didn’t. That nobody was chosen and nobody was unchosen. That a man was a man and a knight was a knight and the beasts were free and nobody owned anybody.” He looked at the pamphlet in her hand. “And that the six kingdoms broke all that. That they made the beasts into things you buy and sell and the people into chosen and unchosen, and gave the chosen everything and the unchosen the turnip horse.” He glanced at her. “He actually said that. <emphasis level="moderate">The turnip horse.</emphasis> I swear he did. He said it as a joke, about knights’ schools, and everyone laughed, and I didn’t laugh, because it’s not a joke, is it? Not to us.”</prosody></p><break time="500ms"/>
+<!-- p57 -->
+<p><sub alias="Mairen">Maren</sub> folded the pamphlet back up along its creases.</p><break time="500ms"/>
+<!-- p58 · Maren -->
+<p>“Tobin,” she said. “The men at the roadblock. With the licence. The thin one. He said the same thing to me. About the horse.”</p><break time="500ms"/>
+<!-- p59 · Tobin -->
+<p>“So?”</p><break time="500ms"/>
+<!-- p60 · Maren -->
+<p>“So it’s not a coincidence.”</p><break time="500ms"/>
+<!-- p61 · Tobin -->
+<p>“Maybe it’s not a coincidence because it’s <emphasis level="moderate">true</emphasis>.” He took the paper back out of her hand, quite gently. “Maybe everyone who isn’t blind can see it. Maybe that’s why they all say it.” He put it inside his shirt. “I’m not doing anything, <sub alias="Mairen">Maren</sub>. I’m just reading. I’m allowed to read.”</p><break time="500ms"/>
+<!-- p62 · Maren -->
+<p>“I didn’t say you weren’t.”</p><break time="500ms"/>
+<!-- p63 · Tobin -->
+<p>“Your face did.” He tried to smile and nearly managed it. “You’ve got your Pell face on. The <emphasis level="moderate">noted</emphasis> face.”</p><break time="500ms"/>
+<!-- p64 · reflective -->
+<p><prosody rate="96%">She didn’t have an answer to that, so she didn’t give one, and after a while he went back to the practice posts, and she stood by the well and watched him go, and thought about six hands joined in a ring, and how much she had liked the picture, and how much she didn’t like that she’d liked it.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p65 -->
+<p>In the afternoon there was footwork, and Pell paired her with Haverly.</p><break time="500ms"/>
+<!-- p66 -->
+<p>He hadn’t done that since the bout. She didn’t know if it meant anything. With Pell, it usually did.</p><break time="500ms"/>
+<!-- p67 · Pell -->
+<p>They worked at the posts in the long autumn light, with their practice swords, slowly at first and then less slowly, Pell walking up and down behind them saying feet, feet, your feet are lying to you, Haverly, and Kesh sitting on the fence rail watching with her flat gold eye. Haverly was good. He was better than he’d been at the bout. He’d been working; she could see it in the way he held his weight now, lower, more patient, and she thought: he’s been practising against what I did to him. He’s been practising against me.</p><break time="500ms"/>
+<!-- p68 -->
+<p>She found she didn’t mind.</p><break time="500ms"/>
+<!-- p69 -->
+<p>Halfway through, Kesh came off the rail.</p><break time="500ms"/>
+<!-- p70 · action · Maren (thought) -->
+<p><prosody rate="104%">It wasn’t an attack. It was the same thing as the bout: the falcon opening her wings, all at once, a flare of feathers at the edge of sight, at exactly the moment <sub alias="Mairen">Maren</sub> set her weight. And <sub alias="Mairen">Maren</sub>’s head started to turn, as eight winters on the river watch had taught it to, and she stopped it. She stopped it halfway. She felt the turn start in her neck and she said <prosody rate="97%" volume="-4dB">no</prosody>, inside, and held it, and kept her eyes on Haverly’s chest, and his blade came past her ribs and she was already inside it.</prosody></p><break time="500ms"/>
+<!-- p71 -->
+<p>She didn’t put him on the sand. She stopped with her pommel a finger’s width from his breastbone and held it there.</p><break time="500ms"/>
+<!-- p72 -->
+<p>Haverly looked down at it. Then at her. Then over his shoulder at Kesh, who was settling back onto the rail with an air of injured innocence.</p><break time="500ms"/>
+<!-- p73 · Haverly -->
+<p>“I didn’t tell her to do that,” he said.</p><break time="500ms"/>
+<!-- p74 · Maren -->
+<p>“I know.”</p><break time="500ms"/>
+<!-- p75 · Haverly -->
+<p>“I didn’t. I swear. She does it on her own. She thinks it’s funny.”</p><break time="500ms"/>
+<!-- p76 · Maren -->
+<p>“I know,” said <sub alias="Mairen">Maren</sub>. “It is funny. She’s very good at it.”</p><break time="500ms"/>
+<!-- p77 · humour · Haverly -->
+<p>He looked at her for a moment as if he wasn’t sure she wasn’t mocking him. Then he laughed: a real laugh, startled out of him, a little rueful. “She is, isn’t she. She does it to the grooms, too. And the chaplain.” He lowered his blade. “You stopped your head.”</p><break time="500ms"/>
+<!-- p78 · Maren -->
+<p>“Halfway.”</p><break time="500ms"/>
+<!-- p79 · Haverly -->
+<p>“Halfway’s enough. Halfway’s all it takes.” He looked at her with that frank, open face that had never had to hide anything. “I’ll have to find something else, then.”</p><break time="500ms"/>
+<!-- p80 · Maren -->
+<p>“You will.”</p><break time="500ms"/>
+<!-- p81 · Haverly -->
+<p>“I’ll find it.” He grinned. “And you’ll stop that, too.”</p><break time="500ms"/>
+<!-- p82 -->
+<p>Behind them, Pell said nothing at all, which from Pell was very high praise, and walked on down the line.</p><break time="500ms"/>
+<!-- p83 · reflective -->
+<p><prosody rate="96%"><sub alias="Mairen">Maren</sub> went back to her mark. She thought: he’s not my enemy. He never was. He’s just a person who’s been given everything, and knows it, and hasn’t worked out yet what to do about it. She thought: neither have I.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p84 -->
+<p>That evening, on the river wall, it was Weir’s boy who brought the news from across the water, as he brought all the news, because his uncle ran the barges.</p><break time="500ms"/>
+<!-- p85 · humour: boy relishing the gossip · Weir's boy -->
+<p>“They nearly went at each other,” he told the little crowd of students at the north corner, with the pleasure of a boy who knows something nobody else does. “At the ashes. Up at that black lake of theirs, <sub alias="Cold-tarn">Coldtarn</sub>. Last night, at the new moon. The whole Clan up there, and the dragons all round on the cliffs, hundreds of them, my uncle’s man said. And the brother and the son had a row at the water over who got to tip the old chief in, and the son put his hand on his sword, in front of everyone, and the brother’s men put their hands on theirs.”</p><break time="500ms"/>
+<!-- p86 · a student -->
+<p>“And?”</p><break time="500ms"/>
+<!-- p87 · Weir's boy -->
+<p>“And the young one, the other son, walked out and stood between them and made them do it together. Both hands on the pot.” Weir’s boy shook his head, admiring. “Everyone says it was the bravest thing they ever saw. Walking out between them like that, with his hands empty. They’d have killed each other, my uncle’s man said, else. Right there on the shore.”</p><break time="500ms"/>
+<!-- p88 · a student -->
+<p>“Better their bones than ours,” said someone, the way someone always did, and a few of them laughed.</p><break time="500ms"/>
+<!-- p89 · reflective -->
+<p><prosody rate="96%"><sub alias="Mairen">Maren</sub> didn’t. She stood at the parapet and looked north up the river, past the dark lump of the Old Ruin on its island, toward the far hills where <sub alias="Var-hold">Varrhold</sub> was, though you couldn’t see it from here. You could only see, if you knew where to look, a faint smudge on the sky above the <sub alias="Scar-fell">Scarfell</sub> where the smoke of the old chief’s fire had hung for eleven days. Tonight it was gone. They’d put him in the water.</prosody></p><break time="500ms"/>
+<!-- p90 · quiet -->
+<p><prosody rate="95%">A young man, walking out between two swords with his hands empty.</prosody></p><break time="500ms"/>
+<!-- p91 -->
+<p>She thought of Pell’s story. She thought: subdue, don’t kill. Take the wound. Take the risk. Take the long way round.</p><break time="500ms"/>
+<!-- p92 · reflective -->
+<p><prosody rate="96%">She thought: there’s someone over there who does that, too.</prosody></p>
+<break time="1800ms"/>
+</speak>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<!-- The Watch Below, Chapter 40: The Verse. Point of view: Calder. -->
+<p><s>Chapter Forty.</s></p><break time="800ms"/>
+<p><s>The Verse.</s></p><break time="1800ms"/>
+<!-- p1 · reflective -->
+<p><prosody rate="96%">There’s a game Clan children play in the hatching caves, in the dark, by touch. Someone carves a letter in a bit of soft stone with a nail, and you have to say what it is with your eyes shut. The young dragons watch, and the riders swear some of them learn the letters better than the children do. Without ever touching a stone.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p2 -->
+<p>He sent them north on the sixty-fifth day.</p><break time="500ms"/>
+<!-- p3 · tension · Wat Garrow (remembered) -->
+<p><prosody rate="97%">It had to be done. He knew it. He’d known it since Wat Garrow’s fire. <prosody volume="-3dB">You’ll not stop here. You can’t. Not with them.</prosody> Joss and <sub alias="Bell">Bel</sub>’s was a farm in a hollow above the river, with a paddock and two dray-mares and the black ribs of the barns that had burned in the summer, and two children, and every day three dragons lay up in the bracken on the hill above it, and every day Hollin on the next farm stood at his gate and looked up at the hill, and tied another knot of red thread on his gatepost, and went in and shut the door. Sooner or later somebody would walk to Cotter’s Cross and look at the paper on the market cross. Two hundred silver. Sooner or later a soft-spoken man in a good coat would come to <sub alias="Bell">Bel</sub>’s gate and ask very politely.</prosody></p><break time="800ms"/>
+<!-- p4 · reflective · Aurveth (bond, to Calder) -->
+<p><prosody rate="96%"><prosody rate="94%" volume="-2dB">There are caves,</prosody> <sub alias="Orveth">Aurveth</sub> said. <prosody rate="94%" volume="-2dB">In the high <sub alias="Scar-fell">Scarfell</sub>. Above <sub alias="Cold-tarn">Coldtarn</sub>. The old hatching caves. The Clan used them before they built the new ones under the hold, a hundred years ago, and nobody has been in them since. I was hatched in one of them.</prosody> A long pause. <prosody rate="94%" volume="-2dB">I think.</prosody></prosody></p><break time="500ms"/>
+<!-- p5 · Calder -->
+<p>“Can you find them?”</p><break time="500ms"/>
+<!-- p6 · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">I can find them.</prosody></p><break time="500ms"/>
+<!-- p7 · Calder -->
+<p>“Then go. All three. Find somewhere dry. Somewhere you can winter. And come back for me.”</p><break time="500ms"/>
+<!-- p8 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Without you?</prosody> said <sub alias="Liska">Lisska</sub>.</p><break time="500ms"/>
+<!-- p9 · Calder -->
+<p>“For a few days. I want to stay with Wren. A few days.”</p><break time="500ms"/>
+<!-- p10 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Can we go down low over the island?</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">On the way? Low, just once? Nobody will see. Please?</prosody></p><break time="500ms"/>
+<!-- p11 -->
+<p>He looked at <sub alias="Orveth">Aurveth</sub>. <sub alias="Orveth">Aurveth</sub> looked at the sky.</p><break time="500ms"/>
+<!-- p12 · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Once,</prosody> she said. <prosody rate="94%" volume="-2dB">Low, and quick. And then north.</prosody></p><break time="500ms"/>
+<!-- p13 · quiet -->
+<p><prosody rate="95%">They went at dusk. He stood in <sub alias="Bell">Bel</sub>’s yard with Wren and watched them go up over the hill, one after another, the bronze and the red and the green, into the last of the light. He felt them go away from him, downriver first, toward the island, and then turn, and go north, and grow faint, and fainter, until their voices were gone and there was only the feeling.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p14 -->
+<p>They came back on the fourth day.</p><break time="500ms"/>
+<!-- p15 -->
+<p>He felt them coming before dawn, a long way off, the voices coming in faint and getting louder. <sub alias="Liska">Lisska</sub> first, as always. Then <sub alias="Karrak">Kharrak</sub>. Then, last and slowest and nearest the ground, <sub alias="Orveth">Aurveth</sub>.</p><break time="500ms"/>
+<!-- p16 · awe: excited, tumbling · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">We found them,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">The caves. Above the black water. They’re huge. Huge. Bigger than the one at Crow Scar. Lots of them. All joined up inside. Dry. With old bones in them, dragon bones, little ones, baby ones, from the hatching.</prosody> A pause. <prosody rate="94%" volume="-2dB"><sub alias="Orveth">Aurveth</sub> went very quiet in there.</prosody></prosody></p><break time="800ms"/>
+<!-- p17 · reflective · Aurveth (bond, to Calder) -->
+<p><prosody rate="96%"><prosody rate="94%" volume="-2dB">I was hatched in one of them,</prosody> said <sub alias="Orveth">Aurveth</sub>. <prosody rate="94%" volume="-2dB">I am sure of it now. I knew it as soon as I was inside. I knew the shape of the roof.</prosody> She was quiet. <prosody rate="94%" volume="-2dB">I don’t know how old I was. I don’t know who was there. I only know the roof.</prosody></prosody></p><break time="500ms"/>
+<!-- p18 · humour -->
+<p>They landed on the hill above <sub alias="Bell">Bel</sub>’s in the grey light, and he went up to them through the frozen bracken, and <sub alias="Liska">Lisska</sub> came down the hill to meet him so fast that she slid the last few lengths on the frost and nearly knocked him over.</p><break time="500ms"/>
+<!-- p19 · urgent: quivering excitement · Lisska (bond, to Calder) -->
+<p><prosody rate="105%"><prosody rate="94%" volume="-2dB">I saw it,</prosody> she said. <prosody rate="94%" volume="-2dB">The island. I told you I wanted to go and see and I went and saw. <sub alias="Orveth">Aurveth</sub> let me. I went low. Lower than I’ve ever been.</prosody> She was quivering. <prosody rate="94%" volume="-2dB">And I remembered something.</prosody></prosody></p><break time="500ms"/>
+<!-- p20 · Calder -->
+<p>“What?”</p><break time="500ms"/>
+<!-- p21 · awe · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">I’ve been there before,</prosody> said <sub alias="Liska">Lisska</sub>.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p22 -->
+<p>She told him in the kitchen at <sub alias="Bell">Bel</sub>’s, that night. Or not in the kitchen. She was outside, against the wall, the way she liked to be, with her head by the window. But he sat at the table inside with Ada and <sub alias="Bell">Bel</sub> and the children and the fire, and she told him through the glass, and he told them.</p><break time="500ms"/>
+<!-- p23 · Calder -->
+<p>“Nine years ago,” he said. “When she was barely fledged. Summer. <sub alias="Imruh">Imra</sub> took her.”</p><break time="500ms"/>
+<!-- p24 · humour: fond, conspiratorial · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">At night,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">In the dark. <sub alias="Imruh">Imra</sub> was young too. Younger than you. She was eighteen and she was the best scout the Clan had and she was never, ever, ever supposed to go near the river. Nobody is. The Clan doesn’t go near the island. It’s the oldest rule there is. Older than the hold.</prosody> A pause. <prosody rate="94%" volume="-2dB">So she did.</prosody></p><break time="500ms"/>
+<!-- p25 · Calder -->
+<p>“Why?”</p><break time="500ms"/>
+<!-- p26 · grief: sweet and terrible · Lisska (bond, to Calder) -->
+<p><prosody rate="94%"><prosody rate="94%" volume="-2dB">A dare. <sub alias="Bran">Brann</sub> Holt dared her. At the midsummer fire. He said nobody had ever landed on the island and come back, and she said she would, and he said she wouldn’t, and she did.</prosody> Something went through the green mark, sharp and sweet and terrible, like a blade made of honey. <prosody rate="94%" volume="-2dB">She always did. When people said she wouldn’t.</prosody></prosody></p><break time="800ms"/>
+<!-- p27 -->
+<p>He told them. Ada was very still.</p><break time="500ms"/>
+<!-- p28 · tender: soft · Lisska (bond, to Calder); Lisska (bond, to Calder), soft -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">We went in the middle of the night. High, over the river, from the far bank, where nobody could see. And down. Into the old stone place. The fort. In the middle of it, where the road is. And she got off my back and laughed and said, There, <sub alias="Bran">Brann</sub> Holt, there, and walked about, and touched the stones.</prosody> <sub alias="Liska">Lisska</sub>’s voice had gone soft. <prosody rate="94%" volume="-2dB">And she went to the tower. The round one with the tree in the top. And under the door, there’s an arch. And on the arch there’s writing.</prosody></prosody></p><break time="500ms"/>
+<!-- p29 · tension -->
+<p><prosody rate="97%">He went still.</prosody></p><break time="800ms"/>
+<!-- p30 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">I couldn’t read it,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">Neither could <sub alias="Imruh">Imra</sub>. It’s the old letters. The square ones. With the little hooks.</prosody> A pause. <prosody rate="94%" volume="-2dB">But I looked at it. For a long time. While <sub alias="Imruh">Imra</sub> was walking about. I looked at every bit of it.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p31 · Calder -->
+<p>“Show me,” said <sub alias="Cawlder">Calder</sub>.</p><break time="500ms"/>
+<!-- p32 -->
+<p>He said it out loud, at <sub alias="Bell">Bel</sub>’s table, and <sub alias="Bell">Bel</sub> jumped, and Pip and Nan stared at him. Wren didn’t. Wren had got used to him talking to the window. She just put her chin on her hands and watched.</p><break time="500ms"/>
+<!-- p33 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Show you? How?</prosody></p><break time="500ms"/>
+<!-- p34 · Calder -->
+<p>“The way <sub alias="Orveth">Aurveth</sub> does. When she remembers. The bridge. The milestone. She just… opens it. And I see.”</p><break time="500ms"/>
+<!-- p35 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">I don’t know how.</prosody></p><break time="500ms"/>
+<!-- p36 · tender: patient, coaxing · Aurveth (bond, to Calder), faint and deep -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">Yes you do, child,</prosody> said <sub alias="Orveth">Aurveth</sub>. From the hill, from the bracken, faint and deep. <prosody rate="94%" volume="-2dB">You have been doing it since the field. Every time you see something new and come racing back to tell him, you push it at him, and he sees a little of it. You don’t know you’re doing it. Do it on purpose. Think of the arch. The stone of it, not the words. As if you were standing in front of it. And push.</prosody></prosody></p><break time="500ms"/>
+<!-- p37 -->
+<p>There was a silence.</p><break time="500ms"/>
+<!-- p38 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">All right,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">All right. I’ll try.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p39 · awe -->
+<p><prosody rate="95%">It came in like a window opening in the dark. <sub alias="Orveth">Aurveth</sub>’s came deep and slow, rising up from a long way down, like something coming up through black water. <sub alias="Liska">Lisska</sub>’s came fast. Bright. All at once. Like a candle lit in a dark room.</prosody></p><break time="800ms"/>
+<!-- p40 · tender · Imra (remembered) -->
+<p><prosody rate="95%">He was standing in the middle of a ruined fort at night, in summer, with the smell of warm stone and crushed grass and the river, and the stars very bright overhead, and he was small, and low to the ground, and young, so young, with wings that ached from the long flight and a heart going like a bird’s. And there was a girl. Eighteen. Lean and quick and brown, with her black hair blowing loose and a narrow laughing face, walking about among the broken stones in the starlight with her arms out, turning round and round, laughing. <prosody volume="-3dB">There, <sub alias="Bran">Brann</sub> Holt. There. There.</prosody></prosody></p><break time="500ms"/>
+<!-- p41 · grief -->
+<p><prosody rate="94%"><sub alias="Imruh">Imra</sub>.</prosody></p><break time="800ms"/>
+<!-- p42 · grief -->
+<p><prosody rate="94%">He felt it go through <sub alias="Liska">Lisska</sub>, the sight of her, and through him. Like a knife.</prosody></p><break time="800ms"/>
+<!-- p43 -->
+<p>And then the tower. The squat round stump, with the young ash tree growing out of the top of it, against the stars. And the arch, at its foot, over the dark doorway. And under the arch, cut into the stone, letters.</p><break time="500ms"/>
+<!-- p44 · awe -->
+<p><prosody rate="95%"><sub alias="Liska">Lisska</sub> looked at them. He looked at them through her. In the starlight. Every stroke. Every little hook. Clearer than he’d have thought starlight could make anything. Six lines. Some whole, some worn, some half gone, eaten by water and frost and lichen. He couldn’t read a single one of them.</prosody></p><break time="800ms"/>
+<!-- p45 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB"><sub alias="Orveth">Aurveth</sub>,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB"><sub alias="Orveth">Aurveth</sub>, can you see? Can you see it? Through him?</prosody></p><break time="500ms"/>
+<!-- p46 -->
+<p>And then something else came into the window. Slow. Deep. From underneath. <sub alias="Orveth">Aurveth</sub>, reaching through the bronze mark into him and through him into the window <sub alias="Liska">Lisska</sub> was holding open, and looking.</p><break time="500ms"/>
+<!-- p47 -->
+<p>He felt her see the letters.</p><break time="500ms"/>
+<!-- p48 -->
+<p>He felt her know them.</p><break time="500ms"/>
+<!-- p49 · awe -->
+<p><prosody rate="95%">Not the way you know something you learned. The way you know your own hand, or the shape of the roof of the cave you were hatched in. She looked at the square letters with their little hooks in <sub alias="Liska">Lisska</sub>’s memory of a summer night nine years ago, and the words came up in her by themselves, like water coming up in a footprint.</prosody></p><break time="800ms"/>
+<!-- p50 · awe: slow and deep · Aurveth (bond, to Calder), reading, slow and deep -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-6dB">Here the road of the one realm crossed the water,</prosody> said <sub alias="Orveth">Aurveth</sub>.</prosody></p><break time="800ms"/>
+<!-- p51 -->
+<p>He heard himself say it. Out loud. At <sub alias="Bell">Bel</sub>’s table. In her voice, almost. Slow and deep.</p><break time="500ms"/>
+<!-- p52 · Aurveth (bond, to Calder), reading, slow and deep -->
+<p><prosody rate="94%" volume="-6dB"><sub alias="Winsher">Winshire</sub>. Where the old ones walked unbound.</prosody></p><break time="500ms"/>
+<!-- p53 · Aurveth (bond, to Calder), reading, slow and deep -->
+<p><prosody rate="94%" volume="-6dB">And when the old ones went into the light…</prosody></p><break time="500ms"/>
+<!-- p54 -->
+<p>She stopped. The next line was worn. He could see it, through <sub alias="Liska">Lisska</sub>. Broken, gaps, a word and a gap and a word.</p><break time="500ms"/>
+<!-- p55 · dread: halting, reading · Aurveth (bond, to Calder), very slowly, reading -->
+<p><prosody rate="96%"><prosody rate="94%" volume="-6dB">The last,</prosody> said <sub alias="Orveth">Aurveth</sub>. Very slowly. Reading. <prosody rate="94%" volume="-6dB">The last… great…</prosody> A gap. <prosody rate="94%" volume="-6dB">Sleeps.</prosody> A gap. <prosody rate="94%" volume="-6dB">Below the stone.</prosody></prosody></p><break time="800ms"/>
+<!-- p56 -->
+<p>The window flickered.</p><break time="500ms"/>
+<!-- p57 · dread · Aurveth (bond, to Calder), reading -->
+<p><prosody rate="96%"><prosody rate="94%" volume="-2dB">Let no hand wake it,</prosody> said <sub alias="Orveth">Aurveth</sub>.</prosody></p><break time="800ms"/>
+<!-- p58 -->
+<p>There was another line under it, cut deeper than the others. He saw the shape of it, and no more. <sub alias="Liska">Lisska</sub> had stopped looking at the stone. She was looking at <sub alias="Imruh">Imra</sub>, laughing in the starlight, and the window went with her.</p><break time="500ms"/>
+<!-- p59 · quiet -->
+<p><prosody rate="95%">The window closed.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p60 -->
+<p>He was sitting at <sub alias="Bell">Bel</sub>’s kitchen table with his hands flat on the wood and the fire crackling and four people staring at him.</p><break time="500ms"/>
+<!-- p61 · grief · Imra (remembered) -->
+<p><prosody rate="94%">Outside, against the wall, he could feel <sub alias="Liska">Lisska</sub>. Shaking, through the green mark, full of <sub alias="Imruh">Imra</sub>. She’d seen her. For the first time since the field. Not the last of her, cold, with something in her throat. The first of her. Eighteen. Laughing. Turning round and round in the starlight. <prosody volume="-3dB">There, <sub alias="Bran">Brann</sub> Holt.</prosody></prosody></p><break time="800ms"/>
+<!-- p62 · grief: very small · Lisska (bond, to Calder), very small -->
+<p><prosody rate="94%"><prosody rate="94%" volume="-2dB">I didn’t know I still had that,</prosody> said <sub alias="Liska">Lisska</sub>. Very small. <prosody rate="94%" volume="-2dB">I remember everything. But I didn’t know I still had that.</prosody></prosody></p><break time="800ms"/>
+<!-- p63 · Calder -->
+<p>“I know, little one.”</p><break time="500ms"/>
+<!-- p64 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">She was so happy.</prosody></p><break time="500ms"/>
+<!-- p65 · Calder -->
+<p>“I know.”</p><break time="500ms"/>
+<!-- p66 · Aurveth (remembered) -->
+<p>And from the hill, from the bracken, faint, <sub alias="Orveth">Aurveth</sub>, with something in her voice he’d heard once before, in the cave at Crow Scar, when she said <prosody volume="-3dB">I am forgetting him.</prosody></p><break time="500ms"/>
+<!-- p67 · dread · Aurveth (bond, to Calder) -->
+<p><prosody rate="96%"><prosody rate="94%" volume="-2dB">I could read it,</prosody> said <sub alias="Orveth">Aurveth</sub>. <prosody rate="94%" volume="-2dB">I could read it as if I had carved it. Every word. I know those letters better than I know the hold. Better than I know Ragnald’s bees.</prosody> A long breath. <prosody rate="94%" volume="-2dB">And I don’t know why. And I don’t know who taught me. And I don’t know when.</prosody></prosody></p><break time="800ms"/>
+<!-- p68 · dread · Aurveth (bond, to Calder) -->
+<p><prosody rate="96%"><prosody rate="94%" volume="-2dB">The last great one sleeps below the stone,</prosody> said <sub alias="Orveth">Aurveth</sub>. <prosody rate="94%" volume="-2dB">Let no hand wake it.</prosody> A silence. <prosody rate="94%" volume="-2dB"><sub alias="Cawlder">Calder</sub>. I am afraid of that island.</prosody></prosody></p><break time="800ms"/>
+<!-- p69 · Calder -->
+<p>“Why?”</p><break time="500ms"/>
+<!-- p70 · dread: very low · Aurveth (bond, to Calder), very low -->
+<p><prosody rate="96%"><prosody rate="94%" volume="-6dB">Because something there cut me. Cut him out of me. Cut out the bridge breaking and the road ending and whatever happened in the gap.</prosody> Her voice was very low. <prosody rate="94%" volume="-6dB">That is all I know. Don’t ask me for more. I haven’t got it.</prosody></prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p71 -->
+<p>His mother had gone white.</p><break time="500ms"/>
+<!-- p72 · tension -->
+<p><prosody rate="97%">He saw it when he looked up. She was sitting across the table from him with her hands round her cup, and her face had gone the colour of the ash in the grate. She was staring at him.</prosody></p><break time="800ms"/>
+<!-- p73 · Ada -->
+<p>“Say it again,” said Ada.</p><break time="500ms"/>
+<!-- p74 · Calder -->
+<p>“Ma…”</p><break time="500ms"/>
+<!-- p75 · urgent · Ada -->
+<p><prosody rate="105%">“Say it again. The words. All of them.”</prosody></p><break time="500ms"/>
+<!-- p76 · Calder, slowly -->
+<p>He said it again. Slowly. The way <sub alias="Orveth">Aurveth</sub> had. <prosody volume="-5dB">Here the road of the one realm crossed the water. <sub alias="Winsher">Winshire</sub>, where the old ones walked unbound. And when the old ones went into the light, the last great one sleeps below the stone. Let no hand wake it.</prosody> The last line he didn’t have.</p><break time="500ms"/>
+<!-- p77 -->
+<p>Ada sat very still.</p><break time="500ms"/>
+<!-- p78 -->
+<p><sub alias="Bell">Bel</sub> was looking at her mother. Pip and Nan were looking at their grandmother. Wren was looking at her grandmother with her chin on her hands and her eyes wide.</p><break time="500ms"/>
+<!-- p79 · Bel -->
+<p>“Ma?” said <sub alias="Bell">Bel</sub>.</p><break time="500ms"/>
+<!-- p80 · tension -->
+<p><prosody rate="97%">Ada put her cup down. Her hands were shaking.</prosody></p><break time="800ms"/>
+<!-- p81 · Calder -->
+<p>“Is it the verse?” said <sub alias="Cawlder">Calder</sub>. “Your grandmother’s. The third verse. The one you swore on the hearthstone.”</p><break time="500ms"/>
+<!-- p82 · Ada -->
+<p>“Not yet,” said Ada.</p><break time="500ms"/>
+<!-- p83 · Calder -->
+<p>“Ma. Please. If it’s…”</p><break time="500ms"/>
+<!-- p84 · tension: very steady · Ada -->
+<p><prosody rate="97%">“Not yet.” Her voice was very steady, and her face was still the colour of the ash. She looked at the window, where the green dragon’s head lay against the glass. “Don’t ask me again, <sub alias="Cawlder">Calder</sub>. Not tonight.”</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p85 -->
+<p>He lay awake that night on the floor of <sub alias="Bell">Bel</sub>’s kitchen, in front of the banked fire, which his mother had said the hearth-words over before she went up, her grandmother’s words, so it would still be red at dawn. Wren was asleep against him. The three of them were on the hill.</p><break time="500ms"/>
+<!-- p86 -->
+<p><prosody rate="95%">The last great one sleeps below the stone.</prosody></p><break time="500ms"/>
+<!-- p87 · awe · the dragons (remembered) -->
+<p><prosody rate="95%">He thought about the roar. On the night of the field, lying in the stubble with three deaths in him and the stake in his side and the dark coming up, and then the roar coming across the river from the island. Bigger than anything. So deep it came up through the ground first. The three of them lifting their heads, all at once. <prosody volume="-3dB">Old.</prosody></prosody></p><break time="800ms"/>
+<!-- p88 -->
+<p><prosody rate="95%">Let no hand wake it.</prosody></p><break time="500ms"/>
+<!-- p89 -->
+<p>He thought about the girl in river grey, sitting on the stream bank, with something enormous on the other side. Not doing anything at all.</p><break time="500ms"/>
+<!-- p90 · Vale (remembered) -->
+<p>He thought about Vale on the <sub alias="Tide-steps">Tidesteps</sub>, with his hands on the iron rail and his grey eyes going over the crowd. <prosody volume="-3dB">One of them is built on a lie so old, and so big, and so deep, that when it comes out, the ground will shake.</prosody></p><break time="500ms"/>
+<!-- p91 -->
+<p>He thought about his own question. The one he’d asked them at Crow Scar, in the dark, with the rain on the rock. The one nobody could answer, not even <sub alias="Orveth">Aurveth</sub>, who was more than three hundred years old and had been bonded three times before him and had never heard of anything like it.</p><break time="500ms"/>
+<!-- p92 · Calder (remembered) -->
+<p><prosody volume="-3dB">Why me?</prosody></p><break time="500ms"/>
+<!-- p93 · Aurveth (remembered) -->
+<p><prosody volume="-3dB">You were open,</prosody> <sub alias="Orveth">Aurveth</sub> had said. <prosody volume="-3dB">Like a door standing wide in a storm.</prosody></p><break time="500ms"/>
+<!-- p94 · Calder (thought) -->
+<p>He lay on the floor of <sub alias="Bell">Bel</sub>’s kitchen and thought: <prosody rate="97%" volume="-4dB">nobody knows. Not anyone alive. Nobody has ever held three. Not since the six.</prosody></p><break time="500ms"/>
+<!-- p95 · Vale (remembered) -->
+<p><prosody volume="-3dB">Except in the songs,</prosody> Vale had said. <prosody volume="-3dB">Except in the old realm.</prosody></p><break time="500ms"/>
+<!-- p96 · Calder (thought) -->
+<p><prosody rate="97%" volume="-4dB">Then the old realm’s where the answer is. And the old realm’s on that island. The bridge. The road. The arch. The verse. Whatever <sub alias="Orveth">Aurveth</sub>’s afraid of. Whatever cut her.</prosody></p><break time="500ms"/>
+<!-- p97 · quiet: resolve · Calder (thought) -->
+<p><prosody rate="95%"><prosody rate="97%" volume="-4dB">I’m going there.</prosody></prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p98 -->
+<p>He told them in the morning, on the hill, in the frozen bracken, with his breath going out grey in front of him.</p><break time="500ms"/>
+<!-- p99 · anger · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">No,</prosody> said <sub alias="Karrak">Kharrak</sub> at once.</p><break time="500ms"/>
+<!-- p100 · Calder -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p101 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">No. Not there. Not the island. Not with that thing on it. The old thing. The roar.</prosody></p><break time="500ms"/>
+<!-- p102 · Calder -->
+<p>“That’s why.”</p><break time="500ms"/>
+<!-- p103 · anger: hot · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">That’s why not.</prosody> The red tide was up. Hot. Close. <prosody rate="94%" volume="-2dB">You went into the city. Alone. Into the house that makes those. I said don’t. You went. And now this. The island. With something on it that roared and made all three of us lift our heads like pups. And the girl’s monster. And the cold men who came for it with chains. And Greyhold’s wall downriver with a hundred knights on it.</prosody> A pause. <prosody rate="94%" volume="-2dB">No.</prosody></p><break time="500ms"/>
+<!-- p104 · Calder -->
+<p>“I’m not asking you to come.”</p><break time="500ms"/>
+<!-- p105 · anger · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">That’s worse.</prosody></p><break time="500ms"/>
+<!-- p106 -->
+<p>He turned to <sub alias="Orveth">Aurveth</sub>.</p><break time="500ms"/>
+<!-- p107 -->
+<p>She was lying in the bracken with her head up, looking downriver. Toward the island, three leagues off, a long dark smudge on the grey water. She’d been lying like that since the dawn.</p><break time="500ms"/>
+<!-- p108 · dread: quiet · Aurveth (bond, to Calder), quietly -->
+<p><prosody rate="96%"><prosody rate="94%" volume="-6dB">He is right,</prosody> she said. Quietly. <prosody rate="94%" volume="-6dB"><sub alias="Karrak">Kharrak</sub>. About the knights. If we go, the three of us, and land on that island, every knight on Greyhold’s wall will see. They will think it is an attack. They will come across, the way they would not come across for Harrow’s End, because this time it is their island, their river, their wall. And there will be fire. And it will be our fault.</prosody> She was quiet a moment. <prosody rate="94%" volume="-6dB">And I am afraid. I have told him so. I will tell you. I am afraid of what is there. I do not want to go near it. Not yet. Not until I know what it is.</prosody></prosody></p><break time="800ms"/>
+<!-- p109 · Calder -->
+<p>“So I’ll go alone. On foot. Nobody’ll see one man.”</p><break time="500ms"/>
+<!-- p110 · urgent · Lisska (bond, to Calder) -->
+<p><prosody rate="105%"><prosody rate="94%" volume="-2dB">How?</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">You can’t swim it. You’d drown. It’s all ice. All along the edges. And chunks of it going down in the middle, big ones, crashing. No boat’ll go out. Not the fishermen. Not anybody. The old man’s boats at the beck mouth are all pulled up on the bank. Every one.</prosody></prosody></p><break time="500ms"/>
+<!-- p111 · tension -->
+<p><prosody rate="97%">She was right. He’d seen it, from the top of the hill above Harrow’s End, on the way to <sub alias="Bell">Bel</sub>’s. The river was in winter spate, brown and fast and wide, with ice running in it. Great grey slabs of it, broken off the edges upstream, coming down the middle of the river turning and grinding and crashing into each other, so that the sound of it carried a league. Nobody would go out in that. Nobody could.</prosody></p><break time="800ms"/>
+<!-- p112 · Calder -->
+<p>“Then I’ll wait,” he said.</p><break time="500ms"/>
+<!-- p113 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">For what?</prosody></p><break time="500ms"/>
+<!-- p114 · Calder -->
+<p>“For it to freeze.”</p><break time="500ms"/>
+<!-- p115 · quiet -->
+<p><prosody rate="95%">There was a silence on the hill.</prosody></p><break time="500ms"/>
+<!-- p116 · Calder -->
+<p>“It freezes from the edges in,” said <sub alias="Cawlder">Calder</sub>. “Every winter. My father used to walk out on it at the <sub alias="Eel-weer">Eelweir</sub>, when I was small, when it froze. Not all the way. Not often. But some winters it freezes all the way across. Hard. Hard enough to walk on. Hard enough to take a cart, the old men say, once in twenty years.” He looked west. “I’ll wait for it to freeze. And then I’ll walk.”</p><break time="500ms"/>
+<!-- p117 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Across the ice,</prosody> said <sub alias="Karrak">Kharrak</sub>. <prosody rate="94%" volume="-2dB">To the island.</prosody></p><break time="500ms"/>
+<!-- p118 · Calder -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p119 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Alone.</prosody></p><break time="500ms"/>
+<!-- p120 · Calder -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p121 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">With the old thing on it.</prosody></p><break time="500ms"/>
+<!-- p122 · Calder -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p123 -->
+<p><sub alias="Karrak">Kharrak</sub> didn’t say anything else. He lay in the frozen bracken with his head down on his forelegs and the red tide going round and round in him, and <sub alias="Cawlder">Calder</sub> felt it, and what was under it.</p><break time="500ms"/>
+<!-- p124 · tender: very low, grudging · Kharrak (bond, to Calder), very low -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-6dB">I hate you,</prosody> said <sub alias="Karrak">Kharrak</sub>, very low.</prosody></p><break time="500ms"/>
+<!-- p125 · Calder -->
+<p>“I know.”</p><break time="500ms"/>
+<!-- p126 · humour: grudging · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">I hate that you’re right.</prosody> A long breath, out over the frost. <prosody rate="94%" volume="-2dB">Again.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p127 -->
+<p><sub alias="Liska">Lisska</sub> came back from the river at dusk on the seventy-second day with ice on her wings.</p><break time="500ms"/>
+<!-- p128 · Lisska (remembered) -->
+<p>She’d been ranging. She always ranged, every day, further and further, and every day now she went to the river. She’d go high over the <sub alias="Salt-reach">Saltreach</sub> bank and look at the ice, and come back, and tell him: <prosody volume="-3dB">not yet. Still breaking. Still big chunks. Not yet.</prosody> And then, every time, before he could ask, the other thing.</p><break time="500ms"/>
+<!-- p129 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">She was there again,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">The girl.</prosody></p><break time="500ms"/>
+<!-- p130 -->
+<p>He was sitting on the hill above <sub alias="Bell">Bel</sub>’s with his back against <sub alias="Orveth">Aurveth</sub>’s foreleg and his coat round him, watching the sun go down red over the river.</p><break time="500ms"/>
+<!-- p131 · tender · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">She comes in the little flat boat. With the old man. Not every night now. The river’s too bad. But when it’s quiet. At the edge of the ice, where it’s slow. She comes up the stream and she sits.</prosody> <sub alias="Liska">Lisska</sub> settled beside him in the frozen bracken, folding her iced wings with a crackle. Something came loose from the joint of the left one and dropped into the bracken with a click: a scale, where the ice had worked in under it. Green. As broad as a round shield and thin as a slate. He picked it up. It was warm. It stayed warm in his hands, the way a hearthstone does, and after a while he slid it inside his coat, against his back, and kept it there. <prosody rate="94%" volume="-2dB">She’s there most days now. Most days the river lets her. More than before. Her and the cat.</prosody></prosody></p><break time="500ms"/>
+<!-- p132 · Calder -->
+<p>“Still across the stream?”</p><break time="500ms"/>
+<!-- p133 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">No,</prosody> said <sub alias="Liska">Lisska</sub>.</p><break time="500ms"/>
+<!-- p134 -->
+<p>He looked at her.</p><break time="500ms"/>
+<!-- p135 · tender · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">Not any more. It’s on her side now. The cat. It came across.</prosody> <sub alias="Liska">Lisska</sub> tipped her head, the way she did. <prosody rate="94%" volume="-2dB">The first night I saw it do that, she was crying. The girl. Sitting by the stream, crying, with her face in her knees. I could hear her from right up high. And the cat came out of the trees and stood there and looked at her. And then it went through the water. Right through it, to her side. And lay down. Not close. But on her side.</prosody> A pause. <prosody rate="94%" volume="-2dB">It stays on her side now. Every time. It comes across and lies down on her side and she sits and it lies there and they don’t do anything.</prosody></prosody></p><break time="500ms"/>
+<!-- p136 -->
+<p><sub alias="Cawlder">Calder</sub> was quiet.</p><break time="500ms"/>
+<!-- p137 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Why was she crying?</prosody> said <sub alias="Liska">Lisska</sub>.</p><break time="500ms"/>
+<!-- p138 · Calder -->
+<p>“I don’t know.”</p><break time="500ms"/>
+<!-- p139 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Is she sad?</prosody></p><break time="500ms"/>
+<!-- p140 · Calder -->
+<p>“I don’t know, little one.”</p><break time="500ms"/>
+<!-- p141 · tender · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">I hope she’s not sad,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">I like her. I don’t know her. But I like her. She never takes anything.</prosody> A pause. <prosody rate="94%" volume="-2dB">Will you meet her? When you walk across the ice? Will she be there?</prosody></prosody></p><break time="500ms"/>
+<!-- p142 -->
+<p>He looked downriver, toward the island, three leagues off, a dark smudge on the water in the red light going down.</p><break time="500ms"/>
+<!-- p143 -->
+<p><prosody rate="95%">Here the road of the one realm crossed the water.</prosody></p><break time="500ms"/>
+<!-- p144 · Calder -->
+<p>“I don’t know,” he said. “Maybe.”</p><break time="500ms"/>
+<!-- p145 · tender · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">I think you’d like her,</prosody> said <sub alias="Liska">Lisska</sub>.</prosody></p><break time="500ms"/>
+<!-- p146 -->
+<p><sub alias="Orveth">Aurveth</sub> lifted her head above them in the dusk, and looked downriver too.</p><break time="500ms"/>
+<!-- p147 · reflective · Aurveth (bond, to Calder) -->
+<p><prosody rate="96%"><prosody rate="94%" volume="-2dB">The river will freeze,</prosody> she said. <prosody rate="94%" volume="-2dB">It always does, in the end. And then we will see what is waiting.</prosody></prosody></p><break time="500ms"/>
+<!-- p148 · quiet -->
+<p><prosody rate="95%">Nobody said anything after that. They sat on the hill, the four of them, in the frozen bracken, and watched the light go off the hills, and listened to the ice on the river below the hollow grinding and crashing in the dark, going down to the sea.</prosody></p>
+<break time="1800ms"/>
+</speak>

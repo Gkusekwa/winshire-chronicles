@@ -1,0 +1,1233 @@
+{
+ "chapter": 8,
+ "title": "Coldtarn",
+ "pov": "Calder",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Eight.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Coldtarn.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The Clan says Coldtarn has no bottom. Children are told that if you drop a stone in the middle it falls forever, and that the dead go down after it, slowly, all the chiefs and warriors of four hundred years, sinking through the black water side by side in the order they died, so that somewhere far below there is a long, quiet line of them, still falling. Children are also told not to swim in it. Every year one of them does anyway, on a dare, in high summer, and comes out blue and gasping and changed, and never goes in again.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "It is the coldest water in the Six Kingdoms, the Clan says. It doesn’t freeze. It’s too deep to freeze. It lies in its cup of black rock above the falls of Hollow Beck like an eye that never shuts, and the dragons won’t drink from it, and the Clan burns its dead on its shore and gives them to it, and has done since before the hold had a name.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "Nobody in Harrow’s End wanted to carry the mourning cloth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "The cloth was a fine thing. Ada had woven it in the eleven nights since the pyre was lit, grey wool with a border of black, and the village women had each put in a thread of their own, as you were supposed to for a chief. The trouble was the going. Two days up into the Scarfell to stand on the shore of Coldtarn with the whole Clan, in the cold, at the new moon, while the dead man’s brother and the dead man’s son glared at each other over the urn. Everybody in the village had heard about the two fires at Varrhold by now. Everybody had heard about the bard. Nobody wanted to be standing anywhere near it if it went wrong.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "speech",
+   "text": "“Hob should go,”",
+   "speaker": "old Garrow"
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "narration",
+   "text": "said old Garrow, at the meeting in the mill."
+  },
+  {
+   "seq": 9,
+   "para": "p5",
+   "type": "speech",
+   "text": "“He’s the miller. He’s the most important man in the village.”",
+   "speaker": "old Garrow",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "speech",
+   "text": "“I’ve the mill to run,”",
+   "speaker": "Hob"
+  },
+  {
+   "seq": 11,
+   "para": "p6",
+   "type": "narration",
+   "text": "said Hob."
+  },
+  {
+   "seq": 12,
+   "para": "p6",
+   "type": "speech",
+   "text": "“A day off the stones is a day’s flour lost. Garrow should go. He’s the oldest.”",
+   "speaker": "Hob",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p7",
+   "type": "speech",
+   "text": "“My knees won’t do the Scarfell. Not at this time of year.”",
+   "speaker": "old Garrow",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p8",
+   "type": "speech",
+   "text": "“Your knees did the Cotter’s Cross fair well enough.”",
+   "speaker": "Hob",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p9",
+   "type": "speech",
+   "text": "“That was downhill.”",
+   "speaker": "old Garrow",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p10",
+   "type": "narration",
+   "text": "They went round like that for half an hour. Calder sat at the back on a sack of meal with his arms folded and said nothing, which was what he always did, and which had kept him out of every job in Harrow’s End that nobody wanted for thirty-two years. He was quite good at it. He could feel the room deciding, and he could feel it not deciding on him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p11",
+   "type": "narration",
+   "text": "Then Hob said,"
+  },
+  {
+   "seq": 18,
+   "para": "p11",
+   "type": "speech",
+   "text": "“Teo Varr knows Fenn. Shook his hand at Upper Rush. Took him up the cliff at the hold, I heard. Fenn should go.”",
+   "speaker": "Hob",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p12",
+   "type": "narration",
+   "text": "And the room turned and looked at him, all of it at once, and was relieved.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p13",
+   "type": "speech",
+   "text": "“I’ve the barley,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 21,
+   "para": "p13",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p14",
+   "type": "speech",
+   "text": "“Your barley’ll keep. It’s the best barley in the village; it always keeps.”",
+   "speaker": "Hob",
+   "mood": "humour"
+  },
+  {
+   "seq": 23,
+   "para": "p14",
+   "type": "narration",
+   "text": "Hob smiled at him with all his teeth.",
+   "mood": "humour"
+  },
+  {
+   "seq": 24,
+   "para": "p14",
+   "type": "speech",
+   "text": "“You’ve a friend at the hold now, Fenn. You’re practically Clan. Go on.”",
+   "speaker": "Hob",
+   "mood": "humour",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 25,
+   "para": "p15",
+   "type": "narration",
+   "text": "He went up on the Ewe Hollow wool cart, which was going anyway, sitting on the bales with the cloth in a bundle on his knees and his coat collar up against the wind. Two days. The moor was brown now, the heather going over, and there were geese going south high up in long, crooked lines, crying. The Ewe Hollow men were brothers called Tuft and Fell, and they talked about sheep, and the Clan herd-charm that Fell’s wife swore by and Tuft swore at, for the whole of the first day and the morning of the second, and Calder found it the most restful conversation he’d had in a month.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p16",
+   "type": "narration",
+   "text": "They came over the last rise in the afternoon of the second day and he saw that the whole Clan was there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p17",
+   "type": "narration",
+   "text": "Coldtarn lay in a bowl in the rock above the hold, higher up than he’d ever been, so high the clouds came down and sat on the rim of it. The water was black, like a hole cut in the world, and perfectly still, so still that the cliffs round it stood upside down in it without a ripple. The shore was a long slope of grey stones going down to the edge. And on the stones, in the cold, in their grey cloaks, stood more people than Calder had seen in one place in his life: hundreds of them, the whole hold and every farm in the Scarfell and half the Marches, ranked up the slope in a great half-circle facing the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p18",
+   "type": "narration",
+   "text": "Above them, on every ledge of the cliffs round the bowl, sat the dragons.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p19",
+   "type": "narration",
+   "text": "He’d thought the Roosts were a lot of dragons. The Roosts were a lot of dragons as a pond is a lot of water. They sat on the ledges with their wings folded and their heads down and their eyes on the tarn, so still and so many that at first he took them for rocks, until one of them shifted its weight and a shower of stones went rattling down into the water, and the sound came back off the cliffs three times.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 30,
+   "para": "p20",
+   "type": "narration",
+   "text": "None of them made a sound. The whole bowl was silent. Hundreds of people, hundreds of dragons, and nothing but the wind on the rim and the far faint sound of the falls below.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 31,
+   "para": "p21",
+   "type": "narration",
+   "text": "He got down off the wool cart. His knees were shaking, and it wasn’t the cold.",
+   "mood": "tension",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 32,
+   "para": "p22",
+   "type": "narration",
+   "text": "The quarrel came at the water’s edge, as everyone had known it would.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p23",
+   "type": "narration",
+   "text": "At the bottom of the slope, on a flat black stone that ran out into the tarn like a jetty, stood the urn. It was big and plain and grey, as tall as a child, and it held the ash of Haldor Varr and his pyre: eleven days and nights of burning, the whole great fire raked and sifted and carried up the mountain on a sledge. In front of it, facing the half-circle, stood the Clan’s priest, an old man in grey with a staff. Behind him, to the left, Arn and his men. To the right, Ulric and his. Teo stood a little apart from both, near the priest, bareheaded, with his hands clasped in front of him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p24",
+   "type": "narration",
+   "text": "The priest said the words, the plain ones first and then the old ones that only priests still had, which were meant to keep a dead chief down in the water where he belonged. Calder couldn’t hear most of them; the wind took them. He heard"
+  },
+  {
+   "seq": 35,
+   "para": "p24",
+   "type": "speech",
+   "text": "Haldor",
+   "speaker": "the priest"
+  },
+  {
+   "seq": 36,
+   "para": "p24",
+   "type": "narration",
+   "text": ", and"
+  },
+  {
+   "seq": 37,
+   "para": "p24",
+   "type": "speech",
+   "text": "son of Rurik",
+   "speaker": "the priest"
+  },
+  {
+   "seq": 38,
+   "para": "p24",
+   "type": "narration",
+   "text": ", and"
+  },
+  {
+   "seq": 39,
+   "para": "p24",
+   "type": "speech",
+   "text": "chief of the Varr",
+   "speaker": "the priest"
+  },
+  {
+   "seq": 40,
+   "para": "p24",
+   "type": "narration",
+   "text": ", and he heard the gods named, all of them, the old ones who walk unbound, and he saw the whole half-circle bow their heads at that, and he bowed his. Then the priest stepped back and lifted his staff and said, loud enough to carry up the slope:",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p25",
+   "type": "speech",
+   "text": "“Who pours?”",
+   "speaker": "the priest",
+   "how": "loud enough to carry",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p26",
+   "type": "narration",
+   "text": "That was the custom. The eldest son poured. Everyone knew that. Arn Varr stepped forward and put his hands on the urn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p27",
+   "type": "narration",
+   "text": "And Ulric’s voice came across the stone, slow and deep and perfectly calm."
+  },
+  {
+   "seq": 44,
+   "para": "p27",
+   "type": "speech",
+   "text": "“The champion pours.”",
+   "speaker": "Ulric",
+   "how": "slow, deep, perfectly calm",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p28",
+   "type": "narration",
+   "text": "There was a sound from the half-circle: not a word, more like a breath going out of hundreds of people at once.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 46,
+   "para": "p29",
+   "type": "narration",
+   "text": "Arn didn’t take his hands off the urn. He turned his head."
+  },
+  {
+   "seq": 47,
+   "para": "p29",
+   "type": "speech",
+   "text": "“The eldest son pours, Uncle. It’s been the eldest son since Varr himself.”",
+   "speaker": "Arn",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p30",
+   "type": "speech",
+   "text": "“It’s been the eldest son when the eldest son was a man the Clan would follow into a fight,”",
+   "speaker": "Ulric",
+   "mood": "tension"
+  },
+  {
+   "seq": 49,
+   "para": "p30",
+   "type": "narration",
+   "text": "said Ulric. He hadn’t moved. He stood with his men behind him and his arms folded across his chest, enormous in his grey cloak, and he didn’t raise his voice at all.",
+   "mood": "tension"
+  },
+  {
+   "seq": 50,
+   "para": "p30",
+   "type": "speech",
+   "text": "“When there’s doubt, the champion pours. That’s custom too. Ask the priest. Ask your grandmother’s bones. My grandfather poured for his brother because his brother’s son was nine years old and soft in the head, and nobody said a word.”",
+   "speaker": "Ulric",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 51,
+   "para": "p31",
+   "type": "speech",
+   "text": "“Are you calling me soft in the head?”",
+   "speaker": "Arn",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p32",
+   "type": "speech",
+   "text": "“I’m saying there’s doubt.”",
+   "speaker": "Ulric",
+   "mood": "tension"
+  },
+  {
+   "seq": 53,
+   "para": "p32",
+   "type": "narration",
+   "text": "Ulric looked up at the half-circle. Then he looked up at the cliffs, at the hundreds of dragons sitting silent on the ledges, and back down.",
+   "mood": "tension"
+  },
+  {
+   "seq": 54,
+   "para": "p32",
+   "type": "speech",
+   "text": "“Look around you, boy. Look how they’re standing. Look how they’re watching. That’s doubt. Your father kept it quiet for thirty-one years. Now he’s in that pot, and it’s not quiet anymore.”",
+   "speaker": "Ulric",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 55,
+   "para": "p33",
+   "type": "narration",
+   "text": "Arn let go of the urn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p34",
+   "type": "narration",
+   "text": "He did it slowly, and that was worse. Calder saw his face, from where he stood halfway up the slope: the face of a man who has been waiting for someone to say something, and now they have, and now there’s nothing left to wait for. His hand went to his hip. On both sides of the black stone, men moved, and there was a sound up the slope like a wave pulling back off shingle as people stepped away from the people next to them.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 57,
+   "para": "p35",
+   "type": "narration",
+   "text": "On the cliffs, a dragon lifted its head and hissed, very softly. The sound went round the bowl and came back.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 58,
+   "para": "p36",
+   "type": "narration",
+   "text": "And Teo walked between them.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 59,
+   "para": "p37",
+   "type": "narration",
+   "text": "He didn’t hurry. He walked out onto the black stone as if he had all day, and stood beside the urn, between his brother and his uncle, bareheaded, and put one hand on the urn. Then he looked at his uncle, and held out his other hand, open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p38",
+   "type": "speech",
+   "text": "“Pour with him,”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 61,
+   "para": "p38",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p39",
+   "type": "narration",
+   "text": "Ulric didn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p40",
+   "type": "speech",
+   "text": "“Pour with him,”",
+   "speaker": "Teo",
+   "how": "not loud",
+   "mood": "tender"
+  },
+  {
+   "seq": 64,
+   "para": "p40",
+   "type": "narration",
+   "text": "Teo said again. Not loud. Calder had to strain to hear it.",
+   "mood": "tender"
+  },
+  {
+   "seq": 65,
+   "para": "p40",
+   "type": "speech",
+   "text": "“You’re both right. It’s the son’s to pour and the champion’s to pour, and you’re both here, and you’re both his. So pour together. One hand each. Let the Clan see two hands on it.”",
+   "speaker": "Teo",
+   "how": "not loud",
+   "mood": "tender"
+  },
+  {
+   "seq": 66,
+   "para": "p40",
+   "type": "narration",
+   "text": "He looked at Arn.",
+   "mood": "tender"
+  },
+  {
+   "seq": 67,
+   "para": "p40",
+   "type": "speech",
+   "text": "“Brother. Please. He was our father. He was Uncle’s brother. Let them see us put him in the water together, and then you can go back to the hold and hate each other in private like decent people.”",
+   "speaker": "Teo",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p41",
+   "type": "narration",
+   "text": "For a long moment nobody on the black stone moved at all.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 69,
+   "para": "p42",
+   "type": "narration",
+   "text": "Then Ulric Varr unfolded his arms and stepped forward and put one huge hand on the urn, on one side, without looking at his nephew. And after a moment Arn put his hand on the other side, without looking at his uncle. And Teo took his own hand away and stepped back, and stood behind them, between them, with his head bowed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p43",
+   "type": "narration",
+   "text": "They tipped it together.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p44",
+   "type": "narration",
+   "text": "The ash went into Coldtarn in a long grey pour like smoke going the wrong way. It didn’t sink at first. It lay on the black water in a great pale shape, spreading slowly outward from the stone. Then, in the middle, it began to go down, and the whole shape drew in toward that point and went down after it, turning slowly, until there was nothing on the water at all.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 72,
+   "para": "p45",
+   "type": "narration",
+   "text": "On every ledge round the bowl, the dragons lifted their heads and opened their mouths, all together, and the sound they made was nothing Calder had ever heard or would ever be able to describe afterwards: lower than a roar, and longer. It went into the rock and came up through his feet and into his chest and stayed there, and he found that his face was wet, and so was everyone’s around him.",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 73,
+   "para": "p46",
+   "type": "narration",
+   "text": "Afterwards, when the half-circle broke up and people began to go back down toward the hold in long grey lines, Calder found the priest and gave him the cloth from Harrow’s End, and the old man took it and unfolded it and looked at the threads and said,"
+  },
+  {
+   "seq": 74,
+   "para": "p46",
+   "type": "speech",
+   "text": "“This is good work. Who wove it?”",
+   "speaker": "the priest",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p47",
+   "type": "speech",
+   "text": "“My mother. Ada Fenn. The village women all put in a thread.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p48",
+   "type": "speech",
+   "text": "“Tell her the Clan thanks her.”",
+   "speaker": "the priest"
+  },
+  {
+   "seq": 77,
+   "para": "p48",
+   "type": "narration",
+   "text": "The priest folded it again."
+  },
+  {
+   "seq": 78,
+   "para": "p48",
+   "type": "speech",
+   "text": "“And tell her the border’s crooked on the third side, but I won’t say a word about it.”",
+   "speaker": "the priest",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p49",
+   "type": "narration",
+   "text": "Calder laughed, surprised, and the old man smiled at him and went off with the cloth under his arm.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p50",
+   "type": "narration",
+   "text": "He was standing near the bottom of the slope, out of the wind behind a boulder, trying to decide whether to go and find Teo or to go and find the Ewe Hollow cart and start home before dark, when he heard the voice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p51",
+   "type": "narration",
+   "text": "It was a high, aggrieved voice, and he’d heard voices like it at the Ram’s Head. A knot of men stood a little way off among the stones: three or four of Ulric’s, big men in grey, and with them a thin man who wasn’t Clan at all. Saltreach, by his clothes, all colours and none, with a silver ring in one ear, from the boats by the look of him. He was talking fast and waving his hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p52",
+   "type": "speech",
+   "text": "“…one girl. One. In a Greyhold coat, with a tin sword and a horse that looked like it’d died the year before. And she breaks the lock and lets it out. In front of the whole village. A Brackenwood duskcat, that cub, worth more than this whole mountain. Gannet had a buyer lined up in Wendmouth paying silver, and she lets it go into the trees like it was a sparrow.”",
+   "speaker": "the boatman",
+   "mood": "anger"
+  },
+  {
+   "seq": 83,
+   "para": "p52",
+   "type": "narration",
+   "text": "He spat on the stones.",
+   "mood": "anger"
+  },
+  {
+   "seq": 84,
+   "para": "p52",
+   "type": "speech",
+   "text": "“Knights. They won’t cross the river to save a burning farm, but they’ll stand on a jetty and rob an honest man of his living. And then she tells us to get back in our boats. Tells us. Like we were dogs.”",
+   "speaker": "the boatman",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p53",
+   "type": "speech",
+   "text": "“So what d’you want us to do about it?”",
+   "speaker": "one of Ulric's men"
+  },
+  {
+   "seq": 86,
+   "para": "p53",
+   "type": "narration",
+   "text": "said one of Ulric’s men. He sounded bored."
+  },
+  {
+   "seq": 87,
+   "para": "p53",
+   "type": "speech",
+   "text": "“She’s across the river.”",
+   "speaker": "one of Ulric's men",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p54",
+   "type": "speech",
+   "text": "“Gannet says you people have long arms.”",
+   "speaker": "the boatman",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p55",
+   "type": "speech",
+   "text": "“Gannet says a lot of things.”",
+   "speaker": "one of Ulric's men",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p56",
+   "type": "speech",
+   "text": "“He says to tell your master there’s a knight-student at Greyhold who frees beasts. A tall one, dark, unbonded, late in her years for a student. Says your master’ll want to know. Says your master’s going to be wanting beasts himself, soon, and he’ll not want some knight’s girl letting them out of their cages.”",
+   "speaker": "the boatman"
+  },
+  {
+   "seq": 91,
+   "para": "p56",
+   "type": "narration",
+   "text": "The boatman looked round at the slope, at the grey cloaks going down toward the hold."
+  },
+  {
+   "seq": 92,
+   "para": "p56",
+   "type": "speech",
+   "text": "“Says there’s others will want to know, too. Others with long arms. Says to tell them.”",
+   "speaker": "the boatman",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p57",
+   "type": "speech",
+   "text": "“Tell who?”",
+   "speaker": "one of Ulric's men",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p58",
+   "type": "narration",
+   "text": "But the boatman had seen Calder behind his boulder, and stopped. He looked at him with flat, quick eyes. Calder looked at the stones, the way he’d looked at the stones his whole life, and after a moment the boatman decided he was nobody and turned his back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p59",
+   "type": "narration",
+   "text": "Calder walked away up the slope. He thought: a knight-student who frees beasts. A tall one, dark, unbonded, late in her years.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p60",
+   "type": "narration",
+   "text": "He thought about the masked men at Upper Rush, who’d wanted the beasts and not the blood. About Joss’s greys going down to the river on a rope. About a girl he’d never met standing on a jetty somewhere on the far bank, breaking a lock, with six men in front of her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p61",
+   "type": "narration",
+   "text": "He thought,",
+   "mood": "reflective"
+  },
+  {
+   "seq": 98,
+   "para": "p61",
+   "type": "thought",
+   "text": "good",
+   "speaker": "Calder",
+   "mood": "reflective"
+  },
+  {
+   "seq": 99,
+   "para": "p61",
+   "type": "narration",
+   "text": ", and was surprised at how much he meant it.",
+   "mood": "reflective",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 100,
+   "para": "p62",
+   "type": "narration",
+   "text": "He found Sigrun Holm at the top of the slope, sitting on a flat rock under the rim with her cloak round her and her back to the wind, watching the tarn. Behind her, crouched on the rim itself like a bronze hill, was Aurveth, with her great head lowered over the bowl and her gold eyes on the black water, unmoving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p63",
+   "type": "speech",
+   "text": "“Farmer,”",
+   "speaker": "Sigrun"
+  },
+  {
+   "seq": 102,
+   "para": "p63",
+   "type": "narration",
+   "text": "said Sigrun, without looking round."
+  },
+  {
+   "seq": 103,
+   "para": "p63",
+   "type": "speech",
+   "text": "“You brought the cloth.”",
+   "speaker": "Sigrun",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p64",
+   "type": "speech",
+   "text": "“My mother made it.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p65",
+   "type": "speech",
+   "text": "“I know. Everyone’s seen it. Crooked on the third side.”",
+   "speaker": "Sigrun"
+  },
+  {
+   "seq": 106,
+   "para": "p65",
+   "type": "narration",
+   "text": "The old warrior almost smiled."
+  },
+  {
+   "seq": 107,
+   "para": "p65",
+   "type": "speech",
+   "text": "“Sit down. You look like you’ve seen your own ghost.”",
+   "speaker": "Sigrun",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p66",
+   "type": "narration",
+   "text": "He sat. The rock was cold through his trousers. Down below, the last of the half-circle was going down the path, and the tarn lay black and still, with the cliffs standing upside down in it again as if nothing had happened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p67",
+   "type": "speech",
+   "text": "“Teo,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 110,
+   "para": "p67",
+   "type": "narration",
+   "text": "he said, after a while.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p68",
+   "type": "speech",
+   "text": "“Teo.”",
+   "speaker": "Sigrun",
+   "mood": "reflective"
+  },
+  {
+   "seq": 112,
+   "para": "p68",
+   "type": "narration",
+   "text": "Sigrun nodded slowly.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 113,
+   "para": "p68",
+   "type": "speech",
+   "text": "“He walked onto that stone like it was his kitchen. I’ve seen men walk into a shield-wall with more fear in their faces.”",
+   "speaker": "Sigrun",
+   "mood": "reflective"
+  },
+  {
+   "seq": 114,
+   "para": "p68",
+   "type": "narration",
+   "text": "She looked down at the black stone, empty now, where the urn had been.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 115,
+   "para": "p68",
+   "type": "speech",
+   "text": "“He bought them a month. Maybe two. That’s all. They poured together, and now they’ll go back to the hold and sit at their two tables, and every day of the next month they’ll each be thinking how the other one’s hand felt on the urn.”",
+   "speaker": "Sigrun",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p69",
+   "type": "speech",
+   "text": "“You don’t think they’ll come round.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p70",
+   "type": "speech",
+   "text": "“I think Ulric’s been waiting thirty years and Arn’s been waiting since he could walk, and I think waiting men don’t come round. They go off.”",
+   "speaker": "Sigrun"
+  },
+  {
+   "seq": 118,
+   "para": "p70",
+   "type": "narration",
+   "text": "She pulled her cloak tighter."
+  },
+  {
+   "seq": 119,
+   "para": "p70",
+   "type": "speech",
+   "text": "“I’ve ridden for this Clan near sixty years. I’ve buried two chiefs. I’ve never seen the dragons sit on the rim like that. Not for Rurik. Not for anyone.”",
+   "speaker": "Sigrun",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p71",
+   "type": "narration",
+   "text": "Calder looked up at Aurveth. The great dragon hadn’t moved. Her eyes were still on the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Is she all right?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p73",
+   "type": "speech",
+   "text": "“She’s remembering.”",
+   "speaker": "Sigrun",
+   "mood": "reflective"
+  },
+  {
+   "seq": 123,
+   "para": "p73",
+   "type": "narration",
+   "text": "Sigrun reached back without looking and laid her hand on the bronze foreleg behind her, the way Calder had seen her do on the ledge at the Roosts.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 124,
+   "para": "p73",
+   "type": "speech",
+   "text": "“She’s done this before. More times than I have. More times than anyone.”",
+   "speaker": "Sigrun",
+   "mood": "reflective"
+  },
+  {
+   "seq": 125,
+   "para": "p73",
+   "type": "narration",
+   "text": "She was quiet a moment.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 126,
+   "para": "p73",
+   "type": "speech",
+   "text": "“Did you know she’s had three of us? Three partners. I’m the third.”",
+   "speaker": "Sigrun",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p74",
+   "type": "speech",
+   "text": "“Teo said she was old.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p75",
+   "type": "speech",
+   "text": "“Teo doesn’t know the half of it. Nobody does. I’m not sure she does, all of it.”",
+   "speaker": "Sigrun"
+  },
+  {
+   "seq": 129,
+   "para": "p75",
+   "type": "narration",
+   "text": "Sigrun looked out over the tarn."
+  },
+  {
+   "seq": 130,
+   "para": "p75",
+   "type": "speech",
+   "text": "“Her second was my great-uncle. Ragnald Holm. A big, kind, slow man; I remember him a little, from when I was a girl. He was killed in a rockfall in the Scarfell, sixty years ago. Sixty-one. And everyone in the hold waited for her to go after him. That’s what happens. You know that. The beast goes after the rider, the rider goes after the beast. One life between two. It’s the oldest law there is. They wait a few days, and then they burn them both on the same pyre.”",
+   "speaker": "Sigrun",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p76",
+   "type": "speech",
+   "text": "“But she didn’t.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p77",
+   "type": "speech",
+   "text": "“She didn’t. She came up here, to this rock, and she lay down on the shore with her head in the water, and she stayed there. A full year. Through a whole winter. She didn’t eat that anyone saw. People came up to look at her and went away again, and the priests said prayers over her, and everyone waited. And she didn’t wither, and she didn’t die. And in the spring she got up and went back to the Roosts and lay in her cave for another year, and then I came of age, and she chose me.”",
+   "speaker": "Sigrun",
+   "mood": "awe"
+  },
+  {
+   "seq": 133,
+   "para": "p77",
+   "type": "narration",
+   "text": "Sigrun was quiet.",
+   "mood": "awe"
+  },
+  {
+   "seq": 134,
+   "para": "p77",
+   "type": "speech",
+   "text": "“Nobody knew how. Nobody knows now. It doesn’t happen. A beast that loses its rider dies. It’s not a rule anyone made, it’s just what is. And she didn’t.”",
+   "speaker": "Sigrun",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 135,
+   "para": "p78",
+   "type": "narration",
+   "text": "The wind came over the rim and went across the black water without leaving a mark on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p79",
+   "type": "speech",
+   "text": "“And her first?”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 137,
+   "para": "p79",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p80",
+   "type": "narration",
+   "text": "Sigrun shook her head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Nobody knows. Before Ragnald, she was in the Roosts for longer than anyone could remember, alone, unbonded, old already. The oldest stories in the hold have her in them, sitting on the cliff, just like that. Before that…”",
+   "speaker": "Sigrun",
+   "mood": "reflective"
+  },
+  {
+   "seq": 140,
+   "para": "p81",
+   "type": "narration",
+   "text": "She shrugged.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 141,
+   "para": "p81",
+   "type": "speech",
+   "text": "“I’ve asked her. Through the bond, you can ask anything. She doesn’t answer. She doesn’t refuse. She just goes quiet, like a well, and you feel how deep it goes, and you stop asking.”",
+   "speaker": "Sigrun",
+   "mood": "reflective"
+  },
+  {
+   "seq": 142,
+   "para": "p81",
+   "type": "narration",
+   "text": "Sigrun looked up at the great bronze head above her.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 143,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Sometimes I think she’s been waiting for something. For a long time. Longer than all of us. And she doesn’t know what it is either.”",
+   "speaker": "Sigrun",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p82",
+   "type": "narration",
+   "text": "Aurveth’s eye moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p83",
+   "type": "narration",
+   "text": "It was a small thing. The great gold eye, the size of a cartwheel hub, that had been fixed on the tarn the whole time, turned in its socket and came round and down, slowly, and rested on Calder.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 146,
+   "para": "p84",
+   "type": "narration",
+   "text": "It stayed there. He didn’t move. He couldn’t have moved if the mountain had fallen. He sat on the cold rock beside Sigrun Holm and the oldest living thing in the Scarfell looked at him for a long, long moment, as you look at a word in a language you used to know, trying to remember what it means.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 147,
+   "para": "p85",
+   "type": "narration",
+   "text": "Then the eye went back to the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p86",
+   "type": "narration",
+   "text": "Sigrun had seen it. He knew she had. She was quiet for a while.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p87",
+   "type": "speech",
+   "text": "“Well,”",
+   "speaker": "Sigrun",
+   "how": "quite lightly",
+   "mood": "humour"
+  },
+  {
+   "seq": 150,
+   "para": "p87",
+   "type": "narration",
+   "text": "she said at last, quite lightly.",
+   "mood": "humour"
+  },
+  {
+   "seq": 151,
+   "para": "p87",
+   "type": "speech",
+   "text": "“She’s never done that to a farmer before.”",
+   "speaker": "Sigrun",
+   "how": "quite lightly",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p88",
+   "type": "speech",
+   "text": "“What does it mean?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p89",
+   "type": "speech",
+   "text": "“Gods know.”",
+   "speaker": "Sigrun"
+  },
+  {
+   "seq": 154,
+   "para": "p89",
+   "type": "narration",
+   "text": "Sigrun got up, stiffly, and pulled her cloak round her, and looked down at him with an expression he couldn’t read."
+  },
+  {
+   "seq": 155,
+   "para": "p89",
+   "type": "speech",
+   "text": "“She doesn’t tell me everything, Fenn. She never has. Go home. The Ewe Hollow cart’s leaving and you’ll freeze up here.”",
+   "speaker": "Sigrun"
+  },
+  {
+   "seq": 156,
+   "para": "p89",
+   "type": "narration",
+   "text": "She turned to go, and then stopped."
+  },
+  {
+   "seq": 157,
+   "para": "p89",
+   "type": "speech",
+   "text": "“And Fenn. When Teo gets them to the ford, and he will, he’ll want people there who aren’t Ulric’s and aren’t Arn’s. Ordinary people. Witnesses. He’ll ask you. Don’t say no.”",
+   "speaker": "Sigrun",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p90",
+   "type": "speech",
+   "text": "“Why me?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p91",
+   "type": "speech",
+   "text": "“Because you’ll stand there and not say anything,”",
+   "speaker": "Sigrun"
+  },
+  {
+   "seq": 160,
+   "para": "p91",
+   "type": "narration",
+   "text": "said Sigrun Holm,"
+  },
+  {
+   "seq": 161,
+   "para": "p91",
+   "type": "speech",
+   "text": "“and everyone will believe whatever you saw.”",
+   "speaker": "Sigrun",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 162,
+   "para": "p92",
+   "type": "narration",
+   "text": "He rode home on the wool bales, two days of it, and on the first night the cart stopped at the Ram’s Head and he lay awake in the loft above the stable with Tuft and Fell snoring on either side of him, and thought about the black water, and a long line of dead chiefs falling slowly through it side by side forever.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p93",
+   "type": "narration",
+   "text": "He thought about two hands on an urn, and a young man standing behind them with his head bowed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p94",
+   "type": "narration",
+   "text": "He thought about a great gold eye coming round, slowly, and resting on him, as if it were trying to remember something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p95",
+   "type": "narration",
+   "text": "He didn’t sleep until nearly dawn. When he did, he dreamed he was standing on the black stone at the edge of Coldtarn, and the water was rising, and three enormous shapes were coming up through it from very far below.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  }
+ ]
+}

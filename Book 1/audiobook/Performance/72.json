@@ -1,0 +1,1629 @@
+{
+ "chapter": 72,
+ "title": "The Spit",
+ "pov": "Calder",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Seventy-two.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Spit.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "They came down on the island at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "Out of the north, low, over the reeds, the way Calder had asked. Kharrak first, rust-red, coming down the long reach of the river above the island with his wings half folded and the last of the light on him. Then Aurveth, with Calder on her neck, higher, slower, the great bronze wings beating long and heavy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "He felt them both. Kharrak’s tide, all the way up. Aurveth’s slow old weight under it, holding it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "And the empty place where the third should have been.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "He felt that most. Lisska was a spark now, far off and west, small and frightened, and no words in it. She’d gone where he sent her, and she didn’t speak. He felt the space she’d left, cold, where she always was, at the edge of everything, chattering.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "bond",
+   "text": "Now,",
+   "speaker": "Calder",
+   "listener": "Kharrak"
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "narration",
+   "text": "Kharrak opened his mouth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 11,
+   "para": "p8",
+   "type": "narration",
+   "text": "They burned the camp in the oaks.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p9",
+   "type": "narration",
+   "text": "He’d said that. Not the fort, and nowhere near the tower or the slab or the stair. The tents in the oaks where the men slept, and the stores, and the boats.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p10",
+   "type": "narration",
+   "text": "Kharrak went along the north end of the island like a scythe. The fire came out of him white at the root and orange-red at the end, and the oaks went up, and the tents under them, and the night went orange from bank to bank. Calder saw men running out of the trees with their clothes alight, down to the water. He saw the ring of fires round the pit, where they’d kept the honey-smoke burning in case the lion came back, go out under the bigger fire like candles under a wave.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p11",
+   "type": "narration",
+   "text": "Aurveth went along the east shore, without hurry. The boats drawn up on the gravel in rows, dozens of them, that had carried the army over from the Eelweir, and she rolled her fire over them in one long slow wave, bronze-gold, deep, like the throat of a lime-kiln, and they went up all together in a line.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p12",
+   "type": "narration",
+   "text": "The men on the island broke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p13",
+   "type": "narration",
+   "text": "Most of them. He saw them from Aurveth’s neck as she came round. Running for the boats that weren’t burning yet, at the south end, at the spit. Throwing themselves into the river. Swimming for the Saltreach shore. Shouting.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p14",
+   "type": "narration",
+   "text": "A few hundred didn’t run.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p15",
+   "type": "narration",
+   "text": "In the fort. Inside the old broken walls, round the great fire in the middle. In grey, with the six on their coats. With spears and crossbows. With shields, some of them, round company shields with marks painted on the faces in white, small square marks, the kind on the verse. With bound hounds standing silent in a ring round them, and two wyverns on perches by the eastern gate lifting their heads on their long necks toward the sky.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p16",
+   "type": "narration",
+   "text": "Bolts came up. He heard them go past.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p17",
+   "type": "narration",
+   "text": "A line of them came out through the eastern gate onto the slope with the painted shields up, kneeling behind them to shoot. Kharrak went along the slope once, low, and let his fire down across them. The white marks on the shields flared, all of them, bright as sparks off a grindstone, and went black. The fire went through them as if they were paper. The men behind them ran or burned.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p18",
+   "type": "bond",
+   "text": "Marks,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "old, dry contempt"
+  },
+  {
+   "seq": 22,
+   "para": "p18",
+   "type": "narration",
+   "text": "said Aurveth. Contempt in it, old and dry."
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "bond",
+   "text": "They’ll turn a word. They’ll not turn fire. Not ours.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "old, dry contempt",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p19",
+   "type": "narration",
+   "text": "Then the smell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p20",
+   "type": "narration",
+   "text": "Sweet. Thick. Coming up off the great fire in the middle of the fort, where somebody had thrown pots into it, three, four, and the smoke going up in a fat yellow-grey column straight into the sky where the dragons were."
+  },
+  {
+   "seq": 26,
+   "para": "p20",
+   "type": "thought",
+   "text": "Honey-smoke.",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 27,
+   "para": "p20",
+   "type": "narration",
+   "text": "He’d smelled it at the Ewe Beck, the night the tent of it burned. Aurveth went through the edge of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p21",
+   "type": "narration",
+   "text": "He felt her go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p22",
+   "type": "narration",
+   "text": "Not fall. Go. Away from him. As if the bronze mark on his chest were a hand that had been holding his, and the fingers were opening, one at a time, in the dark. Something in her turning away, slow and dreamy, toward the sweet smoke.",
+   "mood": "dread"
+  },
+  {
+   "seq": 30,
+   "para": "p22",
+   "type": "bond",
+   "text": "Aurveth.",
+   "speaker": "Calder",
+   "listener": "Aurveth",
+   "mood": "dread"
+  },
+  {
+   "seq": 31,
+   "para": "p22",
+   "type": "narration",
+   "text": "He couldn’t feel her answer.",
+   "mood": "dread"
+  },
+  {
+   "seq": 32,
+   "para": "p22",
+   "type": "bond",
+   "text": "Aurveth!",
+   "speaker": "Calder",
+   "listener": "Aurveth",
+   "how": "crying out",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 33,
+   "para": "p23",
+   "type": "narration",
+   "text": "She shook her head. Hard, the whole great neck. She beat her wings down once, twice, a gale of them that tore the smoke apart, and climbed out of it, and the fingers closed again. He felt her come back into his hand all at once, cold and furious.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p24",
+   "type": "bond",
+   "text": "Keep above it,",
+   "speaker": "Aurveth",
+   "listener": "Kharrak"
+  },
+  {
+   "seq": 35,
+   "para": "p24",
+   "type": "narration",
+   "text": "she said to Kharrak."
+  },
+  {
+   "seq": 36,
+   "para": "p24",
+   "type": "bond",
+   "text": "Keep out of the smoke.",
+   "speaker": "Aurveth",
+   "listener": "Kharrak",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p25",
+   "type": "narration",
+   "text": "The yellow-grey column leaned over the fort on the wind, and they kept above it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p26",
+   "type": "bond",
+   "text": "The gate,",
+   "speaker": "Calder",
+   "listener": "Aurveth"
+  },
+  {
+   "seq": 39,
+   "para": "p26",
+   "type": "narration",
+   "text": "he said to Aurveth."
+  },
+  {
+   "seq": 40,
+   "para": "p26",
+   "type": "bond",
+   "text": "The eastern gate. Put me down.",
+   "speaker": "Calder",
+   "listener": "Aurveth",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 41,
+   "para": "p27",
+   "type": "narration",
+   "text": "She put him down inside the eastern gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p28",
+   "type": "narration",
+   "text": "She came down in the middle of the men round it, onto them, with her wings spread and her great head low, and the men round the gate scattered, and the wyverns came off their perches screaming and went for her face, and she took one of them out of the air in her jaws the way she’d taken Dag Rorke off Kharrak’s back at the mill. Calder slid off her neck onto the stones of the fort with Joss’s knife in his hand.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p29",
+   "type": "narration",
+   "text": "She stood over him in the gateway with her wings half open. The fire behind her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p30",
+   "type": "bond",
+   "text": "Here,",
+   "speaker": "Aurveth",
+   "listener": "Calder"
+  },
+  {
+   "seq": 45,
+   "para": "p30",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 46,
+   "para": "p30",
+   "type": "bond",
+   "text": "I’ll hold this. Go.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p31",
+   "type": "narration",
+   "text": "He went.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 48,
+   "para": "p32",
+   "type": "narration",
+   "text": "He didn’t remember most of it. Pieces. A man in grey coming at him with a spear and the spear going past him because the man was looking up at Aurveth. A hound, silent, with its eyes empty, that went for him and that he put Joss’s knife into without thinking, as you’d kill a rat in a barn. The stones of the fort hot under his boots. The great fire in the middle of the fort, and men running across in front of it, black against it.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p33",
+   "type": "narration",
+   "text": "He was going for the tower.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p34",
+   "type": "narration",
+   "text": "He could see it. Across the fort. At the north-west corner, squat and round, with the arch in its side and the firelight on the verse. The verse had a light of its own, under the firelight. Faint. White. Six lines of square hooked letters, lit from inside the stone, like a lamp turned down low. And nobody under the arch.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 51,
+   "para": "p35",
+   "type": "narration",
+   "text": "Corvin wasn’t there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p36",
+   "type": "narration",
+   "text": "He’d stood there for three days with his hands behind his back, and he wasn’t there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p37",
+   "type": "narration",
+   "text": "Calder stopped in the middle of the fort with the fighting round him and looked at the empty arch.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 54,
+   "para": "p38",
+   "type": "narration",
+   "text": "Then he saw Rook.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 55,
+   "para": "p39",
+   "type": "narration",
+   "text": "Going the other way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p40",
+   "type": "narration",
+   "text": "Away from the tower and the fighting. Out through the broken wall on the south side of the fort, where it was down to the height of a man’s knee, and down the slope beyond it through the oaks toward the south end of the island. Toward the spit. Toward the landing. Alone. Walking fast, with his head down, like a man leaving a house where something’s gone wrong, before anybody notices he’s gone.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 57,
+   "para": "p41",
+   "type": "narration",
+   "text": "A man of no particular height. With a face you forgot while you were looking at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p42",
+   "type": "narration",
+   "text": "Calder knew him from behind. From the walk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p43",
+   "type": "thought",
+   "text": "Leaving,",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 60,
+   "para": "p43",
+   "type": "narration",
+   "text": "he thought."
+  },
+  {
+   "seq": 61,
+   "para": "p43",
+   "type": "thought",
+   "text": "He’s leaving. While they fight. Before the hour. He’s going.",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p44",
+   "type": "narration",
+   "text": "He went after him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 63,
+   "para": "p45",
+   "type": "narration",
+   "text": "He didn’t call Kharrak. He didn’t think of it. He went over the low place in the south wall of the fort and down the slope through the oaks in the dark after the man, with Joss’s knife in his hand and the fire behind him lighting the trees. Down through the trees. Out onto the open gravel above the spit.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p46",
+   "type": "narration",
+   "text": "Rook was on the spit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p47",
+   "type": "narration",
+   "text": "At the bottom. By the landing. Where the old stone stair came down to the water, and the stake still stood in the paving at the foot of it, iron, as long as a man’s arm, with the stub of the cut collar-chain still round its head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p48",
+   "type": "narration",
+   "text": "There was no boat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p49",
+   "type": "narration",
+   "text": "There’d been one. Calder could see the keel-mark on the gravel. Fresh. Going down into the water. Somebody else had taken it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p50",
+   "type": "narration",
+   "text": "Rook stood at the foot of the stair by the stake and looked at the empty water.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 69,
+   "para": "p51",
+   "type": "narration",
+   "text": "He turned round, and saw Calder coming down the gravel toward him in the firelight with a knife.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 70,
+   "para": "p52",
+   "type": "narration",
+   "text": "He smiled.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p53",
+   "type": "narration",
+   "text": "An ordinary smile. The one from the lower stable at Varrhold, from the bucket by the door. Pleasant. Nothing behind it.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 72,
+   "para": "p54",
+   "type": "speech",
+   "text": "“Fenn,”",
+   "speaker": "Rook"
+  },
+  {
+   "seq": 73,
+   "para": "p54",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 74,
+   "para": "p54",
+   "type": "speech",
+   "text": "“The barley man.”",
+   "speaker": "Rook",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p55",
+   "type": "narration",
+   "text": "Calder stopped on the gravel a few strides off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p56",
+   "type": "speech",
+   "text": "“I knew it was you,”",
+   "speaker": "Rook",
+   "mood": "tension"
+  },
+  {
+   "seq": 77,
+   "para": "p56",
+   "type": "narration",
+   "text": "said Rook.",
+   "mood": "tension"
+  },
+  {
+   "seq": 78,
+   "para": "p56",
+   "type": "speech",
+   "text": "“On the dragon. Over the oaks. Nobody else would ride the old one like that, as if she were a cart.”",
+   "speaker": "Rook",
+   "mood": "tension"
+  },
+  {
+   "seq": 79,
+   "para": "p56",
+   "type": "narration",
+   "text": "He looked at the knife in Calder’s hand.",
+   "mood": "tension"
+  },
+  {
+   "seq": 80,
+   "para": "p56",
+   "type": "speech",
+   "text": "“That’s Joss’s. From Upper Rush. The horn grip. I knew him too. Bought a pair of his greys, once, for the camps. Through a man.”",
+   "speaker": "Rook",
+   "mood": "tension"
+  },
+  {
+   "seq": 81,
+   "para": "p56",
+   "type": "narration",
+   "text": "He shook his head a little, regretfully.",
+   "mood": "tension"
+  },
+  {
+   "seq": 82,
+   "para": "p56",
+   "type": "speech",
+   "text": "“I’m sorry about Joss. That wasn’t meant.”",
+   "speaker": "Rook",
+   "how": "regretfully",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 83,
+   "para": "p57",
+   "type": "speech",
+   "text": "“You’d laugh to see me with sheep,”",
+   "speaker": "Rook",
+   "mood": "humour"
+  },
+  {
+   "seq": 84,
+   "para": "p57",
+   "type": "narration",
+   "text": "said Rook.",
+   "mood": "humour"
+  },
+  {
+   "seq": 85,
+   "para": "p57",
+   "type": "speech",
+   "text": "“I said that to you, didn’t I? At Varrhold. In the stable.”",
+   "speaker": "Rook",
+   "mood": "humour"
+  },
+  {
+   "seq": 86,
+   "para": "p57",
+   "type": "narration",
+   "text": "He laughed, softly.",
+   "mood": "humour"
+  },
+  {
+   "seq": 87,
+   "para": "p57",
+   "type": "speech",
+   "text": "“I’ve never been near a sheep in my life.”",
+   "speaker": "Rook",
+   "how": "laughing softly",
+   "mood": "humour",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 88,
+   "para": "p58",
+   "type": "speech",
+   "text": "“You’re coming to the Clan,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 89,
+   "para": "p58",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p59",
+   "type": "narration",
+   "text": "Rook looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Alive. To the hold. To Skarrow. To both yards. In front of Arn and in front of Ulric, at the same time, in the same breath, and you’re going to say it. What you said under the arch. All of it. The gorse. The horse. He held the reins out to me.”",
+   "speaker": "Calder",
+   "mood": "anger"
+  },
+  {
+   "seq": 92,
+   "para": "p60",
+   "type": "narration",
+   "text": "He heard his own voice and didn’t know it.",
+   "mood": "anger"
+  },
+  {
+   "seq": 93,
+   "para": "p60",
+   "type": "speech",
+   "text": "“You’re going to say it to their faces.”",
+   "speaker": "Calder",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p61",
+   "type": "speech",
+   "text": "“Am I,”",
+   "speaker": "Rook"
+  },
+  {
+   "seq": 95,
+   "para": "p61",
+   "type": "narration",
+   "text": "said Rook.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p62",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p63",
+   "type": "narration",
+   "text": "Rook looked at him, and down at the knife, and up past Calder’s shoulder at the fort burning on the top of the island, and the shapes going over it against the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p64",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Rook",
+   "how": "pleasantly"
+  },
+  {
+   "seq": 99,
+   "para": "p64",
+   "type": "narration",
+   "text": "he said pleasantly."
+  },
+  {
+   "seq": 100,
+   "para": "p64",
+   "type": "speech",
+   "text": "“I’m not.”",
+   "speaker": "Rook",
+   "how": "pleasantly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p65",
+   "type": "narration",
+   "text": "He put his hand to his belt and took out his own knife.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p66",
+   "type": "narration",
+   "text": "A plain knife, with a plain round pommel. And on the pommel, very small, neat as a smith’s: a ring of six.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p67",
+   "type": "speech",
+   "text": "“Nobody believes the barley man,”",
+   "speaker": "Rook",
+   "mood": "dread"
+  },
+  {
+   "seq": 104,
+   "para": "p67",
+   "type": "narration",
+   "text": "said Rook.",
+   "mood": "dread"
+  },
+  {
+   "seq": 105,
+   "para": "p67",
+   "type": "speech",
+   "text": "“You know that. You’ve been trying all winter. You stood in Ulric’s gate and in Arn’s yard and in the water at the ford, and nobody believed you. Some old woman of the ledges read your mother’s letter out in both yards and Arn threw her out of the gate and Ulric went inside without a word.”",
+   "speaker": "Rook",
+   "mood": "dread"
+  },
+  {
+   "seq": 106,
+   "para": "p67",
+   "type": "narration",
+   "text": "He turned the knife over in his soft clerk’s hand.",
+   "mood": "dread"
+  },
+  {
+   "seq": 107,
+   "para": "p67",
+   "type": "speech",
+   "text": "“And they’ll not believe me either. Whatever you make me say. A man with a dragon’s foot on his back will say anything. They know that. Everybody knows that.”",
+   "speaker": "Rook",
+   "mood": "dread"
+  },
+  {
+   "seq": 108,
+   "para": "p67",
+   "type": "narration",
+   "text": "He smiled.",
+   "mood": "dread"
+  },
+  {
+   "seq": 109,
+   "para": "p67",
+   "type": "speech",
+   "text": "“I’m hopeless, Fenn. Truly. There’s nothing in me worth carrying anywhere.”",
+   "speaker": "Rook",
+   "mood": "dread"
+  },
+  {
+   "seq": 110,
+   "para": "p67",
+   "type": "narration",
+   "text": "He tipped his head.",
+   "mood": "dread"
+  },
+  {
+   "seq": 111,
+   "para": "p67",
+   "type": "speech",
+   "text": "“There’s the book, of course. Every bag of silver I ever paid out, and what for. But the book went into Delling’s chest with the silver, and Delling sells anything, and you can’t read.”",
+   "speaker": "Rook",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 112,
+   "para": "p68",
+   "type": "speech",
+   "text": "“Put it down.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p69",
+   "type": "speech",
+   "text": "“No.”",
+   "speaker": "Rook",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 114,
+   "para": "p70",
+   "type": "narration",
+   "text": "Behind Calder, something came down on the spit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p71",
+   "type": "narration",
+   "text": "He felt it before he heard it. The red tide, all the way up, coming down out of the dark onto the gravel so hard the stones jumped under his boots. Heat on his back. Breath. The smell of hot iron and smoke.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p72",
+   "type": "narration",
+   "text": "Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p73",
+   "type": "narration",
+   "text": "He’d felt Calder’s blood go. Of course he had. All the way from the fort. When Rook said"
+  },
+  {
+   "seq": 118,
+   "para": "p73",
+   "type": "remembered",
+   "text": "Joss’s.",
+   "speaker": "Rook"
+  },
+  {
+   "seq": 119,
+   "para": "p73",
+   "type": "narration",
+   "text": "When Rook said"
+  },
+  {
+   "seq": 120,
+   "para": "p73",
+   "type": "remembered",
+   "text": "I’m sorry about Joss.",
+   "speaker": "Rook"
+  },
+  {
+   "seq": 121,
+   "para": "p73",
+   "type": "narration",
+   "text": "Something had gone through Calder then that he hadn’t felt go, and Kharrak had felt it and come.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p74",
+   "type": "narration",
+   "text": "He stood on the gravel behind Calder with his wings half open and his head low and his throat swelling and his gold eyes on Rook.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p75",
+   "type": "bond",
+   "text": "Him,",
+   "speaker": "Kharrak",
+   "listener": "Calder"
+  },
+  {
+   "seq": 124,
+   "para": "p75",
+   "type": "narration",
+   "text": "said Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p76",
+   "type": "speech",
+   "text": "“No. Kharrak, no. Alive. I need him alive.”",
+   "speaker": "Calder",
+   "how": "shouting",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p77",
+   "type": "bond",
+   "text": "Him. The bucket man. The one who held the reins.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p78",
+   "type": "speech",
+   "text": "“I need him…”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p79",
+   "type": "narration",
+   "text": "Rook was looking at Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p80",
+   "type": "narration",
+   "text": "Calder saw it. The forgettable face looking up at the dragon over Calder’s shoulder in the firelight, and something coming into it that Calder had seen once before, in the lower stable at Varrhold, for a moment, when he’d said"
+  },
+  {
+   "seq": 130,
+   "para": "p80",
+   "type": "remembered",
+   "text": "would I",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 131,
+   "para": "p80",
+   "type": "narration",
+   "text": "without meaning anything by it. Sharp, and quick, and measuring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p81",
+   "type": "narration",
+   "text": "Rook knew exactly what Kharrak was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p82",
+   "type": "narration",
+   "text": "He knew what he’d do.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p83",
+   "type": "narration",
+   "text": "Rook came at Calder with the knife.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p84",
+   "type": "narration",
+   "text": "Fast. Very fast. Faster than anything with soft clerk’s hands should move. Low, at his side, under the coat, where you’d go at a man you wanted to hurt and not kill.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p85",
+   "type": "narration",
+   "text": "Calder saw it coming and couldn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p86",
+   "type": "narration",
+   "text": "Kharrak moved.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 138,
+   "para": "p87",
+   "type": "speech",
+   "text": "“No…”",
+   "speaker": "Calder",
+   "how": "crying out",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p88",
+   "type": "narration",
+   "text": "It was done before the word was out.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p89",
+   "type": "narration",
+   "text": "Calder stood on the gravel with Joss’s knife in his hand and the word still in his mouth, and Rook wasn’t in front of him any more. He was on the stones at the foot of the landing stair, by the stake. On his back. With Kharrak’s great foot on him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p90",
+   "type": "narration",
+   "text": "His eyes were open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p91",
+   "type": "narration",
+   "text": "He looked up at Kharrak. At the rust-red head over him, the gold eyes, the jaws. He didn’t look frightened. He looked like a man who’d added up a sum and got it right.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 143,
+   "para": "p92",
+   "type": "speech",
+   "text": "“Good beast,”",
+   "speaker": "Rook"
+  },
+  {
+   "seq": 144,
+   "para": "p92",
+   "type": "narration",
+   "text": "said Rook.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p93",
+   "type": "narration",
+   "text": "Then nothing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 146,
+   "para": "p94",
+   "type": "narration",
+   "text": "Calder stood there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p95",
+   "type": "narration",
+   "text": "The fire on the top of the island. The river going by on both sides of the spit, black, loud. The stake in the paving, with the stub of chain on it. Kharrak standing over the body with his foot still on it, and the red tide going down in him, all at once, like a wave going back.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p96",
+   "type": "narration",
+   "text": "He’d never say anything now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p97",
+   "type": "remembered",
+   "text": "He was pleased to see me. He held the reins out to me.",
+   "speaker": "Rook"
+  },
+  {
+   "seq": 150,
+   "para": "p97",
+   "type": "narration",
+   "text": "Under the arch, in the firelight, to Corvin and Cassian. With Calder lying above them under a beam with his face to a crack. Nobody else. No one who’d stand up in a yard and say I heard it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p98",
+   "type": "narration",
+   "text": "Whatever else Rook knew. Who’d sent him. What else he’d done. Who their friend inside Greyhold was. The name of the man in the hedge at the mill, who’d put a bolt in Imra Sallow for Delling’s money. What was under the school. What the twins meant to do with what they woke. All of it, in that forgettable head, on the gravel by the stake.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 152,
+   "para": "p99",
+   "type": "narration",
+   "text": "Gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p100",
+   "type": "narration",
+   "text": "He’d meant it to be.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 154,
+   "para": "p101",
+   "type": "narration",
+   "text": "Kharrak took his foot off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p102",
+   "type": "narration",
+   "text": "He stepped back. He lowered his head until it was level with Calder’s, and Calder could feel the heat still coming off his jaws.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p103",
+   "type": "bond",
+   "text": "I’m sorry,",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "how": "very quiet"
+  },
+  {
+   "seq": 157,
+   "para": "p103",
+   "type": "narration",
+   "text": "said Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p104",
+   "type": "narration",
+   "text": "It was very quiet, in Calder’s head.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p105",
+   "type": "speech",
+   "text": "“I know.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p106",
+   "type": "bond",
+   "text": "I felt it come. The knife. At your side. I didn’t think. I didn’t decide.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "mood": "tender"
+  },
+  {
+   "seq": 161,
+   "para": "p106",
+   "type": "narration",
+   "text": "A pause.",
+   "mood": "tender"
+  },
+  {
+   "seq": 162,
+   "para": "p106",
+   "type": "bond",
+   "text": "Like the roar. It just came out.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p107",
+   "type": "speech",
+   "text": "“I know.”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 164,
+   "para": "p107",
+   "type": "narration",
+   "text": "Calder looked down at Rook."
+  },
+  {
+   "seq": 165,
+   "para": "p107",
+   "type": "speech",
+   "text": "“He meant you to.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p108",
+   "type": "bond",
+   "text": "I know that too.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p109",
+   "type": "narration",
+   "text": "Kharrak was quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p110",
+   "type": "bond",
+   "text": "He wanted it,",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "mood": "dread"
+  },
+  {
+   "seq": 169,
+   "para": "p110",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "dread"
+  },
+  {
+   "seq": 170,
+   "para": "p110",
+   "type": "bond",
+   "text": "At the end. He looked at me and he wanted it. I’ve never seen anything want that.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "mood": "dread",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 171,
+   "para": "p111",
+   "type": "narration",
+   "text": "The knife was on the gravel where it had fallen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p112",
+   "type": "narration",
+   "text": "Calder bent down and picked it up. A plain knife, with a plain round pommel. The ring of six on it. He turned it over in his hands in the firelight. Cheap, he thought. A coast knife. Nothing. The kind you’d buy in any market from Wendmouth to Cotter’s Cross.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p113",
+   "type": "narration",
+   "text": "He put it inside his coat. With the island chain, and the iron ring from the ford.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p114",
+   "type": "narration",
+   "text": "It was all there was. A knife. A ring. A bit of chain with two little hammers under the six. Ada’s letter, read in two yards to men who wouldn’t hear it. And what he’d heard lying under a beam in the dark, that nobody else had.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p115",
+   "type": "remembered",
+   "text": "Nobody believes the barley man.",
+   "speaker": "Rook",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p116",
+   "type": "narration",
+   "text": "He stood on the spit by the stake with all of it in his coat.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 177,
+   "para": "p117",
+   "type": "narration",
+   "text": "Across the water, from downriver, a bell began to ring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p118",
+   "type": "narration",
+   "text": "From Greyhold. He knew it. He’d heard it on the night of the Ewe Beck, walking Old Grey home up the river lane in the dark. Fast. On and on. The kind that gets men out of their beds and into their boots.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p119",
+   "type": "narration",
+   "text": "Then more. Two bells. Three. All of Greyhold’s bells at once, from every tower, ringing and ringing over the water, the sound coming upriver in the dark from more than three leagues off, faint and wild.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p120",
+   "type": "narration",
+   "text": "He stood on the spit and listened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p121",
+   "type": "bond",
+   "text": "The gate,",
+   "speaker": "Aurveth",
+   "listener": "Calder"
+  },
+  {
+   "seq": 182,
+   "para": "p121",
+   "type": "narration",
+   "text": "said Aurveth, from the fort. He felt her lift her head."
+  },
+  {
+   "seq": 183,
+   "para": "p121",
+   "type": "bond",
+   "text": "Something at the gate.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p122",
+   "type": "narration",
+   "text": "He thought of a woman standing on the east shore of the island in the dusk, pointing across the channel. Of a lion swimming. Of a green dragon going west with a bundle in her claw and a blue ribbon on her horn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p123",
+   "type": "thought",
+   "text": "I hope she got it,",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 186,
+   "para": "p123",
+   "type": "narration",
+   "text": "he thought."
+  },
+  {
+   "seq": 187,
+   "para": "p123",
+   "type": "thought",
+   "text": "I hope she understood.",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p124",
+   "type": "narration",
+   "text": "The bells rang.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p125",
+   "type": "narration",
+   "text": "And then, all at once, they stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p126",
+   "type": "narration",
+   "text": "All of them, in the middle of a stroke. As if a hand had come down on every rope at once. One moment the night full of bells, and then nothing. The river. The fire on the hill. His own breath.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 191,
+   "para": "p127",
+   "type": "narration",
+   "text": "He stood there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p128",
+   "type": "bond",
+   "text": "Why?",
+   "speaker": "Calder",
+   "listener": "Aurveth"
+  },
+  {
+   "seq": 193,
+   "para": "p128",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 194,
+   "para": "p128",
+   "type": "bond",
+   "text": "Why have they stopped?",
+   "speaker": "Calder",
+   "listener": "Aurveth",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p129",
+   "type": "narration",
+   "text": "Aurveth was slow to answer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p130",
+   "type": "bond",
+   "text": "Because there’s nobody left at the ropes,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "dread"
+  },
+  {
+   "seq": 197,
+   "para": "p130",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "dread",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 198,
+   "para": "p131",
+   "type": "narration",
+   "text": "He went back up to the fort.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p132",
+   "type": "narration",
+   "text": "Up the slope, through the oaks, with Kharrak pacing behind him. The fighting was nearly over. The few hundred who’d stood round Corvin’s fire were most of them gone, over the walls and into the river, or lying in the fort. Aurveth was standing in the eastern gate with the dead wyvern at her feet and her one gold eye on the tower.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p133",
+   "type": "narration",
+   "text": "The arch was empty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p134",
+   "type": "narration",
+   "text": "The guards on the tower door were gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p135",
+   "type": "narration",
+   "text": "Calder went in through the arch, over the lion’s long smooth hollow in the threshold, into the round room at the foot of the tower.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p136",
+   "type": "narration",
+   "text": "The stair was dug out. All of it. The fallen stone was gone, carried out in baskets over three days, and the steps went down clean into the dark: stone steps, worn hollow in the middle like an old byre step, going down and down further than the light from the fire outside could reach.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 204,
+   "para": "p137",
+   "type": "narration",
+   "text": "The slab at the bottom of the first flight was there. The iron plate in it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p138",
+   "type": "narration",
+   "text": "But the stair didn’t stop at the slab. It went on past it. Down. Round. Into the earth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p139",
+   "type": "narration",
+   "text": "And far, far down, so far it was only a point, there was light. A lantern. Going down.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 207,
+   "para": "p140",
+   "type": "narration",
+   "text": "He stood at the top of the stair and looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p141",
+   "type": "bond",
+   "text": "He’s gone down,",
+   "speaker": "Aurveth",
+   "listener": "Calder"
+  },
+  {
+   "seq": 209,
+   "para": "p141",
+   "type": "narration",
+   "text": "said Aurveth behind him, in the arch."
+  },
+  {
+   "seq": 210,
+   "para": "p141",
+   "type": "bond",
+   "text": "The still one. While we burned the oaks. While you were on the spit. He’s gone down to wherever the stair goes.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p142",
+   "type": "narration",
+   "text": "Calder looked at the lantern far below, going down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p143",
+   "type": "speech",
+   "text": "“What hour is it?”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 213,
+   "para": "p143",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p144",
+   "type": "narration",
+   "text": "Aurveth looked up at the stars over the broken top of the tower.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p145",
+   "type": "bond",
+   "text": "The fourth hour of the night,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "tension"
+  },
+  {
+   "seq": 216,
+   "para": "p145",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "tension"
+  },
+  {
+   "seq": 217,
+   "para": "p145",
+   "type": "bond",
+   "text": "Two to midnight.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "tension",
+   "pause_after_ms": 800
+  }
+ ]
+}

@@ -1,0 +1,2523 @@
+{
+ "chapter": 38,
+ "title": "The Long Road North",
+ "pov": "Calder",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Thirty-eight.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Long Road North.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "They went north up the old drove road, on the east bank of the Wend, by day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "He’d thought about going by night. He’d thought about it on the ford by the Wendwood, after the carter told him about the paper on the Tidesteps. A man with a price on his head, walking. You went by night. Everyone knew that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "But Aurveth said no.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "bond",
+   "text": "By night,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "quiet"
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "narration",
+   "text": "she said,",
+   "mood": "quiet"
+  },
+  {
+   "seq": 8,
+   "para": "p4",
+   "type": "bond",
+   "text": "you are a man hiding. Anyone who sees you on the road after dark will wonder why you are on it, and remember you, and talk. By day you are a man with a dray-mare on a drove road. There are a hundred of you. Two hundred. Every road in the south is full of men with beasts going north to the Marches or south to the coast, burned out or bought out or running from something. Nobody looks at one more.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "quiet"
+  },
+  {
+   "seq": 9,
+   "para": "p4",
+   "type": "narration",
+   "text": "She was quiet a moment.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 10,
+   "para": "p4",
+   "type": "bond",
+   "text": "You told me so yourself. Nobody looks at you.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p5",
+   "type": "narration",
+   "text": "So they went by day. Calder and Mabbin, on the drove road, at a dray-beast’s walk. Mabbin with her head down and her long sad face swinging and her great grey feet coming down slow and steady on the packed earth, and Calder beside her with his hand on her halter and his hat pulled down, limping. Nine leagues a day. Ten, on the good days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p6",
+   "type": "remembered",
+   "text": "Seven days and a bad knee,",
+   "speaker": "Calder's father",
+   "mood": "humour"
+  },
+  {
+   "seq": 13,
+   "para": "p6",
+   "type": "narration",
+   "text": "his father used to say, whenever anybody asked him how far anywhere was. How far to Cotter’s Cross? Seven days and a bad knee. How far to the moon? Seven days and a bad knee. It meant: further than you think, and it’ll hurt, and you’ll get there. It was thirteen days, in the end, from Wendmouth. And it was his left knee, the one with the gash, and it never stopped.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p7",
+   "type": "narration",
+   "text": "And the three of them in the forest.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p8",
+   "type": "narration",
+   "text": "The Wendwood went with the road for the first eight days. It lay along the east bank of the Wend from the coast almost to Cotter’s Cross, a great old wood of oak and beech and holly so thick and so tall that the drove road went along the edge of it like a path along the edge of a cliff. On one side, the open valley of the river, with farms and villages and the road. On the other, the trees. A wall of them. Green and black and silent. You could have hidden a city in the Wendwood. Three dragons lay up in it by day, a league or two off the road, moving north with him, and at night they came out and ranged and hunted and came back, and he’d find a deer or a hare left for him at the edge of the trees in the morning, like a dog leaving you a rabbit on the doorstep.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p9",
+   "type": "narration",
+   "text": "He felt them all the time. Close enough, now, to talk. A league or two.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p10",
+   "type": "narration",
+   "text": "Two of them talked.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 18,
+   "para": "p11",
+   "type": "narration",
+   "text": "Kharrak didn’t say a word to him for four days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p12",
+   "type": "narration",
+   "text": "Calder felt him. All the time. Through the rust-red mark, close, prowling in the forest a league off, hot and dark and furious. But he didn’t speak. When Calder spoke to him he didn’t answer. When Lisska spoke to him he didn’t answer her either. He just lay up in the trees all day and went out hunting all night and came back with his kill and dropped it at the edge of the wood and went away again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p13",
+   "type": "bond",
+   "text": "He’s angry,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "quiet"
+  },
+  {
+   "seq": 21,
+   "para": "p13",
+   "type": "narration",
+   "text": "said Lisska, on the first night. Small.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 22,
+   "para": "p13",
+   "type": "bond",
+   "text": "With you. For going alone. Into the city. Into the house that buys things. And with me. For going after you.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "quiet"
+  },
+  {
+   "seq": 23,
+   "para": "p13",
+   "type": "narration",
+   "text": "A pause.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 24,
+   "para": "p13",
+   "type": "bond",
+   "text": "Mostly with you.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p14",
+   "type": "speech",
+   "text": "“I know.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p15",
+   "type": "bond",
+   "text": "He says you could have died. He says the men on the quay could have killed you and then we’d all have died, all three of us, because of you, because one life between two, and he’d have died in a forest on the coast for nothing, because you were stupid. He says it over and over. He says it to me. He won’t say it to you.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 27,
+   "para": "p16",
+   "type": "speech",
+   "text": "“Why not?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p17",
+   "type": "bond",
+   "text": "Because he’s frightened,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tender"
+  },
+  {
+   "seq": 29,
+   "para": "p17",
+   "type": "narration",
+   "text": "said Lisska.",
+   "mood": "tender"
+  },
+  {
+   "seq": 30,
+   "para": "p17",
+   "type": "bond",
+   "text": "He’s never been frightened before. Not like that. Not of losing someone. He’d only ever had Dag. And Dag was never stupid enough to go anywhere without him.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p18",
+   "type": "narration",
+   "text": "Calder walked beside Mabbin in the dark.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 32,
+   "para": "p19",
+   "type": "narration",
+   "text": "Aurveth talked. Aurveth, on that road, talked more than she had in all the weeks at Crow Scar together.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p20",
+   "type": "narration",
+   "text": "It was the milestones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p21",
+   "type": "narration",
+   "text": "He’d have walked past the first one. He’d never have seen it. It was on the third day, deep in the Wendwood stretch, where the drove road went in under the edge of the trees for half a league to cut off a bend in the river. A stone. In the bracken by the side of the road, leaning, half-buried, with moss on its top and ivy round its foot. He’d taken it for a boundary stone, or a fallen gatepost.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p22",
+   "type": "narration",
+   "text": "Aurveth stopped him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p23",
+   "type": "narration",
+   "text": "He felt her do it. A jolt through the bronze mark, like a hand closing on his arm. A league off in the forest, lying up in the dark under the oaks, she’d lifted her head.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 37,
+   "para": "p24",
+   "type": "bond",
+   "text": "Stop,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "urgent"
+  },
+  {
+   "seq": 38,
+   "para": "p24",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 39,
+   "para": "p24",
+   "type": "bond",
+   "text": "Here. I know this place. There is something by the road. Look.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p25",
+   "type": "narration",
+   "text": "He looked, and found it on his left: a stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p26",
+   "type": "narration",
+   "text": "Mabbin stopped beside him, and dropped her head, and began to crop the bracken.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p27",
+   "type": "bond",
+   "text": "Go to it. Please. Clear the moss.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p28",
+   "type": "narration",
+   "text": "He went. He knelt in the bracken by the road, with his bad knee screaming, and pulled the ivy away from the foot of the stone and scraped the moss off the face of it with his hands. Under the moss, the stone was grey and smooth and very old. And there were letters on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p29",
+   "type": "narration",
+   "text": "He couldn’t read them. He couldn’t read the ordinary letters very well; his father had taught him enough to sign his name and count sacks. These weren’t ordinary letters. They were square and spare, with odd little hooks at the ends of the strokes, cut deep. And under them, a mark that might have been a number.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p30",
+   "type": "bond",
+   "text": "Put your hand on it,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "very quietly",
+   "mood": "quiet"
+  },
+  {
+   "seq": 46,
+   "para": "p30",
+   "type": "narration",
+   "text": "said Aurveth. Very quietly.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 47,
+   "para": "p30",
+   "type": "bond",
+   "text": "Flat. On the letters. Please.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "very quietly",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p31",
+   "type": "narration",
+   "text": "He put his hand on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p32",
+   "type": "narration",
+   "text": "And she came through the bronze mark into him, all at once, the way she had over the island in the moonlight, and he wasn’t kneeling in the bracken any more.",
+   "mood": "awe",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 50,
+   "para": "p33",
+   "type": "narration",
+   "text": "He was walking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p34",
+   "type": "narration",
+   "text": "On a road. A great road, paved, white, wide enough for four carts abreast, going straight as a spear through a forest of oak and beech so tall the light came down through it green and gold. In summer. With the sun on the white stones and the smell of leaves and warm dust. He was walking on it, but he wasn’t. He was a long way up. He was looking down. He was a dragon, a young one, younger than Lisska, bronze and shining, walking on the white road with the forest on either side.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 52,
+   "para": "p35",
+   "type": "narration",
+   "text": "Someone was walking beside her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p36",
+   "type": "narration",
+   "text": "He couldn’t see them. They were a gap. A place in the green and gold light where someone should have been and wasn’t. But he could feel them. At her shoulder. Walking. Close. And he could feel her feel them: warm, steady, loved, as you feel a fire at your back on a cold night.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p37",
+   "type": "narration",
+   "text": "There was a stone by the road. This stone. New, sharp-edged, white, with the letters cut fresh and clean. And as they came level with it, the gap at her shoulder stopped. And reached out. And laid a hand on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p38",
+   "type": "narration",
+   "text": "He felt it. Through her. A hand, flat on the white stone, warm from the sun. Just for a moment. The way you’d touch a gatepost of your own house, coming home.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p39",
+   "type": "remembered",
+   "text": "Nineteen,",
+   "speaker": "Aurveth's first rider",
+   "how": "low, easy, pleased",
+   "mood": "tender"
+  },
+  {
+   "seq": 57,
+   "para": "p39",
+   "type": "narration",
+   "text": "said a voice.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p40",
+   "type": "narration",
+   "text": "Not Aurveth’s. Not anyone’s he’d ever heard. A voice from the gap. Low and easy and pleased.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p41",
+   "type": "remembered",
+   "text": "Nineteen to the bridge.",
+   "speaker": "Aurveth's first rider",
+   "how": "low, easy, pleased",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p42",
+   "type": "narration",
+   "text": "And the hand lifted from the stone, and they walked on, and the white road went away under the green and gold, and the forest closed over, and he was kneeling in the bracken in the rain with his hand flat on a grey stone covered in moss, and Mabbin was cropping the bracken beside him, and he was crying.",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 61,
+   "para": "p43",
+   "type": "bond",
+   "text": "I could feel his hand,",
+   "speaker": "Aurveth",
+   "listener": "Calder"
+  },
+  {
+   "seq": 62,
+   "para": "p43",
+   "type": "narration",
+   "text": "said Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p44",
+   "type": "narration",
+   "text": "It was evening. He’d made camp at the edge of the trees, off the road, a fire in a hollow. She’d come down through the forest to him in the dusk, the whole league, slowly, carefully, so that nobody on the road would see, and lay now in the dark under the oaks behind him with her great head beside his fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p45",
+   "type": "bond",
+   "text": "His hand. On the stone. I could feel it as if it were my own. Warm. I could feel how he always did it. Every milestone, the whole length of the road, from the north to the south. He’d put his hand on it as we passed. Every one. As if he were greeting it.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Nineteen to the bridge.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p47",
+   "type": "bond",
+   "text": "Yes. The Oneroad milestones counted to the bridge. From both ends. The bridge was the middle. The middle of everything. Of the road, of the realm. Of the world, people said.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "reflective"
+  },
+  {
+   "seq": 67,
+   "para": "p47",
+   "type": "narration",
+   "text": "She was quiet.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 68,
+   "para": "p47",
+   "type": "bond",
+   "text": "I’d forgotten that. I’d forgotten the milestones counted. I’d forgotten the bridge was the middle.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p48",
+   "type": "speech",
+   "text": "“The bridge at the island.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p49",
+   "type": "bond",
+   "text": "Yes.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p50",
+   "type": "speech",
+   "text": "“What happened to it?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p51",
+   "type": "narration",
+   "text": "She didn’t answer at once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p52",
+   "type": "bond",
+   "text": "I don’t know,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "grief"
+  },
+  {
+   "seq": 74,
+   "para": "p52",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "grief"
+  },
+  {
+   "seq": 75,
+   "para": "p52",
+   "type": "bond",
+   "text": "I don’t know when it broke. I don’t know how. I remember it whole. I remember walking over it, with him, in the sun, past the cat on the steps. And then I remember the hold, and the caves, and Ragnald, and the bees. And in between there’s nothing. A gap. As big as the gap where his face should be.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "grief"
+  },
+  {
+   "seq": 76,
+   "para": "p52",
+   "type": "narration",
+   "text": "She breathed out, long, over the fire.",
+   "mood": "grief"
+  },
+  {
+   "seq": 77,
+   "para": "p52",
+   "type": "bond",
+   "text": "Something happened in that gap. To the bridge, and to him, and to me. And somebody, or something, took it out of me.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 78,
+   "para": "p53",
+   "type": "narration",
+   "text": "He put another stick on the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p54",
+   "type": "bond",
+   "text": "I couldn’t see his face,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "grief"
+  },
+  {
+   "seq": 80,
+   "para": "p54",
+   "type": "narration",
+   "text": "said Aurveth, at last.",
+   "mood": "grief"
+  },
+  {
+   "seq": 81,
+   "para": "p54",
+   "type": "bond",
+   "text": "Not even this time. Not even with his hand on the stone. But I heard his voice.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "grief"
+  },
+  {
+   "seq": 82,
+   "para": "p54",
+   "type": "narration",
+   "text": "She lowered her head until it lay on the ground beside the fire, beside him.",
+   "mood": "grief"
+  },
+  {
+   "seq": 83,
+   "para": "p54",
+   "type": "bond",
+   "text": "I’d forgotten his voice too. I’d forgotten I’d forgotten it.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 84,
+   "para": "p55",
+   "type": "narration",
+   "text": "They passed the first camp on the fourth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p56",
+   "type": "narration",
+   "text": "He smelled it before he saw it. Smoke, and soup, and too many people. The road came out of the Wendwood into a long open valley by the river, and there it was, laid out across the valley floor below the road like a fair: tents, rows of them, grey canvas, and cookfires, and people. Hundreds. Families, with bundles and handcarts. Refugees. The same faces he’d seen in the Low Lantern and on the coast road and on the Tidesteps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p57",
+   "type": "narration",
+   "text": "People in grey coats, going among them. Plain grey, not knights’ grey. Handing out bowls. Blankets. Carrying children. Talking, kindly, crouching down to talk to the old ones on their stools. By the camp gate a woman sat on a stool of her own with a tray of charms on her knees, stamped knots and twists of paper, warranted against fever and frost and the dark, and a man with three children was counting coppers into her hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p58",
+   "type": "bond",
+   "text": "Soup,",
+   "speaker": "Lisska",
+   "listener": "Calder"
+  },
+  {
+   "seq": 88,
+   "para": "p58",
+   "type": "narration",
+   "text": "said Lisska, from the forest behind him."
+  },
+  {
+   "seq": 89,
+   "para": "p58",
+   "type": "bond",
+   "text": "And blankets. They’re helping. Aren’t they? That’s good. Isn’t it?",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p59",
+   "type": "speech",
+   "text": "“Yes,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 91,
+   "para": "p59",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p60",
+   "type": "narration",
+   "text": "He stopped at the edge of the road above the camp, with Mabbin, to look. And because he’d stopped, because he was looking, he saw past the soup tents to the back of the camp.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p61",
+   "type": "narration",
+   "text": "There was a field there. Fenced. Away from the tents, behind a line of willows, where you wouldn’t see it unless you stopped at the top of the road. And in the field, young men. Forty, fifty of them. In lines. Drilling. With spears. Marching up and down the field in step, while a man in grey walked beside them calling the time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p62",
+   "type": "narration",
+   "text": "He knew what they were before he saw the rings. He saw the rings anyway. Little dark iron rings, on cords round their necks, swinging as they marched.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 95,
+   "para": "p63",
+   "type": "narration",
+   "text": "And beside each of them, on a short chain, a beast.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p64",
+   "type": "narration",
+   "text": "Hounds, mostly. Big rough ones, brindled and grey and black. Some smaller things, martens and foxes, on the shoulders of the men at the end of the lines. And at the front, at the very head of the drill, two great white shapes, tall, nine feet at the shoulder, with antlers. Greyharts. Each with a young man on its back, with a ring on his neck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p65",
+   "type": "narration",
+   "text": "Every beast in the field had a collar. Iron. Heavy. He was too far off to see the mark. He didn’t need to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p66",
+   "type": "narration",
+   "text": "And every beast in the field had the same eyes.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 99,
+   "para": "p67",
+   "type": "narration",
+   "text": "He stood at the top of the road above the camp and looked at them. The hounds trotting in step beside their men, not looking at anything. The greyharts at the front of the line with their great heads up and their antlers spread, carrying their riders up and down, up and down, the length of the field, in perfect time. Every one of them doing exactly what it was told. And nothing in their eyes at all. Nothing he knew. Windows looking at the dark.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 100,
+   "para": "p68",
+   "type": "narration",
+   "text": "He thought of the little stone room behind the red-and-gold building on Gallows Quay. The smoke. The young man kneeling with his hand on the hound’s head, crying. The man in grey."
+  },
+  {
+   "seq": 101,
+   "para": "p68",
+   "type": "remembered",
+   "text": "There. You see? You’re chosen now.",
+   "speaker": "the man in grey",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p69",
+   "type": "narration",
+   "text": "Fifty of them. In one field. In one camp. On one road.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p70",
+   "type": "bond",
+   "text": "What are they?",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "dread"
+  },
+  {
+   "seq": 104,
+   "para": "p70",
+   "type": "narration",
+   "text": "said Lisska. She’d felt it come into him, cold and sick.",
+   "mood": "dread"
+  },
+  {
+   "seq": 105,
+   "para": "p70",
+   "type": "bond",
+   "text": "Those beasts. What’s wrong with them? They’re all… they’re not… What’s wrong with them?",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 106,
+   "para": "p71",
+   "type": "narration",
+   "text": "He didn’t answer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p72",
+   "type": "narration",
+   "text": "He took Mabbin’s halter and walked on, past the camp, up the road, north, and didn’t look back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 108,
+   "para": "p73",
+   "type": "narration",
+   "text": "There were two more camps on the road. One on the fifth day, still in the Wendwood, and one on the tenth, in sight of the hills above Cotter’s Cross. They were the same. Soup and blankets at the front. Fields at the back. Young men with rings, and beasts with collars, drilling. In the fields one man in grey would call the time, and fifty beasts would move to it, every one, as if they had all been put on the same lead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p74",
+   "type": "narration",
+   "text": "He stopped at each one and looked. And walked on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p75",
+   "type": "narration",
+   "text": "At the second camp, on the fifth day, there was a hound at the end of the line nearest the road. A big brindled thing, on a short chain, beside a boy of sixteen with a ring on his neck. It was trotting in step with the boy, eyes on nothing, as they all did. And as Calder stood at the top of the road looking down, a shadow went over the field.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p76",
+   "type": "narration",
+   "text": "High. Very high. Moving fast. He looked up. He couldn’t see anything. Cloud. But he felt it, through the rust-red mark. Kharrak. Going over, on his way back from hunting, high above the valley, where no one on the ground would see him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p77",
+   "type": "narration",
+   "text": "The hound at the end of the line stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p78",
+   "type": "narration",
+   "text": "It stopped dead in the middle of the drill, so that the boy beside it was pulled up short by the chain and nearly fell. And it lifted its head. Slowly. Up. Toward the sky. Toward the cloud. Toward the place where the shadow had gone over.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p79",
+   "type": "narration",
+   "text": "And something came into its eyes. Just for a moment. Something that wasn’t borrowed. Something of its own. Like a face at a window in a house you’d thought was empty.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 115,
+   "para": "p80",
+   "type": "narration",
+   "text": "Then the man in grey shouted, and the boy yanked the chain, and the hound’s head came down, and its eyes went empty again, and it trotted on.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 116,
+   "para": "p81",
+   "type": "bond",
+   "text": "Those,",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "how": "faint and hard"
+  },
+  {
+   "seq": 117,
+   "para": "p81",
+   "type": "narration",
+   "text": "said Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p82",
+   "type": "narration",
+   "text": "It was the first thing he’d said to Calder in four days. He was very high up, very far off, his voice faint and hard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p83",
+   "type": "bond",
+   "text": "Those. In the field. With the iron on their necks. I saw them. I see what they are.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "how": "faint and hard",
+   "mood": "anger"
+  },
+  {
+   "seq": 120,
+   "para": "p83",
+   "type": "narration",
+   "text": "A long silence.",
+   "mood": "anger"
+  },
+  {
+   "seq": 121,
+   "para": "p83",
+   "type": "bond",
+   "text": "Those are what they want us to be.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "how": "faint and hard",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p84",
+   "type": "narration",
+   "text": "Calder stood at the top of the road with Mabbin’s rope in his hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Yes,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 124,
+   "para": "p85",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p86",
+   "type": "bond",
+   "text": "All of us. That’s what the soft man wants. The coin man. The man on the steps. Not us. That.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "how": "cold",
+   "mood": "anger"
+  },
+  {
+   "seq": 126,
+   "para": "p86",
+   "type": "narration",
+   "text": "The rust-red voice was cold. Colder than Calder had ever heard it.",
+   "mood": "anger"
+  },
+  {
+   "seq": 127,
+   "para": "p86",
+   "type": "bond",
+   "text": "Empty. On a chain. In a field. Doing what we’re told.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "how": "cold",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p87",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p88",
+   "type": "narration",
+   "text": "Another silence. Long.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p89",
+   "type": "bond",
+   "text": "I’m still angry with you,",
+   "speaker": "Kharrak",
+   "listener": "Calder"
+  },
+  {
+   "seq": 131,
+   "para": "p89",
+   "type": "narration",
+   "text": "said Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p90",
+   "type": "speech",
+   "text": "“I know.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p91",
+   "type": "bond",
+   "text": "You went alone. Into that. Where they make those.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p92",
+   "type": "speech",
+   "text": "“I know. I’m sorry.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p93",
+   "type": "bond",
+   "text": "Don’t do it again.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p94",
+   "type": "speech",
+   "text": "“I’ll try not to.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p95",
+   "type": "bond",
+   "text": "Don’t try. Don’t.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "mood": "tender"
+  },
+  {
+   "seq": 138,
+   "para": "p95",
+   "type": "narration",
+   "text": "A pause.",
+   "mood": "tender"
+  },
+  {
+   "seq": 139,
+   "para": "p95",
+   "type": "bond",
+   "text": "Or take me.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p96",
+   "type": "narration",
+   "text": "He felt Kharrak turn, high above the valley, and go back north toward the forest. And through the rust-red mark, under the cold, under the anger, something else. Something he’d felt once before, on the ledge at Crow Scar, when Kharrak came up out of the fall with his torn wing open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p97",
+   "type": "narration",
+   "text": "The other side of joy, this time. The thing joy is afraid of losing.",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 142,
+   "para": "p98",
+   "type": "narration",
+   "text": "The carter was at a ford below Cotter’s Cross, on the eleventh day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p99",
+   "type": "narration",
+   "text": "Calder had stopped there to water Mabbin. It was a broad shallow ford where the drove road crossed a stream coming down off the hills into the Wend, with a few willows and a flat stone to sit on, and there was a cart already there, with a big slow horse in the shafts drinking, and a big slow man on the flat stone eating bread and cheese out of a cloth. He nodded to Calder. Calder nodded back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p100",
+   "type": "narration",
+   "text": "They sat there for a while. The horse drank. Mabbin drank. The carter ate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p101",
+   "type": "speech",
+   "text": "“Bound for the Marches?”",
+   "speaker": "the carter"
+  },
+  {
+   "seq": 146,
+   "para": "p101",
+   "type": "narration",
+   "text": "the carter said at last.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p102",
+   "type": "speech",
+   "text": "“Harrow’s End.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p103",
+   "type": "speech",
+   "text": "“Ah.”",
+   "speaker": "the carter"
+  },
+  {
+   "seq": 149,
+   "para": "p103",
+   "type": "narration",
+   "text": "The carter shook his head."
+  },
+  {
+   "seq": 150,
+   "para": "p103",
+   "type": "speech",
+   "text": "“Bad up there. Both banks. You’ll have heard about Ferriby.”",
+   "speaker": "the carter",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p104",
+   "type": "speech",
+   "text": "“No.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p105",
+   "type": "speech",
+   "text": "“Hearthmere side. Little place, a league in from the river, up past Greyhold, by Redwatch.”",
+   "speaker": "the carter"
+  },
+  {
+   "seq": 153,
+   "para": "p105",
+   "type": "narration",
+   "text": "The carter tore off some bread."
+  },
+  {
+   "seq": 154,
+   "para": "p105",
+   "type": "speech",
+   "text": "“Raided. A fortnight back, near enough. Masked men up the creek in barges at dusk, a crowd of them. Took every beast in the place. Old fellow’s ox-beast, the smith’s hound, and a pair of the crown’s own greyharts out of the paddock. Didn’t touch a soul. Didn’t burn a house. Just the beasts. Down the creek and onto the Wend and gone, in the dark, and not a river-watch boat on the water to stop them.”",
+   "speaker": "the carter"
+  },
+  {
+   "seq": 155,
+   "para": "p105",
+   "type": "narration",
+   "text": "He chewed."
+  },
+  {
+   "seq": 156,
+   "para": "p105",
+   "type": "speech",
+   "text": "“Knights were there and all. A patrol. Seven of them. Couldn’t do a thing.”",
+   "speaker": "the carter",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p106",
+   "type": "narration",
+   "text": "Calder thought of two great white shapes at the head of a drill, in a field behind a willow screen, with empty eyes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p107",
+   "type": "speech",
+   "text": "“Who did it?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p108",
+   "type": "speech",
+   "text": "“Well.”",
+   "speaker": "the carter"
+  },
+  {
+   "seq": 160,
+   "para": "p108",
+   "type": "narration",
+   "text": "The carter looked round, though there was nobody there but Calder and the beasts."
+  },
+  {
+   "seq": 161,
+   "para": "p108",
+   "type": "speech",
+   "text": "“They say it was him. Vale. Himself. Standing up on the smithy roof with a boy and a whistle, directing the whole thing. Never raised his voice. Like a man playing a game.”",
+   "speaker": "the carter"
+  },
+  {
+   "seq": 162,
+   "para": "p108",
+   "type": "narration",
+   "text": "He shook his head."
+  },
+  {
+   "seq": 163,
+   "para": "p108",
+   "type": "speech",
+   "text": "“One of the patrol saw him. A girl, a student. Says she knew him. Says he spoke to her.”",
+   "speaker": "the carter",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p109",
+   "type": "speech",
+   "text": "“When?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p110",
+   "type": "speech",
+   "text": "“When what?”",
+   "speaker": "the carter",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p111",
+   "type": "speech",
+   "text": "“When was it. Ferriby. Which day.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p112",
+   "type": "narration",
+   "text": "The carter thought.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p113",
+   "type": "speech",
+   "text": "“Twelve days back. I know because it was the day after the market at Cotter’s Cross, and my brother was coming home from it up the river lane and saw the glow across the water.”",
+   "speaker": "the carter"
+  },
+  {
+   "seq": 169,
+   "para": "p113",
+   "type": "narration",
+   "text": "He counted on his fingers to be sure."
+  },
+  {
+   "seq": 170,
+   "para": "p113",
+   "type": "speech",
+   "text": "“Twelve. At dusk.”",
+   "speaker": "the carter"
+  },
+  {
+   "seq": 171,
+   "para": "p113",
+   "type": "narration",
+   "text": "He looked at Calder."
+  },
+  {
+   "seq": 172,
+   "para": "p113",
+   "type": "speech",
+   "text": "“Why?”",
+   "speaker": "the carter",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p114",
+   "type": "narration",
+   "text": "Calder sat on the flat stone by the ford. He was counting too. Eleven days on the road, with today. The day on the quay before that. And before that, the Tidesteps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p115",
+   "type": "remembered",
+   "text": "Twelve days back.",
+   "speaker": "the carter",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p116",
+   "type": "narration",
+   "text": "He’d been on the Tidesteps. At noon. He’d sat on the cold stone in the middle of three thousand people with his collar up and his hat down and watched Vale walk out to the iron rail and smile and say"
+  },
+  {
+   "seq": 176,
+   "para": "p116",
+   "type": "remembered",
+   "text": "well, that’s a lot of you.",
+   "speaker": "Vale"
+  },
+  {
+   "seq": 177,
+   "para": "p116",
+   "type": "narration",
+   "text": "He’d heard him talk for an hour. He’d watched him walk off the platform. At one, perhaps. A little after.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p117",
+   "type": "narration",
+   "text": "And at dusk on the same day, Vale had been standing on a smithy roof at Ferriby, a league in from the river, up past Greyhold, directing a raid.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p118",
+   "type": "narration",
+   "text": "A hundred leagues.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 180,
+   "para": "p119",
+   "type": "speech",
+   "text": "“That can’t be right,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 181,
+   "para": "p119",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p120",
+   "type": "speech",
+   "text": "“It’s what they say.”",
+   "speaker": "the carter",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p121",
+   "type": "speech",
+   "text": "“I was in Wendmouth that day. On the Tidesteps. At noon. I heard him speak.”",
+   "speaker": "Calder",
+   "mood": "tension"
+  },
+  {
+   "seq": 184,
+   "para": "p121",
+   "type": "narration",
+   "text": "He heard his voice, and it sounded wrong.",
+   "mood": "tension"
+  },
+  {
+   "seq": 185,
+   "para": "p121",
+   "type": "speech",
+   "text": "“I saw him. With my own eyes. A hundred leagues south.”",
+   "speaker": "Calder",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 186,
+   "para": "p122",
+   "type": "narration",
+   "text": "The carter looked at him for a while. Then he shrugged.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p123",
+   "type": "speech",
+   "text": "“Then he’s got wings,”",
+   "speaker": "the carter",
+   "mood": "humour"
+  },
+  {
+   "seq": 188,
+   "para": "p123",
+   "type": "narration",
+   "text": "he said, and folded his cloth, and got up, and went to his horse.",
+   "mood": "humour",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 189,
+   "para": "p124",
+   "type": "narration",
+   "text": "Calder walked the last two days with that going round and round in his head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p125",
+   "type": "remembered",
+   "text": "Then he’s got wings.",
+   "speaker": "the carter",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p126",
+   "type": "narration",
+   "text": "He tried to make it add up. He couldn’t. He went over it and over it, walking beside Mabbin up the drove road toward the hills, with his knee screaming. Noon at Wendmouth. Dusk at Ferriby. A hundred leagues. A horse couldn’t do it. Not in a day. Not in two. Not if you killed the horse.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p127",
+   "type": "thought",
+   "text": "Aurveth could,",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 193,
+   "para": "p127",
+   "type": "narration",
+   "text": "he thought.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p128",
+   "type": "narration",
+   "text": "He hadn’t wanted to think it. He thought it. Aurveth could fly a hundred leagues in an afternoon, if she had to, if she flew straight and high and didn’t care who saw. Any dragon could. A wyvern, maybe. Something with wings.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p129",
+   "type": "remembered",
+   "text": "Then he’s got wings.",
+   "speaker": "the carter",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p130",
+   "type": "narration",
+   "text": "But a dragon over Wendmouth at noon, going north. A dragon over the Marches at dusk, coming down at Ferriby. Somebody would have seen. Somebody always saw. Lisska had come down over Gallows Quay for the time it took to blow out the lanterns and half the city had seen her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p131",
+   "type": "narration",
+   "text": "Nobody had seen anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p132",
+   "type": "thought",
+   "text": "Unless he can be in two places at once,",
+   "speaker": "Calder",
+   "mood": "humour"
+  },
+  {
+   "seq": 199,
+   "para": "p132",
+   "type": "narration",
+   "text": "he thought. And then, because it was stupid, he laughed, out loud, on the drove road, and Mabbin flicked an ear at him.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p133",
+   "type": "bond",
+   "text": "What?",
+   "speaker": "Lisska",
+   "listener": "Calder"
+  },
+  {
+   "seq": 201,
+   "para": "p133",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 202,
+   "para": "p133",
+   "type": "bond",
+   "text": "What’s funny?",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p134",
+   "type": "speech",
+   "text": "“Nothing,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 204,
+   "para": "p134",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 205,
+   "para": "p134",
+   "type": "speech",
+   "text": "“Nothing’s funny, little one.”",
+   "speaker": "Calder",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 206,
+   "para": "p135",
+   "type": "narration",
+   "text": "Harrow’s End was half empty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p136",
+   "type": "narration",
+   "text": "He came down into it from the hill road at dusk on the thirteenth day, with Mabbin’s rope in his hand, and stood at the top of the lane and looked at it, and didn’t know it. The whole bottom of the village, by the mill and the beck, was black. The mill. The Wheel. Hob’s house. The cottages by the beck. The Garrows’ farm. Black, and roofless, and cold, with the rain on them and nobody there. No smoke from the chimneys. No lights. No one.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 208,
+   "para": "p137",
+   "type": "narration",
+   "text": "Further up, on the upper lane, some houses still had smoke. He counted them. Nine. There’d been thirty-one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p138",
+   "type": "narration",
+   "text": "And at the top of the hill, his own farm. Dark. Shuttered. No smoke. No light in the window.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 210,
+   "para": "p139",
+   "type": "narration",
+   "text": "He stood in the lane and looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p140",
+   "type": "speech",
+   "text": "“Calder?”",
+   "speaker": "Wat Garrow",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p141",
+   "type": "narration",
+   "text": "Wat Garrow. Coming up the lane from the black ruin of his farm with a bundle of laths on his shoulder and a hammer in his belt, in the rain. He stopped when he saw who it was. Then he put the laths down and came on, quickly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p142",
+   "type": "speech",
+   "text": "“Gods,”",
+   "speaker": "Wat Garrow",
+   "mood": "urgent"
+  },
+  {
+   "seq": 214,
+   "para": "p142",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 215,
+   "para": "p142",
+   "type": "speech",
+   "text": "“Gods. You’re back. They said you’d gone south. They said…”",
+   "speaker": "Wat Garrow",
+   "mood": "urgent"
+  },
+  {
+   "seq": 216,
+   "para": "p142",
+   "type": "narration",
+   "text": "He looked at Mabbin, and his mouth fell open.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 217,
+   "para": "p142",
+   "type": "speech",
+   "text": "“Is that Joss’s? Is that one of Joss’s greys?”",
+   "speaker": "Wat Garrow",
+   "mood": "urgent"
+  },
+  {
+   "seq": 218,
+   "para": "p142",
+   "type": "narration",
+   "text": "He looked round, at the empty lane, at the dark.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 219,
+   "para": "p142",
+   "type": "speech",
+   "text": "“Come in out of the road. Come in. You can’t stand in the road. Not now.”",
+   "speaker": "Wat Garrow",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p143",
+   "type": "speech",
+   "text": "“Where’s my mother? Where’s Wren?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p144",
+   "type": "speech",
+   "text": "“Upper Rush. At Bel’s. They’re safe.”",
+   "speaker": "Wat Garrow"
+  },
+  {
+   "seq": 222,
+   "para": "p144",
+   "type": "narration",
+   "text": "Wat Garrow took his arm."
+  },
+  {
+   "seq": 223,
+   "para": "p144",
+   "type": "speech",
+   "text": "“They went five days ago. After the paper.”",
+   "speaker": "Wat Garrow",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p145",
+   "type": "speech",
+   "text": "“What paper?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 225,
+   "para": "p146",
+   "type": "speech",
+   "text": "“There’s a paper up at Cotter’s Cross. On the market cross. And one on the post of the shrine at the crossroads here, some fellow nailed it up in the night. Your face on it. Near enough. Two hundred silver.”",
+   "speaker": "Wat Garrow",
+   "mood": "tension"
+  },
+  {
+   "seq": 226,
+   "para": "p146",
+   "type": "narration",
+   "text": "He was pulling Calder off the lane, toward the shelter of what was left of his own byre wall, where there was a lantern and a fire.",
+   "mood": "tension"
+  },
+  {
+   "seq": 227,
+   "para": "p146",
+   "type": "speech",
+   "text": "“And a man came asking. The day after. A soft-spoken fellow in a good coat. Went to your mother’s door and asked very politely if she knew where you were. Said he only wanted to help.”",
+   "speaker": "Wat Garrow",
+   "mood": "tension"
+  },
+  {
+   "seq": 228,
+   "para": "p146",
+   "type": "narration",
+   "text": "Wat Garrow’s face was grim.",
+   "mood": "tension"
+  },
+  {
+   "seq": 229,
+   "para": "p146",
+   "type": "speech",
+   "text": "“She said she didn’t, and shut the door on him. And that night she took Wren up the river lane to your sister’s.”",
+   "speaker": "Wat Garrow",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 230,
+   "para": "p147",
+   "type": "narration",
+   "text": "Calder sat down on a stone by the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 231,
+   "para": "p148",
+   "type": "speech",
+   "text": "“Half the village has gone,”",
+   "speaker": "Wat Garrow"
+  },
+  {
+   "seq": 232,
+   "para": "p148",
+   "type": "narration",
+   "text": "said Wat Garrow."
+  },
+  {
+   "seq": 233,
+   "para": "p148",
+   "type": "speech",
+   "text": "“Over the river, some. To the knights. They say it’s safe over. Up into the hills, others. To cousins. Anywhere.”",
+   "speaker": "Wat Garrow"
+  },
+  {
+   "seq": 234,
+   "para": "p148",
+   "type": "narration",
+   "text": "He looked at the black ruins down the lane."
+  },
+  {
+   "seq": 235,
+   "para": "p148",
+   "type": "speech",
+   "text": "“Them that’s left are rebuilding. Me. The Ashby widow. My da. Fisk and his boys, at the Eelweir. A few.”",
+   "speaker": "Wat Garrow"
+  },
+  {
+   "seq": 236,
+   "para": "p148",
+   "type": "narration",
+   "text": "He was quiet a moment."
+  },
+  {
+   "seq": 237,
+   "para": "p148",
+   "type": "speech",
+   "text": "“Hob’s gone. Nobody knows where. The day after the fire. Just went.”",
+   "speaker": "Wat Garrow",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 238,
+   "para": "p149",
+   "type": "speech",
+   "text": "“You saved this village, Calder,”",
+   "speaker": "Wat Garrow",
+   "how": "low",
+   "mood": "tender"
+  },
+  {
+   "seq": 239,
+   "para": "p149",
+   "type": "narration",
+   "text": "said Wat Garrow. Low.",
+   "mood": "tender"
+  },
+  {
+   "seq": 240,
+   "para": "p149",
+   "type": "speech",
+   "text": "“My Davy’s alive because of you. I’ll not forget it. Nobody who saw it will.”",
+   "speaker": "Wat Garrow",
+   "how": "low",
+   "mood": "tender"
+  },
+  {
+   "seq": 241,
+   "para": "p149",
+   "type": "narration",
+   "text": "He looked at the fire.",
+   "mood": "tender"
+  },
+  {
+   "seq": 242,
+   "para": "p149",
+   "type": "speech",
+   "text": "“But there’s a price on your head now. And men coming asking. And everybody in the Marches knows your face. So you’ll not stop here. You can’t. Not with them.”",
+   "speaker": "Wat Garrow",
+   "mood": "tender"
+  },
+  {
+   "seq": 243,
+   "para": "p149",
+   "type": "narration",
+   "text": "He jerked his head up at the dark sky, where Calder could feel the three of them, high, circling, waiting.",
+   "mood": "tender"
+  },
+  {
+   "seq": 244,
+   "para": "p149",
+   "type": "speech",
+   "text": "“Not with the village what it is.”",
+   "speaker": "Wat Garrow",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 245,
+   "para": "p150",
+   "type": "speech",
+   "text": "“I know.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 246,
+   "para": "p151",
+   "type": "speech",
+   "text": "“Go to Bel’s. See your girl. Take Joss his mare.”",
+   "speaker": "Wat Garrow"
+  },
+  {
+   "seq": 247,
+   "para": "p151",
+   "type": "narration",
+   "text": "Wat Garrow stood up."
+  },
+  {
+   "seq": 248,
+   "para": "p151",
+   "type": "speech",
+   "text": "“And then go somewhere, Calder. Somewhere they’re not looking.”",
+   "speaker": "Wat Garrow",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 249,
+   "para": "p152",
+   "type": "narration",
+   "text": "He went back to his laths.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 250,
+   "para": "p153",
+   "type": "narration",
+   "text": "Upper Rush was two leagues upriver, by the river lane, the way he’d run it on the night of the raid in the summer. He walked it in the dark, in the rain, with Mabbin beside him. He didn’t need a lantern. Neither did she. She knew the way better than he did. Somewhere past the first league she lifted her head and began to walk faster, and he let her, and by the time they came over the last rise above the hollow he was half running to keep up with her, with his knee screaming and his hand wrapped in the rope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 251,
+   "para": "p154",
+   "type": "narration",
+   "text": "The hollow lay below them in the rain. Four farms above the water. The black ribs of the barns that had burned in the summer, which nobody had rebuilt. Joss’s house, with a light in the window. The top paddock, with the old herd-charm still knotted on the gatepost, horsehair and rowan gone black with weather. It hadn’t kept the raiders out in the summer. Nobody had taken it down. And at the paddock gate, a shape. Pale in the dark. The colour of wet sand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 252,
+   "para": "p155",
+   "type": "narration",
+   "text": "There were two men under the eaves of Joss’s byre, sheltering. Pedlars, by their packs, with a lantern, waiting out the rain. He heard them talking as he came down the hill road. They didn’t look up. A man with a beast on a drove road was nobody.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 253,
+   "para": "p156",
+   "type": "speech",
+   "text": "“…sits with it,”",
+   "speaker": "the first pedlar"
+  },
+  {
+   "seq": 254,
+   "para": "p156",
+   "type": "narration",
+   "text": "one of them was saying."
+  },
+  {
+   "seq": 255,
+   "para": "p156",
+   "type": "speech",
+   "text": "“That’s what they say. Over at Greyhold. A knight-student. A girl. Goes out to the Old Ruin in a punt, at night, and sits with the monster. By a stream. And it doesn’t eat her.”",
+   "speaker": "the first pedlar",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 256,
+   "para": "p157",
+   "type": "speech",
+   "text": "“And the knights let her?”",
+   "speaker": "the second pedlar",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 257,
+   "para": "p158",
+   "type": "speech",
+   "text": "“That’s the thing. They don’t stop her. Nobody stops her. Not the Captains, not the Wardens, nobody. She goes out every few days, they say, and comes back, and goes out again, and they all just let her.”",
+   "speaker": "the first pedlar"
+  },
+  {
+   "seq": 258,
+   "para": "p158",
+   "type": "narration",
+   "text": "The pedlar shook his head."
+  },
+  {
+   "seq": 259,
+   "para": "p158",
+   "type": "speech",
+   "text": "“A monster. In the middle of the river. And Greyhold just lets her sit with it. What does that tell you?”",
+   "speaker": "the first pedlar",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 260,
+   "para": "p159",
+   "type": "speech",
+   "text": "“Tells me Greyhold’s gone soft.”",
+   "speaker": "the second pedlar",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 261,
+   "para": "p160",
+   "type": "speech",
+   "text": "“Tells me Greyhold knows something,”",
+   "speaker": "the first pedlar"
+  },
+  {
+   "seq": 262,
+   "para": "p160",
+   "type": "narration",
+   "text": "said the first pedlar, and spat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 263,
+   "para": "p161",
+   "type": "thought",
+   "text": "Sits with the monster. And nobody stops her.",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 264,
+   "para": "p162",
+   "type": "narration",
+   "text": "He thought about the little fire on the stones by the stream, and the shape on the far side, looking."
+  },
+  {
+   "seq": 265,
+   "para": "p162",
+   "type": "thought",
+   "text": "Because it’s hers,",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 266,
+   "para": "p162",
+   "type": "narration",
+   "text": "he’d thought, on Aurveth’s neck, high above the island."
+  },
+  {
+   "seq": 267,
+   "para": "p162",
+   "type": "thought",
+   "text": "Whatever she’s doing down there, it’s hers.",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 268,
+   "para": "p163",
+   "type": "narration",
+   "text": "At the paddock gate, the pale shape lifted its head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 269,
+   "para": "p164",
+   "type": "narration",
+   "text": "Mabbin stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 270,
+   "para": "p165",
+   "type": "narration",
+   "text": "He felt the rope go taut in his hand as she stopped, all at once, on the road above the paddock. He felt her head come up. Her great long sad face lifted, and turned, and her nostrils went wide. Wide. Breathing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 271,
+   "para": "p166",
+   "type": "narration",
+   "text": "At the gate, Sorrel made a sound.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 272,
+   "para": "p167",
+   "type": "narration",
+   "text": "He’d never heard a dray-beast make a sound like it. It was high, and broken, and it went on, a long rising whinny that came up out of the young mare and went across the hollow and up the hill in the rain, and at the end of it, it cracked, like a child’s voice cracking. Under the eaves of the byre, the pedlars jumped and turned round.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 273,
+   "para": "p168",
+   "type": "narration",
+   "text": "Mabbin pulled the rope out of his hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 274,
+   "para": "p169",
+   "type": "narration",
+   "text": "She went down the last of the hill at a trot. Then a canter. He’d never seen a dray-beast canter. He’d never seen one move faster than a walk. She went down the hill road and across the yard past the gaping pedlars and up to the paddock gate, thin and grey and galled, with her mane flying, and stopped, and put her face over the gate, and Sorrel put hers over it from the other side.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 275,
+   "para": "p170",
+   "type": "narration",
+   "text": "And they stood there. Face to face. In the rain. Breathing each other in.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 276,
+   "para": "p171",
+   "type": "narration",
+   "text": "Joss came out of the house.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 277,
+   "para": "p172",
+   "type": "narration",
+   "text": "He came out because of the sound, with a lantern in his hand. He stopped in the door. He stood there in the door of his own house with the lantern held up and looked at the two dray-mares at his paddock gate, with their faces together, and his big slow face didn’t do anything at all. The lantern sagged in his hand. He walked across the yard as if he were walking in a dream, and put his hand on Mabbin’s neck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 278,
+   "para": "p173",
+   "type": "narration",
+   "text": "He didn’t say anything. He couldn’t. He stood there in the rain with one hand on Mabbin’s neck and the other on Sorrel’s, and his face working, and tears running down it into his beard.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 279,
+   "para": "p174",
+   "type": "bond",
+   "text": "Oh,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "very small",
+   "mood": "tender"
+  },
+  {
+   "seq": 280,
+   "para": "p174",
+   "type": "narration",
+   "text": "said Lisska, from the dark above the hollow. Very small. She’d felt it all.",
+   "mood": "tender"
+  },
+  {
+   "seq": 281,
+   "para": "p174",
+   "type": "bond",
+   "text": "Oh. That was her mother.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "very small",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 282,
+   "para": "p175",
+   "type": "speech",
+   "text": "“Yes,”",
+   "speaker": "Calder",
+   "how": "under his breath"
+  },
+  {
+   "seq": 283,
+   "para": "p175",
+   "type": "narration",
+   "text": "said Calder, under his breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 284,
+   "para": "p176",
+   "type": "bond",
+   "text": "She found her mother.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 285,
+   "para": "p177",
+   "type": "speech",
+   "text": "“Yes, little one.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 286,
+   "para": "p178",
+   "type": "narration",
+   "text": "From further off, very faint, came Kharrak’s voice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 287,
+   "para": "p179",
+   "type": "bond",
+   "text": "Glad you went into the city,",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "how": "very faint",
+   "mood": "humour"
+  },
+  {
+   "seq": 288,
+   "para": "p179",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "humour"
+  },
+  {
+   "seq": 289,
+   "para": "p179",
+   "type": "bond",
+   "text": "Don’t tell him I said.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "how": "very faint",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 290,
+   "para": "p180",
+   "type": "narration",
+   "text": "Joss turned his head and looked up the yard. And saw him, standing at the bottom of the hill road in the rain with his hat pulled down and his empty hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 291,
+   "para": "p181",
+   "type": "narration",
+   "text": "He just looked. He lifted one hand, as old Fisk had at the corner of the lane, and held it up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 292,
+   "para": "p182",
+   "type": "narration",
+   "text": "Behind him, the door of the house opened again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 293,
+   "para": "p183",
+   "type": "narration",
+   "text": "Light came out into the yard. And a voice, high, clear, cracking:",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 294,
+   "para": "p184",
+   "type": "speech",
+   "text": "“Da!”",
+   "speaker": "Wren",
+   "how": "high, clear, cracking",
+   "mood": "urgent",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 295,
+   "para": "p185",
+   "type": "narration",
+   "text": "She came across the yard through the rain in her nightgown and her bare feet, the way she’d gone across the yard at home to Lisska on the morning he left, and he went down on his bad knee in the mud and caught her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 296,
+   "para": "p186",
+   "type": "narration",
+   "text": "She was heavier. She’d grown. Three weeks, and she’d grown. She put her arms round his neck so tight he couldn’t breathe and put her face in his wet coat, and didn’t cry, and didn’t say anything, and he knelt in Joss’s yard in the mud and the rain and held her.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 297,
+   "para": "p187",
+   "type": "narration",
+   "text": "Behind her, in the door, there was his sister Bel with Nan on her hip, and Ada, with her shawl round her, looking at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 298,
+   "para": "p188",
+   "type": "speech",
+   "text": "“You came back,”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 299,
+   "para": "p188",
+   "type": "narration",
+   "text": "said Wren, into his coat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 300,
+   "para": "p189",
+   "type": "speech",
+   "text": "“I promised.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 301,
+   "para": "p190",
+   "type": "speech",
+   "text": "“Lisska says that.”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 302,
+   "para": "p190",
+   "type": "narration",
+   "text": "She pulled back and looked at him. Her face was wet with rain."
+  },
+  {
+   "seq": 303,
+   "para": "p190",
+   "type": "speech",
+   "text": "“Is she here? Is she?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 304,
+   "para": "p191",
+   "type": "narration",
+   "text": "He looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 305,
+   "para": "p192",
+   "type": "narration",
+   "text": "He didn’t need to call. She’d felt it. All of it. She’d been circling over the hills in the rain for an hour, waiting, high, and she came down out of the dark now in a long low swoop over the roof of Joss’s byre, and the pedlars under the eaves screamed and dropped their lantern and ran, and she landed in the middle of the yard in the mud with a great splash and stood there with her wings half open and her head down, and the rain running off her green scales.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 306,
+   "para": "p193",
+   "type": "bond",
+   "text": "Wren,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tender"
+  },
+  {
+   "seq": 307,
+   "para": "p193",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "tender"
+  },
+  {
+   "seq": 308,
+   "para": "p193",
+   "type": "bond",
+   "text": "Wren. Wren. Wren.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 309,
+   "para": "p194",
+   "type": "narration",
+   "text": "Wren let go of him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 310,
+   "para": "p195",
+   "type": "narration",
+   "text": "She went into the house. Quickly. Without a word. He thought for a moment she was frightened. Then she came out again, with something in her hand, and went across the yard in her bare feet through the mud and the rain to the dragon, and stood in front of her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 311,
+   "para": "p196",
+   "type": "narration",
+   "text": "It was the ribbon. Blue. Washed. Dried. Folded small.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 312,
+   "para": "p197",
+   "type": "narration",
+   "text": "Lisska put her head down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 313,
+   "para": "p198",
+   "type": "narration",
+   "text": "Wren reached up and tied it on. At the base of the left horn, behind the eye, where it had been. She did it carefully, with her tongue between her teeth, the way she did everything carefully, and pulled the knot tight.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 314,
+   "para": "p199",
+   "type": "speech",
+   "text": "“There,”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 315,
+   "para": "p199",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 316,
+   "para": "p199",
+   "type": "speech",
+   "text": "“I told you. When you came back.”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 317,
+   "para": "p200",
+   "type": "narration",
+   "text": "Lisska didn’t move. She stood in the mud of Joss’s yard with her head down and the blue ribbon on her horn and the rain running off her, perfectly still. Calder felt it through the green mark, and it went through him like warm water through cold, and he had to put his hand on the ground.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 318,
+   "para": "p201",
+   "type": "bond",
+   "text": "She remembered,",
+   "speaker": "Lisska",
+   "listener": "Calder"
+  },
+  {
+   "seq": 319,
+   "para": "p201",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 320,
+   "para": "p201",
+   "type": "bond",
+   "text": "She said she would and she remembered.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 321,
+   "para": "p202",
+   "type": "speech",
+   "text": "“She always does,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 322,
+   "para": "p202",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 323,
+   "para": "p203",
+   "type": "bond",
+   "text": "So do I,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "humour"
+  },
+  {
+   "seq": 324,
+   "para": "p203",
+   "type": "narration",
+   "text": "said Lisska.",
+   "mood": "humour"
+  },
+  {
+   "seq": 325,
+   "para": "p203",
+   "type": "bond",
+   "text": "I remember everything.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "humour"
+  },
+  {
+   "seq": 326,
+   "para": "p203",
+   "type": "narration",
+   "text": "A pause.",
+   "mood": "humour"
+  },
+  {
+   "seq": 327,
+   "para": "p203",
+   "type": "bond",
+   "text": "Imra said that was the most annoying thing about me.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 328,
+   "para": "p204",
+   "type": "speech",
+   "text": "“It isn’t,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 329,
+   "para": "p204",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 330,
+   "para": "p205",
+   "type": "narration",
+   "text": "He knelt in the mud with his daughter’s back to him and his mother in the door and a dragon in the yard with a blue ribbon on her horn, and above them in the dark, circling, the other two. And for the first time since the ford, for the first time since the field, for a moment, he didn’t want them to be quiet at all.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  }
+ ]
+}

@@ -1,0 +1,1431 @@
+{
+ "chapter": 42,
+ "title": "Crossing the River",
+ "pov": "Calder",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Forty-two.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Crossing the River.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "Kharrak tested the ice without being asked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "Calder only found out afterwards, from Lisska, who’d watched it from the top of Crow Scar and was bursting to tell. Kharrak had gone out alone in the late afternoon, over the Fellwood and the hill and down onto the frozen river above Harrow’s End, and stood on it, and stamped. First one foreleg, then the other. Then all his weight, all at once, coming down from a hop.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "bond",
+   "text": "It didn’t break,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "humour"
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "narration",
+   "text": "said Lisska.",
+   "mood": "humour"
+  },
+  {
+   "seq": 7,
+   "para": "p3",
+   "type": "bond",
+   "text": "Not even a crack. He stood there and stamped and it didn’t break, and then he came back and lay down in the mouth of the cave as if he hadn’t been anywhere.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p4",
+   "type": "narration",
+   "text": "Calder looked at Kharrak, lying in the cave mouth with his chin on his forelegs and his eyes half shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p5",
+   "type": "speech",
+   "text": "“You went out on the river.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "bond",
+   "text": "Holds,",
+   "speaker": "Kharrak",
+   "listener": "Calder"
+  },
+  {
+   "seq": 11,
+   "para": "p6",
+   "type": "narration",
+   "text": "said Kharrak, without opening his eyes."
+  },
+  {
+   "seq": 12,
+   "para": "p6",
+   "type": "bond",
+   "text": "Thick. Tested.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p7",
+   "type": "speech",
+   "text": "“Somebody could have seen you.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p8",
+   "type": "bond",
+   "text": "Somebody did. On the tower across the water. One. Watching.",
+   "speaker": "Kharrak",
+   "listener": "Calder"
+  },
+  {
+   "seq": 15,
+   "para": "p8",
+   "type": "narration",
+   "text": "A long breath out."
+  },
+  {
+   "seq": 16,
+   "para": "p8",
+   "type": "bond",
+   "text": "Didn’t care.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p9",
+   "type": "speech",
+   "text": "“Why did you do it?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p10",
+   "type": "narration",
+   "text": "Kharrak opened one gold eye.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p11",
+   "type": "bond",
+   "text": "You were going to,",
+   "speaker": "Kharrak",
+   "listener": "Calder"
+  },
+  {
+   "seq": 20,
+   "para": "p11",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 21,
+   "para": "p11",
+   "type": "bond",
+   "text": "On foot. Alone. On a river nobody’s tried.",
+   "speaker": "Kharrak",
+   "listener": "Calder"
+  },
+  {
+   "seq": 22,
+   "para": "p11",
+   "type": "narration",
+   "text": "The eye closed."
+  },
+  {
+   "seq": 23,
+   "para": "p11",
+   "type": "bond",
+   "text": "Wanted to know if it’d hold you before it had to.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p12",
+   "type": "narration",
+   "text": "Calder sat down on the stone floor of the cave beside the great rust-red head, and after a while he put his hand on the scarred jaw and left it there, and Kharrak let him.",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 25,
+   "para": "p13",
+   "type": "narration",
+   "text": "He’d been at Upper Rush since the turn of the cold. All of them had. Bel’s house was small and full: Bel and Joss and the children, and Ada and Wren in the loft, and Calder on the floor by the fire with his coat for a pillow. Mabbin and Sorrel, the old grey and her daughter, stood in the byre together, so close that Joss said you couldn’t get a straw between them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p14",
+   "type": "narration",
+   "text": "The dragons had moved down from the old hatching caves above Coldtarn when the ice began to run. Aurveth had wanted them nearer. She didn’t say why. She said only that the high caves were cold, which was true, and that she was tired of being so far from him, which was also true, and Calder felt under both things a third one she didn’t say, and didn’t ask.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p15",
+   "type": "narration",
+   "text": "So they lay at Crow Scar again, in the old cave, two leagues east of the Fenn farm, and he walked up the beck to them every second night through the frozen Fellwood, and walked back before dawn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p16",
+   "type": "narration",
+   "text": "Every day he went to the top of the hill above Upper Rush and looked down the river at the island.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 29,
+   "para": "p17",
+   "type": "narration",
+   "text": "He crossed on the eighty-first night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p18",
+   "type": "narration",
+   "text": "He’d waited as long as he could stand. Seven days of hard frost since the jam. Four since Kharrak stamped on it. The river below Harrow’s End was white from bank to bank as far as the island, a long humped causeway of frozen slabs with snow on it, and the old men at the Eelweir said they’d not seen it lock so hard since they were boys.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p19",
+   "type": "speech",
+   "text": "“Fortnight,”",
+   "speaker": "Fisk",
+   "mood": "humour"
+  },
+  {
+   "seq": 32,
+   "para": "p19",
+   "type": "narration",
+   "text": "old Fisk had said, when Calder asked him, leaning on the wall of his hut with his pipe.",
+   "mood": "humour"
+  },
+  {
+   "seq": 33,
+   "para": "p19",
+   "type": "speech",
+   "text": "“You wait a fortnight on a river before you trust her. My da said so. His da said so. And don’t go saying any of your mother’s words over it, neither. Ice is only water holding its breath. Nothing said holds on it.”",
+   "speaker": "Fisk",
+   "mood": "humour"
+  },
+  {
+   "seq": 34,
+   "para": "p19",
+   "type": "narration",
+   "text": "He looked at Calder sideways.",
+   "mood": "humour"
+  },
+  {
+   "seq": 35,
+   "para": "p19",
+   "type": "speech",
+   "text": "“Why? Where are you thinking of walking?”",
+   "speaker": "Fisk",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p20",
+   "type": "speech",
+   "text": "“Nowhere.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p21",
+   "type": "speech",
+   "text": "“Aye.”",
+   "speaker": "Fisk"
+  },
+  {
+   "seq": 38,
+   "para": "p21",
+   "type": "narration",
+   "text": "Fisk smoked."
+  },
+  {
+   "seq": 39,
+   "para": "p21",
+   "type": "speech",
+   "text": "“Nowhere’s over that way,”",
+   "speaker": "Fisk"
+  },
+  {
+   "seq": 40,
+   "para": "p21",
+   "type": "narration",
+   "text": "he said, and nodded down the river at the island."
+  },
+  {
+   "seq": 41,
+   "para": "p21",
+   "type": "speech",
+   "text": "“Mind the far side. There’s a channel by the Hearthmere bank that’s still running. Greyhold girl went through it two days back, they say, after some fool family walking across. Came up on the island’s shore with the man in her arms. Nobody knows how.”",
+   "speaker": "Fisk",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p22",
+   "type": "narration",
+   "text": "Calder looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p23",
+   "type": "speech",
+   "text": "“The current, they’re saying.”",
+   "speaker": "Fisk"
+  },
+  {
+   "seq": 44,
+   "para": "p23",
+   "type": "narration",
+   "text": "Fisk knocked out his pipe."
+  },
+  {
+   "seq": 45,
+   "para": "p23",
+   "type": "speech",
+   "text": "“I’ve fished that channel sixty years. The current doesn’t do that.”",
+   "speaker": "Fisk",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 46,
+   "para": "p24",
+   "type": "narration",
+   "text": "He told Wren he was going to see the dragons. It was true. He’d go to them first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p25",
+   "type": "narration",
+   "text": "His mother didn’t ask where he was going. At the door she took his coat off the peg before he could, and he saw her fingers go along the hem to the place where she’d sewn a knot of red thread the night the river locked. For coming home, she said, when she saw him see. Her own mother had done it. She didn’t say it worked.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p26",
+   "type": "narration",
+   "text": "He walked up the beck through the Fellwood in the dark to the hill above the Fenn farm, where they’d agreed to wait: a league and a half from the island, on the open hillside above his own burned top field, where they could lie in the snow and see the river and he could still hear them across the ice. They were there when he came out of the trees. Three great shapes lying in the snow under the stars, bronze and rust and green, with the frost on their backs.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p27",
+   "type": "bond",
+   "text": "You’re going,",
+   "speaker": "Lisska",
+   "listener": "Calder"
+  },
+  {
+   "seq": 50,
+   "para": "p27",
+   "type": "narration",
+   "text": "said Lisska.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p28",
+   "type": "speech",
+   "text": "“I’m going.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p29",
+   "type": "bond",
+   "text": "Can I come? Just to the edge? Just to the island’s edge? I’ll stay on the ice. I’ll be very small.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p30",
+   "type": "speech",
+   "text": "“No, little one.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p31",
+   "type": "bond",
+   "text": "I could fly over. High up. In the dark. Nobody’d see.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p32",
+   "type": "speech",
+   "text": "“Somebody on the tower would. Somebody always does.”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 56,
+   "para": "p32",
+   "type": "narration",
+   "text": "He looked down the hill at the white river, and the island lying dark in the middle of it, and the long black wall of Greyhold far down on the other bank with its lights."
+  },
+  {
+   "seq": 57,
+   "para": "p32",
+   "type": "speech",
+   "text": "“If three dragons come down on that island, every knight on that wall is out on the ice by morning. You know that.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p33",
+   "type": "bond",
+   "text": "I know that.",
+   "speaker": "Lisska",
+   "listener": "Calder"
+  },
+  {
+   "seq": 59,
+   "para": "p33",
+   "type": "narration",
+   "text": "She tucked her head down."
+  },
+  {
+   "seq": 60,
+   "para": "p33",
+   "type": "bond",
+   "text": "I don’t like it.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p34",
+   "type": "bond",
+   "text": "Neither do I,",
+   "speaker": "Kharrak",
+   "listener": "Calder"
+  },
+  {
+   "seq": 62,
+   "para": "p34",
+   "type": "narration",
+   "text": "said Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p35",
+   "type": "narration",
+   "text": "Aurveth lay with her head up, looking at the island, and through the bronze mark Calder felt the thing she’d been carrying since the hatching caves. Something older than fear. The feeling you get at the top of a cellar stair when the candle won’t reach the bottom.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 64,
+   "para": "p36",
+   "type": "bond",
+   "text": "Go carefully,",
+   "speaker": "Aurveth",
+   "listener": "Calder"
+  },
+  {
+   "seq": 65,
+   "para": "p36",
+   "type": "narration",
+   "text": "she said at last."
+  },
+  {
+   "seq": 66,
+   "para": "p36",
+   "type": "bond",
+   "text": "And come back to us. Whatever you find there.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 67,
+   "para": "p37",
+   "type": "narration",
+   "text": "He went down the hill and through the burned stubble of his own top field and past his own dark house and down to the Eelweir, and out onto the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p38",
+   "type": "narration",
+   "text": "It was the strangest walking of his life. The white went out in front of him under the stars, humped and broken, slab on slab, with the snow lying soft on top and crunching under his boots. It creaked, a little. Small sounds, far off, deep down, like a house settling at night. He went on with his heart going and his hands in his pockets, and the island came up out of the white toward him, black, a wall of snow-laden trees.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 69,
+   "para": "p39",
+   "type": "narration",
+   "text": "The voices in his head grew thinner as he went, as if he were walking away from them down a long hall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p40",
+   "type": "bond",
+   "text": "Can you hear me?",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "faint"
+  },
+  {
+   "seq": 71,
+   "para": "p40",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 72,
+   "para": "p40",
+   "type": "bond",
+   "text": "Still? Can you?",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "faint",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p41",
+   "type": "speech",
+   "text": "“I can hear you.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p42",
+   "type": "bond",
+   "text": "Good. Keep saying so.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "faint",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p43",
+   "type": "narration",
+   "text": "He came up onto the island’s eastern shore and stood under the trees and breathed.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 76,
+   "para": "p44",
+   "type": "narration",
+   "text": "He’d seen it from the air. On Aurveth’s neck, high, in the moonlight, and through her eyes when it had been whole and white and full of people. He’d never stood on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p45",
+   "type": "narration",
+   "text": "It was smaller than he’d thought. And bigger. He went up through the trees in the dark, following what Lisska had shown him, and came out on the old road, white with snow, running between broken walls. The fort. He walked down the middle of the road with his boots crunching and the broken walls on either side, and the snow lying on everything, and no sound at all but his own feet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p46",
+   "type": "narration",
+   "text": "The tower stood at the north-west corner of the fort with its young ash growing out of the top, black against the stars. Under the tower, the arch. Over the arch, the letters.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p47",
+   "type": "narration",
+   "text": "He couldn’t read them. He stood in front of them in the starlight and they were just marks, square and spare, with little hooks.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p48",
+   "type": "bond",
+   "text": "Is that it?",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "faint"
+  },
+  {
+   "seq": 81,
+   "para": "p48",
+   "type": "narration",
+   "text": "said Lisska. Faint, a league and a half away."
+  },
+  {
+   "seq": 82,
+   "para": "p48",
+   "type": "bond",
+   "text": "Is that the arch? Where Imra stood and laughed? Show me. Push it. The way I do.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "faint",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p49",
+   "type": "narration",
+   "text": "He didn’t know how. He stood and looked at the marks and thought of nothing else, as hard as he could, like holding a lantern up for somebody behind you on a dark stair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p50",
+   "type": "bond",
+   "text": "There,",
+   "speaker": "Lisska",
+   "listener": "Calder"
+  },
+  {
+   "seq": 85,
+   "para": "p50",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 86,
+   "para": "p50",
+   "type": "bond",
+   "text": "I can see it. It’s the same. It’s more worn. But it’s the same.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p51",
+   "type": "bond",
+   "text": "Here the road of the one realm crossed the water,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "very low, reading the inscription",
+   "mood": "awe"
+  },
+  {
+   "seq": 88,
+   "para": "p51",
+   "type": "narration",
+   "text": "said Aurveth, very low, reading it through him. Then nothing else. He felt her stop. Felt her not want to go on.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 89,
+   "para": "p52",
+   "type": "narration",
+   "text": "He stood under the arch until his feet went numb.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 90,
+   "para": "p53",
+   "type": "narration",
+   "text": "He went down to the spit because Lisska said the hunters had been there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p54",
+   "type": "narration",
+   "text": "She’d watched it, all those nights in the autumn, flying high over the island at dusk. Men on the gravel at the south end, she said, with a raft and a cage and chains, and then the cage gone, and the men gone, and the chains left lying. He went down through the south wall of the fort, where an old stair came down to the water, and out onto the gravel of the spit with the snow on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p55",
+   "type": "narration",
+   "text": "The chains were still there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p56",
+   "type": "narration",
+   "text": "He could see their shapes under the snow. Long humped lines of them, lying across the gravel the way they’d fallen. He knelt and scraped the snow off one with his hand, and it was beast-chain, heavy, dark, rusted orange now where the frost had got at it. On the side of every link, small and neat:",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p57",
+   "type": "narration",
+   "text": "A ring of six dots.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 95,
+   "para": "p58",
+   "type": "narration",
+   "text": "He knelt there on the frozen gravel with his hand on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p59",
+   "type": "narration",
+   "text": "He had five links of chain like this in his coat pocket, from the ashes at Upper Rush, in the summer. He’d carried it every day since. He’d carried it to the ford, and turned Teo over in the water with it in his hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p60",
+   "type": "narration",
+   "text": "He followed the chains along the gravel toward the foot of the old stair, scraping the snow away as he went. At the bottom of the stair an iron stake stood up out of the paving, its head as big as a fist, and round the head was the last link of a chain, the thickest of them all, and a little of the next. Beyond that, nothing. The link had been cut through, clean, the edges still sharp under the rust, where someone had put a chisel to it and struck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p61",
+   "type": "narration",
+   "text": "Whatever had been on the other end had walked away wearing the rest.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p62",
+   "type": "narration",
+   "text": "He put his thumb on the cut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p63",
+   "type": "bond",
+   "text": "Someone cut it loose,",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "how": "faint, fierce"
+  },
+  {
+   "seq": 101,
+   "para": "p63",
+   "type": "narration",
+   "text": "said Kharrak, faint. Fierce."
+  },
+  {
+   "seq": 102,
+   "para": "p63",
+   "type": "bond",
+   "text": "Someone cut the beast off their chain.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "how": "faint, fierce",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p64",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p65",
+   "type": "bond",
+   "text": "Who?",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p66",
+   "type": "narration",
+   "text": "He thought of a girl in river grey on a stream bank, not doing anything at all."
+  },
+  {
+   "seq": 106,
+   "para": "p66",
+   "type": "remembered",
+   "text": "Cuts it loose off their chains with a hammer,",
+   "speaker": "the beast-seller"
+  },
+  {
+   "seq": 107,
+   "para": "p66",
+   "type": "narration",
+   "text": "the thin beast-seller in the Crane had said."
+  },
+  {
+   "seq": 108,
+   "para": "p66",
+   "type": "remembered",
+   "text": "And now they won’t go back.",
+   "speaker": "the beast-seller",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p67",
+   "type": "narration",
+   "text": "He didn’t answer. He went back to the body-chains, where two links in one of them had rusted thin, and took his knife out and worked at them with the point and the edge of the stake until they gave, one and then the other, and he had a length free, an arm’s length, eight links, with the ring of six on every one. He wrapped it in his scarf and put it inside his coat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p68",
+   "type": "narration",
+   "text": "Something to set beside the other one.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 111,
+   "para": "p69",
+   "type": "narration",
+   "text": "He went to the stream last.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p70",
+   "type": "narration",
+   "text": "Lisska had told him where. The west shore, below the fort, where the little stream came down through the trees to the reeds. Where the girl sat. Where the great grey cat came down to drink.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p71",
+   "type": "narration",
+   "text": "He came down through the trees in the dark, following the stream by the sound of it, still running under a skin of ice, and came out above the bank, and stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p72",
+   "type": "narration",
+   "text": "There’d been a fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p73",
+   "type": "narration",
+   "text": "A small one. On the flat stones at the water’s edge, on this side. He could see the black ring of it in the snow. As he came down the bank toward it he could feel it. Warmth. Faint. Coming up off the stones into the freezing night.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p74",
+   "type": "narration",
+   "text": "He knelt beside it and held his hand over the ashes. Warm, not hot. A few hours. Less.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p75",
+   "type": "bond",
+   "text": "She was here,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "breathless"
+  },
+  {
+   "seq": 118,
+   "para": "p75",
+   "type": "narration",
+   "text": "said Lisska. Breathless."
+  },
+  {
+   "seq": 119,
+   "para": "p75",
+   "type": "bond",
+   "text": "Tonight. Wasn’t she? She was here tonight. Just now.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "breathless",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p76",
+   "type": "narration",
+   "text": "There were footprints. In the snow round the fire. Boots, a woman’s, long and narrow, and they came down from the trees to the stones and sat. He could see where she’d sat, a pressed place in the snow on the bank, by the fire, facing the water. Then they got up and went away down to the reeds at the stream mouth, and out onto the white ice going west, toward the far bank and the tower on the bluff with one light in it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p77",
+   "type": "narration",
+   "text": "He knelt by the warm ashes and looked at the prints going away across the ice in the starlight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p78",
+   "type": "narration",
+   "text": "He looked at the other prints.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p79",
+   "type": "narration",
+   "text": "They were on this side of the stream too. Round. Huge. Each one as broad as a round shield, pressed deep into the snow, four great toes splayed and the marks of claws at the front, drawn in. They came down out of the trees to the north, on this side of the water. They came to a place on the bank a few lengths from the fire, ten paces from where the woman had sat. There the snow was pressed flat in a long hollow, the size of a cart, the shape of something that had lain down there for hours, facing her.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 124,
+   "para": "p80",
+   "type": "narration",
+   "text": "The round prints got up, and went away north again, into the trees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p81",
+   "type": "narration",
+   "text": "He knelt in the snow between the two sets of prints. The narrow ones going west across the ice. The great round ones going north into the dark. And the warm ashes between them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p82",
+   "type": "bond",
+   "text": "Ten paces,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "very small",
+   "mood": "tender"
+  },
+  {
+   "seq": 127,
+   "para": "p82",
+   "type": "narration",
+   "text": "said Lisska. Very small.",
+   "mood": "tender"
+  },
+  {
+   "seq": 128,
+   "para": "p82",
+   "type": "bond",
+   "text": "It lay down ten paces from her. On her side.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "very small",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p83",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p84",
+   "type": "bond",
+   "text": "It used to be twenty. Across the water. I told you. I saw.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p85",
+   "type": "speech",
+   "text": "“I know, little one.”",
+   "speaker": "Calder",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 132,
+   "para": "p86",
+   "type": "narration",
+   "text": "He followed the round prints north.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p87",
+   "type": "narration",
+   "text": "He shouldn’t have. He knew that while he was doing it. Every part of him that had been born and raised on a farm at the edge of the Fellwood, where things lived in the deep woods that you didn’t go and look at, said so. He did it anyway. Along the stream, into the trees, along a path. A wide path, beaten into the snow. Wide as a cart.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 134,
+   "para": "p88",
+   "type": "narration",
+   "text": "The trees closed over. Oaks, great old ones, their branches heavy with snow, meeting overhead. It was dark under them. Darker than the open shore. The snow on the path glimmered faintly, and the prints went on along it, and he followed them with his hands out of his pockets now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p89",
+   "type": "narration",
+   "text": "The voices in his head had gone very quiet. All three.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 136,
+   "para": "p90",
+   "type": "narration",
+   "text": "He came round a bend in the path where the oaks leaned in close, and stopped, because he could hear it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p91",
+   "type": "narration",
+   "text": "Breathing.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 138,
+   "para": "p92",
+   "type": "narration",
+   "text": "Ahead of him, in the dark under the trees, not far. Close. Slow and deep and huge, in, and out, like a bellows in a forge. He’d sat up with enough sick beasts to know what sleep sounded like. This was something lying awake in the dark, very still, listening.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 139,
+   "para": "p93",
+   "type": "narration",
+   "text": "Listening to him.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 140,
+   "para": "p94",
+   "type": "narration",
+   "text": "Through the three marks on his chest, a league and a half away on a hillside in the snow, he felt them go still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p95",
+   "type": "narration",
+   "text": "All three at once. As if they’d heard it too, through him. Lisska stopped breathing. Kharrak’s red tide stopped dead, like a dog’s growl when it hears something bigger. And Aurveth, who was more than three hundred years old and afraid of nothing, he felt her go so still, so utterly and completely still, that for one terrible moment he thought something had happened to her.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 142,
+   "para": "p96",
+   "type": "bond",
+   "text": "Calder,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "barely, a thread of a voice",
+   "mood": "urgent"
+  },
+  {
+   "seq": 143,
+   "para": "p96",
+   "type": "narration",
+   "text": "she said. Barely. A thread of a voice.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 144,
+   "para": "p96",
+   "type": "bond",
+   "text": "Come back. Please. Come back to us now.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "barely, a thread of a voice",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p97",
+   "type": "narration",
+   "text": "He stood on the path in the dark under the oaks with the breathing ahead of him, slow and deep.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p98",
+   "type": "narration",
+   "text": "He backed away. One step. Two. Not turning round, as you’d back away from a bull in a field. A dozen steps. More. Round the bend. Then he turned and walked back along the wide path, not running, not looking behind him, all the way to the stream and the shore and the warm ashes.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 147,
+   "para": "p99",
+   "type": "narration",
+   "text": "The breathing didn’t follow him. He’d have heard.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 148,
+   "para": "p100",
+   "type": "narration",
+   "text": "He knelt by the fire one more time on the way back. He wanted to look at it. The black ring on the stones, and the pressed place where she’d sat, and the long hollow ten paces off where the great beast had lain and watched her. He put his hand on the warm stones and stayed there for a moment, crouched, with his coat falling open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p101",
+   "type": "narration",
+   "text": "He got up and went down to the reeds and out across the white ice on the east side, back the way he’d come, toward the Eelweir and the dark shape of his own hill.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 150,
+   "para": "p102",
+   "type": "narration",
+   "text": "They were waiting for him on the hill above the Fenn farm, lying in the snow where he’d left them, and none of them spoke as he came up through the burned stubble in the grey before dawn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p103",
+   "type": "narration",
+   "text": "He stopped in front of them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p104",
+   "type": "narration",
+   "text": "Lisska lifted her head first. She put her long nose out toward him, toward his coat, and stopped, a hand’s breadth away, and her nostrils went wide. Then she went back. All of her. Back, low, flat to the snow, with her wings tight against her sides and her eyes wide and pale.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 153,
+   "para": "p105",
+   "type": "narration",
+   "text": "Kharrak lifted his head and smelled him from where he lay, and went rigid.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p106",
+   "type": "narration",
+   "text": "And Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p107",
+   "type": "narration",
+   "text": "She brought her great head down out of the dark until it was level with him, and put her muzzle almost against his chest. Against his coat. And breathed in. Long. Deep. The way she’d breathed in the air over the island in the moonlight, before the bridge came up out of the dark of her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p108",
+   "type": "narration",
+   "text": "She put her head down in the snow in front of him, on the ground, and didn’t lift it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p109",
+   "type": "narration",
+   "text": "He stood there with no idea what to do. He put his hand on the great bronze brow above her eye. He could feel her through the mark, and what he felt was nothing he had a word for. Grief was in it, and fear, and something underneath both, very old and very large, turning over like a sleeper in a deep bed.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 158,
+   "para": "p110",
+   "type": "bond",
+   "text": "It’s on you,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "whispered"
+  },
+  {
+   "seq": 159,
+   "para": "p110",
+   "type": "narration",
+   "text": "said Lisska. In a whisper."
+  },
+  {
+   "seq": 160,
+   "para": "p110",
+   "type": "bond",
+   "text": "The smell. The cat’s. The old thing. It’s all over your coat. From the path. From the place where it lay.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "whispered",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p111",
+   "type": "narration",
+   "text": "He looked down at his coat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p112",
+   "type": "bond",
+   "text": "I know that smell,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "very low",
+   "mood": "awe"
+  },
+  {
+   "seq": 163,
+   "para": "p112",
+   "type": "narration",
+   "text": "said Aurveth. Into the snow. So low he could barely hear it.",
+   "mood": "awe"
+  },
+  {
+   "seq": 164,
+   "para": "p112",
+   "type": "bond",
+   "text": "I don’t know how. I have never been near it. I have never smelled it in my life. And I know it.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "very low",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 165,
+   "para": "p113",
+   "type": "narration",
+   "text": "The sun came up over the Fellwood behind them, red, and lay along the white river below, and the island in the middle of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p114",
+   "type": "narration",
+   "text": "Aurveth didn’t lift her head until the sun was clear of the hills.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 167,
+   "para": "p115",
+   "type": "narration",
+   "text": "He found the scale was gone when he got back to Upper Rush.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p116",
+   "type": "narration",
+   "text": "He put his hand inside his coat in Bel’s yard, in the cold morning, to take out the length of chain he’d cut from the stake, and found the chain, wrapped in his scarf, and found the place inside his coat where Lisska’s scale had been for ten days, warm, broad as a shield and thin as slate, and found it empty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p117",
+   "type": "narration",
+   "text": "He stood in the yard and felt for it again, and it wasn’t there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p118",
+   "type": "bond",
+   "text": "My scale,",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "far off"
+  },
+  {
+   "seq": 171,
+   "para": "p118",
+   "type": "narration",
+   "text": "said Lisska, far off, from the hill. She’d felt him look."
+  },
+  {
+   "seq": 172,
+   "para": "p118",
+   "type": "bond",
+   "text": "You’ve lost my scale.",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "how": "far off",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p119",
+   "type": "speech",
+   "text": "“I’m sorry, little one.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p120",
+   "type": "bond",
+   "text": "Where?",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p121",
+   "type": "narration",
+   "text": "He thought of the warm stones by the stream. Crouching there with his coat open. The pressed place in the snow where a woman had sat, and the long hollow ten paces off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p122",
+   "type": "speech",
+   "text": "“I think I know where,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 177,
+   "para": "p122",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p123",
+   "type": "bond",
+   "text": "Will you go back for it?",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p124",
+   "type": "narration",
+   "text": "He looked down the river at the island.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p125",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Calder",
+   "mood": "quiet"
+  },
+  {
+   "seq": 181,
+   "para": "p125",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 182,
+   "para": "p125",
+   "type": "speech",
+   "text": "“I don’t think I will.”",
+   "speaker": "Calder",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p126",
+   "type": "bond",
+   "text": "Why not?",
+   "speaker": "Lisska",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p127",
+   "type": "narration",
+   "text": "He didn’t answer for a while. Mabbin put her long face out over the byre door and looked at him with her sad eyes. Behind him in the house, Wren was laughing at something Pip had said.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p128",
+   "type": "speech",
+   "text": "“Because it’s on her side of the water now,”",
+   "speaker": "Calder",
+   "mood": "quiet"
+  },
+  {
+   "seq": 186,
+   "para": "p128",
+   "type": "narration",
+   "text": "he said.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  }
+ ]
+}

@@ -1,0 +1,1013 @@
+{
+ "chapter": 12,
+ "title": "Harvest",
+ "pov": "Calder",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Twelve.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Harvest.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "Wren had been ready since noon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "She’d been ready since noon in the sense that she had put on her good dress, the blue one Ada had let down twice, and then sat on the gate in it for five hours, swinging her feet and watching the lane for horses. Every time a cart came round the bend she stood up on the bottom bar to see better, and every time it wasn’t horses she sat down again, and didn’t say anything, and went on swinging her feet.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "speech",
+   "text": "“He said he’d come,”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "narration",
+   "text": "she said, when Calder came out to the gate at the fourth hour with a cup of water she hadn’t asked for.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "speech",
+   "text": "“He said he’d try.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "speech",
+   "text": "“He said he’d come. You told me. You said he said, I’ll be at yours; I’ll be at all of them.”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 9,
+   "para": "p5",
+   "type": "narration",
+   "text": "She took the water and drank it without looking away from the lane."
+  },
+  {
+   "seq": 10,
+   "para": "p5",
+   "type": "speech",
+   "text": "“And he’ll bring the green dragon.”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p6",
+   "type": "speech",
+   "text": "“He won’t bring a dragon to a fair, Wren. It’d frighten the sheep.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p7",
+   "type": "speech",
+   "text": "“It wouldn’t frighten me.”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p8",
+   "type": "speech",
+   "text": "“I know it wouldn’t.”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 14,
+   "para": "p8",
+   "type": "narration",
+   "text": "He leaned on the gate beside her. The lane was empty, and beyond it the fields went down golden and stubbled to the water meadows and the river, and beyond the river, low and brown in the afternoon haze, the Hearthmere bank. Out in the river, a little upstream, the island of the Old Ruin sat in the middle of the water like it always did, green and dark, with its broken tower."
+  },
+  {
+   "seq": 15,
+   "para": "p8",
+   "type": "speech",
+   "text": "“He might not come at all. He’s got a lot to do, up at the hold.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p9",
+   "type": "speech",
+   "text": "“He’ll come,”",
+   "speaker": "Wren",
+   "how": "with absolute certainty",
+   "mood": "tender"
+  },
+  {
+   "seq": 17,
+   "para": "p9",
+   "type": "narration",
+   "text": "said Wren, with absolute certainty, and swung her feet.",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 18,
+   "para": "p10",
+   "type": "narration",
+   "text": "The chain was in his pocket.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p11",
+   "type": "narration",
+   "text": "He’d taken it out from under the flag that morning, before anyone was up, kneeling in the straw behind Bramble’s stall with the cow breathing on his neck. He’d held it in the half-dark, unwrapped, five links of dark heavy metal with a ring of six dots on every one, and the cut end clean and bright. He’d thought about the man on the bucket by the stable door. About the knife.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p12",
+   "type": "narration",
+   "text": "He’d put it in his coat pocket and stood up and gone out to milk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p13",
+   "type": "narration",
+   "text": "He’d decided. Not to give it to Teo tonight; not at the fair, with everyone watching and the music going and Hob’s ears flapping like washing. Not before the ford. Before the ford it was just a farmer with a bit of iron, saying things about Ulric’s men in Ulric’s own border-country, four days before Ulric was meant to shake hands with his nephew in a beck. Before the ford it could only make things worse.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p14",
+   "type": "narration",
+   "text": "After, though. After they’d stood in the water and shaken hands, and the peace was made, and everybody had seen it. After, it would be safe. He’d go up to Teo on the bank with the witnesses all round and the two lots of six men standing easy for once, and he’d take it out of his pocket and say:"
+  },
+  {
+   "seq": 23,
+   "para": "p14",
+   "type": "thought",
+   "text": "I found this at Upper Rush. That’s the mark. Your uncle’s man Rook has the same mark on his knife. I don’t know what it means. I thought you should.",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p15",
+   "type": "narration",
+   "text": "And then it would be Teo’s. And whatever Teo did with it, it wouldn’t be Calder’s fault.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p16",
+   "type": "narration",
+   "text": "He’d decided. It felt very good to have decided. He’d been walking around all day with the chain knocking against his hip and the feeling of having decided, and every time it knocked he felt it again: a small warm satisfaction, like the end of a hard day’s work. Four more days.",
+   "mood": "reflective",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 26,
+   "para": "p17",
+   "type": "narration",
+   "text": "Teo came at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p18",
+   "type": "narration",
+   "text": "The fire was already lit in the top field by then. Old Garrow’s wife had lit it the way she lit it every year, with the fire-word her own grandmother had taught her, and as every year it had caught on the third try, to cheering. It was a great stack of old fencing and thorn brush and broken furniture as tall as a barn, roaring and spitting and sending sparks up into the darkening sky. The whole village was round it, and half of Ewe Hollow, and everyone from Upper Rush who still had a coat to wear. The fiddler from Cotter’s Cross had come, the good one with the one eye, and Wat Garrow had a drum, and there were trestles along the hedge with bread and cheese and Hob’s ale, which he’d been charging for since noon and had stopped charging for at sunset, as he did every year, because by sunset nobody remembered who’d paid. They said on the Saltreach bank that the fair was the one night of the year when nobody in the Marches owed anybody anything, and most years, at Harrow’s End, it was even true.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p19",
+   "type": "narration",
+   "text": "Calder was at the back. He was always at the back. He had his shoulders against the hedge and a cup of Hob’s ale he wasn’t drinking, and Ada beside him on a stool with her hands in her lap, watching the dancing with a small private smile. Bel was dancing with Joss. Joss danced the way he did everything, slowly and enormously and with great seriousness, and Bel was laughing at him, properly laughing, for the first time since the fire. Pip and Nan were running round the edge of the dancers in the firelight shrieking at nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p20",
+   "type": "narration",
+   "text": "Wren was at the gate of the top field. She’d been there for an hour. She hadn’t danced once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p21",
+   "type": "narration",
+   "text": "Then she was running.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p22",
+   "type": "narration",
+   "text": "Calder heard the horses a moment after she did: four or five of them, coming up the lane from the river lane at a walk, with lanterns. Clan horses, tall and long-legged, with grey cloths on their saddles. The riders swung down at the gate. The first of them, bareheaded, long-faced, with his dark hair tied back and his coat open, caught Wren under the arms as she arrived at a dead run, and swung her up in the air, and put her down again, laughing.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p23",
+   "type": "speech",
+   "text": "“The small one! The one with the two cups! Lisska sends her greetings and says you’re to stop growing, because she likes you the size you are.”",
+   "speaker": "Teo",
+   "how": "laughing",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p24",
+   "type": "narration",
+   "text": "Wren stood in the lane and looked up at him with her whole face shining, and couldn’t say anything at all. Calder had never seen her not be able to say anything. He found he couldn’t either.",
+   "mood": "tender",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 34,
+   "para": "p25",
+   "type": "narration",
+   "text": "Teo stayed for the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p26",
+   "type": "narration",
+   "text": "He didn’t sit at the trestle where Hob had cleared a place for him, or on the bench where old Garrow kept trying to give him a cushion. He went into the dancing. He danced with Bel, who laughed at him the way she’d laughed at Joss, and with old Garrow’s wife, who was eighty and danced like a girl, and with Ada, who said she didn’t dance and then did, a slow stately turn round the fire with her shawl over her arm while the whole village clapped. He danced with Nan on his shoulders, round and round the fire, with her fists in his hair and her shrieks going up with the sparks. He put Pip on his horse, which made Pip a hero for the rest of his natural life.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p27",
+   "type": "narration",
+   "text": "And he danced with Wren. The fiddler from Cotter’s Cross played the slow reel, the one for children, and Teo Varr, son of the dead chief of the Varr, bowed to Calder’s daughter at the edge of the firelight, very properly, and held out his hand, and she took it, and they went round the fire together, him bending and her reaching, with everyone watching and nobody laughing at all.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p28",
+   "type": "narration",
+   "text": "Calder stood at the back with his shoulders against the hedge and his ale going warm in his hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p29",
+   "type": "speech",
+   "text": "“Look at him,”",
+   "speaker": "Ada",
+   "how": "very quietly",
+   "mood": "quiet"
+  },
+  {
+   "seq": 39,
+   "para": "p29",
+   "type": "narration",
+   "text": "said Ada beside him, very quietly.",
+   "mood": "quiet"
+  },
+  {
+   "seq": 40,
+   "para": "p29",
+   "type": "speech",
+   "text": "“Look at that boy.”",
+   "speaker": "Ada",
+   "how": "very quietly",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p30",
+   "type": "speech",
+   "text": "“I’m looking.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p31",
+   "type": "speech",
+   "text": "“He’s like his grandmother. Old Rurik’s wife. Hild. I knew her when I was a girl. She used to come down to the fairs, and dance with everyone, the shepherds and the farmers and the beggars at the gate, and nobody could ever stay angry when she was in the room.”",
+   "speaker": "Ada",
+   "mood": "reflective"
+  },
+  {
+   "seq": 43,
+   "para": "p31",
+   "type": "narration",
+   "text": "Ada watched the reel.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 44,
+   "para": "p31",
+   "type": "speech",
+   "text": "“She died young. They always do, that sort.”",
+   "speaker": "Ada",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p32",
+   "type": "speech",
+   "text": "“Ma.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p33",
+   "type": "speech",
+   "text": "“I’m only saying what’s true. I’m old; I’m allowed.”",
+   "speaker": "Ada"
+  },
+  {
+   "seq": 47,
+   "para": "p33",
+   "type": "narration",
+   "text": "She put her hand on his arm."
+  },
+  {
+   "seq": 48,
+   "para": "p33",
+   "type": "speech",
+   "text": "“He’s a good boy. He likes you. I can see it. He’s chosen you for something.”",
+   "speaker": "Ada"
+  },
+  {
+   "seq": 49,
+   "para": "p33",
+   "type": "narration",
+   "text": "She looked at Calder sideways, the long level look she’d given to Senna and Senna had given to Wren."
+  },
+  {
+   "seq": 50,
+   "para": "p33",
+   "type": "speech",
+   "text": "“What’s he chosen you for?”",
+   "speaker": "Ada",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p34",
+   "type": "narration",
+   "text": "Calder didn’t answer. The chain knocked against his hip.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 52,
+   "para": "p35",
+   "type": "narration",
+   "text": "Later, when the fire had burned down to a great red heap and the dancing had gone ragged and the little ones were asleep in a pile of coats under the hedge, Ada sang.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p36",
+   "type": "narration",
+   "text": "She didn’t stand up. She never did. Someone asked, as someone always did, and she sighed and said she was too old, the way she always did, and then she sang anyway, from her stool, with her hands in her lap and her thin cracked voice going out over the field and the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p37",
+   "type": "narration",
+   "text": "She sang the old one.",
+   "mood": "awe"
+  },
+  {
+   "seq": 55,
+   "para": "p37",
+   "type": "verse",
+   "text": "Before the six there was one.",
+   "speaker": "Ada",
+   "mood": "awe"
+  },
+  {
+   "seq": 56,
+   "para": "p37",
+   "type": "narration",
+   "text": "Everybody knew it. Everybody went quiet for it, as you go quiet for a prayer, even the drunk ones, even the children who’d woken up under the coats. Her voice went up thin and clear into the dark, and the fire ticked, and down below the field the river went by black under the stars.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 57,
+   "para": "p38",
+   "type": "verse",
+   "text": "Hush now, the last one’s sleeping.",
+   "speaker": "Ada",
+   "how": "singing, thin and cracked",
+   "mood": "quiet"
+  },
+  {
+   "seq": 58,
+   "para": "p38",
+   "type": "verse",
+   "text": "Hush now, you’ll wake it if you weep.",
+   "speaker": "Ada",
+   "how": "singing, thin and cracked",
+   "mood": "quiet"
+  },
+  {
+   "seq": 59,
+   "para": "p38",
+   "type": "verse",
+   "text": "It sleeps under all of us, sleeping,",
+   "speaker": "Ada",
+   "how": "singing, fast",
+   "mood": "quiet"
+  },
+  {
+   "seq": 60,
+   "para": "p38",
+   "type": "verse",
+   "text": "till the six are one again.",
+   "speaker": "Ada",
+   "how": "singing, fast",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p39",
+   "type": "narration",
+   "text": "She sang the last verse fast, as she always did. Nobody but Calder seemed to notice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p40",
+   "type": "narration",
+   "text": "Teo had come to stand at the hedge beside him. He was listening with his head on one side and an odd look on his face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p41",
+   "type": "speech",
+   "text": "“I haven’t heard it sung like that since I was small,”",
+   "speaker": "Teo",
+   "mood": "reflective"
+  },
+  {
+   "seq": 64,
+   "para": "p41",
+   "type": "narration",
+   "text": "he said, when it was over and people were clapping and Ada was waving them away.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 65,
+   "para": "p41",
+   "type": "speech",
+   "text": "“With the hush in it. Most people leave out the hush, these days.”",
+   "speaker": "Teo",
+   "mood": "reflective"
+  },
+  {
+   "seq": 66,
+   "para": "p41",
+   "type": "narration",
+   "text": "He was quiet a moment.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 67,
+   "para": "p41",
+   "type": "speech",
+   "text": "“You know they’re singing it in the ports? Wendmouth, Gullhaven, all along the coast. Just the last line, mostly. Till the six are one again. Over and over, in the taverns, banging their cups. Like it was a promise.”",
+   "speaker": "Teo",
+   "mood": "reflective"
+  },
+  {
+   "seq": 68,
+   "para": "p41",
+   "type": "narration",
+   "text": "He shook his head.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 69,
+   "para": "p41",
+   "type": "speech",
+   "text": "“My mother’s mother used to sing it to me as a lullaby. It frightened me, a bit. I never knew why.”",
+   "speaker": "Teo",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p42",
+   "type": "speech",
+   "text": "“My mother sings the last verse fast,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 71,
+   "para": "p42",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 72,
+   "para": "p42",
+   "type": "speech",
+   "text": "“She always has. I’ve never known why either.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p43",
+   "type": "narration",
+   "text": "Teo looked at him. Then he laughed, softly."
+  },
+  {
+   "seq": 74,
+   "para": "p43",
+   "type": "speech",
+   "text": "“Maybe they both knew something,”",
+   "speaker": "Teo",
+   "how": "softly"
+  },
+  {
+   "seq": 75,
+   "para": "p43",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 76,
+   "para": "p43",
+   "type": "speech",
+   "text": "“Old women always do.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 77,
+   "para": "p43",
+   "type": "narration",
+   "text": "He put down his cup on the hedge-top."
+  },
+  {
+   "seq": 78,
+   "para": "p43",
+   "type": "speech",
+   "text": "“Fenn. Walk me to the horses.”",
+   "speaker": "Teo",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 79,
+   "para": "p44",
+   "type": "narration",
+   "text": "They walked down the edge of the field in the dark, away from the fire, toward the gate where Teo’s riders were waiting with the lanterns. The noise of the fair fell away behind them. Below, the river glinted, and beyond it the Hearthmere bank was a long black line with a few lights on it, very far off, at Greyhold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p45",
+   "type": "speech",
+   "text": "“Four days,”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 81,
+   "para": "p45",
+   "type": "narration",
+   "text": "said Teo."
+  },
+  {
+   "seq": 82,
+   "para": "p45",
+   "type": "speech",
+   "text": "“I’ve had it from Uncle Ulric’s own mouth, in front of his own men. And from Arn, which was harder; I had to get him drunk first and then sober and then drunk again. Four days from tonight, at noon, at the ford on Hollow Beck. Six men each side, standing back on the banks. Just the three of us in the water. And witnesses.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 83,
+   "para": "p45",
+   "type": "narration",
+   "text": "He looked at Calder."
+  },
+  {
+   "seq": 84,
+   "para": "p45",
+   "type": "speech",
+   "text": "“You’re still coming.”",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p46",
+   "type": "speech",
+   "text": "“I’m still coming.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p47",
+   "type": "speech",
+   "text": "“Bring your miller. Bring that old man with the knees.”",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p48",
+   "type": "speech",
+   "text": "“I’ll bring Hob,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 88,
+   "para": "p48",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 89,
+   "para": "p48",
+   "type": "speech",
+   "text": "“Hob’ll want to see it. Hob wants to see everything.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p49",
+   "type": "speech",
+   "text": "“I heard that,”",
+   "speaker": "Hob",
+   "mood": "humour"
+  },
+  {
+   "seq": 91,
+   "para": "p49",
+   "type": "narration",
+   "text": "said Hob.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p50",
+   "type": "narration",
+   "text": "They both turned. Hob was standing by the gate with a jug in one hand and a lantern in the other, swaying slightly, looking injured. He’d come down after them, the way Hob came down after everything, to see if there was anything worth hearing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p51",
+   "type": "speech",
+   "text": "“I’ll come,”",
+   "speaker": "Hob",
+   "how": "with great dignity",
+   "mood": "humour"
+  },
+  {
+   "seq": 94,
+   "para": "p51",
+   "type": "narration",
+   "text": "Hob said, with great dignity.",
+   "mood": "humour"
+  },
+  {
+   "seq": 95,
+   "para": "p51",
+   "type": "speech",
+   "text": "“I’ll come and I’ll witness. Cheaper than hiring one, and better. You ask anyone in this village who sees everything and they’ll say Hob.”",
+   "speaker": "Hob",
+   "mood": "humour"
+  },
+  {
+   "seq": 96,
+   "para": "p51",
+   "type": "narration",
+   "text": "He pointed the jug at the river.",
+   "mood": "humour"
+  },
+  {
+   "seq": 97,
+   "para": "p51",
+   "type": "speech",
+   "text": "“I saw a Greyhold boat, tonight. Did you know that? Nobody else saw it. Everybody was at the fire. But I was up on the bank above the mill at sunset, seeing to the sluice, and I saw it. A little river-watch skiff, with one person in it, coming out across the channel from the Hearthmere side. And it sat out there a while. And then it went in.”",
+   "speaker": "Hob",
+   "mood": "humour"
+  },
+  {
+   "seq": 98,
+   "para": "p51",
+   "type": "narration",
+   "text": "He lowered his voice, dramatically.",
+   "mood": "humour"
+  },
+  {
+   "seq": 99,
+   "para": "p51",
+   "type": "speech",
+   "text": "“To the island. To the Old Ruin. Put whoever it was right on the spit, at dusk, where nobody goes.”",
+   "speaker": "Hob",
+   "how": "lowered, dramatic",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p52",
+   "type": "narration",
+   "text": "Teo turned and looked out over the river. So did Calder. You couldn’t see the island from here in the dark; you couldn’t see anything but the black water and the far black bank and the few small lights.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p53",
+   "type": "speech",
+   "text": "“One person?”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 102,
+   "para": "p53",
+   "type": "narration",
+   "text": "said Teo.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p54",
+   "type": "speech",
+   "text": "“One. In a Greyhold coat, I think. Couldn’t swear to it. Too far.”",
+   "speaker": "Hob"
+  },
+  {
+   "seq": 104,
+   "para": "p54",
+   "type": "narration",
+   "text": "Hob drank."
+  },
+  {
+   "seq": 105,
+   "para": "p54",
+   "type": "speech",
+   "text": "“Mad, whoever it is. Gone onto the island at night. Old women’ll tell you what happens to people who go onto that island at night.”",
+   "speaker": "Hob",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p55",
+   "type": "speech",
+   "text": "“What happens?”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 107,
+   "para": "p55",
+   "type": "narration",
+   "text": "said Teo.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p56",
+   "type": "narration",
+   "text": "Hob opened his mouth, and found he didn’t know, and shut it again.",
+   "mood": "humour"
+  },
+  {
+   "seq": 109,
+   "para": "p56",
+   "type": "speech",
+   "text": "“Bad things,”",
+   "speaker": "Hob",
+   "mood": "humour"
+  },
+  {
+   "seq": 110,
+   "para": "p56",
+   "type": "narration",
+   "text": "he said, and went back up to the fire.",
+   "mood": "humour",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 111,
+   "para": "p57",
+   "type": "narration",
+   "text": "At the horses, Teo stopped with the reins in his hand and looked at Calder in the lantern light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p58",
+   "type": "speech",
+   "text": "“You’ve something on your mind,”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 113,
+   "para": "p58",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 114,
+   "para": "p58",
+   "type": "speech",
+   "text": "“You’ve had it all night. Your mother saw it. I saw it. Even Wren saw it, and she was looking at me.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 115,
+   "para": "p58",
+   "type": "narration",
+   "text": "He smiled a little."
+  },
+  {
+   "seq": 116,
+   "para": "p58",
+   "type": "speech",
+   "text": "“Are you going to tell me what it is?”",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p59",
+   "type": "narration",
+   "text": "The chain was in Calder’s pocket. He could feel exactly where it was: the weight of it, the edges of the links, the cut end.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 118,
+   "para": "p60",
+   "type": "thought",
+   "text": "After. After the ford. When it’s safe.",
+   "speaker": "Calder",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 119,
+   "para": "p61",
+   "type": "speech",
+   "text": "“At the ford,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 120,
+   "para": "p61",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 121,
+   "para": "p61",
+   "type": "speech",
+   "text": "“After. When it’s done. There’s something I want to give you. I’ll give it to you then.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p62",
+   "type": "narration",
+   "text": "Teo looked at him a moment longer, and nodded, as if that was an answer and a good one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p63",
+   "type": "speech",
+   "text": "“After,”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 124,
+   "para": "p63",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 125,
+   "para": "p63",
+   "type": "speech",
+   "text": "“All right. I’ll hold you to it.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 126,
+   "para": "p63",
+   "type": "narration",
+   "text": "He swung up onto the bay and gathered the reins."
+  },
+  {
+   "seq": 127,
+   "para": "p63",
+   "type": "speech",
+   "text": "“Four days, Fenn. Noon. Don’t you dare forget.”",
+   "speaker": "Teo",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p64",
+   "type": "speech",
+   "text": "“I won’t forget.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p65",
+   "type": "speech",
+   "text": "“And tell the small one,”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 130,
+   "para": "p65",
+   "type": "narration",
+   "text": "said Teo, already turning the horse,"
+  },
+  {
+   "seq": 131,
+   "para": "p65",
+   "type": "speech",
+   "text": "“that she dances better than any girl at the hold, and that’s not flattery, and Lisska says so too.”",
+   "speaker": "Teo"
+  },
+  {
+   "seq": 132,
+   "para": "p65",
+   "type": "narration",
+   "text": "He lifted his hand. The riders mounted behind him and the lanterns swung, and they went off down the lane toward the river lane at a walk, five horses, five lights, getting smaller.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p66",
+   "type": "narration",
+   "text": "Calder stood at the gate until the lights went round the bend.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p67",
+   "type": "narration",
+   "text": "Behind him, up in the top field, the fiddler had started again, slow. Someone was singing along, not well. The fire had burned down to a great glowing heap, and the children were asleep under the coats, and Wren, he knew without looking, was standing at the top gate in her blue dress, watching the lane where the lights had gone, the way she’d watched it all afternoon.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p68",
+   "type": "narration",
+   "text": "Four days, he thought. He might actually do it. He might actually get them in the water and make them shake hands. If anyone could, he could. He thought it, and believed it, and found that he was smiling in the dark.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p69",
+   "type": "narration",
+   "text": "He put his hand in his pocket and closed it round the chain, and turned, and started back up the field to fetch his daughter in.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  }
+ ]
+}

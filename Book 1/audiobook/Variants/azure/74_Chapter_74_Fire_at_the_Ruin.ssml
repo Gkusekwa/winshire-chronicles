@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<voice name="en-GB-RyanNeural">
+<!-- The Watch Below, Chapter 74: Fire at the Ruin. Point of view: Calder. -->
+<p><s>Chapter Seventy-four.</s></p><break time="800ms"/>
+<p><s>Fire at the Ruin.</s></p><break time="1800ms"/>
+<!-- p1 -->
+<p>The dragons couldn’t go down.</p><break time="500ms"/>
+<!-- p2 · tension -->
+<p><prosody rate="97%">He’d known it when he stood at the top of the stair. It was a man’s width. Stone steps going down and round into the dark, with the walls close on both sides and the roof close over your head. Kharrak put his great rust-red head into the round room at the foot of the tower and looked at it, and the red tide went up so hard Calder felt his own face go hot.</prosody></p><break time="800ms"/>
+<!-- p3 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">No.</prosody></p><break time="500ms"/>
+<!-- p4 · Calder -->
+<p>“I have to.”</p><break time="500ms"/>
+<!-- p5 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Then I’ll make it wider.</prosody></p><break time="500ms"/>
+<!-- p6 · Calder -->
+<p>“There isn’t time. And you’d bring the tower down on the stair.” He took a brand out of the fire in the fort, a split oak branch burning at one end. “Two hours. Less. He’s down there with a key and the hour’s coming.”</p><break time="500ms"/>
+<!-- p7 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Then I go round. I dig.</prosody></p><break time="500ms"/>
+<!-- p8 · Calder -->
+<p>“Kharrak.”</p><break time="500ms"/>
+<!-- p9 · anger · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">I <emphasis level="moderate">Dig</emphasis>.</prosody></p><break time="500ms"/>
+<!-- p10 · Aurveth (bond, to Calder), very calm -->
+<p><prosody rate="94%" volume="-2dB">Calder,</prosody> said Aurveth. From the eastern gate. Very calm. <prosody rate="94%" volume="-2dB">Look at the river.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p11 -->
+<p>He went out under the arch and looked.</p><break time="500ms"/>
+<!-- p12 -->
+<p>The east channel was full of boats.</p><break time="500ms"/>
+<!-- p13 · dread -->
+<p><prosody rate="96%">Coming back. From the Eelweir, from the whole black hill behind Harrow’s End where the campfires had been, the ones that hadn’t gone over to Redwatch in the morning. Boats in lines, like the morning they’d taken the island, dozens, scores, with lanterns at their bows, and men in them. A lot of men. Two thousand, perhaps. He couldn’t count.</prosody></p><break time="800ms"/>
+<!-- p14 -->
+<p>And in the middle of them, something else.</p><break time="500ms"/>
+<!-- p15 · dread -->
+<p><prosody rate="96%">A raft. Eight barges, lashed together side by side with planks laid over them, and poled across slowly, sitting low in the water. On the raft, something huge. Grey-black. Humped. Plated like a beetle, plate over plate down its back, each plate as big as a door. A head low and broad as a cart, with a horn on its snout as long as a man. Bigger than a dray-beast. Bigger than anything he’d ever seen walk that wasn’t a dragon. As big as a barn.</prosody></p><break time="800ms"/>
+<!-- p16 -->
+<p>He’d seen it once before. At the far end of the beast lines at the Ram’s Head, a great humped shape in the dark that he hadn’t gone near.</p><break time="500ms"/>
+<!-- p17 -->
+<p>On its neck, behind the head, a man stood in grey. With his arm up.</p><break time="500ms"/>
+<!-- p18 · Aurveth (bond, to Calder); Aurveth (bond, to Calder), quietly -->
+<p><prosody rate="94%" volume="-2dB">Ironback,</prosody> said Aurveth. <prosody rate="94%" volume="-2dB">I’ve seen them. In the south. A long time ago. Before him.</prosody> She was quiet a moment. <prosody rate="94%" volume="-6dB">They don’t burn.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p19 -->
+<p>He stood under the arch with the brand in his hand.</p><break time="500ms"/>
+<!-- p20 · Calder -->
+<p>“You’ll hold the top,” he said. “Both of you. While I go down.”</p><break time="500ms"/>
+<!-- p21 · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Calder…</prosody></p><break time="500ms"/>
+<!-- p22 · Calder -->
+<p>“Somebody has to go down. You can’t. I can.” He looked at Kharrak. “And somebody has to stop that coming up the hill and down this stair after me. I can’t. You can.”</p><break time="500ms"/>
+<!-- p23 -->
+<p>Kharrak looked at the raft coming across the channel. At the ironback on it, with the man on its neck.</p><break time="500ms"/>
+<!-- p24 -->
+<p>Then at Calder.</p><break time="500ms"/>
+<!-- p25 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">If you die down there,</prosody> he said, <prosody rate="94%" volume="-2dB">I’ll know.</prosody></p><break time="500ms"/>
+<!-- p26 · Calder -->
+<p>“I know.”</p><break time="500ms"/>
+<!-- p27 · anger: choking off · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">And then I’ll dig down and find him and I’ll…</prosody> The red tide went up and over and he couldn’t finish. He turned his head away.</p><break time="500ms"/>
+<!-- p28 · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Go,</prosody> said Aurveth. <prosody rate="94%" volume="-2dB">We’ll hold the top.</prosody></p><break time="500ms"/>
+<!-- p29 -->
+<p>He went into the tower, and down.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p30 -->
+<p>The stair went down a long way.</p><break time="500ms"/>
+<!-- p31 -->
+<p>Past the slab. He came to it at the bottom of the first flight: the great grey stone he’d seen from above, with the iron plate in it. It wasn’t in the floor any more. Corvin’s men had prised it up with crowbars and leaned it against the wall of the stair, and under where it had lain the steps went on. It had been a lid on the way down, not the lock.</p><break time="500ms"/>
+<!-- p32 -->
+<p>He went on.</p><break time="500ms"/>
+<!-- p33 · tension -->
+<p><prosody rate="97%">Down and round, and down and round. The steps worn deep in the middle, like the doorstep of a house a hundred families have lived in, though he couldn’t think whose feet had done it. The walls close. The roof close. The brand flaring and smoking in the still cold air, and the light going ahead of him round the curve of the stair and the dark coming down behind.</prosody></p><break time="800ms"/>
+<!-- p34 · dread -->
+<p><prosody rate="96%">Cold. Colder than the river. Colder than the ice at midwinter.</prosody></p><break time="800ms"/>
+<!-- p35 -->
+<p>He counted the steps the way he’d counted the fires at the Ram’s Head. In fives, on his fingers, in his coat pocket. He got to three hundred and stopped counting.</p><break time="500ms"/>
+<!-- p36 -->
+<p>The hum came up through the stone into his boots.</p><break time="500ms"/>
+<!-- p37 -->
+<p>And under the hum, after a while, something else.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p38 -->
+<p>The stair came out onto a ledge.</p><break time="500ms"/>
+<!-- p39 · awe -->
+<p><prosody rate="95%">He stepped off the last step onto flat rock and the walls went away on both sides and the roof went away overhead, all at once, and the light of the brand went out from him into nothing and didn’t come back.</prosody></p><break time="800ms"/>
+<!-- p40 -->
+<p>He was standing on a ledge in the wall of something enormous.</p><break time="500ms"/>
+<!-- p41 -->
+<p>He couldn’t see it. That was the first thing. He held the brand up and the light went out into the dark and found nothing. No far wall. No roof. Only the ledge he stood on, a few paces of rough flat rock with a sheer drop at the edge, and the dark beyond it, going on.</p><break time="500ms"/>
+<!-- p42 -->
+<p>He went to the edge and held the brand out over it, and looked down.</p><break time="500ms"/>
+<!-- p43 -->
+<p>Chain.</p><break time="500ms"/>
+<!-- p44 · awe -->
+<p><prosody rate="95%">Going down. Into the dark below the ledge, past where the light reached. One link of it, the nearest, was close enough to touch, a hand’s breadth from the edge of the rock. Iron. Black. With the rust gone hard on it like bark. And it was taller than he was. One link. Taller than he was by a head.</prosody></p><break time="800ms"/>
+<!-- p45 -->
+<p>On the inside of it, in the curve where the iron went round, there was a line of light. Thin. White. It came out of the iron itself, in small square marks with hooks at the ends, over and over, the way the letters went on the verse. Somebody had struck writing into the inside of the link where nobody would ever see it, and it was burning.</p><break time="500ms"/>
+<!-- p46 -->
+<p>Beside it, a little way off, another. And beyond that another. He counted. Six. Six chains, side by side, each link taller than a man, going down from somewhere high in the dark over his head, past the ledge, into the dark below.</p><break time="500ms"/>
+<!-- p47 -->
+<p>They were moving.</p><break time="500ms"/>
+<!-- p48 -->
+<p>All six, swaying a little, a hand’s breadth, out and back. The way the chain of a well-bucket sways when you’ve let go of the handle.</p><break time="500ms"/>
+<!-- p49 · dread -->
+<p><prosody rate="96%">And below them, in the dark, where the light didn’t reach, the dark moved.</prosody></p><break time="800ms"/>
+<!-- p50 · awe: something huge turning in the dark -->
+<p><prosody rate="95%">He’d felt it at midwinter through Aurveth’s throat on the ice. He’d felt it through the floor of the cave on the Scar. It was nothing like this. The dark moved like water in a pool when something huge turns over at the bottom of it. Slow. Enormous. A shifting of the whole of the dark at once. And the six chains swayed with it.</prosody></p><break time="800ms"/>
+<!-- p51 -->
+<p>He stood on the ledge with the brand held out and his whole body cold.</p><break time="500ms"/>
+<!-- p52 · dread · Calder (thought) -->
+<p><prosody rate="96%"><prosody rate="97%" volume="-4dB">The last great one,</prosody> he thought. <prosody rate="97%" volume="-4dB">Lay down to sleep below the stone.</prosody></prosody></p><break time="800ms"/>
+<!-- p53 · Calder (thought) -->
+<p><prosody rate="97%" volume="-4dB">And they woke it.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p54 -->
+<p>There was light to his left.</p><break time="500ms"/>
+<!-- p55 -->
+<p>Along the ledge. Where it went round the curve of the rock wall. Faint, yellow, steady: a lantern. And a passage, cut in the rock, going back from the ledge into the wall.</p><break time="500ms"/>
+<!-- p56 -->
+<p>He went along the ledge toward it, with his back to the rock and the drop at his feet, and into the passage.</p><break time="500ms"/>
+<!-- p57 -->
+<p>It wasn’t long. Twenty paces. Square, cut clean, the walls carved with the same square hooked letters as the verse over the arch, row after row of them, worn smooth. At the end of it, a round chamber.</p><break time="500ms"/>
+<!-- p58 -->
+<p>He stopped in the mouth of the passage.</p><break time="500ms"/>
+<!-- p59 -->
+<p>It was cut out of the rock. Round, like the inside of the tower above, but bigger. The roof a low dome. And in the middle of the floor, filling most of it, a disc of grey stone. Smooth. Flat. As wide as a threshing floor. Set into the rock floor so close you could hardly see the join. Carved all over in rings of the hooked letters, round and round, getting smaller toward the middle. The letters had the same light in them as the chain. Faint. Coming and going, like breath on a cold window.</p><break time="500ms"/>
+<!-- p60 -->
+<p>In the middle, a boss of iron. Black. As big as a man’s two hands. With a keyhole in it.</p><break time="500ms"/>
+<!-- p61 -->
+<p>Beside it, a man stood with a lantern.</p><break time="500ms"/>
+<!-- p62 · tension -->
+<p><prosody rate="97%">Tall. Thin. Dark hair cut short. Hands behind his back. Still.</prosody></p><break time="800ms"/>
+<!-- p63 -->
+<p>Round the walls of the chamber, ten men in the coats of Delling’s company, with swords.</p><break time="500ms"/>
+<!-- p64 -->
+<p>And one more, on the stone disc a pace from Corvin, who wasn’t in a company coat. A small grey man in a long brown scholar’s gown gone ragged at the hem, standing very square on the carved stone with his feet apart and his hands loose at his sides. He had a band of white skin round the second finger of his right hand, as a man’s finger goes under a ring he’s worn all his life, and no ring on it.</p><break time="500ms"/>
+<!-- p65 -->
+<p>Corvin Vale turned his head and looked at Calder standing in the mouth of the passage with a burning branch in one hand and a dead man’s knife in the other.</p><break time="500ms"/>
+<!-- p66 · Corvin -->
+<p>“Fenn,” he said.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p67 -->
+<p>He went at them.</p><break time="500ms"/>
+<!-- p68 · action -->
+<p><prosody rate="104%">Ten men with swords and he was a barley farmer with a knife. He went at them anyway, out of the passage into the chamber, straight across the stone disc at the man with the lantern, and he got two of them. The brand into one man’s face and the man went down screaming. Joss’s knife into the next, low, under the coat, and the man folded over it.</prosody></p><break time="500ms"/>
+<!-- p69 -->
+<p>The small grey man lifted his hands.</p><break time="500ms"/>
+<!-- p70 · action -->
+<p><prosody rate="104%">Something hit Calder. Nothing he could see. A weight, all at once, from in front, like a gate when the wind takes it, the whole flat of it. It picked him up off the stone and threw him down on his back two paces away, and the breath went out of him, and for a moment he couldn’t see. When he could, the grey man was standing where he’d stood, with his hands still out, and blood coming out of his nose onto his lip. He wiped it with the back of his wrist. His hands were shaking.</prosody></p><break time="500ms"/>
+<!-- p71 · Corvin -->
+<p>“Well enough, Fellow,” said Corvin.</p><break time="500ms"/>
+<!-- p72 · the Fellow -->
+<p>“Once more,” said the grey man. “Not twice.” He talked like the colleges’ men at the Wendmouth quays, all his words very clean.</p><break time="500ms"/>
+<!-- p73 -->
+<p>Then the rest had him.</p><break time="500ms"/>
+<!-- p74 · action -->
+<p><prosody rate="104%">Hands. His arms. The brand gone, rolling on the stone, guttering. A blow on the side of his head that filled his eyes with white. His knees hit the stone disc. Somebody had his hair. Somebody had the knife out of his hand.</prosody></p><break time="500ms"/>
+<!-- p75 -->
+<p>A sword came up over him.</p><break time="500ms"/>
+<!-- p76 · Corvin -->
+<p>“No,” said Corvin.</p><break time="500ms"/>
+<!-- p77 -->
+<p>The sword stopped.</p><break time="500ms"/>
+<!-- p78 · Corvin -->
+<p>“Not that one.” Corvin hadn’t moved. He stood by the iron boss with the lantern and looked down at Calder on his knees on the carved stone, held by four men. “Hold him. Don’t harm him.”</p><break time="500ms"/>
+<!-- p79 · a company man -->
+<p>“He killed Danny…”</p><break time="500ms"/>
+<!-- p80 · Corvin -->
+<p>“I know what he did.” Corvin’s voice didn’t change at all. “Hold him.”</p><break time="500ms"/>
+<!-- p81 -->
+<p>The grey man had sat down on the edge of the disc, on the carved stone, with his hands between his knees. Calder could feel the cold coming off him from where he knelt. Like a man brought in out of the snow.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p82 -->
+<p>They held him.</p><break time="500ms"/>
+<!-- p83 -->
+<p>He knelt on the stone disc in the middle of the chamber with his arms twisted up behind him and a man’s knee in his back and blood running down the side of his face from the blow, and looked up at Corvin.</p><break time="500ms"/>
+<!-- p84 -->
+<p>Corvin looked back.</p><break time="500ms"/>
+<!-- p85 -->
+<p>He had a long black key in his hand. Iron, as long as his forearm, with a bit as big as a child’s fist. Its bow was cut with the same hooked marks as the boss. Old. Older than the iron round it. He held it loosely. On the floor beside the iron boss, on the stone, stood a fat candle in a glass, burning steady, with marks scored down the side of it. An hour-candle. The kind the shepherds used.</p><break time="500ms"/>
+<!-- p86 · tension: cold, unhurried · Corvin -->
+<p><prosody rate="97%">“A halter,” said Corvin. “That’s what you are. Do you understand that? Not a man. Not a sign. A halter. With you, we have the dragons. Without you…” He tilted his head very slightly. “Without you we have a great deal of trouble on a hill above us. So.” He looked at the candle. “You’ll live. My brother would be sorry if you didn’t. He’d be sorry for days.”</prosody></p><break time="800ms"/>
+<!-- p87 · Calder -->
+<p>“Rook’s dead,” said Calder.</p><break time="500ms"/>
+<!-- p88 -->
+<p>Corvin didn’t answer.</p><break time="500ms"/>
+<!-- p89 · Calder -->
+<p>“On the spit. By the stake. My red killed him.” Calder didn’t know why he was saying it. “He wanted it. At the end. He went at me with a knife so the dragon would.”</p><break time="500ms"/>
+<!-- p90 -->
+<p>Corvin looked at him for a long moment with his grey eyes.</p><break time="500ms"/>
+<!-- p91 -->
+<p>He said nothing about Rook. His face didn’t change. He looked back at the candle.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p92 -->
+<p>He talked, a little, while he waited.</p><break time="500ms"/>
+<!-- p93 -->
+<p>Not the way his brother talked. Quietly, standing by the iron boss with the key loose in his hand, as a man talks to a beast in a stall while he waits for it to settle. Calder didn’t think he was talking to him at all.</p><break time="500ms"/>
+<!-- p94 · tension: quiet, to himself · Corvin, quietly; Corvin -->
+<p><prosody rate="97%"><prosody volume="-5dB">“Three hundred years,”</prosody> said Corvin. <prosody volume="-5dB">“Hearthmere has kept it down there. Bleeding it. Lighting its lamps. Every knight in the kingdom saying <emphasis level="moderate">keep the watch below</emphasis> at noon without knowing what it means.”</prosody> He looked at the carved letters on the disc under his feet. “And they call us the ones who chain beasts.”</prosody></p><break time="800ms"/>
+<!-- p95 · Calder -->
+<p>“You chain beasts,” said Calder.</p><break time="500ms"/>
+<!-- p96 · tension: quiet, certain · Corvin -->
+<p><prosody rate="97%">“We do.” Corvin didn’t look at him. “We chain the ones we need. They chain the one they need. The difference is that we say so.” He was quiet. “There’s one power in Winshire the six crowns can’t stand against. It’s under your knees. My brother believes in the one realm. He weeps for it on steps. I don’t weep. I believe in the hour.” He looked at the candle. “And the hour is nearly here.”</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p97 -->
+<p>The ground moved.</p><break time="500ms"/>
+<!-- p98 -->
+<p>He felt it come up through the stone disc into his knees. Something bigger than the hum. A heave. As if the whole rock under the chamber had taken a breath.</p><break time="500ms"/>
+<!-- p99 -->
+<p>From the ledge, from the dark beyond the passage, a sound.</p><break time="500ms"/>
+<!-- p100 · dread -->
+<p><prosody rate="96%">Iron. Groaning. Six great groans, one after another, deep, so deep it was hardly a sound at all, coming up through the rock. The chains. Going taut. He knew it as you know a rope’s going taut in your hands before it parts. All six, going tight, and holding, and holding, with a sound like the cables of a ship at anchor in a gale. Then slackening, and going taut again.</prosody></p><break time="800ms"/>
+<!-- p101 -->
+<p>The men holding him had gone still.</p><break time="500ms"/>
+<!-- p102 -->
+<p>Corvin hadn’t moved. He was looking at the passage. At the dark beyond it. His face was very calm.</p><break time="500ms"/>
+<!-- p103 · Aurveth (bond, to Calder), thin, as if up a well -->
+<p><prosody rate="94%" volume="-2dB">Calder.</prosody></p><break time="500ms"/>
+<!-- p104 · dread -->
+<p><prosody rate="96%">Aurveth. In his head. Through the bronze mark, from far above, through all that rock. He hadn’t known she could reach him down here. Her voice was strange. Thin. As if it came up a well.</prosody></p><break time="800ms"/>
+<!-- p105 · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">It’s pulling. Against them. The thing below. I can feel it through the hill. Through my feet. It’s pulling against the chains.</prosody></p><break time="500ms"/>
+<!-- p106 · Calder (bond, to Aurveth) -->
+<p><prosody rate="94%" volume="-2dB">Why?</prosody></p><break time="500ms"/>
+<!-- p107 · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">I don’t know.</prosody> A pause. <prosody rate="94%" volume="-2dB">Something has told it. Something has woken it more than it was. It knows. It knows something is coming.</prosody></p><break time="500ms"/>
+<!-- p108 -->
+<p>Then Kharrak, behind her, harsh, ragged, the red tide in it so high it was hard to hear the words:</p><break time="500ms"/>
+<!-- p109 · Kharrak (bond, to Calder), harsh, ragged -->
+<p><prosody rate="94%" volume="-2dB">I can feel it in my teeth.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p110 -->
+<p>He felt the fight above.</p><break time="500ms"/>
+<!-- p111 · Aurveth (remembered) -->
+<p>Pieces, most of it, through the marks. The ironback coming up the slope from the spit into the fort. He felt Aurveth meet it in the eastern gate. The weight of it. A shock that went through her whole body and into his. Kharrak’s fire rolling over its back, white, and sliding off, and the plates not burning. <prosody volume="-3dB">They don’t burn.</prosody> The man on its neck with his arm up.</p><break time="500ms"/>
+<!-- p112 -->
+<p>He felt Kharrak get cut.</p><break time="500ms"/>
+<!-- p113 · action -->
+<p><prosody rate="104%">A hot line of pain down his own side, under the ribs, that wasn’t his. He gasped. The man with his knee in Calder’s back pushed harder.</prosody></p><break time="500ms"/>
+<!-- p114 -->
+<p>Then the red tide went over.</p><break time="500ms"/>
+<!-- p115 · anger -->
+<p>He felt it go. All of it. Every wall Kharrak had ever had, gone at once. Not at the ironback or the men. Down. At the tower. At the floor of the round room over the stair, where Calder had gone down and not come back up.</p><break time="500ms"/>
+<!-- p116 -->
+<p>He felt Kharrak start to dig.</p><break time="500ms"/>
+<!-- p117 · urgent -->
+<p><prosody rate="105%">Through the marks, through the rock, he felt it. Great claws in old stone. Tearing. The floor of the round room at the foot of the tower coming up in pieces. The fallen stone, the old earth, the steps of the stair. Kharrak tearing at it with his forefeet the way the lion had torn at the pit, all winter, at the stone over its kin. Digging down. Toward him.</prosody></p><break time="500ms"/>
+<!-- p118 · urgent · Kharrak (bond, to Calder) -->
+<p><prosody rate="105%"><prosody rate="94%" volume="-2dB">I’m coming,</prosody> said Kharrak, to the rock. <prosody rate="94%" volume="-2dB">I’m coming.</prosody></prosody></p><break time="500ms"/>
+<!-- p119 -->
+<p>Dust came down out of the dome of the chamber in a thin stream onto the carved stone.</p><break time="500ms"/>
+<!-- p120 -->
+<p>Corvin looked up at it.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p121 · tension -->
+<p><prosody rate="97%">The candle had burned down to the last hour-mark. Below it, scored close together in the wax, were ten small notches, and the flame was at the first.</prosody></p><break time="800ms"/>
+<!-- p122 -->
+<p>Corvin looked at it. Then he stepped onto the iron boss in the middle of the stone disc, and crouched, and fitted the long black key into the keyhole. It went in a long way. Further than Calder would have thought. To the bow.</p><break time="500ms"/>
+<!-- p123 -->
+<p>He knelt there with his hand on it, not turning it, and his eyes on the candle.</p><break time="500ms"/>
+<!-- p124 · Corvin -->
+<p>“Ten marks,” he said. “My brother has the same candle.”</p><break time="500ms"/>
+<!-- p125 -->
+<p>Calder pulled against the men holding him. He couldn’t move. Four of them. A knee in his back. His arms up behind him so far his shoulders were cracking.</p><break time="500ms"/>
+<!-- p126 · Calder -->
+<p>”<emphasis level="moderate">Don’t.</emphasis>”</p><break time="500ms"/>
+<!-- p127 -->
+<p>Corvin didn’t look at him.</p><break time="500ms"/>
+<!-- p128 · urgent: pleading, desperate · Calder -->
+<p><prosody rate="105%">”<emphasis level="moderate">Don’t. You don’t know what it is. You don’t know what it’ll do. It’s been down there three hundred years with chains on it and the lamps of a whole kingdom burning off it and you think you can put a collar on it like a hound…</emphasis>”</prosody></p><break time="500ms"/>
+<!-- p129 · Corvin -->
+<p>“Nine,” said Corvin.</p><break time="500ms"/>
+<!-- p130 · action -->
+<p><prosody rate="104%">Over their heads, through the dome, through the rock, Kharrak dug. Dust coming down. Small stones, pattering on the disc. A crack running across the dome over the passage, with a sound like a branch breaking.</prosody></p><break time="500ms"/>
+<!-- p131 · Corvin -->
+<p>“Eight.”</p><break time="500ms"/>
+<!-- p132 · tension -->
+<p><prosody rate="97%">Below the ledge, in the dark, the six chains went taut and held. And held. And held.</prosody></p><break time="800ms"/>
+<!-- p133 · tension -->
+<p><prosody rate="97%">Calder knelt on the carved stone with the blood running into his eye and looked at the long black key in the iron boss and Corvin’s long pale hand on it, still, and couldn’t reach it. Couldn’t move. A farmer, held by four men, a pace from it.</prosody></p><break time="800ms"/>
+<!-- p134 · tension · Calder (thought) -->
+<p><prosody rate="97%"><prosody rate="97%" volume="-4dB">Somewhere under the school,</prosody> he thought, <prosody rate="97%" volume="-4dB">another hand on another key.</prosody></prosody></p><break time="800ms"/>
+<!-- p135 · Calder (thought) -->
+<p><prosody rate="97%" volume="-4dB">Did she get it? Did Lisska find her? Did she understand?</prosody></p><break time="500ms"/>
+<!-- p136 · quiet · Calder (thought) -->
+<p><prosody rate="95%"><prosody rate="97%" volume="-4dB">Is anybody there?</prosody></prosody></p><break time="500ms"/>
+<!-- p137 · Corvin -->
+<p>“Seven,” said Corvin.</p>
+<break time="1800ms"/>
+</voice>
+</speak>

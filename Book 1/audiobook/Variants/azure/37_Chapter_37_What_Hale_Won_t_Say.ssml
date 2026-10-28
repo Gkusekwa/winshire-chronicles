@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<voice name="en-GB-RyanNeural">
+<!-- The Watch Below, Chapter 37: What Hale Won't Say. Point of view: Maren. -->
+<p><s>Chapter Thirty-seven.</s></p><break time="800ms"/>
+<p><s>What Hale Won’t Say.</s></p><break time="1800ms"/>
+<!-- p1 · reflective · the knights (remembered) -->
+<p><prosody rate="96%">The knights of Hearthmere have a saying they use at pyres, when the dead was bonded. <prosody volume="-3dB">They went together.</prosody> It means neither was left. Maren had heard it said at her father’s pyre, by kind people, and had wanted to hit them. The poachers had killed his hound on the Saltreach road, and he’d come home and lain down on his bed, and taken four days.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p2 -->
+<p>Merrow’s ox-beast died on the fifty-sixth day.</p><break time="500ms"/>
+<!-- p3 -->
+<p>It was old. Everybody knew it was old. It had been old when Maren came to Greyhold two years ago, and old when Grieve came forty years before that, a great grey hump-backed slow thing with a white face and horns worn down to stubs, that hadn’t been out of the Long Barn in a decade. Its name was Dun. Merrow had bonded it when they were both young, seventy years ago, on a farm in the south of Hearthmere, before he ever thought of being a knight.</p><break time="500ms"/>
+<!-- p4 · tender · Merrow (remembered) -->
+<p><prosody rate="95%">He came every morning to sit with it. Maren had seen him every day since she’d been on the midden. A tiny bent old man, ninety-one years old, with no teeth and hands like bundles of twigs, who came across the yard at dawn on two sticks and lowered himself onto a stool in the corner of Dun’s stall and sat there all morning, talking to it. A word here and there. <prosody volume="-3dB">Cold today, old lad.</prosody> <prosody volume="-3dB">Rain coming.</prosody> <prosody volume="-3dB">Vasey’s broken his wrist, the fool.</prosody> And Dun would lie in the straw with his great white face toward the old man, and breathe, and once in a while make a sound in his chest like a cart going over a bridge.</prosody></p><break time="500ms"/>
+<!-- p5 -->
+<p>On the fifty-sixth morning she came into the barn with the barrow before the bell and Merrow was already there, on his stool, in the dark. He hadn’t lit the lantern. He was sitting with one hand on Dun’s face. Against the old ox’s belly, in the straw, lay the warming-stone Grieve had begged off the infirmary at the first cold nights, still giving out its heat, and, curled beside it, the cat nobody owned.</p><break time="500ms"/>
+<!-- p6 · grief -->
+<p><prosody rate="94%">Dun wasn’t breathing.</prosody></p><break time="800ms"/>
+<!-- p7 -->
+<p>She stood in the door of the stall with the barrow and didn’t know what to do.</p><break time="500ms"/>
+<!-- p8 · quiet -->
+<p><prosody rate="95%">Merrow looked up at her. His old face was quite calm.</prosody></p><break time="500ms"/>
+<!-- p9 · grief: calm, gentle · Merrow, calm; Merrow -->
+<p><prosody rate="94%">“He went just now,” he said. “A little while ago. I was talking to him. He just stopped.” He looked down at the great white face under his hand. “I’ll not be long.”</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p10 -->
+<p>He wasn’t long.</p><break time="500ms"/>
+<!-- p11 · grief -->
+<p><prosody rate="94%">They carried him to his bed in the old knights’ lodging by the north wall, Grieve and Maren and the Darrow girl, because he wouldn’t be carried by anybody else. He was so light. Like carrying a bundle of kindling. He lay on his bed and looked at the ceiling and talked a little, to nobody, about a farm in the south with apple trees, and a calf that wouldn’t suck, and a boy who sat up with it all night in the straw. Then he stopped talking. And in the evening, just as the bell went for the change of watch, he stopped breathing too.</prosody></p><break time="800ms"/>
+<!-- p12 · grief -->
+<p><prosody rate="94%">Grieve wept. Maren had never seen him weep. She’d never seen him do anything but stand at the end of the barn with his arms folded and look disgusted. He stood by Merrow’s bed with his bald head bowed and his hands hanging at his sides and wept like a child, without making a sound, and nobody said anything.</prosody></p><break time="800ms"/>
+<!-- p13 · grief: hushed barn -->
+<p><prosody rate="94%">The Long Barn was silent that night. She went in to do evening muck and every beast in it was awake, and still, and silent. The hounds lay in their stalls with their chins on their paws. The greyharts stood with their heads down. Kesh sat on her perch with her feathers flat and didn’t bate. Even Captain Thorne’s boar lay at the back of its stall with its small red eyes open, looking at the empty stall where Dun had been. And in the straw of that stall, curled up against the place where the great grey body had lain, was the cat nobody owned, still.</prosody></p><break time="800ms"/>
+<!-- p14 · Grieve (remembered) -->
+<p><prosody volume="-3dB">It picks,</prosody> Grieve had said. <prosody volume="-3dB">Picks the beast whose rider’s going to have a bad day tomorrow.</prosody></p><break time="500ms"/>
+<!-- p15 · quiet -->
+<p><prosody rate="95%">It had picked. It had known. Maren stood in the door of the empty stall and looked at the grey cat curled in the straw, and the cat looked back at her with its yellow eyes, and neither of them moved.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p16 -->
+<p>They burned Merrow and Dun together, on one pyre, on the river shore below the wall, at dusk on the fifty-seventh day.</p><break time="500ms"/>
+<!-- p17 -->
+<p>The whole of Greyhold came down to the shore. Knights and students and instructors and servants and Grieve, in a clean shirt, standing at the front by the pyre with his face set like stone. Rowan was there. Pell. Haverly, with Kesh hooded on his fist. And Hale, at the back, leaning on his stick, with his white beard and his heavy stooped shoulders, looking older than she’d ever seen him.</p><break time="500ms"/>
+<!-- p18 · grief · the chaplain -->
+<p><prosody rate="94%">“They went together,” said the chaplain, at the end. And this time, for the first time in her life, Maren didn’t want to hit anyone. Because they had.</prosody></p><break time="800ms"/>
+<!-- p19 · reflective · the chaplain (remembered) -->
+<p><prosody rate="96%">The fire went up. Big and yellow against the grey river, with the smoke going straight up in the still cold air. She stood at the back with the other students and watched it, and found she was thinking of her father, and then of a farmer she’d never met in a burned field above Harrow’s End, with three dragons round him that should have gone after their riders and hadn’t. <prosody volume="-3dB">They went together.</prosody> Except when they didn’t.</prosody></p><break time="500ms"/>
+<!-- p20 -->
+<p>When she looked round, Hale was talking to Rowan.</p><break time="500ms"/>
+<!-- p21 · tension -->
+<p><prosody rate="97%">They were standing a little apart from the others, at the edge of the firelight, by the water. Rowan was speaking. Low. Quick. Hale was listening with his head bent, and his big hand tight on his stick. Maren couldn’t hear what Rowan said. She saw Hale’s face, though, in the light of the fire. She saw it change.</prosody></p><break time="800ms"/>
+<!-- p22 · dread -->
+<p><prosody rate="96%">Rowan went away along the shore toward the landing steps, small and neat in her grey coat, and Hale stood alone by the water with the pyre burning behind him, looking north. Up the river. Toward the island, and the dark.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p23 -->
+<p>He sent for her at the second hour of the night.</p><break time="500ms"/>
+<!-- p24 · the messenger boy -->
+<p>He’d never done it. Not after dark. The boy who came to the dormitory door with the message was white-faced, as if he’d been sent to wake the dead, and wouldn’t meet her eye. The Warden says, if you’re awake. She was awake. She put her coat on over her shirt and went.</p><break time="500ms"/>
+<!-- p25 -->
+<p>The archive was dark except for the lamp over the long table. Hale was sitting under it, in his chair, with his stick against the table and a cup in front of him and a stone jar beside the cup. The black book was there, closed. He didn’t look up when she came in. He was looking at the cup.</p><break time="500ms"/>
+<!-- p26 · Hale -->
+<p>“Sit,” he said.</p><break time="500ms"/>
+<!-- p27 -->
+<p>She sat.</p><break time="500ms"/>
+<!-- p28 -->
+<p>He poured from the jar into the cup, slowly, carefully, as you pour when you’ve had enough that you have to think about it. It was the brown spirit they made in the south of Hearthmere from apples. She could smell it across the table. He pushed the cup toward her. She shook her head. He took it back and drank from it himself.</p><break time="500ms"/>
+<!-- p29 · quiet -->
+<p><prosody rate="95%">He wasn’t drunk, or not as the river got drunk on fair nights at the Kettle, falling down in the road. He’d never be that. But something in him had come loose. Something that was always held, very tight, like a rope on a cleat, had been let out a little. She could see it in his face. In the way he sat. In the way his big hands lay on the table.</prosody></p><break time="500ms"/>
+<!-- p30 · Hale -->
+<p>“Merrow swore me in,” he said.</p><break time="500ms"/>
+<!-- p31 -->
+<p>She waited.</p><break time="500ms"/>
+<!-- p32 · reflective · Hale -->
+<p><prosody rate="96%">“Forty years ago. Into the inner circle. In this room.” He looked round the archive, at the stacks going away into the dark. “I was twenty-three. I’d been an archivist’s boy since I was nine. I’d read everything. I thought I knew everything. And Merrow came down here one night, past fifty even then and grey as a badger, with that ox of his outside in the yard because it wouldn’t stay in the barn without him, and sat where you’re sitting, and told me what I’d be swearing to.” He drank. “And I didn’t believe him. Not for a year.”</prosody></p><break time="500ms"/>
+<!-- p33 -->
+<p>He was quiet.</p><break time="500ms"/>
+<!-- p34 · grief · Hale -->
+<p><prosody rate="94%">“He kept the watch sixty years,” said Hale. “Sixty years. Every day. And never told a soul. Not his wife. Not his children. Not Grieve, who loved him. Not anyone.” He turned the cup in his hands. “And tonight he’s ash on the shore, and that ox with him, and I’m the oldest one left.”</prosody></p><break time="800ms"/>
+<!-- p35 · Maren -->
+<p>“The oldest what?”</p><break time="500ms"/>
+<!-- p36 -->
+<p>He looked at her. For a long moment she thought he was going to tell her.</p><break time="500ms"/>
+<!-- p37 -->
+<p>He didn’t. He drank.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p38 -->
+<p>He talked for a while about other things. About Merrow. About the farm in the south with the apple trees, and how Merrow had come to Greyhold at thirty because the crown wanted bonded men for the gate and there weren’t enough, and how he’d never wanted to be a knight and had been one for sixty years. About the Watch, and the list, and the line at the top of the first page. <prosody rate="95%">From the closing.</prosody> About his own father, who’d been a bookbinder, like the man at the Kettle, Maren thought, though she didn’t say it.</p><break time="500ms"/>
+<!-- p39 -->
+<p>He was quiet a while. When he spoke again, his voice had changed.</p><break time="500ms"/>
+<!-- p40 · Hale -->
+<p>“There’s a song,” he said. “Your mother will have sung it to you. When you were small. On the ferry.”</p><break time="500ms"/>
+<!-- p41 · Maren -->
+<p>“Which song?”</p><break time="500ms"/>
+<!-- p42 · Hale -->
+<p>”<prosody rate="90%">Hush now, the last one’s sleeping.</prosody>”</p><break time="500ms"/>
+<!-- p43 · Maren -->
+<p>“Everybody knows that one. The boys sing it on the wall when they’re drunk.”</p><break time="500ms"/>
+<!-- p44 · Hale -->
+<p>“Everybody knows the tune.” He was looking at the lamp. “There was a story that went with it, once. The Watch’s story. They used to tell it in the Marches, on both banks, to frighten children. Nobody tells it now. I’ve only ever found it in two places. Once in the black book, in the margin, in a hand older than any of the names. And once on a ballad-sheet from Millbrook, two hundred years old, that somebody used to wrap a cheese.”</p><break time="500ms"/>
+<!-- p45 · Maren -->
+<p>“What’s it about?”</p><break time="500ms"/>
+<!-- p46 -->
+<p>Hale turned the cup.</p><break time="500ms"/>
+<!-- p47 · dread: voice dropping · Hale; Hale, very low -->
+<p><prosody rate="96%">“You know the verses,” he said at last. “The old ones went up into the light, and the one fell into six. And the last great beast lay down below.” He turned the cup again. “The song stops there. The story doesn’t. The story says it was never a beast like the others. The Watch had a name for it.” His voice went very low. <prosody volume="-5dB">“The Last Titan. And the story says it was too big, and too angry, and too…”</prosody></prosody></p><break time="800ms"/>
+<!-- p48 -->
+<p>He stopped.</p><break time="500ms"/>
+<!-- p49 · tension -->
+<p><prosody rate="97%">She watched him stop. She watched the word come up in him, right to the top, right to his mouth, and saw him hold it there. Saw him clamp down on it. His big hands went flat on the table.</prosody></p><break time="800ms"/>
+<!-- p50 · tension -->
+<p><prosody rate="97%">The archive was absolutely silent.</prosody></p><break time="800ms"/>
+<!-- p51 · Maren -->
+<p>“Too what?” said Maren.</p><break time="500ms"/>
+<!-- p52 -->
+<p>Hale didn’t answer.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p53 · Hale (remembered) -->
+<p>She should have let it go. She’d let it go at the Lesson Wall. She’d let it go in the archive, the day he said <prosody volume="-3dB">the inner circle keeps a watch nobody else is told.</prosody> She’d let it go because he was old, and kind, and carrying something very heavy up a very long stair.</p><break time="500ms"/>
+<!-- p54 -->
+<p>She didn’t let it go this time.</p><break time="500ms"/>
+<!-- p55 · the chaplain (remembered) -->
+<p>Maybe because of Merrow, and the pyre, and <prosody volume="-3dB">they went together.</prosody> Maybe because of the man on the smithy roof at Ferriby, who’d said her name. Maybe because of the lion, lying fifteen paces off at the edge of the stream with its head up, turning, suddenly, to look downriver toward Greyhold, with the ground humming under it like a struck bowl.</p><break time="500ms"/>
+<!-- p56 -->
+<p>She thought of the verse over the arch. She’d copied it in her notebook. She’d said it aloud in Rowan’s room. She knew it by heart.</p><break time="500ms"/>
+<!-- p57 · tension: recited slowly · Maren, slowly, quietly -->
+<p><prosody rate="97%"><prosody volume="-5dB">”<prosody rate="95%">Here the road of the one realm crossed the water,</prosody>”</prosody> she said. Slowly. Quietly. <prosody volume="-5dB">”<prosody rate="95%">Winshire, where the old ones walked unbound. And when the old ones went into the light…</prosody>”</prosody></prosody></p><break time="800ms"/>
+<!-- p58 -->
+<p>Hale looked up.</p><break time="500ms"/>
+<!-- p59 · Maren -->
+<p>”<prosody rate="95%">The last,</prosody>” said Maren. ”<prosody rate="95%">Sleeps. Below the stone.</prosody>”</p><break time="500ms"/>
+<!-- p60 · tension -->
+<p><prosody rate="97%">Hale’s hand jerked. The cup went over. The brown spirit went across the table in a long spreading pool, over the cover of the black book, and dripped off the edge onto the floor, and neither of them moved to stop it.</prosody></p><break time="800ms"/>
+<!-- p61 · dread -->
+<p><prosody rate="96%">His face had gone grey, like ash. Like the face of a man who has been walking in the dark and put his foot down on nothing.</prosody></p><break time="800ms"/>
+<!-- p62 · Maren -->
+<p>”<prosody rate="95%">Let no hand wake it,</prosody>” said Maren.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p63 -->
+<p>He sat there with the spilled spirit soaking into the black book’s wooden cover and dripping on the floor, and stared at her across the table. His mouth was a little open. His big hands were flat on the wet wood.</p><break time="500ms"/>
+<!-- p64 -->
+<p>Then, as if he couldn’t help it, as if something were pulling his head round on a rope, he looked past her.</p><break time="500ms"/>
+<!-- p65 -->
+<p>Down the archive. Down the long vaulted room, past the stacks, into the dark beyond the lamp. To the far end. To the three stone steps going down. To the low black door with its three iron bands and its lock as big as a man’s hand.</p><break time="500ms"/>
+<!-- p66 -->
+<p>She saw his face.</p><break time="500ms"/>
+<!-- p67 -->
+<p>She’d seen fear before. She’d seen it on the river, on smugglers caught in the reeds. She’d seen it on the young man’s face in the hollow, holding the chain, a pace from the lion’s foot. She’d seen it on her own face in the water of the stream, on the night the lion pinned her. She knew what it looked like.</p><break time="500ms"/>
+<!-- p68 · dread -->
+<p><prosody rate="96%">This was fear. But not for himself. This was bigger and older and worse: the fear of a man standing on a frozen river, a long way from either bank, who has just heard the ice crack under his feet, and knows that everyone he has ever loved is standing on the ice behind him.</prosody></p><break time="800ms"/>
+<!-- p69 -->
+<p>He looked at the black door.</p><break time="500ms"/>
+<!-- p70 -->
+<p>Then he looked back at her.</p><break time="500ms"/>
+<!-- p71 · dread: a whisper · Hale, whispered -->
+<p><prosody rate="96%"><prosody volume="-5dB">“Where did you learn that?”</prosody> he said. His voice was a whisper. <prosody volume="-5dB">“That line. <prosody rate="95%">Let no hand wake it.</prosody> It’s not in the black book. It’s not on the ballad-sheet. It’s not anywhere in this archive. Where did you…”</prosody></prosody></p><break time="800ms"/>
+<!-- p72 · Maren -->
+<p>“It’s on the island,” said Maren. “Over the arch. Under the tower. I told you. I copied it. I said it in Rowan’s room.” She looked at him. “You read my notebook.”</p><break time="500ms"/>
+<!-- p73 · reflective · Hale -->
+<p><prosody rate="96%">“The page was wet,” said Hale. “In your notebook. From the river. You’d marked the middle line broken, three dots and three dots, and under it the ink had run. I read <prosody rate="95%">the last</prosody> and <prosody rate="95%">sleeps</prosody> and <prosody rate="95%">below</prosody> and <prosody rate="95%">stone</prosody>, and a smudge, and then the oath. And I thought…” He stopped. “I thought it was a grave. I thought it was an epitaph. For one of the Watch. <prosody rate="95%">The last sleeps below the stone.</prosody> The last of the Watch, buried under the tower.” He laughed, a short ugly sound. “I’ve spent a month telling myself it was an epitaph.”</prosody></p><break time="500ms"/>
+<!-- p74 · Maren -->
+<p>“And it’s not.”</p><break time="500ms"/>
+<!-- p75 -->
+<p>Hale looked at the wet cover of the black book.</p><break time="500ms"/>
+<!-- p76 · Maren -->
+<p>“Warden,” said Maren. “What sleeps below the stone?”</p><break time="500ms"/>
+<!-- p77 -->
+<p>Hale picked up his stick from where it leaned against the table. He held it in both hands, across his knees, the way he’d held it on the Lesson Wall bench. He looked at it.</p><break time="500ms"/>
+<!-- p78 · grief: weary · Hale -->
+<p><prosody rate="94%">“I’m an old man,” he said. “And I’ve had too much of Merrow’s apple spirit, on the night of Merrow’s pyre. And I’ve said a great deal more than I should.” He didn’t look up. “Go to bed, Ashdown.”</prosody></p><break time="800ms"/>
+<!-- p79 · Maren -->
+<p>“Warden…”</p><break time="500ms"/>
+<!-- p80 · grief: pleading · Hale -->
+<p><prosody rate="94%">”<emphasis level="moderate">Please.</emphasis>”</prosody></p><break time="800ms"/>
+<!-- p81 -->
+<p>She’d never heard him say it. She’d never heard anybody at Greyhold say it, to a student, like that.</p><break time="500ms"/>
+<!-- p82 -->
+<p>She got up. She stood there a moment by the table with the spilled spirit dripping onto the floor, and looked at him. A big tired old man in a chair under a lamp, holding his stick across his knees, with his face grey and his eyes on nothing.</p><break time="500ms"/>
+<!-- p83 -->
+<p>She was at the door, with her hand on the latch, under the carved line over the inside of it that you only saw on your way out, when he spoke again.</p><break time="500ms"/>
+<!-- p84 · Hale -->
+<p>“He’s coming back,” said Hale.</p><break time="500ms"/>
+<!-- p85 -->
+<p>She turned.</p><break time="500ms"/>
+<!-- p86 · tension · Hale -->
+<p><prosody rate="97%">“The farmer.” Hale was still looking at the stick. “Rowan had a report. Tonight. At the pyre. He was in Wendmouth. He went into the beast market on Gallows Quay and let out every cage on it in one night, and walked out with a stolen dray-mare, and one of his dragons came down over the harbour in front of half the city. There’s a price on his head. Two hundred silver. The Halloran house and the Tide Council both.” He turned the stick in his hands. “And he’s coming north. Walking. On the drove road, up the Wend, with the mare. And the three of them ranging round him in the dark, the scouts say, like hounds round a drover.” He was quiet a moment. “Toward the river. Toward the Marches. Toward here.”</prosody></p><break time="800ms"/>
+<!-- p87 · Maren -->
+<p>“Why does that frighten you?”</p><break time="500ms"/>
+<!-- p88 -->
+<p>Hale looked up at her then. Finally.</p><break time="500ms"/>
+<!-- p89 · dread · Hale -->
+<p><prosody rate="96%">“Because I don’t know what he is,” he said. “And I don’t think he does either.” He looked past her, once more, down the dark of the archive, at the black door. “Go to bed, Maren.”</prosody></p><break time="800ms"/>
+<!-- p90 · tender -->
+<p><prosody rate="95%">It was the first time he’d ever used her name.</prosody></p><break time="500ms"/>
+<!-- p91 -->
+<p>She went.</p><break time="500ms"/>
+<!-- p92 -->
+<p>On the stair, in the dark, she stopped, and stood with her hand on the cold stone wall, and read the line carved over the inside of the archive door, by the faint light from the lamp behind her.</p><break time="500ms"/>
+<!-- p93 -->
+<p><prosody rate="95%">What is written here is true. What is true is not all written here.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p94 -->
+<p>She went to the island the next night.</p><break time="500ms"/>
+<!-- p95 · quiet -->
+<p><prosody rate="95%">She didn’t tell Hale. She told her mother. Ottery took her, in the punt, in the frost, across the half league of black water from Redwatch with the stars very sharp and the first thin ice beginning to form along the edges of the reeds, so that the punt went through it with a sound like breaking glass.</prosody></p><break time="500ms"/>
+<!-- p96 -->
+<p>The lion wasn’t at the stream.</p><break time="500ms"/>
+<!-- p97 -->
+<p>She came up the stream in the dark at the hour and sat in her place, at fifteen paces, and waited, and it didn’t come. She waited a long time. The frost came down on her. The stars went round. Nothing came out of the trees on the far side.</p><break time="500ms"/>
+<!-- p98 -->
+<p>She went to look for it.</p><break time="500ms"/>
+<!-- p99 -->
+<p>She didn’t go north, into the oaks, where the hollow was. She went the other way, east, up the stream, toward the fort, through the west gate and across the paved road of the old realm, white with frost in the starlight.</p><break time="500ms"/>
+<!-- p100 -->
+<p>It was in the tower.</p><break time="500ms"/>
+<!-- p101 · awe -->
+<p><prosody rate="95%">Not in it. In the arch. Lying across the doorway of the tower, under the verse, the way a dog lies across a threshold. With its great forepaws stretched out on the frosty paving of the road and its head up and the collar on its neck and the cut chain lying beside it. Facing out. Facing the fort, and the road, and the night.</prosody></p><break time="800ms"/>
+<!-- p102 · awe -->
+<p><prosody rate="95%">Keeping the door.</prosody></p><break time="800ms"/>
+<!-- p103 -->
+<p>She stopped on the road. It saw her. Its head turned.</p><break time="500ms"/>
+<!-- p104 -->
+<p>She didn’t go any closer. She sat down where she was, on the cold stone of the old road, in the frost, with her hands open on her knees. She’d counted the paces from the arch without meaning to. Ten.</p><break time="500ms"/>
+<!-- p105 -->
+<p>Its head came down.</p><break time="500ms"/>
+<!-- p106 · quiet -->
+<p><prosody rate="95%">They stayed like that for an hour, the lion lying in the arch of the tower under the verse, and the girl sitting on the frosty road of the old realm ten paces off, with nothing between them. She looked at the verse over its head. She couldn’t read it in the dark. She didn’t need to.</prosody></p><break time="500ms"/>
+<!-- p107 -->
+<p><prosody rate="95%">The last sleeps below the stone. Let no hand wake it.</prosody></p><break time="500ms"/>
+<!-- p108 -->
+<p><prosody rate="95%">Keep the watch below, and do not ask.</prosody></p><break time="500ms"/>
+<!-- p109 -->
+<p>She thought about Hale’s face. About the black door at the end of the archive, and the lock as big as a man’s hand. About a song every child on the river knew, and the story behind it that nobody told any more, wrapped round a cheese.</p><break time="500ms"/>
+<!-- p110 · Maren (thought) -->
+<p><prosody rate="97%" volume="-4dB">It’s keeping the door.</prosody></p><break time="500ms"/>
+<!-- p111 · Maren (thought) -->
+<p><prosody rate="97%" volume="-4dB">What’s it keeping it from?</prosody></p><break time="500ms"/>
+<!-- p112 · tender -->
+<p><prosody rate="95%">When she got up at last to go, stiff, frozen, with her hands numb, the lion got up too. She heard it behind her. She didn’t turn round. She walked back across the road, and through the west gate, and down the stream toward the river, and it came after her, ten paces back. Then twenty. Through the trees, in the dark, with the cut chain dragging softly on the frozen leaves.</prosody></p><break time="500ms"/>
+<!-- p113 -->
+<p>At the edge of the trees above the reeds, where Ottery sat in the punt with his pipe, it stopped.</p><break time="500ms"/>
+<!-- p114 · awe -->
+<p><prosody rate="95%">She turned round then. It was standing at the edge of the trees, in the starlight, with the frost on its mane, looking at her. Ten feet at the shoulder. The great scarred face. The pale eyes.</prosody></p><break time="800ms"/>
+<!-- p115 -->
+<p>It watched her get into the punt. It watched Ottery push off. It watched them go out into the channel, through the thin ice, with the sound of breaking glass, and away across the channel.</p><break time="500ms"/>
+<!-- p116 -->
+<p>She watched it back until the island went into the dark.</p><break time="500ms"/>
+<!-- p117 · Ottery, very quietly -->
+<p><prosody volume="-5dB">“It followed you,”</prosody> said Ottery. Halfway across. Very quietly.</p><break time="500ms"/>
+<!-- p118 · Maren -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p119 · Ottery -->
+<p>“To the water.”</p><break time="500ms"/>
+<!-- p120 · Maren -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p121 -->
+<p>Ottery poled on without saying anything else until the lights of Redwatch were close.</p><break time="500ms"/>
+<!-- p122 · awe: quiet wonder · Ottery -->
+<p><prosody rate="95%">“Nobody,” he said at last, “has ever got that far.”</prosody></p>
+<break time="1800ms"/>
+</voice>
+</speak>

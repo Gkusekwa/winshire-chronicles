@@ -33,6 +33,17 @@
 7. **Metadata:** title, subtitle ("Winshire, Book 1"), description, categories and keywords.
 8. **Upload** to KDP (and the other stores if going wide), and preview on several devices before release.
 
+## Audiobook *(in preparation, Oct 2026)*
+
+- **Book 1's audiobook files are ready to produce** (`Book 1/audiobook/`). They include scripts for any narrator or voice engine, a cast list, pronunciations, and an ElevenLabs kit for one narrator or a full cast. Everything is generated from the manuscript, so it stays in step with the text. The book runs to roughly 32–34 hours.
+- **The author is considering ElevenLabs** for the narration, and for animation. ElevenLabs' Image & Video tools can be used for a trailer or animated pieces built from the art.
+- **Where an AI-narrated audiobook can go** *(check current terms)*:
+  - **Audible's ACX** does not accept AI narration made elsewhere. Amazon's own *Virtual Voice* narrates the KDP ebook itself.
+  - **ElevenReader Publishing** sells in its own app and can distribute to Spotify through Findaway Voices.
+  - **Spotify for Authors** (ElevenLabs narration, from 2026) distributes to Google Play Books.
+  - **Google Play Books** accepts uploaded AI-narrated audio.
+- **Disclosure:** the opening and closing credits say the book is narrated by a digital voice.
+
 ## Rights and the Winshire name
 
 - **Keep all rights.** Don't sign anything that grants exclusive rights to the story, characters or world. Editors, designers and formatting services should work for hire, with you owning the result.
@@ -58,3 +69,4 @@
 - Which editor and cover designer?
 - Publish under your own name or a pen name, and under what imprint name?
 - Release Book 1 alone, or the three close together?
+- The audiobook: which route (ElevenReader, Spotify for Authors, Google Play), one narrator or a full cast, and the names marked *confirm* in `Book 1/audiobook/Pronunciation_Guide.md`.

@@ -1,0 +1,1370 @@
+{
+ "chapter": 2,
+ "title": "Across the River",
+ "pov": "Calder",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Two.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Across the River.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "His mother had a saying for every weather, and none of them were any use.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "verse",
+   "text": "Red smoke at morning, the Clan’s in mourning.",
+   "speaker": "Ada"
+  },
+  {
+   "seq": 5,
+   "para": "p2",
+   "type": "narration",
+   "text": "She said that one in the doorway with her shawl pulled tight, looking north to where the smoke from Varrhold lay along the hills like a stain on a sleeve. It had been lying there three days. Everyone in Harrow’s End knew what it meant. Haldor Varr was dead, and the Clan was burning him slowly, the way they burned chiefs, so the smoke could be seen in every valley he had ever taxed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "speech",
+   "text": "“It’s a poor rhyme,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 7,
+   "para": "p3",
+   "type": "narration",
+   "text": "Calder said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p4",
+   "type": "speech",
+   "text": "“It’s an old one.”",
+   "speaker": "Ada"
+  },
+  {
+   "seq": 9,
+   "para": "p4",
+   "type": "narration",
+   "text": "Ada Fenn went back in to the fire."
+  },
+  {
+   "seq": 10,
+   "para": "p4",
+   "type": "speech",
+   "text": "“Old ones don’t have to be good. They have to be true.”",
+   "speaker": "Ada",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p5",
+   "type": "narration",
+   "text": "On the Saltreach bank of the Wend they say the river was put there to keep the knights off, and that it has done a fair job of it. The farms on that side are older than the kingdom they belong to, if a league of port-cities with no king can be called a kingdom, which on the river it always is, and most of them have never seen a tax collector, because Saltreach keeps its collectors in the port-cities on the coast, a long way south, where the money is. What the Marches farmers pay, they pay to the Clan. Grain at harvest, wool at shearing, a calf when the hold asks for one. In return the Clan keeps the sellswords out of the valley and the dragons off the sheep, mostly, and nobody has to think too hard about whether that’s a fair arrangement or the other kind.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p6",
+   "type": "narration",
+   "text": "Calder Fenn had never thought about it at all. He had paid the dues every year since his father died, the same as his father had. It was cheaper than thinking.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 13,
+   "para": "p7",
+   "type": "narration",
+   "text": "Wren was at the table with her porridge, eating it the way she did everything, one careful edge at a time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p8",
+   "type": "speech",
+   "text": "“Will they burn him all week?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p9",
+   "type": "speech",
+   "text": "“Till the new moon,”",
+   "speaker": "Ada"
+  },
+  {
+   "seq": 16,
+   "para": "p9",
+   "type": "narration",
+   "text": "said Ada."
+  },
+  {
+   "seq": 17,
+   "para": "p9",
+   "type": "speech",
+   "text": "“Then they scatter him on Coldtarn.”",
+   "speaker": "Ada",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p10",
+   "type": "speech",
+   "text": "“Why the new moon?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p11",
+   "type": "speech",
+   "text": "“Because it isn’t the full one.”",
+   "speaker": "Ada",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p12",
+   "type": "narration",
+   "text": "Wren thought about this and decided to let it go, which was new. She was nine. Last year she’d have followed it all the way down. She had her mother’s habit of going quiet when she was storing something, and Calder had stopped trying to guess what she did with it all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p13",
+   "type": "speech",
+   "text": "“Davy Garrow says there’ll be a war,”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 22,
+   "para": "p13",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p14",
+   "type": "speech",
+   "text": "“Davy Garrow is ten.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p15",
+   "type": "speech",
+   "text": "“Ten and a half. He says the uncle wants the hold and the sons want the hold, and when two lots want the same thing you get a war.”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 25,
+   "para": "p15",
+   "type": "narration",
+   "text": "She licked her spoon."
+  },
+  {
+   "seq": 26,
+   "para": "p15",
+   "type": "speech",
+   "text": "“He says the uncle’s the best fighter in the Clan, so he’ll win.”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p16",
+   "type": "speech",
+   "text": "“Eat.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p17",
+   "type": "speech",
+   "text": "“Will he?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p18",
+   "type": "narration",
+   "text": "Calder pulled his boots on. They were still damp from yesterday and would be damp tomorrow."
+  },
+  {
+   "seq": 30,
+   "para": "p18",
+   "type": "speech",
+   "text": "“Whoever gets the hold,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 31,
+   "para": "p18",
+   "type": "narration",
+   "text": "he said,"
+  },
+  {
+   "seq": 32,
+   "para": "p18",
+   "type": "speech",
+   "text": "“the barley still needs cutting. And Bramble’s foot still needs seeing to. And you’ve still got porridge.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p19",
+   "type": "narration",
+   "text": "She looked at him over the bowl, a long, level look that was entirely Senna’s. Then she ate the porridge.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 34,
+   "para": "p20",
+   "type": "narration",
+   "text": "The cow had an abscess in her hoof and no opinions about the Clan. He liked her for it. Ada had said her cow-words over the foot two mornings running, which worked about one time in three, and this was not one of the three, so now it was the knife.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p21",
+   "type": "narration",
+   "text": "He had Bramble tied short to the ring in the byre wall and her off-hind foot up on his knee, and he was talking to her the whole time because she liked that, and because his father had talked to cows and Calder had never found a reason to stop.",
+   "mood": "humour"
+  },
+  {
+   "seq": 36,
+   "para": "p21",
+   "type": "speech",
+   "text": "“There,”",
+   "speaker": "Calder",
+   "mood": "humour"
+  },
+  {
+   "seq": 37,
+   "para": "p21",
+   "type": "narration",
+   "text": "he told her.",
+   "mood": "humour"
+  },
+  {
+   "seq": 38,
+   "para": "p21",
+   "type": "speech",
+   "text": "“That’s the bad bit. Hold still. Hold still, you great soft lump. Nobody’s cutting anything off you that you’ll miss.”",
+   "speaker": "Calder",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p22",
+   "type": "narration",
+   "text": "She leaned on him. She was very good at leaning. He had the knife in and the muck coming out, and was feeling quite pleased with both of them, when the light went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p23",
+   "type": "narration",
+   "text": "Cloud came slowly. This was a hand closing over the yard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p24",
+   "type": "narration",
+   "text": "Bramble screamed, the long, cracked, outraged bellow of a cow who has been lied to, and kicked, and put him flat on his back in the byre muck with the knife still in his fist.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p25",
+   "type": "narration",
+   "text": "He lay there and looked up through the open half of the roof.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p26",
+   "type": "narration",
+   "text": "They were low. Lower than he’d ever seen them come over the farms. Seven of them, black against the white sky, going south-west from the hills toward the river, and he could see the plates along their bellies and the shine on the nearest one’s claws, folded up neat as a sleeping dog’s. They went over without a sound. Then the wind of them came down a moment later, all at once, and every loose thing in the yard went flying, the hens and the straw and Wren’s washing off the line.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 44,
+   "para": "p27",
+   "type": "narration",
+   "text": "Calder got up on one elbow and watched them reach the Wend and turn, all seven together, and follow it south, past the trees of the Old Ruin’s island, along the border, toward the grey smudge on the far bank that was Greyhold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p28",
+   "type": "speech",
+   "text": "“Well,”",
+   "speaker": "Calder",
+   "mood": "humour"
+  },
+  {
+   "seq": 46,
+   "para": "p28",
+   "type": "narration",
+   "text": "he told the cow.",
+   "mood": "humour"
+  },
+  {
+   "seq": 47,
+   "para": "p28",
+   "type": "speech",
+   "text": "“There goes the harvest.”",
+   "speaker": "Calder",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p29",
+   "type": "narration",
+   "text": "Bramble looked at him with deep dislike.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p30",
+   "type": "narration",
+   "text": "He knew what it was. Everyone over forty would know. When a Clan chief died, the Clan flew the border, the whole length of the Marches, once, on the third day. It was meant to be a mourning. It was also meant to remind everyone on both banks, and especially the knights, that a dead chief didn’t mean a weak Clan. Calder’s father had seen it done for Haldor’s father. He’d said the dragons had come over so low that you could have hit one with a thrown stone, if you’d wanted to die that particular way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p31",
+   "type": "narration",
+   "text": "Seven, though. His father had said three.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p32",
+   "type": "narration",
+   "text": "Calder wiped his hand on his trousers, which did nothing, and went to get Wren’s washing out of the plum tree.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 52,
+   "para": "p33",
+   "type": "narration",
+   "text": "In the afternoon he took the last of the old barley to the mill, because Hob had sent twice for it, and because the mill was where you went if you wanted to hear things without being seen to want to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p34",
+   "type": "narration",
+   "text": "Harrow’s End was thirty-one houses, a mill, a shrine to the gods at the crossroads, and one long argument about water that had been running since before anyone could remember. The houses were river stone at the bottom and tarred timber at the top, with turf on the roofs that the goats got onto every spring. Hollow Beck ran down through the middle of it from the Scarfell, fast and brown, and turned Hob’s wheel, and went on into the Wend opposite the Old Ruin, where nobody went. The wheel had a charm-tag nailed to its hub that Hob had paid a Wendmouth contract-man two silver for, warranted, and it squealed exactly as it always had.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p35",
+   "type": "narration",
+   "text": "There were eight men at the mill and none of them were grinding anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p36",
+   "type": "speech",
+   "text": "“Seven,”",
+   "speaker": "Hob"
+  },
+  {
+   "seq": 56,
+   "para": "p36",
+   "type": "narration",
+   "text": "Hob was saying when Calder came in with the sack."
+  },
+  {
+   "seq": 57,
+   "para": "p36",
+   "type": "speech",
+   "text": "“Seven. For a funeral.”",
+   "speaker": "Hob",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p37",
+   "type": "speech",
+   "text": "“It’s a big funeral.”",
+   "speaker": "a villager",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p38",
+   "type": "speech",
+   "text": "“It’s a big hint, is what it is.”",
+   "speaker": "Hob"
+  },
+  {
+   "seq": 60,
+   "para": "p38",
+   "type": "narration",
+   "text": "Hob took the sack off Calder without looking at it and weighed it with one hand and named a price that was an insult. Calder nodded. Hob was the miller; his prices were how he said hello."
+  },
+  {
+   "seq": 61,
+   "para": "p38",
+   "type": "speech",
+   "text": "“That’s Ulric showing the sons how many dragons he can put in the air. Three of those were his own riders. I’d swear to it.”",
+   "speaker": "Hob",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p39",
+   "type": "speech",
+   "text": "“You’d swear to anything,”",
+   "speaker": "old Garrow"
+  },
+  {
+   "seq": 63,
+   "para": "p39",
+   "type": "narration",
+   "text": "said old Garrow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p40",
+   "type": "speech",
+   "text": "“Then it’s the sons showing Ulric. Either way.”",
+   "speaker": "Hob"
+  },
+  {
+   "seq": 65,
+   "para": "p40",
+   "type": "narration",
+   "text": "Hob slapped the sack down."
+  },
+  {
+   "seq": 66,
+   "para": "p40",
+   "type": "speech",
+   "text": "“Somebody’s counting.”",
+   "speaker": "Hob",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p41",
+   "type": "narration",
+   "text": "They argued it like weather. Ulric Varr, the old chief’s brother, the best warrior the Clan had, with more men in his hall than his brother ever had in his. Everyone had always said Ulric should have been chief and then everyone had always said it quietly. Arn, the elder son, who had his father’s name in his favour and his father’s temper against him. Teo, the younger, who had come through Harrow’s End at lambing two springs ago with a dozen riders and a hangover, and had stayed three days to help pull lambs because, he said, he’d never done it, and everyone in the village had liked him for it, and been a little ashamed of liking him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p42",
+   "type": "speech",
+   "text": "“Teo’ll keep the peace between them,”",
+   "speaker": "Wat Garrow"
+  },
+  {
+   "seq": 69,
+   "para": "p42",
+   "type": "narration",
+   "text": "said Garrow’s son."
+  },
+  {
+   "seq": 70,
+   "para": "p42",
+   "type": "speech",
+   "text": "“He’s the only one both sides listen to.”",
+   "speaker": "Wat Garrow",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p43",
+   "type": "speech",
+   "text": "“Teo’s twenty.”",
+   "speaker": "a villager",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p44",
+   "type": "speech",
+   "text": "“Ulric was twenty once.”",
+   "speaker": "Wat Garrow",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p45",
+   "type": "speech",
+   "text": "“Ulric was never twenty. He was born forty and holding an axe.”",
+   "speaker": "Hob",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p46",
+   "type": "narration",
+   "text": "They laughed. Calder laughed too, a little behind the rest.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p47",
+   "type": "speech",
+   "text": "“What about you, Fenn?”",
+   "speaker": "Hob"
+  },
+  {
+   "seq": 76,
+   "para": "p47",
+   "type": "narration",
+   "text": "said Hob."
+  },
+  {
+   "seq": 77,
+   "para": "p47",
+   "type": "speech",
+   "text": "“Where’s your money, for the hold?”",
+   "speaker": "Hob",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p48",
+   "type": "narration",
+   "text": "He thought about it."
+  },
+  {
+   "seq": 79,
+   "para": "p48",
+   "type": "speech",
+   "text": "“Whoever’s buying barley.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p49",
+   "type": "speech",
+   "text": "“That’s not an answer.”",
+   "speaker": "Hob",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p50",
+   "type": "speech",
+   "text": "“It’s the one I’ve got.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p51",
+   "type": "narration",
+   "text": "Hob gave him a look that said he’d expected nothing better, and paid him short by two coppers, and Calder let him. On the way out he stopped at the crossroads shrine, as everybody did, and put one of the coppers he had left in the bowl. Some days it was for the gods. Some days it was for whoever emptied the bowl. He’d never asked which, because he didn’t want to know.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 83,
+   "para": "p52",
+   "type": "narration",
+   "text": "After supper Wren wanted the song.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p53",
+   "type": "narration",
+   "text": "She was too old for it and they both knew it and Ada sang it anyway, sitting by the fire with her hands in her lap. Calder sat on the other side with a harness across his knees that didn’t need mending and mended it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p54",
+   "type": "narration",
+   "text": "Ada had a thin voice that had once been better. It didn’t matter. She’d sung this one so often that the tune carried itself, low and slow and going somewhere sad without being in any hurry to get there.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p55",
+   "type": "verse",
+   "text": "Before the six there was one,",
+   "speaker": "Ada",
+   "how": "singing",
+   "mood": "quiet"
+  },
+  {
+   "seq": 87,
+   "para": "p55",
+   "type": "verse",
+   "text": "and the one was Winshire,",
+   "speaker": "Ada",
+   "how": "singing",
+   "mood": "quiet"
+  },
+  {
+   "seq": 88,
+   "para": "p55",
+   "type": "verse",
+   "text": "and the old ones walked it unbound",
+   "speaker": "Ada",
+   "how": "singing",
+   "mood": "quiet"
+  },
+  {
+   "seq": 89,
+   "para": "p55",
+   "type": "verse",
+   "text": "by water and by fire.",
+   "speaker": "Ada",
+   "how": "singing",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p56",
+   "type": "verse",
+   "text": "The old ones went up into the light,",
+   "speaker": "Ada",
+   "how": "singing",
+   "mood": "quiet"
+  },
+  {
+   "seq": 91,
+   "para": "p56",
+   "type": "verse",
+   "text": "and the one fell into six,",
+   "speaker": "Ada",
+   "how": "singing",
+   "mood": "quiet"
+  },
+  {
+   "seq": 92,
+   "para": "p56",
+   "type": "verse",
+   "text": "and the last great beast lay down below",
+   "speaker": "Ada",
+   "how": "singing",
+   "mood": "quiet"
+  },
+  {
+   "seq": 93,
+   "para": "p56",
+   "type": "verse",
+   "text": "to sleep in stone and dark.",
+   "speaker": "Ada",
+   "how": "singing",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p57",
+   "type": "verse",
+   "text": "Hush now, the last one’s sleeping.",
+   "speaker": "Ada",
+   "how": "singing",
+   "mood": "quiet"
+  },
+  {
+   "seq": 95,
+   "para": "p57",
+   "type": "verse",
+   "text": "Hush now, you’ll wake it if you weep.",
+   "speaker": "Ada",
+   "how": "singing",
+   "mood": "quiet"
+  },
+  {
+   "seq": 96,
+   "para": "p57",
+   "type": "verse",
+   "text": "It sleeps under all of us, sleeping,",
+   "speaker": "Ada",
+   "how": "singing",
+   "mood": "quiet"
+  },
+  {
+   "seq": 97,
+   "para": "p57",
+   "type": "verse",
+   "text": "till the six are one again.",
+   "speaker": "Ada",
+   "how": "singing",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p58",
+   "type": "narration",
+   "text": "The fire ticked. Somewhere outside a goat complained about the roof.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p59",
+   "type": "speech",
+   "text": "“Who were the old ones?”",
+   "speaker": "Wren"
+  },
+  {
+   "seq": 100,
+   "para": "p59",
+   "type": "narration",
+   "text": "said Wren. She knew. She asked anyway. It was part of the song.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p60",
+   "type": "speech",
+   "text": "“The gods.”",
+   "speaker": "Ada"
+  },
+  {
+   "seq": 102,
+   "para": "p60",
+   "type": "narration",
+   "text": "Ada didn’t look up."
+  },
+  {
+   "seq": 103,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Before they went into the light. They walked about like you or me, the old women say, only bigger, and nobody could tell them where to go.”",
+   "speaker": "Ada",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p61",
+   "type": "speech",
+   "text": "“That’s what unbound means.”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p62",
+   "type": "speech",
+   "text": "“That’s what unbound means. Which is more than I can say for you. Bed.”",
+   "speaker": "Ada",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p63",
+   "type": "speech",
+   "text": "“And the last great beast?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p64",
+   "type": "speech",
+   "text": "“Sleeps.”",
+   "speaker": "Ada",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p65",
+   "type": "speech",
+   "text": "“Where?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p66",
+   "type": "speech",
+   "text": "“Under somewhere.”",
+   "speaker": "Ada"
+  },
+  {
+   "seq": 110,
+   "para": "p66",
+   "type": "narration",
+   "text": "Ada smiled a little at the fire."
+  },
+  {
+   "seq": 111,
+   "para": "p66",
+   "type": "speech",
+   "text": "“That’s the point of a song, love. You don’t find out.”",
+   "speaker": "Ada",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p67",
+   "type": "speech",
+   "text": "“What happens when the six are one again?”",
+   "speaker": "Wren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p68",
+   "type": "narration",
+   "text": "Ada didn’t answer that one. She never did. She sang the last verse faster than the others, Calder had noticed years ago, as you walk faster past a dog you don’t know, and when Wren asked about it she always found something that needed doing. Tonight it was the kettle.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p69",
+   "type": "narration",
+   "text": "Calder put Wren to bed in the loft, under the eaves where the warm from the fire collected, and she was asleep before he’d got the blanket straight. He stood there a while. She slept with her fists up by her face like a baby, still, at nine. Senna had slept like that.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p70",
+   "type": "narration",
+   "text": "He went down and out to check the byre, because he always did, and because he wanted the air.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p71",
+   "type": "narration",
+   "text": "That was when he saw the fire.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 117,
+   "para": "p72",
+   "type": "narration",
+   "text": "It was upriver, north, past the bend. A dull orange smear on the bottom of the cloud. Then, while he watched, a second one beside it. Then a third, small and sharp, further back from the water.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 118,
+   "para": "p73",
+   "type": "narration",
+   "text": "Upper Rush.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 119,
+   "para": "p74",
+   "type": "narration",
+   "text": "He stood with his hand on the byre door and did nothing for a long breath, which was the thing he always did, and which had kept him alive and out of trouble for thirty-two years. Then he thought of Bel.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p75",
+   "type": "narration",
+   "text": "He was running before he’d decided to.",
+   "mood": "urgent",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 121,
+   "para": "p76",
+   "type": "narration",
+   "text": "It was two leagues up the river lane to Upper Rush. He’d never run it before. By the time he got there his chest was a fist and there were four other men from Harrow’s End strung out behind him on the lane with lanterns, Garrow and his son and Hob, of all people, and one of the Tanner boys, and the fires had mostly done what fires do.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p77",
+   "type": "narration",
+   "text": "Upper Rush was four farms in a hollow above the river. Two of the barns were gone, just gone, black ribs standing up in a red glow, and the third was going, and there was no point in water. People stood around in their nightclothes in the yard of the nearest farm, holding things they’d grabbed without thinking. A woman with a clock. A boy with one boot.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 123,
+   "para": "p78",
+   "type": "narration",
+   "text": "Bel was in the middle of them, filthy to the elbows, with her husband Joss beside her and their two little ones wrapped together in one blanket at her feet. She saw Calder and her face went through about five things and landed on angry, which was how he knew she was all right.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p79",
+   "type": "speech",
+   "text": "“You ran,”",
+   "speaker": "Bel"
+  },
+  {
+   "seq": 125,
+   "para": "p79",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p80",
+   "type": "speech",
+   "text": "“I walked fast.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p81",
+   "type": "speech",
+   "text": "“You ran. You’re purple.”",
+   "speaker": "Bel",
+   "mood": "tender"
+  },
+  {
+   "seq": 128,
+   "para": "p81",
+   "type": "narration",
+   "text": "She hit him in the chest, not hard.",
+   "mood": "tender"
+  },
+  {
+   "seq": 129,
+   "para": "p81",
+   "type": "speech",
+   "text": "“We’re all right. We’re all right. The house is all right.”",
+   "speaker": "Bel",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p82",
+   "type": "speech",
+   "text": "“What happened?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p83",
+   "type": "narration",
+   "text": "Joss answered. He was a big, slow, gentle man who bred dray-beasts, and his voice had gone strange and thin.",
+   "mood": "grief"
+  },
+  {
+   "seq": 132,
+   "para": "p83",
+   "type": "speech",
+   "text": "“They came just on dark. Twenty, maybe more. Masks. No colours. They didn’t come for the houses.”",
+   "speaker": "Joss",
+   "mood": "grief"
+  },
+  {
+   "seq": 133,
+   "para": "p83",
+   "type": "narration",
+   "text": "He looked at the burning barn.",
+   "mood": "grief"
+  },
+  {
+   "seq": 134,
+   "para": "p83",
+   "type": "speech",
+   "text": "“They came for the beasts. They knew which barns. They had them roped and out before we were even down the ladder, and then they fired the barns behind them. Like you’d shut a door.”",
+   "speaker": "Joss",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 135,
+   "para": "p84",
+   "type": "speech",
+   "text": "“All of them?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p85",
+   "type": "speech",
+   "text": "“My two greys. Hollin’s ox-beast. The Pellow girl’s hound, the one that finds the lambs in fog.”",
+   "speaker": "Joss",
+   "mood": "grief"
+  },
+  {
+   "seq": 137,
+   "para": "p85",
+   "type": "narration",
+   "text": "Joss swallowed.",
+   "mood": "grief"
+  },
+  {
+   "seq": 138,
+   "para": "p85",
+   "type": "speech",
+   "text": "“They had a cage for the hound. On a cart. A cage.”",
+   "speaker": "Joss",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 139,
+   "para": "p86",
+   "type": "speech",
+   "text": "“It’s the Clan,”",
+   "speaker": "Hollin"
+  },
+  {
+   "seq": 140,
+   "para": "p86",
+   "type": "narration",
+   "text": "said someone in the crowd. Hollin, whose ox-beast was gone."
+  },
+  {
+   "seq": 141,
+   "para": "p86",
+   "type": "speech",
+   "text": "“It’s Ulric’s men, getting their hands in before the war. Or the sons’. They want beasts for the fighting and they don’t want to pay for them.”",
+   "speaker": "Hollin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p87",
+   "type": "narration",
+   "text": "There was a growl of agreement. It had a shape to it that was easy to hold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p88",
+   "type": "speech",
+   "text": "“The Clan’s got dragons,”",
+   "speaker": "Hob"
+  },
+  {
+   "seq": 144,
+   "para": "p88",
+   "type": "narration",
+   "text": "said Hob."
+  },
+  {
+   "seq": 145,
+   "para": "p88",
+   "type": "speech",
+   "text": "“What’s an ox worth to a man with a dragon?”",
+   "speaker": "Hob",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p89",
+   "type": "speech",
+   "text": "“Eat it, maybe.”",
+   "speaker": "a villager",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p90",
+   "type": "narration",
+   "text": "That got a bad laugh. Calder didn’t laugh. He was looking at the yard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p91",
+   "type": "narration",
+   "text": "It was churned to mud, as any yard is after twenty men and a lot of frightened animals have been through it. But across the mud, plain in the light of the burning barn, ran two deep ruts. A cart, heavy, iron-tyred. They went out of the yard and down the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p92",
+   "type": "narration",
+   "text": "Not up toward the lane and the hills and Varrhold. Down. Toward the river.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 150,
+   "para": "p93",
+   "type": "narration",
+   "text": "The Clan didn’t use carts. The Clan didn’t need to. Anything the Clan wanted, it carried home in the air.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p94",
+   "type": "narration",
+   "text": "He walked along the ruts a little way, out of the lantern light, and something turned under his boot. He bent and picked it up. A length of chain, five links, as long as his forearm, the last link cut clean through. The metal was dark and good and heavier than it should have been, and each link had a mark stamped into it that he didn’t know: a small ring of six dots, neat as a smith’s, like six seeds laid in a circle.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 152,
+   "para": "p95",
+   "type": "narration",
+   "text": "He’d seen chain like it once, years ago, on a Saltreach barge that came up the Wend selling things nobody in Harrow’s End could afford. Beast chain. The kind you used on something that might pull a wall down to get at you.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p96",
+   "type": "speech",
+   "text": "“Calder?”",
+   "speaker": "Bel"
+  },
+  {
+   "seq": 154,
+   "para": "p96",
+   "type": "narration",
+   "text": "Bel had followed him. She stood at the edge of the light with her arms wrapped round herself."
+  },
+  {
+   "seq": 155,
+   "para": "p96",
+   "type": "speech",
+   "text": "“What’ve you got?”",
+   "speaker": "Bel",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p97",
+   "type": "narration",
+   "text": "He closed his hand."
+  },
+  {
+   "seq": 157,
+   "para": "p97",
+   "type": "speech",
+   "text": "“Nothing. Bit of harness.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p98",
+   "type": "narration",
+   "text": "She looked at his fist, and then at his face, and she was his sister and had been looking at that face all her life.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p99",
+   "type": "speech",
+   "text": "“Say it, then,”",
+   "speaker": "Bel"
+  },
+  {
+   "seq": 160,
+   "para": "p99",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p100",
+   "type": "speech",
+   "text": "“Say what?”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p101",
+   "type": "speech",
+   "text": "“Whatever you’re not saying.”",
+   "speaker": "Bel",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p102",
+   "type": "narration",
+   "text": "The barn roof went in behind them with a long, soft roar, and sparks went up into the dark, and everyone in the yard stepped back at once.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p103",
+   "type": "speech",
+   "text": "“It’s late,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 165,
+   "para": "p103",
+   "type": "narration",
+   "text": "Calder said."
+  },
+  {
+   "seq": 166,
+   "para": "p103",
+   "type": "speech",
+   "text": "“You should get the little ones inside.”",
+   "speaker": "Calder",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 167,
+   "para": "p104",
+   "type": "narration",
+   "text": "He stayed till the fire was down to embers and the men from Harrow’s End had done what they could, which was nothing, and then he walked down to the river to wash the smoke off his face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p105",
+   "type": "narration",
+   "text": "The Wend was wide and black here and moving fast. On the far side, a long way off, the Hearthmere bank was a low line against a slightly lighter sky, and on that line, small and steady, well down the river, were lights. A row of them, high up, too regular for houses. Lanterns on a wall. Crown lamps, Ada called them, that burned all night on nothing at all, though she’d never been closer to one than this.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p106",
+   "type": "narration",
+   "text": "Joss had come down behind him. He stood with his big hands hanging and looked across the water at them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p107",
+   "type": "speech",
+   "text": "“Greyhold,”",
+   "speaker": "Joss"
+  },
+  {
+   "seq": 171,
+   "para": "p107",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 172,
+   "para": "p107",
+   "type": "speech",
+   "text": "“The knights’ school. They’ll have seen it. They’ll have watched the whole thing.”",
+   "speaker": "Joss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p108",
+   "type": "speech",
+   "text": "“Probably.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p109",
+   "type": "speech",
+   "text": "“Three barns going up a few leagues from their wall. And they’ll have stood there and watched.”",
+   "speaker": "Joss"
+  },
+  {
+   "seq": 175,
+   "para": "p109",
+   "type": "narration",
+   "text": "Joss spat in the river."
+  },
+  {
+   "seq": 176,
+   "para": "p109",
+   "type": "speech",
+   "text": "“They’ll not cross.”",
+   "speaker": "Joss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p110",
+   "type": "speech",
+   "text": "“They never do,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 178,
+   "para": "p110",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p111",
+   "type": "narration",
+   "text": "He didn’t mean anything by it. It was just a thing everyone said, like the thing about red smoke, and it was true in the same way, which is to say it had always been true so far.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p112",
+   "type": "narration",
+   "text": "The lanterns on the far wall didn’t move. After a while one of them went out, and then the others, one by one, as if someone over there had finished looking and gone to bed.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p113",
+   "type": "narration",
+   "text": "Calder walked home in the dark. Two leagues. He didn’t run it this time. The chain was in his coat pocket, and it knocked against his hip with every step, and by the time he got to his own door it had got so heavy that he’d almost made up his mind to tell someone about it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p114",
+   "type": "narration",
+   "text": "He hung the coat on its peg and went up to check on Wren. She was still asleep, fists up by her face. Downstairs, his mother had banked the fire and left the kettle on the hob for him, the way she always did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p115",
+   "type": "narration",
+   "text": "He didn’t tell anyone. It was the kind of thing he was good at.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  }
+ ]
+}

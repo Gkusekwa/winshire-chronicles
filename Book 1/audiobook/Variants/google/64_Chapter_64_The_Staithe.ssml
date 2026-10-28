@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<!-- The Watch Below, Chapter 64: The Staithe. Point of view: Calder. -->
+<p><s>Chapter Sixty-four.</s></p><break time="800ms"/>
+<p><s>The Staithe.</s></p><break time="1800ms"/>
+<!-- p1 -->
+<p>They came down the river lane from Upper Rush in the middle of the night.</p><break time="500ms"/>
+<!-- p2 · quiet -->
+<p><prosody rate="95%"><sub alias="Bell">Bel</sub> with the handcart, piled with everything that would go on it: bedding, the good pot, Joss’s harness, the clock that didn’t go, the box with the papers from the farm. Pip and Nan walking on either side of it with a hand on the rail each, because <sub alias="Bell">Bel</sub> had said so, too sleepy to argue. After the first league they were asleep on top of the bedding. Ada behind, in her best shawl, with a bundle on her back and her stick. Wren beside her.</prosody></p><break time="500ms"/>
+<!-- p3 -->
+<p>And the greys.</p><break time="500ms"/>
+<!-- p4 · quiet -->
+<p><prosody rate="95%"><sub alias="Cawlder">Calder</sub> led them. Mabbin first, then Sorrel, then Old Grey, each on a halter, roped head to tail. Three dray-beasts in a line in the dark, eight feet at the shoulder and more, the biggest beasts in the Marches, walking down the river lane in the mud with their great hooves going down soft and heavy, <emphasis level="moderate">thud</emphasis>, <emphasis level="moderate">thud</emphasis>, and their breath going up white. Old Grey at the back with his head low. Following the rope. Following anything.</prosody></p><break time="500ms"/>
+<!-- p5 -->
+<p><sub alias="Cawlder">Calder</sub> walked at Mabbin’s head in Joss’s long carter’s coat with the cape on the shoulders.</p><break time="500ms"/>
+<!-- p6 · Lisska (bond, to Calder) -->
+<p>Far above, out of sight, he felt <sub alias="Liska">Lisska</sub>. High over the river, in the last of the dark, keeping watch. <prosody rate="94%" volume="-2dB">Nobody on the lane,</prosody> she said. <prosody rate="94%" volume="-2dB">Nobody on the road. Nobody in the fields. Some lights at the <sub alias="Stathe">Staithe</sub>. Not many.</prosody></p><break time="500ms"/>
+<!-- p7 · Calder (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">Stay high.</prosody></p><break time="500ms"/>
+<!-- p8 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">I’m high. I’m so high I’m cold.</prosody> A pause. <prosody rate="94%" volume="-2dB">Is Wren all right?</prosody></p><break time="500ms"/>
+<!-- p9 · tender -->
+<p><prosody rate="95%">He looked back. Wren was walking beside Ada with her hand in her grandmother’s, and her face up. Looking at the sky. At the place where there was nothing to see.</prosody></p><break time="500ms"/>
+<!-- p10 · Calder (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">She’s looking for you,</prosody> he said.</p><break time="500ms"/>
+<!-- p11 · tender · Lisska (bond, to Calder) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">I know,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">I can see her.</prosody></prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p12 -->
+<p>It was the best part of six leagues to the <sub alias="Stathe">Staithe</sub> by the river lane. Past the burned bottom of Harrow’s End, with nobody in it. Past the <sub alias="Eel-weer">Eelweir</sub>, where there was a light in Fisk’s door and Fisk standing in it with his pipe, who lifted his hand as they went by and didn’t come out. Past the long reach below the village where the lane ran close along the water and you could see the island, upriver, dark, with the stump of its tower against the first grey of the sky.</p><break time="500ms"/>
+<!-- p13 -->
+<p>Wren looked at it all the way along that reach.</p><break time="500ms"/>
+<!-- p14 · Wren -->
+<p>“Is she there?” she said. “The lion-woman?”</p><break time="500ms"/>
+<!-- p15 · Calder -->
+<p>“No,” said <sub alias="Cawlder">Calder</sub>. “Not any more.”</p><break time="500ms"/>
+<!-- p16 · Wren -->
+<p>“How do you know?”</p><break time="500ms"/>
+<!-- p17 · dread · Lisska (remembered) -->
+<p><prosody rate="96%">He didn’t. He thought of <sub alias="Liska">Lisska</sub> on the crag two nights ago, watching the island at dusk. <prosody volume="-3dB">Lights in the trees. Hounds. A lot of men in the reeds on the far side. And then her and the cat running. Running east. And the cat went in the water.</prosody> She’d lost them after that, in the dark. She’d been frightened, coming back. She hadn’t wanted to talk about it.</prosody></p><break time="800ms"/>
+<!-- p18 · Calder -->
+<p>“<sub alias="Liska">Lisska</sub> saw,” he said.</p><break time="500ms"/>
+<!-- p19 -->
+<p>Wren looked at him sideways. She didn’t ask anything else.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p20 -->
+<p>They came to the <sub alias="Stathe">Staithe</sub> as the sky went grey, and it was nearly empty.</p><break time="500ms"/>
+<!-- p21 -->
+<p>He’d been there a hundred times. Every autumn of his life, with the barley, down the lane on the wain to sell to the <sub alias="Harthmeer">Hearthmere</sub> factors who came over on the ferry. It had always been full. Carts, beasts, men shouting prices, Greta’s smoke-house going and the smell of eels over everything, and old Tolly sitting on his upturned boat by the weirs telling anybody who’d listen that the river was lower than it had been in his grandfather’s day.</p><break time="500ms"/>
+<!-- p22 · humour: goat charms -->
+<p>Tolly was on his boat. Greta’s smoke-house was going. A few families stood on the timber jetty with their bundles, waiting. The Penhallows’ cousins from Low Ashby, and a man with two goats he didn’t know. That was all. And a woman from down the coast with a tray on a strap round her neck, going up and down the jetty selling crossing-charms. Strips of tin with a word scratched on, a copper each, warranted. The Low Ashby family had bought two and the man with the goats had bought one for each goat.</p><break time="500ms"/>
+<!-- p23 -->
+<p>Across the water, on its hill, was Greyhold.</p><break time="500ms"/>
+<!-- p24 · dread -->
+<p><prosody rate="96%">He’d seen it from the Scar, and from <sub alias="Orveth">Aurveth</sub>’s back, high up. He’d stood here every autumn of his life and never looked at it. He looked now. It was right there, across a river a long bowshot wide. The grey walls going round the hill. The scaffolds on the river wall, and the new timber hoardings along the top of it, raw and yellow in the dawn. The engines on the river towers, black, with their long arms. And the smoke. A dozen black threads going straight up out of the yards inside the walls into the still air, and the sound of hammering coming across the water, faint and steady. <emphasis level="moderate">Tink. Tink. Tink.</emphasis></prosody></p><break time="800ms"/>
+<!-- p25 -->
+<p>Below the walls, at the water’s edge, a stone jetty, and a little house with a red door.</p><break time="500ms"/>
+<!-- p26 -->
+<p>The ferry was coming across from it on the rope.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p27 · Liss (remembered); Calder (remembered) -->
+<p>He’d known Liss Ashdown for twenty years, as you know the ferrywoman. He’d bought from her factors and sold to them, and stood on this jetty while she brought the boat in, and nodded, and she’d nodded back, and now and then she’d said <prosody volume="-3dB">Fenn,</prosody> and he’d said <prosody volume="-3dB">Mistress Ashdown,</prosody> and that was all.</p><break time="500ms"/>
+<!-- p28 -->
+<p>She brought the ferry in to the timber jetty and made it fast and stood up in the stern and looked at the people waiting. A broad strong woman with a weathered face and grey hair bound up in a scarf, in a man’s coat with the sleeves turned back. She looked at the families with their bundles. At the man with the goats. At <sub alias="Bell">Bel</sub> and the handcart and the children. At the three greys.</p><break time="500ms"/>
+<!-- p29 -->
+<p>At him.</p><break time="500ms"/>
+<!-- p30 · tension -->
+<p><prosody rate="97%">She looked at him longer than she needed to. He saw her know him. He saw it go across her face: the face on the trading houses’ bill at the Millbrook jetty, and twenty years of barley, and a man in a dead man’s carter’s coat with three dray-beasts on a rope.</prosody></p><break time="800ms"/>
+<!-- p31 -->
+<p>She didn’t say anything about it.</p><break time="500ms"/>
+<!-- p32 · humour: brisk, dry · Liss -->
+<p>“Beasts after,” she said. “One a crossing. The big one last. People first. Mind the rail.” She looked at the strip of tin in the Low Ashby woman’s fist, and at the charm-seller, who’d stopped at the end of the jetty. “And you can throw those in. Nothing said on this bank lands on that one. There’s a river in the way. Every child on the Wend knows it.” The charm-seller went back up the jetty. Liss watched her go. She looked at <sub alias="Bell">Bel</sub>. “You’ll be the Fenns from Upper Rush. <sub alias="Bell">Bel</sub>. I knew your Joss. Bought his oats.” She paused. “I heard.”</p><break time="500ms"/>
+<!-- p33 -->
+<p><sub alias="Bell">Bel</sub> nodded. She couldn’t speak.</p><break time="500ms"/>
+<!-- p34 · Liss, more gently -->
+<p>“Get in,” said Liss, more gently. “Children in the middle. You too, mother.” This to Ada. “Sit on the eel box. It’s clean, more or less.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p35 -->
+<p>Wren didn’t get in.</p><break time="500ms"/>
+<!-- p36 -->
+<p>She stood on the jetty in front of the ferrywoman with her bundle in her arms and looked up at her. <sub alias="Cawlder">Calder</sub> saw her do it. He knew that look. It was the look she’d had on the ladder the night of the verse, and at the paddock gate with Old Grey.</p><break time="500ms"/>
+<!-- p37 · Wren -->
+<p>“My papa has three dragons,” said Wren.</p><break time="500ms"/>
+<!-- p38 · Bel -->
+<p><sub alias="Bell">Bel</sub> said, ”<emphasis level="moderate">Wren</emphasis>…”</p><break time="500ms"/>
+<!-- p39 -->
+<p>Liss looked down at her.</p><break time="500ms"/>
+<!-- p40 · Liss -->
+<p>“Has he,” she said.</p><break time="500ms"/>
+<!-- p41 · humour: child's breathless list · Wren, eager, tumbling -->
+<p>“<sub alias="Liska">Lisska</sub>’s green. She’s the smallest. She can see a sparrow on a roof a league off. She’s up there now.” Wren pointed at the sky. “You can’t see her. She’s too high. She’s watching to see we’re all right. And there’s <sub alias="Karrak">Kharrak</sub>, he’s red, and he’s cross all the time but he’s not really, and he burned a camp because they had Old Grey.” She pointed at the grey on his rope. “And <sub alias="Orveth">Aurveth</sub>. She’s the biggest. She’s three hundred years old and she’s only got one eye and she flew in the old wars.” She took a breath. “And my papa talks to them. Out loud. And they answer. In his head. And he tells me what they say, and I make him say it twice.”</p><break time="500ms"/>
+<!-- p42 · tension -->
+<p><prosody rate="97%">The jetty had gone quiet. The family from Low Ashby was staring. The man with the goats had taken a step back.</prosody></p><break time="800ms"/>
+<!-- p43 -->
+<p>Liss Ashdown looked at Wren, and then up at <sub alias="Cawlder">Calder</sub>, standing at Mabbin’s head with the halter in his hand.</p><break time="500ms"/>
+<!-- p44 -->
+<p>She crouched down on the jetty, so her face was level with Wren’s.</p><break time="500ms"/>
+<!-- p45 · tender · Liss -->
+<p><prosody rate="95%">“Twice,” she said.</prosody></p><break time="500ms"/>
+<!-- p46 · Wren -->
+<p>“Twice,” said Wren. “So I don’t forget.”</p><break time="500ms"/>
+<!-- p47 · Liss -->
+<p>“That’s sensible,” said Liss. “I do that with the river. Tell me again. The green one. What’s her name?”</p><break time="500ms"/>
+<!-- p48 · tender · Liss -->
+<p><prosody rate="95%">So Wren told her again. All of it. Twice. Liss crouched on the timber jetty at Tolly’s <sub alias="Stathe">Staithe</sub> in the dawn with the ferry waiting and listened to every word, nodding, asking things. How big? What colour are her eyes? Does she like apples? And Wren answered everything, and <sub alias="Cawlder">Calder</sub> stood at the mare’s head and listened to his daughter tell the ferrywoman about his dragons, and couldn’t have stopped her if he’d tried, and didn’t try.</prosody></p><break time="500ms"/>
+<!-- p49 -->
+<p>When she’d done, Liss stood up.</p><break time="500ms"/>
+<!-- p50 · Liss -->
+<p>“Get in, then,” she said. “Wren. In the middle with your aunt.”</p><break time="500ms"/>
+<!-- p51 -->
+<p>Wren got in.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p52 -->
+<p>They loaded the first crossing. People. The family from Low Ashby, the man with the goats, <sub alias="Bell">Bel</sub> and Pip and Nan and the handcart lashed to the rail, Ada on the eel box with her stick across her knees. Wren in the middle with her bundle, standing up so she could see.</p><break time="500ms"/>
+<!-- p53 -->
+<p><sub alias="Cawlder">Calder</sub> handed the handcart’s ropes across. Liss took them and lashed them to the rail with quick hard knots.</p><break time="500ms"/>
+<!-- p54 -->
+<p>She didn’t look at him while she did it. She looked at the knots. She said, quite low, not to him, not to anyone:</p><break time="500ms"/>
+<!-- p55 · quiet · Liss, quite low -->
+<p><prosody rate="95%"><prosody volume="-5dB">“My daughter came to the ferry house last night.”</prosody></prosody></p><break time="500ms"/>
+<!-- p56 -->
+<p>He held the rope.</p><break time="500ms"/>
+<!-- p57 · grief: low, to the knots · Liss, low -->
+<p><prosody rate="94%"><prosody volume="-5dB">“Came down the landing steps from the school with her chest on her back. In her shirt. They’d had her grey off her.”</prosody> Liss pulled a knot tight. <prosody volume="-5dB">“Cast out. Yesterday morning, at the river gate, in front of everybody. For loving a monster, they’re saying in Millbrook.”</prosody> She pulled the next. <prosody volume="-5dB">“She’d say it was for not being able to say a thing she didn’t mean.”</prosody></prosody></p><break time="800ms"/>
+<!-- p58 · tension -->
+<p><prosody rate="97%">He stood on the jetty with the rope in his hands and didn’t move.</prosody></p><break time="800ms"/>
+<!-- p59 · Brask (remembered) -->
+<p><prosody volume="-3dB">The knight with the lion. Over the water. A woman. Greyhold.</prosody></p><break time="500ms"/>
+<!-- p60 -->
+<p>He looked at Liss Ashdown’s face. Broad. Weathered. The eyes in it. He’d seen them before, on somebody else, through <sub alias="Liska">Lisska</sub>’s eyes, from two leagues off.</p><break time="500ms"/>
+<!-- p61 · Lisska (remembered) -->
+<p><prosody volume="-3dB">Like you were a pair.</prosody></p><break time="500ms"/>
+<!-- p62 · Calder -->
+<p>“Your daughter,” he said.</p><break time="500ms"/>
+<!-- p63 · tender: steady · Liss, very steadily -->
+<p><prosody rate="95%">“<sub alias="Mairen">Maren</sub>.” Liss tied off the last knot. She looked up at him at last. “She sat on my floor all night by the fire with that chest beside her and didn’t say a word. And when I went to put a blanket on her she had something out of it in her lap. Holding it.” She looked at him very steadily. “A scale. Green. As broad as a round shield.”</prosody></p><break time="500ms"/>
+<!-- p64 · quiet -->
+<p><prosody rate="95%">He couldn’t speak.</prosody></p><break time="500ms"/>
+<!-- p65 · Liss -->
+<p>“I don’t know where she got it,” said Liss. “I didn’t ask. She’d not have told me.” She straightened up. “Mind your hands. We’re casting off.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p66 -->
+<p>He stood on the timber jetty and watched the first crossing go.</p><break time="500ms"/>
+<!-- p67 -->
+<p>The ferry went out on the rope across the brown water, with Liss at the stern hauling hand over hand on the guide-rope and the boat swinging a little on the current. The handcart. The children in the middle. Ada on the eel box. Wren standing up, looking back at him.</p><break time="500ms"/>
+<!-- p68 -->
+<p>Then past him. Up, at the sky over the <sub alias="Stathe">Staithe</sub>, where <sub alias="Liska">Lisska</sub> was.</p><break time="500ms"/>
+<!-- p69 · Calder (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">She’s looking for you,</prosody> he said.</p><break time="500ms"/>
+<!-- p70 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">I know,</prosody> said <sub alias="Liska">Lisska</sub>. <prosody rate="94%" volume="-2dB">I’m here.</prosody></p><break time="500ms"/>
+<!-- p71 -->
+<p>The ferry reached the stone jetty under the walls of Greyhold. He saw them get out. Small figures, at that distance. <sub alias="Bell">Bel</sub> lifting Nan. Ada with her stick. Somebody on the ferry-house steps, coming down to the jetty to help.</p><break time="500ms"/>
+<!-- p72 -->
+<p>He couldn’t see who. It was too far.</p><break time="500ms"/>
+<!-- p73 -->
+<p>He didn’t ask <sub alias="Liska">Lisska</sub>.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p74 -->
+<p>The ferry came back for the beasts.</p><break time="500ms"/>
+<!-- p75 · tender -->
+<p><prosody rate="95%">Mabbin first. She didn’t want to. She stood at the end of the jetty with her forefeet on the edge of the planks and looked at the boat moving under her and blew, and wouldn’t. <sub alias="Cawlder">Calder</sub> talked to her. Low, steady, nothing, the way his father had talked to cows. Liss stood in the boat and didn’t hurry him. After a while Mabbin put one foot down onto the ferry’s boards, and then the other, and then she was in, standing in the middle of the flat boat with her legs braced and her ears going, and the whole ferry down in the water to the rail with the weight of her.</prosody></p><break time="500ms"/>
+<!-- p76 -->
+<p>Liss looked at the waterline and took her across.</p><break time="500ms"/>
+<!-- p77 -->
+<p>Sorrel next. Easier. She’d seen her mother go.</p><break time="500ms"/>
+<!-- p78 -->
+<p>Then Old Grey.</p><break time="500ms"/>
+<!-- p79 · grief -->
+<p><prosody rate="94%">He went in the way he went everywhere now. Head low. Following the rope. He walked down the jetty behind <sub alias="Cawlder">Calder</sub> and onto the ferry as if it were a road, and stood in the middle of it where <sub alias="Cawlder">Calder</sub> put him, and didn’t look at the water at all.</prosody></p><break time="800ms"/>
+<!-- p80 -->
+<p>Liss looked at him for a while. At his head. At his eyes.</p><break time="500ms"/>
+<!-- p81 · Liss -->
+<p>“Bound,” she said.</p><break time="500ms"/>
+<!-- p82 · Calder -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p83 · Liss -->
+<p>“The Restoration’s.”</p><break time="500ms"/>
+<!-- p84 · Calder -->
+<p>“They had him in a camp. They made him kill my sister’s husband.” <sub alias="Cawlder">Calder</sub> kept his hand on the grey’s neck. “I brought him home. He’s turned his head twice. To the girl’s voice.”</p><break time="500ms"/>
+<!-- p85 -->
+<p>Liss looked at the grey’s empty eyes a moment longer.</p><break time="500ms"/>
+<!-- p86 · tender · Liss -->
+<p><prosody rate="95%">“Then she’d best keep talking,” she said.</prosody></p><break time="500ms"/>
+<!-- p87 -->
+<p>She bent to the rope.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p88 -->
+<p>He spoke before she cast off. He’d been thinking how to all the while the beasts were crossing, and hadn’t found it, and said it anyway.</p><break time="500ms"/>
+<!-- p89 · Calder -->
+<p>“Mistress Ashdown.”</p><break time="500ms"/>
+<!-- p90 -->
+<p>She looked up.</p><break time="500ms"/>
+<!-- p91 · Calder -->
+<p>“Your daughter,” he said. “Will you tell her something?”</p><break time="500ms"/>
+<!-- p92 -->
+<p>Liss straightened. She stood in the stern of the ferry with her hand on the guide-rope and Old Grey standing huge in the middle of the boat behind her, and waited.</p><break time="500ms"/>
+<!-- p93 · tender · Calder -->
+<p><prosody rate="95%">“A girl called Wren says hello,” said <sub alias="Cawlder">Calder</sub>.</prosody></p><break time="500ms"/>
+<!-- p94 · tender -->
+<p><prosody rate="95%">Liss’s face did something. He didn’t know what.</prosody></p><break time="500ms"/>
+<!-- p95 · Liss -->
+<p>“Wren says hello,” she said.</p><break time="500ms"/>
+<!-- p96 · Calder -->
+<p>“She asked me to. To tell her. If I ever could.” He looked at the water. “She made me promise.”</p><break time="500ms"/>
+<!-- p97 · Liss -->
+<p>“I’ll tell her,” said Liss. She looked at him. “And you? Anything from you?”</p><break time="500ms"/>
+<!-- p98 -->
+<p>He stood on the jetty.</p><break time="500ms"/>
+<!-- p99 · reflective -->
+<p><prosody rate="96%">He thought of narrow boot-prints in the snow on the island, a woman’s, going down to a fire. A long pressed hollow a few strides off. A scale in her lap all night by the fire. A collar struck off at dawn, three blows, <emphasis level="moderate">tink, tink, tink</emphasis>, across two leagues of river. A lion swimming the east channel in the dusk while she stood on the shore and watched it go.</prosody></p><break time="500ms"/>
+<!-- p100 -->
+<p>He couldn’t think of anything he had the right to say.</p><break time="500ms"/>
+<!-- p101 · tender: halting, foolish · Calder, halting -->
+<p><prosody rate="95%">“Tell her…” He stopped. He tried again. “Tell her the old one says it’s the cat from the bridge. The one on the tower steps. That people used to bow to.” He felt foolish. “She’ll not know what it means. Tell her anyway.”</prosody></p><break time="500ms"/>
+<!-- p102 -->
+<p>Liss looked at him.</p><break time="500ms"/>
+<!-- p103 · tender · Liss -->
+<p><prosody rate="95%">“The cat from the bridge,” she said, as if she were putting it away somewhere safe.</prosody></p><break time="500ms"/>
+<!-- p104 · Calder -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p105 · Liss -->
+<p>“I’ll tell her.” She pulled the slip-knot and the ferry swung out off the jetty on the rope. “Go home, Fenn. There’s nobody watching from that wall who’d not like to have you.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p106 -->
+<p>He didn’t go home. He stood on the jetty.</p><break time="500ms"/>
+<!-- p107 -->
+<p>The ferry went out across the brown water on the rope with the great grey beast standing in the middle of it and Liss hauling at the stern. Halfway across, it swung on the current, and Old Grey braced his legs and the boat steadied, and went on. Liss didn’t look back.</p><break time="500ms"/>
+<!-- p108 -->
+<p>On the stone jetty under the walls, they were waiting. He could see them now, a little. <sub alias="Bell">Bel</sub> with the children. Ada. Mabbin and Sorrel, held by somebody on the ferry-house steps. And Wren, at the very end of the jetty, on her own, looking up.</p><break time="500ms"/>
+<!-- p109 · tender: pleading · Lisska (bond, to Calder), very small -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB"><sub alias="Cawlder">Calder</sub>,</prosody> said <sub alias="Liska">Lisska</sub>. Very small. <prosody rate="94%" volume="-2dB">Can I?</prosody></prosody></p><break time="500ms"/>
+<!-- p110 -->
+<p>He knew what she meant.</p><break time="500ms"/>
+<!-- p111 -->
+<p>He looked at the walls. At the scaffolds and the engines. At the men on the hoardings, small at this distance, stopped in their work, looking down at the ferry coming over with a dray-beast in it. At the knights of the gate on the river tower.</p><break time="500ms"/>
+<!-- p112 · Calder (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">Once,</prosody> he said. <prosody rate="94%" volume="-2dB">Low and fast. And then up. Don’t stop. Don’t land.</prosody></p><break time="500ms"/>
+<!-- p113 -->
+<p>She came down out of the sky.</p><break time="500ms"/>
+<!-- p114 · action -->
+<p><prosody rate="104%">He’d never seen her come down so fast. She came out of the grey cloud over the <sub alias="Stathe">Staithe</sub> like a hawk dropping on a hen-run, green, folding her wings, and opened them at the last moment over the water and went along the river low, so low her wingtips left two lines on the surface, between the <sub alias="Stathe">Staithe</sub> and the stone jetty, past the ferry, past the end of the stone jetty where a small girl stood with her arms up.</prosody></p><break time="500ms"/>
+<!-- p115 · tender -->
+<p><prosody rate="95%">On her left horn, as she went by, something blue. A ribbon. Washed. Tied in a bow.</prosody></p><break time="500ms"/>
+<!-- p116 · awe: joy -->
+<p><prosody rate="95%">Wren screamed. Not frightened. The other kind.</prosody></p><break time="800ms"/>
+<!-- p117 · action -->
+<p><prosody rate="104%">Then <sub alias="Liska">Lisska</sub> went up. Straight up, past the river towers, past the engines, so close to the walls of Greyhold that the men on the hoardings threw themselves flat, up and up into the cloud, and was gone.</prosody></p><break time="500ms"/>
+<!-- p118 · awe -->
+<p><prosody rate="95%">On the ferry, halfway across, Liss Ashdown had stopped hauling. She stood in the stern with both hands on the guide-rope, with her head tipped back and her mouth open, looking up at the place in the cloud where the green dragon had gone.</prosody></p><break time="800ms"/>
+<!-- p119 -->
+<p>She looked back across the water at him on the timber jetty.</p><break time="500ms"/>
+<!-- p120 -->
+<p>He lifted his hand.</p><break time="500ms"/>
+<!-- p121 · tender -->
+<p><prosody rate="95%">After a moment she lifted hers.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p122 · tender -->
+<p><prosody rate="95%">He stood on the <sub alias="Stathe">Staithe</sub> jetty until the ferry reached the stone jetty under the walls and Old Grey walked off it onto the stones as if it were a road, and <sub alias="Bell">Bel</sub> took his rope, and Wren ran to him and put her arms round as much of his foreleg as she could reach.</prosody></p><break time="500ms"/>
+<!-- p123 -->
+<p>He turned and walked back up the river lane, north, toward the Scar.</p><break time="500ms"/>
+<!-- p124 -->
+<p>Old Tolly was on his upturned boat by the weirs. He’d watched all of it. He looked at <sub alias="Cawlder">Calder</sub> going by in the carter’s coat and took his pipe out of his mouth.</p><break time="500ms"/>
+<!-- p125 · humour · Tolly -->
+<p>“River’s lower than it was in my grandfather’s day,” he said.</p><break time="500ms"/>
+<!-- p126 · Calder -->
+<p>“Yes,” said <sub alias="Cawlder">Calder</sub>.</p><break time="500ms"/>
+<!-- p127 -->
+<p>He walked on.</p><break time="500ms"/>
+<!-- p128 · Lisska (bond, to Calder), out of breath -->
+<p><prosody rate="94%" volume="-6dB">Is she across?</prosody> said <sub alias="Liska">Lisska</sub>, from somewhere high and far off, out of breath. <prosody rate="94%" volume="-6dB">Is Wren across? I didn’t look. I was going too fast.</prosody></p><break time="500ms"/>
+<!-- p129 · Calder (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">She’s across.</prosody></p><break time="500ms"/>
+<!-- p130 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Did she see me?</prosody></p><break time="500ms"/>
+<!-- p131 -->
+<p>He thought of the scream at the end of the stone jetty. The arms round the grey’s foreleg.</p><break time="500ms"/>
+<!-- p132 · tender · Calder (bond, to Lisska) -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">She saw you,</prosody> he said.</prosody></p>
+<break time="1800ms"/>
+</speak>

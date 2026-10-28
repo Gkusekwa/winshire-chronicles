@@ -1,0 +1,1503 @@
+{
+ "chapter": 74,
+ "title": "Fire at the Ruin",
+ "pov": "Calder",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Seventy-four.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Fire at the Ruin.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The dragons couldn’t go down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "He’d known it when he stood at the top of the stair. It was a man’s width. Stone steps going down and round into the dark, with the walls close on both sides and the roof close over your head. Kharrak put his great rust-red head into the round room at the foot of the tower and looked at it, and the red tide went up so hard Calder felt his own face go hot.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "bond",
+   "text": "No.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "speech",
+   "text": "“I have to.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "bond",
+   "text": "Then I’ll make it wider.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "speech",
+   "text": "“There isn’t time. And you’d bring the tower down on the stair.”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": "He took a brand out of the fire in the fort, a split oak branch burning at one end."
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "speech",
+   "text": "“Two hours. Less. He’s down there with a key and the hour’s coming.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "bond",
+   "text": "Then I go round. I dig.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p8",
+   "type": "speech",
+   "text": "“Kharrak.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p9",
+   "type": "bond",
+   "text": "I DIG.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p10",
+   "type": "bond",
+   "text": "Calder,",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "very calm"
+  },
+  {
+   "seq": 15,
+   "para": "p10",
+   "type": "narration",
+   "text": "said Aurveth. From the eastern gate. Very calm."
+  },
+  {
+   "seq": 16,
+   "para": "p10",
+   "type": "bond",
+   "text": "Look at the river.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "very calm",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 17,
+   "para": "p11",
+   "type": "narration",
+   "text": "He went out under the arch and looked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p12",
+   "type": "narration",
+   "text": "The east channel was full of boats.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p13",
+   "type": "narration",
+   "text": "Coming back. From the Eelweir, from the whole black hill behind Harrow’s End where the campfires had been, the ones that hadn’t gone over to Redwatch in the morning. Boats in lines, like the morning they’d taken the island, dozens, scores, with lanterns at their bows, and men in them. A lot of men. Two thousand, perhaps. He couldn’t count.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 20,
+   "para": "p14",
+   "type": "narration",
+   "text": "And in the middle of them, something else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p15",
+   "type": "narration",
+   "text": "A raft. Eight barges, lashed together side by side with planks laid over them, and poled across slowly, sitting low in the water. On the raft, something huge. Grey-black. Humped. Plated like a beetle, plate over plate down its back, each plate as big as a door. A head low and broad as a cart, with a horn on its snout as long as a man. Bigger than a dray-beast. Bigger than anything he’d ever seen walk that wasn’t a dragon. As big as a barn.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 22,
+   "para": "p16",
+   "type": "narration",
+   "text": "He’d seen it once before. At the far end of the beast lines at the Ram’s Head, a great humped shape in the dark that he hadn’t gone near.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p17",
+   "type": "narration",
+   "text": "On its neck, behind the head, a man stood in grey. With his arm up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p18",
+   "type": "bond",
+   "text": "Ironback,",
+   "speaker": "Aurveth",
+   "listener": "Calder"
+  },
+  {
+   "seq": 25,
+   "para": "p18",
+   "type": "narration",
+   "text": "said Aurveth."
+  },
+  {
+   "seq": 26,
+   "para": "p18",
+   "type": "bond",
+   "text": "I’ve seen them. In the south. A long time ago. Before him.",
+   "speaker": "Aurveth",
+   "listener": "Calder"
+  },
+  {
+   "seq": 27,
+   "para": "p18",
+   "type": "narration",
+   "text": "She was quiet a moment."
+  },
+  {
+   "seq": 28,
+   "para": "p18",
+   "type": "bond",
+   "text": "They don’t burn.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "quietly",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 29,
+   "para": "p19",
+   "type": "narration",
+   "text": "He stood under the arch with the brand in his hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p20",
+   "type": "speech",
+   "text": "“You’ll hold the top,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 31,
+   "para": "p20",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 32,
+   "para": "p20",
+   "type": "speech",
+   "text": "“Both of you. While I go down.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p21",
+   "type": "bond",
+   "text": "Calder…",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p22",
+   "type": "speech",
+   "text": "“Somebody has to go down. You can’t. I can.”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 35,
+   "para": "p22",
+   "type": "narration",
+   "text": "He looked at Kharrak."
+  },
+  {
+   "seq": 36,
+   "para": "p22",
+   "type": "speech",
+   "text": "“And somebody has to stop that coming up the hill and down this stair after me. I can’t. You can.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p23",
+   "type": "narration",
+   "text": "Kharrak looked at the raft coming across the channel. At the ironback on it, with the man on its neck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p24",
+   "type": "narration",
+   "text": "Then at Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p25",
+   "type": "bond",
+   "text": "If you die down there,",
+   "speaker": "Kharrak",
+   "listener": "Calder"
+  },
+  {
+   "seq": 40,
+   "para": "p25",
+   "type": "narration",
+   "text": "he said,"
+  },
+  {
+   "seq": 41,
+   "para": "p25",
+   "type": "bond",
+   "text": "I’ll know.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p26",
+   "type": "speech",
+   "text": "“I know.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p27",
+   "type": "bond",
+   "text": "And then I’ll dig down and find him and I’ll…",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "mood": "anger"
+  },
+  {
+   "seq": 44,
+   "para": "p27",
+   "type": "narration",
+   "text": "The red tide went up and over and he couldn’t finish. He turned his head away.",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p28",
+   "type": "bond",
+   "text": "Go,",
+   "speaker": "Aurveth",
+   "listener": "Calder"
+  },
+  {
+   "seq": 46,
+   "para": "p28",
+   "type": "narration",
+   "text": "said Aurveth."
+  },
+  {
+   "seq": 47,
+   "para": "p28",
+   "type": "bond",
+   "text": "We’ll hold the top.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p29",
+   "type": "narration",
+   "text": "He went into the tower, and down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 49,
+   "para": "p30",
+   "type": "narration",
+   "text": "The stair went down a long way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p31",
+   "type": "narration",
+   "text": "Past the slab. He came to it at the bottom of the first flight: the great grey stone he’d seen from above, with the iron plate in it. It wasn’t in the floor any more. Corvin’s men had prised it up with crowbars and leaned it against the wall of the stair, and under where it had lain the steps went on. It had been a lid on the way down, not the lock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p32",
+   "type": "narration",
+   "text": "He went on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p33",
+   "type": "narration",
+   "text": "Down and round, and down and round. The steps worn deep in the middle, like the doorstep of a house a hundred families have lived in, though he couldn’t think whose feet had done it. The walls close. The roof close. The brand flaring and smoking in the still cold air, and the light going ahead of him round the curve of the stair and the dark coming down behind.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 53,
+   "para": "p34",
+   "type": "narration",
+   "text": "Cold. Colder than the river. Colder than the ice at midwinter.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 54,
+   "para": "p35",
+   "type": "narration",
+   "text": "He counted the steps the way he’d counted the fires at the Ram’s Head. In fives, on his fingers, in his coat pocket. He got to three hundred and stopped counting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p36",
+   "type": "narration",
+   "text": "The hum came up through the stone into his boots.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p37",
+   "type": "narration",
+   "text": "And under the hum, after a while, something else.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 57,
+   "para": "p38",
+   "type": "narration",
+   "text": "The stair came out onto a ledge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p39",
+   "type": "narration",
+   "text": "He stepped off the last step onto flat rock and the walls went away on both sides and the roof went away overhead, all at once, and the light of the brand went out from him into nothing and didn’t come back.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 59,
+   "para": "p40",
+   "type": "narration",
+   "text": "He was standing on a ledge in the wall of something enormous.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p41",
+   "type": "narration",
+   "text": "He couldn’t see it. That was the first thing. He held the brand up and the light went out into the dark and found nothing. No far wall. No roof. Only the ledge he stood on, a few paces of rough flat rock with a sheer drop at the edge, and the dark beyond it, going on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p42",
+   "type": "narration",
+   "text": "He went to the edge and held the brand out over it, and looked down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p43",
+   "type": "narration",
+   "text": "Chain.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p44",
+   "type": "narration",
+   "text": "Going down. Into the dark below the ledge, past where the light reached. One link of it, the nearest, was close enough to touch, a hand’s breadth from the edge of the rock. Iron. Black. With the rust gone hard on it like bark. And it was taller than he was. One link. Taller than he was by a head.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 64,
+   "para": "p45",
+   "type": "narration",
+   "text": "On the inside of it, in the curve where the iron went round, there was a line of light. Thin. White. It came out of the iron itself, in small square marks with hooks at the ends, over and over, the way the letters went on the verse. Somebody had struck writing into the inside of the link where nobody would ever see it, and it was burning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p46",
+   "type": "narration",
+   "text": "Beside it, a little way off, another. And beyond that another. He counted. Six. Six chains, side by side, each link taller than a man, going down from somewhere high in the dark over his head, past the ledge, into the dark below.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p47",
+   "type": "narration",
+   "text": "They were moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p48",
+   "type": "narration",
+   "text": "All six, swaying a little, a hand’s breadth, out and back. The way the chain of a well-bucket sways when you’ve let go of the handle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p49",
+   "type": "narration",
+   "text": "And below them, in the dark, where the light didn’t reach, the dark moved.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 69,
+   "para": "p50",
+   "type": "narration",
+   "text": "He’d felt it at midwinter through Aurveth’s throat on the ice. He’d felt it through the floor of the cave on the Scar. It was nothing like this. The dark moved like water in a pool when something huge turns over at the bottom of it. Slow. Enormous. A shifting of the whole of the dark at once. And the six chains swayed with it.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 70,
+   "para": "p51",
+   "type": "narration",
+   "text": "He stood on the ledge with the brand held out and his whole body cold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p52",
+   "type": "thought",
+   "text": "The last great one,",
+   "speaker": "Calder",
+   "mood": "dread"
+  },
+  {
+   "seq": 72,
+   "para": "p52",
+   "type": "narration",
+   "text": "he thought.",
+   "mood": "dread"
+  },
+  {
+   "seq": 73,
+   "para": "p52",
+   "type": "thought",
+   "text": "Lay down to sleep below the stone.",
+   "speaker": "Calder",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 74,
+   "para": "p53",
+   "type": "thought",
+   "text": "And they woke it.",
+   "speaker": "Calder",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 75,
+   "para": "p54",
+   "type": "narration",
+   "text": "There was light to his left.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p55",
+   "type": "narration",
+   "text": "Along the ledge. Where it went round the curve of the rock wall. Faint, yellow, steady: a lantern. And a passage, cut in the rock, going back from the ledge into the wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p56",
+   "type": "narration",
+   "text": "He went along the ledge toward it, with his back to the rock and the drop at his feet, and into the passage.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p57",
+   "type": "narration",
+   "text": "It wasn’t long. Twenty paces. Square, cut clean, the walls carved with the same square hooked letters as the verse over the arch, row after row of them, worn smooth. At the end of it, a round chamber.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p58",
+   "type": "narration",
+   "text": "He stopped in the mouth of the passage.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p59",
+   "type": "narration",
+   "text": "It was cut out of the rock. Round, like the inside of the tower above, but bigger. The roof a low dome. And in the middle of the floor, filling most of it, a disc of grey stone. Smooth. Flat. As wide as a threshing floor. Set into the rock floor so close you could hardly see the join. Carved all over in rings of the hooked letters, round and round, getting smaller toward the middle. The letters had the same light in them as the chain. Faint. Coming and going, like breath on a cold window.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p60",
+   "type": "narration",
+   "text": "In the middle, a boss of iron. Black. As big as a man’s two hands. With a keyhole in it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p61",
+   "type": "narration",
+   "text": "Beside it, a man stood with a lantern.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p62",
+   "type": "narration",
+   "text": "Tall. Thin. Dark hair cut short. Hands behind his back. Still.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 84,
+   "para": "p63",
+   "type": "narration",
+   "text": "Round the walls of the chamber, ten men in the coats of Delling’s company, with swords.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p64",
+   "type": "narration",
+   "text": "And one more, on the stone disc a pace from Corvin, who wasn’t in a company coat. A small grey man in a long brown scholar’s gown gone ragged at the hem, standing very square on the carved stone with his feet apart and his hands loose at his sides. He had a band of white skin round the second finger of his right hand, as a man’s finger goes under a ring he’s worn all his life, and no ring on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p65",
+   "type": "narration",
+   "text": "Corvin Vale turned his head and looked at Calder standing in the mouth of the passage with a burning branch in one hand and a dead man’s knife in the other.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p66",
+   "type": "speech",
+   "text": "“Fenn,”",
+   "speaker": "Corvin"
+  },
+  {
+   "seq": 88,
+   "para": "p66",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 89,
+   "para": "p67",
+   "type": "narration",
+   "text": "He went at them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p68",
+   "type": "narration",
+   "text": "Ten men with swords and he was a barley farmer with a knife. He went at them anyway, out of the passage into the chamber, straight across the stone disc at the man with the lantern, and he got two of them. The brand into one man’s face and the man went down screaming. Joss’s knife into the next, low, under the coat, and the man folded over it.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p69",
+   "type": "narration",
+   "text": "The small grey man lifted his hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p70",
+   "type": "narration",
+   "text": "Something hit Calder. Nothing he could see. A weight, all at once, from in front, like a gate when the wind takes it, the whole flat of it. It picked him up off the stone and threw him down on his back two paces away, and the breath went out of him, and for a moment he couldn’t see. When he could, the grey man was standing where he’d stood, with his hands still out, and blood coming out of his nose onto his lip. He wiped it with the back of his wrist. His hands were shaking.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p71",
+   "type": "speech",
+   "text": "“Well enough, Fellow,”",
+   "speaker": "Corvin"
+  },
+  {
+   "seq": 94,
+   "para": "p71",
+   "type": "narration",
+   "text": "said Corvin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Once more,”",
+   "speaker": "the Fellow"
+  },
+  {
+   "seq": 96,
+   "para": "p72",
+   "type": "narration",
+   "text": "said the grey man."
+  },
+  {
+   "seq": 97,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Not twice.”",
+   "speaker": "the Fellow"
+  },
+  {
+   "seq": 98,
+   "para": "p72",
+   "type": "narration",
+   "text": "He talked like the colleges’ men at the Wendmouth quays, all his words very clean.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p73",
+   "type": "narration",
+   "text": "Then the rest had him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p74",
+   "type": "narration",
+   "text": "Hands. His arms. The brand gone, rolling on the stone, guttering. A blow on the side of his head that filled his eyes with white. His knees hit the stone disc. Somebody had his hair. Somebody had the knife out of his hand.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p75",
+   "type": "narration",
+   "text": "A sword came up over him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p76",
+   "type": "speech",
+   "text": "“No,”",
+   "speaker": "Corvin"
+  },
+  {
+   "seq": 103,
+   "para": "p76",
+   "type": "narration",
+   "text": "said Corvin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p77",
+   "type": "narration",
+   "text": "The sword stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p78",
+   "type": "speech",
+   "text": "“Not that one.”",
+   "speaker": "Corvin"
+  },
+  {
+   "seq": 106,
+   "para": "p78",
+   "type": "narration",
+   "text": "Corvin hadn’t moved. He stood by the iron boss with the lantern and looked down at Calder on his knees on the carved stone, held by four men."
+  },
+  {
+   "seq": 107,
+   "para": "p78",
+   "type": "speech",
+   "text": "“Hold him. Don’t harm him.”",
+   "speaker": "Corvin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p79",
+   "type": "speech",
+   "text": "“He killed Danny…”",
+   "speaker": "a company man",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p80",
+   "type": "speech",
+   "text": "“I know what he did.”",
+   "speaker": "Corvin"
+  },
+  {
+   "seq": 110,
+   "para": "p80",
+   "type": "narration",
+   "text": "Corvin’s voice didn’t change at all."
+  },
+  {
+   "seq": 111,
+   "para": "p80",
+   "type": "speech",
+   "text": "“Hold him.”",
+   "speaker": "Corvin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p81",
+   "type": "narration",
+   "text": "The grey man had sat down on the edge of the disc, on the carved stone, with his hands between his knees. Calder could feel the cold coming off him from where he knelt. Like a man brought in out of the snow.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 113,
+   "para": "p82",
+   "type": "narration",
+   "text": "They held him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p83",
+   "type": "narration",
+   "text": "He knelt on the stone disc in the middle of the chamber with his arms twisted up behind him and a man’s knee in his back and blood running down the side of his face from the blow, and looked up at Corvin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p84",
+   "type": "narration",
+   "text": "Corvin looked back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p85",
+   "type": "narration",
+   "text": "He had a long black key in his hand. Iron, as long as his forearm, with a bit as big as a child’s fist. Its bow was cut with the same hooked marks as the boss. Old. Older than the iron round it. He held it loosely. On the floor beside the iron boss, on the stone, stood a fat candle in a glass, burning steady, with marks scored down the side of it. An hour-candle. The kind the shepherds used.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p86",
+   "type": "speech",
+   "text": "“A halter,”",
+   "speaker": "Corvin",
+   "mood": "tension"
+  },
+  {
+   "seq": 118,
+   "para": "p86",
+   "type": "narration",
+   "text": "said Corvin.",
+   "mood": "tension"
+  },
+  {
+   "seq": 119,
+   "para": "p86",
+   "type": "speech",
+   "text": "“That’s what you are. Do you understand that? Not a man. Not a sign. A halter. With you, we have the dragons. Without you…”",
+   "speaker": "Corvin",
+   "mood": "tension"
+  },
+  {
+   "seq": 120,
+   "para": "p86",
+   "type": "narration",
+   "text": "He tilted his head very slightly.",
+   "mood": "tension"
+  },
+  {
+   "seq": 121,
+   "para": "p86",
+   "type": "speech",
+   "text": "“Without you we have a great deal of trouble on a hill above us. So.”",
+   "speaker": "Corvin",
+   "mood": "tension"
+  },
+  {
+   "seq": 122,
+   "para": "p86",
+   "type": "narration",
+   "text": "He looked at the candle.",
+   "mood": "tension"
+  },
+  {
+   "seq": 123,
+   "para": "p86",
+   "type": "speech",
+   "text": "“You’ll live. My brother would be sorry if you didn’t. He’d be sorry for days.”",
+   "speaker": "Corvin",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 124,
+   "para": "p87",
+   "type": "speech",
+   "text": "“Rook’s dead,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 125,
+   "para": "p87",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p88",
+   "type": "narration",
+   "text": "Corvin didn’t answer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p89",
+   "type": "speech",
+   "text": "“On the spit. By the stake. My red killed him.”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 128,
+   "para": "p89",
+   "type": "narration",
+   "text": "Calder didn’t know why he was saying it."
+  },
+  {
+   "seq": 129,
+   "para": "p89",
+   "type": "speech",
+   "text": "“He wanted it. At the end. He went at me with a knife so the dragon would.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p90",
+   "type": "narration",
+   "text": "Corvin looked at him for a long moment with his grey eyes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p91",
+   "type": "narration",
+   "text": "He said nothing about Rook. His face didn’t change. He looked back at the candle.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 132,
+   "para": "p92",
+   "type": "narration",
+   "text": "He talked, a little, while he waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p93",
+   "type": "narration",
+   "text": "Not the way his brother talked. Quietly, standing by the iron boss with the key loose in his hand, as a man talks to a beast in a stall while he waits for it to settle. Calder didn’t think he was talking to him at all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p94",
+   "type": "speech",
+   "text": "“Three hundred years,”",
+   "speaker": "Corvin",
+   "how": "quietly",
+   "mood": "tension"
+  },
+  {
+   "seq": 135,
+   "para": "p94",
+   "type": "narration",
+   "text": "said Corvin.",
+   "mood": "tension"
+  },
+  {
+   "seq": 136,
+   "para": "p94",
+   "type": "speech",
+   "text": "“Hearthmere has kept it down there. Bleeding it. Lighting its lamps. Every knight in the kingdom saying keep the watch below at noon without knowing what it means.”",
+   "speaker": "Corvin",
+   "how": "quietly",
+   "mood": "tension"
+  },
+  {
+   "seq": 137,
+   "para": "p94",
+   "type": "narration",
+   "text": "He looked at the carved letters on the disc under his feet.",
+   "mood": "tension"
+  },
+  {
+   "seq": 138,
+   "para": "p94",
+   "type": "speech",
+   "text": "“And they call us the ones who chain beasts.”",
+   "speaker": "Corvin",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 139,
+   "para": "p95",
+   "type": "speech",
+   "text": "“You chain beasts,”",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 140,
+   "para": "p95",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p96",
+   "type": "speech",
+   "text": "“We do.”",
+   "speaker": "Corvin",
+   "mood": "tension"
+  },
+  {
+   "seq": 142,
+   "para": "p96",
+   "type": "narration",
+   "text": "Corvin didn’t look at him.",
+   "mood": "tension"
+  },
+  {
+   "seq": 143,
+   "para": "p96",
+   "type": "speech",
+   "text": "“We chain the ones we need. They chain the one they need. The difference is that we say so.”",
+   "speaker": "Corvin",
+   "mood": "tension"
+  },
+  {
+   "seq": 144,
+   "para": "p96",
+   "type": "narration",
+   "text": "He was quiet.",
+   "mood": "tension"
+  },
+  {
+   "seq": 145,
+   "para": "p96",
+   "type": "speech",
+   "text": "“There’s one power in Winshire the six crowns can’t stand against. It’s under your knees. My brother believes in the one realm. He weeps for it on steps. I don’t weep. I believe in the hour.”",
+   "speaker": "Corvin",
+   "mood": "tension"
+  },
+  {
+   "seq": 146,
+   "para": "p96",
+   "type": "narration",
+   "text": "He looked at the candle.",
+   "mood": "tension"
+  },
+  {
+   "seq": 147,
+   "para": "p96",
+   "type": "speech",
+   "text": "“And the hour is nearly here.”",
+   "speaker": "Corvin",
+   "mood": "tension",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 148,
+   "para": "p97",
+   "type": "narration",
+   "text": "The ground moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p98",
+   "type": "narration",
+   "text": "He felt it come up through the stone disc into his knees. Something bigger than the hum. A heave. As if the whole rock under the chamber had taken a breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p99",
+   "type": "narration",
+   "text": "From the ledge, from the dark beyond the passage, a sound.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p100",
+   "type": "narration",
+   "text": "Iron. Groaning. Six great groans, one after another, deep, so deep it was hardly a sound at all, coming up through the rock. The chains. Going taut. He knew it as you know a rope’s going taut in your hands before it parts. All six, going tight, and holding, and holding, with a sound like the cables of a ship at anchor in a gale. Then slackening, and going taut again.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 152,
+   "para": "p101",
+   "type": "narration",
+   "text": "The men holding him had gone still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p102",
+   "type": "narration",
+   "text": "Corvin hadn’t moved. He was looking at the passage. At the dark beyond it. His face was very calm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p103",
+   "type": "bond",
+   "text": "Calder.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "how": "thin, as if up a well",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p104",
+   "type": "narration",
+   "text": "Aurveth. In his head. Through the bronze mark, from far above, through all that rock. He hadn’t known she could reach him down here. Her voice was strange. Thin. As if it came up a well.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 156,
+   "para": "p105",
+   "type": "bond",
+   "text": "It’s pulling. Against them. The thing below. I can feel it through the hill. Through my feet. It’s pulling against the chains.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p106",
+   "type": "bond",
+   "text": "Why?",
+   "speaker": "Calder",
+   "listener": "Aurveth",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p107",
+   "type": "bond",
+   "text": "I don’t know.",
+   "speaker": "Aurveth",
+   "listener": "Calder"
+  },
+  {
+   "seq": 159,
+   "para": "p107",
+   "type": "narration",
+   "text": "A pause."
+  },
+  {
+   "seq": 160,
+   "para": "p107",
+   "type": "bond",
+   "text": "Something has told it. Something has woken it more than it was. It knows. It knows something is coming.",
+   "speaker": "Aurveth",
+   "listener": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p108",
+   "type": "narration",
+   "text": "Then Kharrak, behind her, harsh, ragged, the red tide in it so high it was hard to hear the words:",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p109",
+   "type": "bond",
+   "text": "I can feel it in my teeth.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "how": "harsh, ragged",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 163,
+   "para": "p110",
+   "type": "narration",
+   "text": "He felt the fight above.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p111",
+   "type": "narration",
+   "text": "Pieces, most of it, through the marks. The ironback coming up the slope from the spit into the fort. He felt Aurveth meet it in the eastern gate. The weight of it. A shock that went through her whole body and into his. Kharrak’s fire rolling over its back, white, and sliding off, and the plates not burning."
+  },
+  {
+   "seq": 165,
+   "para": "p111",
+   "type": "remembered",
+   "text": "They don’t burn.",
+   "speaker": "Aurveth"
+  },
+  {
+   "seq": 166,
+   "para": "p111",
+   "type": "narration",
+   "text": "The man on its neck with his arm up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p112",
+   "type": "narration",
+   "text": "He felt Kharrak get cut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p113",
+   "type": "narration",
+   "text": "A hot line of pain down his own side, under the ribs, that wasn’t his. He gasped. The man with his knee in Calder’s back pushed harder.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p114",
+   "type": "narration",
+   "text": "Then the red tide went over.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p115",
+   "type": "narration",
+   "text": "He felt it go. All of it. Every wall Kharrak had ever had, gone at once. Not at the ironback or the men. Down. At the tower. At the floor of the round room over the stair, where Calder had gone down and not come back up.",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p116",
+   "type": "narration",
+   "text": "He felt Kharrak start to dig.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p117",
+   "type": "narration",
+   "text": "Through the marks, through the rock, he felt it. Great claws in old stone. Tearing. The floor of the round room at the foot of the tower coming up in pieces. The fallen stone, the old earth, the steps of the stair. Kharrak tearing at it with his forefeet the way the lion had torn at the pit, all winter, at the stone over its kin. Digging down. Toward him.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p118",
+   "type": "bond",
+   "text": "I’m coming,",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "mood": "urgent"
+  },
+  {
+   "seq": 174,
+   "para": "p118",
+   "type": "narration",
+   "text": "said Kharrak, to the rock.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 175,
+   "para": "p118",
+   "type": "bond",
+   "text": "I’m coming.",
+   "speaker": "Kharrak",
+   "listener": "Calder",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p119",
+   "type": "narration",
+   "text": "Dust came down out of the dome of the chamber in a thin stream onto the carved stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p120",
+   "type": "narration",
+   "text": "Corvin looked up at it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 178,
+   "para": "p121",
+   "type": "narration",
+   "text": "The candle had burned down to the last hour-mark. Below it, scored close together in the wax, were ten small notches, and the flame was at the first.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 179,
+   "para": "p122",
+   "type": "narration",
+   "text": "Corvin looked at it. Then he stepped onto the iron boss in the middle of the stone disc, and crouched, and fitted the long black key into the keyhole. It went in a long way. Further than Calder would have thought. To the bow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p123",
+   "type": "narration",
+   "text": "He knelt there with his hand on it, not turning it, and his eyes on the candle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p124",
+   "type": "speech",
+   "text": "“Ten marks,”",
+   "speaker": "Corvin"
+  },
+  {
+   "seq": 182,
+   "para": "p124",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 183,
+   "para": "p124",
+   "type": "speech",
+   "text": "“My brother has the same candle.”",
+   "speaker": "Corvin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p125",
+   "type": "narration",
+   "text": "Calder pulled against the men holding him. He couldn’t move. Four of them. A knee in his back. His arms up behind him so far his shoulders were cracking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p126",
+   "type": "speech",
+   "text": "“Don’t.”",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p127",
+   "type": "narration",
+   "text": "Corvin didn’t look at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p128",
+   "type": "speech",
+   "text": "“Don’t. You don’t know what it is. You don’t know what it’ll do. It’s been down there three hundred years with chains on it and the lamps of a whole kingdom burning off it and you think you can put a collar on it like a hound…”",
+   "speaker": "Calder",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p129",
+   "type": "speech",
+   "text": "“Nine,”",
+   "speaker": "Corvin"
+  },
+  {
+   "seq": 189,
+   "para": "p129",
+   "type": "narration",
+   "text": "said Corvin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p130",
+   "type": "narration",
+   "text": "Over their heads, through the dome, through the rock, Kharrak dug. Dust coming down. Small stones, pattering on the disc. A crack running across the dome over the passage, with a sound like a branch breaking.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p131",
+   "type": "speech",
+   "text": "“Eight.”",
+   "speaker": "Corvin",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p132",
+   "type": "narration",
+   "text": "Below the ledge, in the dark, the six chains went taut and held. And held. And held.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 193,
+   "para": "p133",
+   "type": "narration",
+   "text": "Calder knelt on the carved stone with the blood running into his eye and looked at the long black key in the iron boss and Corvin’s long pale hand on it, still, and couldn’t reach it. Couldn’t move. A farmer, held by four men, a pace from it.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 194,
+   "para": "p134",
+   "type": "thought",
+   "text": "Somewhere under the school,",
+   "speaker": "Calder",
+   "mood": "tension"
+  },
+  {
+   "seq": 195,
+   "para": "p134",
+   "type": "narration",
+   "text": "he thought,",
+   "mood": "tension"
+  },
+  {
+   "seq": 196,
+   "para": "p134",
+   "type": "thought",
+   "text": "another hand on another key.",
+   "speaker": "Calder",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 197,
+   "para": "p135",
+   "type": "thought",
+   "text": "Did she get it? Did Lisska find her? Did she understand?",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p136",
+   "type": "thought",
+   "text": "Is anybody there?",
+   "speaker": "Calder",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p137",
+   "type": "speech",
+   "text": "“Seven,”",
+   "speaker": "Corvin"
+  },
+  {
+   "seq": 200,
+   "para": "p137",
+   "type": "narration",
+   "text": "said Corvin.",
+   "pause_after_ms": 500
+  }
+ ]
+}

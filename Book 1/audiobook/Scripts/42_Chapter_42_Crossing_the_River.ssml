@@ -1,273 +1,274 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<speak version="1.0" xml:lang="en-GB">
-  <!-- AI CUE: TITLE: clear and composed; give the heading room. Do not perform as narrative prose. -->
-  <p><s>Chapter 42: Crossing the River</s></p><break time="700ms"/>
-  <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Kharrak tested the ice without being asked.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Calder only found out afterwards, from Lisska, who'd watched it from the top of Crow Scar and was bursting to tell. Kharrak had gone out alone in the late afternoon, over the Fellwood and the hill and down onto the frozen river above Harrow's End, and stood on it, and stamped. First one foreleg, then the other. Then all his weight, all at once, coming down from a hop.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It didn't break, said Lisska. Not even a crack. He stood there and stamped and it didn't break, and then he came back and lay down in the mouth of the cave as if he hadn't been anywhere.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Calder looked at Kharrak, lying in the cave mouth with his chin on his forelegs and his eyes half shut.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"You went out on the river."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Holds, said Kharrak, without opening his eyes. Thick. Tested.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Somebody could have seen you."</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Somebody did. On the tower across the water. One. Watching. A long breath out. Didn't care.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Why did you do it?"</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Kharrak opened one gold eye.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>You were going to, he said. On foot. Alone. On a river nobody's tried. The eye closed. Wanted to know if it'd hold you before it had to.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Calder sat down on the stone floor of the cave beside the great rust-red head, and after a while he put his hand on the scarred jaw and left it there, and Kharrak let him.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He'd been at Upper Rush since the turn of the cold. All of them had. Bel's house was small and full: Bel and Joss and the children, and Ada and Wren in the loft, and Calder on the floor by the fire with his coat for a pillow. Mabbin and Sorrel, the old grey and her daughter, stood in the byre together, so close that Joss said you couldn't get a straw between them.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>The dragons had moved down from the old hatching caves above Coldtarn when the ice began to run. Aurveth had wanted them nearer. She didn't say why. She said only that the high caves were cold, which was true, and that she was tired of being so far from him, which was also true, and Calder felt under both things a third one she didn't say, and didn't ask.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>So they lay at Crow Scar again, in the old cave, two leagues east of the Fenn farm, and he walked up the beck to them every second night through the frozen Fellwood, and walked back before dawn.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Every day he went to the top of the hill above Upper Rush and looked down the river at the island.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He crossed on the eighty-first night.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>He'd waited as long as he could stand. Seven days of hard frost since the jam. Four since Kharrak stamped on it. The river below Harrow's End was white from bank to bank as far as the island, a long humped causeway of frozen slabs with snow on it, and the old men at the Eelweir said they'd not seen it lock so hard since they were boys.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Fortnight," old Fisk had said, when Calder asked him, leaning on the wall of his hut with his pipe. "You wait a fortnight on a river before you trust her. My da said so. His da said so. And don't go saying any of your mother's words over it, neither. Ice is only water holding its breath. Nothing said holds on it." He looked at Calder sideways. "Why? Where are you thinking of walking?"</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Nowhere."</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Aye." Fisk smoked. "Nowhere's over that way," he said, and nodded down the river at the island. "Mind the far side. There's a channel by the Hearthmere bank that's still running. Greyhold girl went through it two days back, they say, after some fool family walking across. Came up on the island's shore with the man in her arms. Nobody knows how."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Calder looked at him.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"The current, they're saying." Fisk knocked out his pipe. "I've fished that channel sixty years. The current doesn't do that."</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He told Wren he was going to see the dragons. It was true. He'd go to them first.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>His mother didn't ask where he was going. At the door she took his coat off the peg before he could, and he saw her fingers go along the hem to the place where she'd sewn a knot of red thread the night the river locked. For coming home, she said, when she saw him see. Her own mother had done it. She didn't say it worked.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He walked up the beck through the Fellwood in the dark to the hill above the Fenn farm, where they'd agreed to wait: a league and a half from the island, on the open hillside above his own burned top field, where they could lie in the snow and see the river and he could still hear them across the ice. They were there when he came out of the trees. Three great shapes lying in the snow under the stars, bronze and rust and green, with the frost on their backs.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>You're going, said Lisska.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I'm going."</p>
-  <break time="450ms"/><!-- AI CUE: QUESTION: shape the sentence as a genuine question, following its context; avoid an exaggerated upward lilt. -->
-  <p>Can I come? Just to the edge? Just to the island's edge? I'll stay on the ice. I'll be very small.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"No, little one."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>I could fly over. High up. In the dark. Nobody'd see.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Somebody on the tower would. Somebody always does." He looked down the hill at the white river, and the island lying dark in the middle of it, and the long black wall of Greyhold far down on the other bank with its lights. "If three dragons come down on that island, every knight on that wall is out on the ice by morning. You know that."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>I know that. She tucked her head down. I don't like it.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Neither do I, said Kharrak.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Aurveth lay with her head up, looking at the island, and through the bronze mark Calder felt the thing she'd been carrying since the hatching caves. Something older than fear. The feeling you get at the top of a cellar stair when the candle won't reach the bottom.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Go carefully, she said at last. And come back to us. Whatever you find there.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He went down the hill and through the burned stubble of his own top field and past his own dark house and down to the Eelweir, and out onto the river.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It was the strangest walking of his life. The white went out in front of him under the stars, humped and broken, slab on slab, with the snow lying soft on top and crunching under his boots. It creaked, a little. Small sounds, far off, deep down, like a house settling at night. He went on with his heart going and his hands in his pockets, and the island came up out of the white toward him, black, a wall of snow-laden trees.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The voices in his head grew thinner as he went, as if he were walking away from them down a long hall.</p>
-  <break time="450ms"/><!-- AI CUE: QUESTION: shape the sentence as a genuine question, following its context; avoid an exaggerated upward lilt. -->
-  <p>Can you hear me? said Lisska. Still? Can you?</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I can hear you."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Good. Keep saying so.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He came up onto the island's eastern shore and stood under the trees and breathed.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He'd seen it from the air. On Aurveth's neck, high, in the moonlight, and through her eyes when it had been whole and white and full of people. He'd never stood on it.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>It was smaller than he'd thought. And bigger. He went up through the trees in the dark, following what Lisska had shown him, and came out on the old road, white with snow, running between broken walls. The fort. He walked down the middle of the road with his boots crunching and the broken walls on either side, and the snow lying on everything, and no sound at all but his own feet.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The tower stood at the north-west corner of the fort with its young ash growing out of the top, black against the stars. Under the tower, the arch. Over the arch, the letters.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He couldn't read them. He stood in front of them in the starlight and they were just marks, square and spare, with little hooks.</p>
-  <break time="450ms"/><!-- AI CUE: QUESTION: shape the sentence as a genuine question, following its context; avoid an exaggerated upward lilt. -->
-  <p>Is that it? said Lisska. Faint, a league and a half away. Is that the arch? Where Imra stood and laughed? Show me. Push it. The way I do.</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>He didn't know how. He stood and looked at the marks and thought of nothing else, as hard as he could, like holding a lantern up for somebody behind you on a dark stair.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>There, said Lisska. I can see it. It's the same. It's more worn. But it's the same.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Here the road of the one realm crossed the water, said Aurveth, very low, reading it through him. Then nothing else. He felt her stop. Felt her not want to go on.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He stood under the arch until his feet went numb.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He went down to the spit because Lisska said the hunters had been there.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>She'd watched it, all those nights in the autumn, flying high over the island at dusk. Men on the gravel at the south end, she said, with a raft and a cage and chains, and then the cage gone, and the men gone, and the chains left lying. He went down through the south wall of the fort, where an old stair came down to the water, and out onto the gravel of the spit with the snow on it.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The chains were still there.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He could see their shapes under the snow. Long humped lines of them, lying across the gravel the way they'd fallen. He knelt and scraped the snow off one with his hand, and it was beast-chain, heavy, dark, rusted orange now where the frost had got at it. On the side of every link, small and neat:</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>A ring of six dots.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He knelt there on the frozen gravel with his hand on it.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He had five links of chain like this in his coat pocket, from the ashes at Upper Rush, in the summer. He'd carried it every day since. He'd carried it to the ford, and turned Teo over in the water with it in his hand.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He followed the chains along the gravel toward the foot of the old stair, scraping the snow away as he went. At the bottom of the stair an iron stake stood up out of the paving, its head as big as a fist, and round the head was the last link of a chain, the thickest of them all, and a little of the next. Beyond that, nothing. The link had been cut through, clean, the edges still sharp under the rust, where someone had put a chisel to it and struck.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Whatever had been on the other end had walked away wearing the rest.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He put his thumb on the cut.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>Someone cut it loose, said Kharrak, faint. Fierce. Someone cut the beast off their chain.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Yes."</p>
-  <break time="450ms"/><!-- AI CUE: QUESTION: shape the sentence as a genuine question, following its context; avoid an exaggerated upward lilt. -->
-  <p>Who?</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He thought of a girl in river grey on a stream bank, not doing anything at all. Cuts it loose off their chains with a hammer, the thin beast-seller in the Crane had said. And now they won't go back.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He didn't answer. He went back to the body-chains, where two links in one of them had rusted thin, and took his knife out and worked at them with the point and the edge of the stake until they gave, one and then the other, and he had a length free, an arm's length, eight links, with the ring of six on every one. He wrapped it in his scarf and put it inside his coat.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Something to set beside the other one.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He went to the stream last.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Lisska had told him where. The west shore, below the fort, where the little stream came down through the trees to the reeds. Where the girl sat. Where the great grey cat came down to drink.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He came down through the trees in the dark, following the stream by the sound of it, still running under a skin of ice, and came out above the bank, and stopped.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>There'd been a fire.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>A small one. On the flat stones at the water's edge, on this side. He could see the black ring of it in the snow. As he came down the bank toward it he could feel it. Warmth. Faint. Coming up off the stones into the freezing night.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He knelt beside it and held his hand over the ashes. Warm, not hot. A few hours. Less.</p>
-  <break time="450ms"/><!-- AI CUE: QUESTION: shape the sentence as a genuine question, following its context; avoid an exaggerated upward lilt. -->
-  <p>She was here, said Lisska. Breathless. Tonight. Wasn't she? She was here tonight. Just now.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>There were footprints. In the snow round the fire. Boots, a woman's, long and narrow, and they came down from the trees to the stones and sat. He could see where she'd sat, a pressed place in the snow on the bank, by the fire, facing the water. Then they got up and went away down to the reeds at the stream mouth, and out onto the white ice going west, toward the far bank and the tower on the bluff with one light in it.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He knelt by the warm ashes and looked at the prints going away across the ice in the starlight.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He looked at the other prints.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>They were on this side of the stream too. Round. Huge. Each one as broad as a round shield, pressed deep into the snow, four great toes splayed and the marks of claws at the front, drawn in. They came down out of the trees to the north, on this side of the water. They came to a place on the bank a few lengths from the fire, ten paces from where the woman had sat. There the snow was pressed flat in a long hollow, the size of a cart, the shape of something that had lain down there for hours, facing her.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The round prints got up, and went away north again, into the trees.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He knelt in the snow between the two sets of prints. The narrow ones going west across the ice. The great round ones going north into the dark. And the warm ashes between them.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Ten paces, said Lisska. Very small. It lay down ten paces from her. On her side.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Yes."</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>It used to be twenty. Across the water. I told you. I saw.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I know, little one."</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He followed the round prints north.</p>
-  <break time="450ms"/><!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He shouldn't have. He knew that while he was doing it. Every part of him that had been born and raised on a farm at the edge of the Fellwood, where things lived in the deep woods that you didn't go and look at, said so. He did it anyway. Along the stream, into the trees, along a path. A wide path, beaten into the snow. Wide as a cart.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The trees closed over. Oaks, great old ones, their branches heavy with snow, meeting overhead. It was dark under them. Darker than the open shore. The snow on the path glimmered faintly, and the prints went on along it, and he followed them with his hands out of his pockets now.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>The voices in his head had gone very quiet. All three.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He came round a bend in the path where the oaks leaned in close, and stopped, because he could hear it.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Breathing.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>Ahead of him, in the dark under the trees, not far. Close. Slow and deep and huge, in, and out, like a bellows in a forge. He'd sat up with enough sick beasts to know what sleep sounded like. This was something lying awake in the dark, very still, listening.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Listening to him.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Through the three marks on his chest, a league and a half away on a hillside in the snow, he felt them go still.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>All three at once. As if they'd heard it too, through him. Lisska stopped breathing. Kharrak's red tide stopped dead, like a dog's growl when it hears something bigger. And Aurveth, who was more than three hundred years old and afraid of nothing, he felt her go so still, so utterly and completely still, that for one terrible moment he thought something had happened to her.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Calder, she said. Barely. A thread of a voice. Come back. Please. Come back to us now.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>He stood on the path in the dark under the oaks with the breathing ahead of him, slow and deep.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He backed away. One step. Two. Not turning round, as you'd back away from a bull in a field. A dozen steps. More. Round the bend. Then he turned and walked back along the wide path, not running, not looking behind him, all the way to the stream and the shore and the warm ashes.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>The breathing didn't follow him. He'd have heard.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: ACTION: make the phrasing alert and precise; only raise pace or intensity slightly when the sentence supports it. Keep every word clear. -->
-  <p>He knelt by the fire one more time on the way back. He wanted to look at it. The black ring on the stones, and the pressed place where she'd sat, and the long hollow ten paces off where the great beast had lain and watched her. He put his hand on the warm stones and stayed there for a moment, crouched, with his coat falling open.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He got up and went down to the reeds and out across the white ice on the east side, back the way he'd come, toward the Eelweir and the dark shape of his own hill.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>They were waiting for him on the hill above the Fenn farm, lying in the snow where he'd left them, and none of them spoke as he came up through the burned stubble in the grey before dawn.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He stopped in front of them.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Lisska lifted her head first. She put her long nose out toward him, toward his coat, and stopped, a hand's breadth away, and her nostrils went wide. Then she went back. All of her. Back, low, flat to the snow, with her wings tight against her sides and her eyes wide and pale.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Kharrak lifted his head and smelled him from where he lay, and went rigid.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>And Aurveth.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She brought her great head down out of the dark until it was level with him, and put her muzzle almost against his chest. Against his coat. And breathed in. Long. Deep. The way she'd breathed in the air over the island in the moonlight, before the bridge came up out of the dark of her.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>She put her head down in the snow in front of him, on the ground, and didn't lift it.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>He stood there with no idea what to do. He put his hand on the great bronze brow above her eye. He could feel her through the mark, and what he felt was nothing he had a word for. Grief was in it, and fear, and something underneath both, very old and very large, turning over like a sleeper in a deep bed.</p>
-  <break time="450ms"/><!-- AI CUE: TENSION: use controlled, attentive phrasing and let pauses preserve suspense. Do not become theatrical. -->
-  <p>It's on you, said Lisska. In a whisper. The smell. The cat's. The old thing. It's all over your coat. From the path. From the place where it lay.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He looked down at his coat.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>I know that smell, said Aurveth. Into the snow. So low he could barely hear it. I don't know how. I have never been near it. I have never smelled it in my life. And I know it.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>The sun came up over the Fellwood behind them, red, and lay along the white river below, and the island in the middle of it.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>Aurveth didn't lift her head until the sun was clear of the hills.</p>
- <break time="1400ms"/>
-  <!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He found the scale was gone when he got back to Upper Rush.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He put his hand inside his coat in Bel's yard, in the cold morning, to take out the length of chain he'd cut from the stake, and found the chain, wrapped in his scarf, and found the place inside his coat where Lisska's scale had been for ten days, warm, broad as a shield and thin as slate, and found it empty.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He stood in the yard and felt for it again, and it wasn't there.</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>My scale, said Lisska, far off, from the hill. She'd felt him look. You've lost my scale.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I'm sorry, little one."</p>
-  <break time="450ms"/><!-- AI CUE: QUESTION: shape the sentence as a genuine question, following its context; avoid an exaggerated upward lilt. -->
-  <p>Where?</p>
-  <break time="450ms"/><!-- AI CUE: REFLECTION: use measured, inward phrasing; keep emotion restrained and grounded in the text. -->
-  <p>He thought of the warm stones by the stream. Crouching there with his coat open. The pressed place in the snow where a woman had sat, and the long hollow ten paces off.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"I think I know where," he said.</p>
-  <break time="450ms"/><!-- AI CUE: QUESTION: shape the sentence as a genuine question, following its context; avoid an exaggerated upward lilt. -->
-  <p>Will you go back for it?</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He looked down the river at the island.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"No," he said. "I don't think I will."</p>
-  <break time="450ms"/><!-- AI CUE: QUESTION: shape the sentence as a genuine question, following its context; avoid an exaggerated upward lilt. -->
-  <p>Why not?</p>
-  <break time="450ms"/><!-- AI CUE: NARRATION: relaxed, clear, and conversational; preserve sentence rhythm and avoid a dramatic announcer style. -->
-  <p>He didn't answer for a while. Mabbin put her long face out over the byre door and looked at him with her sad eyes. Behind him in the house, Wren was laughing at something Pip had said.</p>
-  <break time="450ms"/><!-- AI CUE: DIALOGUE: speak naturally; distinguish the speaker subtly using the wording and context. Do not invent an accent or emotion. -->
-  <p>"Because it's on her side of the water now," he said.</p>
-<break time="450ms"/></speak>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<!-- The Watch Below, Chapter 42: Crossing the River. Point of view: Calder. -->
+<p><s>Chapter Forty-two.</s></p><break time="800ms"/>
+<p><s>Crossing the River.</s></p><break time="1800ms"/>
+<!-- p1 -->
+<p>Kharrak tested the ice without being asked.</p><break time="500ms"/>
+<!-- p2 -->
+<p>Calder only found out afterwards, from Lisska, who’d watched it from the top of Crow Scar and was bursting to tell. Kharrak had gone out alone in the late afternoon, over the Fellwood and the hill and down onto the frozen river above Harrow’s End, and stood on it, and stamped. First one foreleg, then the other. Then all his weight, all at once, coming down from a hop.</p><break time="500ms"/>
+<!-- p3 · humour: Lisska bursting to tell · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">It didn’t break,</prosody> said Lisska. <prosody rate="94%" volume="-2dB">Not even a crack. He stood there and stamped and it didn’t break, and then he came back and lay down in the mouth of the cave as if he hadn’t been anywhere.</prosody></p><break time="500ms"/>
+<!-- p4 -->
+<p>Calder looked at Kharrak, lying in the cave mouth with his chin on his forelegs and his eyes half shut.</p><break time="500ms"/>
+<!-- p5 · Calder -->
+<p>“You went out on the river.”</p><break time="500ms"/>
+<!-- p6 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Holds,</prosody> said Kharrak, without opening his eyes. <prosody rate="94%" volume="-2dB">Thick. Tested.</prosody></p><break time="500ms"/>
+<!-- p7 · Calder -->
+<p>“Somebody could have seen you.”</p><break time="500ms"/>
+<!-- p8 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Somebody did. On the tower across the water. One. Watching.</prosody> A long breath out. <prosody rate="94%" volume="-2dB">Didn’t care.</prosody></p><break time="500ms"/>
+<!-- p9 · Calder -->
+<p>“Why did you do it?”</p><break time="500ms"/>
+<!-- p10 -->
+<p>Kharrak opened one gold eye.</p><break time="500ms"/>
+<!-- p11 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">You were going to,</prosody> he said. <prosody rate="94%" volume="-2dB">On foot. Alone. On a river nobody’s tried.</prosody> The eye closed. <prosody rate="94%" volume="-2dB">Wanted to know if it’d hold you before it had to.</prosody></p><break time="500ms"/>
+<!-- p12 · tender -->
+<p><prosody rate="95%">Calder sat down on the stone floor of the cave beside the great rust-red head, and after a while he put his hand on the scarred jaw and left it there, and Kharrak let him.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p13 -->
+<p>He’d been at Upper Rush since the turn of the cold. All of them had. Bel’s house was small and full: Bel and Joss and the children, and Ada and Wren in the loft, and Calder on the floor by the fire with his coat for a pillow. Mabbin and Sorrel, the old grey and her daughter, stood in the byre together, so close that Joss said you couldn’t get a straw between them.</p><break time="500ms"/>
+<!-- p14 -->
+<p>The dragons had moved down from the old hatching caves above Coldtarn when the ice began to run. Aurveth had wanted them nearer. She didn’t say why. She said only that the high caves were cold, which was true, and that she was tired of being so far from him, which was also true, and Calder felt under both things a third one she didn’t say, and didn’t ask.</p><break time="500ms"/>
+<!-- p15 -->
+<p>So they lay at Crow Scar again, in the old cave, two leagues east of the Fenn farm, and he walked up the beck to them every second night through the frozen Fellwood, and walked back before dawn.</p><break time="500ms"/>
+<!-- p16 -->
+<p>Every day he went to the top of the hill above Upper Rush and looked down the river at the island.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p17 -->
+<p>He crossed on the eighty-first night.</p><break time="500ms"/>
+<!-- p18 -->
+<p>He’d waited as long as he could stand. Seven days of hard frost since the jam. Four since Kharrak stamped on it. The river below Harrow’s End was white from bank to bank as far as the island, a long humped causeway of frozen slabs with snow on it, and the old men at the Eelweir said they’d not seen it lock so hard since they were boys.</p><break time="500ms"/>
+<!-- p19 · humour: old Fisk's grumbling · Fisk -->
+<p>“Fortnight,” old Fisk had said, when Calder asked him, leaning on the wall of his hut with his pipe. “You wait a fortnight on a river before you trust her. My da said so. His da said so. And don’t go saying any of your mother’s words over it, neither. Ice is only water holding its breath. Nothing said holds on it.” He looked at Calder sideways. “Why? Where are you thinking of walking?”</p><break time="500ms"/>
+<!-- p20 · Calder -->
+<p>“Nowhere.”</p><break time="500ms"/>
+<!-- p21 · Fisk -->
+<p>“Aye.” Fisk smoked. “Nowhere’s over that way,” he said, and nodded down the river at the island. “Mind the far side. There’s a channel by the Hearthmere bank that’s still running. Greyhold girl went through it two days back, they say, after some fool family walking across. Came up on the island’s shore with the man in her arms. Nobody knows how.”</p><break time="500ms"/>
+<!-- p22 -->
+<p>Calder looked at him.</p><break time="500ms"/>
+<!-- p23 · Fisk -->
+<p>“The current, they’re saying.” Fisk knocked out his pipe. “I’ve fished that channel sixty years. The current doesn’t do that.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p24 -->
+<p>He told Wren he was going to see the dragons. It was true. He’d go to them first.</p><break time="500ms"/>
+<!-- p25 · tender -->
+<p><prosody rate="95%">His mother didn’t ask where he was going. At the door she took his coat off the peg before he could, and he saw her fingers go along the hem to the place where she’d sewn a knot of red thread the night the river locked. For coming home, she said, when she saw him see. Her own mother had done it. She didn’t say it worked.</prosody></p><break time="500ms"/>
+<!-- p26 -->
+<p>He walked up the beck through the Fellwood in the dark to the hill above the Fenn farm, where they’d agreed to wait: a league and a half from the island, on the open hillside above his own burned top field, where they could lie in the snow and see the river and he could still hear them across the ice. They were there when he came out of the trees. Three great shapes lying in the snow under the stars, bronze and rust and green, with the frost on their backs.</p><break time="500ms"/>
+<!-- p27 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">You’re going,</prosody> said Lisska.</p><break time="500ms"/>
+<!-- p28 · Calder -->
+<p>“I’m going.”</p><break time="500ms"/>
+<!-- p29 · humour: pleading, playful · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Can I come? Just to the edge? Just to the island’s edge? I’ll stay on the ice. I’ll be very small.</prosody></p><break time="500ms"/>
+<!-- p30 · Calder -->
+<p>“No, little one.”</p><break time="500ms"/>
+<!-- p31 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">I could fly over. High up. In the dark. Nobody’d see.</prosody></p><break time="500ms"/>
+<!-- p32 · Calder -->
+<p>“Somebody on the tower would. Somebody always does.” He looked down the hill at the white river, and the island lying dark in the middle of it, and the long black wall of Greyhold far down on the other bank with its lights. “If three dragons come down on that island, every knight on that wall is out on the ice by morning. You know that.”</p><break time="500ms"/>
+<!-- p33 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">I know that.</prosody> She tucked her head down. <prosody rate="94%" volume="-2dB">I don’t like it.</prosody></p><break time="500ms"/>
+<!-- p34 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Neither do I,</prosody> said Kharrak.</p><break time="500ms"/>
+<!-- p35 · dread -->
+<p><prosody rate="96%">Aurveth lay with her head up, looking at the island, and through the bronze mark Calder felt the thing she’d been carrying since the hatching caves. Something older than fear. The feeling you get at the top of a cellar stair when the candle won’t reach the bottom.</prosody></p><break time="800ms"/>
+<!-- p36 · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Go carefully,</prosody> she said at last. <prosody rate="94%" volume="-2dB">And come back to us. Whatever you find there.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p37 -->
+<p>He went down the hill and through the burned stubble of his own top field and past his own dark house and down to the Eelweir, and out onto the river.</p><break time="500ms"/>
+<!-- p38 · awe -->
+<p><prosody rate="95%">It was the strangest walking of his life. The white went out in front of him under the stars, humped and broken, slab on slab, with the snow lying soft on top and crunching under his boots. It creaked, a little. Small sounds, far off, deep down, like a house settling at night. He went on with his heart going and his hands in his pockets, and the island came up out of the white toward him, black, a wall of snow-laden trees.</prosody></p><break time="800ms"/>
+<!-- p39 -->
+<p>The voices in his head grew thinner as he went, as if he were walking away from them down a long hall.</p><break time="500ms"/>
+<!-- p40 · Lisska (bond, to Calder), faint -->
+<p><prosody rate="94%" volume="-2dB">Can you hear me?</prosody> said Lisska. <prosody rate="94%" volume="-2dB">Still? Can you?</prosody></p><break time="500ms"/>
+<!-- p41 · Calder -->
+<p>“I can hear you.”</p><break time="500ms"/>
+<!-- p42 · Lisska (bond, to Calder), faint -->
+<p><prosody rate="94%" volume="-2dB">Good. Keep saying so.</prosody></p><break time="500ms"/>
+<!-- p43 -->
+<p>He came up onto the island’s eastern shore and stood under the trees and breathed.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p44 -->
+<p>He’d seen it from the air. On Aurveth’s neck, high, in the moonlight, and through her eyes when it had been whole and white and full of people. He’d never stood on it.</p><break time="500ms"/>
+<!-- p45 -->
+<p>It was smaller than he’d thought. And bigger. He went up through the trees in the dark, following what Lisska had shown him, and came out on the old road, white with snow, running between broken walls. The fort. He walked down the middle of the road with his boots crunching and the broken walls on either side, and the snow lying on everything, and no sound at all but his own feet.</p><break time="500ms"/>
+<!-- p46 -->
+<p>The tower stood at the north-west corner of the fort with its young ash growing out of the top, black against the stars. Under the tower, the arch. Over the arch, the letters.</p><break time="500ms"/>
+<!-- p47 -->
+<p>He couldn’t read them. He stood in front of them in the starlight and they were just marks, square and spare, with little hooks.</p><break time="500ms"/>
+<!-- p48 · Lisska (bond, to Calder), faint -->
+<p><prosody rate="94%" volume="-2dB">Is that it?</prosody> said Lisska. Faint, a league and a half away. <prosody rate="94%" volume="-2dB">Is that the arch? Where Imra stood and laughed? Show me. Push it. The way I do.</prosody></p><break time="500ms"/>
+<!-- p49 -->
+<p>He didn’t know how. He stood and looked at the marks and thought of nothing else, as hard as he could, like holding a lantern up for somebody behind you on a dark stair.</p><break time="500ms"/>
+<!-- p50 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">There,</prosody> said Lisska. <prosody rate="94%" volume="-2dB">I can see it. It’s the same. It’s more worn. But it’s the same.</prosody></p><break time="500ms"/>
+<!-- p51 · awe: hushed · Aurveth (bond, to Calder), very low, reading the inscription -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-6dB">Here the road of the one realm crossed the water,</prosody> said Aurveth, very low, reading it through him. Then nothing else. He felt her stop. Felt her not want to go on.</prosody></p><break time="800ms"/>
+<!-- p52 -->
+<p>He stood under the arch until his feet went numb.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p53 -->
+<p>He went down to the spit because Lisska said the hunters had been there.</p><break time="500ms"/>
+<!-- p54 -->
+<p>She’d watched it, all those nights in the autumn, flying high over the island at dusk. Men on the gravel at the south end, she said, with a raft and a cage and chains, and then the cage gone, and the men gone, and the chains left lying. He went down through the south wall of the fort, where an old stair came down to the water, and out onto the gravel of the spit with the snow on it.</p><break time="500ms"/>
+<!-- p55 -->
+<p>The chains were still there.</p><break time="500ms"/>
+<!-- p56 -->
+<p>He could see their shapes under the snow. Long humped lines of them, lying across the gravel the way they’d fallen. He knelt and scraped the snow off one with his hand, and it was beast-chain, heavy, dark, rusted orange now where the frost had got at it. On the side of every link, small and neat:</p><break time="500ms"/>
+<!-- p57 · tension -->
+<p><prosody rate="97%">A ring of six dots.</prosody></p><break time="800ms"/>
+<!-- p58 -->
+<p>He knelt there on the frozen gravel with his hand on it.</p><break time="500ms"/>
+<!-- p59 -->
+<p>He had five links of chain like this in his coat pocket, from the ashes at Upper Rush, in the summer. He’d carried it every day since. He’d carried it to the ford, and turned Teo over in the water with it in his hand.</p><break time="500ms"/>
+<!-- p60 -->
+<p>He followed the chains along the gravel toward the foot of the old stair, scraping the snow away as he went. At the bottom of the stair an iron stake stood up out of the paving, its head as big as a fist, and round the head was the last link of a chain, the thickest of them all, and a little of the next. Beyond that, nothing. The link had been cut through, clean, the edges still sharp under the rust, where someone had put a chisel to it and struck.</p><break time="500ms"/>
+<!-- p61 · reflective -->
+<p><prosody rate="96%">Whatever had been on the other end had walked away wearing the rest.</prosody></p><break time="500ms"/>
+<!-- p62 -->
+<p>He put his thumb on the cut.</p><break time="500ms"/>
+<!-- p63 · Kharrak (bond, to Calder), faint, fierce -->
+<p><prosody rate="94%" volume="-2dB">Someone cut it loose,</prosody> said Kharrak, faint. Fierce. <prosody rate="94%" volume="-2dB">Someone cut the beast off their chain.</prosody></p><break time="500ms"/>
+<!-- p64 · Calder -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p65 · Kharrak (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Who?</prosody></p><break time="500ms"/>
+<!-- p66 · the beast-seller (remembered) -->
+<p>He thought of a girl in river grey on a stream bank, not doing anything at all. <prosody volume="-3dB">Cuts it loose off their chains with a hammer,</prosody> the thin beast-seller in the Crane had said. <prosody volume="-3dB">And now they won’t go back.</prosody></p><break time="500ms"/>
+<!-- p67 -->
+<p>He didn’t answer. He went back to the body-chains, where two links in one of them had rusted thin, and took his knife out and worked at them with the point and the edge of the stake until they gave, one and then the other, and he had a length free, an arm’s length, eight links, with the ring of six on every one. He wrapped it in his scarf and put it inside his coat.</p><break time="500ms"/>
+<!-- p68 -->
+<p>Something to set beside the other one.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p69 -->
+<p>He went to the stream last.</p><break time="500ms"/>
+<!-- p70 -->
+<p>Lisska had told him where. The west shore, below the fort, where the little stream came down through the trees to the reeds. Where the girl sat. Where the great grey cat came down to drink.</p><break time="500ms"/>
+<!-- p71 -->
+<p>He came down through the trees in the dark, following the stream by the sound of it, still running under a skin of ice, and came out above the bank, and stopped.</p><break time="500ms"/>
+<!-- p72 -->
+<p>There’d been a fire.</p><break time="500ms"/>
+<!-- p73 · quiet -->
+<p><prosody rate="95%">A small one. On the flat stones at the water’s edge, on this side. He could see the black ring of it in the snow. As he came down the bank toward it he could feel it. Warmth. Faint. Coming up off the stones into the freezing night.</prosody></p><break time="500ms"/>
+<!-- p74 -->
+<p>He knelt beside it and held his hand over the ashes. Warm, not hot. A few hours. Less.</p><break time="500ms"/>
+<!-- p75 · Lisska (bond, to Calder), breathless -->
+<p><prosody rate="94%" volume="-6dB">She was here,</prosody> said Lisska. Breathless. <prosody rate="94%" volume="-6dB">Tonight. Wasn’t she? She was here tonight. Just now.</prosody></p><break time="500ms"/>
+<!-- p76 -->
+<p>There were footprints. In the snow round the fire. Boots, a woman’s, long and narrow, and they came down from the trees to the stones and sat. He could see where she’d sat, a pressed place in the snow on the bank, by the fire, facing the water. Then they got up and went away down to the reeds at the stream mouth, and out onto the white ice going west, toward the far bank and the tower on the bluff with one light in it.</p><break time="500ms"/>
+<!-- p77 -->
+<p>He knelt by the warm ashes and looked at the prints going away across the ice in the starlight.</p><break time="500ms"/>
+<!-- p78 -->
+<p>He looked at the other prints.</p><break time="500ms"/>
+<!-- p79 · awe -->
+<p><prosody rate="95%">They were on this side of the stream too. Round. Huge. Each one as broad as a round shield, pressed deep into the snow, four great toes splayed and the marks of claws at the front, drawn in. They came down out of the trees to the north, on this side of the water. They came to a place on the bank a few lengths from the fire, ten paces from where the woman had sat. There the snow was pressed flat in a long hollow, the size of a cart, the shape of something that had lain down there for hours, facing her.</prosody></p><break time="800ms"/>
+<!-- p80 -->
+<p>The round prints got up, and went away north again, into the trees.</p><break time="500ms"/>
+<!-- p81 -->
+<p>He knelt in the snow between the two sets of prints. The narrow ones going west across the ice. The great round ones going north into the dark. And the warm ashes between them.</p><break time="500ms"/>
+<!-- p82 · tender · Lisska (bond, to Calder), very small -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">Ten paces,</prosody> said Lisska. Very small. <prosody rate="94%" volume="-2dB">It lay down ten paces from her. On her side.</prosody></prosody></p><break time="500ms"/>
+<!-- p83 · Calder -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p84 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">It used to be twenty. Across the water. I told you. I saw.</prosody></p><break time="500ms"/>
+<!-- p85 · Calder -->
+<p>“I know, little one.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p86 -->
+<p>He followed the round prints north.</p><break time="500ms"/>
+<!-- p87 · tension -->
+<p><prosody rate="97%">He shouldn’t have. He knew that while he was doing it. Every part of him that had been born and raised on a farm at the edge of the Fellwood, where things lived in the deep woods that you didn’t go and look at, said so. He did it anyway. Along the stream, into the trees, along a path. A wide path, beaten into the snow. Wide as a cart.</prosody></p><break time="800ms"/>
+<!-- p88 -->
+<p>The trees closed over. Oaks, great old ones, their branches heavy with snow, meeting overhead. It was dark under them. Darker than the open shore. The snow on the path glimmered faintly, and the prints went on along it, and he followed them with his hands out of his pockets now.</p><break time="500ms"/>
+<!-- p89 · tension -->
+<p><prosody rate="97%">The voices in his head had gone very quiet. All three.</prosody></p><break time="800ms"/>
+<!-- p90 -->
+<p>He came round a bend in the path where the oaks leaned in close, and stopped, because he could hear it.</p><break time="500ms"/>
+<!-- p91 · dread -->
+<p><prosody rate="96%">Breathing.</prosody></p><break time="800ms"/>
+<!-- p92 · dread -->
+<p><prosody rate="96%">Ahead of him, in the dark under the trees, not far. Close. Slow and deep and huge, in, and out, like a bellows in a forge. He’d sat up with enough sick beasts to know what sleep sounded like. This was something lying awake in the dark, very still, listening.</prosody></p><break time="800ms"/>
+<!-- p93 · dread -->
+<p><prosody rate="96%">Listening to him.</prosody></p><break time="800ms"/>
+<!-- p94 -->
+<p>Through the three marks on his chest, a league and a half away on a hillside in the snow, he felt them go still.</p><break time="500ms"/>
+<!-- p95 · dread -->
+<p><prosody rate="96%">All three at once. As if they’d heard it too, through him. Lisska stopped breathing. Kharrak’s red tide stopped dead, like a dog’s growl when it hears something bigger. And Aurveth, who was more than three hundred years old and afraid of nothing, he felt her go so still, so utterly and completely still, that for one terrible moment he thought something had happened to her.</prosody></p><break time="800ms"/>
+<!-- p96 · urgent: frightened, barely audible · Aurveth (bond, to Calder), barely, a thread of a voice -->
+<p><prosody rate="105%"><prosody rate="94%" volume="-2dB">Calder,</prosody> she said. Barely. A thread of a voice. <prosody rate="94%" volume="-2dB">Come back. Please. Come back to us now.</prosody></prosody></p><break time="500ms"/>
+<!-- p97 -->
+<p>He stood on the path in the dark under the oaks with the breathing ahead of him, slow and deep.</p><break time="500ms"/>
+<!-- p98 · tension -->
+<p><prosody rate="97%">He backed away. One step. Two. Not turning round, as you’d back away from a bull in a field. A dozen steps. More. Round the bend. Then he turned and walked back along the wide path, not running, not looking behind him, all the way to the stream and the shore and the warm ashes.</prosody></p><break time="800ms"/>
+<!-- p99 -->
+<p>The breathing didn’t follow him. He’d have heard.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p100 -->
+<p>He knelt by the fire one more time on the way back. He wanted to look at it. The black ring on the stones, and the pressed place where she’d sat, and the long hollow ten paces off where the great beast had lain and watched her. He put his hand on the warm stones and stayed there for a moment, crouched, with his coat falling open.</p><break time="500ms"/>
+<!-- p101 -->
+<p>He got up and went down to the reeds and out across the white ice on the east side, back the way he’d come, toward the Eelweir and the dark shape of his own hill.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p102 -->
+<p>They were waiting for him on the hill above the Fenn farm, lying in the snow where he’d left them, and none of them spoke as he came up through the burned stubble in the grey before dawn.</p><break time="500ms"/>
+<!-- p103 -->
+<p>He stopped in front of them.</p><break time="500ms"/>
+<!-- p104 · dread -->
+<p><prosody rate="96%">Lisska lifted her head first. She put her long nose out toward him, toward his coat, and stopped, a hand’s breadth away, and her nostrils went wide. Then she went back. All of her. Back, low, flat to the snow, with her wings tight against her sides and her eyes wide and pale.</prosody></p><break time="800ms"/>
+<!-- p105 -->
+<p>Kharrak lifted his head and smelled him from where he lay, and went rigid.</p><break time="500ms"/>
+<!-- p106 -->
+<p>And Aurveth.</p><break time="500ms"/>
+<!-- p107 -->
+<p>She brought her great head down out of the dark until it was level with him, and put her muzzle almost against his chest. Against his coat. And breathed in. Long. Deep. The way she’d breathed in the air over the island in the moonlight, before the bridge came up out of the dark of her.</p><break time="500ms"/>
+<!-- p108 -->
+<p>She put her head down in the snow in front of him, on the ground, and didn’t lift it.</p><break time="500ms"/>
+<!-- p109 · awe: something ancient stirring -->
+<p><prosody rate="95%">He stood there with no idea what to do. He put his hand on the great bronze brow above her eye. He could feel her through the mark, and what he felt was nothing he had a word for. Grief was in it, and fear, and something underneath both, very old and very large, turning over like a sleeper in a deep bed.</prosody></p><break time="800ms"/>
+<!-- p110 · Lisska (bond, to Calder), whispered -->
+<p><prosody rate="94%" volume="-6dB">It’s on you,</prosody> said Lisska. In a whisper. <prosody rate="94%" volume="-6dB">The smell. The cat’s. The old thing. It’s all over your coat. From the path. From the place where it lay.</prosody></p><break time="500ms"/>
+<!-- p111 -->
+<p>He looked down at his coat.</p><break time="500ms"/>
+<!-- p112 · awe: very low · Aurveth (bond, to Calder), very low -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-6dB">I know that smell,</prosody> said Aurveth. Into the snow. So low he could barely hear it. <prosody rate="94%" volume="-6dB">I don’t know how. I have never been near it. I have never smelled it in my life. And I know it.</prosody></prosody></p><break time="800ms"/>
+<!-- p113 -->
+<p>The sun came up over the Fellwood behind them, red, and lay along the white river below, and the island in the middle of it.</p><break time="500ms"/>
+<!-- p114 -->
+<p>Aurveth didn’t lift her head until the sun was clear of the hills.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p115 -->
+<p>He found the scale was gone when he got back to Upper Rush.</p><break time="500ms"/>
+<!-- p116 -->
+<p>He put his hand inside his coat in Bel’s yard, in the cold morning, to take out the length of chain he’d cut from the stake, and found the chain, wrapped in his scarf, and found the place inside his coat where Lisska’s scale had been for ten days, warm, broad as a shield and thin as slate, and found it empty.</p><break time="500ms"/>
+<!-- p117 -->
+<p>He stood in the yard and felt for it again, and it wasn’t there.</p><break time="500ms"/>
+<!-- p118 · Lisska (bond, to Calder), far off -->
+<p><prosody rate="94%" volume="-2dB">My scale,</prosody> said Lisska, far off, from the hill. She’d felt him look. <prosody rate="94%" volume="-2dB">You’ve lost my scale.</prosody></p><break time="500ms"/>
+<!-- p119 · Calder -->
+<p>“I’m sorry, little one.”</p><break time="500ms"/>
+<!-- p120 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Where?</prosody></p><break time="500ms"/>
+<!-- p121 -->
+<p>He thought of the warm stones by the stream. Crouching there with his coat open. The pressed place in the snow where a woman had sat, and the long hollow ten paces off.</p><break time="500ms"/>
+<!-- p122 · Calder -->
+<p>“I think I know where,” he said.</p><break time="500ms"/>
+<!-- p123 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Will you go back for it?</prosody></p><break time="500ms"/>
+<!-- p124 -->
+<p>He looked down the river at the island.</p><break time="500ms"/>
+<!-- p125 · quiet · Calder -->
+<p><prosody rate="95%">“No,” he said. “I don’t think I will.”</prosody></p><break time="500ms"/>
+<!-- p126 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Why not?</prosody></p><break time="500ms"/>
+<!-- p127 · tender -->
+<p><prosody rate="95%">He didn’t answer for a while. Mabbin put her long face out over the byre door and looked at him with her sad eyes. Behind him in the house, Wren was laughing at something Pip had said.</prosody></p><break time="500ms"/>
+<!-- p128 · quiet: a decision · Calder -->
+<p><prosody rate="95%">“Because it’s on her side of the water now,” he said.</prosody></p>
+<break time="1800ms"/>
+</speak>

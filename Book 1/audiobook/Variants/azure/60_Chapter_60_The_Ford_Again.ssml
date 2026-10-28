@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="en-GB">
+<voice name="en-GB-RyanNeural">
+<!-- The Watch Below, Chapter 60: The Ford Again. Point of view: Calder. -->
+<p><s>Chapter Sixty.</s></p><break time="800ms"/>
+<p><s>The Ford Again.</s></p><break time="1800ms"/>
+<!-- p1 · reflective · Calder (thought) -->
+<p><prosody rate="96%">The ford remembers. The Clan says so. Every weight that ever crossed it. Calder had stood in it once with Teo’s weight in his arms, heavy and cold, with the water going over both of them, and he’d thought: <prosody rate="97%" volume="-4dB">it’s learning this one now.</prosody> He’d thought about it in the winter, at night, on Bel’s floor. Whether a ford could remember the weight of a thing that was said in it. Whether words weighed anything at all.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p2 -->
+<p>Hallam Brecc went to Varrhold on the hundred-and-twenty-seventh day and to Skarrow on the hundred-and-twenty-eighth.</p><break time="500ms"/>
+<!-- p3 -->
+<p>He came back to the Scar on the evening of the second day on Morrow, slow, tired, with the old black dragon’s wings beating long and heavy in the dusk, and climbed down off her neck, and sat on the rock with his stick across his knees, and was quiet a while before he spoke.</p><break time="500ms"/>
+<!-- p4 · Hallam -->
+<p>“They’ll come,” he said.</p><break time="500ms"/>
+<!-- p5 -->
+<p>Calder had been sure they wouldn’t.</p><break time="500ms"/>
+<!-- p6 · Hallam -->
+<p>“Both of them.” Hallam looked out over the dark valley toward the north. “Arn said he’d come to hear the barley man say whatever it is he’s been carrying in his mouth all winter, and then he’d decide whether to drown him in the beck. Ulric said…” He stopped. “Ulric said he’d told you once, <prosody volume="-3dB">when you’re ready to say it, you know where I am,</prosody> and if you were ready, he’d be there.”</p><break time="500ms"/>
+<!-- p7 · Calder -->
+<p>“And the truce?”</p><break time="500ms"/>
+<!-- p8 · reflective · Hallam -->
+<p><prosody rate="96%">“Under the old law. In the boy’s name. Twenty riders each, on their own banks. Nobody crosses the water but you.” Hallam leaned on his stick. “And the ledges will sit on the hill. All eleven of us. As keepers. It’s not been done since Teo’s grandfather’s time. The bonded sit above a ford meeting, and if either side breaks the truce, the bonded come down on them.” He was quiet a moment. “I told them both that. They both went very still.”</prosody></p><break time="500ms"/>
+<!-- p9 · Calder -->
+<p>“Will the others come? From the ledges?”</p><break time="500ms"/>
+<!-- p10 · Hallam -->
+<p>“They’ll come.” Hallam looked at Morrow, lying on the rock behind him with her grey-edged head on her forelegs. “For the law. It’s the only thing they’ve got left. It’s why they sat out the war.”</p><break time="500ms"/>
+<!-- p11 -->
+<p>He got up.</p><break time="500ms"/>
+<!-- p12 · Hallam -->
+<p>“The hundred-and-thirtieth day,” he said. “At noon. The same hour the boy chose.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p13 -->
+<p>He told the dragons that night what he wanted.</p><break time="500ms"/>
+<!-- p14 -->
+<p>Nobody else. Only them, in the cave under the Scar, in the dark.</p><break time="500ms"/>
+<!-- p15 · Calder -->
+<p>“Lisska. You’ll be on the road from the Ram’s Head. From first light. High. Where nobody looks.” He felt her listening. “You’re looking for one man. You know his face. You saw it at Varrhold in the summer. In the lower stable.”</p><break time="500ms"/>
+<!-- p16 · quiet · Lisska (bond, to Calder), very small -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-2dB">The bucket man,</prosody> said Lisska. Very small. <prosody rate="94%" volume="-2dB">I don’t like him. I never liked him.</prosody></prosody></p><break time="500ms"/>
+<!-- p17 · Calder -->
+<p>“I know. If he comes up the road toward the ford, on his own, or with a few, you tell me. And Kharrak goes and takes him. Alive.” He looked at Kharrak in the dark. “Alive. Not a mark on him he can’t walk with. And brings him to the ford. And I’ll stand him in the water in front of both of them.”</p><break time="500ms"/>
+<!-- p18 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">And if he doesn’t come?</prosody></p><break time="500ms"/>
+<!-- p19 · Calder -->
+<p>“Then I’ll say it anyway.”</p><break time="500ms"/>
+<!-- p20 · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">He’ll not come,</prosody> said Aurveth. <prosody rate="94%" volume="-2dB">A man like that doesn’t come to see. He sends.</prosody></p><break time="500ms"/>
+<!-- p21 · Calder -->
+<p>“Then we’ll see what he sends.”</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p22 -->
+<p>He went down to the ford on the morning of the hundred-and-thirtieth day on Aurveth, with Kharrak beside him, and the sun coming up gold on the moor.</p><break time="500ms"/>
+<!-- p23 · grief: same ford, changed -->
+<p><prosody rate="94%">It was the same. He’d known it would be and it still went through him. The long slant of the Drover’s Way coming down off the moor to the water. The beck running wide and shallow over its smooth brown stones, high now with the thaw, loud, brown, fast. The alders leaning in from both banks, with their catkins out, yellow. On the slope above, where the shepherd’s shieling had stood, a black square of burned turf and fallen stone.</prosody></p><break time="800ms"/>
+<!-- p24 -->
+<p>Further up, on the near side, the ford-house. Where they’d laid Teo out. Ulric’s men had burned that too, in the winter. Four black walls with the sky in them.</p><break time="500ms"/>
+<!-- p25 -->
+<p>Aurveth came down on the ridge above the near bank, behind the gorse, where she could see the whole of it. Kharrak beside her. Calder slid off.</p><break time="500ms"/>
+<!-- p26 · Calder (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">Lisska,</prosody> he said.</p><break time="500ms"/>
+<!-- p27 · Lisska (bond, to Calder), far off, thin -->
+<p><prosody rate="94%" volume="-2dB">I’m here.</prosody> Far off. Thin. Cold. <prosody rate="94%" volume="-2dB">On the road. Above the Fellwood. I can see a long way.</prosody> A pause. <prosody rate="94%" volume="-2dB">There’s nobody. Carts. Men walking. Not him.</prosody></p><break time="500ms"/>
+<!-- p28 · Calder (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">Keep looking.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p29 -->
+<p>The ledges came at the middle of the morning.</p><break time="500ms"/>
+<!-- p30 · awe -->
+<p><prosody rate="95%">He heard them before he saw them. The sound of wings, a lot of wings, coming down out of the north from the Scarfell. Then they were over the ridge, low, in a long line: eleven dragons. Black and bronze and green and grey, old most of them, with their riders on their necks in plain grey cloaks, coming down the sky toward the ford one behind the other like geese.</prosody></p><break time="800ms"/>
+<!-- p31 -->
+<p>Morrow first. Hallam on her neck, his white beard blowing.</p><break time="500ms"/>
+<!-- p32 -->
+<p>They came down on the slope above the ford, by the black ruin of the shieling, and folded their wings, and settled. In a row, along the hillside. Eleven of them, facing the water. Their riders slid down and stood beside them.</p><break time="500ms"/>
+<!-- p33 · awe -->
+<p><prosody rate="95%">Calder had never seen anything like it. Nobody living had, Hallam said. The bonded of the Clan sitting above a ford in a row, as keepers of a truce, the way their grandfathers’ grandfathers had.</prosody></p><break time="800ms"/>
+<!-- p34 -->
+<p>He stood on the ridge and looked at them and something in his chest went tight.</p><break time="500ms"/>
+<!-- p35 · awe: Aurveth moved · Aurveth (bond, to Calder), very low -->
+<p><prosody rate="95%"><prosody rate="94%" volume="-6dB">They came,</prosody> said Aurveth. Very low. <prosody rate="94%" volume="-6dB">All of them. I thought they’d forgotten how.</prosody></prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p36 -->
+<p>Arn came at the hour before noon. Over the far rise, at a walk, on his black horse, with twenty riders behind him in grey with the red thread. Gorm Askell at his side. They came down the far slope of the Way to the edge of the alders, and stopped, and sat their horses on the far bank.</p><break time="500ms"/>
+<!-- p37 -->
+<p>Arn looked up at the hillside, at the eleven dragons in their row.</p><break time="500ms"/>
+<!-- p38 -->
+<p>Then he looked across the water.</p><break time="500ms"/>
+<!-- p39 -->
+<p>Ulric came a few minutes after. Down the near slope, the long slant of the Way from the south, on the huge grey horse, with Sten Raske beside him and twenty riders in plain grey behind. He came down to the near bank, under the alders, a stone’s throw from where Teo had lain, and stopped.</p><break time="500ms"/>
+<!-- p40 · tension -->
+<p><prosody rate="97%">The two of them sat their horses on either bank of the ford with the beck running brown and loud between them, and looked at each other.</prosody></p><break time="800ms"/>
+<!-- p41 · tension -->
+<p><prosody rate="97%">Neither spoke.</prosody></p><break time="800ms"/>
+<!-- p42 · Calder (bond, to Lisska) -->
+<p><prosody rate="94%" volume="-2dB">Lisska,</prosody> said Calder.</p><break time="500ms"/>
+<!-- p43 · Lisska (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">Nobody,</prosody> said Lisska. <prosody rate="94%" volume="-2dB">Still nobody. I’m sorry.</prosody></p><break time="500ms"/>
+<!-- p44 -->
+<p>He went down the slope.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p45 -->
+<p>He walked into the beck.</p><break time="500ms"/>
+<!-- p46 · grief -->
+<p><prosody rate="94%">The water came up cold to his knees and pushed at him, hard. He went out over the smooth brown stones to the middle, to the place where the beck ran fastest. Then, without meaning to, a little toward the near bank. To the place under the alders. Where the water had gone over Teo’s back and round his shoulders and out past his hands, red.</prosody></p><break time="800ms"/>
+<!-- p47 -->
+<p>He stood there.</p><break time="500ms"/>
+<!-- p48 -->
+<p>He looked at Arn on the far bank. At Ulric on the near. At the eleven dragons on the hillside, and Hallam Brecc in front of them with his stick. At the ridge behind, where Aurveth lay with her head up, and Kharrak.</p><break time="500ms"/>
+<!-- p49 -->
+<p>He’d never said anything to anybody’s face in his life. He’d told Bel, a month ago, that he thought he might start.</p><break time="500ms"/>
+<!-- p50 · tension -->
+<p><prosody rate="97%">He opened his mouth.</prosody></p><break time="800ms"/>
+<!-- p51 · Calder -->
+<p>“There was a man,” he said.</p><break time="500ms"/>
+<!-- p52 -->
+<p>His voice didn’t carry. The beck was too loud. He saw Arn lean forward on his horse. He took a breath and said it again, louder, as you’d shout across a field.</p><break time="500ms"/>
+<!-- p53 · tension: shouting over the water · Calder, shouting across the beck -->
+<p><prosody rate="97%"><prosody volume="+3dB">“There was a man. At Varrhold. In the summer. In the lower stable.”</prosody> He made himself look at Ulric. <prosody volume="+3dB">“One of yours. Taken on after the funeral. A coast drover, he said. He sat on a bucket at the stable door mending a halter, three paces from the foot of the cliff path. And when Teo said the ford out loud, the place and the hour, for anybody to hear…”</prosody></prosody></p><break time="800ms"/>
+<!-- p54 -->
+<p>He swallowed.</p><break time="500ms"/>
+<!-- p55 · Calder, loud -->
+<p>“He was sitting there,” said Calder. “Three paces off. He heard it. And he was gone before light on the morning of the ford. And on his knife there’s a ring of six dots. The same six that’s on every chain and collar and coin the Restoration ever made.” He turned to Arn. “And six nights ago I saw him at the Ram’s Head. In the inn yard. With a ledger and a chest of silver. Paying out the swords.”</p><break time="500ms"/>
+<!-- p56 · tension -->
+<p><prosody rate="97%">The beck went over the stones.</prosody></p><break time="800ms"/>
+<!-- p57 · Calder, loud -->
+<p>“His name’s Rook,” said Calder.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p58 -->
+<p>Ulric’s face changed.</p><break time="500ms"/>
+<!-- p59 · tension -->
+<p><prosody rate="97%">Calder saw it. He was looking at Ulric when he said the name, and he saw the big closed face open, all at once.</prosody></p><break time="800ms"/>
+<!-- p60 · Ulric -->
+<p>“Rook,” said Ulric.</p><break time="500ms"/>
+<!-- p61 · Calder -->
+<p>“Yes.”</p><break time="500ms"/>
+<!-- p62 · Ulric, voice gone strange -->
+<p>“My drover.” Ulric’s voice had gone strange. “The coast man. With the hands.” He stared at Calder across the water. “He went before light. That morning. The morning of the ford. My steward came and told me he’d gone in the night with one of the horses. I thought he’d run off. I thought…” He stopped. “I didn’t think anything. A drover gone with a horse. I sent nobody after him.”</p><break time="500ms"/>
+<!-- p63 -->
+<p>On the far bank, Arn hadn’t moved.</p><break time="500ms"/>
+<!-- p64 · Arn -->
+<p>“Your man,” said Arn.</p><break time="500ms"/>
+<!-- p65 · Ulric -->
+<p>“My man.” Ulric turned his head and looked at his nephew. “Taken on after the funeral. Raske took him on. On my word. I never…” He stopped again. His face had gone grey. “I never once thought of him. Not once. All winter.”</p><break time="500ms"/>
+<!-- p66 -->
+<p>Arn sat on his black horse on the far bank and looked at his uncle.</p><break time="500ms"/>
+<!-- p67 · tension -->
+<p><prosody rate="97%">He didn’t speak. But his face was doing something Calder had never seen it do. Not at the ford in the autumn, with his hand in his brother’s blood. Not on the step of his father’s hall. It had stopped being a knife. It was listening.</prosody></p><break time="800ms"/>
+<!-- p68 · tension: knot holding -->
+<p><prosody rate="97%">Calder stood in the water between them and felt it. The thing he’d wanted. Both of them, at once, hearing it in the same breath, on either side of the water, with the beck going over the stones between them. Neither able to say it had been told to the other first. He felt it hold, as you feel a knot hold when you pull on it.</prosody></p><break time="800ms"/>
+<!-- p69 -->
+<p>He opened his mouth to say the rest.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p70 · action -->
+<p><prosody rate="104%">The first bolt took one of Ulric’s riders in the throat.</prosody></p><break time="500ms"/>
+<!-- p71 · action -->
+<p><prosody rate="104%">Calder heard it. A short flat <emphasis level="moderate">thock</emphasis>, from somewhere up the far slope behind Arn. The rider went sideways off his horse into the shallows without a sound, and the horse reared.</prosody></p><break time="500ms"/>
+<!-- p72 -->
+<p>Then the gorse on the far hillside was full of men.</p><break time="500ms"/>
+<!-- p73 · action -->
+<p><prosody rate="104%">Up the slope behind Arn’s riders. In the yellow gorse, among the rocks. Twenty, thirty, standing up all at once, with crossbows. In grey. With the red thread in their armbands. Calder saw it. He saw them stand up out of the gorse in Arn’s colours and lift their crossbows and loose, all together, down the slope, over Arn’s head, across the water, into Ulric’s riders on the near bank.</prosody></p><break time="500ms"/>
+<!-- p74 · action -->
+<p><prosody rate="104%">Men fell. Horses screamed. Raske’s horse went down in the shallows and Raske with it.</prosody></p><break time="500ms"/>
+<!-- p75 · action -->
+<p><prosody rate="104%">From behind Calder, from the gorse on the near slope, above Ulric, in the same breath, the same sound. <emphasis level="moderate">Thock. Thock. Thock.</emphasis> He turned in the water. Men standing up in the gorse on the near hillside. Thirty. In plain grey. Ulric’s colours. Loosing down the slope, over Ulric’s head, across the water, into Arn’s riders on the far bank.</prosody></p><break time="500ms"/>
+<!-- p76 -->
+<p>Both at once.</p><break time="500ms"/>
+<!-- p77 · dread -->
+<p><prosody rate="96%">He stood in the middle of the ford with the bolts going over him both ways and understood it in one terrible clear moment, as you understand a fall while you’re still falling.</prosody></p><break time="800ms"/>
+<!-- p78 -->
+<p>Every man on the far bank had just seen men in plain grey shoot their fellows from Ulric’s side. Every man on the near bank had just seen men in red thread shoot theirs from Arn’s.</p><break time="500ms"/>
+<!-- p79 · Calder; Calder, anguished -->
+<p>“No,” he said. ”<emphasis level="moderate">No…</emphasis>”</p><break time="500ms"/>
+<!-- p80 · action: chaos · Arn (thought) -->
+<p><prosody rate="104%">Arn was shouting. Ulric was shouting. Each of them, on his own bank, with his own men dying round him, shouting the other’s name. Arn wheeled his black horse with his sword out, and Calder saw his face, and it was a knife again. Worse. <prosody rate="97%" volume="-4dB">Truce. Under truce. In my brother’s name. At his ford.</prosody> Ulric was off his horse in the shallows, hauling at Raske, roaring.</prosody></p><break time="500ms"/>
+<!-- p81 -->
+<p>Neither of them looked up at the gorse. They looked at each other.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p82 -->
+<p>On the slope above, the eleven dragons hadn’t moved.</p><break time="500ms"/>
+<!-- p83 · dread -->
+<p><prosody rate="96%">He saw it. Eleven dragons, the bonded of the ledges, keepers of the truce, sitting on the hillside in their row by the black ruin of the shieling, with their heads up and their riders beside them, watching men in Clan grey shoot each other across the ford. And not moving.</prosody></p><break time="800ms"/>
+<!-- p84 -->
+<p>They didn’t know what to do.</p><break time="500ms"/>
+<!-- p85 · Hallam (remembered) -->
+<p>He saw it in the way they sat. In the riders’ faces. The old law. <prosody volume="-3dB">No bonded rider fights kin.</prosody> They’d sat out the whole war for it. There in the gorse on both slopes were men in Clan grey, with the Clan’s own colours on their arms, and the law said those were kin. The law said you don’t come down on them. You don’t.</p><break time="500ms"/>
+<!-- p86 · dread: realisation -->
+<p><prosody rate="96%">That was what it had been built for. He knew it as he stood there. Somebody had known about the law. Somebody had known the ledges would sit on the hill. Somebody had put Clan grey on sixty strangers and put them in the gorse on both slopes, so that when the bonded came to keep the truce they’d sit there and watch it break, and not move. Because it would look like kin.</prosody></p><break time="800ms"/>
+<!-- p87 · anger: self-blame · Calder (thought) -->
+<p><prosody rate="97%" volume="-4dB">Somebody heard,</prosody> he thought. <prosody rate="97%" volume="-4dB">He heard. I counted on it.</prosody> He was in the water to his knees with the bolts going over his head. <prosody rate="97%" volume="-4dB">I counted on it, and he heard, and he sent.</prosody></p><break time="500ms"/>
+<!-- p88 -->
+<p>Behind him on the ridge, Aurveth stood up.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p89 -->
+<p>Kharrak didn’t hesitate. Kharrak didn’t have a law.</p><break time="500ms"/>
+<!-- p90 · action -->
+<p><prosody rate="104%">He came off the ridge behind Calder with a roar that shook the alders and went straight down the near slope, low, over Ulric’s riders, into the gorse where the men in plain grey were standing with their crossbows. Calder heard him hit. He heard the men in the gorse scream. He felt the red tide go through him like a flood through a broken weir.</prosody></p><break time="500ms"/>
+<!-- p91 · action -->
+<p><prosody rate="104%">Aurveth went the other way. Over the ford, over Calder’s head, so low the wind of her wings knocked him to his knees in the water, and up the far slope over Arn’s head, into the gorse where the men in red thread were. He saw her come down among them like a falling hill.</prosody></p><break time="500ms"/>
+<!-- p92 -->
+<p>And on the slope above, one of the eleven moved.</p><break time="500ms"/>
+<!-- p93 · urgent -->
+<p><prosody rate="105%">Morrow. The old black dragon with the grey at the edges of her scales. She came up off the hillside, heavy, slow, with Hallam Brecc on her neck, and he had his stick in his fist and was standing up on her back, shouting. Calder could hear him. Even over everything. An old man’s voice, high and cracked, shouting across the slope at the other ten.</prosody></p><break time="500ms"/>
+<!-- p94 · Hallam, shouting, high and cracked -->
+<p><prosody volume="+3dB">”<emphasis level="moderate">They’re not kin! They’re not kin! Look at them! They’re not Clan!</emphasis>”</prosody></p><break time="500ms"/>
+<!-- p95 -->
+<p>Morrow went down the slope toward the far gorse.</p><break time="500ms"/>
+<!-- p96 -->
+<p>And Calder, on his knees in the beck, saw the bolt.</p><break time="500ms"/>
+<!-- p97 · dread: slowed moment -->
+<p><prosody rate="96%">He’d always see it. One bolt, from the far gorse, from a man in red thread who’d turned when he saw the black dragon coming. A short flat flight, upward, across the slope. Hallam Brecc, standing on his dragon’s back with his stick in his fist, shouting, stopped shouting.</prosody></p><break time="800ms"/>
+<!-- p98 · grief -->
+<p><prosody rate="94%">He folded over. Morrow, beneath him, in the same moment, stopped in the air as if she’d been struck too, and fell. Onto the hillside, and sliding, in a long black tumble of wings, down the slope through the gorse and the stones, onto the bank of the ford, into the edge of the water.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p99 · action -->
+<p><prosody rate="104%">It was over very fast after that.</prosody></p><break time="500ms"/>
+<!-- p100 -->
+<p>The ten on the slope came down. All of them, when Morrow fell. They came down off the hillside into the gorse on both sides of the ford with a sound Calder had no word for, and the men in the gorse, the ones who were left, broke and ran. Up and over the ridges. Into the heather. Down the far side, where there must have been horses waiting, because by the time the dragons came up over the ridges after them they were gone.</p><break time="500ms"/>
+<!-- p101 -->
+<p>And Arn was gone. And Ulric.</p><break time="500ms"/>
+<!-- p102 -->
+<p>Calder didn’t see them go. He was on his knees in the water and then he was up and running through the ford toward the black shape at the edge of it, and by the time he looked up again the far bank was empty except for the dead, and Arn’s black horse going away over the far rise with Arn on it and his riders behind him, those that could ride. On the near bank, Ulric’s people were going too, back down the Way, at a run, carrying their hurt, and Ulric among them on foot, with Raske’s body over his shoulder.</p><break time="500ms"/>
+<!-- p103 · grief -->
+<p><prosody rate="94%">Each of them sure. Each of them going home certain of what he’d seen.</prosody></p><break time="800ms"/>
+<!-- p104 -->
+<p>He could have shouted after them. He didn’t. There was nobody to shout to.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p105 -->
+<p>Hallam Brecc was lying on the stones at the edge of the ford with his head on Morrow’s foreleg.</p><break time="500ms"/>
+<!-- p106 · grief -->
+<p><prosody rate="94%">The bolt was in his chest, high, on the left side, under the collarbone. Most of it. Only the flights showing. His cloak was soaked dark round it. He was alive. His eyes were open, pale and old, looking up at the alders with their yellow catkins against the sky.</prosody></p><break time="800ms"/>
+<!-- p107 · grief -->
+<p><prosody rate="94%">Morrow lay beside him in the shallows with the water going over her tail. She wasn’t hurt that Calder could see. There was no bolt in her. She was lying with her great grey-edged head curled round, close to the old man’s, and her eyes were open, and she wasn’t moving at all.</prosody></p><break time="800ms"/>
+<!-- p108 -->
+<p>Calder knelt down on the stones.</p><break time="500ms"/>
+<!-- p109 · Hallam -->
+<p>“Farmer,” said Hallam.</p><break time="500ms"/>
+<!-- p110 · Calder -->
+<p>“Lie still.”</p><break time="500ms"/>
+<!-- p111 · humour: gruff even dying · Hallam, dry thread of a voice -->
+<p>“Shut up, farmer.” Hallam’s voice was a dry thread. “Sixty years I’ve done what I’m told. I’ll talk.”</p><break time="500ms"/>
+<!-- p112 -->
+<p>Calder took his hand. It was very cold.</p><break time="500ms"/>
+<!-- p113 · Hallam -->
+<p>“They weren’t kin,” said Hallam.</p><break time="500ms"/>
+<!-- p114 · Calder -->
+<p>“No.”</p><break time="500ms"/>
+<!-- p115 · Hallam, weak -->
+<p>“Did you see? The others? They wouldn’t come down. Not till I fell.” His mouth moved. “The law. All our lives. And somebody used it like a… like a knife, and put it in us, and we sat there and let him.” His eyes moved to Calder’s face. “Who?”</p><break time="500ms"/>
+<!-- p116 · Calder -->
+<p>“Rook,” said Calder. “Or whoever Rook works for.”</p><break time="500ms"/>
+<!-- p117 -->
+<p>Hallam looked at him.</p><break time="500ms"/>
+<!-- p118 · Hallam, weak -->
+<p>“Then tell them,” he said.</p><break time="500ms"/>
+<!-- p119 -->
+<p>Calder didn’t answer.</p><break time="500ms"/>
+<!-- p120 · tender: dying insistence · Hallam, weak -->
+<p><prosody rate="95%">“Tell them.” Hallam’s hand tightened on his, very weakly. “Both. Don’t you… carry it any more. You’ve carried it all winter, like a stone in your coat, and look.” He coughed. Something came up with it, dark. “Tell them. Again. And again. Every one of them. Write it down if you have to. Nail it on a door. That’s what <emphasis level="moderate">they</emphasis> do.”</prosody></p><break time="500ms"/>
+<!-- p121 · Calder -->
+<p>“I will.”</p><break time="500ms"/>
+<!-- p122 · tender · Hallam, weak -->
+<p><prosody rate="95%">“You’ll not.” The old pale eyes held his. “You’ll want to. And then you’ll stand somewhere with it in your mouth, and think, <emphasis level="moderate">what if I’m wrong.</emphasis>” He breathed. “You’re not wrong, farmer. Not about this.”</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p123 -->
+<p>Kharrak came down onto the stones at the edge of the ford a little after.</p><break time="500ms"/>
+<!-- p124 -->
+<p>He had something in his jaws. He laid it on the stones at Calder’s feet. A man. Dead. One of the shooters from the near slope, from the gorse above Ulric’s bank. He’d been in plain grey. Ulric’s colours. The armband was still on his arm.</p><break time="500ms"/>
+<!-- p125 -->
+<p>Kharrak put one claw under the edge of the man’s cloak and turned it back.</p><break time="500ms"/>
+<!-- p126 -->
+<p>Under the Clan grey was a shirt of fine-woven Wendmouth linen. On his feet were boots of oiled black leather, with brass eyelets for the laces. And round his neck, on a string, under the shirt, an iron ring.</p><break time="500ms"/>
+<!-- p127 -->
+<p>Calder turned it over in his fingers. Plain iron. The kind the boys in the camp fields wore on strings.</p><break time="500ms"/>
+<!-- p128 -->
+<p>There was something else on the string with it. A strip of tin as long as his finger, scratched with old letters, with the Tide Council’s stamp pressed into the back. He’d seen a board of them at the Ram’s Head. <prosody rate="95%">A word against bolts. Warranted.</prosody> The bolt that had killed the man had gone in a hand’s breadth under it.</p><break time="500ms"/>
+<!-- p129 · Kharrak (bond, to Calder), very low -->
+<p><prosody rate="94%" volume="-6dB">Proof,</prosody> said Kharrak. Very low. <prosody rate="94%" volume="-6dB">You wanted proof.</prosody></p><break time="500ms"/>
+<!-- p130 -->
+<p>Calder looked up at the empty banks of the ford. The far rise where Arn had gone. The near slope where Ulric had gone. The ten dragons of the ledges coming back over the ridges one by one to land on the hillside above, and look down at Morrow.</p><break time="500ms"/>
+<!-- p131 · grief -->
+<p><prosody rate="94%">There was nobody left to show it to.</prosody></p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p132 -->
+<p>Hallam died in the late afternoon.</p><break time="500ms"/>
+<!-- p133 · grief: quiet death -->
+<p><prosody rate="94%">He spoke no more. He lay with his head on Morrow’s foreleg and his hand in Calder’s and looked up at the alders, and the sun went over, and the shadows came down the far slope across the water. Once he lifted his other hand a little and put it on Morrow’s face, beside him. Then he put it down. A while after that, he stopped breathing.</prosody></p><break time="800ms"/>
+<!-- p134 -->
+<p>Calder didn’t let go of his hand.</p><break time="500ms"/>
+<!-- p135 -->
+<p>Morrow didn’t move.</p><break time="500ms"/>
+<!-- p136 -->
+<p>The ten on the hillside stayed where they were. They sat in their row in the gorse with their riders standing beside them, and looked down at the old black dragon lying in the edge of the ford with the dead man’s head on her leg, and none of them came down. They knew. They’d known since the bolt.</p><break time="500ms"/>
+<!-- p137 · grief -->
+<p><prosody rate="94%">One life between two.</prosody></p><break time="800ms"/>
+<!-- p138 · Teo (remembered) -->
+<p>He’d heard it all his life. He’d seen it, once, as a boy: an old man in Harrow’s End whose cow-beast died, and three days later the old man died too, in his chair by the fire, and nobody was surprised. He’d heard Ada say it. He’d heard Teo say it, about Sigrun and Aurveth, laughing. <prosody volume="-3dB">They’ll go together, those two. You watch.</prosody></p><break time="500ms"/>
+<!-- p139 · grief -->
+<p><prosody rate="94%">Morrow lay in the water beside Hallam Brecc with her eyes open, and it had already begun. He could see it in her eyes. Something going out of them, slowly.</prosody></p><break time="800ms"/>
+<!-- p140 -->
+<p>He couldn’t hear her. She wasn’t his. But Aurveth could. He felt it through the bronze mark: Aurveth, on the ridge behind him, hearing something from the old black dragon that he couldn’t hear, and lowering her head to the ground, all the way down, the way she had lowered it to the ice at midwinter.</p><break time="500ms"/>
+<!-- p141 · grief: Morrow's farewell · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%"><prosody rate="94%" volume="-2dB">She says go,</prosody> said Aurveth. <prosody rate="94%" volume="-2dB">She says she’ll stay with him. She says it won’t be long. She says thank you for staying.</prosody></prosody></p><break time="800ms"/>
+<!-- p142 -->
+<p>He stayed anyway, until the sun was down behind the far rise.</p>
+<break time="1600ms"/><!-- scene break -->
+<!-- p143 -->
+<p>At dusk he flew down Hollow Beck.</p><break time="500ms"/>
+<!-- p144 -->
+<p>He didn’t know why. He told Aurveth he wanted to see where they went. The dead. There’d been a lot of them in the water. Arn’s riders and Ulric’s, the ones that had fallen in the shallows, and their horses. He’d seen the beck take them. It was in spring flood, brown and loud and fast, and it had picked them up off the stones and turned them over and carried them away downstream, the way it carried everything.</p><break time="500ms"/>
+<!-- p145 -->
+<p>So he followed it.</p><break time="500ms"/>
+<!-- p146 -->
+<p>Aurveth went low, above the water, in the dusk, with Kharrak behind. Down the long glen from the ford, past the black square of the burned shieling and the slope where the ledges sat. Down off the moor. Down past the hollow where the Drover’s Way went off to Harrow’s End. The beck getting bigger, browner, louder, fed by every stream off the hills.</p><break time="500ms"/>
+<!-- p147 -->
+<p>And in it, now and then, a shape.</p><break time="500ms"/>
+<!-- p148 · dread -->
+<p><prosody rate="96%">A horse, on its side, legs stiff, going round in a slow eddy and away. A cloak, spread out on the water, grey, with a thread of red. A man, face down, arms out, as if he’d lain down to drink.</prosody></p><break time="800ms"/>
+<!-- p149 -->
+<p>He watched them go by under him.</p><break time="500ms"/>
+<!-- p150 -->
+<p>Down past Harrow’s End. Past the black ruin of the mill. Past the Wheel. Out at last, at the mouth, at the Eelweir, where Fisk’s little landing was and the beck came out into the Wend in a long brown tongue that went out into the river and turned south with it.</p><break time="500ms"/>
+<!-- p151 -->
+<p>And on the Wend, across the mouth of the beck, there was a line of boats.</p><break time="500ms"/>
+<!-- p152 -->
+<p>He saw them in the last of the light. Six, eight. Long boats, river-watch boats, at anchor across the current, a little way out from the Saltreach shore, where the brown water of the beck came out into the river. Each one with a lantern at the bow. Each one with men in it. In grey. Sitting.</p><break time="500ms"/>
+<!-- p153 -->
+<p>Knights. From the other bank.</p><break time="500ms"/>
+<!-- p154 · anger: knights watching -->
+<p>They were sitting in their boats at anchor in the dusk, with their lanterns, across the mouth of Hollow Beck, watching. Watching what came down. The cloaks. The horses. The men face down in the brown water, coming out of the beck into the Wend one by one and turning south with the river, past the boats, close enough to touch with an oar.</p><break time="500ms"/>
+<!-- p155 -->
+<p>Nobody in the boats moved.</p><break time="500ms"/>
+<!-- p156 -->
+<p>Calder went over them, low, on Aurveth, in the dusk. He saw their faces turn up. The lanterns. A man in the bow of the nearest boat standing up, staring. Another reaching for something in the bottom of the boat, a crossbow, and the man beside him putting a hand on his arm, and he stopped.</p><break time="500ms"/>
+<!-- p157 · anger -->
+<p>They watched him go over. They watched the dead go past. They sat in their boats with their lanterns and their oars shipped, a stone’s throw from the Saltreach shore, and came no nearer. They didn’t cross.</p><break time="500ms"/>
+<!-- p158 · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">They won’t,</prosody> said Aurveth. <prosody rate="94%" volume="-2dB">They never do. They sat on the bank in the autumn and watched your village burn.</prosody></p><break time="500ms"/>
+<!-- p159 · Calder -->
+<p>“I know.”</p><break time="500ms"/>
+<!-- p160 · Aurveth (bond, to Calder) -->
+<p><prosody rate="94%" volume="-2dB">They’ll go back and tell someone what they saw.</prosody></p><break time="500ms"/>
+<!-- p161 · Calder -->
+<p>“Yes,” said Calder.</p><break time="500ms"/>
+<!-- p162 -->
+<p>He looked down at the dead going out into the river. At the boats. At the island, a league off in the dusk, dark, between the two banks, with the brown flood going past it on both sides.</p><break time="500ms"/>
+<!-- p163 · Hallam (remembered) -->
+<p><prosody volume="-3dB">Tell them,</prosody> Hallam had said. <prosody volume="-3dB">Again. And again. Every one of them.</prosody></p><break time="500ms"/>
+<!-- p164 · reflective -->
+<p><prosody rate="96%">He put his hand inside his coat. The two chains were there, the five links and the eight, with the little crossed hammers on the inside of the last link of each. Now a third thing, beside them, small and cold: an iron ring on a string, from round a dead man’s neck, under a shirt of Wendmouth linen.</prosody></p><break time="500ms"/>
+<!-- p165 · Calder -->
+<p>“Home,” he said.</p><break time="500ms"/>
+<!-- p166 -->
+<p>Aurveth turned east, up the beck, toward the Scar, and the boats and the lanterns and the dead went away behind them into the dark.</p>
+<break time="1800ms"/>
+</voice>
+</speak>

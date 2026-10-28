@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0" xmlns="http://www.w3.org/2005/01/pronunciation-lexicon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd" alphabet="ipa" xml:lang="en-GB">
+  <lexeme><grapheme>Askell</grapheme><alias>Askel</alias></lexeme>
+  <lexeme><grapheme>Aurveth</grapheme><alias>Orveth</alias></lexeme>
+  <lexeme><grapheme>Bel</grapheme><alias>Bell</alias></lexeme>
+  <lexeme><grapheme>Brann</grapheme><alias>Bran</alias></lexeme>
+  <lexeme><grapheme>Brannoch</grapheme><alias>Brannock</alias></lexeme>
+  <lexeme><grapheme>Brecc</grapheme><alias>Breck</alias></lexeme>
+  <lexeme><grapheme>Calder</grapheme><alias>Cawlder</alias></lexeme>
+  <lexeme><grapheme>Coldtarn</grapheme><alias>Cold-tarn</alias></lexeme>
+  <lexeme><grapheme>Eelweir</grapheme><alias>Eel-weer</alias></lexeme>
+  <lexeme><grapheme>Gunna</grapheme><alias>Goonuh</alias></lexeme>
+  <lexeme><grapheme>Hearthmere</grapheme><alias>Harthmeer</alias></lexeme>
+  <lexeme><grapheme>Hollin Knowe</grapheme><alias>Hollin Now</alias></lexeme>
+  <lexeme><grapheme>Holm</grapheme><alias>Home</alias></lexeme>
+  <lexeme><grapheme>Ide</grapheme><alias>Eyedee</alias></lexeme>
+  <lexeme><grapheme>Imra</grapheme><alias>Imruh</alias></lexeme>
+  <lexeme><grapheme>Isvaren</grapheme><alias>Iss-varen</alias></lexeme>
+  <lexeme><grapheme>Kharrak</grapheme><alias>Karrak</alias></lexeme>
+  <lexeme><grapheme>Lisska</grapheme><alias>Liska</alias></lexeme>
+  <lexeme><grapheme>Lucan</grapheme><alias>Lookan</alias></lexeme>
+  <lexeme><grapheme>Maren</grapheme><alias>Mairen</alias></lexeme>
+  <lexeme><grapheme>Odo</grapheme><alias>Ohdoh</alias></lexeme>
+  <lexeme><grapheme>Oneroad</grapheme><alias>One-road</alias></lexeme>
+  <lexeme><grapheme>Orrun</grapheme><alias>Orran</alias></lexeme>
+  <lexeme><grapheme>Osric</grapheme><alias>Ozrick</alias></lexeme>
+  <lexeme><grapheme>Raske</grapheme><alias>Rask</alias></lexeme>
+  <lexeme><grapheme>Reede</grapheme><alias>Reed</alias></lexeme>
+  <lexeme><grapheme>Rorke</grapheme><alias>Rork</alias></lexeme>
+  <lexeme><grapheme>Rurik</grapheme><alias>Roorick</alias></lexeme>
+  <lexeme><grapheme>Saltreach</grapheme><alias>Salt-reach</alias></lexeme>
+  <lexeme><grapheme>Sarovel</grapheme><alias>Sarrovel</alias></lexeme>
+  <lexeme><grapheme>Scarfell</grapheme><alias>Scar-fell</alias></lexeme>
+  <lexeme><grapheme>Sigrun</grapheme><alias>Siggroon</alias></lexeme>
+  <lexeme><grapheme>Skarrow</grapheme><alias>Scarrow</alias></lexeme>
+  <lexeme><grapheme>Staithe</grapheme><alias>Stathe</alias></lexeme>
+  <lexeme><grapheme>Tamsin</grapheme><alias>Tamzin</alias></lexeme>
+  <lexeme><grapheme>Tarne</grapheme><alias>Tarn</alias></lexeme>
+  <lexeme><grapheme>Teo</grapheme><alias>Tayo</alias></lexeme>
+  <lexeme><grapheme>Tidesteps</grapheme><alias>Tide-steps</alias></lexeme>
+  <lexeme><grapheme>Ulric</grapheme><alias>Ullrick</alias></lexeme>
+  <lexeme><grapheme>Varr</grapheme><alias>Var</alias></lexeme>
+  <lexeme><grapheme>Varrhold</grapheme><alias>Var-hold</alias></lexeme>
+  <lexeme><grapheme>Vasey</grapheme><alias>Vayzee</alias></lexeme>
+  <lexeme><grapheme>Winshire</grapheme><alias>Winsher</alias></lexeme>
+</lexicon>

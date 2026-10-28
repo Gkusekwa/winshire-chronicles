@@ -1,0 +1,1737 @@
+{
+ "chapter": 65,
+ "title": "The Red Door",
+ "pov": "Maren",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Sixty-five.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Red Door.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "Liss didn’t ask.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "She came down the landing steps in the dark on the evening of the hundred-and-thirty-sixth day with her chest on her back, in her shirt. It was four hundred paces from the gate, and it had taken her the whole day to walk them. The red door of the ferry house was open with the firelight coming out of it, and her mother was standing in it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "Liss looked at her. At the chest. At her shirt, with no grey over it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "She stepped back out of the door to let her in, and shut it behind her, and put the kettle on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "She didn’t ask anything. Not that night. Maren sat down on the floor by the fire with her back against the settle and the chest beside her, the way she’d sat on the floor by that fire when she was small, and Liss put a cup of tea in her hands, and then a bowl of something, and then a blanket round her shoulders, and went about the room doing the things she did at night, banking the fire, setting the bread, and didn’t say a word.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "Maren opened the chest after a while. She took the scale out of it and held it in her lap.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "It was warm. It had been warm since the night she found it. Green as a beetle’s back, bronze at the edges, the size of a round shield. She sat with it in her lap by the fire all night and didn’t sleep, and once, very late, Liss came and put another blanket round her, and looked down at what she was holding, and went away again without a word.",
+   "mood": "quiet",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "Liss went out at dawn on the hundred-and-thirty-seventh day and didn’t come back till after noon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "Maren heard her go. The red door, and her mother’s step on the stone jetty, and the creak of the ferry against its fenders, and the rope beginning to run through the rings, slow and steady, the sound she’d woken to every morning of her childhood. Nothing for a long while. The rope again, coming back, heavy and slow, and voices on the jetty, a woman’s and children’s. Then out again, and back. Three more times, and each time the sound of big hooves on stone.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "She didn’t go out to see. She sat by the fire with the scale.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "narration",
+   "text": "Liss told her that evening.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p12",
+   "type": "narration",
+   "text": "She sat down on the settle with her mending, which she never did; she always mended at the table. And after a while she put the mending down and said:",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p13",
+   "type": "speech",
+   "text": "“I’ve carried a lot of them over since the autumn.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p14",
+   "type": "narration",
+   "text": "Maren looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p15",
+   "type": "speech",
+   "text": "“From the far bank. The Penhallows. The Dunns. That family from Low Ashby with the twins. The Haddow woman and her boy, after the ice. Thirty families. Forty. When the ice was in I walked them over on a rope.”",
+   "speaker": "Liss",
+   "mood": "reflective"
+  },
+  {
+   "seq": 18,
+   "para": "p15",
+   "type": "narration",
+   "text": "Liss looked at the fire.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 19,
+   "para": "p15",
+   "type": "speech",
+   "text": "“They’ve a camp at Millbrook, below the town, by the water-meadows. It’s not much. A lot of them have gone on to Ashford.”",
+   "speaker": "Liss",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p16",
+   "type": "speech",
+   "text": "“I know.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p17",
+   "type": "speech",
+   "text": "“I carried some more this morning. From the Staithe. A woman called Bel Fenn, from Upper Rush, whose husband’s dead. Her two little ones. Her mother, old Ada, who I’ve known thirty years from the barley. Three dray-beasts, one at a crossing.”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 22,
+   "para": "p17",
+   "type": "narration",
+   "text": "Liss was quiet a moment."
+  },
+  {
+   "seq": 23,
+   "para": "p17",
+   "type": "speech",
+   "text": "“And a girl called Wren.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p18",
+   "type": "narration",
+   "text": "Maren didn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p19",
+   "type": "speech",
+   "text": "“Nine or ten. Thin, with a lot of hair. Wouldn’t get in the boat. She stood on the jetty and looked up at me and told me her father had three dragons.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p20",
+   "type": "narration",
+   "text": "The fire ticked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p21",
+   "type": "speech",
+   "text": "“All three of them. Their names and their colours and their tempers, and how old the big one is.”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 28,
+   "para": "p21",
+   "type": "narration",
+   "text": "Liss picked up her mending and didn’t do anything with it."
+  },
+  {
+   "seq": 29,
+   "para": "p21",
+   "type": "speech",
+   "text": "“And that her father talks to them, and they answer, and she makes him say it twice.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p22",
+   "type": "narration",
+   "text": "Maren held the scale in her lap.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p23",
+   "type": "speech",
+   "text": "“So I made her say it twice,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 32,
+   "para": "p23",
+   "type": "narration",
+   "text": "said Liss."
+  },
+  {
+   "seq": 33,
+   "para": "p23",
+   "type": "speech",
+   "text": "“On the jetty. All of it. I thought she’d want me to.”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 34,
+   "para": "p23",
+   "type": "narration",
+   "text": "She looked at Maren."
+  },
+  {
+   "seq": 35,
+   "para": "p23",
+   "type": "speech",
+   "text": "“Her father was standing there holding the greys. In a dead man’s coat. With a face I’ve seen on the trading houses’ bill at the Millbrook jetty since the autumn, and on the Restoration’s since the thaw. Two hundred silver on both.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p24",
+   "type": "speech",
+   "text": "“Calder Fenn,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 37,
+   "para": "p24",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p25",
+   "type": "narration",
+   "text": "It was the first time she’d ever said it aloud.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p26",
+   "type": "speech",
+   "text": "“Calder Fenn,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 40,
+   "para": "p26",
+   "type": "narration",
+   "text": "said Liss."
+  },
+  {
+   "seq": 41,
+   "para": "p26",
+   "type": "speech",
+   "text": "“I’ve bought his barley twenty years. He used to nod. He never said a word more than he had to.”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 42,
+   "para": "p26",
+   "type": "narration",
+   "text": "She put the mending down again."
+  },
+  {
+   "seq": 43,
+   "para": "p26",
+   "type": "speech",
+   "text": "“He said a few this morning.”",
+   "speaker": "Liss",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 44,
+   "para": "p27",
+   "type": "narration",
+   "text": "She told the rest of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p28",
+   "type": "narration",
+   "text": "The beasts going over, one by one. The grey one last, the bound one, with the eyes."
+  },
+  {
+   "seq": 46,
+   "para": "p28",
+   "type": "remembered",
+   "text": "He’s turned his head twice. To the girl’s voice.",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 47,
+   "para": "p28",
+   "type": "narration",
+   "text": "The girl at the end of the stone jetty with her arms up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p29",
+   "type": "speech",
+   "text": "“And then,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 49,
+   "para": "p29",
+   "type": "narration",
+   "text": "said Liss,"
+  },
+  {
+   "seq": 50,
+   "para": "p29",
+   "type": "speech",
+   "text": "“a dragon came down out of the cloud.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p30",
+   "type": "narration",
+   "text": "Maren looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p31",
+   "type": "speech",
+   "text": "“Green. Out of nowhere. Like a stone falling. And it went along the river between the Staithe and the jetty so low its wings were in the water, right past me in the boat, close as that wall. I could have touched it with the pole.”",
+   "speaker": "Liss",
+   "mood": "awe"
+  },
+  {
+   "seq": 53,
+   "para": "p31",
+   "type": "narration",
+   "text": "Liss’s voice had gone strange.",
+   "mood": "awe"
+  },
+  {
+   "seq": 54,
+   "para": "p31",
+   "type": "speech",
+   "text": "“Thirty years on this river. I’ve never seen one closer than the far side of the sky. It went past me so close I could see its eye. Pale. Green. And on its horn…”",
+   "speaker": "Liss",
+   "mood": "awe"
+  },
+  {
+   "seq": 55,
+   "para": "p31",
+   "type": "narration",
+   "text": "She stopped.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 56,
+   "para": "p32",
+   "type": "speech",
+   "text": "“What?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p33",
+   "type": "speech",
+   "text": "“A ribbon,”",
+   "speaker": "Liss",
+   "mood": "awe"
+  },
+  {
+   "seq": 58,
+   "para": "p33",
+   "type": "narration",
+   "text": "said Liss.",
+   "mood": "awe"
+  },
+  {
+   "seq": 59,
+   "para": "p33",
+   "type": "speech",
+   "text": "“Blue. Tied in a bow. A child’s hair-ribbon. Washed.”",
+   "speaker": "Liss",
+   "mood": "awe"
+  },
+  {
+   "seq": 60,
+   "para": "p33",
+   "type": "narration",
+   "text": "She shook her head.",
+   "mood": "awe"
+  },
+  {
+   "seq": 61,
+   "para": "p33",
+   "type": "speech",
+   "text": "“And the girl on the jetty screamed like it was the best thing that had ever happened to her. And it went up past the river towers so close the men on the hoardings went flat, and it was gone.”",
+   "speaker": "Liss",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 62,
+   "para": "p34",
+   "type": "narration",
+   "text": "Maren looked down at the scale in her lap. Green as a beetle’s back. Bronze at the edges.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p35",
+   "type": "speech",
+   "text": "“It’s the same,”",
+   "speaker": "Liss",
+   "how": "quietly"
+  },
+  {
+   "seq": 64,
+   "para": "p35",
+   "type": "narration",
+   "text": "said Liss quietly."
+  },
+  {
+   "seq": 65,
+   "para": "p35",
+   "type": "speech",
+   "text": "“Isn’t it. That. And the one on the river.”",
+   "speaker": "Liss",
+   "how": "quietly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p36",
+   "type": "speech",
+   "text": "“Yes.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p37",
+   "type": "speech",
+   "text": "“I didn’t ask where you got it.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p38",
+   "type": "speech",
+   "text": "“I found it,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 69,
+   "para": "p38",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 70,
+   "para": "p38",
+   "type": "speech",
+   "text": "“On the island. In the snow by my fire. After he’d been there.”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 71,
+   "para": "p38",
+   "type": "narration",
+   "text": "She turned it in her hands."
+  },
+  {
+   "seq": 72,
+   "para": "p38",
+   "type": "speech",
+   "text": "“He crossed the ice in the freeze. In the dark. And looked at the arch, and cut a bit of the hunters’ chain, and knelt by my fire, and followed the lion to the oaks, and backed away. And this was in the snow where he’d knelt. It must have fallen out of his coat.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p39",
+   "type": "narration",
+   "text": "Liss looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p40",
+   "type": "speech",
+   "text": "“He asked me to tell you something,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 75,
+   "para": "p40",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p41",
+   "type": "narration",
+   "text": "Maren’s hands went still on the scale.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p42",
+   "type": "speech",
+   "text": "“Two things. He wasn’t sure he had the right to either. I could see that.”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 78,
+   "para": "p42",
+   "type": "narration",
+   "text": "Liss picked her words like stones out of a river."
+  },
+  {
+   "seq": 79,
+   "para": "p42",
+   "type": "speech",
+   "text": "“The first was the girl’s. He said she’d made him promise. A girl called Wren says hello.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p43",
+   "type": "narration",
+   "text": "Maren sat by the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p44",
+   "type": "narration",
+   "text": "She’d been cast out of Greyhold the morning before, in front of three hundred people, in her shirt. She’d struck a knight. She’d watched a lion she’d sat with all winter swim the east channel in the dusk and go into a forest she couldn’t follow it into. She’d sat on the road outside the gate on her chest and not known where to go. She hadn’t cried.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p45",
+   "type": "narration",
+   "text": "She put her face in her hands.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 83,
+   "para": "p46",
+   "type": "narration",
+   "text": "Liss sat on the settle and waited, with her mending in her lap. After a while she got up and put more wood on the fire and sat down again.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p47",
+   "type": "speech",
+   "text": "“The other thing,”",
+   "speaker": "Liss"
+  },
+  {
+   "seq": 85,
+   "para": "p47",
+   "type": "narration",
+   "text": "she said, when Maren took her hands away."
+  },
+  {
+   "seq": 86,
+   "para": "p47",
+   "type": "speech",
+   "text": "“I don’t know what it means. Neither did he, I think. He said: Tell her the old one says it’s the cat from the bridge. The one on the tower steps. That people used to bow to.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p48",
+   "type": "speech",
+   "text": "“The cat from the bridge,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 88,
+   "para": "p48",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p49",
+   "type": "speech",
+   "text": "“That’s what he said. She’ll not know what it means. Tell her anyway.”",
+   "speaker": "Liss",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p50",
+   "type": "narration",
+   "text": "It meant nothing to her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p51",
+   "type": "narration",
+   "text": "She sat by the fire with the scale in her lap and turned it over and over."
+  },
+  {
+   "seq": 92,
+   "para": "p51",
+   "type": "remembered",
+   "text": "The old one.",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 93,
+   "para": "p51",
+   "type": "narration",
+   "text": "The big one with one eye, three hundred years old."
+  },
+  {
+   "seq": 94,
+   "para": "p51",
+   "type": "remembered",
+   "text": "The cat.",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 95,
+   "para": "p51",
+   "type": "narration",
+   "text": "There was no bridge. There’d never been a bridge at the island, only the stumps of piers in a dry summer, that the river watch said were older than anything."
+  },
+  {
+   "seq": 96,
+   "para": "p51",
+   "type": "remembered",
+   "text": "The tower steps.",
+   "speaker": "Calder"
+  },
+  {
+   "seq": 97,
+   "para": "p51",
+   "type": "narration",
+   "text": "The arch. The worn hollow in the stone of the threshold where the lion lay, under the verse.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p52",
+   "type": "remembered",
+   "text": "People used to bow to.",
+   "speaker": "Calder",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p53",
+   "type": "narration",
+   "text": "She put it away somewhere and kept it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 100,
+   "para": "p54",
+   "type": "narration",
+   "text": "She didn’t go to the camp at Millbrook to see them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p55",
+   "type": "narration",
+   "text": "She thought about it. All the next morning. Ada, who Liss had known thirty years. Bel, whose husband was dead. Two small ones. A girl called Wren, who’d said hello. Two leagues down the River Road, in a field by the water-meadows, under canvas.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p56",
+   "type": "narration",
+   "text": "What would she say?"
+  },
+  {
+   "seq": 103,
+   "para": "p56",
+   "type": "thought",
+   "text": "I’m the lion-woman. You said hello.",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 104,
+   "para": "p56",
+   "type": "narration",
+   "text": "She had no idea what she was to them, or they to her. She didn’t go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p57",
+   "type": "narration",
+   "text": "She went to Millbrook for Tam instead.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 106,
+   "para": "p58",
+   "type": "narration",
+   "text": "Millbrook was tight as a drum.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p59",
+   "type": "narration",
+   "text": "She felt it from the top of the jetty road. People in doorways. Men in twos and threes at the corners, talking low, stopping when she went by. Shutters up at noon. The Kettle’s smashed shutters still boarded with raw planks. A crown’s notice on the chapel door, new, about the arrest of anyone repeating the paper, and somebody had drawn six little circles on it in charcoal. Next to the chapel, the keeping-wife’s board was still up over her door, painted, with the crown on it: KEEPING OF MILK AND GRAIN, BY LICENCE. The door was shut, and the smell of sour milk came out under it into the street.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p60",
+   "type": "narration",
+   "text": "Odo’s forge was still chained. The crown’s seal still hung off the lock on its ribbon. The ash under the doors had gone to mud.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p61",
+   "type": "narration",
+   "text": "She found Tam in the Kettle’s yard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p62",
+   "type": "narration",
+   "text": "He was splitting kindling. In the corner by the woodpile, in his shirt, with an axe, where Davin had been splitting it the day the knights came. He looked up when she came in at the gate and stopped with the axe in the air.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p63",
+   "type": "narration",
+   "text": "He looked at her. At her shirt, with nothing over it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p64",
+   "type": "speech",
+   "text": "“I heard,”",
+   "speaker": "Tam"
+  },
+  {
+   "seq": 113,
+   "para": "p64",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p65",
+   "type": "speech",
+   "text": "“I know.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p66",
+   "type": "speech",
+   "text": "“The whole town heard. Before noon, the day they threw you out.”",
+   "speaker": "Tam"
+  },
+  {
+   "seq": 116,
+   "para": "p66",
+   "type": "narration",
+   "text": "He put the axe down."
+  },
+  {
+   "seq": 117,
+   "para": "p66",
+   "type": "speech",
+   "text": "“They said you hit Callis. With a sword.”",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p67",
+   "type": "speech",
+   "text": "“With Tobin’s sword. It’s blunt.”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 119,
+   "para": "p67",
+   "type": "narration",
+   "text": "She came across the yard."
+  },
+  {
+   "seq": 120,
+   "para": "p67",
+   "type": "speech",
+   "text": "“I broke his arm.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p68",
+   "type": "narration",
+   "text": "Tam looked at her, and something went across his face that she hadn’t seen on it since he was small. He laughed. A short surprised sound, like a cough.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p69",
+   "type": "speech",
+   "text": "“Callis,”",
+   "speaker": "Tam"
+  },
+  {
+   "seq": 123,
+   "para": "p69",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 124,
+   "para": "p69",
+   "type": "speech",
+   "text": "“Good.”",
+   "speaker": "Tam",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 125,
+   "para": "p70",
+   "type": "narration",
+   "text": "She had the sack over her shoulder. She took it off and opened it and took out the collar.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p71",
+   "type": "narration",
+   "text": "Half of it. The half with the hinge. Heavy, black, greasy with old fur. She laid it on the splitting block in front of him, inside up, so the curve that had lain against the lion’s neck was turned to the light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p72",
+   "type": "narration",
+   "text": "Tam looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p73",
+   "type": "speech",
+   "text": "“That came off the lion,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 129,
+   "para": "p73",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 130,
+   "para": "p73",
+   "type": "speech",
+   "text": "“On the island. I struck the pin out with a hammer and chisel at dawn on the hundred-and-twentieth day. It put its head down in the mud and let me.”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 131,
+   "para": "p73",
+   "type": "narration",
+   "text": "She put her thumb on the inside of the curve, under the six."
+  },
+  {
+   "seq": 132,
+   "para": "p73",
+   "type": "speech",
+   "text": "“Look.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p74",
+   "type": "narration",
+   "text": "He looked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p75",
+   "type": "narration",
+   "text": "She watched him see it. Two little hammers, crossed, struck neat and small with a punch. She watched his face go from not knowing to knowing, like the river coming up over a mudbank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p76",
+   "type": "speech",
+   "text": "“Odo,”",
+   "speaker": "Tam"
+  },
+  {
+   "seq": 136,
+   "para": "p76",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p77",
+   "type": "speech",
+   "text": "“Odo.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p78",
+   "type": "speech",
+   "text": "“He said…”",
+   "speaker": "Tam",
+   "mood": "grief"
+  },
+  {
+   "seq": 139,
+   "para": "p78",
+   "type": "narration",
+   "text": "Tam stopped. He touched the hammers with one finger, as if they might be hot.",
+   "mood": "grief"
+  },
+  {
+   "seq": 140,
+   "para": "p78",
+   "type": "speech",
+   "text": "“He said they were for the camps. When Reede’s man brought the order in. A hundred collars. In the spring, before the summer. And chain by the hundredweight. He said they were for beasts brought into the camps from the Marches to be looked after. Beasts whose people had been burned out. To keep them safe. Till they could be given back.”",
+   "speaker": "Tam",
+   "mood": "grief"
+  },
+  {
+   "seq": 141,
+   "para": "p78",
+   "type": "narration",
+   "text": "His voice went thin.",
+   "mood": "grief"
+  },
+  {
+   "seq": 142,
+   "para": "p78",
+   "type": "speech",
+   "text": "“I helped him make them. I worked the bellows. I punched the six.”",
+   "speaker": "Tam",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 143,
+   "para": "p79",
+   "type": "speech",
+   "text": "“The hunters on the island had this chain on the lion in the summer,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 144,
+   "para": "p79",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 145,
+   "para": "p79",
+   "type": "speech",
+   "text": "“With honey-smoke, to keep it asleep. They had it chained on the spit for weeks, staked, so it couldn’t stand up. And there’s more of it at the Ram’s Head. A cart of new collars. And on every hound that came over the Redwatch landing at Ide Darrow, with eyes like… with nothing in their eyes.”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 146,
+   "para": "p79",
+   "type": "narration",
+   "text": "She took her thumb off the hammers."
+  },
+  {
+   "seq": 147,
+   "para": "p79",
+   "type": "speech",
+   "text": "“That’s what they’re for, Tam.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p80",
+   "type": "narration",
+   "text": "He stood by the splitting block looking down at the collar. His hands were hanging at his sides. The iron ring on his finger, the one he’d worn on a string until the hedge-meeting, caught the light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Come home,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 150,
+   "para": "p81",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p82",
+   "type": "narration",
+   "text": "He looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p83",
+   "type": "speech",
+   "text": "“To the ferry house. To Ma. Now. Today. Just come home.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p84",
+   "type": "narration",
+   "text": "He shook his head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p85",
+   "type": "speech",
+   "text": "“I can’t,”",
+   "speaker": "Tam"
+  },
+  {
+   "seq": 155,
+   "para": "p85",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p86",
+   "type": "speech",
+   "text": "“Why?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p87",
+   "type": "speech",
+   "text": "“Because…”",
+   "speaker": "Tam",
+   "mood": "urgent"
+  },
+  {
+   "seq": 158,
+   "para": "p87",
+   "type": "narration",
+   "text": "He looked away. At the gate. At the street beyond, where two men had stopped at the corner and were looking into the yard. He dropped his voice.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 159,
+   "para": "p87",
+   "type": "speech",
+   "text": "“Because it’s going to happen, Maren. Whatever I do. And if I’m in it I can maybe… if I’m there…”",
+   "speaker": "Tam",
+   "how": "dropped voice",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p88",
+   "type": "speech",
+   "text": "“If what happens?”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p89",
+   "type": "narration",
+   "text": "He shouldn’t have told her. She saw him know it as he did. He told her anyway, very low, very fast, the way he’d told her things when they were children and he’d broken something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p90",
+   "type": "speech",
+   "text": "“When they cross. At the Ruin. The ones from the Ram’s Head. When they go over onto the island, the knights’ll go up the River Road to meet them. All of them, Reede says. To Redwatch, to hold the bank.”",
+   "speaker": "Tam",
+   "how": "very low, very fast",
+   "mood": "urgent"
+  },
+  {
+   "seq": 163,
+   "para": "p90",
+   "type": "narration",
+   "text": "He swallowed.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 164,
+   "para": "p90",
+   "type": "speech",
+   "text": "“And when they’ve gone, Millbrook’ll rise. Here. Behind them. The barns’ll open. Fennick’s, and the tithe barn, and the boats on the back channel. Everyone with a ring. And the knights’ll be caught in the middle. Between the island and us.”",
+   "speaker": "Tam",
+   "how": "very low, very fast",
+   "mood": "urgent"
+  },
+  {
+   "seq": 165,
+   "para": "p90",
+   "type": "narration",
+   "text": "He looked at her.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 166,
+   "para": "p90",
+   "type": "speech",
+   "text": "“Vale promised. On the wain. No Millbrook house’ll burn. Not one. He said so.”",
+   "speaker": "Tam",
+   "how": "very low, very fast",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p91",
+   "type": "narration",
+   "text": "Maren looked at her brother.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p92",
+   "type": "speech",
+   "text": "“He said so,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 169,
+   "para": "p92",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p93",
+   "type": "speech",
+   "text": "“He did. You heard him.”",
+   "speaker": "Tam",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p94",
+   "type": "speech",
+   "text": "“I heard him say he forgave the farmer. On the same night his people nailed up a bill to bring the farmer in alive.”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 172,
+   "para": "p94",
+   "type": "narration",
+   "text": "She picked up the collar off the block."
+  },
+  {
+   "seq": 173,
+   "para": "p94",
+   "type": "speech",
+   "text": "“I heard him.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p95",
+   "type": "narration",
+   "text": "Tam stood there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p96",
+   "type": "speech",
+   "text": "“Come home,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 176,
+   "para": "p96",
+   "type": "narration",
+   "text": "she said again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p97",
+   "type": "speech",
+   "text": "“I can’t.”",
+   "speaker": "Tam",
+   "how": "voice cracking",
+   "mood": "grief"
+  },
+  {
+   "seq": 178,
+   "para": "p97",
+   "type": "narration",
+   "text": "His voice cracked.",
+   "mood": "grief"
+  },
+  {
+   "seq": 179,
+   "para": "p97",
+   "type": "speech",
+   "text": "“Not yet. Not till… I’ll come after. When it’s done. I’ll come home after.”",
+   "speaker": "Tam",
+   "mood": "grief"
+  },
+  {
+   "seq": 180,
+   "para": "p97",
+   "type": "narration",
+   "text": "He picked up the axe. He didn’t split anything with it. He stood holding it.",
+   "mood": "grief"
+  },
+  {
+   "seq": 181,
+   "para": "p97",
+   "type": "speech",
+   "text": "“Tell Ma.”",
+   "speaker": "Tam",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 182,
+   "para": "p98",
+   "type": "narration",
+   "text": "She put the collar back in the sack.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p99",
+   "type": "narration",
+   "text": "At the gate of the yard she looked back. He was standing by the splitting block with the axe in his hands, not moving, looking at the place on the block where the collar had been.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 184,
+   "para": "p100",
+   "type": "narration",
+   "text": "She took Liss’s skiff that night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p101",
+   "type": "narration",
+   "text": "Liss saw her. Liss was at the red door with a lantern when Maren went down the stone jetty in her father’s brown cloak with the sack on her back. She held up the lantern so Maren could see to cast off. When the skiff was out on the black water and Maren looked back, Liss was still standing in the door with the light up.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p102",
+   "type": "narration",
+   "text": "Three leagues upriver. Alone. Against the current, close under the Hearthmere bank where it was slackest, in the dark, the way she’d poled it a hundred times on the river watch before she ever went to Greyhold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p103",
+   "type": "narration",
+   "text": "Past Greyhold. The walls going up black on her left, with the forge-glow red on the clouds over them and the hammering coming down across the water even now, in the dead of night. Lanterns on the hoardings. Somebody on the river tower looking down at the water, at a little boat going by in the dark. Nobody shouted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p104",
+   "type": "narration",
+   "text": "Past Redwatch. A light at the top of the tower. A light in the boathouse door. She thought she saw somebody in it, sitting, with a pipe. She didn’t stop.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p105",
+   "type": "narration",
+   "text": "The island came up out of the dark ahead. The stump of the tower against the stars.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 190,
+   "para": "p106",
+   "type": "narration",
+   "text": "It had come back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p107",
+   "type": "narration",
+   "text": "She’d known it would. It had gone into the Fellwood on the far bank with Kesh going away over it, and it had come back across the east channel some night since, swimming, alone, to the old place. Because it always came back. Because it wouldn’t leave.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p108",
+   "type": "narration",
+   "text": "It was at the pit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p109",
+   "type": "narration",
+   "text": "She came through the oaks at the north end in the first grey of the morning on the hundred-and-thirty-ninth day, and it was lying on the bank at the edge with its head on its paws, wet still, its mane dark with river water. It lifted its head. It looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p110",
+   "type": "narration",
+   "text": "She sat down against its shoulder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p111",
+   "type": "narration",
+   "text": "It let her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 196,
+   "para": "p112",
+   "type": "narration",
+   "text": "She stayed there all day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p113",
+   "type": "narration",
+   "text": "She told it about Wren, out loud. She sat with her back against its shoulder in the thin spring sun with the scale in her lap, and told it, as Liss had told her. A girl, nine or ten, thin, with a lot of hair. Who wouldn’t get in the boat. Who stood on the jetty and told the ferrywoman her father had three dragons. A green one, the smallest, who could see a sparrow on a roof a league off. A red one who was cross all the time but wasn’t really. A big old one with one eye, three hundred years old.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p114",
+   "type": "speech",
+   "text": "“And her father talks to them,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 199,
+   "para": "p114",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 200,
+   "para": "p114",
+   "type": "speech",
+   "text": "“Out loud. And they answer him. And he tells her what they say.”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 201,
+   "para": "p114",
+   "type": "narration",
+   "text": "She put her hand flat on the lion’s shoulder."
+  },
+  {
+   "seq": 202,
+   "para": "p114",
+   "type": "speech",
+   "text": "“And she makes him say it twice. So she doesn’t forget.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p115",
+   "type": "narration",
+   "text": "The lion breathed against her back. Slow. Enormous.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p116",
+   "type": "speech",
+   "text": "“So I’ll say it twice,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 205,
+   "para": "p116",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p117",
+   "type": "narration",
+   "text": "She did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p118",
+   "type": "narration",
+   "text": "She said it all again, the whole of it, from the jetty to the ribbon, sitting against its shoulder in the bottom of the old world, with the hum coming up through her back.",
+   "mood": "tender",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p119",
+   "type": "speech",
+   "text": "“A girl called Wren says hello,”",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 209,
+   "para": "p119",
+   "type": "narration",
+   "text": "she said at the end."
+  },
+  {
+   "seq": 210,
+   "para": "p119",
+   "type": "speech",
+   "text": "“That was for me. But I’ll give you half.”",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p120",
+   "type": "narration",
+   "text": "The lion turned its head and looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p121",
+   "type": "narration",
+   "text": "It did that sometimes. Turned its great head and looked at her for a while with its pale eyes, as if she’d said something. She didn’t know what it was looking for when it looked at her like that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p122",
+   "type": "thought",
+   "text": "The cat from the bridge,",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 214,
+   "para": "p122",
+   "type": "narration",
+   "text": "she thought."
+  },
+  {
+   "seq": 215,
+   "para": "p122",
+   "type": "thought",
+   "text": "That people used to bow to.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p123",
+   "type": "narration",
+   "text": "She didn’t bow. She sat against its shoulder, and after a while it put its head back down on its paws.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 217,
+   "para": "p124",
+   "type": "narration",
+   "text": "At dusk on the hundred-and-thirty-ninth day she went to the east shore and looked across the channel.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p125",
+   "type": "narration",
+   "text": "There were fires at Harrow’s End.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p126",
+   "type": "narration",
+   "text": "Campfires. More than last night, when she’d seen the first few from the skiff, low on the hill. Dozens now, then more, coming out one after another in the dusk all over the hill behind the village. Along the Drover’s Way where it came down off the high ground. In the empty lanes. In the black ruin of the mill. And on the road down the hill, in the last of the light, carts. A long line of them, coming down with their lanterns swinging. Carts with long low shapes on them, under canvas.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 220,
+   "para": "p127",
+   "type": "narration",
+   "text": "Boats.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p128",
+   "type": "narration",
+   "text": "At the Eelweir, below the village, at the mouth of Hollow Beck, men were running boats down off the carts into the water. She could hear them. Shouting. The scrape of keels on stones. A great many keels.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 222,
+   "para": "p129",
+   "type": "narration",
+   "text": "She stood on the east shore of the island and watched.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p130",
+   "type": "narration",
+   "text": "There was one light at the Eelweir that wasn’t a campfire. A small one, in a doorway, at the end of the landing. It didn’t move. Somebody sitting in a door with a lantern, watching the boats come down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p131",
+   "type": "thought",
+   "text": "Morning,",
+   "speaker": "Maren"
+  },
+  {
+   "seq": 225,
+   "para": "p131",
+   "type": "narration",
+   "text": "she thought."
+  },
+  {
+   "seq": 226,
+   "para": "p131",
+   "type": "thought",
+   "text": "They’ll come in the morning.",
+   "speaker": "Maren",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p132",
+   "type": "narration",
+   "text": "She went back to the pit.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 228,
+   "para": "p133",
+   "type": "narration",
+   "text": "She left before first light on the hundred-and-fortieth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 229,
+   "para": "p134",
+   "type": "narration",
+   "text": "She’d thought about it all night, sitting against the lion’s shoulder in the dark. About staying. About standing in front of it at the edge of the pit with nothing in her hands, the way she’d stood in front of Callis’s hounds. About what a thousand men with chains and honey-smoke and bound hounds would do with a woman standing in front of a lion.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 230,
+   "para": "p135",
+   "type": "narration",
+   "text": "She thought about Rowan’s net, on the west shore."
+  },
+  {
+   "seq": 231,
+   "para": "p135",
+   "type": "remembered",
+   "text": "If they take it, it’s a weapon.",
+   "speaker": "Rowan",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 232,
+   "para": "p136",
+   "type": "narration",
+   "text": "She got up in the dark, and went down through the oaks to the west shore, to the reeds where she’d hidden the skiff, and pushed it out into the black water of the west channel.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 233,
+   "para": "p137",
+   "type": "narration",
+   "text": "She didn’t look back. She didn’t call it. She got into the skiff and took up the pole and pushed off from the island, out into the channel, toward the Hearthmere bank, in the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 234,
+   "para": "p138",
+   "type": "narration",
+   "text": "Behind her, in the reeds, something went into the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 235,
+   "para": "p139",
+   "type": "narration",
+   "text": "She heard it. The great soft surge of it, and then the sound of something very large swimming, steady, stroke by stroke, a little behind her and to one side.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 236,
+   "para": "p140",
+   "type": "narration",
+   "text": "She didn’t turn round. She poled.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 237,
+   "para": "p141",
+   "type": "narration",
+   "text": "On the far side of the channel she ran the skiff up into the reeds below Redwatch, a long way down from the tower, and got out, and stood on the bank. The lion came up out of the river beside her, streaming, and stood there, and shook itself. The reeds round them flattened. A long way up the bank a dog barked at Redwatch and stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 238,
+   "para": "p142",
+   "type": "narration",
+   "text": "She turned west. Away from the river. Up through the wet fields in the dark, toward the long black line on the edge of the sky where the Brackenwood began.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 239,
+   "para": "p143",
+   "type": "narration",
+   "text": "The lion came with her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 240,
+   "para": "p144",
+   "type": "narration",
+   "text": "Behind them, from across the river, came the knock of oars on the east channel, a great many of them, in the grey.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  }
+ ]
+}

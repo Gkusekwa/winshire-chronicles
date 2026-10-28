@@ -285,3 +285,11 @@ TRAVEL = {  # leagues per day
     "On foot": 8, "Grain cart or wagon": 7, "Horse (steady)": 14, "Horse (hard riding, one day)": 25,
     "Barge downstream on the Wend": 20, "Ship along the coast": 30, "Dragon": 80,
 }
+
+# ---------------- drawn only on the chapter-end maps of Books 2 and 3 ----------------
+# Glasswater's outflow, "the valley that heads the Wend": the lake's foot breaks and the meltflood runs down it to the
+# Wend (Book 2 chs 37-43; Book 3 ch 56, Quell comes down it on the ice). It cuts south through the Iron Fells below
+# the lake's foot and joins the Wend above the Hearthmere border. Book 1's maps and the Atlas don't draw it.
+LATER_RIVERS = {
+    "Glasswater's outflow": [(151.0, 47.3), (152.6, 51.0), (156.5, 55.2), (162.5, 58.0), (168.5, 60.3), (172.5, 61.6), (176.1, 62.6)],
+}

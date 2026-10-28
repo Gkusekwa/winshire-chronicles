@@ -123,8 +123,11 @@ def esc(s):
     return s.replace("&", "&amp;").replace("<", "&lt;")
 
 
-def compose(n):
-    """One chapter-end page: all of Winshire on top, the Marches close-up below, what's new beside it."""
+def compose(n, book=1):
+    """One chapter-end page: all of Winshire on top, the Marches close-up below, what's new beside it.
+    book 2 and 3: the close-up follows the story (compose_book); book 1 is exactly as it always was."""
+    if book != 1:
+        return compose_book(n, book_data(book))
     FONT = "'IM Fell English', Georgia, serif"; SC = "'IM Fell English SC', Georgia, serif"
     W, H = 1601, 2400
     realm = render("realm", "ink", False, chapter=n)
@@ -167,6 +170,131 @@ def compose(n):
         out.append(f'<text x="{tx}" y="{y}" font-family="{FONT}" font-style="italic" font-size="30" fill="#111">{"Nothing is named yet." if n == 0 else "Nothing new on the map."}</text>')
     out.append('</svg>')
     return "".join(out)
+
+
+# ---------------- Books 2 and 3 ----------------
+def book_data(book):
+    import importlib
+    return importlib.import_module(f"book{book}_items").B
+
+
+BOOK_WORD = {2: "Two", 3: "Three"}
+
+
+def realm_px(x, y):
+    """Leagues to pixels on the whole-Winshire map at the top of a page."""
+    return (x + 14) * 4.6, (y + 12) * 4.6
+
+
+def compose_book(n, B):
+    """A Book 2 or 3 chapter-end page: Winshire on top (the realm map, as in Book 1), a close-up below centred on
+    the chapter's Ends-at place at the chapter's scale, boxed on the realm map, and what's new beside it."""
+    from closeup import render_close, close_box
+    FONT = "'IM Fell English', Georgia, serif"; SC = "'IM Fell English SC', Georgia, serif"
+    W, H = 1601, 2400
+    ch = B.CH[n]
+    cx, cy = ch["at"]
+    if not ch.get("free"):
+        # keep the close-up on the map of Winshire: slide it in from the edges
+        hw, hh = (14, 20) if ch["s"] == "M" else (9.33, 13.33) if ch["s"] == "V" else (420 / ch["s"], 600 / ch["s"])
+        cx = min(max(cx, -14 + hw), 334 - hw)
+        cy = min(max(cy, -12 + hh), 230 - hh)
+    realm = render("realm", "ink", False, chapter=n, mi=B)
+    if ch["s"] in ("M", "V"):
+        # the Marches view itself, moved to the chapter's centre; "V" is the Vale of the Wend, closer still
+        hw, hh, sc = (14, 20, 30.0) if ch["s"] == "M" else (9.33, 13.33, 45.0)
+        box = dict(x0=cx - hw, x1=cx + hw, y0=cy - hh, y1=cy + hh, s=sc)
+        close = render("marches", "ink", False, chapter=n, mi=B, box=box, title=ch["ctitle"], subtitle=ch["sub"])
+    else:
+        box = close_box(cx, cy, ch["s"])
+        close = render_close(cx, cy, ch["s"], n, B, ch["ctitle"], ch["sub"])
+    out = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}"><rect width="{W}" height="{H}" fill="#fff"/>']
+    out.append(f'<defs><clipPath id="clipRealm"><rect width="1601" height="1113"/></clipPath><clipPath id="clipMarches"><rect width="840" height="1200"/></clipPath>'
+               f'<clipPath id="clipFrame"><rect x="12" y="12" width="1577" height="1089"/></clipPath></defs>')
+    out.append(f'<g clip-path="url(#clipRealm)">{inner(realm)}</g>')
+    # box the close-up's area on the world map and lead it down to the close-up
+    bx0, by0 = realm_px(box["x0"], box["y0"]); bx1, by1 = realm_px(box["x1"], box["y1"])
+    ix, iy, iw, ih = 40, 1150, 840, 1200
+    cbx0, cby0, cbx1, cby1 = max(bx0, 12), max(by0, 12), min(bx1, 1589), min(by1, 1101)
+    offmap = ch.get("free") and cy > 230          # centred off the edge of Winshire: no box, an arrow
+    if not offmap:
+        out.append(f'<g clip-path="url(#clipFrame)"><rect x="{bx0:.0f}" y="{by0:.0f}" width="{bx1-bx0:.0f}" height="{by1-by0:.0f}" fill="none" stroke="#111" stroke-width="2.4"/></g>')
+    if not offmap and cby1 >= cby0 + 4 and cbx1 >= cbx0 + 4:
+        out.append(f'<path d="M{cbx0:.0f},{cby1:.0f} L{ix},{iy} M{cbx1:.0f},{cby1:.0f} L{ix+iw},{iy}" stroke="#111" stroke-width="1" stroke-dasharray="4 4"/>')
+    else:
+        # the close-up lies off the edge of Winshire (the far shore): point the way
+        ax = min(max((bx0 + bx1) / 2, 60), 1540)
+        out.append(f'<path d="M{ax:.0f},1060 L{ax:.0f},1104" stroke="#111" stroke-width="2"/><path d="M{ax-7:.0f},1094 L{ax:.0f},1108 L{ax+7:.0f},1094" fill="none" stroke="#111" stroke-width="2"/>'
+                   f'<path d="M{ax:.0f},1113 L{ix},{iy} M{ax:.0f},1113 L{ix+iw},{iy}" stroke="#111" stroke-width="1" stroke-dasharray="4 4"/>')
+    out.append(f'<g transform="translate({ix},{iy})"><g clip-path="url(#clipMarches)">{inner(close)}</g></g>')
+    # caption
+    tx = ix + iw + 50
+    if n == 0:
+        head, sub = "Winshire", f"Before Book {BOOK_WORD[B.BOOK]} begins"
+    else:
+        head, sub = f"After Chapter {n}", ch["title"]
+    out.append(f'<text x="{tx}" y="{iy+60}" font-family="{SC}" font-size="44" letter-spacing="3" fill="#111">{esc(head)}</text>')
+    out.append(f'<text x="{tx}" y="{iy+108}" font-family="{FONT}" font-style="italic" font-size="34" fill="#111">{esc(sub)}</text>')
+    out.append(f'<path d="M{tx},{iy+140} h{W-tx-50}" stroke="#111" stroke-width="1"/>')
+    y = iy + 196
+    names = B.new_in(n) if n else []
+    if names:
+        out.append(f'<text x="{tx}" y="{y}" font-family="{SC}" font-size="24" letter-spacing="3" fill="#444">NEW ON THE MAP</text>')
+        y += 52
+        for nm in names[:16]:
+            words, line, lines = nm.split(), "", []
+            for w in words:
+                if len(line) + len(w) > 24: lines.append(line); line = w
+                else: line = (line + " " + w).strip()
+            lines.append(line)
+            for i, ln in enumerate(lines):
+                out.append(f'<text x="{tx + (0 if i == 0 else 22)}" y="{y}" font-family="{FONT}" font-size="30" fill="#111">{"· " if i == 0 else ""}{esc(ln)}</text>')
+                y += 40
+            y += 6
+    else:
+        prev = "One" if B.BOOK == 2 else "Two"
+        out.append(f'<text x="{tx}" y="{y}" font-family="{FONT}" font-style="italic" font-size="30" fill="#111">{f"As Book {prev} left it." if n == 0 else "Nothing new on the map."}</text>')
+    out.append('</svg>')
+    return "".join(out)
+
+
+def to_png(svg, path, width):
+    cairosvg.svg2png(bytestring=svg.encode(), write_to=path, output_width=width, background_color="white")
+    os.system(f'convert "{path}" -colorspace Gray -units PixelsPerInch -density 300 "{path}"')
+
+
+def _page_job(args):
+    book, n, d = args
+    s = compose(n, book)
+    open(f"{d}/svg/map_after_chapter_{n:02d}.svg", "w").write(s)
+    to_png(s, f"{d}/png/map_after_chapter_{n:02d}.png", 1800)
+    return n
+
+
+def write_book(book, d, chapters=None, jobs=4):
+    """Book 2 or 3: every chapter-end page (SVG and PNG), the front-matter page, the bare realm map and the
+    realm map as the book opens, and the contact sheet."""
+    B = book_data(book)
+    for sub in ("svg", "png", "front_matter"):
+        os.makedirs(f"{d}/{sub}", exist_ok=True)
+    fm = f"{d}/front_matter"
+    if chapters is None:
+        s = render("realm", "ink", False, bare=True)
+        open(f"{fm}/winshire_realm_bare.svg", "w").write(s); to_png(s, f"{fm}/winshire_realm_bare.png", 3600)
+        s = render("realm", "ink", False, chapter=0, mi=B)
+        open(f"{fm}/winshire_realm_start.svg", "w").write(s); to_png(s, f"{fm}/winshire_realm_start.png", 3600)
+        s = compose(0, book)
+        open(f"{fm}/winshire_bare_page.svg", "w").write(s); to_png(s, f"{fm}/winshire_bare_page.png", 1800)
+    todo = sorted(c for c in B.CH if c) if chapters is None else chapters
+    if jobs > 1:
+        from multiprocessing import Pool
+        with Pool(jobs) as pool:
+            list(pool.imap_unordered(_page_job, [(book, n, d) for n in todo]))
+    else:
+        for n in todo:
+            _page_job((book, n, d))
+    if chapters is None:
+        os.system(f'python3 "{os.path.dirname(os.path.abspath(__file__))}/contact.py" "{d}"')
 
 
 def write_progress():
@@ -328,6 +456,23 @@ def write_html():
 
 
 if __name__ == "__main__":
+    import argparse
+    ap = argparse.ArgumentParser(description="Build the atlas. With no arguments: Book 1's maps, pages, Atlas.md and page, as always.")
+    ap.add_argument("--book", type=int, default=1, help="2 or 3: build that book's chapter-end maps")
+    ap.add_argument("--out", default=None, help="output folder for --book 2 or 3")
+    ap.add_argument("--chapters", default=None, help="only these chapters, e.g. 1,5,9-12 (no front matter or contact sheet)")
+    ap.add_argument("--jobs", type=int, default=4)
+    a = ap.parse_args()
+    if a.book != 1:
+        chs = None
+        if a.chapters:
+            chs = []
+            for part in a.chapters.split(","):
+                lo, _, hi = part.partition("-")
+                chs += list(range(int(lo), int(hi or lo) + 1))
+        write_book(a.book, a.out or f"{OUT}/book{a.book}", chs, a.jobs)
+        print("built book", a.book)
+        raise SystemExit
     write_maps()
     write_progress()
     write_atlas()

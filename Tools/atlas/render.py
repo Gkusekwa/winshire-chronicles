@@ -28,7 +28,12 @@ PAL = {
 
 
 class Map:
-    def __init__(self, view, style, secrets, seed=7, chapter=None, interactive=False, subtitle=None, bare=False):
+    def __init__(self, view, style, secrets, seed=7, chapter=None, interactive=False, subtitle=None, bare=False,
+                 mi=None, box=None, title=None):
+        # mi: the book's data module (Book 1's marches_items by default); box: a view box overriding VIEWS[view]
+        self.mi = mi or MI
+        self.book1 = self.mi is MI
+        self.title = title
         self.bare = bare
         self.chapter, self.interactive, self.subtitle = chapter, interactive, subtitle
         self.placing = not interactive and not bare   # static map images: place labels without overlaps
@@ -36,7 +41,7 @@ class Map:
         self.lq, self.obs = [], []
         self.prog = (chapter is not None) or (interactive and view == "marches") or (interactive and view == "realm")
         self.fs = (1.25 if view == "marches" else 1.7) if chapter is not None else 1.0
-        self.v = VIEWS[view]
+        self.v = dict(box) if box else VIEWS[view]
         self.view, self.style, self.secrets = view, style, secrets
         self.c = PAL[style]
         self.rng = random.Random(seed)
@@ -181,13 +186,20 @@ class Map:
                 river(pts, 0.8, 2.4)
             else:
                 river(pts, 3, 5)
+        for name, pts in getattr(self.mi, "EXTRA_RIVERS", {}).items():
+            if self.view == "realm":
+                river(pts, 0.8, 2.4)
+            else:
+                river(pts, 3, 5)
         for part, w in inner:
             self.add(f'<path d="{self.smooth_path(part)}" fill="none" stroke="#ffffff" stroke-width="{w:.2f}" stroke-linecap="round" stroke-linejoin="round"/>')
         for name, ((x, y), rx, ry) in Wd.LAKES.items():
             pts = [(x + rx * math.cos(a), y + ry * math.sin(a)) for a in np.linspace(0, 2 * math.pi, 14, endpoint=False)]
             r = self.roughen(pts, 0.25, 4, closed=True)
             self.add(f'<path d="{self.smooth_path(r, True)}" fill="{c["wfill"]}" stroke="{c["water"]}" stroke-width="{1.2 * max(1, k / 2):.1f}"/>')
-        if self.view == "marches":
+        if self.view == "marches" and not getattr(self.mi, "ISLAND", True):
+            self.eddy_mark(*self.mi.EDDY)
+        elif self.view == "marches":
             # the river splits around the Old Ruin's island
             west = [(176.6, 101.6), (175.3, 102.2), (174.8, 103.6), (175.0, 104.9), (175.4, 105.6)]
             east = [(176.6, 101.6), (176.9, 102.6), (176.8, 104.2), (176.2, 105.2), (175.4, 105.6)]
@@ -202,6 +214,19 @@ class Map:
             for (x, y) in ((175.7, 103.0), (175.9, 104.2), (175.6, 104.5)):
                 X, Y = self.P(x, y)
                 self.add(f'<circle cx="{X:.1f}" cy="{Y:.1f}" r="5" fill="{c["forestfill"]}" stroke="{c["forest"]}" stroke-width="0.8"/>')
+
+    def eddy_mark(self, x, y):
+        """Where the Old Ruin's island stood: a slow eddy (the books after the first)."""
+        c = self.c
+        X, Y = self.P(x, y)
+        r0 = 0.55 * self.v["s"]
+        self.add(f'<ellipse cx="{X:.1f}" cy="{Y:.1f}" rx="{r0:.1f}" ry="{r0*1.5:.1f}" fill="{c["wfill"]}" stroke="{c["water"]}" stroke-width="1.6"/>')
+        for a0 in (0.0, math.pi):
+            pts = []
+            for t in np.linspace(0, 5.5, 40):
+                rr = r0 * (0.12 + 0.13 * t)
+                pts.append((X + rr * math.cos(a0 + t), Y + rr * 1.5 * math.sin(a0 + t)))
+            self.add('<polyline points="' + " ".join(f"{px:.1f},{py:.1f}" for px, py in pts) + f'" fill="none" stroke="{c["water"]}" stroke-width="0.9"/>')
 
     def mountains(self):
         c = self.c
@@ -259,20 +284,20 @@ class Map:
         c = self.c
         for line in Wd.BORDERS:
             r = self.roughen(line, 0.15, 3)
-            self.add(self.G(MI.BORDER_REVEAL, f'<path d="{self.smooth_path(r)}" fill="none" stroke="{c["border"]}" stroke-width="{1.4 if self.view == "realm" else 2.5}" stroke-dasharray="6 3 1.5 3" stroke-opacity="0.7"/>'))
+            self.add(self.G(self.mi.BORDER_REVEAL, f'<path d="{self.smooth_path(r)}" fill="none" stroke="{c["border"]}" stroke-width="{1.4 if self.view == "realm" else 2.5}" stroke-dasharray="6 3 1.5 3" stroke-opacity="0.7"/>'))
 
     def roads(self):
         c = self.c
         for name, line in Wd.ROADS.items():
             r = self.roughen(line, 0.08, 3)
-            rch = MI.ROAD_REVEAL.get(name, 1) if self.view == "marches" else MI.REALM_ROAD_REVEAL.get(name, MI.LATER)
+            rch = self.mi.ROAD_REVEAL.get(name, 1) if self.view == "marches" else self.mi.REALM_ROAD_REVEAL.get(name, self.mi.LATER)
             self.add(self.G(rch, f'<path d="{self.smooth_path(r)}" fill="none" stroke="{c["road"]}" stroke-width="{1.2 if self.view == "realm" else 2.6}" stroke-dasharray="{"4 3" if self.view == "realm" else "9 5"}"/>'))
         r = self.roughen(Wd.ONEROAD, 0.06, 3)
-        self.add(self.G(MI.ROAD_REVEAL["ONEROAD"], f'<path d="{self.smooth_path(r)}" fill="none" stroke="{c["ink"]}" stroke-width="{1.0 if self.view == "realm" else 2.2}" stroke-dasharray="1 4" stroke-linecap="round" stroke-opacity="0.75"/>'))
+        self.add(self.G(self.mi.ROAD_REVEAL["ONEROAD"], f'<path d="{self.smooth_path(r)}" fill="none" stroke="{c["ink"]}" stroke-width="{1.0 if self.view == "realm" else 2.2}" stroke-dasharray="1 4" stroke-linecap="round" stroke-opacity="0.75"/>'))
         if self.view == "marches":
             for (a, b, name) in Wd.FERRIES:
                 A, B = self.P(*a), self.P(*b)
-                self.add(self.G(1, f'<path d="M{A[0]:.1f},{A[1]:.1f} L{B[0]:.1f},{B[1]:.1f}" stroke="{c["ink"]}" stroke-width="1.6" stroke-dasharray="3 3"/>'))
+                self.add(self.G(1 if self.book1 else 0, f'<path d="M{A[0]:.1f},{A[1]:.1f} L{B[0]:.1f},{B[1]:.1f}" stroke="{c["ink"]}" stroke-width="1.6" stroke-dasharray="3 3"/>'))
             # field strips around Harrow's End and farms
             for (cx, cy, n, fch) in ((179.4, 101.6, 9, 2), (181.4, 99.6, 7, 2), (171.0, 110.6, 6, 1), (171.6, 104.0, 5, 1), (170.6, 97.0, 5, 3), (182.6, 104.4, 5, 2), (171.0, 117.6, 6, 5)):
                 fields = []
@@ -283,13 +308,13 @@ class Map:
                     rot = self.rng.uniform(-30, 30)
                     fields.append(f'<rect x="{X-w/2:.1f}" y="{Y-h/2:.1f}" width="{w:.1f}" height="{h:.1f}" fill="none" stroke="{c["plain"]}" stroke-width="0.8" transform="rotate({rot:.0f} {X:.1f} {Y:.1f})"/>'
                               + "".join(f'<path d="M{X-w/2+k*w/5:.1f},{Y-h/2:.1f} v{h:.1f}" stroke="{c["plain"]}" stroke-width="0.4" transform="rotate({rot:.0f} {X:.1f} {Y:.1f})"/>' for k in range(1, 5)))
-                self.add(self.G(fch, "".join(fields)))
+                self.add(self.G(fch if self.book1 else 0, "".join(fields)))
 
     def secrets_layer(self):
         c = self.c
         if self.prog:
             r = self.roughen(Wd.CATACOMBS, 0.05, 3)
-            self.add(self.G(27, f'<path d="{self.smooth_path(r)}" fill="none" stroke="{c["secret"]}" stroke-width="5" stroke-opacity="0.35" stroke-linecap="round"/>'
+            self.add(self.G(getattr(self.mi, "CATACOMBS_CH", 27), f'<path d="{self.smooth_path(r)}" fill="none" stroke="{c["secret"]}" stroke-width="5" stroke-opacity="0.35" stroke-linecap="round"/>'
                      f'<path d="{self.smooth_path(r)}" fill="none" stroke="{c["secret"]}" stroke-width="1.6" stroke-dasharray="2 4"/>'))
             return
         if not self.secrets:
@@ -337,8 +362,12 @@ class Map:
 
     def places(self, interactive=False):
         c = self.c
-        for p in Wd.P:
-            if p["secret"] and not self.secrets and not (self.prog and p["id"] == "catacombs"):
+        sreveal = getattr(self.mi, "SECRET_REVEAL", {})
+        hide = getattr(self.mi, "HIDE", {})
+        for p in Wd.P + getattr(self.mi, "EXTRA_PLACES", []):
+            if p["id"] in hide and self.cap >= hide[p["id"]]:
+                continue
+            if p["secret"] and not self.secrets and not (self.prog and (p["id"] == "catacombs" or p["id"] in sreveal)):
                 continue
             if self.prog and p["id"] == "catacombs":
                 continue  # drawn as the catacomb line and label instead
@@ -373,7 +402,7 @@ class Map:
                 fam = FONT_SC if p["kind"] == "capital" else FONT
                 label = (f'<text x="{lx:.1f}" y="{ly:.1f}" font-family="{fam}" font-size="{size:.1f}" text-anchor="{anchor}" '
                          f'fill="{col}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke">{p["name"]}</text>')
-            pch = MI.REVEAL.get(p["id"], 1) if self.view == "marches" else (MI.LATER if p["secret"] else MI.REALM_REVEAL.get(p["id"], MI.LATER))
+            pch = self.mi.REVEAL.get(p["id"], 1) if self.view == "marches" else (sreveal.get(p["id"], self.mi.LATER) if p["secret"] else self.mi.REALM_REVEAL.get(p["id"], self.mi.LATER))
             if self.placing and pch <= self.cap:
                 if p["kind"] == "landmark":
                     self.lq.append(dict(X=lx, Y=ly, text=p["name"], size=size, fam=FONT, style="italic", col=col, prio=1 + (pch == self.chapter) * 2, area=True))
@@ -386,9 +415,9 @@ class Map:
             attrs = f' class="place{" secret" if p["secret"] else ""}" data-id="{p["id"]}" tabindex="0" role="button" aria-label="{p["name"]}"' if interactive else ""
             body = f'<g{attrs}>{hit}{gl}{label}</g>'
             if self.view == "marches":
-                body = self.G(MI.REVEAL.get(p["id"], 1), body, (X, Y))
+                body = self.G(self.mi.REVEAL.get(p["id"], 1), body, (X, Y))
             else:
-                body = self.G(MI.LATER if p["secret"] else MI.REALM_REVEAL.get(p["id"], MI.LATER), body, (X, Y))
+                body = self.G(sreveal.get(p["id"], self.mi.LATER) if p["secret"] else self.mi.REALM_REVEAL.get(p["id"], self.mi.LATER), body, (X, Y))
             self.add(body)
 
     def labels(self):
@@ -396,52 +425,61 @@ class Map:
         v = self.v
         if self.view == "realm":
             for kid, k in Wd.KINGDOMS.items():
-                X, Y = self.P(*k["label"])
-                self.add(self.G(MI.KINGDOM_REVEAL.get(kid, MI.LATER), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT_SC}" font-size="{26*min(self.fs, 1.35):.1f}" letter-spacing="7" text-anchor="middle" fill="{c["kingdomlabel"]}" fill-opacity="0.85" stroke="{c["land"]}" stroke-width="4" paint-order="stroke">{k["name"].upper()}</text>'))
+                X, Y = self.P(*getattr(self.mi, "KINGDOM_LABEL_AT", {}).get(kid, k["label"]))
+                if not self.book1 and self.placing and self.mi.KINGDOM_REVEAL.get(kid, self.mi.LATER) <= self.cap:
+                    w = len(k["name"]) * 26 * 1.35 * 0.62 + 7 * len(k["name"])
+                    self.obs.append((X - w / 2, Y - 30, X + w / 2, Y + 6))
+                self.add(self.G(self.mi.KINGDOM_REVEAL.get(kid, self.mi.LATER), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT_SC}" font-size="{26*min(self.fs, 1.35):.1f}" letter-spacing="7" text-anchor="middle" fill="{c["kingdomlabel"]}" fill-opacity="0.85" stroke="{c["land"]}" stroke-width="4" paint-order="stroke">{k["name"].upper()}</text>'))
             for name, (x, y) in Wd.SEAS.items():
                 X, Y = self.P(x, y)
                 rot = -90 if x < 10 else 0
-                self.add(self.G(MI.REALM_LABEL_REVEAL.get(name, MI.LATER), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{19*min(self.fs,1.4):.1f}" letter-spacing="5" text-anchor="middle" fill="{c["water"]}" transform="rotate({rot} {X:.1f} {Y:.1f})">{name}</text>'))
+                self.add(self.G(self.mi.REALM_LABEL_REVEAL.get(name, self.mi.LATER), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{19*min(self.fs,1.4):.1f}" letter-spacing="5" text-anchor="middle" fill="{c["water"]}" transform="rotate({rot} {X:.1f} {Y:.1f})">{name}</text>'))
             # range and region names
             for name, (x, y, rot) in {"The Iron Fells": (114, 33, 55), "The High Crown": (70, 16, 0),
                                        "The Scarfell": (204, 82, 55), "Sunward Hills": (76, 112, 25)}.items():
                 X, Y = self.P(x, y)
-                self.add(self.G(MI.REALM_LABEL_REVEAL.get(name, MI.LATER), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{12*self.fs:.1f}" letter-spacing="2" text-anchor="middle" fill="{c["mount"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke" transform="rotate({rot} {X:.1f} {Y:.1f})">{name}</text>'))
+                self.add(self.G(self.mi.REALM_LABEL_REVEAL.get(name, self.mi.LATER), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{12*self.fs:.1f}" letter-spacing="2" text-anchor="middle" fill="{c["mount"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke" transform="rotate({rot} {X:.1f} {Y:.1f})">{name}</text>'))
             for name, (x, y) in {"The Greenwold": (152, 82), "Elderwood": (48, 116), "The Ashlings": (210, 128),
                                   "The Hallow Plains": (272, 132), "The Candle Downs": (136, 172), "The Saltings": (232, 186)}.items():
                 if name in ("The Hallow Plains", "The Candle Downs", "The Saltings"):
                     continue  # placed as landmarks already
                 X, Y = self.P(x, y)
-                self.add(self.G(MI.REALM_LABEL_REVEAL.get(name, MI.LATER), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{12*self.fs:.1f}" text-anchor="middle" fill="{c["forest"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke">{name}</text>'))
+                self.add(self.G(self.mi.REALM_LABEL_REVEAL.get(name, self.mi.LATER), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{12*self.fs:.1f}" text-anchor="middle" fill="{c["forest"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke">{name}</text>'))
             # the Marches
             X, Y = self.P(195, 122)
-            self.add(self.G(MI.REALM_LABEL_REVEAL["THE MARCHES"], f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT_SC}" font-size="{15*self.fs:.1f}" letter-spacing="4" text-anchor="middle" fill="{c["border"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke" transform="rotate(-78 {X:.1f} {Y:.1f})">THE MARCHES</text>'))
+            self.add(self.G(self.mi.REALM_LABEL_REVEAL["THE MARCHES"], f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT_SC}" font-size="{15*self.fs:.1f}" letter-spacing="4" text-anchor="middle" fill="{c["border"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke" transform="rotate(-78 {X:.1f} {Y:.1f})">THE MARCHES</text>'))
             # river labels
             for name, (x, y, rot) in {"Wend": (181.5, 150, -82), "Coldrun": (50, 47, -10), "Gilt": (64, 142, -55), "Meryl": (139, 160, -80), "Ysse": (263, 150, -85)}.items():
                 X, Y = self.P(x, y)
-                self.add(self.G(MI.REALM_LABEL_REVEAL.get(name, MI.LATER), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{11*self.fs:.1f}" text-anchor="middle" fill="{c["water"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke" transform="rotate({rot} {X:.1f} {Y:.1f})">{name}</text>'))
+                self.add(self.G(self.mi.REALM_LABEL_REVEAL.get(name, self.mi.LATER), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{11*self.fs:.1f}" text-anchor="middle" fill="{c["water"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke" transform="rotate({rot} {X:.1f} {Y:.1f})">{name}</text>'))
             X, Y = self.P(118, 98)
-            self.add(self.G(MI.REALM_LABEL_REVEAL["the Oneroad"], f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{10*self.fs:.1f}" fill="{c["ink"]}" fill-opacity="0.75" stroke="{c["land"]}" stroke-width="3" paint-order="stroke">the Oneroad</text>'))
+            self.add(self.G(self.mi.REALM_LABEL_REVEAL["the Oneroad"], f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{10*self.fs:.1f}" fill="{c["ink"]}" fill-opacity="0.75" stroke="{c["land"]}" stroke-width="3" paint-order="stroke">the Oneroad</text>'))
         else:
             for name, (x, y, rot, sz) in {"River Wend": (177.5, 90.5, -72, 22), "HEARTHMERE": (170.2, 92.5, 0, 26), "SALTREACH": (186.5, 108, 0, 26),
                                           "the Oneroad": (170, 103.2, -2, 14), "the Drover's Way": (181.6, 119, -88, 13),
                                           "the River Road": (173.0, 96, -84, 13), "the King's Road": (168.5, 106.3, 2, 13)}.items():
                 X, Y = self.P(x, y)
+                if not self.book1 and not (90 < X < self.W - 90 and 60 < Y < self.H - 60):
+                    continue
+                if not self.book1 and rot == 0 and not (20 < X - len(name) * sz * self.fs * 0.4 and X + len(name) * sz * self.fs * 0.4 < self.W - 20):
+                    continue      # would run off the edge
+                if not self.book1 and X - len(name) * sz * self.fs * 0.35 < 400 and Y < 96 + sz * self.fs:
+                    continue      # under the cartouche
                 fam = FONT_SC if name.isupper() else FONT
                 col = c["water"] if "Wend" in name else (c["kingdomlabel"] if name.isupper() else c["road"])
-                if self.placing and MI.LABEL_REVEAL.get(name, 1) <= self.cap:
+                if self.placing and self.mi.LABEL_REVEAL.get(name, 1) <= self.cap:
                     w, h = len(name) * sz * self.fs * (0.62 if name.isupper() else 0.45), sz * self.fs
                     t = math.radians(rot)
                     bw, bh = abs(w * math.cos(t)) + abs(h * math.sin(t)), abs(w * math.sin(t)) + abs(h * math.cos(t))
                     self.obs.append((X - bw / 2, Y - bh / 2 - h * 0.3, X + bw / 2, Y + bh / 2 - h * 0.3))
-                self.add(self.G(MI.LABEL_REVEAL.get(name, 1), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{fam}" font-style="{"normal" if name.isupper() else "italic"}" font-size="{sz*self.fs:.1f}" letter-spacing="{6 if name.isupper() else 1}" text-anchor="middle" fill="{col}" stroke="{c["land"]}" stroke-width="4" paint-order="stroke" transform="rotate({rot} {X:.1f} {Y:.1f})">{name}</text>'))
-            if self.placing and self.cap >= 27:
+                self.add(self.G(self.mi.LABEL_REVEAL.get(name, 1), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{fam}" font-style="{"normal" if name.isupper() else "italic"}" font-size="{sz*self.fs:.1f}" letter-spacing="{6 if name.isupper() else 1}" text-anchor="middle" fill="{col}" stroke="{c["land"]}" stroke-width="4" paint-order="stroke" transform="rotate({rot} {X:.1f} {Y:.1f})">{name}</text>'))
+            if self.placing and self.cap >= getattr(self.mi, "CATACOMBS_CH", 27):
                 X, Y = self.P(174.2, 105.5)
                 w = 21 * 13 * self.fs * 0.45
                 self.obs.append((X - w, Y - 13 * self.fs, X, Y + 4))
             if self.prog:
                 X, Y = self.P(174.2, 105.5)
-                self.add(self.G(27, f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{13*self.fs:.1f}" text-anchor="end" fill="{c["secret"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke">the catacombs (below)</text>'))
+                self.add(self.G(getattr(self.mi, "CATACOMBS_CH", 27), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{13*self.fs:.1f}" text-anchor="end" fill="{c["secret"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke">the catacombs (below)</text>'))
             elif self.secrets:
                 X, Y = self.P(174.2, 105.5)
                 self.add(f'<g class="secret"><text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="13" text-anchor="end" fill="{c["secret"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke">the catacombs (below)</text></g>')
@@ -481,7 +519,7 @@ class Map:
             tx, ty = self.W * 0.12, self.H - 70
             tx, ty = 220, 150 * 5 + 300
         else:
-            title, sub = "The Marches", self.subtitle or "Greyhold, the Old Ruin, and the Wend between"
+            title, sub = self.title or "The Marches", self.subtitle or "Greyhold, the Old Ruin, and the Wend between"
         if self.view == "realm":
             tx, ty = self.P(132, 221)
             self.add(f'<text x="{tx}" y="{ty-18}" font-family="{FONT_SC}" font-size="44" letter-spacing="10" text-anchor="middle" fill="{c["ink"]}">{title.upper()}</text>'
@@ -499,7 +537,7 @@ class Map:
     # ---------------- the lived-in Marches ----------------
     def ambient(self):
         c = self.c
-        for (x, y, ch) in MI.AMBIENT:
+        for (x, y, ch) in self.mi.AMBIENT:
             X, Y = self.P(x, y)
             s = 5.5
             g = (f'<path d="M{X-s:.1f},{Y+s*0.5:.1f} v{-s*0.9:.1f} l{s:.1f},{-s*0.8:.1f} l{s:.1f},{s*0.8:.1f} v{s*0.9:.1f} Z" fill="{c["land"]}" stroke="{c["ink"]}" stroke-width="1"/>'
@@ -511,7 +549,7 @@ class Map:
         X, Y = self.P(it["x"], it["y"])
         ink, red = c["ink"], c["secret"]
         k = it["kind"]
-        s = 7 * self.fs
+        s = 7 * self.fs * it.get("size", 1) * getattr(self, "iscale", 1)
         if k == "hamlet":
             return f'<circle cx="{X:.1f}" cy="{Y:.1f}" r="{s*0.55:.1f}" fill="{c["land"]}" stroke="{ink}" stroke-width="1.3"/>'
         if k == "mill":
@@ -587,14 +625,96 @@ class Map:
             px, py = -d[1], d[0]
             return (f'<path d="M{X:.1f},{Y:.1f} L{ex:.1f},{ey:.1f}" stroke="{ink}" stroke-width="1.8"/>'
                     f'<path d="M{ex:.1f},{ey:.1f} L{ex - d[0]*s*0.8 + px*s*0.5:.1f},{ey - d[1]*s*0.8 + py*s*0.5:.1f} L{ex - d[0]*s*0.8 - px*s*0.5:.1f},{ey - d[1]*s*0.8 - py*s*0.5:.1f} Z" fill="{ink}"/>')
+        return self.item_glyph_more(it, X, Y, s, ink, red)
+
+    def item_glyph_more(self, it, X, Y, s, ink, red):
+        """Glyphs used only by the later books' items."""
+        c = self.c
+        k = it["kind"]
+        if k == "house":
+            return f'<path d="M{X-s*0.8:.1f},{Y+s*0.6:.1f} v{-s*0.8:.1f} l{s*0.8:.1f},{-s*0.7:.1f} l{s*0.8:.1f},{s*0.7:.1f} v{s*0.8:.1f} Z" fill="{c["land"]}" stroke="{ink}" stroke-width="1.3"/>'
+        if k == "eddy":
+            pts = []
+            for i in range(40):
+                a = i * 0.42
+                r = s * 0.12 * (1 + a * 0.55)
+                pts.append(f"{X + r*math.cos(a):.1f},{Y + r*math.sin(a):.1f}")
+            return f'<polyline points="{" ".join(pts)}" fill="none" stroke="{ink}" stroke-width="1.3"/>'
+        if k == "stones":
+            return "".join(f'<rect x="{X + s*1.1*math.cos(a) - s*0.16:.1f}" y="{Y + s*1.1*math.sin(a) - s*0.3:.1f}" width="{s*0.32:.1f}" height="{s*0.6:.1f}" fill="{ink}"/>' for a in np.linspace(0, math.pi * 2, 9, endpoint=False))
+        if k == "ship":
+            return (f'<path d="M{X-s:.1f},{Y+s*0.2:.1f} h{s*2:.1f} l{-s*0.4:.1f},{s*0.5:.1f} h{-s*1.2:.1f} Z" fill="{ink}"/>'
+                    f'<path d="M{X:.1f},{Y+s*0.2:.1f} v{-s*1.3:.1f} M{X:.1f},{Y-s*1.0:.1f} l{s*0.7:.1f},{s*0.9:.1f} h{-s*0.7:.1f}" stroke="{ink}" stroke-width="1.2" fill="none"/>')
+        if k == "wave":
+            return "".join(f'<path d="M{X-s*1.2:.1f},{Y+i*s*0.45:.1f} q{s*0.3:.1f},{-s*0.5:.1f} {s*0.6:.1f},0 t{s*0.6:.1f},0 t{s*0.6:.1f},0 t{s*0.6:.1f},0" fill="none" stroke="{red}" stroke-width="1.5"/>' for i in range(-1, 2))
+        if k == "cage":
+            return (f'<rect x="{X-s:.1f}" y="{Y-s*0.8:.1f}" width="{s*2:.1f}" height="{s*1.6:.1f}" fill="{c["land"]}" stroke="{red}" stroke-width="1.6"/>'
+                    + "".join(f'<path d="M{X-s+i*s*0.5:.1f},{Y-s*0.8:.1f} v{s*1.6:.1f}" stroke="{red}" stroke-width="1.1"/>' for i in range(1, 4)))
+        if k == "sleeper":
+            rays = "".join(f'<path d="M{X+s*0.9*math.cos(a):.1f},{Y+s*0.9*math.sin(a):.1f} L{X+s*1.7*math.cos(a):.1f},{Y+s*1.7*math.sin(a):.1f}" stroke="{red}" stroke-width="1.6"/>' for a in np.linspace(0, math.pi*2, 8, endpoint=False))
+            return rays + f'<circle cx="{X:.1f}" cy="{Y:.1f}" r="{s*0.75:.1f}" fill="{c["land"]}" stroke="{red}" stroke-width="1.6"/><circle cx="{X:.1f}" cy="{Y:.1f}" r="{s*0.3:.1f}" fill="{red}"/>'
+        if k == "flood":
+            return "".join(f'<path d="M{X-s*1.3:.1f},{Y+i*s*0.5:.1f} q{s*0.33:.1f},{-s*0.35:.1f} {s*0.65:.1f},0 t{s*0.65:.1f},0 t{s*0.65:.1f},0 t{s*0.65:.1f},0" fill="none" stroke="{ink}" stroke-width="1.3"/>' for i in range(-1, 2))
+        if k == "rubble":
+            return "".join(f'<path d="M{X+dx*s:.1f},{Y+dy*s:.1f} l{s*0.35:.1f},{-s*0.6:.1f} l{s*0.35:.1f},{s*0.6:.1f} Z" fill="{c["land"]}" stroke="{ink}" stroke-width="1.1"/>' for dx, dy in ((-1, 0.4), (-0.3, 0.1), (0.4, 0.5), (-0.6, -0.4), (0.2, -0.5)))
+        if k == "lamp":
+            rays = "".join(f'<path d="M{X+s*0.6*math.cos(a):.1f},{Y+s*0.6*math.sin(a):.1f} L{X+s*1.3*math.cos(a):.1f},{Y+s*1.3*math.sin(a):.1f}" stroke="{ink}" stroke-width="1.2"/>' for a in np.linspace(0, math.pi*2, 12, endpoint=False))
+            return rays + f'<circle cx="{X:.1f}" cy="{Y:.1f}" r="{s*0.4:.1f}" fill="{c["land"]}" stroke="{ink}" stroke-width="1.2"/>'
+        if k == "label":
+            return ""
         return ""
+
+    def item_visible(self, it):
+        """Later books: which items this view draws (realm items on the whole-Winshire map; anything inside a close-up)."""
+        if self.view == "realm" and not it.get("realm"):
+            return False
+        if it.get("until") is not None and self.chapter is not None and self.chapter > it["until"]:
+            return False
+        if it.get("views") and self.view not in it["views"]:
+            return False
+        linger = getattr(self.mi, "LINGER", None)
+        if (linger and self.chapter is not None and it.get("until") is None and not it.get("keep")
+                and it["kind"] not in getattr(self.mi, "LASTING_KINDS", ()) and self.chapter > it["ch"] + linger):
+            return False      # an event fades from the map some chapters after it happened
+        pts = it.get("path") or [(it["x"], it["y"])]
+        return any(self.inside(x, y, -0.3 if self.view != "realm" else 0) for x, y in pts)
+
+    def line_item(self, it):
+        """Later books' line items: the Titan's track, a POV's route, a wall, a road, a crossing."""
+        c = self.c
+        pts = it["path"]
+        realm = self.view == "realm"
+        d = self.smooth_path(pts)
+        k = it["kind"]
+        w = {"track": 3.4, "route": 1.7, "wall": 6.0, "road": 1.4, "sea": 1.2, "band": 0.9 * self.v["s"]}[k] * (0.75 if realm else 1.0) * it.get("weight", 1)
+        dash = {"track": "0.1 7", "route": "8 5", "wall": "none", "road": "4 3" if realm else "9 5", "sea": "3 6", "band": "none"}[k]
+        col = c["secret"] if k in ("track", "route") else c["ink"]
+        out = f'<path d="{d}" fill="none" stroke="{col}" stroke-width="{w:.1f}" stroke-dasharray="{dash}" stroke-linecap="round" stroke-linejoin="round"/>'
+        if k == "band":
+            out = f'<path d="{d}" fill="none" stroke="{c["ink"]}" stroke-opacity="0.13" stroke-width="{w:.1f}" stroke-linecap="round" stroke-linejoin="round"/>'
+        if k == "wall":
+            out = (f'<path d="{d}" fill="none" stroke="{c["ink"]}" stroke-width="{w + 2:.1f}" stroke-linecap="butt"/>'
+                   f'<path d="{d}" fill="none" stroke="{c["land"]}" stroke-width="{w - 2:.1f}" stroke-dasharray="3 3" stroke-linecap="butt"/>')
+        if k == "route" and it.get("head", True) or k == "track" and it["ch"] == self.chapter and it.get("head", True):
+            (x1, y1), (x2, y2) = pts[-2], pts[-1]
+            A, B = self.P(x1, y1), self.P(x2, y2)
+            ang = math.atan2(B[1] - A[1], B[0] - A[0])
+            hx, hy = B
+            L = 13 if not realm else 10
+            out += f'<path d="M{hx:.1f},{hy:.1f} L{hx - L*math.cos(ang - 0.45):.1f},{hy - L*math.sin(ang - 0.45):.1f} L{hx - L*math.cos(ang + 0.45):.1f},{hy - L*math.sin(ang + 0.45):.1f} Z" fill="{col}"/>'
+        return out
 
     def items(self):
         c = self.c
-        for it in MI.ITEMS:
+        self.iscale = 0.62 if self.view == "realm" else 1.0
+        for it in self.mi.ITEMS:
+            if not self.book1 and not self.item_visible(it):
+                continue
             X, Y = self.P(it["x"], it["y"])
             parts = []
-            if it["kind"] == "path":
+            if not self.book1 and it["kind"] in LINE_KINDS:
+                parts.append(self.line_item(it))
+            elif it["kind"] == "path":
                 pts = it["path"]
                 d = self.smooth_path(pts)
                 (x1, y1), (x2, y2) = pts[-2], pts[-1]
@@ -610,7 +730,7 @@ class Map:
             if self.placing and it["ch"] <= self.cap:
                 self.obs.append((X - 9, Y - 9, X + 9, Y + 9))
             if self.placing and it["label"] and it["name"] and not stale and it["ch"] <= self.cap:
-                size = 13.5 * self.fs * (1.25 if it["kind"] in ("hamlet", "area_small") else 1)
+                size = 13.5 * self.fs * (1.25 if it["kind"] in ("hamlet", "area_small") else 1) * (0.72 if self.view == "realm" else 1)
                 style = "normal" if it["kind"] in ("hamlet", "inn", "mill", "cave", "area_small") else "italic"
                 new = it["ch"] == self.chapter
                 self.lq.append(dict(X=X, Y=Y, text=html_esc(it["name"]), size=size, fam=FONT, style=style, col=c["label"],
@@ -635,7 +755,8 @@ class Map:
             if self.interactive:
                 body = (f'<g class="place item" data-item="{it["id"]}" tabindex="0" role="button" aria-label="{html_esc(it["name"] or it["desc"][:40])}">'
                         f'<circle cx="{X:.1f}" cy="{Y:.1f}" r="16" fill="transparent"/>{body}</g>')
-            self.add(self.G(it["ch"], body, (X, Y)))
+            ring = None if (not self.book1 and (it["kind"] in LINE_KINDS or it["kind"] == "label")) else (X, Y)
+            self.add(self.G(it["ch"], body, ring))
 
     def place_labels(self):
         """Greedy label placement: most important first; try eight positions; drop minor labels that can't fit."""
@@ -648,10 +769,13 @@ class Map:
                 for t in np.linspace(0, 1, 4):
                     X, Y = self.P(x0 + (x1 - x0) * t, y0 + (y1 - y0) * t)
                     self.obs.append((X - 3, Y - 3, X + 3, Y + 3))
-            if MI.REALM_LABEL_REVEAL["THE MARCHES"] <= self.cap:
+            if self.mi.REALM_LABEL_REVEAL["THE MARCHES"] <= self.cap:
                 X, Y = self.P(195, 122)
                 h, w = 15 * self.fs, 11 * 15 * self.fs * 0.75
                 self.obs.append((X - h * 0.7, Y - w / 2, X + h * 0.5, Y + w / 2))
+        if self.view == "marches" and not self.book1:
+            self.hard_obs = [(24, 8, 412, 98), (28, self.H - 72, 330, self.H - 10), (self.W - 112, self.H - 154, self.W - 28, self.H - 58)]
+            self.obs.extend(self.hard_obs)      # the cartouche, the scale bar, the compass
         if self.view == "marches":
             pts = np.array(self.roughen(Wd.WEND, 0.0, 4))
             for (x, y) in pts:
@@ -710,8 +834,13 @@ class Map:
                             n += 1
                     if x0 < 16 or x1 > self.W - 16 or y0 < 16 or y1 > self.H - 16:
                         n += 100
+                    for (a0, b0, a1, b1) in getattr(self, "hard_obs", ()):
+                        if x0 < a1 and x1 > a0 and y0 < b1 and y1 > b0:
+                            n += 60
                     return n
                 x, y, a = min(cands, key=lambda c3: crowd(box(c3[0], c3[1], w, s, c3[2])))
+                if getattr(self, "hard_obs", None) and crowd(box(x, y, w, s, a)) >= 60:
+                    continue      # later books: never under the cartouche, scale bar or compass, nor off the edge
                 spot = (x, y, a, box(x, y, w, s, a))
             x, y, a, b = spot
             placed.append(b)
@@ -742,6 +871,8 @@ class Map:
         if self.prog and self.view == "marches":
             self.ambient()
             self.items()
+        elif self.prog and self.view == "realm" and getattr(self.mi, "REALM_ITEMS", False):
+            self.items()
         self.places(interactive)
         if self.placing:
             self.place_labels()
@@ -765,8 +896,9 @@ def point_in(poly, x, y):
     return inside
 
 
-def render(view, style, secrets, interactive=False, chapter=None, subtitle=None, bare=False):
-    return Map(view, style, secrets, chapter=chapter, interactive=interactive, subtitle=subtitle, bare=bare).svg(interactive)
+def render(view, style, secrets, interactive=False, chapter=None, subtitle=None, bare=False, mi=None, box=None, title=None):
+    return Map(view, style, secrets, chapter=chapter, interactive=interactive, subtitle=subtitle, bare=bare,
+               mi=mi, box=box, title=title).svg(interactive)
 
 
 if __name__ == "__main__":
@@ -779,7 +911,9 @@ if __name__ == "__main__":
     print("ok")
 
 
-EVENT_KINDS = {"fire", "battle", "death", "camp", "roadblock", "dragon", "beast", "lion", "chain", "scroll", "lock", "bond", "meet", "titan", "watchers", "path", "smoke"}
+EVENT_KINDS = {"fire", "battle", "death", "camp", "roadblock", "dragon", "beast", "lion", "chain", "scroll", "lock", "bond", "meet", "titan", "watchers", "path", "smoke",
+               "track", "route", "wave", "flood", "sleeper", "ship", "cage", "lamp"}
+LINE_KINDS = {"track", "route", "wall", "road", "sea", "band"}
 
 
 def html_esc(s):

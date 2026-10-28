@@ -1,0 +1,12 @@
+{
+ "_about": "ElevenLabs production record for The Watch Below. Narrator Tamsin (voice dAlhI9qAHVIjXuVppzhW), model eleven_v4, one take per passage. Passage texts are in text/ (made by Tools/audiobook/elevenlabs_v4_passages.py). Generation ids are in the ElevenLabs flows named below. Finished chapters: ElevenLabs/out/ (not in git).",
+ "voice": {"name": "Tamsin - warm, articulate and confident", "voice_id": "dAlhI9qAHVIjXuVppzhW"},
+ "model": "eleven_v4",
+ "chapters": {
+  "1": {"flow": "gQhmfW5E1F5P6spVqFTQ", "passages": 7, "credits": 15393, "duration": "16:01", "generations": ["MGavdvvUCnRLytJryWIe","thAImHD2LWlkkkEJgkhz","aIxeLdbZi8fok6VdKdtn","KyWQ8wo1hdeNhf0i2zFi","D6Nw7tT4CDIdfSIUkiQQ","X8xphEj0OXJ4MO9QPZr6","9XugKnPx1583pF0mEvNa"]},
+  "2": {"flow": "DhIW3wxTqxTLkpbyr35Y", "passages": 8, "credits": 17436, "duration": "17:52", "generations": ["YbOLm9FrFSuuxk3fN6iP","7qzwrH9EDDvOwPJTIuKV","N2NviSzYQJSrvRgZy7JC","wsjOMo8boxnSsx3qt81n","UF6LgylYXuBdt3QnVKCN","HrO1zrP3p1e6fQfhAcMd","W4EizzGEOnNObQWspBLv","QqchAQD82R9Jdz9IBQFX"]},
+  "3": {"flow": "TXLJokoRapM2rvW45au1", "passages": 9, "credits": 17985, "duration": "18:16", "generations": ["GLI9mbFL6SXEmk4k8R0b","vz77Oz6kOYlhQ8H37Pxo","CYeNYVjanqT5dVsC7JJJ","WeQCKigs1CmuGSA82GFT","t4c7eJ2bVPn7wJEcO6pk","34qTN5iHbqjWUbFHOgEE","GYpWE1lYp24HfoJFwxSR","uD5bDvGeMbSQzz3s9cF6","EdGU1CiVSEgshGwBEOfQ"]},
+  "4": {"flow": "RmgKtJJd9i6lUfKBI7A1", "passages": 10, "credits": 20615, "duration": "21:09", "generations": ["VeY9ssuEDkXdnmWSRXlx","C5NUQnzUlgGEKgnPMbGd","6GH5V9g6RvucjjA18wQs","lDDjq7jLHjqhiO7NmQam","xjXkRJYwWHt4sUreaEyl","HZ1QWhCiGZBERwc4Qd1d","RnnO2Zb8GnQCd0KxtGrS","Z7UoeNKDmqzyO216NNPE","J09r1Je9U1laPEZBfyPz","rJ6i0rrE9A6X0TVH7ch4"]}
+ },
+ "assembly": "0.6 s lead-in, 0.5 s between passages, 2 s tail; loudness-normalised to about -20 LUFS, true peak -3 dB; MP3 192 kbps mono 44.1 kHz (Tools/audiobook/render_elevenlabs.py assemble())."
+}

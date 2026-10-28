@@ -28,7 +28,7 @@
 2. **Revise them yourself,** then share them with a few **beta readers** who read epic fantasy.
 3. **Developmental edit:** a professional editor checks structure, pacing, characters and the POV balance. This is the most valuable paid step.
 4. **Copyedit, then proofread:** line-level corrections, then a final typo pass on the formatted ebook.
-5. **Cover:** a professional fantasy cover designer, because covers sell genre fiction. Commission one cover style that can extend across all three books.
+5. ~~**Cover.**~~ *(Done: covers for all three books in three editions, Bone, Night and Band, each with its own art, Oct 2026. See `Covers/README.md`.)*
 6. **Formatting:** the ebook, with the opener art and chapter-end maps placed as images. Kindle Create is free; Vellum and Atticus are paid.
 7. **Metadata:** title, subtitle ("Winshire, Book 1"), description, categories and keywords.
 8. **Upload** to KDP (and the other stores if going wide), and preview on several devices before release.
@@ -66,7 +66,8 @@
 ## Open publishing questions
 
 - Exclusive on Amazon (Kindle Unlimited), or wide?
-- Which editor and cover designer?
+- Which editor?
+- Which edition (Bone, Night or Band) goes out first, and how the other two are released.
 - Publish under your own name or a pen name, and under what imprint name?
 - Release Book 1 alone, or the three close together?
 - The audiobook: which route (ElevenReader, Spotify for Authors, Google Play), one narrator or a full cast, and the names marked *confirm* in `Book 1/audiobook/Pronunciation_Guide.md`.

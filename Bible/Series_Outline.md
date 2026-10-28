@@ -249,13 +249,16 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 
 *Only the publishing choices are still open (`Publishing.md`):*
 - KDP Select or wide
-- Which editor and cover designer
+- Which editor
+- Which cover edition (Bone, Night or Band) goes out first
 - Own name or a pen name, and the imprint
 - Release Book 1 alone, or the three close together
 
 ## Settled questions
 
 *Kept as a record of where each answer lives.*
+
+- **Covers** *(Oct 2026)*: three editions of the trilogy, Bone, Night and Band, each with its own art; all of the art is kept (`Covers/README.md`).
 
 **Book 1:** nothing open. The drafts are canon; the rulings from the Chapters 41–79 review are in `Book 1/Notes/Rulings_41-79.md`.
 

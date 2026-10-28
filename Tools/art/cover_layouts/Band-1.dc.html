@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Band cover: The Watch Below</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&amp;family=IM+Fell+English+SC&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+</style>
+</helmet>
+<div style="width: 800px; height: 1280px; position: relative; overflow: hidden; background: #F2ECDF; color: #16130F; font-family: 'IM Fell English', Georgia, serif">
+<img src="/_blob/612a58c9a9c07a75cfd835692aff80bb" alt="Ink brush drawing: a great ring broken on its east side, cage bars inside it with one bar bent out, a spined back behind the bars, the river below" style="position: absolute; left: 0; top: 330px; width: 800px; height: 880px">
+<div style="position: absolute; left: 0; top: 0; width: 800px; height: 450px; background: {{band}}; color: #F2ECDF; padding: 70px 64px 0; box-sizing: border-box; display: flex; flex-direction: column; align-items: center; gap: 18px; text-align: center">
+<div style="font-family: 'IM Fell English SC', Georgia, serif; font-size: 21px; letter-spacing: 6px">The Winshire Chronicles · Book One</div>
+<h1 style="margin: 8px 0 0; font-family: 'IM Fell English SC', Georgia, serif; font-weight: 400; font-size: 92px; line-height: 0.98; letter-spacing: 2px">The Watch<br>Below</h1>
+</div>
+<div style="position: absolute; left: 0; bottom: 56px; width: 800px; text-align: center; font-family: 'IM Fell English SC', Georgia, serif; font-size: 27px; letter-spacing: 5px">Goodluck Kusekwa</div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"band":{"editor":"color","default":"#1F3D3B","options":["#1F3D3B","#6B2A1A","#222B45","#16130F"]},"$preview":{"width":800,"height":1280}}'>
+class Component extends DCLogic {
+renderVals() {
+return { band: this.props.band ?? '#1F3D3B' };
+}
+}
+</script>
+</body>
+</html>

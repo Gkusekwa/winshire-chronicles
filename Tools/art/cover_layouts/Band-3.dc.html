@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Band cover: The Titan War</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&amp;family=IM+Fell+English+SC&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+</style>
+</helmet>
+<div style="width: 800px; height: 1280px; position: relative; overflow: hidden; background: #F2ECDF; color: #16130F; font-family: 'IM Fell English', Georgia, serif">
+<img src="/_blob/c101e8a23ba01e72c0db1e5ee1cfa783" alt="Ink brush drawing: six rings joined by chain in a circle, one ring and its chain broken, a single ring and three dots together at the centre" style="position: absolute; left: 0; top: 330px; width: 800px; height: 880px">
+<div style="position: absolute; left: 0; top: 0; width: 800px; height: 450px; background: {{band}}; color: #F2ECDF; padding: 70px 64px 0; box-sizing: border-box; display: flex; flex-direction: column; align-items: center; gap: 18px; text-align: center">
+<div style="font-family: 'IM Fell English SC', Georgia, serif; font-size: 21px; letter-spacing: 6px">The Winshire Chronicles · Book Three</div>
+<h1 style="margin: 8px 0 0; font-family: 'IM Fell English SC', Georgia, serif; font-weight: 400; font-size: 92px; line-height: 0.98; letter-spacing: 2px">The Titan<br>War</h1>
+</div>
+<div style="position: absolute; left: 0; bottom: 56px; width: 800px; text-align: center; font-family: 'IM Fell English SC', Georgia, serif; font-size: 27px; letter-spacing: 5px">Goodluck Kusekwa</div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"band":{"editor":"color","default":"#222B45","options":["#1F3D3B","#6B2A1A","#222B45","#16130F"]},"$preview":{"width":800,"height":1280}}'>
+class Component extends DCLogic {
+renderVals() {
+return { band: this.props.band ?? '#222B45' };
+}
+}
+</script>
+</body>
+</html>

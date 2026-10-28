@@ -1,6 +1,6 @@
 # Covers
 
-*Settled by the author, Oct 2026.* The trilogy is released in **three editions**, and each edition has its own art. All of the art is kept.
+*Settled by the author, Oct 2026.* The trilogy is released in **three editions**, and each edition has its own art. All of the art is kept. Which edition goes out first is to be decided later.
 
 | Edition | Look | Book 1 *The Watch Below* | Book 2 *The Hunt Beneath* | Book 3 *The Titan War* |
 |---|---|---|---|---|

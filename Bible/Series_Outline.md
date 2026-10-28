@@ -250,7 +250,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 *Only the publishing choices are still open (`Publishing.md`):*
 - KDP Select or wide
 - Which editor
-- Which cover edition (Bone, Night or Band) goes out first
+- Which cover edition (Bone, Night or Band) goes out first *(to be decided later)*
 - Own name or a pen name, and the imprint
 - Release Book 1 alone, or the three close together
 

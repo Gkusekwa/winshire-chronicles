@@ -67,7 +67,7 @@
 
 - Exclusive on Amazon (Kindle Unlimited), or wide?
 - Which editor?
-- Which edition (Bone, Night or Band) goes out first, and how the other two are released.
+- Which edition (Bone, Night or Band) goes out first, and how the other two are released *(to be decided later)*.
 - Publish under your own name or a pen name, and under what imprint name?
 - Release Book 1 alone, or the three close together?
 - The audiobook: which route (ElevenReader, Spotify for Authors, Google Play), one narrator or a full cast, and the names marked *confirm* in `Book 1/audiobook/Pronunciation_Guide.md`.

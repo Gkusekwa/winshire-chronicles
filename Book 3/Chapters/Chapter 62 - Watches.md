@@ -43,7 +43,7 @@ At dawn. Out of the Coldrun sidings. In the cold, with the frost on the cinders 
 
 ---
 
-He'd never seen the road-engines before.
+Tobin had never seen the road-engines before.
 
 Kessmoor kept them in a long shed at the sidings' end and didn't take them out for nothing. They came out that morning one after another, hissing. Iron. Each as big as a cart-shed, on iron wheels taller than a man, with a chimney at the front and a firebox under it and a man on a little iron platform at the back with his hands on two brass levers.
 

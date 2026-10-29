@@ -34,7 +34,7 @@ In the morning the orders said: *Break down for the trains.*
 
 ---
 
-He'd been on nights since then.
+Tobin had been on nights since then.
 
 Three hundred of his hands. The rest on days. The work didn't stop for dark at Ironhythe. Nothing did. Under the green lamps, in the Ring Yard, with the canal black on one side and the cinders red with firelight on the other, they took the Bridle apart.
 

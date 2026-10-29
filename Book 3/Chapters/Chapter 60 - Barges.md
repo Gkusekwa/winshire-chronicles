@@ -24,7 +24,7 @@ It had been a ford.
 
 That was all, once. The Sheepford, the drovers' summer ford eight leagues below the hub, that the barges called the Staithe until Kit named it again. A landing and a dozen houses on the Hearthmere bank. A ferry when the river was up. An inn.
 
-Now it was a town on the water.
+Now it was a town on the water. Kit stood on its landing on the two-hundred-and-ninety-fifth and counted it.
 
 ---
 
@@ -48,7 +48,7 @@ Free captains'. The last on the coast. Every one that had come up the mouth when
 
 Twenty-three barges. Six thousand people. Eight leagues.
 
-She worked it out on a slate at the Sheepford's inn table on the two-hundred-and-ninety-fifth. Fifteen days.
+She worked it out on a slate at the Sheepford's inn table that night. Fifteen days.
 
 ---
 

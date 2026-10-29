@@ -26,7 +26,7 @@ notes -->
 
 The lion came on the hundred-and-ninety-first.
 
-Up the Wend's east bank, from its mouth. She saw it from the barn's roof at noon. A hill, walking. Grey. Along the river-meadows, a furlong a stride, with the Wend going past it brown and slow and the farms on the bank emptying in front of it like water out of a tipped bucket.
+Up the Wend's east bank, from its mouth. Rowan saw it from the barn's roof at noon. A hill, walking. Grey. Along the river-meadows, a furlong a stride, with the Wend going past it brown and slow and the farms on the bank emptying in front of it like water out of a tipped bucket.
 
 The camp panicked.
 

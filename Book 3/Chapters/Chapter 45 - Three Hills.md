@@ -22,7 +22,7 @@ notes -->
 
 They were too big for the yard.
 
-He'd known that the night he came down. He'd known it better every day since. The hatching caves' yard, the flat of trodden turf before the cave mouth with the burn across it, was a step for Kharrak now. A doorstep. He put one forefoot in it and the rest of him lay on the moor above.
+He'd known that the night he came down, on the hundred-and-forty-ninth. He'd known it better every day since. The hatching caves' yard, the flat of trodden turf before the cave mouth with the burn across it, was a step for Kharrak now. A doorstep. He put one forefoot in it and the rest of him lay on the moor above.
 
 The herdsmen called them the three hills.
 
@@ -34,7 +34,7 @@ He heard it on the second day. Two of the Clan's high-moor herdsmen, bringing a 
 
 He lay in the cave mostly.
 
-The first ten days. By the warm spring, on a pallet Ada made, with Wren beside him with her milestone stone in her lap and her plait done up again. His chest pulled. The scars. Three ridges, bronze and rust and green. He coughed. His breath was short. He couldn't climb the slope to the rim without stopping twice.
+The first ten days. By the warm spring, on a pallet Ada made, with Wren beside him with her milestone stone in her lap and her plait done up again. His chest pulled. The scars. Three ridges, bronze and rust and green. He coughed. His breath was short. He couldn't climb the slope to the rim without stopping twice. Sixty leagues south-west the Last Titan lay in the Mere, and he couldn't climb a slope.
 
 Ada fed him broth. She didn't sing. She didn't talk much.
 

@@ -26,7 +26,7 @@ All the way west. Across the empty country between the Ysse and the Wend, eighty
 
 Four leagues a day.
 
-She'd stopped counting the leagues somewhere after the thirtieth day. She counted other things.
+Maren had stopped counting the leagues somewhere after the thirtieth day. She counted other things.
 
 ---
 

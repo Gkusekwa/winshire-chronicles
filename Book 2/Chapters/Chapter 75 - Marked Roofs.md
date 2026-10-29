@@ -139,6 +139,8 @@ It went down.
 
 Forward. South. Into the deep water beyond where the reef had been. Its head going down first, then its back with the temple on it, the bell ringing all the way under.
 
+*It isn't going with him,* said Aurveth, in his head. *Not yet.*
+
 And the sea came back.
 
 ---

@@ -29,6 +29,8 @@ That was all he had. He stood on the lion's head in the smoke with his arms out 
 
 *Here. I'm here. I'm here.*
 
+The lion lay in the eddy beside the Last Titan in its chains, and the smoke had come across the water off the Flat at noon. He didn't know how long ago that was.
+
 ---
 
 They were slack.

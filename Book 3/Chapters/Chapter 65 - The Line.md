@@ -24,7 +24,7 @@ notes -->
 
 ---
 
-She rode the wall all day.
+Rowan rode the wall all day.
 
 From the river end to the bend. And back. On the white-blazed grey horse, along the wall's top, which was a road's breadth and had a road's surface now from a hundred and six thousand feet walking it. Davin behind her on a pony with his case. Four runners on foot, young, fast, who'd been corn-exchange porters at Hallowmere.
 

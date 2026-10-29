@@ -33,6 +33,8 @@ On a day the farmer would be on the river. Liss had told her which days. Liss kn
 
 Liss didn't ask why. She'd stopped asking Maren why, a long time ago.
 
+If the line broke on the Vale, people would need somewhere to go that wasn't the Vale. Lisska had told her what the farmer had seen under Coldtarn: a hall, shut behind stone. Only the lion could open stone.
+
 ---
 
 Up the Saltreach bank. Through Harrow's End, empty. Past the Fenn top field above it with its stone walls and the snow on them. Up the Drover's Way, rutted and frozen, and the ice burned off the fords where the farmer's fire had been: black ground below the Ram's Head, black ground at Teo's ford where the Way crosses the beck, the snow round it melted back in a ring.

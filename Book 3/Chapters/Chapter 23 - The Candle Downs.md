@@ -31,7 +31,7 @@ From the east, over the last ridge, and you saw it a long time before it arrived
 
 ---
 
-She'd known for forty days.
+Rowan had known for forty days.
 
 Since the clans came in at the planks. Since Liss's letter in Liss's round hand, read aloud at Tova's fire: *the big one, the last one, is coming west. Toward here.* Since Ironhythe, where every kingdom had named her and she'd said *I'll do it* and not much else.
 

@@ -32,6 +32,8 @@ The whole mile of it. Every shed. Every slip. Every forge.
 
 She never asked a price. She looked at everything as if she were measuring it for something, and she was.
 
+It was the hundred-and-thirtieth day. Tobin's hands had been in the yards since the spring, building a cage of engines and chain for the Accord, in case nothing else could hold a Titan.
+
 ---
 
 The Low Yards were a mile long.

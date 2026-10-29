@@ -24,7 +24,7 @@ notes -->
 
 Davin had picked them up.
 
-Out of the frozen grass on Liss's slope, after he'd fallen on the bank. The three glasses that had gone off the board when he ran. Davin had come back for them, before the river went, and put them in his case in their wool.
+Out of the frozen grass on Liss's slope, after he'd fallen on the bank. The three glasses that had gone off the board when he ran. Davin had come back for them, before the river went, and put them in his case in their wool. That was three days gone.
 
 The other five had been on the shelf in the ferry house.
 
@@ -34,7 +34,7 @@ The ferry house was on the mud now. Or in the hole.
 
 Three.
 
-Davin set them out on the floor of the hall. By the third pillar. Under the rune. In a triangle, on a flat stone, as Idony told him. One toward the door, which faced east over the tarn. One toward the hall's dark back. One against the southern wall.
+Davin set them out on the floor of the hall under Coldtarn. By the third pillar. Under the rune. In a triangle, on a flat stone, as Idony told him. One toward the door, which faced east over the tarn. One toward the hall's dark back. One against the southern wall.
 
 "If one falls before the others," said Idony, "it tells you where."
 

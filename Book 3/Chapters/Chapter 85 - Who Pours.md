@@ -27,7 +27,7 @@ notes -->
 
 Ildra didn't leave.
 
-He'd thought she might. All the first night, in the hall, in the dark, with his arms round her neck and her head on his chest. He'd thought: she'll go. In the morning. When she understands I can't hear her. She'll go up into the snow and not come down, as the freed did.
+Arn had thought she might. All the first night, in the hall, in the dark, with his arms round her neck and her head on his chest. He'd thought: she'll go. In the morning. When she understands I can't hear her. She'll go up into the snow and not come down, as the freed did.
 
 She didn't.
 

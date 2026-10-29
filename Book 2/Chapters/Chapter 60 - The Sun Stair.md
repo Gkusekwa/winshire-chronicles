@@ -87,6 +87,12 @@ He was a fisherman. Unchosen. Thin, brown, with a gap in his teeth. He'd painted
 
 They went on the morning of the three-hundred-and-fifteenth day, in the grey before the sun came over the hills.
 
+Behind them, out on its rock off the bay's eastern horn, the lighthouse was still lit. White, too bright, the Grace in it like everything else. The fisherman rowed facing it, and once he lifted his chin at it, past her shoulder.
+
+"Mother Ysa's," he said. "Thirty years she's kept it."
+
+It was all he said the whole way.
+
 The boat was small. She sat in the stern. He rowed, steadily, along the bay, under the white city, close in under the walls where the water was deep and dark. And beside the boat, in the water, Orrun swam.
 
 She'd never seen it. Only felt it, on the night of the river, in the dark, as a weight beside her in the cold. Now she saw. The great grey lion, longer than the boat, three times longer, swimming. Low in the water, with his head up and his broken-rock mane spread on the surface round him like weed on a rock. His legs going slow and steady under the blue. A wake behind him like a ship's.

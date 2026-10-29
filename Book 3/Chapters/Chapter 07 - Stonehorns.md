@@ -35,6 +35,8 @@ There was no one at the drove ford. There were stones in the water with the drov
 
 Orrun went in first.
 
+The six were down on the Plains, and the clans would be running west in front of them with their herds, toward Hearthmere and a border its council had shut. Somebody had to bring them across.
+
 ---
 
 The Plains were dead.

@@ -32,7 +32,7 @@ At noon one of them stopped and lifted its head and howled.
 
 ---
 
-He went in on foot.
+Calder went in on foot.
 
 He couldn't fly yet. Not low, not among trees. He could breathe, a little at a time, as long as he didn't hurry. He went in behind the Keepers, over the trunks, under them, his palms wrapped in wet cloth, Hobb behind him with the water-skin.
 

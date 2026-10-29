@@ -33,7 +33,7 @@ Then she put her hands flat on the door and looked at the two ends of it.
 
 ---
 
-He was standing at the back. By the ladder. The knight was at the door's foot, sitting, because Davin had put a stool there and she'd sat on it without seeing it.
+Calder was standing at the back. By the ladder. The knight was at the door's foot, sitting, because Davin had put a stool there and she'd sat on it without seeing it.
 
 "Everything on this line is a kingdom's," said Rowan. "Except four things. Two of them are gods, and they'll go where they go. The other two are yours."
 

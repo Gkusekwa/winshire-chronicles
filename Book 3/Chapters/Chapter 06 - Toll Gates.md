@@ -28,7 +28,7 @@ Along the top of the shingle, mostly, where the sea had piled it. Over the creek
 
 He knew it differently from the air.
 
-From the air you could see the gates. Every one. A bar across the road at each town's edge. And on the road, between the gates, people.
+From the air you could see the gates. Every one. A bar across the road at each town's edge. And on the road, between the gates, people. Gullhaven's people. He'd come down the coast with Ulric's riders to find them somewhere that wasn't a road.
 
 ---
 

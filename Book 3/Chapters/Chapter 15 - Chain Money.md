@@ -25,7 +25,7 @@ notes -->
 
 The chain was a black line on the water.
 
-He saw it every morning from the signal-field. Across the harbour mouth, between the two round towers, a line drawn on the sea. When it was up it stood a foot clear of the water, black with tar, dripping, the links as long as his forearm. When it was down you couldn't see it at all. It lay on the harbour floor, and ships went over it.
+He saw it every morning from Corsa's signal-field. Across the harbour mouth, between the two round towers, a line drawn on the sea. When it was up it stood a foot clear of the water, black with tar, dripping, the links as long as his forearm. When it was down you couldn't see it at all. It lay on the harbour floor, and ships went over it.
 
 They paid to go over it.
 

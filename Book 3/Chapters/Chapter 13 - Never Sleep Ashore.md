@@ -30,6 +30,8 @@ Kit had known it would be. She went out to look at it anyway, on the sixtieth da
 
 She was afraid. She looked at it anyway.
 
+It lay across the throat of the Merrins' channel out of Blackwater, the only one deep enough for the *Kittiwake* to get out over the Shatters. While it lay there the Merrins had no salvage, and the money Ostrey had lent against the ketch would fall due all the same.
+
 ---
 
 Jory rowed.

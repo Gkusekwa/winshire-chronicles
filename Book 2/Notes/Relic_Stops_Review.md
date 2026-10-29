@@ -1,5 +1,20 @@
 # Relic Stops Review: Book 2
 
+## Applied (Oct 2026)
+
+Section 3's suggestions, applied to the prose (notes blocks untouched):
+
+- **1 (A), ch 45**, after "As it had on the Library hill at Vael.": *Three months it had lain on the Ring before it put its head down. Here it had needed a month.* **Modified:** the suggested *It didn't wait for the cup to fill this time* contradicts 44–45, where the cup does fill (faster) and Idony's predicted day holds ("He was right."). The new line marks the same difference with Maren counting, and agrees with 29 (ninety-eight days at the Ring) and 44 ("from the day it lay down, a month").
+- **2 (B), 5 (E):** no change, as the review recommends.
+- **3 (C), ch 63**, after Orrun's "You had nothing. I had it all.": *She kept that. When he made more of himself, all of her went into him, and there was nothing left over to say a word with.* (The review's first sentence was already on the page at 63, "Everything she had was up the stair, in three lions", so only the rule is added.)
+- **3 (C) callback, ch 83**, after "She couldn't help him. She knew she couldn't.": *"I've nothing to say a word with," she said. "It's all in them."* Maren says it aloud, because 83 is Idony's POV and he was on Corvin's ship at 63 and can't know about the failure. The reader makes the link.
+- **4 (D), ch 60** (Maren, rowed out past the low quarter on day 315; she and Ysa are in the same bay and Ysa doesn't come ashore until the night of 317), after "in the grey before the sun came over the hills.": *Behind them, out on its rock off the bay's eastern horn, the lighthouse was still lit. White, too bright, the Grace in it like everything else. The fisherman rowed facing it, and once he lifted his chin at it, past her shoulder. / "Mother Ysa's," he said. "Thirty years she's kept it." / It was all he said the whole way.* **Modified:** planted at 60, not 58's echo. 58 is Idony's POV, and its echo is about Corvin's offer. The island isn't named, so Sorrel Isle stays new on the ch 63 map. The aftermath option wasn't used: 63 already has an oil lamp lit in the tower that night, and 67, 86 (Tobin's letter, "buried under the light") and Book 3 ch 8 already carry her afterwards.
+- **6 (F), ch 50**, before "He looked at the ring of dots...": *He marked the others too. The Coil's cold, east, back the way they'd come, faint, a long way off. The Furnace wasn't a draw at all now; it was in a box, and his glasses found nothing of it past the field. The Antlered he couldn't reach from here, so he put it where he'd last had it from the Plains' edge in the summer, going east toward the Worldsend, with a question mark beside it. Three loose, if a thing in a cage was loose. None of them going where the Titan went.* **Modified:** the review's "the cold one down the Wend" is dropped. The Coil only went *down* the valley at 37, 85 puts it "north and west, under the ice", and Book 3 (ch 41) has it coiled round Glasswater, so it gets no fixed place here. The Antlered is too far for his glasses from Kessmoor (at 27 it was already at the edge of their reach from the Plains), so he marks his last fix. The caged Furnace can't draw (44, 50).
+- **6 (F), ch 75**, after the Bell goes down south: *\*It isn't going with him,\* said Aurveth, in his head. \*Not yet.\** **Modified:** *None of them are* is cut. At 85 Aurveth reaches the far sleepers for the first time ("further than he'd ever felt her go"), so at 75 she can speak only for the Bell, which she can see going one way while the Titan goes the other.
+- **7 (G), ch 84:72:** already done before this pass. Skipped.
+
+---
+
 *The editor's concern: the temple-and-relic journey "could feel like a sequence of similar missions; each stop should change the characters' understanding, alliances or available choices, as well as advance the Titan threat." I checked it against the 88 drafted chapters (their notes blocks and the prose), `Chapter_Plan.md` (temple table), `Magic.md` §1 and §5, and `Series_Outline.md`. The drafts are canon, so this report only makes suggestions.*
 
 ---

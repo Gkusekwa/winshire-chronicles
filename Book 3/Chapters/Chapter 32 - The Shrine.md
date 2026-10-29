@@ -27,7 +27,7 @@ notes -->
 
 They came to the last pier at dusk on the hundred-and-thirty-seventh.
 
-Ten days of it. The two boats, rowed by turns. The dragons towing on the war-harness lines, low over the water. Pier to pier. Jory ahead on Aurveth's neck, reading. Ninety-four people sunburned and salt-cracked and silent in the boats, and the water rationed, and the rain twice.
+Ten days of it. The two boats, rowed by turns. The dragons towing on the war-harness lines, low over the water. Pier to pier. Jory ahead on Aurveth's neck, reading. Ninety-four people sunburned and salt-cracked and silent in the boats, and the water rationed, and the rain twice. Calder had counted them every dusk for ten days from Kharrak's neck. Ninety-four. He counted them again now.
 
 And at the end of the tenth day, *into the light, one*.
 

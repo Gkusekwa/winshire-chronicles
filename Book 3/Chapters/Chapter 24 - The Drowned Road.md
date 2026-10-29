@@ -23,7 +23,7 @@ notes -->
 
 ---
 
-The first pier came on the ninety-seventh.
+The first pier came on the ninety-seventh. Maren saw it from the bows, with her bad arm inside her coat where Kit wouldn't see it.
 
 Out of open sea. They'd left the Shatters' reefs behind them the evening before: the last tooth of rock gone astern at sunset, the water going from white and broken to long and dark and smooth. Blue-black. Deep. Kit had sounded and found no bottom. Nobody had found a bottom out here, she said. Not even her father.
 

@@ -1,5 +1,61 @@
 # Book 3: POV Openings Review
 
+## Applied (Oct 2026)
+
+All 32 fixes below were applied to `Book 3/Chapters/`: 31 weak, 1 fail. Only the opening prose was changed. No notes blocks were touched (the Days fields flagged in pattern 6, for chs 30, 34, 44 and 46, already mark those days as "told back", so they needed nothing). Where a change falls past the first line, the old and new text quoted here is the edited passage, not the chapter's first words.
+
+| Ch | Old | New |
+|---|---|---|
+| 2 | *"You'll need more paper," she said.* [section ends] | *…she said. Calder looked at the two lines. Every night since the six went up off the moor the east had lit white at midnight over the Worldsend, and he was writing about a harvest fair.* |
+| 4 | *The reader had the silk out on Liss's table.* | *On the eighth night the reader had the silk out on Liss's table, and Maren stood at the end of it and watched his hands.* |
+| 5 | *Where he'd sat for a year.* [section ends] | *…for a year. Eight days since the six went up off the Scarfell. Below him Varrhold's riders sat at the long tables and waited to hear…* |
+| 6 | *And on the road, between the gates, people.* | *…people. Gullhaven's people. He'd come down the coast with Ulric's riders to find them somewhere that wasn't a road.* |
+| 7 | *Orrun went in first.* [section ends] | *…first. The six were down on the Plains, and the clans would be running west in front of them with their herds, toward Hearthmere and a border its council had shut. Somebody had to bring them across.* |
+| 8 | *It was all there was, and it wasn't enough.* | *…wasn't enough. The whole of Solenne's low city lived like that now, a day at a time, and the days were running out. Tobin wanted to know where the next bread would come from…* |
+| 11 | *She'd stopped counting the leagues somewhere after the thirtieth day.* | *Maren had stopped counting the leagues somewhere after the thirtieth day.* |
+| 13 | *She was afraid. She looked at it anyway.* [section ends] | *…anyway. It lay across the throat of the Merrins' channel out of Blackwater, the only one deep enough for the* Kittiwake *to get out over the Shatters…* |
+| 14 | *Below, the town.* [section ends] | *Below, the town. Maren had come to find a reef-pilot who would take a lion west over the sea, past the edge of the charts, and she had next to nothing to pay one with.* |
+| 15 | *He saw it every morning from the signal-field.* | *He saw it every morning from Corsa's signal-field.* |
+| 23 | *She'd known for forty days.* | *Rowan had known for forty days.* |
+| 24 | *The first pier came on the ninety-seventh. Out of open sea.* | *The first pier came on the ninety-seventh. Maren saw it from the bows, with her bad arm inside her coat where Kit wouldn't see it. Out of open sea.* |
+| 32 | *…silent in the boats, and the water rationed, and the rain twice.* | *…and the rain twice. Calder had counted them every dusk for ten days from Kharrak's neck. Ninety-four. He counted them again now.* |
+| 33 | *…as if she were measuring it for something, and she was.* [section ends] | *…and she was. It was the hundred-and-thirtieth day. Tobin's hands had been in the yards since the spring, building a cage of engines and chain for the Accord…* |
+| 39 | *He sat up the night of the hundred-and-forty-sixth with his back against Aurveth's side.* | *He'd stayed at the crossroads because the Wayfarer had said it had only one thing left, and he meant to be there when it gave it. He sat up the night…* |
+| 41 | *The camp was three leagues long.* / *…as far as she could see from the barn's loft.* | *By the hundred-and-forty-fifth the camp was three leagues long.* / *…as far as Rowan could see from the barn's loft.* |
+| 45 | *He'd known that the night he came down.* / *…without stopping twice.* | *He'd known that the night he came down, on the hundred-and-forty-ninth.* / *…without stopping twice. Sixty leagues south-west the Last Titan lay in the Mere, and he couldn't climb a slope.* |
+| 46 | *She saw it from the barn's roof at noon.* | *Rowan saw it from the barn's roof at noon.* |
+| 47 | *…lying with his chin on his paws, a hill.* [section ends] | *…a hill. The Lamp wanted the six held in one place, and somebody would have to hold them. Sooner or later the council would come down the bank and ask the lion.* |
+| 48 | *He'd been on nights since then.* | *Tobin had been on nights since then.* |
+| 51 | *He went in on foot.* | *Calder went in on foot.* |
+| 52 | *He'd asked for the riders on the two-hundred-and-seventh.* | *On the two-hundred-and-thirty-sixth Idony sat in his room at the camp with seven of the eight logs in front of him, and waited for the last. He'd asked for the riders…* |
+| 55 | *She'd thought it would take a week.* | *Rowan had thought it would take a week.* |
+| 59 | *She'd stopped asking Maren why, a long time ago.* [section ends] | *…a long time ago. If the line broke on the Vale, people would need somewhere to go that wasn't the Vale. Lisska had told her what the farmer had seen under Coldtarn…* |
+| 60 | *Now it was a town on the water.* | *Now it was a town on the water. Kit stood on its landing on the two-hundred-and-ninety-fifth and counted it.* |
+| 61 | *He was standing at the back.* | *Calder was standing at the back.* |
+| 62 | *He'd never seen the road-engines before.* | *Tobin had never seen the road-engines before.* |
+| 65 | *She rode the wall all day.* | *Rowan rode the wall all day.* |
+| 72 | *…Into each of them.* / *Here. I'm here. I'm here.* [section ends] | *…I'm here. The lion lay in the eddy beside the Last Titan in its chains, and the smoke had come across the water off the Flat at noon. He didn't know how long ago that was.* |
+| 79 | *She saw it by starlight.* | *Kit saw it by starlight.* |
+| 82 | *…and put them in his case in their wool.* / *Davin set them out on the floor of the hall.* | *…in their wool. That was three days gone.* / *Davin set them out on the floor of the hall under Coldtarn.* |
+| 85 | *He'd thought she might.* | *Arn had thought she might.* |
+
+**Suggestions changed, and why:**
+
+- **Ch 2:** the review's sentence had Calder thinking of Gullhaven's people on the road, but he doesn't hear that until Ulric brings the news at noon on day 4 (notes and prose), and this scene is day 3. I tied his writing to the war through what he does know on day 3: the six have gone up, and the east lights over the Worldsend every midnight. I also dropped "a long time" (a Style Guide thin-out phrase).
+- **Ch 4:** "On the eighth day" became "On the eighth night". The scene is night 8, and the next section has Orrun's body "out in the road in the dark".
+- **Ch 8:** the review's sentence said "bread for a week, the tribunes said", which comes too early: the tribunes count "A week. Less." later in the same chapter. It also called the three thousand Tobin's "hands" before Moss's contract and Sebold's joke make that word count. It also had Tobin in charge of them before he leads anyone (he isn't a tribune). The new sentence names Solenne and gives his want without taking anything from what follows.
+- **Ch 13:** the review's sentence repeated how the stone fell, which the prose explains two paragraphs later. It also said the Ostrey debt "went on growing", but it's a fixed sum that falls due on day 100. The new text keeps Blackwater, the channel and Ostrey, and uses the notes' detail that this channel is the only one deep enough for the *Kittiwake*.
+- **Ch 14:** the review's sentence said "They hadn't a copper between them", but she has three silver and eleven coppers, as the prose says a page later. It also opened "on the farmer's word", which the next section begins with. The new text gives the reason for coming (a reef-pilot to take them west, Calder's tip in ch 12), names Maren, and says "next to nothing".
+- **Ch 32:** the review placed the sentence after "silent in the boats", which is mid-sentence, so it went at the end of that sentence. I added the review's optional placing note: in ch 28 Calder rides Kharrak's neck during the tow.
+- **Ch 33:** the review's "Three months since Tobin had walked the hands up out of the low city" repeats the next section ("He'd walked them up the Sun Road…"). I gave the day count (130) instead and kept the purpose of the Bridle.
+- **Ch 45:** Calder came down at the caves on night 149, not the 150th (ch 42 notes and prose). The Mere lies south-west of Coldtarn, not south (Aurveth looks "west and south" to it in this chapter).
+- **Ch 47:** the review's sentence had the council "in the barn… choosing a Titan to kill" that morning. But Davin only calls the council at noon, and it then sits in the open on the water-meadow because Maren insists. Rowan's "Kill" is that council's reveal, so Maren can't know it at the opening. The new sentence uses what was public by then (ch 46: the Lamp needs the six held together) and gives her a stake without the reveal.
+- **Ch 52:** the review's sentence had the logs pinned to the barn wall with Idony sitting before them. The prose places that pinning in the next morning's scene, with him standing, so it would have contradicted that scene and repeated it. The new sentence anchors the present: day 236, his room at the camp, seven logs in and the fourth still to come. That matches the order the chapter tells.
+- **Ch 59:** the review's sentence had Orrun as the source of the knowledge ("Orrun said"). In fact the hall was found by Aurveth's sight and passed to Maren "in Lisska's telling" from the farmer (ch 54, and this chapter). I kept both sentences, corrected the source, and added the reason she has to go herself (only the lion opens stone). If you want the withholding kept, cut back to the first sentence.
+- **Ch 72:** the first paragraph already puts Calder "on the lion's head in the smoke", so I didn't say that again. The new sentence places the lion in the eddy beside the chained Last Titan (ch 70) and the smoke off the Flat at noon. It goes at the end of the first section rather than after the first paragraph, which would have split "He held them by talking" from "That was all he had".
+- **Ch 82:** I added "That was three days gone" as suggested (319 to 322). To avoid repeating the next section's "Davin set them out on the floor of the hall", I didn't add a second sentence. I wrote "under Coldtarn" into that existing line instead and kept "Three." as the beat.
+- **Ch 24, 39, 60:** applied as suggested. Note that ch 60's day 295 now also appears a few paragraphs later at the slate ("on the two-hundred-and-ninety-fifth"). That's consistent, but it is a repeat.
+
 Scope: all 86 chapters in `Book 3/Chapters/`. For each one I read the prose opening (the first ~250 words after the `<!-- notes -->` block) and checked whether, within the first paragraph or two, the reader learns:
 
 - **(a) Who:** whose head we are in.

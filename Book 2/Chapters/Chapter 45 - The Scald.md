@@ -235,7 +235,7 @@ Slowly. On the glass, in the middle of the basin, half a league off. Its foreleg
 
 Then it put its head down.
 
-Between its forepaws. To the glass. As it had at the Ring, on midsummer night. As it had on the Library hill at Vael.
+Between its forepaws. To the glass. As it had at the Ring, on midsummer night. As it had on the Library hill at Vael. Three months it had lain on the Ring before it put its head down. Here it had needed a month.
 
 The glass broke.
 

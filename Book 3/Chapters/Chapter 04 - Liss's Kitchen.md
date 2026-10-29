@@ -21,9 +21,9 @@ notes -->
 
 ---
 
-The reader had the silk out on Liss's table.
+On the eighth night the reader had the silk out on Liss's table, and Maren stood at the end of it and watched his hands.
 
-Spread flat, with cups on the corners and the boy from Millbrook holding the edges down. The six kingdoms small in the middle, and at the south-west edge, past the Saltreach coast, a mark, with *error* beside it in six hands. The last of them his.
+It lay spread flat, with cups on the corners and the boy from Millbrook holding the edges down. The six kingdoms small in the middle, and at the south-west edge, past the Saltreach coast, a mark, with *error* beside it in six hands. The last of them his.
 
 "I said to Davin it was like a lamp," said Idony. He looked at the mark. "It isn't."
 

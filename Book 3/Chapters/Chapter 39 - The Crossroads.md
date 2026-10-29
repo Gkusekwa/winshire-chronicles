@@ -48,7 +48,7 @@ He seemed to think that was the strangest thing in the whole world.
 
 ---
 
-He sat up the night of the hundred-and-forty-sixth with his back against Aurveth's side.
+He'd stayed at the crossroads because the Wayfarer had said it had only one thing left, and he meant to be there when it gave it. He sat up the night of the hundred-and-forty-sixth with his back against Aurveth's side.
 
 Jory asleep sitting up against a milestone. Kharrak along the western road with one eye open on the Wayfarer's light, low now in the square's middle, like a lantern left burning in a byre. He didn't like it. He'd never liked anything brighter than his own fire. Lisska on the north-east milestone with her head under her wing, not asleep. He could feel her not being asleep.
 

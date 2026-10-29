@@ -25,7 +25,7 @@ notes -->
 
 They'd moved the camp six leagues in a day.
 
-She'd thought it would take a week. It took a day. Ninety thousand people pick up a camp as water picks up a boat: all at once, and in the direction it's already going. On the two-hundred-and-forty-ninth she'd given the word at dawn, and by dusk the whole of it was strung along both banks of the Wend from the knight's new wall to the eddy, and the old camp downriver was trodden grass and ash and a great many lost boots.
+Rowan had thought it would take a week. It took a day. Ninety thousand people pick up a camp as water picks up a boat: all at once, and in the direction it's already going. On the two-hundred-and-forty-ninth she'd given the word at dawn, and by dusk the whole of it was strung along both banks of the Wend from the knight's new wall to the eddy, and the old camp downriver was trodden grass and ash and a great many lost boots.
 
 Davin had counted the boots. She'd told him not to.
 

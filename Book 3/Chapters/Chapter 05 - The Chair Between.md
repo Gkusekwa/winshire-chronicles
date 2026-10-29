@@ -34,6 +34,8 @@ It stood at the top of the hall, on the dais, in the gap between the two high ta
 
 He sat on the bench beside it. Where he always sat. Where he'd sat for a year.
 
+Eight days since the six went up off the Scarfell. Below him Varrhold's riders sat at the long tables and waited to hear what the farmer had said about the Clan's dragons.
+
 ---
 
 The two high tables stood side by side on the dais, and the benches of the hold ran down the hall below them to the door.

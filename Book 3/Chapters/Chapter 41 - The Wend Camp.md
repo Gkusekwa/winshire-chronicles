@@ -22,9 +22,9 @@ notes -->
 
 ---
 
-The camp was three leagues long.
+By the hundred-and-forty-fifth the camp was three leagues long.
 
-On the Saltreach bank of the Wend. Between the river and the Way, in the Marches below Greyhold's fallen hill. Tents. Carts in lines. Pens of stonehorns and horses and cattle. Fires, a thousand of them at night, going away up the river-bank and down it as far as she could see from the barn's loft.
+On the Saltreach bank of the Wend. Between the river and the Way, in the Marches below Greyhold's fallen hill. Tents. Carts in lines. Pens of stonehorns and horses and cattle. Fires, a thousand of them at night, going away up the river-bank and down it as far as Rowan could see from the barn's loft.
 
 Smoke all day.
 

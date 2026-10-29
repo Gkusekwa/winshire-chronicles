@@ -27,7 +27,7 @@ Tobin watched them do it on the fifteenth morning, as he watched them every morn
 
 At noon they'd stop at the fish-market, and the tribunes would give them bread.
 
-A loaf each. The size of a cartwheel. It was all there was, and it wasn't enough.
+A loaf each. The size of a cartwheel. It was all there was, and it wasn't enough. The whole of Solenne's low city lived like that now, a day at a time, and the days were running out. Tobin wanted to know where the next bread would come from, and nobody could tell him.
 
 ---
 

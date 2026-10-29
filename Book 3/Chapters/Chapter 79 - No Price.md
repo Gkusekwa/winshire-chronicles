@@ -32,7 +32,7 @@ And past the top field.
 
 ---
 
-She saw it by starlight. From the road. A field, on the slope below the wood, with something wrong about its walls. They were low. Shining. Black and wet-looking, like glass. And the snow gone off the whole slope round it, and the ground steaming.
+Kit saw it by starlight. From the road. A field, on the slope below the wood, with something wrong about its walls. They were low. Shining. Black and wet-looking, like glass. And the snow gone off the whole slope round it, and the ground steaming.
 
 And across the field, across the road below, a shape.
 

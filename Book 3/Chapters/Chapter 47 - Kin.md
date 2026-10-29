@@ -43,6 +43,8 @@ A knight in a mended coat with one arm hanging dead inside it. A grey neck. Grey
 
 And behind her, on the water-meadow, lying with his chin on his paws, a hill.
 
+The Lamp wanted the six held in one place, and somebody would have to hold them. Sooner or later the council would come down the bank and ask the lion.
+
 ---
 
 And the cold.

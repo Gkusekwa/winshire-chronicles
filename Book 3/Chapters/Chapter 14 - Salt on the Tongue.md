@@ -28,6 +28,8 @@ The whole of it. At once. She felt it see him. They came down the cliff path in 
 
 Below, the town.
 
+Maren had come to find a reef-pilot who would take a lion west over the sea, past the edge of the charts, and she had next to nothing to pay one with.
+
 ---
 
 She'd heard about Blackwater from the farmer.

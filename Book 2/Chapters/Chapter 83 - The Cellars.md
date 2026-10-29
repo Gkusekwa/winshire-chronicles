@@ -288,7 +288,11 @@ Holding it still.
 
 Maren was beside him.
 
-He felt her hand on his back. Flat. Between his shoulder-blades. She couldn't help him. She knew she couldn't. She wasn't here. She was up there, in the rock, in four lions.
+He felt her hand on his back. Flat. Between his shoulder-blades. She couldn't help him. She knew she couldn't.
+
+"I've nothing to say a word with," she said. "It's all in them."
+
+She wasn't here. She was up there, in the rock, in four lions.
 
 She put her hand on his back anyway.
 

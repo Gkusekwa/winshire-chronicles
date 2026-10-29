@@ -44,6 +44,8 @@ Wren thought about this.
 
 "You'll need more paper," she said.
 
+Calder looked at the two lines. Every night since the six went up off the moor the east had lit white at midnight over the Worldsend, and he was writing about a harvest fair.
+
 ---
 
 The hatching caves had never been meant for people.

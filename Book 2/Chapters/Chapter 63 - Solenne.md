@@ -421,6 +421,8 @@ She knelt by him.
 
 "No," said Orrun. "You had nothing. I had it all."
 
+She kept that. When he made more of himself, all of her went into him, and there was nothing left over to say a word with.
+
 ---
 
 They went over to Sorrel Isle at dusk.

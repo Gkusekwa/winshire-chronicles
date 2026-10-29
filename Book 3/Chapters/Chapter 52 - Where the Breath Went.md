@@ -23,6 +23,8 @@ notes -->
 
 ---
 
+On the two-hundred-and-thirty-sixth Idony sat in his room at the camp with seven of the eight logs in front of him, and waited for the last.
+
 He'd asked for the riders on the two-hundred-and-seventh.
 
 The day before the clans marched. He'd gone to the barn in his blanket, with Davin, and asked the Marshal for eight of her knights for twenty days, and eight horses, and one thing each to carry.

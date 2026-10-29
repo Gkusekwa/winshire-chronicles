@@ -309,6 +309,8 @@ Circling. Out there over the Western Deep. Slowly. Patiently.
 
 As if it were waiting for something to grow in it.
 
+He marked the others too. The Coil's cold, east, back the way they'd come, faint, a long way off. The Furnace wasn't a draw at all now; it was in a box, and his glasses found nothing of it past the field. The Antlered he couldn't reach from here, so he put it where he'd last had it from the Plains' edge in the summer, going east toward the Worldsend, with a question mark beside it. Three loose, if a thing in a cage was loose. None of them going where the Titan went.
+
 He looked at the ring of dots for a long time on the two-hundred-and-sixtieth night. Then he looked at what he'd written in the margin beside it two nights before, very small. *A far shore. A mountain walking.*
 
 He didn't draw a line between them. He wanted to. He didn't.

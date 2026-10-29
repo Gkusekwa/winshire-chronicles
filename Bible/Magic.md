@@ -1,6 +1,6 @@
 # Magic
 
-How magic works in Winshire, where it comes from, how people use it and fight with it, and what it costs. Written after Book 1 was drafted, to carry the series from Book 2 on. Everything below is *(proposal)* unless marked *(canon)*: where it rests on something already established in `World.md`, `Story.md`, `Series_Outline.md` or the Book 1 drafts, that's noted. Proposals taken from the Book 2 and Book 3 plans (`Book 2/Chapter_Plan.md`, `Book 3/Chapter_Plan.md`, both drafted, review settled) say so; where those plans' review questions were approved, the proposal is now canon.
+How magic works in Winshire, where it comes from, how people use it and fight with it, and what it costs. Written after Book 1 was drafted, to carry the series from Book 2 on. Everything below is canon: what the author first approved is marked *(canon)*, and the rest, first written as proposals, is settled as drafted (Oct 2026). Where a draft differs from this file, the draft wins.  where it rests on something already established in `World.md`, `Story.md`, `Series_Outline.md` or the Book 1 drafts, that's noted. Proposals taken from the Book 2 and Book 3 plans (`Book 2/Chapter_Plan.md`, `Book 3/Chapter_Plan.md`, both drafted, review settled) say so; where those plans' review questions were approved, the proposal is now canon.
 
 The governing idea in one line: **all magic in Winshire is borrowed from the Titans, and everyone has forgotten who they're borrowing from.**
 
@@ -27,7 +27,7 @@ The governing idea in one line: **all magic in Winshire is borrowed from the Tit
 
 **Why Hearthmere was rich.** Hearthmere didn't live on the slow breath of a sleeper like everyone else. It woke its Titan and **chained it**, and a chained, waking Titan doesn't breathe the Deep: it **bleeds** it *(canon: "We've been bleeding something for three hundred years," Hale, Ch 49; Hearthmere's magic is the chained Titan's harnessed power)*. That's why Hearthmere had lamps without oil in every street and the crown licensed every word. The supply was huge and secret, and the licence kept anyone from asking why. When the Titan flew, the bleed stopped, and Hearthmere's magic failed at once *(canon, Ch 79)*. Hearthmere now has *less* than its neighbours. A Titan's own former ground is close to dead for a lifetime.
 
-**What a waking does (the Book 2 engine)** *(proposal; stages fixed Oct 2026)*:
+**What a waking does (the Book 2 engine)** *(as drafted; stages fixed Oct 2026)*:
 0. **The stir.** While the Last Titan sits on a temple and draws on it, before any relic is taken, the local Deep tugs and quickens: tide-glasses climb, charms take a little too hard, beasts turn toward the temple, ground near it goes thin. These are the signs the researcher learns to read, and how he predicts a relic's taking.
 1. **The surge.** When a sleep relic is taken and its Titan wakes, the local Deep floods for days or weeks. Magic in that kingdom goes wild: charms work too well and won't stop, lamps burn white, licensed workers burn out, beasts go mad, the ground heaves.
 2. **The drain.** When the waking Titan rises and leaves, it takes its breath with it. The kingdom's magic fails, as Hearthmere's did.
@@ -59,7 +59,7 @@ Workings written into a material: carved in stone, struck into iron, inked into 
 - **They need no words or runes.** They work through the bond, by feeling and will, the way you move your own hand.
 - **They grow with the bond and the beast.** As Orrun grows toward dragon size, the gift grows *(canon: the lion's power grows with its size)*.
 - **They cost the beast first.** Overuse tires the beast, and through the shared life, the person.
-- **Why bond gifts are "wild" to Isvaren.** They can't be written down or taught, so the colleges rank them below learned magic *(canon proposal in World.md)*. The researcher will come to suspect the opposite: bond gifts are closer to the source than anything the colleges teach.
+- **Why bond gifts are "wild" to Isvaren.** They can't be written down or taught, so the colleges rank them below learned magic *(canon in World.md)*. The researcher will come to suspect the opposite: bond gifts are closer to the source than anything the colleges teach.
 
 ### Old magic
 **Old magic** *(canon: the elder Titans put the sleepers to sleep with old magic, bound into the temples and relics)* is not a discipline. It is what the elder Titans did themselves, with nothing between them and the Deep. People can't do it. They can only find its leftovers (temples, relics, the stone of the old realm) and copy its forms. The hooked script is one such form: a beast's language taught to people, which people kept after they forgot whom they'd learned it from. Copying a form isn't working old magic. A copied stroke is a rune like any other: it's fed by the Deep, and it fails on dead ground. Only what the elders made themselves (the temples, the relics, the lock under Greyhold) is old magic.
@@ -159,7 +159,7 @@ Isvaren's **rings** are the only scale the whole of Winshire recognises; other k
 | Sixth | **Keeper of the Script** | The whole hooked script; can read the oldest stone and make workings that last centuries. The chains under Hearthmere were Sixth-ring work. | No equivalent | Two or three living, all in Isvaren |
 | Seventh | **The Unbound** | Old magic: working the Deep with nothing between. | The elder Titans. No person has ever worn a seventh notch. | None |
 
-*(Settled, Oct 2026: the name belongs to the seventh ring. Book 1's working title is now* The Watch Below.*)*
+*(Settled, Oct 2026: the name belongs to the seventh ring. Book 1's title is* The Watch Below.*)*
 
 A ring is earned by examination before a college council and can be broken (taken away) for crimes. Idony Vael wore a Second ring until his was broken (Book 2 ch 40), and reads like a Sixth.
 
@@ -189,7 +189,7 @@ An imbued object is a material with runes in it that hold a working.
 *(Book 1 canon: six chains, links taller than a man, between anchor-stones at each end of the cavern; two locks, carved stone discs with iron bosses, under the school and under the Old Ruin; turned in the same breath at midnight, they opened the seal. The oath said at noon facing the inner wall was "a hand on the chain.")*
 
 What they actually were:
-- **The chains** were forged by Hearthmere's first knights about three hundred years ago with craft bought from an Isvaren college *(proposal from `Book 2/Chapter_Plan.md`)*. Every link carries hooked runes struck on the inside of the curve, where the Titan would never see them and nobody would think to look. The runes say one thing over and over: *hold.*
+- **The chains** were forged by Hearthmere's first knights about three hundred years ago with craft bought from an Isvaren college *(as drafted, from `Book 2/Chapter_Plan.md`)*. Every link carries hooked runes struck on the inside of the curve, where the Titan would never see them and nobody would think to look. The runes say one thing over and over: *hold.*
 - **The chains fed on what they held.** The harder the Titan pulled, the more of its own bleed ran into the runes, and the stronger the chains held. It was a cage that grew stronger the more it was fought. This is why the Titan lay still for three hundred years, and why the chains began to fail only when the bleed and the oath both faltered at once.
 - **The anchor-stones** were old-realm stone, the same as the inner wall, set in the cavern walls at each end, with iron eyes. When the Deep in them was drained by the bleed going upward to the lamps, they grew brittle. Hearthmere's lamps were weakening Hearthmere's chains for three hundred years, and nobody knew.
 - **The oath** was the living part of the seal: a many-voiced charm said daily at noon, facing the wall over the way down. *Keep the watch below* fed the runes. *And do not ask* was there to keep the voices from doubting, because doubt weakens a many-voiced charm. When the Restoration's paper set the whole kingdom asking, the oath weakened, the chains slackened, and the lamps flickered *(canon: Ch 45–49)*. The oath's words were taken from the arch, where they had been the old ones' charge to the lion *(canon: Ch 70)*: the first knights turned a guardian's charge into a jailer's charm.
@@ -200,8 +200,8 @@ What they actually were:
 *(canon: old magic, made by the elder Titans; five sleep relics, one in each remaining temple, each holding one sleeper's sleep; a control relic in Hearthmere's deepest vault; Hearthmere broke the Last Titan's sleep relic to wake and chain it.)*
 - **They aren't imbued objects.** No runes, no quenching. People can't make them, read them, or unmake them. They can only move or break them.
 - **What a sleep relic is, as the researcher understands it:** a sleeper's sleep, kept outside its body, the way you'd keep a candle-flame in a lantern. Take the relic from its temple and the flame goes out; the sleeper wakes.
-- **What they look like:** alike in form, hollow eggs of grey old-realm stone, warm, each carved with its own sleeper *(proposal, `Book 2/Chapter_Plan.md`)*.
-- **What the control relic is** *(proposal, from `Book 2/Chapter_Plan.md`):* a stone ring with six hollows. The Restoration's ring of six was copied from it, long ago, by somebody who saw it and didn't understand.
+- **What they look like:** alike in form, hollow eggs of grey old-realm stone, warm, each carved with its own sleeper *(as drafted, `Book 2/Chapter_Plan.md`)*.
+- **What the control relic is** *(as drafted, from `Book 2/Chapter_Plan.md`):* a stone ring with six hollows. The Restoration's ring of six was copied from it, long ago, by somebody who saw it and didn't understand.
 
 ---
 
@@ -223,9 +223,9 @@ Sarovel's royal "bonds" with unicorns are bindings done with court ceremony *(ca
 ## 7. Kessmoor: engines
 
 *(canon: Kessmoor has banned magic and explores arcane-like technology.)*
-- **The ban** *(Atlas canon: the town of Orrin, now the Scald; engineers drilling for ore broke into the outer chambers of the temple under it)*. Within living memory *(proposal: forty years ago)* Kessmoor's engineers at **Orrin**, near the Hearthmere border, sank shafts deeper than anyone had dug, for ore and to draw the Deep in bulk for the forges. They broke into the outer chambers of the temple under the town. The sleeper's breath, held there for an age, came up the shafts all at once. In one night the ground of Orrin fused to glass, and those who lived went mad within the week. Kessmoor calls what came up **the Bleed**, calls the place **the Scald**, keeps a cordon round it, and has banned spoken magic ever since. It has never understood what its engineers found.
-- **The workaround.** Kessmoor still uses runes. It just calls them engineering. Its **runic engines** are imbued machines whose runes are fed not by the Deep but by **heartstones**: beast-matter (dragon plate, scale, horn, the crystallised heart of certain beasts) that holds a store of power and can be spent like coal. So Kessmoor doesn't draw the Deep; it burns beasts. *(Ties to canon proposal: its technology depends on materials harvested from beasts.)*
-- **Why that matters in Book 2:** Kessmoor's cage for its Titan *(Book 2 plan proposal: the only capture that holds)* is a heartstone engine of runes, fed by the deaths of hundreds of beasts. It works because it never touches the Deep the Titan breathes. It's monstrous, and it works, and every kingdom learns the wrong lesson from it.
+- **The ban** *(Atlas canon: the town of Orrin, now the Scald; engineers drilling for ore broke into the outer chambers of the temple under it)*. Within living memory *(as drafted: forty years ago)* Kessmoor's engineers at **Orrin**, near the Hearthmere border, sank shafts deeper than anyone had dug, for ore and to draw the Deep in bulk for the forges. They broke into the outer chambers of the temple under the town. The sleeper's breath, held there for an age, came up the shafts all at once. In one night the ground of Orrin fused to glass, and those who lived went mad within the week. Kessmoor calls what came up **the Bleed**, calls the place **the Scald**, keeps a cordon round it, and has banned spoken magic ever since. It has never understood what its engineers found.
+- **The workaround.** Kessmoor still uses runes. It just calls them engineering. Its **runic engines** are imbued machines whose runes are fed not by the Deep but by **heartstones**: beast-matter (dragon plate, scale, horn, the crystallised heart of certain beasts) that holds a store of power and can be spent like coal. So Kessmoor doesn't draw the Deep; it burns beasts. *(Ties to canon: its technology depends on materials harvested from beasts.)*
+- **Why that matters in Book 2:** Kessmoor's cage for its Titan *(Book 2 plan, as drafted: the only capture that holds)* is a heartstone engine of runes, fed by the deaths of hundreds of beasts. It works because it never touches the Deep the Titan breathes. It's monstrous, and it works, and every kingdom learns the wrong lesson from it.
 
 ---
 
@@ -243,7 +243,7 @@ The rule for writing battles: **magic tips fights; steel and beasts win them.** 
 | **Battle-words** | Charms said in a fight: a word to blind, a word to stop bleeding, a word to make a horse stand, a word of silence that stops another charm in the speaker's mouth. | One breath, short range, small effect. Licensed in Hearthmere *(canon: Pell's licensed horse-standing word, Ch 9; the gate knights' staunching-word, Ch 33)*. |
 | **Many-voice workings** | A company chanting the same words at once: a ward over a whole wall, a fog over a river, the noon oath. | Need discipline, time, and voices that believe. Break when the voices doubt. |
 | **Bindings** | Bound beasts in battle: silent, fearless, feel no pain, one handler drives a pack *(canon)*. | Kill the handler and the pack is free; drive him off and it stands slack. |
-| **Bond gifts** | Dragonfire, the dragon-bonded standing in smoke; Orrun's earthwork (the ground heaving, stone opening, stakes pulled out of the earth) *(canon)*. Growing in Book 2 toward Orrun's many lions of stone *(Book 2 plan proposal)*. | Cost the beast and, through the shared life, the person. |
+| **Bond gifts** | Dragonfire, the dragon-bonded standing in smoke; Orrun's earthwork (the ground heaving, stone opening, stakes pulled out of the earth) *(canon)*. Growing in Book 2 toward Orrun's many lions of stone *(Book 2 plan, as drafted)*. | Cost the beast and, through the shared life, the person. |
 | **Engines** | Kessmoor's: marked crossbows that throw farther, armour that hardens on impact, the cage. | Burn heartstones fast. Fail when the heartstones run out. |
 
 **Counters every soldier knows:**
@@ -265,7 +265,7 @@ The rule for writing battles: **magic tips fights; steel and beasts win them.** 
 | **The one realm** | People live among the beasts. The old ones teach them the hooked script, a beasts' language set down in runes. The Oneroad is built in old-realm stone along the lines where the Deep runs. Bridges, forts, milestones. Lions on tower steps that people bow to *(canon: Aurveth's memory)*. | The one realm as a golden age; the Restoration's whole creed. |
 | **The collapse** | The Titans rise and nearly destroy the realm *(canon)*. The elder Titans put the destroyers to sleep with old magic, each under a temple, with a sleep relic holding each sleep, and make the control relic as a safeguard *(canon)*. Their own kin are left to keep the doors *(canon: the lion at the arch)*. The old ones go "into the light" *(canon: verse)*. | Garbled into the lullaby: "Before the six, there was one." |
 | **The six kingdoms** | The realm splits into six, each over a sleeper without knowing it *(canon)*. Magic is the slow breath of the sleepers. Schools rise; each kingdom writes its own rules. The script is mostly forgotten outside Isvaren. | Each kingdom's founding story. None mentions what's underneath. |
-| **The chaining (~300 years ago)** | Hearthmere's first knights find their sleeper, break its sleep relic, wake it, and chain it before it understands *(canon)*, with chain-craft bought from an Isvaren college *(proposal)*. They take the arch's words for their oath. The bleed begins; Hearthmere grows rich in magic. The first archivist cuts the pages about the closing *(Hale's belief, Ch 49)*. | "The gods' gift to the crown." |
+| **The chaining (~300 years ago)** | Hearthmere's first knights find their sleeper, break its sleep relic, wake it, and chain it before it understands *(canon)*, with chain-craft bought from an Isvaren college *(as drafted)*. They take the arch's words for their oath. The bleed begins; Hearthmere grows rich in magic. The first archivist cuts the pages about the closing *(Hale's belief, Ch 49)*. | "The gods' gift to the crown." |
 | **Orrin (~40 years ago)** | Kessmoor's engineers break into the temple under Orrin; the town becomes the Scald; the ban; engines. | Kessmoor's whole modern identity. |
 | **Book 1** | The oath weakens, the chains slacken, the seal is opened by two hands, the Titan flies, Hearthmere's magic dies. | Happening now. |
 
@@ -309,7 +309,7 @@ The rule for writing battles: **magic tips fights; steel and beasts win them.** 
 - He's the one who can explain the magic: the Deep, the toll, the surge and the drain, the runes on the chain-ends, why Hearthmere's lamps went out. The reader learns the system through his curiosity, not through lectures.
 - He reads the hooked script, which neither protagonist can do well. He can read the temples, the relics' resting places, and the runes on the broken chains.
 - He learns to predict wakings from the surges and drains in his tide-charts. That's a second, independent way to see the pattern the protagonists find through the Oneroad.
-- He finds out his own college sold Hearthmere the chain-craft *(Book 2 plan proposal)*, and that its seniors want to sell it again, to any kingdom that can pay, to cage the waking Titans.
+- He finds out his own college sold Hearthmere the chain-craft *(Book 2 plan, as drafted)*, and that its seniors want to sell it again, to any kingdom that can pay, to cage the waking Titans.
 - He's unbonded in a series about bonds, the way Maren started out unchosen. His arc runs from knowledge for its own sake to knowledge as responsibility. In Book 3 he could be the one who understands the old magic well enough to deal with the elder Titans.
 
 **Voice:** close third like the others, but his chapters think in measurements, quotations and footnotes he doesn't write down. He notices numbers the way Calder notices beasts and Maren notices people.

@@ -1,6 +1,6 @@
 # Winshire: Atlas
 
-*A gazetteer of the world, built with the maps in `Book 1/Art/Maps/`. Everything here is a **working proposal** unless the bible marks it established; established points are noted. The maps and this file are generated from one data file, so they always agree.*
+*A gazetteer of the world, built with the maps in `Book 1/Art/Maps/`. Established points are noted; everything else here is settled as drafted (Oct 2026), and where a draft differs, the draft wins. The maps and this file are generated from one data file, so they always agree.*
 
 ## Scale and travel
 
@@ -162,7 +162,7 @@
 
 ## The Marches in detail
 
-*Established: the border region is the Marches; a river marks the border; the Old Ruin stands on an island in it; Greyhold is on the Hearthmere bank and Calder's farm and the Clan's lands on the Saltreach side. The river's name, the Wend, and the layout below are proposals.*
+*Established: the border region is the Marches; a river marks the border; the Old Ruin stands on an island in it; Greyhold is on the Hearthmere bank and Calder's farm and the Clan's lands on the Saltreach side. The river's name, the Wend, and the layout below are settled as drafted (Oct 2026).*
 
 - **The Scarfell** (landmark). Bare, high moorland and broken crags north and east of the Marches: heather, scree and wind. Dragon country. Sheep, if you're brave.
 - **Northwatch** (tower). A patrol tower on the River Road, manned by the river watch. Signal fires on the roof. Maren served here.
@@ -185,7 +185,7 @@
 
 ## How the map grows through Book 1
 
-*The book opens on bare maps (`front_matter/`). Each chapter closes with the Marches map as it stands after that chapter (`progress/`): everything that has appeared so far, with what is new in that chapter ringed. Events are labelled in their own chapter, then keep only their mark. Placements of plot events are working proposals tied to `Book 1/Chapter_Plan.md`; when a drafted chapter moves something, update `Tools/atlas/marches_items.py` and rebuild.*
+*The book opens on bare maps (`front_matter/`). Each chapter closes with the Marches map as it stands after that chapter (`progress/`): everything that has appeared so far, with what is new in that chapter ringed. Events are labelled in their own chapter, then keep only their mark. Placements of plot events follow the drafts; when a drafted chapter moves something, update `Tools/atlas/marches_items.py` and rebuild.*
 
 - **Chapter 1, The Unchosen Yard:** Greyhold; The Old Ruin; Millbrook; Ashdown Ferry; Clan dragons, flying south; Fires on the far bank; to Ashford, 18 leagues.
 - **Chapter 2, Across the River:** Harrow's End; Fenn farm; Hollow Beck; Upper Rush; Varrhold; Cotter's Cross; Harrow mill; Crossroads shrine; Eel weirs; Pyre smoke over Varrhold; Upper Rush, burned; The Eelweir.
@@ -267,7 +267,7 @@
 
 ## Author's eyes only: temples and the catacombs
 
-*Spoilers for Books 1 and 2. These never appear on a reader's map. Established: six temples, one per kingdom; Hearthmere's lies beyond the chains in the catacombs and is the one temple that held two relics (its sleeper's sleep relic, broken when the Titan was chained, and the control relic in the deepest vault); each kingdom was founded, unknowing, over a sleeping Titan. Exact sites are proposals.*
+*Spoilers for Books 1 and 2. These never appear on a reader's map. Established: six temples, one per kingdom; Hearthmere's lies beyond the chains in the catacombs and is the one temple that held two relics (its sleeper's sleep relic, broken when the Titan was chained, and the control relic in the deepest vault); each kingdom was founded, unknowing, over a sleeping Titan. Exact sites are settled as drafted (Oct 2026).*
 
 - **Temple of the Scald** (Kessmoor). A temple deep under the Scald, holding one of the five sleep relics. Orrin's disaster began when Kessmoor engineers drilling for ore broke into its outer chambers. Kessmoor does not know what it found. (Book 2)
 - **The Sun Stair** (Sarovel). Beneath the Bond-King's palace, below the sea stair, a temple holds a sleep relic. Sarovel's crowned line has worshipped there for centuries as a shrine of the gods and never guessed what it keeps. (Book 2)

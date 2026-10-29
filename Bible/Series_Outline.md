@@ -1,6 +1,8 @@
 # Winshire — Series Outline
 
-*The Winshire story is told first as a three-book series; any games are adapted later. Established points are stated directly; everything marked "working proposal" can change.*
+*The Winshire story is told first as a three-book series; any games are adapted later. Established points are stated directly.*
+
+**Settled (Oct 2026):** the author has accepted the drafts of all three books as written. Everything here that the drafts follow is settled, including what was first marked as a working proposal; where a draft differs from this file, the draft wins. Only the ideas for the next series, the games and the publishing choices stay open.
 
 ## Settled by the author (after Book 1)
 
@@ -11,7 +13,7 @@
 - **Their magic:** none in Book 1 beyond bond gifts (Maren and Calder don't cast in Book 1); limited casting begins in Book 2; in Book 3 they can use magic, but not as trained workers. See `Magic.md` §10a.
 - **The Deep:** all magic in Winshire is the breath of the sleeping Titans (the Deep), worked through six disciplines; bond gifts and old magic are not disciplines. See `Magic.md`.
 - **The researcher:** from Book 2 the series adds a third POV, a magic researcher: **Idony Vael**, a man, a tide-reader of the College of Tides at Vael in Isvaren. He **survives to the end of the series**. See `Magic.md` §11. Book 2 has three POVs: S Maren, F Calder, R Idony.
-- **More POVs in Book 3:** some of the warriors, leaders and generals met in Book 1 will have point-of-view chapters in Book 3. Books 1–2 should keep the likely candidates alive and give them room to grow. *(Candidates, proposal: Arn Varr, Ulric Varr, Rowan, Gunna Tarne, Callis, Corvin Vale, Tobin, Tam, and the Clan's bonded riders; Idony Vael continues as a POV. Book 3 as drafted has seven POVs: S Maren, F Calder, R Idony, G Rowan, C Arn, U Tobin, and M Kit Merrin, a new Blackwater reef-pilot whose family carries Maren and Calder over the sea.)*
+- **More POVs in Book 3:** some of the warriors, leaders and generals met in Book 1 will have point-of-view chapters in Book 3. Books 1–2 should keep the likely candidates alive and give them room to grow. *(Settled as drafted: Book 3 has seven POVs: S Maren, F Calder, R Idony, G Rowan, C Arn, U Tobin, and M Kit Merrin, a new Blackwater reef-pilot whose family carries Maren and Calder over the sea.)*
 - **Orrun multiplies:** glimpses in Book 1, then one duplicate at a time; three or four by the end of Book 2, each as strong as he is. See `Bestiary.md`.
 - **Beyond the sea** *(established during the Chapters 41–60 drafting)*: in Book 3 the protagonists go to find the other Titans in **the land beyond the sea**. *(Settled as drafted, Oct 2026; details in `Book 3/Chapter_Plan.md`, **The land beyond the sea**.)* It lies across **the Shattered Sea**, reached by the drowned road's milestones from Saltreach's coast south-west over the Shatters (the Western Deep is Kessmoor's longer way round). Saltreach sailors call it **the Lit Shore**; the light-script calls it *where the light is kept*. **No people live there, and none have for an age**: a city of old-realm stone half under white sand, beasts that have never seen a person, and the Deep rising in the open air as light, where the elders are. People who sleep ashore don't wake, so it can't be a refuge. Maren and Calder go by separate roads and meet there once, out of necessity (Book 3 ch. 34–35); two elders give their power there. The Book 1 rule still holds: no one in the six kingdoms knows other Titans exist, so the land beyond the sea is at most a sailors' rumour in Books 1–2.
 - **Book 3 explores Saltreach, "the lawless empire":** how it works, its trade, its powers. It is where Maren and Calder meet the new people who take them to the land beyond the sea.
@@ -33,14 +35,14 @@
 - **The protagonists survive.** By the end of Book 3, the student and the farmer are more or less Titans themselves. In the next series they become the **Council of Immortals.**
 - **Hint, then reveal.** Book 3's ending doesn't show every fall; it leaves the reader certain the old world is gone. The next series reveals that **some Titans survived.**
 
-**The shape of the series** *(working proposal)*: each book raises the scale. Book 1 is a war among people over one imprisoned beast. Book 2 is a war among kingdoms over many beasts. Book 3 is a war between the world and its Titans, and the world loses. Through all three, the protagonists stay protectors first: their measure is how many people they save, not how much power they hold. In a story that ends in destruction, that measure is what's left: the lives they saved, and the choices they made.
+**The shape of the series** *(as drafted)*: each book raises the scale. Book 1 is a war among people over one imprisoned beast. Book 2 is a war among kingdoms over many beasts. Book 3 is a war between the world and its Titans, and the world loses. Through all three, the protagonists stay protectors first: their measure is how many people they save, not how much power they hold. In a story that ends in destruction, that measure is what's left: the lives they saved, and the choices they made.
 
 **Format:** Book 1 alternates strictly between the student and the farmer (79 chapters, about 311,000 words in first draft). From Book 2 a third POV, Idony Vael, slots between them (`Book 2/Chapter_Plan.md`: S Maren, F Calder, R Idony). In Book 3 some Book 1 warriors and leaders add POV chapters; Book 3 has seven POVs in all (S, F, R, plus G Rowan, C Arn, U Tobin and M Kit Merrin, a new Blackwater reef-pilot whose family carries Maren and Calder over the sea; `Book 3/Chapter_Plan.md`). No upper word limit; each book is one ebook volume, never split.
 
-**Working titles** *(proposals, to choose later)*:
+**Titles** *(settled by the author, Oct 2026)*:
 - Book 1: *The Watch Below* (from the oath's "the watch below"; chosen Oct 2026). *The Unbound* is retired as Book 1's title: the name belongs to the seventh ring, the elder Titans, "where the old ones walked unbound" (`Magic.md` §4b).
 - Book 2: *The Hunt Beneath* (*The Six Who Sleep* is retired: it gives away the sleepers)
-- Book 3: *The Titan War* (the Book 3 plan also offers *Into the Light* and *The Last Watch*)
+- Book 3: *The Titan War* (*Into the Light* and *The Last Watch* are retired)
 - Series: *Winshire*
 
 ---
@@ -70,15 +72,15 @@
 5. **The student and the farmer meet** for the first time, underground in the shaking catacombs, which run beneath the border from the school's lock to the Old Ruin's lock.
 6. **The Titan tears free of its chains and flies, and the book ends** with the student and the farmer watching it go.
 
-**Notes on the ending** (established items marked; the rest are working proposals):
+**Notes on the ending** (established items marked; the rest as drafted):
 - *The bond:* the lion's bond with the student forms during the war, through a real sacrifice. It is the climax of the student's arc in Book 1.
 - *The seal* *(established)*: the catacomb seal needs **two locks opened in two places at the same moment**, which is why only twins could do it. Opening the seal and the Titan breaking its chains are two separate beats, with the protagonists' meeting between them. **Each protagonist fights at a different lock,** one twin each. They have never met, but Calder's warning reaches Maren before her fight *(established: the cut chain, a strip of cloth with "TWO" burned into it, and Wren's ribbon, carried by Lisska)*. Two locks, two twins, two protagonists: the final battle is fought on two fronts at once.
 - *How the first twin dies* *(established)*: he is **killed fighting a protagonist, just as his lock gives way,** while **his brother, Corvin, turns the other lock under the Old Ruin at the same moment.** The lock still breaks as he dies, which is why the seal can still open. The surviving twin now has a personal reason to hate the protagonists.
 - *The student kills him* *(established)*. The student fights at the lock nearest the lion's kin, and it is the student's hand that kills the first twin: **Maren kills Cassian Vale**, the public face of the Restoration. **Corvin Vale**, the hidden strategist, opens the Old Ruin's lock against Calder and survives. In that moment **the lion learns that its kin is now a world destroyer.** **The Titan was not always a destroyer: ages in chains made it one.** For the lion, the discovery is grief as much as horror. It came to Hearthmere for its kin and finds what its kin has become. The farmer, meanwhile, fights at the other lock against Corvin, his hand on Corvin's wrist as it turns, and can't stop it opening.
-- *The meeting:* the two protagonists, having fought apart, find each other underground in the catacombs, each with their beast, each the stranger the other has only heard rumors of. *(Working proposal:)* they meet as wary strangers who already owe each other: his warning, her name in the ferrywoman's story.
+- *The meeting:* the two protagonists, having fought apart, find each other underground in the catacombs, each with their beast, each the stranger the other has only heard rumors of. *(As drafted:)* they meet as wary strangers who already owe each other: his warning, her name in the ferrywoman's story.
 - *The last image:* the Titan breaks free and **flies**. **The Restoration opened the seal to capture the Titan and bind it to its cause, and loses control of it:** the Titan escapes them and everyone else. The last image of Book 1 is the two protagonists, together for the first time, watching it go. As it leaves, Hearthmere's magic, failing since midwinter, goes out for good, because the kingdom's magic was the chained Titan's harnessed power.
 
-**"The Last Titan"** *(established)*: throughout Book 1, this Titan is known as **the Last Titan**. **To ordinary people it is only a legend:** folk tales speak of the Last Titan sleeping somewhere, and most people think it's myth. Only Hearthmere's rulers and the knightly orders' inner circle know it is real, chained beneath Hearthmere, and powering the kingdom's magic. *(Working proposal: the tales call it the last because people believe it's the last of its kind. Book 2 breaks that belief: it isn't the last, and it is going to free five more. The name becomes the series' first great irony.)*
+**"The Last Titan"** *(established)*: throughout Book 1, this Titan is known as **the Last Titan**. **To ordinary people it is only a legend:** folk tales speak of the Last Titan sleeping somewhere, and most people think it's myth. Only Hearthmere's rulers and the knightly orders' inner circle know it is real, chained beneath Hearthmere, and powering the kingdom's magic. *(As drafted: the tales call it the last because people believe it's the last of its kind. Book 2 breaks that belief: it isn't the last, and it is going to free five more. The name becomes the series' first great irony.)*
 
 ---
 
@@ -92,7 +94,7 @@
 
 **Established:** from Book 2 on, the other kingdoms are introduced while Hearthmere and Saltreach keep growing. Events unfold in parallel in both kingdoms and intertwine, with effects on the overall story.
 
-*Working proposals:*
+*As drafted:*
 - **Two home kingdoms, separate roads.** From Book 2 the two protagonists have separate tasks and roads (see `Book 2/Chapter_Plan.md`, drafted, review settled: Maren on the Titan's road, Calder on the Clan's errand). Hearthmere and Saltreach stay the anchor kingdoms. Each book pairs events across the border that answer each other: a decision in one kingdom becomes a crisis in the other a few chapters later.
 - **Examples of parallel, intertwined events:**
   - Hearthmere's failing magic drives desperate measures at home, while Saltreach's trading houses start selling magic, beasts, and Titan-hunting contracts to whoever is desperate.
@@ -105,7 +107,7 @@
 
 **The war widens.** The Restoration's war spreads beyond the border, while the freed Titan's path leaves ruined towns behind it. The protagonists, and other heroes, spend much of the book saving people: evacuating villages, holding river crossings, leading refugees. This is where the "protection over power" theme does its most direct work.
 
-**The kingdoms join the hunt.** Once it's clear what a Titan can do, the kingdoms race to capture one for themselves *(working proposals)*:
+**The kingdoms join the hunt.** Once it's clear what a Titan can do, the kingdoms race to capture one for themselves *(as drafted)*:
 - Kessmoor builds engineered cages and chains, powered by its arcane technology.
 - Isvaren's colleges attempt great bindings.
 - Sarovel looks for a way to bind a Titan (a binding, not a bond; true bonds can't be forced).
@@ -114,7 +116,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 
 **Why the protagonists refuse.** The protagonists try to stop the Titan from being captured. Capture would hand one kingdom overwhelming power, and to the ancient beasts it is the worst kind of taint. The lion, the Titan's kin, pulls the student toward the Titan, not against it.
 
-**The surviving twin** *(established: Corvin Vale carries on through Book 2)*. Working proposals:
+**The surviving twin** *(established: Corvin Vale carries on through Book 2)*. As drafted:
 - **Half of a legend.** For a whole book, people believed the leader could be in two places at once. Now he can't, and everyone knows why. He has lost his brother and half of what made him feared.
 - **Grief turns to obsession.** He sets out to finish what they began and capture the Titan, so his brother didn't die for nothing. That puts him in a race with the kingdoms.
 - **Uncle and nephew unite** *(established)*. In Book 2 the farmer brings the Clan the truth he overheard in Book 1, **because the civil war is hurting his people and village.** The uncle and the chief's elder son then join against the Restoration. The Clan's two sides, which spent Book 1 bleeding each other, turn on the people who set them against each other, and the surviving twin loses the dragons he still hoped to take.
@@ -127,7 +129,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 **The temples and the relics** *(established)*. The Titan isn't fleeing; it is moving from place to place, searching for temples and gathering relics.
 - **What the temples are.** Built when the elder Titans put the Titans to sleep, at the end of the old realm, to hold them asleep. **There are six temples, one in each kingdom,** so following the Titan visits every kingdom. Each held its own sleeper's sleep relic, part of the binding; **Hearthmere's temple is the one exception: it held two relics**, the Last Titan's own sleep relic and, in its deepest vault beyond the chains, the control relic. So there were once **seven relics** in six temples. **Six relics remain** (see the count below).
 - **What the relics do.** Each relic the Titan takes makes it stronger. **The count:** there were once **seven** relics, six sleep relics (one for each Titan) and the control relic. Hearthmere broke the Last Titan's sleep relic when it woke and chained it, so **six relics remain: five sleep relics and the control relic.** Each of the five holds one sleeper's sleep; the control relic wakes no one.
-- **Each sleep relic taken wakes its Titan** *(established)*. For every sleep relic the Titan acquires, its sleeping Titan awakes and starts causing havoc, which throws the kingdoms into further chaos. Book 2's danger grows with every temple the Titan reaches: one Titan loose, then two, then more. *(Working proposals: each waking Titan rises beneath or near the kingdom over which it slept, so each kingdom's chaos is its own; the waking Titans are confused, wild, and destructive, but not yet coordinated, until the sixth relic gives the Last Titan command of them.)*
+- **Each sleep relic taken wakes its Titan** *(established)*. For every sleep relic the Titan acquires, its sleeping Titan awakes and starts causing havoc, which throws the kingdoms into further chaos. Book 2's danger grows with every temple the Titan reaches: one Titan loose, then two, then more. *(As drafted: each waking Titan rises beneath or near the kingdom over which it slept, so each kingdom's chaos is its own; the waking Titans are confused, wild, and destructive, but not yet coordinated, until the sixth relic gives the Last Titan command of them.)*
 - **The sixth relic** *(established)*: the sixth relic grants **control over the other Titans.** The elder Titans made it as a safeguard, so that if the Titans ever escaped, they could be controlled. The Last Titan turns that safeguard into its weapon: with it, it commands the five it has already woken. **The sixth is the last and hardest relic to reach, and the one every kingdom and the surviving twin want most.**
 - **The sixth temple is in Hearthmere** *(established)*, in the catacombs beyond the chains, and the control relic lies in its deepest vault. The Titan can't reach it until the other five relics have made it strong enough, so **Book 2's climax returns to Hearthmere**, the protagonists' home ground, where the Titan was chained.
 - **A race, not a hunt.** Once the protagonists understand the pattern, the hunt becomes a race: reach the next temple first, protect its relic, or at least get the people nearby out before the Titan arrives.
@@ -136,7 +138,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 
 **The turn** *(established)*. The protagonists realize what the relics are for: each sleep relic wakes one of **the five other major Titans, put to sleep ages ago,** and the sixth will let the Last Titan command them all, so that together they can level the world. The songs about it were true after all.
 
-**Where the five sleep** *(established)*: beneath or near the other kingdoms, each kingdom founded, without knowing it, over a sleeping Titan. **The elder Titans put the Titans to sleep.** Hearthmere's Titan once slept too, until **Hearthmere discovered it, freed it from its sleep, chained it, and harnessed its power.** *(Working proposal: this explains why the elder Titans matter in Book 3: they are the ones who stopped the destroyers once before, and they know what it cost.)*
+**Where the five sleep** *(established)*: beneath or near the other kingdoms, each kingdom founded, without knowing it, over a sleeping Titan. **The elder Titans put the Titans to sleep.** Hearthmere's Titan once slept too, until **Hearthmere discovered it, freed it from its sleep, chained it, and harnessed its power.** *(As drafted: this explains why the elder Titans matter in Book 3: they are the ones who stopped the destroyers once before, and they know what it cost.)*
 
 **Ending** *(established)*: by the end of Book 2 the five sleepers are awake, one for each sleep relic taken, and the Titan takes the sixth relic, gaining control over them. The protagonists understand that no single kingdom can stand against what is coming.
 
@@ -150,12 +152,12 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 
 ### Working outline
 
-**The kingdoms unite.** Facing the Titans, the six kingdoms must set aside the laws that divided them. Each alliance has a cost *(working proposals)*: Sarovel must accept unbonded knights; Kessmoor must fight alongside magic; Saltreach's sellswords, pirates, and outlaws must stand with the crowns they defied; the Wyldmarch must trust the kingdoms that hunted its beasts. The protagonists, who have crossed every border, are the ones who hold this alliance together.
+**The kingdoms unite.** Facing the Titans, the six kingdoms must set aside the laws that divided them. Each alliance has a cost *(as drafted)*: Sarovel must accept unbonded knights; Kessmoor must fight alongside magic; Saltreach's sellswords, pirates, and outlaws must stand with the crowns they defied; the Wyldmarch must trust the kingdoms that hunted its beasts. The protagonists, who have crossed every border, are the ones who hold this alliance together.
 
-**The betrayal within the alliance.** *Established:* one kingdom in the alliance plots to be supreme. *Working proposals:*
-- **Who** *(settled by the author, Oct 2026, as drafted)*: **Kessmoor.** It ends Book 2 the strongest kingdom left (its engines never felt a drain), so the alliance can't fight without it; its heartstone cage was the only capture that held, so it learned "capture works" best; and the kingdom that banned magic after the Scald wants the oldest magic of all so it's never at the mercy of what lies underneath again. The alternatives stay open: **Sarovel**, a kingdom that ranks people by their bonds and already binds its unicorns (it would need a new regime after Book 2 kills its king), and **Isvaren**, whose College sold the chain-craft twice. Whichever is chosen, Book 2 sets it up, Tobin's arc watches it, and the betrayal repeats the Restoration's sin by a kingdom that fought it.
+**The betrayal within the alliance.** *Established:* one kingdom in the alliance plots to be supreme. *As drafted:*
+- **Who** *(settled by the author, Oct 2026, as drafted)*: **Kessmoor.** It ends Book 2 the strongest kingdom left (its engines never felt a drain), so the alliance can't fight without it; its heartstone cage was the only capture that held, so it learned "capture works" best; and the kingdom that banned magic after the Scald wants the oldest magic of all so it's never at the mercy of what lies underneath again. Book 2 sets it up, Tobin's arc watches it, and the betrayal repeats the Restoration's sin by a kingdom that fought it.
 - **What it wants** *(established)*: **the same power of control the sixth relic grants.** The plotting kingdom wants to command the Titans itself, and through them, rule the other kingdoms.
-- **How** *(working proposal)*: it fights in the alliance while secretly preparing to seize the sixth relic, or a weakened Titan bound to it, the moment the destroyers falter.
+- **How** *(as drafted)*: in plain sight, as a fallback the Accord itself approves: **the Bridle**, a ring of heartstone engines and iron chain built to hold the Last Titan, with Corvin as its reader and sealed orders that fire it on day two of the battle, as the Lamp reaches the relic (Book 3 ch 12, 41, 62, 68–70).
 - **Why it matters:** the betrayal should be what turns the near-victory into defeat (see below).
 
 **The elder Titans.** Not every Titan is a destroyer. *(Established: they are godlike beings, spoken of with reverence and belief, and they put the Titans to sleep with old magic after the collapse.)* The elder Titans are ancient and free, the "old ones" of the songs, who once walked Winshire unbound. The protagonists seek them out and win them over. Two join the war. Two give their power to the lion and the dragons, and fade away. Their fading is the series' greatest sacrifice, an echo of the respect-and-sacrifice bond that began the student's story.
@@ -164,11 +166,11 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 
 **The dragons become Titan-class.** The farmer's three dragons, bonded to him by accident in Book 1, grow to Titan class with the elder Titans' gift. The man who never chose his bonds now carries the greatest power in the world, and must decide what to do with it.
 
-**The last twin dies** *(established: Corvin Vale is killed in Book 3)*. Working proposals: he allies with the kingdom that plots to be supreme, offering what he knows about binding Titans, and dies when that plot fails. Or he dies trying to undo what he and his brother set loose, a late, partial redemption. Either way, the Restoration ends before the world does.
+**The last twin dies** *(established: Corvin Vale is killed in Book 3)*. As drafted: he serves the plotting kingdom as the Bridle's reader, offering what he knows about binding Titans, and dies unredeemed, taken whole by the relic (Book 3 ch 74). The Restoration ends before the world does.
 
-**Six against six** *(working proposal)*: six destroyer Titans (the freed Titan and the five it released) face six allies: the lion, the three dragons, and the two elder Titans who joined the fight.
+**Six against six** *(as drafted)*: six destroyer Titans (the freed Titan and the five it released) face six allies: the lion, the three dragons, and the two elder Titans who joined the fight, the Lamp and the Lady.
 
-**The final battle and the fall.** *Established:* there is a glimpse of victory in the final battle, but the Titans win, and everything is destroyed. *Working proposals:*
+**The final battle and the fall.** *Established:* there is a glimpse of victory in the final battle, but the Titans win, and everything is destroyed. *As drafted:*
 - **The glimpse.** The allied Titans and the united kingdoms bring the destroyers to the edge of defeat. Readers should believe, for a few chapters, that the alliance will win.
 - **The turn.** At that moment, the plotting kingdom makes its move: it tries to seize the sixth relic and the power of control for itself, and breaks the alliance's line. The destroyers recover, and the war is lost. Ambition, not weakness, destroys the world. The Restoration's original sin (wanting to bind a Titan for power) is repeated by one of the kingdoms that fought it.
 - **Everything is destroyed: what that means.** "Everything" means **the six kingdoms and the old world**: their cities, crowns, laws, and way of life, and the age of Titans and bonds. It does not mean every living thing. A remnant of people, the two protagonists, and the sentient beasts survive. The six kingdoms fall. Book 3 hints at the full scale rather than showing it all, but the ending should be total, not a disguised victory.
@@ -190,10 +192,10 @@ The kingdoms the protagonists have been protecting become dangerous in their own
   The ending is grief and a beginning at once.
 - **Ages that turn:** Winshire's history moves in ages. The age of Titans and bonds ends, and the Age of Elementals begins.
 
-*Working proposals:*
-- **What happens to the destroyer Titans.** They seem to fall with the world they level: spent in winning, destroyed by each other, or brought down by the dying lion and dragons. Book 3 should make their end believable, while leaving room for the next series' reveal that some survived. Which Titans survive (destroyers, elder Titans, or both) is open.
+*As drafted:*
+- **What happens to the destroyer Titans.** The alliance kills the Antlered (Book 3 ch 50) and the Furnace (65); the Horned Sun, the Pale Coil and the Bell burn out in the surge they made, and the Last Titan's breath goes out last, under the mountain (82–83). None survives on the page; Kit's one sighting (76) leaves the doubt for the next series.
 - **Why the bond breaks.** Bonding was always Titan-born. The ancient beasts called it a taint because it was Titan power running through mortal bonds. When the Titans seem to be gone, the source fails, and every bond in the world goes silent at once.
-- **How the protagonists become near-Titans and survive** *(established in outline; details open)*. As the lion and the dragons die, their Titan power flows back through the bonds into their partners, in the moment before the bonds break forever. That is why the protagonists survive their beasts' deaths, against the rule that a bonded partner usually dies with the other: the humans inherit what their beasts became. The student carries the lion's power, and the farmer carries three dragons' worth. They lose their beasts twice, once in death and once in the bond, and are left as something close to Titans. It could also explain why the farmer could hold three bonds: he was always able to carry more than one person should.
+- **How the protagonists become near-Titans and survive** *(established; as drafted)*. As the lion and the dragons die, their Titan power flows back through the bonds into their partners, in the moment before the bonds break forever. That is why the protagonists survive their beasts' deaths, against the rule that a bonded partner usually dies with the other: the humans inherit what their beasts became. The student carries the lion's power, and the farmer carries three dragons' worth. They lose their beasts twice, once in death and once in the bond, and are left as something close to Titans. It also explains why the farmer could hold three bonds: he was always able to carry more than one person should (Book 3 ch 81).
 - **History repeating** *(established in part)*: the old realm nearly fell to an earlier rising of the Titans, the collapse, until the elder Titans put them to sleep. Book 3's ending repeats it, with no one left to stop it.
 
 ---
@@ -215,7 +217,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 
 **Established:** a next series of books follows, set in the Age of Elementals *(author, Oct 2026: its own books)*. **Books 1–3 never explain elementals** *(author, Oct 2026)*: where they come from, below, is for the next series only; the trilogy shows one, at Book 3 ch 86, and says nothing about it. The student and the farmer, now near-Titans, become the **Council of Immortals**. It reveals that **some Titans survived** the end of Book 3. **Everything about the Council of Immortals is held back for the later books;** Books 1–3 don't reveal or name it.
 
-*Working proposals:*
+*Ideas for the next series (open; not part of the trilogy):*
 - **The Council of Immortals** is made of people who remember the age of Titans and bonds. It could guide, guard, or rule the remnant's descendants. A council of two is small: others could join, or it could grow from the remnant.
 - **The protagonists carry their beasts.** The student carries the lion's many-shaped strength, and the farmer carries the dragons' fire, sight, and wind. Each could have a link to the elementals that came from them.
 - **A world without bonds.** For the first time, people and beasts live without bonding. Sentient beasts survive the fall, but people can no longer talk with them; they share the world as strangers. Elementals bring a new kind of magic, and new questions about who controls it.

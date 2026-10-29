@@ -39,7 +39,7 @@
 
 *Late summer.*
 
-| Ch | POV | Working title | What happens | Echo of the other's story |
+| Ch | POV | Title | What happens | Echo of the other's story |
 |---|---|---|---|---|
 | 1 | S | The Unchosen Yard | Training day at Greyhold. Maren wins her bout against Lucan Haverly, but first lance goes to him because he is bonded. Her father's death explains why she never wanted a bond. During the oath, every bonded beast turns its head toward the ground at the words "the watch below." At dusk, fires burn on the far bank. | Seven Clan dragons fly south along the river; the students joke about the trouble across the border. |
 | 2 | F | Across the River | The same day from the Saltreach bank. The old chief's pyre smoke; the Clan's funeral flight; Ada sings the old song ("before the six there was one … till the six are one again"). That night Upper Rush, where Calder's sister Bel lives, is raided for its beasts and burned. Calder finds cart ruts leading to the river and a cut length of beast chain, pockets it, and tells no one. | The knights' lanterns on Greyhold's wall go out one by one. "They never cross." |
@@ -58,7 +58,7 @@
 
 *Autumn.*
 
-| Ch | POV | Working title | What happens | Echo of the other's story |
+| Ch | POV | Title | What happens | Echo of the other's story |
 |---|---|---|---|---|
 | 13 | S | The Old Ruin | Maren on the island. The bridge-fort, the broken arches, the verse carved under the tower arch about Winshire. Signs of Restoration hunters: cold fires, cut chains, beast traps. | Smoke rises across the river. Something has happened at the ford. |
 | 14 | F | The Younger Son | On his way to the ford as a witness, Calder finds Teo dead in the water, apparently killed by Ulric's men on the way to the peace meeting. Arn swears vengeance over his brother's body. Open civil war begins. | Old Fisk at the Eelweir says the Greyhold boat is still drawn up on the island. |
@@ -79,7 +79,7 @@
 
 *Autumn into winter.*
 
-| Ch | POV | Working title | What happens | Echo of the other's story |
+| Ch | POV | Title | What happens | Echo of the other's story |
 |---|---|---|---|---|
 | 27 | S | The Stables | Maren learns the bonded beasts by mucking out after them: Kesh's moods, Ide Darrow's hound, the cat nobody owns. Hale teaches her the old history of the orders. She begins to see how bonded and unbonded are not equal anywhere but on the gate. | Refugees from a burned Clan village cross on Liss's ferry. |
 | 28 | F | Aurveth | Aurveth speaks of her two earlier partners and her oldest memories: the Old Ruin when it was a bridge on the road of the old realm. Kharrak wants Ulric's men dead. Lisska wants to see everything. Calder wants them all quiet. | Lisska reports the knight-student at the island again, sitting with the monster at a distance. |
@@ -100,7 +100,7 @@
 
 *Winter.*
 
-| Ch | POV | Working title | What happens | Echo of the other's story |
+| Ch | POV | Title | What happens | Echo of the other's story |
 |---|---|---|---|---|
 | 41 | S | The Freeze | Deep winter. The Wend freezes from the edges in, and a refugee family tries to walk across. Maren goes out on the ice after them. It breaks. Something huge drags her out of the water and is gone before she can see it. | A dragon lands on the ice upriver and takes off again. |
 | 42 | F | Crossing the River | Calder crosses the ice to the Old Ruin, hiding the dragons, and narrowly misses Maren and the lion. Each finds only signs of the other. | Footprints, a broken Restoration chain, the lion's scent that makes all three dragons go still. |
@@ -121,7 +121,7 @@
 
 *Early spring.*
 
-| Ch | POV | Working title | What happens | Echo of the other's story |
+| Ch | POV | Title | What happens | Echo of the other's story |
 |---|---|---|---|---|
 | 55 | S | Thaw | The river goes out all at once, with a noise like a city wall coming down. The lion lets Maren close enough to touch. No bond, no words, but it lets her stay. | The Restoration offers a reward for the dragon farmer. |
 | 56 | F | Wren and the Far-Seer | Lisska perches on the crag above the farm and tells Calder what she sees across the river, and Wren makes him repeat every word. Calder realises his daughter is safer anywhere he isn't. | Lisska reports the knight-student touching the beast's mane. |
@@ -140,7 +140,7 @@
 
 *Early spring.*
 
-| Ch | POV | Working title | What happens | Echo of the other's story |
+| Ch | POV | Title | What happens | Echo of the other's story |
 |---|---|---|---|---|
 | 67 | S | Muster | The Restoration gathers on the island and along the Saltreach bank: boats, ladders, cages. Greyhold arms and shuts its gate. Outcast, Maren watches from the Brackenwood. | The Old Ruin is full of fires and men. |
 | 68 | F | Under the Arch | At the Old Ruin, right before the battle, the twins are revealed: the leader in two places was always two men. Hidden, Calder overhears them speak of the killing they arranged in the Dragon Clan. Rook is with them. | They talk of "the knight's lock" beneath the school, without saying what it opens. |

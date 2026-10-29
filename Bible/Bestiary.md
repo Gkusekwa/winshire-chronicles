@@ -1,6 +1,8 @@
 # Winshire — Bestiary
 
-*The creatures of Winshire, kingdom by kingdom. Everything here is a **working proposal** unless the bible marks it established. Established: beasts, bonds, the one-life rule, ancient beasts, dragons, the lion, the speaking archive beast, and the Titans. Creatures first set while drafting Book 1 are marked with their chapter numbers.*
+*The creatures of Winshire, kingdom by kingdom. Established: beasts, bonds, the one-life rule, ancient beasts, dragons, the lion, the speaking archive beast, and the Titans. Creatures first set while drafting Book 1 are marked with their chapter numbers.*
+
+**Settled (Oct 2026):** the author has accepted the drafts of all three books as written. Everything here that the drafts follow is settled, including what was first marked as a proposal; where a draft differs from this file, the draft wins.
 
 ## How creatures are sorted
 
@@ -65,7 +67,7 @@ Fast, proud, far-sighted. Prized by scouts and archers.
 
 ### Great cats
 Grey, calf-sized, apparently bored. They choose people rarely and change their minds never.
-- **What they are** *(proposal, Oct 2026)*: the last small line of **the old lions' kind**, which is why they're grey (Orrun's mane is iron-grey). They're calf-sized where a lion is a hill, but they keep something of the old lions' sense: a great cat feels what's coming to the beasts around it, grief especially, and goes and lies beside the one that will need it.
+- **What they are** *(settled as drafted, Oct 2026)*: the last small line of **the old lions' kind**, which is why they're grey (Orrun's mane is iron-grey). They're calf-sized where a lion is a hill, but they keep something of the old lions' sense: a great cat feels what's coming to the beasts around it, grief especially, and goes and lies beside the one that will need it.
 - **Book 1:** the grey cat at Greyhold that "nobody owns" (1, 27). It sleeps each night beside the beast whose rider will have a bad day tomorrow (Merrow's Dun, Ide's bed).
 
 ### Dray-beasts and ox-beasts
@@ -80,7 +82,7 @@ Working beasts of the farms: huge, slow, gentle, and stronger than any horse; 8 
 Long, low, black or smoke-grey, with eyes like lamps and a coat that drinks light. They hunt the deep forests at night: the Thornwood, the Elderwood, and the far end of the Brackenwood. Beasts, not great beasts, but clever before any bond, and patient in a way that frightens hunters.
 - **Bonds:** rare, and almost always with someone who has been alone a long time. Wyldmarch Keepers bond them more than anyone; a Keeper with a duskcat is the clans' night watch.
 - **In Sarovel** a bonded duskcat is a mark of a spy, an assassin, or a noble who wants to be thought one.
-- **The grey cat at Greyhold is not a duskcat** *(proposal, Oct 2026)*: duskcats are black and panther-like, and it is a great cat (see Great cats). There have been grey cats at Greyhold since before it was a school, since there was a door to keep under it. Nobody owns this one because it's on duty. It sat down beside Maren at Pell's lesson (9) before anyone knew why. In Book 2 it is gone from the Long Barn before the hill falls, and nobody saw it go (79); in Book 3 Maren sees its look again in the Grey Mother's eyes (30). The Mother is planted on the way: in Book 2 Hesper says, "The Grey Mother keeps the stones. That's what we say when the ground shakes" (ch 15), and in Book 3 Tova says "Grey Mother" under her breath at the ridge (ch 7).
+- **The grey cat at Greyhold is not a duskcat** *(settled as drafted, Oct 2026)*: duskcats are black and panther-like, and it is a great cat (see Great cats). There have been grey cats at Greyhold since before it was a school, since there was a door to keep under it. Nobody owns this one because it's on duty. It sat down beside Maren at Pell's lesson (9) before anyone knew why. In Book 2 it is gone from the Long Barn before the hill falls, and nobody saw it go (79); in Book 3 Maren sees its look again in the Grey Mother's eyes (30). The Mother is planted on the way: in Book 2 Hesper says, "The Grey Mother keeps the stones. That's what we say when the ground shakes" (ch 15), and in Book 3 Tova says "Grey Mother" under her breath at the ridge (ch 7).
 - **Book 1:** a smoke-grey duskcat cub poached from the far end of the Brackenwood, caged on Millbrook jetty and freed by Maren (Chapter 7). Tam named it Shadow.
 
 ### Sabrecats *(sabre-toothed)*
@@ -93,8 +95,8 @@ Heavier than a bear, short-tailed, with two fangs as long as a man's forearm. Th
 
 ### Tuskers *(mammoth-like)*
 Great beasts of the cold north: shaggy, red-brown, high-shouldered, with tusks that curl back on themselves like old roots. They walk the snowfields under the High Crown in herds led by the oldest cow, and they **remember**: routes, water, and the places their dead are buried. They mourn.
-- **Language** *(proposal, Oct 2026)*: yes. Tuskers speak in **the rumble**, a call too low to hear properly, felt in the feet and the chest more than the ears. It carries for leagues through frozen ground, so two herds in different valleys can talk. Oldest cows speak most and calves hardly at all. No person understands it without a bond, but Isvaren's drovers read its moods the way a ferryman reads weather, and the Vael Pass goes quiet when the herds are talking.
-- **Memory of the old realm** *(proposal)*: yes, but as a map, not a story. Each herd walks routes its oldest cows learned from theirs, and those routes are the old realm's: the Oneroad, the fords where the bridges stood, the Deep's tide-lines. Herds still walk round lakes that were valleys when the routes were made. They won't cross dead ground. They know the old lions' kind as far kin (Book 2: the old cow and Orrun).
+- **Language** *(settled as drafted, Oct 2026)*: yes. Tuskers speak in **the rumble**, a call too low to hear properly, felt in the feet and the chest more than the ears. It carries for leagues through frozen ground, so two herds in different valleys can talk. Oldest cows speak most and calves hardly at all. No person understands it without a bond, but Isvaren's drovers read its moods the way a ferryman reads weather, and the Vael Pass goes quiet when the herds are talking.
+- **Memory of the old realm** *(as drafted)*: yes, but as a map, not a story. Each herd walks routes its oldest cows learned from theirs, and those routes are the old realm's: the Oneroad, the fords where the bridges stood, the Deep's tide-lines. Herds still walk round lakes that were valleys when the routes were made. They won't cross dead ground. They know the old lions' kind as far kin (Book 2: the old cow and Orrun).
 - **The pass agreement** is older than the colleges: the old realm made it with the herds, and every winter the eldest cow renews it by laying her trunk on the pass-stone above Vael. Isvaren thinks it hires the herds. The herds think they're keeping a promise.
 - **Bonds:** very rare, and almost always with a child. A bonded tusker outlives three generations of a family and treats them as one person.
 - **Isvaren** hires tusker herds (by agreement with the herd, not by force) to haul stone and supplies over the Vael Pass in winter. The tusker road is the slowest and safest in the north.
@@ -102,8 +104,8 @@ Great beasts of the cold north: shaggy, red-brown, high-shouldered, with tusks t
 ### Olifants *(elephant-like)*
 Great beasts of the warm south-west, grey and nearly hairless, with great fanned ears, long trunks and straight tusks. They live in herds on the Sunward Hills and the Gilt valley. Like tuskers, they remember and mourn, and people who have watched an olifant herd stand over its dead stop calling them animals.
 - **Sarovel** makes them a royal beast second only to the unicorn. Bonded olifants walk in the Bond-King's processions, painted, and in war they are the walls the Sarovel army hides behind.
-- **Language and memory** *(proposal, Oct 2026)*: olifants speak in rumble too, with trumpets for alarm and grief. The **wild herds** of the Sunward Hills remember the old realm the way tuskers do, as roads and water. The **royal olifants** have kept the language and lost the map: nine generations in Sarovel's stables, bred from cows taken young, and no old cow to teach them. They're a herd with no memory of where it's from, which is Sarovel's story in one animal.
-- **Book 2 hook** *(proposal)*: when the Grace fails at Solenne, a wild cow comes down out of the Sunward Hills to the city walls, and the royal olifants break their pickets and follow her out in a line along a road nobody knew they remembered. Maren and Tobin take the low city's people out behind them, because the olifants know the safe way down.
+- **Language and memory** *(settled as drafted, Oct 2026)*: olifants speak in rumble too, with trumpets for alarm and grief. The **wild herds** of the Sunward Hills remember the old realm the way tuskers do, as roads and water. The **royal olifants** have kept the language and lost the map: nine generations in Sarovel's stables, bred from cows taken young, and no old cow to teach them. They're a herd with no memory of where it's from, which is Sarovel's story in one animal.
+- **Book 2 hook** *(as drafted)*: when the Grace fails at Solenne, a wild cow comes down out of the Sunward Hills to the city walls, and the royal olifants break their pickets and follow her out in a line along a road nobody knew they remembered. Maren and Tobin take the low city's people out behind them, because the olifants know the safe way down.
 - **Ivory** is forbidden in Sarovel and sold anyway in Saltreach. An olifant tusk at Gallows Quay is a hanging matter in Solenne and a good day's trade in Wendmouth.
 
 ### Stonehorns *(rhinoceros-like)*
@@ -122,11 +124,11 @@ Massive, grey, plated, with one great horn and a smaller one behind it, short-si
 
 ## The sky: flying creatures
 
-*Everything here is a working proposal unless marked established. New in October 2026; the Book 1 creatures are marked with their chapters.*
+*New in October 2026; the Book 1 creatures are marked with their chapters. Settled as drafted (Oct 2026).*
 
 **The sky is shared** *(author's direction: these are beast books, not dragon books)*. Every kingdom has its own beasts of the air, and none of them owns the sky. The Clan's dragons are the biggest flyers in the Marches, but the Isvaren colleges have their stormkites, the Wyldmarch clans have the rocs of the Worldsend, Saltreach's companies have their wyverns, and every tower in Hearthmere has its falcons. Over each kingdom the sky has its own order, and a traveller can tell where they are by what's flying. Hill people read it the way river people read the water: when every bird in a valley goes to ground at noon, something big is crossing it, and an empty sky at night means something worse.
 
-**Who can carry a rider** *(proposal)*: four kinds, each in its own country, each paid for in its own way.
+**Who can carry a rider** *(as drafted)*: four kinds, each in its own country, each paid for in its own way.
 - **Dragons** (the Scarfell): the strongest and the furthest, and only by the dragon's choice. The Clan's power rests on them.
 - **Worldsend rocs** (the Wyldmarch): they can carry a grown rider for a day, but they bond only with a clan's chosen, perhaps a dozen in a generation.
 - **Stormkites** (Isvaren): small, light riders only, ledge to ledge and pass to pass, on a good wind.
@@ -134,17 +136,17 @@ Massive, grey, plated, with one great horn and a smaller one behind it, short-si
 
 Kessmoor, Hearthmere and Sarovel have no riders of the air, and each says it doesn't want any. In the war that matters: the Accord's sky in Book 3 is four kingdoms' beasts flying together for the first time.
 
-**Messages** *(proposal)*: each kingdom sends its news on its own wings. Hearthmere's knights fly **falcons** between towers. Saltreach's pirates use **gull-hawks**. Isvaren's colleges use **lantern owls** by night. The Wyldmarch's Keepers use **hollow owls**. Sarovel's court uses **sun-hawks**, mostly to be seen doing it. Kessmoor uses semaphore towers and is proud of it. A messenger bird flies to a *place* it knows, never to a person, so a message chases a moving army only as far as its last roost. Lisska is the exception: she flies to Maren because Orrun is kin, which is why she's worth more than any bird.
+**Messages** *(as drafted)*: each kingdom sends its news on its own wings. Hearthmere's knights fly **falcons** between towers. Saltreach's pirates use **gull-hawks**. Isvaren's colleges use **lantern owls** by night. The Wyldmarch's Keepers use **hollow owls**. Sarovel's court uses **sun-hawks**, mostly to be seen doing it. Kessmoor uses semaphore towers and is proud of it. A messenger bird flies to a *place* it knows, never to a person, so a message chases a moving army only as far as its last roost. Lisska is the exception: she flies to Maren because Orrun is kin, which is why she's worth more than any bird.
 
-**Flyers and the Deep** *(proposal; follows `Magic.md` §1)*: flying things feel the Deep's movements before people do. On dead ground birds don't nest, and the sky over Hearthmere after Book 1 is noticeably empty. In a **stir** they wheel over the temple. In a **surge** they fly into walls and lamps. Before a **waking** every bird leaves the country for a day, and the silence is the warning *(Book 1 ch 15: the birds stop on the island before the breathing)*.
+**Flyers and the Deep** *(as drafted; follows `Magic.md` §1)*: flying things feel the Deep's movements before people do. On dead ground birds don't nest, and the sky over Hearthmere after Book 1 is noticeably empty. In a **stir** they wheel over the temple. In a **surge** they fly into walls and lamps. Before a **waking** every bird leaves the country for a day, and the silence is the warning *(Book 1 ch 15: the birds stop on the island before the breathing)*.
 
 ### Great beasts of the air
 
 - **Dragons** *(established; see Dragons above)*: four legs and two wings; the Dragon Clan's beasts. The Clan breeds them; a few bond. Calder's three become Titan-class in Book 3.
 - **The phoenix** *(established that there are a few; see the Wyldmarch)*: fire that dies and returns. It never bonds. It flies at the Worldsend's peaks, and fire on the peaks is the clans' sign of it.
-- **Stormkites** *(Isvaren and the High Crown; proposal)*: great grey fork-tailed kites with a wingspan of forty feet, so light-boned that a grown one weighs less than a man. They ride the storm fronts off the High Crown and are seen over Vael before bad weather, sliding down the wind in pairs. They're beasts. They bond rarely, and only with small, light people, so in Isvaren a stormkite bond goes to a girl of fifteen or a slight old woman, never to a Warden. The college **Pass Wardens** keep a roost above the Vael Pass, where the bonded kite-riders carry warnings and medicine across the pass in hours instead of days. Stormkites fly the Deep's tide-lines the way ships use a current, and the College of Tides has charted their flights for two hundred years. One of Idony's oldest charts is a stormkite chart.
-- **Worldsend rocs** *(the Wyldmarch and the Worldsend; proposal)*: the largest birds in Winshire, rust-brown and white, with a wingspan wider than a barn is long. They nest on the Worldsend's eastern faces and hunt elk on the Hallow Plains, lifting a yearling whole. They're great beasts: long-lived and wary, and they remember. Each clan of the horse folk has one or two bonded **roc-riders**, chosen by the birds, who carry news across the plains faster than any horse and are buried, when they die, on the high ledges beside their birds. Rocs and the phoenix share the Worldsend's peaks and leave each other alone. Rocs and dragons dislike each other the way two proud old houses do.
-- **Crag-eagles** *(the Scarfell and the Worldsend; proposal)*: bone-breakers. Dun and black, with a twenty-five-foot wingspan and a beard of stiff feathers under the beak. They carry sheep bones up and drop them on the scree to break them for the marrow. They're the only thing in the Scarfell that will fight a young dragon for a kill. They take lambs, and once in a generation a child left in a field, and the Clan pays a silver a head for them. Lisska hates them on principle. A Clan rider bonded to a crag-eagle instead of a dragon is a family scandal, though it has happened, and the riders of the ledges still tell the story.
+- **Stormkites** *(Isvaren and the High Crown; as drafted)*: great grey fork-tailed kites with a wingspan of forty feet, so light-boned that a grown one weighs less than a man. They ride the storm fronts off the High Crown and are seen over Vael before bad weather, sliding down the wind in pairs. They're beasts. They bond rarely, and only with small, light people, so in Isvaren a stormkite bond goes to a girl of fifteen or a slight old woman, never to a Warden. The college **Pass Wardens** keep a roost above the Vael Pass, where the bonded kite-riders carry warnings and medicine across the pass in hours instead of days. Stormkites fly the Deep's tide-lines the way ships use a current, and the College of Tides has charted their flights for two hundred years. One of Idony's oldest charts is a stormkite chart.
+- **Worldsend rocs** *(the Wyldmarch and the Worldsend; as drafted)*: the largest birds in Winshire, rust-brown and white, with a wingspan wider than a barn is long. They nest on the Worldsend's eastern faces and hunt elk on the Hallow Plains, lifting a yearling whole. They're great beasts: long-lived and wary, and they remember. Each clan of the horse folk has one or two bonded **roc-riders**, chosen by the birds, who carry news across the plains faster than any horse and are buried, when they die, on the high ledges beside their birds. Rocs and the phoenix share the Worldsend's peaks and leave each other alone. Rocs and dragons dislike each other the way two proud old houses do.
+- **Crag-eagles** *(the Scarfell and the Worldsend; as drafted)*: bone-breakers. Dun and black, with a twenty-five-foot wingspan and a beard of stiff feathers under the beak. They carry sheep bones up and drop them on the scree to break them for the marrow. They're the only thing in the Scarfell that will fight a young dragon for a kill. They take lambs, and once in a generation a child left in a field, and the Clan pays a silver a head for them. Lisska hates them on principle. A Clan rider bonded to a crag-eagle instead of a dragon is a family scandal, though it has happened, and the riders of the ledges still tell the story.
 
 ### Beasts of the air
 
@@ -153,19 +155,19 @@ Kessmoor, Hearthmere and Sarovel have no riders of the air, and each says it doe
 - **Gull-hawks** *(Saltreach; Book 1, 34–36)*: half gull, half hawk, all appetite. Pirates' messengers. A gull-hawk will carry a message to a ship it knows, which is the one trick no other bird can do. A captain who loses his gull-hawks is a captain who can't be found.
 - **Sun-hawks** *(Sarovel)*: golden hawks kept by the nobility, mostly for show. Each noble house flies its own on feast days from the Sun Stair, and the order they fly in is the order of precedence at court. The unchosen who do the court's work (Book 2 ch 58) are the ones who actually train them.
 - **Lantern owls** *(Isvaren)*: owls with faintly glowing eyes that nest in the observatory towers. Students think they bring luck in exams. The glow is the Deep: a lantern owl's eyes go dark on dead ground and blaze in a surge, so lantern owls are the poor man's tide-glass, and Vael's ferry-folk keep one in a wicker cage on every boat. Idony grew up with one.
-- **Hollow owls** *(the Wyldmarch; proposal)*: pale owls as tall as a child, which nest in the hollows of the Hollow Ring's stones and the Thornwood's dead oaks. The Keepers' messengers by night. They won't fly over dead ground, so when the Thornwood dies behind the first waking (Book 2), the Keepers lose their messengers along with their charms.
-- **Pit bats** *(Kessmoor; proposal)*: leathery bats the size of a cat that roost in the mine shafts of the Iron Fells. They shriek when the Deep rises through the rock, and since spoken magic is banned in Kessmoor, a miner's caged bat is the only warning of an upwelling the law allows. Kessmoor calls them "Bleed-bats" and pretends it isn't the same thing as a tide-glass. They're animals, not beasts: they've never bonded, and Kessmoor is proud of that too.
+- **Hollow owls** *(the Wyldmarch; as drafted)*: pale owls as tall as a child, which nest in the hollows of the Hollow Ring's stones and the Thornwood's dead oaks. The Keepers' messengers by night. They won't fly over dead ground, so when the Thornwood dies behind the first waking (Book 2), the Keepers lose their messengers along with their charms.
+- **Pit bats** *(Kessmoor; as drafted)*: leathery bats the size of a cat that roost in the mine shafts of the Iron Fells. They shriek when the Deep rises through the rock, and since spoken magic is banned in Kessmoor, a miner's caged bat is the only warning of an upwelling the law allows. Kessmoor calls them "Bleed-bats" and pretends it isn't the same thing as a tide-glass. They're animals, not beasts: they've never bonded, and Kessmoor is proud of that too.
 - **Glass moths** *(the Scald; established in the Atlas)*: pale moths that live only on the Scald's fused glass, the only living thing there. Their wings ring faintly in a wind. Nobody knows what they eat; Idony thinks it's whatever the Deep has left.
 - **The speaking raven** *(Isvaren; established)*: the Long Library's keeper, an ancient beast that learned human speech. Killed in Book 2 by Corvin's hunters. It hasn't flown in living memory.
 
 ### Animals of the air (no bond)
 
-- **Lady's petrels** *(Saltreach; proposal)*: small black storm-petrels that run on the water ahead of bad weather. Sailors call them the Drowned Lady's birds and won't kill one. "By the Lady's petrels" is a captain's oath on the Corsa quays. (This plants the Lady under the Water, Book 3.)
-- **Sun-storks** *(Sarovel; proposal)*: white storks that nest on the palace roofs above the Sun Stair. The year the storks don't come back, the Grace fails. They don't come back in Book 2's last spring. (This plants the Lamp's cult, Book 3.)
+- **Lady's petrels** *(Saltreach; as drafted)*: small black storm-petrels that run on the water ahead of bad weather. Sailors call them the Drowned Lady's birds and won't kill one. "By the Lady's petrels" is a captain's oath on the Corsa quays. (This plants the Lady under the Water, Book 3.)
+- **Sun-storks** *(Sarovel; as drafted)*: white storks that nest on the palace roofs above the Sun Stair. The year the storks don't come back, the Grace fails. They don't come back in Book 2's last spring. (This plants the Lamp's cult, Book 3.)
 - **Wend geese** *(the Marches)*: grey geese that fly north up the river in early spring and south at harvest. River people tell the season by them, and Liss counts the skeins.
 - **Rooks of Crow Scar, ravens of the Gallows Oak** *(Saltreach bank; Hearthmere)*: ordinary birds with long memories in their stories. The rooks of Crow Scar went silent the day the dragons came (32).
 
-### The sky in the Titan War *(proposal)*
+### The sky in the Titan War *(as drafted)*
 
 - **The Last Titan** is the only Titan with wings *(Book 1 ch 79)*. When it flies the sky empties beneath it for leagues, and that's how people far off know where it's going before they see it. The five it wakes walk, swim or burrow.
 - **The air war in Book 3** is four kingdoms' beasts together: the Clan's dragons (Calder's three Titan-class after the gift), the Wyldmarch's roc-riders, a few dozen Isvaren kite-riders scouting for the Accord, and Saltreach wyvern companies hired by contract. Kessmoor has no wings and builds bolt-throwers to fight from below. Messages run on falcons, gull-hawks and owls, and a lost bird can lose a battle.
@@ -187,7 +189,7 @@ Kessmoor, Hearthmere and Sarovel have no riders of the air, and each says it doe
 | Pit bats, glass moths, petrels, storks, geese, rooks | Animal | No |
 | The speaking raven | Ancient beast | No |
 
-### Where they can come in, Books 2–3 *(proposals for the chapter plans)*
+### Where they can come in, Books 2–3 *(as used in the drafts)*
 
 - **Book 2, Isvaren:** stormkites sliding down the wind into Vael before the surge; a kite-rider girl of the Pass Wardens who carries Idony's warning to Nessa's ferry ahead of the flood.
 - **Book 2, the Wyldmarch:** a roc-rider bringing the Moot word of the Titan; the hollow owls leaving the Hollow Ring the night before the first waking; the Keepers' messages stopping after the drain.
@@ -251,7 +253,7 @@ Kessmoor, Hearthmere and Sarovel have no riders of the air, and each says it doe
 - **Stormkites** and the Pass Wardens' kite-riders above the Vael Pass (see The sky).
 
 ### The Wyldmarch
-- **The phoenix:** the rarest creature in Winshire. **There are a few, not one** *(settled)*, but they are so rarely seen that people believe there is only one. The series reveals the others slowly. *Working proposal:*
+- **The phoenix:** the rarest creature in Winshire. **There are a few, not one** *(settled)*, but they are so rarely seen that people believe there is only one. The series reveals the others slowly. *As drafted:*
   - A great beast of fire, gold and red, the size of an eagle on a cold day and a burning hayrick on a hot one. When it dies it burns, and from the ash it comes back.
   - **That is why no one bonds a phoenix.** A bond shares one life between two. When the phoenix burns, its partner dies with it, and only the phoenix returns. The Wyldmarch clans tell of the three people who tried.
   - Phoenixes nest in the Worldsend, where the clans see fire on the peaks once in a lifetime, and always assume it is the same bird.

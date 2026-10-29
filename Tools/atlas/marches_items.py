@@ -1,7 +1,7 @@
 """The Marches, lived in. Every item carries `ch`: the chapter in which it first appears in Book 1.
 The chapter-end map for chapter N shows everything with ch <= N, and rings what is new in N.
 Chapter 0 is the bare map in the book's front matter.
-Positions are leagues (x east, y south). Plot-event placements follow Book 1/Chapter_Plan.md and are working proposals.
+Positions are leagues (x east, y south). Plot-event placements follow the Book 1 drafts.
 """
 
 # When existing places from world.py first appear

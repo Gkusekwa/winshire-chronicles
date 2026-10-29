@@ -1,6 +1,6 @@
 """Winshire world data. Coordinates are in leagues (x east, y south).
 One league is about three miles, roughly an hour's walk.
-Everything here is a working proposal unless marked established in the bible.
+Settled as drafted (Oct 2026): the drafts of all three books are canon, and this geography follows them.
 """
 
 # ---------------- land, sea, kingdoms ----------------

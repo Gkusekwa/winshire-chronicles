@@ -336,7 +336,7 @@ KIND_WORD = {"capital": "Capital", "city": "City", "town": "Town", "village": "V
 def write_atlas():
     L = []
     L.append("# Winshire: Atlas\n")
-    L.append("*A gazetteer of the world, built with the maps in `Book 1/Art/Maps/`. Everything here is a **working proposal** unless the bible marks it established; established points are noted. "
+    L.append("*A gazetteer of the world, built with the maps in `Book 1/Art/Maps/`. Established points are noted; everything else here is settled as drafted (Oct 2026), and where a draft differs, the draft wins. "
              "The maps and this file are generated from one data file, so they always agree.*\n")
     L.append("## Scale and travel\n")
     L.append("- **One league is about three miles**, roughly an hour's walk. Winshire is about **300 leagues** from the western capes to the Worldsend, and **200 leagues** from the High Crown to the Shattered Sea.")
@@ -393,7 +393,7 @@ def write_atlas():
             L.append("")
 
     L.append("## The Marches in detail\n")
-    L.append("*Established: the border region is the Marches; a river marks the border; the Old Ruin stands on an island in it; Greyhold is on the Hearthmere bank and Calder's farm and the Clan's lands on the Saltreach side. The river's name, the Wend, and the layout below are proposals.*\n")
+    L.append("*Established: the border region is the Marches; a river marks the border; the Old Ruin stands on an island in it; Greyhold is on the Hearthmere bank and Calder's farm and the Clan's lands on the Saltreach side. The river's name, the Wend, and the layout below are settled as drafted (Oct 2026).*\n")
     ms = [p for p in Wd.P if p["scope"] in ("both", "marches") and not p["secret"]]
     ms.sort(key=lambda p: (p["y"]))
     for p in ms:
@@ -403,7 +403,7 @@ def write_atlas():
 
     L.append("## How the map grows through Book 1\n")
     L.append("*The book opens on bare maps (`front_matter/`). Each chapter closes with the Marches map as it stands after that chapter (`progress/`): everything that has appeared so far, with what is new in that chapter ringed. "
-             "Events are labelled in their own chapter, then keep only their mark. Placements of plot events are working proposals tied to `Book 1/Chapter_Plan.md`; when a drafted chapter moves something, update `Tools/atlas/marches_items.py` and rebuild.*\n")
+             "Events are labelled in their own chapter, then keep only their mark. Placements of plot events follow the drafts; when a drafted chapter moves something, update `Tools/atlas/marches_items.py` and rebuild.*\n")
     first = {}
     for pid, ch in MI.REVEAL.items():
         first.setdefault(ch, []).append(by(pid)["name"])
@@ -421,7 +421,7 @@ def write_atlas():
     L.append("")
 
     L.append("## Author's eyes only: temples and the catacombs\n")
-    L.append("*Spoilers for Books 1 and 2. These never appear on a reader's map. Established: six temples, one per kingdom; Hearthmere's lies beyond the chains in the catacombs and is the one temple that held two relics (its sleeper's sleep relic, broken when the Titan was chained, and the control relic in the deepest vault); each kingdom was founded, unknowing, over a sleeping Titan. Exact sites are proposals.*\n")
+    L.append("*Spoilers for Books 1 and 2. These never appear on a reader's map. Established: six temples, one per kingdom; Hearthmere's lies beyond the chains in the catacombs and is the one temple that held two relics (its sleeper's sleep relic, broken when the Titan was chained, and the control relic in the deepest vault); each kingdom was founded, unknowing, over a sleeping Titan. Exact sites are settled as drafted (Oct 2026).*\n")
     for p in Wd.P:
         if p["secret"]:
             L.append(f"- **{p['name']}** ({Wd.KINGDOMS[p['kingdom']]['name']}). {p['desc']}")

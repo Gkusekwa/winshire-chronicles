@@ -1,14 +1,14 @@
 # Chapter-end maps, Books 2 and 3: notes
 
-Built with `Tools/atlas` (`python3 build.py --book 2|3 --out DIR`). Book 1's outputs are unchanged: a full default rebuild matches the 87 checksums taken before any edit (79 chapter pages, front matter, the realm and Marches maps, `Atlas.md`, the atlas page).
+Built with `Tools/atlas` (`python3 build.py --book 2|3 --out DIR`). Book 1's outputs were unchanged by this work: a full default rebuild matched the 87 checksums taken before any edit (79 chapter pages, front matter, the realm and Marches maps, `Atlas.md`, the atlas page).
 
-Coordinates are leagues, x east and y south, as in `world.py`. "Proposal" means I positioned it; nothing in `world.py` or the Bible fixes it.
+Coordinates are leagues, x east and y south, as in `world.py`. The places below were positioned for the maps because nothing in `world.py` or the Bible fixed them. The author settled them as drawn (Oct 2026).
 
-## Places I positioned
+## Places positioned for the maps *(settled as drawn, Oct 2026)*
 
-### Series-wide (in `world.py`, drawn only in Books 2 and 3)
+### Series-wide (in `world.py`)
 
-- **The Glasswater's outflow** (`LATER_RIVERS`): a stream from the lake's south end (151, 47) down a valley to the Wend at Wendhead (176, 63). Book 2's meltflood comes down "the valley that heads the Wend", and `world.py` gives the lake no outflow. Book 1 doesn't draw it, so Book 1 is unchanged.
+- **The Glasswater's outflow** (`RIVERS`): a stream from the lake's south end (151, 47) down a valley to the Wend at Wendhead (176, 63). Book 2's meltflood comes down "the valley that heads the Wend". Every book's maps draw it (see the contradictions below).
 
 ### Book 2 (`book2_items.py`)
 
@@ -43,7 +43,7 @@ Coordinates are leagues, x east and y south, as in `world.py`. "Proposal" means 
 - **The hall under Coldtarn** (186.5, 91.5): under the crag on the tarn's western side, across the bowl from the caves (ch 54, 59).
 - **Where Lisska, Aurveth, Orrun, Kharrak and the others died**: on the tarn, across Hollow Beck's mouth, at the door, and on the Fenn top field, each as its chapter describes.
 - **Varrhold, under the slip** (184.4, 94.8): Varrhold's own point. From ch 85 it replaces Varrhold on both maps.
-- **The drowned road and the far shore (the Lit Shore)**: all off the edge of Winshire. Nothing in `world.py` or `World.md` places them, so these are working proposals:
+- **The drowned road and the far shore (the Lit Shore)**: all off the edge of Winshire. Nothing in `world.py` or `World.md` placed them, so they were positioned here, and are settled as drawn:
   - The road runs south-west from the Drowned Bell's reef (217.5, 202.6). Milestone 41 ("two days out of Blackwater") is at (211, 209), with one pier every 2.2 leagues on bearing (−0.72, 0.69), so milestone 1 lands at (147.5, 269.9), about 90 leagues off the coast.
   - The city on the sand (144.6, 272.7) sits at the landfall, behind a shelf about three leagues out. The Needle is the gap by the last pier.
   - The Grey Mother's hill (136.7, 280.3) is two days up the paved road.

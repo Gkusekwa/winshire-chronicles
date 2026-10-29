@@ -1,6 +1,6 @@
 # Winshire — World and Setting
 
-*Established facts are stated directly. New lore beyond those facts is marked as a working proposal. Facts first set while drafting Book 1 are marked with their chapter numbers. Open questions are at the end.*
+*Established facts are stated directly. New lore beyond those facts was first marked as a proposal; the author has accepted the drafts of all three books as written, so all of it that the drafts follow is settled (Oct 2026), and where a draft differs from this file, the draft wins. Facts first set while drafting Book 1 are marked with their chapter numbers. Open questions are at the end.*
 
 ## The world and its history
 
@@ -12,7 +12,7 @@
 
 **The old realm's capital** *(settled by the author, Oct 2026)*: it stood at the middle of the world, the island in the Wend and both banks round it, where the Oneroad's six roads met: the Restoration is right that it was in the Marches. The Old Ruin was its bridge-fort; the drowned piers are the last of it above water. Hearthmere's temple, the catacombs under Greyhold, was built there when the elders put the Titans to sleep, so the door was shut in the old capital; three hundred years ago Hearthmere chained the Last Titan in the same place, doing again what the one realm did (Book 3 ch. 30). The Accord's last stand at the hub breaks it a second time (Book 3 ch. 75). **Never named, and never called a capital, in Books 1–3**; readers can put it together from the milestones, the ruin and the hub. Its name is for the next series.
 
-**Working proposals:** People could discover the old name through a lullaby, a tavern song, ruins, Isvaren's archives, and eventually an ancient beast. The Restoration's aims are set out in `Story.md`.
+**As drafted:** People could discover the old name through a lullaby, a tavern song, ruins, Isvaren's archives, and eventually an ancient beast. The Restoration's aims are set out in `Story.md`.
 
 ## Magic and bonds
 
@@ -22,13 +22,13 @@ A bond is a deep connection between a person and an independent beast, not owner
 
 **How a bond feels** *(established)*: bonded partners **feel each other's emotions and pain** and **speak mind to mind**, and each carries a **visible bond mark**. *(Scope, settled:)* a bond shares what each partner **says** mind to mind and what each **feels**; it does **not** give full access to the other's thoughts or memories. A partner can keep a thought to themselves, though strong feeling leaks through. **Memories are not shared automatically, but they can be shown on purpose** *(settled in Chapters 28 and 40)*: a partner can choose to hold a memory up and push it across, the way you'd hold a picture up to a window, and the other sees it as if from inside (Aurveth's white bridge; Lisska's night on the island). It takes effort and intent, it can't be taken without consent, and it can't be pushed past what the giver can still reach (Aurveth can't show what she has lost). A live sight can be pushed to a bonded partner the same way, on purpose (Ruling 1, Ch 42); otherwise sight isn't shared. The riders' last moments that Calder lived as the bonds took (Chapter 18) are the one exception, a scar of the threefold pull, not a power. For the farmer, the bond means **three minds at once**, three sets of emotions, grief, and rage pressing on him together, which is overwhelming.
 - **Range** *(from the drafts)*: words carry three or four leagues; beyond that only feeling, which carries much further.
-- **Bond marks** *(from the drafts)*: Calder's three marks over his heart overlap like coins: bronze, rust and green. *(Working proposal: the mark appears where the bond took hold and changes as the bond deepens.)*
+- **Bond marks** *(from the drafts)*: Calder's three marks over his heart overlap like coins: bronze, rust and green. *(As drafted: the mark appears where the bond took hold and changes as the bond deepens.)*
 - **Holding three costs him** *(from the drafts)*: headaches, nosebleeds, and dreams of the riders' deaths, the dying warriors' last moments echoing through the bonds, part of why it feels like a curse. Rage floods across the bond.
 - **Kin-speech** *(Rulings 5 and 13)*: dragons can speak to each other mind to mind as kin, without riders, within sight (Aurveth hears Morrow, 60). The great sentient beasts can do the same as "far kin": the lion and a dragon can speak mind to mind. Humans hear only their own bonded.
 
 **One life between two** *(established)*: a bond shares one life between two, **in both directions**: when either partner dies, the other usually dies too. A beast usually withers when its human dies, and a human usually dies when their beast does. Exceptions are extremely rare. This raises the stakes for every bonded knight and beast in the war. It applies to dragons and their riders as to any bond (Hallam and Morrow, 60). **The three dragons survived because the farmer took the pull of all three deaths at once,** which is why his bond feels like a curse. The rare survivals are explained together below.
 
-**When a partner dies: the pull, and why a few survive it** *(the rule is established; the explanation is a proposal, Oct 2026, built on Ch 18, 60 and 70)*. When one partner dies, the bond doesn't simply break. The dying half pulls the living half after it: in Aurveth's words, the death "comes down" the bond. That pull is why the partner usually dies, or withers if it's a beast. The series has exactly three ways the pull has been survived. They are different from each other, each costs something, and none of them is a method anyone can choose:
+**When a partner dies: the pull, and why a few survive it** *(the rule is established; the explanation is settled as drafted, Oct 2026, built on Ch 18, 60 and 70)*. When one partner dies, the bond doesn't simply break. The dying half pulls the living half after it: in Aurveth's words, the death "comes down" the bond. That pull is why the partner usually dies, or withers if it's a beast. The series has exactly three ways the pull has been survived. They are different from each other, each costs something, and none of them is a method anyone can choose:
 1. **Cut before death** (Aurveth and Ennis, Ch 70). The first knights' binders cut Ennis out of her before he died, so when he died there was nothing left for his death to come down. The cut scarred, and a bond-place cut once "heals harder" (her own belief, hedged), which is how she later survived Ragnald, lying a year on Coldtarn's shore without withering. The cost: she has her first partner only in pieces. It can't be copied, because cutting a bond is binding work, forbidden, and it maims the beast.
 2. **Caught by another bond** (the mill, Ch 18). Three riders died at once, and their dragons' halves, falling, landed in a man who had room for them. Calder took all three pulls, and the dragons lived because their lives had somewhere to go. Why he had room is his question, "why me?", answered only in Book 3: he can carry more than one life. Nobody in known history has done it before, and it can't be done on purpose.
 3. **Given, not taken** (Book 3's end). When a beast that has taken an elder's gift dies *choosing to give*, the pull runs the other way: its power comes up the bond into its partner instead of drawing the partner down. That's why Maren and Calder outlive Orrun and the three dragons, and why they come out near-Titans. It needs Titan power to spare and a beast's last choice. An ordinary beast has nothing to give but its life, so for everyone else the rule holds.
@@ -49,14 +49,14 @@ A **binding** is the contrast: the bound beast's death doesn't touch the binder,
 - **Forced binding, as Maren feels it (73):** honey-smoke opens a beast the way sleep opens a sleeper; the binder lays his hand on its head and pours his will into the opening while holding himself shut; the beast's self goes out to make room. If someone gives instead of taking, the beast can meet them, and a true bond forms.
 - **Bound beasts without a binder.** When a binder *flees* (is gone but alive), the bound beast doesn't wake: it goes slack and follows any hand on the rope. It may slowly half-wake (52; Ruling 6; Old Grey). If the binder dies, the beast is free (`Bestiary.md`; `Magic.md` §6). Bound beasts don't take fright; they do what the hand on their neck wants.
 
-*Working proposals:*
+*As drafted:*
 - **Before a bond, beasts can't be talked to.** The student earns the ancient lion's respect in Book 1 without words, through actions alone. Their first real conversation comes only with the bond.
 - **Which beasts are sentient** may include the ancient lion, the dragons, the Titans, and some rarer beasts, while most ordinary beasts are not. Who counts as sentient could be a point of argument between kingdoms: Sarovel might treat only bondable beasts as minds, while the Wyldmarch treats all beasts as kin.
 - **Legends from before bonding.** If the old songs come from the ancient beasts, they may be the only record of what beasts said before people could hear them, which is part of why they are so hard to interpret.
 
 The Dragon Clan breeds dragons and keeps them under control; its members bond only with dragons. This is a defining part of the Clan’s culture and creates tension with Winshire’s broader view of bonds as relationships with independent beasts.
 
-**How the Clan keeps its dragons** *(proposal, Oct 2026)*. The Clan never binds a dragon: dragons are great beasts, a binding sickens them, and Clan law forbids it. Its hold has three parts:
+**How the Clan keeps its dragons** *(settled as drafted, Oct 2026)*. The Clan never binds a dragon: dragons are great beasts, a binding sickens them, and Clan law forbids it. Its hold has three parts:
 1. **The eggs.** Dragons can only hatch where the Deep runs warm, and the best of those places are the hatching caves above Coldtarn, whose water never freezes. The Clan holds the caves, so every dragon comes back to the Clan's ground to breed.
 2. **The pens.** In the mating season the Clan shuts chosen pairs into the breeding pens on the ledges, choosing lines for size, temper and fire, and it hand-raises the young on Scarfell mutton. That makes the young tame to Clan hands, though not bonded. This is the coercive part, and the dragons feel it as captivity.
 3. **The bargain.** Older than the Clan's memory: the ledges, the caves and the flocks, in return for flying when the Clan flies. Unbonded dragons keep it from habit and hunger, bonded ones for their partners.
@@ -96,19 +96,19 @@ Beasts range from cat- or mouse-sized creatures to rare, mountain-sized **Titans
 - **Beasts can grow into Titans.** The ancient lion grows in power through the series and becomes a Titan. The three dragons become Titan-class beasts.
 - **The kingdoms want Titans for power** and try to capture them once their strength is known.
 
-**Working proposals:**
+**As drafted:**
 - **The old realm split into six kingdoms when the Titans were put to sleep** *(established; see the history section above)*.
-- **The elder Titans are Titans who transcended the physical** *(established)*. They are **gods**, truly divine, spoken of with reverence and belief. People worship them as gods without knowing they were once Titans. *(Working proposals: they are the "old ones" of the songs who walked Winshire unbound, and they remember the realm before the split. Because people know them only as gods, faith in them doesn't break the Book 1 rule that other Titans aren't known to exist. Learning that the gods were once Titans can be a Book 2 or Book 3 revelation. In the Titan War, the two who join the fight take form again; the two who give their power to the lion and the dragons fade, which for gods may mean ceasing to be.)*
+- **The elder Titans are Titans who transcended the physical** *(established)*. They are **gods**, truly divine, spoken of with reverence and belief. People worship them as gods without knowing they were once Titans. *(As drafted: they are the "old ones" of the songs who walked Winshire unbound, and they remember the realm before the split. Because people know them only as gods, faith in them doesn't break the Book 1 rule that other Titans aren't known to exist. Learning that the gods were once Titans can be a Book 2 or Book 3 revelation. In the Titan War, the two who join the fight take form again; the two who give their power to the lion and the dragons fade, which for gods may mean ceasing to be.)*
 - **How they put the Titans to sleep** *(established)*: with **old magic**, bound into the temples and relics.
 - **How a beast becomes a Titan.** Great age, kinship with Titans, the strength of a bond, and finally an elder Titan's gift. The lion and the dragons reach Titan scale only because others gave something up for them.
 
-**The end of the age** *(established)*: at the end of Book 3, no Titans appear to remain. Their apparent end breaks the bond between beasts and people everywhere, though the beasts themselves don't die, and the **Age of Elementals** begins. The fallen Titans' power breaks apart into the elements, each carrying an echo of a beast who died. The protagonists survive as near-Titans. The next series reveals that **some Titans survived**. **Nothing in Books 1–3 explains elementals:** one is seen at Book 3 ch 86, never named or explained. *(Working proposal: bonding was always Titan-born.)*
+**The end of the age** *(established)*: at the end of Book 3, no Titans appear to remain. Their apparent end breaks the bond between beasts and people everywhere, though the beasts themselves don't die, and the **Age of Elementals** begins. The fallen Titans' power breaks apart into the elements, each carrying an echo of a beast who died. The protagonists survive as near-Titans. The next series reveals that **some Titans survived**. **Nothing in Books 1–3 explains elementals:** one is seen at Book 3 ch 86, never named or explained. *(As drafted: bonding was always Titan-born.)*
 
 See `Series_Outline.md` for how the Titans' story unfolds across the three books.
 
 ## The six kingdoms
 
-The six kingdoms differ in government and in their laws on magic, bonding, and knighthood. All names and profiles below are proposals except the established details called out below. Wyldmarch counts as one of the six political territories despite having no crown; its clans govern through a confederation.
+The six kingdoms differ in government and in their laws on magic, bonding, and knighthood. All names and profiles below are settled as drafted (Oct 2026). Wyldmarch counts as one of the six political territories despite having no crown; its clans govern through a confederation.
 
 | Kingdom | Government and character | Learned magic | Bonding | Knighthood |
 |---|---|---|---|---|
@@ -125,23 +125,23 @@ The six kingdoms differ in government and in their laws on magic, bonding, and k
 
 **Settled:** the disaster behind the ban was at **Orrin**, now the Scald (see `Magic.md` §7 and `Atlas.md`).
 
-**Working proposals:** Kessmoor could be known for foundries, canals, workshops, clockwork, runic engines, and alchemical lamps. Casting spells might be criminal; bonded people might face registration, restrictions, or exile. Its technology could depend on materials harvested from beasts, creating tension with the Wyldmarch. For how the ban, bond gifts and its engines fit together, see `Magic.md` §7.
+**As drafted:** Kessmoor could be known for foundries, canals, workshops, clockwork, runic engines, and alchemical lamps. Casting spells might be criminal; bonded people might face registration, restrictions, or exile. Its technology could depend on materials harvested from beasts, creating tension with the Wyldmarch. For how the ban, bond gifts and its engines fit together, see `Magic.md` §7.
 
 ### Sarovel — kingdom of the chosen
 
 **Established:** One kingdom embraces bonding and magic and requires a bond for knighthood. The kingdom is Sarovel.
 
-**Working proposals:** Bonded status could shape noble rank and political authority. The unbonded may be called “the unchosen” and treated as lesser. The student’s later lion bond could reverse how some people treat them; the farmer’s three bonds could make him a political prize or threat. A ruler’s bond with an ancient beast would be controversial because ancient beasts regard bonding as a taint.
+**As drafted:** Bonded status could shape noble rank and political authority. The unbonded may be called “the unchosen” and treated as lesser. The student’s later lion bond could reverse how some people treat them; the farmer’s three bonds could make him a political prize or threat. A ruler’s bond with an ancient beast would be controversial because ancient beasts regard bonding as a taint.
 
 ### Hearthmere — kingdom of knights
 
 **Established:** Hearthmere is rich in magic. An ancient Titan is locked in its catacombs. The Restoration is after it. Throughout Book 1 it is known as **the Last Titan**, and when it is freed at the end of Book 1, it flies.
 
-**Working proposals about the beast below:**
+**As drafted, about the beast below:**
 
 - **What it is** *(established)*: a world destroyer, but **not always one: ages in chains made it a destroyer.** Once freed, it sets out to free five other major Titans so they can level the world.
 - **How it came to be chained** *(established)*: like the five, it was once put to sleep by the elder Titans. **Hearthmere discovered where it slept, freed it from that sleep, and chained it, then harnessed its power.** Hearthmere's temple held two relics: the Titan's own sleep relic, and the control relic in its deepest vault. **Hearthmere broke the sleep relic to wake and chain the Titan.** The control relic stayed hidden, and **Hearthmere never knew it was there**: old magic hid the vault beyond the chains. That leaves six relics in the world: five sleep relics and the control relic (seven originally, before Hearthmere broke one).
-- **Where Hearthmere's magic comes from** *(established)*: Hearthmere's wealth of magic is the chained Titan's harnessed power. Its prosperity depends on keeping an ancient beast in chains. Hearthmere's lamps without oil, warming-stones, licensed words and sweet wells all come up from below (Hale, 49: "Not a well. A wound."). *(Working proposals: it explains why Hearthmere licenses and regulates magic so carefully, and it's a secret as uncomfortable as Kessmoor's suspected use of harvested beasts.)*
+- **Where Hearthmere's magic comes from** *(established)*: Hearthmere's wealth of magic is the chained Titan's harnessed power. Its prosperity depends on keeping an ancient beast in chains. Hearthmere's lamps without oil, warming-stones, licensed words and sweet wells all come up from below (Hale, 49: "Not a well. A wound."). *(As drafted: it explains why Hearthmere licenses and regulates magic so carefully, and it's a secret as uncomfortable as Kessmoor's suspected use of harvested beasts.)*
 - **Hearthmere made the destroyer** *(follows from the canon)*: the Titan wasn't always a destroyer; ages in chains made it one, and Hearthmere chose the chains. The kingdom of knights, the student's own kingdom, created the beast that ends the world. The songs that call it a monster are true now, but they leave out who made it one.
 - **Who knows** *(established)*: only Hearthmere's rulers and the inner circle of the knightly orders know the secret. Ordinary knights, students, and the people of Hearthmere don't.
 - **Most of Hearthmere's history is built on that secret** *(established)*: its wealth, its magic, its knightly orders, and its standing among the kingdoms.
@@ -167,17 +167,17 @@ The six kingdoms differ in government and in their laws on magic, bonding, and k
 - **The stone knows the lion** *(from the drafts)*: the grey stone of the catacombs moves aside for Orrun (75, 78, 79).
 - **After the Titan (79)**: the Old Ruin and its island are gone; the river has filled the hole. Redwatch's tower is cracked; Greyhold's inner wall is split top to bottom. Hearthmere's magic has failed: lamps without oil, warming-stones, licensed words, sweet wells.
 
-**Working proposals about the kingdom:** Hearthmere is a natural home for the student’s school. Bonded and unbonded knights serve as equals, and magic is licensed. Farmland, roads, river towns, castles, and training grounds make it a useful place to introduce knightly duties and everyday stakes. Its neutrality could be strained by the Dragon Clan’s war and neighboring kingdoms.
+**As drafted, about the kingdom:** Hearthmere is a natural home for the student’s school. Bonded and unbonded knights serve as equals, and magic is licensed. Farmland, roads, river towns, castles, and training grounds make it a useful place to introduce knightly duties and everyday stakes. Its neutrality could be strained by the Dragon Clan’s war and neighboring kingdoms.
 
 **The knightly orders** *(from the drafts)*: the first rule after the oath is **"Subdue, don't kill"**, carved over Greyhold's armoury door: never kill a beast if there is any other way, because you can't know who else you're killing. Greyhold isn't the only school: **Ashford Keep** was another, now closed. Reports go up to the knight-captains; *Noted.* means read, understood, and not acted on. The Watch is a subset of the inner circle (Ruling 4). **Greyhold's arms (58):** scaffolds and timber hoardings on the river wall; four throwing-engines on the river towers, turned toward the Saltreach bank.
 
 ### Isvaren — kingdom of scholars
 
-**Working proposals:** High colleges of magic rule Isvaren. Learned magic determines rank, and bond gifts are treated as untrained or “wild” power. Wardens enforce college law. Towers, libraries, observatories, and excavated ruins could hold clues to the old realm or the ancient lion. The colleges may seek to study the farmer, possibly against his will.
+**As drafted:** High colleges of magic rule Isvaren. Learned magic determines rank, and bond gifts are treated as untrained or “wild” power. Wardens enforce college law. Towers, libraries, observatories, and excavated ruins could hold clues to the old realm or the ancient lion. The colleges may seek to study the farmer, possibly against his will.
 
 ### The Wyldmarch — wild frontier
 
-**Working proposals:** Forests, highlands, and plains where many beasts roam freely. Clans govern through councils of elders. Bonds are sacred, beasts are kin, and hunting or trading beasts is forbidden. Keepers protect beasts and people. The clans tell of Titans at the world's edge, but no one living has seen one; in Book 1 it is only legend. The ancient lion may come from here. Poaching and beast harvesting could bring the Wyldmarch into conflict with Kessmoor and Saltreach.
+**As drafted:** Forests, highlands, and plains where many beasts roam freely. Clans govern through councils of elders. Bonds are sacred, beasts are kin, and hunting or trading beasts is forbidden. Keepers protect beasts and people. The clans tell of Titans at the world's edge, but no one living has seen one; in Book 1 it is only legend. The ancient lion may come from here. Poaching and beast harvesting could bring the Wyldmarch into conflict with Kessmoor and Saltreach.
 
 ### Saltreach — the league everyone calls a kingdom
 
@@ -185,7 +185,7 @@ The six kingdoms differ in government and in their laws on magic, bonding, and k
 
 **Settled:** Saltreach is a **league of port-cities**, the Saltreach League, ruled from Corsa by the **Tide Council** of trading houses and pirate captains. It has no king and no knights, but everyone in Winshire, its own people included, calls it one of the six kingdoms. Its writ is strong on the coast and barely reaches inland: the Marches farms pay their dues to the Dragon Clan, not to the League, which is why outsiders call its northern edge lawless.
 
-**Working proposals:** trading houses and pirate captains hold power in each port. Protection is often bought. Magic may be hired by contract, and beast markets may include legal trade and illegal trafficking. Sellswords take contracts, pirates control sea routes, and outlaws find refuge. A knight-in-training would have no authority here and would need to earn trust directly. Saltreach companies could be hired by either side of the Dragon Clan’s civil war.
+**As drafted:** trading houses and pirate captains hold power in each port. Protection is often bought. Magic may be hired by contract, and beast markets may include legal trade and illegal trafficking. Sellswords take contracts, pirates control sea routes, and outlaws find refuge. A knight-in-training would have no authority here and would need to earn trust directly. Saltreach companies could be hired by either side of the Dragon Clan’s civil war.
 
 ## Factions and radicals
 
@@ -195,7 +195,7 @@ The six kingdoms differ in government and in their laws on magic, bonding, and k
 - **No bonded rider fights kin.**
 - **The ford truce.** Under the old law, the bonded may sit above a ford meeting as keepers and come down on whoever breaks the truce. It hadn't been done since Teo's grandfather's time.
 
-**Working proposals:**
+**As drafted:**
 
 - Sarovel’s unchosen may organize for equal rights, with both peaceful and violent groups.
 - Kessmoor purists may want magic banned throughout the world.
@@ -210,7 +210,7 @@ The protagonists might oppose, join, or exploit such groups. “Radical” shoul
 
 ## Landscapes and locations
 
-Established landscape types include outskirts and villages, farmlands, hunting grounds, mountains, rivers and lakes, and legendary locations. These regional details are proposals.
+Established landscape types include outskirts and villages, farmlands, hunting grounds, mountains, rivers and lakes, and legendary locations. These regional details are settled as drafted (Oct 2026).
 
 - **Outskirts and villages:** Escort travelers, defend against beasts and bandits, and help people with few resources. Villages reveal each kingdom’s laws and social structure.
 - **Farmlands:** The farmer’s home ground and a way to show the cost of the Dragon Clan’s conflict through damaged fields and threatened villages. Small beasts may live alongside people.
@@ -266,4 +266,4 @@ Established landscape types include outskirts and villages, farmlands, hunting g
 - ~~How does the Dragon Clan breed and control dragons, and how do the dragons experience that system?~~ *Settled (Oct 2026), as proposed:* see **How the Clan keeps its dragons** above.
 - ~~Where are the elder Titans, and what do people's faiths say about them?~~ *Settled (Oct 2026), as drafted:* the Lit Shore beyond the sea (Book 3 Part Two; `Series_Outline.md`).
 
-*Answered and removed:* the limits and costs of magic (`Magic.md` §2–§4, §10); which landscapes and places belong to each kingdom (`Atlas.md`, proposal); whether the seal weakens before Book 1's end (yes, from night 90: **The seal** above); where the catacomb entrances are and who guards them (**The seal** and **The keys** above).
+*Answered and removed:* the limits and costs of magic (`Magic.md` §2–§4, §10); which landscapes and places belong to each kingdom (`Atlas.md`, as drafted); whether the seal weakens before Book 1's end (yes, from night 90: **The seal** above); where the catacomb entrances are and who guards them (**The seal** and **The keys** above).

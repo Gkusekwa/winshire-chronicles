@@ -2,6 +2,8 @@
 
 The home of the Winshire books: the series bible and the manuscripts. Keep established canon consistent across documents; mark new possibilities as working proposals until they are agreed.
 
+**Status (Oct 2026):** the author has accepted the drafts of all three books as written. The Bible, the chapter plans and the maps follow them, and where any document differs from a draft, the draft wins. Only the publishing and audiobook choices are open (`Publishing.md`).
+
 **Status (Oct 2026):** all three books are in first draft, 253 chapters (Book 1: 79, Book 2: 88, Book 3: 86). The whole trilogy was audited and fixed in October 2026, and what that settled is recorded in the Bible and the chapter plans. The only open questions are the publishing choices at the end of `Bible/Series_Outline.md`.
 
 ## What's here

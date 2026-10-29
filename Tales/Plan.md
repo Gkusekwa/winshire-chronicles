@@ -129,7 +129,7 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 - **When:** Book 1 night 143 to Book 2 day 6.
 - **What happens:** the cat lies beside the beasts who'll grieve, one after another, through the night the gate falls. It doesn't leave Greyhold until there's nothing left to keep.
 - **Ends on:** the cat sitting on Liss's step.
-- **Depends on:** Bestiary (great cats; the grey cat is of the old lions' kind, proposal); Book 1 ch 1, 9, 27, 37.
+- **Depends on:** Bestiary (great cats; the grey cat is of the old lions' kind, as drafted); Book 1 ch 1, 9, 27, 37.
 - **Must not reveal:** what it is.
 
 ---
@@ -167,7 +167,7 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 - **POV:** an olifant cow of Sarovel's royal herd.
 - **When:** Book 2, the fall of Solenne (60–63).
 - **What happens:** nine generations in the stables; a language with no map; then the Grace fails and a wild cow comes down to the walls, and the herd follows her out along a road it didn't know it remembered.
-- **Depends on:** Bestiary (olifants, proposal Oct 2026); Book 2 ch 55–63.
+- **Depends on:** Bestiary (olifants, settled Oct 2026); Book 2 ch 55–63.
 
 ### 18. Nine Days *(Wren and Ildra)*
 - **POV:** Wren.
@@ -180,7 +180,7 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 - **POV:** a kite-rider girl of the Pass Wardens.
 - **When:** Book 2, the Glasswater waking (36–37).
 - **What happens:** she carries Idony's warning across the flood ahead of the water on a stormkite, and gets Nessa's ferry off the shore.
-- **Depends on:** Bestiary (stormkites, proposal Oct 2026); Book 2 ch 29, 36, 37.
+- **Depends on:** Bestiary (stormkites, settled Oct 2026); Book 2 ch 29, 36, 37.
 
 ---
 
@@ -199,7 +199,7 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 - **When:** Book 3 days 0–24.
 - **What happens:** the lights over the Worldsend seen from a roc's back, and the six coming down onto the Hallow Plains. The first warning reaches Elder Ysolt, and the clans start west.
 - **Ends on:** a lion on the horizon.
-- **Depends on:** Bestiary (rocs, proposal Oct 2026); Book 3 ch 1–7.
+- **Depends on:** Bestiary (rocs, settled Oct 2026); Book 3 ch 1–7.
 
 ### 22. The Empty Chair *(Arn Varr)*
 - **POV:** Arn.

@@ -359,7 +359,7 @@ Lisska and Orrun had been talking all night. He could tell. Lisska had that look
 
 *I told him about the chain,* she said. *In the gale. He didn't believe me.*
 
-*I believed her,* said Orrun.
+*He says he believed me,* said Lisska.
 
 *He told me about the stonehorns,* said Lisska. *At the river. I believed him.*
 

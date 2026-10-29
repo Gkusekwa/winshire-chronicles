@@ -82,9 +82,9 @@ Wynn looked at Rowan.
 
 Wynn got down. He asked for a shoe. The woman ran and came back with one, a child's clog, worn through at the toe.
 
-Wynn held it under Ash's nose. Said a word to him, quietly. Not a working word. Just a word. Ash's name, and the name of the thing he wanted.
+Wynn held it under Ash's nose. Said a word to her, quietly. Not a working word. Just a word. Ash's name, and the name of the thing he wanted.
 
-Ash put his nose down and went.
+Ash put her nose down and went.
 
 ---
 
@@ -114,7 +114,7 @@ An old man near Rowan's stirrup said it. To nobody. "How does it still do that?"
 
 He looked up at her.
 
-"The lamps were the Deep. The wells. The words." She looked at Ash, sitting now in the court with his tongue out, being stroked by twenty hands. "That's a hound and a man who've agreed about something. You can't drain that out of the ground. It isn't in the ground."
+"The lamps were the Deep. The wells. The words." She looked at Ash, sitting now in the court with her tongue out, being stroked by twenty hands. "That's a hound and a man who've agreed about something. You can't drain that out of the ground. It isn't in the ground."
 
 The old man thought about it.
 

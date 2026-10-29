@@ -15,7 +15,7 @@ Draft notes: Days 63–66. The first hard frost comes on the night of day 62. De
 - A man in grey stands in the stern of a barge with his arm out, not fighting; the six silent hounds move when his arm moves. One handler drives the pack.
 - On the second night (night 64) Maren goes to the island after midnight. She can't not. She sits in her place and cries, for the first time on the island. The lion comes out of the trees and, for the first time, crosses the stream to her side. It lies down at ten paces, on her bank.
 - Ide dies at dusk on day 65. They burn her with Bracken at dawn on day 66. They go together, the chaplain says. Maren doesn't hit him.
-- The echo: at dusk on day 65, as Ide dies, the gate watch see three great shapes very high over the river by the island in the moonlight, going north. Haverly tells her on the wall on the night of day 66. Kesh saw them first and screamed.
+- The echo: at dusk on day 65, as Ide dies, the gate watch see three great shapes very high over the river by the island in the starlight, going north. Haverly tells her on the wall on the night of day 66. Kesh saw them first and screamed.
 - Rowan, at Ide's pyre, looks at the silent hounds' collars, which Pell brought back, and at the mark. She says nothing. She writes.
 - Magic touches: licensed warming-stones packed round Ide, warm and no use against a withering; the surgeon has no word for it, licensed or not.
 notes -->
@@ -298,7 +298,7 @@ Maren looked at him.
 
 "Three what?"
 
-"Dragons," said Haverly. "Very high. In the moonlight. Over the river. One big, one middling, one small. Going north. Not fast. Like geese. Like they were going somewhere they'd been before." He was quiet. "Callis saw them too. He says I'm mad. Wynn says he saw something but it was cloud." He looked down at Kesh on his fist. "Kesh saw them. Kesh doesn't lie."
+"Dragons," said Haverly. "Very high. In the starlight. Over the river. One big, one middling, one small. Going north. Not fast. Like geese. Like they were going somewhere they'd been before." He was quiet. "Callis saw them too. He says I'm mad. Wynn says he saw something but it was cloud." He looked down at Kesh on his fist. "Kesh saw them. Kesh doesn't lie."
 
 "The farmer's," said Maren.
 

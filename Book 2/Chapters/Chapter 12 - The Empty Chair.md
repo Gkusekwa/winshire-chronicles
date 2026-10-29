@@ -10,7 +10,7 @@ Echo of the other's story: From the Scarfell, Lisska watches the lion go east, a
 Status: near-final draft
 Draft notes: Day 17, morning, to day 25, dawn. Decided here (settled as drafted):
 - Day 17, morning (the echo): Lisska, whom Calder sent back down to the edge on day 16 to watch (she'd come home at dusk on day 15, ch 10), comes back to the setters' ledge. Before light she saw the lion go east across the moor alone with the woman, and the heather moving behind them as if wind were going through it where there was no wind: the ground humming. Calder doesn't say anything for a long time.
-- Day 18: Gunna's three dragons come over the moor, walking pace, with the Fenns, the greys and Old Grey; Calder walks up to the old hatching caves above Coldtarn to meet them (four leagues; the wing is five days set and Aurveth lets him go for a day). The caves: warm rock, the old hatching hollows like great stone bowls in the floor, a few wintering dragons still in the back; the warm spring that never freezes runs out of the cave mouth to the tarn. Wren on Old Grey. "She wouldn't come in." Twice. The stone with the white ring through it, out of her shirt: "She found it on the edge. She didn't say what it's for." He keeps it in his coat with the knife and the ring. Ada: "She'd not have come, son. Don't be a fool about it." Bel hugs him, once, hard.
+- Day 18: Gunna's three dragons come over the moor, walking pace, with the Fenns, the greys and Old Grey; Calder walks up to the old hatching caves above Coldtarn to meet them (six leagues; the wing is five days set and Aurveth lets him go for a day). The caves: warm rock, the old hatching hollows like great stone bowls in the floor, a few wintering dragons still in the back; the warm spring that never freezes runs out of the cave mouth to the tarn. Wren on Old Grey. "She wouldn't come in." Twice. The stone with the white ring through it, out of her shirt: "She found it on the edge. She didn't say what it's for." He keeps it in his coat with the knife and the ring. Ada: "She'd not have come, son. Don't be a fool about it." Bel hugs him, once, hard.
 - Days 19–20, Varrhold: the spring pens. The breeding pens on the lower ledges are shut now, chosen pairs behind oak bars, the Clan's keepers feeding them Scarfell mutton; Calder sees it properly for the first time. Aurveth: *That is the shame I told you of.* He asks why the dragons stand it. *The eggs. The caves. The bargain. And habit, which is the strongest chain there is.* (World.md, "How the Clan keeps its dragons".)
 - Day 20, the hall: the chief's chair. A high-backed chair of black oak at the middle of the high table, between where the two fires were, empty. Arn sits beside it, never in it. Gorm: a chief is named at Coldtarn by both halves of the Clan pouring together, and half the Clan is at Skarrow. Until then nobody sits in it. Arn had a cloth put over it after Teo. It's still there.
 - Day 21: a rider from Skarrow on a grey hill-pony, Ulric's man, with one line, said at the gate in front of everyone: "Tell the farmer I listened to the end. Tell him when he's proof, I'll come and look at it." Arn hears it from the wall and goes inside.
@@ -65,7 +65,7 @@ He didn't ask her what that meant. He thought he didn't want to know yet.
 
 Gunna brought them over the moor on the eighteenth day.
 
-He went up to meet them. He hadn't been off the ledge for six days, and the old one let him go for one. *Go,* she said. *The bone's knitting. It doesn't need you to watch it.* So he walked up past Coldtarn in the morning, four leagues, up the long brown slope above the hold where he'd walked behind the old chief's bier in the autumn, past the black water, where the burned stones on the shore were cold, and on up, into the fells, to the old hatching caves.
+He went up to meet them. He hadn't been off the ledge for six days, and the old one let him go for one. *Go,* she said. *The bone's knitting. It doesn't need you to watch it.* So he walked up past Coldtarn in the morning, six leagues, up the long brown slope above the hold where he'd walked behind the old chief's bier in the autumn, past the black water, where the burned stones on the shore were cold, and on up, into the fells, to the old hatching caves.
 
 He'd never been inside them. He'd seen them from Coldtarn's shore: a row of black mouths along the cliff above the tarn, high up, with a stain of green going down from the middle one where water ran out of it. In the winter the dragons had slept there, Aurveth said. Not the bonded ones. The others, the ones who hunted in the high glens and came back when it got cold.
 
@@ -89,7 +89,7 @@ He put his hand flat on the floor.
 
 The pulse came up into his palm so strong he nearly took his hand away. Not a heart through a wall here. A heart under his hand.
 
-*Yes,* said Aurveth in his head, very faint, four leagues off. *There.*
+*Yes,* said Aurveth in his head, so faint at six leagues that it was more feeling than word. *There.*
 
 ---
 

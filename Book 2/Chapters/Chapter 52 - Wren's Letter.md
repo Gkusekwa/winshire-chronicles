@@ -10,7 +10,7 @@ Echo of the other's story: Lisska gone west since the dark of the moon, and the 
 Status: near-final draft
 Draft notes: Days 255–281. Decided here (settled as drafted):
 - Days 255–263: back up the coast from Corsa with Aurveth, slowly, the way they came (eight days; she rests more). The Clan's grain wagons on the Way all winter. Days 263–277 at Bel's table with Ada and a slate and Clan tally-paper: the letter to Maren, two weeks, eleven thrown in the fire (ch 51). Ada won't help: she sits there. Ada adds the song's line at the end and the question mark; she won't say why yet: "Send it. Ask her what she thinks." Lisska leaves west on day 278 (the dark of the moon) with it.
-- Wren lives at the hatching caves with Gunna through the winter (the warm spring; Gunna's three; the unbonded winterers at the back); Calder at the hold, four leagues down. She's been learning letters from Ada all autumn, and from Gunna's tally-boy Leif.
+- Wren lives at the hatching caves with Gunna through the winter (the warm spring; Gunna's three; the unbonded winterers at the back); Calder at the hold, six leagues down. She's been learning letters from Ada all autumn, and from Gunna's tally-boy Leif.
 - **Wren's letter**: brought down to the hold by Leif on day 279, on a bit of slate wrapped in a cloth, not paper ("paper's dear"), scratched with a nail, small careful letters, better spelled than his; he can read it, all of it, by himself, at once: the first thing he's ever read straight through. Text (as drafted): *PAPA. OLD GREY COMES WHERE I GO NOW. NOBODY TELLS HIM. HE JUST COMES. THE LITTLE RED ONE STANDS AT THE BACK BY THE WATER AND DOES NOT LOOK AT ANYTHING. I AM GOING TO SIT WITH HER. COME FOR MIDWINTER. COME FOR MIDWINTER. WREN.* (Twice, as she says things.)
 - Midwinter day 281 he walks up to the caves (Kharrak flies; he walks, because Wren will want to see him come up the path). Old Grey at the cave mouth: the big grey dray-beast, scarred at the neck where the collar was; he walks out to meet Wren when she comes out, and walks behind her back in, and nobody leads him. Bel's grief: Old Grey's forefoot killed Joss while bound (Book 1 ch 50); Bel is at the hold, not the caves; she hasn't come up since Old Grey began following Wren; Calder doesn't push it.
 - The yearling at the back of the caves by the warm spring, standing, not lying: on her feet, head level, eyes open, looking at nothing; she eats when food is put under her nose and not otherwise. Gunna: "She stands all night. Like a horse asleep. Only she isn't asleep."
@@ -160,7 +160,7 @@ Leif waited.
 
 He walked up on midwinter day.
 
-Kharrak flew. Calder walked. Four leagues up the moor from the hold to the caves above Coldtarn, in the snow, on the path the Clan's feet had worn. Ada came with him, on Mabbin, the old grey dray-beast, with a basket.
+Kharrak flew. Calder walked. Six leagues up the moor from the hold to the caves above Coldtarn, in the snow, on the path the Clan's feet had worn. Ada came with him, on Mabbin, the old grey dray-beast, with a basket.
 
 *Why are you walking?* said Kharrak. From somewhere high up and grey. *I could have you there before noon.*
 

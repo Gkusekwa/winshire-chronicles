@@ -39,7 +39,7 @@ Voices for a multi-voice production. A single-narrator production uses only **Na
 | **Rook** | M | adult | 85 | A forgettable, pleasant voice that never rises; quietly menacing. |
 | **Corvin** | M | adult | 83 | Corvin Vale. Still, patient, never raises his voice. Same timbre as Cassian, colder. |
 | **Cassian** | M | adult | 100 | Cassian Vale, the public face. Same timbre as Corvin, warm and open: a speaker who wins crowds. |
-| **the Captain** | M | adult | 38 | Leader of the island hunters. Saltreach voice; curt. |
+| **the Captain** | F | adult | 38 | Leader of the island hunters, a woman, tall and broad. Saltreach voice; curt. |
 | **Coll Brask** | M | adult | 26 | Wendmouth sellsword. Mercenary candour. |
 | **Gannet** | M | adult | 21 | Saltreach boatman and poacher; a smile that arrives first. |
 | **Man 1** | M | - | 134 | Shared voice for minor men (one of three, assigned by name so each minor speaker keeps one voice). |

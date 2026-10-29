@@ -246,7 +246,7 @@ It was Arn who turned to the shore first.
 
 He held up his hand. In it, the board. The plank from the Brack steading, with the boot-print in clay. He'd carried it out onto the stone under his arm. Calder hadn't seen.
 
-"He killed my brother at the ford. With a hired knife, on a borrowed horse. He killed Hallam Brecc on the hill. He killed the Sallow girl and Sigrun Holm and Dag Rorke at the mill, with one bolt, bought, out of a hedge. He burned the Brack steading before midsummer and left our grey on its door so I'd ride on my uncle. He came for our dragons with smoke on midsummer night and killed Hallam's grandson on the Choosing Ledge." He put the board down at his feet on the black stone. "The Clan stands against him. Red thread and grey. All of it. From the black water."
+"He killed my brother at the ford. With a hired knife, on a borrowed horse. He killed Hallam Brecc on the hill. He killed the Sallow girl and Sigrun Holm and Dag Rorke at the mill, with one bolt, bought, out of a hedge, that started it. He burned the Brack steading before midsummer and left our grey on its door so I'd ride on my uncle. He came for our dragons with smoke on midsummer night and killed Hallam's grandson on the Choosing Ledge." He put the board down at his feet on the black stone. "The Clan stands against him. Red thread and grey. All of it. From the black water."
 
 On the shore nobody moved.
 

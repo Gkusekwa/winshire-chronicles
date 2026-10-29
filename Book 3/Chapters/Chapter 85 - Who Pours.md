@@ -135,7 +135,7 @@ He couldn't see them. He knew they were there.
 
 The tarn was smaller.
 
-The fall had taken a third of it. The western shore, the shallows, the pouring-stone where Aurveth had lain a hundred years: under the stone. The black middle still open. Still steaming. In a ring of white ice. Smaller.
+The fall had taken a third of it. The western shore, the shallows, the pouring-stone where Aurveth had lain a year: under the stone. The black middle still open. Still steaming. In a ring of white ice. Smaller.
 
 And Hollow Beck coming out somewhere further west, under the new slope, black, running away.
 
@@ -399,7 +399,7 @@ He looked at the farmer. The farmer didn't move.
 
 "Ilse Rowan," said Arn. "Marshal of the Accord."
 
-The knight with the bandaged arm put her hand on her hound's head.
+The knight with the bandaged arm put his hand on his hound's head.
 
 "Tobin. Of Sarovel. Who led the hands."
 

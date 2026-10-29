@@ -24,7 +24,7 @@ for _it in MI.ITEMS:
         _c["keep"] = True
         B.ITEMS.append(_c)
 # The hatching caves: on Coldtarn's bowl, across the tarn from the crag where the hall is (Book 3 ch 59, 85),
-# four leagues from Varrhold (Book 2 ch 12, 52): "above Coldtarn", as Book 1 has it. Book 1's map uses the same point.
+# six leagues from Varrhold (Book 2 ch 12, 52): "above Coldtarn", as Book 1 has it. Book 1's map uses the same point.
 item("caves", "The hatching caves", "cave", 189.6, 89.9, 0,
      "The Clan's old hatching caves on Coldtarn's eastern rim, warm rock round a spring that never freezes. The Fenns winter here.", carry=True, keep=True, dx=0.3)
 
@@ -413,8 +413,8 @@ item("anchors69", "The cage's anchors", "cage", 174.3, 105.9, 69, "Kessmoor engi
 item("fleet70", "The Strand fleet", "ship", 220.5, 206.0, 70, "Day 341: eleven ships, four Kessmoor engine-barges, Vey's black ship with the wyverns on deck.", dx=0.3)
 item("hulls70", "Hull-runes burning", "fire", 216.0, 200.8, 70, "Night 344, the stir: the runes on every hull in Gullhaven glow, then burn.", label=False)
 item("reeds71", "Corvin's ship in the reeds", "ship", 235.5, 185.5, 71, "Masts down in a reed-channel two leagues inland of the coast, east of Gullhaven.", dx=0.3, size=0.8)
-item("ferriby72", "Ferriby's beasts taken", "beast", 170.8, 99.0, 72, "A band of broken men with three binders walks Ferriby's oxen and dogs north into the Brackenwood, empty-eyed.", dx=-0.3)
-item("penfold72", "Binders turned at Penfold", "battle", 169.9, 92.9, 72, "Day 346: driven into a beck, the bound cows come out of the running water themselves.", label=False)
+item("ferriby72", "Ferriby's beasts taken", "beast", 173.4, 102.9, 72, "A band of broken men with three binders walks Ferriby's oxen and dogs north into the Brackenwood, empty-eyed.", dx=-0.3)
+item("penfold72", "Binders turned at Penfold", "battle", 172.7, 104.4, 72, "Day 346: driven into a beck, the bound cows come out of the running water themselves.", label=False)
 item("ferryrun72", "The ferry runs night and day", "route", 175, 107, 72, "Over the river, everyone, with their beasts, and up the Way: running water stops a binding.",
      path=[(174.4, 107.15), (175.0, 107.35), (176.2, 106.0), (177.1, 104.0)], label=True, realm=False)
 item("battle73", "Vey's fleet on the reef", "battle", 218.3, 203.0, 73, "Harpoons, engines, the house drawers on the bare reef; the tide turns and the running water breaks them.", dx=0.3)

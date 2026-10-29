@@ -94,7 +94,7 @@ She saw it past the Titan's head, by the light of Idony's lantern, where he'd se
 
 In the middle of it, a plinth.
 
-Like the one under the Ring that she'd heard of and never seen, where the first egg had been. Waist-high. Grey.
+Like the one under the Ring, where she'd put her hand in the warm hollow the first egg had left. Waist-high. Grey.
 
 And on the plinth, a ring.
 

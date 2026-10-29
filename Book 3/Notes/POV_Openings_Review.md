@@ -1,0 +1,265 @@
+# Book 3: POV Openings Review
+
+Scope: all 86 chapters in `Book 3/Chapters/`. For each one I read the prose opening (the first ~250 words after the `<!-- notes -->` block) and checked whether, within the first paragraph or two, the reader learns:
+
+- **(a) Who:** whose head we are in.
+- **(b) Where:** where they are.
+- **(c) When:** roughly when, relative to what we last saw.
+- **(d) Want / war:** what they want or are doing now, and how it ties to the war.
+
+Key: **P** = pass, **W** = weak (you can work it out, but the page doesn't say it, or says it late), **F** = fail (missing, or likely to mislead).
+
+House style note: the book's openings lead with a pronoun and let a cue name the POV (Orrun or "the lion" for Maren; Kharrak, Lisska or Aurveth for Calder; Ildra for Arn; the glasses for Idony). When that cue arrives in the first paragraph or two I count (a) as a pass even if the name comes later. Every chapter in Book 3 changes POV from the one before it, so every opening was checked as a viewpoint change.
+
+## Table
+
+| Ch | POV | a | b | c | d | Note |
+|---|---|---|---|---|---|---|
+| 1 | Maren | P | P | P | P | Greyhold's hill, second morning, Orrun, the dig. A model opening. |
+| 2 | Calder | W | P | P | W | No dragon cue in the opening and his name comes at ~800 words. The want (writing) is private and there's no war link yet. |
+| 3 | Idony | P | P | P | P | Window, glasses, ferry house. Davin's letter ties in to "what's coming". |
+| 4 | Maren | W | P | W | P | First paragraph reads like Idony's POV carrying on from ch 3 at the same table ("He looked at Maren"). No time marker. |
+| 5 | Arn | P | W | W | W | Arn's first POV. Varrhold is never named, there's no day count, and the riders' demand and the war come after the opening. |
+| 6 | Calder | P | P | P | W | Coast Road and day 12 are clear. Why he's on the coast is only implied. |
+| 7 | Maren | P | P | P | W | Ysse ford, day 16, lion. The opening doesn't restate that she's come to bring the clans out. |
+| 8 | Tobin | P | W | P | W | Tobin's first POV. Solenne is never named ("low city"). The famine is vivid, but his own want is missing. |
+| 9 | Calder | P | P | P | P | Tidehall steps, day 22. Ulric's speech carries the war. |
+| 10 | Rowan | P | P | P | P | Named in line 3. Jetty, day 29, summons. Clean. |
+| 11 | Maren | W | P | P | P | A "she" chapter right after a Rowan "she" chapter. Maren isn't named for 448 words. Tova and the stonehorns are the only cue. |
+| 12 | Calder | P | P | P | P | Ironhythe, day 60, Kharrak and Lisska, the summons. |
+| 13 | Kit | P | W | P | W | Kit's first POV. Blackwater isn't named in the opening. We hear the stone will "ruin" her but not why (the Bell, the channel, the Ostrey debt). |
+| 14 | Maren | P | P | P | W | Blackwater, day 76, Orrun. The opening doesn't say why they've come. |
+| 15 | Calder | P | W | P | P | "The signal-field", "the harbour mouth": Corsa isn't named, and Blackwater also has a chain. |
+| 16 | Idony | P | P | P | P | Salvage hold, day 80, far-stone. |
+| 17 | Maren | P | P | P | P | Orrun at word 1, day 84, the channel. |
+| 18 | Arn | P | P | P | P | Pens facing west, days 41 and 71. The callback to ch 5 anchors it. |
+| 19 | Calder | P | P | P | P | Tidehall roof, Lisska, days 87/88, the houses flee. |
+| 20 | Kit | P | P | P | P | Houses arrive at Blackwater, day 89. |
+| 21 | Maren | P | P | P | P | Day 94, Kittiwake, slipping out. |
+| 22 | Calder | P | P | P | P | Skarrow, Ulric's burning, day 89 backstory. |
+| 23 | Rowan | W | P | P | P | "She" after a Calder chapter. The only cue is "Marshal" inside Thale's order, and her name comes at ~1100 words. |
+| 24 | Maren | W | P | P | P | The POV is barely there in the first 250 words (one "she'd ever seen"). No Orrun and no name until ~470. |
+| 25 | Kit | P | P | P | P | The last milestone, the Needle, her father's rule. |
+| 26 | Calder | P | P | P | P | Explicit step back to day 112. Aurveth failing. The fleet. |
+| 27 | Maren | P | P | P | P | Lagoon, day 119, the road rising. |
+| 28 | Calder | P | P | P | P | Jory, Aurveth, the fleet at *forty-one*. |
+| 29 | Kit | P | P | P | P | Custom, tenth day since landfall, the knight overdue. |
+| 30 | Maren | P | P | P | P | Day 127, the milestone, Orrun. (The opening day falls before the notes' Days 130–135. This looks intended.) |
+| 31 | Idony | P | P | P | P | Gannet, day 135, the light on the hill. |
+| 32 | Calder | F | P | P | P | Calder is absent from the first ~290 words, and this follows an Idony "he" chapter. Jory is the only person on the page. |
+| 33 | Tobin | P | P | W | W | No day count after a ~90-day gap since ch 8. The opening doesn't say what the yards are building or why. |
+| 34 | Maren | P | P | P | P | Orrun at word 16, day 137, the Mother rises. |
+| 35 | Calder | P | P | P | P | The question to the gods is the war, stated outright. |
+| 36 | Idony | P | P | P | P | Blackwater memory, then day 144 in the hall. |
+| 37 | Maren | P | P | P | P | Day 145, the farmer gone, the ridge. |
+| 38 | Arn | P | P | P | P | Gorm's letter, day 139, Rowan's order to empty the coast. |
+| 39 | Calder | P | P | P | W | Days 143–146 and the crossroads are clear. Why he's still sitting under the Wayfarer's light isn't. |
+| 40 | Maren | P | P | P | P | Lagoon, day 147, the contract, "another road". |
+| 41 | Rowan | W | P | W | P | Rowan isn't named for ~1400 words. Only "fifty days" for time. |
+| 42 | Calder | P | P | P | P | Day 149, crossroads, "Home". |
+| 43 | Maren | P | P | P | P | Day 181, out of the sea onto the Coast Road. |
+| 44 | Kit | P | P | P | P | Day 172, home through the chain. |
+| 45 | Calder | P | P | W | W | No day count (last Calder was day 150, this is 185+). Convalescence with no war link in the opening. |
+| 46 | Rowan | W | P | P | P | "She saw it from the barn's roof." Name at ~790, "Marshal" at ~270. |
+| 47 | Maren | P | P | P | W | Day 206 and the camp are clear. The opening is all cost (dogs, cold) with no immediate aim. |
+| 48 | Tobin | W | P | P | P | The only cue is "his hands", and the name comes at ~1540 words. Follows a Maren chapter. |
+| 49 | Calder | P | P | P | P | Days 208/224, the air to the Thornwood. |
+| 50 | Maren | P | P | P | P | Orrun at ~70, horns, the burning edge. |
+| 51 | Calder | W | P | P | P | "He went in on foot." No dragon or name until ~345. Follows Maren. |
+| 52 | Idony | P | W | W | P | The whole opening is a flashback to day 207, and the present day (236+) and place aren't anchored. |
+| 53 | Maren | P | P | P | P | "The lion" at word 2, days 236–241, Brede. |
+| 54 | Calder | P | P | P | P | Day 245, Rowan, Coldtarn, Ada. |
+| 55 | Rowan | W | P | P | P | "She'd thought it would take a week." Follows Calder. Name at ~500. |
+| 56 | Maren | P | P | P | P | Stormkite girl, "Maren looked at the Wend." |
+| 57 | Idony | P | P | P | P | Midwinter fires, Isvaren, his glasses. |
+| 58 | Calder | P | P | P | P | Day 278, Lisska, watching the river for the Bell. |
+| 59 | Maren | P | P | P | W | Day 294, Coldtarn. The reason is withheld ("Liss didn't ask why"), probably on purpose. |
+| 60 | Kit | P | P | W | P | The Sheepford and the barges are clear. There's no day count (last Kit was day 195; this is 295). |
+| 61 | Calder | W | P | P | P | Never named in the opening. He's "at the back", and "three dragons" only comes at ~150 words. |
+| 62 | Tobin | W | P | P | P | "He'd never seen the road-engines." Name at ~318. |
+| 63 | Maren | P | P | P | P | "From his head", eastern wall, dawn, the first Titan. |
+| 64 | Calder | P | P | P | P | Kharrak at ~20, the ridge, the five rise. |
+| 65 | Rowan | W | P | P | P | Rowan is never named anywhere in the chapter. Davin and Haverly's edge are the cues. |
+| 66 | Maren | P | P | P | P | Orrun at ~16, the Saltreach bank humming. |
+| 67 | Arn | P | P | P | P | Arn and Ildra in the first 50 words. The wounded go to Varrhold. |
+| 68 | Calder | P | P | P | P | Aurveth at ~19, the second dawn. |
+| 69 | Idony | P | P | P | P | The hub landing, his chair, the glasses. |
+| 70 | Maren | P | P | P | P | In medias res on the Titan's back, but the lion and Orrun are in the first 90 words. |
+| 71 | Tobin | P | P | P | P | Wardle's orders at noon, Tobin named by ~75. |
+| 72 | Calder | P | W | W | P | "On the lion's head in the smoke": where in the eddy, and how long after noon, isn't clear. |
+| 73 | Rowan | P | P | P | P | "Her line", "Hers", noon. Named by ~264. Good. |
+| 74 | Maren | P | P | P | P | Orrun at word 9, the fourth chain. |
+| 75 | Calder | P | P | P | P | Aurveth's eyes, the Titan over the eddy. |
+| 76 | Kit | P | P | P | P | Sheepford, day 318, the ketch. |
+| 77 | Maren | P | P | P | P | Carried "in his jaws", the farmer's word, north. |
+| 78 | Calder | P | P | P | P | Kharrak at ~15, Harrow's End, dawn. |
+| 79 | Kit | W | P | P | P | "She saw it by starlight." Only Gannet and the dog as cues. Named at ~670. Follows Calder. |
+| 80 | Maren | P | P | P | P | The hill walking, "on his head", the door. |
+| 81 | Calder | P | P | P | P | Lisska at ~11, the tail of the column. |
+| 82 | Idony | P | P | W | P | No marker of the three days since the bank. |
+| 83 | Maren | P | P | P | P | Arn and the twenty dragons. "said Maren". |
+| 84 | Calder | P | P | P | P | Named by ~128. The hall, the silence. |
+| 85 | Arn | W | P | P | P | "He'd thought she might" comes right after a Calder chapter that was watching Arn and Ildra. Arn isn't named for ~1400 words. |
+| 86 | Maren | P | P | P | P | The stone sense and the Warden's coat point to Maren. Day 330. |
+
+**Totals:** 54 chapters pass on all four. 31 are weak on at least one. 1 fails (ch 32).
+
+## Fixes for weak and failing chapters
+
+Each fix is one or two sentences added, or a pronoun swapped for a name. Nothing else changes.
+
+**Ch 2 (Calder): a, d.** Opening line: *"He'd written two lines."*
+After *"You'll need more paper," she said.* add:
+> Calder looked at the two lines a long time. Down on the coast Gullhaven's people were on the road with nothing, and up here he was writing about a harvest fair.
+
+**Ch 4 (Maren): a, c.** Opening line: *"The reader had the silk out on Liss's table."*
+Change it to:
+> On the eighth day the reader had the silk out on Liss's table, and Maren stood at the end of it and watched his hands.
+
+**Ch 5 (Arn): b, c, d.** Opening line: *"The chair was under its cloth."*
+After *"Where he'd sat for a year."* add:
+> Eight days since the six went up off the Scarfell. Below him Varrhold's riders sat at the long tables and waited to hear what the farmer had said about the Clan's dragons.
+
+**Ch 6 (Calder): d.** Opening line: *"The Coast Road ran along the edge of everything."*
+After *"And on the road, between the gates, people."* add:
+> Gullhaven's people. He'd come down the coast with Ulric's riders to find them somewhere that wasn't a road.
+
+**Ch 7 (Maren): d.** Opening line: *"She crossed the Ysse at a drove ford."*
+At the end of the first paragraph (after *"Orrun went in first."*) add:
+> The six were on the Plains, and the clans would run west in front of them with their herds, into a country whose council had shut the border. Somebody had to bring them across.
+
+**Ch 8 (Tobin): b, d.** Opening line: *"The olifants hauled rubble for bread like everyone else."*
+After *"It was all there was, and it wasn't enough."* add:
+> Solenne's low city had bread for a week, the tribunes said. Tobin had three thousand hands on the ruins and nothing to give them after that.
+
+**Ch 11 (Maren): a.** Opening line: *"The grass went on being grey."*
+Change *"She'd stopped counting the leagues"* to:
+> Maren had stopped counting the leagues
+
+**Ch 13 (Kit): b, d.** Opening line: *"The stone was still there."*
+After *"She was afraid. She looked at it anyway."* add:
+> It lay across the Merrins' own channel out of Blackwater, where the Bell's waking had dropped it. While it lay there no Merrin boat could reach the road, and the debt to Ostrey went on growing.
+
+**Ch 14 (Maren): d.** Opening line: *"The inlet saw him at dusk."*
+After *"Below, the town."* add:
+> They'd come more than two hundred leagues on the farmer's word to find a family who knew a road over the sea. They hadn't a copper between them.
+
+**Ch 15 (Calder): b.** Opening line: *"The chain was a black line on the water."*
+Change *"He saw it every morning from the signal-field."* to:
+> He saw it every morning from Corsa's signal-field.
+
+**Ch 23 (Rowan): a.** Opening line: *"It came as the farmers said weather came on the Downs."*
+Change *"She'd known for forty days."* to:
+> Rowan had known for forty days.
+
+**Ch 24 (Maren): a.** Opening line: *"The first pier came on the ninety-seventh."*
+After the first sentence add:
+> Maren saw it from the bows, with her bad arm inside her coat where Kit wouldn't see it.
+
+(This uses the hidden numbness from the beats.)
+
+**Ch 32 (Calder): a (fail).** Opening line: *"They came to the last pier at dusk on the hundred-and-thirty-seventh."*
+After *"Ninety-four people sunburned and salt-cracked and silent in the boats"* add:
+> Calder had counted them every dusk for ten days. Ninety-four. He counted them again now.
+
+(If you want to place him too, add a word on where he rides: on Kharrak, or in a boat. The opening never says.)
+
+**Ch 33 (Tobin): c, d.** Opening line: *"The clock said six and Pike walked the yards."*
+After *"and she was."* add:
+> Three months since Tobin had walked the hands up out of the low city. This was what they were building: a cage of engines and chain for the Accord, in case nothing else could hold a Titan.
+
+**Ch 39 (Calder): d.** Opening line: *"Jory had taken the ninety-three to the lagoon."*
+At the start of the third paragraph (*"He sat up the night of the hundred-and-forty-sixth..."*) put first:
+> He'd stayed at the crossroads because the Wayfarer had said it had only one thing left, and he meant to be there when it gave it.
+
+**Ch 41 (Rowan): a, c.** Opening line: *"The camp was three leagues long."*
+Change it to:
+> By the hundred-and-forty-fifth the camp was three leagues long.
+
+Then change *"as far as she could see from the barn's loft"* to *"as far as Rowan could see from the barn's loft"*.
+
+**Ch 45 (Calder): c, d.** Opening line: *"They were too big for the yard."*
+Change *"He'd known that the night he came down."* to:
+> He'd known that the night he came down, on the hundred-and-fiftieth.
+
+After *"He couldn't climb the slope to the rim without stopping twice."* add:
+> Sixty leagues south the Last Titan lay in the Mere, and he couldn't climb a slope.
+
+**Ch 46 (Rowan): a.** Opening line: *"The lion came on the hundred-and-ninety-first."*
+Change *"She saw it from the barn's roof at noon."* to:
+> Rowan saw it from the barn's roof at noon.
+
+**Ch 47 (Maren): d.** Opening line: *"The dogs wouldn't come to her now."*
+At the end of the second paragraph (after *"...a hill."*) add:
+> In the barn the council was choosing a Titan to kill. Whichever it chose, it would want the lion for it.
+
+**Ch 48 (Tobin): a.** Opening line: *"They finished it on the two-hundredth."*
+Change *"He'd been on nights since then."* to:
+> Tobin had been on nights since then.
+
+**Ch 51 (Calder): a.** Opening line: *"The wolves found them on the second day."*
+Change *"He went in on foot."* to:
+> Calder went in on foot.
+
+**Ch 52 (Idony): b, c.** Opening line: *"He'd asked for the riders on the two-hundred-and-seventh."*
+Put before it:
+> The last of the knights' logs came in on the two-hundred-and-thirty-sixth, and Davin pinned them to the barn wall, eight in a row. Idony sat in front of them in his blanket.
+
+**Ch 55 (Rowan): a.** Opening line: *"They'd moved the camp six leagues in a day."*
+Change *"She'd thought it would take a week."* to:
+> Rowan had thought it would take a week.
+
+**Ch 59 (Maren): d.** Opening line: *"She went north on the two-hundred-and-ninety-fourth."*
+After *"She'd stopped asking Maren why, a long time ago."* add:
+> If the line broke on the Vale, people would need somewhere to go that wasn't the Vale. There was stone under Coldtarn, Orrun said, with room in it.
+
+(The withholding may be deliberate. If so, keep only the first sentence.)
+
+**Ch 60 (Kit): c.** Opening line: *"It had been a ford."*
+After *"Now it was a town on the water."* add:
+> Kit stood on its landing on the two-hundred-and-ninety-fifth and counted it.
+
+**Ch 61 (Calder): a.** Opening line: *"Rowan said it at the end of the council."*
+Change *"He was standing at the back."* to:
+> Calder was standing at the back.
+
+**Ch 62 (Tobin): a.** Opening line: *"The word came on the two-hundred-and-ninety-seventh."*
+Change *"He'd never seen the road-engines before."* to:
+> Tobin had never seen the road-engines before.
+
+**Ch 65 (Rowan): a.** Opening line: *"She rode the wall all day."*
+Change it to:
+> Rowan rode the wall all day.
+
+(This is the only Rowan chapter where her name never appears at all.)
+
+**Ch 72 (Calder): b, c.** Opening line: *"He held them by talking."*
+After the first paragraph add:
+> He was on the lion's head in the middle of the eddy, and the smoke had gone up off the Flat at noon. He didn't know how long ago that was.
+
+**Ch 79 (Kit): a.** Opening line: *"They came through Harrow's End in the second hour of the night."*
+Change *"She saw it by starlight."* to:
+> Kit saw it by starlight.
+
+**Ch 82 (Idony): c.** Opening line: *"Davin had picked them up."*
+After the first paragraph add:
+> That was three days gone. Now Davin set them out on the floor of the hall under Coldtarn.
+
+(Then cut the separate *"Three."* or keep it as the next beat.)
+
+**Ch 85 (Arn): a.** Opening line: *"Ildra didn't leave."*
+Change *"He'd thought she might."* to:
+> Arn had thought she might.
+
+## Verdict and patterns
+
+**Verdict:** overall the openings meet the editor's test well. 54 of 86 pass on all four points, and most of the 31 weak ones need one name or one clause. There is only one real failure: ch 32, where Calder doesn't appear on the page for ~290 words after an Idony "he" chapter. Location and time are the book's strong suit. Nearly every opening gives a place and a day count within the first paragraph, and the backward steps in time (8, 15, 18, 26, 44) are all marked.
+
+**Patterns:**
+
+1. **Rowan's chapters start vague, consistently.** Five of seven are weak on (a): 23, 41, 46, 55 and 65. Ch 65 never names her at all. The pronoun-first style works for Maren, Calder, Arn and Idony because a beast or object names them in the first lines. Rowan has no such cue, and she shares "she" with Maren and Kit. Her name in the first or second sentence would fix all five.
+2. **Tobin has the same problem, plus a missing "why".** Four of five Tobin chapters are weak (8, 33, 48, 62). He is often unnamed for hundreds of words, and 8 and 33 don't say what he wants or what the yards are for. That matters because his thread is the Bridle setup.
+3. **Back-to-back "she" or "he" chapters are the risk points.** Most of the (a) problems fall on a switch between two POVs of the same gender with no cue in between: Rowan to Maren (11), Idony to Calder (32), Calder to Arn (85), Calder to Kit (79), Calder to Rowan (23, 55), Maren to Rowan (41), Maren to Tobin (48), Maren to Calder (51), Kit to Calder (61), and Idony to Maren at the same table (4).
+4. **First appearances undersell the stakes.** Arn (5), Tobin (8) and Kit (13) all open on strong imagery but leave out where they are by name and what they want. These are the openings the editor's note most directly fits.
+5. **Calder openings after a long gap leave out the day count** (45, and Tobin's 33 and Kit's 60 the same way). Elsewhere the book's habit of naming the day is reliable, so its absence stands out.
+6. **Minor metadata note, not a prose fault:** chs 30, 34, 44 and 46 open on a day before the notes' `Days:` range (127 vs 130–135, 137 vs 142, 172 vs 185–195, 191 vs 200–205). The prose marks these as lead-ins. It's worth a glance if the `Days:` field is meant to cover the whole chapter.

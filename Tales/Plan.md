@@ -2,7 +2,7 @@
 
 *Short works told from points of view the main books can't give: beasts, the dead, the far side of a river, the years before. **The author settled the plan's six open questions (Oct 2026)**: the name, beast POVs, the before-Book-1 slot, no main POVs, the first wave and the release plan (see the end). Each tale's outline below is still a proposal until it is drafted. Canon is marked as in the Bible. Book 2 and Book 3 references follow their chapter plans (`Book 2/Chapter_Plan.md`, `Book 3/Chapter_Plan.md`), both drafted with their review settled; where a drafted chapter differs from its plan, follow the chapter.*
 
-**Drafting status (Oct 2026):** all 22 tales are in first draft, about 235,000 words in all, each in its own folder under `Tales/`. Each tale's notes block lists what it settles (Decided here); log those in the Bible when the tale is published (rule 2).
+**Drafting status (Oct 2026):** all 22 tales are in first draft, about 235,000 words in all, each in its own folder under `Tales/`. The books are close to final draft; the tales are a stage behind. **Where a drafted tale differs from its outline below, the tale wins** (as a drafted chapter wins over its chapter plan), and the outlines are kept as guidance and record. Each tale's notes block lists what it settles (Decided here); log those in the Bible when the tale is published (rule 2).
 
 ---
 

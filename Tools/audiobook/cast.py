@@ -47,7 +47,7 @@ ROLES = [
     ("Rook", "M", "adult", "A forgettable, pleasant voice that never rises; quietly menacing.", []),
     ("Corvin", "M", "adult", "Corvin Vale. Still, patient, never raises his voice. Same timbre as Cassian, colder.", ["Corvin Vale", "the thin man"]),
     ("Cassian", "M", "adult", "Cassian Vale, the public face. Same timbre as Corvin, warm and open: a speaker who wins crowds.", ["Cassian Vale", "Vale"]),
-    ("the Captain", "M", "adult", "Leader of the island hunters. Saltreach voice; curt.", []),
+    ("the Captain", "F", "adult", "Leader of the island hunters, a woman, tall and broad. Saltreach voice; curt.", []),
     ("Coll Brask", "M", "adult", "Wendmouth sellsword. Mercenary candour.", ["Brask"]),
     ("Gannet", "M", "adult", "Saltreach boatman and poacher; a smile that arrives first.", []),
 ]

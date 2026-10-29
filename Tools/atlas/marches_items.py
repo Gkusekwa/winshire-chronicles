@@ -49,11 +49,11 @@ item("pyre", "Pyre smoke over Varrhold", "smoke", 185.2, 92.6, 2, "The old chief
 item("burnedrush", "Upper Rush, burned", "fire", 178.0, 98.7, 2, "Raided at night for its beasts, then burned. Harrow's End blames the Clan's quarrel.", label=False)
 
 # ---------- Chapter 3: Roads and Roadblocks (Maren) ----------
-item("ferriby", "Ferriby", "hamlet", 171.0, 99.4, 3, "A Hearthmere hamlet of a dozen houses and a smithy, a league inland from Redwatch.")
+item("ferriby", "Ferriby", "hamlet", 173.6, 103.2, 3, "A Hearthmere hamlet of a dozen houses and a smithy, a league inland from Redwatch.")
 item("roadblock", "Roadblock", "roadblock", 173.4, 95.4, 3, "A Restoration roadblock on the River Road. Travellers talk of a leader seen in two places in one day.")
 item("charcoal", "Charcoal burners", "camp_plain", 167.2, 103.4, 3, "Charcoal burners' clearing in the Brackenwood, licensed by the crown.", dy=-0.2)
 item("boar", "Boar", "beast", 166.6, 108.8, 3, "Wild boar in the Brackenwood, big enough that the patrol goes round.")
-item("penfold", "Penfold", "hamlet", 169.4, 92.6, 3, "Shepherds' hamlet on the high ground west of the River Road.")
+item("penfold", "Penfold", "hamlet", 172.9, 104.2, 3, "Shepherds' hamlet on the high ground west of the River Road.")
 item("shrine_rr", "Wayside shrine", "shrine", 173.0, 93.4, 3, "A roadside shrine on the River Road, hung with ribbons for the drowned.", label=False)
 
 # ---------- Chapter 4: The Uncle and the Sons (Calder) ----------
@@ -245,7 +245,7 @@ item("skarrow16", "Skarrow", "hamlet", 191.0, 95.0, 16, "Ulric's own steading on
 item("millburn18", "Mill burned", "fire", 177.6, 103.2, 18, "Arn fires Hob's mill and Ulric's flour; the battle spills onto the Fenn fields.", label=False)
 item("lowgarth28", "Low Garth, burned", "fire", 181.6, 98.4, 28, "A west-side farm under Hollow Beck, burned by Ulric's men for selling to the hold.", label=False)
 item("holloway32", "Holloway, burned", "fire", 171.6, 100.8, 32, "A Hearthmere hamlet near Redwatch, burned; the knights ride out to it on their own bank.", label=False)
-item("ferriby33", "Raid on Ferriby", "battle", 171.0, 99.4, 33, "Corvin Vale directs the raid from the smithy roof like a game of stones.", label=False)
+item("ferriby33", "Raid on Ferriby", "battle", 173.6, 103.2, 33, "Corvin Vale directs the raid from the smithy roof like a game of stones.", label=False)
 item("rcamps38", "Restoration camps", "camp", 180.0, 140.0, 38, "Refugee camps on the drove road up the Wend, with drill fields of bound beasts behind them.", dx=0.3)
 item("redwatch39", "Skirmish at Redwatch landing", "battle", 173.6, 99.6, 39, "Raiders with bound hounds try to stave the patrol boats. Bracken is killed.", label=False)
 item("hatching40", "Old hatching caves", "cave", 189.6, 89.9, 40, "The Clan's old hatching caves above Coldtarn, unused for a hundred years. The dragons winter there.", dx=0.3)

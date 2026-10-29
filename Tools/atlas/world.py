@@ -10,7 +10,8 @@ COAST = [  # mainland outline, clockwise from the north-west cape
     (170, 4), (196, 10), (220, 5), (246, 11), (270, 6), (292, 13), (308, 24),
     (314, 42), (320, 64), (311, 84), (318, 108), (312, 132), (319, 152), (308, 168),
     (303, 176), (297, 182), (301, 190), (288, 193), (276, 197), (266, 199),
-    (257, 196), (248, 191), (237, 196), (226, 202), (214, 201), (205, 205),
+    (257, 196), (248, 191), (237, 196), (226, 202), (219, 200.2), (216.5, 199.2), (214.5, 199.6), (213.4, 200.4),
+    (214.6, 201.0), (215.7, 201.7), (215.6, 202.05), (214.4, 201.65), (213.1, 201.1), (205, 205),  # Gullhaven's spit
     (194, 207), (185, 211), (178, 213), (170, 207), (160, 205), (150, 209),
     (142, 205), (130, 208), (120, 203), (110, 199), (98, 201), (86, 195),
     (76, 187), (66, 191), (56, 183), (48, 177), (44, 181), (36, 177), (30, 168),
@@ -19,7 +20,7 @@ COAST = [  # mainland outline, clockwise from the north-west cape
 ]
 
 ISLANDS = [
-    [(236, 210), (243, 208), (247, 212), (240, 216)],   # Bell Reef
+    [(216.9, 202.35), (217.9, 202.25), (218.2, 202.75), (217.2, 202.95)],   # the Drowned Bell's reef, two leagues ESE of Gullhaven's spit
     [(56, 185), (58.5, 184.5), (59.5, 186.5), (57, 187)],   # Sorrel Isle (Sarovel)
 ]
 
@@ -56,13 +57,14 @@ RIVERS = {
     "The Coldrun": [(104, 30), (92, 38), (78, 40), (62, 48), (44, 50), (28, 54), (15, 56)],
     "The Gilt":    [(88, 104), (82, 120), (72, 136), (62, 152), (52, 170), (48, 178)],
     "The Meryl":   [(132, 126), (136, 145), (134, 165), (140, 182), (141, 204)],
-    "The Ysse":    [(304, 64), (290, 80), (272, 96), (258, 108), (250, 118), (256, 140), (262, 160), (262, 194)],
+    "The Ysse":    [(304, 64), (290, 74), (276, 81), (263, 85.5), (254, 86), (251, 90.4), (250, 104), (252, 120), (256, 140), (262, 160), (262, 194)],
+    "Glasswater's outflow": [(151.0, 47.3), (152.6, 51.0), (156.5, 55.2), (162.5, 58.0), (168.5, 60.3), (172.5, 61.6), (176.1, 62.6)],  # the valley that heads the Wend (Book 2 chs 37-43, Book 3 ch 56)
     "Hollow Beck": [(188.6, 90.2), (186.4, 92.6), (182.6, 97.0), (179.6, 101.0), (177.8, 102.7), (176.3, 103.1)],  # Clan hills to the Wend
 }
 
 LAKES = {
     "The Mere":       ((130, 117), 14, 8),
-    "Lake Ysse":      ((253, 112), 9, 5),
+    "Lake Ysse":      ((254, 86), 9, 4.5),  # under the Thornwood's southern edge; the Moot on its north shore (canon, Oct 2026)
     "Glasswater":     ((150, 44), 6, 3.5),
     "Coldtarn":       ((188, 91), 1.6, 1.1),
 }
@@ -74,7 +76,7 @@ MOUNTAINS = {  # name: (polyline, half-width in leagues, density)
     "The Iron Fells": ([(100, 14), (110, 26), (120, 38), (130, 47), (142, 52), (154, 53), (162, 51), (168, 55)], 6, 1.0),  # south-east from the High Crown, then east under Glasswater's foot; Vael lies north-west of Starwatch and the hunters' camp (Book 2 chs 32-38)
     "The High Crown": ([(40, 20), (90, 18), (140, 19), (200, 18), (260, 19)], 4, 0.9),
     "The Scarfell": ([(183, 72), (188, 80), (192, 88), (196, 97)], 4.0, 0.8),
-    "Sunward Hills": ([(62, 100), (74, 106), (86, 114)], 4, 0.45),
+    "Sunward Hills": ([(62, 100), (74, 106), (80, 112), (73, 120), (70, 132), (66, 146), (60, 158), (51, 166)], 4, 0.45),  # Highcrest's vineyards down to the ridge above Solenne's palace (canon, Oct 2026)
 }
 
 FORESTS = {
@@ -93,7 +95,7 @@ MARSHES = {
 }
 
 PLAINS = {
-    "The Hallow Plains": [(232, 92), (296, 96), (300, 140), (262, 146), (236, 124)],
+    "The Hallow Plains": [(230, 82), (246, 81.5), (270, 81), (296, 84), (300, 140), (262, 146), (236, 124)],
     "The Candle Downs": [(108, 140), (160, 128), (168, 116), (174.5, 117), (174.5, 130), (166, 180), (120, 186)],
 }
 
@@ -105,7 +107,7 @@ ROADS = {
     "The River Road (south)": [(174.0, 106.6), (172.3, 112), (173, 120), (174, 135), (173, 155), (175, 175), (176, 196), (176, 206)],
     "The Iron Road": [(62, 45), (78, 58), (96, 72), (112, 90), (128, 108)],
     "The Sun Road": [(48, 172), (60, 150), (70, 120), (90, 112), (110, 110), (128, 108)],
-    "The Vael Pass": [(150, 38), (146, 52), (140, 66), (136, 82), (130, 100)],
+    "The Vael Pass": [(150, 38), (143, 40), (141, 46), (141.5, 54), (140, 66), (136, 82), (130, 100)],
     "The Drover's Way": [(184.4, 94.8), (181.2, 98.6), (178.6, 102.0), (177.6, 103.2), (178.4, 106), (180.5, 113), (181, 130), (182, 150), (182, 175), (183, 204)],
     "The Coast Road": [(183, 204), (200, 202), (216, 198), (232, 196), (248, 194), (262, 193), (280, 186), (295, 178)],
     "The Saltreach Track": [(181, 130), (200, 140), (222, 156), (248, 176), (262, 193)],
@@ -247,18 +249,18 @@ place("thornwood", "The Thornwood", "landmark", "wyldmarch", 258, 46,
       "Deep, old forest: oak, black pine and thorn, so dense in places that clans travel by the river. Beasts roam freely. Keepers walk its paths.")
 place("hallowplains", "The Hallow Plains", "landmark", "wyldmarch", 268, 120,
       "Wide grassland running east to the Worldsend. Herds, horse clans, and standing stones that the clans say mark where beasts are buried.")
-place("kethra", "Kethra's Moot", "town", "wyldmarch", 242, 122,
-      "Not a town but a meeting ground on the shore of Lake Ysse, where the clans gather each midsummer under the elders. Hundreds of roundhouses and tents for a month, then empty grass.")
+place("kethra", "Kethra's Moot", "town", "wyldmarch", 252, 81.4,
+      "Not a town but a meeting ground on the north shore of Lake Ysse, with the Thornwood's edge a league behind it and the Plains in front, where the clans gather each midsummer under the elders. Hundreds of roundhouses and tents for a month, then empty grass.")
 place("worldsend", "The Worldsend", "landmark", "wyldmarch", 300, 100,
       "The great eastern range, higher than any other mountains in Winshire, white all year. The clans say the Titans walked there at the world's edge. No one living has seen one.")
-place("hollowring", "The Hollow Ring", "temple", "wyldmarch", 262, 54,
+place("hollowring", "The Hollow Ring", "temple", "wyldmarch", 260, 66,
       "A ring of standing stones in a clearing deep in the Thornwood, sacred to the clans. Under the ring a temple holds a sleep relic. The clans guard the ring without knowing what is beneath it. (Book 2)", secret=True)
 
 # ---- Saltreach ----
 place("wendmouth", "Wendmouth", "city", "saltreach", 183, 204,
       "A port-city on the east bank at the mouth of the Wend, run by four trading houses who hate one another. Painted warehouses on stilts, a floating market, and the beast market at Gallows Quay, legal and otherwise.")
 place("gullhaven", "Gullhaven", "city", "saltreach", 216, 198,
-      "A fishing and salt port behind a long shingle spit. Smoke houses, salt pans, the best oysters in the Six Kingdoms and the worst wine.")
+      "A fishing and salt port behind a long shingle spit, which runs out east-south-east toward the Drowned Bell. Smoke houses, salt pans, the best oysters in the Six Kingdoms and the worst wine.")
 place("corsa", "Corsa", "capital", "saltreach", 262, 193,
       "The largest city of the Saltreach League, where the trading houses and pirate captains sit together in the Tide Council. Tall, narrow houses with painted shutters; "
       "chains across the harbour mouth; every second building a counting-house or a tavern. If Saltreach has a capital, this is it.")
@@ -266,8 +268,8 @@ place("blackwater", "Blackwater", "town", "saltreach", 295, 178,
       "A smugglers' town in a dark-water inlet under the southern tail of the Worldsend. Outlaws, sellsword companies between contracts, and no questions.")
 place("saltings", "The Saltings", "landmark", "saltreach", 232, 178,
       "Salt marsh and tidal flats between Gullhaven and Corsa. Salt pans, wading birds, and a maze of channels that only the locals sail.")
-place("drownedbell", "The Drowned Bell", "temple", "saltreach", 217, 203.5,
-      "A temple that sank into the sea at the split of the old realm, now a reef pirates use as a landmark. At low spring tides you can hear what sounds like a bell. A sleep relic lies in its drowned hall. (Book 2)", secret=True)
+place("drownedbell", "The Drowned Bell", "temple", "saltreach", 217.5, 202.6,
+      "A temple that sank into the sea at the split of the old realm, now a reef two leagues off the end of Gullhaven's spit that pirates use as a landmark. At low spring tides you can hear what sounds like a bell. A sleep relic lies in its drowned hall. (Book 2)", secret=True)
 
 # ---- Hearthmere's temple (beneath the Marches) ----
 place("catacombs", "The Catacombs", "temple", "hearthmere", 174.8, 105.0,
@@ -286,10 +288,5 @@ TRAVEL = {  # leagues per day
     "Barge downstream on the Wend": 20, "Ship along the coast": 30, "Dragon": 80,
 }
 
-# ---------------- drawn only on the chapter-end maps of Books 2 and 3 ----------------
-# Glasswater's outflow, "the valley that heads the Wend": the lake's foot breaks and the meltflood runs down it to the
-# Wend (Book 2 chs 37-43; Book 3 ch 56, Quell comes down it on the ice). It cuts south through the Iron Fells below
-# the lake's foot and joins the Wend above the Hearthmere border. Book 1's maps and the Atlas don't draw it.
-LATER_RIVERS = {
-    "Glasswater's outflow": [(151.0, 47.3), (152.6, 51.0), (156.5, 55.2), (162.5, 58.0), (168.5, 60.3), (172.5, 61.6), (176.1, 62.6)],
-}
+# Glasswater's outflow was drawn for Books 2-3 only; it is canon in every book now and lives in RIVERS.
+LATER_RIVERS = {}

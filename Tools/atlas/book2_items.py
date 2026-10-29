@@ -23,8 +23,8 @@ for _it in MI.ITEMS:
         _c = dict(_it, ch=0, realm=False, until=None, size=1.0, carry=True, views=None, weight=1.0, head=True, pov=None)
         _c["keep"] = True
         B.ITEMS.append(_c)
-# The hatching caves: Book 1 put them far up the Scarfell (194, 76). Books 2 and 3 have them on Coldtarn's bowl,
-# across the tarn from the crag where the hall is (Book 3 ch 59, 85), four leagues from Varrhold (Book 2 ch 12, 52).
+# The hatching caves: on Coldtarn's bowl, across the tarn from the crag where the hall is (Book 3 ch 59, 85),
+# four leagues from Varrhold (Book 2 ch 12, 52): "above Coldtarn", as Book 1 has it. Book 1's map uses the same point.
 item("caves", "The hatching caves", "cave", 189.6, 89.9, 0,
      "The Clan's old hatching caves on Coldtarn's eastern rim, warm rock round a spring that never freezes. The Fenns winter here.", carry=True, keep=True, dx=0.3)
 
@@ -59,16 +59,16 @@ _CH = [
     (13, "S", "The Thornwood", "The Thornwood", (252.0, 62.0), N, "The Wyldmarch", "The Thornwood"),
     (14, "F", "Cotter's Cross", "Cotter's Cross", (180.5, 112.0), M, "The Marches", "Cotter's Cross"),
     (15, "S", "The Hallow Plains", "The Hallow Plains", (246.0, 84.0), N, "The Wyldmarch", "The Hallow Plains"),
-    (16, "R", "Sleepwood", "The Hollow Ring", (262.0, 55.0), T, "The Thornwood", "The Hollow Ring"),
+    (16, "R", "Sleepwood", "The Hollow Ring", (260.0, 67.0), T, "The Thornwood", "The Hollow Ring"),
     (17, "F", "The Ledger", "Varrhold; the hatching caves", (186.5, 93.0), M, "The Scarfell", "Varrhold and the hatching caves"),
-    (18, "S", "The Hollow Ring", "The Hollow Ring", (262.0, 55.0), T, "The Thornwood", "The Hollow Ring"),
+    (18, "S", "The Hollow Ring", "The Hollow Ring", (260.0, 67.0), T, "The Thornwood", "The Hollow Ring"),
     (19, "F", "Skarrow", "Skarrow", (188.5, 96.0), M, "The Scarfell", "Skarrow"),
-    (20, "S", "Midsummer Night", "The Hollow Ring", (262.0, 55.0), T, "The Thornwood", "The Hollow Ring, midsummer night"),
+    (20, "S", "Midsummer Night", "The Hollow Ring", (260.0, 67.0), T, "The Thornwood", "The Hollow Ring, midsummer night"),
     (21, "F", "The Roosts", "The Roosts", (185.8, 93.5), M, "The Scarfell", "The Roosts"),
-    (22, "R", "The Surge", "Lake Ysse", (250.0, 100.0), N, "The Wyldmarch", "Lake Ysse"),
-    (23, "S", "Under the Stones", "Under the Hollow Ring", (262.0, 55.0), T, "The Thornwood", "Under the Hollow Ring"),
+    (22, "R", "The Surge", "Lake Ysse", (254.0, 84.0), N, "The Wyldmarch", "Lake Ysse"),
+    (23, "S", "Under the Stones", "Under the Hollow Ring", (260.0, 67.0), T, "The Thornwood", "Under the Hollow Ring"),
     (24, "F", "The Black Tarn", "Coldtarn", (187.0, 92.5), M, "The Scarfell", "Coldtarn"),
-    (25, "S", "The Moot", "Kethra's Moot, Lake Ysse", (244.0, 118.0), T, "The Wyldmarch", "Kethra's Moot, Lake Ysse"),
+    (25, "S", "The Moot", "Kethra's Moot, Lake Ysse", (252.5, 81.5), T, "The Wyldmarch", "Kethra's Moot, Lake Ysse"),
     (26, "F", "Westward", "Harrow's End, the Fenn top field", (179.0, 101.5), M, "The Marches", "Harrow's End, the Fenn top field"),
     (27, "R", "The Drain", "The Wyldmarch, riding west", (210.0, 82.0), W, "The North", "The Wyldmarch, riding west"),
     (28, "S", "The Tusker Road", "Vael's gate, under the High Crown", (165.0, 36.0), N, "Isvaren", "Vael's gate, under the High Crown"),
@@ -136,9 +136,9 @@ _CH = [
 for _c in _CH:
     chapter(*_c)
 
-# Gullhaven's shingle spit, a league long, with the harbour behind it (Book 2 ch 59)
-B.EXTRA_ISLANDS = [[(214.6, 201.0), (215.6, 201.25), (216.7, 201.75), (217.8, 202.05), (218.1, 202.3), (217.6, 202.4), (216.5, 202.05), (215.4, 201.6), (214.6, 201.35)]]
-item("reef", "The Drowned Bell's reef", "rubble", 217.4, 203.9, 59, "A long low black reef two leagues off the spit's end, dry at low springs; at the lowest tides a sound like a bell comes off it.",
+# Gullhaven's shingle spit and the Drowned Bell's reef are in world.py's coastline now (canon, Oct 2026)
+B.EXTRA_ISLANDS = []
+item("reef", "The Drowned Bell's reef", "rubble", 217.5, 202.6, 59, "A long low black reef two leagues off the spit's end, dry at low springs; at the lowest tides a sound like a bell comes off it.",
      label=False, size=0.8, carry=True)
 
 # ---------------- places Book 2 names that world.py doesn't have ----------------
@@ -155,7 +155,7 @@ place("lowfold", "Lowfold", "village", "isvaren", 176.6, 66.9, 43, "The last Isv
 place("brookend", "Brookend", "village", "hearthmere", 175.4, 76.0, 43, "A Hearthmere river village on the middle Wend.", scope="local")
 place("sallowlock", "Sallow Lock", "village", "hearthmere", 174.9, 84.0, 43, "A Hearthmere river village with a lock, on the middle Wend.", scope="local")
 place("scarfelledge", "The Scarfell's edge", "landmark", "saltreach", 186.4, 97.3, 11,
-      "Where the old drove track climbs out of the Fellwood onto the moor, three leagues south-east of Varrhold, with the falls on Hollow Beck and the Way in sight below.",
+      "The escarpment along the Fellwood's northern side. Here the old drove track tops it, three leagues south-east of Varrhold and two east of the Way, with the falls on Hollow Beck and the Way in sight below.",
       scope="marches", ldx=0.4, ldy=0.6)
 
 # ---------------- the whole of Winshire: when names first appear in Book 2 ----------------
@@ -181,10 +181,10 @@ def titan(id, ch, pts, desc, name=TR, label=False, **kw):
 
 titan("t01", 9, [(175.8, 103.5), (179.5, 100.6), (183.5, 97.6), (187.5, 94.5)],
       "Sunrise, day 0: the Titan flew low north-east out of the river, laying the Fellwood flat in a league-wide swath.", label=True)
-titan("t02", 13, [(187.5, 94.5), (205, 84), (228, 70), (248, 60), (261, 54.6)],
+titan("t02", 13, [(187.5, 94.5), (205, 84), (228, 70), (248, 60), (259, 66.6)],
       "It lay down on the Hollow Ring, the clans' sacred stones deep in the Thornwood, and didn't move all spring.")
-titan("t03", 20, [(261, 54.6), (252, 54.0)], "Midsummer night: it rose with the Ring's relic and flew west, low over the Thornwood.", name="It flew west", label=True)
-titan("t04", 27, [(252, 54.0), (236, 55), (214, 60), (196, 53), (174, 46.5), (151.5, 42.3)],
+titan("t03", 20, [(259, 66.6), (250, 66.0)], "Midsummer night: it rose with the Ring's relic and flew west, low over the Thornwood.", name="It flew west", label=True)
+titan("t04", 27, [(250, 66.0), (236, 55), (214, 60), (196, 53), (174, 46.5), (151.5, 42.3)],
       "Two weeks west and wandering; then north-west, and down on Glasswater under Vael (days 98-118).")
 titan("t05", 37, [(151.5, 42.3), (138, 34), (118, 30)], "Dawn, day 173: up off the broken ice and west along the snow-line.", name="It flew west", label=True)
 titan("t06", 42, [(118, 30), (103, 33), (97, 41), (105, 47), (99, 57), (94.5, 66.5)],
@@ -197,7 +197,7 @@ titan("t09", 58, [(2, 71), (-1, 100), (9, 138), (30, 156), (50.5, 166.5)],
 titan("t10", 61, [(50.5, 166.5), (49.5, 173.5), (43, 160), (35, 150)], "Noon, day 315: down through the palace onto the Sun Stair for the egg, then up off the cliff and away north-west.")
 titan("t11", 71, [(208, 128), (222, 160), (231, 180), (224, 198), (219.5, 206)],
       "Day 345: over the Saltings from the north, low, and out to sea; it lay down beyond the reef's breakers to wait for the tide.", name="Over the Saltings", label=True)
-titan("t12", 75, [(217.5, 204.5), (223, 199.5), (229, 186), (216, 150), (205, 128)],
+titan("t12", 75, [(217.6, 203.1), (223, 199.5), (229, 186), (216, 150), (205, 128)],
       "Day 349: up out of the sea by the Saltings and away north over the Ashlings. Going home.")
 titan("t13", 78, [(205, 128), (186, 124), (166, 123)], "It lay down on the downs south-west of the Marches, over the river.")
 titan("t14", 80, [(166, 123), (170.5, 112), (174.7, 105.4)], "Sunrise, day 355: down onto the Wend half a league above Greyhold.", name="It came down", label=True)
@@ -213,7 +213,7 @@ for _i, (_a, _b) in enumerate([((236, 76), (193.5, 88.0)), ((166, 64), (187.0, 8
 # where each sleeper woke (sleep relic taken, then the waking)
 def sleeper(id, name, x, y, ch, desc, **kw):
     return item(id, name, "sleeper", x, y, ch, desc, realm=True, **kw)
-sleeper("antlered", "The Antlered rose", 246.0, 79.0, 25,
+sleeper("antlered", "The Antlered rose", 252.5, 78.6, 25,
         "Day 105: the Thornwood's sleeper rose at the forest's southern edge north of the Moot, antlered like a winter wood, and the forest walked with it.")
 sleeper("coil", "The Pale Coil rose", 151.0, 44.6, 37, "Day 177: Glasswater's sleeper, a serpent of cold, rose through the ice and went down the valley in fog, and the lake went after it.")
 sleeper("furnace", "The Furnace rose, and was caged", 95.6, 69.2, 48, "Day 238: the Scald's sleeper came up molten through the glass, and Kessmoor's cage closed on it.")
@@ -232,9 +232,9 @@ route("m11", "S", 11, [(184.6, 99.6), (185.7, 98.3), (186.4, 97.3)], "Out of the
 route("m13", "S", 13, [(186.4, 97.3), (200, 96), (222, 94), (233, 86), (240, 72), (240.5, 64.5)],
       "East off the Scarfell, over the moor and the Hallow Plains (day 24), into the Thornwood (day 31) and the Barrows.", name="Maren's road east", label=True)
 route("m15", "S", 15, [(240.5, 64.5), (236.5, 82.5)], "Out to the Speaking Stones for the elders (day 45).")
-route("m18", "S", 18, [(236.5, 82.5), (245, 77), (252, 66), (258, 58), (261.4, 55.3)], "Into the grey from the south along a stream (days 69-74).")
-route("m22", "S", 22, [(262, 55), (257, 74), (249, 98), (243.5, 119.0)], "South with Idony and Hesper to warn the clans at the Moot (days 102-103).", name="To the Moot", label=True)
-route("m28", "S", 28, [(242, 122), (234, 97), (223, 68), (212, 42), (198, 31), (176, 29), (160, 32), (151.2, 39.8)],
+route("m18", "S", 18, [(236.5, 82.5), (245, 77.5), (252, 72.5), (256.5, 69), (259.4, 67.3)], "Into the grey from the south along a stream (days 69-74).")
+route("m22", "S", 22, [(260, 67), (257.5, 73), (254.5, 77.5), (252.5, 80.8)], "South with Idony and Hesper to warn the clans at the Moot (days 102-103).", name="To the Moot", label=True)
+route("m28", "S", 28, [(252, 81.4), (240, 76.5), (223, 68), (212, 42), (198, 31), (176, 29), (160, 32), (151.2, 39.8)],
       "West over the dead Plains, north into the foothills, then with the tusker herd along the High Crown's flank to Vael's lake gate (days 111-135).",
       name="The tusker road", label=True)
 route("m42", "S", 42, [(150.2, 40.5), (141, 38), (121, 31), (104, 33), (92, 38), (78, 41), (62.5, 45.5), (79, 57.5), (93.4, 67.0)],
@@ -277,8 +277,8 @@ route("c78", "F", 78, [(216.5, 199), (200, 203), (184, 202), (182, 170), (181, 1
 # Idony
 route("i08", "R", 8, [(150.5, 37.5), (170, 30.5), (196, 31), (222, 40), (246, 50)], "Day 20: east under the High Crown with Dane's Wardens and the binding-lamps.",
       name="The Wardens' road", label=True)
-route("i16", "R", 16, [(246, 50), (255, 52.3), (261.3, 53.6)], "Into the Thornwood by the northern path; the grey on day 61.")
-route("i27", "R", 27, [(242.5, 121), (232, 100), (221, 70), (203, 41), (176, 33), (152, 37.5)],
+route("i16", "R", 16, [(246, 50), (253, 59), (259.3, 65.6)], "Into the Thornwood by the northern path; the grey on day 61.")
+route("i27", "R", 27, [(252.5, 81), (238, 77.5), (221, 70), (203, 41), (176, 33), (152, 37.5)],
       "Days 110-121: west across the dead Wyldmarch measuring the drain, then up the High Crown road to Vael on foot.", name="Idony rides west", label=True)
 route("i71", "R", 71, [(49, 175.5), (70, 196), (115, 207), (160, 213), (205, 213), (250, 204), (284, 186.5), (291.5, 180.5), (275, 194), (246, 194), (235.5, 185.5)],
       "Days 318-338 on Corvin's ship: east along the coast to a cove by Blackwater for Callis, then back west into the Saltings' channels.",
@@ -313,33 +313,32 @@ item("handover11", "The Fenns handed to the ledges", "meet", 186.2, 97.0, 11, "D
 item("muster12", "Corvin's muster", "camp", 181.1, 113.6, 12, "The unpaid companies gathering at Cotter's Cross under the ring of six, Reede's bills on every door.", dx=0.3)
 # Part Two: Midsummer
 item("barrows", "The Lions' Barrows", "landmark_pt", 240.6, 64.6, 13, "Grass mounds under black pines, each with a grey stone, two days into the Thornwood. Orrun lies down where there's a space.")
-item("ring13", "The Hollow Ring", "stones", 262.0, 54.0, 13, "The clans' sacred stones deep in the Thornwood; the Titan has lain on them since the morning after the river.", until=19, realm=True, size=0.8)
-item("titanring", "The Titan on the stones", "titan", 262.6, 53.4, 13, "Lion-kin the size of a hill, grey as old stone, chain-ends on its forelegs, breathing eleven in, nineteen out.", size=0.45, until=20)
+item("ring13", "The Hollow Ring", "stones", 260.0, 66.0, 13, "The clans' sacred stones deep in the Thornwood; the Titan has lain on them since the morning after the river.", until=19, realm=True, size=0.8)
+item("titanring", "The Titan on the stones", "titan", 260.6, 65.4, 13, "Lion-kin the size of a hill, grey as old stone, chain-ends on its forelegs, breathing eleven in, nineteen out.", size=0.45, until=20)
 item("contract14", "Ten thousand for the lion", "scroll", 180.2, 112.6, 14, "The Tide Council's contract on the beast-pen gate: the great beast of the Marches, alive.", dx=-0.4)
 item("gully14", "Kharrak's gully", "landmark_pt", 182.3, 111.4, 14, "A dry gully in the Ashlings two leagues north-east of the Cross, where the red dragon lies up.", label=False)
 item("stones15", "The Speaking Stones", "stones", 236.5, 82.5, 15, "Seven tall stones in a horseshoe on the Plains a day west of the Thornwood's edge. They hum for Orrun.", realm=True, size=0.8)
 item("groves15", "Sleepwood groves burned", "fire", 244.0, 70.0, 15, "Night 57: the Keepers burn their own groves so no binder can cook honey-smoke from them.", dx=0.3)
 item("groves15b", "", "fire", 252.5, 63.5, 15, "Sleepwood burning.", label=False)
-item("rowan15", "Rowan's chain", "route", 228, 88, 15, "Day 51: Rowan's company over the Plains with the great chain on six wains.", path=[(222, 92), (234, 86), (248, 66), (257.5, 56.5)], label=True, pov="rowan")
-line("grey16", "The grey", "sea", 16, [(262 + math.cos(a) * 1.0, 54 + math.sin(a) * 1.0) for a in [i * math.pi / 12 for i in range(25)]],
-     "A league of dead ground round the Ring: grey trees, dead birds that don't rot, the stones \"full like a cup\".", realm=False, label=True, until=21, at=(263.1, 55.2))
-item("wardens16", "The Wardens' rise", "camp", 262.0, 52.7, 16, "Dane's Wardens on the rise north of the Ring, with the binding-lamps.", dx=0.3)
-item("knights16", "The knights' stakes", "camp", 260.6, 54.3, 16, "Rowan's stakes in two curved lines toward the forelegs, from the west.", dx=-0.6)
-item("knot18", "The finding-knot", "bond", 262.3, 54.7, 18, "Day 85: tied with a hair of Orrun's mane; on the grey it's string, through him it pulls.", label=False)
+item("rowan15", "Rowan's chain", "route", 228, 88, 15, "Day 51: Rowan's company over the Plains with the great chain on six wains.", path=[(222, 92), (234, 86), (248, 74), (257, 67.5)], label=True, pov="rowan")
+line("grey16", "The grey", "sea", 16, [(260 + math.cos(a) * 1.0, 66 + math.sin(a) * 1.0) for a in [i * math.pi / 12 for i in range(25)]],
+     "A league of dead ground round the Ring: grey trees, dead birds that don't rot, the stones \"full like a cup\".", realm=False, label=True, until=21, at=(261.1, 67.2))
+item("wardens16", "The Wardens' rise", "camp", 260.0, 64.7, 16, "Dane's Wardens on the rise north of the Ring, with the binding-lamps.", dx=0.3)
+item("knights16", "The knights' stakes", "camp", 258.6, 66.3, 16, "Rowan's stakes in two curved lines toward the forelegs, from the west.", dx=-0.6)
+item("knot18", "The finding-knot", "bond", 260.3, 66.7, 18, "Day 85: tied with a hair of Orrun's mane; on the grey it's string, through him it pulls.", label=False)
 item("caves17", "Rook's ledger read", "scroll", 189.9, 90.4, 17, "At the cave mouth, by Ada's hearth-fire: \"the hedge at the bottom of the Fenn field, one bolt, the Sallow rider\".", label=False)
 item("steadings19", "Two steadings burned", "fire", 182.6, 99.4, 19, "Day 64: an Arn steading and an Ulric steading, half a league apart, each left with the other's colour. Wendmouth boots.", dx=0.3)
-item("capture20", "The capture", "battle", 262.4, 54.6, 20, "Midsummer night: Rowan's chain, the Wardens on the stones, Corvin's smoke; Maren takes the Wardens off the stones.", dx=0.3)
-item("sink20", "The Ring falls in", "rubble", 261.7, 54.0, 20, "The Titan rose with the relic and the ring went down into the temple after it.", label=False)
+item("capture20", "The capture", "battle", 260.4, 66.6, 20, "Midsummer night: Rowan's chain, the Wardens on the stones, Corvin's smoke; Maren takes the Wardens off the stones.", dx=0.3)
+item("sink20", "The Ring falls in", "rubble", 259.7, 66.0, 20, "The Titan rose with the relic and the ring went down into the temple after it.", label=False)
 item("roosts21", "Corvin's raid on the Roosts", "battle", 186.6, 92.4, 21, "Midsummer night: honey-smoke on the wind; four young dragons taken.", dx=0.3)
 item("tor21", "Where Tor and Skell died", "death", 186.0, 93.5, 21, "Hallam's grandson and his young blue, together on the Choosing Ledge.", label=False)
 item("taken21", "Four young dragons taken", "route", 188, 96, 21, "They flew south-east over the moor after the wyverns, into the dark.",
      path=[(186.6, 93.0), (190.0, 95.5), (194.0, 99.0)], label=True)
-item("moot22", "The clans gather at the Moot", "camp", 241.2, 121.2, 22, "Hundreds of roundhouses and hide tents for the month of midsummer.", label=False)
-item("temple23", "Six sleepers carved", "scroll", 263.0, 55.2, 23, "Under the stones: six great beasts lying in a ring, asleep, and shapes of light over them. Sleep, six times. Here the breath is kept.", dx=0.3)
+item("moot22", "The clans gather at the Moot", "camp", 251.2, 81.6, 22, "Hundreds of roundhouses and hide tents for the month of midsummer.", label=False)
+item("temple23", "Six sleepers carved", "scroll", 261.0, 67.2, 23, "Under the stones: six great beasts lying in a ring, asleep, and shapes of light over them. Sleep, six times. Here the breath is kept.", dx=0.3)
 item("pyre24", "Tor Brecc's pyre", "fire_plain", 187.4, 91.9, 24, "Day 101: one pyre for all of them, red thread and grey. Next morning Arn and Ulric pour together.", dx=0.3)
-item("lanes25", "The lanes held", "battle", 242.5, 121.0, 25, "Day 105: the beast-flood down the Moot's seven lanes; two lions in two lanes at once.", dx=0.3)
-item("hesper25", "Where Hesper and Hush died", "death", 243.5, 120.6, 25, "In the seventh lane by the forest's edge, singing.", label=False)
-item("north25", "The Antlered rose, to the north", "arrow_n", 244.0, 116.0, 25, "A great branched crown going up over the forest, and the forest walking with it.", size=1.0)
+item("lanes25", "The lanes held", "battle", 252.5, 81.0, 25, "Day 105: the beast-flood down the Moot's seven lanes; two lions in two lanes at once.", dx=0.3)
+item("hesper25", "Where Hesper and Hush died", "death", 253.3, 80.3, 25, "In the seventh lane by the forest's edge, singing.", label=False)
 item("elk26", "The elk herd turned", "route", 181, 100, 26, "Day 112: Lisska drives the lead cow down to him; the herd-charm turns her, and the herd follows her off the field.",
      path=[(184.5, 97.0), (181.5, 99.6), (179.3, 101.2), (178.4, 100.4)], label=True)
 item("topfield26", "The Fenn top field", "landmark_pt", 178.75, 101.45, 26, "Above the village, between the herd and the houses: Calder's first casting.", carry=True)
@@ -367,8 +366,8 @@ item("hill38", "Fight on the Library hill", "battle", 152.4, 35.6, 38, "The hunt
 item("bird39", "Where the bird was killed", "death", 153.6, 33.6, 39, "The Old Reader, on the case it kept three hundred and four years. \"Ask, ferryman. Ask everything.\"", dx=0.3)
 item("pyre40", "The bird's pyre", "fire_plain", 152.6, 33.9, 40, "Night 177 on the Library steps; Kharrak lights it. Idony's ring is broken there.", dx=-0.4)
 item("frost41", "The frost-map", "area_small", 150.9, 41.0, 41, "Night 177 on the drained shore: the Oneroad's six roads drawn in frost, and Idony's tide-chart laid over them.", dx=0.3)
-for _i, (_t, _nm) in enumerate([((262, 54), "the Ring"), ((150, 39), "Vael"), ((94, 70.5), "the Scald"), ((50, 176), "the Sun Stair"),
-                                 ((217, 203.5), "the reef"), ((174.4, 105.6), "the river hill")]):
+for _i, (_t, _nm) in enumerate([((260, 66), "the Ring"), ((150, 39), "Vael"), ((94, 70.5), "the Scald"), ((50, 176), "the Sun Stair"),
+                                 ((217.5, 202.6), "the reef"), ((174.4, 105.6), "the river hill")]):
     line(f"sixends{_i}", "The six ends" if _i == 0 else "", "sea", 41, [(175.8, 103.5), _t],
          f"The frost-map: one of the Oneroad's six roads from the bridge, to {_nm}. The roads are the Deep's tide-lines; the six ends are the sleepers.",
          realm=True, label=_i == 0, until=42, at=(205, 86) if _i == 0 else None)
@@ -398,8 +397,8 @@ item("bronze56", "Where the bronze was killed", "death", 295.6, 177.8, 56, "Its 
 item("clearing57", "The unicorns' clearing", "landmark_pt", 50.2, 157.2, 57, "Where eleven wild unicorns tell Orrun that nine generations of royal bonds were bindings.", dx=0.3)
 item("titanhills", "The Titan on the hills", "titan", 51.0, 166.5, 58, "From day 290 on the ridge above the palace; the Grace too bright, collars cracking.", size=0.45, until=60)
 item("handshall", "The hands' hall", "house", 47.2, 173.0, 58, "Long vaulted rooms under the palace's west wing, cut into the cliff, where the court's unbonded hands do its workings.", dx=-0.4)
-item("reef59", "Aurveth's deep sight", "bond", 217.6, 203.2, 59, "Day 305 at low spring tide: lying on the reef, he feels the Bell's sleeper breathe.", dx=0.3, label=False)
-item("lifts59", "The Clan's baskets", "dragon", 215.6, 199.6, 59, "Arn's pairs practising on the spit with war-harness and wicker baskets.", label=False, size=0.6)
+item("reef59", "Aurveth's deep sight", "bond", 217.7, 202.4, 59, "Day 305 at low spring tide: lying on the reef, he feels the Bell's sleeper breathe.", dx=0.3, label=False)
+item("lifts59", "The Clan's baskets", "dragon", 214.7, 201.1, 59, "Arn's pairs practising on the spit with war-harness and wicker baskets.", label=False, size=0.6)
 item("egg60", "The egg taken", "titan", 50.2, 175.4, 60, "Noon, day 315: down through the palace and the stair into the temple; Orrun stands before the egg and it reaches past him.", size=0.45, label=False)
 item("king61", "Where the Bond-King died", "death", 48.6, 172.6, 61, "The unicorn, its collar broken, throws him and puts its horn through him on his own stair.", dx=-0.4)
 item("ship63", "Idony taken", "ship", 47.0, 174.4, 63, "Day 318: dragged up the plank of Corvin's ship at the palace's harbour stair; it goes out east past Sorrel Isle.", dx=-0.4)
@@ -418,13 +417,13 @@ item("ferriby72", "Ferriby's beasts taken", "beast", 170.8, 99.0, 72, "A band of
 item("penfold72", "Binders turned at Penfold", "battle", 169.9, 92.9, 72, "Day 346: driven into a beck, the bound cows come out of the running water themselves.", label=False)
 item("ferryrun72", "The ferry runs night and day", "route", 175, 107, 72, "Over the river, everyone, with their beasts, and up the Way: running water stops a binding.",
      path=[(174.4, 107.15), (175.0, 107.35), (176.2, 106.0), (177.1, 104.0)], label=True, realm=False)
-item("battle73", "Vey's fleet on the reef", "battle", 218.2, 204.4, 73, "Harpoons, engines, the house drawers on the bare reef; the tide turns and the running water breaks them.", dx=0.3)
-item("vey73", "Where Vey died", "death", 217.0, 204.4, 73, "On the reef among his drawers, the last off; the reef cracked across and the sea took him.", label=False)
+item("battle73", "Vey's fleet on the reef", "battle", 218.3, 203.0, 73, "Harpoons, engines, the house drawers on the bare reef; the tide turns and the running water breaks them.", dx=0.3)
+item("vey73", "Where Vey died", "death", 217.1, 203.0, 73, "On the reef among his drawers, the last off; the reef cracked across and the sea took him.", label=False)
 item("lamps74", "One hour of light", "lamp", 173.5, 107.2, 74, "Night 348: every dead lamp in Hearthmere flares white for an hour. It means it's coming home.", dx=-0.4)
-item("wave75", "The wave", "wave", 216.6, 201.3, 75, "Day 349: the sea comes back in a grey wall and takes the spit's seaward half. Three thousand five hundred lifted; two hundred and ninety drowned.", dx=0.3)
+item("wave75", "The wave", "wave", 215.3, 201.75, 75, "Day 349: the sea comes back in a grey wall and takes the spit's seaward half. Three thousand five hundred lifted; two hundred and ninety drowned.", dx=0.3)
 item("pyre76", "Cassian's pyre", "fire_plain", 175.3, 103.1, 76, "Night 352: Corvin burns his brother's body on a boat in the eddy. An hour's truce on the shingle bar.", dx=-0.4)
 item("stair77", "The older stair", "lock", 173.3, 107.0, 77, "Under the grooms' burial ground by Garran Vale's stone: an older stair, cut in the old stone, made for door-keepers.", dx=-0.4, carry=True)
-item("pyres78", "The drowned burned on the shingle", "fire_plain", 214.8, 200.0, 78, "Dusk, day 350, at the spit's root; then Arn and Ulric pour for strangers.", dx=-0.4)
+item("pyres78", "The drowned burned on the shingle", "fire_plain", 213.5, 200.6, 78, "Dusk, day 350, at the spit's root; then Arn and Ulric pour for strangers.", dx=-0.4)
 # Part Seven: Under the Hill
 item("cellars79", "Seventy go into the cellars", "house", 173.7, 106.3, 79, "The poorest of Millbrook's lower lane, who won't go on the river; Joby Marsh stays with them with a lantern.", label=False)
 item("chains80", "The second cage", "cage", 175.1, 105.4, 80, "Six chains over the river from Greyhold's hill to the Saltreach anchors, and heartstone engines roaring.", dx=0.3, until=82)

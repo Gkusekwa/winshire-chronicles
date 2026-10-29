@@ -169,7 +169,7 @@ place("varrholdburied", "Varrhold, under the slip", "ruin", "saltreach", 184.4, 
 # ---------------- roads and lines that stay ----------------
 line("greenwoldroad", "The Greenwold road", "road", 10, [(128.5, 107.5), (139, 97), (152, 89), (165, 85), (177, 84)],
      "The old road east from Hallowmere through the oak woods of the Greenwold to the ford on the upper Wend.", realm=True, label=True, carry=True)
-line("drownedroad", "The drowned road", "sea", 16, [(217.0, 203.5), P41, pier(30), pier(20), pier(10), pier(1), along(L, -1.0)],
+line("drownedroad", "The drowned road", "sea", 16, [(217.5, 202.6), P41, pier(30), pier(20), pier(10), pier(1), along(L, -1.0)],
      "The old-realm causeway's broken piers south-west over the Shatters, island to island, every one with a milestone counting into the light.",
      realm=True, label=True, weight=1.8, at=(205, 214.8))
 for _k in (41, 30, 20, 12, 11, 9, 5, 2, 1):
@@ -222,9 +222,9 @@ item("market58", "The floating market lifted", "flood", 183.4, 203.0, 58, "Day 2
 # ---------------- the travellers ----------------
 def route(id, pov, ch, pts, desc, name="", label=False, realm=True, **kw):
     return line(id, name, "route", ch, pts, desc, realm=realm, label=label, pov=pov, **kw)
-route("m3a", "S", 7, [(175.0, 107.3), (190, 110), (215, 114), (238, 124), (255.5, 129.5), (264, 124)],
+route("m3a", "S", 7, [(175.0, 107.3), (190, 110), (215, 114), (238, 124), (253.8, 128.6), (264, 124)],
       "Days 10-18: over the Wend on Liss's rope, east by drove tracks across Saltreach's scrub and moor, over the Ysse at an old drove ford, to the clans.", name="Maren's road east", label=True)
-route("m3b", "S", 11, [(257, 128), (236, 112), (206, 96), (178, 84.6)], "Days 26-47: west with ten thousand people and their herds at four leagues a day, to the ford under the Greenwold's oaks.",
+route("m3b", "S", 11, [(253.6, 128.2), (236, 112), (206, 96), (178, 84.6)], "Days 26-47: west with ten thousand people and their herds at four leagues a day, to the ford under the Greenwold's oaks.",
       name="The clans' road west", label=True)
 route("m3c", "S", 12, [(176, 84), (150, 80), (110, 66), (64.5, 46.5)], "To Ironhythe for the Accord.")
 route("m3d", "S", 14, [(64, 47), (96, 72), (128, 104), (172, 107), (174.6, 107.4), (176, 150), (183, 196), (215, 197), (240, 178), (265, 187), (293, 178.5)],
@@ -234,7 +234,7 @@ route("m3f", "S", 24, [P41, pier(30), pier(20), pier(10), pier(2)], "Days 97-114
 route("m3g", "S", 25, [pier(2), pier(1), along(pier(1), 0.6), along(L, -1.2)], "Day 115: through the Needle at the top of the flood, into the lagoon.", realm=False)
 route("m3h", "S", 27, [along(L, 0.3), along(L, 5), MH], "Days 123-125: up the paved road two days inland, awake, to the mountain on the hill.", realm=False)
 route("m3i", "S", 34, [MH, (135.2, 285.0), HALL], "Days 137-138: with the Grey Mother south-west along the road to the hall on the ridge.", realm=False)
-route("m3j", "S", 40, [along(L, -1.2), pier(1), pier(20), P41, (217.0, 203.5)], "Days 148-180: under the sea along the drowned road, the sea-bed's stone opening ahead of the lion and closing behind.",
+route("m3j", "S", 40, [along(L, -1.2), pier(1), pier(20), P41, (217.5, 202.6)], "Days 148-180: under the sea along the drowned road, the sea-bed's stone opening ahead of the lion and closing behind.",
       name="Under the sea", label=True)
 route("m3k", "S", 46, [(217.5, 202.5), (205, 201), (184, 202), (181.5, 160), (179, 120), (177.5, 109.0)], "Days 181-191: ashore by the Saltings, west along the Coast Road, up the Wend's east bank to the camp.",
       name="The lion comes home", label=True)
@@ -274,7 +274,7 @@ item("davin3", "Davin writes for Idony", "scroll", 174.45, 107.65, 3, "Day 6: do
 item("crowncourt5", "The empty chair", "landmark_pt", 184.0, 95.5, 5, "Between the red thread's table and the grey's: the chief's chair under its cloth since Teo.", label=False)
 item("gate6", "The toll gate at Sallow Bar", "roadblock", 201.0, 201.2, 6, "The Gaffer's gate on the bridge: a copper a head, a silver a cart. He gives the tin cup back for nothing.", dx=0.3)
 item("topfield6", "Gullhaven's families in the top field", "camp", 179.2, 101.0, 6, "Days 17-20: the old, the children and the sick flown inland to Harrow's End's fallow farms.", label=False)
-item("fords7", "The Ysse fords", "stones", 256.4, 128.2, 7, "Four drove fords from the Plains to the scrub; the lion and one shadow at a time raise sills under the water, and the stonehorns breast the current.", dx=0.3, realm=True, size=0.6)
+item("fords7", "The Ysse fords", "stones", 253.6, 128.2, 7, "Four drove fords from the Plains to the scrub; the lion and one shadow at a time raise sills under the water, and the stonehorns breast the current.", dx=0.3, realm=True, size=0.6)
 item("ridge7", "The ridge of stone", "wall", 259.5, 131.5, 7, "Day 22: a ridge a quarter-league long comes up out of the plain and the beast-flood breaks on it.",
      path=[(258.8, 132.4), (260.2, 130.6)], label=True)
 item("hall12", "The Accord of Ironhythe", "house", 62.6, 44.4, 12, "In the Hall of Measures under the clock that has never been wrong: the kingdoms unite, and Kessmoor's clause.", realm=True, dx=0.3)

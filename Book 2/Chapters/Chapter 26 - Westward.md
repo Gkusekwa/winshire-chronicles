@@ -16,10 +16,10 @@ Draft notes: Day 105 to day 114. Decided here (proposals):
 - Day 110, night, the echo: told in Varrhold's hall at the east fire, by Orm, to a full hall, the Moot-legend: two lions, the knight in two places at once. Somebody laughs: "Like the twins." The hall goes quiet. In the autumn and winter everyone said Vale could be in two places at once and it was two men; now they say it of the lion-woman. Calder says, "It's not two of her. It's two of him." Nobody understands. Ulric, at the east fire for the first time since the pour (red and grey sit at one fire now), says: "Then it's worse."
 - Day 111: Harrow's End. Some families have come back from the Hearthmere bank in the spring, thirty people, to sow what they can (the crown's ten days drove refugees back over, ch 5). Fisk at the Eelweir. Lisska, ranging, sees a great elk herd coming down off the Scarfell's southern edge, three or four hundred, straight down the valley toward the village and the river. Calder flies down on Kharrak with Lisska.
 - Day 112, morning: the Fenn top field: his own, gone to weed, above the village, between the herd and the houses. The elk will come down over it. Thirty people in the village behind with nowhere to go but the river. Calder lands on the field and sends Kharrak up: no fire, the herd would only run harder. He stands on the field.
-- The casting: Lisska drives the lead cow, an old great-elk cow with short broad antlers and a white blaze, down off the head of the herd toward him, diving at her, turning her with her wings the way a dog turns a ewe. As the cow comes past he gets his hand on her antler (the plan's "horn") and runs beside her three strides and shouts the herd-charm into her ear: the Marches boy's word for turning cattle at a gate, the one his father taught him at six, that never did more than make a slow cow look round. Lisska comes down the bond into him at the same moment: her wind, all of it, through him and into the word. It lands on the one cow. She turns. Hard, as if pulled. Away from the village, west along the field's top wall, toward the Fellwood. And the herd follows her off the field like a flock off a dog.
+- The casting: Lisska drives the lead cow, an old great-elk cow with short broad antlers and a white blaze, down off the head of the herd toward him, diving at her, turning her with her wings the way a dog turns a ewe. As the cow comes past he gets his hand on her antler (the plan's "horn") and runs beside her three strides and shouts the herd-charm into her ear: the Marches boy's word for turning cattle at a gate, the one his father taught him at six, that never did more than make a slow cow look round. Lisska comes down the bond into him at the same moment: her wind, all of it, through him and into the word. It lands on the one cow. She turns. Hard, as if pulled. Away from the village, north along the field's top wall, toward the Fellwood. And the herd follows her off the field like a flock off a dog.
 - Then the words stop: he tries it again on a bull coming wrong and nothing; the word is only a word again; he's on his knees in the weeds with his nose bleeding. It bleeds for an hour. Lisska comes down in the field and lies flat and can't fly until next morning; she's emptied.
 - Ada's account, later, by the fire: his father's word. "It worked once for your grandfather, they said. On a mad bull at the ford. Nobody believed him."
-- Day 113: the herd gone into the Fellwood west of the village. Fisk at the Eelweir: "Somebody's got to. To tell it after. I'll tell that one." Calder writes his first sentence, at Fisk's table, with a burnt stick on a board: CALDER TURNED THE ELK. Fisk can't read it either.
+- Day 113: the herd gone into the Fellwood above the village. Fisk at the Eelweir: "Somebody's got to. To tell it after. I'll tell that one." Calder writes his first sentence, at Fisk's table, with a burnt stick on a board: CALDER TURNED THE ELK. Fisk can't read it either.
 - Day 114: back at Varrhold. Aurveth on the setters' ledge with the splints off since day 110 (Ivar took them off; the wing's crooked, a kink at the outer finger-joint, but knitted). At dusk, without telling anyone, she walks to the end of the ledge, opens the wing, and goes off. Drops. Then catches, lopsided, and flies: a long slow crooked circle out over the glen and back. The whole hold comes out to watch. She lands on the setters' ledge, hard, and doesn't fall. *I said it was nothing,* she says. *It was something. Now it is nothing.*
 Magic touches: the Roosts' stone humming east (the Antlered standing); the herd-charm landing on one beast, touch range, with Lisska's wind through him (Magic §10 rule 4, bond gift); its toll (nosebleed, Lisska emptied); live Saltreach ground; the setting-song's work finished.
 notes -->
@@ -276,7 +276,7 @@ He felt it go in. It was like throwing a stone into a pond and feeling, through 
 
 She turned.
 
-Hard. All at once. As if somebody had taken her by the head and pulled. Away from the village. Away from the broken wall and the lane and the people by the burned Wheel. West. Along the top of the field, along the line of the wall, toward the Fellwood.
+Hard. All at once. As if somebody had taken her by the head and pulled. Away from the village. Away from the broken wall and the lane and the people by the burned Wheel. North. Along the top of the field, along the line of the wall, toward the Fellwood.
 
 He let go of the antler and fell in the nettles.
 
@@ -284,7 +284,7 @@ He let go of the antler and fell in the nettles.
 
 He lay on his back in the weeds and watched them go over.
 
-Not over him. Past him. Along the field. The old cow at the front, running west along the top wall with her head up, not mad now, not rolling-eyed: going somewhere, as a cow goes when she's decided. And behind her, the herd. Turning as she turned. Following her off the field, along the wall, toward the trees. Four hundred great elk going past him at a run, close enough that he felt the ground shake under his back and the wind of them in his face, and not one of them went down the hill.
+Not over him. Past him. Along the field. The old cow at the front, running north along the top wall with her head up, not mad now, not rolling-eyed: going somewhere, as a cow goes when she's decided. And behind her, the herd. Turning as she turned. Following her off the field, along the wall, toward the trees. Four hundred great elk going past him at a run, close enough that he felt the ground shake under his back and the wind of them in his face, and not one of them went down the hill.
 
 They went off the field like a flock off a dog.
 
@@ -306,7 +306,7 @@ Nothing.
 
 The word was a word. He felt it leave his mouth and go nowhere, the way it had always gone, every time, at every gate, his whole life. A sound. A Marches boy's word for a slow cow. The bull didn't even turn its head.
 
-It was Kharrak who turned it. Dropping out of the sky in front of it, at last, with no fire, only his wings and his size and his roar, so that the young bull reared and spun and went off west after the others as if it had remembered something.
+It was Kharrak who turned it. Dropping out of the sky in front of it, at last, with no fire, only his wings and his size and his roar, so that the young bull reared and spun and went off north after the others as if it had remembered something.
 
 Calder was on his knees in the weeds.
 
@@ -366,7 +366,7 @@ His mother said the same, when he told her, at the caves, the night after.
 
 Calder sat with that.
 
-He thought of the old cow with the white blaze, going west along the top wall with her head up, not mad. Going somewhere.
+He thought of the old cow with the white blaze, going north along the top wall with her head up, not mad. Going somewhere.
 
 He thought of Lisska lying flat in the weeds. *I gave it all to you.*
 

@@ -16,12 +16,12 @@ Coordinates are leagues, x east and y south, as in `world.py`. "Proposal" means 
 - **Coldrun Locks** (92, 38): the lock-town at the head of Kessmoor's canals, on the Coldrun upstream of Ironhythe (ch 42).
 - **Orrin's ruins** (93.6, 65.4): the north end of the old town, just outside the Scald's cordon, a little north of the Temple of the Scald (ch 45, 51).
 - **Wendhead, Cray's Ford, Lowfold, Brookend, Sallow Lock** (171.6, 61), (176, 64.6), (176.6, 66.9), (175.4, 76), (174.9, 84): the upper-Wend villages of the ch 43 flood, in the prose's downstream order, on the river's line and on the bank each chapter names.
-- **The Scarfell's edge** (186.4, 97.3): ch 11 has it three leagues south-east of Varrhold, where the drove track climbs out of the Fellwood. See conflicts.
+- **The Scarfell's edge** (186.4, 97.3): where Maren's drove track tops the escarpment, three leagues south-east of Varrhold (ch 11). See contradictions.
 - **Greyhold, fallen** (174, 106.6): Greyhold's own point. From ch 85 it replaces Greyhold on both maps.
-- **The hatching caves** (189.6, 89.9): moved from Book 1's item at (194, 76). See conflicts.
-- **The Antlered rising** (246, 79): the Thornwood's southern edge, on the forest side of Lake Ysse. See conflicts.
-- **The Titan on the Sunward Hills** (50.5, 166.5): on the hills just north of Solenne, which the prose puts above the palace. See conflicts.
-- **The Drowned Bell** (217, 203.5): the temple point in `world.py`, with the reef around it and Gullhaven's spit as a small island polygon. See conflicts.
+- **The hatching caves** (189.6, 89.9): on Coldtarn's eastern rim, in every book. See contradictions.
+- **The Antlered rising** (252.5, 78.6): the Thornwood's edge just north of the Moot. See contradictions.
+- **The Titan on the Sunward Hills** (50.5, 166.5): on the ridge above Solenne's palace.
+- **The Drowned Bell** (217.5, 202.6): two leagues east-south-east of the end of Gullhaven's spit. See contradictions.
 - **The Titan's road** (dotted track, 17 legs plus the five converging in ch 88): drawn from each chapter's place names, between world.py positions.
 
 ### Book 3 (`book3_items.py`)
@@ -44,7 +44,7 @@ Coordinates are leagues, x east and y south, as in `world.py`. "Proposal" means 
 - **Where Lisska, Aurveth, Orrun, Kharrak and the others died**: on the tarn, across Hollow Beck's mouth, at the door, and on the Fenn top field, each as its chapter describes.
 - **Varrhold, under the slip** (184.4, 94.8): Varrhold's own point. From ch 85 it replaces Varrhold on both maps.
 - **The drowned road and the far shore (the Lit Shore)**: all off the edge of Winshire. Nothing in `world.py` or `World.md` places them, so these are working proposals:
-  - The road runs south-west from the Drowned Bell's reef. Milestone 41 ("two days out of Blackwater") is at (211, 209), with one pier every 2.2 leagues on bearing (−0.72, 0.69), so milestone 1 lands at (147.5, 269.9), about 90 leagues off the coast.
+  - The road runs south-west from the Drowned Bell's reef (217.5, 202.6). Milestone 41 ("two days out of Blackwater") is at (211, 209), with one pier every 2.2 leagues on bearing (−0.72, 0.69), so milestone 1 lands at (147.5, 269.9), about 90 leagues off the coast.
   - The city on the sand (144.6, 272.7) sits at the landfall, behind a shelf about three leagues out. The Needle is the gap by the last pier.
   - The Grey Mother's hill (136.7, 280.3) is two days up the paved road.
   - The Hall of Light (133.5, 289) is where the road crosses the ridge.
@@ -52,23 +52,19 @@ Coordinates are leagues, x east and y south, as in `world.py`. "Proposal" means 
   - The coast runs north-west to south-east through the city, then turns west at the south bay.
   - The far coast appears from ch 25, when the Kittiwake first raises it. The label "The Lit Shore" appears from ch 27.
 
-## Contradictions, and what I did
+## Contradictions, and how they were settled *(Oct 2026)*
 
-- **Book 1's maps.** Every change is behind the book parameter: `compose(n)` with no book, `render(...)` without `mi`, and `python3 build.py` with no arguments run Book 1's original code paths. The new river in `world.py` is drawn only when a later book asks for it.
-- **The Glasswater has no outflow in `world.py`,** but Book 2's meltflood comes down the valley that heads the Wend (ch 43). I added the outflow as `LATER_RIVERS`, drawn in Books 2 and 3 only.
-- **The hatching caves.** Book 1's item is far up the Scarfell at (194, 76). Books 2 and 3 put them on Coldtarn's rim: four leagues from Varrhold (B2 ch 12, 52) and across the bowl from the crag with the hall (B3 ch 59, 85). Books 2 and 3 draw them at (189.6, 89.9). Book 1 is untouched.
-- **Kethra's Moot.** `world.py` has it at (242, 122), south-west of Lake Ysse and about 40 leagues from the Thornwood. Book 2's prose puts it on the north shore with the forest edge a league north, and "two days" from the Hollow Ring, which is 71 leagues on the map. I kept `world.py`'s point. The Antlered's rising is drawn at the Thornwood's south edge (246, 79), with an arrow to it on the Moot close-up.
-- **The Scarfell's edge.** Book 2 ch 11 has it three leagues south-east of Varrhold. World.md's Book 3 line has it on the Way, 8–10 leagues from Harrow's End. I drew Book 2's point. Book 3's Orrun stands across the Way at the Fellwood's foot (179.1, 101.5), where ch 77 puts him, and isn't labelled as the Scarfell's edge.
-- **The Drowned Bell.** There are three candidates:
-  - the temple in `world.py` at (217, 203.5);
-  - `world.py`'s "Bell Reef" island at about (241, 212), some 25 leagues off Gullhaven;
-  - Book 2's prose, which puts it two leagues east-south-east of the spit's end.
+Each was settled for every book, and `Bible/World.md` records the ruling. Book 1's maps and `Bible/Atlas.md` were rebuilt where the ruling changes them.
 
-  I used the temple point. That puts Gullhaven (216, 198) about three leagues inland of `world.py`'s coastline, so the spit is drawn as its own small island polygon. Book 3's drowned road starts there too.
-- **The Sunward Hills.** Book 2's prose has them above Solenne's palace; `world.py` labels them about 60 leagues north. Book 2's Titan on the hills is drawn just north of Solenne, at the Elderwood's south edge. Book 3's Vintner's Gate is where the Sun Road leaves `world.py`'s hills for Hallowmere.
-- **The Fellwood.** Book 2 ch 26 says it is west of the village; Book 1 and World.md put it east. I kept it east.
-- **Teo's ford.** The distances in Book 1's item description don't quite match its position. It is a Book 1 item, so I left it alone.
-- **The Vael Pass road.** In `world.py` it crosses the corner of Glasswater. That is a rendering artefact; I left it.
+- **Glasswater's outflow.** It is canon in every book: the lake drains south through the Iron Fells to the upper Wend at Wendhead, "the valley that heads the Wend". It is in `world.py`'s `RIVERS`, so Book 1's maps draw it too.
+- **The hatching caves.** Book 1's prose says "above Coldtarn", which fits Books 2 and 3. Every book's maps now put them on Coldtarn's eastern rim (189.6, 89.9); Book 1's item moved there from (194, 76).
+- **Kethra's Moot, Lake Ysse and the Hollow Ring.** Lake Ysse moved to the Thornwood's southern edge (254, 86), with the Ysse running through it, and the Moot sits on its north shore (252, 81.4) with the forest a league behind and the Plains in front, as Book 2 chs 22–27 and Book 3 ch 7 describe. The Hollow Ring moved to (260, 66), deep in the Thornwood and two days' walk north of the Moot (Book 2 ch 22). The Antlered rose at the forest's edge just north of the Moot.
+- **The Scarfell's edge.** Not a contradiction: the edge is the escarpment along the Fellwood's northern side. The Way tops it above Teo's ford, eight to ten leagues by road from Harrow's End; Maren's drove track tops it three leagues south-east of Varrhold (Book 2 ch 11).
+- **The Drowned Bell.** The prose is consistent: two leagues off the end of Gullhaven's spit, east-south-east. The spit is now part of `world.py`'s coastline, and the reef and the temple point are at (217.5, 202.6). The far-off "Bell Reef" island is gone. Book 3's drowned road starts there.
+- **The Sunward Hills.** They now run from Highcrest's vineyards down the Sun Road to the ridge above Solenne's palace, as Book 2 has them.
+- **The Fellwood.** Book 2 ch 26 now turns the elk cow north along the Fenn top wall into the Fellwood, which lies east of the village and above it, as in Book 1.
+- **Teo's ford.** Not a contradiction: the prose gives road distances, and the maps measure straight lines. The Way winds up Hollow Beck, so road distances run about a third longer.
+- **The Vael Pass road.** It now goes round Glasswater's western shore.
 - **The catacombs.** Book 1 shows "the catacombs (below)" under Greyhold. Book 2 keeps the label. Book 3 drops it, because the cavern fell in with the hill at Book 2 ch 85.
 - **Varrhold.** It is drawn until Book 3 ch 84. From ch 85, "Varrhold, under the slip" replaces it.
 - **The far shore** lies off Winshire's map. Those close-ups run past the edge (`free`). On the Winshire map those chapters get an arrow at the bottom edge instead of a box, and the far coast isn't drawn before ch 25.
@@ -110,16 +106,16 @@ Each line gives the close-up's centre and scale, then what's new. "Slid" means t
 - **13 The Thornwood**: ends at The Thornwood. Close-up on (252, 62), 12 px/league. New: The Worldsend; The Hallow Plains; The Last Titan's road; Maren's road east; The Lions' Barrows; The Hollow Ring; The Titan on the stones.
 - **14 Cotter's Cross**: ends at Cotter's Cross. Close-up on (180.5, 112), Marches scale, 30 px/league. New: The Candle Downs; Ten thousand for the lion; Kharrak's gully.
 - **15 The Hallow Plains**: ends at The Hallow Plains. Close-up on (246, 84), 12 px/league. New: The Speaking Stones; Sleepwood groves burned; Rowan's chain.
-- **16 Sleepwood**: ends at The Hollow Ring. Close-up on (262, 55), 20 px/league. New: The grey; The Wardens' rise; The knights' stakes.
+- **16 Sleepwood**: ends at The Hollow Ring. Close-up on (260, 67), 20 px/league. New: The grey; The Wardens' rise; The knights' stakes.
 - **17 The Ledger**: ends at Varrhold; the hatching caves. Close-up on (186.5, 93), Marches scale, 30 px/league. New: Rook's ledger read.
-- **18 The Hollow Ring**: ends at The Hollow Ring. Close-up on (262, 55), 20 px/league. New: The finding-knot.
+- **18 The Hollow Ring**: ends at The Hollow Ring. Close-up on (260, 67), 20 px/league. New: The finding-knot.
 - **19 Skarrow**: ends at Skarrow. Close-up on (188.5, 96), Marches scale, 30 px/league. New: Two steadings burned.
-- **20 Midsummer Night**: ends at The Hollow Ring. Close-up on (262, 55), 20 px/league. New: The Hollow Ring; It flew west; The capture; The Ring falls in.
+- **20 Midsummer Night**: ends at The Hollow Ring. Close-up on (260, 67), 20 px/league. New: The Hollow Ring; It flew west; The capture; The Ring falls in.
 - **21 The Roosts**: ends at The Roosts. Close-up on (185.8, 93.5), Marches scale, 30 px/league. New: Corvin's raid on the Roosts; Where Tor and Skell died; Four young dragons taken.
-- **22 The Surge**: ends at Lake Ysse. Close-up on (250, 100), 12 px/league. New: Kethra's Moot; To the Moot; The clans gather at the Moot.
-- **23 Under the Stones**: ends at Under the Hollow Ring. Close-up on (262, 55), 20 px/league. New: Six sleepers carved.
+- **22 The Surge**: ends at Lake Ysse. Close-up on (254, 84), 12 px/league. New: Kethra's Moot; To the Moot; The clans gather at the Moot.
+- **23 Under the Stones**: ends at Under the Hollow Ring. Close-up on (260, 67), 20 px/league. New: Six sleepers carved.
 - **24 The Black Tarn**: ends at Coldtarn. Close-up on (187, 92.5), Marches scale, 30 px/league. New: Tor Brecc's pyre.
-- **25 The Moot**: ends at Kethra's Moot, Lake Ysse. Close-up on (244, 118), 20 px/league. New: The Antlered rose; The lanes held; Where Hesper and Hush died; The Antlered rose, to the north.
+- **25 The Moot**: ends at Kethra's Moot, Lake Ysse. Close-up on (252.5, 81.5), 20 px/league. New: The Antlered rose; The lanes held; Where Hesper and Hush died.
 - **26 Westward**: ends at Harrow's End, the Fenn top field. Close-up on (179, 101.5), Marches scale, 30 px/league. New: The elk herd turned; The Fenn top field.
 - **27 The Drain**: ends at The Wyldmarch, riding west. Close-up on (210, 82), 5.5 px/league, slid to (210.0, 97.1) to stay on the map. New: The Last Titan's road; Idony rides west; The Wyldmarch gone dead.
 - **28 The Tusker Road**: ends at Vael's gate, under the High Crown. Close-up on (165, 36), 12 px/league, slid to (165.0, 38.0) to stay on the map. New: The tusker road; An old milestone; The pass-stone.

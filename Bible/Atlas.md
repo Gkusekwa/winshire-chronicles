@@ -37,16 +37,16 @@
 | Hallowmere | Ironhythe | 91 | 114 | 14 days | 8 days | 11.4 hours |
 | Hallowmere | Solenne | 102.5 | 128 | 16 days | 9 days | 12.8 hours |
 | Wendmouth | Corsa | 80 | 99.5 | 12.5 days | 7 days | 10 hours |
-| Corsa | Kethra's Moot | 74 | 92 | 11.5 days | 6.5 days | 9.2 hours |
-| The Old Ruin | The Hollow Ring | 99.5 | 124.5 | 15.5 days | 9 days | 12.4 hours |
+| Corsa | Kethra's Moot | 112 | 140 | 17.5 days | 10 days | 14 hours |
+| The Old Ruin | The Hollow Ring | 92.5 | 115.5 | 14.5 days | 8 days | 11.5 hours |
 | Varrhold | Vael | 68 | 85 | 10.5 days | 6 days | 8.5 hours |
 | Solenne | Corsa | 215 | 269 | 33.5 days | 19 days | 26.9 hours |
 
 ## The shape of the land
 
-- **Mountains.** The **Worldsend** runs down the whole eastern edge, the highest range in Winshire, white all year; the clans say the Titans walked there. The **High Crown** closes the north. The **Iron Fells** run south-east from the High Crown between Kessmoor and Isvaren, rich in ore, and bend east under the foot of Glasswater. The **Scarfell** is the Dragon Clan's moorland north-east of the Marches. The **Sunward Hills** are Sarovel's vineyards.
-- **Rivers.** The **Wend** rises in Isvaren's snows and runs south to the Shattered Sea, marking the Hearthmere–Saltreach border for its whole lower course. The **Coldrun** drains Kessmoor west through Ironhythe to Gearmouth. The **Gilt** waters Sarovel and reaches the sea at Solenne. The **Meryl** carries the Mere south to Stillhaven. The **Ysse** comes out of the Worldsend, fills Lake Ysse, and reaches the sea at Corsa. **Hollow Beck** runs from Coldtarn past Varrhold and Harrow's End into the Wend opposite the Old Ruin.
-- **Lakes.** **The Mere** (Hearthmere's heart, shallow and wide), **Lake Ysse** (where the Wyldmarch clans hold their moot), **Glasswater** (under Vael's towers), **Coldtarn** (a black tarn above Varrhold where the Clan burns its dead).
+- **Mountains.** The **Worldsend** runs down the whole eastern edge, the highest range in Winshire, white all year; the clans say the Titans walked there. The **High Crown** closes the north. The **Iron Fells** run south-east from the High Crown between Kessmoor and Isvaren, rich in ore, and bend east under the foot of Glasswater. The **Scarfell** is the Dragon Clan's moorland north-east of the Marches. The **Sunward Hills** are Sarovel's vineyards and olive terraces, running from Highcrest down the Sun Road to the ridge above Solenne's palace.
+- **Rivers.** The **Wend** rises in Isvaren's snows, takes **Glasswater's outflow** down the valley that heads it, and runs south to the Shattered Sea, marking the Hearthmere–Saltreach border for its whole lower course. The **Coldrun** drains Kessmoor west through Ironhythe to Gearmouth. The **Gilt** waters Sarovel and reaches the sea at Solenne. The **Meryl** carries the Mere south to Stillhaven. The **Ysse** comes out of the Worldsend, fills Lake Ysse, and reaches the sea at Corsa. **Hollow Beck** runs from Coldtarn past Varrhold and Harrow's End into the Wend opposite the Old Ruin.
+- **Lakes.** **The Mere** (Hearthmere's heart, shallow and wide), **Lake Ysse** (under the Thornwood's southern edge, where the Wyldmarch clans hold their moot on the north shore), **Glasswater** (under Vael's towers), **Coldtarn** (a black tarn above Varrhold where the Clan burns its dead).
 - **Forests.** The **Thornwood** (the Wyldmarch's deep forest), the **Greenwold** (oak woods north and east of Hallowmere, running east to the upper Wend at the Greenwold road's ford), the **Brackenwood** (royal hunting ground beside Greyhold), the **Elderwood** (Sarovel), the **Ashlings** (Saltreach scrub woods).
 - **Plains, marsh and valley.** The **Hallow Plains** (Wyldmarch grassland and standing stones), the **Candle Downs** (Hearthmere's farmland), the **Saltings** (Saltreach salt marsh), the **Reedmarsh** (poachers' reed beds below Cotter's Cross), and the **Vale of the Wend**, the long river valley that is the Marches.
 - **Seas.** The **Shattered Sea** to the south, named for the split of the old realm; the **Western Deep** beyond Kessmoor and Sarovel.
@@ -97,7 +97,7 @@
 - **Varrhold** (hold). *(name proposed)* The Dragon Clan's hold, eleven leagues north-east of Harrow's End in the Scarfell. A ring of black-stone longhouses inside a turf rampart, the chief's hall roofed with dragon-scale shingles shed over generations, and above it the Roosts: dragon eyries cut into the cliff, scorched black at the mouths. Two days by grain cart from Harrow's End, one on horseback; about an hour and a half by dragon at a steady pace.
 - **Cotter's Cross** (town). A rough market town on the Saltreach bank where the Drover's Way meets the Saltreach Track. Inns, a beast pen, a hiring yard where sellswords wait for contracts. Nobody keeps the peace here except whoever paid most recently.
 - **Wendmouth** (city). A port-city on the east bank at the mouth of the Wend, run by four trading houses who hate one another. Painted warehouses on stilts, a floating market, and the beast market at Gallows Quay, legal and otherwise.
-- **Gullhaven** (city). A fishing and salt port behind a long shingle spit. Smoke houses, salt pans, the best oysters in the Six Kingdoms and the worst wine.
+- **Gullhaven** (city). A fishing and salt port behind a long shingle spit, which runs out east-south-east toward the Drowned Bell. Smoke houses, salt pans, the best oysters in the Six Kingdoms and the worst wine.
 - **Corsa** (capital). The largest city of the Saltreach League, where the trading houses and pirate captains sit together in the Tide Council. Tall, narrow houses with painted shutters; chains across the harbour mouth; every second building a counting-house or a tavern. If Saltreach has a capital, this is it.
 - **Blackwater** (town). A smugglers' town in a dark-water inlet under the southern tail of the Worldsend. Outlaws, sellsword companies between contracts, and no questions.
 - **The Saltings** (landmark). Salt marsh and tidal flats between Gullhaven and Corsa. Salt pans, wading birds, and a maze of channels that only the locals sail.
@@ -157,7 +157,7 @@
 
 - **The Thornwood** (landmark). Deep, old forest: oak, black pine and thorn, so dense in places that clans travel by the river. Beasts roam freely. Keepers walk its paths.
 - **The Hallow Plains** (landmark). Wide grassland running east to the Worldsend. Herds, horse clans, and standing stones that the clans say mark where beasts are buried.
-- **Kethra's Moot** (town). Not a town but a meeting ground on the shore of Lake Ysse, where the clans gather each midsummer under the elders. Hundreds of roundhouses and tents for a month, then empty grass.
+- **Kethra's Moot** (town). Not a town but a meeting ground on the north shore of Lake Ysse, with the Thornwood's edge a league behind it and the Plains in front, where the clans gather each midsummer under the elders. Hundreds of roundhouses and tents for a month, then empty grass.
 - **The Worldsend** (landmark). The great eastern range, higher than any other mountains in Winshire, white all year. The clans say the Titans walked there at the world's edge. No one living has seen one.
 
 ## The Marches in detail
@@ -273,7 +273,7 @@
 - **The Sun Stair** (Sarovel). Beneath the Bond-King's palace, below the sea stair, a temple holds a sleep relic. Sarovel's crowned line has worshipped there for centuries as a shrine of the gods and never guessed what it keeps. (Book 2)
 - **The Undercroft** (Isvaren). Excavated ruins beneath Vael, older than the colleges, which the scholars study as the remains of a pre-split shrine. One sealed chamber they have never opened holds a sleep relic. (Book 2)
 - **The Hollow Ring** (The Wyldmarch). A ring of standing stones in a clearing deep in the Thornwood, sacred to the clans. Under the ring a temple holds a sleep relic. The clans guard the ring without knowing what is beneath it. (Book 2)
-- **The Drowned Bell** (Saltreach). A temple that sank into the sea at the split of the old realm, now a reef pirates use as a landmark. At low spring tides you can hear what sounds like a bell. A sleep relic lies in its drowned hall. (Book 2)
+- **The Drowned Bell** (Saltreach). A temple that sank into the sea at the split of the old realm, now a reef two leagues off the end of Gullhaven's spit that pirates use as a landmark. At low spring tides you can hear what sounds like a bell. A sleep relic lies in its drowned hall. (Book 2)
 - **The Catacombs** (Hearthmere). Beneath Greyhold and running under the border to the Old Ruin: the catacombs where the Last Titan lies chained. Two locks, one under the school and one at the Ruin. Beyond the chains, in the deepest vault, Hearthmere's temple still holds the control relic, hidden by old magic. Hearthmere broke the Titan's own sleep relic long ago. (Books 1 and 2)
 
 ## Open questions

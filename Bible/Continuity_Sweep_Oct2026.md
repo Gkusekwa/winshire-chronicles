@@ -1,10 +1,20 @@
 # Continuity Sweep, October 2026
 
-*All three books' chapters, checked against `World.md`, `Atlas.md`, `Tools/atlas/world.py` (plus the map item files), and the three Chapter Plans. Nothing has been edited. The fixes below are proposals only.*
+*All three books' chapters, checked against `World.md`, `Atlas.md`, `Tools/atlas/world.py` (plus the map item files), and the three Chapter Plans.*
 
-## Applied (Oct 2026)
+## Current status (re-verified 29 Oct 2026)
 
-All the real errors are fixed, with the smallest change each:
+**All real errors are resolved. Nothing in this report is still open.** Each old wording was searched for again in the current drafts and is gone; the map is rebuilt.
+
+Two of the original proposals were changed when applied, so the baseline below does not match the drafts on these points:
+- **The hatching caves are six leagues from Varrhold, not seven.** Seven would have put the caves out of range of Aurveth's mind-speech in Book 2 ch 12. Six, by the moor path, keeps it in range, heard as "more feeling than word". World.md, the chapters and the tales all say six.
+- **Hollin Knowe was a false positive.** A later override in `marches_items.py` already put it two leagues west of the river, so it didn't move. Only Ferriby and Penfold moved.
+
+The remaining "Wynn with Ash" lines (Book 2 ch 15 notes, Book 3 ch 10) are correct: Wynn keeps two hounds, and Sorrow is the bonded one.
+
+## Fixes applied (Oct 2026)
+
+Each real error was fixed with the smallest change:
 - **Bonds:** Wynn's bonded hound is Sorrow (Book 1 ch 51); Callis isn't called bonded (ch 33); Calder hears Orrun only through Lisska (Book 3 ch 12).
 - **Calendar:** the night of the mill is under the "old moon" (Book 2 ch 35); "starlight" at dusk on day 65 (Book 1 ch 39); "three days" with Ide (ch 59). Book 2 ch 37's field already reads 172–177.
 - **Distances:** the hatching caves are six leagues from Varrhold by the moor path (Book 2 chs 12, 52; Book 3 ch 42 notes; World.md; two tales). At six leagues Aurveth's voice reaches Calder as "more feeling than word" (Book 2 ch 12), inside the range rule. Ferriby and Penfold moved on the map and every map rebuilt. **Hollin Knowe was a false alarm:** a later override in `marches_items.py` already puts it at (174.0, 102.6), two leagues west of the river.
@@ -12,6 +22,12 @@ All the real errors are fixed, with the smallest change each:
 - **Bible:** World.md now has Teo's single-night pyre, Ulric's burning at Skarrow, the riders burned at the mill, Gunna and Tamsin's Thornwood pour, one road allowance (about a quarter, as the Atlas table uses) and the Titan-class flying time.
 - **Optional ones taken:** Arn's "one bolt… that started it" (Book 2 ch 24). The stale reef note in Book 3 ch 24 is replaced.
 - **Housekeeping:** the 29 Plan `Days` rows are widened to match their chapters.
+
+---
+
+# Baseline: findings before the fixes (historical)
+
+*Everything below records the drafts as they stood before the October 2026 fixes. It is kept as the record of what was found and why. The "Smallest fix" lines were proposals; see Current status above for what was applied.*
 
 ## Method and counts
 
@@ -86,13 +102,13 @@ Book 1 ch 59, Rowan: "You sat with Ide Darrow for **three nights**." Ch 39 has t
 - But Book 1 ch 8 has "Coldtarn lies about **five leagues** above Varrhold", and World.md puts the caves on Coldtarn's **eastern rim, across the tarn** from the hall. On the map the caves are 7.1 leagues from Varrhold (straight line), Coldtarn's centre 5.2, and the hall 3.9.
 
 **Why:** the far side of a tarn that lies five leagues away can't be four leagues away. The map is 78% longer than the prose.
-**Smallest fix:** "four" → **"seven"** in Book 2 ch 52's prose and the two sets of notes, and change World.md's "about four leagues" to "about seven". (If "four" must stay, move the caves to the western rim, but World.md says every book's maps put them on the eastern rim.)
+**Smallest fix (proposed; applied as six):** "four" → **"seven"** in Book 2 ch 52's prose and the two sets of notes, and change World.md's "about four leagues" to "about seven". (If "four" must stay, move the caves to the western rim, but World.md says every book's maps put them on the eastern rim.)
 
 ### 3.2 Map coordinates that disagree with the prose (real errors, data only)
 In `Tools/atlas/marches_items.py`:
 - **Ferriby** (171.0, 99.4) is 5.4 leagues from Redwatch. The prose says "a league in from the river, up past Greyhold, by Redwatch" (Book 1 ch 38), and so does Atlas.md. **Fix:** about (173.6, 103.0).
 - **Penfold** (169.4, 92.6) is 7.0 leagues from Ferriby. Book 2 ch 72 has "A boy ran up the River Road from Penfold, **a league**". **Fix:** put it about a league down the River Road from the corrected Ferriby.
-- **Hollin Knowe** (171.0, 102.3) is about 3.5 leagues from the Hearthmere bank and 5.2 from Greyhold. The prose (Book 1 ch 67) and the Atlas say "two leagues west of the river". **Fix:** about (172.6, 102.5).
+- **Hollin Knowe** (171.0, 102.3) is about 3.5 leagues from the Hearthmere bank and 5.2 from Greyhold. The prose (Book 1 ch 67) and the Atlas say "two leagues west of the river". **Fix:** about (172.6, 102.5). *(False positive: this read the base coordinate; a later override already puts it at (174.0, 102.6). Not moved.)*
 
 The chapter-end maps should then be rebuilt.
 
@@ -198,18 +214,18 @@ Book 2 ch 37 goes the other way: there the chapter's field is wrong and the Plan
 
 ---
 
-## Summary of fixes, most serious first
+## Summary of proposed fixes, most serious first (all applied)
 
 1. Book 1 ch 51: "Wynn with Ash" → "Wynn with Sorrow". *(One life between two.)*
 2. Book 1 ch 33: delete "both bonded,". *(Callis outlives Grip.)*
 3. Book 2 ch 35: "last full moon" → "old moon", ×2.
 4. Book 3 ch 12: "*I believed her,* said Orrun" → "*He says he believed me,* said Lisska."
 5. Book 3 ch 85: "lain a hundred years" → "lain a year".
-6. Book 2 ch 52 (and the notes of Book 2 ch 12 and Book 3 ch 42, plus World.md): caves "four leagues" → "seven".
+6. Book 2 ch 52 (and the notes of Book 2 ch 12 and Book 3 ch 42, plus World.md): caves "four leagues" → "seven". *(Applied as **six**; see Current status.)*
 7. Book 3 ch 85: "her hand on her hound's head" → "his… his"; Book 3 ch 10: Ash "him/his" → "her".
 8. Book 2 ch 37: `Days: 172` → `172–177`.
 9. Book 1 ch 39: "In the moonlight" → "In the starlight".
 10. Book 1 ch 59: "three nights" → "three days".
 11. World.md: Teo's single-night pyre; Ulric burning at Skarrow; one wording for the road allowance.
-12. `marches_items.py`: move Ferriby, Penfold and Hollin Knowe, then rebuild the maps.
+12. `marches_items.py`: move Ferriby, Penfold and Hollin Knowe, then rebuild the maps. *(Hollin Knowe was a false positive and didn't move.)*
 13. Book 3 ch 24: delete the stale note about the reef.

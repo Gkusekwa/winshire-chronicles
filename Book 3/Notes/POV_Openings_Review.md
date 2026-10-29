@@ -1,6 +1,130 @@
 # Book 3: POV Openings Review
 
-## Applied (Oct 2026)
+## Status (current, Oct 2026)
+
+Re-checked on all 86 chapter openings in `Book 3/Chapters/` as they stand now, after the 32 fixes listed under **Fixes applied (Oct 2026)** below. The test is the same as the original review's (see **Method**).
+
+**Counts now:** 86 pass on all four points. 0 weak. 0 fail.
+
+**Verdict:** the openings meet the editor's test. Every chapter now tells the reader, within the first paragraph or two after the notes block, whose head we are in, where, roughly when, and what that person wants or is doing and how it ties to the war. All 32 fixes are in the prose as listed, and none of them has made a new weak point. The same-gender POV switches that caused most of the old (a) problems (Rowan, Tobin, Calder after Idony, Arn after Calder) now carry a name or a beast cue in the first lines.
+
+**Chapters still weak or failing:** none. No further fixes are needed.
+
+**Closest calls (pass, but worth knowing about):**
+
+- **Ch 45 (Calder), c.** The opening dates his return (*"the night he came down, on the hundred-and-forty-ninth"*) and then counts forward (*"every day since"*, *"The first ten days"*). The chapter's present (day 185) is never given as a number. That is enough to pass, because the reader knows where this sits relative to the last Calder chapter. If you want the present pinned too, you could add a day to the later line *"He heard it on the second day."*, but it isn't needed.
+- **Ch 24 (Maren).** The added sentence sits between *"The first pier came on the ninety-seventh."* and *"Out of open sea."*, so the fragment now follows Maren's arm rather than the pier. It still reads clearly. Optional: move *"Out of open sea."* up so that it follows the first sentence.
+- **Ch 36, 57, 69 (Idony)** and **ch 86 (Maren)** don't name the POV in the first ~250 words. They pass under the house-style rule, because the cue arrives at once: the glasses, the tide-glass and far-stone, Isvaren, the chair (Idony); the Warden's coat and the stone sense (Maren). Each of these follows a POV of the other gender, so there's no risk of a misread.
+
+## Method
+
+For each chapter I read the prose opening (the first ~250 to 300 words after the `<!-- notes -->` block) and checked whether, within the first paragraph or two, the reader learns:
+
+- **(a) Who:** whose head we are in.
+- **(b) Where:** where they are.
+- **(c) When:** roughly when, relative to what we last saw.
+- **(d) Want / war:** what they want or are doing now, and how it ties to the war.
+
+Key: **P** = pass, **W** = weak (you can work it out, but the page doesn't say it, or says it late), **F** = fail (missing, or likely to mislead).
+
+House style note: the book's openings lead with a pronoun and let a cue name the POV (Orrun or "the lion" for Maren; Kharrak, Lisska or Aurveth for Calder; Ildra for Arn; the glasses for Idony). When that cue arrives in the first paragraph or two I count (a) as a pass even if the name comes later. Every chapter in Book 3 changes POV from the one before it, so every opening was checked as a viewpoint change.
+
+## Current table
+
+As the chapters stand now (Oct 2026, after the fixes). An asterisk (*) marks a chapter whose opening was changed in the fixes.
+
+| Ch | POV | a | b | c | d | Note |
+|---|---|---|---|---|---|---|
+| 1 | Maren | P | P | P | P | Greyhold's fallen hill, second morning, Orrun, the dig. |
+| 2* | Calder | P | P | P | P | Bel's table, last morning of the year. Calder named at the section's end, and the war comes in through the lights over the Worldsend. |
+| 3 | Idony | P | P | P | P | Window, glasses, ferry house. Davin's letter ties in to "what's coming". |
+| 4* | Maren | P | P | P | P | "On the eighth night", Liss's table, Maren named in line 1. The silk and the mark carry the war. |
+| 5* | Arn | P | P | P | P | Varrhold's hall, eight days since the six went up, the riders waiting on the farmer's word. |
+| 6* | Calder | P | P | P | P | Coast Road, day 12. He has come to find Gullhaven's people. |
+| 7* | Maren | P | P | P | P | Ysse drove ford, day 16. She has come to bring the clans across the shut border. |
+| 8* | Tobin | P | P | P | P | Solenne's low city named, fifteenth morning. His want (the next bread) is stated. |
+| 9 | Calder | P | P | P | P | Kharrak on the Tidehall steps, day 22. Ulric's speech carries the war. |
+| 10 | Rowan | P | P | P | P | Named in line 3. Jetty, day 29, the summons. |
+| 11* | Maren | P | P | P | P | Maren named in the first section. The stonehorn column, the dead grass, Tova's count. |
+| 12 | Calder | P | P | P | P | Ironhythe, day 60, Kharrak and Lisska, the summons. |
+| 13* | Kit | P | P | P | P | Day 60. The stone across the Merrins' channel out of Blackwater, and the Ostrey debt falling due. |
+| 14* | Maren | P | P | P | P | Blackwater inlet, day 76. She needs a reef-pilot to take a lion west and has next to nothing to pay. |
+| 15* | Calder | P | P | P | P | Corsa's signal-field named. The chain money, the day after Ironhythe. |
+| 16 | Idony | P | P | P | P | Salvage hold, day 80, far-stone. |
+| 17 | Maren | P | P | P | P | Orrun at word 1, day 84, the channel. |
+| 18 | Arn | P | P | P | P | Pens facing west, days 41 and 71. The callback to ch 5 anchors it. |
+| 19 | Calder | P | P | P | P | Tidehall roof, Lisska, days 87 and 88, the houses flee. |
+| 20 | Kit | P | P | P | P | The houses arrive at Blackwater, day 89. |
+| 21 | Maren | P | P | P | P | Day 94, the *Kittiwake*, slipping out. |
+| 22 | Calder | P | P | P | P | Skarrow, Ulric's burning, day 89 backstory. |
+| 23* | Rowan | P | P | P | P | "Rowan had known for forty days" at the start of the second section. The Downs evacuation. |
+| 24* | Maren | P | P | P | P | Maren named in the first paragraph, day 97, the first pier. (See closest calls.) |
+| 25 | Kit | P | P | P | P | The last milestone, the Needle, her father's rule. |
+| 26 | Calder | P | P | P | P | Explicit step back to day 112. Aurveth failing. The fleet. |
+| 27 | Maren | P | P | P | P | Lagoon, day 119, the road rising. |
+| 28 | Calder | P | P | P | P | Jory, Aurveth, the fleet at *forty-one*. |
+| 29 | Kit | P | P | P | P | The custom, tenth day since landfall, the knight overdue. |
+| 30 | Maren | P | P | P | P | Day 127, the milestone, Orrun. (The notes' Days field marks 126 to 129 as told back.) |
+| 31 | Idony | P | P | P | P | Gannet, day 135, the light on the hill. |
+| 32* | Calder | P | P | P | P | Calder named in the first paragraph, counting the ninety-four from Kharrak's neck. Last pier, day 137. |
+| 33* | Tobin | P | P | P | P | Ironhythe's yards, day 130. The Bridle and what it's for are stated. |
+| 34 | Maren | P | P | P | P | Maren named in line 2, day 137, the Mother rises. |
+| 35 | Calder | P | P | P | P | The question to the gods is the war, stated outright. |
+| 36 | Idony | P | P | P | P | Blackwater memory, then day 144 in the hall. The tide-glass and far-stone are the cue. |
+| 37 | Maren | P | P | P | P | Day 145, the farmer gone, the ridge. |
+| 38 | Arn | P | P | P | P | Gorm's letter, day 139, Rowan's order to empty the coast. |
+| 39* | Calder | P | P | P | P | Days 143 to 146 at the crossroads. He's waiting for the Wayfarer's last gift. |
+| 40 | Maren | P | P | P | P | Lagoon, day 147, the contract, "another road". |
+| 41* | Rowan | P | P | P | P | Day 145 in line 1, Rowan named in the first paragraph. The Wend camp. |
+| 42 | Calder | P | P | P | P | Day 149, crossroads, "Home". |
+| 43 | Maren | P | P | P | P | Day 181, out of the sea onto the Coast Road. |
+| 44 | Kit | P | P | P | P | Day 172, home through the chain. |
+| 45* | Calder | P | P | P | P | Coldtarn's caves. Dated from his return on day 149, and the Last Titan in the Mere gives the war. (See closest calls.) |
+| 46* | Rowan | P | P | P | P | Day 191, Rowan named in the second sentence, the lion comes up the Wend. |
+| 47* | Maren | P | P | P | P | Day 206, the camp. Her stake: the Lamp wants the six held together, and the council will ask the lion. |
+| 48* | Tobin | P | P | P | P | Day 200, Tobin named at the start of the second section. The Bridle breaks down for the trains. |
+| 49 | Calder | P | P | P | P | Days 208 and 224, the air to the Thornwood. |
+| 50 | Maren | P | P | P | P | Orrun in the first paragraph, the horns, the burning edge. |
+| 51* | Calder | P | P | P | P | Calder named at the start of the second section. The Thornwood dead. |
+| 52* | Idony | P | P | P | P | Day 236, his room at the camp, seven of eight logs in. Then the flashback to day 207. |
+| 53 | Maren | P | P | P | P | "The lion" in line 1, days 236 to 241, Brede. |
+| 54 | Calder | P | P | P | P | Day 245, Rowan, Coldtarn, Ada. |
+| 55* | Rowan | P | P | P | P | Rowan named in the second sentence. The camp moved to the eddy, day 249. |
+| 56 | Maren | P | P | P | P | Stormkite girl, "Maren looked at the Wend." |
+| 57 | Idony | P | P | P | P | Midwinter fires, Isvaren, his glasses. |
+| 58 | Calder | P | P | P | P | Day 278, Lisska, watching the river for the Bell. |
+| 59* | Maren | P | P | P | P | Day 294, north to Coldtarn. Why: a refuge if the line breaks, and only the lion opens stone. |
+| 60* | Kit | P | P | P | P | The Sheepford, Kit named, day 295. The barges to lift up to the hub. |
+| 61* | Calder | P | P | P | P | Calder named at the start of the second section. The council's eve. |
+| 62* | Tobin | P | P | P | P | Day 297, Tobin named in the third section. The fallback goes down the Iron Road. |
+| 63 | Maren | P | P | P | P | "From his head", eastern wall, dawn, the first Titan. |
+| 64 | Calder | P | P | P | P | Kharrak at ~20 words, the ridge, the five rise. |
+| 65* | Rowan | P | P | P | P | Rowan named in line 1. Riding the wall, Haverly's edge. |
+| 66 | Maren | P | P | P | P | Orrun at ~16 words, the Saltreach bank humming. |
+| 67 | Arn | P | P | P | P | Arn and Ildra in the first 50 words. The wounded go to Varrhold. |
+| 68 | Calder | P | P | P | P | Aurveth at ~19 words, the second dawn. |
+| 69 | Idony | P | P | P | P | The hub landing, his chair, the glasses. |
+| 70 | Maren | P | P | P | P | In medias res on the Titan's back, but the lion and Orrun are in the first 90 words. |
+| 71 | Tobin | P | P | P | P | Wardle's orders at noon, Tobin named by ~75 words. |
+| 72* | Calder | P | P | P | P | On the lion's head. The first section now places the lion in the eddy beside the chained Last Titan, and the smoke since noon. |
+| 73 | Rowan | P | P | P | P | "Her line", "Hers", noon. Named by ~264 words. |
+| 74 | Maren | P | P | P | P | Orrun at word 9, the fourth chain. |
+| 75 | Calder | P | P | P | P | Aurveth's eyes, the Titan over the eddy. |
+| 76 | Kit | P | P | P | P | Sheepford, day 318, the ketch. |
+| 77 | Maren | P | P | P | P | Carried "in his jaws", the farmer's word, north. |
+| 78 | Calder | P | P | P | P | Kharrak at ~15 words, Harrow's End, dawn. |
+| 79* | Kit | P | P | P | P | "Kit saw it by starlight." Harrow's End, the second hour of the night. |
+| 80 | Maren | P | P | P | P | The hill walking, "on his head", the door. |
+| 81 | Calder | P | P | P | P | Lisska at ~11 words, the tail of the column. |
+| 82* | Idony | P | P | P | P | "That was three days gone." The hall under Coldtarn, the glasses. |
+| 83 | Maren | P | P | P | P | Arn and the twenty dragons. "said Maren". |
+| 84 | Calder | P | P | P | P | Named by ~128 words. The hall, the silence. |
+| 85* | Arn | P | P | P | P | "Arn had thought she might" in line 2. Ildra in the hall. |
+| 86 | Maren | P | P | P | P | The stone sense and the Warden's coat point to Maren. Day 330. |
+
+**Totals now:** 86 pass on all four. 0 weak. 0 fail.
+
+## Fixes applied (Oct 2026)
 
 All 32 fixes below were applied to `Book 3/Chapters/`: 31 weak, 1 fail. Only the opening prose was changed. No notes blocks were touched (the Days fields flagged in pattern 6, for chs 30, 34, 44 and 46, already mark those days as "told back", so they needed nothing). Where a change falls past the first line, the old and new text quoted here is the edited passage, not the chapter's first words.
 
@@ -56,18 +180,11 @@ All 32 fixes below were applied to `Book 3/Chapters/`: 31 weak, 1 fail. Only the
 - **Ch 82:** I added "That was three days gone" as suggested (319 to 322). To avoid repeating the next section's "Davin set them out on the floor of the hall", I didn't add a second sentence. I wrote "under Coldtarn" into that existing line instead and kept "Three." as the beat.
 - **Ch 24, 39, 60:** applied as suggested. Note that ch 60's day 295 now also appears a few paragraphs later at the slate ("on the two-hundred-and-ninety-fifth"). That's consistent, but it is a repeat.
 
-Scope: all 86 chapters in `Book 3/Chapters/`. For each one I read the prose opening (the first ~250 words after the `<!-- notes -->` block) and checked whether, within the first paragraph or two, the reader learns:
+## Baseline: the original review, before the fixes (historical)
 
-- **(a) Who:** whose head we are in.
-- **(b) Where:** where they are.
-- **(c) When:** roughly when, relative to what we last saw.
-- **(d) Want / war:** what they want or are doing now, and how it ties to the war.
+This is the original review as written before the fixes were applied. Its counts (54 pass, 31 weak, 1 fail) describe the drafts before the fixes, not the chapters as they stand now. For the current state see **Status** and **Current table** above.
 
-Key: **P** = pass, **W** = weak (you can work it out, but the page doesn't say it, or says it late), **F** = fail (missing, or likely to mislead).
-
-House style note: the book's openings lead with a pronoun and let a cue name the POV (Orrun or "the lion" for Maren; Kharrak, Lisska or Aurveth for Calder; Ildra for Arn; the glasses for Idony). When that cue arrives in the first paragraph or two I count (a) as a pass even if the name comes later. Every chapter in Book 3 changes POV from the one before it, so every opening was checked as a viewpoint change.
-
-## Table
+### Table (before the fixes)
 
 | Ch | POV | a | b | c | d | Note |
 |---|---|---|---|---|---|---|
@@ -158,11 +275,11 @@ House style note: the book's openings lead with a pronoun and let a cue name the
 | 85 | Arn | W | P | P | P | "He'd thought she might" comes right after a Calder chapter that was watching Arn and Ildra. Arn isn't named for ~1400 words. |
 | 86 | Maren | P | P | P | P | The stone sense and the Warden's coat point to Maren. Day 330. |
 
-**Totals:** 54 chapters pass on all four. 31 are weak on at least one. 1 fails (ch 32).
+**Totals (before the fixes):** 54 chapters passed on all four. 31 were weak on at least one. 1 failed (ch 32).
 
-## Fixes for weak and failing chapters
+### Suggested fixes (as proposed before the fixes; see Fixes applied for what was done)
 
-Each fix is one or two sentences added, or a pronoun swapped for a name. Nothing else changes.
+Each fix proposed one or two sentences added, or a pronoun swapped for a name, with nothing else changed. Some were adjusted when applied; the notes under **Fixes applied (Oct 2026)** say how.
 
 **Ch 2 (Calder): a, d.** Opening line: *"He'd written two lines."*
 After *"You'll need more paper," she said.* add:
@@ -307,15 +424,15 @@ After the first paragraph add:
 Change *"He'd thought she might."* to:
 > Arn had thought she might.
 
-## Verdict and patterns
+### Verdict and patterns (before the fixes)
 
-**Verdict:** overall the openings meet the editor's test well. 54 of 86 pass on all four points, and most of the 31 weak ones need one name or one clause. There is only one real failure: ch 32, where Calder doesn't appear on the page for ~290 words after an Idony "he" chapter. Location and time are the book's strong suit. Nearly every opening gives a place and a day count within the first paragraph, and the backward steps in time (8, 15, 18, 26, 44) are all marked.
+**Verdict (before the fixes):** overall the openings met the editor's test well. 54 of 86 passed on all four points, and most of the 31 weak ones needed one name or one clause. There was only one real failure: ch 32, where Calder didn't appear on the page for ~290 words after an Idony "he" chapter. Location and time were the book's strong suit even then. Nearly every opening gave a place and a day count within the first paragraph, and the backward steps in time (8, 15, 18, 26, 44) were all marked.
 
-**Patterns:**
+**Patterns (before the fixes; all addressed by the fixes):**
 
-1. **Rowan's chapters start vague, consistently.** Five of seven are weak on (a): 23, 41, 46, 55 and 65. Ch 65 never names her at all. The pronoun-first style works for Maren, Calder, Arn and Idony because a beast or object names them in the first lines. Rowan has no such cue, and she shares "she" with Maren and Kit. Her name in the first or second sentence would fix all five.
-2. **Tobin has the same problem, plus a missing "why".** Four of five Tobin chapters are weak (8, 33, 48, 62). He is often unnamed for hundreds of words, and 8 and 33 don't say what he wants or what the yards are for. That matters because his thread is the Bridle setup.
-3. **Back-to-back "she" or "he" chapters are the risk points.** Most of the (a) problems fall on a switch between two POVs of the same gender with no cue in between: Rowan to Maren (11), Idony to Calder (32), Calder to Arn (85), Calder to Kit (79), Calder to Rowan (23, 55), Maren to Rowan (41), Maren to Tobin (48), Maren to Calder (51), Kit to Calder (61), and Idony to Maren at the same table (4).
-4. **First appearances undersell the stakes.** Arn (5), Tobin (8) and Kit (13) all open on strong imagery but leave out where they are by name and what they want. These are the openings the editor's note most directly fits.
-5. **Calder openings after a long gap leave out the day count** (45, and Tobin's 33 and Kit's 60 the same way). Elsewhere the book's habit of naming the day is reliable, so its absence stands out.
-6. **Minor metadata note, not a prose fault:** chs 30, 34, 44 and 46 open on a day before the notes' `Days:` range (127 vs 130–135, 137 vs 142, 172 vs 185–195, 191 vs 200–205). The prose marks these as lead-ins. It's worth a glance if the `Days:` field is meant to cover the whole chapter.
+1. **Rowan's chapters started vague, consistently.** Five of seven were weak on (a): 23, 41, 46, 55 and 65. Ch 65 never named her at all. The pronoun-first style works for Maren, Calder, Arn and Idony because a beast or object names them in the first lines. Rowan has no such cue, and she shares "she" with Maren and Kit. Her name in the first or second sentence was the proposed fix for all five.
+2. **Tobin had the same problem, plus a missing "why".** Four of five Tobin chapters were weak (8, 33, 48, 62). He was often unnamed for hundreds of words, and 8 and 33 didn't say what he wanted or what the yards were for. That mattered because his thread is the Bridle setup.
+3. **Back-to-back "she" or "he" chapters were the risk points.** Most of the (a) problems fell on a switch between two POVs of the same gender with no cue in between: Rowan to Maren (11), Idony to Calder (32), Calder to Arn (85), Calder to Kit (79), Calder to Rowan (23, 55), Maren to Rowan (41), Maren to Tobin (48), Maren to Calder (51), Kit to Calder (61), and Idony to Maren at the same table (4).
+4. **First appearances undersold the stakes.** Arn (5), Tobin (8) and Kit (13) all opened on strong imagery but left out where they were by name and what they wanted. These were the openings the editor's note most directly fitted.
+5. **Calder openings after a long gap left out the day count** (45, and Tobin's 33 and Kit's 60 the same way). Elsewhere the book's habit of naming the day is reliable, so its absence stood out.
+6. **Minor metadata note, not a prose fault:** chs 30, 34, 44 and 46 open on a day before the main span in the notes' `Days:` field (127 vs 130–135, 137 vs 142, 172 vs 185–195, 191 vs 200–205). The prose marks these as lead-ins, and the `Days:` fields already mark those days as "told back", so no change was needed (see **Fixes applied**).

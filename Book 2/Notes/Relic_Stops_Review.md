@@ -1,6 +1,17 @@
 # Relic Stops Review: Book 2
 
-## Applied (Oct 2026)
+## Current status (re-verified 29 Oct 2026)
+
+**Nothing is pending.** Suggestions 1, 3, 4, 6 and 7 are on the page (each line below was checked again in the current chapters). Suggestions 2 and 5 were left alone by design, as the review itself recommended.
+
+**Current verdict.** The stops are well distinguished, and the three weak spots the original review named are now handled:
+- **The repeated taking gesture** (20, 36, 45): the third time now marks a difference (a month at the Scald against three months at the Ring), so the repeat measures the Titan's growing strength.
+- **The 48/63 shadow set-piece and the "last to leave" deaths:** 63's failed stand-word now sets a rule that 83 calls back, and Mother Ysa is planted at 60 before her death at 63.
+- **The woken sleepers vanishing:** Idony now tracks every woken draw at 50, and Aurveth marks the Bell's at 75, so the threat builds in numbers as well as speed.
+
+The structural repeat between the Ring and the Scald (B) and the held-then-breaks beat (E) remain, by choice; Sarovel and the Bell break the first, and 48 the second.
+
+## Fixes applied (Oct 2026)
 
 Section 3's suggestions, applied to the prose (notes blocks untouched):
 
@@ -14,6 +25,10 @@ Section 3's suggestions, applied to the prose (notes blocks untouched):
 - **7 (G), ch 84:72:** already done before this pass. Skipped.
 
 ---
+
+# Baseline: the review before the fixes (historical)
+
+*Sections 1–4 below record the chapters as they stood before the October 2026 fixes. The suggestions in section 3 were proposals; all of them are now settled (see Current status). The verdict in section 4 is the pre-fix verdict.*
 
 *The editor's concern: the temple-and-relic journey "could feel like a sequence of similar missions; each stop should change the characters' understanding, alliances or available choices, as well as advance the Titan threat." I checked it against the 88 drafted chapters (their notes blocks and the prose), `Chapter_Plan.md` (temple table), `Magic.md` §1 and §5, and `Series_Outline.md`. The drafts are canon, so this report only makes suggestions.*
 
@@ -55,11 +70,11 @@ S = Maren, F = Calder, R = Idony. A row marked "a" is the relic taking; "b" is t
 
 **G. Not a problem: the temple rooms.** 23, 37, 53, 60 and 84 all show a domed chamber, a warm plinth and the six, but each adds exactly one new piece (six sleepers; the Coil's name; the ring and the song; the egg plus the map; the bare vault) and each is reached a different way. This repetition works.
 
-**Continuity slip found along the way:** 84:72 reads "Like the one under the Ring that she'd heard of and never seen, where the first egg had been." In 23 Maren stood "with her hand still in the warm hollow" of that plinth.
+**Continuity slip found along the way (since fixed):** 84:72 reads "Like the one under the Ring that she'd heard of and never seen, where the first egg had been." In 23 Maren stood "with her hand still in the warm hollow" of that plinth.
 
 ---
 
-## 3. Minimal suggestions
+## 3. Minimal suggestions (all settled: 1, 3, 4, 6, 7 applied; 2, 5 left by design)
 
 1. **(A) 45:214.** Keep the refrain, but make the third one mark a difference. One clause after "on the Library hill at Vael" would do it: *It didn't wait for the cup to fill this time.* The repeat then measures how much stronger the Titan is.
 2. **(B)** Leave the structure alone; Sarovel and the Bell already break it.
@@ -71,7 +86,7 @@ S = Maren, F = Calder, R = Idony. A row marked "a" is the relic taking; "b" is t
 
 ---
 
-## 4. Verdict
+## 4. Verdict (before the fixes)
 
 The stops are already well distinguished. Each sleep-relic stop changes at least three of knowledge, alliances, choices and cost, and each has its own look: forest, city and lake, industrial basin, court, sea. Vael and Sarovel are the strongest: Vael brings the College's guilt, the bird's death and the start of the race; Sarovel loses Idony and turns Maren's mission from chasing the Titan to keeping the door. The Scald carries the turn.
 

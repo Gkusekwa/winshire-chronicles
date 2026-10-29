@@ -130,7 +130,7 @@ He saw the lights first, on the stair. One lantern, then another behind it, comi
 
 Gunna Tarne came first. A small old woman in a grey cloak with a face like a walnut and her white hair in a plait to her waist and no thread in her armband, coming down the stair with the lantern in one hand and the iron rail in the other. Above her, on a ledge, he saw Tamsin's grey-green head come out of a cave mouth into the lantern light and stay there, watching.
 
-Behind Gunna, the others. Old men and women, and three or four of middle years, and one young one, a boy not twenty. Ten of them. The ten pairs of the ledges, who'd sat on the hill above the ford as keepers under the old law and seen Hallam die. They came down the stair one after another, on foot, and across the back of the yard, and the men on the wall drew back from the gate to let them through the postern without being asked, because nobody in the Clan stands in the way of the bonded.
+Behind Gunna, the others. Old men and women, and three or four of middle years, and two young ones, boys not twenty, one of them Hallam's grandson. Ten of them. The ten pairs of the ledges, who'd sat on the hill above the ford as keepers under the old law and seen Hallam die. They came down the stair one after another, on foot, and across the back of the yard, and the men on the wall drew back from the gate to let them through the postern without being asked, because nobody in the Clan stands in the way of the bonded.
 
 They came out into the road.
 

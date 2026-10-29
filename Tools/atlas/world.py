@@ -195,7 +195,7 @@ place("ewehollow", "Ewe Hollow", "village", "saltreach", 181.4, 107.0,
 place("northwatch", "Northwatch", "tower", "hearthmere", 174.4, 91,
       "A patrol tower on the River Road, manned by the river watch. Signal fires on the roof. Maren served here.", scope="marches")
 place("redwatch", "Redwatch", "tower", "hearthmere", 174.6, 103.4,
-      "The watch tower nearest the Old Ruin, red sandstone, half a league from the bank. The river watch's patrol boats are kept in its boathouse.", scope="marches", label_dx=-1, label_dy=-0.9)
+      "The watch tower nearest the Old Ruin, red sandstone, on the bank, with landing steps below it. The river watch's patrol boats are kept in its boathouse.", scope="marches", label_dx=-1, label_dy=-0.9)
 place("brackenwood", "The Brackenwood", "landmark", "hearthmere", 168, 111.2,
       "Old oak and bracken west of Greyhold, a royal hunting ground. Deer, boar, and the beasts the knights pretend aren't there.", scope="marches")
 place("reedmarsh", "The Reedmarsh", "landmark", "saltreach", 182.5, 120,

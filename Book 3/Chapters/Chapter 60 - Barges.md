@@ -304,7 +304,7 @@ The river went by. Grey. Under the ice-skin at the edges.
 
 He was quiet a long time.
 
-"I've been crew thirty years," said Gannet. "Your father's. Yours. Other houses' before that. Crew. Never house. Never a share. Never a purse that was mine." He put his hands on his knees. "Fosse had a purse. I wanted one. That's all. That's all it was." He breathed out. "I knew it was wrong. I did it anyway. And I've been sick with it since the old man stood on the hill and cried."
+"I've been crew thirty years," said Gannet. "Your father's, one summer at the Teeth. Yours. Other houses' before that. Crew. Never house. Never a share. Never a purse that was mine." He put his hands on his knees. "Fosse had a purse. I wanted one. That's all. That's all it was." He breathed out. "I knew it was wrong. I did it anyway. And I've been sick with it since the old man stood on the hill and cried."
 
 ---
 

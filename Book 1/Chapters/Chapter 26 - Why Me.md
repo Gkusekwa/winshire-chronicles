@@ -249,7 +249,7 @@ The silence went on so long he thought she wasn't going to answer.
 
 He waited.
 
-*That is the truth. I don't know. I have gone quiet for Sigrun, and the hold, and everyone who has ever asked. That was easier than the truth. The truth is that I can't.* Her voice had changed. It was still slow. But there was something under it that he'd never heard there before, and it took him a moment to know what it was. *I remember that there was one. I remember the bond, the shape of it, the warmth of it, a long time. A very long time. Longer than Ragnald and Sigrun together. I remember that he lived before the Clan was the Clan. Before the hold. Before the caves. I remember that we went along a road together, a great road, with stones in it, and over a bridge.*
+*That is the truth. I don't know. I have gone quiet for Sigrun, and the hold, and everyone who has ever asked. That was easier than the truth. The truth is that I can't.* Her voice had changed. It was still slow. But there was something under it that he'd never heard there before, and it took him a moment to know what it was. *I remember that there was one. I remember the bond, the shape of it, the warmth of it. It felt a long time. It felt longer than Ragnald and Sigrun together, and I cannot tell any more whether it was. I remember that he lived before the Clan was the Clan. Before the hold. Before the caves. I remember that we went along a road together, a great road, with stones in it, and over a bridge.*
 
 *And I don't remember his name. Or his face. Or how he died, or when, or where. I reach for him and he goes down, like a stone in Coldtarn. Further every year.*
 

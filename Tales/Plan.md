@@ -225,12 +225,12 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 - **Depends on:** Bestiary (rocs, settled Oct 2026); Book 3 ch 1–7.
 - **Drafted (Oct 2026):** `Tales/The Six Come Down/The Six Come Down.md`, first draft, about 10,800 words. What it settles is listed in its notes block.
 
-### 22. The Empty Chair *(Arn Varr)* — shares its title with Book 2 ch 12
+### 22. The Covered Chair *(Arn Varr)* (renamed from *The Empty Chair*, which is Book 2 ch 12's title)
 - **POV:** Arn.
 - **When:** Book 3 days 0–12.
 - **What happens:** the week after the six fly: the chair, his brother's absence, Ildra following him about the yard, and him sending her away.
 - **Depends on:** Book 2 ch 24, 62; Book 3 ch 2, 5.
-- **Drafted (Oct 2026):** `Tales/The Empty Chair/The Empty Chair.md`, first draft, about 10,100 words. What it settles is listed in its notes block.
+- **Drafted (Oct 2026):** `Tales/The Covered Chair/The Covered Chair.md`, first draft, about 10,100 words. What it settles is listed in its notes block.
 
 ---
 

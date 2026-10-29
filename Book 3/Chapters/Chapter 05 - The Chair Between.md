@@ -9,7 +9,7 @@ Beats: Arn's first POV. Varrhold: the chief's chair still empty between two tabl
 Echo of another story: Calder in the yard, talking out loud to three dragons; the riders laugh, and then they don't.
 Status: near-final draft
 Draft notes: Days 8–12. Decided here (settled as drafted):
-- **The hall**: Varrhold's long hall; two long tables, the red thread's on the left and the grey's on the right; between them at the top, the chief's chair (black oak, carved dragons) under its grey cloth since Teo's burning (Book 2 ch. 12); the Clan names a chief when both halves pour at Coldtarn (Book 2 ch. 12, 24); Arn and Ulric have poured together twice (Teo's word; Book 2 ch. 24, 78) and still nobody has sat in it. Arn sits beside it, on a bench, as he did at Book 2 ch. 12.
+- **The hall**: Varrhold's long hall; two high tables side by side on the dais, the red thread's on the left and the grey's on the right; in the gap between them, the chief's chair (black oak, carved dragons) under its grey cloth since Teo's burning (Book 2 ch. 12); the Clan names a chief when both halves pour at Coldtarn (Book 2 ch. 12, 24); Arn and Ulric have poured together twice (Teo's word; Book 2 ch. 24, 78) and still nobody has sat in it. Arn sits beside it, on a bench, as he did at Book 2 ch. 12.
 - **The riders' demand** (day 8): Arn gives the riders Calder's answer and Aurveth's joke at the long tables; the red-thread riders don't laugh; old Hulda Sarr does; **Gorm Askell** brings the ledgers: three dragons the Clan bred and fed for three hundred years and more, on the books.
 - **The breeding pens** (day 9 morning): the spring pens on the lower ledges, oak bars, the chosen pairs and the keepers with mutton barrows (Book 2 ch. 12); a hundred and some dragons the Clan keeps and doesn't bond; the young ones bred for the ledges; Arn walks them as Haldor did, every morning; this morning every dragon in the pens is silent and facing east (the six came down, ch. 4).
 - **Ildra**: up from the caves with Wren on day 9 (Wren comes down to Varrhold with Ada to see the farmer off); Ildra leaves Wren and follows Arn round the pens all morning, a length behind; he sends her back four times; the fifth time Wren comes and gets her by the horn and says "She likes you," and Arn says "She's not mine," and Wren says "That's what I say."
@@ -26,17 +26,17 @@ notes -->
 
 The chair was under its cloth.
 
-It had been under its cloth since the night they burned Teo. A grey cloth, plain wool, the kind the women of the hold wove for horse-blankets, thrown over it by somebody whose name nobody remembered, and nobody had taken it off.
+It had been under its cloth since the night they burned Teo. A grey cloth, plain wool, the kind the women of the hold wove for horse-blankets, thrown over it on Arn's word by somebody whose name nobody remembered, and nobody had taken it off.
 
 Black oak. Arn knew what was under it without looking. He'd sat on it as a boy, when his father wasn't in the hall, and been beaten for it. Dragons carved up the legs. Dragons on the arms, with their heads at the ends where a chief's hands went. A dragon across the back with its wings out, worn smooth in the middle where three hundred years of chiefs had leaned.
 
-It stood at the top of the hall. Between the two tables.
+It stood at the top of the hall, on the dais, in the gap between the two high tables.
 
 He sat on the bench beside it. Where he always sat. Where he'd sat for a year.
 
 ---
 
-The two tables ran down the hall from the chair to the door.
+The two high tables stood side by side on the dais, and the benches of the hold ran down the hall below them to the door.
 
 The red thread's on the left. The grey's on the right. They'd always run that way, since before his grandfather, since before anyone kept count. In his father's time the two tables had eaten together and drunk together and married each other's daughters and fought each other at the autumn games, and sat under one chair.
 
@@ -286,7 +286,7 @@ Nobody said anything.
 
 He asked for the flights that night.
 
-At the chair. At the long tables, after the meal, with both tables there and the young riders back on the steps very quiet. The farmer stood at the foot of the hall, between the two tables, where a petitioner stood. He'd never sat at either table. He'd never asked to.
+At the chair. At the high tables, after the meal, with both tables there and the young riders back on the steps very quiet. The farmer stood at the foot of the hall, between the two tables, where a petitioner stood. He'd never sat at either table. He'd never asked to.
 
 He asked plainly.
 

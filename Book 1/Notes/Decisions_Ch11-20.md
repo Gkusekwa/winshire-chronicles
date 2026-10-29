@@ -10,7 +10,7 @@ All of these are proposals until you accept them.
 - The new moon (Rowan's deadline) is day 14, six days after the battle night. Full moon about day 29.
 
 ## Calder's side
-- **The ford on Hollow Beck** is two leagues below Varrhold, about eight leagues up the Drover's Way from Harrow's End. Calder and Hob leave on Hob's cart at two in the morning and arrive an hour before noon; they're back at the Eelweir in the small hours of day 5. On day 5 the hold sends for Calder mid-morning and he rides up before noon for the dusk pyre.
+- **The ford on Hollow Beck** is six leagues below Varrhold, about eight leagues up the Drover's Way from Harrow's End. Calder and Hob leave on Hob's cart at two in the morning and arrive an hour before noon; they're back at the Eelweir in the small hours of day 5. On day 5 the hold sends for Calder mid-morning and he rides up before noon for the dusk pyre.
 - Teo's pyre: one night's burning at Varrhold. Ulric stands outside the gate and is not let in. The three dragons circle the pyre and call.
 - Imra gives Calder back his coat. The chain is still in the pocket.
 - Rook drew his wages the night before the ford, left before light toward the river, and stole a horse. Calder lies for the first time ("he owes me money"). This is where the guilt starts.
@@ -69,7 +69,7 @@ All of these are proposals until you accept them.
   - Hunters' landing on the north-west shore of the island.
   - Harrow's End mill burned (chapter 18).
   - The Eelweir, Harrow's End's landing at the mouth of Hollow Beck, opposite the Old Ruin.
-  - The ford on Hollow Beck, two leagues below Varrhold.
+  - The ford on Hollow Beck, six leagues below Varrhold.
   - Shieling burned at the ford (chapter 14).
 
 ## Name fixes made after drafting

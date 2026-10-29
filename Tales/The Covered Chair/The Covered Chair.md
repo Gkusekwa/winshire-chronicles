@@ -1,4 +1,4 @@
-# The Empty Chair
+# The Covered Chair
 
 <!-- notes
 Tale: 22 (The second handover: Book 2's end to Book 3's first fortnight)

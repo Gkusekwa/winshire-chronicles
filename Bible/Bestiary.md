@@ -169,7 +169,7 @@ Kessmoor, Hearthmere and Sarovel have no riders of the air, and each says it doe
 
 ### The sky in the Titan War *(as drafted)*
 
-- **The Last Titan** is the only Titan with wings *(Book 1 ch 79)*. When it flies the sky empties beneath it for leagues, and that's how people far off know where it's going before they see it. The five it wakes walk, swim or burrow.
+- **The Last Titan** is the only Titan with wings *(Book 1 ch 79)*. When it flies the sky empties beneath it for leagues, and that's how people far off know where it's going before they see it. The five it wakes walk, swim or burrow, until it holds the control relic: from then on the six go up together and fly as one, carried by its power (Book 2 ch 88; Book 3).
 - **The air war in Book 3** is four kingdoms' beasts together: the Clan's dragons (Calder's three Titan-class after the gift), the Wyldmarch's roc-riders, a few dozen Isvaren kite-riders scouting for the Accord, and Saltreach wyvern companies hired by contract. Kessmoor has no wings and builds bolt-throwers to fight from below. Messages run on falcons, gull-hawks and owls, and a lost bird can lose a battle.
 - **On the Lit Shore** *(Book 3)*: flocks that have never seen a person settle on Kit's rigging and on Orrun's back. The **Wayfarer**, the elder who gives to the dragons, is wind and sky: dragon-kind, three-headed.
 - **After the quiet** *(Book 3's end; canon: bonds go quiet, beasts don't die)*: every bonded falcon, kite and wyvern flies off with its own mind. In the remnant's first spring, the Wend geese still come north.

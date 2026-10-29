@@ -10,7 +10,7 @@ Carried forward: From Chapter 33: the thin man at Ferriby knew her name ("Ashdow
 Draft notes: Days 50–52. She writes the report on the night of day 50, back at Greyhold; Pell and Rowan read it on day 51; the Lesson Wall talk is noon on day 52, Hale's archive talk the afternoon of day 52, and the island that night. The chapter climbs: Pell and Rowan get a few lines each (only what's new), the bench is Hale's first stop, the archive his slip. Decided here (settled as drafted):
 - Maren reports Ferriby to Rowan in writing and in person. Rowan reads the line about her name twice. "Then someone told him." That's all she says. She writes in the margin again.
 - The archive's far end: past the last stacks, three steps down to a low door of black oak bound with iron, with a lock the size of a man's hand. No handle. Hale sits with his back half to it and looks at it whenever he stops talking.
-- The history of the oath: the Watch's list begins with no date, only a line in the old script, "From the closing", and three hundred and eleven names, each with a mark. The last name on the list is followed by a line in a newer hand: "Given into the keeping of the crown", the year the charter was signed. After that the oath appears in the orders' books word for word, and the Watch disappears.
+- The history of the oath: the Watch's list begins with no date, only a line in the old script, "From the closing", and three hundred and eleven names, each with a mark. Partway through the list, under one name, a line in a newer hand: "Given into the keeping of the crown", the year the charter was signed. Hale shows her that page and says the list stops there; it doesn't (the names go on, fewer, to his own: Book 2 ch 4), and he is keeping the Watch from her until ch 49. After the charter the oath appears in the orders' books word for word.
 - The slip: when Maren asks whether anyone still keeps the watch, Hale says, "Of course. The inner circle keeps a watch nobody else is told…" and stops. He covers it badly: "keeps the old customs." She had waited him out on the bench and got nothing; this time she could hold him in the lie, and doesn't.
 - The lion: on the night of day 52 she goes to the island. It lets her sit at fifteen paces instead of twenty. She brings nothing, lights nothing. It lies down again.
 - The echo: at noon on day 52 Hale tells her, on the Lesson Wall bench, that the inner circle has a report from the Saltreach bank. Vey's company went into the Fellwood on day 43 and lost the dragon farmer at Crow Scar on the night of day 46; three dragons were seen going south in the rain toward the coast. Hale looks relieved, then ashamed of looking relieved. He ends the talk by sending her to the archive for the oath.
@@ -130,7 +130,7 @@ Hale's finger stopped on the page.
 
 "I've always thought so," he said, after a moment.
 
-He turned to the last page with writing on it. Under the three hundred and eleventh name, in a newer hand, in the ordinary letters of Hearthmere that any student could read:
+He turned a long way into the book, to a page he found without looking, and put his finger under a name partway down it. Below the name, in a newer hand, in the ordinary letters of Hearthmere that any student could read:
 
 *Given into the keeping of the crown.*
 

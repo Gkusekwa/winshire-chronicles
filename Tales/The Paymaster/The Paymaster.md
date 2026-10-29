@@ -10,7 +10,7 @@ Must not reveal: the twins (the man at the table is only "the man"; those above 
 Decided here:
 - Rook knows his boots are wrong for a drover and keeps them: the only thing on him he ever bought for himself. The scar across his right knuckles is from a strongbox lid that came down on his hand at fourteen, in his first counting-house on the coast.
 - The book: bought new at a stationer behind the Wendmouth fish market the autumn before last; written every night in counting-house short forms; only what's paid or received goes in, and his own time. He draws the ring of six in the margin by the bags from the coast so he can find them.
-- Night 3 at Varrhold: the steward pays him in the tally room and refuses him a horse; Rook takes one from Ulric's lines at midnight anyway. He writes the bucket line, the wage line and the horse line that night; "Returned" is added on day 4, after he turns the horse loose above Harrow's End with its head up the beck.
+- Night 3 at Varrhold: the steward pays him in the tally room and refuses him a horse; late that evening, after the feast, Rook asks Ulric in the yard, and Ulric gives him a bay mare with a white sock on the near hind himself, hand on the bridle, before riding to the Ram's Head (Book 2 ch 19). Rook takes her out at midnight. He writes the bucket line, the wage line and the horse line that night; "Returned" is added on day 4, after he turns the horse loose above Harrow's End with its head up the beck.
 - The halter on the bucket was never mended. He hangs it back on its nail broken.
 - The armband left on the alders is Rook's own, the plain grey he wore at Varrhold. The axe came off the rack by the east fire.
 - After the ford he goes off the Way, down the far side of Hollow Beck by the sheep-trods, because he sees Hob's cart far down the Way at dawn and knows it for the witnesses.
@@ -119,7 +119,9 @@ The eyes didn't close.
 
 ---
 
-He took the horse at midnight. A tall-legged chestnut from the end of Ulric's lines that he had marked on the second day for its feet. The old groom in the end stall was asleep in the straw with his mouth open. Rook saddled the chestnut in the dark without a light, which he could do, though he couldn't mend a halter, and walked it out past the east fire, where the last of Ulric's men lay rolled in their cloaks, and took an axe off the rack there as he went, the long-hafted kind every man at Ulric's table carried. Nobody stirred. At the gate the man on watch was one of the twenty-two, and he looked at Rook and opened it and said nothing at all, which was what he was paid for.
+He had the horse already. Ulric had given it him late that evening, in the yard after the feast, while Ulric's own men were mounting to ride down to the Ram's Head: a bay mare with a white sock on the near hind, out of Ulric's lines, with Ulric's own hand on the bridle. *My mother's dying, on the coast.* The big grey-bearded man had looked at him a long moment, as he looked at weather coming over the moor, and said, "Four days, drover," and put the reins in his hand, and ridden out. The steward had said no. Rook had never supposed the steward was the one to ask.
+
+He took the mare out of the lower stable at midnight. The old groom in the end stall was asleep in the straw with his mouth open. Rook saddled her in the dark without a light, which he could do, though he couldn't mend a halter, and walked it out past the east fire, where the last of Ulric's men lay rolled in their cloaks, and took an axe off the rack there as he went, the long-hafted kind every man at Ulric's table carried. Nobody stirred. At the gate the man on watch was one of the twenty-two, and he looked at Rook and opened it and said nothing at all, which was what he was paid for.
 
 It was the same man who had stood by the gatepost the week before and told three Saltreach boatmen that somebody was going to do a lot of things, soon. Rook had found him at the trough that evening and told him, pleasantly, that a man who talks to boatmen gets talked about by boatmen, from one end of the Wend to the other, and the man had gone white and not opened his mouth since.
 
@@ -127,7 +129,7 @@ There was a moon a few nights past the full, coming up late over the moor, and t
 
 ---
 
-He was not a horseman. He had learned late, at the coast, for the work, and he rode as he did most things, correctly and without pleasure. The chestnut was better at it than he was. It went down the Way at a long steady trot, past the falls on Hollow Beck with their noise coming up white in the moonlight, past the sheepfolds, down off the edge of the moor where the cold came up out of the hollows to meet them. There was frost on the heather. The chestnut's breath went out in front of it in two grey plumes.
+He was not a horseman. He had learned late, at the coast, for the work, and he rode as he did most things, correctly and without pleasure. The mare was better at it than he was. She went down the Way at a long steady trot, past the falls on Hollow Beck with their noise coming up white in the moonlight, past the sheepfolds, down off the edge of the moor where the cold came up out of the hollows to meet them. There was frost on the heather. The mare's breath went out in front of her in two grey plumes.
 
 Six leagues. He did the sum as he rode, from habit. The boy would leave the hold before light, alone, and ride down at a walk, because he was a boy who rode at a walk when he was happy. He would come over the last rise above the ford at first light. If Rook was there an hour before, that was an hour lying in the gorse in the frost, and he would be cold, and his hands would be slow.
 
@@ -137,7 +139,7 @@ He put his hands inside his coat as he rode, one at a time, against his shirt.
 
 The ford on Hollow Beck lay at the bottom of two long slants of road, one coming down from the north and one going up to the south, with the beck between them running wide and shallow over a bed of smooth brown stones. Alders leaned over the water on both banks. On the south slope a shepherd's shieling of turf and stone sat dark in the gorse, with nobody in it.
 
-He rode through the water, which came up cold round the chestnut's knees and made it blow, and up the south slope to the back of the shieling, and tied the horse in the fold of ground behind it where it couldn't be seen from either road. He took the axe. He went down through the gorse to a place above the near bank where he could see the whole of the north road coming down off the moor, and the water, and the alders, and lay down on his belly in the frost with the axe beside him.
+He rode through the water, which came up cold round the mare's knees and made her blow, and up the south slope to the back of the shieling, and tied the horse in the fold of ground behind it where it couldn't be seen from either road. He took the axe. He went down through the gorse to a place above the near bank where he could see the whole of the north road coming down off the moor, and the water, and the alders, and lay down on his belly in the frost with the axe beside him.
 
 The gorse was dry and brown and smelled of nothing much. The cold came up through his coat. He lay there and did small sums in his head to keep his hands from mattering. The steward's four silver. The price of the axe if he'd had to buy it, which at Cotter's Cross would be eleven coppers, or nine to a man who argued. The horse, returned, nothing. A week on a bucket, his own time.
 
@@ -211,9 +213,9 @@ Coming up.
 
 The boy had asked for witnesses. Ordinary people from the villages, people the Clan protected, who'd stand on the bank and see. *Bring the miller. Bring the old man with the knees.* Rook had heard every word of it from the bucket. The farmer from Harrow's End had said he'd come.
 
-He looked at the yellow point on the road a while longer. Then he led the chestnut down the back of the slope and away from the Way altogether, across the beck below the ford and down its far side, by the sheep-trods along the hillside where no cart could go. By noon he was three leagues off and below the folds of the hill, and he heard none of it. Not the horns. Not the riders. He saw the smoke, later, a thin white line going up from the gorse above the ford into the clear cold sky. He didn't know who had lit it. It was nothing he had paid for.
+He looked at the yellow point on the road a while longer. Then he led the mare down the back of the slope and away from the Way altogether, across the beck below the ford and down its far side, by the sheep-trods along the hillside where no cart could go. By noon he was three leagues off and below the folds of the hill, and he heard none of it. Not the horns. Not the riders. He saw the smoke, later, a thin white line going up from the gorse above the ford into the clear cold sky. He didn't know who had lit it. It was nothing he had paid for.
 
-He rode down the beck all that day with the smoke behind him. In the dusk, on the hill above Harrow's End, where the beck came out of the trees and the barley stubble began, he got down and took the chestnut's bridle off and turned its head uphill and slapped its rump. It went off up the hillside at a trot, and then a walk, with its saddle on, toward home, as a good horse will. A horse knows its road.
+He rode down the beck all that day with the smoke behind him. In the dusk, on the hill above Harrow's End, where the beck came out of the trees and the barley stubble began, he got down and took the mare's bridle off and turned its head uphill and slapped its rump. It went off up the hillside at a trot, and then a walk, with its saddle on, toward home, as a good horse will. A horse knows its road.
 
 That night, in a reed-cutters' hut on the bank below the Eelweir, by the light of the Captain's fire, he took the book out and found the open line and finished it.
 

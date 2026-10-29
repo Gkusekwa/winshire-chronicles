@@ -97,7 +97,7 @@ He didn't turn round.
 
 She came and lay down a length off.
 
-Ildra. Small, for a dragon. A yearling still, nearly two. Dark, a brown so dark it was almost black, with a stub of horn over one eye where something had broken it once, in the cage at Vael, or before. The one the girl had talked back into her own head.
+Ildra. Small, for a dragon. A yearling still, nearly two. Dark, a red so dark it was almost black, with a stub of horn over one eye where something had broken it once, in the cage at Vael, or before. The one the girl had talked back into her own head.
 
 She'd slept in the hall's porch for sixty days. He'd stepped over her tail sixty times.
 

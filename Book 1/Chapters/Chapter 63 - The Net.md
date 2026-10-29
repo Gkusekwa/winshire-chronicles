@@ -111,7 +111,7 @@ She stepped out in front of it. Between it and the north. With Tobin's blunt swo
 
 The hounds came out of the oaks.
 
-Three of them. Big, rough-coated: Wynn's two, Ash and Sorrow, and Callis's own, Grip, old and grey in the muzzle. She knew them. She'd mucked out under them every morning since the autumn and forked their straw and carried their water, and Ash had put his head in her lap once when she sat down in his stall to cry. They came out of the trees at a run, belling, onto the open ground at the edge of the pit, and saw the lion standing over her, and saw her.
+Three of them. Big, rough-coated: Wynn's two, Ash and Sorrow, and Callis's own, Grip, old and grey in the muzzle. She knew them. She'd mucked out under them every morning since the autumn and forked their straw and carried their water, and Ash had laid her great head in Maren's lap once when she sat down in the hound's stall to cry. They came out of the trees at a run, belling, onto the open ground at the edge of the pit, and saw the lion standing over her, and saw her.
 
 They stopped.
 

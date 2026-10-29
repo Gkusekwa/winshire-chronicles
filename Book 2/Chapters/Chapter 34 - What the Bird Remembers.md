@@ -292,7 +292,7 @@ The pencil stopped.
 
 She knew the name. She didn't know how she knew it. Then she did: the farmer. On Liss's floor. Talking about the old dragon, about what she'd remembered under the arch, about a man whose face had come back to her after three hundred years. *Ennis. A warden of the bridge. She said his name and then she was quiet.*
 
-"He stood at the door," said the Old Reader, "with his dragon. A bronze. Old even then. And when the cat had been driven off with fire, he stood in the door with the bronze behind him and wouldn't let them by." It paused. "He was one man and one dragon against a hundred men and a lord. He knew what was down the steps. He'd been keeping it with the cat. He wouldn't let them by."
+"He stood at the door," said the Old Reader, "with his dragon. A bronze. Young then. And when the cat had been driven off with fire, he stood in the door with the bronze behind him and wouldn't let them by." It paused. "He was one man and one dragon against a hundred men and a lord. He knew what was down the steps. He'd been keeping it with the cat. He wouldn't let them by."
 
 "What did they do?"
 

@@ -150,7 +150,7 @@ Not a question.
 
 "Maren Ashdown."
 
-"I know," said Kit Merrin. "The whole coast knows. They're saying it in Corsa now, that you asked Kessmoor for a ship and Kessmoor laughed." She looked at the lion. "Kessmoor's ships draw four fathoms and couldn't get past the second milestone. I can."
+"I know," said Kit Merrin. "The whole coast knows. They're saying it in Corsa now, that you asked Kessmoor for a ship and Kessmoor laughed." She looked at the lion. "Kessmoor's ships draw four fathoms and couldn't get past the first pier. I can."
 
 ---
 

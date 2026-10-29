@@ -26,7 +26,7 @@ notes -->
 
 They buried the dead on the hill west of the walls, and they buried the beasts with them.
 
-That was the old way at Greyhold, older than the charter over the gate. A bonded knight went into the ground with the beast that had gone with them, side by side, one grave, because one life between two meant one death and one grave after. Maren had seen it twice: her father's, when she was fourteen, Edric Ashdown and his hound under the same turf at the end of the long field above the river; and Ide Darrow's, in the autumn, with Bracken curled at her feet as if he'd only lain down to wait. Two graves in a lifetime. Now there were fifty-three in a morning.
+That was the old way at Greyhold, older than the charter over the gate. A bonded knight went into the ground with the beast that had gone with them, side by side, one grave, because one life between two meant one death and one grave after. Maren had seen it once: her father's, when she was fourteen, Edric Ashdown and his hound under the same turf at the end of the long field above the river. In the years since, Greyhold had burned its bonded dead on the river shore instead, two on one pyre, as it had burned Merrow with his ox and Ide Darrow with Bracken beside her as if he'd only lain down to wait. There wasn't wood for fifty-three. There was the hill, and the old way. Now there were fifty-three graves in a morning.
 
 They dug them all through the first day after the flight. Knights and students and grooms and the refugees from Millbrook who'd come up to the walls in the night and stayed, a long ragged line of people with spades on the west slope of the hill in the thin spring sun, and the ground was soft from the thaw and the digging went fast, and nobody spoke much.
 

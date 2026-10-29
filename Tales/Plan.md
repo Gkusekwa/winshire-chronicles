@@ -68,6 +68,7 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 - **Ends on:** the step.
 - **Depends on:** Book 1 ch 2, 50, 52, 56, 69; Magic.md §6 (bindings); Bestiary (bound beasts).
 - **Must not reveal:** whether he fully comes back (that's Book 2).
+- **Drafted (Oct 2026):** `Tales/Old Grey/Old Grey.md`, first draft, about 8,400 words. It settles small things only: he was sold at Wendmouth with papers before Mabbin, bound there in a room off the beast yard, and his binder and his handler at the Ewe Beck are the same small older man (Book 1 ch 52). His people are known to him by smell (Joss: hoof-oil, onions, an unlit pipe; Bel: bread and lye soap; Calder: barley dust; Wren: milk and river mud).
 
 ### 5. Ford Water *(Teo Varr)*
 - **POV:** Teo, the chief's younger son.

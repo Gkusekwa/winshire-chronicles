@@ -1,6 +1,8 @@
-# Winshire Tales — Plan (working draft)
+# Winshire Tales — Plan
 
 *Short works told from points of view the main books can't give: beasts, the dead, the far side of a river, the years before. **The author settled the plan's six open questions (Oct 2026)**: the name, beast POVs, the before-Book-1 slot, no main POVs, the first wave and the release plan (see the end). Each tale's outline below is still a proposal until it is drafted. Canon is marked as in the Bible. Book 2 and Book 3 references follow their chapter plans (`Book 2/Chapter_Plan.md`, `Book 3/Chapter_Plan.md`), both drafted with their review settled; where a drafted chapter differs from its plan, follow the chapter.*
+
+**Drafting status (Oct 2026):** all 22 tales are in first draft, about 235,000 words in all, each in its own folder under `Tales/`. Each tale's notes block lists what it settles (Decided here); log those in the Bible when the tale is published (rule 2).
 
 ---
 
@@ -43,6 +45,7 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 - **Ends on:** Aurveth flying alone over the river, not knowing why she's grieving.
 - **Depends on:** Book 1 ch 28 and 70 (Aurveth's memory, Ennis's face); Book 2 ch 34 (the roll's line about Ennis at the door).
 - **Must not reveal:** that the grey cat is Orrun; the six sleepers; the elders.
+- **Drafted (Oct 2026):** `Tales/The Bridge Warden/The Bridge Warden.md`, first draft, about 11,700 words. What it settles is listed in its notes block.
 
 ### 2. The Key *(Hale at twenty-three)*
 - **POV:** Osric Hale, archivist's boy, the night he's sworn into the Watch, forty years before Book 1.
@@ -50,12 +53,14 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 - **Ends on:** "Don't you ever put your hand on that door again" (said to him, the line he'll say to Maren).
 - **Depends on:** Book 1 ch 37, 49, 51, 75; World.md (the keys).
 - **Must not reveal:** more than Book 1 ch 49 tells.
+- **Drafted (Oct 2026):** `Tales/The Key/The Key.md`, first draft, about 9,400 words. What it settles is listed in its notes block.
 
 ### 3. Third *(Sigrun and Aurveth)*
 - **POV:** Sigrun Holm at seventeen, about fifty-nine years before Book 1.
 - **What happens:** the ledges; a girl who's never been chosen; an old bronze dragon that has outlived two partners and is said to be waiting for something. Aurveth chooses her.
 - **Ends on:** Sigrun asking Aurveth what she's waiting for, and Aurveth not answering.
 - **Depends on:** Book 1 ch 6, 8, 18 (Sigrun, Ragnald Holm, Aurveth on Coldtarn's shore).
+- **Drafted (Oct 2026):** `Tales/Third/Third.md`, first draft, about 11,500 words. What it settles is listed in its notes block.
 
 ---
 
@@ -72,18 +77,20 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 
 ### 5. Ford Water *(Teo Varr)*
 - **POV:** Teo, the chief's younger son.
-- **When:** Book 1 days −4 to 4: from his father's pyre to the morning of the ford meeting.
+- **When:** Book 1, from his father's pyre (about day −26) to the morning of the ford meeting (day 4).
 - **What happens:** the week he believes he can hold the Clan together. Arn's pride, Ulric's following, the farmer who calms a terrified mare. He chooses the ford and the hour, and Rook mends a halter at the foot of the cliff path.
 - **Ends on:** Teo riding down to the ford at dawn.
 - **Depends on:** Book 1 ch 2, 4, 6, 8, 10, 12, 14.
+- **Drafted (Oct 2026):** `Tales/Ford Water/Ford Water.md`, first draft, about 11,700 words. What it settles is listed in its notes block.
 
 ### 6. Three Fires *(Lisska at the mill)*
 - **POV:** Lisska.
-- **When:** Book 1 day 8, the battle and the threefold bond (18).
+- **When:** Book 1 day 8, the battle and the threefold bond (18), to the morning of day 9 (20).
 - **What happens:** Imra's laughter, the bolt, the pull of death, and a farmer in a barley field who has room.
 - **Ends on:** "I remember everything", said for the first time.
 - **Depends on:** Book 1 ch 6, 16, 18, 20.
 - **Must not reveal:** "why me?" (that answer belongs to Book 3).
+- **Drafted (Oct 2026):** `Tales/Three Fires/Three Fires.md`, first draft, about 10,700 words. What it settles is listed in its notes block.
 
 ### 7. The Paymaster *(Rook)*
 - **POV:** Rook, the Restoration's man in Ulric's hall.
@@ -92,6 +99,7 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 - **Ends on:** Rook putting the book into Delling's chest.
 - **Depends on:** Book 1 ch 10, 58, 68, 72; `Book 1/Notes/Rulings_41-79.md`, Ruling 35 (the ledger in Delling's chest).
 - **Must not reveal:** the twins (it's read after Book 1, but keep Rook's knowledge to what Book 1 says he knew).
+- **Drafted (Oct 2026):** `Tales/The Paymaster/The Paymaster.md`, first draft, about 11,800 words. What it settles is listed in its notes block.
 
 ### 8. The Last Crossing of Winter *(Liss Ashdown)*
 - **POV:** Liss.
@@ -99,12 +107,14 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 - **What happens:** the ferry going back and forth under fire, the rope, the faces, and a daughter somewhere under the ground.
 - **Ends on:** dawn, the hole in the river, Liss counting who she brought over.
 - **Depends on:** Book 1 ch 64, 69, 71, 75, 79.
+- **Drafted (Oct 2026):** `Tales/The Last Crossing of Winter/The Last Crossing of Winter.md`, first draft, about 12,300 words. What it settles is listed in its notes block.
 
 ### 9. Bracken *(Ide Darrow's hound)* — short
 - **POV:** Bracken.
 - **When:** Book 1 days 49–63.
 - **What happens:** a hound's last patrols and the one life between two, from the other end.
 - **Depends on:** Book 1 ch 33, 39.
+- **Drafted (Oct 2026):** `Tales/Bracken/Bracken.md`, first draft, about 9,400 words. What it settles is listed in its notes block.
 
 ---
 
@@ -117,6 +127,7 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 - **Ends on:** Corvin at Cotter's Cross, saying "Vale" to a crowd that has just heard it was two.
 - **Depends on:** Book 1 ch 74, 76, 77; Book 2 ch 12.
 - **Must not reveal:** where he goes after Book 2 ch 12, the roll, the College, Kessmoor.
+- **Drafted (Oct 2026):** `Tales/The Older Stair/The Older Stair.md`, first draft, about 11,300 words. What it settles is listed in its notes block.
 
 ### 11. The Night the Glasses Broke *(Nessa Vael)*
 - **POV:** Nessa, Idony's sister, on the family ferry on Glasswater.
@@ -124,14 +135,16 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 - **What happens:** the lantern owl in its cage blazes and goes dark, the College hill lights up white, her brother comes down to the ferry at dawn with his charts under his coat.
 - **Ends on:** Nessa asking what it'll eat next (Book 2 ch 8's line, from her side).
 - **Depends on:** Book 2 ch 3, 8; Bestiary (lantern owls).
+- **Drafted (Oct 2026):** `Tales/The Night the Glasses Broke/The Night the Glasses Broke.md`, first draft, about 10,600 words. What it settles is listed in its notes block.
 
 ### 12. On Duty *(the grey cat)* — short
 - **POV:** the grey cat at Greyhold.
 - **When:** Book 1 night 143 to Book 2 day 6.
-- **What happens:** the cat lies beside the beasts who'll grieve, one after another, through the night the gate falls. It doesn't leave Greyhold until there's nothing left to keep.
+- **What happens:** the cat lies beside the beasts who'll grieve, one after another, through the night the gate falls. It doesn't leave the hill until that week's grieving is done, then sits on Liss's step (it stays at Greyhold until near Book 2's end, ch 79).
 - **Ends on:** the cat sitting on Liss's step.
 - **Depends on:** Bestiary (great cats; the grey cat is of the old lions' kind, as drafted); Book 1 ch 1, 9, 27, 37.
 - **Must not reveal:** what it is.
+- **Drafted (Oct 2026):** `Tales/On Duty/On Duty.md`, first draft, about 8,600 words. What it settles is listed in its notes block.
 
 ---
 
@@ -139,23 +152,26 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 
 ### 13. The Keeper of the Library *(the archive-bird)*
 - **POV:** the speaking bird of the Long Library.
-- **When:** Book 2, the bird's last night (39), with its long memory running underneath.
+- **When:** Book 2, the bird's last night and day (night 176 to the afternoon of day 177, ch 39), with its long memory running underneath.
 - **What happens:** three hundred years of readers, the roll it never showed anyone, the one reader it showed it to, and the hunters on the stair.
 - **Ends on:** its last words to Idony (Book 2 ch 39), from its side.
 - **Depends on:** Book 2 ch 3, 31, 32, 34, 39 *(canon: killed by Corvin's hunters)*.
 - **Must not reveal:** more than Book 2 ch 34 tells.
+- **Drafted (Oct 2026):** `Tales/The Keeper of the Library/The Keeper of the Library.md`, first draft, about 13,100 words. What it settles is listed in its notes block.
 
 ### 14. The Last Lane *(Hesper and Hush)*
 - **POV:** Keeper Hesper, with Hush the duskcat.
 - **When:** Book 2, the Moot (25).
 - **What happens:** a Keeper who taught a knight a finding-knot, holding the last tent-lane with her duskcat while the forest walks.
 - **Depends on:** Book 2 ch 13, 15, 18, 25.
+- **Drafted (Oct 2026):** `Tales/The Last Lane/The Last Lane.md`, first draft, about 9,900 words. What it settles is listed in its notes block.
 
 ### 15. Skell *(Tor Brecc and Skell at the Roosts)*
 - **POV:** Skell, a young dragon.
 - **When:** Book 2, the Roosts raid (21).
 - **What happens:** honey-smoke from inside: coming loose from Tor "like a boat off its rope", and choosing not to.
 - **Depends on:** Book 2 ch 21, 24.
+- **Drafted (Oct 2026):** `Tales/Skell/Skell.md`, first draft, about 8,900 words. What it settles is listed in its notes block.
 
 ### 16. Ringless *(Tobin)*
 - **POV:** Tobin.
@@ -163,12 +179,15 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 - **What happens:** a Restoration believer whose cause is gone, walking through kingdoms that hunt Titans, hearing the stories grow.
 - **Ends on:** Tobin walking into the cordon at the Scald.
 - **Depends on:** Book 1 ch 47, 57, 71; Book 2 ch 45.
+- **Drafted (Oct 2026):** `Tales/Ringless/Ringless.md`, first draft, about 12,900 words. What it settles is listed in its notes block.
 
 ### 17. The Old Road Down *(the royal olifants)*
 - **POV:** an olifant cow of Sarovel's royal herd.
 - **When:** Book 2, the fall of Solenne (60–63).
+- **As drafted:** the three royal olifants stand across the harbour road and stay (ch 63); the unbonded yard herd follows the wild cow out. No people go with it.
 - **What happens:** nine generations in the stables; a language with no map; then the Grace fails and a wild cow comes down to the walls, and the herd follows her out along a road it didn't know it remembered.
 - **Depends on:** Bestiary (olifants, settled Oct 2026); Book 2 ch 55–63.
+- **Drafted (Oct 2026):** `Tales/The Old Road Down/The Old Road Down.md`, first draft, about 9,900 words. What it settles is listed in its notes block.
 
 ### 18. Nine Days *(Wren and Ildra)*
 - **POV:** Wren.
@@ -176,12 +195,14 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 - **What happens:** a girl who makes everyone say things twice, sitting with an empty-eyed young dragon every day, talking, until it lifts its head.
 - **Ends on:** Wren naming her Ildra.
 - **Depends on:** Book 2 ch 52, 62.
+- **Drafted (Oct 2026):** `Tales/Nine Days/Nine Days.md`, first draft, about 9,000 words. What it settles is listed in its notes block.
 
 ### 19. Kite-Rider *(a Pass Warden of Isvaren)* — new character
 - **POV:** a kite-rider girl of the Pass Wardens.
 - **When:** Book 2, the Glasswater waking (36–37).
-- **What happens:** she carries Idony's warning across the flood ahead of the water on a stormkite, and gets Nessa's ferry off the shore.
+- **What happens:** Idony has already warned Nessa himself (ch 36). The kite-rider carries the warning across the lake on a stormkite to Stell, the far landing of Nessa's ferry, and gets its people off the shore ahead of the water.
 - **Depends on:** Bestiary (stormkites, settled Oct 2026); Book 2 ch 29, 36, 37.
+- **Drafted (Oct 2026):** `Tales/Kite-Rider/Kite-Rider.md`, first draft, about 12,900 words. What it settles is listed in its notes block.
 
 ---
 
@@ -189,24 +210,27 @@ The books barely leave gaps in time. Book 2 opens at the sunrise that ends Book 
 
 ### 20. The Drowned Road *(Kit Merrin)*
 - **POV:** Kit Merrin.
-- **When:** the year before Book 2's end, ending in Book 3's first days.
+- **When:** the year before Book 2's end, ending at Book 3 day 76, when the lion-woman comes to Blackwater (ch 14).
 - **What happens:** the Merrins' last secret run to the far shore before the war: the milestones, the rule "never sleep ashore", her father's death on that water, and the debt to Ostrey. It introduces Book 3's new people before Book 3 does.
 - **Ends on:** Kit in Blackwater, hearing that a lion-woman is asking for a reef-pilot.
 - **Depends on:** Book 3 ch 13 and the Saltreach section.
 - **Must not reveal:** the elders, what the light is, the Lit Shore's name.
+- **Drafted (Oct 2026):** `Tales/The Drowned Road/The Drowned Road.md`, first draft, about 10,200 words. What it settles is listed in its notes block.
 
 ### 21. The Six Come Down *(a roc-rider)*
 - **POV:** a roc-rider of the Wyldmarch horse clans.
-- **When:** Book 3 days 0–24.
-- **What happens:** the lights over the Worldsend seen from a roc's back, and the six coming down onto the Hallow Plains. The first warning reaches Elder Ysolt, and the clans start west.
+- **When:** Book 3 days 0–18.
+- **What happens:** the lights over the Worldsend seen from a roc's back, and the six coming down onto the Hallow Plains. The first warning reaches Elder Tova, and the clans start west.
 - **Ends on:** a lion on the horizon.
 - **Depends on:** Bestiary (rocs, settled Oct 2026); Book 3 ch 1–7.
+- **Drafted (Oct 2026):** `Tales/The Six Come Down/The Six Come Down.md`, first draft, about 10,800 words. What it settles is listed in its notes block.
 
-### 22. The Empty Chair *(Arn Varr)*
+### 22. The Empty Chair *(Arn Varr)* — shares its title with Book 2 ch 12
 - **POV:** Arn.
 - **When:** Book 3 days 0–12.
 - **What happens:** the week after the six fly: the chair, his brother's absence, Ildra following him about the yard, and him sending her away.
 - **Depends on:** Book 2 ch 24, 62; Book 3 ch 2, 5.
+- **Drafted (Oct 2026):** `Tales/The Empty Chair/The Empty Chair.md`, first draft, about 10,100 words. What it settles is listed in its notes block.
 
 ---
 

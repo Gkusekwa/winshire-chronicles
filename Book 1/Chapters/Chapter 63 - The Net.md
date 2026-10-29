@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Five: Thaw
 Beats: Maren breaks the knightly oath to protect the lion and is cast out of Greyhold.
 Echo of the other's story: Word arrives that the Restoration's leader is gathering forces at the Old Ruin.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 61: the trap is set for dusk on day 135; Callis with three hounds drives from the north end; forty knights in the west reeds; Kesh to mark; Thorne's boar at the south end; the small door on the midden side of the Long Barn left unbarred. From Chapter 59: three refusals; confined; the gate told to stop her. From Chapter 55: the collar, the scale, the hammer and chisel and Tobin's blue-corded sword in the chest under her cot. From Chapter 49: "and do not ask" won't come out of her mouth. From Chapter 9 (Pell's lesson): subdue, don't kill.
-Draft notes: Days one hundred and thirty-three to one hundred and thirty-six. Decided here (proposals):
+Draft notes: Days one hundred and thirty-three to one hundred and thirty-six. Decided here (settled as drafted):
 - Night 134: she goes out through the unbarred door and over the midden wall with Tobin's practice sword and the hammer and chisel in a sack. She walks the River Road three leagues upriver to Redwatch in the dark. Ottery is in the boathouse. He looks at her a long time and gives her the punt. "I never saw you." She's on the island before first light on day 135.
 - Day 135: she spends it with the lion at the pit. It lets her sit against its shoulder. She can't tell it anything. She can only be there.
 - Dusk, day 135: Callis's hounds come in at the north end, three of them, baying, with Callis and two knights on foot behind. The lion stands. Maren stands in front of it. The hounds won't come past her (she's mucked them out since the autumn; they know her smell). Callis orders them on. They won't. He lifts his crossbow at the lion.
@@ -17,8 +17,8 @@ Draft notes: Days one hundred and thirty-three to one hundred and thirty-six. De
 - Morning, day 136, the river gate: Rowan in front of the school. "Maren Ashdown raised her hand against a knight of the orders in the field. That is the oath broken. She is no longer of Greyhold." Her grey is taken. Grieve brings her chest out of the dormitory and puts it on the cobbles by the gate himself, without a word. Hale stands at the top of the archive stair. Haverly's in the front line with Kesh. The gate shuts behind her.
 - The echo: as she stands outside the gate with her chest, a rider comes in hard from Redwatch past her: boats coming down the Drover's Way on carts, the Restoration's banner at the Ram's Head, and Vale himself at the head of the column (Fisk's boy rowed over to tell Ottery). "They're gathering for the Old Ruin. Three days. Four at most." The gate opens for him and shuts again.
 - She sits on her chest outside the gate. Then she picks it up and walks down the River Road toward the ferry, toward Liss.
-- Magic (proposal): a knight behind Callis says the licensed stand-word at the lion and nothing happens (the failing; contrast the surge in 69, 77).
-- Revision (proposal): Orrun's multiplication, third glimpse. When the hounds stop, they're staring past Maren at something lion-shaped standing up out of the oaks behind the lion; when she looks there's only a trunk and loose earth. The hounds knowing her smell stays as the other reason they won't go on.
+- Magic (as drafted): a knight behind Callis says the licensed stand-word at the lion and nothing happens (the failing; contrast the surge in 69, 77).
+- Revision (as drafted): Orrun's multiplication, third glimpse. When the hounds stop, they're staring past Maren at something lion-shaped standing up out of the oaks behind the lion; when she looks there's only a trunk and loose earth. The hounds knowing her smell stays as the other reason they won't go on.
 notes -->
 
 ---

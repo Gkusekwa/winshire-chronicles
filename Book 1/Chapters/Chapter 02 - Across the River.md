@@ -5,7 +5,7 @@ POV: Calder
 Part: Part One: Two Banks
 Beats: Farm life on the Saltreach side. The old chief has died. His mother, Ada, sings the old song: "before the six, there was one," the gods who walk unbound, and the Last Titan.
 Echo of the other's story: Knights' lanterns on the far bank at night; his family says the knights never cross.
-Status: first draft
+Status: near-final draft
 Thread resolved: the fires Maren sees at the end of Chapter 1 are farms at Upper Rush, raided in the night for beasts and burned; the village blames the Clan's quarrel. Calder pockets a length of beast chain and says nothing. (Readers later learn it was the Restoration.)
 Draft notes: Same day as Chapter 1. The seven dragons are the Clan's funeral flight along the border. Bel (Calder's sister) lives at Upper Rush with her husband, Joss. New minor characters: Bramble the cow, Hob the miller, Davy Garrow. The song's last line, "till the six are one again," quietly echoes the Restoration's oath, "One again."
 Magic touches: Ada's cow-words (work one time in three); Hob's warranted charm-tag on the mill wheel; Ada on the crown lamps on Greyhold's wall.

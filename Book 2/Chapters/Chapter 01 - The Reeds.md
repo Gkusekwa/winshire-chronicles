@@ -7,8 +7,8 @@ Days: 0 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The reeds below Redwatch
 Beats: Sunrise to noon, day 0. Rowan comes down from cracked Redwatch with the knights left, the great new chain on its wain, and the council's order *(canon, Book 1 ch. 59)*. Forty knights on greyharts with their hounds at heel and two falcons up, a lion and three dragons in the reeds, and nobody moves. The knights' bonds still hold on dead ground, because a bond isn't the Deep; it's the only thing in Hearthmere that does. Ottery walks out between them. Rowan looks at her dead tower lamps and says, "Not today." On the knights' line the bone-setting words don't take *(canon)*; Maren learns the phrase **dead ground** from a surgeon swearing over a man who should have lived.
 Echo of the other's story: The farmer talking out loud to three dragons; Maren hears only his half.
-Status: first draft
-Draft notes: Sunrise to a little after noon, day 0. Decided here (proposals):
+Status: near-final draft
+Draft notes: Sunrise to a little after noon, day 0. Decided here (settled as drafted):
 - Maren knows his name from the refugee on the ferry (Book 1 ch 31) and says it first: "Calder Fenn." He knows her as Liss Ashdown's girl, "the lion-woman" of Lisska's sightings; she tells him Wren met her at Greyhold's gate (Book 1 ch 69), which he didn't know. It's the first time either names the other aloud.
 - The Restoration's army on the Harrow's End hill comes apart by itself in the morning, without orders: men walking off north and south in twos and threes, the companies' banners going down, the boats on the Saltreach side drifting loose. Nobody is in charge of it. (Sets up the unpaid companies on the Drover's Way, ch 5, 7, 12.)
 - Rowan's column: thirty-eight knights and students who can still sit a beast, on greyharts and horses, Wynn's hounds Ash and Sorrow among the hounds, two falcons up; the crown's beast-chain from the trap (Book 1 ch 59) on its wain behind two dray-oxen; the two younger licensed surgeons on mules.

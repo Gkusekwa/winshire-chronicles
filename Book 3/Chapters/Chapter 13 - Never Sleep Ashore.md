@@ -7,8 +7,8 @@ Days: 60–66 (Book 3 count; day 0 = dusk on the day the six went up from the Sc
 Ends at (chapter-end map): Blackwater
 Beats: Kit Merrin's first POV. Blackwater, the smugglers' inlet under the Worldsend's southern tail: outlaws, companies between contracts, no questions *(Atlas)*. The **Merrin house** is small and in debt to the **House of Ostrey**, since the Bell woke on the reef channels the Merrins pilot. Its secret, four generations old: the drowned road over the Shatters to a shore beyond the sea, and the stone they bring back. Her grandmother sold the phoenix feather in Rusk's window *(Book 1 ch. 36)*; where the Merrins got it, nobody in the family says. The family rule: **never sleep ashore over there.** Her brother Jory, nineteen, the best pilot of them; and Gannet *(Book 1 ch. 7)*, the Wendmouth poacher, now her bosun.
 Echo of another story: Gannet: the knight with the lion is the one who freed his duskcat cub at Millbrook two years ago. He hasn't forgotten.
-Status: first draft
-Draft notes: Days 60–66. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 60–66. Decided here (settled as drafted):
 - **Kit Merrin**: about forty; lean, weathered, a broken nose set crooked, grey early in her black hair; captain of the *Kittiwake* (a two-masted salvage ketch, broad-beamed, shallow, built to sit on a reef at low water and float off on the flood); talks prices the way other people talk weather; sleeps aboard, always, even in Blackwater, which the inlet thinks is a joke and isn't.
 - **Blackwater** (Book 2 ch. 56): the dark-water inlet; black cliffs; peat-stained water; tarred houses on stilts round the inlet's head; smugglers' ships; sellswords' fires on the beach; no harbour-master, no toll, **no chain** (the Council has never made one stick here); the boathouse on the north shore with its roof still off, from the farmer's dragons in the winter.
 - **The Merrin house**: three generations of reef-pilots and salvors; ochre shutters (the house colour) on one tall stilt-house at the inlet's eastern end, and a salvage hold under it on the water; small; Kit, Jory, a crew of six, and **Gannet** as bosun.

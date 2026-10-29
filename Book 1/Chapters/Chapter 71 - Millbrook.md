@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Six: The First War
 Beats: Millbrook burns. Maren pulls Tam out of the smithy and finds Tobin on the other side of the fight.
 Echo of the other's story: Dragon fire over the Old Ruin, two colours of it. She doesn't know yet that a third is missing.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 69: Pell dead in the gateway; Rowan back with half the orders; "Tam." "I'll bring him." From Chapter 65: Tam in the Kettle's yard; Vale's promise: "No Millbrook house'll burn"; Odo's forge chained by the crown. From Chapter 57: Tobin at the hedge-meeting; "When they throw you out, come and find us." From Chapter 68 (Calder's side): "our friend" inside Greyhold will take Cassian down. From Chapter 33: twice a rider with Greyhold's seal cleared the river for a raid.
-Draft notes: Evening of day one hundred and forty-two to dusk on day one hundred and forty-three. Decided here (proposals):
+Draft notes: Evening of day one hundred and forty-two to dusk on day one hundred and forty-three. Decided here (settled as drafted):
 - How Millbrook burns: not by the Restoration's plan. The knights who came back with Rowan rode down the River Road at dusk to drive the rising out of the town, and the rising fired the thatch in front of them to stop the horses, and the wind took it. By full dark the whole jetty road is alight.
 - Maren goes in from the river side, along the back channel, in the smoke.
 - Odo's forge: the crown's chain on the doors has been broken off. Tam went in to get Odo out; Odo had gone in for the punches, the stamps, the crossed hammers, to throw them in the river so nobody could make another collar with his mark. The roof's coming down. Odo's under a beam. Tam won't leave him. Maren gets them both out through the back, Odo on a door between them. Odo's legs are broken. He makes no sound on the door. In his fists are the punches, the crossed hammers and the six; at the back channel he tells Maren what the collars were sold as, and throws both into the water.
@@ -15,7 +15,7 @@ Draft notes: Evening of day one hundred and forty-two to dusk on day one hundred
 - Night 142: she gets Tam and Odo to the ferry house, in an eel-punt from below the slip, Tam poling up under the bank. Liss is there with Wren, who wouldn't stay inside Greyhold without her; Ada stayed with Bel. Liss and Tam.
 - Day 143: she tries to get the word about Callis to someone inside. The gate won't open for her. She shouts it up at the wall. A student on the wall hears and looks at her, and goes away; she doesn't know if anyone believes it or who it'll reach. She tells Liss to tell Hale, by the water-gate, if she can.
 - The echo: dusk on day 143, as she starts back toward Hollin Knowe, from the River Road she sees fire over the Old Ruin, upriver. Dragon-fire. Two colours: one white at the root and orange-red, one a deep slow bronze-gold, like a furnace door. Two. She doesn't know what that means, or what it means that there are only two. She runs.
-- Magic (proposal): the surge, night 142. The rising's ring-men at the barricades chant a many-voice ward Reede taught them, and a knight's stand-word won't land on his horse through it; the chant breaks when the roofs catch. The ferry house's dead lamp flares white as Odo is carried in. Liss says the river burn-word over Maren's palms out of habit, and it takes too hard: the burns close tight and shiny, still painful (her hands stay "burned" in 73 and 75).
+- Magic (as drafted): the surge, night 142. The rising's ring-men at the barricades chant a many-voice ward Reede taught them, and a knight's stand-word won't land on his horse through it; the chant breaks when the roofs catch. The ferry house's dead lamp flares white as Odo is carried in. Liss says the river burn-word over Maren's palms out of habit, and it takes too hard: the burns close tight and shiny, still painful (her hands stay "burned" in 73 and 75).
 notes -->
 
 ---

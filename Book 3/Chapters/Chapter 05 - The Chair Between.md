@@ -7,8 +7,8 @@ Days: 8–12 (Book 3 count; day 0 = dusk on the day the six went up from the Sca
 Ends at (chapter-end map): Varrhold
 Beats: Arn's first POV. Varrhold: the chief's chair still empty between two tables *(Book 1 ch. 6; Book 2 ch. 24)*. Ulric, Gunna Tarne scarred from the Roosts *(Book 2 ch. 21)*, the riders of the ledges, the breeding pens. **Ildra**, the young dragon Wren woke *(Book 2 ch. 62)*, keeps following him, and he keeps sending her away. Arn sends the Clan's flights south with the farmer because Ulric says Teo would have, and it galls him. They split the work: Ulric to the coast, Arn holds the Scarfell.
 Echo of another story: Calder in the yard, talking out loud to three dragons; the riders laugh, and then they don't.
-Status: first draft
-Draft notes: Days 8–12. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 8–12. Decided here (settled as drafted):
 - **The hall**: Varrhold's long hall; two long tables, the red thread's on the left and the grey's on the right; between them at the top, the chief's chair (black oak, carved dragons) under its grey cloth since Teo's burning (Book 2 ch. 12); the Clan names a chief when both halves pour at Coldtarn (Book 2 ch. 12, 24); Arn and Ulric have poured together twice (Teo's word; Book 2 ch. 24, 78) and still nobody has sat in it. Arn sits beside it, on a bench, as he did at Book 2 ch. 12.
 - **The riders' demand** (day 8): Arn gives the riders Calder's answer and Aurveth's joke at the long tables; the red-thread riders don't laugh; old Hulda Sarr does; **Gorm Askell** brings the ledgers: three dragons the Clan bred and fed for three hundred years and more, on the books.
 - **The breeding pens** (day 9 morning): the spring pens on the lower ledges, oak bars, the chosen pairs and the keepers with mutton barrows (Book 2 ch. 12); a hundred and some dragons the Clan keeps and doesn't bond; the young ones bred for the ledges; Arn walks them as Haldor did, every morning; this morning every dragon in the pens is silent and facing east (the six came down, ch. 4).

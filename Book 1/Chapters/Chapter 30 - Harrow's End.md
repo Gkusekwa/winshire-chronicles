@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Three: The Long Autumn
 Beats: The civil war reaches Harrow's End again, with no winner and only damage. Calder uses the dragons to save people for the first time, and their rage leaks into him.
 Echo of the other's story: Knights watch from the far bank and don't cross.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 28: Calder now flies on Aurveth; Kharrak has been refused Skarrow; Lisska ranges everywhere. From Chapter 24: Hob sold Calder's road and hour to the coin man. From Chapter 16: Wat Garrow and the Ashby widow sold to Arn; Hob and three farms to Ulric. From Chapter 18: his father's rule, "don't fight it, move what it wants."
-Draft notes: About day forty-two, at night. Decided here (proposals):
+Draft notes: About day forty-two, at night. Decided here (settled as drafted):
 - Why Harrow's End again: Sten Raske comes with forty of Ulric's men to burn the farms that sold to Arn (the Garrows', the Ashby widow's). Gorm Askell is camped above the ford with Arn's riders, waiting to catch Ulric's men at it, and comes down on them in the village. Neither side wins. The village burns between them.
 - Lisska, five leagues out over the reed beds along the river, sees the glow and feels for the house; her words only reach him as she comes within a few leagues. All three fly from Crow Scar: Calder on Aurveth.
 - What they do:

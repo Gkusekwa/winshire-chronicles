@@ -5,8 +5,8 @@ POV: Maren
 Part: Part Two: Harvest of Knives
 Beats: Maren's fifth day on the island, the day after the ford. Tracks bigger than anything she knows. The hunters' camp, empty. Clan war smoke across the water. She sleeps in the tower and counts something enormous breathing in the dark.
 Echo of the other's story: War horns from the Saltreach bank all night.
-Status: first draft
-Draft notes: Renumbered in the timeline: this is day 5, Maren's fifth day on the island, the day after the smoke at the ford (day 4; Chapter 13 covered days 0 to 4). The plan's "second day" is superseded. Night 5 is the first night she hears the breathing. Decided here (proposals):
+Status: near-final draft
+Draft notes: Renumbered in the timeline: this is day 5, Maren's fifth day on the island, the day after the smoke at the ford (day 4; Chapter 13 covered days 0 to 4). The plan's "second day" is superseded. Night 5 is the first night she hears the breathing. Decided here (settled as drafted):
 - The tracks: four-toed, each print as broad as a round shield, claws showing at the front, pressed deep. Some old (hardened), one line fresh. They go into the silent north end.
 - The hunters' landing is on the island's north-west shore, below a bluff: a raft landing, a cache (spare chains, a dismantled cage, sacks of salt meat), a canvas lean-to. Empty, recent. They mean to come back.
 - She moves her camp from the spit to the tower, and hides the skiff in the reeds of the west channel.

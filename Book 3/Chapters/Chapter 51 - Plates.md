@@ -7,8 +7,8 @@ Days: 230–236 (229 told back) (Book 3 count; day 0 = dusk on the day the six w
 Ends at (chapter-end map): The Thornwood field; the Accord's council
 Beats: Arn pours for the riders lost in the Thornwood, Gunna and Tamsin first, with Ildra beside him, and Calder pours with him. Then Kessmoor's carts come for the Antlered's plates and heart under the Accord's clause: heartstone, though nobody says the word. Calder fights the clause in council; the Wyldmarch walks out. Rowan upholds it, because the Accord's word is all they have. Kharrak wants to burn the carts, and Calder doesn't let him.
 Echo of another story: Idony shouting numbers at a glass.
-Status: first draft
-Draft notes: Days 230–236 (229 told back). Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 230–236 (229 told back). Decided here (settled as drafted):
 - **D.229 they find them**: the Keepers' wolves find Tamsin under the fallen wood on the south side; Gunna still on her neck, hands flat, head down; Bryn Tolle's green and the brown a league apart; Bryn himself not found.
 - **No Coldtarn here**: the Clan pours into Coldtarn; this is a long way from it. **Arn asks Tova**; Tova: **pour them on the Thornwood** ("It will need something to grow from"). A break with custom; the riders mutter; Arn: "Ulric poured with a farmer. Gunna laughed for an hour. She'll not mind a wood."
 - **D.230 the burning**: no seven days; **Kharrak burns Tamsin and Gunna together in his white fire in an hour** ("Small," Calder tells him, and it's not small, and it's enough), then the green and the brown; the ash raked by the riders into four of the Keepers' clay seed-jars (no urns this far from home).

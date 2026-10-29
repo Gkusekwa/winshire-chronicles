@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Six: The First War
 Beats: Corvin's lock turns. The floor of the Old Ruin falls in, and Calder and the dragons fall with it into the catacombs.
 Echo of the other's story: Two locks, one moment.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 74: the round chamber off the ledge; the stone disc as wide as a threshing floor, carved in rings of the old letters; the iron boss; Corvin's long black key; the hour-candle; Calder held by four of Delling's men; Kharrak digging down through the tower floor; the ironback in the fort; the six chains going taut; "Seven."
-Draft notes: Midnight, night one hundred and forty-three. Decided here (proposals):
+Draft notes: Midnight, night one hundred and forty-three. Decided here (settled as drafted):
 - The count goes down, Corvin saying each number as the candle-flame touches the next notch (not by breaths). At "three" Kharrak comes through the dome of the chamber: rock and earth and the floor of the tower coming down with him, and daylight-less sky above, and fire. The men holding Calder let go. Calder goes for the key. He gets his hand on Corvin's wrist.
 - At "one" Corvin turns the key anyway, with Calder's hand on his wrist. It turns as if it wanted to. The whole stone disc turns with it, a quarter-turn, grinding, the carved rings of letters sliding past each other.
 - The echo: in the same breath, from far away, under the river, toward Greyhold, the same sound. A great grinding turn, through all that rock. Two locks. One moment. Calder feels it through his knees. Corvin, kneeling, smiles for the only time.
@@ -17,7 +17,7 @@ Draft notes: Midnight, night one hundred and forty-three. Decided here (proposal
 - Kharrak comes down out of the falling stone onto the rubble beside them, cut and burned and alive. The ironback falls past them into the dark and doesn't make a sound when it lands.
 - They're at the bottom of the world. The six chains go up past them into the dark, taut, and down into a deeper dark ahead. Something is moving at the bottom of them. The anchor-stones the chains run through are cracking.
 - Lisska: the feeling of her, very far off, in the other direction, by Greyhold, under the other bank, and still (she's at the top of the archive stair over Haverly; she starts to move only in 78, after the seal breaks). Through her, faintly, something large, old and warm somewhere below her, and a person. Calder doesn't understand it.
-- Magic (proposal): the disc's letters brighten through the count. At "three" the Fellow (74) spends his last release on Kharrak's head as he comes through the dome; Kharrak's fire goes up into the dome, and the Fellow drops, burned out, hair white in a breath. He goes down with the disc when the floor drops and dies there; the three figures on the older stair are Corvin and two of his men. When the disc turns, the lined-up letters blaze white rim to boss (matches 77). Corvin still turns the key with Calder's hand on his wrist.
+- Magic (as drafted): the disc's letters brighten through the count. At "three" the Fellow (74) spends his last release on Kharrak's head as he comes through the dome; Kharrak's fire goes up into the dome, and the Fellow drops, burned out, hair white in a breath. He goes down with the disc when the floor drops and dies there; the three figures on the older stair are Corvin and two of his men. When the disc turns, the lined-up letters blaze white rim to boss (matches 77). Corvin still turns the key with Calder's hand on his wrist.
 notes -->
 
 ---

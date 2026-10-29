@@ -7,8 +7,8 @@ Days: 355–356 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The river; up through the rock
 Beats: Calder feels the call go out over Winshire, and **five answer** *(canon: control over them)*. Far off, Kessmoor's cage breaks. Corvin gets away up the old stair, one-handed, with Callis and the oldest roll *(canon: Corvin survives to Book 3)*. Greyhold's hill falls in. Maren and Calder get out by different roads: she and Idony with the lion up through the rock, Calder with the dragons out through the water.
 Echo of the other's story: The lion coming up out of the hillside a league off, with a grey-haired man on his back.
-Status: first draft
-Draft notes: Days 355 (mid-afternoon) to 356 (dawn). Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 355 (mid-afternoon) to 356 (dawn). Decided here (settled as drafted):
 - **The call**: on the broken hill, among the dust and the people; his three go still (ch 84 echo); he feels it through the marks: not a sound: a pull, going out from under the river in every direction at once, over the whole of Winshire, like a ring going out across a pond; his dragons lean into it like trees in a wind; Kharrak puts the man he's holding down very carefully and stands with his head up; Calder's marks burn.
 - **Five answer**: Aurveth, lying across the broken wall, names them as she feels them, far off, one by one, turning their heads toward the Marches: *The stag. In the east.* (the Antlered, the Wyldmarch) *The cold one. North and west.* (the Pale Coil) *The one that burns. West.* (the Furnace) *The bright one. South.* (the Horned Sun) *The one with the bell on its back. In the sea.* (the Bell). Five. *They heard. They're turning. All of them.* *(canon: control over them)*
 - **Kessmoor's cage breaks**: Aurveth: *The one that burns. It's in iron. Was.* She feels the iron go: far off in the west, a league of it, breaking. (Calder doesn't feel it himself; he feels her feel it.)

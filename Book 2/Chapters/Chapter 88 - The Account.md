@@ -7,8 +7,8 @@ Days: 359–365 (359–361 in summary; the plan's 362–365 is the chapter's pre
 Ends at (chapter-end map): The Scarfell; the hatching caves
 Beats: The five come to the Last Titan in the Marches, out of five quarters. The six go up together from the Scarfell and fly east toward the Worldsend. At Bel's table in the hatching caves, Calder writes the first line of the account himself. Maren has already gone back to the river.
 Echo of the other's story: Lisska back from the river: Maren on the ferry-house jetty, watching the east, and she says to tell Wren she saw it too, twice.
-Status: first draft
-Draft notes: Days 359–365. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 359–365. Decided here (settled as drafted):
 - Day 359 Calder flies up from the ferry house to the Scarfell; the Titan lies on the high moor above the Coldtarn caves, a league from the hatching caves, on the bare heather under the Scarfell's crags, very still, six in its back; the Clan on the ledges at Varrhold and at the caves, every pair, watching it; nobody goes near. Wren at the caves with Ada and Bel (and Pip and Nan); Ildra at Wren's side; the black and the red still empty-eyed by the spring.
 - Wren: "You came back." "I said I would." "Say it twice." He does.
 - **The five come**, days 360–361 (seen from the caves' mouth and the ledges): the **Antlered** out of the east over the Worldsend's foothills, with the forest walking round it (trees moving on the moor where there are no trees); the **Pale Coil** out of the north-west, frost going ahead of it over the heather, the tarn freezing at its edges as it passes, but not at the warm middle (Book 3 needs Coldtarn never to freeze); the **Furnace** out of the west, the ground smoking where it walks, broken iron still hanging from it; the **Horned Sun** out of the south, light coming off its horn so the moor's night is day for a league; the **Bell**, last, slowest (near midnight 361), out of the sea and north over the Ashlings and the Saltreach hills, well east of the river, reef-backed, the bronze bell on its back ringing as it walks. Each comes to the Last Titan and lies down beside it. Six on the moor.

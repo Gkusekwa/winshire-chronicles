@@ -7,8 +7,8 @@ Days: 177, night (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Library steps
 Beats: **Meeting**: the bird burned on the Library steps at nightfall, and Calder there with one recovered dragon and two of his own. He and Maren stand apart and say what each is doing; neither asks the other to come. She gives him the pages she wrote out for him at the Library: Ennis, and the bird's question (34). At the pyre Quell's proctors **break Idony's ring** (Magic §4b) for leaving the binding, and put him out of Vael. Nessa stays to rebuild the lake ferry. Idony goes with Maren, because the Titan's next temple is where his tide-glasses work.
 Echo of the other's story: Calder asking the tide-reader, very carefully, whether the glasses can tell where a road goes.
-Status: first draft
-Draft notes: Night 177. Decided here (proposals):
+Status: near-final draft
+Draft notes: Night 177. Decided here (settled as drafted):
 - Maren goes up through the dark city behind the clerk, with Orrun swaying (shoulder at the first-floor windows now) and her right arm still dead to the shoulder and cold through. No lamps anywhere: the drain. People with tallow and rushlights.
 - In the Long Library by the great window: the bird on the floor where it fell; Idony against the perch with his hands in his lap, something wrong in his back (he walks bent); the farmer kneeling; Kharrak's head in the broken window; Lisska on the sill; the yearling red on the outside steps below with her chin on the bottom step, still wearing the white-painted six-dot collar.
 - It's Idony's idea to burn it on the steps: "It sat over those steps for three hundred years. It should go off them." The readers who come back (a dozen, the old white-haired inky one among them) carry the broken shelving out and stack it on the outside steps under the great window; no books. Orrun carries the heaviest timbers in his jaws.

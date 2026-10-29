@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Five: Thaw
 Beats: Lisska perches on the crag above the farm and tells Calder what she sees across the river, and Wren makes him repeat every word. Calder realises his daughter is safer anywhere he isn't.
 Echo of the other's story: Lisska reports the knight-student touching the beast's mane.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 54: Calder living on Crow Scar, coming down to Upper Rush by night; Lisska's crag above Bel's farm; Wren at the paddock gate with Old Grey; "Is the lion-woman in trouble too?" "Then somebody should tell her." From Chapter 55 (Maren's side): the river goes out on night 119; Maren stranded on the island; the touch; the collar struck off at dawn on day 120. From Chapter 24: Lisska's far sight; she saw the woman at the stream in the summer.
-Draft notes: Night one hundred and nineteen to day one hundred and twenty-two. Decided here (proposals):
+Draft notes: Night one hundred and nineteen to day one hundred and twenty-two. Decided here (settled as drafted):
 - Lisska's eyes: she can see a sparrow on a roof at a league, a face at two. From the crag above Upper Rush the island is two leagues and more off, across the river. She can see the arch, and the lantern in it. She can't see faces from there in the dark, but she can see shapes.
 - Night 119: Calder is at Upper Rush when the river goes out. The noise wakes the whole house. Wren won't go back to bed. He takes her up the crag path to where Lisska sits, wrapped in his coat. Lisska tells him what she sees and Wren makes him say every word aloud, and then say it again.
 - What Lisska sees: the ice going, a man on the reeds (Ottery) who gets off it in time; a lantern in the arch of the tower on the island; the woman sitting in it; the lion lying down in front of her, ten paces, then five, then with its head on the step. Wren: "Say it again."
@@ -16,8 +16,8 @@ Draft notes: Night one hundred and nineteen to day one hundred and twenty-two. D
 - Calder understands it then, on the crag at dawn with Wren asleep against him: they came down his path. If he weren't there, they'd have no path. He tells Ada that day: when the ferry runs, Wren goes over. Ada says yes. Bel won't decide.
 - Day 121: Old Grey turns his head toward Wren's voice at the paddock gate. Only that. Wren tells everyone.
 - Day 122: Calder goes up to Crow Scar and doesn't come down. He sends Lisska each night to sit on the crag over the house instead. Wren asks him to tell her what the lion-woman is doing. Lisska will watch, and he'll tell Wren when he comes down.
-- Magic (proposal): Ada says her keeping-word over the milk pail in the byre (a Saltreach hearth charm, small and ordinary) before she listens.
-- Revision (proposal): Orrun's multiplication, second glimpse. On night 119 Lisska sees two lions at the arch for a moment, then one, and isn't sure of herself afterward. Calder repeats it; he half thinks it was a stone or a shadow. Wren believes it at once.
+- Magic (as drafted): Ada says her keeping-word over the milk pail in the byre (a Saltreach hearth charm, small and ordinary) before she listens.
+- Revision (as drafted): Orrun's multiplication, second glimpse. On night 119 Lisska sees two lions at the arch for a moment, then one, and isn't sure of herself afterward. Calder repeats it; he half thinks it was a stone or a shadow. Wren believes it at once.
 notes -->
 
 ---

@@ -7,8 +7,8 @@ Days: 95–100 (Book 3 count; day 0 = dusk on the day the six went up from the S
 Ends at (chapter-end map): Coldtarn
 Beats: Ulric's ashes to Coldtarn. Arn pours, and asks Calder to pour with him: an outsider at the Clan's oldest rite *(Book 1 ch. 8: "Who pours?")*. Then **the call**: all three dragons feel a pull south-west, strongest in Aurveth, and she names it: what she has waited for *(Book 1 ch. 8: Sigrun, "waiting a long time for something")*. Calder refuses. The coast needs him.
 Echo of another story: Lisska: a salvage ship gone out through Blackwater's broken chain.
-Status: first draft
-Draft notes: Days 95–100 (89–94 told back). Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 95–100 (89–94 told back). Decided here (settled as drafted):
 - **Told back**: d.89 Sigge flew Ulric home on the grey to Skarrow, his steading, with the boy he'd saved (the clerk's boy, **Pim**, six, who wouldn't let go of Sigge) because nobody knew what else to do with him; Calder sick on the *Merry Agnes* through 89, flew north on 90 with his hands bound in Dorcas's cloths; the forty pairs stayed at Corsa with the hulk-folk under **Brede** (Book 2: an old man of the ledges and his blue; *Harl* is Hulda Sarr's black-and-grey dragon, not a rider). The pyre at Skarrow lit on 90, seven days and nights (a champion's, not a chief's eleven).
 - **Lisska**: she'd gone east on 94 on her own, from Skarrow, Calder too sick to stop her, to Blackwater, to tell the lion-woman about the old man in the water at Corsa; she got to the cliffs at dawn on 95 and the ketch was already out past the boom; she cried from the cliffs, and nobody could hear; **d.96 she comes into Varrhold**: *A ship went out through their broken chain. In the dark. The salvage one. With the lion on it. I was too late.* (Plant: Calder knows Maren's gone west.)
 - **D.97** ashes raked and sifted; the urn (plain, grey, as tall as a child, the same kind as Haldor's) on a sledge up to Coldtarn; **Aurveth** comes up from Harrow's End with Ada on Old Grey behind (Ada insists) and lies on the rim where she lay in Book 1, on **Sigrun's rock** (Sigrun Holm dead in Book 1; Aurveth's third).

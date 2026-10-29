@@ -5,7 +5,7 @@ POV: Calder
 Part: Part One: Two Banks
 Beats: Calder helps Bel and Joss clear the burned barns. Joss swears he'll find his stolen greys. Clan riders come to look, and among them is Teo Varr, the chief's younger son, furious that anyone thinks the Clan did this. Teo notices how Calder calms Joss's terrified mare. Calder nearly shows him the chain, and doesn't.
 Echo of the other's story: Across the river, knights ride the bank road in force for the first time in years.
-Status: first draft
+Status: near-final draft
 Draft notes: The morning after the raid, the same morning as Chapter 3. Old Tolly from the Staithe is poking about the ashes (he spent the night at the Staithe and came up by boat after dawn; in Chapter 3 he has the cart news secondhand from Hollin's lad). Wren comes along; she isn't afraid of the dragon overhead, which sets up Chapter 22. Lisska flies over with Imra; Teo names them both; Calder meets them in Chapter 6. Joss's surviving beast is a young dray-mare called Sorrel who was out in the far paddock. New: Joss and Bel's children, Pip (6) and Nan (4).
 Magic touches: Teo's Varrhold horse-master uses settling-words; Calder only talks.
 notes -->

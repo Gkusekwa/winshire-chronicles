@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Four: The Frozen River
 Beats: The accusation reaches Harrow's End. Ada breaks her promise and sings the verse her grandmother made her swear never to sing: the last one sleeps "where the oath is kept." Calder thinks of the knights' oath.
 Echo of the other's story: Across the ice, every lamp in Greyhold goes out at once, then comes back.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapters 22 and 40: Ada's hidden third verse has "the shape of" the carved verse; "not till I see what it's for"; if she sang it before then, she'd be "calling something I couldn't send back". Calder has never seen "Keep the watch below" on the arch. From Chapter 44: he heard the knights sing the midwinter oath across the ice through Lisska ("Keep the watch below, and do not ask"), and Aurveth won't speak of what she felt under the river ("Do not ask me"). From Chapter 45: the Restoration's paper.
-Draft notes: Days eighty-nine and ninety. Decided here (proposals):
+Draft notes: Days eighty-nine and ninety. Decided here (settled as drafted):
 - The paper comes over the ice from Millbrook in a carter's coat on the night of day 88, and up the river lane to Harrow's End and Upper Rush on day 89. Old Fisk brings a copy to Upper Rush, because he can read and most can't. By nightfall every house in Harrow's End has heard it, and has heard its last part too: that the dragon farmer is proof the old powers are waking.
 - The song as everyone knows it (Chapter 2) is two verses and the hush. Ada's grandmother's verse is a third, sung between the second verse and the hush. Ada sings it in Bel's kitchen on the night of day 90 with the door barred and the children asleep in the loft. Wren isn't asleep.
 - The hidden verse:

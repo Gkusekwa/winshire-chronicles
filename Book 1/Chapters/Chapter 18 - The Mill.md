@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Two: Harvest of Knives
 Beats: The Clan's battle spills onto the Fenn fields. Sigrun, Dag and Imra die. Their dragons, withering, are drawn to the injured Calder, and three bonds form almost at once. He takes the pull of three deaths.
 Echo of the other's story: Through the chaos, a roar rolls across the river from the Old Ruin.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 16: Hob sold forty sacks of flour to Ulric, due by the new moon. Dag Rorke and Imra Sallow stand with Arn; Sigrun Holm went east with Ulric. Imra gave Calder back his coat; he's wearing his second-best, and the chain is in the best one, on the byre door. From Chapter 17: this is the same night, day 8 (Maren's eighth night on the island; the new moon is day 14); the mill burns first, then dragon fire over the fields.
-Draft notes: Decided here (proposals):
+Draft notes: Decided here (settled as drafted):
 - Ulric's men come to load the flour at night, to dodge Arn. Arn hears of it, comes down the Drover's Way with forty riders and Dag and Imra overhead, and fires the mill. Ulric's escort fights in the lanes; Sigrun comes down out of the east on Aurveth. The fighting spills uphill onto the Fenn fields, where the stooks and the byre catch.
 - Ada takes Wren down the lane to the Garrows' cellar. Calder goes back for the beasts.
 - Deaths, in order: Dag first, torn from Kharrak's back by Aurveth in the air; Kharrak comes down across the Fenn barley field. Sigrun second: Kharrak, falling and already withering, rakes Aurveth's back on the way down and Sigrun with it. Imra last: Lisska comes in low over the field to the other two, and Imra is struck in the throat by a crossbow bolt from the dark by the hedge. The Clan carries bows and axes, not crossbows. Calder doesn't notice yet; it surfaces in a later chapter (open: who shot her).

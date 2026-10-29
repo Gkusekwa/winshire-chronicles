@@ -7,8 +7,8 @@ Days: 305–310 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Elderwood
 Beats: The royal unicorn is bound and empty-eyed. In the Elderwood, wild unicorns tell Orrun as far kin that nine generations of royal "bonds" are bindings *(canon: Sarovel's royal bonds are bindings)*, and that their kin sleeps under the palace.
 Echo of the other's story: Lisska in the Elderwood at dawn, with Calder's letter; at the bottom, in his big letters, two words from her mother: "Liss says come home." She doesn't. Lisska stays for an answer.
-Status: first draft
-Draft notes: Days 305–310. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 305–310. Decided here (settled as drafted):
 - Day 305 Maren and Orrun go north to the Elderwood (a day's walk from the low quarter, up the Gilt valley's west side); Tobin stays in the low quarter with the old stable-owner and the unchosen grooms, who've taken to him (he talks to everyone). Before she goes: the low-quarter doors have lions painted on them, in mud, in ochre, one in gold leaf scraped off something.
 - The Elderwood: old evergreen oaks and cork-trees and black-trunked yews on steep hills, very old, the king's forest; forester's gibbets at its edge with two poachers' bones; inside, no paths. The Grace thick in it: the air sweet, every leaf too bright. Orrun goes in slowly.
 - Day 306 dawn (the echo, placed at the start of day 306): Lisska finds them in a clearing at first light (flight 5: left Calder day 300; she found Solenne by the painted lions; Tobin saw her on the stable roof and pointed north, shouting "Elderwood"). The letter: a full page in his charcoal, better hand. Maren unfolds it. She can't help seeing the bottom: the biggest letters on the page: *LISS SAYS COME HOME.* and under it smaller *LISS.* She reads those two lines. She doesn't read the rest. She folds it and puts it in her coat, behind the black book, with his first letter. Lisska via Orrun: "She says he says read it." "Not yet." Lisska stays for an answer, sleeping in an oak above the clearing.

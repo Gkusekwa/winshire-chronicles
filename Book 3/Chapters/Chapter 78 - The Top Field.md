@@ -7,8 +7,8 @@ Days: 321 (Book 3 count; day 0 = dusk on the day the six went up from the Scarfe
 Ends at (chapter-end map): Harrow's End, the Fenn top field
 Beats: The Horned Sun comes up the Drover's Way after the column, burning white with the hub's surge. Kharrak turns back. On the Fenn top field above Harrow's End, already empty, he stands across the Way and puts all his fire between it and the people, and holds it there until the last wagon is up past the top field into the Fellwood. He doesn't kill it; he isn't trying to. He dies *(canon: the dragons die protecting people)*. Calder takes the death through the bond, and the fire comes back into him. He lives. One of three. The Horned Sun goes on past the empty field, too bright to see, and doesn't follow the column.
 Echo of another story: The lion at the Fellwood's foot, the last thing between the Last Titan and the road.
-Status: first draft
-Draft notes: Day 321. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 321. Decided here (settled as drafted):
 - **His voice** back at dawn, a thread of it, cracked worse than ever.
 - **The column on the upper Drover's Way**: the roads come up through and round **Harrow's End** (empty since Book 2; the Fenns' house roofless; the Eelweir below) and converge on the Way between the village and the Fellwood; the one road climbs past the Fenn **top field** into **the Fellwood**, a mile above the field, and on to the Scarfell's edge (the lip), a day above the village; the top field on the slope between the village and the wood, beside the Way: stone walls, gone to weed, snow on it; the last of the column (Tam's wagons at the tail; Tam on the last box) climbing past it at noon.
 - **The Sun**: it came round south of Orrun in the night (Orrun across the Way at the Fellwood's foot, at the last bend above the top field, facing the Last Titan two leagues west of him) and up from Cotter's Cross onto the Way behind the column's tail; **burning white with the surge**, two leagues of day, the snow going off the moor in a line ahead of it, the heather smoking.

@@ -7,8 +7,8 @@ Days: 95–114 (Book 3 count; day 0 = dusk on the day the six went up from the S
 Ends at (chapter-end map): The drowned road, the Shattered Sea (milestone two)
 Beats: At sea: milestones on the Shatters, the old road's broken piers turned into islands *(Atlas: the Shattered Sea, named for the split)*. The Bell's back passes like a reef moving. Kit pilots by the milestones. Idony and Kit, ferry families both, talk freight rates for an hour. Maren's numbness is spreading up her arm, and she hides it.
 Echo of another story: Nothing. Beyond kin-range, for the first time since the bond, Maren hears no other beast through Orrun.
-Status: first draft
-Draft notes: Days 95–114. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 95–114. Decided here (settled as drafted):
 - **The road's shape**: out of the Shatters' reef-maze by the book's turns (95–96); **d.97 the first pier, *into the light, forty-one***: a square column of old grey stone standing up out of open sea, broken off at twice a mast's height, birds white on it, a milestone on its top; then two or three piers a day, south-west, island to island, each with its stone; the sea between deep and blue-black and empty; the swell long; Kit sails from pier to pier by the book's bearings and the shape of each pier's broken top.
 - **Idony** reads every milestone aloud from the deck through Kit's glass; the count goes down: *forty, thirty-nine...*; he's never once wrong about the number before Kit finds it in the book.
 - **The ferry families**, d.100: Idony's grandmother kept the ferry across **Glasswater** under Vael's towers (Atlas), a flat-bottomed scow on a rope like Liss's, three generations; he and Kit talk freight rates for an hour on the afterdeck (per head, per beast, per hundredweight; what a ferry charges a Warden; how a rope wears) while Maren listens and doesn't follow half of it; Kit laughs once, out loud, the first time since Blackwater.

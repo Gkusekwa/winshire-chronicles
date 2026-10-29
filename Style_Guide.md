@@ -73,7 +73,7 @@
 
 ## Length
 
-- **No upper limit.** All three books are drafted: Book 1 in **79 chapters in six parts, about 311,000 words** (first draft, about 3,900 a chapter), Book 2 in 88 chapters and Book 3 in 86, 253 in all. Chapters run as long as their scenes need. Early chapters near 3,000 words are fine.
+- **No upper limit.** All three books are drafted: Book 1 in **79 chapters in six parts, about 311,000 words** (about 3,900 a chapter), Book 2 in 88 chapters and Book 3 in 86, 253 in all. Chapters run as long as their scenes need. Early chapters near 3,000 words are fine.
 - Length has to come from people, place and consequence: every scene earns its room by changing something or showing someone we'll care about later. Cut anything that only repeats.
 
 ## Names and terms

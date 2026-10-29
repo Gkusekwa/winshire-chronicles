@@ -7,8 +7,8 @@ Days: 320–348 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Saltings (Corvin's ship)
 Beats: Corvin's ship, coasting east. Corvin keeps Idony close and civil, and makes him read the roll. Idony teaches him a wrong stroke; Corvin tries it on a bound hound's collar, it does the wrong thing, and Corvin knows. Callis, newly bought out, is aboard: Corvin's new right hand, both arms badly set and weak, a year on from the breaks *(Book 1 ch. 63, 77)*. Corvin's argument, without raising his voice: the crown's cage is the College's chains again, so it'll make the Titan worse, and the only alternative to chains is command. Idony, who wanted all his life to speak to a Titan, can't answer him.
 Echo of the other's story: The Tide Council's fleet sighted off the Saltings.
-Status: first draft
-Draft notes: Days 320–348 (318–319 in a line). Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 320–348 (318–319 in a line). Decided here (settled as drafted):
 - The ship: Corvin's, Sarovel-built, two masts, white hull smoke-blackened from Solenne; name painted out; crew of twenty-odd Saltreach and Sarovel hands; the **grey-bearded captain** (who shot the bird at Vael, ch 39: Idony knows it; the captain knows he knows) is **Captain Mauger**; the lean grey Halloran drawer from Solenne (not named in prose). In the hold: four binders with their pots; **a bound hound** (a big brindled marsh-hound, Hearthmere-bred, collared) and **a bound wyvern pair** (black-green, hooded, chained in a stall; plant for ch 82).
 - Idony has his four glasses (from the terrace) and the oiled-silk copies sewn into his coat; no stick (it went in the water at Solenne); a cabin, a lamp, food at Corvin's table; never locked in; "Where would you go? It's the sea."
 - **The roll**: every morning in Corvin's cabin at the stern, the case open on the table, the roll weighted flat, Idony reading aloud and Corvin writing the strokes in a book; Corvin learns fast; he wants the appendix: the chain-words (the working-words that speak to the chain-ends' *hold* runes) and the lock-words.

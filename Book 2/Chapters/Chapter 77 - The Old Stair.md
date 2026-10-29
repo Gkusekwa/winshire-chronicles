@@ -7,8 +7,8 @@ Days: 353 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The older stair
 Beats: Corvin, Callis, binders, the roll and Idony go down the older stair Corvin knew *(Book 1 ch. 76)*; its head is under the grooms' burial ground outside Greyhold's wall, by their father's grave. Maren follows with Orrun. The Titan is in the air.
 Echo of the other's story: Dragons coming home up the Wend.
-Status: first draft
-Draft notes: Day 353. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 353. Decided here (settled as drafted):
 - Before dawn 353: **Joby Marsh**, an old groom of Greyhold (unchosen, sixty; held Hale's horse once; one of the grooms who kept the servants' gate), comes down the jetty road to the ferry house with a lantern: the grooms' burial ground outside the west wall has been dug in the night. Men. Lanterns. A slab lifted by a grave. "Garran Vale's," says Joby. "I dug it. Thirty-odd years back. He asked for the place."
 - **Echo**, first light, on the river wall going up: far down the valley to the south, over the Wend, specks coming north: dragons, a long way off, low over the water, coming home up the Wend (the Clan's first flights racing the Titan, ch 78).
 - **The Titan in the air**: Thurl's rod at dawn: the stone reads the draw from the south-west now, not the south, and moving; Orrun on the wall lifts his head: *It has stood up. It is flying. It is coming.* (Corvin said tomorrow or the next day; Idony's glasses.)

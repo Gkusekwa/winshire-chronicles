@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Four: The Frozen River
 Beats: At Millbrook's midwinter fair, the Restoration publicly exposes Hearthmere's secret: a Titan chained beneath the kingdom, its power harnessed for centuries, most of Hearthmere's history built on it. Hearthmere calls it a lie.
 Echo of the other's story: The Restoration names "the dragon farmer" as proof that the old powers are returning.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapters 31, 35 and 37: Absalom Reede, the bookbinder at the Kettle, runs the Restoration meetings in Fennick's tithe barn; Tam wears the iron ring; the Watch list ("From the closing"), the black door, Hale's "the Last Titan", the lullaby ("the last great beast lay down below"). From Chapter 43: Maren's first lie, the scale in her chest. From Chapter 44: that night Greyhold sings the midwinter oath on the wall.
-Draft notes: Day eighty-eight, midwinter (full moon). Decided here (proposals):
+Draft notes: Day eighty-eight, midwinter (full moon). Decided here (settled as drafted):
 - Before dawn on midwinter morning the same printed sheet is found nailed to Greyhold's river gate, inside the outer wall, where nobody from outside could reach without passing the watch. Rowan has it taken down. Every student has already read it.
 - Millbrook's midwinter fair: frost fair on the frozen back channel below the mill, braziers, chestnuts, skating, a bear-baiting the knights banned years ago and nobody stopped. Greyhold sends twenty of the orders to keep the peace, Maren among them as a runner. Callis leads, with a dozen knights of the gate (Wynn and his hound Ash among them).
 - At noon Absalom Reede climbs the mill steps and reads the sheet aloud, quietly, to a crowd of six or seven hundred. The claims:

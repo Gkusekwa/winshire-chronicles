@@ -7,8 +7,8 @@ Days: 177 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Long Library
 Beats: Inside. The bird won't give the roll, won't be caged, won't fly. **It's killed by Corvin's hunters** *(canon)*, soon after telling the history *(canon)*. Idony, trying to stand in front of it, is thrown the length of the hall by the drawer's blow. Kharrak comes through the window too late. The roll is gone, with three of the dragons. The bird's last words are to Idony. Corvin has the chain-craft now, and Idony realises Corvin will need someone who can read it.
 Echo of the other's story: A man with three marks on his chest, kneeling by the bird, saying "I know. I know" to something nobody else can hear.
-Status: first draft
-Draft notes: Day 177, from soon after noon to late afternoon. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 177, from soon after noon to late afternoon. Decided here (settled as drafted):
 - Idony goes up through the drowning city from the wall and in at the readers' door of the College of Tides, which has a covered bridge into the Library's upper floor at the middle of its length (he has a Tides reader's key). Every lamp in the hall white; the hum gone from the floor since the Titan drank the hill, and now back, wild, in the surge. Readers fled. Books on the floor.
 - He hears it before he gets to the hill end: voices; the bird's voice.
 - At the hill end: the captain (grey beard, hands behind his back) and a dozen hunters with crossbows; the burned binder (from ch 38) sitting against a shelf with his coat in rags; a cage of iron bars on poles, the kind used for hawks but big, and a weighted net. The bird is on the floor at the foot of its perch, standing on the dark-wood case. The panel at the back of the perch's foot is open and the niche empty: it took the case out itself when they came.

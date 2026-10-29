@@ -7,8 +7,8 @@ Days: 12–20 (Book 3 count; day 0 = dusk on the day the six went up from the Sc
 Ends at (chapter-end map): The Coast Road; a toll gate
 Beats: Down the Coast Road with Ulric's riders. Every town has a toll gate, run by whoever holds the town that week. Gullhaven's survivors on the road *(Book 2 ch. 75)* sell what they carried for a place on a cart. A berth on a ship out of Corsa costs a year's barley. Calder learns again how Saltreach works: everything costs, and he's worth a great deal to people who'd like him dead.
 Echo of another story: A sailor at a toll gate: a lion-woman went east into the Wyldmarch against the crown's order.
-Status: first draft
-Draft notes: Days 12–20. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 12–20. Decided here (settled as drafted):
 - Day 11–12: the flights down the Wend to the coast, west along it to Gullhaven's hill: the salt-store, empty; the smoke-houses still standing in the sea; Gullhaven's people gone off the farms two weeks since.
 - **The column**, day 13: on the Coast Road west of Gullhaven, strung out for two leagues toward Wendmouth: about twelve hundred; old women, salt-boys, net-menders, carts nobody owns, a few donkeys; **Hessa Pane** and her mother (the eldest salt-wife, on a hand-cart); **Old Nan Gorrie** isn't with them (she stayed at the salt-store hill farm with a farmer's widow who took her in; Hessa says so).
 - **The first gate**, day 14: **Sallow Bar**, a fishing town of forty houses on a gravel bar where the Coast Road crosses a tidal creek; the gate across the bridge held this week by **the Gaffer**, a one-eyed sellsword (Hob Gaffery) and twenty men with crossbows who took it off the last lot on day 9; a copper a head, a silver a cart; the Gullhaven people have no coppers, so they've been selling what they carried to the Gaffer's men for the toll and to the town for places on carts: blankets, a net, a kettle; **Hessa sells her mother's tin brine-cup** (Book 2 ch. 64, 78) for her mother's place on a cart while Calder watches from the air.

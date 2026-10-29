@@ -7,8 +7,8 @@ Days: 321–322 (Book 3 count; day 0 = dusk on the day the six went up from the 
 Ends at (chapter-end map): The hall's mouth, Coldtarn
 Beats: Kit at the hall's mouth, getting people inside. Saltreach's custom turned round: she shares out the salt from her pockets, a contract with no price. **Gannet dies** carrying a child up the scree. The sky over the tarn is held by whatever can still fly: the Clan, two rocs, a wyvern with no rider.
 Echo of another story: Aurveth enormous over the tarn, looking at something nobody else can see.
-Status: first draft
-Draft notes: Days 321–322. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 321–322. Decided here (settled as drafted):
 - **Arrival**: Kit, Gannet and the one-eyed dog come up through Harrow's End past the top field with the Drover's Way stream at the second hour of the night of 321 (after Tam's wagons, after Kharrak; they see the slag on the top field and the grey shape on it by starlight and don't stop); at the Fellwood's edge the Clan's baskets are lifting Tam's old and hurt off the wagons to fly them up to Coldtarn (the wagons follow over a night and a day with his smiths), and a rider makes room for two and a dog; Coldtarn in the night; the bowl at dawn 322.
 - **The bowl**: the black tarn steaming in the middle; snow; the freed gone from the crags (they flew in the night, nobody knows where); **the hall's door open** in the western crag's foot above Hollow Beck's source, the scree Maren moved lying in the shallows; **a steep slope of loose scree and frozen turf** from the tarn's shore up to the door's step, forty paces, the only way up.
 - **Who's there**: Tam and his old and hurt at the shore, flown up in the Clan's baskets in the night; **Arn's Clan families** come up from the ledges and Varrhold, waiting in a block on the shore and not going in (Arn's word: *in the order they come*); thousands on the shore since the day before, not going in, and more coming over the bowl's rim from the Way; Ada and Bel and the children at the caves across the bowl; the knight not there yet (she's on the moor with the lion); **nobody at the door**.

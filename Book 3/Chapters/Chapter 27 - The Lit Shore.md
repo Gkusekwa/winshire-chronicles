@@ -7,8 +7,8 @@ Days: 119–126 (Book 3 count; day 0 = dusk on the day the six went up from the 
 Ends at (chapter-end map): The Lit Shore (the city on the sand; the hills inland)
 Beats: **Landfall** *(canon: the land beyond the sea)*: a city of old-realm stone half-buried in white sand; beasts that don't fear people; light on the hills at night (see **The land beyond the sea**). The crew keep the rule and sleep aboard. Inland, a mountain walks on the far hills *(Book 2 ch. 50: the rumour)*. Orrun goes and lies down in front of it, as he lay at ten paces from his kin. It knows him.
 Echo of another story: Far out on the Shatters behind them, a fleet's lights strung out across the dark: the Council's ships.
-Status: first draft
-Draft notes: Days 119–126. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 119–126. Decided here (settled as drafted):
 - **D.116–118 told back**: three days in the lagoon at anchor, nobody ashore, watching; Kit's rule for the first landing: by day only, back aboard by dusk, the boat never left.
 - **D.119 landfall**: the boat (Kit, Ferris, Maren, Idony; Orrun swims, hating it); **the road comes up out of the lagoon onto the beach**: the drowned road's causeway rising out of the shallows as a paved way of the same grey stone and going on inland, straight, between the dunes; at the tide-line **a milestone: *into the light*, no number** (the stone Abram copied).
 - **The city**: on the sand either side of the road: old-realm stone, square-cut, half under white sand: column-tops, roof-lines, a wall going down to the water, a great flight of steps going up into a dune; all of it humming; **no people, no bones, no tools**: as if they'd gone out one morning and not come back; Idony's glass climbs to the top of its column on the steps and stays there; his hands shake less ashore (all the stone is full).

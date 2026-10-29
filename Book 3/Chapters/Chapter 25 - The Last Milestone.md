@@ -7,8 +7,8 @@ Days: 115 (Book 3 count; day 0 = dusk on the day the six went up from the Scarfe
 Ends at (chapter-end map): The last milestone (*into the light, one*) and the reef before the shore
 Beats: The Bell rises half a league off. Orrun's shadows stand on the reef and hold the *Kittiwake* off the rocks, and Kit sees what the lion is. Her father went down on this water. The lights of the far shore.
 Echo of another story: Maren counting under her breath at the rail.
-Status: first draft
-Draft notes: Day 115, dawn to night. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 115, dawn to night. Decided here (settled as drafted):
 - **The last stretch**: from *two* at dawn; by noon **the last pier, *into the light, one***, standing at the edge of a long shelf of reef: the road's landfall shallows, old-realm causeway stone lying broken under a fathom or two of clear water for a league, white with breaking water at its seaward edge; beyond it, a lagoon, and the shore (low, long, pale) four leagues off. The Merrins go in through **the Needle**, a gap in the shelf by the last pier, at the top of the flood only, as Abram drew it.
 - **The Bell rises**, early afternoon, half a league off to the west along the shelf's edge, in the deep water: it stands up out of the sea, the dome and columns on its back streaming, the bell swinging and ringing *down* once, enormous; it has come to the end of the road too, and stops there; the sea goes up round it in a swell that runs along the shelf and lifts the *Kittiwake* in the Needle and throws her toward the shelf's rocks.
 - **The shadows**: Maren at the forehatch with her right hand on the far-stone ballast; Orrun calls up out of **the shelf itself** (the old road's stone, under the water: the first real stone in a hundred leagues) **two shadows**, each his own size; grey stone lions standing waist-deep on the reef on either side of the Needle, putting their shoulders to the *Kittiwake*'s sides as she's thrown, holding her off the rocks, passing her from one to the other through the gap, like two men passing a bucket; the swell breaking white over their backs.

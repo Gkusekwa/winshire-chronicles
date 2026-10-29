@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Five: Thaw
 Beats: Maren finds Tobin at a Restoration hedge-meeting. He begs her to join them. She hears the leader speak and he is warm, not precise; she tells herself it's the crowd.
 Echo of the other's story: The speaker promises the dragon farmer will "come home to the one realm."
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 47: Tobin's blue-corded practice sword and note ("You know it's true. Come and find us. T."); Odo's smithy shut; Tam gone. From Chapter 55: Odo Marl's crossed hammers inside the lion's collar; the Restoration's bill for Calder Fenn, "enemy of the one realm". From Chapters 5 and 33: the thin man at the roadblock and on the smithy roof at Ferriby: long pale face, short dark hair, grey eyes; still, precise, never raises his voice; he knew her name. From Chapter 31: Tam is her brother, Liss's son, apprenticed to Odo; Absalom Reede; the iron rings "when you stand up". From Chapter 34 (Calder's side): Vale on the Tidesteps, warm, three thousand people.
-Draft notes: Days one hundred and twenty-one to one hundred and twenty-four. Decided here (proposals):
+Draft notes: Days one hundred and twenty-one to one hundred and twenty-four. Decided here (settled as drafted):
 - Day 121: Pell sends her back to Greyhold with the report about the collar. She rides on past Greyhold to Millbrook. Odo's forge is cold, the doors chained (by the crown's men). She looks at the hinges on the forge door: crossed hammers.
 - Day 122: a boy at the Millbrook jetty pushes a scrap of paper into her hand and runs. It's tied with blue cord. *The long hedge above Fennick's top field. Moonrise tomorrow. Come and hear him. T.*
 - She tells nobody. She goes on the night of day 123, on foot, in a plain cloak, from Greyhold after the last bell, over the wall by the midden the way the grooms do.
@@ -18,7 +18,7 @@ Draft notes: Days one hundred and twenty-one to one hundred and twenty-four. Dec
 - The speech: the chained beast under Greyhold; the lamps; "every one of you chosen"; and the farmer. "They'll tell you he burned our camp at the Ewe Beck. He did. Three of ours are dead. And his sister's man is dead under a beast in our lines, because a fool of a handler thought a beast was worth more than a grieving man. I'll not have it. I forgive him. Hear me: I forgive Calder Fenn. He'll come home to the one realm. All of them will. Every one." The crowd roars it. Maren thinks of the bill on the Millbrook jetty: *to be brought in alive.*
 - Maren to Tobin, at the end: "Your people put the collar on it." She shows him nothing; she says it. He doesn't understand. She goes.
 - Tobin, after her: "When they throw you out, and they will, come and find us. We'll still be here." She doesn't look back. On the wain, Tam watches her go.
-- Magic (proposal): a hedge-worker by the Millbrook well sells written lamp-words for a copper, openly, with her own lamp dark beside her; nobody buys.
+- Magic (as drafted): a hedge-worker by the Millbrook well sells written lamp-words for a copper, openly, with her own lamp dark beside her; nobody buys.
 notes -->
 
 ---

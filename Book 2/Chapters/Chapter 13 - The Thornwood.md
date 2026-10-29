@@ -7,8 +7,8 @@ Days: 28–40 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Thornwood
 Beats: Maren and Orrun cross the Hallow Plains into the Thornwood. Keeper Hesper and her duskcat Hush find them; the clans know the lion: the old lions came from here *(canon: Bestiary)*. Orrun among the graves of his kind. Hesper's knot-charms are slipping, "as if the ground's being drunk". Rumours only: earth-shakes and restless beasts. Nobody says "another".
 Echo of the other's story: A Keeper back from the Plains' edge: a red dragon seen going south over the Marches, alone.
-Status: first draft
-Draft notes: Day 28 to day 40. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 28 to day 40. Decided here (settled as drafted):
 - Days 17–28 in summary: east off the Scarfell, down its far side through empty sheep country, across becks running south-east toward the Ysse's far feeders, and out onto the Hallow Plains on about day 24. Eight leagues a day on foot, less where Maren stops to let Orrun stand and feel for the pull. She eats what she can buy at shepherds' doors with the last of her silver, and what Orrun brings her, which she doesn't ask about.
 - The Hallow Plains (day 28): grass to the edge of the sky, the Worldsend white at the back of it all day and never nearer; standing stones alone or in rows, each one, the clans say, where a beast is buried. A stonehorn herd that parts round Orrun without breaking step. Horse-clan riders on great elk who watch from a long way off for three days and never come close. A Worldsend roc overhead, very high. Ada's hearth-word takes on the plains on the second try.
 - Day 31: the Thornwood's edge: oak, black pine and thorn, a wall of it. Orrun goes in as if he knows where he's going. The pull and the hum stronger; Maren can feel it in her own feet now without him.

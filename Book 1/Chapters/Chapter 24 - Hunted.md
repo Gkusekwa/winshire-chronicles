@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Two: Harvest of Knives
 Beats: Everyone wants the dragons: Ulric, Arn, Saltreach sellswords, and strangers paying in Restoration coin. Hob sells Calder's whereabouts. He leaves Wren with Ada and flees into the hills.
 Echo of the other's story: Lisska spots a knight-student alone at the Old Ruin, with a beast that won't attack her.
-Status: first draft (structural revision: callers compressed to two scenes)
+Status: near-final draft (structural revision: callers compressed to two scenes)
 Carried forward: From Chapter 22: the elders gave him till the new moon (day fourteen). Kharrak's wing won't yet bear him; Aurveth can glide short distances; Lisska flies and hunts in the Fellwood. Wren's blue ribbon is on Lisska's left horn. The chain is in his best coat. From Chapter 16: Arn's steward Gorm Askell; Ulric's red-bearded man.
-Draft notes: Days thirteen to eighteen. Decided here (proposals):
+Draft notes: Days thirteen to eighteen. Decided here (settled as drafted):
 - Callers: Gorm Askell on day thirteen; the other three on day fourteen, the new moon. On the page they fall in two scenes. The Clan: Sten Raske at the gate on the morning of day fourteen, with Gorm Askell's visit of the afternoon before recalled as he rides up. The outsiders: Corrin Ash in the afternoon and the coin man at dusk, one scene, with Calder on the mounting block between them.
   - Gorm Askell for Arn: the dragons are Clan beasts and must come to Varrhold; Calder can come with them as a "keeper".
   - Ulric's red-bearded man, named here as Sten Raske: silver, and the war-leader's place for the farmer if he brings them east. Arn has about two hundred spears, Ulric about four hundred and fifty; every other bonded pair has shut itself in the Roosts under the no-kin law, so these are the war's only three dragons.

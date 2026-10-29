@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Three: The Long Autumn
 Beats: Captain Idris Vey's company besieges Crow Scar. Kharrak wants to burn them; Calder won't let him. Lisska finds a way out. Calder decides to go south to Wendmouth to find Joss's greys and learn who is buying beasts.
 Echo of the other's story: From the heights he sees Hearthmere knights riding out to a burning hamlet on their own bank.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 24: Lieutenant Corrin Ash of Captain Idris Vey's company, under contract to the Tide Council: "The Captain doesn't usually ask twice." From Chapter 30: Calder went home to Wren after the second burning. From Chapter 26: Crow Scar; Rue and old Hesketh Coley. Lisska: the cave "goes back a long way". From Chapter 2: Joss's two greys and Hollin's ox-beast, stolen from Upper Rush.
-Draft notes: Days 43–49. Decided here (proposals):
+Draft notes: Days 43–49. Decided here (settled as drafted):
 - Calder spends night 43 at home after the burning, then goes back to Crow Scar on day 44 so the village won't be the target. Ada and Wren stay.
 - How Vey finds them: his scouts read the flight lines. Three dragons coming and going from the same patch of forest every day.
 - Captain Idris Vey: small, neat, about fifty, grey-gloved, soft-voiced and pleasant, with a scholar's spectacles. Never raises his voice. A hundred and twenty men, and two hooded wyverns, Sable and Hask, black-green, each a little smaller than Lisska. His handlers fly them on long lines.

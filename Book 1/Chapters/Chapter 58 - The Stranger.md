@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Five: Thaw
 Beats: Calder sees Rook again, the quiet man from Ulric's hall, among Restoration men. He starts to wonder about Teo's death, and has no proof at all.
 Echo of the other's story: From the heights he sees Greyhold's walls being raised and armed.
-Status: first draft
+Status: near-final draft
 Carried forward: Calder recognises Rook by his forgettable face, soft clerk's hands with a pale scar across the knuckles, Wendmouth boots, and the six-dot mark on his knife (Chapter 10). He realises Rook was sitting three paces from the foot of the cliff path when Teo turned and said the time and place of the ford out loud. From Chapters 17, 21 and 24: Rook was with the island hunters (Maren noted only his boots with brass eyelets) and crossed to the farmer when word of the bonds reached the far bank. Calder has told the dragons about the man on the bucket; Kharrak: "Then we'll find out. All of them." From Chapter 48: he nearly said it at Varrhold and at Skarrow, and didn't. From Chapter 54: the Ram's Head camp; Hallam Brecc; the road to the island; Brask of Delling's company. From Chapter 34: Vale on the Tidesteps.
-Draft notes: Days one hundred and twenty-three to one hundred and twenty-six. Decided here (proposals):
+Draft notes: Days one hundred and twenty-three to one hundred and twenty-six. Decided here (settled as drafted):
 - Day 123: Hallam Brecc comes to the Scar again and asks Calder for a count. Nobody from the Clan has been near the Ram's Head. Hallam will carry whatever Calder sees to both Varrs himself.
 - Night 124: Calder goes to the Ram's Head on foot, alone, with a winter's beard and Joss's old carter's coat and a whip, among the carts coming up the road from Cotter's Cross. The dragons wait a league off in the Fellwood. Nobody looks at one more carter.
 - What he sees: the town of tents; the beast lines, a quarter-mile of them; companies drilling by torchlight; Delling's company's flag; a cart of new collars with the six on them, and on the inside of one, when he turns it over, the crossed hammers.
@@ -18,7 +18,7 @@ Draft notes: Days one hundred and twenty-three to one hundred and twenty-six. De
 - Kharrak: *Let me take him. Tonight. Out of that yard.* Calder: "And then there's a dead clerk at the Ram's Head and a camp of five thousand coming up the road after us, and Arn says I killed one of Ulric's men, and Ulric says the same." He wants Rook alive, in front of both Varrs, at once.
 - The echo: day 126, Aurveth takes him high over the river to look at the island and the road, and he sees Greyhold from above for the first time: scaffolds on the river wall; new timber hoardings going up on the towers; carts of stone in the yard; great throwing-engines on the river towers, their arms turned toward the Saltreach bank. Knights drilling in the yard in hundreds.
 - He decides: he'll bring them both to the ford. Teo's ford. Where it started. Hallam will carry the word. He'll say it to both their faces, at once, in the same breath, so neither can hear it alone.
-- Magic (proposal): at the Ram's Head, a charm-seller's board of "warranted" Tide Council tin charms for sellswords; the Halloran house's drawer (Calder saw her on Gallows Quay, 34), lent to Delling (a woman in a grey coat) sits guarded at Delling's fire and everyone goes wide of her. Calder adds her to Hallam's count. She is the drawer at Greyhold's gate in 69.
+- Magic (as drafted): at the Ram's Head, a charm-seller's board of "warranted" Tide Council tin charms for sellswords; the Halloran house's drawer (Calder saw her on Gallows Quay, 34), lent to Delling (a woman in a grey coat) sits guarded at Delling's fire and everyone goes wide of her. Calder adds her to Hallam's count. She is the drawer at Greyhold's gate in 69.
 notes -->
 
 ---

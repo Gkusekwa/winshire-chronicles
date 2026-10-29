@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Five: Thaw
 Beats: Calder leaves the dragons in the Scarfell and goes to the Old Ruin alone to find the answer in the verse. The Restoration arrives in force, and he hides in the tower.
 Echo of the other's story: On the island, signs that the knight and the lion left only hours ago.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 62: Calder stays near the Ruin; "the answer's there"; Aurveth: the lion is the cat on the tower steps; Fisk: "I'll be in the reeds with a boat. I know every channel round that island." From Chapter 42: the arch and its verse (Aurveth read the first line through him, *Here the road of the one realm crossed the water*, and stopped); the spit; the lion's prints. From Chapter 46: Ada's third verse. From Chapter 53 (Maren's side): the pit at the north end down to dressed grey stone. From Chapter 65 (Maren's side): Maren and the lion left the island across the west channel before first light on day 140.
-Draft notes: Days one hundred and thirty-nine and one hundred and forty. Decided here (proposals):
+Draft notes: Days one hundred and thirty-nine and one hundred and forty. Decided here (settled as drafted):
 - Day 139: Calder sends the three north to the old hatching caves above Coldtarn, out of sight. If they're seen over the island the whole Ram's Head comes down on it at once, with nets and smoke, and he can't let them be taken. Kharrak refuses; Aurveth makes him go. Lisska cries. The feeling will carry; the words won't, not at that distance.
 - He can't read the old script. He takes paper and a stick of charcoal to take a rubbing of the verse under the arch, the way farmers take a rubbing of a boundary stone in a dispute, to bring back to Aurveth.
 - Night 139–140: Fisk rows him over from the Eelweir in the dark, round the north of the island by a back channel, while the Restoration is running its boats down onto the landing below. Fisk lands him on the island's north shore and goes back into the reeds.
@@ -15,7 +15,7 @@ Draft notes: Days one hundred and thirty-nine and one hundred and forty. Decided
 - At the arch he takes the rubbing, by touch, in the first grey. Then, inside the tower, in its ground floor, he finds a stair going down, choked with fallen stone and old earth, and at the bottom of what he can see of it, a slab of grey stone set in the floor with an iron plate in it as big as a man's hand, and a keyhole. He doesn't know what it is.
 - The boats come across the east channel at first light. Hundreds of men. He hides in the tower: up the broken stair inside the wall, to the upper chamber where the floor is half gone, under a fallen beam. From there he watches the Restoration take the island: the fort, the arch, cages, ladders, smoke, men with honey-smoke pots going north to the pit with chains, and finding nothing there.
 - He stays hidden all day 140 with the rubbing inside his shirt, and the chains, and Joss's knife.
-- Magic (proposal): with Corvin under the arch, a small grey man in a ragged scholar's gown reads the verse with moving lips, and men keep their distance from him (the ring-broken Fellow, a drawer, who acts in 74 and 76). A man by the western gate paints warding marks on company shields from memory (the shields Kharrak burns through in 72).
+- Magic (as drafted): with Corvin under the arch, a small grey man in a ragged scholar's gown reads the verse with moving lips, and men keep their distance from him (the ring-broken Fellow, a drawer, who acts in 74 and 76). A man by the western gate paints warding marks on company shields from memory (the shields Kharrak burns through in 72).
 notes -->
 
 ---

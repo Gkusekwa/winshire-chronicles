@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Two: Harvest of Knives
 Beats: The ancient lion wakes. Maren stands her ground through its roar and doesn't strike. It attacks anyway, and she barely survives.
 Echo of the other's story: Three dragons scream across the water, and the sky over the far bank glows.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 17: the same night, day 8. She has heard the breathing for four nights (nights 5 to 8). Maren's skiff is gone; her cloak stinks of the hunters' honey smoke from stamping out the fire in the hollow; the beast's near forefoot has two loops of chain over it, one stake still through the end link. From Chapter 18: the roar Calder hears as the third bond takes is the one in this chapter.
-Draft notes: Decided here (proposals):
+Draft notes: Decided here (settled as drafted):
 - The three dragons' death-screams come across the water first (the riders dying, Chapter 18). The breathing in the north end stops. Then the lion comes down its path to the west shore, toward the water and toward her.
 - First full sight of it, by starlight and the glow over the island's trees: a lion, longer than a hay wain, about ten feet at the shoulder (nearly twice a man's height), taller than a dray-beast, grey-gold, with a mane gone grey at the roots like an old man's beard; eyes pale. It drags the chain and the one stake from its forefoot. It roars toward the burning bank, east, over the trees.
 - It smells the honey smoke on her. It comes at her slowly. The trailing stake jams in the broken stones at the landward end of the old bridge and pulls it up short, its head a sword's length from her and its throat open. She has Pell's sword up. She lowers it.

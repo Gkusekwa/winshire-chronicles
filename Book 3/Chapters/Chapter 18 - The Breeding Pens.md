@@ -7,8 +7,8 @@ Days: 70–82 (Book 3 count; day 0 = dusk on the day the six went up from the Sc
 Ends at (chapter-end map): Varrhold, the breeding pens
 Beats: Arn at Varrhold. Ildra **chooses** him: a true bond, the beast's choice *(Bestiary)*, which he never sought and doesn't want. Arn, who wanted the three dragons brought back to the Clan, has been chosen by a freed bound one. He opens the breeding pens: the Clan will keep no more dragons, and any dragon that flies with the Clan flies by choice. The riders are outraged; Gorm Askell brings the ledgers; Gunna backs him.
 Echo of another story: Calder's three restless, all turning their heads south-west together.
-Status: first draft
-Draft notes: Days 70–82. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 70–82. Decided here (settled as drafted):
 - **Arn has never been chosen.** He stood on the Choosing Ledge in his fifteenth summer and his sixteenth, as the chief's elder son, and the yearlings walked past him; the next year Teo stood there once, wasn't chosen either and laughed about it; Arn stopped standing. *(Teo was never bonded; Lisska was Imra Sallow's, Book 1 ch. 18.)* (Consistent with ch. 5: "not one of these has ever followed you a length.")
 - **The pens restless**, days 70–72: since day 41 every kept dragon faces west, not east: the Last Titan's road (ch. 11); they beat at the oak bars at night; **d.71 a young red** (a two-year-old, unnamed in the ledgers, a number) breaks its wing against the bars in the dark; Leir has to put it down at dawn with the keepers' long knife; Arn holds its head.
 - **The choosing**, dawn 73, on **the Roosts** (the stone ledges above the hold where Teo used to sit and watch the riders): Arn alone; Ildra comes up and lies down a length off; he tells her to go back to Wren; **the voice**: *No.* Small, odd, rough as a voice not used. Then: *You walk them. Every morning. You look at them through the bars.* / *I was in bars.* He feels what she was: the collar, the smoke, the nothing, and the girl's voice talking about barley coming in from very far off. "I didn't ask." *No. I did.* The bond made; one life between two now; he knows it at once.

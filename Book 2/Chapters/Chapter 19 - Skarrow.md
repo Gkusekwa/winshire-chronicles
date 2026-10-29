@@ -7,8 +7,8 @@ Days: 56–78 (Book 2 count; day 0 = the sunrise of Book 1 ch 79). (The plan sai
 Ends at (chapter-end map): Skarrow
 Beats: Ulric reads the ledger himself. He'll stand in Arn's yard and be called a murderer again, if the farmer stands beside him. Arn won't open his gate. Calder's third telling, and the first with proof. On the ride back, the Restoration's war reaches the Scarfell: two steadings burned on the moor's edge, Ulric's colours left on one and Arn's on the other, so each Varr will blame the other. The ledges' riders read the boot-prints, as they did at the ford *(Book 1 ch. 62)*: hired men's, not Clan.
 Echo of the other's story: A Wyldmarch fur-trader at Skarrow: crowns and colleges coming to the Thornwood with chains, and a lion-woman at the Speaking Stones.
-Status: first draft
-Draft notes: Day 56 to day 78. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 56 to day 78. Decided here (settled as drafted):
 - Day 56: Calder decides not to wait for Ulric to come and look: Arn wouldn't let him in to look. He'll take the book to Skarrow. Ada wraps it in oiled cloth. He flies on Kharrak with Lisska, who still isn't talking.
 - Day 57, Skarrow: Ulric's steading on the east side of the Scarfell, in a long green valley falling toward the coast; inside its raw pine stockade (Book 1 ch 48, where Calder got no further than the gate), a stone hall with a turf roof, longhouses, byres, sheepfolds, three hundred fighting men in plain grey camped round it. No dragons; Ulric is unbonded. The lean old rider with the white scar through his eyebrow (ch 12: his name is Orm Garrick) meets him at the gate.
 - Ulric at his table, at dusk: big, grey-bearded, slow, a face that holds a great deal and gives away little (Book 1 ch 6); a voice slow and deep and calm. He listens to Calder tell it, the third telling, all of it, the arch, Rook's words, the spit; doesn't interrupt. Then he says, "Give me the book," and reads it himself. He learned his letters at the dues-school with Haldor.

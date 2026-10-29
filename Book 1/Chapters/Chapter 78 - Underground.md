@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Six: The First War
 Beats: The catacombs shake. Coming from opposite ends beneath the border, Calder and Maren meet for the first time.
 Echo of the other's story: The stranger he warned, now in front of him.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 76: Calder, Aurveth (horn-wound in the chest, left wing torn) and Kharrak (one horn broken) on the rubble slope under where the Old Ruin was; the six chains taut; the anchor-stones cracking; Corvin gone up an older stair; Lisska's feeling far off by the school, still at first, with something large and warm and a person below her; it starts to move a little after the floor goes (she comes down only after the seal breaks, 77). From Chapter 77 (Maren's side): Cassian dead on the knight's lock; Callis down; Orrun has touched his kin and found a destroyer; Lisska wants to go to Calder. From Chapter 53: the course of dressed grey stone at the bottom of the pit, running under the river toward Greyhold. From Chapter 70: the five links wrapped in a strip of shirt with TWO burned on it; Aurveth's first partner Ennis; the cat on the steps that people bowed to. From Chapter 28: the bridge memory (her partner bowed, the cat lowered its head).
-Draft notes: The first hour after midnight, night one hundred and forty-three into one hundred and forty-four. Decided here (proposals):
+Draft notes: The first hour after midnight, night one hundred and forty-three into one hundred and forty-four. Decided here (settled as drafted):
 - The way between: under the river runs a gallery of the same dressed grey stone as the inner wall and the bottom of the pit, a road for the wardens of old, roofed, wide enough for a cart, going from under the school to under the island along the side of the great cavern. Orrun knows it by the stone. Maren rides him along it with Lisska ahead. It's cracking as they go; the ground is heaving.
 - The cavern shakes the whole time. Stones come down from the dark. The six chains sing. Something at the bottom of them is lifting.
 - Lisska's voice comes back into Calder's head when she's within three leagues: *Calder! Calder, I've got her, I've got her, she's with me, she's got the lion, she understood, she understood, Calder…*
@@ -22,7 +22,7 @@ Draft notes: The first hour after midnight, night one hundred and forty-three in
 - They have to get out. Aurveth can't fly with the wing. The gallery's coming down. Orrun: the stone will move for him. Up. Not back toward the school. Up through the rock under where the island was, toward the river, the way the lion dug all winter in the other direction. Maren gives Lisska the lantern to carry.
 - The first anchor-stone breaks while they're talking. A chain comes loose from the wall above and falls past them into the dark, a link at a time, with a sound like a city's bells being thrown down a well.
 - The echo: Calder, looking at her across the ten paces in the firelight: a stranger. Hair tied back, burned hands in rags, a river watch sword, blood to the elbow. He's never seen her face before closer than across a river. He warned her, and she's here.
-- Magic (proposal): the surge continues after midnight: the hidden runes inside the links of all six chains burn brighter, and the broken chain falls into the dark still lit, like a string of lamps let go into a well.
+- Magic (as drafted): the surge continues after midnight: the hidden runes inside the links of all six chains burn brighter, and the broken chain falls into the dark still lit, like a string of lamps let go into a well.
 notes -->
 
 ---

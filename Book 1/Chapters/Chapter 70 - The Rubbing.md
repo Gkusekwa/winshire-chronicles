@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Six: The First War
 Beats: Calder learns what the twins are after: two locks, here and beneath the knight school, opened at the same moment. He sends Lisska to warn whoever is at the other lock. She can't speak to anyone but him, so she carries what he can give her: the cut chain from the first night, wrapped in a strip of his shirt with one word burned into it with a coal, TWO, and Wren's blue hair-ribbon. Then he stays to fight.
 Echo of the other's story: His choice to warn the student, a stranger he knows only by rumour.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 68: Corvin and Cassian; "the knight's lock" under the school; "at the hour, midnight, the night after tomorrow" (night 143); "Two hands"; Rook killed Teo. From Chapter 66: the rubbing of the verse inside his shirt; the slab with the iron plate under the tower; the three sent north; Fisk in the north reeds for three nights. From Chapter 46: Ada's third verse. From Chapter 38: Wren's washed blue ribbon on Lisska's left horn. From Chapter 2: the five links from the ruts at Upper Rush, the first night. From Chapter 64: Liss Ashdown; "Tell her a girl called Wren says hello."
-Draft notes: Night one hundred and forty-two to dawn on day one hundred and forty-three. Decided here (proposals):
+Draft notes: Night one hundred and forty-two to dawn on day one hundred and forty-three. Decided here (settled as drafted):
 - Day 142: the island empties as the army crosses to Redwatch. Corvin stays at the fort with a few hundred; the guards stay on the tower stair; Rook leaves the step in the afternoon to go to the west shore.
 - Night 142: Calder goes up, not down: through the broken top of the tower and down its outside wall by the ivy on the river side, and north through the oaks to the reeds. Fisk is there, the last of his three nights. "Thought you were dead. Was looking forward to getting drunk."
 - Fisk lands him on the Saltreach shore above the Eelweir. He climbs to the hill above the Fenn farm and calls them the only way he can at that distance: he stops holding them back. They feel it and come. Before midnight all three are on the hill.
@@ -23,9 +23,9 @@ Draft notes: Night one hundred and forty-two to dawn on day one hundred and fort
 - What he gives Lisska: the five links from the first night (the Restoration's own chain); a strip torn from his shirt with TWO burned into it with a charred stick from his own field that Kharrak breathes alight, the only word he can write besides his name; and the ribbon already on her horn. Wren's. He hopes the ferrywoman told her. He hopes she'll know whose it is.
 - Kharrak: *She won't understand.* Calder: "Then she won't. But she'll know someone over here is trying to tell her something." Lisska goes at first light on day 143, west, high, toward the Brackenwood, where the prints pointed.
 - He stays. With Aurveth and Kharrak, on the hill, through day 143. Tomorrow night they'll go to the Ruin.
-- Magic (proposal): Fisk mutters the eel-word over his oars (never worked on the river, running water). Night 142 from the Fenn hill, Greyhold's dead wall-lamps flare white along their whole line for a breath (the surge seen from the Saltreach bank). Aurveth: the hooked letters "aren't men's letters. Men were given them."
-- Revision (proposal): Aurveth hedges her account of the waking and chaining ("I think", twice; "I wasn't below").
-- Revision (proposal): Aurveth's first partner. Reading the verse from memory brings back his face and name: **Ennis**, a warden of the bridge, who stood at the door when the first knights came. She thinks the knights' binders cut him out of her before he died, which is why his death didn't kill her and why she remembers only pieces. She thinks that is also why she survived Ragnald (a place cut once heals harder). She says "I think" and "there's more, I can't reach it", leaving room for the bird in Book 2 to add detail.
+- Magic (as drafted): Fisk mutters the eel-word over his oars (never worked on the river, running water). Night 142 from the Fenn hill, Greyhold's dead wall-lamps flare white along their whole line for a breath (the surge seen from the Saltreach bank). Aurveth: the hooked letters "aren't men's letters. Men were given them."
+- Revision (as drafted): Aurveth hedges her account of the waking and chaining ("I think", twice; "I wasn't below").
+- Revision (as drafted): Aurveth's first partner. Reading the verse from memory brings back his face and name: **Ennis**, a warden of the bridge, who stood at the door when the first knights came. She thinks the knights' binders cut him out of her before he died, which is why his death didn't kill her and why she remembers only pieces. She thinks that is also why she survived Ragnald (a place cut once heals harder). She says "I think" and "there's more, I can't reach it", leaving room for the bird in Book 2 to add detail.
 notes -->
 
 ---

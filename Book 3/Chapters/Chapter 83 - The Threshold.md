@@ -7,8 +7,8 @@ Days: 322–323 (night to before dawn) (Book 3 count; day 0 = dusk on the day th
 Ends at (chapter-end map): The door under Coldtarn
 Beats: **Orrun keeps the door** *(canon: the lion dies protecting people)*. The Last Titan at the mouth of the hall; *its own kin kept the door*. Orrun unmakes every shadow to be one. Their last words. She lets him go, which is the end of her arc from control to trust, and this time the door is kept. He brings the mountain down on his kin and himself to shield the hall: *the last great one lay down below the stone*. His death comes into her, and his power with it. She lives. **Meeting**: Calder, bringing the last climbers in, is at the door beside her as it falls; they watch. Idony's last glass shows the Last Titan's breath under the stone, the last one, and then it goes out. Nothing anywhere is breathing.
 Echo of another story: Every dragon in the hall going silent at once.
-Status: first draft
-Draft notes: Night 322 to before dawn 323. Decided here (proposals):
+Status: near-final draft
+Draft notes: Night 322 to before dawn 323. Decided here (settled as drafted):
 - **The Clan's last**: before the Titan comes down to the slope, **Arn and twenty Clan pairs** (the young and small dragons, Ildra among them, that fit through the door one at a time) come down out of the storm; their riders' families are inside; Maren counts them in on the step: "Twenty. And twenty." They lie along the hall's back among the pillars. (The rest of the Clan's dragons went down the beck to Varrhold's pens and hall.)
 - **The Last Titan at the slope's foot**: white, blazing with the surge and the relic, on foot, wings folded; it comes along the western shore past Aurveth's white shape across the beck's mouth and stops below the slope where Orrun stands.
 - **The verse** in her head: *the last great one lay down to sleep below the stone, / and its own kin kept the door.* Greyhold's arch; the first book; the cavern (the second book) where the door was not kept.

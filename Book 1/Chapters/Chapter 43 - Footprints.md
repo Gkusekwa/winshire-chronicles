@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Four: The Frozen River
 Beats: Maren finds a man's tracks on the island and a dragon scale the size of a shield. She doesn't report either: her first lie to the orders.
 Echo of the other's story: The scale is warm.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 40: the warm dragon scale Maren finds on the island is Lisska's, dropped from Calder's coat. From Chapter 42: on night 81 Calder crossed from the Eelweir, cut a length of chain from the stake on the spit, found her warm fire and the lion's lying-place, followed the lion's prints north to the oaks, heard it breathing awake, and backed away. From Chapter 41: the channel froze hard on night 80; Ottery forbade the ice.
-Draft notes: Days eighty-one to eighty-three. Decided here (proposals):
+Draft notes: Days eighty-one to eighty-three. Decided here (settled as drafted):
 - Dusk on day 81: Maren's first visit since the freeze, two days after the channel. Ottery walks her across the newly hard channel with a pole and a lantern and waits in the reeds. The lion comes, lies at ten paces on her side. She leaves at full dark. (Calder comes two hours later.)
 - Day 82, dusk again: the snow has held every print. Over her own, a man's: big, heavy, hobnailed Marches boots, the kind farmers wear on the far bank. They came from the east shore, went to the arch, to the spit, to her fire, and north along the lion's path, then back, then out across the east ice toward the Eelweir.
 - On the spit: someone has taken an arm's length out of one of the hunters' rusted body-chains, prising two thin-rusted links open with a blade, recently. The bright scratches show through the rust. (The stake still holds the stub of the collar-chain she cut in Chapter 21; the collar is on the lion.)

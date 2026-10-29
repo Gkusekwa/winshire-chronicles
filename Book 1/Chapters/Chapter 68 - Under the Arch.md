@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Six: The First War
 Beats: At the Old Ruin, right before the battle, the twins are revealed: the leader in two places was always two men. Hidden, Calder overhears them speak of the killing they arranged in the Dragon Clan. Rook is with them.
 Echo of the other's story: They talk of "the knight's lock" beneath the school, without saying what it opens.
-Status: first draft
+Status: near-final draft
 Carried forward: Rook is with the twins. Calder's overhearing confirms what Chapters 10 and 58 suggested: Rook killed Teo at the ford. From Chapter 66: Calder hidden under the fallen beam in the half-floor of the tower, above the room with the choked stair and the slab with the iron lock-plate; two guards at the tower door; the still man crouching with his hand in the lion's hollow. From Chapter 58: the still man in the back room at the Ram's Head, and Rook reporting to him; Vale laughing on the Tidesteps. From Chapter 60: the gorse, Hallam. From Chapter 33 (Maren's side): the still man on the smithy roof at Ferriby.
-Draft notes: Night one hundred and forty-one. Decided here (proposals):
+Draft notes: Night one hundred and forty-one. Decided here (settled as drafted):
 - Calder has been under the beam since the morning of day 140. He has water from the rain that comes in through the broken roof, and nothing else.
 - The second man comes over from the Saltreach bank at dusk on day 141, in a boat with lanterns, with a crowd at the Eelweir cheering him off: Vale, laughing, on his feet in the bow. He comes up to the fort to the arch, where the still man is waiting under the verse. They stand together under the arch, in the firelight, a pace apart. The same face. One still, one moving.
 - Their names, as they say them to each other: **Corvin** (the still one) and **Cassian** (the warm one). The leader in two places was always two men.
@@ -20,8 +20,8 @@ Draft notes: Night one hundred and forty-one. Decided here (proposals):
 - Calder lies above them with his face to the crack and hears Teo's death told like a cart-load delivered. He doesn't move. He holds Joss's knife so hard his hand goes dead.
 - After, Cassian goes back to the boat to cross downriver to the Hearthmere side in the dark (toward Millbrook). Corvin stays under the arch. Rook sits down on the step of the tower door, below Calder, and whittles.
 - Calder, at the end: he could drop on Rook from the stair. He doesn't. He has it now: not proof, but the words, out of their own mouths. He needs someone to hear them who isn't him.
-- Magic (proposal): Corvin sends "Halloran's woman" (the house drawer from 34 and 58, lent to Delling) with Cassian for Greyhold's gate, "worth a ram at a gate. Once." "Twice, she says." "Once and a half. Then she'll want carrying." (paid off in 69); "the Fellow" (the ring-broken Isvaren drawer) stays with Corvin (74, 76).
-- Revision (proposal): who shot Imra (Ch 18) is answered here. After the line about Hallam's bolt, Cassian mentions the mill and Rook corrects him: one of Delling's crossbowmen, hired before the rest of the company, was paid to put the woman on the green dragon out of the fight if the other two came down, so all three war-pairs would break in one night and the dragons would be loose. Calder hears it; Lisska goes still in the north.
+- Magic (as drafted): Corvin sends "Halloran's woman" (the house drawer from 34 and 58, lent to Delling) with Cassian for Greyhold's gate, "worth a ram at a gate. Once." "Twice, she says." "Once and a half. Then she'll want carrying." (paid off in 69); "the Fellow" (the ring-broken Isvaren drawer) stays with Corvin (74, 76).
+- Revision (as drafted): who shot Imra (Ch 18) is answered here. After the line about Hallam's bolt, Cassian mentions the mill and Rook corrects him: one of Delling's crossbowmen, hired before the rest of the company, was paid to put the woman on the green dragon out of the fight if the other two came down, so all three war-pairs would break in one night and the dragons would be loose. Calder hears it; Lisska goes still in the north.
 notes -->
 
 ---

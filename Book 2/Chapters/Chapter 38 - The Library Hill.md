@@ -7,8 +7,8 @@ Days: 157–177 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Library hill
 Beats: Afternoon. In drowning Vael, Corvin's hunters attack the Library with the bound young dragons and a hired Saltreach drawer. Calder and his two dragons fight them on the hill. Mid-fight, Lisska's kin-voice wakes one of the four; it turns on its binder, then stands in the surge-frost not knowing where it is. Kharrak goes for the great window.
 Echo of the other's story: The lion's wall in the lower city, holding.
-Status: first draft
-Draft notes: Days 157–176 in summary; day 177 dawn to mid-afternoon. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 157–176 in summary; day 177 dawn to mid-afternoon. Decided here (settled as drafted):
 - Days 157–171 on the ridge over the camp, in the snow, watching. The lantern owl comes to the captain's tent every few days from the north-west. Night 172 the whole north-west sky goes white for a moment, low on the clouds, very far off, and then the cold comes on the wind a day later (he doesn't know what it was: Vael's surge; ch 36).
 - Day 171 the foot party goes: the captain and fifteen hunters, packs and crossbows, down by the cornice pass the way Tasso guided them. Left in the camp: four hunters, the four binders, the Saltreach drawer, the four young dragons and the two wyverns.
 - Night 176 the binders put riding pads on the four dragons and iron baskets of honey-pots under their chests; a binder sits on each neck with a hand on the head; the drawer rides the bronze behind its binder; the four camp hunters ride the wyverns, two to each. They go up at midnight and fly west, then south round the Fells' end, low, without fire. Calder follows on Kharrak a league back, by the honey-smell on the wind; Lisska flies ahead in the dark, high, and tells him where they are.

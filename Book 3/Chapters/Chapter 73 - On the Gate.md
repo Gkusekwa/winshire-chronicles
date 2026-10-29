@@ -7,8 +7,8 @@ Days: 319 (noon to mid-afternoon) (Book 3 count; day 0 = dusk on the day the six
 Ends at (chapter-end map): The gap
 Beats: Rowan brings Hearthmere's last knights into the gap, bonded and unbonded together (*On the gate, there is no bond*), the bonded on foot now, their beasts run mad in the smoke, to hold a line of people, not a chain. Haverly's edge is dark in her hand on the Last Titan's ground, and only steel, and steel is what she has. She sends word to every camp to run north. **Rowan dies** holding it.
 Echo of another story: A man with an iron hand climbing toward the coal in the Last Titan's back.
-Status: first draft
-Draft notes: Day 319, noon to mid-afternoon. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 319, noon to mid-afternoon. Decided here (settled as drafted):
 - **Noon**: Rowan on her horse on the wall's river end sees the packets opened, the jibs swing, the bolts go into the Lamp, the smoke; **the falcon knight** (69) reaches her by the wall's foot a few breaths after noon with Idony's message: too late; Rowan: "I know. I can see it."
 - **Her horse** goes in the smoke under her: rears, throws her on the wall's top, bolts; she gets up with Haverly's edge and her own sword.
 - **The word to every camp**: she sends all four runners and the signaller's flags: **"Run north. Every camp. Now. The Drover's Way. The River Road. Any road north. By the Marshal's word."** (Her word, the only one she has left that anybody will obey.) The signaller's flags go along the wall; the Saltreach bank's signaller answers.

@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Five: Thaw
 Beats: The river goes out all at once, with a noise like a city wall coming down. The lion lets Maren close enough to touch. No bond, no words, but it lets her stay.
 Echo of the other's story: The Restoration offers a reward for the dragon farmer.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 29: the hinged collar, the pin hammered over; she came at its neck with iron and it read her as a hunter; the hammer and chisel in her chest. From Chapter 53: the pit at the north end, the old grey stone, the lion scraping; Pell's patrol at Redwatch; the report that says only "it digs". From Chapter 41: the Haddow crossing; Ottery and the long pole. From Chapter 50 (Calder's side): the crossed-hammer stamp under the six. From Chapter 31: Odo Marl's smithy in Millbrook; Tam.
-Draft notes: Days one hundred and thirteen to one hundred and twenty. Decided here (proposals):
+Draft notes: Days one hundred and thirteen to one hundred and twenty. Decided here (settled as drafted):
 - There are no cannon in this world, so the break-up is described in its own terms. The river people say *the river's going out*. It sounds like a city wall coming down, a mile long, all at once.
 - Days 113–117: she goes to the island every dusk with Ottery. The lion is always in the pit, scraping. On day 115 she brings the hammer and chisel and leaves them, wrapped, on the stone at the edge of the pit, and doesn't touch them. It smells them, a long time, with its lip back. It doesn't come at her.
 - Day 117, full moon: a south wind, and rain. The ice goes grey. Ottery says three days, maybe two.
@@ -18,7 +18,7 @@ Draft notes: Days one hundred and thirteen to one hundred and twenty. Decided he
 - Ottery comes for her at noon through an open lead in the punt. He sees the lion on the shore without the collar. Says nothing all the way back to Redwatch.
 - The echo: at Redwatch, Pell has the paper the morning rider brought from Millbrook. Not the old wanted bill. A new one, from the Restoration, nailed at the Millbrook jetty overnight: two hundred silver for CALDER FENN, THE FARMER, ENEMY OF THE ONE REALM, alive, for the burning of the camp at the Ewe Beck and the murder of its keepers. "They've turned on him," says Pell. "Their own sign."
 - She tells Pell about the collar. That's the truth. She still doesn't tell him about the stone.
-- Magic (proposal): Ottery says the river watch's ice-word over his pole before going out (a folk word nobody can prove does anything); Redwatch's guardroom lamp without oil only glows red since the failing, and they read by tallow.
+- Magic (as drafted): Ottery says the river watch's ice-word over his pole before going out (a folk word nobody can prove does anything); Redwatch's guardroom lamp without oil only glows red since the failing, and they read by tallow.
 notes -->
 
 ---

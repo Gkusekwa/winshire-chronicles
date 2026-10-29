@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Six: The First War
 Beats: In the fighting at the Ruin, Calder corners Rook. Rook dies before he'll say the shooter's name; his last taunt is that the paymaster's book went into Delling's chest. The spoken proof dies with him; the written proof is somewhere else.
 Echo of the other's story: The bells of Greyhold stop.
-Status: first draft
+Status: near-final draft
 Carried forward: Rook dies before he can talk. The six-dot knife may survive as Calder's only physical link (with the chain) to Teo's death, useful in Book 2. From Chapter 70: the full verse; the plan to stop Corvin at the tower before midnight; Lisska gone west with the chain, the word and the ribbon. From Chapter 68: Rook told Teo's death under the arch; "I need him alive." From Chapters 13 and 21: the stake on the spit where the hunters chained the lion. From Chapter 71 (Maren's side): Callis opens Greyhold's river gate tonight.
-Draft notes: Dusk to the fourth hour of night on day one hundred and forty-three. Decided here (proposals):
+Draft notes: Dusk to the fourth hour of night on day one hundred and forty-three. Decided here (settled as drafted):
 - At dusk Kharrak and Aurveth come down on the island from the north: the fire Maren sees from the River Road. Calder's on Aurveth's neck. They burn the camp in the oaks and the boats on the east shore, not the fort. The men on the island break for the boats. A few hundred stand with Corvin in the fort, with bound hounds and two wyverns and crossbows.
 - Calder is down on the ground by the eastern gate when he sees Rook: going the other way, down through the oaks to the spit, alone, fast, toward a boat. Leaving.
 - Calder goes after him on foot. Kharrak is over the fort; Aurveth is holding the eastern gate.
@@ -20,8 +20,8 @@ Draft notes: Dusk to the fourth hour of night on day one hundred and forty-three
 - Kharrak, after: *I'm sorry.* Calder: "I know." Then: "He meant you to." Kharrak: *I know that too.*
 - The echo: from the spit, across the water, from downriver, Greyhold's bells: the alarm, ringing and ringing. Then, all at once, they stop. Calder doesn't know what that means. Aurveth does. *They've stopped because nobody's left at the ropes.*
 - The fort: Corvin isn't under the arch. The guards on the tower door are gone. The stair has been dug out to the slab. Corvin has gone down. Lantern-light far below. It's the fourth hour of night. Two hours to midnight.
-- Magic (proposal): the surge on the island. Corvin's men carry company shields painted with white warding marks; Kharrak's fire flares the marks black and goes through ("They'll turn a word. They'll not turn fire."). They throw honey-smoke pots on the fort's fire and Aurveth, flying through the edge of it, slips away from Calder through the bond until she tears the smoke apart with her wings; after that the dragons keep above it. The verse on the arch glows faintly from inside the stone. Rook's death unchanged.
-- Revision (proposal): since 68 now tells Calder that one of Delling's crossbowmen shot Imra, the list of what dies with Rook says "the name of the man in the hedge at the mill" instead of "who'd shot Imra".
+- Magic (as drafted): the surge on the island. Corvin's men carry company shields painted with white warding marks; Kharrak's fire flares the marks black and goes through ("They'll turn a word. They'll not turn fire."). They throw honey-smoke pots on the fort's fire and Aurveth, flying through the edge of it, slips away from Calder through the bond until she tears the smoke apart with her wings; after that the dragons keep above it. The verse on the arch glows faintly from inside the stone. Rook's death unchanged.
+- Revision (as drafted): since 68 now tells Calder that one of Delling's crossbowmen shot Imra, the list of what dies with Rook says "the name of the man in the hedge at the mill" instead of "who'd shot Imra".
 notes -->
 
 ---

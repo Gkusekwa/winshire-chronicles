@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Four: The Frozen River
 Beats: Near the ruin, Aurveth feels something vast and wrong beneath the earth, and won't speak of it. Her silence becomes his: by dawn he has decided to tell nobody what he felt on the ice, and keeps the others off the island.
 Echo of the other's story: Through the ice, the dragons hear knights singing at Greyhold: the oath, at midwinter.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapters 28, 38, 40 and 42: Aurveth remembers the white bridge, the milestones and the grey cat on the tower steps; she has lost her first partner's face and believes it was cut out of her; she knew the lion's smell on Calder's coat though she has never been near it, and put her head down in the snow. From Chapter 40: Ada won't tell him her third verse: "Don't ask me again, Calder." Hale and the black door carry on through Maren's chapters.
-Draft notes: Days eighty-three to eighty-eight (midwinter night, full moon), and the dawn after. Decided here (proposals):
+Draft notes: Days eighty-three to eighty-eight (midwinter night, full moon), and the dawn after. Decided here (settled as drafted):
 - For six days after the crossing Aurveth hardly speaks. She lies at the back of the cave at Crow Scar with her eye open.
 - On midwinter night (day 88) she asks Calder to come with her: "not to the island; near it". She glides down with him on her neck an hour before midnight, under the full moon, low over the Fellwood, and lands on the frozen river a league above the island, in the shadow of the Saltreach bank under the hill, where no tower can see.
 - She lies down flat on the ice with her jaw and throat against it and her wings spread, as a man lies with his ear to the ground to hear horses. She stays like that for most of an hour. Through the bronze mark Calder feels it come up into her: something below the river, below the island, below the earth. Vast. Bound. Turning. And a wrongness under it, like a bone set badly.

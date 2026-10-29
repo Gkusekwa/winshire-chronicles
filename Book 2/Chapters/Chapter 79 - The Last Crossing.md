@@ -7,8 +7,8 @@ Days: 354 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Greyhold landing
 Beats: Maren comes up from the old stair having lost Corvin's party in the dark. Greyhold under the cage-anchors; the last refugees at the landing; Liss's last crossing, with Tam on it and Odo in his chair, Tam's cage-chain left unfinished on the anvil. Some of the poorest won't cross and go down into the Greyhold cellars instead, where the stone's thick.
 Echo of the other's story: Dragon-fire over the Scarfell, coming down.
-Status: first draft
-Draft notes: Day 354. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 354. Decided here (settled as drafted):
 - Dawn 354: Maren and Orrun come up the old stair (Orrun finds the way back by the stair's worn middle: the old ones' tread); Wynn at the head with Ash and Sorrow, two knights, and Joby Marsh asleep against Garran Vale's stone; nobody else came up. Liss's lamp still burning (she relit it twice more on the way; her hands numb to the wrist).
 - **The cage strung**: in the night of 353–354 Thurl's men and the crown's engines hauled the six chains across the river (on Thurl's hawsers) to the Saltreach anchors; they hang over the river from the iron eyes in the rock below the inner wall in long curves; the heartstone engines (four, Kessmoor, brought up the Wend on barges in the autumn, set in the yard and on the Saltreach bank) idling, steaming; Dane's binders (twelve College binders in blue, Dane's own, the College's chain-craft men), six at the eyes below the inner wall and six on the Saltreach bank by the anchors; Rowan in command; the crown's men at the engines. The grey cat is gone from the Long Barn; nobody saw it go.
 - **The envoys** arrive on the Saltreach bank during the day (ch 80): a camp on the slope above the Staithe: Kessmoor's (Pike's deputy), Isvaren's (a Blue College magister), a Sarovel voice (sent by Tobin): Maren sees the flags across the river; she doesn't go.

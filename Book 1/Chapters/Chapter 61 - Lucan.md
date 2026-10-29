@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Five: Thaw
 Beats: Haverly warns Maren that Rowan will take the lion without her. They talk properly for the first time. He chooses his orders; she understands why.
 Echo of the other's story: Haverly says the Clan's ford meeting ended in blood again.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 59: Rowan's trap (a pit-net and the crown's beast-chain on the island's west shore, a drugged carcass, forty knights in the reeds, Thorne's boar and the greyharts); three refusals; Maren confined to the midden, the barn, the refectory and the dormitory; the gate told to stop her at the midden wall. From Chapter 60 (Calder's side): Greyhold's boats sat at anchor across the mouth of Hollow Beck at dusk on day 130 and watched the ford's dead come down; Hallam Brecc killed. From Chapters 11, 23 and 47: Lucan Haverly, passed his trial, grey with the silver pin; Kesh, bonded since she was a fledgling six years ago; Kesh goes to pieces when he's on the gate.
-Draft notes: Days one hundred and thirty-one and one hundred and thirty-two. Decided here (proposals):
+Draft notes: Days one hundred and thirty-one and one hundred and thirty-two. Decided here (settled as drafted):
 - Night 131: Haverly comes to the Long Barn after the last bell, where Maren is on the late muck. He was in the boats at the mouth of Hollow Beck. He tells her what came down the beck: men in Clan grey with red thread and without, horses, and an old man's stick. "It ended in blood again. The ford. Whatever the farmer did up there, it ended like the first time."
 - Then the warning: the trap is set for the night of day 135, at dusk, the first night the river's low enough. Rowan's sending Callis and Wynn's hounds to drive it from the north end toward the west shore and the net. "She'll do it without you. She told the captains you'd made it worse."
 - They talk properly for the first time. Haverly's father and grandfather were knights of the gate at Hallowmere; Kesh chose him at fifteen in his family's mews at home, the first time he held out his fist, years before he came to Greyhold (he came two years ago); he's been told all his life he deserves what he has. He's been thinking since the ford's dead came past his boat that maybe he doesn't. And still: he'll be in the reeds on night 135.
@@ -15,7 +15,7 @@ Draft notes: Days one hundred and thirty-one and one hundred and thirty-two. Dec
 - She understands. She doesn't agree.
 - He leaves the Long Barn door unbarred on the midden side. He doesn't say so. She sees him not bar it.
 - Day 132: Kesh, at the noon bell, screams and goes up off his fist and won't come down for an hour. He stands in the yard with his arm out the whole time. Maren watches him not move.
-- Magic (proposal): the Long Barn's dead lamps hang dark over Grieve's tallow lanterns. Haverly mentions his family's sword, a quickened edge with letters in the steel, over the hearth since the charter; his father sent it to him when the paper went up (it's under his cot). He holds the archive stair with it in 75.
+- Magic (as drafted): the Long Barn's dead lamps hang dark over Grieve's tallow lanterns. Haverly mentions his family's sword, a quickened edge with letters in the steel, over the hearth since the charter; his father sent it to him when the paper went up (it's under his cot). He holds the archive stair with it in 75.
 notes -->
 
 ---

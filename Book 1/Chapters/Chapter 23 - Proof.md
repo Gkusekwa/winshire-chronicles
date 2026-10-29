@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Two: Harvest of Knives
 Beats: Maren could take a lock of the lion's mane as proof but leaves it in peace. The trial is failed; Haverly passes his.
 Echo of the other's story: At Greyhold everyone is talking about a farmer bonded to three dragons. No one believes it.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 21: the lion is free in the north end with the broken collar on its neck and one loop of chain on its hurt forefoot. Maren has the hunters' hammer and chisel; her arm is cut three times and bound in their linen. From Chapter 19: Pell's sword is in the river. From Chapter 22: Fisk's son saw her on the west shore on day twelve, and smoke from the tower three days running. From Chapter 11: Rowan's deadline is the new moon; she says "bring me proof"; Haverly's trial is the Scarfell road.
-Draft notes: Days ten to fourteen. Decided here (proposals):
+Draft notes: Days ten to fourteen. Decided here (settled as drafted):
 - The fever comes on in the night after the spit. On the morning of day ten she crawls to the hunters' stores, finds a crock of honey and dresses the cuts with it, the way Liss does burns on the ferry. The fever breaks at dawn on day eleven.
 - Your decision: the lion and Maren can't talk, and the lion is wild. Earning its respect is a process, and it will try to kill her more than once. She defends herself without harming it.
 - Dusk on day eleven: she goes to the stream with a burning brand. The lion charges her across the stream. She ducks under the swing (Pell's yard training) and sweeps the brand in front of its eyes without striking, then runs for the tower. The tower arch is too narrow for it. It rams the tower; the ground groans, and a crack runs up the inside wall (earth power). Its good forefoot reaches in, raking; she holds the fire to the claws without driving it in, and the foot draws back. It circles the tower all night, wearing a ring in the earth, and lies against the wall near dawn.

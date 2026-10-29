@@ -5,9 +5,9 @@ POV: Calder
 Part: Part One: Two Banks
 Beats: Harrow's End's harvest fair. Wren and Ada; Bel's children, Pip and Nan, dancing. Teo comes with a few riders and stays for the bonfire; he confirms the day of the peace meeting with his uncle at the ford of Hollow Beck, and Calder, already asked to stand witness (10), agrees again in front of Hob. Calder thinks Teo might actually manage it.
 Echo of the other's story: Hob says a Greyhold boat was seen putting someone onto the Old Ruin's island at dusk, where nobody goes.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 10, Teo has already asked Calder to stand witness at the ford meeting with Ulric. Here, at the fair, Teo confirms the day: four days after the fair, at noon (day 4). Calder agrees again, out loud, in front of Hob.
-Draft notes: Day 0, the same evening as the end of Chapter 11 (Maren rows to the island at dusk while the fair's bonfire burns across the water). Decided here (proposals):
+Draft notes: Day 0, the same evening as the end of Chapter 11 (Maren rows to the island at dusk while the fair's bonfire burns across the water). Decided here (settled as drafted):
 - Calder digs the chain out from under the byre flag and resolves to give it to Teo at the ford, once the peace is made and it's safe. He carries it from now on (it is in his pocket in Chapter 14).
 - Ada sings the old song at the fair; Teo says men in the ports have started singing the last line, "till the six are one again", like a promise.
 - Pip is a boy (6), Nan a girl (4).

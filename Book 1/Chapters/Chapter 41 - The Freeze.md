@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Four: The Frozen River
 Beats: Deep winter. The Wend freezes from the edges in, and a refugee family tries to walk across. Maren goes out on the ice after them. It breaks. Something huge drags her out of the water and is gone before she can see it.
 Echo of the other's story: A dragon lands on the ice upriver and takes off again.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapters 39–40: the lion now lies on Maren's side of the stream; the Wend is in winter spate with ice running and no boat will cross. Maren's trips start from the Redwatch boathouse. The collar is still on.
-Draft notes: Days seventy-four to seventy-nine. Decided here (proposals):
+Draft notes: Days seventy-four to seventy-nine. Decided here (settled as drafted):
 - The freeze: the running ice jams at the bend below the island on night 74 and the river locks from the edges in. By day 78 there's a white road from the Saltreach bank (the Eelweir) to the island's east shore, and the ice reaches out from the island's west shore toward Redwatch, but a channel of black open water still runs close under the Hearthmere bank where the current is fastest. It skins over at night. It freezes hard on night 80.
 - The ice runs from day 62. For the first ten days Ottery can still take her over in the punt at dusk along the slow edges (Lisska sees her there on day 72); after that nobody crosses. By day 79 Maren hasn't seen the lion for a week.
 - Day 79, dawn, Redwatch: a family from the Saltreach bank, the Haddows (a man, a woman, a boy of about eight and a baby), have walked the white road onto the island in the dark and are trying to cross the last channel, which has skinned over in the night. Ottery shouts them back. They don't hear, or won't.

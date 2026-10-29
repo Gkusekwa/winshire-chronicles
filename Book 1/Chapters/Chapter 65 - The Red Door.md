@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Five: Thaw
 Beats: Maren with Tam in Millbrook, then alone on the island near the lion. Liss tells her about the Saltreach refugees she carried, and a girl called Wren.
 Echo of the other's story: Wren's story: her father talks to dragons out loud and they answer.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 63: cast out at the river gate on the morning of day 136; her chest (the hammer and chisel, the collar in two halves, the scale, her father's brown cloak); the lion swam the east channel and went into the Fellwood; the Restoration is three or four days from the Old Ruin. From Chapter 64 (Calder's side): Liss carried Ada, Wren, Bel and her children and the three greys on day 137; Wren's account of the dragons; Calder's two messages: "A girl called Wren says hello" and "the old one says it's the cat from the bridge"; Lisska went low over the river with the blue ribbon on her horn. From Chapter 57: Tam on the hedge-wain with the torch; Odo Marl. From Chapter 3: the ferry house with the red door, where Maren was born.
-Draft notes: Days one hundred and thirty-six to one hundred and thirty-nine. Decided here (proposals):
+Draft notes: Days one hundred and thirty-six to one hundred and thirty-nine. Decided here (settled as drafted):
 - Night 136: the ferry house. Liss doesn't ask. Maren sits on the floor by the fire all night with the scale in her lap.
 - Day 137: Liss makes four crossings for the Fenns and their greys (the people, then one beast at a time) and is done after noon. That evening she tells Maren about the refugees she's carried since the autumn, and the girl called Wren, and Wren's story: her father talks to dragons out loud and they answer. Then the green dragon, low, with a blue ribbon on its horn. Then the two messages. Maren holds the scale. She knows now whose it is. "The cat from the bridge" means nothing to either of them.
 - Ada and Wren and Bel's family go on to the refugee camp at Millbrook, below the town. Maren doesn't go to see them. She thinks about it.
@@ -15,7 +15,7 @@ Draft notes: Days one hundred and thirty-six to one hundred and thirty-nine. Dec
 - Night 138: Liss's skiff, upriver alone in the dark, past Greyhold's lights and Redwatch's, to the island. The lion has come back to the old place. It's at the pit. She sits with it, against its shoulder, all of day 139.
 - She tells it about Wren. Out loud, twice, though it can't understand. A girl on the far bank whose father talks to dragons.
 - Dusk, day 139: from the island's east shore, across the channel, she sees fires at Harrow's End (more than the few she saw from the skiff the night before) and carts coming down the hill behind it, and boats being run down to the water at the Eelweir. They'll come in the morning. Before first light on day 140 she takes the skiff back across the west channel and the lion swims after her, and they go west over the fields toward the Brackenwood.
-- Magic (proposal): in Millbrook, the licensed keeping-wife's painted board (KEEPING OF MILK AND GRAIN, BY LICENCE) still hangs over her shut door, with sour milk smelling under it.
+- Magic (as drafted): in Millbrook, the licensed keeping-wife's painted board (KEEPING OF MILK AND GRAIN, BY LICENCE) still hangs over her shut door, with sour milk smelling under it.
 notes -->
 
 ---

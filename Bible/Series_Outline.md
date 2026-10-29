@@ -6,7 +6,7 @@
 
 ## Settled by the author (after Book 1)
 
-*The most current canon in the Bible. The author approved every drafted answer in the Book 2 and Book 3 review questions (Oct 2026), so both books' drafts are canon. Book 2 is drafted (88 chapters, first draft); Book 3 is drafted (86 chapters, first draft), its last line the author's own. All three books, 253 chapters, were audited and fixed in October 2026. Their plans are `Book 2/Chapter_Plan.md` (revision 5; drafted, review settled) and `Book 3/Chapter_Plan.md` (revision 3; drafted, review settled), which replace the old Outline files.*
+*The most current canon in the Bible. The author approved every drafted answer in the Book 2 and Book 3 review questions (Oct 2026), so both books' drafts are canon. Book 2 is drafted (88 chapters); Book 3 is drafted (86 chapters), its last line the author's own. All three books, 253 chapters, were audited and fixed in October 2026. Their plans are `Book 2/Chapter_Plan.md` (revision 5; drafted, review settled) and `Book 3/Chapter_Plan.md` (revision 3; drafted, review settled), which replace the old Outline files.*
 
 - **These are beast books, not dragon books.** Dragons are one kind of beast among many (the Dragon Clan's). Every kingdom's own beasts carry weight in its chapters, its set pieces and the war, and the sky is shared (`Bestiary.md`, The sky).
 - **Maren and Calder don't travel together.** They meet only out of necessity; each has a separate task, and their stories cross when they must. (This governs Books 2 and 3.)
@@ -37,7 +37,7 @@
 
 **The shape of the series** *(as drafted)*: each book raises the scale. Book 1 is a war among people over one imprisoned beast. Book 2 is a war among kingdoms over many beasts. Book 3 is a war between the world and its Titans, and the world loses. Through all three, the protagonists stay protectors first: their measure is how many people they save, not how much power they hold. In a story that ends in destruction, that measure is what's left: the lives they saved, and the choices they made.
 
-**Format:** Book 1 alternates strictly between the student and the farmer (79 chapters, about 311,000 words in first draft). From Book 2 a third POV, Idony Vael, slots between them (`Book 2/Chapter_Plan.md`: S Maren, F Calder, R Idony). In Book 3 some Book 1 warriors and leaders add POV chapters; Book 3 has seven POVs in all (S, F, R, plus G Rowan, C Arn, U Tobin and M Kit Merrin, a new Blackwater reef-pilot whose family carries Maren and Calder over the sea; `Book 3/Chapter_Plan.md`). No upper word limit; each book is one ebook volume, never split.
+**Format:** Book 1 alternates strictly between the student and the farmer (79 chapters, about 311,000 words). From Book 2 a third POV, Idony Vael, slots between them (`Book 2/Chapter_Plan.md`: S Maren, F Calder, R Idony). In Book 3 some Book 1 warriors and leaders add POV chapters; Book 3 has seven POVs in all (S, F, R, plus G Rowan, C Arn, U Tobin and M Kit Merrin, a new Blackwater reef-pilot whose family carries Maren and Calder over the sea; `Book 3/Chapter_Plan.md`). No upper word limit; each book is one ebook volume, never split.
 
 **Titles** *(settled by the author, Oct 2026)*:
 - Book 1: *The Watch Below* (from the oath's "the watch below"; chosen Oct 2026). *The Unbound* is retired as Book 1's title: the name belongs to the seventh ring, the elder Titans, "where the old ones walked unbound" (`Magic.md` §4b).
@@ -86,7 +86,7 @@
 
 ## Book 2: the hunt for the Titan
 
-*The chapter plan is `Book 2/Chapter_Plan.md` (revision 5; all 88 chapters in first draft, review settled).*
+*The chapter plan is `Book 2/Chapter_Plan.md` (revision 5; all 88 chapters close to final draft, review settled).*
 
 **Established:** the war continues; the hunt for the Titan; while everyone hunts it, the revelation that other Titans exist; the Titan travels from place to place searching for temples and gathering relics; each relic it takes wakes one of the five other major Titans, put to sleep ages ago, and the sixth gives it control over them; the discovery that some Titans are world destroyers; the kingdoms want to capture Titans to gain power; heroes try to save as many people as possible; the protagonists try to stop the Titan from being captured; they realize this Titan aims to free five other major Titans so they can level the world.
 
@@ -146,7 +146,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 
 ## Book 3: the Titan War
 
-*The chapter plan is `Book 3/Chapter_Plan.md` (revision 3; chapters 1–86 in first draft).*
+*The chapter plan is `Book 3/Chapter_Plan.md` (revision 3; all 86 chapters close to final draft).*
 
 **Established:** the kingdoms unite to fight the Titans; the ancient lion grows in power throughout the series and becomes a Titan; the three dragons become Titan-class beasts; the protagonists unite a faction of elder Titans, of whom two join the fight and two grant their power to the dragons and the lion and fade away.
 
@@ -294,7 +294,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - ~~Old Grey's recovery~~ *Settled (Oct 2026), as drafted: he follows Wren of his own will; at the end he stands by her and doesn't understand her (Book 3 ch 80, 86; `Story.md`).*
 - ~~Where Corvin got his older key for the Ruin's lock~~ *Settled (Oct 2026): their father found it digging a drain under the grooms' yard (Book 2 ch 76, 77; `World.md`, **The keys**).*
 
-**Book 3** (`Book 3/Chapter_Plan.md`, revision 3; chapters 1–86 in first draft, review settled)
+**Book 3** (`Book 3/Chapter_Plan.md`, revision 3; all 86 chapters close to final draft, review settled)
 - The plan's review questions 1–32 are settled (Oct 2026), approved as drafted, including 24–32 raised in drafting 51–86 (Varrhold buried, the count of 555, the Antlered's stone in Maren, Liss's pin). 33 is settled too: the author wrote the last line of ch 86, "She didn't count them.", which appears nowhere else in the trilogy. Book 1 ch 70 already restores Ennis's face and name, as the ending needs.
 - ~~How Corvin dies, and whether he is redeemed~~ *Settled (Oct 2026), as drafted: unredeemed (question 7).*
 - ~~Whether Idony stays unbonded through Book 3~~ *Settled (Oct 2026), as drafted: unbonded (question 19; `Magic.md` §11).*

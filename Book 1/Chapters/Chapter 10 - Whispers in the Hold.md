@@ -5,8 +5,8 @@ POV: Calder
 Part: Part One: Two Banks
 Beats: Back at Varrhold with the first of the new barley, Calder notices strangers among Ulric's men. One of them, a quiet man called Rook, doesn't belong: wrong boots, wrong hands, and he watches the dragons the way a buyer watches horses.
 Echo of the other's story: Poachers in the hold's yard are still cursing the Hearthmere student who freed their catch at Millbrook.
-Status: first draft
-Draft notes: Eleven days after Chapter 8; the new barley is in, and this is the first of it for the hold's winter. Ulric has been taking on "hired hands" since the funeral. Decided here (proposals):
+Status: near-final draft
+Draft notes: Eleven days after Chapter 8; the new barley is in, and this is the first of it for the hold's winter. Ulric has been taking on "hired hands" since the funeral. Decided here (settled as drafted):
 - Rook: medium height, a face you forget while you're looking at it, soft clerk's hands with one pale scar across the knuckles, oiled Wendmouth boots with brass eyelets; calls himself a drover from the coast. Kharrak hates him; Lisska won't go near him.
 - The Restoration's mark is a small ring of six dots. It is stamped on every link of Calder's chain (Chapter 2), cut into the pommel of Rook's knife, and echoes the six joined hands on Tobin's pamphlet (Chapter 9).
 - Teo asks Calder to stand witness at the ford meeting with Ulric. On the ledge Teo speaks low; at the foot of the cliff path he turns and repeats the time and place out loud, three paces from Rook, who is mending a halter by the stable door.

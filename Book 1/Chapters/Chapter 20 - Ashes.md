@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Two: Harvest of Knives
 Beats: Calder wakes with three marks and three grieving, raging minds in his head: Aurveth steady, Kharrak furious, Lisska joking to hide her grief. The village sees what he has become.
 Echo of the other's story: The villagers say a monster woke at the Old Ruin the same night.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 18: the riders' last moments are still in him. Sigrun lies in the top of the Fenn barley field; Imra at the bottom by the hedge, with the bolt in her throat; Dag fell onto the burning roofs below the mill. Kharrak's wing is torn at the root; Aurveth has lost an eye to Dag's axe and her back is raked open; Lisska is bruised, not badly hurt. The byre's far end is down. From Chapter 16: his best coat, with the chain in it, hangs on the byre door.
-Draft notes: Day 9, from dawn after the battle (night of day 8) through dusk and the night. Wat Garrow (old Garrow's son, Davy's father) helps Ada. Decided here (proposals):
+Draft notes: Day 9, from dawn after the battle (night of day 8) through dusk and the night. Wat Garrow (old Garrow's son, Davy's father) helps Ada. Decided here (settled as drafted):
 - The marks: three, over his heart, overlapping a little like coins dropped on a table. Bronze, rust, green. They look like scales grown into the skin and feel warm. Each is a different shape: Aurveth's broad and smooth, Kharrak's jagged, Lisska's small and narrow.
 - Speech in the head is set in italics with no quote marks. Aurveth speaks in long measured sentences, Kharrak in fragments, Lisska in questions and teasing. They hear what he says to them, aloud or not, and feel what he feels. They don't hear every thought. He finds that out today and is grateful.
 - Wren crosses the field to him at dawn while the village stands at the hedge. She isn't afraid. Lisska notices her at once.

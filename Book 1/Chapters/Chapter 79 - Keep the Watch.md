@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Six: The First War
 Beats: The Last Titan tears free of its chains and flies. Hearthmere's magic, failing since midwinter, goes out for good. The book ends with the two of them watching it go.
 Echo of the other's story: Both stories, together for the first time.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 78: Orrun opening the rock overhead; Aurveth can't fly (left wing torn, horn-wound in the chest); Kharrak holding her up; five chains left; the first anchor-stone broken; Maren and Calder have met. From Chapter 77: what Orrun touched: a destroyer, made one by three hundred years of chains, pulled toward somewhere far off and wanting the world down. From Chapter 49: Hearthmere's lamps without oil, warming-stones, licensed words, the sweet wells, all drawn from below. From Chapter 13: "Keep the watch below, and do not ask." From Chapter 70 (Calder's side): the full verse; "its own kin kept the door".
-Draft notes: The small hours to sunrise, day one hundred and forty-four. Decided here (proposals):
+Draft notes: The small hours to sunrise, day one hundred and forty-four. Decided here (settled as drafted):
 - The way up: Orrun walks up into the rock and the rock opens ahead of him in a long rising passage, the way water opens round a swimmer's arms, and closes behind them a little way back. Aurveth walks, with Kharrak's shoulder under hers. Calder walks at her head. Lisska goes ahead with the lantern in her claw. Maren on Orrun.
 - Under them, the chains go: the second, the third, the fourth, each one a long falling thunder through the rock. Then the fifth. Then the sixth, last, and a silence.
 - They come out at first grey in the reeds on the Hearthmere shore below Redwatch, where Maren and the lion came ashore before light on day 140. Orrun knew the place.
@@ -18,8 +18,8 @@ Draft notes: The small hours to sunrise, day one hundred and forty-four. Decided
 - It flies. North-east. Over the Saltreach bank and Harrow's End and the Fellwood and the Scarfell, slowly, then less slowly, with the dawn coming up behind the hills under it, until it's a mountain in the sky, and a hill, and a bird, and nothing.
 - Hearthmere's magic fails: on the Hearthmere bank, every lamp at Redwatch that was burning without oil goes out at once. Downriver, the lamps on Greyhold's walls. Orrun feels it through the ground: the thing that came up from below draining away like a river after a flood, going away north-east after the speck in the sunrise. (The paragraph imagining Hallowmere's lamps, wells and licensed words is cut: Book 2 shows it.)
 - The end: the two of them on the shore at sunrise, with the lion and three dragons, watching the empty sky. Calder asks what it was. Maren tells him the name the Watch had for it. "The Last Titan." Then, with her hand on Orrun's shoulder, she says the old words back to herself and means something new by them: "Keep the watch."
-- Magic (proposal): the end of the surge and the drain. The lamps at Redwatch have been burning white since midnight (the flood), then go out at once when the Titan flies; the broken chain-ends on its legs still have their white writing burning faintly inside the links as it rises (the runes still feed on what they hold, a Book 2 thread).
-- Revision (proposal): Orrun's third duplicate, one at a time. When the fourth chain goes, a slab of the passage roof breaks loose over Aurveth; a lion of the hill's own rock stands up out of the passage wall and holds it on its back while the dragons and Calder get through, then lets it down and goes back into the wall. Orrun shakes under the cost and has to stand before he can walk on.
+- Magic (as drafted): the end of the surge and the drain. The lamps at Redwatch have been burning white since midnight (the flood), then go out at once when the Titan flies; the broken chain-ends on its legs still have their white writing burning faintly inside the links as it rises (the runes still feed on what they hold, a Book 2 thread).
+- Revision (as drafted): Orrun's third duplicate, one at a time. When the fourth chain goes, a slab of the passage roof breaks loose over Aurveth; a lion of the hill's own rock stands up out of the passage wall and holds it on its back while the dragons and Calder get through, then lets it down and goes back into the wall. Orrun shakes under the cost and has to stand before he can walk on.
 notes -->
 
 ---

@@ -7,8 +7,8 @@ Days: 10–15 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Fellwood, Saltreach bank
 Beats: Days 10–15. North on the Saltreach bank with the Fenns and the greys, Old Grey walking where Wren walks. The Titan flew low here: a league-wide swath of flattened Fellwood. Orrun kills two deserters before she can stop him. Their first quarrel: "You are not my hand." *You are not my teeth.*
 Echo of the other's story: Every dragon on the Roosts crying at once: the old one has reached the hold.
-Status: first draft
-Draft notes: Day 10, morning, to day 15, dusk. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 10, morning, to day 15, dusk. Decided here (settled as drafted):
 - Route: Maren keeps them off the Drover's Way, which is full of companies, and goes north through the Fellwood above Harrow's End by the old charcoal-burners' tracks, parallel to the Way, two leagues east of it; she knows the Fellwood's southern edge from the river watch. The greys and the children ride by turns on Mabbin; Ada walks and won't be helped; Bel carries Nan; Wren walks beside Old Grey, and Old Grey walks wherever Wren walks.
 - Day 11: the swath. Where the Titan flew low over the Fellwood at sunrise on day 0, a league wide, going north-east: every tree laid flat in the same direction, roots up, crowns pointing north-east, like barley after hail. No birds. The ground under it is thin through Orrun, drawn on, not dead. They cross it in half a day, climbing over trunks. Orrun walks it with his head down.
 - Day 12: a Fellwood bear, taller than a house's eaves, in a clearing; it stands up, sees Orrun, and goes down on all fours and away without a sound. Wren isn't frightened. Pip is.

@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Two: Harvest of Knives
 Beats: The hunters come back, a dozen of them, with chains and a cage on a raft. Maren hides and watches them try to take something in the trees. It goes wrong. Men die. She runs for her boat.
 Echo of the other's story: Dragon fire on the far bank: the Clan's first battle has begun.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 15: the hunters' camp on the north-west shore, the cage, eleven coils of chain, the jaw-traps, the worn path into the north end, the breathing (eleven to the quarter hour). From Chapter 16: Greyhold patrol boats row close under the island on days 6 and 7 (Calder sees them from the Eelweir at dusk on day 7); Rook left Varrhold before light on the morning of the ford, toward the river, on a stolen horse.
-Draft notes: Days 6 to 8, Maren's sixth to eighth days on the island. The night of day 8 is the night of Chapters 18 and 19; the new moon is day 14. Decided here (proposals):
+Draft notes: Days 6 to 8, Maren's sixth to eighth days on the island. The night of day 8 is the night of Chapters 18 and 19; the new moon is day 14. Decided here (settled as drafted):
 - Days six and seven she hides from the Greyhold patrol boats. She thinks they're Rowan's, come to fetch her back before the new moon, and she won't go back with nothing.
 - The eighth night the patrol boats don't come. The hunters do: twelve of them on a big poled raft from the Saltreach bank, with the rest of a cage, more chain, and clay pots of a sweet, heavy smoke they set burning upwind of the sleeper.
 - Their leader is a woman with a Saltreach voice whom the others call Captain. With them, giving no orders and carrying nothing, is a man of middle height with a forgettable face, hands kept in his pockets (she never sees them), and oiled boots with brass eyelets. Maren doesn't know him. The reader does: Rook. She notes the boots in her notebook later.

@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Two: Harvest of Knives
 Beats: Wren is the only person in Harrow's End who isn't afraid. Lisska adores her. The village elders want Calder gone. Ada admits the old song has a verse her grandmother taught her and made her swear never to sing.
 Echo of the other's story: Old Fisk at the Eelweir says someone from Greyhold is still out on the island, and the monster hasn't killed her yet.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 20: day nine ends with the three pyres; a lone Clan rider saw the dragons alive; Calder promised Lisska he'd tell her what the chain is "later"; Ada looked at the marks as if she knew something. From Chapter 18: Hob's mill and the Wheel burned with the flour.
-Draft notes: Days ten to thirteen. Decided here (proposals):
+Draft notes: Days ten to thirteen. Decided here (settled as drafted):
 - World rule (your decision): the forests of Winshire are vast and thick enough to hide a dragon. The Fellwood covers the lower Scarfell east of Harrow's End, oak and black pine, with Crow Scar standing out of it. Apart from small personal beasts (falcons, cats, hounds, martens), most beasts are eight feet and more.
 - Healing: bonded dragons mend fast, faster since the bond. By day thirteen Lisska flies, Aurveth can walk and lift off for short glides, and Kharrak's wing is knitting but won't bear him.
 - Food: Lisska hunts at night in the Fellwood and drags back deer and once a boar (a Fellwood boar is the size of a dray-beast). On day eleven Kharrak takes one of Wat Garrow's cows from the beck pasture. Calder pays for it in barley.

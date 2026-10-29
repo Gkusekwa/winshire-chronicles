@@ -5,7 +5,7 @@ POV: Maren
 Part: Part One: Two Banks
 Beats: Training day at the knight school on Hearthmere's side of the Marches. Capable but unbonded, the student is passed over for a bonded rival. The knightly oath is recited, including a duty "below" no student understands.
 Echo of the other's story: Clan dragons fly along the river; students joke about the trouble across the border.
-Status: first draft
+Status: near-final draft
 Draft notes: Pell, Tobin and the Darrow girl are new minor characters. The far-bank fires are explained in Chapter 2: a Restoration raid on farms upriver of Harrow's End, blamed on the Clan. Maren knows the Old Ruin only from the water and has never set foot on it.
 Magic touches: the healers' licensed words and warming-stones failing Edric; old Wick the licensed lamp-tender saying the dusk words round the yard (Wick returns in 5).
 notes -->

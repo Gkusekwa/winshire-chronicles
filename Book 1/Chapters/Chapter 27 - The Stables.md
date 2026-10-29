@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Three: The Long Autumn
 Beats: Maren learns the bonded beasts by mucking out after them: Kesh's moods, the Darrow girl's hound, the cat nobody owns. Hale teaches her the old history of the orders. She begins to see how bonded and unbonded are not equal anywhere but on the gate.
 Echo of the other's story: Refugees from a burned Clan village cross on Liss's ferry.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 25: Grieve; the Long Barn; thirty-one bonded beasts; the Darrow girl's hound watching her; Hale at the midden, offering to teach her the old orders in the archive, the price of her promise to tell him about the farmer. From Chapter 23: Haverly passed and wears the grey with the silver pin; Kesh. From Chapter 1: the grey cat the size of a calf that nobody owns.
-Draft notes: Late harvest month into the start of the long autumn, about days twenty to thirty-two. Decided here (proposals):
+Draft notes: Late harvest month into the start of the long autumn, about days twenty to thirty-two. Decided here (settled as drafted):
 - World rule (your decision): apart from small personal beasts, most beasts are eight feet and more. The Long Barn's thirty-one: small ones (Kesh, hounds, martens, the cat) and big ones (two greyharts, white elk-like war-mounts nine feet at the shoulder; a bonded ox-beast; Captain Thorne's black boar, the size of a cart; a pair of dray-beasts).
 - The Darrow girl is Ide Darrow, a second-year in Maren's year, quiet and freckled. Her hound is Bracken: brindled, waist-high, one torn ear. It took a poacher's arm two winters ago.
 - Kesh sulks when Haverly's on the gate: bates, bites, won't eat. In the third week she lands on Maren's fork handle and stays there.

@@ -7,8 +7,8 @@ Days: 228 (225–227 from the ground, told back) (Book 3 count; day 0 = dusk on 
 Ends at (chapter-end map): The Thornwood
 Beats: On the ground: the Keepers' bears and wolves and the horse clans' stonehorns drive the Thornwood's maddened beasts out from under the Titan's feet; Orrun and three Titan shadows hold the Antlered's antlers like a stag in a thicket, while Maren opens the earth under it. **The first Titan killed.** People cheer. Maren feels its breath go into the ground, rise, and drain west toward Hearthmere.
 Echo of another story: Three dragons over the dead Titan, crying, and not sure why.
-Status: first draft
-Draft notes: Day 228 (225–227 told back from the ground). Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 228 (225–227 told back from the ground). Decided here (settled as drafted):
 - **Told back from the ground**: the three days at the wood's western edge on Orrun's head; the horns; the clans moving round him; **Lisska's word d.226 through Orrun** (*Under the crown. Where it grows. In the bone*); Maren's answer, through Orrun to Lisska: *Then we'll pull its head down.*; dusk 227 she sees the wind-wall from the edge and the old dragon go under it; Orrun: *The old green one's gone. And her girl*; Maren doesn't feel it and knows she should.
 - **The plan at the night fire d.227**, with **Tova** and **Keeper Rhun** (Book 3 ch. 7: broad, grey, a wolf at each knee): the Keepers' bears and wolves and the stonehorns go in first at dawn to drive the last beasts out from under its feet; then Orrun goes under; Maren stays on the ground at the edge, kneeling, hands on it.
 - **Dawn 228**: she sends him down (*Go under. Come up under it*); he sinks; **she goes with him through the bond and into three shadows** that rise with him round the Antlered: **four hill-sized lions**; she's in all four; her body kneels at the wood's edge with Tova standing over it and Rhun's wolves lying round it.

@@ -7,8 +7,8 @@ Days: 325–329 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Gullhaven
 Beats: Lisska comes home at last (end of **flight 5**) with Maren's word: Idony taken, the control relic under Hearthmere, Maren going home to the door. Calder's errand has caught up with the Titan's road: Corvin is going where the Titan's going. He stays for the Bell, because it's his people, and keeps Lisska with him for a week to rest; the Clan's promise will go west with her next flight: when the coast is done, they'll come.
 Echo of the other's story: Maren's word, in her square hand on the back of his own page: "Going home. Keep your coast."
-Status: first draft
-Draft notes: Day 325, with the days after in summary (to 329). Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 325, with the days after in summary (to 329). Decided here (settled as drafted):
 - Lisska comes in at dawn over the end of the spit from the west, so tired she lands in the sea short of the shingle and Kharrak wades in and lifts her out by the scruff. She's been gone twenty-five days.
 - She tells him (bond-voice, now she's close) what she saw at Solenne: the thing in the bay; the three lions on the stair; the ship; the reader dragged up the plank; the crossbows; following it to the bay's end. Aurveth's night-stare (ch 64, night 323) was Lisska turning for home with it.
 - The letter: his own Blackwater page, Maren's answer on its back; he reads it himself at once on the shingle. *Corvin's men took Idony onto a ship at Solenne. Going east. He knows the words.* / *The ring is under Greyhold. Below the chains. That is the held breath. It is carved in the temple. Corvin knows where.* / *Going home. Keep your coast.*

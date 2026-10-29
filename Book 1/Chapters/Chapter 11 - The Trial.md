@@ -5,9 +5,9 @@ POV: Maren
 Part: Part One: Two Banks
 Beats: Knight-Captain Ilse Rowan gives Maren her trial: investigate the "monster" of the Old Ruin, on its island in the river, and bring back proof. The island is forbidden to the river watch. Liss begs her not to go.
 Echo of the other's story: Rowan warns that the Clan's quarrel is coming to a head across the river.
-Status: first draft
+Status: near-final draft
 Carried forward: Knight-Captain Rowan wrote "Noted." on Maren's roadblock report (Chapter 9). Their first meeting should carry that.
-Draft notes: The trial is set on day -1, the day before Harrow's End's fair; Maren takes the skiff from Redwatch on day 0 and lands on the island at dusk on day 0, the fair day (Hob sees the boat in Chapter 12). Decided here (proposals):
+Draft notes: The trial is set on day -1, the day before Harrow's End's fair; Maren takes the skiff from Redwatch on day 0 and lands on the island at dusk on day 0, the fair day (Hob sees the boat in Chapter 12). Decided here (settled as drafted):
 - Rowan: about fifty, small, neat, iron-grey hair cut short, an ink-stained second finger; speaks quietly and never wastes a word; bonded to nothing anyone has seen. She is inner circle.
 - The trial deadline is the next new moon, day 14.
 - Maren's kit: a river-watch skiff, ten days' food, rope, a shuttered lamp, flint, and Pell's own sword, which he lends her.

@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Four: The Frozen River
 Beats: Maren confronts Hale. He confirms it: the knights' duty "below" is guarding the chains.
 Echo of the other's story: Hale admits the inner circle fears the dragon farmer almost as much as the Restoration.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapters 25, 35 and 37: Warden Osric Hale, the archive under the north tower, the black book and its list ("From the closing", 311 names), the black door three steps down with a lock the size of a man's hand, the long black key, "the Last Titan", *let no hand wake it*, "because he's three". From Chapter 45: the paper on the river gate. From Chapter 47: the lamps, the beasts facing the north wall, the cat on the archive stair, Tobin's sword, Davin taken. From Chapter 43: Maren's lie to Pell; the scale in her chest.
-Draft notes: Days ninety-six to ninety-eight. Decided here (proposals):
+Draft notes: Days ninety-six to ninety-eight. Decided here (settled as drafted):
 - Davin is held in the cells under the gatehouse, waiting for the council's word from Hallowmere. Maren is put on the rota that carries his bread. On day 96 he asks her through the grille: "You swear it too. Every day. Don't you want to know what you're swearing?"
 - Night 96: she goes to the archive without being sent for. Hale is there, sober, with the black book shut. She puts it all on the table in front of him: the paper, the lamps, the twenty-nine beasts at the north wall, the cat, Tobin. She asks him straight: "What's below?" He tells her.
 - What Hale knows (what the Watch is told when it's sworn, and what he saw):

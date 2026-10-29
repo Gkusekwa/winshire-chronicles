@@ -7,8 +7,8 @@ Days: 348 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Drowned Bell reef
 Beats: The Titan on the Drowned Bell reef at low spring tide, and the bell sounds. Vey's fleet attacks with imbued harpoons and his company's wyverns, Sable and Hask *(Book 1 ch. 32)*, going in low over the reef; the house drawers can't draw on a deck, so they land on the bare reef, and when the tide turns the running water breaks them. Calder tries a fire-word with Kharrak over the water, and it does nothing: running water. Only the dragons' own fire works at sea. The Titan has the relic within the hour *(canon)*. Vey dies on the reef. **The surge** comes up through the reef as the tide turns.
 Echo of the other's story: Lisska on the reef, out of reach of his voice, feeling the bell in her bones.
-Status: first draft
-Draft notes: Day 348, dawn to dusk. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 348, dawn to dusk. Decided here (settled as drafted):
 - Dawn: Arn keeps every pair on the spit (the wave is the Clan's work; the reef is the Council's). Calder goes out to watch with Kharrak and Lisska at mid-morning ("Somebody's got to see it who'll tell it after": Fisk's line, ch 5); Aurveth stays on the shingle (can't fly two leagues and back and then a day of lifting), but she's in his head as far as the bond reaches; Ada on the spit's end with her shawl.
 - Mid-morning to noon: the tide going out; the Titan in the deep water beyond the breakers doesn't move; the fleet's lines; Vey's black ship with Sable and Hask unhooded on its deck.
 - A little before noon the reef comes up; the bell: the long low note through the rock and the water and Kharrak's body and his own; Lisska under him in the air shudders.

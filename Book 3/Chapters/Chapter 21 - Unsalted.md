@@ -7,8 +7,8 @@ Days: 94 (night into the dawn of 95) (Book 3 count; day 0 = dusk on the day the 
 Ends at (chapter-end map): Blackwater's harbour mouth; the first reef channels of the Shatters
 Beats: Night. The *Kittiwake* breaks Blackwater's harbour chain, and Orrun's shadow holds the boom. Kit, Gannet, the crew, Maren, Idony and Orrun go out into the Shattered Sea's reef channels along the drowned road. Orrun stands on far-stone ballast, the only stone for a hundred leagues, and he's quiet.
 Echo of another story: Lisska crying from the coast, out of reach.
-Status: first draft
-Draft notes: Day 94 night to dawn 95. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 94 night to dawn 95. Decided here (settled as drafted):
 - **The crew** (named here): **Ferris** (mate; grey, sixty, sailed with Hal), **Lorn** (old, deaf in one ear, the best hand on a sheet), **Tansy** (cook; broad, red-armed, sings), **Nye and Sim** (brothers, sixteen and seventeen, quick aloft), **Corrie** (twenty, quiet, a Blackwater girl Kit took on last year). With Gannet as bosun: six and one. Jory gone to the Council's fleet (ch. 20).
 - **The chain** (ch. 20): anchor-cables shackled end to end on a boom of spars between the two headlands; a black ship of Rennick's at each end with lanterns at the masthead. **"They're short of shackles"** (Gannet, ch. 20): Gannet, who's been ashore every night, knows where: two joins in the middle lashed with rope instead of iron, under a spar painted white so the black ships can see it. He tells Kit, smiling.
 - **The run**, night 94, moonless, the ebb: no lights; the *Kittiwake* slips her mooring off the sealed house and drifts on the ebb down the inlet past the houses' anchored line (a watch on Strand's ship sees nothing); at the boom Kit puts her at the white spar under full sail; **the ketch's stem hits the lashed join and the rope parts**; but the boom's ends swing in on the cables, spars and all, toward the ketch's sides, to foul her rudder and pin her, and the black ships' crews wake and haul on them.

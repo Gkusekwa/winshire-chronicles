@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Two: Harvest of Knives
 Beats: In a cave at Crow Scar, Calder asks the dragons why they came to him. None of them knows. Aurveth, who has survived two earlier bonds, has never heard of anything like it.
 Echo of the other's story: He hears a Hearthmere student failed her trial rather than harm a monster. It stays with him.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 24: Crow Scar, a black crag in the Fellwood two leagues east of the farm; the cave three-quarters up its face; three days lying up; Lisska's sighting of the girl and the great grey cat. Calder told the dragons about the chain, Rook and the coin man; Kharrak: "Then we'll find out. All of them." From Chapter 20: Aurveth is more than three hundred years old and has had two partners before Sigrun; her first she won't name.
-Draft notes: Days nineteen to twenty-four. Decided here (proposals):
+Draft notes: Days nineteen to twenty-four. Decided here (settled as drafted):
 - How far the bond reaches: speech fades past a few leagues, to a murmur and then nothing. Feeling carries much further, perhaps any distance: he always knows, faintly, whether each of them is frightened or calm.
 - Holding three wears on him: headaches, nosebleeds, and nights when he dreams the riders' deaths from inside. On bad days he can't tell whose anger is whose.
 - Kharrak's first flight since the battle, from the ledge of Crow Scar on day twenty-one. He falls, catches himself above the treetops, and flies a short circuit. After that he's a different animal.

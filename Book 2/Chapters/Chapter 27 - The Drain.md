@@ -7,8 +7,8 @@ Days: 106–119 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Wyldmarch, riding west
 Beats: **The drain**: behind the Antlered the Wyldmarch goes dead, and the Keepers' charms fail across a hundred leagues. Idony writes the first true sentence of his life's work: *a waking is a stir, a flood and then a famine.* The moving draw goes west toward Vael and Glasswater, toward Nessa, and starts to settle on the lake: the next stir. He rides for home.
 Echo of the other's story: The walker going west too.
-Status: first draft
-Draft notes: Day 106 to the morning of day 119. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 106 to the morning of day 119. Decided here (settled as drafted):
 - Day 106: Ysolde Marr comes into the Moot on foot with two Wardens and no lynx: Dane set the three lamps at the forest's edge north of the Moot on the night of day 104 to bind the sleeper as it rose; when it stood, the surge came through the lamps and they shattered, and the Wardens kneeling by them were thrown; Frost the lynx ran with the beast-flood and didn't come back. Dane is alive, burned on both hands, and has gone west for Vael with what's left. Ysolde: "He said to tell you you'll answer to the Council." Idony: "Yes."
 - Days 106–108: the surge going down at the Moot; the glasses falling, slowly, the way a flood goes off a field. The Antlered's draw on his glasses: a great slow moving pull, going north-east into the deep Thornwood, then east toward the Worldsend, taking the Deep with it as it walks.
 - Day 108: the drain. Behind it, the ground goes dead: not grey (the stir's grey was the Titan drinking); ordinary dead, Hearthmere's kind. The trees stay green and the grass grows, but the Keepers' knots won't hold, the hearth-songs don't take, Hesper's moss (what's left of it in her bag, which Aun gave to Maren) is only moss. A Keeper's wound opens again in the night. The river clans' boat-charm, that keeps a hide boat dry, fails; three boats sink at their moorings. The wells at the Moot taste of iron.

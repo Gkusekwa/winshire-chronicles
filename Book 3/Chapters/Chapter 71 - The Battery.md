@@ -7,8 +7,8 @@ Days: 319 (noon to the first hour after) (Book 3 count; day 0 = dusk on the day 
 Ends at (chapter-end map): The hub battery
 Beats: Tobin at the hub battery. The orders say: hold the Last Titan, leave the line. He fights the winch crew. Callis turns and helps him. Tobin jams one chain's brake with his own body, so one sector's engines can't swing in, and sends Sarovel's hands to the refugee road with the olifants they've caught. **Tobin dies** on the brake.
 Echo of another story: The chains swinging out, and a stone hill sliding sideways in the smoke.
-Status: first draft
-Draft notes: Day 319, noon to the first hour after. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 319, noon to the first hour after. Decided here (settled as drafted):
 - **The hub battery**: Kessmoor's Hearthmere-bank battery at the Flat's western edge: **forty heavy bolt-throwers on a curved iron rail** (a half-ring of track bolted to sleepers on the turf), facing the line west (toward the bend and the Coil's channel), **hauled round on the rail by a chain winch** (a great drum and a brake, powered off the nearest Bridle engine, the seventh) so that they can be swung in to face the eddy; **Tobin's hands** (three hundred of the three thousand at the hub: the rest at the Flat's coal-heaps and in the camp) work the coal and the winches.
 - **The orders** read at noon by Wardle to the battery: *hold the Last Titan; leave the line*: swing every engine to the eddy; crews off the line to the Bridle. The other batteries' bolt-throwers are already round (70). The hub battery's forty are on the rail, facing west, where the line is breaking at the bend.
 - **The fight**: Tobin and Ines and forty of his hands at the winch; **the Kessmoor winch crew** (twelve, under a crew-master with a brass watch) take the brake off to swing the forty in; Tobin pulls the crew-master off the brake lever; a fight in the smoke at the drum: crowbars, a shovel; **Callis**, at the seventh engine's box beside it, **turns and helps**: he can't hold a weapon in his crooked hands, so he puts his shoulder into the crew-master and both go down; "Not that. Not this time. Go on."

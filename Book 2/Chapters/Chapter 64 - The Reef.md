@@ -7,8 +7,8 @@ Days: 318–324 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Gullhaven
 Beats: Gullhaven won't leave its salt pans. The salt-wives pour a cup of brine back into the sea every dawn for the Drowned Lady, so she'll keep the spit, and they say she always has. The Clan's riders mark every roof that can take a dragon's weight. Calder writes to the Tide Council, and Ada makes him rewrite it "so they can't pretend not to understand".
 Echo of the other's story: Lisska three weeks gone west and not back, and the bond an empty place where she should be; one night Aurveth wakes and stares south-west and won't say what she felt.
-Status: first draft
-Draft notes: Days 318–324. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 318–324. Decided here (settled as drafted):
 - Day 318 Calder comes down from Varrhold to Gullhaven with Ada: in a basket, on Gunna's Tamsin (the steadiest flier on the ledges), because she says if he's to write to the Tide Council he'll want her, and she's never seen the sea; she's furious the whole way and won't say so; she sees the sea and says nothing for an hour.
 - Gullhaven: Arn's twelve pairs have become twenty; the baskets forty; the practice every day; the town still thinks the Clan mad.
 - **The salt-wives' brine**: every dawn, at the end of the spit, the salt-wives (the women who work the pans; the town's real government, Arn says) come out in a line with cups of brine from the pans and pour them back into the sea, one cup each, for the Drowned Lady, so she'll keep the spit; the eldest says the words: *Lady, we give you back your salt. Keep the stones.* They say she always has: the spit has stood through every storm in living memory and in the stories before that. The white-armed salt-wife (ch 59) is **Hessa Pane**, the eldest's daughter. They won't leave the pans: "The Lady keeps the spit. She's kept it since before the Council."

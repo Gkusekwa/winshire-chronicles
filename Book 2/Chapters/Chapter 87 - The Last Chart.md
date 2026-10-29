@@ -7,8 +7,8 @@ Days: 357–362 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Liss's ferry house
 Beats: Idony can't hold a pen. Calder stays two days at the ferry house and writes the numbers down for him as he reads the glasses aloud: across Winshire, five breaths moving toward one place, then all six breathing as one. He still knows everything he knew, and can't work any of it. Maren has gone down the River Road with Liss to bring people home.
 Echo of the other's story: The six on the horizon, seen from the ferry-house door.
-Status: first draft
-Draft notes: Days 357–362. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 357–362. Decided here (settled as drafted):
 - Day 357 morning: Maren and Liss go down the River Road with the lion and the barge to bring the Marches home: Millbrook first, then the river-flats; the ferry to run back the other way now. Maren to Idony before she goes: "The farmer's coming back across. To write for you." "Why?" "Because you can't." Liss leaves bread and the brass lamp.
 - **The glasses**: his four, from the terrace at Solenne, still in his coat in their wrappings through the wyverns, the stair and the rock; one cracked, three whole; reading them isn't a working (it's looking at quicksilver: Magic §2a tide-reading is measure, not drawing); he can read them; he can't hold a pen; he tries on the first morning and the pen goes across the page in a long shaking line and drops.
 - **Calder**, day 357 noon, on Kharrak across the river; sits at Liss's table with a pen and a sheet of Liss's ferry-book paper (Liss gave him three pages of it: "Don't waste them"); "I write slow." "So do I now." Idony reads the glasses aloud at the window every two hours by day and through the night: lean, angle, height, in numbers; Calder writes them down in his big square hand in columns Idony tells him how to rule.

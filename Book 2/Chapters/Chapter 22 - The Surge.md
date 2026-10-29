@@ -7,8 +7,8 @@ Days: 99–103 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Lake Ysse
 Beats: **The surge** (Magic §1): wards blaze; knot-charms tighten until the cords cut hands; Keepers' moss closes cuts overnight; a Warden burns out grey in one night (Magic §3). Idony's glasses climb toward the Moot, and he predicts a waking within seven days. Dane calls it the chance to bind the sleeper. Idony leaves the Wardens to warn the clans, half to save them and half to be there to measure it.
 Echo of the other's story: On his glass, the three-dragon stir far to the south-west, steady again.
-Status: first draft
-Draft notes: Day 99, dawn, to day 103, dusk. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 99, dawn, to day 103, dusk. Decided here (settled as drafted):
 - Day 99, dawn: the grey begins to go green. Not everywhere: in patches and lines, like frost going off a field from the sunny side, moss first, then fern, then the needles on the pines nearest the sink. By noon a quarter of the league is green and the line between is moving outward fast. Nothing rots yet; then, by evening, everything that was waiting to rot does, at once: the wren in his handkerchief.
 - The Wardens' sleeve-wards, dull since day 61, blaze: the blue thread burns so bright it scorches the grey silk; two Wardens tear them off. The knights' falcons won't settle. Hesper ties a finding-knot out of habit and it pulls tight until the cord cuts into her fingers and she has to cut it off with her spear-blade.
 - Keepers' moss: Hesper packs moss into Rowan's broken leg where the bone came through and into a gash on Idony's scalp from the sink. By morning Idony's gash has closed to a pink line; Rowan's leg is set and knitting under the moss like a month's healing in a night. Rowan says nothing; she looks at the moss for a long time.

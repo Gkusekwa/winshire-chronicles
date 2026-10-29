@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Three: The Long Autumn
 Beats: Calder and Joss's grey walk north through a country full of Restoration camps. Lisska scouts, Kharrak sulks, Aurveth remembers. A carter mentions the raid on Ferriby, and the date: the day Calder stood in the crowd at Wendmouth. He can't make it add up. He gets home to find Harrow's End half empty and Ada and Wren sheltering at Bel's.
 Echo of the other's story: Travellers say a knight-student at Greyhold sits with the Old Ruin's monster and nobody stops her.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 36: Mabbin, freed from Gallows Quay; the two-hundred-silver price on his head and the likeness on the Tidesteps; the forced binding in the back room ("You're chosen now"); the honey-smoke; Lisska came down over the harbour against orders. From Chapter 34: Vale on the Tidesteps at noon on day forty-nine. From Chapter 4: Calder's sister Bel and her husband Joss at Upper Rush, with Pip and Nan.
-Draft notes: Days 51–63: thirteen days on foot from the Wendwood, about a hundred and twenty leagues by the drove road, nine or ten a day at a dray-beast's pace. Decided here (proposals):
+Draft notes: Days 51–63: thirteen days on foot from the Wendwood, about a hundred and twenty leagues by the drove road, nine or ten a day at a dray-beast's pace. Decided here (settled as drafted):
 - The route: the old drove road up the east bank of the Wend, through the Wendwood and out past Cotter's Cross. They travel by day, because a man with a dray-mare on a drove road is nothing to look at. The dragons lie up in the forest and range by night.
 - The camps: three of them on the way, each in a cleared valley by the road with grey-coated people giving out soup and blankets to refugees. Behind the soup tents, young men with iron rings drill in lines, with beasts on short chains beside them: hounds, two greyharts, a wyvern on a perch. Every beast has a six-dot collar and empty eyes. Calder knows those eyes now.
 - Aurveth remembers more at the first Oneroad milestone, half-buried in the Wendwood by the drove road: square letters with hooked strokes, and a number. "Nineteen to the bridge." Her first partner used to lay his hand on every milestone they passed. She can feel his hand on the stone but not see it.

@@ -7,8 +7,8 @@ Days: 181–185 (Book 3 count; day 0 = dusk on the day the six went up from the 
 Ends at (chapter-end map): The Saltings
 Beats: Orrun comes ashore, a Titan on the Saltreach coast. Fishing villages run from him until the Clan's riders see the woman on his head. Maren's untaught strength is now too big for small things: she can't mend a wall, but she could drop a cliff. Restraint becomes her discipline. She counts again, out loud.
 Echo of another story: The Last Titan far to the west, in Hearthmere; Orrun lifts his head toward it and doesn't go.
-Status: first draft
-Draft notes: Days 181–185. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 181–185. Decided here (settled as drafted):
 - **D.181 ashore**: off the Drowned Bell's reef at low tide, across the shallows to the coast below Gullhaven's empty hill (the fisherman, **Saul Trent** (new), rows ahead of them the whole way, looking back); Orrun walks out of the sea onto the Coast Road; she rides **on his head** now, between his ears, in the mist of his mane: the only place she can see from.
 - **The villages run**: a handful of fisher-folk have come back to the Saltings' edge since the coast was emptied (there's fish and nothing in the camp); **Redshank** (new: a fishing village of a dozen huts on stilts at the Saltings' western edge): they see a hill walk out of the sea and run, inland, across the salt-flats, leaving their pots on the fires.
 - **D.182 the Clan**: two pairs on coast-patrol out of the Accord camp see her: **Brede** (old man of the ledges, on his blue; ch. 22's leader of the forty pairs) and a young red-thread rider; they come down on the Coast Road a quarter-league off and won't come closer until Brede sees the woman on the lion's head and knows the iron-grey temple and the coat; "Knight." **News from Brede**: the camp behind the Wend, ninety thousand; Rowan Marshal; **Ulric's dead** (on the Tidehall's steps at Corsa on the 88th); Corsa fell; the Council's fleet went out and nobody's come back; the farmer came home a month back on dragons the size of hills; Gunna and the Clan at the camp; **Lisska's crying** from the cliff: Maren understands it now.

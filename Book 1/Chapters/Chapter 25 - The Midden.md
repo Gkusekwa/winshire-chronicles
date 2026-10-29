@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Two: Harvest of Knives
 Beats: Maren is reassigned to the stables and the midden. Warden Osric Hale of the inner circle takes an interest and asks about the lion.
 Echo of the other's story: Hale asks, too carefully, whether she has seen "the dragon farmer."
-Status: first draft (structural revision: the two Hale scenes made one)
+Status: near-final draft (structural revision: the two Hale scenes made one)
 Carried forward: From Chapter 23: trial failed; she keeps her place in the school but loses her year; reassigned to the Master of Stables. Liss and Ottery: she may take Ottery's punt to the island at night if she tells Liss every time. Rowan wrote something in the margin of her ledger. Haverly saw the farmer and three dragons from the ridge; nobody believes him. From Chapter 21: the Captain promised to come back "with men enough to take this whole island apart". From Chapter 24: the echo, Lisska seeing her at the stream, falls on day eighteen.
-Draft notes: Days fifteen to nineteen. Decided here (proposals):
+Draft notes: Days fifteen to nineteen. Decided here (settled as drafted):
 - The Master of Stables is Grieve: a short, bald, bow-legged man, unbonded, forty years at Greyhold, who talks to the beasts and not much to people.
 - The bonded beasts' barn is the Long Barn, on the inner side of the north wall. The midden is behind it, against the old inner wall.
 - Warden Osric Hale (at the midden at dusk on day nineteen, the one Hale scene): past sixty, tall and heavy and stooped, with a white beard cut short, a bad hip and a stick, and a ring of keys on his belt that includes one old black iron key longer than the rest. He keeps the school's archive. He's kind, and tired, and careful. He has read her notebook (Rowan showed him), so he asks only for what isn't in it, and Maren makes him work for it.

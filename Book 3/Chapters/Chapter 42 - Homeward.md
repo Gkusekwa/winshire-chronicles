@@ -7,8 +7,8 @@ Days: 149–150 (the day after he could stand; plan 148–150) (Book 3 count; da
 Ends at (chapter-end map): The hatching caves
 Beats: The day after the gift, Calder flies home over the sea in a day and a night with Jory: Titan-class, and no fleet to wait for now. Below him, the *Kittiwake* a day out with Idony aboard. He comes down at the hatching caves, too big for the yard. Wren makes him say everything twice.
 Echo of another story: Aurveth's new sight, looking down through the sea: a grey warmth walking through the stone of the sea-bed, the lion on his road home.
-Status: first draft
-Draft notes: Days 149–150. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 149–150. Decided here (settled as drafted):
 - **Dawn 149**: off the crossroads; Calder on Kharrak's neck (Kharrak's neck now wider than a road); **Jory on Aurveth**; Lisska ahead; they fly north-east straight over the Shatters: **Aurveth's deep sight shows the drowned road's piers through the sea from the air** (what Lisska couldn't find in ch. 26), so Jory reads the stones for the pleasure of it and calls the numbers anyway; *forty-one* by noon: a month's sailing in half a day.
 - **The *Kittiwake***, early morning 149, between the third and fourth piers: a day out from the Needle, low in the water; ninety-three on her deck and in two boats astern; the three come down low over her (Lisska first; the ninety-three scream; Kit doesn't); **Idony on the deck waving both arms**; Kit raises one hand; Gannet at the mainmast looking up, not smiling. Calder can't shout down (the voice); Lisska says it for him in nobody's head, then flies on.
 - **The echo**, noon 149: Aurveth looks back through the sea, far behind them under the first piers: in the sea-bed's stone, a grey warmth the size of a hill walking north-east along the road's line inside the stone; *The lion. On his road home.*; and far off in the black water, something pale that might be the Lady (Maren first sees her on what she thinks is the fifth day, ch. 40).

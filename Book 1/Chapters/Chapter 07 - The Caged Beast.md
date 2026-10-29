@@ -5,7 +5,7 @@ POV: Maren
 Part: Part One: Two Banks
 Beats: At Millbrook, where Tam is apprenticed to the smith, Saltreach poachers have caged a young beast and offer Maren a share to look away. She frees it and makes enemies. Tam is dazzled; Pell is not.
 Echo of the other's story: The poachers swear to take their grievance "across the river."
-Status: first draft
+Status: near-final draft
 Draft notes: Five days after Chapter 3, the day before the fair (Tam is due home tomorrow). Pell sends Maren to Millbrook with a cart to fetch mended blades from the smith, Odo Marl, Tam's master. The beast is a young duskcat (see Bestiary), poached from the far end of the Brackenwood, a royal forest. The poachers are Saltreach boatmen led by a man called Gannet; they sold the marten that the roadblock seized from the carrier in Chapter 5, and the carrier wants his money back. Their buyer is "a man at Wendmouth who pays silver for live ones, any kind, no questions" (the Restoration). Plant: Tam mentions a man at the Kettle who talks about the old days.
 Magic touches: the Widow Rudd of Millbrook, fined at Ashford for unlicensed words over a pig; tin luck-tags on Gannet's prows.
 notes -->

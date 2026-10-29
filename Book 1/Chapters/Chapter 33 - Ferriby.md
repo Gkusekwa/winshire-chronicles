@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Three: The Long Autumn
 Beats: On patrol, Maren glimpses the Restoration's leader at a raid on Ferriby: one man, quiet, precise, directing the raid like a game of stones.
 Echo of the other's story: Hearthmere scouts report dragon fire over Harrow's End a week ago.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 5: the tall thin man at the roadblock, the one who decided ("a still, patient face, neither young nor old"); "They'll never give you a horse worth riding." Travellers said the leader spoke in a Saltreach port and led a raid in Hearthmere on the same day. Plant: on the night of the Upper Rush raid the river-watch boats were ordered in by a rider carrying Greyhold's seal. From Chapter 32: Holloway burned three nights ago, and the knights rode out to it. From Chapter 29: Maren's ribs are mending.
-Draft notes: Day 49, dusk into night (Holloway burned on night 46). This is the same day Calder hears the leader speak at Wendmouth (Chapter 34). Decided here (proposals):
+Draft notes: Day 49, dusk into night (Holloway burned on night 46). This is the same day Calder hears the leader speak at Wendmouth (Chapter 34). Decided here (settled as drafted):
 - After Holloway, Greyhold doubles the River Road patrols and puts the second-years on them as horse-holders and runners. Pell takes Maren, because she can ride and he wants her.
 - Ferriby: a dozen houses, a smithy and a little stone landing on a creek that runs down to the Wend. Its beasts: a bonded ox-beast (old Hamm's), a breeding pair of greyharts kept for the crown, and the smith's hound. The raid comes at dusk up the creek on two barges: thirty raiders, masked, no colours. They take beasts, not lives, and fire only the barns.
 - The leader stands on the roof-ridge of the smithy, unmasked, in a plain dark coat, with a boy beside him holding a whistle. He gives signals with one hand. The boy relays them on the whistle. The raiders move as pieces move in stones: pinning, blocking, giving ground to take it. When Pell's patrol comes in down the lane, the man moves two pieces and the patrol finds itself in the wrong place twice.

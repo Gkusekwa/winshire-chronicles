@@ -5,7 +5,7 @@ POV: Calder
 Part: Part One: Two Banks
 Beats: Calder carries Harrow's End's grain to Varrhold. He sees both sides: Ulric, the Clan's best warrior with the larger following; Arn's pride; Teo's warmth. He meets the three bonded warriors with their dragons: old Sigrun Holm and Aurveth, hard Dag Rorke and Kharrak, laughing Imra Sallow and Lisska, who teases him about his grain-dust.
 Echo of the other's story: A sellsword at the hold complains that the knights have started riding the bank road again.
-Status: first draft
+Status: near-final draft
 Draft notes: A few days after Chapter 4. The grain is the funeral levy for the mourning feast. Joss lends Sorrel to pull the wain, because she's calm only with Calder. Two days each way; the night at the Ram's Head. Calder has hidden the chain under a loose stone in the byre so he won't be tempted. Calder can't hear the dragons (no bond yet): everything about them is seen, not heard. Aurveth's two earlier partners are saved for Chapter 8.
 Magic touches: a Stillhaven charm-seller at the Ram's Head with 'warranted' tags; the bonded riders sit in brazier smoke without blinking (bond gift, seen not explained).
 notes -->

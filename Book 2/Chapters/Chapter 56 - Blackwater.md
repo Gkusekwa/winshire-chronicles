@@ -7,8 +7,8 @@ Days: 291–300 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Blackwater
 Beats: Calder, with Gunna Tarne and Tamsin and six riders of the ledges, comes down on the smugglers' town where Corvin's binders keep the other three stolen dragons. They fight in honey-smoke again; this time the riders have wet cloths over their dragons' nostrils, Gunna's idea. Lisska's kin-voice and the strike of a collar-pin bring two back to the edge of themselves. The binders kill the third rather than lose it. The captured binders say Corvin has a buyer at Solenne. That night Calder sends Lisska west with a letter (**flight 5**).
 Echo of the other's story: Rumour on the quay, old news by sea: a lion at the Scald held up the ground three times over while the iron cage shut.
-Status: first draft
-Draft notes: Days 291–300. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 291–300. Decided here (settled as drafted):
 - How he knows: day 291 a letter from **Brask** (in Wendmouth since the Halloran fall, working for the Council's men clearing the seized Halloran warehouses) by a Clan rider coming up the Way: one of the seized Halloran ships' logs shows three young dragons, bound, brought in from Solenne by sea on day 268 and landed at **Blackwater**, to be held for "the gentleman's buyer". So the three flew south with the case (ch 47), gave the case to Corvin at Solenne, and were shipped east again to be kept out of sight till sold.
 - Day 292 Calder stops at Greyhold landing on the way south-east to Blackwater (the Clan's grain wagons are there): Liss on the ferry (mended, new rope); she asks if he's writing to Maren; tells him to put at the bottom: *Liss says come home.* Two words, really: she makes him write *come home* and her name. (Ch 57.)
 - Who goes: Calder on Kharrak, Lisska; **Gunna Tarne** on **Tamsin** (312 years old, grey-green, slow, sure); six riders of the ledges (old Brede among them, on his blue; Leif and his young brown left at home). Aurveth stays (Gullhaven practice is Arn's; ch 59).

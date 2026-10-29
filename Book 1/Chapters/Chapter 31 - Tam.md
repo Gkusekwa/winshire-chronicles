@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Three: The Long Autumn
 Beats: Maren visits Tam in Millbrook. He has been to a Restoration meeting in a barn: the unchosen equal, the knights' lies, "one again." They quarrel. Liss's ferry is full of refugees.
 Echo of the other's story: The refugees talk of a farmer who brought three dragons down on a burning village, and saved it.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 7: Tam (19) is apprenticed to Odo Marl, the Millbrook smith; Maren freed the duskcat he'd named Shadow; "a man comes to the Kettle sometimes, in the evenings. Talks about the old days." From Chapter 9: Tobin's pamphlet, six hands joined in a ring, "One again." From Chapter 27: Hale on the gate, "you tell people they're equal in the one place where equal means equally likely to be killed." From Chapter 30: about twenty Greyhold knights, mostly on horses with a greyhart or two, watched Harrow's End burn from the bank all night and didn't cross. From Chapter 29: Maren's two cracked ribs, still bound.
-Draft notes: Day 44. Decided here (proposals):
+Draft notes: Day 44. Decided here (settled as drafted):
 - The man at the Kettle is Absalom Reede, a travelling bookbinder, grey and gentle, who mends the Kettle's ledgers and talks history. He runs the meeting in Fennick's tithe barn behind the mill: sixty people, lamps, no masks. He reads from an old book about the one realm, when beasts walked free and nobody was bonded "above" anybody.
 - The pitch, as Tam repeats it: the unchosen are equal; the knights lied, because Hearthmere's wealth rests on something it keeps hidden; the kingdoms chain beasts and the old realm didn't; "one again".
 - Tam was on the River Road opposite Harrow's End on the night of the second burning (night 42), with Millbrook men who were at Redwatch that night. He saw the knights sit on the bank, Captain Thorne in the middle of the line on a horse. He went to the barn the next night. That's what turned him.

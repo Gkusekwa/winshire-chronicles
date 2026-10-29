@@ -5,8 +5,8 @@ POV: Maren
 Part: Part Two: Harvest of Knives
 Beats: Maren on the island. The bridge-fort, the broken arches, the verse carved under the tower arch about Winshire. Signs of Restoration hunters: cold fires, cut chains, beast traps.
 Echo of the other's story: Smoke rises across the river. Something has happened at the ford.
-Status: first draft
-Draft notes: From dusk on day 0, the night of the fair (Chapter 11's ending), to noon on day 4, when the ford meeting was set (smoke over the hills). She hears no breathing on nights 1 to 4. Decided here (proposals):
+Status: near-final draft
+Draft notes: From dusk on day 0, the night of the fair (Chapter 11's ending), to noon on day 4, when the ford meeting was set (smoke over the hills). She hears no breathing on nights 1 to 4. Decided here (settled as drafted):
 - The verse under the tower arch, in the old script of the Oneroad milestones, which Maren can half read (her father taught her the old letters from a milestone on the Hearthmere side). Weathered; she copies what she can. Its last line, "keep the watch below and do not ask," is the knights' oath, older than Greyhold.
 - The hunters' chain carries the ring of six dots; Maren keeps one cut link as proof. The reader has seen the mark on Calder's chain (Chapters 2, 10); Maren hasn't.
 - The north end of the island is silent: no birds. She doesn't go there yet.

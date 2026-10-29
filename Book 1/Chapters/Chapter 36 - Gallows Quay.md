@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Three: The Long Autumn
 Beats: Wendmouth's beast market. Cages, buyers paying in Restoration coin, and one of Joss's greys. Calder frees the caged beasts, a mirror of Maren at Millbrook, and flees north with the grey and a price on his head.
 Echo of the other's story: In the market, sellers curse knights who free other people's property.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 34: Gallows Quay at dusk; the red-and-gold building at the end, with its guard; the Crane; the beast-seller's grumble about the Millbrook student. The coin man's new silver with the ring of six. From Chapter 4: Joss's greys, Mabbin (Sorrel's mother) and Old Grey, roped and led off from Upper Rush. From Chapter 17: the hunters' honey-smoke.
-Draft notes: Days 50–51. Decided here (proposals):
+Draft notes: Days 50–51. Decided here (settled as drafted):
 - Market day on Gallows Quay is day 50, the day after he heard Vale. Lisska brings him food at the edge of the Wendwood on the night of day 49, and he walks back in at dawn. The rescue is the night of day 50; he leaves the Wendwood with Mabbin at dawn on day 51.
 - The building at the end of the quay is the Halloran beast-office. Its factor is Oswin Rusk: plump, soft-handed, polite. He buys for "a client in the north" and pays in new silver with the ring of six on the rim. Calder watches it change hands.
 - In the cages on market day:

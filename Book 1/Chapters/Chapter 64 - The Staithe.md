@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Five: Thaw
 Beats: Ada, Wren and Bel's family cross to Hearthmere as refugees on Liss Ashdown's ferry. Calder watches from the bank. Wren tells the ferrywoman about her father's dragons.
 Echo of the other's story: On the Saltreach jetty, while they board, Liss says her daughter was cast out of the knights yesterday for loving a monster.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 3: the ferry runs on an old guide-rope from the stone jetty and the red-doored ferry house at the Greyhold landing to the timber jetty at Tolly's Staithe; a long flat-bottomed boat, broad as a cart; Liss knows the Fenns by name from the trade. From Chapter 62: Bel's decision; three crossings for the greys; Calder stays. From Chapter 56: "Tell her I said hello." From Chapter 54: Brask: "two hundred for her and two hundred for you, like you were a pair". From Chapter 38: Wren tied her washed blue ribbon on Lisska's horn. From Chapter 63 (Maren's side): Maren cast out on the morning of day 136.
-Draft notes: Day one hundred and thirty-seven. Decided here (proposals):
+Draft notes: Day one hundred and thirty-seven. Decided here (settled as drafted):
 - They come down the river lane from Upper Rush through the night, six leagues, and reach the Staithe at first grey: Bel with the handcart and the children, Ada, Wren, and the three greys on halters. Calder walks with them as far as the Staithe in Joss's carter's coat. Lisska keeps watch above, high, out of sight of the Greyhold towers. Kharrak and Aurveth stay on the Scar.
 - The Staithe is nearly empty: old Tolly, Greta with her eel-smoke, a few families waiting. Greyhold on its hill across the water, with its scaffolds and the smoke from its forges.
 - Liss brings the ferry over on the rope at first light. Three crossings for the beasts, the people with the first. Liss looks at Calder once, a long look, and knows him from the trading houses' bill and from twenty years of buying Fenn barley. She says nothing about it.
@@ -16,7 +16,7 @@ Draft notes: Day one hundred and thirty-seven. Decided here (proposals):
 - He asks Liss, on the last crossing, to tell her daughter something. Not his message. Wren's: "Tell her a girl called Wren says hello." Liss says she will. Then Liss, at the rope: "And you? Anything from you?" He can't think of anything to say. "Tell her the old one says it's the cat from the bridge." Liss doesn't understand. She says she'll tell her.
 - Wren on the ferry, last sight: she stands at the rail and waves, not to him, up, to the sky where Lisska is. Lisska comes down low over the river, against orders, once, and goes up again. Liss watches her go over with her mouth open. The blue ribbon is still on her horn.
 - Calder stands on the Staithe jetty until the ferry reaches the stone jetty at the Greyhold landing. Then he goes back north.
-- Magic (proposal): a coast woman sells "warranted" tin crossing-charms to the refugees on the Staithe jetty; Liss tells them to throw them in: nothing said on one bank lands on the other, running water breaks it (the rule as river folk know it).
+- Magic (as drafted): a coast woman sells "warranted" tin crossing-charms to the refugees on the Staithe jetty; Liss tells them to throw them in: nothing said on one bank lands on the other, running water breaks it (the rule as river folk know it).
 notes -->
 
 ---

@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Three: The Long Autumn
 Beats: Aurveth speaks of her two earlier partners and her oldest memories: the Old Ruin when it was a bridge on the road of the old realm. Kharrak wants Ulric's men dead. Lisska wants to see everything. Calder wants them all quiet.
 Echo of the other's story: Lisska reports the knight-student at the island again, sitting with the monster at a distance.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 26: Crow Scar; Rue and old Hesketh Coley; Kharrak flies again; the bond's speech fades past three or four leagues, while feeling carries much further. Aurveth has lost her first partner's name, remembers "a road with stones in it, and a bridge", and fears she was meant to forget. From Chapter 24: Kharrak, of the cold men: "Then we'll find out. All of them."
-Draft notes: The long autumn, about days twenty-three to thirty-one. Decided here (proposals):
+Draft notes: The long autumn, about days twenty-three to thirty-one. Decided here (settled as drafted):
 - Ragnald Holm, as Aurveth remembers him: big, slow, kind, a beekeeper as well as a rider. He sang badly and didn't care. Killed by a rockfall in the Scarfell sixty-one years ago. Aurveth lay a year on Coldtarn's shore and another in her cave; Sigrun, just come of age, came up to the Roosts and was chosen, about two years after Ragnald, and rode her fifty-nine years; she was seventy-six when she died at the mill.
 - Calder's first flight on Aurveth, by night, on day thirty-one. Aurveth's back has closed enough. She takes him west over the Fellwood to the river and circles high over the island. Below, the girl's fire is already burning by the stream, and the lion is standing in the water looking up.
 - What Aurveth remembers from above the island (the first big memory):

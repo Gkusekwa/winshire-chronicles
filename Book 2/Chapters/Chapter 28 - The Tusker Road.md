@@ -7,8 +7,8 @@ Days: 111–135 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Vael's gate, under the High Crown
 Beats: West under the High Crown with a tusker herd; the old cow and Orrun know each other as far kin. Isvaren registers every bond-gift as wild power at the gate *(World)*. From a Library window, a dry voice says her name.
 Echo of the other's story: A merchant at the gate: a dragon farmer in Wendmouth, burning a trading house's warehouse.
-Status: first draft
-Draft notes: Day 111 to day 135. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 111 to day 135. Decided here (settled as drafted):
 - Days 111–117: west across the dead Plains on foot, the way Idony rode; Orrun eating again, a little; the grey at his mane-roots not going away. Maren carries Hesper's hide bag with the last of the moss, and the green cord. Ada's hearth-word doesn't take on the Plains now; she uses a flint.
 - Day 118: the Plains' western edge, live ground again, faintly; the first foothills of the High Crown, the road Idony took north-west. Orrun turns off it, north, up a valley, following something that isn't the Titan. Maren asks; he says *kin*.
 - Day 120: the tusker herd, in a high valley under the snowline: thirty beasts, shaggy, red-brown, high-shouldered, tusks curling back like old roots; led by the oldest cow, who is enormous, grey at the face, one tusk broken short. They stand in a ring when the lion comes up the valley, calves inside. The old cow comes out alone. She and Orrun stand ten paces apart a long time. Maren feels the rumble through her boots: a call too low to hear, in the ground and her chest. Orrun answers it, not in words. Far kin. *She knows what I am. Her mother's mother's mother knew one of us. On a road.*

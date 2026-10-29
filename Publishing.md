@@ -24,7 +24,7 @@
 
 ## From draft to published book
 
-1. ~~**Finish the drafts.**~~ *(Done: all three books are in first draft, 253 chapters, audited and fixed, Oct 2026.)*
+1. ~~**Finish the drafts.**~~ *(Done: all three books are drafted, 253 chapters, audited and fixed, Oct 2026; now close to final draft.)*
 2. **Revise them yourself,** then share them with a few **beta readers** who read epic fantasy.
 3. **Developmental edit:** a professional editor checks structure, pacing, characters and the POV balance. This is the most valuable paid step.
 4. **Copyedit, then proofread:** line-level corrections, then a final typo pass on the formatted ebook.

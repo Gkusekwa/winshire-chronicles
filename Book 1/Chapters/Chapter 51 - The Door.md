@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Four: The Frozen River
 Beats: Hale takes Maren to the locked cellar door. Behind it, far down, the sound of chain. She puts her hand on the door, and across the river the lion roars.
 Echo of the other's story: The roar is heard in Harrow's End; the dragons answer it.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 35: the black oak door, three iron bands, no handle, the lock as big as a man's hand, three steps down at the far end of the archive. From Chapter 49: Hale's confession; "when the moon's gone"; the Watch goes down once, on the night it's sworn; the chain; the oath as a hand on the chain; *and do not ask* won't come out of her mouth. From Chapter 37: the lion lies in the arch under the verse. From Chapter 27: Captain Thorne and her black boar. From Chapter 31: Thorne lifted her hand to the farmer the morning after the burning.
-Draft notes: Days ninety-nine to one hundred and two. Decided here (proposals):
+Draft notes: Days ninety-nine to one hundred and two. Decided here (settled as drafted):
 - Day 99: the council's word comes for Davin. He's to go to Hallowmere for trial before the crown's magistrates. A closed cart takes him on day 100. Maren carries his last bread. He says: "Did you ask?" She doesn't answer, but he sees her face. "You did," he says.
 - Night 100: the island. Ottery takes her over the hard ice. The lion is in the arch under the verse again. She tells it, out loud, what Hale told her, knowing it can't understand a word. It watches her the whole time and doesn't look away once.
 - Night 102, the dark of the moon: Hale takes her to the door after the last bell. He has the long black key in his hand, and he doesn't put it in the lock. "It's turned once for each of the Watch, on the night they're sworn. I'll not turn it for you. I'll not make you that." They stand on the bottom step.

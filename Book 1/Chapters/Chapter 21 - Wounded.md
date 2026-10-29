@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Two: Harvest of Knives
 Beats: Restoration hunters chain the wounded lion at the island's tip. Maren breaks a chain and lets it go.
 Echo of the other's story: The hunters say they are also after "the Clan's three loose dragons" across the river.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 19: dawn after the battle night (Maren's ninth day). She's on the first pier of the old bridge with three claw-cuts down her left shoulder and arm, bound with her belt. Pell's sword is in the river. The lion went south toward the fort, limping, one loop of chain still on its near forefoot, the stake swinging free. From Chapter 17: the hunters' camp on the north-west shore, with the crate she didn't open; the honey-smoke pots; the Captain; "We'll come back for them." / "We won't need to."
-Draft notes: Day nine, from dawn into the night. Decided here (proposals):
+Draft notes: Day nine, from dawn into the night. Decided here (settled as drafted):
 - She wades ashore at first light and goes to the hunters' camp. In the crate are tools: a cold chisel, a smith's hammer, files, shackle pins, a pot of grease, rolls of linen. She takes linen, the chisel and the hammer, and water. She dresses her arm herself.
 - The lion is lying on the spit at the south tip, by the water, weak from bleeding, licking its foot.
 - At midday the raft comes back with eight hunters, the Captain, and the cage. Rook isn't with them. They set the pots upwind, then chain the lion where it lies: a collar-chain round the neck staked into the paving at the foot of the old landing stair on the spit, and chains over the body. They plan to load the cage after dark, out of sight of the patrol boats.

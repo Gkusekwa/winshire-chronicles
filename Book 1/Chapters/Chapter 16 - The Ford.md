@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Two: Harvest of Knives
 Beats: Teo's pyre. The Clan splits: Arn on one side, Ulric on the other. Villages are told to choose. Hob the miller takes Ulric's coin. Calder refuses to choose, which pleases no one.
 Echo of the other's story: Hearthmere boats patrol closer to the island than they ever have.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 14: Calder's coat, with the chain in its pocket, went up to the hold over Teo's face. It comes back to him here, chain and all. Rook overheard the ford's hour in Chapter 10.
-Draft notes: Days 5 to 7: the day after the ford (day 4) and the two days after it. Decided here (proposals):
+Draft notes: Days 5 to 7: the day after the ford (day 4) and the two days after it. Decided here (settled as drafted):
 - Teo's pyre is lit at Varrhold at dusk on day 5: a single night's burning, as for a chief's son, not the eleven days of a chief. Ulric is not let in. He stands outside the gate with his men in the rain until it's lit, then goes.
 - Imra Sallow gives Calder his coat back at the pyre. The chain is still in the pocket. Nobody seems to have looked.
 - Rook is gone. One of Ulric's grooms says the coast drover drew his wages the night before the ford and left before dawn. Calder doesn't say what he thinks. The guilt starts here.

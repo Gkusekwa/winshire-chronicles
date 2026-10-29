@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Six: The First War
 Beats: The Restoration's first open war against the kingdoms breaks out: it crosses the river and drives toward Greyhold and the catacombs. Pell dies holding the gate.
 Echo of the other's story: Rumours from the Saltreach side: the dragon farmer has gone to the Old Ruin.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 67: the orders on the bank at Redwatch facing the ladders; fewer than forty left on Greyhold's wall; Millbrook ready to rise behind them; Liss, Ada, Wren, Bel and her children at Millbrook (the camp by the water-meadows). From Chapter 68 (Calder's side): Cassian crossed to the Hearthmere side in the night to lead the rising and knock on Greyhold's gate, loud, a feint; "our friend" is inside and opens it the night after. From Chapter 9: Pell, long-boned, grey, two fingers gone; subdue, don't kill. From Chapter 63: Thorne took Tobin's sword; Maren has no weapon.
-Draft notes: Day one hundred and forty-two. Decided here (proposals):
+Draft notes: Day one hundred and forty-two. Decided here (settled as drafted):
 - Dawn: from Hollin Knowe Maren sees both at once. Upriver, the boats come off the island's west shore with the ladders, and the bank at Redwatch goes up in noise. Downriver, smoke from the water-meadows below Millbrook: the rising has fired the refugee camp. The town itself doesn't burn until dusk (71).
 - The lion won't come down off the knowe. It stands on the edge looking at the island. She leaves it there. It's the first time she goes somewhere it doesn't follow.
 - She takes a farm cob from the paddock at Hollin Farm under the knowe and rides south across the fields to the River Road. The road is full of people running north toward Greyhold from Millbrook: the camp by the water-meadows was fired at dawn. The rising didn't spare the refugees.
@@ -18,9 +18,9 @@ Draft notes: Day one hundred and forty-two. Decided here (proposals):
 - The bound hounds come up the road. Pell holds the gateway with five left. The last of the refugees go through. Old Grey goes through with Bel at his head. Pell shouts to shut it. The gate shuts with Pell outside it. He stands with his back to it. He dies there, in the gateway, at noon, with the bell going over his head and nobody saying the oath.
 - Maren on the road outside with Liss. The Restoration falls back from the walls in the afternoon when the orders come galloping back down the River Road from Redwatch: Rowan has turned back with half. The other half is pinned at Redwatch.
 - Liss: "Tam." The smoke from the meadows has spread to a few roofs at the jetty end; not the town, not yet. Maren goes.
-- Magic (proposal): the surge begins. Halloran's house drawer, lent to Delling (the grey-coated woman from 34 and 58) breaks Pell's line of twelve with two releases from the road and is carried off spent, her hair gone white at the front; an old knight of the gate's licensed stand-word, dead all winter, drops a bound hound like a poleaxe; at the noon bell, with nobody saying the oath, every dead lamp on Greyhold's wall flares white for two strokes and goes dark. Steel still decides: Pell holds the gate and dies.
-- Revision (proposal): Davin comes home. He's in the refugee crush at the gate, carrying an old woman's bundle; the Hallowmere magistrates looked for six weeks, found no law to try him under, and let him go. He goes in through the gap with the others.
-- Revision (proposal): Old Grey's first act of his own will. Inside the gateway, after turning his head to Wren's voice, he takes one step toward her with the rope slack and nobody driving him. His eyes stay empty; full recovery is left for Book 2.
+- Magic (as drafted): the surge begins. Halloran's house drawer, lent to Delling (the grey-coated woman from 34 and 58) breaks Pell's line of twelve with two releases from the road and is carried off spent, her hair gone white at the front; an old knight of the gate's licensed stand-word, dead all winter, drops a bound hound like a poleaxe; at the noon bell, with nobody saying the oath, every dead lamp on Greyhold's wall flares white for two strokes and goes dark. Steel still decides: Pell holds the gate and dies.
+- Revision (as drafted): Davin comes home. He's in the refugee crush at the gate, carrying an old woman's bundle; the Hallowmere magistrates looked for six weeks, found no law to try him under, and let him go. He goes in through the gap with the others.
+- Revision (as drafted): Old Grey's first act of his own will. Inside the gateway, after turning his head to Wren's voice, he takes one step toward her with the rope slack and nobody driving him. His eyes stay empty; full recovery is left for Book 2.
 notes -->
 
 ---

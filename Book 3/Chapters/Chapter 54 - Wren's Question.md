@@ -7,8 +7,8 @@ Days: 245–250 (Book 3 count; day 0 = dusk on the day the six went up from the 
 Ends at (chapter-end map): Coldtarn
 Beats: Wren asks what happens if they lose. Calder makes a plan for that, because nobody else will. Aurveth's deep sight finds an old-realm hall under Coldtarn: the tarn never freezes because the Deep runs warm beneath it. He asks Maren, by Lisska through Orrun, to open it if it comes to that. She agrees, angrily.
 Echo of another story: The lion-hill lying on the rampart, like a new hill nobody has named.
-Status: first draft
-Draft notes: Days 245–250. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 245–250. Decided here (settled as drafted):
 - **D.245 Calder flies north** from the Wend on the three (Arn stays at the camp); **at the hatching caves by mid-morning** (two hours at their pace). The first snow on the Scarfell's tops. **Ada** at the cave mouth; **Wren** (eleven now) with her milestone stone; **Old Grey** in the cave's back stall; Bel down at Varrhold with Pip and Nan.
 - **D.246 Wren's question**, at the warm spring in the cave at night, after Ada doesn't sing (she hasn't since the muster's news: *till the six are one again*): **"What happens if we lose?"** Calder: "We won't." **"Say it twice."** He can't. "Nobody's said, have they. What happens." "No." "Somebody should."
 - **Nobody plans for losing**: Rowan's council plans the line, the Lamp, the relic; every plan begins *when the Lamp takes it*. Calder (who once planned Gullhaven's roofs and the hulks) makes the other plan: if the middle breaks, the people go **north**, through Harrow's End and up the Drover's Way past Teo's ford, over the Scarfell's edge to Coldtarn; Varrhold's hold and the caves can take a thousand at most and not in deep winter; **they need somewhere warm, under stone, that a Titan can't dig into**.

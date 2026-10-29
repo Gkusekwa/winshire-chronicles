@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Five: Thaw
 Beats: Calder tries to bring Ulric and Arn to talk at Teo's ford. Someone makes sure it becomes an ambush.
 Echo of the other's story: Knights in boats watch the ford and don't cross.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 14: the ford on Hollow Beck, eight up the Drover's Way from Harrow's End, a league above the Ram's Head, six below Varrhold; the alders, the smooth brown stones, the shieling on the slope (burned); red thread for Haldor's sons' men, plain grey for Ulric's; "a ford remembers everyone who crosses it." From Chapter 58: Rook at the Ram's Head with the ledger; "I want him alive, in front of both of them"; Hallam will carry the asking under the old law; "He'll hear of it. I'm counting on it." From Chapter 48: Hallam Brecc and Morrow; the eleven bonded pairs; "No bonded rider fights kin." From Chapter 54: Ulric's men burned the ford-house.
-Draft notes: Days one hundred and twenty-seven to one hundred and thirty. Decided here (proposals):
+Draft notes: Days one hundred and twenty-seven to one hundred and thirty. Decided here (settled as drafted):
 - Hallam asks Arn on day 127 and Ulric on day 128, under the old law: a ford meeting under truce, in the boy's name. Twenty riders each, on their own banks. The eleven bonded pairs of the ledges will sit on the hill above the ford as truce-keepers, which hasn't been done since Teo's grandfather's day. Both Varrs come. Arn to hear what the farmer says. Ulric because "when you're ready to say it, you know where I am."
 - Calder's plan, which he tells only the dragons: Lisska on the Ram's Head road from first light, watching for Rook. If Rook hears and comes himself to see it go wrong, Kharrak takes him alive on the road and brings him to the ford, and Calder stands him in the water in front of both Varrs. Rook doesn't come.
 - Noon, day 130: the ford. Arn on the far bank with twenty in red thread; Ulric on the near bank with twenty in plain grey and Raske. The eleven bonded dragons on the slope above, by the black ruin of the shieling, with Morrow and Hallam at the front. Calder's three on the ridge behind. Calder walks into the beck where Teo lay, and starts to say it.
@@ -19,7 +19,7 @@ Draft notes: Days one hundred and twenty-seven to one hundred and thirty. Decide
 - Kharrak brings back a shooter from the near-bank gorse, dead: plain Clan grey over a Wendmouth shirt, oiled boots with brass eyelets, a ring of six on a string under his shirt. Proof, of a kind. There's nobody left at the ford to show it to.
 - Hallam dies on the stones in the late afternoon. Before he dies: "Tell them. Don't you carry it any more. Tell them both. Write it down if you have to." Morrow lies down beside him. Calder knows what that means. One life between two. He stays.
 - The echo: at dusk Calder flies down Hollow Beck to the Wend, to see where the dead go. The beck's in spring flood and it's carrying them: men, horses, a cloak with red thread, down past Harrow's End and into the Wend at the Eelweir. On the Wend, across the beck's mouth, there's a line of boats. Knights. Rowan's river patrol, at anchor, with lanterns. They're watching the dead come down out of the Marches into the river. Nobody in them moves. They don't cross.
-- Magic (proposal): on the string with the dead shooter's iron ring, a "warranted" Saltreach tin charm against bolts from the Ram's Head charm-board (58); the bolt went in under it.
+- Magic (as drafted): on the string with the dead shooter's iron ring, a "warranted" Saltreach tin charm against bolts from the Ram's Head charm-board (58); the bolt went in under it.
 notes -->
 
 ---

@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Four: The Frozen River
 Beats: Maren understands why the lion lingers at the Old Ruin: what lies chained below is its kin. She goes to it knowing her kingdom imprisoned its family.
 Echo of the other's story: Fire on the far bank: the farmer's dragons fighting off Restoration hunters.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 25: Hale asked whether it digs; the hollow at the north end "dug, and filled, and dug again". From Chapter 49: the cut pages, the stubs in the binding; the margin's signs, "*A thing that was sleeping comes to the old place, and will not leave it.*" From Chapter 51: her hand on the door; the lion's roar; the chain going taut; Thorne: "Rowan wants the island watched." From Chapter 52 (Calder's side): the camp at the Ewe Beck burned on night 103; Greyhold's bell.
-Draft notes: Days one hundred and three to one hundred and five. Decided here (proposals):
+Draft notes: Days one hundred and three to one hundred and five. Decided here (settled as drafted):
 - Night 103: Greyhold's bell. Maren on the wall with everybody else, seeing the glow at the mouth of the Ewe Beck, east on the Saltreach bank, upriver of Tolly's Staithe and below the long bend at Harrow's End, two leagues off or so. Haverly: "That's dragon-fire. Nothing else burns that colour." Nobody says the farmer's name. Everybody thinks it.
 - Day 103, morning: Rowan sends for Maren to her room at the top of the north tower, for the first time since the trial. She puts her on Pell's patrol at Redwatch, which is to watch the island day and night from the tower and the ice. "You'll go closer than anybody. You'll tell me what it does. You'll not go further than you've been." Rowan doesn't say why. Maren doesn't ask.
 - Day 103, afternoon: Hale sends for her. In the binding of the black book, on one of the cut stubs, there's a fragment of drawing the knife missed: a corner of a page, brown ink, the edge of something drawn very large: a forefoot. Four splayed toes, claws drawn in. Under it, half a word in the old script. Hale doesn't know what it is. Maren does. She's put her own hand in those prints in the snow.
@@ -17,7 +17,7 @@ Draft notes: Days one hundred and three to one hundred and five. Decided here (p
 - The echo: night 105, from the top of Redwatch, the patrol sees fire on the far bank, above Harrow's End, in the hills: dragon-fire, three sources, and torches scattering. Pell: "They've come for him." Ottery: "And they're not getting him." Pell writes it down. The knights don't move.
 - Maren doesn't tell Rowan about the pit. Her report says the beast keeps to the north end and digs. That's true. It's the third thing she's kept back.
 - Magic touches: Redwatch's warming-stone (Chapter 41) cold on the shelf for a fortnight; every tower on the river burning oil lanterns now.
-- Revision (proposal): Orrun's multiplication, first glimpse (unconscious, before the bond). When the chain moves far below, the lion throws itself at the stone and for one breath a second lion-shape of grey fill heaves up beside it and falls back. Maren tells herself the bank slumped. Not mentioned in her report.
+- Revision (as drafted): Orrun's multiplication, first glimpse (unconscious, before the bond). When the chain moves far below, the lion throws itself at the stone and for one breath a second lion-shape of grey fill heaves up beside it and falls back. Maren tells herself the bank slumped. Not mentioned in her report.
 notes -->
 
 ---

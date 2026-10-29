@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Two: Harvest of Knives
 Beats: On his way to the ford as a witness, Calder finds Teo dead in the water, apparently killed by Ulric's men on the way to the peace meeting. Arn swears vengeance over his brother's body. Open civil war begins.
 Echo of the other's story: Old Fisk at the Eelweir, Harrow's End's landing, says the Greyhold boat is still drawn up on the island.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapters 8 and 10: Calder sets out to the ford as a witness, at Teo's request, and is the one who finds Teo dead in the water before noon. Rook overheard the time and place at the foot of the cliff path in Chapter 10; Calder doesn't yet connect it. The ring of six dots matters later, not here.
-Draft notes: Day 4, four days after the fair (day 0). Calder and Hob leave on Hob's cart at two in the morning (old Garrow's knees won't do it); the ford is six leagues below Varrhold, a league above the Ram's Head, about eight up the Drover's Way from Harrow's End, and they arrive an hour before noon. They wait with the body until Teo's men come, and reach the Eelweir in the small hours of day 5. Decided here (proposals):
+Draft notes: Day 4, four days after the fair (day 0). Calder and Hob leave on Hob's cart at two in the morning (old Garrow's knees won't do it); the ford is six leagues below Varrhold, a league above the Ram's Head, about eight up the Drover's Way from Harrow's End, and they arrive an hour before noon. They wait with the body until Teo's men come, and reach the Eelweir in the small hours of day 5. Decided here (settled as drafted):
 - Teo rode down to the ford alone at first light to be there before anyone, as he always was. His six were told to come down in the afternoon, after the three had met in the water.
 - He was stabbed at the water's edge from close in. His own knife is still in its sheath: whoever did it was someone he let come close.
 - Left at the scene: a plain grey armband, no red thread (Ulric's men's), snagged on the alders; a Clan axe in the shallows.

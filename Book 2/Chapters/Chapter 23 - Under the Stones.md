@@ -7,8 +7,8 @@ Days: 100–101 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Under the Hollow Ring
 Beats: Maren, Hesper, Idony and Orrun go down into the broken temple, the finding-knot pulling Maren's hand toward its door. A plinth with an empty hollow; round the walls, **six great beasts lying down in a ring, asleep**, with tall shapes of light above them *(canon: the first clue)*. Orrun knows one of the six: his kin. Idony reads the hooked script (Magic §2): *sleep*, six times, and over the plinth, *here the breath is kept*. Hesper knows an old clan saying: "the six who sleep".
 Echo of the other's story: Idony, coming up out of the dark, still frowning at the glass: the three dragons far off south-west, still together.
-Status: first draft
-Draft notes: Day 100, morning, to day 101, dusk. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 100, morning, to day 101, dusk. Decided here (settled as drafted):
 - Day 100, morning, after Pask: the knot. The finding-knot with Orrun's hair, kept in her coat since day 85, is pulling in her pocket, on its own, in the surge: she takes it out and it draws tight across her palm toward the sink. Without Orrun's chin on her wrist. Hesper: "The ground's alive again. It'll pull on its own now. Too hard. Hold it loose." It pulls down, into the sink, toward one place on the north-east slope of the rubble.
 - The way down: under the rubble where the knot pulls, the edge of something squared: a lintel, old-realm stone, dressed so close you can't see the joins. Orrun, thin and grey at the mane-roots from his day's sleep, lays his forehead on the rubble and the loose stone slides aside for him like water off a roof (bond-shaping; in the surge it comes easy, too easy, and he has to stop it moving further than he means). A doorway, and steps going down, cut in the same stone.
 - The four go down: Maren first with the knot, then Orrun, then Hesper with a pine-pitch torch, then Idony with his crate and the field-glass, Hush staying at the top. Forty steps. The air warm and dry and smelling of nothing.

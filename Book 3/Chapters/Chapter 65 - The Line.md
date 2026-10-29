@@ -7,8 +7,8 @@ Days: 318 (Book 3 count; day 0 = dusk on the day the six went up from the Scarfe
 Ends at (chapter-end map): The line
 Beats: The wards hold, one on each bank. Sarovel's olifants stand as walls; Hearthmere's greyharts carry the knights along the bank where the line bends; the Wyldmarch's stonehorns break a beast-flood's charge. The Furnace comes up under the batteries and the chilled chains hold it, and the Lady quenches it in the Wend, like iron at the forge: **the first destroyer of the battle killed**, and the last the alliance will kill. Rowan sees the Bridle at the centre, unfired, and is glad of it.
 Echo of another story: Three colours of dragon against the smoke over the Saltreach bank, and the rocs' grey among them.
-Status: first draft
-Draft notes: Day 318. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 318. Decided here (settled as drafted):
 - **Rowan's day**: on her grey horse with the white blaze along the Hearthmere wall's top (a road's breadth) from the river end to the bend and back, with Davin on a pony behind and four runners; Haverly's edge on her left hip, dark.
 - **The ward on the Hearthmere bank**: the Last Titan walks along it from the bend toward the river all morning, its head on it; where it touches the ward goes white; **the voices under it**: when the white comes near a stretch of the line the people under it say the words again, and again, and it holds; Rowan learns to ride ahead of the white and start the words.
 - **The olifants**: as the Last Titan comes along the ward toward the Sarovel sector, the sixty olifants **stand as walls in a double row behind the wall's top**, trunks curled, eyes shut, and don't move even when the ward goes white a spear's length over their heads; Mattias's unchosen behind them on the white steeds, which shy and are held.

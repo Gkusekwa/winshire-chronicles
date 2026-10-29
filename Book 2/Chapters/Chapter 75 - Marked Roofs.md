@@ -7,8 +7,8 @@ Days: 349 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Gullhaven spit
 Beats: **The fifth waking**, within the day: the Bell sleeper, reef-backed and the size of an island, rises; the wave takes Gullhaven's spit. The Clan's dragons lift people off the marked roofs, and the marks were right; Vey's wyvern company, leaderless since the reef and paid out of Arn's purse, takes the children off the salt-pan sheds. Ulric goes into the water after a child and comes out with her. Gunna Tarne's Tamsin carries eleven people in one flight.
 Echo of the other's story: The lamps flaring along the Hearthmere coast, seen from the sea.
-Status: first draft
-Draft notes: Day 349, dawn to night. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 349, dawn to night. Decided here (settled as drafted):
 - **Echo**, dawn: Sable's rider, **Nell Tallis** (not the lieutenant: Lieutenant Corrin Ash is Book 1's; a lean freckled woman of thirty with a burned ear), comes ashore in Vey's boat to Arn: the company has no captain; is the Clan's coin still good? Arn: "For the children." She saw it last night: flying high looking for the captain's body after dark, she saw west along the coast past the Wend's mouth the whole Hearthmere shore lit white for an hour, town after town, Stillhaven like a bonfire on the rim; then dark. (Ch 74's hour.)
 - Morning: Calder sends Ada to the salt-store hill in Tamsin's basket at first light, protesting. Nan Gorrie's already there.
 - Mid-morning: **the Titan goes**: it lifts out of the sea a league off and walks north, through the shallows, up over the shore by the Saltings, inland, and away north over the Ashlings; Calder feels it go through Aurveth: *Home.* The harpoons still in its side.

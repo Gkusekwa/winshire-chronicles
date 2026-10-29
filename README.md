@@ -2,9 +2,7 @@
 
 The home of the Winshire books: the series bible and the manuscripts. Keep established canon consistent across documents; mark new possibilities as working proposals until they are agreed.
 
-**Status (Oct 2026):** the author has accepted the drafts of all three books as written. The Bible, the chapter plans and the maps follow them, and where any document differs from a draft, the draft wins. Only the publishing and audiobook choices are open (`Publishing.md`).
-
-**Status (Oct 2026):** all three books are in first draft, 253 chapters (Book 1: 79, Book 2: 88, Book 3: 86). The whole trilogy was audited and fixed in October 2026, and what that settled is recorded in the Bible and the chapter plans. The only open questions are the publishing choices at the end of `Bible/Series_Outline.md`.
+**Status (Oct 2026):** all three books are close to final draft, 253 chapters (Book 1: 79, Book 2: 88, Book 3: 86). The whole trilogy was audited and fixed in October 2026, and the author has accepted the drafts as written: the Bible, the chapter plans and the maps follow them, and where any document differs from a draft, the draft wins. Only the publishing and audiobook choices are open (`Publishing.md`).
 
 ## What's here
 
@@ -21,8 +19,8 @@ The home of the Winshire books: the series bible and the manuscripts. Keep estab
 - **[Book 1/Notes/Rulings_41-79.md](Book%201/Notes/Rulings_41-79.md):** rulings from the Chapters 41–79 review and the October 2026 revision.
 - **[Book 1/audiobook/](Book%201/audiobook/):** the audiobook production files for Book 1: scripts for any narrator or voice engine, the cast, pronunciations, and an ElevenLabs kit. Generated from the manuscript by `Tools/audiobook/`; see its README.
 - **[Book 1/Art/](Book%201/Art/):** chapter-opener art (79 pieces) and the maps: bare front-matter maps, the 79 chapter-end map pages, full maps, and the interactive atlas page.
-- **[Book 2/Chapter_Plan.md](Book%202/Chapter_Plan.md):** the Book 2 chapter plan (revision 5; 88 chapters, all in first draft, audited and fixed Oct 2026; three POVs: Maren, Calder, Idony; review questions settled as drafted).
-- **[Book 3/Chapter_Plan.md](Book%203/Chapter_Plan.md):** the Book 3 chapter plan (revision 3; 86 chapters, all in first draft, audited and fixed Oct 2026; seven POVs; review questions settled as drafted; ch. 86's last line is the author's).
+- **[Book 2/Chapter_Plan.md](Book%202/Chapter_Plan.md):** the Book 2 chapter plan (revision 5; 88 chapters, close to final draft, audited and fixed Oct 2026; three POVs: Maren, Calder, Idony; review questions settled as drafted).
+- **[Book 3/Chapter_Plan.md](Book%203/Chapter_Plan.md):** the Book 3 chapter plan (revision 3; 86 chapters, close to final draft, audited and fixed Oct 2026; seven POVs; review questions settled as drafted; ch. 86's last line is the author's).
 - **[Covers/](Covers/):** the covers for all three books in three editions (Bone, Night, Band), each edition with its own art.
 - **Book 2/Art/, Book 3/Art/:** the chapter-opener art and chapter-end maps for Books 2 (88 chapters) and 3 (86 chapters); `Maps/NOTES.md` lists the places placed on the map for the first time and how the geography conflicts were settled (the rulings are in `Bible/World.md`).
 - **Book 2/Chapters/, Book 3/Chapters/** and **Book 2/Notes/, Book 3/Notes/:** the manuscripts, one file per chapter as in Book 1, and each part's running ledger of facts (`Part1–7_Ledger.md`).

@@ -7,8 +7,8 @@ Days: 272–275 (Book 3 count; day 0 = dusk on the day the six went up from the 
 Ends at (chapter-end map): The upper Wend
 Beats: The Pale Coil freezes the upper Wend in a single night, weeks before the river would freeze: a mirror of the first freeze. Maren and Orrun hold the upriver villages; Isvaren's tuskers, come down from drowned Vael with Quell's people, drag the villagers' sledges over the black ice. The Lady comes up the river and drives the Coil back north: the first time the elders fight.
 Echo of another story: Calder's fire beyond the eastern hills, too far to help.
-Status: first draft
-Draft notes: Days 272–275. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 272–275. Decided here (settled as drafted):
 - **Night 271–272 the freeze**: the Wend freezes from the Isvaren border south to a little below **Eskby** (new: a ferry village twelve leagues above the hub) in one night: **black ice**, clear, a yard thick, the river visible moving under it at first and then not; rime on the banks a quarter-league inland; weeks before the river would freeze. A stormkite rider brings it at dawn 272.
 - **The upper Wend villages** (new): **Eskby** (Hearthmere bank, ferry), **Otterholt** (Saltreach bank, eel-weirs), **Trimley** (Hearthmere bank, a mill), and a dozen farms; **about two thousand people** who stayed behind their own walls; now their wells frozen solid and their beasts dying in the byres.
 - **Quell's column**: **Master Beatrix Quell** (Isvaren's seat at Ironhythe, gone home after; chair empty since) **comes down the upper Wend valley on the ice d.273 with Vael's last people**: **four hundred**, and **a tusker herd of nineteen** (shaggy, red-brown, high-shouldered, tusks curled back like old roots) under its oldest cow, who agreed to come; the Coil came south behind them from Glasswater. The tuskers walk the ice because the river is the old road (they remember the Oneroad's fords); Quell is grey, thin, in a Warden's coat, and says Vael is under ice to the tops of the towers.

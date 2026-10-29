@@ -7,8 +7,8 @@ Days: 350–354 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Saltings; the flight home
 Beats: The drowned of Gullhaven burned on the shingle; Arn and Ulric pour together again, for strangers. Calder writes his account of the wave himself, a whole page in his own hand. Then the flight home with the Clan's flights, racing the Titan to the Marches.
 Echo of the other's story: The Marches emptying east over the Wend, and one ferry going back and forth.
-Status: first draft
-Draft notes: Days 350–354. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 350–354. Decided here (settled as drafted):
 - Days 349 night–350: the drowned brought in. The sea gives them back along the shingle and the edge of the Saltings over two days; the salt-wives and the Clan's riders walk the tideline; boats (the few with sound hulls) go out to the drowned smoke-houses. Two hundred and ninety names in the harbour-master's book; two hundred and sixty-one found. Vey not found. Asta Dunn's dragon washes up on the edge of the Saltings and is burned where it lies.
 - **The burning**, dusk 350: on the shingle of what's left of the spit, at the spit's root by the salt-store; pyres of smoke-house timber and wreck; the Clan's way (the dead burned, the ash kept) because Gullhaven's way is the sea and the sea is what killed them; Hessa Pane says the Lady can have the ash, not the bodies. Ada tries the hearth-word on the first pyre: it doesn't take (Saltreach drained since 349); she lights it with a coal from the salt-store's fire like anyone; says nothing.
 - **The pour**, dawn 351: the ash in salt-barrels (no urns); on the end of the old jetty, the one that still stands, out over the water; Arn steps onto it; stops; looks at Ulric on the shingle; Ulric comes; "One hand each." They pour the Gullhaven drowned into the sea together, for strangers; then the two Clan riders' ash and Asta Dunn's (Clan, poured with the rest: Ulric says so). The salt-wives pour their brine after. *Lady, we give you back your salt. Keep the stones.* Hessa Pane: "She didn't. Say it anyway."

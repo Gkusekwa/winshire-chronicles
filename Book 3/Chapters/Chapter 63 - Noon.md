@@ -7,8 +7,8 @@ Days: 317 (Book 3 count; day 0 = dusk on the day the six went up from the Scarfe
 Ends at (chapter-end map): The line across the Vale
 Beats: Morning. Five Titans come over five horizons. At noon the whole army says Maren's oath, "Keep the watch", and two many-voice wards go up, one over each bank's half of the line, with the Lamp's and the Lady's light running into them like oil into a lamp: a jailer's charm turned into a protector's.
 Echo of another story: Calder's voice somewhere among the thousands, out of time, as always.
-Status: first draft
-Draft notes: Day 317. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 317. Decided here (settled as drafted):
 - **Dawn 317 on the eastern wall's river end, Orrun's head**: she counts them in as they come over the horizons, as she counts everything:
   - **One, the west**: the Last Titan over the Hearthmere downs out of the Mere's country, walking, stone-and-leather wings folded, chain-ends on its legs (twelve) dragging furrows, pale eyes, the coal in its back too small to see but Orrun feels it; it stops on the downs two leagues west of the Hearthmere-bank wall's end and lies down facing the eddy.
   - **Two, the north**: the Pale Coil down the Wend; the river above Eskby going black; it stops under the ice a league above the line's northern edge.

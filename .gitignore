@@ -2,3 +2,7 @@
 *.tmp
 ~$*
 .incoming/
+__pycache__/
+*.pyc
+Book */*.epub
+Book */*.pdf

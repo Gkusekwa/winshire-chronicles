@@ -7,8 +7,8 @@ Days: 316 (Book 3 count; day 0 = dusk on the day the six went up from the Scarfe
 Ends at (chapter-end map): The eddy, on Liss's ferry
 Beats: **Meeting**: the eddy where the island was, on Liss's ferry, the night before the battle. Where the lion stands, where the dragons fly, and where the people go if it fails: north to Coldtarn. He gives her back the five links from the first chain. "It won't come to that," she says. "Say it twice," he says.
 Echo of another story: Five breaths converging on Idony's glasses.
-Status: first draft
-Draft notes: Day 316 (night). Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 316 (night). Decided here (settled as drafted):
 - **Why they meet**: Rowan's council at dusk 316 settled the line and the river; **the lion and the three are the only things on the river that aren't a kingdom's**, and no one at the table can tell either of them where to stand; Rowan: "You'll settle it between you. Tonight. I'll not have you settle it on the day." **Liss's ferry, mid-eddy**, at the second hour of the night: neutral water, neither bank. Liss at the windlass; she stops the scow on the rope in the middle and stays at the windlass with her back to them.
 - **The night**: hard frost; the Bridle (come down the Iron Road, 62) set on the Ferry Flat since d.314, twelve engines banked and warm on their beds, green lamps, the ring in its cradle with its stage; the batteries' braziers; fires on both walls; the Lamp's light in the eastern meadow; the Lady lying in the eddy by the ferry rope, her head on the water a little way off, watching.
 - **Where the lion stands**: on the river at the eddy's downstream lip (the Wend's bed is his to raise), between the two batteries, where the Last Titan will come out of the west and down into the river; **three shadows, one in each of three sectors** where the line is thinnest (the Hearthmere bend, the Wyldmarch's river end, Saltreach's scrub end); **"the Accord counts him as four"**.

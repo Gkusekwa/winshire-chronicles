@@ -7,8 +7,8 @@ Days: 99–102 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Coldtarn
 Beats: Tor Brecc and Skell to the black tarn. Arn and Ulric pour together, one hand each, as Teo made them *(Book 1 ch. 8)*. The Clan stands against the Restoration *(canon)*; the chief's chair stays empty between them. Corvin has lost the dragons he hoped to take *(canon)*, all but four. **The Clan gives Calder his errand**: bring the four home, and bring back the names of whoever paid for Teo. "You're the only one of us who can follow a coin."
 Echo of the other's story: A Wyldmarch trader on the Scarfell road: the great one has flown west, and the clans are at the Moot on the lake; if the lion-woman is anywhere, he guesses, she's with them.
-Status: first draft
-Draft notes: Day 99 to day 102. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 99 to day 102. Decided here (settled as drafted):
 - Day 99: the captured binder in Varrhold's yard. Ulric questions him; he says little, except that he was hired at Wendmouth and paid in advance. In his purse: twelve coins of new silver, Saltreach coin (a ship on one face, a wave on the other), each with the ring of six struck small into the rim, the burr still on the edge: the coin man's silver from the autumn (Book 1 ch 24). Calder knows them. Nobody else in the yard does.
 - Night 99 to day 100: Arn reads the book. Calder finds him in the hall at midnight, alone, by the east fire, with the ledger open on the high table beside the empty chair under its cloth, and the board with the boot-print in clay propped against the chair's leg. Arn has sent Gorm for it; nobody asked him to. He reads till dawn, with his finger under the lines like a boy, because he's slow at it. He stops at the horse. At dawn he closes it and says nothing to Calder at all, and goes out.
 - Day 100: the dead carried up to Coldtarn: Tor and Skell on one bier drawn by four of the ledges' dragons on ropes; three of Arn's riders, two of Ulric's. One pyre, on the shore, for all of them, red thread and grey together. Arn says it; nobody argues.

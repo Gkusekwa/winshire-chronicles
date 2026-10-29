@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Three: The Long Autumn
 Beats: In Wendmouth, Calder hears the Restoration's leader speak to a crowd: warm, persuasive, a man people want to follow. It is the same day Maren saw him at Ferriby, a hundred leagues north, though nobody in the crowd can know that.
 Echo of the other's story: A beast-seller grumbles about a Hearthmere knight-student up north who sits with monsters instead of killing them.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 32: Calder walks into Wendmouth alone. The dragons lie up in the Wendwood, five leagues upriver: too far to speak, close enough to feel. Vey: the house on Gallows Quay buys anything with horns or wings out of the Marches. From Chapter 24: the coin man; new silver with the ring of six on the rim. From Chapter 5: the rumour that the leader spoke in a Saltreach port and led a raid in Hearthmere on the same day.
-Draft notes: Day 49: the day of Ferriby (Chapter 33). Calder leaves the dragons in the Wendwood before dawn after the third night's flying, walks five leagues down the drove road, and is in the city by late morning; he walks back out to the Wendwood that night. Decided here (proposals):
+Draft notes: Day 49: the day of Ferriby (Chapter 33). Calder leaves the dragons in the Wendwood before dawn after the third night's flying, walks five leagues down the drove road, and is in the city by late morning; he walks back out to the Wendwood that night. Decided here (settled as drafted):
 - Wendmouth: the four trading houses (Marrow, Quill, Strand and Halloran), each with its own colours, quays and guards; painted warehouses on stilts over the mudflats; the floating market of lashed boats; the Tidesteps, a great flight of stone steps from the Strand down to the harbour, where anyone may speak.
 - Calder lodges at the Low Lantern, a refugees' doss-house by the fish-docks, three coppers a night, sleeping on the floor among people from the Marches.
 - The leader speaks on the Tidesteps at noon to two or three thousand. The crowd calls him **Vale**. Tall, long pale face, clean-shaven, dark hair cut short, grey eyes; warm, laughing, a voice that reaches the back without shouting. He touches people. He remembers names. He's the man everyone wants to stand next to.

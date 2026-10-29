@@ -7,8 +7,8 @@ Days: 126–135 (Book 3 count; day 0 = dusk on the day the six went up from the 
 Ends at (chapter-end map): The Lit Shore, the *Kittiwake*'s anchorage
 Beats: Kit on the far shore, keeping the custom. One of her crew sleeps ashore against orders and doesn't wake: the light takes the sleeper's breath (Magic §3, the toll, from the place's side). Gannet chips far-stone and copies the pages of Idony's notes that Maren wrote out, to sell at home. Kit wants to leave; the contract says wait.
 Echo of another story: Up in the hills, a lion lying in the light, and a woman beside him, very small.
-Status: first draft
-Draft notes: Days 126–135. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 126–135. Decided here (settled as drafted):
 - **The days**: the custom kept: ashore by day in pairs, back by dusk; casks; fish from the lagoon (Tansy catches them by hand: they swim to her); the crew restless; nobody's ever stayed this long; Hal's longest was six days.
 - **Sim**, night 128: the elder of the brothers, seventeen; he and Nye on the boat-watch at the road's end at dusk; Sim says he'll go up the road a little way to see the light close, just to see it; Nye says don't; Sim goes; Nye, in the boat, shouts for him once and doesn't leave the boat (the rule: the boat never left); Sim doesn't come back. **Dawn 129**: they find him a quarter-league up the road, lying on his back on the paving in the grass at the road's edge with his eyes open, looking at the sky, smiling a little; not breathing; warm; no mark. **Idony** (who comes ashore to look, Kit lets him): "It took his breath. The light. It drinks. Like the six. Only gently." *(The toll, from the place's side, Magic §3.)* Kit: "He wasn't asleep long." Idony: "He didn't need to be."
 - **Sim buried** on the beach above the tide-line by the milestone with no number; Kit won't take him home (she said she wouldn't, ch. 14); Nye digs it; Ferris says the words; Kit pours salt.

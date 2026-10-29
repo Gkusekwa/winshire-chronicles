@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Six: The First War
 Beats: The Restoration gathers on the island and along the Saltreach bank: boats, ladders, cages. Greyhold arms and shuts its gate. Outcast, Maren watches from the Brackenwood.
 Echo of the other's story: The Old Ruin is full of fires and men.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 65: Maren and the lion left the island before first light on day 140 and went west over the fields toward the Brackenwood; Tam: when the Ram's Head army crosses to the island the knights will go up to Redwatch to hold the bank, and Millbrook will rise behind them; Liss, Ada, Wren, Bel and the children at Millbrook (the refugee camp by the water-meadows). From Chapter 63: the gate; Grieve and the chest. From Chapter 62 (Calder's side): Greyhold's forges; the great chain.
-Draft notes: Days one hundred and forty and one hundred and forty-one. Decided here (proposals):
+Draft notes: Days one hundred and forty and one hundred and forty-one. Decided here (settled as drafted):
 - The Brackenwood's eastern edge stands on a long rise, Hollin Knowe, two leagues west of the river. From the old beacon-stones on the top of the knowe you can see the whole reach: Redwatch, the island, Harrow's End on the far side, and downriver the smoke over Greyhold.
 - The lion doesn't want to be there. It paces the edge of the trees all of day 140, looking east toward the island, and twice starts down the slope and stops. It doesn't go. It comes back and lies down where she is. She doesn't know why it stays. She doesn't ask it to.
 - It hunts at night and brings back nothing; she eats the bread from her sack and drinks from a spring under the beacon-stones.
@@ -15,7 +15,7 @@ Draft notes: Days one hundred and forty and one hundred and forty-one. Decided h
 - Day 141: Greyhold's gate opens at dawn and the orders ride out up the River Road toward Redwatch: two hundred knights and more, greyharts, hounds, Thorne's boar in a wagon-cage, the great new chain under canvas on a dray-wain. The gate shuts behind them. She sees, from the knowe, that Greyhold's left with a handful on its wall. Exactly what Tam said.
 - She thinks about going down to warn them. She thinks about what they'd do with an outcast who came out of the Brackenwood with a lion. She goes anyway, halfway, to a hedge above the road with the lion behind her; the wind has gone into the west and the greyharts in the column scent the lion, a hound bays, a knight pulls out onto the verge with his crossbow. She turns back up to the stones. She thinks about Millbrook, and Liss, and a girl called Wren in a camp by the water-meadows. She doesn't know which way to go.
 - The echo: at dusk on day 141, the island is full of fires. Every part of it, the fort and the shores and the oaks, red points in the dark, so many that the island looks like a coal. The lion stands on the beacon-stones and looks at it and makes a sound she's never heard: low, long, broken, like a question nobody answers.
-- Magic (proposal): Maren remembers the licensed smith-reader saying words into each link of the crown's new chain at the quench (Calder's 62 from the other side); the infirmary's two younger licensed surgeons ride with the column on mules; the old surgeon whose words failed at midwinter stays at Greyhold (he is behind the barricade in 75).
+- Magic (as drafted): Maren remembers the licensed smith-reader saying words into each link of the crown's new chain at the quench (Calder's 62 from the other side); the infirmary's two younger licensed surgeons ride with the column on mules; the old surgeon whose words failed at midwinter stays at Greyhold (he is behind the barricade in 75).
 notes -->
 
 ---

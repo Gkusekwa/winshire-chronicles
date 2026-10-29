@@ -7,8 +7,8 @@ Days: 0–1 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Liss's ferry house, Greyhold landing
 Beats: Days 0–1. Aurveth can't fly *(canon)*; she walks the River Road with Kharrak under her shoulder. The ferry house: Wren, who makes him say it twice; Liss; Ada and Bel from the Long Barn with the children and the greys. That night he tells Maren everything he heard under the arch. She believes him, and she can't prove it either. On Liss's table: the six-knife, the iron ring, two chains with Odo's hammers *(canon)*. Neither of them suggests going anywhere together.
 Echo of the other's story: Greyhold's noon bell doesn't ring: the first day in three hundred years the bell itself is silent (on the day of the gate it rang and nobody answered it, Book 1 ch. 69).
-Status: first draft
-Draft notes: Noon of day 0 to the first grey of day 1. Decided here (proposals):
+Status: near-final draft
+Draft notes: Noon of day 0 to the first grey of day 1. Decided here (settled as drafted):
 - The three leagues from Redwatch to Greyhold landing take the whole afternoon: Aurveth on three legs with Kharrak under her chest, resting every quarter-league. They come down to the landing at dusk.
 - The noon bell: Maren keeps looking downriver at noon; Calder asks; she says it has rung at noon every day for three hundred years. It doesn't. (The echo.)
 - On the road: refugees from Millbrook coming back to look at what's left; a knight's widow with a hound that won't leave the road; nobody stops them. Kharrak says what everyone's thinking, which is that they're being let go.

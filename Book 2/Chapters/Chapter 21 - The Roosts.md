@@ -7,8 +7,8 @@ Days: 98 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Roosts
 Beats: The same night: Corvin's raid on the Clan's dragons, with **honey-smoke on the wind**. It opens bonded and unbonded alike; Lisska feels herself coming loose from Calder "like a boat off its rope", and he holds her through the bond until his nose bleeds. Gunna Tarne and Tamsin go down into the smoke for the young ones and are dragged out burned, alive. **Tor Brecc**, Hallam's grandson, and his young dragon Skell die there together. Arn and Ulric fight on one ledge. Corvin gets away with four bound young dragons.
 Echo of the other's story: The stones of the Roosts hum toward the east.
-Status: first draft
-Draft notes: Day 98, afternoon, to dawn on day 99. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 98, afternoon, to dawn on day 99. Decided here (settled as drafted):
 - Why everyone's there: midsummer is the Clan's choosing night. Under the old law the choosing stands outside any quarrel: every family's young who are of age stand on the Choosing Ledge, the long ledge below the Roosts, before the young dragons let out of the pens, and wait to be chosen, or not. After the board under the chair (ch 19), Arn sends word to Skarrow on day 85: Ulric's young may come to the choosing, under the old law, with Ulric and twenty. It's the first word Arn has sent his uncle since the ford. Ulric comes on day 97.
 - Lisska came home on day 88 (flight 2). She's speaking again, a little.
 - Day 98, dusk: the young dragons out of the pens on the Choosing Ledge, forty of them, yearlings and two-year-olds, restless; thirty young people of the Clan, Arn's and Ulric's, standing in a line with their families below in the yard; fires on the ledges; the ledges' bonded on the cliff above; Gunna and Tamsin down from the caves for it; Ada and Wren at the yard's edge with Old Grey. Tor Brecc, Hallam's grandson, nineteen, bonded two midsummers ago to a young blue called Skell, stands with the ledges for the first time.

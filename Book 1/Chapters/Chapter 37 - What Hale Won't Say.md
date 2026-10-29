@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Three: The Long Autumn
 Beats: Hale, grieving a friend or drunk, mentions the legend of the Last Titan and stops short. Maren sees fear in his face.
 Echo of the other's story: A report: the dragon farmer is heading north toward the river.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 35: the black door at the end of the archive; "From the closing"; the inner circle "keeps a watch nobody else is told…"; Hale ashamed of being glad the farmer went south: "because he's three… the last time anything like that happened…" From Chapter 27: old Merrow and his ox-beast in the Long Barn. From Chapter 13: the verse, "…the last … sleeps … below the stone … let no hand wake it…"
-Draft notes: Days 54–58. Decided here (proposals):
+Draft notes: Days 54–58. Decided here (settled as drafted):
 - Merrow's ox-beast, Dun, dies of age in its stall on the morning of day 56, with Merrow on his stool beside it. Merrow, ninety-one, dies the same night in his bed. It's the gentle face of one life between two: old, together, quiet. Grieve weeps. The whole Long Barn is silent.
 - Merrow was the knight who swore Hale into the inner circle forty years ago. They burn Merrow and Dun together on one pyre on the river shore below the wall at dusk on day 57.
 - That night Hale drinks, alone in the archive, and sends for Maren, which he's never done after dark. He's not falling-down drunk, only loose.

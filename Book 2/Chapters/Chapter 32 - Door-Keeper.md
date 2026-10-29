@@ -7,8 +7,8 @@ Days: 139–140 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Long Library
 Beats: Maren with the bird and Idony. It calls Orrun **"door-keeper"**. It reads the black book's cut stubs and laughs. It reads the white sentence she copied from the knight's lock, and stops laughing; it gives her one word of it: *together*.
 Echo of the other's story: From the Library's high window, a green dragon's shape against the Iron Fells' white tops, going north, and then not.
-Status: first draft
-Draft notes: Day 139 to day 140, dusk. Decided here (proposals):
+Status: near-final draft
+Draft notes: Day 139 to day 140, dusk. Decided here (settled as drafted):
 - Day 139: Idony comes to the shingle with the bird's message: *please*. Maren tells Orrun. He's lain at the water's edge four days. In the night he gets up, of his own choosing, and in the morning he says *I will go up. It asked.*
 - Day 140, morning: up through the city: the lower city's brown lamps, the line at Candle Row (Maren feels it through him: the ground going from thin to full under his feet in one step), the hill. People in doorways. A Warden patrol stops at the top of Rope Street and looks and doesn't come closer. Through the Library's great door, which is high enough (it was built for carts of books); readers stand up from the long tables and back away; an old librarian sits where he is and goes on writing. Half a league. The hum louder with every step. Orrun walks slower as it gets louder.
 - The Old Reader on its perch. It looks at the lion for a long time. Then: "Door-keeper." Orrun stops dead. *It knows.* The bird: "I know your face. Not from life. From a carving on a door that isn't there any more, and from a page that a frightened man cut out of a book." It asks him to come closer. He comes to ten paces and lies down. It says, "You kept it a long time." *Not long enough.* (Maren gives his side aloud for Idony.) "Nobody keeps anything long enough."

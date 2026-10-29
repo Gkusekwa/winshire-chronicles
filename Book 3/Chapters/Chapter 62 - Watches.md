@@ -7,8 +7,8 @@ Days: 300–316 (Book 3 count; day 0 = dusk on the day the six went up from the 
 Ends at (chapter-end map): The hub, where the island was
 Beats: Tobin brings the Bridle to the Marches with Sarovel's hands on Kessmoor's engine-trains, green lamps in a line a league long down the Iron Road. It's set at the hub, where the island was, in the centre of the line; Kessmoor's batteries on either side. Odo stays behind in Ironhythe. Liss brings soup across to the battery crews on her ferry. Then the night before. The battery-masters set their watches by the Hall of Measures' clock, and there are sealed orders "to be opened on the hour the relic is in reach". Callis nearly tells Tobin something, and doesn't. A hooded man climbs to the stage in the dark and puts a hand on the chain-runes; Tobin can't see whose.
 Echo of another story: The lion lying on the rampart, very still.
-Status: first draft
-Draft notes: Days 300–316. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 300–316. Decided here (settled as drafted):
 - **The call**: Rowan's word by semaphore d.297 (after the council of d.296): *Bring the fallback.* (Her word, as the minute says; she calls it to the field, not to fire.)
 - **The engine-trains**: d.300 out of the Coldrun sidings at dawn; **Kessmoor's road-engines** (steam tractors, iron-wheeled, chimneys, each the size of a cart-shed) haul the flats in strings of four along the Iron Road (canal-side in Kessmoor; cracked ordinary road in Hearthmere past the border); **the twelve engines, ninety-six chain lengths, the ring's double flat**: a hundred and eight flats, twenty-seven strings; **green lamps on every flat**; at night on the Hearthmere downs **a line of green lamps a league long**; Sarovel's hands walk beside, three thousand, with crowbars and ropes for the bad places; **ten days** (d.300–310) because Hearthmere's road is broken and the bridges have to be shored.
 - **Odo stays**: d.300 on the towpath at the sidings in his chair; "I'm too big for a flat"; he tells Tobin the seventh engine's left sledge-runner is cracked and to watch it; he doesn't laugh; "Tell Tam the canals are very fine."

@@ -5,8 +5,8 @@ POV: Maren
 Part: Part One: Two Banks
 Beats: Pell teaches subdue, don't kill, and shows the class why: the bonded wyvern on the coast road below Stillhaven that took his fingers, and the knight who killed it and died of it. Tobin, unbonded and bitter, has a pamphlet with two words on it: "One again." Haverly and Kesh, and the shape of a rivalry that isn't hatred.
 Echo of the other's story: News across the water: the Clan nearly came to blows at the old chief's ashes.
-Status: first draft
-Draft notes: About ten days after Chapter 1, the days after the Millbrook fair and the night of the new moon. Decided here (proposal): Pell's story. Thirty-one years ago, a wyvern came out of a Saltreach company's camp on the coast road below Stillhaven; it took Pell's fingers; his friend Aldo Venn killed it with a spear. It was the rare thing, a bonded wyvern: bonded to a pirate girl of about fifteen, who dropped dead on the shingle a hundred yards away. Aldo walked into the sea at Stillhaven a year later. Maren's report from Chapter 5 went up to Knight-Captain Rowan and came back with one word: "Noted." Tobin's pamphlet: a woodcut of six hands joined in a ring, and two words.
+Status: near-final draft
+Draft notes: About ten days after Chapter 1, the days after the Millbrook fair and the night of the new moon. Decided here (as drafted): Pell's story. Thirty-one years ago, a wyvern came out of a Saltreach company's camp on the coast road below Stillhaven; it took Pell's fingers; his friend Aldo Venn killed it with a spear. It was the rare thing, a bonded wyvern: bonded to a pirate girl of about fifteen, who dropped dead on the shingle a hundred yards away. Aldo walked into the sea at Stillhaven a year later. Maren's report from Chapter 5 went up to Knight-Captain Rowan and came back with one word: "Noted." Tobin's pamphlet: a woodcut of six hands joined in a ring, and two words.
 Magic touches: Pell had a licensed battle-word to make a horse stand; it worked, and the wyvern took the horse standing.
 notes -->
 

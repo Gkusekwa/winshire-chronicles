@@ -7,8 +7,8 @@ Days: 84–86 (Book 3 count; day 0 = dusk on the day the six went up from the Sc
 Ends at (chapter-end map): The Merrins' reef channel
 Beats: Orrun and two shadows lift the reef-stone out of the Merrins' channel at low tide, with the Bell's back moving like weather a league out. The contract is done. Then the Ostrey factor arrives to collect the debt and learns where the Merrins are going and why. Their secret is out, and Maren's crossing is what sold it.
 Echo of another story: Through Orrun, Lisska at last: Corsa's chain is up, and the Bell is off the Saltings.
-Status: first draft
-Draft notes: Days 84–86. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 84–86. Decided here (settled as drafted):
 - **Night 84, the low water**: the *Kittiwake*'s boat in the channel's throat with Kit, Jory and Maren; Orrun swims out from the reef (he hates the sea; lions don't swim; he does) and stands on the reef's lip waist-deep; **two shadows** come up out of the reef itself, grey stone lions, and go down into the channel either side of the chapel-sized block. Maren on the reef's top with both hands flat on wet rock.
 - **The lift**: the shadows get their shoulders under the block's ends; Orrun on the reef pulls stone up through her (bond gift, works on dead ground and on the sea's floor; the sea's tidal, not running, so nothing breaks); the block rises out of the water a foot at a time, streaming, the hooked script on its top face catching the lantern (Idony on the *Kittiwake*'s deck shouting what it says: *into the light, none*: it was a shore-stone carried out to the road's end once, he thinks, to stand on the road's first pier); the shadows walk it along the channel and set it down on the reef's shoulder, where it'll stand above high water from now on. Jory sounds the throat: five fathoms.
 - **The Bell**: while the block's in the air, a league out, the sea moves: a long low shape like a reef that isn't there, going west, slowly, the water piling white along it; then the sound, once, very far and deep, a bell under water. The block doesn't drop. The shadows hold. Kit in the boat: "That's my father's water."

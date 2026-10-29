@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Four: The Frozen River
 Beats: Restoration forces mass in the Marches. The civil war is still bleeding the Clan, and Harrow's End is in the path.
 Echo of the other's story: Sellswords say they've been paid to bring in "the knight with the lion" as well as him.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 52: the camp at the Ewe Beck burned; "Enemy of the one realm"; Old Grey home, empty. From Chapter 53 (Maren's side): fire on the hills above Harrow's End on night 105, a hundred men with torches put to flight. From Chapter 48: Hallam Brecc and Morrow; the eleven bonded pairs on the Roosts ledges; Arn and Ulric won't stop. From Chapter 38: the camps on the drove road up the Wend.
-Draft notes: Days one hundred and five to one hundred and twelve. Decided here (proposals):
+Draft notes: Days one hundred and five to one hundred and twelve. Decided here (settled as drafted):
 - Night 105: they come for him at Upper Rush. About a hundred: Restoration men with rings, bound hounds, and hired swords from the coast. They come up from the river lane toward Bel's in a line with torches. Lisska sees them. The dragons meet them on the hillside below the farm. Calder tells them: drive them, burn the ground in front of them, kill only what won't turn. Some don't turn. Eleven dead on the hill by morning; the rest scatter to the river lane.
 - Kharrak brings one back alive in his claws: a sellsword, a coast man called Brask, from a Wendmouth free company. He's not a believer. He wears no ring. He's paid: ten silver a man to come up the river; two hundred for the farmer, alive; "and the same again for the knight with the lion. Over the water. A woman. Greyhold." Structure (revision): told as a bargain, not a speech. Calder presses; Brask gives up what he knows a piece at a time to keep his legs, and holds back the knight with the lion until Calder gives his word he'll walk. Calder keeps it against Kharrak, and lets him go at dawn with his boots and nothing else. (Brask owing him his life sets up Book 2 ch 7, 14, 30.)
 - Days 106–108: Calder moves out of Bel's house to Crow Scar with the dragons, so that whatever comes looking for him comes there. He goes down to Upper Rush only by night, to see Wren.

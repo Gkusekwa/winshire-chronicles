@@ -7,8 +7,8 @@ Days: 325–328 (Book 3 count; day 0 = dusk on the day the six went up from the 
 Ends at (chapter-end map): Coldtarn
 Beats: Arn and Ildra after the quiet. She doesn't leave; she can't speak to him. The pour on Coldtarn for everyone: Kharrak, Lisska and Aurveth; Ulric, Gunna and the riders; Rowan, Tobin, Gannet; Orrun; and the beasts of every kingdom that died on the line. "Who pours?" Arn pours. Calder pours. The chair is under the mountain somewhere, and nobody will sit in it again.
 Echo of another story: The lion-woman sitting all night on the fallen stone of the door, and not cold.
-Status: first draft
-Draft notes: Days 325–328. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 325–328. Decided here (settled as drafted):
 - **D.325 the storm drops**; the knight **opens a way** through the fallen stone: she puts her hand on the door-stone and asks it, and a narrow passage opens up through the fallen mountain beside the lintel to the outside, "as water opens round a hand"; the first time she's used what he gave her; she doesn't open the whole door ("Not yet. It's warm in here. It's winter out there."); the hall stays inside; a few go out.
 - **Outside**: the bowl changed: the western crag gone; a new slope of fallen mountain from the bowl's rim to the tarn's edge, burying the old slope, the beck's mouth, Aurveth, the two lions; Hollow Beck coming out under it somewhere further west; the tarn's black middle still steaming, smaller (the fall took a third of the shore); snow over everything; **no smoke anywhere**.
 - **Ildra**: she stays; she follows him out; she lies by him; **she can't speak to him**; she brings him a hare on d.326 and puts it at his feet and waits, as a dog does; he says *thank you*; she looks at him; there's no fire (none lit since the door shut); he gives it back to her and she eats it.

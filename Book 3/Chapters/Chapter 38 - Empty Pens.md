@@ -7,8 +7,8 @@ Days: 140–150 (Book 3 count; day 0 = dusk on the day the six went up from the 
 Ends at (chapter-end map): The Saltreach coast
 Beats: Arn on the coast. The Clan flies Saltreach's coast people inland toward the Marches. The pens stand empty; half the freed dragons stayed and half went to the Scarfell's high glens. The Clan doesn't fly alone: Saltreach's wyvern companies, under Accord contract, take the low coves the dragons can't, and the Wyldmarch's roc-riders, a handful of them, come down the coast from the Worldsend to carry the Saltings' children inland, a roc lifting a child as easily as a yearling elk, which no Clan rider has ever seen *(Bestiary: Worldsend rocs)*. Riders lost to the Bell's surf. The riders offer him the empty chair, and he won't take it: "The chair's for whoever pours."
 Echo of another story: Every dragon in the Clan turning its head south-west at the same hour, and crying.
-Status: first draft
-Draft notes: Days 140–150. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 140–150. Decided here (settled as drafted):
 - **The order**: Rowan's, from the Accord's camp behind the Wend (d.138 by courier): the coast to be emptied inland behind the Wend: the Corsa terrace, the Saltings' fishing villages, the hamlets of the Ashlings scrub, Wendmouth's outskirts; "hold people, not ground" (her lesson, ch. 23). Arn has the coast since d.117 (ch. 26).
 - **The Clan on the coast**: Brede's forty pairs (Ulric's that were), Arn's twenty, and **thirty more of the freed** (from the pens, ch. 18) who followed Ildra south without being asked and fly loose with the pairs and carry nothing at first, then carry; **the pens at Varrhold stand empty** (Gorm's word by rider: half the freed stayed on the ledges and crags round the hold; half went up to the Scarfell's high glens and haven't come down).
 - **The baskets**: war-harness baskets, twenty to a pair, as at Gullhaven (Book 2); inland over the Ashlings to the Wend's crossings; the Corsa terrace's hulk-folk go by cart on the Track with Dorcas (the hulks stay on their hill; Dorcas bangs her pan and the blind stonehorn follows the carts).

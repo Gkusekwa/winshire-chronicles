@@ -7,8 +7,8 @@ Days: 89–93 (Book 3 count; day 0 = dusk on the day the six went up from the Sc
 Ends at (chapter-end map): Blackwater
 Beats: What's left of the Tide Council meets in Blackwater. It seizes the Merrins' route and sells **Far Berths**, passage for the rich to a "Titan-free" shore, at three hundred gold a head. It takes Jory as pilot for its fleet. Kit has to sail Maren now, before the Council impounds the *Kittiwake*. She chooses the contract she swore over the Council's: a breach that will leave her **unsalted**, outside every contract in the League. Refugees as cargo; insurance on drowned towns; prices rising by the hour.
 Echo of another story: A lion lying on the stone ballast of her ship like a dog by a fire.
-Status: first draft
-Draft notes: Days 89–93. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 89–93. Decided here (settled as drafted):
 - **D.89 the houses come in**: the fast ships that paid the chain at Corsa at dawn on 88 (ch. 19) run east along the coast ahead of the Bell and into Blackwater: twenty-odd hulls; Strand, Ostrey, Quill and the rest; Rennick's three black ships behind. Blackwater has never had the Council in it. The stilt-houses pull up their ladders again, for people this time.
 - **D.89–90 the Bell passes**: far out, a white line moving across the inlet's mouth from west to east and then turning south, out over the Shatters; the bell once, faint; the whole inlet on its walkways watching.
 - **The Council at Blackwater**, d.90: in the roofless boathouse on the north shore, the only building big enough (the dragons' boathouse: Kit enjoys that); the Houses' Table is a row of sea-chests; the Bench is the shingle. **Mistress Celia Ostrey** (the grey woman of ch. 9 who said *herring season*; head of the House of Ostrey; calm; tall; grey silk) is named Speaker, Marrow being under the Tidehall; Aubrey Strand seconds; Rennick for the Bench with his boots on a sea-chest.

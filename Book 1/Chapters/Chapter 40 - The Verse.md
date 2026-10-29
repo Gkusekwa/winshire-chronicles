@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Three: The Long Autumn
 Beats: Lisska remembers the carved verse at the Old Ruin. If anything answers "why me?", it's the old realm. Calder decides to go there, as soon as the river lets him.
 Echo of the other's story: Lisska says the knight-student and the beast are at the ruin most days now.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 38: Calder at his sister Bel and Joss's farm at Upper Rush with Ada, Wren, and Bel's children Pip and Nan; the price on his head; the soft-spoken man asking at Ada's door. From Chapter 39: on the night Ide Darrow died, three dragons were seen high over the river going north. From Chapter 28: Aurveth's memory of the white bridge and the grey cat on the tower steps. From Chapter 22: Ada's third verse, sworn on the hearthstone, "not till I'm sure". From Chapter 13: the verse under the tower arch.
-Draft notes: Days 65–72. Decided here (proposals):
+Draft notes: Days 65–72. Decided here (settled as drafted):
 - Why the dragons were over the river going north at dusk on day 65: Calder sent them to find a winter lie-up in the high Scarfell. Lisska begged to go over the island on the way, "just to see". Aurveth let her, low, once. They went north from there to the old hatching caves above Coldtarn, which the Clan hasn't used in a hundred years, and come back on day 68. Lisska shows Calder her memory that night.
 - Lisska's memory: nine years ago, when she was barely fledged, Imra took her down onto the island one summer night on a dare, which is against every rule of the Clan and the river. Lisska landed in the fort, saw the arch, and saw letters she couldn't read. She remembers every stroke.
 - Through the bond she shows Calder the arch as it was nine years ago. Aurveth, reading through him, reads the old script aloud. The weathering was a little less then: "the last … great … sleeps below the stone … let no hand wake it". There is one more line under it, cut deeper, but Lisska was watching Imra and the memory goes before Calder can see it. (He doesn't get the oath line; that waits for Ada's verse in Chapter 46.)

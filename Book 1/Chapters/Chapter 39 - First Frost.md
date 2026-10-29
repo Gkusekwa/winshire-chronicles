@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Three: The Long Autumn
 Beats: In a skirmish the Darrow girl's hound is killed, and over three days the girl withers. Maren sits with her. It is her father's death again, and she can't stop going to the island.
 Echo of the other's story: On the night the girl dies, three dragons are seen high over the river, going north.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 33: Ide Darrow and Bracken on the patrol at Ferriby ("He always lets go when I tell him"). From Chapter 25: Bracken let Maren into his stall first, and Ide stood beside her at drill. From Chapter 36: forced bindings, beasts in six-dot collars with empty eyes (Calder's side; Maren meets them here without knowing what they are). From Chapter 37: Merrow and Dun "went together"; the lion followed her to the water. Maren's father: his hound was killed by poachers on the Saltreach road; he took four days to die.
-Draft notes: Days 63–66. The first hard frost comes on the night of day 62. Decided here (proposals):
+Draft notes: Days 63–66. The first hard frost comes on the night of day 62. Decided here (settled as drafted):
 - The skirmish: at the Redwatch landing at dawn on day 63. Raiders try to take the river-watch boats themselves. Pell's patrol rides in from Redwatch. The raiders have hounds with them, brindled and silent, in iron collars, with eyes like windows, that don't bark or stop when hurt. Maren notices they fight like one dog moved by one hand.
 - Bracken goes for a raider who has Pell down, and two of the silent hounds take him. A crossbow bolt finishes him. Ide is ten paces off and feels it.
 - The withering: Ide is carried back to Greyhold on a cart. Three days. The first she talks. The second she's cold, and asks for Bracken's blanket. The third (day 65) she doesn't speak. Her mother comes from the south in the afternoon of day 65, too late to be known.

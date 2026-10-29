@@ -7,8 +7,8 @@ Days: 119–129 (the tow 128–137 in summary) (Book 3 count; day 0 = dusk on th
 Ends at (chapter-end map): The Shattered Sea (pier eleven)
 Beats: Calder and the three over the Shatters with the Berths fleet, at its pace, Jory on Aurveth's back reading the milestones the fleet's pilots are missing. The Bell rises under the fleet. Jory finds the one stretch of the drowned road shallow enough to hold a boat off the rocks, and Calder saves two boatloads of passengers there; most of the fleet goes down. He lets Lisska's wind go through him, holding it off the boats (a bond gift, so the sea doesn't break it), and can't breathe for a long time afterwards. Then ten days of towing two boats from milestone to milestone.
 Echo of another story: On a Shatter island, a milestone: *into the light, eleven*, and a Merrin mark scratched under it.
-Status: first draft
-Draft notes: Days 119–129 (the tow 128–137 in summary). Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 119–129 (the tow 128–137 in summary). Decided here (settled as drafted):
 - **D.119 the first pier**: the fleet (sailing day and night, ch. 26) reaches *forty-one* at dusk on 119; **Aurveth comes down on the sea beside Ostrey's flagship**, as Jory said; Jory goes over the rail onto her shoulder; Rennick's men on the deck don't stop him; **Rennick** on his black ship laughs again. Jory rides Aurveth from then on, lying along her neck, calling the stones.
 - **D.121 Rennick turns back**: at the fifth pier, the Council's pilots sail on into the dark; Rennick's three black ships heave to at the pier, and in the morning go back north-east: "I don't sail at night where I can't see the bottom"; he signals the fleet once and goes. *(Rennick survives; later chapters.)*
 - **D.122–125**: eleven ships pier to pier, day and night, fast; Quenby and Loy miss two turns (the fallen piers Jory warned of), and **the *White Heron*** (a Quill ship) strikes a reef in the dark on 123 and goes down with sixty; Calder and the dragons lift eleven off her rigging. Celia Ostrey won't stop; "The Merrins sail this. So can we." Jory calls each turn from the air; they don't hear.

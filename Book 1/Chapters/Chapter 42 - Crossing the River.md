@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Four: The Frozen River
 Beats: Calder crosses the ice to the Old Ruin, hiding the dragons, and narrowly misses Maren and the lion. Each finds only signs of the other.
 Echo of the other's story: Footprints, a broken Restoration chain, the lion's scent that makes all three dragons go still.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 40: Calder crosses alone, on foot, when the river freezes. He carries a warm green scale Lisska shed, inside his coat. Three dragons landing would bring Greyhold's knights; Aurveth is afraid of the island ("it cut me"). From Chapter 41: the white road from the Eelweir to the island's east shore; Kharrak tested the ice on day 77.
-Draft notes: Days seventy-seven to eighty-two. Decided here (proposals):
+Draft notes: Days seventy-seven to eighty-two. Decided here (settled as drafted):
 - Calder winters at Upper Rush with Bel, Joss, Ada, Wren and the children. The dragons have moved down from the old hatching caves to Crow Scar for the freeze, two leagues east of the Fenn farm and within speaking range of the river.
 - Kharrak tested the ice on day 77 without being asked ("Holds. Thick. Tested.") and came back pleased with himself.
 - He crosses on the night of day 81, from the Eelweir, on foot, alone, by starlight. The dragons lie on the hill above the Fenn farm, a league and a half off, so he can still hear them.

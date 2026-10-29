@@ -2,11 +2,11 @@
 
 *The full-length plan for Book 1, built from the established canon in the other notes. Book 1 is now drafted, and the prose is the authority for its events; where a row and its chapter differ, the chapter wins. Each chapter's draft status is kept in its own file's notes (Status:). This plan is maintained by hand.*
 
-**Status: drafted; audited and fixed (Oct 2026).** All 79 chapters are in first draft. What the October 2026 revision settled is in the Bible and in `Book 1/Notes/Rulings_41-79.md`.
+**Status: drafted; audited and fixed (Oct 2026).** All 79 chapters are close to final draft (Oct 2026). What the October 2026 revision settled is in the Bible and in `Book 1/Notes/Rulings_41-79.md`.
 
 ## Shape
 
-- **79 chapters in six parts, across about five months (days 0–144):** from the harvest fair at the end of summer to sunrise on day 144, in early spring (chapters 1–10 fall in the three weeks before the fair, about days -23 to -1) (see the Calendar in `Bible/World.md`). **No upper word limit**; chapters run as long as their scenes need. The first draft came in at about **311,000 words** (about 3,900 a chapter).
+- **79 chapters in six parts, across about five months (days 0–144):** from the harvest fair at the end of summer to sunrise on day 144, in early spring (chapters 1–10 fall in the three weeks before the fair, about days -23 to -1) (see the Calendar in `Bible/World.md`). **No upper word limit**; chapters run as long as their scenes need. The draft runs to about **311,000 words** (about 3,900 a chapter).
 - **Strictly alternating chapters** *(established)*: odd chapters follow Maren (S), even chapters Calder (F).
 - **Echoes** *(established)*: each chapter picks up something from the other's story (the Echo column). The reader always knows more than either protagonist, until they meet.
 - **The arcs converge only at the end:** they meet underground after the seal opens (chapter 78).

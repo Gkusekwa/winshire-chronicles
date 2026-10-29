@@ -7,8 +7,8 @@ Days: 15–45 (Book 3 count; day 0 = dusk on the day the six went up from the Sc
 Ends at (chapter-end map): Solenne's low city; the road north
 Beats: Tobin's first POV. Solenne's low city, where the unchosen have held the ruins since the Grace failed *(Book 2 ch. 63)*: the boy-king's regency on Sorrel Isle, the tribunes, hunger, and the royal olifants hauling rubble for bread like everyone else. Kessmoor's envoy offers wages and bread for labour in Ironhythe's works: whatever alliance comes will need engines. Tobin leads three thousand unchosen north to be "hands" again. He knows what the word means in Sarovel, and goes because they're starving.
 Echo of another story: A letter from Maren, three lines, months old. At the bottom, "Keep the watch."
-Status: first draft
-Draft notes: Days 15–45. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 15–45. Decided here (settled as drafted):
 - **Solenne's low city**, day 15: the mud-brick quarter under the burned white city's walls; the tribunes (street-heads, elected) in the old fish-market; the regency on **Sorrel Isle** under the lighthouse: **Seraphin** (nine, ten now) and a regency council of two tribunes, Old **Sebold** (the hands' master, half-blind) and a lady of the court who came down to the shingle (**Lady Ismay Aurel**, Book 2 ch. 50, 58: she survived the palace and keeps the boy's lessons); Mother Ysa buried under the light (Book 2 ch. 86's letter). The Grace gone: no lamps, the fountains dry, the vineyards grey; spring and nothing planted because the seed was in the palace granaries and the palace burned.
 - **The olifants**: the three royal olifants that stood in the harbour road (Book 2 ch. 63) haul rubble out of the white city's streets in chain traces for bread like everyone; their riders' bonds dull since the drain (Book 2 ch. 63) but the olifants stay with them; "nobody can make them move" (Book 2 ch. 86) is a joke now: they move when they're fed.
 - **Tobin**: twenty or twenty-one; thinner; still all elbows; loud; the tribunes listen to him; Perrin Sade went north with his letter in the winter and hasn't come back.

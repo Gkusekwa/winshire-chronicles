@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Four: The Frozen River
 Beats: Hearthmere's magic flickers. The beasts are restless. Riots in Millbrook; knights ordered to arrest Restoration speakers. Tobin disappears from Greyhold.
 Echo of the other's story: Rumour: the dragon farmer was seen on the island at the turn of the year.
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapters 31, 33–35 and 45: Absalom Reede; Tam's ring; Vale on the Tidesteps and the two-places legend; the paper on the river gate; Callis's broken collarbone; Tobin missing from the Millbrook muster. From Chapter 46: on the night of day 90 every light at Greyhold went out, as Ada finished the verse, and came back.
-Draft notes: Days ninety to ninety-six. Decided here (proposals):
+Draft notes: Days ninety to ninety-six. Decided here (settled as drafted):
 - Night 90, an hour before midnight: Maren is in the Long Barn doing late rounds when every lamp in Greyhold goes out at once. The lamps that burn without oil are the crown's licensed magic and have never failed in living memory. In the dark every beast in the barn rises at the same moment, silent. The ground under the barn floor hums, faintly, through her boots. Then the lamps come back, and the beasts lie down.
 - Days 91–96, it gets worse: lamps dim and flicker at odd hours; the warming-stones in the infirmary go cold for a night; the old surgeon's bone-setting charm fails on a groom's wrist, and he swears and sets it by hand. Greyhold says: the cold. Nobody believes it.
 - The beasts: Kesh won't settle even with Haverly in the yard; the hounds won't go near the north end of the yard; Captain Thorne's boar breaks its stall door; the cat nobody owns sleeps on the archive stair three nights running.

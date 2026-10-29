@@ -7,8 +7,8 @@ Days: 348 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Greyhold landing
 Beats: That night every dead lamp in Hearthmere flares for an hour: **the stir** of the last temple. The Titan, stronger with five relics, is drawing on the held breath under Greyhold from a sea away, and the hub is answering. People run into the streets weeping, thinking the light's come back. Idony's notes said it would happen; Maren knows it means the Titan is coming home.
 Echo of the other's story: The river at the landing rising a hand's breadth in an hour with no rain, as if the sea had drawn a breath somewhere south.
-Status: first draft
-Draft notes: Night 348. Decided here (proposals):
+Status: near-final draft
+Draft notes: Night 348. Decided here (settled as drafted):
 - **Idony's word** (what "Idony's notes said"): at the stage-house kitchen table in Sarovel, writing the word-list (ch 65), he said it aloud and she wrote it under the list in her own hand: *When it has five, the middle will answer. Every dead lamp will light. An hour. Maybe less. Don't let them think it's come back. It means it's coming home.* She has it in the black book with the list.
 - Evening 348: the ferry still running (the last of Penfold and Ferriby); Liss on the boat; Tam at the night lantern; the Saltreach bank's fires up the Way; Greyhold behind on its hill dark except for the crown company's torches.
 - **The flare**, about the second hour of the night: the dead glass lamps on Greyhold's river wall (ch 2: black glass on iron posts since the spring) light: all at once: white, the old lamp-light that came from nowhere, brighter than they'd ever been; then up the hill; then Millbrook's two leagues downriver; then she can see them going on along the River Road north, tower by tower, Northwatch, Redwatch, and the sky to the west going pale over the downs toward Hallowmere: every lamp in Hearthmere at once.

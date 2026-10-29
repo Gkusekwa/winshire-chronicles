@@ -7,8 +7,8 @@ Days: 178–205 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): The Coldrun canals; the Scald cordon
 Beats: Down the Coldrun canals in autumn sleet. Spoken magic is a crime; a lion needs guild papers; Idony travels as an unringed "measurer". Kessmoor calls the Deep **the Bleed** (Magic §7). An Assembly escort meets them anyway: Kessmoor has been waiting forty years for the Scald to wake. Master Engineer Agathe Pike shows them the cage she's built since Orrin, a ring of iron and chilled canals round the Scald.
 Echo of the other's story: A Hearthmere envoy on the canal barge, buying chain, and complaining about a dragon farmer in the Marches.
-Status: first draft
-Draft notes: Days 178–205. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 178–205. Decided here (settled as drafted):
 - Route: Vael west round the end of Glasswater and along under the High Crown's southern flank, then south-west over the Fells' western saddle (the Kessmoor pass, snow from day 183), down into the head of the Coldrun valley: days 178–188 on foot, Orrun breaking the drifts. The country dead all the way to the saddle (Isvaren's drain); Idony's glass stands dead and then, on the far side of the saddle (day 186), lifts a hair: Kessmoor ground is live, thin.
 - Maren's arm: back by the evening of day 178, aching; she can use it by day 180.
 - Idony's back: he walks with a stick and stoops; by day 200 he can stand nearly straight but not for long.

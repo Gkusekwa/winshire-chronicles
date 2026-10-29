@@ -5,9 +5,9 @@ POV: Maren
 Part: Part Five: Thaw
 Beats: Knight-Captain Rowan orders Maren to lure the lion into a trap so the Restoration can't take it. She refuses.
 Echo of the other's story: The order also covers "the farmer with the dragons, if he crosses."
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 53: Rowan's room at the top of the north tower; "You'll not go further than you've been"; the report that says only "it digs". From Chapter 55: the collar struck off "at the beast's leave"; Pell's "Is there anything else?" From Chapter 51: Thorne in the archive: "Then we'd better start deciding what to do about it." From Chapter 57: the hedge-meeting; Odo's hammers; Vale's "I forgive Calder Fenn". From Chapter 54 (Calder's side): two hundred silver for "the knight with the lion".
-Draft notes: Days one hundred and twenty-four to one hundred and twenty-eight. Decided here (proposals):
+Draft notes: Days one hundred and twenty-four to one hundred and twenty-eight. Decided here (settled as drafted):
 - Days 124–125: back on Pell's patrol at Redwatch. The river's high and full of floes; Ottery takes her over in the punt only once, on day 125, at first light, when the night frost has slowed the melt and the floes run thinner. The lion is in the pit, which is flooded to the stone now. It stands in the water and scrapes. Since the collar came off it lets her come to five paces. Once, she lays her hand on its foreleg. It lets her.
 - Day 127: Rowan sends for her. Thorne is in the room, by the fire, with the ledger.
 - Rowan is inner circle but not Watch: she was told the secret as Captain of Greyhold, when she took the school. She knows what's under the hill. She knows Maren knows. "Hale's a bad liar, and you're a worse one."
@@ -18,7 +18,7 @@ Draft notes: Days one hundred and twenty-four to one hundred and twenty-eight. D
 - Rowan tells her there's a price on her on the Saltreach bank. Two hundred silver, the same as the farmer. A sellsword Pell's patrol pulled out of the river at Redwatch on the evening of day 126 said so. "They want you because the beast follows you. So do we. That's the only difference between us and them, Ashdown. We'll keep you."
 - Maren refuses. Plainly. "No." Rowan asks her three times. Three times no. Rowan: "Then I'll do it without you, and it'll go worse." Maren: "Then it'll go worse."
 - Rowan takes her off Pell's patrol and confines her to Greyhold: the midden, the barn, the dormitory. No island. Thorne walks her down the stair. At the bottom Thorne says, very low, "I lifted my hand to him, you know. The farmer. In the autumn. The morning after the burning. It was the only right thing I did that whole night." And goes.
-- Magic (proposal): Greyhold's licensed lamp-tender, thirty years walking the walls with the lamp-words, now fills oil-cans in the stores yard with his licence still on its cord.
+- Magic (as drafted): Greyhold's licensed lamp-tender, thirty years walking the walls with the lamp-words, now fills oil-cans in the stores yard with his licence still on its cord.
 notes -->
 
 ---

@@ -5,9 +5,9 @@ POV: Calder
 Part: Part Four: The Frozen River
 Beats: Calder tries to make Ulric and Arn stop. Neither will.
 Echo of the other's story: Arn mentions a Hearthmere student who keeps company with a monster: "the kind of madness we could use."
-Status: first draft
+Status: near-final draft
 Carried forward: From Chapter 16: Arn holds Varrhold; Ulric went to Skarrow; the other bonded pairs shut themselves in the Roosts under the no-kin law. From Chapters 36 and 38: the forced binding on Gallows Quay; the camps up the Wend with bound beasts drilling. From Chapter 46: the Restoration's paper names Calder as the sign; Ada's verse. From Chapter 24: the coin man; Gorm Askell; Sten Raske.
-Draft notes: Days ninety-two to ninety-eight. Decided here (proposals):
+Draft notes: Days ninety-two to ninety-eight. Decided here (settled as drafted):
 - After the verse and the paper, Calder decides to do something for the first time instead of waiting. He'll go to both Varr and ask them to stop, because the Restoration grows on their war: every burned farm sends more people to the camps and the rings.
 - Day 93: he flies to Varrhold on Aurveth, openly, in daylight, with Kharrak and Lisska behind. They land in the hold's yard. Nobody shoots. Arn comes out.
 - At Varrhold:

@@ -7,8 +7,8 @@ Days: 300–312 (Book 2 count; day 0 = the sunrise of Book 1 ch 79)
 Ends at (chapter-end map): Solenne, the palace
 Beats: Idony below stairs among the court's unbonded "hands", who do the working while the chosen take the credit. He knows himself in them. He reads the royal collars: **greater shaping** (Magic §2a), a binding cut into a beast's self, and he knows the unmaking word. Corvin finds him: he knows who Idony is (the Library's reader) and asks him to teach the chain-words. "You want to speak to a Titan. So do I." Idony says no, and wants to say yes. On his glass, the Titan has come in off the Western Deep and lain down on the Sunward Hills above Solenne, and **the stir** has begun: the Grace too bright, collars cracking in the royal stables, a court drawer burned grey at a banquet. He gives it two weeks.
 Echo of the other's story: Maren in the low quarter, asleep against her lion in a stable built for a horse.
-Status: first draft
-Draft notes: Days 300–312. Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 300–312. Decided here (settled as drafted):
 - The carriage takes him not to the front of the palace but round the back, down a ramp, to **the hands' hall**: long vaulted rooms under the palace's west wing, cut into the cliff, lit by Grace-lamps (the Grace burns in plain glass here without any rune: the ground is that bright); benches; the court's **hands**: unbonded workers with the knack, in brown, forty or fifty of them, who do the court's workings out of sight: warm the rooms, light the halls, sing the fountains, heal the nobles' hangovers, make the bonded lords' beasts gleam; the chosen take the credit upstairs. Their master: **Old Sebold**, a hand for sixty years, half-blind, who says "We are the Grace, Reader. They are the gratitude."
 - Idony knows himself in them: eleven years as a Second ring doing the College's readings for Fifth rings who signed them.
 - Lady Aurel received him once, day 301, in a white room upstairs, prettily; then sent him below; he's on the household's books as "the Kessmoor measurer, a hand."

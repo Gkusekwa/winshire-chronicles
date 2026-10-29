@@ -7,8 +7,8 @@ Days: 185–195 (172–184 told back) (Book 3 count; day 0 = dusk on the day the
 Ends at (chapter-end map): Blackwater
 Beats: Kit home in Blackwater, unsalted. Jory is alive, because Calder brought him. The House of Ostrey wants the *Kittiwake*. Gannet sells his copies of Idony's notes to an Ostrey factor, who sells everything on to whoever pays. Kit doesn't know yet. She takes the Accord's warrant: her house will carry for the Accord, at cost.
 Echo of another story: The Lamp walking up out of the sea's light onto the land.
-Status: first draft
-Draft notes: Days 185–195 (172–184 told back). Decided here (proposals):
+Status: near-final draft
+Draft notes: Days 185–195 (172–184 told back). Decided here (settled as drafted):
 - **D.172 home**: twenty-four days from the lagoon by day-sailing, ninety-three aboard; nobody died; **at Blackwater's mended chain** (iron, every shackle; the toll-hut on the western headland) **the chain-clerk won't take her money: an unsalted ketch can't pay chain money**; she lies off the chain a day; **Fosse** comes out in a boat, pleasant: the ninety-three are the House of Ostrey's passengers (they paid Ostrey for berths); Ostrey pays their chain money; the chain goes down; the *Kittiwake* goes in with them because they're aboard her. Master Loy goes ashore first and doesn't look back. The rich among them go to Ostrey's counting-house; the servants and children go anywhere.
 - **Unsalted in Blackwater**: nobody sells her water; the spring under the eastern cliff's keeper turns his back; **Tansy fills the casks at night from a seep under the north shore**, by the roofless boathouse; nobody will buy far-stone flakes from her; the Merrin house still under Council wax; she lives aboard.
 - **Ostrey's claim**, d.186: Fosse along the moored ketch's side in his boat with a paper: the remnant Council (the houses that didn't sail, in the boathouse) finds the *Kittiwake* **forfeit** to the Council for breach of the requisition (ch. 20), and the Council has assigned its claim to Ostrey; a Council marshal will take her on the 196th. Fosse: "The house of Ostrey would like to say it's sorry."

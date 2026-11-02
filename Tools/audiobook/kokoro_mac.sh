@@ -4,6 +4,7 @@
 #                      bash "Tools/audiobook/kokoro_mac.sh"           (all chapters)
 #                      bash "Tools/audiobook/kokoro_mac.sh" 2-10      (a range)
 # Safe to stop with Ctrl-C and run again: finished, up-to-date chapters are skipped.
+# Full cast:     bash "Tools/audiobook/kokoro_mac.sh" audition cast   (or: cast, cast 2-10)
 # Another voice: VOICE=bm_george bash "Tools/audiobook/kokoro_mac.sh" audition
 # The audio lands in "Book 1/audiobook/Kokoro/out/" (ignored by git: never commit it).
 set -e
@@ -34,7 +35,13 @@ fi
 for f in kokoro-v1.0.onnx voices-v1.0.bin; do
   [ -s "$K/$f" ] || curl -L --fail -o "$K/$f" "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/$f"
 done
-if [ "$1" = "audition" ]; then
+if [ "$1" = "refs" ]; then
+  "$K/venv/bin/python" Tools/audiobook/render_kokoro.py --refs --cast --models "$K"
+elif [ "$1" = "audition" ] && [ "$2" = "cast" ]; then
+  caffeinate -i "$K/venv/bin/python" Tools/audiobook/render_kokoro.py --audition --cast --models "$K"
+elif [ "$1" = "cast" ]; then
+  caffeinate -i "$K/venv/bin/python" Tools/audiobook/render_kokoro.py "${2:---all}" --cast --skip-done --models "$K"
+elif [ "$1" = "audition" ]; then
   caffeinate -i "$K/venv/bin/python" Tools/audiobook/render_kokoro.py --audition --models "$K" --voice "${VOICE:-bf_emma}"
 else
   caffeinate -i "$K/venv/bin/python" Tools/audiobook/render_kokoro.py "${1:---all}" --skip-done --models "$K" --voice "${VOICE:-bf_emma}"

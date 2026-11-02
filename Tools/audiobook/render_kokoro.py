@@ -7,8 +7,9 @@ Kokoro-onnx 0.6.1 needs Python 3.10 to 3.13.
 Reads the same per-chapter performance scripts as the ElevenLabs kit (`Book 1/audiobook/Performance/NN.json`),
 says names exactly as `Lexicon_IPA.pls` gives them, and follows the Narration Guide as far as Kokoro can: one
 narrator voice, whole paragraphs at a time, pace and level set by the kind of words (narration, speech, bond
-speech, thought, written words, verse) and the scripted pause after every paragraph. Kokoro has no emotion or
-character control, so the scripts' speaker, mood and "how" directions are not voiced; it is a single, even read.
+speech, thought, written words, verse) and the scripted pause after every paragraph. With --cast, each character speaks
+in their own voice (kokoro_cast.py: Kokoro voices, blends and pitch), and mood and "how" notes set pace and level.
+Kokoro has no true emotion control: feeling comes only from pace, level and pauses (Chatterbox is the route for that).
 
 Setup: `bash Tools/audiobook/kokoro_mac.sh` on a Mac, or by hand:
     python3.12 -m venv ~/kokoro/venv && ~/kokoro/venv/bin/pip install kokoro-onnx==0.6.1 soundfile
@@ -21,6 +22,9 @@ Use:
     python3 render_kokoro.py 1                             # chapter 1 (00 = opening credits, 99 = closing)
     python3 render_kokoro.py 1-79 --skip-done              # a range, skipping chapters already rendered and current
     python3 render_kokoro.py --all --skip-done             # every chapter, with the opening and closing credits
+    python3 render_kokoro.py --audition --cast             # the same passages with the full cast (kokoro_cast.py)
+    python3 render_kokoro.py 1 --cast                      # chapter 1 with the full cast -> out/01_cast.mp3
+    python3 render_kokoro.py --refs --cast                 # reference clips for Chatterbox, one per cast voice
     python3 render_kokoro.py --voices                      # list the voices
 
 Output: `Book 1/audiobook/Kokoro/out/NN_<voice>.mp3` (ignored by git; never commit the audio). Each file is written
@@ -146,7 +150,45 @@ def main():
                 paras.append((s.get("para") or None, [s]))
         return [g for _, g in paras]
 
+    use_cast = "--cast" in args
+    if use_cast:
+        import cast as castmap, kokoro_cast as kc
+        styles = {}
+
+        def style_vec(spec):
+            if spec not in styles:
+                vec = None
+                for term in spec.split("+"):
+                    name, _, w = term.partition("*")
+                    v = k.get_voice_style(name.strip()) * float(w or 1)
+                    vec = v if vec is None else vec + v
+                styles[spec] = vec.astype(np.float32)
+            return styles[spec]
+
+        def shift(audio, semitones):
+            if not semitones:
+                return audio
+            f = 2 ** (semitones / 12)
+            r = subprocess.run(["ffmpeg", "-loglevel", "error", "-f", "f32le", "-ar", str(SR), "-ac", "1", "-i", "pipe:0",
+                                "-af", f"asetrate={SR * f:.0f},aresample={SR},atempo={1 / f:.5f}", "-f", "f32le", "pipe:1"],
+                               input=audio.astype(np.float32).tobytes(), capture_output=True, check=True)
+            return np.frombuffer(r.stdout, dtype=np.float32)
+
+        def runs(group):
+            """Split a paragraph into runs read by one voice: characters speak their own lines (speech and bond
+            speech); the narrator reads the rest, thoughts and written words included."""
+            out = []
+            for sg in group:
+                role = castmap.role_of(sg["speaker"]) if sg.get("speaker") and kind(sg) in ("speech", "bond") else "Narrator"
+                if out and out[-1][0] == role and kind(out[-1][1][-1]) == kind(sg):
+                    out[-1][1].append(sg)
+                else:
+                    out.append((role, [sg]))
+            return out
+
     def render(groups, label):
+        if use_cast:
+            return render_cast(groups, label)
         parts = []
         for i, group in enumerate(groups):
             text = " ".join(t for t in (clean(s["text"]) for s in group) if t)
@@ -165,6 +207,35 @@ def main():
             print(f"\r{label}: {i + 1}/{len(groups)}", end="", flush=True)
         return np.concatenate(parts)
 
+    def render_cast(groups, label):
+        parts = []
+        for i, group in enumerate(groups):
+            rs = runs(group)
+            for j, (role, segs) in enumerate(rs):
+                text = " ".join(t for t in (clean(x["text"]) for x in segs) if t)
+                if not text:
+                    continue
+                style = kind(segs[0])
+                spec, pitch, cspeed, cgain = kc.voice_for(role)
+                mspeed, mgain = kc.shaping(segs[0].get("mood"), " ".join(x.get("how") or "" for x in segs))
+                base_speed, base_gain = STYLE[style]
+                speed = max(0.6, min(1.4, base_speed * cspeed * mspeed))
+                gain = base_gain + cgain + mgain
+                pieces = re.split(r"(?<=\.)\s+", text) if style == "title" else [text]
+                for q, piece in enumerate(pieces):
+                    audio, _ = k.create(phonemes(k, piece, "en-gb", lex), voice=style_vec(spec), speed=speed,
+                                        lang="en-gb", is_phonemes=True)
+                    parts.append(shift(np.asarray(audio, dtype=np.float32), pitch) * (10 ** (gain / 20)))
+                    if q < len(pieces) - 1:
+                        parts.append(np.zeros(SR, dtype=np.float32))
+                if j < len(rs) - 1:
+                    parts.append(np.zeros(int(SR * 0.15), dtype=np.float32))
+            parts.append(np.zeros(int(SR * group[-1].get("pause_after_ms", 300) / 1000), dtype=np.float32))
+            print(f"\r{label}: {i + 1}/{len(groups)}", end="", flush=True)
+        return np.concatenate(parts)
+
+    tag = "cast" if use_cast else voice
+
     def write(wav, mp3):
         tmp = mp3 + ".f32"
         wav.tofile(tmp)
@@ -175,14 +246,31 @@ def main():
         os.replace(partial, mp3)   # only a finished file gets the real name
         print(f"\n{os.path.relpath(mp3, REPO)}: {len(wav) / SR / 60:.1f} min")
 
+    if "--refs" in args:
+        # Reference clips for Chatterbox: each cast voice reading the same neutral lines (about 12 seconds),
+        # so Chatterbox clones the Kokoro cast and the two can be compared role for role.
+        import kokoro_cast as kc
+        if not use_cast:
+            sys.exit("--refs needs --cast")
+        ref_dir = os.path.join(AB, "Chatterbox", "refs")
+        os.makedirs(ref_dir, exist_ok=True)
+        line = ("The river ran high that spring, and the ferry crossed twice a day. Nobody on either bank could "
+                "remember a quieter year, and nobody trusted it. They said so, too, over the rail.")
+        import soundfile as sf
+        for role, (spec, pitch, cspeed, cgain) in kc.CAST.items():
+            audio, _ = k.create(phonemes(k, line, "en-gb", lex), voice=style_vec(spec), speed=cspeed, lang="en-gb", is_phonemes=True)
+            sf.write(os.path.join(ref_dir, role.replace(" ", "_") + ".wav"), shift(np.asarray(audio, dtype=np.float32), pitch), SR)
+            print("ref", role)
+        return
+
     if "--audition" in args:
-        write(render(audition(), "audition"), os.path.join(out_dir, f"audition_{voice}.mp3"))
+        write(render(audition(), "audition"), os.path.join(out_dir, f"audition_{tag}.mp3"))
         return
 
     for n in chapters:
         src = os.path.join(AB, "Performance", f"{n:02d}.json")
-        key = f"{n:02d}_{voice}"
-        digest = hashlib.sha1(open(src, "rb").read() + open(__file__, "rb").read()).hexdigest()
+        key = f"{n:02d}_{tag}"
+        digest = hashlib.sha1(open(src, "rb").read() + open(__file__, "rb").read() + (open(os.path.join(HERE, "kokoro_cast.py"), "rb").read() if use_cast else b"")).hexdigest()
         mp3 = os.path.join(out_dir, key + ".mp3")
         if "--skip-done" in args and os.path.exists(mp3) and manifest.get(key) == digest:
             print(f"{key}: up to date, skipped"); continue

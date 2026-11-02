@@ -231,7 +231,7 @@ place("sar_temple", "The Sun Stair", "temple", "sarovel", 50, 176,
 
 # ---- Isvaren ----
 place("vael", "Vael", "capital", "isvaren", 150, 36,
-      "The city of the high colleges, on the north shore of Glasswater, under the Iron Fells. Slender towers of blue-grey slate, covered bridges between them, snow on the roofs half the year. "
+      "The city of the high colleges, on the north shore of Glasswater, under the High Crown. Slender towers of blue-grey slate, covered bridges between them, snow on the roofs half the year. "
       "Each college has its own colour of lamp, and the city at night looks like a hand of cards.")
 place("longlibrary", "The Long Library", "landmark", "isvaren", 153, 33,
       "Isvaren's oldest archive, a single hall half a league long, built into the hillside above Vael. Its keeper is an ancient raven-like beast that learned human speech over centuries of listening to scholars. (Book 2)",

@@ -221,7 +221,7 @@ He got in.
 
 ---
 
-It was a still evening. Glasswater lay flat and black under the mountains, with the last light going pink on the snowfields of the High Crown above the far shore, and the city's lamps coming on behind them up the hill in their colours, blue and silver and green and amber, a hand of cards laid down on the dark. Nessa took the sweep and pushed them off from the quay, and the *Heron* slid out into the black water without a sound.
+It was a still evening. Glasswater lay flat and black under the mountains, with the last light going pink on the snowfields of the Iron Fells above the far shore, and the city's lamps coming on behind them up the hill in their colours, blue and silver and green and amber, a hand of cards laid down on the dark. Nessa took the sweep and pushed them off from the quay, and the *Heron* slid out into the black water without a sound.
 
 On the prow, in a wicker cage, the lantern owl blinked at him.
 

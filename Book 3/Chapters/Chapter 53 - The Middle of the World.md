@@ -9,7 +9,7 @@ Beats: On the road home, at the Sun Road's mouth, the Horned Sun comes up behind
 Echo of another story: Dragons and Saltreach wyverns flying the coast's last people in over the Saltreach bank, side by side, which nobody alive has seen.
 Status: near-final draft
 Draft notes: Days 240–250. Decided here (settled as drafted):
-- **D.240** Maren with the clans on the high moor below the Scarfell's southern end (nine days out of the Thornwood); Orrun walking on four legs again since d.236, stiff. **D.241 Brede and the red-thread girl** (ch. 43) bring Rowan's word: the five are turning toward the hub (52); and **the Sun is coming up the Sun Road behind Sarovel's last column**: **eight thousand from Solenne's low city and Sorrel Isle under Perrin Sade** (Book 2 ch. 86's low-city voice), left Solenne d.230 when the Sun began to stir on the Stair; **olifants (twenty), bond-steeds, carts, the old and the children**; two days from the Sun Road's mouth.
+- **D.240** Maren with the clans on the high moor below the Scarfell's southern end (nine days out of the Thornwood); Orrun walking on four legs again since d.236, stiff. **D.241 Brede and the red-thread girl** (ch. 43) bring Rowan's word: the five are turning toward the hub (52); and **the Sun is coming up the Sun Road behind Sarovel's last column**: **eight thousand from Solenne's low city and Sorrel Isle under Perrin Sade** (Book 2 ch. 86's low-city voice), left Solenne d.230 when the Sun began to stir on the Stair; **olifants (twenty: the crown's bulls, left in Solenne's bull-yard when the yard herd walked out; ch. 46), bond-steeds, carts, the old and the children**; two days from the Sun Road's mouth.
 - **The Sun Road's mouth**: where the road comes out of the Sunward Hills for Hallowmere, **through a defile called the Vintner's Gate** (new): a league-long cut between two steep chalk-and-stone hillsides, the road at the bottom, the pilgrims' beast-stables at its north end. Maren leaves the clans with Tova and goes west at Orrun's own pace, over the Wend and across Hearthmere (a day and a night: a long run, at his fastest).
 - **D.243 dawn the Horned Sun** comes up the road behind the column: unicorn-kind, a single great horn, the size of a hill, **burning white-gold, "half a league of day" round it**; the vines on the hillsides blacken; the column is in the defile, strung out a league, olifants at the back hauling carts, Perrin Sade at the front.
 - **The hold**: Orrun and **one shadow** go into the defile's south end behind the column and stand across the road, side by side, between the Sun and the last carts; it comes on; they take it on their shoulders; the heat; Orrun's mane smokes.
@@ -64,7 +64,7 @@ Solenne's low city, what was left. And the people off Sorrel Isle, who'd taken b
 
 Perrin Sade had them. The low city's voice, from Liss's table, a lifetime ago.
 
-Olifants. Twenty. Bond-steeds. Carts. The old people and the children on the carts.
+Olifants. Twenty, the crown's bulls out of Solenne's bull-yard. Bond-steeds. Carts. The old people and the children on the carts.
 
 "Where?"
 

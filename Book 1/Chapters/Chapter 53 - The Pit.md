@@ -90,7 +90,7 @@ Hale was at the long table, under the brass lamp, with the black book open in fr
 
 She came round the table.
 
-He'd opened it at the place he'd told her about. Where the oldest pages had been, about the closing. You could see them now, with the book bent back so far. The stubs. A row of them, in the gutter of the binding, where somebody had taken a knife to the pages long ago and cut them out close to the thread. Narrow brown strips of old paper, a finger wide, no more, the sewing still through them.
+He'd opened it at the place he'd told her about. Where the oldest pages had been, about the closing. You could see them now, with the book bent back so far. The stubs. A row of them, in the gutter of the binding, where somebody had taken a knife to the pages long ago and cut them out close to the thread. Narrow brown strips of old vellum, a finger wide, no more, the sewing still through them.
 
 "I've been looking at them for forty years," said Hale. "I looked at them again last night. After you'd gone. After Thorne." He gave her the glass. "The fourth one. At the bottom. Look at the corner."
 

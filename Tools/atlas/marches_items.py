@@ -248,7 +248,7 @@ item("holloway32", "Holloway, burned", "fire", 171.6, 100.8, 32, "A Hearthmere h
 item("ferriby33", "Raid on Ferriby", "battle", 173.6, 103.2, 33, "Corvin Vale directs the raid from the smithy roof like a game of stones.", label=False)
 item("rcamps38", "Restoration camps", "camp", 180.0, 140.0, 38, "Refugee camps on the drove road up the Wend, with drill fields of bound beasts behind them.", dx=0.3)
 item("redwatch39", "Skirmish at Redwatch landing", "battle", 173.6, 99.6, 39, "Raiders with bound hounds try to stave the patrol boats. Bracken is killed.", label=False)
-item("hatching40", "Old hatching caves", "cave", 189.6, 89.9, 40, "The Clan's old hatching caves above Coldtarn, unused for a hundred years. The dragons winter there.", dx=0.3)
+item("hatching40", "Old hatching caves", "cave", 189.6, 89.9, 40, "The Clan's old hatching caves on Coldtarn's eastern rim, unused for hatching for a hundred years (the Clan now hatches in newer caves under the hold). The unbonded dragons winter there and the ledges keep them.", dx=0.3)
 
 _set("ruinisland", label=False)
 _set("hobshole", keep=True)

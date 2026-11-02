@@ -44,13 +44,13 @@ Wren thought about this.
 
 "You'll need more paper," she said.
 
-Calder looked at the two lines. Every night since the six went up off the moor the east had lit white at midnight over the Worldsend, and he was writing about a harvest fair.
+Calder looked at the two lines. The six had gone up off the moor three days ago, east over the Worldsend, and he was writing about a harvest fair.
 
 ---
 
 The hatching caves had never been meant for people.
 
-They'd been meant for eggs. Rows of shallow stone bowls along the floor, warm from the rock under them, and the spring coming out of the back wall steaming into the tarn below. The Clan had brought its eggs here for longer than it had kept count, because the rock never went cold, even in the deep of winter when the moor outside froze white.
+They'd been meant for eggs. Rows of shallow stone bowls along the floor, warm from the rock under them, and the spring coming out of the back wall steaming into the tarn below. The Clan had brought its eggs here for longer than it had kept count, till it cut the new caves under the hold, because the rock never went cold, even in the deep of winter when the moor outside froze white.
 
 Bel had made it a house anyway.
 

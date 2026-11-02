@@ -10,7 +10,7 @@ Echo of the other's story: Two dragons going north up the drowned valley, agains
 Status: near-final draft
 Draft notes: Night 172 to dusk 177. Decided here (settled as drafted):
 - Night 172, the shingle: the cracks run out from Orrun because he is listening down, through the stone under the shore, to what is under the lake. "It is turning over. In its sleep. Like a child before morning." It is the one on the Ring's wall with frost for scales (Maren saw the carving, ch 23).
-- Dawn 173 the Titan rises off the broken ice and flies west, low, over the lake's far shore and away along the snow-line; Maren can't see the stone; its jaws are empty. Orrun doesn't follow: "Not yet. Here first." (The Titan's draw goes west: Idony's glasses, ch 41–42.)
+- Dawn 173 the Titan rises off the broken ice and flies west, low, over the lake's western shore and away along the snow-line; Maren can't see the stone; its jaws are empty. Orrun doesn't follow: "Not yet. Here first." (The Titan's draw goes west: Idony's glasses, ch 41–42.)
 - Days 173–176: hard frost on the lower city every night; the lake's ice comes back thicker each dawn and doesn't go by noon after day 174; snow on the Vael Pass at the end of summer. Day 174 Orrun goes up to the lake gate and lies with his chin on the road and calls the herd through the ground; the old cow brings the tuskers down the pass road on day 176, thirty of them, in the early snow; the big short-haired Warden from day 135 opens the gate without asking for the register. They stand in the empty fish-market.
 - Night 175: Idony on the shingle (he hasn't answered Quell's summons; Nessa hides him in the ferry-folk's boat-shed). He went into the broken hill on day 174, down through the open Undercroft door: a round domed chamber like the one under the Ring, the plinth empty and warm, the six on the wall; but here the coiled serpent is cut larger than the others and has a word of its own under it, two words in the hooked script; he reads them as *the pale one that coils*, which he writes as **the Pale Coil**. The serpent's scales are frost.
 - Day 176 the dyers and the fish-market folk go back down: four nights on Candle Row in frost, their goods, their houses, nothing has happened. Nessa keeps the ferry-folk up: "He said five."
@@ -71,7 +71,7 @@ It stood in the broken ice with the frost-fog round its legs. It turned its head
 
 Then it opened its wings.
 
-It went up off the lake slowly, as if it were tired. Ice fell off it. Water fell off it. It went up and turned west, low over the far shore, and went away along the snow-line under the High Crown, with the sun coming up behind it and its shadow running ahead of it over the snow.
+It went up off the lake slowly, as if it were tired. Ice fell off it. Water fell off it. It went up and turned west, low over the western shore, and went away along the snow-line under the High Crown, with the sun coming up behind it and its shadow running ahead of it over the snow.
 
 She looked for the stone in its jaws. She couldn't see it. Its jaws were shut, and empty, as far as she could tell. It was too far to tell.
 

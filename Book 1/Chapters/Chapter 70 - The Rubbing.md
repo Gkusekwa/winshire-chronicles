@@ -287,7 +287,7 @@ She lifted her head off his chest.
 
 "Your left horn," he said.
 
-She tipped her head. On the left horn, tied in a bow, washed and faded, was a blue ribbon. Wren's. She'd tied it there herself at Upper Rush the night he came home from Wendmouth. Lisska hadn't taken it off since. Not for the winter, not for the ice in the hatching caves, not for anything.
+She tipped her head. On the left horn, tied in a bow, washed and faded, was a blue ribbon. Wren's. She'd tied it there herself at Upper Rush the night he came home from Wendmouth. Lisska hadn't taken it off since. Not for the winter, not for the ice on the high moor, not for anything.
 
 *Wren's,* said Lisska.
 

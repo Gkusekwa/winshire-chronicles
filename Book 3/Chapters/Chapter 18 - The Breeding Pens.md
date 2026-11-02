@@ -9,7 +9,7 @@ Beats: Arn at Varrhold. Ildra **chooses** him: a true bond, the beast's choice *
 Echo of another story: Calder's three restless, all turning their heads south-west together.
 Status: near-final draft
 Draft notes: Days 70–82. Decided here (settled as drafted):
-- **Arn has never been chosen.** He stood on the Choosing Ledge in his fifteenth summer and his sixteenth, as the chief's elder son, and the yearlings walked past him; the next year Teo stood there once, wasn't chosen either and laughed about it; Arn stopped standing. *(Teo was never bonded; Lisska was Imra Sallow's, Book 1 ch. 18.)* (Consistent with ch. 5: "not one of these has ever followed you a length.")
+- **Arn has never been chosen.** He stood on the Choosing Ledge in his fifteenth summer and his sixteenth, as the chief's elder son, and the yearlings walked past him; four summers on Teo stood there once, at fifteen, wasn't chosen either and laughed about it; Arn had stopped standing by then. *(Teo was never bonded; Lisska was Imra Sallow's, Book 1 ch. 18.)* (Consistent with ch. 5: "not one of these has ever followed you a length.")
 - **The pens restless**, days 70–72: since day 41 every kept dragon faces west, not east: the Last Titan's road (ch. 11); they beat at the oak bars at night; **d.71 a young red** (a two-year-old, unnamed in the ledgers, a number) breaks its wing against the bars in the dark; Leir has to put it down at dawn with the keepers' long knife; Arn holds its head.
 - **The choosing**, dawn 73, on **the Roosts** (the stone ledges above the hold where Teo used to sit and watch the riders): Arn alone; Ildra comes up and lies down a length off; he tells her to go back to Wren; **the voice**: *No.* Small, odd, rough as a voice not used. Then: *You walk them. Every morning. You look at them through the bars.* / *I was in bars.* He feels what she was: the collar, the smoke, the nothing, and the girl's voice talking about barley coming in from very far off. "I didn't ask." *No. I did.* The bond made; one life between two now; he knows it at once.
 - **Wren**, d.74 (down from the caves with Bel and Ada for the market): "I told you she liked you." She's glad, and sad, and ten. "She still has to come when I talk." *I will,* says Ildra, which only Arn hears; he tells Wren; she nods as if that were a contract.
@@ -77,9 +77,9 @@ They'd walked past him.
 
 His sixteenth summer, the same. He'd stood very straight. They'd walked past.
 
-The next year Teo had stood there once, fifteen, with his shirt hanging out and his hair in his eyes, laughing at something somebody had said, not even looking. Nothing had stopped in front of him either. He hadn't cared at all. He'd laughed all the way back down the stair.
+Four summers on, Teo had stood there once, fifteen, with his shirt hanging out and his hair in his eyes, laughing at something somebody had said, not even looking. Nothing had stopped in front of him either. He hadn't cared at all. He'd laughed all the way back down the stair.
 
-Arn had stopped standing after that. He'd never known which of them it was easier to be.
+Arn had stopped standing by then. He'd never known which of them it was easier to be.
 
 ---
 

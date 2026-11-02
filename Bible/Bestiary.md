@@ -43,7 +43,7 @@ Lion-kin, the size of a hill; grey as old stone; a mane like a ridge of broken r
 ## Across the Six Kingdoms
 
 ### Dragons *(established)*
-Great beasts, sentient, long-lived, and the Dragon Clan's power. The Clan breeds and keeps hundreds; only a few are bonded, to its warriors: **fourteen bonded pairs before the mill, eleven after (48)**. Four-limbed and winged: two wings *and* four legs. They speak mind to mind with a bonded partner and to no one else, except as kin to other dragons within sight (Ruling 5). Aurveth, Kharrak and Lisska are Clan-bred: Lisska about 12 ft at the shoulder and 40 ft long; Kharrak about 16 ft; Aurveth about 20 ft.
+Great beasts, sentient, long-lived, and the Dragon Clan's power. The Clan breeds and keeps hundreds; only a few are bonded, to its warriors: **fourteen bonded pairs before the mill, eleven after (48)**. Four-limbed and winged: two wings *and* four legs. They speak mind to mind with a bonded partner and to no one else, except as kin to other dragons within sight (Ruling 5). Kharrak and Lisska are Clan-bred; Aurveth is older than the Clan and wasn't bred by it: Lisska about 12 ft at the shoulder and 40 ft long; Kharrak about 16 ft; Aurveth about 20 ft.
 - **The Roosts, winter of Book 1:** a dozen dragons on the ledges, the eleven bonded pairs who won't fight kin; the unbonded hunt in the high glens.
 - **Morrow:** an old black dragon of the ledges, greying at the edges of her scales, bonded to Hallam Brecc. Lies down beside him at the ford (60).
 - **Book 1:** the funeral flight (2), the Roosts above Varrhold (6), the threefold bond (18).
@@ -105,7 +105,8 @@ Great beasts of the cold north: shaggy, red-brown, high-shouldered, with tusks t
 Great beasts of the warm south-west, grey and nearly hairless, with great fanned ears, long trunks and straight tusks. They live in herds on the Sunward Hills and the Gilt valley. Like tuskers, they remember and mourn, and people who have watched an olifant herd stand over its dead stop calling them animals.
 - **Sarovel** makes them a royal beast second only to the unicorn. Bonded olifants walk in the Bond-King's processions, painted, and in war they are the walls the Sarovel army hides behind.
 - **Language and memory** *(settled as drafted, Oct 2026)*: olifants speak in rumble too, with trumpets for alarm and grief. The **wild herds** of the Sunward Hills remember the old realm the way tuskers do, as roads and water. The **royal olifants** have kept the language and lost the map: nine generations in Sarovel's stables, bred from cows taken young, and no old cow to teach them. They're a herd with no memory of where it's from, which is Sarovel's story in one animal.
-- **Book 2** *(as drafted, ch 63)*: when the Grace fails at Solenne, the three court olifants stand across the harbour road and stay there, and the low city leaves by boat. On the night after, a wild cow comes down out of the Sunward Hills to the olifant yard under the landward wall, and the unbonded yard herd pulls its stakes and follows her out along a road it didn't know it remembered (the tale *The Old Road Down*). No people go with them.
+- **Book 2** *(as drafted, ch 63)*: when the Grace fails at Solenne, the three court olifants stand across the harbour road and stay there, and the low city leaves by boat. On the night after, a wild cow comes down out of the Sunward Hills to the olifant yard under the landward wall, and the unbonded yard herd pulls its stakes and follows her out along a road it didn't know it remembered (the tale *The Old Road Down*). No people go with them. The crown's bulls, kept apart in the bull-yard, stay behind.
+- **Book 3** *(settled Nov 2026; chs 46, 53)*: the sixty olifants with the Accord are both groups: the forty of the yard herd, found on the Sun Road by Kessmoor's carters (ch 46), and the twenty crown bulls out of Solenne's bull-yard (ch 53).
 - **Ivory** is forbidden in Sarovel and sold anyway in Saltreach. An olifant tusk at Gallows Quay is a hanging matter in Solenne and a good day's trade in Wendmouth.
 
 ### Stonehorns *(rhinoceros-like)*
@@ -191,7 +192,7 @@ Kessmoor, Hearthmere and Sarovel have no riders of the air, and each says it doe
 
 ### Where they can come in, Books 2–3 *(as used in the drafts)*
 
-- **Book 2, Isvaren:** stormkites sliding down the wind into Vael before the surge; a kite-rider girl of the Pass Wardens, Runa, who carries the warning across the lake to Stell, the far landing of Nessa's ferry, ahead of the flood (the tale *Kite-Rider*).
+- **Book 2, Isvaren:** stormkites sliding down the wind into Vael before the surge; a kite-rider girl of the Pass Wardens, Runa, who carries the warning across the lake to Stell, one of the far-shore landings of Nessa's ferry, ahead of the flood (the tale *Kite-Rider*).
 - **Book 2, the Wyldmarch:** a roc-rider bringing the Moot word of the Titan; the hollow owls leaving the Hollow Ring the night before the first waking; the Keepers' messages stopping after the drain.
 - **Book 2, Kessmoor:** the pit bats shrieking through every shaft at the Scald's stir, which Kessmoor can't call magic.
 - **Book 2, Sarovel:** the sun-storks gone from the palace roofs; the sun-hawks flown at the Bond-King's last feast.

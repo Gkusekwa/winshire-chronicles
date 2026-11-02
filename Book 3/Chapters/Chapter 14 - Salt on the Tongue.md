@@ -158,7 +158,7 @@ Not a question.
 
 The second boat came in.
 
-The man got out of it. Thick. Fifty, perhaps. A Wendmouth face. He came up the shingle behind Kit with his hands in his coat, smiling.
+The man got out of it. Tall. Fifty, perhaps. A Wendmouth face. He came up the shingle behind Kit with his hands in his coat, smiling.
 
 The smile arrived first. She knew it before she knew him.
 

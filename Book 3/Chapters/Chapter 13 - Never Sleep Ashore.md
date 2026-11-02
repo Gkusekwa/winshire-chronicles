@@ -50,7 +50,7 @@ Under them. A yard under, at this tide. Grey. Square. The size of a chapel, lyin
 
 Cut stone. Somebody had cut it, long before anybody living. Its top face was flat, and on the flat, under the clear water, she could see the hooked writing. The old script. Lines of it, worn. The same as on the milestones.
 
-It had stood on the end of the drowned road's last pier for longer than Saltreach had been a word. Then at the end of the winter the sea had gone out of the bay at Gullhaven at noon and come back with the Bell in it, and every pier on the Shatters had shaken, and the last one had dropped its top stone into the Merrins' channel.
+It had stood on the end of the drowned road's nearest pier for longer than Saltreach had been a word. Then at the end of the winter the sea had gone out of the bay at Gullhaven at noon and come back with the Bell in it, and every pier on the Shatters had shaken, and the nearest one had dropped its top stone into the Merrins' channel.
 
 ---
 
@@ -94,7 +94,7 @@ The Council had stopped sending them.
 
 On the north shore, the boathouse.
 
-A great tarred shed over the water, with its sea-door hanging off and its roof gone. Torn off. Last winter. By dragons. The farmer's: the outlaw from the Marches with three dragons of his own and six of the Clan's behind him, who'd come down out of the dark one dawn and ripped the roof off the shed where some gentleman's binders were keeping three young dragons on chains.
+A great tarred shed over the water, with its sea-door hanging off and its roof gone. Torn off. Last winter. By dragons. The farmer's: the outlaw from the Marches with two dragons of his own and seven of the Clan's behind him, who'd come down out of the dark one dawn and ripped the roof off the shed where some gentleman's binders were keeping three young dragons on chains.
 
 The whole of Blackwater had watched from its stilt-houses.
 
@@ -204,7 +204,7 @@ He went back along the walkway.
 
 Gannet watched him go.
 
-From the *Kittiwake*'s rail, where he'd been splicing a line, and hadn't been. Her bosun. Fifty, perhaps. Thick. Wendmouth born, with a Wendmouth face, the kind that came to meet you before the rest of him did. He'd come east in the autumn, after the Hallorans fell and the Saffery house cleaned out the old Halloran beast men from Gallows Quay. He'd come to Blackwater because it had no questions in it.
+From the *Kittiwake*'s rail, where he'd been splicing a line, and hadn't been. Her bosun. Fifty, perhaps. Long-boned and heavy. Wendmouth born, with a Wendmouth face, the kind that came to meet you before the rest of him did. He'd come east in the autumn, after the Hallorans fell and the Saffery house cleaned out the old Halloran beast men from Gallows Quay. He'd come to Blackwater because it had no questions in it.
 
 Kit had taken him on because he could handle a ship, and lie to an Ostrey man, and both were worth money.
 

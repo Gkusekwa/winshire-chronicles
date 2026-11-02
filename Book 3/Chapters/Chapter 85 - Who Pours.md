@@ -283,7 +283,7 @@ Nobody would sit in it again.
 
 On the way back he looked at the caves.
 
-Across Coldtarn's bowl, on its southern side. The hatching caves, where the farmer's family had lived, where the farmer's mother had stood in the mouth with a lantern lit in daylight, waving the overflow in.
+Across Coldtarn's bowl, on its eastern rim. The hatching caves, where the farmer's family had lived, where the farmer's mother had stood in the mouth with a lantern lit in daylight, waving the overflow in.
 
 The mouth had fallen in.
 

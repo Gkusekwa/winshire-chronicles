@@ -88,7 +88,7 @@ Her father had stood like that.
 
 She remembered his dog better than she remembered his face, which she was not proud of. It had been a big rough-coated thing with a jaw like a mantrap and a habit of leaning its whole weight on your legs, and it had followed him from the stable to the river and back every day of her childhood. When a poacher's bolt took it in the throat on the far bank one autumn, her father carried it home across the ferry himself. He sat with it in the barn all night.
 
-He lasted four days after that. The healers said every word their licences allowed over him and kept warming-stones at his feet, and when none of it took they called it grief, because they had to call it something. Maren had been fourteen. She had watched a strong man go out like a lamp with nothing wrong with him, and she had understood, sitting on the end of his bed on the fourth morning, exactly what a bond was. A door you couldn't close again. One life with two people standing in it.
+He lasted three days after that. The healers said every word their licences allowed over him and kept warming-stones at his feet, and when none of it took they called it grief, because they had to call it something. Maren had been fourteen. She had watched a strong man go out like a lamp with nothing wrong with him, and she had understood, sitting on the end of his bed on the third morning, exactly what a bond was. A door you couldn't close again. One life with two people standing in it.
 
 She had never wanted one. She'd told herself so often enough that she mostly believed it.
 

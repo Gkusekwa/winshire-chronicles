@@ -214,7 +214,7 @@ Maren didn't know what to say to that.
 
 "You don't have to."
 
-"Yes, I do." Bel looked at her hands. "Joss would've liked you. My man. He'd have liked you, and he'd have been afraid of the lion, and he'd have gone and stood next to it anyway, to show he wasn't." She stopped. "He went to the Old Ruin in the autumn to bring the old grey home. That one." She nodded at Old Grey, standing by Wren in the heather. "He didn't come back. They put the collar on the grey instead."
+"Yes, I do." Bel looked at her hands. "Joss would've liked you. My man. He'd have liked you, and he'd have been afraid of the lion, and he'd have gone and stood next to it anyway, to show he wasn't." She stopped. "He went to the camp at the Ewe Beck in the winter to bring the old grey home. That one." She nodded at Old Grey, standing by Wren in the heather. "He didn't come back. They put the collar on the grey instead."
 
 Maren looked at Old Grey.
 

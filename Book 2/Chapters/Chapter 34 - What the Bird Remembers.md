@@ -322,7 +322,7 @@ Maren didn't breathe.
 
 "What does that mean?"
 
-"A dragon whose partner dies goes with him," said the Old Reader. "Almost always. Down the bond, the way water goes down a weir. A breath. Less. You've seen it. Or the farmer has."
+"A dragon whose partner dies goes with him," said the Old Reader. "Almost always. Down the bond, like water down a weir. Three days, at the most. You've seen it. Or the farmer has."
 
 She thought of the farmer in a barley field in the dark, with three bonds tearing round him. She hadn't seen it. She'd felt Orrun's grief under the river, once, and known what it would be to have nothing at the other end of it.
 

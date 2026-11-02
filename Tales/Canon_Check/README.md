@@ -4,9 +4,13 @@ All 22 tales were checked against the books as they stood after the October 2026
 
 **Result:** all 22 tales needed small fixes, and all are fixed in the tale files (about 80 changes, mostly a word, a number or a line). Each tale's notes block says "Canon-checked against the books". All 22 have since had their final prose pass and are at final draft (Nov 2026).
 
-## Open: issues found in the books
+## Settled (Nov 2026): issues found in the books
 
-The tales were fixed to agree with the books. These points are inconsistencies **inside the books** (or between a book and the Bible) that the check turned up. None has been edited yet.
+The tales were fixed to agree with the books. These points were inconsistencies **inside the books** (or between a book and the Bible) that the check turned up. **All are settled** (2 Nov 2026), each with the smallest fix: the chapters' majority reading, the world's rules and the maps won. The decisions and every edit are in `Book_Fixes/` (batches A: items 1–11, B: 12, 14, 17–19, 23 in part, 24, 26, C: 16, 20–22, 23 in part, 25). Items 13 and 15 were Bible-only (World.md's fords now south-east of Ashford; the Bestiary's Stell is one of the ferry's far-shore landings). Items 11 and 25 turned out not to be contradictions.
+
+Bible changes that came with them: World.md now states when a bonded partner dies (at once or within three days, never later), and that the Clan hatches in the newer caves under the hold while the old Coldtarn caves hold the winterers; the Bestiary no longer calls Aurveth Clan-bred and says where Book 3's sixty olifants came from; Characters.md has Gannet heavier by Book 3; the atlas puts Vael under the High Crown.
+
+The list below is the record of what was found.
 
 ### Bonds and beasts
 1. **Edric's four days** (Book 1 ch 1): he "lasted four days" after his hound died. The bond rule is death on the third day.

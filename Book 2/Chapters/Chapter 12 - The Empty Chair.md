@@ -189,7 +189,7 @@ The old one was where he'd left her. She'd turned her head to watch the glen for
 
 He saw the pens properly on the twentieth day.
 
-He'd seen them since he came. You couldn't not see them. They were on the lower ledges, below the Roosts and above the yard, a row of cave mouths with heavy oak bars across them and gates in the bars, and keepers going in and out with hand-barrows of mutton. In the autumn they'd been open and empty. Now they were shut, and there were dragons in them.
+He'd seen them since he came. You couldn't not see them. They were on the lower ledges, below the Roosts and above the yard, a row of cave mouths with heavy oak bars across them and gates in the bars, and keepers going in and out with hand-barrows of mutton. In the autumn they'd held only the young. Now there were grown dragons in them too.
 
 Two to a pen. Chosen. He went down the long stair in the morning with Gunna's old friend Hulda Sarr, who hadn't said a word to him in four days and said none now, and stood on the ledge in front of the pens and looked.
 

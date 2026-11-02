@@ -203,7 +203,7 @@ Rowan. Maren thought: Rowan.
 
 Maren stood on the tower in the dusk.
 
-She thought of a hundred people on the grass below Greyhold's river wall, waiting since the spring with their carts and their blankets to be ferried back to a stripped bank. Of her mother on the jetty with a coil of rope.
+She thought of the people on the grass below Greyhold's river wall in the spring, with their carts and their blankets, waiting to be ferried back to a stripped bank. Of her mother on the jetty with a coil of rope.
 
 "Tell her," she said. "Tell her..."
 

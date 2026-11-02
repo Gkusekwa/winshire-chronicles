@@ -197,7 +197,7 @@ Names are grouped by culture so each group sounds like it belongs together: Hear
 | Travelling bookbinder | **Absalom Reede** | At Millbrook's Kettle; runs the meeting in Fennick's tithe barn. |
 | A sellsword of Delling's company | **Coll Brask** | Out of Wendmouth. No ring; paid ten silver a man. Taken alive at Upper Rush (54); tells Calder the price on him and on "the knight with the lion"; let go at dawn. |
 | The camp man | — | A young Restoration man with a soft beard. Brings Joss home: "The one realm grieves with you. Our door's open." At the Ewe Beck fire: "Enemy!" (50, 52) |
-| Saltreach boatman and poacher | **Gannet** | Out of Wendmouth. Long, thin, silver earrings, a smile that arrives first. Swears to take his grievance "across the river" (Chapter 7). |
+| Saltreach boatman and poacher | **Gannet** | Out of Wendmouth. Long, thin, silver earrings, a smile that arrives first; heavier by Book 3 (chs 13–14). Swears to take his grievance "across the river" (Chapter 7). |
 
 ### Isvaren, from Book 2
 

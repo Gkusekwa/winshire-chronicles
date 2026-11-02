@@ -240,11 +240,11 @@ The crown of the hill. A great paved space between the Hall of Rings and the Lib
 
 A hundred magisters stood on it in a ring.
 
-All seven colleges. Grey gowns with their colours at the collar: the Blue College's blue, the Scribes' black, the Tides' soft green, the violet of the Measures, the red of the Healers, the gold of the Sky-watchers, the white of the Keepers of the Script. Fifth rings and Fourth rings, and the best of the Thirds. Old men and old women mostly. Some young. A hundred of them, standing in a ring two hundred paces across on the old stone of the terrace, an arm's length apart.
+All seven colleges. Grey gowns with their colours at the collar: the Blue College's blue, the Scribes' black, the Tides' soft blue, the violet of the Measures, the red of the Physicians, the silver of the College of Stars, the white of the Keepers of the Script. Fifth rings and Fourth rings, and the best of the Thirds. Old men and old women mostly. Some young. A hundred of them, standing in a ring two hundred paces across on the old stone of the terrace, an arm's length apart.
 
 Barefoot.
 
-Dane's order. The commentaries said a drawer must stand on the stone itself, flesh to stone, for a many-voice working fed from it. So they stood there in the noon light with their gowns to their ankles and their bare feet on the humming paving, and he saw an old Master of the Healers at the west point shift from foot to foot as if the stone were hot.
+Dane's order. The commentaries said a drawer must stand on the stone itself, flesh to stone, for a many-voice working fed from it. So they stood there in the noon light with their gowns to their ankles and their bare feet on the humming paving, and he saw an old Master of the Physicians at the west point shift from foot to foot as if the stone were hot.
 
 Quell at the north point. Small, white, with her five-and-a-half-notch ring on her hand.
 

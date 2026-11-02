@@ -10,7 +10,7 @@ Echo of another story: Calder in the yard, talking out loud to three dragons; th
 Status: near-final draft
 Draft notes: Days 8–12. Decided here (settled as drafted):
 - **The hall**: Varrhold's long hall; two high tables side by side on the dais, the red thread's on the left and the grey's on the right; in the gap between them, the chief's chair (black oak, carved dragons) under its grey cloth since Teo's burning (Book 2 ch. 12); the Clan names a chief when both halves pour at Coldtarn (Book 2 ch. 12, 24); Arn and Ulric have poured together twice (Teo's word; Book 2 ch. 24, 78) and still nobody has sat in it. Arn sits beside it, on a bench, as he did at Book 2 ch. 12.
-- **The riders' demand** (day 8): Arn gives the riders Calder's answer and Aurveth's joke at the long tables; the red-thread riders don't laugh; old Hulda Sarr does; **Gorm Askell** brings the ledgers: three dragons the Clan bred and fed for three hundred years and more, on the books.
+- **The riders' demand** (day 8): Arn gives the riders Calder's answer and Aurveth's joke at the long tables; the red-thread riders don't laugh; old Hulda Sarr does; **Gorm Askell** brings the ledgers: three dragons the Clan fed and kept, on the books (Kharrak and Lisska bred in the pens; Aurveth, older than the Clan, entered in Rurik's grandfather's time).
 - **The breeding pens** (day 9 morning): the spring pens on the lower ledges, oak bars, the chosen pairs and the keepers with mutton barrows (Book 2 ch. 12); a hundred and some dragons the Clan keeps and doesn't bond; the young ones bred for the ledges; Arn walks them as Haldor did, every morning; this morning every dragon in the pens is silent and facing east (the six came down, ch. 4).
 - **Ildra**: up from the caves with Wren on day 9 (Wren comes down to Varrhold with Ada to see the farmer off); Ildra leaves Wren and follows Arn round the pens all morning, a length behind; he sends her back four times; the fifth time Wren comes and gets her by the horn and says "She likes you," and Arn says "She's not mine," and Wren says "That's what I say."
 - **Gunna Tarne**: half her face scarred from the Roosts' burning resin (Book 2 ch. 21), her arm stiff; Tamsin's wing scarred black along its trailing edge; she sits on the pen rail with her clay pipe.
@@ -46,7 +46,7 @@ Then his father died.
 
 Then the tables had stopped eating together. Then Teo.
 
-Then the war, and the farmer, and the smoke on the Roosts, and two pours at the black water, one hand each, him and Ulric. And the tables ate together again. And still nobody sat in the chair.
+Then the war, and the farmer, and the smoke on the Roosts, and two pours, one hand each, him and Ulric: one at the black water, one into the sea at Gullhaven. And the tables ate together again. And still nobody sat in the chair.
 
 A chief was named when both halves poured at Coldtarn. Everyone knew that. They'd poured. Twice.
 
@@ -84,7 +84,7 @@ Gorm Askell brought the ledgers in the morning.
 
 Of course he did. Arn's steward. Long and sour and ink to the elbow, limping since the ford. He came into the hall with three books under his arm and put them on the table in front of Arn and opened the first one to a page he'd marked with a strip of leather.
 
-"Aurveth," he said. "Bred on the high ledges. In Rurik's grandfather's time. Fed by the Clan, harnessed by the Clan, bonded three times to riders of the Clan." He turned to another strip. "Kharrak. Bred in the spring pens. Your father's time. Mutton from the Clan's flocks, eleven years." He turned again. "Lisska. The pens. Imra Sallow's." He looked at Arn. "On the books. All three."
+"Aurveth," he said. "On the high ledges before the books began. Entered in Rurik's grandfather's time. Fed by the Clan, harnessed by the Clan, bonded three times to riders of the Clan." He turned to another strip. "Kharrak. Bred in the spring pens. Your father's time. Mutton from the Clan's flocks, eleven years." He turned again. "Lisska. The pens. Imra Sallow's." He looked at Arn. "On the books. All three."
 
 "I know what's on the books."
 

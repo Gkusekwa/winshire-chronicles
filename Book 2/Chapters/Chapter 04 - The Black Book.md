@@ -13,7 +13,7 @@ Draft notes: Days 1 to 4, dawn to dusk. Decided here (settled as drafted):
 - Tam came up from Millbrook on day 1 with Odo on a door, both legs splinted; they stay at the ferry house. Tam and Maren don't talk about the forge.
 - Grieve gives her Haverly's sword at the graves: the Haverly family's quickened edge, letters cut along the fuller, dark on dead ground. "His father sent it. He'd want it used. Not hung on a wall." She takes it. She doesn't draw it.
 - Day 2: the archive. Hale's black book on the long table under the dead hanging lamp. The list of the Watch: three hundred and eleven names in the old script, the last Hale's own. Under it she writes her own name in her square river-watch hand, in plain letters, not the old script. She takes the book. Nobody stops her: nobody living knows what it is.
-- Day 2–3: the cavern. Through the black door (still widened by Orrun) and down. The cavern is half full of river: the Wend came in through the hole where the island was, and the water stands black and still forty feet below the ledge. The six chains are gone: broken anchor-stones, and a stump of links on each ledge-ring. Rowan's knights with oil lanterns, carrying up Callis in irons on a door (both arms broken, splinted, alive, silent), then Cassian's body on a plank. Maren stands aside on the ledge to let it pass. She sees his face. She doesn't look away.
+- Day 2–3: the cavern. Through the black door (still widened by Orrun) and down. The cavern is half full of river: the Wend came in through the hole where the island was, and the water stands black and still forty feet below the ledge. The six chains are gone: broken anchor-stones, and a stump of links on each ring in the wall above the ledge. Rowan's knights with oil lanterns, carrying up Callis in irons on a door (both arms broken, splinted, alive, silent), then Cassian's body on a plank. Maren stands aside on the ledge to let it pass. She sees his face. She doesn't look away.
 - The knight's lock chamber: the disc turned a quarter; the lined-up rings of script from rim to boss still burning white, steady, on ground where nothing else will light. Old magic, not a rune: dead ground can't touch it. She copies the sentence stroke by stroke into the back of the black book with a stub of charcoal, by its own light, not knowing a word of it. It takes her most of a night.
 - On the ledge, going back, Orrun stops and looks down past where the chains were, into the black water and below it. *Something is shut there. Like a breath held.* He won't go nearer. Neither will she.
 - Day 3: the council's rider from Hallowmere with an order: the leader's body to be hung in chains on Greyhold's gate, "the Restoration's leader", for the companies on the Way to see. Rowan has it done. Maren watches it go up from the landing.
@@ -170,7 +170,7 @@ At the bottom of the stair there was a passage, and at the end of the passage th
 
 ---
 
-She'd stood on it once before, three nights ago. Then the cavern had been full of sound: the chains singing, the stone groaning, something huge at the bottom of the chains, lifting. Six chains, each link taller than a man, going down from great iron rings in the ledge into a darkness so deep the lanterns gave out before the chains did, and coming up again out of it on the far side, a quarter-mile off, to another ledge she couldn't see. The whole of it humming. The ground, the air, her teeth.
+She'd stood on it once before, three nights ago. Then the cavern had been full of sound: the chains singing, the stone groaning, something huge at the bottom of the chains, lifting. Six chains, each link taller than a man, coming down past the ledge from great iron rings in the wall above it into a darkness so deep the lanterns gave out before the chains did, and coming up again out of it on the far side, a quarter-mile off, to another ledge she couldn't see. The whole of it humming. The ground, the air, her teeth.
 
 Now there was water.
 
@@ -178,11 +178,11 @@ The cavern was half full of the river. The Wend had come in through the hole whe
 
 The chains were gone.
 
-The great iron rings were still in the ledge, six of them in a row along its edge, each one bigger than a cartwheel. On each ring hung a stump of chain: three links, or four, and then nothing, the last link broken through, its two halves bent out like the claws of a hand that had let go. The rest had gone down into the water. She could see one of them below, just under the surface, a long dim shape of iron going down at a slant into the black like a road into a lake.
+The great iron rings were still in the wall above the ledge, six of them in a row, each one bigger than a cartwheel. On each ring hung a stump of chain: three links, or four, and then nothing, the last link broken through, its two halves bent out like the claws of a hand that had let go. The rest had gone down into the water. She could see one of them below, just under the surface, a long dim shape of iron going down at a slant into the black like a road into a lake.
 
 The ground under her feet said nothing at all. No hum. No warmth. Stone.
 
-She stood at the edge of the ledge with her hand on the first ring and looked down at the water.
+She stood at the edge of the ledge under the first ring and looked down at the water.
 
 ---
 
@@ -270,7 +270,7 @@ On the ledge, going back, Orrun stopped.
 
 She was ahead of him with the lantern, at the place where the passage came out onto the ledge above the black water. She felt him stop behind her, as a boat feels the bottom. She turned round.
 
-He was standing at the very edge of the ledge, beside the first of the great iron rings with its stump of broken chain, with his head down, looking past the ring into the water, and through it, down past the drowned chains into the dark below where the bottom of the cavern must be, under forty feet of river.
+He was standing at the very edge of the ledge, under the first of the great iron rings with its stump of broken chain, with his head down, looking past the edge into the water, and through it, down past the drowned chains into the dark below where the bottom of the cavern must be, under forty feet of river.
 
 She came back to him.
 

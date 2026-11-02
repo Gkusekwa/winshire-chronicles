@@ -140,7 +140,7 @@
 
 **Places.**
 
-- **Vael** (capital). The city of the high colleges, on the north shore of Glasswater, under the Iron Fells. Slender towers of blue-grey slate, covered bridges between them, snow on the roofs half the year. Each college has its own colour of lamp, and the city at night looks like a hand of cards.
+- **Vael** (capital). The city of the high colleges, on the north shore of Glasswater, under the High Crown. Slender towers of blue-grey slate, covered bridges between them, snow on the roofs half the year. Each college has its own colour of lamp, and the city at night looks like a hand of cards.
 - **The Long Library** (landmark). *(established (archive and speaking beast))* Isvaren's oldest archive, a single hall half a league long, built into the hillside above Vael. Its keeper is an ancient raven-like beast that learned human speech over centuries of listening to scholars. (Book 2)
 - **Starwatch** (tower). An observatory on a peak of the Iron Fells, reached by six hundred steps cut into the rock. The colleges' astronomers chart the stars and, quietly, the strange lights over the Worldsend.
 - **The hunters' camp** (landmark). *(Book 2 chs 33-38)* A bowl under a cornice in a high pass on the Isvaren side of the Iron Fells, a few hours' flight south-east of Vael and six days on foot by the cornice pass, with Starwatch's peak along the range to the west. Corvin's hunters kept four bound young dragons here in honey-smoke through the summer. (Book 2)
@@ -260,7 +260,7 @@
 - **Ruin Island** (from Chapter 11). The wooded island where the Wend splits. Nobody lands there.
 - **Crow Scar** (from Chapter 24). Crow Scar: a black crag standing out of the Fellwood two leagues east of the Fenn farm, with a cave three-quarters up its face. Calder hides there with the three dragons (24-32).
 - **Skarrow** (from Chapter 16). Ulric's own steading on the east side of the Scarfell, where he takes most of the fighting men.
-- **Old hatching caves** (from Chapter 40). The Clan's old hatching caves above Coldtarn, unused for a hundred years. The dragons winter there.
+- **Old hatching caves** (from Chapter 40). The Clan's old hatching caves on Coldtarn's eastern rim, unused for hatching for a hundred years (the Clan now hatches in newer caves under the hold). The unbonded dragons winter there and the ledges keep them.
 - **The lion's pit** (from Chapter 53). At the island's north end the lion has dug down all winter to a course of dressed grey stone running under the river toward Greyhold. It's trying to get down to its kin.
 - **Hollin Knowe** (from Chapter 67). A long rise at the Brackenwood's edge, two leagues west of the river, with the old watch's beacon-stones on top. Maren and the lion watch the muster from it.
 - **Teo's ford** (from Chapter 14). Where the Drover's Way crosses Hollow Beck under alders: eight leagues up the Way from Harrow's End, a league above the Ram's Head, six below Varrhold. The falls on Hollow Beck, where Clan ground begins, are about three leagues below the hold.

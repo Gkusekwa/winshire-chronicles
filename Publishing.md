@@ -19,7 +19,7 @@
 
 ## Ebook practicalities
 
-- **Images:** about 160 images in Book 1 (79 openers and 79 maps, plus front matter); Books 2 and 3 will need about 176 and 172 once their art and maps are made. Keep them lean: greyscale PNG or JPEG about 1,600 px wide, because many readers use black-and-white e-ink screens.
+- **Images:** about 160 images in Book 1 (79 openers and 79 maps, plus front matter), about 177 in Book 2 and 173 in Book 3 (their 88 and 86 openers and maps, plus front matter). Keep them lean: greyscale PNG or JPEG about 1,600 px wide, because many readers use black-and-white e-ink screens.
 - **Delivery fee:** under KDP's 70% royalty option, Amazon charges a delivery fee per megabyte of the ebook file, so compress every image and check the file size before upload. (Check current rates.)
 - **Preview** on an e-ink Kindle, a phone and a tablet before release.
 - **The PDFs** *(Nov 2026)*: each edition also builds a PDF with page numbers, for proofreading and for advance review copies. The stores get the EPUB. Each book's ebooks are in `Book N/{Bone,Night,Band}/`.
@@ -37,7 +37,7 @@
 
 ## Audiobook *(in preparation, Nov 2026)*
 
-- **All three audiobooks are ready to produce** (`Book N/audiobook/`): the audiobook kit makes each book's annotations, lexicon and reading scripts from the manuscript, so they stay in step with the text. Book 1's annotations are hand-made (who speaks every line, how, and the mood of a quarter of its paragraphs). Books 2 and 3's were made by the kit: every quote and italic is typed and many lines carry a delivery note, but few paragraphs have a mood yet, so they read flatter than Book 1 until their annotations are filled in: by hand, or by the kit's local AI option (a free model on the Mac, through Ollama; compare it with Book 1's hand annotations first). Book 1 runs to roughly 32–34 hours.
+- **All three audiobooks are ready to produce** (`Book N/audiobook/`): every chapter of every book is annotated (who speaks every line, how, and the mood of about a quarter of the paragraphs), and the audiobook kit makes the reading scripts from the annotations, the lexicon and the manuscript, so they stay in step with the text. Book 1's annotations date from October 2026; Books 2 and 3's were made by Claude in November 2026 to the same standard, for the author's review. Before narrating Books 2 and 3, check the respellings their lexicons propose for new names. Book 1 runs to roughly 32–34 hours; its narration started on 2 November 2026.
 - **Narration: Chatterbox** *(settled by the author, Nov 2026)*: the open-source Chatterbox (MIT), run on the author's Mac through the audiobook kit (`Tools/audiobook-kit/`), with Emma narrating everything. It is free and needs no subscription. The kit checks every take's words with Whisper and each chapter's loudness, and tags each file with its chapter title; each chapter is still listened to and proofread before release.
 - **Where an AI-narrated audiobook can go** *(stores' rules as of Sep 2026; check current terms)*:
   - **Google Play Books** and **Kobo Writing Life** accept uploaded AI-narrated audio (mark the narrator as a synthesised voice). So does selling direct (Gumroad, Payhip, your own site).

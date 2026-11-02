@@ -104,5 +104,5 @@
 - **Chapter openers:** each chapter opens with its abstract ink piece (`Book 1/Art/Chapter Openers/`).
 - **Chapter endings:** each chapter closes with a map page (`Book 1/Art/Maps/Chapter endings/`). All of Winshire sits on top, showing only the names the story has reached so far; unexplored lands stay bare. A close-up of the Marches sits below it, with a list of what's new on the map. New places and events are ringed. Older events keep their mark without a label.
 - **Front matter:** the book opens on a bare Winshire with no names (`Book 1/Art/Maps/Front matter/`). Readers fill it in by reading.
-- **Books 2–3** still need their own chapter-opener art and chapter-end maps; neither is made yet. Each plan row names where its chapter-end map should centre (the **Ends at** column).
+- **Books 2–3** have their own chapter-opener art and chapter-end maps for all 88 and 86 chapters (Oct 2026), built the same way (`Tools/README.md`). Each plan row names where its chapter-end map centres (the **Ends at** column).
 - **Keep the maps in step with the prose.** When a drafted chapter moves a place or event, or mentions a new one, update `Tools/atlas/marches_items.py` and rebuild. `Bible/Atlas.md` lists what appears in each chapter.

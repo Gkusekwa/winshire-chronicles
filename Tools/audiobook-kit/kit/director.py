@@ -15,7 +15,7 @@ Use (audiobook.sh option 11 does this, and sets up Ollama first):
         writes the annotations for those chapters; --redo also redoes chapters the AI did before
     director.py --book DIR --compare 5 [--model NAME]
         annotates chapter 5 without saving and compares it with the hand-made file: how often the model agrees
-        (use it on Book 1 of the Winshire Chronicles, whose annotations are hand-made, before running a whole book)
+        (use it on Book 1 of the Winshire Chronicles, whose annotations were directed paragraph by paragraph, before running a whole book)
 
 The model: book.json "model", or --model, or else qwen2.5:14b on a Mac with 24 GB of memory or more and
 qwen2.5:7b otherwise (Ollama downloads it the first time: about 9 GB or 4.7 GB).

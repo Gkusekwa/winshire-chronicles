@@ -23,6 +23,8 @@ Or copy the `audiobook-kit` folder next to a book's `Chapters/` and run `bash "M
   8) Audition: hear the voice on every kind of passage
   9) Setup only
  10) Put the chapter titles into chapters already built
+ 11) Write the annotations with the local AI (moods, who speaks, how)
+ 12) Compare the local AI with hand-made annotations
 ```
 
 Or give the choice directly: `... 1 7` (chapter 7, verified), `... 3 2-10` or `... 3 2,5,9` (several), `... 5` (the whole book), `... 7 all` (verify everything built).
@@ -72,6 +74,16 @@ Everything goes in the book's `audiobook/` folder. The first three are yours to 
 - Quotes are speech. A **how** note comes from the narration around the quote: the verb (whispered, shouted, murmured, hissed, called) and the manner (quietly, softly, her voice cracking).
 - Italics are emphasis when short and inside a sentence; thought, remembered or written words when the sentence says so ("she thought", "he had said", "it read"); verse when several italic lines follow one another; italic lines with "said" are speech, or bond speech when book.json says `"italics": "bond"`; anything else is thought.
 - **Moods** are given only where the words leave little doubt (grief: wept, buried, mourned; action: struck, hurled, screamed; humour: laughed, grinned), so most paragraphs stay plain narration. Tested against Book 1 of the Winshire Chronicles, whose annotations are hand-made, the kit types 99% of quotes correctly, but moods only 1 paragraph in 50 (a quarter of them exactly as the hand did). Hand-made moods follow the scene, not just its words, so for a book that deserves the full performance, go through the annotations and add the moods.
+
+### Annotations by a local AI (options 11 and 12)
+
+The kit's rules type quotes well but can only guess moods from words. For moods that follow the scene, the kit can have a free AI model running on your own Mac read the book and write the annotations, a few pages at a time, the way a director would: the kind of words and the speaker of every quote and italic, how a line is said where the text says so, and a mood for the paragraphs that need one. It runs through **Ollama** (free, offline: nothing leaves the computer).
+
+- **Option 11** (`... 11 all`, or `... 11 2-10`): the first time, it installs Ollama (with Homebrew) and downloads the model; then it annotates the chapters, with progress and the time left, and remakes the reading scripts. A whole book takes some hours; stop with Ctrl-C and run it again, and finished chapters are kept.
+- **Option 12** (`... 12 5`): annotates one chapter without saving and compares it with that chapter's hand-made annotations: how often the model agrees on the kind of words and on moods, and where it differs. Try it on a few chapters of a hand-annotated book (Book 1 of the Winshire Chronicles) before letting it loose on a whole book, and try a bigger model if it disagrees too often.
+- **The model:** book.json `"model"` (any model Ollama has, e.g. `"qwen2.5:14b"`); otherwise `qwen2.5:14b` on a Mac with 24 GB of memory or more (about 9 GB to download), `qwen2.5:7b` otherwise (about 4.7 GB). Bigger reads better and runs slower.
+- **Safe to use:** hand-made annotations (no `"auto"` line) are never touched; chapters the model has done are kept unless you ask again (`director.py ... --redo`); every answer is checked, and anything that isn't an allowed type or mood, or a quote it skipped, is filled in by the rules. Its files say which model made them (`"generator": "ai:qwen2.5:14b / prompt 1"`). If a chapter changes afterwards, its annotations are kept and filled in, and the kit tells you so you can run option 11 on it again.
+- Correct what it writes as you would any annotations, and delete the `"auto"` line to make the file yours.
 
 ## How emotion is carried
 

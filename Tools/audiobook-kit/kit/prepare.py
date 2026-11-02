@@ -162,7 +162,11 @@ def annotations(n, paras, source_sha):
     made = directions.auto(paras, None, cfg.C.get("italics", "thought"))
     if os.path.exists(path):
         ann = json.load(open(path, encoding="utf-8"))
-        if not ann.get("auto") or ann.get("source_sha1") == source_sha and ann.get("generator") == directions.GENERATOR:
+        by_ai = str(ann.get("generator", "")).startswith("ai:")
+        if by_ai and ann.get("source_sha1") != source_sha:
+            print(f"  chapter {n}: changed since the local AI annotated it; its annotations are kept and filled in."
+                  f" To have the AI do it again: menu option 11 with chapter {n}.")
+        if not ann.get("auto") or by_ai or ann.get("source_sha1") == source_sha and ann.get("generator") == directions.GENERATOR:
             missing = [i for i in ids if i not in ann.get("spans", {})]
             extra = [i for i in ann.get("spans", {}) if i not in set(ids)]
             if missing or extra:

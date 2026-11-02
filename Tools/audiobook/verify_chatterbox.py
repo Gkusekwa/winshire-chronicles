@@ -133,7 +133,12 @@ def main():
         if not os.path.exists(mp3):
             print(f"{n:02d}: not built yet ({os.path.relpath(mp3, REPO)} missing), skipped"); continue
         print(f"{n:02d}: transcribing…", flush=True)
-        segs, _ = asr.transcribe(mp3, language="en", beam_size=1, word_timestamps=True,
+        # decode with ffmpeg ourselves (16 kHz mono) rather than letting faster-whisper open the file: its PyAV call
+        # breaks with newer PyAV releases
+        pcm = subprocess.run(["ffmpeg", "-loglevel", "error", "-i", mp3, "-ac", "1", "-ar", str(SR), "-f", "f32le", "-"],
+                             capture_output=True, check=True).stdout
+        audio16 = np.frombuffer(pcm, dtype=np.float32)
+        segs, _ = asr.transcribe(audio16, language="en", beam_size=1, word_timestamps=True,
                                  condition_on_previous_text=False, vad_filter=False)
         heard, times = [], []
         for sg in segs:

@@ -81,6 +81,9 @@ def main():
     args = sys.argv[1:]
     use_cast = "--cast" in args   # default: the narrator (Emma) reads everything
     import numpy as np, torch
+    import perth
+    if perth.PerthImplicitWatermarker is None:
+        sys.exit("Chatterbox's watermarker didn't load (it needs pkg_resources). Run: ~/chatterbox/venv/bin/pip install 'setuptools<81'")
     from chatterbox.tts import ChatterboxTTS
     device = "cuda" if torch.cuda.is_available() else ("mps" if torch.backends.mps.is_available() else "cpu")
     print("device:", device)

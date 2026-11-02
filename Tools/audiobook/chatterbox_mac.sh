@@ -28,7 +28,7 @@ if [ ! -x "$C/venv/bin/python" ]; then
   "$PY" -m venv "$C/venv"
   "$C/venv/bin/pip" install -q --upgrade pip
 fi
-"$C/venv/bin/pip" install -q "chatterbox-tts==0.1.7"
+"$C/venv/bin/pip" install -q "chatterbox-tts==0.1.7" "setuptools<81"   # Chatterbox's watermarker needs pkg_resources
 # Reference clips (the Kokoro cast reading the same lines), so both engines use the same voices.
 if [ ! -s "Book 1/audiobook/Chatterbox/refs/Narrator.wav" ]; then
   bash Tools/audiobook/kokoro_mac.sh refs

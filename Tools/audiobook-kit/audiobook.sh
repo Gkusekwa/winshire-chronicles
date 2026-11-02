@@ -24,6 +24,8 @@
 #  11  write the annotations with a free AI model on this Mac (Ollama)    ... 11 all   or  ... 11 2-10
 #  12  compare the AI with hand-made annotations, without saving        ... 12 5
 #  13  check the annotations after editing them by hand                 ... 13 all   or  ... 13 7
+#  14  accept chapters after listening (marks them PASS, so they're kept)  ... 14 7   or  ... 14 2-10
+#  15  scan the scripts for lines likely to go wrong, before building    ... 15
 # Everything it makes goes in "My Book/audiobook/": book.json, annotations/, Lexicon.csv, Performance/ and out/ (the MP3s and check reports)
 # (title, author, where the chapters are, names, narrator clip; made on the first run, edit it freely).
 set -e
@@ -79,7 +81,9 @@ if [ -z "$choice" ]; then
   echo " 11) Write the annotations with the local AI (moods, who speaks, how)"
   echo " 12) Compare the local AI with hand-made annotations"
   echo " 13) Check the annotations (after editing them by hand)"
-  read -r -p "Choose 1-13: " choice
+  echo " 14) Accept chapters after listening to their doubtful lines"
+  echo " 15) Scan the scripts for lines likely to go wrong"
+  read -r -p "Choose 1-15: " choice
 fi
 
 case "$choice" in
@@ -132,7 +136,15 @@ case "$choice" in
     [ -n "$chapters" ] || read -r -p "Chapters to check (e.g. all, or 7): " chapters
     python3 "$KIT/kit/check.py" --book "$BOOK" "$chapters" --strict
     exit $? ;;
-  *) echo "Choose 1 to 13."; exit 1 ;;
+  14)
+    [ -n "$chapters" ] || read -r -p "Chapters you've listened to and accept (e.g. 7, or 2-10): " chapters
+    [[ "$chapters" =~ ^[0-9,-]+$ ]] || { echo "Chapters like 7 or 2-10, please."; exit 1; }
+    python3 "$KIT/kit/render.py" --accept "$chapters" --book "$BOOK"
+    exit 0 ;;
+  15)
+    python3 "$KIT/kit/scan.py" --book "$BOOK"
+    exit 0 ;;
+  *) echo "Choose 1 to 15."; exit 1 ;;
 esac
 
 ensure_setup

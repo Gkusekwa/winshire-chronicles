@@ -210,7 +210,9 @@ _SIM = {}
 _SOUND_ALIKE = [set(x.split()) for x in ("to two too", "for four fore", "there their theyre", "no know", "right write",
                                             "hear here", "by buy bye", "one won", "eight ate", "new knew", "so sew sow",
                                             "whole hole", "would wood", "through threw", "sea see", "son sun", "way weigh",
-                                            "allowed aloud", "mist missed", "past passed", "board bored", "court caught")]
+                                            "allowed aloud", "mist missed", "past passed", "board bored", "court caught",
+                                            "knight night", "knights nights", "rode road rowed", "reined rained reigned",
+                                            "tail tale", "wait weight", "bear bare", "flour flower", "mail male")]
 
 
 def same_word(a, b):
@@ -263,8 +265,20 @@ def join_split(hyp, ref):
     while i < len(hyp):
         if i + 1 < len(hyp) and hyp[i] + hyp[i + 1] in want:
             out.append(hyp[i] + hyp[i + 1]); i += 2
+            continue
+        w = hyp[i]
+        # and the other way: one heard word for two written ("goodnight" for "good knight")
+        if w not in want and len(w) >= 6:
+            for k in range(2, len(w) - 1):
+                a, b = w[:k], w[k:]
+                ok = lambda x: x in want or any(x in g and g & want for g in _SOUND_ALIKE)
+                if ok(a) and ok(b):
+                    out += [a, b]; break
+            else:
+                out.append(w)
         else:
-            out.append(hyp[i]); i += 1
+            out.append(w)
+        i += 1
     return out
 
 
@@ -345,6 +359,24 @@ def chapter_list(args):
     return out
 
 
+def accept(args):
+    """--accept 7 | 2-10: after listening to a chapter's doubtful lines and finding them right, mark it PASS, so a
+    resumed build keeps it. Rendering it again (or changing its script) clears this."""
+    man_path = os.path.join(OUT, "manifest.json")
+    try:
+        manifest = json.load(open(man_path))
+    except Exception:
+        manifest = {}
+    for n in sorted(set(chapter_list(args))):
+        e = manifest.get(f"{n:02d}")
+        if not isinstance(e, dict) or not os.path.exists(os.path.join(OUT, f"{n:02d}.mp3")):
+            print(f"{n:02d}: not built yet, nothing to accept"); continue
+        e.update(status="PASS", reasons=["accepted after listening"] + [r for r in e.get("reasons", []) if r != "accepted after listening"])
+        manifest[f"{n:02d}"] = e
+        print(f"{n:02d}: accepted (PASS); a resumed build will keep it")
+    json.dump(manifest, open(man_path, "w"), indent=1)
+
+
 def retag(args):
     """--retag 1 | 2-10 | --all: put the titles into chapters already built, without rendering them again."""
     prepare.main(quiet=True)          # the titles come from the reading scripts: make them first
@@ -366,6 +398,8 @@ def main():
     args = sys.argv[1:]
     if "--retag" in args:
         return retag([a for a in args if a != "--retag"])
+    if "--accept" in args:
+        return accept([a for a in args if a != "--accept"])
     use_cast = False              # one narrator reads everything
     prepare.main(quiet=True)      # make or refresh the scripts from the chapters
     import numpy as np, torch
@@ -430,10 +464,15 @@ def main():
                 return f"silence of {best * 0.05:.1f}s inside"
         return None
 
-    def heard(audio):
-        """What the recogniser hears in a take (16 kHz for Whisper)."""
+    def heard(audio, short=False):
+        """What the recogniser hears in a take (16 kHz for Whisper). A short take gets half a second of silence at
+        each end and a more careful search: on a clip of a second or so, Whisper otherwise often mishears."""
         x = np.interp(np.arange(0, len(audio), SR / 16000), np.arange(len(audio)), audio).astype(np.float32)
-        segs, _ = asr.transcribe(x, language="en", beam_size=1, vad_filter=False, condition_on_previous_text=False)
+        if short:
+            pad = np.zeros(8000, dtype=np.float32)
+            x = np.concatenate([pad, x, pad])
+        segs, _ = asr.transcribe(x, language="en", beam_size=5 if short else 1, vad_filter=False,
+                                 condition_on_previous_text=False)
         return " ".join(sg.text for sg in segs)
 
     def word_problem(audio, text):
@@ -441,7 +480,7 @@ def main():
         if asr is None:
             return None, 0.0, []
         ref = norm_words(text)
-        hyp = join_split(norm_words(heard(audio)), ref)
+        hyp = join_split(norm_words(heard(audio, short=len(ref) <= 3)), ref)
         if not ref:
             return None, 0.0, []
         errs, details = word_errors(ref, hyp, WILD)
@@ -459,7 +498,9 @@ def main():
             conds[key] = model.conds
         model.conds = conds[key]
         takes = []
-        for attempt in range(TRIES):
+        # very short lines (three words or fewer) are the ones that go wrong most: up to six tries for those
+        tries = TRIES if TRIES == 1 or len(norm_words(text)) > 3 else 2 * TRIES
+        for attempt in range(tries):
             wav = model.generate(text, exaggeration=exaggeration, cfg_weight=cfg)
             audio = wav.squeeze(0).cpu().numpy().astype(np.float32)
             # Chatterbox's own take, before any volume change: flat tops (three or more samples in a row at full

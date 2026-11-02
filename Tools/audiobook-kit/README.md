@@ -26,6 +26,8 @@ Or copy the `audiobook-kit` folder next to a book's `Chapters/` and run `bash "M
  11) Write the annotations with the local AI (moods, who speaks, how)
  12) Compare the local AI with hand-made annotations
  13) Check the annotations (after editing them by hand)
+ 14) Accept chapters after listening to their doubtful lines
+ 15) Scan the scripts for lines likely to go wrong
 ```
 
 Or give the choice directly: `... 1 7` (chapter 7, verified), `... 3 2-10` or `... 3 2,5,9` (several), `... 5` (the whole book), `... 7 all` (verify everything built).
@@ -34,6 +36,8 @@ Or give the choice directly: `... 1 7` (chapter 7, verified), `... 3 2-10` or `.
 - **PASS is a screen, not a proof.** The word check allows near-misses (spelling variants) and counts names as matching whatever was heard, and single misheard words are listed as minor. A chapter that passes still needs a full listen and proofread before release.
 - **Not verified:** one take per passage, no checks, faster. Chapters are marked UNCHECKED (drafts).
 - **Verify chapters already built (7):** transcribes the finished MP3s and lists every place the words differ from the script, with its time in the file, plus the loudness checks; PASS or FAIL in `audiobook/out/NN_verify.txt`. Nothing is re-rendered.
+- **Very short lines** (three words or fewer: "Down.", "Tell Pell.") go wrong most: on Book 1's first chapter, 42% needed a retake, against 2% of longer lines. They get up to six tries instead of three, and a more careful check (Whisper mishears a one-second clip). **Option 15** scans a book's scripts before building and predicts the retakes and doubtful lines, chapter by chapter (`audiobook/out/risk_scan.txt`).
+- **Accepting by ear (option 14):** when a chapter fails only on lines that sound right when you listen, accept it (`... 14 7`); it's marked PASS and a resumed build keeps it.
 - **Resuming:** several chapters and the whole book skip chapters that already passed with unchanged inputs, so stop with Ctrl-C and run the same command again.
 - **Listening:** the checks find likely skips, repeats and garbles; they can't judge names, emphasis or feeling. Listen to every chapter, starting with the passages the reports flag.
 

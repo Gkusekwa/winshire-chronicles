@@ -44,7 +44,7 @@ Everything goes in `My Book/audiobook/`:
 | | |
 |---|---|
 | `book.json` | The settings, made on the first run from what the kit can work out. Edit freely (below). |
-| `scripts/NN.json` | The reading script for each chapter, made from the chapter files and refreshed when a chapter changes. `00` and `99` are opening and closing credits, which say the book is read by a digital voice. |
+| `reading_scripts/NN.json` | The reading script for each chapter, made from the chapter files and refreshed when a chapter changes. `00` and `99` are opening and closing credits, which say the book is read by a digital voice. |
 | `out/NN.mp3` | The finished chapters (44.1 kHz MP3, loudness-normalised to about -19 LUFS), tagged with the chapter's title ("Chapter 7: The Ferry"), the book, the author and the track number, so players and stores show each chapter by name. Option 10 tags chapters built before tagging existed. |
 | `out/NN_check.txt`, `out/NN_verify.txt` | The check reports. |
 | `out/manifest.json` | What was built from what, and each chapter's status. |
@@ -66,6 +66,7 @@ Everything goes in `My Book/audiobook/`:
 {
  "title": "My Book",
  "author": "A. Writer",
+ "series": "",
  "chapters": "Chapters",
  "pattern": "*.md",
  "scripts": "",
@@ -76,6 +77,7 @@ Everything goes in `My Book/audiobook/`:
 }
 ```
 
+- **title**, **author** and **series** (e.g. "The Winshire Chronicles, Book Two"): read in the opening credits and written into each chapter's tags. Set them before building; the first run guesses the title from the folder's name.
 - **names**: pronunciations, as a `.csv` with one `Name,Respelling` per line (e.g. `Aurveth,Orveth`), or a `.pls` lexicon with aliases. The respelling is what the narrator reads.
 - **narrator**: the narrator's voice, as a clean 8–15-second WAV of one person reading plainly. The default is `audiobook-kit/voices/narrator.wav`. Keep it unchanged for a whole book: a different clip means a different narrator.
 - **scripts**: a folder of ready-made reading scripts to use instead of building them from the chapters. Each script lists segments with a type, text, pause and optional mood and "how" note, which are what give the read its shaping.

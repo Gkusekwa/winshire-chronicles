@@ -7,10 +7,12 @@ created on the first run with what the kit could work out; edit it to change any
 book.json:
   title        the book's title (spoken in the opening credits)
   author       the author's name (spoken in the opening credits)
+  series       the series and number, e.g. "The Winshire Chronicles, Book Two" (spoken after the title; optional)
   chapters     folder of chapter files, relative to the book (default: Chapters)
   pattern      which files are chapters (default: *.md)
   scripts      a folder of ready-made reading scripts (NN.json) to use instead of building them from the chapters
-               (empty: build them; the Winshire Chronicles' Book 1 uses its annotated scripts this way)
+               (empty: the kit builds them in audiobook/reading_scripts; the Winshire Chronicles' Book 1 uses its
+               annotated scripts this way)
   names        pronunciation respellings: a .pls lexicon (aliases) or a .csv of name,respelling (optional)
   narrator     the narrator's reference clip (default: the kit's voices/narrator.wav)
   output       where the finished chapters go (default: audiobook/out)
@@ -37,9 +39,15 @@ def _guess():
     chapters = next((d for d in ("Chapters", "chapters", "Manuscript", "manuscript", "Text", ".")
                      if glob.glob(os.path.join(BOOK, d, "*.md"))), "Chapters")
     title = os.path.basename(BOOK)
-    return {"title": title, "author": "", "chapters": chapters, "pattern": "*.md", "scripts": "",
-            "names": next((os.path.relpath(p, BOOK) for p in glob.glob(os.path.join(AUDIO, "*.pls"))
-                           + glob.glob(os.path.join(AUDIO, "names.csv"))), ""),
+    def respellings(p):     # a names file only counts if it gives respellings (a .pls of IPA phonemes doesn't)
+        try:
+            return p.endswith(".csv") or "<alias>" in open(p, encoding="utf-8").read()
+        except Exception:
+            return False
+    names = next((os.path.relpath(p, BOOK) for p in sorted(glob.glob(os.path.join(AUDIO, "*.pls")))
+                  + glob.glob(os.path.join(AUDIO, "names.csv")) if respellings(p)), "")
+    return {"title": title, "author": "", "series": "", "chapters": chapters, "pattern": "*.md", "scripts": "",
+            "names": names,
             "narrator": "", "output": "audiobook/out", "credits": True}
 
 
@@ -66,12 +74,13 @@ def _path(p, default):
 
 
 CHAPTERS = _path(C["chapters"], os.path.join(BOOK, "Chapters"))
-SCRIPTS = _path(C["scripts"], os.path.join(AUDIO, "scripts"))
+# "reading_scripts", not "scripts": a Mac's disk ignores case, and a book may already have a "Scripts" folder
+SCRIPTS = _path(C["scripts"], os.path.join(AUDIO, "reading_scripts"))
 BUILT_SCRIPTS = not C["scripts"]          # True: the kit makes the scripts from the chapters
 NAMES = _path(C["names"], "")
 NARRATOR = _path(C["narrator"], os.path.join(KIT, "voices", "narrator.wav"))
 OUT = _path(C["output"], os.path.join(AUDIO, "out"))
-TITLE, AUTHOR = C["title"], C["author"]
+TITLE, AUTHOR, SERIES = C["title"], C["author"], C.get("series", "")
 
 
 def chapter_numbers():

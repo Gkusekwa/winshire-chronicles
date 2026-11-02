@@ -1,7 +1,7 @@
 """Render audiobook chapters with Chatterbox (Resemble AI, MIT licence): free, and offline after the first download.
 Part of the audiobook kit: run it through `audiobook.sh`, which sets things up and offers the menu.
 
-It reads the reading scripts (`<book>/audiobook/scripts/NN.json`, made from the chapters by prepare.py, or a folder of
+It reads the reading scripts (`<book>/audiobook/reading_scripts/NN.json`, made from the chapters by prepare.py, or a folder of
 ready-made scripts named in book.json) and writes `<book>/audiobook/out/NN.mp3`.
 - One narrator reads everything, cloned from a short reference clip (book.json "narrator"; default the kit's
   voices/narrator.wav). Each paragraph is read whole; long ones are split at sentence ends (about 200 characters).

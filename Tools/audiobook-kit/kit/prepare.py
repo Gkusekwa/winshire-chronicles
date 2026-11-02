@@ -1,4 +1,4 @@
-"""Make the reading scripts from the chapter files (Markdown), one `NN.json` per chapter in `<book>/audiobook/scripts/`.
+"""Make the reading scripts from the chapter files (Markdown), one `NN.json` per chapter in `<book>/audiobook/reading_scripts/`.
 
 Chapters: every file matching the pattern in the chapters folder (default `Chapters/*.md`), numbered by the first
 number in the file name (`Chapter 07 - Title.md` -> 7) or, failing that, by sorted order. Up to 98 chapters
@@ -144,7 +144,8 @@ def build(n, path, last_part):
 
 def credits():
     t, a = cfg.TITLE, cfg.AUTHOR
-    opening = [f"{t}.", f"Written by {a}." if a else None, "This audiobook is read by a digital voice."]
+    sr = cfg.SERIES.strip().rstrip(".")
+    opening = [f"{t}.", f"{sr}." if sr else None, f"Written by {a}." if a else None, "This audiobook is read by a digital voice."]
     closing = [f"This has been {t}." + (f" Written by {a}." if a else ""), "Read by a digital voice."]
     mk = lambda n, name, lines: {"chapter": n, "title": name, "names": [], "segments": [
         {"seq": i + 1, "para": "", "type": "title", "text": l, "pause_after_ms": 1200} for i, l in enumerate(x for x in lines if x)]}

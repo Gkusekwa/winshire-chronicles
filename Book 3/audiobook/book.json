@@ -11,5 +11,6 @@
  "names": "audiobook/Lexicon.csv",
  "narrator": "",
  "output": "audiobook/out",
- "credits": true
+ "credits": true,
+ "mood_examples": "../Book 1"
 }

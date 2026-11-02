@@ -38,7 +38,7 @@ if _h.strip("[]") not in ("127.0.0.1", "localhost", "::1", "0.0.0.0"):
     sys.exit(f"OLLAMA_HOST is set to {HOST}, which isn't this computer. The kit only sends the book to an AI running"
              " here; unset OLLAMA_HOST (or set it to 127.0.0.1:11434) and try again.")
 HOST = HOST.replace("0.0.0.0", "127.0.0.1")
-PROMPT_VERSION = "2"
+PROMPT_VERSION = "3"
 FAMILY = {"action": "tense", "tension": "tense", "dread": "tense", "urgent": "tense", "anger": "tense",
           "quiet": "soft", "reflective": "soft", "tender": "soft", "grief": "soft", "humour": "light", "awe": "awe"}
 TYPES = ["speech", "bond", "thought", "remembered", "written", "verse", "emphasis", "term"]
@@ -148,14 +148,60 @@ def chunks(paras):
     return out
 
 
+_EXAMPLES = {}
+
+
+def examples(skip_chapter=None):
+    """Paragraphs a person directed by hand, as examples of this series' taste: a few for each mood (more for humour,
+    which is the hardest to see) and some left plain. Taken from book.json "mood_examples" (a book folder, e.g.
+    "../Book 1"), or from this book's own hand-made annotations; never from the chapter being annotated."""
+    import glob, random
+    src = cfg.C.get("mood_examples", "")
+    src = os.path.normpath(os.path.join(cfg.BOOK, src)) if src else cfg.BOOK
+    key = (src, skip_chapter if src == cfg.BOOK else None)
+    if key in _EXAMPLES:
+        return _EXAMPLES[key]
+    want = {m: (4 if m == "humour" else 2) for m in MOODS}
+    want["none"] = 8
+    got = {m: [] for m in want}
+    files = sorted(glob.glob(os.path.join(src, "audiobook", "annotations", "ch*.json")))
+    random.Random(7).shuffle(files)
+    for f in files:
+        n = int(re.search(r"ch(\d+)", f).group(1))
+        if key[1] is not None and n == key[1]:
+            continue
+        ann = json.load(open(f, encoding="utf-8"))
+        if ann.get("auto"):
+            continue
+        ch = glob.glob(os.path.join(src, os.path.relpath(cfg.CHAPTERS, cfg.BOOK), f"*{n:02d}*.md")) or \
+             glob.glob(os.path.join(src, "Chapters", f"*{n:02d}*.md"))
+        if not ch:
+            continue
+        _, _, body = P.read_chapter(ch[0], n)
+        for p in P.segment(body):
+            words = len(p["text"].split())
+            if not 18 <= words <= 90:
+                continue
+            m = ann.get("paragraphs", {}).get(p["id"], "").partition("|")[0].strip() or "none"
+            if m in got and len(got[m]) < want[m] and (m != "none" or len(got["none"]) < want["none"]):
+                got[m].append(P.clean(p["text"]))
+        if all(len(got[m]) >= want[m] for m in want):
+            break
+    lines = [f"[{m}] {t}" for m in MOODS + ["none"] for t in got[m]]
+    _EXAMPLES[key] = "\n".join(lines)
+    return _EXAMPLES[key]
+
+
 def ask(model, n, title, paras, before, pov):
     note = ITALIC_NOTE.get(cfg.C.get("italics", "thought"), "")
     user = (f"Book: {cfg.TITLE}. Chapter {n}: {title}." + (f" Point of view so far: {pov}." if pov else "") +
             (f"\nNote: {note}" if note else "") +
+            ("\n\nHow this series' director marked paragraphs elsewhere (examples of the taste to follow; most paragraphs"
+             " are [none]):\n" + examples(n) if examples(n) else "") +
             ("\n\nWhat came just before (for context only, don't mark it):\n" + before if before else "") +
             "\n\nMark these paragraphs:\n\n" + sheet(paras, pov))
     r = call("/api/chat", {"model": model, "stream": False, "format": schema(paras),
-                           "options": {"temperature": 0, "num_ctx": 8192},
+                           "options": {"temperature": 0, "num_ctx": 12288},
                            "messages": [{"role": "system", "content": SYSTEM}, {"role": "user", "content": user}]})
     return json.loads(r["message"]["content"])
 

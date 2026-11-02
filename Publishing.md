@@ -8,7 +8,7 @@
 
 - **Every book is published complete, in one volume, never split**, with all the chapter-opener art and every chapter-end map.
 - **Every chapter** *(established)*: it opens with its abstract picture and closes with the updated map. The bare map opens the book.
-- **Front matter** *(settled by the author, Oct 2026)*: each book opens with Places and words only. The story so far and the Who's who are published separately as the Guides to the Winshire books (`Guides/`).
+- **Front and back matter** *(settled by the author, Nov 2026)*: each book opens with the title, copyright, contents and the bare map, and ends with Places and words (`Book N/Back_Matter.md`). The story so far and the Who's who are published separately as the Guides to the Winshire books (`Guides/`).
 - **One text only.** Each book has one text, unabridged, in its one edition.
 
 ## Where the books go

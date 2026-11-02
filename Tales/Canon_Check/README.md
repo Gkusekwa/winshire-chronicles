@@ -2,7 +2,7 @@
 
 All 22 tales were checked against the books as they stood after the October 2026 fixes: every chapter each tale depends on, the Bible, and searches across all three books for every name, place and day number. One report per tale is in this folder.
 
-**Result:** all 22 tales needed small fixes, and all are fixed in the tale files (about 80 changes, mostly a word, a number or a line). Each tale's notes block says "Canon-checked against the books". The tales are still first drafts; the prose pass comes next.
+**Result:** all 22 tales needed small fixes, and all are fixed in the tale files (about 80 changes, mostly a word, a number or a line). Each tale's notes block says "Canon-checked against the books". All 22 have since had their final prose pass and are at final draft (Nov 2026).
 
 ## Open: issues found in the books
 

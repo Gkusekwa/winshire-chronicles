@@ -2,7 +2,7 @@
 
 The home of the Winshire books: the series bible and the manuscripts. Keep established canon consistent across documents; mark new possibilities as working proposals until they are agreed.
 
-**Status (Oct 2026):** all three books are close to final draft, 253 chapters (Book 1: 79, Book 2: 88, Book 3: 86). The whole trilogy was audited and fixed in October 2026, and the author has accepted the drafts as written: the Bible, the chapter plans and the maps follow them, and where any document differs from a draft, the draft wins. Only the publishing and audiobook choices are open (`Publishing.md`).
+**Status (Nov 2026):** all three books are close to final draft, 253 chapters (Book 1: 79, Book 2: 88, Book 3: 86). The whole trilogy was audited and fixed in October 2026, and the author has accepted the drafts as written: the Bible, the chapter plans and the maps follow them, and where any document differs from a draft, the draft wins. The tales were canon-checked against the books in November 2026, and the 26 contradictions this found inside the books are settled (`Tales/Canon_Check/Book_Fixes/`). Still open: the publishing and audiobook choices (`Publishing.md`; including how readers will find the Guides, the edition that goes out first, and the audiobook's voices and pronunciations), and the next series and the game (`Bible/Series_Outline.md`).
 
 ## What's here
 
@@ -25,7 +25,7 @@ The home of the Winshire books: the series bible and the manuscripts. Keep estab
 - **[Covers/](Covers/):** the covers for all three books in three editions (Bone, Night, Band), each edition with its own art.
 - **Book 2/Art/, Book 3/Art/:** the chapter-opener art and chapter-end maps for Books 2 (88 chapters) and 3 (86 chapters); `Maps/NOTES.md` lists the places placed on the map for the first time and how the geography conflicts were settled (the rulings are in `Bible/World.md`).
 - **Book 2/Chapters/, Book 3/Chapters/** and **Book 2/Notes/, Book 3/Notes/:** the manuscripts, one file per chapter as in Book 1, and each part's running ledger of facts (`Part1–7_Ledger.md`).
-- **[Tales/Plan.md](Tales/Plan.md):** Winshire Tales, short works from points of view the main books can't give (beasts, the dead, the years before), in five slots: before Book 1, within each book, and the handovers between them. Its open questions are settled (Oct 2026); the tale outlines are proposals until drafted.
+- **[Tales/Plan.md](Tales/Plan.md):** Winshire Tales, short works from points of view the main books can't give (beasts, the dead, the years before), in five slots: before Book 1, within each book, and the handovers between them. Its open questions are settled (Oct 2026). All 22 tales are at final draft (Nov 2026), numbered 1–22 in story order, each in its own folder (`Tales/NN - Title/`); where a tale differs from its outline, the tale wins. `Tales/Canon_Check/` records the canon check and the book fixes it led to.
 - **[Tools/](Tools/):** the scripts that generate the maps and `Bible/Atlas.md` (`Tools/atlas/build.py`), the chapter-opener and cover art (`Tools/art/`) and the audiobook scripts (`Tools/audiobook/`). Edit their data files and rebuild rather than editing the outputs by hand. Book 1's maps were rebuilt in October 2026; Books 2–3 have their chapter openers and chapter-end maps (`build.py --book 2` or `--book 3`). The chapter plans are maintained by hand.
 - **[Tools/README.md](Tools/README.md):** what each tool builds and how to run it.
 - **[Style_Guide.md](Style_Guide.md):** voice, point of view, and conventions for the prose.

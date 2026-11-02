@@ -1,5 +1,7 @@
 # Batch C: items 16, 20, 21, 22, 23 (Book 3 chs 38 and 7), 25
 
+**Status (2 Nov 2026): all applied.** Every edit below is in the chapters, and every item under "Needs changing elsewhere" has been made (Bible, Atlas and map data, Book 1 audiobook scripts and both variants, and the tale notes). Read the "Needs changing" lines as a record of what was done, not as open work.
+
 No Book 1 chapter touched (no audiobook rebuild needed for this batch).
 
 **Item 16, the lights in the east:** the lights start on night 4 (Book 3 ch 1 prose and notes, ch 2 notes and its later prose); Calder's day-3 line in ch 2 is the odd one out and now says only that the six went east three days ago.

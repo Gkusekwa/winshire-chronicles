@@ -1,5 +1,7 @@
 # Settle batch A: items 1–11 (Bonds and beasts; The Clan and Varrhold)
 
+**Status (2 Nov 2026): all applied.** Every edit below is in the chapters, and every item under "Needs changing elsewhere" has been made (Bible, Atlas and map data, Book 1 audiobook scripts and both variants, and the tale notes). Read the "Needs changing" lines as a record of what was done, not as open work.
+
 **Book 1 chapters touched (audiobook rebuild):** ch 1, 6, 37, 39, 42, 70.
 
 ---

@@ -48,7 +48,7 @@ The list below is the record of what was found.
 25. **Gannet's build:** "long, thin" in Book 1, "thick" in Book 3.
 26. **The College lamp colours** (Book 2 chs 3, 8 against chs 31, 36): different colleges, names and colours.
 
-## Left for the prose pass (tale against tale or reading)
+## Settled in the final prose pass (Nov 2026)
 - **Ulric's mare:** The Paymaster has Rook turn her loose on day 4; Book 2 ch 19 has Ulric say "He brought her back." Read as Ulric's belief; left as is.
-- **When Ulric left the feast:** Ford Water (before it ends) against The Paymaster ("after the feast").
-- **The Night the Glasses Broke:** the son-in-law reports the pass toll-house lamps the same night, though they're a day off.
+- **When Ulric left the feast:** settled. The Paymaster now has Ulric give Rook the mare "as he left the feast early", as in Ford Water.
+- **The Night the Glasses Broke:** settled. The son-in-law brings the toll-house news down off the Pass road on a later day.

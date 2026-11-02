@@ -1,5 +1,7 @@
 # Batch B: settled items
 
+**Status (2 Nov 2026): all applied.** Every edit below is in the chapters, and every item under "Needs changing elsewhere" has been made (Bible, Atlas and map data, Book 1 audiobook scripts and both variants, and the tale notes). Read the "Needs changing" lines as a record of what was done, not as open work.
+
 **Item 12, the far shore of Glasswater:** Vael is on the north shore (Atlas, map, chs 28, 29, 32), so the far shore is the south shore under the Iron Fells. Ch 8 now has the Fells above the far shore, and in ch 37 the Titan goes out over the western shore. That fits the map's day-173 route (t05, north-west) and the High Crown snow-line.
 - Changed:
   - Book 2 ch 8 prose: "snowfields of the High Crown above the far shore" → "snowfields of the Iron Fells above the far shore"

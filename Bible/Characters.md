@@ -19,7 +19,7 @@
 **Her years** *(fixed in review; settled Oct 2026)*: she joined the river watch at 17 and served **eight winters** on it, then came to Greyhold, where she has been **two years**; she is a second-year, aged 27.
 
 **Family:**
-- **Her father, Edric Ashdown,** was a bonded knight. When poachers killed his bonded hound-like beast, he died within days: one life between two. Maren was fourteen; he died thirteen years ago. His night on the island he told only Liss. She grew up seeing exactly what a bond costs, which is part of why she has never sought one.
+- **Her father, Edric Ashdown,** was a bonded knight. When poachers killed his bonded hound-like beast, he died on the third day: one life between two. Maren was fourteen; he died thirteen years ago. His night on the island he told only Liss. She grew up seeing exactly what a bond costs, which is part of why she has never sought one.
 - **Her mother, Liss,** runs a ferry on the border river and still crosses to the Saltreach side for trade. She tells the river's stories, including the island's. She carries Calder's family across as refugees (64).
 - **Her younger brother, Tam** (19), is apprenticed to a smith in a Hearthmere river town and worships the knights his sister is trying to become.
 

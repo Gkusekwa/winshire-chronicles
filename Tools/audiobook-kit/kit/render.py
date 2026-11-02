@@ -185,10 +185,15 @@ def norm_words(text):
     text = re.sub(r"\bcan't\b", "can not", text)
     text = re.sub(r"\bshan't\b", "shall not", text)
     text = re.sub(r"n't\b", " not", text)
-    for c, full in (("'ve", " have"), ("'ll", " will"), ("'re", " are"), ("'m", " am"), ("'d", " would")):
+    # the words hidden in a contraction are optional ("~"): "he'd decided" matches "he had decided", "he would
+    # decide" and "he decided" (a recogniser often drops them, and "'d" can be had or would)
+    for c, full in (("'ve", " ~have"), ("'ll", " ~will"), ("'re", " ~are"), ("'m", " ~am"), ("'d", " ~d")):
         text = re.sub(re.escape(c) + r"\b", full, text)
     text = re.sub(r"'s\b", "", text)
-    words = [w.replace("'", "") for w in re.findall(r"[a-z']+", text) if w.replace("'", "")]
+    text = re.sub(r"\balright\b", "all right", text)
+    text = re.sub(r"(^|\s)'?til\b", r"\1till", text)
+    text = re.sub(r"\bokay\b", "ok", text)
+    words = [w.replace("'", "") for w in re.findall(r"~?[a-z']+", text) if w.replace("'", "").strip("~")]
     # numbers said in words: ordinals as cardinals (tenth -> ten), no "and" or "a/one" before hundred/thousand,
     # so "the hundred-and-tenth day" and "the 110th day" compare equal
     out = []
@@ -220,6 +225,9 @@ def same_word(a, b):
     most one edit per three letters; or words that sound the same (two / to). Short words must match exactly."""
     if a == b:
         return True
+    if a.startswith("~") or b.startswith("~"):          # an optional word from a contraction
+        x, y = (a, b) if a.startswith("~") else (b, a)
+        return y.lstrip("~") in ({"would", "had", "did"} if x == "~d" else {x[1:]})
     if any(a in g and b in g for g in _SOUND_ALIKE):
         return True
     if len(a) < 4 or len(b) < 4 or a[0] != b[0]:
@@ -288,26 +296,33 @@ def word_errors(ref, hyp, wild):
     """Word-level edit distance between the script (ref) and what was heard (hyp); script words in `wild` (names)
     match any one heard word. Returns (errors, details) where details lists what went wrong."""
     n, m = len(ref), len(hyp)
+    dc = [0 if w.startswith("~") else 1 for w in ref]      # optional words cost nothing to leave out
+    ic = [0 if w.startswith("~") else 1 for w in hyp]
     d = [[0] * (m + 1) for _ in range(n + 1)]
-    for i in range(n + 1):
-        d[i][0] = i
-    for j in range(m + 1):
-        d[0][j] = j
+    for i in range(1, n + 1):
+        d[i][0] = d[i - 1][0] + dc[i - 1]
+    for j in range(1, m + 1):
+        d[0][j] = d[0][j - 1] + ic[j - 1]
     for i in range(1, n + 1):
         for j in range(1, m + 1):
             same = same_word(ref[i - 1], hyp[j - 1]) or ref[i - 1] in wild
-            d[i][j] = min(d[i - 1][j] + 1, d[i][j - 1] + 1, d[i - 1][j - 1] + (0 if same else 1))
+            d[i][j] = min(d[i - 1][j] + dc[i - 1], d[i][j - 1] + ic[j - 1], d[i - 1][j - 1] + (0 if same else 1))
     # walk back for a short list of what differed
     i, j, out = n, m, []
     while i > 0 or j > 0:
-        if i > 0 and j > 0 and d[i][j] == d[i - 1][j - 1] + (0 if (same_word(ref[i - 1], hyp[j - 1]) or ref[i - 1] in wild) else 1):
-            if not (same_word(ref[i - 1], hyp[j - 1]) or ref[i - 1] in wild):
+        same = i > 0 and j > 0 and (same_word(ref[i - 1], hyp[j - 1]) or ref[i - 1] in wild)
+        if i > 0 and j > 0 and d[i][j] == d[i - 1][j - 1] + (0 if same else 1):
+            if not same:
                 out.append(f"'{ref[i - 1]}'->'{hyp[j - 1]}'")
             i, j = i - 1, j - 1
-        elif i > 0 and d[i][j] == d[i - 1][j] + 1:
-            out.append(f"missing '{ref[i - 1]}'"); i -= 1
+        elif i > 0 and d[i][j] == d[i - 1][j] + dc[i - 1]:
+            if dc[i - 1]:
+                out.append(f"missing '{ref[i - 1]}'")
+            i -= 1
         else:
-            out.append(f"extra '{hyp[j - 1]}'"); j -= 1
+            if ic[j - 1]:
+                out.append(f"extra '{hyp[j - 1]}'")
+            j -= 1
     return d[n][m], list(reversed(out))
 
 BOOK_TITLE, BOOK_AUTHOR = cfg.TITLE, cfg.AUTHOR

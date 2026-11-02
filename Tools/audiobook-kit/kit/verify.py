@@ -24,19 +24,23 @@ def align(ref, hyp, wild):
     """Word alignment (edit distance; names in `wild` match anything). Returns (ref_i, hyp_j, op) with op in
     'ok', 'sub', 'del' (in the script, not heard) or 'ins' (heard, not in the script)."""
     n, m = len(ref), len(hyp)
-    prev = list(range(m + 1))
+    dc = [0 if w.startswith("~") else 1 for w in ref]      # optional words (from contractions) cost nothing
+    ic = [0 if w.startswith("~") else 1 for w in hyp]
+    prev = [0] * (m + 1)
+    for j in range(1, m + 1):
+        prev[j] = prev[j - 1] + ic[j - 1]
     back = [bytearray(m + 1) for _ in range(n + 1)]   # 0 diag, 1 up (del), 2 left (ins)
     for j in range(1, m + 1):
         back[0][j] = 2
     for i in range(1, n + 1):
-        cur = [i] + [0] * m
+        cur = [prev[0] + dc[i - 1]] + [0] * m
         back[i][0] = 1
         r = ref[i - 1]
         rw = r in wild
         for j in range(1, m + 1):
             diag = prev[j - 1] + (0 if (rw or rc.same_word(r, hyp[j - 1])) else 1)
-            up = prev[j] + 1
-            left = cur[j - 1] + 1
+            up = prev[j] + dc[i - 1]
+            left = cur[j - 1] + ic[j - 1]
             if diag <= up and diag <= left:
                 cur[j] = diag; back[i][j] = 0
             elif up <= left:
@@ -50,9 +54,9 @@ def align(ref, hyp, wild):
         if i > 0 and j > 0 and b == 0:
             ops.append((i - 1, j - 1, "ok" if (ref[i - 1] in wild or rc.same_word(ref[i - 1], hyp[j - 1])) else "sub")); i -= 1; j -= 1
         elif i > 0 and (j == 0 or b == 1):
-            ops.append((i - 1, None, "del")); i -= 1
+            ops.append((i - 1, None, "del" if dc[i - 1] else "ok")); i -= 1
         else:
-            ops.append((None, j - 1, "ins")); j -= 1
+            ops.append((None, j - 1, "ins" if ic[j - 1] else "ok")); j -= 1
     return list(reversed(ops))
 
 
@@ -207,8 +211,9 @@ def main():
                 clip = audio16[int(t0 * SR):int(t1 * SR)]
                 s2, _ = asr.transcribe(clip, language="en", beam_size=5, condition_on_previous_text=False, vad_filter=False)
                 again = rc.join_split(rc.norm_words(" ".join(x.text for x in s2)), ref_words)
-                found = lcs(ref_words, again, wild)
-                if found >= len(ref_words) - (1 if len(ref_words) > 5 else 0):
+                needed = [w for w in ref_words if not w.startswith("~")]
+                found = lcs(needed, again, wild)
+                if found >= len(needed) - (1 if len(needed) > 5 else 0):
                     big = False; second += 1
                     hyp_words = hyp_words + ["(a second listen heard it: " + " ".join(again[:12]) + ("…" if len(again) > 12 else "") + ")"]
             serious += big

@@ -2,9 +2,9 @@
 model download, and able to act. Use it to compare with the Kokoro cast, passage for passage.
 
 How it reads the scripts (`Book 1/audiobook/Performance/NN.json`):
-- Each character speaks in their own voice, cloned from a short reference clip in `Book 1/audiobook/Chatterbox/refs/`
-  (made from the Kokoro cast with `render_kokoro.py --refs --cast`, so both engines use the same cast). The narrator
-  reads narration, thoughts and written words.
+- The narrator reads everything, in Emma's voice, cloned from a short reference clip of Kokoro's Emma
+  (`Book 1/audiobook/Chatterbox/refs/Narrator.wav`, made with `render_kokoro.py --refs --cast`), so the two engines
+  can be compared on the same voice. With --cast, each character speaks in their own cloned voice instead.
 - Each line's mood and "how" note set Chatterbox's emotion intensity (exaggeration) and pacing (cfg weight).
 - Names are respelt from `Lexicon_Alias.pls`, since Chatterbox reads text, not phonemes.
 - Chatterbox adds an inaudible Perth watermark to its output (Resemble AI's responsible-AI marker).
@@ -77,6 +77,7 @@ def chunks(text, limit=260):
 
 def main():
     args = sys.argv[1:]
+    use_cast = "--cast" in args   # default: the narrator (Emma) reads everything
     import numpy as np, torch
     from chatterbox.tts import ChatterboxTTS
     device = "cuda" if torch.cuda.is_available() else ("mps" if torch.backends.mps.is_available() else "cpu")
@@ -111,7 +112,8 @@ def main():
     def runs(group):
         out = []
         for s in group:
-            role = castmap.role_of(s["speaker"]) if s.get("speaker") and rk.kind(s) in ("speech", "bond") else "Narrator"
+            role = (castmap.role_of(s["speaker"]) if use_cast and s.get("speaker") and rk.kind(s) in ("speech", "bond")
+                    else "Narrator")
             if out and out[-1][0] == role and rk.kind(out[-1][1][-1]) == rk.kind(s):
                 out[-1][1].append(s)
             else:
@@ -119,7 +121,6 @@ def main():
         return out
 
     def render(groups, label):
-        groups = rk.merge_titles(groups)
         parts = []
         for i, group in enumerate(groups):
             rs = runs(group)
@@ -135,7 +136,7 @@ def main():
                     if word in how:
                         ex += dex; gain += dg; how = how.replace(word, "")
                 ex = max(0.25, min(1.0, ex))
-                pieces = [text] if style == "title" else chunks(text)
+                pieces = rk.title_pieces(text) if style == "title" else chunks(text)
                 for q, piece in enumerate(pieces):
                     audio = tempo(say(piece, role, ex, cfg), TEMPO.get(style, 1.0))
                     parts.append(audio * (10 ** (gain / 20)))
@@ -161,7 +162,7 @@ def main():
         sys.exit("No reference clips: run  render_kokoro.py --refs --cast  first (kokoro_mac.sh refs does it).")
 
     if "--audition" in args:
-        write(render(rk.audition(), "audition"), os.path.join(OUT, "audition.mp3"))
+        write(render(rk.audition(), "audition"), os.path.join(OUT, "audition_cast.mp3" if use_cast else "audition.mp3"))
         return
 
     chapters = []

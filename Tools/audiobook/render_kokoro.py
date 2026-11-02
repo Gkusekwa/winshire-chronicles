@@ -105,24 +105,24 @@ def phonemes(k, text, lang, lex):
     return re.sub(r"\s+", " ", " ".join(x.strip() for x in out if x.strip())).replace(" ,", ",").replace(" .", ".")
 
 
-def merge_titles(groups):
-    """Chapter number and chapter title are read as one line ("Chapter One. The Unchosen Yard."): Kokoro reads
-    very short lines badly. The pause between their sentences is the one the script gives after the number."""
-    out = []
-    for g in groups:
-        if (out and g and g[0].get("type") == "title" and out[-1][-1].get("type") == "title"
-                and out[-1][0]["text"].startswith("Chapter")):
-            out[-1] = out[-1] + g
-        else:
-            out.append(list(g))
-    return out
+def gentle_trim(audio, keep=0.12):
+    """Kokoro's own trim clips the last consonant ("Two Bank"). Render untrimmed, then cut only true silence,
+    keeping a margin either side."""
+    import numpy as np
+    e = np.abs(audio)
+    loud = np.where(e > e.max() * 0.01)[0] if len(e) else []
+    if not len(loud):
+        return audio
+    m = int(SR * keep)
+    return audio[max(0, loud[0] - m): loud[-1] + m]
 
 
-def title_pause(group):
-    """Pause between the sentences of a title line, in seconds."""
-    if len(group) > 1:
-        return group[0].get("pause_after_ms", 800) / 1000
-    return 0.8   # "Part One. Two Banks."
+TITLE_BEAT = 1.0   # seconds between "Part One" and "Two Banks", "Chapter One" and "The Unchosen Yard"
+
+
+def title_pieces(text):
+    """A title line is said as separate lines with a beat between: "Part One" / "Two Banks"."""
+    return [p.strip() for p in re.split(r"(?<=\.)\s+", text) if p.strip()]
 
 
 def kind(seg):
@@ -207,7 +207,6 @@ def main():
             return out
 
     def render(groups, label):
-        groups = merge_titles(groups)
         if use_cast:
             return render_cast(groups, label)
         parts = []
@@ -216,10 +215,13 @@ def main():
             kinds = {kind(s) for s in group}
             style = kinds.pop() if len(kinds) == 1 else "narration"   # a special style only if the whole paragraph is that kind
             speed, db = STYLE[style]
-            sp = title_pause(group) if style == "title" else 0.25   # titles: one reading, with a real pause inside
-            audio, _ = k.create(phonemes(k, text, lang, lex), voice=voice, speed=speed, lang=lang, is_phonemes=True,
-                                sentence_pause=sp)
-            parts.append(np.asarray(audio, dtype=np.float32) * (10 ** (db / 20)))
+            pieces = title_pieces(text) if style == "title" else [text]
+            for j, piece in enumerate(pieces):
+                audio, _ = k.create(phonemes(k, piece, lang, lex), voice=voice, speed=speed, lang=lang, is_phonemes=True,
+                                    trim=False)
+                parts.append(gentle_trim(np.asarray(audio, dtype=np.float32)) * (10 ** (db / 20)))
+                if j < len(pieces) - 1:
+                    parts.append(np.zeros(int(SR * TITLE_BEAT), dtype=np.float32))
             parts.append(np.zeros(int(SR * group[-1].get("pause_after_ms", 300) / 1000), dtype=np.float32))
             print(f"\r{label}: {i + 1}/{len(groups)}", end="", flush=True)
         return np.concatenate(parts)
@@ -238,10 +240,13 @@ def main():
                 base_speed, base_gain = STYLE[style]
                 speed = max(0.85, min(1.12, base_speed * cspeed * mspeed))
                 gain = max(-6.0, min(2.0, base_gain + cgain + mgain))
-                sp = title_pause(segs) if style == "title" else 0.25
-                audio, _ = k.create(phonemes(k, text, "en-gb", lex), voice=style_vec(spec), speed=speed,
-                                    lang="en-gb", is_phonemes=True, sentence_pause=sp)
-                parts.append(shift(np.asarray(audio, dtype=np.float32), pitch) * (10 ** (gain / 20)))
+                pieces = title_pieces(text) if style == "title" else [text]
+                for q, piece in enumerate(pieces):
+                    audio, _ = k.create(phonemes(k, piece, "en-gb", lex), voice=style_vec(spec), speed=speed,
+                                        lang="en-gb", is_phonemes=True, trim=False)
+                    parts.append(shift(gentle_trim(np.asarray(audio, dtype=np.float32)), pitch) * (10 ** (gain / 20)))
+                    if q < len(pieces) - 1:
+                        parts.append(np.zeros(int(SR * TITLE_BEAT), dtype=np.float32))
                 if j < len(rs) - 1:
                     parts.append(np.zeros(int(SR * 0.15), dtype=np.float32))
             parts.append(np.zeros(int(SR * group[-1].get("pause_after_ms", 300) / 1000), dtype=np.float32))

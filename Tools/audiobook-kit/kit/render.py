@@ -255,9 +255,72 @@ def word_errors(ref, hyp, wild):
             out.append(f"extra '{hyp[j - 1]}'"); j -= 1
     return d[n][m], list(reversed(out))
 
+BOOK_TITLE, BOOK_AUTHOR = cfg.TITLE, cfg.AUTHOR
+SCRIPT_OF = cfg.script_path
+ALL_CHAPTERS = cfg.chapter_numbers
+
+
+# ---------------- tags (what players and stores show) ----------------
+def chapter_title(n):
+    """"Chapter 7: The Ferry" from the chapter's script; the credits and audition get their own names."""
+    if n == "audition":
+        return "Audition"
+    if n == 0:
+        return "Opening credits"
+    if n == 99:
+        return "Closing credits"
+    try:
+        t = (json.load(open(SCRIPT_OF(n), encoding="utf-8")).get("title") or "").strip().rstrip(".")
+    except Exception:
+        t = ""
+    return f"Chapter {n}: {t}" if t else f"Chapter {n}"
+
+
+def tag_mp3(mp3, n):
+    """Write the chapter's title, the book, the author and the track number into the MP3 (ID3v2.3), in place.
+    Only the tags change; the audio is copied untouched."""
+    nums = ALL_CHAPTERS()
+    meta = {"title": chapter_title(n), "album": BOOK_TITLE, "artist": BOOK_AUTHOR, "album_artist": BOOK_AUTHOR,
+            "genre": "Audiobook", "comment": "Read by a digital voice (Chatterbox)."}
+    if n != "audition" and n in nums:
+        meta["track"] = f"{nums.index(n) + 1}/{len(nums)}"
+    args = []
+    for k, v in meta.items():
+        if v:
+            args += ["-metadata", f"{k}={v}"]
+    tmp = mp3[:-4] + ".tagging.mp3"
+    subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", mp3, "-map", "0:a", "-c", "copy", "-map_metadata", "-1",
+                    *args, "-id3v2_version", "3", "-write_id3v1", "1", tmp], check=True)
+    os.replace(tmp, mp3)
+    return meta["title"]
+
+
+def chapter_list(args):
+    out = []
+    for a in args:
+        for part in a.split(","):
+            if re.fullmatch(r"\d+-\d+", part):
+                lo, hi = map(int, part.split("-")); out += range(lo, hi + 1)
+            elif part.isdigit():
+                out.append(int(part))
+    return out
+
+
+def retag(args):
+    """--retag 1 | 2-10 | --all: put the titles into chapters already built, without rendering them again."""
+    nums = sorted(set(ALL_CHAPTERS() if "--all" in args else chapter_list(args)))
+    done = 0
+    for n in nums:
+        mp3 = os.path.join(OUT, f"{n:02d}.mp3")
+        if os.path.exists(mp3):
+            print(f"{n:02d}: {tag_mp3(mp3, n)}"); done += 1
+    print(f"Tagged {done} file(s) in {OUT}.")
+
 
 def main():
     args = sys.argv[1:]
+    if "--retag" in args:
+        return retag([a for a in args if a != "--retag"])
     use_cast = False              # one narrator reads everything
     prepare.main(quiet=True)      # make or refresh the scripts from the chapters
     import numpy as np, torch
@@ -473,6 +536,7 @@ def main():
 
     if "--audition" in args:
         notes, fails = write(render(audition(), "audition"), os.path.join(OUT, "audition_cast.mp3" if use_cast else "audition.mp3"))
+        tag_mp3(os.path.join(OUT, "audition_cast.mp3" if use_cast else "audition.mp3"), "audition")
         print("; ".join(notes))
         for c in checks:
             print(c)
@@ -522,6 +586,7 @@ def main():
                 groups.append([s])
         checks.clear(); stats.update(takes=0, passages=0)
         notes, fails = write(render(groups, f"chapter {n}"), mp3)
+        print(f"{n:02d}: tagged \"{tag_mp3(mp3, n)}\"")
         doubtful = sum("STILL" in c for c in checks)
         if asr is None:
             status = "UNCHECKED"          # rendered with --no-words: a draft, never skipped as done

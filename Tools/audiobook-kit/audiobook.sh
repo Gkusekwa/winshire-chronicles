@@ -18,6 +18,7 @@
 #   7  verify chapters already built    ... 7 1        or  ... 7 2-10  or  ... 7 all
 #   8  audition: a few minutes of every kind of passage, to hear the voice
 #   9  setup only (install or update Chatterbox and Whisper)
+#  10  put the chapter titles into chapters already built (tags only)   ... 10 all
 # Everything it makes goes in "My Book/audiobook/": scripts/, out/ (the MP3s and check reports) and book.json
 # (title, author, where the chapters are, names, narrator clip; made on the first run, edit it freely).
 set -e
@@ -45,7 +46,8 @@ if [ -z "$choice" ]; then
   echo "  7) Verify chapters already built (no rendering)"
   echo "  8) Audition: hear the voice on every kind of passage"
   echo "  9) Setup only"
-  read -r -p "Choose 1-9: " choice
+  echo " 10) Put the chapter titles into chapters already built"
+  read -r -p "Choose 1-10: " choice
 fi
 
 case "$choice" in
@@ -66,7 +68,13 @@ case "$choice" in
     exit 0 ;;
   8) chapters="--audition" ;;
   9) bash "$KIT/setup_mac.sh"; exit 0 ;;
-  *) echo "Choose 1 to 9."; exit 1 ;;
+  10)
+    [ -n "$chapters" ] || read -r -p "Chapters to tag (e.g. 1, 2-10, or all): " chapters
+    [ "$chapters" = "all" ] && chapters="--all"
+    [[ "$chapters" =~ ^([0-9,-]+|--all)$ ]] || { echo "Chapters like 1, 2-10, 2,5,9 or all, please."; exit 1; }
+    python3 "$KIT/kit/render.py" --retag "$chapters"
+    exit 0 ;;
+  *) echo "Choose 1 to 10."; exit 1 ;;
 esac
 
 ensure_setup

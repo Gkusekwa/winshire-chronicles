@@ -24,6 +24,7 @@ bash "My Book/audiobook-kit/audiobook.sh"
   7) Verify chapters already built (no rendering)
   8) Audition: hear the voice on every kind of passage
   9) Setup only
+ 10) Put the chapter titles into chapters already built
 ```
 
 Or give the choice directly: `audiobook.sh 1 7` (chapter 7, verified), `audiobook.sh 3 2-10` or `audiobook.sh 3 2,5,9` (several), `audiobook.sh 5` (the whole book), `audiobook.sh 7 all` (verify everything built).
@@ -44,7 +45,7 @@ Everything goes in `My Book/audiobook/`:
 |---|---|
 | `book.json` | The settings, made on the first run from what the kit can work out. Edit freely (below). |
 | `scripts/NN.json` | The reading script for each chapter, made from the chapter files and refreshed when a chapter changes. `00` and `99` are opening and closing credits, which say the book is read by a digital voice. |
-| `out/NN.mp3` | The finished chapters (44.1 kHz MP3, loudness-normalised to about -19 LUFS). |
+| `out/NN.mp3` | The finished chapters (44.1 kHz MP3, loudness-normalised to about -19 LUFS), tagged with the chapter's title ("Chapter 7: The Ferry"), the book, the author and the track number, so players and stores show each chapter by name. Option 10 tags chapters built before tagging existed. |
 | `out/NN_check.txt`, `out/NN_verify.txt` | The check reports. |
 | `out/manifest.json` | What was built from what, and each chapter's status. |
 

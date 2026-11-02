@@ -10,12 +10,15 @@
 #   5  the whole book, verified         e.g.  ... 5
 #   6  the whole book, not verified     e.g.  ... 6
 #   7  verify chapters already built   e.g.  ... 7 1   or  ... 7 2-10   or  ... 7 all
+#   8  put the titles into chapters already built (tags only; no rendering)   e.g.  ... 8 all
 #
 # Verified: every take is checked (length, silences, and the words, by Whisper) and retaken up to three times;
 # each chapter ends PASS or FAIL in Book 1/audiobook/Chatterbox/out/NN_check.txt.
 # Not verified: one take per passage, no checks, faster; chapters are marked UNCHECKED (drafts).
 # Verify built chapters: Whisper transcribes the finished MP3s and compares them with the script, with times for
 # every difference, plus loudness and peak checks; it reports PASS or FAIL in out/NN_verify.txt and renders nothing.
+# Every chapter built is tagged with its title ("Chapter 1: The Unchosen Yard"), the book, the author and its track
+# number, so players and stores show the chapter's name; option 8 adds the tags to chapters built before this.
 # Several chapters and the whole book resume: chapters that already PASSED with unchanged inputs are skipped.
 set -e
 cd "$(dirname "$0")/../.."
@@ -30,7 +33,8 @@ if [ -z "$choice" ]; then
   echo "  5) Build the entire book and verify"
   echo "  6) Build the entire book without verifying"
   echo "  7) Verify chapters already built (no rendering)"
-  read -r -p "Choose 1-7: " choice
+  echo "  8) Put the chapter titles into chapters already built"
+  read -r -p "Choose 1-8: " choice
 fi
 
 case "$choice" in
@@ -52,7 +56,13 @@ case "$choice" in
     echo "==> Verifying built chapters: $chapters (Whisper's model downloads on first use, ~500 MB)"
     "$PYV" Tools/audiobook/verify_chatterbox.py "$chapters"
     exit 0 ;;
-  *) echo "Choose 1 to 7."; exit 1 ;;
+  8)
+    [ -n "$chapters" ] || read -r -p "Chapters to tag (e.g. 1, 2-10, or all): " chapters
+    [ "$chapters" = "all" ] && chapters="--all"
+    [[ "$chapters" =~ ^([0-9,-]+|--all)$ ]] || { echo "Chapters like 1, 2-10, 2,5,9 or all, please."; exit 1; }
+    python3 Tools/audiobook/render_chatterbox.py --retag "$chapters"
+    exit 0 ;;
+  *) echo "Choose 1 to 8."; exit 1 ;;
 esac
 
 args=("$chapters")

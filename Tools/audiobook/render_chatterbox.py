@@ -15,6 +15,8 @@ Use:
     python3 render_chatterbox.py --audition      # the same passages as the Kokoro audition -> out/audition.mp3
     python3 render_chatterbox.py 1               # chapter 1 -> out/01.mp3
     python3 render_chatterbox.py 1-79 --skip-done
+    python3 render_chatterbox.py 1 --narrator-ref Narrator_Tamsin.wav   # clone the ElevenLabs narrator instead of Emma
+                                                                       # (check the voice's terms allow it)
 
 Output: `Book 1/audiobook/Chatterbox/out/` (ignored by git; never commit the audio).
 """
@@ -88,7 +90,11 @@ def main():
     os.makedirs(OUT, exist_ok=True)
     conds = {}
 
+    narrator_ref = args[args.index("--narrator-ref") + 1] if "--narrator-ref" in args else None
+
     def ref_for(role):
+        if role == "Narrator" and narrator_ref:
+            return narrator_ref if os.path.isabs(narrator_ref) else os.path.join(REFS, narrator_ref)
         p = os.path.join(REFS, role.replace(" ", "_") + ".wav")
         return p if os.path.exists(p) else os.path.join(REFS, "Narrator.wav")
 
@@ -179,7 +185,7 @@ def main():
     for n in chapters:
         src = os.path.join(AB, "Variants", "local", f"{n:02d}.json")
         digest = hashlib.sha1(open(src, "rb").read() + open(__file__, "rb").read()).hexdigest()
-        mp3 = os.path.join(OUT, f"{n:02d}.mp3")
+        mp3 = os.path.join(OUT, f"{n:02d}" + ("_" + os.path.splitext(os.path.basename(narrator_ref))[0] if narrator_ref else "") + ".mp3")
         if "--skip-done" in args and os.path.exists(mp3) and manifest.get(f"{n:02d}") == digest:
             print(f"{n:02d}: up to date, skipped"); continue
         groups = []

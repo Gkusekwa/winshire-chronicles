@@ -1,9 +1,14 @@
 """Render Book 1 audiobook passages with Chatterbox (Resemble AI, MIT licence): free, offline after the first
 model download, and able to act. The free route for the audiobook, benchmarked against the ElevenLabs renders.
 
-How it reads the scripts (`Book 1/audiobook/Variants/local/NN.json`: the local-engine version of the scripts, without part titles or chapter numbers; rebuild with `build.py --variant local`):
+How it reads the scripts (`Book 1/audiobook/Performance/NN.json`, the same scripts as the ElevenLabs kit, part titles and
+chapter numbers included):
 - The narrator reads everything, in Emma's voice, cloned from a short reference clip
-  (`Book 1/audiobook/Chatterbox/refs/Narrator.wav`: a 12-second clip of Emma, kept from the Kokoro trial). With --cast, each character speaks in their own cloned voice instead.
+  (`Book 1/audiobook/Chatterbox/refs/Narrator.wav`: a 12-second clip of Emma). Emma is not an ElevenLabs voice, so the
+  Chatterbox production stays separate from the ElevenLabs one. With --cast, characters with a clip of their own in refs/
+  speak in that voice.
+- Slips: each passage is checked against its text. If its length doesn't fit (a skip, a repeat, garbling) or it holds a
+  long silence, it is generated again, up to three tries; anything still doubtful is listed in out/NN_check.txt.
 - Each line's mood and "how" note set Chatterbox's emotion intensity (exaggeration) and pacing (cfg weight).
 - Names are respelt from `Lexicon_Alias.pls`, since Chatterbox reads text, not phonemes.
 - Chatterbox adds an inaudible Perth watermark to its output (Resemble AI's responsible-AI marker).
@@ -14,8 +19,7 @@ Use:
     python3 render_chatterbox.py --audition      # passages of every kind from across the book -> out/audition.mp3
     python3 render_chatterbox.py 1               # chapter 1 -> out/01.mp3
     python3 render_chatterbox.py 1-79 --skip-done
-    python3 render_chatterbox.py 1 --narrator-ref Narrator_Tamsin.wav   # clone the ElevenLabs narrator instead of Emma
-                                                                       # (check the voice's terms allow it)
+    python3 render_chatterbox.py 1 --narrator-ref Other.wav             # another narrator clip from refs/
 
 Output: `Book 1/audiobook/Chatterbox/out/` (ignored by git; never commit the audio).
 """
@@ -53,10 +57,10 @@ def audition():
     want = [("title", None), ("narration", None), ("long", None), ("short", None), ("speech", None),
             ("bond", None), ("thought", None), ("remembered", None), ("narration", "grief"),
             ("narration", "tension"), ("verse", None), ("written", None), ("bond", "grief")]
-    files = sorted(f for f in os.listdir(os.path.join(AB, "Variants", "local")) if f.endswith(".json") and f[:2].isdigit() and f[:2] not in ("00", "99"))
+    files = sorted(f for f in os.listdir(os.path.join(AB, "Performance")) if f.endswith(".json") and f[:2].isdigit() and f[:2] not in ("00", "99"))
     groups = []
     for f in files:
-        segs = json.load(open(os.path.join(AB, "Variants", "local", f), encoding="utf-8"))["segments"]
+        segs = json.load(open(os.path.join(AB, "Performance", f), encoding="utf-8"))["segments"]
         cur = []
         for s in segs:
             if cur and s.get("para") and cur[-1].get("para") == s["para"]:
@@ -126,7 +130,7 @@ def text_of(segs, subs):
     return t
 
 
-def chunks(text, limit=260):
+def chunks(text, limit=200):
     """Chatterbox reads best in pieces of a sentence or three; split long text at sentence ends."""
     out, cur = [], ""
     for sent in re.split(r"(?<=[.!?…])\s+", text):
@@ -154,6 +158,7 @@ def main():
     subs = aliases()
     os.makedirs(OUT, exist_ok=True)
     conds = {}
+    checks = []
 
     narrator_ref = args[args.index("--narrator-ref") + 1] if "--narrator-ref" in args else None
 
@@ -163,14 +168,49 @@ def main():
         p = os.path.join(REFS, role.replace(" ", "_") + ".wav")
         return p if os.path.exists(p) else os.path.join(REFS, "Narrator.wav")
 
+    CHARS_PER_SEC = 14.0   # a steady narrator; used only to spot passages whose length doesn't fit their text
+
+    def problem(audio, text):
+        """Why this take looks like a slip, or None. Too short = words skipped; too long = repeats or babble;
+        a long silence inside = the model lost its place."""
+        secs = len(audio) / SR
+        expect = max(len(text) / CHARS_PER_SEC, 0.6)
+        if secs < expect * 0.5:
+            return f"too short ({secs:.1f}s for ~{expect:.1f}s)"
+        if secs > expect * 1.8 + 1.0:
+            return f"too long ({secs:.1f}s for ~{expect:.1f}s)"
+        env = np.abs(audio)
+        win = int(SR * 0.05)
+        if len(env) > win * 4:
+            frames = env[: len(env) // win * win].reshape(-1, win).max(axis=1)
+            quiet = frames < max(frames.max() * 0.02, 1e-4)
+            run = best = 0
+            for q in quiet[2:-2]:
+                run = run + 1 if q else 0
+                best = max(best, run)
+            if best * 0.05 > 2.0:
+                return f"silence of {best * 0.05:.1f}s inside"
+        return None
+
     def say(text, role, exaggeration, cfg):
         key = role
         if key not in conds:
             model.prepare_conditionals(ref_for(role), exaggeration=exaggeration)
             conds[key] = model.conds
         model.conds = conds[key]
-        wav = model.generate(text, exaggeration=exaggeration, cfg_weight=cfg)
-        return wav.squeeze(0).cpu().numpy().astype(np.float32)
+        takes = []
+        for attempt in range(3):
+            wav = model.generate(text, exaggeration=exaggeration, cfg_weight=cfg)
+            audio = wav.squeeze(0).cpu().numpy().astype(np.float32)
+            why = problem(audio, text)
+            takes.append((why, audio))
+            if why is None:
+                break
+        expect = len(text) / CHARS_PER_SEC
+        why, audio = min(takes, key=lambda t: (t[0] is not None, abs(len(t[1]) / SR - expect)))
+        if len(takes) > 1 or why:
+            checks.append(f"{'STILL DOUBTFUL' if why else 'fixed on retry'} ({len(takes)} tries; {why or takes[0][0]}): {text}")
+        return audio
 
     def tempo(audio, f):
         if abs(f - 1) < 0.01:
@@ -248,7 +288,7 @@ def main():
     except Exception:
         manifest = {}
     for n in chapters:
-        src = os.path.join(AB, "Variants", "local", f"{n:02d}.json")
+        src = os.path.join(AB, "Performance", f"{n:02d}.json")
         digest = hashlib.sha1(open(src, "rb").read() + open(__file__, "rb").read()).hexdigest()
         mp3 = os.path.join(OUT, f"{n:02d}" + ("_" + os.path.splitext(os.path.basename(narrator_ref))[0] if narrator_ref else "") + ".mp3")
         if "--skip-done" in args and os.path.exists(mp3) and manifest.get(f"{n:02d}") == digest:
@@ -259,7 +299,12 @@ def main():
                 groups[-1].append(s)
             else:
                 groups.append([s])
+        checks.clear()
         write(render(groups, f"chapter {n}"), mp3)
+        with open(os.path.join(OUT, f"{n:02d}_check.txt"), "w", encoding="utf-8") as fh:
+            fh.write(f"Chapter {n}: passages that needed another take or still look doubtful ({len(checks)}).\n"
+                     "Listen to the STILL DOUBTFUL ones.\n\n" + "\n".join(checks) + "\n")
+        print(f"{n:02d}: {sum('STILL' in c for c in checks)} doubtful, {sum('fixed' in c for c in checks)} fixed on retry")
         manifest[f"{n:02d}"] = digest
         json.dump(manifest, open(man_path, "w"), indent=1)
 

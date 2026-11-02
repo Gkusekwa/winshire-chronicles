@@ -38,7 +38,9 @@ if _h.strip("[]") not in ("127.0.0.1", "localhost", "::1", "0.0.0.0"):
     sys.exit(f"OLLAMA_HOST is set to {HOST}, which isn't this computer. The kit only sends the book to an AI running"
              " here; unset OLLAMA_HOST (or set it to 127.0.0.1:11434) and try again.")
 HOST = HOST.replace("0.0.0.0", "127.0.0.1")
-PROMPT_VERSION = "1"
+PROMPT_VERSION = "2"
+FAMILY = {"action": "tense", "tension": "tense", "dread": "tense", "urgent": "tense", "anger": "tense",
+          "quiet": "soft", "reflective": "soft", "tender": "soft", "grief": "soft", "humour": "light", "awe": "awe"}
 TYPES = ["speech", "bond", "thought", "remembered", "written", "verse", "emphasis", "term"]
 MOODS = list(directions.MOODS)
 CHUNK_WORDS = 1400
@@ -94,14 +96,18 @@ For every SPAN (a quote or an italic, listed under its paragraph) give:
 - how: a few words on delivery ONLY when the text says how it is said (whispered, shouted, very quietly, voice
   cracking, called across the yard, flat); otherwise "".
 
-For every PARAGRAPH give a mood only when the scene calls for one, else "none". Moods:
+For every PARAGRAPH give a mood and how strongly the reading needs it, or mood "none" with strength 0. Moods:
   action (a fight, a chase, a fall), tension (danger near, waiting, a standoff), dread (something wrong, fear, horror),
   quiet (stillness, rest, low talk), reflective (looking back, thinking it over), tender (love, care, comfort),
-  grief (loss, death, mourning), humour (teasing, a joke, comedy), anger (rage, a fierce quarrel),
+  grief (loss, death, mourning), humour (teasing, a joke, comedy, and also dry or deadpan wit: an absurd detail
+  told straight, a wry remark, a character being comically stubborn), anger (rage, a fierce quarrel),
   urgent (hurry, alarm, orders shouted), awe (wonder, something vast or ancient).
-Judge the scene, not single words: a paragraph about a funeral is grief even if no sad word appears; "she didn't
-laugh" is not humour. A good reading leaves most paragraphs plain: about one paragraph in four has a mood, usually
-for a run of paragraphs in the same scene. Optionally add a short note on the mood ("after the burial").
+Strength: 3 = the paragraph is plainly in that mood and a reader would miss it if read flat; 2 = clearly there;
+1 = a faint colour only. Most paragraphs are plain narration or plain talk and get "none" and 0: ordinary
+description, movement, everyday conversation and exposition are NOT tension or reflective. In a typical chapter only
+about one paragraph in five needs a mood at strength 2 or 3. Judge the scene, not single words: a paragraph about a
+funeral is grief even if no sad word appears; "she didn't laugh" is not humour. Optionally add a short note on the
+mood ("after the burial").
 
 Answer only with JSON in the given shape, with every span and every paragraph listed."""
 
@@ -125,9 +131,9 @@ def schema(paras):
         "spans": {"type": "array", "items": {"type": "object", "required": ["id", "type", "speaker", "how"], "properties": {
             "id": {"type": "string", "enum": sids or ["none"]}, "type": {"type": "string", "enum": TYPES},
             "speaker": {"type": "string"}, "listener": {"type": "string"}, "how": {"type": "string"}}}},
-        "paragraphs": {"type": "array", "items": {"type": "object", "required": ["id", "mood"], "properties": {
+        "paragraphs": {"type": "array", "items": {"type": "object", "required": ["id", "mood", "strength"], "properties": {
             "id": {"type": "string", "enum": [p["id"] for p in paras]}, "mood": {"type": "string", "enum": MOODS + ["none"]},
-            "note": {"type": "string"}}}}}}
+            "strength": {"type": "integer", "enum": [0, 1, 2, 3]}, "note": {"type": "string"}}}}}}
 
 
 def chunks(paras):
@@ -185,12 +191,19 @@ def annotate(n, model, paras, title, progress=None):
         for p in (got or {}).get("paragraphs", []):
             if p.get("mood") in MOODS and p.get("id") in {x["id"] for x in part}:
                 note = re.sub(r"\|", ",", p.get("note", "").strip())[:60]
-                moods[p["id"]] = p["mood"] + (f"|{note}" if note else "")
+                strength = p.get("strength", 2) if isinstance(p.get("strength", 2), int) else 2
+                moods[p["id"]] = (strength, p["mood"] + (f"|{note}" if note else ""))
         if progress:
             progress(k + 1, len(parts))
     for sid, v in rules["spans"].items():
         if sid not in spans:
             spans[sid] = v; fixed += 1
+    # Keep only the moods the reading needs: strength 2 or 3, and at most book.json "mood_share" of the chapter's
+    # paragraphs (default a quarter, as in a hand-directed book), the strongest first.
+    share = float(cfg.C.get("mood_share", 0.25))
+    order = {p["id"]: i for i, p in enumerate(paras)}
+    strong = sorted(((st, -order[k], k, v) for k, (st, v) in moods.items() if st >= 2), reverse=True)
+    moods = {k: v for st, _, k, v in strong[:max(1, round(len(paras) * share))]}
     return {"pov": pov, "spans": dict(sorted(spans.items(), key=lambda kv: int(kv[0][1:]))),
             "paragraphs": dict(sorted(moods.items(), key=lambda kv: int(kv[0][1:])))}, fixed
 
@@ -214,9 +227,12 @@ def compare(n, model):
     am = {k: v.partition("|")[0] for k, v in ai["paragraphs"].items()}
     both = sum(1 for k in am if k in hm)
     exact = sum(1 for k in am if hm.get(k) == am[k])
+    close = sum(1 for k in am if k in hm and FAMILY[hm[k]] == FAMILY[am[k]])
     print(f"  quotes and italics: same type as the hand-made file for {same} of {len(ids)} ({same / max(len(ids), 1):.0%})")
     print(f"  moods: hand-made {len(hm)} of {len(paras)} paragraphs; the model {len(am)}; both give one to {both};"
-          f" the same mood for {exact}")
+          f" the same mood for {exact}, the same or a close one (same family) for {close}")
+    print(f"    of the model's {len(am)} moods, {close} agree with the hand at least closely ({close / max(len(am), 1):.0%});"
+          f" of the hand's {len(hm)}, the model found {close} ({close / max(len(hm), 1):.0%})")
     print(f"  (the kit's rules on the same chapter: {len(directions.auto(paras, None, cfg.C.get('italics', 'thought'))['paragraphs'])} moods)")
     for k in list(dict.fromkeys(list(hm) + list(am)))[:12]:
         if hm.get(k) != am.get(k):

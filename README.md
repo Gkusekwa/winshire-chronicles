@@ -2,7 +2,7 @@
 
 The home of the Winshire books: the series bible and the manuscripts. Keep established canon consistent across documents; mark new possibilities as working proposals until they are agreed.
 
-**Status (Nov 2026):** all three books are close to final draft, 253 chapters (Book 1: 79, Book 2: 88, Book 3: 86). The whole trilogy was audited and fixed in October 2026, and the author has accepted the drafts as written: the Bible, the chapter plans and the maps follow them, and where any document differs from a draft, the draft wins. The tales were canon-checked against the books in November 2026, and the 26 contradictions this found inside the books are settled and fixed in the chapters. Still open: the publishing and audiobook choices (`Publishing.md`; including how readers will find the Guides, the edition that goes out first, and the audiobook's route and voices), and the next series and the game (`Bible/Series_Outline.md`).
+**Status (Nov 2026):** all three books are close to final draft, 253 chapters (Book 1: 79, Book 2: 88, Book 3: 86). The whole trilogy was audited and fixed in October 2026, and the author has accepted the drafts as written: the Bible, the chapter plans and the maps follow them, and where any document differs from a draft, the draft wins. The tales were canon-checked against the books in November 2026, and the 26 contradictions this found inside the books are settled and fixed in the chapters. The ebooks are built for all three books in all three editions, and the audiobooks are in production: narrated with Chatterbox by one voice, Emma, through the audiobook kit; every chapter of every book is annotated, and Book 1's narration started on 2 November 2026. Still open: the publishing choices (`Publishing.md`; including how readers will find the Guides, the edition that goes out first, and where to sell the audiobooks), and the next series and the game (`Bible/Series_Outline.md`).
 
 ## What's here
 
@@ -28,7 +28,7 @@ The home of the Winshire books: the series bible and the manuscripts. Keep estab
 - **[Tools/](Tools/):** the scripts that generate the maps and `Bible/Atlas.md` (`Tools/atlas/build.py`), the chapter-opener and cover art (`Tools/art/`), and the audiobook kit (`Tools/audiobook-kit/`). Edit their data files and rebuild rather than editing the outputs by hand. Book 1's maps were rebuilt in October 2026; Books 2–3 have their chapter openers and chapter-end maps (`build.py --book 2` or `--book 3`). The chapter plans are maintained by hand.
 - **[Tools/README.md](Tools/README.md):** what each tool builds and how to run it.
 - **[Style_Guide.md](Style_Guide.md):** voice, point of view, and conventions for the prose.
-- **[Publishing.md](Publishing.md):** the self-publishing plan: ebooks on Amazon KDP, one complete edition, never split; the Book 1 audiobook is in preparation.
+- **[Publishing.md](Publishing.md):** the self-publishing plan: ebooks on Amazon KDP, each book one complete text, never split, in three cover editions (Bone, Night, Band); the audiobooks, in production.
 
 The game project (`~/Documents/Unreal Projects/WinShire`) keeps only game design documents and follows the canon here.
 
@@ -93,6 +93,6 @@ The story is told first as a **three-book series**, self-published digitally, as
 - Wyverns are not dragons: two legs and wings, not sentient like dragons, tamed without bonds by Saltreach pirates and sellswords. Unicorns and the phoenix are great beasts. Unicorns remember the old realm and almost never bond. A few phoenixes exist, revealed slowly because they are so rarely seen; no one bonds one, because when it burns its partner dies and only the phoenix returns. See `Bible/Bestiary.md`.
 - A true bond forms only by the beast's choice. Forced "bonds" are **bindings**: coercion that imitates a bond, with no understanding, no mind-speech and no shared life. A binding can be where a bond happens, if someone offers themselves into it and the beast chooses them (Maren and Orrun).
 - No new bonds with Titans form in Books 1–3, but a bond made before a beast grows into a Titan lasts through the change (Maren and Orrun; Calder and the three dragons).
-- Each book is published complete in one volume, never split, as an ebook only, in one edition (author, Oct 2026: digital publication only). Once a book's draft is complete, a review pass may cut or adjust storylines.
+- Each book is published complete in one volume, never split, as an ebook only, with one text (author, Oct 2026: digital publication only). The Bone, Night and Band editions share that text and differ only in their covers (`Covers/README.md`). Once a book's draft is complete, a review pass may cut or adjust storylines.
 - Every chapter opens with its abstract picture and closes with the updated map. The book opens on the bare map.
 - Treat undeveloped names, mechanics, history, and plot turns as proposals until they are agreed.

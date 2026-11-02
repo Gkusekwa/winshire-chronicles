@@ -255,6 +255,7 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - Which cover edition (Bone, Night or Band) goes out first *(to be decided later)*
 - Own name or a pen name, and the imprint
 - Release Book 1 alone, or the three close together
+- Where to sell the audiobooks (Google Play Books, Kobo, direct; not Audible), and Books 2 and 3's name pronunciations (their lexicons propose respellings to check)
 
 ## Settled questions
 
@@ -300,4 +301,5 @@ The kingdoms the protagonists have been protecting become dangerous in their own
 - ~~Whether Idony stays unbonded through Book 3~~ *Settled (Oct 2026), as drafted: unbonded (question 19; `Magic.md` §11).*
 
 **Publishing** (`Publishing.md`)
-- ~~Editions and formats~~ *Settled (Oct 2026): ebooks only, on Amazon KDP, one complete edition, never split.*
+- ~~Editions and formats~~ *Settled (Oct 2026): ebooks only, on Amazon KDP, each book one complete text, never split, in three cover editions (Bone, Night, Band).*
+- ~~Audiobook narration~~ *Settled (Nov 2026): Chatterbox, run on the author's Mac through the audiobook kit, one narrator (Emma) for everything (`Publishing.md`, **Audiobook**).*

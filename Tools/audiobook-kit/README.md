@@ -32,7 +32,7 @@ Or copy the `audiobook-kit` folder next to a book's `Chapters/` and run `bash "M
 
 Or give the choice directly: `... 1 7` (chapter 7, verified), `... 3 2-10` or `... 3 2,5,9` (several), `... 5` (the whole book), `... 7 all` (verify everything built).
 
-- **Verified:** every take is checked, and retaken up to three times if a check fails. The checks are its length against its text, no long silences inside it, and its **words**: Whisper transcribes the take and compares it with the script, with names counting as matching. Each finished chapter is also checked for loudness, true peak, clipping and noise floor, and gets **PASS** or **FAIL** in `audiobook/out/NN_check.txt`.
+- **Verified:** every take is checked, and retaken if a check fails: up to three tries, six for a line of three words or fewer. The checks are its length against its text, no long silences inside it, and its **words**: Whisper transcribes the take and compares it with the script, with names counting as matching. Each finished chapter is also checked for loudness, true peak, clipping and noise floor, and gets **PASS** or **FAIL** in `audiobook/out/NN_check.txt`.
 - **PASS is a screen, not a proof.** The word check allows near-misses (spelling variants) and counts names as matching whatever was heard, and single misheard words are listed as minor. A chapter that passes still needs a full listen and proofread before release.
 - **Not verified:** one take per passage, no checks, faster. Chapters are marked UNCHECKED (drafts).
 - **Verify chapters already built (7):** transcribes the finished MP3s and lists every place the words differ from the script, with its time in the file, plus the loudness checks; PASS or FAIL in `audiobook/out/NN_verify.txt`. Nothing is re-rendered.

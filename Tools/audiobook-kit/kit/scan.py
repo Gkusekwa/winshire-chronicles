@@ -53,9 +53,35 @@ def bucket(words):
     return "1-3 words" if words <= 3 else ("4-8 words" if words <= 8 else "9+ words")
 
 
+def measured(subs):
+    """Retake and doubtful rates by line length, learned from the check reports of chapters already built (each
+    report lists the passages that needed a retake and those still doubtful). Falls back to RATES."""
+    count, retake, doubtful, chapters = collections.Counter(), collections.Counter(), collections.Counter(), 0
+    for n in cfg.chapter_numbers():
+        rp = os.path.join(cfg.OUT, f"{n:02d}_check.txt")
+        if not os.path.exists(rp) or not os.path.exists(cfg.script_path(n)):
+            continue
+        rep = open(rp, encoding="utf-8").read()
+        flagged = {}
+        for m in re.finditer(r"^(STILL DOUBTFUL|fixed on retry) \(.*?\): (.+)$", rep, flags=re.M):
+            flagged[m.group(2).strip()] = m.group(1)
+        chapters += 1
+        for text, style, para in pieces(json.load(open(cfg.script_path(n), encoding="utf-8")), subs):
+            b = bucket(len(re.findall(r"[A-Za-z’'-]+", text)))
+            count[b] += 1
+            f = flagged.get(text.strip())
+            if f:
+                retake[b] += 1
+                doubtful[b] += f == "STILL DOUBTFUL"
+    if not chapters or min(count[b] for b in RATES) == 0:
+        return dict(RATES), 0
+    return {b: (retake[b] / count[b], doubtful[b] / count[b]) for b in RATES}, chapters
+
+
 def main():
     P.main(quiet=True)
     subs = R.aliases()
+    rates, built = measured(subs)
     respelt = sorted({a for g, a in R.name_pairs() if a}, key=len, reverse=True)
     pair_rx = re.compile(r"\b(" + "|".join(map(re.escape, respelt)) + r")\b[’']?s?\s+(and\s+)?\b(" + "|".join(map(re.escape, respelt)) + r")\b") if respelt else None
     count, retry, doubt = collections.Counter(), collections.Counter(), collections.Counter()
@@ -66,7 +92,7 @@ def main():
         for text, style, para in pieces(script, subs):
             w = len(re.findall(r"[A-Za-z’'-]+", text))
             b = bucket(w)
-            r, d = RATES[b]
+            r, d = rates[b]
             count[b] += 1; retry[b] += r; doubt[b] += d
             per_ch[n][0] += 1; per_ch[n][1] += r; per_ch[n][2] += d
             if b == "1-3 words":
@@ -86,11 +112,14 @@ def main():
     os.makedirs(cfg.OUT, exist_ok=True)
     path = os.path.join(cfg.OUT, "risk_scan.txt")
     lines = [f"Risk scan of {cfg.TITLE}: {total} pieces in {len(per_ch)} scripts.",
-             f"Expected: about {exp_retry:.0f} retakes, and about {exp_doubt:.0f} lines still doubtful after three tries,",
-             f"which would mark about {fail_ch} chapters FAIL (any doubtful line fails a chapter).",
-             "(Rates measured on Book 1 chapter 1; nearly all the doubtful lines are very short ones.)", "",
+             f"Expected: about {exp_retry:.0f} retakes, and about {exp_doubt:.0f} lines still doubtful after every try,",
+             f"which would mark about {fail_ch} chapters FAIL (any doubtful line fails a chapter, until accepted by ear).",
+             (f"(Rates learned from the {built} chapter(s) of this book built so far; rough until more are built."
+              " Short lines now get six tries, so chapters built before that over-state the doubtful ones.)" if built else
+              "(No chapters of this book built yet: rates from Book 1 chapter 1 of the Winshire Chronicles, rendered"
+              " with three tries; short lines now get six, so the doubtful count is an over-estimate.)"), "",
              "By length:"] + [f"  {b}: {count[b]} pieces, expect about {retry[b]:.0f} retakes and {doubt[b]:.0f} doubtful"
-                              for b in RATES] + ["", "Chapters most likely to have doubtful lines:"] + \
+                              for b in RATES] + ["", "Rates used (retake, doubtful): " + "; ".join(f"{b} {rates[b][0]:.0%}, {rates[b][1]:.0%}" for b in RATES)] + ["", "Chapters most likely to have doubtful lines:"] + \
             [f"  chapter {n}: {v[0]} pieces, about {v[2]:.1f} doubtful" for n, v in
              sorted(per_ch.items(), key=lambda kv: -kv[1][2])[:15]] + \
             ["", "Worth a listen once built (not counted above):"] + (listen or ["  (none)"]) + \

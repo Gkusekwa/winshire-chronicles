@@ -10,7 +10,7 @@ ready-made scripts named in book.json) and writes `<book>/audiobook/out/NN.mp3`.
 - Names are respelt from the book's pronunciation file (book.json "names": a .pls lexicon or a name,respelling .csv).
 - Automatic checks on every take, before it is kept: its length against its text, no silence over two seconds inside
   it, and its words (Whisper transcribes the take and it is compared word for word with the script; names count as
-  matching). A take that fails is made again, up to three tries. Each finished chapter is checked for loudness, true
+  matching). A take that fails is made again, up to three tries (six for a line of three words or fewer). Each finished chapter is checked for loudness, true
   peak, clipping and noise floor, and gets PASS, FAIL (with reasons) or UNCHECKED (--no-verify) in out/NN_check.txt
   and out/manifest.json. --skip-done skips chapters that passed with unchanged inputs.
 - None of this replaces listening: names, emphasis and feeling need an ear, starting with STILL DOUBTFUL passages.
@@ -242,7 +242,9 @@ def same_word(a, b):
 
 
 # What changes the sound of a chapter, besides its script, its respellings and the narrator: bump this only when a
-# change to the renderer would make finished chapters sound different. (The renderer's own file isn't used: a fix to
+# change to the renderer would make finished chapters sound different (the model, its settings, the pauses, the
+# levelling, how text is cut into pieces). Changes to the checks or the number of retakes don't: a chapter that
+# passed the checks of its day, or that someone listened to and accepted, is kept. (The renderer's own file isn't used: a fix to
 # the checks or the menu must not make days of finished chapters look out of date.)
 RENDER_VERSION = "chatterbox 0.1.7 / render 3"
 
@@ -373,6 +375,15 @@ def accept(args):
             print(f"{n:02d}: not built yet, nothing to accept"); continue
         e.update(status="PASS", reasons=["accepted after listening"] + [r for r in e.get("reasons", []) if r != "accepted after listening"])
         manifest[f"{n:02d}"] = e
+        import datetime
+        note = (f"ACCEPTED after listening ({datetime.date.today().isoformat()}): the chapter now counts as PASS."
+                " The report below is from the automatic check, kept as it was.\n\n")
+        for rep_name in (f"{n:02d}_check.txt", f"{n:02d}_verify.txt"):
+            rp = os.path.join(OUT, rep_name)
+            if os.path.exists(rp):
+                old = open(rp, encoding="utf-8").read()
+                if not old.startswith("ACCEPTED"):
+                    open(rp, "w", encoding="utf-8").write(note + old)
         print(f"{n:02d}: accepted (PASS); a resumed build will keep it")
     json.dump(manifest, open(man_path, "w"), indent=1)
 
@@ -506,21 +517,23 @@ def main():
             # Chatterbox's own take, before any volume change: flat tops (three or more samples in a row at full
             # scale) are real distortion. (Loud lines are turned up later in floating point and levelled down
             # again, which can't distort, so they aren't counted.)
+            flat = 0
             hot = np.abs(audio) >= 0.999
             if hot.any():
                 runs = np.diff(np.concatenate(([0], hot.astype(np.int8), [0])))
                 lengths = np.flatnonzero(runs == -1) - np.flatnonzero(runs == 1)
-                stats["flat"] += int(np.sum(lengths >= 3))
+                flat = int(np.sum(lengths >= 3))
             why = problem(audio, text)          # length and silence
             rate = 0.0
             if why is None:
                 why, rate, _ = word_problem(audio, text)   # the words themselves
-            takes.append((why, rate, audio))
+            takes.append((why, rate, audio, flat))
             stats["takes"] += 1
             if why is None:
                 break
         expect = len(text) / CHARS_PER_SEC
-        why, rate, audio = min(takes, key=lambda t: (t[0] is not None, t[1], abs(len(t[2]) / SR - expect)))
+        why, rate, audio, flat = min(takes, key=lambda t: (t[0] is not None, t[1], abs(len(t[2]) / SR - expect)))
+        stats["flat"] += flat              # only the take that goes into the chapter counts
         stats["passages"] += 1
         if len(takes) > 1 or why:
             checks.append(f"{'STILL DOUBTFUL' if why else 'fixed on retry'} ({len(takes)} tries; {why or takes[0][0]}): {text}")

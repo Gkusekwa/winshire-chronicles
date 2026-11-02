@@ -26,7 +26,9 @@ KIT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 def _book_dir():
     for i, a in enumerate(sys.argv):
         if a == "--book" and i + 1 < len(sys.argv):
-            return os.path.abspath(sys.argv[i + 1])
+            book = os.path.abspath(sys.argv[i + 1])
+            del sys.argv[i:i + 2]          # so the scripts never read the folder's name as chapter numbers
+            return book
     return os.path.dirname(KIT)
 
 

@@ -37,12 +37,12 @@
 
 ## Audiobook *(in preparation, Nov 2026)*
 
-- **Book 1's audiobook files are ready to produce** (`Book 1/audiobook/`). They include scripts for any narrator or voice engine, a cast list and pronunciations. Everything is generated from the manuscript, so it stays in step with the text. The book runs to roughly 32–34 hours.
-- **Narration: Chatterbox** *(settled by the author, Nov 2026)*: the open-source Chatterbox (MIT), run on the author's Mac, with Emma narrating everything. It is free and needs no subscription. Each chapter is listened to and proofread before release; the renderer's automatic check flags likely slips but can't hear wrong words (`Book 1/audiobook/README.md`).
-- **Where an AI-narrated audiobook can go** *(check current terms)*:
+- **Book 1's audiobook is ready to produce** (`Book 1/audiobook/`): annotated reading scripts and pronunciations, generated from the manuscript, so they stay in step with the text. The book runs to roughly 32–34 hours. **Books 2 and 3** can be narrated with the same kit straight from their chapters (plain narration, no annotations yet); their settings are in `Book N/audiobook/book.json`.
+- **Narration: Chatterbox** *(settled by the author, Nov 2026)*: the open-source Chatterbox (MIT), run on the author's Mac through the audiobook kit (`Tools/audiobook-kit/`), with Emma narrating everything. It is free and needs no subscription. The kit checks every take's words with Whisper and each chapter's loudness, and tags each file with its chapter title; each chapter is still listened to and proofread before release.
+- **Where an AI-narrated audiobook can go** *(stores' rules as of Sep 2026; check current terms)*:
+  - **Google Play Books** and **Kobo Writing Life** accept uploaded AI-narrated audio (mark the narrator as a synthesised voice). So does selling direct (Gumroad, Payhip, your own site).
+  - **Spotify** and **INaudio** (formerly Findaway) accept AI narration only from providers they name (Google Play Books, ElevenLabs and a few others); ask before relying on them.
   - **Audible's ACX** does not accept AI narration made elsewhere. Amazon's own *Virtual Voice* narrates the KDP ebook itself.
-  - **Spotify** (through Spotify for Authors / Findaway Voices): check whether it accepts AI narration made elsewhere.
-  - **Google Play Books** accepts uploaded AI-narrated audio.
 - **Disclosure:** the opening and closing credits say the book is narrated by a digital voice.
 
 ## Rights and the Winshire name

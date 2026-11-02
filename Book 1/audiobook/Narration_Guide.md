@@ -13,7 +13,7 @@ For whoever voices the book: a person, or an AI voice directed by these notes. T
 The ebook marks these with italics; the audiobook has to mark them with the voice. The annotations say which is which for every span.
 
 1. **Narration.** The default.
-2. **Speech** in quotation marks. Characters are told apart by small changes of rhythm, pitch and energy (see `Cast.md`). No invented accents, no caricature.
+2. **Speech** in quotation marks. Characters are told apart by small changes of rhythm, pitch and energy. No invented accents, no caricature.
 3. **Bond speech.** Beast and bonded human, mind to mind, in italics with no quotation marks: *Then what?* said Aurveth. This is the book's signature sound. Bring it a little closer and quieter than speech, slightly slower, as if heard inside the head. Each beast keeps its own voice: Orrun slow and deep, Aurveth long and measured, Kharrak in hard fragments, Lisska quick and teasing. When the human answers through the bond, the same closeness applies to them.
 4. **Thought and remembered words.** A character's own unspoken thought, or words heard again in memory. Quieter still, without the bond's sense of a second presence.
 5. **Written words and verse.** The charter, inscriptions, the paper, the rubbing; the old songs and the verse. A slightly slower, plainer read; verse keeps its line endings.

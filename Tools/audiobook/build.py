@@ -1,15 +1,12 @@
-"""Build the Book 1 audiobook scripts from the manuscript and the annotations.
+"""Build the Book 1 reading scripts from the manuscript and the annotations (the audiobook kit reads them).
 
-    python3 build.py                     # standard SSML + performance scripts + guide + lexicons
+    python3 build.py                     # performance scripts + pronunciation guide + lexicon
     python3 build.py --check             # also verify every spoken word matches the manuscript
-    python3 build.py --variant google    # SSML with names respelt inline (<sub alias>), for engines without lexicons
-    python3 build.py --variant azure --voice en-GB-RyanNeural   # SSML wrapped in an Azure <voice> element
 
 Inputs:  Book 1/Chapters/*.md, Book 1/audiobook/annotations/chNN.json, Tools/audiobook/names.py, Tools/atlas/plan_data.py
-Outputs: Book 1/audiobook/Scripts/*.ssml            (standard variant)
-         Book 1/audiobook/Performance/*.json        (segment-by-segment script with speaker, delivery and pauses)
-         Book 1/audiobook/Pronunciation_Guide.md, Lexicon_IPA.pls, Lexicon_Alias.pls
-         Book 1/audiobook/Variants/<variant>/*.ssml (other variants)
+Outputs: Book 1/audiobook/Performance/*.json        (segment-by-segment script with speaker, delivery and pauses)
+         Book 1/audiobook/Pronunciation_Guide.md, Lexicon_Alias.pls
+Each chapter is also laid out as SSML internally, only to check its words against the manuscript (--check).
 """
 import json, os, re, sys, html
 from xml.dom import minidom
@@ -308,45 +305,17 @@ def write_names():
              "- **Hollin Knowe**: *knowe* is a knoll; said *now*.",
              "- **Oneroad** is *one road* run together.",
              "- Names that read as plain English (Pell, Hale, Rowan, Rook, Grieve, Turnip, Bramble, Sorrel, Tobin, Wren, Tam, Ada, Joss, Hob, Wat) need no entry.",
-             "- Load `Lexicon_IPA.pls` (Amazon Polly, Azure) or `Lexicon_Alias.pls` (Chatterbox and any engine that accepts PLS aliases). For engines with no lexicon support, build the `google` variant, which writes the aliases into the SSML."]
+             "- The narrator reads the alias spellings in `Lexicon_Alias.pls`; the IPA is for reference when listening."]
     open(os.path.join(AB, "Pronunciation_Guide.md"), "w", encoding="utf-8").write("\n".join(rows) + "\n")
     head = ('<?xml version="1.0" encoding="UTF-8"?>\n<lexicon version="1.0" xmlns="http://www.w3.org/2005/01/pronunciation-lexicon" '
             'xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon '
             'http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd" alphabet="{alpha}" xml:lang="en-GB">\n')
-    ipa = [head.format(alpha="ipa")]
     al = [head.format(alpha="ipa")]
     for n, say, p, alias, st in sorted(NAMES, key=lambda x: x[0]):
-        ipa.append(f"  <lexeme><grapheme>{n}</grapheme><phoneme>{p}</phoneme></lexeme>\n")
         if alias:
             al.append(f"  <lexeme><grapheme>{n}</grapheme><alias>{alias}</alias></lexeme>\n")
-    ipa.append("</lexicon>\n"); al.append("</lexicon>\n")
-    open(os.path.join(AB, "Lexicon_IPA.pls"), "w", encoding="utf-8").write("".join(ipa))
+    al.append("</lexicon>\n")
     open(os.path.join(AB, "Lexicon_Alias.pls"), "w", encoding="utf-8").write("".join(al))
-
-
-# ---------------- cast ----------------
-def write_cast():
-    from cast import all_roles, role_of
-    # line counts per role, from the annotations
-    counts = {}
-    for f in sorted(os.listdir(ANN)):
-        for v in json.load(open(os.path.join(ANN, f), encoding="utf-8"))["spans"].values():
-            t, spk, to, how = parse_span(v)
-            if spk and t in ("speech", "bond", "thought", "remembered", "verse"):
-                r = role_of(spk)
-                counts[r] = counts.get(r, 0) + 1
-    rows = ["# Cast: The Watch Below", "",
-            "Voices for a multi-voice production. A single-narrator production uses only **Narrator**, who then carries every line; "
-            "the notes still tell the narrator how each character sounds. Lines are counted from the annotations "
-            "(speech, bond speech, thoughts, remembered words, verse). Speakers without a role of their own share the Man, Woman and Child voices; "
-            "crowds and choruses go to the Narrator. The mapping lives in `Tools/audiobook/cast.py`.", "",
-            "**Bond speech** (italics in the book: beast and bonded human, mind to mind) is the book's signature sound. "
-            "Keep each beast's voice distinct and keep bond speech a touch closer and quieter than spoken dialogue, so a listener always knows when words are passing through the bond.", "",
-            "| Role | Gender | Age | Lines | Voice |", "|---|---|---|---|---|"]
-    for r, g, a, note in all_roles():
-        rows.append(f"| **{r}** | {g} | {a} | {counts.get(r, '')} | {note} |")
-    open(os.path.join(AB, "Cast.md"), "w", encoding="utf-8").write("\n".join(rows) + "\n")
-
 
 
 def spoken_tokens(ssml):
@@ -377,41 +346,26 @@ def verify(n, path, ssml):
 
 def main():
     args = sys.argv[1:]
-    variant = args[args.index("--variant") + 1] if "--variant" in args else None
-    voice = args[args.index("--voice") + 1] if "--voice" in args else None
-    if variant == "azure" and not voice:
-        sys.exit("--variant azure needs --voice NAME")
-    out = os.path.join(AB, "Scripts") if not variant else os.path.join(AB, "Variants", variant)
-    os.makedirs(out, exist_ok=True)
-    if not variant:
-        os.makedirs(os.path.join(AB, "Performance"), exist_ok=True)
-        write_names()
-    for f in os.listdir(out):
-        if f.endswith(".ssml"): os.remove(os.path.join(out, f))
-    opening, closing = front_back(voice)
-    open(os.path.join(out, "00_Opening.ssml"), "w", encoding="utf-8").write(opening)
-    open(os.path.join(out, "99_Closing.ssml"), "w", encoding="utf-8").write(closing)
-    if not variant:
-        write_cast()
-    if not variant:
-        for num, name, ssml in ((0, "Opening", opening), (99, "Closing", closing)):
-            segs = []
-            for m in re.finditer(r"<p>(.*?)</p>(?:<break time=\"(\d+)ms\"/>)?", ssml):
-                txt = re.sub(r"<[^>]+>", "", m.group(1)).strip()
-                segs.append({"seq": len(segs) + 1, "para": "", "type": "title", "text": txt, "pause_after_ms": int(m.group(2) or 0)})
-            json.dump({"chapter": num, "title": name, "pov": "", "segments": segs},
-                      open(os.path.join(AB, "Performance", f"{num:02d}.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    perf_dir = os.path.join(AB, "Performance")
+    os.makedirs(perf_dir, exist_ok=True)
+    write_names()
+    opening, closing = front_back()
+    for num, name, ssml in ((0, "Opening", opening), (99, "Closing", closing)):
+        segs = []
+        for m in re.finditer(r"<p>(.*?)</p>(?:<break time=\"(\d+)ms\"/>)?", ssml):
+            txt = re.sub(r"<[^>]+>", "", m.group(1)).strip()
+            segs.append({"seq": len(segs) + 1, "para": "", "type": "title", "text": txt, "pause_after_ms": int(m.group(2) or 0)})
+        json.dump({"chapter": num, "title": name, "pov": "", "segments": segs},
+                  open(os.path.join(perf_dir, f"{num:02d}.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     bad, total = [], 0
     for n, path in chapter_files().items():
-        title, ssml, perf = chapter(n, path, variant, voice)
+        title, ssml, perf = chapter(n, path)
         minidom.parseString(ssml.encode("utf-8"))
-        if "--check" in args and not verify(n, path, ssml if variant != "google" else re.sub(r'<sub alias="[^"]*">([^<]*)</sub>', r"\1", ssml)):
+        if "--check" in args and not verify(n, path, ssml):
             bad.append(n)
-        open(os.path.join(out, slug(n, title) + ".ssml"), "w", encoding="utf-8").write(ssml)
-        if not variant:
-            json.dump(perf, open(os.path.join(AB, "Performance", f"{n:02d}.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+        json.dump(perf, open(os.path.join(perf_dir, f"{n:02d}.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         total += 1
-    print(f"built {total} chapters into {os.path.relpath(out, REPO)}" + (f"; text mismatch in {bad}" if bad else ("; text verified" if "--check" in args else "")))
+    print(f"built {total} chapters into {os.path.relpath(perf_dir, REPO)}" + (f"; text mismatch in {bad}" if bad else ("; text verified" if "--check" in args else "")))
 
 
 if __name__ == "__main__":

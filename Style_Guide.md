@@ -15,7 +15,7 @@
 - **Terms:** the Deep, the toll, dead ground, the six disciplines (charms, runes, drawing, shaping, tide-reading, binding); a *binding* is never a *bond*.
 - **Kept-on-purpose near-names:** Orrin/Orrun, Idony Vael/the Vales/the city of Vael.
 
-## Voice *(chosen: B + C together; see `Book 1/Notes/Voice_Samples.md`)*
+## Voice *(chosen: B + C together, Oct 2026)*
 
 - **Close third person, past tense.** Each chapter stays inside one protagonist's head and knows only what they know.
 - **Two lenses, one voice.**

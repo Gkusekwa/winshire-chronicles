@@ -1,12 +1,12 @@
 # The Watch Below: audiobook
 
-Production files for the audiobook of *The Watch Below*, Winshire Chronicles Book One: 79 chapters plus opening and closing credits, about 302,000 words (roughly 32 to 34 hours of audio).
+Production files for the audiobook of *The Watch Below*, Winshire Chronicles Book One: 79 chapters plus opening and closing credits, about 302,000 words (roughly 32 to 34 hours of audio). It is narrated with the audiobook kit (`Tools/audiobook-kit/`), using Chatterbox, with Emma reading everything.
 
-**Everything here is generated from the manuscript.** Never edit the scripts by hand. Edit the chapters, the annotations, the names or the cast, then rebuild:
+**The reading scripts are generated from the manuscript.** Never edit them by hand. Edit the chapters, the annotations or the names, then rebuild:
 
 ```
 cd Tools/audiobook
-python3 build.py --check      # rebuilds everything and confirms every spoken word matches the manuscript
+python3 build.py --check      # rebuilds the scripts and confirms every spoken word matches the manuscript
 ```
 
 If a chapter's text changes, its paragraph and span numbering can shift. `python3 check_annotations.py` lists any spans that need annotating again.
@@ -15,35 +15,29 @@ If a chapter's text changes, its paragraph and span numbering can shift. `python
 
 | File | What it is |
 |---|---|
-| `Narration_Guide.md` | How to read the book: the five kinds of words (narration, speech, bond speech, thought, written words and verse), directions, pauses. |
-| `Cast.md` | Every voiced role, with gender, age, line count and voice notes. A single narrator uses it as character notes. |
-| `Pronunciation_Guide.md` | Invented names with a respelling and IPA. The names that could be said more than one way are marked *settled* (Nov 2026). |
-| `Lexicon_IPA.pls`, `Lexicon_Alias.pls` | The same names as standard pronunciation lexicons: IPA (Amazon Polly, Azure) and alias spellings (Chatterbox and others). |
+| `book.json` | The kit's settings for this book: title, author, series, the ready-made scripts in `Performance/`, the names in `Lexicon_Alias.pls`, output in `out/`. |
+| `Narration_Guide.md` | How the book is read: the five kinds of words (narration, speech, bond speech, thought, written words and verse), directions, pauses. |
+| `Pronunciation_Guide.md` | Invented names with a respelling and IPA. The names that could be said more than one way are marked *settled* (Nov 2026). Use it when listening. |
+| `Lexicon_Alias.pls` | The respellings the narrator reads (e.g. Aurveth as Orveth). |
 | `annotations/chNN.json` | The source of the performance: the speaker and kind of every quoted or italic span, and a direction where a paragraph needs one. |
-| `Performance/NN.json` | Each chapter as a sequence of segments with type, speaker, listener, delivery and pause. This is what Chatterbox reads. |
-| `Scripts/*.ssml` | Standard SSML 1.1 for one narrator. Bond speech, thoughts, verse and written words get gentle prosody; paragraphs with a direction get a slight rate change; pauses are explicit, never over 3 s. Comments name the speaker of each paragraph. |
-| `Variants/google/` | SSML with names respelt inline, for engines without lexicon support. |
-| `Variants/azure/` | SSML wrapped in an Azure voice element (rebuild with `--variant azure --voice NAME` to change the voice). |
-| `Chatterbox/` | The narration: Chatterbox renders, the narrator's reference clip and the anomaly-check lists (below). |
+| `Performance/NN.json` | Each chapter as a sequence of segments with type, speaker, delivery and pause, titles included. This is what the kit reads. `00` and `99` are the opening and closing credits. |
+| `out/` | The finished chapters (`NN.mp3`), check reports and `manifest.json`. Kept out of git. |
 
-## Narration: Chatterbox
+## Narrating
 
-The audiobook is narrated with **Chatterbox** (Resemble AI, MIT licence), run locally on the author's Mac: free, and offline after the first download. Emma narrates everything.
+From Terminal, in the project folder:
 
-- **The menu:** `bash Tools/audiobook/audiobook.sh` offers six choices: one chapter, several chapters, or the whole book, each **verified** or **not verified**. Or give the choice directly: `audiobook.sh 1 7` (chapter 7, verified), `audiobook.sh 2 7` (not verified), `audiobook.sh 3 2-10` or `audiobook.sh 3 2,5,9` (several, verified), `audiobook.sh 4 2-10` (several, not verified), `audiobook.sh 5` (the whole book, verified), `audiobook.sh 6` (the whole book, not verified). *Verified* runs every check and retakes, and gives each chapter PASS or FAIL; *not verified* is one take per passage with no checks, faster, and marks chapters UNCHECKED. Several chapters and the whole book resume: chapters that already passed with unchanged inputs are skipped. The whole book includes the opening and closing credits (00 and 99). **Option 7 verifies chapters already built**, without rendering: Whisper transcribes the finished MP3 and it is lined up against the script; every difference is listed with its time in the file (CHECK for likely skips, repeats or garbles, minor for single misheard words), with loudness, peak, clipping and noise-floor checks, and a PASS or FAIL, in `Chatterbox/out/NN_verify.txt`. Directly: `audiobook.sh 7 1`, `audiobook.sh 7 2-10`, `audiobook.sh 7 all`. **Titles in the files:** every chapter built is tagged with its title ("Chapter 1: The Unchosen Yard"), the book, the author and its track number, so players and stores show each chapter by name; **option 8** adds the tags to chapters built before this, without rendering (`audiobook.sh 8 all`).
-- **Run it** from Terminal in the project folder: `bash Tools/audiobook/chatterbox_mac.sh` renders the audition set (passages of every kind from across the book); `bash Tools/audiobook/chatterbox_mac.sh 1` renders chapter 1; `bash Tools/audiobook/chatterbox_mac.sh 1-79 --skip-done` renders the book, skipping chapters already done and current. The first run sets up Python 3.11 or 3.12, `chatterbox-tts` 0.1.7 and its model (about 3 GB), and `faster-whisper` 1.2.1 with its model (about 500 MB) for the word check. It uses the Mac's graphics chip, renders at about a third of real time, and keeps the Mac awake.
-- **What it reads:** `Performance/NN.json`, titles included. Each paragraph is read whole, so short quoted lines keep their flow; long paragraphs are split at sentence ends (about 200 characters). Each paragraph's mood and "how" note set the emotion intensity. Names are respelt from `Lexicon_Alias.pls`.
-- **The narrator's voice** comes from `Chatterbox/refs/Narrator.wav`, a 9.6-second clip of Emma (24 kHz mono; SHA-256 `9223a4ccbd883afe1a20f6e02f68bf6a570cdf10fa7040b632dbba46d8348767`). It was made with the Kokoro-82M model (Apache 2.0, voice `bf_emma`) reading two neutral lines. Every render clones this clip, so keep it unchanged and backed up: a different clip gives a different narrator. Like all audio, it is kept out of git.
-- **Automatic checks on every take:** its length (too short means skipped words; too long, repeats or babble), no silence over two seconds inside it, and its **words**: Whisper (faster-whisper, MIT, run on the Mac) transcribes the take and it is compared word for word with the script. More than about one word in eight wrong means another take; invented names count as matching, since a recogniser can't spell them. A take that fails is made again, up to three tries, and the best kept. Each finished chapter is checked too: loudness (about -19 LUFS), true peak (below -3 dBFS), clipping and the noise floor. Everything is listed in `Chatterbox/out/NN_check.txt`, with the words that differed. The checks don't replace **listening and proofreading**: names, emphasis and feeling need an ear, starting with the passages marked STILL DOUBTFUL. Higher emotion intensity can also speed the voice up, so listen for pacing as well as feeling.
-- **Pass or fail:** each chapter gets a status in `Chatterbox/out/NN_check.txt` and `manifest.json`. **PASS**: no doubtful passages, and loudness, peak and clipping within limits. **FAIL**: with the reasons. **UNCHECKED**: rendered with `--no-words`, a draft. The word check is required: if Whisper can't load, rendering stops unless `--no-words` is given. Short lines (eight words or fewer) must match exactly. The noise floor is measured only in the gaps inside Chatterbox's takes, not the silences the script inserts, and is a prompt to listen rather than a fail.
-- **Resume:** `manifest.json` fingerprints each chapter's inputs (script, renderer, name respellings, cast map, narrator clip, options). `--skip-done` skips only chapters that **passed** and whose inputs haven't changed; FAIL and UNCHECKED chapters are rendered again.
+```
+bash Tools/audiobook-kit/audiobook.sh --book "Book 1"
+```
+
+The menu offers one chapter, several chapters, or the whole book, each **verified** or **not verified**. It can also verify chapters already built (7), play an audition (8), run setup (9) and put the chapter titles into files already built (10). Or give the choice directly: `... --book "Book 1" 1 7` (chapter 7, verified), `... 3 2-10`, `... 5` (the whole book), `... 7 all`. The kit's README (`Tools/audiobook-kit/README.md`) explains the checks, PASS, FAIL and UNCHECKED, resuming and the tags.
+
+- **What Book 1 adds over a plain book:** the annotated scripts. Each paragraph's mood and "how" note set the emotion intensity, and bond speech, thoughts, remembered words, verse and written words are read a little quieter or slower. The names are respelt from `Lexicon_Alias.pls`.
+- **The narrator's voice** is `Tools/audiobook-kit/voices/narrator.wav`, a 9.6-second clip of Emma (24 kHz mono; SHA-256 `9223a4ccbd883afe1a20f6e02f68bf6a570cdf10fa7040b632dbba46d8348767`). It was made with the Kokoro-82M model (Apache 2.0, voice `bf_emma`) reading two neutral lines. Every render clones this clip, so keep it unchanged and backed up: a different clip gives a different narrator. Like all audio, it is kept out of git.
+- **Listening:** the checks find likely skips, repeats and garbles. They don't replace listening and proofreading: names, emphasis and feeling need an ear, starting with the passages the reports flag.
 - Chatterbox adds an inaudible watermark (Resemble AI's Perth) to its output.
-- Audio goes to `Chatterbox/out/`, ignored by git.
 
 ## Where it can be published
 
-- **Audible (ACX)** doesn't accept AI narration made outside Amazon. Amazon's own **Virtual Voice** (through KDP) narrates the published ebook itself and doesn't use these files.
-- **Spotify** (through Spotify for Authors / Findaway Voices): check whether it accepts AI narration made elsewhere.
-- **Google Play Books** accepts uploaded AI-narrated audio.
-
-Check each one's current terms, exclusivity and AI-disclosure rules before choosing. These routes change often.
+See `Publishing.md`. In short: Google Play Books and Kobo accept uploaded AI-narrated audio, and so do direct sales. Spotify and INaudio take AI narration only from providers they name. Audible (ACX) doesn't accept AI narration made outside Amazon. Check each one's current terms, exclusivity and AI-disclosure rules before choosing; these routes change often.

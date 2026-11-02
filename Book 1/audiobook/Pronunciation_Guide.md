@@ -99,4 +99,4 @@ Every invented name in Book 1 that a synthetic voice may get wrong, with a respe
 - **Hollin Knowe**: *knowe* is a knoll; said *now*.
 - **Oneroad** is *one road* run together.
 - Names that read as plain English (Pell, Hale, Rowan, Rook, Grieve, Turnip, Bramble, Sorrel, Tobin, Wren, Tam, Ada, Joss, Hob, Wat) need no entry.
-- Load `Lexicon_IPA.pls` (Amazon Polly, Azure) or `Lexicon_Alias.pls` (Chatterbox and any engine that accepts PLS aliases). For engines with no lexicon support, build the `google` variant, which writes the aliases into the SSML.
+- The narrator reads the alias spellings in `Lexicon_Alias.pls`; the IPA is for reference when listening.

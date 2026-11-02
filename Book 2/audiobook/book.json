@@ -1,0 +1,12 @@
+{
+ "title": "The Hunt Beneath",
+ "author": "Goodluck Kusekwa",
+ "series": "The Winshire Chronicles, Book Two",
+ "chapters": "Chapters",
+ "pattern": "*.md",
+ "scripts": "",
+ "names": "",
+ "narrator": "",
+ "output": "audiobook/out",
+ "credits": true
+}

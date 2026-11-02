@@ -1,0 +1,12 @@
+{
+ "title": "The Titan War",
+ "author": "Goodluck Kusekwa",
+ "series": "The Winshire Chronicles, Book Three",
+ "chapters": "Chapters",
+ "pattern": "*.md",
+ "scripts": "",
+ "names": "",
+ "narrator": "",
+ "output": "audiobook/out",
+ "credits": true
+}

@@ -7,6 +7,8 @@
 #         audiobook-kit/     this kit
 # then, from anywhere:
 #     bash "My Book/audiobook-kit/audiobook.sh"
+# Or keep one kit for several books and name the book's folder:
+#     bash audiobook-kit/audiobook.sh --book "My Book" [choice] [chapters]
 #
 # Menu, or give the choice directly:  audiobook.sh <choice> [chapters]
 #   1  one chapter, verified            ... 1 7
@@ -24,7 +26,13 @@
 set -e
 KIT="$(cd "$(dirname "$0")" && pwd)"
 PYV="$HOME/chatterbox/venv/bin/python"
+BOOK="$(dirname "$KIT")"
+if [ "$1" = "--book" ]; then
+  [ -d "$2" ] || { echo "No such book folder: $2"; exit 1; }
+  BOOK="$(cd "$2" && pwd)"; shift 2
+fi
 choice="$1"; chapters="$2"
+export PYTHONWARNINGS=ignore TQDM_DISABLE=1 TRANSFORMERS_VERBOSITY=error HF_HUB_DISABLE_PROGRESS_BARS=1
 
 ensure_setup() {
   if [ ! -x "$PYV" ] || ! "$PYV" -c "import chatterbox, faster_whisper, perth; assert perth.PerthImplicitWatermarker" 2>/dev/null; then
@@ -32,8 +40,8 @@ ensure_setup() {
   fi
 }
 
-title="$(python3 -c "import json,sys; print(json.load(open(sys.argv[1])).get('title',''))" "$KIT/../audiobook/book.json" 2>/dev/null || true)"
-[ -n "$title" ] || title="$(basename "$(dirname "$KIT")")"
+title="$(python3 -c "import json,sys; print(json.load(open(sys.argv[1])).get('title',''))" "$BOOK/audiobook/book.json" 2>/dev/null || true)"
+[ -n "$title" ] || title="$(basename "$BOOK")"
 
 if [ -z "$choice" ]; then
   echo "Audiobook: $title"
@@ -64,7 +72,7 @@ case "$choice" in
     [[ "$chapters" =~ ^([0-9,-]+|--all)$ ]] || { echo "Chapters like 1, 2-10, 2,5,9 or all, please."; exit 1; }
     ensure_setup
     echo "==> Verifying built chapters: $chapters"
-    "$PYV" "$KIT/kit/verify.py" "$chapters"
+    "$PYV" "$KIT/kit/verify.py" "$chapters" --book "$BOOK"
     exit 0 ;;
   8) chapters="--audition" ;;
   9) bash "$KIT/setup_mac.sh"; exit 0 ;;
@@ -72,13 +80,13 @@ case "$choice" in
     [ -n "$chapters" ] || read -r -p "Chapters to tag (e.g. 1, 2-10, or all): " chapters
     [ "$chapters" = "all" ] && chapters="--all"
     [[ "$chapters" =~ ^([0-9,-]+|--all)$ ]] || { echo "Chapters like 1, 2-10, 2,5,9 or all, please."; exit 1; }
-    python3 "$KIT/kit/render.py" --retag "$chapters"
+    python3 "$KIT/kit/render.py" --retag "$chapters" --book "$BOOK"
     exit 0 ;;
   *) echo "Choose 1 to 10."; exit 1 ;;
 esac
 
 ensure_setup
-args=("$chapters")
+args=("$chapters" --book "$BOOK")
 case "$choice" in 2|4|6) args+=("--no-verify") ;; esac
 case "$choice" in 3|4|5|6) args+=("--skip-done") ;; esac
 export PYTORCH_ENABLE_MPS_FALLBACK=1

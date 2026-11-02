@@ -119,6 +119,7 @@ def main():
         return out
 
     def render(groups, label):
+        groups = rk.merge_titles(groups)
         parts = []
         for i, group in enumerate(groups):
             rs = runs(group)
@@ -134,7 +135,7 @@ def main():
                     if word in how:
                         ex += dex; gain += dg; how = how.replace(word, "")
                 ex = max(0.25, min(1.0, ex))
-                pieces = re.split(r"(?<=\.)\s+", text) if style == "title" else chunks(text)
+                pieces = [text] if style == "title" else chunks(text)
                 for q, piece in enumerate(pieces):
                     audio = tempo(say(piece, role, ex, cfg), TEMPO.get(style, 1.0))
                     parts.append(audio * (10 ** (gain / 20)))

@@ -12,14 +12,14 @@ numbers included):
   2. silence: no gap over two seconds inside it (the model lost its place)
   3. words: Whisper (faster-whisper, run locally) transcribes the take and it is compared word for word with the
      script; more than about 1 word in 8 wrong means another take. Invented names count as matching, since a
-     recogniser can't spell them. Skip this with --no-words; choose the Whisper model with WORDCHECK_MODEL.
+     recogniser can't spell them. Skip it with --no-verify (one take, no checks); choose the Whisper model with WORDCHECK_MODEL.
   A take that fails is made again, up to three tries, and the best one kept; anything still doubtful is listed in
   out/NN_check.txt, with the words that differed.
 - Checks on each finished chapter, also in out/NN_check.txt: loudness (about -19 LUFS), true peak (below -3 dBFS),
   clipping, and the noise floor between words.
 - Each chapter gets a status in out/NN_check.txt and out/manifest.json: PASS (no doubtful passages; loudness, peak
-  and clipping within limits), FAIL (with the reasons), or UNCHECKED (rendered with --no-words, a draft). The word
-  check is required: if Whisper can't load, rendering stops unless --no-words is given. --skip-done skips only
+  and clipping within limits), FAIL (with the reasons), or UNCHECKED (rendered with --no-verify, a draft). The word
+  check is required: if Whisper can't load, rendering stops unless --no-verify is given. --skip-done skips only
   chapters that PASSED and whose inputs haven't changed; FAIL and UNCHECKED chapters are rendered again.
 - None of this replaces listening: names, emphasis and feeling need a human ear, starting with the STILL DOUBTFUL
   passages.
@@ -36,6 +36,9 @@ Use:
     python3 render_chatterbox.py --audition      # passages of every kind from across the book -> out/audition.mp3
     python3 render_chatterbox.py 1               # chapter 1 -> out/01.mp3
     python3 render_chatterbox.py 1-79 --skip-done
+    python3 render_chatterbox.py 2,5,9                 # a list (ranges and lists can mix: 1-3,7)
+    python3 render_chatterbox.py --all                 # the whole book: credits 00 and 99 and every chapter
+    python3 render_chatterbox.py 1 --no-verify         # faster draft: one take per passage, no checks -> UNCHECKED
     python3 render_chatterbox.py 1 --narrator-ref Other.wav             # another narrator clip from refs/
 
 Output: `Book 1/audiobook/Chatterbox/out/` (ignored by git; never commit the audio).
@@ -228,16 +231,18 @@ def main():
     print("device:", device)
     model = ChatterboxTTS.from_pretrained(device=device)
     asr = None
-    if "--no-words" not in args:
+    no_verify = "--no-verify" in args or "--no-words" in args
+    TRIES = 1 if no_verify else 3
+    if not no_verify:
         try:
             from faster_whisper import WhisperModel
             asr = WhisperModel(os.environ.get("WORDCHECK_MODEL", "small.en"), device="cpu", compute_type="int8")
             print("word check: on (Whisper", os.environ.get("WORDCHECK_MODEL", "small.en") + ")")
         except Exception as e:
             sys.exit(f"The word check (faster-whisper) didn't load: {e}\n"
-                     "Fix it (bash Tools/audiobook/chatterbox_mac.sh installs it), or render a draft without it by adding --no-words.")
+                     "Fix it (bash Tools/audiobook/chatterbox_mac.sh installs it), or render without verifying by adding --no-verify.")
     else:
-        print("word check: OFF (--no-words): draft only; chapters rendered this way are marked UNCHECKED")
+        print("verify: OFF (--no-verify): one take per passage, no word check; chapters are marked UNCHECKED (a draft)")
     WILD = name_words()
     MAX_WER = 0.12   # more than about 1 word in 8 wrong (names excluded) -> another take
     SR = model.sr
@@ -307,7 +312,7 @@ def main():
             conds[key] = model.conds
         model.conds = conds[key]
         takes = []
-        for attempt in range(3):
+        for attempt in range(TRIES):
             wav = model.generate(text, exaggeration=exaggeration, cfg_weight=cfg)
             audio = wav.squeeze(0).cpu().numpy().astype(np.float32)
             why = problem(audio, text)          # length and silence
@@ -438,10 +443,16 @@ def main():
 
     chapters = []
     for a in args:
-        if re.fullmatch(r"\d+-\d+", a):
-            lo, hi = map(int, a.split("-")); chapters += range(lo, hi + 1)
-        elif a.isdigit():
-            chapters.append(int(a))
+        for part in a.split(","):      # 3   2-10   2,5,9   (and mixes: 1-3,7)
+            if re.fullmatch(r"\d+-\d+", part):
+                lo, hi = map(int, part.split("-")); chapters += range(lo, hi + 1)
+            elif part.isdigit():
+                chapters.append(int(part))
+    if "--all" in args:   # the whole book: opening credits (00), every chapter, closing credits (99)
+        chapters = sorted(int(f[:2]) for f in os.listdir(os.path.join(AB, "Performance")) if re.fullmatch(r"\d\d\.json", f))
+    chapters = sorted(set(chapters))
+    if not chapters:
+        sys.exit("No chapters given: e.g. 1, 2-10, 2,5,9 or --all")
     man_path = os.path.join(OUT, "manifest.json")
     try:
         manifest = json.load(open(man_path))

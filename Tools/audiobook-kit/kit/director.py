@@ -160,6 +160,8 @@ def annotate(n, model, paras, title, progress=None):
     spans, moods, pov, fixed = {}, {}, "", 0
     parts = chunks(paras)
     for k, part in enumerate(parts):
+        if progress:
+            progress(k, len(parts))          # before each part, so there's always a line saying what it's doing
         before = " ".join(p["text"] for p in (paras[:paras.index(part[0])])[-2:])[-700:]
         for attempt in range(2):
             try:
@@ -203,7 +205,7 @@ def compare(n, model):
     title, _, body = P.read_chapter(P.chapter_files()[n], n)
     paras = P.segment(body)
     t0 = time.time()
-    ai, fixed = annotate(n, model, paras, title, lambda a, b: print(f"\r  reading: part {a}/{b}", end="", flush=True))
+    ai, fixed = annotate(n, model, paras, title, lambda a, b: print(f"\r  reading chapter {n}: {a} of {b} parts done" + ("…" if a < b else " "), end="", flush=True))
     print(f"\r  {model} took {time.time() - t0:.0f} s for chapter {n} ({len(paras)} paragraphs).")
     pt = lambda v: P.parse_span(v)[0]
     ids = list(hand.get("spans", {}))
@@ -228,6 +230,11 @@ def main():
     if "--which-model" in args:
         return print(model)
     ready(model)
+    print(f"Loading {model} (the first time after starting the Mac, this takes a minute or so)…", flush=True)
+    try:
+        call("/api/generate", {"model": model, "prompt": "", "keep_alive": "30m"}, timeout=900)
+    except Exception:
+        pass
     if "--compare" in args:
         return compare(int(args[args.index("--compare") + 1]), model)
     files = P.chapter_files()
@@ -257,7 +264,8 @@ def main():
             spent = time.time() - t_start
             frac = (done_words + words * a / b) / max(total_words, 1)
             eta = spent / frac - spent if frac > 0 else 0
-            print(f"\r  chapter {n}: part {a}/{b}   book {frac:.0%}, about {eta / 60:.0f} min left   ", end="", flush=True)
+            left = f"about {eta / 60:.0f} min left" if frac > 0 else "working out the time left"
+            print(f"\r  chapter {n}: {a} of {b} parts done   book {frac:.0%}, {left}   ", end="", flush=True)
         ann, fixed = annotate(n, model, paras, title, prog)
         raw = open(files[n], "rb").read()
         data = {"chapter": n, "pov": ann["pov"], "auto": True, "generator": gen, "source_sha1": P.sha(raw),

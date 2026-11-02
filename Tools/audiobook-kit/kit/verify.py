@@ -56,6 +56,17 @@ def align(ref, hyp, wild):
     return list(reversed(ops))
 
 
+def lcs(ref, hyp, wild):
+    """How many of the script's words are heard, in order (names match anything)."""
+    prev = [0] * (len(hyp) + 1)
+    for r in ref:
+        cur = [0]
+        for j, h in enumerate(hyp):
+            cur.append(prev[j] + 1 if (r in wild or rc.same_word(r, h)) else max(prev[j + 1], cur[j]))
+        prev = cur
+    return prev[-1]
+
+
 def clock(t):
     return f"{int(t // 60)}:{t % 60:04.1f}"
 
@@ -181,12 +192,25 @@ def main():
             if j is not None:
                 last_t = times[j]
             tline[k] = last_t
+        second = 0
         for p in places:
             a, b = p[0], p[-1]
             ref_words = [ref[ops[k][0]] for k in range(a, b + 1) if ops[k][0] is not None]
             hyp_words = [heard[ops[k][1]] for k in range(a, b + 1) if ops[k][1] is not None]
             errs = sum(1 for k in p)
             big = errs >= 2 or len(ref_words) >= 3 and not hyp_words
+            if big:
+                # A second listen: transcribing a whole chapter, a recogniser sometimes drops or merges a sentence.
+                # Cut out just this stretch and transcribe it alone; if the script's words are there, it's minor.
+                t0 = max(0.0, tline[a] - 1.5)
+                t1 = t0 + max(6.0, len(ref_words) / 2.0 + 4.0)
+                clip = audio16[int(t0 * SR):int(t1 * SR)]
+                s2, _ = asr.transcribe(clip, language="en", beam_size=5, condition_on_previous_text=False, vad_filter=False)
+                again = rc.join_split(rc.norm_words(" ".join(x.text for x in s2)), ref_words)
+                found = lcs(ref_words, again, wild)
+                if found >= len(ref_words) - (1 if len(ref_words) > 5 else 0):
+                    big = False; second += 1
+                    hyp_words = hyp_words + ["(a second listen heard it: " + " ".join(again[:12]) + ("…" if len(again) > 12 else "") + ")"]
             serious += big
             ctx_i = next((ops[k][0] for k in range(a, -1, -1) if ops[k][0] is not None), 0)
             before = " ".join(ref[max(0, ctx_i - 4): ctx_i])
@@ -201,7 +225,8 @@ def main():
         with open(os.path.join(OUT, f"{n:02d}_verify.txt"), "w", encoding="utf-8") as fh:
             fh.write(f"Chapter {n} verification of the built file: {status}" + (f" ({', '.join(fails)})" if fails else "") + "\n\n"
                      f"Length {clock(secs)}. Script {len(ref)} words; heard {len(heard)}. Differences: {total} "
-                     f"({rate:.1%}), in {len(places)} place(s), {serious} worth checking.\n"
+                     f"({rate:.1%}), in {len(places)} place(s), {serious} worth checking"
+                     f"{f' ({second} more cleared by a second listen)' if second else ''}.\n"
                      "Names count as matching. 'minor' is usually the recogniser mishearing one word; 'CHECK' is a likely\n"
                      "skip, repeat or garble. Listen at each CHECK time.\n\n"
                      "Finished file:\n" + "\n".join("- " + x for x in notes) + "\n\n"

@@ -179,6 +179,15 @@ def norm_words(text):
     text = text.lower().replace("\u2019", "'").replace("-", " ").replace("\u2014", " ").replace("\u2013", " ")
     text = re.sub(r"(\d),(\d{3})", r"\1\2", text)
     text = re.sub(r"\d+(st|nd|rd|th)?", lambda m: " " + _num_words(int(re.match(r"\d+", m.group()).group())) + " ", text)
+    # contractions spelt out and possessives dropped, so "would've" and "would have", "Haverly's" and "Haverly"
+    # compare equal (a recogniser writes them either way)
+    text = re.sub(r"\bwon't\b", "will not", text)
+    text = re.sub(r"\bcan't\b", "can not", text)
+    text = re.sub(r"\bshan't\b", "shall not", text)
+    text = re.sub(r"n't\b", " not", text)
+    for c, full in (("'ve", " have"), ("'ll", " will"), ("'re", " are"), ("'m", " am"), ("'d", " would")):
+        text = re.sub(re.escape(c) + r"\b", full, text)
+    text = re.sub(r"'s\b", "", text)
     words = [w.replace("'", "") for w in re.findall(r"[a-z']+", text) if w.replace("'", "")]
     # numbers said in words: ordinals as cardinals (tenth -> ten), no "and" or "a/one" before hundred/thousand,
     # so "the hundred-and-tenth day" and "the 110th day" compare equal
@@ -198,10 +207,18 @@ def norm_words(text):
 _SIM = {}
 
 
+_SOUND_ALIKE = [set(x.split()) for x in ("to two too", "for four fore", "there their theyre", "no know", "right write",
+                                            "hear here", "by buy bye", "one won", "eight ate", "new knew", "so sew sow",
+                                            "whole hole", "would wood", "through threw", "sea see", "son sun", "way weigh",
+                                            "allowed aloud", "mist missed", "past passed", "board bored", "court caught")]
+
+
 def same_word(a, b):
     """Equal, or near enough to be a spelling variant (Ottery's / Otterys / Otteries): same first letter and at
-    most one edit per three letters. Short words must match exactly."""
+    most one edit per three letters; or words that sound the same (two / to). Short words must match exactly."""
     if a == b:
+        return True
+    if any(a in g and b in g for g in _SOUND_ALIKE):
         return True
     if len(a) < 4 or len(b) < 4 or a[0] != b[0]:
         return False
@@ -244,7 +261,7 @@ def join_split(hyp, ref):
     two heard words whose letters make a word of the script."""
     want, out, i = set(ref), [], 0
     while i < len(hyp):
-        if i + 1 < len(hyp) and hyp[i] + hyp[i + 1] in want and hyp[i] not in want:
+        if i + 1 < len(hyp) and hyp[i] + hyp[i + 1] in want:
             out.append(hyp[i] + hyp[i + 1]); i += 2
         else:
             out.append(hyp[i]); i += 1

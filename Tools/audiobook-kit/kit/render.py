@@ -185,6 +185,14 @@ def norm_words(text):
     text = re.sub(r"\bcan't\b", "can not", text)
     text = re.sub(r"\bshan't\b", "shall not", text)
     text = re.sub(r"n't\b", " not", text)
+    # words that sound the same and a recogniser writes either way
+    text = re.sub(r"\byou're\b", "your", text)
+    text = re.sub(r"\b(they're|their)\b", "there", text)
+    text = re.sub(r"\bwe're\b", "were", text)
+    text = re.sub(r"\b(it's|its)\b", "it", text)
+    text = re.sub(r"\bwhose\b", "who", text)
+    # sounds rather than words (Mm, Hmm, Uh, Er): one family, and optional
+    text = re.sub(r"\b(m+|h+m+|m+h+m+|u+h+|u+m+|e+r+|e+r+m+|a+h+|h+u+h+)\b", " ~hm ", text)
     # the words hidden in a contraction are optional ("~"): "he'd decided" matches "he had decided", "he would
     # decide" and "he decided" (a recogniser often drops them, and "'d" can be had or would)
     for c, full in (("'ve", " ~have"), ("'ll", " ~will"), ("'re", " ~are"), ("'m", " ~am"), ("'d", " ~d")):
@@ -227,6 +235,8 @@ def same_word(a, b):
         return True
     if a.startswith("~") or b.startswith("~"):          # an optional word from a contraction
         x, y = (a, b) if a.startswith("~") else (b, a)
+        if x == "~hm":
+            return y == "~hm"
         return y.lstrip("~") in ({"would", "had", "did"} if x == "~d" else {x[1:]})
     if any(a in g and b in g for g in _SOUND_ALIKE):
         return True
@@ -265,6 +275,8 @@ def name_words():
     for g, a in name_pairs():
         words.update(norm_words(g)); words.update(norm_words(a))
     words.update(norm_words(cfg.AUTHOR or ""))
+    # forms of address, which a recogniser can't be expected to spell when said alone ("Ma." heard as "well")
+    words.update({"ma", "pa", "da", "mam", "nan", "gran", "granda", "mammy", "da"})
     return words
 
 
@@ -484,7 +496,7 @@ def main():
         """Why this take looks like a slip, or None. Too short = words skipped; too long = repeats or babble;
         a long silence inside = the model lost its place."""
         secs = len(audio) / SR
-        expect = max(len(text) / CHARS_PER_SEC, 0.6)
+        expect = max(len(text) / CHARS_PER_SEC, 0.4)    # "Ma." can take a third of a second
         if secs < expect * 0.5:
             return f"too short ({secs:.1f}s for ~{expect:.1f}s)"
         if secs > expect * 1.8 + 1.0:

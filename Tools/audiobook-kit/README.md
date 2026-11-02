@@ -37,7 +37,7 @@ Or give the choice directly: `... 1 7` (chapter 7, verified), `... 3 2-10` or `.
 - **Not verified:** one take per passage, no checks, faster. Chapters are marked UNCHECKED (drafts).
 - **Verify chapters already built (7):** transcribes the finished MP3s and lists every place the words differ from the script, with its time in the file, plus the loudness checks; PASS or FAIL in `audiobook/out/NN_verify.txt`. Nothing is re-rendered.
 - **Very short lines** (three words or fewer: "Down.", "Tell Pell.") go wrong most: on Book 1's first chapter, 42% needed a retake, against 2% of longer lines. They get up to six tries instead of three, and a more careful check (Whisper mishears a one-second clip). **Option 15** scans a book's scripts before building and predicts the retakes and doubtful lines, chapter by chapter (`audiobook/out/risk_scan.txt`).
-- **Accepting by ear (option 14):** when a chapter fails only on lines that sound right when you listen, accept it (`... 14 7`); it's marked PASS and a resumed build keeps it.
+- **Accepting by ear (option 14):** when a chapter fails only on its words (lines still doubtful, places where the words differ) and they sound right when you listen, accept it (`... 14 7`); it's marked PASS, noted in its reports, and a resumed build keeps it. A technical failure (loudness, true peak, clipping, a measurement that failed) can't be accepted: build the chapter again.
 - **Resuming:** several chapters and the whole book skip chapters that already passed with unchanged inputs, so stop with Ctrl-C and run the same command again.
 - **Listening:** the checks find likely skips, repeats and garbles; they can't judge names, emphasis or feeling. Listen to every chapter, starting with the passages the reports flag.
 

@@ -361,6 +361,12 @@ def chapter_list(args):
     return out
 
 
+def word_doubt(reason):
+    """True for a failure about the words (which a listener can overrule), not a technical one (loudness, true peak,
+    clipping, a measurement that failed), which needs fixing, not accepting."""
+    return bool(re.search(r"passage\(s\) still doubtful|place\(s\) where the words differ|accepted after listening", reason))
+
+
 def accept(args):
     """--accept 7 | 2-10: after listening to a chapter's doubtful lines and finding them right, mark it PASS, so a
     resumed build keeps it. Rendering it again (or changing its script) clears this."""
@@ -373,6 +379,12 @@ def accept(args):
         e = manifest.get(f"{n:02d}")
         if not isinstance(e, dict) or not os.path.exists(os.path.join(OUT, f"{n:02d}.mp3")):
             print(f"{n:02d}: not built yet, nothing to accept"); continue
+        if e.get("status") == "UNCHECKED":
+            print(f"{n:02d}: built without verifying (a draft); build it verified, or verify it (option 7), first"); continue
+        technical = [r for r in e.get("reasons", []) if not word_doubt(r)]
+        if technical:
+            print(f"{n:02d}: not accepted: it fails a technical check ({', '.join(technical)}), which listening can't"
+                  " overrule. Build it again."); continue
         e.update(status="PASS", reasons=["accepted after listening"] + [r for r in e.get("reasons", []) if r != "accepted after listening"])
         manifest[f"{n:02d}"] = e
         import datetime

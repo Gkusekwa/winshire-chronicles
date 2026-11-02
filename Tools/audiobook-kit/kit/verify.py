@@ -234,11 +234,17 @@ def main():
         prev = manifest.get(f"{n:02d}")
         prev = prev if isinstance(prev, dict) else {"digest": prev}
         if "accepted after listening" in prev.get("reasons", []) and status == "FAIL":
-            # someone listened and accepted this chapter: the check's doubts are reported, the acceptance stands
-            status, fails = "PASS", ["accepted after listening"] + fails
             rp = os.path.join(OUT, f"{n:02d}_verify.txt")
-            open(rp, "w", encoding="utf-8").write("ACCEPTED after listening: the chapter counts as PASS. The report"
-                                                  " below is from the automatic check.\n\n" + open(rp, encoding="utf-8").read())
+            report_text = open(rp, encoding="utf-8").read()          # read before rewriting
+            if all(rc.word_doubt(f) for f in fails):
+                # someone listened and accepted this chapter: the word check's doubts are reported, the acceptance
+                # stands. (A technical failure, such as loudness, peaks or clipping, is never overridden.)
+                status, fails = "PASS", ["accepted after listening"] + fails
+                open(rp, "w", encoding="utf-8").write("ACCEPTED after listening: the chapter counts as PASS. The report"
+                                                      " below is from the automatic check.\n\n" + report_text)
+            else:
+                open(rp, "w", encoding="utf-8").write("Accepted after listening earlier, but it now fails a technical check"
+                                                      " (not the words), so it counts as FAIL.\n\n" + report_text)
         prev.update(status=status, reasons=fails, verified="built file")
         manifest[f"{n:02d}"] = prev
         json.dump(manifest, open(man_path, "w"), indent=1)

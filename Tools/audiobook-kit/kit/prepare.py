@@ -58,13 +58,15 @@ def sha(*parts):
 def chapter_files():
     files = sorted(glob.glob(os.path.join(cfg.CHAPTERS, cfg.C["pattern"])))
     files = [f for f in files if not os.path.basename(f).lower().startswith(("readme", "notes", "plan"))]
-    out, used = {}, set()
-    for k, f in enumerate(files, 1):
-        m = re.search(r"\d+", os.path.basename(f))
-        n = int(m.group()) if m else k
-        if n in used or not 1 <= n <= 98:
-            n = max(used | {0}) + 1
-        used.add(n)
+    out = {}
+    numbered = [re.search(r"\d+", os.path.basename(f)) for f in files]
+    for k, (f, m) in enumerate(zip(files, numbered), 1):
+        n = int(m.group()) if all(numbered) else k     # numbered by name, or (if any file has no number) by order
+        if n in out:
+            sys.exit(f"Two chapter files have the number {n}: {os.path.basename(out[n])} and {os.path.basename(f)}."
+                     " Rename one, then run again.")
+        if not 1 <= n <= 98:
+            sys.exit(f"{os.path.basename(f)}: chapter numbers go from 1 to 98 (00 and 99 are the credits).")
         out[n] = f
     return dict(sorted(out.items()))
 
@@ -154,29 +156,86 @@ def parse_span(v):
 
 
 # ---------------- annotations ----------------
+def _key(t, n=60):
+    return " ".join(re.findall(r"[\w']+", t.lower().replace("’", "'")))[:n]
+
+
+def anchors(paras):
+    """The words each annotation belongs to, saved with it, so that after an edit to the chapter the annotations can
+    follow their words to their new place (quotes and paragraphs are numbered by position)."""
+    return ({s["id"]: _key(s["text"]) for p in paras for s in p["spans"]},
+            {p["id"]: _key(p["text"], 80) for p in paras})
+
+
+def _follow(old_values, old_anchor, new_anchor):
+    """Move values keyed by old ids to the new ids whose words match, in order. Returns (moved, unplaced old ids)."""
+    import difflib
+    o_ids, n_ids = list(old_anchor), list(new_anchor)
+    sm = difflib.SequenceMatcher(None, [old_anchor[i] for i in o_ids], [new_anchor[i] for i in n_ids], autojunk=False)
+    moved, placed = {}, set()
+    for blk in sm.get_matching_blocks():
+        for k in range(blk.size):
+            oi, ni = o_ids[blk.a + k], n_ids[blk.b + k]
+            if oi in old_values:
+                moved[ni] = old_values[oi]
+            placed.add(oi)
+    return moved, [i for i in old_values if i not in placed]
+
+
 def annotations(n, paras, source_sha):
-    """The chapter's annotations: the hand-made file, filled in where it lacks something, or the kit's own."""
+    """The chapter's annotations: the hand-made (or AI-made) file, following the text if it has changed and filled
+    in where it lacks something; or, where there's none, the kit's own."""
     os.makedirs(ANN, exist_ok=True)
     path = os.path.join(ANN, f"ch{n:02d}.json")
     ids = [s["id"] for p in paras for s in p["spans"]]
     made = directions.auto(paras, None, cfg.C.get("italics", "thought"))
+    s_anchor, p_anchor = anchors(paras)
+    rel = os.path.relpath(path, cfg.BOOK)
     if os.path.exists(path):
         ann = json.load(open(path, encoding="utf-8"))
         by_ai = str(ann.get("generator", "")).startswith("ai:")
-        if by_ai and ann.get("source_sha1") != source_sha:
-            print(f"  chapter {n}: changed since the local AI annotated it; its annotations are kept and filled in."
-                  f" To have the AI do it again: menu option 11 with chapter {n}.")
-        if not ann.get("auto") or by_ai or ann.get("source_sha1") == source_sha and ann.get("generator") == directions.GENERATOR:
-            missing = [i for i in ids if i not in ann.get("spans", {})]
-            extra = [i for i in ann.get("spans", {}) if i not in set(ids)]
-            if missing or extra:
-                print(f"  chapter {n}: the annotations don't match the chapter's quotes and italics any more"
-                      f" ({len(missing)} new, {len(extra)} gone); the kit filled in the new ones. Check {os.path.relpath(path, cfg.BOOK)}.")
-                for i in missing:
-                    ann.setdefault("spans", {})[i] = made["spans"][i]
+        keep = not ann.get("auto") or by_ai or ann.get("source_sha1") == source_sha and ann.get("generator") == directions.GENERATOR
+        if keep:
+            changed = False
+            spans = ann.get("spans", {})
+            if ann.get("anchors"):
+                if ann["anchors"] != s_anchor or ann.get("para_anchors", p_anchor) != p_anchor:
+                    spans, lost = _follow(spans, ann["anchors"], s_anchor)
+                    moods, lost_p = _follow(ann.get("paragraphs", {}), ann.get("para_anchors", {}), p_anchor)
+                    new = [i for i in ids if i not in spans]
+                    for i in new:
+                        spans[i] = made["spans"][i]
+                    print(f"  chapter {n}: the text has changed since it was annotated. The annotations followed their"
+                          f" words; {len(new)} new quote(s) or italic(s) were filled in by the rules"
+                          + (f" ({', '.join(new[:8])}{'…' if len(new) > 8 else ''}: check them)" if new else "")
+                          + (f"; {len(lost)} annotation(s) and {len(lost_p)} mood(s) had no words left and were dropped" if lost or lost_p else "")
+                          + f". In {rel}.")
+                    ann["spans"], ann["paragraphs"] = dict(sorted(spans.items(), key=lambda kv: int(kv[0][1:]))), \
+                        dict(sorted(moods.items(), key=lambda kv: int(kv[0][1:])))
+                    changed = True
+            else:
+                # an older file without anchors: if its quotes line up with the chapter, anchor it now
+                if sorted(spans, key=lambda x: int(x[1:])) == ids:
+                    changed = True
+                else:
+                    missing = [i for i in ids if i not in spans]
+                    print(f"  chapter {n}: the annotations don't match the chapter's quotes and italics any more"
+                          f" ({len(missing)} new, {len(set(spans) - set(ids))} gone), and the file is too old to follow"
+                          f" the text. The kit filled in the new ones; check {rel}, from the first change on.")
+                    for i in missing:
+                        spans[i] = made["spans"][i]
+                    ann["spans"] = spans
+            if by_ai and ann.get("source_sha1") != source_sha:
+                print(f"  chapter {n}: changed since the local AI annotated it (annotations kept). To have the AI do it"
+                      f" again: menu option 11 with chapter {n}.")
+            if changed:
+                ann["anchors"], ann["para_anchors"] = s_anchor, p_anchor
+                if ann.get("auto"):
+                    ann["source_sha1"] = source_sha if not by_ai else ann.get("source_sha1")
+                json.dump(ann, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
             return ann
     ann = {"chapter": n, "pov": "", "auto": True, "generator": directions.GENERATOR, "source_sha1": source_sha,
-           "spans": made["spans"], "paragraphs": made["paragraphs"]}
+           "spans": made["spans"], "paragraphs": made["paragraphs"], "anchors": s_anchor, "para_anchors": p_anchor}
     json.dump(ann, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     return ann
 

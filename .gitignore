@@ -8,6 +8,7 @@ Book */*.epub
 Book */*.pdf
 Book */*/*.epub
 Book */*/*.pdf
-# audiobook: the audio and the kit's generated scripts stay out of git; one kit lives in Tools/audiobook-kit
+# audiobook: the audio and the reading scripts (made by the kit on every run) stay out of git; one kit lives in Tools/audiobook-kit
 Book */audiobook/out/
 Book */audiobook-kit/
+Book */audiobook/Performance/

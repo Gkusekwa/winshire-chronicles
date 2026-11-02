@@ -27,9 +27,17 @@ import config as cfg      # noqa: E402
 import directions         # noqa: E402
 import prepare as P       # noqa: E402
 
-HOST = os.environ.get("OLLAMA_HOST", "http://127.0.0.1:11434").rstrip("/")
+# The chapters never leave this computer: only an Ollama on this machine is used. (OLLAMA_HOST may name another local
+# port; a host anywhere else is refused.)
+HOST = os.environ.get("OLLAMA_HOST", "127.0.0.1:11434").strip().rstrip("/")
 if not HOST.startswith("http"):
     HOST = "http://" + HOST
+_h = re.sub(r"^https?://", "", HOST).split("/")[0]
+_h = _h.rsplit(":", 1)[0] if _h.count(":") == 1 or _h.startswith("[") else _h
+if _h.strip("[]") not in ("127.0.0.1", "localhost", "::1", "0.0.0.0"):
+    sys.exit(f"OLLAMA_HOST is set to {HOST}, which isn't this computer. The kit only sends the book to an AI running"
+             " here; unset OLLAMA_HOST (or set it to 127.0.0.1:11434) and try again.")
+HOST = HOST.replace("0.0.0.0", "127.0.0.1")
 PROMPT_VERSION = "1"
 TYPES = ["speech", "bond", "thought", "remembered", "written", "verse", "emphasis", "term"]
 MOODS = list(directions.MOODS)
@@ -254,6 +262,7 @@ def main():
         raw = open(files[n], "rb").read()
         data = {"chapter": n, "pov": ann["pov"], "auto": True, "generator": gen, "source_sha1": P.sha(raw),
                 "spans": ann["spans"], "paragraphs": ann["paragraphs"]}
+        data["anchors"], data["para_anchors"] = P.anchors(paras)
         json.dump(data, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
         done_words += words
         print(f"\r  chapter {n}: {len(ann['paragraphs'])} of {len(paras)} paragraphs with a mood"

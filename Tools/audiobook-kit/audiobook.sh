@@ -37,7 +37,8 @@ choice="$1"; chapters="$2"
 export PYTHONWARNINGS=ignore TQDM_DISABLE=1 TRANSFORMERS_VERBOSITY=error HF_HUB_DISABLE_PROGRESS_BARS=1
 
 ensure_ollama() {
-  # Ollama runs AI models on this Mac, free and offline: https://ollama.com
+  # Ollama runs AI models on this Mac, free and offline: https://ollama.com. Only the one on this Mac is used.
+  export OLLAMA_HOST=127.0.0.1:11434
   if ! command -v ollama >/dev/null; then
     if [ -x /Applications/Ollama.app/Contents/Resources/ollama ]; then
       export PATH="/Applications/Ollama.app/Contents/Resources:$PATH"

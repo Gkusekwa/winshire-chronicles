@@ -30,6 +30,7 @@ Or copy the `audiobook-kit` folder next to a book's `Chapters/` and run `bash "M
 Or give the choice directly: `... 1 7` (chapter 7, verified), `... 3 2-10` or `... 3 2,5,9` (several), `... 5` (the whole book), `... 7 all` (verify everything built).
 
 - **Verified:** every take is checked, and retaken up to three times if a check fails. The checks are its length against its text, no long silences inside it, and its **words**: Whisper transcribes the take and compares it with the script, with names counting as matching. Each finished chapter is also checked for loudness, true peak, clipping and noise floor, and gets **PASS** or **FAIL** in `audiobook/out/NN_check.txt`.
+- **PASS is a screen, not a proof.** The word check allows near-misses (spelling variants) and counts names as matching whatever was heard, and single misheard words are listed as minor. A chapter that passes still needs a full listen and proofread before release.
 - **Not verified:** one take per passage, no checks, faster. Chapters are marked UNCHECKED (drafts).
 - **Verify chapters already built (7):** transcribes the finished MP3s and lists every place the words differ from the script, with its time in the file, plus the loudness checks; PASS or FAIL in `audiobook/out/NN_verify.txt`. Nothing is re-rendered.
 - **Resuming:** several chapters and the whole book skip chapters that already passed with unchanged inputs, so stop with Ctrl-C and run the same command again.
@@ -48,13 +49,13 @@ Everything goes in the book's `audiobook/` folder. The first three are yours to 
 | `book.json` | The settings (below), made on the first run from what the kit can work out. |
 | `annotations/chNN.json` | For every quote and italic in the chapter: what kind of words it is, who says it and how. For the paragraphs that need one: a mood. Made by the kit where missing; correct them by hand. |
 | `Lexicon.csv` | The names: Name, Respelling (what the narrator reads), Say (a guide such as OR-veth), IPA, Notes. The kit adds names it finds; fill in a respelling for any the narrator gets wrong. |
-| `Performance/NN.json` | The reading scripts, one per chapter: the titles, then every paragraph as segments with type, speaker, delivery, mood and pause. Remade whenever a chapter or its annotations change. `00` and `99` are the opening and closing credits. |
+| `Performance/NN.json` | The reading scripts, one per chapter: the titles, then every paragraph as segments with type, speaker, delivery, mood and pause. Made from the chapters, annotations and lexicon on every run (keep them out of git; they can always be made again). `00` and `99` are the opening and closing credits. |
 | `out/NN.mp3` | The finished chapters (44.1 kHz MP3, loudness-normalised to about -19 LUFS), tagged with the chapter's title ("Chapter 7: The Ferry"), the book, the author and the track number. |
 | `out/NN_check.txt`, `out/NN_verify.txt`, `out/manifest.json` | The check reports, and what was built from what with each chapter's status. |
 
 ## The chapters
 
-- Every file matching the pattern in the chapters folder is a chapter, numbered by the first number in its name (up to 98).
+- Every file matching the pattern in the chapters folder is a chapter, numbered by the first number in its name (1 to 98). Two files with the same number stop the kit, naming both.
 - **Titles** come from the first `# ` heading: "# Chapter 7: The Ferry" is read "Chapter Seven." then "The Ferry.", with a pause after each. Where a new part begins, its title is read first, from a `Part:` line in the chapter's notes (an HTML comment): `Part: Part One: Two Banks` is read "Part One. Two Banks."
 - **Text:** paragraphs are separated by blank lines; comments, front matter, headings and Markdown marks are left out; `---`, `***` or `* * *` alone on a line is a scene break (a longer pause); a paragraph in `>` blockquote is written words.
 
@@ -68,6 +69,7 @@ Everything goes in the book's `audiobook/` folder. The first three are yours to 
 
 - **spans:** one entry per quote and italic, numbered through the chapter (s1, s2, …), as `type:speaker>listener|how`. Only the type is needed. Types: `speech`, `bond` (mind-to-mind speech), `thought`, `remembered`, `written`, `verse`, `emphasis`, `term`.
 - **paragraphs:** a mood for the paragraphs that need one (p1, p2, … in order), with an optional note after `|`. Moods: action, tension, dread, quiet, reflective, tender, grief, humour, anger, urgent, awe. Most paragraphs need none.
+- **Edits to a chapter:** quotes and paragraphs are numbered by position, so an edit moves the numbers. Each file also keeps the words its annotations belong to (`anchors`), and after an edit the annotations follow their words to their new place; new quotes are filled in by the rules and listed, so you can check them.
 - **"auto": true** marks a file the kit made, which it remakes when its chapter changes. Delete that line once you've corrected the file, and the kit keeps it, only filling in quotes or italics added later (and saying so).
 
 **What the kit decides on its own** (`kit/directions.py`):
@@ -90,7 +92,7 @@ The kit's rules type quotes well but can only guess moods from words. For moods 
 Chatterbox has no emotion labels. It copies the tone of the narrator's clip and has two settings: **exaggeration** (how much feeling) and **cfg weight** (lower is slower and more deliberate). Most of the expression comes from the model reading the sentence itself. The scripts add four things:
 
 1. **Mood** sets both settings for the paragraph: none 0.50 / 0.50; quiet 0.40 / 0.45; tender 0.50 / 0.40; tension 0.60 / 0.50; awe 0.60 / 0.35; grief 0.70 / 0.30; urgent 0.75 / 0.55; anger 0.80 / 0.40.
-2. **How** notes adjust them: "shouted" adds feeling and 3 dB; "whispered" takes feeling off and 6 dB; "voice cracking" adds feeling, a little quieter. The total stays between 0.25 and 1.0.
+2. **How** notes adjust the feeling (exaggeration) and the loudness, not the pace: "shouted" adds feeling and 3 dB; "whispered" takes feeling off and 6 dB; "voice cracking" adds feeling, a little quieter. The feeling stays between 0.25 and 1.0. Pace comes from the mood and the kind of words.
 3. **The kind of words** changes volume and speed after rendering: thought and remembered words -4.5 dB at 97%; bond speech -3 dB at 95%; written words and verse -1 dB at 94–95%. A paragraph that mixes kinds is read as narration.
 4. **Silence:** 0.5 s between paragraphs, 0.8 s after grief, dread, awe and tension, 1.6 s at a scene break.
 

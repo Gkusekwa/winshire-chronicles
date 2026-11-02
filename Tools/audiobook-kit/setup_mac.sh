@@ -25,6 +25,14 @@ if [ ! -x "$C/venv/bin/python" ] || ! "$C/venv/bin/python" -c 'import sys; sys.e
   "$C/venv/bin/pip" install -q --upgrade pip
 fi
 echo "==> Checking packages (Chatterbox, Whisper); the first time this downloads several hundred MB..."
-"$C/venv/bin/pip" install --progress-bar on "chatterbox-tts==0.1.7" "setuptools<81" "faster-whisper==1.2.1" | grep -v "^Requirement already satisfied" || true
+set -o pipefail
+if ! "$C/venv/bin/pip" install --progress-bar on "chatterbox-tts==0.1.7" "setuptools<81" "faster-whisper==1.2.1" \
+     | { grep -v "^Requirement already satisfied" || true; }; then
+  echo "Setup FAILED: the packages didn't install (see the messages above). Fix the problem and run this again."; exit 1
+fi
 # setuptools<81: Chatterbox's watermarker needs pkg_resources.
+if ! "$C/venv/bin/python" -c "import chatterbox, faster_whisper, perth; assert perth.PerthImplicitWatermarker" 2>/dev/null; then
+  echo "Setup FAILED: the packages installed but don't load (Chatterbox, Whisper or the watermarker). Run this again;"
+  echo "if it keeps failing, delete $C/venv and run it once more."; exit 1
+fi
 echo "==> Setup done. (Chatterbox's model, about 3 GB, and Whisper's, about 500 MB, download the first time they're used.)"

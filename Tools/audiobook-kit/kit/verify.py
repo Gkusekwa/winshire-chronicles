@@ -69,6 +69,9 @@ def file_checks(mp3):
     tail = r.stderr[r.stderr.rfind("Summary:"):]
     lufs = re.search(r"I:\s+(-?[\d.]+) LUFS", tail)
     peak = re.search(r"Peak:\s+(-?[\d.]+) dBFS", tail)
+    if not lufs or not peak:
+        notes.append("loudness or true peak couldn't be measured  <- FAIL: check the file plays")
+        fails.append("not measurable")
     if lufs:
         v = float(lufs.group(1))
         ok = -23 <= v <= -18

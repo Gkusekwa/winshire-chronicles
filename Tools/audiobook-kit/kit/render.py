@@ -310,12 +310,18 @@ def chapter_list(args):
 
 def retag(args):
     """--retag 1 | 2-10 | --all: put the titles into chapters already built, without rendering them again."""
+    prepare.main(quiet=True)          # the titles come from the reading scripts: make them first
     nums = sorted(set(ALL_CHAPTERS() if "--all" in args else chapter_list(args)))
+    if not ALL_CHAPTERS():
+        sys.exit(f"No reading scripts in {cfg.SCRIPTS}, so there are no titles to write. Check the chapters folder in {cfg.CONF}.")
     done = 0
     for n in nums:
         mp3 = os.path.join(OUT, f"{n:02d}.mp3")
-        if os.path.exists(mp3):
-            print(f"{n:02d}: {tag_mp3(mp3, n)}"); done += 1
+        if not os.path.exists(mp3):
+            continue
+        if n != "audition" and not os.path.exists(SCRIPT_OF(n)):
+            print(f"{n:02d}: no reading script for this chapter, so its title is unknown; left as it is"); continue
+        print(f"{n:02d}: {tag_mp3(mp3, n)}"); done += 1
     print(f"Tagged {done} file(s) in {OUT}.")
 
 
@@ -510,6 +516,9 @@ def main():
         tail = r.stderr[r.stderr.rfind("Summary:"):]
         lufs = re.search(r"I:\s+(-?[\d.]+) LUFS", tail)
         peak = re.search(r"Peak:\s+(-?[\d.]+) dBFS", tail)
+        if not lufs or not peak:
+            notes.append("loudness or true peak couldn't be measured  <- FAIL: check the file plays")
+            fails.append("not measurable")
         if lufs:
             v = float(lufs.group(1))
             notes.append(f"loudness {v:.1f} LUFS" + ("" if -23 <= v <= -18 else "  <- FAIL: outside -23..-18"))

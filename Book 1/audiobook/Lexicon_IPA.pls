@@ -27,7 +27,7 @@
   <lexeme><grapheme>Gorm</grapheme><phoneme>ɡɔːm</phoneme></lexeme>
   <lexeme><grapheme>Greyhold</grapheme><phoneme>ˈɡreɪhəʊld</phoneme></lexeme>
   <lexeme><grapheme>Gullhaven</grapheme><phoneme>ˈɡʌlheɪvən</phoneme></lexeme>
-  <lexeme><grapheme>Gunna</grapheme><phoneme>ˈɡʊnə</phoneme></lexeme>
+  <lexeme><grapheme>Gunna</grapheme><phoneme>ˈɡʌnə</phoneme></lexeme>
   <lexeme><grapheme>Haldor</grapheme><phoneme>ˈhældɔː</phoneme></lexeme>
   <lexeme><grapheme>Hallam</grapheme><phoneme>ˈhæləm</phoneme></lexeme>
   <lexeme><grapheme>Halloran</grapheme><phoneme>ˈhælərən</phoneme></lexeme>
@@ -42,7 +42,7 @@
   <lexeme><grapheme>Imra</grapheme><phoneme>ˈɪmrə</phoneme></lexeme>
   <lexeme><grapheme>Isvaren</grapheme><phoneme>ˈɪsvɑːrən</phoneme></lexeme>
   <lexeme><grapheme>Kesh</grapheme><phoneme>kɛʃ</phoneme></lexeme>
-  <lexeme><grapheme>Kharrak</grapheme><phoneme>ˈkærək</phoneme></lexeme>
+  <lexeme><grapheme>Kharrak</grapheme><phoneme>ˈkæræk</phoneme></lexeme>
   <lexeme><grapheme>Lisska</grapheme><phoneme>ˈlɪskə</phoneme></lexeme>
   <lexeme><grapheme>Lucan</grapheme><phoneme>ˈluːkən</phoneme></lexeme>
   <lexeme><grapheme>Mabbin</grapheme><phoneme>ˈmæbɪn</phoneme></lexeme>

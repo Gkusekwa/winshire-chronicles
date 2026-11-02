@@ -293,11 +293,11 @@ def front_back(voice=None):
 def write_names():
     rows = ["# Pronunciation guide: The Watch Below", "",
             "Every invented name in Book 1 that a synthetic voice may get wrong, with a respelling (stress in capitals), British IPA, and a plain alias spelling for engines that take aliases. "
-            "**The author's word is final.** Names marked *confirm* could reasonably be said more than one way; the form given is the working choice until the author settles it. "
+            "**The author's word is final.** Names marked *settled* could be said more than one way; the form given was settled in November 2026. "
             "To change one, edit `Tools/audiobook/names.py` and rebuild; the lexicons are regenerated from it.", "",
             "| Name | Say it | IPA | Alias | |", "|---|---|---|---|---|"]
     for n, say, ipa, alias, st in sorted(NAMES, key=lambda x: x[0]):
-        rows.append(f"| **{n}** | {say} | /{ipa}/ | {alias or ''} | {'*confirm*' if st == 'confirm' else ''} |")
+        rows.append(f"| **{n}** | {say} | /{ipa}/ | {alias or ''} | {'*settled*' if st == 'settled' else ''} |")
     rows += ["", "## Notes", "",
              "- **Kharrak**: the *kh* is a plain hard *k*; the spelling marks the Clan's harder sound, not a throat sound.",
              "- **Staithe** rhymes with *bathe* (voiced *th*), as in northern English *staithe*, a landing stage.",

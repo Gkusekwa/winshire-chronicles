@@ -9,7 +9,6 @@
   <lexeme><grapheme>Calder</grapheme><alias>Cawlder</alias></lexeme>
   <lexeme><grapheme>Coldtarn</grapheme><alias>Cold-tarn</alias></lexeme>
   <lexeme><grapheme>Eelweir</grapheme><alias>Eel-weer</alias></lexeme>
-  <lexeme><grapheme>Gunna</grapheme><alias>Goonuh</alias></lexeme>
   <lexeme><grapheme>Hearthmere</grapheme><alias>Harthmeer</alias></lexeme>
   <lexeme><grapheme>Hollin Knowe</grapheme><alias>Hollin Now</alias></lexeme>
   <lexeme><grapheme>Holm</grapheme><alias>Home</alias></lexeme>

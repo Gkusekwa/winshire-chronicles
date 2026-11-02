@@ -2,7 +2,7 @@
 
 The home of the Winshire books: the series bible and the manuscripts. Keep established canon consistent across documents; mark new possibilities as working proposals until they are agreed.
 
-**Status (Nov 2026):** all three books are close to final draft, 253 chapters (Book 1: 79, Book 2: 88, Book 3: 86). The whole trilogy was audited and fixed in October 2026, and the author has accepted the drafts as written: the Bible, the chapter plans and the maps follow them, and where any document differs from a draft, the draft wins. The tales were canon-checked against the books in November 2026, and the 26 contradictions this found inside the books are settled (`Tales/Canon_Check/Book_Fixes/`). Still open: the publishing and audiobook choices (`Publishing.md`; including how readers will find the Guides, the edition that goes out first, and the audiobook's voices and pronunciations), and the next series and the game (`Bible/Series_Outline.md`).
+**Status (Nov 2026):** all three books are close to final draft, 253 chapters (Book 1: 79, Book 2: 88, Book 3: 86). The whole trilogy was audited and fixed in October 2026, and the author has accepted the drafts as written: the Bible, the chapter plans and the maps follow them, and where any document differs from a draft, the draft wins. The tales were canon-checked against the books in November 2026, and the 26 contradictions this found inside the books are settled (`Tales/Canon_Check/Book_Fixes/`). Still open: the publishing and audiobook choices (`Publishing.md`; including how readers will find the Guides, the edition that goes out first, and the audiobook's route and voices), and the next series and the game (`Bible/Series_Outline.md`).
 
 ## What's here
 

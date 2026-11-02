@@ -2,16 +2,16 @@
 
 Each entry: name, guide respelling (stress in capitals), IPA (British), alias (a plain spelling an
 English voice will read correctly; None when the written spelling already reads right), status.
-status "confirm" = a real choice the author should make (the name could reasonably be said more than one way).
+status "settled" = a name that could be said more than one way, settled as given here (Nov 2026).
 """
 
 NAMES = [
     # --- the leads and their beasts ---
-    ("Maren", "MAIR-en", "ˈmɛərən", "Mairen", "confirm"),
-    ("Calder", "KAWL-der", "ˈkɔːldə", "Cawlder", "confirm"),
-    ("Orrun", "ORR-un", "ˈɒrən", "Orran", "confirm"),
-    ("Aurveth", "OR-veth", "ˈɔːvɛθ", "Orveth", "confirm"),
-    ("Kharrak", "KARR-ak", "ˈkærək", "Karrak", "confirm"),
+    ("Maren", "MAIR-en", "ˈmɛərən", "Mairen", "settled"),
+    ("Calder", "KAWL-der", "ˈkɔːldə", "Cawlder", "settled"),
+    ("Orrun", "ORR-un", "ˈɒrən", "Orran", "settled"),
+    ("Aurveth", "OR-veth", "ˈɔːvɛθ", "Orveth", "settled"),
+    ("Kharrak", "KARR-ak", "ˈkæræk", "Karrak", "settled"),
     ("Lisska", "LISS-ka", "ˈlɪskə", "Liska", "ok"),
     ("Kesh", "KESH", "kɛʃ", None, "ok"),
     # --- people ---
@@ -33,14 +33,14 @@ NAMES = [
     ("Fenn", "FEN", "fɛn", None, "ok"),
     ("Fennick", "FEN-ick", "ˈfɛnɪk", None, "ok"),
     ("Gorm", "GORM", "ɡɔːm", None, "ok"),
-    ("Gunna", "GUN-uh", "ˈɡʊnə", "Goonuh", "confirm"),
+    ("Gunna", "GUN-uh", "ˈɡʌnə", None, "settled"),
     ("Haldor", "HAL-dor", "ˈhældɔː", None, "ok"),
     ("Hallam", "HAL-um", "ˈhæləm", None, "ok"),
     ("Halloran", "HAL-uh-run", "ˈhælərən", None, "ok"),
     ("Haverly", "HAV-er-lee", "ˈhævəli", None, "ok"),
     ("Hesketh", "HESK-ith", "ˈhɛskɪθ", None, "ok"),
-    ("Holm", "HOME", "həʊm", "Home", "confirm"),
-    ("Ide", "EYE-dee", "ˈaɪdi", "Eyedee", "confirm"),
+    ("Holm", "HOME", "həʊm", "Home", "settled"),
+    ("Ide", "EYE-dee", "ˈaɪdi", "Eyedee", "settled"),
     ("Idris", "ID-riss", "ˈɪdrɪs", None, "ok"),
     ("Imra", "IM-ruh", "ˈɪmrə", "Imruh", "ok"),
     ("Lucan", "LOO-kun", "ˈluːkən", "Lookan", "ok"),
@@ -62,7 +62,7 @@ NAMES = [
     ("Sten", "STEN", "stɛn", None, "ok"),
     ("Tamsin", "TAM-zin", "ˈtæmzɪn", "Tamzin", "ok"),
     ("Tarne", "TARN", "tɑːn", "Tarn", "ok"),
-    ("Teo", "TAY-oh", "ˈteɪəʊ", "Tayo", "confirm"),
+    ("Teo", "TAY-oh", "ˈteɪəʊ", "Tayo", "settled"),
     ("Ulric", "ULL-rik", "ˈʊlrɪk", "Ullrick", "ok"),
     ("Varr", "VAR", "vɑː", "Var", "ok"),
     ("Vasey", "VAY-zee", "ˈveɪzi", "Vayzee", "ok"),
@@ -78,21 +78,21 @@ NAMES = [
     ("Gullhaven", "GULL-hay-vun", "ˈɡʌlheɪvən", None, "ok"),
     ("Hallowmere", "HAL-oh-meer", "ˈhæləʊmɪə", None, "ok"),
     ("Hearthmere", "HARTH-meer", "ˈhɑːθmɪə", "Harthmeer", "ok"),
-    ("Hollin Knowe", "HOL-in NOW", "ˈhɒlɪn naʊ", "Hollin Now", "confirm"),
-    ("Isvaren", "ISS-vah-ren", "ˈɪsvɑːrən", "Iss-varen", "confirm"),
+    ("Hollin Knowe", "HOL-in NOW", "ˈhɒlɪn naʊ", "Hollin Now", "settled"),
+    ("Isvaren", "ISS-vah-ren", "ˈɪsvɑːrən", "Iss-varen", "settled"),
     ("Northwatch", "NORTH-watch", "ˈnɔːθwɒtʃ", None, "ok"),
     ("Oneroad", "WUN-road", "ˈwʌnrəʊd", "One-road", "ok"),
     ("Redwatch", "RED-watch", "ˈrɛdwɒtʃ", None, "ok"),
     ("Saltreach", "SAWLT-reech", "ˈsɔːltriːtʃ", "Salt-reach", "ok"),
-    ("Sarovel", "SARR-uh-vel", "ˈsærəvɛl", "Sarrovel", "confirm"),
+    ("Sarovel", "SARR-uh-vel", "ˈsærəvɛl", "Sarrovel", "settled"),
     ("Scarfell", "SKAR-fell", "ˈskɑːfɛl", "Scar-fell", "ok"),
     ("Skarrow", "SKARR-oh", "ˈskærəʊ", "Scarrow", "ok"),
-    ("Staithe", "STAYTHE (as in bathe)", "steɪð", "Stathe", "confirm"),
+    ("Staithe", "STAYTHE (as in bathe)", "steɪð", "Stathe", "settled"),
     ("Stillhaven", "STILL-hay-vun", "ˈstɪlheɪvən", None, "ok"),
     ("Tidesteps", "TIDE-steps", "ˈtaɪdstɛps", "Tide-steps", "ok"),
     ("Varrhold", "VAR-hold", "ˈvɑːhəʊld", "Var-hold", "ok"),
     ("Wend", "WEND", "wɛnd", None, "ok"),
     ("Wendmouth", "WEND-mouth", "ˈwɛndmaʊθ", None, "ok"),
     ("Wendwood", "WEND-wood", "ˈwɛndwʊd", None, "ok"),
-    ("Winshire", "WIN-sher", "ˈwɪnʃə", "Winsher", "confirm"),
+    ("Winshire", "WIN-sher", "ˈwɪnʃə", "Winsher", "settled"),
 ]

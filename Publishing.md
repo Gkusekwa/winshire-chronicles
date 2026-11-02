@@ -72,4 +72,4 @@
 - Which edition (Bone, Night or Band) goes out first, and how the other two are released *(to be decided later)*.
 - Publish under your own name or a pen name, and under what imprint name?
 - Release Book 1 alone, or the three close together?
-- The audiobook: which route (ElevenReader, Spotify for Authors, Google Play), one narrator or a full cast, and the names marked *confirm* in `Book 1/audiobook/Pronunciation_Guide.md`.
+- The audiobook: which route (ElevenReader, Spotify for Authors, Google Play), and one narrator or a full cast. (The names' pronunciations are settled, Nov 2026: `Book 1/audiobook/Pronunciation_Guide.md`.) A free route is set up too: Kokoro, open source, rendered by `Tools/audiobook/render_kokoro.py` with Emma as narrator.

@@ -17,13 +17,14 @@ If a chapter's text changes, its paragraph and span numbering can shift. `python
 |---|---|
 | `Narration_Guide.md` | How to read the book: the five kinds of words (narration, speech, bond speech, thought, written words and verse), directions, pauses. |
 | `Cast.md` | Every voiced role, with gender, age, line count and voice notes. A single narrator uses it as character notes. |
-| `Pronunciation_Guide.md` | Invented names with a respelling and IPA. Names marked *confirm* are the author's to settle. |
+| `Pronunciation_Guide.md` | Invented names with a respelling and IPA. The names that could be said more than one way are marked *settled* (Nov 2026). |
 | `Lexicon_IPA.pls`, `Lexicon_Alias.pls` | The same names as standard pronunciation lexicons: IPA (Amazon Polly, Azure) and alias spellings (ElevenLabs and others). |
 | `annotations/chNN.json` | The source of the performance: the speaker and kind of every quoted or italic span, and a direction where a paragraph needs one. |
 | `Performance/NN.json` | Each chapter as a sequence of segments with type, speaker, listener, delivery and pause. This is what a multi-voice pipeline uses. |
 | `Scripts/*.ssml` | Standard SSML 1.1 for one narrator. Bond speech, thoughts, verse and written words get gentle prosody; paragraphs with a direction get a slight rate change; pauses are explicit, never over 3 s. Comments name the speaker of each paragraph. |
 | `Variants/google/` | SSML with names respelt inline, for engines without lexicon support. |
 | `Variants/azure/` | SSML wrapped in an Azure voice element (rebuild with `--variant azure --voice NAME` to change the voice). |
+| `Kokoro/` | A free, offline route: `python3 Tools/audiobook/render_kokoro.py N` renders chapter N with Kokoro (open source), Emma as narrator, names from `Lexicon_IPA.pls`. Setup is in the script's header. On a Mac, `bash Tools/audiobook/kokoro_mac.sh` does the setup and renders every chapter (or a range, e.g. `2-10`), skipping chapters already done, and keeps the Mac awake while it runs. The audio goes in `Kokoro/out/`, which git ignores. |
 | `ElevenLabs/` | The ElevenLabs production kit (below). |
 
 ## ElevenLabs

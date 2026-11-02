@@ -30,9 +30,11 @@ if [ ! -x "$C/venv/bin/python" ] || ! "$C/venv/bin/python" -c 'import sys; sys.e
   "$PY" -m venv "$C/venv"
   "$C/venv/bin/pip" install -q --upgrade pip
 fi
-"$C/venv/bin/pip" install -q "chatterbox-tts==0.1.7" "setuptools<81" "faster-whisper==1.2.1"
+echo "==> Checking packages (Chatterbox, Whisper); the first time this downloads several hundred MB..."
+"$C/venv/bin/pip" install --progress-bar on "chatterbox-tts==0.1.7" "setuptools<81" "faster-whisper==1.2.1" | grep -v "^Requirement already satisfied" || true
 # setuptools<81: Chatterbox's watermarker needs pkg_resources. faster-whisper: the word check (its model, about
 # 500 MB, downloads on first use).
 export PYTORCH_ENABLE_MPS_FALLBACK=1
 if [ $# -eq 0 ]; then set -- --audition; fi
+echo "==> Rendering ($*). Loading the models takes a minute; the first run also downloads Whisper's model (~500 MB)."
 caffeinate -i "$C/venv/bin/python" Tools/audiobook/render_chatterbox.py "$@"

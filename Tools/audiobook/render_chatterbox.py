@@ -1,10 +1,9 @@
 """Render Book 1 audiobook passages with Chatterbox (Resemble AI, MIT licence): free, offline after the first
-model download, and able to act. Use it to compare with the Kokoro cast, passage for passage.
+model download, and able to act. The free route for the audiobook, benchmarked against the ElevenLabs renders.
 
 How it reads the scripts (`Book 1/audiobook/Variants/local/NN.json`: the local-engine version of the scripts, without part titles or chapter numbers; rebuild with `build.py --variant local`):
-- The narrator reads everything, in Emma's voice, cloned from a short reference clip of Kokoro's Emma
-  (`Book 1/audiobook/Chatterbox/refs/Narrator.wav`, made with `render_kokoro.py --refs --cast`), so the two engines
-  can be compared on the same voice. With --cast, each character speaks in their own cloned voice instead.
+- The narrator reads everything, in Emma's voice, cloned from a short reference clip
+  (`Book 1/audiobook/Chatterbox/refs/Narrator.wav`: a 12-second clip of Emma, kept from the Kokoro trial). With --cast, each character speaks in their own cloned voice instead.
 - Each line's mood and "how" note set Chatterbox's emotion intensity (exaggeration) and pacing (cfg weight).
 - Names are respelt from `Lexicon_Alias.pls`, since Chatterbox reads text, not phonemes.
 - Chatterbox adds an inaudible Perth watermark to its output (Resemble AI's responsible-AI marker).
@@ -12,7 +11,7 @@ How it reads the scripts (`Book 1/audiobook/Variants/local/NN.json`: the local-e
 Setup on a Mac: `bash Tools/audiobook/chatterbox_mac.sh` (Python 3.11, chatterbox-tts 0.1.7, the model from Hugging Face).
 
 Use:
-    python3 render_chatterbox.py --audition      # the same passages as the Kokoro audition -> out/audition.mp3
+    python3 render_chatterbox.py --audition      # passages of every kind from across the book -> out/audition.mp3
     python3 render_chatterbox.py 1               # chapter 1 -> out/01.mp3
     python3 render_chatterbox.py 1-79 --skip-done
     python3 render_chatterbox.py 1 --narrator-ref Narrator_Tamsin.wav   # clone the ElevenLabs narrator instead of Emma
@@ -24,11 +23,74 @@ import hashlib, json, os, re, subprocess, sys, xml.etree.ElementTree as ET
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-import render_kokoro as rk   # shared: the audition picks, paragraphs, kinds of words  # noqa: E402
 import cast as castmap        # noqa: E402
 
-AB = rk.AB
-REPO = rk.REPO
+REPO = os.path.dirname(os.path.dirname(HERE))
+AB = os.path.join(REPO, "Book 1", "audiobook")
+KINDS = {"title", "narration", "speech", "bond", "thought", "remembered", "written", "verse"}
+
+
+def clean(text):
+    text = re.sub(r"[*_]", "", text)
+    return text.replace("‘", "'").replace("“", '"').replace("”", '"').strip()
+
+
+def title_pieces(text):
+    """A title line is said as separate lines with a beat between: "Part One" / "Two Banks"."""
+    return [p.strip() for p in re.split(r"(?<=\.)\s+", text) if p.strip()]
+
+
+def kind(seg):
+    t = seg.get("type", "narration")
+    return t if t in KINDS else "narration"
+
+
+def audition():
+    """A few minutes that cover every kind of passage, drawn from across the book: plain narration, a long
+    paragraph, a very short line, dialogue, bond speech, inner thought, remembered words, grief, tension, verse
+    and written words. Same passages for every voice, so voices can be compared like for like."""
+    picks, seen = [], set()
+    want = [("title", None), ("narration", None), ("long", None), ("short", None), ("speech", None),
+            ("bond", None), ("thought", None), ("remembered", None), ("narration", "grief"),
+            ("narration", "tension"), ("verse", None), ("written", None), ("bond", "grief")]
+    files = sorted(f for f in os.listdir(os.path.join(AB, "Variants", "local")) if f.endswith(".json") and f[:2].isdigit() and f[:2] not in ("00", "99"))
+    groups = []
+    for f in files:
+        segs = json.load(open(os.path.join(AB, "Variants", "local", f), encoding="utf-8"))["segments"]
+        cur = []
+        for s in segs:
+            if cur and s.get("para") and cur[-1].get("para") == s["para"]:
+                cur.append(s)
+            else:
+                if cur: groups.append((f, cur))
+                cur = [s]
+        if cur: groups.append((f, cur))
+    for t, mood in want:
+        for i, (f, g) in enumerate(groups):
+            if (f in seen and t != "title") or i in [x[0] for x in picks]:
+                continue
+            kinds = {s["type"] for s in g}
+            text = " ".join(s["text"] for s in g)
+            m = {s.get("mood") for s in g}
+            if t == "long": ok = kinds == {"narration"} and len(text) > 700
+            elif t == "short": ok = kinds == {"narration"} and len(text) < 25
+            elif t == "speech": ok = "speech" in kinds and "narration" in kinds and len(text) > 120
+            elif t == "title": ok = kinds == {"title"} and f == files[0]
+            else: ok = t in kinds and (len(kinds) == 1 or t == "bond") and (mood is None or mood in m)
+            if ok:
+                picks.append((i, g)); seen.add(f)
+                if t == "title":   # the whole opening title block
+                    j = i + 1
+                    while groups[j][1][0]["type"] == "title":
+                        picks.append((j, groups[j][1])); j += 1
+                break
+    out = []
+    for _, g in picks:
+        if g[0]["type"] == "title":   # the opening titles keep the book's own pauses
+            out.append([dict(s) for s in g]); continue
+        out.append([dict(s, pause_after_ms=max(s.get("pause_after_ms", 500), 500)) for s in g])
+        out[-1][-1]["pause_after_ms"] = 1500   # a clear gap between passages
+    return out
 OUT = os.path.join(AB, "Chatterbox", "out")
 REFS = os.path.join(AB, "Chatterbox", "refs")
 
@@ -57,7 +119,7 @@ def aliases():
 
 
 def text_of(segs, subs):
-    t = " ".join(rk.clean(s["text"]) for s in segs if s["text"].strip())
+    t = " ".join(clean(s["text"]) for s in segs if s["text"].strip())
     t = t.replace("’", "'")
     for rx, a in subs:
         t = rx.sub(a, t)
@@ -121,9 +183,9 @@ def main():
     def runs(group):
         out = []
         for s in group:
-            role = (castmap.role_of(s["speaker"]) if use_cast and s.get("speaker") and rk.kind(s) in ("speech", "bond")
+            role = (castmap.role_of(s["speaker"]) if use_cast and s.get("speaker") and kind(s) in ("speech", "bond")
                     else "Narrator")
-            if out and out[-1][0] == role and rk.kind(out[-1][1][-1]) == rk.kind(s):
+            if out and out[-1][0] == role and kind(out[-1][1][-1]) == kind(s):
                 out[-1][1].append(s)
             else:
                 out.append((role, [s]))
@@ -137,7 +199,7 @@ def main():
                 text = text_of(segs, subs)
                 if not text:
                     continue
-                style = rk.kind(segs[0])
+                style = kind(segs[0])
                 ex, cfg = MOOD.get(segs[0].get("mood"), MOOD[None])
                 gain = GAIN.get(style, 0.0)
                 how = " ".join(s.get("how") or "" for s in segs).lower()
@@ -145,7 +207,7 @@ def main():
                     if word in how:
                         ex += dex; gain += dg; how = how.replace(word, "")
                 ex = max(0.25, min(1.0, ex))
-                pieces = rk.title_pieces(text) if style == "title" else chunks(text)
+                pieces = title_pieces(text) if style == "title" else chunks(text)
                 for q, piece in enumerate(pieces):
                     audio = tempo(say(piece, role, ex, cfg), TEMPO.get(style, 1.0))
                     parts.append(audio * (10 ** (gain / 20)))
@@ -168,10 +230,10 @@ def main():
         print(f"\n{os.path.relpath(mp3, REPO)}: {len(wav) / SR / 60:.1f} min")
 
     if not os.path.exists(os.path.join(REFS, "Narrator.wav")):
-        sys.exit("No reference clips: run  render_kokoro.py --refs --cast  first (kokoro_mac.sh refs does it).")
+        sys.exit("Missing Book 1/audiobook/Chatterbox/refs/Narrator.wav (the narrator reference clip).")
 
     if "--audition" in args:
-        write(render(rk.audition(), "audition"), os.path.join(OUT, "audition_cast.mp3" if use_cast else "audition.mp3"))
+        write(render(audition(), "audition"), os.path.join(OUT, "audition_cast.mp3" if use_cast else "audition.mp3"))
         return
 
     chapters = []

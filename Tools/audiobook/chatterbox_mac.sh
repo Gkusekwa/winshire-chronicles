@@ -1,6 +1,6 @@
 #!/bin/bash
 # Render Book 1 audiobook passages with Chatterbox on this Mac (free; the model downloads once from Hugging Face).
-# Run from Terminal:   bash "Tools/audiobook/chatterbox_mac.sh"            (the audition set, to compare with Kokoro)
+# Run from Terminal:   bash "Tools/audiobook/chatterbox_mac.sh"            (the audition set: passages of every kind)
 #                      bash "Tools/audiobook/chatterbox_mac.sh" 1          (chapter 1)
 #                      bash "Tools/audiobook/chatterbox_mac.sh" 1-79 --skip-done
 # Uses the Mac's graphics chip (MPS) when it can. The audio lands in "Book 1/audiobook/Chatterbox/out/"
@@ -29,10 +29,6 @@ if [ ! -x "$C/venv/bin/python" ]; then
   "$C/venv/bin/pip" install -q --upgrade pip
 fi
 "$C/venv/bin/pip" install -q "chatterbox-tts==0.1.7" "setuptools<81"   # Chatterbox's watermarker needs pkg_resources
-# Reference clips (the Kokoro cast reading the same lines), so both engines use the same voices.
-if [ ! -s "Book 1/audiobook/Chatterbox/refs/Narrator.wav" ]; then
-  bash Tools/audiobook/kokoro_mac.sh refs
-fi
 export PYTORCH_ENABLE_MPS_FALLBACK=1
 if [ $# -eq 0 ]; then set -- --audition; fi
 caffeinate -i "$C/venv/bin/python" Tools/audiobook/render_chatterbox.py "$@"

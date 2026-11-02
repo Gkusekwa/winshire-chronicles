@@ -4,7 +4,7 @@
     python3 build.py --check             # also verify every spoken word matches the manuscript
     python3 build.py --variant google    # SSML with names respelt inline (<sub alias>), for engines without lexicons
     python3 build.py --variant azure --voice en-GB-RyanNeural   # SSML wrapped in an Azure <voice> element
-    python3 build.py --variant local     # for Kokoro and Chatterbox: no part titles or chapter numbers, plus NN.json
+    python3 build.py --variant local     # for Chatterbox: no part titles or chapter numbers, plus NN.json
 
 Inputs:  Book 1/Chapters/*.md, Book 1/audiobook/annotations/chNN.json, Tools/audiobook/names.py, Tools/atlas/plan_data.py
 Outputs: Book 1/audiobook/Scripts/*.ssml            (standard variant)
@@ -30,7 +30,7 @@ TITLE, SERIES, AUTHOR, NEXT = "The Watch Below", "The Winshire Chronicles", "Goo
 # ---- pauses (ms); every break is 3 s or less so all engines accept it ----
 P_PARA, P_SCENE, P_AFTER_PART, P_AFTER_NUM, P_AFTER_TITLE, P_HEAVY = 500, 1600, 2000, 800, 1800, 800
 # Part titles ("Part One. Two Banks.") and chapter numbers ("Chapter One.") are spoken in the main scripts and the
-# ElevenLabs kit. The "local" variant (for Kokoro and Chatterbox) leaves them out: each chapter opens with its name
+# ElevenLabs kit. The "local" variant (for Chatterbox) leaves them out: each chapter opens with its name
 # only (author, Nov 2026).
 SPEAK_PART_AND_NUMBER = True
 

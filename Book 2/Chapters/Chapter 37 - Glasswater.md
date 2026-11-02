@@ -39,23 +39,23 @@ In the white glare of every lamp in Vael, with the cold wind off the water in he
 
 She felt it. Very far down. Something larger than a breath. A turning. Like a weight moving in a deep place. Slow. So slow that it might have been going on for a hundred years and she was only now close enough to feel it.
 
-"It is turning over," said Orrun, in her. "In its sleep. Like a child before morning."
+*It is turning over,* said Orrun, in her. *In its sleep. Like a child before morning.*
 
 "What is it?"
 
 He was quiet for a long time. The cracks in the shingle stopped spreading.
 
-"Cold," he said. "Long. Very old. It is the one on the wall with frost for scales."
+*Cold,* he said. *Long. Very old. It is the one on the wall with frost for scales.*
 
 She remembered the wall. The round room under the Ring with the glow coming out of the stone. Six sleepers carved round it. The stag with the forest lying down with it. And beside it, coiled on itself, a serpent with scales cut like frost on a window.
 
 "The stag got up," she said.
 
-"Yes."
+*Yes.*
 
 "And this one's getting up."
 
-"Not yet," said Orrun. "It is turning over."
+*Not yet,* said Orrun. *It is turning over.*
 
 Behind her, up on the steps of Candle Row, somebody was calling a child's name over and over. The lamps burned white. On the lake, the island lay in the broken ice with its head on its paws.
 
@@ -81,7 +81,7 @@ She waited for him to. He'd followed it for a hundred days. Over the Plains, ove
 
 He lay with his chin on the stones.
 
-"Not yet," he said. "Here first."
+*Not yet,* he said. *Here first.*
 
 ---
 
@@ -211,7 +211,7 @@ She held it up. Orrun turned his head and looked at it.
 
 "It's awake," she said.
 
-"Everything is awake," said Orrun. "Today."
+*Everything is awake,* said Orrun. *Today.*
 
 ---
 
@@ -241,7 +241,7 @@ Orrun stood up.
 
 "The pale one," said Maren.
 
-"Yes," said Orrun. "It is awake."
+*Yes,* said Orrun. *It is awake.*
 
 And under its coils, the lake rose.
 
@@ -391,7 +391,7 @@ She crawled to him. He was bigger. She could see it now. He'd been as tall at th
 
 "Can you stand?"
 
-"No," said Orrun. "Not today."
+*No,* said Orrun. *Not today.*
 
 She lay down against his chest and shook, and he was warm, the only warm thing in Vael, and she shook less.
 
@@ -515,13 +515,13 @@ She saw it go up from behind the Library's cliff-front, black, thick, in the fro
 
 Orrun opened his eyes.
 
-"Fire," he said. "On the hill. And kin." He was quiet. "Young kin. Bound."
+*Fire,* he said. *On the hill. And kin.* He was quiet. *Young kin. Bound.*
 
 She looked at the smoke.
 
 "Can you stand?"
 
-"No," said Orrun.
+*No,* said Orrun.
 
 She didn't go. She sat on the wall with her dead hand in her lap and the sword across her knees and watched the smoke go up from the hill, and didn't go, because he couldn't stand and she couldn't leave him at the foot of a wall in a drowned city with the frost on him. She'd told herself a hundred times since the Moot that she wasn't the one who went to everything. She told herself again.
 
@@ -551,7 +551,7 @@ It was stone. Just stone. Cold. She couldn't feel anything in it. Nothing under 
 
 She felt Orrun feel it too. Below her. He lifted his head off the cobbles and put it down again.
 
-"It has gone," he said. "All of it. With the pale one."
+*It has gone,* he said. *All of it. With the pale one.*
 
 ---
 
@@ -595,4 +595,4 @@ She looked down at Orrun.
 
 He opened his eyes. Very slowly, with the frost cracking off his mane, he got his forelegs under him. Then his hind legs. He stood. Swaying. As tall as the first-floor windows of Dye Street, with the wall at his shoulder and the dark rune cut in it.
 
-"I will come," he said.
+*I will come,* he said.

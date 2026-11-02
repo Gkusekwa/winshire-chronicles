@@ -161,11 +161,11 @@ She walked beside him.
 
 "What did it mean?" she said. After a long time. When the Titan was small behind them. "*And one.*"
 
-"I do not know," said Orrun.
+*I do not know,* said Orrun.
 
 He walked on.
 
-"It wants them up," he said. "All of them. My kin. The sleepers. It wants them all awake." He was quiet. "And it wants... one. I do not know what one is. It knows. It is very sure."
+*It wants them up,* he said. *All of them. My kin. The sleepers. It wants them all awake.* He was quiet. *And it wants... one. I do not know what one is. It knows. It is very sure.*
 
 On his back, Idony said nothing. She looked up at him. He was looking straight ahead, at the canals and the iron towers, with his face grey and his lips moving. Saying it over. *Hold. Hold. Hold.* As if he were learning it by heart.
 
@@ -177,7 +177,7 @@ From the east. Maren saw her from the tower. A small green shape, low over the m
 
 She was thinner. Maren could see her ribs under the green.
 
-She looked at Maren with her gold eyes. Then she turned her head and looked down at the outer bank, where Orrun lay. And Maren felt it.
+She looked at Maren with her pale green eyes. Then she turned her head and looked down at the outer bank, where Orrun lay. And Maren felt it.
 
 Not Lisska. Lisska couldn't speak to her. Never had. But Orrun could hear her, kin to kin, when she was close enough to see. And Maren heard Orrun.
 
@@ -299,7 +299,7 @@ Orrun watched it go until it was a speck.
 
 He didn't follow it. He lay down on the bank again with his chin on his paws, facing the broken basin, and the hole in the middle of it.
 
-"Not yet," he said. "Here first."
+*Not yet,* he said. *Here first.*
 
 ---
 

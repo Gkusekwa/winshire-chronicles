@@ -312,25 +312,27 @@ She felt it go through him again. And this time, with the ring over them in the 
 
 ---
 
-"It is waking them," said Orrun.
+*It is waking them,* said Orrun.
 
 He didn't take his head from the stone.
 
-"My kin. The five. It is taking their sleep from the temples and putting it in its back. One. Two. Three." He was very quiet. "When it has all five, it will go to the ring. The real one. Not this. The one this is a picture of." He lifted his head, slowly, and looked up at the dome. "And when it has the ring, they will all be one. Under it. The way they are under the hands here. They will do what it wants. All six."
+*My kin. The five. It is taking their sleep from the temples and putting it in its back. One. Two. Three.* He was very quiet. *When it has all five, it will go to the ring. The real one. Not this. The one this is a picture of.* He lifted his head, slowly, and looked up at the dome. *And when it has the ring, they will all be one. Under it. The way they are under the hands here. They will do what it wants. All six.*
 
 "And what does it want?" said Maren.
 
 Orrun was quiet for a long time.
 
-"To bring it down," he said.
+*To bring it down,* he said.
 
 "Bring what down?"
 
-"All of it." He looked at the walls. At the six. At the faceless figures with their hands raised. "What was made after. After the old ones went up into the light. The roads. The houses. The kingdoms sitting on top." He turned his great head and looked at her. "It was asleep under the river three hundred years with iron in its legs and men singing over it at noon. It woke up in chains. It has been in chains since." He was quiet. "It does not hate. I do not feel hate. I feel... it wants the world to be as it was before there were chains. Before there was anything to put chains on."
+*All of it.* He looked at the walls. At the six. At the faceless figures with their hands raised. *What was made after. After the old ones went up into the light. The roads. The houses. The kingdoms sitting on top.* He turned his great head and looked at her. *It was asleep under the river three hundred years with iron in its legs and men singing over it at noon. It woke up in chains. It has been in chains since.* He was quiet. *It does not hate. I do not feel hate. I feel... it wants the world to be as it was before there were chains. Before there was anything to put chains on.*
+
+Maren said it aloud, for the others. All of it, as he had said it.
 
 "That's everything," said Tobin. His voice had gone small.
 
-"Yes," said Orrun.
+*Yes,* said Orrun, and she told them that too.
 
 He didn't sound angry. He sounded the way he'd sounded at the foot of the cage, lying in the ditch, with his chin on the bank. Grieved.
 

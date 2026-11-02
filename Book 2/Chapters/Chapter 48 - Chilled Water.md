@@ -317,7 +317,7 @@ Nothing happened.
 
 He looked at it for a long time. Then he lay down again and put his chin on his paws.
 
-"It is gone," he said. "For now. It will come back." He didn't sound sure. "I made two of me. Two, and me. I did not know I could." He shut his eyes. "It cost."
+*It is gone,* he said. *For now. It will come back.* He didn't sound sure. *I made two of me. Two, and me. I did not know I could.* He shut his eyes. *It cost.*
 
 He didn't eat for four days.
 

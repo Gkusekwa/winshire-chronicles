@@ -60,7 +60,7 @@ Orrun came out of the ditch on the two-hundred-and-sixty-sixth day.
 
 She didn't see him decide. She came along the bank in the morning and he was standing in the bottom of it, with the snow on his back, looking at her.
 
-"I am hungry," he said.
+*I am hungry,* he said.
 
 She nearly sat down in the snow.
 
@@ -68,11 +68,11 @@ He ate a sheep that day, from the cordon's stores, that Moss had sent out. He at
 
 He looked at it for a while.
 
-"It came back," he said.
+*It came back,* he said.
 
 "You said it would."
 
-"I was not sure," said Orrun.
+*I was not sure,* said Orrun.
 
 ---
 
@@ -86,13 +86,13 @@ The same. His shoulder where the red one's had been.
 
 "You're as big as Kharrak," she said.
 
-"Who is Kharrak?"
+*Who is Kharrak?*
 
 "The farmer's red one."
 
 Orrun thought about it.
 
-"Lisska says he is very loud," he said.
+*Lisska says he is very loud,* he said.
 
 ---
 
@@ -280,7 +280,7 @@ She came round the cordon, wide of the field, along the outer bank, with the ste
 
 She landed on the broken wall of the house beside the door.
 
-Thin. Frost on her wings. Her breath going up white. She looked at Maren with her gold eyes and held out her foreleg.
+Thin. Frost on her wings. Her breath going up white. She looked at Maren with her pale green eyes and held out her foreleg.
 
 A twist of oilcloth. Tied on with string.
 

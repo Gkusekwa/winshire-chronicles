@@ -37,11 +37,11 @@ The sea in the bay heaved. Every hour or so. A long slow swell coming in across 
 
 Orrun lay along the stable wall with his head in the door and didn't eat.
 
-"It is turning over," he said. On the second night. "Under the stair. My kin. Like the pale one at Vael."
+*It is turning over,* he said. On the second night. *Under the stair. My kin. Like the pale one at Vael.*
 
 "How long?"
 
-"Not long," said Orrun.
+*Not long,* said Orrun.
 
 ---
 
@@ -71,7 +71,7 @@ She saw a small silver-grey one at the Horned Sun's knee, on a ledge of fallen c
 
 Orrun stood on the shingle beside her and watched them for a long time.
 
-"They have come to it," he said. "Their kin. Awake." His voice was very low. "I came to mine at the Ring and lay at ten paces, and it did not turn its head."
+*They have come to it,* he said. *Their kin. Awake.* His voice was very low. *I came to mine at the Ring and lay at ten paces, and it did not turn its head.*
 
 ---
 
@@ -411,15 +411,15 @@ Orrun came down the stair on three legs.
 
 His left foreleg held up. He came down the narrow worn steps slowly, with the slide settled against the cliff above him and the mud-brick houses at the top of the stair leaning out over nothing, and lay down on the shingle at the bottom, and put his chin on the stones.
 
-"I am lame," he said.
+*I am lame,* he said.
 
 She knelt by him.
 
-"I made two of me again," he said. "And me. Three of us." He shut his eyes. "It cost again. The leg." He was quiet. "You said the word."
+*I made two of me again,* he said. *And me. Three of us.* He shut his eyes. *It cost again. The leg.* He was quiet. *You said the word.*
 
 "It didn't work."
 
-"No," said Orrun. "You had nothing. I had it all."
+*No,* said Orrun. *You had nothing. I had it all.*
 
 She kept that. When he made more of himself, all of her went into him, and there was nothing left over to say a word with.
 

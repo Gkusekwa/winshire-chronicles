@@ -71,7 +71,7 @@ On the two-hundred-and-ninetieth day, on the downs, Idony's glasses showed the T
 
 Then the hills began. Low, then higher. And on the fifth day, on the slope of the first real hill, Orrun stopped.
 
-"Oh," he said.
+*Oh,* he said.
 
 ---
 
@@ -85,7 +85,7 @@ Like stepping out of a cold house into the sun.
 
 Orrun had his head up.
 
-"It is sweet," he said. "Too sweet. Like honey left in the sun."
+*It is sweet,* he said. *Too sweet. Like honey left in the sun.*
 
 He went on. But slowly. As if he were walking into a wind.
 
@@ -403,7 +403,7 @@ Nobody behind them.
 
 Orrun, beside her on the wall, made a sound she'd never heard him make.
 
-"Kin," he said. "Far kin. It is not there." He was very still. "It is not there at all."
+*Kin,* he said. *Far kin. It is not there.* He was very still. *It is not there at all.*
 
 ---
 
@@ -411,12 +411,12 @@ He wanted to go to the Elderwood.
 
 He told her that night, lying with his head in the stable door. The forest north of the city, a day's walk, where the old man who owned the stable said the wild unicorns lived. Where nobody went, because the Bond-King's foresters hanged poachers there, and because it was the king's.
 
-"There are more," said Orrun. "Out there. In the trees. I can feel them. Far kin." He was quiet. "They are frightened."
+*There are more,* said Orrun. *Out there. In the trees. I can feel them. Far kin.* He was quiet. *They are frightened.*
 
 "Of what?"
 
-"Of the one on the hill," said Orrun. "And of the stair." He shut his eyes. "I want to ask them."
+*Of the one on the hill,* said Orrun. *And of the stair.* He shut his eyes. *I want to ask them.*
 
 "Ask them what?"
 
-"Why that one is not there," said Orrun.
+*Why that one is not there,* said Orrun.

@@ -55,11 +55,11 @@ And set into the cliff at the back of the landing, the shrine.
 
 A portico. White columns, four of them. A gilded sun over the top. And between the columns, doors. Bronze. Shut. Two men in white and gold standing in front of them with halberds.
 
-"There," said Orrun.
+*There,* said Orrun.
 
 She felt it through him. Under the landing. Under the cliff. A fullness. A pressing. Like Vael's hill. Like the stone under the Scald.
 
-"It is under there," he said. "My kin. The one with the horn."
+*It is under there,* he said. *My kin. The one with the horn.*
 
 ---
 
@@ -73,11 +73,11 @@ The bottom of the stair was at the sea.
 
 Orrun looked at the water. The bay. Blue, and calm, and a league across from the low quarter's shore to the landing under the cliff.
 
-"I swam the river," he said. "In the dark. With the greys."
+*I swam the river,* he said. *In the dark. With the greys.*
 
 "This is the sea."
 
-"It is water," said Orrun.
+*It is water,* said Orrun.
 
 ---
 
@@ -155,7 +155,7 @@ Where the crowned line knelt. Nine kings.
 
 Orrun came in behind her. He had to put his head down to get through the doors. He stood in the white room with the lamps burning on his wet mane and put his chin down to the marble floor.
 
-"Under," he said. "Old stone. Under the white." He was very still. "It is so full."
+*Under,* he said. *Old stone. Under the white.* He was very still. *It is so full.*
 
 ---
 
@@ -231,7 +231,7 @@ Six temples. She'd stood in three of them now. The other two had been empty. Thi
 
 Orrun stood over it and looked at it and didn't move.
 
-"Kin," he said. "Asleep. In there." He was very quiet. "If you take it out, it wakes."
+*Kin,* he said. *Asleep. In there.* He was very quiet. *If you take it out, it wakes.*
 
 ---
 
@@ -304,7 +304,7 @@ One after another, round the walls. She heard them go. Bang. Bang. Like the crac
 
 Orrun lifted his head.
 
-"It is coming," he said.
+*It is coming,* he said.
 
 ---
 
@@ -442,7 +442,7 @@ She went to him. She put her hand on his neck.
 
 He was shaking.
 
-"It looked at me," he said. "It knew me. It knew what I was." He was very quiet. "It took it anyway."
+*It looked at me,* he said. *It knew me. It knew what I was.* He was very quiet. *It took it anyway.*
 
 ---
 

@@ -378,7 +378,7 @@ Nobody said anything.
 
 Kit stood on the cliff with the wind in her face.
 
-She'd seen it at the end of the road. At the hall, in the knight's hand, in the old man's reading. *The Lamp.* Sarovel's Sun on the Stair. A Titan that had stopped. Walking home, out of the far shore's light, up the sun's road on the sea.
+She'd heard it told, all the way home. The old man at the rail, telling it over: the hall at the end of the road, the knight's hand, his own reading. *The Lamp.* Sarovel's Sun on the Stair. A Titan that had stopped. Walking home, out of the far shore's light, up the sun's road on the sea.
 
 To fight.
 

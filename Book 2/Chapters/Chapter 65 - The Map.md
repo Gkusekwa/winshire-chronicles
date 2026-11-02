@@ -76,7 +76,7 @@ And grey. Old stone. Dressed so close you couldn't see the joins. In pieces, amo
 
 Orrun swam beside the boat. On three legs. With his lame foreleg held up out of the water, as he'd held it all the way across to the island. He wouldn't stay on the rock. She'd told him to. He'd come anyway.
 
-"It is here," he said. When they came in under the cliff. "The old stone. My kin's house. In pieces." He put his head down to the water. "It still knows me."
+*It is here,* he said. When they came in under the cliff. *The old stone. My kin's house. In pieces.* He put his head down to the water. *It still knows me.*
 
 ---
 
@@ -100,7 +100,7 @@ Not lifted. Rose. The water going off it in sheets, the grey stone coming up out
 
 Orrun lay down in the shallows beside it with his chin on a rock and shut his eyes.
 
-"It knew me," he said. "Dead ground. It still knew me."
+*It knew me,* he said. *Dead ground. It still knew me.*
 
 ---
 
@@ -250,7 +250,7 @@ Orrun opened his eyes.
 
 "Whoever had the chains made knew where the ring was put," said Maren. "The lord. And the College. Who sold him the chains." She put her hand on her coat, over the black book. "The roll. The contract. The one in the case. Between the College and the lord. Whatever they agreed. Where to put the ring."
 
-"He could not read it," said Orrun.
+*He could not read it,* said Orrun.
 
 "He's got Idony now."
 
@@ -276,11 +276,11 @@ The next night. The three-hundred-and-twenty-first. On Sorrel Isle, under the li
 
 "It's going to the Bell," she said. "Next. The reef. Calder's coast."
 
-"Yes."
+*Yes.*
 
 "Calder's there. With the Clan. With baskets." She looked east. "We'd be a week behind it. More. On foot. With your leg."
 
-"Yes."
+*Yes.*
 
 "And Corvin's going to the door."
 
@@ -294,21 +294,21 @@ He lifted his head.
 
 "To Greyhold. To the cavern. To the river." She looked at him. "To the door. Below the chains. Where it's kept."
 
-"To keep it," said Orrun.
+*To keep it,* said Orrun.
 
 "To keep it."
 
 He looked at her with his gold eyes in the firelight.
 
-"I kept a door once," he said. "On a bridge. In the sun. With people walking over it. And men came with fire on poles. A hundred of them. And pitch." He was very quiet. "I could not hold it. I had fire on my side and I could not hold it. I ran." He put his chin back on the rock. "And they took the witness out of the bronze. And broke the egg. And put chains on my kin. And I lay in the dark three hundred years and forgot I was anything."
+*I kept a door once,* he said. *On a bridge. In the sun. With people walking over it. And men came with fire on poles. A hundred of them. And pitch.* He was very quiet. *I could not hold it. I had fire on my side and I could not hold it. I ran.* He put his chin back on the rock. *And they took the witness out of the bronze. And broke the egg. And put chains on my kin. And I lay in the dark three hundred years and forgot I was anything.*
 
 "I know," said Maren. "The bird told us."
 
-"I failed it," said Orrun. "The door."
+*I failed it,* said Orrun. *The door.*
 
 "Then we'll keep it this time."
 
-"We will be too late again, perhaps."
+*We will be too late again, perhaps.*
 
 "Then we'll be too late at the door," said Maren. "Not somewhere else."
 

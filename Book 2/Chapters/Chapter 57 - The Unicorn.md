@@ -74,17 +74,17 @@ The Grace was in it. Thick. Thicker than on the Sun Road. Every leaf too green. 
 
 Orrun went in slowly. With his head low. As if he were walking into deep water.
 
-"They are here," he said, at noon.
+*They are here,* he said, at noon.
 
 "Where?"
 
-"All round." He didn't look. "Watching. They have been watching since the gibbet."
+*All round.* He didn't look. *Watching. They have been watching since the gibbet.*
 
 She looked. She saw trees.
 
 "They kill hunters," she said. "The old man said."
 
-"I am not a hunter," said Orrun. "They know."
+*I am not a hunter,* said Orrun. *They know.*
 
 ---
 
@@ -152,7 +152,7 @@ She folded it.
 
 ---
 
-"She says he says read it," said Orrun.
+*She says he says read it,* said Orrun.
 
 "Not yet."
 
@@ -228,29 +228,29 @@ He told her at dawn.
 
 ---
 
-"They remember," said Orrun.
+*They remember,* said Orrun.
 
 He hadn't moved all night. His chin on the leaves. His eyes open.
 
-"The old realm. As I do. The road. The white bridge. The cat on the steps." He was quiet. "Her grandmother's grandmother's grandmother walked on the road. To the bridge. With the people. Before."
+*The old realm. As I do. The road. The white bridge. The cat on the steps.* He was quiet. *Her grandmother's grandmother's grandmother walked on the road. To the bridge. With the people. Before.*
 
 "Before what?"
 
-"Before the kings," said Orrun.
+*Before the kings,* said Orrun.
 
 ---
 
-"Nine," he said.
+*Nine,* he said.
 
 The sun was coming up. Gold, through the oaks. Too bright.
 
-"Nine kings ago. The first Bond-King came into this wood. With smoke. With sweet smoke, in pots, on poles. And men." He was very still. "And took a foal. From her grandmother's grandmother's... from a mare of the herd. Small. A year old. Too small to run fast in the smoke."
+*Nine kings ago. The first Bond-King came into this wood. With smoke. With sweet smoke, in pots, on poles. And men.* He was very still. *And took a foal. From her grandmother's grandmother's... from a mare of the herd. Small. A year old. Too small to run fast in the smoke.*
 
-"They put gold round its neck," said Orrun. "And a hand on its head. And it never came back to the trees. And the people below the walls were told that the king and the unicorn had chosen each other. That it was a bond. The first unicorn bond in all the world." He breathed out, long. "And they believed it. And the king was the Bond-King. And his son. And when it died, the son came into the wood with the smoke again."
+*They put gold round its neck,* said Orrun. *And a hand on its head. And it never came back to the trees. And the people below the walls were told that the king and the unicorn had chosen each other. That it was a bond. The first unicorn bond in all the world.* He breathed out, long. *And they believed it. And the king was the Bond-King. And his son. And when it died, the son came into the wood with the smoke again.*
 
 "Nine times," said Maren.
 
-"Nine foals. Nine kings. The one on the stair now is the ninth." He lifted his head a little off the leaves. "They have a word for it. In the herd. For the one on the stair. It means the one who was taken in the snow. It was taken in a snow, twelve winters ago. The mare remembers. It was her daughter's."
+*Nine foals. Nine kings. The one on the stair now is the ninth.* He lifted his head a little off the leaves. *They have a word for it. In the herd. For the one on the stair. It means the one who was taken in the snow. It was taken in a snow, twelve winters ago. The mare remembers. It was her daughter's.*
 
 ---
 
@@ -258,7 +258,7 @@ The old mare was standing at ten paces.
 
 She hadn't moved either. In the gold light. With her broken horn lowered and her dark eyes on Maren. Not on Orrun now. On her.
 
-"There has never been a king with a unicorn," said Orrun. "She says. In all nine. There has never been one. There have been nine kings with a prisoner."
+*There has never been a king with a unicorn,* said Orrun. *She says. In all nine. There has never been one. There have been nine kings with a prisoner.*
 
 Maren looked at the old mare.
 
@@ -272,27 +272,27 @@ Twelve winters. Taken in the snow. Her daughter's.
 
 Orrun was quiet a moment.
 
-"The fourth king," he said. "She was young. She went into the smoke after a foal. They cut it off her with a saw while she lay in the smoke, because the horn of a unicorn is worth a farm. She came back out of the smoke and the foal didn't."
+*The fourth king,* he said. *She was young. She went into the smoke after a foal. They cut it off her with a saw while she lay in the smoke, because the horn of a unicorn is worth a farm. She came back out of the smoke and the foal didn't.*
 
 ---
 
-"There's more," said Orrun.
+*There's more,* said Orrun.
 
 "Tell me."
 
-"Their kin," he said. "Under the palace."
+*Their kin,* he said. *Under the palace.*
 
 She waited.
 
-"Under the stair. Under the place at the bottom of the stair, where the crown goes to kneel. The shrine. The one the stage-houses sing to at dusk." He looked south, through the trees, toward the city she couldn't see. "The Sun on the Stair."
+*Under the stair. Under the place at the bottom of the stair, where the crown goes to kneel. The shrine. The one the stage-houses sing to at dusk.* He looked south, through the trees, toward the city she couldn't see. *The Sun on the Stair.*
 
 "It's a sleeper," said Maren.
 
-"The one with the horn," said Orrun. "On the wall. Under the Ring, and under the Scald. The one with one horn and the sun round its head. It is their kin. Far back. Very far. As Kharrak is mine." He was quiet. "They have always known. The herd. Since before the kings. It is why they never leave the wood and the hills above the bay. They are keeping watch on it."
+*The one with the horn,* said Orrun. *On the wall. Under the Ring, and under the Scald. The one with one horn and the sun round its head. It is their kin. Far back. Very far. As Kharrak is mine.* He was quiet. *They have always known. The herd. Since before the kings. It is why they never leave the wood and the hills above the bay. They are keeping watch on it.*
 
 "And the crown kneels on top of it."
 
-"And calls it the Sun on the Stair," said Orrun. "And says it lit the first lamp and gave it to the crown." He put his chin back down on the leaves. "She says the crown has never known what it kneels on. Nine kings. Not one has asked."
+*And calls it the Sun on the Stair,* said Orrun. *And says it lit the first lamp and gave it to the crown.* He put his chin back down on the leaves. *She says the crown has never known what it kneels on. Nine kings. Not one has asked.*
 
 *And I will not ask what I keep.*
 
@@ -302,15 +302,15 @@ She stood in the gold light and thought of a noon oath, in a yard, facing a wall
 
 "They're frightened," said Maren.
 
-"Yes."
+*Yes.*
 
 "Of the one on the hill."
 
-"It is going to take the sleep," said Orrun. "Out of the stair. As it took it from the Scald and from Vael and from the Ring. Soon. She can feel it, as I can. The stone over the stair is filling. Like a cup." He was quiet. "And when the sleep is taken, their kin will wake."
+*It is going to take the sleep,* said Orrun. *Out of the stair. As it took it from the Scald and from Vael and from the Ring. Soon. She can feel it, as I can. The stone over the stair is filling. Like a cup.* He was quiet. *And when the sleep is taken, their kin will wake.*
 
 "And the one on the stair..."
 
-"Will still be on the stair," said Orrun. "With gold round its neck. With a hand on its head. When its kin wakes and stands up out of the cliff."
+*Will still be on the stair,* said Orrun. *With gold round its neck. With a hand on its head. When its kin wakes and stands up out of the cliff.*
 
 He was quiet after that.
 
@@ -346,8 +346,8 @@ She put it back behind the black book.
 
 "Tomorrow," she said. To Orrun. To the dark. "We go back to the city tomorrow."
 
-"Yes," said Orrun.
+*Yes,* said Orrun.
 
 "Idony said two weeks. Perhaps less. It's been ten days."
 
-"Yes," said Orrun. "It is filling. I can feel it from here."
+*Yes,* said Orrun. *It is filling. I can feel it from here.*

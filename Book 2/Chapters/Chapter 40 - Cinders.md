@@ -86,7 +86,7 @@ Slowly, between the shelves, to the foot of the perch. Idony pulled his legs in.
 
 He didn't touch it.
 
-"It knew my face," he said. She heard him in her. She didn't know whether the others heard anything. "From a door. From a page." He stayed there. "Nobody keeps anything long enough."
+*It knew my face,* he said. She heard him in her. She didn't know whether the others heard anything. *From a door. From a page.* He stayed there. *Nobody keeps anything long enough.*
 
 He'd said that before. The bird had said it back to him. *Nobody keeps anything long enough.* On the first day, in the white light, with the readers backing away.
 

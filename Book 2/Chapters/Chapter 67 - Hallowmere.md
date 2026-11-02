@@ -311,11 +311,11 @@ She put her hand on his neck.
 
 Orrun lifted his head.
 
-"I have been in that cavern," he said. "Three hundred years. Under the river. In the dark."
+*I have been in that cavern,* he said. *Three hundred years. Under the river. In the dark.*
 
 "I know."
 
-"I will not be bait," said Orrun.
+*I will not be bait,* said Orrun.
 
 "I know," said Maren. "I said no."
 

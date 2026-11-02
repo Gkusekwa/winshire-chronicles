@@ -68,7 +68,7 @@ She felt it too, through Orrun's feet. Faint. A little give in the stone. Like a
 
 Orrun lifted his head and looked west.
 
-"It is that way," he said. "Far. It is not lying down yet."
+*It is that way,* he said. *Far. It is not lying down yet.*
 
 ---
 
@@ -293,11 +293,11 @@ The steam wagons came past on the road beside the canal. Iron, on iron rails, wi
 
 Orrun watched them go with his ears back.
 
-"They are not alive," he said. "They move and they are not alive."
+*They are not alive,* he said. *They move and they are not alive.*
 
 "No."
 
-"I do not like them."
+*I do not like them.*
 
 ---
 

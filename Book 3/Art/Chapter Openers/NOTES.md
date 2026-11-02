@@ -1,6 +1,6 @@
 # Book 3 chapter openers: notes
 
-Module: `/home/claude/audit/repo/Tools/art/book3_openers.py` (each Canvas is seeded `30000 + n`). Run `python3 book3_openers.py OUTDIR`.
+Module: `Tools/art/book3_openers.py` (each Canvas is seeded `30000 + n`). Run `python3 book3_openers.py OUTDIR`.
 Outputs: `svg/chapter_NN.svg`, `png/chapter_NN.png` (1500 px wide, white background), `contact_1.png` (1–44), `contact_2.png` (45–86).
 
 ## POV signs (the same in every chapter)

@@ -1,0 +1,1512 @@
+{
+ "chapter": 48,
+ "title": "Chilled Water",
+ "pov": "",
+ "source": "Chapters/Chapter 48 - Chilled Water.md",
+ "names": [
+  "bleed",
+  "idony",
+  "kessmoor",
+  "maren",
+  "orrun",
+  "pell",
+  "scald",
+  "titan",
+  "tobin",
+  "vael"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Forty-eight.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Chilled Water.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "speech",
+   "text": "“Why the Furnace?”"
+  },
+  {
+   "seq": 4,
+   "para": "p1",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p2",
+   "type": "narration",
+   "text": "It was before dawn. She was on the top of the earth bank at the north quarter, with Tobin on one side of her and Orrun lying along the bank on the other, and the iron towers going up into the fog over the canals in front of her, and the cold coming up off the water into her face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "narration",
+   "text": "Moss had come along the bank with his gauge. He stopped beside her and looked at it in the dark. The needle was hard up against the pin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "speech",
+   "text": "“Orrin,”"
+  },
+  {
+   "seq": 8,
+   "para": "p4",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 9,
+   "para": "p4",
+   "type": "speech",
+   "text": "“The night it happened. The ones who came out. Before they went.”"
+  },
+  {
+   "seq": 10,
+   "para": "p4",
+   "type": "narration",
+   "text": "He shut the gauge."
+  },
+  {
+   "seq": 11,
+   "para": "p4",
+   "type": "speech",
+   "text": "“They said what came up the shafts was hot. That it moved. One of them said it was like opening a furnace door and something looking out.”"
+  },
+  {
+   "seq": 12,
+   "para": "p4",
+   "type": "narration",
+   "text": "He was quiet."
+  },
+  {
+   "seq": 13,
+   "para": "p4",
+   "type": "speech",
+   "text": "“The engineers put it in the report. The Furnace. Half as a joke. It’s been in every report since. Forty years.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p5",
+   "type": "speech",
+   "text": "“Is it a joke now?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p6",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 16,
+   "para": "p6",
+   "type": "narration",
+   "text": "said Moss.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 17,
+   "para": "p7",
+   "type": "narration",
+   "text": "Everyone was on their stations.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p8",
+   "type": "narration",
+   "text": "Pike was in the north-quarter engine-house, at the core, at the lever. Moss would go back up the tower with Idony, who’d been up there all night with his four glasses and his silk and his face grey in the light of the white lamps. The cordon men were on the bank in a long line, every hundred paces, round the whole cordon. The crews were on the inner banks, between the canals, at the pylons, a man to every tower.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p9",
+   "type": "narration",
+   "text": "And at the north-quarter crane, on the slope of the big earth bank above the first canal, a cart.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p10",
+   "type": "narration",
+   "text": "The last cart of ironback plate. It had come in on the Iron Road at midnight. Pike had wanted every plate she could get. The store-room had been emptied into the hoppers in the night, and the last cart was still here, and the crane-men were still swinging the grey plates off it one at a time on chains and lowering them to the bank above the canal, where men stacked them, to be carried in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p11",
+   "type": "narration",
+   "text": "She watched them work.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p12",
+   "type": "narration",
+   "text": "Grey plates. Ridged on one face. As big as doors. Cut from things that had been bred for it in the Fells, in herds.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p13",
+   "type": "speech",
+   "text": "“They’re still unloading,”"
+  },
+  {
+   "seq": 24,
+   "para": "p13",
+   "type": "narration",
+   "text": "said Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p14",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p15",
+   "type": "speech",
+   "text": "“It’s coming up,”"
+  },
+  {
+   "seq": 27,
+   "para": "p15",
+   "type": "narration",
+   "text": "said Tobin,"
+  },
+  {
+   "seq": 28,
+   "para": "p15",
+   "type": "speech",
+   "text": "“and they’re still unloading.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 29,
+   "para": "p16",
+   "type": "narration",
+   "text": "The hole stopped breathing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p17",
+   "type": "narration",
+   "text": "She felt it before anyone shouted. Through Orrun. He lifted his head off the bank, all at once, and every hair on his mane stood up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p18",
+   "type": "narration",
+   "text": "Out on the basin, in the grey light, the shimmer over the hole had stopped. The long slow pulses of hot air going up. Thirteen heartbeats. Twelve. And then none.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p19",
+   "type": "narration",
+   "text": "The whole cordon went quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p20",
+   "type": "narration",
+   "text": "She heard the crane stop. She heard the chains swing, and the plate on the end of them turning slowly in the air over the bank, and the men at the cart looking up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p21",
+   "type": "narration",
+   "text": "She heard the moths. Ringing. All over the basin. Louder. And then not. As if they’d all gone up at once, and were waiting in the air.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p22",
+   "type": "narration",
+   "text": "Then the basin heaved.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 36,
+   "para": "p23",
+   "type": "narration",
+   "text": "It came up through its own glass.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p24",
+   "type": "narration",
+   "text": "She saw the glass go red first. Round the hole. A red glow, dull, like the bottom of a fire in the morning. Then orange. Then bright. And the glass ran. Fast now. It ran like water, like wax off a candle, down and away from the hole in a great bright ring.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p25",
+   "type": "narration",
+   "text": "And out of the ring, a snout.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p26",
+   "type": "narration",
+   "text": "Plated. Grey-black. Each plate the size of a house, lying over the next like the plates of an ironback’s back, except that the joints between them were red. Glowing. Molten. As if the beast were iron in a forge and its seams had been left open. The snout was blunt. Wide. Wide as a barn. Like a boar’s, but flat at the end, like a shovel.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p27",
+   "type": "narration",
+   "text": "It didn’t climb out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p28",
+   "type": "narration",
+   "text": "It pushed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p29",
+   "type": "narration",
+   "text": "The glass in front of it went bright and soft and melted, and it pushed through it. And behind it, where it had been, the melted glass set again. Hardened. Black. She watched it happen. The ground melting in front of it and setting behind it, as it came.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p30",
+   "type": "narration",
+   "text": "The heat came off it across the basin and the canals and the bank and hit her in the face.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 44,
+   "para": "p31",
+   "type": "narration",
+   "text": "It came up to its shoulders.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p32",
+   "type": "narration",
+   "text": "Then it didn’t come up any further. It went forward. Along the basin. Under the surface. She saw the glass bulge up over its back, the whole black floor of the basin swelling up in a long ridge as the thing went along beneath it, and crack, and the red come through the cracks, and then set again behind it. Like a mole under a lawn, Tobin said later. A mole as big as a town, under a lawn of glass.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p33",
+   "type": "narration",
+   "text": "The glass ran off its plates where they broke the surface. Bright, molten, running. And didn’t touch it. Didn’t mark it. Ran off it like water off a duck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p34",
+   "type": "bond",
+   "text": "Kin,"
+  },
+  {
+   "seq": 48,
+   "para": "p34",
+   "type": "narration",
+   "text": "said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p35",
+   "type": "narration",
+   "text": "She felt it in him. A grief. The same grief she’d felt on the shingle at Vael when he’d listened down, and in the white light in the Library when the bird said his face was on a door. Old. Deep. Kin.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 50,
+   "para": "p36",
+   "type": "bond",
+   "text": "It is the one with its snout in the floor,"
+  },
+  {
+   "seq": 51,
+   "para": "p36",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 52,
+   "para": "p36",
+   "type": "thought",
+   "text": "On the wall. It is awake. It is so hot.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 53,
+   "para": "p37",
+   "type": "narration",
+   "text": "Pike closed the cage.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p38",
+   "type": "narration",
+   "text": "Maren didn’t see her do it. She was in the engine-house, at the lever. But she felt it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p39",
+   "type": "narration",
+   "text": "The whole cordon shook. A long shudder, through the earth bank under her, through the canals, through the iron. And the marks on the pylons lit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p40",
+   "type": "narration",
+   "text": "Every pylon. In the inner ring and the outer. Every one of the eleven thousand marks struck up their faces. Not white. Not like the runes on Haverly’s edge, or the rune in the wall at Vael. Red. A dull red, like coals, like the inside of a smith’s fire. Lit from inside the iron.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p41",
+   "type": "narration",
+   "text": "The cables went taut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p42",
+   "type": "narration",
+   "text": "All round the cordon. All forty-one leagues of them. They’d sagged between the towers in long curves since the day she came. They went tight. With a crack like a whip, one tower after another, running away round the cordon in both directions faster than a horse, crack, crack, crack, until it met itself on the far side of the basin and stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p43",
+   "type": "narration",
+   "text": "And between the inner pylons, a shimmer went up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p44",
+   "type": "narration",
+   "text": "Like heat. Like the air over a road. But it wasn’t heat. It bent the light. She looked through it at the basin and the basin was wrong, the edges of things slid, as if she were looking through old glass in a window. It went up from the inner ring of pylons into the grey sky, higher than she could see.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p45",
+   "type": "narration",
+   "text": "The field.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p46",
+   "type": "remembered",
+   "text": "Turn back,"
+  },
+  {
+   "seq": 63,
+   "para": "p46",
+   "type": "narration",
+   "text": "she thought. Idony had told her."
+  },
+  {
+   "seq": 64,
+   "para": "p46",
+   "type": "remembered",
+   "text": "Within.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 65,
+   "para": "p47",
+   "type": "narration",
+   "text": "The Furnace came to it and stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p48",
+   "type": "narration",
+   "text": "She saw it. The long ridge of the thing going along under the glass toward the north, toward them, toward the inner ring. Fast. Faster than she’d have thought anything so big could go. The glass bulging and cracking and setting behind it. And it came to the edge of the basin, to the inner pylons, to the shimmer.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p49",
+   "type": "narration",
+   "text": "And stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p50",
+   "type": "narration",
+   "text": "She felt it through Orrun. She felt it drink.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p51",
+   "type": "narration",
+   "text": "The whole of the Deep under the moor, under the cordon, under the canals and the bank and the road, everything that was left after the Titan had drunk the country dead, leaned. Toward it. As water leans toward a drain. She felt it go. Through Orrun, through the earth of the bank under her, toward the thing under the glass.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p52",
+   "type": "narration",
+   "text": "And come back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p53",
+   "type": "narration",
+   "text": "Turn back. Within. The draw went out from the Furnace into the field and the field turned it round and sent it back into the Furnace. She felt it come back. Like a shout in a closed room. Like a man trying to drink from a cup and finding his own mouth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p54",
+   "type": "narration",
+   "text": "The thing under the glass turned.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 73,
+   "para": "p55",
+   "type": "narration",
+   "text": "It went down instead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p56",
+   "type": "narration",
+   "text": "Under. Down into the ground, under the edge of the basin, under the inner pylons, toward the third canal. She saw the ground heave over it. The earth of the bank between the basin and the third canal lifting, and cracking, and the pylons on it leaning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p57",
+   "type": "narration",
+   "text": "Then the canal.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p58",
+   "type": "narration",
+   "text": "The third canal. The chilled water. Running fast and grey and smoking between its brick banks. And under it, the thing coming. She saw the brick bed of the canal lift. Then break. And the water went down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p59",
+   "type": "narration",
+   "text": "Into the hole. Into the thing’s tunnel. All of it, a great grey rush of chilled water going down into the ground.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p60",
+   "type": "narration",
+   "text": "The steam came up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p61",
+   "type": "narration",
+   "text": "A column of it. White. Out of the canal. Higher than the pylons. With a sound like a scream. She’d never heard a sound like it. Like a whole forge being quenched at once. Like every hot iron in Kessmoor plunged into the trough together. It went on and on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p62",
+   "type": "narration",
+   "text": "And the Furnace came up again inside the field, in the basin, in a burst of black glass and steam, and turned back into the middle.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 81,
+   "para": "p63",
+   "type": "narration",
+   "text": "It tried again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p64",
+   "type": "narration",
+   "text": "West. The same. The field, the drink turned back, the going down, the canal, the steam. The scream.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p65",
+   "type": "narration",
+   "text": "South. The same.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p66",
+   "type": "narration",
+   "text": "East.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p67",
+   "type": "narration",
+   "text": "Every time it came to the edge, the same. It couldn’t drink. It couldn’t get out. The cold water went down into it wherever it tried to go under, and it came up screaming in steam and turned back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p68",
+   "type": "narration",
+   "text": "She watched it with her hands on the earth of the bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p69",
+   "type": "narration",
+   "text": "It was working. The cage. Pike’s cage. Pike’s father’s cage. It was holding. Forty years of iron and cold water and eleven thousand marks and the hearts of beasts burning in four iron drums, and it was holding the thing under the Scald inside a ring a league across, like a dog on a chain.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p70",
+   "type": "narration",
+   "text": "She didn’t know what she felt.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 89,
+   "para": "p71",
+   "type": "narration",
+   "text": "The banks began to go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p72",
+   "type": "narration",
+   "text": "She saw it on the fourth try. The north. When the Furnace went down under the edge toward the third canal, the ground heaved all along the north quarter. Not just the bank it went under. All of them. The earth banks between the canals, between the third and the second, between the second and the first. Lifting. Cracking. Leaning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p73",
+   "type": "narration",
+   "text": "And the big bank. The outer bank. The one she was on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p74",
+   "type": "narration",
+   "text": "She felt it go under her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p75",
+   "type": "narration",
+   "text": "Sliding. Inward. Toward the first canal. The whole slope of the bank, from the top where she knelt to the brick edge of the canal below, moving. Slowly. The grass going. The earth going. And on the slope, the crane. The cart. The stacked plates. A dozen men.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p76",
+   "type": "narration",
+   "text": "Going down toward the cold running water.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 95,
+   "para": "p77",
+   "type": "narration",
+   "text": "She put her hands in the earth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p78",
+   "type": "narration",
+   "text": "Both of them. Flat. Down through the dead grass into the soil of the bank, as far as they’d go. And the earth was alive.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p79",
+   "type": "narration",
+   "text": "That was the first thing. She’d forgotten. Everything round the Scald had been dead since the day they came, deader every day, the needles on the pins. But the surge was in it now. The Bleed. Coming up out of the basin and the ditches and everything. The earth of the bank under her hands was warm, and buzzing, and full. Alive. For now. For the surge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p80",
+   "type": "narration",
+   "text": "And Orrun was in her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p81",
+   "type": "narration",
+   "text": "She felt him come. Without her asking. Without his asking. His earth. The weight and the slowness and the long patience of stone, coming up out of the bank where he lay beside her, into her hands, into her arms, filling her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p82",
+   "type": "narration",
+   "text": "She knew a word.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 101,
+   "para": "p83",
+   "type": "narration",
+   "text": "Pell had taught it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p84",
+   "type": "narration",
+   "text": "In the yard at Greyhold, to the older students, the year she was fourteen. She’d been sweeping. A horse had gone wild in the yard, a big grey, rearing, with a student hanging off its bridle, and Pell had walked up to it. Not fast. Walked. And put his hand flat on its neck and said a word. Low. Into its neck, under the mane, where the big vein ran.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p85",
+   "type": "narration",
+   "text": "The horse had stood still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p86",
+   "type": "narration",
+   "text": "Still. All at once. As if it had been nailed to the cobbles. Shaking. But still. Long enough for the student to get off and the grooms to get the bridle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p87",
+   "type": "remembered",
+   "text": "It’s a licensed word,"
+  },
+  {
+   "seq": 106,
+   "para": "p87",
+   "type": "narration",
+   "text": "Pell had said afterwards, to the older students."
+  },
+  {
+   "seq": 107,
+   "para": "p87",
+   "type": "remembered",
+   "text": "The knights’ stand-word. For a frightened horse. You say it into the beast, not at it. Into it."
+  },
+  {
+   "seq": 108,
+   "para": "p87",
+   "type": "narration",
+   "text": "He’d looked round at them."
+  },
+  {
+   "seq": 109,
+   "para": "p87",
+   "type": "thought",
+   "text": "It doesn’t make it calm. It makes it stand. That’s all. Long enough.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p88",
+   "type": "narration",
+   "text": "He’d told them the other story too, once, the one about his hand. The coast road in the dark, and the wyvern off the shingle, and the word said, and the horse standing."
+  },
+  {
+   "seq": 111,
+   "para": "p88",
+   "type": "thought",
+   "text": "It stood,"
+  },
+  {
+   "seq": 112,
+   "para": "p88",
+   "type": "narration",
+   "text": "he’d said."
+  },
+  {
+   "seq": 113,
+   "para": "p88",
+   "type": "thought",
+   "text": "The word did what it was for. The wyvern took it standing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p89",
+   "type": "narration",
+   "text": "She’d been sweeping. She’d heard it. She’d never said it in her life.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p90",
+   "type": "narration",
+   "text": "She said it now.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 116,
+   "para": "p91",
+   "type": "narration",
+   "text": "Into the ground.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p92",
+   "type": "narration",
+   "text": "Low. With her mouth almost on the earth, bent down over her hands, as Pell had bent to the grey’s neck. Into the bank. Into the sliding earth under her, with Orrun’s earth in her arms and the surge in the soil, alive. Not at it. Into it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p93",
+   "type": "narration",
+   "text": "The bank stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p94",
+   "type": "narration",
+   "text": "Under her hands. She felt it stop. As the grey had stopped in the yard, all at once, nailed. Shaking. The whole slope of the outer bank, from the top to the canal’s edge, shaking and still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p95",
+   "type": "narration",
+   "text": "Long enough.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p96",
+   "type": "narration",
+   "text": "She heard the men shouting below her. She heard them run. Up the slope, scrambling, past the crane, past the stacked plates. She heard Tobin shouting at them.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 122,
+   "para": "p96",
+   "type": "thought",
+   "text": "Up. Up. Come on. That’s it. Up here.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 123,
+   "para": "p96",
+   "type": "narration",
+   "text": "She heard the cart horses screaming, and the crane-men cutting them loose, and the horses going up the slope past her at a gallop.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p97",
+   "type": "narration",
+   "text": "She held it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p98",
+   "type": "narration",
+   "text": "She didn’t know how long. She held her hands in the earth and the word in the ground and Orrun’s earth in her arms and held it, as Pell had held the grey, while the men got off the bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p99",
+   "type": "narration",
+   "text": "Then she let go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p100",
+   "type": "narration",
+   "text": "The bank went again. Slowly. Slid, a little. Settled. The crane leaned and fell over into the first canal with a long hiss. The cart went after it. The stacked plates slid down after the cart, grey, one after another, into the cold water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p101",
+   "type": "narration",
+   "text": "Nobody was on it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 129,
+   "para": "p102",
+   "type": "narration",
+   "text": "She tried to get up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p103",
+   "type": "narration",
+   "text": "She couldn’t. Her legs weren’t there. She was kneeling on the top of the bank with her hands in the earth and she couldn’t feel anything below her waist. She tried to pull her hands out of the soil and they came out slowly, as if the earth didn’t want to give them back, and she fell sideways onto the grass and lay there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p104",
+   "type": "narration",
+   "text": "The sky over her was grey. With a red glow at the bottom of it. And steam, going up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p105",
+   "type": "narration",
+   "text": "Then the other banks began to go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p106",
+   "type": "narration",
+   "text": "She saw them. Lying on her side on the top of the outer bank, she saw them. The three inner banks at the north quarter. Between the first canal and the second. Between the second and the third. Between the third and the basin. All three, at once, lifting and leaning and beginning to slide, with the pylons on them tilting and the cables screaming, and on each of them men. The pylon-crews. A man to every tower. Running. Nowhere to run to. Canals on both sides of every bank, and the bridges swung back on their pivots.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p107",
+   "type": "narration",
+   "text": "She felt Orrun get up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p108",
+   "type": "narration",
+   "text": "She felt him go. Something come into her chest. A weight. As if someone had sat down on it. Heavy. Heavier. Coming down on her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p109",
+   "type": "narration",
+   "text": "Then she didn’t remember anything else.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 137,
+   "para": "p110",
+   "type": "narration",
+   "text": "Tobin told her afterwards.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p111",
+   "type": "narration",
+   "text": "In the hut, in the afternoon, sitting on the end of her cot with his arms round his knees. She’d asked him. She’d woken on the bank with him holding her head out of the wet grass and the sun gone over to the west and an hour gone that she couldn’t find. She’d asked him what happened. He’d told her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p112",
+   "type": "speech",
+   "text": "“He went down off the bank,”"
+  },
+  {
+   "seq": 140,
+   "para": "p112",
+   "type": "narration",
+   "text": "Tobin said."
+  },
+  {
+   "seq": 141,
+   "para": "p112",
+   "type": "speech",
+   "text": "“Onto the first one, the inner one, between the first canal and the second. Off the outer bank and over the water in one jump, didn’t know he could jump like that, and down on the bank between with his head down.”"
+  },
+  {
+   "seq": 142,
+   "para": "p112",
+   "type": "narration",
+   "text": "He was quiet."
+  },
+  {
+   "seq": 143,
+   "para": "p112",
+   "type": "speech",
+   "text": "“Then the second bank. The next one. It opened. The ground of it. Broke open, right in the middle, and he came up out of it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p113",
+   "type": "speech",
+   "text": "“Who?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p114",
+   "type": "speech",
+   "text": "“Him,”"
+  },
+  {
+   "seq": 146,
+   "para": "p114",
+   "type": "narration",
+   "text": "said Tobin."
+  },
+  {
+   "seq": 147,
+   "para": "p114",
+   "type": "speech",
+   "text": "“Orrun. Another one. Just like him. Exactly. Standing up out of the earth with the dirt falling off his back. And put his head down.”"
+  },
+  {
+   "seq": 148,
+   "para": "p114",
+   "type": "narration",
+   "text": "Tobin looked at his hands."
+  },
+  {
+   "seq": 149,
+   "para": "p114",
+   "type": "speech",
+   "text": "“Then the third. Three of him. Three lions. On three banks. All with their heads down and their front feet braced, like they were pushing a cart up a hill. Holding the earth. You could see it. The banks stopped going. Not all the way. Enough.”"
+  },
+  {
+   "seq": 150,
+   "para": "p114",
+   "type": "narration",
+   "text": "He shook his head."
+  },
+  {
+   "seq": 151,
+   "para": "p114",
+   "type": "speech",
+   "text": "“The crews ran along behind them. To where the bridges are, the pivots. The cordon men threw ropes over and hauled them across. One at a time. All of them.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p115",
+   "type": "speech",
+   "text": "“All of them?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p116",
+   "type": "speech",
+   "text": "“All of them,”"
+  },
+  {
+   "seq": 154,
+   "para": "p116",
+   "type": "narration",
+   "text": "said Tobin."
+  },
+  {
+   "seq": 155,
+   "para": "p116",
+   "type": "speech",
+   "text": "“Every one.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 156,
+   "para": "p117",
+   "type": "speech",
+   "text": "“Then what?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p118",
+   "type": "speech",
+   "text": "“Then two of him went back into the ground.”"
+  },
+  {
+   "seq": 158,
+   "para": "p118",
+   "type": "narration",
+   "text": "Tobin did something with his hand. A pouring."
+  },
+  {
+   "seq": 159,
+   "para": "p118",
+   "type": "speech",
+   "text": "“Like water going into sand. They just sank. Into the banks they were on. And they were gone. And the one that was left lay down on the first bank and didn’t move.”"
+  },
+  {
+   "seq": 160,
+   "para": "p118",
+   "type": "narration",
+   "text": "He looked at her."
+  },
+  {
+   "seq": 161,
+   "para": "p118",
+   "type": "speech",
+   "text": "“He’s still there. He hasn’t moved. Idony’s with him.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p119",
+   "type": "narration",
+   "text": "She lay on the cot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p120",
+   "type": "speech",
+   "text": "“And me?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p121",
+   "type": "narration",
+   "text": "Tobin was quiet for a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p122",
+   "type": "speech",
+   "text": "“You were lying on the bank,”"
+  },
+  {
+   "seq": 166,
+   "para": "p122",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 167,
+   "para": "p122",
+   "type": "speech",
+   "text": "“With your eyes open. The whole time. I talked to you. You didn’t answer.”"
+  },
+  {
+   "seq": 168,
+   "para": "p122",
+   "type": "narration",
+   "text": "He looked at the floor."
+  },
+  {
+   "seq": 169,
+   "para": "p122",
+   "type": "speech",
+   "text": "“You were counting. Out loud. Up to nineteen. And then back again. Down to one. And then up again. Over and over. The whole hour.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p123",
+   "type": "narration",
+   "text": "Nineteen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p124",
+   "type": "narration",
+   "text": "She didn’t remember it. She didn’t remember any of it. The bank under her hands. The weight on her chest. And then the grass, and the afternoon, and Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p125",
+   "type": "narration",
+   "text": "An hour. Gone. As if someone had cut it out of her with a knife.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 173,
+   "para": "p126",
+   "type": "narration",
+   "text": "Orrun couldn’t shape stone for a week.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p127",
+   "type": "narration",
+   "text": "She found that out the next day. He’d come back up onto the outer bank in the night, slowly, and lay along the top of it where she’d knelt, and in the morning he tried to open a crack in a stone by the gatehouse, a small one, a stone he could have split with a look in the spring. To see.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p128",
+   "type": "narration",
+   "text": "Nothing happened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p129",
+   "type": "narration",
+   "text": "He looked at it for a long time. Then he lay down again and put his chin on his paws.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p130",
+   "type": "speech",
+   "text": "“It is gone,”"
+  },
+  {
+   "seq": 178,
+   "para": "p130",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 179,
+   "para": "p130",
+   "type": "speech",
+   "text": "“For now. It will come back.”"
+  },
+  {
+   "seq": 180,
+   "para": "p130",
+   "type": "narration",
+   "text": "He didn’t sound sure."
+  },
+  {
+   "seq": 181,
+   "para": "p130",
+   "type": "speech",
+   "text": "“I made two of me. Two, and me. I did not know I could.”"
+  },
+  {
+   "seq": 182,
+   "para": "p130",
+   "type": "narration",
+   "text": "He shut his eyes."
+  },
+  {
+   "seq": 183,
+   "para": "p130",
+   "type": "speech",
+   "text": "“It cost.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p131",
+   "type": "narration",
+   "text": "He didn’t eat for four days.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 185,
+   "para": "p132",
+   "type": "narration",
+   "text": "The Furnace lay in the middle of the basin by the afternoon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p133",
+   "type": "narration",
+   "text": "She saw it through the brass glass from the tower, that afternoon, when she could climb the stairs at all, with Tobin’s arm under hers. Lying in the middle of the basin, half sunk in its own glass. Glowing at the joints of its plates, red, dull, like a fire banked for the night. The black glass round it smooth and new where it had melted and set. And round it, half a league off on every side, the shimmer of the field going up into the grey sky, and the red marks on the pylons, and the cables taut, and the canals smoking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p134",
+   "type": "narration",
+   "text": "Caged.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p135",
+   "type": "narration",
+   "text": "It held. Pike’s cage held. Kessmoor had caught a Titan’s kin in a ring of iron and cold water, and it held.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p136",
+   "type": "narration",
+   "text": "By afternoon Pike had the north bridge swung back across the first canal. The field was the inner ring. The first canal only had to be cold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p137",
+   "type": "narration",
+   "text": "She went down to the north-quarter engine-house with Tobin and stood in the door of the store-room and looked at the hoppers. At the heartstones going grey. A man with a long iron rake was raking the ash of them out of the bottom of the core into a barrow. Fine grey ash. Like the ash of a fire. A hundred and fifty a day, Idony had said. Each core.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p138",
+   "type": "narration",
+   "text": "The last cart’s plates had gone straight in. The ones that hadn’t slid into the canal. Men were dragging them up out of the water on hooks as she watched, and carrying them dripping into the store-room.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p139",
+   "type": "narration",
+   "text": "Pike was at the core with her spectacles up and her hands on her hips. She didn’t see them. She was watching the drum.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 193,
+   "para": "p140",
+   "type": "narration",
+   "text": "Maren wrote the letter before dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p141",
+   "type": "narration",
+   "text": "The first she’d ever written him. She wrote to her mother every month, four lines, five if something had happened. She’d never written to the farmer. She hadn’t known what to say. She still didn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p142",
+   "type": "narration",
+   "text": "Lisska had waited for it since the thirty-second day. Through the Titan and the egg and the Bleed and the ditches and the Furnace. On the tower rail, mostly, with her chin on her forefeet, watching. She’d come down to the outer bank in the morning and lain beside Orrun, who hadn’t moved, and hummed to him, and Maren had felt it through him. Small. Kin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p143",
+   "type": "narration",
+   "text": "She wrote it on the back of a sheet of Idony’s cream paper, the last one he had, in Kessmoor graphite, in plain square letters. She sat on the cot in the hut with the paper on her knee and wrote it slowly. Five lines.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p144",
+   "type": "thought",
+   "text": "The cage holds. It eats beasts.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p145",
+   "type": "thought",
+   "text": "Corvin has the bird’s roll and wants Idony to read it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p146",
+   "type": "thought",
+   "text": "The three young ones you lost went south to Sarovel.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p147",
+   "type": "thought",
+   "text": "Orrun is well.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p148",
+   "type": "thought",
+   "text": "I am well.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p149",
+   "type": "narration",
+   "text": "She looked at it. She crossed out"
+  },
+  {
+   "seq": 203,
+   "para": "p149",
+   "type": "thought",
+   "text": "I am well"
+  },
+  {
+   "seq": 204,
+   "para": "p149",
+   "type": "narration",
+   "text": ".",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p150",
+   "type": "narration",
+   "text": "Then she wrote it again underneath.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 206,
+   "para": "p151",
+   "type": "narration",
+   "text": "Tobin tied it to Lisska’s foreleg in a twist of oilcloth with a bit of string from his boots.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p152",
+   "type": "narration",
+   "text": "On the tower rail, in the grey afternoon. Lisska held still for it and looked at him with her pale green eyes and then at Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p153",
+   "type": "narration",
+   "text": "Maren couldn’t hear her. She never could. But Orrun could, from the bank below, where he lay. And Maren could hear Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p154",
+   "type": "bond",
+   "text": "She says,"
+  },
+  {
+   "seq": 210,
+   "para": "p154",
+   "type": "narration",
+   "text": "said Orrun,"
+  },
+  {
+   "seq": 211,
+   "para": "p154",
+   "type": "thought",
+   "text": "will you be here.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p155",
+   "type": "speech",
+   "text": "“I don’t know,”"
+  },
+  {
+   "seq": 213,
+   "para": "p155",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 214,
+   "para": "p155",
+   "type": "speech",
+   "text": "“Tell her I don’t know. Tell her I’ll write.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p156",
+   "type": "thought",
+   "text": "She says that is what you always say.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p157",
+   "type": "speech",
+   "text": "“Tell her it’s always true.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p158",
+   "type": "narration",
+   "text": "Lisska went up off the rail.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p159",
+   "type": "narration",
+   "text": "She didn’t go at once. She went up over the cordon and round it, in a long slow circle, over the canals and the iron towers and the shimmer of the field, high up in the grey sky. Round, and round again. For an hour. Maren watched her from the tower. A small green shape against the grey, going round, looking down at the thing in the cage.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p160",
+   "type": "narration",
+   "text": "Then she turned south.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p161",
+   "type": "narration",
+   "text": "Toward the coast. Toward wherever the farmer was. Fast. Getting smaller.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "a2bd70d389d0e353c2e4ff178b2b142ab5d327f4",
+ "segments_sha1": "3f2c15096d6215bf97c67dc770724b158d9c64fa"
+}

@@ -2,6 +2,34 @@
  "chapter": 58,
  "title": "The Stranger",
  "pov": "Calder",
+ "source": "Chapters/Chapter 58 - The Stranger.md",
+ "names": [
+  "arn",
+  "aurveth",
+  "bel",
+  "brask",
+  "brecc",
+  "calder",
+  "cotter",
+  "delling",
+  "fellwood",
+  "greyhold",
+  "hallam",
+  "harrow",
+  "hearthmere",
+  "kharrak",
+  "morrow",
+  "ram",
+  "rook",
+  "saltreach",
+  "skarrow",
+  "teo",
+  "tidesteps",
+  "ulric",
+  "varrhold",
+  "wend",
+  "wendmouth"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1597,5 +1625,8 @@
    "mood": "tension",
    "pause_after_ms": 800
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "03fdc2ec25a67311324e265ceabf688544f0b174",
+ "segments_sha1": "d4f0d1a884af3346351ba4115d82a7c86f04707a"
 }

@@ -37,7 +37,7 @@
 
 ## Audiobook *(in preparation, Nov 2026)*
 
-- **Book 1's audiobook is ready to produce** (`Book 1/audiobook/`): annotated reading scripts and pronunciations, generated from the manuscript, so they stay in step with the text. The book runs to roughly 32–34 hours. **Books 2 and 3** can be narrated with the same kit straight from their chapters (plain narration, no annotations yet); their settings are in `Book N/audiobook/book.json`.
+- **All three audiobooks are ready to produce** (`Book N/audiobook/`): the audiobook kit makes each book's annotations, lexicon and reading scripts from the manuscript, so they stay in step with the text. Book 1's annotations are hand-made (who speaks every line, how, and the mood of a quarter of its paragraphs). Books 2 and 3's were made by the kit: every quote and italic is typed and many lines carry a delivery note, but few paragraphs have a mood yet, so they read flatter than Book 1 until their annotations are filled in. Book 1 runs to roughly 32–34 hours.
 - **Narration: Chatterbox** *(settled by the author, Nov 2026)*: the open-source Chatterbox (MIT), run on the author's Mac through the audiobook kit (`Tools/audiobook-kit/`), with Emma narrating everything. It is free and needs no subscription. The kit checks every take's words with Whisper and each chapter's loudness, and tags each file with its chapter title; each chapter is still listened to and proofread before release.
 - **Where an AI-narrated audiobook can go** *(stores' rules as of Sep 2026; check current terms)*:
   - **Google Play Books** and **Kobo Writing Life** accept uploaded AI-narrated audio (mark the narrator as a synthesised voice). So does selling direct (Gumroad, Payhip, your own site).

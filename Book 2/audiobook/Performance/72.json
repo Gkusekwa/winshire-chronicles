@@ -1,0 +1,1400 @@
+{
+ "chapter": 72,
+ "title": "The Marches",
+ "pov": "",
+ "source": "Chapters/Chapter 72 - The Marches.md",
+ "names": [
+  "ash",
+  "cotter",
+  "cross",
+  "drover",
+  "ferriby",
+  "greyhold",
+  "gullhaven",
+  "harrow",
+  "kessmoor",
+  "liss",
+  "maren",
+  "millbrook",
+  "northwatch",
+  "odo",
+  "orrun",
+  "penfold",
+  "redwatch",
+  "reede",
+  "rowan",
+  "saltreach",
+  "staithe",
+  "tam",
+  "thurl",
+  "wend",
+  "wynn"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Seventy-two.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Marches.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "Wynn brought it in at noon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "On his grey, with his two hounds running at the horse’s heels, Ash and Sorrow, grey as smoke. Up the River Road from Ferriby at a canter and in through Greyhold’s gate and straight across the yard to the ferry house’s road, where Maren was standing with Liss watching Lisska go down out of sight over the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "He got down. He’d been riding since before dawn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "speech",
+   "text": "“They took Ferriby’s oxen,”"
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "narration",
+   "text": "A band. In the night. Twenty men, he said. No banner. Rings on their fingers, iron, the Restoration’s, the ones Reede’s paper used to sell for a copper apiece. Broken men. From the army that had come apart on the hill above Cotter’s Cross at midwinter.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": "And three binders. With pots.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "speech",
+   "text": "“Every plough-ox in Ferriby,”"
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "narration",
+   "text": "said Wynn."
+  },
+  {
+   "seq": 12,
+   "para": "p7",
+   "type": "speech",
+   "text": "“The miller’s horses. Two farm dogs.”"
+  },
+  {
+   "seq": 13,
+   "para": "p7",
+   "type": "narration",
+   "text": "He looked at his own hounds."
+  },
+  {
+   "seq": 14,
+   "para": "p7",
+   "type": "speech",
+   "text": "“They walked them out on the River Road. North. In a line. Nobody leading them.”"
+  },
+  {
+   "seq": 15,
+   "para": "p7",
+   "type": "narration",
+   "text": "He shook his head."
+  },
+  {
+   "seq": 16,
+   "para": "p7",
+   "type": "speech",
+   "text": "“I followed a league. I could see their eyes. Nothing in them. They went into the Brackenwood.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p8",
+   "type": "speech",
+   "text": "“Did they pay?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p9",
+   "type": "narration",
+   "text": "Wynn looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p10",
+   "type": "speech",
+   "text": "“For the horses,”"
+  },
+  {
+   "seq": 20,
+   "para": "p10",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 21,
+   "para": "p10",
+   "type": "speech",
+   "text": "“The miller. In Saltreach gold.”"
+  },
+  {
+   "seq": 22,
+   "para": "p10",
+   "type": "narration",
+   "text": "He put his hand in his coat and took out a coin and held it out on his palm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p11",
+   "type": "narration",
+   "text": "She didn’t need to look at it. She looked anyway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p12",
+   "type": "narration",
+   "text": "A ring of six, in the rim.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 25,
+   "para": "p13",
+   "type": "narration",
+   "text": "She worked it out in Liss’s kitchen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p14",
+   "type": "narration",
+   "text": "With Liss at the table and Odo in his chair by the fire, carried down from the forge again because he said the forge’s smoke was in his chest, and he wouldn’t miss anything. Wynn on the step with his hounds. The coin on the table between the bread and the candle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p15",
+   "type": "speech",
+   "text": "“Corvin’s coming here,”"
+  },
+  {
+   "seq": 28,
+   "para": "p15",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p16",
+   "type": "speech",
+   "text": "“Here,”"
+  },
+  {
+   "seq": 30,
+   "para": "p16",
+   "type": "narration",
+   "text": "said Liss.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p17",
+   "type": "speech",
+   "text": "“Under here. To the held breath.”"
+  },
+  {
+   "seq": 32,
+   "para": "p17",
+   "type": "narration",
+   "text": "She looked at the floor. As if she could see through it. Through the ferry house, through the rock, to the shut place at the end of the cavern, warm under her hand."
+  },
+  {
+   "seq": 33,
+   "para": "p17",
+   "type": "speech",
+   "text": "“He’s got the roll. He’s got the reader. He knows where it is.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p18",
+   "type": "narration",
+   "text": "She put her finger on the coin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p19",
+   "type": "speech",
+   "text": "“And he’s buying men on this bank. Broken bands. Binders.”"
+  },
+  {
+   "seq": 36,
+   "para": "p19",
+   "type": "narration",
+   "text": "She looked at Wynn."
+  },
+  {
+   "seq": 37,
+   "para": "p19",
+   "type": "speech",
+   "text": "“Every beast on this side of the river is a beast his binders can take. Oxen. Horses. Dogs. Your hounds.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p20",
+   "type": "narration",
+   "text": "Wynn’s hand went to Ash’s neck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p21",
+   "type": "speech",
+   "text": "“And when the big one comes down on Greyhold,”"
+  },
+  {
+   "seq": 40,
+   "para": "p21",
+   "type": "narration",
+   "text": "said Maren,"
+  },
+  {
+   "seq": 41,
+   "para": "p21",
+   "type": "speech",
+   "text": "“this bank’s the cage’s ground. The crown’s men. The chains. Whatever comes up out of the river.”"
+  },
+  {
+   "seq": 42,
+   "para": "p21",
+   "type": "narration",
+   "text": "She looked at Liss."
+  },
+  {
+   "seq": 43,
+   "para": "p21",
+   "type": "speech",
+   "text": "“And Corvin in the middle of it with an army that doesn’t know what it’s doing.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 44,
+   "para": "p22",
+   "type": "speech",
+   "text": "“So what?”"
+  },
+  {
+   "seq": 45,
+   "para": "p22",
+   "type": "narration",
+   "text": "said Odo.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p23",
+   "type": "narration",
+   "text": "From the fire. He’d been listening with his eyes shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p24",
+   "type": "speech",
+   "text": "“So they go over,”"
+  },
+  {
+   "seq": 48,
+   "para": "p24",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p25",
+   "type": "narration",
+   "text": "Liss looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p26",
+   "type": "speech",
+   "text": "“Over the river. All of them. With their beasts.”",
+   "mood": "urgent"
+  },
+  {
+   "seq": 51,
+   "para": "p26",
+   "type": "narration",
+   "text": "She looked out of the window at the Wend going past, grey and fast, under the guide-rope.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 52,
+   "para": "p26",
+   "type": "speech",
+   "text": "“A binder can’t bind across running water. It breaks the words. Everyone on the coast knows it. You can’t speak a charm across a river.”",
+   "mood": "urgent"
+  },
+  {
+   "seq": 53,
+   "para": "p26",
+   "type": "narration",
+   "text": "She thought of the reader, on the shore at Vael, with his chart. Telling her.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 54,
+   "para": "p26",
+   "type": "speech",
+   "text": "“And a bound beast driven into running water comes out of it itself.”",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p27",
+   "type": "speech",
+   "text": "“Is that true?”"
+  },
+  {
+   "seq": 56,
+   "para": "p27",
+   "type": "narration",
+   "text": "said Wynn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p28",
+   "type": "speech",
+   "text": "“It’s the one thing that stops a binding,”"
+  },
+  {
+   "seq": 58,
+   "para": "p28",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 59,
+   "para": "p28",
+   "type": "speech",
+   "text": "“The reader said so. It’s in the oldest roll there is.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 60,
+   "para": "p29",
+   "type": "speech",
+   "text": "“East,”"
+  },
+  {
+   "seq": 61,
+   "para": "p29",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p30",
+   "type": "speech",
+   "text": "“Over the Wend. Onto the Saltreach bank. Up the Drover’s Way to Harrow’s End, and past it, toward the Clan’s ground.”"
+  },
+  {
+   "seq": 63,
+   "para": "p30",
+   "type": "narration",
+   "text": "She looked at Liss."
+  },
+  {
+   "seq": 64,
+   "para": "p30",
+   "type": "speech",
+   "text": "“Away from this bank. Away from the river. Away from him.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p31",
+   "type": "narration",
+   "text": "Liss looked at the window.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p32",
+   "type": "speech",
+   "text": "“How many?”"
+  },
+  {
+   "seq": 67,
+   "para": "p32",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p33",
+   "type": "speech",
+   "text": "“All of them.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p34",
+   "type": "speech",
+   "text": "“The Marches,”"
+  },
+  {
+   "seq": 70,
+   "para": "p34",
+   "type": "narration",
+   "text": "said Liss."
+  },
+  {
+   "seq": 71,
+   "para": "p34",
+   "type": "speech",
+   "text": "“The whole Hearthmere bank.”"
+  },
+  {
+   "seq": 72,
+   "para": "p34",
+   "type": "narration",
+   "text": "She looked at her hands on the table."
+  },
+  {
+   "seq": 73,
+   "para": "p34",
+   "type": "speech",
+   "text": "“There’s one rope. One boat. Me.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p35",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p36",
+   "type": "speech",
+   "text": "“Do you know how many people live on this bank between Northwatch and Millbrook?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p37",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 77,
+   "para": "p37",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p38",
+   "type": "speech",
+   "text": "“Neither do I,”"
+  },
+  {
+   "seq": 79,
+   "para": "p38",
+   "type": "narration",
+   "text": "said Liss. She stood up and swept the crumbs off the table into her hand."
+  },
+  {
+   "seq": 80,
+   "para": "p38",
+   "type": "speech",
+   "text": "“I’ll need another rope.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 81,
+   "para": "p39",
+   "type": "narration",
+   "text": "Isak Thurl gave her the rope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p40",
+   "type": "narration",
+   "text": "The next morning. Maren didn’t ask him. Liss did. She went up the jetty road to Greyhold and into the yard among the cage-iron in her ferry-coat and found the Kessmoor engineer at his scaffold, and asked him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p41",
+   "type": "narration",
+   "text": "He looked at her for a while. Then at the carts. Then he walked over to one, and pulled the canvas back, and there it was: a coil of hawser as tall as a man, hemp, thumb-thick, wound round a core of something that glinted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p42",
+   "type": "speech",
+   "text": "“Iron wire,”"
+  },
+  {
+   "seq": 85,
+   "para": "p42",
+   "type": "narration",
+   "text": "said Thurl."
+  },
+  {
+   "seq": 86,
+   "para": "p42",
+   "type": "speech",
+   "text": "“Inside the hemp. It doesn’t stretch and it doesn’t rot.”"
+  },
+  {
+   "seq": 87,
+   "para": "p42",
+   "type": "narration",
+   "text": "He put his hand on it."
+  },
+  {
+   "seq": 88,
+   "para": "p42",
+   "type": "speech",
+   "text": "“It’s for the cage. To haul the chain across to the Saltreach anchors.”"
+  },
+  {
+   "seq": 89,
+   "para": "p42",
+   "type": "narration",
+   "text": "He looked at the river."
+  },
+  {
+   "seq": 90,
+   "para": "p42",
+   "type": "speech",
+   "text": "“There’s twelve coils. They’ll miss one.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p43",
+   "type": "speech",
+   "text": "“Put it down as lost in the river,”"
+  },
+  {
+   "seq": 92,
+   "para": "p43",
+   "type": "narration",
+   "text": "said Liss.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p44",
+   "type": "narration",
+   "text": "Thurl looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p45",
+   "type": "speech",
+   "text": "“I will,”"
+  },
+  {
+   "seq": 95,
+   "para": "p45",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 96,
+   "para": "p45",
+   "type": "speech",
+   "text": "“And it will be.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 97,
+   "para": "p46",
+   "type": "narration",
+   "text": "Tam rigged it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p47",
+   "type": "narration",
+   "text": "With two of Thurl’s men, in the afternoon of the three-hundred-and-forty-third day. From the great post at the jetty’s end, out across the river on the old boat with the old rope, paying the new one out behind them, to the post at the Staithe on the other side. Maren watched from the jetty. Tam standing in the boat’s bow in the current hauling hand over hand, shouting at the Kessmoor men, who shouted back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p48",
+   "type": "narration",
+   "text": "It went taut over the water. A black line from bank to bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p49",
+   "type": "narration",
+   "text": "Liss stood at the jetty’s end with her hand on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p50",
+   "type": "speech",
+   "text": "“That’ll hold,”"
+  },
+  {
+   "seq": 102,
+   "para": "p50",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 103,
+   "para": "p51",
+   "type": "narration",
+   "text": "The council’s rider came the same day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p52",
+   "type": "narration",
+   "text": "To Rowan. In the yard. A crown rider with a blue sash and a sealed paper, and Rowan read it on the steps of the north tower and folded it and put it in her surcoat and said nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p53",
+   "type": "narration",
+   "text": "She told Maren that night. At the yard gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p54",
+   "type": "speech",
+   "text": "“Every knight at Greyhold to the cage,”"
+  },
+  {
+   "seq": 107,
+   "para": "p54",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 108,
+   "para": "p54",
+   "type": "speech",
+   "text": "“None on the River Road. The council’s word.”"
+  },
+  {
+   "seq": 109,
+   "para": "p54",
+   "type": "narration",
+   "text": "She looked at the river."
+  },
+  {
+   "seq": 110,
+   "para": "p54",
+   "type": "speech",
+   "text": "“Wynn’s going down the road in the morning with eight knights and their hounds.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p55",
+   "type": "speech",
+   "text": "“Against the council’s word.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p56",
+   "type": "speech",
+   "text": "“Scouting,”"
+  },
+  {
+   "seq": 113,
+   "para": "p56",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 114,
+   "para": "p56",
+   "type": "speech",
+   "text": "“If the council asks.”"
+  },
+  {
+   "seq": 115,
+   "para": "p56",
+   "type": "narration",
+   "text": "She looked at Maren."
+  },
+  {
+   "seq": 116,
+   "para": "p56",
+   "type": "speech",
+   "text": "“They’re good with cattle. Wynn’s hounds were bred for it before they were bred for anything else.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 117,
+   "para": "p57",
+   "type": "narration",
+   "text": "Then the cage’s barge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p58",
+   "type": "narration",
+   "text": "Rowan sent it down the next morning. The crown’s flat-bottomed barge from under the river wall, the one they’d brought the iron down the Wend on: broad, heavy, with a rail. It came down to the ferry jetty with four knights at the sweeps and tied up beside Liss’s boat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p59",
+   "type": "speech",
+   "text": "“The crown’s barge,”"
+  },
+  {
+   "seq": 120,
+   "para": "p59",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Is scouting,”"
+  },
+  {
+   "seq": 122,
+   "para": "p60",
+   "type": "narration",
+   "text": "said Rowan. Behind her. On the jetty road."
+  },
+  {
+   "seq": 123,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Very slowly. Back and forth.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 124,
+   "para": "p61",
+   "type": "narration",
+   "text": "She went down the River Road.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p62",
+   "type": "narration",
+   "text": "With Orrun. Three days running. Down to Millbrook. Up to Northwatch. To Penfold in its hollow. To Ferriby, half empty already, the plough-ox stalls standing open. To the village by Redwatch’s boathouse, where the patrol boats were drawn up rotting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p63",
+   "type": "narration",
+   "text": "She said it in every square. Plainly. The same words.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p64",
+   "type": "speech",
+   "text": "“Go over the river. Take your beasts. Don’t stop on the bank. Go up the Way.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 128,
+   "para": "p65",
+   "type": "narration",
+   "text": "Some laughed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p66",
+   "type": "narration",
+   "text": "At Northwatch a man with a pitchfork laughed in her face and said the crown was building a cage and the crown would keep them. At Redwatch an old woman asked her if she was the one from Reede’s paper. At Penfold nobody came out of their doors at all, and she said it to an empty green with the lion lying across the lane and the doors shut all round, and went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p67",
+   "type": "narration",
+   "text": "Some went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p68",
+   "type": "narration",
+   "text": "Millbrook went. Mostly. Because the lion was lying in the square by the sour well with his chin on the stones, and because Tam came down from Greyhold on the second day and stood on the Kettle’s mounting-block in his apron with his black hands and said it too. In his forge voice. The one that carried over a hammer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p69",
+   "type": "speech",
+   "text": "“She’s my sister,”"
+  },
+  {
+   "seq": 133,
+   "para": "p69",
+   "type": "narration",
+   "text": "said Tam."
+  },
+  {
+   "seq": 134,
+   "para": "p69",
+   "type": "speech",
+   "text": "“She’s been to every place it’s been. Go over the river.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p70",
+   "type": "narration",
+   "text": "The Widow Rudd went first. With her board under her arm and her cat in a basket.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 136,
+   "para": "p71",
+   "type": "narration",
+   "text": "The ferry ran day and night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p72",
+   "type": "narration",
+   "text": "From the next morning. Liss on her boat in the daylight, on the new rope, hand over hand. Tam on it at night, with a lantern in the bow. The crown’s barge beside it, scouting, very slowly, back and forth, with four knights at the sweeps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p73",
+   "type": "narration",
+   "text": "The jetty road was full.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p74",
+   "type": "narration",
+   "text": "Carts. Barrows. Cows. Sheep, with Wynn’s hounds working them down the road and onto the barge, two hounds against a hundred sheep, low and silent and quick. Old people on knights’ horses. Children on carts. A man with a pig on a string who wouldn’t get on the boat without it and got on with it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p75",
+   "type": "narration",
+   "text": "Maren stood at the jetty’s end and counted them over.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p76",
+   "type": "narration",
+   "text": "She lost count on the first day.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 142,
+   "para": "p77",
+   "type": "narration",
+   "text": "They went up the far bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p78",
+   "type": "narration",
+   "text": "She could see them from the jetty. Off the boats at the Staithe and up the track to the Drover’s Way, a line of them, carts and cattle and people walking, going north and east up the Saltreach bank toward Harrow’s End. Toward the Clan’s ground. The Clan’s grain had been going down the Way all autumn, Calder had written. The Clan would feed them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p79",
+   "type": "narration",
+   "text": "She thought of Bel. Of Ada. Of a girl who made everyone say things twice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p80",
+   "type": "thought",
+   "text": "We’re all here.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 146,
+   "para": "p81",
+   "type": "narration",
+   "text": "The band came to Penfold on the three-hundred-and-forty-sixth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p82",
+   "type": "narration",
+   "text": "She was at Ferriby. A boy ran up the River Road from Penfold, a league, and found her in the square, and couldn’t speak for breathing. He pointed. Back down the road.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p83",
+   "type": "narration",
+   "text": "She went. With Orrun. At a run.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 149,
+   "para": "p84",
+   "type": "narration",
+   "text": "Twelve men. Rings on. Two binders with their pots smoking. In the lane below Penfold green, by the beck, where it ran down through its stones to the river. A farmer’s cows. Eight. Walking down the lane in a line, nobody leading them, with nothing in their eyes. The farmer behind them in the lane, shouting, with a stick, and one of the band holding him back by the collar.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p85",
+   "type": "narration",
+   "text": "Orrun came down the lane.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 151,
+   "para": "p86",
+   "type": "narration",
+   "text": "The band saw him and stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p87",
+   "type": "narration",
+   "text": "The binders didn’t. One of them, a thin man in a leather apron with the pot swinging on its chain, turned to face the lion and began to say something. A word. Low. With the smoke going out of the pot toward Orrun in a white thread.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p88",
+   "type": "narration",
+   "text": "Orrun didn’t stop.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p89",
+   "type": "narration",
+   "text": "He walked through the smoke. Through the word. As if neither of them was there. A bonded beast couldn’t be bound. And whatever Orrun was, he was older than the word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p90",
+   "type": "narration",
+   "text": "The binder’s voice went up. Higher. Then it stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p91",
+   "type": "narration",
+   "text": "He dropped his pot in the lane and ran.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 157,
+   "para": "p92",
+   "type": "narration",
+   "text": "The band ran after him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p93",
+   "type": "narration",
+   "text": "All of them. Up the bank, over the hedge, into the field beyond, scattering, with the lion standing in the lane watching them go and not following.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p94",
+   "type": "narration",
+   "text": "The other binder was still saying his word. Over the cows. Holding them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p95",
+   "type": "speech",
+   "text": "“The beck,”"
+  },
+  {
+   "seq": 161,
+   "para": "p95",
+   "type": "narration",
+   "text": "Maren said to the farmer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p96",
+   "type": "narration",
+   "text": "He looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p97",
+   "type": "speech",
+   "text": "“Drive them into the beck.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 164,
+   "para": "p98",
+   "type": "narration",
+   "text": "He did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p99",
+   "type": "narration",
+   "text": "With his stick. Shouting. Down off the lane into the beck where it ran over its stones, fast and shallow and brown, a few paces wide. The cows went in. One after another. Up to their knees in the running water.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p100",
+   "type": "narration",
+   "text": "And came out of it themselves.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p101",
+   "type": "narration",
+   "text": "She saw it. The first cow stopped in the middle of the beck with the water going round its legs. And its eyes filled. As if somebody had come back into them, from a long way off. It lifted its head. And mooed, loud, and looked round at the lane and the farmer and the lion, and walked out of the beck on the far side on its own and stood there in the field, looking puzzled.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p102",
+   "type": "narration",
+   "text": "Then the next.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p103",
+   "type": "narration",
+   "text": "Then all eight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p104",
+   "type": "narration",
+   "text": "The second binder stopped saying his word. He stood in the lane with his pot smoking in his hand and stared at the cows in the field, and then at Orrun, and then he dropped his pot too and went over the hedge after the others.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 171,
+   "para": "p105",
+   "type": "narration",
+   "text": "She stood by the beck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p106",
+   "type": "narration",
+   "text": "She’d known it. The reader had told her."
+  },
+  {
+   "seq": 173,
+   "para": "p106",
+   "type": "remembered",
+   "text": "Running water."
+  },
+  {
+   "seq": 174,
+   "para": "p106",
+   "type": "narration",
+   "text": "She’d known it since Glasswater.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p107",
+   "type": "narration",
+   "text": "She’d never seen it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p108",
+   "type": "narration",
+   "text": "The farmer was in the field with his cows, going from one to the next, putting his hands on their faces, talking to them. The beck went on over its stones down to the river, brown and fast and a few paces wide, and it had undone a binder’s word as easily as it would have washed the mud off her boots.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p109",
+   "type": "speech",
+   "text": "“Go over the river,”"
+  },
+  {
+   "seq": 178,
+   "para": "p109",
+   "type": "narration",
+   "text": "she said to the farmer. When he came back."
+  },
+  {
+   "seq": 179,
+   "para": "p109",
+   "type": "speech",
+   "text": "“Today. With your cows.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p110",
+   "type": "narration",
+   "text": "He went.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 181,
+   "para": "p111",
+   "type": "narration",
+   "text": "Liss told her about the Titan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p112",
+   "type": "narration",
+   "text": "On the three-hundred-and-forty-eighth day. In the afternoon. Maren had come back up the River Road from Millbrook with the last of the Millbrook carts and was standing on the jetty in the grey light with the boats going back and forth and the far bank full of people walking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p113",
+   "type": "narration",
+   "text": "Liss came up the jetty from her boat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p114",
+   "type": "speech",
+   "text": "“A Clan rider,”"
+  },
+  {
+   "seq": 185,
+   "para": "p114",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 186,
+   "para": "p114",
+   "type": "speech",
+   "text": "“Down on the Staithe shingle with his dragon, carrying Arn’s word for Varrhold.”"
+  },
+  {
+   "seq": 187,
+   "para": "p114",
+   "type": "narration",
+   "text": "She nodded at the far bank."
+  },
+  {
+   "seq": 188,
+   "para": "p114",
+   "type": "speech",
+   "text": "“They’d seen it from Gullhaven.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p115",
+   "type": "speech",
+   "text": "“Had what?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p116",
+   "type": "speech",
+   "text": "“The big one,”"
+  },
+  {
+   "seq": 191,
+   "para": "p116",
+   "type": "narration",
+   "text": "said Liss."
+  },
+  {
+   "seq": 192,
+   "para": "p116",
+   "type": "speech",
+   "text": "“It went over the Saltings. Three days ago. At noon. Low, he says. The reeds flat for a league.”"
+  },
+  {
+   "seq": 193,
+   "para": "p116",
+   "type": "narration",
+   "text": "She looked at Maren."
+  },
+  {
+   "seq": 194,
+   "para": "p116",
+   "type": "speech",
+   "text": "“And out to sea. Toward Gullhaven.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 195,
+   "para": "p117",
+   "type": "narration",
+   "text": "Maren looked downriver.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p118",
+   "type": "narration",
+   "text": "South. The Wend going away from her, grey and fast, between its banks, toward the sea. A long way down. Past Millbrook, past Cotter’s Cross, past the Reedmarsh, to Wendmouth. And along the coast from there. A day’s flying. A spit of stones, a league long, with white crosses on its roofs.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p119",
+   "type": "narration",
+   "text": "And a farmer on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p120",
+   "type": "narration",
+   "text": "The lowest spring tide had been today. At noon. She’d counted it from the reader’s numbers in her own notes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p121",
+   "type": "speech",
+   "text": "“He’s on it,”"
+  },
+  {
+   "seq": 200,
+   "para": "p121",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p122",
+   "type": "speech",
+   "text": "“Who?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p123",
+   "type": "speech",
+   "text": "“The farmer,”"
+  },
+  {
+   "seq": 203,
+   "para": "p123",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 204,
+   "para": "p123",
+   "type": "speech",
+   "text": "“On his spit.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p124",
+   "type": "narration",
+   "text": "Liss looked at her. Then she put her hand on Maren’s arm, briefly, her big rough ferry-hand, and went back down the jetty to her boat, and took hold of the new rope, and went out across the river again with a cart and two old men and a dog.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "7b370d8fe0400371bd858b740630e172b7a916af",
+ "segments_sha1": "7590c3152a86bfec71bf72479aafe21c637d1698"
+}

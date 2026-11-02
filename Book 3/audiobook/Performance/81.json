@@ -1,0 +1,1759 @@
+{
+ "chapter": 81,
+ "title": "Deep Sight",
+ "pov": "",
+ "source": "Chapters/Chapter 81 - Deep Sight.md",
+ "names": [
+  "aurveth",
+  "coil",
+  "deep",
+  "hearthmere",
+  "kharrak",
+  "lisska",
+  "scarfell",
+  "shatters",
+  "sun",
+  "thornwood",
+  "vale",
+  "varrhold",
+  "wayfarer"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Eighty-one.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Deep Sight.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "He’d been bringing them across the moor since noon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "On Lisska. Low. Over the high moor in the storm. The tail of the tail. The ones who couldn’t keep up. The hurt. The old who’d walked twenty leagues and couldn’t walk one more. A few of Arn’s riders on foot, whose dragons were too hurt to fly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "Sixty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "He’d counted them. He counted things now. She’d taught him, without trying.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "He couldn’t speak to them much. His voice was a thread. He didn’t need to. He flew over them, and Lisska put her wind at their backs, and they walked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "Toward Coldtarn.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "Aurveth was over them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "High. Very high. Seeing. As she’d been seeing for three days, for a year, for three hundred years. Bronze in the dark of the storm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "bond",
+   "text": "I can see the rim"
+  },
+  {
+   "seq": 12,
+   "para": "p9",
+   "type": "narration",
+   "text": ", she said."
+  },
+  {
+   "seq": 13,
+   "para": "p9",
+   "type": "thought",
+   "text": "And the bowl. And the door."
+  },
+  {
+   "seq": 14,
+   "para": "p9",
+   "type": "narration",
+   "text": "She was quiet."
+  },
+  {
+   "seq": 15,
+   "para": "p9",
+   "type": "thought",
+   "text": "And him. Lying across it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 16,
+   "para": "p10",
+   "type": "narration",
+   "text": "The storm came over the rim at dusk.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 17,
+   "para": "p11",
+   "type": "narration",
+   "text": "He’d thought the snow was the storm. The wind from the south, all day, flinging it sideways. The dark sky.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p12",
+   "type": "narration",
+   "text": "It wasn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p13",
+   "type": "narration",
+   "text": "He saw the storm come over the Scarfell behind them. From the south. Out of the Vale. A wall.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 20,
+   "para": "p14",
+   "type": "narration",
+   "text": "Wind. Snow. Hail. Going up into the sky as high as he could see. Black. And in it, light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p15",
+   "type": "narration",
+   "text": "Green. White. Gold. Blue. Flickering. All through it. As lightning flickers in a summer cloud, but all the colours. The Deep’s colours. The light he’d seen on every horizon over the Vale when the middle broke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p16",
+   "type": "narration",
+   "text": "Coming over the moor.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p17",
+   "type": "narration",
+   "text": "The noise of it like the sea. Like the Shatters in a gale.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 24,
+   "para": "p18",
+   "type": "bond",
+   "text": "The surge"
+  },
+  {
+   "seq": 25,
+   "para": "p18",
+   "type": "narration",
+   "text": ", said Aurveth."
+  },
+  {
+   "seq": 26,
+   "para": "p18",
+   "type": "thought",
+   "text": "That’s what it looks like. When it comes up out of the ground into the air.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p19",
+   "type": "thought",
+   "text": "It’s coming over us.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p20",
+   "type": "thought",
+   "text": "Yes.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 29,
+   "para": "p21",
+   "type": "narration",
+   "text": "They were on the rim.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p22",
+   "type": "narration",
+   "text": "The sixty. At the bowl’s southern edge. In the snow. Just coming over. With the shore path going down below them to the tarn and round to the door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p23",
+   "type": "narration",
+   "text": "A quarter-league.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p24",
+   "type": "narration",
+   "text": "The storm a quarter-league behind them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 33,
+   "para": "p25",
+   "type": "bond",
+   "text": "Go on"
+  },
+  {
+   "seq": 34,
+   "para": "p25",
+   "type": "narration",
+   "text": ", said Lisska.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 35,
+   "para": "p26",
+   "type": "narration",
+   "text": "She said it to him. He felt her say it. Through the green.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p27",
+   "type": "thought",
+   "text": "Go on. Get them down. I’ve got it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 37,
+   "para": "p28",
+   "type": "narration",
+   "text": "She went up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p29",
+   "type": "narration",
+   "text": "Off the rim. Over the sixty. Into the storm’s face. Green. The size of a crag. Her wings full out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p30",
+   "type": "narration",
+   "text": "And put her wind against it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 40,
+   "para": "p31",
+   "type": "narration",
+   "text": "He’d seen her do it before. In the Thornwood, over the Keepers. A roof of wind. Holding the walking trees off. He’d held it then. Through her. It had been him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p32",
+   "type": "narration",
+   "text": "It wasn’t him now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p33",
+   "type": "narration",
+   "text": "He felt it. Through the bond. Her wind. All of it. Going out of her, up, against the storm. A roof. Over the sixty on the rim and the shore path below them. Holding.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p34",
+   "type": "narration",
+   "text": "And he wasn’t holding it. She was.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 44,
+   "para": "p35",
+   "type": "bond",
+   "text": "Go on"
+  },
+  {
+   "seq": 45,
+   "para": "p35",
+   "type": "narration",
+   "text": ", said Lisska."
+  },
+  {
+   "seq": 46,
+   "para": "p35",
+   "type": "thought",
+   "text": "I’ve got it. Go on.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 47,
+   "para": "p36",
+   "type": "narration",
+   "text": "He took them down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p37",
+   "type": "narration",
+   "text": "Off the rim. Down the shore path. In the dark, with the storm overhead held off them by a green roof of wind, howling on it, flickering green and gold through it, hail drumming on it like stones on a slate roof.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p38",
+   "type": "narration",
+   "text": "The sixty. Walking. Carried. Down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p39",
+   "type": "narration",
+   "text": "He looked up once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p40",
+   "type": "narration",
+   "text": "She was up there. In the dark. A green shape, against the storm’s face, her wings out, holding the whole sky off them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p41",
+   "type": "narration",
+   "text": "And on her horn, something streaming.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 53,
+   "para": "p42",
+   "type": "narration",
+   "text": "A ribbon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p43",
+   "type": "narration",
+   "text": "Blue. Faded. Thin. Tied on her horn. Streaming out behind her in the wind.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p44",
+   "type": "narration",
+   "text": "Wren’s.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 56,
+   "para": "p45",
+   "type": "narration",
+   "text": "Wren had tied it there. In the first winter, when she was nine. A strip of blue ribbon off her own plait, on the green one’s horn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p46",
+   "type": "narration",
+   "text": "It had been on her horn when she carried the five links to the knight, wrapped in a strip of his shirt with TWO on it, so that the lion-woman would know whose it was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p47",
+   "type": "narration",
+   "text": "It had been on Lisska’s horn ever since. Through everything. The sea. The far shore. The Wayfarer. The Vale.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p48",
+   "type": "narration",
+   "text": "Streaming.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 60,
+   "para": "p49",
+   "type": "bond",
+   "text": "Lisska"
+  },
+  {
+   "seq": 61,
+   "para": "p49",
+   "type": "narration",
+   "text": ", he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p50",
+   "type": "thought",
+   "text": "Go on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p51",
+   "type": "thought",
+   "text": "Lisska, come down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p52",
+   "type": "bond",
+   "text": "When they’re down"
+  },
+  {
+   "seq": 65,
+   "para": "p52",
+   "type": "narration",
+   "text": ", said Lisska."
+  },
+  {
+   "seq": 66,
+   "para": "p52",
+   "type": "thought",
+   "text": "Not before.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 67,
+   "para": "p53",
+   "type": "narration",
+   "text": "They got down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p54",
+   "type": "narration",
+   "text": "Off the rim. Down the shore path. Onto the shore. The sixty, all of them, in a dark straggle on the tarn’s edge in the snow, with the storm overhead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p55",
+   "type": "narration",
+   "text": "He counted them. Sixty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p56",
+   "type": "bond",
+   "text": "They’re down"
+  },
+  {
+   "seq": 71,
+   "para": "p56",
+   "type": "narration",
+   "text": ", he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 72,
+   "para": "p57",
+   "type": "bond",
+   "text": "Good"
+  },
+  {
+   "seq": 73,
+   "para": "p57",
+   "type": "narration",
+   "text": ", said Lisska.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 74,
+   "para": "p58",
+   "type": "narration",
+   "text": "And the wind went out of her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 75,
+   "para": "p59",
+   "type": "narration",
+   "text": "He felt it go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p60",
+   "type": "narration",
+   "text": "Not as Kharrak’s fire had gone, slowly, like a grate going cold. All at once. As a breath goes out of you when you’ve held it too long. Everything. The roof of wind over the bowl. Gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p61",
+   "type": "narration",
+   "text": "The storm came down onto the bowl.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p62",
+   "type": "narration",
+   "text": "And she came down out of it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 79,
+   "para": "p63",
+   "type": "narration",
+   "text": "Slowly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p64",
+   "type": "narration",
+   "text": "Her wings folding. Coming down. Out of the storm’s dark, green, slowly, the size of a crag, as a leaf comes down in still air. Over the bowl. Over the tarn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p65",
+   "type": "narration",
+   "text": "Into the tarn.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 82,
+   "para": "p66",
+   "type": "narration",
+   "text": "Into the black middle. Where it never froze. Where the Clan poured its dead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p67",
+   "type": "narration",
+   "text": "The water opened for her and closed over her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 84,
+   "para": "p68",
+   "type": "narration",
+   "text": "And on the black water, for a moment, something blue.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p69",
+   "type": "narration",
+   "text": "The ribbon. Floating. Off her horn. A strip of faded blue on the black water in the storm’s flickering light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p70",
+   "type": "narration",
+   "text": "Then it went down too.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 87,
+   "para": "p71",
+   "type": "narration",
+   "text": "The green scar on his chest went hot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p72",
+   "type": "narration",
+   "text": "Then nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p73",
+   "type": "narration",
+   "text": "The bond.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p74",
+   "type": "narration",
+   "text": "Two of three.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 91,
+   "para": "p75",
+   "type": "narration",
+   "text": "And then it came back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 92,
+   "para": "p76",
+   "type": "narration",
+   "text": "Into him. Up the rope that was going slack. Out of the black water. Into him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p77",
+   "type": "narration",
+   "text": "Wind.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p78",
+   "type": "narration",
+   "text": "He felt it come in. Through the scar. Into his chest. Into his lungs. Opening them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p79",
+   "type": "narration",
+   "text": "He breathed.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 96,
+   "para": "p80",
+   "type": "narration",
+   "text": "Properly. For the first time in a year. Since the Shatters. Since the Thornwood, the sand in his chest. His lungs going all the way open, and the cold air coming into them, all the way down, and out again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p81",
+   "type": "narration",
+   "text": "He hadn’t known how much he couldn’t breathe until he could.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p82",
+   "type": "narration",
+   "text": "She’d given it back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 99,
+   "para": "p83",
+   "type": "bond",
+   "text": "Farmer"
+  },
+  {
+   "seq": 100,
+   "para": "p83",
+   "type": "narration",
+   "text": ", said Aurveth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 101,
+   "para": "p84",
+   "type": "narration",
+   "text": "From above. Still high. Still seeing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p85",
+   "type": "thought",
+   "text": "Under the ice.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 103,
+   "para": "p86",
+   "type": "narration",
+   "text": "He looked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p87",
+   "type": "narration",
+   "text": "He couldn’t see anything. The tarn. Its black middle where Lisska had gone down. Its white ring of ice round the edge. The western shore. The crag. The door at the top of the slope, a dark oblong, with the warm air steaming out of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p88",
+   "type": "narration",
+   "text": "The lion lying across the slope’s foot. His chin on the step.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p89",
+   "type": "narration",
+   "text": "And at the slope’s foot, beside the lion, where the beck came out of the rock under the scree and ran away west, ice. Snow on it. White.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p90",
+   "type": "narration",
+   "text": "Nothing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 108,
+   "para": "p91",
+   "type": "bond",
+   "text": "Under it"
+  },
+  {
+   "seq": 109,
+   "para": "p91",
+   "type": "narration",
+   "text": ", said Aurveth."
+  },
+  {
+   "seq": 110,
+   "para": "p91",
+   "type": "thought",
+   "text": "Coming up the beck. From the west. Under the ice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p92",
+   "type": "narration",
+   "text": "He looked through her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 112,
+   "para": "p93",
+   "type": "narration",
+   "text": "There.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p94",
+   "type": "narration",
+   "text": "Under the beck’s ice. In its frozen bed. Coming up it from the west, from the Varrhold side, up the valley, toward the bowl. Toward where it came out of the rock under the door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p95",
+   "type": "narration",
+   "text": "Pale. Long. Coiling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p96",
+   "type": "narration",
+   "text": "The Coil.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 116,
+   "para": "p97",
+   "type": "narration",
+   "text": "Spent. He could see that through her. Its light thin. Rime-pale and going out, the surge burning through it as it had burned through the Sun, as the old man had said it would, a lamp burning white before it failed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p98",
+   "type": "narration",
+   "text": "But not out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p99",
+   "type": "narration",
+   "text": "Coming up the beck. Under the ice. To the hall’s mouth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 119,
+   "para": "p100",
+   "type": "narration",
+   "text": "Nobody could see it. Not from the shore. Not from the step. Not the lion; he was looking south, at the rim, at what was coming over it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p101",
+   "type": "narration",
+   "text": "Only her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 121,
+   "para": "p102",
+   "type": "bond",
+   "text": "I’ll go"
+  },
+  {
+   "seq": 122,
+   "para": "p102",
+   "type": "narration",
+   "text": ", said Aurveth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 123,
+   "para": "p103",
+   "type": "thought",
+   "text": "No.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p104",
+   "type": "thought",
+   "text": "Farmer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p105",
+   "type": "thought",
+   "text": "No. Not you. Not you too.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 126,
+   "para": "p106",
+   "type": "bond",
+   "text": "I’m old"
+  },
+  {
+   "seq": 127,
+   "para": "p106",
+   "type": "narration",
+   "text": ", said Aurveth."
+  },
+  {
+   "seq": 128,
+   "para": "p106",
+   "type": "thought",
+   "text": "I’m older than anything here except him."
+  },
+  {
+   "seq": 129,
+   "para": "p106",
+   "type": "narration",
+   "text": "He felt her look at the lion."
+  },
+  {
+   "seq": 130,
+   "para": "p106",
+   "type": "thought",
+   "text": "I’ve been waiting a long time for something. You know I have. Sigrun said. Before the girl. Before Ragnald.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p107",
+   "type": "thought",
+   "text": "I know.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p108",
+   "type": "bond",
+   "text": "This is it"
+  },
+  {
+   "seq": 133,
+   "para": "p108",
+   "type": "narration",
+   "text": ", said Aurveth."
+  },
+  {
+   "seq": 134,
+   "para": "p108",
+   "type": "thought",
+   "text": "I think this is it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 135,
+   "para": "p109",
+   "type": "narration",
+   "text": "She came down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 136,
+   "para": "p110",
+   "type": "narration",
+   "text": "Out of the storm. Enormous. Slow. Slower than he’d ever seen her. Bronze in the flickering dark. Her wings, that had been broken once and straightened on the far shore, full out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p111",
+   "type": "narration",
+   "text": "Down. Onto the shore. Onto the beck’s mouth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p112",
+   "type": "narration",
+   "text": "And lay down across it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 139,
+   "para": "p113",
+   "type": "narration",
+   "text": "Across the beck’s frozen mouth. Between the tarn’s ice and the slope’s foot. Beside the lion. Her great bronze body over the beck, where it came out from under the rock, lying on the ice as she’d lain on Sigrun’s rock, on the pouring-stone, with her chin on the snow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p114",
+   "type": "narration",
+   "text": "Across the Coil’s road.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 141,
+   "para": "p115",
+   "type": "narration",
+   "text": "It came up under her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 142,
+   "para": "p116",
+   "type": "narration",
+   "text": "He felt it. Through the bronze. The Coil coming up the beck under the ice and finding her there. Lying across its way. And pushing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p117",
+   "type": "narration",
+   "text": "Up. Under her. Its cold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p118",
+   "type": "narration",
+   "text": "The ice cracking under her. Her bronze going white. Frost. Coming up through her plates from below, feathering, white over bronze, as the rime had come over the Hearthmere camp’s tents.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p119",
+   "type": "narration",
+   "text": "She didn’t move.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 146,
+   "para": "p120",
+   "type": "bond",
+   "text": "Get them up"
+  },
+  {
+   "seq": 147,
+   "para": "p120",
+   "type": "narration",
+   "text": ", said Aurveth."
+  },
+  {
+   "seq": 148,
+   "para": "p120",
+   "type": "thought",
+   "text": "The sixty. Get them up the slope. Go on.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 149,
+   "para": "p121",
+   "type": "narration",
+   "text": "He went.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 150,
+   "para": "p122",
+   "type": "narration",
+   "text": "Down the shore. To the sixty. To the slope’s foot. To the lion lying across it with his foreleg out like a stair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p123",
+   "type": "narration",
+   "text": "He took them up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p124",
+   "type": "narration",
+   "text": "Himself. One at a time. Over the lion’s foreleg, up his shoulder, onto the step. Carrying the ones who couldn’t. An old man from the Sun Road, light as a child. A rider whose dragon couldn’t carry him any more, with both legs burned. A woman with a baby.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p125",
+   "type": "narration",
+   "text": "His lungs open. He could breathe. He could carry.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 154,
+   "para": "p126",
+   "type": "narration",
+   "text": "The knight was on the step.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p127",
+   "type": "narration",
+   "text": "With her hand flat on the jamb. Counting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p128",
+   "type": "speech",
+   "text": "“Four hundred and seventy-four,”"
+  },
+  {
+   "seq": 157,
+   "para": "p128",
+   "type": "narration",
+   "text": "she said, as he put the old man down on the step."
+  },
+  {
+   "seq": 158,
+   "para": "p128",
+   "type": "speech",
+   "text": "“Four hundred and seventy-five.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p129",
+   "type": "narration",
+   "text": "She didn’t look at him. She was counting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p130",
+   "type": "narration",
+   "text": "He went down for the next.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 161,
+   "para": "p131",
+   "type": "narration",
+   "text": "Behind him, at the beck’s mouth, Aurveth held.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p132",
+   "type": "narration",
+   "text": "He felt her hold. Through the bronze. Through the scar on his chest. The cold. Coming up into her from the Coil under the ice. Into her plates. Into her old body. Into her heart.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p133",
+   "type": "narration",
+   "text": "She held.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 164,
+   "para": "p134",
+   "type": "bond",
+   "text": "Farmer"
+  },
+  {
+   "seq": 165,
+   "para": "p134",
+   "type": "narration",
+   "text": ", said Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p135",
+   "type": "narration",
+   "text": "He was on the slope with a child on his back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p136",
+   "type": "bond",
+   "text": "You asked me once"
+  },
+  {
+   "seq": 168,
+   "para": "p136",
+   "type": "narration",
+   "text": ", she said."
+  },
+  {
+   "seq": 169,
+   "para": "p136",
+   "type": "thought",
+   "text": "Why.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 170,
+   "para": "p137",
+   "type": "bond",
+   "text": "Why you"
+  },
+  {
+   "seq": 171,
+   "para": "p137",
+   "type": "narration",
+   "text": ", said Aurveth."
+  },
+  {
+   "seq": 172,
+   "para": "p137",
+   "type": "thought",
+   "text": "Why the three of us came to you. Why I lived through three partners and chose a fourth. Why you.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p138",
+   "type": "thought",
+   "text": "Yes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p139",
+   "type": "narration",
+   "text": "He’d asked it at the mill. With three dying. He’d asked it on the far shore, at the crossroads, and the Wayfarer had said"
+  },
+  {
+   "seq": 175,
+   "para": "p139",
+   "type": "remembered",
+   "text": "Because you have room"
+  },
+  {
+   "seq": 176,
+   "para": "p139",
+   "type": "narration",
+   "text": ", and he hadn’t understood.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 177,
+   "para": "p140",
+   "type": "bond",
+   "text": "You could always carry more than one"
+  },
+  {
+   "seq": 178,
+   "para": "p140",
+   "type": "narration",
+   "text": ", said Aurveth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 179,
+   "para": "p141",
+   "type": "thought",
+   "text": "More than one life. One life between four. A house with the doors open.",
+   "mood": "tension"
+  },
+  {
+   "seq": 180,
+   "para": "p141",
+   "type": "narration",
+   "text": "He felt her breathe, slowly, the cold in her.",
+   "mood": "tension"
+  },
+  {
+   "seq": 181,
+   "para": "p141",
+   "type": "thought",
+   "text": "Most people are a house with one door. One life between two. That’s all they can carry. You were never like that. We knew. All three of us. The first time we saw you. Before you did.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 182,
+   "para": "p142",
+   "type": "narration",
+   "text": "He stood on the slope with the child on his back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p143",
+   "type": "bond",
+   "text": "I’d have carried you"
+  },
+  {
+   "seq": 184,
+   "para": "p143",
+   "type": "narration",
+   "text": ", he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p144",
+   "type": "bond",
+   "text": "You did"
+  },
+  {
+   "seq": 186,
+   "para": "p144",
+   "type": "narration",
+   "text": ", said Aurveth."
+  },
+  {
+   "seq": 187,
+   "para": "p144",
+   "type": "thought",
+   "text": "All of us. All this way.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 188,
+   "para": "p145",
+   "type": "narration",
+   "text": "He got the child to the step.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p146",
+   "type": "narration",
+   "text": "He went down for the next.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 190,
+   "para": "p147",
+   "type": "narration",
+   "text": "She was going.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p148",
+   "type": "narration",
+   "text": "He felt it. The cold in her heart. Her old heart, that had beaten for three hundred years. Slower.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p149",
+   "type": "bond",
+   "text": "He had your hands"
+  },
+  {
+   "seq": 193,
+   "para": "p149",
+   "type": "narration",
+   "text": ", said Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p150",
+   "type": "thought",
+   "text": "Who?",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p151",
+   "type": "thought",
+   "text": "The first one. My first."
+  },
+  {
+   "seq": 196,
+   "para": "p151",
+   "type": "narration",
+   "text": "Slower."
+  },
+  {
+   "seq": 197,
+   "para": "p151",
+   "type": "thought",
+   "text": "Or I’ve always thought so. Big. Square. Not clever. Kind.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 198,
+   "para": "p152",
+   "type": "bond",
+   "text": "Ennis"
+  },
+  {
+   "seq": 199,
+   "para": "p152",
+   "type": "narration",
+   "text": ", said Aurveth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 200,
+   "para": "p153",
+   "type": "narration",
+   "text": "That was all.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 201,
+   "para": "p154",
+   "type": "narration",
+   "text": "He felt the bronze go out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p155",
+   "type": "narration",
+   "text": "On the slope. With his hands on an old woman’s arm, helping her up over the lion’s shoulder. He felt it go. The scar on his chest. Hot. Then nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p156",
+   "type": "narration",
+   "text": "The bond.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p157",
+   "type": "narration",
+   "text": "Three of three.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 205,
+   "para": "p158",
+   "type": "narration",
+   "text": "And under her, the Coil stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p159",
+   "type": "narration",
+   "text": "He felt it stop. Through the last of her. Under the beck’s ice, under the great bronze body lying across its road, white with frost now from end to end. Pushing. Then not pushing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p160",
+   "type": "narration",
+   "text": "Spent.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p161",
+   "type": "narration",
+   "text": "It lay under the ice for a long breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p162",
+   "type": "narration",
+   "text": "Then it went back down. Down the beck. Under the ice. West. Toward Varrhold. Slowly. Its pale light going thin and thinner under the white.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p163",
+   "type": "narration",
+   "text": "It didn’t come up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 211,
+   "para": "p164",
+   "type": "narration",
+   "text": "And then it came back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 212,
+   "para": "p165",
+   "type": "narration",
+   "text": "Into him. The last. Up the last rope. Out of the white shape lying across the beck’s mouth. Into him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p166",
+   "type": "narration",
+   "text": "Sight.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 214,
+   "para": "p167",
+   "type": "narration",
+   "text": "He looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p168",
+   "type": "narration",
+   "text": "And saw.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 216,
+   "para": "p169",
+   "type": "narration",
+   "text": "Everything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p170",
+   "type": "narration",
+   "text": "Through the storm. Through the flickering dark and the snow and the hail. Through the crag over the door. Through the rock of the Scarfell. As she’d seen. Further than she’d seen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p171",
+   "type": "narration",
+   "text": "The moor. The lip. The top field, with a grey shape on it. The Way. The Vale, burning, with the hole in its middle and the river going into it. The Wend’s mouth, grey, flat. The sea.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p172",
+   "type": "narration",
+   "text": "Further.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p173",
+   "type": "narration",
+   "text": "Hearthmere. Dead. The Mere. Isvaren’s snows, lit. Sarovel’s hills. The Worldsend, white. The Western Deep beyond Kessmoor.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p174",
+   "type": "narration",
+   "text": "To the edge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 222,
+   "para": "p175",
+   "type": "narration",
+   "text": "To the edge of the world.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 223,
+   "para": "p176",
+   "type": "narration",
+   "text": "He stood on the slope with an old woman’s arm in his hand and his eyes seeing to the edge of the world.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p177",
+   "type": "narration",
+   "text": "Fire in his palms. Kharrak’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 225,
+   "para": "p178",
+   "type": "narration",
+   "text": "Wind in his chest. Lisska’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 226,
+   "para": "p179",
+   "type": "narration",
+   "text": "Sight in his eyes. Aurveth’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p180",
+   "type": "narration",
+   "text": "Three.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 228,
+   "para": "p181",
+   "type": "narration",
+   "text": "At the mill, three had died at once and taken him with them, almost. Three going out of him. Nothing coming back. He’d lived by a thread.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 229,
+   "para": "p182",
+   "type": "narration",
+   "text": "Three had died again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 230,
+   "para": "p183",
+   "type": "narration",
+   "text": "And given.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 231,
+   "para": "p184",
+   "type": "narration",
+   "text": "He lived.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 232,
+   "para": "p185",
+   "type": "narration",
+   "text": "He took the old woman up onto the step.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 233,
+   "para": "p186",
+   "type": "speech",
+   "text": "“Four hundred and ninety,”"
+  },
+  {
+   "seq": 234,
+   "para": "p186",
+   "type": "narration",
+   "text": "said the knight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 235,
+   "para": "p187",
+   "type": "narration",
+   "text": "He went down for the next.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 236,
+   "para": "p188",
+   "type": "narration",
+   "text": "He took them all up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 237,
+   "para": "p189",
+   "type": "narration",
+   "text": "The sixty. One at a time. Over the lion’s foreleg, up his shoulder, onto the step, into the warm dark. The knight counting. In the storm. With the light flickering through it, green and gold. With Lisska under the black water and Aurveth white across the beck’s mouth and Kharrak on the top field.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 238,
+   "para": "p190",
+   "type": "narration",
+   "text": "The last one at full dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 239,
+   "para": "p191",
+   "type": "narration",
+   "text": "A boy. Ten. From the Hearthmere camp. With nobody.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 240,
+   "para": "p192",
+   "type": "speech",
+   "text": "“Five hundred and thirty-three,”"
+  },
+  {
+   "seq": 241,
+   "para": "p192",
+   "type": "narration",
+   "text": "said the knight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 242,
+   "para": "p193",
+   "type": "speech",
+   "text": "“That’s all,”"
+  },
+  {
+   "seq": 243,
+   "para": "p193",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 244,
+   "para": "p194",
+   "type": "narration",
+   "text": "His voice was still a thread. He could breathe, now. He couldn’t speak much better.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 245,
+   "para": "p195",
+   "type": "speech",
+   "text": "“That’s the last.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 246,
+   "para": "p196",
+   "type": "narration",
+   "text": "He stood on the step.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 247,
+   "para": "p197",
+   "type": "narration",
+   "text": "Beside her. Both of them in the doorway, with the warm air coming out behind them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 248,
+   "para": "p198",
+   "type": "narration",
+   "text": "And turned round.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 249,
+   "para": "p199",
+   "type": "narration",
+   "text": "The lion lay across the slope’s foot below them. His chin on the step. His eyes open. Looking south.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 250,
+   "para": "p200",
+   "type": "narration",
+   "text": "Calder looked where he looked.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 251,
+   "para": "p201",
+   "type": "narration",
+   "text": "Over the bowl’s southern rim. In the storm. Coming down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 252,
+   "para": "p202",
+   "type": "narration",
+   "text": "White. Blazing. On foot, its wings folded, its long neck low. Coming down the shore path off the rim toward the tarn. Slowly. Toward the western shore. Toward the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 253,
+   "para": "p203",
+   "type": "narration",
+   "text": "Toward the door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 254,
+   "para": "p204",
+   "type": "narration",
+   "text": "His kin.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "fa9a33a31adab3da5a2e9728bddc90361fecdd3c",
+ "segments_sha1": "7b27acc356b17848af7ea09159ea43fa7cc91685"
+}

@@ -1,0 +1,1633 @@
+{
+ "chapter": 59,
+ "title": "The Warm Water",
+ "pov": "",
+ "source": "Chapters/Chapter 59 - The Warm Water.md",
+ "names": [
+  "arn",
+  "aurveth",
+  "coldtarn",
+  "drover",
+  "greyhold",
+  "ildra",
+  "liss",
+  "lisska",
+  "maren",
+  "orrun",
+  "saltreach",
+  "scarfell",
+  "sun",
+  "tam",
+  "vale",
+  "varrhold",
+  "wend"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Fifty-nine.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Warm Water.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "She went north on the two-hundred-and-ninety-fourth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "On a day the farmer would be on the river. Liss had told her which days. Liss knew everything that went past the ferry house, and the three went past it every morning, down the Wend, and came back every evening, up it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "speech",
+   "text": "“Tomorrow and the day after he’s down at the mouth,”"
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "narration",
+   "text": "said Liss."
+  },
+  {
+   "seq": 7,
+   "para": "p3",
+   "type": "speech",
+   "text": "“Watching the Bell. Back up at dusk both days, hungry.”"
+  },
+  {
+   "seq": 8,
+   "para": "p3",
+   "type": "narration",
+   "text": "She looked at Maren."
+  },
+  {
+   "seq": 9,
+   "para": "p3",
+   "type": "speech",
+   "text": "“That what you wanted to know?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p4",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p5",
+   "type": "narration",
+   "text": "Liss didn’t ask why. She’d stopped asking Maren why, a long time ago.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p6",
+   "type": "narration",
+   "text": "If the line broke on the Vale, people would need somewhere to go that wasn’t the Vale. Lisska had told her what the farmer had seen under Coldtarn: a hall, shut behind stone. Only the lion could open stone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 13,
+   "para": "p7",
+   "type": "narration",
+   "text": "Up the Saltreach bank. Through Harrow’s End, empty. Past the Fenn top field above it with its stone walls and the snow on them. Up the Drover’s Way, rutted and frozen, and the ice burned off the fords where the farmer’s fire had been: black ground below the Ram’s Head, black ground at Teo’s ford where the Way crosses the beck, the snow round it melted back in a ring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p8",
+   "type": "narration",
+   "text": "Over the Scarfell’s lip at dusk.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 15,
+   "para": "p9",
+   "type": "narration",
+   "text": "Coldtarn lay below her in its bowl of crags. Black. Steaming a little in the middle, where it never froze.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p10",
+   "type": "narration",
+   "text": "On the crags round it, the freed. A hundred, more. Small shapes, against the snow. They lifted their heads when the lion came over the lip, and didn’t fly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p11",
+   "type": "narration",
+   "text": "On the rim, a green crag that wasn’t a crag. Lisska. Lying with her chin on the snow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p12",
+   "type": "narration",
+   "text": "And across the bowl, on the far side, a lantern in the mouth of a cave.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 19,
+   "para": "p13",
+   "type": "narration",
+   "text": "She didn’t go to it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p14",
+   "type": "narration",
+   "text": "She knew who was there. The old woman with the shawl. The girl with the plait, who’d made her say things twice once, at Greyhold, a lifetime ago. The farmer’s mother and the farmer’s daughter.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p15",
+   "type": "narration",
+   "text": "She sat on the lion’s head on the lip of the bowl in the dusk and looked at the lantern.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p16",
+   "type": "narration",
+   "text": "Then she had him lie down where he was, and slept against his foreleg in the snow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p17",
+   "type": "narration",
+   "text": "She didn’t feel the cold. She knew it was there.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 24,
+   "para": "p18",
+   "type": "narration",
+   "text": "Arn was at the pouring-stone at dawn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p19",
+   "type": "narration",
+   "text": "With Ildra. Red-gold, small, on the stone beside him with her tail round his boots. He was in his black, with the red thread, and he stood with his arms folded and watched the lion come down into the bowl.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p20",
+   "type": "narration",
+   "text": "And beside him, Tam.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 27,
+   "para": "p21",
+   "type": "narration",
+   "text": "She hadn’t known Tam would be there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p22",
+   "type": "narration",
+   "text": "He’d come up the Drover’s Way on a wagon. She could see it on the shore behind them: a long flat Hearthmere wagon with a canvas tilt and two dray-horses, and Odo’s old tools lashed under the seat in their roll. Tam on the box. He got down as the lion came.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p23",
+   "type": "speech",
+   "text": "“Mare,”"
+  },
+  {
+   "seq": 30,
+   "para": "p23",
+   "type": "narration",
+   "text": "said Tam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p24",
+   "type": "speech",
+   "text": "“You drove up.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p25",
+   "type": "speech",
+   "text": "“I drive the north road now,”"
+  },
+  {
+   "seq": 33,
+   "para": "p25",
+   "type": "narration",
+   "text": "said Tam."
+  },
+  {
+   "seq": 34,
+   "para": "p25",
+   "type": "speech",
+   "text": "“The farmer asked me. Somebody has to know it. If.”"
+  },
+  {
+   "seq": 35,
+   "para": "p25",
+   "type": "narration",
+   "text": "He looked at the crag."
+  },
+  {
+   "seq": 36,
+   "para": "p25",
+   "type": "speech",
+   "text": "“So I came to see where it goes.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 37,
+   "para": "p26",
+   "type": "speech",
+   "text": "“And you?”"
+  },
+  {
+   "seq": 38,
+   "para": "p26",
+   "type": "narration",
+   "text": "she said to Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p27",
+   "type": "speech",
+   "text": "“The Clan’s families,”"
+  },
+  {
+   "seq": 40,
+   "para": "p27",
+   "type": "narration",
+   "text": "said Arn."
+  },
+  {
+   "seq": 41,
+   "para": "p27",
+   "type": "speech",
+   "text": "“Three hundred and forty. On the ledges and in the hold at Varrhold. The old and the children and the riders’ wives.”"
+  },
+  {
+   "seq": 42,
+   "para": "p27",
+   "type": "narration",
+   "text": "He didn’t unfold his arms."
+  },
+  {
+   "seq": 43,
+   "para": "p27",
+   "type": "speech",
+   "text": "“If it comes to that, they’re here already. The rest of you have to walk up. We don’t.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p28",
+   "type": "narration",
+   "text": "Tam looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p29",
+   "type": "narration",
+   "text": "Nobody said anything else yet.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 46,
+   "para": "p30",
+   "type": "narration",
+   "text": "The crag was on the tarn’s western side.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p31",
+   "type": "narration",
+   "text": "As the farmer had said, in Lisska’s telling. Steep. Grey. Coming down to the water. And at its foot, the scree: a long fan of broken stone, grey, snow on it, going down into the tarn’s shallows. And out from under the scree’s southern edge, Hollow Beck, coming out of the rock black and fast and running away south-west through the bowl’s gap toward Varrhold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p32",
+   "type": "narration",
+   "text": "She walked along the shore to the scree’s foot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p33",
+   "type": "narration",
+   "text": "She put her hand on it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 50,
+   "para": "p34",
+   "type": "narration",
+   "text": "It hummed.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 51,
+   "para": "p35",
+   "type": "narration",
+   "text": "She’d forgotten.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p36",
+   "type": "narration",
+   "text": "Not forgotten. She’d stopped expecting it. Every stone she’d touched since the far shore had been dead. Hearthmere’s stone. The Vale’s. The Thornwood’s, where the Antlered had drunk it. The Sun Road’s. The walls she’d raised were dead stone moved by Orrun’s will through her, nothing in them.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 53,
+   "para": "p37",
+   "type": "narration",
+   "text": "This hummed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p38",
+   "type": "narration",
+   "text": "Under her hand. Live. Faintly. As a hive hums, or a kettle before it sings. The Deep, running warm under Coldtarn, coming up through the mountain into the scree and into her palm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p39",
+   "type": "narration",
+   "text": "She couldn’t feel her palm. She could feel the hum. She didn’t understand how.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p40",
+   "type": "bond",
+   "text": "It’s alive",
+   "how": "very quietly"
+  },
+  {
+   "seq": 57,
+   "para": "p40",
+   "type": "narration",
+   "text": ", said Orrun. Behind her. Very quietly."
+  },
+  {
+   "seq": 58,
+   "para": "p40",
+   "type": "thought",
+   "text": "I’d forgotten too.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 59,
+   "para": "p41",
+   "type": "narration",
+   "text": "She didn’t need words.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p42",
+   "type": "narration",
+   "text": "She could have used them, here. On live ground. She knew a few. The stand-word, that the knights used. The finding-knot. The hold rune. They’d work here. They’d work hugely, with him behind them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p43",
+   "type": "narration",
+   "text": "She didn’t need them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p44",
+   "type": "bond",
+   "text": "Move it"
+  },
+  {
+   "seq": 63,
+   "para": "p44",
+   "type": "narration",
+   "text": ", she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 64,
+   "para": "p45",
+   "type": "narration",
+   "text": "The scree moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p46",
+   "type": "narration",
+   "text": "As water moves. All of it. The whole grey fan of it at the crag’s foot, fifty feet deep, sliding. Aside. Away from the crag. In a long slow grey pour down into the tarn’s shallows, stone over stone, with a sound like a river going over a weir. The snow on it going with it. The tarn’s edge filling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p47",
+   "type": "narration",
+   "text": "It took the time of a long breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p48",
+   "type": "narration",
+   "text": "Then the crag’s foot stood bare. Grey. Steep. Wet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p49",
+   "type": "narration",
+   "text": "And in it, a door.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 69,
+   "para": "p50",
+   "type": "narration",
+   "text": "Tam said something. She didn’t hear what.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 70,
+   "para": "p51",
+   "type": "narration",
+   "text": "Stone. A single slab. Grey, smooth, set flush in the rock of the crag’s foot. A man and a half high. As wide as a cart. No handle. No hinges she could see. No mark of a tool.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p52",
+   "type": "narration",
+   "text": "And across the lintel above it, cut into the rock in a line, the hooked script.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p53",
+   "type": "narration",
+   "text": "Small. Neat. A row of little bent strokes, each like a fish-hook. The writing of the old realm. Of the arch at Greyhold. Of the far shore.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p54",
+   "type": "narration",
+   "text": "She couldn’t read it. She’d never been able to. She looked at it anyway, carefully, so that she could tell the old man.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 74,
+   "para": "p55",
+   "type": "narration",
+   "text": "She put her hand on the door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p56",
+   "type": "narration",
+   "text": "Flat. The right. She watched it go onto the stone, so she’d know where it was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p57",
+   "type": "narration",
+   "text": "The door hummed under it. More than the scree. The old stone, cut by old hands, live.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p58",
+   "type": "bond",
+   "text": "Open it"
+  },
+  {
+   "seq": 78,
+   "para": "p58",
+   "type": "narration",
+   "text": ", she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 79,
+   "para": "p59",
+   "type": "narration",
+   "text": "It opened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p60",
+   "type": "narration",
+   "text": "Back. Into the rock. Smoothly. Without a sound. As a drawer slides into a table. The whole slab going back into the crag, a hand’s breadth, an arm’s length, its own thickness, and then sideways, into a slot in the rock she hadn’t seen, and gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p61",
+   "type": "narration",
+   "text": "And out of the dark behind it, air.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p62",
+   "type": "narration",
+   "text": "Warm.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 83,
+   "para": "p63",
+   "type": "narration",
+   "text": "She felt it on her face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p64",
+   "type": "narration",
+   "text": "She did. She realised it after. She was standing in the snow at the foot of a crag in the Scarfell in deep winter, and she felt warm air on her face. The left side, the grey side, nothing. The right side, a little. A breath of warmth, coming out of the door, like the breath out of a bakery.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p65",
+   "type": "narration",
+   "text": "Tam came up beside her. And Arn. And they stood in it with her, three of them in a row in the snow, with the warm air coming out of the door into their faces and steaming in the cold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p66",
+   "type": "narration",
+   "text": "Nobody said anything.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 87,
+   "para": "p67",
+   "type": "narration",
+   "text": "They went in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p68",
+   "type": "narration",
+   "text": "Tam had a lantern. He lit it on the step. He went first, because he always had, into the dark places, at Millbrook, at the forge. She came after with her hand on his shoulder. Arn last, with Ildra at his heel.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 89,
+   "para": "p69",
+   "type": "narration",
+   "text": "Steps. Down. Broad. Worn in the middle, as old stairs wear. Twenty of them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p70",
+   "type": "narration",
+   "text": "Then the hall.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 91,
+   "para": "p71",
+   "type": "narration",
+   "text": "As the farmer had said. As Aurveth had seen it through the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p72",
+   "type": "narration",
+   "text": "Long. Longer than the lantern could reach. A floor of flat grey stone, dry, with dust on it, a finger thick. Undisturbed. Their boots made the first marks on it in a thousand years. Two rows of pillars, square, plain, going away into the dark, holding up a roof she couldn’t see.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p73",
+   "type": "narration",
+   "text": "And warm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p74",
+   "type": "narration",
+   "text": "Warm like a body. Like a beast’s flank in winter. The stone itself. The floor, under her boots. She knelt and put her hand on it, and watched her hand on it, and couldn’t feel the warmth in her hand but felt it come up through her knees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p75",
+   "type": "narration",
+   "text": "The Deep, running under the floor. Under Coldtarn. Under them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 96,
+   "para": "p76",
+   "type": "speech",
+   "text": "“What’s that,”"
+  },
+  {
+   "seq": 97,
+   "para": "p76",
+   "type": "narration",
+   "text": "said Tam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p77",
+   "type": "narration",
+   "text": "He held the lantern up to the wall.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 99,
+   "para": "p78",
+   "type": "narration",
+   "text": "Niches.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p79",
+   "type": "narration",
+   "text": "In the wall. Between the pillars. Cut into the rock. Rows of them, one above another, three high. Each as long as a man. As deep as a man lying on his side. Smooth inside. Plain. Like the bunks in a barracks. Like the shelves in a crypt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p80",
+   "type": "narration",
+   "text": "All along the wall. Into the dark. And when Tam crossed the hall with the lantern, along the other wall too.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 102,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Beds,”"
+  },
+  {
+   "seq": 103,
+   "para": "p81",
+   "type": "narration",
+   "text": "said Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p82",
+   "type": "speech",
+   "text": "“Or graves,”"
+  },
+  {
+   "seq": 105,
+   "para": "p82",
+   "type": "narration",
+   "text": "said Tam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p83",
+   "type": "narration",
+   "text": "She went close to one. She looked in. Dust. Nothing else. No bones. No cloth. No mark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p84",
+   "type": "speech",
+   "text": "“Beds,”"
+  },
+  {
+   "seq": 108,
+   "para": "p84",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 109,
+   "para": "p85",
+   "type": "narration",
+   "text": "She knew it the moment she said it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p86",
+   "type": "narration",
+   "text": "Somebody had done this before. A long time ago. When the one realm broke. When the six rose and the sea came in. Somebody had cut a hall under a warm tarn in the mountains, a long way from everything, and cut beds in its walls, and brought people up here, and lain down in the warm dark and waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p87",
+   "type": "narration",
+   "text": "And then gone out again, when it was over, and left the beds empty and the door shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p88",
+   "type": "remembered",
+   "text": "Somebody kept something here"
+  },
+  {
+   "seq": 113,
+   "para": "p88",
+   "type": "narration",
+   "text": ", Aurveth had said."
+  },
+  {
+   "seq": 114,
+   "para": "p88",
+   "type": "remembered",
+   "text": "Once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p89",
+   "type": "narration",
+   "text": "People. They’d kept people.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 116,
+   "para": "p90",
+   "type": "narration",
+   "text": "Tam counted them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p91",
+   "type": "narration",
+   "text": "Of course he did. He was her brother. He walked the length of the hall with the lantern, both walls, and counted the niches under his breath, and she walked behind him and counted them too, and they came to the end together.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p92",
+   "type": "speech",
+   "text": "“Three hundred and twelve,”"
+  },
+  {
+   "seq": 119,
+   "para": "p92",
+   "type": "narration",
+   "text": "said Tam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p93",
+   "type": "speech",
+   "text": "“Three hundred and twelve,”"
+  },
+  {
+   "seq": 121,
+   "para": "p93",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 122,
+   "para": "p94",
+   "type": "speech",
+   "text": "“And the floor,”"
+  },
+  {
+   "seq": 123,
+   "para": "p94",
+   "type": "narration",
+   "text": "said Tam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p95",
+   "type": "narration",
+   "text": "He held the lantern up, down the length of the hall. The pillars. The dust. The long flat floor.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p96",
+   "type": "speech",
+   "text": "“Five hundred,”"
+  },
+  {
+   "seq": 126,
+   "para": "p96",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 127,
+   "para": "p96",
+   "type": "speech",
+   "text": "“At the most. If they lie close. If some of them stand.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 128,
+   "para": "p97",
+   "type": "narration",
+   "text": "That was when Arn said it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p98",
+   "type": "speech",
+   "text": "“Then the Clan’s,”"
+  },
+  {
+   "seq": 130,
+   "para": "p98",
+   "type": "narration",
+   "text": "said Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p99",
+   "type": "narration",
+   "text": "Quietly, as a man states a figure.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p100",
+   "type": "speech",
+   "text": "“Three hundred and forty. They’re half a day off. On the ledges. At Varrhold. They’ll be here before anyone else, if it comes. They’ll fill it.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 133,
+   "para": "p101",
+   "type": "narration",
+   "text": "Tam turned round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p102",
+   "type": "speech",
+   "text": "“Then nobody’s,”"
+  },
+  {
+   "seq": 135,
+   "para": "p102",
+   "type": "narration",
+   "text": "said Tam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p103",
+   "type": "narration",
+   "text": "He wasn’t angry either. He was never angry. He stood in the warm dark with the lantern and looked at the chief of the Dragon Clan.",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p104",
+   "type": "speech",
+   "text": "“It’s nobody’s,”"
+  },
+  {
+   "seq": 138,
+   "para": "p104",
+   "type": "narration",
+   "text": "said Tam."
+  },
+  {
+   "seq": 139,
+   "para": "p104",
+   "type": "speech",
+   "text": "“It’s whoever gets up the scree. The farmer said so. That’s why I’m driving the road. So there’s somebody on it who knows where it goes.”"
+  },
+  {
+   "seq": 140,
+   "para": "p104",
+   "type": "narration",
+   "text": "He held the lantern higher."
+  },
+  {
+   "seq": 141,
+   "para": "p104",
+   "type": "speech",
+   "text": "“You’d fill it with the Clan before the first wagon’s over the lip.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p105",
+   "type": "speech",
+   "text": "“They’re the Clan’s ledges. It’s the Clan’s tarn.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p106",
+   "type": "speech",
+   "text": "“It’s a hole in a hill,”"
+  },
+  {
+   "seq": 144,
+   "para": "p106",
+   "type": "narration",
+   "text": "said Tam."
+  },
+  {
+   "seq": 145,
+   "para": "p106",
+   "type": "speech",
+   "text": "“It’s nobody’s tarn.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 146,
+   "para": "p107",
+   "type": "narration",
+   "text": "They argued.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p108",
+   "type": "narration",
+   "text": "Not loudly. In the warm dark, under the pillars, with the lantern. Arn’s families. Tam’s wagons. The smiths’ wives and children from Ironhythe, who’d come down to the Vale in the autumn. The clans. The Sun Road’s eight thousand. The upper Wend’s two thousand. The coast’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p109",
+   "type": "narration",
+   "text": "A hundred thousand on the Vale.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p110",
+   "type": "narration",
+   "text": "Five hundred, if some of them stood.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 150,
+   "para": "p111",
+   "type": "narration",
+   "text": "Nobody said what it meant.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p112",
+   "type": "narration",
+   "text": "They didn’t need to. She looked at Arn’s face, and at Tam’s, in the lantern-light, and saw that they both knew, and that neither of them would say it, and that they were arguing about the Clan’s families and the wagons so that they wouldn’t have to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p113",
+   "type": "narration",
+   "text": "She knew it too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p114",
+   "type": "narration",
+   "text": "If it came to this, almost everyone would die.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 154,
+   "para": "p115",
+   "type": "speech",
+   "text": "“Whoever gets here,”"
+  },
+  {
+   "seq": 155,
+   "para": "p115",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p116",
+   "type": "narration",
+   "text": "They both looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p117",
+   "type": "speech",
+   "text": "“Whoever gets here,”"
+  },
+  {
+   "seq": 158,
+   "para": "p117",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 159,
+   "para": "p117",
+   "type": "speech",
+   "text": "“In the order they get here. Clan or wagon or clan or anyone. Whoever gets up the scree.”"
+  },
+  {
+   "seq": 160,
+   "para": "p117",
+   "type": "narration",
+   "text": "She looked at the niches."
+  },
+  {
+   "seq": 161,
+   "para": "p117",
+   "type": "speech",
+   "text": "“I’ll be at the door. I’ll count them in.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p118",
+   "type": "narration",
+   "text": "Arn looked at her a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p119",
+   "type": "narration",
+   "text": "Then he nodded. Once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p120",
+   "type": "narration",
+   "text": "Tam didn’t say anything. He put his hand on her shoulder, on the dead side, and she saw it there and didn’t feel it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 165,
+   "para": "p121",
+   "type": "narration",
+   "text": "They came out into the snow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p122",
+   "type": "narration",
+   "text": "Ildra first, sneezing at the cold. Arn. Tam with the lantern still lit, though it was noon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p123",
+   "type": "narration",
+   "text": "She shut the door. Hand on it. It slid back out of its slot in the rock and across, and closed, and was a grey slab in the crag’s foot again, with the words over it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p124",
+   "type": "narration",
+   "text": "She didn’t put the scree back. Orrun asked. She said no.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p125",
+   "type": "bond",
+   "text": "If it comes"
+  },
+  {
+   "seq": 170,
+   "para": "p125",
+   "type": "narration",
+   "text": ", she said,"
+  },
+  {
+   "seq": 171,
+   "para": "p125",
+   "type": "bond",
+   "text": "there won’t be time.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 172,
+   "para": "p126",
+   "type": "narration",
+   "text": "She wrote the farmer a letter.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p127",
+   "type": "narration",
+   "text": "Sitting on the tail of Tam’s wagon. With Tam’s pencil and a page out of the back of his tool-book. One-handed. The right. She couldn’t feel the pencil. She watched it. Every stroke. She watched her own hand make the letters, as she’d watched it hold the girl in the black water, to be sure.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p128",
+   "type": "narration",
+   "text": "It took a long time. Her hand was square and slow at the best of times.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 175,
+   "para": "p129",
+   "type": "thought",
+   "text": "It’s open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p130",
+   "type": "thought",
+   "text": "Three hundred and twelve places cut in the walls, and the floor. Tam says five hundred if they stand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p131",
+   "type": "thought",
+   "text": "It’s warm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p132",
+   "type": "thought",
+   "text": "The door has words on it I can’t read.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p133",
+   "type": "thought",
+   "text": "Don’t tell anyone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p134",
+   "type": "thought",
+   "text": "M.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 181,
+   "para": "p135",
+   "type": "narration",
+   "text": "She read it over. It was all true. It wasn’t enough. She didn’t know what else to put.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p136",
+   "type": "narration",
+   "text": "She folded it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 183,
+   "para": "p137",
+   "type": "narration",
+   "text": "Lisska took it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p138",
+   "type": "narration",
+   "text": "Off the rim. She’d been lying there all morning, watching, with her chin on the snow. When Maren held the letter up she came down off the rim to the shore, the size of a crag, green, and put her head down in front of the wagon’s tail.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p139",
+   "type": "narration",
+   "text": "Arn took the letter from Maren and held it up to her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p140",
+   "type": "narration",
+   "text": "Lisska took it in her teeth. Very carefully. The front ones. A fold of paper between two teeth each as long as a man’s forearm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p141",
+   "type": "bond",
+   "text": "He’ll be cross"
+  },
+  {
+   "seq": 188,
+   "para": "p141",
+   "type": "narration",
+   "text": ", said Lisska, through Orrun."
+  },
+  {
+   "seq": 189,
+   "para": "p141",
+   "type": "thought",
+   "text": "That you came when he wasn’t here.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p142",
+   "type": "thought",
+   "text": "I know.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p143",
+   "type": "thought",
+   "text": "He’ll be glad too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p144",
+   "type": "thought",
+   "text": "I know that too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p145",
+   "type": "narration",
+   "text": "Lisska went up. South. Toward the Vale, with the letter in her teeth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 194,
+   "para": "p146",
+   "type": "narration",
+   "text": "She told Liss when she got back. And nobody else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p147",
+   "type": "narration",
+   "text": "Calder, by letter. Arn and Tam, who’d been there. Liss, at the ferry house, at the kitchen table, with the door shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p148",
+   "type": "narration",
+   "text": "Four people. And herself. And Orrun.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 197,
+   "para": "p149",
+   "type": "narration",
+   "text": "She found out about her hands at the wagon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p150",
+   "type": "narration",
+   "text": "After the letter. Tam had a brazier on the wagon’s tail, an iron pot of coals, for his hands on the road, and the tea. She’d stood up to get down. She’d put her hand out to steady herself.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p151",
+   "type": "narration",
+   "text": "On the pot.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 200,
+   "para": "p152",
+   "type": "narration",
+   "text": "She didn’t know.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p153",
+   "type": "narration",
+   "text": "Tam did. She saw his face change. He reached across and took her wrist and pulled her hand off the iron, fast, and turned it over.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p154",
+   "type": "narration",
+   "text": "The palm. Red. A blister rising across it, white, the shape of the pot’s rim.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p155",
+   "type": "narration",
+   "text": "She looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p156",
+   "type": "narration",
+   "text": "She hadn’t felt it. Not the heat. Not the burn. Not anything. And not only the palm. Higher. She’d had a little, still, at the wrists, after the walls. A warmth. A cold. She’d felt the warm air from the door on her wrists, this morning, a little.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p157",
+   "type": "narration",
+   "text": "She couldn’t now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p158",
+   "type": "narration",
+   "text": "She put her other hand, the dead one, against her right wrist, and watched, and felt nothing, and couldn’t tell if her wrist was warm or cold or anything at all.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 207,
+   "para": "p159",
+   "type": "speech",
+   "text": "“Mare,”"
+  },
+  {
+   "seq": 208,
+   "para": "p159",
+   "type": "narration",
+   "text": "said Tam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p160",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p161",
+   "type": "narration",
+   "text": "He wrapped it. A strip of linen out of his roll, round the palm, round and round, gently, as he’d wrapped her fingers once when she was nine and caught them in the forge’s door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p162",
+   "type": "speech",
+   "text": "“You’ll have to tell people,”"
+  },
+  {
+   "seq": 212,
+   "para": "p162",
+   "type": "narration",
+   "text": "said Tam."
+  },
+  {
+   "seq": 213,
+   "para": "p162",
+   "type": "speech",
+   "text": "“To watch for you. Fires. Pots.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p163",
+   "type": "speech",
+   "text": "“I’ll watch.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p164",
+   "type": "speech",
+   "text": "“You can’t watch everything, Mare.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p165",
+   "type": "narration",
+   "text": "She looked at the wrapped hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p166",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 218,
+   "para": "p166",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 219,
+   "para": "p167",
+   "type": "narration",
+   "text": "They were back at the Vale on the two-hundred-and-ninety-seventh.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p168",
+   "type": "narration",
+   "text": "At noon. Over the Scarfell’s lip, down the Drover’s Way, down the Saltreach bank. To the eastern wall. Her wall. Grey, straight, two men high, going away from the river to the scrub.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p169",
+   "type": "narration",
+   "text": "There were men on it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 222,
+   "para": "p170",
+   "type": "narration",
+   "text": "A dozen. In grey. Kessmoor’s. Up on the top of her rampart, a road’s breadth of it, with rods and chains and a brass level on a three-legged stand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p171",
+   "type": "narration",
+   "text": "Measuring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p172",
+   "type": "narration",
+   "text": "The height. The breadth. They had a man at the wall’s foot with a rod and a man on top with a chain let down, and they were calling numbers to each other. Another had his face close to the stone, looking at the grain of it, with a glass. Another writing it all in a book.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 225,
+   "para": "p173",
+   "type": "narration",
+   "text": "She stopped the lion at the wall’s foot and watched them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 226,
+   "para": "p174",
+   "type": "narration",
+   "text": "They didn’t stop. They nodded to her, politely, and went on. The man with the glass stood up and said something to the man with the book. The man with the book wrote it down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p175",
+   "type": "narration",
+   "text": "Then he looked along the wall. West, to the river. East, to the scrub.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 228,
+   "para": "p176",
+   "type": "narration",
+   "text": "And nodded.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 229,
+   "para": "p177",
+   "type": "narration",
+   "text": "And the man with the glass nodded back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 230,
+   "para": "p178",
+   "type": "bond",
+   "text": "They’re measuring it"
+  },
+  {
+   "seq": 231,
+   "para": "p178",
+   "type": "narration",
+   "text": ", said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 232,
+   "para": "p179",
+   "type": "thought",
+   "text": "They measure everything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 233,
+   "para": "p180",
+   "type": "thought",
+   "text": "Why?",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 234,
+   "para": "p181",
+   "type": "narration",
+   "text": "She looked at the men in grey on her wall, nodding at each other, with their book.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 235,
+   "para": "p182",
+   "type": "bond",
+   "text": "I don’t know"
+  },
+  {
+   "seq": 236,
+   "para": "p182",
+   "type": "narration",
+   "text": ", she said.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "075d35a655899f0be5cbd5c99bc2141b2395dd9c",
+ "segments_sha1": "e4bdbf6d350183701d3e202867c4fdca1548ff97"
+}

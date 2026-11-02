@@ -1,0 +1,1398 @@
+{
+ "chapter": 22,
+ "title": "Pour With Me",
+ "pov": "",
+ "source": "Chapters/Chapter 22 - Pour With Me.md",
+ "names": [
+  "ada",
+  "arn",
+  "aurveth",
+  "blackwater",
+  "brede",
+  "calder",
+  "coldtarn",
+  "corsa",
+  "dorcas",
+  "gullhaven",
+  "haldor",
+  "kharrak",
+  "lisska",
+  "ragnald",
+  "roosts",
+  "scarfell",
+  "sigge",
+  "sigrun",
+  "skarrow",
+  "ulric",
+  "varrhold",
+  "wren"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Twenty-two.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Pour With Me.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "They burned him at Skarrow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "His own steading. In the long green valley on the east side of the Scarfell, falling toward the coast. A stone hall with a turf roof, and byres, and a burn running down past them, and his men, the ones who’d stayed when the forty pairs went south, standing in the yard with their faces shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "Seven days and nights. A champion’s fire. Not a chief’s eleven.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Calder got there on the third night.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "He’d been sick the whole of the eighty-ninth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "In Dorcas’s bunk on the Merry Agnes, with his hands in wet cloths and his eyes crusted shut and his breath coming like a sick dog’s. Dorcas hadn’t talked. In the morning she’d bound his hands in clean cloth, both of them, to the wrist, and tied the ends, and stood back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "speech",
+   "text": "“You’ll not hold a rein,”"
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "narration",
+   "text": "she’d said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p8",
+   "type": "speech",
+   "text": "“I don’t use one.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p9",
+   "type": "speech",
+   "text": "“Then go,”"
+  },
+  {
+   "seq": 13,
+   "para": "p9",
+   "type": "narration",
+   "text": "said Dorcas."
+  },
+  {
+   "seq": 14,
+   "para": "p9",
+   "type": "speech",
+   "text": "“Go and burn your old man. We’ll be here.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p10",
+   "type": "narration",
+   "text": "He’d flown north on the ninetieth with his bound hands lying on Kharrak’s neck and his eyes half open. He’d left the forty pairs at Corsa under Brede, an old man of the ledges on an old blue, slow and sure, who’d sat the heights over the peat road in the winter. Somebody had to be there for the terrace.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 16,
+   "para": "p11",
+   "type": "narration",
+   "text": "Sigge had brought Ulric home on the eighty-ninth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p12",
+   "type": "narration",
+   "text": "On the grey. Alone. Across the coast and the Saltings and up the Scarfell, all day, with Ulric’s body lashed across the saddle in front of him in a sail.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p13",
+   "type": "narration",
+   "text": "And a boy behind him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p14",
+   "type": "narration",
+   "text": "The clerk’s boy. Six. The one Ulric had lifted up out of the water into Sigge’s arm. Pim, his name was. He’d held on to Sigge’s coat on the steps and hadn’t let go, and when Sigge flew north he’d still been holding on, and nobody had known what else to do with him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p15",
+   "type": "narration",
+   "text": "He was at Skarrow now. Sitting on the byre wall, watching the fire.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 21,
+   "para": "p16",
+   "type": "narration",
+   "text": "Lisska had gone east on the ninety-fourth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p17",
+   "type": "narration",
+   "text": "On her own, from Skarrow. He’d been too sick to stop her. He’d lain by the pyre and felt her go out of reach over the moor and couldn’t call her back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "narration",
+   "text": "She came into Varrhold on the ninety-sixth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p19",
+   "type": "narration",
+   "text": "Down out of the east onto the Roosts, thin, her wings dragging. She didn’t land on the ledge. She landed on the hall’s roof and lay on the turf with her head hanging over the eave.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p20",
+   "type": "narration",
+   "text": "He went up to her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 26,
+   "para": "p21",
+   "type": "bond",
+   "text": "I went to tell her,"
+  },
+  {
+   "seq": 27,
+   "para": "p21",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 28,
+   "para": "p21",
+   "type": "thought",
+   "text": "The lion-woman. About the old man. In the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p22",
+   "type": "narration",
+   "text": "He put his bound hand on her neck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p23",
+   "type": "thought",
+   "text": "I went to Blackwater. Where they keep the dragons in the shed. I got there at dawn."
+  },
+  {
+   "seq": 31,
+   "para": "p23",
+   "type": "narration",
+   "text": "She closed her eyes."
+  },
+  {
+   "seq": 32,
+   "para": "p23",
+   "type": "thought",
+   "text": "There was a chain. New. Across the mouth, on wood. It was broken in the middle. And the ship had gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p24",
+   "type": "speech",
+   "text": "“What ship?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p25",
+   "type": "thought",
+   "text": "The salvage one. The one the man in the tavern said. Loading water for a month."
+  },
+  {
+   "seq": 35,
+   "para": "p25",
+   "type": "narration",
+   "text": "She opened her eyes and looked at him."
+  },
+  {
+   "seq": 36,
+   "para": "p25",
+   "type": "thought",
+   "text": "It went out through their chain. In the dark. With the lion on it. I saw it far off on the sea at dawn, going into the rocks.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p26",
+   "type": "narration",
+   "text": "He didn’t say anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p27",
+   "type": "bond",
+   "text": "I was too late,",
+   "how": "called"
+  },
+  {
+   "seq": 39,
+   "para": "p27",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 40,
+   "para": "p27",
+   "type": "thought",
+   "text": "I called and called. She couldn’t hear.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 41,
+   "para": "p28",
+   "type": "narration",
+   "text": "He stood on the hall roof at Varrhold with his hand on her neck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p29",
+   "type": "thought",
+   "text": "Ask for a reef-pilot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p30",
+   "type": "narration",
+   "text": "She’d asked. She’d gone. Over the edge of the world after a mark in a margin, on a salvage ketch through a broken chain, while he burned an old man on a hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p31",
+   "type": "narration",
+   "text": "He didn’t know what he felt about that. He felt a great many things at once and none of them would hold still long enough to name.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p32",
+   "type": "speech",
+   "text": "“Come down,”"
+  },
+  {
+   "seq": 46,
+   "para": "p32",
+   "type": "narration",
+   "text": "he said to Lisska."
+  },
+  {
+   "seq": 47,
+   "para": "p32",
+   "type": "speech",
+   "text": "“Eat something.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p33",
+   "type": "thought",
+   "text": "I’m not hungry.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p34",
+   "type": "speech",
+   "text": "“Eat something anyway,”"
+  },
+  {
+   "seq": 50,
+   "para": "p34",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 51,
+   "para": "p35",
+   "type": "narration",
+   "text": "They raked the fire on the ninety-seventh.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p36",
+   "type": "narration",
+   "text": "At Skarrow. Ulric’s men with long rakes and riddles, sifting, as they’d done for Haldor. Into an urn. Big and plain and grey, as tall as a child, the same kind as Haldor’s. Calder watched them do it from the byre wall, beside the boy, with his bound hands in his lap.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p37",
+   "type": "narration",
+   "text": "The boy didn’t say anything all day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p38",
+   "type": "narration",
+   "text": "At dusk he said,"
+  },
+  {
+   "seq": 55,
+   "para": "p38",
+   "type": "speech",
+   "text": "“Is that him?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p39",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 57,
+   "para": "p39",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p40",
+   "type": "narration",
+   "text": "The boy looked at the urn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p41",
+   "type": "speech",
+   "text": "“He was very big,”"
+  },
+  {
+   "seq": 60,
+   "para": "p41",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 61,
+   "para": "p42",
+   "type": "narration",
+   "text": "They took it up to Coldtarn on a sledge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p43",
+   "type": "narration",
+   "text": "Up from Skarrow by the old track, a day, the sledge drawn by Ulric’s own oxen with his men walking beside it. The Clan coming up from Varrhold by the other track, red and grey together. And over them all, dragons. Every dragon on the Scarfell, it seemed to Calder, going up the mountain in the air above the sledge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p44",
+   "type": "narration",
+   "text": "Many of them free.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p45",
+   "type": "narration",
+   "text": "He could tell. The ones from the pens. Arn had opened them. They flew differently. Not in pairs. Not in lines. Loose, all over the sky, wheeling, as if they’d only just found out what the sky was for and couldn’t stop finding out.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 65,
+   "para": "p46",
+   "type": "narration",
+   "text": "Aurveth came up from Harrow’s End.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p47",
+   "type": "narration",
+   "text": "Slowly. On the wing that held. With Ada behind her on Old Grey, because Ada had said she was coming and that was that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p48",
+   "type": "narration",
+   "text": "She lay down on the rim. On the same rock. The flat rock under the rim, where Sigrun Holm had sat in her cloak with her back to the wind and told him about Ragnald, a lifetime ago, the autumn Haldor died.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p49",
+   "type": "narration",
+   "text": "Sigrun was in the water now too. A long way down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p50",
+   "type": "narration",
+   "text": "Aurveth put her great bronze head on the rock where Sigrun had sat, and looked at the tarn, and didn’t move.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 70,
+   "para": "p51",
+   "type": "narration",
+   "text": "The pour was on the ninety-eighth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p52",
+   "type": "narration",
+   "text": "Coldtarn. Black water in a bowl of black rock under a grey sky. The half-circle up the slope, the whole Clan, red and grey standing together now, not in two blocks. The flat black stone running out into the tarn like a jetty. The urn on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p53",
+   "type": "narration",
+   "text": "And the old priest in grey with his staff, older than he’d been, saying the words.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p54",
+   "type": "narration",
+   "text": "The plain ones first. Then the old ones only priests still had."
+  },
+  {
+   "seq": 74,
+   "para": "p54",
+   "type": "thought",
+   "text": "Ulric. Son of Rurik. Champion of the Varr."
+  },
+  {
+   "seq": 75,
+   "para": "p54",
+   "type": "narration",
+   "text": "The gods named, all of them, the old ones who walk unbound, and the whole half-circle bowing its head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p55",
+   "type": "narration",
+   "text": "Then the priest stepped back and lifted his staff.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p56",
+   "type": "speech",
+   "text": "“Who pours?”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 78,
+   "para": "p57",
+   "type": "narration",
+   "text": "Nobody moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p58",
+   "type": "narration",
+   "text": "Calder, halfway up the slope, felt the half-circle not move. He knew why. Everybody knew.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p59",
+   "type": "narration",
+   "text": "Ulric had no son living. The custom was the son. When there was doubt, the champion poured. That was custom too; Ulric had said so himself, on this stone, with his arms folded. But the champion was in the urn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p60",
+   "type": "narration",
+   "text": "The wind came across the tarn. The dragons on the ledges sat very still.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 82,
+   "para": "p61",
+   "type": "narration",
+   "text": "Arn walked out onto the black stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p62",
+   "type": "narration",
+   "text": "Alone. He didn’t hurry. He walked out as his brother had, as if he had all day, and stood by the urn and put his hands on it. Both. On either side.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p63",
+   "type": "narration",
+   "text": "He stood there a moment.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p64",
+   "type": "narration",
+   "text": "Then he turned his head and looked up the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p65",
+   "type": "narration",
+   "text": "At Calder.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 87,
+   "para": "p66",
+   "type": "speech",
+   "text": "“Pour with me,”"
+  },
+  {
+   "seq": 88,
+   "para": "p66",
+   "type": "narration",
+   "text": "said Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p67",
+   "type": "narration",
+   "text": "The breath went out of the half-circle. A sound like a wave pulling back off shingle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p68",
+   "type": "narration",
+   "text": "Calder didn’t move. He couldn’t. He stood halfway up the slope with his bound hands at his sides and the whole Clan turning its head, slowly, to look at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p69",
+   "type": "narration",
+   "text": "A voice from the red side. Young. Loud. Bjarke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p70",
+   "type": "speech",
+   "text": "“He’s not Clan.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p71",
+   "type": "narration",
+   "text": "Arn didn’t look at Bjarke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p72",
+   "type": "speech",
+   "text": "“He lifted a harbour,”"
+  },
+  {
+   "seq": 95,
+   "para": "p72",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 96,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Forty-one ships, with people in them, for one copper. Ulric stood on a hill and watched him do it.”"
+  },
+  {
+   "seq": 97,
+   "para": "p72",
+   "type": "narration",
+   "text": "He kept his eyes on Calder."
+  },
+  {
+   "seq": 98,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Ulric said a man who lifts a harbour should see where we pour.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 99,
+   "para": "p73",
+   "type": "narration",
+   "text": "Calder came down the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p74",
+   "type": "narration",
+   "text": "He didn’t remember deciding to. He was walking. Down through the half-circle, which opened in front of him, red and grey, and closed behind. Down onto the flat black stone. Out along it, over the black water, to the urn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p75",
+   "type": "narration",
+   "text": "To Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p76",
+   "type": "narration",
+   "text": "Arn took one hand off the urn. He left the other.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p77",
+   "type": "narration",
+   "text": "Calder put his own hand on the other side. Bound. In Dorcas’s cloth, gone grey with the road. He couldn’t feel the urn through it. He could feel the weight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p78",
+   "type": "narration",
+   "text": "They didn’t look at each other.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 105,
+   "para": "p79",
+   "type": "narration",
+   "text": "They tipped it together.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p80",
+   "type": "narration",
+   "text": "The ash went into Coldtarn in a long grey pour like smoke going the wrong way. It lay on the black water in a great pale shape, spreading slowly out from the stone. The wind didn’t touch it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p81",
+   "type": "narration",
+   "text": "Then in the middle it began to go down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p82",
+   "type": "narration",
+   "text": "And the whole shape drew in toward that point and went down after it, turning slowly, until there was nothing on the water at all.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 109,
+   "para": "p83",
+   "type": "narration",
+   "text": "On every ledge round the bowl, the dragons lifted their heads.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p84",
+   "type": "narration",
+   "text": "All of them. The Clan’s. The free ones from the pens. Kharrak on the rim. Lisska beside him. Aurveth on Sigrun’s rock. They opened their mouths together and the sound came.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p85",
+   "type": "narration",
+   "text": "He’d heard it once. He’d never been able to say what it was. It went into the rock and up through his feet and into his chest and stayed there, and his face was wet, and so was Arn’s, beside him on the black stone, and Arn didn’t wipe it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 112,
+   "para": "p86",
+   "type": "narration",
+   "text": "Ildra was on the stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p87",
+   "type": "narration",
+   "text": "At Arn’s shoulder. Small, dark, with her broken horn. She’d come out along the stone behind him when he walked out, and stood there through all of it, and when the sound came she lifted her head with the others and made it too, thin and young.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p88",
+   "type": "narration",
+   "text": "Calder looked at her. Then at Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p89",
+   "type": "narration",
+   "text": "He’d been bonded long enough to know it when he saw it. How a dragon stood when it was standing beside its person. How the person stood. As if there were a rope between them that nobody else could see, and both of them leaning on it a little.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p90",
+   "type": "narration",
+   "text": "Arn saw him look.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p91",
+   "type": "speech",
+   "text": "“Don’t,”"
+  },
+  {
+   "seq": 118,
+   "para": "p91",
+   "type": "narration",
+   "text": "said Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p92",
+   "type": "narration",
+   "text": "Calder didn’t.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 120,
+   "para": "p93",
+   "type": "narration",
+   "text": "The call came at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p94",
+   "type": "narration",
+   "text": "He was on the rim. With his three. The Clan going back down the mountain in long lines in the half-dark, the dragons going over them. Ada by a fire on the rim, wrapped in her shawl, with Old Grey standing behind her and Wren asleep against the old horse’s legs.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p95",
+   "type": "narration",
+   "text": "And all three of his dragons turned their heads at once.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 123,
+   "para": "p96",
+   "type": "narration",
+   "text": "He felt it before he saw it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p97",
+   "type": "narration",
+   "text": "In the place where they talked. In all three places. A turning. Kharrak’s great red head coming round on the rim, slowly, away from the tarn, away from the hold. Lisska’s beside him. And on Sigrun’s rock, Aurveth’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p98",
+   "type": "narration",
+   "text": "South-west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p99",
+   "type": "narration",
+   "text": "As they’d turned on the signal-field at Corsa on the eightieth day. As Kharrak had turned on the terrace the night the Bell came. But not like that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p100",
+   "type": "narration",
+   "text": "This time they stayed.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 128,
+   "para": "p101",
+   "type": "narration",
+   "text": "Aurveth stood up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p102",
+   "type": "narration",
+   "text": "She didn’t, now. She hadn’t stood up off a rock without a reason since the winter. She lay where she was put and got up when she had to fly, slowly, on the wing that held, and lay down again when she landed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p103",
+   "type": "narration",
+   "text": "She stood up off Sigrun’s rock in the dusk and stood on the rim of Coldtarn, the oldest living thing in the Scarfell, enormous, bronze, with her head up and turned south-west over the whole of the mountain. Over the moor. Over the coast. Over the sea beyond it, out of sight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p104",
+   "type": "narration",
+   "text": "And she spoke.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 132,
+   "para": "p105",
+   "type": "thought",
+   "text": "That’s it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p106",
+   "type": "narration",
+   "text": "Her voice in him. Old and deep and slow, as it always was. And something else in it he’d never heard there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p107",
+   "type": "thought",
+   "text": "That’s what I was waiting for.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 135,
+   "para": "p108",
+   "type": "narration",
+   "text": "He didn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p109",
+   "type": "bond",
+   "text": "All of it,",
+   "mood": "tension"
+  },
+  {
+   "seq": 137,
+   "para": "p109",
+   "type": "narration",
+   "text": "said Aurveth.",
+   "mood": "tension"
+  },
+  {
+   "seq": 138,
+   "para": "p109",
+   "type": "thought",
+   "text": "All the waiting. Before the girl. Before Ragnald. Before the Roosts, before the Clan came up the mountain with their sheep and their thread. Before I can remember. I lay on the cliff and waited and didn’t know what for.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 139,
+   "para": "p110",
+   "type": "narration",
+   "text": "She didn’t look at him. She looked south-west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p111",
+   "type": "bond",
+   "text": "That,"
+  },
+  {
+   "seq": 141,
+   "para": "p111",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p112",
+   "type": "speech",
+   "text": "“What is it?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p113",
+   "type": "thought",
+   "text": "Someone’s calling."
+  },
+  {
+   "seq": 144,
+   "para": "p113",
+   "type": "narration",
+   "text": "She was quiet a long time."
+  },
+  {
+   "seq": 145,
+   "para": "p113",
+   "type": "thought",
+   "text": "Over the sea. From the end of everything. Very far.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p114",
+   "type": "speech",
+   "text": "“Who?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p115",
+   "type": "thought",
+   "text": "I don’t know."
+  },
+  {
+   "seq": 148,
+   "para": "p115",
+   "type": "narration",
+   "text": "He felt her not know, and how strange it was to her."
+  },
+  {
+   "seq": 149,
+   "para": "p115",
+   "type": "thought",
+   "text": "Old. Older than me. Much older."
+  },
+  {
+   "seq": 150,
+   "para": "p115",
+   "type": "narration",
+   "text": "She was quiet again."
+  },
+  {
+   "seq": 151,
+   "para": "p115",
+   "type": "thought",
+   "text": "It wants us. The three of us. It’s calling the three of us by name. Names I didn’t know I had.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p116",
+   "type": "narration",
+   "text": "She was silent.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p117",
+   "type": "bond",
+   "text": "And something else,"
+  },
+  {
+   "seq": 154,
+   "para": "p117",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 155,
+   "para": "p117",
+   "type": "thought",
+   "text": "Something with stone in it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 156,
+   "para": "p118",
+   "type": "narration",
+   "text": "Kharrak felt it too. Less.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p119",
+   "type": "narration",
+   "text": "He said so, in his way."
+  },
+  {
+   "seq": 158,
+   "para": "p119",
+   "type": "thought",
+   "text": "Something pulling. Like a hook."
+  },
+  {
+   "seq": 159,
+   "para": "p119",
+   "type": "narration",
+   "text": "He didn’t like it. He lay on the rim with his head turned south-west and his tail lashing, slowly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p120",
+   "type": "narration",
+   "text": "Lisska felt it less again. But she felt it. She’d stopped being thin and tired and sad the moment it came. She was sitting up very straight on the rim with her ears forward, as she sat when she’d seen something on the ground a long way down that she wanted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p121",
+   "type": "narration",
+   "text": "And on the black stone below, in the dusk, at Arn’s shoulder, a small dark shape had turned its head too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p122",
+   "type": "narration",
+   "text": "And on the ledges round the bowl, faintly, here and there, the free ones.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 163,
+   "para": "p123",
+   "type": "narration",
+   "text": "He sat by Ada’s fire most of the night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p124",
+   "type": "narration",
+   "text": "With his bound hands toward it. Aurveth standing above him on the rim, not lying down. She didn’t lie down all night. He could feel her standing there, facing south-west, as you’d feel a door left open behind you in winter.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p125",
+   "type": "bond",
+   "text": "It’s over the sea,"
+  },
+  {
+   "seq": 166,
+   "para": "p125",
+   "type": "narration",
+   "text": "she said, some time after midnight."
+  },
+  {
+   "seq": 167,
+   "para": "p125",
+   "type": "thought",
+   "text": "Where the lion-woman’s gone. The same way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p126",
+   "type": "narration",
+   "text": "He’d known that. He’d known it since Lisska landed on the hall roof.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p127",
+   "type": "bond",
+   "text": "We should go,"
+  },
+  {
+   "seq": 170,
+   "para": "p127",
+   "type": "narration",
+   "text": "said Aurveth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 171,
+   "para": "p128",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 172,
+   "para": "p128",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p129",
+   "type": "narration",
+   "text": "He said it aloud. Ada looked up from the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p130",
+   "type": "bond",
+   "text": "I’ve waited,"
+  },
+  {
+   "seq": 175,
+   "para": "p130",
+   "type": "narration",
+   "text": "said Aurveth. Very slow."
+  },
+  {
+   "seq": 176,
+   "para": "p130",
+   "type": "thought",
+   "text": "Longer than your kingdom’s been a word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p131",
+   "type": "speech",
+   "text": "“Then you can wait a bit longer.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p132",
+   "type": "narration",
+   "text": "He looked at the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p133",
+   "type": "speech",
+   "text": "“There’s two thousand people on a hill at Corsa in ships,”"
+  },
+  {
+   "seq": 180,
+   "para": "p133",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 181,
+   "para": "p133",
+   "type": "speech",
+   "text": "“And no Corsa under them any more, and no Council, and no harbour. There’s the Gullhaven families in my top field. There’s forty pairs of the Clan’s on the coast with nobody but Brede. The Council’s gone to Blackwater to sell berths on a boat. And the bell one’s out there on the sea going west, and when it comes back out again it’ll come somewhere.”"
+  },
+  {
+   "seq": 182,
+   "para": "p133",
+   "type": "narration",
+   "text": "He held his bound hands to the fire."
+  },
+  {
+   "seq": 183,
+   "para": "p133",
+   "type": "speech",
+   "text": "“The coast needs me. I’m not flying off over the end of the world because something’s calling you by a name you didn’t know you had.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p134",
+   "type": "narration",
+   "text": "Aurveth didn’t answer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p135",
+   "type": "narration",
+   "text": "She didn’t lie down either.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 186,
+   "para": "p136",
+   "type": "narration",
+   "text": "Ada was quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p137",
+   "type": "narration",
+   "text": "She sat in her shawl by the fire with Wren asleep against Old Grey’s legs behind her. She hadn’t sung since Gullhaven. She didn’t sing now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p138",
+   "type": "narration",
+   "text": "At last she said it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p139",
+   "type": "speech",
+   "text": "“Your father wouldn’t have gone either.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p140",
+   "type": "narration",
+   "text": "He looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p141",
+   "type": "narration",
+   "text": "She didn’t look back. She looked at the fire, and her face in the light was the face she’d had all his life, plain and tired and not giving anything away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p142",
+   "type": "narration",
+   "text": "It wasn’t praise. He knew that. He didn’t know what it was instead.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 193,
+   "para": "p143",
+   "type": "narration",
+   "text": "They flew south on the hundredth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p144",
+   "type": "narration",
+   "text": "Kharrak and Lisska and him. Down off Coldtarn’s rim in the morning, over the Scarfell, toward the coast. Arn on the black stone below with Ildra at his shoulder, watching them go. Ada on Old Grey going down the other way, toward Varrhold, with Wren walking beside.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p145",
+   "type": "narration",
+   "text": "And Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p146",
+   "type": "narration",
+   "text": "Behind them. Slowly. On the wing that held. She’d come. She’d said nothing, and come.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 197,
+   "para": "p147",
+   "type": "narration",
+   "text": "He looked back at her once, over the moor.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p148",
+   "type": "narration",
+   "text": "She was flying south behind them, low and slow and steady, as she always did now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p149",
+   "type": "narration",
+   "text": "And every few wingbeats her great bronze head turned, by itself, away from the coast they were flying toward. South-west. Toward the sea. Toward the end of everything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p150",
+   "type": "narration",
+   "text": "And turned back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p151",
+   "type": "narration",
+   "text": "And turned again.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "31c94829f6616c7229b55da6dfe2a035abeb45eb",
+ "segments_sha1": "65db90f212dab98a07a6a71c11991f875b2b1fb7"
+}

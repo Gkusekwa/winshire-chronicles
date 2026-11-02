@@ -2,6 +2,35 @@
  "chapter": 16,
  "title": "The Ford",
  "pov": "Calder",
+ "source": "Chapters/Chapter 16 - The Ford.md",
+ "names": [
+  "ada",
+  "arn",
+  "ashby",
+  "askell",
+  "calder",
+  "coldtarn",
+  "eelweir",
+  "fenn",
+  "fisk",
+  "garrow",
+  "gorm",
+  "haldor",
+  "harrow",
+  "hearthmere",
+  "hob",
+  "marches",
+  "rook",
+  "roosts",
+  "sallow",
+  "scarfell",
+  "skarrow",
+  "teo",
+  "ulric",
+  "varr",
+  "wheel",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1773,5 +1802,8 @@
    "text": "Calder went home.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "95d1cd851b2911e37b6535d2d8a188e72e14ff95",
+ "segments_sha1": "79dd4f367305725770957fcaca08bd93d504767e"
 }

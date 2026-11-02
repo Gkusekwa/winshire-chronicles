@@ -1,0 +1,1658 @@
+{
+ "chapter": 59,
+ "title": "The Coast",
+ "pov": "",
+ "source": "Chapters/Chapter 59 - The Coast.md",
+ "names": [
+  "arn",
+  "aurveth",
+  "blackwater",
+  "calder",
+  "corsa",
+  "gullhaven",
+  "kessmoor",
+  "kharrak",
+  "leck",
+  "lisska",
+  "ragnald",
+  "scarfell",
+  "sigrun"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Fifty-nine.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Coast.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "Gullhaven was a town on a spit of stones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "He came along the coast from Blackwater on the three-hundred-and-first day and saw it from the air in the afternoon. A long curve of shingle going out into the sea, a league of it, grey, bent like an arm round a harbour. And the town along it. At the root, where the spit met the land, and then out along the shingle in a long thin line of houses, smoke-houses with their chimneys going, net-sheds, jetties into the harbour on the inside.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "Behind the harbour, on the mainland, flat ground. Salt pans. Square, shallow, grey, in rows, going away inland. And beyond them, low hills.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "One road in. Along the top of the spit, from the land. The only way in or out of Gullhaven on foot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "He looked at it for a long time from Kharrak’s back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "Arn was on the spit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "He’d been there since the two-hundred-and-ninety-fifth day, with the first twelve pairs of the ledges and the war-harness from the tally-house loft. Old leather, black with age and oil, and iron buckles gone brown, and straps that went round a dragon’s chest behind the forelegs and over its shoulders, with rings at the back for baskets.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "The baskets were new. Wicker. Big. The Clan’s basket-makers had been at them since the new moon. Twenty of them, each one big enough for six people standing or ten children sitting, with straps and a lid.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "Calder came down on the shingle beside a red dragon with a basket on its back full of sacks of salt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "speech",
+   "text": "“Calder,”"
+  },
+  {
+   "seq": 13,
+   "para": "p10",
+   "type": "narration",
+   "text": "said Arn. He didn’t look round. He was watching the red."
+  },
+  {
+   "seq": 14,
+   "para": "p10",
+   "type": "speech",
+   "text": "“Watch this.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p11",
+   "type": "narration",
+   "text": "The red went up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p12",
+   "type": "narration",
+   "text": "Slowly. The basket swinging. Up off the shingle, out over the harbour, over the water, a long low arc. To the hills on the mainland behind the salt pans. It came down there. Somebody unloaded the sacks. It came back empty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p13",
+   "type": "speech",
+   "text": "“Sacks,”"
+  },
+  {
+   "seq": 18,
+   "para": "p13",
+   "type": "narration",
+   "text": "said Arn."
+  },
+  {
+   "seq": 19,
+   "para": "p13",
+   "type": "speech",
+   "text": "“Then barrels. Then a boy.”"
+  },
+  {
+   "seq": 20,
+   "para": "p13",
+   "type": "narration",
+   "text": "He looked at Calder at last."
+  },
+  {
+   "seq": 21,
+   "para": "p13",
+   "type": "speech",
+   "text": "“The boy screamed the whole way. We had to make him get out.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 22,
+   "para": "p14",
+   "type": "narration",
+   "text": "The Gullhaven folk thought the Clan had gone mad.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p15",
+   "type": "narration",
+   "text": "They came out of their houses on the spit and stood in their doorways and watched. Salt-wives in their aprons, with their arms white to the elbow. Fishermen. Oyster-men with their rakes. Old men on benches outside the smoke-houses. Watching the dragons of the Scarfell lift sacks of salt off their roofs and carry them over the harbour and bring them back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p16",
+   "type": "speech",
+   "text": "“What’s it for?”"
+  },
+  {
+   "seq": 25,
+   "para": "p16",
+   "type": "narration",
+   "text": "a salt-wife asked Calder. On the third day. She stood in front of him on the shingle with her white arms folded.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p17",
+   "type": "speech",
+   "text": "“For when the sea comes up,”"
+  },
+  {
+   "seq": 27,
+   "para": "p17",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p18",
+   "type": "narration",
+   "text": "She looked at the sea. Grey, flat, ordinary, with the tide going out over the oyster beds.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p19",
+   "type": "speech",
+   "text": "“The sea’s always up,”"
+  },
+  {
+   "seq": 30,
+   "para": "p19",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 31,
+   "para": "p19",
+   "type": "speech",
+   "text": "“It’s the sea.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 32,
+   "para": "p20",
+   "type": "narration",
+   "text": "The reef was two leagues off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p21",
+   "type": "narration",
+   "text": "East-south-east from the end of the spit. Out in the open water. He’d seen it from the air coming in. At high water you couldn’t see it at all, only a line of white where the waves broke on something under the surface. At low water it came up. Black. Long. Low. Like the back of something lying just under the sea.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p22",
+   "type": "thought",
+   "text": "The Drowned Bell,"
+  },
+  {
+   "seq": 35,
+   "para": "p22",
+   "type": "narration",
+   "text": "the oyster-men called it. They wouldn’t go near it. Their fathers wouldn’t. Vey’s grandfather wouldn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p23",
+   "type": "narration",
+   "text": "At low spring tides, they said, you could hear it ring.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 37,
+   "para": "p24",
+   "type": "narration",
+   "text": "He wanted to know what was under it before he told a town of four thousand to leave its salt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p25",
+   "type": "narration",
+   "text": "He’d seen what the lake had done at Vael. He’d seen the thing come over the lip of Glasswater in its own fog, and the valley fill behind it. He had Maren’s letter."
+  },
+  {
+   "seq": 39,
+   "para": "p25",
+   "type": "thought",
+   "text": "After that the coast. The reef by Gullhaven. A month after. Your coast.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p26",
+   "type": "narration",
+   "text": "But he couldn’t feel anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p27",
+   "type": "narration",
+   "text": "He’d stood on the end of the spit at dusk and looked at the reef and felt nothing. No humming. No sweetness. Nothing in the stones under his boots. He wasn’t the reader. He hadn’t got glasses. He didn’t know how to look.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p28",
+   "type": "narration",
+   "text": "Aurveth did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p29",
+   "type": "narration",
+   "text": "He’d asked her on the setters’ ledge, before Blackwater, with the grain-wagons going down the Way below them."
+  },
+  {
+   "seq": 44,
+   "para": "p29",
+   "type": "thought",
+   "text": "Can you feel it? What’s under things? The way the lion does?",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p30",
+   "type": "thought",
+   "text": "Sometimes,"
+  },
+  {
+   "seq": 46,
+   "para": "p30",
+   "type": "narration",
+   "text": "she’d said."
+  },
+  {
+   "seq": 47,
+   "para": "p30",
+   "type": "thought",
+   "text": "I always could. I never knew what it was."
+  },
+  {
+   "seq": 48,
+   "para": "p30",
+   "type": "narration",
+   "text": "And then, after a long time:"
+  },
+  {
+   "seq": 49,
+   "para": "p30",
+   "type": "thought",
+   "text": "I’ll come down to the coast. Slowly. Send for me when you’re there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p31",
+   "type": "narration",
+   "text": "He’d sent for her from Blackwater, with one of Gunna’s riders.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 51,
+   "para": "p32",
+   "type": "narration",
+   "text": "She came down the coast on the three-hundred-and-third day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p33",
+   "type": "narration",
+   "text": "One of Ulric’s grey pairs flew beside her the whole way from the Scarfell, slowly, off her crooked side, as Kharrak had in the autumn. Four days. She came in over the salt pans at noon, low, too low, and came down on the shingle of the spit so heavily that the stones flew, and lay there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p34",
+   "type": "narration",
+   "text": "The salt-wives came out of their houses and stood in a ring round her at a distance.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p35",
+   "type": "narration",
+   "text": "She was very old. He could see it on the shingle, in the light off the sea. Older than he’d ever seen her. The bronze of her plates gone dull. The crooked wing lying out on the stones. The old wound in her chest, under the plates, where the ironback’s horn had gone in at the Ruin, healed now under the setters’ work and Hesper’s moss. A ridge of scar.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p36",
+   "type": "bond",
+   "text": "Show me the reef,"
+  },
+  {
+   "seq": 56,
+   "para": "p36",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p37",
+   "type": "speech",
+   "text": "“Rest first.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p38",
+   "type": "bond",
+   "text": "At low water,"
+  },
+  {
+   "seq": 59,
+   "para": "p38",
+   "type": "narration",
+   "text": "said Aurveth."
+  },
+  {
+   "seq": 60,
+   "para": "p38",
+   "type": "thought",
+   "text": "A spring tide. You’ll want the lowest.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 61,
+   "para": "p39",
+   "type": "narration",
+   "text": "The lowest was on the three-hundred-and-fifth day, at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p40",
+   "type": "narration",
+   "text": "They went out at sunset. Kharrak first, with Calder. Aurveth after, slowly, low over the water. Two leagues out from the end of the spit, over the grey sea going pink in the last light, to where the water went still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p41",
+   "type": "narration",
+   "text": "Still. Flat. Like a pond. Inside a ring of broken white where the waves came in from the open sea and stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p42",
+   "type": "narration",
+   "text": "And in the middle of the stillness, the reef.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p43",
+   "type": "narration",
+   "text": "Black. Coming up out of the water as the last of the tide went off it. Long, low, humped, a hundred paces of it and more. Weed hanging off it, brown and green. Pools. Barnacles, white, in their millions. And the smell. Salt and weed and something under it, very old.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p44",
+   "type": "narration",
+   "text": "Kharrak came down on it. Aurveth came down beside him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p45",
+   "type": "narration",
+   "text": "The last of the tide went off the rock with a long sucking sound.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p46",
+   "type": "narration",
+   "text": "And the reef rang.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 69,
+   "para": "p47",
+   "type": "narration",
+   "text": "He felt it more than heard it. A note. Low. Long. Out of the rock under them, out of the water round them, out of everything. Like a great bell, struck once, under the sea, a long way down. It went on and on. It went through his boots and his legs and his chest and his teeth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p48",
+   "type": "narration",
+   "text": "Then it stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p49",
+   "type": "narration",
+   "text": "The water inside the ring of white was flat as glass.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p50",
+   "type": "bond",
+   "text": "There,"
+  },
+  {
+   "seq": 73,
+   "para": "p50",
+   "type": "narration",
+   "text": "said Aurveth."
+  },
+  {
+   "seq": 74,
+   "para": "p50",
+   "type": "thought",
+   "text": "You heard it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p51",
+   "type": "speech",
+   "text": "“I heard it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p52",
+   "type": "bond",
+   "text": "That’s only the top of it,"
+  },
+  {
+   "seq": 77,
+   "para": "p52",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 78,
+   "para": "p52",
+   "type": "thought",
+   "text": "Lie down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 79,
+   "para": "p53",
+   "type": "narration",
+   "text": "She lay down on the reef.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p54",
+   "type": "narration",
+   "text": "On the black rock, among the weed and the pools, with her crooked wing folded against her side and her head stretched out along the stone. He lay down beside her. On his front, on the wet rock, with the barnacles digging into his chest through his shirt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p55",
+   "type": "bond",
+   "text": "Your hand,"
+  },
+  {
+   "seq": 82,
+   "para": "p55",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 83,
+   "para": "p55",
+   "type": "thought",
+   "text": "On my neck. Where the plates meet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p56",
+   "type": "narration",
+   "text": "He put it there. Flat. Behind her jaw, where the great bronze plates of her neck came together over the soft place underneath, warm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p57",
+   "type": "bond",
+   "text": "Lie still,"
+  },
+  {
+   "seq": 86,
+   "para": "p57",
+   "type": "narration",
+   "text": "said Aurveth."
+  },
+  {
+   "seq": 87,
+   "para": "p57",
+   "type": "thought",
+   "text": "Don’t think. Don’t try. I’ll show you.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 88,
+   "para": "p58",
+   "type": "narration",
+   "text": "He’d felt her before.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p59",
+   "type": "narration",
+   "text": "In the Wendwood, by the milestone, when she’d opened a memory and let him into it and he’d seen the white road and felt a hand on a stone. On the setters’ ledge, all summer, when the bridge came up out of her a piece at a time. That was memory. That was her opening a door into something that had happened.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p60",
+   "type": "narration",
+   "text": "This wasn’t a door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p61",
+   "type": "narration",
+   "text": "She opened something else. Something he hadn’t known she had. Something old. Older than the bridge. Older than Ennis. A sense. Of where things ran. She’d had it for three hundred years and more, and she’d never once shown it to anyone, and she opened it now, on the reef, at dusk, and let him in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p62",
+   "type": "narration",
+   "text": "He felt the Deep.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 93,
+   "para": "p63",
+   "type": "narration",
+   "text": "He’d never felt it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p64",
+   "type": "narration",
+   "text": "He knew that, afterwards. All his life. Ada’s words catching, or not catching. The herd-charm going through Lisska’s wind into the lead cow. Kharrak’s heat going down his arms into a frozen boy’s chest. Fisk’s word dying on the jetty at Greyhold like breath on a cold morning. He’d felt the catch of a working, and the cost of it, and the nothing of dead ground. He’d never felt the thing itself.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 95,
+   "para": "p65",
+   "type": "narration",
+   "text": "It was under him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p66",
+   "type": "narration",
+   "text": "Moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p67",
+   "type": "narration",
+   "text": "Slower than a river or a wind. Bigger. Like the tide coming in, under sand. He’d felt that once as a boy on the mud-flats below Harrow’s End, standing barefoot on the wet sand at low water when the tide turned, and felt it come in under his feet before it reached the surface. A slow cold pull, under everything, going one way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p68",
+   "type": "narration",
+   "text": "That.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p69",
+   "type": "narration",
+   "text": "Under the reef. Under the sea. Under the Saltings behind the harbour, and the salt pans, and the hills. Under the whole coast, as far as he could feel, which was further than he’d ever felt anything. Moving. Slowly. All going one way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p70",
+   "type": "narration",
+   "text": "In. Toward one place.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p71",
+   "type": "narration",
+   "text": "Under his chest.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 102,
+   "para": "p72",
+   "type": "narration",
+   "text": "And under that place, something breathing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p73",
+   "type": "narration",
+   "text": "He felt it breathe in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p74",
+   "type": "narration",
+   "text": "Long. Slow. So slow that the breath went on for longer than he could hold his own. So deep that it was the Deep moving, all of it, along the whole coast, in toward the reef, in, in, as the breath went in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p75",
+   "type": "narration",
+   "text": "And held.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p76",
+   "type": "narration",
+   "text": "And after a very long time, out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p77",
+   "type": "narration",
+   "text": "The bell rang. Faint, far down, the long low note. As the breath went out through the drowned temple under the rock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p78",
+   "type": "narration",
+   "text": "He lay with his face on the wet barnacles and his hand on Aurveth’s neck and felt it breathe in again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p79",
+   "type": "narration",
+   "text": "Waking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p80",
+   "type": "narration",
+   "text": "He didn’t know how he knew. He knew. Not asleep as the rock was. Asleep as Wren was at dawn, just before she opened her eyes. The breath was getting shorter. Quicker. A sleeper turning over.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p81",
+   "type": "narration",
+   "text": "Turning over, he thought. Like a child before morning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p82",
+   "type": "bond",
+   "text": "The reader’s mark,"
+  },
+  {
+   "seq": 113,
+   "para": "p82",
+   "type": "narration",
+   "text": "said Aurveth. Very far off."
+  },
+  {
+   "seq": 114,
+   "para": "p82",
+   "type": "thought",
+   "text": "The one on his chart. That he calls a thing nobody understands. That’s it. That’s what it is. That’s what he’s been measuring all his life with his little glasses."
+  },
+  {
+   "seq": 115,
+   "para": "p82",
+   "type": "narration",
+   "text": "She was quiet."
+  },
+  {
+   "seq": 116,
+   "para": "p82",
+   "type": "thought",
+   "text": "I’ve always been able to feel it. Since before the bridge. I never knew what it was for.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 117,
+   "para": "p83",
+   "type": "narration",
+   "text": "Then she began to bleed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p84",
+   "type": "narration",
+   "text": "He felt it before he knew what it was. A heat. In his own chest. Under his ribs, on the left, where his three marks were. A hot tearing ache, as if something there had come open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p85",
+   "type": "narration",
+   "text": "Not his.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p86",
+   "type": "narration",
+   "text": "He lifted his head off the rock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p87",
+   "type": "narration",
+   "text": "The black stone under Aurveth’s chest was wet. Not with sea. Dark. Spreading. Out from under her into the weed and the pools.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Aurveth.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p89",
+   "type": "bond",
+   "text": "Not yet,"
+  },
+  {
+   "seq": 124,
+   "para": "p89",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 125,
+   "para": "p89",
+   "type": "thought",
+   "text": "Feel it once more.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p90",
+   "type": "speech",
+   "text": "“You’re bleeding.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p91",
+   "type": "thought",
+   "text": "I know. It’s the old one. The horn."
+  },
+  {
+   "seq": 128,
+   "para": "p91",
+   "type": "narration",
+   "text": "Her voice at the back of his head was very calm."
+  },
+  {
+   "seq": 129,
+   "para": "p91",
+   "type": "thought",
+   "text": "I’ve held it too long. It’s opened."
+  },
+  {
+   "seq": 130,
+   "para": "p91",
+   "type": "narration",
+   "text": "A pause."
+  },
+  {
+   "seq": 131,
+   "para": "p91",
+   "type": "thought",
+   "text": "Feel it breathe once more, Calder. So you’ll know it again. So you’ll know it when it wakes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p92",
+   "type": "narration",
+   "text": "He felt it breathe in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p93",
+   "type": "narration",
+   "text": "He felt it hold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p94",
+   "type": "narration",
+   "text": "He took his hand off her neck.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 135,
+   "para": "p95",
+   "type": "narration",
+   "text": "Kharrak carried him off the reef.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p96",
+   "type": "narration",
+   "text": "He couldn’t stand. He hadn’t bled, but his legs wouldn’t hold him, and his chest burned where his marks were. Kharrak put his great head down on the rock and Calder got an arm over his neck somehow and Kharrak lifted him, and he lay across Kharrak’s shoulders like a sack.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p97",
+   "type": "bond",
+   "text": "I’ll take her,"
+  },
+  {
+   "seq": 138,
+   "para": "p97",
+   "type": "narration",
+   "text": "said Kharrak."
+  },
+  {
+   "seq": 139,
+   "para": "p97",
+   "type": "thought",
+   "text": "I’ll go under her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p98",
+   "type": "bond",
+   "text": "You won’t,"
+  },
+  {
+   "seq": 141,
+   "para": "p98",
+   "type": "narration",
+   "text": "said Aurveth."
+  },
+  {
+   "seq": 142,
+   "para": "p98",
+   "type": "thought",
+   "text": "I’ll fly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p99",
+   "type": "narration",
+   "text": "She flew.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p100",
+   "type": "narration",
+   "text": "Off the reef, slowly, with the dark running off her chest in a thin line down her belly and dripping into the sea. Two leagues. Low over the water in the dusk, with her crooked wing beating harder than the other. Kharrak under her the whole way, so close his back nearly touched her belly, so that if she came down she’d come down on him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p101",
+   "type": "narration",
+   "text": "She didn’t come down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p102",
+   "type": "narration",
+   "text": "She came down on the shingle of the spit, at the end, by the last house, and lay there, and didn’t move.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 147,
+   "para": "p103",
+   "type": "narration",
+   "text": "Ivar Leck packed the wound.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p104",
+   "type": "narration",
+   "text": "He’d come down with Arn’s flights, the old setter, with his bag. He knelt on the shingle by the light of a fish-oil lamp somebody brought out of a smoke-house and cut the plates aside and packed the wound with something from his bag and the last of the Keepers’ moss, the little that was left of what Lisska had carried back from the Plains in the summer. He didn’t say anything while he did it. He sang, under his breath, the setting-song. The one a dozen voices had sung on the ledge at Varrhold in the spring, when they’d set her wing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p105",
+   "type": "narration",
+   "text": "The salt-wives stood round in a ring in the dark and watched.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p106",
+   "type": "narration",
+   "text": "The bleeding stopped near midnight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p107",
+   "type": "narration",
+   "text": "Ivar Leck sat back on his heels.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p108",
+   "type": "speech",
+   "text": "“It’ll hold,”"
+  },
+  {
+   "seq": 153,
+   "para": "p108",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 154,
+   "para": "p108",
+   "type": "speech",
+   "text": "“If she doesn’t do that again.”"
+  },
+  {
+   "seq": 155,
+   "para": "p108",
+   "type": "narration",
+   "text": "He looked at Calder."
+  },
+  {
+   "seq": 156,
+   "para": "p108",
+   "type": "speech",
+   "text": "“Whatever that was. She’s not to do it again. Not for a long time.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 157,
+   "para": "p109",
+   "type": "narration",
+   "text": "She asked him in the night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p110",
+   "type": "narration",
+   "text": "He was sitting on the shingle with his back against her side, where the plates were warm, and the fish-oil lamp guttering, and the sea going in and out on the stones. Everyone had gone in. Kharrak was lying along the spit beyond them with his head on his forefeet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p111",
+   "type": "thought",
+   "text": "Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p112",
+   "type": "speech",
+   "text": "“I’m here.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p113",
+   "type": "thought",
+   "text": "You’ve asked since the mill. Why you. Why us. Why three dragons came to a barley farmer in a field.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p114",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p115",
+   "type": "thought",
+   "text": "I’ll ask you one."
+  },
+  {
+   "seq": 164,
+   "para": "p115",
+   "type": "narration",
+   "text": "She didn’t open her eyes. Why me?",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p116",
+   "type": "narration",
+   "text": "He waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p117",
+   "type": "bond",
+   "text": "Ennis,"
+  },
+  {
+   "seq": 167,
+   "para": "p117",
+   "type": "narration",
+   "text": "said Aurveth."
+  },
+  {
+   "seq": 168,
+   "para": "p117",
+   "type": "thought",
+   "text": "And Ragnald. And Sigrun."
+  },
+  {
+   "seq": 169,
+   "para": "p117",
+   "type": "narration",
+   "text": "The names went through him, one after another, like three bells."
+  },
+  {
+   "seq": 170,
+   "para": "p117",
+   "type": "thought",
+   "text": "A dragon whose partner dies goes after him. Nearly always. The pull. You feel it in you, Calder, every day, the thread. When one end of it goes, the other end goes after."
+  },
+  {
+   "seq": 171,
+   "para": "p117",
+   "type": "narration",
+   "text": "She was quiet."
+  },
+  {
+   "seq": 172,
+   "para": "p117",
+   "type": "thought",
+   "text": "I’ve had it go three times. And I’m here. On a beach. With a hole in my chest. Asking a farmer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p118",
+   "type": "narration",
+   "text": "She breathed out, long.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p119",
+   "type": "thought",
+   "text": "Why did I live?",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 175,
+   "para": "p120",
+   "type": "narration",
+   "text": "He had the bird’s words.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p121",
+   "type": "narration",
+   "text": "Maren had written them. In the eleven pages, that Ada had read him by the setters’ fire in the autumn."
+  },
+  {
+   "seq": 177,
+   "para": "p121",
+   "type": "thought",
+   "text": "There’d been a place in her, once, where a man was cut out. And it had scarred. And a scar holds harder than skin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p122",
+   "type": "narration",
+   "text": "He told her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p123",
+   "type": "bond",
+   "text": "I know that,"
+  },
+  {
+   "seq": 180,
+   "para": "p123",
+   "type": "narration",
+   "text": "said Aurveth."
+  },
+  {
+   "seq": 181,
+   "para": "p123",
+   "type": "thought",
+   "text": "The bird said it. I heard it read. A scar."
+  },
+  {
+   "seq": 182,
+   "para": "p123",
+   "type": "narration",
+   "text": "She was quiet."
+  },
+  {
+   "seq": 183,
+   "para": "p123",
+   "type": "thought",
+   "text": "That’s why I didn’t go after Ragnald. Or Sigrun. The place was scarred. It held."
+  },
+  {
+   "seq": 184,
+   "para": "p123",
+   "type": "narration",
+   "text": "Her breath went in and out against his back."
+  },
+  {
+   "seq": 185,
+   "para": "p123",
+   "type": "thought",
+   "text": "But why did they cut him out? Why me? Why was it me at the door?",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p124",
+   "type": "narration",
+   "text": "He had Starwatch’s words too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p125",
+   "type": "narration",
+   "text": "He told her. The tower. The great lens. The old man with his beard in his belt and the girl with ink on her cuffs. The three wandering stars, red and green and pale gold, standing together in the Hunter’s belt, once in a thousand years."
+  },
+  {
+   "seq": 188,
+   "para": "p125",
+   "type": "thought",
+   "text": "One comes with three."
+  },
+  {
+   "seq": 189,
+   "para": "p125",
+   "type": "narration",
+   "text": "On the night of the mill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p126",
+   "type": "bond",
+   "text": "One comes with three,"
+  },
+  {
+   "seq": 191,
+   "para": "p126",
+   "type": "narration",
+   "text": "said Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p127",
+   "type": "speech",
+   "text": "“Somebody knew,”"
+  },
+  {
+   "seq": 193,
+   "para": "p127",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 194,
+   "para": "p127",
+   "type": "speech",
+   "text": "“Mira said. That’s not nothing.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p128",
+   "type": "bond",
+   "text": "No,"
+  },
+  {
+   "seq": 196,
+   "para": "p128",
+   "type": "narration",
+   "text": "said Aurveth."
+  },
+  {
+   "seq": 197,
+   "para": "p128",
+   "type": "thought",
+   "text": "It’s not nothing."
+  },
+  {
+   "seq": 198,
+   "para": "p128",
+   "type": "narration",
+   "text": "She was quiet a long time."
+  },
+  {
+   "seq": 199,
+   "para": "p128",
+   "type": "thought",
+   "text": "It’s not an answer either.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p129",
+   "type": "speech",
+   "text": "“No.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p130",
+   "type": "thought",
+   "text": "Do you have one?",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p131",
+   "type": "narration",
+   "text": "He looked at the sea.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p132",
+   "type": "speech",
+   "text": "“I don’t know,”"
+  },
+  {
+   "seq": 204,
+   "para": "p132",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p133",
+   "type": "bond",
+   "text": "Nor do I,"
+  },
+  {
+   "seq": 206,
+   "para": "p133",
+   "type": "narration",
+   "text": "said Aurveth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 207,
+   "para": "p134",
+   "type": "narration",
+   "text": "The herald came on the three-hundred-and-eleventh day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p135",
+   "type": "narration",
+   "text": "On the coast road, from Corsa, on a horse with the Tide Council’s blue wave on its saddle-cloth. He rode in along the top of the spit past the smoke-houses and the dragons and stopped at the harbour-master’s door, at the root of the spit, where the jetties began, and took a hammer and a nail out of his saddle-bag, and nailed a notice to the door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p136",
+   "type": "narration",
+   "text": "Then he rode away again without looking at anybody.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p137",
+   "type": "narration",
+   "text": "The salt-wives went and stood in front of it. None of them could read it. They looked at Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p138",
+   "type": "narration",
+   "text": "He went and stood in front of it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 212,
+   "para": "p139",
+   "type": "narration",
+   "text": "He read it himself.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p140",
+   "type": "narration",
+   "text": "Slowly. With his finger. It was printed, in black, in small letters, and it took him a long time, and the salt-wives stood behind him with their white arms folded and waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p141",
+   "type": "thought",
+   "text": "By order of the Tide Council of the Saltreach League.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p142",
+   "type": "thought",
+   "text": "The Council has offered for sale, and has sold, to the highest bidder, a contract.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p143",
+   "type": "thought",
+   "text": "To take and hold the thing beneath the reef called the Drowned Bell, off Gullhaven, for the Council’s account. As Kessmoor has taken and holds the thing beneath the Scald.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p144",
+   "type": "thought",
+   "text": "The contract is held by the house of Strand, who will bring a fleet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p145",
+   "type": "narration",
+   "text": "He read it again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p146",
+   "type": "speech",
+   "text": "“What’s it say?”"
+  },
+  {
+   "seq": 220,
+   "para": "p146",
+   "type": "narration",
+   "text": "said the salt-wife with the white arms. The one who’d asked him what the baskets were for.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p147",
+   "type": "speech",
+   "text": "“It says they’ve sold the reef,”"
+  },
+  {
+   "seq": 222,
+   "para": "p147",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p148",
+   "type": "speech",
+   "text": "“Sold it? To who?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p149",
+   "type": "speech",
+   "text": "“To a house in Corsa. The green one. They’re going to bring ships. And catch what’s under it.”"
+  },
+  {
+   "seq": 225,
+   "para": "p149",
+   "type": "narration",
+   "text": "He looked at the notice."
+  },
+  {
+   "seq": 226,
+   "para": "p149",
+   "type": "speech",
+   "text": "“In a cage. Like Kessmoor.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p150",
+   "type": "narration",
+   "text": "The salt-wife looked at him. Then at the notice. Then out at the sea, grey and flat, with the line of white far out where the reef was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 228,
+   "para": "p151",
+   "type": "speech",
+   "text": "“There’s nothing under it,”"
+  },
+  {
+   "seq": 229,
+   "para": "p151",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 230,
+   "para": "p151",
+   "type": "speech",
+   "text": "“It’s a rock.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 231,
+   "para": "p152",
+   "type": "narration",
+   "text": "He didn’t answer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 232,
+   "para": "p153",
+   "type": "narration",
+   "text": "He thought of a cage of iron and cold water, a league across, round a basin of glass."
+  },
+  {
+   "seq": 233,
+   "para": "p153",
+   "type": "thought",
+   "text": "The cage holds. It eats beasts."
+  },
+  {
+   "seq": 234,
+   "para": "p153",
+   "type": "narration",
+   "text": "And a breath, going in, under his chest, on the reef, for longer than he could hold his own.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 235,
+   "para": "p154",
+   "type": "narration",
+   "text": "Aurveth turned her head on the three-hundred-and-eleventh night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 236,
+   "para": "p155",
+   "type": "narration",
+   "text": "He saw it. He was sitting on the shingle by her, as he’d sat every night since the reef, with his back against her side. She’d been lying with her head along the stones toward the sea, as she always did. Toward the reef.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 237,
+   "para": "p156",
+   "type": "narration",
+   "text": "In the middle of the night she lifted it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 238,
+   "para": "p157",
+   "type": "narration",
+   "text": "And turned it. Slowly. Away from the reef. Along the coast. West. South-west. Toward the far end of the long shore, past Wendmouth and beyond everything he knew, toward a country he’d never seen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 239,
+   "para": "p158",
+   "type": "narration",
+   "text": "And left it there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 240,
+   "para": "p159",
+   "type": "narration",
+   "text": "He waited for her to say something. She didn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 241,
+   "para": "p160",
+   "type": "speech",
+   "text": "“What is it?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 242,
+   "para": "p161",
+   "type": "narration",
+   "text": "She didn’t answer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 243,
+   "para": "p162",
+   "type": "narration",
+   "text": "He looked where she was looking. South-west. There was nothing. The dark sea. The dark coast going away. Stars low on the horizon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 244,
+   "para": "p163",
+   "type": "narration",
+   "text": "She didn’t put her head down again. She lay all night with it lifted, turned south-west, very still, as a dog lies when it hears something far off that nobody else can hear. And he sat against her and didn’t sleep.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "097daedf493853da28d373e3bca904ffc33d11c0",
+ "segments_sha1": "3fc358c7264fef82fdf8a24d47c02625d3492dd0"
+}

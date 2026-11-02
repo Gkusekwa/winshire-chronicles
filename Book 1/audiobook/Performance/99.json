@@ -31,5 +31,8 @@
    "text": "The story continues in The Hunt Beneath, The Winshire Chronicles, Book Two.",
    "pause_after_ms": 1500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "23205b200f90c61775afac1b13c350901dec58d6",
+ "segments_sha1": "948357ea760781308e486f722af2ab671a9f8b57"
 }

@@ -1,0 +1,1545 @@
+{
+ "chapter": 60,
+ "title": "Barges",
+ "pov": "",
+ "source": "Chapters/Chapter 60 - Barges.md",
+ "names": [
+  "accord",
+  "blackwater",
+  "cutter",
+  "dace",
+  "elbow",
+  "ferris",
+  "fosse",
+  "gannet",
+  "glasswater",
+  "hearthmere",
+  "idony",
+  "jory",
+  "kit",
+  "merrin",
+  "ostrey",
+  "overy",
+  "quell",
+  "saffery",
+  "saltreach",
+  "sheepford",
+  "wend",
+  "wendmouth"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Sixty.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Barges.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "It had been a ford.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "That was all, once. The Sheepford, the drovers’ summer ford eight leagues below the hub, that the barges called the Staithe until Kit named it again. A landing and a dozen houses on the Hearthmere bank. A ferry when the river was up. An inn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "Now it was a town on the water. Kit stood on its landing on the two-hundred-and-ninety-fifth and counted it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "The floating market had been towed there after Wendmouth, ten days up the river behind the poles. All of it that floated. A hundred and forty barges and rafts, lashed again, side by side and end to end, a quarter-league of it along the Sheepford’s bank, with planks across and smoke going up and people living on it. Six thousand of them. Wendmouth’s five thousand two hundred. And the coast’s last villages, that the dragons and the wyverns had flown in over the Saltreach bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "And they had to go up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "To the hub. Eight leagues. Against the Wend in winter.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "The Accord wanted them behind the walls. Before the five came.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "She had four barges.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "The Merrin barges. Flat, long, black-tarred, built for salt and fish on the Blackwater inlet, not for a river. They’d come up the Wend’s mouth in the autumn and lain in the side channel and lifted the market. They’d do this.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "And nineteen more.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "narration",
+   "text": "Free captains’. The last on the coast. Every one that had come up the mouth when Wendmouth went and hadn’t gone back down, because there was nothing to go back down to. Old men, mostly. Old boats.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p12",
+   "type": "narration",
+   "text": "Twenty-three barges. Six thousand people. Eight leagues.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p13",
+   "type": "narration",
+   "text": "She worked it out on a slate at the Sheepford’s inn table that night. Fifteen days.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 16,
+   "para": "p14",
+   "type": "narration",
+   "text": "The Kittiwake stayed at the Sheepford.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p15",
+   "type": "narration",
+   "text": "Masts down, lashed to the inn’s landing, with Ferris and Lorn aboard to keep her. She didn’t like leaving her. She’d never left her. She stood on the landing in the cold on the first morning and looked at the ketch’s black hull with the masts lying along her deck like a dead bird’s wings.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p16",
+   "type": "speech",
+   "text": "“She’ll be here,”"
+  },
+  {
+   "seq": 19,
+   "para": "p16",
+   "type": "narration",
+   "text": "said Ferris.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p17",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p18",
+   "type": "speech",
+   "text": "“Go on, then,”"
+  },
+  {
+   "seq": 22,
+   "para": "p18",
+   "type": "narration",
+   "text": "said Ferris.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 23,
+   "para": "p19",
+   "type": "narration",
+   "text": "Jory was on the first barge with her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p20",
+   "type": "narration",
+   "text": "At the bow, with a pole. Taller than the summer. His voice going down. He’d come back from the far shore with the farmer’s dragon and he didn’t talk about it and she didn’t ask. He poled.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p21",
+   "type": "narration",
+   "text": "Tansy, Nye and Corrie on the others. Corrie back from writing for the old man; Davin did it now, at the hub. Gannet on hers.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 26,
+   "para": "p22",
+   "type": "narration",
+   "text": "They poled.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p23",
+   "type": "narration",
+   "text": "And towed. On the Saltreach bank there was a towpath, of sorts. The drovers’ road along the river. She put horses on it, what horses the Sheepford had, with ropes out to the barges, walking north. On the Hearthmere bank there wasn’t a path; there were dead fields and frozen ditches and nothing to pull with.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p24",
+   "type": "narration",
+   "text": "Until the tuskers.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 29,
+   "para": "p25",
+   "type": "narration",
+   "text": "Quell lent them on the two-hundred-and-ninety-eighth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p26",
+   "type": "narration",
+   "text": "Six. From the nineteen that had come down the ice from Vael. Quell came down the Hearthmere bank with them herself, on foot, in her too-big coat, with two Isvaren drovers, and stood on the frozen bank above the barges and looked at Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p27",
+   "type": "speech",
+   "text": "“They’ll pull,”"
+  },
+  {
+   "seq": 32,
+   "para": "p27",
+   "type": "narration",
+   "text": "said Quell."
+  },
+  {
+   "seq": 33,
+   "para": "p27",
+   "type": "speech",
+   "text": "“If you ask them.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p28",
+   "type": "speech",
+   "text": "“How do I ask them?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p29",
+   "type": "speech",
+   "text": "“You don’t,”"
+  },
+  {
+   "seq": 36,
+   "para": "p29",
+   "type": "narration",
+   "text": "said Quell."
+  },
+  {
+   "seq": 37,
+   "para": "p29",
+   "type": "speech",
+   "text": "“They do.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 38,
+   "para": "p30",
+   "type": "narration",
+   "text": "The drovers put the ropes round them. Plaited. Round the great red-brown chests, back to the barges. Two barges to a tusker, in a line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p31",
+   "type": "narration",
+   "text": "And they walked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p32",
+   "type": "narration",
+   "text": "North. Up the Hearthmere bank. Through the frozen ditches as if they weren’t there. Slowly. At a tusker’s pace, which is a man’s. With two barges each behind them on the river, and five hundred people on the barges looking at them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p33",
+   "type": "narration",
+   "text": "She felt them through the barge’s planks. A sound too low to hear. In her feet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p34",
+   "type": "speech",
+   "text": "“They’re talking,”"
+  },
+  {
+   "seq": 43,
+   "para": "p34",
+   "type": "narration",
+   "text": "said Jory.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p35",
+   "type": "speech",
+   "text": "“To who?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p36",
+   "type": "speech",
+   "text": "“Each other,”"
+  },
+  {
+   "seq": 46,
+   "para": "p36",
+   "type": "narration",
+   "text": "said Jory."
+  },
+  {
+   "seq": 47,
+   "para": "p36",
+   "type": "speech",
+   "text": "“I think.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 48,
+   "para": "p37",
+   "type": "narration",
+   "text": "It took fifteen days. As she’d said on the slate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p38",
+   "type": "narration",
+   "text": "Up and back. Up and back. Eight leagues up with fifty or sixty aboard each and the stores, two days, poling and towing against the grey water. Eight leagues back empty, a day. Up again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p39",
+   "type": "narration",
+   "text": "Salt fish. Rope. The last of Wendmouth’s grain, in sacks. Children. Old women. A goat. A Saffery factor’s desk, which she put over the side at Cutter’s Elbow when he wasn’t looking.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 51,
+   "para": "p40",
+   "type": "narration",
+   "text": "They lost one barge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p41",
+   "type": "narration",
+   "text": "At Cutter’s Elbow. The bend two leagues above the Sheepford, where the river went round a gravel shoal and the ice built up on the shoal in the cold. One of the free captains’ barges, an old one, too heavy, going onto the ice-shoal sideways and her bottom opening.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p42",
+   "type": "narration",
+   "text": "Nobody drowned.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p43",
+   "type": "narration",
+   "text": "They got everyone off onto the next barge, across planks, in the dark, with the old captain standing on his own sinking deck handing children over and swearing. He came off last. He stood on her deck and watched his barge go down in the grey water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p44",
+   "type": "narration",
+   "text": "She gave him a pole.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 56,
+   "para": "p45",
+   "type": "narration",
+   "text": "The houses came on the two-hundred-and-ninety-ninth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 57,
+   "para": "p46",
+   "type": "narration",
+   "text": "Down the towpath from the hub. Two of them. Walking. In good coats.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p47",
+   "type": "narration",
+   "text": "Saffery’s factor, a thin man with a cold. And Fosse.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p48",
+   "type": "narration",
+   "text": "Grey coat with the Ostrey cuff. Round spectacles. Soft hands. Smiling. He’d come all the way down from the hub on foot to meet her barge at the mooring above Cutter’s Elbow, and he stood on the bank and smiled at her as he’d smiled at Blackwater’s chain.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p49",
+   "type": "speech",
+   "text": "“Mistress Merrin.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p50",
+   "type": "speech",
+   "text": "“Master Fosse.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 62,
+   "para": "p51",
+   "type": "speech",
+   "text": "“The houses’ freight,”"
+  },
+  {
+   "seq": 63,
+   "para": "p51",
+   "type": "narration",
+   "text": "said Fosse.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p52",
+   "type": "narration",
+   "text": "He held up a book. Saffery’s man held up another.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p53",
+   "type": "speech",
+   "text": "“By the custom,”"
+  },
+  {
+   "seq": 66,
+   "para": "p53",
+   "type": "narration",
+   "text": "said Fosse."
+  },
+  {
+   "seq": 67,
+   "para": "p53",
+   "type": "speech",
+   "text": "“Per head carried, per barrel. The houses’ people, the houses’ goods. Ostrey’s and Saffery’s and the rest.”"
+  },
+  {
+   "seq": 68,
+   "para": "p53",
+   "type": "narration",
+   "text": "He opened his book."
+  },
+  {
+   "seq": 69,
+   "para": "p53",
+   "type": "speech",
+   "text": "“The houses will settle with you. As is right. At the river’s rate, in winter, against the current.”"
+  },
+  {
+   "seq": 70,
+   "para": "p53",
+   "type": "narration",
+   "text": "He smiled."
+  },
+  {
+   "seq": 71,
+   "para": "p53",
+   "type": "speech",
+   "text": "“And salt on it.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 72,
+   "para": "p54",
+   "type": "narration",
+   "text": "She looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p55",
+   "type": "narration",
+   "text": "At the book. At the little pouch of salt on Saffery’s man’s belt, ready.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p56",
+   "type": "narration",
+   "text": "At the fifty people on her barge, behind her, from Wendmouth’s waterfront. Ostrey’s people, some of them. Saffery’s. The houses’. Who the houses had left on the floating market when the Bell came, because the houses wouldn’t leave their stock.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 75,
+   "para": "p57",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 76,
+   "para": "p57",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p58",
+   "type": "narration",
+   "text": "Fosse’s smile didn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p59",
+   "type": "speech",
+   "text": "“Mistress Merrin, it’s the custom. The houses pay their freight.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p60",
+   "type": "speech",
+   "text": "“I’m unsalted,”"
+  },
+  {
+   "seq": 80,
+   "para": "p60",
+   "type": "narration",
+   "text": "said Kit."
+  },
+  {
+   "seq": 81,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Since the ninety-fourth. By the Council’s finding.”"
+  },
+  {
+   "seq": 82,
+   "para": "p60",
+   "type": "narration",
+   "text": "She looked at the salt pouch."
+  },
+  {
+   "seq": 83,
+   "para": "p60",
+   "type": "speech",
+   "text": "“I can’t take your salt. And you can’t take mine. That’s what it means. You told me so yourself, at the chain.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 84,
+   "para": "p61",
+   "type": "speech",
+   "text": "“The Accord, then,”"
+  },
+  {
+   "seq": 85,
+   "para": "p61",
+   "type": "narration",
+   "text": "said Fosse. Smoothly."
+  },
+  {
+   "seq": 86,
+   "para": "p61",
+   "type": "speech",
+   "text": "“The Accord pays you at cost. The Marshal’s warrant. I’ve seen it. The houses can settle with the Accord, and the Accord with you.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p62",
+   "type": "narration",
+   "text": "She thought about it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p63",
+   "type": "narration",
+   "text": "The cost tally. She’d kept it since the hundred-and-ninety-second, when the warrant came. Every barrel. Every head. Every day’s hire of a horse. Every pole. In the back of her mother’s book, in her quick bad hand, a column of figures going down three pages. At cost. Not a copper over. She’d been proud of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p64",
+   "type": "narration",
+   "text": "She took the book out of her coat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p65",
+   "type": "narration",
+   "text": "She found the pages.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 91,
+   "para": "p66",
+   "type": "narration",
+   "text": "She tore them out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p67",
+   "type": "narration",
+   "text": "All three. And tore them across. And again. And let the pieces go over the side into the grey water, where they turned and went away downriver toward the sea.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p68",
+   "type": "speech",
+   "text": "“I’ve stopped counting it,”"
+  },
+  {
+   "seq": 94,
+   "para": "p68",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 95,
+   "para": "p69",
+   "type": "narration",
+   "text": "Fosse watched the pieces go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p70",
+   "type": "narration",
+   "text": "He didn’t stop smiling. She didn’t think he could. But he looked at her for a long time over his spectacles, and then he closed his book.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p71",
+   "type": "speech",
+   "text": "“That’s not a contract,”"
+  },
+  {
+   "seq": 98,
+   "para": "p71",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p72",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 100,
+   "para": "p72",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p73",
+   "type": "speech",
+   "text": "“It can’t be. There’s no price.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p74",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 103,
+   "para": "p74",
+   "type": "narration",
+   "text": "said Kit."
+  },
+  {
+   "seq": 104,
+   "para": "p74",
+   "type": "speech",
+   "text": "“There isn’t.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 105,
+   "para": "p75",
+   "type": "narration",
+   "text": "He went back up the towpath with Saffery’s man.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p76",
+   "type": "narration",
+   "text": "She watched them go. Then she turned round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p77",
+   "type": "narration",
+   "text": "Jory was looking at her from the bow. With his pole. And behind him, on the next barge, an old free captain with a one-eyed dog on his deck was looking at her too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p78",
+   "type": "narration",
+   "text": "Dace Overy. Seventy. Who’d sailed the Coast Road for fifty years and never carried a thing without a price on it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 109,
+   "para": "p79",
+   "type": "narration",
+   "text": "He came across on a plank that evening.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p80",
+   "type": "narration",
+   "text": "With his dog. He sat on the edge of her barge’s hold with his old hands on his knees and looked at the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p81",
+   "type": "speech",
+   "text": "“You tore it up,”"
+  },
+  {
+   "seq": 112,
+   "para": "p81",
+   "type": "narration",
+   "text": "said Dace Overy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p82",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p83",
+   "type": "narration",
+   "text": "He nodded for a while.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p84",
+   "type": "narration",
+   "text": "Then he got a slate out of his coat, a little one, with chalk marks on it, columns, and licked his thumb, and wiped it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p85",
+   "type": "speech",
+   "text": "“There,”"
+  },
+  {
+   "seq": 117,
+   "para": "p85",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 118,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Mine too.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p86",
+   "type": "narration",
+   "text": "He went back across the plank.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 120,
+   "para": "p87",
+   "type": "narration",
+   "text": "By the end of the run, all nineteen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p88",
+   "type": "narration",
+   "text": "One by one. The free captains. Not all at once. A wiped slate. A torn page. A tally-stick put on a fire. An old woman captain from Gullhaven who’d never learned her letters and kept her freight in knots on a string, untying the knots one by one at her tiller with her teeth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p89",
+   "type": "narration",
+   "text": "Nobody said anything about it. Nobody made a speech. Saltreach didn’t do speeches.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p90",
+   "type": "narration",
+   "text": "They just stopped counting.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 124,
+   "para": "p91",
+   "type": "narration",
+   "text": "She thought, on the river, that that was the last thing Saltreach would ever do.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p92",
+   "type": "narration",
+   "text": "Not the Council. Not the houses. The Council had drowned with Marrow at Corsa. The houses were in a hay-barn at the hub with their books, arguing with Pike about freight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p93",
+   "type": "narration",
+   "text": "Saltreach. The coast. The free captains. The people who’d carried things up and down that sea for three hundred years and never once for nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p94",
+   "type": "narration",
+   "text": "Carrying for nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p95",
+   "type": "narration",
+   "text": "It was the last thing. She was sure of it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 129,
+   "para": "p96",
+   "type": "narration",
+   "text": "Gannet told her on the night of the three-hundred-and-fourth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 130,
+   "para": "p97",
+   "type": "narration",
+   "text": "At the mooring above Cutter’s Elbow. On her barge, on the way up, with fifty asleep in the hold under canvas and the tuskers lying down on the frozen bank like hills. She had the tiller watch. He came aft and sat down on the deck beside her, in the dark, with his back against the rail.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p98",
+   "type": "narration",
+   "text": "He’d been quiet since the Lit Shore. Since he’d carried the old man’s notes up the hill and copied the light by the fire. His smile had gone out on the far shore and not come back. He poled. He ate. He didn’t whistle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p99",
+   "type": "speech",
+   "text": "“Kit,”"
+  },
+  {
+   "seq": 133,
+   "para": "p99",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 134,
+   "para": "p100",
+   "type": "speech",
+   "text": "“I sold them,”"
+  },
+  {
+   "seq": 135,
+   "para": "p100",
+   "type": "narration",
+   "text": "said Gannet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p101",
+   "type": "narration",
+   "text": "She didn’t say anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p102",
+   "type": "speech",
+   "text": "“The old man’s notes. The ones I copied. On the far shore. In the hold, before.”"
+  },
+  {
+   "seq": 138,
+   "para": "p102",
+   "type": "narration",
+   "text": "He was looking at the river."
+  },
+  {
+   "seq": 139,
+   "para": "p102",
+   "type": "speech",
+   "text": "“All of it. What he said in the hold at Blackwater. Breath. Unbound. The lines in the light. The things the knight wrote down for him. Some of your mother’s book, too, from before. The milestones.”",
+   "how": "very quietly"
+  },
+  {
+   "seq": 140,
+   "para": "p102",
+   "type": "narration",
+   "text": "He breathed."
+  },
+  {
+   "seq": 141,
+   "para": "p102",
+   "type": "speech",
+   "text": "“To Fosse. In Ostrey’s counting-house. On the hundred-and-eighty-ninth. You saw me come out.”",
+   "how": "very quietly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p103",
+   "type": "speech",
+   "text": "“I saw you.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p104",
+   "type": "speech",
+   "text": "“You thought it was far-stone.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p105",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p106",
+   "type": "speech",
+   "text": "“It wasn’t,”"
+  },
+  {
+   "seq": 146,
+   "para": "p106",
+   "type": "narration",
+   "text": "said Gannet.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 147,
+   "para": "p107",
+   "type": "narration",
+   "text": "The river went by. Grey. Under the ice-skin at the edges.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p108",
+   "type": "speech",
+   "text": "“What did he give you?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p109",
+   "type": "speech",
+   "text": "“A purse. Ostrey silver.”",
+   "mood": "humour"
+  },
+  {
+   "seq": 150,
+   "para": "p109",
+   "type": "narration",
+   "text": "He laughed. Not his old laugh.",
+   "mood": "humour"
+  },
+  {
+   "seq": 151,
+   "para": "p109",
+   "type": "speech",
+   "text": "“I’ve still got most of it. There’s nothing to spend it on.”",
+   "mood": "humour",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 152,
+   "para": "p110",
+   "type": "speech",
+   "text": "“Where did they go?”"
+  },
+  {
+   "seq": 153,
+   "para": "p110",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p111",
+   "type": "speech",
+   "text": "“I don’t know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p112",
+   "type": "speech",
+   "text": "“Gannet.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p113",
+   "type": "speech",
+   "text": "“I don’t know, Kit.”"
+  },
+  {
+   "seq": 157,
+   "para": "p113",
+   "type": "narration",
+   "text": "He turned his head and looked at her for the first time."
+  },
+  {
+   "seq": 158,
+   "para": "p113",
+   "type": "speech",
+   "text": "“Fosse sells on. That’s what Ostrey does. Everything it buys. To whoever pays. A copy to this court, a copy to that one, a copy to anyone with the silver. I don’t know where. I didn’t ask.”"
+  },
+  {
+   "seq": 159,
+   "para": "p113",
+   "type": "narration",
+   "text": "He looked back at the river."
+  },
+  {
+   "seq": 160,
+   "para": "p113",
+   "type": "speech",
+   "text": "“I didn’t want to know.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 161,
+   "para": "p114",
+   "type": "speech",
+   "text": "“Why?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p115",
+   "type": "narration",
+   "text": "He was quiet a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p116",
+   "type": "speech",
+   "text": "“I’ve been crew thirty years,”"
+  },
+  {
+   "seq": 164,
+   "para": "p116",
+   "type": "narration",
+   "text": "said Gannet."
+  },
+  {
+   "seq": 165,
+   "para": "p116",
+   "type": "speech",
+   "text": "“Your father’s, one summer at the Teeth. Yours. Other houses’ before that. Crew. Never house. Never a share. Never a purse that was mine.”"
+  },
+  {
+   "seq": 166,
+   "para": "p116",
+   "type": "narration",
+   "text": "He put his hands on his knees."
+  },
+  {
+   "seq": 167,
+   "para": "p116",
+   "type": "speech",
+   "text": "“Fosse had a purse. I wanted one. That’s all. That’s all it was.”",
+   "how": "very quietly"
+  },
+  {
+   "seq": 168,
+   "para": "p116",
+   "type": "narration",
+   "text": "He breathed out."
+  },
+  {
+   "seq": 169,
+   "para": "p116",
+   "type": "speech",
+   "text": "“I knew it was wrong. I did it anyway. And I’ve been sick with it since the old man stood on the hill and cried.”",
+   "how": "very quietly",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 170,
+   "para": "p117",
+   "type": "narration",
+   "text": "She didn’t hit him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p118",
+   "type": "narration",
+   "text": "She thought about it. She’d have hit a man for less, once. For a tide-table. For a pilot’s mark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p119",
+   "type": "narration",
+   "text": "She sat at the tiller and looked at Gannet, who’d sailed with her father, who’d carried the old man up a hill on the far shore so that he wouldn’t fall off a horse, and who’d sold the far shore to Ostrey for a purse he had nothing to spend on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p120",
+   "type": "speech",
+   "text": "“You’ll pole tomorrow,”"
+  },
+  {
+   "seq": 174,
+   "para": "p120",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p121",
+   "type": "narration",
+   "text": "He looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p122",
+   "type": "speech",
+   "text": "“At the bow. With Jory,”"
+  },
+  {
+   "seq": 177,
+   "para": "p122",
+   "type": "narration",
+   "text": "said Kit."
+  },
+  {
+   "seq": 178,
+   "para": "p122",
+   "type": "speech",
+   "text": "“All day. And the day after.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p123",
+   "type": "narration",
+   "text": "Gannet nodded slowly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p124",
+   "type": "narration",
+   "text": "He poled.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 181,
+   "para": "p125",
+   "type": "narration",
+   "text": "She told the old man on the three-hundred-and-eighth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p126",
+   "type": "narration",
+   "text": "At the ferry house. At the kitchen table, with Liss’s tea, and two knights and a hound outside the kitchen door, and the old man in his blanket in the chair by the fire with his hands shaking round his cup.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p127",
+   "type": "narration",
+   "text": "She told him all of it. What Gannet had said. The purse. Fosse. Selling on.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 184,
+   "para": "p128",
+   "type": "narration",
+   "text": "He shrugged.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p129",
+   "type": "narration",
+   "text": "She hadn’t expected that. She’d thought he’d be angry. Or frightened. He shrugged, in his blanket, and drank his tea, and spilled some of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p130",
+   "type": "speech",
+   "text": "“Half the courts in Winshire,”"
+  },
+  {
+   "seq": 187,
+   "para": "p130",
+   "type": "narration",
+   "text": "said Idony,"
+  },
+  {
+   "seq": 188,
+   "para": "p130",
+   "type": "speech",
+   "text": "“have bought a copy of something I wrote, mistress.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p131",
+   "type": "narration",
+   "text": "She looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p132",
+   "type": "speech",
+   "text": "“The College sold my tide-charts to Kessmoor for eleven years,”"
+  },
+  {
+   "seq": 191,
+   "para": "p132",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 192,
+   "para": "p132",
+   "type": "speech",
+   "text": "“Sarovel’s Grace-priests had my lamp notes. The crown bought my Glasswater readings and never read them. Everyone buys what I write.”"
+  },
+  {
+   "seq": 193,
+   "para": "p132",
+   "type": "narration",
+   "text": "He smiled a little."
+  },
+  {
+   "seq": 194,
+   "para": "p132",
+   "type": "speech",
+   "text": "“Almost nobody reads it.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 195,
+   "para": "p133",
+   "type": "speech",
+   "text": "“These were the far shore’s,”"
+  },
+  {
+   "seq": 196,
+   "para": "p133",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p134",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p135",
+   "type": "narration",
+   "text": "He thought about that. She watched him think. His eyes went away, as they did, to wherever he kept things.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p136",
+   "type": "narration",
+   "text": "Then they came back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p137",
+   "type": "speech",
+   "text": "“Then whoever bought them,”"
+  },
+  {
+   "seq": 201,
+   "para": "p137",
+   "type": "narration",
+   "text": "said Idony,"
+  },
+  {
+   "seq": 202,
+   "para": "p137",
+   "type": "speech",
+   "text": "“has a great many lines in an old tongue, and Gannet’s spelling, and my guesses in the margin.”"
+  },
+  {
+   "seq": 203,
+   "para": "p137",
+   "type": "narration",
+   "text": "He put his cup down."
+  },
+  {
+   "seq": 204,
+   "para": "p137",
+   "type": "speech",
+   "text": "“I wish them joy of it. It took me a year and a god to read it. It’ll take them longer.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p138",
+   "type": "narration",
+   "text": "When she got up to go he asked, not looking up, whether Quell’s people had brought any word of the ferry on Glasswater, of a woman called Nessa. They hadn’t, and he nodded at the fire as if he’d known.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 206,
+   "para": "p139",
+   "type": "narration",
+   "text": "She went back down the river that afternoon for the last load.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 207,
+   "para": "p140",
+   "type": "narration",
+   "text": "The last barge came in on the three-hundred-and-tenth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p141",
+   "type": "narration",
+   "text": "At dusk. Hers. With the last fifty from the Sheepford, and the goat, and Dace Overy’s dog, which had decided it was hers. Up the last league of grey river to the hub with the tuskers pulling on the bank and the walls coming up out of the dusk ahead, one on each side.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p142",
+   "type": "narration",
+   "text": "Fifteen days. As she’d said on the slate.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 210,
+   "para": "p143",
+   "type": "narration",
+   "text": "They came in under the eastern rampart.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p144",
+   "type": "narration",
+   "text": "She looked up at it from the tiller. Grey. Straight. Twice a man’s height. Going away from the river into the dusk, east, a league, as if somebody had drawn it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p145",
+   "type": "narration",
+   "text": "And on its top, at the river end, the hill.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 213,
+   "para": "p146",
+   "type": "narration",
+   "text": "The lion.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p147",
+   "type": "narration",
+   "text": "Lying along the top of the wall. His great grey head on his paws at the wall’s end, over the water, and his mane hanging over the edge, burned black on one side. His eyes shut. Breathing. She could see him breathe. Slowly. Like the sea.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 215,
+   "para": "p148",
+   "type": "narration",
+   "text": "And against his foreleg, small, a woman.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 216,
+   "para": "p149",
+   "type": "narration",
+   "text": "Asleep.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p150",
+   "type": "narration",
+   "text": "Sitting on the wall’s top in the cold with her back against the lion’s leg and her head against his stone. In a blue coat that was too big for her. A Warden’s. A bandaged hand in her lap. Her face, the grey side, turned up to the dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p151",
+   "type": "narration",
+   "text": "Not moving.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 219,
+   "para": "p152",
+   "type": "narration",
+   "text": "Kit stood up at the tiller.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p153",
+   "type": "speech",
+   "text": "“Six thousand and twelve,”"
+  },
+  {
+   "seq": 221,
+   "para": "p153",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 222,
+   "para": "p154",
+   "type": "narration",
+   "text": "Up at the wall. Not loud. The whole count, off the water and up the river, every head of it. She’d kept that one. She’d only stopped counting the price.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p155",
+   "type": "narration",
+   "text": "The woman didn’t wake. The lion’s eye opened, pale, and looked down at the barge going by under it, and shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p156",
+   "type": "narration",
+   "text": "They went on up past the wall to the landing in the dusk, and tied up, and that was the last of it.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "314c990e132e888f37f72c8113b5b2e5f7e49d28",
+ "segments_sha1": "e0c9bcf7338ab4c2cbf247150e311c367813cf53"
+}

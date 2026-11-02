@@ -2,6 +2,16 @@
  "chapter": 77,
  "title": "Midnight",
  "pov": "Maren",
+ "source": "Chapters/Chapter 77 - Midnight.md",
+ "names": [
+  "callis",
+  "cassian",
+  "greyhold",
+  "maren",
+  "orrun",
+  "pell",
+  "tobin"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1490,5 +1500,8 @@
    "mood": "tender",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "bd430648a934cdf7049c7466d7ad39060c70496e",
+ "segments_sha1": "e2bacfbcb54a681131b0ad7e577add0fb7671ac8"
 }

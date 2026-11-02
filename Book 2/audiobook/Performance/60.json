@@ -1,0 +1,1683 @@
+{
+ "chapter": 60,
+ "title": "The Sun Stair",
+ "pov": "",
+ "source": "Chapters/Chapter 60 - The Sun Stair.md",
+ "names": [
+  "bond",
+  "grace",
+  "idony",
+  "library",
+  "maren",
+  "orrun",
+  "scald",
+  "titan",
+  "tobin",
+  "vael"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Sixty.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Sun Stair.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "speech",
+   "text": "“The three-hundred-and-fifteenth,”"
+  },
+  {
+   "seq": 4,
+   "para": "p1",
+   "type": "narration",
+   "text": "said Tobin."
+  },
+  {
+   "seq": 5,
+   "para": "p1",
+   "type": "speech",
+   "text": "“Near noon.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p2",
+   "type": "narration",
+   "text": "He said it in the stable door in the morning, on the three-hundred-and-twelfth day, while she was still sitting in the straw with her boots on and Orrun’s head against her back. He’d waited for her to wake. He’d been waiting, he said, all night, on the ladder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p3",
+   "type": "speech",
+   "text": "“He came,”"
+  },
+  {
+   "seq": 8,
+   "para": "p3",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p4",
+   "type": "speech",
+   "text": "“He came. Wouldn’t wake you.”"
+  },
+  {
+   "seq": 10,
+   "para": "p4",
+   "type": "narration",
+   "text": "Tobin sat down in the straw."
+  },
+  {
+   "seq": 11,
+   "para": "p4",
+   "type": "speech",
+   "text": "“Collars are cracking, he says. All of them. The unicorn’s right across. One of the court’s hands burned up at a banquet in front of everybody and they clapped.”"
+  },
+  {
+   "seq": 12,
+   "para": "p4",
+   "type": "narration",
+   "text": "He looked at the straw."
+  },
+  {
+   "seq": 13,
+   "para": "p4",
+   "type": "speech",
+   "text": "“And the tall one came to him. Corvin. With the box. Wanted teaching the words. For the chains.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p5",
+   "type": "speech",
+   "text": "“What did he…”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p6",
+   "type": "speech",
+   "text": "“Said no,”"
+  },
+  {
+   "seq": 16,
+   "para": "p6",
+   "type": "narration",
+   "text": "said Tobin."
+  },
+  {
+   "seq": 17,
+   "para": "p6",
+   "type": "speech",
+   "text": "“I asked him to say it twice.”"
+  },
+  {
+   "seq": 18,
+   "para": "p6",
+   "type": "narration",
+   "text": "He didn’t look up."
+  },
+  {
+   "seq": 19,
+   "para": "p6",
+   "type": "speech",
+   "text": "“He didn’t.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 20,
+   "para": "p7",
+   "type": "narration",
+   "text": "She went down to the shore with Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p8",
+   "type": "narration",
+   "text": "To the edge of the low quarter, where the mud-brick houses gave out onto shingle and the unchosen kept their boats. Small boats, fishing boats, pulled up on the stones. From there you could see along the bay to the cliff at its western end, where the palace stood.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p9",
+   "type": "narration",
+   "text": "And the stair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p10",
+   "type": "narration",
+   "text": "White. Going down the face of the cliff in long zigzags from the palace’s lower terrace to the sea. Cut into the rock. Hundreds of steps. And at the bottom, at the water, a landing. Small, white, a square of stone at the cliff’s foot. With a mooring for a boat. A barge, gilded, rocking there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p11",
+   "type": "narration",
+   "text": "And set into the cliff at the back of the landing, the shrine.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p12",
+   "type": "narration",
+   "text": "A portico. White columns, four of them. A gilded sun over the top. And between the columns, doors. Bronze. Shut. Two men in white and gold standing in front of them with halberds.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p13",
+   "type": "speech",
+   "text": "“There,”"
+  },
+  {
+   "seq": 27,
+   "para": "p13",
+   "type": "narration",
+   "text": "said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p14",
+   "type": "narration",
+   "text": "She felt it through him. Under the landing. Under the cliff. A fullness. A pressing. Like Vael’s hill. Like the stone under the Scald.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p15",
+   "type": "speech",
+   "text": "“It is under there,”"
+  },
+  {
+   "seq": 30,
+   "para": "p15",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 31,
+   "para": "p15",
+   "type": "speech",
+   "text": "“My kin. The one with the horn.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 32,
+   "para": "p16",
+   "type": "narration",
+   "text": "She couldn’t go down the stair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p17",
+   "type": "narration",
+   "text": "She knew that without asking. The stair was the crown’s. The court went down it on feast-days to kneel at the bottom. Hands weren’t let on it. The unchosen weren’t. She was the Lady of the Lion, and they’d have knelt to her at the top of it, and sent a man to ask the chamberlain, and the chamberlain would have asked the Bond-King, and the Bond-King would have asked the guest who ate with him every night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p18",
+   "type": "narration",
+   "text": "The bottom of the stair was at the sea.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p19",
+   "type": "speech",
+   "text": "“Can you swim it?”"
+  },
+  {
+   "seq": 36,
+   "para": "p19",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p20",
+   "type": "narration",
+   "text": "Orrun looked at the water. The bay. Blue, and calm, and a league across from the low quarter’s shore to the landing under the cliff.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p21",
+   "type": "speech",
+   "text": "“I swam the river,”"
+  },
+  {
+   "seq": 39,
+   "para": "p21",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 40,
+   "para": "p21",
+   "type": "speech",
+   "text": "“In the dark. With the greys.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p22",
+   "type": "speech",
+   "text": "“This is the sea.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p23",
+   "type": "speech",
+   "text": "“It is water,”"
+  },
+  {
+   "seq": 43,
+   "para": "p23",
+   "type": "narration",
+   "text": "said Orrun.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 44,
+   "para": "p24",
+   "type": "narration",
+   "text": "The old man’s nephew rowed her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p25",
+   "type": "narration",
+   "text": "He was a fisherman. Unchosen. Thin, brown, with a gap in his teeth. He’d painted the gold lion on the wine-inn’s door, the old man said, with gold leaf he’d scraped off a rich man’s boat he’d been mending. He didn’t say anything when she asked him. He went and got his oars.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p26",
+   "type": "narration",
+   "text": "They went on the morning of the three-hundred-and-fifteenth day, in the grey before the sun came over the hills.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p27",
+   "type": "narration",
+   "text": "Behind them, out on its rock off the bay’s eastern horn, the lighthouse was still lit. White, too bright, the Grace in it like everything else. The fisherman rowed facing it, and once he lifted his chin at it, past her shoulder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p28",
+   "type": "speech",
+   "text": "“Mother Ysa’s,”"
+  },
+  {
+   "seq": 49,
+   "para": "p28",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 50,
+   "para": "p28",
+   "type": "speech",
+   "text": "“Thirty years she’s kept it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p29",
+   "type": "narration",
+   "text": "It was all he said the whole way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p30",
+   "type": "narration",
+   "text": "The boat was small. She sat in the stern. He rowed, steadily, along the bay, under the white city, close in under the walls where the water was deep and dark. And beside the boat, in the water, Orrun swam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p31",
+   "type": "narration",
+   "text": "She’d never seen it. Only felt it, on the night of the river, in the dark, as a weight beside her in the cold. Now she saw. The great grey lion, longer than the boat, three times longer, swimming. Low in the water, with his head up and his broken-rock mane spread on the surface round him like weed on a rock. His legs going slow and steady under the blue. A wake behind him like a ship’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p32",
+   "type": "narration",
+   "text": "The fisherman looked at him and rowed faster.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 55,
+   "para": "p33",
+   "type": "narration",
+   "text": "The palace was white in daylight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p34",
+   "type": "narration",
+   "text": "She saw it as they came along under the cliff. Every window. A hundred of them. White, blazing, in the grey morning, brighter than the sky. The gilded dome on the top of it glowing as if there were a fire inside. And in the gardens on the cliff-top, the fountains. She could see their water from the bay. Going up. Higher than the garden walls. Higher than the trees. White jets, going up into the grey and falling and going up again, with nobody under them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p35",
+   "type": "narration",
+   "text": "On the hills behind, the grey shape on the ridge stood up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p36",
+   "type": "narration",
+   "text": "She saw it. They all saw it. The fisherman stopped rowing. On the ridge of the Sunward Hills above the palace, where it had lain for fifteen days with its wings folded like a roof, the Titan stood. Slowly. Its forelegs. Its hind legs. Its head lifting. Its wings opening, a little, half, grey against the grey sky.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p37",
+   "type": "narration",
+   "text": "It stood on the ridge and looked down at the palace.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p38",
+   "type": "speech",
+   "text": "“Row,”"
+  },
+  {
+   "seq": 61,
+   "para": "p38",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p39",
+   "type": "narration",
+   "text": "The fisherman rowed.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 63,
+   "para": "p40",
+   "type": "narration",
+   "text": "Orrun came up out of the sea onto the landing like a reef rising.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p41",
+   "type": "narration",
+   "text": "She was on the landing already. The fisherman had brought her in to the steps beside the gilded barge, and she’d got out, and he’d pushed off again at once and rowed away hard along the cliff without looking back, which she didn’t blame him for. She stood on the white stone in front of the shrine.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p42",
+   "type": "narration",
+   "text": "The two guards looked at her. Then at the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p43",
+   "type": "narration",
+   "text": "Then at the lion, coming up out of it. The sea pouring off his mane and his back and his flanks in sheets. Up the landing steps. Bigger than the portico. Bigger than the shrine. Standing on the white stone with the water running off him and his gold eyes on the bronze doors.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p44",
+   "type": "narration",
+   "text": "The guards dropped their halberds.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p45",
+   "type": "narration",
+   "text": "They went down on their knees on the landing with the halberds clattering on the stone beside them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Lady,”"
+  },
+  {
+   "seq": 70,
+   "para": "p46",
+   "type": "narration",
+   "text": "said one."
+  },
+  {
+   "seq": 71,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Lady of the Lion.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p47",
+   "type": "speech",
+   "text": "“Go up the stair,”"
+  },
+  {
+   "seq": 73,
+   "para": "p47",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p48",
+   "type": "narration",
+   "text": "They looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p49",
+   "type": "speech",
+   "text": "“Please,”"
+  },
+  {
+   "seq": 76,
+   "para": "p49",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 77,
+   "para": "p49",
+   "type": "speech",
+   "text": "“Go up the stair. Now. Don’t come back down.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p50",
+   "type": "narration",
+   "text": "They went.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 79,
+   "para": "p51",
+   "type": "narration",
+   "text": "The bronze doors were open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p52",
+   "type": "narration",
+   "text": "She saw it when she turned. Open, a hand’s breadth. Somebody had come through them before her. Since the night. And left them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p53",
+   "type": "narration",
+   "text": "She pushed one. It swung in, slowly, heavy, on oiled hinges.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p54",
+   "type": "narration",
+   "text": "The shrine.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p55",
+   "type": "narration",
+   "text": "A white room. Domed. Round. White marble on the floor and the walls and the dome, and lamps. A hundred of them. Plain glass globes on gilded brackets round the walls, blazing, so white she had to put her hand up over her eyes. On the far wall, a gilded sun, as big as a cartwheel, with long rays. And under it, an altar. A low slab of white marble with cushions in front of it for kneeling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p56",
+   "type": "narration",
+   "text": "Where the crowned line knelt. Nine kings.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p57",
+   "type": "narration",
+   "text": "Orrun came in behind her. He had to put his head down to get through the doors. He stood in the white room with the lamps burning on his wet mane and put his chin down to the marble floor.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p58",
+   "type": "speech",
+   "text": "“Under,”"
+  },
+  {
+   "seq": 87,
+   "para": "p58",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 88,
+   "para": "p58",
+   "type": "speech",
+   "text": "“Old stone. Under the white.”"
+  },
+  {
+   "seq": 89,
+   "para": "p58",
+   "type": "narration",
+   "text": "He was very still."
+  },
+  {
+   "seq": 90,
+   "para": "p58",
+   "type": "speech",
+   "text": "“It is so full.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 91,
+   "para": "p59",
+   "type": "narration",
+   "text": "The marble behind the altar was broken.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p60",
+   "type": "narration",
+   "text": "She saw it when her eyes stopped watering. Behind the altar, at the foot of the wall under the gilded sun, the white marble facing had been smashed off. Chunks of it lying on the floor. Hammer marks. And behind it, grey. Old stone. Dressed so close you couldn’t see the joins.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p61",
+   "type": "narration",
+   "text": "Cut in it, the hooked script. In rings. Round a carved door that wasn’t a door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p62",
+   "type": "narration",
+   "text": "Like the one under the Scald.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p63",
+   "type": "narration",
+   "text": "And in front of it, men.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 96,
+   "para": "p64",
+   "type": "narration",
+   "text": "Nine of them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p65",
+   "type": "narration",
+   "text": "She knew the one in front. A grey beard. Hands behind his back. A plain coat. Standing by the broken marble with eight men behind him in hunters’ coats with crossbows.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p66",
+   "type": "narration",
+   "text": "And among them, at the side, standing on the bared grey stone with his feet apart, a lean grey man in a plain coat. She didn’t know him. She knew what he was by the way he stood. A drawer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p67",
+   "type": "narration",
+   "text": "The captain looked at her. At the lion behind her, filling the shrine.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p68",
+   "type": "speech",
+   "text": "“Lady,”"
+  },
+  {
+   "seq": 101,
+   "para": "p68",
+   "type": "narration",
+   "text": "he said. Pleasantly. As Idony had said he spoke."
+  },
+  {
+   "seq": 102,
+   "para": "p68",
+   "type": "speech",
+   "text": "“You’ll forgive us. We’ve been here since the small hours. We can’t get it open.”"
+  },
+  {
+   "seq": 103,
+   "para": "p68",
+   "type": "narration",
+   "text": "He nodded at the carved door."
+  },
+  {
+   "seq": 104,
+   "para": "p68",
+   "type": "speech",
+   "text": "“The hammers won’t touch it. Our drawer won’t touch it. My master thought you might.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p69",
+   "type": "narration",
+   "text": "The crossbows came up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p70",
+   "type": "narration",
+   "text": "Not at Orrun. At her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 107,
+   "para": "p71",
+   "type": "narration",
+   "text": "Orrun went past them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p72",
+   "type": "narration",
+   "text": "He didn’t look at the crossbows. He didn’t look at the men. He went across the white floor between the cushions and round the altar, slowly, with his head low, and the men got out of his way because there wasn’t anywhere else to be. He put his head against the carved door in the grey stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p73",
+   "type": "narration",
+   "text": "It opened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p74",
+   "type": "narration",
+   "text": "As it had under the Scald. A line, from the floor, thin as a hair, going up. Widening. The stone drawing back on either side like a curtain.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p75",
+   "type": "narration",
+   "text": "Warm air came out. Warmer than the Scald’s. Like the air in a room where somebody has slept all night by a fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p76",
+   "type": "narration",
+   "text": "Orrun went through.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p77",
+   "type": "narration",
+   "text": "She went after him. She didn’t look at the crossbows either.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p78",
+   "type": "narration",
+   "text": "The men came behind her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 115,
+   "para": "p79",
+   "type": "narration",
+   "text": "The temple.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p80",
+   "type": "narration",
+   "text": "She knew it before her eyes knew it. The round room. The dome. The walls glowing from inside the stone so that the lamps from the shrine behind were hardly needed. The six round the walls. The faceless figures. The six hands in the dome, holding up the ring with six hollows. Whole.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p81",
+   "type": "narration",
+   "text": "And under the six, round the walls, below their carved feet, a long band of carving she hadn’t seen under the Scald. Lines. Many of them. And small shapes along them. And words.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p82",
+   "type": "narration",
+   "text": "She didn’t look at it long.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p83",
+   "type": "narration",
+   "text": "She looked at the plinth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p84",
+   "type": "narration",
+   "text": "The squat drum of grey stone in the middle of the floor, waist-high. And in the hollow in its top, the egg-shaped hollow the size of a cart-wheel’s hub, that had been empty under the Ring, and empty at the Scald, and empty at Vael when Idony went down the forty steps:",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p85",
+   "type": "narration",
+   "text": "The egg.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 122,
+   "para": "p86",
+   "type": "narration",
+   "text": "Grey. Old-realm stone. Round, a little longer than round. Lying in the hollow as if it had been put there an hour ago. Carved all over with something long-legged and one-horned and lying down, with rays going out from its head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p87",
+   "type": "narration",
+   "text": "Warm. She could feel it from three paces. Like a loaf just out of the oven.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p88",
+   "type": "narration",
+   "text": "The sleep. Kept outside the sleeper. Like a flame in a lantern.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p89",
+   "type": "narration",
+   "text": "Six temples. She’d stood in three of them now. The other two had been empty. This was the first with the sleep still in it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p90",
+   "type": "narration",
+   "text": "Orrun stood over it and looked at it and didn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p91",
+   "type": "speech",
+   "text": "“Kin,”"
+  },
+  {
+   "seq": 128,
+   "para": "p91",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 129,
+   "para": "p91",
+   "type": "speech",
+   "text": "“Asleep. In there.”"
+  },
+  {
+   "seq": 130,
+   "para": "p91",
+   "type": "narration",
+   "text": "He was very quiet."
+  },
+  {
+   "seq": 131,
+   "para": "p91",
+   "type": "speech",
+   "text": "“If you take it out, it wakes.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 132,
+   "para": "p92",
+   "type": "narration",
+   "text": "She knew that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p93",
+   "type": "narration",
+   "text": "She’d known it since the Library. Since the bird’s telling, on the floor of the hall at Vael, with Orrun at ten paces and the history coming out of the bird’s beak one piece at a time."
+  },
+  {
+   "seq": 134,
+   "para": "p93",
+   "type": "thought",
+   "text": "The lord broke the egg with a hammer. It woke slowly, over days, with the chains already on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p94",
+   "type": "narration",
+   "text": "Take the egg off the plinth, and the flame goes out, and the sleeper wakes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p95",
+   "type": "narration",
+   "text": "She couldn’t take it. If she took it, the thing under the cliff stood up. Now. Today. With the Titan on the hill and the court singing in its chapel and the unicorn on the stair with gold round its neck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p96",
+   "type": "narration",
+   "text": "She couldn’t leave it either. The Titan was coming for it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p97",
+   "type": "narration",
+   "text": "She couldn’t do anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p98",
+   "type": "narration",
+   "text": "She could stand there.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 140,
+   "para": "p99",
+   "type": "narration",
+   "text": "So she stood there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p100",
+   "type": "narration",
+   "text": "In front of the plinth. With Orrun beside her, his great head over the egg. And the nine men in the doorway behind her, with their crossbows, and the lean grey drawer on the old stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p101",
+   "type": "narration",
+   "text": "The captain didn’t come any further in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p102",
+   "type": "speech",
+   "text": "“My master says leave it,”"
+  },
+  {
+   "seq": 144,
+   "para": "p102",
+   "type": "narration",
+   "text": "he said, behind her."
+  },
+  {
+   "seq": 145,
+   "para": "p102",
+   "type": "speech",
+   "text": "“He says don’t touch it. He says watch.”"
+  },
+  {
+   "seq": 146,
+   "para": "p102",
+   "type": "narration",
+   "text": "A pause."
+  },
+  {
+   "seq": 147,
+   "para": "p102",
+   "type": "speech",
+   "text": "“So we’ll watch, Lady. With you.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p103",
+   "type": "narration",
+   "text": "She didn’t turn round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p104",
+   "type": "narration",
+   "text": "They stood on either side of the plinth. Her and the lion in front of it. The hunters behind. Nobody moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p105",
+   "type": "narration",
+   "text": "They waited.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 151,
+   "para": "p106",
+   "type": "narration",
+   "text": "Above, through the stone, she heard the bell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p107",
+   "type": "narration",
+   "text": "Faint. Far up. In the palace. A bell, ringing noon. And then voices.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p108",
+   "type": "narration",
+   "text": "Singing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p109",
+   "type": "narration",
+   "text": "The court. In the palace chapel, high above on the cliff-top, at noon prayers. The hands had told Tobin the court would be there. The Bond-King leading, with the unicorn standing at the chapel door in its gold collar. The whole court in silk, singing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p110",
+   "type": "narration",
+   "text": "She knew the words. She’d heard them at every stage-house on the Sun Road, at dusk, sung by stage-keepers and grooms.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p111",
+   "type": "verse",
+   "text": "Praise to the Sun on the Stair,"
+  },
+  {
+   "seq": 157,
+   "para": "p111",
+   "type": "thought",
+   "text": "who lit the first lamp"
+  },
+  {
+   "seq": 158,
+   "para": "p111",
+   "type": "verse",
+   "text": "and gave it to the crown…",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p112",
+   "type": "narration",
+   "text": "She stood in the temple under the shrine under the stair under the palace, in front of the egg, and listened to the court of Sarovel singing to the thing asleep in it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p113",
+   "type": "thought",
+   "text": "…and keeps it burning"
+  },
+  {
+   "seq": 161,
+   "para": "p113",
+   "type": "thought",
+   "text": "while the crown keeps faith.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 162,
+   "para": "p114",
+   "type": "narration",
+   "text": "The windows broke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p115",
+   "type": "narration",
+   "text": "She heard it. All of them. A long high shattering, coming down through the stone from above, from the palace, from every window at once, like a hundred trays of glasses dropped on a stair. On and on. Coming down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p116",
+   "type": "narration",
+   "text": "The singing stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p117",
+   "type": "narration",
+   "text": "Screaming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p118",
+   "type": "narration",
+   "text": "Then a blow. Through the stone. A thud so hard the temple’s floor jumped under her feet and the hunters behind her staggered. A drawer, she thought. Up there. In the court. A chosen lord’s hand behind a screen, drawing for a show at noon prayers, and the Grace coming up through him like a flood through a sluice. And another. And another.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p119",
+   "type": "narration",
+   "text": "In the shrine behind her the lamps began to burst.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p120",
+   "type": "narration",
+   "text": "One after another, round the walls. She heard them go. Bang. Bang. Like the cracking of ice. The white light going out, globe by globe, and the dark coming in behind.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p121",
+   "type": "narration",
+   "text": "Orrun lifted his head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p122",
+   "type": "speech",
+   "text": "“It is coming,”"
+  },
+  {
+   "seq": 171,
+   "para": "p122",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 172,
+   "para": "p123",
+   "type": "narration",
+   "text": "Corvin came down the stair at noon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p124",
+   "type": "narration",
+   "text": "She heard his feet. Through the open bronze doors of the shrine, on the white landing, coming down the last of the stair’s steps from above. Not running. Quiet. Even. Unhurried. Through the bursting lamps of the shrine. Round the altar. Through the open stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p125",
+   "type": "narration",
+   "text": "Into the temple.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p126",
+   "type": "narration",
+   "text": "He stopped in the doorway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p127",
+   "type": "narration",
+   "text": "She turned round.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 177,
+   "para": "p128",
+   "type": "narration",
+   "text": "She knew the face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p129",
+   "type": "narration",
+   "text": "Long. Pale. Grey-eyed. Short dark hair. She’d seen it last in the dark under the school, at the lock, the night of the gate, with the river watch sword in her hand. She’d seen it come toward her out of the dark, warm, smiling, talking, the voice that had won half of Hearthmere, saying her name as if they were friends.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p130",
+   "type": "narration",
+   "text": "She’d seen it stop smiling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p131",
+   "type": "narration",
+   "text": "She’d seen it on the gatehouse at Greyhold, three days after, hung in chains under the charter, with a board.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p132",
+   "type": "narration",
+   "text": "Cassian’s face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p133",
+   "type": "narration",
+   "text": "The man in the doorway had it. Exactly. The same long pale face. The same grey eyes. But nothing in it was warm. It was very still. It looked at her as Pike looked at a cable.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 183,
+   "para": "p134",
+   "type": "narration",
+   "text": "He looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p135",
+   "type": "speech",
+   "text": "“You killed my brother,”"
+  },
+  {
+   "seq": 185,
+   "para": "p135",
+   "type": "narration",
+   "text": "said Corvin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p136",
+   "type": "narration",
+   "text": "He didn’t raise his voice. He said it the way a man says a thing he’s already written down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p137",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 188,
+   "para": "p137",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p138",
+   "type": "narration",
+   "text": "He looked at her a moment longer. Then he nodded. Once. As if a sum had come out, and it was the number he’d thought it would be.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p139",
+   "type": "narration",
+   "text": "That was all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p140",
+   "type": "narration",
+   "text": "He looked past her. At the egg on the plinth. At the six round the walls. At the ring in the dome, held up by six hands. At the long band of carving below the six, with its lines and its small shapes and its words. She watched his grey eyes go along it. He couldn’t read it. She could see he couldn’t. He looked at it as a clerk looks at a ledger in a hand he doesn’t know, turning it a little in his mind, as if it might make more sense from another side.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p141",
+   "type": "narration",
+   "text": "He didn’t say anything about any of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p142",
+   "type": "speech",
+   "text": "“When it comes,”"
+  },
+  {
+   "seq": 194,
+   "para": "p142",
+   "type": "narration",
+   "text": "he said, to the captain,"
+  },
+  {
+   "seq": 195,
+   "para": "p142",
+   "type": "speech",
+   "text": "“we go.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 196,
+   "para": "p143",
+   "type": "narration",
+   "text": "It came.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p144",
+   "type": "narration",
+   "text": "She felt it first. Through Orrun. Through the stone. The whole cliff shaking. A weight coming down onto it from above, so huge that the temple’s floor tilted under her and the hunters fell against the walls. The Titan. Off the hills. Onto the palace. Onto the cliff-top, onto the gardens, onto the roofs over the chapel where the court had been singing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p145",
+   "type": "narration",
+   "text": "Then down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p146",
+   "type": "narration",
+   "text": "She heard it come down through the palace. Floor after floor. Through the stone. A grinding, crashing roar, coming down and down, as a rockfall comes down a mountain. Closer. The stair. The shrine’s dome above the temple. She heard the shrine’s dome go, a long splintering crash of marble and gilding.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p147",
+   "type": "narration",
+   "text": "The temple’s dome cracked.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 201,
+   "para": "p148",
+   "type": "narration",
+   "text": "A line, across the dome. Over the plinth. Across the carved ring with its six hollows, between the six hands, through the middle of it. Black. Then wider. Stone falling. Light coming in. Grey daylight, through dust.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p149",
+   "type": "narration",
+   "text": "The hunters ran.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p150",
+   "type": "narration",
+   "text": "She saw them go. Out through the open stone, into the shrine, past the altar. The captain last. With his hands behind his back still, not hurrying, but going.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p151",
+   "type": "narration",
+   "text": "Corvin went with them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p152",
+   "type": "narration",
+   "text": "He turned in the doorway, once, and looked back at her. At the egg. At the dome cracking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p153",
+   "type": "narration",
+   "text": "Then he went up the stair.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 207,
+   "para": "p154",
+   "type": "narration",
+   "text": "The Titan’s head came down through the dome.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p155",
+   "type": "narration",
+   "text": "Through the crack. Through the broken stone, through the dust, through the grey light. Enormous. Grey. Plated. Its eye, as big as the bronze door of the shrine, looking down into the temple. Its jaw. Past the hole in the dome, swinging, the broken chain-ends on its forelegs, each link as thick as her body, black and red with rust.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p156",
+   "type": "narration",
+   "text": "It looked at the plinth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p157",
+   "type": "narration",
+   "text": "Orrun stood in front of it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 211,
+   "para": "p158",
+   "type": "narration",
+   "text": "Between the plinth and the Titan’s head. Under its jaw. Not at ten paces. Closer than he’d ever stood. Closer than at the Scald, when he’d put his forehead to its leg. He stood in front of the egg with his own head up, his broken-rock mane against the great grey jaw, his gold eyes on the Titan’s eye.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p159",
+   "type": "narration",
+   "text": "And didn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p160",
+   "type": "narration",
+   "text": "She felt it go through him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p161",
+   "type": "narration",
+   "text": "The want. Huge and slow and old and so sure of itself that there was no room in it for anything else. Coming down from the eye into the lion, and through the lion into her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p162",
+   "type": "thought",
+   "text": "All of them. Awake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p163",
+   "type": "thought",
+   "text": "And one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p164",
+   "type": "narration",
+   "text": "She felt Orrun hold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p165",
+   "type": "narration",
+   "text": "He wasn’t fighting it. He couldn’t. Nobody could. He was standing there. That was all. Standing in front of the egg. Kin in front of kin. The door-keeper, at a door, three hundred years too late.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p166",
+   "type": "narration",
+   "text": "The Titan looked at him a long time.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 220,
+   "para": "p167",
+   "type": "narration",
+   "text": "Then it reached past him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p168",
+   "type": "narration",
+   "text": "Not through him. Past. Its great head turned a little, aside, so that its jaw went by Orrun’s shoulder close enough to stir his mane, and down, to the plinth. And it took the egg off the plinth in its jaws, as carefully as a cat lifts a kitten.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 222,
+   "para": "p169",
+   "type": "narration",
+   "text": "Orrun didn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p170",
+   "type": "narration",
+   "text": "The Titan lifted its head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p171",
+   "type": "narration",
+   "text": "Up. Out through the broken dome. Into the grey daylight. The egg in its jaws, small, grey, warm. She saw it go up through the dust and the falling stone. She saw the head turn, above the dome, back, over its own shoulder. She saw the great grey back, the plates overlapping like the slates of a roof. And the egg laid down among them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 225,
+   "para": "p172",
+   "type": "narration",
+   "text": "The plate opened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 226,
+   "para": "p173",
+   "type": "narration",
+   "text": "Like water. Like a stone dropped into a pond. The egg going into it, and the grey closing over it, and smooth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p174",
+   "type": "narration",
+   "text": "Four.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 228,
+   "para": "p175",
+   "type": "narration",
+   "text": "The surge came up the stair behind it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 229,
+   "para": "p176",
+   "type": "narration",
+   "text": "She felt it come. Out of the plinth. Out of the empty hollow where the egg had been. Out of the floor. Out of every stone of the temple. The old stone under her feet went from full to flood. White. The walls blazed white. The carvings on them, the six, the faceless figures, the band of lines and words below, lit up as if they’d been cut in light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 230,
+   "para": "p177",
+   "type": "narration",
+   "text": "In the shrine above, the last of the lamps burst at once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 231,
+   "para": "p178",
+   "type": "narration",
+   "text": "Out on the landing, through the open bronze doors, she saw the sea. It was boiling. White. All round the landing, the blue bay gone white and churning as if something huge had turned over under it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 232,
+   "para": "p179",
+   "type": "narration",
+   "text": "Orrun stood in front of the empty plinth with his head down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 233,
+   "para": "p180",
+   "type": "narration",
+   "text": "She went to him. She put her hand on his neck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 234,
+   "para": "p181",
+   "type": "narration",
+   "text": "He was shaking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 235,
+   "para": "p182",
+   "type": "speech",
+   "text": "“It looked at me,”"
+  },
+  {
+   "seq": 236,
+   "para": "p182",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 237,
+   "para": "p182",
+   "type": "speech",
+   "text": "“It knew me. It knew what I was.”"
+  },
+  {
+   "seq": 238,
+   "para": "p182",
+   "type": "narration",
+   "text": "He was very quiet."
+  },
+  {
+   "seq": 239,
+   "para": "p182",
+   "type": "speech",
+   "text": "“It took it anyway.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 240,
+   "para": "p183",
+   "type": "narration",
+   "text": "Somebody shouted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 241,
+   "para": "p184",
+   "type": "narration",
+   "text": "High up. Above. Through the broken dome, through the broken shrine, down the cliff from somewhere on the stair. A voice. Thin, far off, cracking. She knew it before she knew the word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 242,
+   "para": "p185",
+   "type": "narration",
+   "text": "Idony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 243,
+   "para": "p186",
+   "type": "narration",
+   "text": "He was shouting a word. One word. In the old tongue. She didn’t know it. She’d heard the old tongue read aloud a dozen times now, in temples and in the Library and on the frost. She’d never heard this word. He shouted it twice. Down the stair, down the cliff, into the white boiling light coming up out of the temple.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 244,
+   "para": "p187",
+   "type": "narration",
+   "text": "She didn’t know what it meant.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 245,
+   "para": "p188",
+   "type": "narration",
+   "text": "She knew his voice.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "0a953fcf770e55152838c80840a93659b8735621",
+ "segments_sha1": "8ac555ebfb68eb9cfe1e5a80a0851aac0dced2fd"
+}

@@ -1,0 +1,1139 @@
+{
+ "chapter": 85,
+ "title": "Up Through the Rock",
+ "pov": "",
+ "source": "Chapters/Chapter 85 - Up Through the Rock.md",
+ "names": [
+  "aurveth",
+  "calder",
+  "greyhold",
+  "ketch",
+  "kharrak",
+  "maren",
+  "marsh",
+  "ruin",
+  "staithe",
+  "titan",
+  "wend",
+  "winshire"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Eighty-five.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Up Through the Rock.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "His three went still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "He was on the broken hill. Among the dust and the rubble and the people. A woman sitting on a fallen block with a child in her lap, both grey with dust. Joby Marsh with his lantern, still lit, in the middle of the afternoon. Mother Ketch on her feet, looking at the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "Kharrak had a man in his claws. A fisher from the river-flats, lifted off the rubble of a vault, being carried down the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "And Kharrak stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "In the air. Halfway down the slope. Wings out. The man in his claws looking up at him with his mouth open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "Lisska stopped. Over the slope, high. Hanging.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "Aurveth, lying across the broken wall with people sliding off her back, lifted her head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "All three. At once. Turned toward the river.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "He felt it come through the marks.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "Under his shirt. Over his heart. Bronze and rust and green. They burned. As they hadn’t burned since the bonds came. As if someone had put a hand flat on his chest and pushed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "narration",
+   "text": "Not a sound.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p12",
+   "type": "narration",
+   "text": "A pull.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p13",
+   "type": "narration",
+   "text": "Going out. From under the river. From under the hill, where the vault was, where the thing had gone. Going out in every direction at once. Over the Marches. Over the river. Over the hills and the downs and the moor and the sea. Over all of Winshire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p14",
+   "type": "narration",
+   "text": "Like a ring going out across a pond, when a stone goes in.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 17,
+   "para": "p15",
+   "type": "narration",
+   "text": "His dragons leaned into it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p16",
+   "type": "narration",
+   "text": "He saw them. As trees lean into a wind. Kharrak in the air. Lisska. Aurveth on the wall. Their heads up and out toward the river, and their whole bodies leaning after their heads, as if something had a rope round their necks and was drawing it in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p17",
+   "type": "narration",
+   "text": "Kharrak came down onto the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p18",
+   "type": "narration",
+   "text": "Slowly. He put the fisher down on the grass. Very carefully. As carefully as Calder had ever seen him put anything down. And stood. With his head up. Toward the river. Not moving.",
+   "mood": "tension",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 21,
+   "para": "p19",
+   "type": "bond",
+   "text": "Five,"
+  },
+  {
+   "seq": 22,
+   "para": "p19",
+   "type": "narration",
+   "text": "said Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p20",
+   "type": "narration",
+   "text": "From the wall. Her voice far away. As if she were saying it from the bottom of a well.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p21",
+   "type": "thought",
+   "text": "They heard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p22",
+   "type": "speech",
+   "text": "“Who?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p23",
+   "type": "narration",
+   "text": "She didn’t answer him at once. He felt her listening. Through the bond. Far out. Further than he’d ever felt her go, further than the deep sight on the reef. To the edges of everything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p24",
+   "type": "bond",
+   "text": "The stag,"
+  },
+  {
+   "seq": 28,
+   "para": "p24",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 29,
+   "para": "p24",
+   "type": "thought",
+   "text": "In the east. Where the forest walks."
+  },
+  {
+   "seq": 30,
+   "para": "p24",
+   "type": "narration",
+   "text": "A pause."
+  },
+  {
+   "seq": 31,
+   "para": "p24",
+   "type": "thought",
+   "text": "It’s turned its head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p25",
+   "type": "thought",
+   "text": "The cold one. North and west. Under the ice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p26",
+   "type": "thought",
+   "text": "The one that burns. West.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p27",
+   "type": "thought",
+   "text": "The bright one. South. With the horn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p28",
+   "type": "thought",
+   "text": "The one with the bell on its back. In the sea. Far down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p29",
+   "type": "narration",
+   "text": "She was quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p30",
+   "type": "bond",
+   "text": "Five,"
+  },
+  {
+   "seq": 38,
+   "para": "p30",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 39,
+   "para": "p30",
+   "type": "thought",
+   "text": "All of them. They heard it. They’re turning. Toward here.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 40,
+   "para": "p31",
+   "type": "bond",
+   "text": "The one that burns,"
+  },
+  {
+   "seq": 41,
+   "para": "p31",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p32",
+   "type": "narration",
+   "text": "After a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p33",
+   "type": "thought",
+   "text": "It’s in iron.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p34",
+   "type": "narration",
+   "text": "He waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p35",
+   "type": "bond",
+   "text": "Was,"
+  },
+  {
+   "seq": 46,
+   "para": "p35",
+   "type": "narration",
+   "text": "said Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p36",
+   "type": "narration",
+   "text": "He didn’t feel it himself. He felt her feel it. Far off. In the west. Across the whole of Winshire, past the Fells, on a moor where it never snowed. Iron. A league of it. Three canals of cold water. Four engines burning hearts. A cage that had held since the autumn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p37",
+   "type": "narration",
+   "text": "Breaking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p38",
+   "type": "narration",
+   "text": "He felt it go through her. Like a bone breaking a long way off. Not a sound. A giving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p39",
+   "type": "bond",
+   "text": "It’s out,"
+  },
+  {
+   "seq": 51,
+   "para": "p39",
+   "type": "narration",
+   "text": "said Aurveth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 52,
+   "para": "p40",
+   "type": "narration",
+   "text": "The pull went past.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p41",
+   "type": "narration",
+   "text": "Over them. Out. On, over the hills, as a wave goes past a rock. He felt it go out of his marks, and the burning go down, slowly, to an ache.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p42",
+   "type": "narration",
+   "text": "His dragons came back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p43",
+   "type": "narration",
+   "text": "Lisska dropped out of the air onto the rubble. All at once. Landed badly. Lay there shaking, all along her length, her pale green eyes wide.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p44",
+   "type": "bond",
+   "text": "It called,",
+   "how": "called"
+  },
+  {
+   "seq": 57,
+   "para": "p44",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 58,
+   "para": "p44",
+   "type": "thought",
+   "text": "It called and I nearly went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p45",
+   "type": "bond",
+   "text": "I didn’t,"
+  },
+  {
+   "seq": 60,
+   "para": "p45",
+   "type": "narration",
+   "text": "said Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p46",
+   "type": "narration",
+   "text": "He had. A little. Calder had felt it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p47",
+   "type": "bond",
+   "text": "We’re not what it called,"
+  },
+  {
+   "seq": 63,
+   "para": "p47",
+   "type": "narration",
+   "text": "said Aurveth. Slowly. Putting her head down on the broken wall."
+  },
+  {
+   "seq": 64,
+   "para": "p47",
+   "type": "thought",
+   "text": "We’re only near enough to hear.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 65,
+   "para": "p48",
+   "type": "narration",
+   "text": "She was still down there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p49",
+   "type": "narration",
+   "text": "He knew it. He’d known it the whole time. Through Lisska’s picture on the roof, through the stillness, through the call. The lion-woman and the reader. Under the hill. In the vault.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p50",
+   "type": "narration",
+   "text": "And the hill was cracking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p51",
+   "type": "narration",
+   "text": "He could hear it. Under his feet. Through the rubble. A long low sound in the rock, like ice on a lake in the spring, groaning. The cavern under the hill, its roof broken at the near end by the river and the Titan’s back, going.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p52",
+   "type": "speech",
+   "text": "“Down,”"
+  },
+  {
+   "seq": 70,
+   "para": "p52",
+   "type": "narration",
+   "text": "he said. To Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p53",
+   "type": "thought",
+   "text": "Again?",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p54",
+   "type": "speech",
+   "text": "“Again.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 73,
+   "para": "p55",
+   "type": "narration",
+   "text": "Aurveth stayed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p56",
+   "type": "narration",
+   "text": "On the hill with the people. She couldn’t go down twice. She knew it. He knew it. She didn’t argue.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p57",
+   "type": "bond",
+   "text": "Bring them up,"
+  },
+  {
+   "seq": 76,
+   "para": "p57",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p58",
+   "type": "narration",
+   "text": "He went down through the river-breach.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 78,
+   "para": "p59",
+   "type": "narration",
+   "text": "Into the Wend, under the broken hill, where the river went down into the hole in the cavern’s roof in a long brown fall. Kharrak folded his wings and went down it, through it, with the river. Lisska after.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p60",
+   "type": "narration",
+   "text": "Down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p61",
+   "type": "narration",
+   "text": "Into the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p62",
+   "type": "narration",
+   "text": "Air. Kharrak’s fire. The cavern.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 82,
+   "para": "p63",
+   "type": "narration",
+   "text": "The Titan was gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p64",
+   "type": "narration",
+   "text": "Up the cavern. Toward the Ruin end. He could hear it, far off in the dark, going away. The water still moving in long slow waves over the ledge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p65",
+   "type": "narration",
+   "text": "The high ledge. The open vault. The passage in the soft stone where the shut place had been, dark now, the gold gone out of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p66",
+   "type": "narration",
+   "text": "Idony was sitting on the ledge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p67",
+   "type": "narration",
+   "text": "With his hands in his lap. Grey. All of him. Hair, beard, face. Grey as the stone. His hands in his lap shaking, both of them, and he was looking at them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p68",
+   "type": "narration",
+   "text": "And Maren was in the vault’s door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p69",
+   "type": "narration",
+   "text": "With her sword in her hand again. Dark. Standing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 89,
+   "para": "p70",
+   "type": "narration",
+   "text": "And across the ledge, in the arch, a lantern.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p71",
+   "type": "narration",
+   "text": "He saw it as Kharrak came down. In the far corner of the cavern. Beyond the arch. Going up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p72",
+   "type": "narration",
+   "text": "A stair. Behind the arch. Old. Going up into the rock. And the lantern on it, going up slowly, back and forth, back and forth, as the stair turned.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p73",
+   "type": "narration",
+   "text": "He’d seen that before.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p74",
+   "type": "narration",
+   "text": "A year ago. From the rim of a hole under the Old Ruin, with Kharrak beside him and the floor gone. A lantern going up a stair he hadn’t known was there. A tall thin figure going first, not hurrying, not looking down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p75",
+   "type": "narration",
+   "text": "It was the same.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 95,
+   "para": "p76",
+   "type": "narration",
+   "text": "Two figures. A man with crooked arms going ahead with the lantern, holding it against his body because his hands couldn’t hold it. And behind him, a tall thin man in black. With his left arm in a sling. With a long case under the sling arm, held against his ribs. A roll-case. Old.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p77",
+   "type": "narration",
+   "text": "And his right arm ending at the wrist. In grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p78",
+   "type": "narration",
+   "text": "He didn’t look back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p79",
+   "type": "narration",
+   "text": "They went up round a turn of the stair and the lantern was gone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 99,
+   "para": "p80",
+   "type": "narration",
+   "text": "Calder didn’t follow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p81",
+   "type": "narration",
+   "text": "There wasn’t time. The roof was groaning over them. Stone coming down off it at the near end, in falls, into the black water. The ledge cracking under Kharrak’s feet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p82",
+   "type": "narration",
+   "text": "And there was Maren.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 102,
+   "para": "p83",
+   "type": "speech",
+   "text": "“Go,”"
+  },
+  {
+   "seq": 103,
+   "para": "p83",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p84",
+   "type": "narration",
+   "text": "She’d come out of the vault’s door. Onto the ledge. She looked up at him on Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Through the water,”"
+  },
+  {
+   "seq": 106,
+   "para": "p85",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 107,
+   "para": "p85",
+   "type": "speech",
+   "text": "“The way you came.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p86",
+   "type": "speech",
+   "text": "“You…”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p87",
+   "type": "speech",
+   "text": "“He’s coming for me.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 110,
+   "para": "p88",
+   "type": "narration",
+   "text": "The lion came down out of the rock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p89",
+   "type": "narration",
+   "text": "Out of the cavern wall beside her. As he’d gone into it. The stone opening round him and closing behind. Grey. One lion. Swaying on his feet. The wound in his shoulder black with old blood. And his mane, at the roots, all along his neck, white.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p90",
+   "type": "narration",
+   "text": "He went to her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p91",
+   "type": "narration",
+   "text": "She put her hand on his face. Briefly. Then she turned to Idony on the ledge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p92",
+   "type": "speech",
+   "text": "“Up,”"
+  },
+  {
+   "seq": 115,
+   "para": "p92",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 116,
+   "para": "p93",
+   "type": "narration",
+   "text": "She got the reader onto the lion’s back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p94",
+   "type": "narration",
+   "text": "Calder watched her do it. Lifting him. The thin grey man who couldn’t hold anything, whose hands wouldn’t stop. Onto the lion’s back, behind the mane. She put his hands in the mane herself and closed his fingers on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p95",
+   "type": "narration",
+   "text": "Then she climbed up behind him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p96",
+   "type": "narration",
+   "text": "She looked at Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p97",
+   "type": "narration",
+   "text": "One look. In Kharrak’s firelight. With the roof coming down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p98",
+   "type": "narration",
+   "text": "Then the lion went into the rock.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 122,
+   "para": "p99",
+   "type": "narration",
+   "text": "Into the wall. With the two of them on his back. The stone took them. Closed. Gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p100",
+   "type": "narration",
+   "text": "Calder turned Kharrak to the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p101",
+   "type": "speech",
+   "text": "“Out,”"
+  },
+  {
+   "seq": 125,
+   "para": "p101",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 126,
+   "para": "p102",
+   "type": "narration",
+   "text": "They went into the black water as the roof came down behind them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p103",
+   "type": "narration",
+   "text": "He heard it go. Over him. A sound bigger than any sound. The cavern’s roof under Greyhold’s hill coming down into the cavern, all of it, at once, onto the ledge and the vault and the soft stone and the plinth. He felt the water push them. Out. Up. Through the breach. Into the brown.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p104",
+   "type": "narration",
+   "text": "Up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p105",
+   "type": "narration",
+   "text": "Into the Wend.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 130,
+   "para": "p106",
+   "type": "narration",
+   "text": "He came up into the dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p107",
+   "type": "narration",
+   "text": "Into the river. Under the hill. Kharrak’s head out of the water, then his, gasping. Lisska beside them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p108",
+   "type": "narration",
+   "text": "He looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p109",
+   "type": "narration",
+   "text": "Greyhold’s hill was falling in.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 134,
+   "para": "p110",
+   "type": "narration",
+   "text": "He watched it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p111",
+   "type": "narration",
+   "text": "From the river. With Kharrak swimming under him and the current taking them down. The hill. The north tower, where Rowan’s lantern had burned all night. The yard, where the engines had been. The broken inner wall. The south tower. The gate, with the charter over it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p112",
+   "type": "narration",
+   "text": "Going down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p113",
+   "type": "narration",
+   "text": "Into the hill. Slowly. As if the hill were taking a long breath in. The towers leaning. The walls folding. Everything going down into the ground as the cavern under it went, and a cloud of grey dust going up over the river, huge, soft, rolling out over the water toward him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p114",
+   "type": "narration",
+   "text": "The river wall above the jetty fell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p115",
+   "type": "narration",
+   "text": "Into the river. In a long slide of grey stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p116",
+   "type": "narration",
+   "text": "And at the bottom of the jetty road, under where the river wall had been, a small stone house stood. Cracked. Its roof half off. Standing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 141,
+   "para": "p117",
+   "type": "narration",
+   "text": "He spent the night on the Saltreach bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p118",
+   "type": "narration",
+   "text": "At the Staithe. On the shingle with Aurveth, who’d brought the last of the people down off the hill before it went, on her back, slowly, three at a time, and then lain down at the ferry post and not moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p119",
+   "type": "narration",
+   "text": "The people from the hill were on the shingle. On the barge. In the fishers’ huts. The seventy from the cellars, grey with dust. Joby Marsh, with his lantern out at last. Mother Ketch, sitting on an upturned boat, looking across the river at where Greyhold had been.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p120",
+   "type": "narration",
+   "text": "Rowan, on the shingle by the barge, with her torn white surcoat. Not speaking. Her knights round her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p121",
+   "type": "narration",
+   "text": "Liss, in her hut doorway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p122",
+   "type": "narration",
+   "text": "Looking across the river. At the ferry house. At the jetty. At the rope, still tied off on its post on the far side, still running across the water to the post beside him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p123",
+   "type": "narration",
+   "text": "Nobody had seen a lion.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 148,
+   "para": "p124",
+   "type": "narration",
+   "text": "He saw it at dawn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p125",
+   "type": "narration",
+   "text": "He was awake. He hadn’t slept. He was sitting against Aurveth’s side with his arms on his knees, looking across the river at the grey shape of the fallen hill in the first light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p126",
+   "type": "narration",
+   "text": "And down the Hearthmere bank. A league off. Above Millbrook’s woods, where the bank rose in a long green slope above the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p127",
+   "type": "narration",
+   "text": "The hillside opened.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 152,
+   "para": "p128",
+   "type": "narration",
+   "text": "He saw it from the Staithe. Small, a league off, in the grey. The turf on the slope above the river breaking. Lifting. Something coming up out of the ground.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p129",
+   "type": "narration",
+   "text": "A lion.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p130",
+   "type": "narration",
+   "text": "Grey. Coming up out of the hillside as a swimmer comes up out of a lake. Head. Mane, white at the roots. Shoulders. Standing up out of the earth onto the slope in the dawn and shaking himself.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p131",
+   "type": "narration",
+   "text": "With a grey-haired man on his back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p132",
+   "type": "narration",
+   "text": "And a woman walking beside him. With her hand in his mane.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 157,
+   "para": "p133",
+   "type": "narration",
+   "text": "Liss had seen it too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p134",
+   "type": "narration",
+   "text": "She was out of her hut, on the shingle, with her hand over her mouth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p135",
+   "type": "narration",
+   "text": "He didn’t go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p136",
+   "type": "narration",
+   "text": "He sat against Aurveth’s side and watched the lion stand on the hillside a league off with the reader on his back and the lion-woman beside him, the three of them small and grey in the first light, looking at the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p137",
+   "type": "narration",
+   "text": "Then the lion-woman lifted her hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p138",
+   "type": "narration",
+   "text": "He didn’t know if it was to him. He lifted his anyway.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "5341f194acf646284ff3a81fb8a8f996d9195257",
+ "segments_sha1": "c123146c1547f456421b5a93f2328f23a6efbeae"
+}

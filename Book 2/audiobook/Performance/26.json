@@ -1,0 +1,2048 @@
+{
+ "chapter": 26,
+ "title": "Westward",
+ "pov": "",
+ "source": "Chapters/Chapter 26 - Westward.md",
+ "names": [
+  "ada",
+  "arn",
+  "aurveth",
+  "calder",
+  "cross",
+  "fellwood",
+  "fenn",
+  "fisk",
+  "garrick",
+  "harrow",
+  "keeper",
+  "kharrak",
+  "lisska",
+  "marches",
+  "moot",
+  "orm",
+  "plains",
+  "roosts",
+  "scarfell",
+  "skarrow",
+  "thornwood",
+  "ulric"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Twenty-six.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Westward.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "They’d been coming over the moor since midsummer, and nobody had made anything of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "Deer, mostly. In ones and twos. The ledges’ riders saw them from the air, out on the Scarfell, going west across the heather in the long summer evenings: a hind and a calf, a pair of young stags, an old boar on his own. Coming from the east, from over the fells, from Skarrow’s side and beyond. Going west. Toward the Marches.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "Hulda Sarr said it at the setters’ ledge one evening, in the four words she used a day."
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "speech",
+   "text": "“Deer going west. Odd.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "narration",
+   "text": "Nobody made anything of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "narration",
+   "text": "Then more. Tens. A herd of red deer, thirty, crossing the Drover’s Way above the hold at dawn on the hundred-and-third day, not stopping for anything, not even for the dragons on the ledges, which deer always stopped for. A pack of wolves on the moor’s edge, eleven, going west at a lope with their tongues out. A brown bear in Gunna’s old fold below the caves, eating the sheep’s salt, that wouldn’t be driven off and then left of its own accord at a run, west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "speech",
+   "text": "“Like before a fire,”"
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "narration",
+   "text": "said Ada, at the caves."
+  },
+  {
+   "seq": 11,
+   "para": "p6",
+   "type": "speech",
+   "text": "“When I was a girl. The year the heather burned on the high moor. Everything ran ahead of it.”"
+  },
+  {
+   "seq": 12,
+   "para": "p6",
+   "type": "narration",
+   "text": "She looked east, over the fells."
+  },
+  {
+   "seq": 13,
+   "para": "p6",
+   "type": "speech",
+   "text": "“But there’s no smoke.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 14,
+   "para": "p7",
+   "type": "narration",
+   "text": "On the hundred-and-fifth day the Roosts’ stone hummed again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p8",
+   "type": "narration",
+   "text": "He was on the setters’ ledge in the middle of the morning with his hand flat on the rock, out of habit. It had hummed east after midsummer, the morning after the smoke, faint and steady."
+  },
+  {
+   "seq": 16,
+   "para": "p8",
+   "type": "thought",
+   "text": "Something has opened."
+  },
+  {
+   "seq": 17,
+   "para": "p8",
+   "type": "narration",
+   "text": "Then, over the days, it had faded, until he had to press hard to feel it at all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p9",
+   "type": "narration",
+   "text": "Now it hummed so hard he took his hand away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p10",
+   "type": "narration",
+   "text": "He put it back. It was there. Under the pulse, through it. A great deep ringing, coming from the east, through the whole cliff, as if something a long way off had been struck by a hammer as big as a hill. It went on till noon. Then it faded again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p11",
+   "type": "narration",
+   "text": "The old one had her head up, looking east.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p12",
+   "type": "bond",
+   "text": "Something has stood up,"
+  },
+  {
+   "seq": 22,
+   "para": "p12",
+   "type": "narration",
+   "text": "said Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p13",
+   "type": "speech",
+   "text": "“What?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p14",
+   "type": "narration",
+   "text": "She didn’t answer for a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p15",
+   "type": "bond",
+   "text": "Something that was lying down,"
+  },
+  {
+   "seq": 26,
+   "para": "p15",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 27,
+   "para": "p15",
+   "type": "thought",
+   "text": "A long time. And now it is standing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 28,
+   "para": "p16",
+   "type": "narration",
+   "text": "The flood came on the hundred-and-eighth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p17",
+   "type": "narration",
+   "text": "Ulric’s rider brought it first. Orm Garrick, on his grey hill-pony, lathered, come over the Scarfell from Skarrow in a day and a night. He came up the Way to the gate at noon and didn’t get down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p18",
+   "type": "speech",
+   "text": "“Stonehorns,”"
+  },
+  {
+   "seq": 31,
+   "para": "p18",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 32,
+   "para": "p18",
+   "type": "speech",
+   "text": "“Wild ones. Sixty. Came down our valley in the night from the east at a run, through the folds, and flattened two of them and the sheep in them, and went on over the moor west without stopping.”"
+  },
+  {
+   "seq": 33,
+   "para": "p18",
+   "type": "narration",
+   "text": "He wiped his face."
+  },
+  {
+   "seq": 34,
+   "para": "p18",
+   "type": "speech",
+   "text": "“Then elk. Hundreds. Then wolves. Bears. Everything. All going west. All at once. All night.”"
+  },
+  {
+   "seq": 35,
+   "para": "p18",
+   "type": "narration",
+   "text": "He looked down at Calder."
+  },
+  {
+   "seq": 36,
+   "para": "p18",
+   "type": "speech",
+   "text": "“Ulric says: it’s not stopping. It’s still coming. Out of the east, over the fells. He says tell the farmer.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p19",
+   "type": "speech",
+   "text": "“Why the farmer?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p20",
+   "type": "speech",
+   "text": "“Because the farmer’s got the eyes,”"
+  },
+  {
+   "seq": 39,
+   "para": "p20",
+   "type": "narration",
+   "text": "said Orm, and looked at Lisska.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 40,
+   "para": "p21",
+   "type": "narration",
+   "text": "Lisska went up and looked, and came back, and told him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p22",
+   "type": "narration",
+   "text": "The moor was moving. That was what she said. From the edge of the fells in the east, across the whole width of the Scarfell, the heather was moving, as it had moved behind the lion where there was no wind, only now it was beasts. Brown and grey and black. Herds. Packs. Ones and twos and hundreds. All going west, across the moor, toward the edge, toward the Marches.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p23",
+   "type": "bond",
+   "text": "Toward the river,"
+  },
+  {
+   "seq": 43,
+   "para": "p23",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 44,
+   "para": "p23",
+   "type": "thought",
+   "text": "They’re all going toward the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p24",
+   "type": "speech",
+   "text": "“Why?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p25",
+   "type": "thought",
+   "text": "I don’t know. I asked a deer. Deer are stupid. It said away."
+  },
+  {
+   "seq": 47,
+   "para": "p25",
+   "type": "narration",
+   "text": "She was quiet."
+  },
+  {
+   "seq": 48,
+   "para": "p25",
+   "type": "thought",
+   "text": "They’re all saying away. All of them. Every one I asked. Away, away. From the east.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 49,
+   "para": "p26",
+   "type": "narration",
+   "text": "The first Wyldmarch people came over the moor on the hundred-and-tenth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p27",
+   "type": "narration",
+   "text": "A family of the horse clans. On elk. Three of the great antlered beasts, coming down the Way out of the east toward the hold at dusk, with a man and a woman and four children on them, and their faces painted with the red bars, and everything they owned tied on behind. They’d come over the Plains and the fells ahead of the flood, the man said, through Orm Garrick, who had enough of their tongue. They’d come away from the Moot. From the lake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p28",
+   "type": "narration",
+   "text": "The hall was full that night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p29",
+   "type": "narration",
+   "text": "The east fire, and the west. Both lit. Red thread and grey at both, since the pour: the war between them was out, and the cold west hearth had been raked and laid and lit, and nobody had said anything about it. Ulric had come over the moor behind Orm, behind the flood, with forty men, to see. He sat at the high table on the left of the empty chair under its cloth. Arn on the right. Neither of them looked at the other. Both of them listened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p30",
+   "type": "narration",
+   "text": "The horse-clan man told it, and Orm said it after him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 54,
+   "para": "p31",
+   "type": "narration",
+   "text": "Something had stood up in the Thornwood.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p32",
+   "type": "narration",
+   "text": "A stag. The man held his hands up, wide, as wide as they’d go, and then wider. The size of a hill. With antlers like a forest in winter. It had come up out of the ground a league north of the Moot on the morning of the last day of the midsummer gathering, and stood, and the forest had stood up with it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p33",
+   "type": "speech",
+   "text": "“Stood up,”"
+  },
+  {
+   "seq": 57,
+   "para": "p33",
+   "type": "narration",
+   "text": "said Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p34",
+   "type": "narration",
+   "text": "The man nodded. The trees had pulled up out of the ground, he said, and walked. Round it. With it. A forest, walking. He’d seen it from a boat on the lake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p35",
+   "type": "narration",
+   "text": "Nobody in the hall said anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p36",
+   "type": "narration",
+   "text": "And everything in the Thornwood that could run had come out of it, the man said. All at once. Down to the lake, down through the Moot, through the lanes between the houses. The clans had stood in the lanes. With their stonehorns, their wolves, their bears. And a Keeper had died in the last lane, holding it, with her duskcat. A roundhouse had come down on her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p37",
+   "type": "narration",
+   "text": "Calder thought of a Keeper in a patched grey cloak with red cord in her braid, tying wound-moss round a green dragon’s neck on the Plains. He didn’t know her name. He knew Lisska had liked the smell of her hair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p38",
+   "type": "speech",
+   "text": "“And the lion?”"
+  },
+  {
+   "seq": 63,
+   "para": "p38",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p39",
+   "type": "narration",
+   "text": "Orm looked at him. Then he asked the man.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p40",
+   "type": "narration",
+   "text": "The man’s face changed. He said something, fast, with his hands, and the woman beside him said something too, and the children on the bench behind them, and they were all talking at once. Orm held up his hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p41",
+   "type": "speech",
+   "text": "“Two,”"
+  },
+  {
+   "seq": 67,
+   "para": "p41",
+   "type": "narration",
+   "text": "said Orm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p42",
+   "type": "narration",
+   "text": "The hall went quiet.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 69,
+   "para": "p43",
+   "type": "speech",
+   "text": "“Two lions,”"
+  },
+  {
+   "seq": 70,
+   "para": "p43",
+   "type": "narration",
+   "text": "said Orm, slowly, listening."
+  },
+  {
+   "seq": 71,
+   "para": "p43",
+   "type": "speech",
+   "text": "“In two lanes. At once. The grey-maned in the near lane, holding it. And another, the same, in the far lane, come up out of the ground. Holding that one. For half a morning.”"
+  },
+  {
+   "seq": 72,
+   "para": "p43",
+   "type": "narration",
+   "text": "He listened again."
+  },
+  {
+   "seq": 73,
+   "para": "p43",
+   "type": "speech",
+   "text": "“And the lion-woman standing in both. Two places at once. The whole Moot saw it. The children in the big house at the bottom of the far lane saw it from the door.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p44",
+   "type": "narration",
+   "text": "Somebody at the west fire laughed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p45",
+   "type": "narration",
+   "text": "Not unkindly. As you laugh at a tale that’s grown in the telling. A man of Ulric’s, grey, with a cup in his hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Two places at once,”"
+  },
+  {
+   "seq": 77,
+   "para": "p46",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 78,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Like the twins.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p47",
+   "type": "narration",
+   "text": "The hall went quiet again. A different quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p48",
+   "type": "narration",
+   "text": "Everybody knew what he meant. All autumn, all winter, the word had gone up and down the Way and the Saltreach Track: Vale had spoken on the Tidesteps at Wendmouth and raided in the Marches on the same day, at the same hour. Two places at once. Magic, people said. An ancient beast’s gift. The one realm’s leader could be in two places at once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p49",
+   "type": "narration",
+   "text": "It had been two men.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p50",
+   "type": "narration",
+   "text": "Everybody knew that now. One was hanging in chains on Greyhold’s gate. The other had sat in the Fleece at Cotter’s Cross under a ring painted round a ram, and come over the Roosts in the smoke on midsummer night on a wyvern’s back, and looked once at Calder, and looked away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p51",
+   "type": "narration",
+   "text": "And now they were saying it of her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 84,
+   "para": "p52",
+   "type": "speech",
+   "text": "“It’s not two of her,”"
+  },
+  {
+   "seq": 85,
+   "para": "p52",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p53",
+   "type": "narration",
+   "text": "He didn’t know he was going to say it. The hall looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p54",
+   "type": "narration",
+   "text": "He was sitting on the bench by the east fire, not at the high table; he’d never sat at the high table. He had the book in his coat, and the coin, and the stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p55",
+   "type": "speech",
+   "text": "“It’s not two of her,”"
+  },
+  {
+   "seq": 89,
+   "para": "p55",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 90,
+   "para": "p55",
+   "type": "speech",
+   "text": "“It’s two of him. The lion.”"
+  },
+  {
+   "seq": 91,
+   "para": "p55",
+   "type": "narration",
+   "text": "He looked at the fire."
+  },
+  {
+   "seq": 92,
+   "para": "p55",
+   "type": "speech",
+   "text": "“He can do it. Make another. Out of the ground. I saw it, under the Ruin, when the roof came down on the old one. There was a lion holding the slab up, and another one fighting, and they were both him.”"
+  },
+  {
+   "seq": 93,
+   "para": "p55",
+   "type": "narration",
+   "text": "He was quiet."
+  },
+  {
+   "seq": 94,
+   "para": "p55",
+   "type": "speech",
+   "text": "“It costs him. You could see it cost him. That was minutes. Half a morning…”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p56",
+   "type": "narration",
+   "text": "He stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p57",
+   "type": "narration",
+   "text": "Half a morning. Holding a lane against a flood. He thought of the lion going grey at the edges after the roof, in the cavern, and the woman with her hand on him, and how she’d looked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p58",
+   "type": "speech",
+   "text": "“It’s not magic,”"
+  },
+  {
+   "seq": 98,
+   "para": "p58",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 99,
+   "para": "p58",
+   "type": "speech",
+   "text": "“Not the way they mean. It’s him. And it’s her paying for it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p59",
+   "type": "narration",
+   "text": "Nobody in the hall said anything for a while.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p60",
+   "type": "narration",
+   "text": "At the high table, on the left of the empty chair, Ulric put down his cup.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p61",
+   "type": "speech",
+   "text": "“Then it’s worse,”"
+  },
+  {
+   "seq": 103,
+   "para": "p61",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p62",
+   "type": "narration",
+   "text": "Calder looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p63",
+   "type": "speech",
+   "text": "“Two men in two places is a trick,”"
+  },
+  {
+   "seq": 106,
+   "para": "p63",
+   "type": "narration",
+   "text": "said Ulric Varr."
+  },
+  {
+   "seq": 107,
+   "para": "p63",
+   "type": "speech",
+   "text": "“Two lions in two places is a beast that can be two beasts.”"
+  },
+  {
+   "seq": 108,
+   "para": "p63",
+   "type": "narration",
+   "text": "He looked at the fire."
+  },
+  {
+   "seq": 109,
+   "para": "p63",
+   "type": "speech",
+   "text": "“And there’s a stag the size of a hill walking in the Thornwood, with a forest walking round it. And the deer are running west.”"
+  },
+  {
+   "seq": 110,
+   "para": "p63",
+   "type": "narration",
+   "text": "He folded his big hands."
+  },
+  {
+   "seq": 111,
+   "para": "p63",
+   "type": "speech",
+   "text": "“I’d rather it were a trick.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 112,
+   "para": "p64",
+   "type": "narration",
+   "text": "Lisska saw the elk on the hundred-and-eleventh day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p65",
+   "type": "narration",
+   "text": "She’d been ranging. South and west, down off the Scarfell’s southern edge, over the Marches, because Calder had asked her to look at Harrow’s End. People had come back. Some. Thirty, perhaps, of the families who’d gone over the river in the spring to Liss’s ferry and been sent back by the crown’s ten days, and found their houses stripped by the companies, and stayed anyway, because it was their land and there was nothing else. They’d sown what they could. Late. Barley in the low fields by the river, too late to come to much. Fisk had never left.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p66",
+   "type": "narration",
+   "text": "She came back to the setters’ ledge at dusk, fast.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p67",
+   "type": "bond",
+   "text": "Elk,"
+  },
+  {
+   "seq": 116,
+   "para": "p67",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 117,
+   "para": "p67",
+   "type": "thought",
+   "text": "Calder. Great ones, with the trees on their heads. Like the ones on the Plains."
+  },
+  {
+   "seq": 118,
+   "para": "p67",
+   "type": "narration",
+   "text": "She was shaking."
+  },
+  {
+   "seq": 119,
+   "para": "p67",
+   "type": "thought",
+   "text": "Hundreds. Three hundred. Four. Coming down off the edge, south, into the valley above the village."
+  },
+  {
+   "seq": 120,
+   "para": "p67",
+   "type": "narration",
+   "text": "She stopped."
+  },
+  {
+   "seq": 121,
+   "para": "p67",
+   "type": "thought",
+   "text": "Straight down. Down the Way and down the beck. Toward the houses. Toward the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p68",
+   "type": "narration",
+   "text": "He was already standing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p69",
+   "type": "bond",
+   "text": "They’re not stopping,"
+  },
+  {
+   "seq": 124,
+   "para": "p69",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 125,
+   "para": "p69",
+   "type": "thought",
+   "text": "They’re saying away. They’re all saying away. And the village is in the way.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 126,
+   "para": "p70",
+   "type": "narration",
+   "text": "He went down at first light on Kharrak, with Lisska.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p71",
+   "type": "narration",
+   "text": "He knew the valley from the air now. He’d flown it south to the Cross and north again. He knew it from the ground better than he knew his own face: every field, every wall, every gate. Down past the Ram’s Head and Teo’s ford, down the long valley of Hollow Beck, and at the bottom, where it opened toward the river, Harrow’s End. The mill with its wheel stopped. The Wheel, burned. The houses with their doors gone. And above the village, on the slope between it and the Fellwood, the fields.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p72",
+   "type": "narration",
+   "text": "His own. The Fenn top field. Gone to weed, nettles and dock and thistle, with the wall along its top broken in two places and the gate he’d hung himself hanging by one hinge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p73",
+   "type": "narration",
+   "text": "And above the field, coming down the slope out of the morning mist off the valley’s side, the elk.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 130,
+   "para": "p74",
+   "type": "narration",
+   "text": "He’d seen the great elk on the Plains through Lisska’s eyes. He’d never seen one with his own.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p75",
+   "type": "narration",
+   "text": "They were taller at the shoulder than a man on a horse. Brown, shaggy, with a hump over the shoulders and a great hanging dewlap, and the antlers: the bulls’ as wide as a cart was long, like the bare branches of an oak, and the cows’ smaller, broad and short. Four hundred of them. Coming down the valley side in a mass, at a long swinging trot, with their heads up and their eyes rolling, as Lisska said, saying"
+  },
+  {
+   "seq": 132,
+   "para": "p75",
+   "type": "thought",
+   "text": "away"
+  },
+  {
+   "seq": 133,
+   "para": "p75",
+   "type": "narration",
+   "text": ". The ground shook under them. He could hear it from the air: a drumming, like rain on a barn roof, only it was hooves.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p76",
+   "type": "narration",
+   "text": "They were coming straight down. Over the slope. Over his top field. Through the broken wall. Down to the village.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p77",
+   "type": "narration",
+   "text": "He could see the people in the village. Thirty of them, come out of their stripped houses at the sound, standing in the lane by the burned Wheel, looking up at what was coming down the hill at them. A woman with a child on her hip. An old man with a hay-fork.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p78",
+   "type": "narration",
+   "text": "Behind them, the river. Nowhere else to go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p79",
+   "type": "speech",
+   "text": "“Down,”"
+  },
+  {
+   "seq": 138,
+   "para": "p79",
+   "type": "narration",
+   "text": "he said to Kharrak."
+  },
+  {
+   "seq": 139,
+   "para": "p79",
+   "type": "speech",
+   "text": "“On the field.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 140,
+   "para": "p80",
+   "type": "narration",
+   "text": "The red dragon came down in the weeds of the top field in a scatter of thistle-down, and Calder slid off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p81",
+   "type": "bond",
+   "text": "Fire,"
+  },
+  {
+   "seq": 142,
+   "para": "p81",
+   "type": "narration",
+   "text": "said Kharrak."
+  },
+  {
+   "seq": 143,
+   "para": "p81",
+   "type": "thought",
+   "text": "I’ll turn them with fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p82",
+   "type": "speech",
+   "text": "“No.”",
+   "mood": "urgent"
+  },
+  {
+   "seq": 145,
+   "para": "p82",
+   "type": "narration",
+   "text": "He was already walking out into the field, into the nettles, uphill, toward the elk.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 146,
+   "para": "p82",
+   "type": "speech",
+   "text": "“No fire. They’re mad already. Fire and they’ll go faster. They’ll go anywhere. Through the houses. Into the river.”",
+   "mood": "urgent"
+  },
+  {
+   "seq": 147,
+   "para": "p82",
+   "type": "narration",
+   "text": "He didn’t turn round.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 148,
+   "para": "p82",
+   "type": "speech",
+   "text": "“Go up. High. Out of their sight. Don’t let them see you.”",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p83",
+   "type": "thought",
+   "text": "FARMER…",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p84",
+   "type": "speech",
+   "text": "“Go up.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p85",
+   "type": "narration",
+   "text": "Kharrak went up. Calder felt him go, furious, high, a red speck in the morning, circling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p86",
+   "type": "narration",
+   "text": "He stood in the middle of his own top field in the weeds and watched four hundred elk come down the hill at him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 153,
+   "para": "p87",
+   "type": "narration",
+   "text": "He’d turned cattle all his life.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p88",
+   "type": "narration",
+   "text": "At gates. In lanes. At the ford. You stood where you wanted them not to go and you made yourself big, and you shouted, and if they were cattle and not mad, they went round you. And if you were a Marches boy, you said the word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p89",
+   "type": "narration",
+   "text": "Everybody had it. The herd-charm for turning cattle. His father had taught it him when he was six, at the gate of the low field, with a slow red cow coming the wrong way: a short word in the old tongue, said loud and sharp, into the beast’s ear if you could get near enough, with your hand on her. Every boy in the Marches knew it. It never did anything. Or almost nothing. A slow cow would look round. A calf would hesitate. You said it because your father said it, and his father, and it was what you said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p90",
+   "type": "narration",
+   "text": "It wouldn’t turn four hundred great elk coming down a hill mad.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p91",
+   "type": "narration",
+   "text": "Nothing would.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p92",
+   "type": "thought",
+   "text": "Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p93",
+   "type": "narration",
+   "text": "Lisska. Above him, low, over the field, her wings out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p94",
+   "type": "bond",
+   "text": "The one at the front,"
+  },
+  {
+   "seq": 161,
+   "para": "p94",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 162,
+   "para": "p94",
+   "type": "thought",
+   "text": "The old one. The cow. The others are following her. They’re all following her. If she turns…",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p95",
+   "type": "narration",
+   "text": "He looked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p96",
+   "type": "narration",
+   "text": "At the head of the herd, coming down the slope a length ahead of the rest, a cow. Old. Bigger than the others, grey at the muzzle, with short broad antlers like two spread hands and a white blaze on her face. The others came behind her. Where she went, they went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p97",
+   "type": "speech",
+   "text": "“Bring her to me,”"
+  },
+  {
+   "seq": 166,
+   "para": "p97",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 167,
+   "para": "p98",
+   "type": "narration",
+   "text": "Lisska went at the old cow like a dog at a ewe.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p99",
+   "type": "narration",
+   "text": "He’d never seen her do it. He’d never seen any dragon do it. She came down out of the morning over the head of the herd, low, so low her belly brushed the old cow’s antlers, and the cow threw her head up and swerved, and Lisska came round and down again on the other side, wings out, crying, and the cow swerved again. Toward him. Lisska herding her. Turning her with her wings and her body and her voice, as his father’s old dog had turned ewes at the Fenn gate, a little this way, a little that, down the slope, toward the man standing in the weeds of the top field.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p100",
+   "type": "narration",
+   "text": "The herd came behind her. Where she went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p101",
+   "type": "narration",
+   "text": "He stood his ground.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p102",
+   "type": "narration",
+   "text": "The cow came down the field at him. He could see her eye, white-rimmed, rolling. He could smell her, rank and warm. He could feel the ground shake through his boots. She was taller than a man on a horse and she was coming straight at him, and she was going to go past him, a pace to his left, at a run, with four hundred behind her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p103",
+   "type": "narration",
+   "text": "He went at her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 173,
+   "para": "p104",
+   "type": "narration",
+   "text": "He got his hand on her antler as she came past.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p105",
+   "type": "narration",
+   "text": "The left one. Broad, flat, warm, rough as bark. He got his hand round the base of it, where it came out of her skull, and held on, and she dragged him. He ran. Three strides, four, beside her, his feet barely touching, his arm nearly coming out of his shoulder, with her great head swinging toward him and the white of her eye right there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p106",
+   "type": "narration",
+   "text": "He shouted the word into her ear.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p107",
+   "type": "narration",
+   "text": "And Lisska came down the bond into him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p108",
+   "type": "narration",
+   "text": "He felt it. He’d never felt it before. All of her, all at once, the bright quick green of her, the wind under her wings that she rode, that she’d ridden over the Plains and the fells and the Thornwood and the grey, the gust she’d spent turning the old cow down the hill. Her wind. Coming down the bond out of her and into him and through him, through his chest and his arm and his hand on the antler and his mouth, and into the word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p109",
+   "type": "narration",
+   "text": "The word went into the cow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p110",
+   "type": "narration",
+   "text": "He felt it go in. It was like throwing a stone into a pond and feeling, through your hand, the stone hit the bottom.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p111",
+   "type": "narration",
+   "text": "She turned.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p112",
+   "type": "narration",
+   "text": "Hard. All at once. As if somebody had taken her by the head and pulled. Away from the village. Away from the broken wall and the lane and the people by the burned Wheel. North. Along the top of the field, along the line of the wall, toward the Fellwood.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p113",
+   "type": "narration",
+   "text": "He let go of the antler and fell in the nettles.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 183,
+   "para": "p114",
+   "type": "narration",
+   "text": "He lay on his back in the weeds and watched them go over.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p115",
+   "type": "narration",
+   "text": "Not over him. Past him. Along the field. The old cow at the front, running north along the top wall with her head up, not mad now, not rolling-eyed: going somewhere, as a cow goes when she’s decided. And behind her, the herd. Turning as she turned. Following her off the field, along the wall, toward the trees. Four hundred great elk going past him at a run, close enough that he felt the ground shake under his back and the wind of them in his face, and not one of them went down the hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p116",
+   "type": "narration",
+   "text": "They went off the field like a flock off a dog.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p117",
+   "type": "narration",
+   "text": "Toward the Fellwood. Into it. He heard them go into the trees, a great crashing and breaking that went on and on and got further off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p118",
+   "type": "narration",
+   "text": "Then it was quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p119",
+   "type": "narration",
+   "text": "He lay in the weeds.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 189,
+   "para": "p120",
+   "type": "narration",
+   "text": "A bull came wrong.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p121",
+   "type": "narration",
+   "text": "One. At the back. A young bull, late, that had been at the tail of the herd and hadn’t seen the old cow turn, and came down the field on its own, straight, mad-eyed, toward the broken wall and the lane and the village.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p122",
+   "type": "narration",
+   "text": "Calder got up. He didn’t know how. He got up out of the nettles and ran at it and got a hand on its shoulder as it came past and shouted the word into its ear.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p123",
+   "type": "narration",
+   "text": "Nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p124",
+   "type": "narration",
+   "text": "The word was a word. He felt it leave his mouth and go nowhere, the way it had always gone, every time, at every gate, his whole life. A sound. A Marches boy’s word for a slow cow. The bull didn’t even turn its head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p125",
+   "type": "narration",
+   "text": "It was Kharrak who turned it. Dropping out of the sky in front of it, at last, with no fire, only his wings and his size and his roar, so that the young bull reared and spun and went off north after the others as if it had remembered something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p126",
+   "type": "narration",
+   "text": "Calder was on his knees in the weeds.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p127",
+   "type": "narration",
+   "text": "His nose was bleeding.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 197,
+   "para": "p128",
+   "type": "narration",
+   "text": "It bled for an hour.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p129",
+   "type": "narration",
+   "text": "He knelt in the top field with his head down and his hands on his knees and the blood running off his chin into the nettles, and couldn’t stop it. He pressed it. He tipped his head back. Nothing. It ran, steadily, like a tap left open, warm, and it went on and on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p130",
+   "type": "narration",
+   "text": "Lisska came down in the field beside him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p131",
+   "type": "narration",
+   "text": "She didn’t land. She came down. All at once, like a shot bird, a tumble of green wings into the weeds, and lay there flat, with her neck out and her eyes half shut, and didn’t get up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p132",
+   "type": "bond",
+   "text": "Empty,"
+  },
+  {
+   "seq": 202,
+   "para": "p132",
+   "type": "narration",
+   "text": "she said. Very faint."
+  },
+  {
+   "seq": 203,
+   "para": "p132",
+   "type": "thought",
+   "text": "I’m empty. I gave it all to you. All the wind.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p133",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p134",
+   "type": "thought",
+   "text": "I can’t. I can’t get up."
+  },
+  {
+   "seq": 206,
+   "para": "p134",
+   "type": "narration",
+   "text": "She was quiet."
+  },
+  {
+   "seq": 207,
+   "para": "p134",
+   "type": "thought",
+   "text": "I can’t fly, Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p135",
+   "type": "narration",
+   "text": "He reached out with his bloody hand and put it on her neck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p136",
+   "type": "speech",
+   "text": "“Lie still,”"
+  },
+  {
+   "seq": 210,
+   "para": "p136",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p137",
+   "type": "narration",
+   "text": "She lay still. She couldn’t fly until the next morning. She lay in the weeds of the top field all that day and all that night, with Kharrak standing over her like a wall, and Calder sitting beside her with his back against her side and a rag pressed to his face, until the blood stopped.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 212,
+   "para": "p138",
+   "type": "narration",
+   "text": "The village came up the hill in the afternoon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p139",
+   "type": "narration",
+   "text": "They came slowly. The thirty. Up the lane past the burned Wheel and up the slope through the low fields to the broken wall of the top field, where the elk had turned, and stopped there and looked at him. The farmer, sitting in his own weeds with blood all down his shirt and a green dragon lying flat beside him and a red one standing over both.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p140",
+   "type": "narration",
+   "text": "Nobody said anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p141",
+   "type": "narration",
+   "text": "The old man with the hay-fork came through the gap in the wall. Old Garrow’s cousin, Calder thought. He came and stood in front of Calder and looked at him a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p142",
+   "type": "speech",
+   "text": "“What did you say to her?”"
+  },
+  {
+   "seq": 217,
+   "para": "p142",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p143",
+   "type": "narration",
+   "text": "Calder told him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p144",
+   "type": "narration",
+   "text": "The old man’s face did something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p145",
+   "type": "speech",
+   "text": "“That’s the cattle word,”"
+  },
+  {
+   "seq": 221,
+   "para": "p145",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 222,
+   "para": "p145",
+   "type": "speech",
+   "text": "“That’s the gate word.”"
+  },
+  {
+   "seq": 223,
+   "para": "p145",
+   "type": "narration",
+   "text": "He shook his head."
+  },
+  {
+   "seq": 224,
+   "para": "p145",
+   "type": "speech",
+   "text": "“My father said it at the ford, once, to a bull that’d gone mad in the water. Said it turned. Nobody believed him.”"
+  },
+  {
+   "seq": 225,
+   "para": "p145",
+   "type": "narration",
+   "text": "He looked down the hill at his house, with its door gone, standing."
+  },
+  {
+   "seq": 226,
+   "para": "p145",
+   "type": "speech",
+   "text": "“It turned four hundred of them.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p146",
+   "type": "speech",
+   "text": "“It turned one,”"
+  },
+  {
+   "seq": 228,
+   "para": "p146",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 229,
+   "para": "p146",
+   "type": "speech",
+   "text": "“The rest followed.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 230,
+   "para": "p147",
+   "type": "narration",
+   "text": "His mother said the same, when he told her, at the caves, the night after.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 231,
+   "para": "p148",
+   "type": "speech",
+   "text": "“Your grandfather,”"
+  },
+  {
+   "seq": 232,
+   "para": "p148",
+   "type": "narration",
+   "text": "said Ada."
+  },
+  {
+   "seq": 233,
+   "para": "p148",
+   "type": "speech",
+   "text": "“Old Wyn Fenn. They said he turned a mad bull at the ford with it, the spring before you were born. In the water, with his hand on its horn. Nobody believed him.”"
+  },
+  {
+   "seq": 234,
+   "para": "p148",
+   "type": "narration",
+   "text": "She looked at him across the fire."
+  },
+  {
+   "seq": 235,
+   "para": "p148",
+   "type": "speech",
+   "text": "“He bled from the nose for a day after. I remember that. Your grandmother put a cold key down his back.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 236,
+   "para": "p149",
+   "type": "speech",
+   "text": "“Did it work again?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 237,
+   "para": "p150",
+   "type": "speech",
+   "text": "“No.”"
+  },
+  {
+   "seq": 238,
+   "para": "p150",
+   "type": "narration",
+   "text": "Ada shook her head."
+  },
+  {
+   "seq": 239,
+   "para": "p150",
+   "type": "speech",
+   "text": "“Never. He tried. All the rest of his life, at every gate. Never again.”"
+  },
+  {
+   "seq": 240,
+   "para": "p150",
+   "type": "narration",
+   "text": "She was quiet."
+  },
+  {
+   "seq": 241,
+   "para": "p150",
+   "type": "speech",
+   "text": "“He used to say it was the bull. That the bull had been ready to turn and he’d only asked it at the right time.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 242,
+   "para": "p151",
+   "type": "narration",
+   "text": "Calder sat with that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 243,
+   "para": "p152",
+   "type": "narration",
+   "text": "He thought of the old cow with the white blaze, going north along the top wall with her head up, not mad. Going somewhere.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 244,
+   "para": "p153",
+   "type": "narration",
+   "text": "He thought of Lisska lying flat in the weeds."
+  },
+  {
+   "seq": 245,
+   "para": "p153",
+   "type": "thought",
+   "text": "I gave it all to you.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 246,
+   "para": "p154",
+   "type": "speech",
+   "text": "“It wasn’t the cow,”"
+  },
+  {
+   "seq": 247,
+   "para": "p154",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 248,
+   "para": "p155",
+   "type": "narration",
+   "text": "Fisk said it best, at the Eelweir, the next morning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 249,
+   "para": "p156",
+   "type": "narration",
+   "text": "Calder had gone down to the village before he flew back, with Lisska walking slowly behind him, too tired still to fly far. Fisk was sitting in his door, as he’d sat in it on the night the companies came through, and every day since the spring. He’d seen the elk turn from the weir. He’d seen everything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 250,
+   "para": "p157",
+   "type": "speech",
+   "text": "“Somebody’s got to,”"
+  },
+  {
+   "seq": 251,
+   "para": "p157",
+   "type": "narration",
+   "text": "said Fisk."
+  },
+  {
+   "seq": 252,
+   "para": "p157",
+   "type": "speech",
+   "text": "“Tell it after. That’s what I’m for.”"
+  },
+  {
+   "seq": 253,
+   "para": "p157",
+   "type": "narration",
+   "text": "He looked up at Calder."
+  },
+  {
+   "seq": 254,
+   "para": "p157",
+   "type": "speech",
+   "text": "“I’ll tell that one. The farmer in his own weeds with his hand on an elk.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 255,
+   "para": "p158",
+   "type": "narration",
+   "text": "Calder sat down at Fisk’s table.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 256,
+   "para": "p159",
+   "type": "narration",
+   "text": "There was a board on it, a bit of planking, and a stick from the fire with the end burnt black. He picked up the stick. He leaned over the board and wrote, slowly, with his tongue between his teeth, like Wren. It took him a long time. He had to stop and think about every letter, and two of them he had to do twice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 257,
+   "para": "p160",
+   "type": "narration",
+   "text": "CALDER TURNED THE ELK",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 258,
+   "para": "p161",
+   "type": "narration",
+   "text": "He looked at it. Crooked. The letters different sizes. The D backwards again; he could see it now, he’d done it again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 259,
+   "para": "p162",
+   "type": "narration",
+   "text": "Fisk leaned over and looked at it too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 260,
+   "para": "p163",
+   "type": "speech",
+   "text": "“What’s it say?”"
+  },
+  {
+   "seq": 261,
+   "para": "p163",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 262,
+   "para": "p164",
+   "type": "speech",
+   "text": "“You can’t read either.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 263,
+   "para": "p165",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 264,
+   "para": "p165",
+   "type": "narration",
+   "text": "said Fisk."
+  },
+  {
+   "seq": 265,
+   "para": "p165",
+   "type": "speech",
+   "text": "“Never needed to. That’s what telling’s for.”"
+  },
+  {
+   "seq": 266,
+   "para": "p165",
+   "type": "narration",
+   "text": "He looked at the board."
+  },
+  {
+   "seq": 267,
+   "para": "p165",
+   "type": "speech",
+   "text": "“But I’ll keep it. On the wall. So when I tell it, I can point.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 268,
+   "para": "p166",
+   "type": "narration",
+   "text": "The old one flew on the hundred-and-fourteenth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 269,
+   "para": "p167",
+   "type": "narration",
+   "text": "Ivar Leck had taken the splints off on the hundred-and-tenth. The wing was crooked. There was a kink in it at the outer finger-joint, where the bone had ridden over and been pulled apart and set again and knitted, and it would never lie quite straight now when it was folded. But it had knitted. Ivar had put his hands on it with his head on one side, listening, and then wiped his beard and said,"
+  },
+  {
+   "seq": 270,
+   "para": "p167",
+   "type": "speech",
+   "text": "“Well,”"
+  },
+  {
+   "seq": 271,
+   "para": "p167",
+   "type": "narration",
+   "text": "and gone away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 272,
+   "para": "p168",
+   "type": "narration",
+   "text": "She didn’t tell anyone she was going to do it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 273,
+   "para": "p169",
+   "type": "narration",
+   "text": "Calder was in the yard. Back from Harrow’s End, on Kharrak, with Lisska flying behind them low and slow and stopping twice to rest on walls. He’d been in the yard an hour, by the trough. And somebody shouted. And he looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 274,
+   "para": "p170",
+   "type": "narration",
+   "text": "She was walking to the end of the setters’ ledge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 275,
+   "para": "p171",
+   "type": "narration",
+   "text": "Slowly. On four legs. Her head up. As she’d walked up the long brown slope to Coldtarn for Tor’s burning. To the very end of the ledge, where it stopped and the cliff went down two hundred feet to the yard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 276,
+   "para": "p172",
+   "type": "narration",
+   "text": "She opened the wing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 277,
+   "para": "p173",
+   "type": "narration",
+   "text": "Both wings. The good one, and the crooked one, out, as far as they’d go, the bronze of them catching the evening light, and the kink in the crooked one showing, the outer edge not quite level with the rest.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 278,
+   "para": "p174",
+   "type": "narration",
+   "text": "The yard went quiet. Everyone. Red thread and grey. Arn on the hall steps. Ulric by the west wall with Orm. The ledges, on their ledges.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 279,
+   "para": "p175",
+   "type": "narration",
+   "text": "She went off.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 280,
+   "para": "p176",
+   "type": "narration",
+   "text": "She dropped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 281,
+   "para": "p177",
+   "type": "narration",
+   "text": "He saw her drop. Off the end of the ledge, wings out, and down, too fast, much too fast, with the crooked wing not catching, the whole great bronze weight of her falling past the cave mouths toward the yard, and somebody screamed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 282,
+   "para": "p178",
+   "type": "narration",
+   "text": "He didn’t. He couldn’t. He felt it through the bond. Something he hadn’t felt in her for a hundred and fourteen days, since the night of the locks, since the fort, since the horn. Something that was nearly joy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 283,
+   "para": "p179",
+   "type": "narration",
+   "text": "The crooked wing caught.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 284,
+   "para": "p180",
+   "type": "narration",
+   "text": "Not well. Lopsided. He saw it bite the air, and the whole of her tip over toward it, and right herself, and tip again. But it caught. And she was flying. Not falling. Flying. Out from the cliff, over the yard, over the turf wall, over the heads of the people on the wall who ducked, and out across the glen. Low. Slow. Crooked. Her body tipped a little to one side the whole time, as a cart goes with one wheel smaller than the other.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 285,
+   "para": "p181",
+   "type": "narration",
+   "text": "She went out over the glen in a long slow circle, a quarter-league across, with the evening sun on her. Over the beck. Over the Way. Round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 286,
+   "para": "p182",
+   "type": "narration",
+   "text": "Back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 287,
+   "para": "p183",
+   "type": "narration",
+   "text": "The whole hold had come out. Into the yard, onto the walls, onto the stair. Nobody said anything. They watched her come round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 288,
+   "para": "p184",
+   "type": "narration",
+   "text": "She came in over the turf wall, low, crooked, and up the face of the cliff, and onto the setters’ ledge. Hard. She hit it hard, and skidded, and her claws went into the rock, and she stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 289,
+   "para": "p185",
+   "type": "narration",
+   "text": "She didn’t fall.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 290,
+   "para": "p186",
+   "type": "narration",
+   "text": "The yard cheered.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 291,
+   "para": "p187",
+   "type": "narration",
+   "text": "He’d never heard the Clan cheer. Not like that. Red thread and grey, together, the whole yard, a roar that went up the cliff and set the dragons on the Roosts lifting their heads. Somebody was banging a pot. Somebody was crying. On the hall steps, Arn had his hand over his face. By the west wall, Ulric was standing very still, looking up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 292,
+   "para": "p188",
+   "type": "narration",
+   "text": "Calder went up the stair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 293,
+   "para": "p189",
+   "type": "narration",
+   "text": "All the way, two hundred steps, with his legs shaking, and along the setters’ ledge to where she lay, with the crooked wing still half out and her sides going in and out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 294,
+   "para": "p190",
+   "type": "narration",
+   "text": "She opened her one gold eye.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 295,
+   "para": "p191",
+   "type": "bond",
+   "text": "I said it was nothing,"
+  },
+  {
+   "seq": 296,
+   "para": "p191",
+   "type": "narration",
+   "text": "said Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 297,
+   "para": "p192",
+   "type": "narration",
+   "text": "He sat down on the warm rock beside her and put his hand on her jaw.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 298,
+   "para": "p193",
+   "type": "bond",
+   "text": "It was something,"
+  },
+  {
+   "seq": 299,
+   "para": "p193",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 300,
+   "para": "p193",
+   "type": "thought",
+   "text": "It was something for a long time."
+  },
+  {
+   "seq": 301,
+   "para": "p193",
+   "type": "narration",
+   "text": "She shut the eye."
+  },
+  {
+   "seq": 302,
+   "para": "p193",
+   "type": "thought",
+   "text": "Now it is nothing.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "83d530bb935afa3bb32643e3f51424cabb109fa2",
+ "segments_sha1": "4261382078dcbbb429627a573cb5e346fc4b5d1d"
+}

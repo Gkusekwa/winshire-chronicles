@@ -2,6 +2,25 @@
  "chapter": 2,
  "title": "Across the River",
  "pov": "Calder",
+ "source": "Chapters/Chapter 02 - Across the River.md",
+ "names": [
+  "ada",
+  "bramble",
+  "calder",
+  "end",
+  "fenn",
+  "garrow",
+  "harrow",
+  "marches",
+  "ruin",
+  "rush",
+  "saltreach",
+  "ulric",
+  "varr",
+  "varrhold",
+  "wend",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1366,5 +1385,8 @@
    "mood": "reflective",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "9641d5ddc13eb09f95749e71dfa1219e39897978",
+ "segments_sha1": "bac14c9a9ecf6504e6dfdf6ea8642bd8e9f204a7"
 }

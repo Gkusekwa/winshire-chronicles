@@ -2,6 +2,21 @@
  "chapter": 14,
  "title": "The Younger Son",
  "pov": "Calder",
+ "source": "Chapters/Chapter 14 - The Younger Son.md",
+ "names": [
+  "arn",
+  "calder",
+  "coldtarn",
+  "end",
+  "fenn",
+  "fisk",
+  "greyhold",
+  "harrow",
+  "hob",
+  "teo",
+  "ulric",
+  "varr"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1308,5 +1323,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "adc95ba015234c4ec998a3f85b85cf6e3ef28931",
+ "segments_sha1": "673d67ae5fc11f08647c421d5df46d02d3885167"
 }

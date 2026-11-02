@@ -2,6 +2,19 @@
  "chapter": 41,
  "title": "The Freeze",
  "pov": "Maren",
+ "source": "Chapters/Chapter 41 - The Freeze.md",
+ "names": [
+  "beck",
+  "greyhold",
+  "haddow",
+  "harrow",
+  "hearthmere",
+  "maren",
+  "ottery",
+  "redwatch",
+  "saltreach",
+  "wend"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1083,5 +1096,8 @@
    "text": "Maren didn’t answer. After a while he turned and looked at the window, toward the island, and kept looking.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "efaaf0ae5d1656ad6d0d8f721f28e51a793bdb17",
+ "segments_sha1": "2c1339828ad994a9b53d79480360e421da6310ca"
 }

@@ -1,0 +1,1368 @@
+{
+ "chapter": 64,
+ "title": "The First Day",
+ "pov": "",
+ "source": "Chapters/Chapter 64 - The First Day.md",
+ "names": [
+  "aurveth",
+  "coil",
+  "furnace",
+  "hearthmere",
+  "horned",
+  "kharrak",
+  "lamp",
+  "lisska",
+  "rowan",
+  "ruth",
+  "saltreach",
+  "tallis",
+  "thornwood",
+  "titan",
+  "vale",
+  "wyldmarch"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Part Six. The Vale of the Wend.",
+   "pause_after_ms": 2000
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Sixty-four.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 3,
+   "para": "",
+   "type": "title",
+   "text": "The First Day.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 4,
+   "para": "p1",
+   "type": "narration",
+   "text": "They moved at the same breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p2",
+   "type": "narration",
+   "text": "All five. He saw it from the ridge in the grey before sunrise, standing between Kharrak’s forelegs with his hand on the plates. Five shapes on five horizons, that had lain all night where they’d stopped. And then, in the same breath, all of them, getting up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "narration",
+   "text": "As one. As if somebody had said a word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "bond",
+   "text": "They’ve been told"
+  },
+  {
+   "seq": 8,
+   "para": "p4",
+   "type": "narration",
+   "text": ", said Aurveth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 9,
+   "para": "p5",
+   "type": "narration",
+   "text": "He went up at first light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "narration",
+   "text": "Kharrak under him. Lisska on his left, green, low. Aurveth on his right, bronze, going higher already, slowly, her wings full out, until she was above everything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "narration",
+   "text": "Below them the Vale.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 12,
+   "para": "p8",
+   "type": "narration",
+   "text": "The wards came up again at sunrise.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p9",
+   "type": "narration",
+   "text": "Rowan’s order. Not noon: dawn."
+  },
+  {
+   "seq": 14,
+   "para": "p9",
+   "type": "thought",
+   "text": "So they’re fed before it starts"
+  },
+  {
+   "seq": 15,
+   "para": "p9",
+   "type": "narration",
+   "text": ", she’d said, at the dusk council, and the old man had nodded. He heard the words come up off the line under him. A hundred and six thousand voices."
+  },
+  {
+   "seq": 16,
+   "para": "p9",
+   "type": "thought",
+   "text": "Keep the watch."
+  },
+  {
+   "seq": 17,
+   "para": "p9",
+   "type": "narration",
+   "text": "Faint, from up here, like surf.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p10",
+   "type": "narration",
+   "text": "He said it too. Late. He always was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p11",
+   "type": "narration",
+   "text": "And the wards lit. Two long low domes of pale gold and pale blue, one on each bank, from the river to the ends of the line. The river dark between them. The Lamp standing on the water at the eddy’s head, too bright to look at. The Lady in the eddy. The lion at its foot.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 20,
+   "para": "p12",
+   "type": "narration",
+   "text": "And the air filled.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 21,
+   "para": "p13",
+   "type": "narration",
+   "text": "He’d never seen so much in it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p14",
+   "type": "narration",
+   "text": "The Clan first. Arn’s hundred pairs going up off the ridge behind him in flights of ten, red and grey, spreading out over the centre and both banks as Rowan had said. Arn on Ildra at the front of the first ten, small, red-gold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p15",
+   "type": "narration",
+   "text": "The rocs from the eastern downs. Four. Huge. Rust and white. Going out over the Wyldmarch’s sector with rocks the size of carts in their feet.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 24,
+   "para": "p16",
+   "type": "narration",
+   "text": "The stormkites. High. Higher than Aurveth almost. Six long thin grey birds circling over Isvaren’s sector with their light riders bent on their backs.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p17",
+   "type": "narration",
+   "text": "And at the scrub end, the wyverns. Nell Tallis’s, black and grey. Black Ruth’s. The Cranes’ two, patched and enormous. Going up off their stakes, hoods off, over Saltreach’s end.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 26,
+   "para": "p18",
+   "type": "narration",
+   "text": "Nobody’s sky.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p19",
+   "type": "narration",
+   "text": "Rowan had said that too."
+  },
+  {
+   "seq": 28,
+   "para": "p19",
+   "type": "remembered",
+   "text": "Nobody owns the sky. You share it."
+  },
+  {
+   "seq": 29,
+   "para": "p19",
+   "type": "narration",
+   "text": "He looked at it. Dragons and rocs and kites and wyverns, every kingdom’s, all in the air over the Vale in the dawn at once, each over its own people, not one of them owning any of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p20",
+   "type": "narration",
+   "text": "It was the most beautiful thing he’d ever seen. He was frightened of how beautiful it was.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 31,
+   "para": "p21",
+   "type": "narration",
+   "text": "The horns started.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p22",
+   "type": "narration",
+   "text": "The stormkites. Bone horns, blown down from the sky. They’d agreed the code at the council, Aud Hallin and Arn and Rowan, over the chalk map. One note for the west. Two for the north. Three for the south. Four for the north-west. Five for the south-east. Then left, then right.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p23",
+   "type": "thought",
+   "text": "One"
+  },
+  {
+   "seq": 34,
+   "para": "p23",
+   "type": "narration",
+   "text": ", came down from the sky. One. One.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p24",
+   "type": "narration",
+   "text": "The west.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 36,
+   "para": "p25",
+   "type": "narration",
+   "text": "The Last Titan came on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p26",
+   "type": "narration",
+   "text": "He watched it from Kharrak’s neck. Off the downs. Down onto the Vale. Walking. The chains dragging their furrows behind it. Its wings folded. Its head low. Its pale eyes on the eddy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p27",
+   "type": "narration",
+   "text": "Toward the Hearthmere wall’s western half.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 39,
+   "para": "p28",
+   "type": "narration",
+   "text": "It came up to the ward.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p29",
+   "type": "narration",
+   "text": "And put its head against it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p30",
+   "type": "narration",
+   "text": "He saw the ward light. Where the Last Titan’s head touched it, the pale shimmer went white. A patch of white light, the size of a field, on the ward’s face, round the great grey head. Burning. Holding.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p31",
+   "type": "narration",
+   "text": "The Last Titan pushed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p32",
+   "type": "narration",
+   "text": "The ward held.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 44,
+   "para": "p33",
+   "type": "narration",
+   "text": "It didn’t push again. It turned its head. And walked. Along the ward. East, toward the river. With its head against the shimmer, as a man walks along a wall in the dark with his hand on it. And the ward lit white along its side as it went, a line of white light following it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p34",
+   "type": "narration",
+   "text": "Testing. Feeling for the end.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p35",
+   "type": "narration",
+   "text": "The end was the river.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 47,
+   "para": "p36",
+   "type": "thought",
+   "text": "Two"
+  },
+  {
+   "seq": 48,
+   "para": "p36",
+   "type": "narration",
+   "text": ", came down from the sky. Two. Two.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 49,
+   "para": "p37",
+   "type": "narration",
+   "text": "The north.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p38",
+   "type": "narration",
+   "text": "The Wend above the line went black. All at once. The ice coming down the river under the morning like a shadow under water, a league in a breath. The Coil’s light under it. Long. Pale.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p39",
+   "type": "narration",
+   "text": "To the line’s northern edge. Where the two wards came down to the water on either bank, and the river ran between, dark, with nothing over it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p40",
+   "type": "narration",
+   "text": "The gap.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 53,
+   "para": "p41",
+   "type": "narration",
+   "text": "And the Lady went to meet it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p42",
+   "type": "narration",
+   "text": "He saw her go. Up out of the eddy. Up the river. Past the Lamp at the eddy’s head. Her long pale shape in the grey water, fast, faster than he’d ever seen anything move on water, up the channel between the wards. To the ice.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p43",
+   "type": "narration",
+   "text": "He lost sight of them in the steam.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 56,
+   "para": "p44",
+   "type": "thought",
+   "text": "Three"
+  },
+  {
+   "seq": 57,
+   "para": "p44",
+   "type": "narration",
+   "text": ", came down from the sky. Three.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p45",
+   "type": "narration",
+   "text": "The south. The river going white, two leagues down. The bell. It came up to a league below the line and lay there. Waiting. The white water piling up round it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 59,
+   "para": "p46",
+   "type": "thought",
+   "text": "Four.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 60,
+   "para": "p47",
+   "type": "narration",
+   "text": "The north-west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p48",
+   "type": "narration",
+   "text": "He saw the ground. As the knight had seen it. Beyond the western end of the Hearthmere wall, the downs. And the ridge under them, rising. Moving. The frost going off it in a line. Steam coming up through the cracks.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p49",
+   "type": "narration",
+   "text": "Toward the bend. Where the knights were. Where the greyharts and the hounds stood at the line’s western end, and one of the lion’s shadows lay with its chin on its paws among them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p50",
+   "type": "narration",
+   "text": "The Furnace. Burrowing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 64,
+   "para": "p51",
+   "type": "bond",
+   "text": "Down there"
+  },
+  {
+   "seq": 65,
+   "para": "p51",
+   "type": "narration",
+   "text": ", said Aurveth. From high above him."
+  },
+  {
+   "seq": 66,
+   "para": "p51",
+   "type": "thought",
+   "text": "It’s under the ground. Going under. Deep. Not at the knights."
+  },
+  {
+   "seq": 67,
+   "para": "p51",
+   "type": "narration",
+   "text": "She was quiet."
+  },
+  {
+   "seq": 68,
+   "para": "p51",
+   "type": "thought",
+   "text": "Toward the middle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p52",
+   "type": "narration",
+   "text": "He didn’t understand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p53",
+   "type": "narration",
+   "text": "He didn’t have time to.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 71,
+   "para": "p54",
+   "type": "thought",
+   "text": "Five.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 72,
+   "para": "p55",
+   "type": "narration",
+   "text": "The south-east.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p56",
+   "type": "narration",
+   "text": "He’d known it would be his. He’d known since the Vintner’s Gate. Since the knight’s lion had held it in the road and the Lamp had come down and it had gone back into the hills. Since it had lain there burning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p57",
+   "type": "narration",
+   "text": "It came down off the hills at the second hour.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 75,
+   "para": "p58",
+   "type": "narration",
+   "text": "Day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p59",
+   "type": "narration",
+   "text": "Coming down the hillside south of the scrub. A half-league of it. White-gold. The scrub catching where it went. Smoke going up black off the burning gorse in front of it. And in the middle of the light, the horn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p60",
+   "type": "narration",
+   "text": "Down onto the Vale. Onto the Saltreach wall’s eastern end. Where the scrub met the wall. Where Rennick’s sellswords stood on the wall’s top in their mismatched mail with their crossbows, paid.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p61",
+   "type": "narration",
+   "text": "It walked into the Saltreach ward.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 79,
+   "para": "p62",
+   "type": "narration",
+   "text": "The ward bent.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p63",
+   "type": "narration",
+   "text": "He saw it bend. Not break. Bend in. Under the light. As a sheet bends in a wind. The pale shimmer going white where the Horned Sun pressed on it, and then going in, toward the wall, toward the men on its top.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p64",
+   "type": "narration",
+   "text": "The men on the wall’s top were burning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p65",
+   "type": "narration",
+   "text": "Not on fire. Burning. As you burn in a summer field at noon with no hat. Their faces. Their hands. He saw them drop their crossbows and put their arms over their faces.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 83,
+   "para": "p66",
+   "type": "bond",
+   "text": "Now"
+  },
+  {
+   "seq": 84,
+   "para": "p66",
+   "type": "narration",
+   "text": ", he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p67",
+   "type": "bond",
+   "text": "Yes"
+  },
+  {
+   "seq": 86,
+   "para": "p67",
+   "type": "narration",
+   "text": ", said Kharrak."
+  },
+  {
+   "seq": 87,
+   "para": "p67",
+   "type": "thought",
+   "text": "Oh, yes.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 88,
+   "para": "p68",
+   "type": "narration",
+   "text": "They went down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p69",
+   "type": "narration",
+   "text": "Out of the sky. Over the scrub end. Kharrak’s great red wings folding back and his neck going out, and Calder flat on the plates with his scarred hands on them, and the ground coming up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p70",
+   "type": "narration",
+   "text": "And Kharrak opened his mouth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 91,
+   "para": "p71",
+   "type": "narration",
+   "text": "White.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 92,
+   "para": "p72",
+   "type": "narration",
+   "text": "He’d seen it in the Thornwood. On the sea. Into the Antlered’s walking wood, and round the Bell. He’d never seen it like this.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p73",
+   "type": "narration",
+   "text": "Across a league.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p74",
+   "type": "narration",
+   "text": "From the scrub end, along the Sun’s front. A wall of white fire, coming out of Kharrak’s mouth as he flew along the line of the Sun’s light, low, a quarter-league at a breath, and then another, and another. Between the Sun and the ward. Between the light and the men on the wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p75",
+   "type": "narration",
+   "text": "A league of it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 96,
+   "para": "p76",
+   "type": "narration",
+   "text": "And the Sun’s light met it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p77",
+   "type": "narration",
+   "text": "He didn’t have words for that. He’d never have them. Light and fire. Day and fire. The Horned Sun’s half-league of white-gold noon pressing on the ward from the south, and Kharrak’s white fire standing up in front of it, a league long, and the two of them meeting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p78",
+   "type": "narration",
+   "text": "The heat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p79",
+   "type": "narration",
+   "text": "He felt it come up through Kharrak. Through the plates. Into his palms. His palms had been scarred pink for a year, and blistered at the Thornwood, and healed, and he felt them open again on the plates and bleed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p80",
+   "type": "narration",
+   "text": "He kept them there.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 101,
+   "para": "p81",
+   "type": "narration",
+   "text": "The frost went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p82",
+   "type": "narration",
+   "text": "Off the whole south-east of the Vale. In a breath. The white going off the scrub, off the grass behind the Saltreach wall, off the wall itself, off the camp’s tents. Steam going up off everything at once. As if it were summer.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 103,
+   "para": "p83",
+   "type": "narration",
+   "text": "The Sun stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p84",
+   "type": "narration",
+   "text": "It stood in the fire. He saw it stop. Its light pressing on the white wall Kharrak had put in front of it. Not coming on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p85",
+   "type": "narration",
+   "text": "Then it turned its head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p86",
+   "type": "narration",
+   "text": "And looked at Kharrak.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 107,
+   "para": "p87",
+   "type": "narration",
+   "text": "The horn came round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p88",
+   "type": "narration",
+   "text": "Long. Straight. Like a spear of noon. Out of the light, at Kharrak, as he came along the fire’s line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p89",
+   "type": "narration",
+   "text": "Kharrak turned under it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p90",
+   "type": "narration",
+   "text": "And burned it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 111,
+   "para": "p91",
+   "type": "narration",
+   "text": "On the horn. On the face. White fire into the Horned Sun’s face at a hundred paces, Kharrak hanging in the air on his great wings with his mouth open and the fire going out of it into the light, into the horn, into whatever was behind the light that it called a face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p92",
+   "type": "narration",
+   "text": "The Sun went back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p93",
+   "type": "narration",
+   "text": "A quarter-league. Up the hillside. Into the burning scrub. Blazing. Its light flaring white and then gold.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 114,
+   "para": "p94",
+   "type": "bond",
+   "text": "Again"
+  },
+  {
+   "seq": 115,
+   "para": "p94",
+   "type": "narration",
+   "text": ", said Kharrak."
+  },
+  {
+   "seq": 116,
+   "para": "p94",
+   "type": "thought",
+   "text": "It’s coming again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p95",
+   "type": "narration",
+   "text": "It came again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p96",
+   "type": "narration",
+   "text": "And again. All day. Down off the hillside into the fire, and against the ward, and the ward bending, and Kharrak’s white wall going up in front of it, and the horn coming round, and Kharrak burning it on the horn and on the face. And the Sun going back up the hill a quarter-league, blazing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p97",
+   "type": "narration",
+   "text": "And coming again.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 120,
+   "para": "p98",
+   "type": "narration",
+   "text": "He lost count.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p99",
+   "type": "narration",
+   "text": "He wasn’t the knight. He didn’t count things. He held on to Kharrak’s plates with his bleeding hands and said"
+  },
+  {
+   "seq": 122,
+   "para": "p99",
+   "type": "bond",
+   "text": "now"
+  },
+  {
+   "seq": 123,
+   "para": "p99",
+   "type": "narration",
+   "text": "and"
+  },
+  {
+   "seq": 124,
+   "para": "p99",
+   "type": "thought",
+   "text": "again"
+  },
+  {
+   "seq": 125,
+   "para": "p99",
+   "type": "narration",
+   "text": "and there, and Kharrak burned, and the sun went across the sky over them, and he didn’t know what hour it was.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 126,
+   "para": "p100",
+   "type": "narration",
+   "text": "Lisska was over the people.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p101",
+   "type": "narration",
+   "text": "Behind the scrub end. The Saltreach camp. Thousands, behind the wall, with their tents steaming. When the Sun’s heat came over the ward, over Kharrak’s fire, rolling over the top of it like heat over a hedge, she was there. Under it. Low. Her green wings full out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p102",
+   "type": "narration",
+   "text": "And put a wind under it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p103",
+   "type": "narration",
+   "text": "Up. Into the sky. The heat going up off the camp like smoke up a chimney, into the cold air above, away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p104",
+   "type": "bond",
+   "text": "There"
+  },
+  {
+   "seq": 131,
+   "para": "p104",
+   "type": "narration",
+   "text": ", said Lisska. Every time. There. Easy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p105",
+   "type": "narration",
+   "text": "It wasn’t easy. He could feel what it cost her. Through the green. Her breath, going. As his did.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 133,
+   "para": "p106",
+   "type": "narration",
+   "text": "Aurveth was high.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p107",
+   "type": "narration",
+   "text": "Above all of it. Above the kites. Circling, slowly, with her wings full out and her head down. Seeing. For all of them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p108",
+   "type": "narration",
+   "text": "He felt her see. Through the bronze. A long way down. The whole Vale. The five. The wards. The lion in the river and his three shadows in their sectors. The Lady and the Coil in the steam in the northern channel.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p109",
+   "type": "narration",
+   "text": "And under the Hearthmere bend, deep in the ground, the Furnace.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p110",
+   "type": "bond",
+   "text": "It’s going under"
+  },
+  {
+   "seq": 138,
+   "para": "p110",
+   "type": "narration",
+   "text": ", she said, again."
+  },
+  {
+   "seq": 139,
+   "para": "p110",
+   "type": "thought",
+   "text": "Under the knights. Under the wall. Toward the middle. Toward the hub.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p111",
+   "type": "thought",
+   "text": "The batteries?",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p112",
+   "type": "bond",
+   "text": "Yes"
+  },
+  {
+   "seq": 142,
+   "para": "p112",
+   "type": "narration",
+   "text": ", said Aurveth."
+  },
+  {
+   "seq": 143,
+   "para": "p112",
+   "type": "thought",
+   "text": "I think so. I think it wants the engines.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p113",
+   "type": "narration",
+   "text": "He couldn’t do anything about it. He was over the scrub end, with the Sun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p114",
+   "type": "narration",
+   "text": "He told Lisska to tell the ridge, and the ridge to tell Rowan, and hoped.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 146,
+   "para": "p115",
+   "type": "narration",
+   "text": "The wyverns hit the Sun at noon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p116",
+   "type": "narration",
+   "text": "He saw them come. Out of the smoke. Nell Tallis’s, black and grey, a dozen. Black Ruth’s behind. Diving. Out of the black smoke of the burning scrub, down onto the Sun’s back, where Kharrak’s fire didn’t reach. With their riders bent low and their spears out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p117",
+   "type": "narration",
+   "text": "Three of them didn’t come out of the light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p118",
+   "type": "narration",
+   "text": "He saw them go in. And not come out. Three black shapes going into the white-gold, and then nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p119",
+   "type": "narration",
+   "text": "The rest came out the other side and went up, and round, and came again.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 151,
+   "para": "p120",
+   "type": "narration",
+   "text": "Far off, to the north, a roc dropped a rock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p121",
+   "type": "narration",
+   "text": "He saw it through Aurveth. One of Yeva’s. Over the northern channel where the Lady and the Coil were winding in the steam. A rock the size of a cart, falling, onto the Coil’s pale head where it came up out of the black water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p122",
+   "type": "narration",
+   "text": "The roc came out of the steam white. Its feathers frosted. Half of them falling off it as it flew, like snow off a branch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p123",
+   "type": "narration",
+   "text": "It went down on the Wyldmarch’s side, slowly, and didn’t get up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 155,
+   "para": "p124",
+   "type": "narration",
+   "text": "In the afternoon he looked west.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 156,
+   "para": "p125",
+   "type": "narration",
+   "text": "He didn’t mean to. He’d been looking at the Sun all day; he couldn’t see anything else for the light in his eyes. Kharrak turned, once, at the end of a run along the fire’s line, wide, over the river, and for a breath the Hearthmere bank lay under him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p126",
+   "type": "narration",
+   "text": "The Candle Downs side.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 158,
+   "para": "p127",
+   "type": "narration",
+   "text": "The Furnace had pushed at the bend all morning. He’d seen the ridge. The ground heaving, under the downs, under the western end of the wall. He’d thought the wall would go. It had been built straight. On dead ground. With nothing under it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p128",
+   "type": "narration",
+   "text": "It hadn’t gone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 160,
+   "para": "p129",
+   "type": "narration",
+   "text": "It had changed.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 161,
+   "para": "p130",
+   "type": "narration",
+   "text": "Along the wall’s face. Its western face, toward the downs. For a league, from the bend toward the river. Where the ground heaved under it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p131",
+   "type": "narration",
+   "text": "Lions.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p132",
+   "type": "narration",
+   "text": "Hundreds of them. Stone. Grey. Each the size of a horse. Crouched. Shoulder to shoulder. All along the wall’s foot, with their backs against its face and their forefeet dug into the heaving ground in front of it. Bracing it. Holding the wall up as men hold a door against a crowd.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 164,
+   "para": "p133",
+   "type": "narration",
+   "text": "Not shadows. He knew shadows. These were stone. The wall itself. Its own grey stone, come out of its face in the shape of lions, hundreds, in a row, holding.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 165,
+   "para": "p134",
+   "type": "narration",
+   "text": "He looked for her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p135",
+   "type": "narration",
+   "text": "She wasn’t at the bend. The shadow was. One of the three. A hill with a mane, lying at the bend’s foot among the knights, with its forepaws flat on the ground in front of it, pressing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p136",
+   "type": "narration",
+   "text": "And a league off, in the river, at the eddy’s foot, the lion. And on his head, small, a shape. Bent. Both hands flat on his stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p137",
+   "type": "narration",
+   "text": "Her. Through him. Through his shadow. Together.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p138",
+   "type": "narration",
+   "text": "The wall answering them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 170,
+   "para": "p139",
+   "type": "narration",
+   "text": "Kharrak turned back toward the Sun, and the Hearthmere bank went out from under him, and he didn’t see it again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p140",
+   "type": "narration",
+   "text": "He thought about it all afternoon. Hundreds of stone lions, holding a wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p141",
+   "type": "narration",
+   "text": "He’d tell Wren. If.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 173,
+   "para": "p142",
+   "type": "narration",
+   "text": "The Sun went back at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p143",
+   "type": "narration",
+   "text": "Up the hillside, further than a quarter-league, back onto the hills south of the scrub, where it had come from that morning. And lay down there. Burning. Its light going gold, then red, like a fire banked for the night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p144",
+   "type": "narration",
+   "text": "Kharrak didn’t follow it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 176,
+   "para": "p145",
+   "type": "narration",
+   "text": "They came down on the ridge in the last light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p146",
+   "type": "narration",
+   "text": "He got off. He couldn’t get off. His hands were stuck to the plates with blood. He pulled them off and the skin came with them and he stood on the ridge in the cold that had come back with the dark, with his hands held out in front of him, bleeding.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p147",
+   "type": "narration",
+   "text": "Kharrak lay down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p148",
+   "type": "narration",
+   "text": "His face was blistered. All of it. The great red face, the plates of it, blistered white where the Sun’s light had hit him, over and over, all day. His gold eyes shut.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 180,
+   "para": "p149",
+   "type": "bond",
+   "text": "It’s very bright"
+  },
+  {
+   "seq": 181,
+   "para": "p149",
+   "type": "narration",
+   "text": ", said Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p150",
+   "type": "thought",
+   "text": "I know.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p151",
+   "type": "bond",
+   "text": "I couldn’t stop it"
+  },
+  {
+   "seq": 184,
+   "para": "p151",
+   "type": "narration",
+   "text": ", said Kharrak. Slowly."
+  },
+  {
+   "seq": 185,
+   "para": "p151",
+   "type": "thought",
+   "text": "I tried. All day. I could only hold it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p152",
+   "type": "narration",
+   "text": "Calder put his bleeding hand on Kharrak’s nose.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p153",
+   "type": "bond",
+   "text": "That’s what we’re doing"
+  },
+  {
+   "seq": 188,
+   "para": "p153",
+   "type": "narration",
+   "text": ", he said."
+  },
+  {
+   "seq": 189,
+   "para": "p153",
+   "type": "thought",
+   "text": "All of us. That’s all it is.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p154",
+   "type": "narration",
+   "text": "Kharrak thought about that, with his eyes shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p155",
+   "type": "bond",
+   "text": "Holding"
+  },
+  {
+   "seq": 192,
+   "para": "p155",
+   "type": "narration",
+   "text": ", he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p156",
+   "type": "thought",
+   "text": "Holding.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p157",
+   "type": "bond",
+   "text": "I don’t like it"
+  },
+  {
+   "seq": 195,
+   "para": "p157",
+   "type": "narration",
+   "text": ", said Kharrak."
+  },
+  {
+   "seq": 196,
+   "para": "p157",
+   "type": "thought",
+   "text": "I’m good at it, though.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "f3c2569795624f8c9180cdc22059c5029576fa07",
+ "segments_sha1": "0c9098c8113abbe951ee7cf8b6433f9be07a2cf7"
+}

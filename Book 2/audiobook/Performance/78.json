@@ -1,0 +1,1447 @@
+{
+ "chapter": 78,
+ "title": "Ashes on the Saltings",
+ "pov": "",
+ "source": "Chapters/Chapter 78 - Ashes on the Saltings.md",
+ "names": [
+  "ada",
+  "arn",
+  "asta",
+  "aurveth",
+  "calder",
+  "corsa",
+  "drover",
+  "dunn",
+  "greyhold",
+  "gullhaven",
+  "harrow",
+  "hearthmere",
+  "hessa",
+  "lisska",
+  "marches",
+  "nell",
+  "pane",
+  "saltings",
+  "saltreach",
+  "staithe",
+  "strand",
+  "tallis",
+  "tamsin",
+  "vey",
+  "wend"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Seventy-eight.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Ashes on the Saltings.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The sea gave them back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "Over two days. Along the shingle of what was left of the spit, and the edge of the Saltings, and the mud of the harbour. On every tide. The salt-wives walked the tideline at dawn and at dusk with the Clan’s riders beside them, and when they found someone they stopped, and knelt, and called the others.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "The few boats with sound hulls went out to the drowned smoke-houses. Standing in the sea. With their white crosses. Empty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "The harbour-master sat on the hill with his book. When they brought someone up, he looked. And found the name. And put a mark beside it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "Two hundred and ninety names.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "Two hundred and sixty-one found.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "Vey wasn’t found.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "He hadn’t thought he would be. He went to the spit’s end anyway, on the second evening, and stood on the last of the shingle where the sea came over it now and looked out at the place two leagues off where the reef had been.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "There was nothing there. Sea. Flat. Grey. Not even breakers. The Bell had gone south with the temple on its back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "bond",
+   "text": "He was paid for the reef,"
+  },
+  {
+   "seq": 13,
+   "para": "p10",
+   "type": "narration",
+   "text": "said Aurveth. In his head. From the salt-store’s roof, where she still lay.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p11",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p12",
+   "type": "bond",
+   "text": "The reef’s gone,"
+  },
+  {
+   "seq": 16,
+   "para": "p12",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 17,
+   "para": "p12",
+   "type": "thought",
+   "text": "So I suppose he’s still on it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 18,
+   "para": "p13",
+   "type": "narration",
+   "text": "Asta Dunn’s dragon came in on the edge of the Saltings.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p14",
+   "type": "narration",
+   "text": "Old. Grey-blue. Lying in the mud where the marsh met the sea, on her side, with her wings folded under her. Ulric went to her alone. He stood beside her for a long time. Then he and his riders burned her where she lay, with driftwood and the marsh’s dead reeds, because there was no moving her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p15",
+   "type": "narration",
+   "text": "They didn’t find Asta.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 21,
+   "para": "p16",
+   "type": "narration",
+   "text": "They burned the drowned at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p17",
+   "type": "narration",
+   "text": "On the shingle at the spit’s root. By the salt-store. Pyres of smoke-house timber and wreck: beams, doors, the planks of boats that wouldn’t float again. The Clan’s way. The dead burned and the ash kept.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "narration",
+   "text": "Gullhaven’s way was the sea.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p19",
+   "type": "speech",
+   "text": "“Not this time,”"
+  },
+  {
+   "seq": 25,
+   "para": "p19",
+   "type": "narration",
+   "text": "said Hessa Pane. Standing on the shingle with her white arms folded, looking at the pyres."
+  },
+  {
+   "seq": 26,
+   "para": "p19",
+   "type": "speech",
+   "text": "“The sea did this. She can have the ash. She’s not having them.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p20",
+   "type": "narration",
+   "text": "Nobody argued with her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 28,
+   "para": "p21",
+   "type": "narration",
+   "text": "Ada went to light the first one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p22",
+   "type": "narration",
+   "text": "Out of a lifetime’s habit. She put two fingers to the kindling at the pyre’s foot and turned them three times and said the hearth-word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p23",
+   "type": "narration",
+   "text": "Nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p24",
+   "type": "narration",
+   "text": "Not a spark. Saltreach was drained. Since the leviathan went south with the bell ringing on its back, every charm on the coast was a word and nothing else. Ada knew it. He saw her know it. She’d known it before she turned her fingers.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p25",
+   "type": "narration",
+   "text": "She took a coal from the salt-store’s fire in a pair of tongs, like anyone. And lit it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p26",
+   "type": "narration",
+   "text": "She didn’t say anything.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 34,
+   "para": "p27",
+   "type": "narration",
+   "text": "They poured at dawn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p28",
+   "type": "narration",
+   "text": "The ash in salt-barrels. There were no urns. Sixteen barrels, salt-white inside, with the ash in them. On the end of the old jetty: the one jetty on the spit that still stood, out over the water on its black legs, with the sea under it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p29",
+   "type": "narration",
+   "text": "Arn walked out onto it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p30",
+   "type": "narration",
+   "text": "With his hands at his sides. To the end. To the first barrel. He put his hands on its rim.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p31",
+   "type": "narration",
+   "text": "Then he stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p32",
+   "type": "narration",
+   "text": "He turned round. And looked back down the jetty at the shingle, where the Clan stood, and the town behind them, what was left of it. At Ulric.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 40,
+   "para": "p33",
+   "type": "narration",
+   "text": "Calder had seen it before.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p34",
+   "type": "narration",
+   "text": "At Coldtarn. On the flat black stone that ran out into the tarn like a jetty. In the autumn, a winter and a war ago, Teo walking out onto the stone like it was his kitchen."
+  },
+  {
+   "seq": 42,
+   "para": "p34",
+   "type": "thought",
+   "text": "Pour with him. You’re both right. Pour together. One hand each."
+  },
+  {
+   "seq": 43,
+   "para": "p34",
+   "type": "narration",
+   "text": "And in the summer again, for Tor Brecc and Skell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p35",
+   "type": "narration",
+   "text": "For their own.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p36",
+   "type": "narration",
+   "text": "These weren’t their own.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p37",
+   "type": "narration",
+   "text": "Ulric came down the shingle. Onto the jetty. Out to the end of it, past the barrels, to Arn. He put one hand on the barrel’s rim.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p38",
+   "type": "speech",
+   "text": "“One hand each,”"
+  },
+  {
+   "seq": 48,
+   "para": "p38",
+   "type": "narration",
+   "text": "said Arn.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 49,
+   "para": "p39",
+   "type": "narration",
+   "text": "They lifted it together.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p40",
+   "type": "narration",
+   "text": "One hand each. The barrel between them. Two hundred and sixty-one strangers, and two riders of the red thread and their dragons, and Asta Dunn of the grey, who’d gone into the second wave after a family on a roof that wasn’t marked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p41",
+   "type": "narration",
+   "text": "All in together. Ulric said so.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p42",
+   "type": "narration",
+   "text": "They tipped it over the end of the jetty, and the ash went down into the sea in a long grey pour.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p43",
+   "type": "narration",
+   "text": "Then the next. And the next. Sixteen. One hand each.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 54,
+   "para": "p44",
+   "type": "narration",
+   "text": "The salt-wives came after.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p45",
+   "type": "narration",
+   "text": "Down the jetty in a line. Twenty of them, thirty, with their cups of brine from the pans. The tin cups and the clay and the wooden. Hessa Pane at the front, with her mother’s tin cup in both hands, because her mother had been on the chapel roof and was on the hill now with ten others who’d come off Tamsin’s back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p46",
+   "type": "narration",
+   "text": "They lined the jetty’s end where the barrels had been.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p47",
+   "type": "narration",
+   "text": "The eldest said it. Hessa’s mother. Bent double. Carried down the jetty on a chair by two salt-boys.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p48",
+   "type": "thought",
+   "text": "Lady, we give you back your salt. Keep the stones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p49",
+   "type": "narration",
+   "text": "They poured.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p50",
+   "type": "speech",
+   "text": "“She didn’t,”"
+  },
+  {
+   "seq": 61,
+   "para": "p50",
+   "type": "narration",
+   "text": "said Hessa Pane. Looking at the water where her brine had gone in."
+  },
+  {
+   "seq": 62,
+   "para": "p50",
+   "type": "speech",
+   "text": "“Keep them.”"
+  },
+  {
+   "seq": 63,
+   "para": "p50",
+   "type": "narration",
+   "text": "She turned her cup upside down and shook the last drop out of it."
+  },
+  {
+   "seq": 64,
+   "para": "p50",
+   "type": "speech",
+   "text": "“Say it anyway.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 65,
+   "para": "p51",
+   "type": "narration",
+   "text": "The harbour-master found him on the hill that afternoon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p52",
+   "type": "narration",
+   "text": "With his book under his arm. Wet still, at the edges. He sat down on the grass beside Calder without being asked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p53",
+   "type": "speech",
+   "text": "“The Council will want it written,”"
+  },
+  {
+   "seq": 68,
+   "para": "p53",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 69,
+   "para": "p53",
+   "type": "speech",
+   "text": "“What happened. Who knew. Somebody’ll have to write it.”"
+  },
+  {
+   "seq": 70,
+   "para": "p53",
+   "type": "narration",
+   "text": "He looked at the book."
+  },
+  {
+   "seq": 71,
+   "para": "p53",
+   "type": "speech",
+   "text": "“I’ve got the names. I can’t write the rest. I don’t know it.”"
+  },
+  {
+   "seq": 72,
+   "para": "p53",
+   "type": "narration",
+   "text": "He looked at Calder."
+  },
+  {
+   "seq": 73,
+   "para": "p53",
+   "type": "speech",
+   "text": "“You knew.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p54",
+   "type": "narration",
+   "text": "Ada was sitting on Calder’s other side. On an upturned basket.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p55",
+   "type": "speech",
+   "text": "“I’ll write it,”"
+  },
+  {
+   "seq": 76,
+   "para": "p55",
+   "type": "narration",
+   "text": "said Ada.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p56",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 78,
+   "para": "p56",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 79,
+   "para": "p56",
+   "type": "speech",
+   "text": "“I will.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p57",
+   "type": "narration",
+   "text": "Ada looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p58",
+   "type": "narration",
+   "text": "She didn’t say anything. After a moment she nodded.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 82,
+   "para": "p59",
+   "type": "narration",
+   "text": "He wrote it that night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p60",
+   "type": "narration",
+   "text": "In the salt-store. The Anchor-and-Net was in the sea. At a trestle in among the salt sacks, by a fish-oil lamp, on a sheet of the harbour-master’s paper, thick and grey and damp at one corner. With the harbour-master’s pen. With Ada across the trestle from him, sitting with her hands in her lap, not helping.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p61",
+   "type": "narration",
+   "text": "He didn’t use his finger.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 85,
+   "para": "p62",
+   "type": "thought",
+   "text": "To the Tide Council, at Corsa.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p63",
+   "type": "thought",
+   "text": "On the 349th day the sea went out of the bay at Gullhaven at noon. It went out in a quarter of an hour. It was not a tide. The harbour was empty and the oyster beds were bare a league out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p64",
+   "type": "narration",
+   "text": "He stopped. He wet the pen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p65",
+   "type": "thought",
+   "text": "Then the reef stood up. The reef was a beast. It had the drowned temple on its back. It was as big as Gullhaven. It went down into the sea to the south and the sea came back in a wave as high as the smoke-houses.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p66",
+   "type": "thought",
+   "text": "There were about 3,800 people on the spit. The Clan of the Scarfell lifted 3,500 and some off the roofs we had marked with white crosses. The company of Captain Vey lifted the children off the salt-pan sheds. The Clan paid them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p67",
+   "type": "thought",
+   "text": "290 people drowned. 261 have been found. The harbour-master has their names.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p68",
+   "type": "thought",
+   "text": "Captain Vey is dead. He died on the reef on the 348th day, getting his drawers into his boat. He was paid for the reef. He stayed on it.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 92,
+   "para": "p69",
+   "type": "narration",
+   "text": "He stopped again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p70",
+   "type": "thought",
+   "text": "The roofs we marked stood. The ones we did not mark went. We marked them because a dragon stood on them. Anyone could have.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p71",
+   "type": "thought",
+   "text": "The Council was told. I told it myself, at Corsa, on the 331st day. It was oyster season.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p72",
+   "type": "thought",
+   "text": "Calder Fenn, of Harrow’s End.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 96,
+   "para": "p73",
+   "type": "narration",
+   "text": "It took him three hours.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p74",
+   "type": "narration",
+   "text": "One page. Both sides. His own hand. Big and square and careful at the top, getting smaller at the bottom, where he’d run out of room and hadn’t wanted to start another sheet.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 98,
+   "para": "p75",
+   "type": "narration",
+   "text": "He pushed it across the trestle to Ada.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p76",
+   "type": "narration",
+   "text": "She read it. Slowly. All of it. Both sides. Her lips moving at the numbers, checking them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p77",
+   "type": "narration",
+   "text": "She put it down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p78",
+   "type": "speech",
+   "text": "“Will I change anything?”"
+  },
+  {
+   "seq": 102,
+   "para": "p78",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p79",
+   "type": "narration",
+   "text": "Ada looked at him across the trestle, in the fish-oil light, for a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p80",
+   "type": "speech",
+   "text": "“Not a word,”"
+  },
+  {
+   "seq": 105,
+   "para": "p80",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 106,
+   "para": "p81",
+   "type": "narration",
+   "text": "A Strand ship took it to Corsa.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p82",
+   "type": "narration",
+   "text": "One of the seven that hadn’t gone over. On the three-hundred-and-fifty-second day, in the morning. With Nell Tallis and the wyvern company aboard, Sable and Hask and the three others hooded on its deck, and Vey’s small black ship following with nobody at the helm who’d sailed her before.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p83",
+   "type": "narration",
+   "text": "Nell Tallis took the page from him on the jetty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p84",
+   "type": "speech",
+   "text": "“I’ll put it in Marrow’s hand,”"
+  },
+  {
+   "seq": 110,
+   "para": "p84",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 111,
+   "para": "p84",
+   "type": "speech",
+   "text": "“Myself.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Not Strand’s.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p86",
+   "type": "speech",
+   "text": "“Not Strand’s,”"
+  },
+  {
+   "seq": 114,
+   "para": "p86",
+   "type": "narration",
+   "text": "said Nell Tallis. She folded it into her coat."
+  },
+  {
+   "seq": 115,
+   "para": "p86",
+   "type": "speech",
+   "text": "“The captain would have liked that. A page with numbers on it.”"
+  },
+  {
+   "seq": 116,
+   "para": "p86",
+   "type": "narration",
+   "text": "She looked at the sea."
+  },
+  {
+   "seq": 117,
+   "para": "p86",
+   "type": "speech",
+   "text": "“He liked a plain price.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 118,
+   "para": "p87",
+   "type": "narration",
+   "text": "Aurveth said the Clan had to go home.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p88",
+   "type": "narration",
+   "text": "That morning. From the salt-store roof, where she’d lain three days. She lifted her head and turned it north, inland, over the hill and the salt pans and the low hills beyond.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p89",
+   "type": "bond",
+   "text": "It’s lying down,"
+  },
+  {
+   "seq": 121,
+   "para": "p89",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 122,
+   "para": "p89",
+   "type": "thought",
+   "text": "Inland. Over the downs, south-west of the Marches. Waiting."
+  },
+  {
+   "seq": 123,
+   "para": "p89",
+   "type": "narration",
+   "text": "She was quiet."
+  },
+  {
+   "seq": 124,
+   "para": "p89",
+   "type": "thought",
+   "text": "It’ll go up within two days. And it’ll go home.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p90",
+   "type": "narration",
+   "text": "He told Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p91",
+   "type": "narration",
+   "text": "Arn stood on the shingle and looked north for a while.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p92",
+   "type": "speech",
+   "text": "“When the coast is done,”"
+  },
+  {
+   "seq": 128,
+   "para": "p92",
+   "type": "narration",
+   "text": "he said,"
+  },
+  {
+   "seq": 129,
+   "para": "p92",
+   "type": "speech",
+   "text": "“the Clan comes to the river.”"
+  },
+  {
+   "seq": 130,
+   "para": "p92",
+   "type": "narration",
+   "text": "He looked at the sea. At the smoke-houses standing in it. At the hill full of people."
+  },
+  {
+   "seq": 131,
+   "para": "p92",
+   "type": "speech",
+   "text": "“The coast’s done.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 132,
+   "para": "p93",
+   "type": "narration",
+   "text": "Arn went first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p94",
+   "type": "narration",
+   "text": "That morning. With the fast pairs. Thirty dragons, red thread and grey, up off the shingle in a roar and away west along the coast toward the Wend’s mouth. Low. Fast. Not resting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p95",
+   "type": "speech",
+   "text": "“Tomorrow at dawn,”"
+  },
+  {
+   "seq": 135,
+   "para": "p95",
+   "type": "narration",
+   "text": "he said, before he went."
+  },
+  {
+   "seq": 136,
+   "para": "p95",
+   "type": "speech",
+   "text": "“Greyhold.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p96",
+   "type": "narration",
+   "text": "Ulric’s half stayed a day. To lift the last of Gullhaven off the hill to the farms behind the pans, where there were roofs and beds. Then they’d follow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p97",
+   "type": "narration",
+   "text": "Gunna took Ada.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p98",
+   "type": "narration",
+   "text": "Home. To Varrhold. In Tamsin’s basket, which Tamsin had flown with six people in it and five more on her back three days ago and said nothing about.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p99",
+   "type": "speech",
+   "text": "“Wren’ll want it twice,”"
+  },
+  {
+   "seq": 141,
+   "para": "p99",
+   "type": "narration",
+   "text": "said Ada. Getting into the basket. Without being asked."
+  },
+  {
+   "seq": 142,
+   "para": "p99",
+   "type": "speech",
+   "text": "“All of it. You’d better come and tell her yourself.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p100",
+   "type": "speech",
+   "text": "“I will.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p101",
+   "type": "speech",
+   "text": "“I know you will,”"
+  },
+  {
+   "seq": 145,
+   "para": "p101",
+   "type": "narration",
+   "text": "said Ada."
+  },
+  {
+   "seq": 146,
+   "para": "p101",
+   "type": "speech",
+   "text": "“I’m saying it anyway.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 147,
+   "para": "p102",
+   "type": "narration",
+   "text": "He went with Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p103",
+   "type": "narration",
+   "text": "She couldn’t fly with Arn’s pairs. She knew it. Her crooked wing, and her age, and three days lying on a roof with sixty people on her. She’d fly. Slowly. With rests. Three days, perhaps, to the Marches.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p104",
+   "type": "narration",
+   "text": "Kharrak off her crooked side. Lisska ahead, scouting, low.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p105",
+   "type": "narration",
+   "text": "West along the coast. Toward the Wend’s mouth. Then north. Up the valley.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 151,
+   "para": "p106",
+   "type": "narration",
+   "text": "They slept the first night in the Ashlings.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p107",
+   "type": "narration",
+   "text": "Scrub. Dry. Grey-green bushes and sand and the sea’s sound a long way off. Aurveth lay down among the bushes and slept at once, her head on her forelegs, breathing slow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p108",
+   "type": "narration",
+   "text": "He didn’t sleep.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p109",
+   "type": "narration",
+   "text": "He lay against Kharrak’s side and looked at the stars and thought of a page with numbers on it, going to Corsa in a wyvern-rider’s coat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p110",
+   "type": "thought",
+   "text": "It was oyster season.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 156,
+   "para": "p111",
+   "type": "narration",
+   "text": "Aurveth woke him before dawn on the second day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p112",
+   "type": "narration",
+   "text": "Lifting her head. All at once. He felt it before she said anything. Through her. A weight going up. A long way off, to the north and west, over the downs. Into the sky.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p113",
+   "type": "bond",
+   "text": "It’s up,"
+  },
+  {
+   "seq": 159,
+   "para": "p113",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p114",
+   "type": "speech",
+   "text": "“Flying?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p115",
+   "type": "thought",
+   "text": "Flying."
+  },
+  {
+   "seq": 162,
+   "para": "p115",
+   "type": "narration",
+   "text": "She got to her feet in the dark. Stiffly."
+  },
+  {
+   "seq": 163,
+   "para": "p115",
+   "type": "thought",
+   "text": "Toward the river."
+  },
+  {
+   "seq": 164,
+   "para": "p115",
+   "type": "narration",
+   "text": "She shook out her wings, both of them, the crooked one last."
+  },
+  {
+   "seq": 165,
+   "para": "p115",
+   "type": "thought",
+   "text": "We’re a day off. More.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p116",
+   "type": "speech",
+   "text": "“You need to rest.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p117",
+   "type": "bond",
+   "text": "I’ll rest at the river,"
+  },
+  {
+   "seq": 168,
+   "para": "p117",
+   "type": "narration",
+   "text": "said Aurveth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 169,
+   "para": "p118",
+   "type": "narration",
+   "text": "They flew into the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p119",
+   "type": "narration",
+   "text": "All that day. And on into the night. Up the Wend’s valley, north, with the river under them silver and then black. Over Wendmouth’s painted warehouses on their stilts. Over the Reedmarsh. Over Cotter’s Cross, where the Drover’s Way met the Saltreach Track, a rough town with its fires lit. Aurveth flying low and slow and steady, not stopping. Kharrak off her crooked side, close.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p120",
+   "type": "narration",
+   "text": "He felt her tiring. Through the bond. Every league.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p121",
+   "type": "narration",
+   "text": "She didn’t stop.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 173,
+   "para": "p122",
+   "type": "narration",
+   "text": "On the third day they came into the Marches.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p123",
+   "type": "narration",
+   "text": "In the afternoon. He knew the valley. He’d been born in it. The Wend wide and brown between its banks. The Saltreach bank on the right, his bank, with its barley fields and its hedges. The Hearthmere bank on the left, with the River Road running along it and the towers.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p124",
+   "type": "narration",
+   "text": "And the Drover’s Way was full.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 176,
+   "para": "p125",
+   "type": "narration",
+   "text": "He saw it from the air. Below him. On the Saltreach bank, going north up the Way from the river. Carts. Cattle. Sheep in flocks, with dogs. People walking. A line of them. From the river all the way up the valley until it went out of sight toward Harrow’s End and the hills. Thousands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p126",
+   "type": "narration",
+   "text": "Going away from the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p127",
+   "type": "narration",
+   "text": "And the Hearthmere bank was empty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p128",
+   "type": "narration",
+   "text": "He looked. The villages along the River Road. Penfold, in its hollow. Ferriby. No smoke from any of them. No carts on the road. Millbrook below him, two leagues down from Greyhold, dark. Nobody in its square. Nobody at the Kettle’s door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p129",
+   "type": "narration",
+   "text": "The whole bank, emptied.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 181,
+   "para": "p130",
+   "type": "narration",
+   "text": "And at Greyhold’s landing, a ferry.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p131",
+   "type": "narration",
+   "text": "One. Going back and forth on a black line across the river, from the jetty under the river wall to the Staithe. Small. Slow. Hand over hand. A flat barge beside it, going back and forth too, with men at the sweeps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p132",
+   "type": "narration",
+   "text": "He watched it cross.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p133",
+   "type": "narration",
+   "text": "From the jetty to the Staithe. A cart on it, and people. And back. Empty. And across again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p134",
+   "type": "narration",
+   "text": "He knew whose ferry it was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p135",
+   "type": "bond",
+   "text": "She did it,"
+  },
+  {
+   "seq": 187,
+   "para": "p135",
+   "type": "narration",
+   "text": "said Lisska. Ahead of him, low over the river."
+  },
+  {
+   "seq": 188,
+   "para": "p135",
+   "type": "thought",
+   "text": "The lion-woman. She moved them all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p136",
+   "type": "speech",
+   "text": "“Liss did,”"
+  },
+  {
+   "seq": 190,
+   "para": "p136",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 191,
+   "para": "p136",
+   "type": "speech",
+   "text": "“Her mother.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p137",
+   "type": "bond",
+   "text": "Both,"
+  },
+  {
+   "seq": 193,
+   "para": "p137",
+   "type": "narration",
+   "text": "said Lisska.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 194,
+   "para": "p138",
+   "type": "narration",
+   "text": "They came down at dusk on the Saltreach bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p139",
+   "type": "narration",
+   "text": "At Tolly’s Staithe. By the ferry post, where the new rope was tied off, thick, black, humming in the current. Aurveth landed on the shingle above the Staithe and lay down at once and shut her eyes and didn’t open them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p140",
+   "type": "narration",
+   "text": "On the hill above Harrow’s End, four leagues off, Arn’s flights. He could see them in the dusk. Thirty dragons on the hillside, and fires.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p141",
+   "type": "narration",
+   "text": "And across the river, chains.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 198,
+   "para": "p142",
+   "type": "narration",
+   "text": "He’d seen chain. He’d seen the links in Maren’s letters, drawn small. He’d seen the stumps of the first chains in the cavern under Greyhold, rusted, each link as tall as a man.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p143",
+   "type": "narration",
+   "text": "He hadn’t seen this.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p144",
+   "type": "narration",
+   "text": "Six chains. Black. New. Going out from Greyhold’s hill, from great iron eyes set in the rock below the inner wall, across the river, high, in long sagging curves over the water, to the Saltreach bank. To anchors on this side. Iron posts set in stone, each one as big as a house, a few hundred paces upriver of where he stood.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p145",
+   "type": "narration",
+   "text": "Every link as tall as a man. He could see it from here.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p146",
+   "type": "narration",
+   "text": "On the inside of every curve, very faint in the dusk, a line of white.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 203,
+   "para": "p147",
+   "type": "narration",
+   "text": "Aurveth opened one eye.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p148",
+   "type": "narration",
+   "text": "She looked at the chains. Then past them. South and west. At the sky over the downs, where the last of the light was going.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p149",
+   "type": "bond",
+   "text": "Tomorrow,"
+  },
+  {
+   "seq": 206,
+   "para": "p149",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 207,
+   "para": "p149",
+   "type": "thought",
+   "text": "At first light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p150",
+   "type": "narration",
+   "text": "She shut her eye again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p151",
+   "type": "narration",
+   "text": "Across the river, on the jetty under Greyhold’s wall, a lantern was lit in the bow of the ferry. And it went out across the river again on its rope. Toward him.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "d0b6461d7c87c7f8222aa1c163a7f7fd87f8eec1",
+ "segments_sha1": "849c3f277bf357135517b69fe1bf1c411de50af1"
+}

@@ -10,10 +10,12 @@ book.json:
   series       the series and number, e.g. "The Winshire Chronicles, Book Two" (spoken after the title; optional)
   chapters     folder of chapter files, relative to the book (default: Chapters)
   pattern      which files are chapters (default: *.md)
-  scripts      a folder of ready-made reading scripts (NN.json) to use instead of building them from the chapters
-               (empty: the kit builds them in audiobook/reading_scripts; the Winshire Chronicles' Book 1 uses its
-               annotated scripts this way)
-  names        pronunciation respellings: a .pls lexicon (aliases) or a .csv of name,respelling (optional)
+  next         the book that follows, e.g. "The Hunt Beneath, The Winshire Chronicles, Book Two" (closing credits)
+  copyright    the copyright year, e.g. 2026 (closing credits)
+  italics      what unmarked italic speech is: "thought" (default) or "bond" (mind-to-mind speech, as in Winshire)
+  scripts      a folder of ready-made reading scripts (NN.json) to use as they are (empty: the kit makes them in
+               audiobook/Performance from the chapters and annotations)
+  names        the lexicon: audiobook/Lexicon.csv (default; the kit starts it), or a .pls lexicon with aliases
   narrator     the narrator's reference clip (default: the kit's voices/narrator.wav)
   output       where the finished chapters go (default: audiobook/out)
   credits      true: add opening and closing credits (00 and 99) saying the book is read by a digital voice
@@ -47,8 +49,9 @@ def _guess():
         except Exception:
             return False
     names = next((os.path.relpath(p, BOOK) for p in sorted(glob.glob(os.path.join(AUDIO, "*.pls")))
-                  + glob.glob(os.path.join(AUDIO, "names.csv")) if respellings(p)), "")
-    return {"title": title, "author": "", "series": "", "chapters": chapters, "pattern": "*.md", "scripts": "",
+                  if respellings(p)), "audiobook/Lexicon.csv")
+    return {"title": title, "author": "", "series": "", "next": "", "copyright": "", "italics": "thought",
+            "chapters": chapters, "pattern": "*.md", "scripts": "",
             "names": names,
             "narrator": "", "output": "audiobook/out", "credits": True}
 
@@ -76,8 +79,7 @@ def _path(p, default):
 
 
 CHAPTERS = _path(C["chapters"], os.path.join(BOOK, "Chapters"))
-# "reading_scripts", not "scripts": a Mac's disk ignores case, and a book may already have a "Scripts" folder
-SCRIPTS = _path(C["scripts"], os.path.join(AUDIO, "reading_scripts"))
+SCRIPTS = _path(C["scripts"], os.path.join(AUDIO, "Performance"))
 BUILT_SCRIPTS = not C["scripts"]          # True: the kit makes the scripts from the chapters
 NAMES = _path(C["names"], "")
 NARRATOR = _path(C["narrator"], os.path.join(KIT, "voices", "narrator.wav"))

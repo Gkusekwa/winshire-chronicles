@@ -2,6 +2,22 @@
  "chapter": 72,
  "title": "The Spit",
  "pov": "Calder",
+ "source": "Chapters/Chapter 72 - The Spit.md",
+ "names": [
+  "arn",
+  "aurveth",
+  "beck",
+  "calder",
+  "corvin",
+  "delling",
+  "ewe",
+  "greyhold",
+  "joss",
+  "kharrak",
+  "rook",
+  "ulric",
+  "varrhold"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1625,5 +1641,8 @@
    "mood": "tension",
    "pause_after_ms": 800
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "3763ae8e2ac3ceafa4289e353a5bafb9237f3ab5",
+ "segments_sha1": "ba4091c78595038dd0d0852df8ded01694eb77f9"
 }

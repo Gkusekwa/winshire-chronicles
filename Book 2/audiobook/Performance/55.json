@@ -1,0 +1,2001 @@
+{
+ "chapter": 55,
+ "title": "The Sun Road",
+ "pov": "",
+ "source": "Chapters/Chapter 55 - The Sun Road.md",
+ "names": [
+  "bond",
+  "deep",
+  "grace",
+  "greyhold",
+  "halloran",
+  "hallowmere",
+  "hearthmere",
+  "highcrest",
+  "idony",
+  "kessmoor",
+  "maren",
+  "office",
+  "orrun",
+  "sarovel",
+  "scald",
+  "sunward",
+  "titan",
+  "tobin",
+  "vael"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Part Five. The Sun Stair.",
+   "pause_after_ms": 2000
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Fifty-five.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 3,
+   "para": "",
+   "type": "title",
+   "text": "The Sun Road.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 4,
+   "para": "p1",
+   "type": "narration",
+   "text": "The ring of dots broke on the two-hundred-and-eighty-seventh day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p2",
+   "type": "narration",
+   "text": "Idony showed her. On the tower rail, in the morning, with the silk on his knee. All winter the dots had gone round and round the same empty place at the edge of his chart, out over the Western Deep, a little further each night. Patient. Waiting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "narration",
+   "text": "Then it had stopped going round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "speech",
+   "text": "“It’s coming in,”"
+  },
+  {
+   "seq": 8,
+   "para": "p4",
+   "type": "narration",
+   "text": "he said. He drew the line. Out of the ring. A short straight stroke, going south and east, toward the edge of the land."
+  },
+  {
+   "seq": 9,
+   "para": "p4",
+   "type": "speech",
+   "text": "“Toward the coast. The south-west coast.”"
+  },
+  {
+   "seq": 10,
+   "para": "p4",
+   "type": "narration",
+   "text": "He put the graphite down."
+  },
+  {
+   "seq": 11,
+   "para": "p4",
+   "type": "speech",
+   "text": "“Sarovel.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p5",
+   "type": "speech",
+   "text": "“The Sun Stair.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p6",
+   "type": "speech",
+   "text": "“Within the month,”"
+  },
+  {
+   "seq": 14,
+   "para": "p6",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 15,
+   "para": "p6",
+   "type": "speech",
+   "text": "“I told her within the month.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 16,
+   "para": "p7",
+   "type": "narration",
+   "text": "They left the Scald that morning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p8",
+   "type": "narration",
+   "text": "Pike said goodbye at the gate without looking up from a drawing. She had it spread on a board on her knee, and a pencil, and her smoked spectacles down over her eyes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p9",
+   "type": "speech",
+   "text": "“Send me the day,”"
+  },
+  {
+   "seq": 19,
+   "para": "p9",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 20,
+   "para": "p9",
+   "type": "speech",
+   "text": "“If you have it. For the next one.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p10",
+   "type": "speech",
+   "text": "“There isn’t a cage at the next one,”"
+  },
+  {
+   "seq": 22,
+   "para": "p10",
+   "type": "narration",
+   "text": "said Idony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p11",
+   "type": "speech",
+   "text": "“Not yet,”"
+  },
+  {
+   "seq": 24,
+   "para": "p11",
+   "type": "narration",
+   "text": "said Agathe Pike, and turned the drawing over.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p12",
+   "type": "narration",
+   "text": "Moss gave Orrun a new paper. Neat, sealed in red wax, in the same careful hand."
+  },
+  {
+   "seq": 26,
+   "para": "p12",
+   "type": "thought",
+   "text": "A beast of the cordon, travelling on the Office’s account to Sarovel. Not to be hindered.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p13",
+   "type": "speech",
+   "text": "“For what it’s worth,”"
+  },
+  {
+   "seq": 28,
+   "para": "p13",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 29,
+   "para": "p13",
+   "type": "speech",
+   "text": "“Which in Sarovel is nothing at all.”"
+  },
+  {
+   "seq": 30,
+   "para": "p13",
+   "type": "narration",
+   "text": "He looked at the lion."
+  },
+  {
+   "seq": 31,
+   "para": "p13",
+   "type": "speech",
+   "text": "“But you’ll want it for the border.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p14",
+   "type": "speech",
+   "text": "“Thank you,”"
+  },
+  {
+   "seq": 33,
+   "para": "p14",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p15",
+   "type": "narration",
+   "text": "Moss nodded. He looked at her for a moment with his dry face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p16",
+   "type": "speech",
+   "text": "“I’ll be sorry not to know how it ends,”"
+  },
+  {
+   "seq": 36,
+   "para": "p16",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 37,
+   "para": "p17",
+   "type": "narration",
+   "text": "South on the Iron Road, to the border, on an Office steam-wagon Moss had found them, with Orrun pacing alongside. Then off it. South-west, across the western edge of Hearthmere.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p18",
+   "type": "narration",
+   "text": "Dead. Grey. She’d known it would be. Downs that should have been green in a mild winter and were the colour of old ash. Farms with nobody in them. A village with its doors open and snow in the rooms, like Orrin’s ruins. Orrun walked through it with his head low and didn’t speak for two days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p19",
+   "type": "narration",
+   "text": "She thought of her mother. Of the river. Of Greyhold, a long way east, on its hill, dead like this.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p20",
+   "type": "narration",
+   "text": "She didn’t say anything either.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p21",
+   "type": "narration",
+   "text": "On the two-hundred-and-ninetieth day, on the downs, Idony’s glasses showed the Titan come in over the shore.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p22",
+   "type": "narration",
+   "text": "Then the hills began. Low, then higher. And on the fifth day, on the slope of the first real hill, Orrun stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p23",
+   "type": "speech",
+   "text": "“Oh,”"
+  },
+  {
+   "seq": 44,
+   "para": "p23",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 45,
+   "para": "p24",
+   "type": "narration",
+   "text": "She felt it too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p25",
+   "type": "narration",
+   "text": "Through him. Through her own feet. The ground. All at once, from one step to the next, as at Candle Row in Vael: from nothing to something. But not like Vael. Not full and pressing and humming. Bright.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p26",
+   "type": "narration",
+   "text": "Like stepping out of a cold house into the sun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p27",
+   "type": "speech",
+   "text": "“Sarovel,”"
+  },
+  {
+   "seq": 49,
+   "para": "p27",
+   "type": "narration",
+   "text": "said Idony. He’d taken out a glass. The quicksilver went up the throat and stood high, very high, higher than she’d seen it anywhere but in a stir."
+  },
+  {
+   "seq": 50,
+   "para": "p27",
+   "type": "speech",
+   "text": "“The Grace. That’s what they call it here. The Deep, with the sun on it.”"
+  },
+  {
+   "seq": 51,
+   "para": "p27",
+   "type": "narration",
+   "text": "He held the glass up."
+  },
+  {
+   "seq": 52,
+   "para": "p27",
+   "type": "speech",
+   "text": "“It’s always like this. All of Sarovel. It’s the brightest country in Winshire. Nobody knows why.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p28",
+   "type": "narration",
+   "text": "Orrun had his head up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p29",
+   "type": "speech",
+   "text": "“It is sweet,”"
+  },
+  {
+   "seq": 55,
+   "para": "p29",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 56,
+   "para": "p29",
+   "type": "speech",
+   "text": "“Too sweet. Like honey left in the sun.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p30",
+   "type": "narration",
+   "text": "He went on. But slowly. As if he were walking into a wind.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 58,
+   "para": "p31",
+   "type": "narration",
+   "text": "They came into the Sunward Hills.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p32",
+   "type": "narration",
+   "text": "Vineyards. Olive terraces. White walls. Even in the dead of the year, with the vines cut back to black stumps and the olives grey, it was a soft country. Warm. The sun came out over the hills in the afternoons and she took her coat off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p33",
+   "type": "narration",
+   "text": "At Highcrest, on its hill, they came onto the Sun Road.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p34",
+   "type": "narration",
+   "text": "The pilgrim road. The wine road. Paved, wide, white with limestone dust, going away south-west down the long slopes toward the sea. Solenne to Hallowmere, Idony said, though nobody had walked it from Hallowmere’s end in a year. And along it, every half-day’s walk, a stage-house.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 62,
+   "para": "p35",
+   "type": "narration",
+   "text": "The first was below Highcrest.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p36",
+   "type": "narration",
+   "text": "A long low house of white limestone with a red-tiled roof, round a courtyard. And on the far side of the courtyard, a stable. Bigger than the house. Grander. Columns along its front, and a carved crest over every stall, and gilding on the crests, and straw so clean it shone. For the beasts of the bonded. The bonded travelled with their beasts in Sarovel, Idony said. And the beasts slept better than the people.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p37",
+   "type": "narration",
+   "text": "Beside the house, a chapel. Small. Domed. White. With a gilded sun over its door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p38",
+   "type": "narration",
+   "text": "They came into the courtyard at dusk on the two-hundred-and-ninety-second day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p39",
+   "type": "narration",
+   "text": "The stage-keeper came out of the house. A stout man with an apron and a cloth over his shoulder. He saw Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p40",
+   "type": "narration",
+   "text": "He went down on both knees in the courtyard.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 68,
+   "para": "p41",
+   "type": "narration",
+   "text": "She didn’t understand at first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p42",
+   "type": "narration",
+   "text": "Then everyone did. The keeper’s wife in the doorway. Two grooms by the stable. A boy with a bucket. A merchant at a table under the colonnade with a cup halfway to his mouth, who put it down and got off his bench and knelt on the stones. A woman in silk with a bonded hound at her feet, a big gold-coated hound with a jewelled collar, who stood up, and looked at the lion, and went down too. Slowly. On one knee. With her hand on her hound’s head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p43",
+   "type": "speech",
+   "text": "“What’re they doing?”"
+  },
+  {
+   "seq": 71,
+   "para": "p43",
+   "type": "narration",
+   "text": "said Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p44",
+   "type": "speech",
+   "text": "“Kneeling,”",
+   "how": "very quietly"
+  },
+  {
+   "seq": 73,
+   "para": "p44",
+   "type": "narration",
+   "text": "said Idony, very quietly."
+  },
+  {
+   "seq": 74,
+   "para": "p44",
+   "type": "speech",
+   "text": "“To her.”",
+   "how": "very quietly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p45",
+   "type": "speech",
+   "text": "“Why?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Because she’s bonded to a lion,”"
+  },
+  {
+   "seq": 77,
+   "para": "p46",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 78,
+   "para": "p46",
+   "type": "speech",
+   "text": "“An old one. A lion of the old songs. In Sarovel that’s higher than anything.”"
+  },
+  {
+   "seq": 79,
+   "para": "p46",
+   "type": "narration",
+   "text": "He looked at the kneeling courtyard."
+  },
+  {
+   "seq": 80,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Higher than a unicorn. The Bond-King’s bonded to a unicorn. She’s higher than the Bond-King.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 81,
+   "para": "p47",
+   "type": "narration",
+   "text": "Maren stood in the courtyard with every face in it turned down toward the stones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p48",
+   "type": "narration",
+   "text": "She thought of Greyhold’s yard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p49",
+   "type": "narration",
+   "text": "The lines. Every noon, facing the wall. The bonded at the front, with their beasts. The unbonded behind. And at the back of the unbonded, the late-oath candidates, the ones nobody had chosen, the ones who’d been passed over. Her name at the bottom of every list. For two years. At the back of every line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p50",
+   "type": "narration",
+   "text": "She’d stood at the back of every line in Hearthmere.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p51",
+   "type": "narration",
+   "text": "And here a woman in silk with a jewelled hound was kneeling to her on a stage-house’s stones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p52",
+   "type": "speech",
+   "text": "“Get up,”"
+  },
+  {
+   "seq": 87,
+   "para": "p52",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p53",
+   "type": "narration",
+   "text": "Nobody got up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p54",
+   "type": "speech",
+   "text": "“Please,”"
+  },
+  {
+   "seq": 90,
+   "para": "p54",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 91,
+   "para": "p54",
+   "type": "speech",
+   "text": "“Get up.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p55",
+   "type": "narration",
+   "text": "The stage-keeper looked up at her. His face was wet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p56",
+   "type": "speech",
+   "text": "“Lady,”"
+  },
+  {
+   "seq": 94,
+   "para": "p56",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 95,
+   "para": "p56",
+   "type": "speech",
+   "text": "“Lady of the Lion. The best room. The best stall.”"
+  },
+  {
+   "seq": 96,
+   "para": "p56",
+   "type": "narration",
+   "text": "He looked at Orrun, at the size of him, and then at the gilded stable, and his face went uncertain."
+  },
+  {
+   "seq": 97,
+   "para": "p56",
+   "type": "speech",
+   "text": "“The best… we’ll make room…”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p57",
+   "type": "speech",
+   "text": "“He won’t fit,”"
+  },
+  {
+   "seq": 99,
+   "para": "p57",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 100,
+   "para": "p58",
+   "type": "narration",
+   "text": "A groom came up to Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p59",
+   "type": "narration",
+   "text": "She saw it from the corner of her eye. A young groom, in plain brown, with a bridle over his arm. He’d got up off his knees. He went to Tobin, who was standing a little behind her with his pack, and looked at him. At his hands. At the pale band on his finger. At the beast that wasn’t there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p60",
+   "type": "narration",
+   "text": "He didn’t say anything. He nodded. Toward the side of the house. Toward a gate in the wall there, a small wooden one, by the kitchen door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p61",
+   "type": "narration",
+   "text": "The servants’ gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p62",
+   "type": "narration",
+   "text": "Tobin looked at the gate. Then at Maren. His face did a thing she’d seen it do at Greyhold a hundred times, at the back of the line. A sort of shrug, without his shoulders moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p63",
+   "type": "narration",
+   "text": "He went toward the gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p64",
+   "type": "narration",
+   "text": "Maren went with him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 107,
+   "para": "p65",
+   "type": "narration",
+   "text": "They ate in the servants’ kitchen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p66",
+   "type": "narration",
+   "text": "With the grooms and the stable-hands and the kitchen-girls and the boy with the bucket. At a long scrubbed table by the fire. Bread and olives and a bean stew with something red in it that burned. The unchosen. That was the word here. They lived in the mud-brick quarters below the walls of every Sarovel town, Idony had told her, and they kept the stables, and they did the work.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p67",
+   "type": "narration",
+   "text": "They didn’t kneel to her in the kitchen. They looked at her. Sideways. Not sure what to do.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p68",
+   "type": "speech",
+   "text": "“You came in our gate,”"
+  },
+  {
+   "seq": 111,
+   "para": "p68",
+   "type": "narration",
+   "text": "said an old woman at the end of the table. A stable-hand, with straw in her grey hair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p69",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p70",
+   "type": "speech",
+   "text": "“Why?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p71",
+   "type": "narration",
+   "text": "Maren looked at Tobin, beside her, eating stew.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Because he did,”"
+  },
+  {
+   "seq": 116,
+   "para": "p72",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p73",
+   "type": "narration",
+   "text": "The old woman looked at her. Then she pushed the bread across the table.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 118,
+   "para": "p74",
+   "type": "narration",
+   "text": "Idony ate in the house.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p75",
+   "type": "narration",
+   "text": "He came out to the kitchen afterwards. He stood in the doorway and looked at them all at the long table, and at Maren, and something in his face eased.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p76",
+   "type": "speech",
+   "text": "“They gave me the best room,”"
+  },
+  {
+   "seq": 121,
+   "para": "p76",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 122,
+   "para": "p76",
+   "type": "speech",
+   "text": "“Because I came in with you.”"
+  },
+  {
+   "seq": 123,
+   "para": "p76",
+   "type": "narration",
+   "text": "He looked at the fire."
+  },
+  {
+   "seq": 124,
+   "para": "p76",
+   "type": "speech",
+   "text": "“I’m a reader. Unringed. In Sarovel I’m a hand, if I’m anything. I didn’t say.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p77",
+   "type": "speech",
+   "text": "“You should have come in our gate,”"
+  },
+  {
+   "seq": 126,
+   "para": "p77",
+   "type": "narration",
+   "text": "said Tobin, with his mouth full.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p78",
+   "type": "speech",
+   "text": "“Next time,”"
+  },
+  {
+   "seq": 128,
+   "para": "p78",
+   "type": "narration",
+   "text": "said Idony.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 129,
+   "para": "p79",
+   "type": "narration",
+   "text": "At dusk the liturgy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p80",
+   "type": "narration",
+   "text": "She heard it from the kitchen. A bell, small, from the chapel. Then voices. The stage-keeper’s, and his wife’s, and the woman in silk’s, and the merchant’s, and the grooms’ too, from the yard. Singing. Low and slow, in the common tongue, in a tune she didn’t know.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p81",
+   "type": "narration",
+   "text": "She went to the kitchen door and listened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p82",
+   "type": "verse",
+   "text": "Praise to the Sun on the Stair,"
+  },
+  {
+   "seq": 133,
+   "para": "p82",
+   "type": "thought",
+   "text": "who lit the first lamp"
+  },
+  {
+   "seq": 134,
+   "para": "p82",
+   "type": "thought",
+   "text": "and gave it to the crown,"
+  },
+  {
+   "seq": 135,
+   "para": "p82",
+   "type": "thought",
+   "text": "and keeps it burning"
+  },
+  {
+   "seq": 136,
+   "para": "p82",
+   "type": "verse",
+   "text": "while the crown keeps faith.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p83",
+   "type": "narration",
+   "text": "They sang it three times. Then the bell again. Then nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p84",
+   "type": "speech",
+   "text": "“What’s the Sun on the Stair?”"
+  },
+  {
+   "seq": 139,
+   "para": "p84",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Their god,”"
+  },
+  {
+   "seq": 141,
+   "para": "p85",
+   "type": "narration",
+   "text": "said Idony, beside her."
+  },
+  {
+   "seq": 142,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Or their saint. Or their shrine. Nobody in Isvaren’s ever been sure which.”"
+  },
+  {
+   "seq": 143,
+   "para": "p85",
+   "type": "narration",
+   "text": "He looked at the chapel’s gilded sun."
+  },
+  {
+   "seq": 144,
+   "para": "p85",
+   "type": "speech",
+   "text": "“The Bond-King’s palace has a stair down to the sea. There’s a shrine at the bottom of it. The crowned line worships there. They say the Sun on the Stair lit the first lamp, and gave it to the first king, and the Grace has been the crown’s ever since.”"
+  },
+  {
+   "seq": 145,
+   "para": "p85",
+   "type": "narration",
+   "text": "He was quiet."
+  },
+  {
+   "seq": 146,
+   "para": "p85",
+   "type": "speech",
+   "text": "“While the crown keeps faith.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p86",
+   "type": "speech",
+   "text": "“The first lamp,”"
+  },
+  {
+   "seq": 148,
+   "para": "p86",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p87",
+   "type": "speech",
+   "text": "“I don’t know what that means,”"
+  },
+  {
+   "seq": 150,
+   "para": "p87",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 151,
+   "para": "p87",
+   "type": "speech",
+   "text": "“I’ve never known.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 152,
+   "para": "p88",
+   "type": "narration",
+   "text": "Every stage-house was the same.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p89",
+   "type": "narration",
+   "text": "Every half-day. The long white house, the grand stable, the domed chapel with its gilded sun. And every courtyard went down on its knees when the lion came through the gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p90",
+   "type": "narration",
+   "text": "She stopped saying get up. It didn’t do any good. It upset them. They needed to kneel, she thought. She didn’t know why. She let them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p91",
+   "type": "narration",
+   "text": "And every time, she went round to the servants’ gate with Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p92",
+   "type": "narration",
+   "text": "Every time. Through the yard, past the kneeling people, past the stage-keeper holding out his hands toward the best room, round the side of the house, to the small wooden gate by the kitchen door. And in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p93",
+   "type": "narration",
+   "text": "By the third stage-house the grooms were waiting for her at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p94",
+   "type": "narration",
+   "text": "By the fifth the unchosen in the mud-brick quarter below the stage-house’s walls had heard. They came up to the servants’ gate in the dusk and stood outside it, a little way off, men and women and children, and watched her go in. They didn’t kneel. They watched.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p95",
+   "type": "narration",
+   "text": "At every chapel, at every dusk, the liturgy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p96",
+   "type": "thought",
+   "text": "Praise to the Sun on the Stair, who lit the first lamp and gave it to the crown.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 161,
+   "para": "p97",
+   "type": "narration",
+   "text": "Idony told her at the stage-house above the Gilt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p98",
+   "type": "narration",
+   "text": "They’d stopped there two nights, on the two-hundred-and-ninety-seventh and -eighth, because Orrun needed it: the sweetness, he said, was like walking all day in a bee-hive. And on the second evening a man came to the stage-house in the livery of the Bond-King’s household, gold and white, on a horse, asking for the Kessmoor measurer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p99",
+   "type": "speech",
+   "text": "“Me,”"
+  },
+  {
+   "seq": 164,
+   "para": "p99",
+   "type": "narration",
+   "text": "said Idony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p100",
+   "type": "narration",
+   "text": "He went out to the man in the courtyard. Maren watched from the kitchen door. They talked a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p101",
+   "type": "narration",
+   "text": "When he came back he sat down at the long table in the servants’ kitchen, which he’d taken to doing, and put his hands round a cup.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p102",
+   "type": "speech",
+   "text": "“The Lady Aurel,”"
+  },
+  {
+   "seq": 168,
+   "para": "p102",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 169,
+   "para": "p102",
+   "type": "speech",
+   "text": "“From the Scald. She’s asked the household to find me. The Bond-King wants a reader.”"
+  },
+  {
+   "seq": 170,
+   "para": "p102",
+   "type": "narration",
+   "text": "He looked at the cup."
+  },
+  {
+   "seq": 171,
+   "para": "p102",
+   "type": "speech",
+   "text": "“The royal collars are cracking. In the palace stables. The gold collars on the bonded beasts of the court.”"
+  },
+  {
+   "seq": 172,
+   "para": "p102",
+   "type": "narration",
+   "text": "He was quiet."
+  },
+  {
+   "seq": 173,
+   "para": "p102",
+   "type": "speech",
+   "text": "“They want someone who can read what’s cut in them, and say why.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 174,
+   "para": "p103",
+   "type": "speech",
+   "text": "“Don’t,”"
+  },
+  {
+   "seq": 175,
+   "para": "p103",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p104",
+   "type": "speech",
+   "text": "“I’m going.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p105",
+   "type": "speech",
+   "text": "“He’s there. Corvin. Moss said. A guest of her house.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p106",
+   "type": "speech",
+   "text": "“I know.”"
+  },
+  {
+   "seq": 179,
+   "para": "p106",
+   "type": "narration",
+   "text": "Idony turned the cup."
+  },
+  {
+   "seq": 180,
+   "para": "p106",
+   "type": "speech",
+   "text": "“And Dane’s there. The man said. The Magister from the Council of Colleges. Selling the Bond-King what he sold Hearthmere. A cage. A chain. For Sarovel’s own beasts, this time. In case.”"
+  },
+  {
+   "seq": 181,
+   "para": "p106",
+   "type": "narration",
+   "text": "He looked at her."
+  },
+  {
+   "seq": 182,
+   "para": "p106",
+   "type": "speech",
+   "text": "“The College’s chain-craft. Again.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p107",
+   "type": "speech",
+   "text": "“Then why go?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p108",
+   "type": "speech",
+   "text": "“Because the man who has the roll is at that court,”"
+  },
+  {
+   "seq": 185,
+   "para": "p108",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 186,
+   "para": "p108",
+   "type": "speech",
+   "text": "“And if he’s going to show it to somebody, I want to be in the room.”"
+  },
+  {
+   "seq": 187,
+   "para": "p108",
+   "type": "narration",
+   "text": "He drank."
+  },
+  {
+   "seq": 188,
+   "para": "p108",
+   "type": "speech",
+   "text": "“And because the Titan’s coming here. To the stair. My glasses need to be near it. Near the palace. Near the shrine at the bottom of the stair. I can’t read the stir from a stable in the low quarter.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p109",
+   "type": "speech",
+   "text": "“He wants you,”"
+  },
+  {
+   "seq": 190,
+   "para": "p109",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 191,
+   "para": "p109",
+   "type": "speech",
+   "text": "“He’ll take you.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p110",
+   "type": "speech",
+   "text": "“I know,”"
+  },
+  {
+   "seq": 193,
+   "para": "p110",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 194,
+   "para": "p110",
+   "type": "speech",
+   "text": "“That’s why I can get in.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 195,
+   "para": "p111",
+   "type": "narration",
+   "text": "She didn’t argue any more.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p112",
+   "type": "narration",
+   "text": "She sat across the table from him and looked at him. Thin. Grey at the temples now, which he hadn’t been in the autumn. No ring. His hands round a cup. The bird’s last word in him somewhere, she thought. Ask. He’d been asking ever since.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p113",
+   "type": "speech",
+   "text": "“Come to the low quarter,”"
+  },
+  {
+   "seq": 198,
+   "para": "p113",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 199,
+   "para": "p113",
+   "type": "speech",
+   "text": "“When you can. Tell me what you see.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p114",
+   "type": "speech",
+   "text": "“I’ll come.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p115",
+   "type": "speech",
+   "text": "“Say it twice,”"
+  },
+  {
+   "seq": 202,
+   "para": "p115",
+   "type": "narration",
+   "text": "said Tobin, from the end of the table.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p116",
+   "type": "narration",
+   "text": "Idony looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p117",
+   "type": "speech",
+   "text": "“It’s a thing,”"
+  },
+  {
+   "seq": 205,
+   "para": "p117",
+   "type": "narration",
+   "text": "said Tobin."
+  },
+  {
+   "seq": 206,
+   "para": "p117",
+   "type": "speech",
+   "text": "“Farmer’s girl does it. Maren told me. Say it twice and they believe you.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p118",
+   "type": "narration",
+   "text": "Idony looked at Maren for a long moment.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p119",
+   "type": "speech",
+   "text": "“I’ll come,”"
+  },
+  {
+   "seq": 209,
+   "para": "p119",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 210,
+   "para": "p119",
+   "type": "speech",
+   "text": "“I’ll come.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 211,
+   "para": "p120",
+   "type": "narration",
+   "text": "Solenne came up out of the haze on the three-hundredth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p121",
+   "type": "narration",
+   "text": "From the last hill of the Sun Road. She stood on the white road with Orrun beside her and Tobin and Idony behind, and looked down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p122",
+   "type": "narration",
+   "text": "A bay. Curving. Blue, bluer than any water she’d seen, in the winter sun. And round it, white. A city of white limestone, climbing up from the water in terraces. Domes. Colonnades. Towers with gilded tops. And on the cliff at the western end of the bay, high over the water, a palace. White, with a hundred windows, and a gilded dome. And from the palace, down the face of the cliff to the sea, a stair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p123",
+   "type": "narration",
+   "text": "Long. White. Going down and down, in zigzags, cut into the cliff, to the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p124",
+   "type": "narration",
+   "text": "The Sun Stair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p125",
+   "type": "narration",
+   "text": "Below the walls, on the slopes outside the white city, brown. Mud-brick. Low houses, close together, with flat roofs and smoke. The unchosen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p126",
+   "type": "narration",
+   "text": "Behind the city, the Sunward Hills. Going up, terrace on terrace, grey-green with olives.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p127",
+   "type": "narration",
+   "text": "And on the hills, high up, above the palace, something grey. Lying down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 219,
+   "para": "p128",
+   "type": "narration",
+   "text": "Idony saw it at the same moment.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p129",
+   "type": "narration",
+   "text": "He took a glass out. He didn’t need to. She could see it with her eyes. A shape on the ridge of the hills above the city. Grey, against the grey-green. Long. A hump like a hill on the hill. With wings folded along its back like a roof.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p130",
+   "type": "narration",
+   "text": "The quicksilver went up the throat and stood high and trembled.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 222,
+   "para": "p131",
+   "type": "speech",
+   "text": "“It’s lain down,”"
+  },
+  {
+   "seq": 223,
+   "para": "p131",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 224,
+   "para": "p131",
+   "type": "speech",
+   "text": "“On the hills. Above the palace.”"
+  },
+  {
+   "seq": 225,
+   "para": "p131",
+   "type": "narration",
+   "text": "He put the glass away."
+  },
+  {
+   "seq": 226,
+   "para": "p131",
+   "type": "speech",
+   "text": "“The stir’s begun.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p132",
+   "type": "narration",
+   "text": "Orrun was very still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 228,
+   "para": "p133",
+   "type": "speech",
+   "text": "“Two weeks,”"
+  },
+  {
+   "seq": 229,
+   "para": "p133",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 230,
+   "para": "p133",
+   "type": "speech",
+   "text": "“Perhaps less. It’s quicker every time.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 231,
+   "para": "p134",
+   "type": "narration",
+   "text": "They parted at the landward gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 232,
+   "para": "p135",
+   "type": "narration",
+   "text": "A carriage came for Idony. From the palace. White and gold, with four white horses and a man in livery on the box, and it stopped at the gate as they came down the last of the Sun Road, and the man on the box asked for the Kessmoor measurer, and opened the door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 233,
+   "para": "p136",
+   "type": "narration",
+   "text": "Idony looked at the carriage. Then at Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 234,
+   "para": "p137",
+   "type": "speech",
+   "text": "“The low quarter,”"
+  },
+  {
+   "seq": 235,
+   "para": "p137",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 236,
+   "para": "p138",
+   "type": "speech",
+   "text": "“The low quarter.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 237,
+   "para": "p139",
+   "type": "narration",
+   "text": "He got in. The door shut. The carriage went up through the gate into the white city, toward the palace on the cliff, and she watched it go until it turned a corner and was gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 238,
+   "para": "p140",
+   "type": "narration",
+   "text": "She went down to the low quarter with Tobin and the lion.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 239,
+   "para": "p141",
+   "type": "narration",
+   "text": "They found a stable.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 240,
+   "para": "p142",
+   "type": "narration",
+   "text": "In the mud-brick quarter below the walls, at the edge of it, where the houses gave out onto the slope. A stable for a horse. Mud-brick, with a thatched roof and one door. An old man owned it and had no horse. He looked at Orrun for a long time and then at Maren and then at Tobin, and said they could have it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 241,
+   "para": "p143",
+   "type": "narration",
+   "text": "He didn’t kneel. He was unchosen. He said it was nice to have something in it again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 242,
+   "para": "p144",
+   "type": "narration",
+   "text": "Orrun didn’t fit. He lay down outside it, along the front wall, with his head in through the door, on the straw. Maren slept inside, against his head. Tobin slept in the loft.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 243,
+   "para": "p145",
+   "type": "narration",
+   "text": "At night she could see the palace from the stable door. White on its cliff, with its hundred windows lit. And above it, on the hills, nothing. The dark. But she knew where it was.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 244,
+   "para": "p146",
+   "type": "narration",
+   "text": "The captain was at the wine-inn in the low quarter on the three-hundred-and-second day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 245,
+   "para": "p147",
+   "type": "narration",
+   "text": "A Saltreach captain. She knew the type from the Staithes: a sea-coat with brass buttons, a beard with salt in it, a voice made for shouting across water. He’d come in off a ship in the bay with three of his men and he’d been drinking since noon, and he was telling the room.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 246,
+   "para": "p148",
+   "type": "narration",
+   "text": "The room was unchosen. Dock-workers and stable-hands and fish-wives. They didn’t care much. He told them anyway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 247,
+   "para": "p149",
+   "type": "speech",
+   "text": "“…the dragon farmer,”"
+  },
+  {
+   "seq": 248,
+   "para": "p149",
+   "type": "narration",
+   "text": "he was saying."
+  },
+  {
+   "seq": 249,
+   "para": "p149",
+   "type": "speech",
+   "text": "“From the Marches. The one with the three. Walked into the Tidehall at Corsa. With all three on the sea-steps outside, and a red book under his arm.”"
+  },
+  {
+   "seq": 250,
+   "para": "p149",
+   "type": "narration",
+   "text": "He banged the table."
+  },
+  {
+   "seq": 251,
+   "para": "p149",
+   "type": "speech",
+   "text": "“And laid it on the Council’s own table. And the Council read it. And the Halloran house fell before noon.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 252,
+   "para": "p150",
+   "type": "narration",
+   "text": "Somebody asked what the Halloran house was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 253,
+   "para": "p151",
+   "type": "speech",
+   "text": "“A Council house!”"
+  },
+  {
+   "seq": 254,
+   "para": "p151",
+   "type": "narration",
+   "text": "The captain spread his arms."
+  },
+  {
+   "seq": 255,
+   "para": "p151",
+   "type": "speech",
+   "text": "“A Council house! Three hundred years! Struck the silver! And he brought it down with a book. Licence gone, seat gone, ships gone.”"
+  },
+  {
+   "seq": 256,
+   "para": "p151",
+   "type": "narration",
+   "text": "He drank."
+  },
+  {
+   "seq": 257,
+   "para": "p151",
+   "type": "speech",
+   "text": "“And the fat factor ran off on the morning tide on a black ship with his breeches round his knees.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 258,
+   "para": "p152",
+   "type": "narration",
+   "text": "The room laughed. Not because it knew the factor. Because it liked the breeches.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 259,
+   "para": "p153",
+   "type": "speech",
+   "text": "“A farmer,”"
+  },
+  {
+   "seq": 260,
+   "para": "p153",
+   "type": "narration",
+   "text": "said the captain. He shook his head."
+  },
+  {
+   "seq": 261,
+   "para": "p153",
+   "type": "speech",
+   "text": "“Can’t even read, they say. Brought down a Council house.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 262,
+   "para": "p154",
+   "type": "narration",
+   "text": "Maren sat in the corner with her back to him and a cup of wine she hadn’t drunk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 263,
+   "para": "p155",
+   "type": "narration",
+   "text": "She didn’t turn round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 264,
+   "para": "p156",
+   "type": "thought",
+   "text": "He can read,"
+  },
+  {
+   "seq": 265,
+   "para": "p156",
+   "type": "narration",
+   "text": "she thought."
+  },
+  {
+   "seq": 266,
+   "para": "p156",
+   "type": "thought",
+   "text": "Slowly. He reads my letters himself.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 267,
+   "para": "p157",
+   "type": "narration",
+   "text": "She didn’t say it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 268,
+   "para": "p158",
+   "type": "narration",
+   "text": "She saw the unicorn on the three-hundred-and-fourth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 269,
+   "para": "p159",
+   "type": "narration",
+   "text": "A feast-day. The whole city out. The unchosen on the walls, looking down. And on the great white stair of the palace, the upper one, the one that came down from the palace gates to the city’s main square, a procession. Nobles in silk with their bonded beasts. Gold-coated hounds. Great cats with jewelled collars. Horses that weren’t quite horses, with too-long legs and eyes like coals.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 270,
+   "para": "p160",
+   "type": "narration",
+   "text": "And at the head of it, a unicorn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 271,
+   "para": "p161",
+   "type": "narration",
+   "text": "Not a white horse with a horn, as the painted signs on the stage-houses had it. Lean. Deer-boned. Taller than a horse at the shoulder and narrower, with long fine legs and cloven hooves that rang on the white stone. Silver-grey under the chalk the grooms had rubbed into its coat to make it white for the feast. A single horn, long and spiralled, living bone, and somebody had gilded it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 272,
+   "para": "p162",
+   "type": "narration",
+   "text": "A gold collar round its neck. Wide. Cut with marks.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 273,
+   "para": "p163",
+   "type": "narration",
+   "text": "A man on its back. In white and gold. With a crown.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 274,
+   "para": "p164",
+   "type": "narration",
+   "text": "The crowd on the walls cheered. The nobles bowed. The unicorn came down the stair with the Bond-King on its back, stepping carefully, beautifully, every step perfect, and its eyes were empty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 275,
+   "para": "p165",
+   "type": "narration",
+   "text": "She’d seen eyes like that. On a small red dragon lying on the Library steps at Vael with a white collar on. On the lynx in the sweet smoke at the Ring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 276,
+   "para": "p166",
+   "type": "narration",
+   "text": "Nobody behind them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 277,
+   "para": "p167",
+   "type": "narration",
+   "text": "Orrun, beside her on the wall, made a sound she’d never heard him make.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 278,
+   "para": "p168",
+   "type": "speech",
+   "text": "“Kin,”"
+  },
+  {
+   "seq": 279,
+   "para": "p168",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 280,
+   "para": "p168",
+   "type": "speech",
+   "text": "“Far kin. It is not there.”"
+  },
+  {
+   "seq": 281,
+   "para": "p168",
+   "type": "narration",
+   "text": "He was very still."
+  },
+  {
+   "seq": 282,
+   "para": "p168",
+   "type": "speech",
+   "text": "“It is not there at all.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 283,
+   "para": "p169",
+   "type": "narration",
+   "text": "He wanted to go to the Elderwood.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 284,
+   "para": "p170",
+   "type": "narration",
+   "text": "He told her that night, lying with his head in the stable door. The forest north of the city, a day’s walk, where the old man who owned the stable said the wild unicorns lived. Where nobody went, because the Bond-King’s foresters hanged poachers there, and because it was the king’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 285,
+   "para": "p171",
+   "type": "speech",
+   "text": "“There are more,”"
+  },
+  {
+   "seq": 286,
+   "para": "p171",
+   "type": "narration",
+   "text": "said Orrun."
+  },
+  {
+   "seq": 287,
+   "para": "p171",
+   "type": "speech",
+   "text": "“Out there. In the trees. I can feel them. Far kin.”"
+  },
+  {
+   "seq": 288,
+   "para": "p171",
+   "type": "narration",
+   "text": "He was quiet."
+  },
+  {
+   "seq": 289,
+   "para": "p171",
+   "type": "speech",
+   "text": "“They are frightened.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 290,
+   "para": "p172",
+   "type": "speech",
+   "text": "“Of what?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 291,
+   "para": "p173",
+   "type": "speech",
+   "text": "“Of the one on the hill,”"
+  },
+  {
+   "seq": 292,
+   "para": "p173",
+   "type": "narration",
+   "text": "said Orrun."
+  },
+  {
+   "seq": 293,
+   "para": "p173",
+   "type": "speech",
+   "text": "“And of the stair.”"
+  },
+  {
+   "seq": 294,
+   "para": "p173",
+   "type": "narration",
+   "text": "He shut his eyes."
+  },
+  {
+   "seq": 295,
+   "para": "p173",
+   "type": "speech",
+   "text": "“I want to ask them.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 296,
+   "para": "p174",
+   "type": "speech",
+   "text": "“Ask them what?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 297,
+   "para": "p175",
+   "type": "speech",
+   "text": "“Why that one is not there,”"
+  },
+  {
+   "seq": 298,
+   "para": "p175",
+   "type": "narration",
+   "text": "said Orrun.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "8ff36c51fde49381f3f1095796aeb339cc1d3635",
+ "segments_sha1": "bd6fe640c22b7277f5334392e92ce1e786fa52fa"
+}

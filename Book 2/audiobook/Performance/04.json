@@ -1,0 +1,1805 @@
+{
+ "chapter": 4,
+ "title": "The Black Book",
+ "pov": "",
+ "source": "Chapters/Chapter 04 - The Black Book.md",
+ "names": [
+  "ashdown",
+  "drover",
+  "greyhold",
+  "hale",
+  "hallowmere",
+  "haverly",
+  "maren",
+  "marl",
+  "millbrook",
+  "odo",
+  "orrun",
+  "redwatch",
+  "rowan"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Four.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Black Book.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "They buried the dead on the hill west of the walls, and they buried the beasts with them.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "That was the old way at Greyhold, older than the charter over the gate. A bonded knight went into the ground with the beast that had gone with them, side by side, one grave, because one life between two meant one death and one grave after. Maren had seen it once: her father’s, when she was fourteen, Edric Ashdown and his hound under the same turf at the end of the long field above the river. In the years since, Greyhold had burned its bonded dead on the river shore instead, two on one pyre, as it had burned Merrow with his ox and Ide Darrow with Bracken beside her as if he’d only lain down to wait. There wasn’t wood for fifty-three. There was the hill, and the old way. Now there were fifty-three graves in a morning.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "They dug them all through the first day after the flight. Knights and students and grooms and the refugees from Millbrook who’d come up to the walls in the night and stayed, a long ragged line of people with spades on the west slope of the hill in the thin spring sun, and the ground was soft from the thaw and the digging went fast, and nobody spoke much.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Haverly went into the ground with Kesh. Somebody had smoothed the falcon’s feathers and laid her on his chest with her head under his chin, as she’d sat on his shoulder in the yard. Thorne went in with her boar. It had taken eleven men and a dray-team on a chain to drag the black boar up the hill from the river gate where it had died with her, and they’d had to dig its grave twice the size of any other, and Thorne lay in it against the great black flank like a child asleep against a dog. Pell went in alone. He’d never bonded. He’d taught three hundred students to subdue and not to kill and he went into the ground with his two-fingered hand on his sword and no beast beside him, and Maren stood at the foot of the hill and thought that he wouldn’t have wanted one, and knew that was a lie she was telling herself because it was easier.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "Hale went in alone too. The archivist. Forty years in the dark with the black book and the door. They put him at the end of the row, a little apart, because nobody knew quite where he belonged.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "The chaplain was dead. Grieve read the names.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "She didn’t go up the hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "She stood at the foot of it with Orrun, where the slope began, a long stone’s throw from the nearest grave. Nobody had told her to stand there. Nobody had told her she couldn’t come up. She’d come up the River Road from the ferry house at first light with the lion beside her, and the people on the hill had seen them coming and gone still, all of them, spades in their hands, and she’d stopped at the foot of the slope and stood there, and after a while they’d gone back to digging.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "It was the right place. She’d broken her oath in the snow on the island and been confined to the midden wall and gone over it. Whatever she was now, she wasn’t one of the ones on the hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "Orrun lay down behind her with his head on his paws and watched the graves fill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "bond",
+   "text": "They put the beasts in with them,"
+  },
+  {
+   "seq": 14,
+   "para": "p11",
+   "type": "narration",
+   "text": "he said. Slowly. She’d learned in two days that he always said things slowly, as if each word had to be found and turned over and looked at underneath before it could be set down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p12",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p13",
+   "type": "thought",
+   "text": "That is right.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p14",
+   "type": "narration",
+   "text": "He didn’t say anything else. She felt him through the bond watching the falcon go into the ground on Haverly’s chest, and felt something in him that wasn’t grief and wasn’t approval, something older, as if he were remembering a burying he’d seen a long time ago that had been done properly too.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 18,
+   "para": "p15",
+   "type": "narration",
+   "text": "Tam came up the River Road at noon with Odo on a door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p16",
+   "type": "narration",
+   "text": "She heard them before she saw them, the way you heard Tam: talking. Four men from Millbrook were carrying the door, one at each corner, with Odo Marl lying on it under a blanket with both legs splinted to the knee in bound slats and his face grey and furious, telling them how to carry it. Tam walked alongside with one hand on the edge of the door. He had a burn on his neck she hadn’t seen before, a long red welt from the collar to the ear, and the iron ring on its cord was gone from round his throat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p17",
+   "type": "narration",
+   "text": "He saw her at the foot of the hill and stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p18",
+   "type": "narration",
+   "text": "The men with the door stopped too, because Odo told them to. Odo looked at Maren, and at the lion lying behind her, and his grey face did something complicated.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p19",
+   "type": "speech",
+   "text": "“Well,”"
+  },
+  {
+   "seq": 23,
+   "para": "p19",
+   "type": "narration",
+   "text": "said Odo Marl."
+  },
+  {
+   "seq": 24,
+   "para": "p19",
+   "type": "speech",
+   "text": "“You found it, then.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p20",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p21",
+   "type": "speech",
+   "text": "“I made its collar,”"
+  },
+  {
+   "seq": 27,
+   "para": "p21",
+   "type": "narration",
+   "text": "said Odo."
+  },
+  {
+   "seq": 28,
+   "para": "p21",
+   "type": "speech",
+   "text": "“Did you know that?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p22",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p23",
+   "type": "speech",
+   "text": "“Course you do. You struck it off.”"
+  },
+  {
+   "seq": 31,
+   "para": "p23",
+   "type": "narration",
+   "text": "He lay back on the door and shut his eyes."
+  },
+  {
+   "seq": 32,
+   "para": "p23",
+   "type": "speech",
+   "text": "“Take me to the ferry house. If I’m to be looked at by a lion I’ll be looked at by it sitting down.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p24",
+   "type": "narration",
+   "text": "They carried him on. Tam stayed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p25",
+   "type": "narration",
+   "text": "He didn’t hug her. He’d stopped hugging her the year their father died, the same year he’d stopped saying he’d be a knight like Da. He stood beside her at the foot of the hill and looked up at the graves, and at the men filling them, and she looked at the burn on his neck, and neither of them said anything about the forge, or the night, or the ring that wasn’t round his throat any more.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 35,
+   "para": "p26",
+   "type": "speech",
+   "text": "“Is it true,”"
+  },
+  {
+   "seq": 36,
+   "para": "p26",
+   "type": "narration",
+   "text": "Tam said at last,"
+  },
+  {
+   "seq": 37,
+   "para": "p26",
+   "type": "speech",
+   "text": "“that he’s called Orrun?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p27",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p28",
+   "type": "speech",
+   "text": "“Does he mind being looked at?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p29",
+   "type": "bond",
+   "text": "No,"
+  },
+  {
+   "seq": 41,
+   "para": "p29",
+   "type": "narration",
+   "text": "said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p30",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 43,
+   "para": "p30",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p31",
+   "type": "narration",
+   "text": "Tam looked at the lion. Then he went and sat down on the grass a little way off, close enough to put out a hand, not putting it out, and stayed there all afternoon while they buried the dead.",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 45,
+   "para": "p32",
+   "type": "narration",
+   "text": "At the end of the day, when the last grave was filled and the people were coming down off the hill in ones and twos with their spades over their shoulders, Grieve came down to her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p33",
+   "type": "narration",
+   "text": "He was the Master of Stables, unbonded, forty years at Greyhold, a square grey man with hands like hay-rakes who’d taught her to muck out a greyhart’s stall in her first week and never said a kind word to her or an unkind one. He had something long in his hands, wrapped in a horse-blanket.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p34",
+   "type": "narration",
+   "text": "He stopped in front of her. He didn’t look at the lion.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p35",
+   "type": "speech",
+   "text": "“Haverly’s,”"
+  },
+  {
+   "seq": 49,
+   "para": "p35",
+   "type": "narration",
+   "text": "he said, and held it out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p36",
+   "type": "narration",
+   "text": "She knew what it was before she’d taken it. The weight told her, and the length, and the way the blanket fell off the hilt. Plain steel, a long grip wound with old leather gone dark with hands, a pommel like a walnut. Along the fuller, from the guard to a hand’s width from the point, a line of small cut letters in the old script, hooked at the ends of the strokes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p37",
+   "type": "narration",
+   "text": "They’d burned white on the archive stair. She’d seen them from the yard, coming across with Orrun, the night Haverly held the stair: a line of white fire up and down the dark, cutting spear-shafts like reeds. She’d seen them go dark when he fell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p38",
+   "type": "narration",
+   "text": "They were dark now. Just cuts in the steel.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p39",
+   "type": "speech",
+   "text": "“His father sent it from Hallowmere,”"
+  },
+  {
+   "seq": 54,
+   "para": "p39",
+   "type": "narration",
+   "text": "Grieve said."
+  },
+  {
+   "seq": 55,
+   "para": "p39",
+   "type": "speech",
+   "text": "“When the paper went up. It’s been in that family two hundred years. It’s quickened.”"
+  },
+  {
+   "seq": 56,
+   "para": "p39",
+   "type": "narration",
+   "text": "He said the word as a stableman says"
+  },
+  {
+   "seq": 57,
+   "para": "p39",
+   "type": "bond",
+   "text": "bad-tempered"
+  },
+  {
+   "seq": 58,
+   "para": "p39",
+   "type": "narration",
+   "text": "."
+  },
+  {
+   "seq": 59,
+   "para": "p39",
+   "type": "speech",
+   "text": "“Takes something out of you every time you use it. He knew that. Used it anyway.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p40",
+   "type": "speech",
+   "text": "“His family will want it back.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p41",
+   "type": "speech",
+   "text": "“His family’s sent word they don’t want it in the house.”"
+  },
+  {
+   "seq": 62,
+   "para": "p41",
+   "type": "narration",
+   "text": "Grieve wiped his hands on his coat, though they were clean."
+  },
+  {
+   "seq": 63,
+   "para": "p41",
+   "type": "speech",
+   "text": "“They want it used. So would he. He’d not want it hung on a wall in Hallowmere for people to look at.”"
+  },
+  {
+   "seq": 64,
+   "para": "p41",
+   "type": "narration",
+   "text": "He looked at her at last."
+  },
+  {
+   "seq": 65,
+   "para": "p41",
+   "type": "speech",
+   "text": "“You were the only one in your year he was afraid of. Did you know that?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p42",
+   "type": "speech",
+   "text": "“No.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p43",
+   "type": "speech",
+   "text": "“Well.”"
+  },
+  {
+   "seq": 68,
+   "para": "p43",
+   "type": "narration",
+   "text": "Grieve turned to go back up the hill."
+  },
+  {
+   "seq": 69,
+   "para": "p43",
+   "type": "speech",
+   "text": "“He was.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p44",
+   "type": "narration",
+   "text": "She stood at the foot of the hill with Haverly’s sword in her hands. She didn’t draw it. She wrapped it back in the horse-blanket, carefully, as if it might be cold, and held it against her chest, and watched the last of them come down off the hill in the dusk.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 71,
+   "para": "p45",
+   "type": "narration",
+   "text": "On the second day she went to the archive.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p46",
+   "type": "narration",
+   "text": "It was under the north tower, at the end of the long vaulted room where Hale had sat every afternoon with his stick against the chair and his cup in his hands. The door at the top of the stair was standing open; nobody had shut it since the night. The stair down was dark. She’d brought a candle in a tin, from Liss’s kitchen. It felt strange to carry a light that you had to light. All her life at Greyhold the lamps had lit themselves.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p47",
+   "type": "narration",
+   "text": "The hanging lamp over the long table was dead. It hung on its chain from the vault, an old lamp of iron and thick glass that had burned without oil for three hundred years, and she held her candle up to it and looked in, and it was only an iron cage with a piece of glass in it, cold, with dust on the glass. She’d never seen dust on it before. Lamps that lit themselves didn’t gather dust. She didn’t know why that was. Now she supposed she never would.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p48",
+   "type": "narration",
+   "text": "The black book was on the table where he’d left it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 75,
+   "para": "p49",
+   "type": "narration",
+   "text": "She sat down in his chair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p50",
+   "type": "narration",
+   "text": "She didn’t mean to. She’d meant to stand, and take it, and go. But the chair was there, and the book was there in front of it, open, and her legs decided it. They’d been deciding things for days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p51",
+   "type": "narration",
+   "text": "It was a thick book, bound in black leather gone brown at the edges and cracked across the spine, with heavy pages of something older than paper. Hale had shown it to her in the autumn, in the first of the afternoons: the list of the Watch. Three hundred and eleven names, in the old script, one under another, page after page, each in a different hand. The first knights. Then their sons and daughters. Then the ones the Watch had chosen out of each year at Greyhold, quietly, the ones who could be trusted to say the noon words every day and not ask. Each name written by the hand that owned it, on the night that hand first turned the long black key in the black door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p52",
+   "type": "narration",
+   "text": "The last name was Hale’s. Osric Hale. She couldn’t read the script, not properly, not more than the few letters her father had taught her off the river-watch stones, but she knew the shape of it. She’d watched him write it in the air with one big finger, telling her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p53",
+   "type": "narration",
+   "text": "Under it, the page was empty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p54",
+   "type": "narration",
+   "text": "She sat in his chair a while, looking at the empty page.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p55",
+   "type": "thought",
+   "text": "I said I’d not make you that,"
+  },
+  {
+   "seq": 82,
+   "para": "p55",
+   "type": "narration",
+   "text": "he’d said, on the floor by the three steps, with the sword-cut in him and the key in his hand."
+  },
+  {
+   "seq": 83,
+   "para": "p55",
+   "type": "thought",
+   "text": "I’m making you it now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p56",
+   "type": "narration",
+   "text": "She took the stub of charcoal out of her pocket. Ada’s charcoal; the farmer’s mother had given it to her at the ferry house, with a sheet of paper, without being asked, as if she’d known Maren would want something to write with and wouldn’t ask. She bent over the book.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p57",
+   "type": "narration",
+   "text": "She didn’t write in the old script. She couldn’t, and it would have been a lie. She wrote in the square plain letters of the river watch, the letters you used for a boat’s name on its bow, the ones she’d written fourteen pages of a report in about a roadblock in the autumn when she still thought reports were read.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p58",
+   "type": "thought",
+   "text": "MAREN ASHDOWN.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p59",
+   "type": "narration",
+   "text": "She looked at it. It looked wrong under three hundred years of hooked script, blunt and black and ugly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p60",
+   "type": "narration",
+   "text": "She left it there. She shut the book, and put it inside her coat against her shirt, where Hale’s key was, and blew out the candle, and went back up the stair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p61",
+   "type": "narration",
+   "text": "Nobody stopped her. Nobody living knew what it was.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 90,
+   "para": "p62",
+   "type": "narration",
+   "text": "She went down to the cavern on the evening of the second day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p63",
+   "type": "narration",
+   "text": "Not by herself. Rowan’s knights had been going down since the first morning, with oil lanterns and ropes, through the black door at the end of the archive, which nobody could shut now because Orrun had opened the stone round it like a mouth and it stayed opened. They were bringing up the dead. There’d been eighteen men with Cassian in the lock chamber, and some of them were still down there, and some of the river watch who’d gone down after midnight, and the knights were bringing them up one at a time on planks, slowly, up the long stair in the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p64",
+   "type": "narration",
+   "text": "She went down behind them with Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p65",
+   "type": "narration",
+   "text": "The stair groaned under him. It was wider than it had been. He’d made it wider, going down, and it hadn’t gone back. The old grey stone of the walls was cracked all the way down, and the cracks were new, raw, without dust, and in places the steps had split and dropped a hand’s width and you had to step down onto the broken edge. The lanterns of the knights below went down and down ahead of her into the dark, little points of yellow, swinging.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p66",
+   "type": "narration",
+   "text": "At the bottom of the stair there was a passage, and at the end of the passage there was the ledge.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 95,
+   "para": "p67",
+   "type": "narration",
+   "text": "She’d stood on it once before, three nights ago. Then the cavern had been full of sound: the chains singing, the stone groaning, something huge at the bottom of the chains, lifting. Six chains, each link taller than a man, coming down past the ledge from great iron rings in the wall above it into a darkness so deep the lanterns gave out before the chains did, and coming up again out of it on the far side, a quarter-mile off, to another ledge she couldn’t see. The whole of it humming. The ground, the air, her teeth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p68",
+   "type": "narration",
+   "text": "Now there was water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p69",
+   "type": "narration",
+   "text": "The cavern was half full of the river. The Wend had come in through the hole where the island had been and filled the bottom of it, and it lay there forty feet below the ledge, black and perfectly still, with the lanterns’ light lying on it in long yellow lines that didn’t move. It was so still she could see the roof of the cavern in it, upside down, far below. It was so still that when a drop fell from somewhere above and hit it, the sound came back off the walls three times.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p70",
+   "type": "narration",
+   "text": "The chains were gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p71",
+   "type": "narration",
+   "text": "The great iron rings were still in the wall above the ledge, six of them in a row, each one bigger than a cartwheel. On each ring hung a stump of chain: three links, or four, and then nothing, the last link broken through, its two halves bent out like the claws of a hand that had let go. The rest had gone down into the water. She could see one of them below, just under the surface, a long dim shape of iron going down at a slant into the black like a road into a lake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p72",
+   "type": "narration",
+   "text": "The ground under her feet said nothing at all. No hum. No warmth. Stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p73",
+   "type": "narration",
+   "text": "She stood at the edge of the ledge under the first ring and looked down at the water.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 102,
+   "para": "p74",
+   "type": "narration",
+   "text": "They brought Callis up past her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p75",
+   "type": "narration",
+   "text": "Four knights carried him on a door. He was in irons: a chain at his ankles and a bar across his chest, though there was no need, because both his arms were splinted to the shoulder in bound slats and he couldn’t have lifted either of them. His right arm she’d broken on the island in the snow, with Tobin’s blunt practice sword. His left wrist she’d broken three nights ago in the round chamber, with the flat of the river watch sword. He was grey in the face and his eyes were open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p76",
+   "type": "narration",
+   "text": "He saw her as they carried him past. He said nothing. He didn’t look away, either. He looked at her the whole time they carried him along the ledge, steadily, as a man looks at weather, until they took him into the passage and the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p77",
+   "type": "narration",
+   "text": "She’d thought he would hate her. Perhaps he did. It didn’t look like hate. It looked like a man who had wanted something all his life and had stood very close to it and had it taken away by somebody he’d never thought about, and was trying to understand how.",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p78",
+   "type": "narration",
+   "text": "Then they brought up the plank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p79",
+   "type": "narration",
+   "text": "She stood aside on the ledge to let it pass.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p80",
+   "type": "narration",
+   "text": "He was under a cloak, but someone had folded the cloak back from his face, perhaps by accident on the stair. A narrow face, pale, with the dark hair falling back off the forehead. Calm. Younger than she’d thought in the round chamber, by the light of the candle and the burning lock. He’d looked up at her there with real gladness."
+  },
+  {
+   "seq": 109,
+   "para": "p80",
+   "type": "thought",
+   "text": "Ashdown. The knight with the lion. You came home."
+  },
+  {
+   "seq": 110,
+   "para": "p80",
+   "type": "narration",
+   "text": "He’d known the lion. He hadn’t known her face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p81",
+   "type": "narration",
+   "text": "She knew his. She’d know it all her life.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p82",
+   "type": "narration",
+   "text": "She made herself look at it all the way past. Then they took him into the passage, and the lanterns went up the stair, and she was alone on the ledge with Orrun and one lantern somebody had left on the stone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 113,
+   "para": "p83",
+   "type": "narration",
+   "text": "The passage to the lock chamber went off the ledge into the rock, and its walls were carved from floor to roof with the old letters, line after line, hooked at the ends of the strokes. They’d glowed, three nights ago. They were dark now. Cuts in stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p84",
+   "type": "narration",
+   "text": "At the end of the passage there was light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p85",
+   "type": "narration",
+   "text": "She went toward it with the lantern in her hand and stopped in the door of the round chamber.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p86",
+   "type": "narration",
+   "text": "The disc lay in the middle of the floor where it had always lain, a great round of carved stone with an iron boss at its centre, turned a quarter-turn out of true now, with a long scar in the floor where it had ground round. The key was gone. Somebody had taken it, with the body. There was a dark stain on the boss that the knights had tried to wash and hadn’t been able to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p87",
+   "type": "narration",
+   "text": "And the rings of script were burning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p88",
+   "type": "narration",
+   "text": "Round the disc, from the rim to the boss, the old letters ran in rings, one inside another, like the rings in a cut tree. When the disc was true they didn’t line up. She’d seen them on the night, dark, broken into a hundred pieces, ring against ring. When the disc turned, they’d turned with it, and come into line, and blazed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p89",
+   "type": "narration",
+   "text": "They were still lit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p90",
+   "type": "narration",
+   "text": "A steadier white than the night’s blaze, like a lamp turned low, like snow under a moon. Ring inside ring, from the rim to the boss, the lined-up letters made a single line, a sentence running in from the edge to the centre like the spoke of a wheel, and every stroke of it burned. Quietly. Without flicker. In a chamber a hundred feet under a hill where not one lamp would light, on ground she could feel through Orrun was as dead as a stone in a field.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p91",
+   "type": "narration",
+   "text": "She put the lantern down. She didn’t need it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p92",
+   "type": "speech",
+   "text": "“How,”"
+  },
+  {
+   "seq": 123,
+   "para": "p92",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p93",
+   "type": "narration",
+   "text": "Orrun had come up behind her, filling the passage. He looked at the disc a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p94",
+   "type": "bond",
+   "text": "It does not drink,"
+  },
+  {
+   "seq": 126,
+   "para": "p94",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 127,
+   "para": "p94",
+   "type": "thought",
+   "text": "What they cut into the chains drank. What the people cut drinks."
+  },
+  {
+   "seq": 128,
+   "para": "p94",
+   "type": "narration",
+   "text": "He put his great head down toward the burning line."
+  },
+  {
+   "seq": 129,
+   "para": "p94",
+   "type": "thought",
+   "text": "This was not cut by people.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p95",
+   "type": "narration",
+   "text": "She thought of the arch over the Ruin, and the verse cut under it, the old ones’ words that the first knights had found and taken for their oath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p96",
+   "type": "speech",
+   "text": "“The old ones,”"
+  },
+  {
+   "seq": 132,
+   "para": "p96",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p97",
+   "type": "thought",
+   "text": "Yes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p98",
+   "type": "speech",
+   "text": "“So it won’t go out.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p99",
+   "type": "thought",
+   "text": "It has nothing to go out from.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 136,
+   "para": "p100",
+   "type": "narration",
+   "text": "She sat down on the cold floor beside the disc, cross-legged, with the black book open on her knee at its last pages, which were empty, and the stub of Ada’s charcoal in her fingers.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p101",
+   "type": "narration",
+   "text": "She couldn’t read it. She knew perhaps one letter in five, and those only by their shapes. She copied it anyway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p102",
+   "type": "narration",
+   "text": "Stroke by stroke. That was the only way to do it. She looked at the first letter where it burned at the rim, and found where its first stroke began, and drew that stroke in the book, and looked back, and found where the stroke turned, and drew the turn. Then the hook at the end. Then the next stroke. Her hand was burned and the charcoal was short and every stroke came out thicker than the burning one, clumsy, like a child’s copy of a clerk’s hand. She did it anyway. If she got a stroke wrong she didn’t rub it out, because she didn’t know which of her strokes were wrong; she drew it again beside the first one, and went on.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 139,
+   "para": "p103",
+   "type": "narration",
+   "text": "It took her most of the night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p104",
+   "type": "narration",
+   "text": "Orrun lay across the door of the chamber with his head on his paws and watched her. Once, a long time in, she felt him through the bond like a hand on her shoulder, and looked up, and he was looking not at her but at the line of light, and what was in him was so old she couldn’t follow it down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p105",
+   "type": "bond",
+   "text": "I knew the ones who wrote that,"
+  },
+  {
+   "seq": 142,
+   "para": "p105",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p106",
+   "type": "narration",
+   "text": "She stopped with the charcoal in her fingers.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p107",
+   "type": "thought",
+   "text": "Not the words. Not what it says. The hands."
+  },
+  {
+   "seq": 145,
+   "para": "p107",
+   "type": "narration",
+   "text": "He was quiet a long while."
+  },
+  {
+   "seq": 146,
+   "para": "p107",
+   "type": "thought",
+   "text": "They smelled of light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p108",
+   "type": "narration",
+   "text": "She waited. He didn’t say any more. After a while she went back to the strokes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p109",
+   "type": "narration",
+   "text": "When she’d got to the boss, the last letter, the one that ran under the stain, she sat back and looked at what she’d made. Two pages of the black book covered in charcoal, smudged, thick, crooked. A long line of something she couldn’t read. It looked like a record of a fight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p110",
+   "type": "narration",
+   "text": "She closed the book on it and put it back inside her coat.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 150,
+   "para": "p111",
+   "type": "narration",
+   "text": "On the ledge, going back, Orrun stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p112",
+   "type": "narration",
+   "text": "She was ahead of him with the lantern, at the place where the passage came out onto the ledge above the black water. She felt him stop behind her, as a boat feels the bottom. She turned round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p113",
+   "type": "narration",
+   "text": "He was standing at the very edge of the ledge, under the first of the great iron rings with its stump of broken chain, with his head down, looking past the edge into the water, and through it, down past the drowned chains into the dark below where the bottom of the cavern must be, under forty feet of river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p114",
+   "type": "narration",
+   "text": "She came back to him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p115",
+   "type": "speech",
+   "text": "“What is it?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p116",
+   "type": "narration",
+   "text": "He didn’t answer for a long time. Through the bond she felt him listening with the whole of himself, the way he’d listened on the island all winter with his ear to the stone at the bottom of the pit. Listening down.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 156,
+   "para": "p117",
+   "type": "bond",
+   "text": "Something is shut there,"
+  },
+  {
+   "seq": 157,
+   "para": "p117",
+   "type": "narration",
+   "text": "he said at last.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p118",
+   "type": "speech",
+   "text": "“The chains are gone. It flew.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p119",
+   "type": "thought",
+   "text": "Not that."
+  },
+  {
+   "seq": 160,
+   "para": "p119",
+   "type": "narration",
+   "text": "He lifted his head a little."
+  },
+  {
+   "seq": 161,
+   "para": "p119",
+   "type": "thought",
+   "text": "Under where it lay. Under where the chains held it. Something else."
+  },
+  {
+   "seq": 162,
+   "para": "p119",
+   "type": "narration",
+   "text": "He was quiet again."
+  },
+  {
+   "seq": 163,
+   "para": "p119",
+   "type": "thought",
+   "text": "It does not breathe. It does not draw. It is shut."
+  },
+  {
+   "seq": 164,
+   "para": "p119",
+   "type": "narration",
+   "text": "The words came very slowly."
+  },
+  {
+   "seq": 165,
+   "para": "p119",
+   "type": "thought",
+   "text": "Like a breath held.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p120",
+   "type": "narration",
+   "text": "She looked down at the black water, at the long dim shape of the drowned chain going down into it at a slant.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p121",
+   "type": "speech",
+   "text": "“Will you go nearer?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p122",
+   "type": "thought",
+   "text": "No.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p123",
+   "type": "narration",
+   "text": "She found that she didn’t want to either. She found that she was holding her own breath, standing there, and let it go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p124",
+   "type": "narration",
+   "text": "They went up the long stair with the lantern swinging, and neither of them looked back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 171,
+   "para": "p125",
+   "type": "narration",
+   "text": "The council’s rider came on the third day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p126",
+   "type": "narration",
+   "text": "She saw him from the landing: a man in Hallowmere’s colours on a lathered horse coming down the River Road from the King’s Road at a canter, and up the hill to the gate, and in. An hour later the knights came out of the gate with a ladder and a coil of chain.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p127",
+   "type": "narration",
+   "text": "It wasn’t the great chain. That was still up at Redwatch on its wain, where Corbet had taken it. This was ordinary chain, the kind they used in the Long Barn for the dray-teams. They set the ladder against the gatehouse wall above the gate, where the charter was cut,"
+  },
+  {
+   "seq": 174,
+   "para": "p127",
+   "type": "thought",
+   "text": "the bonded and the unbonded serve as equals"
+  },
+  {
+   "seq": 175,
+   "para": "p127",
+   "type": "narration",
+   "text": ", in letters deep enough to hold snow, and two of them went up it with the chain, and two more came out of the gate carrying something on a plank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p128",
+   "type": "narration",
+   "text": "She knew what it was. She’d stood aside on the ledge to let it pass.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p129",
+   "type": "narration",
+   "text": "They hung him under the charter, in chains, by the arms, with a board round his neck. She couldn’t read the board from the landing. Later she heard it said in the ferry house kitchen by a Millbrook woman who’d come down for the crossing:"
+  },
+  {
+   "seq": 178,
+   "para": "p129",
+   "type": "thought",
+   "text": "THE RESTORATION’S LEADER."
+  },
+  {
+   "seq": 179,
+   "para": "p129",
+   "type": "narration",
+   "text": "Black letters. The council wanted every company on the Drover’s Way to see it from the far bank, and know.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p130",
+   "type": "narration",
+   "text": "She stood on the end of the jetty with Orrun lying behind her and watched it go up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p131",
+   "type": "narration",
+   "text": "She thought of the round chamber."
+  },
+  {
+   "seq": 182,
+   "para": "p131",
+   "type": "thought",
+   "text": "You came home."
+  },
+  {
+   "seq": 183,
+   "para": "p131",
+   "type": "narration",
+   "text": "She thought of his face on the plank, younger than she’d thought.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p132",
+   "type": "narration",
+   "text": "She thought that every company on the Drover’s Way would see it from the far bank, and some of them had stood a long bowshot from a man with the same face on the hill above Harrow’s End, and wouldn’t know which brother it was, and some of them would know.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p133",
+   "type": "narration",
+   "text": "She didn’t say anything. She didn’t think there was anyone to say it to.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 186,
+   "para": "p134",
+   "type": "narration",
+   "text": "Rowan sent for her on the fourth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p135",
+   "type": "narration",
+   "text": "The room at the top of the north tower was the same as it had always been: small, bare, a table and a chair and a window over the river, a cot against the wall made up so tight you could have bounced a coin on it. Rowan sat at the table with papers in front of her squared at their edges. The window looked north up the river toward Redwatch and, beyond it, the place where the island had been: a smooth brown eddy now, with the gulls on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p136",
+   "type": "narration",
+   "text": "There was a crack in the window glass that hadn’t been there before.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p137",
+   "type": "speech",
+   "text": "“Sit down, Ashdown.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p138",
+   "type": "narration",
+   "text": "She sat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p139",
+   "type": "narration",
+   "text": "Rowan looked at her for a while. Rowan’s looks were like her words: few, and each one doing something. Maren had stood under them for two years and never once known what they were doing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p140",
+   "type": "speech",
+   "text": "“The council has written,”"
+  },
+  {
+   "seq": 193,
+   "para": "p140",
+   "type": "narration",
+   "text": "Rowan said."
+  },
+  {
+   "seq": 194,
+   "para": "p140",
+   "type": "speech",
+   "text": "“Several times. In the last three days they have written to me more often than in the last three years.”"
+  },
+  {
+   "seq": 195,
+   "para": "p140",
+   "type": "narration",
+   "text": "She touched the papers."
+  },
+  {
+   "seq": 196,
+   "para": "p140",
+   "type": "speech",
+   "text": "“They have lost the beast under the school. They have lost their lamps, and their wells, and their licensed words, and they are beginning to understand that these are the same loss. They would like it back.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p141",
+   "type": "speech",
+   "text": "“It went north-east.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p142",
+   "type": "speech",
+   "text": "“They know where it went. Half of Hearthmere watched it go.”"
+  },
+  {
+   "seq": 199,
+   "para": "p142",
+   "type": "narration",
+   "text": "Rowan squared a paper that was already square."
+  },
+  {
+   "seq": 200,
+   "para": "p142",
+   "type": "speech",
+   "text": "“They mean to hunt it. They mean to bring it back and put it under the school again, in chains, and have their lamps.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p143",
+   "type": "speech",
+   "text": "“The chains are at the bottom of the river.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p144",
+   "type": "speech",
+   "text": "“Then they’ll make more.”"
+  },
+  {
+   "seq": 203,
+   "para": "p144",
+   "type": "narration",
+   "text": "Rowan looked at her."
+  },
+  {
+   "seq": 204,
+   "para": "p144",
+   "type": "speech",
+   "text": "“They have a smith-reader in Hallowmere who says he can. They have a great deal of money, for a few more months, before people notice that the crown’s gold was always partly lamplight.”"
+  },
+  {
+   "seq": 205,
+   "para": "p144",
+   "type": "narration",
+   "text": "She paused."
+  },
+  {
+   "seq": 206,
+   "para": "p144",
+   "type": "speech",
+   "text": "“And they want the beast that knew the other one. To lead the hunt. To find it. They think it will know where its kin is going.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p145",
+   "type": "narration",
+   "text": "Maren said nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p146",
+   "type": "speech",
+   "text": "“For that,”"
+  },
+  {
+   "seq": 209,
+   "para": "p146",
+   "type": "narration",
+   "text": "said Rowan,"
+  },
+  {
+   "seq": 210,
+   "para": "p146",
+   "type": "speech",
+   "text": "“they will give you a pardon. For the oath.”"
+  },
+  {
+   "seq": 211,
+   "para": "p146",
+   "type": "narration",
+   "text": "She said"
+  },
+  {
+   "seq": 212,
+   "para": "p146",
+   "type": "bond",
+   "text": "the oath"
+  },
+  {
+   "seq": 213,
+   "para": "p146",
+   "type": "narration",
+   "text": "the way she might have said"
+  },
+  {
+   "seq": 214,
+   "para": "p146",
+   "type": "bond",
+   "text": "the barn fire"
+  },
+  {
+   "seq": 215,
+   "para": "p146",
+   "type": "narration",
+   "text": "or"
+  },
+  {
+   "seq": 216,
+   "para": "p146",
+   "type": "thought",
+   "text": "the fever year"
+  },
+  {
+   "seq": 217,
+   "para": "p146",
+   "type": "narration",
+   "text": ": a thing that had happened."
+  },
+  {
+   "seq": 218,
+   "para": "p146",
+   "type": "speech",
+   "text": "“Your place in the orders back. Your name restored to the rolls. They’ve even written that they’ll see you made first lance, which tells me they don’t know how first lance is given here, and don’t care.”"
+  },
+  {
+   "seq": 219,
+   "para": "p146",
+   "type": "narration",
+   "text": "She laid her hand flat on the papers."
+  },
+  {
+   "seq": 220,
+   "para": "p146",
+   "type": "speech",
+   "text": "“All of it. If the lion leads the crown’s hunt.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 221,
+   "para": "p147",
+   "type": "narration",
+   "text": "Maren looked out of the cracked window at the brown eddy where the island had been.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 222,
+   "para": "p148",
+   "type": "narration",
+   "text": "She thought of the chains going down into the black water at a slant like a road into a lake. She thought of the great grey head turning once toward the reeds, and away. She thought of Orrun’s grief coming up through her on the floor of the round chamber with the dead man beside her, so huge she’d gone down on her knees under it.",
+   "mood": "grief"
+  },
+  {
+   "seq": 223,
+   "para": "p148",
+   "type": "thought",
+   "text": "This one was never that. They made it one.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 224,
+   "para": "p149",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 225,
+   "para": "p149",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 226,
+   "para": "p150",
+   "type": "narration",
+   "text": "Rowan didn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p151",
+   "type": "speech",
+   "text": "“I said you’d say that,”"
+  },
+  {
+   "seq": 228,
+   "para": "p151",
+   "type": "narration",
+   "text": "Rowan said."
+  },
+  {
+   "seq": 229,
+   "para": "p151",
+   "type": "speech",
+   "text": "“I wrote to them that you’d say that.”"
+  },
+  {
+   "seq": 230,
+   "para": "p151",
+   "type": "narration",
+   "text": "She didn’t sound angry. She sounded like a woman who had made a wager with herself and won it and wished she hadn’t."
+  },
+  {
+   "seq": 231,
+   "para": "p151",
+   "type": "speech",
+   "text": "“They wanted me to put it to you anyway. So I’ve put it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 232,
+   "para": "p152",
+   "type": "speech",
+   "text": "“Is that all, Captain?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 233,
+   "para": "p153",
+   "type": "narration",
+   "text": "Rowan looked at her for a long moment.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 234,
+   "para": "p154",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 235,
+   "para": "p154",
+   "type": "narration",
+   "text": "Rowan said."
+  },
+  {
+   "seq": 236,
+   "para": "p154",
+   "type": "speech",
+   "text": "“One thing.”"
+  },
+  {
+   "seq": 237,
+   "para": "p154",
+   "type": "narration",
+   "text": "She folded her hands."
+  },
+  {
+   "seq": 238,
+   "para": "p154",
+   "type": "speech",
+   "text": "“Hale went to the black door at dusk, the night of the locks. Liss got to him at the water-gate. He went to the door and stood in front of it.”"
+  },
+  {
+   "seq": 239,
+   "para": "p154",
+   "type": "narration",
+   "text": "She paused."
+  },
+  {
+   "seq": 240,
+   "para": "p154",
+   "type": "speech",
+   "text": "“He had the archivist’s key. The knights who brought him up didn’t find it on him.”"
+  },
+  {
+   "seq": 241,
+   "para": "p154",
+   "type": "narration",
+   "text": "Another pause."
+  },
+  {
+   "seq": 242,
+   "para": "p154",
+   "type": "speech",
+   "text": "“Did he make you Watch?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 243,
+   "para": "p155",
+   "type": "narration",
+   "text": "Maren didn’t answer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 244,
+   "para": "p156",
+   "type": "narration",
+   "text": "The black book was inside her coat, against her shirt. The key was beside it, on its strip of rag. She could feel them both, the weight of one and the cold of the other.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 245,
+   "para": "p157",
+   "type": "narration",
+   "text": "She looked at Rowan and didn’t answer, and didn’t look away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 246,
+   "para": "p158",
+   "type": "narration",
+   "text": "Rowan nodded slowly, as if Maren had said something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 247,
+   "para": "p159",
+   "type": "speech",
+   "text": "“I was never Watch,”"
+  },
+  {
+   "seq": 248,
+   "para": "p159",
+   "type": "narration",
+   "text": "Rowan said."
+  },
+  {
+   "seq": 249,
+   "para": "p159",
+   "type": "speech",
+   "text": "“I knew the secret as Captain. Never the door.”"
+  },
+  {
+   "seq": 250,
+   "para": "p159",
+   "type": "narration",
+   "text": "She looked out of the window."
+  },
+  {
+   "seq": 251,
+   "para": "p159",
+   "type": "speech",
+   "text": "“Thirty years I’ve said the noon words in that yard and never once been asked to turn a key.”"
+  },
+  {
+   "seq": 252,
+   "para": "p159",
+   "type": "narration",
+   "text": "She was quiet."
+  },
+  {
+   "seq": 253,
+   "para": "p159",
+   "type": "speech",
+   "text": "“Go on, Ashdown. Go on back to your mother’s.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 254,
+   "para": "p160",
+   "type": "narration",
+   "text": "She walked down to the landing in the evening with the sword wrapped in its blanket under her arm, and Orrun beside her, and stopped at the top of the jetty steps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 255,
+   "para": "p161",
+   "type": "narration",
+   "text": "Down on the shingle below the ferry house the three dragons were lying where they’d lain for four days, in the lee of the net-loft out of the wind. The farmer was sitting with his back against the red one’s side, mending something in his lap. Wren was on the jetty with her legs over the water and Old Grey standing behind her in the dusk like a piece of the wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 256,
+   "para": "p162",
+   "type": "narration",
+   "text": "As Maren watched, the old bronze dragon got up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 257,
+   "para": "p163",
+   "type": "narration",
+   "text": "Slowly. Onto her three good legs, and then, carefully, testing it, onto the fourth. She stood on the shingle with the river behind her. Then she opened the torn wing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 258,
+   "para": "p164",
+   "type": "narration",
+   "text": "Maren had never seen it open. In the cavern, in the passage, on the road, it had been half-folded and dragging, a sail somebody had dropped. Now it went out from the old dragon’s side, slowly, the long bones of it unfolding like a fishing boat’s spars, and the skin between them stretching, bronze in the last light, and the tear in it showed, long and ragged, from the shoulder down nearly to the wing’s edge. The wing went out as far as it would go. Then a little further.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 259,
+   "para": "p165",
+   "type": "narration",
+   "text": "The other wing came up to meet it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 260,
+   "para": "p166",
+   "type": "narration",
+   "text": "The farmer had stopped mending. Wren had stood up on the jetty. Nobody on the landing moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 261,
+   "para": "p167",
+   "type": "narration",
+   "text": "The old dragon brought both wings down, once, hard, and the wind of it hit Maren at the top of the jetty steps a stone’s throw off, and lifted the hair off her face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 262,
+   "para": "p168",
+   "type": "narration",
+   "text": "She didn’t lift.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 263,
+   "para": "p169",
+   "type": "narration",
+   "text": "She went up on her hind legs with the wings coming down and her forefeet off the shingle, a hand’s width, two, and the torn wing folded under the stroke where it shouldn’t, and she came down again on the stones, hard, all four feet, and stood there with both wings out and her head down, breathing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 264,
+   "para": "p170",
+   "type": "narration",
+   "text": "Then, very slowly, she folded them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 265,
+   "para": "p171",
+   "type": "narration",
+   "text": "The farmer got up and went to her and put his hand on her jaw and said something Maren couldn’t hear. The red one had his head up. The green one had gone down the shingle and was standing in the shallows with her wings half open, as if she could show the old one how.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 266,
+   "para": "p172",
+   "type": "narration",
+   "text": "Maren stood at the top of the steps with Haverly’s sword under her arm and the black book against her chest and watched the old dragon fold her wings, and lie down again on the shingle, and put her great head on her forefeet, and close her one gold eye.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "5c2308460c4f72d407a8a5c3f7b88640ac06f37e",
+ "segments_sha1": "02d14ec2b0083d601d1d0f6ec712fe00da9b5e76"
+}

@@ -2,6 +2,28 @@
  "chapter": 3,
  "title": "The Ferry",
  "pov": "Maren",
+ "source": "Chapters/Chapter 03 - The Ferry.md",
+ "names": [
+  "ashdown",
+  "fenn",
+  "greta",
+  "greyhold",
+  "harrow",
+  "haverly",
+  "hearthmere",
+  "joss",
+  "liss",
+  "maren",
+  "millbrook",
+  "northwatch",
+  "pell",
+  "ruin",
+  "rush",
+  "saltreach",
+  "staithe",
+  "tam",
+  "tolly"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1365,5 +1387,8 @@
    "text": "Maren stood in the gate a moment longer, with the river at her back and the yard in front of her, and found that she was smiling, and didn’t know why, and stopped.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "e4f839e17743af24f19b59257424912ea027fcfa",
+ "segments_sha1": "cbd5040869462b50629f111b038e410e4c30df6c"
 }

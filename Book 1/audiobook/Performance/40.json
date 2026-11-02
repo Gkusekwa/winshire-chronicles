@@ -2,6 +2,24 @@
  "chapter": 40,
  "title": "The Verse",
  "pov": "Calder",
+ "source": "Chapters/Chapter 40 - The Verse.md",
+ "names": [
+  "ada",
+  "aurveth",
+  "bel",
+  "brann",
+  "calder",
+  "crow",
+  "greyhold",
+  "harrow",
+  "holt",
+  "imra",
+  "kharrak",
+  "lisska",
+  "scar",
+  "vale",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -2198,5 +2216,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "ca39508c7601de0a838905168e0a40be1e426ea8",
+ "segments_sha1": "e8a81bd1e00aa19a0239bf84644bdddf76c45588"
 }

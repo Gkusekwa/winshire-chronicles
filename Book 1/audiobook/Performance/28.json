@@ -2,6 +2,31 @@
  "chapter": 28,
  "title": "Aurveth",
  "pov": "Calder",
+ "source": "Chapters/Chapter 28 - Aurveth.md",
+ "names": [
+  "arn",
+  "aurveth",
+  "calder",
+  "coldtarn",
+  "crow",
+  "dag",
+  "fellwood",
+  "garth",
+  "greyhold",
+  "hearthmere",
+  "holm",
+  "kharrak",
+  "lisska",
+  "marches",
+  "ragnald",
+  "saltreach",
+  "scar",
+  "scarfell",
+  "sigrun",
+  "skarrow",
+  "teo",
+  "ulric"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -2143,5 +2168,8 @@
    "text": "Aurveth turned in the cold air, and took him home.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "efc88a6e95cc0699f52f053d852b504f252e0e51",
+ "segments_sha1": "02afa7556b2977c5347d53cba739b1823ecc1257"
 }

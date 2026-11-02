@@ -1,0 +1,2247 @@
+{
+ "chapter": 80,
+ "title": "The Count",
+ "pov": "",
+ "source": "Chapters/Chapter 80 - The Count.md",
+ "names": [
+  "ada",
+  "fisk",
+  "greyhold",
+  "idony",
+  "kit",
+  "liss",
+  "maren",
+  "odo",
+  "orrun",
+  "tam",
+  "vael",
+  "wren"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Eighty.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Count.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "He came over the rim at the second hour after noon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "In the storm. In the snow going sideways off the south, with the wind that the old man said was the surge. Over the bowl’s southern rim and down the slope to the tarn’s shore, slowly. A grey hill, walking. Stopping. Walking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "She was on his head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "She’d been on his head since the village. All night. All morning. While he walked north up the moor behind the last of the column, and his kin came behind him, and stopped when he stopped, and came on when he came on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "He hadn’t turned to fight it. He’d walked ahead of it. To here.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "bond",
+   "text": "The door"
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": ", she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "thought",
+   "text": "I know where it is.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 11,
+   "para": "p8",
+   "type": "narration",
+   "text": "He went round the shore.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p9",
+   "type": "narration",
+   "text": "Through the people. They got out of his way. Thousands, still, on the shore, in the snow, being sorted by Arn’s riders and sent down the beck. They looked up at him going past with the woman on his head and got out of his way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p10",
+   "type": "narration",
+   "text": "To the western crag. To the slope below the door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p11",
+   "type": "narration",
+   "text": "It was a new slope. Raw. Stones and earth gone down into the shallows and fresh grey rock showing. Somebody had slid on it. She could see the long grey scar.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p12",
+   "type": "narration",
+   "text": "He lay down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 16,
+   "para": "p13",
+   "type": "narration",
+   "text": "Across the slope’s foot. With his flank to the tarn. With his head up the slope, on the stones, so that his chin lay on the step at the top, by the door, as a dog lies across a doorway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p14",
+   "type": "narration",
+   "text": "Nobody would get past him to the door without going over him. Nobody would get to it from the tarn without his leave.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p15",
+   "type": "narration",
+   "text": "She climbed down his face onto the step.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 19,
+   "para": "p16",
+   "type": "narration",
+   "text": "Kit was there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p17",
+   "type": "narration",
+   "text": "On the step. In the doorway, with the warm air coming out behind her. Her coat open. Her face grey with cold and something else. The Merrin boy beside her, Jory, with his lips moving. Davin sitting at their feet with a pencil and his case.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p18",
+   "type": "narration",
+   "text": "Kit looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p19",
+   "type": "speech",
+   "text": "“You said you’d be at the door,”"
+  },
+  {
+   "seq": 23,
+   "para": "p19",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p20",
+   "type": "speech",
+   "text": "“I’m here.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p21",
+   "type": "speech",
+   "text": "“You’re late.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p22",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 27,
+   "para": "p22",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 28,
+   "para": "p23",
+   "type": "speech",
+   "text": "“Two hundred and ninety,”"
+  },
+  {
+   "seq": 29,
+   "para": "p23",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p24",
+   "type": "narration",
+   "text": "Maren looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p25",
+   "type": "speech",
+   "text": "“Two hundred and ninety-one,”"
+  },
+  {
+   "seq": 32,
+   "para": "p25",
+   "type": "narration",
+   "text": "said Kit."
+  },
+  {
+   "seq": 33,
+   "para": "p25",
+   "type": "speech",
+   "text": "“The girl in the red coat. I caught her.”"
+  },
+  {
+   "seq": 34,
+   "para": "p25",
+   "type": "narration",
+   "text": "She looked down the slope at the shore. At something on the shore, under a cloak, by the water."
+  },
+  {
+   "seq": 35,
+   "para": "p25",
+   "type": "speech",
+   "text": "“Gannet threw her. I caught her.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p26",
+   "type": "narration",
+   "text": "She didn’t say anything else.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 37,
+   "para": "p27",
+   "type": "narration",
+   "text": "Maren stood on the step.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p28",
+   "type": "narration",
+   "text": "She put her right hand on the door’s jamb. On the stone. She didn’t feel it. She watched it go flat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p29",
+   "type": "narration",
+   "text": "It hummed. Under her hand. Live.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 40,
+   "para": "p30",
+   "type": "speech",
+   "text": "“Two hundred and ninety-two,”"
+  },
+  {
+   "seq": 41,
+   "para": "p30",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 42,
+   "para": "p31",
+   "type": "narration",
+   "text": "They came up the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p32",
+   "type": "narration",
+   "text": "Over Orrun. Up his foreleg, which he put out on the stones for them like a stair. Up his shoulder. Off his head onto the step. One at a time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p33",
+   "type": "narration",
+   "text": "And she counted.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 45,
+   "para": "p34",
+   "type": "narration",
+   "text": "As she counted everything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p35",
+   "type": "narration",
+   "text": "Paces. Breaths. Stars. Waves off the ketch’s bow. The niches in this hall, with Tam, in the winter. The fires on the walls.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p36",
+   "type": "narration",
+   "text": "People.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p37",
+   "type": "thought",
+   "text": "Two hundred and ninety-three. Two hundred and ninety-four.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 49,
+   "para": "p38",
+   "type": "narration",
+   "text": "The rest of Tam’s old ones. Carried. The Clan’s last families. A riders’ wife with two children and a basket. A man from the Hearthmere militia with no boots. A Wyldmarch woman with a stonehorn calf at her heels, small, plated, bleating, that had followed her up the moor and wouldn’t leave her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p39",
+   "type": "narration",
+   "text": "She counted the calf.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p40",
+   "type": "narration",
+   "text": "Nobody told her not to.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 52,
+   "para": "p41",
+   "type": "thought",
+   "text": "Three hundred and four.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 53,
+   "para": "p42",
+   "type": "narration",
+   "text": "Then the lantern.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 54,
+   "para": "p43",
+   "type": "narration",
+   "text": "Round the shore. In the storm. From the caves on the bowl’s far side. A lantern, swinging, coming round the tarn’s edge through the snow. And people behind it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p44",
+   "type": "narration",
+   "text": "An old woman. In a shawl. Holding the lantern up as if it would help.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p45",
+   "type": "narration",
+   "text": "The farmer’s mother.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 57,
+   "para": "p46",
+   "type": "narration",
+   "text": "And behind her, a woman with two children by the hands. A boy. A small girl.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p47",
+   "type": "narration",
+   "text": "And behind them, a girl with a plait. Eleven, nearly twelve. Coming round the shore with a halter in her hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p48",
+   "type": "narration",
+   "text": "And on the halter, a grey.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 60,
+   "para": "p49",
+   "type": "narration",
+   "text": "Old Grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p50",
+   "type": "narration",
+   "text": "Huge. Quiet. A dray-beast. Grey, with his great feathered feet in the snow. Who’d been bound once, at a camp in the Marches, and made to kill a man, and had come back. Who’d taken one step toward the girl’s voice inside Greyhold’s gate, once, of his own accord.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p51",
+   "type": "narration",
+   "text": "And behind him, a young grey mare, on a rope tied to his halter. Lighter. Nervous.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p52",
+   "type": "narration",
+   "text": "Two greys.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 64,
+   "para": "p53",
+   "type": "narration",
+   "text": "They came up to the slope’s foot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p54",
+   "type": "narration",
+   "text": "To Orrun’s foreleg, put out like a stair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p55",
+   "type": "narration",
+   "text": "The old woman looked up at the lion. And at Maren, on the step. And didn’t step back. She’d never once stepped back from anything, the farmer had said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p56",
+   "type": "speech",
+   "text": "“Is this the place?”"
+  },
+  {
+   "seq": 68,
+   "para": "p56",
+   "type": "narration",
+   "text": "said Ada.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p57",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p58",
+   "type": "speech",
+   "text": "“Then I’ll come up.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 71,
+   "para": "p59",
+   "type": "narration",
+   "text": "She came up. Over Orrun’s foreleg with her lantern. On the step. Maren held out her hand for the lantern so the old woman could use both hands on the last pace.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Three hundred and five,”"
+  },
+  {
+   "seq": 73,
+   "para": "p60",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p61",
+   "type": "narration",
+   "text": "Ada looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p62",
+   "type": "speech",
+   "text": "“That’s me, is it,”"
+  },
+  {
+   "seq": 76,
+   "para": "p62",
+   "type": "narration",
+   "text": "said Ada.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p63",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p64",
+   "type": "speech",
+   "text": "“Well,”"
+  },
+  {
+   "seq": 79,
+   "para": "p64",
+   "type": "narration",
+   "text": "said Ada. She went in.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 80,
+   "para": "p65",
+   "type": "narration",
+   "text": "The farmer’s sister. Bel. With the boy and the small girl. Pip. Nan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p66",
+   "type": "thought",
+   "text": "Three hundred and six. Seven. Eight.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 82,
+   "para": "p67",
+   "type": "narration",
+   "text": "And the girl with the plait.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 83,
+   "para": "p68",
+   "type": "narration",
+   "text": "She stood at the slope’s foot with Old Grey’s halter. Looking up at Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p69",
+   "type": "narration",
+   "text": "She’d been nine. At Greyhold. In the yard. A small girl who’d made everyone say things twice and had wanted to meet the lion-woman."
+  },
+  {
+   "seq": 85,
+   "para": "p69",
+   "type": "thought",
+   "text": "Tell her I said hello.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p70",
+   "type": "narration",
+   "text": "She was nearly twelve. Taller. Thin. With her plait done up tight.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 87,
+   "para": "p71",
+   "type": "narration",
+   "text": "Wren.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 88,
+   "para": "p72",
+   "type": "speech",
+   "text": "“He won’t go in the dark,”"
+  },
+  {
+   "seq": 89,
+   "para": "p72",
+   "type": "narration",
+   "text": "said Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p73",
+   "type": "narration",
+   "text": "Old Grey. Standing at the slope’s foot, his great head up, his ears back. Looking at the door. At the black oblong at the top of the slope with the warm air coming out of it and steaming in the snow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p74",
+   "type": "narration",
+   "text": "He wouldn’t come up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 92,
+   "para": "p75",
+   "type": "speech",
+   "text": "“Talk to him,”"
+  },
+  {
+   "seq": 93,
+   "para": "p75",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p76",
+   "type": "narration",
+   "text": "Wren looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p77",
+   "type": "speech",
+   "text": "“I do,”"
+  },
+  {
+   "seq": 96,
+   "para": "p77",
+   "type": "narration",
+   "text": "said Wren."
+  },
+  {
+   "seq": 97,
+   "para": "p77",
+   "type": "speech",
+   "text": "“He doesn’t understand. Papa says he doesn’t. Papa says he’s not bonded. He just likes me.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p78",
+   "type": "speech",
+   "text": "“Talk to him anyway.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 99,
+   "para": "p79",
+   "type": "narration",
+   "text": "Wren turned round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p80",
+   "type": "narration",
+   "text": "She put her hand flat on Old Grey’s neck, under his mane, where the big vein ran. As Pell had put his hand on the grey in the yard at Greyhold when Maren was fourteen and sweeping.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p81",
+   "type": "narration",
+   "text": "And talked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p82",
+   "type": "narration",
+   "text": "Low. Into his neck. Not at him. Into him. Maren couldn’t hear what. Not the stand-word. Not any word. A girl talking to a horse.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 103,
+   "para": "p83",
+   "type": "narration",
+   "text": "Old Grey put his head down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p84",
+   "type": "narration",
+   "text": "And came up the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p85",
+   "type": "narration",
+   "text": "Over Orrun’s foreleg, carefully, his great feathered feet on the lion’s stone. Up the shoulder. Onto the step. With Wren at his head and the young mare behind on her rope, shying, coming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p86",
+   "type": "narration",
+   "text": "Into the dark.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 107,
+   "para": "p87",
+   "type": "bond",
+   "text": "Three hundred and nine"
+  },
+  {
+   "seq": 108,
+   "para": "p87",
+   "type": "narration",
+   "text": ", said Maren."
+  },
+  {
+   "seq": 109,
+   "para": "p87",
+   "type": "thought",
+   "text": "And two.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p88",
+   "type": "narration",
+   "text": "She counted the greys.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 111,
+   "para": "p89",
+   "type": "narration",
+   "text": "Wren stopped in the doorway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p90",
+   "type": "narration",
+   "text": "She looked back at Maren. Over Old Grey’s shoulder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p91",
+   "type": "speech",
+   "text": "“Papa’s on the moor,”"
+  },
+  {
+   "seq": 114,
+   "para": "p91",
+   "type": "narration",
+   "text": "said Wren."
+  },
+  {
+   "seq": 115,
+   "para": "p91",
+   "type": "speech",
+   "text": "“With Lisska and the old one. Bringing the last ones up. He said.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p92",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p93",
+   "type": "speech",
+   "text": "“Kharrak’s gone,”"
+  },
+  {
+   "seq": 118,
+   "para": "p93",
+   "type": "narration",
+   "text": "said Wren."
+  },
+  {
+   "seq": 119,
+   "para": "p93",
+   "type": "speech",
+   "text": "“Lisska told me. In the night.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p94",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p95",
+   "type": "narration",
+   "text": "Wren looked at her a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p96",
+   "type": "speech",
+   "text": "“He said to tell me it was small,”"
+  },
+  {
+   "seq": 123,
+   "para": "p96",
+   "type": "narration",
+   "text": "said Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p97",
+   "type": "narration",
+   "text": "She went in.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 125,
+   "para": "p98",
+   "type": "narration",
+   "text": "Liss came at the fourth hour.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p99",
+   "type": "narration",
+   "text": "Up the Way from the Vale. On foot. Twenty leagues. With a sack on her back and Fisk beside her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p100",
+   "type": "narration",
+   "text": "Maren saw her come round the shore. Small. In her shawl. The sack. Coming round the tarn in the storm as she’d come down to her landing every morning for thirty years.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p101",
+   "type": "narration",
+   "text": "Liss looked up at the lion lying across the slope. At Maren on the step.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p102",
+   "type": "narration",
+   "text": "She didn’t step back. She never had.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 130,
+   "para": "p103",
+   "type": "speech",
+   "text": "“The river’s gone,”"
+  },
+  {
+   "seq": 131,
+   "para": "p103",
+   "type": "narration",
+   "text": "said Liss.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p104",
+   "type": "narration",
+   "text": "She came up over Orrun’s foreleg. Slowly. She was old. She put her hand on his stone as she came.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p105",
+   "type": "speech",
+   "text": "“Gone into the ground. All of it. The ferry’s on the mud.”"
+  },
+  {
+   "seq": 134,
+   "para": "p105",
+   "type": "narration",
+   "text": "She reached the step. She put her hand in her pocket and took something out and held it up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p106",
+   "type": "narration",
+   "text": "An iron pin. As long as her hand. Worn bright.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p107",
+   "type": "speech",
+   "text": "“The windlass-pin,”"
+  },
+  {
+   "seq": 137,
+   "para": "p107",
+   "type": "narration",
+   "text": "said Liss."
+  },
+  {
+   "seq": 138,
+   "para": "p107",
+   "type": "speech",
+   "text": "“I brought the pin.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p108",
+   "type": "narration",
+   "text": "She looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p109",
+   "type": "speech",
+   "text": "“I don’t know why,”"
+  },
+  {
+   "seq": 141,
+   "para": "p109",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 142,
+   "para": "p109",
+   "type": "speech",
+   "text": "“There’s no rope.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 143,
+   "para": "p110",
+   "type": "bond",
+   "text": "Three hundred and forty-one"
+  },
+  {
+   "seq": 144,
+   "para": "p110",
+   "type": "narration",
+   "text": ", said Maren.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 145,
+   "para": "p111",
+   "type": "speech",
+   "text": "“And me,”"
+  },
+  {
+   "seq": 146,
+   "para": "p111",
+   "type": "narration",
+   "text": "said Fisk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p112",
+   "type": "narration",
+   "text": "Behind Liss. On the step. A thin old man from the Eelweir at Harrow’s End, who’d sat at his table with the farmer once and watched him write his first sentence with a burnt stick.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p113",
+   "type": "speech",
+   "text": "“Somebody’s got to,”"
+  },
+  {
+   "seq": 149,
+   "para": "p113",
+   "type": "narration",
+   "text": "said Fisk."
+  },
+  {
+   "seq": 150,
+   "para": "p113",
+   "type": "speech",
+   "text": "“To tell it after.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p114",
+   "type": "narration",
+   "text": "He went in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p115",
+   "type": "thought",
+   "text": "Three hundred and forty-two.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 153,
+   "para": "p116",
+   "type": "narration",
+   "text": "Wynn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p117",
+   "type": "narration",
+   "text": "With his arm bound up. With a hound at his knee. Grey. Shaking. Its eyes its own.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p118",
+   "type": "narration",
+   "text": "Sorrow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p119",
+   "type": "speech",
+   "text": "“Does she count?”"
+  },
+  {
+   "seq": 157,
+   "para": "p119",
+   "type": "narration",
+   "text": "said Wynn. Looking at the hound.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p120",
+   "type": "speech",
+   "text": "“She counts,”"
+  },
+  {
+   "seq": 159,
+   "para": "p120",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 160,
+   "para": "p121",
+   "type": "narration",
+   "text": "Eleven men in grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p122",
+   "type": "narration",
+   "text": "Kessmoor’s. Battery crews. They came up the slope together, in a knot, and stopped at the step, and didn’t look at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p123",
+   "type": "speech",
+   "text": "“The hub battery,”"
+  },
+  {
+   "seq": 163,
+   "para": "p123",
+   "type": "narration",
+   "text": "said one. Young."
+  },
+  {
+   "seq": 164,
+   "para": "p123",
+   "type": "speech",
+   "text": "“We were at the twenty that faced west. When the orders came. We didn’t go in.”"
+  },
+  {
+   "seq": 165,
+   "para": "p123",
+   "type": "narration",
+   "text": "He looked at his boots."
+  },
+  {
+   "seq": 166,
+   "para": "p123",
+   "type": "speech",
+   "text": "“We kept firing. Till the bank went.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p124",
+   "type": "narration",
+   "text": "She looked at them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p125",
+   "type": "narration",
+   "text": "She thought of a man in a brake. She’d felt him, through Orrun, through the stone, at the end. She hadn’t known who.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p126",
+   "type": "bond",
+   "text": "Three hundred and sixty-eight"
+  },
+  {
+   "seq": 170,
+   "para": "p126",
+   "type": "narration",
+   "text": ", she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p127",
+   "type": "narration",
+   "text": "They went in.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 172,
+   "para": "p128",
+   "type": "narration",
+   "text": "A boy from Sorrel Isle, who’d been an olifant-boy, and had no olifant now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p129",
+   "type": "narration",
+   "text": "Two Wardens. Blue. One with a lynx, lame.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p130",
+   "type": "narration",
+   "text": "Three sellswords from the scrub end with burned faces.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p131",
+   "type": "narration",
+   "text": "A Gullhaven woman captain with knots on a string, who’d untied her freight-knots with her teeth on a barge in the autumn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p132",
+   "type": "narration",
+   "text": "A Keeper boy with his arm in a sling and a lame grey wolf.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p133",
+   "type": "speech",
+   "text": "“In already,”"
+  },
+  {
+   "seq": 178,
+   "para": "p133",
+   "type": "narration",
+   "text": "said Kit."
+  },
+  {
+   "seq": 179,
+   "para": "p133",
+   "type": "speech",
+   "text": "“Him. And the wolf. I salted the wolf.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p134",
+   "type": "narration",
+   "text": "Maren took one off.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 181,
+   "para": "p135",
+   "type": "narration",
+   "text": "All afternoon. Into the dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p136",
+   "type": "narration",
+   "text": "The storm getting worse. The wind coming over the rim harder, and the snow with it. The sky over the tarn dark, and in it, wings: the Clan’s, holding the air, round and round, low. Two rocs. A wyvern with no rider.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p137",
+   "type": "narration",
+   "text": "And the ground shaking. Every little while. Up through the stone of the step, through her knees, through Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p138",
+   "type": "narration",
+   "text": "She counted.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 185,
+   "para": "p139",
+   "type": "narration",
+   "text": "At dusk she counted Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p140",
+   "type": "narration",
+   "text": "Kit had been on the step all day. Beside her. With her empty salt pocket.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p141",
+   "type": "speech",
+   "text": "“And you,”"
+  },
+  {
+   "seq": 188,
+   "para": "p141",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p142",
+   "type": "narration",
+   "text": "Kit looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p143",
+   "type": "speech",
+   "text": "“And me,”"
+  },
+  {
+   "seq": 191,
+   "para": "p143",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p144",
+   "type": "thought",
+   "text": "Four hundred and seventy-two.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 193,
+   "para": "p145",
+   "type": "speech",
+   "text": "“And him,”",
+   "how": "very quietly"
+  },
+  {
+   "seq": 194,
+   "para": "p145",
+   "type": "narration",
+   "text": "said Kit. Jory. Beside her. Still counting under his breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p146",
+   "type": "thought",
+   "text": "Four hundred and seventy-three.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 196,
+   "para": "p147",
+   "type": "narration",
+   "text": "She stood on the step with her hand on the jamb.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p148",
+   "type": "narration",
+   "text": "Four hundred and seventy-three. And a hound, and a wolf, and two greys, and a stonehorn calf. And a lynx; she’d forgotten the lynx.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p149",
+   "type": "narration",
+   "text": "In the hall behind her. In the warm dark. In the niches, three high, every one. On the floor between the pillars, lying close. Standing, some of them, against the walls. The old man on his hurdle by the third pillar, with Davin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p150",
+   "type": "speech",
+   "text": "“Thirty more,”"
+  },
+  {
+   "seq": 200,
+   "para": "p150",
+   "type": "narration",
+   "text": "said Tam. In the doorway behind her."
+  },
+  {
+   "seq": 201,
+   "para": "p150",
+   "type": "speech",
+   "text": "“If they stand.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 202,
+   "para": "p151",
+   "type": "narration",
+   "text": "The roof cracked at dusk.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 203,
+   "para": "p152",
+   "type": "narration",
+   "text": "She heard it first. Through the jamb. Through her hand. A sound in the stone like a branch going in frost. Then she heard it in the hall. People shouting. A child screaming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p153",
+   "type": "narration",
+   "text": "She turned.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 205,
+   "para": "p154",
+   "type": "narration",
+   "text": "Inside. Near the door. Between the third pillar and the fourth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p155",
+   "type": "narration",
+   "text": "The roof.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p156",
+   "type": "narration",
+   "text": "A crack. Across it. She could see it in Ada’s lantern and Liss’s brass lamp, that Liss had got out of her sack and lit. A black line across the roof-stone from one pillar to the next. Grit coming down out of it. Dust. Falling on the people lying under it, on the floor, in the niches.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p157",
+   "type": "narration",
+   "text": "And the roof-stone between the pillars, sagging. A hand’s breadth. Down. As a ceiling sags in a house where the beam has gone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 209,
+   "para": "p158",
+   "type": "narration",
+   "text": "The ground shook again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p159",
+   "type": "narration",
+   "text": "The crack widened. More grit. A stone the size of a fist came out of it and fell on the floor and broke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p160",
+   "type": "narration",
+   "text": "People were getting up. Going for the door. For her. For the step, and the slope, and the storm.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 212,
+   "para": "p161",
+   "type": "speech",
+   "text": "“Hold,”"
+  },
+  {
+   "seq": 213,
+   "para": "p161",
+   "type": "narration",
+   "text": "said the old man.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 214,
+   "para": "p162",
+   "type": "narration",
+   "text": "From his hurdle. By the third pillar. Under the crack. Thin. High. In his burned-out voice that didn’t carry.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p163",
+   "type": "narration",
+   "text": "It carried. Everyone in the hall stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p164",
+   "type": "speech",
+   "text": "“The hold rune,”"
+  },
+  {
+   "seq": 217,
+   "para": "p164",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 218,
+   "para": "p164",
+   "type": "speech",
+   "text": "“I know it. I cut it once. At Vael. On a wall.”"
+  },
+  {
+   "seq": 219,
+   "para": "p164",
+   "type": "narration",
+   "text": "He was looking up at the crack."
+  },
+  {
+   "seq": 220,
+   "para": "p164",
+   "type": "speech",
+   "text": "“In a surge. With a woken edge. It held.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p165",
+   "type": "narration",
+   "text": "He held up his hands. Shaking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 222,
+   "para": "p166",
+   "type": "speech",
+   "text": "“I can’t hold a chisel,”"
+  },
+  {
+   "seq": 223,
+   "para": "p166",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 224,
+   "para": "p167",
+   "type": "speech",
+   "text": "“I can,”"
+  },
+  {
+   "seq": 225,
+   "para": "p167",
+   "type": "narration",
+   "text": "said Tam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 226,
+   "para": "p168",
+   "type": "narration",
+   "text": "He was already beside the hurdle. With Odo’s roll open on the floor. A chisel. A hammer. Odo’s. That had been in the roll under Tam’s wagon-seat all the way from Ironhythe.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p169",
+   "type": "speech",
+   "text": "“I can’t read,”"
+  },
+  {
+   "seq": 228,
+   "para": "p169",
+   "type": "narration",
+   "text": "said Tam."
+  },
+  {
+   "seq": 229,
+   "para": "p169",
+   "type": "speech",
+   "text": "“I never could. You know that.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 230,
+   "para": "p170",
+   "type": "speech",
+   "text": "“I’ll say the strokes,”"
+  },
+  {
+   "seq": 231,
+   "para": "p170",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 232,
+   "para": "p170",
+   "type": "speech",
+   "text": "“You cut them.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 233,
+   "para": "p171",
+   "type": "speech",
+   "text": "“Where?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 234,
+   "para": "p172",
+   "type": "narration",
+   "text": "Idony pointed. Up. At the crack. At the roof-stone beside it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 235,
+   "para": "p173",
+   "type": "speech",
+   "text": "“On it. On the stone that’s going.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 236,
+   "para": "p174",
+   "type": "narration",
+   "text": "Tam looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 237,
+   "para": "p175",
+   "type": "narration",
+   "text": "The roof was twice a man’s height. Higher.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 238,
+   "para": "p176",
+   "type": "narration",
+   "text": "Old Grey was standing by the fourth pillar.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 239,
+   "para": "p177",
+   "type": "narration",
+   "text": "With Wren at his head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 240,
+   "para": "p178",
+   "type": "narration",
+   "text": "Tam looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 241,
+   "para": "p179",
+   "type": "narration",
+   "text": "Wren looked at Tam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 242,
+   "para": "p180",
+   "type": "speech",
+   "text": "“He’ll stand,”"
+  },
+  {
+   "seq": 243,
+   "para": "p180",
+   "type": "narration",
+   "text": "said Wren."
+  },
+  {
+   "seq": 244,
+   "para": "p180",
+   "type": "speech",
+   "text": "“If I talk to him.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 245,
+   "para": "p181",
+   "type": "narration",
+   "text": "She did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 246,
+   "para": "p182",
+   "type": "narration",
+   "text": "Hand flat on his neck. Low. Into him. And the great grey dray-beast stood under the crack in the warm dark, and didn’t move, with grit falling on his back, while a smith climbed up onto it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 247,
+   "para": "p183",
+   "type": "narration",
+   "text": "Tam stood on Old Grey’s back. In his apron. With Odo’s chisel and Odo’s hammer. Under the crack.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 248,
+   "para": "p184",
+   "type": "speech",
+   "text": "“Maren,”"
+  },
+  {
+   "seq": 249,
+   "para": "p184",
+   "type": "narration",
+   "text": "said Idony.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 250,
+   "para": "p185",
+   "type": "narration",
+   "text": "She was at the door. On the step. With her hand on the jamb.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 251,
+   "para": "p186",
+   "type": "speech",
+   "text": "“The stone,”"
+  },
+  {
+   "seq": 252,
+   "para": "p186",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 253,
+   "para": "p186",
+   "type": "speech",
+   "text": "“It’s all one stone. The crag. The door. The roof. It runs into it.”"
+  },
+  {
+   "seq": 254,
+   "para": "p186",
+   "type": "narration",
+   "text": "He was looking at her across the hall."
+  },
+  {
+   "seq": 255,
+   "para": "p186",
+   "type": "speech",
+   "text": "“Your hand. On the stone. And his earth through you.”"
+  },
+  {
+   "seq": 256,
+   "para": "p186",
+   "type": "narration",
+   "text": "He looked past her, at the great grey head lying on the step outside."
+  },
+  {
+   "seq": 257,
+   "para": "p186",
+   "type": "speech",
+   "text": "“From the door.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 258,
+   "para": "p187",
+   "type": "speech",
+   "text": "“The ground’s alive,”"
+  },
+  {
+   "seq": 259,
+   "para": "p187",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 260,
+   "para": "p188",
+   "type": "speech",
+   "text": "“The ground’s alive,”"
+  },
+  {
+   "seq": 261,
+   "para": "p188",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 262,
+   "para": "p188",
+   "type": "speech",
+   "text": "“The Deep’s under us. Warm. That’s why it’s warm.”",
+   "how": "very quietly"
+  },
+  {
+   "seq": 263,
+   "para": "p188",
+   "type": "narration",
+   "text": "He breathed."
+  },
+  {
+   "seq": 264,
+   "para": "p188",
+   "type": "speech",
+   "text": "“It’ll answer. If it’s cut right. If you hold the stone while it’s cut.”",
+   "how": "very quietly",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 265,
+   "para": "p189",
+   "type": "narration",
+   "text": "She put her hand flat on the jamb.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 266,
+   "para": "p190",
+   "type": "narration",
+   "text": "The right. She watched it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 267,
+   "para": "p191",
+   "type": "bond",
+   "text": "Orrun"
+  },
+  {
+   "seq": 268,
+   "para": "p191",
+   "type": "narration",
+   "text": ", she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 269,
+   "para": "p192",
+   "type": "thought",
+   "text": "I’m here.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 270,
+   "para": "p193",
+   "type": "thought",
+   "text": "Give it to me.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 271,
+   "para": "p194",
+   "type": "narration",
+   "text": "He gave it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 272,
+   "para": "p195",
+   "type": "narration",
+   "text": "His earth. Out of him. Through his chin on the step. Into the step’s stone, into the jamb, into her hand. Up her dead arm. Into her. And out again through her hand into the crag. Into the stone of the door, and the lintel with its words she couldn’t read, and back, through the rock, into the roof.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 273,
+   "para": "p196",
+   "type": "narration",
+   "text": "She felt the roof.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 274,
+   "para": "p197",
+   "type": "narration",
+   "text": "The crack. The stone sagging. Heavy. Tired. Old. Wanting to come down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 275,
+   "para": "p198",
+   "type": "narration",
+   "text": "She held it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 276,
+   "para": "p199",
+   "type": "speech",
+   "text": "“Down,”"
+  },
+  {
+   "seq": 277,
+   "para": "p199",
+   "type": "narration",
+   "text": "said Idony.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 278,
+   "para": "p200",
+   "type": "narration",
+   "text": "Tam cut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 279,
+   "para": "p201",
+   "type": "narration",
+   "text": "She heard it. Odo’s hammer on Odo’s chisel. Tick. On the roof-stone. A stroke. Down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 280,
+   "para": "p202",
+   "type": "speech",
+   "text": "“Then the hook. Left.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 281,
+   "para": "p203",
+   "type": "thought",
+   "text": "Tick. Tick.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 282,
+   "para": "p204",
+   "type": "speech",
+   "text": "“Then the cross. High. From the right.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 283,
+   "para": "p205",
+   "type": "thought",
+   "text": "Tick.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 284,
+   "para": "p206",
+   "type": "narration",
+   "text": "She’d heard the old man say it at Vael. In the lower city, with the wall cracking and the meltflood coming. He’d cut it himself then. With Haverly’s edge, woken in the surge. Her hand on the block.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 285,
+   "para": "p207",
+   "type": "narration",
+   "text": "He couldn’t cut anything now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 286,
+   "para": "p208",
+   "type": "narration",
+   "text": "He said it. From his hurdle. Stroke by stroke. Slowly. Exactly. And a smith who couldn’t read stood on a horse’s back and cut what he said into the roof of a hall under a tarn, with an old friend’s chisel, from a city nobody would hear from again.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 287,
+   "para": "p209",
+   "type": "speech",
+   "text": "“The tail. Short. Down and in.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 288,
+   "para": "p210",
+   "type": "thought",
+   "text": "Tick.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 289,
+   "para": "p211",
+   "type": "speech",
+   "text": "“That’s it,”"
+  },
+  {
+   "seq": 290,
+   "para": "p211",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 291,
+   "para": "p211",
+   "type": "speech",
+   "text": "“That’s the last.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 292,
+   "para": "p212",
+   "type": "narration",
+   "text": "The rune answered.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 293,
+   "para": "p213",
+   "type": "narration",
+   "text": "She felt it. Through her hand. Through the jamb. Through the roof.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 294,
+   "para": "p214",
+   "type": "narration",
+   "text": "The cut lines in the stone, that Tam had made. Lighting. White. Thin. Along their edges. As the hold had lit on the inside of every link of every chain under Greyhold, and on the Bridle’s chains on the eddy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 295,
+   "para": "p215",
+   "type": "narration",
+   "text": "But this was cut in the roof of a hall full of people.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 296,
+   "para": "p216",
+   "type": "narration",
+   "text": "And it held.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 297,
+   "para": "p217",
+   "type": "narration",
+   "text": "The roof-stone lifted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 298,
+   "para": "p218",
+   "type": "narration",
+   "text": "She felt it lift. The hand’s breadth it had sagged. Up. Back. Slowly. The crack closing. From either end. Toward the middle. Until it was a hair. A black line across the stone, fine as a thread, with a white rune lit beside it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 299,
+   "para": "p219",
+   "type": "narration",
+   "text": "The grit stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 300,
+   "para": "p220",
+   "type": "narration",
+   "text": "The roof held.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 301,
+   "para": "p221",
+   "type": "narration",
+   "text": "Tam came down off Old Grey’s back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 302,
+   "para": "p222",
+   "type": "narration",
+   "text": "He stood in the hall with Odo’s chisel and Odo’s hammer in his hands and looked up at what he’d cut. He couldn’t read it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 303,
+   "para": "p223",
+   "type": "speech",
+   "text": "“Is that right?”"
+  },
+  {
+   "seq": 304,
+   "para": "p223",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 305,
+   "para": "p224",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 306,
+   "para": "p224",
+   "type": "narration",
+   "text": "said the old man. On his hurdle. Crying, she thought. She couldn’t see from the door."
+  },
+  {
+   "seq": 307,
+   "para": "p224",
+   "type": "speech",
+   "text": "“Yes. It’s right.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 308,
+   "para": "p225",
+   "type": "narration",
+   "text": "She took her hand off the jamb.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 309,
+   "para": "p226",
+   "type": "narration",
+   "text": "The cold came in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 310,
+   "para": "p227",
+   "type": "narration",
+   "text": "After. As it always did. She’d thought there was no more cold to come. She’d been cold to the heart on the Saltreach bank, and cold under the sea, and cold on the black ice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 311,
+   "para": "p228",
+   "type": "narration",
+   "text": "This was colder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 312,
+   "para": "p229",
+   "type": "narration",
+   "text": "It came in through her hand, through her arm, into her middle, where the stone from the Thornwood was, and the cold already was, and lay down there with them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 313,
+   "para": "p230",
+   "type": "narration",
+   "text": "She stood on the step in the storm and shook. Kit said so. She couldn’t feel it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 314,
+   "para": "p231",
+   "type": "bond",
+   "text": "Maren"
+  },
+  {
+   "seq": 315,
+   "para": "p231",
+   "type": "narration",
+   "text": ", said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 316,
+   "para": "p232",
+   "type": "narration",
+   "text": "His chin on the step beside her. His great grey head. His pale eyes, open, looking past her. Past the tarn. South.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 317,
+   "para": "p233",
+   "type": "thought",
+   "text": "He’s on the moor.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 318,
+   "para": "p234",
+   "type": "narration",
+   "text": "She looked through him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 319,
+   "para": "p235",
+   "type": "narration",
+   "text": "South. Over the bowl’s rim. Over the high moor in the storm. To the Scarfell’s lip, a long way off, where the Way came over.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 320,
+   "para": "p236",
+   "type": "narration",
+   "text": "Something white coming over it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 321,
+   "para": "p237",
+   "type": "narration",
+   "text": "Blazing. Walking. Not flying. Its wings folded on its back. It had come up past the top field and the grey shape lying on it without stopping. Now onto the high moor. Up the Way. Toward Coldtarn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 322,
+   "para": "p238",
+   "type": "narration",
+   "text": "Slowly.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 323,
+   "para": "p239",
+   "type": "bond",
+   "text": "He’s coming up"
+  },
+  {
+   "seq": 324,
+   "para": "p239",
+   "type": "narration",
+   "text": ", said Orrun."
+  },
+  {
+   "seq": 325,
+   "para": "p239",
+   "type": "thought",
+   "text": "He’s slow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 326,
+   "para": "p240",
+   "type": "narration",
+   "text": "She watched it come, through him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 327,
+   "para": "p241",
+   "type": "bond",
+   "text": "He’s in no hurry"
+  },
+  {
+   "seq": 328,
+   "para": "p241",
+   "type": "narration",
+   "text": ", said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 329,
+   "para": "p242",
+   "type": "narration",
+   "text": "He put his chin back down on the step, by the door, and lay there across the slope’s foot with his eyes on the south.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "282009e1116ee30051b3b217c5e731b13d5a8d1d",
+ "segments_sha1": "5f76e7922f13af7d58cca2e7b6349cdd4bc67c2b"
+}

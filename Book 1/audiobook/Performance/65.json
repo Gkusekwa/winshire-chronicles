@@ -2,6 +2,23 @@
  "chapter": 65,
  "title": "The Red Door",
  "pov": "Maren",
+ "source": "Chapters/Chapter 65 - The Red Door.md",
+ "names": [
+  "callis",
+  "eelweir",
+  "fenn",
+  "greyhold",
+  "hearthmere",
+  "liss",
+  "maren",
+  "millbrook",
+  "ram",
+  "redwatch",
+  "reede",
+  "staithe",
+  "tam",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1733,5 +1750,8 @@
    "mood": "dread",
    "pause_after_ms": 800
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "c5f110ab90491223acda3d437360e1013445cb6c",
+ "segments_sha1": "063192f6f35c65eaed4dc0e16bf66c3853b2380a"
 }

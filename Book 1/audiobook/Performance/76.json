@@ -2,6 +2,15 @@
  "chapter": 76,
  "title": "Seven",
  "pov": "Calder",
+ "source": "Chapters/Chapter 76 - Seven.md",
+ "names": [
+  "aurveth",
+  "calder",
+  "corvin",
+  "greyhold",
+  "hearthmere",
+  "kharrak"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1152,5 +1161,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "c5b5832002e263a94032e4409ed54332ebe5a76c",
+ "segments_sha1": "fa222a1636d39aa6ab347731493741fcd25701b7"
 }

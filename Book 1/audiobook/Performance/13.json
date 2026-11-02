@@ -2,6 +2,16 @@
  "chapter": 13,
  "title": "The Old Ruin",
  "pov": "Maren",
+ "source": "Chapters/Chapter 13 - The Old Ruin.md",
+ "names": [
+  "greyhold",
+  "harrow",
+  "hearthmere",
+  "pell",
+  "rowan",
+  "saltreach",
+  "scarfell"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -680,5 +690,8 @@
    "text": "She wrung out the shirt, and went up to the fort, and wrote it down.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "06d08b4f18845ece7d0dffbdee7297851f93cd2e",
+ "segments_sha1": "102293a17396e35cab3e3353f73f8d93996b06ff"
 }

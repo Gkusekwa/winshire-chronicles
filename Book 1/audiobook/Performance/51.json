@@ -2,6 +2,18 @@
  "chapter": 51,
  "title": "The Door",
  "pov": "Maren",
+ "source": "Chapters/Chapter 51 - The Door.md",
+ "names": [
+  "ashdown",
+  "davin",
+  "greyhold",
+  "hale",
+  "hallowmere",
+  "harrow",
+  "millbrook",
+  "redwatch",
+  "thorne"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1281,5 +1293,8 @@
    "mood": "reflective",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "d69df9cac2e97df1eec3c0591f8711de832b95bc",
+ "segments_sha1": "ed4061402344d6fe98125bf4205a0645a5a0da82"
 }

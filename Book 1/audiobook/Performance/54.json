@@ -2,6 +2,46 @@
  "chapter": 54,
  "title": "The Gathering",
  "pov": "Calder",
+ "source": "Chapters/Chapter 54 - The Gathering.md",
+ "names": [
+  "ada",
+  "ashby",
+  "ashdown",
+  "aurveth",
+  "bel",
+  "brecc",
+  "calder",
+  "cotter",
+  "cross",
+  "davy",
+  "delling",
+  "drover",
+  "ewe",
+  "fisk",
+  "garrow",
+  "harrow",
+  "hearthmere",
+  "hob",
+  "hollins",
+  "joss",
+  "kharrak",
+  "lisska",
+  "marches",
+  "ram",
+  "rush",
+  "saltreach",
+  "scar",
+  "scarfell",
+  "skarrow",
+  "staithe",
+  "tessa",
+  "tolly",
+  "varrhold",
+  "wat",
+  "wend",
+  "wendmouth",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -2405,5 +2445,8 @@
    "mood": "tender",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "33510bfe22708d8b63eadef6f38e950002eeb0af",
+ "segments_sha1": "7d14386cea10a60cfd83c1f304ccc5638d7d5a36"
 }

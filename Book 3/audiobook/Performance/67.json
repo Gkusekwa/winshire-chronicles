@@ -1,0 +1,1455 @@
+{
+ "chapter": 67,
+ "title": "Night Flights",
+ "pov": "",
+ "source": "Chapters/Chapter 67 - Night Flights.md",
+ "names": [
+  "arn",
+  "coldtarn",
+  "drover",
+  "flat",
+  "gorm",
+  "gunna",
+  "hearthmere",
+  "ildra",
+  "leir",
+  "nell",
+  "rowan",
+  "scarfell",
+  "sun",
+  "tallis",
+  "ulric",
+  "vale",
+  "varrhold",
+  "wyldmarch"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Sixty-seven.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Night Flights.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The surgeons laid them out in rows.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "Behind both walls. On straw, on canvas, on the frozen ground when there wasn’t anything else. In the dusk, by torchlight, with the wards glimmering overhead like breath on glass. Nine hundred, Davin said, who couldn’t walk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "Arn walked along the rows with Ildra at his heel and looked at them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Burned. From the scrub end, where the Sun had pressed all day. Faces. Hands. A sellsword with no eyebrows and his mail fused to his shirt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "Crushed. From the gully at the bend, and from the Sarovel sector where the ward had sagged. A girl of twelve with both legs splinted to the hip.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "Trampled. The beast-flood’s. Clansfolk, most of them, from the Wyldmarch’s river end, where the elk and the wild cattle had come over the line before the stonehorns turned.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "Scalded. Kessmoor’s. From the Flat, where the Furnace had come up. Five of them in a row with their faces wrapped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "Nine hundred.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "speech",
+   "text": "“Varrhold,”"
+  },
+  {
+   "seq": 12,
+   "para": "p9",
+   "type": "narration",
+   "text": "he’d said to Rowan, on the wall, at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p10",
+   "type": "speech",
+   "text": "“How many can you carry?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p11",
+   "type": "speech",
+   "text": "“All of them,”"
+  },
+  {
+   "seq": 15,
+   "para": "p11",
+   "type": "narration",
+   "text": "said Arn."
+  },
+  {
+   "seq": 16,
+   "para": "p11",
+   "type": "speech",
+   "text": "“By morning. If they’ll lie still.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p12",
+   "type": "narration",
+   "text": "Rowan had looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p13",
+   "type": "speech",
+   "text": "“Then carry them,”"
+  },
+  {
+   "seq": 19,
+   "para": "p13",
+   "type": "narration",
+   "text": "she’d said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 20,
+   "para": "p14",
+   "type": "narration",
+   "text": "He’d sent to Varrhold on the three-hundredth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p15",
+   "type": "narration",
+   "text": "Before the five came. A rider to Gorm:"
+  },
+  {
+   "seq": 22,
+   "para": "p15",
+   "type": "thought",
+   "text": "Sweep the pens. Straw them. Light the hall. If it comes, they’ll come to you."
+  },
+  {
+   "seq": 23,
+   "para": "p15",
+   "type": "narration",
+   "text": "Gorm had sent back a single line in his sour cramped hand."
+  },
+  {
+   "seq": 24,
+   "para": "p15",
+   "type": "thought",
+   "text": "Pens swept. Leir strawed them. He says it’s the first time anything’s been put in them that wanted to be there. G.A.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p16",
+   "type": "narration",
+   "text": "Four hours’ flying. At night. With a basket.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p17",
+   "type": "narration",
+   "text": "There and back. Four hours. All night.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 27,
+   "para": "p18",
+   "type": "narration",
+   "text": "The Clan had eighty pairs fit to fly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p19",
+   "type": "narration",
+   "text": "The rest were hurt, or their dragons were. Eighty. With the Gullhaven baskets, wicker and rope and leather, that had carried twenty people at a time off the marked roofs. They wouldn’t carry twenty lying down. Six. If the six lay close.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p20",
+   "type": "narration",
+   "text": "Eighty pairs. Six to a basket.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p21",
+   "type": "narration",
+   "text": "He did it in his head. He wasn’t good at it. Gorm was good at it. He did it anyway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p22",
+   "type": "narration",
+   "text": "Not enough.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 32,
+   "para": "p23",
+   "type": "narration",
+   "text": "Then the others came.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 33,
+   "para": "p24",
+   "type": "narration",
+   "text": "Yeva first. Down off the eastern downs in the dusk on her great rust-and-white roc, with the other two behind her. Three. What was left of four.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p25",
+   "type": "narration",
+   "text": "She landed by the rows and got down and walked to him, in her felt, with the scar across both lips, and looked at the wounded.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p26",
+   "type": "narration",
+   "text": "Then she pointed at her roc. And at a wagon, behind the wall. And made a shape with her hands. A wagon-bed. Slung. Under a roc.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p27",
+   "type": "speech",
+   "text": "“Twenty?”"
+  },
+  {
+   "seq": 37,
+   "para": "p27",
+   "type": "narration",
+   "text": "said Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p28",
+   "type": "narration",
+   "text": "Yeva held up both hands. Twice.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 39,
+   "para": "p29",
+   "type": "narration",
+   "text": "Then Nell Tallis. On foot, with her helmet under her arm, from the scrub end.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p30",
+   "type": "speech",
+   "text": "“We can take the bad ones,”"
+  },
+  {
+   "seq": 41,
+   "para": "p30",
+   "type": "narration",
+   "text": "said Nell Tallis."
+  },
+  {
+   "seq": 42,
+   "para": "p30",
+   "type": "speech",
+   "text": "“Fast. One at a time. Two if they’re small. In slings.”"
+  },
+  {
+   "seq": 43,
+   "para": "p30",
+   "type": "narration",
+   "text": "She looked at him with her hard Saltreach face."
+  },
+  {
+   "seq": 44,
+   "para": "p30",
+   "type": "speech",
+   "text": "“Paid, mind.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p31",
+   "type": "speech",
+   "text": "“By whose chest?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p32",
+   "type": "speech",
+   "text": "“Nobody’s,”"
+  },
+  {
+   "seq": 47,
+   "para": "p32",
+   "type": "narration",
+   "text": "said Nell Tallis."
+  },
+  {
+   "seq": 48,
+   "para": "p32",
+   "type": "speech",
+   "text": "“I’m joking. Saltreach’s stopped counting. Haven’t you heard?”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 49,
+   "para": "p33",
+   "type": "narration",
+   "text": "Then the freed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p34",
+   "type": "narration",
+   "text": "He didn’t send for them. Nobody did. They came down off the ridge where they’d sat all day round the three, thirty of them, young and old, with nobody on their backs. And stood by the baskets. Waiting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p35",
+   "type": "narration",
+   "text": "As the young grey had stood by a basket on the Saltings, in the summer, and taken its rope.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 52,
+   "para": "p36",
+   "type": "narration",
+   "text": "So they flew.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 53,
+   "para": "p37",
+   "type": "narration",
+   "text": "It was a mess.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p38",
+   "type": "narration",
+   "text": "He’d known it would be. He’d flown the Clan all his life. The Clan flew in pairs, in lines, in tens, at one speed, the speed of the slowest pair, along the same road, at the same height. That was how you flew. His father had flown it. His grandfather.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p39",
+   "type": "narration",
+   "text": "The sky that night wasn’t the Clan’s.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 56,
+   "para": "p40",
+   "type": "narration",
+   "text": "Rocs, slow. Enormous. Flying straight and low with a whole wagon-bed hanging under them on ropes and twenty people in it, as straight as an arrow and about as quick as a cart.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 57,
+   "para": "p41",
+   "type": "narration",
+   "text": "Dragons in pairs. Faster than the rocs. Slower than they wanted to be with a basket. Weaving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p42",
+   "type": "narration",
+   "text": "Wyverns. Fast. Darting. Dropping out of the dark from above with a man in a sling under them and going past a pair close enough to touch, and a dragon shying, and its basket swinging.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p43",
+   "type": "narration",
+   "text": "And the freed. Loose. All over the sky. As the freed flew. Not in pairs, not in lines. Carrying baskets in their jaws with nobody on their backs to tell them where to go, and going anyway, following Ildra’s tail or a roc’s or nobody’s.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 60,
+   "para": "p44",
+   "type": "narration",
+   "text": "Three near-misses in the first hour.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p45",
+   "type": "narration",
+   "text": "Over the Drover’s Way, in the dark, going north. A roc and a pair, coming up under it. A wyvern and a freed young brown, head-on. Two pairs and a roc’s wagon-bed, all at the same height, all at once, and a basket swinging into the wagon-bed’s ropes and holding by a strand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p46",
+   "type": "narration",
+   "text": "He heard Yeva shout. He’d never heard her make a sound.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 63,
+   "para": "p47",
+   "type": "narration",
+   "text": "He tried to make it one flight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p48",
+   "type": "narration",
+   "text": "For an hour. Shouting. Flying up and down the line on Ildra in the dark."
+  },
+  {
+   "seq": 65,
+   "para": "p48",
+   "type": "thought",
+   "text": "Keep to the pairs. Keep to the line. Same height."
+  },
+  {
+   "seq": 66,
+   "para": "p48",
+   "type": "narration",
+   "text": "As his father had shouted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p49",
+   "type": "narration",
+   "text": "It didn’t work. It couldn’t. The rocs couldn’t fly at a dragon’s speed. The wyverns wouldn’t. The freed didn’t know what a line was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p50",
+   "type": "narration",
+   "text": "Nobody’s sky.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p51",
+   "type": "remembered",
+   "text": "Nobody owns the sky"
+  },
+  {
+   "seq": 70,
+   "para": "p51",
+   "type": "narration",
+   "text": ", Rowan had said, at the chalk map."
+  },
+  {
+   "seq": 71,
+   "para": "p51",
+   "type": "remembered",
+   "text": "You share it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p52",
+   "type": "narration",
+   "text": "He’d said"
+  },
+  {
+   "seq": 73,
+   "para": "p52",
+   "type": "bond",
+   "text": "I know"
+  },
+  {
+   "seq": 74,
+   "para": "p52",
+   "type": "narration",
+   "text": ". He hadn’t.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 75,
+   "para": "p53",
+   "type": "narration",
+   "text": "He stopped shouting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p54",
+   "type": "narration",
+   "text": "He took Ildra up. High. Above all of it. And looked down at the dark, at the shapes going north and coming back, and the lanterns on the baskets swinging.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p55",
+   "type": "narration",
+   "text": "And thought.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 78,
+   "para": "p56",
+   "type": "narration",
+   "text": "Layers.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 79,
+   "para": "p57",
+   "type": "narration",
+   "text": "The rocs low. They were slow and straight; give them the low road. Straight down the line of the Drover’s Way, a hundred feet up, where there was nothing to hit but the road. Their own height. Nobody else’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p58",
+   "type": "narration",
+   "text": "The dragons in the middle. Pairs. Baskets. Two hundred feet. Three. Their own height.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p59",
+   "type": "narration",
+   "text": "The wyverns high. Fast, for the worst ones, the ones who wouldn’t live two hours in a basket. Above the dragons. Five hundred. Out of everyone’s way. Their own height.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p60",
+   "type": "narration",
+   "text": "And the freed wherever they liked, because they would anyway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p61",
+   "type": "narration",
+   "text": "Like a cake. In layers.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 84,
+   "para": "p62",
+   "type": "narration",
+   "text": "He went down and told them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p63",
+   "type": "narration",
+   "text": "Yeva on the ground at the wall, loading. He told her: low. The road. She looked at him a long time. Then she raised one fist.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p64",
+   "type": "narration",
+   "text": "Nell Tallis: high. She laughed."
+  },
+  {
+   "seq": 87,
+   "para": "p64",
+   "type": "speech",
+   "text": "“Where we’d have gone anyway.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p65",
+   "type": "narration",
+   "text": "His own pairs: the middle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p66",
+   "type": "narration",
+   "text": "The freed he didn’t tell. Ildra told them. He didn’t know how. She went up among them and made a sound he’d never heard her make, and some of them followed her into the middle, and the rest went where they liked.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 90,
+   "para": "p67",
+   "type": "narration",
+   "text": "After that it worked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p68",
+   "type": "narration",
+   "text": "Not well. It worked. A sky in layers. Going north all night with lanterns swinging, rocs low and slow, dragons in the middle, wyverns high and fast. Over the Drover’s Way. Over Harrow’s End. Over the Scarfell’s lip to Varrhold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p69",
+   "type": "narration",
+   "text": "Nobody’s sky.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p70",
+   "type": "narration",
+   "text": "He worked it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 94,
+   "para": "p71",
+   "type": "narration",
+   "text": "He found the boy at the fifth hour.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 95,
+   "para": "p72",
+   "type": "narration",
+   "text": "At the Wyldmarch’s river end. Behind the first of the knight’s three ridges, where the clans had stood all evening after the bank stopped sliding. Among the wounded. A boy. Sixteen. In Keeper’s green. Sitting on the frozen ground with a wolf’s head in his lap.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p73",
+   "type": "narration",
+   "text": "The wolf was grey. Big. Lying on its side. Its back legs out behind it at a wrong angle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p74",
+   "type": "speech",
+   "text": "“Broken,”"
+  },
+  {
+   "seq": 98,
+   "para": "p74",
+   "type": "narration",
+   "text": "said the surgeon who was standing over them. A Hearthmere woman with blood to her elbows."
+  },
+  {
+   "seq": 99,
+   "para": "p74",
+   "type": "speech",
+   "text": "“Its back. In the flood. It’ll not walk.”"
+  },
+  {
+   "seq": 100,
+   "para": "p74",
+   "type": "narration",
+   "text": "She looked at Arn."
+  },
+  {
+   "seq": 101,
+   "para": "p74",
+   "type": "speech",
+   "text": "“He won’t leave it. He won’t get in a basket without it. And I’ll not fly a wolf when I’ve nine hundred people.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 102,
+   "para": "p75",
+   "type": "speech",
+   "text": "“What’s your name?”"
+  },
+  {
+   "seq": 103,
+   "para": "p75",
+   "type": "narration",
+   "text": "said Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p76",
+   "type": "speech",
+   "text": "“Osk,”"
+  },
+  {
+   "seq": 105,
+   "para": "p76",
+   "type": "narration",
+   "text": "said the boy. He didn’t look up."
+  },
+  {
+   "seq": 106,
+   "para": "p76",
+   "type": "speech",
+   "text": "“Rhun’s my mother’s sister.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p77",
+   "type": "speech",
+   "text": "“You’re hurt.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p78",
+   "type": "narration",
+   "text": "The boy’s arm was in a sling. His face was cut. He didn’t seem to know.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p79",
+   "type": "speech",
+   "text": "“He’s mine,”"
+  },
+  {
+   "seq": 110,
+   "para": "p79",
+   "type": "narration",
+   "text": "said Osk. To the wolf."
+  },
+  {
+   "seq": 111,
+   "para": "p79",
+   "type": "speech",
+   "text": "“He’s not a beast. He’s mine.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 112,
+   "para": "p80",
+   "type": "narration",
+   "text": "Arn looked at the wolf.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p81",
+   "type": "narration",
+   "text": "Its eyes were open. Yellow. On the boy’s face. Its breath going in and out short.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p82",
+   "type": "narration",
+   "text": "He thought of a red head in the straw, in the pens at Varrhold, in the dark. A dying thing’s head. And a small red-gold one beside it, watching him hold it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 115,
+   "para": "p83",
+   "type": "speech",
+   "text": "“Ildra,”"
+  },
+  {
+   "seq": 116,
+   "para": "p83",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 117,
+   "para": "p84",
+   "type": "narration",
+   "text": "She came. Small. Red-gold. The smallest dragon on the ridge. With a two-man basket on her that he’d made her wear because she’d wanted to carry something, and she’d been carrying children all night, two at a time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p85",
+   "type": "narration",
+   "text": "She put her head down by the wolf.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p86",
+   "type": "narration",
+   "text": "The wolf looked at her. Growled. Very faintly. Then stopped.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 120,
+   "para": "p87",
+   "type": "narration",
+   "text": "They put it in the basket.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p88",
+   "type": "narration",
+   "text": "Arn and the boy and the surgeon, swearing. Lifting it on a blanket, slowly, with its back as straight as they could keep it, into Ildra’s basket. The boy in beside it, with its head in his lap again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p89",
+   "type": "speech",
+   "text": "“You’re mad,”"
+  },
+  {
+   "seq": 123,
+   "para": "p89",
+   "type": "narration",
+   "text": "said the surgeon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p90",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 125,
+   "para": "p90",
+   "type": "narration",
+   "text": "said Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p91",
+   "type": "narration",
+   "text": "He got up on Ildra’s neck.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 127,
+   "para": "p92",
+   "type": "narration",
+   "text": "She flew it herself.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p93",
+   "type": "narration",
+   "text": "Slowly. In the middle layer. With the basket heavy under her, a wolf and a boy, more than she’d carried all night. Two hours to Varrhold. He didn’t push her. She didn’t need pushing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p94",
+   "type": "narration",
+   "text": "He looked down at the basket every little while. The boy’s face, in the lantern. The wolf’s yellow eyes.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 130,
+   "para": "p95",
+   "type": "narration",
+   "text": "Gorm Askell was at the gate with a lantern.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p96",
+   "type": "narration",
+   "text": "He’d been there all night. Counting. Old Gorm, limping, with his book under his arm, at Varrhold’s gate, with Leir behind him, counting every basket in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p97",
+   "type": "narration",
+   "text": "He held up the lantern to Ildra’s basket.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p98",
+   "type": "speech",
+   "text": "“That’s a wolf,”"
+  },
+  {
+   "seq": 134,
+   "para": "p98",
+   "type": "narration",
+   "text": "said Gorm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p99",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p100",
+   "type": "speech",
+   "text": "“In my hall?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p101",
+   "type": "speech",
+   "text": "“In the pens,”"
+  },
+  {
+   "seq": 138,
+   "para": "p101",
+   "type": "narration",
+   "text": "said Arn."
+  },
+  {
+   "seq": 139,
+   "para": "p101",
+   "type": "speech",
+   "text": "“With Leir.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p102",
+   "type": "narration",
+   "text": "Gorm looked at the wolf, and the boy, and Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p103",
+   "type": "narration",
+   "text": "Then he wrote something in his book.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p104",
+   "type": "speech",
+   "text": "“Pens,”"
+  },
+  {
+   "seq": 143,
+   "para": "p104",
+   "type": "narration",
+   "text": "said Gorm."
+  },
+  {
+   "seq": 144,
+   "para": "p104",
+   "type": "speech",
+   "text": "“Leir. Take the wolf.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 145,
+   "para": "p105",
+   "type": "narration",
+   "text": "Every time he went back over the Vale, he saw the battery.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 146,
+   "para": "p106",
+   "type": "narration",
+   "text": "He couldn’t not. It was the brightest thing on the Vale at night. The Ferry Flat, on the Hearthmere bank by the eddy. The Bridle’s twelve engines in their ring with their fireboxes red. The green lamps on their poles all round it, and along the batteries on both banks.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p107",
+   "type": "narration",
+   "text": "Lit. All night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p108",
+   "type": "narration",
+   "text": "And the crews.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 149,
+   "para": "p109",
+   "type": "narration",
+   "text": "Awake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p110",
+   "type": "narration",
+   "text": "All of them. At every engine. At every bolt-thrower. At the chilled-chain drums. At the six jibs on the eddy’s edge. Standing. In the green light. Not at braziers. Not asleep in their coats under the engines as crews slept, as every army slept, in the cold hours. Standing at their places.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p111",
+   "type": "narration",
+   "text": "He came over at the second hour and saw them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p112",
+   "type": "narration",
+   "text": "The fourth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p113",
+   "type": "narration",
+   "text": "The sixth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 154,
+   "para": "p114",
+   "type": "narration",
+   "text": "At the sixth he came low.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p115",
+   "type": "narration",
+   "text": "He took Ildra down over the Flat on the way back, empty, low enough to see faces. The crews standing at their engines in the green light. And in their hands, open, brass.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p116",
+   "type": "narration",
+   "text": "Watches.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p117",
+   "type": "narration",
+   "text": "Every crew-master. Every battery-master. Standing at his place with his watch open in his palm, in the dead of the night, looking at it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 158,
+   "para": "p118",
+   "type": "narration",
+   "text": "Nobody kept watches like that at night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p119",
+   "type": "narration",
+   "text": "He’d fought. Not much; the Clan didn’t fight much. Enough. He’d sat up at night before a fight on the Scarfell’s edge with Ulric and the riders. Men slept, if they could. Men played dice. Men talked about women and stared at fires. Men didn’t stand at their places all night looking at watches.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p120",
+   "type": "narration",
+   "text": "Not for a fallback. Not for a thing that would never be fired.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 161,
+   "para": "p121",
+   "type": "narration",
+   "text": "He wanted to say it to someone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p122",
+   "type": "narration",
+   "text": "He went over it in his head, on Ildra’s neck, in the dark, going north again with an empty basket. Who.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p123",
+   "type": "narration",
+   "text": "Rowan was on the wall. Riding it. Saying the words to whoever was awake. She had a hundred things. She’d have said"
+  },
+  {
+   "seq": 164,
+   "para": "p123",
+   "type": "bond",
+   "text": "Kessmoor keeps time, Arn. It’s what they do.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p124",
+   "type": "narration",
+   "text": "Calder was asleep. On the ridge. He’d gone to sleep at last, some time in the night.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 166,
+   "para": "p125",
+   "type": "narration",
+   "text": "He’d have said it to Gunna.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p126",
+   "type": "narration",
+   "text": "He’d have flown down to wherever she was, on the ledges, at the caves, by a fire, and sat down by her and said",
+   "mood": "humour"
+  },
+  {
+   "seq": 168,
+   "para": "p126",
+   "type": "bond",
+   "text": "the Kessmoor crews are standing up all night with watches in their hands",
+   "mood": "humour"
+  },
+  {
+   "seq": 169,
+   "para": "p126",
+   "type": "narration",
+   "text": ", and Gunna would have looked at him with her burned face and laughed, once, and then stopped laughing, and said",
+   "mood": "humour"
+  },
+  {
+   "seq": 170,
+   "para": "p126",
+   "type": "bond",
+   "text": "Why?",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p127",
+   "type": "narration",
+   "text": "And they’d have sat there and thought about it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p128",
+   "type": "narration",
+   "text": "Gunna was in the Thornwood’s ground. He’d poured her there himself. A farmer’s hand beside his on the jar.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 173,
+   "para": "p129",
+   "type": "narration",
+   "text": "He’d have said it to Ulric.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p130",
+   "type": "narration",
+   "text": "Ulric would have said it was nothing, and then gone and looked himself, and come back, and said it was something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p131",
+   "type": "narration",
+   "text": "Ulric was in Coldtarn. Under the black water.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 176,
+   "para": "p132",
+   "type": "narration",
+   "text": "He said it to Ildra.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p133",
+   "type": "thought",
+   "text": "They’re standing up all night. With watches. Waiting for something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p134",
+   "type": "narration",
+   "text": "She didn’t understand watches. She didn’t understand waiting for an hour. She knew dark and light and hungry and him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p135",
+   "type": "bond",
+   "text": "They’re frightened"
+  },
+  {
+   "seq": 180,
+   "para": "p135",
+   "type": "narration",
+   "text": ", she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p136",
+   "type": "narration",
+   "text": "He thought about it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p137",
+   "type": "bond",
+   "text": "Yes"
+  },
+  {
+   "seq": 183,
+   "para": "p137",
+   "type": "narration",
+   "text": ", he said."
+  },
+  {
+   "seq": 184,
+   "para": "p137",
+   "type": "thought",
+   "text": "Maybe that’s all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p138",
+   "type": "narration",
+   "text": "He didn’t believe it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 186,
+   "para": "p139",
+   "type": "narration",
+   "text": "By dawn they’d flown eight hundred and sixty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p140",
+   "type": "narration",
+   "text": "Gorm had them in his book. Eight hundred and sixty, in the hall at Varrhold and the byres and the empty pens, and in the hatching caves above Coldtarn, where the farmer’s mother and sister had sat up all night with hot water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p141",
+   "type": "narration",
+   "text": "Two baskets lost.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p142",
+   "type": "narration",
+   "text": "A wyvern’s sling, parting, over Teo’s ford. A man in it. They didn’t find him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p143",
+   "type": "narration",
+   "text": "A pair’s basket iced at the Scarfell’s lip in the cold and the rope slipping, and the basket falling into the scree below the lip with six in it. The riders had gone down after it. In the dark, on foot. They’d brought up four alive.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p144",
+   "type": "narration",
+   "text": "Eight hundred and sixty out of nine hundred.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p145",
+   "type": "narration",
+   "text": "He didn’t know if that was good. Gorm said it was.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 193,
+   "para": "p146",
+   "type": "narration",
+   "text": "He came down on the ridge above the hub at dawn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p147",
+   "type": "narration",
+   "text": "Tired. Ildra more tired. She put her head down on the frozen turf and shut her eyes before he was off her neck.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 195,
+   "para": "p148",
+   "type": "narration",
+   "text": "The three were on the ridge. As they always were. Kharrak at the end, his great red face blistered white where the Sun had hit it, lying with his eyes shut and his chin on the turf. Lisska on the crag of herself.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p149",
+   "type": "narration",
+   "text": "Aurveth in the middle. Bronze. Lying with her forelegs out in front of her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p150",
+   "type": "narration",
+   "text": "And between them, the farmer.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 198,
+   "para": "p151",
+   "type": "narration",
+   "text": "Asleep.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p152",
+   "type": "narration",
+   "text": "On his side. Curled. On the frozen ground between Aurveth’s forelegs, in his coat, with his knees drawn up and his bandaged hands under his chin. His face slack. His mouth a little open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p153",
+   "type": "narration",
+   "text": "Like a boy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p154",
+   "type": "narration",
+   "text": "Like a boy asleep by a hearth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 202,
+   "para": "p155",
+   "type": "narration",
+   "text": "Aurveth’s head was curled round him. Her great bronze head, the size of a barn, lying on the turf in a curve round the small sleeping man, so that he lay in the crook of her neck as in the crook of an arm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p156",
+   "type": "narration",
+   "text": "She opened one eye at Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p157",
+   "type": "narration",
+   "text": "Gold. Old. Looking at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p158",
+   "type": "narration",
+   "text": "Then she shut it again.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 206,
+   "para": "p159",
+   "type": "narration",
+   "text": "He stood there a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p160",
+   "type": "narration",
+   "text": "Then he went and lay down against Ildra, who was already asleep, and shut his own eyes, and saw the green light on the Flat behind them, and the brass in the crews’ hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p161",
+   "type": "narration",
+   "text": "He didn’t sleep.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p162",
+   "type": "narration",
+   "text": "Somebody had to be awake. Somebody who’d seen it.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "8ecce97a061a4880c2387dcbb38e0e1f185b47ce",
+ "segments_sha1": "4ec5d41c12c5ba0cb500395cf038cbf565a7d306"
+}

@@ -2,6 +2,23 @@
  "chapter": 5,
  "title": "Roads and Roadblocks",
  "pov": "Maren",
+ "source": "Chapters/Chapter 05 - Roads and Roadblocks.md",
+ "names": [
+  "darrow",
+  "greyhold",
+  "haverly",
+  "maren",
+  "millbrook",
+  "northwatch",
+  "ottery",
+  "pell",
+  "redwatch",
+  "rush",
+  "saltreach",
+  "stillhaven",
+  "tobin",
+  "wendmouth"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1446,5 +1463,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "a575514717d6760cc5071cd59529e8f7b1af16bd",
+ "segments_sha1": "ef48a9244edea5adabb7cd392c516127e00448b7"
 }

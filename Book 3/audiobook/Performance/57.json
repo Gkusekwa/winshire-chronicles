@@ -1,0 +1,1388 @@
+{
+ "chapter": 57,
+ "title": "A Visitor",
+ "pov": "",
+ "source": "Chapters/Chapter 57 - A Visitor.md",
+ "names": [
+  "bench",
+  "college",
+  "corvin",
+  "davin",
+  "greyhold",
+  "hearthmere",
+  "idony",
+  "kessmoor",
+  "liss",
+  "pike",
+  "rowan",
+  "saltreach",
+  "scald",
+  "tova",
+  "vael",
+  "vale"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Fifty-seven.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "A Visitor.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "They kept the long night with fires.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "The Hearthmere way. He’d forgotten it; he’d been Isvaren all his life, where you kept midwinter with lamps in the colleges and a reading of the year’s tides. In Hearthmere you lit a fire on every hill at dusk and kept it in till dawn, so that the sun would know where to come back to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "There weren’t any hills on the Vale. There were the knight’s walls.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "So the camp lit fires along the tops of both of them. End to end. From the downs to the river on the Hearthmere bank, and from the river to the scrub on the Saltreach bank. Two lines of fire across the Vale in the dark, a league each, with the eddy black between them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "The clans joined in. Sarovel joined in. Even Kessmoor’s battery crews lit a brazier on the Ferry Flat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "He watched it from the ferry house window.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "He had his own room again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "Liss had given it him in the new house, when she brought her scow and her rope up the river in the autumn. The small back room off the kitchen, with the window onto the eddy. The shelf and the cot had come up on the scow from the cracked house under Greyhold. He’d sat on that cot with a burned-out head and watched his hands shake and dictated his readings to Liss because he couldn’t hold a pen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "His glasses were on the shelf again. Eight of them. In a row.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "Davin was asleep in the loft above the kitchen. Liss was at the clans’ fire on the Saltreach wall, because Tova had asked her, and Liss liked Tova.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "narration",
+   "text": "He was alone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 14,
+   "para": "p12",
+   "type": "narration",
+   "text": "He heard the kitchen door at the third hour.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 15,
+   "para": "p13",
+   "type": "narration",
+   "text": "He thought it was Liss. Back from the fire. He heard the latch, and the door, and the cold come in under it. Then the door shut, quietly. And steps across the kitchen flags.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p14",
+   "type": "narration",
+   "text": "Not Liss’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p15",
+   "type": "narration",
+   "text": "Liss walked like a woman who’d hauled a ferry rope for thirty years. These were light. Careful. A tall man’s, walking as tall men walk when they don’t want to be heard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p16",
+   "type": "narration",
+   "text": "He knew them before the man came to the door.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 19,
+   "para": "p17",
+   "type": "speech",
+   "text": "“Master Vael,”"
+  },
+  {
+   "seq": 20,
+   "para": "p17",
+   "type": "narration",
+   "text": "said Corvin.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 21,
+   "para": "p18",
+   "type": "narration",
+   "text": "He stood in the doorway. Hood down. A plain grey coat, a Kessmoor drover’s, with the collar up. The long pale face. The short dark hair. The grey eyes, that had looked at him across a ship’s table every morning for thirty days and asked for the next line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p19",
+   "type": "narration",
+   "text": "Thinner. Older. Neither young nor old, still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p20",
+   "type": "narration",
+   "text": "Under his left arm, the long case. The roll.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p21",
+   "type": "narration",
+   "text": "And his right hand on the door-frame.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 25,
+   "para": "p22",
+   "type": "narration",
+   "text": "Iron.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p23",
+   "type": "narration",
+   "text": "Black. A hand. Jointed at every knuckle with fine pins, so that it lay on the frame as a hand lies, fingers a little bent. He could see the tendons: brass, thin as wire, running back from each finger over the iron palm to a cuff. The cuff strapped to the forearm, above the wrist.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p24",
+   "type": "narration",
+   "text": "Above where the wrist had turned to stone. At the relic. Under Greyhold. He’d seen it happen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p25",
+   "type": "narration",
+   "text": "Corvin moved the fingers. All five. One after another. The pins clicked, very softly.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 29,
+   "para": "p26",
+   "type": "speech",
+   "text": "“May I sit?”"
+  },
+  {
+   "seq": 30,
+   "para": "p26",
+   "type": "narration",
+   "text": "said Corvin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p27",
+   "type": "narration",
+   "text": "He sat. He didn’t wait to be told. He’d never waited, on the ship either. He sat on the end of the cot, with the case across his knees, and put the iron hand on the table under the lamp.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p28",
+   "type": "narration",
+   "text": "Idony looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p29",
+   "type": "narration",
+   "text": "On the back of the hand, low, near the cuff, a mark. Small. A stamp, struck into the iron and filed half away. He could still see the shape of it in the lamplight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p30",
+   "type": "narration",
+   "text": "A ring. And a line across it, like a rule.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 35,
+   "para": "p31",
+   "type": "speech",
+   "text": "“You turned the third curve,”"
+  },
+  {
+   "seq": 36,
+   "para": "p31",
+   "type": "narration",
+   "text": "said Corvin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p32",
+   "type": "narration",
+   "text": "He said it without heat. As he said everything. As a man reads out a figure.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p33",
+   "type": "speech",
+   "text": "“In the word for tighten. On the ship. You turned it. I know you did. The hound told me.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p34",
+   "type": "narration",
+   "text": "Idony didn’t say anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p35",
+   "type": "speech",
+   "text": "“I’ve worked at it a year,”"
+  },
+  {
+   "seq": 41,
+   "para": "p35",
+   "type": "narration",
+   "text": "said Corvin."
+  },
+  {
+   "seq": 42,
+   "para": "p35",
+   "type": "speech",
+   "text": "“Without you. With the roll and a great deal of time.”"
+  },
+  {
+   "seq": 43,
+   "para": "p35",
+   "type": "narration",
+   "text": "He looked at the shelf. At the glasses."
+  },
+  {
+   "seq": 44,
+   "para": "p35",
+   "type": "speech",
+   "text": "“I think I have it.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 45,
+   "para": "p36",
+   "type": "narration",
+   "text": "There was water on the table. A cup had gone over earlier, when Idony’s hands had shaken; he’d left it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p37",
+   "type": "narration",
+   "text": "Corvin put an iron finger in the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p38",
+   "type": "narration",
+   "text": "And drew.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 48,
+   "para": "p39",
+   "type": "narration",
+   "text": "On the table. In the spilled water, in the lamplight. Slowly. The strokes. The hold rune, the closing word turned in. The chain-word for tighten, that spoke to the hold on the inside of every link and made it close.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p40",
+   "type": "narration",
+   "text": "He drew it well. He’d always had a good hand. Better than Idony’s, even before.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p41",
+   "type": "narration",
+   "text": "Idony watched the iron finger go round the curves.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 51,
+   "para": "p42",
+   "type": "narration",
+   "text": "The first curve. Right.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p43",
+   "type": "narration",
+   "text": "The second. Right.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p44",
+   "type": "narration",
+   "text": "The third.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p45",
+   "type": "narration",
+   "text": "Right as Idony had taught it. Which was to say: wrong. Turned as Idony had turned it on the ship in the third curve, the one stroke that made tighten into let go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p46",
+   "type": "narration",
+   "text": "And then the fourth. Which Corvin turned. The other way from the roll. Neatly. With great care.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p47",
+   "type": "narration",
+   "text": "He’d found the wrong stroke. And put it in the wrong curve.",
+   "mood": "dread",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 57,
+   "para": "p48",
+   "type": "speech",
+   "text": "“Tell me if it’s right,”"
+  },
+  {
+   "seq": 58,
+   "para": "p48",
+   "type": "narration",
+   "text": "said Corvin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p49",
+   "type": "narration",
+   "text": "Idony looked at the word drying on the table.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 60,
+   "para": "p50",
+   "type": "narration",
+   "text": "Corvin waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p51",
+   "type": "narration",
+   "text": "Then he looked at Idony’s face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p52",
+   "type": "speech",
+   "text": "“You won’t,”"
+  },
+  {
+   "seq": 63,
+   "para": "p52",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p53",
+   "type": "speech",
+   "text": "“No.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 65,
+   "para": "p54",
+   "type": "speech",
+   "text": "“I’ll tell you why I want it,”"
+  },
+  {
+   "seq": 66,
+   "para": "p54",
+   "type": "narration",
+   "text": "said Corvin."
+  },
+  {
+   "seq": 67,
+   "para": "p54",
+   "type": "speech",
+   "text": "“Though you know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p55",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p56",
+   "type": "speech",
+   "text": "“The chains made it what it is,”"
+  },
+  {
+   "seq": 70,
+   "para": "p56",
+   "type": "narration",
+   "text": "said Corvin."
+  },
+  {
+   "seq": 71,
+   "para": "p56",
+   "type": "speech",
+   "text": "“Your College designed them. Six chains, hold inside every link, and three hundred years feeding on what it held. It went under the river a sleeper and came out a destroyer.”"
+  },
+  {
+   "seq": 72,
+   "para": "p56",
+   "type": "narration",
+   "text": "He didn’t raise his voice. He never did."
+  },
+  {
+   "seq": 73,
+   "para": "p56",
+   "type": "speech",
+   "text": "“So. Chain it, or command it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p57",
+   "type": "speech",
+   "text": "“You said that on the ship.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p58",
+   "type": "speech",
+   "text": "“It’s still true. Chains fail. We’ve seen them fail. Twice.”"
+  },
+  {
+   "seq": 76,
+   "para": "p58",
+   "type": "narration",
+   "text": "He put the iron hand flat on the table."
+  },
+  {
+   "seq": 77,
+   "para": "p58",
+   "type": "speech",
+   "text": "“So.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 78,
+   "para": "p59",
+   "type": "speech",
+   "text": "“So you’d command it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p60",
+   "type": "speech",
+   "text": "“I’d put a hand on its neck,”"
+  },
+  {
+   "seq": 80,
+   "para": "p60",
+   "type": "narration",
+   "text": "said Corvin."
+  },
+  {
+   "seq": 81,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Instead of a chain round it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p61",
+   "type": "narration",
+   "text": "He looked at the iron hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p62",
+   "type": "speech",
+   "text": "“It wants everything down,”"
+  },
+  {
+   "seq": 84,
+   "para": "p62",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 85,
+   "para": "p62",
+   "type": "speech",
+   "text": "“You’ve seen it. The Ring. Vael. Hallowmere. The Thornwood. It wants every one of us gone and every temple open and every kingdom under the sea. That’s what it wants. I’m offering it a hand on its neck instead.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 86,
+   "para": "p63",
+   "type": "narration",
+   "text": "And Idony found that he could answer him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 87,
+   "para": "p64",
+   "type": "narration",
+   "text": "He hadn’t been able to, on the ship. He’d lain awake in his cabin for a night after Corvin’s argument on the deck, knowing he couldn’t answer it. Chain it or command it. Chains fail. So. He’d had no answer, and he’d known he had none, and he’d lain awake knowing it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p65",
+   "type": "narration",
+   "text": "He had one now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p66",
+   "type": "narration",
+   "text": "He’d been to the far shore. He’d read the light.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 90,
+   "para": "p67",
+   "type": "speech",
+   "text": "“You never asked it,”"
+  },
+  {
+   "seq": 91,
+   "para": "p67",
+   "type": "narration",
+   "text": "said Idony,"
+  },
+  {
+   "seq": 92,
+   "para": "p67",
+   "type": "speech",
+   "text": "“what it wanted.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 93,
+   "para": "p68",
+   "type": "narration",
+   "text": "Corvin looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p69",
+   "type": "speech",
+   "text": "“On the ship,”"
+  },
+  {
+   "seq": 95,
+   "para": "p69",
+   "type": "narration",
+   "text": "said Idony,"
+  },
+  {
+   "seq": 96,
+   "para": "p69",
+   "type": "speech",
+   "text": "“you told me you wanted to ask it something. Whether it remembered being asked.”"
+  },
+  {
+   "seq": 97,
+   "para": "p69",
+   "type": "narration",
+   "text": "He held his shaking hands together in his lap."
+  },
+  {
+   "seq": 98,
+   "para": "p69",
+   "type": "speech",
+   "text": "“Did you? Ever?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p70",
+   "type": "narration",
+   "text": "Corvin was quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p71",
+   "type": "speech",
+   "text": "“You took the roll and the chain-words and the iron hand, and you never once asked it,”"
+  },
+  {
+   "seq": 101,
+   "para": "p71",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 102,
+   "para": "p71",
+   "type": "speech",
+   "text": "“Nobody has. Not the College. Not the crown. Not you. Three hundred years of people deciding what to do with it. Chain it. Wake it. Bind it. Command it.”"
+  },
+  {
+   "seq": 103,
+   "para": "p71",
+   "type": "narration",
+   "text": "He looked at the iron hand."
+  },
+  {
+   "seq": 104,
+   "para": "p71",
+   "type": "speech",
+   "text": "“Nobody asked.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 105,
+   "para": "p72",
+   "type": "speech",
+   "text": "“It wants everything down,”",
+   "how": "quietly"
+  },
+  {
+   "seq": 106,
+   "para": "p72",
+   "type": "narration",
+   "text": "said Corvin again. Quietly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p73",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 108,
+   "para": "p73",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 109,
+   "para": "p73",
+   "type": "speech",
+   "text": "“Now. Because of what we did. You said so. The chains made it. And you’d put another hand on its neck.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p74",
+   "type": "speech",
+   "text": "“A better hand.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p75",
+   "type": "speech",
+   "text": "“There aren’t any better hands,”"
+  },
+  {
+   "seq": 112,
+   "para": "p75",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 113,
+   "para": "p75",
+   "type": "speech",
+   "text": "“There are only hands. It’s had people’s hands on it for three hundred years.”",
+   "how": "very quietly"
+  },
+  {
+   "seq": 114,
+   "para": "p75",
+   "type": "narration",
+   "text": "He breathed."
+  },
+  {
+   "seq": 115,
+   "para": "p75",
+   "type": "speech",
+   "text": "“The old ones took their hands off. That was the whole of it. That’s what they did, and what they were. They walked unbound.”",
+   "how": "very quietly",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 116,
+   "para": "p76",
+   "type": "narration",
+   "text": "Corvin sat on the end of the cot with the case across his knees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p77",
+   "type": "narration",
+   "text": "He didn’t argue. He looked at the word on the table, drying, the wrong stroke in the wrong curve, already half gone into the wood.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 118,
+   "para": "p78",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 119,
+   "para": "p78",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 120,
+   "para": "p78",
+   "type": "speech",
+   "text": "“I won’t tell you.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 121,
+   "para": "p79",
+   "type": "narration",
+   "text": "Corvin stood.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p80",
+   "type": "narration",
+   "text": "Slowly. The case under his left arm. The iron hand at his side, the fingers moving, one after another, click, click, as if counting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Then you’ll have to be there,”"
+  },
+  {
+   "seq": 124,
+   "para": "p81",
+   "type": "narration",
+   "text": "said Corvin,"
+  },
+  {
+   "seq": 125,
+   "para": "p81",
+   "type": "speech",
+   "text": "“to say it. All of it. Yourself.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p82",
+   "type": "narration",
+   "text": "He’d said that on the ship. With blood on his sleeve from the hound.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p83",
+   "type": "speech",
+   "text": "“I’ll be there,”"
+  },
+  {
+   "seq": 128,
+   "para": "p83",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 129,
+   "para": "p83",
+   "type": "speech",
+   "text": "“I won’t say it.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 130,
+   "para": "p84",
+   "type": "speech",
+   "text": "“Where have you been?”"
+  },
+  {
+   "seq": 131,
+   "para": "p84",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 132,
+   "para": "p84",
+   "type": "speech",
+   "text": "“This year.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p85",
+   "type": "narration",
+   "text": "Corvin looked at him from the doorway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p86",
+   "type": "speech",
+   "text": "“Measuring,”"
+  },
+  {
+   "seq": 135,
+   "para": "p86",
+   "type": "narration",
+   "text": "said Corvin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p87",
+   "type": "narration",
+   "text": "And went out through the kitchen, and the door opened, and the cold came in under it, and shut.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 137,
+   "para": "p88",
+   "type": "narration",
+   "text": "He sat for a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p89",
+   "type": "narration",
+   "text": "Then he got up, with his hands on the table because his legs shook, and went to the bottom of the loft ladder and called up it for Davin until Davin came down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 139,
+   "para": "p90",
+   "type": "narration",
+   "text": "Rowan came at the fourth hour.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p91",
+   "type": "narration",
+   "text": "With twenty knights and Wynn’s hounds and her sword out. Davin had run all the way to the hay-barn in his shirt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p92",
+   "type": "narration",
+   "text": "She stood in the kitchen with frost in her hair and listened to it. All of it. The kitchen door. The iron hand. The roll. Measuring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p93",
+   "type": "narration",
+   "text": "Then she went out and turned the camp over.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 143,
+   "para": "p94",
+   "type": "narration",
+   "text": "All night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p95",
+   "type": "narration",
+   "text": "The ferry. The landing. The new rope, a knight at each post. The pontoon of chained barges below the eddy. The walls, end to end, every fire. The batteries on the Ferry Flat. The tents. The horse-lines. Wynn’s hounds with their noses down along the bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p96",
+   "type": "narration",
+   "text": "A tall thin man in a grey drover’s coat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p97",
+   "type": "narration",
+   "text": "In a camp of a hundred thousand people, on the longest night of the year, with two leagues of fires on the walls and half the camp awake round them. Every third man in a drover’s coat. Half of Kessmoor’s crews in grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p98",
+   "type": "narration",
+   "text": "They found nothing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 148,
+   "para": "p99",
+   "type": "narration",
+   "text": "He told the rest at the council.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p100",
+   "type": "narration",
+   "text": "On the two-hundred-and-seventy-seventh. In Liss’s hay-barn. With the morning cold coming in round the door and the eddy below, turning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p101",
+   "type": "narration",
+   "text": "He’d thought about whether to. Half the night, after the hounds had gone past the window for the fifth time. He’d thought about it, and it was a small thing, and it might be nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p102",
+   "type": "narration",
+   "text": "He told it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 152,
+   "para": "p103",
+   "type": "speech",
+   "text": "“The hand,”"
+  },
+  {
+   "seq": 153,
+   "para": "p103",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 154,
+   "para": "p103",
+   "type": "speech",
+   "text": "“His hand. It’s iron. It’s a made hand.”"
+  },
+  {
+   "seq": 155,
+   "para": "p103",
+   "type": "narration",
+   "text": "He looked down the door at Pike."
+  },
+  {
+   "seq": 156,
+   "para": "p103",
+   "type": "speech",
+   "text": "“It’s Kessmoor work, Master Engineer.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p104",
+   "type": "narration",
+   "text": "The barn went quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p105",
+   "type": "speech",
+   "text": "“I’d know your pinning anywhere,”"
+  },
+  {
+   "seq": 159,
+   "para": "p105",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 160,
+   "para": "p105",
+   "type": "speech",
+   "text": "“I’ve mended Kessmoor glasses half my life. The knuckles. The brass. How the cuff takes the strap.”"
+  },
+  {
+   "seq": 161,
+   "para": "p105",
+   "type": "narration",
+   "text": "He held his own shaking hand up."
+  },
+  {
+   "seq": 162,
+   "para": "p105",
+   "type": "speech",
+   "text": "“And a stamp on the back. Half filed off. A ring and a rule.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 163,
+   "para": "p106",
+   "type": "narration",
+   "text": "Pike didn’t hesitate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p107",
+   "type": "narration",
+   "text": "That was the thing he’d remember, after. She didn’t need a breath. She took her spectacles off and looked at him with her mild smoked eyes, and said it at once, and kindly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p108",
+   "type": "speech",
+   "text": "“Of course it is, Master Vael.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 166,
+   "para": "p109",
+   "type": "speech",
+   "text": "“We make the best hands in Winshire,”"
+  },
+  {
+   "seq": 167,
+   "para": "p109",
+   "type": "narration",
+   "text": "said Pike."
+  },
+  {
+   "seq": 168,
+   "para": "p109",
+   "type": "speech",
+   "text": "“We have for forty years. Since the Scald. There were a great many men in Kessmoor with one hand after the Scald.”"
+  },
+  {
+   "seq": 169,
+   "para": "p109",
+   "type": "narration",
+   "text": "She folded her spectacles."
+  },
+  {
+   "seq": 170,
+   "para": "p109",
+   "type": "speech",
+   "text": "“And we sell them. On Gallows Quay, through the Bench’s factors. To anyone with the silver. Sailors. Smiths. Half the captains on the Bench have one of ours under their glove, Master Rennick will tell you.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p110",
+   "type": "narration",
+   "text": "Rennick held up his left hand, gloved, and wiggled the fingers, and grinned.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p111",
+   "type": "speech",
+   "text": "“A one-handed outlaw with Hallorans’ silver would buy the best,”"
+  },
+  {
+   "seq": 173,
+   "para": "p111",
+   "type": "narration",
+   "text": "said Pike."
+  },
+  {
+   "seq": 174,
+   "para": "p111",
+   "type": "speech",
+   "text": "“And file the stamp, because he wouldn’t want it traced. And we are the best.”"
+  },
+  {
+   "seq": 175,
+   "para": "p111",
+   "type": "narration",
+   "text": "She looked at Idony with something like sympathy."
+  },
+  {
+   "seq": 176,
+   "para": "p111",
+   "type": "speech",
+   "text": "“I’m sorry he frightened you. I’d be frightened too, of that man, in the night.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 177,
+   "para": "p112",
+   "type": "narration",
+   "text": "He looked at Rowan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p113",
+   "type": "narration",
+   "text": "Rowan was looking at Pike. A long time. With her hands flat on the door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p114",
+   "type": "narration",
+   "text": "Then she nodded.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p115",
+   "type": "speech",
+   "text": "“Double watch on the ferry house,”"
+  },
+  {
+   "seq": 181,
+   "para": "p115",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 182,
+   "para": "p115",
+   "type": "speech",
+   "text": "“Day and night. Two knights and a hound, at the kitchen door.”"
+  },
+  {
+   "seq": 183,
+   "para": "p115",
+   "type": "narration",
+   "text": "She looked at Idony."
+  },
+  {
+   "seq": 184,
+   "para": "p115",
+   "type": "speech",
+   "text": "“He’ll not come in that way again, master.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 185,
+   "para": "p116",
+   "type": "narration",
+   "text": "He didn’t argue.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p117",
+   "type": "narration",
+   "text": "He sat in his chair at the door’s end and didn’t argue. He was an old man who’d been frightened in the night by a man he’d been frightened of for two years. Pike’s answer was a good answer. It was true. Kessmoor did sell hands. Rennick wore one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p118",
+   "type": "narration",
+   "text": "He’d said what he’d seen. He’d said it to the Marshal, in front of the table, with Davin writing it down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p119",
+   "type": "narration",
+   "text": "That was what he was for. To read. To say what was there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p120",
+   "type": "narration",
+   "text": "He didn’t know what else to do.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 190,
+   "para": "p121",
+   "type": "narration",
+   "text": "He went back to the ferry house at noon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p122",
+   "type": "narration",
+   "text": "Two knights at the kitchen door already, and a hound. A young woman knight with a falcon on a block beside her. She nodded at him. He nodded back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p123",
+   "type": "narration",
+   "text": "He went to his window.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 193,
+   "para": "p124",
+   "type": "narration",
+   "text": "Below him, on the Ferry Flat, the batteries were rehearsing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p125",
+   "type": "narration",
+   "text": "He’d seen them do it before. He’d not watched. Kessmoor’s crews, both banks, two hundred of them, in grey, round the six black iron posts on the eddy’s edge. On the posts, the jibs. On the jibs, chain. Not the Bridle’s chain; that was at Ironhythe. Practice lengths. Each as long as a barn, hanging from its jib.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p126",
+   "type": "narration",
+   "text": "The crew-masters had watches in their hands. Brass. Open. Set, Davin said, by the Hall of Measures’ clock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p127",
+   "type": "narration",
+   "text": "He watched them look at the watches.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 197,
+   "para": "p128",
+   "type": "narration",
+   "text": "On the stroke of noon, all six chains swung out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p129",
+   "type": "narration",
+   "text": "At once. As one. The jibs going round on their posts, and the chain-lengths swinging out over the grey water of the eddy, six of them, in a ring. Hanging. Turning a little in the wind, over the middle of the eddy, over the old place.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p130",
+   "type": "narration",
+   "text": "The crews held them there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p131",
+   "type": "narration",
+   "text": "Then, on a word he couldn’t hear, they swung them back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 201,
+   "para": "p132",
+   "type": "narration",
+   "text": "Like the hands of a clock, he thought.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p133",
+   "type": "narration",
+   "text": "All going round together. On the hour.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p134",
+   "type": "narration",
+   "text": "He watched until the chains were back against their posts and the crews had put their watches away. Then he sat down on his cot and looked at the table, where a word had been drawn in spilled water the night before, and there was nothing on the wood now but a pale ring where the cup had been.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "993850a50c45b0286f477dc6a34aef0eb080e4ba",
+ "segments_sha1": "821d9f7aa148b6ed9cf3543bcd6bb1435c4abd13"
+}

@@ -1,0 +1,1632 @@
+{
+ "chapter": 16,
+ "title": "Far-Stone",
+ "pov": "",
+ "source": "Chapters/Chapter 16 - Far-Stone.md",
+ "names": [
+  "abram",
+  "gallows",
+  "greyhold",
+  "idony",
+  "liss",
+  "maren",
+  "merrin",
+  "merrins",
+  "oneroad",
+  "ostrey",
+  "quay",
+  "saltreach",
+  "shatters",
+  "vael"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Sixteen.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Far-Stone.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The hold hummed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "Not to the ear. He’d thought it would be to the ear, from what Kit said. It came to the teeth. He came down the ladder into the dark under the Merrin house on the eightieth day, slowly, one rung at a time, with Maren below him holding the ladder’s foot, and the moment his boots touched the planks of the floor he felt it in his back teeth, as you feel a cart going over a bridge you’re standing on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "He stopped at the ladder’s foot and stood there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "speech",
+   "text": "“Idony?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "speech",
+   "text": "“A moment,”"
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 9,
+   "para": "p5",
+   "type": "speech",
+   "text": "“A moment. Let me stand in it.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "narration",
+   "text": "He’d been in the Kittiwake‘s hold. On her ballast. That had hummed too, faintly, so faintly he’d thought it might be the sea.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "narration",
+   "text": "This was the sea’s floor, cut into blocks and stacked on timbers.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p8",
+   "type": "narration",
+   "text": "He stood with his shaking hands at his sides and let his eyes find the dark. A long low room between the stilts of the house, roofed with the house’s own floor, floored with planks over black water that he could see between the cracks, moving. A slip at the far end where the boat came in. A bench with chisels on it. Grit underfoot. A lantern on a hook.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p9",
+   "type": "narration",
+   "text": "And stone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 14,
+   "para": "p10",
+   "type": "narration",
+   "text": "Forty blocks. More.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p11",
+   "type": "narration",
+   "text": "Grey. Square-cut. Stacked on timber bearers against the stilts, two and three high. Some no bigger than a loaf. Some the length of a cart, that must have taken the whole crew and a tackle to bring in off the boat. Each one cut. Each one faced, on one side, smooth, as only one kind of mason had ever faced stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p12",
+   "type": "narration",
+   "text": "He knew that face. He’d seen it on the Oneroad’s milestones, as a boy, at Vael. On the arch at the Ruin. On the door under Greyhold, last winter, with the stone screaming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p13",
+   "type": "speech",
+   "text": "“Old realm,”"
+  },
+  {
+   "seq": 18,
+   "para": "p13",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p14",
+   "type": "speech",
+   "text": "“Rocks,”"
+  },
+  {
+   "seq": 20,
+   "para": "p14",
+   "type": "narration",
+   "text": "said Kit Merrin, from the top of the ladder."
+  },
+  {
+   "seq": 21,
+   "para": "p14",
+   "type": "speech",
+   "text": "“That’s what Ostrey’s told.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 22,
+   "para": "p15",
+   "type": "narration",
+   "text": "Maren brought the lantern to the first block.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p16",
+   "type": "narration",
+   "text": "He went to it. He put his hand on its face, flat. His hand shook on the stone, and then it shook a little less, and he noticed that and put it away to think about later.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p17",
+   "type": "narration",
+   "text": "Under his palm, the hum. Steady. Patient. Like a cat’s purr through a floor.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p18",
+   "type": "narration",
+   "text": "And the writing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 26,
+   "para": "p19",
+   "type": "narration",
+   "text": "The hooked script. Square, spare, the strokes with their odd little hooks at the ends. Cut into the face in two short lines and worn by the sea to nearly nothing, so that he had to have Maren hold the lantern low and slant, so the light went across the cuts and filled them with shadow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p20",
+   "type": "narration",
+   "text": "He read it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p21",
+   "type": "narration",
+   "text": "Slowly. His eyes were as good as they’d ever been. It was the rest of him that wasn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p22",
+   "type": "thought",
+   "text": "Into the light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p23",
+   "type": "narration",
+   "text": "And under it, a sign he knew. A number. The old way of writing them, strokes and hooks.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p24",
+   "type": "thought",
+   "text": "Twelve.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 32,
+   "para": "p25",
+   "type": "speech",
+   "text": "“Milestone,”"
+  },
+  {
+   "seq": 33,
+   "para": "p25",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p26",
+   "type": "narration",
+   "text": "He said it to Maren. She was holding the lantern and looking at him, not at the stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p27",
+   "type": "speech",
+   "text": "“It’s a milestone. Or part of one. The Oneroad’s milestones in Isvaren say to Vael, so many, to the Ring, so many. In the hooked letters. Every one.”"
+  },
+  {
+   "seq": 36,
+   "para": "p27",
+   "type": "narration",
+   "text": "He put his finger on the cut."
+  },
+  {
+   "seq": 37,
+   "para": "p27",
+   "type": "speech",
+   "text": "“This says into the light, twelve. Twelve what, it doesn’t say. Twelve stones. Twelve piers. Twelve somethings, to wherever the light is.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p28",
+   "type": "narration",
+   "text": "He went to the next block. Maren followed with the lantern."
+  },
+  {
+   "seq": 39,
+   "para": "p28",
+   "type": "thought",
+   "text": "Into the light, thirty."
+  },
+  {
+   "seq": 40,
+   "para": "p28",
+   "type": "narration",
+   "text": "The next: worn away, all but into the. The next:"
+  },
+  {
+   "seq": 41,
+   "para": "p28",
+   "type": "thought",
+   "text": "into the light, nine"
+  },
+  {
+   "seq": 42,
+   "para": "p28",
+   "type": "narration",
+   "text": ".",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p29",
+   "type": "narration",
+   "text": "Nine.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p30",
+   "type": "narration",
+   "text": "He heard Kit, at the top of the ladder, not breathe.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 45,
+   "para": "p31",
+   "type": "speech",
+   "text": "“Your book,”"
+  },
+  {
+   "seq": 46,
+   "para": "p31",
+   "type": "narration",
+   "text": "he said. Up the ladder."
+  },
+  {
+   "seq": 47,
+   "para": "p31",
+   "type": "speech",
+   "text": "“Mistress Merrin. Your great-grandfather’s book. With the milestones in it. Would you bring it down?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p32",
+   "type": "narration",
+   "text": "A silence.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p33",
+   "type": "speech",
+   "text": "“It doesn’t leave the ship,”"
+  },
+  {
+   "seq": 50,
+   "para": "p33",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p34",
+   "type": "speech",
+   "text": "“Then would you bring me to it,”"
+  },
+  {
+   "seq": 52,
+   "para": "p34",
+   "type": "narration",
+   "text": "said Idony,"
+  },
+  {
+   "seq": 53,
+   "para": "p34",
+   "type": "speech",
+   "text": "“and I’ll bring these to it in my head. It’s slower. But I don’t mind slow.”"
+  },
+  {
+   "seq": 54,
+   "para": "p34",
+   "type": "narration",
+   "text": "He smiled up into the dark at the top of the ladder."
+  },
+  {
+   "seq": 55,
+   "para": "p34",
+   "type": "speech",
+   "text": "“I’ve become very good at slow.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p35",
+   "type": "narration",
+   "text": "Another silence.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p36",
+   "type": "narration",
+   "text": "Then her boots on the ladder, coming down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p37",
+   "type": "speech",
+   "text": "“I’ll fetch it,”"
+  },
+  {
+   "seq": 59,
+   "para": "p37",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 60,
+   "para": "p37",
+   "type": "speech",
+   "text": "“Don’t touch the chisels.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 61,
+   "para": "p38",
+   "type": "narration",
+   "text": "She brought it at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p39",
+   "type": "narration",
+   "text": "A book bound in sailcloth, salt-stained, the cloth gone soft as skin. She put it on the chisel-bench and opened it and didn’t let go of it. He didn’t ask her to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p40",
+   "type": "narration",
+   "text": "Abram Merrin’s hand. A careful square hand, a pilot’s. On each page, a drawing. A pier. Broken off, sticking out of the sea, with the shape of its rocks round it, and the birds, and on top of it, drawn exactly, the milestone. The hooked letters copied out stroke by stroke by a man who couldn’t read them. And beside each drawing, the bearing to the next. And the turns. And corrections, in other hands, in the margins. Four hands. Five.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p41",
+   "type": "narration",
+   "text": "He turned the pages with Maren’s help. She turned; he looked.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 65,
+   "para": "p42",
+   "type": "thought",
+   "text": "Into the light, forty-one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p43",
+   "type": "narration",
+   "text": "The first pier. South-west of the Shatters’ edge, two days out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p44",
+   "type": "thought",
+   "text": "Into the light, forty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p45",
+   "type": "thought",
+   "text": "Thirty-nine.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p46",
+   "type": "narration",
+   "text": "Counting down. Every page. Every pier one less. Abram had copied the numbers without knowing they were numbers, and his daughter had, and her son, who’d drowned, and the woman holding the book. Four generations of Merrins drawing a count they couldn’t read.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p47",
+   "type": "thought",
+   "text": "Nine."
+  },
+  {
+   "seq": 71,
+   "para": "p47",
+   "type": "narration",
+   "text": "A page with a darker margin. A note in a newer hand:"
+  },
+  {
+   "seq": 72,
+   "para": "p47",
+   "type": "thought",
+   "text": "Hal. Squall. The boat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p48",
+   "type": "narration",
+   "text": "He didn’t look at Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p49",
+   "type": "thought",
+   "text": "Three. Two. One.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p50",
+   "type": "narration",
+   "text": "The last page but one."
+  },
+  {
+   "seq": 76,
+   "para": "p50",
+   "type": "thought",
+   "text": "Into the light, one."
+  },
+  {
+   "seq": 77,
+   "para": "p50",
+   "type": "narration",
+   "text": "A pier like the others, a stone like the others.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p51",
+   "type": "narration",
+   "text": "And the last page.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 79,
+   "para": "p52",
+   "type": "narration",
+   "text": "No pier.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p53",
+   "type": "narration",
+   "text": "A drawing of a shore. Low, long, pale. White sand. Shapes on it that might be buildings. And at the bottom of the page, in Abram’s square careful hand, copied off some stone he’d found there, two lines of the hooked script.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p54",
+   "type": "narration",
+   "text": "Idony read them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p55",
+   "type": "thought",
+   "text": "Into the light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p56",
+   "type": "narration",
+   "text": "And nothing under it. No number.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 84,
+   "para": "p57",
+   "type": "narration",
+   "text": "He began to laugh.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p58",
+   "type": "narration",
+   "text": "He couldn’t help it. It came up out of him as it had at the ladders on the shingle, and it went on, and turned into coughing, and he had to sit down on a block of stone with Maren’s hand on his back, coughing and laughing, while Kit Merrin stood at the bench with her hand flat on her family’s book and looked at him as if he’d gone mad.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p59",
+   "type": "speech",
+   "text": "“Nothing,”"
+  },
+  {
+   "seq": 87,
+   "para": "p59",
+   "type": "narration",
+   "text": "he said, when he could."
+  },
+  {
+   "seq": 88,
+   "para": "p59",
+   "type": "speech",
+   "text": "“There’s no number.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p60",
+   "type": "speech",
+   "text": "“So?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p61",
+   "type": "speech",
+   "text": "“So it’s the end.”"
+  },
+  {
+   "seq": 91,
+   "para": "p61",
+   "type": "narration",
+   "text": "He wiped his eyes."
+  },
+  {
+   "seq": 92,
+   "para": "p61",
+   "type": "speech",
+   "text": "“Every stone on the road says how far to go. The one at the end doesn’t, because there’s nowhere left to go. Into the light, and nothing to count.”"
+  },
+  {
+   "seq": 93,
+   "para": "p61",
+   "type": "narration",
+   "text": "He looked at the stone under him."
+  },
+  {
+   "seq": 94,
+   "para": "p61",
+   "type": "speech",
+   "text": "“These blocks in your hold. Some have numbers. Those are off the road. The ones with no number…”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p62",
+   "type": "narration",
+   "text": "He leaned and looked. Maren brought the lantern."
+  },
+  {
+   "seq": 96,
+   "para": "p62",
+   "type": "thought",
+   "text": "Into the light."
+  },
+  {
+   "seq": 97,
+   "para": "p62",
+   "type": "narration",
+   "text": "Nothing under it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p63",
+   "type": "speech",
+   "text": "“Those came off the shore,”"
+  },
+  {
+   "seq": 99,
+   "para": "p63",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 100,
+   "para": "p63",
+   "type": "speech",
+   "text": "“Off the buildings there. They don’t count. They’re here.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 101,
+   "para": "p64",
+   "type": "narration",
+   "text": "He set the glass out on the eighty-first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p65",
+   "type": "narration",
+   "text": "His best. The one he’d carried from Vael and over half the world, wrapped in wool. A tall tube of clear glass on a brass foot, with the fluid in it, that rose and fell with the breath of the world when the world was breathing. That had climbed in the dark at Vael when the Titan was waking. That had lain flat at Liss’s kitchen table for a month because the world in the west had nothing left to breathe.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p66",
+   "type": "narration",
+   "text": "He set it on the planks in the middle of the hold among the stone, and sat down on a block beside it, and waited.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 104,
+   "para": "p67",
+   "type": "narration",
+   "text": "It climbed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p68",
+   "type": "narration",
+   "text": "He watched it. Slowly. A hair’s width. Then another. Up the tube. While the lantern burned and the water moved under the floor and Maren sat on the ladder’s bottom rung with her chin on her fist.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p69",
+   "type": "narration",
+   "text": "A third of the way up the column.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p70",
+   "type": "narration",
+   "text": "There it stopped. And held.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p71",
+   "type": "narration",
+   "text": "He sat and looked at it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 109,
+   "para": "p72",
+   "type": "narration",
+   "text": "In the Kittiwake‘s hold it had climbed a little. A finger’s width. He’d hardly dared believe it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p73",
+   "type": "narration",
+   "text": "Here, among forty blocks, a third.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p74",
+   "type": "narration",
+   "text": "He’d taken it up the ladder at noon and set it on the walkway outside the Merrin house, in the air, with the inlet all round. It had gone flat. Dead flat. As at Liss’s table.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p75",
+   "type": "narration",
+   "text": "He’d brought it back down. It had climbed again.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 113,
+   "para": "p76",
+   "type": "speech",
+   "text": "“It’s the stone,”"
+  },
+  {
+   "seq": 114,
+   "para": "p76",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p77",
+   "type": "narration",
+   "text": "Maren looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p78",
+   "type": "speech",
+   "text": "“It’s not reading the world. It can’t. The world here’s dead as the Marches. It’s reading the stone.”"
+  },
+  {
+   "seq": 117,
+   "para": "p78",
+   "type": "narration",
+   "text": "He put his hand on the block beside him. The hum came into his palm. His hand shook less. He noticed that again and put it away again."
+  },
+  {
+   "seq": 118,
+   "para": "p78",
+   "type": "speech",
+   "text": "“The stone’s full.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p79",
+   "type": "speech",
+   "text": "“Of what?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p80",
+   "type": "speech",
+   "text": "“Of the breath,”"
+  },
+  {
+   "seq": 121,
+   "para": "p80",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 122,
+   "para": "p80",
+   "type": "speech",
+   "text": "“The same breath the six are drinking in the east. The one the west ran out of long ago. This stone was cut in a place where nobody has ever drunk it.”"
+  },
+  {
+   "seq": 123,
+   "para": "p80",
+   "type": "narration",
+   "text": "He looked at the glass."
+  },
+  {
+   "seq": 124,
+   "para": "p80",
+   "type": "speech",
+   "text": "“Something in the south-west has never been drunk at all. I wrote that, at Liss’s table. On the chart. I didn’t know what I meant.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p81",
+   "type": "narration",
+   "text": "He looked round the hold. At the forty blocks. Humming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p82",
+   "type": "speech",
+   "text": "“I meant this,”"
+  },
+  {
+   "seq": 127,
+   "para": "p82",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 128,
+   "para": "p83",
+   "type": "narration",
+   "text": "He worked out the charms that night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p84",
+   "type": "narration",
+   "text": "Kit had told him about Gallows Quay. The Saffery man who bought the Merrins’ flakes."
+  },
+  {
+   "seq": 130,
+   "para": "p84",
+   "type": "thought",
+   "text": "Warranted old charms"
+  },
+  {
+   "seq": 131,
+   "para": "p84",
+   "type": "narration",
+   "text": ", two silver, sold to sailors and farmers’ wives and anyone who’d pay. One in ten that worked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Why one in ten?”"
+  },
+  {
+   "seq": 133,
+   "para": "p85",
+   "type": "narration",
+   "text": "he asked her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p86",
+   "type": "narration",
+   "text": "She was at the top of the ladder again. She came down when he talked about money.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p87",
+   "type": "speech",
+   "text": "“Nobody knows.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p88",
+   "type": "speech",
+   "text": "“I think I do,”"
+  },
+  {
+   "seq": 137,
+   "para": "p88",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 138,
+   "para": "p88",
+   "type": "speech",
+   "text": "“A flake’s a pinch of the stone. A pinch of full ground. A word needs live ground under it, Maren knows that, she’s lived on dead ground more than a year. Put a flake in your pocket and you’re carrying a thumbnail of live ground about with you.”",
+   "how": "faint"
+  },
+  {
+   "seq": 139,
+   "para": "p88",
+   "type": "narration",
+   "text": "He held up a flake off the chisel-bench, grey, thin, humming faintly in his fingers."
+  },
+  {
+   "seq": 140,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Most are cut too thin. Most people who buy them don’t know a word. Most use them where there’s live ground already, so the flake makes no difference.”",
+   "how": "faint"
+  },
+  {
+   "seq": 141,
+   "para": "p88",
+   "type": "narration",
+   "text": "He turned it over."
+  },
+  {
+   "seq": 142,
+   "para": "p88",
+   "type": "speech",
+   "text": "“But cut one thick enough, and give it to somebody who knows a word, on ground dead enough that the flake’s the only live thing for a league…”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p89",
+   "type": "speech",
+   "text": "“One in ten,”"
+  },
+  {
+   "seq": 144,
+   "para": "p89",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p90",
+   "type": "speech",
+   "text": "“One in ten,”"
+  },
+  {
+   "seq": 146,
+   "para": "p90",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 147,
+   "para": "p90",
+   "type": "speech",
+   "text": "“Your great-grandfather was selling live ground by the pinch.”"
+  },
+  {
+   "seq": 148,
+   "para": "p90",
+   "type": "narration",
+   "text": "He smiled."
+  },
+  {
+   "seq": 149,
+   "para": "p90",
+   "type": "speech",
+   "text": "“At two silver. He was robbing himself.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p91",
+   "type": "narration",
+   "text": "Kit looked at the flake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p92",
+   "type": "speech",
+   "text": "“Don’t tell Ostrey,”"
+  },
+  {
+   "seq": 152,
+   "para": "p92",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 153,
+   "para": "p93",
+   "type": "narration",
+   "text": "He asked her about the feather on the eighty-second.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p94",
+   "type": "narration",
+   "text": "He hadn’t meant to. It came out of him at the bench, in the afternoon, while she was splitting a flake for Gallows Quay with a chisel and a mallet, neatly, as her family had done for eighty years. He’d been thinking about warm stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p95",
+   "type": "speech",
+   "text": "“Mistress Merrin. If a Merrin wanted to find a thing that stays warm forever. Where would she look?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p96",
+   "type": "narration",
+   "text": "The chisel stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p97",
+   "type": "narration",
+   "text": "Kit didn’t look up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p98",
+   "type": "speech",
+   "text": "“Ask my grandmother,”"
+  },
+  {
+   "seq": 159,
+   "para": "p98",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 160,
+   "para": "p98",
+   "type": "speech",
+   "text": "“She’s dead.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p99",
+   "type": "narration",
+   "text": "He waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p100",
+   "type": "speech",
+   "text": "“From where we go,”"
+  },
+  {
+   "seq": 163,
+   "para": "p100",
+   "type": "narration",
+   "text": "said Kit."
+  },
+  {
+   "seq": 164,
+   "para": "p100",
+   "type": "speech",
+   "text": "“That’s all she ever said.”"
+  },
+  {
+   "seq": 165,
+   "para": "p100",
+   "type": "narration",
+   "text": "The mallet came down. The flake split off clean."
+  },
+  {
+   "seq": 166,
+   "para": "p100",
+   "type": "speech",
+   "text": "“That’s all anyone in my family has ever said about anything.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p101",
+   "type": "narration",
+   "text": "He didn’t write that down. He didn’t ask Maren to.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 168,
+   "para": "p102",
+   "type": "narration",
+   "text": "The bearings took two days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p103",
+   "type": "narration",
+   "text": "The founding chart on the chisel-bench, out of its oilcloth. Maren holding it flat at the corners with flakes of far-stone for weights, which he enjoyed. Kit’s book open beside it. Kit’s dividers, brass, old, in Maren’s hand, because his couldn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p104",
+   "type": "narration",
+   "text": "He told her where. She walked them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 171,
+   "para": "p105",
+   "type": "narration",
+   "text": "The coast of Saltreach, on the old chart. Blackwater’s inlet, a notch under the mountains’ end. The edge of the Shatters, and past it, nothing but sea and the readers’ marks.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p106",
+   "type": "narration",
+   "text": "And Abram’s first bearing off it. South and west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p107",
+   "type": "narration",
+   "text": "Maren walked the dividers. He read her the turns from the book. Pier to pier. Bearing to bearing. Forty-one, forty, thirty-nine, down the page, down the chart, south-west across the sea. Her dividers went across it step by step. Slowly. Neither of them said anything about how slowly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p108",
+   "type": "narration",
+   "text": "At one, she stopped.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 175,
+   "para": "p109",
+   "type": "narration",
+   "text": "The dividers’ point was on the margin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p110",
+   "type": "narration",
+   "text": "The chart’s south-western margin. The edge of the world, as the readers had known it. And there, under the point, the mark. The little hooked sign he’d found at Liss’s table. And beside it, in six hands, six readers across two hundred years who’d each been sure it couldn’t be right:",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p111",
+   "type": "thought",
+   "text": "Error.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 178,
+   "para": "p112",
+   "type": "speech",
+   "text": "“There,”"
+  },
+  {
+   "seq": 179,
+   "para": "p112",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p113",
+   "type": "narration",
+   "text": "He couldn’t keep his voice still. He didn’t try.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p114",
+   "type": "speech",
+   "text": "“The western rising. The thing the glasses lean toward. Where the breath’s never been drunk.”"
+  },
+  {
+   "seq": 182,
+   "para": "p114",
+   "type": "narration",
+   "text": "He put his shaking finger beside the dividers’ point."
+  },
+  {
+   "seq": 183,
+   "para": "p114",
+   "type": "speech",
+   "text": "“It’s where the road goes. Of course it is.”",
+   "how": "very quietly"
+  },
+  {
+   "seq": 184,
+   "para": "p114",
+   "type": "narration",
+   "text": "He laughed, very quietly."
+  },
+  {
+   "seq": 185,
+   "para": "p114",
+   "type": "speech",
+   "text": "“They built the road to it. The old ones built a road to the place they were going, and then the world split, and the road went under the sea, and four generations of Merrins have been walking down it to fetch rocks.”",
+   "how": "very quietly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p115",
+   "type": "narration",
+   "text": "Kit stood very still at the end of the bench.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p116",
+   "type": "speech",
+   "text": "“Error,”"
+  },
+  {
+   "seq": 188,
+   "para": "p116",
+   "type": "narration",
+   "text": "she said. Reading the word upside down. She couldn’t read the hooked script. She could read that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p117",
+   "type": "speech",
+   "text": "“Six times,”"
+  },
+  {
+   "seq": 190,
+   "para": "p117",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 191,
+   "para": "p117",
+   "type": "speech",
+   "text": "“Six learned people. All wrong.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 192,
+   "para": "p118",
+   "type": "narration",
+   "text": "Maren wrote it for him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p119",
+   "type": "narration",
+   "text": "That night. At the chisel-bench, by the lantern, on paper Kit sold her at a price. Liss had written for him at the ferry house in her big round rope-tied hand, and Davin before that in his quick clerk’s one. Maren wrote in her own. Square. Upright. A soldier’s hand, from the river watch’s reports. Every letter made separately and set down beside the last as if she were laying out kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p120",
+   "type": "narration",
+   "text": "He said it slowly. She wrote it slowly. He didn’t say anything about how long each line took, and she didn’t say anything about how long he waited between them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p121",
+   "type": "narration",
+   "text": "The formula. The count, down from forty-one."
+  },
+  {
+   "seq": 196,
+   "para": "p121",
+   "type": "thought",
+   "text": "Into the light"
+  },
+  {
+   "seq": 197,
+   "para": "p121",
+   "type": "narration",
+   "text": "with no number. The glass, a third of its column. The stone, full. The bearing. The mark.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 198,
+   "para": "p122",
+   "type": "narration",
+   "text": "And one more line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p123",
+   "type": "narration",
+   "text": "He said it at the end. Half to himself. Looking at the glass standing a third full among the humming stone, thinking about the shore with no number, where the breath had never been drunk, where nothing had ever been bound to anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p124",
+   "type": "speech",
+   "text": "“It answers a breath that is unbound,”"
+  },
+  {
+   "seq": 201,
+   "para": "p124",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p125",
+   "type": "narration",
+   "text": "Maren looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p126",
+   "type": "speech",
+   "text": "“Write that,”"
+  },
+  {
+   "seq": 204,
+   "para": "p126",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 205,
+   "para": "p126",
+   "type": "speech",
+   "text": "“I don’t know what it means yet. Write it down so I can find out.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p127",
+   "type": "narration",
+   "text": "She wrote it."
+  },
+  {
+   "seq": 207,
+   "para": "p127",
+   "type": "thought",
+   "text": "It answers a breath that is unbound."
+  },
+  {
+   "seq": 208,
+   "para": "p127",
+   "type": "narration",
+   "text": "In her square hand, under the rest.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 209,
+   "para": "p128",
+   "type": "narration",
+   "text": "Gannet came down with lamp oil on the eighty-third.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p129",
+   "type": "narration",
+   "text": "The bosun. A can of it, for the lantern, though the lantern had oil. He came down the ladder whistling and set the can on the planks and then stood at the ladder’s foot a while, with one hand on a rung, looking at the bench.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p130",
+   "type": "narration",
+   "text": "At the pages on it. In Maren’s square hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p131",
+   "type": "narration",
+   "text": "He read them. Upside down, from the ladder’s foot, easily, as a man reads a price-board across a market. His lips didn’t move. His eyes went along the lines and down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p132",
+   "type": "narration",
+   "text": "Idony saw him do it. He noticed that the bosun could read, and read well, and kept it to himself. It was a Saltreach ship. Everyone on it read prices.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p133",
+   "type": "narration",
+   "text": "Gannet smiled at him, and went back up the ladder.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 215,
+   "para": "p134",
+   "type": "narration",
+   "text": "His hands shook less down here.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p135",
+   "type": "narration",
+   "text": "He’d noticed it the first day and put it away. He took it out now, on the eighty-fourth, sitting on his block beside the glass, and looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p136",
+   "type": "narration",
+   "text": "On the walkway in the air they shook as they’d shaken since the cellars. Down here among the stone, with the hum in his palms, they shook a little less. Not much. A little. As if something in the stone were holding them, very lightly, as you’d steady a cup.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p137",
+   "type": "narration",
+   "text": "He didn’t tell Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p138",
+   "type": "narration",
+   "text": "She had her own hand in her pocket all day. He’d seen it. He didn’t tell her about his, and she didn’t tell him about hers, and that seemed fair.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 220,
+   "para": "p139",
+   "type": "narration",
+   "text": "He heard them at noon on the eighty-fourth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p140",
+   "type": "narration",
+   "text": "Through the slip at the hold’s end, where the light came in off the water. Above him, on the walkway. Kit’s voice and Maren’s. He knew the tone before he heard the words. He’d heard it every day for four days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 222,
+   "para": "p141",
+   "type": "speech",
+   "text": "“The eighty-fifth,”"
+  },
+  {
+   "seq": 223,
+   "para": "p141",
+   "type": "narration",
+   "text": "said Kit."
+  },
+  {
+   "seq": 224,
+   "para": "p141",
+   "type": "speech",
+   "text": "“The bottom of the tide. The lowest this month. That’s when the stone’s shallowest. That’s when the lion lifts it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 225,
+   "para": "p142",
+   "type": "speech",
+   "text": "“The eighty-fourth,”"
+  },
+  {
+   "seq": 226,
+   "para": "p142",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 227,
+   "para": "p142",
+   "type": "speech",
+   "text": "“Tonight. The tide’s nearly as low. It’s a day sooner.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 228,
+   "para": "p143",
+   "type": "speech",
+   "text": "“A day sooner costs extra.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 229,
+   "para": "p144",
+   "type": "speech",
+   "text": "“It’s the same stone.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 230,
+   "para": "p145",
+   "type": "speech",
+   "text": "“It’s a different day,”"
+  },
+  {
+   "seq": 231,
+   "para": "p145",
+   "type": "narration",
+   "text": "said Kit."
+  },
+  {
+   "seq": 232,
+   "para": "p145",
+   "type": "speech",
+   "text": "“Days cost.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 233,
+   "para": "p146",
+   "type": "narration",
+   "text": "A silence.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 234,
+   "para": "p147",
+   "type": "speech",
+   "text": "“How much extra?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 235,
+   "para": "p148",
+   "type": "narration",
+   "text": "Kit said a number.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 236,
+   "para": "p149",
+   "type": "narration",
+   "text": "A longer silence.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 237,
+   "para": "p150",
+   "type": "speech",
+   "text": "“Fine,”"
+  },
+  {
+   "seq": 238,
+   "para": "p150",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 239,
+   "para": "p151",
+   "type": "narration",
+   "text": "Idony laughed on his block of stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 240,
+   "para": "p152",
+   "type": "narration",
+   "text": "Quietly. So they wouldn’t hear. With his shaking hands in his lap and the glass beside him standing a third full, and the hum of a drowned road in his teeth, and above him on the walkway a knight of Greyhold who’d held up a hill losing an argument about money to a reef-pilot for the fourth day running.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 241,
+   "para": "p153",
+   "type": "narration",
+   "text": "He’d never in his life been so happy.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "93201d9ffadf1617d51e5542da8673bf721025b2",
+ "segments_sha1": "d14bb59fea3800056d36fdcb8447c134fd33c904"
+}

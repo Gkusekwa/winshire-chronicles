@@ -2,6 +2,13 @@
  "chapter": 21,
  "title": "Wounded",
  "pov": "Maren",
+ "source": "Chapters/Chapter 21 - Wounded.md",
+ "names": [
+  "eelweir",
+  "harrow",
+  "ottery",
+  "saltreach"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1214,5 +1221,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "e7714e0b4bac0fd99da43f207ff31565aad65fb9",
+ "segments_sha1": "e1debf1c2910042189d0bf5ccc20b639ff4220dd"
 }

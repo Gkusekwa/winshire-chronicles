@@ -2,6 +2,18 @@
  "chapter": 55,
  "title": "Thaw",
  "pov": "Maren",
+ "source": "Chapters/Chapter 55 - Thaw.md",
+ "names": [
+  "greyhold",
+  "hearthmere",
+  "marl",
+  "millbrook",
+  "ottery",
+  "pell",
+  "redwatch",
+  "scarfell",
+  "wend"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1488,5 +1500,8 @@
    "text": "He wrote it down.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "4d66fd3dde53ff48318841540c205fe5e65fce6e",
+ "segments_sha1": "11e5d41387482e714cee705b546ed994ab90e2a2"
 }

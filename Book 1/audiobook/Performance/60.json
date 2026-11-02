@@ -2,6 +2,30 @@
  "chapter": 60,
  "title": "The Ford Again",
  "pov": "Calder",
+ "source": "Chapters/Chapter 60 - The Ford Again.md",
+ "names": [
+  "arn",
+  "aurveth",
+  "bel",
+  "brecc",
+  "calder",
+  "end",
+  "hallam",
+  "harrow",
+  "kharrak",
+  "lisska",
+  "morrow",
+  "ram",
+  "raske",
+  "rook",
+  "saltreach",
+  "scar",
+  "teo",
+  "ulric",
+  "varrhold",
+  "wend",
+  "wendmouth"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1973,5 +1997,8 @@
    "text": "Aurveth turned east, up the beck, toward the Scar, and the boats and the lanterns and the dead went away behind them into the dark.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "b9b6b7f8872391145a2c6a538dc7747a7fd381d6",
+ "segments_sha1": "9631991b571d3f2b2a77dd2fdcf7982708ed16ab"
 }

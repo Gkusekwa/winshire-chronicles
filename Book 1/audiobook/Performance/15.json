@@ -2,6 +2,13 @@
  "chapter": 15,
  "title": "Signs",
  "pov": "Maren",
+ "source": "Chapters/Chapter 15 - Signs.md",
+ "names": [
+  "greyhold",
+  "ottery",
+  "pell",
+  "saltreach"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -543,5 +550,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "8d8c5f5b93f8333b80a8194818501cf5b481278b",
+ "segments_sha1": "364e7808b458e1e39efe69ff574058c73c7f1273"
 }

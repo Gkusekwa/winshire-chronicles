@@ -1,0 +1,33 @@
+{
+  "chapter": 77,
+  "pov": "",
+  "auto": true,
+  "generator": "directions 1",
+  "source_sha1": "2acc1b008b077afd83048c2c0444fddbd066ec46",
+  "spans": {
+    "s1": "bond",
+    "s2": "thought",
+    "s3": "bond",
+    "s4": "thought",
+    "s5": "thought",
+    "s6": "bond",
+    "s7": "thought",
+    "s8": "bond",
+    "s9": "thought",
+    "s10": "emphasis",
+    "s11": "thought",
+    "s12": "bond",
+    "s13": "thought",
+    "s14": "thought",
+    "s15": "thought",
+    "s16": "bond",
+    "s17": "bond",
+    "s18": "bond",
+    "s19": "thought",
+    "s20": "bond",
+    "s21": "thought",
+    "s22": "bond|very quietly",
+    "s23": "thought"
+  },
+  "paragraphs": {}
+}

@@ -1,0 +1,1302 @@
+{
+ "chapter": 71,
+ "title": "The Battery",
+ "pov": "",
+ "source": "Chapters/Chapter 71 - The Battery.md",
+ "names": [
+  "bridle",
+  "callis",
+  "drover",
+  "greyhold",
+  "pell",
+  "sarovel",
+  "tobin",
+  "wardle"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Seventy-one.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Battery.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "Wardle read the orders at noon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "At the hub battery. On the Flat’s western edge, where the rail was. He stood on the winch’s housing with his packet open and the black wax broken in his hand and read it in his pleasant flat voice, as if it were the price of fish.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "speech",
+   "text": "“Hold the Last Titan. Leave the line.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "He folded it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "speech",
+   "text": "“Swing them round,”"
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "narration",
+   "text": "said Wardle."
+  },
+  {
+   "seq": 9,
+   "para": "p5",
+   "type": "speech",
+   "text": "“All forty. To the eddy.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "narration",
+   "text": "Tobin was at the coal-heap.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "narration",
+   "text": "With Ines and forty of his hands. He’d come down off the slope at the run, from the old man, from the chair, with his chest burning, and come onto the Flat as the jibs swung out. He’d seen the chains drop. He’d seen the bolts go into the light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p8",
+   "type": "narration",
+   "text": "He’d seen the smoke go up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 13,
+   "para": "p9",
+   "type": "narration",
+   "text": "The hub battery was forty bolt-throwers on a rail.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p10",
+   "type": "narration",
+   "text": "Heavy ones. Heavier than the others. Each on an iron carriage with four wheels, and the forty carriages on a curved iron track, a half-ring of it, bolted to sleepers on the turf at the Flat’s western edge. Facing west. Toward the bend. Toward the line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p11",
+   "type": "narration",
+   "text": "You couldn’t swing forty heavy throwers round by hand. So they’d built a winch.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 16,
+   "para": "p12",
+   "type": "narration",
+   "text": "A drum. Iron. As tall as a man. At the rail’s end. With a chain wound on it, black, that ran out along the rail to the first carriage and the carriages were chained one to the next. And a band round the drum’s edge: the brake. Iron, faced with wood. And a lever.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p13",
+   "type": "narration",
+   "text": "And the drum was driven off the nearest engine.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p14",
+   "type": "narration",
+   "text": "The seventh.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 19,
+   "para": "p15",
+   "type": "narration",
+   "text": "He’d fed the seventh’s box. All the way down the Iron Road. Callis had fed it. It was breathing now, roaring, its fire bright, its brass turning. Pulling on the Bridle’s chain with the other eleven.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p16",
+   "type": "narration",
+   "text": "And on the winch.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 21,
+   "para": "p17",
+   "type": "speech",
+   "text": "“Swing them round,”"
+  },
+  {
+   "seq": 22,
+   "para": "p17",
+   "type": "narration",
+   "text": "said Wardle again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "narration",
+   "text": "The winch crew went to the drum.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 24,
+   "para": "p19",
+   "type": "narration",
+   "text": "Twelve of them. Kessmoor’s. In grey. Under a crew-master with a brass watch, still open in his hand. A big man. Young. A forge-burn white across the back of one hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p20",
+   "type": "narration",
+   "text": "He put his hand on the brake lever.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 26,
+   "para": "p21",
+   "type": "narration",
+   "text": "Tobin looked west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p22",
+   "type": "narration",
+   "text": "Through the smoke. Past the rail, past the forty throwers facing west. At the line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p23",
+   "type": "narration",
+   "text": "At the bend. He couldn’t see the bend. He could see the smoke, yellow-grey, lying over the Hearthmere bank all the way to the downs. And in it, things moving. Running. Greyharts, bolting. People. He could hear it. Screaming. Hounds.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p24",
+   "type": "narration",
+   "text": "And north, up the river. The channel. Something pale, coming down it under the ice, fast. Toward the line where the shadow had been. Where nothing was now.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 30,
+   "para": "p25",
+   "type": "narration",
+   "text": "The forty were the only thing facing it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 31,
+   "para": "p26",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 32,
+   "para": "p26",
+   "type": "narration",
+   "text": "said Tobin.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 33,
+   "para": "p27",
+   "type": "narration",
+   "text": "The crew-master looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p28",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 35,
+   "para": "p28",
+   "type": "narration",
+   "text": "said Tobin."
+  },
+  {
+   "seq": 36,
+   "para": "p28",
+   "type": "speech",
+   "text": "“Leave them. They’re facing the line. The line’s going. Leave them.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p29",
+   "type": "speech",
+   "text": "“Orders,”",
+   "how": "shaking"
+  },
+  {
+   "seq": 38,
+   "para": "p29",
+   "type": "narration",
+   "text": "said the crew-master. His voice shook. He held up his watch anyway."
+  },
+  {
+   "seq": 39,
+   "para": "p29",
+   "type": "speech",
+   "text": "“On the hour. You heard.”",
+   "how": "shaking",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p30",
+   "type": "narration",
+   "text": "He pulled the lever.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 41,
+   "para": "p31",
+   "type": "narration",
+   "text": "The brake came off.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 42,
+   "para": "p32",
+   "type": "narration",
+   "text": "The drum turned. Slowly. The chain winding onto it, link by link, black. Taking the strain. And along the rail, the forty carriages began to move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p33",
+   "type": "narration",
+   "text": "Creaking. Iron on iron. The first one shifting. Then the second. The whole half-ring of them starting to swing on the track. Round. Away from the line. Toward the eddy.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 44,
+   "para": "p34",
+   "type": "narration",
+   "text": "He went for the lever.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p35",
+   "type": "narration",
+   "text": "He didn’t decide to. His feet decided. He went across the turf at the crew-master and took him by the arm on the lever and pulled.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p36",
+   "type": "narration",
+   "text": "The crew-master was bigger than him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 47,
+   "para": "p37",
+   "type": "narration",
+   "text": "Then there were forty of them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p38",
+   "type": "narration",
+   "text": "His. Sarovel’s hands. Ines first. They’d seen him go. They came after him. Off the coal-heap with their shovels and crowbars, in their grey smocks black with coal, at the twelve in grey at the drum.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p39",
+   "type": "narration",
+   "text": "And the twelve fought.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 50,
+   "para": "p40",
+   "type": "narration",
+   "text": "He’d never fought. Not really. He’d been unbonded at Greyhold; he’d learned to hold a sword with the others and never been any good. He’d been in the Restoration’s crowds. He’d shouted. He’d never hit anyone.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p41",
+   "type": "narration",
+   "text": "He hit the crew-master.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p42",
+   "type": "narration",
+   "text": "In the face. With his fist. It hurt his hand more than he’d known a thing could. The crew-master didn’t let go of the lever.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p43",
+   "type": "narration",
+   "text": "The drum turned. The forty creaked round.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 54,
+   "para": "p44",
+   "type": "narration",
+   "text": "Somebody came past him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p45",
+   "type": "narration",
+   "text": "From the seventh engine’s box, beside the winch. With no shovel. With nothing in his hands, because his hands couldn’t hold anything; his right forearm knit crooked halfway and his left wrist thick and stiff.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p46",
+   "type": "narration",
+   "text": "Callis.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 57,
+   "para": "p47",
+   "type": "narration",
+   "text": "He put his shoulder into the crew-master.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p48",
+   "type": "narration",
+   "text": "As a knight puts his shoulder into a gate. Low. All his weight. Into the big man’s side. And the crew-master went over. Off the lever. Onto the turf. Callis on top of him, going down too, his crooked arms round him, holding him down with his whole body because his arms couldn’t hold anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p49",
+   "type": "speech",
+   "text": "“Not that,”"
+  },
+  {
+   "seq": 60,
+   "para": "p49",
+   "type": "narration",
+   "text": "said Callis. Into the turf. His face against the crew-master’s coat."
+  },
+  {
+   "seq": 61,
+   "para": "p49",
+   "type": "speech",
+   "text": "“Not this time. Go on. Go on.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 62,
+   "para": "p50",
+   "type": "narration",
+   "text": "The drum was still turning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p51",
+   "type": "narration",
+   "text": "The brake was off. The lever was free. Nobody on it. And the drum turned on, driven off the seventh, winding the chain. And the forty creaked round on the rail. A quarter of the way. A third. Half of them swinging away from the line now. Toward the eddy.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 64,
+   "para": "p52",
+   "type": "narration",
+   "text": "He got to the lever.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p53",
+   "type": "narration",
+   "text": "He pulled it. Back. To set the brake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p54",
+   "type": "narration",
+   "text": "It didn’t set.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 67,
+   "para": "p55",
+   "type": "narration",
+   "text": "The pawl. He saw it. The little iron tooth that should drop into the ratchet and lock the band. It didn’t drop. The drum was turning too fast. The chain too taut. The band rode over the ratchet and the pawl bounced on it and didn’t catch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p56",
+   "type": "narration",
+   "text": "You had to stop the drum first. Then set the pawl.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p57",
+   "type": "narration",
+   "text": "You couldn’t stop the drum with the lever. Not with the engine pulling.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 70,
+   "para": "p58",
+   "type": "narration",
+   "text": "He looked at the band.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p59",
+   "type": "narration",
+   "text": "Iron. Faced with wood. Round the drum’s edge. A gap between it and the drum, where the brake should have closed, a hand’s breadth. The drum’s iron rim going past the gap. Turning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p60",
+   "type": "narration",
+   "text": "He looked at it for one breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p61",
+   "type": "narration",
+   "text": "Then he got into it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 74,
+   "para": "p62",
+   "type": "narration",
+   "text": "Between the band and the drum.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p63",
+   "type": "narration",
+   "text": "Across it. His body. His chest across the gap, where the band should have closed on the rim and didn’t. Wedged. His back on the drum’s rim, his chest against the band, the iron cold through his smock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p64",
+   "type": "narration",
+   "text": "And the drum stopped.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 77,
+   "para": "p65",
+   "type": "narration",
+   "text": "It stopped on him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p66",
+   "type": "narration",
+   "text": "He felt it stop. He felt the whole weight of it. The drum, and the chain wound on it, and the forty carriages on the rail at the chain’s end, and the seventh engine at the other end pulling. All of it. On him. Between the rim and the band.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p67",
+   "type": "narration",
+   "text": "It stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p68",
+   "type": "narration",
+   "text": "The forty stopped. On the rail. Half of them round. Half of them still facing west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p69",
+   "type": "narration",
+   "text": "Facing the line.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 82,
+   "para": "p70",
+   "type": "speech",
+   "text": "“Fire them,”"
+  },
+  {
+   "seq": 83,
+   "para": "p70",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p71",
+   "type": "narration",
+   "text": "He didn’t know who to. He didn’t know if anyone heard. He said it again, louder, as loud as he could with his chest in the brake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Fire them. West. The line.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 86,
+   "para": "p73",
+   "type": "narration",
+   "text": "They did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p74",
+   "type": "narration",
+   "text": "His hands. Sarovel’s. They’d loaded those throwers all winter. They’d carried the black bolts in their racks down the Iron Road and set them on the carriages and cleaned them every morning. They’d never been let to fire them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p75",
+   "type": "narration",
+   "text": "They went to the twenty still facing west and fired them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p76",
+   "type": "narration",
+   "text": "He heard them go. Twenty iron bow-strings at once. West. Into the smoke. Toward the channel, where the pale thing was coming down under the ice. Toward the bend.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p77",
+   "type": "narration",
+   "text": "One sector’s engines, facing the line.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 91,
+   "para": "p78",
+   "type": "speech",
+   "text": "“Stop the seventh,”",
+   "how": "shouted"
+  },
+  {
+   "seq": 92,
+   "para": "p78",
+   "type": "narration",
+   "text": "Wardle was shouting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p79",
+   "type": "narration",
+   "text": "Somewhere. Behind him. On the winch’s housing."
+  },
+  {
+   "seq": 94,
+   "para": "p79",
+   "type": "speech",
+   "text": "“Stop the engine. Somebody stop the seventh. He’s in the brake. Stop it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p80",
+   "type": "narration",
+   "text": "Nobody stopped it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p81",
+   "type": "narration",
+   "text": "The seventh was the Bridle’s. It was pulling on the Bridle’s chain with the other eleven. Nobody was going to stop a Bridle engine. Not on the hour. Not with the orders read.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p82",
+   "type": "narration",
+   "text": "It pulled.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p83",
+   "type": "narration",
+   "text": "On the winch. Through the chain. On the drum. On him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 99,
+   "para": "p84",
+   "type": "narration",
+   "text": "The drum moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p85",
+   "type": "narration",
+   "text": "A hand’s breadth. On him. The rim grinding on his back. The band biting into his chest. He felt something give inside him. A rib. Two.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p86",
+   "type": "narration",
+   "text": "He held it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 102,
+   "para": "p87",
+   "type": "narration",
+   "text": "Ines was there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p88",
+   "type": "narration",
+   "text": "Kneeling. By the drum. Her face close to his. Her strong dye-works hands on the band, as if she could hold it off him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p89",
+   "type": "speech",
+   "text": "“Tobin.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p90",
+   "type": "speech",
+   "text": "“Go,”"
+  },
+  {
+   "seq": 106,
+   "para": "p90",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p91",
+   "type": "speech",
+   "text": "“Get out of it. Get out.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p92",
+   "type": "speech",
+   "text": "“It’ll swing them if I do. Go.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 109,
+   "para": "p93",
+   "type": "speech",
+   "text": "“The olifants,”"
+  },
+  {
+   "seq": 110,
+   "para": "p93",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p94",
+   "type": "narration",
+   "text": "He’d seen them. Out of the side of his eye. Through the smoke, where it was thinning by the river. Coming. Grey. Enormous. Loose. The Sarovel olifants, that had broken their wall at noon. Running. Some of them. Some of them standing, lost, swaying, in the smoke at the Flat’s edge, trumpeting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p95",
+   "type": "speech",
+   "text": "“Catch them,”"
+  },
+  {
+   "seq": 113,
+   "para": "p95",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 114,
+   "para": "p95",
+   "type": "speech",
+   "text": "“You can. You know how. Talk to them. In your words.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p96",
+   "type": "narration",
+   "text": "She looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p97",
+   "type": "speech",
+   "text": "“Take the hands,”"
+  },
+  {
+   "seq": 117,
+   "para": "p97",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 118,
+   "para": "p97",
+   "type": "speech",
+   "text": "“All of them. And the olifants. And the old ones and the children out of the Sarovel camp. On their backs. North. The Drover’s Way. Over the pontoon. Before the pontoon goes.”",
+   "how": "very quietly"
+  },
+  {
+   "seq": 119,
+   "para": "p97",
+   "type": "narration",
+   "text": "He breathed. It hurt."
+  },
+  {
+   "seq": 120,
+   "para": "p97",
+   "type": "speech",
+   "text": "“Go. Now.”",
+   "how": "very quietly",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 121,
+   "para": "p98",
+   "type": "narration",
+   "text": "She didn’t go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p99",
+   "type": "narration",
+   "text": "The drum moved again. A hand’s breadth. On him. He heard himself make a sound.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p100",
+   "type": "speech",
+   "text": "“Ines,”"
+  },
+  {
+   "seq": 124,
+   "para": "p100",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 125,
+   "para": "p100",
+   "type": "speech",
+   "text": "“Go.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 126,
+   "para": "p101",
+   "type": "narration",
+   "text": "She went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p102",
+   "type": "narration",
+   "text": "She stood up. She looked at him once more. Then she turned and shouted to the hands, in the low-city words, the dye-works words, that he’d heard her use to nobody before.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p103",
+   "type": "narration",
+   "text": "And they went with her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 129,
+   "para": "p104",
+   "type": "narration",
+   "text": "He watched them go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p105",
+   "type": "narration",
+   "text": "From the brake. Sideways. His cheek against the cold band. Forty of his hands, and then more, the three hundred, coming off the coal-heaps and the Flat’s edge. Going to the olifants in the smoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p106",
+   "type": "narration",
+   "text": "Catching them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p107",
+   "type": "narration",
+   "text": "By the ears. By the trunk. Walking up to a maddened olifant in the smoke, a small man in a coal-black smock, and taking it by the ear and putting his face to its face and talking. Low. In Sarovel’s words. The old words, that the low city’s olifant-boys had used for three hundred years.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p108",
+   "type": "narration",
+   "text": "And the olifants stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p109",
+   "type": "narration",
+   "text": "Not all. Some. Eleven, he counted. Eleven olifants, standing, swaying, with Sarovel’s hands holding their ears and talking to them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 135,
+   "para": "p110",
+   "type": "narration",
+   "text": "Then the hands lifted people onto them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p111",
+   "type": "narration",
+   "text": "From the Sarovel camp behind the wall. Old people. Children. Up onto the olifants’ backs, by their trunks, by ropes, by hands. And the olifants knelt for it. As they’d knelt in the road. As they’d knelt for their god.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p112",
+   "type": "narration",
+   "text": "And got up. With the people on them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p113",
+   "type": "narration",
+   "text": "And went.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 139,
+   "para": "p114",
+   "type": "narration",
+   "text": "South first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p115",
+   "type": "narration",
+   "text": "To the pontoon. The chained barges below the eddy, to the Saltreach bank. Then north, up the Drover’s Way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p116",
+   "type": "narration",
+   "text": "Ines at the front. On foot. With her hand on the first olifant’s trunk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p117",
+   "type": "narration",
+   "text": "He watched until the smoke took them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 143,
+   "para": "p118",
+   "type": "narration",
+   "text": "Callis got up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p119",
+   "type": "narration",
+   "text": "Off the crew-master, who’d stopped fighting. Slowly. His crooked arms. His grey face. He stood on the turf by the winch and looked down at Tobin in the brake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p120",
+   "type": "narration",
+   "text": "Then he looked across the Flat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p121",
+   "type": "narration",
+   "text": "At the ring. At the stage. At the man on it, reading, with his iron hand on the script.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 147,
+   "para": "p122",
+   "type": "speech",
+   "text": "“I have to go to him,”"
+  },
+  {
+   "seq": 148,
+   "para": "p122",
+   "type": "narration",
+   "text": "said Callis.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p123",
+   "type": "narration",
+   "text": "Quietly. As he’d said"
+  },
+  {
+   "seq": 150,
+   "para": "p123",
+   "type": "bond",
+   "text": "Nothing. Feed your box.",
+   "how": "quietly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p124",
+   "type": "narration",
+   "text": "Tobin looked at him from the brake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p125",
+   "type": "speech",
+   "text": "“Go,”"
+  },
+  {
+   "seq": 153,
+   "para": "p125",
+   "type": "narration",
+   "text": "said Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p126",
+   "type": "narration",
+   "text": "Callis went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p127",
+   "type": "narration",
+   "text": "Across the Flat. Through the smoke. Between the engines. Toward the ring. Walking, with his crooked arms at his sides, as he’d walked the gate at Greyhold.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 156,
+   "para": "p128",
+   "type": "narration",
+   "text": "The drum moved again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p129",
+   "type": "narration",
+   "text": "He held it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 158,
+   "para": "p130",
+   "type": "narration",
+   "text": "He didn’t know how long.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p131",
+   "type": "narration",
+   "text": "The seventh pulled. The drum moved, and stopped, and moved. Each time a hand’s breadth. Each time something gave. The band across his chest. The rim on his back. He stopped being able to breathe properly. Then he stopped being able to breathe much at all.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 160,
+   "para": "p132",
+   "type": "narration",
+   "text": "The twenty throwers facing west kept firing. Somebody was firing them. He didn’t know who. Not his. His were gone. Kessmoor’s, maybe. Some of Kessmoor’s. Who’d been told to leave the line and hadn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p133",
+   "type": "narration",
+   "text": "He hoped so.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 162,
+   "para": "p134",
+   "type": "narration",
+   "text": "He thought about Pell. At Greyhold. On the bench, with two fingers gone."
+  },
+  {
+   "seq": 163,
+   "para": "p134",
+   "type": "thought",
+   "text": "You take the wound. You take the risk. You take the long way round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p135",
+   "type": "narration",
+   "text": "He’d asked Pell why, that day. He’d been angry. He’d had a pamphlet in his coat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p136",
+   "type": "remembered",
+   "text": "One again"
+  },
+  {
+   "seq": 166,
+   "para": "p136",
+   "type": "narration",
+   "text": ", it had said. Two words.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p137",
+   "type": "narration",
+   "text": "He thought about bread.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 168,
+   "para": "p138",
+   "type": "narration",
+   "text": "He could see across the eddy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p139",
+   "type": "narration",
+   "text": "Through the smoke. Sideways, from the brake, his cheek on the band. The eddy. The grey water. The great grey shape on its side in the middle, with the chains across it, glowing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 170,
+   "para": "p140",
+   "type": "narration",
+   "text": "The jibs swung again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p141",
+   "type": "narration",
+   "text": "All six. Out. Further. The Bridle hauling. The chains swinging out over the water on their jibs, taut, and the light on every link brighter. Pulling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p142",
+   "type": "narration",
+   "text": "The thing under them moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p143",
+   "type": "narration",
+   "text": "Rising.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 174,
+   "para": "p144",
+   "type": "narration",
+   "text": "And beside it, a hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p145",
+   "type": "narration",
+   "text": "Grey. Stone. In the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p146",
+   "type": "narration",
+   "text": "Sliding.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p147",
+   "type": "narration",
+   "text": "Sideways. Through the smoke. Off its bed. As a hill slides in a flood when the ground under it goes. Slowly. Pushed. A stone hill sliding sideways in the grey water, away from the rising thing under the chains, with its mane trailing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p148",
+   "type": "narration",
+   "text": "The lion.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 179,
+   "para": "p149",
+   "type": "narration",
+   "text": "He watched it slide.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p150",
+   "type": "narration",
+   "text": "He thought: she’s on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p151",
+   "type": "narration",
+   "text": "He thought: I wrote to the Marshal once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p152",
+   "type": "narration",
+   "text": "He thought:"
+  },
+  {
+   "seq": 183,
+   "para": "p152",
+   "type": "thought",
+   "text": "watch him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 184,
+   "para": "p153",
+   "type": "narration",
+   "text": "The drum moved a last time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p154",
+   "type": "narration",
+   "text": "Behind him, under the seventh, something cracked. Iron. The left runner, near the back bolt. Odo’s crack. The engine lurched on its bed, and the pull on the drum went crooked, and slack, for a breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p155",
+   "type": "narration",
+   "text": "He held it.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "890cb9692d0f6c76a63e80494daa1207e4c1d4fb",
+ "segments_sha1": "4c5d7446fa2e525d70c8b13c81445c07dbe22378"
+}

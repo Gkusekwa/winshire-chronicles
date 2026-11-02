@@ -1,0 +1,1355 @@
+{
+ "chapter": 69,
+ "title": "The Stage",
+ "pov": "",
+ "source": "Chapters/Chapter 69 - The Stage.md",
+ "names": [
+  "assembly",
+  "bridle",
+  "college",
+  "corvin",
+  "davin",
+  "deep",
+  "flat",
+  "gannet",
+  "hearthmere",
+  "idony",
+  "ironhythe",
+  "kessmoor",
+  "marshal",
+  "pike",
+  "titan",
+  "tobin",
+  "vale"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Sixty-nine.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Stage.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "He’d asked to be at the hub.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "The Marshal had wanted him in the hay-barn. Or the ferry house, with the door shut and the two knights at it."
+  },
+  {
+   "seq": 5,
+   "para": "p2",
+   "type": "thought",
+   "text": "You’re the only one who can read them"
+  },
+  {
+   "seq": 6,
+   "para": "p2",
+   "type": "narration",
+   "text": ", she’d said, meaning the glasses."
+  },
+  {
+   "seq": 7,
+   "para": "p2",
+   "type": "thought",
+   "text": "I’ll not have you on a wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p3",
+   "type": "narration",
+   "text": "He’d said he wasn’t going on a wall. He was going on the landing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p4",
+   "type": "narration",
+   "text": "So she’d put her staff there.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 10,
+   "para": "p5",
+   "type": "narration",
+   "text": "The ferry-house landing, and the slope above it. Liss’s slope, where her goats had been. Four runners, sitting on the frozen grass with their boots off, rubbing their feet. A signaller from the crown’s river watch with a bag of flags. Two knights, his guard, who’d been guarding him since midwinter and had grown used to it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p6",
+   "type": "narration",
+   "text": "And him, in his chair. Davin had carried it down at dawn and set it on the slope where he could see the eddy. Then Davin had gone, at the third hour, with the lists, to the bend.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p7",
+   "type": "narration",
+   "text": "On his knees, on a board, three glasses.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 13,
+   "para": "p8",
+   "type": "narration",
+   "text": "The Marshal herself was on the wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p9",
+   "type": "narration",
+   "text": "The Hearthmere wall’s river end. Four hundred paces off along the bank, past the Ferry Flat’s western edge, where the knight’s grey rampart came down to the water. On her horse, with two swords at her belt, watching the eddy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p10",
+   "type": "narration",
+   "text": "He could see her from the slope. Small. Still.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 16,
+   "para": "p11",
+   "type": "narration",
+   "text": "He watched the river.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 17,
+   "para": "p12",
+   "type": "narration",
+   "text": "He couldn’t see much. His eyes were old. He could see the light. The Lamp coming up from the shallows on the water, too bright, and going into the eddy. The great grey shape of the Last Titan on its side in the eddy’s middle. The lion standing over it, a hill on a hill, with his forefoot on its neck. The bronze dragon lying in the water beside him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p13",
+   "type": "narration",
+   "text": "And on the lion’s head, two small shapes. Side by side. Close.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p14",
+   "type": "narration",
+   "text": "He’d seen them so on the far shore. At the pool’s corner. Hand in hand like two children.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 20,
+   "para": "p15",
+   "type": "narration",
+   "text": "The glasses climbed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p16",
+   "type": "narration",
+   "text": "He felt it before he saw it. The board on his knees, trembling. He looked down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p17",
+   "type": "narration",
+   "text": "All three. The quicksilver in them going up their throats. Not climbing. Running. Up, and up, to the tops of the glasses, and stopping there. Against the glass. Shaking. As if it wanted out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "narration",
+   "text": "He’d seen glasses do that once. In the College, when he was a boy. The night every glass in the College of Tides broke at once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p19",
+   "type": "narration",
+   "text": "These didn’t break. They shook.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 25,
+   "para": "p20",
+   "type": "narration",
+   "text": "He looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p21",
+   "type": "narration",
+   "text": "The Lamp was on the Last Titan’s back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p22",
+   "type": "narration",
+   "text": "Too bright to see. He saw it anyway, because he’d spent a year learning to look at that light. Standing among the plates. Its head down. Its horn going down. Into the back. Behind the left shoulder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p23",
+   "type": "narration",
+   "text": "The plates parting. He could see a line of red.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 29,
+   "para": "p24",
+   "type": "speech",
+   "text": "“It’s waking,”"
+  },
+  {
+   "seq": 30,
+   "para": "p24",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p25",
+   "type": "narration",
+   "text": "To nobody. The runners looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p26",
+   "type": "speech",
+   "text": "“The relic,”"
+  },
+  {
+   "seq": 33,
+   "para": "p26",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 34,
+   "para": "p26",
+   "type": "speech",
+   "text": "“It knows something unbound is touching it.”"
+  },
+  {
+   "seq": 35,
+   "para": "p26",
+   "type": "narration",
+   "text": "He put his shaking hand over the glasses."
+  },
+  {
+   "seq": 36,
+   "para": "p26",
+   "type": "speech",
+   "text": "“It knows.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 37,
+   "para": "p27",
+   "type": "narration",
+   "text": "Tobin came at the half-hour.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 38,
+   "para": "p28",
+   "type": "narration",
+   "text": "Running. Up from the Flat. Up the slope from the bank, past the runners, black to the elbows with coal, his face grey under the black. He didn’t stop at the knights. He came straight to the chair and went down on his knees on the frozen grass in front of it, out of breath, and took hold of the arm of the chair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p29",
+   "type": "narration",
+   "text": "He’d known Tobin at Orrin. At midwinter. A boy, then, nearly, with a pamphlet in his coat that said"
+  },
+  {
+   "seq": 40,
+   "para": "p29",
+   "type": "bond",
+   "text": "One again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p30",
+   "type": "speech",
+   "text": "“Master Vael,”"
+  },
+  {
+   "seq": 42,
+   "para": "p30",
+   "type": "narration",
+   "text": "said Tobin.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 43,
+   "para": "p31",
+   "type": "speech",
+   "text": "“Callis,”"
+  },
+  {
+   "seq": 44,
+   "para": "p31",
+   "type": "narration",
+   "text": "said Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p32",
+   "type": "narration",
+   "text": "He was gasping. He couldn’t get it out in order. He got it out anyway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p33",
+   "type": "speech",
+   "text": "“Callis told me. At the seventh. Just now. He’s Corvin’s man, he was always, he heard them at Ironhythe, Corvin and the battery-masters, in Pike’s office, he was in the corner with the coal, nobody looks at the man with the coal.”",
+   "how": "very quietly"
+  },
+  {
+   "seq": 47,
+   "para": "p33",
+   "type": "narration",
+   "text": "He breathed."
+  },
+  {
+   "seq": 48,
+   "para": "p33",
+   "type": "speech",
+   "text": "“The packets. The sealed orders. On the hour. He said what they say.”",
+   "how": "very quietly",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 49,
+   "para": "p34",
+   "type": "speech",
+   "text": "“Tell me,”"
+  },
+  {
+   "seq": 50,
+   "para": "p34",
+   "type": "narration",
+   "text": "said Idony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p35",
+   "type": "narration",
+   "text": "Tobin told him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 52,
+   "para": "p36",
+   "type": "thought",
+   "text": "When the relic is in reach, the batteries take it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p37",
+   "type": "thought",
+   "text": "The Bridle’s chains to the Titan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p38",
+   "type": "thought",
+   "text": "The engines to breathe.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p39",
+   "type": "thought",
+   "text": "The reader to the stage.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p40",
+   "type": "thought",
+   "text": "The batteries to leave the line and hold the Bridle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p41",
+   "type": "thought",
+   "text": "On the hour. Without further word.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 58,
+   "para": "p42",
+   "type": "narration",
+   "text": "He sat in his chair with the shaking glasses on his knees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p43",
+   "type": "speech",
+   "text": "“Without further word,”"
+  },
+  {
+   "seq": 60,
+   "para": "p43",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p44",
+   "type": "speech",
+   "text": "“Without the Marshal,”"
+  },
+  {
+   "seq": 62,
+   "para": "p44",
+   "type": "narration",
+   "text": "said Tobin, over him."
+  },
+  {
+   "seq": 63,
+   "para": "p44",
+   "type": "speech",
+   "text": "“Without her word. That’s what he said. On the hour. Whatever she says.”"
+  },
+  {
+   "seq": 64,
+   "para": "p44",
+   "type": "narration",
+   "text": "He was still holding the chair’s arm."
+  },
+  {
+   "seq": 65,
+   "para": "p44",
+   "type": "speech",
+   "text": "“The hour’s noon, master. The Hall’s noon. They set the watches last night. All of them. By Wardle’s.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 66,
+   "para": "p45",
+   "type": "speech",
+   "text": "“Why?”"
+  },
+  {
+   "seq": 67,
+   "para": "p45",
+   "type": "narration",
+   "text": "said Idony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p46",
+   "type": "narration",
+   "text": "He knew why. He didn’t know the rest of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p47",
+   "type": "speech",
+   "text": "“Why do they think they can? The relic doesn’t answer people. It doesn’t answer a bound beast, or a chained one. It only answers a breath with nothing between it and the Deep.”"
+  },
+  {
+   "seq": 70,
+   "para": "p47",
+   "type": "narration",
+   "text": "He looked at the Lamp on the Last Titan’s back."
+  },
+  {
+   "seq": 71,
+   "para": "p47",
+   "type": "speech",
+   "text": "“That’s why the Lamp. That’s the whole plan.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p48",
+   "type": "speech",
+   "text": "“I know. Callis said it,”"
+  },
+  {
+   "seq": 73,
+   "para": "p48",
+   "type": "narration",
+   "text": "said Tobin.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 74,
+   "para": "p49",
+   "type": "speech",
+   "text": "“He said they read it,”"
+  },
+  {
+   "seq": 75,
+   "para": "p49",
+   "type": "narration",
+   "text": "said Tobin."
+  },
+  {
+   "seq": 76,
+   "para": "p49",
+   "type": "speech",
+   "text": "“In the notes. Your notes. That they bought. Off Saltreach.”"
+  },
+  {
+   "seq": 77,
+   "para": "p49",
+   "type": "narration",
+   "text": "He was getting his breath."
+  },
+  {
+   "seq": 78,
+   "para": "p49",
+   "type": "speech",
+   "text": "“It answers a breath that is unbound. He said Corvin laughed when he read it. He said the engineers didn’t. He said the engineers read it, and the bit after it in another hand, and sat up all night with it in Pike’s office, and in the morning Strake said:”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p50",
+   "type": "narration",
+   "text": "He stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p51",
+   "type": "speech",
+   "text": "“Said what?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p52",
+   "type": "speech",
+   "text": "“An engine breathes too,”"
+  },
+  {
+   "seq": 82,
+   "para": "p52",
+   "type": "narration",
+   "text": "said Tobin.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 83,
+   "para": "p53",
+   "type": "speech",
+   "text": "“The Marshal,”"
+  },
+  {
+   "seq": 84,
+   "para": "p53",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 85,
+   "para": "p54",
+   "type": "narration",
+   "text": "He looked at the knights. His guard. Standing on the slope behind his chair, looking at the river, at the Lamp, at the light on the Last Titan’s back, as everyone on the Vale was looking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p55",
+   "type": "speech",
+   "text": "“You,”",
+   "mood": "urgent"
+  },
+  {
+   "seq": 87,
+   "para": "p55",
+   "type": "narration",
+   "text": "he said. To the younger one. The woman with the falcon.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 88,
+   "para": "p55",
+   "type": "speech",
+   "text": "“Go to the Marshal. On the wall. Now. Run. Tell her the batteries open their orders on the hour without her. Tell her the Bridle means to take it. Tell her Tobin said, and Callis. Run.”",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p56",
+   "type": "narration",
+   "text": "She looked at him. Then at Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p57",
+   "type": "narration",
+   "text": "She ran.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 91,
+   "para": "p58",
+   "type": "narration",
+   "text": "He watched her go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p59",
+   "type": "narration",
+   "text": "Down the slope. Along the bank. Toward the Flat’s western edge, and the wall’s river end beyond it, four hundred paces. Running well. A young knight. Her falcon on her shoulder, flapping for balance.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 93,
+   "para": "p60",
+   "type": "narration",
+   "text": "He understood it in a breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p61",
+   "type": "narration",
+   "text": "All of it. At once. As he’d understood the light on the far shore, line by line, and then all at once.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 95,
+   "para": "p62",
+   "type": "thought",
+   "text": "Breath = the Deep. The sleepers’ breathing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p63",
+   "type": "narration",
+   "text": "Gannet’s gloss. In Gannet’s squarer-than-expected hand, on the grass by the columns on the far shore."
+  },
+  {
+   "seq": 97,
+   "para": "p63",
+   "type": "thought",
+   "text": "Thank you, master."
+  },
+  {
+   "seq": 98,
+   "para": "p63",
+   "type": "narration",
+   "text": "He’d been touched.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p64",
+   "type": "thought",
+   "text": "Unbound = nothing holding it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 100,
+   "para": "p65",
+   "type": "narration",
+   "text": "And Kessmoor’s engineers, in Pike’s office, at Ironhythe, with Gannet’s copy and his own margin and a lamp, all night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p66",
+   "type": "narration",
+   "text": "A heartstone engine breathes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p67",
+   "type": "narration",
+   "text": "That was how Kessmoor said it. The Kessmoor word. An engine breathes: it draws on the heartstone in its box, and the heartstone is the Deep pressed into a stone, rendered out of a beast’s heart, and the engine breathes it, and turns, and works.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p68",
+   "type": "narration",
+   "text": "With nothing between.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p69",
+   "type": "narration",
+   "text": "No bond. No beast; the beast was dead, rendered, grit in a tray. No person; nobody worked an engine’s magic, the engine did. No chain on it. No charm. No Grace. No crown’s licence.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p70",
+   "type": "narration",
+   "text": "The Deep. In a box. Breathing. With nothing holding it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p71",
+   "type": "thought",
+   "text": "Unbound.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 107,
+   "para": "p72",
+   "type": "narration",
+   "text": "They weren’t wrong.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p73",
+   "type": "narration",
+   "text": "That was the horror of it. He sat in his chair and the cold went through him. They weren’t wrong enough. An engineer had read a god’s line and read it as an engineer, and the reading wasn’t foolish, or even far off. It was the kind of mistake a clever man makes, and he’d made it himself, a hundred times, at the College.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 109,
+   "para": "p74",
+   "type": "narration",
+   "text": "It might answer.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 110,
+   "para": "p75",
+   "type": "narration",
+   "text": "And the Bridle was the breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p76",
+   "type": "narration",
+   "text": "He saw it now. Twelve engines in a ring. Breathing heartstone. The ring at the middle, with six hollows cut in its inner face. Five egg-shaped. One for each dark sleep relic in the Last Titan’s back. And the sixth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p77",
+   "type": "narration",
+   "text": "The ring had been made to take the whole back. All six. Every relic. The stones the old ones made, and the coal among them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p78",
+   "type": "narration",
+   "text": "And the line of hooked script on the ring’s inner face, from hollow to hollow, that a College engraver had cut at Ironhythe behind a canvas screen. To speak to the chain-ends on the Last Titan’s legs. To their hold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p79",
+   "type": "narration",
+   "text": "And on the ring’s top, a stage. With a stand at its front like a lectern.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p80",
+   "type": "narration",
+   "text": "For a reader.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 116,
+   "para": "p81",
+   "type": "thought",
+   "text": "The reader to the stage.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 117,
+   "para": "p82",
+   "type": "narration",
+   "text": "If it answered.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p83",
+   "type": "narration",
+   "text": "If the relic answered twelve engines breathing, it wouldn’t be the Lamp carrying the six into the light to stop. It would be Kessmoor. Holding them. Holding the stone the six were tied to, in an iron ring, on a Kessmoor stage, with a Kessmoor reader’s hand on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p84",
+   "type": "narration",
+   "text": "Six Titans on a Kessmoor chain.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p85",
+   "type": "narration",
+   "text": "The one realm had fallen for doing exactly that. He’d read it to them himself, in the barn, at the muster. They’d all nodded.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 121,
+   "para": "p86",
+   "type": "narration",
+   "text": "And the Lamp was on the Last Titan’s back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p87",
+   "type": "narration",
+   "text": "With its horn in the plates. Over the coal. Now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p88",
+   "type": "narration",
+   "text": "And every bolt-thrower on the Ferry Flat was pointed at the eddy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p89",
+   "type": "narration",
+   "text": "He couldn’t sit.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 125,
+   "para": "p90",
+   "type": "narration",
+   "text": "He got out of the chair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p91",
+   "type": "narration",
+   "text": "The board went off his knees. The glasses went into the frozen grass, all three, and lay there with their silver shaking at the tops. He left them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p92",
+   "type": "narration",
+   "text": "He stood up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p93",
+   "type": "narration",
+   "text": "His legs shook. They always shook now. He’d been sitting in chairs for most of a year. He’d been carried up hills in slings and onto barges in blankets and down slopes by Davin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p94",
+   "type": "narration",
+   "text": "He ran.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 130,
+   "para": "p95",
+   "type": "narration",
+   "text": "Down the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p96",
+   "type": "narration",
+   "text": "What an old man does with his legs when he wants to run and they won’t. A fast stagger. Down the frozen grass, toward the bank, after the young knight. With his hands out in front of him for balance, shaking. His blanket coming off his shoulders and staying behind on the grass.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p97",
+   "type": "narration",
+   "text": "Tobin beside him. Then ahead of him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 133,
+   "para": "p98",
+   "type": "narration",
+   "text": "He fell at the bottom of the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p99",
+   "type": "narration",
+   "text": "On the bank. His knees. His hands. On the frozen mud. He didn’t feel it much. He’d stopped feeling things much, the knight had said once, about herself. He’d thought she was boasting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p100",
+   "type": "narration",
+   "text": "Tobin came back. Took him under the arms. Pulled him up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p101",
+   "type": "speech",
+   "text": "“I have to go to the battery,”"
+  },
+  {
+   "seq": 137,
+   "para": "p101",
+   "type": "narration",
+   "text": "said Tobin."
+  },
+  {
+   "seq": 138,
+   "para": "p101",
+   "type": "speech",
+   "text": "“The seventh. Callis. The brake.”"
+  },
+  {
+   "seq": 139,
+   "para": "p101",
+   "type": "narration",
+   "text": "His face was very strange."
+  },
+  {
+   "seq": 140,
+   "para": "p101",
+   "type": "speech",
+   "text": "“I have to go, master.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p102",
+   "type": "speech",
+   "text": "“Go,”"
+  },
+  {
+   "seq": 142,
+   "para": "p102",
+   "type": "narration",
+   "text": "said Idony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p103",
+   "type": "narration",
+   "text": "Tobin went. Running. Down onto the Flat. Into the engines.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 144,
+   "para": "p104",
+   "type": "narration",
+   "text": "He ran on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p105",
+   "type": "narration",
+   "text": "Along the bank. Toward the wall’s river end. Past the Flat’s western edge. Three hundred paces. More.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p106",
+   "type": "narration",
+   "text": "He could see the young knight ahead of him. Stopped.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 147,
+   "para": "p107",
+   "type": "narration",
+   "text": "At the Flat’s western edge. By the magazine. The long low iron shed, with its two guards.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p108",
+   "type": "narration",
+   "text": "The Kessmoor guard had his halberd across her road.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p109",
+   "type": "narration",
+   "text": "The Hearthmere guard was looking at the eddy. At the light. He wasn’t looking at anything else. Nobody on the Vale was.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 150,
+   "para": "p110",
+   "type": "narration",
+   "text": "He was close enough to hear.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p111",
+   "type": "speech",
+   "text": "“No passage across the Flat on the hour,”"
+  },
+  {
+   "seq": 152,
+   "para": "p111",
+   "type": "narration",
+   "text": "said the Kessmoor guard. Politely. A young man."
+  },
+  {
+   "seq": 153,
+   "para": "p111",
+   "type": "speech",
+   "text": "“By the Assembly’s order, mistress. Engines working. It’s not safe.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p112",
+   "type": "speech",
+   "text": "“I have a message for the Marshal.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p113",
+   "type": "speech",
+   "text": "“Then go round,”"
+  },
+  {
+   "seq": 156,
+   "para": "p113",
+   "type": "narration",
+   "text": "said the guard."
+  },
+  {
+   "seq": 157,
+   "para": "p113",
+   "type": "speech",
+   "text": "“By the wall’s foot. It’s not far.”"
+  },
+  {
+   "seq": 158,
+   "para": "p113",
+   "type": "narration",
+   "text": "He didn’t move his halberd."
+  },
+  {
+   "seq": 159,
+   "para": "p113",
+   "type": "speech",
+   "text": "“I’m sorry, mistress. The Assembly’s order.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p114",
+   "type": "narration",
+   "text": "She argued. He heard her arguing. She went round. Back. Along the wall’s foot. The long way.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 161,
+   "para": "p115",
+   "type": "narration",
+   "text": "He couldn’t go round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p116",
+   "type": "narration",
+   "text": "He couldn’t go any way. His legs went again. On the bank, by the magazine, thirty paces from the young knight’s back, he went down on his knees on the frozen mud, and couldn’t get up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p117",
+   "type": "narration",
+   "text": "He tried.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p118",
+   "type": "narration",
+   "text": "He couldn’t.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 165,
+   "para": "p119",
+   "type": "narration",
+   "text": "So he knelt there. And looked across the Flat.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 166,
+   "para": "p120",
+   "type": "narration",
+   "text": "The Bridle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p121",
+   "type": "narration",
+   "text": "The twelve engines in their ring. Their fireboxes not banked now. Bright. Red. Roaring. He could hear them. The sound of a Kessmoor yard. Breathing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p122",
+   "type": "narration",
+   "text": "The chains along the cords, in to the ring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p123",
+   "type": "narration",
+   "text": "The six jibs at the eddy’s edge, with the chain-ends on them. The crews at the jibs with their hands on the levers.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p124",
+   "type": "narration",
+   "text": "The crews everywhere. At every engine. At every bolt-thrower. Every one of them standing with a brass watch open in his hand. Looking at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p125",
+   "type": "narration",
+   "text": "Not at the eddy. Not at the light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p126",
+   "type": "narration",
+   "text": "At their watches.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 173,
+   "para": "p127",
+   "type": "narration",
+   "text": "And on the ring’s stage, a man.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 174,
+   "para": "p128",
+   "type": "narration",
+   "text": "Tall. In a grey drover’s coat. He’d climbed the step while Idony was falling. He stood at the iron stand at the stage’s front, over the ring, with one hand on the rail.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p129",
+   "type": "narration",
+   "text": "An iron hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p130",
+   "type": "narration",
+   "text": "He put up his other hand, and took off his hood.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 177,
+   "para": "p131",
+   "type": "narration",
+   "text": "Long pale face. Short dark hair. Grey eyes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p132",
+   "type": "narration",
+   "text": "He didn’t hide. He’d never needed to, on that stage. He stood on it in full daylight on the Ferry Flat in front of the whole line, and took his hood off, and nobody looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p133",
+   "type": "narration",
+   "text": "The crews were looking at their watches.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 180,
+   "para": "p134",
+   "type": "narration",
+   "text": "Corvin looked across the eddy at the light on the Last Titan’s back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p135",
+   "type": "narration",
+   "text": "Then down, at the ring. At its inner face. At the line of hooked script round it, from hollow to hollow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p136",
+   "type": "narration",
+   "text": "He put his iron hand on it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 183,
+   "para": "p137",
+   "type": "speech",
+   "text": "“Rowan,”"
+  },
+  {
+   "seq": 184,
+   "para": "p137",
+   "type": "narration",
+   "text": "said Idony.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 185,
+   "para": "p138",
+   "type": "narration",
+   "text": "He shouted it. He thought he shouted it. He was on his knees on the frozen bank by the magazine, with the cold mud through his knees, three hundred paces from the wall’s river end where she sat her horse looking at the eddy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p139",
+   "type": "speech",
+   "text": "“Rowan.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p140",
+   "type": "narration",
+   "text": "It didn’t carry. Nothing he said carried any more. It went out of him thin and high, and the engines’ roaring took it, and the wind off the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p141",
+   "type": "narration",
+   "text": "She didn’t turn.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 189,
+   "para": "p142",
+   "type": "narration",
+   "text": "The crews’ watches were open in their hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p143",
+   "type": "narration",
+   "text": "He could see the nearest one. A crew-master at the nearest jib, twenty paces off, an older man. The watch in his palm. The hands on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p144",
+   "type": "narration",
+   "text": "Almost together. Almost at the top.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p145",
+   "type": "narration",
+   "text": "A dozen breaths.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 193,
+   "para": "p146",
+   "type": "speech",
+   "text": "“Rowan,”"
+  },
+  {
+   "seq": 194,
+   "para": "p146",
+   "type": "narration",
+   "text": "said Idony, on his knees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p147",
+   "type": "narration",
+   "text": "She didn’t turn.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "da5457f42ea7f5f8a4b050cb44954f6210c30149",
+ "segments_sha1": "2814af0aeb4d005c99008008e175badcfd95f5dc"
+}

@@ -1,0 +1,30 @@
+{
+  "chapter": 61,
+  "pov": "",
+  "auto": true,
+  "generator": "directions 1",
+  "source_sha1": "1fdc53dca39de9724fc2168b1232707ff62caa2b",
+  "spans": {
+    "s1": "speech",
+    "s2": "speech",
+    "s3": "thought",
+    "s4": "speech",
+    "s5": "speech",
+    "s6": "speech",
+    "s7": "speech",
+    "s8": "speech",
+    "s9": "speech",
+    "s10": "speech",
+    "s11": "thought",
+    "s12": "thought",
+    "s13": "thought",
+    "s14": "speech",
+    "s15": "thought",
+    "s16": "thought",
+    "s17": "remembered",
+    "s18": "thought"
+  },
+  "paragraphs": {
+    "p87": "quiet"
+  }
+}

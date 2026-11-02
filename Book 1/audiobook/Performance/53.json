@@ -2,6 +2,22 @@
  "chapter": 53,
  "title": "The Pit",
  "pov": "Maren",
+ "source": "Chapters/Chapter 53 - The Pit.md",
+ "names": [
+  "beck",
+  "ewe",
+  "greyhold",
+  "hale",
+  "harrow",
+  "hearthmere",
+  "maren",
+  "ottery",
+  "pell",
+  "redwatch",
+  "rowan",
+  "saltreach",
+  "turnip"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1485,5 +1501,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "e4d779f7cec63593dd4be01907ea6ca4d4dcbd9f",
+ "segments_sha1": "032615fb8ec7639b40346e6b6b9bd542143081cd"
 }

@@ -2,6 +2,39 @@
  "chapter": 24,
  "title": "Hunted",
  "pov": "Calder",
+ "source": "Chapters/Chapter 24 - Hunted.md",
+ "names": [
+  "ada",
+  "arn",
+  "askell",
+  "aurveth",
+  "calder",
+  "corrin",
+  "cotter",
+  "cross",
+  "crow",
+  "dag",
+  "drover",
+  "fellwood",
+  "fenn",
+  "gorm",
+  "hob",
+  "kharrak",
+  "lisska",
+  "marches",
+  "raske",
+  "rush",
+  "saltreach",
+  "scar",
+  "scarfell",
+  "sigrun",
+  "sten",
+  "ulric",
+  "varr",
+  "varrhold",
+  "wendmouth",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -2541,5 +2574,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "fa12d748e6dd4a65357e61d78cf467c8a6e96bcc",
+ "segments_sha1": "21d1c942621810b7f1f303afa999b500cee78502"
 }

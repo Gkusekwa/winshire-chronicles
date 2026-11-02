@@ -2,6 +2,17 @@
  "chapter": 43,
  "title": "Footprints",
  "pov": "Maren",
+ "source": "Chapters/Chapter 43 - Footprints.md",
+ "names": [
+  "greyhold",
+  "harrow",
+  "marches",
+  "maren",
+  "ottery",
+  "rowan",
+  "ruin",
+  "saltreach"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -970,5 +981,8 @@
    "text": "She went in and picked up the fork.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "0c3a9eae9a039d6cb36a3b5a0ee417021b7ba453",
+ "segments_sha1": "1089eb7267605daec74b4bc5947fbd69343dd2d3"
 }

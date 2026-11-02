@@ -2,6 +2,18 @@
  "chapter": 25,
  "title": "The Midden",
  "pov": "Maren",
+ "source": "Chapters/Chapter 25 - The Midden.md",
+ "names": [
+  "ashdown",
+  "darrow",
+  "greyhold",
+  "grieve",
+  "hale",
+  "liss",
+  "maren",
+  "ottery",
+  "rowan"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1371,5 +1383,8 @@
    "text": "She hadn’t. She’d only heard of him. A farmer, in a burned field, among three dragons.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "319f8e93238e4d1a33bbb7bee9fa2802953bc2f7",
+ "segments_sha1": "9e7836807749e005896fbbcba6b3886641be437b"
 }

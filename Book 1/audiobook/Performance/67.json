@@ -2,6 +2,19 @@
  "chapter": 67,
  "title": "Muster",
  "pov": "Maren",
+ "source": "Chapters/Chapter 67 - Muster.md",
+ "names": [
+  "brackenwood",
+  "fenn",
+  "greyhold",
+  "hale",
+  "hollin",
+  "kettle",
+  "millbrook",
+  "redwatch",
+  "rowan",
+  "saltreach"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -837,5 +850,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "ad9518a527a08d5cf080bb8e608a60673810c3f8",
+ "segments_sha1": "e8f14f602ef34d5a2740a53309fe88887e90992f"
 }

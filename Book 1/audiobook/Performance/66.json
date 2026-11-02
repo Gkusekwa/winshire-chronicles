@@ -2,6 +2,22 @@
  "chapter": 66,
  "title": "The Ruin",
  "pov": "Calder",
+ "source": "Chapters/Chapter 66 - The Ruin.md",
+ "names": [
+  "ada",
+  "aurveth",
+  "calder",
+  "eelweir",
+  "fellwood",
+  "fisk",
+  "harrow",
+  "joss",
+  "kharrak",
+  "lisska",
+  "ram",
+  "scar",
+  "tidesteps"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1356,5 +1372,8 @@
    "text": "Below him, by the arch, somebody laughed, and somebody else shushed them, and the tall man’s quiet voice said something, and the island went on filling with men as the light went.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "0d9014d5215c914129194c36bd76c9e819ba7946",
+ "segments_sha1": "9ebe54beb9fee962047e594540506df79cb5a4f0"
 }

@@ -1,0 +1,1356 @@
+{
+ "chapter": 27,
+ "title": "The Drain",
+ "pov": "",
+ "source": "Chapters/Chapter 27 - The Drain.md",
+ "names": [
+  "antlered",
+  "college",
+  "crown",
+  "dane",
+  "glasswater",
+  "hearthmere",
+  "hesper",
+  "idony",
+  "keeper",
+  "keepers",
+  "marr",
+  "millbrook",
+  "moot",
+  "nessa",
+  "plains",
+  "tamm",
+  "thornwood",
+  "titan",
+  "vael",
+  "worldsend",
+  "wyldmarch"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Twenty-seven.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Drain.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "Ysolde Marr came into the Moot on foot on the hundred-and-sixth day, with two Wardens behind her and no lynx.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "Idony saw her coming down the slope from the forest’s edge in the morning, past the wrecked roundhouse in the seventh lane. He knew her by the grey hair and the way she walked, very straight, as if her spine were a rune somebody had cut. Her blue robe was torn and black down one side. The two behind her were limping.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "He went up the slope to meet her. He thought she’d want to tell somebody, and he was the only one of them there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "She stopped in front of him and looked at him for a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "speech",
+   "text": "“The lamps,”"
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": "He waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "speech",
+   "text": "“He set them on the night before. On the forest’s edge, a league north, where your glass said. The three that were left. Five of us kneeling by them.”"
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "narration",
+   "text": "She was very calm."
+  },
+  {
+   "seq": 12,
+   "para": "p7",
+   "type": "speech",
+   "text": "“To bind it as it rose. Weak. Before it knew itself. That was what he said.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p8",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p9",
+   "type": "speech",
+   "text": "“It stood,”"
+  },
+  {
+   "seq": 15,
+   "para": "p9",
+   "type": "narration",
+   "text": "said Ysolde Marr."
+  },
+  {
+   "seq": 16,
+   "para": "p9",
+   "type": "speech",
+   "text": "“And the ground came up through the lamps.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p10",
+   "type": "narration",
+   "text": "She held up her hands. They were burned. Both of them, the palms, red and blistered in lines, like the lines of runes cut into crystal.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p11",
+   "type": "speech",
+   "text": "“They broke,”"
+  },
+  {
+   "seq": 19,
+   "para": "p11",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 20,
+   "para": "p11",
+   "type": "speech",
+   "text": "“All three. At once. The surge went into them and through them and they broke, and the five of us by them were thrown. Two didn’t get up.”"
+  },
+  {
+   "seq": 21,
+   "para": "p11",
+   "type": "narration",
+   "text": "She lowered her hands."
+  },
+  {
+   "seq": 22,
+   "para": "p11",
+   "type": "speech",
+   "text": "“And Frost ran.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p12",
+   "type": "narration",
+   "text": "Her lynx. Idony remembered it standing on the northern path in the sweet smoke with its eyes empty for a count of eleven.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p13",
+   "type": "speech",
+   "text": "“With the beasts,”"
+  },
+  {
+   "seq": 25,
+   "para": "p13",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 26,
+   "para": "p13",
+   "type": "speech",
+   "text": "“When they came out of the forest. She ran with them, west. She didn’t look at me.”"
+  },
+  {
+   "seq": 27,
+   "para": "p13",
+   "type": "narration",
+   "text": "Ysolde’s face didn’t change."
+  },
+  {
+   "seq": 28,
+   "para": "p13",
+   "type": "speech",
+   "text": "“She didn’t come back.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p14",
+   "type": "narration",
+   "text": "He didn’t know what to say. He said nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p15",
+   "type": "speech",
+   "text": "“Magister Dane is alive,”"
+  },
+  {
+   "seq": 31,
+   "para": "p15",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 32,
+   "para": "p15",
+   "type": "speech",
+   "text": "“Burned on both hands, worse than mine. He’s gone west for Vael, with what’s left. Pask and the Scribes and the mules.”"
+  },
+  {
+   "seq": 33,
+   "para": "p15",
+   "type": "narration",
+   "text": "She looked at him."
+  },
+  {
+   "seq": 34,
+   "para": "p15",
+   "type": "speech",
+   "text": "“He said to tell you you’ll answer to the Council.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p16",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 36,
+   "para": "p16",
+   "type": "narration",
+   "text": "said Idony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p17",
+   "type": "narration",
+   "text": "She looked at him a moment longer. Then she nodded, once, very slightly, as if he’d said something she approved of, and went on down the slope to the water.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 38,
+   "para": "p18",
+   "type": "narration",
+   "text": "The surge went down at the Moot over three days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p19",
+   "type": "narration",
+   "text": "He watched it go on the glasses. He’d set the four of them out on the flat stone by the shingle where he’d watched them climb on the night before the waking, and every morning and every evening he sat by them and wrote down where the quicksilver stood.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p20",
+   "type": "narration",
+   "text": "It fell slowly, where it had risen all at once at the end. It went down as a flood goes off a field: the water standing a long time, and then, so slowly you can’t see it move, going, a little lower every time you look, until one morning there’s mud where there was water and the field’s still there under it, flattened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p21",
+   "type": "narration",
+   "text": "The Antlered’s draw went with it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p22",
+   "type": "narration",
+   "text": "He could see that too. On the green glasses, the ones he’d turned north and east. A great slow moving pull, going away from the Moot. North-east first, into the deep Thornwood. Then, over the three days, east. Toward the Worldsend. Slow. A walking pace. A stag’s walking pace, if a stag were the size of a hill and took a step every hundred breaths.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p23",
+   "type": "narration",
+   "text": "As it went, it drew. Not the way the Last Titan drew, lying on the Ring, drinking from the stones. Differently. As if it were breathing in as it walked and taking the breath with it. As if the Deep under the forest were its breath, and it had lain on it for a thousand years, and now it had got up and was taking it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p24",
+   "type": "narration",
+   "text": "He wrote that down. Then he wrote:"
+  },
+  {
+   "seq": 45,
+   "para": "p24",
+   "type": "written",
+   "text": "taking it where?"
+  },
+  {
+   "seq": 46,
+   "para": "p24",
+   "type": "narration",
+   "text": "And didn’t know.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 47,
+   "para": "p25",
+   "type": "narration",
+   "text": "On the hundred-and-eighth day the drain came.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p26",
+   "type": "narration",
+   "text": "He knew it by the knots.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p27",
+   "type": "narration",
+   "text": "He was sitting by the glasses in the morning, and two Keepers came down to the shingle to look at the boats. A man and a woman, with cords at their belts. They’d been at the Moot when the beasts came; the man had stood in the fourth lane and lived. The woman knelt on the shingle and took a cord from her belt and tied a knot in it, as Hesper had tied hers. Three turns, a twist, a word. He knew it now. He’d watched Hesper tie it every morning in the grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p28",
+   "type": "narration",
+   "text": "She held it loose in her hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p29",
+   "type": "narration",
+   "text": "It lay there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p30",
+   "type": "narration",
+   "text": "She looked at it. She tied it again. Three turns, a twist, the word. It lay in her palm like string.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p31",
+   "type": "narration",
+   "text": "The man beside her took a cord from his own belt and tied it. String.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p32",
+   "type": "narration",
+   "text": "They knelt on the shingle and looked at the two pieces of string in their hands, and then at each other, and then, slowly, both of them, at Idony sitting on his rock by the glasses.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p33",
+   "type": "narration",
+   "text": "He looked at the glasses.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p34",
+   "type": "narration",
+   "text": "The quicksilver lay in the bottoms of all four.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 57,
+   "para": "p35",
+   "type": "narration",
+   "text": "It wasn’t the grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p36",
+   "type": "narration",
+   "text": "That was the first thing he had to make himself understand, and it took him all morning. The stir had been grey. The trees grey, the grass grey, the birds grey and not rotting, the colour taken out of everything, because the Last Titan was lying on the Ring drinking it. That had been a beast drinking. You could see it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p37",
+   "type": "narration",
+   "text": "This you couldn’t see.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p38",
+   "type": "narration",
+   "text": "The trees round the Moot were green. The grass was green. The lake was blue under the summer sky. The birds were coming back into the Thornwood behind the Moot, in ones and twos, the ones that had fled west in the cloud on the morning of the waking. Everything looked the way it had always looked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p39",
+   "type": "narration",
+   "text": "And it was dead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p40",
+   "type": "narration",
+   "text": "Hearthmere’s kind of dead. He’d read about it all his life in the commentaries and seen it on his charts as a hole and stood on its edge on the sixty-first day with one foot on green and one on grey. But that was the stir’s dead. This was the other. The dead the College had a word for, an old word, that he’d never thought he’d use about anywhere but the far side of the Wend: drained.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 63,
+   "para": "p41",
+   "type": "narration",
+   "text": "He walked round the Moot all afternoon with the field-glass, setting it down on the grass. Dead. Dead. Dead.",
+   "mood": "grief",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 64,
+   "para": "p42",
+   "type": "narration",
+   "text": "The Keepers’ charms failed one by one, that day and the next.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p43",
+   "type": "narration",
+   "text": "He saw it happen, and wrote it down, because that was what he did, and because writing it down was the only thing that kept him from sitting on the shingle and not getting up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p44",
+   "type": "narration",
+   "text": "The knots first. Every Keeper at the Moot, kneeling, tying, holding the cord loose, and string.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p45",
+   "type": "narration",
+   "text": "The hearth-songs. At dusk, all along the slope, the women of the clans sang over their fires to light them, as they had every night of the Moot. They sang, and the fires didn’t light. They looked at the cold wood. Somebody went for a flint.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p46",
+   "type": "narration",
+   "text": "The moss.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p47",
+   "type": "narration",
+   "text": "Elder Aun had given Hesper’s bag to Maren, on the night after. The hide bag, with what was left of the grey-green moss in it, and the green cord. Maren had packed some into a Keeper’s arm, a man who’d been gored in the second lane. On the hundred-and-sixth day, in the last of the surge, the wound had closed. On the night of the hundred-and-eighth it opened again. The Keeper woke up in the dark with his arm wet and the moss in it only moss, grey-green, damp, smelling of stone and rain, doing nothing at all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p48",
+   "type": "narration",
+   "text": "Maren had come down to the shingle with the bag in her hand and stood by Idony’s rock and looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p49",
+   "type": "speech",
+   "text": "“It worked,”"
+  },
+  {
+   "seq": 72,
+   "para": "p49",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 73,
+   "para": "p49",
+   "type": "speech",
+   "text": "“In the surge. On his arm. On your head.”"
+  },
+  {
+   "seq": 74,
+   "para": "p49",
+   "type": "narration",
+   "text": "She turned the bag over in her fingers."
+  },
+  {
+   "seq": 75,
+   "para": "p49",
+   "type": "speech",
+   "text": "“Now it’s moss.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p50",
+   "type": "speech",
+   "text": "“The ground’s not the same ground,”"
+  },
+  {
+   "seq": 77,
+   "para": "p50",
+   "type": "narration",
+   "text": "said Idony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p51",
+   "type": "narration",
+   "text": "She looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p52",
+   "type": "speech",
+   "text": "“The moss is the same moss,”"
+  },
+  {
+   "seq": 80,
+   "para": "p52",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 81,
+   "para": "p52",
+   "type": "speech",
+   "text": "“I wrote that down. The day it closed my head.”"
+  },
+  {
+   "seq": 82,
+   "para": "p52",
+   "type": "narration",
+   "text": "He touched the pink line under his hair."
+  },
+  {
+   "seq": 83,
+   "para": "p52",
+   "type": "speech",
+   "text": "“The moss is the same moss. The ground is not the same ground.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 84,
+   "para": "p53",
+   "type": "narration",
+   "text": "The boats sank on the night of the hundred-and-ninth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p54",
+   "type": "narration",
+   "text": "Three of them. The river clans’ round hide boats, drawn up at their moorings in the shallows at the lake’s edge, as they’d been drawn up every night of the Moot. Every one of them had a charm on it. Idony had asked. A word said over the hide when it was stretched on the frame, and said again every spring, so the water wouldn’t come through. A river-clan woman had told him it was the oldest word her people had. Older than their names.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p55",
+   "type": "narration",
+   "text": "In the morning three of the boats were on the bottom, in a fathom of water, with the lake lying in them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p56",
+   "type": "narration",
+   "text": "The others were wet inside. Sodden. The hide sagging on the frames like wet cloth. The river clans dragged them up the shingle and turned them over and stood round them, looking at the water running out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p57",
+   "type": "narration",
+   "text": "The wells tasted of iron.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p58",
+   "type": "narration",
+   "text": "The Moot’s wells, three of them, on the slope behind the roundhouses, dug every year when the clans came and filled in every year when they went. Sweet water, every midsummer for as long as there’d been a Moot. On the hundred-and-ninth day the water came up out of them brown and tasting of iron, like blood in your mouth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p59",
+   "type": "narration",
+   "text": "He wrote it all down.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 91,
+   "para": "p59",
+   "type": "thought",
+   "text": "Day 109. Boat-charms fail; three boats sink. Wells: iron. As at Millbrook",
+   "mood": "reflective"
+  },
+  {
+   "seq": 92,
+   "para": "p59",
+   "type": "narration",
+   "text": ", he wrote, and then stopped, because he’d only read about Millbrook’s sour well in a Hearthmere scholar’s letter to the College, years ago, a letter the College had filed and told him not to bother with.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 93,
+   "para": "p59",
+   "type": "thought",
+   "text": "As in Hearthmere",
+   "mood": "reflective"
+  },
+  {
+   "seq": 94,
+   "para": "p59",
+   "type": "narration",
+   "text": ", he wrote instead.",
+   "mood": "reflective",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 95,
+   "para": "p60",
+   "type": "narration",
+   "text": "The hollow owls wouldn’t fly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p61",
+   "type": "narration",
+   "text": "He hadn’t known about that until Elder Morwen told him. Through a Keeper who had some of the common tongue. The Keepers’ messengers, the great pale owls as tall as children, that had sat on the Ring’s stones and left on midsummer night and never come back: there were others. Dozens. At every Keeper’s oak and platform from the Worldsend to the Plains. They carried the Keepers’ words at night, from oak to oak, across the Thornwood, as the Isvaren colleges used lantern owls and the knights used falcons.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p62",
+   "type": "narration",
+   "text": "They wouldn’t fly over dead ground.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p63",
+   "type": "narration",
+   "text": "Morwen said it as if everybody knew it. Hollow owls flew where the ground was alive under them, and nowhere else. Nobody knew why. They always had.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p64",
+   "type": "narration",
+   "text": "By the hundred-and-tenth day, no owl had come into the Moot for two nights. None had gone out. The Keepers sat by their cold fires in the evenings and looked at the empty sky over the Thornwood and didn’t say anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p65",
+   "type": "narration",
+   "text": "Nobody at the Moot knew what was happening a day’s walk away.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 101,
+   "para": "p66",
+   "type": "narration",
+   "text": "He left on the hundred-and-tenth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p67",
+   "type": "narration",
+   "text": "He hadn’t meant to go so soon. He’d meant to stay and measure it. But the glasses told him what they told him, and on the hundred-and-tenth day the other draw moved, the one he’d been watching since midsummer night, and he knew he couldn’t measure that from here.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p68",
+   "type": "narration",
+   "text": "The horse clans lent him a horse. A brown mare, short and shaggy, with a temper, and a boy to ride with him as far as the Plains’ edge and bring the mare back. Tamm, his name was. Fourteen, perhaps. With the red bars on his cheeks and a bow on his back and no common tongue at all, and a grin that said everything he needed it to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p69",
+   "type": "narration",
+   "text": "Maren came down to the shingle in the grey of the morning to see him go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p70",
+   "type": "narration",
+   "text": "She’d been sitting by the lion since the lanes. He’d only begun to eat again the day before. He lay by the fire on the slope where he’d lain down after the lanes, with his head on his paws and his eyes half open, and she sat beside him with her hand on his neck, and when people came near she looked at them as if she didn’t see them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p71",
+   "type": "narration",
+   "text": "She came down to the shingle anyway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Where’s it gone?”"
+  },
+  {
+   "seq": 108,
+   "para": "p72",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p73",
+   "type": "narration",
+   "text": "He didn’t need to ask which.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p74",
+   "type": "speech",
+   "text": "“West,”"
+  },
+  {
+   "seq": 111,
+   "para": "p74",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 112,
+   "para": "p74",
+   "type": "speech",
+   "text": "“It’s been going west since the Ring. Slowly. Wandering. As if it’s looking for something.”"
+  },
+  {
+   "seq": 113,
+   "para": "p74",
+   "type": "narration",
+   "text": "He looked at the green glass in his hand."
+  },
+  {
+   "seq": 114,
+   "para": "p74",
+   "type": "speech",
+   "text": "“I’ll know more in a week. When I’m further west. When it stops.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p75",
+   "type": "speech",
+   "text": "“It’ll stop?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p76",
+   "type": "speech",
+   "text": "“It stopped at the Ring.”"
+  },
+  {
+   "seq": 117,
+   "para": "p76",
+   "type": "narration",
+   "text": "He put the glass in the crate."
+  },
+  {
+   "seq": 118,
+   "para": "p76",
+   "type": "speech",
+   "text": "“It’ll stop somewhere else.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p77",
+   "type": "narration",
+   "text": "She looked west. Over the lake, over the hills.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p78",
+   "type": "speech",
+   "text": "“I’ll follow it,”"
+  },
+  {
+   "seq": 121,
+   "para": "p78",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p79",
+   "type": "speech",
+   "text": "“I know.”"
+  },
+  {
+   "seq": 123,
+   "para": "p79",
+   "type": "narration",
+   "text": "He put the strap of the crate over his shoulder. He didn’t know how to say what he wanted to say. He’d never known. He said what he could."
+  },
+  {
+   "seq": 124,
+   "para": "p79",
+   "type": "speech",
+   "text": "“I’ll see you on my glasses.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p80",
+   "type": "narration",
+   "text": "She looked at him. For a moment something happened in her face that he thought, afterwards, might have been nearly a smile.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Will you know it’s me?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p82",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 128,
+   "para": "p82",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 129,
+   "para": "p82",
+   "type": "speech",
+   "text": "“You’re the only thing on them that gives back.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 130,
+   "para": "p83",
+   "type": "narration",
+   "text": "He measured the drain all the way west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p84",
+   "type": "narration",
+   "text": "Every half-day’s ride, he made Tamm stop, and got down off the brown mare, and took the field-glass out of its case and set it on the ground, and waited, and looked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p85",
+   "type": "narration",
+   "text": "Dead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p86",
+   "type": "narration",
+   "text": "The Thornwood’s edge, the first afternoon. Dead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p87",
+   "type": "narration",
+   "text": "The Plains, the next morning, in the long green grass, with the stonehorn herds grazing and the standing stones going by. Dead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p88",
+   "type": "narration",
+   "text": "The Speaking Stones, on the hundred-and-eleventh day, at noon. He made Tamm wait, and walked up the rise between the stones into the horseshoe, and put his hand flat on the tallest of the seven, where Hesper had stood beside the lion on the day the clans asked what he was. The stone was cold. It didn’t hum. He’d been told it had hummed, for the lion, so loud the elk shifted. It was a stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p89",
+   "type": "narration",
+   "text": "He set the glass on the flat stone in the horseshoe’s mouth. Dead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p90",
+   "type": "narration",
+   "text": "Further west. Dead. And further. The Plains going on, green, under a high summer sky, with nothing wrong with them that anyone could see, and the glass lying dead every time he set it down.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 138,
+   "para": "p91",
+   "type": "narration",
+   "text": "On the hundred-and-fourteenth day, at the Plains’ western edge, where the grass began to give way to the first low hills and the High Crown’s foothills were a line of blue in the north, he set it down on the ground and the quicksilver lifted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p92",
+   "type": "narration",
+   "text": "A hair. Off the bottom. And stayed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p93",
+   "type": "narration",
+   "text": "He sat in the grass beside it for a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p94",
+   "type": "narration",
+   "text": "A hundred leagues. More. From the Worldsend to the Plains’ western edge, from the Thornwood to the hills: the whole Wyldmarch. Dead. Drained. Like Hearthmere. In ten days.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 142,
+   "para": "p95",
+   "type": "narration",
+   "text": "He wrote the sentence that evening.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p96",
+   "type": "narration",
+   "text": "He didn’t plan to. He was sitting with his back against a standing stone at the Plains’ edge, a lone one, a grave-stone, Tamm said, though Tamm said everything with his hands. The sun going down red in the west over the hills. The brown mare grazing. Tamm asleep in the grass with his bow under his head. Idony had the silk out, on his knee, and the pen, and the horn of ink, and he was writing down the day’s numbers as he always did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p97",
+   "type": "narration",
+   "text": "Then he stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p98",
+   "type": "narration",
+   "text": "He looked at the numbers. The stir, at the Ring: the grey, the full stones, the drain with a full cup at its mouth, the Last Titan drinking. The surge, after it took the relic: the green coming back, the wards blazing, the moss healing in a night, Pask’s white hair. The waking: the stag standing up out of the forest, and the forest standing up with it. And the drain: the Antlered walking away east, taking its breath, and the Wyldmarch going dead behind it for a hundred leagues.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p99",
+   "type": "narration",
+   "text": "Three things. One after another. Always in that order.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p100",
+   "type": "narration",
+   "text": "He wrote it. In the silk, first. In the smallest hand he had.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p101",
+   "type": "thought",
+   "text": "A waking is a stir, a flood, and then a famine.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p102",
+   "type": "narration",
+   "text": "He looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p103",
+   "type": "narration",
+   "text": "It was a sentence. One line. He’d written thousands of lines in eleven years. Forty-one ledgers. Numbers, readings, glasses, dates, commentaries, quotations, footnotes he never wrote down. Every one of them true, as far as it went. Every one of them a measurement of something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p104",
+   "type": "narration",
+   "text": "This was the first one that said what the measurements were for.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p105",
+   "type": "narration",
+   "text": "He knew it was true. He’d seen all three. He knew nobody had written it before; he’d read every commentary in the College and none of them had it, because none of them had ever seen a waking, and the ones that guessed had guessed wrong. And he knew, sitting against the grave-stone in the red evening with the sentence in front of him, that every temple from here to wherever the Last Titan was going would go the same way. Stir. Flood. Famine. Every kingdom.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p106",
+   "type": "narration",
+   "text": "He’d spent his life wanting to be the first to know something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p107",
+   "type": "narration",
+   "text": "He sat there and found that he didn’t like it nearly as much as he’d thought he would.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 155,
+   "para": "p108",
+   "type": "narration",
+   "text": "He followed the other draw for four days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p109",
+   "type": "narration",
+   "text": "The Last Titan’s. The one that had flown west from the Ring on midsummer night, low, with something in its jaws, under the stars. He’d been watching it on the green glasses every night since, in the wreck at the sink, at the Moot, on the shingle. A great moving pull, at the western edge of his charts, going west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p110",
+   "type": "narration",
+   "text": "It hadn’t gone straight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p111",
+   "type": "narration",
+   "text": "It had wandered. For two weeks. West, and then south a little, and then west again, and then north, slowly, back and forth, like a dog quartering a field for a scent. As if it were looking for something and didn’t know quite where it was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p112",
+   "type": "narration",
+   "text": "On the hundred-and-fourteenth day it turned north-west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p113",
+   "type": "narration",
+   "text": "He was still at the Plains’ edge, with Tamm and the mare. He saw it turn on the glasses that same evening. A long slow curve. North-west. Steady. Not wandering any more.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p114",
+   "type": "narration",
+   "text": "On the hundred-and-sixteenth day it stopped moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p115",
+   "type": "narration",
+   "text": "He saw that too. The pull, at the very edge of the charts, that had been moving for eighteen days: still. Not gone. Still. A great draw in one place, a long way north-west, under the High Crown.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p116",
+   "type": "narration",
+   "text": "On the hundred-and-eighteenth day it began to settle.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 164,
+   "para": "p117",
+   "type": "narration",
+   "text": "He knew what that looked like now. He’d seen it at the Ring. He’d watched it for eighty days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p118",
+   "type": "narration",
+   "text": "The pull, still, in one place, beginning to draw. The Deep round it running toward it, a little, from every side. The glasses nearest it beginning, very slowly, to fall. A drain, opening. And at its mouth, though he couldn’t see it from here, he knew there’d be a cup. Old stone, filling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p119",
+   "type": "narration",
+   "text": "He did the lines. He did them three times, sitting in the road at the foot of the High Crown in the evening with the glasses in a row on a flat stone and Tamm watching him with his chin on his knees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p120",
+   "type": "narration",
+   "text": "They crossed at Glasswater.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p121",
+   "type": "narration",
+   "text": "At Vael. Under his own city. Under the College hill and the Long Library and the Hall of Rings and the attic under the sloping roof where he’d watched the hole under Hearthmere for eleven years. Under his own lake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p122",
+   "type": "narration",
+   "text": "Under Nessa’s ferry.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p123",
+   "type": "narration",
+   "text": "He saw it as clearly as if he were standing on the jetty. The Heron, broad-beamed, with her lugsail furled, rocking at the ferry steps. The lantern owl in its wicker cage on the prow, with its eyes back to their ordinary amber. And nailed beside the cage, the little tin serpent coiled in a ring, the Lady-token that every Glasswater ferry carried, that their mother had touched every time she pushed off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p124",
+   "type": "remembered",
+   "text": "You’re going to measure the thing that ate a kingdom’s lamps,"
+  },
+  {
+   "seq": 172,
+   "para": "p124",
+   "type": "narration",
+   "text": "Nessa had said, with her hand on the token."
+  },
+  {
+   "seq": 173,
+   "para": "p124",
+   "type": "remembered",
+   "text": "Have you thought about what it’ll eat next?",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p125",
+   "type": "narration",
+   "text": "It was sitting down on the lake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p126",
+   "type": "narration",
+   "text": "The next stir.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 176,
+   "para": "p127",
+   "type": "narration",
+   "text": "He looked for the walker that night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p128",
+   "type": "narration",
+   "text": "He’d been looking for it every night since the Moot. Since he’d ridden away from the shingle and left the knight sitting by the lion who wouldn’t eat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p129",
+   "type": "narration",
+   "text": "He turned the green glass south and east, back the way he’d come. Across the Plains. Toward the Moot. And watched.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p130",
+   "type": "narration",
+   "text": "It was there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p131",
+   "type": "narration",
+   "text": "A long way behind him. Small, at the edge of the glass’s reach. A draw that came and went, came and went. A step, and a step. Taking a mouthful of the Deep, and giving it back, a mouthful at a time. The only draw on his whole chart, from the Worldsend to the High Crown, that gave back what it took.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p132",
+   "type": "narration",
+   "text": "Going west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p133",
+   "type": "narration",
+   "text": "He watched it take three steps. Four. A little further west each time, at the Plains’ far edge, where the dead ground ran out and nothing else on his glasses moved at all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p134",
+   "type": "narration",
+   "text": "He took out the silk and wrote:"
+  },
+  {
+   "seq": 184,
+   "para": "p134",
+   "type": "written",
+   "text": "Day 118. The walker: west, at the Plains’ edge. Following.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p135",
+   "type": "narration",
+   "text": "He looked at the word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p136",
+   "type": "narration",
+   "text": "Then he crossed out following, very neatly, with a single line, as he crossed out a reading he’d got wrong. And wrote above it, small:"
+  },
+  {
+   "seq": 187,
+   "para": "p136",
+   "type": "written",
+   "text": "coming.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 188,
+   "para": "p137",
+   "type": "narration",
+   "text": "He left Tamm at the foot of the High Crown road in the morning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p138",
+   "type": "narration",
+   "text": "The boy would take the brown mare back to the Moot, across the dead Plains, to his people, who’d be breaking up the Moot by now and going home to a Wyldmarch where the knots didn’t hold and the moss was moss and the owls wouldn’t fly. Tamm grinned at him and put two fingers to his painted cheek and said something in his own tongue that Idony didn’t understand, and turned the mare, and rode away east.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p139",
+   "type": "narration",
+   "text": "Idony stood in the road with the crate on his shoulder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p140",
+   "type": "narration",
+   "text": "North-west, up the road, the High Crown. White at the top, even in summer. Over it, beyond it, a long way, Vael. The College. The Council, that he’d answer to. Quell’s dry voice:"
+  },
+  {
+   "seq": 192,
+   "para": "p140",
+   "type": "thought",
+   "text": "not a subject for study."
+  },
+  {
+   "seq": 193,
+   "para": "p140",
+   "type": "narration",
+   "text": "Dane, coming home ahead of him with burned hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p141",
+   "type": "narration",
+   "text": "And under it all, the lake. With something lying down on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p142",
+   "type": "narration",
+   "text": "He started walking.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "8141530d2f56699e466719a57b40ed9746d969ba",
+ "segments_sha1": "ed8291ddd12b3e668dfb9a3bb6bc6371f029aac8"
+}

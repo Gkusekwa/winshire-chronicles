@@ -1,0 +1,1575 @@
+{
+ "chapter": 8,
+ "title": "Second Ring",
+ "pov": "",
+ "source": "Chapters/Chapter 08 - Second Ring.md",
+ "names": [
+  "beatrix",
+  "crown",
+  "dane",
+  "gallery",
+  "glasswater",
+  "hall",
+  "hearthmere",
+  "idony",
+  "library",
+  "nessa",
+  "quell",
+  "scribes",
+  "third",
+  "thornwood",
+  "tides",
+  "titan",
+  "vael",
+  "wyldmarch"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Eight.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Second Ring.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The Hall of Rings was round, and the table in it was round, and on the table in front of each of the seven masters of Vael’s seven colleges lay a ring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "Idony had never been inside. Second rings didn’t go into the Hall of Rings. They stood outside it, in the long cold corridor with the portraits, and waited to be called, and most of them were never called, and went home at dusk. He’d waited in the corridor since the second bell of the morning. It was past noon. His feet were cold and his hands were cold and the hem of his winter coat, which he was wearing although it was spring and the corridor stank of other people’s sweat, was heavy against his shins with what was sewn into it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "The door opened. A porter in the black of the Hall said,"
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "speech",
+   "text": "“Reader Vael.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "narration",
+   "text": "He went in.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "narration",
+   "text": "It was a high round room under a dome of grey slate, lit from the top by a ring of windows, so that the light came down onto the table like water into a well. The table was black oak, older than the colleges, worn smooth by four hundred years of elbows. Seven chairs round it. Seven masters in them, in the colours of their colleges, and in front of each master, laid on the oak, the iron ring of their grade.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": "Five rings had five notches. One had four. One, in front of the old woman at the head of the table, had five notches and a sixth, half-cut, unfinished, as if the hand that cut it had stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "narration",
+   "text": "In the middle of the table lay his life.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p8",
+   "type": "narration",
+   "text": "The two charts, the old and the new. Two of his forty-one ledgers, open. And the crate, with its lid off, and in it, on their bed of straw, his eleven green glasses, ugly and uneven and cracked, with the quicksilver lying in the bottoms of their throats.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p9",
+   "type": "narration",
+   "text": "He stood at the edge of the table where the porter put him and looked at them, and found that he wanted to pick them up very badly, and put his hands behind his back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 13,
+   "para": "p10",
+   "type": "speech",
+   "text": "“Reader Vael,”"
+  },
+  {
+   "seq": 14,
+   "para": "p10",
+   "type": "narration",
+   "text": "said the old woman at the head of the table.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p11",
+   "type": "narration",
+   "text": "He’d seen her before. Everyone in the College of Tides had seen her: crossing the court in the early morning with her stick, very small, very straight, white-haired, in a gown of the Tides’ sea-grey gone silver at the seams. Master Beatrix Quell. Seventy, or eighty, or a hundred. Master of the College of Tides since before he was born. He had never once heard her speak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p12",
+   "type": "narration",
+   "text": "Her voice was like dry leaves blowing across a floor.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p13",
+   "type": "speech",
+   "text": "“You kept the Hearthmere ledgers,”"
+  },
+  {
+   "seq": 18,
+   "para": "p13",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p14",
+   "type": "speech",
+   "text": "“Yes, Master.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p15",
+   "type": "speech",
+   "text": "“For eleven years.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p16",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p17",
+   "type": "speech",
+   "text": "“And you wrote up a draw. Twice.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "speech",
+   "text": "“Twice, Master.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p19",
+   "type": "speech",
+   "text": "“And were asked twice to stop.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p20",
+   "type": "narration",
+   "text": "He swallowed."
+  },
+  {
+   "seq": 26,
+   "para": "p20",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p21",
+   "type": "narration",
+   "text": "She looked at him. Her eyes were very pale, very clear, the colour of quicksilver under glass.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p22",
+   "type": "speech",
+   "text": "“Tell the Council what you saw on the night of the breaking,”"
+  },
+  {
+   "seq": 29,
+   "para": "p22",
+   "type": "narration",
+   "text": "said Master Quell."
+  },
+  {
+   "seq": 30,
+   "para": "p22",
+   "type": "speech",
+   "text": "“And the morning after. Leave out nothing. Take as long as you need.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 31,
+   "para": "p23",
+   "type": "narration",
+   "text": "So he told it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p24",
+   "type": "narration",
+   "text": "He’d told it to the bird, and he’d told it to himself every night for ten days, lying awake under the sloping roof, and now he told it to seven masters of Vael at a round black table, and he found that telling it to them was like telling it to the bird: you put it down in order, one reading after another, and you didn’t say what you thought it meant until you’d said what it was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p25",
+   "type": "narration",
+   "text": "The glasses climbing all evening. Every glass in Winshire up. The lamps in the city burning white. The owls. The Gallery singing. Midnight. The quicksilver in the grooves.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p26",
+   "type": "narration",
+   "text": "His green glasses under the bed. That made the master of the Blue College, at Quell’s left, shift in his chair, but Quell lifted one finger off the table and he stopped shifting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p27",
+   "type": "narration",
+   "text": "Sunrise. The Hearthmere glasses going flat. The hole gone. And the line of dips going north-east at the speed of a bird.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p28",
+   "type": "narration",
+   "text": "He told them the speed. He told them the arithmetic. He had it by heart.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p29",
+   "type": "narration",
+   "text": "He didn’t tell them about the walker, or the held breath. He’d thought about it for ten nights and decided not to, and he still didn’t know if that was cowardice or sense. He told them only what the glasses had done, and when he’d finished he stood with his hands behind his back and his cold feet on the old floor and waited.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 38,
+   "para": "p30",
+   "type": "narration",
+   "text": "Nobody spoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p31",
+   "type": "narration",
+   "text": "The master of the College of Stars, a soft-faced man in pale silver, was looking at the ceiling. The master of the Physicians was turning her ring over and over on the table with one finger. Dane wasn’t at the table; he was a magister, not a master, and he stood against the wall behind the Blue College’s chair with his arms folded, watching Idony, his face giving nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p32",
+   "type": "narration",
+   "text": "Master Quell looked at the old chart. The one with the hole on it. The long dark well of ink-strokes over the river hill that Idony had drawn every month for eleven years.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p33",
+   "type": "speech",
+   "text": "“When did the draw close?”"
+  },
+  {
+   "seq": 42,
+   "para": "p33",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p34",
+   "type": "narration",
+   "text": "He looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p35",
+   "type": "speech",
+   "text": "“The hour,”"
+  },
+  {
+   "seq": 45,
+   "para": "p35",
+   "type": "narration",
+   "text": "said Quell."
+  },
+  {
+   "seq": 46,
+   "para": "p35",
+   "type": "speech",
+   "text": "“You had your own glasses under your bed, against the College’s rules. You read them at your own bells. When did the draw under Hearthmere close? To the bell.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p36",
+   "type": "speech",
+   "text": "“At sunrise, Master. On the morning after the breaking. Between the first bell of the day and the second.”"
+  },
+  {
+   "seq": 48,
+   "para": "p36",
+   "type": "narration",
+   "text": "He swallowed."
+  },
+  {
+   "seq": 49,
+   "para": "p36",
+   "type": "speech",
+   "text": "“The glasses broke at midnight. But the draw didn’t close at midnight. It held until sunrise. And then it went.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p37",
+   "type": "narration",
+   "text": "She nodded slowly. As if he’d told her something she’d expected.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p38",
+   "type": "speech",
+   "text": "“And the thing that went north-east. When did it leave the river hill?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p39",
+   "type": "speech",
+   "text": "“The same. At sunrise.”"
+  },
+  {
+   "seq": 53,
+   "para": "p39",
+   "type": "narration",
+   "text": "He paused."
+  },
+  {
+   "seq": 54,
+   "para": "p39",
+   "type": "speech",
+   "text": "“At the same moment the draw closed. To the count.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p40",
+   "type": "narration",
+   "text": "Quell looked at the chart. Then she lifted her eyes and looked at the other six masters, one after another, round the table. Not at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p41",
+   "type": "speech",
+   "text": "“The Hearthmere draw,”"
+  },
+  {
+   "seq": 57,
+   "para": "p41",
+   "type": "narration",
+   "text": "said Master Beatrix Quell,"
+  },
+  {
+   "seq": 58,
+   "para": "p41",
+   "type": "speech",
+   "text": "“is not a subject for study.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 59,
+   "para": "p42",
+   "type": "narration",
+   "text": "She said it oddly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p43",
+   "type": "narration",
+   "text": "He’d been told it twice before, in letters from the College’s Third rings, sealed with sea-grey wax:"
+  },
+  {
+   "seq": 61,
+   "para": "p43",
+   "type": "thought",
+   "text": "the Reader is advised that the matter of Hearthmere is not a proper subject for the College’s study, and is asked to confine himself to the ledgers."
+  },
+  {
+   "seq": 62,
+   "para": "p43",
+   "type": "narration",
+   "text": "He’d thought it was a junior’s phrase. A clerk’s. A way of saying"
+  },
+  {
+   "seq": 63,
+   "para": "p43",
+   "type": "thought",
+   "text": "we’re bored of you.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p44",
+   "type": "narration",
+   "text": "She said it the way you’d recite a thing that had been written down a long time ago by someone else and handed to you. Every word in its place. As if she’d learned it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p45",
+   "type": "narration",
+   "text": "And she hadn’t asked what the hole was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p46",
+   "type": "narration",
+   "text": "He stood at the edge of the table and understood that. She’d asked when it closed. She’d asked when the thing left the hill. To the bell. To the count. She hadn’t asked what it was, or what had made it, or what the thing was that went north-east at the speed of a bird, because she didn’t need to ask. She’d needed the hour. She’d needed to know that it was true.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p47",
+   "type": "narration",
+   "text": "She’d known. All of it. The hole, and whatever was in the hole, and why. Before he was born. When she was a Second ring at these same shelves, perhaps. Somebody had told her, as somebody had told her the words,"
+  },
+  {
+   "seq": 68,
+   "para": "p47",
+   "type": "written",
+   "text": "not a subject for study"
+  },
+  {
+   "seq": 69,
+   "para": "p47",
+   "type": "narration",
+   "text": ", and she’d kept it, for fifty years, at the head of his college, while he wrote it up twice and was told twice to stop.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p48",
+   "type": "narration",
+   "text": "The pale eyes came back to him. They didn’t apologise. They didn’t explain. They looked at him exactly as she might have looked at a glass that had done something interesting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p49",
+   "type": "speech",
+   "text": "“Thank you, Reader Vael,”"
+  },
+  {
+   "seq": 72,
+   "para": "p49",
+   "type": "narration",
+   "text": "said Master Quell."
+  },
+  {
+   "seq": 73,
+   "para": "p49",
+   "type": "speech",
+   "text": "“The Council is grateful. You’ll be told what’s decided.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 74,
+   "para": "p50",
+   "type": "narration",
+   "text": "Dane found him in the corridor two days later.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p51",
+   "type": "narration",
+   "text": "He was walking back to the College from the Long Library, where he’d spent the afternoon on the floor at the foot of the black oak perch, not talking. The Old Reader hadn’t talked either. It had sat on its perch above him with its milky eye and its black eye and said nothing for an hour, and once, toward the end, it had leaned down and taken a thread from his coat’s hem in its beak, delicately, and pulled it, and he’d put his hand over the place, and it had looked at him and let go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p52",
+   "type": "narration",
+   "text": "Dane was waiting at the top of the College stair with a Warden behind him and the Warden’s white lynx sitting at the Warden’s heel, its pale eyes half shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p53",
+   "type": "speech",
+   "text": "“Reader.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p54",
+   "type": "speech",
+   "text": "“Magister.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p55",
+   "type": "speech",
+   "text": "“Walk with me.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p56",
+   "type": "narration",
+   "text": "They walked along the cold corridor with the portraits. Dane’s boots rang on the floor. The lynx’s feet didn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p57",
+   "type": "speech",
+   "text": "“The Council has decided,”"
+  },
+  {
+   "seq": 82,
+   "para": "p57",
+   "type": "narration",
+   "text": "said Dane."
+  },
+  {
+   "seq": 83,
+   "para": "p57",
+   "type": "speech",
+   "text": "“There’ll be an expedition. Into the Wyldmarch. To find the thing that left Hearthmere, and observe it.”"
+  },
+  {
+   "seq": 84,
+   "para": "p57",
+   "type": "narration",
+   "text": "He paused."
+  },
+  {
+   "seq": 85,
+   "para": "p57",
+   "type": "speech",
+   "text": "“And if the Council’s judgement allows, to hold it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p58",
+   "type": "narration",
+   "text": "Idony stopped walking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p59",
+   "type": "speech",
+   "text": "“Hold it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p60",
+   "type": "speech",
+   "text": "“The Blue College has lamps for the purpose. Six of them. Very old. Kept in the vaults below the Hall of Rings since,”"
+  },
+  {
+   "seq": 89,
+   "para": "p60",
+   "type": "narration",
+   "text": "Dane’s hand made a small shape in the air,"
+  },
+  {
+   "seq": 90,
+   "para": "p60",
+   "type": "speech",
+   "text": "“since a long time. They have never been lit. They’ll be lit.”"
+  },
+  {
+   "seq": 91,
+   "para": "p60",
+   "type": "narration",
+   "text": "He looked at Idony."
+  },
+  {
+   "seq": 92,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Twelve Wardens. Myself. Two Scribes for the lamps. And a tide-reader.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p61",
+   "type": "speech",
+   "text": "“Which tide-reader?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p62",
+   "type": "narration",
+   "text": "Dane didn’t smile. He almost did. It was the closest Idony had seen him come.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p63",
+   "type": "speech",
+   "text": "“The College has tide-readers,”"
+  },
+  {
+   "seq": 96,
+   "para": "p63",
+   "type": "narration",
+   "text": "Dane said."
+  },
+  {
+   "seq": 97,
+   "para": "p63",
+   "type": "speech",
+   "text": "“Thirty of them. Thirty Second rings and four Thirds and the Master. And three hundred and twelve glasses broken in the Gallery, and the glasshouse saying a year to blow them again.”"
+  },
+  {
+   "seq": 98,
+   "para": "p63",
+   "type": "narration",
+   "text": "He walked on."
+  },
+  {
+   "seq": 99,
+   "para": "p63",
+   "type": "speech",
+   "text": "“There are exactly eleven glasses in Vael that read the moving draw. They’re green. They’re very ugly. They’re in a crate in the Blue College’s strongroom, and the only man in Isvaren who knows what their words say is the man who cut them, badly, with a cobbler’s awl.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 100,
+   "para": "p64",
+   "type": "narration",
+   "text": "He went home that night and couldn’t sleep.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p65",
+   "type": "narration",
+   "text": "He lay under the sloping roof and looked at the dark and his heart went like a bird in a box.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p66",
+   "type": "bond",
+   "text": "A Titan.",
+   "how": "very quietly"
+  },
+  {
+   "seq": 103,
+   "para": "p66",
+   "type": "narration",
+   "text": "He said it to himself in the dark, very quietly, because it was a word you didn’t say in the College, a word from the old songs that ferry-folk sang to babies, and he’d never said it aloud in his life. A Titan. The last great beast, the songs called it. The thing that drank Hearthmere’s Deep for three hundred years, that went north-east at sunrise at the speed of a bird. Somewhere in the Wyldmarch, sitting on the ground, breathing. And he was going to go and stand in front of it with eleven ugly green glasses and measure it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p67",
+   "type": "narration",
+   "text": "Nobody had ever measured one. Nobody in the whole history of the College of Tides. Nobody had ever stood with a glass in their hand in front of a thing like that and written down a number.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p68",
+   "type": "narration",
+   "text": "He’d be the first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p69",
+   "type": "narration",
+   "text": "He lay in the dark and grinned at the roof like a fool.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p70",
+   "type": "narration",
+   "text": "Then he thought about the lamps.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 108,
+   "para": "p71",
+   "type": "narration",
+   "text": "Dane showed him the lamps on the seventeenth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p72",
+   "type": "narration",
+   "text": "They were in the Blue College’s yard, under a canvas awning, being packed into straw-lined frames for the mules. Six of them. Iron lanterns as tall as a man, heavy, black, with feet like a stove’s, and in each of their four sides a pane of crystal as thick as his thumb. Two Third-ring Scribes of the Blue College in their blue aprons were going over them with soft cloths, polishing the crystal, very carefully, as if the lamps might bite.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p73",
+   "type": "narration",
+   "text": "He went close and looked at the panes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p74",
+   "type": "narration",
+   "text": "There were runes cut in them. In the crystal, on the inside face, so you’d read them backwards from outside: line after line of the hooked script, cut very fine and very deep by a hand that had known exactly what it was doing. He could read them. He could read nearly anything, if it was old enough. He read them backwards through the crystal, standing in the Blue College’s yard in the spring sun, with the Scribes polishing and Dane watching him from under the awning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p75",
+   "type": "narration",
+   "text": "They weren’t holding runes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p76",
+   "type": "narration",
+   "text": "He knew holding runes. A ward was a holding rune: keep out, keep in, stay. He’d read a thousand of them on old doors and old chests and old boundary stones. These had some of the same strokes. But they turned inward. Every line of them turned inward, toward the flame, toward whatever the light would fall on, and what they said, when you got to the end of the line and the hook at the end of the last stroke, wasn’t stay.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p77",
+   "type": "narration",
+   "text": "It was be mine.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p78",
+   "type": "narration",
+   "text": "He’d read about it. Every Second ring read about it, in the first year, in the chapter of the old commentary that told you what you were never to do. The forbidden discipline. The thing they did in Saltreach with honey-smoke and collars, that the colleges had sworn off four hundred years ago in this same city under this same dome. Binding.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p79",
+   "type": "narration",
+   "text": "He stood with his hand on the cold iron of the lamp and read it again, to be sure.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p80",
+   "type": "speech",
+   "text": "“Holding-lamps,”",
+   "how": "softly"
+  },
+  {
+   "seq": 118,
+   "para": "p80",
+   "type": "narration",
+   "text": "said Dane, behind him. Quite gently."
+  },
+  {
+   "seq": 119,
+   "para": "p80",
+   "type": "speech",
+   "text": "“That’s what they’re called in the inventory. Holding-lamps.”",
+   "how": "softly",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p81",
+   "type": "narration",
+   "text": "Idony took his hand off the lamp.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p82",
+   "type": "speech",
+   "text": "“Yes, Magister,”"
+  },
+  {
+   "seq": 122,
+   "para": "p82",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p83",
+   "type": "narration",
+   "text": "He didn’t say anything else. He’d thought about it afterwards for a long time, and he never knew whether he’d been afraid of Dane, or afraid of losing the glasses, or afraid of losing the thing he’d lain awake grinning about. He thought it was the last. He thought, with shame, that it was mostly the last.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p84",
+   "type": "narration",
+   "text": "And he was still thrilled. That was the worst of it. Standing there with be mine cut backwards in the crystal under his fingers, he was ashamed, and he was still thrilled, and the shame didn’t stop the thrill at all.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 125,
+   "para": "p85",
+   "type": "narration",
+   "text": "He went to see Nessa on the nineteenth day, the night before they left.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p86",
+   "type": "narration",
+   "text": "The ferry came in to the quay below the College hill at dusk: a broad-beamed lake boat with a brown lugsail and a long sweep, low in the water with the day’s last crossing, a farmer and a cart and two goats and a woman with a basket of eggs. The Heron. Their father had built her. Their grandfather had built the one before.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p87",
+   "type": "narration",
+   "text": "Nessa was at the sweep. She brought the Heron in to the quay stones without looking, as their father had, as you’d walk into your own kitchen in the dark, and the farmer and the goats got off, and the woman with the eggs, and Nessa made the rope fast and looked up and saw him standing on the quay in his winter coat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p88",
+   "type": "speech",
+   "text": "“You’ll have heard, then,”"
+  },
+  {
+   "seq": 129,
+   "para": "p88",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p89",
+   "type": "speech",
+   "text": "“Everybody’s heard.”"
+  },
+  {
+   "seq": 131,
+   "para": "p89",
+   "type": "narration",
+   "text": "She was thirty-five, four years older than him, square and sunburned, with their mother’s hands and their father’s way of looking at a person as if they were a stretch of water she was going to have to cross."
+  },
+  {
+   "seq": 132,
+   "para": "p89",
+   "type": "speech",
+   "text": "“The College’s sending you east with the Blue College’s men to look at the thing that flew. It was all over the market by noon.”"
+  },
+  {
+   "seq": 133,
+   "para": "p89",
+   "type": "narration",
+   "text": "She coiled a rope."
+  },
+  {
+   "seq": 134,
+   "para": "p89",
+   "type": "speech",
+   "text": "“Get in. I’ve one more crossing.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p90",
+   "type": "narration",
+   "text": "He got in.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 136,
+   "para": "p91",
+   "type": "narration",
+   "text": "It was a still evening. Glasswater lay flat and black under the mountains, with the last light going pink on the snowfields of the Iron Fells above the far shore, and the city’s lamps coming on behind them up the hill in their colours, blue and silver and green and amber, a hand of cards laid down on the dark. Nessa took the sweep and pushed them off from the quay, and the Heron slid out into the black water without a sound.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p92",
+   "type": "narration",
+   "text": "On the prow, in a wicker cage, the lantern owl blinked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p93",
+   "type": "narration",
+   "text": "It was the ferry’s owl. Every Glasswater ferry carried one. Its eyes were their ordinary amber again, two small warm lights in the dusk, the colour they’d always been. On the night of the breaking, Nessa had told him, they’d blazed white from dusk to dawn and the owl had screamed all night and wouldn’t be quiet, and she’d sat up with it in the dark kitchen with a blanket over the cage.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p94",
+   "type": "narration",
+   "text": "Nailed to the prow beside the cage was the Lady.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p95",
+   "type": "narration",
+   "text": "He’d forgotten it. You stopped seeing it, like the grain in a table. A little tin serpent, no longer than his hand, coiled round on itself in a ring with its tail in its mouth, nailed to the wood with two copper tacks. Every ferry on Glasswater had one. The Lady under the Water. You touched her when you pushed off, for a safe crossing, and you touched her when you came in, for thanks. Their mother had done it every time, all her life, without thinking, as you’d touch the door-post going out of your own house.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p96",
+   "type": "narration",
+   "text": "Nessa did it now. She took one hand off the sweep as they came out past the quay-end and touched the tin serpent with two fingers, and put her hand back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p97",
+   "type": "narration",
+   "text": "He kept quiet. He’d stopped believing in the Lady when he was nine, and in most other things by twelve, and had told Nessa so, often, at length, and she’d told him he was a fool and gone on touching it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 143,
+   "para": "p98",
+   "type": "speech",
+   "text": "“So,”"
+  },
+  {
+   "seq": 144,
+   "para": "p98",
+   "type": "narration",
+   "text": "said Nessa, halfway across."
+  },
+  {
+   "seq": 145,
+   "para": "p98",
+   "type": "speech",
+   "text": "“Tell me.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p99",
+   "type": "narration",
+   "text": "He told her. Not all of it. Not the hole, or the held breath, or the bird’s silence, or what was sewn into his coat. He told her about the glasses breaking, which everybody knew. About the moving thing, which everybody knew too, more or less. About the expedition. About the glasses, his glasses, the ugly green ones she’d lent him the money for three winters ago without asking what they were for. About Dane giving them back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p100",
+   "type": "narration",
+   "text": "He didn’t tell her about the lamps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p101",
+   "type": "narration",
+   "text": "He found, telling it, that he was smiling. He couldn’t help it. He was going to measure a Titan. He heard the word come out of his mouth, the word you didn’t say, and Nessa heard it too, and her face didn’t change.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p102",
+   "type": "narration",
+   "text": "She let the Heron run for a while without the sweep. The water whispered along her sides.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p103",
+   "type": "speech",
+   "text": "“Idony,”"
+  },
+  {
+   "seq": 151,
+   "para": "p103",
+   "type": "narration",
+   "text": "said Nessa.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p104",
+   "type": "speech",
+   "text": "“What?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p105",
+   "type": "speech",
+   "text": "“You know what’s in the market, about Hearthmere? From the river-boats that came up the Wend? About what happened down there?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p106",
+   "type": "speech",
+   "text": "“Some.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p107",
+   "type": "speech",
+   "text": "“Their lamps are out,”"
+  },
+  {
+   "seq": 156,
+   "para": "p107",
+   "type": "narration",
+   "text": "said Nessa."
+  },
+  {
+   "seq": 157,
+   "para": "p107",
+   "type": "speech",
+   "text": "“All of them. In the whole kingdom. The ones that burned without oil, for three hundred years, every street, every house. Out. Their wells have gone bad. Their surgeons can’t stop a nosebleed. Their heralds have to shout.”"
+  },
+  {
+   "seq": 158,
+   "para": "p107",
+   "type": "narration",
+   "text": "She looked at him across the dark boat."
+  },
+  {
+   "seq": 159,
+   "para": "p107",
+   "type": "speech",
+   "text": "“A boatman told me their bread won’t rise. The leaven words won’t take. A whole kingdom of flat bread.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p108",
+   "type": "narration",
+   "text": "He didn’t say anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p109",
+   "type": "speech",
+   "text": "“That thing,”"
+  },
+  {
+   "seq": 162,
+   "para": "p109",
+   "type": "narration",
+   "text": "said Nessa."
+  },
+  {
+   "seq": 163,
+   "para": "p109",
+   "type": "speech",
+   "text": "“The one you’re going to measure. It did that. It ate a kingdom’s lamps. Ate them right out of the ground and flew off with them in its belly, the boatmen say, and left the place dead behind it.”"
+  },
+  {
+   "seq": 164,
+   "para": "p109",
+   "type": "narration",
+   "text": "She took the sweep again."
+  },
+  {
+   "seq": 165,
+   "para": "p109",
+   "type": "speech",
+   "text": "“And you’re going after it with your glasses to write down how big it is.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p110",
+   "type": "speech",
+   "text": "“It’s important to know…”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p111",
+   "type": "speech",
+   "text": "“I know it’s important.”"
+  },
+  {
+   "seq": 168,
+   "para": "p111",
+   "type": "narration",
+   "text": "She put her weight on the sweep, and the Heron swung."
+  },
+  {
+   "seq": 169,
+   "para": "p111",
+   "type": "speech",
+   "text": "“I’m not stupid. I know it’s important, and I know you’re the only one who can do it, and I know you’ve wanted to do something like it since you were six and took the back off Da’s compass to see where the north was kept.”"
+  },
+  {
+   "seq": 170,
+   "para": "p111",
+   "type": "narration",
+   "text": "She looked at him."
+  },
+  {
+   "seq": 171,
+   "para": "p111",
+   "type": "speech",
+   "text": "“I’m asking you something else.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p112",
+   "type": "narration",
+   "text": "She took one hand off the sweep and laid it on the little tin serpent on the prow, and left it there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p113",
+   "type": "speech",
+   "text": "“You’re going to measure the thing that ate a kingdom’s lamps,”"
+  },
+  {
+   "seq": 174,
+   "para": "p113",
+   "type": "narration",
+   "text": "said Nessa."
+  },
+  {
+   "seq": 175,
+   "para": "p113",
+   "type": "speech",
+   "text": "“Have you thought about what it’ll eat next?”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 176,
+   "para": "p114",
+   "type": "narration",
+   "text": "He hadn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p115",
+   "type": "narration",
+   "text": "He sat in the bottom of the Heron with the dark water going by and the owl blinking at him, and his sister’s hand on the tin Lady, and found that he hadn’t. Not once. In ten nights of lying awake grinning at the roof, he’d thought about the glasses and the numbers and the readings and the arithmetic, and about being the first, and he had never once thought about where the thing was going, or why, or what it would do when it got there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p116",
+   "type": "narration",
+   "text": "It had stopped somewhere. He knew that much from the last readings before Dane took the crate. It had stopped in the east. It was sitting there now, on some ground in the Wyldmarch, breathing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p117",
+   "type": "narration",
+   "text": "Eating.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p118",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 181,
+   "para": "p118",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p119",
+   "type": "narration",
+   "text": "Nessa nodded, as if that was the answer she’d expected, and took her hand off the Lady, and put it back on the sweep.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p120",
+   "type": "speech",
+   "text": "“Well,”"
+  },
+  {
+   "seq": 184,
+   "para": "p120",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 185,
+   "para": "p120",
+   "type": "speech",
+   "text": "“Think about it on the road.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p121",
+   "type": "narration",
+   "text": "They came in to the far shore in the dark, and she made the rope fast, and the last passengers got on, a man with a sack of turnips and a boy with a dog, and she took them back across Glasswater with her brother sitting in the bottom of the boat in his winter coat, not talking. At the quay below the College she touched the Lady again, coming in. Without thinking. The way their mother had.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p122",
+   "type": "speech",
+   "text": "“Bring the glasses back,”"
+  },
+  {
+   "seq": 188,
+   "para": "p122",
+   "type": "narration",
+   "text": "she said, on the quay."
+  },
+  {
+   "seq": 189,
+   "para": "p122",
+   "type": "speech",
+   "text": "“I want my money’s worth.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p123",
+   "type": "speech",
+   "text": "“I’ll bring them back.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p124",
+   "type": "speech",
+   "text": "“And yourself,”"
+  },
+  {
+   "seq": 192,
+   "para": "p124",
+   "type": "narration",
+   "text": "said Nessa, and turned away to her ropes before he could answer.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 193,
+   "para": "p125",
+   "type": "narration",
+   "text": "They left Vael on the twentieth day, by the east road.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p126",
+   "type": "narration",
+   "text": "Dane rode at the front on a tall grey horse. Behind him, two by two, the twelve Wardens of the Blue College in their pale grey cloaks with their staves across their saddles, and at every Warden’s heel a snow lynx, white, silent, as big as a wolf, padding along the road with its pale eyes half shut and its great soft feet making no sound at all. Then the two Scribes in their blue aprons, on mules. Then the lamps, six of them, in their straw-lined frames, two to a mule, swaying. Then the mule-drivers and the baggage.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p127",
+   "type": "narration",
+   "text": "Then Idony, on a small brown horse that the Blue College had lent him and that clearly despised him, with the crate of green glasses strapped behind his saddle in a nest of blankets.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p128",
+   "type": "narration",
+   "text": "The east road went out of the city along the lake shore and then up, through the pine woods under the High Crown, climbing all morning toward the long saddle of the pass that led east and down toward the Wyldmarch. Behind them Vael fell away: the towers, the covered bridges, the Long Library’s long grey roof on its hill, and Glasswater lying below like a dropped mirror. He looked back once from the first bend and saw the Heron‘s brown sail going out across it, very small. He didn’t look back again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p129",
+   "type": "narration",
+   "text": "In the afternoon the stormkites came down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p130",
+   "type": "narration",
+   "text": "He saw the Wardens’ lynx see them first. All twelve heads came up at once, together, and turned toward the snowfields above the road. Then he saw them: two great grey shapes coming down off the High Crown in the cold air over the pines, not beating their wings, sliding. Wide as barn roofs, fork-tailed, so light they seemed to have no weight at all, falling and catching and falling. Then two more. Then a pair low over the road itself, so low he saw the long grey primaries spread like fingers and felt the wind of their passing, and the brown horse shied, and the lynx crouched in the road with their ears flat and watched them go over.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p131",
+   "type": "speech",
+   "text": "“Weather coming,”"
+  },
+  {
+   "seq": 200,
+   "para": "p131",
+   "type": "narration",
+   "text": "said one of the mule-drivers, behind him."
+  },
+  {
+   "seq": 201,
+   "para": "p131",
+   "type": "speech",
+   "text": "“They come down before weather.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p132",
+   "type": "narration",
+   "text": "Idony looked at the sky. It was clear from the High Crown to the east.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p133",
+   "type": "narration",
+   "text": "He thought of the glasses. He thought that stormkites flew the Deep’s lines the way the Heron used the lake’s currents, and that the College had charted their flights for two hundred years, and that one of his oldest charts was a stormkite chart. He thought that the weather the kites had come down before, today, wasn’t weather.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 204,
+   "para": "p134",
+   "type": "narration",
+   "text": "He set up the glasses on the twenty-fifth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p135",
+   "type": "narration",
+   "text": "They were five days out of Vael, over the pass, coming down the long eastern slopes of the High Crown toward the plains, with the Wyldmarch somewhere ahead in the haze: a dark line at the edge of the world that the mule-drivers said was the first of the forest. They’d camped in a meadow by a stream. The Wardens were seeing to their lynx. The Scribes were seeing to their lamps. Dane was seeing to everyone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p136",
+   "type": "narration",
+   "text": "Idony took the crate off his saddle and opened it in the grass and set the eleven green glasses out on a blanket in their line, as he’d set them out on the floor under the sloping roof on the morning of the breaking. South-west to north-east. The river hill, the bridge-island, the far bank, the water meadows. The forest of the fell, the hill of the hold, the high moor, the black water, the edge. And the last two, with the names nobody had spoken in a thousand years.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p137",
+   "type": "narration",
+   "text": "He’d recut those last two on the road, at night, by candle, with Dane’s leave. Turned their words a little east. So they’d read the Wyldmarch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p138",
+   "type": "narration",
+   "text": "He sat cross-legged on the blanket with the ledger on his knee and watched.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p139",
+   "type": "narration",
+   "text": "The first four lay flat. Dead, still, the beads of quicksilver lying in the bottoms of their throats like coins in a dry well. Hearthmere. They hadn’t moved since the morning of the breaking. He’d stopped expecting them to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p140",
+   "type": "narration",
+   "text": "The two at the end were moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p141",
+   "type": "narration",
+   "text": "This was slow, nothing like the quick dip and recovery of the morning of the breaking, something going over at the speed of a bird. The quicksilver in the throats of the two recut glasses was going down, very slowly, steadily, a hair’s breadth at a time, like water going down in a basin with the plug pulled. Both of them. Leaning, almost. As if the Deep under the places they named were being drawn toward one point, east, beyond them, and was going.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p142",
+   "type": "narration",
+   "text": "He watched it for an hour. He wrote it down at every quarter. The same slow fall. The same lean.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p143",
+   "type": "narration",
+   "text": "Something in the east had stopped moving, and was sitting on the ground, and was drawing the Deep in toward it from every side, steadily, as water runs to a drain.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p144",
+   "type": "narration",
+   "text": "He did the arithmetic on the back of the ledger, the lines from the two glasses, where they’d cross.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p145",
+   "type": "narration",
+   "text": "The Thornwood. Somewhere in the middle of the Thornwood.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 216,
+   "para": "p146",
+   "type": "narration",
+   "text": "He nearly missed the other thing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p147",
+   "type": "narration",
+   "text": "It was on the same two glasses, the last ones, the two he’d turned east. Under the slow fall, so small he’d nearly lost it in watching the fall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p148",
+   "type": "narration",
+   "text": "A small draw. There for a count, and gone. Then there again, on the other glass, a little further north-east. Gone. Short steps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p149",
+   "type": "narration",
+   "text": "He knew it. He’d seen it on the morning of the breaking on the Hearthmere glasses before they went flat, and written it in the margin, and crossed it out, and written it again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p150",
+   "type": "narration",
+   "text": "The walker.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p151",
+   "type": "narration",
+   "text": "It was going north-east. Slowly. A step, and a step, across the two glasses, from the south-west toward the forest. Taking a little of the Deep with every footfall and giving it back. Going the same way the great draw had gone on the morning of the breaking, at the speed of a man walking. As if it were following.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 222,
+   "para": "p152",
+   "type": "narration",
+   "text": "He sat on the blanket in the meadow with the evening coming down and looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p153",
+   "type": "narration",
+   "text": "He couldn’t account for it. Nothing in his eleven years of ledgers had looked like it. Nothing in the commentaries. Something small, and walking, that drank from the Deep like a beast at a stream, a mouthful at a time, and went north-east after the thing that had eaten a kingdom’s lamps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p154",
+   "type": "narration",
+   "text": "Across the meadow, Dane was standing by the lamp-mules with the two Scribes, talking low. One of the Wardens’ lynx had come over and was sitting at the edge of Idony’s blanket, looking at the glasses with its pale eyes, perfectly still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 225,
+   "para": "p155",
+   "type": "narration",
+   "text": "He thought of Nessa’s hand on the tin serpent."
+  },
+  {
+   "seq": 226,
+   "para": "p155",
+   "type": "thought",
+   "text": "Have you thought about what it’ll eat next?",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p156",
+   "type": "narration",
+   "text": "He thought he would put the walker in the ledger he showed to Dane, and in the ledger he showed to the Council, if he ever went back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 228,
+   "para": "p157",
+   "type": "narration",
+   "text": "Then he wrote it in the margin of his own copy, the one on oiled silk in the hem of his coat, very small, with the date and the hour and the count between the steps."
+  },
+  {
+   "seq": 229,
+   "para": "p157",
+   "type": "thought",
+   "text": "The walker. Going north-east. Following.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 230,
+   "para": "p158",
+   "type": "narration",
+   "text": "He didn’t put it in the other one.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "17b89a505baa874e0d15640090e61720771212e6",
+ "segments_sha1": "2d8d7ccbcd015b001fca5e5b1013601c0e222cfb"
+}

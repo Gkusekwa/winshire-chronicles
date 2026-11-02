@@ -1,0 +1,1531 @@
+{
+ "chapter": 23,
+ "title": "The Candle Downs",
+ "pov": "",
+ "source": "Chapters/Chapter 23 - The Candle Downs.md",
+ "names": [
+  "accord",
+  "agnes",
+  "aldous",
+  "ash",
+  "beacon",
+  "candle",
+  "corsa",
+  "downs",
+  "greyhold",
+  "hallowmere",
+  "ironhythe",
+  "liss",
+  "marches",
+  "marshal",
+  "mere",
+  "pike",
+  "pryne",
+  "strake",
+  "thale",
+  "titan",
+  "wick",
+  "wynn"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Twenty-three.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Candle Downs.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "It came as the farmers said weather came on the Downs.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "From the east, over the last ridge, and you saw it a long time before it arrived.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "Rowan had known for forty days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Since the clans came in at the planks. Since Liss’s letter in Liss’s round hand, read aloud at Tova’s fire:"
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "written",
+   "text": "the big one, the last one, is coming west. Toward here."
+  },
+  {
+   "seq": 8,
+   "para": "p4",
+   "type": "narration",
+   "text": "Since Ironhythe, where every kingdom had named her and she’d said"
+  },
+  {
+   "seq": 9,
+   "para": "p4",
+   "type": "bond",
+   "text": "I’ll do it"
+  },
+  {
+   "seq": 10,
+   "para": "p4",
+   "type": "narration",
+   "text": "and not much else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p5",
+   "type": "narration",
+   "text": "She’d had forty days to think about what she’d do when it came.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p6",
+   "type": "narration",
+   "text": "She’d spent them moving people.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 13,
+   "para": "p7",
+   "type": "narration",
+   "text": "Hallowmere first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p8",
+   "type": "narration",
+   "text": "The council had ordered nothing. She’d gone to Thale on the eighty-sixth, in the crown’s chapter-house, under the faded banners, and told him what the Downs would look like in ten days, and what Hallowmere would look like five days after that, and he’d listened, and then he’d taken a pen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p9",
+   "type": "thought",
+   "text": "By order of the council: the city of Hallowmere is to be emptied, on the word of the Marshal of the Accord.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p10",
+   "type": "narration",
+   "text": "He’d signed it. Old, thin, careful. The chain of office on his chest.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p11",
+   "type": "speech",
+   "text": "“On your word,”"
+  },
+  {
+   "seq": 18,
+   "para": "p11",
+   "type": "narration",
+   "text": "he’d said."
+  },
+  {
+   "seq": 19,
+   "para": "p11",
+   "type": "speech",
+   "text": "“Not mine, Marshal. If it doesn’t come, it was yours.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p12",
+   "type": "speech",
+   "text": "“It’ll come.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p13",
+   "type": "speech",
+   "text": "“Then it was yours too,”"
+  },
+  {
+   "seq": 22,
+   "para": "p13",
+   "type": "narration",
+   "text": "said Thale. And put the crown’s seal under it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 23,
+   "para": "p14",
+   "type": "narration",
+   "text": "Sixty thousand people.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p15",
+   "type": "narration",
+   "text": "Out by the King’s Road east toward Greyhold and the Marches. Out by the Sun Road south-west. In carts, on foot, on mules, with whatever they could carry. The tribunes ran the streets. Davin with his writing-case, counting. A big old woman called Agnes Wick, a porter off the corn exchange with a voice that carried four streets, standing on a mounting-block at the east gate shouting the columns through.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p16",
+   "type": "narration",
+   "text": "And the hounds.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 26,
+   "para": "p17",
+   "type": "narration",
+   "text": "She’d not planned that. Wynn had.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p18",
+   "type": "narration",
+   "text": "He’d come to her on the eighty-seventh at the east gate with Ash and Sorrow at his knee and said: there’s forty knights’ hounds in this army and nothing for them to do till it comes. Give them the columns.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p19",
+   "type": "narration",
+   "text": "So the hounds ran the columns.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p20",
+   "type": "narration",
+   "text": "Up and down the King’s Road. Along the lines of carts. Into the side lanes after stragglers. Herding. Turning back the ones who wandered. Finding the children who got lost, which in sixty thousand people was a child every hour. Ash found eleven in the first two days. The girl from the tanners’ lanes, the one from the cistern, was in the first cart out of the east gate with her mother, and she leaned out of the back of it and called Ash’s name as they went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p21",
+   "type": "narration",
+   "text": "The old man who’d asked"
+  },
+  {
+   "seq": 31,
+   "para": "p21",
+   "type": "bond",
+   "text": "can I have one"
+  },
+  {
+   "seq": 32,
+   "para": "p21",
+   "type": "narration",
+   "text": "walked out of the east gate with a borrowed hound on a string, a knight’s spare, very old, very slow. Walking beside him. As if it were his.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 33,
+   "para": "p22",
+   "type": "narration",
+   "text": "The council went on the ninetieth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p23",
+   "type": "narration",
+   "text": "West, in carriages, with the crown’s books. Thale last. He came out of the chapter-house on foot and stood on the steps a moment, looking at the square: the dead lamps on their posts at the corners, the empty paving, the chapel door standing open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p24",
+   "type": "narration",
+   "text": "Then he got into his carriage.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p25",
+   "type": "narration",
+   "text": "He didn’t look back. She’d have liked him less if he had.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 37,
+   "para": "p26",
+   "type": "narration",
+   "text": "She saw it from Beacon Ridge on the ninety-first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p27",
+   "type": "narration",
+   "text": "The last chalk ridge south-east of the city, across the Stillhaven arm of the King’s Road. The road went over it in a long white cutting and down the other side into Hallowmere’s valley and the Mere. From the top she could see the whole of the Candle Downs, going away south and east. Hedged fields. Grey wheat. Villages with their church towers. Chalk ridges, one behind another, fold on fold, to the edge of sight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p28",
+   "type": "narration",
+   "text": "And on the edge of sight, the hill that moved.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 40,
+   "para": "p29",
+   "type": "narration",
+   "text": "She watched it a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p30",
+   "type": "narration",
+   "text": "Wynn beside her, on his greyhart, silent. The hounds lying in the chalk at their feet with their heads up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p31",
+   "type": "narration",
+   "text": "It was the size of a hill. She’d known that. She’d been at the Ring with a chain on six wains and seen it go out of its stakes; she’d watched it pull at the crown’s chains in the river below Greyhold from the north tower. She’d never seen it walking across farmland in the sun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p32",
+   "type": "narration",
+   "text": "Plates like slate roofs. Grey-black. Moving on its back as it walked. Its legs, each one a tower, coming down through hedges and fields and the walls of farmyards without looking down. From its legs, she could see even at this distance, dark lines hanging. Chain-ends. The crown’s chain. The first chain, three hundred years old, its links still saying hold on the insides, where it would never see.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p33",
+   "type": "narration",
+   "text": "And on its back, six places. Five dark. One that wasn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p34",
+   "type": "narration",
+   "text": "Like a coal.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 46,
+   "para": "p35",
+   "type": "narration",
+   "text": "Behind it, the Downs were going black.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p36",
+   "type": "narration",
+   "text": "Not burning. Dying. The grey wheat going brown and then black in a wide band behind it, as far back as she could see, as if it were dragging a shadow behind it that stayed when it had passed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p37",
+   "type": "speech",
+   "text": "“Four leagues a day,”"
+  },
+  {
+   "seq": 49,
+   "para": "p37",
+   "type": "narration",
+   "text": "said Wynn."
+  },
+  {
+   "seq": 50,
+   "para": "p37",
+   "type": "speech",
+   "text": "“The falconers say.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p38",
+   "type": "speech",
+   "text": "“Then it’s here on the ninety-third.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p39",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p40",
+   "type": "narration",
+   "text": "She looked north, past the ridge’s end, at the Greyhold road. At the columns still on it. Still coming out of Hallowmere’s east gate, the slow end of sixty thousand people, carts and mules and feet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p41",
+   "type": "speech",
+   "text": "“They won’t be clear by the ninety-third,”"
+  },
+  {
+   "seq": 55,
+   "para": "p41",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p42",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 57,
+   "para": "p42",
+   "type": "narration",
+   "text": "said Wynn.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 58,
+   "para": "p43",
+   "type": "narration",
+   "text": "Kessmoor’s engines had come on the eighty-fourth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p44",
+   "type": "narration",
+   "text": "Up the Iron Road from Ironhythe. Six steam-wagons, black, iron-sheathed, chimneys smoking, rolling on iron wheels as high as a man with a sound like a forge falling downstairs. On each, a bolt-thrower: Kessmoor’s, marked, that threw farther than any engine in Winshire. And behind them, drawn by twelve oxen, a seventh wagon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p45",
+   "type": "narration",
+   "text": "The heartstone wagon.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 61,
+   "para": "p46",
+   "type": "narration",
+   "text": "An iron wain. Plated. With a firebox at one end and a chimney, and on top a lid, a great iron lid on hinges, locked. And riding on its box, Pike’s deputy. Engineer Ottilie Strake. Thin, young, with burned hands and smoked spectacles like her master’s, and an exact way of speaking, every word put down where she meant it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p47",
+   "type": "speech",
+   "text": "“For the ward, Marshal,”",
+   "mood": "grief"
+  },
+  {
+   "seq": 63,
+   "para": "p47",
+   "type": "narration",
+   "text": "she’d said.",
+   "mood": "grief"
+  },
+  {
+   "seq": 64,
+   "para": "p47",
+   "type": "speech",
+   "text": "“The Downs are dead ground. A many-voice ward won’t stand on dead ground. Not without feeding.”",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 65,
+   "para": "p48",
+   "type": "speech",
+   "text": "“And this feeds it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p49",
+   "type": "speech",
+   "text": "“This feeds it,”"
+  },
+  {
+   "seq": 67,
+   "para": "p49",
+   "type": "narration",
+   "text": "said Strake.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 68,
+   "para": "p50",
+   "type": "narration",
+   "text": "Strake had opened the lid for her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p51",
+   "type": "narration",
+   "text": "On the eighty-fifth, at dusk, in the camp below Beacon Ridge. So that she’d know what she was using. Rowan had asked her to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p52",
+   "type": "narration",
+   "text": "Inside, on iron racks, in rows, in iron cages the size of a fist: hearts.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p53",
+   "type": "narration",
+   "text": "Beasts’ hearts. Cut out and set in iron. Dark red, almost black, glowing faintly, as a coal glows when you blow on it. Hundreds. Each in its cage, with a thin brass line running from it into a brass trunk that ran down the wagon’s length and out through its side, to a coil of brass on a drum. The heat came up off them into her face. The smell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p54",
+   "type": "narration",
+   "text": "She’d never forgotten the smell.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 73,
+   "para": "p55",
+   "type": "speech",
+   "text": "“Where did they come from?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p56",
+   "type": "narration",
+   "text": "Strake didn’t look away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p57",
+   "type": "speech",
+   "text": "“They were cut before the Accord, Marshal,”"
+  },
+  {
+   "seq": 76,
+   "para": "p57",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 77,
+   "para": "p57",
+   "type": "speech",
+   "text": "“Kessmoor’s stock. Two years’ stock. The Wyldmarch’s condition is on new ones.”"
+  },
+  {
+   "seq": 78,
+   "para": "p57",
+   "type": "narration",
+   "text": "She closed the lid."
+  },
+  {
+   "seq": 79,
+   "para": "p57",
+   "type": "speech",
+   "text": "“Master Pike was very clear. Not one new one has been cut since the sixty-fourth day. Not a bird.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p58",
+   "type": "narration",
+   "text": "Rowan looked at the iron lid.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p59",
+   "type": "narration",
+   "text": "Tova had sat at the round table with her hands flat and said"
+  },
+  {
+   "seq": 82,
+   "para": "p59",
+   "type": "remembered",
+   "text": "not one, not a bird"
+  },
+  {
+   "seq": 83,
+   "para": "p59",
+   "type": "narration",
+   "text": ", and Pike had said"
+  },
+  {
+   "seq": 84,
+   "para": "p59",
+   "type": "remembered",
+   "text": "accepted"
+  },
+  {
+   "seq": 85,
+   "para": "p59",
+   "type": "narration",
+   "text": ", very fast.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p60",
+   "type": "thought",
+   "text": "We have nobody else to trust.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p61",
+   "type": "speech",
+   "text": "“We’ll use it,”"
+  },
+  {
+   "seq": 88,
+   "para": "p61",
+   "type": "narration",
+   "text": "said Rowan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p62",
+   "type": "narration",
+   "text": "She smelled it all the next day. On her hands. In her hair. She washed in the stream below the ridge and smelled it still.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 90,
+   "para": "p63",
+   "type": "narration",
+   "text": "They fought it on the ninety-second.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p64",
+   "type": "narration",
+   "text": "Out on the Downs, two leagues south-east, across its road. She had to turn it. If it came straight on, it came down the King’s Road and over Beacon Ridge and into the valley onto the last columns. She had to make it turn its head, and walk a while somewhere else, and come back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p65",
+   "type": "narration",
+   "text": "So she gave it something to look at.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 93,
+   "para": "p66",
+   "type": "narration",
+   "text": "The falcons went up first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p67",
+   "type": "narration",
+   "text": "Twenty. The knights’ falcons, hooded on the riders’ fists until the Titan was a league off, then unhooded and thrown, all at once, up. They climbed in rings into the grey sky until they were over it. Circling over its head. Small as flies.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p68",
+   "type": "narration",
+   "text": "With bells on their jesses.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p69",
+   "type": "narration",
+   "text": "The falcons could see which way its head was turning before anyone on the ground could. When it turned left, the falcon over its head swung left, and its bell rang once, long. Right, twice. The riders under them, a league off, couldn’t see the head turning. They could hear the bells.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p70",
+   "type": "thought",
+   "text": "One. One."
+  },
+  {
+   "seq": 98,
+   "para": "p70",
+   "type": "narration",
+   "text": "Left.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 99,
+   "para": "p71",
+   "type": "narration",
+   "text": "Then the knights.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p72",
+   "type": "narration",
+   "text": "Her forty from Greyhold, Pryne at their head, old Aldous Pryne who’d been a knight longer than she had. Her twelve. Crale’s dozen. On greyharts, in long lines, at the gallop, across the Titan’s front.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p73",
+   "type": "narration",
+   "text": "From the north side of its road to the south. Fast. Close. Closer than she’d have let any of them go for anything else. Right across its path, a quarter-league in front of its feet, the greyharts flat out, the hounds left behind with the columns, the knights’ lances up with pennons on them, Greyhold grey, red, anything bright.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p74",
+   "type": "narration",
+   "text": "Moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p75",
+   "type": "narration",
+   "text": "It looked at them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 104,
+   "para": "p76",
+   "type": "narration",
+   "text": "Its head came round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p77",
+   "type": "narration",
+   "text": "Slowly. The falcons’ bells went"
+  },
+  {
+   "seq": 106,
+   "para": "p77",
+   "type": "thought",
+   "text": "one, one, one"
+  },
+  {
+   "seq": 107,
+   "para": "p77",
+   "type": "narration",
+   "text": ". The head came round to the south, after the knights, as a bull’s does after a cloak. And the legs followed it. And the whole great hill of it turned off the line of the King’s Road and walked south across the Downs, after forty knights on greyharts who were already wheeling, far ahead, to come back across its front the other way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p78",
+   "type": "narration",
+   "text": "And on the low ridge to its north, the engines.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 109,
+   "para": "p79",
+   "type": "narration",
+   "text": "Kessmoor’s six steam-wagons, in a line, smoking. Their bolt-throwers loosed together. The bolts went out across the Downs, a mast’s length each, iron, marked, with chains behind them, and struck the Titan’s forelegs where the plates met.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p80",
+   "type": "narration",
+   "text": "They didn’t hurt it. She hadn’t thought they would. They stuck. Hanging from its legs by their chains, among the old chain-ends, dragging.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p81",
+   "type": "narration",
+   "text": "It looked down at them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p82",
+   "type": "narration",
+   "text": "Its head turned again. North, toward the engines. Two, two. And the knights came back across its front the other way, from south to north, and it looked at them instead.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 113,
+   "para": "p83",
+   "type": "narration",
+   "text": "That was the ninety-second.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p84",
+   "type": "narration",
+   "text": "All day. Back and forth across its front. Knights and engines and falcons. Every time it turned, it lost a little ground. Every time it came back to the King’s Road, it was a little further south of where it had been.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p85",
+   "type": "narration",
+   "text": "It killed with its feet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p86",
+   "type": "narration",
+   "text": "Not on purpose. She didn’t think it had a purpose about them at all. It walked, and where it walked, things were under its feet. A greyhart that stumbled in a ditch. Two knights whose lines had crossed. A steam-wagon on the north ridge that couldn’t get its wheels out of a lane fast enough when the head came round toward it, and the foot came down on the lane.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p87",
+   "type": "narration",
+   "text": "By dusk she’d lost thirty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p88",
+   "type": "narration",
+   "text": "By dusk the columns had another day.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 119,
+   "para": "p89",
+   "type": "narration",
+   "text": "The ward was on the ninety-third.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p90",
+   "type": "narration",
+   "text": "At noon. On Beacon Ridge, across the King’s Road, where the white cutting went through the chalk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p91",
+   "type": "narration",
+   "text": "It had come straight on in the morning. It had stopped turning. As if it had learned the knights. As if it had understood they’d only come back. It walked through the knights’ lines as if they were hedges and came west across the Downs toward the ridge, and behind the ridge, on the Greyhold road, the last column was still coming out of the east gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p92",
+   "type": "narration",
+   "text": "The last one. A league long. Old people. The sick. The ones who’d stayed to bring one more thing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p93",
+   "type": "narration",
+   "text": "An hour. They needed an hour.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 124,
+   "para": "p94",
+   "type": "narration",
+   "text": "Six hundred voices on the ridge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p95",
+   "type": "narration",
+   "text": "Crown men and militia. Agnes Wick’s porters. In ranks, across the cutting and along the ridge’s top, shoulder to shoulder, facing east.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p96",
+   "type": "narration",
+   "text": "Every Greyhold company knew one ward-word. Every knight taught it to every soldier who served under him. A plain word. Not a long one. The word on the noon oath, that every knight had sworn under the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p97",
+   "type": "thought",
+   "text": "Stand.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 128,
+   "para": "p98",
+   "type": "narration",
+   "text": "Strake drove the stakes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p99",
+   "type": "narration",
+   "text": "Iron. A ring of them across the cutting, the length of the ridge’s top, each stake joined to the next with brass wire, and the wire running back to the heartstone wagon in the cutting behind the ranks.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p100",
+   "type": "narration",
+   "text": "Strake unlocked the lid. She opened it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p101",
+   "type": "narration",
+   "text": "The hearts glowed in their cages. The heat came up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p102",
+   "type": "speech",
+   "text": "“Now, Marshal,”"
+  },
+  {
+   "seq": 133,
+   "para": "p102",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 134,
+   "para": "p103",
+   "type": "narration",
+   "text": "Rowan said it first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p104",
+   "type": "narration",
+   "text": "Alone. In front of the ranks, on her grey horse with the white blaze, with the thing coming up the last slope of the Downs toward her a half-league off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p105",
+   "type": "speech",
+   "text": "“Stand.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p106",
+   "type": "narration",
+   "text": "Then six hundred voices said it with her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 138,
+   "para": "p107",
+   "type": "narration",
+   "text": "She felt it go up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p108",
+   "type": "narration",
+   "text": "Not with anything in her. She’d never had a gift for it. She felt it as you feel heat go up off a field in summer. A shimmer. Over the ridge, over the ranks, over the road. Rising. Going out from the iron stakes in the chalk like a wall of air that was harder than air.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p109",
+   "type": "narration",
+   "text": "And behind her, in the cutting, the heartstone wagon roared.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p110",
+   "type": "narration",
+   "text": "She looked back. The hearts in their cages had gone from red to white. All of them. Burning. The brass lines glowing. Strake standing over them with her burned hands up as if warming them at a fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p111",
+   "type": "thought",
+   "text": "Stand."
+  },
+  {
+   "seq": 143,
+   "para": "p111",
+   "type": "narration",
+   "text": "Six hundred voices. Over and over, steady.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 144,
+   "para": "p112",
+   "type": "narration",
+   "text": "It walked into the ward.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p113",
+   "type": "narration",
+   "text": "She watched it. The great head coming up the slope. The chain-ends swinging from its legs. The coal on its back. It walked into the shimmer at the ridge’s foot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p114",
+   "type": "narration",
+   "text": "And stopped.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 147,
+   "para": "p115",
+   "type": "narration",
+   "text": "It stood there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p116",
+   "type": "narration",
+   "text": "The size of a hill, at the foot of the ridge, in the ward. Standing still. Its head lowered a little, as if it were looking at the shimmer, as if it were trying to understand what had stopped it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p117",
+   "type": "thought",
+   "text": "Stand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p118",
+   "type": "narration",
+   "text": "Behind the ridge, the last column was on the road. She could hear the carts. The wheels on the chalk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p119",
+   "type": "thought",
+   "text": "Stand.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 152,
+   "para": "p120",
+   "type": "narration",
+   "text": "It held an hour.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p121",
+   "type": "narration",
+   "text": "She didn’t know it was an hour until after. Davin told her. He’d stood behind the ranks with his writing-case and counted, because he counted everything, and he said it was an hour and four minutes from the moment it stopped to the moment the hearts went out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p122",
+   "type": "narration",
+   "text": "She knew it was long.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 155,
+   "para": "p123",
+   "type": "speech",
+   "text": "“Marshal.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p124",
+   "type": "narration",
+   "text": "Strake. At her stirrup. Her face white.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p125",
+   "type": "speech",
+   "text": "“They’re going,”"
+  },
+  {
+   "seq": 158,
+   "para": "p125",
+   "type": "narration",
+   "text": "said Strake."
+  },
+  {
+   "seq": 159,
+   "para": "p125",
+   "type": "speech",
+   "text": "“The hearts. They’re spent.”",
+   "how": "shouted"
+  },
+  {
+   "seq": 160,
+   "para": "p125",
+   "type": "narration",
+   "text": "She looked back at the wagon. The glow in it was going down. White to yellow. Yellow to red."
+  },
+  {
+   "seq": 161,
+   "para": "p125",
+   "type": "speech",
+   "text": "“A few breaths. I can’t feed it more. There’s no more to feed it.”",
+   "how": "shouted",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p126",
+   "type": "narration",
+   "text": "Rowan looked at the road.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p127",
+   "type": "narration",
+   "text": "The last cart of the last column was going over the far side of the valley, east. Small. Out of sight.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 164,
+   "para": "p128",
+   "type": "narration",
+   "text": "She put the horn to her mouth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p129",
+   "type": "narration",
+   "text": "Three notes. Short.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p130",
+   "type": "narration",
+   "text": "The same three she’d blown on Greyhold’s north tower at noon, the day the hill came down, with the chain in the crown men’s hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p131",
+   "type": "narration",
+   "text": "Before the ward went. Not after.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 168,
+   "para": "p132",
+   "type": "narration",
+   "text": "The ones who heard her went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p133",
+   "type": "narration",
+   "text": "They broke off the ridge’s top and ran, down the cutting toward the valley, past the heartstone wagon, as she’d drilled them for two days: when the horn goes, run. Don’t look back. Don’t stand. The knights on the flanks to cover. The militia down the road. The crown men down the ridge’s back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p134",
+   "type": "narration",
+   "text": "Most of them heard her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 171,
+   "para": "p135",
+   "type": "narration",
+   "text": "The ward went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p136",
+   "type": "narration",
+   "text": "She felt it go. The shimmer over the ridge flickered, and thinned, and wasn’t. Behind her the heartstone wagon’s glow went out. The last hearts black in their cages. Spent.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p137",
+   "type": "narration",
+   "text": "And the Titan came over the ridge.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 174,
+   "para": "p138",
+   "type": "narration",
+   "text": "She didn’t see all of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p139",
+   "type": "narration",
+   "text": "She was on her horse, on the ridge’s back slope, shouting. She saw the ones who hadn’t heard the horn. Or had, and stood anyway, because six hundred voices had been saying stand for an hour and they couldn’t stop. The voices broke when the ward went. Some ran then. Some didn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p140",
+   "type": "narration",
+   "text": "She saw the foot come down on the cutting.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 177,
+   "para": "p141",
+   "type": "narration",
+   "text": "She saw Aldous Pryne.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p142",
+   "type": "narration",
+   "text": "On the ridge’s top, where he’d been covering the militia’s run, on his old greyhart. He’d been a knight longer than she had. He hadn’t thanked her for saying so. He turned his greyhart across the cutting to cover the last of Agnes Wick’s porters going down, and the Titan’s foreleg came down over the ridge, and the greyhart went under it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p143",
+   "type": "narration",
+   "text": "And Pryne with it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 180,
+   "para": "p144",
+   "type": "narration",
+   "text": "Crale’s dozen held the road.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p145",
+   "type": "narration",
+   "text": "At its last bend below the ridge, where the King’s Road turned down into the valley. Crale wasn’t there; Crale had been relieved. His dozen were. They’d been on the border post with him and he’d been ashamed of being frightened, and they’d known it. They turned their greyharts across the road at the bend and held it while the last of the militia went past behind them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p146",
+   "type": "narration",
+   "text": "The Titan came down the road.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p147",
+   "type": "narration",
+   "text": "They were gone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 184,
+   "para": "p148",
+   "type": "narration",
+   "text": "Four hundred.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p149",
+   "type": "narration",
+   "text": "Davin counted that too. Later. At the camp on the King’s Road, east, three days later, with every company’s sergeant telling him their names. Four hundred and twelve. A third of the army.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p150",
+   "type": "narration",
+   "text": "Pryne. Crale’s dozen. Two hundred of the crown men. A hundred and sixty of the militia, who’d never held a line in their lives and had held one for an hour. Strake’s wagon crew. Six knights of Greyhold. Twenty greyharts. Hounds.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p151",
+   "type": "narration",
+   "text": "She had his list in her coat.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 188,
+   "para": "p152",
+   "type": "narration",
+   "text": "Hallowmere was empty when it got there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p153",
+   "type": "narration",
+   "text": "The ninety-fourth. It walked down into the valley and through the east gate, which it didn’t notice, and up the streets of the grey city in its terraces. Through the bread queues’ empty lanes. Through the corn exchange. Up to the top terrace.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p154",
+   "type": "narration",
+   "text": "To the crown’s long hall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p155",
+   "type": "narration",
+   "text": "The chapter-houses, along the top of the hill, the whole long line of them. The Crown’s Square in front of them with its dead lamps. The crown’s chapter-house at its head, where she’d signed an outlaw’s name. The chapel off the square, small and grey, with twelve glass lamps on its altar step that had been the gods’ gift to the crown.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p156",
+   "type": "narration",
+   "text": "It walked through them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p157",
+   "type": "narration",
+   "text": "She watched it from the eastern hills with her glass. She watched the long hall go down along its whole length like a line of children’s blocks. She watched the chapel go.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 194,
+   "para": "p158",
+   "type": "narration",
+   "text": "Then it went down to the Mere.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p159",
+   "type": "narration",
+   "text": "Down the terraces on the far side. Into the water. The Mere was shallow and wide, Hearthmere’s heart, grey and low since the drain. It walked out into the middle of it. And lay down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p160",
+   "type": "narration",
+   "text": "And the Mere boiled.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 197,
+   "para": "p161",
+   "type": "narration",
+   "text": "She saw the steam go up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p162",
+   "type": "narration",
+   "text": "White. A wall of it, all at once, off the whole Mere, as if somebody had poured water on a forge. Up into the sky over the valley in a great white column, spreading. It went on going up for three days. You could see it from the King’s Road at Ashford, the travellers said. From the Marches. From the Downs.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p163",
+   "type": "narration",
+   "text": "The thing lay in the Mere and the Mere boiled round it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p164",
+   "type": "narration",
+   "text": "It didn’t get up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 201,
+   "para": "p165",
+   "type": "narration",
+   "text": "The courier came on the ninety-ninth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p166",
+   "type": "narration",
+   "text": "A crown courier from the Wend crossing, on a lathered horse. The Bell had come in at Corsa. Corsa was broken. The Tidehall was down. The Speaker was dead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p167",
+   "type": "narration",
+   "text": "And the dragons.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p168",
+   "type": "narration",
+   "text": "Forty of them, the courier said, over Corsa’s wreck, flying in baskets. Carrying people. Up onto a hill behind the city where there were ships, somehow, ships on a hill. And a red dragon so big it had lifted a ship on its own.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p169",
+   "type": "narration",
+   "text": "She’d thought, then: the farmer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p170",
+   "type": "narration",
+   "text": "She thought it again now, on the King’s Road, east of the boiling Mere.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 207,
+   "para": "p171",
+   "type": "narration",
+   "text": "She had eight hundred left on the hundredth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p172",
+   "type": "narration",
+   "text": "Eight hundred, and sixty thousand people strung out behind her along the King’s Road east toward Greyhold and the Marches, and the Sun Road south-west. Davin’s count. Hallowmere empty. The crown’s long hall gone. The Mere boiling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p173",
+   "type": "narration",
+   "text": "Nobody had died in Hallowmere.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p174",
+   "type": "narration",
+   "text": "Four hundred and twelve had died on the Candle Downs, holding a ridge for an hour and four minutes.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 211,
+   "para": "p175",
+   "type": "narration",
+   "text": "She’d blown the horn before the ward went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p176",
+   "type": "narration",
+   "text": "She thought about that, the night of the hundredth, alone at the camp’s edge, with the steam going up white over the western hills in the dark. She’d blown it before. The ones who heard her had lived. If she’d held the ridge one breath longer, for the ridge, she’d have had none of them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p177",
+   "type": "narration",
+   "text": "She’d held a ridge for an hour because there were people behind it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p178",
+   "type": "narration",
+   "text": "She’d never hold a hill again because it was a hill.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 215,
+   "para": "p179",
+   "type": "thought",
+   "text": "Hold people,"
+  },
+  {
+   "seq": 216,
+   "para": "p179",
+   "type": "narration",
+   "text": "she thought. Not ground.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p180",
+   "type": "narration",
+   "text": "She took Davin’s list out of her coat and read the names by the fire. All of them. Four hundred and twelve. It took until nearly dawn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p181",
+   "type": "narration",
+   "text": "Then she folded it once along its length and put it back, against her chest, beside Thale’s letter with the crown’s seal on it.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "f7a69d1fba1619d2b20b6d47bdf97f3cd6133f8e",
+ "segments_sha1": "e010dd2fadcbe32bb80f19643874a0cc41599144"
+}

@@ -2,6 +2,31 @@
  "chapter": 62,
  "title": "Before the Storm",
  "pov": "Calder",
+ "source": "Chapters/Chapter 62 - Before the Storm.md",
+ "names": [
+  "ada",
+  "ashby",
+  "aurveth",
+  "bel",
+  "calder",
+  "drover",
+  "greyhold",
+  "gunna",
+  "hallam",
+  "harrow",
+  "hollins",
+  "lisska",
+  "morrow",
+  "ram",
+  "scar",
+  "scarfell",
+  "staithe",
+  "tamsin",
+  "tarne",
+  "varrhold",
+  "wheel",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1880,5 +1905,8 @@
    "text": "He sat on the Scar and watched it. Two days to the ferry. He counted them.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "88a0a5709d7258cd637c86e0c0a3ded179bfb037",
+ "segments_sha1": "e692a9693c6f3dc6d8b4e573799dfc6e86ea5d9f"
 }

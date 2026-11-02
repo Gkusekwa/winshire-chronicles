@@ -1,0 +1,1183 @@
+{
+ "chapter": 74,
+ "title": "One Hour of Light",
+ "pov": "",
+ "source": "Chapters/Chapter 74 - One Hour of Light.md",
+ "names": [
+  "greyhold",
+  "maren",
+  "orrun",
+  "penfold",
+  "rowan",
+  "thurl"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Seventy-four.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "One Hour of Light.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "He’d said it at a kitchen table.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "In Sarovel. At a stage-house on the Sun Road, the night before the household’s man came for him, with the oil lamp between them and his pen going down the back of a printed form in columns of little hooked words. He’d said it without looking up. As if it were one more word for the list.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "She’d written it under the list. In her own hand. So she wouldn’t forget it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "thought",
+   "text": "When it has five, the middle will answer. Every dead lamp will light. An hour. Maybe less.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "thought",
+   "text": "Don’t let them think it’s come back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "thought",
+   "text": "It means it’s coming home.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "The ferry was still running at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "The last of Penfold. The last of Ferriby. Carts on the jetty road in the grey, and a few cows, and a man with geese in a crate. Liss on the boat on the new rope, hand over hand, with a lantern in the bow now because the light was going. Tam on the jetty with the night lantern, waiting for his turn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "On the far bank, the fires. Up the Staithe track, up the Drover’s Way, a line of small yellow lights going north into the dark. People who’d crossed today, stopped for the night. Cooking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "Behind her, Greyhold on its hill. Dark, except for the crown company’s torches on the walls. The dead lamps on the river wall black on their iron posts, as they’d been since the spring. Black glass.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "narration",
+   "text": "She stood at the jetty’s end with Orrun lying behind her across the road and watched the boat come back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 14,
+   "para": "p12",
+   "type": "narration",
+   "text": "The lamps lit in the second hour of the night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p13",
+   "type": "narration",
+   "text": "All at once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p14",
+   "type": "narration",
+   "text": "She was looking at the river. At the boat. And the river went white. Not the river: the light on it. She turned round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p15",
+   "type": "narration",
+   "text": "The lamps on Greyhold’s river wall were burning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p16",
+   "type": "narration",
+   "text": "Every one. White. The old light. The light that had come out of nowhere into black glass every night of her life until the spring, and then stopped. It was back. Brighter than she’d ever seen it. So bright she put her hand up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 19,
+   "para": "p17",
+   "type": "narration",
+   "text": "Then up the hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p18",
+   "type": "narration",
+   "text": "The lamps along the jetty road, on their posts, one after another going up toward the gate. The lamps over the gate, under the charter, under the thing hanging in its chains. The lamps in the yard. In the towers’ windows.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p19",
+   "type": "narration",
+   "text": "Then downriver.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p20",
+   "type": "narration",
+   "text": "She saw it go. Two leagues off, Millbrook. Lit. A cluster of white on the dark bank, where there’d been nothing for a year. Then past it. Further. Small white points along the bank going away south, one after another, as fast as she could count them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p21",
+   "type": "narration",
+   "text": "Then north. Up the River Road. Northwatch’s tower, white on its roof. Redwatch. Further. Points of white going away up the valley into the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p22",
+   "type": "narration",
+   "text": "And to the west, over the downs, toward Hallowmere, the sky going pale.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p23",
+   "type": "narration",
+   "text": "Every lamp in Hearthmere. At once.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 26,
+   "para": "p24",
+   "type": "narration",
+   "text": "Somebody on the walls cheered.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p25",
+   "type": "narration",
+   "text": "The crown company. She heard it come down off the walls, men’s voices, one and then all of them. Cheering. Banging their crossbows on the merlons.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p26",
+   "type": "narration",
+   "text": "On the jetty road a woman dropped her bundle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p27",
+   "type": "narration",
+   "text": "Just let go of it. It fell in the road and split, and clothes went out of it into the mud, and she didn’t look at it. She was looking up at the lamps on their posts. Her face white in the light. Then she went down on her knees in the road and put her hands over her face and wept.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p28",
+   "type": "speech",
+   "text": "“It’s come back,”",
+   "how": "shouted"
+  },
+  {
+   "seq": 31,
+   "para": "p28",
+   "type": "narration",
+   "text": "somebody shouted. A man. Running back up the jetty road from the boats, against the carts."
+  },
+  {
+   "seq": 32,
+   "para": "p28",
+   "type": "speech",
+   "text": "“The light’s come back! It’s come back!”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p29",
+   "type": "narration",
+   "text": "A Penfold man with a cart at the jetty’s foot, waiting his turn to cross, looked up at the lamps. Then he took his horse by the head and began to turn the cart round.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 34,
+   "para": "p30",
+   "type": "narration",
+   "text": "Liss didn’t stop.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p31",
+   "type": "narration",
+   "text": "Maren saw her. Out in the middle of the river, in the boat, with a cart and two old women and the river going past white with the light on it. Liss looked up at the lamps on the wall. A long look.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p32",
+   "type": "narration",
+   "text": "Then she took hold of the rope again and hauled.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 37,
+   "para": "p33",
+   "type": "narration",
+   "text": "Maren took out the black book.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p34",
+   "type": "narration",
+   "text": "From her coat. With Idony’s list folded inside the back cover. She opened it to the list and read the words under it in her own hand, by the light of a lamp on a post on the jetty that hadn’t burned since the spring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p35",
+   "type": "thought",
+   "text": "It means it’s coming home.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p36",
+   "type": "narration",
+   "text": "She read it twice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p37",
+   "type": "narration",
+   "text": "Then she put the book away and went up the jetty road. Past the woman on her knees. Past the Penfold man turning his cart. Up toward the gate, with Orrun behind her, and the lamps burning white all the way up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 42,
+   "para": "p38",
+   "type": "narration",
+   "text": "Thurl was in the cellar.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p39",
+   "type": "narration",
+   "text": "With his rod. She heard him before she saw him: not words, a sound. A man breathing out hard. She came down the cellar steps under the inner wall and found him at the back wall with the end of the rod against the old stone and both hands on it and his eyes shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p40",
+   "type": "speech",
+   "text": "“It reads full,”"
+  },
+  {
+   "seq": 45,
+   "para": "p40",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p41",
+   "type": "narration",
+   "text": "He didn’t open his eyes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p42",
+   "type": "speech",
+   "text": "“For the first time. Since I came. It reads full.”"
+  },
+  {
+   "seq": 48,
+   "para": "p42",
+   "type": "narration",
+   "text": "He took one hand off the rod and held it out to her without looking."
+  },
+  {
+   "seq": 49,
+   "para": "p42",
+   "type": "speech",
+   "text": "“Feel.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p43",
+   "type": "narration",
+   "text": "She put her hand on the rod.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p44",
+   "type": "narration",
+   "text": "It hummed. Under her palm. Full. The old stone of the inner wall, that had read like chalk, like the glass at the Scald before the Titan stood up on it: full. Humming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p45",
+   "type": "narration",
+   "text": "And moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p46",
+   "type": "narration",
+   "text": "She felt it. Under the hum. Something going through the stone. Not into it. Through. From somewhere below. Up, and along, and away. South.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 54,
+   "para": "p47",
+   "type": "speech",
+   "text": "“It’s not filling,”"
+  },
+  {
+   "seq": 55,
+   "para": "p47",
+   "type": "narration",
+   "text": "said Thurl.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p48",
+   "type": "narration",
+   "text": "He opened his eyes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p49",
+   "type": "speech",
+   "text": "“I thought it was. For a breath. I thought, it’s filling up again, the bleed’s come back, it’s filling the stone.”"
+  },
+  {
+   "seq": 58,
+   "para": "p49",
+   "type": "narration",
+   "text": "He took the rod away."
+  },
+  {
+   "seq": 59,
+   "para": "p49",
+   "type": "speech",
+   "text": "“It’s not. It’s being drawn through.”"
+  },
+  {
+   "seq": 60,
+   "para": "p49",
+   "type": "narration",
+   "text": "He looked at the wall."
+  },
+  {
+   "seq": 61,
+   "para": "p49",
+   "type": "speech",
+   "text": "“Like a pipe. Not a cup.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p50",
+   "type": "speech",
+   "text": "“Toward what?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p51",
+   "type": "narration",
+   "text": "Thurl looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p52",
+   "type": "speech",
+   "text": "“South,”"
+  },
+  {
+   "seq": 65,
+   "para": "p52",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 66,
+   "para": "p52",
+   "type": "speech",
+   "text": "“To the sea.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 67,
+   "para": "p53",
+   "type": "narration",
+   "text": "Dane was in the yard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p54",
+   "type": "narration",
+   "text": "Under the lamps. Very straight. With his gloved hands up, both of them, palms out, toward the lamps over the north tower door, as a man warms his hands at a fire. His long face had moved. She’d never seen it move. He was smiling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p55",
+   "type": "speech",
+   "text": "“The stone’s full,”"
+  },
+  {
+   "seq": 70,
+   "para": "p55",
+   "type": "narration",
+   "text": "he said. To Thurl, coming up the cellar steps behind her."
+  },
+  {
+   "seq": 71,
+   "para": "p55",
+   "type": "speech",
+   "text": "“Did you read it? It’s full.”"
+  },
+  {
+   "seq": 72,
+   "para": "p55",
+   "type": "narration",
+   "text": "He turned round."
+  },
+  {
+   "seq": 73,
+   "para": "p55",
+   "type": "speech",
+   "text": "“It’ll hold now. The anchors. It’ll hold.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p56",
+   "type": "speech",
+   "text": "“It’s not full,”"
+  },
+  {
+   "seq": 75,
+   "para": "p56",
+   "type": "narration",
+   "text": "said Thurl."
+  },
+  {
+   "seq": 76,
+   "para": "p56",
+   "type": "speech",
+   "text": "“It’s being drawn through.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p57",
+   "type": "narration",
+   "text": "Dane looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p58",
+   "type": "speech",
+   "text": "“Drawn by what?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p59",
+   "type": "narration",
+   "text": "Thurl didn’t answer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p60",
+   "type": "narration",
+   "text": "Dane looked at Maren. At the lion behind her, filling the yard, with the white lamplight on his grey mane. Then up at the lamps again. His face went still again, slowly. The smile went out of it as if it had never been there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p61",
+   "type": "narration",
+   "text": "He put his gloved hands down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 82,
+   "para": "p62",
+   "type": "narration",
+   "text": "The chain was lit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p63",
+   "type": "narration",
+   "text": "She saw it as she crossed the yard. The heaps of new cage-chain by the carts, every link as tall as a man, black in the day. They were glowing. On the inside of every curve, where Tam had struck the runes where the thing wouldn’t see them. A faint white line in every link, all down every heap, like embers under ash.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p64",
+   "type": "narration",
+   "text": "Odo was at the forge door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p65",
+   "type": "narration",
+   "text": "In his chair. Tam had left him there when the lamps came on and run down to the jetty. He sat with the blanket over his crooked legs and his big burned hands on the arms of the chair and looked at the chain.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p66",
+   "type": "speech",
+   "text": "“They’re feeding,”"
+  },
+  {
+   "seq": 87,
+   "para": "p66",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p67",
+   "type": "speech",
+   "text": "“On what?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p68",
+   "type": "speech",
+   "text": "“On whatever’s going through this hill,”"
+  },
+  {
+   "seq": 90,
+   "para": "p68",
+   "type": "narration",
+   "text": "said Odo."
+  },
+  {
+   "seq": 91,
+   "para": "p68",
+   "type": "speech",
+   "text": "“That’s what the runes do. Hold. They feed on what they hold.”"
+  },
+  {
+   "seq": 92,
+   "para": "p68",
+   "type": "narration",
+   "text": "He looked at the heaps."
+  },
+  {
+   "seq": 93,
+   "para": "p68",
+   "type": "speech",
+   "text": "“And they haven’t got anything to hold yet.”"
+  },
+  {
+   "seq": 94,
+   "para": "p68",
+   "type": "narration",
+   "text": "He was quiet."
+  },
+  {
+   "seq": 95,
+   "para": "p68",
+   "type": "speech",
+   "text": "“When they have, they’ll feed on that. And it’ll be bigger than this.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p69",
+   "type": "narration",
+   "text": "He looked up at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p70",
+   "type": "speech",
+   "text": "“I’ve made a lot of chain,”"
+  },
+  {
+   "seq": 98,
+   "para": "p70",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 99,
+   "para": "p70",
+   "type": "speech",
+   "text": "“I’ve never seen chain do that.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 100,
+   "para": "p71",
+   "type": "narration",
+   "text": "Rowan was at the yard gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p72",
+   "type": "narration",
+   "text": "Looking down the jetty road. At the people in it. The woman on her knees. The Penfold man with his cart turned round. Others, coming back up from the jetty, looking at the lamps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p73",
+   "type": "speech",
+   "text": "“Is it?”"
+  },
+  {
+   "seq": 103,
+   "para": "p73",
+   "type": "narration",
+   "text": "said Rowan. Without turning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p74",
+   "type": "speech",
+   "text": "“No.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p75",
+   "type": "narration",
+   "text": "Rowan looked at the lamps for a while.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p76",
+   "type": "speech",
+   "text": "“What is it?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p77",
+   "type": "speech",
+   "text": "“It’s the big one,”"
+  },
+  {
+   "seq": 108,
+   "para": "p77",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 109,
+   "para": "p77",
+   "type": "speech",
+   "text": "“It’s got five. In its back. The reader said, when it had five, the middle would answer.”"
+  },
+  {
+   "seq": 110,
+   "para": "p77",
+   "type": "narration",
+   "text": "She looked at the lamps."
+  },
+  {
+   "seq": 111,
+   "para": "p77",
+   "type": "speech",
+   "text": "“This is the middle answering. It’s drawing on what’s under here. From the sea.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p78",
+   "type": "speech",
+   "text": "“So it’s coming.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p79",
+   "type": "speech",
+   "text": "“It’s coming home.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 114,
+   "para": "p80",
+   "type": "narration",
+   "text": "Rowan turned round to the yard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Wynn,”",
+   "how": "quietly"
+  },
+  {
+   "seq": 116,
+   "para": "p81",
+   "type": "narration",
+   "text": "she said, quietly. Wynn was there, by the north tower, with his hounds, looking up at the lamps with his mouth open. He shut it."
+  },
+  {
+   "seq": 117,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Take four. Go down the jetty road. Tell them it’s not come back. Tell them to keep crossing.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p82",
+   "type": "speech",
+   "text": "“They won’t believe us,”"
+  },
+  {
+   "seq": 119,
+   "para": "p82",
+   "type": "narration",
+   "text": "said Wynn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p83",
+   "type": "speech",
+   "text": "“Then tell them again,”"
+  },
+  {
+   "seq": 121,
+   "para": "p83",
+   "type": "narration",
+   "text": "said Rowan.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 122,
+   "para": "p84",
+   "type": "narration",
+   "text": "She went down to the held breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p85",
+   "type": "narration",
+   "text": "With Orrun. Down the water-gate stair, which was humming. She felt it in the walls. In the steps under her boots. In her teeth. The old stone, full and drawn through, all the way down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p86",
+   "type": "narration",
+   "text": "The cavern was lit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p87",
+   "type": "narration",
+   "text": "The knight’s lock, at the far end of the black water, was blazing. Every ring of its hooked script white, bright enough to throw her shadow up the stair behind her. And the black water standing up in ripples. Little ones. All over it. Although nothing touched it. Although nothing moved in the cavern but the light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p88",
+   "type": "narration",
+   "text": "And the warmth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p89",
+   "type": "narration",
+   "text": "It came up the stair to meet her. From the shut place. From the end of the cavern, past the lock, past the Kessmoor scaffolds standing in the white light with their drills. A warmth like the warmth off a beast lying in straw. A big one. Breathing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 128,
+   "para": "p90",
+   "type": "narration",
+   "text": "Orrun stopped on the last step.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p91",
+   "type": "narration",
+   "text": "He didn’t go down onto the ledge. He stood on the stair with his head low and his mane up and looked at the shut place across the black water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p92",
+   "type": "bond",
+   "text": "It is calling it home,"
+  },
+  {
+   "seq": 131,
+   "para": "p92",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p93",
+   "type": "speech",
+   "text": "“The big one?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p94",
+   "type": "thought",
+   "text": "It."
+  },
+  {
+   "seq": 134,
+   "para": "p94",
+   "type": "narration",
+   "text": "He didn’t say which."
+  },
+  {
+   "seq": 135,
+   "para": "p94",
+   "type": "thought",
+   "text": "It is calling, and the other is answering. From the sea. It has five. It wants the sixth breath."
+  },
+  {
+   "seq": 136,
+   "para": "p94",
+   "type": "narration",
+   "text": "He was quiet."
+  },
+  {
+   "seq": 137,
+   "para": "p94",
+   "type": "thought",
+   "text": "They are speaking to each other. Through the stone. Through me."
+  },
+  {
+   "seq": 138,
+   "para": "p94",
+   "type": "narration",
+   "text": "He shivered. All along his length, from his head to the end of his tail. She’d never seen him do that."
+  },
+  {
+   "seq": 139,
+   "para": "p94",
+   "type": "thought",
+   "text": "I can hear them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p95",
+   "type": "speech",
+   "text": "“What are they saying?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p96",
+   "type": "narration",
+   "text": "Orrun was quiet for a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p97",
+   "type": "bond",
+   "text": "Home,"
+  },
+  {
+   "seq": 143,
+   "para": "p97",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 144,
+   "para": "p98",
+   "type": "narration",
+   "text": "The hour ended.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p99",
+   "type": "narration",
+   "text": "She was on the jetty again when it did. The lamps went out from the north. As they’d come. Redwatch first, she thought, far up the valley: a point of white going out. Then Northwatch. Then nearer. One after another, down the River Road, coming toward her. Millbrook, down the river. The yard. The gate. The jetty road’s posts, one by one, down the hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p100",
+   "type": "narration",
+   "text": "Then the river wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p101",
+   "type": "narration",
+   "text": "Last. All together. White. Then black glass on iron posts.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p102",
+   "type": "narration",
+   "text": "Dark.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 149,
+   "para": "p103",
+   "type": "narration",
+   "text": "The people in the road stood in it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p104",
+   "type": "narration",
+   "text": "Nobody said anything. The cheering on the walls had stopped a long time ago. The man who’d run back up from the boats stood in the middle of the road with his arms at his sides. The Penfold man stood at his horse’s head with his cart half turned.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p105",
+   "type": "narration",
+   "text": "Then the woman who’d been on her knees got up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p106",
+   "type": "narration",
+   "text": "She picked up her bundle. What was left of it. She put the clothes back in it out of the mud, one at a time, and tied it, and put it on her back. And walked down the jetty road to the boat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p107",
+   "type": "narration",
+   "text": "The Penfold man watched her go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p108",
+   "type": "narration",
+   "text": "Then he turned his cart round again.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 155,
+   "para": "p109",
+   "type": "narration",
+   "text": "Liss marked the post.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p110",
+   "type": "narration",
+   "text": "At the jetty’s end. With her knife. When she came in on the boat after the dark came back, she got out and stood on the jetty and looked at the water, and then at the big post where the new rope was tied. She took her knife out and cut a line in the wood at the waterline.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p111",
+   "type": "speech",
+   "text": "“Watch,”"
+  },
+  {
+   "seq": 158,
+   "para": "p111",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p112",
+   "type": "narration",
+   "text": "Maren watched.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p113",
+   "type": "narration",
+   "text": "The river came up the post.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 161,
+   "para": "p114",
+   "type": "narration",
+   "text": "Not a flood. The river ran no faster than it had all day. No rain had fallen. The sky over the valley was clear and black and full of stars.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p115",
+   "type": "narration",
+   "text": "But it came up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p116",
+   "type": "narration",
+   "text": "Slowly. Steadily. A finger’s breadth over Liss’s cut. Two. The water round the jetty’s foot lifting, quietly, without a sound, over the stones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p117",
+   "type": "narration",
+   "text": "In an hour it was a hand’s breadth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p118",
+   "type": "narration",
+   "text": "Liss cut another line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p119",
+   "type": "speech",
+   "text": "“I’ve run this river thirty years,”"
+  },
+  {
+   "seq": 167,
+   "para": "p119",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 168,
+   "para": "p119",
+   "type": "speech",
+   "text": "“It’s never done that.”"
+  },
+  {
+   "seq": 169,
+   "para": "p119",
+   "type": "narration",
+   "text": "She put her knife away and looked downstream. South. Toward the sea, a long way down in the dark."
+  },
+  {
+   "seq": 170,
+   "para": "p119",
+   "type": "speech",
+   "text": "“It’s as if the sea took a breath. Somewhere down there. And the river came up the valley to meet it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p120",
+   "type": "narration",
+   "text": "Maren looked south.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p121",
+   "type": "narration",
+   "text": "At the dark. At nothing. A spit of stones a day’s flying off, past the river’s mouth, with white crosses on its roofs.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p122",
+   "type": "narration",
+   "text": "Orrun lay across the road behind her with his chin on the jetty’s end and the risen river going past his nose, and didn’t sleep.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "7f0b4dea9a72dffb532476d816b616e9a460ebc1",
+ "segments_sha1": "f4d45cd4bf6caa9bcd9efe9df6f2eb71e37efd08"
+}

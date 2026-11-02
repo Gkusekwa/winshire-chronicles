@@ -1,0 +1,1400 @@
+{
+ "chapter": 70,
+ "title": "The Hour",
+ "pov": "",
+ "source": "Chapters/Chapter 70 - The Hour.md",
+ "names": [
+  "bell",
+  "bridle",
+  "coil",
+  "greyhold",
+  "hearthmere",
+  "kharrak",
+  "last",
+  "lisska",
+  "orrun",
+  "roosts",
+  "saltreach",
+  "sarovel",
+  "sun",
+  "titan"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Seventy.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Hour.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The Lamp’s horn was a finger deep.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "In the plates. Behind the left shoulder. The red light coming up out of the crack round it, along the horn, onto the Lamp’s face that she couldn’t look at. A finger. Then more. Going down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "The farmer’s hand in hers.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "She looked at it. Their two bandaged hands. She couldn’t feel his. She looked, and he had hers, and the lion’s foot was on the Last Titan’s neck, and the coal was coming up to the Lamp’s horn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "bond",
+   "text": "Almost"
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "narration",
+   "text": ", said Orrun.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": "She heard it first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "narration",
+   "text": "Through him. He heard everything. A small sound. On the Flat, across the eddy. Very small. Under the roar of the engines.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p8",
+   "type": "narration",
+   "text": "Wax. Breaking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p9",
+   "type": "narration",
+   "text": "Eight times. Almost together.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 13,
+   "para": "p10",
+   "type": "narration",
+   "text": "Then voices.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p11",
+   "type": "narration",
+   "text": "Flat. Men’s. All at once. On both banks. The crew-masters, at their engines and their jibs and their bolt-throwers, reading. Out loud. From paper. She couldn’t hear the words. She heard the sound of eight men reading the same words at the same time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p12",
+   "type": "narration",
+   "text": "As at noon, on the wall. As at a muster.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p13",
+   "type": "bond",
+   "text": "What is that?"
+  },
+  {
+   "seq": 17,
+   "para": "p13",
+   "type": "narration",
+   "text": "said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p14",
+   "type": "narration",
+   "text": "She didn’t know.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 19,
+   "para": "p15",
+   "type": "narration",
+   "text": "The jibs swung.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 20,
+   "para": "p16",
+   "type": "narration",
+   "text": "All six. At once. On their posts at the eddy’s edge. Round. Out. Over the water. As they’d swung at the rehearsal she’d watched from the wall, on the hour. Like the hands of a clock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p17",
+   "type": "narration",
+   "text": "With the Bridle’s chain-ends on them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p18",
+   "type": "narration",
+   "text": "Out over the eddy. Over the Last Titan, lying on its side in the middle, with the lion’s foot on its neck and the Lamp on its back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p19",
+   "type": "narration",
+   "text": "And dropped.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 24,
+   "para": "p20",
+   "type": "narration",
+   "text": "She saw them come down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p21",
+   "type": "narration",
+   "text": "Black. Each link as long as a man. Out of the sky, from the jibs, over the great grey body. Over its neck. Over its shoulders. Over its legs, where the old chain-ends were, the College’s, the twelve that had dragged furrows across the downs. Falling across it. Iron on stone and leather, with a sound like a forge dropping a bar.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p22",
+   "type": "narration",
+   "text": "On her. Almost on her. A length came down across Orrun’s shoulder and slid off into the water.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 27,
+   "para": "p23",
+   "type": "narration",
+   "text": "And the engines roared.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p24",
+   "type": "narration",
+   "text": "All twelve. On the Flat. In their ring. Breathing. She heard them change. From a roar to a deeper roar. Pulling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p25",
+   "type": "narration",
+   "text": "The chains went taut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p26",
+   "type": "narration",
+   "text": "From the jibs. From the ring, across the Flat, to the jibs, and down from the jibs over the eddy to the Last Titan. Taut. Twelve lines of black iron across the grey water, singing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p27",
+   "type": "narration",
+   "text": "And along every link, light.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 32,
+   "para": "p28",
+   "type": "narration",
+   "text": "White. Thin. On the inside of each link, where she couldn’t see. Coming through. The hold. The old hooked word, cut on the inside of every link where nobody looked, glowing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p29",
+   "type": "narration",
+   "text": "As it had glowed under Greyhold. On six chains, in the dark, going down into the river.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 34,
+   "para": "p30",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 35,
+   "para": "p30",
+   "type": "narration",
+   "text": "said the farmer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p31",
+   "type": "narration",
+   "text": "Beside her. His hand tightening on hers. She saw it tighten.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p32",
+   "type": "speech",
+   "text": "“No. No. Not that. Not that.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 38,
+   "para": "p33",
+   "type": "narration",
+   "text": "Then the bolts.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 39,
+   "para": "p34",
+   "type": "narration",
+   "text": "She saw the bolt-throwers turn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p35",
+   "type": "narration",
+   "text": "All of them but the hub battery’s forty on their rail. On both banks. Sixty. On their wheeled frames, at the line, facing out, west and east, where they’d faced all day yesterday and all this morning. Turning. The crews heaving them round on their frames. Away from the line. Toward the eddy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p36",
+   "type": "narration",
+   "text": "Toward the Last Titan’s back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p37",
+   "type": "narration",
+   "text": "Toward the light on it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 43,
+   "para": "p38",
+   "type": "narration",
+   "text": "They fired.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p39",
+   "type": "narration",
+   "text": "The sound came across the water a breath after. Sixty bow-strings, iron, going at once. Like a flock of birds getting up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p40",
+   "type": "narration",
+   "text": "Black bolts. Tipped with grey heartstone. Coming across the eddy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p41",
+   "type": "narration",
+   "text": "Into the Lamp.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 47,
+   "para": "p42",
+   "type": "narration",
+   "text": "The first ones missed. Glanced. Went over. Went into the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p43",
+   "type": "narration",
+   "text": "Then they didn’t.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 49,
+   "para": "p44",
+   "type": "narration",
+   "text": "She saw them go in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p45",
+   "type": "narration",
+   "text": "Into the light. Black bolts, standing out of it. In its side. In its neck. In its flank. Grey tips gone in, black shafts standing out of the white-gold like thorns out of a hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p46",
+   "type": "narration",
+   "text": "Ten. Twenty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p47",
+   "type": "narration",
+   "text": "The Lamp didn’t make a sound.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p48",
+   "type": "narration",
+   "text": "Its horn came up out of the plates. Out of the crack. The red light going down again behind it, the plates closing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 54,
+   "para": "p49",
+   "type": "bond",
+   "text": "No"
+  },
+  {
+   "seq": 55,
+   "para": "p49",
+   "type": "narration",
+   "text": ", said Orrun.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 56,
+   "para": "p50",
+   "type": "narration",
+   "text": "The smoke went up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 57,
+   "para": "p51",
+   "type": "narration",
+   "text": "She saw it rise off the Flat. From the eddy’s edge. From a row of iron braziers along the water, that the crews had been tending all day, that she’d thought were for warmth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p52",
+   "type": "narration",
+   "text": "Yellow. Grey. Thick. Rolling up off the braziers as if somebody had thrown wet straw on a fire. Going up, and spreading, and the wind off the western downs taking it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p53",
+   "type": "narration",
+   "text": "East. Over the eddy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p54",
+   "type": "narration",
+   "text": "She smelled it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 61,
+   "para": "p55",
+   "type": "narration",
+   "text": "Honey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p56",
+   "type": "narration",
+   "text": "Burnt honey. Sweet. Thick. In her nose, in her mouth, though she couldn’t feel her mouth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p57",
+   "type": "narration",
+   "text": "The Roosts. The farmer had said it at the council."
+  },
+  {
+   "seq": 64,
+   "para": "p57",
+   "type": "remembered",
+   "text": "It opens everything. Every beast it reaches. On the wind.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p58",
+   "type": "narration",
+   "text": "The magazine’s doors were open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p59",
+   "type": "narration",
+   "text": "She saw them. The long low iron shed at the Flat’s western edge, its doors wide. A man in Hearthmere’s coat lying on the ground in front of it. Kessmoor’s crews rolling casks out. Squat. Iron-hooped. Down to the braziers.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p60",
+   "type": "narration",
+   "text": "She saw a cask’s bung as it went past a brazier’s light. Wax on it. Broken. A seal.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p61",
+   "type": "narration",
+   "text": "The Marshal’s.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 69,
+   "para": "p62",
+   "type": "narration",
+   "text": "It went over the line.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 70,
+   "para": "p63",
+   "type": "narration",
+   "text": "Both banks. The wind took it. Yellow-grey, rolling, low over the ground. Out from the Flat. West along the Hearthmere wall. East across the river onto the Saltreach bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p64",
+   "type": "narration",
+   "text": "Over everything.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 72,
+   "para": "p65",
+   "type": "narration",
+   "text": "She saw it reach the bend.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p66",
+   "type": "narration",
+   "text": "Through the shadow. The one that had held the bend yesterday, with its paws flat on the heaving ground, before it went north to the channel. It was gone from the bend. But she’d been in it all morning, and some of her was still there; she saw the bend through what was left of it, far off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p67",
+   "type": "narration",
+   "text": "The smoke reached the knights.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p68",
+   "type": "narration",
+   "text": "And the hounds turned.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 76,
+   "para": "p69",
+   "type": "narration",
+   "text": "All of them. At once. Every knight’s hound at the bend, that had stood in front of the knights all day yesterday, low, growling at the steam. Turning. Round. On the knights.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p70",
+   "type": "narration",
+   "text": "She saw Ash.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p71",
+   "type": "narration",
+   "text": "Wynn’s hound. The big grey one, that had come to Maren’s pockets in the kennels at Greyhold when she was a student. Turning. Its eyes gone empty. And going for Wynn’s throat.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 79,
+   "para": "p72",
+   "type": "narration",
+   "text": "The greyharts bolted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p73",
+   "type": "narration",
+   "text": "Through the militia. Three hundred of them. White, long-legged, the whites of their eyes showing. Through the lines behind the wall. Knocking people down. As a horse runs out of a burning barn.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 81,
+   "para": "p74",
+   "type": "narration",
+   "text": "The olifants broke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p75",
+   "type": "narration",
+   "text": "At the Sarovel sector. Their wall. The fifty-six that had stood all day yesterday with their eyes shut and wouldn’t be moved. Their eyes opening. Their trunks going up. Trumpeting. A sound she’d never heard from them. And going. Through the line. Through Sarovel’s people behind them. Through the unchosen on their white steeds, who were bolting too.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 83,
+   "para": "p76",
+   "type": "narration",
+   "text": "The wyverns fell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p77",
+   "type": "narration",
+   "text": "Over the scrub end. Out of the smoke. Nell Tallis’s. Black Ruth’s. She saw them come out of the yellow-grey with their riders on their backs and their wings going wrong. Folding. Screaming. Falling. One after another, out of the smoke, onto the scrub.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 85,
+   "para": "p78",
+   "type": "narration",
+   "text": "The stonehorns scattered. The lynx and the sabrecats went for anything that moved. The rocs went up and up, out of it, and didn’t come down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p79",
+   "type": "narration",
+   "text": "And the dragons screamed.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 87,
+   "para": "p80",
+   "type": "narration",
+   "text": "All of them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p81",
+   "type": "narration",
+   "text": "On the ridge. In the air. Arn’s. The freed. Every dragon on the Vale. A sound coming up out of the smoke from everywhere at once, high, terrible, that she’d never heard, and had heard the farmer try to tell, once, about the Roosts.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p82",
+   "type": "narration",
+   "text": "And beside her, in the water, Aurveth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 90,
+   "para": "p83",
+   "type": "narration",
+   "text": "Screaming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p84",
+   "type": "narration",
+   "text": "The old bronze one. Lying along Orrun’s flank in the eddy. Her great head coming up off the water, on her long neck, and her mouth open, and the sound coming out of it. Her eyes going.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p85",
+   "type": "narration",
+   "text": "And above them, Lisska. Green. In the smoke. Screaming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p86",
+   "type": "narration",
+   "text": "And downriver, over the shallows, Kharrak.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 94,
+   "para": "p87",
+   "type": "narration",
+   "text": "Then the smoke reached the eddy.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 95,
+   "para": "p88",
+   "type": "narration",
+   "text": "She felt him go.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 96,
+   "para": "p89",
+   "type": "narration",
+   "text": "Like a boat off its rope.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 97,
+   "para": "p90",
+   "type": "narration",
+   "text": "The farmer had said that. At the council. About Lisska, at the Roosts."
+  },
+  {
+   "seq": 98,
+   "para": "p90",
+   "type": "remembered",
+   "text": "Like a boat off its rope."
+  },
+  {
+   "seq": 99,
+   "para": "p90",
+   "type": "narration",
+   "text": "She’d heard it and thought she knew what it meant.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p91",
+   "type": "narration",
+   "text": "She hadn’t.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 101,
+   "para": "p92",
+   "type": "narration",
+   "text": "It didn’t break. That was the thing. The bond didn’t break. It slackened. She felt it go slack, all at once, between them. As a rope goes slack when the boat on the end of it slips its mooring and drifts. Still there. Still tied. Not holding.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p93",
+   "type": "narration",
+   "text": "He was there. She could feel him there. Under her. Huge. Grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p94",
+   "type": "narration",
+   "text": "Not holding her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p95",
+   "type": "narration",
+   "text": "Not holding anything.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 105,
+   "para": "p96",
+   "type": "bond",
+   "text": "Orrun"
+  },
+  {
+   "seq": 106,
+   "para": "p96",
+   "type": "narration",
+   "text": ", she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p97",
+   "type": "narration",
+   "text": "He didn’t answer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p98",
+   "type": "narration",
+   "text": "She could feel him hear her. He was drifting. Somewhere in himself. Away from her. Out on the water at the end of a slack rope.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 109,
+   "para": "p99",
+   "type": "narration",
+   "text": "His foot came off the Last Titan’s neck.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 110,
+   "para": "p100",
+   "type": "narration",
+   "text": "She felt it lift. Under her. The great forefoot, that had pressed the Last Titan’s head down on the water, the reverse of the chains, lifting. Off. Not because he chose to. Because nothing was holding it there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p101",
+   "type": "narration",
+   "text": "The Last Titan’s head was free.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p102",
+   "type": "narration",
+   "text": "Under the chains. Under the Bridle’s chains, with hold glowing on every link.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 113,
+   "para": "p103",
+   "type": "narration",
+   "text": "And the shadows went out.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 114,
+   "para": "p104",
+   "type": "narration",
+   "text": "All three. At once. In a breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p105",
+   "type": "narration",
+   "text": "She felt them go. The one on the channel bar in the north, where the Lady had the Coil pinned against its stone. The one at the river mouth, chest-deep in the sea, with its shoulder in the Bell’s back. The one here in the eddy, beside him, that had brought the Last Titan down with him at sunrise.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p106",
+   "type": "narration",
+   "text": "Out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p107",
+   "type": "narration",
+   "text": "As breath goes out. As candles go out when a door opens.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 118,
+   "para": "p108",
+   "type": "narration",
+   "text": "And their wounds came back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p109",
+   "type": "narration",
+   "text": "Into him. All of them. Everything the shadows had taken.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p110",
+   "type": "narration",
+   "text": "The Bell’s blows on the shoulder, at the mouth, all morning. Into his shoulder. The Coil’s cold, through the stone bar in the channel. Into his legs. The Last Titan’s chain-ends, across the shadow’s flank, at sunrise. Into his flank, on top of his own two.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p111",
+   "type": "narration",
+   "text": "She felt him take them. All at once. As a man takes a beating he wasn’t braced for.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p112",
+   "type": "narration",
+   "text": "He staggered.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p113",
+   "type": "narration",
+   "text": "In the water. Under her. A hill staggering. She grabbed his mane with her right hand and couldn’t feel if she’d got it and looked and she had.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 124,
+   "para": "p114",
+   "type": "narration",
+   "text": "North, the bar went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p115",
+   "type": "narration",
+   "text": "The shadow’s stone, across the channel. Gone with the shadow. And the Coil slid loose. Out from under the Lady’s coils, where there was nothing to pin it against. Down the river. Under the ice. Pale. Toward the line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p116",
+   "type": "narration",
+   "text": "South, at the mouth, the Bell came up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p117",
+   "type": "narration",
+   "text": "Into the river. With nothing in its way.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 128,
+   "para": "p118",
+   "type": "narration",
+   "text": "Three sectors empty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p119",
+   "type": "narration",
+   "text": "She’d taken the shadows out of the sectors at dawn, to hold the five. The bend. The Wyldmarch’s river end. Saltreach’s scrub end. The line had held there all morning without them, because the five were held.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p120",
+   "type": "narration",
+   "text": "The five weren’t held.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 131,
+   "para": "p121",
+   "type": "narration",
+   "text": "And the batteries came in.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 132,
+   "para": "p122",
+   "type": "narration",
+   "text": "She saw it from his head. Both banks. Kessmoor’s crews. Leaving their bolt-throwers at the line. Leaving their places. All of them. Running. In from the line, west and east, toward the Flat. Toward the Bridle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p123",
+   "type": "narration",
+   "text": "To man it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p124",
+   "type": "narration",
+   "text": "The second battery’s crews from the Saltreach bank coming across on the pontoon of chained barges below the eddy, running, in their grey. Onto the Flat. To the engines. To the jibs. To the bolt-throwers on the eddy’s edge, turning them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p125",
+   "type": "narration",
+   "text": "Leaving the line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p126",
+   "type": "narration",
+   "text": "Where they’d stood, on both banks, at both batteries’ sectors, round the hub: nothing. Two gaps. Wide.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p127",
+   "type": "narration",
+   "text": "Five places open. The three sectors. The two batteries.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 138,
+   "para": "p128",
+   "type": "narration",
+   "text": "The wards were going out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p129",
+   "type": "narration",
+   "text": "She saw it on the Hearthmere bank. The pale dome over the line. Flickering. Going dark in long stretches, where the voices under it had stopped, because the people under it were running from their own hounds and their own greyharts.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p130",
+   "type": "narration",
+   "text": "And the light that fed it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 141,
+   "para": "p131",
+   "type": "narration",
+   "text": "The Lamp was falling.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 142,
+   "para": "p132",
+   "type": "narration",
+   "text": "Off the Last Titan’s back. Slowly. With twenty bolts in it. Its light going. Sliding off the grey plates, down the great flank, into the eddy. Into the water beside the Last Titan’s chained shoulder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p133",
+   "type": "narration",
+   "text": "It lay there. In the water. Still bright. Less bright.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p134",
+   "type": "narration",
+   "text": "Dimming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p135",
+   "type": "narration",
+   "text": "Its light going out of the wards. She saw it go. The white-gold draining out of the Hearthmere ward and the Saltreach ward, both, as oil drains out of a cracked lamp. Leaving the Lady’s pale blue alone. And that thin.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 146,
+   "para": "p136",
+   "type": "narration",
+   "text": "In the shallows, the Sun got up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 147,
+   "para": "p137",
+   "type": "narration",
+   "text": "She saw it. A league down. The Horned Sun, that had lain in the Kingfisher Shallows all morning under its kin’s light, dim, held. Getting up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p138",
+   "type": "narration",
+   "text": "Its kin’s light was in the eddy, dimming. Nothing was holding it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p139",
+   "type": "narration",
+   "text": "It rose out of the water. And its light came back. Grey-gold. Gold. White. Flaring. The river boiling round it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p140",
+   "type": "narration",
+   "text": "And it turned its head. Up the river. Toward the eddy.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 151,
+   "para": "p141",
+   "type": "narration",
+   "text": "And on the stage, Corvin.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 152,
+   "para": "p142",
+   "type": "narration",
+   "text": "She saw him through the smoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p143",
+   "type": "narration",
+   "text": "On the ring. At the Flat’s middle. On the iron stage, at its front, at the stand like a lectern.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p144",
+   "type": "narration",
+   "text": "Hood off. The long pale face. The short dark hair. She’d seen that face before. Twice. On his brother, at the lock, under the school, when she’d killed him. And on him, in the cavern, at the relic, when his hand had turned to stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p145",
+   "type": "narration",
+   "text": "He had an iron hand now. It was flat on the ring. On its inner face. On the line of hooked script.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p146",
+   "type": "narration",
+   "text": "His other hand on the stand. On a roll. Old. Open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p147",
+   "type": "narration",
+   "text": "His mouth moving.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 158,
+   "para": "p148",
+   "type": "narration",
+   "text": "She couldn’t hear it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p149",
+   "type": "narration",
+   "text": "The engines. The screaming. The smoke. She saw his mouth move, steadily, as a man reads aloud. Never shouting. He never had.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p150",
+   "type": "narration",
+   "text": "Reading.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p151",
+   "type": "narration",
+   "text": "The chain-words.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p152",
+   "type": "narration",
+   "text": "And along every link of every chain across the eddy, the hold glowed brighter.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 163,
+   "para": "p153",
+   "type": "narration",
+   "text": "The farmer’s hand went out of hers.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p154",
+   "type": "narration",
+   "text": "She didn’t feel it go. She looked down, and it wasn’t there. Her hand was alone on Orrun’s head, bandaged.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p155",
+   "type": "narration",
+   "text": "She looked up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 166,
+   "para": "p156",
+   "type": "narration",
+   "text": "He’d turned away from her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p157",
+   "type": "narration",
+   "text": "Standing. On Orrun’s head. In the smoke. Facing the sky. With his arms out. His scarred bandaged hands open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p158",
+   "type": "narration",
+   "text": "To them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 169,
+   "para": "p159",
+   "type": "narration",
+   "text": "The dragons were screaming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p160",
+   "type": "narration",
+   "text": "In the smoke. Over the eddy. Lisska, green, coming down out of the yellow-grey with her wings going wrong. Aurveth in the water beside them, her head up, screaming. Kharrak over the shallows, red, turning, turning, as if he didn’t know which way was up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p161",
+   "type": "narration",
+   "text": "Coming loose. All three.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p162",
+   "type": "narration",
+   "text": "Like boats off their ropes.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 173,
+   "para": "p163",
+   "type": "narration",
+   "text": "And his voice.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 174,
+   "para": "p164",
+   "type": "narration",
+   "text": "Cracked. Ruined. A crack in a pot. Not loud. He couldn’t be loud. Going up into the smoke from the lion’s head, over the screaming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p165",
+   "type": "speech",
+   "text": "“Here.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p166",
+   "type": "narration",
+   "text": "Not to her. To them. Through the bond.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p167",
+   "type": "speech",
+   "text": "“Here. I’m here. I’m here.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 178,
+   "para": "p168",
+   "type": "narration",
+   "text": "She felt it go out of him. Through Orrun, through what was left of her own slack rope. The farmer’s voice, going out through three bonds at once, into three dragons coming loose in the smoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p169",
+   "type": "speech",
+   "text": "“Hold on,”"
+  },
+  {
+   "seq": 180,
+   "para": "p169",
+   "type": "narration",
+   "text": "said the farmer."
+  },
+  {
+   "seq": 181,
+   "para": "p169",
+   "type": "speech",
+   "text": "“Hold on to me. Hold on. I’m here.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p170",
+   "type": "narration",
+   "text": "Over and over. In his ruined voice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p171",
+   "type": "speech",
+   "text": "“Hold on to me.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 184,
+   "para": "p172",
+   "type": "narration",
+   "text": "The screaming changed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p173",
+   "type": "narration",
+   "text": "She heard it change. Aurveth’s, beside her, first. Going from that terrible high sound to something lower. Shaking. Then Lisska’s, above. Then, far off, Kharrak’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p174",
+   "type": "narration",
+   "text": "Holding on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p175",
+   "type": "narration",
+   "text": "To a man’s voice. Through the bond. In the smoke.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 188,
+   "para": "p176",
+   "type": "narration",
+   "text": "She looked down at Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p177",
+   "type": "narration",
+   "text": "She put her hand flat on his stone. The right. She watched it go flat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p178",
+   "type": "bond",
+   "text": "Orrun"
+  },
+  {
+   "seq": 191,
+   "para": "p178",
+   "type": "narration",
+   "text": ", she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p179",
+   "type": "narration",
+   "text": "He was at the end of a slack rope. Drifting. Out on the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p180",
+   "type": "bond",
+   "text": "Hold on"
+  },
+  {
+   "seq": 194,
+   "para": "p180",
+   "type": "narration",
+   "text": ", she said."
+  },
+  {
+   "seq": 195,
+   "para": "p180",
+   "type": "thought",
+   "text": "Hold on to me.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 196,
+   "para": "p181",
+   "type": "narration",
+   "text": "Under them, under the chains, the Last Titan opened its eyes wider.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p182",
+   "type": "narration",
+   "text": "Pale. Looking up. At the stage.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p183",
+   "type": "narration",
+   "text": "At the man on it with his iron hand on the ring.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "b6f5476d84d5e7e25d47e8a0a45e7e0f84d004cf",
+ "segments_sha1": "78a1ed3d93f30b02658a7a7b0a3b0f018e815df1"
+}

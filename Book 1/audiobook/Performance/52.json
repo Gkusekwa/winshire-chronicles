@@ -2,6 +2,22 @@
  "chapter": 52,
  "title": "Kharrak",
  "pov": "Calder",
+ "source": "Chapters/Chapter 52 - Kharrak.md",
+ "names": [
+  "aurveth",
+  "bel",
+  "calder",
+  "ewe",
+  "greyhold",
+  "joss",
+  "kharrak",
+  "lisska",
+  "mabbin",
+  "quay",
+  "rush",
+  "varrhold",
+  "wend"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1652,5 +1668,8 @@
    "mood": "tender",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "dc181c746bc88b00065c168e2e46569332e512e1",
+ "segments_sha1": "607f3af07ba43858cf27a3d51598023a8bf7187a"
 }

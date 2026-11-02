@@ -2,6 +2,24 @@
  "chapter": 59,
  "title": "Orders",
  "pov": "Maren",
+ "source": "Chapters/Chapter 59 - Orders.md",
+ "names": [
+  "ashdown",
+  "greyhold",
+  "hale",
+  "hallowmere",
+  "harrow",
+  "maren",
+  "ottery",
+  "pell",
+  "ram",
+  "redwatch",
+  "restoration",
+  "rowan",
+  "ruin",
+  "saltreach",
+  "thorne"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1911,5 +1929,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "fd615836116e7a25e2c71bd80eac99e72813a3dd",
+ "segments_sha1": "ec660e51be4abe3c61efc8c5bd285be29e1e0495"
 }

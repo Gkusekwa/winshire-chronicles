@@ -1,0 +1,31 @@
+{
+ "chapter": 99,
+ "title": "Closing",
+ "pov": "",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "The End.",
+   "pause_after_ms": 2000
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "You have been listening to The Titan War, The Winshire Chronicles, Book Three, written by Goodluck Kusekwa, and narrated by a digital voice.",
+   "pause_after_ms": 900
+  },
+  {
+   "seq": 3,
+   "para": "",
+   "type": "title",
+   "text": "Copyright 2026 by Goodluck Kusekwa. Production copyright 2026 by Goodluck Kusekwa.",
+   "pause_after_ms": 1200
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "93f6a7314ac8e9953a91d806c7af3306066b655d",
+ "segments_sha1": "af4e7535418ad901f8367542ef48db3c573c3d36"
+}

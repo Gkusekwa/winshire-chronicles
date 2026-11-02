@@ -2,6 +2,21 @@
  "chapter": 11,
  "title": "The Trial",
  "pov": "Maren",
+ "source": "Chapters/Chapter 11 - The Trial.md",
+ "names": [
+  "ashdown",
+  "greyhold",
+  "harrow",
+  "haverly",
+  "hearthmere",
+  "liss",
+  "maren",
+  "pell",
+  "redwatch",
+  "rowan",
+  "ruin",
+  "saltreach"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1388,5 +1403,8 @@
    "mood": "tension",
    "pause_after_ms": 800
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "82c5df70b0dcaf7a0373ca01a994e581bf58dfdc",
+ "segments_sha1": "11996129ac87093e0c0c1ee01bb2c8dc2da1ffd7"
 }

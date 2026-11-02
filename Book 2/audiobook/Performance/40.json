@@ -1,0 +1,1756 @@
+{
+ "chapter": 40,
+ "title": "Cinders",
+ "pov": "",
+ "source": "Chapters/Chapter 40 - Cinders.md",
+ "names": [
+  "calder",
+  "college",
+  "greyhold",
+  "idony",
+  "library",
+  "maren",
+  "nessa",
+  "orrun",
+  "quell",
+  "rings",
+  "rope",
+  "street",
+  "tib",
+  "vael"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Forty.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Cinders.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "There were no lamps anywhere.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "She went up through Vael behind the clerk, in the dark, with Orrun behind her, and there wasn’t a lamp in the city. Not on the hill. Not in the towers. Not in the drowned streets. For five days every window in Vael had blazed white, and before that for two months half of them had, and now there was nothing. Black glass in black windows.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "People had candles. Tallow, and rushlights, and in one window on Rope Street a dish of fish-oil with a wick in it, smoking. Small yellow lights here and there in the dark, low, close to the faces holding them. She could see the faces. Turned to the windows. Looking at the lamps that had gone out and didn’t come back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Orrun swayed behind her. She heard every step. He was too big for the streets now. His shoulder went along the first-floor shutters on Rope Street and knocked them, and somebody inside cried out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "Her right arm hung at her side. She couldn’t feel it. She could feel the cold in it, which was a different thing. The cold had gone all through her now, slowly, all afternoon, into her chest and her belly and her legs, and she walked inside it like walking inside a coat of ice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "speech",
+   "text": "“Is it far?”"
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": "she asked the clerk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "speech",
+   "text": "“The top,”"
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 12,
+   "para": "p7",
+   "type": "speech",
+   "text": "“The hill end.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p8",
+   "type": "narration",
+   "text": "She’d known that.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 14,
+   "para": "p9",
+   "type": "narration",
+   "text": "The great door of the Long Library was open. The hall behind it was black.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p10",
+   "type": "narration",
+   "text": "The clerk had a rushlight. He went ahead with it, and the hall went away in front of them into the dark for half a league, and the light showed only a little of it at a time. Shelves. Tables. Books on the floor. Frost on everything, a white fur, catching the light. Their breath going up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p11",
+   "type": "narration",
+   "text": "Orrun came in behind her through the great door. It was high enough. Only just.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p12",
+   "type": "narration",
+   "text": "They walked the length of it. She’d walked it every second day for a month and never once in the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p13",
+   "type": "narration",
+   "text": "There was light at the far end, grey: the last of the sky, coming in through a great hole where the tallest window had been. And against it, filling the hole, the head of a red dragon, resting on the broken sill with its eyes shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p14",
+   "type": "narration",
+   "text": "She stopped at the last shelves.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 20,
+   "para": "p15",
+   "type": "narration",
+   "text": "The bird was on the floor at the foot of its perch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p16",
+   "type": "narration",
+   "text": "On its side, with its head on its breast. Small. She’d never seen it small. Three short black shafts standing out of its breast feathers, and frost on its feathers, white at the ragged ends.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p17",
+   "type": "narration",
+   "text": "Idony was sitting against the perch with his hands in his lap.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "narration",
+   "text": "Beside the bird, on the other side, a man was kneeling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p19",
+   "type": "narration",
+   "text": "She knew him before she saw his face. From the way he knelt. From the size of him, and the coat, and the hands on his knees. She’d seen him kneel like that once before, in the yard at Greyhold, by a dragon on its side with a horn-wound in its chest.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p20",
+   "type": "narration",
+   "text": "He looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p21",
+   "type": "speech",
+   "text": "“Maren,”"
+  },
+  {
+   "seq": 27,
+   "para": "p21",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p22",
+   "type": "speech",
+   "text": "“Calder.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p23",
+   "type": "narration",
+   "text": "On the broken sill, beside the red dragon’s head, a small green one lifted its head and looked at her, and at Orrun behind her, filling the dark between the shelves, and put its head down again.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 30,
+   "para": "p24",
+   "type": "narration",
+   "text": "Orrun came past her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p25",
+   "type": "narration",
+   "text": "Slowly, between the shelves, to the foot of the perch. Idony pulled his legs in. Calder got up off his knees and stepped back. Orrun stood over the bird and put his head down. Low. Lower. Till his nose was a hand’s breadth from it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p26",
+   "type": "narration",
+   "text": "He didn’t touch it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p27",
+   "type": "speech",
+   "text": "“It knew my face,”"
+  },
+  {
+   "seq": 34,
+   "para": "p27",
+   "type": "narration",
+   "text": "he said. She heard him in her. She didn’t know whether the others heard anything."
+  },
+  {
+   "seq": 35,
+   "para": "p27",
+   "type": "speech",
+   "text": "“From a door. From a page.”"
+  },
+  {
+   "seq": 36,
+   "para": "p27",
+   "type": "narration",
+   "text": "He stayed there."
+  },
+  {
+   "seq": 37,
+   "para": "p27",
+   "type": "speech",
+   "text": "“Nobody keeps anything long enough.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p28",
+   "type": "narration",
+   "text": "He’d said that before. The bird had said it back to him."
+  },
+  {
+   "seq": 39,
+   "para": "p28",
+   "type": "remembered",
+   "text": "Nobody keeps anything long enough."
+  },
+  {
+   "seq": 40,
+   "para": "p28",
+   "type": "narration",
+   "text": "On the first day, in the white light, with the readers backing away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p29",
+   "type": "narration",
+   "text": "Calder was looking at the lion. At the size of him. At her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p30",
+   "type": "speech",
+   "text": "“He’s grown,”"
+  },
+  {
+   "seq": 43,
+   "para": "p30",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p31",
+   "type": "speech",
+   "text": "“Today.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p32",
+   "type": "speech",
+   "text": "“So has Lisska.”"
+  },
+  {
+   "seq": 46,
+   "para": "p32",
+   "type": "narration",
+   "text": "He looked at the green dragon on the sill."
+  },
+  {
+   "seq": 47,
+   "para": "p32",
+   "type": "speech",
+   "text": "“Not today.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p33",
+   "type": "narration",
+   "text": "Idony said, from the floor:"
+  },
+  {
+   "seq": 49,
+   "para": "p33",
+   "type": "speech",
+   "text": "“They shot it. Three of them. It sat down on the case.”"
+  },
+  {
+   "seq": 50,
+   "para": "p33",
+   "type": "narration",
+   "text": "He didn’t look up."
+  },
+  {
+   "seq": 51,
+   "para": "p33",
+   "type": "speech",
+   "text": "“It wouldn’t go. It had a window.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 52,
+   "para": "p34",
+   "type": "narration",
+   "text": "It was Idony’s idea to burn it on the steps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p35",
+   "type": "speech",
+   "text": "“Outside,”"
+  },
+  {
+   "seq": 54,
+   "para": "p35",
+   "type": "narration",
+   "text": "he said. He’d got up, somehow, using the perch. He couldn’t stand straight. Something was wrong in his back; he stood bent over to one side, like an old man with a load."
+  },
+  {
+   "seq": 55,
+   "para": "p35",
+   "type": "speech",
+   "text": "“On the steps under the window. It sat over those steps for three hundred years. It should go off them.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p36",
+   "type": "narration",
+   "text": "Readers came. She didn’t know how they’d heard. A dozen of them, out of the dark of the hall, with rushlights, in grey gowns. Old ones, mostly. The old white-haired reader with ink on his fingers who’d kept writing on the first day when Orrun walked in. They stood at the last shelves and looked at the bird and didn’t say anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p37",
+   "type": "narration",
+   "text": "Then they went and got wood.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p38",
+   "type": "narration",
+   "text": "The broken shelving. The shelves the red dragon had brought down coming in through the window, and going out. Black oak, old, dry, splintered. They carried it out by the readers’ door under the window, two to a plank, onto the outside steps, and stacked it there, under the hole where the window had been.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p39",
+   "type": "narration",
+   "text": "No books. She saw the old reader stop one of the young ones going out with an armful. He took them off him and put them back on the floor, one at a time, carefully, and the young one went and got more wood.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p40",
+   "type": "narration",
+   "text": "Orrun carried the heaviest beams. In his jaws. Out through the readers’ door, which he didn’t fit, so he made it fit. Stone opened for him, enough. He laid the beams on the stack and went back for more, swaying.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 61,
+   "para": "p41",
+   "type": "narration",
+   "text": "On the steps outside there was another dragon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p42",
+   "type": "narration",
+   "text": "She saw it when she came out with Orrun. A small red one. Hardly bigger than the green on the sill. Lying on the outside steps with its chin on the bottom one, and its eyes open, and a collar round its neck. Iron, painted white. With a ring of dots on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p43",
+   "type": "narration",
+   "text": "Six.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p44",
+   "type": "narration",
+   "text": "She knew the six. She’d seen them on a door under Greyhold, and cut in the stone over the lock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p45",
+   "type": "narration",
+   "text": "The small dragon watched the readers carry the wood past it and didn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p46",
+   "type": "narration",
+   "text": "Calder came out of the readers’ door behind her and went down the steps to it. He crouched by its head. He took a knife out of his coat. An old knife, with a worn handle, that she didn’t know.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p47",
+   "type": "speech",
+   "text": "“Rook’s,”"
+  },
+  {
+   "seq": 68,
+   "para": "p47",
+   "type": "narration",
+   "text": "he said. He didn’t look round. He’d felt her look."
+  },
+  {
+   "seq": 69,
+   "para": "p47",
+   "type": "speech",
+   "text": "“From the island.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p48",
+   "type": "narration",
+   "text": "He put the point of it to the collar’s hinge. A pin, iron, through two leaves of iron. He set the point to the pin’s head and hit the knife’s pommel with the heel of his hand. Once. Twice. The pin moved. He hit it again and it went through and fell out on the stone and rang.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p49",
+   "type": "narration",
+   "text": "He opened the collar with his fingers and took it off her neck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p50",
+   "type": "narration",
+   "text": "The inside of it was plain. Iron. With hooked marks struck into the inner curve, small, where she’d never see them. The runes were dark. Everything was dark tonight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p51",
+   "type": "narration",
+   "text": "The small dragon lifted her head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p52",
+   "type": "narration",
+   "text": "She looked at Calder. She put her nose against his hand, where he held the collar. Then she put her head down again, on the bottom step, but closer to him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p53",
+   "type": "narration",
+   "text": "He sat down on the step beside her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 76,
+   "para": "p54",
+   "type": "narration",
+   "text": "Nobody could light it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p55",
+   "type": "narration",
+   "text": "They tried. The readers had flint, and somebody had tinder, and they knelt at the foot of the stack in the frost and struck and struck, and the sparks went into the tinder and died. The tinder was damp with frost. Everything was damp with frost. The old reader said the hearth-word over it, the common one, in a thin voice, with his hand turning, and the tinder lay in the cold and did nothing.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p56",
+   "type": "speech",
+   "text": "“It’s dead,”"
+  },
+  {
+   "seq": 79,
+   "para": "p56",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 80,
+   "para": "p56",
+   "type": "speech",
+   "text": "“The ground. All of it. It’s words.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p57",
+   "type": "narration",
+   "text": "They knelt there with the flint.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p58",
+   "type": "narration",
+   "text": "The red dragon took his head out of the broken window.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p59",
+   "type": "narration",
+   "text": "He came down off the sill onto the steps. Slowly, carefully, so as not to bring down any more of the stone round the window. He was big. Bigger than she’d thought from the head alone, red and dark in the last grey light, with the frost on his back. The readers backed away up the steps. He came down past them to the foot of the stack, and put his head down, low, to the base of it, and breathed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p60",
+   "type": "narration",
+   "text": "Not a roar. A breath. Short and low, into the bottom of the black oak. Yellow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p61",
+   "type": "narration",
+   "text": "The wood caught.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 86,
+   "para": "p62",
+   "type": "narration",
+   "text": "They laid the bird on top.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p63",
+   "type": "narration",
+   "text": "Idony did it. He wouldn’t let anybody else. He couldn’t climb, bent as he was, so Orrun put his head down to the step and Idony put the bird on it, between his eyes, and Orrun lifted his head, slowly, up to the top of the stack, and Idony reached up and took the bird off and laid it on the wood.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p64",
+   "type": "narration",
+   "text": "On its side. With its head on its breast. He took the three bolts out first. One at a time. Maren saw his burned hands shake on them, and saw him not stop.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p65",
+   "type": "narration",
+   "text": "Then he stepped back down the steps and stood with the others.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p66",
+   "type": "narration",
+   "text": "The fire went up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 91,
+   "para": "p67",
+   "type": "narration",
+   "text": "It burned fast. Old oak, and dry inside. The flames went up past the hole where the great window had been, up the front of the Library, yellow, the only light on the whole hill, the only light in Vael. She saw it in the faces round it. The readers. Idony. Calder, on the bottom step beside the small dragon. Orrun’s eyes, gold. The red dragon lying on the steps beyond the fire with his head on his forefeet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p68",
+   "type": "narration",
+   "text": "She saw it lit on the black glass of every window along the Library’s front, one after another, a long way, as if every window had a small fire behind it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p69",
+   "type": "narration",
+   "text": "She stood on the step with her dead arm at her side and watched it go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p70",
+   "type": "narration",
+   "text": "It smelled of oak. Then of feathers. Then only of oak again.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 95,
+   "para": "p71",
+   "type": "narration",
+   "text": "Calder came up the steps after a while and stood on the far side of the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p72",
+   "type": "narration",
+   "text": "Not beside her. Across it. Where she could see him through the flames. He stood with his hands in his coat pockets and looked at the fire, not at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p73",
+   "type": "speech",
+   "text": "“I’ve been watching them twenty days,”"
+  },
+  {
+   "seq": 98,
+   "para": "p73",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 99,
+   "para": "p73",
+   "type": "speech",
+   "text": "“The hunters. In a camp in the Fells. With the four.”"
+  },
+  {
+   "seq": 100,
+   "para": "p73",
+   "type": "narration",
+   "text": "He nodded at the small dragon on the bottom step."
+  },
+  {
+   "seq": 101,
+   "para": "p73",
+   "type": "speech",
+   "text": "“She’s one. The other three went over the towers this afternoon with a man with a grey beard and a box.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p74",
+   "type": "speech",
+   "text": "“Idony told me.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p75",
+   "type": "speech",
+   "text": "“I’ll go after them.”"
+  },
+  {
+   "seq": 104,
+   "para": "p75",
+   "type": "narration",
+   "text": "He looked at the fire."
+  },
+  {
+   "seq": 105,
+   "para": "p75",
+   "type": "speech",
+   "text": "“Not tonight. I know where they’re going. I know who’s paying.”"
+  },
+  {
+   "seq": 106,
+   "para": "p75",
+   "type": "narration",
+   "text": "He took one hand out of his pocket and touched his coat, where something heavy was."
+  },
+  {
+   "seq": 107,
+   "para": "p75",
+   "type": "speech",
+   "text": "“I’ve got his books. One of them’s a mint-book. Every coin he struck, and who for.”"
+  },
+  {
+   "seq": 108,
+   "para": "p75",
+   "type": "narration",
+   "text": "He stopped."
+  },
+  {
+   "seq": 109,
+   "para": "p75",
+   "type": "speech",
+   "text": "“A boy at a ford. Three hundred. It’s written down.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p76",
+   "type": "narration",
+   "text": "She didn’t say anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p77",
+   "type": "speech",
+   "text": "“I’m taking it to the crown,”"
+  },
+  {
+   "seq": 112,
+   "para": "p77",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 113,
+   "para": "p77",
+   "type": "speech",
+   "text": "“And then to Corsa. To the Tide Council.”"
+  },
+  {
+   "seq": 114,
+   "para": "p77",
+   "type": "narration",
+   "text": "He looked at the fire."
+  },
+  {
+   "seq": 115,
+   "para": "p77",
+   "type": "speech",
+   "text": "“Somebody has to say it to their faces. Where they can’t burn the paper.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p78",
+   "type": "speech",
+   "text": "“They’ll hang you.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p79",
+   "type": "speech",
+   "text": "“They’ve been trying a while.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 118,
+   "para": "p80",
+   "type": "speech",
+   "text": "“And you,”"
+  },
+  {
+   "seq": 119,
+   "para": "p80",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p81",
+   "type": "speech",
+   "text": "“West.”"
+  },
+  {
+   "seq": 121,
+   "para": "p81",
+   "type": "narration",
+   "text": "She didn’t have to think about it."
+  },
+  {
+   "seq": 122,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Wherever it goes. It went west five days ago, along the snow-line.”"
+  },
+  {
+   "seq": 123,
+   "para": "p81",
+   "type": "narration",
+   "text": "She looked at Orrun, standing at the edge of the firelight with his head low."
+  },
+  {
+   "seq": 124,
+   "para": "p81",
+   "type": "speech",
+   "text": "“He follows it. I follow him.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p82",
+   "type": "speech",
+   "text": "“To do what?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p83",
+   "type": "speech",
+   "text": "“I don’t know yet.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p84",
+   "type": "narration",
+   "text": "Calder nodded. As if that were a reasonable answer. He looked at the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p85",
+   "type": "speech",
+   "text": "“You’d not come south,”"
+  },
+  {
+   "seq": 129,
+   "para": "p85",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p86",
+   "type": "speech",
+   "text": "“No.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p87",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 132,
+   "para": "p87",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p88",
+   "type": "narration",
+   "text": "He didn’t ask again. She didn’t ask him to come west. She’d thought about it on the wall all afternoon, watching the smoke go up from the hill. What she’d say. Whether she’d ask. She’d known before the smoke stopped that she wouldn’t, and that he wouldn’t, and that neither of them would say why, because it was the same reason, and it didn’t need saying.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p89",
+   "type": "narration",
+   "text": "The fire cracked. A plank fell in.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 135,
+   "para": "p90",
+   "type": "narration",
+   "text": "She took the pages out of her coat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p91",
+   "type": "narration",
+   "text": "With her left hand. Her right was no use. She had to put them against her chest and hold them there and pull them out of the inside pocket from behind the black book, one-handed, and they came out folded, eleven of them, the cream College paper Idony had given her, soft at the folds now from a month against her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p92",
+   "type": "narration",
+   "text": "She held them out across the corner of the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p93",
+   "type": "narration",
+   "text": "He looked at them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p94",
+   "type": "speech",
+   "text": "“For you,”"
+  },
+  {
+   "seq": 140,
+   "para": "p94",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 141,
+   "para": "p94",
+   "type": "speech",
+   "text": "“I wrote them at the Library. When it told us.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p95",
+   "type": "speech",
+   "text": "“What are they?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p96",
+   "type": "speech",
+   "text": "“The bronze. Your old one.”"
+  },
+  {
+   "seq": 144,
+   "para": "p96",
+   "type": "narration",
+   "text": "She didn’t know the name. She’d never asked."
+  },
+  {
+   "seq": 145,
+   "para": "p96",
+   "type": "speech",
+   "text": "“Who she was before. Before the Clan. Before any of them.”"
+  },
+  {
+   "seq": 146,
+   "para": "p96",
+   "type": "narration",
+   "text": "She held them out."
+  },
+  {
+   "seq": 147,
+   "para": "p96",
+   "type": "speech",
+   "text": "“There was a man. A long time ago. His name was Ennis. And something the bird said to ask you.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p97",
+   "type": "speech",
+   "text": "“Ennis,”"
+  },
+  {
+   "seq": 149,
+   "para": "p97",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p98",
+   "type": "narration",
+   "text": "He said it as if he knew it. As if he’d heard it said before, by somebody else, a long way off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p99",
+   "type": "narration",
+   "text": "He took them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p100",
+   "type": "narration",
+   "text": "He held them in both hands and didn’t open them. He looked at the outside, at the fold, where she’d written in big plain letters"
+  },
+  {
+   "seq": 153,
+   "para": "p100",
+   "type": "written",
+   "text": "FOR THE FARMER"
+  },
+  {
+   "seq": 154,
+   "para": "p100",
+   "type": "narration",
+   "text": ", because she didn’t know what else to put.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p101",
+   "type": "speech",
+   "text": "“I read slow,”"
+  },
+  {
+   "seq": 156,
+   "para": "p101",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p102",
+   "type": "speech",
+   "text": "“I wrote big.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p103",
+   "type": "narration",
+   "text": "He looked at her then. Across the fire. For the first time since he’d come up the steps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p104",
+   "type": "narration",
+   "text": "He put the pages inside his coat. With the rest of the weight there. He put his hand flat over them for a moment, on the outside of his coat, and took it away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p105",
+   "type": "speech",
+   "text": "“Thank you,”"
+  },
+  {
+   "seq": 161,
+   "para": "p105",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 162,
+   "para": "p106",
+   "type": "narration",
+   "text": "Quell came down from the Hall of Rings at full dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p107",
+   "type": "narration",
+   "text": "Maren saw the lights first. Rushlights, four of them, coming along the terrace from the dark dome of the Hall of Rings, round the edge of the hole where the crown of the hill had been. Four proctors in grey with the lights held up. And between them, small, in white, walking slowly over the broken paving, an old woman.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p108",
+   "type": "narration",
+   "text": "And behind her, a tall man, very straight, with his hands bandaged to the wrists.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p109",
+   "type": "narration",
+   "text": "They came down the outside steps to the fire. The readers drew back. One of them made a small sound, like a man who’d been waiting for something and seen it come.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p110",
+   "type": "narration",
+   "text": "The proctors spoke to each other at the edge of the light, low. Maren heard some of it. Three dead under the Blue tower. Nine of the hundred burned out, grey in a day, their hands gone. The old Keeper of the Script from the Sixth-ring house. Dead in his chair at the east point of the ring, at the moment the lamps on the hill went out. Peacefully, one of them said. Nobody had noticed till after.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 167,
+   "para": "p111",
+   "type": "narration",
+   "text": "Quell stopped on the step above the fire and looked at Idony.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 168,
+   "para": "p112",
+   "type": "speech",
+   "text": "“Idony Vael,”"
+  },
+  {
+   "seq": 169,
+   "para": "p112",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p113",
+   "type": "narration",
+   "text": "Her voice was dry and quiet. Like the bird’s. Maren hadn’t noticed that before. Like dry leaves.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p114",
+   "type": "narration",
+   "text": "Idony straightened as much as he could. He couldn’t, much.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p115",
+   "type": "speech",
+   "text": "“Reader. Second ring. Of the College of Tides.”"
+  },
+  {
+   "seq": 173,
+   "para": "p115",
+   "type": "narration",
+   "text": "Quell didn’t take out a paper. She didn’t need one."
+  },
+  {
+   "seq": 174,
+   "para": "p115",
+   "type": "speech",
+   "text": "“On the hundred-and-seventy-second day, at the noon bell, you left your place in a many-voice working of the colleges, at its centre, in the middle of the form, and walked out of it. The law calls that breaking the ring.”"
+  },
+  {
+   "seq": 175,
+   "para": "p115",
+   "type": "narration",
+   "text": "She looked at him."
+  },
+  {
+   "seq": 176,
+   "para": "p115",
+   "type": "speech",
+   "text": "“The Council has judged it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p116",
+   "type": "narration",
+   "text": "Nobody on the steps said anything. The fire cracked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p117",
+   "type": "speech",
+   "text": "“Your ring is broken,”"
+  },
+  {
+   "seq": 179,
+   "para": "p117",
+   "type": "narration",
+   "text": "said Quell."
+  },
+  {
+   "seq": 180,
+   "para": "p117",
+   "type": "speech",
+   "text": "“You are put out of Vael. By the gate, at dawn. You’ll not come back to the city on pain of the register.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p118",
+   "type": "narration",
+   "text": "Idony looked at her for a long moment.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p119",
+   "type": "speech",
+   "text": "“Yes, Master,”"
+  },
+  {
+   "seq": 183,
+   "para": "p119",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p120",
+   "type": "narration",
+   "text": "He held out his hand.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 185,
+   "para": "p121",
+   "type": "narration",
+   "text": "A proctor did it on the bottom step.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p122",
+   "type": "narration",
+   "text": "A young man, with a small cold chisel and a mallet in a leather roll, which he unrolled on the step in the firelight as if he’d done it before, or been taught. He took the ring off Idony’s hand. Plain iron. Two notches. He put it on the stone, on its edge, and set the chisel to it, and struck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p123",
+   "type": "narration",
+   "text": "One blow. The iron parted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p124",
+   "type": "narration",
+   "text": "He took it in his fingers and pulled the two ends open, so that it wasn’t a ring any more, and stood up, and held it out to Quell. She didn’t take it. She looked at it and nodded at the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p125",
+   "type": "narration",
+   "text": "He threw it in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p126",
+   "type": "narration",
+   "text": "Maren watched it go. A small dark curve of iron, turning once, into the coals under the bird.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p127",
+   "type": "narration",
+   "text": "At the foot of the steps, at the edge of the light, the big Warden stood with his lynx. Brannagh, somebody had shouted on the roofs that afternoon. Big and short-haired, soaked to the chest still, with his dead sleeve-ward on his arm. She hadn’t seen him come. He watched the iron go into the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p128",
+   "type": "narration",
+   "text": "She remembered what he’d said at dusk, on the shore, to his own arm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p129",
+   "type": "thought",
+   "text": "A ring means nothing on dead ground.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 194,
+   "para": "p130",
+   "type": "narration",
+   "text": "Quell went back up the steps with her proctors. She didn’t look at the bird on the fire. Or perhaps she did, once, and Maren didn’t see.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p131",
+   "type": "narration",
+   "text": "Dane stayed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p132",
+   "type": "narration",
+   "text": "He stood on the step beside Idony, a little apart, very straight, with his bandaged hands at his sides, and looked at the fire. They stood there together for a while, the tall man and the bent one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p133",
+   "type": "speech",
+   "text": "“You were right about the hour,”",
+   "how": "quietly"
+  },
+  {
+   "seq": 198,
+   "para": "p133",
+   "type": "narration",
+   "text": "Dane said at last. Quietly. Maren only just heard it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p134",
+   "type": "narration",
+   "text": "Idony didn’t look at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p135",
+   "type": "speech",
+   "text": "“I was right about everything,”"
+  },
+  {
+   "seq": 201,
+   "para": "p135",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 202,
+   "para": "p135",
+   "type": "speech",
+   "text": "“It didn’t help.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p136",
+   "type": "narration",
+   "text": "Dane stood a moment longer. Then he went up the steps after Quell, into the dark.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 204,
+   "para": "p137",
+   "type": "narration",
+   "text": "Nessa came up at the end, when the fire was low.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p138",
+   "type": "narration",
+   "text": "With Tib. Up the outside steps from the terrace, in her scarf, with her square sunburned face red in the firelight. She looked at the fire. At the readers. At the dragons. At Orrun, and her eyes went wide and then narrow. Then at Idony, bent on the step with his hands in his armpits and no ring on his hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p139",
+   "type": "narration",
+   "text": "She went to him and stood in front of him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p140",
+   "type": "speech",
+   "text": "“They’ve broke it,”"
+  },
+  {
+   "seq": 208,
+   "para": "p140",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p141",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p142",
+   "type": "speech",
+   "text": "“Good,”"
+  },
+  {
+   "seq": 211,
+   "para": "p142",
+   "type": "narration",
+   "text": "said Nessa."
+  },
+  {
+   "seq": 212,
+   "para": "p142",
+   "type": "speech",
+   "text": "“It never fit.”"
+  },
+  {
+   "seq": 213,
+   "para": "p142",
+   "type": "narration",
+   "text": "She looked at him."
+  },
+  {
+   "seq": 214,
+   "para": "p142",
+   "type": "speech",
+   "text": "“Where’ll you go?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p143",
+   "type": "narration",
+   "text": "He looked at Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p144",
+   "type": "narration",
+   "text": "Maren had been waiting for it. She’d known on the wall at noon, when he went up the fish-market steps toward the hill, walking fast, that whatever happened up there he’d come down again and look at her like this.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p145",
+   "type": "speech",
+   "text": "“My glasses,”",
+   "mood": "grief"
+  },
+  {
+   "seq": 218,
+   "para": "p145",
+   "type": "narration",
+   "text": "said Idony. To Nessa. To Maren.",
+   "mood": "grief"
+  },
+  {
+   "seq": 219,
+   "para": "p145",
+   "type": "speech",
+   "text": "“They only read where it is. Where it’s lying. Where it’s drinking.”",
+   "mood": "grief"
+  },
+  {
+   "seq": 220,
+   "para": "p145",
+   "type": "narration",
+   "text": "He held his hands in his armpits.",
+   "mood": "grief"
+  },
+  {
+   "seq": 221,
+   "para": "p145",
+   "type": "speech",
+   "text": "“Here they’re dead. In a dead country I can’t read anything. Wherever it goes next, they’ll work.”",
+   "mood": "grief"
+  },
+  {
+   "seq": 222,
+   "para": "p145",
+   "type": "narration",
+   "text": "He stopped.",
+   "mood": "grief"
+  },
+  {
+   "seq": 223,
+   "para": "p145",
+   "type": "speech",
+   "text": "“I can read wherever it goes.”",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 224,
+   "para": "p146",
+   "type": "speech",
+   "text": "“Then come,”"
+  },
+  {
+   "seq": 225,
+   "para": "p146",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 226,
+   "para": "p147",
+   "type": "speech",
+   "text": "“I’ll stay,”"
+  },
+  {
+   "seq": 227,
+   "para": "p147",
+   "type": "narration",
+   "text": "said Nessa.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 228,
+   "para": "p148",
+   "type": "narration",
+   "text": "She said it before anybody asked her. Looking at the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 229,
+   "para": "p149",
+   "type": "speech",
+   "text": "“Somebody’s got to put a ferry on that lake again.”"
+  },
+  {
+   "seq": 230,
+   "para": "p149",
+   "type": "narration",
+   "text": "She looked out past the fire, past the edge of the hill, down into the dark where the lake was, or had been."
+  },
+  {
+   "seq": 231,
+   "para": "p149",
+   "type": "speech",
+   "text": "“When there’s a lake.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 232,
+   "para": "p150",
+   "type": "narration",
+   "text": "She put her hand in her coat and took out a small bag. Cloth, grey, drawn shut with a string. She gave it to Idony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 233,
+   "para": "p151",
+   "type": "narration",
+   "text": "He knew what it was. Maren saw his face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 234,
+   "para": "p152",
+   "type": "speech",
+   "text": "“It was hers,”"
+  },
+  {
+   "seq": 235,
+   "para": "p152",
+   "type": "narration",
+   "text": "Nessa said."
+  },
+  {
+   "seq": 236,
+   "para": "p152",
+   "type": "speech",
+   "text": "“Our mother’s. I’ve not thrown it since I was a girl. I started again this summer.”"
+  },
+  {
+   "seq": 237,
+   "para": "p152",
+   "type": "narration",
+   "text": "She pushed it into his burned hands."
+  },
+  {
+   "seq": 238,
+   "para": "p152",
+   "type": "speech",
+   "text": "“You throw it. Every crossing. You’ll be crossing a lot of things.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 239,
+   "para": "p153",
+   "type": "narration",
+   "text": "He held it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 240,
+   "para": "p154",
+   "type": "speech",
+   "text": "“For the Lady,”"
+  },
+  {
+   "seq": 241,
+   "para": "p154",
+   "type": "narration",
+   "text": "said Tib.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 242,
+   "para": "p155",
+   "type": "narration",
+   "text": "The fire went down to coals.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 243,
+   "para": "p156",
+   "type": "narration",
+   "text": "The readers went back in, one by one, with their rushlights, into the dark hall. The old reader last. He stopped in the readers’ door and looked back at the coals and said something in the old tongue that Maren didn’t know, and went in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 244,
+   "para": "p157",
+   "type": "narration",
+   "text": "Orrun lay down on the terrace at the top of the steps, slowly, and put his chin on the stone. The small red dragon had come up the steps after Calder and lay beside the big red one now, against his side, with her eyes shut. The green one was asleep on the broken sill. The frost came down out of the dark onto everything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 245,
+   "para": "p158",
+   "type": "narration",
+   "text": "Maren sat on the top step with her dead arm in her lap. She was so cold she’d stopped shaking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 246,
+   "para": "p159",
+   "type": "narration",
+   "text": "Below her, by the coals, Calder had sat down beside Idony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 247,
+   "para": "p160",
+   "type": "narration",
+   "text": "She watched them. The farmer and the reader. The big one, with the pages in his coat, and the bent one, with the salt-bag in his hands. Sitting a little apart on the bottom step, by what was left of the fire, not looking at each other.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 248,
+   "para": "p161",
+   "type": "narration",
+   "text": "She saw Calder turn his head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 249,
+   "para": "p162",
+   "type": "narration",
+   "text": "He said it carefully. She heard every word. He said it the way she’d heard him speak to a horse that had been beaten, once, in the yard at Greyhold, or to a man he thought would laugh at him. Slowly. Ready to stop.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 250,
+   "para": "p163",
+   "type": "speech",
+   "text": "“Those glasses of yours,”"
+  },
+  {
+   "seq": 251,
+   "para": "p163",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 252,
+   "para": "p163",
+   "type": "speech",
+   "text": "“That read the tides.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 253,
+   "para": "p164",
+   "type": "narration",
+   "text": "Idony looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 254,
+   "para": "p165",
+   "type": "speech",
+   "text": "“Can they tell where a road goes?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 255,
+   "para": "p166",
+   "type": "speech",
+   "text": "“What road?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 256,
+   "para": "p167",
+   "type": "speech",
+   "text": "“An old one,”"
+  },
+  {
+   "seq": 257,
+   "para": "p167",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 258,
+   "para": "p167",
+   "type": "speech",
+   "text": "“With stones.”",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "e2735b0419d7f191f87be7799109cffdf4351af0",
+ "segments_sha1": "1b5d99f6a3d42b45cda0f9155812926735a8ad12"
+}

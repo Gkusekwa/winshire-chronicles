@@ -2,6 +2,32 @@
  "chapter": 48,
  "title": "Two Sides of a War",
  "pov": "Calder",
+ "source": "Chapters/Chapter 48 - Two Sides of a War.md",
+ "names": [
+  "arn",
+  "aurveth",
+  "bel",
+  "brecc",
+  "calder",
+  "coldtarn",
+  "gallows",
+  "kharrak",
+  "lisska",
+  "marches",
+  "millbrook",
+  "quay",
+  "rook",
+  "roosts",
+  "saltreach",
+  "scarfell",
+  "sigrun",
+  "skarrow",
+  "ulric",
+  "varr",
+  "varrhold",
+  "varrs",
+  "wend"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -2116,5 +2142,8 @@
    "text": "They flew on toward the dark.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "85633b009f609fc7a4563c2123e6003a70c70eb0",
+ "segments_sha1": "d73150c2102de8f984db27bd836f77197082d0c0"
 }

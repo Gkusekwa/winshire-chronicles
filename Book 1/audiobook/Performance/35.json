@@ -2,6 +2,18 @@
  "chapter": 35,
  "title": "The Mentor",
  "pov": "Maren",
+ "source": "Chapters/Chapter 35 - The Mentor.md",
+ "names": [
+  "ashdown",
+  "ferriby",
+  "greyhold",
+  "hale",
+  "hearthmere",
+  "maren",
+  "ottery",
+  "redwatch",
+  "rowan"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1213,5 +1225,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "fd36fe4cbc5f9a7e2534b88fee7910374d405a81",
+ "segments_sha1": "a3186cc6aa177edc6d7d74a835416b241782b1cb"
 }

@@ -2,6 +2,31 @@
  "chapter": 22,
  "title": "Wren",
  "pov": "Calder",
+ "source": "Chapters/Chapter 22 - Wren.md",
+ "names": [
+  "ada",
+  "ashby",
+  "aurveth",
+  "calder",
+  "cotter",
+  "cross",
+  "drover",
+  "eelweir",
+  "fellwood",
+  "fenn",
+  "fisk",
+  "garrow",
+  "greyhold",
+  "hob",
+  "kharrak",
+  "lisska",
+  "scarfell",
+  "senna",
+  "teo",
+  "ulric",
+  "wat",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -2711,5 +2736,8 @@
    "text": "He watched the smoke till it thinned out and stopped.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "c2ef3ced1510fdcd2d094b2cc9b1ea8ae89dd547",
+ "segments_sha1": "2418d07bed926c55ed37c3de338d89454167ff79"
 }

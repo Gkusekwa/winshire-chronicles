@@ -2,6 +2,25 @@
  "chapter": 27,
  "title": "The Stables",
  "pov": "Maren",
+ "source": "Chapters/Chapter 27 - The Stables.md",
+ "names": [
+  "ashdown",
+  "ashford",
+  "brackenwood",
+  "darrow",
+  "greyhold",
+  "grieve",
+  "hale",
+  "haverly",
+  "hearthmere",
+  "ide",
+  "kesh",
+  "liss",
+  "maren",
+  "saltreach",
+  "scarfell",
+  "thorne"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1539,5 +1558,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "873bf97a393f614d8e17ae4cb4fca163b13e2bc7",
+ "segments_sha1": "2a6db44447b3a8a40017885c0b98820862d65ecb"
 }

@@ -1,0 +1,1324 @@
+{
+ "chapter": 62,
+ "title": "The Young Ones",
+ "pov": "",
+ "source": "Chapters/Chapter 62 - The Young Ones.md",
+ "names": [
+  "ada",
+  "aurveth",
+  "bel",
+  "blackwater",
+  "calder",
+  "gullhaven",
+  "gunna",
+  "kharrak",
+  "leck",
+  "lisska",
+  "maren",
+  "scald",
+  "tamsin",
+  "vael",
+  "wren"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Sixty-two.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Young Ones.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "Brede brought them up the coast in six days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "The black and the red. Slowly. Low, a few leagues at a time, with Brede on his blue in front and two riders of the ledges behind, the way you’d bring a pair of lame heifers home from a fair. Calder had been at Gullhaven. He’d heard it from Gunna afterwards. They’d come up over the edge of the moor on the three-hundred-and-fifth day, and down to the caves on the three-hundred-and-sixth, and walked in past the hatching bowls without looking at anything, and stood by the warm spring next to the little red one from Vael.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "Three of them. In a row. By the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Standing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "Not looking at anything.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "Wren started sitting with them that same afternoon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "Gunna told him. With three bowls. She’d dragged three of the stone hatching bowls out from the rows, one at a time, scraping them over the cave floor with her whole weight, and turned them upside down by the spring, a little way apart, an arm’s length from each dragon. And sat on the first one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "And talked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "speech",
+   "text": "“She didn’t ask anybody,”"
+  },
+  {
+   "seq": 12,
+   "para": "p9",
+   "type": "narration",
+   "text": "said Gunna."
+  },
+  {
+   "seq": 13,
+   "para": "p9",
+   "type": "speech",
+   "text": "“She didn’t ask me. She just did it.”"
+  },
+  {
+   "seq": 14,
+   "para": "p9",
+   "type": "narration",
+   "text": "Gunna looked at the three by the spring."
+  },
+  {
+   "seq": 15,
+   "para": "p9",
+   "type": "speech",
+   "text": "“Like she did with that one.”"
+  },
+  {
+   "seq": 16,
+   "para": "p9",
+   "type": "narration",
+   "text": "She nodded at the little red one."
+  },
+  {
+   "seq": 17,
+   "para": "p9",
+   "type": "speech",
+   "text": "“And like she did with him.”"
+  },
+  {
+   "seq": 18,
+   "para": "p9",
+   "type": "narration",
+   "text": "She nodded at Old Grey, standing behind Wren’s bowl with his great head lowered.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 19,
+   "para": "p10",
+   "type": "narration",
+   "text": "He came home on the three-hundred-and-thirteenth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p11",
+   "type": "narration",
+   "text": "He left Aurveth on the spit at Gullhaven. Ivar Leck said she wasn’t to fly for a month, not a league, not a wingbeat, and stood over her on the shingle with his bag until she’d agreed. Arn stayed with her, and the twelve pairs, and the baskets, and the practice. Every day now, sacks and barrels and salt-boys, off the roofs of the spit and over the harbour to the hills.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p12",
+   "type": "bond",
+   "text": "Go,"
+  },
+  {
+   "seq": 22,
+   "para": "p12",
+   "type": "narration",
+   "text": "said Aurveth."
+  },
+  {
+   "seq": 23,
+   "para": "p12",
+   "type": "thought",
+   "text": "Your girl’s sitting with them. Go and watch her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p13",
+   "type": "narration",
+   "text": "So he went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p14",
+   "type": "narration",
+   "text": "Kharrak flew him home in a day. North, over the Saltings, over the Ashlings, over the Marches and the Fellwood and the moor. He didn’t complain once. He’d stopped complaining since the reef.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 26,
+   "para": "p15",
+   "type": "narration",
+   "text": "He watched from the cave mouth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p16",
+   "type": "narration",
+   "text": "He didn’t go in. He’d thought about it on the way home. If he went and sat by her she’d talk to him instead. So he stood at the mouth of the caves in the light, with Kharrak lying in the heather outside and Old Grey inside behind Wren, and watched his daughter talk to three dragons who couldn’t hear her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p17",
+   "type": "narration",
+   "text": "An hour each. Morning and afternoon. She’d made a rule. Gunna said she’d told everyone the rule, very seriously, on the first day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p18",
+   "type": "narration",
+   "text": "The little red one first. Then the black. Then the red from Blackwater.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p19",
+   "type": "narration",
+   "text": "She talked about everything.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 31,
+   "para": "p20",
+   "type": "narration",
+   "text": "About the hold. About the dogs under the bench in Bel’s kitchen, and which one had had puppies. About the snow going off the moor, and the first green coming through the heather by the tarn. About Papa’s letters to the lion-woman, which Ada wasn’t helping with. About Lisska, gone west, who’d be back soon, who always came back. About the lion-woman, who wouldn’t come in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p21",
+   "type": "narration",
+   "text": "About Old Grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p22",
+   "type": "speech",
+   "text": "“He used to be like you,”"
+  },
+  {
+   "seq": 34,
+   "para": "p22",
+   "type": "narration",
+   "text": "she said. To the black. Very matter-of-fact."
+  },
+  {
+   "seq": 35,
+   "para": "p22",
+   "type": "speech",
+   "text": "“He used to stand like that. Not looking. And then one day he looked. Papa says it was because of my voice.”"
+  },
+  {
+   "seq": 36,
+   "para": "p22",
+   "type": "narration",
+   "text": "She considered this."
+  },
+  {
+   "seq": 37,
+   "para": "p22",
+   "type": "speech",
+   "text": "“I think it was because he got bored of not looking.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p23",
+   "type": "narration",
+   "text": "The black stood by the spring and looked at nothing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 39,
+   "para": "p24",
+   "type": "narration",
+   "text": "And about barley.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p25",
+   "type": "narration",
+   "text": "He hadn’t expected that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p26",
+   "type": "speech",
+   "text": "“Papa says you’ll like barley,”"
+  },
+  {
+   "seq": 42,
+   "para": "p26",
+   "type": "narration",
+   "text": "she said. To the little red one. On the second afternoon he was watching."
+  },
+  {
+   "seq": 43,
+   "para": "p26",
+   "type": "speech",
+   "text": "“He told me. He said he told you on a roof. In a city. In the frost.”"
+  },
+  {
+   "seq": 44,
+   "para": "p26",
+   "type": "narration",
+   "text": "She folded her hands in her lap."
+  },
+  {
+   "seq": 45,
+   "para": "p26",
+   "type": "speech",
+   "text": "“So I’m telling you too, so you know he wasn’t making it up.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p27",
+   "type": "narration",
+   "text": "The little red one stood by the spring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p28",
+   "type": "speech",
+   "text": "“It’s no use to you,”"
+  },
+  {
+   "seq": 48,
+   "para": "p28",
+   "type": "narration",
+   "text": "said Wren."
+  },
+  {
+   "seq": 49,
+   "para": "p28",
+   "type": "speech",
+   "text": "“You can’t eat it. He said that too. But it goes gold at the end of the summer. Our top field. It goes all gold. And when the wind comes over it, it goes all one way. Like water.”"
+  },
+  {
+   "seq": 50,
+   "para": "p28",
+   "type": "narration",
+   "text": "She looked at the little red one."
+  },
+  {
+   "seq": 51,
+   "para": "p28",
+   "type": "speech",
+   "text": "“Like the tarn, when the wind’s on it. Only gold.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p29",
+   "type": "narration",
+   "text": "Calder stood at the cave mouth and couldn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p30",
+   "type": "narration",
+   "text": "He’d said that. On a roof in Vael, in the frost, with the city drowning below him and a binder lying dead on the steps. He’d said it to a dragon that didn’t know where she was, because he couldn’t think of anything else. He’d told Wren about it once, at midwinter, in the caves, to make her laugh.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p31",
+   "type": "narration",
+   "text": "She’d kept it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 55,
+   "para": "p32",
+   "type": "narration",
+   "text": "The ninth day was the three-hundred-and-fourteenth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p33",
+   "type": "narration",
+   "text": "The ninth day of her sitting. He’d counted. Late afternoon. The light coming in low through the cave mouth, gold, as it came in at that hour at the end of winter. Wren on the first bowl. The little red one standing by the spring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p34",
+   "type": "speech",
+   "text": "“…and it goes all one way,”"
+  },
+  {
+   "seq": 58,
+   "para": "p34",
+   "type": "narration",
+   "text": "Wren was saying."
+  },
+  {
+   "seq": 59,
+   "para": "p34",
+   "type": "speech",
+   "text": "“Like water. Papa says. All one way.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p35",
+   "type": "narration",
+   "text": "The little red one lifted her head.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 61,
+   "para": "p36",
+   "type": "narration",
+   "text": "He saw it from the cave mouth. He didn’t breathe.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p37",
+   "type": "narration",
+   "text": "Her head. Coming up. Not to Wren. Not at first. Just up. Off the level. The way a horse’s head comes up when it hears something a long way off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p38",
+   "type": "narration",
+   "text": "Then it turned.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p39",
+   "type": "narration",
+   "text": "Slowly. On her neck. Toward the bowl. Toward the small girl sitting on it with her hands in her lap.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p40",
+   "type": "narration",
+   "text": "And she looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p41",
+   "type": "narration",
+   "text": "He saw it. Even from the mouth of the cave, thirty paces off, in the gold light. Her eyes. Dark gold, like Kharrak’s, but darker. They’d been open all winter and there’d been nobody behind them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p42",
+   "type": "narration",
+   "text": "There was somebody behind them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 68,
+   "para": "p43",
+   "type": "narration",
+   "text": "She made a sound.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p44",
+   "type": "narration",
+   "text": "Small. High. A sort of chirr. Like a kettle just starting, before it sings.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p45",
+   "type": "narration",
+   "text": "He knew it. Lisska made it. On the warm ledge by the fire on winter nights, half asleep, with her chin on her forefeet, when she was content and didn’t know anyone was listening. He’d heard it a hundred times.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p46",
+   "type": "narration",
+   "text": "He’d never heard any other dragon make it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p47",
+   "type": "narration",
+   "text": "Wren went very still on her bowl.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p48",
+   "type": "speech",
+   "text": "“She said something,”",
+   "how": "loud"
+  },
+  {
+   "seq": 74,
+   "para": "p48",
+   "type": "narration",
+   "text": "she said. Not loudly. She didn’t look round. She didn’t move."
+  },
+  {
+   "seq": 75,
+   "para": "p48",
+   "type": "speech",
+   "text": "“Papa. She said something.”",
+   "how": "loud",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p49",
+   "type": "speech",
+   "text": "“I heard,”"
+  },
+  {
+   "seq": 77,
+   "para": "p49",
+   "type": "narration",
+   "text": "said Calder. From the cave mouth. His voice didn’t work properly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p50",
+   "type": "narration",
+   "text": "Wren didn’t touch her. She sat very still with her hands in her lap. Then she said it again. The same thing. The same words, slowly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p51",
+   "type": "speech",
+   "text": "“It goes all one way. Like water.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p52",
+   "type": "narration",
+   "text": "The little red one made the sound again.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 81,
+   "para": "p53",
+   "type": "narration",
+   "text": "She came back slowly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p54",
+   "type": "narration",
+   "text": "Over the next days. Gunna had told him, in the autumn,"
+  },
+  {
+   "seq": 83,
+   "para": "p54",
+   "type": "remembered",
+   "text": "some come out again, some don’t"
+  },
+  {
+   "seq": 84,
+   "para": "p54",
+   "type": "narration",
+   "text": ". She came out. A piece at a time. Like Aurveth’s bridge coming up out of her on the setters’ ledge in the summer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p55",
+   "type": "narration",
+   "text": "On the three-hundred-and-fifteenth day she ate from Wren’s hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p56",
+   "type": "narration",
+   "text": "All winter she’d eaten from the floor where Gunna put it, under her nose. This was a strip of mutton, held out on a flat palm, an arm’s length off. She looked at it a while. Then she put her head down and took it, very carefully, with her lips, as a horse takes an apple.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p57",
+   "type": "narration",
+   "text": "Wren didn’t move until she’d taken it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p58",
+   "type": "narration",
+   "text": "On the three-hundred-and-sixteenth day she lay down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p59",
+   "type": "narration",
+   "text": "For the first time since the autumn. At dusk, by the spring. She’d stood all night every night, Gunna said, like a horse asleep and not asleep. That night she folded her legs and lay down on the warm stone, as Lisska lay, with her chin on her forefeet.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p60",
+   "type": "narration",
+   "text": "And followed Wren with her eyes. Round the caves. Wherever Wren went, the little red one’s eyes went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p61",
+   "type": "speech",
+   "text": "“That one’s come back,”"
+  },
+  {
+   "seq": 92,
+   "para": "p61",
+   "type": "narration",
+   "text": "said Gunna.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 93,
+   "para": "p62",
+   "type": "narration",
+   "text": "The black and the red didn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p63",
+   "type": "narration",
+   "text": "Not yet. They stood by the spring, side by side, and looked at nothing. Wren sat with them an hour each, morning and afternoon, as she’d made the rule, and talked to them about barley, and they didn’t lift their heads.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p64",
+   "type": "speech",
+   "text": "“They might,”"
+  },
+  {
+   "seq": 96,
+   "para": "p64",
+   "type": "narration",
+   "text": "said Gunna."
+  },
+  {
+   "seq": 97,
+   "para": "p64",
+   "type": "speech",
+   "text": "“Or they mightn’t. She was alone in it a long time with nobody to be near. They’ve been in it together.”"
+  },
+  {
+   "seq": 98,
+   "para": "p64",
+   "type": "narration",
+   "text": "She looked at them."
+  },
+  {
+   "seq": 99,
+   "para": "p64",
+   "type": "speech",
+   "text": "“Sometimes that’s worse. Sometimes you keep each other in.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p65",
+   "type": "narration",
+   "text": "Wren went on sitting with them anyway.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 101,
+   "para": "p66",
+   "type": "narration",
+   "text": "Wren named her on the three-hundred-and-sixteenth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p67",
+   "type": "narration",
+   "text": "At the fire, at dusk, at the cave mouth. With the little red one lying by the spring at the back, with her eyes open, on Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p68",
+   "type": "speech",
+   "text": "“Ildra,”"
+  },
+  {
+   "seq": 104,
+   "para": "p68",
+   "type": "narration",
+   "text": "said Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p69",
+   "type": "narration",
+   "text": "Calder looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p70",
+   "type": "speech",
+   "text": "“Her name,”"
+  },
+  {
+   "seq": 107,
+   "para": "p70",
+   "type": "narration",
+   "text": "said Wren."
+  },
+  {
+   "seq": 108,
+   "para": "p70",
+   "type": "speech",
+   "text": "“It’s Ildra.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p71",
+   "type": "speech",
+   "text": "“Why?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p72",
+   "type": "narration",
+   "text": "Wren thought about it. She frowned at the fire. She didn’t know. He could see her not knowing and deciding not to mind.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p73",
+   "type": "speech",
+   "text": "“It’s what she sounds like,”"
+  },
+  {
+   "seq": 112,
+   "para": "p73",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 113,
+   "para": "p73",
+   "type": "speech",
+   "text": "“When she makes the noise. The kettle noise. It goes ildra.”"
+  },
+  {
+   "seq": 114,
+   "para": "p73",
+   "type": "narration",
+   "text": "She looked at him."
+  },
+  {
+   "seq": 115,
+   "para": "p73",
+   "type": "speech",
+   "text": "“She said it. On the ninth day. I heard it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p74",
+   "type": "narration",
+   "text": "He hadn’t heard it. He’d heard a chirr like a kettle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p75",
+   "type": "speech",
+   "text": "“Ildra,”"
+  },
+  {
+   "seq": 118,
+   "para": "p75",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p76",
+   "type": "speech",
+   "text": "“Say it twice.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p77",
+   "type": "speech",
+   "text": "“Ildra,”"
+  },
+  {
+   "seq": 121,
+   "para": "p77",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 122,
+   "para": "p77",
+   "type": "speech",
+   "text": "“Ildra.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p78",
+   "type": "narration",
+   "text": "At the back of the cave, by the spring, the little red one lifted her head.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 124,
+   "para": "p79",
+   "type": "speech",
+   "text": "“She’s not yours,”"
+  },
+  {
+   "seq": 125,
+   "para": "p79",
+   "type": "narration",
+   "text": "he said, later. When Wren was nearly asleep against him. He said it carefully."
+  },
+  {
+   "seq": 126,
+   "para": "p79",
+   "type": "speech",
+   "text": "“You know that? She’s not bonded to you.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p80",
+   "type": "narration",
+   "text": "He knew what a bond was. He had three of them in his chest. He knew what it cost. One life between four. A house with the doors open. He didn’t want that for a girl of ten. Not yet. Not ever, perhaps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p81",
+   "type": "speech",
+   "text": "“I know,”"
+  },
+  {
+   "seq": 129,
+   "para": "p81",
+   "type": "narration",
+   "text": "said Wren. Sleepily."
+  },
+  {
+   "seq": 130,
+   "para": "p81",
+   "type": "speech",
+   "text": "“She’s not mine. She’s not anybody’s.”"
+  },
+  {
+   "seq": 131,
+   "para": "p81",
+   "type": "narration",
+   "text": "She yawned."
+  },
+  {
+   "seq": 132,
+   "para": "p81",
+   "type": "speech",
+   "text": "“She just comes when I talk.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p82",
+   "type": "speech",
+   "text": "“That’s enough,”"
+  },
+  {
+   "seq": 134,
+   "para": "p82",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p83",
+   "type": "speech",
+   "text": "“That’s what Gunna says.”"
+  },
+  {
+   "seq": 136,
+   "para": "p83",
+   "type": "narration",
+   "text": "Wren shut her eyes."
+  },
+  {
+   "seq": 137,
+   "para": "p83",
+   "type": "speech",
+   "text": "“That’s enough to start with.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 138,
+   "para": "p84",
+   "type": "narration",
+   "text": "He wrote to Maren on the three-hundred-and-sixteenth night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p85",
+   "type": "narration",
+   "text": "At Bel’s table, with Ada sitting across from him with her arms folded. Not helping. Not singing. She hadn’t sung since the letter came from the Scald. Wren had asked her at the new moon and at the full moon, and both times Ada had said her throat was sore.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p86",
+   "type": "narration",
+   "text": "A whole page. Charcoal on the Clan’s grey tally-paper. His hand was better. He could tell. The lines went across the page and stayed across. The letters were nearly the same size. He only had to cross out two.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p87",
+   "type": "narration",
+   "text": "He wrote about the reef. The bell, under the water, at low spring. Aurveth lying on the rock with his hand on her neck, and what she’d shown him. The Deep, moving under the whole coast like the tide under sand. Something breathing. Waking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p88",
+   "type": "narration",
+   "text": "He wrote that it had cost her. The old wound, open. That she was on the spit with Ivar Leck and not to fly for a month.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p89",
+   "type": "narration",
+   "text": "He wrote about the contract. The Tide Council had sold the reef. To the Strand house. They were bringing a fleet. A cage.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p90",
+   "type": "narration",
+   "text": "He wrote about the baskets.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p91",
+   "type": "narration",
+   "text": "He wrote about the little red one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p92",
+   "type": "thought",
+   "text": "Wren sat with her nine days. On the ninth day she looked up. She made Lisska’s first noise. Wren has named her Ildra. She says it is what she sounds like.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p93",
+   "type": "thought",
+   "text": "She is not bonded. She just comes when Wren talks.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p94",
+   "type": "thought",
+   "text": "Ada still won’t sing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p95",
+   "type": "narration",
+   "text": "He signed it. CALDER. He looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p96",
+   "type": "narration",
+   "text": "He folded it and put it in his coat with the others. For when Lisska came home.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 151,
+   "para": "p97",
+   "type": "narration",
+   "text": "Lisska didn’t come home.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p98",
+   "type": "narration",
+   "text": "She’d been gone since the three-hundredth day. West. To Sarovel. With his letter from Blackwater, and Liss’s two words at the bottom. Sixteen days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p99",
+   "type": "narration",
+   "text": "He felt for her every night. The bond. The thread. She was there. He could feel her there, at the far end of it, small and very far and very tired. Waiting. Somewhere south-west. She hadn’t come back because she was waiting for an answer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p100",
+   "type": "narration",
+   "text": "Maren hadn’t written one yet.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 155,
+   "para": "p101",
+   "type": "narration",
+   "text": "Every dragon in the caves turned its head on the morning of the three-hundred-and-seventeenth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p102",
+   "type": "narration",
+   "text": "All at once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p103",
+   "type": "narration",
+   "text": "He was at the fire at the cave mouth. Gunna across from him with Tamsin’s long grey-green head in her lap. Leif with his young brown. Wren on her bowl by the spring. Ada gone down to the hold. Kharrak lying in the heather outside with his head on his forefeet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p104",
+   "type": "narration",
+   "text": "In the middle of the morning they all moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p105",
+   "type": "narration",
+   "text": "Tamsin’s head came up out of Gunna’s lap. Leif’s brown lifted its head off the stone. At the back of the caves, in the dark, the winterers, the old unbonded dragons who’d lain there all winter without moving, lifted theirs. Kharrak, in the heather, outside. The black and the red, by the spring. Ildra, lying by the warm water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p106",
+   "type": "narration",
+   "text": "Every head. Every one. In the same moment.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p107",
+   "type": "narration",
+   "text": "Turning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p108",
+   "type": "narration",
+   "text": "South-west.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 163,
+   "para": "p109",
+   "type": "narration",
+   "text": "Toward the back of the cave. Toward the rock. Toward nothing he could see. South-west, through the stone of the Scarfell, through the dark, toward the far end of everything. Every head in the caves pointing the same way, like the needles on the cordon men’s gauges at the Scald, like the reader’s glasses on the tower rail.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p110",
+   "type": "narration",
+   "text": "And they hummed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p111",
+   "type": "narration",
+   "text": "Low. All of them. Together. Not the ledges’ mother-hum, that meant"
+  },
+  {
+   "seq": 166,
+   "para": "p111",
+   "type": "thought",
+   "text": "here, you’re here"
+  },
+  {
+   "seq": 167,
+   "para": "p111",
+   "type": "narration",
+   "text": ". Something else. Lower. Longer. A sound he’d never heard the dragons make. It came up through the cave floor and through the stone he was sitting on and through his chest, where his three marks were, and made them ache.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p112",
+   "type": "narration",
+   "text": "Wren turned round on her bowl.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p113",
+   "type": "speech",
+   "text": "“What is it?”"
+  },
+  {
+   "seq": 170,
+   "para": "p113",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p114",
+   "type": "narration",
+   "text": "Nobody answered.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 172,
+   "para": "p115",
+   "type": "narration",
+   "text": "They didn’t settle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p116",
+   "type": "narration",
+   "text": "He waited for them to. They didn’t. All day, and all night. Every head turned south-west, every dragon humming, low and long, under the stone. Tamsin’s old gold eyes wide open. Kharrak’s, outside, in the heather, red in the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p117",
+   "type": "bond",
+   "text": "Something’s woken,"
+  },
+  {
+   "seq": 175,
+   "para": "p117",
+   "type": "narration",
+   "text": "said Kharrak. At last. Very low."
+  },
+  {
+   "seq": 176,
+   "para": "p117",
+   "type": "thought",
+   "text": "A long way off. South. West. Something very big."
+  },
+  {
+   "seq": 177,
+   "para": "p117",
+   "type": "narration",
+   "text": "A pause."
+  },
+  {
+   "seq": 178,
+   "para": "p117",
+   "type": "thought",
+   "text": "It’s waking up and it’s frightened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p118",
+   "type": "speech",
+   "text": "“Frightened?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p119",
+   "type": "bond",
+   "text": "It doesn’t know where it is,"
+  },
+  {
+   "seq": 181,
+   "para": "p119",
+   "type": "narration",
+   "text": "said Kharrak.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 182,
+   "para": "p120",
+   "type": "narration",
+   "text": "Gunna sat with Tamsin’s head lifted off her lap and her hand on the old dragon’s jaw.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p121",
+   "type": "speech",
+   "text": "“Something’s woken,”"
+  },
+  {
+   "seq": 184,
+   "para": "p121",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 185,
+   "para": "p121",
+   "type": "speech",
+   "text": "“A long way off.”"
+  },
+  {
+   "seq": 186,
+   "para": "p121",
+   "type": "narration",
+   "text": "She looked at him across the fire."
+  },
+  {
+   "seq": 187,
+   "para": "p121",
+   "type": "speech",
+   "text": "“You know where.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p122",
+   "type": "narration",
+   "text": "He did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p123",
+   "type": "narration",
+   "text": "He had it in his coat. On the back of his own letter, in her plain square hand."
+  },
+  {
+   "seq": 190,
+   "para": "p123",
+   "type": "thought",
+   "text": "The next one is south. Sarovel. The Sun Stair. Within the month.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p124",
+   "type": "narration",
+   "text": "It had been a month.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p125",
+   "type": "narration",
+   "text": "He thought of Maren. Somewhere down there. At the far end of the line every dragon in the caves was pointing along. With her lion.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p126",
+   "type": "narration",
+   "text": "He thought of Lisska. Small and green and very tired, at the far end of his own thread, waiting for an answer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p127",
+   "type": "narration",
+   "text": "In the morning their heads were still turned, and Ildra, by the spring, was looking at Wren.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "4bbcd3a95e93886ddbe50113bf57d8321b06e00b",
+ "segments_sha1": "24e38033fcddba7d1e181e674d372e696b85f378"
+}

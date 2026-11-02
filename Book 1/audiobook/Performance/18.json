@@ -2,6 +2,28 @@
  "chapter": 18,
  "title": "The Mill",
  "pov": "Calder",
+ "source": "Chapters/Chapter 18 - The Mill.md",
+ "names": [
+  "arn",
+  "aurveth",
+  "bramble",
+  "calder",
+  "coldtarn",
+  "dag",
+  "drover",
+  "fenn",
+  "hob",
+  "holm",
+  "imra",
+  "kharrak",
+  "lisska",
+  "rorke",
+  "sigrun",
+  "ulric",
+  "varrhold",
+  "wheel",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1318,5 +1340,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "2a938799a1b96bbbc7dd536001702780281c36a3",
+ "segments_sha1": "3be24705cf2e0cf816774387649184a3ff2304a0"
 }

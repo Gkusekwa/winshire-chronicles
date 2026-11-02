@@ -2,6 +2,12 @@
  "chapter": 19,
  "title": "The Roar",
  "pov": "Maren",
+ "source": "Chapters/Chapter 19 - The Roar.md",
+ "names": [
+  "greyhold",
+  "harrow",
+  "pell"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -816,5 +822,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "019038dc0e450ed60764a4b86e94d61fcbcf803b",
+ "segments_sha1": "2b83ab01bd23c69abd9bb2f40aeab7bd2cc58935"
 }

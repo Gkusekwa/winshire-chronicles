@@ -2,6 +2,33 @@
  "chapter": 50,
  "title": "Bel",
  "pov": "Calder",
+ "source": "Chapters/Chapter 50 - Bel.md",
+ "names": [
+  "ada",
+  "ashby",
+  "aurveth",
+  "bel",
+  "calder",
+  "ewe",
+  "fenn",
+  "gallows",
+  "garrow",
+  "harrow",
+  "hollin",
+  "hollins",
+  "joss",
+  "kharrak",
+  "lisska",
+  "mabbin",
+  "marches",
+  "quay",
+  "rush",
+  "sorrel",
+  "varrhold",
+  "wend",
+  "wendmouth",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -2193,5 +2220,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "bade422369b1c5e6f89aaa91e41a53028cece5af",
+ "segments_sha1": "1a1c7bce2d070bad7044469e2d4a60b2c76e1cb6"
 }

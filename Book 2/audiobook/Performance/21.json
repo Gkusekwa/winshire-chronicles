@@ -1,0 +1,1506 @@
+{
+ "chapter": 21,
+ "title": "The Roosts",
+ "pov": "",
+ "source": "Chapters/Chapter 21 - The Roosts.md",
+ "names": [
+  "arn",
+  "aurveth",
+  "brecc",
+  "calder",
+  "gallows",
+  "gunna",
+  "kharrak",
+  "lisska",
+  "quay",
+  "roosts",
+  "skarrow",
+  "skell",
+  "tamsin",
+  "tarne",
+  "tor",
+  "ulric",
+  "wren"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Twenty-one.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Roosts.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "Midsummer was the Clan’s choosing night, and that was why they were all there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "Calder had never seen it. Nobody from Harrow’s End had; it wasn’t for them. He’d heard of it all his life, as you hear of things in other people’s houses. On midsummer night the Clan let the young dragons out of the pens, the yearlings and the two-year-olds, onto the long ledge under the Roosts, and every family’s young who were of age went up the stair and stood on the ledge in a line in front of them. And waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "That was all. They stood, and the young dragons walked up and down the ledge among them in the firelight, and looked at them. And sometimes, not often, a dragon stopped in front of someone and stayed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Most years, nobody was chosen. Some years, one. Gunna said there’d been a year, when she was a girl, when three were chosen in one night, and the Clan talked of nothing else till winter.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "It stood outside everything, the choosing. Outside feuds, outside wars. That was the old law. A young dragon didn’t care whose thread you wore. So on the eighty-fifth day, more than a fortnight after he’d taken the board with the boot-print into the hall and put it under the chair, Arn sent a rider to Skarrow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "The first word he’d sent his uncle since the ford.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "thought",
+   "text": "The young of Skarrow may come to the choosing. Under the old law. With Ulric, and twenty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "That was all it said. Gorm Askell wrote it. Gorm told Calder he’d written it three times because Arn kept changing may to can and back again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "Ulric came on the ninety-seventh day, with twenty men and eleven young people, boys and girls of fifteen and sixteen in plain grey. He didn’t come into the hall. He camped in the yard below the stair, by the cold west hearth’s outside wall, and Arn didn’t come down to him, and neither of them said a word to the other all day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "But the gate was open.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "narration",
+   "text": "Lisska had come home on the eighty-eighth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p12",
+   "type": "narration",
+   "text": "From the east, over the fells, at dusk, low and tired and quiet. She’d seen the lion-woman, she said, and the lion, lying at ten paces from the great one, in a ring of stones, in the grey. A league of grey. The trees grey. Nothing moving. She’d stayed two days and then come home.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p13",
+   "type": "bond",
+   "text": "I didn’t like it there,"
+  },
+  {
+   "seq": 16,
+   "para": "p13",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 17,
+   "para": "p13",
+   "type": "thought",
+   "text": "I wanted to come home before.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p14",
+   "type": "speech",
+   "text": "“Before what?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p15",
+   "type": "narration",
+   "text": "She didn’t answer that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p16",
+   "type": "narration",
+   "text": "But she was talking again, a little: a sentence here, a sentence there, in the evenings on the ledge, as if she were trying words to see if they’d still hold her. She didn’t joke. Once she told him what Wren had said about the stone, and stopped in the middle as if she’d forgotten how it ended, and didn’t finish.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p17",
+   "type": "narration",
+   "text": "He didn’t push her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 22,
+   "para": "p18",
+   "type": "narration",
+   "text": "The young dragons came out of the pens at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p19",
+   "type": "narration",
+   "text": "He watched from the setters’ ledge, with the old one lying beside him with her wing out in its splints and her head up, and Lisska on the rock behind him, and Kharrak on the high ledge above, lying across his cave mouth like a dog across a door. Below them the whole of Varrhold was in the yard. Fires. Torches. Every family of the red thread and the eleven of Skarrow’s in their plain grey, and Ulric with his twenty by the west wall, and Arn on the steps of the hall, in black.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p20",
+   "type": "narration",
+   "text": "And at the edge of the yard, by the gate, his own: Ada and Bel and the children, down from the caves for it, with Old Grey standing behind Wren like a wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p21",
+   "type": "narration",
+   "text": "The keepers opened the pens.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p22",
+   "type": "narration",
+   "text": "Forty young dragons came out onto the Choosing Ledge. Blues and blacks and reds and bronzes, a green or two, yearlings no bigger than a dray-horse and two-year-olds as big as Lisska. They came out in a rush, like calves out of a byre in spring, and stopped, all at once, on the long ledge, in the firelight, and looked round. At the fires. At the cliff. At the people in the yard below.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p23",
+   "type": "narration",
+   "text": "And at the line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p24",
+   "type": "narration",
+   "text": "Thirty young people of the Clan were standing in it, on the far end of the ledge, with their backs to the cliff. Red thread and plain grey, side by side, because the line was by age and not by side, and nobody had said anything about it. They stood very still. Some of them were shaking. A girl from Skarrow at the end of the line had her eyes shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p25",
+   "type": "narration",
+   "text": "The young dragons began to walk among them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 30,
+   "para": "p26",
+   "type": "narration",
+   "text": "Tor Brecc was on the ledges’ end of the line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p27",
+   "type": "narration",
+   "text": "Not in it. He’d stood in it two midsummers ago, at seventeen, and a young blue called Skell had walked up the ledge and stopped in front of him and stayed. Now he was nineteen, and bonded, and he stood with the ledges for the first time, at the near end of the Choosing Ledge, with Skell beside him. A long thin boy with his grandfather’s nose. Hallam’s nose. Calder had seen it from across the ford.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p28",
+   "type": "narration",
+   "text": "Skell was a young blue, slender, nervous, with a habit of putting his chin on Tor’s shoulder from behind. He did it now. Tor reached up without looking and scratched him under the jaw.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p29",
+   "type": "narration",
+   "text": "Gunna Tarne was on the ledge above, the one below the setters’, with Tamsin. She’d come down from the caves for the choosing, the first time she’d left his family since the edge. She sat on Tamsin’s foreleg with her clay pipe and watched the line and said nothing. Once she looked up at Calder on the setters’ ledge, and nodded.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p30",
+   "type": "narration",
+   "text": "On the Choosing Ledge, a young bronze had stopped in front of the girl from Skarrow with her eyes shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p31",
+   "type": "narration",
+   "text": "The girl didn’t know. She stood there with her eyes shut, shaking, and the young bronze stood in front of her with its head down, looking at her, and the whole yard below went quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p32",
+   "type": "narration",
+   "text": "Somebody in the yard said her name.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p33",
+   "type": "narration",
+   "text": "She opened her eyes.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 38,
+   "para": "p34",
+   "type": "narration",
+   "text": "The smoke came an hour after dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p35",
+   "type": "narration",
+   "text": "He smelled it on the wind before he knew what it was. Sweet. A summer smell, honey and something like pine-gum, coming down off the moor from the north-east. He thought it was somebody’s bees. He thought somebody had a hive on the moor and was smoking it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p36",
+   "type": "narration",
+   "text": "Then the old one lifted her head off her forelegs.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p37",
+   "type": "bond",
+   "text": "Farmer,"
+  },
+  {
+   "seq": 42,
+   "para": "p37",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p38",
+   "type": "narration",
+   "text": "Her voice was very quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p39",
+   "type": "thought",
+   "text": "That smell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p40",
+   "type": "narration",
+   "text": "He looked up. Over the clifftop, above the Roosts, against the stars, a bank of white. Rolling. Coming down off the heather over the lip of the cliff in a long slow wave, as mist comes down off a fell in the morning, only it wasn’t morning and it wasn’t mist. White in the firelight. Going down over the cave mouths, over the high ledges, over Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p41",
+   "type": "narration",
+   "text": "Behind it, on the moor, a quarter-league off, a line of small red fires he hadn’t seen lit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p42",
+   "type": "bond",
+   "text": "Honey-smoke,"
+  },
+  {
+   "seq": 48,
+   "para": "p42",
+   "type": "narration",
+   "text": "said Aurveth."
+  },
+  {
+   "seq": 49,
+   "para": "p42",
+   "type": "thought",
+   "text": "On the wind.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 50,
+   "para": "p43",
+   "type": "narration",
+   "text": "It came down the cliff like water down a weir.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p44",
+   "type": "narration",
+   "text": "Over the high ledges first. He felt it reach Kharrak. Through the bond, a slow heavy weight came over the red dragon, like a blanket thrown over a fire, and the fire under it went thick and smoky and far away. Kharrak lifted his head. Then it went down, slowly, onto his forelegs, and his eyes half closed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p45",
+   "type": "bond",
+   "text": "Farmer,"
+  },
+  {
+   "seq": 53,
+   "para": "p45",
+   "type": "narration",
+   "text": "said Kharrak, from very far.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Kharrak.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p47",
+   "type": "thought",
+   "text": "It’s… warm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p48",
+   "type": "narration",
+   "text": "Then it came over the setters’ ledge, over the old one, over Calder, over Lisska.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p49",
+   "type": "narration",
+   "text": "He’d smelled it before. On Gallows Quay, the night of the forcing, coming out of a pot under a beast’s nose. It hadn’t been in his head then. He hadn’t had three dragons in his head then.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p50",
+   "type": "narration",
+   "text": "It went into all three of them at once.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 59,
+   "para": "p51",
+   "type": "thought",
+   "text": "Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p52",
+   "type": "narration",
+   "text": "Lisska.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p53",
+   "type": "thought",
+   "text": "Calder. Calder, I’m coming loose.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p54",
+   "type": "narration",
+   "text": "He felt it. He’d never felt anything like it. The bond, the green one, the bright quick flicker at the back of his head that had been there since the barley field: it was going. Loosening. Sliding. As if it were a rope and the knot at her end was coming undone, slowly, turn by turn, like a knot in wet cord, and her end was sliding away from him into the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p55",
+   "type": "bond",
+   "text": "Like a boat,"
+  },
+  {
+   "seq": 64,
+   "para": "p55",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 65,
+   "para": "p55",
+   "type": "thought",
+   "text": "Like a boat off its rope. I’m going out. I’m going out on the water. I can’t feel you, Calder, I can’t feel you any more, I can’t…",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p56",
+   "type": "narration",
+   "text": "He didn’t think. He took hold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p57",
+   "type": "narration",
+   "text": "He didn’t know how. He’d never done it. He’d held Kharrak’s red tide from the outside, like a gate against a bull, and from the inside, on the moor, sitting on it. This wasn’t that. This was the rope itself. The bond, going loose in his hands, the green end sliding away into the dark. He took hold of it and held on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p58",
+   "type": "bond",
+   "text": "No,"
+  },
+  {
+   "seq": 69,
+   "para": "p58",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 70,
+   "para": "p58",
+   "type": "thought",
+   "text": "No. Here. You’re here. You’re with me. Lisska. Here.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p59",
+   "type": "thought",
+   "text": "I’m going out…",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p60",
+   "type": "thought",
+   "text": "You’re not. I’ve got you. I’ve got the rope. Feel it. I’ve got it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p61",
+   "type": "narration",
+   "text": "It pulled. Like a boat on a tide, a heavy boat, pulling, the rope burning through his hands. He held it. He sat on the setters’ ledge with his eyes shut and his fists clenched on nothing and held on to the green dragon with everything he had, and the smoke went over him sweet and heavy, and the rope pulled, and pulled, and he didn’t let go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p62",
+   "type": "narration",
+   "text": "Something ran down his lip, warm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p63",
+   "type": "narration",
+   "text": "He didn’t let go.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 76,
+   "para": "p64",
+   "type": "thought",
+   "text": "I know this smell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p65",
+   "type": "narration",
+   "text": "The old one. Beside him, in the smoke, with her head up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p66",
+   "type": "thought",
+   "text": "I know it. I knew it before your grandfather’s grandfather was born."
+  },
+  {
+   "seq": 79,
+   "para": "p66",
+   "type": "narration",
+   "text": "Her voice in his head was slow and very steady, the only steady thing in the world."
+  },
+  {
+   "seq": 80,
+   "para": "p66",
+   "type": "thought",
+   "text": "The first knights. The binders. On the bridge. They burned it under my nose for three days and took Ennis out of me with a knife and a word, and I let them, because I did not know what was being done.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p67",
+   "type": "narration",
+   "text": "The smoke went over her. He felt it go over her. Felt it try. Felt it press at her, at the bond, at the old bronze place in him where she lived, and find the place where something had been cut, a long time ago, and healed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p68",
+   "type": "bond",
+   "text": "It healed hard,"
+  },
+  {
+   "seq": 83,
+   "para": "p68",
+   "type": "narration",
+   "text": "said Aurveth."
+  },
+  {
+   "seq": 84,
+   "para": "p68",
+   "type": "thought",
+   "text": "The cut. A place that has been cut once heals harder."
+  },
+  {
+   "seq": 85,
+   "para": "p68",
+   "type": "narration",
+   "text": "She was quite still."
+  },
+  {
+   "seq": 86,
+   "para": "p68",
+   "type": "thought",
+   "text": "They will not cut me again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p69",
+   "type": "narration",
+   "text": "And she held on to him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p70",
+   "type": "narration",
+   "text": "He felt it. While he held the green one’s rope in his two hands, with the blood running into his mouth, the old one held him. As if she’d put her great jaw down over his shoulder from behind, as Skell put his chin on Tor’s, and held him steady, so that he could hold.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 89,
+   "para": "p71",
+   "type": "narration",
+   "text": "On the high ledge, Kharrak came back roaring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p72",
+   "type": "narration",
+   "text": "Calder felt it happen. Down in the dark, under the blanket, under the warm sweet weight, the red tide came up. Not because Calder let it. Because it came. Kharrak’s own fury, coming up out of the bottom of him like a spring out of rock, hot, red, furious at being made warm, furious at the smoke, furious at whatever was doing it, furious, and it burned the smoke out of him as fire burns off mist.",
+   "mood": "anger",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p73",
+   "type": "narration",
+   "text": "The red dragon came up off his ledge with a roar that shook stones off the cliff.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p74",
+   "type": "bond",
+   "text": "WHO,"
+  },
+  {
+   "seq": 93,
+   "para": "p74",
+   "type": "narration",
+   "text": "said Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p75",
+   "type": "narration",
+   "text": "He didn’t wait for an answer. He went up into the smoke over the Roosts with his wings beating it apart, and fire came out of him in a long red sheet over the cliff-top, at nothing, at the smoke, at the stars, and the sheet lit the whole cliff red.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p76",
+   "type": "narration",
+   "text": "In the red light Calder saw them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 96,
+   "para": "p77",
+   "type": "narration",
+   "text": "Men on the ropes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p78",
+   "type": "narration",
+   "text": "Up from below, onto the Choosing Ledge, on knotted ropes thrown up with grapnels, coming over the ledge’s lip out of the dark of the glen. And down from above, from the cliff-top, the same, a dozen men on ropes coming down the face of the Roosts past the cave mouths, in plain coats and dark caps, with wet cloths tied over their faces. Wendmouth boots. He knew without seeing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p79",
+   "type": "narration",
+   "text": "And among them, binders.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p80",
+   "type": "narration",
+   "text": "He could tell them. They didn’t fight. They carried pots, smoking, on chains, swinging them, so the sweet white poured off them in ropes. And they carried collars. Iron collars, open, with hinges, and the ring of six on the outside.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p81",
+   "type": "narration",
+   "text": "And over it all, in over the smoke from the north-east, two wyverns.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p82",
+   "type": "narration",
+   "text": "He’d seen wyverns. On Gallows Quay, caged. Long lean black-green things with two legs and no forelimbs, and leathery wings, and barbed tails like whips, the size of a big horse. These had collars on. Six-dot collars, and men on their backs, and their eyes in Kharrak’s red light were empty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p83",
+   "type": "narration",
+   "text": "On the Choosing Ledge the young dragons stood in the smoke with their heads down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p84",
+   "type": "narration",
+   "text": "Forty of them, standing still. Opened. Empty-eyed, the yearlings and the two-year-olds, the bronze that had stopped in front of the girl from Skarrow, all of them, standing on the ledge in the white smoke with nothing behind their eyes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p85",
+   "type": "narration",
+   "text": "The binders went to them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p86",
+   "type": "narration",
+   "text": "Not to all of them. Calder saw that. To four. They walked past the others. They walked down the line of opened young dragons in the smoke, looking, as you’d look at heifers at the Cross, and stopped at four. A big young bronze, the biggest on the ledge. A black. Two reds. And they put their hands on the young dragons’ heads.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 106,
+   "para": "p87",
+   "type": "narration",
+   "text": "Gunna Tarne went down into the smoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p88",
+   "type": "narration",
+   "text": "He saw her go. From the ledge below the setters’, on Tamsin’s neck. Tamsin was opened too; he could see it, the grey-green head low, the eyes half gone. Gunna had a cloth. She’d tied it over Tamsin’s nostrils, a wet cloth, a sheet off somebody’s bed soaked in the setters’ spring, and another over her own mouth, and she put her heels in, and the grey-green dragon went off the ledge half blind into the smoke and down onto the Choosing Ledge among the binders.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p89",
+   "type": "narration",
+   "text": "She hit two of them. Tamsin did. Came down on them with her forelegs out, and they went off the ledge into the dark of the glen without a sound. A third binder swung his pot at her on its chain.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p90",
+   "type": "narration",
+   "text": "It went over.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p91",
+   "type": "narration",
+   "text": "The pot broke on the ledge and the burning resin in it went out in a sheet, liquid fire, gold, over the stone. Over Tamsin’s wing where it lay on the ledge. Over Gunna’s cloak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p92",
+   "type": "narration",
+   "text": "Tamsin screamed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p93",
+   "type": "narration",
+   "text": "Calder heard Gunna, through it, in the fire, not screaming. Talking. To the dragon. Low and steady, as you’d talk to a ewe caught in a fence.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p94",
+   "type": "narration",
+   "text": "Then Ivar Leck was there, and Leif, coming down the stair from the setters’ ledge, the old bent man on his stick and the boy, into the smoke with cloths over their faces, and they had Gunna by the arms and they were dragging her, and Tamsin was coming after on three legs with her wing on fire, and they beat out the fire with their own cloaks on the stair, and dragged them both up, out of it, up the stair into the clear air of the setters’ ledge, and laid them down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p95",
+   "type": "narration",
+   "text": "Burned. Both. Gunna’s arm and her back and half her face. Tamsin’s wing, the whole trailing edge of it, black.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p96",
+   "type": "narration",
+   "text": "Alive.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 116,
+   "para": "p97",
+   "type": "narration",
+   "text": "Tor Brecc was at the near end of the Choosing Ledge, by the stair, and he’d seen what the binders were doing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p98",
+   "type": "narration",
+   "text": "Calder saw it all from above. He’d remember every moment of it. He’d remember it on nights for the rest of his life.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p99",
+   "type": "narration",
+   "text": "Skell had gone under in the smoke. The young blue stood beside his boy with his head down and his eyes empty, the chin that had rested on Tor’s shoulder hanging. And a binder had come to him. Not one of the four; the binders didn’t want Skell. A fifth binder, a straggler, looking for something, who saw a young blue standing opened by the stair and thought he’d have it too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p100",
+   "type": "narration",
+   "text": "He put his hand on Skell’s head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p101",
+   "type": "narration",
+   "text": "Tor killed him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p102",
+   "type": "narration",
+   "text": "With an axe, on the ledge, one blow. The binder went down with his hand still lifted. And Skell, opened, half bound, with a binder’s will half poured into him and the binder dead, and nothing in his head where his boy should have been, came up out of the smoke and didn’t know who he was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p103",
+   "type": "narration",
+   "text": "He didn’t know Tor.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p104",
+   "type": "narration",
+   "text": "He turned on what was nearest. Calder saw it. The young blue’s head coming round, fast, the teeth, the empty eyes. And Tor standing in front of him on the ledge with the axe in his hand, and not lifting it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p105",
+   "type": "narration",
+   "text": "Tor didn’t lift it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p106",
+   "type": "narration",
+   "text": "He stood there with the axe at his side and his hand out, open, toward his own dragon’s face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p107",
+   "type": "narration",
+   "text": "And from above, from the back of the second wyvern, somebody shot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p108",
+   "type": "narration",
+   "text": "A crossbow bolt. Calder saw it go. Into Skell’s throat, under the jaw, where the plates were thin. The young blue’s head went back. And Tor, standing in front of him with his hand out, went at the same moment.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p109",
+   "type": "narration",
+   "text": "Nothing touched him. He just went. His knees went, and he folded, as if somebody had pulled the bones out of him, and he lay down on the ledge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p110",
+   "type": "narration",
+   "text": "The young blue came down beside him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p111",
+   "type": "narration",
+   "text": "Calder had felt it once. On the barley field, in the dark, when Dag went off Kharrak’s back and Sigrun died and Imra died: three bonds torn, and the pull of them, going down. He felt it now, from above. Not his. Not his bond. But he felt it: the pull, when one of the two lives goes and takes the other with it down the bond as water takes a man down a weir. A breath. Less.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 131,
+   "para": "p112",
+   "type": "narration",
+   "text": "Tor Brecc and Skell lay together at the lip of the Choosing Ledge, the boy’s hand still open, the young blue’s head across his knees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p113",
+   "type": "narration",
+   "text": "Hallam’s grandson. With Hallam’s nose.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 133,
+   "para": "p114",
+   "type": "narration",
+   "text": "Arn and Ulric were on the stair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p115",
+   "type": "narration",
+   "text": "At the head of it, where the long steep stair in the rock came up from the yard onto the Choosing Ledge. The young people of the line had broken and run for it when the smoke came, thirty of them, red thread and grey, and the men on the ropes had gone for the stair to cut them off. And Arn had gone up the stair the other way, from the yard. And Ulric.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p116",
+   "type": "narration",
+   "text": "They stood at the head of the stair together.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p117",
+   "type": "narration",
+   "text": "Side by side. Arn with a sword. Ulric with a long-hafted axe. In the smoke and the red light, with the young of the Clan going down the stair past them behind, two at a time, three, as fast as they could go, and the raiders coming at the stair-head along the ledge. And the two Varrs stood there in the narrow place and held it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p118",
+   "type": "narration",
+   "text": "Neither of them said anything to the other. Calder watched. He’d remember that too. Not a word. Arn’s sword going and Ulric’s axe going and the raiders coming at them and going back, and the uncle a little in front and the nephew a little behind, and then the nephew a little in front, as the fight moved. Back to back once, for a moment, with men on both sides.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p119",
+   "type": "narration",
+   "text": "They didn’t look at each other once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p120",
+   "type": "narration",
+   "text": "The last of the young people went down the stair behind them. The girl from Skarrow, with her eyes wide open now. The young bronze that had stopped in front of her was standing on the ledge in the smoke, opened, empty, and she looked back at it, once, from the stair, and Ulric put his big hand on her back and pushed her down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 140,
+   "para": "p121",
+   "type": "speech",
+   "text": "“Four.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p122",
+   "type": "narration",
+   "text": "A voice. Over the smoke. From the second wyvern, circling low over the Choosing Ledge in Kharrak’s red light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p123",
+   "type": "speech",
+   "text": "“Those four. Leave the rest.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p124",
+   "type": "narration",
+   "text": "Calder went cold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p125",
+   "type": "narration",
+   "text": "He knew it. He’d heard it through a crack in the boards of a tower floor, lying on his face, with a fire below. Pleasant. Level. A voice that said"
+  },
+  {
+   "seq": 145,
+   "para": "p125",
+   "type": "bond",
+   "text": "It did what it was for"
+  },
+  {
+   "seq": 146,
+   "para": "p125",
+   "type": "narration",
+   "text": "as if it were telling you the time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p126",
+   "type": "narration",
+   "text": "He looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p127",
+   "type": "narration",
+   "text": "On the wyvern’s back, in a dark coat, lean, with a wet cloth pulled down round his neck so his face showed. A plain face. A face he’d seen once, in the firelight under the arch, looking at his brother. The face of the man at the window of the Fleece.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p128",
+   "type": "narration",
+   "text": "Corvin Vale didn’t look at the hold. He didn’t look at the fight on the stair, or the young dragons in the smoke, or the old woman burning on the stair below the setters’ ledge. He looked at the four. The bronze, the black, the two reds, with binders’ hands on their heads and collars going round their necks, click, click, the hinges closing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p129",
+   "type": "narration",
+   "text": "Then, once, he looked up. At the setters’ ledge. At Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p130",
+   "type": "narration",
+   "text": "He looked for a moment, as you’d look at a man across a market, a man you’d heard of and expected to see, and now you’d seen him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p131",
+   "type": "narration",
+   "text": "Then he looked away.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 153,
+   "para": "p132",
+   "type": "narration",
+   "text": "The four went up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p133",
+   "type": "narration",
+   "text": "Off the Choosing Ledge, into the smoke, with the binders on their necks. Empty-eyed, wings opening as they’d been taught to open on the ledges since they were hatched, obedient. The big bronze first. The black. The two reds. Up through the white, and out of it, over the moor, south-east, after the wyverns, into the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p134",
+   "type": "bond",
+   "text": "AFTER THEM,"
+  },
+  {
+   "seq": 156,
+   "para": "p134",
+   "type": "narration",
+   "text": "said Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p135",
+   "type": "narration",
+   "text": "He was over the Roosts, in the clear air above the smoke, with his fire going. Calder felt him turn. The red tide all the way up, every scale of him, burning to go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p136",
+   "type": "speech",
+   "text": "“No.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p137",
+   "type": "thought",
+   "text": "FARMER.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p138",
+   "type": "speech",
+   "text": "“No.”",
+   "mood": "urgent"
+  },
+  {
+   "seq": 161,
+   "para": "p138",
+   "type": "narration",
+   "text": "He was on his knees on the setters’ ledge with the blood running off his chin and the green dragon’s rope still in his hands, still pulling, still sliding. Lisska still half out on the water in the dark. If he let go of her to hold Kharrak, she’d go. If he let Kharrak go into the smoke after them, alone, he’d go under again, out over the moor, in the dark, after two wyverns and a crossbow.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p139",
+   "type": "speech",
+   "text": "“No. Not alone. Not in the smoke. Not now.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p140",
+   "type": "thought",
+   "text": "They’re taking them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p141",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p142",
+   "type": "thought",
+   "text": "They’re taking them and you’re letting them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p143",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p144",
+   "type": "narration",
+   "text": "The red dragon roared over the Roosts, once, a sound so full of rage that the stones on the cliff hummed with it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p145",
+   "type": "narration",
+   "text": "Then he came down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p146",
+   "type": "narration",
+   "text": "He came down on the setters’ ledge behind Calder, so hard the ledge shook, and stood there with his wings half open and his fire still in his throat, and didn’t go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p147",
+   "type": "narration",
+   "text": "The four young dragons were small shapes over the moor, in the dark, going south-east. Then they were gone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 171,
+   "para": "p148",
+   "type": "narration",
+   "text": "The smoke thinned toward dawn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p149",
+   "type": "narration",
+   "text": "The fires on the moor had burned out. The raiders were gone: down their ropes into the glen and away, or dead. Four dead on the Choosing Ledge. One alive, a binder, with Ulric’s knee on his back in the yard.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 173,
+   "para": "p150",
+   "type": "narration",
+   "text": "The young dragons on the ledge came back, slowly, one by one, as the smoke went. Shaking their heads. Looking round. Not knowing where they were. Thirty-six of them, wandering on the long ledge in the grey light, crying, a thin high sound, like lambs.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p151",
+   "type": "narration",
+   "text": "Lisska came back last.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p152",
+   "type": "narration",
+   "text": "He felt her come. The rope, in his hands, that had been sliding all night: it stopped sliding. Slowly. Turn by turn, the knot at her end tightened. The boat stopped going out. And then, at the very last, as the sky went grey over the fells, he felt her end of it pull toward him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p153",
+   "type": "thought",
+   "text": "Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p154",
+   "type": "speech",
+   "text": "“Here.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p155",
+   "type": "thought",
+   "text": "I was on the water. I was so far out."
+  },
+  {
+   "seq": 179,
+   "para": "p155",
+   "type": "narration",
+   "text": "She was very small."
+  },
+  {
+   "seq": 180,
+   "para": "p155",
+   "type": "thought",
+   "text": "I couldn’t see the shore.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p156",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p157",
+   "type": "thought",
+   "text": "You held the rope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p158",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p159",
+   "type": "narration",
+   "text": "She came down off the rock behind him, where she’d been lying all night with her eyes half shut, and put her head down on his knee, as Wren did when she was very small and had had a bad dream, and he put his hand on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p160",
+   "type": "narration",
+   "text": "His nose had stopped bleeding. He didn’t know when. The front of his shirt was stiff with it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 186,
+   "para": "p161",
+   "type": "narration",
+   "text": "The old one hadn’t moved all night. She lay beside him on the warm rock with her head up and her one gold eye on the Choosing Ledge below, where the boy and the young blue lay together at the lip.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p162",
+   "type": "bond",
+   "text": "I’m sorry,"
+  },
+  {
+   "seq": 188,
+   "para": "p162",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 189,
+   "para": "p162",
+   "type": "thought",
+   "text": "For the boy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p163",
+   "type": "speech",
+   "text": "“You held me.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p164",
+   "type": "thought",
+   "text": "Yes.",
+   "mood": "grief"
+  },
+  {
+   "seq": 192,
+   "para": "p164",
+   "type": "narration",
+   "text": "She was quiet.",
+   "mood": "grief"
+  },
+  {
+   "seq": 193,
+   "para": "p164",
+   "type": "thought",
+   "text": "I could not hold him. He was not mine. Nobody could have held him. The young one was dead, and when they are dead there is nothing to hold.",
+   "mood": "grief"
+  },
+  {
+   "seq": 194,
+   "para": "p164",
+   "type": "narration",
+   "text": "She looked at the ledge.",
+   "mood": "grief"
+  },
+  {
+   "seq": 195,
+   "para": "p164",
+   "type": "thought",
+   "text": "He did not lift the axe.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 196,
+   "para": "p165",
+   "type": "speech",
+   "text": "“No.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p166",
+   "type": "bond",
+   "text": "Hallam’s blood,"
+  },
+  {
+   "seq": 198,
+   "para": "p166",
+   "type": "narration",
+   "text": "said Aurveth."
+  },
+  {
+   "seq": 199,
+   "para": "p166",
+   "type": "thought",
+   "text": "Hallam would not have lifted it either.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p167",
+   "type": "narration",
+   "text": "He sat with his hand on Lisska’s head and his back to the warm rock and looked down at the two of them in the grey light. Tor’s hand was still open. Somebody had come up the stair and put a cloak over them both, a plain grey one, no thread. He didn’t know whose. Ulric’s, he thought, from the size.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p168",
+   "type": "narration",
+   "text": "Below, in the yard, Arn and Ulric were standing on either side of the captured binder, in the grey light. Not looking at each other. Not looking at the binder. Looking up, both of them, at the Choosing Ledge.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 202,
+   "para": "p169",
+   "type": "narration",
+   "text": "He put his hand flat on the rock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p170",
+   "type": "narration",
+   "text": "He’d done it every morning on that ledge since he came, to feel the pulse, the heart under the hill. He did it now, out of habit, with the blood dry on his lip.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p171",
+   "type": "narration",
+   "text": "The rock was humming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p172",
+   "type": "narration",
+   "text": "Something else, under the pulse and through it. A hum, low and steady, like a bowl that’s been struck and is still ringing. He’d heard of it once before, in the spring, from Lisska: the heather on the Scarfell moving behind the lion where there wasn’t any wind. The moor ringing where he’d walked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p173",
+   "type": "narration",
+   "text": "It was coming from the east.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p174",
+   "type": "narration",
+   "text": "He put both hands on the rock. The hum went into his palms and up his arms. East. All the stone of the Roosts, the whole cliff, humming toward the east, faintly, steadily, as if something a long way off had been struck very hard and the ringing had come all this way through the rock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p175",
+   "type": "bond",
+   "text": "Something has happened in the east,"
+  },
+  {
+   "seq": 209,
+   "para": "p175",
+   "type": "narration",
+   "text": "said Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p176",
+   "type": "speech",
+   "text": "“What?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p177",
+   "type": "narration",
+   "text": "She turned her head and looked east, over the fells, toward the sunrise that was coming up red behind them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p178",
+   "type": "bond",
+   "text": "Something has opened,"
+  },
+  {
+   "seq": 213,
+   "para": "p178",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p179",
+   "type": "narration",
+   "text": "He knelt on the setters’ ledge with his hands on the humming stone and looked east too, where the lion-woman was, and the great one, and the ring of stones in the grey. And under his palms, the ringing went on.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "8b8124725279f6e77953d52aac3df7eaf5b86e9d",
+ "segments_sha1": "af13263c307ba44366457f238d9b7f0b0bcbe124"
+}

@@ -2,6 +2,22 @@
  "chapter": 69,
  "title": "The Gate",
  "pov": "Maren",
+ "source": "Chapters/Chapter 69 - The Gate.md",
+ "names": [
+  "ada",
+  "ashdown",
+  "barn",
+  "bracken",
+  "greyhold",
+  "liss",
+  "maren",
+  "millbrook",
+  "pell",
+  "redwatch",
+  "rowan",
+  "sorrel",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1839,5 +1855,8 @@
    "mood": "urgent",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "f6b9176cf75befc0fc3913ed2c9c05a9e30053a2",
+ "segments_sha1": "5ff751954380c57ec23263b20177c02d39d0e8a0"
 }

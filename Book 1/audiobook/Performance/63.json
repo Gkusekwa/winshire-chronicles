@@ -2,6 +2,23 @@
  "chapter": 63,
  "title": "The Net",
  "pov": "Maren",
+ "source": "Chapters/Chapter 63 - The Net.md",
+ "names": [
+  "ash",
+  "callis",
+  "fellwood",
+  "greyhold",
+  "haverly",
+  "hearthmere",
+  "kesh",
+  "maren",
+  "pell",
+  "redwatch",
+  "rowan",
+  "ruin",
+  "saltreach",
+  "tobin"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1305,5 +1322,8 @@
    "text": "After a while she got up, and picked up the chest, and turned south. Down the River Road. Toward the ferry, and Liss.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "2de7255d7160f6bc16400391e6d1666b6431be4e",
+ "segments_sha1": "1c85cb90bee87ad1bbbdda71e7af41dc8adabf83"
 }

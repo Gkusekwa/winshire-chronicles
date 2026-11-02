@@ -2,6 +2,27 @@
  "chapter": 33,
  "title": "Ferriby",
  "pov": "Maren",
+ "source": "Chapters/Chapter 33 - Ferriby.md",
+ "names": [
+  "bracken",
+  "callis",
+  "darrow",
+  "ferriby",
+  "greyhold",
+  "hamm",
+  "hearthmere",
+  "ide",
+  "kesh",
+  "maren",
+  "millbrook",
+  "ottery",
+  "pell",
+  "redwatch",
+  "saltreach",
+  "ulric",
+  "wend",
+  "wynn"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1198,5 +1219,8 @@
    "mood": "tender",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "5688685b3fd101ee271a9ee8cabac0ca39496ef4",
+ "segments_sha1": "1025ed259f4b0d05e8cb8245630f6974738104bb"
 }

@@ -2,6 +2,24 @@
  "chapter": 71,
  "title": "Millbrook",
  "pov": "Maren",
+ "source": "Chapters/Chapter 71 - Millbrook.md",
+ "names": [
+  "callis",
+  "greyhold",
+  "hale",
+  "liss",
+  "maren",
+  "marl",
+  "millbrook",
+  "odo",
+  "pell",
+  "redwatch",
+  "rowan",
+  "tam",
+  "tobin",
+  "vale",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1454,5 +1472,8 @@
    "mood": "urgent",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "462ae8e55298e5e30e01af973875907d87cc3f73",
+ "segments_sha1": "3737bcf59c6541c348b6c5fc675b3670a3ef9a0c"
 }

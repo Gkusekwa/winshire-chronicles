@@ -1,0 +1,1340 @@
+{
+ "chapter": 75,
+ "title": "Where the Island Was",
+ "pov": "",
+ "source": "Chapters/Chapter 75 - Where the Island Was.md",
+ "names": [
+  "aurveth",
+  "bell",
+  "bridle",
+  "coil",
+  "drover",
+  "hearthmere",
+  "kharrak",
+  "ring",
+  "saltreach",
+  "scald",
+  "titan",
+  "vael",
+  "vale",
+  "wend",
+  "wyldmarch"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Seventy-five.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Where the Island Was.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The Last Titan stood over the eddy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "He saw it from four hundred feet. Out of the smoke. Up. Its wings open, wide as the eddy, wider. Its chains gone. Lying on the water round its feet in black loops, dark, every link of them dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "And in its back, through the plates, the coal.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "White now. Blazing. So bright he could see it from the air without Aurveth’s eyes.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "The knight was in the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "He saw that too. In the lion’s jaws. Held up by her coat. The lion’s head low in the grey water, holding her out of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "Alive.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "He let himself think that, once.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "Then the Last Titan put its feet down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "Into the eddy. Its forefeet. Into the middle. Where the island had been. Where it had been chained for three hundred years under a hill and a school and a noon oath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "narration",
+   "text": "Down. Into the water. Onto the bed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p12",
+   "type": "narration",
+   "text": "And tore.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 15,
+   "para": "p13",
+   "type": "narration",
+   "text": "He saw the bed open.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 16,
+   "para": "p14",
+   "type": "narration",
+   "text": "He’d seen it once before. At the end of the first winter, on the shore at sunrise, with the knight beside him, the night the island went. The Wend’s bed opening under the island and taking it down, and the water closing over, and the thing going up out of it into the sky.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p15",
+   "type": "narration",
+   "text": "It opened again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p16",
+   "type": "narration",
+   "text": "Under the eddy. Where the Titan’s forefeet had gone in. A split in the river’s bed, black, and the grey water going down into it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p17",
+   "type": "narration",
+   "text": "And this time the water didn’t close over.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 20,
+   "para": "p18",
+   "type": "narration",
+   "text": "It poured in.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 21,
+   "para": "p19",
+   "type": "narration",
+   "text": "The whole river. He watched it go. The eddy first, the quarter-league of grey water draining down into the hole in its middle as water drains out of a basin when you pull the bung. Turning. Faster. Down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p20",
+   "type": "narration",
+   "text": "And then the Wend.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p21",
+   "type": "narration",
+   "text": "From above. From the north, the channel, the black ice cracking and going in. From below. From the shallows, the river running backwards, up, uphill, toward the hole, and in. The whole Wend turning toward the middle of the Vale and going down into the ground.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p22",
+   "type": "narration",
+   "text": "The noise of it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 25,
+   "para": "p23",
+   "type": "narration",
+   "text": "The Ferry Flat’s edge went in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p24",
+   "type": "narration",
+   "text": "He saw the turf crack along the bank and slide. Into the hole. The jib-posts. The crews’ platform round them. What was left of the Bridle on the Flat: the engines still on their beds, nine of them, the chains still on them, dragged. Sliding. Toward the edge. Over.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p25",
+   "type": "narration",
+   "text": "Into the river going into the ground.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 28,
+   "para": "p26",
+   "type": "bond",
+   "text": "It’s breaking"
+  },
+  {
+   "seq": 29,
+   "para": "p26",
+   "type": "narration",
+   "text": ", said Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p27",
+   "type": "narration",
+   "text": "From high above him. Very quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p28",
+   "type": "thought",
+   "text": "The middle. It’s breaking.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 32,
+   "para": "p29",
+   "type": "narration",
+   "text": "He looked up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 33,
+   "para": "p30",
+   "type": "narration",
+   "text": "Every horizon was lit.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 34,
+   "para": "p31",
+   "type": "narration",
+   "text": "All of them. At once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p32",
+   "type": "narration",
+   "text": "North. Over Isvaren’s snows, beyond the upper Wend. A glow coming up out of the ground. White. As if the sun were rising in the north in the afternoon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p33",
+   "type": "narration",
+   "text": "West. Over dead Hearthmere. Over the Mere. Gold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p34",
+   "type": "narration",
+   "text": "South. Over the Sunward Hills. Over Sarovel. White-gold, flaring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p35",
+   "type": "narration",
+   "text": "East. Over the Wyldmarch, over the Worldsend’s white wall. Green. Green-white.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p36",
+   "type": "narration",
+   "text": "South-east. Over the sea. Blue. Under the water. The whole sea lit from underneath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p37",
+   "type": "narration",
+   "text": "Every horizon.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 41,
+   "para": "p38",
+   "type": "narration",
+   "text": "He remembered the old man.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p39",
+   "type": "narration",
+   "text": "In the barn. In the last hour of a night."
+  },
+  {
+   "seq": 43,
+   "para": "p39",
+   "type": "thought",
+   "text": "Every temple’s waking, everywhere, on the same day. Every surge Vael had, and the Ring, and the Scald, in every kingdom, at the same hour.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p40",
+   "type": "thought",
+   "text": "If the middle breaks, every kingdom’s Deep goes at once.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 45,
+   "para": "p41",
+   "type": "bond",
+   "text": "Look down"
+  },
+  {
+   "seq": 46,
+   "para": "p41",
+   "type": "narration",
+   "text": ", said Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p42",
+   "type": "narration",
+   "text": "He looked down. Through her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 48,
+   "para": "p43",
+   "type": "narration",
+   "text": "The land was full of light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p44",
+   "type": "narration",
+   "text": "Under the fields and the downs and the rivers and the roads. Lines. Lit. White and gold and blue. Like the veins under the skin of a wrist when you hold it up to a candle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p45",
+   "type": "narration",
+   "text": "The tide-lines. The old College’s brown ink. Every kingdom’s. He could see them. All of them. Running across the whole of Winshire under the ground, lit, from every horizon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p46",
+   "type": "narration",
+   "text": "To here.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p47",
+   "type": "narration",
+   "text": "To the hole.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p48",
+   "type": "narration",
+   "text": "And out of it. Pouring out of it. Back along every line. To every kingdom. At once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p49",
+   "type": "narration",
+   "text": "The surge.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 55,
+   "para": "p50",
+   "type": "narration",
+   "text": "He’d seen the Ring’s surge. Once. From far off. He’d seen Vael’s in the old man’s telling, and the Scald’s, and the Sun Stair’s. A temple waking. A city drowned.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p51",
+   "type": "narration",
+   "text": "This was all of them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 57,
+   "para": "p52",
+   "type": "narration",
+   "text": "And they rose.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 58,
+   "para": "p53",
+   "type": "narration",
+   "text": "The Last Titan first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p54",
+   "type": "narration",
+   "text": "Up. Out of the broken eddy. Off its feet. Its wings coming down once, and the air from them hitting him at four hundred feet like a wall, so that Kharrak dropped a hundred feet before he caught it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p55",
+   "type": "narration",
+   "text": "Up. Over the Vale. Over the hole with the river going into it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p56",
+   "type": "narration",
+   "text": "Blazing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p57",
+   "type": "narration",
+   "text": "White. All of it. Not only the coal. The whole of it, through the plates, through the stone and leather, white, as the coal had been. The surge in it. Pouring up out of the hole, out of the knot, into the thing that had torn it open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p58",
+   "type": "narration",
+   "text": "It hung over the Vale on its wings and blazed.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 64,
+   "para": "p59",
+   "type": "narration",
+   "text": "The Sun stood on the Saltreach bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p60",
+   "type": "narration",
+   "text": "At the ruined Wyldmarch line. Where Kharrak’s fire had held it all afternoon. The fire was gone; Kharrak had stopped when the bed opened. The Sun stood where the fire had been, and its light had been a half-league of day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p61",
+   "type": "narration",
+   "text": "It was a league now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p62",
+   "type": "narration",
+   "text": "More. The whole Saltreach bank from the river to the scrub, under its light. White.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 68,
+   "para": "p63",
+   "type": "narration",
+   "text": "The Coil came up out of the channel.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p64",
+   "type": "narration",
+   "text": "Into the air. He’d never seen it out of water. It came up out of the cracking ice in the north, long, pale, coiling, and went up. Into the sky. Coiling in the air as it had coiled in the river. Its light the colour of rime. Frost coming off it and falling on the Vale like snow.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 70,
+   "para": "p65",
+   "type": "narration",
+   "text": "And far off, south, at the mouth, the Bell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p66",
+   "type": "narration",
+   "text": "He couldn’t see it. It was a hundred leagues off. Aurveth could. Through her he saw the sea lit from under, blazing blue-white, out beyond the headlands, in a long shape. Rising.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p67",
+   "type": "narration",
+   "text": "And round it, something pale. Holding.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 73,
+   "para": "p68",
+   "type": "narration",
+   "text": "Four.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p69",
+   "type": "narration",
+   "text": "The Last Titan over the hole. The Sun on the Saltreach bank. The Coil in the air over the channel. The Bell’s light at the mouth, in Aurveth’s eyes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p70",
+   "type": "narration",
+   "text": "Standing on the field.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 76,
+   "para": "p71",
+   "type": "narration",
+   "text": "And nothing standing against them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 77,
+   "para": "p72",
+   "type": "narration",
+   "text": "He looked for it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p73",
+   "type": "narration",
+   "text": "He looked for anything. The wards: gone. Both of them. Not a glimmer. The walls: broken in places, the knight’s long grey lines, a gap at the bend, a gap at the river end where the bank had gone into the hole. The batteries: gone into the river. The Bridle: gone into the river. The Lamp: somewhere in the water that was going into the ground, dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p74",
+   "type": "narration",
+   "text": "The line: gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p75",
+   "type": "narration",
+   "text": "The Accord: gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p76",
+   "type": "narration",
+   "text": "Rowan: he didn’t know. He didn’t know yet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p77",
+   "type": "narration",
+   "text": "Nothing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 83,
+   "para": "p78",
+   "type": "narration",
+   "text": "Only people.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p79",
+   "type": "narration",
+   "text": "Running.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 85,
+   "para": "p80",
+   "type": "narration",
+   "text": "Everywhere. Both banks. Out of the camps, out of the smoke, out of the wreck of the line. On the Hearthmere bank, north-west, up the River Road and the camp’s road: a long dark stream of them, going away from the hole, Rowan’s flags still standing on the wall where her signaller had left them: North.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p81",
+   "type": "narration",
+   "text": "And on the Saltreach bank.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 87,
+   "para": "p82",
+   "type": "narration",
+   "text": "The Saltreach bank was a broken army.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p83",
+   "type": "narration",
+   "text": "He saw it from the air. Under the Sun’s league of light. The clans. The Wardens. The sellswords. Kessmoor’s crews, the ones who hadn’t gone to the Bridle, and some who had and had run when it went into the river. Sarovel’s people who’d come over the pontoon before the pontoon went into the hole. Stonehorns. Tuskers. Sabrecats. Wolves. Children.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p84",
+   "type": "narration",
+   "text": "Running.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p85",
+   "type": "narration",
+   "text": "Every way.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 91,
+   "para": "p86",
+   "type": "narration",
+   "text": "North, some of them. East into the scrub, some. South, away from the Coil’s frost, toward the Sun. West.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p87",
+   "type": "narration",
+   "text": "Toward the hole.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p88",
+   "type": "narration",
+   "text": "He saw people running toward the hole. Because it was the river. Because the river had always been the way out, the boats, the ferry, the crossing. Running to the river’s edge and finding the river going into the ground in front of them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p89",
+   "type": "narration",
+   "text": "A herd scattering.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 95,
+   "para": "p90",
+   "type": "narration",
+   "text": "Under Kharrak, the ground roared.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 96,
+   "para": "p91",
+   "type": "narration",
+   "text": "He felt it. Through the red one. Through the fire that had gone into the Saltreach bank’s earth all afternoon. Through his own feet on the plates.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p92",
+   "type": "narration",
+   "text": "The Saltreach bank was alive.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p93",
+   "type": "narration",
+   "text": "It had been humming for days. Since the five came in. Since the knot filled. He’d felt it under Kharrak’s fire and not thought anything of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p94",
+   "type": "narration",
+   "text": "Now it roared. The surge coming up out of the hole and back along the lines and up into the ground. Alive. The most alive ground he’d ever felt. Like standing on a drum.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 100,
+   "para": "p95",
+   "type": "narration",
+   "text": "He thought of the top field.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 101,
+   "para": "p96",
+   "type": "narration",
+   "text": "Above Harrow’s End. His own. Gone to weed. The summer before last. Four hundred great elk coming down off the Scarfell mad, with thirty people in the village behind him and nowhere to go but the river. An old cow at the herd’s head, with antlers like two spread hands and a white blaze. Lisska turning her down to him. His hand on her antler.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p97",
+   "type": "narration",
+   "text": "His father’s word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p98",
+   "type": "narration",
+   "text": "The herd-charm for turning cattle. Every boy in the Marches knew it. It never did anything. You said it because your father said it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p99",
+   "type": "narration",
+   "text": "He’d said it, on the top field, into the old cow, with his hand on her and Lisska’s wind through him and the ground under him alive.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p100",
+   "type": "narration",
+   "text": "And the herd had turned.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 106,
+   "para": "p101",
+   "type": "bond",
+   "text": "Down"
+  },
+  {
+   "seq": 107,
+   "para": "p101",
+   "type": "narration",
+   "text": ", he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p102",
+   "type": "thought",
+   "text": "Where?",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p103",
+   "type": "thought",
+   "text": "The front. North of the river end. Where the road was.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 110,
+   "para": "p104",
+   "type": "narration",
+   "text": "Kharrak went down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p105",
+   "type": "narration",
+   "text": "Through the Sun’s light, which burned. Through the Coil’s frost, falling like snow. Down onto the open ground north of the ruined Wyldmarch line, where Kharrak’s fire had held a road open all afternoon, and the road was a stampede now going every way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p106",
+   "type": "narration",
+   "text": "He came down at its front.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 113,
+   "para": "p107",
+   "type": "narration",
+   "text": "He looked for the lead.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 114,
+   "para": "p108",
+   "type": "narration",
+   "text": "There. He saw her as Kharrak landed. In the middle of the stampede. Standing. Not running. Turning her great head every way. Rumbling; he could feel it through the ground, through Kharrak, a sound too low to hear.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p109",
+   "type": "narration",
+   "text": "Old. Red-brown. Shaggy. Her tusks yellowed, curling back like roots. One broken short.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p110",
+   "type": "narration",
+   "text": "The tusker cow. Quell’s. The oldest. Who’d brought Vael’s last people down the black ice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p111",
+   "type": "narration",
+   "text": "And round her, standing, her herd. And round them, running past them, everything else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p112",
+   "type": "narration",
+   "text": "She didn’t know which way to go.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 119,
+   "para": "p113",
+   "type": "narration",
+   "text": "He got down off Kharrak’s face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p114",
+   "type": "narration",
+   "text": "On the ground. In the stampede. People going past him. Stonehorns. A sabrecat, low, with its ears flat. He walked through it to the cow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p115",
+   "type": "narration",
+   "text": "He put his hand on her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 122,
+   "para": "p116",
+   "type": "narration",
+   "text": "On her foreleg. His right. Bandaged. Raw. On the shaggy red hair of her great leg, like a tree.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p117",
+   "type": "narration",
+   "text": "And he knelt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p118",
+   "type": "narration",
+   "text": "And put the other hand on the ground.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 125,
+   "para": "p119",
+   "type": "narration",
+   "text": "Flat. On the earth. The live earth. Roaring under his palm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p120",
+   "type": "narration",
+   "text": "One hand on the lead. One on the ground.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p121",
+   "type": "narration",
+   "text": "And behind him, the three.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 128,
+   "para": "p122",
+   "type": "narration",
+   "text": "Kharrak over him. Red. His blistered face down by Calder’s shoulder. Lisska on his left, green, landing on the open ground with the stampede parting round her. Aurveth on his right, bronze, coming down out of the high air slowly, her wings wide.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p123",
+   "type": "narration",
+   "text": "Three. Behind him. Through the three scars on his chest.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p124",
+   "type": "narration",
+   "text": "Titans, almost. All three.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 131,
+   "para": "p125",
+   "type": "narration",
+   "text": "He said it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 132,
+   "para": "p126",
+   "type": "narration",
+   "text": "His father’s word. Short. In the old tongue. Loud and sharp, as you say it into a cow coming the wrong way at the low field’s gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p127",
+   "type": "narration",
+   "text": "He didn’t have a voice. He said it anyway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p128",
+   "type": "narration",
+   "text": "Into the cow. Into the ground. With three dragons behind it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 135,
+   "para": "p129",
+   "type": "narration",
+   "text": "It went out of him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p130",
+   "type": "narration",
+   "text": "He felt it go. Through his right hand, into the old cow. Through his left, into the ground. And out. Through the ground. The live, roaring ground of the Saltreach bank. Out from his hand in every direction, as the knight’s stand-word had gone out from hers, as the bank had stopped for a league.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p131",
+   "type": "narration",
+   "text": "Further.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p132",
+   "type": "narration",
+   "text": "Through everything standing on the ground.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 139,
+   "para": "p133",
+   "type": "narration",
+   "text": "The cow turned.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 140,
+   "para": "p134",
+   "type": "narration",
+   "text": "North. Her great head coming round. Away from the hole. Away from the Sun’s light and the Coil’s frost. North. Toward the scrub’s edge and the Drover’s Way beyond it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p135",
+   "type": "narration",
+   "text": "And she went.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 142,
+   "para": "p136",
+   "type": "narration",
+   "text": "And her herd went behind her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p137",
+   "type": "narration",
+   "text": "The tuskers. Eighteen. Behind their oldest cow. As they’d walked the black ice. North.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p138",
+   "type": "narration",
+   "text": "And behind the tuskers, the stonehorns.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p139",
+   "type": "narration",
+   "text": "He felt them turn. Ten thousand. Or what was left. Through the ground. Their great plated heads coming round. North. Behind the tuskers. As stonehorns go behind a lead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p140",
+   "type": "narration",
+   "text": "And behind the stonehorns, the people.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 147,
+   "para": "p141",
+   "type": "narration",
+   "text": "The clans. Who’d followed their stonehorns all their lives. Turning. North. The Wardens, with their lynx. The sabrecats, behind the Wardens. Rhun’s wolves. The sellswords, who’d never followed anything but money. The Kessmoor crews. The children. The old ones on the carts, the carts turning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p142",
+   "type": "narration",
+   "text": "All of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p143",
+   "type": "narration",
+   "text": "North.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 150,
+   "para": "p144",
+   "type": "narration",
+   "text": "A broken army turned north like a herd behind its lead cow.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 151,
+   "para": "p145",
+   "type": "narration",
+   "text": "He knelt on the ground with his hand on it and watched it go past him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p146",
+   "type": "narration",
+   "text": "Thousands. Tens of thousands. Going past him on both sides, north, behind an old tusker cow with a broken tusk, out of the Sun’s light, out of the frost, onto the Drover’s Way and the scrub tracks and the towpath along the river’s old bank, which had no river beside it now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p147",
+   "type": "narration",
+   "text": "North.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 154,
+   "para": "p148",
+   "type": "narration",
+   "text": "He tried to say something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p149",
+   "type": "narration",
+   "text": "He didn’t know what. To Kharrak, maybe. To the cow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p150",
+   "type": "narration",
+   "text": "Nothing came.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p151",
+   "type": "narration",
+   "text": "He opened his mouth and nothing came out of it at all. Not a crack. Not a whisper. He put his hand up to his throat. He tasted blood.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p152",
+   "type": "narration",
+   "text": "His voice was gone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 159,
+   "para": "p153",
+   "type": "narration",
+   "text": "Then the bank went.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 160,
+   "para": "p154",
+   "type": "narration",
+   "text": "Behind him. At the river’s edge. Where the river had been. He felt it before he heard it. The ground he was kneeling on, shifting. Sliding. Toward the hole.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p155",
+   "type": "narration",
+   "text": "The Saltreach bank’s edge. The whole lip of it, from the old river end east. Going in. Into the hole. After the river. Slowly. As wet sand goes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p156",
+   "type": "narration",
+   "text": "With people on it. The last of the stampede. The tail of the herd. Going north, and the ground under them sliding south.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 163,
+   "para": "p157",
+   "type": "narration",
+   "text": "And from the hole, a roar.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 164,
+   "para": "p158",
+   "type": "narration",
+   "text": "Not the Titan’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p159",
+   "type": "narration",
+   "text": "He knew it. He’d heard it once before. On the island, at the first winter’s end, on the shore at sunrise. The lion’s roar. That had gone up over the river and out over the whole Vale like a question.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p160",
+   "type": "thought",
+   "text": "What are you?",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p161",
+   "type": "narration",
+   "text": "It hadn’t been a question since.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 168,
+   "para": "p162",
+   "type": "narration",
+   "text": "It wasn’t a question now.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 169,
+   "para": "p163",
+   "type": "narration",
+   "text": "He heard what it was. Through the ground. Through his hand flat on the sliding earth. The lion’s roar, coming up out of the broken eddy where the lion stood in the draining water with the knight in his jaws.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p164",
+   "type": "narration",
+   "text": "An order.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p165",
+   "type": "narration",
+   "text": "To the stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p166",
+   "type": "thought",
+   "text": "Hold.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 173,
+   "para": "p167",
+   "type": "narration",
+   "text": "The bank stopped.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 174,
+   "para": "p168",
+   "type": "narration",
+   "text": "Under him. Under the last of the herd going north over it. The sliding edge of the Saltreach bank, nailed. Shaking. Holding.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p169",
+   "type": "narration",
+   "text": "The people went over it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p170",
+   "type": "narration",
+   "text": "North.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 177,
+   "para": "p171",
+   "type": "narration",
+   "text": "He knelt there until the last of them had gone past.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p172",
+   "type": "narration",
+   "text": "Then he got up. His knees. His hand off the ground, covered in earth. He looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p173",
+   "type": "narration",
+   "text": "He looked at the four standing on the field behind him. The Last Titan over the hole, blazing white, the river going down into the ground under it. The Sun on the bank, a league of day. The Coil in the air, coiling, snowing frost. And far south, through Aurveth, the sea lit at the mouth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p174",
+   "type": "narration",
+   "text": "They didn’t follow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p175",
+   "type": "narration",
+   "text": "They stood on the field. Blazing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p176",
+   "type": "narration",
+   "text": "They’d won.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 183,
+   "para": "p177",
+   "type": "narration",
+   "text": "He got up on Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p178",
+   "type": "narration",
+   "text": "He couldn’t speak. He put his hand on Kharrak’s neck and pointed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p179",
+   "type": "narration",
+   "text": "North.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p180",
+   "type": "narration",
+   "text": "Kharrak went up. Lisska and Aurveth either side. Over the column. Going north in the dark, as the light on every horizon burned, and the camps burned behind them, and the four stood on the broken Vale.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p181",
+   "type": "narration",
+   "text": "He flew it all night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p182",
+   "type": "narration",
+   "text": "He couldn’t say anything. He didn’t need to. He pointed, and the three followed his hand.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "b28615592881e4f498ae0ee9abc10dea3319a278",
+ "segments_sha1": "1274c5aefa95db9d2f1742d8ebb5d27b7ded21d9"
+}

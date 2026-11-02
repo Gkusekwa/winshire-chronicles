@@ -1,0 +1,1467 @@
+{
+ "chapter": 8,
+ "title": "Wages",
+ "pov": "",
+ "source": "Chapters/Chapter 08 - Wages.md",
+ "names": [
+  "coldrun",
+  "grace",
+  "greyhold",
+  "horned",
+  "isle",
+  "kessmoor",
+  "maren",
+  "mattias",
+  "moss",
+  "plains",
+  "sarovel",
+  "scald",
+  "sebold",
+  "sorrel",
+  "sun",
+  "tobin"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Eight.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Wages.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The olifants hauled rubble for bread like everyone else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "Tobin watched them do it on the fifteenth morning, as he watched them every morning, sitting on the fish-market wall with his elbows on his knees. Three of them. The royal olifants. Grey as the low city’s mud bricks and the size of houses, with their tusks sawn short now so they wouldn’t catch on the doorways. In chain traces, hauling sledges of broken white stone down the harbour road out of the burned city, one sledge after another, all morning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "At noon they’d stop at the fish-market, and the tribunes would give them bread.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "A loaf each. The size of a cartwheel. It was all there was, and it wasn’t enough. The whole of Solenne’s low city lived like that now, a day at a time, and the days were running out. Tobin wanted to know where the next bread would come from, and nobody could tell him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "He’d stood in the harbour road and watched them stand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "Last autumn. When the white city burned and the Horned Sun came up out of the bay and the nobles came down the harbour road with their bonded beasts in a panic, and these three had turned across the road and stood side by side with their trunks up. A wall. As Sarovel’s olifants had stood in every war for three hundred years. The crowd had stopped behind them, and the shingle hadn’t gone under, and he’d been on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "Nobody could make them move, after. He’d written that to Maren."
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "thought",
+   "text": "Nobody can make them move. We’ve stopped trying.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p8",
+   "type": "narration",
+   "text": "They moved now. When they were fed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p9",
+   "type": "narration",
+   "text": "He didn’t know whether that was funny. He laughed anyway. Somebody had to.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 13,
+   "para": "p10",
+   "type": "narration",
+   "text": "The low city had held the ruins since the Grace went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p11",
+   "type": "narration",
+   "text": "The mud-brick quarter under the walls of the white city. The unchosen’s quarter, where the grooms lived and the kitchen-women and the hands and everyone else who did the work. It had held when the white city burned and the palace fell into the bay. It had held the winter. The tribunes ran it. Twelve of them, street-heads, elected by shouting in the fish-market, which was how the low city had always settled things.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p12",
+   "type": "narration",
+   "text": "Tobin wasn’t a tribune.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p13",
+   "type": "narration",
+   "text": "He’d never been elected to anything. He shouted in the fish-market, and the tribunes listened, and that was all.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 17,
+   "para": "p14",
+   "type": "narration",
+   "text": "The boy-king was on Sorrel Isle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p15",
+   "type": "narration",
+   "text": "Under the lighthouse. With what was left of the court. Seraphin. Ten now, or nearly. Thin, grave, with a scar on his cheek from the night the grooms carried him out of the palace, who sat at the regency council’s table in the lighthouse keeper’s cottage with his feet not touching the floor and listened to everything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p16",
+   "type": "narration",
+   "text": "The regency council was three people. Two tribunes. And old Sebold, the hands’ master, half-blind, who’d been a hand for sixty years and said"
+  },
+  {
+   "seq": 20,
+   "para": "p16",
+   "type": "bond",
+   "text": "We are the Grace, they are the gratitude"
+  },
+  {
+   "seq": 21,
+   "para": "p16",
+   "type": "narration",
+   "text": "and laughed at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p17",
+   "type": "narration",
+   "text": "And a lady of the court, who wasn’t on the council, and was there every day anyway. Lady Ismay Aurel. She’d come down to the shingle the morning the palace burned, in a ruined white gown, and got in a fishing boat with the low city, and she taught the boy his letters in the lighthouse every afternoon and never once said she’d been anything else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "narration",
+   "text": "Mother Ysa was buried under the light.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 24,
+   "para": "p19",
+   "type": "narration",
+   "text": "There was nothing to eat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p20",
+   "type": "narration",
+   "text": "That was the whole of it. Tobin could have said it in the fish-market in four words and often did. The Grace had gone out of Sarovel when the Horned Sun walked up the Gilt and away. The fountains were dry. The lamps were glass. The vineyards on the hills round the city were grey and the olives were grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p21",
+   "type": "narration",
+   "text": "And it was spring, and nothing was planted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p22",
+   "type": "narration",
+   "text": "The seed had been in the palace granaries. The palace was in the bay. The low city had eaten the fish-market’s salt fish through the winter, and the last of the stage-houses’ stores on the Sun Road, and the sea’s fish, when the boats could go out, which wasn’t often because half the boats had gone on the rocks off Sorrel Isle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p23",
+   "type": "narration",
+   "text": "On the fifteenth day the tribunes counted what was left.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p24",
+   "type": "narration",
+   "text": "A week. Less.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 30,
+   "para": "p25",
+   "type": "narration",
+   "text": "The Kessmoor man came on the twentieth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p26",
+   "type": "narration",
+   "text": "Up the Sun Road from the north. With a cart. With two carts, iron-wheeled, with Kessmoor’s wheel painted on their sides, and a Kessmoor driver on each, and on the first cart a man Tobin knew.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p27",
+   "type": "narration",
+   "text": "Careful. Grey. In a plain dark coat with a ledger under his arm. Writing something in it as the cart came down the last of the road into the low city, without looking up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p28",
+   "type": "narration",
+   "text": "Moss.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p29",
+   "type": "narration",
+   "text": "Inspector Harl Moss. Of the Assembly’s Office of the Cordon. Who’d walked the Iron Road with Maren and the lion and written down every step, and stood on the tower at the Scald with the reader while the Furnace came up out of the glass, and written that down too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p30",
+   "type": "narration",
+   "text": "He got down off the cart and looked at Tobin on the fish-market wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p31",
+   "type": "speech",
+   "text": "“You’re Ashdown’s friend,”"
+  },
+  {
+   "seq": 37,
+   "para": "p31",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 38,
+   "para": "p31",
+   "type": "speech",
+   "text": "“The loud one.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p32",
+   "type": "speech",
+   "text": "“I’m the loud one,”"
+  },
+  {
+   "seq": 40,
+   "para": "p32",
+   "type": "narration",
+   "text": "said Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p33",
+   "type": "speech",
+   "text": "“Good,”"
+  },
+  {
+   "seq": 42,
+   "para": "p33",
+   "type": "narration",
+   "text": "said Moss. He opened his ledger."
+  },
+  {
+   "seq": 43,
+   "para": "p33",
+   "type": "speech",
+   "text": "“I’ve brought bread.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 44,
+   "para": "p34",
+   "type": "narration",
+   "text": "The second cart was bread.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p35",
+   "type": "narration",
+   "text": "Kessmoor bread. Dark, heavy, square loaves in sacks, a whole cart of it, more than the low city had seen since the autumn. The tribunes stood round the cart and looked at it and didn’t touch it. A woman reached out and put her hand on a sack and took it away again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p36",
+   "type": "speech",
+   "text": "“For the tribunes,”"
+  },
+  {
+   "seq": 47,
+   "para": "p36",
+   "type": "narration",
+   "text": "said Moss."
+  },
+  {
+   "seq": 48,
+   "para": "p36",
+   "type": "speech",
+   "text": "“To give out as they like.”"
+  },
+  {
+   "seq": 49,
+   "para": "p36",
+   "type": "narration",
+   "text": "He wrote something."
+  },
+  {
+   "seq": 50,
+   "para": "p36",
+   "type": "speech",
+   "text": "“That’s not the contract. That’s to show the contract’s real.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p37",
+   "type": "speech",
+   "text": "“Contract? What contract?”"
+  },
+  {
+   "seq": 52,
+   "para": "p37",
+   "type": "narration",
+   "text": "said Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p38",
+   "type": "narration",
+   "text": "Moss looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p39",
+   "type": "speech",
+   "text": "“Three thousand hands,”"
+  },
+  {
+   "seq": 55,
+   "para": "p39",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 56,
+   "para": "p39",
+   "type": "speech",
+   "text": "“For the works at Ironhythe.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 57,
+   "para": "p40",
+   "type": "narration",
+   "text": "He read it out in the fish-market.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p41",
+   "type": "narration",
+   "text": "Moss did. To the tribunes and to everyone else, who’d come to look at the bread and stayed. Standing on the fish-market wall where Tobin usually stood, with his ledger open, in his careful flat Kessmoor voice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p42",
+   "type": "narration",
+   "text": "Three thousand. For the works. Wages in Kessmoor coin, iron, paid every seventh day. A loaf a day a head. A roof in the works’ sheds. For a year, or for as long as the work lasted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p43",
+   "type": "speech",
+   "text": "“What work?”",
+   "how": "shouted"
+  },
+  {
+   "seq": 61,
+   "para": "p43",
+   "type": "narration",
+   "text": "somebody shouted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p44",
+   "type": "speech",
+   "text": "“Engines,”"
+  },
+  {
+   "seq": 63,
+   "para": "p44",
+   "type": "narration",
+   "text": "said Moss.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p45",
+   "type": "speech",
+   "text": "“For what?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p46",
+   "type": "narration",
+   "text": "Moss looked up from his ledger.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p47",
+   "type": "speech",
+   "text": "“For whatever comes,”"
+  },
+  {
+   "seq": 67,
+   "para": "p47",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 68,
+   "para": "p47",
+   "type": "speech",
+   "text": "“You’ve seen what came here. There are six of them. They’ve come down onto the Plains, the stages say. There’ll have to be an alliance. Every kingdom. Nobody can stand alone. Your own envoy said so at the river.”"
+  },
+  {
+   "seq": 69,
+   "para": "p47",
+   "type": "narration",
+   "text": "He looked at the ledger."
+  },
+  {
+   "seq": 70,
+   "para": "p47",
+   "type": "speech",
+   "text": "“And an alliance will need engines. And engines need hands.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 71,
+   "para": "p48",
+   "type": "narration",
+   "text": "Old Sebold laughed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p49",
+   "type": "narration",
+   "text": "He’d been brought across from Sorrel Isle in a boat that morning, to hear. He sat on a fish crate by the wall with his blind eyes on nothing and his old brown hands on his stick, and when Moss said",
+   "mood": "humour"
+  },
+  {
+   "seq": 73,
+   "para": "p49",
+   "type": "bond",
+   "text": "hands",
+   "mood": "humour"
+  },
+  {
+   "seq": 74,
+   "para": "p49",
+   "type": "narration",
+   "text": "he laughed until he coughed, and kept laughing.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p50",
+   "type": "speech",
+   "text": "“Hands,”"
+  },
+  {
+   "seq": 76,
+   "para": "p50",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 77,
+   "para": "p50",
+   "type": "speech",
+   "text": "“Oh. Oh, that’s good.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p51",
+   "type": "narration",
+   "text": "Moss looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p52",
+   "type": "speech",
+   "text": "“It’s the word in the contract,”"
+  },
+  {
+   "seq": 80,
+   "para": "p52",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 81,
+   "para": "p52",
+   "type": "speech",
+   "text": "“It’s Kessmoor’s word. For labourers.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p53",
+   "type": "speech",
+   "text": "“I know whose word it is,”"
+  },
+  {
+   "seq": 83,
+   "para": "p53",
+   "type": "narration",
+   "text": "said Sebold. He wiped his eyes."
+  },
+  {
+   "seq": 84,
+   "para": "p53",
+   "type": "speech",
+   "text": "“It’s ours too. Didn’t they tell you?”"
+  },
+  {
+   "seq": 85,
+   "para": "p53",
+   "type": "narration",
+   "text": "He turned his face toward where Moss’s voice was."
+  },
+  {
+   "seq": 86,
+   "para": "p53",
+   "type": "speech",
+   "text": "“In Sarovel, master inspector, a hand is a man who does the work out of sight while a lord takes the credit for it upstairs. I was one for sixty years. We warmed their rooms and healed their hangovers and made their beasts gleam, and they bowed to each other for it.”"
+  },
+  {
+   "seq": 87,
+   "para": "p53",
+   "type": "narration",
+   "text": "He laughed again."
+  },
+  {
+   "seq": 88,
+   "para": "p53",
+   "type": "speech",
+   "text": "“And now you’ve come all the way down the Sun Road to make us hands again.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p54",
+   "type": "narration",
+   "text": "Moss wrote something in his ledger.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p55",
+   "type": "speech",
+   "text": "“I’ve come down the Sun Road with bread,”"
+  },
+  {
+   "seq": 91,
+   "para": "p55",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p56",
+   "type": "speech",
+   "text": "“You have,”"
+  },
+  {
+   "seq": 93,
+   "para": "p56",
+   "type": "narration",
+   "text": "said Sebold."
+  },
+  {
+   "seq": 94,
+   "para": "p56",
+   "type": "speech",
+   "text": "“That’s the joke.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 95,
+   "para": "p57",
+   "type": "narration",
+   "text": "The tribunes argued two days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p58",
+   "type": "narration",
+   "text": "Tobin listened. He didn’t shout, for once. He sat on the wall and listened to them argue it round and round. Hands. The word. What it meant. Three thousand of the low city’s people, walking a hundred and twenty leagues north to a kingdom with no Grace and no bonds and no gods that anybody knew of, to work in iron sheds for iron coins.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p59",
+   "type": "narration",
+   "text": "And on the other side, a week of food. Less.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p60",
+   "type": "narration",
+   "text": "On the second night a tribune called Mattias stood up on a fish crate and said the low city had been hands for three hundred years and been proud of nothing, and he’d not be a hand again for Kessmoor or anybody.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p61",
+   "type": "narration",
+   "text": "And a woman at the back said,"
+  },
+  {
+   "seq": 100,
+   "para": "p61",
+   "type": "speech",
+   "text": "“Will you eat your pride, Mattias? Is there enough of it for the children?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p62",
+   "type": "narration",
+   "text": "Nobody said anything after that.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 102,
+   "para": "p63",
+   "type": "narration",
+   "text": "They looked at Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p64",
+   "type": "narration",
+   "text": "He’d known they would. He sat on the wall and they all turned round and looked at him. The tribunes. The fish-market. Moss, with his ledger.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p65",
+   "type": "speech",
+   "text": "“Well?”"
+  },
+  {
+   "seq": 105,
+   "para": "p65",
+   "type": "narration",
+   "text": "said Mattias."
+  },
+  {
+   "seq": 106,
+   "para": "p65",
+   "type": "speech",
+   "text": "“You’ve been everywhere. You’ve been to Kessmoor. You went with the lion-woman. What’s it like?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p66",
+   "type": "narration",
+   "text": "Tobin thought about it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p67",
+   "type": "narration",
+   "text": "He thought about the Scald. The league of iron, and the canals, and the engines burning hearts, and the cordon men every hundred paces. Pike, who didn’t look up from her drawings. Moss, writing down the Titan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p68",
+   "type": "narration",
+   "text": "Nobody in Kessmoor had asked him who’d chosen him. Nobody had looked at his hands for a ring of rank or at his shoulder for a beast. They’d looked at whether he could carry a bar, and he could.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p69",
+   "type": "speech",
+   "text": "“It’s cold,”"
+  },
+  {
+   "seq": 111,
+   "para": "p69",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 112,
+   "para": "p69",
+   "type": "speech",
+   "text": "“And they write everything down.”"
+  },
+  {
+   "seq": 113,
+   "para": "p69",
+   "type": "narration",
+   "text": "He looked at Moss."
+  },
+  {
+   "seq": 114,
+   "para": "p69",
+   "type": "speech",
+   "text": "“And they pay what they say they’ll pay. On the day they say.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p70",
+   "type": "speech",
+   "text": "“Is that true?”"
+  },
+  {
+   "seq": 116,
+   "para": "p70",
+   "type": "narration",
+   "text": "said Mattias. To Moss.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p71",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 118,
+   "para": "p71",
+   "type": "narration",
+   "text": "said Moss. He didn’t look up."
+  },
+  {
+   "seq": 119,
+   "para": "p71",
+   "type": "speech",
+   "text": "“It’s in the contract.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 120,
+   "para": "p72",
+   "type": "speech",
+   "text": "“I’ll go,”"
+  },
+  {
+   "seq": 121,
+   "para": "p72",
+   "type": "narration",
+   "text": "said Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p73",
+   "type": "narration",
+   "text": "He heard himself say it. Loud. As he said everything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p74",
+   "type": "speech",
+   "text": "“I’ll lead it. Whoever comes. I’ll walk at the front and I’ll shout at the back and I’ll see every one of you fed.”"
+  },
+  {
+   "seq": 124,
+   "para": "p74",
+   "type": "narration",
+   "text": "He stood up on the wall."
+  },
+  {
+   "seq": 125,
+   "para": "p74",
+   "type": "speech",
+   "text": "“I know what the word means. I know what Sebold means. I’m not a fool.”"
+  },
+  {
+   "seq": 126,
+   "para": "p74",
+   "type": "narration",
+   "text": "He looked at the bread cart, empty now."
+  },
+  {
+   "seq": 127,
+   "para": "p74",
+   "type": "speech",
+   "text": "“We’ll be hands. In Kessmoor. For iron money.”"
+  },
+  {
+   "seq": 128,
+   "para": "p74",
+   "type": "narration",
+   "text": "He looked at the fish-market."
+  },
+  {
+   "seq": 129,
+   "para": "p74",
+   "type": "speech",
+   "text": "“Or we’ll be dead here. In Sarovel. Of pride.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p75",
+   "type": "speech",
+   "text": "“I’d rather be a hand,”"
+  },
+  {
+   "seq": 131,
+   "para": "p75",
+   "type": "narration",
+   "text": "said Tobin."
+  },
+  {
+   "seq": 132,
+   "para": "p75",
+   "type": "speech",
+   "text": "“You can stop being a hand. You can’t stop being dead.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 133,
+   "para": "p76",
+   "type": "narration",
+   "text": "Three thousand signed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p77",
+   "type": "narration",
+   "text": "Moss wrote every name. In his ledger, at a table in the fish-market, for three days, one after another. He wrote the names of the ones who could write their own and the names of the ones who couldn’t, and he asked each one their trade and wrote that down too, and their age, and whether they had children with them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p78",
+   "type": "speech",
+   "text": "“Why all of it?”"
+  },
+  {
+   "seq": 136,
+   "para": "p78",
+   "type": "narration",
+   "text": "said Tobin. On the third day. Watching him."
+  },
+  {
+   "seq": 137,
+   "para": "p78",
+   "type": "speech",
+   "text": "“Ages. Children. Why?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p79",
+   "type": "speech",
+   "text": "“Because they’re people,”"
+  },
+  {
+   "seq": 139,
+   "para": "p79",
+   "type": "narration",
+   "text": "said Moss."
+  },
+  {
+   "seq": 140,
+   "para": "p79",
+   "type": "speech",
+   "text": "“Kessmoor writes people down.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p80",
+   "type": "speech",
+   "text": "“In Sarovel they write down who chose you. That’s all.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p81",
+   "type": "narration",
+   "text": "Moss looked up at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p82",
+   "type": "speech",
+   "text": "“I know,”"
+  },
+  {
+   "seq": 144,
+   "para": "p82",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 145,
+   "para": "p82",
+   "type": "speech",
+   "text": "“I’ve seen your court’s books.”"
+  },
+  {
+   "seq": 146,
+   "para": "p82",
+   "type": "narration",
+   "text": "He wrote a name."
+  },
+  {
+   "seq": 147,
+   "para": "p82",
+   "type": "speech",
+   "text": "“We write down what you can do.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 148,
+   "para": "p83",
+   "type": "narration",
+   "text": "Moss asked after her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p84",
+   "type": "narration",
+   "text": "On the last night. At the fish-market’s fire. He’d finished his ledger and closed it and sat with it on his knees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Ashdown,”"
+  },
+  {
+   "seq": 151,
+   "para": "p85",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 152,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Have you heard?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p86",
+   "type": "speech",
+   "text": "“Nothing,”"
+  },
+  {
+   "seq": 154,
+   "para": "p86",
+   "type": "narration",
+   "text": "said Tobin."
+  },
+  {
+   "seq": 155,
+   "para": "p86",
+   "type": "speech",
+   "text": "“Not since the river. Perrin took my letter north in the winter and never came back. Why? What’ve you heard?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p87",
+   "type": "speech",
+   "text": "“She’s on the Wyldmarch border,”"
+  },
+  {
+   "seq": 157,
+   "para": "p87",
+   "type": "narration",
+   "text": "said Moss."
+  },
+  {
+   "seq": 158,
+   "para": "p87",
+   "type": "speech",
+   "text": "“With the clans. A stage-rider had it on the Sun Road, three days back. The clans are running west off the Plains, and she’s gone east to bring them over, and the crown’s shut its border.”"
+  },
+  {
+   "seq": 159,
+   "para": "p87",
+   "type": "narration",
+   "text": "He looked at the fire."
+  },
+  {
+   "seq": 160,
+   "para": "p87",
+   "type": "speech",
+   "text": "“The crown’s council may outlaw her.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p88",
+   "type": "narration",
+   "text": "Tobin laughed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p89",
+   "type": "speech",
+   "text": "“Of course it will,”"
+  },
+  {
+   "seq": 163,
+   "para": "p89",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 164,
+   "para": "p90",
+   "type": "narration",
+   "text": "The letter came that night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p91",
+   "type": "narration",
+   "text": "A boy. A stage-keeper’s boy from the Sun Road, from one of the stage-houses north of the hills, who’d come down with the Kessmoor carts. He came to the fire with something in his hand and said a man had left it at his father’s stage in the winter, going south, and nobody had been going south since, and his father had said to bring it when somebody was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p92",
+   "type": "narration",
+   "text": "A paper. Folded small. Dirty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p93",
+   "type": "narration",
+   "text": "Tobin’s name on the outside. In a square hand.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 168,
+   "para": "p94",
+   "type": "narration",
+   "text": "He knew the hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p95",
+   "type": "narration",
+   "text": "He’d seen it on the back of every page the farmer ever sent her. He’d seen it at the Scald, in the margin of Moss’s ledger, where she’d signed for the lion. He’d sat across a stable floor from it in this city while she wrote to the farmer by a candle, with the lion’s head on her knee.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p96",
+   "type": "narration",
+   "text": "He opened it by the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p97",
+   "type": "narration",
+   "text": "Three lines.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p98",
+   "type": "thought",
+   "text": "Tobin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p99",
+   "type": "thought",
+   "text": "I’m going home. The farmer’s coast is next.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p100",
+   "type": "thought",
+   "text": "Keep the watch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p101",
+   "type": "thought",
+   "text": "M.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 176,
+   "para": "p102",
+   "type": "narration",
+   "text": "He read it to the end, and then the outside, his own name.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p103",
+   "type": "narration",
+   "text": "Then he sat by the fire with it on his knee. Months old. Written somewhere on the Sun Road, going north, after the bay and the boy and the burning, when she’d left him on the shingle."
+  },
+  {
+   "seq": 178,
+   "para": "p103",
+   "type": "thought",
+   "text": "Keep the watch."
+  },
+  {
+   "seq": 179,
+   "para": "p103",
+   "type": "narration",
+   "text": "As if there were a watch. As if there were a wall to face, at noon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p104",
+   "type": "narration",
+   "text": "It was the oath. The first line of it. The one they’d all said in the yard at Greyhold, students, every noon, facing the inner wall, without knowing what they were saying.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p105",
+   "type": "narration",
+   "text": "There was no wall now. Moss said Greyhold’s hill had fallen in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p106",
+   "type": "narration",
+   "text": "He folded it again, small, and put it inside his shirt.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 183,
+   "para": "p107",
+   "type": "narration",
+   "text": "They went north on the twenty-fifth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p108",
+   "type": "narration",
+   "text": "Three thousand. Out of the low city and up the Sun Road. With the Kessmoor carts going ahead to the stage-houses to leave bread every three days. With a dozen of the court’s old hands in brown, who’d heard the word and laughed and come anyway. Without Sebold, who was too old, and stood on the shingle with the boy-king’s hand on his arm and watched them go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p109",
+   "type": "narration",
+   "text": "Without the olifants.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p110",
+   "type": "narration",
+   "text": "The regency kept them. For the rubble. For the boy. Tobin went and stood in front of the biggest one before he left, and looked up at it, at its small old eye in its great grey face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p111",
+   "type": "speech",
+   "text": "“Keep the road,”"
+  },
+  {
+   "seq": 188,
+   "para": "p111",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 189,
+   "para": "p111",
+   "type": "speech",
+   "text": "“Nobody can make you move. Don’t let them.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p112",
+   "type": "narration",
+   "text": "The olifant looked at him. It didn’t understand a word. It put its trunk out and felt his face, very gently, as it would have felt a sack for bread.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p113",
+   "type": "narration",
+   "text": "He laughed. Somebody had to.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 192,
+   "para": "p114",
+   "type": "narration",
+   "text": "The Sun Road went north through the hills.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p115",
+   "type": "narration",
+   "text": "Grey. Everything grey. The vineyards and the olives and the white walls of the stage-houses, grey in a grey light. Every stage-house had its lion painted on its gate, still, gold where the keepers had had gold and yellow ochre where they hadn’t. He’d watched those gates go past once before, the other way, with Maren and the lion.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p116",
+   "type": "narration",
+   "text": "The stage-keepers came out and looked at three thousand people going north.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p117",
+   "type": "narration",
+   "text": "Some of them knelt. When they saw the brown of the old hands. Out of habit. Then they got up again and looked embarrassed.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 196,
+   "para": "p118",
+   "type": "narration",
+   "text": "He kept them walking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p119",
+   "type": "narration",
+   "text": "That was all he was good for and he knew it. He walked at the front in the mornings and shouted at the back in the afternoons, and at night at the stage-houses he went from fire to fire and told jokes, bad ones, the same ones, until people groaned and threw things at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p120",
+   "type": "narration",
+   "text": "Six leagues a day. Seven, when the road was good.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p121",
+   "type": "narration",
+   "text": "A woman’s baby came in the Sunward Hills. They stopped a day. An old man died in the pass above Highcrest and they buried him by the road under a cairn. A boy broke his leg and rode a Kessmoor cart for ten days and was insufferable about it.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 200,
+   "para": "p122",
+   "type": "narration",
+   "text": "Moss’s bread was at every third stage-house. Every time. On the day he’d said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 201,
+   "para": "p123",
+   "type": "narration",
+   "text": "On the forty-fifth day they came down out of the hills into the Coldrun’s valley.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p124",
+   "type": "narration",
+   "text": "And he saw it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 203,
+   "para": "p125",
+   "type": "narration",
+   "text": "Smoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p126",
+   "type": "narration",
+   "text": "The whole northern sky. Grey and black and brown, going up in columns into the cold, and under the smoke, chimneys. A hundred of them. More. Tall, square, black, standing up out of a valley on the Coldrun, under the moors, as thick as a wood of dead trees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p127",
+   "type": "narration",
+   "text": "And under the chimneys, sheds. Iron-roofed. Long. Row after row.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p128",
+   "type": "narration",
+   "text": "And in the middle of it all, on a rise, a tower. Square. Stone. With a clock in its face. He could see the clock from here. A league off. White, with black hands. Telling the time to the whole valley.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p129",
+   "type": "narration",
+   "text": "The Hall of Measures, Moss had said. The clock that had never been wrong.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 208,
+   "para": "p130",
+   "type": "narration",
+   "text": "Behind him, three thousand people stopped on the road and looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p131",
+   "type": "narration",
+   "text": "Nobody said anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p132",
+   "type": "narration",
+   "text": "Tobin stood at the front. He put his hand inside his shirt, where the letter was. Three lines."
+  },
+  {
+   "seq": 211,
+   "para": "p132",
+   "type": "thought",
+   "text": "Keep the watch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p133",
+   "type": "narration",
+   "text": "He took his hand out again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p134",
+   "type": "speech",
+   "text": "“Well,”"
+  },
+  {
+   "seq": 214,
+   "para": "p134",
+   "type": "narration",
+   "text": "he said. Loud. Loud enough for the back."
+  },
+  {
+   "seq": 215,
+   "para": "p134",
+   "type": "speech",
+   "text": "“Hands. Come on. They’ll want to write us down.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p135",
+   "type": "narration",
+   "text": "They came on.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "40ee20b2f34e5f8137a2caf0f601c3d02dd85cd8",
+ "segments_sha1": "1b007b8aec1b5d20fd0b7e0a5a831a86fa0f2891"
+}

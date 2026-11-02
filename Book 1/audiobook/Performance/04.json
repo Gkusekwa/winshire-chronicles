@@ -2,6 +2,25 @@
  "chapter": 4,
  "title": "The Chain",
  "pov": "Calder",
+ "source": "Chapters/Chapter 04 - The Chain.md",
+ "names": [
+  "bel",
+  "cal",
+  "calder",
+  "greyhold",
+  "harrow",
+  "hollin",
+  "joss",
+  "marches",
+  "pip",
+  "rush",
+  "sorrel",
+  "staithe",
+  "teo",
+  "varr",
+  "varrhold",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1488,5 +1507,8 @@
    "mood": "reflective",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "8298adf94503b184cc5dcf0cdffe8093df52806c",
+ "segments_sha1": "9666ca121f209f86e1d135840f9ebab033c32e34"
 }

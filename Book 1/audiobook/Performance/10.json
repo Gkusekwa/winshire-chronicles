@@ -2,6 +2,26 @@
  "chapter": 10,
  "title": "Whispers in the Hold",
  "pov": "Calder",
+ "source": "Chapters/Chapter 10 - Whispers in the Hold.md",
+ "names": [
+  "arn",
+  "bramble",
+  "calder",
+  "coldtarn",
+  "fenn",
+  "harrow",
+  "imra",
+  "lisska",
+  "marches",
+  "ram",
+  "rook",
+  "roosts",
+  "sigrun",
+  "sorrel",
+  "teo",
+  "ulric",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1230,5 +1250,8 @@
    "mood": "dread",
    "pause_after_ms": 800
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "cf3f3bbe8c6a006700134c9313dba22e15ba8f35",
+ "segments_sha1": "69f1d6da1c3d2a629aec17c90548427446636955"
 }

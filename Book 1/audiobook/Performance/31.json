@@ -2,6 +2,27 @@
  "chapter": 31,
  "title": "Tam",
  "pov": "Maren",
+ "source": "Chapters/Chapter 31 - Tam.md",
+ "names": [
+  "fenn",
+  "greyhold",
+  "grieve",
+  "harrow",
+  "hearthmere",
+  "kettle",
+  "liss",
+  "maren",
+  "marl",
+  "millbrook",
+  "odo",
+  "penner",
+  "reede",
+  "saltreach",
+  "staithe",
+  "tam",
+  "thorne",
+  "winshire"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1782,5 +1803,8 @@
    "text": "She picked up the keg, and went home.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "6978c454538846a6e99f1f03bbc12456f01e3847",
+ "segments_sha1": "c8a1a8eda22ae79f8967d0398957298a6cb2028a"
 }

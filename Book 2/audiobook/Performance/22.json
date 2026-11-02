@@ -1,0 +1,1598 @@
+{
+ "chapter": 22,
+ "title": "The Surge",
+ "pov": "",
+ "source": "Chapters/Chapter 22 - The Surge.md",
+ "names": [
+  "dane",
+  "hesper",
+  "idony",
+  "keeper",
+  "magister",
+  "maren",
+  "moot",
+  "pask",
+  "quell",
+  "rowan",
+  "thornwood",
+  "vael",
+  "wyldmarch",
+  "ysse"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Twenty-two.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Surge.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "On the morning of the ninety-ninth day the grey began to go green.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "Idony saw it first because he was the only one awake. He’d sat all night at the lip of the sink with his crate open and the one green glass that hadn’t broken in his hands, watching it, and when the sky went pale he looked up from the glass for the first time in hours and saw the moss.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "On the stone beside him. A broken piece of one of the ring-stones, lying at the lip, half buried. Grey lichen on it, grey moss in the cracks, as it had been for eighty days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "The moss was green.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "Some of it. In one crack, at the bottom, where the stone went into the ground. A thread of green, bright, wet, as if somebody had painted it there in the night. He watched it. He thought he was tired. He thought it was the light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "It spread.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "He watched it spread. Up the crack, slowly, as a stain spreads up a wick: the grey moss going green a hair’s breadth at a time, and then faster, and then the next crack, and the lichen round it, grey to yellow-green, like a lamp being turned up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "He looked round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "All along the lip of the sink, in the grey grass, in the grey ferns, in the grey moss on the fallen stones, there were lines of green. Threads. Patches. Going outward from the sink in every direction. Like frost going off a field when the sun comes over the hedge, from the sunny side first, in lines and patches, so that the field is half white and half green and you can watch the line between them move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "He took the field-glass out of its case, the small one cut for here, and set it on the grey grass.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "narration",
+   "text": "The quicksilver ran up to the top so fast it hit the end of the throat with a click.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 14,
+   "para": "p12",
+   "type": "narration",
+   "text": "He woke Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p13",
+   "type": "narration",
+   "text": "She was asleep against the lion, who was asleep as if he’d been killed, enormous and grey in the grey grass, with his breathing so slow and deep that Idony had counted it twice in the night to be sure. Eleven in. Thirty out. Maren was curled against his shoulder with her coat over her and the blood still dried on her chin and in her collar, and when he said her name she was awake at once, with her hand on her sword.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p14",
+   "type": "speech",
+   "text": "“Look,”"
+  },
+  {
+   "seq": 17,
+   "para": "p14",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p15",
+   "type": "narration",
+   "text": "She looked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p16",
+   "type": "narration",
+   "text": "They watched it together. The green, coming out of the sink, along the lines and patches, across the clearing. Over the flattened grey trees on the edge of the clearing. Up the trunks. By the time the sun was over the trees the needles on the pines nearest the sink were green, dark, ordinary, and the trees beside them were grey, and the line between was moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p17",
+   "type": "speech",
+   "text": "“What is it?”"
+  },
+  {
+   "seq": 21,
+   "para": "p17",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p18",
+   "type": "speech",
+   "text": "“The surge,”"
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "narration",
+   "text": "said Idony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p19",
+   "type": "narration",
+   "text": "He’d never said it aloud. He’d read about it. In the commentaries, the old ones, the ones nobody at the College believed: when a great draw stops all at once, what it was drawing comes back in a flood. Every scholar knew the word. Nobody had seen one. He’d written it in his silk copy in the night, at the bottom of the page under the stir, with a question mark after it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p20",
+   "type": "narration",
+   "text": "He took the question mark out, that morning, kneeling at the lip.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p21",
+   "type": "speech",
+   "text": "“It took something,”"
+  },
+  {
+   "seq": 27,
+   "para": "p21",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 28,
+   "para": "p21",
+   "type": "speech",
+   "text": "“Out of the ground. Out of the temple. Whatever was keeping the Deep down here. And now there’s nothing keeping it down, and it’s coming up.”"
+  },
+  {
+   "seq": 29,
+   "para": "p21",
+   "type": "narration",
+   "text": "He looked at the glass on the grass, brim-full."
+  },
+  {
+   "seq": 30,
+   "para": "p21",
+   "type": "speech",
+   "text": "“All of it. At once.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 31,
+   "para": "p22",
+   "type": "narration",
+   "text": "By noon a quarter of the league was green.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p23",
+   "type": "narration",
+   "text": "He walked it with his knotted cord, out of habit, because he didn’t know what else to do. The line between green and grey was ragged now, not a circle: it went out in long fingers along the becks and the low ground, and in patches on the high ground, and the grey between the fingers was shrinking. He blazed a tree on the line at noon. By the middle of the afternoon the tree was two hundred paces inside the green.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p24",
+   "type": "narration",
+   "text": "Nothing rotted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p25",
+   "type": "narration",
+   "text": "That was the strange thing, for the first half of the day. Everything came back. The moss, the ferns, the needles, the grass. But the dead things that had lain on the grey ground for weeks, the small birds, a fox he found under a fern, lay there in the green exactly as they’d lain in the grey. Perfect. Untouched.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p26",
+   "type": "narration",
+   "text": "Then, in the evening, they rotted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p27",
+   "type": "narration",
+   "text": "All at once. He was sitting by the sink with his ledger, and he smelled it, and looked up, and then he understood, and put his hand into his coat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p28",
+   "type": "narration",
+   "text": "The wren in his handkerchief.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p29",
+   "type": "narration",
+   "text": "He’d carried it for thirty-eight days. A perfect grey wren, every feather in place, light as a leaf. He took the handkerchief out and unfolded it, and the wren in it was a wren that had been dead for thirty-eight days. All of it at once. Everything that had been waiting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p30",
+   "type": "narration",
+   "text": "He buried it at the lip of the sink, in the green grass, with his quill-knife, and felt foolish, and didn’t stop.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 40,
+   "para": "p31",
+   "type": "narration",
+   "text": "The Wardens’ wards blazed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p32",
+   "type": "narration",
+   "text": "He saw it in the afternoon. The Wardens who were left, five of them who could walk, and Pask, still sick from the beck, sitting by their camp on the rise. Their sleeve-wards, the grey silk bands with the blue-thread runes that had gone dull on the sixty-first day as they crossed into the grey, and stayed dull since.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p33",
+   "type": "narration",
+   "text": "They weren’t dull now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p34",
+   "type": "narration",
+   "text": "The blue thread was burning with light, so bright he could see it from the sink, a band of blue fire round each left arm. Ysolde Marr was looking at hers. As he watched, the grey silk under the thread began to brown, and smoke, and she said something sharp and tore it off her sleeve and threw it on the ground, where it lay blazing in the grass.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p35",
+   "type": "narration",
+   "text": "Two more did the same. The other two left theirs on, and he saw them sitting very still with their right hands clamped over their left arms, and their faces set.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p36",
+   "type": "narration",
+   "text": "The knights’ falcons wouldn’t settle. He could see them from the sink too, over the knights’ camp on the west side, two of them, going up and up off their perch and circling and coming down and going up again. The knights’ greyharts stood with their heads up and their ears turned east. The hounds lay flat.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 46,
+   "para": "p37",
+   "type": "narration",
+   "text": "Hesper cut her own knot off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p38",
+   "type": "narration",
+   "text": "She’d tied one out of habit, in the morning, as she did every morning. Three turns, a twist, the word. In the grey for weeks it had come undone in her fingers. He’d watched it come undone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p39",
+   "type": "narration",
+   "text": "This morning it held. And then it pulled.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p40",
+   "type": "narration",
+   "text": "He saw her face change. She was sitting at the foot of the south stone, one of the five the sink hadn’t taken, with the knot in her hand, held loose as she always held it, and it drew tight. And tighter. The cord going round her two fingers, round and round, drawing in, as if something on the other end were winding it up. Into her skin. He saw the skin go white round it, and then red.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p41",
+   "type": "speech",
+   "text": "“Hesper,”"
+  },
+  {
+   "seq": 51,
+   "para": "p41",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p42",
+   "type": "narration",
+   "text": "Hesper didn’t answer. She took the leaf-bladed spear from beside her and laid the edge against the cord between her fingers and cut it. It came away, and the two halves of it lay on the grass twitching, slowly, like worms after rain.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p43",
+   "type": "narration",
+   "text": "She looked at her fingers. Two red rings round them, where the cord had been, already bruising.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p44",
+   "type": "speech",
+   "text": "“Too much,”"
+  },
+  {
+   "seq": 55,
+   "para": "p44",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 56,
+   "para": "p44",
+   "type": "speech",
+   "text": "“It’s too much. It asks and the ground answers and won’t stop answering.”"
+  },
+  {
+   "seq": 57,
+   "para": "p44",
+   "type": "narration",
+   "text": "She looked south, through the trees."
+  },
+  {
+   "seq": 58,
+   "para": "p44",
+   "type": "speech",
+   "text": "“It’s not the ground’s fault. It’s been held down for ninety days and now it’s been let go.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 59,
+   "para": "p45",
+   "type": "narration",
+   "text": "She put moss into Rowan’s leg that evening.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p46",
+   "type": "narration",
+   "text": "Rowan was in the knights’ camp, on a pallet in a tent, with her leg splinted by the knights’ surgeon. Idony went with Maren and Hesper because Maren asked him to. Perhaps, he thought later, because he was the only one there who belonged to nobody.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p47",
+   "type": "narration",
+   "text": "The bone had come through below the knee. The surgeon had pushed it back and splinted it, and it was bad. Idony could see it was bad: the leg swollen, the skin round the wound dark, Rowan grey-faced on the pallet with her jaw set.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p48",
+   "type": "narration",
+   "text": "Hesper knelt by the pallet and looked at it, and at Rowan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p49",
+   "type": "speech",
+   "text": "“May I?”"
+  },
+  {
+   "seq": 64,
+   "para": "p49",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p50",
+   "type": "narration",
+   "text": "Rowan looked at her. At the Keeper, barefoot, with her braid bound in red cord and the red rings on her fingers. Then at Maren. Then back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p51",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 67,
+   "para": "p51",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p52",
+   "type": "narration",
+   "text": "Hesper opened her hide bag and took out a handful of the grey-green moss and wet it in a bowl, and packed it into the wound round the bone, gently, and tied the bandage back over it. She did the same for the gash on Idony’s scalp from the sink, which he’d forgotten about until she pushed him down on a stool and parted his hair and he felt the cold of the moss go in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p53",
+   "type": "speech",
+   "text": "“Leave it,”"
+  },
+  {
+   "seq": 70,
+   "para": "p53",
+   "type": "narration",
+   "text": "she said, to both of them."
+  },
+  {
+   "seq": 71,
+   "para": "p53",
+   "type": "speech",
+   "text": "“Don’t look at it.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 72,
+   "para": "p54",
+   "type": "narration",
+   "text": "In the morning the gash on his head was a pink line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p55",
+   "type": "narration",
+   "text": "He felt for it with his fingers, and there was nothing there but a ridge, like a scar a month old. He sat on the edge of the sink and felt it again and again, and wrote it down, and felt it again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p56",
+   "type": "narration",
+   "text": "Rowan’s leg was knitting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p57",
+   "type": "narration",
+   "text": "He saw it later, when the surgeon came out of the tent shaking his head and Maren went in. The swelling was down. The dark round the wound was gone. The bone, under the moss and the bandage, had begun to join. Like a month’s healing in a night, the surgeon said, to anyone who’d listen, and nobody did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p58",
+   "type": "narration",
+   "text": "Rowan lay on her pallet and looked at the bowl of moss Hesper had left on the floor beside her for a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p59",
+   "type": "narration",
+   "text": "She didn’t say anything about it. Not then, not after. But Idony saw her look at it, and he thought he knew what she was thinking, because he was thinking it too. On the other bank of the world, in her own kingdom, there were children drinking sour water, and the licensed surgeons’ words did nothing, and somewhere a Keeper’s moss that had sat in a bag on the dead grey for a month had closed a gash in a night as soon as the ground came back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p60",
+   "type": "narration",
+   "text": "He wrote it down."
+  },
+  {
+   "seq": 79,
+   "para": "p60",
+   "type": "thought",
+   "text": "Moss: healing in a night, in the surge. The moss is the same moss. The ground is not the same ground.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 80,
+   "para": "p61",
+   "type": "narration",
+   "text": "Pask burned out on the hundredth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p62",
+   "type": "narration",
+   "text": "Idony sat with him through the night, because nobody else would.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p63",
+   "type": "narration",
+   "text": "Dane had ordered it. On the ninety-ninth day, in the afternoon, Dane had stood at the lip of the sink and looked down into the rubble where five of his Wardens lay under the stones, and then at the five standing stones round the edge of the ring that had been left, and at their tops, which were glowing, though Idony could hardly see it: a haze over them, like heat over a road in summer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p64",
+   "type": "speech",
+   "text": "“How much do they hold now?”"
+  },
+  {
+   "seq": 84,
+   "para": "p64",
+   "type": "narration",
+   "text": "Dane had said."
+  },
+  {
+   "seq": 85,
+   "para": "p64",
+   "type": "speech",
+   "text": "“The stones. Now it’s gone.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p65",
+   "type": "speech",
+   "text": "“I don’t know, Magister. My glasses can’t measure stone. Only ground.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p66",
+   "type": "speech",
+   "text": "“Then we’ll measure it another way,”"
+  },
+  {
+   "seq": 88,
+   "para": "p66",
+   "type": "narration",
+   "text": "said Dane. He’d looked round. At the five Wardens who could walk. At Pask, who’d come out of the beck and been sick for a day and was the youngest."
+  },
+  {
+   "seq": 89,
+   "para": "p66",
+   "type": "speech",
+   "text": "“Warden Pask. Go up the east stone. Draw. Tell me what it gives.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p67",
+   "type": "narration",
+   "text": "Pask had looked at him. Then he’d gone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 91,
+   "para": "p68",
+   "type": "narration",
+   "text": "He knelt on the east stone in the afternoon and put his hands flat and drew, and the stone gave.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p69",
+   "type": "narration",
+   "text": "Idony watched from the foot of it. He saw it go into the young man. Saw him go stiff, kneeling, with his hands on the stone, and his head go back. Saw the haze on the stone’s top go into his hands like water into a sponge.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p70",
+   "type": "speech",
+   "text": "“Enough,”",
+   "how": "called"
+  },
+  {
+   "seq": 94,
+   "para": "p70",
+   "type": "narration",
+   "text": "Dane called, after a count of twenty."
+  },
+  {
+   "seq": 95,
+   "para": "p70",
+   "type": "speech",
+   "text": "“Warden. Enough. Let go.”",
+   "how": "called",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p71",
+   "type": "narration",
+   "text": "Pask didn’t let go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p72",
+   "type": "narration",
+   "text": "He couldn’t. Idony understood it before anyone. The young Warden was kneeling on the stone with his hands flat and his face to the sky and his mouth open, and the draw was going through him, up out of the stone and through his hands and his arms and his chest and out of him, as heat, as light, as nothing, into the air, and it wouldn’t stop. The stone was full and the ground under the stone was full and the surge was coming up through the ground into the stone and through the stone into him, and there was nowhere for it to stop.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p73",
+   "type": "speech",
+   "text": "“Let go!”",
+   "how": "shouted"
+  },
+  {
+   "seq": 99,
+   "para": "p73",
+   "type": "narration",
+   "text": "Dane shouted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p74",
+   "type": "narration",
+   "text": "It was Maren who got him off. Climbed the stone, again, the day after she’d taken him off the other one into the beck. Took him by the collar and pulled, and his hands came away from the stone with a sound like tearing cloth, and they fell together off the top, and this time there was no beck under them, only the grass, and Orrun, who’d come round the stone and was there for them to fall on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p75",
+   "type": "narration",
+   "text": "Pask lay on the green grass with his eyes open, shaking.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 102,
+   "para": "p76",
+   "type": "narration",
+   "text": "Idony sat with him all night in the Wardens’ camp.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p77",
+   "type": "narration",
+   "text": "Perhaps it was him because he’d been sitting nearest when they carried Pask in, and nobody told him to move. The young Warden lay on a blanket by the fire and shook. All night. Not shivering; shaking, a fine fast tremor all through him, his hands most, like a dog dreaming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p78",
+   "type": "narration",
+   "text": "He talked, some of the time, to someone called Ell, who Idony guessed was a sister, about a goat that had got into the kitchen. Then about stones. Then nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p79",
+   "type": "narration",
+   "text": "His hair was red. Bright red, as it had been every day since Vael, when Idony looked at him at midnight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p80",
+   "type": "narration",
+   "text": "When Idony looked at him at dawn it was white.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p81",
+   "type": "narration",
+   "text": "All of it. From the roots to the ends. White as old Quell’s, white as a man of eighty, on a face of twenty. And his hands on the blanket, when he lifted them in the grey light and looked at them, were still shaking, and Idony knew without being told that they always would.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p82",
+   "type": "thought",
+   "text": "Burned out."
+  },
+  {
+   "seq": 109,
+   "para": "p82",
+   "type": "narration",
+   "text": "He’d read the word in the commentaries his whole life. It was the first thing they taught you about drawing, before they taught you anything else: the Deep goes through the body and the body pays. Heat leaving the limbs. Then the blood. Then the worst.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p83",
+   "type": "narration",
+   "text": "He’d thought it was a word. He hadn’t thought it was a man of twenty looking at his own white hair in a bowl of water in the morning and not saying anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p84",
+   "type": "narration",
+   "text": "He wrote it down. He made himself."
+  },
+  {
+   "seq": 112,
+   "para": "p84",
+   "type": "thought",
+   "text": "Day 100. Warden Pask, Blue College. Drew from the east stone in the surge for a count of twenty and could not stop. Burned out by dawn: hair white, hands not steady."
+  },
+  {
+   "seq": 113,
+   "para": "p84",
+   "type": "narration",
+   "text": "He looked at the page. Then he wrote, under it, the thing he didn’t want to:"
+  },
+  {
+   "seq": 114,
+   "para": "p84",
+   "type": "thought",
+   "text": "At Magister Dane’s order, to measure.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 115,
+   "para": "p85",
+   "type": "narration",
+   "text": "He rebuilt the glasses on the morning of the hundredth day, before he went down under the stones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p86",
+   "type": "narration",
+   "text": "There wasn’t much to rebuild from. Of the eleven green bottle-glasses that had come with him from Vael, three were whole. One more had a cracked throat that still held its quicksilver if he kept it upright. He set the four of them out on a blanket on the green grass at the lip of the sink, in a line, as he’d set them out in the attic on the morning of the breaking, and on the blanket in the meadow on the twenty-fifth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p87",
+   "type": "narration",
+   "text": "He watched them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p88",
+   "type": "narration",
+   "text": "They climbed. All four. The quicksilver going up their throats steadily, faster than he’d ever seen any glass climb, so that he could watch it move. But not evenly. That was the first thing he saw. The southern glass climbed fastest. The northern slowest. The two between, between.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p89",
+   "type": "narration",
+   "text": "He turned the line. East to west. Watched. Turned it again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p90",
+   "type": "narration",
+   "text": "South.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p91",
+   "type": "narration",
+   "text": "The surge wasn’t centred on the sink. It came up through the sink, where the temple had been opened; that was where it got out. But the breath of it, the great slow flood of the Deep coming up from wherever it had been held down for so long, was coming from somewhere else. Somewhere under the forest. And it was going south.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p92",
+   "type": "narration",
+   "text": "Toward the lake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p93",
+   "type": "narration",
+   "text": "He knew where the lake was. Hesper had told him, the first night, when she’d come into the ring with Maren and he’d asked her, very politely, everything. Lake Ysse. Two days south. Where the clans held their Moot every midsummer, on the north shore, for a month. Hundreds of roundhouses. Thousands of people. Every clan in the Wyldmarch, on the shore, with their beasts, singing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p94",
+   "type": "narration",
+   "text": "They’d be there now. It was the last week of the Moot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p95",
+   "type": "narration",
+   "text": "He did the arithmetic. He did it twice, and then a third time, very slowly, on the back of a page, with his hand not quite steady.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p96",
+   "type": "narration",
+   "text": "Then he wrote it in the silk copy, first, as he’d written"
+  },
+  {
+   "seq": 127,
+   "para": "p96",
+   "type": "written",
+   "text": "the stir"
+  },
+  {
+   "seq": 128,
+   "para": "p96",
+   "type": "narration",
+   "text": ".",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p97",
+   "type": "thought",
+   "text": "The surge rises fastest toward Lake Ysse. Whatever sleeps under the Thornwood is breathing up toward the lake. From the slope: it will rise within seven days. Probably fewer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p98",
+   "type": "narration",
+   "text": "He looked at the four glasses climbing on the blanket.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p99",
+   "type": "narration",
+   "text": "Then he went down under the stones with Maren and the Keeper and the lion, because Maren’s knot was pulling her hand toward the dark, and he wanted to see what was there. He told himself it was for the clans. He knew it was for the clans and for himself, and that he couldn’t have said which was more.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 132,
+   "para": "p100",
+   "type": "thought",
+   "text": "Days 100–101: under the stones. See the other book.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p101",
+   "type": "narration",
+   "text": "That was all he wrote in the ledger for those two days. He’d write the rest in the silk, later, when he could hold a pen.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 134,
+   "para": "p102",
+   "type": "narration",
+   "text": "He told Dane on the night of the hundred-and-first day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p103",
+   "type": "narration",
+   "text": "He found him on the rise, by the Wardens’ fire, with the three binding-lamps that had come through whole. Three out of six. Their crystal panes cracked in places, but whole. Set up on the grass in a row, on their tripods, unlit, like three tall iron men standing guard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p104",
+   "type": "narration",
+   "text": "He told him the number. Within seven days. Under the forest, rising toward the lake. He showed him the glasses.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p105",
+   "type": "narration",
+   "text": "Dane listened without interrupting. He looked at the glasses. Then at the lamps. Then at Idony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p106",
+   "type": "speech",
+   "text": "“Seven days,”"
+  },
+  {
+   "seq": 139,
+   "para": "p106",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p107",
+   "type": "speech",
+   "text": "“Or fewer, Magister.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p108",
+   "type": "speech",
+   "text": "“And it’ll be weak.”"
+  },
+  {
+   "seq": 142,
+   "para": "p108",
+   "type": "narration",
+   "text": "Dane’s voice had changed. It had gone low and quick and certain, like a man doing sums he already knew the answer to."
+  },
+  {
+   "seq": 143,
+   "para": "p108",
+   "type": "speech",
+   "text": "“Waking. Not itself yet. After a thousand years asleep. The surge to draw on, everywhere, the ground full, the stones full.”"
+  },
+  {
+   "seq": 144,
+   "para": "p108",
+   "type": "narration",
+   "text": "He looked at the lamps."
+  },
+  {
+   "seq": 145,
+   "para": "p108",
+   "type": "speech",
+   "text": "“Three lamps. Five Wardens fit. It’s enough. It’d be enough.”"
+  },
+  {
+   "seq": 146,
+   "para": "p108",
+   "type": "narration",
+   "text": "He turned to Idony."
+  },
+  {
+   "seq": 147,
+   "para": "p108",
+   "type": "speech",
+   "text": "“Do you understand what this is, Reader Vael? It’s the chance of a lifetime. Of a hundred lifetimes. To bind a sleeper as it wakes, before it knows itself.”"
+  },
+  {
+   "seq": 148,
+   "para": "p108",
+   "type": "narration",
+   "text": "He put his hand on the nearest lamp."
+  },
+  {
+   "seq": 149,
+   "para": "p108",
+   "type": "speech",
+   "text": "“This is what they were made for.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p109",
+   "type": "narration",
+   "text": "Idony looked at the lamp.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p110",
+   "type": "narration",
+   "text": "He’d read its runes on the first day. On the College hill, in the Hall of Rings, before they’d even left Vael. Be mine. The old forbidden script, cut into crystal by a Fifth-ring hand, very fine, very old. He’d read them and walked away and not looked again. He’d thought they’d been made for the thing that flew. He’d thought the College had made them in a hurry, in the twenty days after the breaking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p111",
+   "type": "narration",
+   "text": "He looked at them now, in the firelight, and saw that the crystal was old. That the cuts in it had weathered. That there was dust in the deepest of the strokes that no twenty days could have put there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p112",
+   "type": "speech",
+   "text": "“How long have we had them, Magister?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p113",
+   "type": "narration",
+   "text": "Dane looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p114",
+   "type": "speech",
+   "text": "“The lamps. How long has the College had them?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p115",
+   "type": "speech",
+   "text": "“The College,”"
+  },
+  {
+   "seq": 157,
+   "para": "p115",
+   "type": "narration",
+   "text": "said Dane,"
+  },
+  {
+   "seq": 158,
+   "para": "p115",
+   "type": "speech",
+   "text": "“has been preparing for this for forty years.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p116",
+   "type": "narration",
+   "text": "He said it as if it were a thing to be proud of. And it came to Idony, sitting on the rise in the firelight with the green going on spreading in the dark below, that the College of Tides had told him for eleven years to stop writing about the hole under Hearthmere. And that the Blue College had been cutting binding-lamps for forty. And that somebody, in some room on the College hill that he’d never been asked into, had known a great deal more than he had for a very long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p117",
+   "type": "speech",
+   "text": "“The clans are at the lake,”"
+  },
+  {
+   "seq": 161,
+   "para": "p117",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 162,
+   "para": "p117",
+   "type": "speech",
+   "text": "“Thousands of them. On the shore.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p118",
+   "type": "speech",
+   "text": "“The clans have been told what’s under their forest, by us, and have chosen to sit on it.”"
+  },
+  {
+   "seq": 164,
+   "para": "p118",
+   "type": "narration",
+   "text": "Dane took his hand off the lamp."
+  },
+  {
+   "seq": 165,
+   "para": "p118",
+   "type": "speech",
+   "text": "“That’s their choice. Isvaren will take the opportunity it’s been preparing for.”"
+  },
+  {
+   "seq": 166,
+   "para": "p118",
+   "type": "narration",
+   "text": "He looked at Idony."
+  },
+  {
+   "seq": 167,
+   "para": "p118",
+   "type": "speech",
+   "text": "“With your glasses, Reader Vael. You’ll tell us where. And when.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 168,
+   "para": "p119",
+   "type": "narration",
+   "text": "He left on the morning of the hundred-and-second day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p120",
+   "type": "narration",
+   "text": "He didn’t sleep. He sat by the sink in the dark with the four glasses climbing on their blanket and thought about it, as he had with the green glasses under the sloping roof on the night of the breaking, and in the meadow, and at the foot of the ring-stone. He thought about Pask’s white hair. About the lamps’ old dust. About the clans on the lakeshore, singing, with their beasts, in the last week of their Moot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p121",
+   "type": "narration",
+   "text": "About the sleeper, waking, weak, with three lamps round it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p122",
+   "type": "narration",
+   "text": "About the stir, and the surge, and what would come after. He didn’t know what came after. Nobody did. He wanted to know. He wanted to be there, with his glasses, when it rose, and see it, and write it down. He wanted that very badly, and he was ashamed of how badly, and it didn’t stop him wanting it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p123",
+   "type": "narration",
+   "text": "At dawn he packed the four glasses into the crate in their straw and put the strap over his shoulder and went up the rise to Dane.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p124",
+   "type": "speech",
+   "text": "“I’m going to the lake,”"
+  },
+  {
+   "seq": 174,
+   "para": "p124",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 175,
+   "para": "p124",
+   "type": "speech",
+   "text": "“To tell the clans.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p125",
+   "type": "narration",
+   "text": "Dane was sitting by the fire with a cup. He looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p126",
+   "type": "speech",
+   "text": "“You’re under orders,”"
+  },
+  {
+   "seq": 178,
+   "para": "p126",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 179,
+   "para": "p126",
+   "type": "speech",
+   "text": "“You’re the expedition’s reader. You took the oath.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p127",
+   "type": "speech",
+   "text": "“Yes, Magister.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p128",
+   "type": "speech",
+   "text": "“If you go, it’s a breach. Of your orders and your oath.”"
+  },
+  {
+   "seq": 182,
+   "para": "p128",
+   "type": "narration",
+   "text": "Dane didn’t raise his voice."
+  },
+  {
+   "seq": 183,
+   "para": "p128",
+   "type": "speech",
+   "text": "“You’ll answer for it. To the Council.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p129",
+   "type": "narration",
+   "text": "Idony had never said anything to anyone’s face that they didn’t want to hear. Not to his masters. Not to Quell. Not to the proctors. He’d said things in the margins of ledgers and in oiled silk sewn into the hem of his coat, very small. He’d been a Second-ring reader for eleven years because he didn’t say things to people’s faces.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p130",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 186,
+   "para": "p130",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 187,
+   "para": "p130",
+   "type": "speech",
+   "text": "“I’ll answer for it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p131",
+   "type": "narration",
+   "text": "He turned round and walked down the rise.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p132",
+   "type": "narration",
+   "text": "He didn’t look back. He heard Dane stand up behind him, and stop, and say nothing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 190,
+   "para": "p133",
+   "type": "narration",
+   "text": "He went south with Maren and the lion and the Keeper and the duskcat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p134",
+   "type": "narration",
+   "text": "They’d been going anyway. Hesper had decided in the night; she’d heard him tell Maren the number, at the lip of the sink, and she’d got up and gone to the standing stone on the south side and put her hand on it, and come back and said: we go to the Moot. Now. All of us. And Maren had looked at the lion, who’d slept for a day and a night and woken thin and hungry and grey at the roots of his mane, and the lion had got up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p135",
+   "type": "narration",
+   "text": "Idony walked behind them, with the crate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p136",
+   "type": "narration",
+   "text": "Half to warn the clans. He told himself that. He said it to himself, walking south through the green Thornwood, with the moss bright on every stone and the birds singing again in the pines for the first time in a hundred days."
+  },
+  {
+   "seq": 194,
+   "para": "p136",
+   "type": "thought",
+   "text": "Half to warn them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p137",
+   "type": "narration",
+   "text": "And half to be there. With his glasses. When it rose.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p138",
+   "type": "narration",
+   "text": "He knew both halves were true. He knew which half he’d have chosen if he’d only been allowed one. He walked south behind the lion and didn’t like himself very much, and kept walking.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 197,
+   "para": "p139",
+   "type": "narration",
+   "text": "They came to Lake Ysse at dusk on the hundred-and-third day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p140",
+   "type": "narration",
+   "text": "The forest opened, and there was water. A long grey lake under a green evening sky, going away south between low wooded hills, so long he couldn’t see the far end. Still. Not a ripple on it. The hills reflected in it upside down, perfectly, so that it looked like two skies.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p141",
+   "type": "narration",
+   "text": "And on the north shore, along the water, the Moot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p142",
+   "type": "narration",
+   "text": "He’d never seen so many people in one place, except in Vael on the night of a college feast. Roundhouses, hundreds of them, wattle and thatch, in rows and clusters all along the shore and up the slope behind it. Hide tents between them. Smoke going up from every one. Boats drawn up on the shingle, the round hide boats of the river clans, a hundred of them, upside down like a shore full of turtles. And beasts everywhere. Elk on the slopes, grazing. Bears lying in the doorways of roundhouses. Wolves going between the tents. A duskcat on the ridge of every roof, Hesper said, for the night watch. And on the far end of the shore, against the sky, three Worldsend rocs, sitting on a dead tree like crows.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p143",
+   "type": "narration",
+   "text": "And singing. Somewhere in the Moot, many voices, low, a long slow song that came out over the still water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p144",
+   "type": "narration",
+   "text": "He stood at the edge of the trees with the crate on his shoulder and looked at it all and thought: seven days. Fewer.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 203,
+   "para": "p145",
+   "type": "narration",
+   "text": "Hesper took his warning to the elders.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p146",
+   "type": "narration",
+   "text": "He went with her, because she said he must, because it was his to say. Into the middle of the Moot, through the tents and the smoke and the beasts, people turning to look at the lion, and at the knight, and at the thin lowlander with a box. To a big roundhouse by the water with its door open and a fire inside, where the three elders from the Speaking Stones sat on the floor with others he didn’t know.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p147",
+   "type": "narration",
+   "text": "Elder Aun turned her white eyes on him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p148",
+   "type": "narration",
+   "text": "He told it. Hesper said it after him in the clans’ tongue. The surge. The glasses. The slope of the climb, faster toward the lake. Whatever slept under the forest, rising toward this shore. Seven days. Fewer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p149",
+   "type": "narration",
+   "text": "Aun listened with her head on one side. When he’d finished, she was quiet a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p150",
+   "type": "speech",
+   "text": "“How sure?”"
+  },
+  {
+   "seq": 209,
+   "para": "p150",
+   "type": "narration",
+   "text": "she said. In the common tongue. Her voice dry and thin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p151",
+   "type": "narration",
+   "text": "Idony thought about it. About the four glasses on their blanket. About the arithmetic he’d done three times. About the stir, which he’d read right, and the surge, which he’d read right, and the thing he was reading now, which nobody in the world had ever read.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p152",
+   "type": "speech",
+   "text": "“Sure enough,”"
+  },
+  {
+   "seq": 212,
+   "para": "p152",
+   "type": "narration",
+   "text": "he said,"
+  },
+  {
+   "seq": 213,
+   "para": "p152",
+   "type": "speech",
+   "text": "“to have walked two days.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p153",
+   "type": "narration",
+   "text": "Aun’s white eyes stayed on him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p154",
+   "type": "narration",
+   "text": "Then something happened to her face. He couldn’t have said what. The creases moved. She might have smiled.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p155",
+   "type": "speech",
+   "text": "“The Moot will decide in the morning,”"
+  },
+  {
+   "seq": 217,
+   "para": "p155",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 218,
+   "para": "p155",
+   "type": "speech",
+   "text": "“That’s how we do things. You ask what you know, out loud, and then you sleep on it.”"
+  },
+  {
+   "seq": 219,
+   "para": "p155",
+   "type": "narration",
+   "text": "She folded her hands."
+  },
+  {
+   "seq": 220,
+   "para": "p155",
+   "type": "speech",
+   "text": "“Go and sleep, lowlander. You look as if you need it more than we do.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 221,
+   "para": "p156",
+   "type": "narration",
+   "text": "He didn’t sleep.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 222,
+   "para": "p157",
+   "type": "narration",
+   "text": "He went down to the shore, to the shingle among the upturned boats, and sat on one of them in the dark with the crate open beside him, and set the four glasses out on the stones in their line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p158",
+   "type": "narration",
+   "text": "They climbed. Here, on the shore, faster than at the sink. He watched them climb in the starlight, and the lake lay beside him perfectly still, with the stars in it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p159",
+   "type": "narration",
+   "text": "Then, out of habit, he took the first of them, the green one that had come through the sink whole, and turned it south-west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 225,
+   "para": "p160",
+   "type": "narration",
+   "text": "On midsummer night he’d held it up at the lip of the sink, in the wreck, with the dead in the grass, and seen the three-together stir far off in the south-west going ragged. Pulling apart. One of the three coming away from the others, as if it were coming loose. He’d looked once since, coming up out of the dark under the stones, and they’d still been there, three, together, but thin at one edge, as if the one that had been coming loose were only just holding on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 226,
+   "para": "p161",
+   "type": "narration",
+   "text": "He’d thought about it every night since. He didn’t know what it was. Three things that drew on the Deep together, in the same place, always together, on a high moor a long way south-west, at the edge of his chart. Nothing in the commentaries looked like it. He’d thought, on midsummer night, that whatever it was had broken. He’d thought, under the stones, that it might still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p162",
+   "type": "narration",
+   "text": "He held the glass up and looked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 228,
+   "para": "p163",
+   "type": "narration",
+   "text": "Three. Together. Steady. The ragged edge he’d seen on midsummer night was gone, closed up. The one that had been coming loose had come back. Three draws in one place, close, as they’d been all spring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 229,
+   "para": "p164",
+   "type": "narration",
+   "text": "He let his breath out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 230,
+   "para": "p165",
+   "type": "narration",
+   "text": "He didn’t know why he was relieved. He didn’t know what it was. He sat on the upturned boat in the dark by the still lake, with the clans of the Wyldmarch asleep behind him and something rising under the forest toward them, and found that he was more relieved about three small far-off draws on a moor he’d never seen than he’d been about anything in a hundred days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 231,
+   "para": "p166",
+   "type": "narration",
+   "text": "He wrote it down."
+  },
+  {
+   "seq": 232,
+   "para": "p166",
+   "type": "thought",
+   "text": "Day 103. South-west, the high moor: the three-together stir, steady again. Whole.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 233,
+   "para": "p167",
+   "type": "narration",
+   "text": "Then he sat and watched the four glasses climb until the sky went pale over the lake, and the Moot woke up behind him, and the singing started again.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "5c2ff1fa539cbecfb43f9b7c5dc94d6b567b94b0",
+ "segments_sha1": "523219b6d9b976571310526d2fcad117471b946c"
+}

@@ -1,0 +1,38 @@
+{
+ "chapter": 0,
+ "title": "Opening",
+ "pov": "",
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "The Hunt Beneath.",
+   "pause_after_ms": 900
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Winshire Chronicles, Book Two.",
+   "pause_after_ms": 900
+  },
+  {
+   "seq": 3,
+   "para": "",
+   "type": "title",
+   "text": "Written by Goodluck Kusekwa.",
+   "pause_after_ms": 700
+  },
+  {
+   "seq": 4,
+   "para": "",
+   "type": "title",
+   "text": "Narrated by a digital voice.",
+   "pause_after_ms": 2000
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "5b7ec526e9c9e95b934b5fbf97bab310c2e2eccf",
+ "segments_sha1": "2a0550eff8c8b80ec805ba1b70caed322776b39e"
+}

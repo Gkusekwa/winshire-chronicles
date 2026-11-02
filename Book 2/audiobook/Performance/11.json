@@ -1,0 +1,1738 @@
+{
+ "chapter": 11,
+ "title": "The Scarfell's Edge",
+ "pov": "",
+ "source": "Chapters/Chapter 11 - The Scarfell's Edge.md",
+ "names": [
+  "ada",
+  "arn",
+  "bel",
+  "fellwood",
+  "fenn",
+  "gunna",
+  "hallam",
+  "haverly",
+  "hulda",
+  "marches",
+  "maren",
+  "orrun",
+  "pip",
+  "sarr",
+  "scarfell",
+  "tamsin",
+  "tarne",
+  "varrhold",
+  "wren"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Eleven.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Scarfell’s Edge.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The Fellwood ran out under the moor on the morning of the sixth day, and there was nowhere left to go but up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "Maren had known it would. She’d watched the land rise for two days, the oaks giving out to birch and the birch to rowan and the rowan to heather, and ahead of them the long brown wall of the Scarfell coming up out of the haze, nearer each morning. The charcoal track had got fainter as it climbed. Now it went down a last steep bank through bracken and came out of the trees onto the old drove track, at the foot of its last climb, and stopped there, as if it had done its part.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "The drove track went up the side of the glen in front of them in long slants, pale against the heather, turning back on itself at the corners. Up there at the top, where it went over the edge onto the moor, there was nothing but sky.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "She stood in the road and looked up and down it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "It was empty. No cold fires. No knots of men. The companies hadn’t come this high. The Clan’s country began somewhere up there, and the Clan had dragons.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "speech",
+   "text": "“Up,”"
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": "she said to Ada.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "speech",
+   "text": "“I can see that,”"
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "narration",
+   "text": "said Ada Fenn, and started walking.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 12,
+   "para": "p8",
+   "type": "narration",
+   "text": "Wren got onto Old Grey at the foot of the climb.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p9",
+   "type": "narration",
+   "text": "Nobody helped her. Maren didn’t see her decide to do it. She looked round from the road and Wren was standing on a boulder at the side of the track, a big grey one furred with moss, and Old Grey was standing beside it, quite still, as he stood whenever she stopped. Wren looked at the grey beast’s back for a while. Then she put her hands in his mane and pulled herself up and over, as children get onto a wall, and sat up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p10",
+   "type": "narration",
+   "text": "He didn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p11",
+   "type": "narration",
+   "text": "Maren held her breath. So did Bel, she thought. The old dray-beast had stood behind Wren and beside Wren and over Wren for fifteen days, with his empty eyes on nothing, and nobody had sat on him since the binder’s collar came off him on the knowe. Nobody knew what he’d do. He was taller at the shoulder than Maren was at the top of her head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p12",
+   "type": "narration",
+   "text": "He stood. He stood for a long time, with the child on his back and her hands in his mane and her face very serious.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p13",
+   "type": "narration",
+   "text": "Then he walked on up the track with her, slow, and lifted his feet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p14",
+   "type": "speech",
+   "text": "“Well,”"
+  },
+  {
+   "seq": 19,
+   "para": "p14",
+   "type": "narration",
+   "text": "said Ada, behind Maren. Only that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p15",
+   "type": "narration",
+   "text": "Bel, carrying Nan, made a sound that might have been a laugh, and put her free hand over her mouth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 21,
+   "para": "p16",
+   "type": "narration",
+   "text": "At noon a dragon went over.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p17",
+   "type": "narration",
+   "text": "Maren heard it before she saw it, a crack of wings high up. Then she saw it: small, quick, green, very high, going over the glen from north to south and turning, and coming back over them lower, once, in a wide circle, and going away north again up the line of the track, fast.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "bond",
+   "text": "The little one,"
+  },
+  {
+   "seq": 24,
+   "para": "p18",
+   "type": "narration",
+   "text": "said Orrun."
+  },
+  {
+   "seq": 25,
+   "para": "p18",
+   "type": "thought",
+   "text": "Lisska.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p19",
+   "type": "speech",
+   "text": "“She saw us.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p20",
+   "type": "thought",
+   "text": "She saw the child on the grey."
+  },
+  {
+   "seq": 28,
+   "para": "p20",
+   "type": "narration",
+   "text": "A pause."
+  },
+  {
+   "seq": 29,
+   "para": "p20",
+   "type": "thought",
+   "text": "She is happy. She is very loud when she is happy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p21",
+   "type": "narration",
+   "text": "He’d hardly spoken to her in two days. Since the beck. He spoke now, plainly, as he’d have spoken before, and then went quiet again and walked on up the track at her shoulder a pace further off than he used to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p22",
+   "type": "narration",
+   "text": "She didn’t know what to do about it. She walked.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 32,
+   "para": "p23",
+   "type": "narration",
+   "text": "They came over the edge in the late afternoon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p24",
+   "type": "narration",
+   "text": "The track went up the last slant and round a shoulder of rock and over, and suddenly the climb was behind them and the moor was in front: the whole of the Scarfell lying open under the sky, brown and grey and the green of new bracken, going away north and east in long swells like the sea after a storm, with the high fells standing up white-topped at the back of it. The wind came across it from the north with nothing in the way. It smelled of peat and cold water and sheep.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p25",
+   "type": "narration",
+   "text": "Behind them and below, the land fell away into the Marches. She could see the whole of it from here. The Fellwood, dark, going south. The glen they’d come up. Far off to the west, down in the glen of Hollow Beck, a thread of white that was the falls, and the pale line of the Way going down past them toward the Ram’s Head. And beyond all of it, very far, a pale line in the haze that was the Wend.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p26",
+   "type": "narration",
+   "text": "The other bank was there too. Hearthmere. She couldn’t see it. She knew where it was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p27",
+   "type": "narration",
+   "text": "Under her feet the ground hummed, faintly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p28",
+   "type": "narration",
+   "text": "She’d been feeling it through Orrun since they came up out of the trees: the moor’s ground was alive, more than the Fellwood had been, more than anywhere she’d stood since the island. It came up through his feet into the bond like warmth up through a floor. And under the warmth, faint and steady, the hum. Like a bowl struck once and still ringing. Toward the east. Always toward the east.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p29",
+   "type": "narration",
+   "text": "He was standing with his head turned that way, into the wind, looking at nothing she could see.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p30",
+   "type": "speech",
+   "text": "“Is it there?”"
+  },
+  {
+   "seq": 40,
+   "para": "p30",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p31",
+   "type": "thought",
+   "text": "It is a long way."
+  },
+  {
+   "seq": 42,
+   "para": "p31",
+   "type": "narration",
+   "text": "He didn’t turn his head."
+  },
+  {
+   "seq": 43,
+   "para": "p31",
+   "type": "thought",
+   "text": "It has sat down. It is drinking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p32",
+   "type": "narration",
+   "text": "The hum went on under her feet.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 45,
+   "para": "p33",
+   "type": "narration",
+   "text": "The dragons came down the moor to meet them an hour before sunset.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p34",
+   "type": "narration",
+   "text": "Three. She saw them a long way off, coming low across the heather from the north, one after another: a grey-green, a black-and-grey, and a young brown one bringing up the rear, smaller and faster and not as steady in the air. They came down on the moor a hundred paces off, one, two, three, with the heather flattening round them, and folded their wings, and sat there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p35",
+   "type": "narration",
+   "text": "Sorrel went back on her haunches. Mabbin stood. Old Grey didn’t move at all, with Wren on his back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p36",
+   "type": "narration",
+   "text": "Pip shrieked, and then, when nobody died, shrieked again with joy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p37",
+   "type": "narration",
+   "text": "Orrun had stopped. She felt him go still through the bond: not the stillness before he went past her at the beck. Another kind. Listening.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 50,
+   "para": "p38",
+   "type": "narration",
+   "text": "A woman got down off the grey-green dragon’s shoulder. A small old woman in a grey cloak with a white plait down to her waist, who stood a moment by the dragon’s foreleg looking at them. Then she came across the heather on foot, alone, and stopped ten paces from the lion.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p39",
+   "type": "narration",
+   "text": "She didn’t look at Maren. She looked at Orrun. And then she bowed. Not the knights’ bow, from the waist. An old bow, Maren had never seen it done: one hand flat on her chest and the other down at her side, palm out, open, and her head going down slowly and coming up again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p40",
+   "type": "narration",
+   "text": "Orrun looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p41",
+   "type": "narration",
+   "text": "After a moment he lowered his head, a little. Enough.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p42",
+   "type": "narration",
+   "text": "The old woman straightened. Then, at last, she looked at Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p43",
+   "type": "speech",
+   "text": "“Gunna Tarne,”"
+  },
+  {
+   "seq": 56,
+   "para": "p43",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 57,
+   "para": "p43",
+   "type": "speech",
+   "text": "“Of the ledges. The farmer sent me.”"
+  },
+  {
+   "seq": 58,
+   "para": "p43",
+   "type": "narration",
+   "text": "She looked past Maren at the Fenns, at Ada with her hazel stick and Bel with Nan and Pip on the mare and Wren up on Old Grey’s back. Her face did something complicated and was still again."
+  },
+  {
+   "seq": 59,
+   "para": "p43",
+   "type": "speech",
+   "text": "“I’m to take them off your hands.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 60,
+   "para": "p44",
+   "type": "narration",
+   "text": "The grey-green dragon was talking to Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p45",
+   "type": "narration",
+   "text": "Maren knew it before she heard anything. She’d been bonded long enough to know what it felt like when he was listening to something that wasn’t her. A turning-away inside him. And then she heard his side of it, because what he said went through the bond whether he meant it to or not.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p46",
+   "type": "bond",
+   "text": "Yes,"
+  },
+  {
+   "seq": 63,
+   "para": "p46",
+   "type": "narration",
+   "text": "he said. And then, a long while later:"
+  },
+  {
+   "seq": 64,
+   "para": "p46",
+   "type": "thought",
+   "text": "I do not know. I do not remember it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p47",
+   "type": "narration",
+   "text": "Gunna Tarne had come and stood beside her, with her hands in the sleeves of her cloak against the wind.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p48",
+   "type": "speech",
+   "text": "“Tamsin’s asking him about the steps,”"
+  },
+  {
+   "seq": 67,
+   "para": "p48",
+   "type": "narration",
+   "text": "Gunna said."
+  },
+  {
+   "seq": 68,
+   "para": "p48",
+   "type": "speech",
+   "text": "“There’s an old story on the ledges. About a cat on the steps of a white tower, before the Clan, before the chains. The old one told it to the farmer this winter, and the farmer told it to my Tamsin, and she’s been wanting to ask.”"
+  },
+  {
+   "seq": 69,
+   "para": "p48",
+   "type": "narration",
+   "text": "She looked at the lion."
+  },
+  {
+   "seq": 70,
+   "para": "p48",
+   "type": "speech",
+   "text": "“I told her it’s rude. She says she’s three hundred and twelve and she’ll be rude if she likes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p49",
+   "type": "narration",
+   "text": "Maren looked at the grey-green dragon, sitting in the heather with her head up and her eyes on Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p50",
+   "type": "speech",
+   "text": "“What does she say he is?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p51",
+   "type": "speech",
+   "text": "“The cat on the steps,”"
+  },
+  {
+   "seq": 74,
+   "para": "p51",
+   "type": "narration",
+   "text": "said Gunna.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p52",
+   "type": "narration",
+   "text": "On the moor, the lion and the dragon looked at each other a long time, across a hundred paces of heather, in the last of the sun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p53",
+   "type": "bond",
+   "text": "Yes,"
+  },
+  {
+   "seq": 77,
+   "para": "p53",
+   "type": "narration",
+   "text": "said Orrun at last. Not to Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p54",
+   "type": "narration",
+   "text": "She didn’t ask him what he’d said yes to.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 79,
+   "para": "p55",
+   "type": "narration",
+   "text": "Gunna gave her Calder’s message by the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p56",
+   "type": "narration",
+   "text": "There was only one fire. They made it in the lee of a peat-hag where the edge went down, with the three dragons lying in a half-ring round the camp on the windward side and the greys picketed inside it, and the children so tired after the climb that they ate and slept where they sat. Ada lit it with her word. On the moor it caught at once, the first time it had caught at once since the island. Ada looked at it and said nothing and fed it heather-roots.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p57",
+   "type": "speech",
+   "text": "“He’s sorry he couldn’t come down himself,”"
+  },
+  {
+   "seq": 82,
+   "para": "p57",
+   "type": "narration",
+   "text": "said Gunna Tarne. She said it plainly, as she’d been given it, like a list read out."
+  },
+  {
+   "seq": 83,
+   "para": "p57",
+   "type": "speech",
+   "text": "“The old one’s wing is set. They sang over it, the whole ledge. It’s knitting. He can’t go far from her yet. She pulls.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p58",
+   "type": "speech",
+   "text": "“I know,”"
+  },
+  {
+   "seq": 85,
+   "para": "p58",
+   "type": "narration",
+   "text": "said Maren. She didn’t know. She thought she did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p59",
+   "type": "speech",
+   "text": "“Arn’s made him Clan again. At a price. The three back on the ledges, flying when the Clan flies, and him with them.”"
+  },
+  {
+   "seq": 87,
+   "para": "p59",
+   "type": "narration",
+   "text": "Gunna poked the fire."
+  },
+  {
+   "seq": 88,
+   "para": "p59",
+   "type": "speech",
+   "text": "“He told Arn what he heard under the arch. Arn says a dead man’s words aren’t proof. So.”"
+  },
+  {
+   "seq": 89,
+   "para": "p59",
+   "type": "narration",
+   "text": "She paused."
+  },
+  {
+   "seq": 90,
+   "para": "p59",
+   "type": "speech",
+   "text": "“So he’ll not bring a lion into Arn’s yard while Arn calls him a liar. He asks your pardon for it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p60",
+   "type": "narration",
+   "text": "Maren looked at the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p61",
+   "type": "speech",
+   "text": "“There’s nothing to pardon.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p62",
+   "type": "speech",
+   "text": "“That’s what I said.”"
+  },
+  {
+   "seq": 94,
+   "para": "p62",
+   "type": "narration",
+   "text": "Gunna put the stick down."
+  },
+  {
+   "seq": 95,
+   "para": "p62",
+   "type": "speech",
+   "text": "“That’s my message done. Here’s mine.”"
+  },
+  {
+   "seq": 96,
+   "para": "p62",
+   "type": "narration",
+   "text": "She looked across the fire at Maren with her dry walnut face."
+  },
+  {
+   "seq": 97,
+   "para": "p62",
+   "type": "speech",
+   "text": "“He’d have come. He wanted to. I told him Hallam would have come down himself. Hallam was the old one of the ledges before me. He said Hallam’s dead.”"
+  },
+  {
+   "seq": 98,
+   "para": "p62",
+   "type": "narration",
+   "text": "She was quiet."
+  },
+  {
+   "seq": 99,
+   "para": "p62",
+   "type": "speech",
+   "text": "“He’s right. He’s not wrong often, the farmer, when he says a thing straight out. It’s only nobody listens.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p63",
+   "type": "speech",
+   "text": "“Where will you take them?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p64",
+   "type": "speech",
+   "text": "“Up to the old hatching caves. Above Coldtarn. Two days over the moor.”"
+  },
+  {
+   "seq": 102,
+   "para": "p64",
+   "type": "narration",
+   "text": "Gunna jerked her head north-east, where the moor went up toward the fells."
+  },
+  {
+   "seq": 103,
+   "para": "p64",
+   "type": "speech",
+   "text": "“Nobody hatches there now; it’s been a hundred years. The dragons winter there. The ledges keep them. Arn’s men don’t come up in the spring and Ulric’s never come at all.”"
+  },
+  {
+   "seq": 104,
+   "para": "p64",
+   "type": "narration",
+   "text": "She looked at the sleeping children."
+  },
+  {
+   "seq": 105,
+   "para": "p64",
+   "type": "speech",
+   "text": "“It’s warm in the caves. The rock’s warm. The old one used to say the ground runs closer there than anywhere.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p65",
+   "type": "narration",
+   "text": "Maren thought of the hum under her feet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p66",
+   "type": "speech",
+   "text": "“It does,”"
+  },
+  {
+   "seq": 108,
+   "para": "p66",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 109,
+   "para": "p67",
+   "type": "narration",
+   "text": "She saw the smoke when the sun went down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p68",
+   "type": "narration",
+   "text": "It was north of them, along the edge, where the moor folded down into a glen she couldn’t see into. A thin smoke, many threads of it, going up grey into the last of the light and leaning south on the wind. Hearth-smoke. Roof-holes. A long way off and very small.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p69",
+   "type": "speech",
+   "text": "“Varrhold,”"
+  },
+  {
+   "seq": 112,
+   "para": "p69",
+   "type": "narration",
+   "text": "said Gunna, who’d seen her looking."
+  },
+  {
+   "seq": 113,
+   "para": "p69",
+   "type": "speech",
+   "text": "“Three leagues. Down the glen and round.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p70",
+   "type": "narration",
+   "text": "Maren didn’t say anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p71",
+   "type": "narration",
+   "text": "She stood at the edge of the firelight and looked at the smoke. She thought about three leagues. It was nothing. She’d walked three leagues before breakfast on the river watch every day for eight winters. She thought about a farmer on a ledge with his hand on an old dragon’s jaw."
+  },
+  {
+   "seq": 116,
+   "para": "p71",
+   "type": "thought",
+   "text": "Your road’s that way."
+  },
+  {
+   "seq": 117,
+   "para": "p71",
+   "type": "narration",
+   "text": "He’d nodded north-east, at the landing. Not up the Way. Past it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p72",
+   "type": "narration",
+   "text": "He’d known before she had.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p73",
+   "type": "narration",
+   "text": "She thought about what she’d say if she walked three leagues down a glen in the dark and came to a gate with red-threaded men on it, with a lion."
+  },
+  {
+   "seq": 120,
+   "para": "p73",
+   "type": "thought",
+   "text": "I’ve brought your family."
+  },
+  {
+   "seq": 121,
+   "para": "p73",
+   "type": "narration",
+   "text": "He knew that."
+  },
+  {
+   "seq": 122,
+   "para": "p73",
+   "type": "thought",
+   "text": "You were right about the Titan’s road."
+  },
+  {
+   "seq": 123,
+   "para": "p73",
+   "type": "narration",
+   "text": "He knew that too. There was nothing else. There was a great deal else and none of it was anything you could walk three leagues to say.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p74",
+   "type": "narration",
+   "text": "Behind her, by the fire, Ada was awake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p75",
+   "type": "narration",
+   "text": "Maren felt her watching before she turned. When she turned, Ada was sitting up in her blanket with her back to the peat-hag and her hazel stick across her knees, looking at her, and said nothing. She didn’t need to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p76",
+   "type": "narration",
+   "text": "Maren went and sat down on the far side of the fire, with her back to the smoke.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 127,
+   "para": "p77",
+   "type": "narration",
+   "text": "Orrun lay out on the moor that night, past the dragons, alone, with his head toward the east.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p78",
+   "type": "narration",
+   "text": "She could feel the hum through him all night. She lay awake and felt it. It came and went, slow, like breathing, very far off.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 129,
+   "para": "p79",
+   "type": "narration",
+   "text": "They rested the next day, because Sorrel was lame.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p80",
+   "type": "narration",
+   "text": "A stone in the off fore-hoof, from the last of the climb, that Bel found at first light and dug out with the point of a knife while the young mare stood trembling. Gunna looked at the hoof and said a day, and Maren said a day, and nobody argued. Gunna and the old woman who rode the black-and-grey, whose name was Hulda Sarr and who said nothing all day, sat with their dragons on the heather and smoked short clay pipes. The boy, Leif, who was about nineteen, sat with the children and let Pip climb on his young dragon’s foreleg, which the brown dragon bore with the expression of someone being very good about something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p81",
+   "type": "narration",
+   "text": "Bel came and sat with Maren in the morning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p82",
+   "type": "narration",
+   "text": "She hadn’t done that. In sixteen days Bel Fenn hadn’t said more than twenty words to her, and none of them had been for her. She’d carried Nan and walked and kept her mouth shut, and when the lion went past at the beck she’d turned her face away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p83",
+   "type": "narration",
+   "text": "She sat down beside Maren on the heather with her knees up, as Wren sat. She had her brother’s face, Maren thought. Square and plain and stubborn. She looked out over the Marches.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p84",
+   "type": "speech",
+   "text": "“Thank you,”"
+  },
+  {
+   "seq": 135,
+   "para": "p84",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p85",
+   "type": "narration",
+   "text": "Maren didn’t know what to say to that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p86",
+   "type": "speech",
+   "text": "“For the granary. For the river. For bringing them up.”"
+  },
+  {
+   "seq": 138,
+   "para": "p86",
+   "type": "narration",
+   "text": "Bel’s voice was flat. A list, like Gunna’s, because it had to be said."
+  },
+  {
+   "seq": 139,
+   "para": "p86",
+   "type": "speech",
+   "text": "“I didn’t say it on the way. I couldn’t. I’m saying it now.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p87",
+   "type": "speech",
+   "text": "“You don’t have to.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Yes, I do.”"
+  },
+  {
+   "seq": 142,
+   "para": "p88",
+   "type": "narration",
+   "text": "Bel looked at her hands."
+  },
+  {
+   "seq": 143,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Joss would’ve liked you. My man. He’d have liked you, and he’d have been afraid of the lion, and he’d have gone and stood next to it anyway, to show he wasn’t.”"
+  },
+  {
+   "seq": 144,
+   "para": "p88",
+   "type": "narration",
+   "text": "She stopped."
+  },
+  {
+   "seq": 145,
+   "para": "p88",
+   "type": "speech",
+   "text": "“He went to the camp at the Ewe Beck in the winter to bring the old grey home. That one.”"
+  },
+  {
+   "seq": 146,
+   "para": "p88",
+   "type": "narration",
+   "text": "She nodded at Old Grey, standing by Wren in the heather."
+  },
+  {
+   "seq": 147,
+   "para": "p88",
+   "type": "speech",
+   "text": "“He didn’t come back. They put the collar on the grey instead.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p89",
+   "type": "narration",
+   "text": "Maren looked at Old Grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p90",
+   "type": "speech",
+   "text": "“I know,”"
+  },
+  {
+   "seq": 150,
+   "para": "p90",
+   "type": "narration",
+   "text": "said Bel."
+  },
+  {
+   "seq": 151,
+   "para": "p90",
+   "type": "speech",
+   "text": "“I know it’s not your doing. I know it was the other ones. I’m only saying.”"
+  },
+  {
+   "seq": 152,
+   "para": "p90",
+   "type": "narration",
+   "text": "She got up."
+  },
+  {
+   "seq": 153,
+   "para": "p90",
+   "type": "speech",
+   "text": "“I’m only saying he’d have liked you.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p91",
+   "type": "narration",
+   "text": "She went back to the children.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 155,
+   "para": "p92",
+   "type": "narration",
+   "text": "Ada gave her the word in the afternoon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p93",
+   "type": "narration",
+   "text": "She did it without asking. Maren was sitting by the dead fire, cleaning Haverly’s sword because there was nothing else to do, and Ada came and sat down across the ashes from her and took two dry heather-stems and laid them crosswise.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p94",
+   "type": "speech",
+   "text": "“Watch,”"
+  },
+  {
+   "seq": 158,
+   "para": "p94",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p95",
+   "type": "narration",
+   "text": "She put two fingers to where the stems crossed. She turned her hand, three times, as you’d turn a stiff key, slow, each turn a little further. And she said the word. Maren had heard her say it every night for sixteen nights and never caught it; it went by too quick, under the breath. Now Ada said it slowly. A short word, in the old tongue, with a catch in the middle of it like a breath drawn in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p96",
+   "type": "narration",
+   "text": "The stems smoked. Then, small and yellow, a flame.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p97",
+   "type": "narration",
+   "text": "Ada blew it out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p98",
+   "type": "speech",
+   "text": "“Now you,”"
+  },
+  {
+   "seq": 163,
+   "para": "p98",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p99",
+   "type": "narration",
+   "text": "Maren put the sword down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p100",
+   "type": "speech",
+   "text": "“I can’t do charms.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p101",
+   "type": "speech",
+   "text": "“Nobody can, till they can.”",
+   "mood": "urgent"
+  },
+  {
+   "seq": 167,
+   "para": "p101",
+   "type": "narration",
+   "text": "Ada laid two fresh stems.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 168,
+   "para": "p101",
+   "type": "speech",
+   "text": "“Two fingers. Three turns. Don’t hurry the turns, that’s where the young ones go wrong, they hurry it like they’re stirring porridge. And the word goes on the third turn, not after it.”",
+   "mood": "urgent"
+  },
+  {
+   "seq": 169,
+   "para": "p101",
+   "type": "narration",
+   "text": "She said it again, slow.",
+   "mood": "urgent"
+  },
+  {
+   "seq": 170,
+   "para": "p101",
+   "type": "speech",
+   "text": "“There’s the catch. Hear it?”",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p102",
+   "type": "narration",
+   "text": "Maren put two fingers to the stems. She turned her hand three times. She said the word, and got the catch wrong, and nothing happened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p103",
+   "type": "speech",
+   "text": "“Again,”"
+  },
+  {
+   "seq": 173,
+   "para": "p103",
+   "type": "narration",
+   "text": "said Ada.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p104",
+   "type": "narration",
+   "text": "She did it eleven times. On the twelfth the stems went warm under her fingers. On the fifteenth, they smoked: a thread of smoke, going up from where the stems crossed, and the smell of burning heather.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p105",
+   "type": "narration",
+   "text": "Through the bond, faint, she felt Orrun out on the moor lift his head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p106",
+   "type": "speech",
+   "text": "“There,”"
+  },
+  {
+   "seq": 177,
+   "para": "p106",
+   "type": "narration",
+   "text": "said Ada."
+  },
+  {
+   "seq": 178,
+   "para": "p106",
+   "type": "speech",
+   "text": "“That’s it. That’s all it is.”"
+  },
+  {
+   "seq": 179,
+   "para": "p106",
+   "type": "narration",
+   "text": "She swept the stems into the ashes."
+  },
+  {
+   "seq": 180,
+   "para": "p106",
+   "type": "speech",
+   "text": "“It’ll not take everywhere. It’s not taken anywhere on the far bank since the lamps. But you’re not going to the far bank.”"
+  },
+  {
+   "seq": 181,
+   "para": "p106",
+   "type": "narration",
+   "text": "She looked at Maren, the long level look."
+  },
+  {
+   "seq": 182,
+   "para": "p106",
+   "type": "speech",
+   "text": "“For when you’ve a fire to light and nothing to light it with. Which you will have. Where you’re going.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p107",
+   "type": "speech",
+   "text": "“Why?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p108",
+   "type": "narration",
+   "text": "Ada got up, slowly, leaning on the hazel stick.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p109",
+   "type": "speech",
+   "text": "“Because I’ve nothing else to give you,”"
+  },
+  {
+   "seq": 186,
+   "para": "p109",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 187,
+   "para": "p109",
+   "type": "speech",
+   "text": "“And you brought them up.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 188,
+   "para": "p110",
+   "type": "narration",
+   "text": "Before sunset Maren walked out along the edge by herself.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p111",
+   "type": "narration",
+   "text": "She didn’t go far. A quarter-league, to where the edge stood out over the Fellwood in a little headland of rock and turf. She stood there and looked down into the Marches, going blue in the dusk, and up at the moor, going dark, and north along the edge to where the smoke of Varrhold went up into the sky again, three leagues off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p112",
+   "type": "narration",
+   "text": "At her feet, in the turf, there was a stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p113",
+   "type": "narration",
+   "text": "A small one. Flat, grey, the size of her palm, worn smooth by the weather. With a white ring through it, a line of some other stone running clean round the middle of it like a band round a finger. She didn’t know why she picked it up. She picked it up and turned it over and it was the same on both sides.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p114",
+   "type": "narration",
+   "text": "She put it in her coat.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 193,
+   "para": "p115",
+   "type": "narration",
+   "text": "When she came back to the fire Wren was waiting for her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p116",
+   "type": "narration",
+   "text": "Not asleep. Sitting up in her blanket on the far side of the fire from the others, with her knees up and Old Grey standing behind her in the dark. Waiting as her father waited, Maren thought, though she’d only seen him do it once: very still, as if waiting were a job.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p117",
+   "type": "narration",
+   "text": "Maren sat down beside her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p118",
+   "type": "narration",
+   "text": "She took the stone out of her coat and gave it to her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p119",
+   "type": "narration",
+   "text": "Wren turned it over in her hands. She looked at the white ring through it, all the way round. She looked at Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p120",
+   "type": "speech",
+   "text": "“What’s it for?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p121",
+   "type": "speech",
+   "text": "“I don’t know,”"
+  },
+  {
+   "seq": 200,
+   "para": "p121",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 201,
+   "para": "p121",
+   "type": "speech",
+   "text": "“I found it on the edge.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p122",
+   "type": "narration",
+   "text": "Wren held it a long time. Then she put it inside her shirt, where Maren had seen her keep things. A ribbon, once, on the first night at Liss’s. A blue one. She never spoke of it, and Maren didn’t ask.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p123",
+   "type": "speech",
+   "text": "“Are you coming?”"
+  },
+  {
+   "seq": 204,
+   "para": "p123",
+   "type": "narration",
+   "text": "said Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p124",
+   "type": "narration",
+   "text": "The fire cracked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p125",
+   "type": "speech",
+   "text": "“Tomorrow,”"
+  },
+  {
+   "seq": 207,
+   "para": "p125",
+   "type": "narration",
+   "text": "said Wren."
+  },
+  {
+   "seq": 208,
+   "para": "p125",
+   "type": "speech",
+   "text": "“With Gunna. Up to the caves. Are you coming?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p126",
+   "type": "speech",
+   "text": "“No.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p127",
+   "type": "speech",
+   "text": "“Why not?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p128",
+   "type": "speech",
+   "text": "“My road’s the other way.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p129",
+   "type": "narration",
+   "text": "Wren looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p130",
+   "type": "speech",
+   "text": "“Which way?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p131",
+   "type": "narration",
+   "text": "Maren pointed. East. Out over the dark moor, past the dragons and past the lion lying alone on the heather with his head toward something nobody else could see.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p132",
+   "type": "narration",
+   "text": "Wren looked where she was pointing. She looked for a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p133",
+   "type": "speech",
+   "text": "“That’s where it went,”"
+  },
+  {
+   "seq": 217,
+   "para": "p133",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 218,
+   "para": "p133",
+   "type": "speech",
+   "text": "“The big one. That’s where it went in the morning, over the river. Papa said.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p134",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p135",
+   "type": "narration",
+   "text": "Wren thought about it. Then she turned and looked at Maren with her father’s look. No. Not her father’s. Someone else’s. The long level look that Ada had given Maren across the fire, that the old woman said was Senna’s, that Maren had never seen and would never see.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p136",
+   "type": "speech",
+   "text": "“Say it twice,”"
+  },
+  {
+   "seq": 222,
+   "para": "p136",
+   "type": "narration",
+   "text": "said Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p137",
+   "type": "narration",
+   "text": "Maren didn’t know, for a moment, what she meant.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p138",
+   "type": "narration",
+   "text": "Then she did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 225,
+   "para": "p139",
+   "type": "speech",
+   "text": "“My road’s the other way,”"
+  },
+  {
+   "seq": 226,
+   "para": "p139",
+   "type": "narration",
+   "text": "she said. And again, with the child watching her:"
+  },
+  {
+   "seq": 227,
+   "para": "p139",
+   "type": "speech",
+   "text": "“My road’s the other way.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 228,
+   "para": "p140",
+   "type": "narration",
+   "text": "Wren nodded, as if a thing had been signed. She lay down in her blanket with the stone in her shirt and her back to the fire, and was asleep almost at once, as children are when they’ve finished something.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 229,
+   "para": "p141",
+   "type": "narration",
+   "text": "The ground shook before dawn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 230,
+   "para": "p142",
+   "type": "narration",
+   "text": "Maren was awake. She’d been awake for an hour, lying with her back to the peat-hag and her sword beside her and the stars going round, and she felt it first in her back, against the turf. A long, low shudder, coming from a long way off. From the east. It came up through the moor and through the peat and through her, slow, like a wave going under a boat, and went on west, and was gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 231,
+   "para": "p143",
+   "type": "narration",
+   "text": "Sorrel screamed on her picket. Mabbin stamped. The three dragons lifted their heads all at once out of the dark, three long shapes against the stars, and Tamsin made a sound, low, a sort of question.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 232,
+   "para": "p144",
+   "type": "narration",
+   "text": "Old Grey didn’t move. He stood over Wren in the dark, and Wren slept.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 233,
+   "para": "p145",
+   "type": "narration",
+   "text": "Maren sat up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 234,
+   "para": "p146",
+   "type": "narration",
+   "text": "Out on the moor, Orrun was standing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 235,
+   "para": "p147",
+   "type": "narration",
+   "text": "She felt him through the bond. Stronger than the hum now, a pull, like a hand closing on her wrist. Eastward. It had moved. Or it had done something. Whatever it had done, it had done it far enough off that the shudder had taken a long time to get here and was very faint when it came, and it had done it hard enough that it came at all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 236,
+   "para": "p148",
+   "type": "narration",
+   "text": "He came back across the heather to the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 237,
+   "para": "p149",
+   "type": "narration",
+   "text": "He came round the edge of the firelight, past the sleeping children, past Bel, past Ada, and he stopped by Maren where she sat. He stood there a moment. She didn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 238,
+   "para": "p150",
+   "type": "narration",
+   "text": "Then he lay down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 239,
+   "para": "p151",
+   "type": "narration",
+   "text": "Against her. Not behind her. Not a hand’s width off. Against her, along her side, the great warm weight of him through her coat, as he’d lain every night since the island until the beck. His head came down on his paws by her knee.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 240,
+   "para": "p152",
+   "type": "narration",
+   "text": "They hadn’t made it up. She knew that. He knew it. The beck was still there between them, and the two men on the far bank of it, and"
+  },
+  {
+   "seq": 241,
+   "para": "p152",
+   "type": "thought",
+   "text": "you are not my hand"
+  },
+  {
+   "seq": 242,
+   "para": "p152",
+   "type": "narration",
+   "text": "and"
+  },
+  {
+   "seq": 243,
+   "para": "p152",
+   "type": "thought",
+   "text": "you are not my teeth"
+  },
+  {
+   "seq": 244,
+   "para": "p152",
+   "type": "narration",
+   "text": ", all of it, nothing said or settled. It would still be there in the morning and the morning after.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 245,
+   "para": "p153",
+   "type": "narration",
+   "text": "But he lay against her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 246,
+   "para": "p154",
+   "type": "bond",
+   "text": "We go,"
+  },
+  {
+   "seq": 247,
+   "para": "p154",
+   "type": "narration",
+   "text": "said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 248,
+   "para": "p155",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 249,
+   "para": "p155",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 250,
+   "para": "p156",
+   "type": "narration",
+   "text": "She didn’t wake the children.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 251,
+   "para": "p157",
+   "type": "narration",
+   "text": "She got up in the dark and rolled her blanket and buckled on Haverly’s sword and put the black book inside her coat, and the charcoal stub, and the last of the bread Gunna had brought. She didn’t wake Bel. She didn’t wake Gunna, who was asleep against Tamsin’s flank with her pipe still in her hand, or Hulda Sarr, or the boy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 252,
+   "para": "p158",
+   "type": "narration",
+   "text": "She looked at Wren a long moment, asleep under Old Grey, with the stone in her shirt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 253,
+   "para": "p159",
+   "type": "narration",
+   "text": "Then she went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 254,
+   "para": "p160",
+   "type": "narration",
+   "text": "At the edge of the firelight she looked back once. Ada was awake, sitting up in her blanket against the peat-hag with her hazel stick across her knees, as she’d been the night before. She lifted one hand, and held it up, and put it down again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 255,
+   "para": "p161",
+   "type": "narration",
+   "text": "Maren lifted hers.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 256,
+   "para": "p162",
+   "type": "narration",
+   "text": "Then she turned east, with the lion beside her, and walked out onto the dark moor, toward the place where the ground had shaken. North along the edge the smoke of Varrhold was too far off to see in the dark. She didn’t look for it.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "8652511b95ed4e8652b714ff45ed3b5c43b197b4",
+ "segments_sha1": "3805ee35a158195870408193b97284fc3c21e69f"
+}

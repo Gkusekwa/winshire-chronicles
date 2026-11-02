@@ -1,0 +1,1875 @@
+{
+ "chapter": 47,
+ "title": "Kin",
+ "pov": "",
+ "source": "Chapters/Chapter 47 - Kin.md",
+ "names": [
+  "antlered",
+  "hallin",
+  "keepers",
+  "lamp",
+  "maren",
+  "marshal",
+  "orrun",
+  "rowan",
+  "tam",
+  "thale",
+  "thornwood",
+  "titan",
+  "tova"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Forty-seven.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Kin.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The dogs wouldn’t come to her now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "She noticed it on the two-hundred-and-sixth, walking up from the water-meadow in the morning. Every hound in the camp was a knight’s hound. She’d grown up among them. Hounds came to Maren Ashdown. They always had, in the yard at Greyhold, in the kennels at Millbrook, nosing at her pockets.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "They didn’t now. They saw her coming along the camp road and got up and went the other way. They went at a walk, without a growl, as water goes round a stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "People did the same.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "She’d known they would.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "She’d walked through the camp twice since she came. A road opened in front of her each time. Wide. Wider than a cart. Men stepped off it into the mud with their arms full. A woman pulled a child back by the collar. A greyhart shied on its picket and kicked the man holding it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "Nobody said anything. That was the worst of it. They looked, and stepped back, and looked away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "She knew what they saw.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "A knight in a mended coat with one arm hanging dead inside it. A grey neck. Grey up the jaw, on the left side, like a bruise that had set. A mouth that only moved on one side, and a grey band of hair over her left ear where there’d been a white lock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "And behind her, on the water-meadow, lying with his chin on his paws, a hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "narration",
+   "text": "The Lamp wanted the six held in one place, and somebody would have to hold them. Sooner or later the council would come down the bank and ask the lion.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 14,
+   "para": "p12",
+   "type": "narration",
+   "text": "And the cold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p13",
+   "type": "narration",
+   "text": "She hadn’t known about the cold until the night before. She’d sat on the bank by Orrun’s shoulder in the dark, for an hour, counting, and got up, and in the morning a boy bringing water had stopped at the place and stared.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p14",
+   "type": "narration",
+   "text": "The dew hadn’t lifted there. Everywhere else on the meadow the grass was green and drying. Where she’d sat, it was white. Frost. In a shape. A woman sitting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p15",
+   "type": "narration",
+   "text": "At noon it was still white.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 18,
+   "para": "p16",
+   "type": "narration",
+   "text": "The petition came at the third hour.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p17",
+   "type": "narration",
+   "text": "A crown man brought it. A clerk in Thale’s grey, young, frightened, with four hundred names on a long roll of paper, and he gave it to Rowan in the barn’s doorway while Maren stood in the yard and heard every word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p18",
+   "type": "thought",
+   "text": "That the beast on the water-meadow be moved a league downriver, for the safety of the camp.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p19",
+   "type": "narration",
+   "text": "Rowan read it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p20",
+   "type": "narration",
+   "text": "Then she tore it in half, top to bottom, slowly, and gave the clerk back both halves.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p21",
+   "type": "speech",
+   "text": "“Tell the four hundred,”"
+  },
+  {
+   "seq": 24,
+   "para": "p21",
+   "type": "narration",
+   "text": "said Rowan,"
+  },
+  {
+   "seq": 25,
+   "para": "p21",
+   "type": "speech",
+   "text": "“that the beast on the water-meadow passed a ship along the drowned road on the Shattered Sea from shoulder to shoulder. Tell them he’s the reason there’s a Marshal. Tell them if they want to go a league downriver they can go, and take their own blankets.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p22",
+   "type": "narration",
+   "text": "The clerk went. Holding the halves.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p23",
+   "type": "narration",
+   "text": "Rowan looked across the yard at her. Maren nodded.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p24",
+   "type": "narration",
+   "text": "Neither of them said anything.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 29,
+   "para": "p25",
+   "type": "narration",
+   "text": "She found Tam at the pontoon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p26",
+   "type": "narration",
+   "text": "She hadn’t looked for him. She’d heard. Brede had told her at the shingle fire on the Saltings that her brother was at the camp, shoeing horses by the pontoon. She’d thought about it all up the Coast Road and hadn’t gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p27",
+   "type": "narration",
+   "text": "She didn’t feel enough to know why.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p28",
+   "type": "narration",
+   "text": "She heard a hammer by the pontoon and went to it as if her feet had decided.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 33,
+   "para": "p29",
+   "type": "narration",
+   "text": "A field-forge. A cart with its side let down, a bellows, a bed of coals in an iron tray, a horse tied to the cart’s wheel with its near fore up. And her brother, in a leather apron, with the hoof between his knees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p30",
+   "type": "narration",
+   "text": "He looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p31",
+   "type": "narration",
+   "text": "He didn’t step back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 36,
+   "para": "p32",
+   "type": "speech",
+   "text": "“Mare,”"
+  },
+  {
+   "seq": 37,
+   "para": "p32",
+   "type": "narration",
+   "text": "said Tam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p33",
+   "type": "narration",
+   "text": "He put the hoof down. He wiped his hands on the apron. He came round the horse, and stood in front of her, and looked at her. At the grey neck. At the jaw. At the mouth that only moved on one side, and the dead arm. He looked at all of it, plainly, as he’d look at a cracked shoe.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p34",
+   "type": "speech",
+   "text": "“You look terrible,”"
+  },
+  {
+   "seq": 40,
+   "para": "p34",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p35",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p36",
+   "type": "speech",
+   "text": "“I heard you went to sea.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p37",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p38",
+   "type": "speech",
+   "text": "“You hate boats.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p39",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 46,
+   "para": "p39",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p40",
+   "type": "narration",
+   "text": "He laughed. Then he put his arms round her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 48,
+   "para": "p41",
+   "type": "narration",
+   "text": "She didn’t feel it. Not on the left side. Not much on the right. A pressure. A warmth, far off, as you feel the sun through a coat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p42",
+   "type": "narration",
+   "text": "She stood in it and let it go on.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 50,
+   "para": "p43",
+   "type": "speech",
+   "text": "“You’re cold,”"
+  },
+  {
+   "seq": 51,
+   "para": "p43",
+   "type": "narration",
+   "text": "said Tam. He stepped back. He had her left hand in his. He’d picked it up without asking, out of her coat, the dead one, and was holding it, and looking at it."
+  },
+  {
+   "seq": 52,
+   "para": "p43",
+   "type": "speech",
+   "text": "“You’re cold, Mare. You’re like a stone.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p44",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p45",
+   "type": "speech",
+   "text": "“Does it hurt?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p46",
+   "type": "speech",
+   "text": "“No. Nothing does.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p47",
+   "type": "narration",
+   "text": "He looked at her a long moment. Then he turned, still holding the hand, and put it flat against the iron side of the forge’s tray, where it was warm and not hot, and held it there with his own over it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p48",
+   "type": "speech",
+   "text": "“There,”"
+  },
+  {
+   "seq": 58,
+   "para": "p48",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p49",
+   "type": "narration",
+   "text": "She couldn’t feel the iron. She could see his hand over hers, black at the knuckles, a smith’s hand, holding hers to the warm side of the forge as their father had held theirs when they were small and came in from the snow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p50",
+   "type": "narration",
+   "text": "She stood there with him by the coals.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p51",
+   "type": "narration",
+   "text": "She watched the coals. She let the numbers go.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 62,
+   "para": "p52",
+   "type": "speech",
+   "text": "“I thought you were at Ironhythe,”"
+  },
+  {
+   "seq": 63,
+   "para": "p52",
+   "type": "narration",
+   "text": "she said, after.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p53",
+   "type": "speech",
+   "text": "“I was. I left.”"
+  },
+  {
+   "seq": 65,
+   "para": "p53",
+   "type": "narration",
+   "text": "He let go of her hand at last. It stayed on the iron. He picked up a nail and looked at it."
+  },
+  {
+   "seq": 66,
+   "para": "p53",
+   "type": "speech",
+   "text": "“They wanted a thing I didn’t like the look of.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p54",
+   "type": "speech",
+   "text": "“What?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p55",
+   "type": "speech",
+   "text": "“A thing.”"
+  },
+  {
+   "seq": 69,
+   "para": "p55",
+   "type": "narration",
+   "text": "He put the nail in his apron."
+  },
+  {
+   "seq": 70,
+   "para": "p55",
+   "type": "speech",
+   "text": "“I’d made collars once. I’ll not make anything I can’t see what it’s for. Not twice.”"
+  },
+  {
+   "seq": 71,
+   "para": "p55",
+   "type": "narration",
+   "text": "He bent and picked up the horse’s foot again."
+  },
+  {
+   "seq": 72,
+   "para": "p55",
+   "type": "speech",
+   "text": "“Odo’s still there. Minding the barracks. He likes the canals.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p56",
+   "type": "narration",
+   "text": "She didn’t ask what the thing was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p57",
+   "type": "narration",
+   "text": "She was thinking of a forest that walked.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 75,
+   "para": "p58",
+   "type": "speech",
+   "text": "“Are you frightened of him?”"
+  },
+  {
+   "seq": 76,
+   "para": "p58",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p59",
+   "type": "narration",
+   "text": "Tam looked past her, down the bank, at the grey hill lying on the water-meadow with its chin on its paws and its pale eyes half shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p60",
+   "type": "speech",
+   "text": "“Him? No,”"
+  },
+  {
+   "seq": 79,
+   "para": "p60",
+   "type": "narration",
+   "text": "said Tam."
+  },
+  {
+   "seq": 80,
+   "para": "p60",
+   "type": "speech",
+   "text": "“He’s only big.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 81,
+   "para": "p61",
+   "type": "narration",
+   "text": "The council sat in the open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p62",
+   "type": "narration",
+   "text": "That was her doing. Rowan had sent Davin at noon to say the council would sit in the barn after the sixth hour. Maren had said no. Not where he couldn’t hear.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p63",
+   "type": "narration",
+   "text": "Davin had looked at her. Then at the hill on the water-meadow. Then he’d gone back up the bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p64",
+   "type": "narration",
+   "text": "Rowan came down herself.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p65",
+   "type": "speech",
+   "text": "“He’s to be at it?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p66",
+   "type": "speech",
+   "text": "“He’s what you’re asking for,”"
+  },
+  {
+   "seq": 87,
+   "para": "p66",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 88,
+   "para": "p66",
+   "type": "speech",
+   "text": "“Ask him.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p67",
+   "type": "narration",
+   "text": "Rowan looked at Orrun a long time. Then she turned and shouted for the door.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 90,
+   "para": "p68",
+   "type": "narration",
+   "text": "They carried it out. The barn door on its trestles, into the grass of the water-meadow, thirty paces in front of Orrun’s head. Stools and a bench. An ink-pot. Davin’s case.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p69",
+   "type": "narration",
+   "text": "They came down the bank one at a time and sat. And didn’t look up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p70",
+   "type": "narration",
+   "text": "Thale, in his chain. Pike, with her spectacles. Tova, slow, on her stick. Arn in his red thread, with Ildra on the bank behind him. Mattias. Rennick, for what was left of Saltreach’s Bench. Aud Hallin with her one eye. Yeva in her felt. The old man, carried down in his blanket on a chair by two of Kit’s sailors, with Corrie at his elbow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p71",
+   "type": "narration",
+   "text": "And at the table’s other end, the farmer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p72",
+   "type": "narration",
+   "text": "He’d come down off the western ridge. He sat on the end of the bench with his scarred hands on his knees and his breath short from the walk, and he didn’t look at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p73",
+   "type": "narration",
+   "text": "She didn’t look at him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 96,
+   "para": "p74",
+   "type": "narration",
+   "text": "Orrun opened one eye.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p75",
+   "type": "narration",
+   "text": "The table went still. All of them. Pike’s pen stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p76",
+   "type": "narration",
+   "text": "It was only an eye. It was as big as the barn door they sat at. Pale. Grey as old ice. Thirty paces off, a little above them, looking down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p77",
+   "type": "bond",
+   "text": "They’re frightened"
+  },
+  {
+   "seq": 100,
+   "para": "p77",
+   "type": "narration",
+   "text": ", said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p78",
+   "type": "thought",
+   "text": "Yes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p79",
+   "type": "thought",
+   "text": "Of me.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p80",
+   "type": "thought",
+   "text": "Of both of us.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p81",
+   "type": "bond",
+   "text": "Oh"
+  },
+  {
+   "seq": 105,
+   "para": "p81",
+   "type": "narration",
+   "text": ", said Orrun. As if he hadn’t known that, and was sorry.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 106,
+   "para": "p82",
+   "type": "narration",
+   "text": "Rowan put the question.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p83",
+   "type": "speech",
+   "text": "“The Lamp needs the six together,”"
+  },
+  {
+   "seq": 108,
+   "para": "p83",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 109,
+   "para": "p83",
+   "type": "speech",
+   "text": "“In one place. Held. We’ve ninety thousand people behind a river, and engines, and every kingdom’s beasts, and not one of them has ever stopped a Titan. Not for a day.”"
+  },
+  {
+   "seq": 110,
+   "para": "p83",
+   "type": "narration",
+   "text": "She put her hands flat on the door."
+  },
+  {
+   "seq": 111,
+   "para": "p83",
+   "type": "speech",
+   "text": "“Before we try to hold six, I want to know we can hold one.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p84",
+   "type": "speech",
+   "text": "“Hold?”"
+  },
+  {
+   "seq": 113,
+   "para": "p84",
+   "type": "narration",
+   "text": "said Thale.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Kill,”"
+  },
+  {
+   "seq": 115,
+   "para": "p85",
+   "type": "narration",
+   "text": "said Rowan.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 116,
+   "para": "p86",
+   "type": "narration",
+   "text": "The argument went round the table.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p87",
+   "type": "narration",
+   "text": "Thale wanted to wait. Hold the river. Let the Lamp come and do what it came to do and keep the camp alive till then."
+  },
+  {
+   "seq": 118,
+   "para": "p87",
+   "type": "speech",
+   "text": "“We are not soldiers, Marshal. Most of us. We’re people on a riverbank.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p88",
+   "type": "narration",
+   "text": "Tova put her stick across her knees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p89",
+   "type": "speech",
+   "text": "“The Antlered is eating what’s left of my country,”"
+  },
+  {
+   "seq": 121,
+   "para": "p89",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 122,
+   "para": "p89",
+   "type": "speech",
+   "text": "“It lies in the Thornwood. It’s lain there since it went home. Everything round it dies and gets up and walks. The oaks walk. The thorn. My Keepers came out because there was nothing left to keep.”"
+  },
+  {
+   "seq": 123,
+   "para": "p89",
+   "type": "narration",
+   "text": "She looked at the green-cloaked men on the bank behind her, with their wolves."
+  },
+  {
+   "seq": 124,
+   "para": "p89",
+   "type": "speech",
+   "text": "“If you are asking which, Marshal, I’ll tell you which.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 125,
+   "para": "p90",
+   "type": "narration",
+   "text": "Pike leaned forward.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p91",
+   "type": "speech",
+   "text": "“Kessmoor’s batteries would value the proof,”"
+  },
+  {
+   "seq": 127,
+   "para": "p91",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 128,
+   "para": "p91",
+   "type": "speech",
+   "text": "“Very much. A Titan can be killed or it can’t, and every reckoning we make after depends on which.”"
+  },
+  {
+   "seq": 129,
+   "para": "p91",
+   "type": "narration",
+   "text": "She touched her spectacles."
+  },
+  {
+   "seq": 130,
+   "para": "p91",
+   "type": "speech",
+   "text": "“I could send bolt-throwers. On carts. Twenty. With heartstone bolts.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p92",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 132,
+   "para": "p92",
+   "type": "narration",
+   "text": "said Tova.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p93",
+   "type": "narration",
+   "text": "Pike looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p94",
+   "type": "speech",
+   "text": "“No engines in the Thornwood,”"
+  },
+  {
+   "seq": 135,
+   "para": "p94",
+   "type": "narration",
+   "text": "said Tova."
+  },
+  {
+   "seq": 136,
+   "para": "p94",
+   "type": "speech",
+   "text": "“No heartstone. It was a forest. It’ll be a forest again, if anything’s left. I’ll not have Kessmoor’s carts in it.”"
+  },
+  {
+   "seq": 137,
+   "para": "p94",
+   "type": "narration",
+   "text": "She didn’t raise her voice."
+  },
+  {
+   "seq": 138,
+   "para": "p94",
+   "type": "speech",
+   "text": "“Not now. Not after.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p95",
+   "type": "narration",
+   "text": "Pike smiled."
+  },
+  {
+   "seq": 140,
+   "para": "p95",
+   "type": "speech",
+   "text": "“Of course, Elder.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p96",
+   "type": "speech",
+   "text": "“No engines in the Thornwood,”"
+  },
+  {
+   "seq": 142,
+   "para": "p96",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 143,
+   "para": "p96",
+   "type": "speech",
+   "text": "“Davin. Write it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p97",
+   "type": "narration",
+   "text": "Davin wrote it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 145,
+   "para": "p98",
+   "type": "speech",
+   "text": "“We can burn a forest,”"
+  },
+  {
+   "seq": 146,
+   "para": "p98",
+   "type": "narration",
+   "text": "said Arn."
+  },
+  {
+   "seq": 147,
+   "para": "p98",
+   "type": "speech",
+   "text": "“Dragons can. That’s what fire’s for.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p99",
+   "type": "speech",
+   "text": "“It’s not the forest,”"
+  },
+  {
+   "seq": 149,
+   "para": "p99",
+   "type": "narration",
+   "text": "said Mattias."
+  },
+  {
+   "seq": 150,
+   "para": "p99",
+   "type": "speech",
+   "text": "“It’s what’s in it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p100",
+   "type": "speech",
+   "text": "“The forest’s what’s in it,”"
+  },
+  {
+   "seq": 152,
+   "para": "p100",
+   "type": "narration",
+   "text": "said Tova.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 153,
+   "para": "p101",
+   "type": "narration",
+   "text": "Rowan turned to the old man.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p102",
+   "type": "speech",
+   "text": "“Master Vael. Does the script say what happens? When one of them dies?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p103",
+   "type": "narration",
+   "text": "The old man was quiet. Corrie had the pages on her knee. He didn’t ask for them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p104",
+   "type": "speech",
+   "text": "“It doesn’t say,”"
+  },
+  {
+   "seq": 157,
+   "para": "p104",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 158,
+   "para": "p104",
+   "type": "speech",
+   "text": "“I’ve read it all. Maren copied every line she saw.”"
+  },
+  {
+   "seq": 159,
+   "para": "p104",
+   "type": "narration",
+   "text": "He shook his head."
+  },
+  {
+   "seq": 160,
+   "para": "p104",
+   "type": "speech",
+   "text": "“It says they woke, and drank, and stopped. It says what they were, and what the old realm did. It says nothing about killing. Nothing.”"
+  },
+  {
+   "seq": 161,
+   "para": "p104",
+   "type": "narration",
+   "text": "He looked at the hill."
+  },
+  {
+   "seq": 162,
+   "para": "p104",
+   "type": "speech",
+   "text": "“I don’t think they ever killed one, Marshal. I think the old realm never tried.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p105",
+   "type": "speech",
+   "text": "“Then we’ll be the first,”"
+  },
+  {
+   "seq": 164,
+   "para": "p105",
+   "type": "narration",
+   "text": "said Rowan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p106",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 166,
+   "para": "p106",
+   "type": "narration",
+   "text": "said the old man."
+  },
+  {
+   "seq": 167,
+   "para": "p106",
+   "type": "speech",
+   "text": "“I think so.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p107",
+   "type": "narration",
+   "text": "He didn’t look glad.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 169,
+   "para": "p108",
+   "type": "narration",
+   "text": "The farmer spoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p109",
+   "type": "narration",
+   "text": "From the far end. Cracked. Quiet. Everyone leaned to hear him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p110",
+   "type": "speech",
+   "text": "“We’ve never killed one,”"
+  },
+  {
+   "seq": 172,
+   "para": "p110",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 173,
+   "para": "p110",
+   "type": "speech",
+   "text": "“Any of us. We don’t know what it does.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p111",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 175,
+   "para": "p111",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 176,
+   "para": "p111",
+   "type": "speech",
+   "text": "“We don’t.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p112",
+   "type": "narration",
+   "text": "She looked down the table. At all of them. Then up at the eye.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p113",
+   "type": "speech",
+   "text": "“Ninety thousand people behind a river need to see one fall,”"
+  },
+  {
+   "seq": 179,
+   "para": "p113",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 180,
+   "para": "p113",
+   "type": "speech",
+   "text": "“And we need to know we can. Before we try to hold six. I’ll not take ninety thousand people to the middle of the world on a hope.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 181,
+   "para": "p114",
+   "type": "narration",
+   "text": "They voted with their hands, as the Accord did. Rowan counted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p115",
+   "type": "narration",
+   "text": "Thale’s stayed down. Idony’s stayed in his blanket. The rest went up. The farmer’s last, slowly, scarred palm out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p116",
+   "type": "speech",
+   "text": "“The Antlered,”"
+  },
+  {
+   "seq": 184,
+   "para": "p116",
+   "type": "narration",
+   "text": "said Rowan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p117",
+   "type": "narration",
+   "text": "Then she looked at Maren.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 186,
+   "para": "p118",
+   "type": "speech",
+   "text": "“Knight,”"
+  },
+  {
+   "seq": 187,
+   "para": "p118",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 188,
+   "para": "p118",
+   "type": "speech",
+   "text": "“I can’t ask him. You’ll have to.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 189,
+   "para": "p119",
+   "type": "narration",
+   "text": "She asked him aloud.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p120",
+   "type": "narration",
+   "text": "She hadn’t meant to. She could have done it in silence, as she did everything with him now. But she wanted them to hear her half. All of them. So they’d know it was asked. So they’d know he had a choice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p121",
+   "type": "narration",
+   "text": "She turned on the bench and looked up at the eye.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p122",
+   "type": "speech",
+   "text": "“Orrun,”"
+  },
+  {
+   "seq": 193,
+   "para": "p122",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 194,
+   "para": "p122",
+   "type": "speech",
+   "text": "“They want to kill the one in the Thornwood. The Antlered. They want you to help.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 195,
+   "para": "p123",
+   "type": "narration",
+   "text": "He was quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p124",
+   "type": "narration",
+   "text": "The table didn’t move. Out on the meadow a stonehorn lowed. The Wend went by pale behind them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p125",
+   "type": "bond",
+   "text": "It’s my kin"
+  },
+  {
+   "seq": 198,
+   "para": "p125",
+   "type": "narration",
+   "text": ", said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p126",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p127",
+   "type": "thought",
+   "text": "Like the one in the lake."
+  },
+  {
+   "seq": 201,
+   "para": "p127",
+   "type": "narration",
+   "text": "His voice was very slow. Stone settling."
+  },
+  {
+   "seq": 202,
+   "para": "p127",
+   "type": "thought",
+   "text": "It’s mine. All of them. They’re what I am.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p128",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 204,
+   "para": "p129",
+   "type": "bond",
+   "text": "It isn’t asleep"
+  },
+  {
+   "seq": 205,
+   "para": "p129",
+   "type": "narration",
+   "text": ", said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p130",
+   "type": "narration",
+   "text": "She waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p131",
+   "type": "thought",
+   "text": "I can feel it. From here. Through all the ground."
+  },
+  {
+   "seq": 208,
+   "para": "p131",
+   "type": "narration",
+   "text": "The eye didn’t move."
+  },
+  {
+   "seq": 209,
+   "para": "p131",
+   "type": "thought",
+   "text": "It hurts. All the time. It drank and it can’t stop drinking and everything it drinks hurts. The trees hurt. It made them get up and they hurt."
+  },
+  {
+   "seq": 210,
+   "para": "p131",
+   "type": "narration",
+   "text": "A long breath."
+  },
+  {
+   "seq": 211,
+   "para": "p131",
+   "type": "thought",
+   "text": "It wants to stop. It can’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p132",
+   "type": "narration",
+   "text": "She didn’t say anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p133",
+   "type": "bond",
+   "text": "I’ll hold it"
+  },
+  {
+   "seq": 214,
+   "para": "p133",
+   "type": "narration",
+   "text": ", said Orrun."
+  },
+  {
+   "seq": 215,
+   "para": "p133",
+   "type": "thought",
+   "text": "You do the rest.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 216,
+   "para": "p134",
+   "type": "narration",
+   "text": "She turned back to the table.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p135",
+   "type": "speech",
+   "text": "“He’ll hold it,”"
+  },
+  {
+   "seq": 218,
+   "para": "p135",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p136",
+   "type": "narration",
+   "text": "Her voice came out even. It always did now. She couldn’t have made it shake if she’d tried.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p137",
+   "type": "narration",
+   "text": "Rowan nodded. Pike wrote it in her little book. Tova put her old hands over her face for a moment, and took them away.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 221,
+   "para": "p138",
+   "type": "narration",
+   "text": "She didn’t tell them the rest.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 222,
+   "para": "p139",
+   "type": "narration",
+   "text": "What he said after. When the table had moved on to marches and carts and who would carry what. When nobody was looking up at the eye any more.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p140",
+   "type": "thought",
+   "text": "Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p141",
+   "type": "thought",
+   "text": "Yes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 225,
+   "para": "p142",
+   "type": "thought",
+   "text": "Don’t let me feel it go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 226,
+   "para": "p143",
+   "type": "narration",
+   "text": "She thought about that. She didn’t know how. She didn’t know if she could.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p144",
+   "type": "bond",
+   "text": "I’ll try"
+  },
+  {
+   "seq": 228,
+   "para": "p144",
+   "type": "narration",
+   "text": ", she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 229,
+   "para": "p145",
+   "type": "narration",
+   "text": "Rowan divided it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 230,
+   "para": "p146",
+   "type": "narration",
+   "text": "The ground to Maren. The Keepers and their bears and wolves, who knew the Thornwood’s paths and what was left of them. Tova’s clans and their stonehorns, who could drive anything that ran. The lion.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 231,
+   "para": "p147",
+   "type": "narration",
+   "text": "The air to the farmer. The three hills. Arn’s pairs. Yeva’s rocs. Aud Hallin’s stormkites, to see the Titan’s turns before it made them. Nell Tallis’s wyverns.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 232,
+   "para": "p148",
+   "type": "narration",
+   "text": "She said it plainly, down the table, to the knight at one end and the farmer at the other, and neither of them looked at the other while she said it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 233,
+   "para": "p149",
+   "type": "speech",
+   "text": "“You’ll not need to talk,”"
+  },
+  {
+   "seq": 234,
+   "para": "p149",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 235,
+   "para": "p149",
+   "type": "speech",
+   "text": "“I’ll talk for you.”"
+  },
+  {
+   "seq": 236,
+   "para": "p149",
+   "type": "narration",
+   "text": "She didn’t smile."
+  },
+  {
+   "seq": 237,
+   "para": "p149",
+   "type": "speech",
+   "text": "“I’m good at it now.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 238,
+   "para": "p150",
+   "type": "speech",
+   "text": "“How long to the Thornwood?”"
+  },
+  {
+   "seq": 239,
+   "para": "p150",
+   "type": "narration",
+   "text": "said Rowan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 240,
+   "para": "p151",
+   "type": "speech",
+   "text": "“Eighteen days,”"
+  },
+  {
+   "seq": 241,
+   "para": "p151",
+   "type": "narration",
+   "text": "said Tova."
+  },
+  {
+   "seq": 242,
+   "para": "p151",
+   "type": "speech",
+   "text": "“On foot. For the clans. With the stonehorns and the old ones and the carts.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 243,
+   "para": "p152",
+   "type": "speech",
+   "text": "“And the lion?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 244,
+   "para": "p153",
+   "type": "narration",
+   "text": "Maren looked up at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 245,
+   "para": "p154",
+   "type": "speech",
+   "text": "“Four,”"
+  },
+  {
+   "seq": 246,
+   "para": "p154",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 247,
+   "para": "p154",
+   "type": "speech",
+   "text": "“If he walks.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 248,
+   "para": "p155",
+   "type": "speech",
+   "text": "“Then he can go ahead.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 249,
+   "para": "p156",
+   "type": "speech",
+   "text": "“He’ll walk with the clans,”"
+  },
+  {
+   "seq": 250,
+   "para": "p156",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 251,
+   "para": "p156",
+   "type": "speech",
+   "text": "“So will I.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 252,
+   "para": "p157",
+   "type": "narration",
+   "text": "Rowan looked at her. Then she nodded.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 253,
+   "para": "p158",
+   "type": "speech",
+   "text": "“The two-hundred-and-eighth, then,”"
+  },
+  {
+   "seq": 254,
+   "para": "p158",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 255,
+   "para": "p158",
+   "type": "speech",
+   "text": "“We march. The two-hundred-and-twenty-fifth, the Thornwood.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 256,
+   "para": "p159",
+   "type": "narration",
+   "text": "Davin wrote it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 257,
+   "para": "p160",
+   "type": "narration",
+   "text": "The table went back up the bank at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 258,
+   "para": "p161",
+   "type": "narration",
+   "text": "One at a time. Thale first, with his chain. The old man carried in his chair. The farmer last, slowly, stopping twice on the slope, his breath loud in the quiet, and the people on the bank stepping back out of his road as they stepped out of hers.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 259,
+   "para": "p162",
+   "type": "narration",
+   "text": "He didn’t look back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 260,
+   "para": "p163",
+   "type": "narration",
+   "text": "She sat on the bench by the empty door with the grass going cold under her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 261,
+   "para": "p164",
+   "type": "narration",
+   "text": "Then she climbed up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 262,
+   "para": "p165",
+   "type": "narration",
+   "text": "His mane. His brow. To the place between his ears where she could see from. She sat with her good hand in the grey stone-hair and looked east over the Marches, over the camp’s fires and the flat dark country beyond, toward the Wyldmarch, where a forest walked round a thing that couldn’t stop drinking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 263,
+   "para": "p166",
+   "type": "bond",
+   "text": "Eighteen days"
+  },
+  {
+   "seq": 264,
+   "para": "p166",
+   "type": "narration",
+   "text": ", said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 265,
+   "para": "p167",
+   "type": "thought",
+   "text": "Yes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 266,
+   "para": "p168",
+   "type": "thought",
+   "text": "That’s slow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 267,
+   "para": "p169",
+   "type": "thought",
+   "text": "I know. They need to see you walking with them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 268,
+   "para": "p170",
+   "type": "narration",
+   "text": "He thought about that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 269,
+   "para": "p171",
+   "type": "bond",
+   "text": "All right"
+  },
+  {
+   "seq": 270,
+   "para": "p171",
+   "type": "narration",
+   "text": ", said Orrun.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 271,
+   "para": "p172",
+   "type": "narration",
+   "text": "On the western ridge, the three hills got up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 272,
+   "para": "p173",
+   "type": "narration",
+   "text": "She heard it before she saw it. A sound like a wind in a gorge, three times. Then three shapes going up off the ridge into the last of the light, red and bronze and green, and turning, wide, slow, over the camp, and going east.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 273,
+   "para": "p174",
+   "type": "narration",
+   "text": "Over the Marches. Toward the Thornwood. To look.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 274,
+   "para": "p175",
+   "type": "narration",
+   "text": "They were a league up. More. They flew as dragons fly, long necks out, wings wide, and they were the wrong size for dragons. They were the wrong size for anything. The Marches lay under them like a map on a table, and their shadows went over it like weather.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 275,
+   "para": "p176",
+   "type": "narration",
+   "text": "On the Hearthmere road below the camp, a line of carts coming in late with flour. She saw the carters duck. All of them. On their benches, as one, with their arms over their heads, at shapes a league up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 276,
+   "para": "p177",
+   "type": "narration",
+   "text": "She watched them go east until she couldn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 277,
+   "para": "p178",
+   "type": "narration",
+   "text": "Then she counted. Fires. Tents. The posts of the pontoon. The stars, coming out, losing them and starting again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 278,
+   "para": "p179",
+   "type": "narration",
+   "text": "Behind her, on the bank where the table had been, the grass under the bench where she’d sat was white.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "274b3b6dbc2afa26dfd88638048836f5d40abc94",
+ "segments_sha1": "8190284b63bda34dc6eb01db40cfdd2ef24a6383"
+}

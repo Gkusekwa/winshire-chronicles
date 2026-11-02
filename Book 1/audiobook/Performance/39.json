@@ -2,6 +2,28 @@
  "chapter": 39,
  "title": "First Frost",
  "pov": "Maren",
+ "source": "Chapters/Chapter 39 - First Frost.md",
+ "names": [
+  "ash",
+  "bracken",
+  "callis",
+  "darrow",
+  "ferriby",
+  "fly",
+  "greyhold",
+  "grieve",
+  "haverly",
+  "ide",
+  "kesh",
+  "maren",
+  "merrow",
+  "ottery",
+  "pell",
+  "redwatch",
+  "turnip",
+  "widow",
+  "wynn"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1409,5 +1431,8 @@
    "mood": "tender",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "95ca30a904efc6b63d4a28c1792b7498c8f9659d",
+ "segments_sha1": "7802ead165e1c02761d5d1d7b1618badc01a41b4"
 }

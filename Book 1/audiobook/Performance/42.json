@@ -2,6 +2,22 @@
  "chapter": 42,
  "title": "Crossing the River",
  "pov": "Calder",
+ "source": "Chapters/Chapter 42 - Crossing the River.md",
+ "names": [
+  "aurveth",
+  "calder",
+  "crow",
+  "eelweir",
+  "fellwood",
+  "fenn",
+  "harrow",
+  "joss",
+  "kharrak",
+  "lisska",
+  "rush",
+  "scar",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1427,5 +1443,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "4de204b7f64afb6ac38f810386474c0232b490ec",
+ "segments_sha1": "26a59a26b156218859ba253c17cd8e8bef711b63"
 }

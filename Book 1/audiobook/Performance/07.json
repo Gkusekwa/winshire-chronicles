@@ -2,6 +2,25 @@
  "chapter": 7,
  "title": "The Caged Beast",
  "pov": "Maren",
+ "source": "Chapters/Chapter 07 - The Caged Beast.md",
+ "names": [
+  "ashdown",
+  "ashford",
+  "brackenwood",
+  "gannet",
+  "greyhold",
+  "hearthmere",
+  "maren",
+  "marl",
+  "millbrook",
+  "odo",
+  "ottery",
+  "pell",
+  "saltreach",
+  "tam",
+  "wend",
+  "wendmouth"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1642,5 +1661,8 @@
    "mood": "reflective",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "8076904f2258b051cc1426e30d3dd9bf03426dce",
+ "segments_sha1": "2a13a774e6f74c60996628460daf5c659979cac6"
 }

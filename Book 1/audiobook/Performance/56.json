@@ -2,6 +2,18 @@
  "chapter": 56,
  "title": "Wren and the Far-Seer",
  "pov": "Calder",
+ "source": "Chapters/Chapter 56 - Wren and the Far-Seer.md",
+ "names": [
+  "ada",
+  "bel",
+  "eelweir",
+  "hollins",
+  "joss",
+  "kharrak",
+  "lisska",
+  "scar",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -2304,5 +2316,8 @@
    "mood": "tender",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "a1361097c5861b98029d7fb5ea295ebfdcfe6c5e",
+ "segments_sha1": "9bc2cb98c90304ddcd8b6520b81b23a524aea418"
 }

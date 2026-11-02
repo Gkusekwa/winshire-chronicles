@@ -2,6 +2,28 @@
  "chapter": 64,
  "title": "The Staithe",
  "pov": "Calder",
+ "source": "Chapters/Chapter 64 - The Staithe.md",
+ "names": [
+  "ada",
+  "ashby",
+  "ashdown",
+  "aurveth",
+  "bel",
+  "calder",
+  "fisk",
+  "greyhold",
+  "joss",
+  "liss",
+  "lisska",
+  "mabbin",
+  "millbrook",
+  "rush",
+  "scar",
+  "sorrel",
+  "staithe",
+  "tolly",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1705,5 +1727,8 @@
    "mood": "tender",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "d04ac468a7ac311e60aea0d3cb69e1e39423038a",
+ "segments_sha1": "bcbfc58dfb1d16ad118e99693d72a2e1667e0f0b"
 }

@@ -2,6 +2,26 @@
  "chapter": 45,
  "title": "The Paper",
  "pov": "Maren",
+ "source": "Chapters/Chapter 45 - The Paper.md",
+ "names": [
+  "absalom",
+  "ash",
+  "ashford",
+  "callis",
+  "greyhold",
+  "hale",
+  "hallowmere",
+  "haverly",
+  "hearthmere",
+  "kettle",
+  "maren",
+  "millbrook",
+  "reede",
+  "ruin",
+  "saltreach",
+  "titan",
+  "tobin"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1207,5 +1227,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "ce7f48a31f42ecb7685509e752625105ccc7d780",
+ "segments_sha1": "d7bb6d80a23b2cd6bdb6ab4e17c82b713b8574b1"
 }

@@ -2,6 +2,29 @@
  "chapter": 32,
  "title": "Sellswords",
  "pov": "Calder",
+ "source": "Chapters/Chapter 32 - Sellswords.md",
+ "names": [
+  "ash",
+  "aurveth",
+  "calder",
+  "corrin",
+  "fellwood",
+  "fenn",
+  "gallows",
+  "greyhold",
+  "hearthmere",
+  "kharrak",
+  "lisska",
+  "marches",
+  "quay",
+  "rue",
+  "rush",
+  "sable",
+  "scar",
+  "vey",
+  "wendmouth",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -2019,5 +2042,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "7409fb704173a5d09a26242e618c4c1ef4679c15",
+ "segments_sha1": "0195f6aa3950f2b3357d47965cd1b655f677b4bd"
 }

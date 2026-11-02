@@ -2,6 +2,32 @@
  "chapter": 8,
  "title": "Coldtarn",
  "pov": "Calder",
+ "source": "Chapters/Chapter 08 - Coldtarn.md",
+ "names": [
+  "arn",
+  "aurveth",
+  "calder",
+  "coldtarn",
+  "end",
+  "ewe",
+  "fell",
+  "fenn",
+  "greyhold",
+  "harrow",
+  "hob",
+  "hollow",
+  "holm",
+  "ram",
+  "roosts",
+  "rurik",
+  "rush",
+  "scarfell",
+  "sigrun",
+  "teo",
+  "tuft",
+  "ulric",
+  "varr"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1229,5 +1255,8 @@
    "mood": "dread",
    "pause_after_ms": 800
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "a47870d4a3813cb82b83ed830877081a0f64250f",
+ "segments_sha1": "558be6e7dd3b42f340014168cc516aca5a009061"
 }

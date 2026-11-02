@@ -1,0 +1,1267 @@
+{
+ "chapter": 63,
+ "title": "Noon",
+ "pov": "",
+ "source": "Chapters/Chapter 63 - Noon.md",
+ "names": [
+  "eskby",
+  "furnace",
+  "greyhold",
+  "hearthmere",
+  "lamp",
+  "lisska",
+  "orrun",
+  "saltreach",
+  "vale",
+  "wend",
+  "wyldmarch"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Sixty-three.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Noon.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "She counted them in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "From his head. On the eastern wall, at its river end, where she’d sat all night against his foreleg in the frost and not slept, or slept and not known it. She couldn’t tell any more. Dawn came grey over the scrub behind her, and she was awake, and his eyes were open, and he lifted his head off his paws.",
+   "mood": "quiet",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "bond",
+   "text": "There"
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "narration",
+   "text": ", he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "narration",
+   "text": "West.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "narration",
+   "text": "One.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": "Over the downs on the Hearthmere side. Two leagues off and more. Where the Vale’s western edge went up into dead Hearthmere country toward the Mere.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "narration",
+   "text": "A hill, walking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p8",
+   "type": "narration",
+   "text": "She’d seen it before. Under Greyhold, at the end of its chains, in the dark, with its pale eyes. Going up off the island into the sky at sunrise, with the river closing behind it. Going over the Saltings. She’d seen it every night for a year behind her eyes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p9",
+   "type": "narration",
+   "text": "She’d never seen it walk toward her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 13,
+   "para": "p10",
+   "type": "narration",
+   "text": "Grey. Stone and leather, the wings folded along its back like a bat’s at rest. Long-necked. Walking on four legs, slowly, over the frozen downs, putting each foot down with the weight of a mountain. Behind each foot the frost went brown and the ground cracked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p11",
+   "type": "narration",
+   "text": "And on its legs, the chains.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p12",
+   "type": "narration",
+   "text": "Twelve ends. Iron. Each as long as a tower. Dragging behind it over the downs, cutting furrows in the frozen ground as a plough cuts, a dozen black lines following it out of the west.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 16,
+   "para": "p13",
+   "type": "narration",
+   "text": "She couldn’t see the coal. It was too far. She didn’t need to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p14",
+   "type": "bond",
+   "text": "It’s there"
+  },
+  {
+   "seq": 18,
+   "para": "p14",
+   "type": "narration",
+   "text": ", said Orrun."
+  },
+  {
+   "seq": 19,
+   "para": "p14",
+   "type": "thought",
+   "text": "In its back. Hot. I can feel it from here.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 20,
+   "para": "p15",
+   "type": "narration",
+   "text": "It came over the last of the downs and stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p16",
+   "type": "narration",
+   "text": "Two leagues west of the end of the Hearthmere wall. On the high ground, above the Vale. It lay down. As he lay. Its chin on its forefeet. Facing east.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p17",
+   "type": "narration",
+   "text": "Facing the eddy.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "bond",
+   "text": "He’s come home"
+  },
+  {
+   "seq": 24,
+   "para": "p18",
+   "type": "narration",
+   "text": ", said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p19",
+   "type": "narration",
+   "text": "She didn’t say anything.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 26,
+   "para": "p20",
+   "type": "narration",
+   "text": "Two.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 27,
+   "para": "p21",
+   "type": "narration",
+   "text": "North. Up the Wend. She felt it before she saw it. The cold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p22",
+   "type": "narration",
+   "text": "The river above the line, where it came down the Vale from Eskby and the upper villages, going black, as it had above Eskby. The ice coming down the river toward them from the north like a shadow on the water, a league in a long breath, and stopping.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p23",
+   "type": "narration",
+   "text": "A league above the line’s northern edge. Under the ice. A pale light, long, coiling.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 30,
+   "para": "p24",
+   "type": "narration",
+   "text": "Three.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 31,
+   "para": "p25",
+   "type": "narration",
+   "text": "South. Down the Wend. Below the Sheepford.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p26",
+   "type": "narration",
+   "text": "The river going white. Not ice. Water. White water, as if a storm were standing on it, a long way off, coming up the river from the sea. And under it, through the stone of the wall under her, through Orrun, through her: the bell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p27",
+   "type": "narration",
+   "text": "Once. Long.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p28",
+   "type": "narration",
+   "text": "It stopped two leagues below the line.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 35,
+   "para": "p29",
+   "type": "narration",
+   "text": "Four.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 36,
+   "para": "p30",
+   "type": "narration",
+   "text": "She didn’t see it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p31",
+   "type": "narration",
+   "text": "She saw the ground.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p32",
+   "type": "narration",
+   "text": "North-west. On the Hearthmere side. Beyond the western end of the wall, where the downs went up. The frost on the downs going. In a line. Melting. A long dark line across the white country, as if a hot iron had been drawn across it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p33",
+   "type": "narration",
+   "text": "And under the line, the ground rising. A ridge. Low. Long. Moving. Under the downs. Toward the Hearthmere wall’s western end, where the greyharts and the hounds stood. Smoke coming up through cracks in the frozen turf along it. White smoke. Steam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p34",
+   "type": "narration",
+   "text": "The Furnace. Burrowing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p35",
+   "type": "narration",
+   "text": "It stopped. The ridge stopped. The smoke went on going up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 42,
+   "para": "p36",
+   "type": "narration",
+   "text": "Five.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 43,
+   "para": "p37",
+   "type": "narration",
+   "text": "South-east. Over the hills on the Saltreach side.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p38",
+   "type": "narration",
+   "text": "Day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p39",
+   "type": "narration",
+   "text": "A half-league of day on the hilltops beyond the scrub, beyond the Saltreach wall’s eastern end. White-gold. A piece of noon, come loose, standing on the hills at dawn. It had come round. From the Sunward Hills where it had lain since the Vintner’s Gate, round through the hills, to here.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p40",
+   "type": "narration",
+   "text": "The Horned Sun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p41",
+   "type": "narration",
+   "text": "It stopped on the hilltops a league south of the wall’s end.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 48,
+   "para": "p42",
+   "type": "speech",
+   "text": "“Five,”"
+  },
+  {
+   "seq": 49,
+   "para": "p42",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p43",
+   "type": "narration",
+   "text": "Aloud. To nobody.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p44",
+   "type": "bond",
+   "text": "Five"
+  },
+  {
+   "seq": 52,
+   "para": "p44",
+   "type": "narration",
+   "text": ", said Orrun.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 53,
+   "para": "p45",
+   "type": "narration",
+   "text": "They lay where they’d stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p46",
+   "type": "narration",
+   "text": "All five. On five horizons. West, north, south, north-west, south-east. Round the Vale like the points of a star round its middle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p47",
+   "type": "narration",
+   "text": "And didn’t come on.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 56,
+   "para": "p48",
+   "type": "bond",
+   "text": "They’re waiting"
+  },
+  {
+   "seq": 57,
+   "para": "p48",
+   "type": "narration",
+   "text": ", said Lisska. Through Orrun, from the ridge behind the wall. And behind Lisska, faint, the old one’s voice, the bronze:"
+  },
+  {
+   "seq": 58,
+   "para": "p48",
+   "type": "thought",
+   "text": "They’re waiting for something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p49",
+   "type": "bond",
+   "text": "Tomorrow"
+  },
+  {
+   "seq": 60,
+   "para": "p49",
+   "type": "narration",
+   "text": ", said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p50",
+   "type": "narration",
+   "text": "Orrun knew. She knew it from him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 62,
+   "para": "p51",
+   "type": "narration",
+   "text": "The line took its places in the morning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p52",
+   "type": "narration",
+   "text": "She watched it from his head. All of it. From the Hearthmere bank’s western end to the Saltreach bank’s scrub.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 64,
+   "para": "p53",
+   "type": "narration",
+   "text": "The greyharts at the Hearthmere bend. Three hundred knights, on and off their beasts, with their hounds, at the western end of the line where it bent back to the river, facing the Furnace’s smoking ridge on the downs. Rowan’s knights. Wynn among them with Ash and Sorrow. She couldn’t see the dogs from here. She knew they were there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p54",
+   "type": "narration",
+   "text": "The olifants. Sixty. Standing in the line beside the knights, in a row, grey, enormous, side by side, as walls stand. Their trunks curled. Their eyes shut. Not moving. And behind them, on their tall white steeds that had been bonded once, Mattias’s unchosen.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 66,
+   "para": "p55",
+   "type": "narration",
+   "text": "The centre.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p56",
+   "type": "narration",
+   "text": "The batteries on both banks round the hub. Kessmoor’s grey crews at their bolt-throwers, a hundred of them, the racks of black bolts tipped with grey. The chilled chains. The magazine with its two guards.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p57",
+   "type": "narration",
+   "text": "And on the Ferry Flat, the Bridle. Twelve engines banked on their beds, warm, green lamps on poles round them, though it was day. The ring in its cradle with its stage. The six jibs on the eddy’s edge with the chain-ends hanging. Still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p58",
+   "type": "narration",
+   "text": "She looked at it. Then away.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 70,
+   "para": "p59",
+   "type": "narration",
+   "text": "The Saltreach bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p60",
+   "type": "narration",
+   "text": "The Wyldmarch next to the river. The stonehorns. Ten thousand, grazing the frozen grass behind the wall as if it were any morning. Rhun’s bears sitting up among the clans like old men. The wolves, lying in rows.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p61",
+   "type": "narration",
+   "text": "Isvaren. Aud Hallin’s thirty Wardens in their blue, with the snow lynx at their heels. And the twelve sabrecats. Heavy, short-tailed, with their two fangs as long as a man’s forearm, lying behind the Wardens with their heads on their paws and their eyes half shut, like cats by a fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p62",
+   "type": "narration",
+   "text": "Saltreach at the scrub end. Rennick’s sellswords. Black Ruth’s wyverns and the Cranes’, on the ground, hooded, chained to stakes. Paid.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 74,
+   "para": "p63",
+   "type": "narration",
+   "text": "And the air.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p64",
+   "type": "narration",
+   "text": "The Clan on the ridge behind the Saltreach wall. A hundred pairs. Red and grey. Arn on Ildra at their head. The rocs on the eastern downs, four, rust and white, heads under their wings. The stormkites already up, high, circling, like ash over a fire. Nell Tallis’s wyverns over the scrub end.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p65",
+   "type": "narration",
+   "text": "And on the ridge, at its top, the three.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p66",
+   "type": "narration",
+   "text": "She didn’t look at them long.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 78,
+   "para": "p67",
+   "type": "narration",
+   "text": "At the fourth hour she took him down to the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p68",
+   "type": "narration",
+   "text": "Off the wall. Down its face, a grey hill going down a grey wall, slowly, his left foreleg still careful. Into the Wend at the eddy’s lower lip. Where the eddy’s turning water went out into the river’s run below the ferry.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p69",
+   "type": "narration",
+   "text": "She felt the bed come up under him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p70",
+   "type": "narration",
+   "text": "The old bed. The Wend’s stone. Rising under his feet where he wanted it, as it had in the upper river, until he stood on it, waist-deep in grey water, a hill in the river. Between the two batteries. Facing west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p71",
+   "type": "narration",
+   "text": "Where the Last one would come.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 83,
+   "para": "p72",
+   "type": "narration",
+   "text": "Then the others.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p73",
+   "type": "bond",
+   "text": "Now"
+  },
+  {
+   "seq": 85,
+   "para": "p73",
+   "type": "narration",
+   "text": ", she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 86,
+   "para": "p74",
+   "type": "narration",
+   "text": "Three.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p75",
+   "type": "narration",
+   "text": "Out of him. As breath comes out. Three more of him, each as big as he. Grey. Stone. Rising out of the river beside him, out of the bed, with the water running off their manes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p76",
+   "type": "narration",
+   "text": "They went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p77",
+   "type": "narration",
+   "text": "One west, along the Hearthmere bank, to the bend, where the knights were. One east, along the Saltreach bank, to the Wyldmarch’s river end, by the stonehorns. One further east, the long way, along the Saltreach wall’s foot to the scrub, to Saltreach’s end.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p78",
+   "type": "narration",
+   "text": "And lay down there. In their sectors. Each one a hill, grey, with its chin on its paws, among the people.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 91,
+   "para": "p79",
+   "type": "narration",
+   "text": "She felt the line see them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p80",
+   "type": "narration",
+   "text": "All along it. On both banks. A sound going down the line, from end to end, like wind going over a field of barley. A hundred and six thousand people seeing four lions where there’d been one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p81",
+   "type": "remembered",
+   "text": "The lion counts as four"
+  },
+  {
+   "seq": 94,
+   "para": "p81",
+   "type": "narration",
+   "text": ", Rowan had said, at the council. Somebody had written it on a board. Somebody else had chalked it on the wall’s face near the hub, in letters a yard high.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p82",
+   "type": "narration",
+   "text": "She was in all four.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p83",
+   "type": "narration",
+   "text": "She could feel each one. Four weights. Four sets of eyes. The knights at the bend, looking up at a hill with a mane. The stonehorns lifting their plated heads. Rennick’s sellswords at the scrub end, backing off a pace. And her own eyes, in her own head, between his ears, in the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p84",
+   "type": "narration",
+   "text": "One lion, in four places.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 98,
+   "para": "p85",
+   "type": "narration",
+   "text": "The Lamp came down at the fifth hour.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p86",
+   "type": "narration",
+   "text": "From the eastern meadow, where it had stood since the camp came up to the eddy, in its ring of unicorns and wolves. Walking. Too bright to look at. Down the bank. Onto the river. On the light on the water. And along the river on the light to the eddy’s head, above the ferry rope, and stood there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p87",
+   "type": "narration",
+   "text": "On the water. Not in it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p88",
+   "type": "narration",
+   "text": "White-gold.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 102,
+   "para": "p89",
+   "type": "narration",
+   "text": "And the Lady.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p90",
+   "type": "narration",
+   "text": "In the eddy. Lying on the grey water by the rope, as she lay. Her long pale neck along the surface. Her heron’s head on the water. Her eyes the colour of deep water, open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p91",
+   "type": "narration",
+   "text": "The Lamp at the eddy’s head. The Lady in it. The lion at its foot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p92",
+   "type": "narration",
+   "text": "And the three on the ridge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p93",
+   "type": "narration",
+   "text": "That was the river.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 107,
+   "para": "p94",
+   "type": "narration",
+   "text": "Noon came.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 108,
+   "para": "p95",
+   "type": "narration",
+   "text": "She knew it by the sun. And by the batteries. Across the eddy on the Ferry Flat she saw the battery-masters take out their brass watches. All at once. Eight of them. Open them in their palms. Look.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p96",
+   "type": "narration",
+   "text": "Kessmoor’s noon. By the Hall of Measures’ clock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p97",
+   "type": "narration",
+   "text": "And the sun’s.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 111,
+   "para": "p98",
+   "type": "narration",
+   "text": "Rowan was at the Hearthmere wall’s river end. On her grey horse with the white blaze. With two swords at her belt. She sat there in her mended surcoat and looked down the line, west, along the wall. Then across the river, east, along the other.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p99",
+   "type": "narration",
+   "text": "She lifted her hand.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 113,
+   "para": "p100",
+   "type": "narration",
+   "text": "And they said it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 114,
+   "para": "p101",
+   "type": "narration",
+   "text": "All of them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p102",
+   "type": "narration",
+   "text": "From the bend to the scrub. On both banks. A hundred and six thousand voices at once, in the cold, at noon, on the Vale.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p103",
+   "type": "thought",
+   "text": "Keep the watch.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 117,
+   "para": "p104",
+   "type": "narration",
+   "text": "The knights. The militia. The clans, in their own accent. The unchosen, in Sarovel’s. The Wardens, in Isvaren’s, clipped. The sellswords. The battery crews; some of them. The old people on the carts behind the walls. The children, who’d been taught it all week by anyone who’d teach them, because it was three words and anyone could say three words.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p105",
+   "type": "thought",
+   "text": "Keep the watch.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 119,
+   "para": "p106",
+   "type": "narration",
+   "text": "She said it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p107",
+   "type": "narration",
+   "text": "She heard herself. She didn’t feel her mouth move; she couldn’t, on the left side, and the right side was going. She heard her own voice say it among a hundred and six thousand, flat, even, as she said everything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p108",
+   "type": "thought",
+   "text": "Keep the watch.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 122,
+   "para": "p109",
+   "type": "narration",
+   "text": "She’d said it at Greyhold. Two years of noons. In the yard, facing the wall, with three hundred voices round her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p110",
+   "type": "thought",
+   "text": "Keep the watch below, and do not ask.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p111",
+   "type": "narration",
+   "text": "She’d felt her voice stop on the second half, in the last weeks. As a hand won’t close round something too hot."
+  },
+  {
+   "seq": 125,
+   "para": "p111",
+   "type": "thought",
+   "text": "Below. And do not ask."
+  },
+  {
+   "seq": 126,
+   "para": "p111",
+   "type": "narration",
+   "text": "She hadn’t been able to say it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p112",
+   "type": "narration",
+   "text": "The old man had told her why, at Orrin, at midwinter."
+  },
+  {
+   "seq": 128,
+   "para": "p112",
+   "type": "remembered",
+   "text": "The last line’s a muzzle. It’s there so the voices won’t doubt."
+  },
+  {
+   "seq": 129,
+   "para": "p112",
+   "type": "narration",
+   "text": "It had been a jailer’s charm. Three hundred voices a day, three hundred years, feeding the chains on the thing under the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p113",
+   "type": "narration",
+   "text": "There was nothing below now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p114",
+   "type": "narration",
+   "text": "There was no muzzle. Nobody had told them not to ask.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p115",
+   "type": "narration",
+   "text": "They were facing out.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 133,
+   "para": "p116",
+   "type": "narration",
+   "text": "The wards went up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 134,
+   "para": "p117",
+   "type": "narration",
+   "text": "She saw them rise. Off the line. On both banks. A pale shimmer coming up off the walls and the people behind them, like heat off a road in summer. Thin. Going up. A league of it on each side. A wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p118",
+   "type": "narration",
+   "text": "Then bending. Over. Above the line. Like a roof. Like the inside of a bowl turned over the Hearthmere half of the line. And another over the Saltreach half.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p119",
+   "type": "narration",
+   "text": "Two.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p120",
+   "type": "narration",
+   "text": "And they stopped at the river.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 138,
+   "para": "p121",
+   "type": "narration",
+   "text": "Both of them. At the water’s edge. The Hearthmere ward came down to the Wend’s west bank and ended there, a pale edge in the air, a hand’s breadth from the water. The Saltreach ward came down to the east bank and ended there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p122",
+   "type": "narration",
+   "text": "Between them, the river. Running. Dark. Nothing over it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p123",
+   "type": "narration",
+   "text": "Running water breaks a charm. Always.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 141,
+   "para": "p124",
+   "type": "narration",
+   "text": "They were thin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p125",
+   "type": "narration",
+   "text": "She could see through them. The sky, grey, through the shimmer. The downs. The Last Titan lying on the high ground to the west, through the Hearthmere ward, like a hill seen through bad glass.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p126",
+   "type": "narration",
+   "text": "Thin. A charm on dead ground, with nothing under it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 144,
+   "para": "p127",
+   "type": "narration",
+   "text": "Then the light went in.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 145,
+   "para": "p128",
+   "type": "narration",
+   "text": "From the river. From the eddy’s head, where the Lamp stood on the water. White-gold. Going out from it, both ways. Into the ward on the Hearthmere bank. Into the ward on the Saltreach bank. Running along them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p129",
+   "type": "narration",
+   "text": "And from the eddy, from the Lady, a paler light. Blue. The colour of the moon on frost. Going out both ways too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p130",
+   "type": "narration",
+   "text": "Into the wards. Along them. From the river outward, west and east, along the edge of each ward and up into it and over it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p131",
+   "type": "narration",
+   "text": "As oil goes along a wick.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 149,
+   "para": "p132",
+   "type": "narration",
+   "text": "And the wards lit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p133",
+   "type": "narration",
+   "text": "A low glow, dimmer than the Lamp’s. Pale gold and pale blue, mixed, all through them, from the river to the ends of the line. Two long low domes of light over the Vale, one on each bank. Over the knights and the olifants and the batteries on one side. Over the stonehorns and the Wardens and the sellswords on the other.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p134",
+   "type": "narration",
+   "text": "Lit. Holding.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p135",
+   "type": "narration",
+   "text": "The river dark between them, with the Lamp and the Lady and the lion standing in it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 153,
+   "para": "p136",
+   "type": "narration",
+   "text": "She looked at it from his head for a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p137",
+   "type": "narration",
+   "text": "A jailer’s charm. Turned round. Three words, and nothing below, and the old ones’ light running into it from the water.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 155,
+   "para": "p138",
+   "type": "narration",
+   "text": "And through it all, a voice.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 156,
+   "para": "p139",
+   "type": "narration",
+   "text": "Behind her. On the ridge behind the Saltreach wall. Where the Clan stood, and the three.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p140",
+   "type": "narration",
+   "text": "Cracked. Hoarse. A breath behind everyone else’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p141",
+   "type": "thought",
+   "text": "Keep the watch.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 159,
+   "para": "p142",
+   "type": "narration",
+   "text": "After. When the hundred and six thousand had said it and stopped. Alone, for a moment, over the quiet. A man’s voice, ruined, saying it late.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p143",
+   "type": "narration",
+   "text": "She knew whose.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p144",
+   "type": "narration",
+   "text": "He’d never once said it in time. Not at Greyhold, where he’d stood at the back of the yard once, a farmer among knights, and moved his mouth a beat behind them. Not at the shore, at the end. Not anywhere.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p145",
+   "type": "narration",
+   "text": "He wasn’t a knight. He’d never learned when to say it. He said it when he meant it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 163,
+   "para": "p146",
+   "type": "narration",
+   "text": "She didn’t turn round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p147",
+   "type": "narration",
+   "text": "She sat on Orrun’s head in the river with her bandaged hand in his mane and the five links in her coat, and the wards lit over both banks, and the five lying on five horizons, waiting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p148",
+   "type": "bond",
+   "text": "He’s late"
+  },
+  {
+   "seq": 166,
+   "para": "p148",
+   "type": "narration",
+   "text": ", said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p149",
+   "type": "thought",
+   "text": "He’s always late.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p150",
+   "type": "thought",
+   "text": "He said it, though.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p151",
+   "type": "bond",
+   "text": "Yes"
+  },
+  {
+   "seq": 170,
+   "para": "p151",
+   "type": "narration",
+   "text": ", she said."
+  },
+  {
+   "seq": 171,
+   "para": "p151",
+   "type": "thought",
+   "text": "He said it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 172,
+   "para": "p152",
+   "type": "narration",
+   "text": "The wards held all afternoon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p153",
+   "type": "narration",
+   "text": "Lit. The two domes of pale light over the line. The Lamp on the river. The Lady in the eddy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p154",
+   "type": "narration",
+   "text": "At dusk they faded. To a glimmer. A faint shine in the air over each bank, like breath on glass. Holding.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p155",
+   "type": "narration",
+   "text": "The five lay where they’d stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p156",
+   "type": "narration",
+   "text": "The camp didn’t sleep. She could hear it not sleeping, all night. A hundred and six thousand people on both banks, under two thin roofs of light, lying awake, looking at the horizons.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p157",
+   "type": "narration",
+   "text": "She sat on his head in the river and counted the fires on the walls until she lost them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p158",
+   "type": "narration",
+   "text": "Then she counted the five.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p159",
+   "type": "narration",
+   "text": "One. Two. Three. Four. Five.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p160",
+   "type": "narration",
+   "text": "Over and over. Until the grey came up behind her in the east.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "58cc5ef2bae5c045fbbee23dea60bd89a4e3ddd0",
+ "segments_sha1": "d07fd10af0f760d8005c71102db7cf3b1c408a56"
+}

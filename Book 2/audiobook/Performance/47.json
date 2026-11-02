@@ -1,0 +1,1006 @@
+{
+ "chapter": 47,
+ "title": "The Chain-Ends",
+ "pov": "",
+ "source": "Chapters/Chapter 47 - The Chain-Ends.md",
+ "names": [
+  "bleed",
+  "corvin",
+  "deep",
+  "idony",
+  "maren",
+  "orrun",
+  "titan",
+  "vael"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Forty-seven.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Chain-Ends.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The glass at the edge of the hole had begun to flow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "He saw it on the morning of the two-hundred-and-thirty-sixth day through the brass glass from the tower. The broken plates round the hole where the Titan had put its head down, three days before, had been sharp. Edges like broken bottles. Now they were soft. Rounded. Sliding. Slowly, so slowly he had to watch one plate for the length of a long breath to see it move, the black glass of the basin was running back down into the hole like tar into a drain.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "And the hole breathed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Hot air, out. In long slow pulses. He could see it as a shimmer going up, and up, and fading. Then a pause. Then another. He counted. A breath every fourteen heartbeats. It had been every twenty yesterday.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "He wrote it down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "The whole basin was heat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "The Bleed lay over it like the shimmer over a road at noon in high summer, except that there was no sun and it was nearly winter and the shimmer was brighter than any road, and moved. It came up over the third canal. It came over the pylons. The chilled canals smoked so hard that the iron towers between them stood in fog to their tops, and the cables went up into the fog and vanished, and the hum of them came out of the white like the hum of something hidden.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "The cordon men worked in shifts of an hour.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "Moss’s order. The Bleed got into the air. If you stood in it too long it got into your head. He’d felt it on the tower himself, a lightness behind the eyes, like the first glass of wine on an empty stomach. He’d learned to go down the stairs every hour and sit on the bank outside the bank, on the old dead grass, until it went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "The labourers were still tied to the gatehouse rail.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "narration",
+   "text": "Thirty-four of them. Most were quiet now. Sitting on the ground at the rail’s foot with their wrists tied to the iron and their heads down. The cordon men brought them water and soup. Two still sang. One of them, the one who’d walked toward the canal, sang the same child’s song over and over, all day, all night, very softly. Idony found that he knew the tune. He didn’t know from where.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 14,
+   "para": "p12",
+   "type": "narration",
+   "text": "Pike had the cores ready.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p13",
+   "type": "narration",
+   "text": "She’d been in the engine-houses for two days. He’d seen her once, in the north-quarter hall, standing at the foot of the great iron drum with her smoked spectacles pushed up and her hands on her hips, watching men tip crates into the hopper. Heartstones going in. Grey plates. Dark red lumps out of the straw. Going down the chute into the core. Waiting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p14",
+   "type": "narration",
+   "text": "The service bridges over the canals had been swung back on their pivots. All of them. Every iron bridge, at every quarter, turned aside along the canal banks, so that nothing joined the inside to the outside now but the cold running water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p15",
+   "type": "speech",
+   "text": "“I want the day,”"
+  },
+  {
+   "seq": 18,
+   "para": "p15",
+   "type": "narration",
+   "text": "she said. On the tower, in the afternoon."
+  },
+  {
+   "seq": 19,
+   "para": "p15",
+   "type": "speech",
+   "text": "“You said you’d give me the day.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p16",
+   "type": "speech",
+   "text": "“Tonight,”"
+  },
+  {
+   "seq": 21,
+   "para": "p16",
+   "type": "narration",
+   "text": "said Idony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p17",
+   "type": "speech",
+   "text": "“Tonight’s late.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "speech",
+   "text": "“Tonight’s when the slope will tell me,”"
+  },
+  {
+   "seq": 24,
+   "para": "p18",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 25,
+   "para": "p18",
+   "type": "speech",
+   "text": "“Not before.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p19",
+   "type": "narration",
+   "text": "She looked at him. Then she nodded, and went down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 27,
+   "para": "p20",
+   "type": "narration",
+   "text": "He gave it to her at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p21",
+   "type": "narration",
+   "text": "The four glasses on the tower rail. The silk on his knee. The slope drawn on it in Kessmoor graphite from the day the Titan lay down, the curve of the stir going up, and then the drop where the relic went, and then the surge going up again. Steeper. Steeper than the stir. Steeper than anything he’d drawn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p22",
+   "type": "narration",
+   "text": "He laid Vael’s slope beside it. And the Ring’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p23",
+   "type": "narration",
+   "text": "At the Ring, from the relic to the rising, seven days. At Vael, five. Here the slope said: no more than that. He’d told Maren four. He drew the line on along the curve of the readings, out past the last mark, to where it would turn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p24",
+   "type": "speech",
+   "text": "“Dawn,”"
+  },
+  {
+   "seq": 32,
+   "para": "p24",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 33,
+   "para": "p24",
+   "type": "speech",
+   "text": "“The day after tomorrow. The two-hundred-and-thirty-eighth.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p25",
+   "type": "narration",
+   "text": "Pike stood on the tower stair with her hand on the rail.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p26",
+   "type": "speech",
+   "text": "“Dawn,”"
+  },
+  {
+   "seq": 36,
+   "para": "p26",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p27",
+   "type": "speech",
+   "text": "“Within five, if you want it safe. Within two if you want it true.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p28",
+   "type": "speech",
+   "text": "“I want it true,”"
+  },
+  {
+   "seq": 39,
+   "para": "p28",
+   "type": "narration",
+   "text": "said Agathe Pike.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p29",
+   "type": "speech",
+   "text": "“Then dawn,”"
+  },
+  {
+   "seq": 41,
+   "para": "p29",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 42,
+   "para": "p29",
+   "type": "speech",
+   "text": "“The day after tomorrow.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p30",
+   "type": "narration",
+   "text": "She went down the stairs without another word, and he heard her shouting in the dark below, and the sound of men running.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 44,
+   "para": "p31",
+   "type": "narration",
+   "text": "He didn’t go down after.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p32",
+   "type": "narration",
+   "text": "He sat on the tower in the dark with the glasses and the silk and the moths ringing out over the basin and the hum of the cables in the fog, and thought about the chain-end.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p33",
+   "type": "narration",
+   "text": "He’d been thinking about it for five days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p34",
+   "type": "narration",
+   "text": "On the glass, on the two-hundred-and-thirty-first day, on Orrun’s back. Leaning down over the lion’s shoulder with his hands in the mane. The great rusted links hanging from the band round the Titan’s leg, close enough to touch. And the light coming up inside them. White. From inside the curve of every link, through the rust, where the College had cut the rune three hundred years ago where nobody would ever see it.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p35",
+   "type": "thought",
+   "text": "Hold. Hold. Hold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p36",
+   "type": "narration",
+   "text": "He’d said it over all the way back across the glass. He’d said it over every night since. He hadn’t let himself think what it meant.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p37",
+   "type": "narration",
+   "text": "He thought it now.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 51,
+   "para": "p38",
+   "type": "narration",
+   "text": "A rune that lights is a rune being fed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p39",
+   "type": "narration",
+   "text": "Any first-year knew that. A rune that’s dead is dark. A rune that’s fed shows it, if you know how to look, and in a surge, or at a touch from something that’s all Deep, it shows it plainly. The chain-ends had lit at Orrun’s touch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p40",
+   "type": "narration",
+   "text": "So they were fed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p41",
+   "type": "narration",
+   "text": "So they weren’t scrap. They weren’t the broken ends of an old working hanging off a beast’s legs like a bracelet. They were a working. Still. Three hundred years after they were forged. After the chains had broken under the river. After the anchor-stones had cracked and the beast had walked out. The broken ends were still doing what they’d been made to do.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p42",
+   "type": "narration",
+   "text": "On what?",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p43",
+   "type": "narration",
+   "text": "He knew that too. It was in the contract. The second clause. He’d read it twice at the reading-desk under the perch with his palm on the vellum.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p44",
+   "type": "thought",
+   "text": "Every link bearing on its inner curve the rune of holding, which feeds on what it holds.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p45",
+   "type": "narration",
+   "text": "It fed on the Titan. On the thing it was wrapped round. On the Deep in the thing. It always had. That was why the Titan had lain still under the river for three hundred years: the harder it pulled, the more it fed the chains. A cage that grew stronger the more it was fought.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p46",
+   "type": "narration",
+   "text": "And it still did. The links that were left.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 60,
+   "para": "p47",
+   "type": "narration",
+   "text": "He took the appendix slowly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p48",
+   "type": "narration",
+   "text": "It had lain folded under the roll, in the dark-wood case that the man with the grey beard had opened at the foot of the perch to be sure. The rune of holding drawn stroke by stroke. And under it, the working-words.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p49",
+   "type": "narration",
+   "text": "He knew them. He’d read them twice and kept them in his head, unwritten, because the bird had told him to. He’d never said them aloud. He said them now, in his head, very carefully, one word after another, like stepping across a stream on stones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p50",
+   "type": "narration",
+   "text": "They weren’t for cutting the rune. A rune is cut with a chisel. They weren’t for quenching the iron. That was in the second clause, separately, the water and the voices.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p51",
+   "type": "narration",
+   "text": "They were for speaking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p52",
+   "type": "narration",
+   "text": "To the rune. Over it. When it was already cut and quenched and fed. They were the words a man would say over the chains, with his hands on the iron, to lay the holding on the thing inside them. To tighten it. To tell the rune what to hold, and how hard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p53",
+   "type": "narration",
+   "text": "The first knights’ binders had said them. Three hundred years ago, in the cavern under the river hill, over the chains, while the beast woke slowly with the chains already on.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p54",
+   "type": "thought",
+   "text": "Hearthmere’s first knights were binders before they were knights.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 68,
+   "para": "p55",
+   "type": "narration",
+   "text": "He sat very still on the tower in the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p56",
+   "type": "narration",
+   "text": "A working that’s still fed can still be spoken to. No first-year knew that. It wasn’t in the grammar. It was in the commentaries, in the margins, in an argument two Fifth rings had had in letters two hundred years ago that he’d read once at twenty for a citation and forgotten.",
+   "mood": "reflective"
+  },
+  {
+   "seq": 70,
+   "para": "p56",
+   "type": "thought",
+   "text": "A fed working answers its words as long as it is fed. Imbued iron is a door that is never quite shut.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p57",
+   "type": "narration",
+   "text": "So.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p58",
+   "type": "narration",
+   "text": "So whoever stood over the chain-ends on the Titan’s legs and said those words, rightly, in the old tongue, with the hands on the iron, would be speaking to a working that was still alive. And it would answer. It would tighten. On what it held.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p59",
+   "type": "narration",
+   "text": "Not a cage. The chains were broken. Nobody could hold the Titan still with what was left. Not like under the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p60",
+   "type": "narration",
+   "text": "But a grip.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p61",
+   "type": "narration",
+   "text": "A hand on it. As the bird had said, on the night it showed him the case."
+  },
+  {
+   "seq": 76,
+   "para": "p61",
+   "type": "remembered",
+   "text": "Whoever can speak to them has a hand on it."
+  },
+  {
+   "seq": 77,
+   "para": "p61",
+   "type": "narration",
+   "text": "He’d heard it. He hadn’t understood it. He understood it now. A hand on its legs. A pull, where the speaker wanted a pull. A bit, he thought. A bit in a horse’s mouth. Not enough to stop it. Enough to turn its head.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 78,
+   "para": "p62",
+   "type": "narration",
+   "text": "And he had the words.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p63",
+   "type": "narration",
+   "text": "He put his hand flat on the cold iron rail of the tower and held it there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p64",
+   "type": "narration",
+   "text": "He had them by heart. In his head. Unwritten. The only place in Winshire they were written down was in a dark-wood case bound in tarnished silver, under a man’s arm, going north-east over the towers of Vael on a bound black dragon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p65",
+   "type": "narration",
+   "text": "And that man couldn’t read them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p66",
+   "type": "narration",
+   "text": "He’d seen him not read them. At the foot of the perch. The man with the grey beard, turning the case a little in his hands, looking at the hooked script as if it would make more sense from another side. It hadn’t. It wouldn’t. It was Sixth-ring script. The Keepers’ hand. There were two old men in the Sixth-ring house at Vael who could read it, and a third had died in his chair at the east point of the binding with his student holding his hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p67",
+   "type": "narration",
+   "text": "The two who were left wouldn’t leave the house. They hadn’t left it in thirty years.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p68",
+   "type": "narration",
+   "text": "And there was Idony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p69",
+   "type": "narration",
+   "text": "Who’d read it twice. Who’d been seen at a reading-desk at the foot of a perch with his palm on the vellum, all night, in the summer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p70",
+   "type": "thought",
+   "text": "He’ll need someone who can read it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 87,
+   "para": "p71",
+   "type": "narration",
+   "text": "Corvin had the chain-craft. Corvin had the roll and the appendix and the rune and the words and everything Hearthmere’s first knights had been sold three hundred years ago.",
+   "mood": "reflective",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p72",
+   "type": "narration",
+   "text": "And Corvin had the chain-ends, if he could get to them. They were on the Titan’s legs. They went wherever it went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p73",
+   "type": "narration",
+   "text": "And all Corvin needed was a reader.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p74",
+   "type": "narration",
+   "text": "Idony sat on the tower until the moths stopped ringing, which they never did, and the sky over the moor went grey, which it did, slowly, at the end of a very long night.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 91,
+   "para": "p75",
+   "type": "narration",
+   "text": "He told Maren at dawn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p76",
+   "type": "narration",
+   "text": "She came up the tower stairs because she’d seen him there all night from the bank. She’d been on the outer bank with Orrun and Tobin. She had frost on her coat. She stood at the top of the stairs with her hands in her pockets and looked at him, and he could see she knew something was wrong before he said a word. She always knew. Like Nessa.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p77",
+   "type": "narration",
+   "text": "He told her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p78",
+   "type": "narration",
+   "text": "All of it. The light in the links. The second clause. The appendix. The words. The door that’s never quite shut. The grip. He told her slowly, in order, as he’d have laid out a reading for the Council, and she listened without moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p79",
+   "type": "narration",
+   "text": "When he’d finished she sat very still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p80",
+   "type": "narration",
+   "text": "Lisska was on the rail beside him. She’d been there all night too. The little green dragon, with her chin on her forefeet, watching the basin. She turned her head and looked at Maren. He couldn’t hear what passed. He never could. He saw Maren’s face change, a little.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Then he’ll come for you,”"
+  },
+  {
+   "seq": 98,
+   "para": "p81",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 99,
+   "para": "p82",
+   "type": "speech",
+   "text": "“Or send for me,”"
+  },
+  {
+   "seq": 100,
+   "para": "p82",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 101,
+   "para": "p82",
+   "type": "speech",
+   "text": "“With a lot of silver.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p83",
+   "type": "speech",
+   "text": "“Would you go?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p84",
+   "type": "speech",
+   "text": "“No.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Then he’ll come,”"
+  },
+  {
+   "seq": 105,
+   "para": "p85",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p86",
+   "type": "narration",
+   "text": "She said it flatly. As she said everything that mattered. He’d learned that about her, on the road south from the Ring, and on the shingle at Vael, and on the long white road west from Glasswater in the snow. The more something mattered, the flatter she said it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p87",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 108,
+   "para": "p87",
+   "type": "narration",
+   "text": "said Idony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p88",
+   "type": "narration",
+   "text": "She looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p89",
+   "type": "speech",
+   "text": "“Write them down,”"
+  },
+  {
+   "seq": 111,
+   "para": "p89",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 112,
+   "para": "p89",
+   "type": "speech",
+   "text": "“The words. Somewhere. In case.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p90",
+   "type": "speech",
+   "text": "“No.”"
+  },
+  {
+   "seq": 114,
+   "para": "p90",
+   "type": "narration",
+   "text": "He shook his head."
+  },
+  {
+   "seq": 115,
+   "para": "p90",
+   "type": "speech",
+   "text": "“It said not to. It said keep them in my head. Unwritten.”"
+  },
+  {
+   "seq": 116,
+   "para": "p90",
+   "type": "narration",
+   "text": "He looked at the basin."
+  },
+  {
+   "seq": 117,
+   "para": "p90",
+   "type": "speech",
+   "text": "“If I write them down, they can be taken. Like the roll. If they’re only in my head, the only way to get them is to get me.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p91",
+   "type": "speech",
+   "text": "“That’s worse.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p92",
+   "type": "speech",
+   "text": "“It’s better for everyone but me,”"
+  },
+  {
+   "seq": 120,
+   "para": "p92",
+   "type": "narration",
+   "text": "said Idony.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 121,
+   "para": "p93",
+   "type": "narration",
+   "text": "She didn’t argue.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p94",
+   "type": "narration",
+   "text": "She stood beside him on the tower in the grey light and looked out over the fog on the canals, and the iron towers going up into it, and the broken basin beyond with the hole breathing in the middle. Fourteen heartbeats. Thirteen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p95",
+   "type": "speech",
+   "text": "“Tomorrow,”"
+  },
+  {
+   "seq": 124,
+   "para": "p95",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p96",
+   "type": "speech",
+   "text": "“Dawn.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p97",
+   "type": "speech",
+   "text": "“And the cage closes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p98",
+   "type": "speech",
+   "text": "“And the cage closes,”"
+  },
+  {
+   "seq": 128,
+   "para": "p98",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 129,
+   "para": "p98",
+   "type": "speech",
+   "text": "“And we’ll see if it holds.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p99",
+   "type": "narration",
+   "text": "She went down the stairs. He heard her go along the bank toward the north quarter, toward where the lion lay.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p100",
+   "type": "narration",
+   "text": "He didn’t go down. He didn’t sleep that night either.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 132,
+   "para": "p101",
+   "type": "narration",
+   "text": "He saw it after midnight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p102",
+   "type": "narration",
+   "text": "He’d stopped looking for it. He’d stopped looking for anything but the slope. The four glasses on the rail, all four leaning hard toward the middle of the basin, toward the hole, so hard the quicksilver pressed up against the sides of the throats.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p103",
+   "type": "narration",
+   "text": "But at the edge of the reading, where a tide-reader learns to look for the faint things, the things a long way off, there was something else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p104",
+   "type": "narration",
+   "text": "He’d first felt it on the Library hill. On the hundred-and-seventy-seventh day, in the afternoon, before the bird. A pull. Three of them. Close together. Hard, and wrong, like holding a glass too near a fire: as a bound beast pulls, all hunger and no shape. He hadn’t known what it was then. He’d known afterwards, when the farmer climbed down the red dragon’s leg and said there’d been four.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p105",
+   "type": "narration",
+   "text": "Three bound young dragons.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p106",
+   "type": "narration",
+   "text": "After Vael it had split. He’d seen it go, on the white road west, faint at the edge of every night’s reading. Two pulls going north-east. One going west. Apart.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p107",
+   "type": "narration",
+   "text": "Now it was whole again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p108",
+   "type": "narration",
+   "text": "Three. Together. Close. And moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p109",
+   "type": "narration",
+   "text": "South. Fast. Dragon pace. Away from the Fells, down across the far edge of his chart, toward the bottom of it, where the land ran out at the Shattered Sea. Toward a coast. Sarovel’s coast. The mouth of the Gilt, where Solenne stood on its cliffs.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p110",
+   "type": "narration",
+   "text": "He marked it on the silk. A short line, going south, with three small dots at the end of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p111",
+   "type": "narration",
+   "text": "He knew what it carried. A man with a grey beard. A dark-wood case bound in tarnished silver.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p112",
+   "type": "narration",
+   "text": "Going to somebody.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p113",
+   "type": "narration",
+   "text": "He sat on the tower with his hand on the cold rail and watched it go until it was gone off the edge of the reading, and then he watched the basin, and the hole, breathing, faster, faster, and waited for the dawn.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "405295406a3c84ab7a0829d2c9c63782463a91cd",
+ "segments_sha1": "a7690dd035381b6f1aac4172dc435c7c7e676a9d"
+}

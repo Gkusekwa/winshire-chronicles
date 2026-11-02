@@ -1,0 +1,1625 @@
+{
+ "chapter": 68,
+ "title": "The Tide Council",
+ "pov": "",
+ "source": "Chapters/Chapter 68 - The Tide Council.md",
+ "names": [
+  "ada",
+  "anchor",
+  "arn",
+  "aubrey",
+  "bell",
+  "calder",
+  "corsa",
+  "fenn",
+  "gullhaven",
+  "gunna",
+  "hallowmere",
+  "kharrak",
+  "lisska",
+  "marrow",
+  "quill",
+  "scarfell",
+  "strand",
+  "tamsin",
+  "tidehall",
+  "ulric",
+  "vey"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Sixty-eight.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Tide Council.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The Council didn’t answer his letter.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "It summoned him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "The Clan rider came back on the three-hundred-and-twenty-ninth day, on Ulric’s grey, after a week on the Tidehall’s sea-steps, with a folded paper sealed in blue wax with a wave on it. Calder broke the seal on the shingle at Gullhaven and read it himself.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "thought",
+   "text": "Master Calder Fenn will attend the Council at Corsa and explain himself.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "That was all.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "speech",
+   "text": "“Explain himself,”"
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": "said Ada. Reading it over his shoulder."
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "speech",
+   "text": "“As if you were a boy caught in an orchard.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "speech",
+   "text": "“It’s an answer.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p8",
+   "type": "speech",
+   "text": "“It’s a summons,”"
+  },
+  {
+   "seq": 13,
+   "para": "p8",
+   "type": "narration",
+   "text": "said Ada."
+  },
+  {
+   "seq": 14,
+   "para": "p8",
+   "type": "speech",
+   "text": "“They’re not the same.”"
+  },
+  {
+   "seq": 15,
+   "para": "p8",
+   "type": "narration",
+   "text": "She gave it back."
+  },
+  {
+   "seq": 16,
+   "para": "p8",
+   "type": "speech",
+   "text": "“Go and explain yourself, then. Plainly.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 17,
+   "para": "p9",
+   "type": "narration",
+   "text": "He copied out the numbers the night before.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p10",
+   "type": "narration",
+   "text": "At the Anchor-and-Net. On a clean sheet of the Clan’s grey paper, the last clean one, with Ada across the table from him and the bad wine pushed away. The reader’s numbers. From Maren’s letters, the ones she’d written on the back of his own pages, in her square hand. From the frost at Glasswater. From what he remembered the reader saying on the shore with his chart on his knees.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p11",
+   "type": "narration",
+   "text": "He wrote them as a table. Big. One line each. So they’d see them from the far end of the long black table.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p12",
+   "type": "thought",
+   "text": "THE RING. RELIC MIDSUMMER. WOKE 7 DAYS AFTER.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p13",
+   "type": "thought",
+   "text": "VAEL. RELIC DAY 172. WOKE 5 DAYS AFTER.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p14",
+   "type": "thought",
+   "text": "THE SCALD. RELIC DAY 233. WOKE 5 DAYS AFTER.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p15",
+   "type": "thought",
+   "text": "THE SUN STAIR. RELIC DAY 315. WOKE 2 DAYS AFTER.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p16",
+   "type": "narration",
+   "text": "He stopped. He looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p17",
+   "type": "thought",
+   "text": "EVERY TIME SOONER.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p18",
+   "type": "narration",
+   "text": "And under it, in the biggest letters he had:",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p19",
+   "type": "thought",
+   "text": "THE BELL. WITHIN THE MONTH. THEN THE SAME DAY OR THE NEXT.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p20",
+   "type": "narration",
+   "text": "Ada checked the arithmetic. With her finger, down the column, her lips moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p21",
+   "type": "speech",
+   "text": "“It’s right,”"
+  },
+  {
+   "seq": 30,
+   "para": "p21",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p22",
+   "type": "speech",
+   "text": "“I know it’s right.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p23",
+   "type": "speech",
+   "text": "“I know you know,”"
+  },
+  {
+   "seq": 33,
+   "para": "p23",
+   "type": "narration",
+   "text": "said Ada."
+  },
+  {
+   "seq": 34,
+   "para": "p23",
+   "type": "speech",
+   "text": "“I’m checking because they will.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 35,
+   "para": "p24",
+   "type": "narration",
+   "text": "He went on the three-hundred-and-thirtieth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p25",
+   "type": "narration",
+   "text": "Kharrak and Lisska. Lisska was rested now, mostly. Still thin. She’d slept and eaten, and she said she was well, and he believed her. Aurveth stayed on the spit. Ivar Leck’s month wasn’t up, and she said she’d seen the Council once and once was enough.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p26",
+   "type": "bond",
+   "text": "Tell them plainly,"
+  },
+  {
+   "seq": 38,
+   "para": "p26",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 39,
+   "para": "p26",
+   "type": "thought",
+   "text": "They’re traders. They understand a plain price.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 40,
+   "para": "p27",
+   "type": "narration",
+   "text": "The Council sat on the three-hundred-and-thirty-first day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p28",
+   "type": "narration",
+   "text": "The great room again. The long black table under the smoke-darkened ceiling of painted ships. Forty chairs. The houses at the window end. The captains by the door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p29",
+   "type": "narration",
+   "text": "Mistress Orla Marrow at the head, in blue silk, with her salt-grey hair in its net and her square calm figurehead face. The Quill house’s thin woman in white. The Strand member in green, the soft-voiced one who’d offered him a hundred silver a month on the balcony. Master Aubrey Strand, the clerk at the door called him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p30",
+   "type": "narration",
+   "text": "The Halloran chair empty. Nobody had sat in it since the autumn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p31",
+   "type": "narration",
+   "text": "And at the captains’ end, near the door, a small neat man in grey gloves and spectacles, with his hands folded on the table, looking at Calder pleasantly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p32",
+   "type": "narration",
+   "text": "Vey.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 46,
+   "para": "p33",
+   "type": "narration",
+   "text": "He walked up the long table and put the sheet down on the black wood.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p34",
+   "type": "narration",
+   "text": "In front of Marrow. Facing her, so she could read it. He didn’t sit. Nobody had offered him a chair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p35",
+   "type": "speech",
+   "text": "“I’ll read it,”"
+  },
+  {
+   "seq": 49,
+   "para": "p35",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p36",
+   "type": "narration",
+   "text": "He read it. Himself. Aloud. Slowly. With his finger, because his hands were shaking and he didn’t want to lose his place. Every line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p37",
+   "type": "thought",
+   "text": "The Ring. Relic midsummer. Woke seven days after.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p38",
+   "type": "thought",
+   "text": "Vael. Relic day one hundred and seventy-two. Woke five days after.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p39",
+   "type": "thought",
+   "text": "The Scald. Relic day two hundred and thirty-three. Woke five days after.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p40",
+   "type": "thought",
+   "text": "The Sun Stair. Relic day three hundred and fifteen. Woke two days after.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p41",
+   "type": "narration",
+   "text": "He looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p42",
+   "type": "speech",
+   "text": "“Every time sooner,”"
+  },
+  {
+   "seq": 57,
+   "para": "p42",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p43",
+   "type": "narration",
+   "text": "He put his finger on the last line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p44",
+   "type": "speech",
+   "text": "“The Bell,”"
+  },
+  {
+   "seq": 60,
+   "para": "p44",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 61,
+   "para": "p44",
+   "type": "speech",
+   "text": "“The reef off Gullhaven. Within the month. And then the thing under it comes up the same day, or the next.”"
+  },
+  {
+   "seq": 62,
+   "para": "p44",
+   "type": "narration",
+   "text": "He took his finger off the paper."
+  },
+  {
+   "seq": 63,
+   "para": "p44",
+   "type": "speech",
+   "text": "“That’s not my numbers. That’s the reader’s. From Vael. From the College of Tides. He measured all of them. He was there for three. I copied them out.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 64,
+   "para": "p45",
+   "type": "narration",
+   "text": "Nobody said anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p46",
+   "type": "narration",
+   "text": "Marrow looked at the sheet for a long time. Then at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p47",
+   "type": "speech",
+   "text": "“You can read,”"
+  },
+  {
+   "seq": 67,
+   "para": "p47",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p48",
+   "type": "speech",
+   "text": "“Slowly.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p49",
+   "type": "speech",
+   "text": "“In the autumn you couldn’t.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p50",
+   "type": "speech",
+   "text": "“In the autumn I couldn’t,”"
+  },
+  {
+   "seq": 71,
+   "para": "p50",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 72,
+   "para": "p51",
+   "type": "narration",
+   "text": "He told them the rest.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p52",
+   "type": "narration",
+   "text": "Plainly, as Aurveth had said. The spit. A league of shingle with four thousand people on it and one road off it and the sea on three sides. Four hundred and twelve roofs marked with white crosses, every one tested by a dragon’s weight. Forty baskets. The Clan’s riders, practising every day for a month. Salt-boys queuing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p53",
+   "type": "narration",
+   "text": "And what Kessmoor’s cage had needed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p54",
+   "type": "narration",
+   "text": "On land. A league of iron. Three canals of chilled water. Four engines. Forty years in the building. Six hundred hearts a day. Master Engineer Agathe Pike. Inspector Harl Moss.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p55",
+   "type": "speech",
+   "text": "“Ask them,”"
+  },
+  {
+   "seq": 77,
+   "para": "p55",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 78,
+   "para": "p55",
+   "type": "speech",
+   "text": "“Write to Ironhythe. Ask them if you can build that on a reef in the sea in a month.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p56",
+   "type": "narration",
+   "text": "He stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p57",
+   "type": "speech",
+   "text": "“That’s all,”"
+  },
+  {
+   "seq": 81,
+   "para": "p57",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 82,
+   "para": "p57",
+   "type": "speech",
+   "text": "“That’s what’s coming. I’ve said it plainly.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 83,
+   "para": "p58",
+   "type": "speech",
+   "text": "“We read your letter,”"
+  },
+  {
+   "seq": 84,
+   "para": "p58",
+   "type": "narration",
+   "text": "said Marrow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p59",
+   "type": "narration",
+   "text": "She said it calmly. Without anything in her face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p60",
+   "type": "speech",
+   "text": "“All three versions, I’m told. Your rider showed the clerks the two you crossed out.”"
+  },
+  {
+   "seq": 87,
+   "para": "p60",
+   "type": "narration",
+   "text": "She folded her hands on the table."
+  },
+  {
+   "seq": 88,
+   "para": "p60",
+   "type": "speech",
+   "text": "“You know now. That’s what it said at the end.”"
+  },
+  {
+   "seq": 89,
+   "para": "p60",
+   "type": "narration",
+   "text": "She looked at him."
+  },
+  {
+   "seq": 90,
+   "para": "p60",
+   "type": "speech",
+   "text": "“We know now, Master Fenn. As you said.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p61",
+   "type": "speech",
+   "text": "“Then empty the spit.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p62",
+   "type": "narration",
+   "text": "Marrow didn’t answer. She turned her head a little. Toward the man in green.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 93,
+   "para": "p63",
+   "type": "narration",
+   "text": "Master Aubrey Strand had a soft voice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p64",
+   "type": "narration",
+   "text": "He used it. He smiled at Calder down the table as if Calder had made a reasonable point at a dinner and he was about to make a better one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p65",
+   "type": "speech",
+   "text": "“The contract stands,”"
+  },
+  {
+   "seq": 96,
+   "para": "p65",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 97,
+   "para": "p65",
+   "type": "speech",
+   "text": "“The house of Strand bought it fairly. At auction. The execution is assigned to Captain Vey’s company, who are the best in the League.”"
+  },
+  {
+   "seq": 98,
+   "para": "p65",
+   "type": "narration",
+   "text": "He nodded down the table, pleasantly, at Vey, who nodded back, pleasantly."
+  },
+  {
+   "seq": 99,
+   "para": "p65",
+   "type": "speech",
+   "text": "“Kessmoor engines, on barges. Imbued harpoons, from the Gearmouth forges. Captain Vey’s wyverns. Captain Vey’s drawers.”"
+  },
+  {
+   "seq": 100,
+   "para": "p65",
+   "type": "narration",
+   "text": "He spread his hands."
+  },
+  {
+   "seq": 101,
+   "para": "p65",
+   "type": "speech",
+   "text": "“The thing under the reef will be taken and held. For the Council’s account.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p66",
+   "type": "speech",
+   "text": "“And the spit?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p67",
+   "type": "speech",
+   "text": "“The spit,”"
+  },
+  {
+   "seq": 104,
+   "para": "p67",
+   "type": "narration",
+   "text": "said Strand,"
+  },
+  {
+   "seq": 105,
+   "para": "p67",
+   "type": "speech",
+   "text": "“is the League’s richest oyster bed.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p68",
+   "type": "narration",
+   "text": "Calder looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p69",
+   "type": "speech",
+   "text": "“It is oyster season, Master Fenn,”",
+   "how": "softly"
+  },
+  {
+   "seq": 108,
+   "para": "p69",
+   "type": "narration",
+   "text": "said Strand. Gently. As if explaining something to a child."
+  },
+  {
+   "seq": 109,
+   "para": "p69",
+   "type": "speech",
+   "text": "“The Gullhaven beds feed half the coast, and the other half buys from them. The spit has never fallen. Not in the great storm. Not in any storm.”",
+   "how": "softly"
+  },
+  {
+   "seq": 110,
+   "para": "p69",
+   "type": "narration",
+   "text": "He smiled."
+  },
+  {
+   "seq": 111,
+   "para": "p69",
+   "type": "speech",
+   "text": "“The Lady keeps the stones, as they say down there.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p70",
+   "type": "narration",
+   "text": "Somebody at the captains’ end laughed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p71",
+   "type": "narration",
+   "text": "It was a Corsa joke. Calder could hear that it was. The kind of thing people in the city said about people on the spit.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 114,
+   "para": "p72",
+   "type": "narration",
+   "text": "Nobody voted to empty it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p73",
+   "type": "narration",
+   "text": "He watched. Marrow asked, in the end. Calmly."
+  },
+  {
+   "seq": 116,
+   "para": "p73",
+   "type": "thought",
+   "text": "Does any member move that the Council order Gullhaven emptied before the spring tides?"
+  },
+  {
+   "seq": 117,
+   "para": "p73",
+   "type": "narration",
+   "text": "She looked down the long table. At the houses. At the captains.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p74",
+   "type": "narration",
+   "text": "Nobody moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p75",
+   "type": "narration",
+   "text": "Not the Quill woman in white. Not the captains. Not Marrow herself.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p76",
+   "type": "speech",
+   "text": "“Then the Council does not so order,”"
+  },
+  {
+   "seq": 121,
+   "para": "p76",
+   "type": "narration",
+   "text": "said Marrow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p77",
+   "type": "narration",
+   "text": "She looked at Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p78",
+   "type": "speech",
+   "text": "“We know now, Master Fenn,”"
+  },
+  {
+   "seq": 124,
+   "para": "p78",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 125,
+   "para": "p78",
+   "type": "speech",
+   "text": "“And we’ve done nothing with it. As your mother said we would.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p79",
+   "type": "narration",
+   "text": "He stared at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p80",
+   "type": "speech",
+   "text": "“Your rider talks,”"
+  },
+  {
+   "seq": 128,
+   "para": "p80",
+   "type": "narration",
+   "text": "said Marrow."
+  },
+  {
+   "seq": 129,
+   "para": "p80",
+   "type": "speech",
+   "text": "“On the sea-steps. For a week.”"
+  },
+  {
+   "seq": 130,
+   "para": "p80",
+   "type": "narration",
+   "text": "Something moved in the square calm face."
+  },
+  {
+   "seq": 131,
+   "para": "p80",
+   "type": "speech",
+   "text": "“She sounds like a woman worth knowing.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 132,
+   "para": "p81",
+   "type": "narration",
+   "text": "Vey caught him on the sea-steps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p82",
+   "type": "narration",
+   "text": "Afterwards. Coming down out of the Tidehall into the grey afternoon with the sheet folded in his coat. Vey was sitting on the bottom step with his gloves on, looking at Kharrak, who was lying in the harbour shallows with only his head out of the water, sulking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p83",
+   "type": "speech",
+   "text": "“Master Fenn.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p84",
+   "type": "narration",
+   "text": "Calder stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p85",
+   "type": "speech",
+   "text": "“You’ll want to know why I took it,”"
+  },
+  {
+   "seq": 137,
+   "para": "p85",
+   "type": "narration",
+   "text": "said Vey."
+  },
+  {
+   "seq": 138,
+   "para": "p85",
+   "type": "speech",
+   "text": "“The execution.”"
+  },
+  {
+   "seq": 139,
+   "para": "p85",
+   "type": "narration",
+   "text": "He looked at the harbour."
+  },
+  {
+   "seq": 140,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Nobody else would bid. Not on the execution. The Strand house bought the contract and then couldn’t find a company to go out on the reef for it.”"
+  },
+  {
+   "seq": 141,
+   "para": "p85",
+   "type": "narration",
+   "text": "He took off his spectacles and cleaned them on a corner of his coat."
+  },
+  {
+   "seq": 142,
+   "para": "p85",
+   "type": "speech",
+   "text": "“So the price went up. And up. And I took it. Ten days ago.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p86",
+   "type": "speech",
+   "text": "“For the money.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p87",
+   "type": "speech",
+   "text": "“For the money,”"
+  },
+  {
+   "seq": 145,
+   "para": "p87",
+   "type": "narration",
+   "text": "said Vey."
+  },
+  {
+   "seq": 146,
+   "para": "p87",
+   "type": "speech",
+   "text": "“I’m always being paid for something.”"
+  },
+  {
+   "seq": 147,
+   "para": "p87",
+   "type": "narration",
+   "text": "He put the spectacles back on."
+  },
+  {
+   "seq": 148,
+   "para": "p87",
+   "type": "speech",
+   "text": "“I told you at the Bell and Anchor. I’ll never empty a harbour for free. Nor go out on a reef.”"
+  },
+  {
+   "seq": 149,
+   "para": "p87",
+   "type": "narration",
+   "text": "He looked up at Calder."
+  },
+  {
+   "seq": 150,
+   "para": "p87",
+   "type": "speech",
+   "text": "“But I’ll go out on one for enough.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p88",
+   "type": "narration",
+   "text": "He stood up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p89",
+   "type": "speech",
+   "text": "“If it comes up,”"
+  },
+  {
+   "seq": 153,
+   "para": "p89",
+   "type": "narration",
+   "text": "he said,"
+  },
+  {
+   "seq": 154,
+   "para": "p89",
+   "type": "speech",
+   "text": "“I’ll be on the reef. With harpoons. And you’ll be on the spit. With baskets.”"
+  },
+  {
+   "seq": 155,
+   "para": "p89",
+   "type": "narration",
+   "text": "He took off a glove, finger by finger, and held out his hand."
+  },
+  {
+   "seq": 156,
+   "para": "p89",
+   "type": "speech",
+   "text": "“One of us will be wrong, Master Fenn.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p90",
+   "type": "narration",
+   "text": "Calder took it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p91",
+   "type": "narration",
+   "text": "Vey’s hand was dry and small and very steady. He shook once, and let go, and put the glove back on, finger by finger.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p92",
+   "type": "speech",
+   "text": "“I hope it’s you,”"
+  },
+  {
+   "seq": 160,
+   "para": "p92",
+   "type": "narration",
+   "text": "said Vey, pleasantly, and went up the steps into the Tidehall.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 161,
+   "para": "p93",
+   "type": "narration",
+   "text": "The Clan came over Corsa at noon the next day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p94",
+   "type": "narration",
+   "text": "He’d sent Kharrak back down the coast for them in the night. With a word for Arn. Spoken, for Kharrak to give Tamsin on the spit, and Tamsin to give Gunna, and Gunna to give Arn:"
+  },
+  {
+   "seq": 163,
+   "para": "p94",
+   "type": "thought",
+   "text": "They said no. Come and show them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p95",
+   "type": "narration",
+   "text": "They came.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p96",
+   "type": "narration",
+   "text": "He heard them first. From the Tidehall’s sea-steps, at noon. A sound out of the west, along the coast, low, long, like wind over a moor. Then he saw them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p97",
+   "type": "narration",
+   "text": "Over the headland. Over the harbour’s mouth, over the two round towers and the black chain. Dragons.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p98",
+   "type": "narration",
+   "text": "Forty. More. Every pair from Gullhaven and twenty more from the Scarfell that Ulric had sent for. Red thread and grey. Bronze and black and red and green. In a long wheel, over the harbour, low, so low the ships’ masts swayed in the wind of them. Round the bowl of the harbour. Over the painted houses on the hills. Over the Tidehall’s copper roof.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p99",
+   "type": "narration",
+   "text": "Round. And round again.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 169,
+   "para": "p100",
+   "type": "narration",
+   "text": "The town came out on its roofs.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p101",
+   "type": "narration",
+   "text": "He saw them. Every roof of every tall narrow house on every hill round the harbour. People. Standing on the tiles, on the chimneys, on the gutters. Looking up. Thousands. Not screaming. Not running. Looking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p102",
+   "type": "narration",
+   "text": "The Council came out on its balcony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p103",
+   "type": "narration",
+   "text": "Marrow first. Then the others. Strand in his green, with his soft face gone hard. The Quill woman. The captains. They stood on the balcony of the Tidehall over the sea-steps and looked up at forty-odd dragons going round over their harbour.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p104",
+   "type": "narration",
+   "text": "Nobody in Corsa had seen the Clan over the city in force. Not in memory. Three dragons on the sea-steps in the autumn had been a wonder. This was the Scarfell.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 174,
+   "para": "p105",
+   "type": "narration",
+   "text": "Arn came down on the sea-steps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p106",
+   "type": "narration",
+   "text": "On his red. Heavy. On the bottom step, by the water, beside Kharrak. Ulric came down beside him on his grey, with the scar white through his eyebrow and his arms folded on his dragon’s neck. And Gunna on Tamsin, on the broad step above, slowly, with her old gold eyes half shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p107",
+   "type": "narration",
+   "text": "The rest went on wheeling overhead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p108",
+   "type": "narration",
+   "text": "Arn didn’t get down. He looked up at the balcony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p109",
+   "type": "speech",
+   "text": "“Mistress Marrow,”"
+  },
+  {
+   "seq": 179,
+   "para": "p109",
+   "type": "narration",
+   "text": "he said. He had a voice for it. He’d been the chief’s son."
+  },
+  {
+   "seq": 180,
+   "para": "p109",
+   "type": "speech",
+   "text": "“Arn Varr. Of the Clan.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p110",
+   "type": "speech",
+   "text": "“I know who you are,”"
+  },
+  {
+   "seq": 182,
+   "para": "p110",
+   "type": "narration",
+   "text": "said Marrow.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 183,
+   "para": "p111",
+   "type": "speech",
+   "text": "“When the sea comes up at Gullhaven,”"
+  },
+  {
+   "seq": 184,
+   "para": "p111",
+   "type": "narration",
+   "text": "said Arn,"
+  },
+  {
+   "seq": 185,
+   "para": "p111",
+   "type": "speech",
+   "text": "“the Clan will lift the spit. Off the roofs. Every roof with a white cross on it. Every person on it.”"
+  },
+  {
+   "seq": 186,
+   "para": "p111",
+   "type": "narration",
+   "text": "He looked up at the balcony."
+  },
+  {
+   "seq": 187,
+   "para": "p111",
+   "type": "speech",
+   "text": "“With the Council’s leave or without it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p112",
+   "type": "narration",
+   "text": "Nobody on the balcony said anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p113",
+   "type": "speech",
+   "text": "“I’d rather with,”"
+  },
+  {
+   "seq": 190,
+   "para": "p113",
+   "type": "narration",
+   "text": "said Arn."
+  },
+  {
+   "seq": 191,
+   "para": "p113",
+   "type": "speech",
+   "text": "“So I’m asking for the Council’s word that it won’t hinder.”"
+  },
+  {
+   "seq": 192,
+   "para": "p113",
+   "type": "narration",
+   "text": "He looked at Strand."
+  },
+  {
+   "seq": 193,
+   "para": "p113",
+   "type": "speech",
+   "text": "“Not a contract. A word.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p114",
+   "type": "narration",
+   "text": "Strand opened his mouth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p115",
+   "type": "speech",
+   "text": "“And one thing more,”"
+  },
+  {
+   "seq": 196,
+   "para": "p115",
+   "type": "narration",
+   "text": "said Arn. He looked down. At the bottom of the sea-steps, at a small neat man in grey gloves who’d come out of the Tidehall’s door to look up at the dragons with everyone else."
+  },
+  {
+   "seq": 197,
+   "para": "p115",
+   "type": "speech",
+   "text": "“Captain Vey has wyverns. Fast ones. Small. That can land where a dragon can’t.”"
+  },
+  {
+   "seq": 198,
+   "para": "p115",
+   "type": "narration",
+   "text": "He looked at Vey."
+  },
+  {
+   "seq": 199,
+   "para": "p115",
+   "type": "speech",
+   "text": "“The salt-pan sheds on the flats behind the harbour. They won’t take a dragon. There’ll be children on them. The Clan will pay Captain Vey’s wyverns to take the children off the sheds. Out of the Clan’s own purse.”"
+  },
+  {
+   "seq": 200,
+   "para": "p115",
+   "type": "narration",
+   "text": "He looked back up at the balcony."
+  },
+  {
+   "seq": 201,
+   "para": "p115",
+   "type": "speech",
+   "text": "“If the Captain will take the Clan’s coin.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 202,
+   "para": "p116",
+   "type": "narration",
+   "text": "Marrow looked at the dragons.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p117",
+   "type": "narration",
+   "text": "Up. At the wheel going round over her harbour. Forty of them. Red and grey. The wind of their wings coming down on the balcony and moving the salt-grey hair in its net.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p118",
+   "type": "narration",
+   "text": "Then at Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p119",
+   "type": "speech",
+   "text": "“The Council will not hinder,”"
+  },
+  {
+   "seq": 206,
+   "para": "p119",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p120",
+   "type": "narration",
+   "text": "Strand turned his head and looked at her. She didn’t look at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p121",
+   "type": "speech",
+   "text": "“I’ll take the coin,”"
+  },
+  {
+   "seq": 209,
+   "para": "p121",
+   "type": "narration",
+   "text": "said Vey. From the bottom of the steps. Pleasantly. He looked up at Arn."
+  },
+  {
+   "seq": 210,
+   "para": "p121",
+   "type": "speech",
+   "text": "“For the children. Not the reef. I’m already paid for the reef.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p122",
+   "type": "speech",
+   "text": "“Done,”"
+  },
+  {
+   "seq": 212,
+   "para": "p122",
+   "type": "narration",
+   "text": "said Arn.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 213,
+   "para": "p123",
+   "type": "narration",
+   "text": "He sent Lisska west that night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p124",
+   "type": "narration",
+   "text": "The three-hundred-and-thirty-third. From the Tidehall’s copper roof, in the dark, with the Clan’s dragons asleep along the sea-steps and the quays like a herd of cattle in a yard, and the town still out on its roofs looking at them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p125",
+   "type": "narration",
+   "text": "Two pages on her leg. In oilcloth. The one he’d written at Gullhaven, with the Clan’s promise in big letters at the top."
+  },
+  {
+   "seq": 216,
+   "para": "p125",
+   "type": "thought",
+   "text": "WHEN THE COAST IS DONE THE CLAN WILL COME TO THE RIVER."
+  },
+  {
+   "seq": 217,
+   "para": "p125",
+   "type": "narration",
+   "text": "And one from tonight, short, written on the roof by the light of a fish-oil lamp with Lisska watching him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p126",
+   "type": "thought",
+   "text": "The Council will not empty the spit. It is oyster season.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p127",
+   "type": "thought",
+   "text": "Vey has the contract. He is going out on the reef with harpoons.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p128",
+   "type": "thought",
+   "text": "The Clan came over Corsa today. All of them. The Council will not hinder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p129",
+   "type": "thought",
+   "text": "Vey’s wyverns will take the children off the sheds. Arn is paying.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 222,
+   "para": "p130",
+   "type": "thought",
+   "text": "The reader’s numbers are right. I read them to the Council myself.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p131",
+   "type": "thought",
+   "text": "Keep the door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p132",
+   "type": "speech",
+   "text": "“Greyhold,”"
+  },
+  {
+   "seq": 225,
+   "para": "p132",
+   "type": "narration",
+   "text": "he said. To Lisska."
+  },
+  {
+   "seq": 226,
+   "para": "p132",
+   "type": "speech",
+   "text": "“She’ll be at Greyhold. Or near it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p133",
+   "type": "bond",
+   "text": "I’ll find her,"
+  },
+  {
+   "seq": 228,
+   "para": "p133",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 229,
+   "para": "p133",
+   "type": "thought",
+   "text": "There’s a lion.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 230,
+   "para": "p134",
+   "type": "narration",
+   "text": "She went off the copper roof into the dark and turned west along the coast.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 231,
+   "para": "p135",
+   "type": "narration",
+   "text": "The grain ship was in the harbour on the three-hundred-and-thirty-fourth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 232,
+   "para": "p136",
+   "type": "narration",
+   "text": "He saw it from the quay in the morning. A fat cog, broad-bellied, riding low, with the crown’s blue on its sail and the Hallowmere seal painted on its stern. Tied up at the grain quay, with men carrying sacks up its plank all morning, one after another.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 233,
+   "para": "p137",
+   "type": "speech",
+   "text": "“Hearthmere’s,”"
+  },
+  {
+   "seq": 234,
+   "para": "p137",
+   "type": "narration",
+   "text": "said a harbour clerk beside him. A thin man with a ledger, counting the sacks."
+  },
+  {
+   "seq": 235,
+   "para": "p137",
+   "type": "speech",
+   "text": "“Bought with the crown’s last gold, they say. They sold the crown’s plate to pay for it. The dishes off the king’s own table.”"
+  },
+  {
+   "seq": 236,
+   "para": "p137",
+   "type": "narration",
+   "text": "He made a mark in his ledger."
+  },
+  {
+   "seq": 237,
+   "para": "p137",
+   "type": "speech",
+   "text": "“For Stillhaven. Then up the Meryl to Hallowmere. They’ve got bread riots there, I hear. No lamps, no wells, no bread.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 238,
+   "para": "p138",
+   "type": "narration",
+   "text": "Calder watched the sacks go up the plank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 239,
+   "para": "p139",
+   "type": "narration",
+   "text": "He’d been to Hallowmere once. In the autumn. He’d stood in the Crown’s Square with a red dragon behind him and three books in his arms. The people in the square had been thin then. Baskets with nothing in them. A man with a licence pinned to his coat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 240,
+   "para": "p140",
+   "type": "narration",
+   "text": "He thought of them standing in a line for bread that was on a fat cog in a Saltreach harbour, bought with the dishes off a king’s table.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 241,
+   "para": "p141",
+   "type": "narration",
+   "text": "He watched until the last sack went up. Then he went to find Arn, and the flights, and the coast road back to the spit.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "50ccc4533eedf60234a5a2879e9d8f775cbb3bfe",
+ "segments_sha1": "59cdeaf460989557194138fad28ee844a4ee1680"
+}

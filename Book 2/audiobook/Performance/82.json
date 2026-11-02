@@ -1,0 +1,942 @@
+{
+ "chapter": 82,
+ "title": "Fire Underground",
+ "pov": "",
+ "source": "Chapters/Chapter 82 - Fire Underground.md",
+ "names": [
+  "aurveth",
+  "calder",
+  "greyhold",
+  "kharrak",
+  "lisska",
+  "ruin",
+  "staithe",
+  "titan",
+  "vael",
+  "wend"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Eighty-two.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Fire Underground.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "At noon it stopped waiting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "He felt it through Aurveth. On the shingle at the Staithe, with her eyes shut. She lifted her head all at once, and he felt it go out through her into him, high over the river on Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "It had stopped pulling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "It was drawing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "He’d felt a draw before. At Vael. At the Bell. Lying on the reef with his face on the barnacles. The Deep going toward one place under everything, like the tide going out over a mud-flat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "This was that. Going into the hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "Not the chains. Through them. The Titan stood in the river under six white chains with its head low and drew on what was under Greyhold, the thing the reader called the hub, the held breath, and it all went toward it at once. Through the river. Through the bank. Through the hill. Through the old grey stone of the inner wall, that had been emptied by three hundred years of lamps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "And the chains fed on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "He saw them go brighter. All six, because the draw went through them too. They fed on what they held and what went through what they held, brighter and brighter, white, too white to look at.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "And the stone they hung on had nothing in it to carry them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "narration",
+   "text": "The cracks came out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p12",
+   "type": "narration",
+   "text": "On the face of the rock. Below the inner wall, round the great iron eyes. He saw them from the air. Fine at first. White. Spreading out from each eye across the grey rock like frost across a window.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p13",
+   "type": "narration",
+   "text": "Then not fine.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 16,
+   "para": "p14",
+   "type": "narration",
+   "text": "The first eye went with a crack like thunder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p15",
+   "type": "narration",
+   "text": "He heard it over the engines. Over everything. The bolt tore out of the rock, the whole iron eye, as big as a cart, with a mass of grey stone round it. And the chain it held came off the hill like a whip.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p16",
+   "type": "narration",
+   "text": "Across the river. In a long black curve, white along its inside. Into the water with a sound like a building falling. Brown water going up higher than the wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p17",
+   "type": "narration",
+   "text": "The second.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p18",
+   "type": "narration",
+   "text": "The third pulled a slab of the inner wall out with it. He saw it go. A piece of the wall as wide as a house, coming away from the hill, outward, toward the river, as the Kessmoor man had said it would. Not down. Out. Falling down the slope with the chain dragging it and going into the river in a cloud of grey dust.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 21,
+   "para": "p19",
+   "type": "narration",
+   "text": "The fourth eye dragged an engine.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p20",
+   "type": "narration",
+   "text": "The near one in the yard. On its bed of timber. The chain came off the hill and the engine came after it, the whole black iron barn of it, sliding across the yard on its timbers with its firebox open and its heartstones burning white inside, screaming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p21",
+   "type": "narration",
+   "text": "There was a man on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p22",
+   "type": "narration",
+   "text": "On the footplate. Very straight. In grey with the Blue College’s blue at the cuffs. With both his gloved hands on the great iron wheel of the governor, holding it, trying to hold the pressure.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p23",
+   "type": "narration",
+   "text": "Dane.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p24",
+   "type": "narration",
+   "text": "He didn’t let go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p25",
+   "type": "narration",
+   "text": "The engine went across the yard and through what was left of the inner wall’s broken face and over. Down the slope. Over and over. And Dane with it, and under it, and the firebox burst on the slope below the wall and the heartstones went out of it white across the grass like scattered coals.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 28,
+   "para": "p26",
+   "type": "narration",
+   "text": "Rowan’s horn went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p27",
+   "type": "narration",
+   "text": "Three notes. Short.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p28",
+   "type": "narration",
+   "text": "He didn’t know what it meant. Then he saw. On his bank, two hundred paces off, at the two Saltreach engines by the anchors, the crown’s men were running to the great drums. With hammers. Knocking out the pins.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p29",
+   "type": "narration",
+   "text": "The drums spun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p30",
+   "type": "narration",
+   "text": "The chains ran out. Off the drums. Into the river. Slack. Falling off the Titan’s back into the water, one after another, the white on them going out as they went in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p31",
+   "type": "narration",
+   "text": "On the hill, at the last engine in the yard, knights. Knocking out its pins.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p32",
+   "type": "narration",
+   "text": "Letting go.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 35,
+   "para": "p33",
+   "type": "narration",
+   "text": "Rowan let it go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p34",
+   "type": "narration",
+   "text": "He saw her get them off the hill. Her knights. The crown company. The thirty-odd people who’d stayed to feed the engines’ fires. A handful of boys from the grooms’ loft who’d hidden and not crossed. Down the jetty road, past the dead lamps, at a run, to the barge under the river wall, and onto it, and across, under the chains that weren’t chains any more, to his bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p35",
+   "type": "narration",
+   "text": "She was the last off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p36",
+   "type": "narration",
+   "text": "On foot. Down the jetty road. With her white surcoat torn half off her and her sword in her hand, not running, walking, looking back once at the hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p37",
+   "type": "narration",
+   "text": "At the inner wall. At the cellar door under it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p38",
+   "type": "narration",
+   "text": "Rubble from the torn wall was across it, to the lintel.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 41,
+   "para": "p39",
+   "type": "narration",
+   "text": "The Titan was free.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p40",
+   "type": "narration",
+   "text": "It stood in the river with the chains running off it. It lifted its head. Not toward the hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p41",
+   "type": "narration",
+   "text": "Upriver.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p42",
+   "type": "narration",
+   "text": "It turned in the Wend. Slowly. With the brown water going round it in a wave and over both banks. And walked. Up the river. Away from Greyhold. Away from the broken wall and the engines and the chains in the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p43",
+   "type": "narration",
+   "text": "Three leagues and a half.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p44",
+   "type": "narration",
+   "text": "He followed it on Kharrak, high. Up the valley. Past the Brackenwood’s edge, past Redwatch, up the river to where it turned. To the eddy where the island had been.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p45",
+   "type": "narration",
+   "text": "It went down into it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 48,
+   "para": "p46",
+   "type": "narration",
+   "text": "The eddy opened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p47",
+   "type": "narration",
+   "text": "He saw it. The slow wide turn of the river over the drowned stones of the island, going faster. Faster. A whirlpool. The whole Wend turning, going round and round and down, and the Titan going down into the middle of it. Its head first. Its back. The five grown-over places. The harpoons. The chain-ends trailing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p48",
+   "type": "narration",
+   "text": "Gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p49",
+   "type": "narration",
+   "text": "The river went down after it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 52,
+   "para": "p50",
+   "type": "bond",
+   "text": "Down,"
+  },
+  {
+   "seq": 53,
+   "para": "p50",
+   "type": "narration",
+   "text": "said Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p51",
+   "type": "narration",
+   "text": "She’d come. She’d got up off the shingle at the Staithe and flown three leagues and a half up the river after him, slowly, low, with her crooked wing, and he hadn’t known until she was beside him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p52",
+   "type": "thought",
+   "text": "It’s going home. Under. Where it lay."
+  },
+  {
+   "seq": 56,
+   "para": "p52",
+   "type": "narration",
+   "text": "She looked at the whirlpool."
+  },
+  {
+   "seq": 57,
+   "para": "p52",
+   "type": "thought",
+   "text": "Where the lion is.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p53",
+   "type": "narration",
+   "text": "He looked at the water going round. Brown. Then the black at the middle of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p54",
+   "type": "bond",
+   "text": "She’s down there,"
+  },
+  {
+   "seq": 60,
+   "para": "p54",
+   "type": "narration",
+   "text": "said Lisska.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p55",
+   "type": "narration",
+   "text": "He knew she was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p56",
+   "type": "speech",
+   "text": "“Down,”"
+  },
+  {
+   "seq": 63,
+   "para": "p56",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 64,
+   "para": "p57",
+   "type": "narration",
+   "text": "They went in after it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p58",
+   "type": "narration",
+   "text": "Kharrak first, folding his wings and going into the whirlpool like a stone into a well. Calder on his neck with his arms locked round it and his face against the plates and his breath held. Lisska behind. Aurveth last.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p59",
+   "type": "narration",
+   "text": "Brown water. Roaring. Turning. Cold enough to stop his heart.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p60",
+   "type": "narration",
+   "text": "Then black.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p61",
+   "type": "narration",
+   "text": "Then stone. Under them, going past. The island’s stones. Grey, square, cut, the old Ruin’s walls lying on the river-bed. And among them a hole. Black. Where the Ruin’s floor had gone in, the night of the chains, a year ago. Where he’d stood on the rim of it with Kharrak and watched a thin man’s lantern go up a stair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p62",
+   "type": "narration",
+   "text": "Kharrak went down through it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 70,
+   "para": "p63",
+   "type": "narration",
+   "text": "Air.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p64",
+   "type": "narration",
+   "text": "He came up out of the water gasping. Kharrak’s head out, then his. Breathing. In the dark. In air that was warm and still and smelled of nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p65",
+   "type": "narration",
+   "text": "Kharrak lit it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p66",
+   "type": "narration",
+   "text": "Fire. A long gout of it, gold, out over the water ahead of them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p67",
+   "type": "narration",
+   "text": "And he saw where he was.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 75,
+   "para": "p68",
+   "type": "narration",
+   "text": "The cavern.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p69",
+   "type": "narration",
+   "text": "The one it had lain in. For three hundred years. From under the Ruin to under Greyhold. He’d never seen it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p70",
+   "type": "narration",
+   "text": "It went away from him into the dark further than Kharrak’s fire reached. A roof of old grey stone, high, ribbed, like the inside of a whale. Walls going down into black water. Half full of it, still, ringed now with the waves the Titan made going through it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p71",
+   "type": "narration",
+   "text": "Behind him, at the Ruin end, the anchor-stones. Huge. Set into the cavern’s end wall. With iron eyes in them as big as the ones on the hill, and hanging from the eyes, rusted, each link as tall as a man, the stumps of the first chains.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p72",
+   "type": "narration",
+   "text": "And ahead, going away down the cavern in the dark, the Titan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p73",
+   "type": "narration",
+   "text": "Its back scraping the roof. Stone coming down off the roof behind it in falls. Going down the cavern toward Greyhold. Toward the far end.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p74",
+   "type": "narration",
+   "text": "Where there was a light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p75",
+   "type": "narration",
+   "text": "Gold. Very small. Very far off.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 83,
+   "para": "p76",
+   "type": "narration",
+   "text": "They flew.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p77",
+   "type": "narration",
+   "text": "Low over the black water, Kharrak and Lisska and Aurveth, in the dark under the river, with Kharrak’s fire going out ahead of them every few wingbeats to light the way. Gold. Then dark. Then gold. The ribs of the roof going past. The walls. The black water under them. The Titan’s wake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p78",
+   "type": "narration",
+   "text": "The gold light getting bigger.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p79",
+   "type": "narration",
+   "text": "He could see lanterns in it. Small. Yellow. And behind the lanterns, a wall of stone with rings on it. Gold rings. Moving.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 87,
+   "para": "p80",
+   "type": "narration",
+   "text": "The wyverns came out of the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p81",
+   "type": "narration",
+   "text": "Near the end. Out of the cavern’s far corner, from an arch in the wall low over the water. Screaming. Two of them. Black-green, barbed tails out straight, wings beating wild, coming at the dragons out of the dark over the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p82",
+   "type": "narration",
+   "text": "He knew them. Their shape. He’d seen wyverns on Vey’s ship. These were smaller. Thinner. With iron collars on their necks and chains hanging from the collars, broken.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p83",
+   "type": "narration",
+   "text": "Corvin’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p84",
+   "type": "narration",
+   "text": "Their binders had chained them in the old way’s mouth. And the river had come in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p85",
+   "type": "narration",
+   "text": "They were loose.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p86",
+   "type": "narration",
+   "text": "And there was nobody in them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 94,
+   "para": "p87",
+   "type": "narration",
+   "text": "Lisska called them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p88",
+   "type": "narration",
+   "text": "He felt her do it. The voice. The kin-voice. The one that had gone out from her on the Library roof at Vael and reached a yearling with nothing in its eyes. The one that had reached the young ones at Blackwater in the honey-smoke. The one Wren had had without knowing it, by the warm spring in the caves, talking about barley until a yearling turned its head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p89",
+   "type": "bond",
+   "text": "Come,"
+  },
+  {
+   "seq": 97,
+   "para": "p89",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 98,
+   "para": "p89",
+   "type": "thought",
+   "text": "You’re safe. Come to me. Come.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p90",
+   "type": "narration",
+   "text": "Nothing answered.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p91",
+   "type": "narration",
+   "text": "He felt it go out of her and into the dark and into the two screaming shapes and find nothing. Nobody. Not a bound thing with somebody behind its eyes, waiting. Not kin. A wyvern wasn’t kin. And there was nobody in a wyvern to hear.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p92",
+   "type": "bond",
+   "text": "There’s no one,"
+  },
+  {
+   "seq": 102,
+   "para": "p92",
+   "type": "narration",
+   "text": "said Lisska. Her voice small."
+  },
+  {
+   "seq": 103,
+   "para": "p92",
+   "type": "thought",
+   "text": "There’s no one there.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 104,
+   "para": "p93",
+   "type": "narration",
+   "text": "Kharrak drove them off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p94",
+   "type": "narration",
+   "text": "He didn’t say anything. He didn’t need to. He went at them. Fire. Gold. A wall of it across the water in front of them, so the cavern lit up from roof to water, and the wyverns screamed and turned in the air and went back. Into the dark. Into the arch they’d come out of. Into the old ways.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p95",
+   "type": "narration",
+   "text": "He heard them screaming for a long time. Further and further off. Then not.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 107,
+   "para": "p96",
+   "type": "narration",
+   "text": "The ledge was dry.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p97",
+   "type": "narration",
+   "text": "The high one. At the cavern’s end. In front of the wall with the gold rings, where the lanterns were. The black water came up to the edge of it and no further.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p98",
+   "type": "narration",
+   "text": "He brought Kharrak down on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p99",
+   "type": "narration",
+   "text": "On the old grey stone. Kharrak’s claws on it. Water pouring off them both.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p100",
+   "type": "narration",
+   "text": "Ten paces from the lion.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 112,
+   "para": "p101",
+   "type": "narration",
+   "text": "The lion turned his head and looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p102",
+   "type": "narration",
+   "text": "Huge. Bigger than on the River Road a year ago. Grey, with his mane soaked dark and a wound in his shoulder, blood. Standing on the ledge with his back to the wall of gold rings.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p103",
+   "type": "narration",
+   "text": "He looked at Calder for a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p104",
+   "type": "bond",
+   "text": "He says you’re late,"
+  },
+  {
+   "seq": 116,
+   "para": "p104",
+   "type": "narration",
+   "text": "said Lisska.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 117,
+   "para": "p105",
+   "type": "narration",
+   "text": "She was beside the lion.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p106",
+   "type": "narration",
+   "text": "With her back to the wall. With her palm flat on the stone behind her, on the gold rings. Small. Soaked to the shoulders. Haverly’s sword at her hip, dark. And her face, in the gold light coming off the stone, turned toward him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p107",
+   "type": "narration",
+   "text": "A thin man at her shoulder. Holding a lantern he didn’t need.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p108",
+   "type": "narration",
+   "text": "The reader.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p109",
+   "type": "narration",
+   "text": "Behind them, along the ledge toward a low arch in the cavern’s far corner, men. Lanterns. Spears. Drawing back. And in the arch itself, standing very still, a tall thin man in black.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p110",
+   "type": "narration",
+   "text": "Watching.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 123,
+   "para": "p111",
+   "type": "speech",
+   "text": "“You kept it,”"
+  },
+  {
+   "seq": 124,
+   "para": "p111",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p112",
+   "type": "narration",
+   "text": "Maren looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p113",
+   "type": "speech",
+   "text": "“Not yet,”"
+  },
+  {
+   "seq": 127,
+   "para": "p113",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 128,
+   "para": "p114",
+   "type": "narration",
+   "text": "The stone was screaming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p115",
+   "type": "narration",
+   "text": "Under her hand. He heard it now. Over the water. Over the falls coming down off the roof behind them. Out of the wall of gold rings. A sound out of the rock itself, high and long and thin, like iron being torn, like a beast he’d never heard. Going on and on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p116",
+   "type": "narration",
+   "text": "The rings on the wall were moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p117",
+   "type": "narration",
+   "text": "Turning. Faster. Round and round under her palm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p118",
+   "type": "narration",
+   "text": "He looked back down the cavern.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p119",
+   "type": "narration",
+   "text": "The Titan’s head was coming out of the dark.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "3d938b013275de52113530805988e8f17db87159",
+ "segments_sha1": "d2ce7d7909bc567e63ba71bb34ffe88b9f1cd27b"
+}

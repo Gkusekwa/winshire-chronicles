@@ -1,0 +1,1728 @@
+{
+ "chapter": 33,
+ "title": "The Iron Fells",
+ "pov": "",
+ "source": "Chapters/Chapter 33 - The Iron Fells.md",
+ "names": [
+  "brask",
+  "calder",
+  "choosing",
+  "crown",
+  "isvaren",
+  "kharrak",
+  "lisska",
+  "scarfell",
+  "tasso",
+  "vael"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Thirty-three.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Iron Fells.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The Iron Fells came up out of the north on the hundred-and-thirty-fifth day, and he’d never seen mountains like them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "He’d thought the Scarfell was high. He’d thought the fells above Coldtarn were high, with snow in the gullies into spring. These were something else. A long grey wall, running away north-west and south-east along the whole of the sky, steep, broken, the rock of them not grey all through but stained in the gullies a deep rust-red, as if they’d bled. And snow. Along the tops, in high summer, white, so bright against the blue it hurt to look.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "bond",
+   "text": "Iron,"
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "narration",
+   "text": "said Kharrak."
+  },
+  {
+   "seq": 7,
+   "para": "p3",
+   "type": "thought",
+   "text": "I can taste it. In the air.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p4",
+   "type": "speech",
+   "text": "“Iron?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p5",
+   "type": "thought",
+   "text": "In the rock. All of it."
+  },
+  {
+   "seq": 10,
+   "para": "p5",
+   "type": "narration",
+   "text": "The red dragon flew on, slow, into a headwind."
+  },
+  {
+   "seq": 11,
+   "para": "p5",
+   "type": "thought",
+   "text": "It tastes like blood. I like it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p6",
+   "type": "narration",
+   "text": "On the south side, the near side, there were mines. Calder could see them from the air: black holes in the mountain-flanks, and spoil-heaps going down from them grey and red, and smoke, and tracks, and little stone huts. Kessmoor’s side, Brask had said. Kessmoor dug iron out of the Fells and burned the hills to do it. On the far side, he’d been told, there were only goats.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p7",
+   "type": "narration",
+   "text": "And somewhere beyond the far side, north-west, a city with a library in it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 14,
+   "para": "p8",
+   "type": "narration",
+   "text": "He didn’t know where to look.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p9",
+   "type": "narration",
+   "text": "He’d known that when he left the fishing-hamlet. He’d known it when Brask read the line in the mint-book by the shuttered lamp:"
+  },
+  {
+   "seq": 16,
+   "para": "p9",
+   "type": "thought",
+   "text": "North. For a library."
+  },
+  {
+   "seq": 17,
+   "para": "p9",
+   "type": "narration",
+   "text": "He hadn’t known where in the north, or which library, or how many libraries there were in the world. He’d thought there was probably only one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p10",
+   "type": "narration",
+   "text": "The clerk in the mint had known a bit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p11",
+   "type": "remembered",
+   "text": "The colleges at Vael,"
+  },
+  {
+   "seq": 20,
+   "para": "p11",
+   "type": "narration",
+   "text": "Piers Abbot had said, babbling on his pallet."
+  },
+  {
+   "seq": 21,
+   "para": "p11",
+   "type": "remembered",
+   "text": "Up the Wend and over the pass."
+  },
+  {
+   "seq": 22,
+   "para": "p11",
+   "type": "narration",
+   "text": "Calder had asked Brask, by the driftwood fire, where Vael was. North, Brask said. Over the Iron Fells, by a lake, under the mountains at the top of the world. Where the colleges were. Where the scholars lived who thought a bond was wild power and wrote it down in a book.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p12",
+   "type": "speech",
+   "text": "“Is there a library?”"
+  },
+  {
+   "seq": 24,
+   "para": "p12",
+   "type": "narration",
+   "text": "Calder had asked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p13",
+   "type": "narration",
+   "text": "Brask had laughed."
+  },
+  {
+   "seq": 26,
+   "para": "p13",
+   "type": "speech",
+   "text": "“There’s nothing but libraries, they say.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p14",
+   "type": "narration",
+   "text": "He lay in a corrie on the south flank on the first night, with his back against Kharrak’s warm side and the stars very close, and thought about that. A city of libraries, by a lake. And Corvin’s hunters going north with four bound young dragons, for a library.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p15",
+   "type": "narration",
+   "text": "He thought they’d be somewhere between here and there.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 29,
+   "para": "p16",
+   "type": "narration",
+   "text": "They searched the passes for five days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p17",
+   "type": "narration",
+   "text": "From the air, high, at dawn and at dusk, when the light was low and you could see the shadows of things. Kharrak flew it slow along the range with Calder on his neck and Lisska ranging ahead and below, a green spark going in and out of the valleys. By day they lay up in the high corries out of sight, in the snow, because a red dragon over the Iron Fells at noon would be seen from both kingdoms.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p18",
+   "type": "narration",
+   "text": "He didn’t know what he was looking for. Fires. Tents. Smoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p19",
+   "type": "narration",
+   "text": "Honey-smoke, Lisska said."
+  },
+  {
+   "seq": 33,
+   "para": "p19",
+   "type": "thought",
+   "text": "I’ll smell it. If it’s there. I’ll smell it from a league."
+  },
+  {
+   "seq": 34,
+   "para": "p19",
+   "type": "narration",
+   "text": "And then, quieter:"
+  },
+  {
+   "seq": 35,
+   "para": "p19",
+   "type": "thought",
+   "text": "I don’t want to. But I will.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p20",
+   "type": "narration",
+   "text": "The passes went by under them. Goat-tracks on the Isvaren side, white with the goats themselves, going up and down the screes. Shielings, little turf-roofed huts in the high valleys with smoke going up. A pair of sabrecats on a ledge, grey and tawny, that lifted their great fanged heads to watch the red dragon go over and didn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p21",
+   "type": "narration",
+   "text": "Nothing else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p22",
+   "type": "narration",
+   "text": "On the fifth day, the hundred-and-fortieth, Lisska went off on her own.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 39,
+   "para": "p23",
+   "type": "narration",
+   "text": "He didn’t send her. She went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p24",
+   "type": "narration",
+   "text": "At dusk. North, along the snow-line, along the tops of the Fells where they ran up toward the High Crown, fast, alone, without saying. He felt her go: a bright green thread at the back of his head, getting thinner. He lay in the corrie and felt her go north along the ridge, and turn a little, west, and then drop.",
+   "mood": "urgent",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p25",
+   "type": "narration",
+   "text": "Down. Into a valley. Out of the sky.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p26",
+   "type": "narration",
+   "text": "The thread didn’t break. It went very thin, and very quiet, and stayed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p27",
+   "type": "narration",
+   "text": "He lay with his hand on Kharrak’s side and waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p28",
+   "type": "narration",
+   "text": "She came back after dark. Low and slow and shaking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p29",
+   "type": "bond",
+   "text": "I found them,"
+  },
+  {
+   "seq": 46,
+   "para": "p29",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 47,
+   "para": "p30",
+   "type": "narration",
+   "text": "The camp was in a high pass on the Isvaren side of the Fells, a few hours’ flight south-east of the lake, six days by the cornice pass on foot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p31",
+   "type": "narration",
+   "text": "He saw it at dawn on the hundred-and-forty-first day from a ridge above it, lying on his belly in the snow with Lisska beside him and Kharrak a quarter-league back in a gully, out of sight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p32",
+   "type": "narration",
+   "text": "A bowl. A high hollow in the mountain-top, under a cornice of old snow that hung over its north side like a wave about to break. A dozen tents in the bowl, grey, low. A rope corral. Fires. A hearth of flat stones in the middle with pots on it, iron pots with lids, smouldering. And from the hearth, a trench, cut in the turf and the snow, running across the bowl to its far side.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p33",
+   "type": "narration",
+   "text": "Smoke went along the trench. White. Sweet. He could smell it from the ridge. It came out of the pots on the hearth and went along the trench, low, on the ground, like water along a ditch, to the far side of the bowl.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p34",
+   "type": "narration",
+   "text": "To the dragons.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 52,
+   "para": "p35",
+   "type": "narration",
+   "text": "Four.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p36",
+   "type": "narration",
+   "text": "Lying in a row at the end of the trench, in the smoke, on chains. Chains from their collars to iron stakes in the rock. The big bronze, the biggest young dragon on the Choosing Ledge that night, lying with his head on the turf. The black. The two reds, one a two-year-old, nearly as big as the black, and one small. A yearling. Hardly bigger than Lisska had been when she first came down in the barley field.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p37",
+   "type": "narration",
+   "text": "Collared. Six dots on the outside of each collar, white paint.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p38",
+   "type": "narration",
+   "text": "Their eyes were open. He could see that from the ridge. Open, and nobody behind them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p39",
+   "type": "narration",
+   "text": "On a ledge above the bowl, two wyverns. Black-green. In their own collars. Lying with their wings folded and their barbed tails hanging down the rock, and their eyes empty too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p40",
+   "type": "narration",
+   "text": "And men. Twenty, perhaps. In plain coats. Hunters. Moving between the tents and the fires, cooking, sitting, talking, the ordinary sounds of a camp coming up to him small in the thin air. Four of them were different. They didn’t cook. They sat by the hearth with the smoking pots, two by day and two by night, and fed the pots, and every so often one of them got up and walked along the trench to the four young dragons and put his hand on each head in turn, as you’d touch a horse to make sure it was still there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p41",
+   "type": "narration",
+   "text": "Binders.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p42",
+   "type": "narration",
+   "text": "And one more, by himself, at the edge of the camp. A man in a plain coat who did nothing at all. He sat on a rock with his hands in his lap and looked at the snow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p43",
+   "type": "narration",
+   "text": "Calder didn’t know what he was. He thought he did.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 61,
+   "para": "p44",
+   "type": "narration",
+   "text": "He lay on the ridge all day and watched.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p45",
+   "type": "narration",
+   "text": "He couldn’t take it. He knew that by noon. He’d known it at dawn, if he was honest. Twenty men. Four binders. A man on a rock who might be a drawer. Two wyverns. Four bound dragons who’d do what the binders’ wills told them. In a bowl full of honey-smoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p46",
+   "type": "narration",
+   "text": "The smoke was the worst of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p47",
+   "type": "narration",
+   "text": "He felt Lisska beside him in the snow, lying flat, with her chin on the ridge, smelling it. She’d smelled it from a league off; she’d come back shaking. Now she lay in it, faint, coming up the slope on the cold air, and he could feel her through the bond: the rope. Not slipping. Not yet. But he could feel the knot at her end of it, and it was tight, and it was being pulled.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p48",
+   "type": "narration",
+   "text": "If they went down into the bowl, into the trench’s smoke, she’d go out on the water again. Kharrak would go under, and come back on his own fury, maybe. Maybe not. And Calder would be holding the green dragon’s rope with both hands and the red dragon’s tide with nothing, in a bowl of twenty men with crossbows.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p49",
+   "type": "narration",
+   "text": "He’d seen what happened on the Choosing Ledge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p50",
+   "type": "narration",
+   "text": "He lay on the ridge with the sun going over and watched a binder walk along the trench and put his hand on the yearling’s head, and didn’t go down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 68,
+   "para": "p51",
+   "type": "narration",
+   "text": "Lisska called on the hundred-and-forty-third day, at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p52",
+   "type": "narration",
+   "text": "She didn’t ask him. She’d been lying on the ridge beside him for three days, watching the young dragons in the smoke, and not talking. Then at dusk on the third day she got up and went along the ridge on her belly, slowly, in the snow, like a cat along a wall. To the east end of it, where it came down nearest to the far side of the bowl. Where she could see them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p53",
+   "type": "narration",
+   "text": "He didn’t stop her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p54",
+   "type": "narration",
+   "text": "Dragons speak as kin within sight. He’d known that since the barley field. They talked to each other, the three of his, all the time, in a way he only half heard, like voices in another room. Within sight. A dragon on one ledge to a dragon on another. A mother to a hatchling across a cave.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p55",
+   "type": "narration",
+   "text": "Lisska lay at the east end of the ridge with her head just over the edge of it and looked down at the young dragons lying in the smoke, and called.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 73,
+   "para": "p56",
+   "type": "narration",
+   "text": "He heard it, though there weren’t words.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p57",
+   "type": "narration",
+   "text": "It was the call the ledges’ dragons gave the young ones. He’d heard it at the Roosts, in the mornings, from the cave mouths: a low, rising, falling sound, a hum, the sound a mother dragon makes over an egg in the warm sand of a hatching bowl. He’d never heard Lisska make it. He didn’t know she could. It came out of her and went down the slope into the bowl in the dusk, very quiet, so quiet the hunters by their fires didn’t hear it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p58",
+   "type": "narration",
+   "text": "It went to the smallest of the four. The yearling. The young red.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p59",
+   "type": "narration",
+   "text": "He saw her lift her head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p60",
+   "type": "narration",
+   "text": "From the ridge. Small, in the dusk, at the end of the trench, in the smoke. The young red lifted her head off the turf, slowly, the chain clinking. And turned it. Up the slope. Toward the ridge. Toward where Lisska lay.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p61",
+   "type": "narration",
+   "text": "And her eyes were her own.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p62",
+   "type": "narration",
+   "text": "He saw it. Even from the ridge, even in the dusk. Something came back into them, a little: a small frightened bright thing, looking out, like a face at a window in a house where you’d thought nobody lived. She looked straight up at the ridge. At Lisska.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p63",
+   "type": "narration",
+   "text": "For one breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p64",
+   "type": "narration",
+   "text": "Then the smoke came along the trench over her, white, and one of the binders by the hearth looked up, and got up, and walked along the trench to her, and put his hand on her head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p65",
+   "type": "narration",
+   "text": "She went empty.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 83,
+   "para": "p66",
+   "type": "narration",
+   "text": "Lisska came back along the ridge shaking so hard the snow came off her scales.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p67",
+   "type": "bond",
+   "text": "She heard me,"
+  },
+  {
+   "seq": 85,
+   "para": "p67",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 86,
+   "para": "p67",
+   "type": "thought",
+   "text": "Calder. She heard me. She looked at me.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p68",
+   "type": "speech",
+   "text": "“I saw.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p69",
+   "type": "thought",
+   "text": "For one breath. She was there. She was frightened. She didn’t know where she was."
+  },
+  {
+   "seq": 89,
+   "para": "p69",
+   "type": "narration",
+   "text": "Lisska put her head down in the snow beside him."
+  },
+  {
+   "seq": 90,
+   "para": "p69",
+   "type": "thought",
+   "text": "She’s only little. She’s only a baby. She looked at me as if I were her mother.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p70",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p71",
+   "type": "thought",
+   "text": "And then the man put his hand on her and she went away again."
+  },
+  {
+   "seq": 93,
+   "para": "p71",
+   "type": "narration",
+   "text": "The green dragon’s voice cracked."
+  },
+  {
+   "seq": 94,
+   "para": "p71",
+   "type": "thought",
+   "text": "She went away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p72",
+   "type": "narration",
+   "text": "He put his hand on her neck. It was cold, the scales, colder than he’d ever felt them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p73",
+   "type": "bond",
+   "text": "She heard me,"
+  },
+  {
+   "seq": 97,
+   "para": "p73",
+   "type": "narration",
+   "text": "said Lisska again."
+  },
+  {
+   "seq": 98,
+   "para": "p73",
+   "type": "thought",
+   "text": "She’s still in there. A bit. She heard me.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p74",
+   "type": "speech",
+   "text": "“Then you can call her again,”"
+  },
+  {
+   "seq": 100,
+   "para": "p74",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 101,
+   "para": "p74",
+   "type": "speech",
+   "text": "“Some time. When we’re close. When there’s no smoke.”"
+  },
+  {
+   "seq": 102,
+   "para": "p74",
+   "type": "narration",
+   "text": "He kept his hand on her neck."
+  },
+  {
+   "seq": 103,
+   "para": "p74",
+   "type": "speech",
+   "text": "“She’ll know your voice now.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p75",
+   "type": "narration",
+   "text": "Lisska lay in the snow and didn’t say anything for a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p76",
+   "type": "bond",
+   "text": "Yes,"
+  },
+  {
+   "seq": 106,
+   "para": "p76",
+   "type": "narration",
+   "text": "she said at last."
+  },
+  {
+   "seq": 107,
+   "para": "p76",
+   "type": "thought",
+   "text": "She’ll know my voice.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 108,
+   "para": "p77",
+   "type": "narration",
+   "text": "The storm came on the hundred-and-forty-fifth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p78",
+   "type": "narration",
+   "text": "Out of the north, off the High Crown, in the afternoon. A wall of grey that came down the range like a curtain being drawn, and when it hit, it was sleet, and then snow, in high summer, so thick and so driven that he couldn’t see Kharrak’s head from his neck. They got down into the gully a quarter-league back from the ridge and Kharrak lay across the mouth of it with his wings half open over Calder and Lisska like a tent, and the snow came down on the red dragon’s back and melted as it touched him and ran off steaming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p79",
+   "type": "narration",
+   "text": "It went on all night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p80",
+   "type": "narration",
+   "text": "In the morning it stopped. The sky came out very blue, and the Fells were white from top to bottom, every gully and scree and ledge, and so bright it was like looking at the sun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p81",
+   "type": "narration",
+   "text": "Lisska went up to look at the camp. She came back fast.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p82",
+   "type": "bond",
+   "text": "There’s a boy,"
+  },
+  {
+   "seq": 114,
+   "para": "p82",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 115,
+   "para": "p83",
+   "type": "narration",
+   "text": "He was in a gully below the pass, on the Isvaren side, a quarter-league from the camp.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p84",
+   "type": "narration",
+   "text": "Lying in the snow. Curled up, as you curl in a bed. A boy of twelve, perhaps, in a sheepskin coat with the fleece turned in, and sheepskin leggings, and no hat. There was frost in his hair. White. His face was grey-blue, and his lips were blue, and he wasn’t shivering.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p85",
+   "type": "narration",
+   "text": "Calder had seen it before. On the Scarfell, in the winter of the bad snows, when he was a boy himself. A shepherd from Ewe Hollow they’d found in a drift after three days, curled up just like that, not shivering. His father had said: when they stop shivering, it’s bad. When they stop shivering, they’ve stopped fighting it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p86",
+   "type": "narration",
+   "text": "He knelt in the snow and put his hand on the boy’s face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p87",
+   "type": "narration",
+   "text": "Cold. Like stone. But under it, very faint, a breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Kharrak,”"
+  },
+  {
+   "seq": 121,
+   "para": "p88",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 122,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Fire. Here. Now.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p89",
+   "type": "narration",
+   "text": "The red dragon looked at the gully. At the snow, waist-deep in it, and the wind coming down off the pass, and nothing to burn but the boy’s coat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p90",
+   "type": "bond",
+   "text": "On what?"
+  },
+  {
+   "seq": 125,
+   "para": "p90",
+   "type": "narration",
+   "text": "said Kharrak.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 126,
+   "para": "p91",
+   "type": "narration",
+   "text": "There was nothing to burn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p92",
+   "type": "narration",
+   "text": "He looked. He knew there wasn’t. No wood, not up here, not a twig, not a heather-root; the Fells above the shielings were bare rock and snow. Kharrak could breathe fire on the snow and it would turn to water and then freeze again. Kharrak could breathe fire on the boy and he’d be ash.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 128,
+   "para": "p93",
+   "type": "narration",
+   "text": "He knelt in the snow with his hand on the boy’s cold face and thought.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p94",
+   "type": "narration",
+   "text": "His mother. Kneeling at the hearth every night of his life with two fingers to the kindling, turning her hand three times, saying the word. The hearth-word. For warming. For lighting a fire, yes, but that wasn’t what it was. Ada had told him once, when he was small and asked why the word was for kindling and not for fire."
+  },
+  {
+   "seq": 130,
+   "para": "p94",
+   "type": "thought",
+   "text": "It’s not for fire,"
+  },
+  {
+   "seq": 131,
+   "para": "p94",
+   "type": "narration",
+   "text": "she’d said."
+  },
+  {
+   "seq": 132,
+   "para": "p94",
+   "type": "thought",
+   "text": "It’s for warm. Fire’s only what warm looks like when it’s got something to eat.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p95",
+   "type": "narration",
+   "text": "He’d never said it. Not once. Not in thirty-two years. It was his mother’s word. Women’s word, he’d thought, when he was a boy. Hearth-word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p96",
+   "type": "narration",
+   "text": "He didn’t have kindling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p97",
+   "type": "narration",
+   "text": "He put both his hands flat on the boy’s chest, on the sheepskin, over the heart. And turned them. Three times. Slowly, as Ada did it, not hurrying. And on the third turn he said the word, with the catch in the middle of it like a breath drawn in, the way he’d heard her say it ten thousand times.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p98",
+   "type": "narration",
+   "text": "And Kharrak put his head down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 137,
+   "para": "p99",
+   "type": "narration",
+   "text": "He felt it come.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p100",
+   "type": "narration",
+   "text": "He hadn’t asked for it. The red dragon put his great head down over Calder’s shoulders from behind, as Skell had put his chin on Tor’s, and the old one had held him on the night of the smoke. And the heat came down the bond.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p101",
+   "type": "narration",
+   "text": "Not the red tide. Not the fury. The other thing. The heat that was always in Kharrak, under everything, the forge-heat that came off his scales so you could sit against him in the snow and be warm. It came down the bond out of the red dragon and into Calder, into his chest, his arms, his hands. Into the word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p102",
+   "type": "narration",
+   "text": "The word went into the boy.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p103",
+   "type": "narration",
+   "text": "He felt it go. Like the cattle-word into the old elk cow on the top field. Like a stone into a pond, hitting the bottom.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p104",
+   "type": "narration",
+   "text": "And it took too hard.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 143,
+   "para": "p105",
+   "type": "narration",
+   "text": "The sheepskin smoked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p106",
+   "type": "narration",
+   "text": "Under his palms. The fleece of the boy’s coat, turned in, against his chest: it smoked. A thin grey smoke, coming up between Calder’s fingers, and the smell of singed wool, sharp, like a sheep at the shearing when the shears catch it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p107",
+   "type": "narration",
+   "text": "His palms burned.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p108",
+   "type": "narration",
+   "text": "Not hot. Burning. The skin of them, flat on the sheepskin, going hot and then hotter and then something past hot, so that he wanted to snatch them away as you snatch your hand off a stove. He didn’t. He held them there. Flat. On the boy’s chest. With the smoke coming up between his fingers and Kharrak’s head over his shoulder and the heat coming down the bond and through him and out of his hands, too much, far too much, more than any hearth-word was ever meant to carry.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p109",
+   "type": "bond",
+   "text": "Farmer,"
+  },
+  {
+   "seq": 148,
+   "para": "p109",
+   "type": "narration",
+   "text": "said Kharrak."
+  },
+  {
+   "seq": 149,
+   "para": "p109",
+   "type": "thought",
+   "text": "Farmer, it’s too…",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p110",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p111",
+   "type": "thought",
+   "text": "You’ll burn him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p112",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p113",
+   "type": "narration",
+   "text": "He didn’t take his hands away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p114",
+   "type": "narration",
+   "text": "Under them, under the smoking fleece, the boy’s chest moved.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 155,
+   "para": "p115",
+   "type": "narration",
+   "text": "It heaved. Once. Like a bellows. And the boy coughed, a great tearing cough that came up out of him from the bottom of his lungs, and his eyes opened, and he screamed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p116",
+   "type": "narration",
+   "text": "Not with pain. With cold. With coming back. The way a newborn screams. He screamed and coughed and screamed and began, at last, to shiver, a great racking shiver that went through his whole body under Calder’s hands, so hard his teeth rattled.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p117",
+   "type": "narration",
+   "text": "Calder took his hands away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p118",
+   "type": "narration",
+   "text": "The heat went back up the bond into Kharrak. He felt it go. The red dragon lifted his head off Calder’s shoulder and stood back and looked at the boy, screaming and shivering and alive in the snow with a black scorched patch on the front of his sheepskin the size of two hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p119",
+   "type": "narration",
+   "text": "Calder looked at his own hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p120",
+   "type": "narration",
+   "text": "The palms were red. Raw. Blisters coming up across them already, white, in lines, where the creases were. He looked at them and they didn’t hurt yet. He knew they would.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p121",
+   "type": "bond",
+   "text": "You held on,"
+  },
+  {
+   "seq": 162,
+   "para": "p121",
+   "type": "narration",
+   "text": "said Kharrak."
+  },
+  {
+   "seq": 163,
+   "para": "p121",
+   "type": "thought",
+   "text": "It was too hot and you held on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p122",
+   "type": "speech",
+   "text": "“He’s shivering.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p123",
+   "type": "bond",
+   "text": "He’s shivering,"
+  },
+  {
+   "seq": 166,
+   "para": "p123",
+   "type": "narration",
+   "text": "said Kharrak, as if that explained it. And then, after a moment, in a voice Calder had never heard him use: Good.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 167,
+   "para": "p124",
+   "type": "narration",
+   "text": "His palms were raw for a week.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p125",
+   "type": "narration",
+   "text": "He tore strips off the tail of his shirt and wrapped them, there in the gully, with the boy shivering in his arms inside his own coat. Lisska lay down against the boy’s other side, close, and the boy put his frozen hands on her green scales and stopped screaming and stared at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p126",
+   "type": "narration",
+   "text": "Then he started to cry, the ordinary way, and didn’t stop.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 170,
+   "para": "p127",
+   "type": "narration",
+   "text": "His name was Tasso.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p128",
+   "type": "narration",
+   "text": "He told Calder in the afternoon, in the gully, when he could talk, in the hill-talk of the Isvaren side, which was not so different from the hill-talk of the Scarfell that Calder couldn’t follow some of it. The rest he got from the boy’s hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p129",
+   "type": "narration",
+   "text": "He was a goat-herd. His family had a shieling two valleys over, on the Isvaren side, and a hundred goats. A fortnight ago men had come up to the shieling. Hunters, in plain coats, with crossbows. They wanted a guide over the pass, the high one, where nobody went in summer because of the cornice. They’d paid his father in silver. New silver. They’d taken Tasso.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p130",
+   "type": "narration",
+   "text": "Calder didn’t ask what was on the rim of the silver. He knew.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p131",
+   "type": "narration",
+   "text": "They’d made him lead them up to the bowl under the cornice, and then they’d kept him there. Fetching water. Carrying wood up from the shielings, three hours down and five back. Feeding the pots.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p132",
+   "type": "speech",
+   "text": "“The sweet pots,”"
+  },
+  {
+   "seq": 176,
+   "para": "p132",
+   "type": "narration",
+   "text": "said Tasso, and shivered, and not from cold."
+  },
+  {
+   "seq": 177,
+   "para": "p132",
+   "type": "speech",
+   "text": "“For the dragons. All day. All night. Day and night. You can’t sleep for the smell.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p133",
+   "type": "narration",
+   "text": "When the storm came he’d run. In the white-out, in the night. He’d thought he knew the way down. He hadn’t. He’d got lost in the snow and lain down in the gully to wait for morning, and then he couldn’t remember anything.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 179,
+   "para": "p134",
+   "type": "speech",
+   "text": "“What are they waiting for?”"
+  },
+  {
+   "seq": 180,
+   "para": "p134",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p135",
+   "type": "narration",
+   "text": "The boy looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p136",
+   "type": "speech",
+   "text": "“They’re waiting,”"
+  },
+  {
+   "seq": 183,
+   "para": "p136",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 184,
+   "para": "p136",
+   "type": "speech",
+   "text": "“A fortnight, you said. In that bowl. With the pots going. Waiting for what?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p137",
+   "type": "narration",
+   "text": "Tasso thought about it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p138",
+   "type": "speech",
+   "text": "“For a word,”"
+  },
+  {
+   "seq": 187,
+   "para": "p138",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 188,
+   "para": "p138",
+   "type": "speech",
+   "text": "“From the city. A bird comes, sometimes. A lantern owl, at night. With a paper. The captain reads it.”"
+  },
+  {
+   "seq": 189,
+   "para": "p138",
+   "type": "narration",
+   "text": "He frowned, remembering."
+  },
+  {
+   "seq": 190,
+   "para": "p138",
+   "type": "speech",
+   "text": "“He says: not yet. He says: when the hill burns all through.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p139",
+   "type": "speech",
+   "text": "“What hill?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p140",
+   "type": "speech",
+   "text": "“The city’s hill. Where the colleges are.”"
+  },
+  {
+   "seq": 193,
+   "para": "p140",
+   "type": "narration",
+   "text": "Tasso pointed, north-west, down the long valley, toward something Calder couldn’t see."
+  },
+  {
+   "seq": 194,
+   "para": "p140",
+   "type": "speech",
+   "text": "“They say when the hill burns all through, they go. To the library. To the bird.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p141",
+   "type": "speech",
+   "text": "“What bird?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p142",
+   "type": "speech",
+   "text": "“The old bird. In the library. That talks.”"
+  },
+  {
+   "seq": 197,
+   "para": "p142",
+   "type": "narration",
+   "text": "The boy looked at him as if he were stupid."
+  },
+  {
+   "seq": 198,
+   "para": "p142",
+   "type": "speech",
+   "text": "“Everybody knows the old bird. My grandmother saw it once. When she was a girl, at a fair.”"
+  },
+  {
+   "seq": 199,
+   "para": "p142",
+   "type": "narration",
+   "text": "He pulled the coat tighter."
+  },
+  {
+   "seq": 200,
+   "para": "p142",
+   "type": "speech",
+   "text": "“They’re going to the bird for a paper. The captain said. A paper the bird’s got, that he’s been paid to fetch.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p143",
+   "type": "narration",
+   "text": "Calder sat very still in the snow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p144",
+   "type": "speech",
+   "text": "“And the man on the rock,”"
+  },
+  {
+   "seq": 203,
+   "para": "p144",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 204,
+   "para": "p144",
+   "type": "speech",
+   "text": "“At the edge of the camp. Who doesn’t do anything.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p145",
+   "type": "narration",
+   "text": "Tasso went white.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p146",
+   "type": "speech",
+   "text": "“He doesn’t talk,”"
+  },
+  {
+   "seq": 207,
+   "para": "p146",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 208,
+   "para": "p146",
+   "type": "speech",
+   "text": "“He’s from the coast. From Saltreach. He doesn’t do anything. He just sits.”"
+  },
+  {
+   "seq": 209,
+   "para": "p146",
+   "type": "narration",
+   "text": "The boy’s voice dropped."
+  },
+  {
+   "seq": 210,
+   "para": "p146",
+   "type": "speech",
+   "text": "“The others are frightened of him. When the snow-cats came down off the tops the second night, the big ones, the sabrecats, he got up off his rock and put his hand out at them, flat, like that, and they went over backward. Both of them. Into the snow. Without him touching them.”"
+  },
+  {
+   "seq": 211,
+   "para": "p146",
+   "type": "narration",
+   "text": "Tasso shivered."
+  },
+  {
+   "seq": 212,
+   "para": "p146",
+   "type": "speech",
+   "text": "“Then he sat down again.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 213,
+   "para": "p147",
+   "type": "narration",
+   "text": "He took the boy home on the hundred-and-forty-sixth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p148",
+   "type": "narration",
+   "text": "On Kharrak. Two valleys over, on the Isvaren side, down out of the snow into the high green valleys where the shielings were. The boy sat in front of Calder on the red dragon’s neck with his hands buried in the warm scales and his eyes screwed shut for the first league. Then he opened them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p149",
+   "type": "narration",
+   "text": "Then he screamed. All the way. Calder had never heard anybody so happy in his life.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p150",
+   "type": "narration",
+   "text": "The shieling was a turf-roofed hut in a green bowl with a beck and a hundred goats on the slope, and a woman came out of it at the sound of wings and stood in the door with a pail in her hand, and saw her son come down out of the sky on the neck of a red dragon behind a man with bandaged hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p151",
+   "type": "narration",
+   "text": "She dropped the pail.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p152",
+   "type": "narration",
+   "text": "Tasso slid off Kharrak’s neck and ran to her through the goats. She went down on her knees in the turf and held him. She didn’t look at the dragon. She didn’t look at Calder. She held the boy with her face in his hair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p153",
+   "type": "narration",
+   "text": "Then she got up and went into the hut and came out with a whole goat’s cheese wrapped in a cloth, and walked across the turf to Calder, and put it into his bandaged hands, and went back to her son.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p154",
+   "type": "narration",
+   "text": "She didn’t ask anything. Not one thing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p155",
+   "type": "narration",
+   "text": "He thought he’d remember her face for the rest of his life, and he never learned her name.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 222,
+   "para": "p156",
+   "type": "narration",
+   "text": "He went back up to the ridge on the hundred-and-forty-ninth day, and at night he looked north-west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p157",
+   "type": "narration",
+   "text": "He hadn’t looked before. He’d been looking down into the bowl, at the camp, at the four in the smoke. That night he turned round on the ridge with the stars very close and the cold coming up off the snow and looked the other way. Down the long valley that went away from the pass north-west, between the mountains, six days on foot. Toward the lake Lisska said was there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p158",
+   "type": "narration",
+   "text": "He could see it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 225,
+   "para": "p159",
+   "type": "narration",
+   "text": "Far off. Very small. A faint pale gleam at the bottom of the night, where the valley opened. Water, catching the stars. A lake.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 226,
+   "para": "p160",
+   "type": "narration",
+   "text": "And above the lake, a hill. Lit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p161",
+   "type": "narration",
+   "text": "The whole hill. White. Every light on it, every pinprick of it, from the top of the hill nearly to the water: white, cold, bright, so bright that from so far off he could see the shape of the hill against the dark by its lights alone. Like a lantern. Like a hill made of ice with a fire inside it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 228,
+   "para": "p162",
+   "type": "narration",
+   "text": "And along the shore, at the very foot of the hill, where there must be streets and houses and people: almost nothing. A few brown pinpricks. Dim, guttering, so faint he had to look away and look back to be sure they were there. As if somebody had put a hand over the bottom of the city and was squeezing the light out of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 229,
+   "para": "p163",
+   "type": "bond",
+   "text": "Like the hill’s on fire,"
+  },
+  {
+   "seq": 230,
+   "para": "p163",
+   "type": "narration",
+   "text": "said Lisska, beside him."
+  },
+  {
+   "seq": 231,
+   "para": "p163",
+   "type": "thought",
+   "text": "Cold fire. All of it. Nearly."
+  },
+  {
+   "seq": 232,
+   "para": "p163",
+   "type": "narration",
+   "text": "She was quiet."
+  },
+  {
+   "seq": 233,
+   "para": "p163",
+   "type": "thought",
+   "text": "And the bottom’s gone out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 234,
+   "para": "p164",
+   "type": "narration",
+   "text": "He looked at it a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 235,
+   "para": "p165",
+   "type": "speech",
+   "text": "“When the hill burns all through,”"
+  },
+  {
+   "seq": 236,
+   "para": "p165",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 237,
+   "para": "p166",
+   "type": "narration",
+   "text": "Lisska didn’t answer. She lay beside him on the ridge in the snow and looked at the white hill far off, and he felt her think of the young red in the smoke in the bowl behind them, who’d lifted her head for one breath and looked at her as if she were her mother.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 238,
+   "para": "p167",
+   "type": "narration",
+   "text": "He decided on the hundred-and-fiftieth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 239,
+   "para": "p168",
+   "type": "narration",
+   "text": "He couldn’t take the camp. He’d known that on the first day. He knew it better now. Twenty men, four binders, two wyverns, a man on a rock who could knock a sabrecat over backward without touching it, and four bound dragons in a trench of smoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 240,
+   "para": "p169",
+   "type": "narration",
+   "text": "But they were waiting. For a word from the city. For the hill to burn all through. And when it did, they’d go down the valley to the library, to the old bird, for a paper.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 241,
+   "para": "p170",
+   "type": "narration",
+   "text": "He’d be there first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 242,
+   "para": "p171",
+   "type": "speech",
+   "text": "“There’s a tower,”"
+  },
+  {
+   "seq": 243,
+   "para": "p171",
+   "type": "narration",
+   "text": "he said to Lisska, in the morning."
+  },
+  {
+   "seq": 244,
+   "para": "p171",
+   "type": "speech",
+   "text": "“Tasso said. On a peak, west of here. The star-tower. Where the colleges’ sky-watchers live. Six hundred steps.”"
+  },
+  {
+   "seq": 245,
+   "para": "p171",
+   "type": "narration",
+   "text": "He looked west along the Fells, where one peak stood up higher than the others, white, with something on the very top of it that might have been a building."
+  },
+  {
+   "seq": 246,
+   "para": "p171",
+   "type": "speech",
+   "text": "“He said you can see the whole of the city from it. The whole lake. Everything.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 247,
+   "para": "p172",
+   "type": "bond",
+   "text": "Starwatch,",
+   "how": "called"
+  },
+  {
+   "seq": 248,
+   "para": "p172",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 249,
+   "para": "p172",
+   "type": "thought",
+   "text": "The boy called it Starwatch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 250,
+   "para": "p173",
+   "type": "speech",
+   "text": "“We’ll go there,”"
+  },
+  {
+   "seq": 251,
+   "para": "p173",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 252,
+   "para": "p173",
+   "type": "speech",
+   "text": "“And watch. And when they move, we’ll know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 253,
+   "para": "p174",
+   "type": "narration",
+   "text": "He flexed his hands in their strips of shirt. They hurt. They’d hurt for a week, the boy’s mother had said with her hands, pointing at them and shaking her head. He didn’t mind. He thought of the boy screaming on Kharrak’s neck with his eyes wide open, all the way down the valley.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 254,
+   "para": "p175",
+   "type": "narration",
+   "text": "They went west.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "646cf5b0bba5ee67f4b280760c37affcc142cdef",
+ "segments_sha1": "217aed3fcfa6c408895246edce99ab9e72103a5d"
+}

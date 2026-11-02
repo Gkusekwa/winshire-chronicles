@@ -1,0 +1,2084 @@
+{
+ "chapter": 56,
+ "title": "Blackwater",
+ "pov": "",
+ "source": "Chapters/Chapter 56 - Blackwater.md",
+ "names": [
+  "blackwater",
+  "brede",
+  "calder",
+  "corsa",
+  "fells",
+  "fenn",
+  "gunna",
+  "kharrak",
+  "library",
+  "liss",
+  "lisska",
+  "roosts",
+  "sarovel",
+  "solenne",
+  "tamsin",
+  "wendmouth",
+  "wren"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Fifty-six.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Blackwater.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "Brask’s letter came up the Way with a Clan rider on the two-hundred-and-ninety-first day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "He couldn’t write. Brask. He’d got somebody to do it for him, a clerk at the Wendmouth fish-docks, in a cramped brown hand that Calder couldn’t read at all. Ada read it to him at Bel’s table.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "speech",
+   "text": "“Farmer,”"
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "narration",
+   "text": "Ada read."
+  },
+  {
+   "seq": 7,
+   "para": "p3",
+   "type": "speech",
+   "text": "“The Council’s got me clearing the Halloran warehouses. Counting barrels for them. They pay. I’m not proud.”"
+  },
+  {
+   "seq": 8,
+   "para": "p3",
+   "type": "narration",
+   "text": "She looked up."
+  },
+  {
+   "seq": 9,
+   "para": "p3",
+   "type": "speech",
+   "text": "“He spells proud with a w.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p4",
+   "type": "speech",
+   "text": "“Go on.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p5",
+   "type": "speech",
+   "text": "“Found this in a ship’s log. Halloran ship, the Gannet*, seized at Corsa. Day of the year’s two hundred and sixty-eight, by your count, which I had the clerk work out. Three young dragons, bound, brought in from Solenne by sea, landed at Blackwater. To be held for the gentleman’s buyer.*”"
+  },
+  {
+   "seq": 12,
+   "para": "p5",
+   "type": "narration",
+   "text": "Ada stopped."
+  },
+  {
+   "seq": 13,
+   "para": "p5",
+   "type": "speech",
+   "text": "“The gentleman’s buyer. That’s underlined.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p6",
+   "type": "speech",
+   "text": "“Blackwater,”"
+  },
+  {
+   "seq": 15,
+   "para": "p6",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p7",
+   "type": "speech",
+   "text": "“Bronze, black, red,”"
+  },
+  {
+   "seq": 17,
+   "para": "p7",
+   "type": "narration",
+   "text": "Ada read."
+  },
+  {
+   "seq": 18,
+   "para": "p7",
+   "type": "speech",
+   "text": "“I thought you’d want to know. Don’t come to Wendmouth. They still want your head at the fish-docks, Council or no Council. Brask.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 19,
+   "para": "p8",
+   "type": "narration",
+   "text": "So that was where they’d gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p9",
+   "type": "narration",
+   "text": "He worked it out on the setters’ ledge that night with Lisska. South, with the man with the grey beard and the box, in the autumn. To Solenne. The reader had seen them go on his glass, three together, going south toward a coast. They’d taken the case to the man who was paying for everything. Then the man had put them on a ship and sent them back east. Out of sight. To a smugglers’ town where nobody asked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p10",
+   "type": "narration",
+   "text": "To wait. For a buyer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p11",
+   "type": "bond",
+   "text": "He’s selling them,"
+  },
+  {
+   "seq": 23,
+   "para": "p11",
+   "type": "narration",
+   "text": "said Lisska.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p12",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p13",
+   "type": "thought",
+   "text": "Our young ones. From the Roosts. He’s selling them like sheep.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p14",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 27,
+   "para": "p14",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p15",
+   "type": "bond",
+   "text": "Then we have to go and get them,"
+  },
+  {
+   "seq": 29,
+   "para": "p15",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 30,
+   "para": "p15",
+   "type": "thought",
+   "text": "Before somebody buys them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 31,
+   "para": "p16",
+   "type": "narration",
+   "text": "Gunna came with him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p17",
+   "type": "narration",
+   "text": "He hadn’t asked. He’d gone up to the caves to tell Wren he’d be gone a fortnight, and Gunna had been sitting by the warm spring with her old dragon’s head in her lap, and she’d looked at him and said,"
+  },
+  {
+   "seq": 33,
+   "para": "p17",
+   "type": "speech",
+   "text": "“Blackwater,”"
+  },
+  {
+   "seq": 34,
+   "para": "p17",
+   "type": "narration",
+   "text": "before he’d said anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p18",
+   "type": "speech",
+   "text": "“How did you know?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p19",
+   "type": "speech",
+   "text": "“Brede told me. Ada told Brede.”"
+  },
+  {
+   "seq": 37,
+   "para": "p19",
+   "type": "narration",
+   "text": "She stroked Tamsin’s long grey-green jaw."
+  },
+  {
+   "seq": 38,
+   "para": "p19",
+   "type": "speech",
+   "text": "“I’m coming. So’s she. So are six of the ledges. I’ve asked them.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p20",
+   "type": "speech",
+   "text": "“Gunna…”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p21",
+   "type": "speech",
+   "text": "“I was at the Roosts on midsummer night,”"
+  },
+  {
+   "seq": 41,
+   "para": "p21",
+   "type": "narration",
+   "text": "said Gunna."
+  },
+  {
+   "seq": 42,
+   "para": "p21",
+   "type": "speech",
+   "text": "“I watched them take four of our young ones out of the pens in the honey-smoke. I couldn’t do anything. Nobody could. We were all on our knees in it.”"
+  },
+  {
+   "seq": 43,
+   "para": "p21",
+   "type": "narration",
+   "text": "She looked at him."
+  },
+  {
+   "seq": 44,
+   "para": "p21",
+   "type": "speech",
+   "text": "“And I’ve been thinking all winter about why.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 45,
+   "para": "p22",
+   "type": "narration",
+   "text": "She showed him her idea on the setters’ ledge the next morning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p23",
+   "type": "narration",
+   "text": "A cloth. Linen, thick, folded in four, the size of a dragon’s nostrils, with straps sewn to its corners. She soaked it in a bucket of water, and wrung it out, and held it up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p24",
+   "type": "speech",
+   "text": "“Over the nose,”",
+   "mood": "tension"
+  },
+  {
+   "seq": 48,
+   "para": "p24",
+   "type": "narration",
+   "text": "she said.",
+   "mood": "tension"
+  },
+  {
+   "seq": 49,
+   "para": "p24",
+   "type": "speech",
+   "text": "“Tied on behind the jaw. So they breathe through it. And one over our own faces.”",
+   "mood": "tension"
+  },
+  {
+   "seq": 50,
+   "para": "p24",
+   "type": "narration",
+   "text": "She put it in the bucket again.",
+   "mood": "tension"
+  },
+  {
+   "seq": 51,
+   "para": "p24",
+   "type": "speech",
+   "text": "“Wet. And not water. Vinegar. The sharper the better.”",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 52,
+   "para": "p25",
+   "type": "speech",
+   "text": "“Why?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p26",
+   "type": "speech",
+   "text": "“Because the smoke’s sweet,”"
+  },
+  {
+   "seq": 54,
+   "para": "p26",
+   "type": "narration",
+   "text": "said Gunna."
+  },
+  {
+   "seq": 55,
+   "para": "p26",
+   "type": "speech",
+   "text": "“And it gets in through the nose and opens them. And vinegar’s the opposite of sweet.”"
+  },
+  {
+   "seq": 56,
+   "para": "p26",
+   "type": "narration",
+   "text": "She shrugged."
+  },
+  {
+   "seq": 57,
+   "para": "p26",
+   "type": "speech",
+   "text": "“I don’t know if it’ll work. I thought about the Roosts all winter, and about what you said happened on the Library hill. Lisska going down into it like it was a bed.”"
+  },
+  {
+   "seq": 58,
+   "para": "p26",
+   "type": "narration",
+   "text": "She looked at Lisska, who was looking at the cloth with deep suspicion."
+  },
+  {
+   "seq": 59,
+   "para": "p26",
+   "type": "speech",
+   "text": "“If it doesn’t let the sweet in so fast, perhaps there’s time to come back up.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p27",
+   "type": "narration",
+   "text": "Tamsin, behind her, put her great old head down and sniffed the bucket and drew it back very fast.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p28",
+   "type": "bond",
+   "text": "It stinks,"
+  },
+  {
+   "seq": 62,
+   "para": "p28",
+   "type": "narration",
+   "text": "said Lisska.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p29",
+   "type": "speech",
+   "text": "“Good,”"
+  },
+  {
+   "seq": 64,
+   "para": "p29",
+   "type": "narration",
+   "text": "said Gunna.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 65,
+   "para": "p30",
+   "type": "narration",
+   "text": "They went on the two-hundred-and-ninety-second day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p31",
+   "type": "narration",
+   "text": "South first. Over the moor, over the Fellwood, down to the Marches. He had to stop at Greyhold landing. The Clan’s grain was going over the river there, to both banks, and he’d promised Arn he’d see it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p32",
+   "type": "narration",
+   "text": "Liss was on the ferry.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p33",
+   "type": "narration",
+   "text": "It was mended. New boards in its back where the jetty had stove it in. The new rope taut across the river to the Staithe post. She was bringing it across with a load of sacks and two of the river folk hauling, and she brought it in to the jetty and tied it off and looked up at the dragons on the bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p34",
+   "type": "speech",
+   "text": "“Calder Fenn,”"
+  },
+  {
+   "seq": 70,
+   "para": "p34",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p35",
+   "type": "speech",
+   "text": "“Liss.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p36",
+   "type": "speech",
+   "text": "“You’re going somewhere. Have you eaten?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p37",
+   "type": "speech",
+   "text": "“Blackwater.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p38",
+   "type": "narration",
+   "text": "She didn’t ask why. She looked at Gunna, and at the old grey-green dragon, and at the six riders of the ledges coming down behind, and at the buckets of linen cloths on their saddles.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p39",
+   "type": "speech",
+   "text": "“Are you writing to her?”"
+  },
+  {
+   "seq": 76,
+   "para": "p39",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 77,
+   "para": "p40",
+   "type": "narration",
+   "text": "He hadn’t known she knew.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p41",
+   "type": "speech",
+   "text": "“Lisska brings them,”"
+  },
+  {
+   "seq": 79,
+   "para": "p41",
+   "type": "narration",
+   "text": "said Liss."
+  },
+  {
+   "seq": 80,
+   "para": "p41",
+   "type": "speech",
+   "text": "“Your letters. She comes by here on the way west, sometimes. Lands on the ferry-house roof and has a rest, bless her.”"
+  },
+  {
+   "seq": 81,
+   "para": "p41",
+   "type": "narration",
+   "text": "She gave him a look."
+  },
+  {
+   "seq": 82,
+   "para": "p41",
+   "type": "speech",
+   "text": "“I can see a letter on a dragon’s leg, Calder Fenn.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p42",
+   "type": "speech",
+   "text": "“I’ll write when I’m back.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p43",
+   "type": "speech",
+   "text": "“Write now. Before you go.”"
+  },
+  {
+   "seq": 85,
+   "para": "p43",
+   "type": "narration",
+   "text": "She wiped her hands on her skirt."
+  },
+  {
+   "seq": 86,
+   "para": "p43",
+   "type": "speech",
+   "text": "“And put something at the bottom for me.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p44",
+   "type": "speech",
+   "text": "“What?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p45",
+   "type": "narration",
+   "text": "Liss looked at the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p46",
+   "type": "speech",
+   "text": "“Come home,”"
+  },
+  {
+   "seq": 90,
+   "para": "p46",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p47",
+   "type": "narration",
+   "text": "He waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p48",
+   "type": "speech",
+   "text": "“That’s all,”"
+  },
+  {
+   "seq": 93,
+   "para": "p48",
+   "type": "narration",
+   "text": "said Liss."
+  },
+  {
+   "seq": 94,
+   "para": "p48",
+   "type": "speech",
+   "text": "“Come home. And my name, so she knows it’s me and not you.”"
+  },
+  {
+   "seq": 95,
+   "para": "p48",
+   "type": "narration",
+   "text": "She looked at him."
+  },
+  {
+   "seq": 96,
+   "para": "p48",
+   "type": "speech",
+   "text": "“Two words. You can spell those.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p49",
+   "type": "speech",
+   "text": "“I can spell those.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p50",
+   "type": "speech",
+   "text": "“Then do,”"
+  },
+  {
+   "seq": 99,
+   "para": "p50",
+   "type": "narration",
+   "text": "said Liss, and went back to her sacks.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 100,
+   "para": "p51",
+   "type": "narration",
+   "text": "They bought vinegar at a fishing village up the coast from the Saltings.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p52",
+   "type": "narration",
+   "text": "A whole barrel, from the pickling-sheds, where the fish-wives put up herring for the winter. The fish-wives looked at the dragons and asked a price that would have bought the village. Gunna paid it without a word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p53",
+   "type": "narration",
+   "text": "They soaked the cloths that night on the beach.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p54",
+   "type": "narration",
+   "text": "The smell was terrible. Tamsin lay with her head as far from the barrel as her neck would go. Kharrak said he’d rather breathe honey-smoke. Lisska said nothing at all, because she’d gone up onto a rock a long way off and wouldn’t come down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p55",
+   "type": "bond",
+   "text": "It’s horrible,"
+  },
+  {
+   "seq": 105,
+   "para": "p55",
+   "type": "narration",
+   "text": "she said, from the rock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p56",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p57",
+   "type": "thought",
+   "text": "If I have to have that on my nose I’ll be sick.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p58",
+   "type": "speech",
+   "text": "“You’ll have yours off,”"
+  },
+  {
+   "seq": 109,
+   "para": "p58",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 110,
+   "para": "p58",
+   "type": "speech",
+   "text": "“You’ll have to. You’ll need to sing.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p59",
+   "type": "narration",
+   "text": "Lisska didn’t answer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p60",
+   "type": "bond",
+   "text": "In the smoke,"
+  },
+  {
+   "seq": 113,
+   "para": "p60",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p61",
+   "type": "speech",
+   "text": "“In the smoke.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p62",
+   "type": "bond",
+   "text": "All right,"
+  },
+  {
+   "seq": 116,
+   "para": "p62",
+   "type": "narration",
+   "text": "said Lisska. Very small. All right.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 117,
+   "para": "p63",
+   "type": "narration",
+   "text": "Blackwater was a hole in the mountains.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p64",
+   "type": "narration",
+   "text": "He saw it at dusk on the two-hundred-and-ninety-sixth day, from high up, over the last of the coast. The Worldsend came down to the sea there. Its southern tail. Black cliffs, steep, going straight down into the water. And a cut in them. A long narrow inlet going in between the cliffs, and the water in it black. Not dark. Black. Stained, Gunna said, by the peat-streams off the mountains.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p65",
+   "type": "narration",
+   "text": "At the head of the inlet, a town.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p66",
+   "type": "narration",
+   "text": "Wooden. Every house tarred black. On stilts, over the water, round the inlet’s end, joined by walkways of planks. A dozen ships moored in the black water, low and fast, with no flags. Fires on the shingle beach. Sellswords, Gunna said. Companies between contracts. Nobody else would live in a place like this.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p67",
+   "type": "narration",
+   "text": "No lights on the headland. No harbour-master. No toll-gate. Nobody asking anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p68",
+   "type": "narration",
+   "text": "On the north shore of the inlet, a little apart from the town, a shed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p69",
+   "type": "narration",
+   "text": "Big. Tarred. Built out over the water on piles, with a great open door on the sea side for boats. And from the vents in its roof, going up thin and grey into the dusk, smoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p70",
+   "type": "narration",
+   "text": "He smelled it from up there. Faintly. On the wind.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p71",
+   "type": "narration",
+   "text": "Sweet.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 126,
+   "para": "p72",
+   "type": "narration",
+   "text": "They came down at dawn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p73",
+   "type": "narration",
+   "text": "From the landward side. Over the cliffs, low, out of the grey, with the cloths on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p74",
+   "type": "narration",
+   "text": "He’d tied Kharrak’s himself. On the beach, in the dark, with Kharrak complaining the whole time and then going quiet when the vinegar hit him and making a noise like a kettle. The cloth over his nostrils, wet, stinking, strapped behind his jaw. And his own over his face. He could hardly see. His eyes streamed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p75",
+   "type": "narration",
+   "text": "Gunna on Tamsin beside him. The six riders behind, in a line. Every dragon with a pale square of wet linen on its nose and every rider with a rag across their mouth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p76",
+   "type": "narration",
+   "text": "Lisska above, without hers.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p77",
+   "type": "narration",
+   "text": "They came over the cliff above the north shore and the shed was below them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p78",
+   "type": "narration",
+   "text": "The binders were ready.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 133,
+   "para": "p79",
+   "type": "narration",
+   "text": "He saw the pots go up. All along the roof of the shed. On the walkways. On the shingle. Somebody had heard them coming, or seen them, or had a man on the cliffs. Pots of honey-smoke, iron, smouldering, a dozen of them, two dozen, and men throwing things into them, cakes of something dark, and the smoke going up thick and white and rolling out on the wind off the land.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p80",
+   "type": "narration",
+   "text": "Over the water. Over the shed. Up toward them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p81",
+   "type": "narration",
+   "text": "Men on the shed’s roof with burning things on poles. Throwing them up. Honey-cakes on fire, tumbling through the air, trailing sweet smoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p82",
+   "type": "narration",
+   "text": "They flew into it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 137,
+   "para": "p83",
+   "type": "narration",
+   "text": "He felt it come.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p84",
+   "type": "narration",
+   "text": "Through the cloth. Through the vinegar. Through the bond. Not the drowning he’d felt at the Roosts, on midsummer night, with every dragon on the cliffs on its knees. Not the bed Lisska had gone down into on the Library hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p85",
+   "type": "narration",
+   "text": "Far off. Thin. A sweetness at the back of everything. A tug. Like someone a long way away calling his name.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p86",
+   "type": "narration",
+   "text": "He felt Kharrak feel it. Felt him shake his great head, once, as if a fly had landed on his nose. And go on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p87",
+   "type": "bond",
+   "text": "It’s there,"
+  },
+  {
+   "seq": 142,
+   "para": "p87",
+   "type": "narration",
+   "text": "said Kharrak."
+  },
+  {
+   "seq": 143,
+   "para": "p87",
+   "type": "thought",
+   "text": "It’s far away. It’s like a dream I’m having somewhere else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Can you hold?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p89",
+   "type": "bond",
+   "text": "I can hold,"
+  },
+  {
+   "seq": 146,
+   "para": "p89",
+   "type": "narration",
+   "text": "said Kharrak."
+  },
+  {
+   "seq": 147,
+   "para": "p89",
+   "type": "thought",
+   "text": "It stinks too much to sleep.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 148,
+   "para": "p90",
+   "type": "narration",
+   "text": "Kharrak took the roof off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p91",
+   "type": "narration",
+   "text": "He’d been wanting to. Calder could feel it. Since Starwatch. Since the guardhouse. He went down on the shed like a hawk on a hen-coop, and landed on its ridge with all four feet, and the whole roof went in under him with a crash of tarred planks. And then he got his forefeet under the edge of what was left and lifted, and threw it, the whole ridge and half the slope, out over the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p92",
+   "type": "bond",
+   "text": "Not one hurt,"
+  },
+  {
+   "seq": 151,
+   "para": "p92",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 152,
+   "para": "p92",
+   "type": "thought",
+   "text": "The men on it jumped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p93",
+   "type": "speech",
+   "text": "“I saw.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p94",
+   "type": "thought",
+   "text": "Say it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p95",
+   "type": "speech",
+   "text": "“Later,”"
+  },
+  {
+   "seq": 156,
+   "para": "p95",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p96",
+   "type": "narration",
+   "text": "Tamsin went down on the sea-door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p97",
+   "type": "narration",
+   "text": "Slowly. Heavily. The old grey-green dragon, three hundred and twelve years old, settled down across the great open boat-door on the water side of the shed like a hen on a nest, filling it, so that nothing could get out by water. She lay there with her wet cloth on her nose and her eyes half shut and didn’t move again until it was over.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 159,
+   "para": "p98",
+   "type": "narration",
+   "text": "Below, in the shed, three dragons.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p99",
+   "type": "narration",
+   "text": "On the plank floor, built out over the water, with the black water showing through the gaps between the boards. On chains. To iron rings set in the piles.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p100",
+   "type": "narration",
+   "text": "The bronze. The black. The two-year-old red.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p101",
+   "type": "narration",
+   "text": "Bigger than in the Fells. Thinner. Their white-painted collars dirty grey. Honey-pots burning all round them in a ring on the boards, and the smoke going up round them through the hole in the roof where Kharrak had been.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p102",
+   "type": "narration",
+   "text": "At each head, a binder. A hand on each head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p103",
+   "type": "narration",
+   "text": "Their eyes empty.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 165,
+   "para": "p104",
+   "type": "narration",
+   "text": "Lisska went down into the smoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p105",
+   "type": "narration",
+   "text": "He felt her go. Without her cloth. Down through the hole in the roof, into the sweet white rolling cloud, to hang there over the three young dragons on the boards with her wings going.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p106",
+   "type": "narration",
+   "text": "He felt the smoke get her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p107",
+   "type": "narration",
+   "text": "The pull. The thread coming out of him at her end. Slowly. Like before. Like the Library hill. Her wings slowing. Her going soft. The bed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p108",
+   "type": "narration",
+   "text": "And she sang.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p109",
+   "type": "narration",
+   "text": "Through it. Into it. Over the three on the boards. The hum. The ledges’ mother-hum, low, through the boards, through the piles, through the black water."
+  },
+  {
+   "seq": 171,
+   "para": "p109",
+   "type": "thought",
+   "text": "Here. Here. You’re here.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p110",
+   "type": "narration",
+   "text": "She was going under. He could feel her going under. And she was singing anyway.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 173,
+   "para": "p111",
+   "type": "narration",
+   "text": "The black lifted its head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p112",
+   "type": "narration",
+   "text": "He saw it from the edge of the hole in the roof. The black, nearest the sea-door. Its head coming up off the boards toward Lisska’s voice. Its eyes not empty. Not full. Something at the back of them, far down, turning toward the sound.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p113",
+   "type": "narration",
+   "text": "The binder at its head pressed down. Hard. As they’d pressed at the camp in the Fells.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p114",
+   "type": "narration",
+   "text": "Calder went down off Kharrak’s back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p115",
+   "type": "narration",
+   "text": "Through the hole in the roof. Ten feet, onto the boards, through the smoke, with the wet rag on his face and his eyes streaming. He landed badly. A board cracked under him and his leg went through to the knee and he pulled it out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p116",
+   "type": "narration",
+   "text": "The binder looked at him. A heavy man. Startled.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p117",
+   "type": "narration",
+   "text": "Calder hit him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p118",
+   "type": "narration",
+   "text": "He didn’t think about it. He hit him as he’d hit a ram that had gone for Wren once in the top field, with his whole weight behind his shoulder, and the binder went backwards off the black’s head and into a honey-pot, which went over, and he rolled in the hot coals screaming.",
+   "mood": "action",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 181,
+   "para": "p119",
+   "type": "narration",
+   "text": "The collar.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p120",
+   "type": "narration",
+   "text": "He had Rook’s knife in his hand. He didn’t remember taking it out. He knelt by the black’s head on the boards and found the hinge of the white-painted collar with his fingers, the pin, iron, through two leaves of iron, and set the point of the knife to the pin’s head, and hit the pommel with the heel of his hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p121",
+   "type": "narration",
+   "text": "Once. Twice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p122",
+   "type": "narration",
+   "text": "The pin moved. He hit it again and it went through and fell out on the boards and rolled and dropped through a gap into the black water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p123",
+   "type": "narration",
+   "text": "He opened the collar and pulled it off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p124",
+   "type": "narration",
+   "text": "The black’s eyes came to the edge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p125",
+   "type": "narration",
+   "text": "He saw it. Close. A hand’s breadth from his face. Something coming up from the bottom of a well toward the light. Up. Up. Nearly there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p126",
+   "type": "narration",
+   "text": "And stopping. Just under. Just under the surface.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p127",
+   "type": "narration",
+   "text": "Not through. Not yet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p128",
+   "type": "narration",
+   "text": "But there.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 191,
+   "para": "p129",
+   "type": "speech",
+   "text": "“The red!”",
+   "how": "shouted"
+  },
+  {
+   "seq": 192,
+   "para": "p129",
+   "type": "narration",
+   "text": "Gunna was shouting. From above, on Tamsin, through her rag."
+  },
+  {
+   "seq": 193,
+   "para": "p129",
+   "type": "speech",
+   "text": "“Brede! The red!”",
+   "how": "shouted",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p130",
+   "type": "narration",
+   "text": "Brede was already down. Off his blue’s neck into the shed, through the side of the roof Kharrak had torn open, with a smith’s punch in one hand and a hammer in the other that Gunna had brought from the hold’s forge. The red’s binder saw him coming and let go of the red’s head and ran. Out along the plank floor toward the landward door, past Calder, and Calder put his foot out, and the binder went down on his face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p131",
+   "type": "narration",
+   "text": "Brede knelt at the red’s head. Set the punch to the pin. Struck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p132",
+   "type": "narration",
+   "text": "Once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p133",
+   "type": "narration",
+   "text": "The pin went through.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p134",
+   "type": "narration",
+   "text": "The red’s eyes came to the edge. Like the black’s. Up from the bottom of something. Nearly to the top.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p135",
+   "type": "narration",
+   "text": "Not through.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p136",
+   "type": "narration",
+   "text": "But there.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 201,
+   "para": "p137",
+   "type": "narration",
+   "text": "The bronze’s binder saw it going.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p138",
+   "type": "narration",
+   "text": "Calder saw him see it. A thin man with a face burned by pots, scarred red down one cheek. Standing at the bronze’s head with his hand on it, looking at the black and the red with their collars off and their eyes coming up from the bottom of themselves. Looking at Lisska in the smoke above, singing. At Calder. At Brede with the punch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p139",
+   "type": "narration",
+   "text": "He took his hand off the bronze’s head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p140",
+   "type": "narration",
+   "text": "He took a knife out of his belt. Long. Thin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p141",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 206,
+   "para": "p141",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p142",
+   "type": "narration",
+   "text": "He was too far. Ten paces. Across the boards, through the smoke, past a honey-pot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p143",
+   "type": "narration",
+   "text": "The binder put the knife into the soft place under the bronze’s jaw. Where the plates of the throat didn’t quite meet. He put it in and leaned on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p144",
+   "type": "narration",
+   "text": "The bronze didn’t make a sound.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p145",
+   "type": "narration",
+   "text": "Bound beasts didn’t. They didn’t feel anything. It didn’t fight. It didn’t pull away. It didn’t do anything at all. It stood on the boards with the knife in its throat and its empty eyes open and then its legs went and it went down on the boards on its side, and the boards shook, and the black water came up through the gaps.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p146",
+   "type": "speech",
+   "text": "“If I can’t have it,”",
+   "how": "quietly"
+  },
+  {
+   "seq": 212,
+   "para": "p146",
+   "type": "narration",
+   "text": "said the binder. Quietly. Looking at Calder."
+  },
+  {
+   "seq": 213,
+   "para": "p146",
+   "type": "speech",
+   "text": "“You can’t.”",
+   "how": "quietly",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 214,
+   "para": "p147",
+   "type": "narration",
+   "text": "Tamsin’s tail took him off the boards.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p148",
+   "type": "narration",
+   "text": "From the sea-door. The old dragon didn’t get up. She didn’t even open her eyes properly. She moved her tail. Once. Across the shed floor, low, like a broom. And the thin man with the burned face went off the boards and through the side of the shed and out into the black water of the inlet, and went under, and came up, and screamed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p149",
+   "type": "narration",
+   "text": "The hired men on the shingle pulled him out. Alive.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 217,
+   "para": "p150",
+   "type": "narration",
+   "text": "Then they looked up at the dragons over the shed. At the red one standing on the ruins of the roof with a wet rag on his nose. At the old grey-green one lying across the sea-door. At the six riders of the ledges coming round over the water in a long line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p151",
+   "type": "narration",
+   "text": "They threw their weapons down on the shingle.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 219,
+   "para": "p152",
+   "type": "narration",
+   "text": "Lisska came up out of the smoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p153",
+   "type": "narration",
+   "text": "He felt her come. Slowly. Up from the bottom of the bed. Hauling herself up. Her wings going too fast and then too slow and then too fast. Up out of the hole in the roof into the clean grey air over the inlet, and down, onto the shingle, a long way from the shed, and lay there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p154",
+   "type": "narration",
+   "text": "He went to her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 222,
+   "para": "p155",
+   "type": "narration",
+   "text": "Down off the boards, along the shingle, past the hired men kneeling with their hands on their heads. She was lying flat with her wings spread out on the stones. Her eyes were shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p156",
+   "type": "narration",
+   "text": "He knelt by her and put his hand on her neck.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p157",
+   "type": "bond",
+   "text": "I sang,"
+  },
+  {
+   "seq": 225,
+   "para": "p157",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 226,
+   "para": "p158",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p159",
+   "type": "thought",
+   "text": "I went down. Like on the hill. I didn’t want to come back."
+  },
+  {
+   "seq": 228,
+   "para": "p159",
+   "type": "narration",
+   "text": "A pause."
+  },
+  {
+   "seq": 229,
+   "para": "p159",
+   "type": "thought",
+   "text": "I sang anyway. The whole time I was going down. I didn’t stop.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 230,
+   "para": "p160",
+   "type": "speech",
+   "text": "“I heard.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 231,
+   "para": "p161",
+   "type": "thought",
+   "text": "Did they hear?",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 232,
+   "para": "p162",
+   "type": "narration",
+   "text": "He looked back at the shed. At the black and the red on the boards with their collars off. At the bronze on its side.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 233,
+   "para": "p163",
+   "type": "speech",
+   "text": "“Two of them,”"
+  },
+  {
+   "seq": 234,
+   "para": "p163",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 235,
+   "para": "p164",
+   "type": "narration",
+   "text": "The bronze’s binder talked that night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 236,
+   "para": "p165",
+   "type": "narration",
+   "text": "At the fire on the beach, at dusk, with his arms tied behind him and his wet clothes steaming and Gunna sitting behind him with her hand on Tamsin’s long jaw. He talked because Gunna asked him to. She asked very quietly. And Tamsin opened one old gold eye and looked at him the whole time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 237,
+   "para": "p166",
+   "type": "speech",
+   "text": "“For a buyer,”"
+  },
+  {
+   "seq": 238,
+   "para": "p166",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 239,
+   "para": "p166",
+   "type": "speech",
+   "text": "“At Solenne. The gentleman’s buyer.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 240,
+   "para": "p167",
+   "type": "speech",
+   "text": "“Who’s the gentleman?”"
+  },
+  {
+   "seq": 241,
+   "para": "p167",
+   "type": "narration",
+   "text": "said Calder. He knew. He wanted it said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 242,
+   "para": "p168",
+   "type": "narration",
+   "text": "The binder looked at the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 243,
+   "para": "p169",
+   "type": "speech",
+   "text": "“Corvin,”"
+  },
+  {
+   "seq": 244,
+   "para": "p169",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 245,
+   "para": "p169",
+   "type": "speech",
+   "text": "“He’s at the court. At Solenne. The Bond-King gives him dinner.”"
+  },
+  {
+   "seq": 246,
+   "para": "p169",
+   "type": "narration",
+   "text": "He spat."
+  },
+  {
+   "seq": 247,
+   "para": "p169",
+   "type": "speech",
+   "text": "“He’s selling them. To Sarovel’s court. To the beast-lords at Highcrest, who’d pay anything for a dragon. The Clan’s dragons. Young. Bound already.”"
+  },
+  {
+   "seq": 248,
+   "para": "p169",
+   "type": "narration",
+   "text": "He shrugged against his ropes."
+  },
+  {
+   "seq": 249,
+   "para": "p169",
+   "type": "speech",
+   "text": "“The court won’t have them in Sarovel till the price is paid. The Bond-King doesn’t keep what he hasn’t bought. So they wait where nobody asks.”"
+  },
+  {
+   "seq": 250,
+   "para": "p169",
+   "type": "narration",
+   "text": "He looked at the fire."
+  },
+  {
+   "seq": 251,
+   "para": "p169",
+   "type": "speech",
+   "text": "“The price was to pay for something else.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 252,
+   "para": "p170",
+   "type": "speech",
+   "text": "“What?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 253,
+   "para": "p171",
+   "type": "speech",
+   "text": "“I don’t know.”"
+  },
+  {
+   "seq": 254,
+   "para": "p171",
+   "type": "narration",
+   "text": "The binder looked at the fire."
+  },
+  {
+   "seq": 255,
+   "para": "p171",
+   "type": "speech",
+   "text": "“He’s always paying for something else. Nobody ever knows what. You do the work and get the coin and you don’t ask.”"
+  },
+  {
+   "seq": 256,
+   "para": "p171",
+   "type": "narration",
+   "text": "He laughed, short."
+  },
+  {
+   "seq": 257,
+   "para": "p171",
+   "type": "speech",
+   "text": "“He says that’s the first rule. Don’t ask.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 258,
+   "para": "p172",
+   "type": "narration",
+   "text": "Gunna’s hand didn’t move on Tamsin’s jaw.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 259,
+   "para": "p173",
+   "type": "narration",
+   "text": "They burned the bronze on the beach at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 260,
+   "para": "p174",
+   "type": "narration",
+   "text": "On the shingle, below the shed, with driftwood and the tarred planks from the roof Kharrak had thrown into the water and pulled out again. Kharrak lit it. A short low breath into the base of the stack, as he’d lit the bird’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 261,
+   "para": "p175",
+   "type": "narration",
+   "text": "The Blackwater folk watched from their stilt-houses across the inlet. Black shapes in black doorways over black water. Nobody came near.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 262,
+   "para": "p176",
+   "type": "narration",
+   "text": "The black and the red lay on the shingle beside Tamsin, without their collars, with their eyes not empty and not full, looking at the fire. Lisska lay between them, too tired to hum. She hummed anyway, a little. He could feel it in the stones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 263,
+   "para": "p177",
+   "type": "narration",
+   "text": "He didn’t know if they could hear.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 264,
+   "para": "p178",
+   "type": "narration",
+   "text": "The trader’s crew were unloading on the quay on the two-hundred-and-ninety-ninth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 265,
+   "para": "p179",
+   "type": "narration",
+   "text": "A Sarovel ship, in for water, with wine. He’d gone down to the town’s one jetty to see about food for the dragons, and a gang of sailors were rolling casks off it onto the planks, and talking, loudly, in the common tongue with a Sarovel lilt.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 266,
+   "para": "p180",
+   "type": "speech",
+   "text": "“…a lion,”"
+  },
+  {
+   "seq": 267,
+   "para": "p180",
+   "type": "narration",
+   "text": "one was saying."
+  },
+  {
+   "seq": 268,
+   "para": "p180",
+   "type": "speech",
+   "text": "“In Kessmoor. At the burned place they’ve got up there, the Scald. A lion bigger than a house, with a mane like rocks.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 269,
+   "para": "p181",
+   "type": "speech",
+   "text": "“What for?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 270,
+   "para": "p182",
+   "type": "speech",
+   "text": "“Holding the ground up.”"
+  },
+  {
+   "seq": 271,
+   "para": "p182",
+   "type": "narration",
+   "text": "The sailor heaved a cask."
+  },
+  {
+   "seq": 272,
+   "para": "p182",
+   "type": "speech",
+   "text": "“Three banks of it, all coming down at once, and the iron men shutting their cage under it. And the lion held all three. Three of him, they say. One on each.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 273,
+   "para": "p183",
+   "type": "speech",
+   "text": "“Never.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 274,
+   "para": "p184",
+   "type": "speech",
+   "text": "“Three of him,”"
+  },
+  {
+   "seq": 275,
+   "para": "p184",
+   "type": "narration",
+   "text": "said the sailor."
+  },
+  {
+   "seq": 276,
+   "para": "p184",
+   "type": "speech",
+   "text": "“And a lowland woman with him, that wouldn’t let the iron men thank her. Gone south since, they say.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 277,
+   "para": "p185",
+   "type": "narration",
+   "text": "Calder stood on the jetty with his hands in his pockets.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 278,
+   "para": "p186",
+   "type": "thought",
+   "text": "That’s her,"
+  },
+  {
+   "seq": 279,
+   "para": "p186",
+   "type": "narration",
+   "text": "he thought.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 280,
+   "para": "p187",
+   "type": "narration",
+   "text": "He wrote to her that night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 281,
+   "para": "p188",
+   "type": "narration",
+   "text": "On the beach, by the fire, on the back of one of the Tide Council’s notices he’d taken off a post at Corsa, with a stub of charcoal. A whole page. His hand was better. He could feel it was better. The letters didn’t go uphill so much.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 282,
+   "para": "p189",
+   "type": "narration",
+   "text": "He wrote about Blackwater. The cloths, and the vinegar. The shed. The black and the red, with their collars off, and their eyes at the edge. The bronze, and the knife, and the man who’d said"
+  },
+  {
+   "seq": 283,
+   "para": "p189",
+   "type": "bond",
+   "text": "if I can’t have it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 284,
+   "para": "p190",
+   "type": "narration",
+   "text": "He wrote:"
+  },
+  {
+   "seq": 285,
+   "para": "p190",
+   "type": "written",
+   "text": "The man who pays them is at Solenne with you. He is selling our young ones to the court. He has a buyer there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 286,
+   "para": "p191",
+   "type": "narration",
+   "text": "He wrote:"
+  },
+  {
+   "seq": 287,
+   "para": "p191",
+   "type": "written",
+   "text": "Be careful of him. I know you will be. I am writing it anyway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 288,
+   "para": "p192",
+   "type": "narration",
+   "text": "At the bottom, in the biggest letters he had, so she couldn’t miss them, he wrote what Liss had said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 289,
+   "para": "p193",
+   "type": "thought",
+   "text": "LISS SAYS COME HOME.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 290,
+   "para": "p194",
+   "type": "narration",
+   "text": "He looked at it. Then he wrote her name under it, smaller. LISS. So she’d know it wasn’t him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 291,
+   "para": "p195",
+   "type": "narration",
+   "text": "He tied it to Lisska’s leg at dawn on the three-hundredth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 292,
+   "para": "p196",
+   "type": "narration",
+   "text": "She was better. Not well. Better. She’d slept the whole night against the black and the red, and in the morning one of them, the black, had put its nose against her side. Just that. Its nose. And taken it away again. And Lisska had looked at it a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 293,
+   "para": "p197",
+   "type": "bond",
+   "text": "It knew I was there,"
+  },
+  {
+   "seq": 294,
+   "para": "p197",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 295,
+   "para": "p198",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 296,
+   "para": "p199",
+   "type": "thought",
+   "text": "Just for a moment.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 297,
+   "para": "p200",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 298,
+   "para": "p201",
+   "type": "narration",
+   "text": "She held out her foreleg and he tied the letter on. In oilcloth. With string.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 299,
+   "para": "p202",
+   "type": "bond",
+   "text": "The lion-woman,"
+  },
+  {
+   "seq": 300,
+   "para": "p202",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 301,
+   "para": "p203",
+   "type": "speech",
+   "text": "“In Sarovel. At Solenne. Or somewhere near it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 302,
+   "para": "p204",
+   "type": "bond",
+   "text": "There’s a lion bigger than a house with her,"
+  },
+  {
+   "seq": 303,
+   "para": "p204",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 304,
+   "para": "p204",
+   "type": "thought",
+   "text": "I’ll find her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 305,
+   "para": "p205",
+   "type": "narration",
+   "text": "She went up off the shingle into the grey morning and turned west, out along the coast, toward the sun that wasn’t up yet, small and green and quick, and he watched her go until he couldn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 306,
+   "para": "p206",
+   "type": "narration",
+   "text": "Gunna was already seeing to the black and the red, for Brede and two of the riders to bring home slowly up the coast to the caves, a few leagues a day, flying low, with rests.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "18b0a298096b640e438d772c15b28f8227020b15",
+ "segments_sha1": "73a1ca1857d0ef56faca3ecab122981b8c332833"
+}

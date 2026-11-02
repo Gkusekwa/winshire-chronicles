@@ -2,6 +2,19 @@
  "chapter": 61,
  "title": "Lucan",
  "pov": "Maren",
+ "source": "Chapters/Chapter 61 - Lucan.md",
+ "names": [
+  "ashdown",
+  "callis",
+  "dun",
+  "greyhold",
+  "grieve",
+  "hallowmere",
+  "haverly",
+  "kesh",
+  "lesson",
+  "maren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1104,5 +1117,8 @@
    "mood": "tension",
    "pause_after_ms": 800
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "52ed9f22d8da2970ed75a74470fbff18045b2291",
+ "segments_sha1": "917626978360bc64290a60f6218af3ce505102f0"
 }

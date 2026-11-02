@@ -2,6 +2,22 @@
  "chapter": 49,
  "title": "The Archive",
  "pov": "Maren",
+ "source": "Chapters/Chapter 49 - The Archive.md",
+ "names": [
+  "ashdown",
+  "davin",
+  "greyhold",
+  "hale",
+  "hallowmere",
+  "hearthmere",
+  "lesson",
+  "merrow",
+  "millbrook",
+  "restoration",
+  "rowan",
+  "titan",
+  "tobin"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1741,5 +1757,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "cd5adb54a1210f63f945c63a252c7880fe408d6c",
+ "segments_sha1": "32df1771c175885ca48a211647705eab75c68c77"
 }

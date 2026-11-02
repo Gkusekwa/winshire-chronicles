@@ -2,6 +2,22 @@
  "chapter": 9,
  "title": "Pell's Lesson",
  "pov": "Maren",
+ "source": "Chapters/Chapter 09 - Pell's Lesson.md",
+ "names": [
+  "aldo",
+  "darrow",
+  "greyhold",
+  "haverly",
+  "kesh",
+  "maren",
+  "millbrook",
+  "pell",
+  "saltreach",
+  "stillhaven",
+  "tam",
+  "tobin",
+  "varrhold"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1255,5 +1271,8 @@
    "mood": "reflective",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "850c2a1cda0b752f7dec74215d624294816fd269",
+ "segments_sha1": "3c67611c0aaa4f1696fa364b5bbc93a490087d19"
 }

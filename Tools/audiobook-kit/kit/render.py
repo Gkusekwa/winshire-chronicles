@@ -1,7 +1,7 @@
 """Render audiobook chapters with Chatterbox (Resemble AI, MIT licence): free, and offline after the first download.
 Part of the audiobook kit: run it through `audiobook.sh`, which sets things up and offers the menu.
 
-It reads the reading scripts (`<book>/audiobook/reading_scripts/NN.json`, made from the chapters by prepare.py, or a folder of
+It reads the reading scripts (`<book>/audiobook/Performance/NN.json`, made from the chapters by prepare.py, or a folder of
 ready-made scripts named in book.json) and writes `<book>/audiobook/out/NN.mp3`.
 - One narrator reads everything, cloned from a short reference clip (book.json "narrator"; default the kit's
   voices/narrator.wav). Each paragraph is read whole; long ones are split at sentence ends (about 200 characters).
@@ -101,7 +101,9 @@ MOOD = {
 }
 HOW = [("shout", 0.25, 3), ("roar", 0.30, 4), ("loud", 0.15, 2), ("whisper", -0.15, -6), ("very quiet", -0.10, -5),
        ("quiet", -0.05, -3), ("soft", -0.05, -2.5), ("low", -0.05, -2), ("faint", -0.10, -5), ("weak", -0.10, -4),
-       ("cracking", 0.20, -1), ("shaking", 0.15, -1), ("eager", 0.15, 0), ("urgent", 0.15, 0.5)]
+       ("cracking", 0.20, -1), ("shaking", 0.15, -1), ("eager", 0.15, 0), ("urgent", 0.15, 0.5),
+       ("called", 0.10, 1), ("sharp", 0.10, 1), ("hoarse", 0.0, -1.5), ("rasp", 0.0, -1.5), ("gentl", -0.05, -2),
+       ("small", -0.05, -3)]
 GAIN = {"bond": -3.0, "thought": -4.5, "remembered": -4.5, "written": -1.0, "verse": -1.0}
 TEMPO = {"bond": 0.95, "thought": 0.97, "remembered": 0.97, "verse": 0.94, "written": 0.95, "title": 0.95}
 
@@ -120,7 +122,7 @@ def name_pairs():
         else:
             import csv
             for row in csv.reader(open(p, encoding="utf-8")):
-                if row and row[0].strip() and not row[0].startswith("#"):
+                if row and row[0].strip() and not row[0].startswith("#") and row[0].strip() != "Name":
                     pairs.append((row[0].strip(), row[1].strip() if len(row) > 1 else ""))
     return pairs
 

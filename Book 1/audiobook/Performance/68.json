@@ -2,6 +2,28 @@
  "chapter": 68,
  "title": "Under the Arch",
  "pov": "Calder",
+ "source": "Chapters/Chapter 68 - Under the Arch.md",
+ "names": [
+  "aurveth",
+  "calder",
+  "cassian",
+  "corvin",
+  "cotter",
+  "delling",
+  "eelweir",
+  "greyhold",
+  "halloran",
+  "harrow",
+  "hearthmere",
+  "kharrak",
+  "millbrook",
+  "redwatch",
+  "rook",
+  "teo",
+  "tidesteps",
+  "ulric",
+  "wendmouth"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1823,5 +1845,8 @@
    "mood": "tension",
    "pause_after_ms": 800
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "18caab888bb6f3c468200374a521ec2eb0cbca9a",
+ "segments_sha1": "2b061883122eed741743ed5dd1cd3edc23cd9edb"
 }

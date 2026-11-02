@@ -2,6 +2,19 @@
  "chapter": 75,
  "title": "The Stair",
  "pov": "Maren",
+ "source": "Chapters/Chapter 75 - The Stair.md",
+ "names": [
+  "ashdown",
+  "callis",
+  "greyhold",
+  "hale",
+  "haverly",
+  "kesh",
+  "maren",
+  "orrun",
+  "restoration",
+  "thorne"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1789,5 +1802,8 @@
    "mood": "grief",
    "pause_after_ms": 800
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "f6e0f7daf02500f2d56d2d6486b5a15ef76491f9",
+ "segments_sha1": "3e33bcb3206dd8d34edfe73b25a588061be43541"
 }

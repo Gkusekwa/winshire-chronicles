@@ -2,6 +2,25 @@
  "chapter": 47,
  "title": "Lamps",
  "pov": "Maren",
+ "source": "Chapters/Chapter 47 - Lamps.md",
+ "names": [
+  "davin",
+  "ferriby",
+  "fisk",
+  "greyhold",
+  "grieve",
+  "hale",
+  "hallowmere",
+  "harrow",
+  "haverly",
+  "kettle",
+  "liss",
+  "maren",
+  "millbrook",
+  "saltreach",
+  "thorne",
+  "tobin"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -981,5 +1000,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "81ae7d0945afa6421dd09e7428c47812f5e40855",
+ "segments_sha1": "1d3803fec8dc0f012b211bda6787c1a70f524070"
 }

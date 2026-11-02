@@ -2,6 +2,18 @@
  "chapter": 17,
  "title": "Night on the Island",
  "pov": "Maren",
+ "source": "Chapters/Chapter 17 - Night on the Island.md",
+ "names": [
+  "brannoch",
+  "fenna",
+  "greyhold",
+  "harrow",
+  "ottery",
+  "pell",
+  "redwatch",
+  "rowan",
+  "saltreach"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1153,5 +1165,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "f16ff8c0f055268a0082edf3d45f83f233ef1d18",
+ "segments_sha1": "23c033c0cbe46b97c0a209b69c6ef69fa072012f"
 }

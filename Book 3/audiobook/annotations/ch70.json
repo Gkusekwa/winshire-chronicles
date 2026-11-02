@@ -1,0 +1,30 @@
+{
+  "chapter": 70,
+  "pov": "",
+  "auto": true,
+  "generator": "directions 1",
+  "source_sha1": "d64a3413af9e8796c0b962772856e5b1fc34f32b",
+  "spans": {
+    "s1": "bond",
+    "s2": "bond",
+    "s3": "emphasis",
+    "s4": "speech",
+    "s5": "speech",
+    "s6": "emphasis",
+    "s7": "bond",
+    "s8": "remembered",
+    "s9": "remembered",
+    "s10": "bond",
+    "s11": "emphasis",
+    "s12": "emphasis",
+    "s13": "speech",
+    "s14": "speech",
+    "s15": "speech",
+    "s16": "speech",
+    "s17": "speech",
+    "s18": "bond",
+    "s19": "bond",
+    "s20": "thought"
+  },
+  "paragraphs": {}
+}

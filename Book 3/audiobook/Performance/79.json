@@ -1,0 +1,1554 @@
+{
+ "chapter": 79,
+ "title": "No Price",
+ "pov": "",
+ "source": "Chapters/Chapter 79 - No Price.md",
+ "names": [
+  "arn",
+  "blackwater",
+  "davin",
+  "gannet",
+  "hearthmere",
+  "jory",
+  "keeper",
+  "kit",
+  "sheepford",
+  "tam",
+  "varrhold"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Seventy-nine.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "No Price.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "They came through Harrow’s End in the second hour of the night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "On the Drover’s Way, in the stream, with the dog under Gannet’s coat because its feet were bleeding on the frozen ruts. Up through the empty village and onto the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "And past the top field.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Kit saw it by starlight. From the road. A field, on the slope below the wood, with something wrong about its walls. They were low. Shining. Black and wet-looking, like glass. And the snow gone off the whole slope round it, and the ground steaming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "And across the field, across the road below, a shape.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "A hill. Grey. With its wings out.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "speech",
+   "text": "“Is that,”"
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "narration",
+   "text": "said Gannet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p8",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p9",
+   "type": "narration",
+   "text": "They didn’t stop. Nobody on the road stopped. They went past it in the dark with their faces turned to it and their feet going on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p10",
+   "type": "narration",
+   "text": "She looked back at it from the wood’s edge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p11",
+   "type": "narration",
+   "text": "The Clan were there. Baskets on the snow under the first trees, and dragons, and riders lifting Tam’s old ones and his hurt off the wagons by lantern-light, to fly them up to Coldtarn. The wagons would come after, a night and a day behind, with his smiths. A rider looked at the dog’s feet, and at Gannet’s, and at hers, and made room. Two and a dog.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p12",
+   "type": "narration",
+   "text": "Then the dark, and the wind, and the moor going by under the basket’s rim.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 16,
+   "para": "p13",
+   "type": "narration",
+   "text": "Coldtarn in the night. She saw it at dawn.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 17,
+   "para": "p14",
+   "type": "narration",
+   "text": "From the shore where the basket had set them down, in the grey, with the snow coming. The bowl.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p15",
+   "type": "narration",
+   "text": "She’d never seen it. She’d heard of it all her life, as you hear of places in songs."
+  },
+  {
+   "seq": 19,
+   "para": "p15",
+   "type": "thought",
+   "text": "The black tarn where the Clan pours its dead."
+  },
+  {
+   "seq": 20,
+   "para": "p15",
+   "type": "narration",
+   "text": "A bowl of crags in the high moor. Snow on everything. And in the middle, black water. Steaming. Open. A ring of white ice round its edge and the middle black and smoking in the cold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p16",
+   "type": "narration",
+   "text": "The tarn that never froze.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 22,
+   "para": "p17",
+   "type": "narration",
+   "text": "The crags were empty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "narration",
+   "text": "Somebody beside her on the shore said so. A Clan woman."
+  },
+  {
+   "seq": 24,
+   "para": "p18",
+   "type": "thought",
+   "text": "The freed were all on the crags. Round the three. A hundred of them."
+  },
+  {
+   "seq": 25,
+   "para": "p18",
+   "type": "narration",
+   "text": "They’d gone. In the night. Nobody knew where.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 26,
+   "para": "p19",
+   "type": "narration",
+   "text": "And on the western side of the bowl, under the crag, a door.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 27,
+   "para": "p20",
+   "type": "narration",
+   "text": "Open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p21",
+   "type": "narration",
+   "text": "In the rock. At the crag’s foot. A dark oblong, a man and a half high, as wide as a cart, at the top of a steep slope. Above it, a line of something cut in the rock that she couldn’t read at that distance. Below it, a step.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p22",
+   "type": "narration",
+   "text": "And from the step down to the tarn’s shore, the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p23",
+   "type": "narration",
+   "text": "Forty paces. Steep. Loose. Grey scree and frozen turf. Fallen stone lying in the shallows at its foot where somebody had moved a great deal of it, once, all at once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p24",
+   "type": "narration",
+   "text": "The only way up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 32,
+   "para": "p25",
+   "type": "narration",
+   "text": "There was nobody at the door.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 33,
+   "para": "p26",
+   "type": "narration",
+   "text": "She stood on the shore and looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p27",
+   "type": "narration",
+   "text": "Tam’s old ones were there. On the shore below the slope. Flown up in the night, the old and the hurt, lying in rows on the snow under the wagons’ canvas, that the riders had brought up with them. Tam sitting on an empty basket with his head in his hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p28",
+   "type": "narration",
+   "text": "Beyond them, a block of people. Standing. Close. A few hundred. In the Clan’s colours, red and grey, with children. Waiting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p29",
+   "type": "narration",
+   "text": "Not going in.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 37,
+   "para": "p30",
+   "type": "narration",
+   "text": "And all round the shore, the rest.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p31",
+   "type": "narration",
+   "text": "Thousands. Off the Way. Off the moor. On the shore since the day before, in the snow, and more coming over the rim. Not going in. Looking at the door. Nobody had told them they could.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p32",
+   "type": "narration",
+   "text": "And nobody at it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 40,
+   "para": "p33",
+   "type": "speech",
+   "text": "“The knight’s not here,”"
+  },
+  {
+   "seq": 41,
+   "para": "p33",
+   "type": "narration",
+   "text": "said Tam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p34",
+   "type": "narration",
+   "text": "He’d lifted his head. He was looking at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p35",
+   "type": "speech",
+   "text": "“She said she’d be at the door. Counting.”"
+  },
+  {
+   "seq": 44,
+   "para": "p35",
+   "type": "narration",
+   "text": "He looked at the slope."
+  },
+  {
+   "seq": 45,
+   "para": "p35",
+   "type": "speech",
+   "text": "“She’s down at the Fellwood. With the lion. With the other one coming.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p36",
+   "type": "speech",
+   "text": "“Then somebody has to,”"
+  },
+  {
+   "seq": 47,
+   "para": "p36",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 48,
+   "para": "p37",
+   "type": "narration",
+   "text": "She went up the slope.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 49,
+   "para": "p38",
+   "type": "narration",
+   "text": "It was bad. Loose. The scree moving under her boots, the frozen turf breaking. She went up it on her hands as much as her feet, as she’d gone up the far shore’s cliff, and came to the step at the top.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p39",
+   "type": "narration",
+   "text": "She stood on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p40",
+   "type": "narration",
+   "text": "In the doorway. With the warm air coming out of the dark behind her onto her back. Warm. In the snow. She’d forgotten what warm was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p41",
+   "type": "narration",
+   "text": "She turned round and looked down at the shore. At the thousands.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 53,
+   "para": "p42",
+   "type": "speech",
+   "text": "“In the order you came,”"
+  },
+  {
+   "seq": 54,
+   "para": "p42",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p43",
+   "type": "narration",
+   "text": "She didn’t shout. She’d learned from the farmer you didn’t have to shout; you had to say it so the front heard and told the back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p44",
+   "type": "speech",
+   "text": "“The knight said. In the order you came. Five hundred. That’s all it holds.”"
+  },
+  {
+   "seq": 57,
+   "para": "p44",
+   "type": "narration",
+   "text": "She looked at the block in red and grey."
+  },
+  {
+   "seq": 58,
+   "para": "p44",
+   "type": "speech",
+   "text": "“The rest to the caves. The hold at Varrhold. The ledges. The byres. Anywhere with a roof.”"
+  },
+  {
+   "seq": 59,
+   "para": "p44",
+   "type": "narration",
+   "text": "She looked at Tam."
+  },
+  {
+   "seq": 60,
+   "para": "p44",
+   "type": "speech",
+   "text": "“The old and the hurt go first.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 61,
+   "para": "p45",
+   "type": "narration",
+   "text": "Tam looked at her a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p46",
+   "type": "narration",
+   "text": "Then he got up off the basket and went to the first row and started lifting the old ones.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 63,
+   "para": "p47",
+   "type": "narration",
+   "text": "Jory came up the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p48",
+   "type": "narration",
+   "text": "He’d come in the night with the Sheepford’s four hundred. He came up beside her on the step and stood there. Nineteen. His voice gone down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p49",
+   "type": "speech",
+   "text": "“I’ll count,”"
+  },
+  {
+   "seq": 66,
+   "para": "p49",
+   "type": "narration",
+   "text": "said Jory.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p50",
+   "type": "speech",
+   "text": "“So will I,”"
+  },
+  {
+   "seq": 68,
+   "para": "p50",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p51",
+   "type": "narration",
+   "text": "He’d come home over the sea on a green dragon because a farmer said"
+  },
+  {
+   "seq": 70,
+   "para": "p51",
+   "type": "bond",
+   "text": "bring him home"
+  },
+  {
+   "seq": 71,
+   "para": "p51",
+   "type": "narration",
+   "text": ". Nobody had ever sent the Merrins a bill for it. She’d waited a month for one.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 72,
+   "para": "p52",
+   "type": "narration",
+   "text": "And Davin came. On the shore. With the old man.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p53",
+   "type": "narration",
+   "text": "On a hurdle. Four men carrying it. The old man in his blanket on it, grey, shaking, with his hands folded on his chest and his eyes open. They’d carried him up the Way from the Vale. Davin walking beside with his case.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p54",
+   "type": "narration",
+   "text": "Davin came up the slope after them, with his case, and sat on the step by her feet with a pencil.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p55",
+   "type": "speech",
+   "text": "“Names,”"
+  },
+  {
+   "seq": 76,
+   "para": "p55",
+   "type": "narration",
+   "text": "said Davin."
+  },
+  {
+   "seq": 77,
+   "para": "p55",
+   "type": "speech",
+   "text": "“Someone should have them.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 78,
+   "para": "p56",
+   "type": "narration",
+   "text": "They came up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 79,
+   "para": "p57",
+   "type": "narration",
+   "text": "The old first. Tam’s. Off the snow, carried up the slope, by Tam, by his smiths, by anyone. Old men and women from the Hearthmere camp and the Wyldmarch and Sarovel. Hurt. Burned. Frozen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p58",
+   "type": "narration",
+   "text": "One by one to the step.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p59",
+   "type": "narration",
+   "text": "And she stopped them there.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 82,
+   "para": "p60",
+   "type": "narration",
+   "text": "She put her hand in her coat pocket.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 83,
+   "para": "p61",
+   "type": "narration",
+   "text": "She always had salt. Every Saltreach captain did. Coarse, grey, from the Blackwater pans, a handful in a twist of oilcloth in your coat. For a contract, at a table. For a bargain, on a dock. You never knew when you’d need it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p62",
+   "type": "narration",
+   "text": "She’d had it on the ketch’s galley shelf in a chipped clay dish. She’d tipped the dish into her pocket at the Sheepford, before they ran her aground.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p63",
+   "type": "narration",
+   "text": "The last of it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 86,
+   "para": "p64",
+   "type": "narration",
+   "text": "She took a pinch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p65",
+   "type": "narration",
+   "text": "And put it on the old man’s tongue. The first one. A Hearthmere farmer with his hands wrapped, carried by two of Tam’s smiths. He opened his mouth because she put her hand up to it, and she put the salt on his tongue.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 88,
+   "para": "p66",
+   "type": "narration",
+   "text": "The old words were"
+  },
+  {
+   "seq": 89,
+   "para": "p66",
+   "type": "thought",
+   "text": "Salt between us. What’s sworn is kept, or neither of us is fit to drink with.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p67",
+   "type": "narration",
+   "text": "She’d said them to the knight in the stern cabin at Blackwater, with a dish between them and a price written down. The Accord’s warrant. The reef-stone. Passage both ways. The rule kept.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p68",
+   "type": "narration",
+   "text": "She’d won every price off the knight at that table. The knight had let her. And on the deck by the forehatch at the last milestone, with the grey up her neck to the jaw, Kit had asked what it was, and the knight hadn’t put her hand up to it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p69",
+   "type": "thought",
+   "text": "It’s paid.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p70",
+   "type": "thought",
+   "text": "By whom?",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p71",
+   "type": "thought",
+   "text": "By me.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p72",
+   "type": "narration",
+   "text": "She didn’t say the old words.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 96,
+   "para": "p73",
+   "type": "speech",
+   "text": "“Salt between us,”"
+  },
+  {
+   "seq": 97,
+   "para": "p73",
+   "type": "narration",
+   "text": "said Kit."
+  },
+  {
+   "seq": 98,
+   "para": "p73",
+   "type": "speech",
+   "text": "“Nothing owed.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 99,
+   "para": "p74",
+   "type": "narration",
+   "text": "The old man looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p75",
+   "type": "narration",
+   "text": "With the salt on his tongue. He didn’t understand. He was a Hearthmere farmer; he’d never sealed a contract with salt in his life.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p76",
+   "type": "narration",
+   "text": "He went in.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 102,
+   "para": "p77",
+   "type": "narration",
+   "text": "The next.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p78",
+   "type": "narration",
+   "text": "A pinch. On the tongue.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p79",
+   "type": "thought",
+   "text": "Salt between us. Nothing owed.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 105,
+   "para": "p80",
+   "type": "narration",
+   "text": "She did it for every one.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 106,
+   "para": "p81",
+   "type": "narration",
+   "text": "All morning. On the step. In the doorway, with the warm air on her back and the snow coming down on her face. Every one who came up the slope. A pinch of grey salt from her pocket on their tongue, and the words.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p82",
+   "type": "narration",
+   "text": "Nothing owed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p83",
+   "type": "narration",
+   "text": "A contract with no price. Nothing to pay. Nothing sworn but that. She’d been born into a league where everything had a price, and you sealed the price with salt, and the salt meant"
+  },
+  {
+   "seq": 109,
+   "para": "p83",
+   "type": "thought",
+   "text": "I’ll hold you to it"
+  },
+  {
+   "seq": 110,
+   "para": "p83",
+   "type": "narration",
+   "text": ".",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p84",
+   "type": "narration",
+   "text": "She turned it round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p85",
+   "type": "narration",
+   "text": "The salt meant I won’t.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 113,
+   "para": "p86",
+   "type": "narration",
+   "text": "Tam came up the slope behind the last of his old ones. He stopped on the step. She held up a pinch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p87",
+   "type": "speech",
+   "text": "“What’s this?”"
+  },
+  {
+   "seq": 115,
+   "para": "p87",
+   "type": "narration",
+   "text": "said Tam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Salt.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p89",
+   "type": "speech",
+   "text": "“What for?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p90",
+   "type": "speech",
+   "text": "“So you know you don’t owe me anything,”"
+  },
+  {
+   "seq": 119,
+   "para": "p90",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p91",
+   "type": "narration",
+   "text": "Tam looked at her. Then he opened his mouth. She put it on his tongue.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p92",
+   "type": "speech",
+   "text": "“Salt between us,”"
+  },
+  {
+   "seq": 122,
+   "para": "p92",
+   "type": "narration",
+   "text": "said Kit."
+  },
+  {
+   "seq": 123,
+   "para": "p92",
+   "type": "speech",
+   "text": "“Nothing owed.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p93",
+   "type": "narration",
+   "text": "He went in. He came out again a breath later and went back down the slope for the next one.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 125,
+   "para": "p94",
+   "type": "narration",
+   "text": "The Clan’s families came next.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p95",
+   "type": "narration",
+   "text": "They’d stood on the shore since before dawn. In their block. Waiting. Because Arn had told them."
+  },
+  {
+   "seq": 127,
+   "para": "p95",
+   "type": "remembered",
+   "text": "In the order they come."
+  },
+  {
+   "seq": 128,
+   "para": "p95",
+   "type": "narration",
+   "text": "They’d come up from the ledges, half a day off, to wait their turn. They’d stood and waited while Tam’s old ones went up, because the knight had said the old and the hurt went in first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p96",
+   "type": "narration",
+   "text": "Arn on the shore. Sorting. Pointing. Ildra beside him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p97",
+   "type": "narration",
+   "text": "He looked up at her once, on the step.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p98",
+   "type": "narration",
+   "text": "She looked back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 132,
+   "para": "p99",
+   "type": "narration",
+   "text": "They came up. Red and grey. The riders’ wives. The old ones from the ledges. The children. A girl with a basket of eggs, who wouldn’t let go of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p100",
+   "type": "narration",
+   "text": "Salt. On the tongue.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p101",
+   "type": "thought",
+   "text": "Nothing owed.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 135,
+   "para": "p102",
+   "type": "narration",
+   "text": "Kessmoor’s crews. Some. The ones who’d run from the Flat when the Bridle went into the river. In their grey. Frightened. She saw them come up the slope and look at her and not know if they’d be let in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p103",
+   "type": "narration",
+   "text": "She put salt on their tongues.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 137,
+   "para": "p104",
+   "type": "narration",
+   "text": "A Keeper’s wolf.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p105",
+   "type": "narration",
+   "text": "Grey. Lame. With a Keeper boy beside it with his arm in a sling, sixteen, who’d come up from Varrhold’s pens where the Clan had flown them on the first night of the battle. The wolf had a broken back once, the boy said. It walked now. Badly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p106",
+   "type": "narration",
+   "text": "The wolf put its nose to her hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p107",
+   "type": "narration",
+   "text": "She opened her hand. The salt in it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p108",
+   "type": "narration",
+   "text": "It licked it off her fingers.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 142,
+   "para": "p109",
+   "type": "speech",
+   "text": "“Two hundred,”"
+  },
+  {
+   "seq": 143,
+   "para": "p109",
+   "type": "narration",
+   "text": "said Jory. Beside her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p110",
+   "type": "speech",
+   "text": "“Two hundred,”"
+  },
+  {
+   "seq": 145,
+   "para": "p110",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p111",
+   "type": "narration",
+   "text": "Davin wrote.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 147,
+   "para": "p112",
+   "type": "narration",
+   "text": "The rest went on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p113",
+   "type": "narration",
+   "text": "Down the beck. Arn and the riders leading them. And Tam, when he’d done with his old ones. Down the valley path toward Varrhold, half a day. To the hold. To the pens. To the caves across the bowl, where an old woman in a shawl was standing in the cave mouth with a lantern lit in the morning, waving them in. To the ledges.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p114",
+   "type": "narration",
+   "text": "Anywhere with a roof.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p115",
+   "type": "narration",
+   "text": "Thousands. Going down the beck in the snow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p116",
+   "type": "narration",
+   "text": "She watched them go. She didn’t let herself count them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 152,
+   "para": "p117",
+   "type": "narration",
+   "text": "At noon the ground shook.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 153,
+   "para": "p118",
+   "type": "narration",
+   "text": "She felt it on the step. Through her boots. Through the stone. A long shudder, as a deck shudders when a sea comes aboard. Then another.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p119",
+   "type": "narration",
+   "text": "The tarn’s black middle heaved. The steam on it tore.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p120",
+   "type": "narration",
+   "text": "And the wind came.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 156,
+   "para": "p121",
+   "type": "narration",
+   "text": "From the south. Over the bowl’s rim. Hard. All at once. Snow in it, flung, going sideways across the bowl in sheets. The sky over the rim going dark. Not cloud. Something else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p122",
+   "type": "narration",
+   "text": "The old man, on his hurdle on the shore, lifted his head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p123",
+   "type": "speech",
+   "text": "“It’s the surge,”"
+  },
+  {
+   "seq": 159,
+   "para": "p123",
+   "type": "narration",
+   "text": "he said. She heard him. He didn’t say it loud."
+  },
+  {
+   "seq": 160,
+   "para": "p123",
+   "type": "speech",
+   "text": "“It’s coming up the Scarfell. From the middle.”"
+  },
+  {
+   "seq": 161,
+   "para": "p123",
+   "type": "narration",
+   "text": "His eyes went to the south."
+  },
+  {
+   "seq": 162,
+   "para": "p123",
+   "type": "speech",
+   "text": "“It’ll be weather. It’ll be all weather.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 163,
+   "para": "p124",
+   "type": "narration",
+   "text": "The scree slipped.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 164,
+   "para": "p125",
+   "type": "narration",
+   "text": "Under the line climbing to the door. Forty paces of it. Grey stone and frozen turf. She felt the step shake and looked down and the whole slope was moving. Sliding. Slowly. Downward. Toward the tarn. With people on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p126",
+   "type": "narration",
+   "text": "They threw themselves at the step. Climbing. Clawing. She pulled them up. Jory pulled them up. Davin dropped his pencil and pulled.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 166,
+   "para": "p127",
+   "type": "narration",
+   "text": "And in the middle of the slope, a child.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 167,
+   "para": "p128",
+   "type": "narration",
+   "text": "Small. Five, perhaps. A girl. In a coat too big for her. Sitting on the sliding scree, sliding with it. Crying. Nobody holding her. Nobody carrying her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p129",
+   "type": "narration",
+   "text": "From Wendmouth. Kit knew the coat. A floating-market coat, patched, red. She’d seen it on the barges.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p130",
+   "type": "narration",
+   "text": "Sliding toward the tarn.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 170,
+   "para": "p131",
+   "type": "narration",
+   "text": "Gannet went down for her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 171,
+   "para": "p132",
+   "type": "narration",
+   "text": "She saw him go. From beside her on the step, where he’d been all morning, handing people up the last pace. Down. Over the edge. Onto the moving scree. Down it, on his heels, sliding, keeping his feet somehow, as a sailor keeps his feet on a deck in a sea.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p133",
+   "type": "narration",
+   "text": "To the child.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p134",
+   "type": "narration",
+   "text": "He picked her up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 174,
+   "para": "p135",
+   "type": "narration",
+   "text": "He came back up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p136",
+   "type": "narration",
+   "text": "Up the sliding scree. With the girl on his shoulder. One hand on her, one on the stones. Climbing. The slope going down under him as he went up it, so that he climbed and climbed and came up slowly, slowly, a pace for every three he took.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p137",
+   "type": "narration",
+   "text": "She leaned out from the step with her hand out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p138",
+   "type": "speech",
+   "text": "“Gannet.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p139",
+   "type": "narration",
+   "text": "He looked up. He was grinning. She hadn’t seen him grin since the far shore.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 179,
+   "para": "p140",
+   "type": "narration",
+   "text": "Four paces from the step.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 180,
+   "para": "p141",
+   "type": "narration",
+   "text": "The crag above the door let go a stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p142",
+   "type": "narration",
+   "text": "She heard it before she saw it. A crack, overhead. The ground’s shaking. A boulder the size of a water-cask coming off the crag’s face above the door and down the slope beside the step, bounding.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p143",
+   "type": "narration",
+   "text": "Into the scree. Into his legs.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 183,
+   "para": "p144",
+   "type": "narration",
+   "text": "He threw the child.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 184,
+   "para": "p145",
+   "type": "narration",
+   "text": "Up. As the stone took him. Up, off his shoulder, with both hands, as you’d throw a line to a dock. The girl in her red coat going up through the air to the step.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p146",
+   "type": "speech",
+   "text": "“Kit,”",
+   "how": "shouted"
+  },
+  {
+   "seq": 186,
+   "para": "p146",
+   "type": "narration",
+   "text": "shouted Gannet."
+  },
+  {
+   "seq": 187,
+   "para": "p146",
+   "type": "speech",
+   "text": "“Catch.”",
+   "how": "shouted",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 188,
+   "para": "p147",
+   "type": "narration",
+   "text": "She caught.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 189,
+   "para": "p148",
+   "type": "narration",
+   "text": "The girl in her arms. On the step. Screaming. Alive.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p149",
+   "type": "narration",
+   "text": "And Gannet going down the slope. With the boulder. With the scree. All of it going down together into the tarn’s shallows. In a long grey slide. Into the water at the slope’s foot. In the snow.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 191,
+   "para": "p150",
+   "type": "narration",
+   "text": "They found him at the water’s edge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p151",
+   "type": "narration",
+   "text": "When the slope had stopped. When the wind had dropped for a moment. Jory and two of Arn’s riders went down the new raw slope on ropes and brought him up onto the shore.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p152",
+   "type": "narration",
+   "text": "She went down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p153",
+   "type": "narration",
+   "text": "She left the girl with Davin and went down the slope on the rope and knelt by him on the shore in the snow.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 195,
+   "para": "p154",
+   "type": "narration",
+   "text": "He was dead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p155",
+   "type": "narration",
+   "text": "His face was all right. His legs weren’t. He was lying on his back on the stones with his eyes open, grey with snow, looking up at the sky. Still grinning, a little. As he’d grinned at the masthead once, years ago, when she was a girl and he was her father’s bosun, and he’d shown her how to splice.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 197,
+   "para": "p156",
+   "type": "narration",
+   "text": "She put her hand in her pocket.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p157",
+   "type": "narration",
+   "text": "There was a little left. She took a pinch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p158",
+   "type": "narration",
+   "text": "She put it on his tongue.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 200,
+   "para": "p159",
+   "type": "speech",
+   "text": "“Salt between us,”"
+  },
+  {
+   "seq": 201,
+   "para": "p159",
+   "type": "narration",
+   "text": "said Kit."
+  },
+  {
+   "seq": 202,
+   "para": "p159",
+   "type": "speech",
+   "text": "“Nothing owed.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 203,
+   "para": "p160",
+   "type": "narration",
+   "text": "His coat was open. She saw the purse. Ostrey silver. In the inside pocket. Heavy. He’d said he had most of it left. There’d been nothing to spend it on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p161",
+   "type": "narration",
+   "text": "She left it there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p162",
+   "type": "narration",
+   "text": "She closed his coat over it and stood up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 206,
+   "para": "p163",
+   "type": "narration",
+   "text": "The sky over the tarn was full.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 207,
+   "para": "p164",
+   "type": "narration",
+   "text": "She saw it when she stood. Above the bowl. In the snow and the wind coming over the rim, dark, sideways.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p165",
+   "type": "narration",
+   "text": "Wings.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 209,
+   "para": "p166",
+   "type": "narration",
+   "text": "The Clan’s. Fifty pairs, perhaps. All that could still fly. Red and grey. Circling over the tarn, low, under the dark, between the storm and the people on the shore and the slope. Holding the air. Their wings out against the wind.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p167",
+   "type": "narration",
+   "text": "And among them, two great rust-and-white shapes. Slower. Bigger. Rocs. The last two. Yeva’s. Holding the air over the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p168",
+   "type": "narration",
+   "text": "And a wyvern.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 212,
+   "para": "p169",
+   "type": "narration",
+   "text": "Black-green. Alone. With no rider.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p170",
+   "type": "narration",
+   "text": "Nobody knew whose it was. She heard someone on the shore ask, and someone else say Black Ruth’s, and someone else say Nell Tallis’s. It flew with the dragons. In among them. Round and round over the tarn in the dark with its wings out against the storm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p171",
+   "type": "narration",
+   "text": "Nobody chained it. Nobody had to.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 215,
+   "para": "p172",
+   "type": "narration",
+   "text": "And above all of it, high, higher than the storm almost, a shape.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 216,
+   "para": "p173",
+   "type": "narration",
+   "text": "Bronze. Enormous. Larger than anything in the sky. The size of the crag. Circling. Slowly. With her wings full out and her head down.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 217,
+   "para": "p174",
+   "type": "narration",
+   "text": "The old one. The farmer’s.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 218,
+   "para": "p175",
+   "type": "narration",
+   "text": "She was looking at something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p176",
+   "type": "narration",
+   "text": "Kit could see that from the shore. The great bronze head turned down. Not at the people. Not at the slope. Not at the door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p177",
+   "type": "narration",
+   "text": "At the tarn’s frozen edge. At the white ring of ice round the black water, on the western side, where Hollow Beck came out from under the scree and ran away west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p178",
+   "type": "narration",
+   "text": "Looking. Hard. At something under the ice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 222,
+   "para": "p179",
+   "type": "narration",
+   "text": "Kit looked where she looked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p180",
+   "type": "narration",
+   "text": "Ice. Snow. The beck’s mouth. Black water. Nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p181",
+   "type": "narration",
+   "text": "Nothing she could see.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "c29638cdf5f66c02550025f475b10be9dd8abbf3",
+ "segments_sha1": "183bd9caedc80c6c02bd27da2902224891b93c45"
+}

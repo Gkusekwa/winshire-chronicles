@@ -2,6 +2,27 @@
  "chapter": 34,
  "title": "The Tidesteps",
  "pov": "Calder",
+ "source": "Chapters/Chapter 34 - The Tidesteps.md",
+ "names": [
+  "aurveth",
+  "calder",
+  "cotter",
+  "crane",
+  "cross",
+  "ewe",
+  "gallows",
+  "hearthmere",
+  "lisska",
+  "marches",
+  "ruin",
+  "strand",
+  "teo",
+  "tidesteps",
+  "vale",
+  "varrhold",
+  "wendmouth",
+  "wendwood"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1841,5 +1862,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "0b3f294511565544d05443cc3874c79bc6da2e74",
+ "segments_sha1": "61c781d7bcbbd3bac16010165e0c427f95436995"
 }

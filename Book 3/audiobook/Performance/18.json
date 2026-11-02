@@ -1,0 +1,1581 @@
+{
+ "chapter": 18,
+ "title": "The Breeding Pens",
+ "pov": "",
+ "source": "Chapters/Chapter 18 - The Breeding Pens.md",
+ "names": [
+  "arn",
+  "askell",
+  "bjarke",
+  "corsa",
+  "gorm",
+  "ildra",
+  "leir",
+  "roosts",
+  "scarfell",
+  "teo",
+  "ulric",
+  "wren"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Eighteen.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Breeding Pens.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The pens faced west now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "They’d faced east in the spring. Every dragon in them, silent, the morning the six came down. Then on the forty-first day at noon they’d turned. All at once. Arn had been on the pen rail and seen it: a hundred heads coming round together, slowly, like grass under a wind, from east to west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "They hadn’t turned back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "He walked them every morning, as his father had. Along the rail. Between the oak bars. Looking in. And every morning a hundred dragons stood with their heads to the west and didn’t look at him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "They were restless at night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "He heard them from the hall. A sound like weather. Wings against bars. The oak bars of the spring pens, as thick as a man’s thigh, set in the rock when the hold was built. Wings beating against them in the dark, and claws on stone, and a low sound under it all that wasn’t humming any more.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "Leir said they’d never been like it. Leir had kept the pens for fifty years. His father before him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "speech",
+   "text": "“They want to go somewhere,”"
+  },
+  {
+   "seq": 11,
+   "para": "p8",
+   "type": "narration",
+   "text": "said Leir."
+  },
+  {
+   "seq": 12,
+   "para": "p8",
+   "type": "speech",
+   "text": "“They don’t know where.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p9",
+   "type": "speech",
+   "text": "“West.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p10",
+   "type": "speech",
+   "text": "“They don’t know what west is,”"
+  },
+  {
+   "seq": 15,
+   "para": "p10",
+   "type": "narration",
+   "text": "said Leir."
+  },
+  {
+   "seq": 16,
+   "para": "p10",
+   "type": "speech",
+   "text": "“They’ve never been anywhere.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 17,
+   "para": "p11",
+   "type": "narration",
+   "text": "On the seventy-first day a young red broke its wing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p12",
+   "type": "narration",
+   "text": "In the dark. Against the bars. A two-year-old, not named. Gorm Askell’s books had it as a number. It had beaten itself against the bars of the eleventh pen all night and in the morning it was lying in the straw with its left wing bent the wrong way at the second joint and the bone through the skin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p13",
+   "type": "narration",
+   "text": "Leir looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p14",
+   "type": "narration",
+   "text": "Then he went for the knife. The keepers’ long knife, that hung in the pen-house for this.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p15",
+   "type": "narration",
+   "text": "Arn held its head.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 22,
+   "para": "p16",
+   "type": "narration",
+   "text": "It didn’t fight. It looked at him. A young dragon’s eyes, gold, with nobody much behind them yet, but somebody beginning. It looked at him while Leir found the place under the jaw where the plates didn’t meet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p17",
+   "type": "narration",
+   "text": "Then it didn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p18",
+   "type": "narration",
+   "text": "He sat in the straw with its head in his lap after, until the keepers came with the barrow.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 25,
+   "para": "p19",
+   "type": "narration",
+   "text": "He hadn’t been chosen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p20",
+   "type": "narration",
+   "text": "He’d stood on the Choosing Ledge in his fifteenth summer, as the chief’s elder son, in a clean shirt, with his hands at his sides. The yearlings had come up out of the pens one at a time and walked the line of hopefuls, and stopped in front of one, or didn’t stop, and went on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p21",
+   "type": "narration",
+   "text": "They’d walked past him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p22",
+   "type": "narration",
+   "text": "His sixteenth summer, the same. He’d stood very straight. They’d walked past.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p23",
+   "type": "narration",
+   "text": "Four summers on, Teo had stood there once, fifteen, with his shirt hanging out and his hair in his eyes, laughing at something somebody had said, not even looking. Nothing had stopped in front of him either. He hadn’t cared at all. He’d laughed all the way back down the stair.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p24",
+   "type": "narration",
+   "text": "Arn had stopped standing by then. He’d never known which of them it was easier to be.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 31,
+   "para": "p25",
+   "type": "narration",
+   "text": "He went up to the Roosts on the seventy-third.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p26",
+   "type": "narration",
+   "text": "At dawn. Alone. The stone ledges above the hold where the riders took off, worn smooth by three hundred years of claws. Teo had sat on the third ledge to watch the riders go. Always the third. He’d said the view was better. It wasn’t. Teo had just liked it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p27",
+   "type": "narration",
+   "text": "Arn sat on the third ledge with his legs over the edge and looked at the Scarfell going away grey under the morning. The moor. The tarns. The smoke from the hold below him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p28",
+   "type": "narration",
+   "text": "Behind him, claws on stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p29",
+   "type": "narration",
+   "text": "He didn’t turn round.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 36,
+   "para": "p30",
+   "type": "narration",
+   "text": "She came and lay down a length off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p31",
+   "type": "narration",
+   "text": "Ildra. Small, for a dragon. A yearling still, nearly two. Dark, a red so dark it was almost black, with a stub of horn over one eye where something had broken it once, in the cage at Vael, or before. The one the girl had talked back into her own head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p32",
+   "type": "narration",
+   "text": "She’d slept in the hall’s porch for sixty days. He’d stepped over her tail sixty times.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p33",
+   "type": "speech",
+   "text": "“Go back to Wren,”"
+  },
+  {
+   "seq": 40,
+   "para": "p33",
+   "type": "narration",
+   "text": "he said. Without looking.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 41,
+   "para": "p34",
+   "type": "thought",
+   "text": "No.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p35",
+   "type": "narration",
+   "text": "He went still.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 43,
+   "para": "p36",
+   "type": "narration",
+   "text": "No sound. It was in him. In the back of his head where nothing had ever been but his own thoughts, a voice. Small. Rough. Odd. Like a hinge that hadn’t been used. Like a voice that had been shut up a long time in a small place and had forgotten how big a word was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p37",
+   "type": "bond",
+   "text": "No,"
+  },
+  {
+   "seq": 45,
+   "para": "p37",
+   "type": "narration",
+   "text": "it said again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p38",
+   "type": "narration",
+   "text": "He turned his head and looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p39",
+   "type": "narration",
+   "text": "She was looking at him. Gold eyes. Somebody behind them. All the way behind them, now.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 48,
+   "para": "p40",
+   "type": "bond",
+   "text": "You walk them,"
+  },
+  {
+   "seq": 49,
+   "para": "p40",
+   "type": "narration",
+   "text": "said Ildra."
+  },
+  {
+   "seq": 50,
+   "para": "p40",
+   "type": "thought",
+   "text": "Every morning. Along the rail. You look at them through the bars.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 51,
+   "para": "p41",
+   "type": "narration",
+   "text": "He couldn’t speak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p42",
+   "type": "bond",
+   "text": "I was in bars,"
+  },
+  {
+   "seq": 53,
+   "para": "p42",
+   "type": "narration",
+   "text": "said Ildra.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 54,
+   "para": "p43",
+   "type": "narration",
+   "text": "And he felt it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p44",
+   "type": "narration",
+   "text": "Not as a story. As a thing that had happened to him. It came into him through the place where her voice was, all at once, and he couldn’t stop it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p45",
+   "type": "narration",
+   "text": "A collar. Tight. Something sweet in the air that you couldn’t stop breathing, that came in and filled you up until there wasn’t any you. A man’s voice in a language that wasn’t words, saying"
+  },
+  {
+   "seq": 57,
+   "para": "p45",
+   "type": "thought",
+   "text": "mine, mine, mine."
+  },
+  {
+   "seq": 58,
+   "para": "p45",
+   "type": "narration",
+   "text": "Dark. Bars. Being moved. Standing. Standing for a long time in a cave by warm water with nothing behind your eyes at all, nothing, a long grey nothing like a moor in fog.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p46",
+   "type": "narration",
+   "text": "And then, from very far off, a girl’s voice. Talking. About barley. About wind on barley making it go all one way like water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p47",
+   "type": "narration",
+   "text": "Coming closer.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 61,
+   "para": "p48",
+   "type": "narration",
+   "text": "He was on his knees on the third ledge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p49",
+   "type": "narration",
+   "text": "He didn’t remember getting there. His hands were flat on the stone. He was breathing as if he’d run up the stair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p50",
+   "type": "narration",
+   "text": "She was still lying a length off. Watching him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p51",
+   "type": "speech",
+   "text": "“I didn’t ask,”"
+  },
+  {
+   "seq": 65,
+   "para": "p51",
+   "type": "narration",
+   "text": "said Arn. His voice came out cracked."
+  },
+  {
+   "seq": 66,
+   "para": "p51",
+   "type": "speech",
+   "text": "“I didn’t ask for this.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p52",
+   "type": "bond",
+   "text": "No,"
+  },
+  {
+   "seq": 68,
+   "para": "p52",
+   "type": "narration",
+   "text": "said Ildra."
+  },
+  {
+   "seq": 69,
+   "para": "p52",
+   "type": "thought",
+   "text": "I did.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 70,
+   "para": "p53",
+   "type": "narration",
+   "text": "He knew what it was.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p54",
+   "type": "narration",
+   "text": "Everyone in the Clan knew. You didn’t have to have it to know. One life between two. Whatever happened to her happened to him now, a little; whatever happened to him happened to her. If she died, he’d most likely die after. If he died, she would. That was a bond. That was what Imra Sallow had had, and what had nearly killed the green one after her, at the mill, until a farmer caught her.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 72,
+   "para": "p55",
+   "type": "narration",
+   "text": "He’d never wanted it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p56",
+   "type": "narration",
+   "text": "He’d wanted it more than anything, when he was fifteen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p57",
+   "type": "narration",
+   "text": "He knelt on the ledge and looked at the young dragon who’d been bound by Corvin’s men and had nothing in her head for a year and had come back from it on a ten-year-old’s voice. And had chosen him. Of all of them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p58",
+   "type": "speech",
+   "text": "“Why?”"
+  },
+  {
+   "seq": 76,
+   "para": "p58",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p59",
+   "type": "bond",
+   "text": "You held its head,"
+  },
+  {
+   "seq": 78,
+   "para": "p59",
+   "type": "narration",
+   "text": "said Ildra."
+  },
+  {
+   "seq": 79,
+   "para": "p59",
+   "type": "thought",
+   "text": "The red one. In the straw.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 80,
+   "para": "p60",
+   "type": "narration",
+   "text": "Wren came down on the seventy-fourth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p61",
+   "type": "narration",
+   "text": "With Bel and the farmer’s mother, on the old grey beast, for the hold’s market day. She saw at once. Ten years old and she saw it from across the yard, before anyone had said anything, because Ildra was standing beside Arn at the hall door instead of lying in the porch, and was looking at Arn instead of at the door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p62",
+   "type": "narration",
+   "text": "Wren walked across the yard and stood in front of them both and looked up at Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p63",
+   "type": "speech",
+   "text": "“I told you she liked you,”"
+  },
+  {
+   "seq": 84,
+   "para": "p63",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 85,
+   "para": "p64",
+   "type": "narration",
+   "text": "She wasn’t crying. He’d thought she might. She stood with her plait over her shoulder and her father’s chin and looked at Ildra, and then at him, and he could see her being glad and sad at once, as children are, all the way through, both.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p65",
+   "type": "speech",
+   "text": "“She still has to come when I talk,”"
+  },
+  {
+   "seq": 87,
+   "para": "p65",
+   "type": "narration",
+   "text": "said Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p66",
+   "type": "bond",
+   "text": "I will,"
+  },
+  {
+   "seq": 89,
+   "para": "p66",
+   "type": "narration",
+   "text": "said Ildra. In him. Only him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p67",
+   "type": "speech",
+   "text": "“She says she will,”"
+  },
+  {
+   "seq": 91,
+   "para": "p67",
+   "type": "narration",
+   "text": "said Arn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p68",
+   "type": "narration",
+   "text": "Wren looked at Ildra. Then she nodded. Once. As if she’d been told the terms of something, and they were fair.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p69",
+   "type": "speech",
+   "text": "“Good,”"
+  },
+  {
+   "seq": 94,
+   "para": "p69",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 95,
+   "para": "p70",
+   "type": "narration",
+   "text": "He heard the pens through her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p71",
+   "type": "narration",
+   "text": "Not words. Ildra didn’t hear words from them either, she told him. The kept ones had never been taught what a word was for. What came through her into him, at night, lying in the hall with the dragon in the porch and the pens below making their weather, was wanting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p72",
+   "type": "narration",
+   "text": "Wanting, and not knowing what for.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p73",
+   "type": "narration",
+   "text": "And under it, over and over, the same shape. Hard. Straight. Near.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p74",
+   "type": "bond",
+   "text": "The bar,"
+  },
+  {
+   "seq": 100,
+   "para": "p74",
+   "type": "narration",
+   "text": "said Ildra."
+  },
+  {
+   "seq": 101,
+   "para": "p74",
+   "type": "thought",
+   "text": "That’s all they think about. The bar. The bar. The bar.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 102,
+   "para": "p75",
+   "type": "narration",
+   "text": "He told the hall on the seventy-seventh.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p76",
+   "type": "narration",
+   "text": "At night. From the bench beside the chair. The chair still under its grey cloth, as it had been since Teo burned. He hadn’t sat in it. He sat on the bench beside it, as he’d sat since, and the riders sat at the two tables, red on the left, grey on the right, and he told them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p77",
+   "type": "speech",
+   "text": "“The pens will open,”"
+  },
+  {
+   "seq": 105,
+   "para": "p77",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 106,
+   "para": "p77",
+   "type": "speech",
+   "text": "“On the seventy-ninth. At dawn. All of them.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 107,
+   "para": "p78",
+   "type": "narration",
+   "text": "The red side came up off its bench.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p79",
+   "type": "narration",
+   "text": "Not all of it. Enough. Bjarke first. Young, loud, from the high ledges, on his feet with his cup in his hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p80",
+   "type": "speech",
+   "text": "“The pens are the Clan,”"
+  },
+  {
+   "seq": 110,
+   "para": "p80",
+   "type": "narration",
+   "text": "said Bjarke."
+  },
+  {
+   "seq": 111,
+   "para": "p80",
+   "type": "speech",
+   "text": "“The pens are what the Clan is. Three hundred years. The Clan is its dragons.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p81",
+   "type": "speech",
+   "text": "“The Clan is its riders,”"
+  },
+  {
+   "seq": 113,
+   "para": "p81",
+   "type": "narration",
+   "text": "said Arn."
+  },
+  {
+   "seq": 114,
+   "para": "p81",
+   "type": "speech",
+   "text": "“The dragons were never ours.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p82",
+   "type": "speech",
+   "text": "“They’re on the books!”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p83",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 117,
+   "para": "p83",
+   "type": "narration",
+   "text": "said Arn."
+  },
+  {
+   "seq": 118,
+   "para": "p83",
+   "type": "speech",
+   "text": "“We wrote them down. That’s all we did.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 119,
+   "para": "p84",
+   "type": "narration",
+   "text": "The grey side didn’t come up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p85",
+   "type": "narration",
+   "text": "It sat. It looked at him. Old Hulda Sarr at the end of the grey table, who’d laughed at the old one’s joke in the spring, didn’t laugh now. She sat with her hands round her cup and looked at the chair.",
+   "mood": "humour",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p86",
+   "type": "narration",
+   "text": "Ivar Leck spoke for the grey. The Clan’s dragon-doctor. Old, careful, with a bag of salves always at his feet. He didn’t stand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p87",
+   "type": "speech",
+   "text": "“There’s a Titan coming west,”"
+  },
+  {
+   "seq": 123,
+   "para": "p87",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 124,
+   "para": "p87",
+   "type": "speech",
+   "text": "“Arn. You know it. The whole Clan knows it. The pens hold a hundred and some dragons.”"
+  },
+  {
+   "seq": 125,
+   "para": "p87",
+   "type": "narration",
+   "text": "He looked at Arn steadily."
+  },
+  {
+   "seq": 126,
+   "para": "p87",
+   "type": "speech",
+   "text": "“A hundred dragons is a hundred dragons.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p88",
+   "type": "speech",
+   "text": "“A hundred dragons in pens,”"
+  },
+  {
+   "seq": 128,
+   "para": "p88",
+   "type": "narration",
+   "text": "said Arn,"
+  },
+  {
+   "seq": 129,
+   "para": "p88",
+   "type": "speech",
+   "text": "“is a hundred dragons in pens.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 130,
+   "para": "p89",
+   "type": "narration",
+   "text": "Gorm Askell came in the morning with a barrow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p90",
+   "type": "narration",
+   "text": "Arn’s steward. Long, sour, ink to the elbow. Limping since the ford. He’d sat up all night; it was in his face. He pushed a barrow into the hall full of books, every ledger the pens had, back to the first one, bound in boards, its pages gone brown, and he stopped the barrow in front of the red table.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p91",
+   "type": "narration",
+   "text": "In front of Bjarke.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 133,
+   "para": "p92",
+   "type": "speech",
+   "text": "“Since the hold was built,”"
+  },
+  {
+   "seq": 134,
+   "para": "p92",
+   "type": "narration",
+   "text": "said Gorm Askell,"
+  },
+  {
+   "seq": 135,
+   "para": "p92",
+   "type": "speech",
+   "text": "“the spring pens and the high pens have bred and kept one thousand one hundred and forty dragons.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p93",
+   "type": "narration",
+   "text": "He didn’t open a book. He didn’t need to. He’d made the count himself, in the night, every page.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p94",
+   "type": "speech",
+   "text": "“Of those,”"
+  },
+  {
+   "seq": 138,
+   "para": "p94",
+   "type": "narration",
+   "text": "said Gorm,"
+  },
+  {
+   "seq": 139,
+   "para": "p94",
+   "type": "speech",
+   "text": "“two hundred and twelve chose a rider. In their whole lives. Two hundred and twelve.”"
+  },
+  {
+   "seq": 140,
+   "para": "p94",
+   "type": "narration",
+   "text": "He looked at Bjarke."
+  },
+  {
+   "seq": 141,
+   "para": "p94",
+   "type": "speech",
+   "text": "“The rest lived in the pens. And died in the pens. And were burned and poured for and written down.”"
+  },
+  {
+   "seq": 142,
+   "para": "p94",
+   "type": "narration",
+   "text": "He put his inky hand on the barrow’s edge."
+  },
+  {
+   "seq": 143,
+   "para": "p94",
+   "type": "speech",
+   "text": "“It’s on the books. All of it. You wanted it said. I’m saying it.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 144,
+   "para": "p95",
+   "type": "narration",
+   "text": "Bjarke looked at the barrow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p96",
+   "type": "narration",
+   "text": "He didn’t say anything. He sat down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p97",
+   "type": "narration",
+   "text": "Gorm Askell looked at Arn, sourly, as he’d looked at him every day of his life.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p98",
+   "type": "speech",
+   "text": "“The damp’s got into the oldest ones,”"
+  },
+  {
+   "seq": 148,
+   "para": "p98",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 149,
+   "para": "p98",
+   "type": "speech",
+   "text": "“I’ll need to have them dried.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p99",
+   "type": "speech",
+   "text": "“Have them dried,”"
+  },
+  {
+   "seq": 151,
+   "para": "p99",
+   "type": "narration",
+   "text": "said Arn.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 152,
+   "para": "p100",
+   "type": "narration",
+   "text": "Gunna backed him at the pens.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p101",
+   "type": "narration",
+   "text": "She was on the rail when he came down. Where she always was. Half her face scar since the Roosts, one arm stiff from the shoulder, her clay pipe in her teeth. Tamsin below her, old and grey-green and slow, with her ruined wing folded.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p102",
+   "type": "narration",
+   "text": "The riders had followed him down. Red and grey. Standing on the stair, watching.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p103",
+   "type": "narration",
+   "text": "Gunna took her pipe out of her mouth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 156,
+   "para": "p104",
+   "type": "speech",
+   "text": "“Tamsin chose me on a ledge,”"
+  },
+  {
+   "seq": 157,
+   "para": "p104",
+   "type": "narration",
+   "text": "she said. Loud. For the stair."
+  },
+  {
+   "seq": 158,
+   "para": "p104",
+   "type": "speech",
+   "text": "“When I was twelve. Out of a wild clutch off the high crags. Her mother was never in a pen in her life. Nor was she.”"
+  },
+  {
+   "seq": 159,
+   "para": "p104",
+   "type": "narration",
+   "text": "She put her stiff hand on Tamsin’s neck."
+  },
+  {
+   "seq": 160,
+   "para": "p104",
+   "type": "speech",
+   "text": "“Three hundred and twelve years old. Never had a bar in front of her.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p105",
+   "type": "narration",
+   "text": "She looked up at the stair. At Bjarke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p106",
+   "type": "speech",
+   "text": "“You can’t keep a thing in a box and expect it to choose you,”"
+  },
+  {
+   "seq": 163,
+   "para": "p106",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 164,
+   "para": "p106",
+   "type": "speech",
+   "text": "“I’d not choose you either, Bjarke. And I’ve known you since you were born.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p107",
+   "type": "narration",
+   "text": "Somebody on the grey side laughed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p108",
+   "type": "narration",
+   "text": "Bjarke went red. He didn’t argue.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 167,
+   "para": "p109",
+   "type": "narration",
+   "text": "They opened the pens on the seventy-ninth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p110",
+   "type": "narration",
+   "text": "At dawn. Every keeper at a gate. Arn at the first, the spring pens’ oldest, with Ildra beside him. And Leir.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p111",
+   "type": "narration",
+   "text": "Leir drew the first bar himself.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p112",
+   "type": "narration",
+   "text": "Fifty years. His father before him. He took hold of the bar, the great oak beam that slid in its iron shoes across the pen’s mouth, and drew it back, slowly, grinding, until the gate stood open on the morning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p113",
+   "type": "narration",
+   "text": "He was weeping. He didn’t wipe it away. He went to the next gate and drew that bar too.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 172,
+   "para": "p114",
+   "type": "narration",
+   "text": "Nothing came out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p115",
+   "type": "narration",
+   "text": "All along the pens, the bars drawn, the gates open, and a hundred and some dragons standing inside with their heads to the west and not moving. Looking at the open gates as if the gates were a new kind of bar.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p116",
+   "type": "narration",
+   "text": "The riders on the stair began to murmur.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p117",
+   "type": "narration",
+   "text": "Arn felt Ildra go still beside him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 176,
+   "para": "p118",
+   "type": "bond",
+   "text": "They don’t know,"
+  },
+  {
+   "seq": 177,
+   "para": "p118",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 178,
+   "para": "p118",
+   "type": "thought",
+   "text": "What it is. Open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p119",
+   "type": "speech",
+   "text": "“Then show them.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p120",
+   "type": "narration",
+   "text": "She looked at him. Then she went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p121",
+   "type": "narration",
+   "text": "Down to the first gate. The oldest pen. She walked into the open mouth of it and stood there, half in and half out, small and dark with her broken horn, and she made a sound.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 182,
+   "para": "p122",
+   "type": "narration",
+   "text": "He’d heard it once. In the caves, Wren had told him. The sound Ildra had made the day she came back. Small, high. A chirr. Like a kettle starting on a hearth. The sound the green one made half asleep by a fire, content.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p123",
+   "type": "narration",
+   "text": "Ildra stood in the gate and made it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p124",
+   "type": "narration",
+   "text": "And a young grey in the back of the pen lifted its head and turned it. From the west. To her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p125",
+   "type": "narration",
+   "text": "And came.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 186,
+   "para": "p126",
+   "type": "narration",
+   "text": "By noon the pens were empty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p127",
+   "type": "narration",
+   "text": "They came out one at a time at first, and then in threes, and then all of them, stumbling, blinking, into the pen-yard and the stair-foot and the sky. Some went up at once. Straight up, beating hard, as if they’d been waiting all their lives to do it and had only now been told how. Some stood in the yard and looked at the sky and didn’t. Some went up a little way and came down again on the hold’s roofs, and sat there, astonished.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p128",
+   "type": "narration",
+   "text": "By dusk about forty had gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p129",
+   "type": "narration",
+   "text": "East and north. Over the moor. Out of sight. He watched them go from the Roosts until he couldn’t see them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p130",
+   "type": "narration",
+   "text": "The rest were on the ledges. On the crags round the hold. On the roofs. And some of the old ones, the oldest, who’d been in the pens forty years and more, had gone back inside the open pens when the dusk came, and lain down in the straw, because that was where they slept.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p131",
+   "type": "narration",
+   "text": "Nobody shut the gates on them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 192,
+   "para": "p132",
+   "type": "narration",
+   "text": "He burned the bars that night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p133",
+   "type": "narration",
+   "text": "In the hold’s yard. Leir and the keepers dragged them up the stair, every one, the great oak beams, and stacked them, and Arn put the torch in himself. They went up slowly. Oak burns slowly. It was midnight before the whole stack was alight, and it lit the yard and the hall front and the ledges above, where a hundred dragons sat watching it with their eyes gold in the firelight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p134",
+   "type": "narration",
+   "text": "None of them were looking west.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 195,
+   "para": "p135",
+   "type": "narration",
+   "text": "Gorm Askell wrote it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p136",
+   "type": "narration",
+   "text": "In the hall, afterwards, at the end of the red table, in the newest ledger. In his cramped hand. Arn said it once, and Gorm wrote it as he said it, and blotted it, and turned the book round for Arn to see.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p137",
+   "type": "thought",
+   "text": "Any dragon that flies with the Clan flies by choice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p138",
+   "type": "speech",
+   "text": "“It’s on the books,”"
+  },
+  {
+   "seq": 199,
+   "para": "p138",
+   "type": "narration",
+   "text": "said Gorm Askell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p139",
+   "type": "speech",
+   "text": "“Good,”"
+  },
+  {
+   "seq": 201,
+   "para": "p139",
+   "type": "narration",
+   "text": "said Arn.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 202,
+   "para": "p140",
+   "type": "narration",
+   "text": "The red pair came up from the coast on the eighty-first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p141",
+   "type": "narration",
+   "text": "Two of Ulric’s forty. Sent home to Varrhold for spare harness, and for news, and to tell the hold what Ulric and the farmer had done at Corsa. They told it in the hall at night. The hulks. The chains. Forty-one hulks lifted onto a hill, for one copper, and a blind stonehorn on a rope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p142",
+   "type": "narration",
+   "text": "The hall laughed. Even Bjarke.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 205,
+   "para": "p143",
+   "type": "speech",
+   "text": "“And the farmer’s three,”"
+  },
+  {
+   "seq": 206,
+   "para": "p143",
+   "type": "narration",
+   "text": "said the rider. A young woman, red-thread, grey in the face from the flying."
+  },
+  {
+   "seq": 207,
+   "para": "p143",
+   "type": "speech",
+   "text": "“They’re wrong.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p144",
+   "type": "speech",
+   "text": "“Wrong how?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p145",
+   "type": "speech",
+   "text": "“Restless,”"
+  },
+  {
+   "seq": 210,
+   "para": "p145",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 211,
+   "para": "p145",
+   "type": "speech",
+   "text": "“All three. The big red and the green at Corsa. And the old one at his farm, at Harrow’s End: the farmer’s mother’s man who keeps her sent word.”"
+  },
+  {
+   "seq": 212,
+   "para": "p145",
+   "type": "narration",
+   "text": "She looked at the fire."
+  },
+  {
+   "seq": 213,
+   "para": "p145",
+   "type": "speech",
+   "text": "“The same hour. A hundred and twenty leagues apart. They all turned their heads the same way, at the same hour, and they won’t put them down.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p146",
+   "type": "speech",
+   "text": "“Which way?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p147",
+   "type": "speech",
+   "text": "“South-west,”"
+  },
+  {
+   "seq": 216,
+   "para": "p147",
+   "type": "narration",
+   "text": "said the rider."
+  },
+  {
+   "seq": 217,
+   "para": "p147",
+   "type": "speech",
+   "text": "“Toward the sea. Toward nothing.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 218,
+   "para": "p148",
+   "type": "narration",
+   "text": "Ildra was on the Roosts that night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p149",
+   "type": "narration",
+   "text": "On the third ledge. Teo’s. Arn went up and sat beside her with his legs over the edge, as he’d sat on the seventy-third, and the moor went away grey under the stars, and below them the last of the bars burned down in the yard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p150",
+   "type": "narration",
+   "text": "She was looking south-west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p151",
+   "type": "narration",
+   "text": "Over the far end of the Scarfell, toward the coast and the sea beyond it, toward nothing at all. Her head up. Very still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 222,
+   "para": "p152",
+   "type": "narration",
+   "text": "He felt it in her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p153",
+   "type": "narration",
+   "text": "Faint. Very faint, in the place where her voice was. A pull. Like a thread round something deep in her, and someone very far off at the other end of it, drawing it in, an inch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p154",
+   "type": "speech",
+   "text": "“What is it?”"
+  },
+  {
+   "seq": 225,
+   "para": "p154",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 226,
+   "para": "p155",
+   "type": "bond",
+   "text": "I don’t know,"
+  },
+  {
+   "seq": 227,
+   "para": "p155",
+   "type": "narration",
+   "text": "said Ildra."
+  },
+  {
+   "seq": 228,
+   "para": "p155",
+   "type": "thought",
+   "text": "Something wants us.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 229,
+   "para": "p156",
+   "type": "narration",
+   "text": "She didn’t put her head down for a long time.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 230,
+   "para": "p157",
+   "type": "narration",
+   "text": "Below them, in the hall, the chair stood at the top of the two tables under its grey cloth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 231,
+   "para": "p158",
+   "type": "narration",
+   "text": "He hadn’t sat in it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 232,
+   "para": "p159",
+   "type": "narration",
+   "text": "He sat on the third ledge beside his dragon, and didn’t think about it, and watched the bars burn down to nothing.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "2604e2cea080696418e9854f5a71cd7140e2e7a3",
+ "segments_sha1": "a57f53aff06d873489361c83cfea8dd2551636ab"
+}

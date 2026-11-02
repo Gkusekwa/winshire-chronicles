@@ -2,6 +2,26 @@
  "chapter": 26,
  "title": "Why Me?",
  "pov": "Calder",
+ "source": "Chapters/Chapter 26 - Why Me.md",
+ "names": [
+  "arn",
+  "askell",
+  "aurveth",
+  "calder",
+  "crow",
+  "dag",
+  "fellwood",
+  "gorm",
+  "hearthmere",
+  "kharrak",
+  "lisska",
+  "ragnald",
+  "rue",
+  "scar",
+  "scarfell",
+  "sigrun",
+  "ulric"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1619,5 +1639,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "efe6adcc0d06fb41b5682263c053ddfcd229ea95",
+ "segments_sha1": "321ecf45feb58ed88b2d2339091c6639be622563"
 }

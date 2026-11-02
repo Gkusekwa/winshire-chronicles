@@ -21,7 +21,7 @@
 #   8  audition: a few minutes of every kind of passage, to hear the voice
 #   9  setup only (install or update Chatterbox and Whisper)
 #  10  put the chapter titles into chapters already built (tags only)   ... 10 all
-# Everything it makes goes in "My Book/audiobook/": scripts/, out/ (the MP3s and check reports) and book.json
+# Everything it makes goes in "My Book/audiobook/": book.json, annotations/, Lexicon.csv, Performance/ and out/ (the MP3s and check reports)
 # (title, author, where the chapters are, names, narrator clip; made on the first run, edit it freely).
 set -e
 KIT="$(cd "$(dirname "$0")" && pwd)"

@@ -1,0 +1,1134 @@
+{
+ "chapter": 88,
+ "title": "The Account",
+ "pov": "",
+ "source": "Chapters/Chapter 88 - The Account.md",
+ "names": [
+  "ada",
+  "antlered",
+  "bel",
+  "calder",
+  "coldtarn",
+  "ildra",
+  "liss",
+  "lisska",
+  "scarfell",
+  "titan",
+  "worldsend",
+  "wren"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Eighty-eight.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Account.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "The Titan was on the Scarfell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "He saw it from the air on the way up. From a long way off, coming up the valley from the river on Kharrak with the morning behind him. On the high moor, above the Coldtarn caves, under the Scarfell’s crags. On the bare heather.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "Lying down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Very still. Grey. A hill on a moor. If he hadn’t known, he’d have thought it was a hill. Six places in its back where the stone had grown over something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "The Clan was on the ledges. Every pair. At Varrhold, on the Roosts. At the caves, on every ledge and shelf of the crag above Coldtarn. Lying with their heads toward it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "Nobody went near it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "Wren was at the caves’ mouth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "She’d seen him coming. She was standing on the flat rock at the cave mouth with Ildra beside her, the yearling from Vael, grown taller since the autumn, with somebody in her eyes. Old Grey behind them both with his chin on Wren’s head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "He came down on the rock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "Wren looked at him. Up and down. At his coat, still stiff with river-water and dust. At his face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "speech",
+   "text": "“You came back,”"
+  },
+  {
+   "seq": 14,
+   "para": "p11",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p12",
+   "type": "speech",
+   "text": "“I said I would.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p13",
+   "type": "speech",
+   "text": "“Say it twice.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p14",
+   "type": "speech",
+   "text": "“I said I would,”"
+  },
+  {
+   "seq": 18,
+   "para": "p14",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 19,
+   "para": "p14",
+   "type": "speech",
+   "text": "“I said I would.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p15",
+   "type": "narration",
+   "text": "She came and put her arms round his waist and held on, hard, and said nothing else.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 21,
+   "para": "p16",
+   "type": "narration",
+   "text": "Ada was at Bel’s table.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p17",
+   "type": "narration",
+   "text": "In the caves. By the warm spring. The long table Bel had had carried up from the hold kitchen in the autumn, because if they were going to live in a cave half the winter they’d live in it properly. Bel at the fire. Pip and Nan asleep in a heap of Clan cloaks in a hatching bowl.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "narration",
+   "text": "Ada looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p19",
+   "type": "speech",
+   "text": "“Well,”"
+  },
+  {
+   "seq": 25,
+   "para": "p19",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p20",
+   "type": "speech",
+   "text": "“Well,”"
+  },
+  {
+   "seq": 27,
+   "para": "p20",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p21",
+   "type": "narration",
+   "text": "She looked at him for a while. Then she got up and fetched him a bowl of something hot from Bel’s pot and put it in front of him and sat down again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p22",
+   "type": "speech",
+   "text": "“Eat that,”"
+  },
+  {
+   "seq": 30,
+   "para": "p22",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 31,
+   "para": "p22",
+   "type": "speech",
+   "text": "“Then tell me.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 32,
+   "para": "p23",
+   "type": "narration",
+   "text": "The five came on the next two days.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p24",
+   "type": "narration",
+   "text": "He watched from the caves’ mouth. From the ledges. With Wren beside him and Ada behind and every dragon on the crag with its head out over the moor.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p25",
+   "type": "narration",
+   "text": "They came out of five quarters.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 35,
+   "para": "p26",
+   "type": "narration",
+   "text": "Out of the east first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p27",
+   "type": "narration",
+   "text": "Over the Worldsend’s foothills, where the moor ran up into the mountains. A shape. Tall. Antlered, like a winter wood. And round it, moving, trees. On the moor, where there were no trees. A forest, walking, coming down over the heather with it, oak and ash and thorn, their roots in the air and then in the ground and then in the air.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p28",
+   "type": "narration",
+   "text": "It came to the Last Titan and lay down beside it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p29",
+   "type": "narration",
+   "text": "The trees stood round them both on the moor.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 39,
+   "para": "p30",
+   "type": "narration",
+   "text": "Out of the north-west, the cold one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p31",
+   "type": "narration",
+   "text": "He felt it before he saw it. The air going still. Then frost. On the heather. White, going ahead of it across the moor in a long tongue, crackling. And behind the frost, something long and pale, coil after coil, blue-white, moving over the ground as a river moves.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p32",
+   "type": "narration",
+   "text": "Coldtarn tried to freeze as it passed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p33",
+   "type": "narration",
+   "text": "He heard it. The tarn below the caves, that had never frozen in the memory of the Clan, going white from the edge inward with a sound like a thousand panes of glass. And stopping. A long way short of the middle, where the warm water came up from under the rock. The ice stopped there in a ring, and the middle of the tarn lay black and open inside it, steaming in the frost.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p34",
+   "type": "narration",
+   "text": "It came and lay down, coiled, beside the other two.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 44,
+   "para": "p35",
+   "type": "narration",
+   "text": "Out of the west, the one that burned.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p36",
+   "type": "narration",
+   "text": "At dusk on the first day. The ground smoking where it walked. Plated. Low. Wide as a field. Pieces of broken iron still hanging off it, chains, the ends of Kessmoor’s cage, black, dragging through the heather and setting it smouldering.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p37",
+   "type": "narration",
+   "text": "It lay down beside them. The heather round it went to glass.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 47,
+   "para": "p38",
+   "type": "narration",
+   "text": "Out of the south, on the second day, the bright one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p39",
+   "type": "narration",
+   "text": "At night. He woke in the cave with the light coming in at the mouth like noon. He went out onto the rock. The whole moor was day. A league of it. Gold. The light coming off something on the southern rim, lean and deer-shaped and the size of a hill, with a horn on its head going up spiralled and shining, and the light coming off the horn in rays.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p40",
+   "type": "narration",
+   "text": "It walked across the moor in its own daylight and lay down beside the others.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p41",
+   "type": "narration",
+   "text": "The night came back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 51,
+   "para": "p42",
+   "type": "narration",
+   "text": "And last, slowest, the one with the bell on its back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p43",
+   "type": "narration",
+   "text": "Out of the sea. North over the Ashlings and the Saltreach hills, he heard later, well east of the river. He saw it come over the Scarfell’s southern rim near midnight on the second day, after the bright one’s light had gone down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p44",
+   "type": "narration",
+   "text": "Reef-backed. Barnacled. The size of an island. With the drowned temple on its back, the grey columns, the broken dome. And in the dome, the bell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p45",
+   "type": "narration",
+   "text": "Ringing. As it walked. A long low note, over and over, through the moor and the crag and the cave and his bones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p46",
+   "type": "narration",
+   "text": "It came and lay down beside the others.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p47",
+   "type": "narration",
+   "text": "Six.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 57,
+   "para": "p48",
+   "type": "narration",
+   "text": "The dragons hummed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p49",
+   "type": "narration",
+   "text": "All night. Both nights. Every dragon on every ledge of the Scarfell. Lying with their heads out toward the moor, toward the six lying together on the heather under the crags, humming, low, all of them together, a sound like wind in a chimney that never stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p50",
+   "type": "narration",
+   "text": "His three with them. Kharrak on the cave rock. Lisska on the ledge above. Aurveth, who’d come up from the Staithe slowly over two days and lain down in the caves’ mouth and not moved since.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p51",
+   "type": "bond",
+   "text": "They’re not calling us,"
+  },
+  {
+   "seq": 61,
+   "para": "p51",
+   "type": "narration",
+   "text": "said Aurveth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p52",
+   "type": "narration",
+   "text": "She said it the first night. Without being asked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p53",
+   "type": "thought",
+   "text": "We’re only near enough to hear.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 64,
+   "para": "p54",
+   "type": "narration",
+   "text": "They went up on the third day at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p55",
+   "type": "narration",
+   "text": "Together.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p56",
+   "type": "narration",
+   "text": "He was on the cave rock with Wren. He saw them stand. All six at once, on the moor, getting up off the heather as one thing gets up. The Antlered with its forest round it. The Coil. The Furnace. The Horned Sun with its light. The Bell with the temple on its back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p57",
+   "type": "narration",
+   "text": "And the Last Titan. In the middle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p58",
+   "type": "narration",
+   "text": "They went up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 69,
+   "para": "p59",
+   "type": "narration",
+   "text": "Off the moor. Into the air. The heather flattening under them for a league in every direction, as grass flattens under a wind, all of it at once. The forest of the Antlered going up with it, trees in the air. The bell ringing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p60",
+   "type": "narration",
+   "text": "Every dragon on the Scarfell stopped humming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p61",
+   "type": "narration",
+   "text": "Silence. Over the whole moor. Over the crags. Not a sound.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p62",
+   "type": "narration",
+   "text": "The six hung in the air over the Scarfell. Turning. Slowly. Together. As a flock turns before it goes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p63",
+   "type": "narration",
+   "text": "Then east.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p64",
+   "type": "narration",
+   "text": "Toward the Worldsend. Over the foothills. Over the first of the white mountains. Getting smaller. Against the last of the light, six shapes, together, going away over the mountains into the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p65",
+   "type": "narration",
+   "text": "Gone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 76,
+   "para": "p66",
+   "type": "speech",
+   "text": "“Where are they going?”"
+  },
+  {
+   "seq": 77,
+   "para": "p66",
+   "type": "narration",
+   "text": "said Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p67",
+   "type": "speech",
+   "text": "“East.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p68",
+   "type": "speech",
+   "text": "“Why?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p69",
+   "type": "speech",
+   "text": "“I don’t know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p70",
+   "type": "narration",
+   "text": "She looked at the dark over the Worldsend for a long time. Ildra beside her with her head up, looking the same way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p71",
+   "type": "speech",
+   "text": "“Will they come back?”"
+  },
+  {
+   "seq": 83,
+   "para": "p71",
+   "type": "narration",
+   "text": "said Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p72",
+   "type": "narration",
+   "text": "He thought about it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p73",
+   "type": "speech",
+   "text": "“I don’t know,”"
+  },
+  {
+   "seq": 86,
+   "para": "p73",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 87,
+   "para": "p73",
+   "type": "speech",
+   "text": "“I don’t know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p74",
+   "type": "narration",
+   "text": "She looked up at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p75",
+   "type": "speech",
+   "text": "“You said it twice,”"
+  },
+  {
+   "seq": 90,
+   "para": "p75",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p76",
+   "type": "speech",
+   "text": "“I did.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 92,
+   "para": "p77",
+   "type": "narration",
+   "text": "He sent Lisska to the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p78",
+   "type": "narration",
+   "text": "The next morning. For the reader’s pages. Two and a half sheets of Liss’s blue-ruled ferry-book paper, under a brass lamp on a cracked table, that he’d said he’d come back for.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p79",
+   "type": "bond",
+   "text": "The lion-woman will be there,"
+  },
+  {
+   "seq": 95,
+   "para": "p79",
+   "type": "narration",
+   "text": "said Lisska.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p80",
+   "type": "speech",
+   "text": "“Maybe.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p81",
+   "type": "bond",
+   "text": "I’ll ask the lion,"
+  },
+  {
+   "seq": 98,
+   "para": "p81",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 99,
+   "para": "p81",
+   "type": "thought",
+   "text": "What she saw.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 100,
+   "para": "p82",
+   "type": "narration",
+   "text": "She came back on the second morning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p83",
+   "type": "narration",
+   "text": "Fast, over the Scarfell’s rim, low, landing on the cave rock with the pages in oilcloth on her leg. Wren ran out to her. Wren always ran out to her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p84",
+   "type": "narration",
+   "text": "He untied the oilcloth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p85",
+   "type": "narration",
+   "text": "The two sheets and a half, in his own hand. His columns, ruled with the edge of Liss’s bread-board. And on the back of the third sheet, in a hand he didn’t know, a plain strong hand like a ferry-woman’s, more numbers. The readings for the days after he’d gone. Written down by somebody the reader had said them to, aloud, when she came home.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p86",
+   "type": "narration",
+   "text": "Liss.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p87",
+   "type": "narration",
+   "text": "At the bottom, in the same hand:"
+  },
+  {
+   "seq": 106,
+   "para": "p87",
+   "type": "thought",
+   "text": "He said them twice.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 107,
+   "para": "p88",
+   "type": "bond",
+   "text": "The lion says she saw it,"
+  },
+  {
+   "seq": 108,
+   "para": "p88",
+   "type": "narration",
+   "text": "said Lisska.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p89",
+   "type": "narration",
+   "text": "To him. To Wren, who couldn’t hear her, and was looking at her face anyway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p90",
+   "type": "thought",
+   "text": "The lion-woman. On the ferry-house jetty. At dusk. She was standing on the end of it watching the east and she saw them go up over the mountains. The six."
+  },
+  {
+   "seq": 111,
+   "para": "p90",
+   "type": "narration",
+   "text": "Lisska was quiet."
+  },
+  {
+   "seq": 112,
+   "para": "p90",
+   "type": "thought",
+   "text": "The lion says she stood there until they were gone. And after.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p91",
+   "type": "speech",
+   "text": "“Tell Wren,”"
+  },
+  {
+   "seq": 114,
+   "para": "p91",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p92",
+   "type": "bond",
+   "text": "I’m telling you to tell Wren,"
+  },
+  {
+   "seq": 116,
+   "para": "p92",
+   "type": "narration",
+   "text": "said Lisska."
+  },
+  {
+   "seq": 117,
+   "para": "p92",
+   "type": "thought",
+   "text": "She said to. The lion-woman. She said: tell Wren I saw it too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p93",
+   "type": "narration",
+   "text": "A pause.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p94",
+   "type": "bond",
+   "text": "Twice,"
+  },
+  {
+   "seq": 120,
+   "para": "p94",
+   "type": "narration",
+   "text": "said Lisska.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 121,
+   "para": "p95",
+   "type": "narration",
+   "text": "He told Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p96",
+   "type": "narration",
+   "text": "She listened. She looked at Lisska. Then at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p97",
+   "type": "speech",
+   "text": "“She said twice?”"
+  },
+  {
+   "seq": 124,
+   "para": "p97",
+   "type": "narration",
+   "text": "said Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p98",
+   "type": "bond",
+   "text": "Twice,"
+  },
+  {
+   "seq": 126,
+   "para": "p98",
+   "type": "narration",
+   "text": "said Lisska.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p99",
+   "type": "narration",
+   "text": "He told her that too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p100",
+   "type": "narration",
+   "text": "Wren thought about it. Then she nodded, once, very seriously, as Ada nodded when a sum came out right, and went back into the cave to tell Ildra.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 129,
+   "para": "p101",
+   "type": "narration",
+   "text": "On the last day of the year he sat down at Bel’s table.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p102",
+   "type": "narration",
+   "text": "A year. From the noon on the River Road, a year ago, when he’d walked down it with three dragons and a woman with a lion behind him, and Rowan had turned her back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p103",
+   "type": "narration",
+   "text": "The table was covered.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p104",
+   "type": "narration",
+   "text": "The reader’s pages. Maren’s letters, all of them, on the backs of his own. The five-line letter. The eleven pages. Rook’s book, black, with its brass strap. The mint-book. Ada’s account, twenty-two pages, tied with a bootlace. His own page from Gullhaven, that had gone to Corsa and come back with a note from Marrow in the margin:"
+  },
+  {
+   "seq": 133,
+   "para": "p104",
+   "type": "thought",
+   "text": "Received. Read aloud to the Council. M.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p105",
+   "type": "narration",
+   "text": "In a pile. In the middle of the table.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 135,
+   "para": "p106",
+   "type": "narration",
+   "text": "Ada sat across from him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p107",
+   "type": "narration",
+   "text": "As she’d sat in the hold kitchen in the autumn, with a pen, while he told it and she wrote. Eleven days. Twenty-two pages.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p108",
+   "type": "narration",
+   "text": "She looked at the pile. Then at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p109",
+   "type": "speech",
+   "text": "“Well,”"
+  },
+  {
+   "seq": 139,
+   "para": "p109",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 140,
+   "para": "p109",
+   "type": "speech",
+   "text": "“Are you going to tell it, or am I writing it?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p110",
+   "type": "narration",
+   "text": "Calder looked at the pile.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p111",
+   "type": "speech",
+   "text": "“I’ll write it,”"
+  },
+  {
+   "seq": 143,
+   "para": "p111",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 144,
+   "para": "p112",
+   "type": "narration",
+   "text": "He took a clean sheet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p113",
+   "type": "narration",
+   "text": "Grey. The Clan’s paper. Arn had sent a ream of it up from the tally-house, without being asked, with a note in his own hand that said only"
+  },
+  {
+   "seq": 146,
+   "para": "p113",
+   "type": "thought",
+   "text": "For the farmer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p114",
+   "type": "narration",
+   "text": "He took the pen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p115",
+   "type": "narration",
+   "text": "Wren was beside him on the bench. Leaning on his arm. Watching. Bel at the fire. Pip and Nan in their hatching bowl. Old Grey in the cave mouth, with his chin on his chest. The warm spring going out of the rock into the tarn, steaming, where the ring of ice had gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p116",
+   "type": "narration",
+   "text": "He dipped the pen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p117",
+   "type": "narration",
+   "text": "He didn’t use his finger.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 151,
+   "para": "p118",
+   "type": "narration",
+   "text": "He wrote it slowly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p119",
+   "type": "narration",
+   "text": "Big. Square. Careful. As he’d written to Maren a year ago on the back of a page with a finger under every word. As he’d written the reader’s numbers at the Anchor-and-Net for the Tide Council. As he’d written a page in a salt-store with the sea outside where a town had been.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p120",
+   "type": "narration",
+   "text": "One line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p121",
+   "type": "thought",
+   "text": "The dragons came to me in a barley field, and I had never asked them for anything.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 155,
+   "para": "p122",
+   "type": "narration",
+   "text": "He looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p123",
+   "type": "narration",
+   "text": "Ada read it upside down. Across the table. He watched her read it. Her lips moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p124",
+   "type": "narration",
+   "text": "She didn’t say anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p125",
+   "type": "narration",
+   "text": "She reached out and pushed the ink-pot nearer to his hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p126",
+   "type": "narration",
+   "text": "Wren read it too. Slowly. With her finger. She was learning. She got to the end of it and looked up at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p127",
+   "type": "speech",
+   "text": "“Read it again,”"
+  },
+  {
+   "seq": 161,
+   "para": "p127",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p128",
+   "type": "narration",
+   "text": "He read it again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p129",
+   "type": "narration",
+   "text": "Then he dipped the pen, and sat with it over the paper a long time.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "7bd7e5114b7f92658d904dec48cefd0083d3be2b",
+ "segments_sha1": "b8a90ec678d1ade4a113971221c386629b3df0a4"
+}

@@ -2,6 +2,26 @@
  "chapter": 70,
  "title": "The Rubbing",
  "pov": "Calder",
+ "source": "Chapters/Chapter 70 - The Rubbing.md",
+ "names": [
+  "aurveth",
+  "calder",
+  "corvin",
+  "eelweir",
+  "fellwood",
+  "fenn",
+  "fisk",
+  "greyhold",
+  "harrow",
+  "hearthmere",
+  "kharrak",
+  "lisska",
+  "redwatch",
+  "rush",
+  "saltreach",
+  "wendmouth",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -2051,5 +2071,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "62623d929a734da84d9e3d4ea3cf7022e4851778",
+ "segments_sha1": "8bef006278b114a70fc861034ea9a4d1d0d8be6e"
 }

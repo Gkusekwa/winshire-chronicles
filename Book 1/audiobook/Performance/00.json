@@ -31,5 +31,8 @@
    "text": "Narrated by a digital voice.",
    "pause_after_ms": 2000
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "10af3675531bfcfc7582450d88dd2631440f86ba",
+ "segments_sha1": "2d373b65e07675d8778cb71e7bf835c1a7fcc0f6"
 }

@@ -1,0 +1,1436 @@
+{
+ "chapter": 1,
+ "title": "The Fallen Hill",
+ "pov": "",
+ "source": "Chapters/Chapter 01 - The Fallen Hill.md",
+ "names": [
+  "college",
+  "joby",
+  "kessmoor",
+  "ketch",
+  "liss",
+  "maren",
+  "millbrook",
+  "orrun",
+  "rowan",
+  "scarfell",
+  "thurl",
+  "wend"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Part One. Lights over the Worldsend.",
+   "pause_after_ms": 2000
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Chapter One.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 3,
+   "para": "",
+   "type": "title",
+   "text": "The Fallen Hill.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 4,
+   "para": "p1",
+   "type": "narration",
+   "text": "Greyhold had been on its hill for three hundred years.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p2",
+   "type": "narration",
+   "text": "It was in the hill now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "narration",
+   "text": "That was the only way she could think of it, standing on the jetty road in the grey of the second morning with the river going past behind her and the rope humming on its posts. The hill was the same shape it had always been, more or less, from far off. A long hump of green above the Wend. It was only closer that you saw it was the wrong green. Rubble with grass still on it. Turf torn up and lying upside down. And where the towers had stood, nothing. Sky.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "narration",
+   "text": "The north tower lay down the slope on its side. Like a felled tree with its roots in the air.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "narration",
+   "text": "Orrun stood beside her and looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "bond",
+   "text": "Where do we begin,"
+  },
+  {
+   "seq": 10,
+   "para": "p6",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "speech",
+   "text": "“North side,”"
+  },
+  {
+   "seq": 12,
+   "para": "p7",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 13,
+   "para": "p7",
+   "type": "speech",
+   "text": "“Where the forge was.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 14,
+   "para": "p8",
+   "type": "narration",
+   "text": "Rowan had forty knights.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p9",
+   "type": "narration",
+   "text": "That was all that was left of the river’s knights. Forty, out of the hundreds who’d stood in the noon line facing the inner wall when Maren was a student. Some of them had their beasts. Wynn with his two grey hounds. A woman with a falcon on a block. Three greyharts, white, picketed by the jetty, cropping the verge. Most had nothing. They’d never been chosen, or their beasts had died at the gate a year ago, or in the smoke on the hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p10",
+   "type": "narration",
+   "text": "They stood in the road in their mail with shovels and crowbars and looked up at the heap.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p11",
+   "type": "speech",
+   "text": "“Where do you want us?”"
+  },
+  {
+   "seq": 18,
+   "para": "p11",
+   "type": "narration",
+   "text": "said Rowan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p12",
+   "type": "speech",
+   "text": "“Behind him,”"
+  },
+  {
+   "seq": 20,
+   "para": "p12",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 21,
+   "para": "p12",
+   "type": "speech",
+   "text": "“Not in front.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 22,
+   "para": "p13",
+   "type": "narration",
+   "text": "Orrun went up the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p14",
+   "type": "narration",
+   "text": "Slowly. He was the size of a barn now. Bigger. She’d stopped measuring him against walls when there were no walls left. His mane was white at the roots all along his neck where the rock had taken it. His shoulder had healed where the shadow’s spear had come back into him under the river, but it was stiff in the mornings, and he favoured it going uphill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p15",
+   "type": "narration",
+   "text": "At the top of the north side he stopped and put his head down to the fallen stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p16",
+   "type": "narration",
+   "text": "And two more lions stood up out of the hill beside him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p17",
+   "type": "narration",
+   "text": "Out of the rubble. Grey, the stone running off them as they rose, like water off a dog. His size. His mane. His stiff shoulder, even. They stood there one on either side of him and looked down at the knights in the road, and the knights took a step back all together, as if they’d practised it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p18",
+   "type": "narration",
+   "text": "Wynn’s hounds lay down flat and put their chins on the ground.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 28,
+   "para": "p19",
+   "type": "narration",
+   "text": "They worked from the outside in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p20",
+   "type": "narration",
+   "text": "The lions lifted. That was the only word for it. Orrun put his forepaws on a slab of the fallen wall the size of a cart and it came up out of the heap, slowly, the turf on it tearing, and he walked it down the slope with the stone moving under his paws as if it wanted to go where he wanted it, and laid it down in a row at the foot. The shadows did the same. Slab after slab. A row of them going along the bottom of the slope like the stones of a field wall built by giants.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p21",
+   "type": "narration",
+   "text": "Behind them, the knights went in with shovels. Into the gaps the lions left. Digging out what was under.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p22",
+   "type": "narration",
+   "text": "Joby Marsh came up the road at noon with the grooms. Twelve of them, with barrows and ropes. He looked at the heap and the lions and the rows of stone, and took his hat off, and put it back on, and went to work without a word.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 32,
+   "para": "p23",
+   "type": "narration",
+   "text": "The forge came out on the second day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p24",
+   "type": "narration",
+   "text": "What was left of it. The north tower had fallen away from it down the slope, so the forge under it had been half crushed and half left: one wall standing, the chimney gone, the roof in the hearth. And in the middle of the floor, under a beam, the anvil.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p25",
+   "type": "narration",
+   "text": "Cracked. A long split from the horn to the heel.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p26",
+   "type": "narration",
+   "text": "And on the horn, still, a link of chain. Half-struck. Grey. As tall as a man.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p27",
+   "type": "narration",
+   "text": "Tam’s link. The last one. He’d laid his hammer down on it the day of the last crossing and said it wasn’t going to be wanted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p28",
+   "type": "narration",
+   "text": "The hammer was under it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p29",
+   "type": "narration",
+   "text": "She took the hammer out herself. It was heavier than it looked. She wiped the dust off the handle with her sleeve, where his hand had worn it smooth, and gave it to Joby to put in the barrow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p30",
+   "type": "narration",
+   "text": "The link she left on the anvil.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 40,
+   "para": "p31",
+   "type": "narration",
+   "text": "Isak Thurl came up in the afternoon with his rod.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p32",
+   "type": "narration",
+   "text": "Six of his Kessmoor men had stayed when the rest went home down the Iron Road. He’d said someone had to write down what had happened to Kessmoor’s engines, and he’d write it himself, and he’d want to see it. He climbed the heap to where the inner wall had been and put the end of his rod down into a gap in the rubble and shut his eyes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p33",
+   "type": "narration",
+   "text": "He was there a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p34",
+   "type": "speech",
+   "text": "“Well?”"
+  },
+  {
+   "seq": 44,
+   "para": "p34",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p35",
+   "type": "narration",
+   "text": "Thurl opened his eyes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p36",
+   "type": "speech",
+   "text": "“Dead,”"
+  },
+  {
+   "seq": 47,
+   "para": "p36",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 48,
+   "para": "p36",
+   "type": "speech",
+   "text": "“All of it. The hill.”"
+  },
+  {
+   "seq": 49,
+   "para": "p36",
+   "type": "narration",
+   "text": "He took the rod out of the gap and looked at the end of it as if something might be on it."
+  },
+  {
+   "seq": 50,
+   "para": "p36",
+   "type": "speech",
+   "text": "“Not drained. Drained is when something’s been taken out. There’s nothing in it to take. There’s nothing under it.”"
+  },
+  {
+   "seq": 51,
+   "para": "p36",
+   "type": "narration",
+   "text": "He looked at her."
+  },
+  {
+   "seq": 52,
+   "para": "p36",
+   "type": "speech",
+   "text": "“Whatever you had down there, it’s not there now.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p37",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p38",
+   "type": "speech",
+   "text": "“Then you’ll not mind me writing it down,”"
+  },
+  {
+   "seq": 55,
+   "para": "p38",
+   "type": "narration",
+   "text": "said Thurl.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 56,
+   "para": "p39",
+   "type": "narration",
+   "text": "They found the engine on the third morning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p40",
+   "type": "narration",
+   "text": "The near one. The one from the yard. It had gone over the inner wall’s broken face and down the slope and rolled, and it lay on its side half buried at the slope’s foot, black iron, the size of a barn, with its chimney snapped off and its firebox burst open and empty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p41",
+   "type": "narration",
+   "text": "The heartstones had gone out of it across the grass. She’d seen them that day from the jetty, white, like coals scattered out of a grate. They were grey now. Lumps of grey on the turf. Cold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p42",
+   "type": "narration",
+   "text": "He was under the firebox.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 60,
+   "para": "p43",
+   "type": "narration",
+   "text": "They dug him out by hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p44",
+   "type": "narration",
+   "text": "The knights did. Slowly. She didn’t let the lions near it. Orrun lifted the engine, at the end, with his shoulder under it and the shadows on either side, a hand’s breadth off the ground, and held it there trembling while two knights went in under it on their bellies and brought out what was there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p45",
+   "type": "narration",
+   "text": "Magister Hollis Dane. Very straight still, somehow. In his grey with the Blue College’s blue at the cuffs.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p46",
+   "type": "narration",
+   "text": "His gloved hands were on the governor wheel. It had broken off the engine with him, and he hadn’t let go of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p47",
+   "type": "narration",
+   "text": "They had to take the gloves off to get his hands free.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 65,
+   "para": "p48",
+   "type": "narration",
+   "text": "Corrow came over from the ferry house to see him buried.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p49",
+   "type": "narration",
+   "text": "The thin anxious Blue magister. Dane’s man. He stood at the graveside on the hill west of the walls, where the fifty-three were buried from the night of the chains with their beasts beside them, and looked at the ground a while. Then he said the College’s words for the dead, in the old tongue, quickly, looking at the ground, and stepped back.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 67,
+   "para": "p50",
+   "type": "speech",
+   "text": "“He wrote to Ironhythe,”",
+   "how": "quietly"
+  },
+  {
+   "seq": 68,
+   "para": "p50",
+   "type": "narration",
+   "text": "said Thurl. Beside her. Quietly."
+  },
+  {
+   "seq": 69,
+   "para": "p50",
+   "type": "speech",
+   "text": "“Did you know that? After the second time I did. He wrote that the anchors would hold. He signed it.”",
+   "how": "quietly"
+  },
+  {
+   "seq": 70,
+   "para": "p50",
+   "type": "narration",
+   "text": "He looked at the grave."
+  },
+  {
+   "seq": 71,
+   "para": "p50",
+   "type": "speech",
+   "text": "“I’ve got the copy.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p51",
+   "type": "speech",
+   "text": "“Will you send it?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p52",
+   "type": "narration",
+   "text": "Thurl thought about it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p53",
+   "type": "speech",
+   "text": "“It’s a paper with his name on it,”"
+  },
+  {
+   "seq": 75,
+   "para": "p53",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 76,
+   "para": "p53",
+   "type": "speech",
+   "text": "“That’s what Kessmoor does.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 77,
+   "para": "p54",
+   "type": "narration",
+   "text": "The archive came out on the third afternoon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p55",
+   "type": "narration",
+   "text": "It had been under the inner wall’s west end, where the black door was, where the Watch had kept its books and the dead hanging lamp over the long table. The wall had come down on it and the hill on top of the wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p56",
+   "type": "narration",
+   "text": "The lions took the top off. Slab by slab. Then the knights went in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p57",
+   "type": "narration",
+   "text": "The long table was split in two. The hanging lamp was in pieces on the floor, black glass. The shelves were down. Paper everywhere, in drifts, in the dust, in the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p58",
+   "type": "narration",
+   "text": "And against the back wall, where they’d always stood, four iron chests. Dented. Shut.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 82,
+   "para": "p59",
+   "type": "narration",
+   "text": "The lintel went on the third afternoon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p60",
+   "type": "narration",
+   "text": "She was in the doorway. What had been the doorway. The great door-frame of the archive, three blocks of the inner wall’s old grey stone, two posts and a lintel across them, the lintel longer than a cart. It had stood when the wall round it fell. It had a crack across it from one end to the other.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p61",
+   "type": "narration",
+   "text": "Two knights were inside, and four of Joby’s grooms, with ropes on the first of the iron chests.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p62",
+   "type": "narration",
+   "text": "Orrun was above. On the slope. With the shadows. Holding the fallen stone back from the archive’s roof, all three of them, their shoulders against it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p63",
+   "type": "narration",
+   "text": "She heard the lintel go before she saw it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p64",
+   "type": "narration",
+   "text": "A sound in the stone. A long dry crack, like ice on the Wend in a hard frost. She looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p65",
+   "type": "narration",
+   "text": "It was coming down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 89,
+   "para": "p66",
+   "type": "narration",
+   "text": "She put her hand on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p67",
+   "type": "narration",
+   "text": "Her left hand. Flat. On the post, where the lintel sat on it. She didn’t think about it. There was no word for this. There was no word that would take, here, on this hill, where Thurl’s rod said there was nothing. She knew that. She didn’t say anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p68",
+   "type": "narration",
+   "text": "She put her hand on the stone and put Orrun into it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 92,
+   "para": "p69",
+   "type": "narration",
+   "text": "He was there. Up the slope, his shoulder against the fallen stone, and in her at the same time, as he always was. The earth in him. The weight of the hill in his feet. She reached for it through the bond, through the place behind her eyes where he talked, and it came, down through her arm, through her hand, into the post, into the lintel.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p70",
+   "type": "narration",
+   "text": "The lintel stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p71",
+   "type": "narration",
+   "text": "A finger’s breadth down. Cracked through. Hanging. Held.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Out,”",
+   "how": "loud"
+  },
+  {
+   "seq": 96,
+   "para": "p72",
+   "type": "narration",
+   "text": "she said. Not loudly."
+  },
+  {
+   "seq": 97,
+   "para": "p72",
+   "type": "speech",
+   "text": "“Leave the chest. Out.”",
+   "how": "loud",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p73",
+   "type": "narration",
+   "text": "They came out. The two knights first, pushing the grooms ahead of them, bent double under the lintel, and then the grooms, Joby last, and nobody looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p74",
+   "type": "narration",
+   "text": "When the last of them was clear she took her hand off the stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p75",
+   "type": "narration",
+   "text": "The lintel came down in the doorway behind her with a sound like the end of the world, and the dust came out round her in a cloud.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 101,
+   "para": "p76",
+   "type": "narration",
+   "text": "Her hand was grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p77",
+   "type": "narration",
+   "text": "She looked at it in the dust. Her left hand. Grey, from the fingertips to the wrist, as the stone was grey. She turned it over. The palm too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p78",
+   "type": "narration",
+   "text": "She couldn’t feel it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p79",
+   "type": "narration",
+   "text": "She pressed it with her right hand. Nothing. Like pressing someone else’s hand. She made a fist and watched her fingers close and didn’t feel them close.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p80",
+   "type": "thought",
+   "text": "Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p81",
+   "type": "narration",
+   "text": "Orrun. Coming down the slope. Fast, for him. The shadows gone back into the hill behind him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p82",
+   "type": "speech",
+   "text": "“I’m here,”"
+  },
+  {
+   "seq": 108,
+   "para": "p82",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p83",
+   "type": "thought",
+   "text": "Your hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p84",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p85",
+   "type": "narration",
+   "text": "He put his head down to her. She put her left hand in his mane, as she did a hundred times a day, without thinking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p86",
+   "type": "narration",
+   "text": "She couldn’t feel it. The mane. His warmth. Nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p87",
+   "type": "narration",
+   "text": "She put her right hand there instead.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 114,
+   "para": "p88",
+   "type": "narration",
+   "text": "It came back in the night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p89",
+   "type": "narration",
+   "text": "Slowly. She lay on the floor of Liss’s kitchen with her grey hand on her chest and felt it come back, from the wrist outward, like blood into a foot you’ve sat on. Pins. Then cold. Then, a little before dawn, the floor under her knuckles.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p90",
+   "type": "narration",
+   "text": "In the morning it was her hand again, all but the fingertips. A little stiff. A little pale.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p91",
+   "type": "narration",
+   "text": "She didn’t tell Liss.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p92",
+   "type": "narration",
+   "text": "Liss saw it anyway, at the table, when she picked up her cup with her right hand instead of her left. Liss let it be. She put the bread nearer.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 119,
+   "para": "p93",
+   "type": "narration",
+   "text": "Mother Ketch came up on the fourth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p94",
+   "type": "narration",
+   "text": "On a donkey. From Millbrook, where the lower lane was home again, or what was left of it. She got down at the foot of the slope and sat on one of the lions’ stones in a row along the bottom and watched them work all day with her hands in her lap.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p95",
+   "type": "narration",
+   "text": "At noon Maren brought her water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p96",
+   "type": "narration",
+   "text": "Mother Ketch drank it. She looked up at the heap. At the lion on top of it with the white in his mane, lifting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p97",
+   "type": "speech",
+   "text": "“You said the stone,”"
+  },
+  {
+   "seq": 124,
+   "para": "p97",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 125,
+   "para": "p97",
+   "type": "speech",
+   "text": "“That I’d be in the stone, and it’d fall on me.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p98",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p99",
+   "type": "speech",
+   "text": "“It fell.”"
+  },
+  {
+   "seq": 128,
+   "para": "p99",
+   "type": "narration",
+   "text": "Mother Ketch gave her back the cup."
+  },
+  {
+   "seq": 129,
+   "para": "p99",
+   "type": "speech",
+   "text": "“It held, though. Long enough.”"
+  },
+  {
+   "seq": 130,
+   "para": "p99",
+   "type": "narration",
+   "text": "She looked at the river."
+  },
+  {
+   "seq": 131,
+   "para": "p99",
+   "type": "speech",
+   "text": "“That lion of yours. He came up through the floor with his mouth open and I thought, well, this is it, Ketch. And he picked up Sal Dobbin’s boy like a cat with a kitten and went up through the roof.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p100",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p101",
+   "type": "speech",
+   "text": "“I know you know,”"
+  },
+  {
+   "seq": 134,
+   "para": "p101",
+   "type": "narration",
+   "text": "said Mother Ketch."
+  },
+  {
+   "seq": 135,
+   "para": "p101",
+   "type": "speech",
+   "text": "“I’m telling you anyway.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 136,
+   "para": "p102",
+   "type": "narration",
+   "text": "The chests went down to Liss’s outhouse.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p103",
+   "type": "narration",
+   "text": "Four of them. Iron. Carried down the jetty road on poles by eight knights each. Rowan opened the first one on the outhouse floor with a crowbar.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p104",
+   "type": "narration",
+   "text": "Rolls. Tied with ribbon gone brown. The duty books of the Watch, three hundred years of them. Lists of names. Hands she didn’t know. Captains before Hale, and before them, back and back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p105",
+   "type": "narration",
+   "text": "Rowan turned one of the rolls over in her hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p106",
+   "type": "speech",
+   "text": "“Nobody will read them now,”"
+  },
+  {
+   "seq": 141,
+   "para": "p106",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p107",
+   "type": "speech",
+   "text": "“The reader will,”"
+  },
+  {
+   "seq": 143,
+   "para": "p107",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p108",
+   "type": "narration",
+   "text": "Rowan looked at her. Then she shut the lid.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 145,
+   "para": "p109",
+   "type": "narration",
+   "text": "Rowan found her that evening at the burial ground.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p110",
+   "type": "narration",
+   "text": "The grooms’ ground. Outside where the west wall had been. Under the fall now, most of it. The rubble had come down the slope over the low mounds and the grey wooden boards and stopped just short of one plain stone. GARRAN VALE. Cut crooked by a groom’s hand. The slab beside it, and the old stair’s mouth, were under twenty feet of the inner wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p111",
+   "type": "narration",
+   "text": "Maren stood and looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p112",
+   "type": "narration",
+   "text": "Rowan came and stood beside her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p113",
+   "type": "speech",
+   "text": "“I want you to take the knights,”"
+  },
+  {
+   "seq": 150,
+   "para": "p113",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 151,
+   "para": "p114",
+   "type": "narration",
+   "text": "Maren didn’t say anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p115",
+   "type": "speech",
+   "text": "“What’s left of them,”"
+  },
+  {
+   "seq": 153,
+   "para": "p115",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 154,
+   "para": "p115",
+   "type": "speech",
+   "text": "“Forty. Wynn’s hounds. The greyharts. Captain.”"
+  },
+  {
+   "seq": 155,
+   "para": "p115",
+   "type": "narration",
+   "text": "She looked at the stone."
+  },
+  {
+   "seq": 156,
+   "para": "p115",
+   "type": "speech",
+   "text": "“Thorne’s key went with Callis. I’ve nothing to give you but the word. But I’d say it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p116",
+   "type": "speech",
+   "text": "“There’s no gate.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p117",
+   "type": "speech",
+   "text": "“Then captain of the road,”"
+  },
+  {
+   "seq": 159,
+   "para": "p117",
+   "type": "narration",
+   "text": "said Rowan."
+  },
+  {
+   "seq": 160,
+   "para": "p117",
+   "type": "speech",
+   "text": "“Of whatever we are now. The council won’t argue. The council can’t find its own boots.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p118",
+   "type": "narration",
+   "text": "Maren looked at the fall. At the hill. At the place where the stair had been, and the place under that where the door had been, that she’d stood in with a dark sword while a Titan put its brow to the stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p119",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 163,
+   "para": "p119",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p120",
+   "type": "speech",
+   "text": "“Why?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p121",
+   "type": "speech",
+   "text": "“I’m the lion’s,”"
+  },
+  {
+   "seq": 166,
+   "para": "p121",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p122",
+   "type": "narration",
+   "text": "Rowan was quiet for a while.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p123",
+   "type": "speech",
+   "text": "“That’s a rank too,”"
+  },
+  {
+   "seq": 169,
+   "para": "p123",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 170,
+   "para": "p124",
+   "type": "narration",
+   "text": "Lisska came down the valley at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p125",
+   "type": "narration",
+   "text": "Low. Over the river. Out of the north, from the Scarfell, small and green against the grey, coming fast. Maren saw her from the jetty and her heart did something she didn’t let it do. She came in over the fallen hill and turned once over it, looking, and came down onto the ferry-house roof for a breath, the slates cracking under her, and lay there with her head over the eaves.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p126",
+   "type": "narration",
+   "text": "Nothing on her leg.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p127",
+   "type": "narration",
+   "text": "Orrun lifted his head from the road.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p128",
+   "type": "narration",
+   "text": "They looked at each other. The dragon on the roof and the lion in the road. Not a sound. Maren waited.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 175,
+   "para": "p129",
+   "type": "bond",
+   "text": "She says the farmer has gone up to the caves,"
+  },
+  {
+   "seq": 176,
+   "para": "p129",
+   "type": "narration",
+   "text": "said Orrun."
+  },
+  {
+   "seq": 177,
+   "para": "p129",
+   "type": "thought",
+   "text": "Above the cold water. With the girl and the old woman. She says he is writing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p130",
+   "type": "speech",
+   "text": "“Writing what?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p131",
+   "type": "bond",
+   "text": "Everything,"
+  },
+  {
+   "seq": 180,
+   "para": "p131",
+   "type": "narration",
+   "text": "said Orrun."
+  },
+  {
+   "seq": 181,
+   "para": "p131",
+   "type": "thought",
+   "text": "From the beginning. She says he started it on the last day of the year, at a table by a spring. She says the girl says you said twice, and that was right.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p132",
+   "type": "narration",
+   "text": "Maren looked at the dragon on the roof.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p133",
+   "type": "narration",
+   "text": "Lisska looked back at her with her pale green eyes. Then she stood up, and the slates cracked again, and she went off the roof over the river and turned north up the valley, low, and was gone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 184,
+   "para": "p134",
+   "type": "narration",
+   "text": "The lights came that night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p135",
+   "type": "narration",
+   "text": "She was on the jetty. She didn’t know why. She’d gone out to look at the rope, as Liss did every night, and stayed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p136",
+   "type": "narration",
+   "text": "Far off. East. Over the Saltreach bank, over the hills above Harrow’s End, over the long dark rim of the Scarfell. Past all of it. Further than she’d ever seen. On the edge of the sky, where the Worldsend must be, if you could see that far.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p137",
+   "type": "narration",
+   "text": "A glow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p138",
+   "type": "narration",
+   "text": "White. Gold at the edges. Coming up off the rim of the world like dawn. In the wrong place. At the wrong hour. The middle of the night, and the east lit as if the sun were about to rise out of the mountains.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 189,
+   "para": "p139",
+   "type": "narration",
+   "text": "It didn’t rise.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p140",
+   "type": "narration",
+   "text": "It stayed. It grew a little and faded a little and grew again, slowly, like something breathing. Like a fire in a grate when you open the door.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 191,
+   "para": "p141",
+   "type": "narration",
+   "text": "Orrun came and lay down on the jetty road behind her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p142",
+   "type": "narration",
+   "text": "He looked at it a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p143",
+   "type": "bond",
+   "text": "They are drinking,"
+  },
+  {
+   "seq": 194,
+   "para": "p143",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p144",
+   "type": "speech",
+   "text": "“What?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p145",
+   "type": "thought",
+   "text": "Everything."
+  },
+  {
+   "seq": 197,
+   "para": "p145",
+   "type": "narration",
+   "text": "His voice was very low."
+  },
+  {
+   "seq": 198,
+   "para": "p145",
+   "type": "thought",
+   "text": "Out of the mountains. Out of the ground under them. The old ones lived there once, in the high places. There was a great deal of the Deep in those mountains."
+  },
+  {
+   "seq": 199,
+   "para": "p145",
+   "type": "narration",
+   "text": "He was quiet."
+  },
+  {
+   "seq": 200,
+   "para": "p145",
+   "type": "thought",
+   "text": "There will not be.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p146",
+   "type": "narration",
+   "text": "She watched the glow on the rim of the world.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p147",
+   "type": "narration",
+   "text": "It lasted until the real dawn came up under it and drowned it, grey. The next night it came back. The night after that, it was brighter.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 203,
+   "para": "p148",
+   "type": "narration",
+   "text": "On the fifth day they stopped digging.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p149",
+   "type": "narration",
+   "text": "There was nothing else to dig for. The forge and the archive and the engine were out. The rest was a hill. Thurl wrote it down. Joby took the grooms back to Millbrook. Rowan’s knights carried their shovels down the jetty road to the ferry house and stood them against the wall beside the charter stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p150",
+   "type": "narration",
+   "text": "They’d stood it up there on the third day. Leaning against the cracked wall of the ferry house, face out to the road. Maren had read the first line of it, for the first time in her life, though she’d walked under it every day she’d been at Greyhold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p151",
+   "type": "thought",
+   "text": "The gate shall stand open to all who would serve.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p152",
+   "type": "narration",
+   "text": "There was no gate. The stone stood against a ferry-woman’s wall, and anyone who wanted could read it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p153",
+   "type": "narration",
+   "text": "Behind it, on the hill, the lion lay down on the last of the fallen stones and slept a day and a night without moving.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "c25e467327528399693699c9ce10c6a7764b07b5",
+ "segments_sha1": "a3609c9d525a0506f760c5115af7e6613aedd614"
+}

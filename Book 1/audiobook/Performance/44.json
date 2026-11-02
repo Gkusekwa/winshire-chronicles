@@ -2,6 +2,19 @@
  "chapter": 44,
  "title": "The General's Silence",
  "pov": "Calder",
+ "source": "Chapters/Chapter 44 - The General's Silence.md",
+ "names": [
+  "aurveth",
+  "bel",
+  "calder",
+  "fellwood",
+  "fenn",
+  "greyhold",
+  "hearthmere",
+  "kharrak",
+  "lisska",
+  "scar"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1140,5 +1153,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "4c9b3e56097712e57bdc010bef3a750304422c6f",
+ "segments_sha1": "9af17a85a27dba0a48d73e6ad67dbdf89aff06e2"
 }

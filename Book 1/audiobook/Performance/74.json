@@ -2,6 +2,14 @@
  "chapter": 74,
  "title": "Fire at the Ruin",
  "pov": "Calder",
+ "source": "Chapters/Chapter 74 - Fire at the Ruin.md",
+ "names": [
+  "aurveth",
+  "calder",
+  "corvin",
+  "kharrak",
+  "ram"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1499,5 +1507,8 @@
    "text": "said Corvin.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "a2b3d2d685155509f61ee1f88d57567d974d4bc7",
+ "segments_sha1": "b0d8b11fd2ae5e1c57060a7ecdb8de8a33030fdd"
 }

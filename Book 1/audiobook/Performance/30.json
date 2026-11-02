@@ -2,6 +2,33 @@
  "chapter": 30,
  "title": "Harrow's End",
  "pov": "Calder",
+ "source": "Chapters/Chapter 30 - Harrow's End.md",
+ "names": [
+  "arn",
+  "ashby",
+  "askell",
+  "aurveth",
+  "calder",
+  "drover",
+  "end",
+  "fellwood",
+  "fenn",
+  "garrow",
+  "garrows",
+  "gorm",
+  "greyhold",
+  "harrow",
+  "hearthmere",
+  "hob",
+  "kharrak",
+  "lisska",
+  "raske",
+  "sten",
+  "ulric",
+  "wat",
+  "wheel",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1862,5 +1889,8 @@
    "mood": "tender",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "9167b93f821109fb3e4969ecbb17d50f2d05fb54",
+ "segments_sha1": "57fccf950ed845754754e117fcede7b5d49545c7"
 }

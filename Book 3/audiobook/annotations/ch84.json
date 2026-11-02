@@ -1,0 +1,38 @@
+{
+  "chapter": 84,
+  "pov": "",
+  "auto": true,
+  "generator": "directions 1",
+  "source_sha1": "c4b1c82008d3d90e60a9fb38195e0ad3320cd7d5",
+  "spans": {
+    "s1": "thought",
+    "s2": "thought",
+    "s3": "bond",
+    "s4": "speech",
+    "s5": "speech",
+    "s6": "speech",
+    "s7": "speech",
+    "s8": "speech",
+    "s9": "speech",
+    "s10": "speech",
+    "s11": "speech",
+    "s12": "speech",
+    "s13": "speech",
+    "s14": "speech",
+    "s15": "speech",
+    "s16": "speech",
+    "s17": "speech",
+    "s18": "speech",
+    "s19": "speech",
+    "s20": "speech",
+    "s21": "thought",
+    "s22": "speech",
+    "s23": "speech",
+    "s24": "speech",
+    "s25": "speech"
+  },
+  "paragraphs": {
+    "p34": "grief",
+    "p55": "tension"
+  }
+}

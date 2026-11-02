@@ -2,6 +2,25 @@
  "chapter": 46,
  "title": "The Forbidden Verse",
  "pov": "Calder",
+ "source": "Chapters/Chapter 46 - The Forbidden Verse.md",
+ "names": [
+  "ada",
+  "aurveth",
+  "bel",
+  "calder",
+  "crow",
+  "fisk",
+  "greyhold",
+  "harrow",
+  "hearthmere",
+  "joss",
+  "millbrook",
+  "rush",
+  "saltreach",
+  "scar",
+  "tidesteps",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1257,5 +1276,8 @@
    "text": "He didn’t ask her what she meant.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "ae1822d219a370d59e71736e91252547be7b71c7",
+ "segments_sha1": "851e5ed3675399d78fe872f1eacb37f82b5ebbc7"
 }

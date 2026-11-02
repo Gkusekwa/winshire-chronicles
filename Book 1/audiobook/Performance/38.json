@@ -2,6 +2,34 @@
  "chapter": 38,
  "title": "The Long Road North",
  "pov": "Calder",
+ "source": "Chapters/Chapter 38 - The Long Road North.md",
+ "names": [
+  "aurveth",
+  "bel",
+  "calder",
+  "cotter",
+  "crow",
+  "dag",
+  "ferriby",
+  "gallows",
+  "garrow",
+  "greyhold",
+  "joss",
+  "kharrak",
+  "lisska",
+  "mabbin",
+  "marches",
+  "rush",
+  "scar",
+  "sorrel",
+  "tidesteps",
+  "vale",
+  "wat",
+  "wend",
+  "wendmouth",
+  "wendwood",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -2519,5 +2547,8 @@
    "mood": "tender",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "8b9402d3c4d0c288395b853860b323a2505c08c2",
+ "segments_sha1": "2b422f83cca7ab4c06cae66056effc14d35c0dbf"
 }

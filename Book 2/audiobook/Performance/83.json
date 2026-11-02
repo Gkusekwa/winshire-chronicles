@@ -1,0 +1,1532 @@
+{
+ "chapter": 83,
+ "title": "The Cellars",
+ "pov": "",
+ "source": "Chapters/Chapter 83 - The Cellars.md",
+ "names": [
+  "corvin",
+  "idony",
+  "library",
+  "maren",
+  "orrun",
+  "scald",
+  "titan",
+  "vael"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Eighty-three.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Cellars.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "He was beside her because his feet had taken him there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "A man had held him on a cord. Since the cavern. A band man, with a ring and a crossbow, with the cord round Idony’s wrist and the other end round his own fist. When the river came in through the roof, the man had gone into the water, and let go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "Idony had walked along the ledge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Through the water to his knees, holding the wall. Past the lion with blood on his shoulder. To her. He hadn’t decided. His feet had. The fourth time. He’d stood at her shoulder with his lantern, and Corvin had watched him go from the arch, and let him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "The Titan’s head came out of the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "Down the cavern. Over the black water. Out of the dark beyond Kharrak’s fire into the gold light coming off the wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "He’d seen it at the Saltings, from below. A shadow going over. He’d seen the Horned Sun stand up out of a bay. He’d seen the Coil come up through the ice at Glasswater, from the shore.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "He hadn’t seen one this close.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "A wall of grey stone. Ridged. Streaming. Coming down the cavern toward them with the water going away from it in a wave over the ledge’s edge. And in the wall, the eyes. Each as big as the ferry at Vael. Old. So old. Looking at the shut place.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "Not at them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "narration",
+   "text": "It put its brow to the stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p12",
+   "type": "narration",
+   "text": "Gently. He thought that afterwards. He’d thought it would strike. It didn’t. It put its brow against the wall of gold rings, beside the lion, a few paces from Maren’s hand, as an animal puts its head against a door it wants opened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p13",
+   "type": "narration",
+   "text": "The rings turned faster.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p14",
+   "type": "narration",
+   "text": "The scream went higher.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p15",
+   "type": "narration",
+   "text": "And the stone gave.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 18,
+   "para": "p16",
+   "type": "narration",
+   "text": "Not broke. He’d have understood breaking. It gave. Softened. He saw it. The smooth grey old stone of the shut place, with its gold rings turning in it, going soft. Like wax near a flame. Like clay. The rings blurring at their edges as the stone under them lost its hold on them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p17",
+   "type": "narration",
+   "text": "Three hundred years. More. The old ones’ working. The thing they’d made to shut a door, with whatever they’d had in their hands. Giving way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p18",
+   "type": "narration",
+   "text": "To something stronger than the hands that had made it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p19",
+   "type": "narration",
+   "text": "He’d always known it would. He’d read it on the slope of every chart."
+  },
+  {
+   "seq": 22,
+   "para": "p19",
+   "type": "thought",
+   "text": "Every time sooner.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p20",
+   "type": "narration",
+   "text": "He hadn’t known it would be like this. Quiet. Under the scream. Like ice going out of a river in spring.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 24,
+   "para": "p21",
+   "type": "narration",
+   "text": "Corvin was reading.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p22",
+   "type": "narration",
+   "text": "On the ledge’s edge, below the arch. He had the roll open on a binder’s bent back, the binder on his hands and knees on the stone and the roll spread flat across his shoulders, and Corvin’s good palm flat on the nearest chain-end where it hung over the ledge, on the runes inside the curve. Reading. Aloud. In the old tongue.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p23",
+   "type": "narration",
+   "text": "The working-words. The appendix.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p24",
+   "type": "narration",
+   "text": "The ones Idony had taught him. Hold. Hold fast. Turn back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p25",
+   "type": "narration",
+   "text": "Badly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p26",
+   "type": "narration",
+   "text": "He heard it. The weight wrong on the closing hooks. The turn of each word coming a breath too late. As a man speaks a language he’s learned from a book, in a cabin, at a long table, with the wake going away behind him. Every word right. Every word wrong.",
+   "mood": "dread",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 30,
+   "para": "p27",
+   "type": "narration",
+   "text": "The chain-ends answered anyway.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 31,
+   "para": "p28",
+   "type": "narration",
+   "text": "They were still a working.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p29",
+   "type": "narration",
+   "text": "He’d known that since the Scald. He’d worked it out on a tower with the silk on his knee. The twelve chain-ends hanging from the Titan’s legs were still the first knights’ chains. Still hold, inside every link. Still feeding on what they held.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p30",
+   "type": "narration",
+   "text": "They heard Corvin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p31",
+   "type": "narration",
+   "text": "And they didn’t hold. They bit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 35,
+   "para": "p32",
+   "type": "narration",
+   "text": "He saw it. The iron round the Titan’s forelegs, the broken cuffs it had worn for three hundred years, tightening. Going in. Into the stone of its legs. The runes inside the links blazing white and the iron sinking into the grey hide as a wire sinks into a tree.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p33",
+   "type": "narration",
+   "text": "The Titan screamed.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 37,
+   "para": "p34",
+   "type": "narration",
+   "text": "Not the stone. It.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p35",
+   "type": "narration",
+   "text": "He’d never heard a sound like it. Nobody had. It came out of it and filled the cavern and went through him and through the rock and up, up through the river and the hill, he thought, so that every person in the Marches must have heard it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p36",
+   "type": "narration",
+   "text": "It reared.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p37",
+   "type": "narration",
+   "text": "In the cavern. Its brow coming off the shut place. Its forelegs coming up out of the water with the chain-ends biting into them, and the one Corvin held tearing out of his hand. Its back going up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p38",
+   "type": "narration",
+   "text": "Into the roof.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p39",
+   "type": "narration",
+   "text": "At the near end. Behind them. Under the hill. Under the inner wall.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 43,
+   "para": "p40",
+   "type": "narration",
+   "text": "Maren knew before the lion said it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p41",
+   "type": "narration",
+   "text": "He saw her know it. Her hand was flat on Orrun’s side, and her face went white in the gold light, all at once, as if somebody had struck her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p42",
+   "type": "narration",
+   "text": "Above them, through the rock, a sound. Breaking. Long. Vault after vault.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p43",
+   "type": "bond",
+   "text": "The stone people,"
+  },
+  {
+   "seq": 47,
+   "para": "p43",
+   "type": "narration",
+   "text": "said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p44",
+   "type": "narration",
+   "text": "He didn’t hear it. He saw it in her face. She said it aloud for him. For both of them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p45",
+   "type": "speech",
+   "text": "“The cellars,”"
+  },
+  {
+   "seq": 50,
+   "para": "p45",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 51,
+   "para": "p45",
+   "type": "speech",
+   "text": "“They’re under it. The roof’s coming down on them.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 52,
+   "para": "p46",
+   "type": "narration",
+   "text": "She chose in one breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p47",
+   "type": "narration",
+   "text": "He watched her do it. He’d watched her do things for a year. On the shore at Vael, on the glass at the Scald, on a fallen slab in a bay with the sea lapping at the boat. He’d never watched her do this.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p48",
+   "type": "narration",
+   "text": "She looked at the shut place. Softening. Its rings blurred. The wall going to clay under where the Titan’s brow had been. The door, nearly open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p49",
+   "type": "narration",
+   "text": "She looked at Corvin. Back in the arch, with the roll under his arm.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p50",
+   "type": "narration",
+   "text": "She looked at Idony.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p51",
+   "type": "narration",
+   "text": "She looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p52",
+   "type": "speech",
+   "text": "“Go,”"
+  },
+  {
+   "seq": 59,
+   "para": "p52",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 60,
+   "para": "p53",
+   "type": "narration",
+   "text": "To the lion.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p54",
+   "type": "speech",
+   "text": "“All of you. Up. The cellars.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p55",
+   "type": "bond",
+   "text": "The door,"
+  },
+  {
+   "seq": 63,
+   "para": "p55",
+   "type": "narration",
+   "text": "said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p56",
+   "type": "narration",
+   "text": "He heard that. Everyone did. She said it aloud.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p57",
+   "type": "speech",
+   "text": "“I know,”"
+  },
+  {
+   "seq": 66,
+   "para": "p57",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p58",
+   "type": "thought",
+   "text": "If I go up, the door…",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p59",
+   "type": "speech",
+   "text": "“I know,”"
+  },
+  {
+   "seq": 69,
+   "para": "p59",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 70,
+   "para": "p59",
+   "type": "speech",
+   "text": "“Go.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p60",
+   "type": "narration",
+   "text": "She took her hand off the shut place.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 72,
+   "para": "p61",
+   "type": "narration",
+   "text": "She turned to the farmer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p62",
+   "type": "narration",
+   "text": "He was on his red dragon at the ledge’s edge. Soaked. Staring at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p63",
+   "type": "speech",
+   "text": "“The cellars,”"
+  },
+  {
+   "seq": 75,
+   "para": "p63",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 76,
+   "para": "p63",
+   "type": "speech",
+   "text": "“Under the inner wall. Seventy people. The roof’s coming down on them.”"
+  },
+  {
+   "seq": 77,
+   "para": "p63",
+   "type": "narration",
+   "text": "She pointed. Up. At the near end. At the hole in the roof where the river was coming in."
+  },
+  {
+   "seq": 78,
+   "para": "p63",
+   "type": "speech",
+   "text": "“Go up. Through there. Tear the hill open from above. He’ll open it from below.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p64",
+   "type": "narration",
+   "text": "The farmer looked at her for one breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p65",
+   "type": "narration",
+   "text": "He went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p66",
+   "type": "narration",
+   "text": "Up. On the red. Off the ledge into the air of the cavern and up toward the hole in the roof, into the falling river, with the other two dragons after him, the green and the old bronze one. Up through the water. Gone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 82,
+   "para": "p67",
+   "type": "narration",
+   "text": "The lion went into the rock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p68",
+   "type": "narration",
+   "text": "He’d seen Orrun shape stone. Lift a street out of the ground at Vael. Hold a bank at the Scald. He’d never seen this.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p69",
+   "type": "narration",
+   "text": "Orrun went into the cavern wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p70",
+   "type": "narration",
+   "text": "As if it were water. His head first. His shoulders. Into the grey stone at the ledge’s back, and up, through it, the stone closing over him as a pond closes over a diver. Up. Toward the cellars.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p71",
+   "type": "narration",
+   "text": "And out of the cavern floor beside where he’d been, a second lion stood up. And went into the rock after him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p72",
+   "type": "narration",
+   "text": "And a third.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p73",
+   "type": "narration",
+   "text": "And a fourth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p74",
+   "type": "narration",
+   "text": "Three shadows. Up through the rock after him. Gone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 90,
+   "para": "p75",
+   "type": "narration",
+   "text": "She stayed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p76",
+   "type": "narration",
+   "text": "At the shut place. With her back to the soft stone. Haverly’s sword in her hand now, drawn, dark, the letters on its blade dead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p77",
+   "type": "narration",
+   "text": "With him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p78",
+   "type": "narration",
+   "text": "She’d given up the door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p79",
+   "type": "narration",
+   "text": "She knew it. He saw her know it. With the lion gone, there was nobody at the door. Nothing between the Titan and what was behind it but a woman with a sword that didn’t work and a man who couldn’t stand without a spar.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p80",
+   "type": "narration",
+   "text": "And Corvin in the arch, with the roll.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p81",
+   "type": "narration",
+   "text": "Whoever reached it first.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p82",
+   "type": "narration",
+   "text": "She’d chosen the cellars.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 98,
+   "para": "p83",
+   "type": "narration",
+   "text": "The Titan was thrashing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p84",
+   "type": "narration",
+   "text": "In the cavern. With the chain-ends biting into its legs. Rearing, coming down, the black water going up over the ledge in waves. Its back going up into the roof again and again. Every time, through the rock, the sound of breaking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p85",
+   "type": "narration",
+   "text": "If it went on, the cellars were gone. Before the lions got there. Before the dragons tore the hill open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p86",
+   "type": "narration",
+   "text": "He looked at the chain-ends.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p87",
+   "type": "narration",
+   "text": "He knew the words.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 103,
+   "para": "p88",
+   "type": "narration",
+   "text": "He’d taught Corvin all of them but one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p89",
+   "type": "narration",
+   "text": "Rightly. Hold. Hold fast. Turn back. He’d taught them rightly and Corvin had learned them rightly and said them wrong, and the iron had bitten.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p90",
+   "type": "narration",
+   "text": "He knew how to say them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p91",
+   "type": "narration",
+   "text": "He’d known since the spring. Since the roll in the Long Library, with the bird over him on its perch and his palm on the old hand all night. He’d known since he was a boy on a ferry. He’d wanted all his life to say one word to a Titan and have it hear.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p92",
+   "type": "narration",
+   "text": "Not like this.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p93",
+   "type": "narration",
+   "text": "He went to the ledge’s edge.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 109,
+   "para": "p94",
+   "type": "narration",
+   "text": "Another chain-end was hanging from its foreleg.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p95",
+   "type": "narration",
+   "text": "At the edge of the ledge. In the water. As the Titan reared and came down, the chain-end swung past him, iron, each link as tall as a house, the runes inside the curve blazing white. Biting.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p96",
+   "type": "narration",
+   "text": "He put his palm on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p97",
+   "type": "narration",
+   "text": "As it swung past. He put his palm flat on the inside of the curve, on the runes, and it nearly took his arm off, and he held on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p98",
+   "type": "narration",
+   "text": "And read it into the iron.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 114,
+   "para": "p99",
+   "type": "narration",
+   "text": "Not tighten.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p100",
+   "type": "narration",
+   "text": "Not bite.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p101",
+   "type": "narration",
+   "text": "The first words. The ones the first knights’ chains had said for three hundred years. The ones the bird had shown him."
+  },
+  {
+   "seq": 117,
+   "para": "p101",
+   "type": "remembered",
+   "text": "Hold fast."
+  },
+  {
+   "seq": 118,
+   "para": "p101",
+   "type": "narration",
+   "text": "And after it, slowly, with the weight on the closing hooks where the weight belonged, the turn of the word coming exactly when it should: Be still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p102",
+   "type": "narration",
+   "text": "Rightly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p103",
+   "type": "narration",
+   "text": "Not for Corvin.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 121,
+   "para": "p104",
+   "type": "narration",
+   "text": "The Titan went still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p105",
+   "type": "narration",
+   "text": "Not bound. He knew the difference. He’d seen binding on the Library roof and on a terrace in Solenne. This wasn’t that. The chain-ends stopped biting. They held. As a bridle holds a horse. As a hand on a shoulder holds a man who’s about to do something he’ll regret.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p106",
+   "type": "narration",
+   "text": "It stood in the cavern with its legs locked and its brow a few paces from the soft stone of the shut place, and its eyes open.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p107",
+   "type": "narration",
+   "text": "Still.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 125,
+   "para": "p108",
+   "type": "narration",
+   "text": "It was the hardest thing he’d ever done.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p109",
+   "type": "narration",
+   "text": "It was the hardest working anyone had done, he thought later, since the first chains. The first chains had been a hundred voices. A whole knighthood, at noon, every day, for three hundred years. He was one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p110",
+   "type": "narration",
+   "text": "He felt it go out of him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p111",
+   "type": "narration",
+   "text": "Not the Deep. Not the bleed going through him as it went through a drawer. Him. Whatever he was. The part of him that read. The part that had sat in the Gallery of Glasses for eleven years and watched the quicksilver. The part that had wanted to ask. Going out through his palm into the iron, into the runes, into the chain-end, into the Titan’s leg, and holding it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p112",
+   "type": "narration",
+   "text": "Holding it still.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 130,
+   "para": "p113",
+   "type": "narration",
+   "text": "Maren was beside him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p114",
+   "type": "narration",
+   "text": "He felt her hand on his back. Flat. Between his shoulder-blades. She couldn’t help him. She knew she couldn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p115",
+   "type": "speech",
+   "text": "“I’ve nothing to say a word with,”"
+  },
+  {
+   "seq": 133,
+   "para": "p115",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 134,
+   "para": "p115",
+   "type": "speech",
+   "text": "“It’s all in them.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p116",
+   "type": "narration",
+   "text": "She wasn’t here. She was up there, in the rock, in four lions.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p117",
+   "type": "narration",
+   "text": "She put her hand on his back anyway.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p118",
+   "type": "narration",
+   "text": "Her breathing was wrong. He could hear it. Short. Then long. Then short.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p119",
+   "type": "speech",
+   "text": "“Four,”"
+  },
+  {
+   "seq": 139,
+   "para": "p119",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p120",
+   "type": "narration",
+   "text": "Aloud. To nobody. To the rock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p121",
+   "type": "narration",
+   "text": "He felt it go out of her. A fourth shadow, somewhere above them in the stone, standing up out of the cellar floor. Five of them. Orrun and four. Each one as big as Orrun, as strong, with his teeth, with his hold on stone. Each one with her in it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p122",
+   "type": "narration",
+   "text": "Spread across five bodies.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p123",
+   "type": "narration",
+   "text": "She stopped breathing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 144,
+   "para": "p124",
+   "type": "narration",
+   "text": "He counted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p125",
+   "type": "narration",
+   "text": "He didn’t know why. It was the only thing he could do. He had his palm on a chain-end holding a Titan still and the words going out of him and he couldn’t do anything else, so he counted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p126",
+   "type": "narration",
+   "text": "One.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p127",
+   "type": "narration",
+   "text": "Her hand on his back. Not moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p128",
+   "type": "narration",
+   "text": "Two. Three.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 149,
+   "para": "p129",
+   "type": "narration",
+   "text": "Four.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p130",
+   "type": "narration",
+   "text": "Five. Six.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p131",
+   "type": "narration",
+   "text": "Her hand on his back going cold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p132",
+   "type": "narration",
+   "text": "Seven. Eight. Nine.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p133",
+   "type": "narration",
+   "text": "Ten.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p134",
+   "type": "narration",
+   "text": "She breathed.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 155,
+   "para": "p135",
+   "type": "narration",
+   "text": "She gave it to him in pieces.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p136",
+   "type": "narration",
+   "text": "Gasping. Her forehead against his shoulder now, her hand on his back, the words coming out of her between breaths as they came to her through the lions.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p137",
+   "type": "speech",
+   "text": "“They’re holding the roof. On their backs. The vaults.”"
+  },
+  {
+   "seq": 158,
+   "para": "p137",
+   "type": "narration",
+   "text": "Breath."
+  },
+  {
+   "seq": 159,
+   "para": "p137",
+   "type": "speech",
+   "text": "“One under each. Holding it up.”"
+  },
+  {
+   "seq": 160,
+   "para": "p137",
+   "type": "narration",
+   "text": "Breath."
+  },
+  {
+   "seq": 161,
+   "para": "p137",
+   "type": "speech",
+   "text": "“He’s opening the wall. Behind them. Up. Into the hill.”"
+  },
+  {
+   "seq": 162,
+   "para": "p137",
+   "type": "narration",
+   "text": "Breath."
+  },
+  {
+   "seq": 163,
+   "para": "p137",
+   "type": "speech",
+   "text": "“The dragons. Above. Tearing at the slab. The farmer. Kharrak. Pulling the rubble off with their claws.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p138",
+   "type": "narration",
+   "text": "He held the iron.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p139",
+   "type": "speech",
+   "text": "“They’re carrying them,”"
+  },
+  {
+   "seq": 166,
+   "para": "p139",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 167,
+   "para": "p139",
+   "type": "speech",
+   "text": "“Up through the rock. A lion with a child in his jaws. Like a cat with a kitten.”"
+  },
+  {
+   "seq": 168,
+   "para": "p139",
+   "type": "narration",
+   "text": "Breath."
+  },
+  {
+   "seq": 169,
+   "para": "p139",
+   "type": "speech",
+   "text": "“One with three on his back. Up through the stone. Out onto the hill. And the dragons take them.”"
+  },
+  {
+   "seq": 170,
+   "para": "p139",
+   "type": "narration",
+   "text": "Breath."
+  },
+  {
+   "seq": 171,
+   "para": "p139",
+   "type": "speech",
+   "text": "“Lifting them off the hill. Down to the river. To the barge.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p140",
+   "type": "narration",
+   "text": "She was quiet for a moment.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p141",
+   "type": "speech",
+   "text": "“Together,”"
+  },
+  {
+   "seq": 174,
+   "para": "p141",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 175,
+   "para": "p141",
+   "type": "speech",
+   "text": "“The lions and the dragons. Carrying them up. Together.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p142",
+   "type": "narration",
+   "text": "Breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p143",
+   "type": "speech",
+   "text": "“They’re not speaking to each other,”"
+  },
+  {
+   "seq": 178,
+   "para": "p143",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 179,
+   "para": "p143",
+   "type": "speech",
+   "text": "“Not a word. They’re just doing it.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 180,
+   "para": "p144",
+   "type": "narration",
+   "text": "He held it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p145",
+   "type": "narration",
+   "text": "He didn’t know how long. He couldn’t count any more. He’d used up counting. He held the iron and said"
+  },
+  {
+   "seq": 182,
+   "para": "p145",
+   "type": "bond",
+   "text": "hold fast"
+  },
+  {
+   "seq": 183,
+   "para": "p145",
+   "type": "narration",
+   "text": "and be still into it, over and over, with the weight on the closing hooks, rightly, and the Titan stood still in the cavern with its eyes open, and somewhere above him through the rock five lions and three dragons carried seventy people out of a broken hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p146",
+   "type": "speech",
+   "text": "“Joby,”"
+  },
+  {
+   "seq": 185,
+   "para": "p146",
+   "type": "narration",
+   "text": "said Maren. Against his shoulder."
+  },
+  {
+   "seq": 186,
+   "para": "p146",
+   "type": "speech",
+   "text": "“Joby’s last. With his lantern.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p147",
+   "type": "narration",
+   "text": "Breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p148",
+   "type": "speech",
+   "text": "“Out,”"
+  },
+  {
+   "seq": 189,
+   "para": "p148",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 190,
+   "para": "p148",
+   "type": "speech",
+   "text": "“All of them. Out.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 191,
+   "para": "p149",
+   "type": "narration",
+   "text": "He let go of the words.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p150",
+   "type": "narration",
+   "text": "He took his palm off the iron.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p151",
+   "type": "narration",
+   "text": "And it came back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 194,
+   "para": "p152",
+   "type": "narration",
+   "text": "All of it. What he’d spent. What had gone out of him into the chain and the Titan’s leg and held it. Coming back up his arm into him with nowhere to go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p153",
+   "type": "narration",
+   "text": "He felt his hair go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p154",
+   "type": "narration",
+   "text": "He felt it more than saw it. A cold going over his scalp, his face, his beard, all at once, like water poured over his head. Grey. In a breath.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p155",
+   "type": "narration",
+   "text": "His hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p156",
+   "type": "narration",
+   "text": "He looked at it. His right hand. Lifted off the chain-end in front of his face. Shaking. Not trembling: shaking, the fingers going, the wrist, the whole hand going in the gold light as if it belonged to somebody else, as if it were very cold. He watched it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p157",
+   "type": "narration",
+   "text": "It didn’t stop.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 200,
+   "para": "p158",
+   "type": "narration",
+   "text": "He said"
+  },
+  {
+   "seq": 201,
+   "para": "p158",
+   "type": "bond",
+   "text": "hold"
+  },
+  {
+   "seq": 202,
+   "para": "p158",
+   "type": "narration",
+   "text": ".",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p159",
+   "type": "narration",
+   "text": "Aloud. To the chain-end. To see.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p160",
+   "type": "narration",
+   "text": "It was a word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 205,
+   "para": "p161",
+   "type": "narration",
+   "text": "Nothing went with it. Nothing went out of him. The iron didn’t hear. The word went out into the cavern and stopped at his lips, a sound, a shape, a thing he knew the meaning of and could spell in four scripts and had read on the walls of three temples.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p162",
+   "type": "narration",
+   "text": "A word.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p163",
+   "type": "narration",
+   "text": "He knew all of it. Every word on the roll. Every rune in the College’s grammar. Every unmaking. He knew it all and none of it would ever work for him again.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 208,
+   "para": "p164",
+   "type": "narration",
+   "text": "He sat down on the ledge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p165",
+   "type": "narration",
+   "text": "His legs did it. He didn’t decide. He sat down on the wet old stone with his back against nothing and his shaking hands in his lap and looked at them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p166",
+   "type": "narration",
+   "text": "He was alive.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 211,
+   "para": "p167",
+   "type": "narration",
+   "text": "He hadn’t expected to be. He’d felt it go out of him, all of it, and he’d thought, holding the iron,"
+  },
+  {
+   "seq": 212,
+   "para": "p167",
+   "type": "thought",
+   "text": "this is the last thing"
+  },
+  {
+   "seq": 213,
+   "para": "p167",
+   "type": "narration",
+   "text": ". It wasn’t. He was sitting on a ledge with his hands in his lap.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p168",
+   "type": "narration",
+   "text": "Maren was standing over him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 215,
+   "para": "p169",
+   "type": "narration",
+   "text": "With Haverly’s sword in her hand. Dark. Breathing. Grey in the face. Swaying, as if she might fall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p170",
+   "type": "narration",
+   "text": "She didn’t fall.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 217,
+   "para": "p171",
+   "type": "narration",
+   "text": "The Titan moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 218,
+   "para": "p172",
+   "type": "narration",
+   "text": "He heard it. Felt it. The stillness going out of it as the words went out of him. Its legs unlocking. The chain-ends loose.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p173",
+   "type": "narration",
+   "text": "It lowered its head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p174",
+   "type": "narration",
+   "text": "To the shut place. To the soft grey clay of the wall where the rings had been, blurred now, faint, going out. A few paces from where Maren stood over him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p175",
+   "type": "narration",
+   "text": "In the arch, Corvin closed the roll.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 222,
+   "para": "p176",
+   "type": "narration",
+   "text": "The door was open, or nearly. And there was nobody at it but a woman with a dark sword, standing over a grey man who couldn’t lift his hands.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "b273b6b491901e7cfb6e98e68a0cf1a0c5b419b8",
+ "segments_sha1": "deee4521a275c1d0dfda2e2c4d28c77cfa3ee6a8"
+}

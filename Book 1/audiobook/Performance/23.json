@@ -2,6 +2,17 @@
  "chapter": 23,
  "title": "Proof",
  "pov": "Maren",
+ "source": "Chapters/Chapter 23 - Proof.md",
+ "names": [
+  "greyhold",
+  "harrow",
+  "haverly",
+  "liss",
+  "maren",
+  "pell",
+  "rowan",
+  "stables"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -2369,5 +2380,8 @@
    "mood": "humour",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "f221744f141fb1440ba86a2043a73b758d623513",
+ "segments_sha1": "4a4c2ceb4b7cd2a0b28ae568a4582de10f5e8e4f"
 }

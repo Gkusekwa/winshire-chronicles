@@ -1,0 +1,1372 @@
+{
+ "chapter": 76,
+ "title": "The Masthead",
+ "pov": "",
+ "source": "Chapters/Chapter 76 - The Masthead.md",
+ "names": [
+  "drover",
+  "ferris",
+  "gannet",
+  "hal",
+  "hearthmere",
+  "jory",
+  "kit",
+  "lorn",
+  "overy",
+  "saltreach",
+  "scarfell",
+  "sheepford",
+  "vale",
+  "wend"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Seventy-six.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Masthead.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "She’d gone down to the Sheepford for the ketch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "On the three-hundred-and-eighteenth. While the five came on and the wards went up and the lion stood in the river at the hub. Six barges, empty, down eight leagues of grey river with the current, to bring the Kittiwake up and whoever was left at the Sheepford who couldn’t walk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "The farmer’s plan. The one nobody said."
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "thought",
+   "text": "Kit’s barges up the river as far as they’ll go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "narration",
+   "text": "You couldn’t take a ketch up the river with her masts down. So she’d sent Ferris and Lorn word to step them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "narration",
+   "text": "They’d stepped them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": "She came round the bend at Cutter’s Elbow on the evening of the three-hundred-and-eighteenth and saw the Kittiwake at the inn’s landing with her masts up again, both of them, and her rigging set up, and Ferris on the landing with his arms folded.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "speech",
+   "text": "“You said step them,”"
+  },
+  {
+   "seq": 11,
+   "para": "p7",
+   "type": "narration",
+   "text": "said Ferris.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p8",
+   "type": "speech",
+   "text": "“I did.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p9",
+   "type": "speech",
+   "text": "“Two men and an inn’s ostler,”"
+  },
+  {
+   "seq": 14,
+   "para": "p9",
+   "type": "narration",
+   "text": "said Ferris."
+  },
+  {
+   "seq": 15,
+   "para": "p9",
+   "type": "speech",
+   "text": "“Took us a day.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p10",
+   "type": "narration",
+   "text": "She looked at her ketch. With her masts up. She was quiet for a while.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 17,
+   "para": "p11",
+   "type": "narration",
+   "text": "There were four hundred at the Sheepford.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p12",
+   "type": "narration",
+   "text": "The inn’s people. The Sheepford’s fisher-families, who’d stayed when the floating market went up the river, because the Sheepford was theirs. The old, who couldn’t walk eight leagues to the hub and wouldn’t be carried. A few who’d come down from the hub to be away from it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p13",
+   "type": "narration",
+   "text": "Four hundred. Six barges and a ketch.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p14",
+   "type": "narration",
+   "text": "She loaded them on the three-hundred-and-nineteenth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 21,
+   "para": "p15",
+   "type": "narration",
+   "text": "Jory saw it at noon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p16",
+   "type": "narration",
+   "text": "From the Kittiwake‘s masthead. Where he’d gone because he always did, because he was Hal’s son. He called down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p17",
+   "type": "speech",
+   "text": "“Smoke.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p18",
+   "type": "narration",
+   "text": "She looked north.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p19",
+   "type": "narration",
+   "text": "Eight leagues up the river. Over the Vale. Where the hub was. A smudge on the sky. Yellow-grey. Low. Spreading. Heavy. Lying on the land.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p20",
+   "type": "speech",
+   "text": "“What kind?”"
+  },
+  {
+   "seq": 27,
+   "para": "p20",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p21",
+   "type": "narration",
+   "text": "Jory didn’t know.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p22",
+   "type": "narration",
+   "text": "She didn’t either. She went on loading.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 30,
+   "para": "p23",
+   "type": "narration",
+   "text": "At dusk the river stopped.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 31,
+   "para": "p24",
+   "type": "narration",
+   "text": "She was on the first barge, at the tiller, at the landing. With a hundred aboard and the old ones under canvas. And she felt it in the tiller first. As you feel a tide turn in a channel. The pull going out of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p25",
+   "type": "narration",
+   "text": "The Wend stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p26",
+   "type": "narration",
+   "text": "All of it. Grey. Wide. In front of the Sheepford. Lying flat. Flat as a plate. The ice at the edges not moving. The floating market’s last empty rafts, that had been left at the bank when the market went up, sitting on it, still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p27",
+   "type": "narration",
+   "text": "She’d never seen a river stop.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 35,
+   "para": "p28",
+   "type": "narration",
+   "text": "Then it ran the other way.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 36,
+   "para": "p29",
+   "type": "narration",
+   "text": "North.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p30",
+   "type": "narration",
+   "text": "Uphill. She felt it go. In the tiller. In the barge under her. The water going past the barge’s side the wrong way. Slowly, then not slowly. North. Away from the sea. Toward the hub.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p31",
+   "type": "narration",
+   "text": "Ice from the shallows below the Sheepford going past them upstream. Turning. Faster. The empty rafts at the bank pulling at their lines, and the lines parting, and the rafts going. North. Up the river. Into the dusk.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 39,
+   "para": "p32",
+   "type": "speech",
+   "text": "“What is it?”"
+  },
+  {
+   "seq": 40,
+   "para": "p32",
+   "type": "narration",
+   "text": "said Ferris. On the landing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p33",
+   "type": "narration",
+   "text": "She didn’t know.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p34",
+   "type": "narration",
+   "text": "She knew what it meant.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 43,
+   "para": "p35",
+   "type": "narration",
+   "text": "Something was pulling the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p36",
+   "type": "narration",
+   "text": "Up there. Eight leagues off. Where the smoke was. Something was taking the Wend out from under the Sheepford and pulling it north, uphill, faster than any current she’d ever sailed, toward the middle of the Vale.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p37",
+   "type": "narration",
+   "text": "And if they stayed on the water, it would take them too.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 46,
+   "para": "p38",
+   "type": "speech",
+   "text": "“The bank,”"
+  },
+  {
+   "seq": 47,
+   "para": "p38",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 48,
+   "para": "p39",
+   "type": "narration",
+   "text": "Not the Sheepford’s bank. The Sheepford was on the Hearthmere side. The Drover’s Way was on the other. The Saltreach side, two leagues inland across the scrub, going north.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p40",
+   "type": "narration",
+   "text": "The farmer’s road.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p41",
+   "type": "speech",
+   "text": "“Across,”"
+  },
+  {
+   "seq": 51,
+   "para": "p41",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 52,
+   "para": "p41",
+   "type": "speech",
+   "text": "“All of them. Now. To the Saltreach bank. Pole.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 53,
+   "para": "p42",
+   "type": "narration",
+   "text": "They poled.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 54,
+   "para": "p43",
+   "type": "narration",
+   "text": "Six barges and a ketch, across a river going sideways under them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p44",
+   "type": "narration",
+   "text": "You couldn’t sail across it. You couldn’t steer across it. The current took you north whatever you did with the tiller, and the faster it went the more it took. You poled. Every pole on every barge, into the bottom, which was close because the river was going out from under them, and pushed. East. Across. A barge’s length east for every three it went north.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p45",
+   "type": "narration",
+   "text": "She shouted numbers. She didn’t know what else to do. She shouted the poles’ stroke, as Hal had shouted it on the reef channel, as Abram had before him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p46",
+   "type": "thought",
+   "text": "One. And. Two. And.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 58,
+   "para": "p47",
+   "type": "narration",
+   "text": "The Kittiwake went across under Ferris and Lorn with her sails up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p48",
+   "type": "narration",
+   "text": "He’d set them. In the dusk. Both. And the wind was west, off the Hearthmere bank, and he put her across the current on it, heeling, the water going past her the wrong way, and brought her into the Saltreach bank’s shingle three hundred paces north of the Sheepford.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p49",
+   "type": "narration",
+   "text": "And ran her aground.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p50",
+   "type": "narration",
+   "text": "On purpose. Bow first. Up the shingle. With a long grinding sound that went through Kit as if it were her own keel.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 62,
+   "para": "p51",
+   "type": "speech",
+   "text": "“She’s on the ground,”"
+  },
+  {
+   "seq": 63,
+   "para": "p51",
+   "type": "narration",
+   "text": "said Ferris, after. Standing on the shingle by her bow, in the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p52",
+   "type": "narration",
+   "text": "Kit looked at her ketch. On her side a little, on the stones, with her masts up against the stars.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p53",
+   "type": "speech",
+   "text": "“She’s on our ground,”"
+  },
+  {
+   "seq": 66,
+   "para": "p53",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 67,
+   "para": "p54",
+   "type": "narration",
+   "text": "Five barges made it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 68,
+   "para": "p55",
+   "type": "narration",
+   "text": "Dace Overy’s didn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p56",
+   "type": "narration",
+   "text": "The old free captain. Seventy. With the one-eyed dog. His barge was last off the landing, because he’d waited for the inn’s ostler’s mother, who’d been slow on the stair. He was in the middle of the river when the current went fast.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p57",
+   "type": "narration",
+   "text": "She saw it take him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 71,
+   "para": "p58",
+   "type": "narration",
+   "text": "North. Sideways, then north. Up the river. The poles not reaching the bottom any more. Going.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p59",
+   "type": "narration",
+   "text": "He didn’t try to pole. She saw him stand at his tiller and look at it, the river going north under him, and then look across at her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 73,
+   "para": "p60",
+   "type": "narration",
+   "text": "He picked up the dog.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p61",
+   "type": "narration",
+   "text": "The one-eyed dog. That had decided in the autumn it was Kit’s. He held it up. Then he put it over the side.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p62",
+   "type": "narration",
+   "text": "Into the river. Going north.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p63",
+   "type": "narration",
+   "text": "And it swam.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p64",
+   "type": "narration",
+   "text": "East. Across. Toward her. A small dark head in the grey water, going sideways, going north, swimming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p65",
+   "type": "narration",
+   "text": "Dace Overy stood at his tiller and went north up the river into the dusk with the ostler’s mother and twenty others on his barge, toward whatever was pulling, and didn’t look back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 79,
+   "para": "p66",
+   "type": "narration",
+   "text": "The dog came out on the shingle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p67",
+   "type": "narration",
+   "text": "Four hundred paces north of her. Shaking itself. Then running back down the stones to her, and sitting on her feet, wet, with its one eye on her face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p68",
+   "type": "narration",
+   "text": "She picked it up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p69",
+   "type": "narration",
+   "text": "She didn’t say anything. There wasn’t anything.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 83,
+   "para": "p70",
+   "type": "narration",
+   "text": "The people went up the bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p71",
+   "type": "narration",
+   "text": "In the dark. Four hundred. Off the five barges, onto the shingle, up the Saltreach bank through the scrub. Two leagues. To the Drover’s Way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p72",
+   "type": "narration",
+   "text": "Jory led them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p73",
+   "type": "narration",
+   "text": "He’d been up and down that bank in the summer. He knew it. He went in front with a lantern, nineteen, his voice gone down, and they followed him. The old ones carried. Gannet with an old woman on his back, the inn’s cook, who’d told him all autumn he was a bad lot.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 87,
+   "para": "p74",
+   "type": "narration",
+   "text": "She went to the top of the bank to watch them go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p75",
+   "type": "narration",
+   "text": "And looked north.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 89,
+   "para": "p76",
+   "type": "narration",
+   "text": "The road was already full.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p77",
+   "type": "narration",
+   "text": "She could see it. The Drover’s Way. A pale line across the scrub in the starlight going north. And on it, people. Going north. From south of her and north of her and everywhere, going north.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p78",
+   "type": "narration",
+   "text": "And from the north, from the Vale, a stream of them. A great stream. Coming up the road from the hub’s direction and going on north past where it met the track from the Sheepford.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p79",
+   "type": "narration",
+   "text": "Thousands. With beasts. She could hear the beasts. Lowing. Stonehorns. And something she’d heard once on the upper river, a sound too low to hear, in her feet: tuskers.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p80",
+   "type": "narration",
+   "text": "A broken army. Going north.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 94,
+   "para": "p81",
+   "type": "narration",
+   "text": "The Sheepford’s four hundred went into it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p82",
+   "type": "narration",
+   "text": "Off the track. Onto the road. Into the stream. North.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p83",
+   "type": "narration",
+   "text": "Jory looked back at her once. From the road. With his lantern up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p84",
+   "type": "narration",
+   "text": "She raised her hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p85",
+   "type": "narration",
+   "text": "He went.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 99,
+   "para": "p86",
+   "type": "narration",
+   "text": "She stayed at the shingle.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p87",
+   "type": "narration",
+   "text": "With the ketch. Somebody had to. Gannet stayed with her; he’d put the inn’s cook down on the road and come back, through the scrub, in the dark.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Somebody has to watch her,”"
+  },
+  {
+   "seq": 102,
+   "para": "p88",
+   "type": "narration",
+   "text": "said Gannet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p89",
+   "type": "narration",
+   "text": "He meant the ketch. She thought he did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p90",
+   "type": "narration",
+   "text": "They sat on the shingle by the Kittiwake‘s grounded bow with the dog between them and watched the river go north all night.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 105,
+   "para": "p91",
+   "type": "narration",
+   "text": "It went down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p92",
+   "type": "narration",
+   "text": "The river. Down. Lower. The Wend draining out from the Sheepford’s reach, north, uphill, and the water going lower and lower, and the bottom showing. Mud. Stones. The bones of old boats. Pools, in the dark, with fish flapping in them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p93",
+   "type": "narration",
+   "text": "By the middle of the night there was hardly any river. A thin stream, in the middle of the mud, still running north.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p94",
+   "type": "narration",
+   "text": "The ketch was a long way from the water.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 109,
+   "para": "p95",
+   "type": "narration",
+   "text": "At dawn she climbed the mainmast.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 110,
+   "para": "p96",
+   "type": "narration",
+   "text": "She didn’t know why. To see. She’d been sitting on the shingle all night, and the light came up grey in the east, and she got up and went up the ketch’s side and up the shrouds, as she’d gone up a thousand times, to the masthead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p97",
+   "type": "narration",
+   "text": "The ketch was over a little on the stones. The mast leaned. She held on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p98",
+   "type": "narration",
+   "text": "And looked south.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 113,
+   "para": "p99",
+   "type": "narration",
+   "text": "Down the empty river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p100",
+   "type": "narration",
+   "text": "Four leagues of it. Mud and stones and pools, grey in the dawn, with the thin stream in the middle going the wrong way. And then water. Bank to bank, filling the bed, coming up it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p101",
+   "type": "narration",
+   "text": "The sea.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p102",
+   "type": "narration",
+   "text": "It had come up the river. Ninety leagues from its own mouth. Up the empty bed after the Wend, as if the hole were pulling it too.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 117,
+   "para": "p103",
+   "type": "narration",
+   "text": "Lit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p104",
+   "type": "narration",
+   "text": "From under. Blue. White. As she’d never seen the sea. As she’d seen the drowned road’s water off the Lit Shore, with the light coming up through it from the old city. But brighter. And moving.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p105",
+   "type": "narration",
+   "text": "And in it, two shapes.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 120,
+   "para": "p106",
+   "type": "narration",
+   "text": "One long. Dark. A back. Coming up out of the lit water. Blazing. A long low shape where there was no reef, as she’d seen it a league off the far shore at the last milestone, as her father had seen it once and gone down. Blazing now, blue-white, all along it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p107",
+   "type": "narration",
+   "text": "The Bell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p108",
+   "type": "narration",
+   "text": "Up the drained bed in the night, she supposed, after the river ran backward. Following the water it had always followed.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 123,
+   "para": "p109",
+   "type": "narration",
+   "text": "And round it, something pale.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p110",
+   "type": "narration",
+   "text": "Wound round it. Coil on coil. A long pale shape, wrapped round the Bell’s back as a rope’s wrapped round a bollard, round and round. Holding it. In the sea that had come up the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p111",
+   "type": "narration",
+   "text": "The Lady.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p112",
+   "type": "narration",
+   "text": "She knew her. She’d sailed under her name all her life. Every Saltreach captain’s oath. The brine-cup at Gullhaven."
+  },
+  {
+   "seq": 127,
+   "para": "p112",
+   "type": "thought",
+   "text": "By the Lady under the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p113",
+   "type": "narration",
+   "text": "There she was.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 129,
+   "para": "p114",
+   "type": "narration",
+   "text": "They rose.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 130,
+   "para": "p115",
+   "type": "narration",
+   "text": "Together. Up out of the sea. The Bell’s blazing back and the Lady’s pale coils round it. Up. Higher than she’d thought anything could come up out of the sea. Water going up off them. A white tower of it. A league high. Going up into the dawn and spreading at the top like the head of a tree.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p116",
+   "type": "narration",
+   "text": "She held on to the masthead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p117",
+   "type": "narration",
+   "text": "She could hear it now. Four leagues off. A roar. And under it, the bell. Once. Long. The longest she’d ever heard it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 133,
+   "para": "p118",
+   "type": "narration",
+   "text": "Then they went down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 134,
+   "para": "p119",
+   "type": "narration",
+   "text": "Together. The tower of water falling. The Bell’s back going down into the sea, and the Lady’s coils round it, going with it. Down. Not fighting. Not that she could see. Wound together. Going down into the lit water together.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p120",
+   "type": "narration",
+   "text": "And the light went out.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 136,
+   "para": "p121",
+   "type": "narration",
+   "text": "Under the sea. All of it. At once. The blue-white going. As a lamp goes when you close its shutter.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p122",
+   "type": "narration",
+   "text": "The sea was grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p123",
+   "type": "narration",
+   "text": "Flat. Grey. Four leagues down the bed. In the dawn. A long swell coming in off it, up the empty riverbed, and running out on the mud.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p124",
+   "type": "narration",
+   "text": "And then nothing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 140,
+   "para": "p125",
+   "type": "narration",
+   "text": "She stayed at the masthead a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p126",
+   "type": "narration",
+   "text": "Looking at the grey sea. Waiting for something. A back. A light. A coil.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p127",
+   "type": "narration",
+   "text": "Gulls came. She saw them. White. Coming up the river off the sea. The first gulls she’d seen on the Wend since the summer. Coming back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p128",
+   "type": "narration",
+   "text": "Nothing else.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 144,
+   "para": "p129",
+   "type": "narration",
+   "text": "She came down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p130",
+   "type": "narration",
+   "text": "Gannet was on the shingle with the dog. He’d watched her go up. He’d watched her stay.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p131",
+   "type": "speech",
+   "text": "“What did you see?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p132",
+   "type": "narration",
+   "text": "She sat down on the stones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p133",
+   "type": "speech",
+   "text": "“They went down,”"
+  },
+  {
+   "seq": 149,
+   "para": "p133",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 150,
+   "para": "p134",
+   "type": "speech",
+   "text": "“Who?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p135",
+   "type": "speech",
+   "text": "“The Bell. And the Lady.”"
+  },
+  {
+   "seq": 152,
+   "para": "p135",
+   "type": "narration",
+   "text": "She looked at her hands."
+  },
+  {
+   "seq": 153,
+   "para": "p135",
+   "type": "speech",
+   "text": "“She had it. Wound round it. Down there, where the sea’s come up the river. Holding it off us. They came up. Together. And went down.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p136",
+   "type": "speech",
+   "text": "“Dead?”"
+  },
+  {
+   "seq": 155,
+   "para": "p136",
+   "type": "narration",
+   "text": "said Gannet.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 156,
+   "para": "p137",
+   "type": "narration",
+   "text": "She thought about it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p138",
+   "type": "narration",
+   "text": "She’d been asked that about her father. Dead? By Jory, small, on the boathouse walkway, when the ketch came in without him. She’d said yes. She’d known. She’d seen the water close.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p139",
+   "type": "narration",
+   "text": "She’d seen the water close.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 159,
+   "para": "p140",
+   "type": "speech",
+   "text": "“I don’t know,”"
+  },
+  {
+   "seq": 160,
+   "para": "p140",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p141",
+   "type": "narration",
+   "text": "Gannet looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p142",
+   "type": "speech",
+   "text": "“I don’t know,”"
+  },
+  {
+   "seq": 163,
+   "para": "p142",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 164,
+   "para": "p142",
+   "type": "speech",
+   "text": "“They went down. Together. The light went out.”"
+  },
+  {
+   "seq": 165,
+   "para": "p142",
+   "type": "narration",
+   "text": "She looked south, down the empty river, at the grey sea."
+  },
+  {
+   "seq": 166,
+   "para": "p142",
+   "type": "speech",
+   "text": "“That’s all I saw. I can’t say more than I saw.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 167,
+   "para": "p143",
+   "type": "narration",
+   "text": "They walked north at the morning’s middle, as soon as she was down off the mast.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p144",
+   "type": "narration",
+   "text": "Up the bank. Through the scrub. Gannet and Kit and the one-eyed dog. Leaving the Kittiwake on her side on the shingle with her masts up against the sky, a long way from any water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p145",
+   "type": "narration",
+   "text": "She didn’t look back at her. She’d decided not to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p146",
+   "type": "narration",
+   "text": "She looked back once.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 171,
+   "para": "p147",
+   "type": "narration",
+   "text": "The road was empty where it met the Sheepford’s track. The stream had gone on north. They followed it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p148",
+   "type": "narration",
+   "text": "At the third hour after noon they came over a rise on the lower Drover’s Way, still on the Vale’s edge.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 173,
+   "para": "p149",
+   "type": "narration",
+   "text": "The land went up ahead of them. North and north-east. The scrub giving way to moor. The moor going up to the Scarfell, white on its tops, a long way off. A day and more.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p150",
+   "type": "narration",
+   "text": "And on it, roads.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p151",
+   "type": "narration",
+   "text": "She could see them from the rise. Six. Far off. Going up toward the Scarfell from the Vale’s top. The Drover’s Way, that she was on, going on up ahead of her. A track up a valley east of it. A track west of it, along the old river. Others. Six lines across the moor, going up. With people on them. Dark streams. Thousands on each.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p152",
+   "type": "narration",
+   "text": "And beside each road, walking, a hill.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 177,
+   "para": "p153",
+   "type": "narration",
+   "text": "Grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p154",
+   "type": "narration",
+   "text": "With a mane.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p155",
+   "type": "narration",
+   "text": "One beside each stream of people. Six of them. Each one the size of a hill, so that she could see them at all from here. Walking slowly beside the people on its road, at a man’s pace, as she’d seen the lion walk once along the clans’ road, short-stepping, so they could keep up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p156",
+   "type": "narration",
+   "text": "Six.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 181,
+   "para": "p157",
+   "type": "narration",
+   "text": "She counted them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p158",
+   "type": "narration",
+   "text": "She’d learned that from the knight. On the ketch."
+  },
+  {
+   "seq": 183,
+   "para": "p158",
+   "type": "thought",
+   "text": "She counts everything"
+  },
+  {
+   "seq": 184,
+   "para": "p158",
+   "type": "narration",
+   "text": ", she’d told Jory once."
+  },
+  {
+   "seq": 185,
+   "para": "p158",
+   "type": "thought",
+   "text": "She counts the waves.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p159",
+   "type": "narration",
+   "text": "She counted them twice. To be sure.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p160",
+   "type": "narration",
+   "text": "Six. On six roads.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p161",
+   "type": "narration",
+   "text": "And somewhere behind them all, above Harrow’s End, at the Fellwood’s foot, where the roads came together, lying down across the Way, facing south, a seventh.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 189,
+   "para": "p162",
+   "type": "speech",
+   "text": "“The lion,”"
+  },
+  {
+   "seq": 190,
+   "para": "p162",
+   "type": "narration",
+   "text": "said Gannet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p163",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p164",
+   "type": "speech",
+   "text": "“How many of him are there?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p165",
+   "type": "narration",
+   "text": "She looked at the six grey hills walking north beside six streams of people up the moor toward the snow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p166",
+   "type": "speech",
+   "text": "“As many as it takes,”"
+  },
+  {
+   "seq": 195,
+   "para": "p166",
+   "type": "narration",
+   "text": "said Kit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p167",
+   "type": "narration",
+   "text": "She picked up the dog, and they went on.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "21a4cfda52b8abe2b11b45fae1ec5c6c0d26ad7e",
+ "segments_sha1": "c3f60aee1d2fa97d7bcfd84b56ff76ff8d2c2026"
+}

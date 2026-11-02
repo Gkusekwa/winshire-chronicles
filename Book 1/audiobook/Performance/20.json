@@ -2,6 +2,21 @@
  "chapter": 20,
  "title": "Ashes",
  "pov": "Calder",
+ "source": "Chapters/Chapter 20 - Ashes.md",
+ "names": [
+  "ada",
+  "aurveth",
+  "calder",
+  "dag",
+  "garrow",
+  "harrow",
+  "imra",
+  "kharrak",
+  "lisska",
+  "teo",
+  "wat",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -2201,5 +2216,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "6eb1be4e770528230a3ed303891727f750ab490e",
+ "segments_sha1": "f5c6b817fffb43176e2147a3a862b51ae28a3c55"
 }

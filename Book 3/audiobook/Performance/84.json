@@ -1,0 +1,1415 @@
+{
+ "chapter": 84,
+ "title": "First Light",
+ "pov": "",
+ "source": "Chapters/Chapter 84 - First Light.md",
+ "names": [
+  "calder",
+  "davin",
+  "liss",
+  "wren",
+  "wynn"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Eighty-four.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "First Light.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "It started with the dragons.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "He knew that, after. The twenty at the hall’s back going silent at the same breath, when the last glass went flat. He’d heard it from the doorway and not understood it, and the knight beside him had.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "Then it went through the hall.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Slowly. Over the hours. In the dark, in the dust, in Liss’s lamplight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "He watched it go.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "narration",
+   "text": "Arn first.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 9,
+   "para": "p7",
+   "type": "narration",
+   "text": "He was at the hall’s back. Among the pillars. Sitting against one, with Ildra lying across his legs, as she’d lain across his feet on Sigrun’s rock with her tail round his boots.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p8",
+   "type": "narration",
+   "text": "He was looking at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p9",
+   "type": "narration",
+   "text": "She was looking at him. Her small red-gold head up. Her eyes on his face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p10",
+   "type": "narration",
+   "text": "He said something. Calder couldn’t hear what. Low.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p11",
+   "type": "narration",
+   "text": "She didn’t answer.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 14,
+   "para": "p12",
+   "type": "narration",
+   "text": "He said it again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p13",
+   "type": "narration",
+   "text": "She put her head on one side. As a dog does when you say a word it almost knows.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p14",
+   "type": "narration",
+   "text": "He put his hand on her head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p15",
+   "type": "narration",
+   "text": "And Calder saw his face when he did it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p16",
+   "type": "narration",
+   "text": "It was a hand on a dragon’s head. That was all. A man’s hand on a small dragon’s warm red-gold scales. Nothing going through it. Nothing coming back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p17",
+   "type": "narration",
+   "text": "Arn sat very still with his hand on her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 20,
+   "para": "p18",
+   "type": "narration",
+   "text": "She put her head against his chest.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p19",
+   "type": "narration",
+   "text": "Where the bond would have been. Where a rider feels it. She pushed her head into his chest, gently, and held it there. And he put both arms round her neck and held her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p20",
+   "type": "narration",
+   "text": "She didn’t know why he was holding her so hard.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p21",
+   "type": "narration",
+   "text": "He knew.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 24,
+   "para": "p22",
+   "type": "narration",
+   "text": "Then the others.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 25,
+   "para": "p23",
+   "type": "narration",
+   "text": "The Clan’s twenty. Along the hall’s back. One rider after another going still. Looking at their dragon. Saying a name. A word. Putting out a hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p24",
+   "type": "narration",
+   "text": "And the dragons looking back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p25",
+   "type": "narration",
+   "text": "He’d thought it would be terrible. A tearing. Screaming. As at the Roosts, in the smoke, when they came loose like boats off their ropes.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 28,
+   "para": "p26",
+   "type": "narration",
+   "text": "It was quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p27",
+   "type": "narration",
+   "text": "It was a fading. As a voice goes away down a road. You hear it. Then you hear it less. Then you’re not sure you hear it. Then you know you don’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p28",
+   "type": "narration",
+   "text": "Nobody’s rope was cut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p29",
+   "type": "narration",
+   "text": "The rope was just not there. And had never been anything you could see.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 32,
+   "para": "p30",
+   "type": "narration",
+   "text": "The dragons didn’t die.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p31",
+   "type": "narration",
+   "text": "He watched for it. He was frightened of it. He watched the twenty along the hall’s back with his strange eyes, and none of them died. None of them sickened. None of them went mad, or went for their riders, or bolted for the door that wasn’t there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 34,
+   "para": "p32",
+   "type": "narration",
+   "text": "They lay among the pillars and looked at their people.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 35,
+   "para": "p33",
+   "type": "narration",
+   "text": "With their own minds.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p34",
+   "type": "narration",
+   "text": "He could see that. He didn’t know how. He could see it in their eyes. A young grey, looking at a red-thread girl who had her hand on its nose and was crying. Looking at her as it had always looked at her. Kindly. Puzzled. Wanting to know why she was crying.",
+   "mood": "grief",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 37,
+   "para": "p35",
+   "type": "narration",
+   "text": "Not able to ask.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p36",
+   "type": "narration",
+   "text": "She not able to tell it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p37",
+   "type": "narration",
+   "text": "No way across.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 40,
+   "para": "p38",
+   "type": "narration",
+   "text": "By the door, Wynn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p39",
+   "type": "narration",
+   "text": "On the floor against the wall. With his arm in its bandage. With Sorrow lying beside him, grey, her head on Wynn’s knee.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p40",
+   "type": "narration",
+   "text": "Wynn was talking to her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p41",
+   "type": "narration",
+   "text": "Calder could hear it. Wynn had been talking to her all night. As a knight talks to his hound. Low. Half words."
+  },
+  {
+   "seq": 44,
+   "para": "p41",
+   "type": "thought",
+   "text": "Good girl. There. Good.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p42",
+   "type": "narration",
+   "text": "Sorrow lifted her head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p43",
+   "type": "narration",
+   "text": "And looked at Wynn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 47,
+   "para": "p44",
+   "type": "narration",
+   "text": "And wagged her tail, slowly, on the stone floor. Once. Twice. As a hound does when she hears her knight’s voice and doesn’t know what it means.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p45",
+   "type": "narration",
+   "text": "Wynn stopped talking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p46",
+   "type": "narration",
+   "text": "He put his face down in the grey hound’s neck.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 50,
+   "para": "p47",
+   "type": "narration",
+   "text": "The Keeper boy and his wolf. By the western wall. The boy with his arm round its neck and the wolf licking his face, and the boy saying"
+  },
+  {
+   "seq": 51,
+   "para": "p47",
+   "type": "thought",
+   "text": "you know me, you know me"
+  },
+  {
+   "seq": 52,
+   "para": "p47",
+   "type": "narration",
+   "text": ", and the wolf licking his face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p48",
+   "type": "narration",
+   "text": "It knew him. Calder could see it did.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p49",
+   "type": "narration",
+   "text": "It just couldn’t hear him any more.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 55,
+   "para": "p50",
+   "type": "narration",
+   "text": "The Warden and her lame lynx.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p51",
+   "type": "narration",
+   "text": "A riders’ wife with a small brown dragon’s head in her lap, that wasn’t hers, that was her husband’s, and her husband lying hurt in the niche behind her. Stroking it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p52",
+   "type": "narration",
+   "text": "All of them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p53",
+   "type": "narration",
+   "text": "At once. Over the hours. Every one in the hall.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 59,
+   "para": "p54",
+   "type": "narration",
+   "text": "He had nothing to go quiet.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 60,
+   "para": "p55",
+   "type": "narration",
+   "text": "He stood in the doorway’s dark, by the stone, and waited for it. He’d waited all night. He’d thought there’d be something.",
+   "mood": "tension",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 61,
+   "para": "p56",
+   "type": "narration",
+   "text": "There was.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 62,
+   "para": "p57",
+   "type": "narration",
+   "text": "It was in him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p58",
+   "type": "narration",
+   "text": "What they’d given. The fire in his palms. Kharrak’s. He looked at his hands in Liss’s lamplight and the fire was there, under the scarred pink skin, he could feel it. The wind in his chest. Lisska’s. Every breath he took, all the way down, the first full breaths in a year. The sight in his eyes. Aurveth’s. To the edge of the world.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p59",
+   "type": "narration",
+   "text": "All three. In him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p60",
+   "type": "narration",
+   "text": "And quiet.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 66,
+   "para": "p61",
+   "type": "narration",
+   "text": "He’d thought they’d be there. In the powers. Something. A voice in the fire. A word in the wind. He’d thought: they gave it, so they’re in it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p62",
+   "type": "narration",
+   "text": "They weren’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p63",
+   "type": "narration",
+   "text": "It was fire. It was wind. It was sight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p64",
+   "type": "narration",
+   "text": "Nobody in it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 70,
+   "para": "p65",
+   "type": "bond",
+   "text": "Kharrak"
+  },
+  {
+   "seq": 71,
+   "para": "p65",
+   "type": "narration",
+   "text": ", he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p66",
+   "type": "narration",
+   "text": "To the fire in his hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p67",
+   "type": "narration",
+   "text": "Nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p68",
+   "type": "narration",
+   "text": "It was only fire.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 75,
+   "para": "p69",
+   "type": "narration",
+   "text": "He’d lost them twice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p70",
+   "type": "narration",
+   "text": "The first time three times over: on the top field, on the black water, on the beck’s mouth, white. Three deaths. As at the mill. And they’d given, and he’d lived.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p71",
+   "type": "narration",
+   "text": "And now the second time. The thread of them that had been left in what they gave. Going quiet with everything else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p72",
+   "type": "narration",
+   "text": "He stood in the dark and let it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p73",
+   "type": "narration",
+   "text": "There wasn’t anything else to do.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 80,
+   "para": "p74",
+   "type": "narration",
+   "text": "First light came.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 81,
+   "para": "p75",
+   "type": "narration",
+   "text": "He hadn’t thought it would. The door was stone. The mountain was down. Liss’s lamp had guttered an hour before, its oil gone, and nobody had any more. There was no light in the hall but the rune in the roof, white.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p76",
+   "type": "narration",
+   "text": "Then there was.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 83,
+   "para": "p77",
+   "type": "narration",
+   "text": "A line.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p78",
+   "type": "narration",
+   "text": "High in the door-stone. Where the fallen mountain hadn’t quite closed. Up by the lintel, where the words were. A crack. A hand’s breadth long. Thin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p79",
+   "type": "narration",
+   "text": "And grey light in it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 86,
+   "para": "p80",
+   "type": "narration",
+   "text": "The old man woke. On his hurdle. He looked at the crack.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p81",
+   "type": "speech",
+   "text": "“Dawn,”"
+  },
+  {
+   "seq": 88,
+   "para": "p81",
+   "type": "narration",
+   "text": "said Idony."
+  },
+  {
+   "seq": 89,
+   "para": "p81",
+   "type": "speech",
+   "text": "“That’ll be dawn.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 90,
+   "para": "p82",
+   "type": "narration",
+   "text": "People turned to it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p83",
+   "type": "narration",
+   "text": "All over the hall. In the niches. On the floor. Turning their heads, in the dark, toward the thin grey line high in the door. All at once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p84",
+   "type": "narration",
+   "text": "Looking at it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 93,
+   "para": "p85",
+   "type": "speech",
+   "text": "“Davin,”"
+  },
+  {
+   "seq": 94,
+   "para": "p85",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 95,
+   "para": "p86",
+   "type": "narration",
+   "text": "Davin was by the third pillar with the old man, who was asleep. With his case.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p87",
+   "type": "narration",
+   "text": "He came.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p88",
+   "type": "speech",
+   "text": "“The account,”"
+  },
+  {
+   "seq": 98,
+   "para": "p88",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 99,
+   "para": "p89",
+   "type": "narration",
+   "text": "Davin opened the case.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p90",
+   "type": "narration",
+   "text": "It was in there. It had been in there nearly a year. He’d written its first line himself at Bel’s table, the last morning of the year, with Ada pushing the ink-pot nearer, because somebody had to begin it and nobody else would.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p91",
+   "type": "narration",
+   "text": "Pages. Many hands. Liss’s round. Davin’s quick. The knight’s square one, from the far shore, one-handed. A girl called Corrie’s. The old man’s tide-logs. Rowan’s orders, copied.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p92",
+   "type": "narration",
+   "text": "The war.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 103,
+   "para": "p93",
+   "type": "speech",
+   "text": "“The last page,”"
+  },
+  {
+   "seq": 104,
+   "para": "p93",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p94",
+   "type": "narration",
+   "text": "Davin looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p95",
+   "type": "speech",
+   "text": "“I’ll write it,”"
+  },
+  {
+   "seq": 107,
+   "para": "p95",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 108,
+   "para": "p96",
+   "type": "narration",
+   "text": "He could write. Slowly. Badly. Enough for a page, in the light there was.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 109,
+   "para": "p97",
+   "type": "speech",
+   "text": "“Spell it,”"
+  },
+  {
+   "seq": 110,
+   "para": "p97",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 111,
+   "para": "p98",
+   "type": "narration",
+   "text": "Davin said he would.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p99",
+   "type": "narration",
+   "text": "Calder sat on the floor in the dust by the stone of the door with the last page on a board on his knees, and Davin’s pencil, which he held as he held a hoe.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p100",
+   "type": "narration",
+   "text": "As he’d sat at Fisk’s table with a burnt stick and a board, at the Eelweir, the day after the elk. And written his first sentence. CALDER TURNED THE ELK.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p101",
+   "type": "narration",
+   "text": "He wrote.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 115,
+   "para": "p102",
+   "type": "narration",
+   "text": "Davin said each word. Calder found the letters himself, slowly, and Davin nodded at each one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p103",
+   "type": "narration",
+   "text": "He cut each one with the pencil. Pressing. It broke twice. Davin sharpened it with his knife and gave it back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p104",
+   "type": "narration",
+   "text": "Big. Square. Capitals. Each one as big as his palm. They took the whole page.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 118,
+   "para": "p105",
+   "type": "narration",
+   "text": "THE BOND WENT QUIET AT FIRST LIGHT.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 119,
+   "para": "p106",
+   "type": "narration",
+   "text": "He looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p107",
+   "type": "speech",
+   "text": "“More?”"
+  },
+  {
+   "seq": 121,
+   "para": "p107",
+   "type": "narration",
+   "text": "said Davin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p108",
+   "type": "narration",
+   "text": "He thought about it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p109",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 124,
+   "para": "p109",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 125,
+   "para": "p110",
+   "type": "narration",
+   "text": "NOBODY DIED OF IT.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 126,
+   "para": "p111",
+   "type": "narration",
+   "text": "He gave Davin the board.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p112",
+   "type": "narration",
+   "text": "Davin looked at the page. Then he put it in the case, at the end, on top of all the others, and shut the case.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p113",
+   "type": "speech",
+   "text": "“That’s the last,”"
+  },
+  {
+   "seq": 129,
+   "para": "p113",
+   "type": "narration",
+   "text": "said Davin.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p114",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 131,
+   "para": "p115",
+   "type": "narration",
+   "text": "Wren came to him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 132,
+   "para": "p116",
+   "type": "narration",
+   "text": "From the fourth pillar. Where Old Grey stood. She’d been with him all night. Standing against his great grey shoulder with her hand on his neck, where the vein ran.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p117",
+   "type": "narration",
+   "text": "She came across the hall to the door and stood in front of him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p118",
+   "type": "narration",
+   "text": "Old Grey came after her. Slowly. His feathered feet on the stone. And stood behind her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 135,
+   "para": "p119",
+   "type": "narration",
+   "text": "Calder looked at the grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p120",
+   "type": "narration",
+   "text": "Old Grey looked back. With his brown horse’s eyes. Kindly.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p121",
+   "type": "narration",
+   "text": "He’d never been bonded. He’d been bound once, by men with a collar and smoke, and made to kill Joss. He’d come back. He’d turned his head to Wren’s voice in Greyhold’s gate. He’d taken one step toward her of his own accord.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 138,
+   "para": "p122",
+   "type": "narration",
+   "text": "He’d never understood her. Calder had always said so.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p123",
+   "type": "narration",
+   "text": "He didn’t understand her now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p124",
+   "type": "narration",
+   "text": "Nothing did.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 141,
+   "para": "p125",
+   "type": "speech",
+   "text": "“Papa,”"
+  },
+  {
+   "seq": 142,
+   "para": "p125",
+   "type": "narration",
+   "text": "said Wren.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 143,
+   "para": "p126",
+   "type": "speech",
+   "text": "“What can you see?”"
+  },
+  {
+   "seq": 144,
+   "para": "p126",
+   "type": "narration",
+   "text": "said Wren."
+  },
+  {
+   "seq": 145,
+   "para": "p126",
+   "type": "speech",
+   "text": "“Now. With your eyes.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 146,
+   "para": "p127",
+   "type": "narration",
+   "text": "He looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p128",
+   "type": "narration",
+   "text": "She knew. Lisska must have told her, once, at the cave, about Aurveth’s sight. Or she’d worked it out. She was his daughter and Senna’s. She worked things out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 148,
+   "para": "p129",
+   "type": "speech",
+   "text": "“Your eyes are different,”"
+  },
+  {
+   "seq": 149,
+   "para": "p129",
+   "type": "narration",
+   "text": "said Wren."
+  },
+  {
+   "seq": 150,
+   "para": "p129",
+   "type": "speech",
+   "text": "“They look at things too far away. What can you see?”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 151,
+   "para": "p130",
+   "type": "narration",
+   "text": "He looked.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 152,
+   "para": "p131",
+   "type": "narration",
+   "text": "Through the crack. Through the grey line of first light high in the door-stone. Through the stone of the fallen mountain. Through the Scarfell.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p132",
+   "type": "narration",
+   "text": "Out.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 154,
+   "para": "p133",
+   "type": "narration",
+   "text": "South. The moor. The Way. The lip. The Fellwood. The top field above Harrow’s End, with a grey shape on it, under snow now. The Vale, below, a long way down. The hole in its middle. No light in it. No river going into it. The river was gone. Mud. Ice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p134",
+   "type": "narration",
+   "text": "The Wend’s mouth. Grey. The sea. Grey. Flat.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 156,
+   "para": "p135",
+   "type": "narration",
+   "text": "Further.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 157,
+   "para": "p136",
+   "type": "narration",
+   "text": "West. Hearthmere. Dead. The Mere. Grey water, still. The downs.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p137",
+   "type": "narration",
+   "text": "North. Isvaren’s snows. No light under them. White. Glasswater white. Vael’s towers under ice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p138",
+   "type": "narration",
+   "text": "South. The Sunward Hills. Sarovel. Solenne. The bay.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p139",
+   "type": "narration",
+   "text": "East. The Wyldmarch. The Thornwood lying flat. The Worldsend, white, a wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p140",
+   "type": "narration",
+   "text": "The Western Deep, beyond Kessmoor. Ironhythe’s chimneys.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p141",
+   "type": "narration",
+   "text": "To the edge.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 163,
+   "para": "p142",
+   "type": "narration",
+   "text": "He looked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p143",
+   "type": "narration",
+   "text": "He looked at every horizon. Every road. Every city on every line the old man had named to Davin in the night.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 165,
+   "para": "p144",
+   "type": "narration",
+   "text": "No smoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p145",
+   "type": "narration",
+   "text": "On any horizon. Not one chimney. Not one fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p146",
+   "type": "narration",
+   "text": "No road with anyone on it. Not the Iron Road. Not the Sun Road. Not the Drover’s Way below the lip. Not the Coast Road.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p147",
+   "type": "narration",
+   "text": "No light under the ground. The lines, the old College’s lines, that he’d seen lit like veins under skin when the middle broke: dark. All of them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p148",
+   "type": "narration",
+   "text": "No Titans.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p149",
+   "type": "narration",
+   "text": "Nothing walking. Nothing blazing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p150",
+   "type": "narration",
+   "text": "Nothing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 172,
+   "para": "p151",
+   "type": "speech",
+   "text": "“Nothing,”"
+  },
+  {
+   "seq": 173,
+   "para": "p151",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 174,
+   "para": "p152",
+   "type": "narration",
+   "text": "Wren looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p153",
+   "type": "narration",
+   "text": "She didn’t say"
+  },
+  {
+   "seq": 176,
+   "para": "p153",
+   "type": "thought",
+   "text": "say it twice"
+  },
+  {
+   "seq": 177,
+   "para": "p153",
+   "type": "narration",
+   "text": ".",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p154",
+   "type": "narration",
+   "text": "She looked at him a long time, with her hand on Old Grey’s neck behind her, and nodded. As if that was what she’d expected. As if it was better to know.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p155",
+   "type": "narration",
+   "text": "Then she went past him to the knight.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 180,
+   "para": "p156",
+   "type": "narration",
+   "text": "The knight was sitting on the fallen stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p157",
+   "type": "narration",
+   "text": "Inside the door. On a block of the mountain that had come down through the doorway with the rest and lay on the floor below the step. Sitting. With her back straight. Her hands in her lap, bandaged, that she couldn’t feel. Her grey face. Her burned one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 182,
+   "para": "p158",
+   "type": "narration",
+   "text": "She wasn’t shaking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p159",
+   "type": "narration",
+   "text": "He’d watched her shake for a month. She wasn’t, now. She sat on the stone in the dust and the first light and was still.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 184,
+   "para": "p160",
+   "type": "narration",
+   "text": "Wren stood in front of her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p161",
+   "type": "speech",
+   "text": "“Is it over?”"
+  },
+  {
+   "seq": 186,
+   "para": "p161",
+   "type": "narration",
+   "text": "said Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p162",
+   "type": "narration",
+   "text": "The knight looked at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p163",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 189,
+   "para": "p163",
+   "type": "narration",
+   "text": "said the knight.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 190,
+   "para": "p164",
+   "type": "speech",
+   "text": "“Say it twice,”"
+  },
+  {
+   "seq": 191,
+   "para": "p164",
+   "type": "narration",
+   "text": "said Wren.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 192,
+   "para": "p165",
+   "type": "narration",
+   "text": "The knight looked at her for a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 193,
+   "para": "p166",
+   "type": "narration",
+   "text": "He watched them. From the door. The girl with the plait and the grey behind her. The knight on the stone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 194,
+   "para": "p167",
+   "type": "speech",
+   "text": "“Yes,”"
+  },
+  {
+   "seq": 195,
+   "para": "p167",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p168",
+   "type": "narration",
+   "text": "Once.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 197,
+   "para": "p169",
+   "type": "narration",
+   "text": "Wren waited.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p170",
+   "type": "narration",
+   "text": "The knight didn’t say it again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p171",
+   "type": "narration",
+   "text": "Wren looked at her. At her face, the grey side and the burned side, and her eyes, which were the only part of her that still moved as they used to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p172",
+   "type": "narration",
+   "text": "Then she nodded.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 201,
+   "para": "p173",
+   "type": "narration",
+   "text": "Once.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p174",
+   "type": "narration",
+   "text": "As if once was enough. As if, from her, once was the same as twice.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p175",
+   "type": "narration",
+   "text": "She went back to Old Grey and put her hand on his neck, and he put his head down to her, kindly, not understanding, and blew on her hair.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "f528e6547d6302b01b2a3d51fa39dd0664192680",
+ "segments_sha1": "188cbdfd494033cf96a54cad601c75d451e1f1d1"
+}

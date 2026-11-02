@@ -1,0 +1,1488 @@
+{
+ "chapter": 78,
+ "title": "The Top Field",
+ "pov": "",
+ "source": "Chapters/Chapter 78 - The Top Field.md",
+ "names": [
+  "bell",
+  "calder",
+  "coldtarn",
+  "cotter",
+  "cross",
+  "drover",
+  "eelweir",
+  "fellwood",
+  "harrow",
+  "kharrak",
+  "thornwood",
+  "titan",
+  "vale",
+  "varrhold"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Part Seven. Coldtarn.",
+   "pause_after_ms": 2000
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Seventy-eight.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 3,
+   "para": "",
+   "type": "title",
+   "text": "The Top Field.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 4,
+   "para": "p1",
+   "type": "narration",
+   "text": "His voice came back at dawn.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p2",
+   "type": "narration",
+   "text": "A thread of it. He tried it on Kharrak’s neck in the grey, over the column, and something came out. A sound, like a door that hasn’t been opened all winter.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "bond",
+   "text": "There you are"
+  },
+  {
+   "seq": 7,
+   "para": "p3",
+   "type": "narration",
+   "text": ", said Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p4",
+   "type": "speech",
+   "text": "“There I am,”"
+  },
+  {
+   "seq": 9,
+   "para": "p4",
+   "type": "narration",
+   "text": "said Calder. It hurt.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 10,
+   "para": "p5",
+   "type": "narration",
+   "text": "The roads came together above Harrow’s End.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p6",
+   "type": "narration",
+   "text": "He’d known they would. They’d come up out of the Vale on their six lines, and the land narrowed past the village between the beck and the slope, and the roads ran into each other as streams run together going downhill. Except these were going up. Into one. The Drover’s Way. The broad rutted road that went up from Harrow’s End past the top field, through the Fellwood, and over the Scarfell’s lip to Varrhold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p7",
+   "type": "narration",
+   "text": "His road. The road past his house.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 13,
+   "para": "p8",
+   "type": "narration",
+   "text": "He’d watched them go up it all night.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p9",
+   "type": "narration",
+   "text": "From the air. The heads of the columns going over the lip in the dark, onto the high moor, toward Coldtarn. The middles climbing. The tails still coming up out of the Vale onto the Way, at dawn, at the morning’s middle, slow, with the wagons.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p10",
+   "type": "narration",
+   "text": "Tam’s wagons last.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 16,
+   "para": "p11",
+   "type": "narration",
+   "text": "Harrow’s End was empty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 17,
+   "para": "p12",
+   "type": "narration",
+   "text": "It had been empty a long time. Since his own people went over the river to the Hearthmere bank in the first winter, and the crown’s ten days drove some of them back, and then the Titans. Thirty people had come back once, to sow. He’d turned four hundred great elk on the top field for them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p13",
+   "type": "narration",
+   "text": "They’d gone too.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 19,
+   "para": "p14",
+   "type": "narration",
+   "text": "He looked at it from Kharrak’s neck as they went over.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p15",
+   "type": "narration",
+   "text": "The houses. Stone, turf-roofed, the turf gone brown. His mother’s, at the end, by the beck. Roofless. The Eelweir below, where the beck went into the river that wasn’t there any more, a ditch of mud. Fisk’s house, by the weir, with the door hanging.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p16",
+   "type": "narration",
+   "text": "And above the village, on the slope, between the houses and the Fellwood, beside the Way, the top field.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 22,
+   "para": "p17",
+   "type": "narration",
+   "text": "His father’s.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "narration",
+   "text": "Stone walls. Dry-stone, chest-high, that his grandfather had built and his father had mended every spring. A field the size of a small farm, sloping. Gone to weed since before the island. Brown under the snow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p19",
+   "type": "narration",
+   "text": "Where the elk had come down.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 25,
+   "para": "p20",
+   "type": "narration",
+   "text": "The column went up past it all morning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p21",
+   "type": "narration",
+   "text": "He watched. People on the Way, beside the field’s wall. Going up. Past the top field, past the last bend, to the wood. And in.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p22",
+   "type": "narration",
+   "text": "The tail at noon.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p23",
+   "type": "narration",
+   "text": "Tam’s wagons. Forty. Coming up through Harrow’s End past his mother’s roofless house. Slowly. The dray-horses steaming. Tam on the last box.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 29,
+   "para": "p24",
+   "type": "narration",
+   "text": "Then the snow went off the moor.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 30,
+   "para": "p25",
+   "type": "narration",
+   "text": "He saw it go. Below. South. Behind the column’s tail. Where the Way came up the Vale from Cotter’s Cross.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 31,
+   "para": "p26",
+   "type": "narration",
+   "text": "A line. Across the moor. The snow going. White, then brown. The heather under it. Smoking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p27",
+   "type": "narration",
+   "text": "Coming up the road.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 33,
+   "para": "p28",
+   "type": "bond",
+   "text": "It’s coming"
+  },
+  {
+   "seq": 34,
+   "para": "p28",
+   "type": "narration",
+   "text": ", said Aurveth. From high above."
+  },
+  {
+   "seq": 35,
+   "para": "p28",
+   "type": "thought",
+   "text": "The bright one. Up the road. Behind them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 36,
+   "para": "p29",
+   "type": "narration",
+   "text": "He looked.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 37,
+   "para": "p30",
+   "type": "narration",
+   "text": "Day.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 38,
+   "para": "p31",
+   "type": "narration",
+   "text": "On the Drover’s Way. A league below Harrow’s End. Coming up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p32",
+   "type": "narration",
+   "text": "More than a league of it. Two. White. So white it hurt to look at. White through gold, through everything. The surge in it, from the hub, from the broken middle of the world. Burning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p33",
+   "type": "narration",
+   "text": "The Horned Sun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 41,
+   "para": "p34",
+   "type": "narration",
+   "text": "Coming up the road behind the wagons.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 42,
+   "para": "p35",
+   "type": "narration",
+   "text": "It had come round.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p36",
+   "type": "narration",
+   "text": "He’d thought it would go with the others. Stay on the field. Stand there, blazing, on the Vale, where they’d won. The Last Titan was coming north; he’d seen it rise off the hole at dusk, and come, and stop two leagues off, facing the lion where he lay across the Way at the wood’s foot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p37",
+   "type": "narration",
+   "text": "The Sun hadn’t stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p38",
+   "type": "narration",
+   "text": "It had gone round. South of the lion, in the night. Wide. And come up from Cotter’s Cross onto the Way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p39",
+   "type": "narration",
+   "text": "Behind the tail.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 47,
+   "para": "p40",
+   "type": "bond",
+   "text": "I’ll go"
+  },
+  {
+   "seq": 48,
+   "para": "p40",
+   "type": "narration",
+   "text": ", said Kharrak.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 49,
+   "para": "p41",
+   "type": "narration",
+   "text": "He didn’t say it loud. He said it as he’d said"
+  },
+  {
+   "seq": 50,
+   "para": "p41",
+   "type": "bond",
+   "text": "small fire",
+   "how": "quietly"
+  },
+  {
+   "seq": 51,
+   "para": "p41",
+   "type": "narration",
+   "text": ", on the headland at Wendmouth, after the Bell. Quietly. As if he’d been thinking about it for a while.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p42",
+   "type": "bond",
+   "text": "I’ll go"
+  },
+  {
+   "seq": 53,
+   "para": "p42",
+   "type": "narration",
+   "text": ", said Kharrak."
+  },
+  {
+   "seq": 54,
+   "para": "p42",
+   "type": "thought",
+   "text": "Back. To the field.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p43",
+   "type": "thought",
+   "text": "I’m coming.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p44",
+   "type": "thought",
+   "text": "No.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 57,
+   "para": "p45",
+   "type": "narration",
+   "text": "Kharrak came down at the wood’s edge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p46",
+   "type": "narration",
+   "text": "Above the top field, above Harrow’s End. Where the Way went in under the Fellwood’s trees. On the snow. Beside the road, with the column going past on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p47",
+   "type": "narration",
+   "text": "Below them, at the last bend, the lion lay across the Way at the wood’s foot, facing west. The column went round him. He didn’t turn his head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p48",
+   "type": "narration",
+   "text": "Kharrak put his head down. His great red blistered face on the snow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p49",
+   "type": "bond",
+   "text": "Get off"
+  },
+  {
+   "seq": 62,
+   "para": "p49",
+   "type": "narration",
+   "text": ", said Kharrak.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 63,
+   "para": "p50",
+   "type": "bond",
+   "text": "No"
+  },
+  {
+   "seq": 64,
+   "para": "p50",
+   "type": "narration",
+   "text": ", said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p51",
+   "type": "thought",
+   "text": "Farmer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 66,
+   "para": "p52",
+   "type": "thought",
+   "text": "No. I’m coming. I always come.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p53",
+   "type": "bond",
+   "text": "Not this time"
+  },
+  {
+   "seq": 68,
+   "para": "p53",
+   "type": "narration",
+   "text": ", said Kharrak."
+  },
+  {
+   "seq": 69,
+   "para": "p53",
+   "type": "thought",
+   "text": "Get off. Stand here. On the edge. Count them over. Like her."
+  },
+  {
+   "seq": 70,
+   "para": "p53",
+   "type": "narration",
+   "text": "His gold eye was on Calder’s face, very close."
+  },
+  {
+   "seq": 71,
+   "para": "p53",
+   "type": "thought",
+   "text": "Somebody has to count them over.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p54",
+   "type": "thought",
+   "text": "Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p55",
+   "type": "bond",
+   "text": "Farmer"
+  },
+  {
+   "seq": 74,
+   "para": "p55",
+   "type": "narration",
+   "text": ", said Kharrak."
+  },
+  {
+   "seq": 75,
+   "para": "p55",
+   "type": "thought",
+   "text": "Get off.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 76,
+   "para": "p56",
+   "type": "narration",
+   "text": "He got off.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 77,
+   "para": "p57",
+   "type": "narration",
+   "text": "He didn’t know why. He’d never once not come. Not at the mill, not at Gullhaven, not at the Thornwood. He got off. Down Kharrak’s face, onto the snow at the wood’s edge, by the road. And stood.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 78,
+   "para": "p58",
+   "type": "narration",
+   "text": "He couldn’t feel the snow through his boots. He could feel his legs shaking.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p59",
+   "type": "narration",
+   "text": "Kharrak lifted his head.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 80,
+   "para": "p60",
+   "type": "bond",
+   "text": "It was small"
+  },
+  {
+   "seq": 81,
+   "para": "p60",
+   "type": "narration",
+   "text": ", said Kharrak."
+  },
+  {
+   "seq": 82,
+   "para": "p60",
+   "type": "thought",
+   "text": "At the mouth. Wasn’t it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p61",
+   "type": "thought",
+   "text": "It was small.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p62",
+   "type": "bond",
+   "text": "Good"
+  },
+  {
+   "seq": 85,
+   "para": "p62",
+   "type": "narration",
+   "text": ", said Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p63",
+   "type": "narration",
+   "text": "He went.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 87,
+   "para": "p64",
+   "type": "narration",
+   "text": "Down off the wood’s edge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p65",
+   "type": "narration",
+   "text": "Over the last bend. Over the column’s tail coming up the Way, low, so low the wagons’ canvas tilts flapped in his wind. Tam on the last box looking up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p66",
+   "type": "narration",
+   "text": "Down onto the top field.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 90,
+   "para": "p67",
+   "type": "narration",
+   "text": "He landed on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p68",
+   "type": "narration",
+   "text": "His father’s field. Across it. Across the Way where it ran up beside the field’s wall. A hill. Red. Lying across the road between the Sun coming up from below and the last wagons going up above. His wings out. His tail over the wall. His blistered face toward the light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p69",
+   "type": "narration",
+   "text": "On the top field. Where Calder had stood with his hand on an old elk’s antler two summers ago and said his father’s word.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 93,
+   "para": "p70",
+   "type": "narration",
+   "text": "The Sun came up the road.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 94,
+   "para": "p71",
+   "type": "narration",
+   "text": "He watched it come. From the wood’s edge. Two leagues of white day, walking up the Drover’s Way out of the south, from Cotter’s Cross, the snow going off the moor in front of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p72",
+   "type": "narration",
+   "text": "Toward Harrow’s End.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p73",
+   "type": "narration",
+   "text": "Toward the top field.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p74",
+   "type": "narration",
+   "text": "Toward the red hill lying across the road.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 98,
+   "para": "p75",
+   "type": "narration",
+   "text": "Kharrak opened his mouth.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 99,
+   "para": "p76",
+   "type": "narration",
+   "text": "White.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 100,
+   "para": "p77",
+   "type": "narration",
+   "text": "He’d seen it in the Thornwood. On the sea. At the scrub end, across a league, all day. Round the Bell at the mouth, in a ring. Small fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p78",
+   "type": "narration",
+   "text": "This wasn’t small.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 102,
+   "para": "p79",
+   "type": "narration",
+   "text": "All of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p80",
+   "type": "narration",
+   "text": "Out of Kharrak. Across the Way. Across the slope. Up the slope and down it. A wall. From the beck at the bottom of the village to the slope’s shoulder under the wood. A league. White. Standing up into the sky. Between the Sun and the road.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p81",
+   "type": "narration",
+   "text": "Not at the Sun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p82",
+   "type": "narration",
+   "text": "Between.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 106,
+   "para": "p83",
+   "type": "narration",
+   "text": "The Sun pressed on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p84",
+   "type": "narration",
+   "text": "He saw it press. The white of the Sun’s light and the white of the fire meeting on the slope below Harrow’s End. Day against fire. The air between them shaking. He felt the heat at the wood’s edge, on his face, as he’d felt the forge on his face at Varrhold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p85",
+   "type": "narration",
+   "text": "The field’s walls went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p86",
+   "type": "narration",
+   "text": "His grandfather’s dry-stone walls. Chest-high. Running. Going to slag. Glowing. Melting down into the ground like candle-wax.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p87",
+   "type": "narration",
+   "text": "The snow went off the whole slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p88",
+   "type": "narration",
+   "text": "The Eelweir below the village boiled.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 112,
+   "para": "p89",
+   "type": "narration",
+   "text": "And through the bond he felt it go.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 113,
+   "para": "p90",
+   "type": "narration",
+   "text": "The fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p91",
+   "type": "narration",
+   "text": "Out of Kharrak. Through the rust. Through the scar on his chest, the third, the red one, where the Wayfarer had pressed a hot seal into him at the crossroads. He felt it go out of Kharrak and into the wall on the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 115,
+   "para": "p92",
+   "type": "narration",
+   "text": "All of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p93",
+   "type": "narration",
+   "text": "More than at the Thornwood. More than at the scrub end, all day. More than at the mouth. More than he’d known Kharrak had.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p94",
+   "type": "narration",
+   "text": "Everything.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 118,
+   "para": "p95",
+   "type": "thought",
+   "text": "Small"
+  },
+  {
+   "seq": 119,
+   "para": "p95",
+   "type": "narration",
+   "text": ", he tried to say.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 120,
+   "para": "p96",
+   "type": "narration",
+   "text": "Through the bond. A joke. A plea. He didn’t know which.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p97",
+   "type": "bond",
+   "text": "No"
+  },
+  {
+   "seq": 122,
+   "para": "p97",
+   "type": "narration",
+   "text": ", said Kharrak."
+  },
+  {
+   "seq": 123,
+   "para": "p97",
+   "type": "thought",
+   "text": "Not small. Not this time.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 124,
+   "para": "p98",
+   "type": "narration",
+   "text": "The wagons went up.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 125,
+   "para": "p99",
+   "type": "narration",
+   "text": "Past him. On the Way. At the wood’s edge. In under the trees. Wagon after wagon, Tam’s, forty, the dray-horses steaming and straining up the last bend, the canvas tilts lit white on their south sides by the light below.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p100",
+   "type": "narration",
+   "text": "He counted them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p101",
+   "type": "narration",
+   "text": "He didn’t count things. He counted these. Standing at the wood’s edge by the road in the snow, as Kharrak had told him. Like her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 128,
+   "para": "p102",
+   "type": "thought",
+   "text": "Thirty-one.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p103",
+   "type": "thought",
+   "text": "Thirty-two.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 130,
+   "para": "p104",
+   "type": "narration",
+   "text": "Below, on the top field, the wall of fire held.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p105",
+   "type": "narration",
+   "text": "The Sun pressing on it. Kharrak lying across the road behind it, his mouth open, the fire going out of him. He could see the red going out of him from the wood’s edge. His plates. Red. Then dark red. Then something else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p106",
+   "type": "thought",
+   "text": "Thirty-six.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p107",
+   "type": "thought",
+   "text": "Thirty-seven.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 134,
+   "para": "p108",
+   "type": "narration",
+   "text": "The last wagon came up the bend.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p109",
+   "type": "narration",
+   "text": "Tam’s. On the box. With Odo’s tools under the seat. Tam with the reins in his black-knuckled hands and his face turned back, looking down the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p110",
+   "type": "narration",
+   "text": "At the field.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p111",
+   "type": "narration",
+   "text": "At the red hill lying on it across the road with all its fire going out of it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 138,
+   "para": "p112",
+   "type": "narration",
+   "text": "The wagon came up to the trees.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 139,
+   "para": "p113",
+   "type": "speech",
+   "text": "“Forty,”"
+  },
+  {
+   "seq": 140,
+   "para": "p113",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p114",
+   "type": "narration",
+   "text": "Out loud. In his thread of a voice. At the wood’s edge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p115",
+   "type": "narration",
+   "text": "Tam looked at him from the box as he went past. He didn’t say anything. He lifted one black-knuckled hand off the reins.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p116",
+   "type": "narration",
+   "text": "Then he was past, and gone, in under the trees, toward Coldtarn.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 144,
+   "para": "p117",
+   "type": "bond",
+   "text": "That’s all of them"
+  },
+  {
+   "seq": 145,
+   "para": "p117",
+   "type": "narration",
+   "text": ", said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p118",
+   "type": "narration",
+   "text": "Through the bond. Down to the field.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 147,
+   "para": "p119",
+   "type": "thought",
+   "text": "That’s all of them, Kharrak. That’s the last.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 148,
+   "para": "p120",
+   "type": "narration",
+   "text": "The fire went out.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 149,
+   "para": "p121",
+   "type": "narration",
+   "text": "He felt it. Kharrak letting it go. The white wall on the slope thinning. Breaking. Going out from the middle, as a curtain parts.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p122",
+   "type": "narration",
+   "text": "And the Sun’s light came through.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p123",
+   "type": "narration",
+   "text": "Over the slope. Over the slagged walls. Over the top field.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p124",
+   "type": "narration",
+   "text": "Over Kharrak.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 153,
+   "para": "p125",
+   "type": "narration",
+   "text": "He lay on the field.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p126",
+   "type": "narration",
+   "text": "Across the road. His wings out on the melted ground. His blistered face down on the snow-melt, which was running off the slope in streams round him. His red going grey. His gold eyes half shut.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p127",
+   "type": "narration",
+   "text": "The Sun’s light on him, white.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 156,
+   "para": "p128",
+   "type": "bond",
+   "text": "I held it"
+  },
+  {
+   "seq": 157,
+   "para": "p128",
+   "type": "narration",
+   "text": ", said Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 158,
+   "para": "p129",
+   "type": "narration",
+   "text": "Faint. Down the bond. Very faint.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p130",
+   "type": "thought",
+   "text": "I didn’t kill it. I held it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p131",
+   "type": "bond",
+   "text": "You held it"
+  },
+  {
+   "seq": 161,
+   "para": "p131",
+   "type": "narration",
+   "text": ", said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p132",
+   "type": "narration",
+   "text": "He was on his knees at the wood’s edge. In the snow. He didn’t remember kneeling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p133",
+   "type": "bond",
+   "text": "I’m good at it"
+  },
+  {
+   "seq": 164,
+   "para": "p133",
+   "type": "narration",
+   "text": ", said Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p134",
+   "type": "thought",
+   "text": "You are. You’re the best at it. You always were.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 166,
+   "para": "p135",
+   "type": "bond",
+   "text": "Tell the little one"
+  },
+  {
+   "seq": 167,
+   "para": "p135",
+   "type": "narration",
+   "text": ", said Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p136",
+   "type": "narration",
+   "text": "Fainter.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p137",
+   "type": "thought",
+   "text": "The one with the ribbon. Wren."
+  },
+  {
+   "seq": 170,
+   "para": "p137",
+   "type": "narration",
+   "text": "A breath."
+  },
+  {
+   "seq": 171,
+   "para": "p137",
+   "type": "thought",
+   "text": "Tell her it was small.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p138",
+   "type": "thought",
+   "text": "I’ll tell her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 173,
+   "para": "p139",
+   "type": "thought",
+   "text": "Tell her twice.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 174,
+   "para": "p140",
+   "type": "narration",
+   "text": "Then he was gone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 175,
+   "para": "p141",
+   "type": "narration",
+   "text": "Not all at once. He felt it go as you feel a fire go out in a grate you’re sitting by. The heat on your face going. Slowly. Then the glow. Then nothing. Then cold.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p142",
+   "type": "narration",
+   "text": "The rust scar on his chest. Hot. Hotter. Then nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p143",
+   "type": "narration",
+   "text": "The bond.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p144",
+   "type": "narration",
+   "text": "One of three.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 179,
+   "para": "p145",
+   "type": "narration",
+   "text": "And then it came back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 180,
+   "para": "p146",
+   "type": "narration",
+   "text": "Into him. Up the bond. Up the rope that was going slack for the last time. Out of the grey shape lying on the top field. Back. Into him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p147",
+   "type": "narration",
+   "text": "Fire.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 182,
+   "para": "p148",
+   "type": "narration",
+   "text": "He felt it come in through the scar. Through his chest. Down his arms. Into his palms. Heat. The toll running the other way. Coming in. As a river comes back into a dry bed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p149",
+   "type": "narration",
+   "text": "He looked at his hands.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p150",
+   "type": "narration",
+   "text": "His palms. Scarred pink for a year, bandaged, raw. In the snow at the wood’s edge, in front of him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p151",
+   "type": "narration",
+   "text": "For a breath they weren’t pink. They were white. White-gold. Lit from inside, as the Sun was lit, as Kharrak’s fire was lit, glowing through the skin, every line of them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p152",
+   "type": "narration",
+   "text": "Then pink again.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 187,
+   "para": "p153",
+   "type": "narration",
+   "text": "He lived.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p154",
+   "type": "narration",
+   "text": "He knelt at the wood’s edge with his hands in front of him and breathed. In. Out. And didn’t die. As he’d died, nearly, at the mill, when three went out of him at once and nothing came back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p155",
+   "type": "narration",
+   "text": "Something had come back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p156",
+   "type": "narration",
+   "text": "Kharrak had given it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 191,
+   "para": "p157",
+   "type": "narration",
+   "text": "One of three.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 192,
+   "para": "p158",
+   "type": "narration",
+   "text": "The Sun went on.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 193,
+   "para": "p159",
+   "type": "narration",
+   "text": "He watched it from his knees. Up the slope. Two leagues of white day. Over the top field. Over the slagged walls.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 194,
+   "para": "p160",
+   "type": "narration",
+   "text": "Over Kharrak.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p161",
+   "type": "narration",
+   "text": "It didn’t stop. It went over the grey shape on the field as the sun goes over a stone. And on. Along the slope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p162",
+   "type": "narration",
+   "text": "Not up the Way. Not after the column.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p163",
+   "type": "narration",
+   "text": "East.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p164",
+   "type": "narration",
+   "text": "Along the slope under the Fellwood. Away from the road. Away from the wood’s edge. Toward the Worldsend. Too bright to see. Burning. The snow going off the moor in a line ahead of it, going away east, smaller, smaller.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p165",
+   "type": "narration",
+   "text": "It didn’t follow them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p166",
+   "type": "narration",
+   "text": "It went east, along the slope, burning, and didn’t turn.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 201,
+   "para": "p167",
+   "type": "narration",
+   "text": "He looked at the field.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p168",
+   "type": "narration",
+   "text": "His father’s field. The walls gone to slag. The snow gone. The weeds gone. Black ground. And across it, across the road, a grey hill with its wings out, that had been red.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p169",
+   "type": "narration",
+   "text": "He’d come home.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p170",
+   "type": "narration",
+   "text": "He’d stood on that field and turned the elk. And on that field Kharrak had held a sun.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 205,
+   "para": "p171",
+   "type": "narration",
+   "text": "He looked away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p172",
+   "type": "narration",
+   "text": "He couldn’t look at the field any more. He turned his head, down the Way, to the last bend.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 207,
+   "para": "p173",
+   "type": "narration",
+   "text": "A few hundred paces off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p174",
+   "type": "narration",
+   "text": "Very still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p175",
+   "type": "narration",
+   "text": "A grey shape. Lying across the road at the wood’s foot. Facing west. A lion the size of a hill, and on his head, between his ears, something small that didn’t move.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p176",
+   "type": "narration",
+   "text": "And coming up toward it out of the west, out of the Vale’s light, white, on wings, slowly, its kin.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 211,
+   "para": "p177",
+   "type": "narration",
+   "text": "The last thing between the Last Titan and the road.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 212,
+   "para": "p178",
+   "type": "narration",
+   "text": "He knelt at the wood’s edge and watched it lie there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p179",
+   "type": "narration",
+   "text": "Then Lisska came down beside him on the snow, very quietly, and put her great green head against his back, and didn’t say anything at all.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "8821c11c1841ff7243819aa2d19107ed183ebd76",
+ "segments_sha1": "348254392ed62b6da77d8fff891c36315e63c326"
+}

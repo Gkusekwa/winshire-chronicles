@@ -2,6 +2,17 @@
  "chapter": 78,
  "title": "Underground",
  "pov": "Calder",
+ "source": "Chapters/Chapter 78 - Underground.md",
+ "names": [
+  "aurveth",
+  "calder",
+  "fisk",
+  "greyhold",
+  "kharrak",
+  "lisska",
+  "maren",
+  "wren"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1492,5 +1503,8 @@
    "mood": "awe",
    "pause_after_ms": 800
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "d72baabb32475325aa2ad7a67c2ee87ac6f03467",
+ "segments_sha1": "a5b690d05b507315dd34e355056b6a2a510f0cfb"
 }

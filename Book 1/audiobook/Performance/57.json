@@ -2,6 +2,21 @@
  "chapter": 57,
  "title": "Tobin",
  "pov": "Maren",
+ "source": "Chapters/Chapter 57 - Tobin.md",
+ "names": [
+  "fennick",
+  "ferriby",
+  "greyhold",
+  "hale",
+  "kettle",
+  "maren",
+  "marl",
+  "millbrook",
+  "odo",
+  "tam",
+  "tobin",
+  "vale"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1457,5 +1472,8 @@
    "mood": "grief",
    "pause_after_ms": 800
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "3d0055a491a2fbbb0e742561451d2d487642723c",
+ "segments_sha1": "4d3d3b4c54ed1bd39744f722b5ef6fe857ccc121"
 }

@@ -1,0 +1,2147 @@
+{
+ "chapter": 43,
+ "title": "The Flood",
+ "pov": "",
+ "source": "Chapters/Chapter 43 - The Flood.md",
+ "names": [
+  "ada",
+  "ashford",
+  "aurveth",
+  "calder",
+  "downs",
+  "eelweir",
+  "fenn",
+  "fisk",
+  "gannet",
+  "greyhold",
+  "hearthmere",
+  "kharrak",
+  "liss",
+  "lisska",
+  "lock",
+  "lowfold",
+  "marches",
+  "rowan",
+  "saltreach",
+  "staithe",
+  "vael",
+  "wend"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Forty-three.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "The Flood.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 3,
+   "para": "p1",
+   "type": "narration",
+   "text": "They passed the water at noon on the first day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 4,
+   "para": "p2",
+   "type": "narration",
+   "text": "He saw it from a long way off. Ahead of them, down the valley, a band of brown going across from one side to the other, and white along its front. Moving. From up here it looked slow, a brown tongue licking its way down the valley floor, taking the fields and the hedges and the trees one after another. Behind it, the valley was full. Before it, the valley was green.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p3",
+   "type": "narration",
+   "text": "They went over it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p4",
+   "type": "narration",
+   "text": "Low. He felt the cold come up off it, the last of the cold thing’s cold, and saw what was in it. Trees. Whole trees, roots and all, rolling over. Roofs. A cart. Ice, still, big grey slabs of it, grinding along in the brown. A cow, swimming, with its head up and its eyes white. He couldn’t do anything for the cow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p5",
+   "type": "narration",
+   "text": "Then they were past it. Over the green valley. Over fields with sheep in them, and a road with a cart on it, going the other way, toward the water, not knowing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p6",
+   "type": "bond",
+   "text": "How far ahead?"
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": "said Lisska.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "speech",
+   "text": "“Not far enough.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 11,
+   "para": "p8",
+   "type": "narration",
+   "text": "The first town was at the valley’s foot.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p9",
+   "type": "narration",
+   "text": "A stone bridge over the river, and a mill, and a square of houses round a well. He didn’t know its name. He found out later it was Wendhead, because the river began there, the colleges said, though the river had begun at Glasswater as far as he’d seen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 13,
+   "para": "p10",
+   "type": "narration",
+   "text": "Kharrak came down in the square.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 14,
+   "para": "p11",
+   "type": "narration",
+   "text": "Nobody argued with a dragon. He’d learned that at Wendmouth. People came out of their houses at the sound of him landing and stood in their doorways and stared, and some ran, and some went back in and shut the door. But they listened. He stood up on Kharrak’s back, so they’d see him, and shouted.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p12",
+   "type": "speech",
+   "text": "“Water,”",
+   "how": "shouted"
+  },
+  {
+   "seq": 16,
+   "para": "p12",
+   "type": "narration",
+   "text": "he shouted."
+  },
+  {
+   "seq": 17,
+   "para": "p12",
+   "type": "speech",
+   "text": "“Coming down the valley. All of it. The lake’s broken. It’ll be here by tomorrow noon. Get up the hill.”",
+   "how": "shouted",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 18,
+   "para": "p13",
+   "type": "narration",
+   "text": "A man with flour on his arms came out of the mill and looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p14",
+   "type": "speech",
+   "text": "“What lake?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 20,
+   "para": "p15",
+   "type": "speech",
+   "text": "“Glasswater.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p16",
+   "type": "narration",
+   "text": "The man looked at him for a long moment. Then he looked at the dragon. Then he went back into the mill and came out with a woman and two children and started up the hill.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 22,
+   "para": "p17",
+   "type": "narration",
+   "text": "He wrote it on the mill door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p18",
+   "type": "narration",
+   "text": "He didn’t know why. He’d thought of it on the way down. They’d go up the hill, the ones who believed him, and some wouldn’t, and some would come back down tonight to fetch something, and they’d see the door. He couldn’t read their signs. He couldn’t read the name painted over the mill. But he could write two words. He’d made sure of it, on the setters’ ledge at Varrhold in the summer, with Ada and a bit of slate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 24,
+   "para": "p19",
+   "type": "narration",
+   "text": "He took the charcoal out of his pocket. A stub, from the fire on the frost. He wrote on the mill door, big, in letters as tall as his hand.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p20",
+   "type": "narration",
+   "text": "WATER COMING",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p21",
+   "type": "narration",
+   "text": "He looked at it. The second W had gone wrong. It didn’t matter.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p22",
+   "type": "narration",
+   "text": "Under it he drew one stroke. One day.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 28,
+   "para": "p23",
+   "type": "narration",
+   "text": "Cray’s Ford, the second. Lowfold, the third, at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p24",
+   "type": "narration",
+   "text": "Each one the same. Kharrak in the square, or the field by the river, or the churchyard. The people in the doorways."
+  },
+  {
+   "seq": 30,
+   "para": "p24",
+   "type": "thought",
+   "text": "Water. Coming. Get up the hill."
+  },
+  {
+   "seq": 31,
+   "para": "p24",
+   "type": "narration",
+   "text": "The door of the biggest building, and the charcoal. WATER COMING, and a stroke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p25",
+   "type": "narration",
+   "text": "At Lowfold an old woman read it aloud to the others. Slowly. Pointing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p26",
+   "type": "speech",
+   "text": "“Water,”"
+  },
+  {
+   "seq": 34,
+   "para": "p26",
+   "type": "narration",
+   "text": "she read."
+  },
+  {
+   "seq": 35,
+   "para": "p26",
+   "type": "speech",
+   "text": "“Comin’.”"
+  },
+  {
+   "seq": 36,
+   "para": "p26",
+   "type": "narration",
+   "text": "She looked at him."
+  },
+  {
+   "seq": 37,
+   "para": "p26",
+   "type": "speech",
+   "text": "“Is that one day or one stroke?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 38,
+   "para": "p27",
+   "type": "speech",
+   "text": "“One day.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p28",
+   "type": "speech",
+   "text": "“You’d want to write it plainer,”"
+  },
+  {
+   "seq": 40,
+   "para": "p28",
+   "type": "narration",
+   "text": "she said. And went to fetch her goat.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 41,
+   "para": "p29",
+   "type": "narration",
+   "text": "The yearling followed all the way.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p30",
+   "type": "narration",
+   "text": "She couldn’t keep up. She’d never flown more than a few leagues in her life, and that with a hand on her head. She fell behind, and he’d look back and see her, small and red and labouring, a long way back over the valley. And Kharrak would slow, and grumble, and she’d catch up, and fall behind again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p31",
+   "type": "narration",
+   "text": "She didn’t eat. Kharrak brought her a sheep at Lowfold and she looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p32",
+   "type": "narration",
+   "text": "At night Lisska lay against her and hummed. The ledges’ hum. Low, in the stone. He felt it through the ground where he lay. The yearling didn’t lift her head. But she didn’t move away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p33",
+   "type": "bond",
+   "text": "She’s going back in,"
+  },
+  {
+   "seq": 46,
+   "para": "p33",
+   "type": "narration",
+   "text": "said Lisska, the second night."
+  },
+  {
+   "seq": 47,
+   "para": "p33",
+   "type": "thought",
+   "text": "A little. Every day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p34",
+   "type": "speech",
+   "text": "“In where?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p35",
+   "type": "thought",
+   "text": "Where they put her. Where she was."
+  },
+  {
+   "seq": 50,
+   "para": "p35",
+   "type": "narration",
+   "text": "Lisska was quiet."
+  },
+  {
+   "seq": 51,
+   "para": "p35",
+   "type": "thought",
+   "text": "She doesn’t know where she is out here. It’s frightening. In there’s not frightening. In there’s nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p36",
+   "type": "narration",
+   "text": "He didn’t know what to say. He put his hand on the yearling’s neck, and she let him, and that was all.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 53,
+   "para": "p37",
+   "type": "narration",
+   "text": "The second day they came down out of Isvaren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p38",
+   "type": "narration",
+   "text": "The valley widened. The mountains went back on either side and the Wend came out into the long country, wide and slow and brown, between low hills. Hearthmere on the right bank, going away grey and flat. Saltreach on the left, green.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p39",
+   "type": "narration",
+   "text": "He landed at every place he could. Brookend, on the Hearthmere bank. Sallow Lock. The Staithes on the Saltreach side, one after another, small, a jetty and a few houses, where the eel-folk and the reed-cutters lived.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 56,
+   "para": "p40",
+   "type": "narration",
+   "text": "On the Hearthmere bank he felt it, the moment Kharrak’s feet touched. Nothing under him. Dead. Grey. Every word he knew would have been only breath there. Ada’s hearth-word, the herd-charm, all of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p41",
+   "type": "narration",
+   "text": "But the warning wasn’t a word. It was only words. A man shouting in a square, with a dragon behind him. And that worked anywhere.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p42",
+   "type": "narration",
+   "text": "He wrote on doors. WATER COMING. Two strokes now, then three, for the days, as they went down and the water fell further behind. At Sallow Lock he got the second W right.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 59,
+   "para": "p43",
+   "type": "narration",
+   "text": "He came into the Marches at dusk on the third day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 60,
+   "para": "p44",
+   "type": "narration",
+   "text": "He knew it before he saw it. He knew the shape of the hills, low and round. The smell of the water-meadows. The reeds. The way the river went, in its long slow bends, and the willows along it. He’d been away since the summer. He came over the last hill on Kharrak’s back and there it was, all of it, going away south in the evening light, and something in his chest went tight.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p45",
+   "type": "narration",
+   "text": "Harrow’s End. The hill. The Fenn farm on the slope above it, with its broken top wall. The lane down to the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p46",
+   "type": "narration",
+   "text": "The Eelweir.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 63,
+   "para": "p47",
+   "type": "narration",
+   "text": "Fisk wouldn’t go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p48",
+   "type": "narration",
+   "text": "Calder had known he wouldn’t. He landed on the bank by the jetty with the light going, and the old man was sitting on the jetty with his legs over the edge and a line in the water, as he’d sat every evening of Calder’s life.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 65,
+   "para": "p49",
+   "type": "speech",
+   "text": "“You,”"
+  },
+  {
+   "seq": 66,
+   "para": "p49",
+   "type": "narration",
+   "text": "said Fisk. He didn’t get up."
+  },
+  {
+   "seq": 67,
+   "para": "p49",
+   "type": "speech",
+   "text": "“With your dragons.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p50",
+   "type": "speech",
+   "text": "“There’s water coming, Fisk. All of it. Down from the north. The lake at Vael’s broken. It’ll be here in two days and it’ll take the landing.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p51",
+   "type": "narration",
+   "text": "Fisk looked at the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 70,
+   "para": "p52",
+   "type": "speech",
+   "text": "“It’s been here before,”"
+  },
+  {
+   "seq": 71,
+   "para": "p52",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 72,
+   "para": "p53",
+   "type": "speech",
+   "text": "“Not like this.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 73,
+   "para": "p54",
+   "type": "speech",
+   "text": "“Everything’s like this, the first time.”"
+  },
+  {
+   "seq": 74,
+   "para": "p54",
+   "type": "narration",
+   "text": "Fisk pulled his line in and looked at the empty hook and threw it out again."
+  },
+  {
+   "seq": 75,
+   "para": "p54",
+   "type": "speech",
+   "text": "“You get the rest of them up the hill. The landing. The lane. Get Mother Gannet up, she’ll want carrying. I’ll stop here.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 76,
+   "para": "p55",
+   "type": "speech",
+   "text": "“Fisk…”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 77,
+   "para": "p56",
+   "type": "speech",
+   "text": "“Somebody’s got to,”"
+  },
+  {
+   "seq": 78,
+   "para": "p56",
+   "type": "narration",
+   "text": "said Fisk. He didn’t look round."
+  },
+  {
+   "seq": 79,
+   "para": "p56",
+   "type": "speech",
+   "text": "“To tell it after.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 80,
+   "para": "p57",
+   "type": "narration",
+   "text": "He got the rest of them up the hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p58",
+   "type": "narration",
+   "text": "All of them. Every house on the landing, and every house in the lane, and the Harrow’s End folk who’d come back to sow late barley in the summer and were sitting in their half-mended houses with the barley in. He went door to door with Kharrak at his back and told them, and they looked at the dragon and went. Mother Gannet he carried, on his back, up the lane and up the hill to the Fenn top field, where the ground was high and the water had never been, and put her down in the grass by the broken wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p59",
+   "type": "narration",
+   "text": "She looked at the farmhouse. His. Empty, with the door off.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p60",
+   "type": "speech",
+   "text": "“You’ll want to see to that roof,”"
+  },
+  {
+   "seq": 84,
+   "para": "p60",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p61",
+   "type": "speech",
+   "text": "“I know.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 86,
+   "para": "p62",
+   "type": "narration",
+   "text": "He looked down the hill from the top field in the last light. At the lane, empty. The landing, empty. The Eelweir, with its jetty and its eel-traps and its four houses, empty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p63",
+   "type": "narration",
+   "text": "And on the roof of the last house, the one by the jetty with the old slates, a shape. Sitting on the ridge. With a blanket round its shoulders, and something beside it that might have been a pot of tea.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 88,
+   "para": "p64",
+   "type": "narration",
+   "text": "He went down to Greyhold in the morning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p65",
+   "type": "narration",
+   "text": "Half a league down the river and across it. Greyhold on its hill on the Hearthmere bank, with its river wall and its towers, grey, dead. He’d last seen it in the spring, with the herald on the jetty steps. It looked smaller.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p66",
+   "type": "narration",
+   "text": "Under the river wall, the ferry house. Stone. With the guide-rope going out from its jetty across the river to the post at Tolly’s Staithe on the far bank. And on the bank below the wall, on the grass between the ferry house and the water, people.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p67",
+   "type": "narration",
+   "text": "A hundred. More. Camped. Tents made of blankets. Fires. Children. Carts with everything on them. Saltreach folk, by their clothes. The ones who’d crossed in the war and been told to go back. They were waiting to go back. They’d been waiting since the spring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p68",
+   "type": "narration",
+   "text": "Liss was on the jetty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p69",
+   "type": "narration",
+   "text": "He knew her at once. Small, in a dark dress with the skirts pinned up, and her grey hair under a scarf. She had a coil of rope over her shoulder. She looked up at the sound of Kharrak’s wings and put her hand up to her eyes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p70",
+   "type": "narration",
+   "text": "She didn’t look surprised.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p71",
+   "type": "speech",
+   "text": "“Calder Fenn,”"
+  },
+  {
+   "seq": 96,
+   "para": "p71",
+   "type": "narration",
+   "text": "she said, when he’d come down."
+  },
+  {
+   "seq": 97,
+   "para": "p71",
+   "type": "speech",
+   "text": "“You’ve come from the north.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 98,
+   "para": "p72",
+   "type": "speech",
+   "text": "“How did you know?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p73",
+   "type": "speech",
+   "text": "“There’s frost in your eyebrows. In autumn.”"
+  },
+  {
+   "seq": 100,
+   "para": "p73",
+   "type": "narration",
+   "text": "She looked at the dragons. At the small red one, coming down behind them, late, labouring."
+  },
+  {
+   "seq": 101,
+   "para": "p73",
+   "type": "speech",
+   "text": "“Who’s that?”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 102,
+   "para": "p74",
+   "type": "narration",
+   "text": "He told her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 103,
+   "para": "p75",
+   "type": "narration",
+   "text": "On the jetty, quickly. The lake. The water. Two days, now. Less.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p76",
+   "type": "narration",
+   "text": "She listened. She didn’t ask how a lake could break. She looked at the river, and at the people on the bank, and at the rope going out across the water to the Staithe.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p77",
+   "type": "speech",
+   "text": "“I’ve been taking them over,”"
+  },
+  {
+   "seq": 106,
+   "para": "p77",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 107,
+   "para": "p77",
+   "type": "speech",
+   "text": "“All summer. A load at a time. The crown says they’re to go back over the river, and they’re going. But slowly. Because there’s nothing for them on the other side either. The companies took it all.”"
+  },
+  {
+   "seq": 108,
+   "para": "p77",
+   "type": "narration",
+   "text": "She looked at the far bank."
+  },
+  {
+   "seq": 109,
+   "para": "p77",
+   "type": "speech",
+   "text": "“I’ve a hundred and forty more on this side. And the boat takes forty.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p78",
+   "type": "speech",
+   "text": "“Then take them,”"
+  },
+  {
+   "seq": 111,
+   "para": "p78",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 112,
+   "para": "p78",
+   "type": "speech",
+   "text": "“Today. And then don’t take the boat out again.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p79",
+   "type": "speech",
+   "text": "“And you?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p80",
+   "type": "speech",
+   "text": "“I can’t carry anybody. He’s got no harness.”"
+  },
+  {
+   "seq": 115,
+   "para": "p80",
+   "type": "narration",
+   "text": "He looked at Kharrak."
+  },
+  {
+   "seq": 116,
+   "para": "p80",
+   "type": "speech",
+   "text": "“She’s too small. I’ll watch the river.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p81",
+   "type": "narration",
+   "text": "Liss looked at him a moment longer.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p82",
+   "type": "speech",
+   "text": "“Get them down to the jetty, then,”"
+  },
+  {
+   "seq": 119,
+   "para": "p82",
+   "type": "narration",
+   "text": "she said, and swung the rope off her shoulder."
+  },
+  {
+   "seq": 120,
+   "para": "p82",
+   "type": "speech",
+   "text": "“Mind the old ones on the steps. They’ll take it better from a man with a dragon.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 121,
+   "para": "p83",
+   "type": "narration",
+   "text": "She took over a hundred and four that day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 122,
+   "para": "p84",
+   "type": "narration",
+   "text": "Three crossings. The ferry was a big flat boat, square at both ends, with a rail round it, and a sweep at the back, and a great iron ring on a post at the side that ran along the guide-rope as the boat went over. The current took it across. Liss steered. Two of the refugee men hauled on the rope. Forty at a time. Children in the middle. Carts left behind on the bank, because there wasn’t room.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p85",
+   "type": "narration",
+   "text": "The water was rising.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p86",
+   "type": "narration",
+   "text": "He felt it all day. The river going up a hand’s breadth at a time against the jetty steps. Going brown. Going faster. Things beginning to come down it. Branches. A dead sheep. A door.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 125,
+   "para": "p87",
+   "type": "narration",
+   "text": "At dusk Liss came back across empty and tied up and said,"
+  },
+  {
+   "seq": 126,
+   "para": "p87",
+   "type": "speech",
+   "text": "“Forty left.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p88",
+   "type": "speech",
+   "text": "“Tomorrow,”"
+  },
+  {
+   "seq": 128,
+   "para": "p88",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 129,
+   "para": "p88",
+   "type": "speech",
+   "text": "“First light. Before it comes.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 130,
+   "para": "p89",
+   "type": "narration",
+   "text": "It came in the middle of the morning.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p90",
+   "type": "narration",
+   "text": "Not a wall. Not by the time it got to the Marches. He’d seen the wall in the valley under Vael, and it had been a wall then. Five days and a hundred leagues had spread it. Here it was a rising. The river coming up, and up, brown, fast, faster than he’d ever seen the Wend go, and full of things. Whole trees turning over. Ice, still. Roofs. Fences. The river coming up the jetty steps one after another, and over the grass of the bank where the tents had been, and up toward the ferry house.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p91",
+   "type": "narration",
+   "text": "Liss was on her last crossing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p92",
+   "type": "narration",
+   "text": "She’d gone at first light with the last forty, as he’d said. She’d got across. She’d got them off at the Staithe, and turned, and started back empty, and he’d shouted at her from the jetty not to, to stay on the far side, and she’d shouted something back that he didn’t hear.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p93",
+   "type": "narration",
+   "text": "Then a man on the far bank had come running down to the Staithe with a child in his arms. And two more behind him. And six more behind them. People from the Staithe’s houses, from the low end of the Saltreach bank, that nobody had told, because nobody had thought the water would come over that side too. It was coming over that side.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p94",
+   "type": "narration",
+   "text": "Liss took them on.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p95",
+   "type": "narration",
+   "text": "Forty again, or near it. She started back across. To Greyhold’s side. To the high bank under the wall.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p96",
+   "type": "narration",
+   "text": "The rope parted at the Staithe post.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 138,
+   "para": "p97",
+   "type": "narration",
+   "text": "He heard it go. Over the noise of the water. A crack, like a branch breaking, and the long rope going slack and then tight again in a great curve downstream, with the ferry on the end of it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p98",
+   "type": "narration",
+   "text": "Then the ring came off the rope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p99",
+   "type": "narration",
+   "text": "The ferry swung out into the main stream. Turning. Slowly, the square boat going round on the brown water like a leaf in a millrace, with forty people clinging to the rail and Liss at the sweep at the back, leaning on it with all her weight. And the river took it. Down. Past the landing. Past the jetty where he stood. Thirty paces off. Twenty. Going past.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p100",
+   "type": "narration",
+   "text": "Below the landing, the river narrowed under Greyhold’s wall. Rocks. The old weir. Then the narrows.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p101",
+   "type": "narration",
+   "text": "He had about a hundred breaths.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 143,
+   "para": "p102",
+   "type": "narration",
+   "text": "He knew a word for it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p103",
+   "type": "narration",
+   "text": "Fisk had taught him. When he was nine, in a skiff in the reeds, with the wind against them and the jetty a long row off. A boatman’s word. Two words, really, old, said low."
+  },
+  {
+   "seq": 145,
+   "para": "p103",
+   "type": "bond",
+   "text": "It’ll bring a boat to a jetty,"
+  },
+  {
+   "seq": 146,
+   "para": "p103",
+   "type": "narration",
+   "text": "Fisk said,"
+  },
+  {
+   "seq": 147,
+   "para": "p103",
+   "type": "bond",
+   "text": "if the jetty wants it."
+  },
+  {
+   "seq": 148,
+   "para": "p103",
+   "type": "narration",
+   "text": "He’d said it, at nine, and the skiff had come in against the wind, a little, enough, and Fisk had said,"
+  },
+  {
+   "seq": 149,
+   "para": "p103",
+   "type": "remembered",
+   "text": "Well. There you are.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 150,
+   "para": "p104",
+   "type": "narration",
+   "text": "He’d never said it since.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 151,
+   "para": "p105",
+   "type": "narration",
+   "text": "He said it now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 152,
+   "para": "p106",
+   "type": "narration",
+   "text": "On the jetty, with his feet on Greyhold’s stones and his hands out toward the turning ferry. And Lisska was in the air over the water, low, green, close to the ferry, and he felt for her wind. Through the bond. The thing she was. Air moving. Going where she sent it. He took hold of it, as he’d taken hold of it with the lead cow above the top field, with his hand on her antler. And he said Fisk’s word into it, and pushed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p107",
+   "type": "narration",
+   "text": "Nothing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 154,
+   "para": "p108",
+   "type": "narration",
+   "text": "He felt it go out of his mouth and die.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p109",
+   "type": "narration",
+   "text": "Like breath on a cold morning. A little cloud, and then nothing. The word went out of him and didn’t go anywhere. There was nothing under it. Under his feet, the stone of Greyhold’s jetty, dead, grey, with nothing in it at all, as it had been since the spring. Since the gate. Since everything under the river had been let go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 156,
+   "para": "p110",
+   "type": "narration",
+   "text": "And in front of him, between him and the ferry, the river. Running. Fast and brown and full.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p111",
+   "type": "remembered",
+   "text": "Running water breaks a charm,"
+  },
+  {
+   "seq": 158,
+   "para": "p111",
+   "type": "narration",
+   "text": "Ada had told him, on the setters’ ledge, with the slate."
+  },
+  {
+   "seq": 159,
+   "para": "p111",
+   "type": "remembered",
+   "text": "Like it breaks a scent. That’s why the river’s a border. And dead ground starves one. You need both, live ground and still water, or it’s only talk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p112",
+   "type": "narration",
+   "text": "He had neither.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p113",
+   "type": "narration",
+   "text": "He said it again anyway. Louder. Nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p114",
+   "type": "narration",
+   "text": "The ferry turned past the end of the jetty. Liss’s face at the sweep. Looking at him.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 163,
+   "para": "p115",
+   "type": "narration",
+   "text": "Lisska did it alone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p116",
+   "type": "narration",
+   "text": "He felt her decide. Before she did it. A sort of gathering, at his end of the bond, like someone taking a breath to shout. And she went. Not toward the ferry. Round it. Out over the river, behind it, downstream of it, and down. To the water. Low, so low her wingtips touched the brown and threw up spray.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p117",
+   "type": "narration",
+   "text": "And she let it go.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p118",
+   "type": "narration",
+   "text": "All of it. Everything she had. Every bit of wind she was. In one gust.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p119",
+   "type": "narration",
+   "text": "It made a sound like a door slamming on the whole river. He saw it hit the water: a flat grey patch going out from her across the surface, the brown flattened down into it, the spray going up in a sheet. And it hit the ferry.",
+   "mood": "action",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 168,
+   "para": "p120",
+   "type": "narration",
+   "text": "Sideways. Across the current. The square boat jerked as if something had kicked it, and heeled, and the people on it screamed, and it went across the river. Across the stream, against the stream, sliding on the brown water as if it were ice. Toward the landing. Toward the end of the jetty, where the stone went out into the river in a long grey tongue.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p121",
+   "type": "narration",
+   "text": "It hit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p122",
+   "type": "narration",
+   "text": "Grinding. The square end of the ferry ran up onto the stone end of the jetty with a sound like a cart going over cobbles, and stuck there, half out of the water, with the river tearing at its back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p123",
+   "type": "narration",
+   "text": "The people jumped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 172,
+   "para": "p124",
+   "type": "narration",
+   "text": "He saw them. Onto the jetty. Over the rail and onto the stone. Children handed. An old man dragged. Liss last, from the sweep, with her skirts in her hands.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 173,
+   "para": "p125",
+   "type": "narration",
+   "text": "He felt Lisska empty.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 174,
+   "para": "p126",
+   "type": "narration",
+   "text": "As the gust went out of her. Through the bond. Like the bottom going out of a bucket. Everything that had been her, the wind, the quickness, the thing that made her go up and turn and turn again, going out of her all at once into the river, and nothing coming after it. Empty. And the emptiness came down the bond into him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 175,
+   "para": "p127",
+   "type": "narration",
+   "text": "He went down on the jetty stones.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 176,
+   "para": "p128",
+   "type": "narration",
+   "text": "He didn’t feel himself fall. He was standing, and then the stones were against his cheek, wet, and the river was very loud, and the sky was going grey at the edges, and the grey came in.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 177,
+   "para": "p129",
+   "type": "narration",
+   "text": "He woke on the bank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p130",
+   "type": "narration",
+   "text": "On the grass, above the water, under the ferry house wall. He didn’t know how he’d got there. Somebody had carried him, or Kharrak had. It was later. The light had changed.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 179,
+   "para": "p131",
+   "type": "narration",
+   "text": "Something was lying across his legs.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 180,
+   "para": "p132",
+   "type": "narration",
+   "text": "He looked down. Lisska. Lying across his shins with her chin on his knee and her wings flat on the grass on either side of her like spilled cloth. Her eyes were open. She didn’t lift her head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 181,
+   "para": "p133",
+   "type": "bond",
+   "text": "I’m empty,"
+  },
+  {
+   "seq": 182,
+   "para": "p133",
+   "type": "narration",
+   "text": "she said. So small at the back of his head he hardly heard it."
+  },
+  {
+   "seq": 183,
+   "para": "p133",
+   "type": "thought",
+   "text": "I’m all gone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 184,
+   "para": "p134",
+   "type": "speech",
+   "text": "“You did it.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p135",
+   "type": "thought",
+   "text": "I did."
+  },
+  {
+   "seq": 186,
+   "para": "p135",
+   "type": "narration",
+   "text": "A pause. You didn’t.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p136",
+   "type": "narration",
+   "text": "She didn’t say it unkindly. She didn’t have anything left to say it any other way. She just said it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 188,
+   "para": "p137",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 189,
+   "para": "p137",
+   "type": "narration",
+   "text": "said Calder."
+  },
+  {
+   "seq": 190,
+   "para": "p137",
+   "type": "speech",
+   "text": "“I didn’t.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 191,
+   "para": "p138",
+   "type": "narration",
+   "text": "Kharrak was standing over both of them. He’d been standing there a long time, Calder thought. His great head was down close over Lisska, and his wings were half open, as if to keep the wind off her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 192,
+   "para": "p139",
+   "type": "bond",
+   "text": "She can’t fly,"
+  },
+  {
+   "seq": 193,
+   "para": "p139",
+   "type": "narration",
+   "text": "said Kharrak."
+  },
+  {
+   "seq": 194,
+   "para": "p139",
+   "type": "thought",
+   "text": "Not today. Not tomorrow."
+  },
+  {
+   "seq": 195,
+   "para": "p139",
+   "type": "narration",
+   "text": "Then:"
+  },
+  {
+   "seq": 196,
+   "para": "p139",
+   "type": "thought",
+   "text": "You said a word. I felt you say it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p140",
+   "type": "speech",
+   "text": "“It didn’t work.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p141",
+   "type": "bond",
+   "text": "No,"
+  },
+  {
+   "seq": 199,
+   "para": "p141",
+   "type": "narration",
+   "text": "said Kharrak."
+  },
+  {
+   "seq": 200,
+   "para": "p141",
+   "type": "thought",
+   "text": "It was only a word.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 201,
+   "para": "p142",
+   "type": "narration",
+   "text": "Liss was sitting on the jetty steps wringing out her skirts.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 202,
+   "para": "p143",
+   "type": "narration",
+   "text": "When he could stand he went down to her. The river was still coming up, slower now. The ferry was still on the end of the jetty, half out of the water, with its back stove in. The people from it were up on the high bank under the wall with the others, wrapped in blankets, round a fire that wouldn’t light with any word and had been lit with flint.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p144",
+   "type": "narration",
+   "text": "She looked up at him and went on wringing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p145",
+   "type": "speech",
+   "text": "“Have you eaten?”"
+  },
+  {
+   "seq": 205,
+   "para": "p145",
+   "type": "narration",
+   "text": "she said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 206,
+   "para": "p146",
+   "type": "speech",
+   "text": "“No.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p147",
+   "type": "speech",
+   "text": "“There’s bread in the house. On the table.”"
+  },
+  {
+   "seq": 208,
+   "para": "p147",
+   "type": "narration",
+   "text": "She twisted a fold of grey wool and the water ran out of it onto the step."
+  },
+  {
+   "seq": 209,
+   "para": "p147",
+   "type": "speech",
+   "text": "“Sit down before you fall down again.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 210,
+   "para": "p148",
+   "type": "narration",
+   "text": "He sat down on the step beside her.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 211,
+   "para": "p149",
+   "type": "speech",
+   "text": "“She writes,”"
+  },
+  {
+   "seq": 212,
+   "para": "p149",
+   "type": "narration",
+   "text": "said Liss.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 213,
+   "para": "p150",
+   "type": "narration",
+   "text": "He didn’t know at first who she meant.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p151",
+   "type": "speech",
+   "text": "“Once a month. About.”"
+  },
+  {
+   "seq": 215,
+   "para": "p151",
+   "type": "narration",
+   "text": "Liss didn’t look at him. She was looking at the skirt in her hands."
+  },
+  {
+   "seq": 216,
+   "para": "p151",
+   "type": "speech",
+   "text": "“From wherever the lion is. The first came from the Wyldmarch, in the summer, by a trader. Then one from the Plains. Then Vael. Every one the same length. Short.”"
+  },
+  {
+   "seq": 217,
+   "para": "p151",
+   "type": "narration",
+   "text": "She twisted the wool."
+  },
+  {
+   "seq": 218,
+   "para": "p151",
+   "type": "speech",
+   "text": "“Four lines. Five, if something’s happened.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 219,
+   "para": "p152",
+   "type": "speech",
+   "text": "“What does she say?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 220,
+   "para": "p153",
+   "type": "speech",
+   "text": "“That he’s grown. That she’s well. That there’s a man with her who reads.”"
+  },
+  {
+   "seq": 221,
+   "para": "p153",
+   "type": "narration",
+   "text": "Liss shook the skirt out."
+  },
+  {
+   "seq": 222,
+   "para": "p153",
+   "type": "speech",
+   "text": "“She never said she was well. Not in her whole life, not to me. Now she writes it every month.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 223,
+   "para": "p154",
+   "type": "narration",
+   "text": "She was quiet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 224,
+   "para": "p155",
+   "type": "speech",
+   "text": "“The last one came the day before you did. From Vael.”"
+  },
+  {
+   "seq": 225,
+   "para": "p155",
+   "type": "narration",
+   "text": "She folded the skirt over her knee."
+  },
+  {
+   "seq": 226,
+   "para": "p155",
+   "type": "speech",
+   "text": "“Four lines. There’s a lake. There’s a bird that talks. I’m well. I’ll write.”"
+  },
+  {
+   "seq": 227,
+   "para": "p155",
+   "type": "narration",
+   "text": "She looked at the river."
+  },
+  {
+   "seq": 228,
+   "para": "p155",
+   "type": "speech",
+   "text": "“I don’t know what the lake was.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 229,
+   "para": "p156",
+   "type": "speech",
+   "text": "“I do,”"
+  },
+  {
+   "seq": 230,
+   "para": "p156",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 231,
+   "para": "p157",
+   "type": "narration",
+   "text": "Liss looked at him for a moment. Then she looked back at the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 232,
+   "para": "p158",
+   "type": "speech",
+   "text": "“Don’t tell me,”"
+  },
+  {
+   "seq": 233,
+   "para": "p158",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 234,
+   "para": "p158",
+   "type": "speech",
+   "text": "“Not today.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 235,
+   "para": "p159",
+   "type": "speech",
+   "text": "“That word,”"
+  },
+  {
+   "seq": 236,
+   "para": "p159",
+   "type": "narration",
+   "text": "said Liss, after a while."
+  },
+  {
+   "seq": 237,
+   "para": "p159",
+   "type": "speech",
+   "text": "“That you were shouting.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 238,
+   "para": "p160",
+   "type": "speech",
+   "text": "“Fisk’s.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 239,
+   "para": "p161",
+   "type": "speech",
+   "text": "“I know whose it is.”"
+  },
+  {
+   "seq": 240,
+   "para": "p161",
+   "type": "narration",
+   "text": "She gave the skirt another twist."
+  },
+  {
+   "seq": 241,
+   "para": "p161",
+   "type": "speech",
+   "text": "“He used to say his eel-word over his oars every night of his life. On the river. Every night, forty years.”"
+  },
+  {
+   "seq": 242,
+   "para": "p161",
+   "type": "narration",
+   "text": "She shook her head."
+  },
+  {
+   "seq": 243,
+   "para": "p161",
+   "type": "speech",
+   "text": "“Never caught an eel by it. Not once. You can’t, on running water. He knew that.”"
+  },
+  {
+   "seq": 244,
+   "para": "p161",
+   "type": "narration",
+   "text": "She looked at Calder."
+  },
+  {
+   "seq": 245,
+   "para": "p161",
+   "type": "speech",
+   "text": "“He said it anyway.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 246,
+   "para": "p162",
+   "type": "speech",
+   "text": "“Why?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 247,
+   "para": "p163",
+   "type": "speech",
+   "text": "“He said it was polite,”"
+  },
+  {
+   "seq": 248,
+   "para": "p163",
+   "type": "narration",
+   "text": "said Liss.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 249,
+   "para": "p164",
+   "type": "narration",
+   "text": "Fisk was alive.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 250,
+   "para": "p165",
+   "type": "narration",
+   "text": "Calder found him the next morning, when the river had crested and begun, very slowly, to go down. The Eelweir was gone. The jetty was gone, and the eel-traps, and the boats, and three of the four houses, down to the stumps of their walls. The fourth, Fisk’s, by the old jetty, stood in the brown water up to its eaves, and on its ridge, on the old slates, with a blanket round his shoulders and an empty teapot beside him, sat Fisk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 251,
+   "para": "p166",
+   "type": "narration",
+   "text": "He looked up at Kharrak circling over him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 252,
+   "para": "p167",
+   "type": "speech",
+   "text": "“Took your time,”"
+  },
+  {
+   "seq": 253,
+   "para": "p167",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 254,
+   "para": "p168",
+   "type": "narration",
+   "text": "Kharrak came down and took him off the roof by his coat-collar, very carefully, as a cat carries a kitten, and Fisk complained all the way up the hill. The teapot fell in the river.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 255,
+   "para": "p169",
+   "type": "speech",
+   "text": "“Forty year that pot,”"
+  },
+  {
+   "seq": 256,
+   "para": "p169",
+   "type": "narration",
+   "text": "said Fisk, on the top field, when he’d been set down. He looked down at the brown water where the Eelweir had been. At the stumps of the houses. At his own roof, a grey ridge in the flood, with nothing on it now.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 257,
+   "para": "p170",
+   "type": "narration",
+   "text": "He was quiet a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 258,
+   "para": "p171",
+   "type": "speech",
+   "text": "“Well,”"
+  },
+  {
+   "seq": 259,
+   "para": "p171",
+   "type": "narration",
+   "text": "he said."
+  },
+  {
+   "seq": 260,
+   "para": "p171",
+   "type": "speech",
+   "text": "“Somebody’s got to tell it after.”"
+  },
+  {
+   "seq": 261,
+   "para": "p171",
+   "type": "narration",
+   "text": "He pulled the blanket round him."
+  },
+  {
+   "seq": 262,
+   "para": "p171",
+   "type": "speech",
+   "text": "“I’ll tell it.”",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 263,
+   "para": "p172",
+   "type": "narration",
+   "text": "The news came in over the next days. With the refugees on the high bank, and a knight’s boy who came down to Greyhold landing from the Downs on a lame pony to see if the ferry still ran.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 264,
+   "para": "p173",
+   "type": "narration",
+   "text": "The companies had crossed the river in the summer. The Restoration’s companies, what was left of them, the ones who hadn’t been paid off or gone home. They’d crossed by the fords above Ashford, in early summer, while everyone was looking at the Ring. They held Ashford now. And they were stripping the Candle Downs, the boy said. Grain. Stock. Everything. Village by village, going north.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 265,
+   "para": "p174",
+   "type": "speech",
+   "text": "“And the knights?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 266,
+   "para": "p175",
+   "type": "speech",
+   "text": "“Fighting them.”"
+  },
+  {
+   "seq": 267,
+   "para": "p175",
+   "type": "narration",
+   "text": "The boy was fourteen, perhaps. He had a cut on his face that had healed badly."
+  },
+  {
+   "seq": 268,
+   "para": "p175",
+   "type": "speech",
+   "text": "“Sir Rowan’s got the Downs. A few hundred. That’s all there is. Half of them haven’t eaten proper since the spring.”"
+  },
+  {
+   "seq": 269,
+   "para": "p175",
+   "type": "narration",
+   "text": "He looked at his pony."
+  },
+  {
+   "seq": 270,
+   "para": "p175",
+   "type": "speech",
+   "text": "“They fight them village by village. With swords. Pikes. There’s nothing else that works over there. Not a word. Not a ward. Nothing.”"
+  },
+  {
+   "seq": 271,
+   "para": "p175",
+   "type": "narration",
+   "text": "He was quiet."
+  },
+  {
+   "seq": 272,
+   "para": "p175",
+   "type": "speech",
+   "text": "“It’s all steel. Like the old days, my father says. Before.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 273,
+   "para": "p176",
+   "type": "speech",
+   "text": "“Rowan,”"
+  },
+  {
+   "seq": 274,
+   "para": "p176",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 275,
+   "para": "p177",
+   "type": "speech",
+   "text": "“Sir Rowan,”"
+  },
+  {
+   "seq": 276,
+   "para": "p177",
+   "type": "narration",
+   "text": "said the boy."
+  },
+  {
+   "seq": 277,
+   "para": "p177",
+   "type": "speech",
+   "text": "“She came back from the Ring in the summer and the council took her lances off her and sent her to the Downs. To hold them. With what’s left.”"
+  },
+  {
+   "seq": 278,
+   "para": "p177",
+   "type": "narration",
+   "text": "He shrugged."
+  },
+  {
+   "seq": 279,
+   "para": "p177",
+   "type": "speech",
+   "text": "“She’s holding them.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 280,
+   "para": "p178",
+   "type": "narration",
+   "text": "The flood had taken the fords. The boy didn’t know that. Calder did. He’d flown over them. The fords above Ashford were under two men’s height of brown water, and would be for days, and the companies on the Hearthmere side were cut off from everything on the Saltreach side. For now.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 281,
+   "para": "p179",
+   "type": "narration",
+   "text": "He took the yearling to the hatching caves on the ninth day after Vael.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 282,
+   "para": "p180",
+   "type": "narration",
+   "text": "North up the Way, over the Fellwood, over the moor, to the hold and past it, up to the caves above Coldtarn. Lisska could fly again, a little, slowly. She rode most of the way on Kharrak’s back between his shoulders, which she said was undignified and didn’t get down.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 283,
+   "para": "p181",
+   "type": "narration",
+   "text": "Gunna was at the caves. And Wren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 284,
+   "para": "p182",
+   "type": "narration",
+   "text": "Wren came out of the dark at the back of the caves when she heard Kharrak land, and stopped, and looked at the yearling, and didn’t say anything. Old Grey came out behind her and stood at her shoulder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 285,
+   "para": "p183",
+   "type": "narration",
+   "text": "The yearling went in past them. To the back of the caves, where the spring came up warm out of the floor and steamed, and the rows of stone bowls were. She lay down there by the warm water with her chin on the stone and her eyes half shut. And didn’t look at anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 286,
+   "para": "p184",
+   "type": "speech",
+   "text": "“She’s gone back in,”"
+  },
+  {
+   "seq": 287,
+   "para": "p184",
+   "type": "narration",
+   "text": "said Gunna. She’d seen it before."
+  },
+  {
+   "seq": 288,
+   "para": "p184",
+   "type": "speech",
+   "text": "“Some come out again. Some don’t.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 289,
+   "para": "p185",
+   "type": "speech",
+   "text": "“I know,”"
+  },
+  {
+   "seq": 290,
+   "para": "p185",
+   "type": "narration",
+   "text": "said Calder.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 291,
+   "para": "p186",
+   "type": "narration",
+   "text": "Wren stood a long time at the edge of the dark, looking at the small red dragon by the spring.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 292,
+   "para": "p187",
+   "type": "narration",
+   "text": "He showed Aurveth the name.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 293,
+   "para": "p188",
+   "type": "narration",
+   "text": "On the setters’ ledge, at dusk. She was lying on the warm stone where she’d lain all summer, with her crooked wing folded along her back. She’d lifted her head when he came, and put it against his chest, and kept it there a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 294,
+   "para": "p189",
+   "type": "narration",
+   "text": "He took the pages out and unfolded the first one and held it up for her to see.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 295,
+   "para": "p190",
+   "type": "thought",
+   "text": "ENNIS.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 296,
+   "para": "p191",
+   "type": "narration",
+   "text": "She looked at it. For so long that he thought she hadn’t understood. She couldn’t read. Dragons didn’t. Her great gold eye went over the letters, one, and the next, and back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 297,
+   "para": "p192",
+   "type": "bond",
+   "text": "He wrote the first one like that,"
+  },
+  {
+   "seq": 298,
+   "para": "p192",
+   "type": "narration",
+   "text": "she said at last."
+  },
+  {
+   "seq": 299,
+   "para": "p192",
+   "type": "thought",
+   "text": "With the line through it. In the dust, on the bridge, for children. He wrote his name for them in the dust with his finger. I’d forgotten that.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 300,
+   "para": "p193",
+   "type": "narration",
+   "text": "He held the page up until his arms ached.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 301,
+   "para": "p194",
+   "type": "narration",
+   "text": "Ada read him the rest that night. All eleven pages. By the setters’ fire, slowly, in her dry old voice, with her finger under the lines, while the bronze dragon lay with her head beside them and her eyes shut, and didn’t sleep. He didn’t say anything until the end.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 302,
+   "para": "p195",
+   "type": "narration",
+   "text": "At the end there was a question. The bird’s, Maren had written."
+  },
+  {
+   "seq": 303,
+   "para": "p195",
+   "type": "thought",
+   "text": "Ask your farmer whether he has wondered why her. Why him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 304,
+   "para": "p196",
+   "type": "narration",
+   "text": "Ada put the last page down on her knee.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 305,
+   "para": "p197",
+   "type": "speech",
+   "text": "“Well,”"
+  },
+  {
+   "seq": 306,
+   "para": "p197",
+   "type": "narration",
+   "text": "she said."
+  },
+  {
+   "seq": 307,
+   "para": "p197",
+   "type": "speech",
+   "text": "“Have you?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 308,
+   "para": "p198",
+   "type": "narration",
+   "text": "He didn’t answer. He looked at the fire.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 309,
+   "para": "p199",
+   "type": "bond",
+   "text": "I have,"
+  },
+  {
+   "seq": 310,
+   "para": "p199",
+   "type": "narration",
+   "text": "said Aurveth. Without opening her eyes.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 311,
+   "para": "p200",
+   "type": "narration",
+   "text": "He went back down to Greyhold landing at the end of it, to help Liss raise a new rope.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 312,
+   "para": "p201",
+   "type": "narration",
+   "text": "The Wend was falling. The water-meadows were brown lakes with the tops of the willows standing out of them. Flood-wrack in every hedge, every tree, branches and straw and dead things hung up in them higher than a man’s head. The ferry had come off the end of the jetty on the falling water and been dragged up onto the bank, with its back stove in. Liss said she could mend it. She’d mended worse.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 313,
+   "para": "p202",
+   "type": "narration",
+   "text": "They raised the rope on the twelfth day after Vael. New hemp, from the Staithe chandler, who wouldn’t take money for it. Calder rowed it over in the skiff with Fisk in the bow telling him he was doing it wrong. Kharrak held the far end on the Staithe post while they made it fast.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 314,
+   "para": "p203",
+   "type": "narration",
+   "text": "When it was done Fisk sat in the skiff in the middle of the river with the oars across his knees and said something over them. Two words, old, low.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 315,
+   "para": "p204",
+   "type": "narration",
+   "text": "Calder looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 316,
+   "para": "p205",
+   "type": "speech",
+   "text": "“Polite,”"
+  },
+  {
+   "seq": 317,
+   "para": "p205",
+   "type": "narration",
+   "text": "said Fisk.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "55926c8aa81968f45da691fa33d878a942b6b548",
+ "segments_sha1": "aea52a5e44cbe4ac6c4fd4b7dd7595e7052d1d63"
+}

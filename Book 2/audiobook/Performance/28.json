@@ -1,0 +1,1653 @@
+{
+ "chapter": 28,
+ "title": "The Tusker Road",
+ "pov": "",
+ "source": "Chapters/Chapter 28 - The Tusker Road.md",
+ "names": [
+  "ada",
+  "ashdown",
+  "crown",
+  "glasswater",
+  "greyhold",
+  "hearthmere",
+  "library",
+  "maren",
+  "orrun",
+  "plains",
+  "scarfell",
+  "vael"
+ ],
+ "segments": [
+  {
+   "seq": 1,
+   "para": "",
+   "type": "title",
+   "text": "Part Three. The Long Library.",
+   "pause_after_ms": 2000
+  },
+  {
+   "seq": 2,
+   "para": "",
+   "type": "title",
+   "text": "Chapter Twenty-eight.",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 3,
+   "para": "",
+   "type": "title",
+   "text": "The Tusker Road.",
+   "pause_after_ms": 1800
+  },
+  {
+   "seq": 4,
+   "para": "p1",
+   "type": "narration",
+   "text": "She went west across the Plains the way the tide-reader had gone, and the Plains were dead.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 5,
+   "para": "p2",
+   "type": "narration",
+   "text": "You couldn’t see it. That was the thing she kept coming back to, the first three days, walking through the long green grass with the lion beside her. The grass was green. The sky was high and blue and full of larks. The stonehorn herds grazed in the distance and lifted their heads to watch Orrun pass and put them down again. The standing stones went by, grey, lichened, leaning, as they’d gone by in the spring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 6,
+   "para": "p3",
+   "type": "narration",
+   "text": "And at night she knelt by her heap of grass-roots and dry dung with two fingers to the crossed stems and turned her hand three times and said Ada’s word, the catch in the middle, on the third turn, as she’d done it fifty nights since the Scarfell’s edge.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 7,
+   "para": "p4",
+   "type": "narration",
+   "text": "Nothing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 8,
+   "para": "p5",
+   "type": "narration",
+   "text": "She tried it again. Nothing. On the fourth night she stopped trying and used the flint and steel from Hesper’s bag, and the fire caught the ordinary way, the way fires had caught for everyone in Hearthmere since the lamps went out.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 9,
+   "para": "p6",
+   "type": "narration",
+   "text": "She sat by it with the hide bag on her knee. The last of the moss was in it, grey-green and soft. The green cord was knotted round its neck. She didn’t untie it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 10,
+   "para": "p7",
+   "type": "narration",
+   "text": "Orrun was eating again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 11,
+   "para": "p8",
+   "type": "narration",
+   "text": "A little, less than he’d eaten on the Scarfell. He went out into the grass at night and came back before dawn and she didn’t ask what he’d found. He walked beside her by day, slowly, and he was thin, and the grey at the roots of his mane hadn’t gone. She’d thought it would grow out. It hadn’t. When the sun was behind him she could see it: a band of ash-pale, close to the skin, under the iron-grey.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 12,
+   "para": "p9",
+   "type": "bond",
+   "text": "It will not go,"
+  },
+  {
+   "seq": 13,
+   "para": "p9",
+   "type": "narration",
+   "text": "he said, when she looked at it too long."
+  },
+  {
+   "seq": 14,
+   "para": "p9",
+   "type": "thought",
+   "text": "It is the stakes. And the lanes.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 15,
+   "para": "p10",
+   "type": "speech",
+   "text": "“Does it hurt?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 16,
+   "para": "p11",
+   "type": "thought",
+   "text": "No."
+  },
+  {
+   "seq": 17,
+   "para": "p11",
+   "type": "narration",
+   "text": "A pause."
+  },
+  {
+   "seq": 18,
+   "para": "p11",
+   "type": "thought",
+   "text": "It is only what it cost. It stays, so I remember.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 19,
+   "para": "p12",
+   "type": "narration",
+   "text": "She walked beside him and thought about the band of grey and about her own legs, which she could feel now, all the way down, and which had been somebody else’s for half a day. She didn’t know what had stayed in her. She thought something had. She thought she’d find out.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 20,
+   "para": "p13",
+   "type": "narration",
+   "text": "On the hundred-and-eighteenth day the ground came alive again under her feet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 21,
+   "para": "p14",
+   "type": "narration",
+   "text": "She felt it through him first. Then herself, faintly, as she’d felt the hum at the Thornwood’s edge: a warmth coming up through her boots, as if she’d walked off a cold flagstone onto a hearth. The Plains ended in a long low swell of hills, and at the foot of the hills there was a road going north-west, a track, rutted, where a cart had been and a horse, recently. The tide-reader’s road. Up toward the High Crown, white along the whole northern sky.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 22,
+   "para": "p15",
+   "type": "narration",
+   "text": "She knelt on the track and lit Ada’s word over a pinch of dry grass, to see.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 23,
+   "para": "p16",
+   "type": "narration",
+   "text": "It took on the second turn.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 24,
+   "para": "p17",
+   "type": "narration",
+   "text": "Orrun didn’t take the road.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 25,
+   "para": "p18",
+   "type": "narration",
+   "text": "He stood at the foot of the track with his head up and his eyes half shut, as he stood when he was feeling for something. Then he turned off it. Not north-west, toward the High Crown road and the city and the thing on the lake. North. Up a side valley, a long green cleft in the hills with a beck in the bottom of it and snow at the top.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 26,
+   "para": "p19",
+   "type": "speech",
+   "text": "“That’s not where it went.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 27,
+   "para": "p20",
+   "type": "thought",
+   "text": "No.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 28,
+   "para": "p21",
+   "type": "speech",
+   "text": "“Then where are we going?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 29,
+   "para": "p22",
+   "type": "narration",
+   "text": "He didn’t answer for a while. He walked up the valley, slow, with his head low, and she walked beside him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 30,
+   "para": "p23",
+   "type": "bond",
+   "text": "Kin,"
+  },
+  {
+   "seq": 31,
+   "para": "p23",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 32,
+   "para": "p24",
+   "type": "narration",
+   "text": "She looked at him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 33,
+   "para": "p25",
+   "type": "thought",
+   "text": "Not my kin. Not that one."
+  },
+  {
+   "seq": 34,
+   "para": "p25",
+   "type": "narration",
+   "text": "He jerked his head north-west, toward the High Crown, toward the lake she hadn’t seen."
+  },
+  {
+   "seq": 35,
+   "para": "p25",
+   "type": "thought",
+   "text": "Something else. Something old. It is calling down the valley."
+  },
+  {
+   "seq": 36,
+   "para": "p25",
+   "type": "narration",
+   "text": "A pause."
+  },
+  {
+   "seq": 37,
+   "para": "p25",
+   "type": "thought",
+   "text": "I can feel it in my feet.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 38,
+   "para": "p26",
+   "type": "narration",
+   "text": "She found the tuskers on the hundred-and-twentieth day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 39,
+   "para": "p27",
+   "type": "narration",
+   "text": "She felt them before she saw them. That was the strangest thing. They’d climbed for two days, up the cleft and over a saddle and into a high valley under the snowline, a wide bowl of turf and scree and little white flowers with the snowfields going up white on three sides and the sky very close. And all the second day she’d felt something in the ground, lower than the hum, and slower. A long deep shudder, coming and going, that she felt in her feet and then in her chest, as if somebody very far off were beating a drum so big that the sound of it was too low to hear.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 40,
+   "para": "p28",
+   "type": "bond",
+   "text": "They are talking,"
+  },
+  {
+   "seq": 41,
+   "para": "p28",
+   "type": "narration",
+   "text": "said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 42,
+   "para": "p29",
+   "type": "speech",
+   "text": "“Who?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 43,
+   "para": "p30",
+   "type": "narration",
+   "text": "He didn’t answer. He came over the lip of the high valley and stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 44,
+   "para": "p31",
+   "type": "narration",
+   "text": "They were in the bowl below. Thirty of them. Maren counted twice. Great shaggy beasts, red-brown, higher at the shoulder than the dray-beasts at the Long Barn, higher than Orrun, with long hair hanging from their flanks and bellies to the knee and tusks that came out of their faces and curled round and back on themselves like old roots. Grazing on the high turf among the white flowers. Calves among them, small and woolly, pressed against their mothers’ legs.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 45,
+   "para": "p32",
+   "type": "narration",
+   "text": "They’d stopped grazing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 46,
+   "para": "p33",
+   "type": "narration",
+   "text": "Every one of them had lifted its head, and turned, and was looking at the lip of the valley where the lion stood.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 47,
+   "para": "p34",
+   "type": "narration",
+   "text": "They made a ring.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 48,
+   "para": "p35",
+   "type": "narration",
+   "text": "She’d never seen beasts do it. She’d heard of musk-oxen doing it in the far north, in stories. The tuskers did it slowly, without any hurry at all, as if they’d done it a thousand times: the calves going into the middle, and the great beasts closing round them, head out, tusks out, shoulder to shoulder, until there was a wall of red-brown hair and curling ivory in the middle of the bowl with the small woolly backs of the calves just showing over it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 49,
+   "para": "p36",
+   "type": "narration",
+   "text": "The ground shook. The low drum, under everything, louder. In her feet and her chest and her teeth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 50,
+   "para": "p37",
+   "type": "narration",
+   "text": "Then one came out of the ring.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 51,
+   "para": "p38",
+   "type": "narration",
+   "text": "She was the biggest thing Maren had ever seen that wasn’t the Titan.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 52,
+   "para": "p39",
+   "type": "narration",
+   "text": "Old. Grey at the face, the red-brown of her hair gone pale round her eyes and down her trunk. One of her tusks was broken off short, a hand’s length from her lip, the end of it worn smooth and yellow. The other curled round in a great slow loop, longer than a man is tall. She walked out of the ring toward the lip of the valley, alone, at a slow swinging walk, her trunk swinging, and the ground went on shaking under her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 53,
+   "para": "p40",
+   "type": "narration",
+   "text": "Orrun walked down to meet her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 54,
+   "para": "p41",
+   "type": "narration",
+   "text": "He went down the slope of the bowl into the white flowers, slowly, his head low, as he’d walked into the Hollow Ring toward his kin. Maren stayed where she was. She knew that much.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 55,
+   "para": "p42",
+   "type": "narration",
+   "text": "They stopped ten paces apart.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 56,
+   "para": "p43",
+   "type": "narration",
+   "text": "They stood there a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 57,
+   "para": "p44",
+   "type": "narration",
+   "text": "The old cow and the lion. In the high bowl, under the snowfields, with the herd in its ring behind her and the sky close and white overhead. Neither of them moved. The cow’s trunk had stopped swinging. Orrun’s tail had stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 58,
+   "para": "p45",
+   "type": "narration",
+   "text": "And the ground spoke.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 59,
+   "para": "p46",
+   "type": "narration",
+   "text": "Maren felt it, below hearing. A rumble. Long, low, rising and falling, so deep it was below sound. It came up out of the ground under the old cow’s feet and went through the bowl and through Maren’s boots and up her legs and into her chest, where it sat like a second heartbeat, slow, enormous. It went on. It stopped. It came again.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 60,
+   "para": "p47",
+   "type": "narration",
+   "text": "Then Orrun answered.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 61,
+   "para": "p48",
+   "type": "narration",
+   "text": "Not in words. She felt it through the bond, and she felt it through the ground. Something went out of him, down, into the earth under his paws, as his earth went out of him into the bank at the Moot, only not to move anything. To say something. And it went across the ten paces of turf and white flowers to the old cow’s feet.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 62,
+   "para": "p49",
+   "type": "narration",
+   "text": "The cow lifted her head.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 63,
+   "para": "p50",
+   "type": "narration",
+   "text": "The rumble came again. Different. Higher, if a sound below sound could be higher. And her trunk came up, slowly, and reached out across the ten paces, and stopped, a hand’s breadth from the lion’s face.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 64,
+   "para": "p51",
+   "type": "narration",
+   "text": "He put his nose to it.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 65,
+   "para": "p52",
+   "type": "bond",
+   "text": "She knows what I am,"
+  },
+  {
+   "seq": 66,
+   "para": "p52",
+   "type": "narration",
+   "text": "said Orrun, much later.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 67,
+   "para": "p53",
+   "type": "narration",
+   "text": "They were sitting at the edge of the bowl in the dusk. The herd had come out of its ring and gone back to grazing among the flowers, and the calves were running about, and one of them had come to within twenty paces of Orrun and stood there staring at him with its woolly head on one side until its mother came and took it away.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 68,
+   "para": "p54",
+   "type": "speech",
+   "text": "“What did she say?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 69,
+   "para": "p55",
+   "type": "thought",
+   "text": "Not say. They don’t say. They remember."
+  },
+  {
+   "seq": 70,
+   "para": "p55",
+   "type": "narration",
+   "text": "He was quiet."
+  },
+  {
+   "seq": 71,
+   "para": "p55",
+   "type": "thought",
+   "text": "She remembers one of my kind. Not her. Her mother’s mother’s mother, and further back. On a road. Walking."
+  },
+  {
+   "seq": 72,
+   "para": "p55",
+   "type": "narration",
+   "text": "A pause."
+  },
+  {
+   "seq": 73,
+   "para": "p55",
+   "type": "thought",
+   "text": "They remember everything that walked on the old roads with them. They remember it as places. Where it walked. Where it lay down. Where it drank.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 74,
+   "para": "p56",
+   "type": "speech",
+   "text": "“And she remembers one of you.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 75,
+   "para": "p57",
+   "type": "thought",
+   "text": "She remembers where one of us walked."
+  },
+  {
+   "seq": 76,
+   "para": "p57",
+   "type": "narration",
+   "text": "He looked at the old cow, grazing with her broken tusk catching the last light."
+  },
+  {
+   "seq": 77,
+   "para": "p57",
+   "type": "thought",
+   "text": "It is the same thing, to them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 78,
+   "para": "p58",
+   "type": "narration",
+   "text": "The herd’s road went west.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 79,
+   "para": "p59",
+   "type": "narration",
+   "text": "Along the High Crown’s southern flank, under the snowfields, from one high valley to the next. Their summer road, Maren understood after a few days, the one they walked every year, the old cow leading and the others behind in a long line, slow, so slow, three leagues a day, four if the grass was poor. Toward Glasswater, and the pass above Vael where they’d haul stone for the colleges in the winter.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 80,
+   "para": "p60",
+   "type": "narration",
+   "text": "They let her walk with them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 81,
+   "para": "p61",
+   "type": "narration",
+   "text": "She didn’t ask. Nobody asked. In the morning the herd moved off west along the slope, and the old cow went to the front, and Orrun went to the front beside her, and Maren walked beside Orrun, and that was how it was. For ten days. The old cow and the lion walking side by side at the head of thirty tuskers along the flank of the High Crown, and a woman from Hearthmere walking beside them both, very small.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 82,
+   "para": "p62",
+   "type": "narration",
+   "text": "It was the old realm’s road. She understood that slowly too. It didn’t look like a road. There was no track. But the herd didn’t wander, as beasts wander on open ground. It went from one place to the next as if it were following a line drawn on the hillside that only it could see. Round things. Over things. Never straight across the low ground to the south, where the hills went down toward the dead Plains, though it would have been easier.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 83,
+   "para": "p63",
+   "type": "narration",
+   "text": "They wouldn’t cross dead ground. She saw that on the third day. The herd came to a place where the line of its road went down into a long valley, and the old cow stopped at the top and stood a long time with her trunk lifted, smelling the air. Then she turned, and led them back up, and round, a full day’s walk round the head of the valley, along the snowline.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 84,
+   "para": "p64",
+   "type": "narration",
+   "text": "Maren knelt at the top of the valley before they went and lit Ada’s word over a pinch of grass.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 85,
+   "para": "p65",
+   "type": "narration",
+   "text": "Nothing.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 86,
+   "para": "p66",
+   "type": "narration",
+   "text": "The sabrecats came on the hundred-and-twenty-fourth day, at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 87,
+   "para": "p67",
+   "type": "narration",
+   "text": "She didn’t see them come. The herd did. The rumble went through the ground so suddenly and so loud that it nearly knocked her down, and before she could turn round the tuskers were in their ring. Fast, this time. Calves in, heads out, tusks out, the wall of red-brown closing.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 88,
+   "para": "p68",
+   "type": "narration",
+   "text": "Then she saw them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 89,
+   "para": "p69",
+   "type": "narration",
+   "text": "Four. Coming down the scree from the snowfield above, low, fast, grey and tawny, heavier than bears, with short tails and great fangs hanging down past their jaws like two knives, long as a man’s forearm. She’d heard of them. Everyone in the north had. They followed the tusker herds, the tide-reader had said once, listing the beasts of his country, as wolves follow deer, and took the old and the young.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 90,
+   "para": "p70",
+   "type": "narration",
+   "text": "They were going for the ring. For a gap. A place on the downhill side where a young cow had been slow and a calf’s back showed between two shoulders.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 91,
+   "para": "p71",
+   "type": "narration",
+   "text": "Orrun went out of the ring to meet them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 92,
+   "para": "p72",
+   "type": "narration",
+   "text": "He didn’t run. He walked out across the turf toward the four cats, with his head down and his mane up, and the ground heaved under him with every step. The scree on the slope above them shifted. A rock the size of a barrel came loose and bounded down past the cats.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 93,
+   "para": "p73",
+   "type": "narration",
+   "text": "The first cat stopped. Then the second.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 94,
+   "para": "p74",
+   "type": "narration",
+   "text": "The ground opened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 95,
+   "para": "p75",
+   "type": "narration",
+   "text": "Under the third cat, as it came down the last of the scree, a crack. A long dark crack in the turf where the snowfield’s edge met the bowl, going down into ice, blue, and the cat’s back legs went into it, and it scrabbled, and screamed, and went.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 96,
+   "para": "p76",
+   "type": "narration",
+   "text": "The other three stood very still on the scree, looking at the lion.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 97,
+   "para": "p77",
+   "type": "narration",
+   "text": "Then they went back up into the snow, slowly, looking back.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 98,
+   "para": "p78",
+   "type": "narration",
+   "text": "The old cow came out of the ring afterwards and walked to Orrun and stood beside him.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 99,
+   "para": "p79",
+   "type": "narration",
+   "text": "She put her trunk on his shoulder. Across it, over the iron-grey mane with the ash-pale band at its roots, and left it there, like a hand on a friend’s shoulder at a graveside. They stood there together at the edge of the bowl while the herd came out of its ring behind them and the calves came out from under their mothers.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 100,
+   "para": "p80",
+   "type": "narration",
+   "text": "Through the bond Maren felt him go very still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 101,
+   "para": "p81",
+   "type": "narration",
+   "text": "Not the cold stillness of the ground under snow. The other kind. The kind she’d felt in him once, on the island, the first time he let her put her hand on his foreleg.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 102,
+   "para": "p82",
+   "type": "narration",
+   "text": "She stood a little way off, and let them.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 103,
+   "para": "p83",
+   "type": "narration",
+   "text": "On the hundred-and-twenty-seventh day the herd walked round a meadow.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 104,
+   "para": "p84",
+   "type": "narration",
+   "text": "She’d got used to it, by then. The way the line of their road bent round things that weren’t there. But this was the strangest. A broad green meadow on a shoulder of the hill, flat, open, easy, and the herd walked round it. The whole way. In a long slow curve along its edge, under the rocks, when they could have walked straight across in a quarter of the time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 105,
+   "para": "p85",
+   "type": "narration",
+   "text": "She asked Orrun. He didn’t know.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 106,
+   "para": "p86",
+   "type": "narration",
+   "text": "Then, at the far side, where the curve came back to the line of the road, the old cow stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 107,
+   "para": "p87",
+   "type": "narration",
+   "text": "There was a stone at the meadow’s edge. Grey, leaning, half sunk in the turf, as high as Maren’s waist. She’d have walked past it. She’d walked past a thousand stones on the High Crown. The old cow stopped beside it and reached out her trunk and laid the end of it on the top of the stone and held it there.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 108,
+   "para": "p88",
+   "type": "narration",
+   "text": "Maren went to look.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 109,
+   "para": "p89",
+   "type": "narration",
+   "text": "The stone was dressed. Squared, once, a long time ago, though the weather had taken the corners off. And on the face of it, worn so far down she could only see them when the light came sideways, marks. Hooked marks. Like the ones under the sleepers. Like the lock.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 110,
+   "para": "p90",
+   "type": "narration",
+   "text": "She knew what it was. She’d ridden past them every day of her two years at Greyhold, on the King’s Road, one every league. She’d ridden past them on the river watch. Old stones by the road with marks on them nobody could read.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 111,
+   "para": "p91",
+   "type": "narration",
+   "text": "A milestone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 112,
+   "para": "p92",
+   "type": "narration",
+   "text": "She stood beside the old cow in the high meadow and looked at the worn marks on the leaning stone and thought: there was a road here. Here. Across the High Crown. And the meadow was a lake, or a bog, or something else, when the road was made, and the road went round it, and the herd still went round it, a thousand years later, because their mothers’ mothers had.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 113,
+   "para": "p93",
+   "type": "narration",
+   "text": "She didn’t know what the stone said. She couldn’t read it. She wished, very suddenly, that the tide-reader were here.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 114,
+   "para": "p94",
+   "type": "narration",
+   "text": "The old cow took her trunk off the stone and walked on.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 115,
+   "para": "p95",
+   "type": "narration",
+   "text": "They came over the High Crown’s shoulder on the hundred-and-thirty-first day, and she saw Glasswater.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 116,
+   "para": "p96",
+   "type": "narration",
+   "text": "All at once. The herd came up over a long ridge of scree in the afternoon, and the ground fell away in front of her, and there it was. Below. A long way below. A lake, long and narrow and blue, lying in a valley between mountains, with snow on the peaks round it even in high summer. And on the north shore of it, climbing up the hill from the water, a city.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 117,
+   "para": "p97",
+   "type": "narration",
+   "text": "Vael.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 118,
+   "para": "p98",
+   "type": "narration",
+   "text": "Towers. Slender, of grey-blue slate, so many she couldn’t count them, going up the hill in clusters, with bridges between them, roofed, like the covered bridges over the river at Millbrook only high in the air. And at the top of the hill, cut into it, a long low front of stone with a row of tall windows: a hall, half a league long, built into the hillside. Above everything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 119,
+   "para": "p99",
+   "type": "narration",
+   "text": "And on the lake.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 120,
+   "para": "p100",
+   "type": "narration",
+   "text": "It lay on the water.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 121,
+   "para": "p101",
+   "type": "narration",
+   "text": "She’d thought it would be on the shore. Or under the city, as it had been under Greyhold. It wasn’t. It lay on Glasswater, out from the city, grey, enormous, the size of a hill, with its wings folded and its head on its paws. On the water. Like an island. An island that breathed.",
+   "mood": "awe",
+   "pause_after_ms": 800
+  },
+  {
+   "seq": 122,
+   "para": "p102",
+   "type": "narration",
+   "text": "She stood on the ridge with the tuskers behind her and looked at it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 123,
+   "para": "p103",
+   "type": "narration",
+   "text": "Orrun stood beside her and looked at it too.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 124,
+   "para": "p104",
+   "type": "bond",
+   "text": "There,"
+  },
+  {
+   "seq": 125,
+   "para": "p104",
+   "type": "narration",
+   "text": "he said.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 126,
+   "para": "p105",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 127,
+   "para": "p106",
+   "type": "narration",
+   "text": "He didn’t say anything else. She didn’t need him to. She felt it through the bond: the pull. Stronger than it had been since the Ring. Like a current, under a boat. Toward the lake.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 128,
+   "para": "p107",
+   "type": "narration",
+   "text": "The light changed at dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 129,
+   "para": "p108",
+   "type": "narration",
+   "text": "She watched it from the ridge. The sun went down behind the peaks to the west, and the city lit.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 130,
+   "para": "p109",
+   "type": "narration",
+   "text": "Every college had its own colour of lamp, the tide-reader had told her once, at the sink, and the city at night looked like a hand of cards. She saw it now. The towers on the hill lighting one after another, blue and green and gold and red and a deep violet, in clusters, each cluster its own colour, up the hill in the dusk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 131,
+   "para": "p110",
+   "type": "narration",
+   "text": "But the lower city was dim.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 132,
+   "para": "p111",
+   "type": "narration",
+   "text": "The towers near the water, the ones at the foot of the hill by the lake, lit last, and lit poorly. Their lamps were there, she could see them, but faint. Brown. Guttering. As if their oil were low. As if something were drinking the light out of them from below.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 133,
+   "para": "p112",
+   "type": "narration",
+   "text": "And at the top of the hill, the long hall cut into the hillside, the Library, was white.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 134,
+   "para": "p113",
+   "type": "narration",
+   "text": "Not the colour of any college. White. Bright, cold, every one of its tall windows blazing, as if the hill itself had been lit from inside: like the full ring-stones, like the field-glass that had run up to the top of its throat on the stone at the Ring and pressed there, trembling.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 135,
+   "para": "p114",
+   "type": "narration",
+   "text": "A drain, with a full cup at its mouth.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 136,
+   "para": "p115",
+   "type": "narration",
+   "text": "And coming up off the lake, as the light went, cold. She felt it on her face, on the ridge, a long way above the water. Something other than the night’s cold, or the mountain’s. A cold that came off the surface of Glasswater like breath off ice, in high summer, and went up the hills on every side.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 137,
+   "para": "p116",
+   "type": "narration",
+   "text": "She pulled her coat round her and didn’t know what it was.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 138,
+   "para": "p117",
+   "type": "narration",
+   "text": "The herd stopped above the pass on the hundred-and-thirty-third day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 139,
+   "para": "p118",
+   "type": "narration",
+   "text": "At the top of the road that went down to Vael. The Vael Pass, the tide-reader called it: a long saddle in the mountains with a road going down from it to the lake, cut into the slope in zigzags, wide, paved in places, worn deep in others by a thousand winters of tuskers hauling stone. At the top of it, by the road, a stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 140,
+   "para": "p119",
+   "type": "narration",
+   "text": "Bigger than a milestone. Flat-topped, as high as the old cow’s shoulder, grey, smoothed on top by something, so that the top of it shone a little in the sun like the inside of a cup.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 141,
+   "para": "p120",
+   "type": "narration",
+   "text": "The old cow walked up to it and laid her trunk on it.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 142,
+   "para": "p121",
+   "type": "narration",
+   "text": "She held it there a long time. The herd stood behind her in a long line, waiting, and the rumble went through the ground, slow, steady, like the breathing of something asleep.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 143,
+   "para": "p122",
+   "type": "narration",
+   "text": "Then she took her trunk off the stone and turned round and looked at Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 144,
+   "para": "p123",
+   "type": "narration",
+   "text": "They stood ten paces apart again, as in the high bowl on the first day. And the ground spoke between them, long and low, and he answered, and it went on longer than it had the first time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 145,
+   "para": "p124",
+   "type": "narration",
+   "text": "When it was done the old cow turned away from the road and led the herd off along the hillside, east, back the way they’d come. Slowly. Not looking back.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 146,
+   "para": "p125",
+   "type": "bond",
+   "text": "They will not go down,"
+  },
+  {
+   "seq": 147,
+   "para": "p125",
+   "type": "narration",
+   "text": "said Orrun."
+  },
+  {
+   "seq": 148,
+   "para": "p125",
+   "type": "thought",
+   "text": "Not in summer. Not now. Not with that on the lake."
+  },
+  {
+   "seq": 149,
+   "para": "p125",
+   "type": "narration",
+   "text": "A pause."
+  },
+  {
+   "seq": 150,
+   "para": "p125",
+   "type": "thought",
+   "text": "She says there is a promise. On the stone. That they keep in winter. She says it is older than the city."
+  },
+  {
+   "seq": 151,
+   "para": "p125",
+   "type": "narration",
+   "text": "He was quiet."
+  },
+  {
+   "seq": 152,
+   "para": "p125",
+   "type": "thought",
+   "text": "She says she will be here in winter. If I want her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 153,
+   "para": "p126",
+   "type": "narration",
+   "text": "Maren watched the herd go along the hillside, red-brown against the green, with the old cow at the front and her one tusk catching the light.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 154,
+   "para": "p127",
+   "type": "speech",
+   "text": "“Do you?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 155,
+   "para": "p128",
+   "type": "bond",
+   "text": "Yes,"
+  },
+  {
+   "seq": 156,
+   "para": "p128",
+   "type": "narration",
+   "text": "said Orrun.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 157,
+   "para": "p129",
+   "type": "narration",
+   "text": "They went down the pass road alone.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 158,
+   "para": "p130",
+   "type": "narration",
+   "text": "There were Wardens at the lake gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 159,
+   "para": "p131",
+   "type": "narration",
+   "text": "The road came down off the pass in its zigzags to the shore of Glasswater and ran along it to the city, and where it met the first of the houses there was a gate. Not a wall: Vael had no walls, that she could see. A gate in a fence of iron rails, with a toll-house beside it and a queue of carts and mules on the road, and Wardens.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 160,
+   "para": "p132",
+   "type": "narration",
+   "text": "Four. In grey and blue, with the sleeve-wards on their left arms, the blue thread on the grey silk, burning steadily, not blazing as the tide-reader had said they’d blazed in the surge. Live ground. And a table in front of the toll-house, with a big book open on it and a clerk behind it with a pen.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 161,
+   "para": "p133",
+   "type": "narration",
+   "text": "She waited in the queue.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 162,
+   "para": "p134",
+   "type": "narration",
+   "text": "When she got to the table the clerk didn’t look up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 163,
+   "para": "p135",
+   "type": "speech",
+   "text": "“Name.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 164,
+   "para": "p136",
+   "type": "speech",
+   "text": "“Maren Ashdown.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 165,
+   "para": "p137",
+   "type": "speech",
+   "text": "“Of?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 166,
+   "para": "p138",
+   "type": "speech",
+   "text": "“Hearthmere.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 167,
+   "para": "p139",
+   "type": "narration",
+   "text": "He wrote it."
+  },
+  {
+   "seq": 168,
+   "para": "p139",
+   "type": "speech",
+   "text": "“Bonded?”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 169,
+   "para": "p140",
+   "type": "speech",
+   "text": "“Yes.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 170,
+   "para": "p141",
+   "type": "narration",
+   "text": "He looked up then. Past her. At the lion standing in the road behind her, so big that the carts in the queue had pulled to the verge to give him room.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 171,
+   "para": "p142",
+   "type": "narration",
+   "text": "He looked at Orrun for a long time.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 172,
+   "para": "p143",
+   "type": "speech",
+   "text": "“Every bond-gift is wild power,”"
+  },
+  {
+   "seq": 173,
+   "para": "p143",
+   "type": "narration",
+   "text": "said the clerk. He said it as if he’d said it many times and was saying it now from habit, while his mind was somewhere else."
+  },
+  {
+   "seq": 174,
+   "para": "p143",
+   "type": "speech",
+   "text": "“Under the law of the colleges. It must be written in the register, with the bearer’s name, the beast, the nature of the gift, its reach, and the bearer’s mark.”"
+  },
+  {
+   "seq": 175,
+   "para": "p143",
+   "type": "narration",
+   "text": "He turned the book round on the table toward her. There was a page with columns ruled on it."
+  },
+  {
+   "seq": 176,
+   "para": "p143",
+   "type": "speech",
+   "text": "“Here.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 177,
+   "para": "p144",
+   "type": "narration",
+   "text": "She looked at the page.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 178,
+   "para": "p145",
+   "type": "narration",
+   "text": "Names. Down the left side, in a column, in a dozen different hands. Then beasts."
+  },
+  {
+   "seq": 179,
+   "para": "p145",
+   "type": "thought",
+   "text": "Hawk. Hound. Lynx. Pony."
+  },
+  {
+   "seq": 180,
+   "para": "p145",
+   "type": "narration",
+   "text": "Then gifts."
+  },
+  {
+   "seq": 181,
+   "para": "p145",
+   "type": "thought",
+   "text": "Far sight, a league. Scent. Night eyes."
+  },
+  {
+   "seq": 182,
+   "para": "p145",
+   "type": "narration",
+   "text": "Then a column of marks: crosses, and signatures, and thumbprints in ink.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 183,
+   "para": "p146",
+   "type": "speech",
+   "text": "“The beast,”"
+  },
+  {
+   "seq": 184,
+   "para": "p146",
+   "type": "narration",
+   "text": "said the clerk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 185,
+   "para": "p147",
+   "type": "narration",
+   "text": "She didn’t say anything.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 186,
+   "para": "p148",
+   "type": "speech",
+   "text": "“Madam. The beast.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 187,
+   "para": "p149",
+   "type": "speech",
+   "text": "“No,”"
+  },
+  {
+   "seq": 188,
+   "para": "p149",
+   "type": "narration",
+   "text": "said Maren.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 189,
+   "para": "p150",
+   "type": "narration",
+   "text": "The clerk looked at her. One of the Wardens, a big man with short hair, came over from the gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 190,
+   "para": "p151",
+   "type": "speech",
+   "text": "“He’s not a gift,”"
+  },
+  {
+   "seq": 191,
+   "para": "p151",
+   "type": "narration",
+   "text": "said Maren."
+  },
+  {
+   "seq": 192,
+   "para": "p151",
+   "type": "speech",
+   "text": "“He’s not mine.”"
+  },
+  {
+   "seq": 193,
+   "para": "p151",
+   "type": "narration",
+   "text": "She looked down at the book, at the column of beasts. Hawk. Hound."
+  },
+  {
+   "seq": 194,
+   "para": "p151",
+   "type": "speech",
+   "text": "“I’ll write my name. I’ve written it. He’s not going in your book.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 195,
+   "para": "p152",
+   "type": "narration",
+   "text": "The big Warden looked at her. Then at the lion.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 196,
+   "para": "p153",
+   "type": "narration",
+   "text": "Orrun hadn’t moved. He stood in the road with his head up and his pale eyes on the Warden, very still, and the ground under the gate didn’t heave. It didn’t do anything. He didn’t need it to.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 197,
+   "para": "p154",
+   "type": "narration",
+   "text": "The Warden looked at him a long time.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 198,
+   "para": "p155",
+   "type": "narration",
+   "text": "Then he looked at the clerk.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 199,
+   "para": "p156",
+   "type": "narration",
+   "text": "The clerk turned the book back round and wrote something in it, beside Maren’s name, very small, and didn’t look up again.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 200,
+   "para": "p157",
+   "type": "speech",
+   "text": "“Pass,”"
+  },
+  {
+   "seq": 201,
+   "para": "p157",
+   "type": "narration",
+   "text": "said the Warden.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 202,
+   "para": "p158",
+   "type": "narration",
+   "text": "The merchant behind her in the queue was arguing about tolls.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 203,
+   "para": "p159",
+   "type": "narration",
+   "text": "She heard him as she went through the gate. A Saltreach voice, loud, aggrieved, the coast in every vowel. A salt-merchant, with three mules loaded with sacks, who’d come over the pass, and was not going to pay the colleges’ toll on salt as well as the pass-toll on mules, and said so, at length.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 204,
+   "para": "p160",
+   "type": "speech",
+   "text": "“Things are bad enough on the coast,”"
+  },
+  {
+   "seq": 205,
+   "para": "p160",
+   "type": "narration",
+   "text": "he was saying."
+  },
+  {
+   "seq": 206,
+   "para": "p160",
+   "type": "speech",
+   "text": "“Bad enough. You’d not believe. There’s a dragon farmer loose in Wendmouth.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 207,
+   "para": "p161",
+   "type": "narration",
+   "text": "Maren stopped.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 208,
+   "para": "p162",
+   "type": "narration",
+   "text": "She didn’t turn round. She stood just inside the gate with her back to the queue and her hand on Orrun’s shoulder and listened.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 209,
+   "para": "p163",
+   "type": "speech",
+   "text": "“It was all the talk at the pass-toll,”"
+  },
+  {
+   "seq": 210,
+   "para": "p163",
+   "type": "narration",
+   "text": "said the merchant."
+  },
+  {
+   "seq": 211,
+   "para": "p163",
+   "type": "speech",
+   "text": "“Came up by bird. A fortnight ago, it was. On Gallows Quay. Came down out of the sky in broad day with a red one and a green one, a red dragon and a green, and set fire to a trading house’s warehouse. The Halloran house. Biggest on the quay.”"
+  },
+  {
+   "seq": 212,
+   "para": "p163",
+   "type": "narration",
+   "text": "He was enjoying it now; she could hear it."
+  },
+  {
+   "seq": 213,
+   "para": "p163",
+   "type": "speech",
+   "text": "“Burned it to the waterline. Nobody could stop him. Their drawer came out on the quay and the red one knocked him in the harbour with its tail. And the farmer standing on the quay in the smoke with something under his arm, a book, they said, as if he’d come shopping.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 214,
+   "para": "p164",
+   "type": "speech",
+   "text": "“And?”"
+  },
+  {
+   "seq": 215,
+   "para": "p164",
+   "type": "narration",
+   "text": "said a Warden, bored.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 216,
+   "para": "p165",
+   "type": "speech",
+   "text": "“And the Tide Council’s offering money,”"
+  },
+  {
+   "seq": 217,
+   "para": "p165",
+   "type": "narration",
+   "text": "said the merchant."
+  },
+  {
+   "seq": 218,
+   "para": "p165",
+   "type": "speech",
+   "text": "“For him. A great deal of money.”"
+  },
+  {
+   "seq": 219,
+   "para": "p165",
+   "type": "narration",
+   "text": "He sniffed."
+  },
+  {
+   "seq": 220,
+   "para": "p165",
+   "type": "speech",
+   "text": "“And now you want a toll on my salt.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 221,
+   "para": "p166",
+   "type": "narration",
+   "text": "Maren stood inside the gate.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 222,
+   "para": "p167",
+   "type": "narration",
+   "text": "She thought of a farmer on the end of a jetty at Greyhold landing, at dawn, nodding north-east past her."
+  },
+  {
+   "seq": 223,
+   "para": "p167",
+   "type": "thought",
+   "text": "Your road’s that way."
+  },
+  {
+   "seq": 224,
+   "para": "p167",
+   "type": "narration",
+   "text": "She thought of the green dragon lying ten paces behind Orrun at the Ring, afraid, saying she wanted to be home before something.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 225,
+   "para": "p168",
+   "type": "narration",
+   "text": "She didn’t turn round. She walked on into the city with the lion.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 226,
+   "para": "p169",
+   "type": "narration",
+   "text": "The road from the gate went up into Vael under the Library hill.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 227,
+   "para": "p170",
+   "type": "narration",
+   "text": "It climbed from the lake through the lower city, between the slate towers, under the covered bridges, past doors with coloured lamps over them, brown and dim in the late afternoon. People stopped in the street to look at the lion. A child pointed. A woman pulled the child into a doorway. Orrun walked on up the street beside her and didn’t look at any of them.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 228,
+   "para": "p171",
+   "type": "narration",
+   "text": "The street came out at the foot of the hill and turned along it, under a long high wall of stone.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 229,
+   "para": "p172",
+   "type": "narration",
+   "text": "The Library. She knew it from the ridge. The long low front of stone cut into the hillside, half a league of it, going away along the hill above her. From below, it was a cliff. A cliff of grey dressed stone with a row of windows high up in it, tall and narrow, a long way above the street, like the slits in a tower. Every one of them lit from inside with that cold white light, even now, in the day.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 230,
+   "para": "p173",
+   "type": "narration",
+   "text": "She walked along under it with the lion.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 231,
+   "para": "p174",
+   "type": "narration",
+   "text": "From one of the windows, high up, as she passed under it, a voice said her name.",
+   "pause_after_ms": 1600
+  },
+  {
+   "seq": 232,
+   "para": "p175",
+   "type": "speech",
+   "text": "“Maren Ashdown.”",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 233,
+   "para": "p176",
+   "type": "narration",
+   "text": "Dry. Very exact. Like a quill on good paper.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 234,
+   "para": "p177",
+   "type": "narration",
+   "text": "She stopped. She looked up.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 235,
+   "para": "p178",
+   "type": "narration",
+   "text": "At the window above her, the tall narrow slit in the grey stone, high up, against the white light inside, there was a shape. Dark. Hunched. The size of a big dog. Black, going grey at the edges, and a head turned sideways to look down at her, with a beak like a cobbler’s awl.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 236,
+   "para": "p179",
+   "type": "narration",
+   "text": "And one eye. Milky. Pale as a pearl. Looking at her.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 237,
+   "para": "p180",
+   "type": "narration",
+   "text": "It didn’t say anything else.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 238,
+   "para": "p181",
+   "type": "narration",
+   "text": "She stood in the street under the Library wall with Orrun beside her and looked up at it, and it looked down at her, and neither of them moved.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 239,
+   "para": "p182",
+   "type": "narration",
+   "text": "Beside her she felt Orrun lift his head. Slowly. And look up at the window too. And go very, very still.",
+   "pause_after_ms": 500
+  },
+  {
+   "seq": 240,
+   "para": "p183",
+   "type": "narration",
+   "text": "Then the dark shape at the window turned away, and was gone, and there was only the white light.",
+   "pause_after_ms": 500
+  }
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "867d5c49e12a8f6a97afe8542d7adf1e63dca5cc",
+ "segments_sha1": "0ce443de001bed02b0a2848247a36c9f15b93bcf"
+}

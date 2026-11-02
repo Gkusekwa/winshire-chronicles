@@ -2,6 +2,21 @@
  "chapter": 79,
  "title": "Keep the Watch",
  "pov": "Maren",
+ "source": "Chapters/Chapter 79 - Keep the Watch.md",
+ "names": [
+  "greyhold",
+  "harrow",
+  "hearthmere",
+  "liss",
+  "lisska",
+  "maren",
+  "orrun",
+  "redwatch",
+  "restoration",
+  "saltreach",
+  "scarfell",
+  "wend"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1386,5 +1401,8 @@
    "mood": "quiet",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "bd0f548de7e1074ec58de2cdffca0f8f8974aacf",
+ "segments_sha1": "df83c188ed9a29e2810584a0a774dccee54d8277"
 }

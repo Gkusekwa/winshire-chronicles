@@ -2,6 +2,18 @@
  "chapter": 73,
  "title": "Hollin Knowe",
  "pov": "Maren",
+ "source": "Chapters/Chapter 73 - Hollin Knowe.md",
+ "names": [
+  "bracken",
+  "ferriby",
+  "greyhold",
+  "hollin",
+  "liss",
+  "maren",
+  "orrun",
+  "redwatch",
+  "tidesteps"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1580,5 +1592,8 @@
    "text": "Over them, high, green against the stars, the dragon came too.",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "d637b9a4505075628c727059d3d9c8fb8e32f041",
+ "segments_sha1": "7331e478006a24d43009d4deb5b36c00b9593748"
 }

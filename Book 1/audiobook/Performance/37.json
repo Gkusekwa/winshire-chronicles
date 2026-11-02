@@ -2,6 +2,22 @@
  "chapter": 37,
  "title": "What Hale Won't Say",
  "pov": "Maren",
+ "source": "Chapters/Chapter 37 - What Hale Won't Say.md",
+ "names": [
+  "dun",
+  "greyhold",
+  "grieve",
+  "hale",
+  "hearthmere",
+  "kettle",
+  "lesson",
+  "marches",
+  "maren",
+  "merrow",
+  "ottery",
+  "redwatch",
+  "rowan"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1529,5 +1545,8 @@
    "mood": "awe",
    "pause_after_ms": 800
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "a33b9d1cce0df3dfeca75cda1c0a5c732a6ccb0e",
+ "segments_sha1": "dc07f72fcc9e2e3f9fd792a9b7bf0fc9e563634a"
 }

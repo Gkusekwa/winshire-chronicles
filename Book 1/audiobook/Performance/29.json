@@ -2,6 +2,17 @@
  "chapter": 29,
  "title": "Without Words",
  "pov": "Maren",
+ "source": "Chapters/Chapter 29 - Without Words.md",
+ "names": [
+  "grieve",
+  "hearthmere",
+  "maren",
+  "ottery",
+  "pell",
+  "redwatch",
+  "saltreach",
+  "scarfell"
+ ],
  "segments": [
   {
    "seq": 1,
@@ -1318,5 +1329,8 @@
    "mood": "tender",
    "pause_after_ms": 500
   }
- ]
+ ],
+ "generator": "prepare 2 / directions 1",
+ "inputs_sha1": "69d4355a11139523ba938c8dbdb7074214afa46d",
+ "segments_sha1": "00a1512499328378fc744eb5d3fe1386a42bbe7f"
 }

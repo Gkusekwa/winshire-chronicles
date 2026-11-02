@@ -1,7 +1,7 @@
 """Render Book 1 audiobook passages with Chatterbox (Resemble AI, MIT licence): free, offline after the first
 model download, and able to act. Use it to compare with the Kokoro cast, passage for passage.
 
-How it reads the scripts (`Book 1/audiobook/Performance/NN.json`):
+How it reads the scripts (`Book 1/audiobook/Variants/local/NN.json`: the local-engine version of the scripts, without part titles or chapter numbers; rebuild with `build.py --variant local`):
 - The narrator reads everything, in Emma's voice, cloned from a short reference clip of Kokoro's Emma
   (`Book 1/audiobook/Chatterbox/refs/Narrator.wav`, made with `render_kokoro.py --refs --cast`), so the two engines
   can be compared on the same voice. With --cast, each character speaks in their own cloned voice instead.
@@ -177,7 +177,7 @@ def main():
     except Exception:
         manifest = {}
     for n in chapters:
-        src = os.path.join(AB, "Performance", f"{n:02d}.json")
+        src = os.path.join(AB, "Variants", "local", f"{n:02d}.json")
         digest = hashlib.sha1(open(src, "rb").read() + open(__file__, "rb").read()).hexdigest()
         mp3 = os.path.join(OUT, f"{n:02d}.mp3")
         if "--skip-done" in args and os.path.exists(mp3) and manifest.get(f"{n:02d}") == digest:

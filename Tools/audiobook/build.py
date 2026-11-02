@@ -4,6 +4,7 @@
     python3 build.py --check             # also verify every spoken word matches the manuscript
     python3 build.py --variant google    # SSML with names respelt inline (<sub alias>), for engines without lexicons
     python3 build.py --variant azure --voice en-GB-RyanNeural   # SSML wrapped in an Azure <voice> element
+    python3 build.py --variant local     # for Kokoro and Chatterbox: no part titles or chapter numbers, plus NN.json
 
 Inputs:  Book 1/Chapters/*.md, Book 1/audiobook/annotations/chNN.json, Tools/audiobook/names.py, Tools/atlas/plan_data.py
 Outputs: Book 1/audiobook/Scripts/*.ssml            (standard variant)
@@ -28,6 +29,10 @@ TITLE, SERIES, AUTHOR, NEXT = "The Watch Below", "The Winshire Chronicles", "Goo
 
 # ---- pauses (ms); every break is 3 s or less so all engines accept it ----
 P_PARA, P_SCENE, P_AFTER_PART, P_AFTER_NUM, P_AFTER_TITLE, P_HEAVY = 500, 1600, 2000, 800, 1800, 800
+# Part titles ("Part One. Two Banks.") and chapter numbers ("Chapter One.") are spoken in the main scripts and the
+# ElevenLabs kit. The "local" variant (for Kokoro and Chatterbox) leaves them out: each chapter opens with its name
+# only (author, Nov 2026).
+SPEAK_PART_AND_NUMBER = True
 
 # ---- delivery: how each span type is rendered in SSML (standard SSML 1.1 prosody/emphasis) ----
 SPAN_PROSODY = {
@@ -214,13 +219,14 @@ def chapter(n, path, variant=None, voice=None):
         if pause: d["pause_after_ms"] = pause
         perf["segments"].append(d)
 
-    if n in starts:
+    if SPEAK_PART_AND_NUMBER and n in starts:
         pname, season, a, b = starts[n]
         label, sub = pname.split(": ", 1)
         L.append(f'<p><s>{esc(label)}.</s> <s>{esc(sub)}.</s></p><break time="{P_AFTER_PART}ms"/>')
         seg("title", f"{label}. {sub}.", pause=P_AFTER_PART)
-    L.append(f'<p><s>Chapter {words(n).capitalize()}.</s></p><break time="{P_AFTER_NUM}ms"/>')
-    seg("title", f"Chapter {words(n).capitalize()}.", pause=P_AFTER_NUM)
+    if SPEAK_PART_AND_NUMBER:
+        L.append(f'<p><s>Chapter {words(n).capitalize()}.</s></p><break time="{P_AFTER_NUM}ms"/>')
+        seg("title", f"Chapter {words(n).capitalize()}.", pause=P_AFTER_NUM)
     L.append(f'<p><s>{esc(clean(title))}.</s></p><break time="{P_AFTER_TITLE}ms"/>')
     seg("title", f"{clean(title)}.", pause=P_AFTER_TITLE)
 
@@ -395,10 +401,10 @@ def verify(n, path, ssml):
     want = norm(" ".join(p["text"] for p in paras))
     got = spoken_tokens(ssml)
     # drop the headings
-    head = norm(f"Chapter {words(n)} {title}")
+    head = norm(f"Chapter {words(n)} {title}") if SPEAK_PART_AND_NUMBER else norm(title)
     pre = []
     for p in PARTS:
-        if p[2] == n: pre = norm(p[0].replace(":", "."))
+        if p[2] == n and SPEAK_PART_AND_NUMBER: pre = norm(p[0].replace(":", "."))
     got_body = got[len(pre) + len(head):]
     return got_body == want
 
@@ -409,6 +415,9 @@ def main():
     voice = args[args.index("--voice") + 1] if "--voice" in args else None
     if variant == "azure" and not voice:
         sys.exit("--variant azure needs --voice NAME")
+    global SPEAK_PART_AND_NUMBER
+    if variant == "local":
+        SPEAK_PART_AND_NUMBER = False
     out = os.path.join(AB, "Scripts") if not variant else os.path.join(AB, "Variants", variant)
     os.makedirs(out, exist_ok=True)
     if not variant:
@@ -421,13 +430,14 @@ def main():
     open(os.path.join(out, "99_Closing.ssml"), "w", encoding="utf-8").write(closing)
     if not variant:
         write_cast_and_elevenlabs()
+    if not variant or variant == "local":
         for num, name, ssml in ((0, "Opening", opening), (99, "Closing", closing)):
             segs = []
             for m in re.finditer(r"<p>(.*?)</p>(?:<break time=\"(\d+)ms\"/>)?", ssml):
                 txt = re.sub(r"<[^>]+>", "", m.group(1)).strip()
                 segs.append({"seq": len(segs) + 1, "para": "", "type": "title", "text": txt, "pause_after_ms": int(m.group(2) or 0)})
             json.dump({"chapter": num, "title": name, "pov": "", "segments": segs},
-                      open(os.path.join(AB, "Performance", f"{num:02d}.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+                      open(os.path.join(out if variant else os.path.join(AB, "Performance"), f"{num:02d}.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     bad, total = [], 0
     for n, path in chapter_files().items():
         title, ssml, perf = chapter(n, path, variant, voice)
@@ -435,6 +445,8 @@ def main():
         if "--check" in args and not verify(n, path, ssml if variant != "google" else re.sub(r'<sub alias="[^"]*">([^<]*)</sub>', r"\1", ssml)):
             bad.append(n)
         open(os.path.join(out, slug(n, title) + ".ssml"), "w", encoding="utf-8").write(ssml)
+        if variant == "local":   # the performance script the local engines read
+            json.dump(perf, open(os.path.join(out, f"{n:02d}.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         if not variant:
             json.dump(perf, open(os.path.join(AB, "Performance", f"{n:02d}.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
             studio_text(n, perf, slug(n, title))

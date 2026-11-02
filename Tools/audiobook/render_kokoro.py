@@ -4,7 +4,7 @@ Licences, by component: the Kokoro-82M model is Apache 2.0; the kokoro-onnx wrap
 the espeak-ng phonemizer they load is GPL-3.0 (it is a tool here: it doesn't change the licence of the audio).
 Kokoro-onnx 0.6.1 needs Python 3.10 to 3.13.
 
-Reads the same per-chapter performance scripts as the ElevenLabs kit (`Book 1/audiobook/Performance/NN.json`),
+Reads the same per-chapter performance scripts as the ElevenLabs kit (`Book 1/audiobook/Variants/local/NN.json`: the local-engine version of the scripts, without part titles or chapter numbers; rebuild with `build.py --variant local`),
 says names exactly as `Lexicon_IPA.pls` gives them, and follows the Narration Guide as far as Kokoro can: one
 narrator voice, whole paragraphs at a time, pace and level set by the kind of words (narration, speech, bond
 speech, thought, written words, verse) and the scripted pause after every paragraph. With --cast, each character speaks
@@ -150,7 +150,7 @@ def main():
         elif a.isdigit():
             chapters.append(int(a))
     if "--all" in args:
-        chapters = sorted(int(f[:2]) for f in os.listdir(os.path.join(AB, "Performance")) if f[:2].isdigit())
+        chapters = sorted(int(f[:2]) for f in os.listdir(os.path.join(AB, "Variants", "local")) if f.endswith(".json") and f[:2].isdigit())
     lex = lexicon()
     out_dir = os.path.join(AB, "Kokoro", "out")
     os.makedirs(out_dir, exist_ok=True)
@@ -287,7 +287,7 @@ def main():
         return
 
     for n in chapters:
-        src = os.path.join(AB, "Performance", f"{n:02d}.json")
+        src = os.path.join(AB, "Variants", "local", f"{n:02d}.json")
         key = f"{n:02d}_{tag}"
         digest = hashlib.sha1(open(src, "rb").read() + open(__file__, "rb").read() + (open(os.path.join(HERE, "kokoro_cast.py"), "rb").read() if use_cast else b"")).hexdigest()
         mp3 = os.path.join(out_dir, key + ".mp3")
@@ -306,10 +306,10 @@ def audition():
     want = [("title", None), ("narration", None), ("long", None), ("short", None), ("speech", None),
             ("bond", None), ("thought", None), ("remembered", None), ("narration", "grief"),
             ("narration", "tension"), ("verse", None), ("written", None), ("bond", "grief")]
-    files = sorted(f for f in os.listdir(os.path.join(AB, "Performance")) if f[:2].isdigit() and f[:2] not in ("00", "99"))
+    files = sorted(f for f in os.listdir(os.path.join(AB, "Variants", "local")) if f.endswith(".json") and f[:2].isdigit() and f[:2] not in ("00", "99"))
     groups = []
     for f in files:
-        segs = json.load(open(os.path.join(AB, "Performance", f), encoding="utf-8"))["segments"]
+        segs = json.load(open(os.path.join(AB, "Variants", "local", f), encoding="utf-8"))["segments"]
         cur = []
         for s in segs:
             if cur and s.get("para") and cur[-1].get("para") == s["para"]:

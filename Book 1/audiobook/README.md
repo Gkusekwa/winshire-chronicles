@@ -18,41 +18,30 @@ If a chapter's text changes, its paragraph and span numbering can shift. `python
 | `Narration_Guide.md` | How to read the book: the five kinds of words (narration, speech, bond speech, thought, written words and verse), directions, pauses. |
 | `Cast.md` | Every voiced role, with gender, age, line count and voice notes. A single narrator uses it as character notes. |
 | `Pronunciation_Guide.md` | Invented names with a respelling and IPA. The names that could be said more than one way are marked *settled* (Nov 2026). |
-| `Lexicon_IPA.pls`, `Lexicon_Alias.pls` | The same names as standard pronunciation lexicons: IPA (Amazon Polly, Azure) and alias spellings (ElevenLabs and others). |
+| `Lexicon_IPA.pls`, `Lexicon_Alias.pls` | The same names as standard pronunciation lexicons: IPA (Amazon Polly, Azure) and alias spellings (Chatterbox and others). |
 | `annotations/chNN.json` | The source of the performance: the speaker and kind of every quoted or italic span, and a direction where a paragraph needs one. |
-| `Performance/NN.json` | Each chapter as a sequence of segments with type, speaker, listener, delivery and pause. This is what a multi-voice pipeline uses. |
+| `Performance/NN.json` | Each chapter as a sequence of segments with type, speaker, listener, delivery and pause. This is what Chatterbox reads. |
 | `Scripts/*.ssml` | Standard SSML 1.1 for one narrator. Bond speech, thoughts, verse and written words get gentle prosody; paragraphs with a direction get a slight rate change; pauses are explicit, never over 3 s. Comments name the speaker of each paragraph. |
 | `Variants/google/` | SSML with names respelt inline, for engines without lexicon support. |
 | `Variants/azure/` | SSML wrapped in an Azure voice element (rebuild with `--variant azure --voice NAME` to change the voice). |
-| `Chatterbox/` | The free route in trial (Nov 2026): Chatterbox (MIT), run on the Mac, benchmarked against the ElevenLabs renders. It reads the same scripts as ElevenLabs (`Performance/`, titles included). Emma narrates everything, cloned from `Chatterbox/refs/Narrator.wav`; Emma is not an ElevenLabs voice, so the two productions stay separate. Each line's mood and "how" note set its emotion intensity. Every passage is checked against its text and regenerated (up to three tries) if its length doesn't fit or it holds a long silence; doubtful passages are listed in `out/NN_check.txt`. `bash Tools/audiobook/chatterbox_mac.sh` renders the audition set; `... 1` renders chapter 1. Its first run downloads the model (about 3 GB). It renders at about a third of real time on the Mac. Audio goes to `Chatterbox/out/`, ignored by git. (A Kokoro trial was dropped, Nov 2026: Chatterbox sounded better; the author found Chatterbox's Chapter 1 much better, with some slips and less exact feeling than ElevenLabs.) |
-| `ElevenLabs/` | The ElevenLabs production kit (below). |
+| `Chatterbox/` | The narration: Chatterbox renders, the narrator's reference clip and the anomaly-check lists (below). |
 
-## ElevenLabs
+## Narration: Chatterbox
 
-Two routes.
+The audiobook is narrated with **Chatterbox** (Resemble AI, MIT licence), run locally on the author's Mac: free, and offline after the first download. Emma narrates everything.
 
-**No code (ElevenLabs Studio).** Create a Studio project and paste or import the chapters from `ElevenLabs/Studio/*.txt`, one per chapter. These are clean text with the headings spoken as words. Upload `Lexicon_Alias.pls` as the project's pronunciation dictionary, and choose a narrator voice. Studio lets you assign other voices to passages by hand. `Cast.md` says who speaks where, and the comments in `Scripts/*.ssml` name the speaker of every paragraph.
-
-**Scripted (API).** `Tools/audiobook/render_elevenlabs.py` renders whole chapters from `Performance/`:
-
-1. Fill in `ElevenLabs/voices.json`: a voice ID for **Narrator** at least, and for any roles you want voiced. Roles left empty fall back to the Narrator.
-2. `export ELEVENLABS_API_KEY=...` Don't put the key in any file in this repository.
-3. `python3 render_elevenlabs.py --estimate`: characters per chapter, before spending anything. The whole book is about 1.6 million characters.
-4. Try one chapter first: `python3 render_elevenlabs.py --chapters 1 --cast single`, then listen to it.
-5. Choose:
-   - `--cast single` (one narrator) or `--cast full` (a voice per role);
-   - `--model eleven_multilingual_v2` (steady, good for long-form) or `--model eleven_v3` (more expressive; gets the audio tags from the annotations, such as [softly] for bond speech);
-   - `--dialogue`, with v3 and full cast, to voice the speakers of a passage together.
-
-   Every request is cached under `ElevenLabs/cache/`, so re-runs and edits only pay for what changed. The finished, loudness-normalised chapters go to `ElevenLabs/out/`. Both folders are ignored by git. ffmpeg is required.
-
-Check ElevenLabs' current plans: commercial use needs a paid plan, and credits per month vary by plan.
+- **Run it** from Terminal in the project folder: `bash Tools/audiobook/chatterbox_mac.sh` renders the audition set (passages of every kind from across the book); `bash Tools/audiobook/chatterbox_mac.sh 1` renders chapter 1; `bash Tools/audiobook/chatterbox_mac.sh 1-79 --skip-done` renders the book, skipping chapters already done and current. The first run sets up Python 3.11 or 3.12, `chatterbox-tts` 0.1.7 and the model (about 3 GB). It uses the Mac's graphics chip, renders at about a third of real time, and keeps the Mac awake.
+- **What it reads:** `Performance/NN.json`, titles included. Each paragraph is read whole, so short quoted lines keep their flow; long paragraphs are split at sentence ends (about 200 characters). Each paragraph's mood and "how" note set the emotion intensity. Names are respelt from `Lexicon_Alias.pls`.
+- **The narrator's voice** comes from `Chatterbox/refs/Narrator.wav`, a 9.6-second clip of Emma (24 kHz mono; SHA-256 `9223a4ccbd883afe1a20f6e02f68bf6a570cdf10fa7040b632dbba46d8348767`). It was made with the Kokoro-82M model (Apache 2.0, voice `bf_emma`) reading two neutral lines. Every render clones this clip, so keep it unchanged and backed up: a different clip gives a different narrator. Like all audio, it is kept out of git.
+- **Automatic anomaly check:** each take's length is compared with what its text should take, and long silences inside it are looked for. A take that looks wrong (often a skip, a repeat or a stall) is made again, up to three tries, and anything still doubtful is listed in `Chatterbox/out/NN_check.txt`. It can't hear whether the words or names are right: **listening and proofreading are the quality check**, starting with the passages marked STILL DOUBTFUL. Higher emotion intensity can also speed the voice up, so listen for pacing as well as feeling.
+- **Resume:** `Chatterbox/out/manifest.json` fingerprints each chapter's inputs (script, renderer, name respellings, cast map, narrator clip, options), so `--skip-done` re-renders a chapter whenever any of them has changed.
+- Chatterbox adds an inaudible watermark (Resemble AI's Perth) to its output.
+- Audio goes to `Chatterbox/out/`, ignored by git.
 
 ## Where it can be published
 
 - **Audible (ACX)** doesn't accept AI narration made outside Amazon. Amazon's own **Virtual Voice** (through KDP) narrates the published ebook itself and doesn't use these files.
-- **ElevenReader Publishing** (ElevenLabs' own store), which can also distribute to **Spotify** through Findaway Voices.
-- **Spotify for Authors**, which was adding ElevenLabs narration in 2026 and distributes to Google Play Books.
+- **Spotify** (through Spotify for Authors / Findaway Voices): check whether it accepts AI narration made elsewhere.
 - **Google Play Books** accepts uploaded AI-narrated audio.
 
 Check each one's current terms, exclusivity and AI-disclosure rules before choosing. These routes change often.

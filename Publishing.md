@@ -35,14 +35,13 @@
 7. **Metadata:** title, subtitle ("Winshire, Book 1"), description, categories and keywords.
 8. **Upload** to KDP (and the other stores if going wide), and preview on several devices before release.
 
-## Audiobook *(in preparation, Oct 2026)*
+## Audiobook *(in preparation, Nov 2026)*
 
-- **Book 1's audiobook files are ready to produce** (`Book 1/audiobook/`). They include scripts for any narrator or voice engine, a cast list, pronunciations, and an ElevenLabs kit for one narrator or a full cast. Everything is generated from the manuscript, so it stays in step with the text. The book runs to roughly 32–34 hours.
-- **The author is considering ElevenLabs** for the narration, and for animation. ElevenLabs' Image & Video tools can be used for a trailer or animated pieces built from the art.
+- **Book 1's audiobook files are ready to produce** (`Book 1/audiobook/`). They include scripts for any narrator or voice engine, a cast list and pronunciations. Everything is generated from the manuscript, so it stays in step with the text. The book runs to roughly 32–34 hours.
+- **Narration: Chatterbox** *(settled by the author, Nov 2026)*: the open-source Chatterbox (MIT), run on the author's Mac, with Emma narrating everything. It is free and needs no subscription. Each chapter is listened to and proofread before release; the renderer's automatic check flags likely slips but can't hear wrong words (`Book 1/audiobook/README.md`).
 - **Where an AI-narrated audiobook can go** *(check current terms)*:
   - **Audible's ACX** does not accept AI narration made elsewhere. Amazon's own *Virtual Voice* narrates the KDP ebook itself.
-  - **ElevenReader Publishing** sells in its own app and can distribute to Spotify through Findaway Voices.
-  - **Spotify for Authors** (ElevenLabs narration, from 2026) distributes to Google Play Books.
+  - **Spotify** (through Spotify for Authors / Findaway Voices): check whether it accepts AI narration made elsewhere.
   - **Google Play Books** accepts uploaded AI-narrated audio.
 - **Disclosure:** the opening and closing credits say the book is narrated by a digital voice.
 
@@ -72,4 +71,4 @@
 - Which edition (Bone, Night or Band) goes out first, and how the other two are released *(to be decided later)*.
 - Publish under your own name or a pen name, and under what imprint name?
 - Release Book 1 alone, or the three close together?
-- The audiobook: which route (ElevenReader, Spotify for Authors, Google Play), and one narrator or a full cast. (The names' pronunciations are settled, Nov 2026: `Book 1/audiobook/Pronunciation_Guide.md`.) A free route is in trial (Nov 2026): Chatterbox (MIT), run on the author's Mac with Emma narrating, reading the same scripts as ElevenLabs (`Book 1/audiobook/README.md`). The author judged its Chapter 1 much better than Kokoro and promising against the ElevenLabs benchmark: names right, feeling less exact, some slips (now checked and regenerated automatically). (Kokoro was tried and dropped.)
+- The audiobook: where to sell it (Google Play Books, Spotify; not Audible), and one narrator or a full cast (one narrator, Emma, for now). The names' pronunciations are settled (Nov 2026).

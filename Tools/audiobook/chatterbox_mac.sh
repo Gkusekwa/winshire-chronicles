@@ -24,7 +24,9 @@ if [ -z "$PY" ]; then
   if command -v brew >/dev/null; then brew install python@3.11; PY="$(brew --prefix)/bin/python3.11"
   else echo "Install Python 3.11 first (https://brew.sh, then: brew install python@3.11)"; exit 1; fi
 fi
-if [ ! -x "$C/venv/bin/python" ]; then
+# Rebuild the environment if it is missing or was made with an unsupported Python.
+if [ ! -x "$C/venv/bin/python" ] || ! "$C/venv/bin/python" -c 'import sys; sys.exit(not (3,11) <= sys.version_info[:2] <= (3,12))'; then
+  rm -rf "$C/venv"
   "$PY" -m venv "$C/venv"
   "$C/venv/bin/pip" install -q --upgrade pip
 fi

@@ -1,14 +1,18 @@
 """Render Book 1 audiobook passages with Chatterbox (Resemble AI, MIT licence): free, offline after the first
-model download, and able to act. The free route for the audiobook, benchmarked against the ElevenLabs renders.
+model download, and able to act. The audiobook's narration route.
 
-How it reads the scripts (`Book 1/audiobook/Performance/NN.json`, the same scripts as the ElevenLabs kit, part titles and
-chapter numbers included):
+How it reads the scripts (`Book 1/audiobook/Performance/NN.json`, part titles and chapter
+numbers included):
 - The narrator reads everything, in Emma's voice, cloned from a short reference clip
-  (`Book 1/audiobook/Chatterbox/refs/Narrator.wav`: a 12-second clip of Emma). Emma is not an ElevenLabs voice, so the
-  Chatterbox production stays separate from the ElevenLabs one. With --cast, characters with a clip of their own in refs/
+  (`Book 1/audiobook/Chatterbox/refs/Narrator.wav`: a 12-second clip of Emma). With --cast, characters with a clip of their own in refs/
   speak in that voice.
-- Slips: each passage is checked against its text. If its length doesn't fit (a skip, a repeat, garbling) or it holds a
-  long silence, it is generated again, up to three tries; anything still doubtful is listed in out/NN_check.txt.
+- Automatic anomaly check: each take's length is compared with what its text should take, and long silences inside it
+  are looked for. A take that looks wrong (often a skip, a repeat or a stall) is generated again, up to three tries;
+  anything still doubtful is listed in out/NN_check.txt. This cannot hear whether the words or names are right:
+  listening and proofreading remain the quality check, starting with the passages marked STILL DOUBTFUL.
+- Higher emotion intensity can also make Chatterbox speak faster: check pacing as well as feeling when listening.
+- Resume: out/manifest.json fingerprints each chapter's inputs (script, renderer, name respellings, cast map, narrator
+  clip, options); --skip-done re-renders a chapter whenever any of them changed.
 - Each line's mood and "how" note set Chatterbox's emotion intensity (exaggeration) and pacing (cfg weight).
 - Names are respelt from `Lexicon_Alias.pls`, since Chatterbox reads text, not phonemes.
 - Chatterbox adds an inaudible Perth watermark to its output (Resemble AI's responsible-AI marker).
@@ -246,7 +250,12 @@ def main():
                     continue
                 kinds = {kind(x) for x in segs}
                 style = kinds.pop() if len(kinds) == 1 else "narration"   # bond, thought... only if the whole run is
-                ex, cfg = MOOD.get(segs[0].get("mood"), MOOD[None])
+                # mood is set per paragraph in the scripts (no paragraph mixes moods); if one ever did,
+                # the mood of the longest stretch of text wins
+                weights = {}
+                for x in segs:
+                    weights[x.get("mood")] = weights.get(x.get("mood"), 0) + len(x["text"])
+                ex, cfg = MOOD.get(max(weights, key=weights.get), MOOD[None])
                 gain = GAIN.get(style, 0.0)
                 how = " ".join(s.get("how") or "" for s in segs).lower()
                 for word, dex, dg in HOW:
@@ -295,7 +304,14 @@ def main():
         manifest = {}
     for n in chapters:
         src = os.path.join(AB, "Performance", f"{n:02d}.json")
-        digest = hashlib.sha1(open(src, "rb").read() + open(__file__, "rb").read()).hexdigest()
+        # everything that changes the sound: the script, this renderer, the name respellings, the cast map,
+        # the narrator clip and the run's options
+        inputs = [src, __file__, os.path.join(AB, "Lexicon_Alias.pls"), os.path.join(HERE, "cast.py"), ref_for("Narrator")]
+        h = hashlib.sha1()
+        for f in inputs:
+            h.update(open(f, "rb").read())
+        h.update(json.dumps({"cast": use_cast, "narrator_ref": narrator_ref}).encode())
+        digest = h.hexdigest()
         mp3 = os.path.join(OUT, f"{n:02d}" + ("_" + os.path.splitext(os.path.basename(narrator_ref))[0] if narrator_ref else "") + ".mp3")
         if "--skip-done" in args and os.path.exists(mp3) and manifest.get(f"{n:02d}") == digest:
             print(f"{n:02d}: up to date, skipped"); continue

@@ -17,7 +17,7 @@ The home of the Winshire books: the series bible and the manuscripts. Keep estab
 - **[Book 1/Chapters/](Book%201/Chapters/):** the manuscript, one Markdown file per chapter. Each file starts with its planning notes; the prose goes below the line.
 - **[Book 1/Notes/](Book%201/Notes/):** working notes, drafts of scenes, and research (including the voice samples). The Decisions logs are a historical record, merged into the Bible.
 - **[Book 1/Notes/Rulings_41-79.md](Book%201/Notes/Rulings_41-79.md):** rulings from the Chapters 41–79 review and the October 2026 revision.
-- **[Book 1/audiobook/](Book%201/audiobook/):** the audiobook production files for Book 1: scripts for any narrator or voice engine, the cast, pronunciations, and an ElevenLabs kit. Generated from the manuscript by `Tools/audiobook/`; see its README.
+- **[Book 1/audiobook/](Book%201/audiobook/):** the audiobook production files for Book 1: scripts for any narrator or voice engine, the cast and pronunciations, narrated with Chatterbox. Generated from the manuscript by `Tools/audiobook/`; see its README.
 - **[Book 1/Art/](Book%201/Art/):** chapter-opener art (79 pieces) and the maps: bare front-matter maps, the 79 chapter-end map pages, full maps, and the interactive atlas page.
 - **[Book 2/Chapter_Plan.md](Book%202/Chapter_Plan.md):** the Book 2 chapter plan (revision 5; 88 chapters, close to final draft, audited and fixed Oct 2026; three POVs: Maren, Calder, Idony; review questions settled as drafted).
 - **[Book 3/Chapter_Plan.md](Book%203/Chapter_Plan.md):** the Book 3 chapter plan (revision 3; 86 chapters, close to final draft, audited and fixed Oct 2026; seven POVs; review questions settled as drafted; ch. 86's last line is the author's).

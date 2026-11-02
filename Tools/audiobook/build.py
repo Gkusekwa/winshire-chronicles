@@ -28,8 +28,7 @@ TITLE, SERIES, AUTHOR, NEXT = "The Watch Below", "The Winshire Chronicles", "Goo
 
 # ---- pauses (ms); every break is 3 s or less so all engines accept it ----
 P_PARA, P_SCENE, P_AFTER_PART, P_AFTER_NUM, P_AFTER_TITLE, P_HEAVY = 500, 1600, 2000, 800, 1800, 800
-# Part titles ("Part One. Two Banks.") and chapter numbers ("Chapter One.") are spoken. Every engine (ElevenLabs,
-# Chatterbox) reads the same scripts (author, Nov 2026).
+# Part titles ("Part One. Two Banks.") and chapter numbers ("Chapter One.") are spoken (author, Nov 2026).
 SPEAK_PART_AND_NUMBER = True
 
 # ---- delivery: how each span type is rendered in SSML (standard SSML 1.1 prosody/emphasis) ----
@@ -309,7 +308,7 @@ def write_names():
              "- **Hollin Knowe**: *knowe* is a knoll; said *now*.",
              "- **Oneroad** is *one road* run together.",
              "- Names that read as plain English (Pell, Hale, Rowan, Rook, Grieve, Turnip, Bramble, Sorrel, Tobin, Wren, Tam, Ada, Joss, Hob, Wat) need no entry.",
-             "- Load `Lexicon_IPA.pls` (Amazon Polly, Azure) or `Lexicon_Alias.pls` (ElevenLabs pronunciation dictionaries and any engine that accepts PLS aliases). For engines with no lexicon support, build the `google` variant, which writes the aliases into the SSML."]
+             "- Load `Lexicon_IPA.pls` (Amazon Polly, Azure) or `Lexicon_Alias.pls` (Chatterbox and any engine that accepts PLS aliases). For engines with no lexicon support, build the `google` variant, which writes the aliases into the SSML."]
     open(os.path.join(AB, "Pronunciation_Guide.md"), "w", encoding="utf-8").write("\n".join(rows) + "\n")
     head = ('<?xml version="1.0" encoding="UTF-8"?>\n<lexicon version="1.0" xmlns="http://www.w3.org/2005/01/pronunciation-lexicon" '
             'xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon '
@@ -325,8 +324,8 @@ def write_names():
     open(os.path.join(AB, "Lexicon_Alias.pls"), "w", encoding="utf-8").write("".join(al))
 
 
-# ---------------- cast, ElevenLabs ----------------
-def write_cast_and_elevenlabs():
+# ---------------- cast ----------------
+def write_cast():
     from cast import all_roles, role_of
     # line counts per role, from the annotations
     counts = {}
@@ -347,40 +346,9 @@ def write_cast_and_elevenlabs():
     for r, g, a, note in all_roles():
         rows.append(f"| **{r}** | {g} | {a} | {counts.get(r, '')} | {note} |")
     open(os.path.join(AB, "Cast.md"), "w", encoding="utf-8").write("\n".join(rows) + "\n")
-    el = os.path.join(AB, "ElevenLabs")
-    os.makedirs(el, exist_ok=True)
-    vj = os.path.join(el, "voices.json")
-    old = json.load(open(vj, encoding="utf-8")) if os.path.exists(vj) else {}
-    roles = old.get("roles", {})
-    new = {"_help": "Paste an ElevenLabs voice_id for each role you want voiced (Voice Library or your own voices). "
-                    "Roles left empty fall back to Narrator. Per-role 'settings' override 'defaults'. eleven_v3 accepts stability 0.0, 0.5 or 1.0 only.",
-           "output_format": old.get("output_format", "mp3_44100_128"),
-           "defaults": old.get("defaults", {"stability": 0.5, "similarity_boost": 0.75, "style": 0.0, "use_speaker_boost": True, "speed": 1.0}),
-           "roles": {}}
-    for r, g, a, note in all_roles():
-        new["roles"][r] = roles.get(r, {"voice_id": "", "note": note[:120]})
-    json.dump(new, open(vj, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 
-def studio_text(n, perf, name):
-    """Plain chapter text for pasting or importing into ElevenLabs Studio (one narrator; voices can be assigned there)."""
-    d = os.path.join(AB, "ElevenLabs", "Studio")
-    os.makedirs(d, exist_ok=True)
-    out, last_para = [], None
-    for s in perf["segments"]:
-        if s["type"] == "title":
-            out.append(s["text"] + "\n\n")
-            continue
-        if s["para"] != last_para and last_para is not None:
-            out.append("\n\n\n" if s.get("_scene") else "\n\n")
-        elif last_para == s["para"]:
-            out.append(" ")
-        out.append(s["text"])
-        last_para = s["para"]
-    open(os.path.join(d, name + ".txt"), "w", encoding="utf-8").write("".join(out).replace("\n\n \n", "\n\n").strip() + "\n")
 
-
-# ---------------- check ----------------
 def spoken_tokens(ssml):
     s = re.sub(r"<!--.*?-->", "", ssml, flags=re.S)
     s = re.sub(r"<[^>]+>", " ", s)
@@ -424,7 +392,7 @@ def main():
     open(os.path.join(out, "00_Opening.ssml"), "w", encoding="utf-8").write(opening)
     open(os.path.join(out, "99_Closing.ssml"), "w", encoding="utf-8").write(closing)
     if not variant:
-        write_cast_and_elevenlabs()
+        write_cast()
     if not variant:
         for num, name, ssml in ((0, "Opening", opening), (99, "Closing", closing)):
             segs = []
@@ -442,7 +410,6 @@ def main():
         open(os.path.join(out, slug(n, title) + ".ssml"), "w", encoding="utf-8").write(ssml)
         if not variant:
             json.dump(perf, open(os.path.join(AB, "Performance", f"{n:02d}.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-            studio_text(n, perf, slug(n, title))
         total += 1
     print(f"built {total} chapters into {os.path.relpath(out, REPO)}" + (f"; text mismatch in {bad}" if bad else ("; text verified" if "--check" in args else "")))
 

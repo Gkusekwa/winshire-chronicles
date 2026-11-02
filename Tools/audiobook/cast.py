@@ -2,7 +2,7 @@
 speaker names in the annotations map to those voices. Every speaker without a role of their
 own falls back to a shared voice by kind (man, woman, child), or to the narrator.
 
-Edit freely; rebuild to regenerate Cast.md and the ElevenLabs voice map template.
+Edit freely; rebuild to regenerate Cast.md.
 """
 import re, zlib
 

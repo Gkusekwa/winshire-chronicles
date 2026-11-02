@@ -4,7 +4,8 @@ model download, and able to act. The audiobook's narration route.
 How it reads the scripts (`Book 1/audiobook/Performance/NN.json`, part titles and chapter
 numbers included):
 - The narrator reads everything, in Emma's voice, cloned from a short reference clip
-  (`Book 1/audiobook/Chatterbox/refs/Narrator.wav`: a 12-second clip of Emma). With --cast, characters with a clip of their own in refs/
+  (`Book 1/audiobook/Chatterbox/refs/Narrator.wav`: a 9.6-second clip of Emma, 24 kHz mono, made with the
+  Kokoro-82M model's voice bf_emma; see the audiobook README for its fingerprint). With --cast, characters with a clip of their own in refs/
   speak in that voice.
 - Automatic checks on every take, before it is kept:
   1. length: does it take about as long as its text should? (too short = skipped words; too long = repeats, babble)
@@ -16,6 +17,10 @@ numbers included):
   out/NN_check.txt, with the words that differed.
 - Checks on each finished chapter, also in out/NN_check.txt: loudness (about -19 LUFS), true peak (below -3 dBFS),
   clipping, and the noise floor between words.
+- Each chapter gets a status in out/NN_check.txt and out/manifest.json: PASS (no doubtful passages; loudness, peak
+  and clipping within limits), FAIL (with the reasons), or UNCHECKED (rendered with --no-words, a draft). The word
+  check is required: if Whisper can't load, rendering stops unless --no-words is given. --skip-done skips only
+  chapters that PASSED and whose inputs haven't changed; FAIL and UNCHECKED chapters are rendered again.
 - None of this replaces listening: names, emphasis and feeling need a human ear, starting with the STILL DOUBTFUL
   passages.
 - Higher emotion intensity can also make Chatterbox speak faster: check pacing as well as feeling when listening.
@@ -229,7 +234,10 @@ def main():
             asr = WhisperModel(os.environ.get("WORDCHECK_MODEL", "small.en"), device="cpu", compute_type="int8")
             print("word check: on (Whisper", os.environ.get("WORDCHECK_MODEL", "small.en") + ")")
         except Exception as e:
-            print("word check: off (faster-whisper not available:", e, ")")
+            sys.exit(f"The word check (faster-whisper) didn't load: {e}\n"
+                     "Fix it (bash Tools/audiobook/chatterbox_mac.sh installs it), or render a draft without it by adding --no-words.")
+    else:
+        print("word check: OFF (--no-words): draft only; chapters rendered this way are marked UNCHECKED")
     WILD = name_words()
     MAX_WER = 0.12   # more than about 1 word in 8 wrong (names excluded) -> another take
     SR = model.sr
@@ -286,8 +294,9 @@ def main():
             return None, 0.0, []
         errs, details = word_errors(ref, hyp, WILD)
         rate = errs / len(ref)
-        # short lines: allow one slip of the recogniser itself
-        if rate > MAX_WER and errs > (1 if len(ref) <= 8 else 0):
+        # Short lines (8 words or fewer) must match exactly: one wrong word there can be the whole line. If the
+        # recogniser itself is at fault, the line ends up STILL DOUBTFUL and is listened to.
+        if (len(ref) <= 8 and errs > 0) or (len(ref) > 8 and rate > MAX_WER):
             return f"words differ ({errs} of {len(ref)}: {', '.join(details[:6])})", rate, details
         return None, rate, details
 
@@ -383,12 +392,12 @@ def main():
         os.remove(tmp)
         os.replace(partial, mp3)
         print(f"\n{os.path.relpath(mp3, REPO)}: {len(wav) / SR / 60:.1f} min")
-        return file_checks(mp3, wav)
+        return file_checks(mp3, wav)   # (notes, failures)
 
     def file_checks(mp3, wav):
         """Checks on the finished file: loudness and peaks (audiobook stores ask for about -18 to -23 LUFS and
         peaks below -3 dB), clipping in the raw take, the noise floor, and the length."""
-        notes = []
+        notes, fails = [], []
         r = subprocess.run(["ffmpeg", "-hide_banner", "-nostats", "-i", mp3, "-af", "ebur128=peak=true", "-f", "null", "-"],
                            capture_output=True, text=True)
         tail = r.stderr[r.stderr.rfind("Summary:"):]
@@ -396,23 +405,32 @@ def main():
         peak = re.search(r"Peak:\s+(-?[\d.]+) dBFS", tail)
         if lufs:
             v = float(lufs.group(1))
-            notes.append(f"loudness {v:.1f} LUFS" + ("" if -23 <= v <= -18 else "  <- outside -23..-18"))
+            notes.append(f"loudness {v:.1f} LUFS" + ("" if -23 <= v <= -18 else "  <- FAIL: outside -23..-18"))
+            if not -23 <= v <= -18: fails.append("loudness")
         if peak:
             v = float(peak.group(1))
-            notes.append(f"true peak {v:.1f} dBFS" + ("" if v <= -3 else "  <- above -3"))
+            notes.append(f"true peak {v:.1f} dBFS" + ("" if v <= -3 else "  <- FAIL: above -3"))
+            if v > -3: fails.append("true peak")
         clipped = int(np.sum(np.abs(wav) >= 0.999))
-        notes.append(f"clipped samples in the raw render: {clipped}" + ("" if clipped < 10 else "  <- check for distortion"))
-        quiet = np.abs(wav[np.abs(wav) < 0.02])
-        if len(quiet):
-            floor = 20 * np.log10(max(float(np.sqrt(np.mean(quiet ** 2))), 1e-9))
-            notes.append(f"noise floor about {floor:.0f} dBFS (raw)" + ("" if floor < -55 else "  <- hiss or hum between words?"))
-        return notes
+        notes.append(f"clipped samples in the raw render: {clipped}" + ("" if clipped < 10 else "  <- FAIL: check for distortion"))
+        if clipped >= 10: fails.append("clipping")
+        # Noise floor: the quiet stretches inside Chatterbox's own takes only. The pauses this script inserts are
+        # exact digital silence (zeros) and are left out, so they can't make the floor look quieter than it is.
+        win = int(SR * 0.05)
+        frames = wav[: len(wav) // win * win].reshape(-1, win)
+        live = frames[np.any(frames != 0, axis=1)]
+        if len(live):
+            rms = np.sqrt(np.mean(live ** 2, axis=1))
+            quiet = rms[rms < np.percentile(rms, 10) * 1.5]
+            floor = 20 * np.log10(max(float(np.median(quiet)), 1e-9))
+            notes.append(f"noise floor about {floor:.0f} dBFS (gaps inside takes)" + ("" if floor < -55 else "  <- hiss or hum between words? (listen)"))
+        return notes, fails
 
     if not os.path.exists(os.path.join(REFS, "Narrator.wav")):
         sys.exit("Missing Book 1/audiobook/Chatterbox/refs/Narrator.wav (the narrator reference clip).")
 
     if "--audition" in args:
-        notes = write(render(audition(), "audition"), os.path.join(OUT, "audition_cast.mp3" if use_cast else "audition.mp3"))
+        notes, fails = write(render(audition(), "audition"), os.path.join(OUT, "audition_cast.mp3" if use_cast else "audition.mp3"))
         print("; ".join(notes))
         for c in checks:
             print(c)
@@ -440,8 +458,10 @@ def main():
         h.update(json.dumps({"cast": use_cast, "narrator_ref": narrator_ref}).encode())
         digest = h.hexdigest()
         mp3 = os.path.join(OUT, f"{n:02d}" + ("_" + os.path.splitext(os.path.basename(narrator_ref))[0] if narrator_ref else "") + ".mp3")
-        if "--skip-done" in args and os.path.exists(mp3) and manifest.get(f"{n:02d}") == digest:
-            print(f"{n:02d}: up to date, skipped"); continue
+        prev = manifest.get(f"{n:02d}")
+        prev = prev if isinstance(prev, dict) else {"digest": prev, "status": "UNKNOWN"}
+        if "--skip-done" in args and os.path.exists(mp3) and prev.get("digest") == digest and prev.get("status") == "PASS":
+            print(f"{n:02d}: up to date and passed, skipped"); continue
         groups = []
         for s in json.load(open(src, encoding="utf-8"))["segments"]:
             if groups and s.get("para") and groups[-1][-1].get("para") == s["para"]:
@@ -449,17 +469,24 @@ def main():
             else:
                 groups.append([s])
         checks.clear(); stats.update(takes=0, passages=0)
-        notes = write(render(groups, f"chapter {n}"), mp3)
+        notes, fails = write(render(groups, f"chapter {n}"), mp3)
         doubtful = sum("STILL" in c for c in checks)
+        if asr is None:
+            status = "UNCHECKED"          # rendered with --no-words: a draft, never skipped as done
+        elif doubtful or fails:
+            status = "FAIL"
+        else:
+            status = "PASS"
+        reasons = ([f"{doubtful} passage(s) still doubtful"] if doubtful else []) + fails + (["no word check"] if asr is None else [])
         with open(os.path.join(OUT, f"{n:02d}_check.txt"), "w", encoding="utf-8") as fh:
-            fh.write(f"Chapter {n} quality check\n\n"
+            fh.write(f"Chapter {n} quality check: {status}" + (f" ({', '.join(reasons)})" if reasons else "") + "\n\n"
                      f"Word check: {'on' if asr else 'OFF (install faster-whisper)'}. Passages: {stats['passages']}; takes: {stats['takes']}.\n"
                      f"Still doubtful: {doubtful}. Fixed on a retry: {len(checks) - doubtful}.\n\n"
                      "Finished file:\n" + "\n".join("- " + x for x in notes) + "\n\n"
                      "Passages (listen to every STILL DOUBTFUL one; names are not checked by ear-free tools):\n"
                      + "\n".join(checks) + "\n")
-        print(f"{n:02d}: {doubtful} doubtful, {len(checks) - doubtful} fixed on retry; " + "; ".join(notes))
-        manifest[f"{n:02d}"] = digest
+        print(f"{n:02d}: {status}" + (f" ({', '.join(reasons)})" if reasons else "") + f"; {doubtful} doubtful, {len(checks) - doubtful} fixed on retry; " + "; ".join(notes))
+        manifest[f"{n:02d}"] = {"digest": digest, "status": status, "reasons": reasons}
         json.dump(manifest, open(man_path, "w"), indent=1)
 
 

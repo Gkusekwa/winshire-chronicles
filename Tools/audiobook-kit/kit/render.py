@@ -222,13 +222,33 @@ def same_word(a, b):
     return _SIM[key]
 
 
+# What changes the sound of a chapter, besides its script, its respellings and the narrator: bump this only when a
+# change to the renderer would make finished chapters sound different. (The renderer's own file isn't used: a fix to
+# the checks or the menu must not make days of finished chapters look out of date.)
+RENDER_VERSION = "chatterbox 0.1.7 / render 3"
+
+
 def name_words():
-    """Names (and their respellings) from the pronunciation file: a recogniser can't be expected to spell them, so
-    they count as matching whatever word was heard in their place. Each chapter's script adds its own names."""
+    """Names (and their respellings) from the pronunciation file, and the author's name: a recogniser can't be
+    expected to spell them, so they count as matching whatever word was heard in their place. Each chapter's script
+    adds its own names."""
     words = set()
     for g, a in name_pairs():
         words.update(norm_words(g)); words.update(norm_words(a))
+    words.update(norm_words(cfg.AUTHOR or ""))
     return words
+
+
+def join_split(hyp, ref):
+    """A recogniser often writes one word as two ("Goodluck" as "good luck", "hearthstone" as "hearth stone"): join
+    two heard words whose letters make a word of the script."""
+    want, out, i = set(ref), [], 0
+    while i < len(hyp):
+        if i + 1 < len(hyp) and hyp[i] + hyp[i + 1] in want and hyp[i] not in want:
+            out.append(hyp[i] + hyp[i + 1]); i += 2
+        else:
+            out.append(hyp[i]); i += 1
+    return out
 
 
 def word_errors(ref, hyp, wild):
@@ -403,7 +423,8 @@ def main():
         """Compare the words heard with the words written. Returns (why or None, error rate, details)."""
         if asr is None:
             return None, 0.0, []
-        ref, hyp = norm_words(text), norm_words(heard(audio))
+        ref = norm_words(text)
+        hyp = join_split(norm_words(heard(audio)), ref)
         if not ref:
             return None, 0.0, []
         errs, details = word_errors(ref, hyp, WILD)
@@ -574,13 +595,14 @@ def main():
         src = cfg.script_path(n)
         if not os.path.exists(src):
             print(f"{n:02d}: no script (no such chapter), skipped"); continue
-        # everything that changes the sound: the script, this renderer, the name respellings, the cast map,
-        # the narrator clip and the run's options
-        inputs = [src, __file__, ref_for("Narrator")] + ([cfg.NAMES] if cfg.NAMES and os.path.exists(cfg.NAMES) else [])
+        # everything that changes the sound, and nothing else: the script's segments, the name respellings, the
+        # narrator clip, the renderer's sound version and the run's options. (Not the files themselves: the kit
+        # adds bookkeeping to scripts and new names to the lexicon, and those mustn't make a chapter look changed.)
         h = hashlib.sha1()
-        for f in inputs:
-            h.update(open(f, "rb").read())
-        h.update(json.dumps({"cast": use_cast, "narrator_ref": narrator_ref}).encode())
+        h.update(json.dumps(json.load(open(src, encoding="utf-8"))["segments"], sort_keys=True, ensure_ascii=False).encode())
+        h.update(json.dumps(sorted([g, a] for g, a in name_pairs() if a), ensure_ascii=False).encode())
+        h.update(open(ref_for("Narrator"), "rb").read())
+        h.update(json.dumps({"cast": use_cast, "narrator_ref": narrator_ref, "render": RENDER_VERSION}).encode())
         digest = h.hexdigest()
         mp3 = os.path.join(OUT, f"{n:02d}.mp3")
         prev = manifest.get(f"{n:02d}")
@@ -589,6 +611,8 @@ def main():
             print(f"{n:02d}: up to date and passed, skipped"); continue
         script = json.load(open(src, encoding="utf-8"))
         WILD.clear(); WILD.update(BASE_NAMES | set(script.get("names", [])))
+        if n in (0, 99):          # the credits: the book's own title and series are names here
+            WILD.update(norm_words(cfg.TITLE + " " + cfg.SERIES))
         groups = []
         for s in script["segments"]:
             if groups and s.get("para") and groups[-1][-1].get("para") == s["para"]:

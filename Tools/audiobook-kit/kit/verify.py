@@ -151,6 +151,14 @@ def main():
         script = sdata["segments"]
         wild = base_names | set(sdata.get("names", []))
         ref = [w for s in script for w in rc.norm_words(s["text"])]
+        if sdata.get("chapter") in (0, 99):        # the credits: the book's own title and series are names here
+            wild = wild | set(rc.norm_words(cfg.TITLE + " " + cfg.SERIES))
+        joined = rc.join_split(heard, ref)
+        if len(joined) != len(heard):              # keep a time for each joined word
+            t2, i = [], 0
+            for w in joined:
+                t2.append(times[i]); i += 1 if w == heard[i] else 2
+            heard, times = joined, t2
         ops = align(ref, heard, wild)
 
         # group differences into places: a run of differences, allowing two matching words inside a run

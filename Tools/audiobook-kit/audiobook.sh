@@ -23,6 +23,7 @@
 #  10  put the chapter titles into chapters already built (tags only)   ... 10 all
 #  11  write the annotations with a free AI model on this Mac (Ollama)    ... 11 all   or  ... 11 2-10
 #  12  compare the AI with hand-made annotations, without saving        ... 12 5
+#  13  check the annotations after editing them by hand                 ... 13 all   or  ... 13 7
 # Everything it makes goes in "My Book/audiobook/": book.json, annotations/, Lexicon.csv, Performance/ and out/ (the MP3s and check reports)
 # (title, author, where the chapters are, names, narrator clip; made on the first run, edit it freely).
 set -e
@@ -77,7 +78,8 @@ if [ -z "$choice" ]; then
   echo " 10) Put the chapter titles into chapters already built"
   echo " 11) Write the annotations with the local AI (moods, who speaks, how)"
   echo " 12) Compare the local AI with hand-made annotations"
-  read -r -p "Choose 1-12: " choice
+  echo " 13) Check the annotations (after editing them by hand)"
+  read -r -p "Choose 1-13: " choice
 fi
 
 case "$choice" in
@@ -126,7 +128,11 @@ case "$choice" in
       python3 "$KIT/kit/director.py" --book "$BOOK" --compare "$chapters" --model "$model"
     fi
     exit 0 ;;
-  *) echo "Choose 1 to 12."; exit 1 ;;
+  13)
+    [ -n "$chapters" ] || read -r -p "Chapters to check (e.g. all, or 7): " chapters
+    python3 "$KIT/kit/check.py" --book "$BOOK" "$chapters" --strict
+    exit $? ;;
+  *) echo "Choose 1 to 13."; exit 1 ;;
 esac
 
 ensure_setup

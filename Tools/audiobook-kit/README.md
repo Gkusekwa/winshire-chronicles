@@ -25,6 +25,7 @@ Or copy the `audiobook-kit` folder next to a book's `Chapters/` and run `bash "M
  10) Put the chapter titles into chapters already built
  11) Write the annotations with the local AI (moods, who speaks, how)
  12) Compare the local AI with hand-made annotations
+ 13) Check the annotations (after editing them by hand)
 ```
 
 Or give the choice directly: `... 1 7` (chapter 7, verified), `... 3 2-10` or `... 3 2,5,9` (several), `... 5` (the whole book), `... 7 all` (verify everything built).
@@ -70,6 +71,7 @@ Everything goes in the book's `audiobook/` folder. The first three are yours to 
 - **spans:** one entry per quote and italic, numbered through the chapter (s1, s2, …), as `type:speaker>listener|how`. Only the type is needed. Types: `speech`, `bond` (mind-to-mind speech), `thought`, `remembered`, `written`, `verse`, `emphasis`, `term`.
 - **paragraphs:** a mood for the paragraphs that need one (p1, p2, … in order), with an optional note after `|`. Moods: action, tension, dread, quiet, reflective, tender, grief, humour, anger, urgent, awe. Most paragraphs need none.
 - **Edits to a chapter:** quotes and paragraphs are numbered by position, so an edit moves the numbers. Each file also keeps the words its annotations belong to (`anchors`), and after an edit the annotations follow their words to their new place; new quotes are filled in by the rules and listed, so you can check them.
+- **Checking your edits (option 13):** lists anything the kit can't use: a quote or italic with no annotation, an unknown type or mood, speech, bond speech, thoughts or remembered words with no speaker, bond speech with no listener, a chapter with no point of view.
 - **"auto": true** marks a file the kit made, which it remakes when its chapter changes. Delete that line once you've corrected the file, and the kit keeps it, only filling in quotes or italics added later (and saying so).
 
 **What the kit decides on its own** (`kit/directions.py`):

@@ -57,11 +57,14 @@ def _guess():
 
 
 def load():
-    os.makedirs(AUDIO, exist_ok=True)
     if os.path.exists(CONF):
         conf = {**_guess(), **json.load(open(CONF, encoding="utf-8"))}
     else:
         conf = _guess()
+        if not glob.glob(os.path.join(BOOK, conf["chapters"], "*.md")):
+            sys.exit(f"No chapters found in {BOOK}. Name the book's folder: --book \"My Book\" (the folder that holds"
+                     " its Chapters).")
+        os.makedirs(AUDIO, exist_ok=True)
         json.dump(conf, open(CONF, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         print(f"Made {os.path.relpath(CONF, BOOK)} with the settings below; edit it to change them.")
         for k, v in conf.items():

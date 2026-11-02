@@ -24,7 +24,7 @@ If a chapter's text changes, its paragraph and span numbering can shift. `python
 | `Scripts/*.ssml` | Standard SSML 1.1 for one narrator. Bond speech, thoughts, verse and written words get gentle prosody; paragraphs with a direction get a slight rate change; pauses are explicit, never over 3 s. Comments name the speaker of each paragraph. |
 | `Variants/google/` | SSML with names respelt inline, for engines without lexicon support. |
 | `Variants/azure/` | SSML wrapped in an Azure voice element (rebuild with `--variant azure --voice NAME` to change the voice). |
-| `Kokoro/` | A free, offline route: `python3 Tools/audiobook/render_kokoro.py N` renders chapter N with Kokoro (open source), Emma as narrator, names from `Lexicon_IPA.pls`. Setup is in the script's header. On a Mac, `bash Tools/audiobook/kokoro_mac.sh` does the setup and renders every chapter (or a range, e.g. `2-10`), skipping chapters already done, and keeps the Mac awake while it runs. The audio goes in `Kokoro/out/`, which git ignores. |
+| `Kokoro/` | A free, offline route in trial (not yet approved for the full book). `render_kokoro.py --audition` renders the same passages of every kind (narration, dialogue, bond speech, thought, grief, verse, short and long lines) in any voice, for choosing one; `render_kokoro.py N` renders chapter N. Emma is the working narrator; names come from `Lexicon_IPA.pls`. One even voice: speaker, mood and delivery directions are not voiced. On a Mac, run `bash Tools/audiobook/kokoro_mac.sh audition` first, then `bash Tools/audiobook/kokoro_mac.sh` for every chapter (it pins a supported Python, resumes, and keeps the Mac awake). Audio goes to `Kokoro/out/`, ignored by git. |
 | `ElevenLabs/` | The ElevenLabs production kit (below). |
 
 ## ElevenLabs

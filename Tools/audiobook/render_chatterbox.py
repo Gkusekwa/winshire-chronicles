@@ -6,10 +6,18 @@ numbers included):
 - The narrator reads everything, in Emma's voice, cloned from a short reference clip
   (`Book 1/audiobook/Chatterbox/refs/Narrator.wav`: a 12-second clip of Emma). With --cast, characters with a clip of their own in refs/
   speak in that voice.
-- Automatic anomaly check: each take's length is compared with what its text should take, and long silences inside it
-  are looked for. A take that looks wrong (often a skip, a repeat or a stall) is generated again, up to three tries;
-  anything still doubtful is listed in out/NN_check.txt. This cannot hear whether the words or names are right:
-  listening and proofreading remain the quality check, starting with the passages marked STILL DOUBTFUL.
+- Automatic checks on every take, before it is kept:
+  1. length: does it take about as long as its text should? (too short = skipped words; too long = repeats, babble)
+  2. silence: no gap over two seconds inside it (the model lost its place)
+  3. words: Whisper (faster-whisper, run locally) transcribes the take and it is compared word for word with the
+     script; more than about 1 word in 8 wrong means another take. Invented names count as matching, since a
+     recogniser can't spell them. Skip this with --no-words; choose the Whisper model with WORDCHECK_MODEL.
+  A take that fails is made again, up to three tries, and the best one kept; anything still doubtful is listed in
+  out/NN_check.txt, with the words that differed.
+- Checks on each finished chapter, also in out/NN_check.txt: loudness (about -19 LUFS), true peak (below -3 dBFS),
+  clipping, and the noise floor between words.
+- None of this replaces listening: names, emphasis and feeling need a human ear, starting with the STILL DOUBTFUL
+  passages.
 - Higher emotion intensity can also make Chatterbox speak faster: check pacing as well as feeling when listening.
 - Resume: out/manifest.json fingerprints each chapter's inputs (script, renderer, name respellings, cast map, narrator
   clip, options); --skip-done re-renders a chapter whenever any of them changed.
@@ -147,6 +155,62 @@ def chunks(text, limit=200):
     return out
 
 
+# ---------------- word check (speech recognition) ----------------
+def norm_words(text):
+    """Lowercase words without punctuation, for comparing what was said with what was written."""
+    text = text.lower().replace("\u2019", "'").replace("-", " ").replace("\u2014", " ").replace("\u2013", " ")
+    return [w.replace("'", "") for w in re.findall(r"[a-z0-9']+", text) if w.replace("'", "")]
+
+
+def name_words():
+    """Invented names (and their respellings): a recogniser can't be expected to spell them, so they count as
+    matching whatever word was heard in their place."""
+    words = set()
+    ns = {"p": "http://www.w3.org/2005/01/pronunciation-lexicon"}
+    for lx in ET.parse(os.path.join(AB, "Lexicon_Alias.pls")).getroot().findall("p:lexeme", ns):
+        for tag in ("p:grapheme", "p:alias"):
+            e = lx.find(tag, ns)
+            if e is not None and e.text:
+                words.update(norm_words(e.text))
+    try:
+        sys.path.insert(0, HERE)
+        from names import NAMES
+        for n in NAMES:
+            words.update(norm_words(n[0]))
+            if n[3]:
+                words.update(norm_words(n[3]))
+    except Exception:
+        pass
+    return words
+
+
+def word_errors(ref, hyp, wild):
+    """Word-level edit distance between the script (ref) and what was heard (hyp); script words in `wild` (names)
+    match any one heard word. Returns (errors, details) where details lists what went wrong."""
+    n, m = len(ref), len(hyp)
+    d = [[0] * (m + 1) for _ in range(n + 1)]
+    for i in range(n + 1):
+        d[i][0] = i
+    for j in range(m + 1):
+        d[0][j] = j
+    for i in range(1, n + 1):
+        for j in range(1, m + 1):
+            same = ref[i - 1] == hyp[j - 1] or ref[i - 1] in wild
+            d[i][j] = min(d[i - 1][j] + 1, d[i][j - 1] + 1, d[i - 1][j - 1] + (0 if same else 1))
+    # walk back for a short list of what differed
+    i, j, out = n, m, []
+    while i > 0 or j > 0:
+        if i > 0 and j > 0 and d[i][j] == d[i - 1][j - 1] + (0 if (ref[i - 1] == hyp[j - 1] or ref[i - 1] in wild) else 1):
+            if not (ref[i - 1] == hyp[j - 1] or ref[i - 1] in wild):
+                out.append(f"'{ref[i - 1]}'->'{hyp[j - 1]}'")
+            i, j = i - 1, j - 1
+        elif i > 0 and d[i][j] == d[i - 1][j] + 1:
+            out.append(f"missing '{ref[i - 1]}'"); i -= 1
+        else:
+            out.append(f"extra '{hyp[j - 1]}'"); j -= 1
+    return d[n][m], list(reversed(out))
+
+
 def main():
     args = sys.argv[1:]
     use_cast = "--cast" in args   # default: the narrator (Emma) reads everything
@@ -158,11 +222,22 @@ def main():
     device = "cuda" if torch.cuda.is_available() else ("mps" if torch.backends.mps.is_available() else "cpu")
     print("device:", device)
     model = ChatterboxTTS.from_pretrained(device=device)
+    asr = None
+    if "--no-words" not in args:
+        try:
+            from faster_whisper import WhisperModel
+            asr = WhisperModel(os.environ.get("WORDCHECK_MODEL", "small.en"), device="cpu", compute_type="int8")
+            print("word check: on (Whisper", os.environ.get("WORDCHECK_MODEL", "small.en") + ")")
+        except Exception as e:
+            print("word check: off (faster-whisper not available:", e, ")")
+    WILD = name_words()
+    MAX_WER = 0.12   # more than about 1 word in 8 wrong (names excluded) -> another take
     SR = model.sr
     subs = aliases()
     os.makedirs(OUT, exist_ok=True)
     conds = {}
     checks = []
+    stats = {"takes": 0, "passages": 0}
 
     narrator_ref = args[args.index("--narrator-ref") + 1] if "--narrator-ref" in args else None
 
@@ -196,6 +271,26 @@ def main():
                 return f"silence of {best * 0.05:.1f}s inside"
         return None
 
+    def heard(audio):
+        """What the recogniser hears in a take (16 kHz for Whisper)."""
+        x = np.interp(np.arange(0, len(audio), SR / 16000), np.arange(len(audio)), audio).astype(np.float32)
+        segs, _ = asr.transcribe(x, language="en", beam_size=1, vad_filter=False, condition_on_previous_text=False)
+        return " ".join(sg.text for sg in segs)
+
+    def word_problem(audio, text):
+        """Compare the words heard with the words written. Returns (why or None, error rate, details)."""
+        if asr is None:
+            return None, 0.0, []
+        ref, hyp = norm_words(text), norm_words(heard(audio))
+        if not ref:
+            return None, 0.0, []
+        errs, details = word_errors(ref, hyp, WILD)
+        rate = errs / len(ref)
+        # short lines: allow one slip of the recogniser itself
+        if rate > MAX_WER and errs > (1 if len(ref) <= 8 else 0):
+            return f"words differ ({errs} of {len(ref)}: {', '.join(details[:6])})", rate, details
+        return None, rate, details
+
     def say(text, role, exaggeration, cfg):
         key = role
         if key not in conds:
@@ -206,12 +301,17 @@ def main():
         for attempt in range(3):
             wav = model.generate(text, exaggeration=exaggeration, cfg_weight=cfg)
             audio = wav.squeeze(0).cpu().numpy().astype(np.float32)
-            why = problem(audio, text)
-            takes.append((why, audio))
+            why = problem(audio, text)          # length and silence
+            rate = 0.0
+            if why is None:
+                why, rate, _ = word_problem(audio, text)   # the words themselves
+            takes.append((why, rate, audio))
+            stats["takes"] += 1
             if why is None:
                 break
         expect = len(text) / CHARS_PER_SEC
-        why, audio = min(takes, key=lambda t: (t[0] is not None, abs(len(t[1]) / SR - expect)))
+        why, rate, audio = min(takes, key=lambda t: (t[0] is not None, t[1], abs(len(t[2]) / SR - expect)))
+        stats["passages"] += 1
         if len(takes) > 1 or why:
             checks.append(f"{'STILL DOUBTFUL' if why else 'fixed on retry'} ({len(takes)} tries; {why or takes[0][0]}): {text}")
         return audio
@@ -283,12 +383,39 @@ def main():
         os.remove(tmp)
         os.replace(partial, mp3)
         print(f"\n{os.path.relpath(mp3, REPO)}: {len(wav) / SR / 60:.1f} min")
+        return file_checks(mp3, wav)
+
+    def file_checks(mp3, wav):
+        """Checks on the finished file: loudness and peaks (audiobook stores ask for about -18 to -23 LUFS and
+        peaks below -3 dB), clipping in the raw take, the noise floor, and the length."""
+        notes = []
+        r = subprocess.run(["ffmpeg", "-hide_banner", "-nostats", "-i", mp3, "-af", "ebur128=peak=true", "-f", "null", "-"],
+                           capture_output=True, text=True)
+        tail = r.stderr[r.stderr.rfind("Summary:"):]
+        lufs = re.search(r"I:\s+(-?[\d.]+) LUFS", tail)
+        peak = re.search(r"Peak:\s+(-?[\d.]+) dBFS", tail)
+        if lufs:
+            v = float(lufs.group(1))
+            notes.append(f"loudness {v:.1f} LUFS" + ("" if -23 <= v <= -18 else "  <- outside -23..-18"))
+        if peak:
+            v = float(peak.group(1))
+            notes.append(f"true peak {v:.1f} dBFS" + ("" if v <= -3 else "  <- above -3"))
+        clipped = int(np.sum(np.abs(wav) >= 0.999))
+        notes.append(f"clipped samples in the raw render: {clipped}" + ("" if clipped < 10 else "  <- check for distortion"))
+        quiet = np.abs(wav[np.abs(wav) < 0.02])
+        if len(quiet):
+            floor = 20 * np.log10(max(float(np.sqrt(np.mean(quiet ** 2))), 1e-9))
+            notes.append(f"noise floor about {floor:.0f} dBFS (raw)" + ("" if floor < -55 else "  <- hiss or hum between words?"))
+        return notes
 
     if not os.path.exists(os.path.join(REFS, "Narrator.wav")):
         sys.exit("Missing Book 1/audiobook/Chatterbox/refs/Narrator.wav (the narrator reference clip).")
 
     if "--audition" in args:
-        write(render(audition(), "audition"), os.path.join(OUT, "audition_cast.mp3" if use_cast else "audition.mp3"))
+        notes = write(render(audition(), "audition"), os.path.join(OUT, "audition_cast.mp3" if use_cast else "audition.mp3"))
+        print("; ".join(notes))
+        for c in checks:
+            print(c)
         return
 
     chapters = []
@@ -321,12 +448,17 @@ def main():
                 groups[-1].append(s)
             else:
                 groups.append([s])
-        checks.clear()
-        write(render(groups, f"chapter {n}"), mp3)
+        checks.clear(); stats.update(takes=0, passages=0)
+        notes = write(render(groups, f"chapter {n}"), mp3)
+        doubtful = sum("STILL" in c for c in checks)
         with open(os.path.join(OUT, f"{n:02d}_check.txt"), "w", encoding="utf-8") as fh:
-            fh.write(f"Chapter {n}: passages that needed another take or still look doubtful ({len(checks)}).\n"
-                     "Listen to the STILL DOUBTFUL ones.\n\n" + "\n".join(checks) + "\n")
-        print(f"{n:02d}: {sum('STILL' in c for c in checks)} doubtful, {sum('fixed' in c for c in checks)} fixed on retry")
+            fh.write(f"Chapter {n} quality check\n\n"
+                     f"Word check: {'on' if asr else 'OFF (install faster-whisper)'}. Passages: {stats['passages']}; takes: {stats['takes']}.\n"
+                     f"Still doubtful: {doubtful}. Fixed on a retry: {len(checks) - doubtful}.\n\n"
+                     "Finished file:\n" + "\n".join("- " + x for x in notes) + "\n\n"
+                     "Passages (listen to every STILL DOUBTFUL one; names are not checked by ear-free tools):\n"
+                     + "\n".join(checks) + "\n")
+        print(f"{n:02d}: {doubtful} doubtful, {len(checks) - doubtful} fixed on retry; " + "; ".join(notes))
         manifest[f"{n:02d}"] = digest
         json.dump(manifest, open(man_path, "w"), indent=1)
 

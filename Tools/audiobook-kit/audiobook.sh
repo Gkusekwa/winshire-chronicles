@@ -26,6 +26,7 @@
 #  13  check the annotations after editing them by hand                 ... 13 all   or  ... 13 7
 #  14  accept chapters after listening (marks them PASS, so they're kept)  ... 14 7   or  ... 14 2-10
 #  15  scan the scripts for lines likely to go wrong, before building    ... 15
+#  16  export the passing chapters for upload, with full names            ... 16   (audiobook/release/)
 # Everything it makes goes in "My Book/audiobook/": book.json, annotations/, Lexicon.csv, Performance/ and out/ (the MP3s and check reports)
 # (title, author, where the chapters are, names, narrator clip; made on the first run, edit it freely).
 set -e
@@ -83,7 +84,8 @@ if [ -z "$choice" ]; then
   echo " 13) Check the annotations (after editing them by hand)"
   echo " 14) Accept chapters after listening to their doubtful lines"
   echo " 15) Scan the scripts for lines likely to go wrong"
-  read -r -p "Choose 1-15: " choice
+  echo " 16) Export the finished chapters for upload, with full names"
+  read -r -p "Choose 1-16: " choice
 fi
 
 case "$choice" in
@@ -144,7 +146,10 @@ case "$choice" in
   15)
     python3 "$KIT/kit/scan.py" --book "$BOOK"
     exit 0 ;;
-  *) echo "Choose 1 to 15."; exit 1 ;;
+  16)
+    python3 "$KIT/kit/export.py" --book "$BOOK" $chapters
+    exit 0 ;;
+  *) echo "Choose 1 to 16."; exit 1 ;;
 esac
 
 ensure_setup

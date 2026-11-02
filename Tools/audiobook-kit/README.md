@@ -28,6 +28,7 @@ Or copy the `audiobook-kit` folder next to a book's `Chapters/` and run `bash "M
  13) Check the annotations (after editing them by hand)
  14) Accept chapters after listening to their doubtful lines
  15) Scan the scripts for lines likely to go wrong
+ 16) Export the finished chapters for upload, with full names
 ```
 
 Or give the choice directly: `... 1 7` (chapter 7, verified), `... 3 2-10` or `... 3 2,5,9` (several), `... 5` (the whole book), `... 7 all` (verify everything built).
@@ -55,7 +56,8 @@ Everything goes in the book's `audiobook/` folder. The first three are yours to 
 | `annotations/chNN.json` | For every quote and italic in the chapter: what kind of words it is, who says it and how. For the paragraphs that need one: a mood. Made by the kit where missing; correct them by hand. |
 | `Lexicon.csv` | The names: Name, Respelling (what the narrator reads), Say (a guide such as OR-veth), IPA, Notes. The kit adds names it finds; fill in a respelling for any the narrator gets wrong. |
 | `Performance/NN.json` | The reading scripts, one per chapter: the titles, then every paragraph as segments with type, speaker, delivery, mood and pause. Made from the chapters, annotations and lexicon on every run (keep them out of git; they can always be made again). `00` and `99` are the opening and closing credits. |
-| `out/NN.mp3` | The finished chapters (44.1 kHz MP3, loudness-normalised to about -19 LUFS), tagged with the chapter's title ("Chapter 7: The Ferry"), the book, the author and the track number. |
+| `out/NN.mp3` | The working files (numbered, so the reports and the record of what's done hang off a number that never changes): the finished chapters (44.1 kHz MP3, loudness-normalised to about -19 LUFS), tagged with the chapter's title ("Chapter 7: The Ferry"), the book, the author and the track number. |
+| `release/` | The chapters ready to upload, with full names (`The Watch Below - 01 - Chapter 1 - The Unchosen Yard.mp3`), made by option 16 from the chapters marked PASS (by the checks, or accepted after listening). Run it again after more chapters pass; it brings the folder up to date. `... 16 --drafts` also exports the rest, marked DRAFT. |
 | `out/NN_check.txt`, `out/NN_verify.txt`, `out/manifest.json` | The check reports, and what was built from what with each chapter's status. |
 
 ## The chapters

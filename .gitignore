@@ -12,3 +12,4 @@ Book */*/*.pdf
 Book */audiobook/out/
 Book */audiobook-kit/
 Book */audiobook/Performance/
+Book */audiobook/release/

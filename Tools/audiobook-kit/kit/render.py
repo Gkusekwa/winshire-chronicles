@@ -380,7 +380,7 @@ def main():
     os.makedirs(OUT, exist_ok=True)
     conds = {}
     checks = []
-    stats = {"takes": 0, "passages": 0}
+    stats = {"takes": 0, "passages": 0, "flat": 0}
 
     narrator_ref = args[args.index("--narrator-ref") + 1] if "--narrator-ref" in args else None
 
@@ -445,6 +445,14 @@ def main():
         for attempt in range(TRIES):
             wav = model.generate(text, exaggeration=exaggeration, cfg_weight=cfg)
             audio = wav.squeeze(0).cpu().numpy().astype(np.float32)
+            # Chatterbox's own take, before any volume change: flat tops (three or more samples in a row at full
+            # scale) are real distortion. (Loud lines are turned up later in floating point and levelled down
+            # again, which can't distort, so they aren't counted.)
+            hot = np.abs(audio) >= 0.999
+            if hot.any():
+                runs = np.diff(np.concatenate(([0], hot.astype(np.int8), [0])))
+                lengths = np.flatnonzero(runs == -1) - np.flatnonzero(runs == 1)
+                stats["flat"] += int(np.sum(lengths >= 3))
             why = problem(audio, text)          # length and silence
             rate = 0.0
             if why is None:
@@ -548,9 +556,14 @@ def main():
             v = float(peak.group(1))
             notes.append(f"true peak {v:.1f} dBFS" + ("" if v <= -3 else "  <- FAIL: above -3"))
             if v > -3: fails.append("true peak")
-        clipped = int(np.sum(np.abs(wav) >= 0.999))
-        notes.append(f"clipped samples in the raw render: {clipped}" + ("" if clipped < 10 else "  <- FAIL: check for distortion"))
-        if clipped >= 10: fails.append("clipping")
+        # clipping: in the finished file (decoded), and flat tops in Chatterbox's own takes
+        raw = subprocess.run(["ffmpeg", "-loglevel", "error", "-i", mp3, "-ac", "1", "-f", "f32le", "-"],
+                             capture_output=True, check=True).stdout
+        clipped = int(np.sum(np.abs(np.frombuffer(raw, dtype=np.float32)) >= 0.999))
+        flat = stats.get("flat", 0)
+        notes.append(f"clipped samples in the finished file: {clipped}; flat-topped peaks in the takes: {flat}"
+                     + ("" if clipped < 10 and flat < 5 else "  <- FAIL: listen for distortion"))
+        if clipped >= 10 or flat >= 5: fails.append("clipping")
         # Noise floor: the quiet stretches inside Chatterbox's own takes only. The pauses this script inserts are
         # exact digital silence (zeros) and are left out, so they can't make the floor look quieter than it is.
         win = int(SR * 0.05)
@@ -619,7 +632,7 @@ def main():
                 groups[-1].append(s)
             else:
                 groups.append([s])
-        checks.clear(); stats.update(takes=0, passages=0)
+        checks.clear(); stats.update(takes=0, passages=0, flat=0)
         notes, fails = write(render(groups, f"chapter {n}"), mp3)
         print(f"{n:02d}: tagged \"{tag_mp3(mp3, n)}\"")
         doubtful = sum("STILL" in c for c in checks)

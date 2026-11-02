@@ -1,5 +1,3 @@
-# Places and Words
-
 ## Places and words
 
 **Winshire**: the old name for the whole land, from before it split into six kingdoms. Most people only meet it in songs.

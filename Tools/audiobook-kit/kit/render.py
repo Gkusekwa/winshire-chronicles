@@ -453,6 +453,30 @@ def main():
     use_cast = False              # one narrator reads everything
     prepare.main(quiet=True)      # make or refresh the scripts from the chapters
     import numpy as np, torch
+    import gc, time
+
+    def free_memory():
+        """Give the graphics memory PyTorch has cached back to the system. On a Mac (MPS) it otherwise keeps
+        growing over hours of rendering, until the system runs out (Book 1 ch5: 37 GB)."""
+        gc.collect()
+        try:
+            if torch.backends.mps.is_available():
+                torch.mps.empty_cache()
+            if torch.cuda.is_available():
+                torch.cuda.empty_cache()
+        except Exception:
+            pass
+
+    def generate(text, exaggeration, cfg):
+        """One take; if memory runs out, free what can be freed, wait, and try again (twice) before giving up."""
+        for attempt in range(3):
+            try:
+                return model.generate(text, exaggeration=exaggeration, cfg_weight=cfg)
+            except RuntimeError as e:
+                if "out of memory" not in str(e) or attempt == 2:
+                    raise
+                print(f"\n  (memory ran short; freeing it and trying that take again)", flush=True)
+                free_memory(); time.sleep(10)
     import perth
     if perth.PerthImplicitWatermarker is None:
         sys.exit("Chatterbox's watermarker didn't load (it needs pkg_resources). Run: ~/chatterbox/venv/bin/pip install 'setuptools<81'")
@@ -551,7 +575,7 @@ def main():
         # very short lines (three words or fewer) are the ones that go wrong most: up to six tries for those
         tries = TRIES if TRIES == 1 or len(norm_words(text)) > 3 else 2 * TRIES
         for attempt in range(tries):
-            wav = model.generate(text, exaggeration=exaggeration, cfg_weight=cfg)
+            wav = generate(text, exaggeration, cfg)
             audio = wav.squeeze(0).cpu().numpy().astype(np.float32)
             # Chatterbox's own take, before any volume change: flat tops (three or more samples in a row at full
             # scale) are real distortion. (Loud lines are turned up later in floating point and levelled down
@@ -633,6 +657,7 @@ def main():
                     parts.append(np.zeros(int(SR * 0.15), dtype=np.float32))
             parts.append(np.zeros(int(SR * group[-1].get("pause_after_ms", 300) / 1000), dtype=np.float32))
             print(f"\r{label}: {i + 1}/{len(groups)}", end="", flush=True)
+            free_memory()
         return np.concatenate(parts)
 
     def write(wav, mp3):
@@ -763,6 +788,7 @@ def main():
         print(f"{n:02d}: {status}" + (f" ({', '.join(reasons)})" if reasons else "") + f"; {doubtful} doubtful, {len(checks) - doubtful} fixed on retry; " + "; ".join(notes))
         manifest[f"{n:02d}"] = {"digest": digest, "status": status, "reasons": reasons}
         json.dump(manifest, open(man_path, "w"), indent=1)
+        free_memory()
 
 
 if __name__ == "__main__":

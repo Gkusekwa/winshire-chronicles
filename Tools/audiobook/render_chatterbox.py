@@ -221,6 +221,11 @@ def main():
         return np.frombuffer(r.stdout, dtype=np.float32)
 
     def runs(group):
+        """One reading per paragraph when Emma reads everything: Chatterbox garbles a word or two said alone
+        (“Again,”), so speech is never split from the narration around it. With --cast, a character's lines
+        go to their own voice."""
+        if not use_cast:
+            return [("Narrator", list(group))]
         out = []
         for s in group:
             role = (castmap.role_of(s["speaker"]) if use_cast and s.get("speaker") and kind(s) in ("speech", "bond")
@@ -239,7 +244,8 @@ def main():
                 text = text_of(segs, subs)
                 if not text:
                     continue
-                style = kind(segs[0])
+                kinds = {kind(x) for x in segs}
+                style = kinds.pop() if len(kinds) == 1 else "narration"   # bond, thought... only if the whole run is
                 ex, cfg = MOOD.get(segs[0].get("mood"), MOOD[None])
                 gain = GAIN.get(style, 0.0)
                 how = " ".join(s.get("how") or "" for s in segs).lower()

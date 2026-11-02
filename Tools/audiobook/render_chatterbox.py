@@ -164,10 +164,72 @@ def chunks(text, limit=200):
 
 
 # ---------------- word check (speech recognition) ----------------
+_ONES = "zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen".split()
+_TENS = "_ _ twenty thirty forty fifty sixty seventy eighty ninety".split()
+_ORD = {"first": "one", "third": "three", "fifth": "five", "eighth": "eight", "ninth": "nine", "twelfth": "twelve",
+        **{w + "th": w for w in "four six seven ten eleven thirteen fourteen fifteen sixteen seventeen eighteen nineteen hundred thousand".split()},
+        **{w[:-1] + "ieth": w for w in "twenty thirty forty fifty sixty seventy eighty ninety".split()}}
+
+
+def _num_words(n):
+    """1 -> one, 42 -> forty two, 1,200 -> one thousand two hundred (recognisers write numbers as digits)."""
+    if n < 20:
+        return _ONES[n]
+    if n < 100:
+        return _TENS[n // 10] + ("" if n % 10 == 0 else " " + _ONES[n % 10])
+    if n < 1000:
+        return _ONES[n // 100] + " hundred" + ("" if n % 100 == 0 else " " + _num_words(n % 100))
+    if n < 1000000:
+        return _num_words(n // 1000) + " thousand" + ("" if n % 1000 == 0 else " " + _num_words(n % 1000))
+    return str(n)
+
+
 def norm_words(text):
-    """Lowercase words without punctuation, for comparing what was said with what was written."""
+    """Lowercase words without punctuation, numbers spelt out, for comparing what was said with what was written."""
     text = text.lower().replace("\u2019", "'").replace("-", " ").replace("\u2014", " ").replace("\u2013", " ")
-    return [w.replace("'", "") for w in re.findall(r"[a-z0-9']+", text) if w.replace("'", "")]
+    text = re.sub(r"(\d),(\d{3})", r"\1\2", text)
+    text = re.sub(r"\d+(st|nd|rd|th)?", lambda m: " " + _num_words(int(re.match(r"\d+", m.group()).group())) + " ", text)
+    words = [w.replace("'", "") for w in re.findall(r"[a-z']+", text) if w.replace("'", "")]
+    # numbers said in words: ordinals as cardinals (tenth -> ten), no "and" or "a/one" before hundred/thousand,
+    # so "the hundred-and-tenth day" and "the 110th day" compare equal
+    out = []
+    for w in words:
+        w = _ORD.get(w, w)
+        if w == "second" and out and (out[-1] in _TENS or out[-1] in ("hundred", "thousand")):
+            w = "two"      # forty-second -> forty two; "a second" stays a word
+        if w == "and" and out and out[-1] in ("hundred", "thousand"):
+            continue
+        if w in ("hundred", "thousand") and out and out[-1] in ("a", "one"):
+            out.pop()
+        out.append(w)
+    return out
+
+
+_SIM = {}
+
+
+def same_word(a, b):
+    """Equal, or near enough to be a spelling variant (Ottery's / Otterys / Otteries): same first letter and at
+    most one edit per three letters. Short words must match exactly."""
+    if a == b:
+        return True
+    if len(a) < 4 or len(b) < 4 or a[0] != b[0]:
+        return False
+    key = (a, b)
+    if key not in _SIM:
+        la, lb = len(a), len(b)
+        limit = max(1, min(la, lb) // 3)
+        if abs(la - lb) > limit:
+            _SIM[key] = False
+        else:
+            prev = list(range(lb + 1))
+            for i in range(1, la + 1):
+                cur = [i] + [0] * lb
+                for j in range(1, lb + 1):
+                    cur[j] = min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] != b[j - 1]))
+                prev = cur
+            _SIM[key] = prev[lb] <= limit
+    return _SIM[key]
 
 
 def name_words():
@@ -203,13 +265,13 @@ def word_errors(ref, hyp, wild):
         d[0][j] = j
     for i in range(1, n + 1):
         for j in range(1, m + 1):
-            same = ref[i - 1] == hyp[j - 1] or ref[i - 1] in wild
+            same = same_word(ref[i - 1], hyp[j - 1]) or ref[i - 1] in wild
             d[i][j] = min(d[i - 1][j] + 1, d[i][j - 1] + 1, d[i - 1][j - 1] + (0 if same else 1))
     # walk back for a short list of what differed
     i, j, out = n, m, []
     while i > 0 or j > 0:
-        if i > 0 and j > 0 and d[i][j] == d[i - 1][j - 1] + (0 if (ref[i - 1] == hyp[j - 1] or ref[i - 1] in wild) else 1):
-            if not (ref[i - 1] == hyp[j - 1] or ref[i - 1] in wild):
+        if i > 0 and j > 0 and d[i][j] == d[i - 1][j - 1] + (0 if (same_word(ref[i - 1], hyp[j - 1]) or ref[i - 1] in wild) else 1):
+            if not (same_word(ref[i - 1], hyp[j - 1]) or ref[i - 1] in wild):
                 out.append(f"'{ref[i - 1]}'->'{hyp[j - 1]}'")
             i, j = i - 1, j - 1
         elif i > 0 and d[i][j] == d[i - 1][j] + 1:

@@ -5,6 +5,7 @@ Tale: 13 (Within Book 2), first wave; the series' great loss, from inside
 POV: the Old Reader, the speaking bird of the Long Library
 When: Book 2, its last night and day: night 176 to the afternoon of day 177 (ch 39), with three hundred years of memory underneath (Book 2 ch 3, 8, 28/29, 31, 32, 34, 36 seen from the perch). The plan says "last night"; ch 39 is set in the afternoon, so the tale spans the night before and ends on the afternoon.
 Status: first draft (Oct 2026), about 13,000 words
+Canon-checked against the books: 29 Oct 2026.
 Depends on: Book 2 ch 3 (the breaking; glass in his hair; "Then the door is open"; the green glasses refused, "Good. That's the right answer"), 8 (the thread from his hem), 28–29 (the walk to the window on day 135; "Maren Ashdown"; "Not yet, ferryman"), 31 (night 138; "please"; the panel and the case; three hundred and four years; the working-words; "Because the door is open... I am tired of keeping them by myself"), 32 (day 140; "Door-keeper"; the black book's stubs; "He cut out the cat"; *together*), 34 (day 152; the telling, once, from the archivist's letter; Orrun stands at the cat; Ennis; the bronze; "Ask your farmer"), 36 (night 160; the dry dish and the whitefish; "a list of corrections"; "Keeping a thing is easy... Reading it is the work"; the window offered and declined; the Titan into the hill at noon on day 172; the surge that night), 37 (the five days; the Coil rising mid-morning of day 177; Idony leaving the wall for the hill), 38 (the hunters and dragons on the hill; the binder burned off the bronze running into the Library; the drawer's first blow; the slates), 39 (the whole of the end: the case taken out and stood on; the captain's words; the net; the cage; the window not taken; Idony in front; the coin; "Corvin"; the drawer; three bolts from six paces; "Ferryman." "Ask." "Ask, ferryman. Ask everything."); Bestiary and Atlas (an ancient raven-like beast that learned human speech over centuries of listening to scholars; hasn't flown in living memory).
 Must not reveal: more than Book 2 ch 34 tells. Nothing of where the ring with six hollows went, of the lock's sentence beyond *together*, of the Unbound beyond the name, or of what the bird was waiting for; no Council of Immortals; no hint that Titans survive.
 Decided here:
@@ -50,7 +51,7 @@ Every lamp in the Long Library was burning white.
 
 They had burned white all summer, from the door to the hill end, with the hill full under them and humming. Then at noon four days ago they had gone out all at once, every one, in a single breath, and the hum with them. And that night they had come back. Whiter than before. Hard and cold and wrong, half a league of them in their iron cages down the length of the hall, so bright the shadows of the shelves lay on the floor like ink spilled from a ruler.
 
-The hum had come back too. It wasn't the hum of the summer, the long even note in the stone that the bird had felt through its feet on the oak for fifty days and grown almost fond of. This one came and went. It came up through the floor in knocks. Like a junior trying to keep time with his pen on the desk, badly, while he thought about something else.
+The hum had come back too. It wasn't the hum of the summer, the long even note in the stone that the bird had felt through its feet on the oak for fifty-six days and grown almost fond of. This one came and went. It came up through the floor in knocks. Like a junior trying to keep time with his pen on the desk, badly, while he thought about something else.
 
 And there was frost.
 
@@ -312,7 +313,7 @@ It had listened. It didn't interrupt. It never did with him; he told things in t
 
 And then it had asked him where the hole was, though it knew, because it wanted to hear a person say it.
 
-"Under Hearthmere," he'd said. "Under the river hill on the border. Where Greyhold is."
+"Under Hearthmere," he'd said. "Under the river hill on the border. Where Greyhold is. The knights' school."
 
 And the bird had gone flat.
 
@@ -336,7 +337,7 @@ And it had laughed. It hadn't known it was going to. A dry sound, out of its che
 
 *Good. That's the right answer. Remember you gave it.*
 
-*Footnote: two days later the Blue College took the glasses anyway, and all forty-one ledgers, and the bird thought that the ferryman would come up the hall that afternoon to say so and he did not. He did not come for ten days. When he came he sat on the floor at the foot of the perch for an hour and said nothing, and the bird said nothing, and toward the end of the hour it leaned down and took a loose thread from the hem of his coat in its beak, where something stiff was sewn into the lining, and pulled it, gently, and he put his hand over the place. It let go. It had only wanted to know he had kept something.*
+*Footnote: two days later the Blue College took the glasses anyway, and all forty-one ledgers, and the bird thought that the ferryman would come up the hall that afternoon to say so and he did not. He did not come for twelve days. When he came he sat on the floor at the foot of the perch for an hour and said nothing, and the bird said nothing, and toward the end of the hour it leaned down and took a loose thread from the hem of his coat in its beak, where something stiff was sewn into the lining, and pulled it, gently, and he put his hand over the place. It let go. It had only wanted to know he had kept something.*
 
 ---
 

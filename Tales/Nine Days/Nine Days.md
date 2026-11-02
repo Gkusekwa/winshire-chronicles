@@ -5,6 +5,7 @@ Tale: 18 (Within Book 2)
 POV: Wren Fenn, Calder's daughter, ten
 When: Book 2, the hatching caves above Coldtarn: the yearling's coming (day 186), the winter and midwinter (279–281), and the nine days of the rule (306–314) to the naming (316)
 Status: first draft (Oct 2026), about 9,000 words
+Canon-checked against the books: 29 Oct 2026.
 Depends on: Book 2 ch 12 (the caves: the warm floor, the bowls, the stream to the tarn, the winterers; "she wouldn't come in"), 21 (the Choosing Ledge; Wren in the yard with Old Grey "like a wall"; four young dragons taken), 33 and 38 (the yearling in the Fells; the roof at Vael; barley, "it goes all one way, like water"; she lies down between Calder and Lisska), 40 (the collar struck off), 43 (day 186: the yearling brought to the caves; Gunna: "She's gone back in. Some come out again. Some don't."; Wren at the edge of the dark), 52 (Wren's letter, day 279; midwinter, day 281: Papa walking up, the greys, the song, "Sing it twice"; the yearling standing, Gunna's "like a horse asleep"; the upturned bowl an arm's length off), 54 (Ada's throat is sore at the new moon), 56 (the black and the red from Blackwater), 62 (all of it: three bowls, the rule, an hour each morning and afternoon, the order; the black and "bored of not looking"; barley; Calder home on 313 and watching from the mouth; the ninth day, 314, late afternoon, the head, the chirr, "She said something. Papa. She said something.", "I heard."; the mutton on 315; lying down on 316; "That one's come back"; the naming at the fire at dusk on 316, "Say it twice", the head lifting), 87 and 88; Book 3 ch 2, 5, 18 (Ildra's look: small, dark red going red-gold in light, pale belly, a stub of broken horn over one eye; the kettle chirr). Magic.md §6.5. Bestiary (dragons speak only to a bonded partner and to kin in sight: Wren hears none of it).
 Must not reveal: nothing listed in the Plan. Kept to Book 2's ground: Ildra is not bonded and is nobody's; nothing of her choosing in Book 3; Wren's voice is never named as anything (Book 2 ch 82 says it only from Calder's side); no reason is given for why Wren says things twice.
 Decided here:
@@ -16,7 +17,7 @@ Decided here:
 - What Wren hears in the chirr is a sound with a turn in it, "ildra"; Calder hears only the kettle.
 - Wren remembers the Choosing Ledge night from the yard only as smoke and torchlight and Old Grey's chest at her back; she does not know whether the little red one was one she saw.
 - Gunna and Tamsin got home to the caves two days ahead of Brede and the two young ones (ch 56's notes say they went home "with Gunna"; ch 62 shows only Brede and two riders bringing them, and this follows ch 62). Before Blackwater Calder told Wren there were three; two came.
-- Calder stayed one night at the caves on day 186 before going down to the hold.
+- Calder stayed at the caves on day 186 until late afternoon, then went down to the hold before dusk (Book 2 ch 43: Aurveth shown the name on the setters' ledge at dusk; Ada reads that night).
 - The collar's mark on Ildra: a band of scales round her neck rubbed dull, that does not shine in the light as the rest of her does.
 notes -->
 
@@ -26,7 +27,7 @@ On the ledges they say the hatching caves were warm before there was a Clan to s
 
 Wren didn't know the saying. She knew the floor.
 
-She knew that if you lay on it with your cheek flat you could feel it humming, very low, too low to hear, like Bel's big kettle on the back of the fire before it thought about boiling. She knew which bowls were cold at the bottom and which were warm, and that the warmest were nearest the back, where the spring came up out of the rock and steamed and went off down its channel to the cave mouth and over the edge to the tarn. She knew that the water in the channel was warm enough to put your feet in until you'd counted fifty, and then it wasn't. She knew where the roof dripped. She had lived in the caves since the autumn with Gunna Tarne and Gunna's old dragon and the boy Leif, and the winterers at the back, and Old Grey, and she knew the caves better than she knew the hold six leagues down, where Papa was, and Aunt Bel, and Pip and Nan, and the dogs under the bench.
+She knew that if you lay on it with your cheek flat you could feel it humming, very low, too low to hear, like Bel's big kettle on the back of the fire before it thought about boiling. She knew which bowls were cold at the bottom and which were warm, and that the warmest were nearest the back, where the spring came up out of the rock and steamed and went off down its channel to the cave mouth and over the edge to the tarn. She knew that the water in the channel was warm enough to put your feet in until you'd counted fifty, and then it wasn't. She knew where the roof dripped. She had lived in the caves since the spring with Gunna Tarne and Gunna's old dragon and the boy Leif, and the winterers at the back, and Old Grey, and she knew the caves better than she knew the hold six leagues down, where Papa was, and Aunt Bel, and Pip and Nan, and the dogs under the bench.
 
 She knew the little red one best of all, and the little red one didn't know anything.
 
@@ -54,9 +55,9 @@ The little red one walked in past them both. She didn't look at Wren. She didn't
 
 He came and stood behind Wren and put his hand on her head. His hand smelled of Kharrak, which was hot stone and smoke, and of a long way off. She didn't say anything. She stood in the warm air that came out of the hill and looked at the little red one by the spring, and stored it.
 
-Papa stayed one night. He told Gunna things by the fire that Wren pretended to be asleep for. A roof. A drowned city. A man on some steps who didn't move. When Papa said the man on the steps, Gunna nodded as if she'd expected him.
+Papa stayed till the afternoon went. He told Gunna things by the fire that Wren pretended not to hear. A roof. A drowned city. A man on some steps who didn't move. When Papa said the man on the steps, Gunna nodded as if she'd expected him.
 
-In the morning he went down to the hold with the old one's name on a paper in his coat, and Lisska went with him, and the little red one didn't lift her head.
+Before dusk he went down to the hold with the old one's name on a paper in his coat, and Lisska went with him, and the little red one didn't lift her head.
 
 ---
 
@@ -74,7 +75,7 @@ He was standing behind her now. He stood behind her wherever she went. Nobody to
 
 ---
 
-Lisska came and went that autumn, with Papa's letters to the lion-woman tied on her leg. When she was at the caves she lay on the warm ledge by the fire, where she always lay, and at night she went down to the back and lay against the little red one and hummed.
+Lisska came and went that autumn, with Papa. When she was at the caves she lay on the warm ledge by the fire, where she always lay, and at night she went down to the back and lay against the little red one and hummed.
 
 It was the ledges' hum. Wren had heard it at Varrhold, the whole cliff of them doing it. Low, under everything, more in the floor than in the air. Lisska did it small, just for one. Wren lay in her blanket and felt it come up through the stone into her back.
 
@@ -128,7 +129,7 @@ Then she wrote: I AM GOING TO SIT WITH HER.
 
 She hadn't known she was going to write it until she wrote it. Then it was on the slate in capitals, and it was true.
 
-She wrote COME FOR MIDWINTER at the bottom. Then she wrote it again under itself, in case. Leif wrapped the slate in a cloth and took it down to the hold at noon the next day on his brown, and said Papa had stood in the yard holding it and a man with a barrow had stopped to look at him.
+She wrote COME FOR MIDWINTER at the bottom. Then she wrote it again under itself, in case. Leif wrapped the slate in a cloth and took it down to the hold at noon the next day, with his brown walking behind him, and said Papa had stood in the yard holding it and a man with a barrow had stopped to look at him.
 
 "Did he read it himself?"
 
@@ -210,7 +211,7 @@ Old Grey had come down the slope behind her and stopped a pace off. She felt him
 
 He saw the little red one that afternoon. Wren watched him see her. He stopped at the edge of the light from the cave mouth and stood there, and Gunna came and stood beside him and said the thing about the horse asleep, quietly, and Papa said something about a roof.
 
-Wren went past them both with Old Grey and sat on her bowl.
+Wren went past them both with Old Grey, turned her bowl upside down again with a great scraping effort, and sat on it.
 
 She didn't look round. She knew Papa was there, at the edge of the light. She talked to the little red one about the hold, and the dogs, and the snow, and Lisska, who had gone west three nights ago with a letter Ada wouldn't help with, and the lion-woman, who wouldn't come in. She talked about Papa reading her letter straight through by himself. She talked about Old Grey, who'd been like this too, and wasn't now.
 
@@ -282,7 +283,7 @@ So she talked about the hens.
 
 ---
 
-Lisska came home before the full moon, thin and tired, with a letter from the lion-woman on her leg that Papa took down to the hold to read with Ada. Lisska came up to the caves and lay on the warm ledge and said things twice back to Wren through Papa until even Papa was tired of it.
+Lisska came home before the full moon, thin and tired, with a letter from the lion-woman on her leg that Papa read by himself on the setters' ledge before he took it in to Ada. Lisska came up to the caves and lay on the warm ledge and said things twice back to Wren through Papa until even Papa was tired of it.
 
 She went down to the back at night and hummed to the little red one. *Here. You're here.*
 

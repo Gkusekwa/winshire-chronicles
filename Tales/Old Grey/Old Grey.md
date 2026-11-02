@@ -5,6 +5,7 @@ Tale: 4 (Within Book 1), first wave; the signature tale
 POV: Old Grey, Joss's dray-beast
 When: Book 1, the raid on Upper Rush (ch 2, before the harvest fair) to the fall of Greyhold's gate (ch 69, day 142)
 Status: first draft (Oct 2026), about 8,400 words
+Canon-checked against the books: 29 Oct 2026.
 Depends on: Book 1 ch 2, 4 (the raid; the man with the lantern; Sorrel hearing her mother go), 36 (Gallows Quay; the binding room: smoke, the words, the hand flat on the head, "You're chosen now"), 50 (the Ewe Beck camp; the water-sled; Joss killed under the forefoot on night 99), 52 (the handler; Aurveth's foot; Old Grey comes down; Joss's good halter; the walk home and Greyhold's bell; Mabbin's call; Bel's hand between the eyes), 54 (Wren at the paddock gate), 56 (day 121, the head turns), 62 (day 134, the ear moves at Bel's voice), 64 (the Staithe, the ferry, the legs braced, Wren at his foreleg), 69 (Greyhold's gateway; the step toward Wren's voice); Magic.md §6 (honey-smoke, the words, the binder's will, the collar; a beast whose binder runs goes slack and follows any hand); Bestiary (dray-beasts; bound beasts feel no pain).
 Must not reveal: whether he comes all the way back (Book 2).
 Decided here:
@@ -32,7 +33,7 @@ His right side was the world. Hedges, gates, Joss walking at his head, the dog, 
 
 They had been yoked together eleven years. She went on the left. When he stood in the paddock she stood on his left, a body's width off, and when he lay down in the long grass in the evening she lay down on his left, and if he woke in the night the first thing he knew was the warm of her there, and the smell of her, grey mare, oat-sweat, the tar on the gall on her shoulder that Joss painted every spring.
 
-When the yearling had come, Sorrel, the yearling had gone on Mabbin's other side. So it went: Sorrel, Mabbin, him, and then the world.
+When the foal had come, Sorrel, the foal had gone on Mabbin's other side. So it went: Sorrel, Mabbin, him, and then the world.
 
 ---
 
@@ -54,7 +55,7 @@ There were small ones. Pip, who smelled of the hayloft, and Nan, who smelled of 
 
 When he was a yearling a gate-hook had caught his left ear and split it.
 
-He didn't remember the hook. He remembered the hands. Two men holding his head in the yard, the barley-dust one and Joss, and something going in and out of the ear, small and hot, over and over, and the smell of his own blood. He had rolled his eyes and stood for it because the hands were holding him and Joss was talking, low, the whole time, and when it was over and they let him go he had shaken his head and sprayed them both, and walked away to the grass, and behind him Joss had laughed until he sat down in the muck.
+He didn't remember the hook. He remembered the hands. Two men at his head in the yard, the barley-dust one holding it and Joss with something going in and out of the ear, small and hot, over and over, and the smell of his own blood. He had rolled his eyes and stood for it because the hands were holding him and Joss was talking, low, the whole time, and when it was over and they let him go he had shaken his head and sprayed them both, and walked away to the grass, and behind him Joss had laughed until he sat down in the muck.
 
 The ear had healed with a notch in the tip. He could feel the notch when the wind came from the left. It whistled. It was the only part of him that had ever been broken, and it had been broken by a gate, in a yard, at home, with Joss laughing.
 
@@ -76,7 +77,7 @@ He smelled them before he saw them. Many. A sour smell, of men who had walked a 
 
 The barn went up.
 
-It went up with a sound like wind coming down a hill all at once. Light came out of it, red, and the heat, and the beasts in it screamed, Hollin's ox-beast and the cows and the dog in its cage on the cart. The light got into everything. It turned the yard into a place he didn't know.
+It went up with a sound like wind coming down a hill all at once. Light came out of it, red, and the heat, and the beasts in the yard screamed, Hollin's ox-beast and the cows and the dog in its cage on the cart. The light got into everything. It turned the yard into a place he didn't know.
 
 A man came into the paddock with a rope.
 
@@ -94,9 +95,9 @@ The rope went over.
 
 ---
 
-They went out of the yard, Mabbin first, then him, and the man walking in front with the lantern, not hurrying, as a man leads stock to market. Behind them the barn fell in. Somewhere in the dark down the paddock, Sorrel was calling.
+They went out of the yard, Mabbin first, then him, and the man walking in front with the lantern, not hurrying, as a man leads stock to market. Behind them the barn fell in. Somewhere in the dark in the far paddock, Sorrel was calling.
 
-It was the yearling's call. High. Over and over. *Where. Where. Where.*
+It was the young mare's call. High. Over and over. *Where. Where. Where.*
 
 Mabbin answered.
 
@@ -114,7 +115,7 @@ He knew the first of it. The Wend lane, and then the south road, the long flat o
 
 There wasn't a wool-shed. There wasn't Joss. They went through the Cross in the dark without stopping and on south, and the road went past the end of everything he knew, and after that it was only road.
 
-There were other beasts. They came out of the dark and joined the line: a hound in a cage on a cart, an ox-beast he didn't know, three goats, a horse that kept trying to lie down. The men walked beside them. They talked low among themselves and didn't use any sounds he knew. When the light came up, grey, they were among trees he had never smelled, and the river on their right was wider than the Wend had ever been, and brown, and smelled of salt.
+There were other beasts. They came out of the dark and joined the line: a hound in a cage on a cart, an ox-beast he didn't know, three goats, a horse that kept trying to lie down. The men walked beside them. They talked low among themselves and didn't use any sounds he knew. Days on, when the light came up grey, they were among trees he had never smelled, and the river on their right was wider than the Wend had ever been, and brown, and smelled of salt.
 
 ---
 
@@ -228,7 +229,7 @@ The small thing in the corner of the pen lifted its head.
 
 It didn't know why. It had no road for why. But it lifted its head, as he had lifted it every morning in the paddock before the gate opened, because the smell came first. And it came a little way across the floor of the pen toward the stall that wasn't its own any more, and stood at the door.
 
-A man came out of the dark between the beast lines. Big, slow. He had something in one hand that shone, and over his shoulder a halter. Old Grey knew the halter. The smell of it. The good one, from the nail inside the barn door, the one that came down on market days.
+A man came out of the dark between the beast lines. Big, slow. He had something in one hand that shone, and over his shoulder a halter. Old Grey knew the halter. The smell of it. The good one, from the peg by the door, the one that came down on market days.
 
 The man came close. He put his free hand up and laid it flat on the grey's face, between the eyes, under the forelock.
 
@@ -238,7 +239,7 @@ The small thing at the door of the stall leaned. Toward the hand. Toward the sou
 
 Then the handler woke.
 
-He woke in the straw at the end of the line without any sound at all, and sat up, and saw, and he didn't shout. He put out his hand toward the grey. He didn't even need to touch him. The collar was there.
+He woke in the straw at the end of the line without any sound at all, and sat up, and saw, and called out once, short. He put out his hand toward the grey. He didn't even need to touch him. The collar was there.
 
 The snow came down on the roof.
 
@@ -266,7 +267,7 @@ The small thing in the corner of the pen didn't lift its head again for a long t
 
 The night the fire came there was no moon.
 
-He was in the lines. He was standing. There were more tents than before, and more beasts in the fenced place on the slope, and a new pen beside the lines with beasts in it who weren't bound yet: two young wolves, a spotted marsh-cat, a yearling greyhart. They smelled of fear still. They paced. The grey didn't.
+He was in the lines. He was standing. There were more tents than before, and more beasts in the fenced place on the slope, and a new pen behind the lines with beasts in it who weren't bound yet: two young wolves, a spotted marsh-cat, a yearling greyhart. They smelled of fear still. They paced. The grey didn't.
 
 Then every beast in the camp that could still be afraid was afraid all at once.
 
@@ -278,7 +279,7 @@ The grey didn't look up. His head was low. But the smell came down on the camp b
 
 Then fire.
 
-It came down on the tents at the back of the camp, the binding tent and the store wagons, in a long roar like the barn at Upper Rush, only longer, and red, and the snow round it went to water in one breath. Men ran. Women ran with children. Nobody came at the beast lines. The thing in the sky didn't put its fire there. It went along the back of the camp, the handlers' tents, the long low tent with the smoke-holes, and left the people's tents and the lines alone, as if it had been told to.
+It came down on the tents at the back of the camp, the binding tent and the store wagons, in a long roar like the barn at Upper Rush, only longer, and red, and the snow round it went to water in one breath. Men ran. Women ran with children. The thing in the sky didn't put its fire there. It went along the back of the camp, the handlers' tents, the long low tent with the smoke-holes, and left the people's tents and the lines alone, as if it had been told to.
 
 Someone was coming across the snow toward the lines.
 
@@ -290,7 +291,7 @@ In the corner of the pen of himself, the small thing lay where it had been throw
 
 The handler was beside the grey. He had a lantern on the snow at his feet, and his hand was on the grey's neck, and the weight was in the hand, ready.
 
-The man with the barley dust walked up the lines. He had something in his hands. A halter. The good one. The smell of it. Onions and hoof-oil and the nail inside the barn door.
+The man with the barley dust walked up the lines. He had something in his hands. A halter. The good one. The smell of it. Onions and hoof-oil and the peg by the door.
 
 "Stop there," said the handler.
 
@@ -394,7 +395,7 @@ The young mare stood on her other side. So it went: Sorrel, Mabbin, him, and the
 
 He didn't know any of it. Or he knew it somewhere a little way off, in the corner of the pen of himself, like rain heard in sleep.
 
-There was a hill above the farm, and something new on it, a mound of earth with the snow on it, and the bread-woman went up there every day and stood. The smell of onions and hoof-oil had gone from Upper Rush. It had been on the halter, and the halter hung on the nail inside the new barn door, and the smell got fainter there every day, and then it was only leather.
+There was a hill above the farm, and something new on it, a mound of earth with the snow on it, and the bread-woman went up there every day and stood. The smell of onions and hoof-oil had gone from Upper Rush. It had been on the halter, and the halter hung on its peg by the door, and the smell got fainter there every day, and then it was only leather.
 
 ---
 
@@ -458,11 +459,11 @@ The bread-woman came down too. She stood at the gate beside the girl and looked 
 
 ---
 
-The barley-dust man went away after that and didn't come down again for a long time. The girl stood at the gate every day. She told Old Grey the green thing was on the crag above the farm every night, watching, and that it told her papa everything, and her papa told her. She pointed. He didn't look.
+The barley-dust man went away after that and didn't come down again for a long time. The girl stood at the gate every day. She told Old Grey the green thing was on the crag above the farm every night, watching, and that it told her papa everything, and her papa told her. She pointed. He didn't look. Once more, at his name, the head turned its hand's breadth toward the gate and stopped.
 
 The days got longer. The snow went off the paddock in patches and then all at once. Water ran in every rut. The river roared.
 
-One evening, when the light was long and gold and the paddock smelled of mud and new grass, the bread-woman came down to the gate. She stood and looked at the three of them. Sorrel. Mabbin. Old Grey.
+One evening, when the light was long and gold and the paddock smelled of mud and new grass, the bread-woman came down to the gate. She stood and looked at the three of them by the gate. Mabbin. Old Grey in the middle. Sorrel.
 
 "Grey," she said.
 
@@ -528,15 +529,15 @@ She smelled of milk and river mud. Her face was pressed against his leg, above t
 
 After that they were in a camp again.
 
-He didn't know it was a camp. He knew it smelled of many people and smoke and soup, and that the paddock had gone, and that he stood where the bread-woman tied him, among strangers, with Mabbin on his left and Sorrel on her other side. There were walls above. Big ones, grey, with a bell on them. When the bell rang the people in the camp looked up.
+He didn't know it was a camp. He knew it smelled of many people and smoke and soup, and that the paddock had gone, and that he stood where the bread-woman tied him, among strangers, with Mabbin on his left and Sorrel on her other side. Far up the river, on a hill, there were walls, with a bell on them. When the bell rang, faint, the people in the camp looked up.
 
-The bread-woman came and went. The girl wasn't there. She had gone through a gate in the wall with the old woman who smelled of herbs and singing. The girl had told him about that too, before she went. She said she'd be on the other side of the wall, and she'd come back, and come back.
+The bread-woman came and went. The girl came every day to where he was tied, and said his name, twice, and went back to the old woman who smelled of herbs and singing.
 
 He stood in the camp a few days. He didn't keep them.
 
 Then one morning the smell changed.
 
-It came down the river from the south. Many men. Fear and iron and the sour sweat of men who have walked a long way, and over it, under it, through it, the sweet smell. The hive-smell, burnt. Honey-smoke, a great deal of it, coming up the road with the men, on the wind, into the camp.
+It came up off the river on the wind. Many men. Fear and iron and the sour sweat of men who have walked a long way, and over it, under it, through it, the sweet smell. The hive-smell, burnt. Honey-smoke, a great deal of it, coming up the road with the men, on the wind, into the camp.
 
 And beasts. Beasts that didn't smell of anything at all.
 
@@ -586,7 +587,7 @@ And then again, because once might not get there.
 
 The small thing in the corner of the pen lifted its head.
 
-It had lifted its head once before for a voice, a hand's breadth, and stopped. It had lifted its head once before for a smell, and come to the door, and this was what had come of it.
+It had lifted its head before for a voice, a hand's breadth, and stopped. It had lifted its head once before for a smell, and come to the door, and this was what had come of it.
 
 It got up.
 

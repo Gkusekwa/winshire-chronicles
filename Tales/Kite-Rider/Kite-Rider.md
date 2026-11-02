@@ -5,6 +5,7 @@ Tale: 19 (Within Book 2)
 POV: Runa, a kite-rider of the Pass Wardens' roost above the Vael Pass, fourteen, bonded to the stormkite Tatter
 When: Book 2, the Glasswater waking: day 172 (the binding, seen from the roost) to dawn 178 (the frost-map, seen from the air); the turn is day 177
 Status: first draft (Oct 2026), about 12,800 words
+Canon-checked against the books: 29 Oct 2026.
 Depends on: Book 2 ch 3 and 8 (stormkites coming down off the High Crown in pairs before weather; the *Heron*, her brown lugsail, the lantern owl and the tin Lady on the prow; the far-shore landing, "she made the rope fast"), 28 (the lake gate, the iron-rail fence, the toll-house and the register; the big short-haired Warden who said *pass*), 29 (the ferries going round the island; Nessa crossing twice a day to the far-shore villages with salt, flour and a midwife; the pass-watch's nightly lantern owl), 36 (the ice from day 166; Idony to Nessa at the ferry steps on the morning of 172, "five days, perhaps fewer"; the binding at noon; every lamp on the hill out at once; the ice breaking; three wingbeats; the Blue tower under the forefoot; the head into the hill and the stone; the fleet drawn up the slips and turned over, the owl's cage lashed to the *Heron*'s keel; the surge at dusk, every lamp white, the cold wind), 37 (the Titan going west at dawn 173 low over the far shore; frost every night; snow on the pass on 174 and Orrun lying in the road beyond the lake gate calling the herd; Idony hidden in the boat-shed; the dyers going back down on 176 and Nessa keeping the ferry-folk up, "He said five"; the herd down the pass road at noon on 176 and Brannagh opening the gate; Haverly's edge lit on the morning of 177; the Coil rising mid-morning, the hump in the ice, the coils, the eyeless head, the cold; the lake lifting into a wave the height of a house; the wall across Dye Street; the Coil going south at midday and the lip breaking; two dragons, red and green, coming north up the drowned valley in the early afternoon; smoke on the hill; the drain at dusk, lamps dying down the hill one after another), 38 (Corvin's six come up the lake from the foot in fog that morning; nobody watched the lake's foot), 40 (the pyre on the Library steps after dark, lit by Kharrak, the only light in Vael), 41 (the lake drawn back to a league of frosted mud; the frost-map; dawn 178, Maren, Idony and the lion up the shore to the west road, Calder south over the broken lip); Bestiary (stormkites: forty-foot span, lighter than a man, ride the fronts off the High Crown in pairs, bond rarely and only with small light people, the Pass Wardens' roost; they fly the Deep's tide-lines; in a surge flyers fly into walls and lamps; before a waking the birds leave); Book 3 ch 46 and 49 (kite-riders are girls of fifteen and slight old women in grey felt; the kites feel weather and the Deep's turns a day off; bone horns); World.md (Glasswater drains south out of its foot down a valley to the upper Wend; the pass road goes round the lake's western shore).
 Must not reveal: nothing past Book 2 ch 41. Runa never hears the Coil's name, the bird's death, the hunters, or who the dragons are; Idony is seen only from outside.
 Decided here:
@@ -612,7 +613,7 @@ Runa knew who she meant.
 
 She told them on the shingle, and then she told it again in the ferry-house kitchen, to more of them, and then she stood on the jetty and shouted it, because by then the whole of Stell had come down to look at the kite.
 
-Twenty houses. Fisher-folk, and two shepherd families from the shoulder, and a man who made nets. Children. A very old woman in a chair who was somebody's grandmother. And a young one at the back with a bundle, Jenet, white-faced and furious, with a baby six days old on her shoulder who had been born, Runa learned, on the night every lamp across the lake went white.
+Twenty houses. Fisher-folk, and two shepherd families from the shoulder, and a man who made nets. Children. A very old woman in a chair who was somebody's grandmother. And a young one at the back with a bundle, Jenet, white-faced and furious, with a baby five days old on her shoulder who had been born, Runa learned, on the night every lamp across the lake went white.
 
 They had seen everything. That was the trouble. They'd seen the ice break and the island stand up and the tower go down, from across the lake, small. They'd seen the lamps go out and come on. They'd had the island fly over them at dawn so low that it had flattened the pines above the fold, and stood in their doors after with their hands over their mouths. And then five days of frost and nothing. No ferry. No word. Only the lamps, white, across the ice every night, and their own dark windows.
 
@@ -956,7 +957,7 @@ The city came up ahead of her, dark. No lamps. Smoke from the hill, grey now, th
 
 And on the shore below the old fish-quay, on the frosted mud where the water had been, three figures going away up the shore to the west road. Two people, small, one of them bent over a stick. And something grey and huge walking between them.
 
-Something red went up off the shore behind them, and something green with it, and a smaller red one after them, labouring, and they went south. Low and fast over the broken lip and down the drowned valley, the same way the water had gone, as if they meant to catch it.
+Something green went up off the shore behind them, and something red after it, and a smaller red one after them, labouring, and they went south. Low and fast over the broken lip and down the drowned valley, the same way the water had gone, as if they meant to catch it.
 
 Tatter didn't go flat. He tipped a wing at them and went on.
 
@@ -964,7 +965,7 @@ Tatter didn't go flat. He tipped a wing at them and went on.
 
 She saw the drawing as she came over the shore.
 
-On the frosted mud, at the edge of the dead lake, where somebody had had a fire and the ash of it lay black on the white. Lines. Cut into the frost so that the dark mud showed through. A circle, wide as a threshing-floor. A wavering line going through it, like a river. And out from the circle, six long straight lines, each of them forty paces at least, going away from it in every direction across the frost, with a mark at the end of each one.
+On the frosted mud, at the edge of the dead lake, where somebody had had a fire and the ash of it lay black on the white. Lines. Cut into the frost so that the dark mud showed through. A circle, the width of a cart. A wavering line going through it, like a river. And out from the circle, five long lines, each of them forty paces at least, going away from it in every direction across the frost, with a mark at the end of each one, and a sixth that went a few paces down the river-line and stopped.
 
 She took Tatter round it, once, slowly, low.
 

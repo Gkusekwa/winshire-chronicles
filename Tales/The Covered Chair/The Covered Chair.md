@@ -5,6 +5,7 @@ Tale: 22 (The second handover: Book 2's end to Book 3's first fortnight)
 POV: Arn Varr
 When: Book 3 days 0–12: from dusk on the day the six go up from the Scarfell (Book 2 ch 88, its day 362) to the night of day 12, at Varrhold, on the high moor above Coldtarn, and at the hatching caves
 Status: first draft (Oct 2026), about 10,100 words
+Canon-checked against the books: 29 Oct 2026.
 Depends on: Book 1 ch 6 (the hall split; the empty chair between the high tables; Arn lean and dark with Haldor's hawk nose; Teo down the middle with a jug), 8 (Coldtarn; "Who pours?"; "Pour with him... One hand each"), 14 (the ford; the armband; the red palm), 16 (Teo's pyre in Varrhold's yard at dusk, in the rain; Arn lights it; Ulric kept outside the gate), 28 (Teo's bay in the chief's stall with a grey cloth over it; nobody rides it); Book 2 ch 12 (the chair at the middle of the high table; Arn had a cloth put over it the night his brother burned; a chief is named when both halves pour at Coldtarn), 24 (Arn reading the book with his finger, slow; the pour; "The chair stays empty. Till we've buried my brother right."), 62 (Ildra: the little red one from Vael; dark gold eyes; the kettle chirr; "She's not mine. She just comes when I talk."), 78 (the second pour, at Gullhaven), 88 (the six on the high moor above the caves; the Clan on the ledges; the hum both nights; day 362 dusk, the six go up, every dragon silent; the heather flattened for a league; the Furnace's heather gone to glass; the ream of grey paper from the tally-house, *For the farmer*); Book 3 ch 2 (day 4 noon: Arn and Ulric up to the caves on two Clan dragons behind their riders; the black roof; Ildra behind Arn's bench, "every time he came up"; "Go back to the girl"; "The Clan will fly"; "Nobody argued for a whole morning. First time since Teo."; the three under the thread; "They're not mine to give."; Aurveth's answer; "I'll tell the riders"; Ulric's coast news and the contract; the lights brighter from night 4; every dragon humming), 5 (all of days 8–12: the hall and the chair under its grey horse-blanket; the riders told on day 8, Hulda Sarr's laugh; Gorm's ledgers; the pens silent and facing east from dawn 9; the noon rider; Ildra a length behind round the pens, sent back four times, Wren and the horn; Gunna on the rail; the yard; the night of the flights, "Teo would have gone", "Half", "Forty pairs", "Thank you." "Don't."; dusk 10, fire down the Wend; Ildra in the doorway; days 11–12, the smoke, the doubled watch, Bel's answer, the porch, the tail), 18 (only for things already true by day 12: Teo's third ledge on the Roosts; Ildra's look, the stub of horn); Tales: Ford Water (Haldor's cloak on the chair; Skerry and Haki; Arn always lost to Teo; the pool under the falls; Ulric's horse lines), Nine Days (Ildra dark red going red-gold in light, pale belly, the collar's dull band); World.md (Varrhold, the Roosts, Coldtarn about five leagues above the hold, the caves on its eastern rim about six leagues off); Bestiary (a dragon speaks only to a bonded partner, and to kin in sight).
 Ends on (the Plan gives none): night 12, Arn stepping over Ildra's tail in the hall porch on his way in to the bench beside the chair, the image Book 3 ch 18 echoes ("He'd stepped over her tail sixty times").
 Must not reveal: none listed in the Plan. Kept to what the books show by day 12: Ildra is unbonded and has no voice for Arn; nothing of Book 3 ch 18 (the choosing, the pens opened), ch 19 (Ulric's death) or ch 22 (the call). Gunna's line in ch 5 is the furthest the tale goes. Nothing of Arn on the Choosing Ledge (first told in ch 18).
@@ -71,7 +72,7 @@ Arn looked at the moor.
 
 They went up at dusk.
 
-He saw them stand. All six together, as one beast gets up off the ground, and the first thing he knew of it was the heather. The whole slope of the high moor moving at once, going flat, outward, a great grey ring of it spreading from the place where they'd lain, and the ring coming on down the long slope toward the hold as wind comes over barley, until the ling on the slope below the Roosts lay down too and it was only air, and it reached them, and went past.
+He saw them stand. All six together, as one beast gets up off the ground, and the first thing he knew of it was the heather. The whole slope of the high moor moving at once, going flat, outward, a great grey ring of it spreading from the place where they'd lain, and the ring coming on down the long slope toward the hold as wind comes over barley, a league of it, until the heather stood again and it was only air, and it reached them, and went past.
 
 Then the hum stopped.
 
@@ -163,7 +164,7 @@ Gorm looked at him for a while longer. Then he got up, which took some time, and
 
 "It's not damp."
 
-"Everything in this hold is damp. I've told your father so for twenty years and I've told you since." He pushed it across the table. "Do you want me to write him a line with it?"
+"Everything in this hold is damp. I've told your father so for ten years and I've told you since." He pushed it across the table. "Do you want me to write him a line with it?"
 
 "No."
 
@@ -221,7 +222,7 @@ He said it. Ulric said it after him, in other words. Brede said it for the old o
 
 Nobody argued.
 
-He sat with his hand on the bench beside the chair and waited for it. The quarrel. Somebody from the red end saying the grey had flown slow at Gullhaven, somebody from the grey saying the red had come home first and left them the dead to burn. It had been like that at every sitting since the pour. You put a thing on the table, and it went round, and before it had gone halfway somebody had picked up something else, and then they were on the old thing, which was always the same thing.
+He sat with his hand on the bench beside the chair and waited for it. The quarrel. Somebody from the red end saying the grey had flown slow at Gullhaven, somebody from the grey saying the red had come home first and left them the last of Gullhaven to fly. It had been like that at every sitting since the pour. You put a thing on the table, and it went round, and before it had gone halfway somebody had picked up something else, and then they were on the old thing, which was always the same thing.
 
 It went round. It came back to him. Nobody had picked anything up.
 

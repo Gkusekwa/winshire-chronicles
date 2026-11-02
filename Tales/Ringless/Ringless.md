@@ -5,6 +5,7 @@ Tale: 16 (Within Book 2)
 POV: Tobin
 When: Book 1 night 142 (the Millbrook barricade, ch 71; Book 2 day −2) to dusk on Book 2 day 233 (the east gate of the Scald cordon, ch 45)
 Status: first draft (Oct 2026), about 12,900 words
+Canon-checked against the books: 29 Oct 2026.
 Depends on: Book 1 ch 1, 9 (Tobin: nineteen, all elbows, loud about being unchosen; the pamphlet, "the turnip horse"), 47 (the blue-corded practice sword and the note, "You know it's true. Come and find us. T."), 57 (the hedge-meeting above Fennick's top field; Cassian on the wain; "When they throw you out, come and find us"), 63 (Maren breaks Callis's arm with Tobin's blunt sword), 69 (the rising fires the refugee camp at dawn on day 142), 71 (the barricade at the foot of the jetty road; every line of Tobin's there; Callis has the seal; the eel-punts), 75 (Callis opens the river gate at the third hour; the bells stop when the bell-tower is taken; Haverly dies on the stair with Kesh), 77–79 (the lock, the seal breaking, the Titan up out of the river at sunrise and away north-east; the lamps out); Book 2 ch 2 (Millbrook folk let go on the road), 4 (Cassian hung under the charter, THE RESTORATION'S LEADER), 6 (the sour well; the lion opens Greyhold's inner wall and takes the Fenns out), 12 and 14 (Corvin up the old stair; the companies at Cotter's Cross waiting for the silver; Reede's bills), 20 and 25 (the Ring: the stakes, the second lion, Rowan's broken leg; the Moot: two lions in two lanes, the Old Stag), 28 and 37 (the tusker road to Vael's gate; the wall across Dye Street; snow on the Vael Pass at the end of summer), 42–45 (the Iron Road, the Scald, the cordon, the east gate and its rail; Lisska over the moor at dusk on 232; the Titan up at noon on 233 and west; the Bleed at dusk; the labourers in the ditches), 43 (the companies crossed by the fords above Ashford in early summer "while everyone was looking at the Ring"; Rowan sent to the Downs; the flood in the Marches; Liss's letters, once a month), 54 (the fords: long shallow stretches of brown water and shingle); Atlas (Greyhold–Hallowmere 57.5 leagues by road; the King's Road, gravel beyond Ashford; the Iron Road; the Candle Downs; the Scald near the Hearthmere border).
 Must not reveal: anything past Book 2 ch 45; Tobin's later road (Solenne, Ironhythe, Book 3) and his end.
 Decided here:
@@ -12,7 +13,7 @@ Decided here:
 - Tobin wasn't picked for the boats that went up to Greyhold's river gate on night 143. He spent that night on Fennick's top field under the thorn hedge, heard Greyhold's bells stop, felt the island go at midnight, and saw the Titan go up at sunrise and Greyhold's white wall-lamps go out.
 - He saw Cassian's body on Greyhold's gate on day 4, and that is how he learned that the warm man on the wain was the one who died, and that the still one was alive. He heard there that Haverly was dead.
 - He was given his ring in Fennick's tithe barn on midwinter's eve. It was iron and plain. He wore it on the third finger of his right hand.
-- Ludd sent him and Kemble down the river to a ring-house in spring, a shepherd's hut on the down above the Wend fords that the drovers call the Ashford fords (the fords above Ashford, ch 43, 54), to wait for the silver. The fords lie on the Wend downriver of the Brackenwood, with the road from them running west to Ashford (two days on foot). The hut held six: Tobin, Kemble, two silent brothers from near the Brackenwood, an old hedge-preacher fined three times at Ashford, and Moll Prentice from Hallowmere. Reede's bills came over to them every new moon in a fish-basket under salt herring, with a Saltreach boy on a pony. The first lion story Tobin heard there was the inner wall opening for the Fenns (Book 2 ch 6).
+- Ludd sent him and Kemble down the river to a ring-house in spring, a shepherd's hut on the down above the Wend fords that the drovers call the Ashford fords (the fords above Ashford, ch 43, 54), to wait for the silver. The fords lie on the Wend downriver of the Brackenwood, with the road from them running west to Ashford (three days on foot). The hut held six: Tobin, Kemble, two silent brothers from near the Brackenwood, an old hedge-preacher fined three times at Ashford, and Moll Prentice from Hallowmere. Reede's bills came over to them every new moon in a fish-basket under salt herring, with a Saltreach boy on a pony. The first lion story Tobin heard there was the inner wall opening for the Fenns (Book 2 ch 6).
 - The farm on the Downs is the Pollards', a day and a half west of the fords under Wether Down. Ned Pollard wore a ring and fed the hut all spring. Pollard has a wife and a daughter of about twenty. When the black-ship company came (its captain a long sunburned Gullhaven man), they took the grain, the seed-corn and the plough-oxen, and a crossbowman called Gedge shot the Pollards' son, Hal, about fourteen, in the yard, when Hal walked at the man leading the oxen with a hay-fork. The captain had the barns fired. Pollard's ring was taken with the rest. Tobin had brought them there. He threw his own ring into the Wend at the fords the same night.
 - Tobin heard the Ring and the Moot from a Greyhold groom called Ewan (Long Barn), with Rowan's knights in the chapel at Coombe Ashley, a Downs village, after a fight with the red-hand company in high summer; he saw Rowan there from a distance, on foot with a stick, her left leg strapped straight from hip to ankle. She didn't see him. He heard of the lion at Vael's gate from a Pass-road carter, went north up the Downs, heard at the edge of the Downs that the Pass had snowed, and turned back.
 - After the flood he lived among the refugees under Greyhold's river wall, hood up, and never went to the ferry house. The Vael wall came down the river with the upper valley's people. He heard where Maren was ("the iron place", the Scald) from Liss's letter, passed on by the ferry hands.
@@ -59,7 +60,7 @@ Nobody said anything to that. Dunnock, the Saltreach boatman, spat over the boat
 
 He'd seen the camp at dawn.
 
-Before the knights came. Before anything. He'd been on the jetty road with Kemble at first light, rolling barrels, and somebody had said *look*, and pointed down the river past the last houses to the water-meadows, where the tents had been all spring. The Saltreach people's tents. The ones who'd come over on the ferry in the thaw with their carts and their children because the companies were burning the far bank.
+Before the knights came. Before anything. He'd been on the jetty road with Kemble at first light, rolling barrels, and somebody had said *look*, and pointed down the river past the last houses to the water-meadows, where the tents had been since the winter. The Saltreach people's tents. The ones who'd come over on the ferry and the ice with their carts and their children because the companies were burning the far bank.
 
 There was smoke over the water-meadows. Low, brown, lying along the grass.
 
@@ -335,7 +336,7 @@ Ludd gave him the look from the top field. *You talk.*
 
 The ring-house was a shepherd's hut on the down above the fords.
 
-The drovers called them the Ashford fords, because the road that came up out of them went west to Ashford, two days' walk, and nobody went anywhere else from them. Long shallow reaches of the Wend, brown water and shingle, with the current going over the stones in a long low noise you stopped hearing after a day. The Brackenwood behind, north, dark on its ridge. The Candle Downs going away west, fold on fold, chalk and grass and hedges, with a chapel tower in every fold.
+The drovers called them the Ashford fords, because the road that came up out of them went west to Ashford, three days' walk, and nobody went anywhere else from them. Long shallow reaches of the Wend, brown water and shingle, with the current going over the stones in a long low noise you stopped hearing after a day. The Brackenwood behind, north, dark on its ridge. The Candle Downs going away west, fold on fold, chalk and grass and hedges, with a chapel tower in every fold.
 
 There were six of them in the hut. Tobin, Kemble, two brothers from a farm near the Brackenwood who never said anything, an old hedge-preacher who'd been fined at Ashford three times and was proud of it, and a woman called Moll Prentice who'd walked down from Hallowmere with a ring on her finger and a bad cough and Reede's book in her apron. They had a fire, and a sack of meal, and bacon from a farm a day and a half west under Wether Down, where a man called Ned Pollard wore a ring and had told them, the first week, that whatever he had was the one realm's.
 
@@ -531,7 +532,7 @@ There'd been a fight in the village street. The knights had come down off the ri
 
 Tobin carried water. Nobody asked who he was. A boy in a torn shirt with a bucket was nobody.
 
-A groom was holding a knight's head up so he could drink. A Greyhold groom. Tobin knew him: Ewan, from the Long Barn, who'd mucked out beside Maren every morning for a year and said maybe ten words to her. Ewan didn't know him. Ewan looked straight at him over the wounded man's head and saw a bucket.
+A groom was holding a knight's head up so he could drink. A Greyhold groom. Tobin knew him: Ewan, from the Long Barn, who'd forked hay at the far end every morning of the winter Maren mucked it out alone, and said maybe ten words to her. Ewan didn't know him. Ewan looked straight at him over the wounded man's head and saw a bucket.
 
 "Were you at the Ring?" said the wounded man. To Ewan. He was feverish and wanted to talk. "You were. I saw you. With the wains."
 
@@ -545,11 +546,11 @@ Ewan told it.
 
 He told it to the man on the straw, but he told it loud enough, because he wanted to be heard. Tobin knew that. He'd done it himself.
 
-"There was this ring of stones," Ewan said. "On the plains. In the Wyldmarch. A league of grey ground round it with nothing growing, dead as Hallowmere, and the thing lying in the middle of the stones with its head on its paws, the big one, the one from the river. We had the chain. Midsummer night. Isvaren's men up on the stones with their lamps, making a net of light over its back, white, you never saw anything like it. And us under it with the chain in loops, running, pinning it down to stakes. And then somebody's burning honey-smoke upwind, the whole sky's sweet with it, and nobody knows who." He wiped the man's mouth. "And then she comes."
+"There was this ring of stones," Ewan said. "In the forest. In the Wyldmarch. A league of grey ground round it with nothing growing, dead as Hallowmere, and the thing lying in the middle of the stones with its head on its paws, the big one, the one from the river. We had the chain. Midsummer night. Isvaren's men up on the stones with their lamps, making a net of light over its back, white, you never saw anything like it. And us under it with the chain in loops, running, pinning it down to stakes. And then somebody's burning honey-smoke upwind, the whole sky's sweet with it, and nobody knows who." He wiped the man's mouth. "And then she comes."
 
 "Ashdown."
 
-"Ashdown. With the lion. Up the stones after Isvaren's men and knocks them off into the beck, one, two, and their lights go out. And the lion goes for the stakes." Ewan's voice dropped. "Pulls them. Out of the ground. Iron stakes as long as a man and driven a yard down, and he pulls them up like carrots out of sand. One after the other. And on the other line of stakes, the same. Another lion. The same lion. Two of him. I saw them both. Both at once, a hundred yards apart, pulling stakes."
+"Ashdown. With the lion. Up the stones after Isvaren's men and knocks one off into the beck, and the next two get down off theirs sooner than meet the lion, and their lights go out. And the lion goes for the stakes." Ewan's voice dropped. "Pulls them. Out of the ground. Iron stakes as long as a man and driven a yard down, and he pulls them up like carrots out of sand. One after the other. And on the other line of stakes, the same. Another lion. The same lion. Two of him. I saw them both. Both at once, a hundred yards apart, pulling stakes."
 
 "There's never two."
 
@@ -569,7 +570,7 @@ Rowan came into the chapel at noon.
 
 Tobin was at the back with his bucket and saw her come. Small. Neat. Grey hair. On foot, which surprised him, with a stick, and her left leg strapped out straight from hip to ankle in leather and slats so that she walked like a man on a peg. She went along the rows of straw and stopped at every man and said something to every one. Nobody stood up. She told them not to.
 
-He'd stood in her yard at noon every day for two years. She'd read the council's order to them in the snow, the day Davin was taken, in her quiet voice that carried to the back without being raised. *That is the order. It is not mine. I don't make it.*
+He'd stood in her yard at noon every day for two years, and heard her read the orders down to them in her quiet voice that carried to the back without being raised.
 
 He put his head down over his bucket and went out of the side door before she got to the back of the chapel. He didn't think she'd know him. He didn't want to find out.
 
@@ -579,7 +580,7 @@ Two lions, he thought. Two of him. In two places at once.
 
 The man in two places. That had been Vale. The legend of Vale, the hedge-legend, every alehouse on the river: *he spoke at Wendmouth and the Marches the same night*. Tobin had believed it. He'd loved believing it. And it had been two brothers in two coats, one for the hedges and one for the knife, and one of them had been hung on Greyhold's gate.
 
-And now there was Ashdown, and two lions. And a knight's groom who'd mucked out beside her for a year and never said ten words to her telling it on a chapel floor as if it were scripture.
+And now there was Ashdown, and two lions. And a knight's groom who'd worked the same barn as her all winter and never said ten words to her telling it on a chapel floor as if it were scripture.
 
 The thing was, Ewan wasn't lying. Tobin had heard enough lies in a year to know the taste of them. Ewan had seen two lions.
 
@@ -643,7 +644,7 @@ The flood had been and gone.
 
 He hadn't known. Nobody on the Downs had known. A wall of brown water had come down the Wend out of the north, out of the mountains, the boatmen said, out of a lake that had broken its shore, and gone through the Marches in a night and a day, and the river was back in its banks now but the Marches weren't. The water-meadows were mud and wrack. The Eelweir on the far bank was gone, houses and all; you could see the stumps. There were drowned sheep in the hedges. The late barley was flat in the fields and black, and the whole valley smelled of rot and river.
 
-And on the grass under Greyhold's river wall, along the landing, there were people. Hundreds of them. Carts and blankets and hand-barrows, and fires, and children. The Saltreach people who'd come over in the spring, the ones from the camp, the ones the crown had ordered back over the river and nobody had ferried back. They'd been there all summer. The flood had come up round them and gone down again and they were still there, waiting, because there was nowhere else.
+And on the grass under Greyhold's river wall, along the landing, there were people. A hundred and more. Carts and blankets and hand-barrows, and fires, and children. The Saltreach people who'd come over in the winter, the ones from the camp, the last of the ones the crown had ordered back over the river, that the ferry hadn't got across before the water. They'd been there all summer. The flood had come up round them and gone down again and they were still there, waiting, because there was nowhere else.
 
 Tobin walked in among them with his hood up, and sat down by somebody's fire, and nobody asked him anything.
 

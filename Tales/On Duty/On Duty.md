@@ -5,6 +5,7 @@ Tale: 12 (The first handover); short
 POV: the grey cat at Greyhold, the cat nobody owns
 When: Book 1 night 143, from dusk (ch 71, 75, 77, 79), to Book 2 day 6, the afternoon after Calder crosses (ch 1, 2, 4, 5, 6)
 Status: first draft (Oct 2026), about 8,400 words
+Canon-checked against the books: 29 Oct 2026.
 Depends on: Bestiary (great cats: grey, calf-sized, apparently bored; a great cat feels what's coming to the beasts round it, grief especially, and lies beside the one that will need it; the grey cat is not a duskcat); Book 1 ch 1 (asleep in the only shade; awake when the shadows go over; the noon oath facing east to the inner wall), 9 (asleep on the warm wall top; sits down beside Maren after Pell's lesson), 27 (the Long Barn: small ones at the east end, big ones at the west, Thorne's boar in the iron-banded stall at the end; "It picks"; yellow eyes; washing one enormous paw), 37 (Dun and Merrow; the cat in the empty stall), 39 (the foot of Ide's bed, on Bracken's blanket), 47 and 51 (the archive stair; it walks away up the stair after the night of the door), 69 (Pell dead at the gate, day 142; the greys inside), 71 (Liss to warn Hale at the water-gate), 75 (Rowan's riders gone at dusk; Callis opens the river gate at the third hour; Thorne and her boar dead in the gateway; the bells stop; the Long Barn barricade with the boar's stall door; Grieve on a cart with a pitchfork; the old surgeon's words stopping a groom's bleeding; Old Grey in the gap; Orrun in the yard; the flagstone lion by the well; Kesh shot, Haverly dead on the stair; Lisska's wings over the stairwell; Hale dead by the black door), 77 (midnight; Lisska goes down to lie beside Orrun), 79 (the chains going in the small hours; at sunrise Greyhold's inner wall splits top to bottom and the wall lamps go out); Book 2 ch 1 (Daw Pruett), 2 (no noon bell on day 0; the ferry house under the river wall; the Fenns and the greys come down the water-gate stair after dark; Old Grey stands behind Wren; Liss's kitchen and her mother's lamp lit with a spill), 3 and 4 (the held breath under Greyhold), 4 (day 1, fifty-three graves on the hill west of the walls, beasts beside their partners; Grieve reads the names; Maren and Orrun at the hill's foot; day 3, the body hung on the gate; day 4, Aurveth trying her wing), 5 (day 4 the herald; day 5 Ada's milk; dawn day 6 the goodbye and Aurveth's swim with Liss hauling), 6 (day 6 noon Maren, Tam and Orrun to Millbrook; day 7 the writ); Book 2 ch 79 (later in Book 2 the cat is gone from the Long Barn and nobody saw it go).
 Must not reveal: what it is (a great cat of the old lions' kind). Never "lion" for the cat, no kinship with Orrun, no bowing, no link to the bridge, the tower steps or the Grey Mother; no age given; it is not shown keeping the door.
 Decided here:
@@ -30,7 +31,7 @@ It let them. It had never seen the use in being looked at.
 
 It knew the hill by its warm places.
 
-There were the ordinary ones. The stones of the wall top, when the sun had been on them an hour. The bake-house wall at dawn. The straw where a big beast had lain all night and just got up. The infirmary's warming-stones, which the old women there woke with a sound and which stayed warm till morning without a fire. The white lamps in their iron brackets along every wall, which had never once been lit and were always lit, and were warm to sit under, a little, like a hand held near a face.
+There were the ordinary ones. The stones of the wall top, when the sun had been on them an hour. The bake-house wall at dawn. The straw where a big beast had lain all night and just got up. The infirmary's warming-stones, which the old women there woke with a sound and which stayed warm till morning without a fire. The white lamps in their iron brackets along every wall, which had never once been lit and were always lit, and were warm to sit under, a little, like a hand held near a face. Since the hard frost those had gone wrong, the stones and the lamps both.
 
 And there was the warm under.
 
@@ -76,15 +77,7 @@ The cat went past them all and they didn't see it. People with children in their
 
 ---
 
-At dusk the greyharts went.
-
-The cat heard the hooves in the yard and went to the barn door. Riders. Every rider on the hill who could sit a beast, in mail, with the small grey captain at the front on her grey horse, and the greyharts led out of the west end with their great white heads up and their eyes rolling, and the hounds at heel, and the falcons up. They went out through the river gate onto the road and turned north, upriver, fast. The lines went with them, thin, all of them. The cat watched them go out of the gate into the dusk and down the road and away until it couldn't feel them any more.
-
-The barn was half empty after. It had never been half empty.
-
-The cat went down the water-gate stair.
-
----
+At dusk the cat went down the water-gate stair.
 
 It didn't often go that way. The water-gate stair went down inside the river wall, steep and wet, in a long slant, to a low arch at the bottom with iron bars across it, and on the other side of the bars was the river. The steps were cold. There was no warm in them at all, this close to the water. But the cat had felt something below that it didn't have a name for, and it went down to look.
 
@@ -109,6 +102,10 @@ Then he turned round and went back up the stair. Fast, for him. His stick knocke
 Then she pushed off from the bars and the boat went away downriver, into the dusk, toward the long low house at the foot of the jetty, with a lamp in its window that someone had lit by hand.
 
 The cat stayed on the step a while, in the cold. Then it went up.
+
+The cat heard the hooves in the yard and went to the barn door. Riders. Every rider on the hill who could sit a beast, in mail, with the small grey captain at the front on her grey horse, and the greyharts led out of the west end with their great white heads up and their eyes rolling, and the hounds at heel, and the falcons up. They went out through the river gate onto the road and turned north, upriver, fast. The lines went with them, thin, all of them. The cat watched them go out of the gate into the dusk and down the road and away until it couldn't feel them any more.
+
+The barn was half empty after. It had never been half empty.
 
 ---
 
@@ -232,6 +229,8 @@ The midden girl and the big one. One line, between them, thick as a rope.
 
 And thin. Already. Even that new, even that thick. Somewhere ahead of it, not now but before the night was out, a cold was coming down that line so great the cat flattened its ears to feel it.
 
+Something green came down out of the dark over the walls with its wings spread, screaming, and the men in grey by the gate dropped what they had and ran out of it into the night.
+
 The big one turned his head toward the barn.
 
 The cat lay flat on the beam and didn't move.
@@ -242,7 +241,7 @@ They lifted, one against another, grey on grey, and came up out of the yard into
 
 The cat looked at the stones standing up in the yard. It had lain on those stones in the sun. It had never known they could do that.
 
-Then the big one went away north across the yard, toward the tower, toward the falcon screaming, and something green came down out of the dark over the walls with its wings spread, screaming louder, and the men in grey by the gate dropped what they had and ran out of it into the night.
+Then the big one went away north across the yard, toward the tower, toward the falcon screaming.
 
 ---
 
@@ -250,9 +249,9 @@ From the north end of the yard, the falcon's line went out.
 
 The cat felt it like a stair that isn't there when the foot comes down. A bright small hard warm, going. And then, a breath later, at the other end of what had been the line, the falcon's boy. Not all at once. Slower. A long cold coming down into him from the far side of himself, as the cold had come down into the hound. The cat could feel him lie down in it.
 
-Then he was gone too.
-
 The stones by the well lay down, one on another, into a heap by the well, and were stones.
+
+Then he was gone too.
 
 The cat stayed on the beam.
 
@@ -298,16 +297,6 @@ The hill got worse. The white lamps on the walls stopped going on and off and ca
 
 The cat's fur stood up all along its back and stayed up.
 
-Far down the stair, below the paper man, below everything, at the bottom of the hole, the big one's line went bright and hard. Something was happening down there. The cat felt the midden girl's end of it pull tight, and pull, and then a cold came down that line, the cold the cat had felt coming in the yard, and it was worse than the cat had thought it would be. Worse than the hound. Worse than the boy on the step. It came into the big one from somewhere under him, out of the rock, out of the warm under itself, and the big one took it, and the girl took it through him, and the cat, three steps from the top of the stair under a dragon's wing, felt it go by and pressed itself flat on the stone.
-
-The green one got up.
-
-She didn't decide it. She got up all at once, as the boar had. Her foreleg went out from against the cat and her wings came in, and she put her head down the stairwell toward the cold, and went down it. Past the falcon's boy. Past the cat. Down the stair, into the hole, the way the midden girl had gone, folding herself small into it, scraping, down and round and out of sight.
-
-The cat felt her go all the way down. It felt her get to the bottom, and find the big one, and lie down beside him.
-
-That was right. The cat knew it was right. The big one was too big to lie beside, for a cat, and too far down.
-
 Then the hill dropped.
 
 ---
@@ -319,6 +308,16 @@ And under the hill, at the bottom of everything, the warm under woke.
 The cat had felt it turn over in the winter. It had felt it turning all night. Now a thing that had been asleep was awake, all at once, all through, and the warm under was not warm any more. It was something the cat had no way to feel. Too big. A heat with no bottom and no beast in it. As if the bound hounds' small dark places had all been put together into one, and the one was the size of the hill, and it had been lying under the cat all its life.
 
 The cat lay on the step beside the falcon's boy and the falcon, with its ears flat and its fur up and its claws in the cracks of the stone, and did not go anywhere. There was nowhere to go that wasn't on top of it.
+
+Far down the stair, below the paper man, below everything, at the bottom of the hole, the big one's line went bright and hard. Something was happening down there. The cat felt the midden girl's end of it pull tight, and pull, and then a cold came down that line, the cold the cat had felt coming in the yard, and it was worse than the cat had thought it would be. Worse than the hound. Worse than the boy on the step. It came into the big one from somewhere under him, out of the rock, out of the warm under itself, and the big one took it, and the girl took it through him, and the cat, three steps from the top of the stair under a dragon's wing, felt it go by and pressed itself flat on the stone.
+
+The green one got up.
+
+She didn't decide it. She got up all at once, as the boar had. Her foreleg went out from against the cat and her wings came in, and she put her head down the stairwell toward the cold, and went down it. Past the falcon's boy. Past the cat. Down the stair, into the hole, the way the midden girl had gone, folding herself small into it, scraping, down and round and out of sight.
+
+The cat felt her go all the way down. It felt her get to the bottom, and find the big one, and lie down beside him.
+
+That was right. The cat knew it was right. The big one was too big to lie beside, for a cat, and too far down.
 
 ---
 
@@ -346,7 +345,7 @@ Up. Out of the hill, out of the river, up, and away. The cat felt it go out of e
 
 All round the walls of Greyhold the white lamps went out.
 
-All of them, together, in one breath. The cat had never seen them out. Nobody on the hill had. They went dark in their iron brackets and stayed dark, and the yard was grey in the dawn and nothing more.
+All of them, together, in one breath. The cat had seen them falter all winter. It had never seen them go dark together and stay dark. They went dark in their iron brackets and stayed dark, and the yard was grey in the dawn and nothing more.
 
 The step under the cat was cold.
 

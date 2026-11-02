@@ -5,6 +5,7 @@ Tale: 7 (Within Book 1)
 POV: Rook, the Restoration's man in Ulric's hall
 When: Book 1, night 3 (the night before the first ford) to night 139 (the eve of the island's taking), inside the plan's days 0–140
 Status: first draft (Oct 2026), about 11,800 words
+Canon-checked against the books: 29 Oct 2026.
 Depends on: Book 1 ch 6 (Varrhold, the steward with ink on his fingers, the two fires), 10 (the bucket and the halter; "You'd laugh to see me with sheep"; "Would I"; Teo saying the ford out loud three paces off; the hired man at the gate), 14 (the ford on Hollow Beck: alders, smooth brown stones, the shieling; Teo face down at the near edge, two wounds, knife in its sheath; the plain grey armband on the alders; the axe in the shallows; the bay grazing on the far bank; Hob's cart up the Way from two in the morning; Ulric lying the night at the Ram's Head), 16 (wages drawn from the steward the night before; a good horse taken; "Never could mend a halter"; Hob takes Ulric's silver on day 7; the Fenn farm fights for nobody), 17 (night 8 on the island with the Captain; hands in pockets; the third stake; "Not tonight"; the skiff cut loose; "No. We won't need to."; the mill's glow and dragon fire), 18 and 20 (the flour; the bolt from the hedge; the three bonds; the village at the hedge on day 9), 21 (the boy at the Eelweir; "the man" off up the hill inside the hour; the cat left to the Captain, the money at Wendmouth; twenty times), 24 (the coin man pays Hob), 50 and 52 (Joss brought home in a cart; the camp's open door; the Ewe Beck camp burned), 54 (night 105 at Upper Rush; Brask, ten a man, two hundred for the farmer; "Tell him the price is too low"; the muster at the Ram's Head), 58 (the inn yard; the chest and the trestle; "You would. Truly. I'm hopeless."; the back room and the still man's one word; "Good beast. Look after her." at the carter's mare), 60 (the second ford, day 130: sixty in both colours in the gorse; Rook doesn't come; Lisska on the road; Calder says "Rook" in the water and Ulric knows the name; Hallam's bolt), 62 (Ada's paper with Rook, the bucket and the ledger in it, signed in crooked capitals; the Ram's Head tents coming down from day 133), 66 (the island taken at first light on day 140), 68 and 72 (Rook's own account of the ford, the mill, the old man and the book; Delling's chest; "you can't read"); Rulings_41-79.md, Ruling 35 (the ledger in Delling's chest). Checked against, not revealed: Book 2 ch 7, 14, 17 (the paymaster's chest left in the inn's back room under guard all winter; the black book the size of a hymnal with a brass strap; the clerk's slanting hand without a blot; its lines for Rook's wage, the horse, the miller's two silver, the red hand at Upper Rush, the second meeting and the five over the count; nothing written for the night of the ford; the mill's line kept apart, its name unrevealed here).
 Must not reveal: the twins (the man at the table is only "the man"; those above him are "the people he worked for"); the name of the man in the hedge; what the island holds or what the hour is for; anything of the ledger beyond what Book 1 says it holds, except lines Book 2 confirms and no reveal depends on.
 Decided here:
@@ -37,7 +38,7 @@ What nobody paid for, he didn't write. A thing that nobody paid for had happened
 
 The steward paid him on the third night after the fair, in the tally room off the hall at Varrhold, by rushlight.
 
-He was a sour old man with ink on his fingers who had come up through the Clan's dues-school and never forgiven it. He counted the silver out of a leather bag onto the table, four pieces, and counted them again, and pushed them across with one finger as if they were damp.
+He was Ulric's steward, a sour old man who had come up through the Clan's dues-school and never forgiven it. He counted the silver out of a leather bag onto the table, four pieces, and counted them again, and pushed them across with one finger as if they were damp.
 
 "Four silver and keep," he said. "For the winter. Which you've not done."
 
@@ -227,7 +228,7 @@ He wrote nothing else for that day. There was nothing else to write. Nobody had 
 
 He spent two days with the Captain's people in the reeds, and on the third he went up into Harrow's End.
 
-It was a village of thirty-odd houses of river stone and tarred timber, with turf on the roofs and a mill on the beck and an alehouse beside the mill, and barley and flax running down to the water. The Clan's riders had been on the green all afternoon, Arn's down the Way from the moor and Ulric's up it from Cotter's Cross, each asking for grain and men and a name. By the time Rook came up from the river they were gone, and the village had gone indoors to argue about it, and most of the arguing was in the Wheel.
+It was a village of thirty-odd houses of river stone and tarred timber, with turf on the roofs and a mill on the beck and an alehouse beside the mill, and barley and flax running down to the water. The Clan's riders had been on the green that morning, Arn's down the Way from the moor and Ulric's up it from Cotter's Cross, each asking for grain and men and a name. By the time Rook came up from the river they were gone, and the village had gone indoors to argue about it, and most of the arguing was in the Wheel.
 
 He sat in the corner of the Wheel with a cup of small beer and let the room go by him.
 
@@ -319,13 +320,13 @@ Rook stood with his hands in his pockets and looked at the orange sky over the f
 
 In the morning they put in at the Eelweir for water, and a boy on the jetty told them.
 
-He was a skinny Clan boy of twelve or so, a herd's boy off the Way who had come down in the night with the news, and he had the important look of a boy who has seen something before anyone else. He told it to the Captain's men while they filled the casks. He told it to the Captain. He'd have told it to the eels.
+He was a skinny Clan boy of twelve or so, a herd's boy off the Way who had come down at first light with the news, and he had the important look of a boy who has seen something before anyone else. He told it to the Captain's men while they filled the casks. He told it to the Captain. He'd have told it to the eels.
 
 The three riders were dead. That was true. All three, in the fight at the mill, the boy said. The bronze one's rider in the top of the barley field and the axe-man on the roofs below the mill and the girl at the bottom of the field by the hedge, with a bolt in her neck, and nobody knew whose bolt, because the Clan didn't carry them. And the dragons should have gone after them. Everybody knew they did. They should be dead too by now, or dying, or flown off mad into the hills.
 
 They weren't.
 
-"They're lying in Fenn's field," said the boy. "All three of them. Round him. Round the farmer. He's sitting up in the stubble with his ribs tied, and they're lying round him like dogs round a fire, and they let him put his hands on them." The boy's eyes were enormous. "They say he's bonded. To all three. Overnight. They say there's marks on him."
+"They're lying in Fenn's field," said the boy. "All three of them. Round him. Round the farmer. He's sitting up in the stubble, and they're lying round him like dogs round a fire, and they let him put his hands on them." The boy's eyes were enormous. "They say he's bonded. To all three. Overnight. They say there's marks on him."
 
 The Captain laughed, short.
 
@@ -365,7 +366,7 @@ In the middle of the ring a man sat in the stubble with his shirt off and his ch
 
 Rook looked at the man.
 
-A big slow man with barley dust in the seams of his coat, which lay beside him on the ground. He had his hand on the old one's jaw and he was talking to her. Rook couldn't hear what. Low. About nothing, by the look of it. As he had talked to a sand-coloured mare in the lower stable at Varrhold, the whole time he rubbed her down, while he watched the man on the bucket without seeming to.
+A big slow man with barley dust in the seams of his coat, which was round his shoulders. He had his hand on the old one's jaw and he was talking to her. Rook couldn't hear what. Low. About nothing, by the look of it. As he had talked to a sand-coloured mare in the lower stable at Varrhold, the whole time he rubbed her down, while he watched the man on the bucket without seeming to.
 
 *Would I,* the farmer had said.
 
@@ -453,7 +454,7 @@ He wrote down the price of the binding tent, which would have to be paid for aga
 
 Two nights after, a hundred went up the river lane to Upper Rush for the farmer, at ten silver a man, and came back down it by morning with eleven dead on the hill. Rook paid the ten silver a man, because it had been agreed, though the farmer had not been brought. He paid the dead men's ten to their captains, who would keep it.
 
-One of Delling's came back three days late, without his crossbow, in his own boots and nothing else, and went to Delling, and Delling sent him to Rook to say it himself.
+One of Delling's came back three days late, without his sword, in his own boots and nothing else, and went to Delling, and Delling sent him to Rook to say it himself.
 
 Brask, his name was. A lean coast-man with a broken nose. He stood in front of Rook's table in the yard and looked at the ground.
 

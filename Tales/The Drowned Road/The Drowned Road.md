@@ -5,7 +5,8 @@ Tale: 20 (The second handover), first wave; Book 3's new people, met early
 POV: Kit Merrin, captain of the *Kittiwake*, Blackwater reef-pilot
 When: Book 2's high summer to Book 3's day 76. The Merrins' eighth and last crossing (out about Book 2 day 112, at the far shore about days 132–136, home about day 160); the flake sale at Wendmouth (about day 250, after the Halloran fall on 242); Gannet taken on (autumn); the dragons at the boathouse (Book 2 days 297–300); the Bell and the reef-stone (349 and after); the Ostrey paper (end of winter); the lights over the Worldsend (Book 3's first nights); dusk on Book 3 day 76.
 Status: first draft (Oct 2026), about 10,200 words
-Depends on: Book 3 ch 13 (Blackwater; the Merrin house, hold and ochre shutters; the *Kittiwake*, her draught and her stern cabin; Abram, Wenna, Hal; Hal drowned at the ninth when the ship's boat went over on the reef, the ketch a cable off, Jory eight on the ballast reading the stones back; the feather; Fosse and the paper "from the end of the winter"; Gannet came east in the autumn after the Hallorans fell; "Rocks"), ch 14 (Maren's arrival at dusk on day 76: the ladders, the ships standing off, the sellswords leaving their fires; nobody comes that night; Kit rows across at dawn), ch 16 (the hold, the chisel-bench, the book: Abram's square hand, marks copied by men who couldn't read them, *Hal. Squall. The boat.*), ch 17 (the reef-stone has no number; a block marked nine in the ballast), ch 20 (Hal's working charts on the walls of the room where he slept; the house charter on salt), ch 21 (the crew: Ferris, Lorn, Tansy, Nye and Sim, Corrie taken on "last year"; the tooth-rock and its shadow), ch 24 (the piers, the birds, no sailing at night, lying to on a long line, salt at the ninth and Ferris's cap), ch 25 (eight times to the last pier; the Needle, top of the flood only; the lagoon, a league off, four fathoms on white sand; never look at the shore on the last stretch; Kit heard "the rest" once from her father at the tiller), ch 27 and 29 (ashore by day in pairs, back by dusk, the boat never left; Hal's longest stay six days), ch 60 (Gannet "crew thirty years. Your father's. Yours."); Book 2 ch 49 (the Halloran fall), ch 56 (the dragons at Blackwater, as seen from the inlet), ch 75 and 78 (the Bell at the end of the winter); Book 3 ch 1 (lights over the Worldsend like a second dawn).
+Canon-checked against the books: 29 Oct 2026.
+Depends on: Book 3 ch 13 (Blackwater; the Merrin house, hold and ochre shutters; the *Kittiwake*, her draught and her stern cabin; Abram, Wenna, Hal; Hal drowned at the ninth when the ship's boat went over on the reef, the ketch a cable off, Jory eight on the ballast reading the stones back; the feather; Fosse and the paper "from the end of the winter"; Gannet came east in the autumn after the Hallorans fell; "Rocks"), ch 14 (Maren's arrival at dusk on day 76: the ladders, the ships standing off, the sellswords leaving their fires; nobody comes that night; Kit rows across at dawn), ch 16 (the hold, the chisel-bench, the book: Abram's square hand, marks copied by men who couldn't read them, *Hal. Squall. The boat.*), ch 17 (the reef-stone has no number; a block marked nine in the ballast), ch 20 (Hal's working charts on the walls of the room where he slept; the house charter on salt), ch 21 (the crew: Ferris, Lorn, Tansy, Nye and Sim, Corrie taken on "last year"; the tooth-rock and its shadow is the Shatters' first turn), ch 24 (the last tooth of rock astern at sunset the evening before the first pier; the piers, the birds, no sailing at night, lying to on a long line, salt at the ninth and Ferris's cap), ch 25 (eight times to the last pier; the Needle, top of the flood only; the lagoon, a league off, four fathoms on white sand; never look at the shore on the last stretch; Kit heard "the rest" once from her father at the tiller), ch 27 and 29 (ashore by day in pairs, back by dusk, the boat never left; Hal's longest stay six days), ch 60 (Gannet "crew thirty years. Your father's. Yours."); Book 2 ch 49 (the Halloran fall), ch 56 (the dragons at Blackwater, as seen from the inlet), ch 75 and 78 (the Bell at the end of the winter); Book 3 ch 1 (lights over the Worldsend like a second dawn).
 Must not reveal: the elders; what the light is (the hills at night are kept behind Kit's back, and what Hal told her is never put in words); the Lit Shore's name (the shore is only "over there"). Kit can't read the hooked script, so the milestones' words are never given.
 Decided here:
 - The eighth crossing was made in Book 2's high summer because Saffery's man on Gallows Quay wrote that "everything with a word on it" was selling, with beasts waking in the north. The crossing before it (the seventh, six years after Hal drowned) was about four years earlier. Out of Blackwater: two days in the Shatters, the first pier on the third day, the ninth on the sixteenth, the light under the horizon on the twentieth night, the last pier and the Needle on the twenty-first; home in twenty-four. The price of a flake stays two silver on the quay; the Merrins get half a silver from Saffery.
@@ -166,13 +167,13 @@ She kept reading the book anyway. One day he'd have to sail without her, and one
 
 ---
 
-At noon on the second day they came to the tooth.
+At sunset on the second day they came to the last tooth.
 
-A rock like a broken tooth, with a second rock behind it like its shadow, and a channel between the two no wider than a cart-track, dark and deep, going south-west. Abram had drawn it eighty years ago. It was the last turn in the Shatters. Past it, the reef ended, as if somebody had drawn a line across the sea and told it to stop.
+A rock like a broken tooth, standing up alone out of the white water, and a channel beside it no wider than a cart-track, dark and deep, going south-west. Abram had drawn it eighty years ago. It was the last turn in the Shatters. Past it, the reef ended, as if somebody had drawn a line across the sea and told it to stop.
 
 Ferris in the bows called the soundings. Lorn on the mainsheet, Tansy singing under her breath in the galley because she always sang there and never knew she was doing it. Nye and Sim at the shrouds with their mouths open.
 
-The *Kittiwake* went through between the tooth and its shadow with a fathom to spare on either side, and the reef fell away astern, and the water under her went from brown to green to blue to a blue so dark it was nearly black.
+The *Kittiwake* went through by the tooth with a fathom to spare on either side, and the reef fell away astern, and the water under her went from brown to green to blue to a blue so dark it was nearly black.
 
 Long swell. Deep water. Nothing.
 
@@ -184,9 +185,9 @@ Sim looked over the side for a while. Then he went and stood a little further fr
 
 ---
 
-There were reefwyrms that afternoon. Three of them, following the wake, long and grey under the surface with their fins just showing, waiting for scraps. Tansy threw them the pork-rinds over the stern, a little at a time, and called them names. You fed a reefwyrm or it came looking. Kit had seen one put its back under a fishing smack off the Teeth one summer and roll her over, just to see what fell out.
+There were reefwyrms that evening. Three of them, following the wake, long and grey under the surface with their fins just showing, waiting for scraps. Tansy threw them the pork-rinds over the stern, a little at a time, and called them names. You fed a reefwyrm or it came looking. Kit had seen one put its back under a fishing smack off the Teeth one summer and roll her over, just to see what fell out.
 
-They dropped back at dusk. They always did. They didn't like deep water either.
+They dropped back at dark. They always did. They didn't like deep water either.
 
 ---
 
@@ -334,7 +335,7 @@ She'd brought the ketch home herself.
 
 Thirty-odd piers and the Shatters, with the book open on a board across the binnacle and her finger on her father's corrections, and the crew doing what she said without being told twice, which was the only kindness any of them could think of.
 
-And Jory. Eight. He came up from the ballast on the first morning going back and stood at her elbow and looked at the next pier as it came up, and said the page it was on. Before she'd found it. Then the next one. Then the next. All the way home. One by one, by eye, in his small level voice, as if he were reading her a story.
+And Jory. Eight. On the first morning going back he put his chin on the hatch-coaming over the ballast and looked at the next pier as it came up, and said the page it was on. Before she'd found it. Then the next one. Then the next. All the way home. One by one, by eye, in his small level voice, as if he were reading her a story.
 
 He didn't cry. Not once, not on the whole road. She'd thought that was the worst thing she'd ever seen, a child not crying.
 
@@ -508,7 +509,7 @@ Kit stopped it out of Nye's share and told him why. Nye cried. Then he worked ha
 
 ---
 
-She took the flakes to Wendmouth at the end of the summer.
+She took the flakes to Wendmouth late in the autumn.
 
 Three oak boxes, iron-bound, packed in sawdust, in the *Kittiwake*'s stern cabin under the bunk where her grandmother's sea-chest had to move over. West along the coast. In through Wendmouth's chain at the river mouth, chain money paid, which Corrie wrote down without being asked.
 
@@ -626,7 +627,7 @@ She'd remember the sound. Tarred planks breaking, all at once, a great splinteri
 
 The small green one hung over the hole in the roof with her cloth off. Kit could see her mouth open. She couldn't hear what came out of it. A hum, maybe. She felt it more than heard it, faint, in the deck under her feet.
 
-A man went into the water off the shed's sea-door. The grey-green dragon's tail had done it, lazily. Others on the shore threw down whatever they'd been holding.
+A man went into the water through the shed's side. The grey-green dragon's tail had done it, lazily. Others on the shore threw down whatever they'd been holding.
 
 Then it was over. It had been very short.
 

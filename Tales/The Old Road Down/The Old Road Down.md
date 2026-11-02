@@ -5,6 +5,7 @@ Tale: 17 (Within Book 2)
 POV: an olifant cow of Sarovel's royal herd, unbonded, of the olifant yard under Solenne's landward wall (the olifant-boys call her Bruna)
 When: Book 2, from the Titan lying down on the ridge above the palace (about day 300) to the night after the drain (day 318): the fall of Solenne, ch 60–63, with the herd's nine generations underneath
 Status: first draft (Oct 2026), about 9,800 words
+Canon-checked against the books: 29 Oct 2026.
 Depends on: Book 2 ch 55 (Solenne from the last hill: the white city, the low quarter below the walls, the Sunward Hills behind, the grey shape lying on the ridge above the palace by day 300), 57 (the wild unicorns; the old near-black mare with the broken horn), 58 (the royal stables on the cliff east of the palace; three olifants at the end, tusks gilded at the tips; the stir: lamps white and cracking), 60 (noon 315: the grey shape stands up on the hills and comes down onto the palace cliff; the surge), 61 (the Titan flies off the cliff north-west; every lamp in Solenne white, the low quarter's too; the Horned Sun rises out of the bay on 317), 63 (days 315–318: three days of the white city burning; the swells; the wild unicorns down out of the hills and over the walls on the afternoon of 317; boats from the shingle at dawn 318; the three royal olifants come down the harbour road with their bonded riders, the old white-bearded one on the middle beast, and turn across the gap and stand; three lions on the fishing-stair holding the slide; the drain in the afternoon, the riders' bonds dull, the olifants stand anyway; loose cats, hounds and a bond-steed bolting up into the vineyards), 86 (Tobin's letter: the olifants still standing in the road); Book 3 ch 8 (only the three royal olifants are in Solenne the next spring); Bestiary (olifants: the rumble, trumpets for alarm and grief, the royal herd's lost map, the wild herds' roads and water; tuskers; bonds only by the beast's choice; an unbonded beast doesn't understand human words); World.md (the Sunward Hills run down to the ridge above the palace).
 Must not reveal: what the Titan and the Horned Sun are, beyond what Book 2 shows (neither gets a POV; to her they are a weight in the ground and a light over the wall); the six ends and the roads of ch 65 (the old road is only a road to her); where the herd goes after this night (Book 3 has Sarovel's olifants; this tale doesn't say how they get there). The Council is never named.
 Decided here:
@@ -520,7 +521,7 @@ Close. Nothing like the faint thing in the bones of the feet on still nights, fr
 
 *I am here,* the hills said. *Of my mother. Of hers.*
 
-A line. A long one. Longer than any line the yard had, back and back through mothers, so many that she lost count of them, so many that the eldest shifted on her feet and then went still again and listened. On and on. Each mother a long note and a breath.
+A line. A long one. Longer than any line the yard had, back and back through mothers, more than she could hold, so many that the eldest shifted on her feet and then went still again and listened. On and on. Each mother a long note and a breath.
 
 It came down the last terrace as it spoke. Feet. One set. Heavy, but not like the yard's feet. Careful, and sure, and very slow, setting each foot down as if it knew exactly what was under it. As if it had been down this way before.
 
@@ -528,7 +529,7 @@ Something stood at the back wall.
 
 ---
 
-She was old. Older than the eldest. Lean, with her skin hanging in folds off her hips and her ribs showing under it, and her ears torn to fringes along the edges, so that the dusk came through them. One tusk broken off at half its length long ago, the end gone smooth. The other long and yellow and uneven, never sawn, never capped, curving a little to the left.
+She was old. Older than the eldest. Lean, with her skin hanging in folds off her hips and her ribs showing under it, and her ears torn to fringes along the edges, so that the dusk came through them. One tusk broken off at half its length long ago, the end gone smooth. The other long and yellow and uneven, never sawn, never capped.
 
 She smelled of the hills. Thyme, and the sticky rock-rose that grew on the terraces above the vines, and goat dung, and cold water. And olifant. An olifant smell, but other. Not straw, not the yard, not brick dust and the boys' hands. Wind. She smelled of having been in the wind all her life.
 

@@ -5,6 +5,7 @@ Tale: 10 (The first handover)
 POV: Corvin Vale
 When: Book 1 night 143 (midnight, the Ruin's lock) to Book 2 day 20 (noon, Cotter's Cross)
 Status: first draft (Oct 2026), about 11,300 words
+Canon-checked against the books: 29 Oct 2026.
 Depends on: Book 1 ch 68 (the arch: "two hands", "a man's a halter", Corvin's stillness and voice; Rook; Reede and Millbrook; Halloran's woman and the Fellow), 74 (the round chamber; ten of Delling's men; the Fellow's two releases; the hour-candle and its ten notches; "My brother has the same candle"; Danny), 76 (the count; Kharrak through the dome at "three"; Calder's hand on Corvin's wrist; the turn "as if it wanted to"; the far lock in the same breath; the one smile; Corvin lets go of the key and walks to the rim; the floor drops with the Fellow on it; three figures with a lantern on an older stair on the far wall, Corvin first, not looking back), 77 (Cassian's speech: the father at the back of the line, buried outside the wall; "two boys with one face"), 78 and 79 (the chains break one at a time, then silence; the river into the hole; the Titan rises at dawn and flies north-east; Hearthmere's lamps go out; the army on the Harrow's End hill goes flat); Book 2 ch 1 (the army comes apart and walks off north and south), 4 (day 3: the body hung in ordinary chain by the arms under the charter, a board round its neck, THE RESTORATION'S LEADER), 5 and 7 (the unpaid companies on the Way; Delling has the paymaster's chest), 6 (Millbrook's well sour), 12 (the wool-carters' news: up an old stair, "all over mud", the Fleece's big room, the captains every night, the ring on the ram sign, Reede's press and the bill's exact wording; "Vale," and stop; "there was two"), 14 (the Cross as Calder finds it on day 26, for consistency only: the Fleece's three storeys and gallery, the companies' coats, Delling at the Plough who "has known him two years", the silver promised up the Track, the man who went over the river to see the gate "before they shut the crossings"); Story.md (the twins, the locks); Atlas (the Cross ten leagues south of Harrow's End; eight leagues a day on foot).
 Must not reveal: where Corvin goes after Book 2 ch 12; the roll; the College; Kessmoor. Also kept back (Book 2 threads): where the older stair comes out, who first found it, and where the key came from. The tale never says how Corvin knows the way, and never names the place he comes up.
 Decided here:
@@ -95,7 +96,7 @@ Corvin heard him look. Heard the breath go into him and stop. Below and behind t
 
 "I know."
 
-"He put Danny's own…"
+"He put his knife in…"
 
 "Gil," said Tull. "Walk."
 
@@ -331,7 +332,7 @@ He didn't look round. He knew where he was. The mist was on everything, and ther
 
 They lay up all day in the wood.
 
-Bracken, old oak, the ground soft with leaf. He found a hollow where a tree had come down years ago and its root-plate stood up like a wall, and they lay in it under the bracken, wet through and filthy, and nobody came. Deer, once, at the edge of the hollow, a hind and her yearling, who looked at them and went away. Far off through the trees, at the end of the morning, there were bells. They rang a long while and stopped.
+Bracken, old oak, the ground soft with leaf. He found a hollow where a tree had come down years ago and its root-plate stood up like a wall, and they lay in it under the bracken, wet through and filthy, and nobody came. Deer, once, at the edge of the hollow, a hind and her yearling, who looked at them and went away. Far off through the trees, at the end of the morning, there should have been a bell. There wasn't. He listened for it a long while.
 
 Gil slept. He went down as if somebody had hit him and lay curled with his face in his arm. Tull didn't sleep. He sat with his back to the root-plate, rubbing his knee, and looked at Corvin.
 
@@ -435,7 +436,7 @@ Gil made a sound.
 
 "Ferrand," said Tull. "Hobday. Mott. Sallis." His voice was quite flat. "Jem Leckie. Rab Leckie. Carrow." He stopped. "That's eight."
 
-Corvin had known them by their coats. He hadn't known their names. Ten men of Delling's in the chamber, and two had come up the stair, and the farmer had killed one before the floor went, and the floor had taken seven, and the man the farmer had put the brand into, screaming. That was eight.
+Corvin had known them by their coats. He hadn't known their names. Ten men of Delling's in the chamber, and two had come up the stair, and the farmer had killed one before the floor went, and the floor had taken the other seven, the man the farmer had put the brand into among them, screaming. That was eight.
 
 He watched Tull push the earth back into the hole with the flat of his hands, and pat it down, and kneel on it a moment.
 
@@ -773,7 +774,7 @@ Corvin went down himself.
 
 ---
 
-"Through Millbrook," said Reede, upstairs, with a cup of Dunmore's bad wine in both hands. "There's a boat on the back channel that doesn't ask. It took four of us to get the press in it." His soft voice was hoarse. "Millbrook's half burned. Fennick's barn, the tithe barn, the jetty road. The well's gone sour. The sweet well, under the stone hood. Since the morning it flew. Brown, and stinks. They're going to the Widow Rudd with cups of it and paying her a copper to say words over it and the words don't take." He drank. "Nothing takes over there now. Nothing."
+"Through Millbrook," said Reede, upstairs, with a cup of Dunmore's bad wine in both hands. "There's a boat on the back channel that doesn't ask. It took four of us to get the press in it." His soft voice was hoarse. "Millbrook's half burned. Fennick's barn, the tithe barn, the jetty road. The well's gone sour. The sweet well, under the stone hood. Five days after it flew. Brown, and stinks. They're going to the Widow Rudd with cups of it and paying her a copper to say words over it and the words don't take." He drank. "Nothing takes over there now. Nothing."
 
 "I know."
 

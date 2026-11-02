@@ -5,6 +5,7 @@ Tale: 9 (Within Book 1), short
 POV: Bracken, Ide Darrow's bonded hound
 When: Book 1 days 49–63: the dawn before Ferriby (49) to the Redwatch landing at dawn on day 63
 Status: first draft (Oct 2026), about 9,400 words
+Canon-checked against the books: 29 Oct 2026.
 Depends on: Book 1 ch 1 (the hound in the yard; the tongue-click), 5 (patrols; hackles up at the roadblock), 9 (Pell's bench; the pirate girl; Ide's hand goes still), 25 and 27 (the Long Barn; Bracken lets Maren in on the fifth day; Grieve; the cat nobody owns, which he pretends not to see; Thorne's boar; Kesh), 29 (Ide brings Maren soup), 33 (Ferriby, day 49: the seven; the dusk-word lamps; Bracken lifts his head; "Instructor"; the raider at the pump; "He always lets go when I tell him"; "I'd have let him"), 37 (Dun dies on the morning of day 56; Ide helps carry Merrow; the silent barn; the cat in Dun's stall; the pyre at dusk on day 57), 39 (first hard frost on night 62; the patrol sleeps in the Redwatch guardroom; dawn 63: Maren in the yard, the knock, the shout, the frozen steps, six silent hounds and the man in grey with his arm out, Pell down, Bracken past Maren, the raider with the axe into the river, two hounds off Callis, the throat, the crossbow, "He let go", lying down like an old dog by the fire; Ide ten paces off with her hand under her ribs on the left), 41 (ice running from day 62); Bible: World.md (one life between two; the pull comes down the bond; partners feel each other, speak mind to mind, don't share thoughts), Bestiary (bond-hounds; great cats; bound beasts), Magic.md §6.
 Must not reveal: nothing past day 63. No hint that the grey cat is of the lions' kind, nothing of what lies under Greyhold, nothing of Callis.
 Decided here:
@@ -97,7 +98,7 @@ She smelled of boot-wax and wool and the long stone house. And under them, the s
 
 There were seven of them, and he knew them all by their lines.
 
-The old man with the short hand, at the front, on the bay horse. Horse liniment and pipe and iron, and the hand that had two fingers gone, which Bracken had smelled once, close, in the yard, and found it smelled of nothing at all where the fingers should be. Grip's man, and Ash and Sorrow's man, the two from the gate, with their hounds at their stirrups. Grip trotting stiff and silent. Ash and Sorrow on either side of their man's horse, a body's width off, never further. The hawk's boy, with the hawk hooded on his fist. The one with nothing at his knee, sour, on a cob that hated him. The fork-girl at the back with the spare horses, on the grey with the knocking thing tied to its bridle that smelled of a turnip a very long time dead.
+The old man with the short hand, at the front, on the bay horse. Horse liniment and pipe and iron, and the hand that had two fingers gone, which Bracken had smelled once, close, in the yard, and found it smelled of nothing at all where the fingers should be. Grip's man, and Ash and Sorrow's man, the two from the gate, with their hounds at their stirrups. Grip trotting stiff and silent. Ash and Sorrow on either side of their man's horse, a body's width off, never further. The hawk's boy, with the hawk hooded on his fist. The one with nothing at his knee, sour, on a cob that hated him. The fork-girl at the back with the spare horses, on the piebald with the knocking thing tied to its bridle that smelled of a turnip a very long time dead.
 
 And her, on the pony. And him, at the pony's near side, at her stirrup, where she could put her hand down.
 
@@ -157,7 +158,7 @@ Then wood on stone, from the bottom of the lane. And a voice, cut off.
 
 They came up out of the dark at the bottom of the lane all at once, and they didn't come at the seven.
 
-He'd have understood that. A man coming at you was a line you could take. These came up the lane and broke into pieces, some one way and some another, round the little building, along the water, across the grass, quick, as hares break in a field when the dogs come, except that hares run from something and these were running to it. There was a noise above all of it that he didn't know. A high thin noise, two short and then quiet. It came from up on the roof of the forge.
+He'd have understood that. A man coming at you was a line you could take. These came up the lane and broke into pieces, some one way and some another, round the little building, along the water, across the grass, quick, as hares break in a field when the dogs come, except that hares run from something and these were running to it.
 
 The short-handed man shouted. Noise. Ide moved under it, and the pony moved under her, and the line went taut toward the middle of the grass where four men were standing with iron in their hands.
 
@@ -179,7 +180,7 @@ He held.
 
 That was the first thing. Hold. He had the arm, and the man under him, and the man's line, sweat and the smoke and blood now, hot, in his mouth. The man was shouting. Noise. The man's other fist hit him in the head, and again, and the man's boot came up and caught him in the near shoulder, hard, a crack that went all down that leg. He held. He set his feet and leaned his weight back and the arm came with him and the man shouted higher.
 
-Everywhere round him there was noise. The high thin noise from the roof again. One long one. Horses. A woman, screaming over and over, and a child. The hawk, screaming too, somewhere over the water. The greyharts. Hooves. He didn't have room for any of it. He had the arm.
+Everywhere round him there was noise. A high thin noise he didn't know, from up on the roof of the forge: two short. Then, after a while, one long one. Horses. A woman, screaming over and over, and a child. The hawk, screaming too, somewhere over the water. The greyharts. Hooves. He didn't have room for any of it. He had the arm.
 
 And the line. It was there, along the edge of everything, taut and hot. She was close. She was on the pony, still, behind him, up. She was frightened, and not of the man, and she was angry, and under the anger there was something else, wide and cold and hard to stand near, that came from her whenever he had his teeth in something. He didn't know what that was. It came from her into him, and he held anyway.
 
@@ -215,7 +216,7 @@ There was a barn burning. There was a man sitting in a doorway with his face in 
 
 They rode back along the water in the dark.
 
-Nobody talked. The short-handed man had blood on his face and a strip of cloth round his head that smelled of Ash and Sorrow's man. Grip's man had an arm that smelled of his own blood. The hawk's boy had the hawk on his fist with the hood off, and kept stroking it with one finger, and the hawk let him, which it never did. Ide rode at the back, beside the fork-girl on the grey. Bracken loped at her stirrup. The near leg was bad. Every time it came down he felt the boot in it again. He didn't stop. He didn't make a sound.
+Nobody talked. The short-handed man had blood on his face and a strip of cloth round his head that smelled of Ash and Sorrow's man. Grip's man had an arm that smelled of his own blood. The hawk's boy had the hawk on his fist with the hood off, and kept stroking it with one finger, and the hawk let him, which it never did. Ide rode at the back, beside the fork-girl on the piebald. Bracken loped at her stirrup. The near leg was bad. Every time it came down he felt the boot in it again. He didn't stop. He didn't make a sound.
 
 She kept looking down at him. He felt her look.
 
@@ -227,7 +228,7 @@ The noise, and then under it the meaning, plain. He looked up at her.
 
 "It's the raider's," she said. "He let go when I told him." The line went quiet for a while. "He always lets go when I tell him."
 
-The fork-girl made a short noise. Rooks.
+The fork-girl nodded.
 
 Then Ide said, lower, so low that if it hadn't come down the line too he wouldn't have heard it at all over the hooves, "I'd have let him keep going. If it'd been me on the ground. I'd have let him."
 
@@ -253,7 +254,7 @@ The leg got better. It took five days. The fork-girl mucked him out each morning
 
 The days went as the barn days went. The bell. The bald man's lantern. The fork. Ide across the yard with her breath going white, and the line going short, and *Bracken*, and the yard, and the sand, and the posts. At the posts she worked him at his work, slow because of the leg, as he'd learned it at the uncle's farm and at the school after: go, and hold, and let go, and come back to her knee. Go, and hold. Let go. Back to her knee. He could have done it asleep. He did it anyway, every time, as if he'd never done it, because she asked.
 
-In the afternoons she sat on the long bench under the wall with the others, with his head on her knee, and an instructor talked.
+Some mornings she sat on the long bench under the wall with the others, with his head on her knee, and an instructor talked.
 
 He remembered one of those. In the summer. The short-handed man at the front, with a spear, talking and talking, and the cat up on the wall top in the sun, where nobody had put it. He hadn't understood any of the short-handed man's noise. Only her. And at one place in the noise, her hand had stopped on his head.
 
@@ -373,7 +374,7 @@ He didn't go to sleep until she went.
 
 The cold came down the river after that, a little more every night.
 
-He felt it in the morning in the yard. The cobbles were hard and loud under his nails. The water in the trough had a skin on it that cracked when you put your nose in. The smells were sharper, and stayed lower, and didn't travel. The river had a new smell: ice. Out at the edges, in the reeds, where it ran slowest. It made a sound at night that came all the way up to the barn, a long slow grinding, like the uncle's cart on the stones.
+He felt it in the morning in the yard. The cobbles were hard and loud under his nails. The water in the trough had a skin on it that cracked when you put your nose in. The smells were sharper, and stayed lower, and didn't travel. The river had a new smell: ice. Out at the edges, in the reeds, where it ran slowest. It made a sound at night that came all the way up to the barn, a long slow creaking, like the uncle's cart on the stones.
 
 The fork-girl smelled less of the island. Some mornings she smelled of it and some she didn't. The mornings she didn't, she smelled of not sleeping instead.
 
@@ -389,7 +390,7 @@ On the last day the short-handed man came across the yard in the afternoon and m
 
 He knew *tower*. He knew *tonight*. His tail went.
 
-They went up the road in the last of the light, the seven, the same as before, with Grip and Ash and Sorrow loping and the hawk hooded and the grey with its old turnip knocking. The sky was clear and very high, and green at the bottom where the sun had gone, and the cold came down out of it as they went, so that by the time they got to the tower the grass at the side of the road was crisp under his feet and breaking.
+They went up the road in the last of the light, the seven, the same as before, with Grip and Ash and Sorrow loping and the hawk hooded and the piebald with its old turnip knocking. The sky was clear and very high, and green at the bottom where the sun had gone, and the cold came down out of it as they went, so that by the time they got to the tower the grass at the side of the road was crisp under his feet and breaking.
 
 There was the yard, and the fire, and the men. There was food. There was the floor of the guardroom, by the hearth, where they all lay down in their cloaks, the seven, close, and the hounds among them.
 

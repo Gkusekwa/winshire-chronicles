@@ -5,10 +5,11 @@ Tale: 15 (Within Book 2)
 POV: Skell, a young blue dragon bonded to Tor Brecc
 When: Skell's hatching (about four summers before Book 2's midsummer) to the Roosts raid on Book 2 night 98; told mostly on night 98, with the hatching, the pens, his choosing two midsummers before, Teo's burning, the winter on the ledges and the second ford (Book 1 days 130–132) underneath
 Status: first draft (Oct 2026), about 8,900 words
+Canon-checked against the books: 29 Oct 2026.
 Depends on: Book 2 ch 21 (the choosing: forty young out of the pens at dusk, thirty in the line, Tor at the ledges' near end by the stair, Skell's chin on Tor's shoulder and the scratch under the jaw; Gunna on Tamsin's foreleg with her pipe on the ledge below the setters'; the young bronze before the Skarrow girl with her eyes shut, someone saying her name; honey-smoke an hour after dark from the north-east, honey and pine-gum, a white bank over the cliff-top, the line of small red fires; Kharrak half under, then roaring up and lighting the cliff; men on ropes with grapnels from the glen and from the cliff-top, wet cloths, Wendmouth boots; binders with pots on chains and hinged collars; two bound wyverns; the binders choose four; Gunna and Tamsin go down, the pot breaks, gold fire on Tamsin's wing and Gunna's cloak, Ivar and Leif drag them up; the fifth binder, a straggler, puts his hand on Skell's head; Tor kills him with an axe, one blow, the hand still lifted; Skell comes up out of the smoke and doesn't know Tor, turns, the teeth; Tor doesn't lift the axe, hand out open; a bolt from the second wyvern's back into the throat under the jaw where the plates are thin; Tor folds at the same moment; they lie together at the lip, the hand open, the young blue's head across his knees), 24 (the bier, the pour at Coldtarn, Lisska: "He had his hand out. To Skell. And Skell didn't know him."), 19 (the Skell Water), 10 and 12 (Aurveth walking up the glen and the cry going up; the pens: oak bars, straw, light in stripes, keepers with barrows of mutton, whistling; the eggs, the warm ground, the bargain), 20 and 22 (honey-smoke on the wind the same night far off; nothing of the Ring is seen here), 33 (the four: the big bronze, the black, a two-year-old red, a yearling red; "as Skell had put his chin on Tor's"; the kin-call). Book 1 ch 6 (the Roosts: hot stone, iron, burnt hair; the iron rail on the stair), 48 (eleven pairs; the steward up the cliff once a week to call them cowards), 54, 58, 60 (the second ford: eleven in a row by the black shieling; Hallam goes down on Morrow shouting, the ten don't follow "till I fell"; the bolt; Morrow down at the water's edge; Hallam's hand on her face), 62 (the vigil; Morrow lifts her head to the ten at dusk on the third day and every one stands; the low long sound; three carry them to Coldtarn, nine shapes). Bible: World.md (how the Clan keeps its dragons: eggs, pens, bargain, choosing; one life between two and the pull, a breath when the dragon goes first; kin-speech within sight; words carry three or four leagues; a bonded beast understands only its partner's words); Magic.md §6 and §8 (honey-smoke: sleepwood resin cooked with honey; the binder's hand and will; the self going out to make room; honey-smoke on the wind opens bonded and unbonded alike); Bestiary (dragons; wyverns: count the legs; crag-eagles).
 Must not reveal: anything past Book 2 ch 24. Nothing of what happened at the Hollow Ring that night or what "opened" in the east; nothing of where the four are taken (ch 33, 56); Corvin is not named or recognised (Skell doesn't know him). No Titan, no elder, nothing of the six.
 Decided here:
-- Skell hatched in the caves above Coldtarn, his egg in a bowl of the warm floor near the spring; an old unbonded dragon at the back of the caves gave the hatchlings the mother-hum. In their first autumn the keepers brought the hatchlings down to the pens at Varrhold in wicker baskets on an old dragon's back. The keepers had called him Skell from the caves; it was only a sound to him until Tor said it.
+- Skell hatched in the Clan's newer hatching caves under the hold (the old caves above Coldtarn have been unused a hundred years: Book 1 ch 40; Book 2 ch 12), his egg in a bowl of warm sand near the spring; an old unbonded dragon at the back of the caves gave the hatchlings the mother-hum. In their first autumn the keepers brought the hatchlings down to the pens at Varrhold in wicker baskets on an old dragon's back. The keepers had called him Skell from the caves; it was only a sound to him until Tor said it.
 - Skell thinks in places: where the drop is, what is behind him, what is warm. He always knows where the edge is. He hears kin-voices within sight as talk in the next cave; strangers' speech is noise to him, and he understands only Tor's words, so he hears every conversation by halves.
 - He was a two-year-old at his choosing, two midsummers before Book 2's, and Tor was seventeen. He chose Tor because Tor was standing with his heels at the lip of the Choosing Ledge, and he went and stood between him and the drop, and stayed. His first words to Tor: *You're too near the edge.*
 - Tor's bond mark is blue, on the top of his right shoulder, where Skell first put his chin that night. The soft place under Skell's jaw where Tor scratches is where the plates are thin.
@@ -29,11 +30,11 @@ Skell remembered the warm before he remembered anything.
 
 It was under him. That was the first thing, before light or sound or the smell of the others. A floor that was warm as nothing else in the world would ever be warm again, from below, from very deep, steadily, as if the stone itself were breathing slow under the place where he lay. He had lain in it a long time in the egg. He didn't remember the egg. He remembered coming out of it, wet and furious and cold all down one side where the air touched him, and putting himself back down at once on the warm with his eyes still shut, flat, all four feet out, as close to the floor as he could get.
 
-That was the caves above Coldtarn, on the eastern rim, where the Clan keeps its eggs because nowhere else on the Scarfell runs warm enough to hatch them. A low cave, and then another behind it, and others behind that going back into the hill, and in the second cave a spring that came up out of the floor and ran away in a channel cut by men, and steamed. His egg had lain in a bowl of the floor near the spring. The bowls were worn smooth. Dragons had lain in them since before there were people to cut channels.
+That was the hatching caves under the hold, the ones the Clan cut a hundred years ago, where it keeps its eggs now. A low cave, and then another behind it, and others behind that going back into the hill, and in the second cave a spring that came up out of the floor and ran away in a channel cut by men, and steamed. His egg had lain in a bowl of the floor near the spring. The bowls had been cut by men, with warm sand in them.
 
 Out at the front of the caves there was the mouth, and the light, and past the light there was the drop.
 
-He knew where the drop was before he could walk. He couldn't have said how. He'd lie on the warm with his eyes shut and know it: the floor going on, and on, and then the floor stopping, out there in the light, and nothing, a great deal of nothing, all the way down to the black water. The tarn. It lay below the caves' mouth, round and black and still, and it never froze, the keepers said, though he didn't know then what the keepers said. He only knew it was there. The drop on one side of him, always. The warm under him. And the others.
+He knew where the drop was before he could walk. He couldn't have said how. He'd lie on the warm with his eyes shut and know it: the floor going on, and on, and then the floor stopping, out there in the light, and nothing, a great deal of nothing, all the way down to the glen. He only knew it was there. The drop on one side of him, always. The warm under him. And the others.
 
 ---
 
@@ -83,7 +84,7 @@ He hadn't meant to. That was what he'd say, after, to Tor, when Tor asked: *I di
 
 It was this. The line was long that year, more than twenty of them, and the ledge was crowded, and the young dragons came out of the pens in a rush and spread along it, and Skell kept to the cliff side as he always did. And at the near end of the line, by the head of the stair, where the line ran out and the ledge ran on a little way to its lip, a boy was standing with his heels on the edge.
 
-Not in the line. Behind it. He'd been pushed out of it by the crowding, or he'd stepped out of it to see. He was long and thin and had a great deal of nose, and he wasn't looking at the dragons at all. He was looking down. Over his own shoulder, down, into the dark below the lip, as you'd look at something you'd dropped. His heels were on the edge. Half of each heel was over nothing.
+At the very end of the line, and a step out of it. He'd been pushed by the crowding, or he'd stepped out to see. He was long and thin and had a great deal of nose, and he wasn't looking at the dragons at all. He was looking down. Over his own shoulder, down, into the dark below the lip, as you'd look at something you'd dropped. His heels were on the edge. Half of each heel was over nothing.
 
 Skell's whole body knew where the drop was.
 
@@ -145,7 +146,7 @@ They were on the ledge outside the cave, in the first summer, with the fire goin
 
 "I've seen two. On the Wend, when I was small, from the Way. A boat's a thing you sit in on water. It floats. Like a stick does, only you're in it."
 
-Skell turned it over. He had the word. He had the thing about the stick. He didn't have the water, the Wend; he'd never seen a river bigger than the beck. So he put it on the only water he knew. The black water under the caves. Coldtarn. Round and still and deep. A thing on it, floating, with somebody sitting in it.
+Skell turned it over. He had the word. He had the thing about the stick. He didn't have the water, the Wend; he'd never seen a river bigger than the beck. So he put it on the only water he knew. The black water above the hold, that he'd flown over with the others in the spring. Coldtarn. Round and still and deep. A thing on it, floating, with somebody sitting in it.
 
 *And the rope.*
 
@@ -175,7 +176,7 @@ Then it was the winter the ledges didn't fly.
 
 Skell didn't understand it. Tor explained it, and the explaining came along the line hot and sour, like something gone off. There was a war in the Clan. Two sides, the red thread and the grey, the chief's son and the chief's brother. And there was a law older than either of them, that no bonded rider fights kin. So the bonded didn't fight. Eleven pairs, on the ledges: the old ones, mostly, and Leif with his young brown, and Tor. They stayed in the Roosts. They hunted the high glens and came home and sat outside their caves and didn't fly for either side, and the war went on below them in the dark, steadings burning down the glen, and the smoke coming up.
 
-Once a week a long sour man came up the stair from the yard, limping, and stood on the ledge and made noise at them.
+Once a week a long sour man came up the stair from the yard and stood on the ledge and made noise at them.
 
 "He says we're cowards," Tor said.
 
@@ -411,7 +412,7 @@ Not on the ledge. He could smell Tor on the ledge still, right there, peat smoke
 
 Out on the water.
 
-He saw it. He couldn't help it. The black water under the caves, still, round, and the thing on it. Tor's word, the stick you sit in. And the rope going slack, and the black water taking him, out, off the shore, slowly, slowly, toward the middle.
+He saw it. He couldn't help it. The black water above the hold, still, round, and the thing on it. Tor's word, the stick you sit in. And the rope going slack, and the black water taking him, out, off the shore, slowly, slowly, toward the middle.
 
 *Tor,* he said. *I'm coming off.*
 

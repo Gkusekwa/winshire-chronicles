@@ -5,6 +5,7 @@ Tale: 5 (Within Book 1)
 POV: Teo Varr, Haldor's younger son
 When: Book 1, from the night Haldor's pyre is lit at Varrhold (about day -26) to first light on day 4, when Teo rides down the Drover's Way to the ford on Hollow Beck
 Status: first draft (Oct 2026), about 11,700 words
+Canon-checked against the books: 29 Oct 2026.
 Depends on: Book 1 ch 2 (the pyre smoke three days on Varrhold; the funeral flight of seven; Hob's "somebody's counting"; Teo at lambing two springs ago; the Upper Rush raid at dark), 4 (Upper Rush the morning after: the dozen riders, Calder under Sorrel talking about bees, Hollin's "Ask your uncle", the ruts to the bank, Lisska's three passes and Wren with the two cups, the knights' column and the patrol boat, the handshake, "Come to the harvest fair"), 6 (the two fires, the empty chair with the grey cloak, the bard and Gullhaven, the bench by the doors, the ledge with the three pairs, "I'll get them at the ford, where nobody's watching", "Then I'll stand in the middle"), 8 (Coldtarn at the new moon; who pours; "Pour with him"; Sigrun's word to Calder that Teo will want witnesses), 10 (the hired hands, twenty-two since the funeral; the ledge; witnesses; "four days after your fair, at noon"; Teo turning on the last step and saying it aloud three paces from a hired man mending a halter, whom he nods to without seeing; "Be careful. At the ford."), 12 (the fair: Wren swung up, the dances, Ada's song with the hush, Hob's Greyhold boat, "After. All right. I'll hold you to it."), 14 (day 4: clear and cold, frost in the hollows, geese; Teo rode down alone before light to be first in the water; his six told to come in the afternoon; Ulric lay the night at the Ram's Head and came up the Way from the south, Arn down from the hold; the bay; the knife with the hound on the pommel; the sword on the saddle); 16 ("One night. I'd better make it a good one."; Imra on the stable roof and the apples; Rook drew his wages the night before and went before light); 18 and 60 ("They'll go together, those two. You watch."); 28 (the bay in the chief's stall, a boy who feeds it and cries); 48 ("Get off my stable, you green menace"); Book 2 ch 19 (Ulric's own horse lines); Book 3 ch 15, 18 (Teo on the Choosing Ledge at fifteen, laughing down the stair; the third ledge; Arn always lost to Teo and never minded); World.md (Calendar; the Drover's Way distances: the ford six leagues below Varrhold, a league above the Ram's Head; the falls three leagues below the hold).
 Must not reveal: who kills Teo, or anything of Rook beyond Book 1 ch 10 (a hired hand of Ulric's on a bucket by the lower stable door, mending a halter, nodded to and not seen); the Restoration's part in the Clan war; anything after first light on day 4. Nothing of the twins, the Council or Titans.
 Decided here:
@@ -198,7 +199,7 @@ Teo walked the space.
 
 He hadn't decided to. It was only that every time he came into the yard he had to cross it, and it seemed foolish to walk all the way round. So he walked across it, through the middle, past the pyre, with a jug. He stopped at the east fire and asked Ulric's riders about their horses, and at the west fire and asked Arn's about their women, and he laughed at both, and filled cups at both, and went on. After a while he understood that people were watching him do it, both sides, and that something in them let go a little when he did, and he went on doing it.
 
-It was like walking out on Coldtarn's ice in a hard winter, when the edges froze. You went easy and careful at once. You didn't stop in the middle.
+It was like walking out on the beck's ice in a hard winter, when the edges froze. You went easy and careful at once. You didn't stop in the middle.
 
 ---
 
@@ -408,7 +409,7 @@ The bee man came back with the first of the new barley, eleven days after the ta
 
 Teo took him up the cliff.
 
-Lisska came out of the cave when she saw him like a pour of green water and put her nose against his chest so hard that he rocked back, and Teo had to catch his arm. Imra went quiet after, and said in an odd voice that Lisska liked him. *She's never said she likes anyone who wasn't Clan. Not once. In nine years.* And at the back of the cave Aurveth opened her eye and kept it open.
+Lisska came out of the cave when she saw him like a pour of green water and put her nose against his chest, gently, so that he rocked back, and Teo had to catch his arm. Imra went quiet after, and said in an odd voice that Lisska liked him. *She's never said she likes anyone who wasn't Clan. Not once. In twelve years.* And at the back of the cave Aurveth opened her eye and kept it open.
 
 Teo sat down by the brazier and pulled the farmer down beside him and told him.
 

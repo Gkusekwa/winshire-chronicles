@@ -5,6 +5,7 @@ Tale: 8 (Within Book 1)
 POV: Liss Ashdown, Maren's mother, the ferrywoman at Greyhold landing
 When: Book 1, night 142 (Millbrook burning; Tam and Odo brought to the ferry house, ch 71) to sunrise on day 144 (the Titan flies, ch 79)
 Status: first draft (Oct 2026), about 12,300 words
+Canon-checked against the books: 29 Oct 2026.
 Depends on: Book 1 ch 3 (the rope spliced past counting, her hand on it every morning; words over running water go downriver; the ferry house with the red door; Liss "knows what your face does" when Maren counts strokes), 11 ("you lie still, and you count"), 27 and 31 (the crossing-words she lets go downriver; "Mind the step. Little ones in the middle"), 51 (she won't go out on a moonless night: "you can't see what's under you"), 54 and 62 (the Garrows and Harrow's End cross in the thaw), 55 (the river going out "and you'll think the world's ending"), 64 (the Staithe, Greta and Tolly, "River's lower than it was in my grandfather's day", Wren's dragons and their colours, "I do that with the river"), 65 (the scale; the red door; Maren takes Liss's skiff), 69 (Liss brings Bel's two up from the ferry house; ferrying people into the water-gate all day 142; Pell; "Tam"), 71 (night 142: Liss on the jetty with a lantern, Tam in her arms, Wren at the red door, the lamp over the door flaring, the burn-word taking too hard, "That's not right"; day 143: "For me. They know my boat", "Wren. Get her some bread", Maren leaving at dusk, the two colours of fire over the Ruin), 75 (Liss at the water-gate at dusk, in her boat, shouting for Hale by name; Hale told through the bars; Rowan rides out at dusk; Callis opens the river gate at the third hour; Cassian in off the river with three hundred; Thorne and her boar; the bells stop; Maren rides in on the lion; Lisska over the yard; the yard-stone lion; the Long Barn barricade with Old Grey in the gap; the lamps pulsing; Haverly and Kesh on the north tower stair), 76–78 (midnight, the two locks, the island falling, the chains going), 79 (first grey: the hole in the river, the Wend running into it from up and down; the Titan rises at sunrise; the heave; Redwatch cracks; Greyhold's inner wall splits; every lamp goes out; it flies north-east). Book 2 ch 2 (Wren at the ferry house with Liss since night 142; "Are we all here?"; Liss's mother's brass oil lamp; the ferry house, net-loft, smoke-house, slip, the post on the jetty), ch 4 (Tam comes up from Millbrook on day 1 with Odo on a door), ch 5 (Abe, Fisk's youngest, rowed over on the night of the gate), ch 6 ("She'd done it in the war... on nights with no moon, by feel"), ch 77 and 79 (Joby Marsh and his grandson; Mother Ketch: "Your mother's river took my man and my two boys"). Book 3 ch 80 (Liss and the ferry's windlass-pin; Maren counting the people in). Magic.md §3 (the toll from the worker), §10a (the surge, nights 142–143), the running-water rule.
 Must not reveal: nothing past Book 1. Liss knows only what Book 1 lets her know: no names for the lion or for what is under the river, nothing of the locks or the bond, nothing of the twins.
 Decided here:
@@ -237,7 +238,7 @@ She turned back to the grille and put her face to it, and said, "Osric Hale," on
 
 ---
 
-He came down out of the dark of the stores with a stick, slowly, an old man, broad, bigger than she'd thought, with a white beard spread on his chest. She'd seen him go up and down the landing for twenty years and never heard him speak. He put one big hand on the bars and leaned on them, and got his breath.
+He came down out of the dark of the stores with a stick, slowly, an old man, tall and stooped, taller than she'd thought, with a short white beard. She'd seen him go up and down the landing for twenty years and never heard him speak. He put one big hand on the bars and leaned on them, and got his breath.
 
 "Nobody shouts for me by name," he said. "Joby found me. He said there was a woman on the water-gate stair calling it out like the price of eels." He looked at her through the grille. "You're the ferry."
 
@@ -573,7 +574,7 @@ She was on the jetty at the fourth crossing, at the head of the line, with the p
 
 "There's nothing over there but Greta, and she only wants paying."
 
-"Your river took my man," said Mother Ketch. "And my two boys. Off the flats, one winter. I'll not go on it." She turned round, slowly, and began to push back along the jetty through the people waiting, who parted for her. "I'll go in the stone."
+"Your river took my man," said Mother Ketch. "And my two boys. Off the eel-weir, in the flood, thirty years back. I'll not go on it." She turned round, slowly, and began to push back along the jetty through the people waiting, who parted for her. "I'll go in the stone."
 
 "Mother…"
 

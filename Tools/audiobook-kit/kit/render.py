@@ -711,6 +711,7 @@ def main():
             notes.append(f"noise floor about {floor:.0f} dBFS (gaps inside takes)" + ("" if floor < -55 else "  <- hiss or hum between words? (listen)"))
         return notes, fails
 
+    narrator_bytes = open(ref_for("Narrator"), "rb").read() if os.path.exists(ref_for("Narrator")) else b""
     if not os.path.exists(ref_for("Narrator")):
         sys.exit(f"Missing the narrator's reference clip: {ref_for('Narrator')} (set \"narrator\" in {cfg.CONF}).")
 
@@ -746,15 +747,24 @@ def main():
         # everything that changes the sound, and nothing else: the script's segments, the name respellings, the
         # narrator clip, the renderer's sound version and the run's options. (Not the files themselves: the kit
         # adds bookkeeping to scripts and new names to the lexicon, and those mustn't make a chapter look changed.)
-        h = hashlib.sha1()
-        h.update(json.dumps(json.load(open(src, encoding="utf-8"))["segments"], sort_keys=True, ensure_ascii=False).encode())
-        h.update(json.dumps(sorted([g, a] for g, a in name_pairs() if a), ensure_ascii=False).encode())
-        h.update(open(ref_for("Narrator"), "rb").read())
-        h.update(json.dumps({"cast": use_cast, "narrator_ref": narrator_ref, "render": RENDER_VERSION}).encode())
-        digest = h.hexdigest()
+        segs_json = json.dumps(json.load(open(src, encoding="utf-8"))["segments"], sort_keys=True, ensure_ascii=False)
+        all_text = " ".join(x["text"] for x in json.load(open(src, encoding="utf-8"))["segments"]).replace("’", "'")
+
+        def fingerprint(pairs):
+            h = hashlib.sha1()
+            h.update(segs_json.encode())
+            h.update(json.dumps(pairs, ensure_ascii=False).encode())
+            h.update(narrator_bytes)
+            h.update(json.dumps({"cast": use_cast, "narrator_ref": narrator_ref, "render": RENDER_VERSION}).encode())
+            return h.hexdigest()
+        # only the respellings of names this chapter says: changing one name redoes only the chapters it's in
+        respelt = sorted([g, a] for g, a in name_pairs() if a)
+        digest = fingerprint([[g, a] for g, a in respelt if re.search(r"\b" + re.escape(g) + r"\b", all_text)])
         mp3 = os.path.join(OUT, f"{n:02d}.mp3")
         prev = manifest.get(f"{n:02d}")
         prev = prev if isinstance(prev, dict) else {"digest": prev, "status": "UNKNOWN"}
+        if prev.get("digest") and prev.get("digest") != digest and prev.get("digest") == fingerprint(respelt):
+            prev["digest"] = digest          # made before fingerprints were per chapter: same inputs, new form
         if "--skip-done" in args and os.path.exists(mp3) and prev.get("digest") == digest and prev.get("status") == "PASS":
             print(f"{n:02d}: up to date and passed, skipped"); continue
         script = json.load(open(src, encoding="utf-8"))

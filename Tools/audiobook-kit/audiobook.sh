@@ -27,6 +27,7 @@
 #  14  accept chapters after listening (marks them PASS, so they're kept)  ... 14 7   or  ... 14 2-10
 #  15  scan the scripts for lines likely to go wrong, before building    ... 15
 #  16  export the passing chapters for upload, with full names            ... 16   (audiobook/release/)
+#  17  hear a name said several ways, to choose its respelling            ... 17 Maren   or  ... 17 "Maren Mairen Mare-en"
 # Everything it makes goes in "My Book/audiobook/": book.json, annotations/, Lexicon.csv, Performance/ and out/ (the MP3s and check reports)
 # (title, author, where the chapters are, names, narrator clip; made on the first run, edit it freely).
 set -e
@@ -85,7 +86,8 @@ if [ -z "$choice" ]; then
   echo " 14) Accept chapters after listening to their doubtful lines"
   echo " 15) Scan the scripts for lines likely to go wrong"
   echo " 16) Export the finished chapters for upload, with full names"
-  read -r -p "Choose 1-16: " choice
+  echo " 17) Hear a name said several ways, to choose its respelling"
+  read -r -p "Choose 1-17: " choice
 fi
 
 case "$choice" in
@@ -149,7 +151,13 @@ case "$choice" in
   16)
     python3 "$KIT/kit/export.py" --book "$BOOK" $chapters
     exit 0 ;;
-  *) echo "Choose 1 to 16."; exit 1 ;;
+  17)
+    [ -n "$chapters" ] || read -r -p "Name to test, and optionally spellings to try (e.g. Maren, or: Maren Mairen Mare-en): " chapters
+    ensure_setup
+    export PYTORCH_ENABLE_MPS_FALLBACK=1
+    "$PYV" "$KIT/kit/names.py" --book "$BOOK" $chapters
+    exit 0 ;;
+  *) echo "Choose 1 to 17."; exit 1 ;;
 esac
 
 ensure_setup

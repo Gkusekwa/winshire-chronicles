@@ -29,6 +29,7 @@ Or copy the `audiobook-kit` folder next to a book's `Chapters/` and run `bash "M
  14) Accept chapters after listening to their doubtful lines
  15) Scan the scripts for lines likely to go wrong
  16) Export the finished chapters for upload, with full names
+ 17) Hear a name said several ways, to choose its respelling
 ```
 
 Or give the choice directly: `... 1 7` (chapter 7, verified), `... 3 2-10` or `... 3 2,5,9` (several), `... 5` (the whole book), `... 7 all` (verify everything built).
@@ -130,6 +131,7 @@ One voice reads every character; each paragraph is read whole, so dialogue keeps
 
 - **title**, **author**, **series** (e.g. "The Winshire Chronicles, Book Two"), **next** (the book that follows) and **copyright** (the year): read in the opening and closing credits, and written into each chapter's tags. Set them before building; the first run guesses the title from the folder's name.
 - **italics**: what italic speech with "said" is: `thought`, or `bond` for mind-to-mind speech.
+- **Choosing a respelling (option 17):** `... 17 Maren` reads test sentences with the name as written, its current respelling and a few variants (or the spellings you give: `... 17 "Maren Mairen Mare-en"`), into `audiobook/out/names_Maren.mp3`, and lists what the recogniser heard for each. A changed respelling remakes only the chapters that use the name.
 - **names**: the lexicon (`Lexicon.csv`, or a `.pls` lexicon with aliases).
 - **narrator**: the narrator's voice, as a clean 8–15-second WAV of one person reading plainly. The default is `audiobook-kit/voices/narrator.wav`. Keep it unchanged for a whole book: a different clip means a different narrator.
 - **scripts**: a folder of ready-made reading scripts to read as they are, instead of making `Performance/`.

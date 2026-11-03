@@ -414,6 +414,7 @@ def accept(args):
                   " overrule. Build it again."); continue
         e.update(status="PASS", reasons=["accepted after listening"] + [r for r in e.get("reasons", []) if r != "accepted after listening"])
         manifest[f"{n:02d}"] = e
+        cfg.save_manifest_entry(f"{n:02d}", e)
         import datetime
         note = (f"ACCEPTED after listening ({datetime.date.today().isoformat()}): the chapter now counts as PASS."
                 " The report below is from the automatic check, kept as it was.\n\n")
@@ -424,7 +425,6 @@ def accept(args):
                 if not old.startswith("ACCEPTED"):
                     open(rp, "w", encoding="utf-8").write(note + old)
         print(f"{n:02d}: accepted (PASS); a resumed build will keep it")
-    json.dump(manifest, open(man_path, "w"), indent=1)
 
 
 def retag(args):
@@ -490,7 +490,7 @@ def main():
     if not no_verify:
         try:
             from faster_whisper import WhisperModel
-            asr = WhisperModel(os.environ.get("WORDCHECK_MODEL", "small.en"), device="cpu", compute_type="int8")
+            asr = cfg.whisper_model(os.environ.get("WORDCHECK_MODEL", "small.en"))
             print("word check: on (Whisper", os.environ.get("WORDCHECK_MODEL", "small.en") + ")")
         except Exception as e:
             sys.exit(f"The word check (faster-whisper) didn't load: {e}\n"
@@ -796,8 +796,7 @@ def main():
                      "Passages (listen to every STILL DOUBTFUL one; names are not checked by ear-free tools):\n"
                      + "\n".join(checks) + "\n")
         print(f"{n:02d}: {status}" + (f" ({', '.join(reasons)})" if reasons else "") + f"; {doubtful} doubtful, {len(checks) - doubtful} fixed on retry; " + "; ".join(notes))
-        manifest[f"{n:02d}"] = {"digest": digest, "status": status, "reasons": reasons}
-        json.dump(manifest, open(man_path, "w"), indent=1)
+        manifest = cfg.save_manifest_entry(f"{n:02d}", {"digest": digest, "status": status, "reasons": reasons})
         free_memory()
 
 

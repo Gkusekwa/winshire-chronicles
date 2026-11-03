@@ -59,9 +59,15 @@ ensure_ollama() {
   fi
 }
 
+# a Mac, or Linux with an NVIDIA GPU (a rented cloud GPU)
+if [ "$(uname)" = Darwin ]; then SETUP="$KIT/setup_mac.sh"; AWAKE="caffeinate -i"
+else SETUP="$KIT/setup_linux.sh"; AWAKE=""; fi
+[ -f "$HOME/chatterbox/cuda_libs.sh" ] && . "$HOME/chatterbox/cuda_libs.sh"
+
 ensure_setup() {
   if [ ! -x "$PYV" ] || ! "$PYV" -c "import chatterbox, faster_whisper, perth; assert perth.PerthImplicitWatermarker" 2>/dev/null; then
-    bash "$KIT/setup_mac.sh"
+    bash "$SETUP"
+    [ -f "$HOME/chatterbox/cuda_libs.sh" ] && . "$HOME/chatterbox/cuda_libs.sh"
   fi
 }
 
@@ -107,7 +113,7 @@ case "$choice" in
     "$PYV" "$KIT/kit/verify.py" "$chapters" --book "$BOOK"
     exit 0 ;;
   8) chapters="--audition" ;;
-  9) bash "$KIT/setup_mac.sh"; exit 0 ;;
+  9) bash "$SETUP"; exit 0 ;;
   10)
     [ -n "$chapters" ] || read -r -p "Chapters to tag (e.g. 1, 2-10, or all): " chapters
     [ "$chapters" = "all" ] && chapters="--all"
@@ -131,7 +137,7 @@ case "$choice" in
     if [ "$choice" = 11 ]; then
       echo "==> Annotating with $model (it reads every chapter; a whole book takes some hours, and you can stop"
       echo "    with Ctrl-C and run it again: finished chapters are kept)"
-      caffeinate -i python3 "$KIT/kit/director.py" --book "$BOOK" "$chapters" --model "$model"
+      $AWAKE python3 "$KIT/kit/director.py" --book "$BOOK" "$chapters" --model "$model"
     else
       python3 "$KIT/kit/director.py" --book "$BOOK" --compare "$chapters" --model "$model"
     fi
@@ -166,4 +172,4 @@ case "$choice" in 2|4|6) args+=("--no-verify") ;; esac
 case "$choice" in 3|4|5|6) args+=("--skip-done") ;; esac
 export PYTORCH_ENABLE_MPS_FALLBACK=1
 echo "==> Building: ${args[*]}  (loading the models takes a minute)"
-caffeinate -i "$PYV" "$KIT/kit/render.py" "${args[@]}"
+$AWAKE "$PYV" "$KIT/kit/render.py" "${args[@]}"

@@ -138,3 +138,23 @@ One voice reads every character; each paragraph is read whole, so dialogue keeps
 - **credits**: false leaves out the opening and closing credits.
 
 Chatterbox adds an inaudible watermark to its output (Resemble AI's Perth). Stores that accept AI narration still ask you to disclose it; the credits do ("Narrated by a digital voice"), and tick the store's synthetic-narration option too.
+
+## Building on a rented GPU
+
+A rented Linux machine with an NVIDIA GPU builds several times faster than a Mac, and `gpu.sh` uses every GPU on it at once. Any provider whose machines come with the NVIDIA driver works (RunPod, Vast.ai, Lambda and others; pick a "PyTorch" or "CUDA" template, with 50 GB or more of disk).
+
+1. **Before renting:** settle the respellings you're unsure of (option 17 on the Mac), and push the project to its git remote, so the machine gets the current annotations and lexicons.
+2. **On the machine** (in its terminal, or over SSH):
+   ```
+   git clone <your repository> "Winshire Chronicles" && cd "Winshire Chronicles"
+   ```
+   Upload the narrator's clip, which isn't in git, to `Tools/audiobook-kit/voices/narrator.wav` (the provider's file upload, or `scp`). To keep chapters already built on the Mac, upload each book's `audiobook/out/` folder too.
+3. **Start:**
+   ```
+   bash Tools/audiobook-kit/gpu.sh start "Book 1" "Book 2" "Book 3"
+   ```
+   The first run sets everything up (`setup_linux.sh`, a few minutes, and the models download once). The chapters still to build are shared among the GPUs, longest first, so the GPUs finish together; each builds verified, as option 5 does. The builds run in the background and carry on if the connection drops. `--per-gpu 2` runs two builds on each GPU, which usually gets more out of a 24 GB card.
+4. **Watch it:** `bash Tools/audiobook-kit/gpu.sh status` (what each worker last finished, and how busy each GPU is). `gpu.sh stop` stops it; `start` again carries on where it left off.
+5. **At the end:** `bash Tools/audiobook-kit/gpu.sh verify "Book 1" "Book 2" "Book 3"` re-checks every built chapter. Then download each book's `audiobook/out/` folder (about 60 MB per hour of audio) into the same place on the Mac, and stop the machine so it stops costing money. Listening, accepting (option 14) and exporting (option 16) are done on the Mac as usual.
+
+The voice is the same on any machine: it's cloned from the same clip with the same model version. Only the chance variations between takes differ, as they do between two builds on the Mac.

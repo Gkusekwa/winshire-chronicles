@@ -119,7 +119,7 @@ def main():
     from faster_whisper import WhisperModel
     model_name = os.environ.get("WORDCHECK_MODEL", "small.en")
     print(f"word check: Whisper {model_name}")
-    asr = WhisperModel(model_name, device="cpu", compute_type="int8")
+    asr = cfg.whisper_model(model_name)
     base_names = rc.name_words()
     prepare.main(quiet=True)
 
@@ -251,8 +251,7 @@ def main():
                 open(rp, "w", encoding="utf-8").write("Accepted after listening earlier, but it now fails a technical check"
                                                       " (not the words), so it counts as FAIL.\n\n" + report_text)
         prev.update(status=status, reasons=fails, verified="built file")
-        manifest[f"{n:02d}"] = prev
-        json.dump(manifest, open(man_path, "w"), indent=1)
+        manifest = cfg.save_manifest_entry(f"{n:02d}", prev)
         print(f"{n:02d}: {status}" + (f" ({', '.join(fails)})" if fails else "") +
               f"; {total} word differences ({rate:.1%}), {serious} to check; " + "; ".join(notes) +
               f"\n    report: {os.path.relpath(os.path.join(OUT, f'{n:02d}_verify.txt'), REPO)}")

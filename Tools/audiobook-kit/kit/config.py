@@ -97,3 +97,36 @@ def chapter_numbers():
 
 def script_path(n):
     return os.path.join(SCRIPTS, f"{n:02d}.json")
+
+
+def save_manifest_entry(key, value):
+    """Write one chapter's entry into out/manifest.json without losing entries written meanwhile by another build
+    (several GPUs can build the same book at once): lock, re-read, update, write atomically."""
+    import fcntl, tempfile
+    os.makedirs(OUT, exist_ok=True)
+    path = os.path.join(OUT, "manifest.json")
+    with open(path + ".lock", "w") as lock:
+        fcntl.flock(lock, fcntl.LOCK_EX)
+        try:
+            m = json.load(open(path))
+        except Exception:
+            m = {}
+        m[key] = value
+        fd, tmp = tempfile.mkstemp(dir=OUT, suffix=".json")
+        with os.fdopen(fd, "w") as fh:
+            json.dump(m, fh, indent=1)
+        os.replace(tmp, path)
+        return m
+
+
+def whisper_model(name):
+    """faster-whisper on the NVIDIA GPU when there is one (much faster), else on the CPU."""
+    from faster_whisper import WhisperModel
+    if os.environ.get("WORDCHECK_DEVICE", "") != "cpu":
+        try:
+            import ctranslate2
+            if ctranslate2.get_cuda_device_count() > 0:
+                return WhisperModel(name, device="cuda", compute_type="float16")
+        except Exception:
+            pass
+    return WhisperModel(name, device="cpu", compute_type="int8")

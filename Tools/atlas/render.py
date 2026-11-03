@@ -10,6 +10,30 @@ import marches_items as MI
 FONT = "'IM Fell English', 'IM FELL English', Georgia, serif"
 FONT_SC = "'IM Fell English SC', 'IM FELL English SC', Georgia, serif"
 
+_FONT_FILES = {}
+
+
+def text_width(text, size, fam, style="normal", letter_spacing=0.0):
+    """The width a label takes, measured with the real font when it's installed (else a fair estimate), so names
+    are placed by their true size and don't run into each other."""
+    import glob, html as _h
+    key = ("sc" if "SC" in fam else "en", "italic" if style == "italic" else "normal")
+    if key not in _FONT_FILES:
+        pat = {("sc", "normal"): "*fell*english*sc*normal*", ("en", "normal"): "*fell*english-latin-400-normal*",
+               ("en", "italic"): "*fell*english-latin-400-italic*"}.get(key, "")
+        files = [f for d in ("~/.fonts", "~/.local/share/fonts", "/usr/share/fonts", "/Library/Fonts", "~/Library/Fonts")
+                 for f in glob.glob(__import__("os").path.expanduser(d) + "/**/" + pat + ".[ot]tf", recursive=True)]
+        _FONT_FILES[key] = files[0] if files else None
+    t = _h.unescape(re.sub(r"<[^>]+>", "", text))
+    if _FONT_FILES[key]:
+        try:
+            from PIL import ImageFont
+            f = ImageFont.truetype(_FONT_FILES[key], size=max(1, round(size)))
+            return f.getlength(t) * size / max(1, round(size)) + letter_spacing * len(t)
+        except Exception:
+            pass
+    return len(t) * size * (0.52 if key[0] == "sc" else 0.47) + letter_spacing * len(t)
+
 VIEWS = {
     "realm":   dict(x0=-14, y0=-12, x1=334, y1=230, s=4.6),
     "marches": dict(x0=165, y0=84, x1=193, y1=124, s=30.0),
@@ -38,7 +62,7 @@ class Map:
         self.chapter, self.interactive, self.subtitle = chapter, interactive, subtitle
         self.placing = not interactive and not bare   # static map images: place labels without overlaps
         self.cap = chapter if chapter is not None else 10 ** 6
-        self.lq, self.obs = [], []
+        self.lq, self.obs, self.text_obs = [], [], []
         self.prog = (chapter is not None) or (interactive and view == "marches") or (interactive and view == "realm")
         self.fs = (1.25 if view == "marches" else 1.7) if chapter is not None else 1.0
         self.v = dict(box) if box else VIEWS[view]
@@ -472,11 +496,13 @@ class Map:
                     t = math.radians(rot)
                     bw, bh = abs(w * math.cos(t)) + abs(h * math.sin(t)), abs(w * math.sin(t)) + abs(h * math.cos(t))
                     self.obs.append((X - bw / 2, Y - bh / 2 - h * 0.3, X + bw / 2, Y + bh / 2 - h * 0.3))
+                    self.text_obs.append(self.obs[-1])
                 self.add(self.G(self.mi.LABEL_REVEAL.get(name, 1), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{fam}" font-style="{"normal" if name.isupper() else "italic"}" font-size="{sz*self.fs:.1f}" letter-spacing="{6 if name.isupper() else 1}" text-anchor="middle" fill="{col}" stroke="{c["land"]}" stroke-width="4" paint-order="stroke" transform="rotate({rot} {X:.1f} {Y:.1f})">{name}</text>'))
             if self.placing and self.cap >= getattr(self.mi, "CATACOMBS_CH", 27):
                 X, Y = self.P(174.2, 105.5)
-                w = 21 * 13 * self.fs * 0.45
+                w = text_width("the catacombs (below)", 13 * self.fs, FONT, "italic", 0) + 4
                 self.obs.append((X - w, Y - 13 * self.fs, X, Y + 4))
+                self.text_obs.append(self.obs[-1])
             if self.prog:
                 X, Y = self.P(174.2, 105.5)
                 self.add(self.G(getattr(self.mi, "CATACOMBS_CH", 27), f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{FONT}" font-style="italic" font-size="{13*self.fs:.1f}" text-anchor="end" fill="{c["secret"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke">the catacombs (below)</text>'))
@@ -805,7 +831,9 @@ class Map:
                 return (x - w, y - s * 0.8, x, y + s * 0.25)
             return (x - w / 2, y - s * 0.8, x + w / 2, y + s * 0.25)
         for L in sorted(self.lq, key=lambda d: -d["prio"]):
-            s = L["size"]; w = len(L["text"]) * s * 0.47
+            s = L["size"]
+            w = text_width(L["text"], s, L["fam"], L.get("style", "normal"), 0.5 if L.get("area") else 0.0) + 2
+            leader = False
             if L.get("area"):
                 cands = [(L["X"], L["Y"], "middle"), (L["X"], L["Y"] - s * 1.2, "middle"), (L["X"], L["Y"] + s * 1.2, "middle")]
             else:
@@ -815,11 +843,20 @@ class Map:
                 cands += [(X, Y - g - 2, "middle"), (X, Y + g + s * 0.8, "middle"),
                           (X + g * 0.7, Y - g * 0.7, "start"), (X - g * 0.7, Y - g * 0.7, "end"),
                           (X + g * 0.7, Y + g + s * 0.4, "start"), (X - g * 0.7, Y + g + s * 0.4, "end")]
+            near = len(cands)
+            if not L.get("area"):
+                # further out, in sixteen directions, joined to the dot by a thin line: used only when nothing near fits
+                for r in ((2.2, 3.4, 4.8, 6.4, 8.5, 11) if L.get("force") else (2.2, 3.4, 4.8, 6.4)):
+                    for k in range(16):
+                        ang = k * math.pi / 8
+                        dx, dy = math.cos(ang) * g * r, math.sin(ang) * g * r * 0.8
+                        a = "start" if dx > g * 0.3 else ("end" if dx < -g * 0.3 else "middle")
+                        cands.append((X + dx, Y + dy + s * 0.35, a))
             spot = None
-            for (x, y, a) in cands:
+            for i_c, (x, y, a) in enumerate(cands):
                 b = box(x, y, w, s, a)
                 if not overlaps(b):
-                    spot = (x, y, a, b); break
+                    spot = (x, y, a, b); leader = i_c >= near; break
             if spot is None:
                 if not L.get("force"):
                     continue
@@ -832,18 +869,33 @@ class Map:
                     for (a0, b0, a1, b1) in self.obs:
                         if x0 < a1 and x1 > a0 and y0 < b1 and y1 > b0:
                             n += 1
+                    for (a0, b0, a1, b1) in self.text_obs:      # names drawn elsewhere count like placed names
+                        if x0 < a1 and x1 > a0 and y0 < b1 and y1 > b0:
+                            n += 9
                     if x0 < 16 or x1 > self.W - 16 or y0 < 16 or y1 > self.H - 16:
                         n += 100
                     for (a0, b0, a1, b1) in getattr(self, "hard_obs", ()):
                         if x0 < a1 and x1 > a0 and y0 < b1 and y1 > b0:
                             n += 60
                     return n
-                x, y, a = min(cands, key=lambda c3: crowd(box(c3[0], c3[1], w, s, c3[2])))
+                # least crowded of all the spots, near or far: running into another name counts most, crossing a
+                # river or a symbol little; nearer spots win a tie
+                i_best = min(range(len(cands)), key=lambda i: (crowd(box(cands[i][0], cands[i][1], w, s, cands[i][2])), i >= near, i))
+                x, y, a = cands[i_best]
+                leader = i_best >= near
+                if __import__("os").environ.get("DEBUG_LABELS"):
+                    print("forced:", L["text"], crowd(box(x, y, w, s, a)), file=__import__("sys").stderr)
                 if getattr(self, "hard_obs", None) and crowd(box(x, y, w, s, a)) >= 60:
                     continue      # later books: never under the cartouche, scale bar or compass, nor off the edge
                 spot = (x, y, a, box(x, y, w, s, a))
             x, y, a, b = spot
             placed.append(b)
+            if leader:
+                # a thin line from the dot to the nearest point of the name's box
+                lx = min(max(L["X"], b[0]), b[2]); ly = min(max(L["Y"], b[1]), b[3])
+                dx, dy = lx - L["X"], ly - L["Y"]; d = math.hypot(dx, dy) or 1
+                sx, sy = L["X"] + dx / d * L["g"] * 0.55, L["Y"] + dy / d * L["g"] * 0.55
+                self.add(f'<line x1="{sx:.1f}" y1="{sy:.1f}" x2="{lx:.1f}" y2="{ly:.1f}" stroke="{c["label"]}" stroke-width="0.8" opacity="0.8"/>')
             ls = ' letter-spacing="0.5"' if L.get("area") else ""
             self.add(f'<text x="{x:.1f}" y="{y:.1f}" font-family="{L["fam"]}" font-style="{L["style"]}" font-size="{s:.1f}" text-anchor="{a}"{ls} fill="{L["col"]}" stroke="{c["land"]}" stroke-width="3" paint-order="stroke">{L["text"]}</text>')
 
@@ -882,7 +934,8 @@ class Map:
 
 
 REALM_HIDE = {"millbrook", "catacombs"}
-REALM_LABEL = {"hallowmere": (-1, -0.6), "greyhold": (-1, 1.2), "oldruin": (0.5, -1.5), "harrowsend": (0.4, -1.6), "ashford": (-1, -0.2), "cotterscross": (0.3, 0.4)}
+REALM_LABEL = {"hallowmere": (-1, -0.6), "greyhold": (-1, 1.2), "oldruin": (0.5, -1.5), "harrowsend": (0.4, -1.6), "ashford": (-1, -0.2), "cotterscross": (0.3, 0.4),
+               "longlibrary": (4, 4.5)}   # below Vael, clear of ISVAREN
 
 def point_in(poly, x, y):
     inside = False

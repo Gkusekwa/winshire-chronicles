@@ -222,6 +222,7 @@ class CloseMap(Map):
         if not (bw / 2 + 14 < X < self.W - bw / 2 - 14 and bh / 2 + 14 < Y < self.H - bh / 2 - 14):
             return False
         self.obs.append((X - bw / 2, Y - bh / 2 - size * 0.3, X + bw / 2, Y + bh / 2 - size * 0.3))
+        self.text_obs.append(self.obs[-1])
         self.add(f'<text x="{X:.1f}" y="{Y:.1f}" font-family="{fam}" font-style="{style}" font-size="{size:.1f}" letter-spacing="{ls}" text-anchor="middle" '
                  f'fill="{col}" stroke="{self.c["land"]}" stroke-width="4" paint-order="stroke" transform="rotate({rot} {X:.1f} {Y:.1f})">{html_esc(name)}</text>')
         return True

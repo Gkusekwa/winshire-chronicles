@@ -22,7 +22,7 @@
 - **Images:** about 160 images in Book 1 (79 openers and 79 maps, plus front matter), about 177 in Book 2 and 173 in Book 3 (their 88 and 86 openers and maps, plus front matter). Keep them lean: greyscale PNG or JPEG about 1,600 px wide, because many readers use black-and-white e-ink screens.
 - **Delivery fee:** under KDP's 70% royalty option, Amazon charges a delivery fee per megabyte of the ebook file, so compress every image and check the file size before upload. (Check current rates.)
 - **Preview** on an e-ink Kindle, a phone and a tablet before release.
-- **The ebooks are built** *(Nov 2026)*: an EPUB for the stores and a PDF with page numbers (for proofreading and advance review copies) for every book in every edition, in `Book N/{Bone,Night,Band}/`. Books 2 and 3 were rebuilt on 2 November 2026 after the last text fixes. **Before upload, compress the EPUBs:** they are 23–27 MB, mostly images, and KDP's delivery fee is charged per megabyte.
+- **The ebooks are built** *(Nov 2026)*: an EPUB for the stores and a PDF with page numbers (for proofreading and advance review copies) for every book in every edition, in `Book N/{Bone,Night,Band}/`. Books 2 and 3 were rebuilt on 2 November 2026 after the last text fixes. **Upload the Kindle copies:** the full-size EPUBs are 23–27 MB, mostly images, and KDP's delivery fee is charged per megabyte, so each book also has `Book N/Kindle/`, one compressed EPUB per edition (about 9–10 MB; made by `Tools/ebook/kindle_compress.py`, checked with epubcheck). Upload those to KDP; keep the full-size files for other stores and your archive. All three books were rebuilt on 3 November 2026 with the corrected maps (no overlapping names).
 
 ## From draft to published book
 

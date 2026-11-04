@@ -455,6 +455,21 @@ def main():
     import numpy as np, torch
     import gc, time
 
+    # On a Mac, PyTorch's graphics memory keeps growing in a long run even when the cache is emptied (60 GB after
+    # 37 chapters of Book 1, with the Mac swapping). So each chapter is made in a fresh process, which gives all of
+    # it back to the system when it ends. Costs about a minute per chapter to load the models again.
+    want = cfg.chapter_numbers() if "--all" in args else sorted(set(chapter_list(args)))
+    if (len(want) > 1 and "--audition" not in args and not os.environ.get("KIT_ONE_CHAPTER")
+            and not torch.cuda.is_available() and torch.backends.mps.is_available()):
+        rest = [a for a in args if a != "--all" and not re.fullmatch(r"[\d,\-]+", a)]
+        print(f"{len(want)} chapters, each in a fresh process (so memory doesn't build up)", flush=True)
+        for n in want:
+            r = subprocess.run([sys.executable, os.path.abspath(__file__), str(n)] + rest,
+                               env=dict(os.environ, KIT_ONE_CHAPTER="1"))
+            if r.returncode:
+                sys.exit(f"Stopped at chapter {n:02d}. Run the same option again to carry on: finished chapters are kept.")
+        return
+
     def free_memory():
         """Give the graphics memory PyTorch has cached back to the system. On a Mac (MPS) it otherwise keeps
         growing over hours of rendering, until the system runs out (Book 1 ch5: 37 GB)."""

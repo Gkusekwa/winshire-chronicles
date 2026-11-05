@@ -464,7 +464,7 @@ def main():
         rest = [a for a in args if a != "--all" and not re.fullmatch(r"[\d,\-]+", a)]
         print(f"{len(want)} chapters, each in a fresh process (so memory doesn't build up)", flush=True)
         for n in want:
-            r = subprocess.run([sys.executable, os.path.abspath(__file__), str(n)] + rest,
+            r = subprocess.run([sys.executable, os.path.abspath(__file__), str(n), "--book", cfg.BOOK] + rest,
                                env=dict(os.environ, KIT_ONE_CHAPTER="1"))
             if r.returncode:
                 sys.exit(f"Stopped at chapter {n:02d}. Run the same option again to carry on: finished chapters are kept.")
